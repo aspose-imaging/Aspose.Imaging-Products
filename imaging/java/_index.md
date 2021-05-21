@@ -1,0 +1,330 @@
+---
+title: Java Imaging API | Draw Manipulate and Transform Images 
+weight: 1910
+url: /java/ 
+---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/upper-banner h1="Java library and API for Image Processing" h2="Create, load, manipulate or convert images without requiring any image editor." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/header/aspose_imaging-for-java.png" pfName="Aspose.Imaging" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/imaging/java" >}}
+
+{{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Java" >}}
+
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-java.png" liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://purchase.aspose.com/pricing/imaging/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/imaging/java/" instalationsDocsLink="https://docs.aspose.com/imaging/java/installation" nugetLink="" nugetPackageName="Raster Formats:" >}}
+
+{{< blocks/products/pf/tab-content >}}
+<p>Aspose.Imaging for Java is a flexible, stable and powerful API, capable of processing the most commonly used formats along with some special formats such as DjVu, DICOM, WebP & DNG.</p>
+{{< /blocks/products/pf/tab-content >}}
+
+<!--Diagrams Start-->
+{{< blocks/products/pf/carousel >}}
+
+{{< blocks/products/pf/carousel-item h3="" description="" >}}
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< /blocks/products/pf/carousel >}}
+<!--Diagrams End-->
+
+<!--Feature-section Start-->
+<div class="container-fluid features-section bg-gray singleproduct">
+ <a class="anchor" id="features" name="features">
+ </a>
+ <div class="row">
+  <div class="container">
+   <h2 class="pr-ft">
+    Advanced Java Images Processing Library Features
+   </h2>
+   <p>
+   </p>
+   <div class="col-lg-4">
+    <div class="fa fa-image ico-blue fa-2x col-lg-2">
+    </div>
+    <p class="col-lg-10">
+     Create, load &amp; edit images
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <div class="fa fa-mail-forward ico-blue fa-2x col-lg-2">
+    </div>
+    <p class="col-lg-10">
+     Convert images to a variety of formats
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <div class="fa fa-filter ico-blue fa-2x col-lg-2">
+    </div>
+    <p class="col-lg-10">
+     Various image filters and effects (gaussian, blur, median, grayscale, binarization, dithering etc)
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <div class="fa fa-crop ico-blue fa-2x col-lg-2">
+    </div>
+    <p class="col-lg-10">
+     Crop, resize &amp; rotate-flip
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <div class="fa fa-align-center ico-blue fa-2x col-lg-2">
+    </div>
+    <p class="col-lg-10">
+     Image deskew
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <div class="fa fa-image ico-blue fa-2x col-lg-2">
+    </div>
+    <p class="col-lg-10">
+     Support animated multi-frame images
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <div class="fa fa-clone ico-blue fa-2x col-lg-2">
+    </div>
+    <p class="col-lg-10">
+     Uniform image page (frame) processing
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <div class="fa fa-circle-thin ico-blue fa-2x col-lg-2">
+    </div>
+    <p class="col-lg-10">
+     Draw images using Graphics (graphics path and different geometric shapes)
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <div class="fa fa-road ico-blue fa-2x col-lg-2">
+    </div>
+    <p class="col-lg-10">
+     Image masking
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <div class="fa fa-database ico-blue fa-2x col-lg-2">
+    </div>
+    <p class="col-lg-10">
+     Memory optimization strategies
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <div class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
+    </div>
+    <p class="col-lg-10">
+     Draw text while controlling the font aspects
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <div class="fa fa-font ico-blue fa-2x col-lg-2">
+    </div>
+    <p class="col-lg-10">
+     Save SVG with fonts embedded or exported
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Image Format Conversion in an Easy Way
+    </h2>
+    <p>
+     Aspose.Imaging for Java API provides an array of advanced algorithms encapsulated by specialized classes for format conversion. These classes can convert images to conventional raster formats as well as to PSD, SVG, DjVu, DICOM, WMF, EMF, DNG, &amp; WebP formats and are simple to use.
+    </p>
+    <div class="codeblock" id="code">
+     <h3>
+      Save the image in multiple formats - Java
+     </h3>
+     <pre><code class="java">// load document for conversion
+
+Image img = Image.load(dir + "template.jpg");
+
+// JPG to PSD Conversion
+
+img.save(dir + "output.png", new PngOptions());
+
+// JPG to TIFF format
+
+img.save(dir + "output.tiff", new TiffOptions(TiffExpectedFormat.Default));
+
+// convert jpg to SVG format
+
+SvgOptions svgOptions = new SvgOptions();
+
+SvgRasterizationOptions svgRasterizationOptions = new SvgRasterizationOptions();
+
+svgRasterizationOptions.setPageWidth(img.getWidth());
+
+svgRasterizationOptions.setPageHeight(img.getHeight());
+
+svgOptions.setVectorRasterizationOptions(svgRasterizationOptions);
+
+img.save(dir + "output.svg", svgOptions);</code></pre>
+    </div>
+   </div>
+   <!--<div class="col-lg-12">
+
+<h2 class="h2title">Draw Images On the Fly</h2>
+
+<p>Aspose.Imaging for Java supports an advanced set of drawing features along with the core functionality. Developers can draw on the image surface either by manipulating the pixel information or by using the advanced functionality like graphics and paths.</p>
+
+<p>Aspose.Imaging for Java API enables you to easily draw lines, curves, rectangles & other geometric shapes, fill closed shapes with solid colors or gradients & textures, draw text with options for fine control over the font and compose images by drawing of one image on another.</p>
+
+</div>-->
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Register Custom File Formats
+    </h2>
+    <p>
+     Another promising feature that Aspose.Imaging for Java API provides is to register custom formats. The library allows the developers to register new custom file formats to create, open or export to by using one of  Aspose.Imaging for Java registry APIs for the corresponding operation. This feature allows the addition of new file formats that can be used for drawing and export purposes.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Edit photos
+    </h2>
+    <p>
+     Aspose.Imaging provides ability to load, edit, process and save photos. Using library you can easily edit loaded photos, apply filters, manipulate them using Graphics and Paths. Using Aspose.Imaging, you can easily filter photos.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Compress images
+    </h2>
+    <p>
+     Aspose.Imaging for .NET supports compressed vector images. They are vector images of the EMF, WMF, SVG formats compressed using a zip archiver. Their size averages from 30-70% of the original. This saves space on media and reduces file transfer time over the network.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Create image, manipulate and save it to disk
+    </h2>
+    <p>
+     Using Aspose.Imaging for Java you can easily create images with specified parameters, manipulate them and save.
+    </p>
+    <div class="codeblock" id="code">
+     <h3>
+      Create png image, manipulate it and save - Java
+     </h3>
+     <pre><code class="java">int width = 500;
+
+int height = 300;
+
+
+
+// Where created image to store
+
+String path = "C:/createdImage.png";
+
+// Create options
+
+try (PngOptions options = new PngOptions())
+
+{
+
+	options.setSource(new FileCreateSource(path, false));
+
+
+
+	try (PngImage image = (PngImage)Image.create(options, width, height))
+
+	{          
+
+		 // Create and initialize an instance of Graphics class 
+
+		 // and Clear Graphics surface
+
+		 Graphics graphic = new Graphics(image);
+
+		 graphic.clear(Color.getGreen());
+
+		 // Draw line on image
+
+		 graphic.drawLine(new Pen(Color.getBlue()), 9, 9, 90, 90);
+
+
+
+		 // Resize image
+
+		 int newWidth = 400;
+
+		 image.resizeWidthProportionally(newWidth, ResizeType.LanczosResample);  
+
+
+
+		 // Crop the image to specified area
+
+		com.aspose.imaging.Rectangle area = new com.aspose.imaging.Rectangle(10,10,200,200);
+
+		image.crop(area);
+
+	   
+
+		image.save();
+
+	}
+
+};</code></pre>
+    </div>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Extract Data from TIFF Formats
+    </h2>
+    <p>
+     The image processing library allows data recovery from broken TIFF with some loss. API loads TIFF file having corrupted data strips or improper data layout and replaces corrupted data with some color. Developers can further process the resultant image without experiencing errors using the API.
+    </p>
+   </div>
+   <!-- 
+
+<div class="col-lg-12">
+
+<h2 class="h2title">All JDK Version Supported</h2>
+
+<p>Aspose.Imaging for Java together with <a href="/imaging/net">Aspose.Imaging for .NET</a> covers the main development environments and deployment platforms in common use today. Aspose.Imaging for Java will run on any place where Java Runtime is installed, and it is compatible with JDK1.6 and above.</p>
+
+</div>
+
+-->
+  </div>
+ </div>
+</div>
+<!--Feature-section End-->
+
+{{< /blocks/products/pf/main-container >}}
+
+{{< blocks/products/pf/testimonials title="" subTitle="" >}}
+
+{{< blocks/products/pf/testimonials-quote >}}
+{{< /blocks/products/pf/testimonials-quote >}}
+
+{{< /blocks/products/pf/testimonials >}}
+
+{{< blocks/products/pf/support-learning-resources >}}
+{{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/imaging/java/" >}}
+{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-imaging/Aspose.Imaging-for-Java" >}}
+{{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/java/imaging" >}}
+{{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
+{{< /blocks/products/pf/slr-tab >}}
+
+{{< blocks/products/pf/slr-tab tabTitle="Product Support" tabId="support" >}}
+{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/imaging" >}}
+{{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/imaging/" >}}
+{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/imaging/java/release-notes/" >}}
+{{< /blocks/products/pf/slr-tab >}}
+
+{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Imaging for Java?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Success Stories" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< /blocks/products/pf/slr-tab >}}
+
+{{< /blocks/products/pf/support-learning-resources >}}
+
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/imaging/java" pricingInformationLink="https://purchase.aspose.com/pricing/imaging/java" >}}
+
+{{< blocks/products/pf/offers-section pfName="Aspose.Imaging offers individual Imaging APIs for other popular development environments as listed below:" >}}
+
+    {{< blocks/products/pf/offers-section-item link="/imaging/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-net.png" sdkName="Aspose.Imaging for .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/sharepoint" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-sharepoint.png" sdkName="Aspose.Imaging for SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/jasperreports" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-jasperreports.png" sdkName="Aspose.Imaging for SharePoint" >}}
+
+{{< /blocks/products/pf/offers-section >}}
+
+{{< /blocks/products/pf/main-wrap-class >}}
