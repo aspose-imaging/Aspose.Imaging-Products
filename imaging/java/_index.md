@@ -18,7 +18,278 @@ url: /java/
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="" description="" >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of the images manipulation library." >}}
+<div class="diagram1 d1-java">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-paint-brush">
+    </i>
+    Drawing Options
+   </header>
+   <ul>
+    <li>
+     Pixel Manipulation
+    </li>
+    <li>
+     Paths
+    </li>
+    <li>
+     Graphics
+    </li>
+   </ul>
+   <header>
+    <i class="fa fa-wrench">
+     _
+    </i>
+    Smart Imaging features
+   </header>
+   <ul>
+    <li>
+     Image masking
+    </li>
+    <li>
+     Image filters
+    </li>
+    <li>
+     Image deskew
+    </li>
+   </ul>
+   <header>
+    <i class="fa fa-clone">
+    </i>
+    Custom Image Format
+   </header>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-crop">
+    </i>
+    Image Processing
+   </header>
+   <ul>
+    <li>
+     Create
+    </li>
+    <li>
+     Load
+    </li>
+    <li>
+     Save
+    </li>
+    <li>
+     Resize
+    </li>
+    <li>
+     Rotate
+    </li>
+    <li>
+     Crop
+    </li>
+    <li>
+     Compress
+    </li>
+    <li>
+     Concatenate
+    </li>
+    <li>
+     Recover
+    </li>
+    <li>
+     Convert
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Image Java API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-java.png"/>
+  <header>
+   Aspose.Imaging
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.Imaging for Java supports the JDK 1.6 and above." >}}
+<div class="diagram1 d1-java">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    Java Runtime Environment
+   </header>
+   <ul>
+    <li>
+     JSP/JSF Web Applications
+    </li>
+    <li>
+     Desktop Applications
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Java Image Processing Library" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-java.png"/>
+  <header>
+   Aspose.Imaging
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Imaging for Java supports a wide range of conventional & special image [file formats](https://docs.aspose.com/imaging/java/supported-file-formats/)  ." >}}
+<div class="diagram1 d2 d1-java">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-arrows-v">
+    </i>
+    Input/Output
+   </header>
+   <ul>
+    <li>
+     <b>
+      Raster Formats:
+     </b>
+     JPEG2000, JPEG, BMP, TIFF, GIF, PNG, DICOM, TGA
+    </li>
+    <li>
+     <b>
+      Metafiles:
+     </b>
+     EMF, WMF
+    </li>
+    <li>
+     <b>
+      Compressed metafiles :
+     </b>
+     EMZ, WMZ
+    </li>
+    <li>
+     <b>
+      Others:
+     </b>
+     WebP, Svg, Svgz (compressed Svg)
+    </li>
+    <li>
+     <b>
+      Animation:
+     </b>
+     Apng
+    </li>
+   </ul>
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+    Output Only
+   </header>
+   <ul>
+    <li>
+     PDF
+    </li>
+    <li>
+     <b>
+      Photoshop:
+     </b>
+     PSD
+    </li>
+    <li>
+     Html5 Canvas
+    </li>
+    <li>
+     Dxf
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-long-arrow-down">
+    </i>
+    Input Only
+   </header>
+   <ul>
+    <li>
+     DjVu
+    </li>
+    <li>
+     DNG
+    </li>
+    <li>
+     ODG
+    </li>
+    <li>
+     EPS
+    </li>
+    <li>
+     WebP
+    </li>
+    <li>
+     CMX
+    </li>
+    <li>
+     CDR
+    </li>
+    <li>
+     DIB
+    </li>
+    <li>
+     OTG
+    </li>
+    <li>
+     FODG
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Java Imaging Library" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-java.png"/>
+  <header>
+   Aspose.Imaging
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< /blocks/products/pf/carousel >}}

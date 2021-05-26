@@ -90,6 +90,8 @@ using (var image = Aspose.Imaging.Image.Load("template.j2k"))
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Watermark J2K via Online App" sectionDescription="Add watermark to J2K documents by visiting our [Live Demos website](https://products.aspose.app/imaging/watermark). The live demo has the following benefits" >}}
@@ -105,6 +107,9 @@ A J2K file is an image that is compressed using the wavelet compression instead 
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

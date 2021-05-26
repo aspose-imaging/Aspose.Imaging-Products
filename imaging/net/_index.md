@@ -19,9 +19,6 @@ url: /net/
 {{< blocks/products/pf/carousel >}}
 
 {{< blocks/products/pf/carousel-item h3="At a Glance" description="Overview of API." >}}
-{{< /blocks/products/pf/carousel-item >}}
-
-{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.Imaging for .NET supports the .NET framework and .NET Standard" >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -126,7 +123,7 @@ url: /net/
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Imaging for .NET supports a variety of image file formats." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.Imaging for .NET supports the .NET framework and .NET Standard" >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -168,6 +165,129 @@ url: /net/
  <!--/row-->
  <div class="d1-logo">
   <img alt=".NET Image Processing API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-net.png"/>
+  <header>
+   Aspose.Imaging
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    .NET
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Imaging for .NET supports a variety of image [file formats](https://docs.aspose.com/imaging/net/supported-file-formats/)  ." >}}
+<div class="diagram1 d2 d1-net">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-arrows-v">
+    </i>
+    Input/Output
+   </header>
+   <ul>
+    <li>
+     <b>
+      Raster Formats:
+     </b>
+     JPEG2000, JPEG, BMP, TIFF, GIF, PNG, DICOM, TGA
+    </li>
+    <li>
+     <b>
+      Metafiles:
+     </b>
+     EMF, WMF
+    </li>
+    <li>
+     <b>
+      Compressed metafiles :
+     </b>
+     EMZ, WMZ
+    </li>
+    <li>
+     <b>
+      Other:
+     </b>
+     WebP, Svg, Svgz (compressed Svg)
+    </li>
+    <li>
+     <b>
+      Animation:
+     </b>
+     Apng
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-long-arrow-down">
+    </i>
+    Input Only
+   </header>
+   <ul>
+    <li>
+     DjVu
+    </li>
+    <li>
+     DNG
+    </li>
+    <li>
+     ODG
+    </li>
+    <li>
+     EPS
+    </li>
+    <li>
+     CMX
+    </li>
+    <li>
+     CDR
+    </li>
+    <li>
+     DIB
+    </li>
+    <li>
+     OTG
+    </li>
+    <li>
+     FODG
+    </li>
+   </ul>
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+    Output Only
+   </header>
+   <ul>
+    <li>
+     PDF
+    </li>
+    <li>
+     <b>
+      Photoshop:
+     </b>
+     PSD
+    </li>
+    <li>
+     Html5 Canvas
+    </li>
+    <li>
+     Dxf
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Image Processor C# Edit photo Edit image" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-net.png"/>
   <header>
    Aspose.Imaging
   </header>

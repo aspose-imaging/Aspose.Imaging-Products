@@ -26,11 +26,6 @@ url: /net/viewer/j2k/
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.+
--  Microsoft Windows or a compatible OS with .NET Framework, .NET Core, Windows Application, ASP.NET Web Application
--  Development environment like Microsoft Visual Studio
--  Aspose.Imaging for .NET referenced in your project
-
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="System Requirements" %}}
@@ -40,6 +35,10 @@ url: /net/viewer/j2k/
  Aspose.Imaging for .NET is supported on all major operating systems. Just make sure that you have the following prerequisites.
 
 {{% /blocks/products/pf/agp/text %}}
+
+-  Microsoft Windows or a compatible OS with .NET Framework, .NET Core, Windows Application, ASP.NET Web Application
+-  Development environment like Microsoft Visual Studio
+-  Aspose.Imaging for .NET referenced in your project
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -56,6 +55,8 @@ url: /net/viewer/j2k/
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Free App to View J2K" sectionDescription="Check our live demos to [View J2K](https://products.aspose.app/imaging/viewer/j2k) with following benefits." >}}
@@ -71,6 +72,9 @@ A J2K file is an image that is compressed using the wavelet compression instead 
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

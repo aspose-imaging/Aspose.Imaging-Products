@@ -90,6 +90,8 @@ using (var image = Aspose.Imaging.Image.Load("template.emf"))
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Watermark EMF via Online App" sectionDescription="Add watermark to EMF documents by visiting our [Live Demos website](https://products.aspose.app/imaging/watermark). The live demo has the following benefits" >}}
@@ -105,6 +107,9 @@ Enhanced metafile format (EMF) stores graphical images device-independently. Met
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -26,11 +26,6 @@ url: /net/viewer/svg/
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.+
--  Microsoft Windows or a compatible OS with .NET Framework, .NET Core, Windows Application, ASP.NET Web Application
--  Development environment like Microsoft Visual Studio
--  Aspose.Imaging for .NET referenced in your project
-
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="System Requirements" %}}
@@ -40,6 +35,10 @@ url: /net/viewer/svg/
  Aspose.Imaging for .NET is supported on all major operating systems. Just make sure that you have the following prerequisites.
 
 {{% /blocks/products/pf/agp/text %}}
+
+-  Microsoft Windows or a compatible OS with .NET Framework, .NET Core, Windows Application, ASP.NET Web Application
+-  Development environment like Microsoft Visual Studio
+-  Aspose.Imaging for .NET referenced in your project
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -56,6 +55,8 @@ url: /net/viewer/svg/
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Free App to View SVG" sectionDescription="Check our live demos to [View SVG](https://products.aspose.app/imaging/viewer/svg) with following benefits." >}}
@@ -71,6 +72,9 @@ SVG files are Scalable Vector Graphics Files that use XML based text format for 
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

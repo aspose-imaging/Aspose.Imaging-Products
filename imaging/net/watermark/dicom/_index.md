@@ -90,6 +90,8 @@ using (var image = Aspose.Imaging.Image.Load("template.dicom"))
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Watermark DICOM via Online App" sectionDescription="Add watermark to DICOM documents by visiting our [Live Demos website](https://products.aspose.app/imaging/watermark). The live demo has the following benefits" >}}
@@ -105,6 +107,9 @@ DICOM is the acronym for Digital Imaging and Communications in Medicine and pert
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

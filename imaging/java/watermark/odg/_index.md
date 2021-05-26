@@ -79,6 +79,8 @@ image.save("watermarked-image.odg");
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Watermark ODG via Online App" sectionDescription="Add watermark to ODG documents by visiting our [Live Demos website](https://products.aspose.app/imaging/watermark). The live demo has the following benefits" >}}
@@ -94,6 +96,9 @@ The ODG file format is used by Apache OpenOffice's Draw application to store dra
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -18,7 +18,156 @@ url: /sharepoint/
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="" description="" >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of Aspose.Imaging for SharePoint." >}}
+<div class="diagram1 d1-sharepoint">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-file-image-o">
+    </i>
+    Image Manipulation
+   </header>
+   <ul>
+    <li>
+     Convert
+    </li>
+    <li>
+     Resize
+    </li>
+    <li>
+     Crop
+    </li>
+    <li>
+     Rotate
+    </li>
+    <li>
+     Flip
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="SharePoint Image Processing App" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-sharepoint.png"/>
+  <header>
+   Aspose.Imaging
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    SharePoint
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.Imaging for SharePoint supports Microsoft SharePoint Foundation & SharePoint Server." >}}
+<div class="diagram1 d1-sharepoint">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header style="padding-left: 0px;">
+    <i class="fa fa-cubes">
+    </i>
+    SharePoint Server
+   </header>
+   <ul>
+    <li>
+     2010
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header style="padding-left: 0px;">
+    <i class="fa fa-cubes">
+    </i>
+    SharePoint Foundation
+   </header>
+   <ul>
+    <li>
+     2010
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Image Converter for SharePoint" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-sharepoint.png"/>
+  <header>
+   Aspose.Imaging
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    SharePoint
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Imaging for SharePoint supports most commonly used image [file formats](https://docs.aspose.com/display/imagingsharepoint/Supported+File+Formats)  ." >}}
+<div class="diagram1 d2 d1-sharepoint">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-arrows-v">
+    </i>
+    Input/Output
+   </header>
+   <ul>
+    <li>
+     <b>
+      Raster Formats:
+     </b>
+     JPEG, BMP, TIFF, GIF, PNG
+    </li>
+    <li>
+     <b>
+      Photoshop:
+     </b>
+     PSD
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   &lt;
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="SharePoint Imaging Apps" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-sharepoint.png"/>
+  <header>
+   Aspose.Imaging
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    SharePoint
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< /blocks/products/pf/carousel >}}
