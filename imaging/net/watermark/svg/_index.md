@@ -2,6 +2,7 @@
 title:  
 weight: 4260
 url: /net/watermark/svg/ 
+description: Try our On-Premise document APIs to add or remove watermark to SVG file on .NET Framework, .NET Core, Windows Application, ASP.NET Web Application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

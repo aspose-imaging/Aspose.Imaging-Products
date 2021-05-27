@@ -2,6 +2,7 @@
 title:  
 weight: 4170
 url: /net/watermark/dng/ 
+description: Try our On-Premise document APIs to add or remove watermark to DNG file on .NET Framework, .NET Core, Windows Application, ASP.NET Web Application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title:  
 weight: 2050
 url: /java/watermark/otg/ 
+description: Try our On-Premise document APIs to add or remove watermark to OTG file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

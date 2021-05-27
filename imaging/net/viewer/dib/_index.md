@@ -2,6 +2,7 @@
 title:  
 weight: 3950
 url: /net/viewer/dib/ 
+description: Try our On-Premise APIs to load, render and display DIB documents on .NET Framework, .NET Core, Windows Application, ASP.NET Web Application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

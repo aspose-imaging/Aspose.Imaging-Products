@@ -2,6 +2,7 @@
 title:  
 weight: 1920
 url: /java/watermark/bmp/ 
+description: Try our On-Premise document APIs to add or remove watermark to BMP file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title:  
 weight: 4280
 url: /net/watermark/webp/ 
+description: Try our On-Premise document APIs to add or remove watermark to WEBP file on .NET Framework, .NET Core, Windows Application, ASP.NET Web Application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title:  
 weight: 2030
 url: /java/watermark/jp2/ 
+description: Try our On-Premise document APIs to add or remove watermark to JP2 file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

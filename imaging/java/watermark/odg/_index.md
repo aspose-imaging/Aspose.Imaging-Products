@@ -2,6 +2,7 @@
 title:  
 weight: 2040
 url: /java/watermark/odg/ 
+description: Try our On-Premise document APIs to add or remove watermark to ODG file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

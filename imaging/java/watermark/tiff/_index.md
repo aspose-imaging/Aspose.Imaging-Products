@@ -2,6 +2,7 @@
 title:  
 weight: 2080
 url: /java/watermark/tiff/ 
+description: Try our On-Premise document APIs to add or remove watermark to TIFF file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

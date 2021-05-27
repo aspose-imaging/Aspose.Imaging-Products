@@ -2,6 +2,7 @@
 title: C# .NET Cross-platform Image Library API - Aspose 
 weight: 3910
 url: /net/ 
+description: Image processing and manipulation library API  to create edit draw or export images to PSD BMP JPEG PNG TIFF GIF within C# ASP.NET VB.NET applications
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

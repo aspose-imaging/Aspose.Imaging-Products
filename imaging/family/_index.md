@@ -2,6 +2,7 @@
 title: .NET Java and SharePoint Image Manipulation and Drawing APIs 
 weight: 10
 url: /family
+description: Create manipulate and convert images using relevant library within .NET Java and SharePoint applications. Save images to PhotoShop formats
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

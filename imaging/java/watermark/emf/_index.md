@@ -2,6 +2,7 @@
 title:  
 weight: 1990
 url: /java/watermark/emf/ 
+description: Try our On-Premise document APIs to add or remove watermark to EMF file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

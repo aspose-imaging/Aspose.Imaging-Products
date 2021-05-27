@@ -2,6 +2,7 @@
 title:  
 weight: 4240
 url: /net/watermark/otg/ 
+description: Try our On-Premise document APIs to add or remove watermark to OTG file on .NET Framework, .NET Core, Windows Application, ASP.NET Web Application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

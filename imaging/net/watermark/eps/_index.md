@@ -2,6 +2,7 @@
 title:  
 weight: 4190
 url: /net/watermark/eps/ 
+description: Try our On-Premise document APIs to add or remove watermark to EPS file on .NET Framework, .NET Core, Windows Application, ASP.NET Web Application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

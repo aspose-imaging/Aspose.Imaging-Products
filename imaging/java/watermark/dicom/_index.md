@@ -2,6 +2,7 @@
 title:  
 weight: 1960
 url: /java/watermark/dicom/ 
+description: Try our On-Premise document APIs to add or remove watermark to DICOM file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

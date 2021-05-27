@@ -2,6 +2,7 @@
 title:  
 weight: 1980
 url: /java/watermark/dng/ 
+description: Try our On-Premise document APIs to add or remove watermark to DNG file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

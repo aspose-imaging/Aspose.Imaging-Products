@@ -2,6 +2,7 @@
 title:  
 weight: 2020
 url: /java/watermark/j2k/ 
+description: Try our On-Premise document APIs to add or remove watermark to J2K file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
