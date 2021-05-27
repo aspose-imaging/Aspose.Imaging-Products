@@ -5,14 +5,21 @@ url: /net/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET cross-platform library - API for Image Processing" h2="Create, load, manipulate or convert images without requiring any image editor." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/header/aspose_imaging-for-net.png" pfName="Aspose.Imaging" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/imaging/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET cross-platform library - API for Image Processing" h2="Create, load, manipulate or convert images without requiring any image editor." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/header/aspose_imaging-for-net.png" pfName="Aspose.Imaging for .NET" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/imaging/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for .NET" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-net.png" liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://purchase.aspose.com/pricing/imaging/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/imaging/net/" instalationsDocsLink="https://docs.aspose.com/imaging/net/installation" nugetLink="https://www.nuget.org/packages/Aspose.Imaging/" nugetPackageName="Aspose.Imaging" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.Imaging for .NET is a flexible, stable and powerful API, capable of processing the most commonly used formats along with some special formats such as DjVu, DICOM, WebP & DNG. Moreover, it extends the native support for image formats & processing functions for .NET and .NET Core. Aspose.Imaging is cross-platform library, it is Windows and Linux compatible.</p>
+<p align="justify">
+ Aspose. Imaging for.NET is a library offering advanced image processing features. You could easily create, load, manipulate, convert, compress images or photos using this API. Also Aspose. Imaging library supports drawing and work with graphic primitives. Image export and conversion (including uniform multi-page image processing) is the one of API core features along with image transformations (resize, crop, flip&amp;rotate, binarization, grayscale, adjust), advanced image manipulation features (filtering, dithering, masking, deskewing) and memory optimization strategies.
+</p>
+
+<p align="justify">
+ Aspose.Imaging for .NET is a flexible, stable and powerful API, capable of processing the most commonly used formats along with some special formats such as DjVu, DICOM, WebP &amp; DNG. Moreover, it extends the native support for image formats &amp; processing functions for .NET and .NET Core. Aspose.Imaging is cross-platform library, it is Windows and Linux compatible.
+</p>
+
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -583,12 +590,6 @@ using (PngImage image = (PngImage)Image.Create(options, width, height))
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="" subTitle="" >}}
-
-{{< blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials-quote >}}
-
-{{< /blocks/products/pf/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
@@ -614,11 +615,11 @@ using (PngImage image = (PngImage)Image.Create(options, width, height))
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/imaging/net" pricingInformationLink="https://purchase.aspose.com/pricing/imaging/net" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Imaging offers individual Imaging APIs for other popular development environments as listed below:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Imaging " description="Aspose.Imaging offers individual Imaging APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/imaging/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-java.png" sdkName="Aspose.Imaging for Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/imaging/sharepoint" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-sharepoint.png" sdkName="Aspose.Imaging for SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/imaging/jasperreports" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-jasperreports.png" sdkName="Aspose.Imaging for SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-java.png" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/sharepoint" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-sharepoint.png" sdkName="SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/jasperreports" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-jasperreports.png" sdkName="JasperReports" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

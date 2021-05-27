@@ -64,14 +64,28 @@ Perform reverse image search to find particular image on specified website from 
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose.Imaging." >}}
+{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose.Imaging." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.imaging/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
-Overall the Aspose.Imaging software solved our main show stopper of converting equations to images without which we could not have released our web based Question Paper Generator.
+<p class="first">
+ Overall the Aspose.Imaging software solved our main show stopper of converting equations to images without which we could not have released our web based Question Paper Generator.
+ <em>
+  Avinash Moharil | Director | Techior Solutions
+ </em>
+</p>
+
 {{< /blocks/products/pf/testimonials-quote >}}
+
 {{< blocks/products/pf/testimonials-quote >}}
-Aspose integration into our product suite reduced our internal product development overhead & ensured accurate & reliable generation of files in a seamless and secure manner.
+<p class="second">
+ Aspose integration into our product suite reduced our internal product development overhead &amp; ensured accurate &amp; reliable generation of files in a seamless and secure manner.
+ <em>
+  Doug Downer | CEO | Dynecon
+ </em>
+</p>
+
 {{< /blocks/products/pf/testimonials-quote >}}
+
 {{< /blocks/products/pf/testimonials >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

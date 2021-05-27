@@ -5,14 +5,21 @@ url: /sharepoint/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="SharePoint App to Manipulate & Convert Images" h2="Convert, Rotate, Resize and Crop images from within the SharePoint with no effort." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/header/aspose_imaging-for-sharepoint.png" pfName="Aspose.Imaging" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/imaging/sharepoint" >}}
+{{< blocks/products/pf/upper-banner h1="SharePoint App to Manipulate & Convert Images" h2="Convert, Rotate, Resize and Crop images from within the SharePoint with no effort." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/header/aspose_imaging-for-sharepoint.png" pfName="Aspose.Imaging for SharePoint" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/imaging/sharepoint" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for SharePoint" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-sharepoint.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/imaging/sharepoint" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/imaging/sharepoint/release-notes/" instalationsDocsLink="" nugetLink="" nugetPackageName="Raster Formats:" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.Imaging for SharePoint provides conversion via an ECB menu (Edit Control Block) whereas the Convert Image option is added to the ECB menu after successful installation.</p>
+<p>
+ Aspose.Imaging for SharePoint allows users to convert images to other image formats including PNG, JPEG, BMP, GIF, TIFF and PSD from within Microsoft SharePoint. Developers can also edit the exported images by performing several operations such as resize, crop, rotate and flip without using any image editor.
+</p>
+
+<p>
+ Aspose.Imaging for SharePoint provides conversion via an ECB menu (Edit Control Block) whereas the Convert Image option is added to the ECB menu after successful installation.
+</p>
+
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -243,12 +250,6 @@ url: /sharepoint/
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="" subTitle="" >}}
-
-{{< blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials-quote >}}
-
-{{< /blocks/products/pf/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
@@ -272,11 +273,11 @@ url: /sharepoint/
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/imaging/sharepoint" pricingInformationLink="https://purchase.aspose.com/pricing/imaging/sharepoint" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Imaging offers individual Imaging APIs for other popular development environments as listed below:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Imaging " description="Aspose.Imaging offers individual Imaging APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/imaging/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-net.png" sdkName="Aspose.Imaging for .NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/imaging/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-java.png" sdkName="Aspose.Imaging for Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/imaging/jasperreports" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-jasperreports.png" sdkName="Aspose.Imaging for SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-net.png" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-java.png" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/jasperreports" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-jasperreports.png" sdkName="JasperReports" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 
