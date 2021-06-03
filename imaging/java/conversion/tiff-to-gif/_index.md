@@ -1,6 +1,6 @@
 ---
 title: Convert TIFF to GIF via Java 
-weight: 1600
+weight: 1650
 url: /java/conversion/tiff-to-gif/ 
 description: Try our On-Premise APIs for your document conversion on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% blocks/products/pf/agp/content h2="How to Convert TIFF to GIF Using Java" %}}
 
- In order to render TIFF to GIF, weвЂ™ll use
+ In order to render TIFF to GIF, we’ll use
  [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) 
  API which is a feature-rich, powerful and easy to use conversion API for Java platform. You can download its latest version directly from
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 
@@ -76,7 +76,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convert TIFF to GIF - JavaвЂЋ" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Convert TIFF to GIF - Java‎" offSpacer="" %}}
 
 ```cs
 // load the TIFF file
@@ -103,7 +103,7 @@ document.save("output.gif", new GifOptions());
 
     {{% blocks/products/pf/agp/content h2="Java Imaging Library" %}}
 
- Aspose.Imaging API is an image processing solution to create, modify, draw or convert images with in applications. Aspose.Imaging is a fast API for Image processing, including but not limited to image conversions and manipulations such as drawing, working with graphic primitives, image transformations, export and conversion to multiple formats. Its a standalone library and does not depend on any software for image operations. One can easily add high performance image conversion feature with native APIs within projects. These are 100% private on premise APIs and files are processed at your own servers. вЂЋ
+ Aspose.Imaging API is an image processing solution to create, modify, draw or convert images with in applications. Aspose.Imaging is a fast API for Image processing, including but not limited to image conversions and manipulations such as drawing, working with graphic primitives, image transformations, export and conversion to multiple formats. Its a standalone library and does not depend on any software for image operations. One can easily add high performance image conversion feature with native APIs within projects. These are 100% private on premise APIs and files are processed at your own servers. ‎
 
 
 

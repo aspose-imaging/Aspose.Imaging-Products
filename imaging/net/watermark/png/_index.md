@@ -1,6 +1,6 @@
 ---
 title: Watermark PNG document via .NET 
-weight: 4250
+weight: 2060
 url: /net/watermark/png/ 
 description: Try our On-Premise document APIs to add or remove watermark to PNG file on .NET Framework, .NET Core, Windows Application, ASP.NET Web Application.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise document APIs to add or remove watermark to PNG 
 
 {{% blocks/products/pf/agp/content h2="How to Watermark PNG File Using C#" %}}
 
- In order to watermark PNG file, weвЂ™ll use
+ In order to watermark PNG file, we’ll use
  [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) 
  API which is a feature-rich, powerful and easy to use document manipulation API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.imaging) 
@@ -111,7 +111,7 @@ using (var image = Aspose.Imaging.Image.Load("template.png"))
 
     {{% blocks/products/pf/agp/content h2="About Aspose.Imaging for .NET API" %}}
 
- Aspose.Imaging API is an image processing solution to create, modify, draw or convert images with in applications. Aspose.Imaging is a fast API for Image processing, including but not limited to image conversions and manipulations such as drawing, working with graphic primitives, image transformations, export and conversion to multiple formats. Its a standalone library and does not depend on any software for image operations. One can easily add high performance image conversion feature with native APIs within projects. These are 100% private on premise APIs and files are processed at your own servers. вЂЋ
+ Aspose.Imaging API is an image processing solution to create, modify, draw or convert images with in applications. Aspose.Imaging is a fast API for Image processing, including but not limited to image conversions and manipulations such as drawing, working with graphic primitives, image transformations, export and conversion to multiple formats. Its a standalone library and does not depend on any software for image operations. One can easily add high performance image conversion feature with native APIs within projects. These are 100% private on premise APIs and files are processed at your own servers. ‎
 
 
 

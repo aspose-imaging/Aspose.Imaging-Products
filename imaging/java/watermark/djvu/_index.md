@@ -1,6 +1,6 @@
 ---
 title: Watermark DJVU document via Java 
-weight: 1970
+weight: 1690
 url: /java/watermark/djvu/ 
 description: Try our On-Premise document APIs to add or remove watermark to DJVU file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise document APIs to add or remove watermark to DJVU
 
 {{% blocks/products/pf/agp/content h2="How to Watermark DJVU File Using Java" %}}
 
- In order to watermark DJVU file, weвЂ™ll use
+ In order to watermark DJVU file, we’ll use
  [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) 
  API which is a feature-rich, powerful and easy to use warermarking API for Java platform. You can download its latest version directly from
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 
@@ -112,7 +112,7 @@ image.save("watermarked-image.djvu");
 
     {{% blocks/products/pf/agp/content h2="About Aspose.Imaging for Java API" %}}
 
- Aspose.Imaging API is an image processing solution to create, modify, draw or convert images with in applications. Aspose.Imaging is a fast API for Image processing, including but not limited to image conversions and manipulations such as drawing, working with graphic primitives, image transformations, export and conversion to multiple formats. Its a standalone library and does not depend on any software for image operations. One can easily add high performance image conversion feature with native APIs within projects. These are 100% private on premise APIs and files are processed at your own servers. вЂЋ
+ Aspose.Imaging API is an image processing solution to create, modify, draw or convert images with in applications. Aspose.Imaging is a fast API for Image processing, including but not limited to image conversions and manipulations such as drawing, working with graphic primitives, image transformations, export and conversion to multiple formats. Its a standalone library and does not depend on any software for image operations. One can easily add high performance image conversion feature with native APIs within projects. These are 100% private on premise APIs and files are processed at your own servers. ‎
 
 
 
@@ -127,7 +127,7 @@ image.save("watermarked-image.djvu");
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Instantly get the download link for the resultant file" >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" >}}
-DjVu, pronounced as вЂњdГ©jГ  vuвЂќ, is a graphics file format intended for scanned documents and books especially those which contain the combination of text, drawings, images and photographs. It was developed by AT&T Labs. It uses multiple techniques like image layer separation of text and background images, progressive loading, arithmetic coding and lossy compression for bitonal images. Since DJVU file can contain compressed yet high-quality colour images, photographs, text, and drawings and can be saved in less space therefore, it's used on web as eBooks, manuals, newspapers, ancient documents, etc.
+DjVu, pronounced as “déjà vu”, is a graphics file format intended for scanned documents and books especially those which contain the combination of text, drawings, images and photographs. It was developed by AT&T Labs. It uses multiple techniques like image layer separation of text and background images, progressive loading, arithmetic coding and lossy compression for bitonal images. Since DJVU file can contain compressed yet high-quality colour images, photographs, text, and drawings and can be saved in less space therefore, it's used on web as eBooks, manuals, newspapers, ancient documents, etc.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 

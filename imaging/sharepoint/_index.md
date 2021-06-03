@@ -1,6 +1,6 @@
 ---
 title: SharePoint Image Processing App - Aspose 
-weight: 4300
+weight: 410
 url: /sharepoint/ 
 description: SharePoint image processing App to create edit and convert images to PSD BMP JPEG PNG TIFF and GIF formats. Also resize crop rotate and flip images
 ---

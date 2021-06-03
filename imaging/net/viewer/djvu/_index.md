@@ -1,6 +1,6 @@
 ---
 title: View DJVU File Formats via .NET 
-weight: 3970
+weight: 1780
 url: /net/viewer/djvu/ 
 description: Try our On-Premise APIs to load, render and display DJVU documents on .NET Framework, .NET Core, Windows Application, ASP.NET Web Application.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs to load, render and display DJVU documents 
 
 {{% blocks/products/pf/agp/content h2="How to View DJVU File Using C#" %}}
 
- In order to view DJVU file, weвЂ™ll use
+ In order to view DJVU file, we’ll use
  [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) 
  API which is a feature-rich, powerful and easy to use API for C# platform to be used with any Viewer. Open
  [NuGet](https://www.nuget.org/packages/aspose.imaging) 
@@ -76,7 +76,7 @@ PM> Install-Package Aspose.Imaging
 
     {{% blocks/products/pf/agp/content h2="About Aspose.Imaging for .NET API" %}}
 
- Aspose.Imaging API is an image processing solution to create, modify, draw or convert images with in applications. Aspose.Imaging is a fast API for Image processing, including but not limited to image conversions and manipulations such as drawing, working with graphic primitives, image transformations, export and conversion to multiple formats. Its a standalone library and does not depend on any software for image operations. One can easily add high performance image conversion feature with native APIs within projects. These are 100% private on premise APIs and files are processed at your own servers. вЂЋ
+ Aspose.Imaging API is an image processing solution to create, modify, draw or convert images with in applications. Aspose.Imaging is a fast API for Image processing, including but not limited to image conversions and manipulations such as drawing, working with graphic primitives, image transformations, export and conversion to multiple formats. Its a standalone library and does not depend on any software for image operations. One can easily add high performance image conversion feature with native APIs within projects. These are 100% private on premise APIs and files are processed at your own servers. ‎
 
 
 
@@ -91,7 +91,7 @@ PM> Install-Package Aspose.Imaging
             {{< blocks/products/pf/agp/democard icon="fa-download" text=" Download DJVU file from the link, if required" >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" >}}
-DjVu, pronounced as вЂњdГ©jГ  vuвЂќ, is a graphics file format intended for scanned documents and books especially those which contain the combination of text, drawings, images and photographs. It was developed by AT&T Labs. It uses multiple techniques like image layer separation of text and background images, progressive loading, arithmetic coding and lossy compression for bitonal images. Since DJVU file can contain compressed yet high-quality colour images, photographs, text, and drawings and can be saved in less space therefore, it's used on web as eBooks, manuals, newspapers, ancient documents, etc.
+DjVu, pronounced as “déjà vu”, is a graphics file format intended for scanned documents and books especially those which contain the combination of text, drawings, images and photographs. It was developed by AT&T Labs. It uses multiple techniques like image layer separation of text and background images, progressive loading, arithmetic coding and lossy compression for bitonal images. Since DJVU file can contain compressed yet high-quality colour images, photographs, text, and drawings and can be saved in less space therefore, it's used on web as eBooks, manuals, newspapers, ancient documents, etc.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 

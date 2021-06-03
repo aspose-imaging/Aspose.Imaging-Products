@@ -1,6 +1,6 @@
 ---
 title: Convert DJVU to SVG via .NET 
-weight: 2720
+weight: 3700
 url: /net/conversion/djvu-to-svg/ 
 description: Try our On-Premise APIs with your document on .NET Framework, .NET Core, Windows Application, ASP.NET Web Application.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs with your document on .NET Framework, .NET 
 
 {{% blocks/products/pf/agp/content h2="How to Convert DJVU to SVG Using C#" %}}
 
- In order to convert DJVU to SVG, weвЂ™ll use
+ In order to convert DJVU to SVG, we’ll use
  [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) 
  API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.imaging) 
@@ -102,7 +102,7 @@ image.Save("output.svg", options);
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" >}}
-DjVu, pronounced as вЂњdГ©jГ  vuвЂќ, is a graphics file format intended for scanned documents and books especially those which contain the combination of text, drawings, images and photographs. It was developed by AT&T Labs. It uses multiple techniques like image layer separation of text and background images, progressive loading, arithmetic coding and lossy compression for bitonal images. Since DJVU file can contain compressed yet high-quality colour images, photographs, text, and drawings and can be saved in less space therefore, it's used on web as eBooks, manuals, newspapers, ancient documents, etc.
+DjVu, pronounced as “déjà vu”, is a graphics file format intended for scanned documents and books especially those which contain the combination of text, drawings, images and photographs. It was developed by AT&T Labs. It uses multiple techniques like image layer separation of text and background images, progressive loading, arithmetic coding and lossy compression for bitonal images. Since DJVU file can contain compressed yet high-quality colour images, photographs, text, and drawings and can be saved in less space therefore, it's used on web as eBooks, manuals, newspapers, ancient documents, etc.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 

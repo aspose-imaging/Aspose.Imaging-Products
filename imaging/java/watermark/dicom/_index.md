@@ -1,6 +1,6 @@
 ---
 title: Watermark DICOM document via Java 
-weight: 1960
+weight: 4150
 url: /java/watermark/dicom/ 
 description: Try our On-Premise document APIs to add or remove watermark to DICOM file on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise document APIs to add or remove watermark to DICO
 
 {{% blocks/products/pf/agp/content h2="How to Watermark DICOM File Using Java" %}}
 
- In order to watermark DICOM file, weвЂ™ll use
+ In order to watermark DICOM file, we’ll use
  [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) 
  API which is a feature-rich, powerful and easy to use warermarking API for Java platform. You can download its latest version directly from
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 
@@ -112,7 +112,7 @@ image.save("watermarked-image.dicom");
 
     {{% blocks/products/pf/agp/content h2="About Aspose.Imaging for Java API" %}}
 
- Aspose.Imaging API is an image processing solution to create, modify, draw or convert images with in applications. Aspose.Imaging is a fast API for Image processing, including but not limited to image conversions and manipulations such as drawing, working with graphic primitives, image transformations, export and conversion to multiple formats. Its a standalone library and does not depend on any software for image operations. One can easily add high performance image conversion feature with native APIs within projects. These are 100% private on premise APIs and files are processed at your own servers. вЂЋ
+ Aspose.Imaging API is an image processing solution to create, modify, draw or convert images with in applications. Aspose.Imaging is a fast API for Image processing, including but not limited to image conversions and manipulations such as drawing, working with graphic primitives, image transformations, export and conversion to multiple formats. Its a standalone library and does not depend on any software for image operations. One can easily add high performance image conversion feature with native APIs within projects. These are 100% private on premise APIs and files are processed at your own servers. ‎
 
 
 

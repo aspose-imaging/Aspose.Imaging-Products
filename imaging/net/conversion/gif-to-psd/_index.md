@@ -1,6 +1,6 @@
 ---
 title: Convert GIF to PSD via .NET 
-weight: 3030
+weight: 1110
 url: /net/conversion/gif-to-psd/ 
 description: Try our On-Premise APIs with your document on .NET Framework, .NET Core, Windows Application, ASP.NET Web Application.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs with your document on .NET Framework, .NET 
 
 {{% blocks/products/pf/agp/content h2="How to Convert GIF to PSD Using C#" %}}
 
- In order to convert GIF to PSD, weвЂ™ll use
+ In order to convert GIF to PSD, we’ll use
  [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) 
  API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.imaging) 

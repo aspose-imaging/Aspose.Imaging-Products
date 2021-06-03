@@ -1,6 +1,6 @@
 ---
 title: Convert OTG to SVG via .NET 
-weight: 3360
+weight: 3450
 url: /net/conversion/otg-to-svg/ 
 description: Try our On-Premise APIs with your document on .NET Framework, .NET Core, Windows Application, ASP.NET Web Application.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs with your document on .NET Framework, .NET 
 
 {{% blocks/products/pf/agp/content h2="How to Convert OTG to SVG Using C#" %}}
 
- In order to convert OTG to SVG, weвЂ™ll use
+ In order to convert OTG to SVG, we’ll use
  [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) 
  API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.imaging) 

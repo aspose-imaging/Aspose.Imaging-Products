@@ -1,6 +1,6 @@
 ---
 title: Convert CMX to PDF via .NET 
-weight: 2370
+weight: 1490
 url: /net/conversion/cmx-to-pdf/ 
 description: Try our On-Premise APIs with your document on .NET Framework, .NET Core, Windows Application, ASP.NET Web Application.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs with your document on .NET Framework, .NET 
 
 {{% blocks/products/pf/agp/content h2="How to Convert CMX to PDF Using C#" %}}
 
- In order to convert CMX to PDF, weвЂ™ll use
+ In order to convert CMX to PDF, we’ll use
  [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) 
  API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.imaging) 

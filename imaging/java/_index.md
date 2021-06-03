@@ -1,6 +1,6 @@
 ---
 title: Java Imaging API | Draw Manipulate and Transform Images 
-weight: 1910
+weight: 3090
 url: /java/ 
 description: Java Image processing and manipulation library. Create load view edit draw or convert images to multiple formats within applications without any image editor
 ---

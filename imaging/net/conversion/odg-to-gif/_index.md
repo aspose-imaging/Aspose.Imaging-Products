@@ -1,6 +1,6 @@
 ---
 title: Convert ODG to GIF via .NET 
-weight: 3200
+weight: 3180
 url: /net/conversion/odg-to-gif/ 
 description: Try our On-Premise APIs with your document on .NET Framework, .NET Core, Windows Application, ASP.NET Web Application.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs with your document on .NET Framework, .NET 
 
 {{% blocks/products/pf/agp/content h2="How to Convert ODG to GIF Using C#" %}}
 
- In order to convert ODG to GIF, weвЂ™ll use
+ In order to convert ODG to GIF, we’ll use
  [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) 
  API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.imaging) 

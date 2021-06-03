@@ -1,6 +1,6 @@
 ---
 title: View J2K File Formats via .NET 
-weight: 4020
+weight: 3660
 url: /net/viewer/j2k/ 
 description: Try our On-Premise APIs to load, render and display J2K documents on .NET Framework, .NET Core, Windows Application, ASP.NET Web Application.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs to load, render and display J2K documents o
 
 {{% blocks/products/pf/agp/content h2="How to View J2K File Using C#" %}}
 
- In order to view J2K file, weвЂ™ll use
+ In order to view J2K file, we’ll use
  [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) 
  API which is a feature-rich, powerful and easy to use API for C# platform to be used with any Viewer. Open
  [NuGet](https://www.nuget.org/packages/aspose.imaging) 
@@ -76,7 +76,7 @@ PM> Install-Package Aspose.Imaging
 
     {{% blocks/products/pf/agp/content h2="About Aspose.Imaging for .NET API" %}}
 
- Aspose.Imaging API is an image processing solution to create, modify, draw or convert images with in applications. Aspose.Imaging is a fast API for Image processing, including but not limited to image conversions and manipulations such as drawing, working with graphic primitives, image transformations, export and conversion to multiple formats. Its a standalone library and does not depend on any software for image operations. One can easily add high performance image conversion feature with native APIs within projects. These are 100% private on premise APIs and files are processed at your own servers. вЂЋ
+ Aspose.Imaging API is an image processing solution to create, modify, draw or convert images with in applications. Aspose.Imaging is a fast API for Image processing, including but not limited to image conversions and manipulations such as drawing, working with graphic primitives, image transformations, export and conversion to multiple formats. Its a standalone library and does not depend on any software for image operations. One can easily add high performance image conversion feature with native APIs within projects. These are 100% private on premise APIs and files are processed at your own servers. ‎
 
 
 
