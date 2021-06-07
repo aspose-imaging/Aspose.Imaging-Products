@@ -6,11 +6,11 @@ description: SharePoint image processing App to create edit and convert images t
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="SharePoint App to Manipulate & Convert Images" h2="Convert, Rotate, Resize and Crop images from within the SharePoint with no effort." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/header/aspose_imaging-for-sharepoint.png" pfName="Aspose.Imaging for SharePoint" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/imaging/sharepoint" >}}
+{{< blocks/products/pf/upper-banner h1="SharePoint App to Manipulate & Convert Images" h2="Convert, Rotate, Resize and Crop images from within the SharePoint with no effort." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/header/aspose_imaging-for-sharepoint.png" pfName="Aspose.Imaging" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/imaging/sharepoint" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for SharePoint" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-sharepoint.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/imaging/sharepoint" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/imaging/sharepoint/release-notes/" instalationsDocsLink="" nugetLink="" nugetPackageName="Raster Formats:" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-sharepoint.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/imaging/sharepoint" buyLink="https://purchase.aspose.com/pricing/imaging/sharepoint" docsLink="https://docs.aspose.com/imaging/sharepoint/release-notes/" installationsDocsLink="" nugetLink="" nugetPackageName="Raster Formats:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/imaging/sharepoint" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
