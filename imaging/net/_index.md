@@ -18,7 +18,7 @@ description: Image processing and manipulation library API  to create edit draw 
 </p>
 
 <p align="justify">
- Aspose.Imaging for .NET is a flexible, stable and powerful API, capable of processing the most commonly used formats along with some special formats such as DjVu, DICOM, WebP &amp; DNG. Moreover, it extends the native support for image formats &amp; processing functions for .NET and .NET Core. Aspose.Imaging is cross-platform library, it is Windows and Linux compatible.
+ Aspose.Imaging for .NET is a flexible, stable and powerful API, capable of processing the most commonly used formats along with some special formats such as DjVu, DICOM, WebP &amp; DNG. Moreover, it extends the native support for image formats &amp; processing functions for .NET and .NET Core and NET5. Aspose.Imaging is cross-platform library, it is Windows and Linux compatible.
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
