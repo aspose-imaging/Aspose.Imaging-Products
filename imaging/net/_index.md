@@ -6,11 +6,11 @@ description: Image processing and manipulation library API  to create edit draw 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET cross-platform library - API for Image Processing" h2="Create, load, manipulate or convert images without requiring any image editor." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/header/aspose_imaging-for-net.png" pfName="Aspose.Imaging for .NET" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/imaging/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET cross-platform library - API for Image Processing" h2="Create, load, manipulate or convert images without requiring any image editor." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/header/aspose_imaging-for-net.png" pfName="Aspose.Imaging" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/imaging/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-net.png" liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://purchase.aspose.com/pricing/imaging/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/imaging/net/" instalationsDocsLink="https://docs.aspose.com/imaging/net/installation" nugetLink="https://www.nuget.org/packages/Aspose.Imaging/" nugetPackageName="Aspose.Imaging" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-net.png" liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://purchase.aspose.com/pricing/imaging/net" buyLink="https://purchase.aspose.com/pricing/imaging/net" docsLink="https://docs.aspose.com/imaging/net/" installationsDocsLink="https://docs.aspose.com/imaging/net/installation" nugetLink="https://www.nuget.org/packages/Aspose.Imaging/" nugetPackageName="Aspose.Imaging" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/imaging/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p align="justify">

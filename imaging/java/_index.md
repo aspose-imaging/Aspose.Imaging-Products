@@ -6,11 +6,11 @@ description: Java Image processing and manipulation library. Create load view ed
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java library and API for Image Processing" h2="Create, load, manipulate or convert images without requiring any image editor." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/header/aspose_imaging-for-java.png" pfName="Aspose.Imaging for Java" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/imaging/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java library and API for Image Processing" h2="Create, load, manipulate or convert images without requiring any image editor." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/header/aspose_imaging-for-java.png" pfName="Aspose.Imaging" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/imaging/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-java.png" liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://purchase.aspose.com/pricing/imaging/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/imaging/java/" instalationsDocsLink="https://docs.aspose.com/imaging/java/installation" nugetLink="" nugetPackageName="Raster Formats:" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-java.png" liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://purchase.aspose.com/pricing/imaging/java" buyLink="https://purchase.aspose.com/pricing/imaging/java" docsLink="https://docs.aspose.com/imaging/java/" installationsDocsLink="https://docs.aspose.com/imaging/java/installation" nugetLink="" nugetPackageName="Raster Formats:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging" directDownloadLink="https://downloads.aspose.com/imaging/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p align="justify">
