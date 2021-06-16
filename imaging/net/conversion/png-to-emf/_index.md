@@ -64,19 +64,11 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Command" offSpacer="" %}}
 
-```cs
-// load the PNG file in an instance of Image
-var image = Aspose.Imaging.Image.Load("template.png");
-// create an instance of EmfOptions
-var options = new Aspose.Imaging.ImageOptions.EmfOptions();
-// save PNG as a EMF
-image.Save("output.emf", options); 
 
-```
+{{< gist "aspose-com-gists" "2d1bcb9853315458808ffbcd9e7e3e02" "convert-png-to-emf.cs" >}}
 
-{{% /blocks/products/pf/agp/code-block %}}
+
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
