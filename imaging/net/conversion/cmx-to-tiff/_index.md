@@ -70,7 +70,7 @@ PM> Install-Package Aspose.Imaging
 // load the CMX file in an instance of Image
 var image = Aspose.Imaging.Image.Load("template.cmx");
 // create an instance of TiffOptions
-var options = new Aspose.Imaging.ImageOptions.TiffOptions();
+var options = new Aspose.Imaging.ImageOptions.TiffOptions(Aspose.Imaging.FileFormats.Tiff.Enums.TiffExpectedFormat.Default);
 // save CMX as a TIFF
 image.Save("output.tiff", options); 
 

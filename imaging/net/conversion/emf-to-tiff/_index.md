@@ -70,7 +70,7 @@ PM> Install-Package Aspose.Imaging
 // load the EMF file in an instance of Image
 var image = Aspose.Imaging.Image.Load("template.emf");
 // create an instance of TiffOptions
-var options = new Aspose.Imaging.ImageOptions.TiffOptions();
+var options = new Aspose.Imaging.ImageOptions.TiffOptions(Aspose.Imaging.FileFormats.Tiff.Enums.TiffExpectedFormat.Default);
 // save EMF as a TIFF
 image.Save("output.tiff", options); 
 

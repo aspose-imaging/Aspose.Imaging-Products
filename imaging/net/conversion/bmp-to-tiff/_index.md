@@ -70,7 +70,7 @@ PM> Install-Package Aspose.Imaging
 // load the BMP file in an instance of Image
 var image = Aspose.Imaging.Image.Load("template.bmp");
 // create an instance of TiffOptions
-var options = new Aspose.Imaging.ImageOptions.TiffOptions();
+var options = new Aspose.Imaging.ImageOptions.TiffOptions(Aspose.Imaging.FileFormats.Tiff.Enums.TiffExpectedFormat.Default);
 // save BMP as a TIFF
 image.Save("output.tiff", options); 
 
