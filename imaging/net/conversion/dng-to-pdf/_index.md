@@ -64,19 +64,11 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Command" offSpacer="" %}}
 
-```cs
-// load the DNG file in an instance of Image
-var image = Aspose.Imaging.Image.Load("template.dng");
-// create an instance of PdfOptions
-var options = new Aspose.Imaging.ImageOptions.PdfOptions();
-// save DNG as a PDF
-image.Save("output.pdf", options); 
 
-```
+{{< gist "aspose-com-gists" "2d1bcb9853315458808ffbcd9e7e3e02" "convert-dng-to-pdf.cs" >}}
 
-{{% /blocks/products/pf/agp/code-block %}}
+
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
