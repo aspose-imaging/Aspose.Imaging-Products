@@ -21,28 +21,25 @@ description: Try our On-Premise document APIs to add or remove watermark to PNG 
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
-```cs
-
+```xml
 <repository>
 <id>AsposeJavaAPI</id>
 <name>Aspose Java API</name>
 <url>https://repository.aspose.com/repo/</url>
 </repository>
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{% blocks/products/pf/agp/code-block title="Dependency" offSpacer="true" %}}
 
-```cs
+```xml
 <dependency>
 <groupId>com.aspose</groupId>
 <artifactId>aspose-imaging</artifactId>
 <version>version of aspose-imaging API</version>
-<classifier>jdk17</classifier>
+<classifier>jdk16</classifier>
 </dependency>
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -57,11 +54,11 @@ description: Try our On-Premise document APIs to add or remove watermark to PNG 
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Load PNG file with Image.Load method
-1.  Create instance of Graphics from the Image
-1.  Define Font, Brush and Format for watermark text
-1.  Draw watermark using drawString(...) method
-1.  Save image to disc in PNG format
++  Load PNG file with Image.load method
++  Create instance of Graphics from the Image
++  Define Font, Brush and Format for watermark text
++  Draw watermark using Graphics.drawString method
++  Save image to disc in PNG format
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -69,37 +66,18 @@ description: Try our On-Premise document APIs to add or remove watermark to PNG 
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Imaging for Java supports on all major platforms and Operating Systems. Please make sure that you have the following prerequisites.
+ Aspose.Imaging for Java is supported on all major platforms and operating systems. Please make sure that you have the following prerequisites.
 
 {{% /blocks/products/pf/agp/text %}}
+
+- JDK 1.6 or higher is installed.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Add Watermark to PNG - Java" offSpacer="" %}}
 
-```cs
+{{< gist "aspose-com-gists" "07be292db0a393dc95f153f84b28c069" "watermark-png-image.java" >}}
 
-// Load image
-Image image = Image.load("image.png");
-
-// Create and initialize an instance of Graphics class
-Graphics graphics= new Graphics(image);
-
-// Creates an instance of Font
-Font font = new Font("Times New Roman", 16, FontStyle.Bold);
-
-// Create an instance of SolidBrush and set its properties
-SolidBrush brush = new SolidBrush();
-brush.setColor(Color.getBlack());
-brush.setOpacity(100);
-
-// Draw a string using the SolidBrush and Font objects at specific point
-graphics.drawString("Watermark by Aspose.Imaging for Java", font, brush, new PointF(image.getWidth()-100, image.getHeight()-100));
-
-// Save image
-image.save("watermarked-image.png");  
-
-```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
