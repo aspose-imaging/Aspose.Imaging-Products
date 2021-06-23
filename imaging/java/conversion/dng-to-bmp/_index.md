@@ -21,20 +21,13 @@ description: Try our On-Premise APIs with your document on .NET Framework, .NET 
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
-```cs
-<repository>
-<id>AsposeJavaAPI</id>
-<name>Aspose Java API</name>
-<url>https://repository.aspose.com/repo/</url>
-</repository>
-
-```
+{{< gist "aspose-com-gists" "07be292db0a393dc95f153f84b28c069" "convert-dng-to-bmp.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{% blocks/products/pf/agp/code-block title="Dependency" offSpacer="true" %}}
 
-```cs
+```xml
 <dependency>
 <groupId>com.aspose</groupId>
 <artifactId>aspose-imaging</artifactId>
@@ -69,21 +62,17 @@ description: Try our On-Premise APIs with your document on .NET Framework, .NET 
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Imaging for Java supports on all major platforms and Operating Systems. Please make sure that you have the following prerequisites.
+ Aspose.Imaging for Java is supported on all major operating systems. Just make sure that you have the following prerequisites.
 
 {{% /blocks/products/pf/agp/text %}}
+
+- JDK 1.6 or higher is installed.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Convert DNG to BMP - Java‎" offSpacer="" %}}
 
-```cs
-// load the DNG file
-Image document = Image.load("template.emf");
-// save EMF as BMP
-document.save("output.bmp", new BmpOptions());   
-
-```
+{{< gist "aspose-com-gists" "07be292db0a393dc95f153f84b28c069" "convert-dng-to-bmp.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

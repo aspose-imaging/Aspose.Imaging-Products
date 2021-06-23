@@ -21,7 +21,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
-```cs
+```xml
 
 <repository>
 <id>AsposeJavaAPI</id>
@@ -35,7 +35,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% blocks/products/pf/agp/code-block title="Dependency" offSpacer="true" %}}
 
-```cs
+```xml
 <dependency>
 <groupId>com.aspose</groupId>
 <artifactId>aspose-imaging</artifactId>
@@ -70,21 +70,17 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Imaging for Java supports on all major platforms and Operating Systems. Please make sure that you have the following prerequisites.
+ Aspose.Imaging for Java is supported on all major operating systems. Just make sure that you have the following prerequisites.
 
 {{% /blocks/products/pf/agp/text %}}
+
+- JDK 1.6 or higher is installed.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Convert WMF to PNG - Java‎" offSpacer="" %}}
 
-```cs
-// load the WMF file
-Image document = Image.load("template.wmf");
-// save WMF as PNG
-document.save("output.png", new PngOptions());   
-
-```
+{{< gist "aspose-com-gists" "07be292db0a393dc95f153f84b28c069" "convert-wmf-to-png.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
