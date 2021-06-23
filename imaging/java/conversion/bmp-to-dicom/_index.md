@@ -21,7 +21,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
-```cs
+```xml
 
 <repository>
 <id>AsposeJavaAPI</id>
@@ -35,12 +35,12 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% blocks/products/pf/agp/code-block title="Dependency" offSpacer="true" %}}
 
-```cs
+```xml
 <dependency>
 <groupId>com.aspose</groupId>
 <artifactId>aspose-imaging</artifactId>
 <version>version of aspose-imaging API</version>
-<classifier>jdk17</classifier>
+<classifier>jdk16</classifier>
 </dependency>
 
 ```
@@ -59,10 +59,10 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Load BMP file with Image.load method
-1.  Create & set an instance of DicomOptions
-1.  Call Image.save method
-1.  Pass file path with DICOM extension & object of DicomOptions as parameters
++  Load BMP file with Image.load method
++  Create & set an instance of DicomOptions
++  Call Image.save method
++  Pass file path with DICOM extension & object of DicomOptions as parameters
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -70,21 +70,17 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Imaging for Java supports on all major platforms and Operating Systems. Please make sure that you have the following prerequisites.
+ Aspose.Imaging for Java is supported on all major operating systems. Just make sure that you have the following prerequisites.
 
 {{% /blocks/products/pf/agp/text %}}
+
+- JDK 1.6 or higher is installed.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Convert BMP to DICOM - Java‎" offSpacer="" %}}
 
-```cs
-// load the BMP file
-Image document = Image.load("template.bmp");
-// save BMP as DICOM
-document.save("output.dicom", new DicomOptions());   
-
-```
+{{< gist "aspose-com-gists" "07be292db0a393dc95f153f84b28c069" "convert-bmp-to-dicom.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

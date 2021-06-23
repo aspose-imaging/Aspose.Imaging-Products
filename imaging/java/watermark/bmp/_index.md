@@ -67,9 +67,10 @@ description: Try our On-Premise document APIs to add or remove watermark to BMP 
 {{% blocks/products/pf/agp/text %}}
 
 Aspose.Imaging for Java is supported on all major platforms and operating systems. Please make sure that you have the following prerequisites.
-- JDK 1.6 or higher is installed.
 
 {{% /blocks/products/pf/agp/text %}}
+
+- JDK 1.6 or higher is installed.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
