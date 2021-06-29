@@ -21,25 +21,28 @@ description: Try our On-Premise document APIs to add or remove watermark to GIF 
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
-```xml
+```cs
+
 <repository>
 <id>AsposeJavaAPI</id>
 <name>Aspose Java API</name>
 <url>https://repository.aspose.com/repo/</url>
 </repository>
+
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{% blocks/products/pf/agp/code-block title="Dependency" offSpacer="true" %}}
 
-```xml
+```cs
 <dependency>
 <groupId>com.aspose</groupId>
 <artifactId>aspose-imaging</artifactId>
 <version>version of aspose-imaging API</version>
-<classifier>jdk16</classifier>
+<classifier>jdk17</classifier>
 </dependency>
+
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -54,11 +57,11 @@ description: Try our On-Premise document APIs to add or remove watermark to GIF 
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load GIF file with Image.load method
-+  Create instance of Graphics from the Image
-+  Define Font, Brush and Format for watermark text
-+  Draw watermark using Graphics.drawString method
-+  Save image to disc in GIF format
+1.  Load GIF file with Image.Load method
+1.  Create instance of Graphics from the Image
+1.  Define Font, Brush and Format for watermark text
+1.  Draw watermark using drawString(...) method
+1.  Save image to disc in GIF format
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -66,8 +69,7 @@ description: Try our On-Premise document APIs to add or remove watermark to GIF 
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Imaging for Java is supported on all major platforms and operating systems. Please make sure that you have the following prerequisites.
-- JDK 1.6 or higher is installed.
+ Aspose.Imaging for Java supports on all major platforms and Operating Systems. Please make sure that you have the following prerequisites.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -75,7 +77,29 @@ Aspose.Imaging for Java is supported on all major platforms and operating system
 
 {{% blocks/products/pf/agp/code-block title="Add Watermark to GIF - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "07be292db0a393dc95f153f84b28c069" "watermark-gif-image.java" >}}
+```cs
+
+// Load image
+Image image = Image.load("image.gif");
+
+// Create and initialize an instance of Graphics class
+Graphics graphics= new Graphics(image);
+
+// Creates an instance of Font
+Font font = new Font("Times New Roman", 16, FontStyle.Bold);
+
+// Create an instance of SolidBrush and set its properties
+SolidBrush brush = new SolidBrush();
+brush.setColor(Color.getBlack());
+brush.setOpacity(100);
+
+// Draw a string using the SolidBrush and Font objects at specific point
+graphics.drawString("Watermark by Aspose.Imaging for Java", font, brush, new PointF(image.getWidth()-100, image.getHeight()-100));
+
+// Save image
+image.save("watermarked-image.gif");  
+
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -110,6 +134,47 @@ A GIF or Graphical Interchange Format is a type of highly compressed image. Owne
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->
+
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Watermarking Formats" subTitle="Using Java, one can easily watermark different formats including." >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/watermark/bmp" name="BMP" description="Bitmap Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/watermark/cdr" name="CDR" description="Vector Drawing Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/watermark/cmx" name="CMX" description="Corel Exchange Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/watermark/dib" name="DIB" description="Device Independent Bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/watermark/dicom" name="DICOM" description="Digital Imaging & Communications" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/watermark/djvu" name="DJVU" description="Graphics Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/watermark/dng" name="DNG" description="Digital Camera Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/watermark/emf" name="EMF" description="Enhanced Metafile Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/watermark/eps" name="EPS" description="Encapsulated PostScript Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/watermark/j2k" name="J2K" description="Wavelet Compressed Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/watermark/jp2" name="JP2" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/watermark/odg" name="ODG" description="Apache OpenOffice Draw Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/watermark/otg" name="OTG" description="OpenDocument Standard" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/watermark/png" name="PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/watermark/svg" name="SVG" description="Scalable Vector Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/watermark/tiff" name="TIFF" description="Tagged Image Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/watermark/webp" name="WEBP" description="Raster Web Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/watermark/wmf" name="WMF" description="Microsoft Windows Metafile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/watermark/bmp" name="BMP" description="Bitmap Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/watermark/cdr" name="CDR" description="Vector Drawing Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/watermark/cmx" name="CMX" description="Corel Exchange Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/watermark/dib" name="DIB" description="Device Independent Bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/watermark/dicom" name="DICOM" description="Digital Imaging & Communications" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/watermark/djvu" name="DJVU" description="Graphics Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/watermark/dng" name="DNG" description="Digital Camera Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/watermark/emf" name="EMF" description="Enhanced Metafile Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/watermark/eps" name="EPS" description="Encapsulated PostScript Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/watermark/j2k" name="J2K" description="Wavelet Compressed Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/watermark/jp2" name="JP2" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/watermark/odg" name="ODG" description="Apache OpenOffice Draw Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/watermark/otg" name="OTG" description="OpenDocument Standard" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/watermark/png" name="PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/watermark/svg" name="SVG" description="Scalable Vector Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/watermark/tiff" name="TIFF" description="Tagged Image Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/watermark/webp" name="WEBP" description="Raster Web Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/watermark/wmf" name="WMF" description="Microsoft Windows Metafile" >}}
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

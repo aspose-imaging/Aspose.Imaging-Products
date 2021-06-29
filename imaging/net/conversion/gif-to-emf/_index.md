@@ -64,11 +64,19 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{% blocks/products/pf/agp/code-block title="Command" offSpacer="" %}}
 
+```cs
+// load the GIF file in an instance of Image
+var image = Aspose.Imaging.Image.Load("template.gif");
+// create an instance of EmfOptions
+var options = new Aspose.Imaging.ImageOptions.EmfOptions();
+// save GIF as a EMF
+image.Save("output.emf", options); 
 
-{{< gist "aspose-com-gists" "2d1bcb9853315458808ffbcd9e7e3e02" "convert-gif-to-emf.cs" >}}
+```
 
-
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -108,6 +116,20 @@ Enhanced metafile format (EMF) stores graphical images device-independently. Met
 {{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
+
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert GIF into many other file formats including few listed below." >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/conversion/gif-to-bmp" name="GIF TO BMP" description="Bitmap Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/conversion/gif-to-dicom" name="GIF TO DICOM" description="Digital Imaging & Communications" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/conversion/gif-to-jpeg" name="GIF TO JPEG" description="JPEG Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/conversion/gif-to-pdf" name="GIF TO PDF" description="Portable Document Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/conversion/gif-to-png" name="GIF TO PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/conversion/gif-to-psd" name="GIF TO PSD" description="Adobe Photoshop Native Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/conversion/gif-to-svg" name="GIF TO SVG" description="Scalable Vector Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/conversion/gif-to-tiff" name="GIF TO TIFF" description="Tagged Image Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/conversion/gif-to-wmf" name="GIF TO WMF" description="Microsoft Windows Metafile" >}}
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

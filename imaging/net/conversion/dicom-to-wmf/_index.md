@@ -64,11 +64,19 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{% blocks/products/pf/agp/code-block title="Command" offSpacer="" %}}
 
+```cs
+// load the DICOM file in an instance of Image
+var image = Aspose.Imaging.Image.Load("template.dicom");
+// create an instance of WmfOptions
+var options = new Aspose.Imaging.ImageOptions.WmfOptions();
+// save DICOM as a WMF
+image.Save("output.wmf", options); 
 
-{{< gist "aspose-com-gists" "2d1bcb9853315458808ffbcd9e7e3e02" "convert-dicom-to-wmf.cs" >}}
+```
 
-
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -108,6 +116,20 @@ Files with WMF extension represent Microsoft Windows Metafile (WMF) for storing 
 {{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
+
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert DICOM into many other file formats including few listed below." >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/conversion/dicom-to-bmp" name="DICOM TO BMP" description="Bitmap Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/conversion/dicom-to-emf" name="DICOM TO EMF" description="Enhanced Metafile Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/conversion/dicom-to-gif" name="DICOM TO GIF" description="Graphical Interchange Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/conversion/dicom-to-jpeg" name="DICOM TO JPEG" description="JPEG Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/conversion/dicom-to-pdf" name="DICOM TO PDF" description="Portable Document Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/conversion/dicom-to-png" name="DICOM TO PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/conversion/dicom-to-psd" name="DICOM TO PSD" description="Adobe Photoshop Native Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/conversion/dicom-to-svg" name="DICOM TO SVG" description="Scalable Vector Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/conversion/dicom-to-tiff" name="DICOM TO TIFF" description="Tagged Image Format" >}}
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

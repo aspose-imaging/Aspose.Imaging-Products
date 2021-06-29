@@ -64,11 +64,19 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{% blocks/products/pf/agp/code-block title="Command" offSpacer="" %}}
 
+```cs
+// load the SVG file in an instance of Image
+var image = Aspose.Imaging.Image.Load("template.svg");
+// create an instance of DicomOptions
+var options = new Aspose.Imaging.ImageOptions.DicomOptions();
+// save SVG as a DICOM
+image.Save("output.dicom", options); 
 
-{{< gist "aspose-com-gists" "2d1bcb9853315458808ffbcd9e7e3e02" "convert-svg-to-dicom.cs" >}}
+```
 
-
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -108,6 +116,22 @@ DICOM is the acronym for Digital Imaging and Communications in Medicine and pert
 {{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
+
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert SVG into many other file formats including few listed below." >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/conversion/svg-to-bmp" name="SVG TO BMP" description="Bitmap Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/conversion/svg-to-dicom" name="SVG TO DICOM" description="Digital Imaging & Communications" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/conversion/svg-to-emf" name="SVG TO EMF" description="Enhanced Metafile Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/conversion/svg-to-gif" name="SVG TO GIF" description="Graphical Interchange Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/conversion/svg-to-jpeg" name="SVG TO JPEG" description="JPEG Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/conversion/svg-to-pdf" name="SVG TO PDF" description="Portable Document Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/conversion/svg-to-png" name="SVG TO PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/conversion/svg-to-psd" name="SVG TO PSD" description="Adobe Photoshop Native Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/conversion/svg-to-svg" name="SVG TO SVG" description="Scalable Vector Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/conversion/svg-to-tiff" name="SVG TO TIFF" description="Tagged Image Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/conversion/svg-to-wmf" name="SVG TO WMF" description="Microsoft Windows Metafile" >}}
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

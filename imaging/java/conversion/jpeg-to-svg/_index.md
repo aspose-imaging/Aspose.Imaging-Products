@@ -21,7 +21,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
-```xml
+```cs
 
 <repository>
 <id>AsposeJavaAPI</id>
@@ -35,12 +35,12 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% blocks/products/pf/agp/code-block title="Dependency" offSpacer="true" %}}
 
-```xml
+```cs
 <dependency>
 <groupId>com.aspose</groupId>
 <artifactId>aspose-imaging</artifactId>
 <version>version of aspose-imaging API</version>
-<classifier>jdk16</classifier>
+<classifier>jdk17</classifier>
 </dependency>
 
 ```
@@ -70,17 +70,21 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Imaging for Java is supported on all major operating systems. Just make sure that you have the following prerequisites.
+ Aspose.Imaging for Java supports on all major platforms and Operating Systems. Please make sure that you have the following prerequisites.
 
 {{% /blocks/products/pf/agp/text %}}
-
-- JDK 1.6 or higher is installed.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Convert JPEG to SVG - Java‎" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "07be292db0a393dc95f153f84b28c069" "convert-jpeg-to-svg.java" >}}
+```cs
+// load the JPEG file
+Image document = Image.load("template.jpeg");
+// save JPEG as SVG
+document.save("output.svg", new SvgOptions());   
+
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -126,6 +130,20 @@ Read More
 {{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
+
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert JPEG into many other file formats including few listed below." >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jpeg-to-bmp" name="JPEG TO BMP" description="Bitmap Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jpeg-to-dicom" name="JPEG TO DICOM" description="Digital Imaging & Communications" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jpeg-to-emf" name="JPEG TO EMF" description="Enhanced Metafile Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jpeg-to-gif" name="JPEG TO GIF" description="Graphical Interchange Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jpeg-to-pdf" name="JPEG TO PDF" description="Portable Document Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jpeg-to-png" name="JPEG TO PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jpeg-to-psd" name="JPEG TO PSD" description="Adobe Photoshop Native Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jpeg-to-tiff" name="JPEG TO TIFF" description="Tagged Image Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jpeg-to-wmf" name="JPEG TO WMF" description="Microsoft Windows Metafile" >}}
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

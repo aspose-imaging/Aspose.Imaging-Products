@@ -64,11 +64,19 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{% blocks/products/pf/agp/code-block title="Command" offSpacer="" %}}
 
+```cs
+// load the WEBP file in an instance of Image
+var image = Aspose.Imaging.Image.Load("template.webp");
+// create an instance of BmpOptions
+var options = new Aspose.Imaging.ImageOptions.BmpOptions();
+// save WEBP as a BMP
+image.Save("output.bmp", options); 
 
-{{< gist "aspose-com-gists" "2d1bcb9853315458808ffbcd9e7e3e02" "convert-webp-to-bmp.cs" >}}
+```
 
-
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -108,6 +116,21 @@ Files having extension .BMP represent Bitmap Image files that are used to store 
 {{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
+
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert WEBP into many other file formats including few listed below." >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/conversion/webp-to-dicom" name="WEBP TO DICOM" description="Digital Imaging & Communications" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/conversion/webp-to-emf" name="WEBP TO EMF" description="Enhanced Metafile Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/conversion/webp-to-gif" name="WEBP TO GIF" description="Graphical Interchange Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/conversion/webp-to-jpeg" name="WEBP TO JPEG" description="JPEG Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/conversion/webp-to-pdf" name="WEBP TO PDF" description="Portable Document Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/conversion/webp-to-png" name="WEBP TO PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/conversion/webp-to-psd" name="WEBP TO PSD" description="Adobe Photoshop Native Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/conversion/webp-to-svg" name="WEBP TO SVG" description="Scalable Vector Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/conversion/webp-to-tiff" name="WEBP TO TIFF" description="Tagged Image Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/conversion/webp-to-wmf" name="WEBP TO WMF" description="Microsoft Windows Metafile" >}}
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

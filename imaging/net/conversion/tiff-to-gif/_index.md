@@ -64,11 +64,19 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{% blocks/products/pf/agp/code-block title="Command" offSpacer="" %}}
 
+```cs
+// load the TIFF file in an instance of Image
+var image = Aspose.Imaging.Image.Load("template.tiff");
+// create an instance of GifOptions
+var options = new Aspose.Imaging.ImageOptions.GifOptions();
+// save TIFF as a GIF
+image.Save("output.gif", options); 
 
-{{< gist "aspose-com-gists" "2d1bcb9853315458808ffbcd9e7e3e02" "convert-tiff-to-gif.cs" >}}
+```
 
-
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -108,6 +116,20 @@ A GIF or Graphical Interchange Format is a type of highly compressed image. Owne
 {{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
+
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert TIFF into many other file formats including few listed below." >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/conversion/tiff-to-bmp" name="TIFF TO BMP" description="Bitmap Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/conversion/tiff-to-dicom" name="TIFF TO DICOM" description="Digital Imaging & Communications" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/conversion/tiff-to-emf" name="TIFF TO EMF" description="Enhanced Metafile Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/conversion/tiff-to-jpeg" name="TIFF TO JPEG" description="JPEG Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/conversion/tiff-to-pdf" name="TIFF TO PDF" description="Portable Document Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/conversion/tiff-to-png" name="TIFF TO PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/conversion/tiff-to-psd" name="TIFF TO PSD" description="Adobe Photoshop Native Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/conversion/tiff-to-svg" name="TIFF TO SVG" description="Scalable Vector Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/conversion/tiff-to-wmf" name="TIFF TO WMF" description="Microsoft Windows Metafile" >}}
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

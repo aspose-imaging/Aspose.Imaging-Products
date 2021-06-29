@@ -21,7 +21,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
-```xml
+```cs
 
 <repository>
 <id>AsposeJavaAPI</id>
@@ -35,12 +35,12 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% blocks/products/pf/agp/code-block title="Dependency" offSpacer="true" %}}
 
-```xml
+```cs
 <dependency>
 <groupId>com.aspose</groupId>
 <artifactId>aspose-imaging</artifactId>
 <version>version of aspose-imaging API</version>
-<classifier>jdk16</classifier>
+<classifier>jdk17</classifier>
 </dependency>
 
 ```
@@ -70,17 +70,21 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Imaging for Java is supported on all major operating systems. Just make sure that you have the following prerequisites.
+ Aspose.Imaging for Java supports on all major platforms and Operating Systems. Please make sure that you have the following prerequisites.
 
 {{% /blocks/products/pf/agp/text %}}
-
-- JDK 1.6 or higher is installed.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Convert DICOM to BMP - Java‎" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "07be292db0a393dc95f153f84b28c069" "convert-dicom-to-bmp.java" >}}
+```cs
+// load the DICOM file
+Image document = Image.load("template.dicom");
+// save DICOM as BMP
+document.save("output.bmp", new BmpOptions());   
+
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -126,6 +130,20 @@ Read More
 {{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
+
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert DICOM into many other file formats including few listed below." >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/dicom-to-emf" name="DICOM TO EMF" description="Enhanced Metafile Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/dicom-to-gif" name="DICOM TO GIF" description="Graphical Interchange Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/dicom-to-jpeg" name="DICOM TO JPEG" description="JPEG Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/dicom-to-pdf" name="DICOM TO PDF" description="Portable Document Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/dicom-to-png" name="DICOM TO PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/dicom-to-psd" name="DICOM TO PSD" description="Adobe Photoshop Native Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/dicom-to-svg" name="DICOM TO SVG" description="Scalable Vector Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/dicom-to-tiff" name="DICOM TO TIFF" description="Tagged Image Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/dicom-to-wmf" name="DICOM TO WMF" description="Microsoft Windows Metafile" >}}
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

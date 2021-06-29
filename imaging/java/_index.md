@@ -215,6 +215,28 @@ description: Java Image processing and manipulation library. Create load view ed
      Apng
     </li>
    </ul>
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+    Output Only
+   </header>
+   <ul>
+    <li>
+     PDF
+    </li>
+    <li>
+     <b>
+      Photoshop:
+     </b>
+     PSD
+    </li>
+    <li>
+     Html5 Canvas
+    </li>
+    <li>
+     Dxf
+    </li>
+   </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
@@ -237,6 +259,9 @@ description: Java Image processing and manipulation library. Create load view ed
      EPS
     </li>
     <li>
+     WebP
+    </li>
+    <li>
      CMX
     </li>
     <li>
@@ -250,29 +275,6 @@ description: Java Image processing and manipulation library. Create load view ed
     </li>
     <li>
      FODG
-    </li>
-   </ul>
-   
-   <header>
-    <i class="fa fa-mail-forward">
-    </i>
-    Output Only
-   </header>
-   <ul>
-    <li>
-     PDF
-    </li>
-    <li>
-     <b>
-      Photoshop:
-     </b>
-     PSD
-    </li>
-    <li>
-     Html5 Canvas
-    </li>
-    <li>
-     Dxf
     </li>
    </ul>
   </div>

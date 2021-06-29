@@ -21,7 +21,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
-```xml
+```cs
 
 <repository>
 <id>AsposeJavaAPI</id>
@@ -35,12 +35,12 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% blocks/products/pf/agp/code-block title="Dependency" offSpacer="true" %}}
 
-```xml
+```cs
 <dependency>
 <groupId>com.aspose</groupId>
 <artifactId>aspose-imaging</artifactId>
 <version>version of aspose-imaging API</version>
-<classifier>jdk16</classifier>
+<classifier>jdk17</classifier>
 </dependency>
 
 ```
@@ -70,17 +70,21 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Imaging for Java is supported on all major operating systems. Just make sure that you have the following prerequisites.
+ Aspose.Imaging for Java supports on all major platforms and Operating Systems. Please make sure that you have the following prerequisites.
 
 {{% /blocks/products/pf/agp/text %}}
-
-- JDK 1.6 or higher is installed.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Convert TIFF to JPEG - Java‎" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "07be292db0a393dc95f153f84b28c069" "convert-tiff-to-jpeg.java" >}}
+```cs
+// load the TIFF file
+Image document = Image.load("template.tiff");
+// save TIFF as JPEG
+document.save("output.jpeg", new JpegOptions());   
+
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -126,6 +130,21 @@ Read More
 {{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
+
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert TIFF into many other file formats including few listed below." >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/tiff-to-bmp" name="TIFF TO BMP" description="Bitmap Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/tiff-to-dicom" name="TIFF TO DICOM" description="Digital Imaging & Communications" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/tiff-to-emf" name="TIFF TO EMF" description="Enhanced Metafile Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/tiff-to-gif" name="TIFF TO GIF" description="Graphical Interchange Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/tiff-to-odg" name="TIFF TO ODG" description="Apache OpenOffice Draw Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/tiff-to-pdf" name="TIFF TO PDF" description="Portable Document Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/tiff-to-png" name="TIFF TO PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/tiff-to-psd" name="TIFF TO PSD" description="Adobe Photoshop Native Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/tiff-to-svg" name="TIFF TO SVG" description="Scalable Vector Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/tiff-to-wmf" name="TIFF TO WMF" description="Microsoft Windows Metafile" >}}
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     

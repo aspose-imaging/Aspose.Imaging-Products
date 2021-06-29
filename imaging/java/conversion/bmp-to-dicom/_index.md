@@ -21,7 +21,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
-```xml
+```cs
 
 <repository>
 <id>AsposeJavaAPI</id>
@@ -35,12 +35,12 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% blocks/products/pf/agp/code-block title="Dependency" offSpacer="true" %}}
 
-```xml
+```cs
 <dependency>
 <groupId>com.aspose</groupId>
 <artifactId>aspose-imaging</artifactId>
 <version>version of aspose-imaging API</version>
-<classifier>jdk16</classifier>
+<classifier>jdk17</classifier>
 </dependency>
 
 ```
@@ -59,10 +59,10 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load BMP file with Image.load method
-+  Create & set an instance of DicomOptions
-+  Call Image.save method
-+  Pass file path with DICOM extension & object of DicomOptions as parameters
+1.  Load BMP file with Image.load method
+1.  Create & set an instance of DicomOptions
+1.  Call Image.save method
+1.  Pass file path with DICOM extension & object of DicomOptions as parameters
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -70,17 +70,21 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Imaging for Java is supported on all major operating systems. Just make sure that you have the following prerequisites.
+ Aspose.Imaging for Java supports on all major platforms and Operating Systems. Please make sure that you have the following prerequisites.
 
 {{% /blocks/products/pf/agp/text %}}
-
-- JDK 1.6 or higher is installed.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Convert BMP to DICOM - Java‎" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "07be292db0a393dc95f153f84b28c069" "convert-bmp-to-dicom.java" >}}
+```cs
+// load the BMP file
+Image document = Image.load("template.bmp");
+// save BMP as DICOM
+document.save("output.dicom", new DicomOptions());   
+
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -126,6 +130,20 @@ Read More
 {{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
+
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert BMP into many other file formats including few listed below." >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/bmp-to-emf" name="BMP TO EMF" description="Enhanced Metafile Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/bmp-to-gif" name="BMP TO GIF" description="Graphical Interchange Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/bmp-to-jpeg" name="BMP TO JPEG" description="JPEG Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/bmp-to-pdf" name="BMP TO PDF" description="Portable Document Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/bmp-to-png" name="BMP TO PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/bmp-to-psd" name="BMP TO PSD" description="Adobe Photoshop Native Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/bmp-to-svg" name="BMP TO SVG" description="Scalable Vector Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/bmp-to-tiff" name="BMP TO TIFF" description="Tagged Image Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/bmp-to-wmf" name="BMP TO WMF" description="Microsoft Windows Metafile" >}}
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     
