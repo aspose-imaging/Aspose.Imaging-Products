@@ -67,11 +67,40 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{% blocks/products/pf/agp/code-block title="Add Watermark to SVG - C#" offSpacer="" %}}
 
+```cs
 
-{{< gist "aspose-com-gists" "2d1bcb9853315458808ffbcd9e7e3e02" "watermark-svg-image.cs" >}}
+// load an existing SVG with Image.Load
+using (var image = Aspose.Imaging.Image.Load("template.svg"))
+{
+    // create and initialize an instance of Graphics class and Initialize an object of SizeF to store image Size
+    var graphics = new Aspose.Imaging.Graphics(image);
+    var size = graphics.Image.Size;
 
+    // create an instance of Font. Initialize it with Font Face, Size and Style
+    var font = new Aspose.Imaging.Font("Times New Roman", 20, Aspose.Imaging.FontStyle.Bold);
 
+    // create an instance of SolidBrush and set Color & Opacity
+    var brush = new Aspose.Imaging.Brushes.SolidBrush();
+    brush.Color = Aspose.Imaging.Color.Red;
+    brush.Opacity = 0;
+
+    // initialize an object of StringFormat class and set its various properties
+    var format = new Aspose.Imaging.StringFormat();
+    format.Alignment = Aspose.Imaging.StringAlignment.Center;
+    format.FormatFlags = Aspose.Imaging.StringFormatFlags.MeasureTrailingSpaces;
+
+    // draw the string on image 
+    graphics.DrawString("CONFIDENTIAL", font, brush, 0, 0, format);
+
+    // save output to disc
+    image.Save("output.svg");
+}  
+
+```
+
+{{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
@@ -104,6 +133,29 @@ SVG files are Scalable Vector Graphics Files that use XML based text format for 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 <!-- aboutfile Ends -->
+
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Watermarking Formats" subTitle="Using C#, one can easily watermark different formats including." >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/watermark/bmp" name="BMP" description="Bitmap Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/watermark/cdr" name="CDR" description="Vector Drawing Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/watermark/cmx" name="CMX" description="Corel Exchange Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/watermark/dib" name="DIB" description="Device Independent Bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/watermark/dicom" name="DICOM" description="Digital Imaging & Communications" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/watermark/djvu" name="DJVU" description="Graphics Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/watermark/dng" name="DNG" description="Digital Camera Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/watermark/emf" name="EMF" description="Enhanced Metafile Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/watermark/eps" name="EPS" description="Encapsulated PostScript Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/watermark/gif" name="GIF" description="Graphical Interchange Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/watermark/j2k" name="J2K" description="Wavelet Compressed Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/watermark/jp2" name="JP2" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/watermark/odg" name="ODG" description="Apache OpenOffice Draw Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/watermark/otg" name="OTG" description="OpenDocument Standard" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/watermark/png" name="PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/watermark/tiff" name="TIFF" description="Tagged Image Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/watermark/webp" name="WEBP" description="Raster Web Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/watermark/wmf" name="WMF" description="Microsoft Windows Metafile" >}}
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     
