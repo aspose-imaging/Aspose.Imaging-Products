@@ -425,33 +425,8 @@ description: Image processing and manipulation library API  to create edit draw 
      <h3>
       Save image in different formats - C#
      </h3>
-     <pre><code class="cs">// load file to be converted
-
-using (var img = Aspose.Imaging.Image.Load(dir + "template.jpg"))
-
-{
-
-    // save in different formats
-
-    img.Save(dir + "output.webp", new Aspose.Imaging.ImageOptions.WebPOptions());
-
-    img.Save(dir + "output.psd ", new Aspose.Imaging.ImageOptions.PsdOptions());
-
-    img.Save(dir + "output.tiff", new Aspose.Imaging.ImageOptions.TiffOptions(TiffExpectedFormat.Default));
-
+{{< gist "aspose-com-gists" "2d1bcb9853315458808ffbcd9e7e3e02" "save-image-in-different-formats.cs" >}}
      
-
-     // Save image to Pdf
-
-     PdfOptions exportOptions = new PdfOptions();
-
-     exportOptions.PdfDocumentInfo = new Aspose.Imaging.FileFormats.Pdf.PdfDocumentInfo();
-
-
-
-     img.Save(dir + "output.pdf", exportOptions);
-
-}</code></pre>
     </div>
    </div>
    <div class="col-lg-12">
@@ -476,23 +451,8 @@ using (var img = Aspose.Imaging.Image.Load(dir + "template.jpg"))
      <h3>
       Load, edit, filter and save photos - C#
      </h3>
-     <pre><code class="cs">
-
-// load file to be converted
-
-using (var img = Aspose.Imaging.Image.Load("photo.dng"))
-
-{
-
-    //Apply grayscale filter to loaded image
-
-    img.Grayscale();
-
-    //Save image to Jpeg format
-
-    img.Save(dir + "output.jpg", new Aspose.Imaging.ImageOptions.JpegOptions());
-
-}</code></pre>
+{{< gist "aspose-com-gists" "2d1bcb9853315458808ffbcd9e7e3e02" "load-edit-filter-save-photos.cs" >}}
+     
     </div>
    </div>
    <div class="col-lg-12">
@@ -514,63 +474,7 @@ using (var img = Aspose.Imaging.Image.Load("photo.dng"))
      <h3>
       Create png image, manipulate it and save - C#
      </h3>
-     <pre><code class="cs">
-
-// Image width and height
-
-int width = 500;
-
-int height = 300;
-
-
-
-// Where created image to store
-
-string path = @"C:/createdImage.png";
-
-// Create options
-
-PngOptions options = new PngOptions() { Source = new FileCreateSource(path, false) };
-
-using (PngImage image = (PngImage)Image.Create(options, width, height))
-
-{          
-
-     // Create and initialize an instance of Graphics class 
-
-     // and Clear Graphics surface
-
-     Graphics graphic = new Graphics(image);
-
-     graphic.Clear(Color.Green);
-
-     // Draw line on image
-
-     graphic.DrawLine(new Pen(Color.Blue), 9, 9, 90, 90);        
-
-
-
-     // Resize image
-
-     int newWidth = 400;
-
-     image.ResizeWidthProportionally(newWidth, ResizeType.LanczosResample);  
-
-
-
-     // Crop the image to specified area
-
-    Aspose.Imaging.Rectangle area = new Aspose.Imaging.Rectangle(10,10,200,200);    
-
-    image.Crop(area);
-
-   
-
-    image.Save();
-
-}
-
-</code></pre>
+{{< gist "aspose-com-gists" "2d1bcb9853315458808ffbcd9e7e3e02" "create-png-image-manipulate-and-save.cs" >}}
     </div>
    </div>
    <!--
