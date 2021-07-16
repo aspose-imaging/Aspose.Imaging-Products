@@ -64,19 +64,11 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Command" offSpacer="" %}}
 
-```cs
-// load the DICOM file in an instance of Image
-var image = Aspose.Imaging.Image.Load("template.dicom");
-// create an instance of SvgOptions
-var options = new Aspose.Imaging.ImageOptions.SvgOptions();
-// save DICOM as a SVG
-image.Save("output.svg", options); 
 
-```
+{{< gist "aspose-com-gists" "2d1bcb9853315458808ffbcd9e7e3e02" "convert-dicom-to-svg.cs" >}}
 
-{{% /blocks/products/pf/agp/code-block %}}
+
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

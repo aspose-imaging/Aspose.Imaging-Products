@@ -64,19 +64,11 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Command" offSpacer="" %}}
 
-```cs
-// load the CMX file in an instance of Image
-var image = Aspose.Imaging.Image.Load("template.cmx");
-// create an instance of TiffOptions
-var options = new Aspose.Imaging.ImageOptions.TiffOptions();
-// save CMX as a TIFF
-image.Save("output.tiff", options); 
 
-```
+{{< gist "aspose-com-gists" "2d1bcb9853315458808ffbcd9e7e3e02" "convert-cmx-to-tiff.cs" >}}
 
-{{% /blocks/products/pf/agp/code-block %}}
+
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
