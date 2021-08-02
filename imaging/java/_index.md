@@ -400,57 +400,30 @@ description: Java Image processing and manipulation library. Create load view ed
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Image Format Conversion in an Easy Way
+     Convert Image Formats
     </h2>
     <p>
-     Aspose.Imaging for Java API provides an array of advanced algorithms encapsulated by specialized classes for format conversion. These classes can convert images to conventional raster formats as well as to PSD, SVG, DjVu, DICOM, WMF, EMF, DNG, &amp; WebP formats and are simple to use.
+     Along with the rich set of processing routines, API also provides an array of advanced algorithms that makes it an all-in-one solution for image conversion. These algorithms are encapsulated in specialized classes, that are simple to use and can export images to conventional raster formats along with PSD, WMF, EMF, DjVu, DICOM, DNG &amp; WebP formats with reliability.
+    </p>
+    <p>
+     Using this library, format conversion is as simple as changing the file extension to the desired format.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Save the image in multiple formats - Java
+      Save image in different formats - Java
      </h3>
-     <pre><code class="java">// load document for conversion
-
-Image img = Image.load(dir + "template.jpg");
-
-// JPG to PSD Conversion
-
-img.save(dir + "output.png", new PngOptions());
-
-// JPG to TIFF format
-
-img.save(dir + "output.tiff", new TiffOptions(TiffExpectedFormat.Default));
-
-// convert jpg to SVG format
-
-SvgOptions svgOptions = new SvgOptions();
-
-SvgRasterizationOptions svgRasterizationOptions = new SvgRasterizationOptions();
-
-svgRasterizationOptions.setPageWidth(img.getWidth());
-
-svgRasterizationOptions.setPageHeight(img.getHeight());
-
-svgOptions.setVectorRasterizationOptions(svgRasterizationOptions);
-
-img.save(dir + "output.svg", svgOptions);</code></pre>
+{{< gist "aspose-com-gists" "07be292db0a393dc95f153f84b28c069" "save-image-in-different-formats.java" >}}
     </div>
    </div>
-   <!--<div class="col-lg-12">
-
-<h2 class="h2title">Draw Images On the Fly</h2>
-
-<p>Aspose.Imaging for Java supports an advanced set of drawing features along with the core functionality. Developers can draw on the image surface either by manipulating the pixel information or by using the advanced functionality like graphics and paths.</p>
-
-<p>Aspose.Imaging for Java API enables you to easily draw lines, curves, rectangles & other geometric shapes, fill closed shapes with solid colors or gradients & textures, draw text with options for fine control over the font and compose images by drawing of one image on another.</p>
-
-</div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Register Custom File Formats
+     Dynamically Draw Images
     </h2>
     <p>
-     Another promising feature that Aspose.Imaging for Java API provides is to register custom formats. The library allows the developers to register new custom file formats to create, open or export to by using one of  Aspose.Imaging for Java registry APIs for the corresponding operation. This feature allows the addition of new file formats that can be used for drawing and export purposes.
+     Aspose.Imaging for Java supports an advanced set of drawing features along with the core functionality. Developers can draw on image surface either by manipulating the pixel information or by using the advanced functionality like Graphics and Paths.
+    </p>
+    <p>
+     Java image library enables you to easily draw lines, curves, rectangles &amp; other geometric shapes, fill closed shapes with solid colors or gradients &amp; textures, draw text with options for fine control over the font and draw images by loading existing image data.
     </p>
    </div>
    <div class="col-lg-12">
@@ -460,13 +433,19 @@ img.save(dir + "output.svg", svgOptions);</code></pre>
     <p>
      Aspose.Imaging provides ability to load, edit, process and save photos. Using library you can easily edit loaded photos, apply filters, manipulate them using Graphics and Paths. Using Aspose.Imaging, you can easily filter photos.
     </p>
+    <div class="codeblock" id="code">
+     <h3>
+      Load, edit, filter and save photos - Java
+     </h3>
+{{< gist "aspose-com-gists" "07be292db0a393dc95f153f84b28c069" "load-edit-filter-save-photos.java" >}}
+    </div>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
      Compress images
     </h2>
     <p>
-     Aspose.Imaging for .NET supports compressed vector images. They are vector images of the EMF, WMF, SVG formats compressed using a zip archiver. Their size averages from 30-70% of the original. This saves space on media and reduces file transfer time over the network.
+     Aspose.Imaging for Java supports compressed vector images. They are vector images of the EMF, WMF, SVG formats compressed using a zip archiver. Their size averages from 30-70% of the original. This saves space on media and reduces file transfer time over the network.
     </p>
    </div>
    <div class="col-lg-12">
@@ -478,76 +457,10 @@ img.save(dir + "output.svg", svgOptions);</code></pre>
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Create png image, manipulate it and save - Java
+      Create png image, manipulate it and save - C#
      </h3>
-     <pre><code class="java">int width = 500;
-
-int height = 300;
-
-
-
-// Where created image to store
-
-String path = "C:/createdImage.png";
-
-// Create options
-
-try (PngOptions options = new PngOptions())
-
-{
-
-	options.setSource(new FileCreateSource(path, false));
-
-
-
-	try (PngImage image = (PngImage)Image.create(options, width, height))
-
-	{          
-
-		 // Create and initialize an instance of Graphics class 
-
-		 // and Clear Graphics surface
-
-		 Graphics graphic = new Graphics(image);
-
-		 graphic.clear(Color.getGreen());
-
-		 // Draw line on image
-
-		 graphic.drawLine(new Pen(Color.getBlue()), 9, 9, 90, 90);
-
-
-
-		 // Resize image
-
-		 int newWidth = 400;
-
-		 image.resizeWidthProportionally(newWidth, ResizeType.LanczosResample);  
-
-
-
-		 // Crop the image to specified area
-
-		com.aspose.imaging.Rectangle area = new com.aspose.imaging.Rectangle(10,10,200,200);
-
-		image.crop(area);
-
-	   
-
-		image.save();
-
-	}
-
-};</code></pre>
+{{< gist "aspose-com-gists" "07be292db0a393dc95f153f84b28c069" "create-png-image-manipulate-and-save.java" >}}
     </div>
-   </div>
-   <div class="col-lg-12">
-    <h2 class="h2title">
-     Extract Data from TIFF Formats
-    </h2>
-    <p>
-     The image processing library allows data recovery from broken TIFF with some loss. API loads TIFF file having corrupted data strips or improper data layout and replaces corrupted data with some color. Developers can further process the resultant image without experiencing errors using the API.
-    </p>
    </div>
    <!-- 
 
@@ -555,7 +468,7 @@ try (PngOptions options = new PngOptions())
 
 <h2 class="h2title">All JDK Version Supported</h2>
 
-<p>Aspose.Imaging for Java together with <a href="/imaging/net">Aspose.Imaging for .NET</a> covers the main development environments and deployment platforms in common use today. Aspose.Imaging for Java will run on any place where Java Runtime is installed, and it is compatible with JDK1.6 and above.</p>
+<p>Aspose.Imaging for Java together with <a href="/imaging/net">Aspose.Imaging for Java</a> covers the main development environments and deployment platforms in common use today. Aspose.Imaging for Java will run on any place where Java Runtime is installed, and it is compatible with JDK1.6 and above.</p>
 
 </div>
 

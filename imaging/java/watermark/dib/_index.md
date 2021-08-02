@@ -21,8 +21,7 @@ description: Try our On-Premise document APIs to add or remove watermark to DIB 
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
-```cs
-
+```xml
 <repository>
 <id>AsposeJavaAPI</id>
 <name>Aspose Java API</name>
@@ -35,7 +34,7 @@ description: Try our On-Premise document APIs to add or remove watermark to DIB 
 
 {{% blocks/products/pf/agp/code-block title="Dependency" offSpacer="true" %}}
 
-```cs
+```xml
 <dependency>
 <groupId>com.aspose</groupId>
 <artifactId>aspose-imaging</artifactId>
@@ -77,29 +76,7 @@ description: Try our On-Premise document APIs to add or remove watermark to DIB 
 
 {{% blocks/products/pf/agp/code-block title="Add Watermark to DIB - Java" offSpacer="" %}}
 
-```cs
-
-// Load image
-Image image = Image.load("image.dib");
-
-// Create and initialize an instance of Graphics class
-Graphics graphics= new Graphics(image);
-
-// Creates an instance of Font
-Font font = new Font("Times New Roman", 16, FontStyle.Bold);
-
-// Create an instance of SolidBrush and set its properties
-SolidBrush brush = new SolidBrush();
-brush.setColor(Color.getBlack());
-brush.setOpacity(100);
-
-// Draw a string using the SolidBrush and Font objects at specific point
-graphics.drawString("Watermark by Aspose.Imaging for Java", font, brush, new PointF(image.getWidth()-100, image.getHeight()-100));
-
-// Save image
-image.save("watermarked-image.dib");  
-
-```
+{{< gist "aspose-com-gists" "07be292db0a393dc95f153f84b28c069" "watermark-dib-image.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
