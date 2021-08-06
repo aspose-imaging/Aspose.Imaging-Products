@@ -39,7 +39,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 <groupId>com.aspose</groupId>
 <artifactId>aspose-imaging</artifactId>
 <version>version of aspose-imaging API</version>
-<classifier>jdk17</classifier>
+<classifier>jdk16</classifier>
 </dependency>
 
 ```
