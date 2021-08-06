@@ -39,7 +39,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 <groupId>com.aspose</groupId>
 <artifactId>aspose-imaging</artifactId>
 <version>version of aspose-imaging API</version>
-<classifier>jdk17</classifier>
+<classifier>jdk16</classifier>
 </dependency>
 
 ```
@@ -80,14 +80,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% blocks/products/pf/agp/code-block title="Convert TGA to J2K - Java‎" offSpacer="" %}}
 
-```cs
-// load the TGA file
-Image document = Image.load("template.tga");
-// save TGA as J2K
-document.save("output.j2k", new J2kOptions());   
-   
-
-```
+{{< gist "aspose-com-gists" "07be292db0a393dc95f153f84b28c069" "convert-tga-to-j2k.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

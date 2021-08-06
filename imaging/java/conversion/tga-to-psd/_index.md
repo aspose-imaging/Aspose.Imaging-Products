@@ -39,7 +39,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 <groupId>com.aspose</groupId>
 <artifactId>aspose-imaging</artifactId>
 <version>version of aspose-imaging API</version>
-<classifier>jdk17</classifier>
+<classifier>jdk16</classifier>
 </dependency>
 
 ```
@@ -80,14 +80,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% blocks/products/pf/agp/code-block title="Convert TGA to PSD - Java‎" offSpacer="" %}}
 
-```cs
-// load the TGA file
-Image document = Image.load("template.tga");
-// save TGA as PSD
-document.save("output.psd", new PsdOptions());   
-   
-
-```
+{{< gist "aspose-com-gists" "07be292db0a393dc95f153f84b28c069" "convert-tga-to-psd.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
