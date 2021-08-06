@@ -80,14 +80,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% blocks/products/pf/agp/code-block title="Convert TGA to WMZ - Java‎" offSpacer="" %}}
 
-```cs
-// load the TGA file
-Image document = Image.load("template.tga");
-// save TGA as WMZ
-document.save("output.wmz", new WmzOptions());   
-   
-
-```
+{{< gist "aspose-com-gists" "07be292db0a393dc95f153f84b28c069" "convert-tga-to-wmz.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

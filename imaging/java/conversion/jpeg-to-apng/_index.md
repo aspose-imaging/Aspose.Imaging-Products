@@ -80,14 +80,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% blocks/products/pf/agp/code-block title="Convert JPEG to APNG - Java‎" offSpacer="" %}}
 
-```cs
-// load the JPEG file
-Image document = Image.load("template.jpeg");
-// save JPEG as APNG
-document.save("output.apng", new ApngOptions());   
-   
-
-```
+{{< gist "aspose-com-gists" "07be292db0a393dc95f153f84b28c069" "convert-jpeg-to-apng.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

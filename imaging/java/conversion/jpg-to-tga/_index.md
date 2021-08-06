@@ -80,14 +80,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% blocks/products/pf/agp/code-block title="Convert JPG to TGA - Java‎" offSpacer="" %}}
 
-```cs
-// load the JPG file
-Image document = Image.load("template.jpg");
-// save JPG as TGA
-document.save("output.tga", new TgaOptions());   
-   
-
-```
+{{< gist "aspose-com-gists" "07be292db0a393dc95f153f84b28c069" "convert-jpeg-to-tga.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

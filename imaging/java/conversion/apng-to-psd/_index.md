@@ -80,14 +80,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% blocks/products/pf/agp/code-block title="Convert APNG to PSD - Java‎" offSpacer="" %}}
 
-```cs
-// load the APNG file
-Image document = Image.load("template.apng");
-// save APNG as PSD
-document.save("output.psd", new PsdOptions());   
-   
-
-```
+{{< gist "aspose-com-gists" "07be292db0a393dc95f153f84b28c069" "convert-apng-to-psd.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

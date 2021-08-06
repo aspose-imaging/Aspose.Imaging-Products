@@ -80,14 +80,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% blocks/products/pf/agp/code-block title="Convert JP2 to TGA - Java‎" offSpacer="" %}}
 
-```cs
-// load the JP2 file
-Image document = Image.load("template.jp2");
-// save JP2 as TGA
-document.save("output.tga", new TgaOptions());   
-   
-
-```
+{{< gist "aspose-com-gists" "07be292db0a393dc95f153f84b28c069" "convert-jp2-to-tga.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

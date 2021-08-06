@@ -80,14 +80,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% blocks/products/pf/agp/code-block title="Convert WMF to SVGZ - Java‎" offSpacer="" %}}
 
-```cs
-// load the WMF file
-Image document = Image.load("template.wmf");
-// save WMF as SVGZ
-document.save("output.svgz", new SvgzOptions());   
-   
-
-```
+{{< gist "aspose-com-gists" "07be292db0a393dc95f153f84b28c069" "convert-wmf-to-svgz.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

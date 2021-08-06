@@ -80,14 +80,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% blocks/products/pf/agp/code-block title="Convert PNG to JPEG2000 - Java‎" offSpacer="" %}}
 
-```cs
-// load the PNG file
-Image document = Image.load("template.png");
-// save PNG as JPEG2000
-document.save("output.jpeg2000", new Jpeg2000Options());   
-   
-
-```
+{{< gist "aspose-com-gists" "07be292db0a393dc95f153f84b28c069" "convert-png-to-jpeg2000.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

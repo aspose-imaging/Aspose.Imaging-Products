@@ -80,14 +80,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% blocks/products/pf/agp/code-block title="Convert SVG to CANVAS - Java‎" offSpacer="" %}}
 
-```cs
-// load the SVG file
-Image document = Image.load("template.svg");
-// save SVG as CANVAS
-document.save("output.canvas", new CanvasOptions());   
-   
-
-```
+{{< gist "aspose-com-gists" "07be292db0a393dc95f153f84b28c069" "convert-svg-to-canvas.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

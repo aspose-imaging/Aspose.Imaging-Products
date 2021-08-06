@@ -80,14 +80,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% blocks/products/pf/agp/code-block title="Convert EMZ to SVG - Java‎" offSpacer="" %}}
 
-```cs
-// load the EMZ file
-Image document = Image.load("template.emz");
-// save EMZ as SVG
-document.save("output.svg", new SvgOptions());   
-   
-
-```
+{{< gist "aspose-com-gists" "07be292db0a393dc95f153f84b28c069" "convert-emz-to-svg.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

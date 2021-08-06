@@ -80,14 +80,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% blocks/products/pf/agp/code-block title="Convert ODG to EMZ - Java‎" offSpacer="" %}}
 
-```cs
-// load the ODG file
-Image document = Image.load("template.odg");
-// save ODG as EMZ
-document.save("output.emz", new EmzOptions());   
-   
-
-```
+{{< gist "aspose-com-gists" "07be292db0a393dc95f153f84b28c069" "convert-odg-to-emz.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

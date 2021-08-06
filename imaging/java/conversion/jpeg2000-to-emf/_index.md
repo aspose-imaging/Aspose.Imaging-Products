@@ -80,14 +80,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% blocks/products/pf/agp/code-block title="Convert JPEG2000 to EMF - Java‎" offSpacer="" %}}
 
-```cs
-// load the JPEG2000 file
-Image document = Image.load("template.jpeg2000");
-// save JPEG2000 as EMF
-document.save("output.emf", new EmfOptions());   
-   
-
-```
+{{< gist "aspose-com-gists" "07be292db0a393dc95f153f84b28c069" "convert-jpeg2000-to-emf.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
