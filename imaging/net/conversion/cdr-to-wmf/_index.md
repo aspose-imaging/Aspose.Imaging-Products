@@ -64,11 +64,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-
-
-{{< gist "aspose-com-gists" "2d1bcb9853315458808ffbcd9e7e3e02" "convert-cdr-to-wmf.cs" >}}
-
-
+{{< blocks/products/pf/agp/content-autogen gistPath="https://gist.github.com/aspose-com-gists/2d1bcb9853315458808ffbcd9e7e3e02.js?file=convert-cdr-to-wmf.cs">}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
