@@ -65,8 +65,11 @@ PM> Install-Package Aspose.Imaging
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 
+{% blocks/products/pf/agp/code-block title="Convert dng to tiff - .NET" offSpacer="" %}
 
 {{< gist "aspose-com-gists" "2d1bcb9853315458808ffbcd9e7e3e02" "convert-dng-to-tiff.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
 
 
 
