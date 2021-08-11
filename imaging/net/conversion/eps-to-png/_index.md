@@ -64,19 +64,15 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Command" offSpacer="" %}}
 
-```cs
-// load the EPS file in an instance of Image
-var image = Aspose.Imaging.Image.Load("template.eps");
-// create an instance of PngOptions
-var options = new Aspose.Imaging.ImageOptions.PngOptions();
-// save EPS as a PNG
-image.Save("output.png", options); 
 
-```
 
+{{% blocks/products/pf/agp/code-block title="Convert eps to png - .NET" offSpacer="" %}}
+{{< gist "aspose-com-gists" "2d1bcb9853315458808ffbcd9e7e3e02" "convert-eps-to-png.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
+
+
+
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

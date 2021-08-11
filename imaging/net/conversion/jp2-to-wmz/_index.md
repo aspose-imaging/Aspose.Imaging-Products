@@ -64,19 +64,15 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Command" offSpacer="" %}}
 
-```cs
-// load the JP2 file in an instance of Image
-var image = Aspose.Imaging.Image.Load("template.jp2");
-// create an instance of WmzOptions
-var options = new Aspose.Imaging.ImageOptions.WmzOptions();
-// save JP2 as a WMZ
-image.Save("output.wmz", options); 
 
-```
 
+{{% blocks/products/pf/agp/code-block title="Convert jp2 to wmz - .NET" offSpacer="" %}}
+{{< gist "aspose-com-gists" "2d1bcb9853315458808ffbcd9e7e3e02" "convert-jp2-to-wmz.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
+
+
+
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

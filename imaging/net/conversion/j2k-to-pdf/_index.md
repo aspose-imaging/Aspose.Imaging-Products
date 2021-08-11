@@ -64,19 +64,15 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Command" offSpacer="" %}}
 
-```cs
-// load the J2K file in an instance of Image
-var image = Aspose.Imaging.Image.Load("template.j2k");
-// create an instance of PdfOptions
-var options = new Aspose.Imaging.ImageOptions.PdfOptions();
-// save J2K as a PDF
-image.Save("output.pdf", options); 
 
-```
 
+{{% blocks/products/pf/agp/code-block title="Convert j2k to pdf - .NET" offSpacer="" %}}
+{{< gist "aspose-com-gists" "2d1bcb9853315458808ffbcd9e7e3e02" "convert-j2k-to-pdf.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
+
+
+
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

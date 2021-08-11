@@ -64,19 +64,15 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Command" offSpacer="" %}}
 
-```cs
-// load the OTG file in an instance of Image
-var image = Aspose.Imaging.Image.Load("template.otg");
-// create an instance of JpgOptions
-var options = new Aspose.Imaging.ImageOptions.JpgOptions();
-// save OTG as a JPG
-image.Save("output.jpg", options); 
 
-```
 
+{{% blocks/products/pf/agp/code-block title="Convert otg to jpg - .NET" offSpacer="" %}}
+{{< gist "aspose-com-gists" "2d1bcb9853315458808ffbcd9e7e3e02" "convert-otg-to-jpg.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
+
+
+
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

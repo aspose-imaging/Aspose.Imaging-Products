@@ -64,19 +64,15 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Command" offSpacer="" %}}
 
-```cs
-// load the JPEG2000 file in an instance of Image
-var image = Aspose.Imaging.Image.Load("template.jpeg2000");
-// create an instance of EmfOptions
-var options = new Aspose.Imaging.ImageOptions.EmfOptions();
-// save JPEG2000 as a EMF
-image.Save("output.emf", options); 
 
-```
 
+{{% blocks/products/pf/agp/code-block title="Convert jpeg2000 to emf - .NET" offSpacer="" %}}
+{{< gist "aspose-com-gists" "2d1bcb9853315458808ffbcd9e7e3e02" "convert-jpeg2000-to-emf.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
+
+
+
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

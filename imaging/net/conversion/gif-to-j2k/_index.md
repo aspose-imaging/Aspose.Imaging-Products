@@ -64,19 +64,15 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Command" offSpacer="" %}}
 
-```cs
-// load the GIF file in an instance of Image
-var image = Aspose.Imaging.Image.Load("template.gif");
-// create an instance of J2kOptions
-var options = new Aspose.Imaging.ImageOptions.J2kOptions();
-// save GIF as a J2K
-image.Save("output.j2k", options); 
 
-```
 
+{{% blocks/products/pf/agp/code-block title="Convert gif to j2k - .NET" offSpacer="" %}}
+{{< gist "aspose-com-gists" "2d1bcb9853315458808ffbcd9e7e3e02" "convert-gif-to-j2k.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
+
+
+
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

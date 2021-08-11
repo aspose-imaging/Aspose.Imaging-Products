@@ -64,19 +64,15 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Command" offSpacer="" %}}
 
-```cs
-// load the JPG file in an instance of Image
-var image = Aspose.Imaging.Image.Load("template.jpg");
-// create an instance of EmzOptions
-var options = new Aspose.Imaging.ImageOptions.EmzOptions();
-// save JPG as a EMZ
-image.Save("output.emz", options); 
 
-```
 
+{{% blocks/products/pf/agp/code-block title="Convert jpg to emz - .NET" offSpacer="" %}}
+{{< gist "aspose-com-gists" "2d1bcb9853315458808ffbcd9e7e3e02" "convert-jpg-to-emz.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
+
+
+
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

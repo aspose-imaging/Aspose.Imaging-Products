@@ -64,19 +64,15 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Command" offSpacer="" %}}
 
-```cs
-// load the DNG file in an instance of Image
-var image = Aspose.Imaging.Image.Load("template.dng");
-// create an instance of WmzOptions
-var options = new Aspose.Imaging.ImageOptions.WmzOptions();
-// save DNG as a WMZ
-image.Save("output.wmz", options); 
 
-```
 
+{{% blocks/products/pf/agp/code-block title="Convert dng to wmz - .NET" offSpacer="" %}}
+{{< gist "aspose-com-gists" "2d1bcb9853315458808ffbcd9e7e3e02" "convert-dng-to-wmz.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
+
+
+
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

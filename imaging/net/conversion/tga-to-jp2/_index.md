@@ -64,19 +64,15 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Command" offSpacer="" %}}
 
-```cs
-// load the TGA file in an instance of Image
-var image = Aspose.Imaging.Image.Load("template.tga");
-// create an instance of Jp2Options
-var options = new Aspose.Imaging.ImageOptions.Jp2Options();
-// save TGA as a JP2
-image.Save("output.jp2", options); 
 
-```
 
+{{% blocks/products/pf/agp/code-block title="Convert tga to jp2 - .NET" offSpacer="" %}}
+{{< gist "aspose-com-gists" "2d1bcb9853315458808ffbcd9e7e3e02" "convert-tga-to-jp2.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
+
+
+
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
