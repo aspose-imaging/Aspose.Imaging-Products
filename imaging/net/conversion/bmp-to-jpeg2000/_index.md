@@ -64,19 +64,15 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Command" offSpacer="" %}}
 
-```cs
-// load the BMP file in an instance of Image
-var image = Aspose.Imaging.Image.Load("template.bmp");
-// create an instance of Jpeg2000Options
-var options = new Aspose.Imaging.ImageOptions.Jpeg2000Options();
-// save BMP as a JPEG2000
-image.Save("output.jpeg2000", options); 
 
-```
 
+{{% blocks/products/pf/agp/code-block title="Convert bmp to jpeg2000 - .NET" offSpacer="" %}}
+{{< gist "aspose-com-gists" "2d1bcb9853315458808ffbcd9e7e3e02" "convert-bmp-to-jpeg2000.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
+
+
+
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

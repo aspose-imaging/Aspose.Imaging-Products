@@ -66,7 +66,11 @@ PM> Install-Package Aspose.Imaging
 
 
 
+
+{{% blocks/products/pf/agp/code-block title="Convert dicom to psd - .NET" offSpacer="" %}}
 {{< gist "aspose-com-gists" "2d1bcb9853315458808ffbcd9e7e3e02" "convert-dicom-to-psd.cs" >}}
+{{% /blocks/products/pf/agp/code-block %}}
+
 
 
 

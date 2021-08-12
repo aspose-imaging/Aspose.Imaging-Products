@@ -64,19 +64,15 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Command" offSpacer="" %}}
 
-```cs
-// load the APNG file in an instance of Image
-var image = Aspose.Imaging.Image.Load("template.apng");
-// create an instance of SvgzOptions
-var options = new Aspose.Imaging.ImageOptions.SvgzOptions();
-// save APNG as a SVGZ
-image.Save("output.svgz", options); 
 
-```
 
+{{% blocks/products/pf/agp/code-block title="Convert apng to svgz - .NET" offSpacer="" %}}
+{{< gist "aspose-com-gists" "2d1bcb9853315458808ffbcd9e7e3e02" "convert-apng-to-svgz.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
+
+
+
 
 {{< /blocks/products/pf/agp/feature-section >}}
 

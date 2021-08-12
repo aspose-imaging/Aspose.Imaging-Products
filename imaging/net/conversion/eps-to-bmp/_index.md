@@ -64,19 +64,15 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Command" offSpacer="" %}}
 
-```cs
-// load the EPS file in an instance of Image
-var image = Aspose.Imaging.Image.Load("template.eps");
-// create an instance of BmpOptions
-var options = new Aspose.Imaging.ImageOptions.BmpOptions();
-// save EPS as a BMP
-image.Save("output.bmp", options); 
 
-```
 
+{{% blocks/products/pf/agp/code-block title="Convert eps to bmp - .NET" offSpacer="" %}}
+{{< gist "aspose-com-gists" "2d1bcb9853315458808ffbcd9e7e3e02" "convert-eps-to-bmp.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
+
+
+
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
