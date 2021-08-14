@@ -6,24 +6,24 @@ description: Create manipulate and convert images using relevant library within 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Imaging APIs for Cross Platform Development" h2="Native APIs to draw, manipulate, transform & convert images." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/header/aspose_imaging.png" pfName="Aspose.Imaging" downloadUrl="https://downloads.aspose.com/imaging" tryOnlineUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Imaging APIs for Cross Platform Development" h2="Native APIs to draw, manipulate, transform & convert images." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging.svg" pfName="Aspose.Imaging" downloadUrl="https://downloads.aspose.com/imaging" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Imaging On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-net.png" productLink="/imaging/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" productLink="/imaging/net/" >}}
 Target Windows Forms, ASP.NET, WPF, WCF or any type of application based on .NET Framework 2.0 or later.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-java.png" productLink="/imaging/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" productLink="/imaging/java/" >}}
 Native Java APIs for desktop, web or any kind of application based on Java SE or EE.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging for" title="SharePoint" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-sharepoint.png" productLink="/imaging/sharepoint" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging for" title="SharePoint" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg" productLink="/imaging/sharepoint/" >}}
 Convert images in SharePoint Foundation or Server.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging for" title="JasperReports" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-jasperreports.png" productLink="/imaging/jasperreports" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging for" title="JasperReports" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-jasperreports.svg" productLink="/imaging/jasperreports/" >}}
 Export reports to mutiple image formats from JasperReports.
 {{< /blocks/products/pf/product >}}
 

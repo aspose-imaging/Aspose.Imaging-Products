@@ -11,15 +11,15 @@ description: Develop Images manipulation applications using On Premise or Cloud 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Imaging On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-net.png" productLink="https://products.aspose.com/imaging/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" productLink="https://products.aspose.com/imaging/net" >}}
 On Premise APIs to target .NET Framework and .NET Core platforms to develop image manipulation solution.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-java.png" productLink="https://products.aspose.com/imaging/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" productLink="https://products.aspose.com/imaging/java" >}}
 Java APIs to create, manipulate or convert different format images in any application based on Java SE or EE.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging for " title="SharePoint" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-sharepoint.png" productLink="https://products.aspose.com/imaging/sharepoint" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging for " title="SharePoint" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg" productLink="https://products.aspose.com/imaging/sharepoint" >}}
 Allows users to convert images to other image formats including PNG, JPEG, BMP, GIF, TIFF and more from within Microsoft SharePoint.
 {{< /blocks/products/pf/product >}}
 

@@ -233,8 +233,8 @@ description: Image processing and manipulation library API  to create edit draw 
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Imaging" description="Aspose.Imaging offers individual Image processing APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="imaging/net" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-net.png" sdkName=".NET" >}}
-    {{< blocks/products/pf/offers-section-item link="imaging/java" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-java.png" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="imaging/net" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="imaging/java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" sdkName="Java" >}}
     {{< blocks/products/pf/offers-section-item link="imaging/sharepoint" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-sharepoint.png" sdkName="SharePoint" >}}
 
 {{< /blocks/products/pf/offers-section >}}

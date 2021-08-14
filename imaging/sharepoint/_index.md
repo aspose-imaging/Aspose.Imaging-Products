@@ -10,7 +10,7 @@ description: SharePoint image processing App to create edit and convert images t
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for SharePoint" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-sharepoint.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/imaging/sharepoint" buyLink="https://purchase.aspose.com/pricing/imaging/sharepoint" docsLink="https://docs.aspose.com/imaging/sharepoint/release-notes/" installationsDocsLink="" nugetLink="" nugetPackageName="Raster Formats:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/imaging/sharepoint" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/imaging/sharepoint" buyLink="https://purchase.aspose.com/pricing/imaging/sharepoint" docsLink="https://docs.aspose.com/imaging/sharepoint/release-notes/" installationsDocsLink="" nugetLink="" nugetPackageName="Raster Formats:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/imaging/sharepoint" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -60,7 +60,7 @@ description: SharePoint image processing App to create edit and convert images t
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="SharePoint Image Processing App" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-sharepoint.png"/>
+  <img alt="SharePoint Image Processing App" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg"/>
   <header>
    Aspose.Imaging
   </header>
@@ -110,7 +110,7 @@ description: SharePoint image processing App to create edit and convert images t
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Image Converter for SharePoint" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-sharepoint.png"/>
+  <img alt="Image Converter for SharePoint" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg"/>
   <header>
    Aspose.Imaging
   </header>
@@ -160,7 +160,7 @@ description: SharePoint image processing App to create edit and convert images t
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="SharePoint Imaging Apps" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-sharepoint.png"/>
+  <img alt="SharePoint Imaging Apps" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg"/>
   <header>
    Aspose.Imaging
   </header>
@@ -276,9 +276,9 @@ description: SharePoint image processing App to create edit and convert images t
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Imaging " description="Aspose.Imaging offers individual Imaging APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/imaging/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-net.png" sdkName=".NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/imaging/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-java.png" sdkName="Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/imaging/jasperreports" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-jasperreports.png" sdkName="JasperReports" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/jasperreports/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-jasperreports.svg" sdkName="JasperReports" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

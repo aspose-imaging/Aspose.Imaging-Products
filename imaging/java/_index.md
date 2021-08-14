@@ -10,7 +10,7 @@ description: Java Image processing and manipulation library. Create load view ed
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-java.png" liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://purchase.aspose.com/pricing/imaging/java" buyLink="https://purchase.aspose.com/pricing/imaging/java" docsLink="https://docs.aspose.com/imaging/java/" installationsDocsLink="https://docs.aspose.com/imaging/java/installation" nugetLink="" nugetPackageName="Raster Formats:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging" directDownloadLink="https://downloads.aspose.com/imaging/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://purchase.aspose.com/pricing/imaging/java" buyLink="https://purchase.aspose.com/pricing/imaging/java" docsLink="https://docs.aspose.com/imaging/java/" installationsDocsLink="https://docs.aspose.com/imaging/java/installation" nugetLink="" nugetPackageName="Raster Formats:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging" directDownloadLink="https://downloads.aspose.com/imaging/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p align="justify">
@@ -113,7 +113,7 @@ description: Java Image processing and manipulation library. Create load view ed
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Image Java API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-java.png"/>
+  <img alt="Image Java API" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg"/>
   <header>
    Aspose.Imaging
   </header>
@@ -156,7 +156,7 @@ description: Java Image processing and manipulation library. Create load view ed
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java Image Processing Library" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-java.png"/>
+  <img alt="Java Image Processing Library" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg"/>
   <header>
    Aspose.Imaging
   </header>
@@ -282,7 +282,7 @@ description: Java Image processing and manipulation library. Create load view ed
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java Imaging Library" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-java.png"/>
+  <img alt="Java Imaging Library" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg"/>
   <header>
    Aspose.Imaging
   </header>
@@ -468,7 +468,7 @@ description: Java Image processing and manipulation library. Create load view ed
 
 <h2 class="h2title">All JDK Version Supported</h2>
 
-<p>Aspose.Imaging for Java together with <a href="/imaging/net">Aspose.Imaging for Java</a> covers the main development environments and deployment platforms in common use today. Aspose.Imaging for Java will run on any place where Java Runtime is installed, and it is compatible with JDK1.6 and above.</p>
+<p>Aspose.Imaging for Java together with <a href="/imaging/net/">Aspose.Imaging for Java</a> covers the main development environments and deployment platforms in common use today. Aspose.Imaging for Java will run on any place where Java Runtime is installed, and it is compatible with JDK1.6 and above.</p>
 
 </div>
 
@@ -507,9 +507,9 @@ description: Java Image processing and manipulation library. Create load view ed
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Imaging " description="Aspose.Imaging offers individual Imaging APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/imaging/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-net.png" sdkName=".NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/imaging/sharepoint" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-sharepoint.png" sdkName="SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/imaging/jasperreports" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-jasperreports.png" sdkName="JasperReports" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/sharepoint/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg" sdkName="SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/jasperreports/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-jasperreports.svg" sdkName="JasperReports" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

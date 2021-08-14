@@ -10,7 +10,7 @@ description: Image processing and manipulation library API  to create edit draw 
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-net.png" liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://purchase.aspose.com/pricing/imaging/net" buyLink="https://purchase.aspose.com/pricing/imaging/net" docsLink="https://docs.aspose.com/imaging/net/" installationsDocsLink="https://docs.aspose.com/imaging/net/installation" nugetLink="https://www.nuget.org/packages/Aspose.Imaging/" nugetPackageName="Aspose.Imaging" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/imaging/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://purchase.aspose.com/pricing/imaging/net" buyLink="https://purchase.aspose.com/pricing/imaging/net" docsLink="https://docs.aspose.com/imaging/net/" installationsDocsLink="https://docs.aspose.com/imaging/net/installation" nugetLink="https://www.nuget.org/packages/Aspose.Imaging/" nugetPackageName="Aspose.Imaging" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/imaging/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p align="justify">
@@ -113,7 +113,7 @@ description: Image processing and manipulation library API  to create edit draw 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Image .NET APIs" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-net.png"/>
+  <img alt="Image .NET APIs" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg"/>
   <header>
    Aspose.Imaging
   </header>
@@ -172,7 +172,7 @@ description: Image processing and manipulation library API  to create edit draw 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET Image Processing API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-net.png"/>
+  <img alt=".NET Image Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg"/>
   <header>
    Aspose.Imaging
   </header>
@@ -295,7 +295,7 @@ description: Image processing and manipulation library API  to create edit draw 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Image Processor C# Edit photo Edit image" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-net.png"/>
+  <img alt="Image Processor C# Edit photo Edit image" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg"/>
   <header>
    Aspose.Imaging
   </header>
@@ -522,9 +522,9 @@ description: Image processing and manipulation library API  to create edit draw 
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Imaging " description="Aspose.Imaging offers individual Imaging APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/imaging/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-java.png" sdkName="Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/imaging/sharepoint" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-sharepoint.png" sdkName="SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/imaging/jasperreports" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-jasperreports.png" sdkName="JasperReports" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/sharepoint/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg" sdkName="SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/jasperreports/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-jasperreports.svg" sdkName="JasperReports" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 
