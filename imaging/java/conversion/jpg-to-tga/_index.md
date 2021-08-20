@@ -125,11 +125,6 @@ A file with .tga extension is a raster graphic format and was created by Truevis
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert JPG into many other file formats including few listed below." >}}
-
-{{other_supported_lnks}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     
