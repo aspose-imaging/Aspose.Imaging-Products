@@ -10,7 +10,7 @@ description: Image processing and manipulation library API  to create edit draw 
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for JasperReports" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-jasperreports.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/imaging/jasperreports" buyLink="" docsLink="https://docs.aspose.com/imaging/jasperreports/release-notes/" instalationsDocsLink="" nugetLink="" nugetPackageName="" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-jasperreports.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/imaging/jasperreports" buyLink="https://purchase.aspose.com/pricing/imaging/jasperreports" docsLink="https://docs.aspose.com/imaging/jasperreports/release-notes/" installationsDocsLink="" nugetLink="" nugetPackageName="Raster Formats:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/imaging/jasperreports" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
