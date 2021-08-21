@@ -174,7 +174,7 @@ description: Java Image processing and manipulation library. Create load view ed
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Imaging for Java supports a wide range of conventional & special image [file formats](https://docs.aspose.com/imaging/java/supported-file-formats/)  ." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Imaging for Java supports a wide range of conventional & special image [file formats](https://docs.aspose.com/imaging/java/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">

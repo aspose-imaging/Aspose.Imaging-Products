@@ -190,7 +190,7 @@ description: Image processing and manipulation library API  to create edit draw 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Imaging for .NET supports a variety of image [file formats](https://docs.aspose.com/imaging/net/supported-file-formats/)  ." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Imaging for .NET supports a variety of image [file formats](https://docs.aspose.com/imaging/net/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
