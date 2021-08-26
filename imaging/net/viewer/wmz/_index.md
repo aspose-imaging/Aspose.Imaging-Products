@@ -36,7 +36,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/text %}}
 
-{{code_steps}}
+
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
