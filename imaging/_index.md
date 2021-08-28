@@ -6,7 +6,7 @@ description: Develop Images manipulation applications using On Premise or Cloud 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Image Processing Solution for any Platform" h2="A combination of image manipulation APIs & prebuilt cross-platform apps to meet all of the modern image processing requirements." logoImageSrc="https://www.aspose.com/templates/brand/images/imaging/aspose_imaging-brand.png" imageAlt="Aspose.Imaging Product Family" >}}
+{{< blocks/products/pf/upper-banner h1="Image Processing Solution for any Platform" h2="A combination of image manipulation APIs & prebuilt cross-platform apps to meet all of the modern image processing requirements." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/headers/aspose_imaging-brand.svg" imageAlt="Aspose.Imaging Product Family" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Imaging On Premise APIs Include" >}}

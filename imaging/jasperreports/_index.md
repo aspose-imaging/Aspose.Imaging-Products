@@ -6,11 +6,11 @@ description: Image processing and manipulation library API  to create edit draw 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="JasperReports Extension to Export Reports in Image Formats" h2="Export reports to various Image formats from JasperReports." logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/imaging/header/aspose_imaging-for-jasperreports.png" pfName="Aspose.Imaging for JasperReports" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/imaging/jasperreports" >}}
+{{< blocks/products/pf/upper-banner h1="JasperReports Extension to Export Reports in Image Formats" h2="Export reports to various Image formats from JasperReports." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/headers/aspose_imaging-for-jasperreports.svg" pfName="Aspose.Imaging for JasperReports" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/imaging/jasperreports" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for JasperReports" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-jasperreports.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/imaging/jasperreports" buyLink="https://purchase.aspose.com/pricing/imaging/jasperreports" docsLink="https://docs.aspose.com/imaging/jasperreports/release-notes/" installationsDocsLink="" nugetLink="" nugetPackageName="Raster Formats:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/imaging/jasperreports" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-jasperreports.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/imaging/jasperreports" buyLink="https://purchase.aspose.com/pricing/imaging/jasperreports" docsLink="https://docs.aspose.com/imaging/jasperreports/release-notes/" installationsDocsLink="" nugetLink="" nugetPackageName="Raster Formats:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/imaging/jasperreports" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -56,7 +56,7 @@ description: Image processing and manipulation library API  to create edit draw 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="JasperReports to Words Exporter" class="lazyloaded" src="https://www.aspose.com/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-jasperreports.png"/>
+  <img alt="JasperReports to Words Exporter" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-jasperreports.svg"/>
   <header>
    Aspose.Imaging
   </header>
@@ -107,7 +107,7 @@ description: Image processing and manipulation library API  to create edit draw 
   </div>
  </div>
  <div class="d1-logo">
-  <img alt="JasperReports to DOC Converter" class="lazyloaded" src="https://www.aspose.com/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-jasperreports.png"/>
+  <img alt="JasperReports to DOC Converter" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-jasperreports.svg"/>
   <header>
    Aspose.Imaging
   </header>
@@ -150,7 +150,7 @@ description: Image processing and manipulation library API  to create edit draw 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="JasperReports Exporter for Word" class="lazyloaded" src="https://www.aspose.com/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-jasperreports.png"/>
+  <img alt="JasperReports Exporter for Word" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-jasperreports.svg"/>
   <header>
    Aspose.Imaging
   </header>
@@ -235,7 +235,7 @@ description: Image processing and manipulation library API  to create edit draw 
 
     {{< blocks/products/pf/offers-section-item link="imaging/net" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="imaging/java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" sdkName="Java" >}}
-    {{< blocks/products/pf/offers-section-item link="imaging/sharepoint" imgSrc="https://www.aspose.com/templates/aspose/App_Themes/V3/images/imaging/272x272/aspose_imaging-for-sharepoint.png" sdkName="SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="imaging/sharepoint" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-jasperreports.svg" sdkName="SharePoint" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 
