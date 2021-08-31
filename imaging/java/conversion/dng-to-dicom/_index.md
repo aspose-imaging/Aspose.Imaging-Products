@@ -2,7 +2,7 @@
 title: Convert DNG to DICOM via Java
 weight: 2320
 url: /java/conversion/dng-to-dicom/ 
-description: Try our On-Premise APIs for your document conversion on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
+description: Sample Java conversion code for DNG format to DICOM file. Use this example code to convert DNG to DICOM within any Web or Desktop Java based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
