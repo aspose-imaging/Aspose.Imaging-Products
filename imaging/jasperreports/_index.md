@@ -6,7 +6,7 @@ description: Image processing and manipulation library API  to create edit draw 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="JasperReports Extension to Export Reports in Image Formats" h2="Export reports to various Image formats from JasperReports." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/headers/aspose_imaging-for-jasperreports.svg" pfName="Aspose.Imaging for JasperReports" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/imaging/jasperreports" >}}
+{{< blocks/products/pf/upper-banner h1="JasperReports Extension to Export Reports as Images" h2="Export reports to various Image formats from JasperReports." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/headers/aspose_imaging-for-jasperreports.svg" pfName="Aspose.Imaging for JasperReports" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/imaging/jasperreports" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for JasperReports" >}}
 
@@ -233,9 +233,9 @@ description: Image processing and manipulation library API  to create edit draw 
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Imaging" description="Aspose.Imaging offers individual Image processing APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="imaging/net" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sdkName=".NET" >}}
-    {{< blocks/products/pf/offers-section-item link="imaging/java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" sdkName="Java" >}}
-    {{< blocks/products/pf/offers-section-item link="imaging/sharepoint" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-jasperreports.svg" sdkName="SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/sharepoint/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-jasperreports.svg" sdkName="SharePoint" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 
