@@ -67,7 +67,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/code-block title="Merge EPS images - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "c3b1f39eaf550446e244e071b29d5191" "merge-photos-to-collage.cs" >}}
+{{< gist "aspose-com-gists" "c3b1f39eaf550446e244e071b29d5191" "Combine-Vector-To-Pdf.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -106,6 +106,7 @@ FIles with EPS extension essentially describe an Encapsulated PostScript languag
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/merge/apng" name="APNG" description="Animated Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/merge/bmp" name="BMP" description="Bitmap Picture" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/merge/jpg" name="JPG" description="Joint Photographic Experts Group" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/merge/cdr" name="CDR" description="Vector Drawing Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/merge/cmx" name="CMX" description="Corel Exchange Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/merge/dib" name="DIB" description="Device Independent Bitmap" >}}

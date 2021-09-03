@@ -106,6 +106,7 @@ A DIB (Device Independent Bitmap) file is a raster image file that is similar in
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/merge/apng" name="APNG" description="Animated Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/merge/bmp" name="BMP" description="Bitmap Picture" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/merge/jpg" name="JPG" description="Joint Photographic Experts Group" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/merge/cdr" name="CDR" description="Vector Drawing Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/merge/cmx" name="CMX" description="Corel Exchange Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/merge/dicom" name="DICOM" description="Digital Imaging & Communications" >}}
