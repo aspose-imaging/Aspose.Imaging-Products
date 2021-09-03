@@ -46,7 +46,7 @@ PM> Install-Package Aspose.Imaging
 {{% /blocks/products/pf/agp/text %}}
 
 +  Load APNG files with Image.Load method
-+  Combining images into new one
++   Combining images into new one
 +  Save merged image to disc in the supported by Aspose.Imaging format
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -105,6 +105,7 @@ A file with .apng (Animated Portable Network Graphics) extension is a raster gra
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Merge Formats" subTitle="Using C#, one can easily watermark different formats including." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/merge/bmp" name="BMP" description="Bitmap Picture" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/merge/jpg" name="JPG" description="Joint Photographic Experts Group" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/merge/cdr" name="CDR" description="Vector Drawing Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/merge/cmx" name="CMX" description="Corel Exchange Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/net/merge/dib" name="DIB" description="Device Independent Bitmap" >}}
