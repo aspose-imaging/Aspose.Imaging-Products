@@ -67,7 +67,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/code-block title="Merge CDR images - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "c3b1f39eaf550446e244e071b29d5191" "Combine-Vector-To-Pdf.cs" >}}
+{{< gist "aspose-com-gists" "c3b1f39eaf550446e244e071b29d5191" "Combine-CDR-to-PSD-layers.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

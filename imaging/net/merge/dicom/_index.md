@@ -67,7 +67,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/code-block title="Merge DICOM images - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "c3b1f39eaf550446e244e071b29d5191" "merge-images-to-booklet.cs" >}}
+{{< gist "aspose-com-gists" "c3b1f39eaf550446e244e071b29d5191" "create-dicom-from-jpeg.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
