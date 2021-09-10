@@ -10,7 +10,7 @@ description: SharePoint image processing App to create edit and convert images t
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for SharePoint" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/imaging/sharepoint" buyLink="https://purchase.aspose.com/pricing/imaging/sharepoint" docsLink="https://docs.aspose.com/imaging/sharepoint/release-notes/" installationsDocsLink="" nugetLink="" nugetPackageName="Raster Formats:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/imaging/sharepoint" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/imaging/sharepoint" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/imaging/sharepoint/release-notes/" installationsDocsLink="" nugetLink="" nugetPackageName="Raster Formats:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/imaging/sharepoint" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
