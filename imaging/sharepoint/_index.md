@@ -6,7 +6,7 @@ description: SharePoint image processing App to create edit and convert images t
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="SharePoint App to Manipulate & Convert Images" h2="Convert, Rotate, Resize and Crop images from within the SharePoint with no effort." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/header/aspose_imaging-for-sharepoint.png" pfName="Aspose.Imaging" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/imaging/sharepoint" >}}
+{{< blocks/products/pf/upper-banner h1="SharePoint App to Manipulate & Convert Images" h2="Convert, Rotate, Resize and Crop images from within the SharePoint with no effort." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/headers/aspose_imaging-for-sharepoint.svg" pfName="Aspose.Imaging" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/imaging/sharepoint" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for SharePoint" >}}
 
