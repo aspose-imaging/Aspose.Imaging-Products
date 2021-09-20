@@ -78,7 +78,7 @@ Aspose.Imaging for Java is supported on all major operating systems. Just make s
 
 {{% blocks/products/pf/agp/code-block title="Resize DJVU images - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "07be292db0a393dc95f153f84b28c069" "resize-bitmap-formats-witout-exporter.java" >}}
+{{< gist "aspose-com-gists" "c23856d7fdf11ecc5bcf73a03ad0a44d" "resize-bitmap-formats-without-exporter.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -117,9 +117,6 @@ DjVu, pronounced as “déjà vu”, is a graphics file format intended for scan
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/resize/apng" name="APNG" description="Animated Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/resize/bmp" name="BMP" description="Bitmap Picture" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/resize/jpg" name="JPG" description="Joint Photographic Experts Group" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/resize/cdr" name="CDR" description="Vector Drawing Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/resize/cmx" name="CMX" description="Corel Exchange Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/resize/jpg" name="JPG" description="Joint Photographic Experts Group" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/resize/cdr" name="CDR" description="Vector Drawing Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/resize/cmx" name="CMX" description="Corel Exchange Image" >}}

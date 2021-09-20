@@ -78,7 +78,7 @@ Aspose.Imaging for Java is supported on all major operating systems. Just make s
 
 {{% blocks/products/pf/agp/code-block title="Resize BMP images - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "07be292db0a393dc95f153f84b28c069" "resize-bitmap-formats.java" >}}
+{{< gist "aspose-com-gists" "c23856d7fdf11ecc5bcf73a03ad0a44d" "resize-bitmap-formats.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -116,9 +116,6 @@ Files having extension .BMP represent Bitmap Image files that are used to store 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Resize Formats" subTitle="" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/resize/apng" name="APNG" description="Animated Portable Network Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/resize/jpg" name="JPG" description="Joint Photographic Experts Group" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/resize/cdr" name="CDR" description="Vector Drawing Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/resize/cmx" name="CMX" description="Corel Exchange Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/resize/jpg" name="JPG" description="Joint Photographic Experts Group" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/resize/cdr" name="CDR" description="Vector Drawing Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/resize/cmx" name="CMX" description="Corel Exchange Image" >}}
