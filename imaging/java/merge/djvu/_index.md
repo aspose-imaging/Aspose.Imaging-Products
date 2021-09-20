@@ -78,7 +78,7 @@ Aspose.Imaging for Java is supported on all major operating systems. Just make s
 
 {{% blocks/products/pf/agp/code-block title="Merge DJVU images - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "07be292db0a393dc95f153f84b28c069" "create-pdf-from-djvu.java" >}}
+{{< gist "aspose-com-gists" "d8c86be526ab92ccc5eaafd1eaa1320b" "create-pdf-from-djvu.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

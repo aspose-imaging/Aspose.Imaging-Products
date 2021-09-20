@@ -78,7 +78,7 @@ Aspose.Imaging for Java is supported on all major operating systems. Just make s
 
 {{% blocks/products/pf/agp/code-block title="Merge DNG images - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "07be292db0a393dc95f153f84b28c069" "merge-photos-to-collage.java" >}}
+{{< gist "aspose-com-gists" "d8c86be526ab92ccc5eaafd1eaa1320b" "merge-photos-to-collage.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
