@@ -67,7 +67,7 @@ Aspose.Imaging for .NET is supported on all major operating systems. Just make s
 
 {{% blocks/products/pf/agp/code-block title="Crop OTG images - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "3d655d49cc1eaa396776d00bec85f200" "crop-multipage-vector-images-without-crop-to-raster.cs" >}}
+{{< gist "aspose-com-gists" "542ef8811ecf66dac9f7830226671e37" "crop-multipage-vector-images-without-crop-to-raster.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
