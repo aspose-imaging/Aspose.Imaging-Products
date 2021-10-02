@@ -2,7 +2,7 @@
 title: On Premise, Cloud & App Based Image Processing Solution 
 weight: 4270
 url: /
-description: Develop Images manipulation applications using On Premise or Cloud APIs, or simply use cross-platform apps to view, compare, inspect or convert Image files.
+description: Develop Images manipulation applications using On Premise or Cloud APIs or simply use cross-platform apps to view compare inspect or convert Image files.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
