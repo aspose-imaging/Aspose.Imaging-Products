@@ -15,7 +15,7 @@ description: C# source code to add or remove watermark to J2K file on .NET Frame
 
  In order to watermark J2K file, we’ll use
  [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) 
- API which is a feature-rich, powerful and easy to use document manipulation API for C# platform. Open
+ API which is a feature-rich, powerful and easy to use image manipulation API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.imaging) 
  package manager, search for
  **Aspose.Imaging** 

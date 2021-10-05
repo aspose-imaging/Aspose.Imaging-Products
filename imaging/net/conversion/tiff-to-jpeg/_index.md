@@ -15,7 +15,7 @@ description: Sample code for TIFF to JPEG C# conversion. Use API example code fo
 
  In order to convert TIFF to JPEG, we’ll use
  [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) 
- API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open
+ API which is a feature-rich, powerful and easy to use image manipulation and conversion API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.imaging) 
  package manager, search for
  **Aspose.Imaging** 

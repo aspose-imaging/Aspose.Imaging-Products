@@ -14,7 +14,7 @@ description: Sample code for JPEG2000 to PNG C# conversion. Use API example code
 
  In order to convert JPEG2000 to PNG, we’ll use
  [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) 
- API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open
+ API which is a feature-rich, powerful and easy to use image manipulation and conversion API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.imaging) 
  package manager, search for
  **Aspose.Imaging** 

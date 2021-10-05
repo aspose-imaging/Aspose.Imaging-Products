@@ -16,7 +16,7 @@ description: Sample code for CMX to EMZ Java conversion. Use API example code fo
 
 In order to convert CMX to EMZ, we’ll use
 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) 
-API which is a feature-rich, powerful and easy to use document manipulation and conversion API for Java platform. You can download its latest version directly from
+API which is a feature-rich, powerful and easy to use image manipulation and conversion API for Java platform. You can download its latest version directly from
 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 
 and install it within your Maven-based project by adding the following configurations to the pom.xml.
 

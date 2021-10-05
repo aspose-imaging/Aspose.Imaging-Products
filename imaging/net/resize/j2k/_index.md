@@ -15,7 +15,7 @@ description: Try our On-Premise document APIs to resize J2K files on .NET Framew
 
 In order to resize J2K files, we’ll use
 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) 
- API which is a feature-rich, powerful and easy to use document manipulation API for C# platform. Open
+ API which is a feature-rich, powerful and easy to use image manipulation API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.imaging) 
  package manager, search for
  **Aspose.Imaging** 

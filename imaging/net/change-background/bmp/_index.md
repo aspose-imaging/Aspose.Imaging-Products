@@ -15,7 +15,7 @@ description: Try our On-Premise document APIs to change background from BMP file
 
 In order to change background in BMP files, we’ll use
 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) 
- API which is a feature-rich, powerful and easy to use document manipulation API for C# platform. Open
+ API which is a feature-rich, powerful and easy to use image manipulation API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.imaging) 
  package manager, search for
  **Aspose.Imaging** 
