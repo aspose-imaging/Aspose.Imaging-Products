@@ -16,7 +16,7 @@ description: Sample code for DICOM to SVGZ Java conversion. Use API example code
 
 In order to convert DICOM to SVGZ, we’ll use
 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) 
-API which is a feature-rich, powerful and easy to use document manipulation and conversion API for Java platform. You can download its latest version directly from
+API which is a feature-rich, powerful and easy to use image manipulation and conversion API for Java platform. You can download its latest version directly from
 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 
 and install it within your Maven-based project by adding the following configurations to the pom.xml.
 
