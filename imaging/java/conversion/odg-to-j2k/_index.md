@@ -92,7 +92,7 @@ Before running the conversion example code, make sure that you have the followin
     {{% blocks/products/pf/agp/content h2="" %}}
 
 
-Aspose.Imaging API is an image processing solution to create, modify, draw or convert images with in applications. Aspose.Imaging is a fast API for Image processing, including but not limited to image conversions and manipulations such as drawing, working with graphic primitives, image transformations, export and conversion to multiple formats. Its a standalone library and does not depend on any software for image operations. One can easily add high performance image conversion feature with native APIs within projects. These are 100% private on premise APIs and files are processed at your own servers. ‎‎
+Aspose.Imaging API is an image processing solution to create, modify, draw or convert images (photos) within applications. It offers: cross-platform Image processing, including but not limited to conversions between various image formats (including uniform multi-page or multi-frame image processing), modifications such as drawing, working with graphic primitives, transformations (resize, crop, flip&rotate, binarization, grayscale, adjust), advanced image manipulation features (filtering, dithering, masking, deskewing), and memory optimization strategies. It’s a standalone library and does not depend on any software for image operations. One can easily add high-performance image conversion features with native APIs within projects. These are 100% private on-premise APIs and images are processed at your servers.
 
 
     {{% /blocks/products/pf/agp/content %}}
