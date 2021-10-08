@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert EMF to WMZ via Java 
 weight: 3920
 url: /java/conversion/emf-to-wmz/ 
@@ -92,7 +92,7 @@ Before running the conversion example code, make sure that you have the followin
     {{% blocks/products/pf/agp/content h2="" %}}
 
 
-Imaging API is an image processing solution to create, modify, draw or convert images with in applications. Aspose.Imaging is a fast API for Image processing, including but not limited to image conversions and manipulations such as drawing, working with graphic primitives, image transformations, export and conversion to multiple formats. Its a standalone library and does not depend on any software for image operations. One can easily add high performance image conversion feature with native APIs within projects. These are 100% private on premise APIs and files are processed at your own servers. ‎
+Aspose.Imaging API is an image processing solution to create, modify, draw or convert images with in applications. Aspose.Imaging is a fast API for Image processing, including but not limited to image conversions and manipulations such as drawing, working with graphic primitives, image transformations, export and conversion to multiple formats. Its a standalone library and does not depend on any software for image operations. One can easily add high performance image conversion feature with native APIs within projects. These are 100% private on premise APIs and files are processed at your own servers. ‎‎
 
 
     {{% /blocks/products/pf/agp/content %}}
@@ -126,6 +126,7 @@ WMZ is a file extension for a skin file format in/for/used by Windows Media Play
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/emf-to-jpeg" name="" description="Joint Photographic Experts Group" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/emf-to-jp2" name="" description="JPEG 2000" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/emf-to-j2k" name="" description="Wavelet Compressed Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/emf-to-jpeg2000" name="" description="JPEG 2000" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/emf-to-png" name="" description="Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/emf-to-apng" name="" description="Animated Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/emf-to-psd" name="" description="Photoshop Document" >}}
@@ -140,6 +141,7 @@ WMZ is a file extension for a skin file format in/for/used by Windows Media Play
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/emf-to-wmz" name="" description="Compressed Windows Media Player Skin" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/emf-to-tga" name="" description="Targa Graphic" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/emf-to-svgz" name="" description="Compressed version of Scalable Vector Graphics (.SVG) file." >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/emf-to-canvas" name="" description="HTML5 Canvas" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

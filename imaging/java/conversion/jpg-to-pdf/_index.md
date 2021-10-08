@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert JPG to PDF via Java 
 weight: 3920
 url: /java/conversion/jpg-to-pdf/ 
@@ -92,7 +92,7 @@ Before running the conversion example code, make sure that you have the followin
     {{% blocks/products/pf/agp/content h2="" %}}
 
 
-Imaging API is an image processing solution to create, modify, draw or convert images with in applications. Aspose.Imaging is a fast API for Image processing, including but not limited to image conversions and manipulations such as drawing, working with graphic primitives, image transformations, export and conversion to multiple formats. Its a standalone library and does not depend on any software for image operations. One can easily add high performance image conversion feature with native APIs within projects. These are 100% private on premise APIs and files are processed at your own servers. ‎
+Aspose.Imaging API is an image processing solution to create, modify, draw or convert images with in applications. Aspose.Imaging is a fast API for Image processing, including but not limited to image conversions and manipulations such as drawing, working with graphic primitives, image transformations, export and conversion to multiple formats. Its a standalone library and does not depend on any software for image operations. One can easily add high performance image conversion feature with native APIs within projects. These are 100% private on premise APIs and files are processed at your own servers. ‎‎
 
 
     {{% /blocks/products/pf/agp/content %}}
@@ -140,6 +140,7 @@ Portable Document Format (PDF) is a type of document created by Adobe back in 19
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jpg-to-wmz" name="" description="Compressed Windows Media Player Skin" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jpg-to-tga" name="" description="Targa Graphic" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jpg-to-svgz" name="" description="Compressed version of Scalable Vector Graphics (.SVG) file." >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jpg-to-canvas" name="" description="HTML5 Canvas" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert CDR to JPEG2000 via Java 
 weight: 3920
 url: /java/conversion/cdr-to-jpeg2000/ 
@@ -92,7 +92,7 @@ Before running the conversion example code, make sure that you have the followin
     {{% blocks/products/pf/agp/content h2="" %}}
 
 
-Imaging API is an image processing solution to create, modify, draw or convert images with in applications. Aspose.Imaging is a fast API for Image processing, including but not limited to image conversions and manipulations such as drawing, working with graphic primitives, image transformations, export and conversion to multiple formats. Its a standalone library and does not depend on any software for image operations. One can easily add high performance image conversion feature with native APIs within projects. These are 100% private on premise APIs and files are processed at your own servers. ‎
+Aspose.Imaging API is an image processing solution to create, modify, draw or convert images with in applications. Aspose.Imaging is a fast API for Image processing, including but not limited to image conversions and manipulations such as drawing, working with graphic primitives, image transformations, export and conversion to multiple formats. Its a standalone library and does not depend on any software for image operations. One can easily add high performance image conversion feature with native APIs within projects. These are 100% private on premise APIs and files are processed at your own servers. ‎‎
 
 
     {{% /blocks/products/pf/agp/content %}}
@@ -109,7 +109,7 @@ Imaging API is an image processing solution to create, modify, draw or convert i
 A CDR file is a vector drawing image file that is natively created with CorelDRAW for storing digital image encoded and compressed. Such a drawing file contains text, lines, shapes, images, colours and effects for vector representation of image contents. CDR files can be opened with CorelDRAW as the primary application and can also be converted to other formats such as PDF, JPG, PNG, BMP and AI. It can be used for representation of various graphics data like brochures, tabloids, envelopes, and postcards. Besides CorelDRAW, other Corel products such as Corel Paintshop Pro and CorelDRAW Graphics suite can also open the CDR file formats.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jpeg2000" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" >}}
 JPEG 2000 (JP2) is an image coding system and state-of-the-art image compression standard. Designed, using wavelet technology JPEG 2000 can code lossless content in any quality at once. Moreover, without any substantial penalty in coding efficiency, JPEG 2000 have the capability to access and decode the same content efficaciously into a variety of other resolutions and qualities. The code streams in JPEG 2000 is significantly scalable having regions of interest that provide the facility for spatial random access. Possessing Up to 16384 diverse components with the dimensions in terapixels, and precision that can be high as 38 bits/sample.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -136,14 +136,13 @@ JPEG 2000 (JP2) is an image coding system and state-of-the-art image compression
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/cdr-to-tiff" name="" description="Tagged Image Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/cdr-to-webp" name="" description="Raster Web Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/cdr-to-wmf" name="" description="Microsoft Windows Metafile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/cdr-to-cmx" name="" description="Corel Exchange Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/cdr-to-otg" name="" description="OpenDocument Standard" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/cdr-to-pdf" name="" description="Portable Document Format (PDF)" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/cdr-to-html" name="" description="HTML5 Canvas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/cdr-to-emz" name="" description="Windows Compressed Enhanced Metafile" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/cdr-to-wmz" name="" description="Compressed Windows Media Player Skin" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/cdr-to-tga" name="" description="Targa Graphic" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/cdr-to-svgz" name="" description="Compressed version of Scalable Vector Graphics (.SVG) file." >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/cdr-to-canvas" name="" description="HTML5 Canvas" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: Convert SVG to JPEG2000 via Java 
 weight: 3920
 url: /java/conversion/svg-to-jpeg2000/ 
@@ -92,7 +92,7 @@ Before running the conversion example code, make sure that you have the followin
     {{% blocks/products/pf/agp/content h2="" %}}
 
 
-Imaging API is an image processing solution to create, modify, draw or convert images with in applications. Aspose.Imaging is a fast API for Image processing, including but not limited to image conversions and manipulations such as drawing, working with graphic primitives, image transformations, export and conversion to multiple formats. Its a standalone library and does not depend on any software for image operations. One can easily add high performance image conversion feature with native APIs within projects. These are 100% private on premise APIs and files are processed at your own servers. ‎
+Aspose.Imaging API is an image processing solution to create, modify, draw or convert images with in applications. Aspose.Imaging is a fast API for Image processing, including but not limited to image conversions and manipulations such as drawing, working with graphic primitives, image transformations, export and conversion to multiple formats. Its a standalone library and does not depend on any software for image operations. One can easily add high performance image conversion feature with native APIs within projects. These are 100% private on premise APIs and files are processed at your own servers. ‎‎
 
 
     {{% /blocks/products/pf/agp/content %}}
@@ -109,7 +109,7 @@ Imaging API is an image processing solution to create, modify, draw or convert i
 SVG files are Scalable Vector Graphics Files that use XML based text format for describing the appearance of image. The word Scalable refers to the fact that the SVG can be scaled to different sizes without losing any quality. Text based description of such files make them independent of resolution. It is one of the mostly used format for building website and print graphics in order to achieve scalability. The format can only be used for two-dimensional graphics though. SVG files can be viewed/opened in almost all modern browsers including Chrome, Internet Explorer, Firefox, and Safari.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jpeg2000" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" >}}
 JPEG 2000 (JP2) is an image coding system and state-of-the-art image compression standard. Designed, using wavelet technology JPEG 2000 can code lossless content in any quality at once. Moreover, without any substantial penalty in coding efficiency, JPEG 2000 have the capability to access and decode the same content efficaciously into a variety of other resolutions and qualities. The code streams in JPEG 2000 is significantly scalable having regions of interest that provide the facility for spatial random access. Possessing Up to 16384 diverse components with the dimensions in terapixels, and precision that can be high as 38 bits/sample.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -141,6 +141,7 @@ JPEG 2000 (JP2) is an image coding system and state-of-the-art image compression
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/svg-to-wmz" name="" description="Compressed Windows Media Player Skin" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/svg-to-tga" name="" description="Targa Graphic" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/svg-to-svgz" name="" description="Compressed version of Scalable Vector Graphics (.SVG) file." >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/svg-to-canvas" name="" description="HTML5 Canvas" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
