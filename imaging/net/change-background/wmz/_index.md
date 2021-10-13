@@ -15,13 +15,13 @@ description: Try our On-Premise document APIs to change background from WMZ file
 
 In order to change background in WMZ files, we’ll use
 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) 
- API which is a feature-rich, powerful and easy to use image manipulation API for C# platform. Open
+ API which is a feature-rich, powerful and easy to use image manipulation and conversion API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.imaging) 
  package manager, search for
  **Aspose.Imaging** 
  and install. You may also use the following command from the Package Manager Console.
 
-{{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
+{{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
 ```cs
 
@@ -67,7 +67,7 @@ Aspose.Imaging for .NET is supported on all major operating systems. Just make s
 
 {{% blocks/products/pf/agp/code-block title="Change background in WMZ images - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "07bd18a1af2633c99a708341d84b5ad2" "remove-change-background-generic-examples.cs" >}}
+{{< gist "aspose-com-gists" "c28d7d7f7dff39444751b5724d5ba14a" "remove-change-background-generic-examples.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -81,7 +81,7 @@ Aspose.Imaging for .NET is supported on all major operating systems. Just make s
     {{% blocks/products/pf/agp/content h2="About Aspose.Imaging for .NET API" %}}
 
 
-Aspose.Imaging API is an image processing solution to create, modify, draw or convert images with in applications. Aspose.Imaging is a fast API for Image processing, including but not limited to image conversions and manipulations such as drawing, working with graphic primitives, image transformations, export and conversion to multiple formats. Its a standalone library and does not depend on any software for image operations. One can easily add high performance image conversion feature with native APIs within projects. These are 100% private on premise APIs and files are processed at your own servers. ‎
+Aspose.Imaging API is an image processing solution to create, modify, draw or convert images (photos) within applications. It offers: cross-platform Image processing, including but not limited to conversions between various image formats (including uniform multi-page or multi-frame image processing), modifications such as drawing, working with graphic primitives, transformations (resize, crop, flip&rotate, binarization, grayscale, adjust), advanced image manipulation features (filtering, dithering, masking, deskewing), and memory optimization strategies. It’s a standalone library and does not depend on any software for image operations. One can easily add high-performance image conversion features with native APIs within projects. These are 100% private on-premise APIs and images are processed at your servers.
 
 
     {{% /blocks/products/pf/agp/content %}}
