@@ -78,7 +78,7 @@ Before running the conversion example code, make sure that you have the followin
 
 {{% blocks/products/pf/agp/code-block title="Convert JP2 to BMP - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-JP2-to-BMP.java" >}}
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -119,29 +119,29 @@ Files having extension .BMP represent Bitmap Image files that are used to store 
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="Using Java, one can easily convert different formats including." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jp2-to-bmp" name="" description="Bitmap Picture" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jp2-to-gif" name="" description="Graphical Interchange Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jp2-to-dicom" name="" description="Digital Imaging & Communications" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jp2-to-emf" name="" description="Enhanced Metafile Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jp2-to-jpg" name="" description="Joint Photographic Experts Group" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jp2-to-jpeg" name="" description="Joint Photographic Experts Group" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jp2-to-j2k" name="" description="Wavelet Compressed Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jp2-to-jpeg2000" name="" description="JPEG 2000" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jp2-to-png" name="" description="Portable Network Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jp2-to-apng" name="" description="Animated Portable Network Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jp2-to-psd" name="" description="Photoshop Document" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jp2-to-dxf" name="" description="Drawing Interchange Format, or Drawing Exchange Format," >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jp2-to-svg" name="" description="Scalable Vector Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jp2-to-tiff" name="" description="Tagged Image Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jp2-to-webp" name="" description="Raster Web Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jp2-to-wmf" name="" description="Microsoft Windows Metafile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jp2-to-pdf" name="" description="Portable Document Format (PDF)" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jp2-to-html" name="" description="HTML5 Canvas" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jp2-to-emz" name="" description="Windows Compressed Enhanced Metafile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jp2-to-wmz" name="" description="Compressed Windows Media Player Skin" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jp2-to-tga" name="" description="Targa Graphic" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jp2-to-svgz" name="" description="Compressed version of Scalable Vector Graphics (.SVG) file." >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jp2-to-canvas" name="" description="HTML5 Canvas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jp2-to-bmp" name="BMP" description="Bitmap Picture" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jp2-to-gif" name="GIF" description="Graphical Interchange Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jp2-to-dicom" name="DICOM" description="Digital Imaging & Communications" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jp2-to-emf" name="EMF" description="Enhanced Metafile Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jp2-to-jpg" name="JPG" description="Joint Photographic Experts Group" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jp2-to-jpeg" name="JPEG" description="Joint Photographic Experts Group" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jp2-to-j2k" name="J2K" description="Wavelet Compressed Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jp2-to-jpeg2000" name="JPEG2000" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jp2-to-png" name="PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jp2-to-apng" name="APNG" description="Animated Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jp2-to-psd" name="PSD" description="Photoshop Document" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jp2-to-dxf" name="DXF" description="Drawing Interchange Format, or Drawing Exchange Format," >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jp2-to-svg" name="SVG" description="Scalable Vector Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jp2-to-tiff" name="TIFF" description="Tagged Image Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jp2-to-webp" name="WEBP" description="Raster Web Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jp2-to-wmf" name="WMF" description="Microsoft Windows Metafile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jp2-to-pdf" name="PDF" description="Portable Document Format (PDF)" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jp2-to-html" name="HTML" description="HTML5 Canvas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jp2-to-emz" name="EMZ" description="Windows Compressed Enhanced Metafile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jp2-to-wmz" name="WMZ" description="Compressed Windows Media Player Skin" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jp2-to-tga" name="TGA" description="Targa Graphic" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jp2-to-svgz" name="SVGZ" description="Compressed version of Scalable Vector Graphics (.SVG) file." >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/imaging/java/conversion/jp2-to-canvas" name="CANVAS" description="HTML5 Canvas" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
