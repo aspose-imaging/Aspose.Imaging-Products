@@ -2,7 +2,7 @@
 title: Change background in J2K documents via Java 
 weight: 3920
 url: /java/change-background/j2k/ 
-description: Try our On-Premise document APIs to change background from J2K files on .NET Framework, .NET Core, Windows Application, ASP.NET Web Application.
+description: Try our On-Premise document APIs to change background from J2K files on Java Application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -58,7 +58,7 @@ You need the
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load J2K files with Image.Load method
++  Load J2K files with Image.load method
 +  Change background;
 +  Save image to disc in the supported by Aspose.Imaging format
 

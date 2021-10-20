@@ -2,7 +2,7 @@
 title: Remove background in EMF documents via Java 
 weight: 3920
 url: /java/remove-background/emf/ 
-description: Try our On-Premise document APIs to remove background in EMF files on .NET Framework, .NET Core, Windows Application, ASP.NET Web Application.
+description: Try our On-Premise document APIs to change background from EMF files on Java Application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -58,7 +58,7 @@ You need the
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load EMF files with Image.Load method
++  Load EMF files with Image.load method
 +  Remove background;
 +  Save image to disc in the supported by Aspose.Imaging format
 
