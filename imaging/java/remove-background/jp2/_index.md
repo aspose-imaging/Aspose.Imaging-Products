@@ -2,7 +2,7 @@
 title: Remove background in JP2 documents via Java 
 weight: 3920
 url: /java/remove-background/jp2/ 
-description: Try our On-Premise document APIs to remove background in JP2 files on .NET Framework, .NET Core, Windows Application, ASP.NET Web Application.
+description: Try our On-Premise document APIs to change background from JP2 files on Java Application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -58,7 +58,7 @@ You need the
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load JP2 files with Image.Load method
++  Load JP2 files with Image.load method
 +  Remove background;
 +  Save image to disc in the supported by Aspose.Imaging format
 

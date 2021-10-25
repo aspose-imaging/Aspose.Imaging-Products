@@ -2,7 +2,7 @@
 title: Change background in EPS documents via Java 
 weight: 3920
 url: /java/change-background/eps/ 
-description: Try our On-Premise document APIs to change background from EPS files on .NET Framework, .NET Core, Windows Application, ASP.NET Web Application.
+description: Try our On-Premise document APIs to change background from EPS files on Java Application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -58,7 +58,7 @@ You need the
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load EPS files with Image.Load method
++  Load EPS files with Image.load method
 +  Change background;
 +  Save image to disc in the supported by Aspose.Imaging format
 

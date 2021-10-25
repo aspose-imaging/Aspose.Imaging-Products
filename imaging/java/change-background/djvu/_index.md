@@ -2,7 +2,7 @@
 title: Change background in DJVU documents via Java 
 weight: 3920
 url: /java/change-background/djvu/ 
-description: Try our On-Premise document APIs to change background from DJVU files on .NET Framework, .NET Core, Windows Application, ASP.NET Web Application.
+description: Try our On-Premise document APIs to change background from DJVU files on Java Application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -58,7 +58,7 @@ You need the
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load DJVU files with Image.Load method
++  Load DJVU files with Image.load method
 +  Change background;
 +  Save image to disc in the supported by Aspose.Imaging format
 

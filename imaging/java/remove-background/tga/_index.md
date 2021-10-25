@@ -2,7 +2,7 @@
 title: Remove background in TGA documents via Java 
 weight: 3920
 url: /java/remove-background/tga/ 
-description: Try our On-Premise document APIs to remove background in TGA files on .NET Framework, .NET Core, Windows Application, ASP.NET Web Application.
+description: Try our On-Premise document APIs to change background from TGA files on Java Application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -58,7 +58,7 @@ You need the
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load TGA files with Image.Load method
++  Load TGA files with Image.load method
 +  Remove background;
 +  Save image to disc in the supported by Aspose.Imaging format
 
