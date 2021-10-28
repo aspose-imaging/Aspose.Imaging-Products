@@ -77,23 +77,21 @@ Before running the conversion example code, make sure that you have the followin
  
 
 <!-- aboutfile Starts -->
-
-    {{% blocks/products/pf/agp/content h2="" %}}
-
-
-Aspose.Imaging API is an image processing solution to create, modify, draw or convert images (photos) within applications. It offers: cross-platform Image processing, including but not limited to conversions between various image formats (including uniform multi-page or multi-frame image processing), modifications such as drawing, working with graphic primitives, transformations (resize, crop, flip&rotate, binarization, grayscale, adjust), advanced image manipulation features (filtering, dithering, masking, deskewing), and memory optimization strategies. It’s a standalone library and does not depend on any software for image operations. One can easily add high-performance image conversion features with native APIs within projects. These are 100% private on-premise APIs and images are processed at your servers.
-
-
-    {{% /blocks/products/pf/agp/content %}}
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/demobox sectionTitle="Convert TIFFs via Online App" sectionDescription="Convert TIFF to WEBP documents by visiting our [Live Demos website](https://products.aspose.app/imaging/conversion). The live demo has the following benefits" >}}
+   {{< blocks/products/pf/agp/demobox sectionTitle="Convert TIFFs via Online App" sectionDescription="Convert TIFF to WEBP documents by visiting our [Live Demos website](https://products.aspose.app/imaging/conversion). The live demo has the following benefits" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="No need to download or setup anything" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="No need to write any code" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your TIFF files and hit \"Convert\" button" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Instantly get the download link for the resultant file" >}}
 
+    {{% blocks/products/pf/agp/content h2="" %}}
+
+
+Aspose.Imaging API is an image processing solution to create, modify, draw or convert images (photos) within applications. It offers: cross-platform Image processing, including but not limited to conversions between various image formats (including uniform multi-page or multi-frame image processing), modifications such as drawing, working with graphic primitives, transformations (resize, crop, flip&rotate, binarization, grayscale, adjust), advanced image manipulation features (filtering, dithering, masking, deskewing), and memory optimization strategies. It’s a standalone library and does not depend on any software for image operations. One can easily add high-performance image conversion features with native APIs within projects. These are 100% private on-premise APIs and images are processed at your servers.
+    
+    {{% /blocks/products/pf/agp/content %}}
+
+    {{< blocks/products/pf/agp/about-file-section >}}
+       
         {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff" >}}
 TIFF or TIF, Tagged Image File Format, represents raster images that are meant for usage on a variety of devices that comply with this file format standard. It is capable of describing bilevel, grayscale, palette-color and full-color image data in several color spaces. It supports lossy as well as lossless compression schemes to choose between space and time for applications using the format. The format is extensible and has underwent several revisions that allows the inclusion of an unlimited amount of private or special-purpose information. The format is not machine dependent and is free from bounds like processor, operating system, or file systems.
         {{< /blocks/products/pf/agp/about-file-text >}}
