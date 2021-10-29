@@ -77,23 +77,21 @@ Before running the conversion example code, make sure that you have the followin
  
 
 <!-- aboutfile Starts -->
-
-    {{% blocks/products/pf/agp/content h2="" %}}
-
-
-Aspose.Imaging API is an image processing solution to create, modify, draw or convert images (photos) within applications. It offers: cross-platform Image processing, including but not limited to conversions between various image formats (including uniform multi-page or multi-frame image processing), modifications such as drawing, working with graphic primitives, transformations (resize, crop, flip&rotate, binarization, grayscale, adjust), advanced image manipulation features (filtering, dithering, masking, deskewing), and memory optimization strategies. It’s a standalone library and does not depend on any software for image operations. One can easily add high-performance image conversion features with native APIs within projects. These are 100% private on-premise APIs and images are processed at your servers.
-
-
-    {{% /blocks/products/pf/agp/content %}}
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/demobox sectionTitle="Convert APNGs via Online App" sectionDescription="Convert APNG to SVGZ documents by visiting our [Live Demos website](https://products.aspose.app/imaging/conversion). The live demo has the following benefits" >}}
+   {{< blocks/products/pf/agp/demobox sectionTitle="Convert APNGs via Online App" sectionDescription="Convert APNG to SVGZ documents by visiting our [Live Demos website](https://products.aspose.app/imaging/conversion). The live demo has the following benefits" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="No need to download or setup anything" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="No need to write any code" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your APNG files and hit \"Convert\" button" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Instantly get the download link for the resultant file" >}}
 
+    {{% blocks/products/pf/agp/content h2="" %}}
+
+
+Aspose.Imaging API is an image processing solution to create, modify, draw or convert images (photos) within applications. It offers: cross-platform Image processing, including but not limited to conversions between various image formats (including uniform multi-page or multi-frame image processing), modifications such as drawing, working with graphic primitives, transformations (resize, crop, flip&rotate, binarization, grayscale, adjust), advanced image manipulation features (filtering, dithering, masking, deskewing), and memory optimization strategies. It’s a standalone library and does not depend on any software for image operations. One can easily add high-performance image conversion features with native APIs within projects. These are 100% private on-premise APIs and images are processed at your servers.
+    
+    {{% /blocks/products/pf/agp/content %}}
+
+    {{< blocks/products/pf/agp/about-file-section >}}
+       
         {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng" >}}
 A file with .apng (Animated Portable Network Graphics) extension is a raster graphic format and is an unofficial extension to the Portable Network Graphic (PNG ). It comprises of multiple frames (each of PNG image) that represents an animation sequence. This gives similar visualization as a GIF file. APNG files support 24-bit images and 8-bit transparency. APNG is backward compatible with non-animated GIF files. APNG files use the same .png extension and can be opened by applications such as Mozilla Firefox, Chrome with APNG support, iMessage apps for iOS 10.
         {{< /blocks/products/pf/agp/about-file-text >}}

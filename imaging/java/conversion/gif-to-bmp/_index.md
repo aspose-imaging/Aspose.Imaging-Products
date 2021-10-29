@@ -88,23 +88,21 @@ Before running the conversion example code, make sure that you have the followin
  
 
 <!-- aboutfile Starts -->
-
-    {{% blocks/products/pf/agp/content h2="" %}}
-
-
-Aspose.Imaging API is an image processing solution to create, modify, draw or convert images (photos) within applications. It offers: cross-platform Image processing, including but not limited to conversions between various image formats (including uniform multi-page or multi-frame image processing), modifications such as drawing, working with graphic primitives, transformations (resize, crop, flip&rotate, binarization, grayscale, adjust), advanced image manipulation features (filtering, dithering, masking, deskewing), and memory optimization strategies. It’s a standalone library and does not depend on any software for image operations. One can easily add high-performance image conversion features with native APIs within projects. These are 100% private on-premise APIs and images are processed at your servers.
-
-
-    {{% /blocks/products/pf/agp/content %}}
-
-    {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/demobox sectionTitle="Convert GIFs via Online App" sectionDescription="Convert GIF to BMP documents by visiting our [Live Demos website](https://products.aspose.app/imaging/conversion). The live demo has the following benefits" >}}
+   {{< blocks/products/pf/agp/demobox sectionTitle="Convert GIFs via Online App" sectionDescription="Convert GIF to BMP documents by visiting our [Live Demos website](https://products.aspose.app/imaging/conversion). The live demo has the following benefits" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="No need to download or setup anything" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="No need to write any code" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your GIF files and hit \"Convert\" button" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Instantly get the download link for the resultant file" >}}
 
+    {{% blocks/products/pf/agp/content h2="" %}}
+
+
+Aspose.Imaging API is an image processing solution to create, modify, draw or convert images (photos) within applications. It offers: cross-platform Image processing, including but not limited to conversions between various image formats (including uniform multi-page or multi-frame image processing), modifications such as drawing, working with graphic primitives, transformations (resize, crop, flip&rotate, binarization, grayscale, adjust), advanced image manipulation features (filtering, dithering, masking, deskewing), and memory optimization strategies. It’s a standalone library and does not depend on any software for image operations. One can easily add high-performance image conversion features with native APIs within projects. These are 100% private on-premise APIs and images are processed at your servers.
+    
+    {{% /blocks/products/pf/agp/content %}}
+
+    {{< blocks/products/pf/agp/about-file-section >}}
+       
         {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif" >}}
 A GIF or Graphical Interchange Format is a type of highly compressed image. Owned by Unisys, GIF uses the LZW compression algorithm that does not degrade the image quality. For each image GIF typically allow up to 8 bits per pixel and up to 256 colours are allowed across the image. In contrast to a JPEG image, which can display up to 16 million colours and fairly touches the limits of the human eye. Back when the internet emerged, GIFs remained the best choice because they required low bandwidth and compatible for the graphics that consume solid areas of colour. An animated GIF combines numerous images or frames into a single file and displays them in a sequence to generate an animated clip or a short video. The colour limitations are up to 256 for each frame and are likely to be the least suitable for reproducing other images and photographs with colour gradient.
         {{< /blocks/products/pf/agp/about-file-text >}}
