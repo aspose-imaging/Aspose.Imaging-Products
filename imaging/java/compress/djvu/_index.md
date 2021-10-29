@@ -78,7 +78,7 @@ Aspose.Imaging for Java is supported on all major operating systems. Just make s
 
 {{% blocks/products/pf/agp/code-block title="Compress DJVU images - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "524c3e3c3146a0eb00a23600f3990cff" "compress-multipage-raster-images.{Ext}" >}}
+{{< gist "aspose-com-gists" "524c3e3c3146a0eb00a23600f3990cff" "compress-multipage-raster-images.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
