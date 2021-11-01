@@ -60,7 +60,7 @@ PM> Install-Package Aspose.Imaging
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="View cdr file - .NET" offSpacer="" %}}
-{{< gist "aspose-com-gists" "2d1bcb9853315458808ffbcd9e7e3e02" "convert-cdr-to-png.cs" >}}
+{{< gist "aspose-com-gists" "8b870aa054949d3119547e4fc0696b64" "convert-cdr-to-png.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}

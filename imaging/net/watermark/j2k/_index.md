@@ -69,7 +69,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/code-block title="Watermark j2k image - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "2d1bcb9853315458808ffbcd9e7e3e02" "watermark-j2k-image.cs" >}}
+{{< gist "aspose-com-gists" "f63c201f51d5673401fc0d32a6e1c4b1" "watermark-j2k-image.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
