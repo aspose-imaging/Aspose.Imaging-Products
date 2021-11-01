@@ -78,7 +78,7 @@ Aspose.Imaging for Java is supported on all major operating systems. Just make s
 
 {{% blocks/products/pf/agp/code-block title="Compress JP2 images - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "524c3e3c3146a0eb00a23600f3990cff" "compress-{format1}.java" >}}
+{{< gist "aspose-com-gists" "524c3e3c3146a0eb00a23600f3990cff" "compress-jp2.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

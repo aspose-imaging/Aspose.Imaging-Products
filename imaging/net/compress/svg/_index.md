@@ -67,7 +67,7 @@ Aspose.Imaging for .NET is supported on all major operating systems. Just make s
 
 {{% blocks/products/pf/agp/code-block title="Compress SVG images - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "1960f3cda06637ac4f750163b5fcbfdc" "compress-png.cs" >}}
+{{< gist "aspose-com-gists" "1960f3cda06637ac4f750163b5fcbfdc" "compress-svg.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
