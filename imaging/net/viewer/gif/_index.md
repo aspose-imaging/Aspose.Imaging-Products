@@ -60,7 +60,7 @@ PM> Install-Package Aspose.Imaging
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="View gif file - .NET" offSpacer="" %}}
-{{< gist "aspose-com-gists" "2d1bcb9853315458808ffbcd9e7e3e02" "convert-gif-to-pdf.cs" >}}
+{{< gist "aspose-com-gists" "0dfac1d679fe6125d696d1a66d991346" "convert-gif-to-pdf.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}

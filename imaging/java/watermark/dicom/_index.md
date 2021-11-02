@@ -77,7 +77,7 @@ description: Java sample code to add or remove watermark to DICOM file on Java R
 
 {{% blocks/products/pf/agp/code-block title="Add Watermark to DICOM - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "07be292db0a393dc95f153f84b28c069" "watermark-dicom-image.java" >}}
+{{< gist "aspose-com-gists" "1ac443cce5aab9d32ad152570c716c05" "watermark-dicom-image.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

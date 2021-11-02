@@ -55,7 +55,7 @@ PM> Install-Package Aspose.Imaging
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="View tga file - .NET" offSpacer="" %}}
-{{< gist "aspose-com-gists" "2d1bcb9853315458808ffbcd9e7e3e02" "convert-tga-to-png.cs" >}}
+{{< gist "aspose-com-gists" "7ea8d36893e41a713493a85f89a7bbc7" "convert-tga-to-png.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}

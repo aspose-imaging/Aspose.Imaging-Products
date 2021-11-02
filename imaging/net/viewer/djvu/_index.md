@@ -60,7 +60,7 @@ PM> Install-Package Aspose.Imaging
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="View djvu file - .NET" offSpacer="" %}}
-{{< gist "aspose-com-gists" "2d1bcb9853315458808ffbcd9e7e3e02" "convert-djvu-to-pdf.cs" >}}
+{{< gist "aspose-com-gists" "7cd7d94813fb73fe141054272437f6ae" "convert-djvu-to-pdf.cs" >}}
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}

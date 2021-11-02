@@ -412,7 +412,7 @@ description: Java Image processing and manipulation library. Create load view ed
      <h3>
       Save image in different formats - Java
      </h3>
-{{< gist "aspose-com-gists" "07be292db0a393dc95f153f84b28c069" "save-image-in-different-formats.java" >}}
+{{< gist "aspose-com-gists" "31dbd78f64c3a37b9a8ab10d33885214" "save-image-in-different-formats.java" >}}
     </div>
    </div>
    <div class="col-lg-12">
@@ -437,7 +437,7 @@ description: Java Image processing and manipulation library. Create load view ed
      <h3>
       Load, edit, filter and save photos - Java
      </h3>
-{{< gist "aspose-com-gists" "07be292db0a393dc95f153f84b28c069" "load-edit-filter-save-photos.java" >}}
+{{< gist "aspose-com-gists" "31dbd78f64c3a37b9a8ab10d33885214" "load-edit-filter-save-photos.java" >}}
     </div>
    </div>
    <div class="col-lg-12">
@@ -459,7 +459,7 @@ description: Java Image processing and manipulation library. Create load view ed
      <h3>
       Create png image, manipulate it and save - C#
      </h3>
-{{< gist "aspose-com-gists" "07be292db0a393dc95f153f84b28c069" "create-png-image-manipulate-and-save.java" >}}
+{{< gist "aspose-com-gists" "31dbd78f64c3a37b9a8ab10d33885214" "create-png-image-manipulate-and-save.java" >}}
     </div>
    </div>
    <!-- 

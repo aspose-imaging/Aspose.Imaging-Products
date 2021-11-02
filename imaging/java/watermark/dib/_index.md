@@ -76,7 +76,7 @@ description: Java sample code to add or remove watermark to DIB file on Java Run
 
 {{% blocks/products/pf/agp/code-block title="Add Watermark to DIB - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "07be292db0a393dc95f153f84b28c069" "watermark-dib-image.java" >}}
+{{< gist "aspose-com-gists" "1ac443cce5aab9d32ad152570c716c05" "watermark-dib-image.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

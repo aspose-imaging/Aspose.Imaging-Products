@@ -77,7 +77,7 @@ description: Java sample code to add or remove watermark to SVG file on Java Run
 
 {{% blocks/products/pf/agp/code-block title="Add Watermark to SVG - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "07be292db0a393dc95f153f84b28c069" "watermark-svg-image.java" >}}
+{{< gist "aspose-com-gists" "1ac443cce5aab9d32ad152570c716c05" "watermark-svg-image.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

@@ -425,7 +425,7 @@ description: Image processing and manipulation library API  to create edit draw 
      <h3>
       Save image in different formats - C#
      </h3>
-{{< gist "aspose-com-gists" "2d1bcb9853315458808ffbcd9e7e3e02" "save-image-in-different-formats.cs" >}}
+{{< gist "aspose-com-gists" "38d4932ed13a06d560174ea9a85ea4cf" "save-image-in-different-formats.cs" >}}
      
     </div>
    </div>
@@ -451,7 +451,7 @@ description: Image processing and manipulation library API  to create edit draw 
      <h3>
       Load, edit, filter and save photos - C#
      </h3>
-{{< gist "aspose-com-gists" "2d1bcb9853315458808ffbcd9e7e3e02" "load-edit-filter-save-photos.cs" >}}
+{{< gist "aspose-com-gists" "38d4932ed13a06d560174ea9a85ea4cf" "load-edit-filter-save-photos.cs" >}}
      
     </div>
    </div>
@@ -474,7 +474,7 @@ description: Image processing and manipulation library API  to create edit draw 
      <h3>
       Create png image, manipulate it and save - C#
      </h3>
-{{< gist "aspose-com-gists" "2d1bcb9853315458808ffbcd9e7e3e02" "create-png-image-manipulate-and-save.cs" >}}
+{{< gist "aspose-com-gists" "38d4932ed13a06d560174ea9a85ea4cf" "create-png-image-manipulate-and-save.cs" >}}
     </div>
    </div>
    <!--
