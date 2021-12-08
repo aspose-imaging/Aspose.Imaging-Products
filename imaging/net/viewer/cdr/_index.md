@@ -75,7 +75,9 @@ Aspose.Imaging API is an image processing solution to create, modify, draw or co
 
     {{% /blocks/products/pf/agp/content %}}
 
-    {{< blocks/imaging-app-widget appName="viewer" extension="cdr" >}} 
+    {{< blocks/imaging-app-widget appName="Viewer" extension="cdr" 
+        label1="Select or drag and drop a CDR image" 
+        label2="Image will be automatically uploaded and shown" >}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
 

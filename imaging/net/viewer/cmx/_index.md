@@ -77,7 +77,9 @@ PM> Install-Package Aspose.Imaging
 
 
     {{% /blocks/products/pf/agp/content %}}
-    {{< blocks/imaging-app-widget appName="viewer" extension="cmx" >}}
+    {{< blocks/imaging-app-widget appName="Viewer" extension="cmx" 
+        label1="Select or drag and drop a CMX image" 
+        label2="Image will be automatically uploaded and shown" >}}
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="Free App to View CMX" sectionDescription="Check our live demos to [View CMX](https://products.aspose.app/imaging/viewer/cmx) with following benefits." >}}

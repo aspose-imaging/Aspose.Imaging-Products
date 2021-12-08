@@ -78,7 +78,9 @@ PM> Install-Package Aspose.Imaging
 
     {{% /blocks/products/pf/agp/content %}}
 
-    {{< blocks/imaging-app-widget appName="viewer" extension="svg" >}}
+    {{< blocks/imaging-app-widget appName="Viewer" extension="svg" 
+        label1="Select or drag and drop a SVG image" 
+        label2="Image will be automatically uploaded and shown" >}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
 

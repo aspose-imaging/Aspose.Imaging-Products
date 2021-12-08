@@ -73,7 +73,9 @@ Aspose.Imaging API is an image processing solution to create, modify, draw or co
 
     {{% /blocks/products/pf/agp/content %}}
 
-    {{< blocks/imaging-app-widget appName="viewer" extension="tga" >}}
+    {{< blocks/imaging-app-widget appName="Viewer" extension="tga" 
+        label1="Select or drag and drop a TGA image" 
+        label2="Image will be automatically uploaded and shown" >}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
