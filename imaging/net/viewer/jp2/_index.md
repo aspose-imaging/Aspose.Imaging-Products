@@ -78,6 +78,8 @@ PM> Install-Package Aspose.Imaging
 
     {{% /blocks/products/pf/agp/content %}}
 
+    {{< blocks/imaging-app-widget appName="viewer" extension="jp2" >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="Free App to View JP2" sectionDescription="Check our live demos to [View JP2](https://products.aspose.app/imaging/viewer/jp2) with following benefits." >}}

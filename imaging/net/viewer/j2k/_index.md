@@ -78,6 +78,8 @@ PM> Install-Package Aspose.Imaging
 
     {{% /blocks/products/pf/agp/content %}}
 
+    {{< blocks/imaging-app-widget appName="viewer" extension="j2k" >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="Free App to View J2K" sectionDescription="Check our live demos to [View J2K](https://products.aspose.app/imaging/viewer/j2k) with following benefits." >}}

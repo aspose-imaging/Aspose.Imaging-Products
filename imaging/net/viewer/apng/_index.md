@@ -73,6 +73,8 @@ Aspose.Imaging API is an image processing solution to create, modify, draw or co
 
     {{% /blocks/products/pf/agp/content %}}
 
+    {{< blocks/imaging-app-widget appName="viewer" extension="apng" >}} 
+
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="Free App to View APNG" sectionDescription="Check our live demos to [View APNG](https://products.aspose.app/imaging/viewer/apng) with following benefits." >}}
