@@ -5,7 +5,7 @@ description: Convert popular image, photo, picture formats via .NET library. Con
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Image Files Conversion Via C#" h2="Convert Image formats, Metafiles, WebP, Svg, Apng to build cross-platform .NET advance image processing applications." >}}
+{{< blocks/products/pf/feature-page-header h1="Image Files Conversion Via C#" h2="Convert Image formats, Metafiles, WebP, Svg, Apng to build cross-platform .NET based advance image processing applications." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
