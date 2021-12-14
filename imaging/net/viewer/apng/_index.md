@@ -73,17 +73,15 @@ Aspose.Imaging API is an image processing solution to create, modify, draw or co
 
     {{% /blocks/products/pf/agp/content %}}
 
-    {{< blocks/imaging-app-widget appName="Viewer" extension="apng" 
-        label1="Select or drag and drop a APNG image" 
-        label2="Image will be automatically uploaded and shown" >}}
+    {{< blocks/imaging-app-widget
+        sectionTitle="Free App to View APNG" 
+        appName="Viewer" 
+        extension="apng"
+        label1="Select or drag and drop an APNG image" 
+        label2="Image will be automatically uploaded and shown" 
+        checkFreeAppLabel="Check our [live demos to view APNG](https://products.aspose.app/imaging/viewer/apng) ">}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/demobox sectionTitle="Free App to View APNG" sectionDescription="Check our live demos to [View APNG](https://products.aspose.app/imaging/viewer/apng) with following benefits." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write or compile code" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload APNG file and hit the \"View\" button" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Download APNG file from the link, if required" >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" >}}
 A file with .apng (Animated Portable Network Graphics) extension is a raster graphic format and is an unofficial extension to the Portable Network Graphic (PNG ). It comprises of multiple frames (each of PNG image) that represents an animation sequence. This gives similar visualization as a GIF file. APNG files support 24-bit images and 8-bit transparency. APNG is backward compatible with non-animated GIF files. APNG files use the same .png extension and can be opened by applications such as Mozilla Firefox, Chrome with APNG support, iMessage apps for iOS 10.

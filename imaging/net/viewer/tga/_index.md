@@ -73,18 +73,15 @@ Aspose.Imaging API is an image processing solution to create, modify, draw or co
 
     {{% /blocks/products/pf/agp/content %}}
 
-    {{< blocks/imaging-app-widget appName="Viewer" extension="tga" 
-        label1="Select or drag and drop a TGA image" 
-        label2="Image will be automatically uploaded and shown" >}}
+    {{< blocks/imaging-app-widget
+        sectionTitle="Free App to View TGA" 
+        appName="Viewer" 
+        extension="tga"
+        label1="Select or drag and drop an TGA image" 
+        label2="Image will be automatically uploaded and shown" 
+        checkFreeAppLabel="Check our [live demos to view TGA](https://products.aspose.app/imaging/viewer/tga) ">}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/demobox sectionTitle="Free App to View TGA" sectionDescription="Check our live demos to [View TGA](https://products.aspose.app/imaging/viewer/tga) with following benefits." >}}
-            
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write or compile code" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload TGA file and hit the \"View\" button" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Download TGA file from the link, if required" >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" >}}
 A file with .tga extension is a raster graphic format and was created by Truevision Inc. It was designed for the TARGA (Truevision Advanced Raster Adapter) boards and provided Highcolor/truecolor display support for IBM-compatible PCs. It supports 8, 16, 24 and 32 bits per pixel and 8-bit alpha channel. It also supports lossless RLE compression that can be applied to reduce the image size. Digital photos and textures use the TGA image format.

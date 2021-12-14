@@ -78,19 +78,15 @@ PM> Install-Package Aspose.Imaging
 
     {{% /blocks/products/pf/agp/content %}}
 
-    {{< blocks/imaging-app-widget appName="Viewer" extension="dng" 
-        label1="Select or drag and drop a DNG image" 
-        label2="Image will be automatically uploaded and shown" >}}
+    {{< blocks/imaging-app-widget
+        sectionTitle="Free App to View DNG" 
+        appName="Viewer" 
+        extension="dng"
+        label1="Select or drag and drop an DNG image" 
+        label2="Image will be automatically uploaded and shown" 
+        checkFreeAppLabel="Check our [live demos to view DNG](https://products.aspose.app/imaging/viewer/dng) ">}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/demobox sectionTitle="Free App to View DNG" sectionDescription="Check our live demos to [View DNG](https://products.aspose.app/imaging/viewer/dng) with following benefits." >}}
-            
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write or compile code" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload DNG file and hit the \"View\" button" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Download DNG file from the link, if required" >}}
-
         {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" >}}
 DNG is a digital camera image format used for the storage of raw files. It has been developed by Adobe in September 2004. It was basically developed for digital photography. DNG is an extension of TIFF/EP standard format and uses metadata significantly. In order to manipulate raw data from digital cameras with ease of flexibility and artistic control, photographers opt camera raw files. JPEG and TIFF formats store images that are processed by the camera, therefore not much room for alteration is available in such formats.
 

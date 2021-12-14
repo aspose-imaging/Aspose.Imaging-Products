@@ -78,18 +78,15 @@ PM> Install-Package Aspose.Imaging
 
     {{% /blocks/products/pf/agp/content %}}
 
-    {{< blocks/imaging-app-widget appName="Viewer" extension="dib" 
-        label1="Select or drag and drop a DIB image" 
-        label2="Image will be automatically uploaded and shown" >}}
+    {{< blocks/imaging-app-widget
+        sectionTitle="Free App to View DIB" 
+        appName="Viewer" 
+        extension="dib"
+        label1="Select or drag and drop an DIB image" 
+        label2="Image will be automatically uploaded and shown" 
+        checkFreeAppLabel="Check our [live demos to view DIB](https://products.aspose.app/imaging/viewer/dib) ">}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/demobox sectionTitle="Free App to View DIB" sectionDescription="Check our live demos to [View DIB](https://products.aspose.app/imaging/viewer/dib) with following benefits." >}}
-            
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write or compile code" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload DIB file and hit the \"View\" button" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Download DIB file from the link, if required" >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" >}}
 A DIB (Device Independent Bitmap) file is a raster image file that is similar in structure to the standard Bitmap files (BMP) but has a different header. It can be opened with almost all applications that can open a standard BMP file on Windows as well as macOS. DIB are binary files and have a complex file format similar to BMP.

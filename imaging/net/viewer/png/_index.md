@@ -78,9 +78,13 @@ PM> Install-Package Aspose.Imaging
 
     {{% /blocks/products/pf/agp/content %}}
 
-    {{< blocks/imaging-app-widget appName="Viewer" extension="png" 
-        label1="Select or drag and drop a PNG image" 
-        label2="Image will be automatically uploaded and shown" >}}
+    {{< blocks/imaging-app-widget
+        sectionTitle="Free App to View PNG" 
+        appName="Viewer" 
+        extension="png"
+        label1="Select or drag and drop an PNG image" 
+        label2="Image will be automatically uploaded and shown" 
+        checkFreeAppLabel="Check our [live demos to view PNG](https://products.aspose.app/imaging/viewer/png) ">}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
