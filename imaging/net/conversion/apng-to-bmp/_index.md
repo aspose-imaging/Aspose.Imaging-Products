@@ -90,6 +90,14 @@ Aspose.Imaging API is an image processing solution to create, modify, draw or co
     
     {{% /blocks/products/pf/agp/content %}}
 
+    {{< blocks/imaging-app-widget
+    sectionTitle="Free App to Convert APNG to BMP"
+    appName="Conversion"
+    extension="apng" 
+    label1="Select or drag and drop an APNG image"
+    label2="Image will be automatically uploaded and shown"
+    checkFreeAppLabel="Check our [live demos to view APNG](https://products.aspose.app/imaging/conversion/apng-to-bmp) ">}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
         {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng" >}}
