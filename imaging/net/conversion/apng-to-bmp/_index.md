@@ -75,6 +75,14 @@ Before running the conversion example code, make sure that you have the followin
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
+    {{< blocks/imaging-app-widget
+        sectionTitle="Free App to Convert APNG" 
+        appName="Conversion" 
+        extension="apng" 
+        label1="Select or drag and drop an APNG image" 
+        label2="Image will be automatically uploaded and shown" 
+        checkFreeAppLabel="Check our [live demos to view APNG](https://products.aspose.app/imaging/viewer/apng) ">}}
+
 
 <!-- aboutfile Starts -->
    {{< blocks/products/pf/agp/demobox sectionTitle="Convert APNGs via Online App" sectionDescription="Convert APNG to BMP documents by visiting our [Live Demos website](https://products.aspose.app/imaging/conversion). The live demo has the following benefits" >}}
