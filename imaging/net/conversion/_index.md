@@ -9,7 +9,7 @@ description: Convert popular image, photo, picture formats via .NET library. Con
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-.NET Image API facilitates the advanced image processing and rendering features for programmers. Developers can integrate it to convert raster & vector images, including photos and pictures to PSD, PDF, GIF, PNG, DICOM, SVG, JPG, Jpeg2000, APNG, BMP, TIFF, HTML5 CANVAS, WEBP,  WMF, EMF and other image formats. API not only deals with conversion of files but also deals converting images to black n white and grayscale, convert GIF image layers and more.
+.NET Image API facilitates the advanced image processing and rendering features for programmers. Developers can integrate it to convert raster & vector images, including photos and pictures to PSD, PDF, GIF, PNG, DICOM, SVG, JPG, JPEG2000, APNG, BMP, TIFF, HTML5 CANVAS, WEBP,  WMF, EMF and other image formats. API not only deals with conversion of files but also deals converting images to black n white and grayscale, convert GIF image layers and more.
 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
