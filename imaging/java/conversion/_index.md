@@ -5,11 +5,11 @@ description: Convert popular image, photo, picture files via Java library. Conve
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Image Files Conversion Via Java" h2="Convert Image formats, Metafiles, WebP, Svg, Apng to build cross-platform Java applications." >}}
+{{< blocks/products/pf/feature-page-header h1="Image Files Conversion Via Java" h2="Convert Image formats, Metafiles, WebP, SVG, APNG to build cross-platform Java applications." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-For any advance image processing application, Java Image API facilitates the developers to create, load, manipulate or render images without any image editor requirement. It can convert vector & raster images, including photos and pictures to PSD, PDF, GIF, PNG, DICOM, Dxf, SVG, JPG, Jpeg2000, APNG, BMP, TIFF, HTML5 CANVAS, WMF, EMF, WEBP and other image formats. API provides binarization and grayscaling method to convert images to black n white and grayscale as well as convert open document graphics, RGB color system to CMYK and more.
+For any advance image processing application, Java Image API facilitates the developers to create, load, manipulate or render images without any image editor requirement. It can convert vector & raster images, including photos and pictures to PSD, PDF, GIF, PNG, DICOM, DXF, SVG, JPG, JPEG2000, APNG, BMP, TIFF, HTML5 CANVAS, WMF, EMF, WEBP and other image formats. API provides binarization and grayscaling method to convert images to black n white and grayscale as well as convert open document graphics, RGB color system to CMYK and more.
 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
