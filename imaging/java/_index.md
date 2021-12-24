@@ -310,7 +310,7 @@ description: Java Image processing and manipulation library. Create load view ed
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Advanced Java Images Processing Library Features
+    Advanced Java Images Processing Library Features
    </h2>
    <p>
    </p>

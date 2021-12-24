@@ -6,7 +6,7 @@ description: SharePoint image processing App to create edit and convert images t
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="SharePoint App to Manipulate & Convert Images" h2="Convert, Rotate, Resize and Crop images from within the SharePoint with no effort." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/headers/aspose_imaging-for-sharepoint.svg" pfName="Aspose.Imaging" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/imaging/sharepoint" >}}
+{{< blocks/products/pf/upper-banner h1="SharePoint App to Manipulate & Convert Images" h2="Convert, Rotate, Resize and Crop images from within the SharePoint with no effort." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/headers/aspose_imaging-for-sharepoint.svg" pfName="Aspose.Imaging" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/imaging/sharepoint" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for SharePoint" >}}
 
@@ -191,21 +191,21 @@ description: SharePoint image processing App to create edit and convert images t
 
 <h2 class="pr-ft">Advanced SharePoint Email Conversion and Synchronization Features</h2>
 
-<p> </p>
+<p> </p>
 
-<div class="col-lg-4"><em class="fa  fa-file-text-o  ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa  fa-file-text-o  ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Inter-convert EML & MSG from within SharePoint document library</p>
 
 </div>
 
-<div class="col-lg-4"><em class="fa fa-server  ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa fa-server  ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Synchronize files with FTP server & DropBox</p>
 
 </div>
 
-<div class="col-lg-4"><em class="fa fa-refresh  ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa fa-refresh  ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Synchronize emails via POP3, IMAP or Microsoft Exchange Server</p>
 
@@ -213,7 +213,7 @@ description: SharePoint image processing App to create edit and convert images t
 
 
 
-<div class="col-lg-4"><em class="fa fa-dropbox  ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa fa-dropbox  ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Synchronize files with DropBox</p>
 

@@ -65,7 +65,7 @@ Perform reverse image search to find particular image on specified website from 
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose.Imaging." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.imaging/" >}}
+{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose.Imaging." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.imaging/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
