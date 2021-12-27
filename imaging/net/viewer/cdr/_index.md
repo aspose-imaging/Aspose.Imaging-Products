@@ -1,7 +1,7 @@
 ---
-title: View CDR File Formats via .NET
+title: View CDR File Formats via .NET 
 weight: 4140
-url: /net/viewer/cdr/
+url: /net/viewer/cdr/ 
 description: C# source code to load, render and display CDR documents on .NET Framework, .NET Core, Windows Application, ASP.NET Web Application.
 ---
 
@@ -13,13 +13,13 @@ description: C# source code to load, render and display CDR documents on .NET Fr
 
 {{% blocks/products/pf/agp/content h2="How to View CDR File Using C#" %}}
 
-In order to view CDR file, we’ll use
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
-API which is a feature-rich, powerful and easy to use API for C# platform to be used with any Viewer. Open
-[NuGet](https://www.nuget.org/packages/aspose.imaging)
-package manager, search for
-**Aspose.Imaging**
-and install. You may also use the following command from the Package Manager Console.
+ In order to view CDR file, we’ll use
+ [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) 
+ API which is a feature-rich, powerful and easy to use API for C# platform to be used with any Viewer. Open
+ [NuGet](https://www.nuget.org/packages/aspose.imaging) 
+ package manager, search for
+ **Aspose.Imaging** 
+ and install. You may also use the following command from the Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
@@ -39,7 +39,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Imaging makes it easy for the developers to view the CDR file with just few lines of code.
+ Aspose.Imaging makes it easy for the developers to view the CDR file with just few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -49,13 +49,13 @@ Aspose.Imaging makes it easy for the developers to view the CDR file with just f
 
 {{% blocks/products/pf/agp/text %}}
 
-Aspose.Imaging for .NET is supported on all major operating systems. Just make sure that you have the following prerequisites.
+ Aspose.Imaging for .NET is supported on all major operating systems. Just make sure that you have the following prerequisites.
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows or a compatible OS with .NET Framework, .NET Core, Windows Application, ASP.NET Web Application
-- Development environment like Microsoft Visual Studio
-- Aspose.Imaging for .NET referenced in your project
+-  Microsoft Windows or a compatible OS with .NET Framework, .NET Core, Windows Application, ASP.NET Web Application
+-  Development environment like Microsoft Visual Studio
+-  Aspose.Imaging for .NET referenced in your project
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -66,27 +66,27 @@ Aspose.Imaging for .NET is supported on all major operating systems. Just make s
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
+ 
 
 <!-- aboutfile Starts -->
 
     {{% blocks/products/pf/agp/content h2="About Aspose.Imaging for .NET API" %}}
 
-Aspose.Imaging API is an image processing solution to create, modify, draw or convert images with in applications. Aspose.Imaging is a fast API for Image processing, including but not limited to image conversions and manipulations such as drawing, working with graphic primitives, image transformations, export and conversion to multiple formats. Its a standalone library and does not depend on any software for image operations. One can easily add high performance image conversion feature with native APIs within projects. These are 100% private on premise APIs and files are processed at your own servers. ‎
+ Aspose.Imaging API is an image processing solution to create, modify, draw or convert images with in applications. Aspose.Imaging is a fast API for Image processing, including but not limited to image conversions and manipulations such as drawing, working with graphic primitives, image transformations, export and conversion to multiple formats. Its a standalone library and does not depend on any software for image operations. One can easily add high performance image conversion feature with native APIs within projects. These are 100% private on premise APIs and files are processed at your own servers. 
+
+
 
     {{% /blocks/products/pf/agp/content %}}
 
-    {{< blocks/imaging-app-widget
-        sectionTitle="Free App to View CDR" 
-        appName="Viewer" 
-        extension="cdr"
-        label1="Select or drag and drop an CDR image" 
-        label2="Image will be automatically uploaded and shown" 
-        checkFreeAppLabel="Check our [live demos to view CDR](https://products.aspose.app/imaging/viewer/cdr) ">}}
-
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Free App to View CDR" sectionDescription="Check our live demos to [View CDR](https://products.aspose.app/imaging/viewer/cdr) with following benefits." >}}
+            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write or compile code" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload CDR file and hit the \"View\" button" >}}
+            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Download CDR file from the link, if required" >}}
 
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" >}}
 A CDR file is a vector drawing image file that is natively created with CorelDRAW for storing digital image encoded and compressed. Such a drawing file contains text, lines, shapes, images, colours and effects for vector representation of image contents. CDR files can be opened with CorelDRAW as the primary application and can also be converted to other formats such as PDF, JPG, PNG, BMP and AI. It can be used for representation of various graphics data like brochures, tabloids, envelopes, and postcards. Besides CorelDRAW, other Corel products such as Corel Paintshop Pro and CorelDRAW Graphics suite can also open the CDR file formats.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
@@ -119,5 +119,5 @@ A CDR file is a vector drawing image file that is natively created with CorelDRA
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
-
+    
 {{< /blocks/products/pf/main-wrap-class >}}

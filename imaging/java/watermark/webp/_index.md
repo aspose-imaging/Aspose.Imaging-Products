@@ -15,7 +15,7 @@ description: Java sample code to add or remove watermark to WEBP file on Java Ru
 
  In order to watermark WEBP file, we’ll use
  [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) 
- API which is a feature-rich, powerful and easy to use warermarking API for Java platform. You can download its latest version directly from
+ API which is a feature-rich, powerful and easy to use watermarking API for Java platform. You can download its latest version directly from
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 
  and install it within your Maven-based project by adding the following configurations to the pom.xml.
 
@@ -90,7 +90,7 @@ description: Java sample code to add or remove watermark to WEBP file on Java Ru
 
     {{% blocks/products/pf/agp/content h2="About Aspose.Imaging for Java API" %}}
 
- Aspose.Imaging API is an image processing solution to create, modify, draw or convert images with in applications. Aspose.Imaging is a fast API for Image processing, including but not limited to image conversions and manipulations such as drawing, working with graphic primitives, image transformations, export and conversion to multiple formats. Its a standalone library and does not depend on any software for image operations. One can easily add high performance image conversion feature with native APIs within projects. These are 100% private on premise APIs and files are processed at your own servers. ‎
+ Aspose.Imaging API is an image processing solution to create, modify, draw or convert images with in applications. Aspose.Imaging is a fast API for Image processing, including but not limited to image conversions and manipulations such as drawing, working with graphic primitives, image transformations, export and conversion to multiple formats. Its a standalone library and does not depend on any software for image operations. One can easily add high performance image conversion feature with native APIs within projects. These are 100% private on premise APIs and files are processed at your own servers. 
 
 
 
