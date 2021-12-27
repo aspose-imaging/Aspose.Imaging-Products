@@ -77,14 +77,14 @@ PM> Install-Package Aspose.Imaging
 
 
     {{% /blocks/products/pf/agp/content %}}
-
+    {{< blocks/imaging-app-widget
+        sectionTitle="Free App to View CMX" 
+        appName="Viewer" 
+        extension="cmx"
+        label1="Select or drag and drop an CMX image" 
+        label2="Image will be automatically uploaded and shown" 
+        checkFreeAppLabel="Check our [live demos to view CMX](https://products.aspose.app/imaging/viewer/cmx) ">}}
     {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/demobox sectionTitle="Free App to View CMX" sectionDescription="Check our live demos to [View CMX](https://products.aspose.app/imaging/viewer/cmx) with following benefits." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write or compile code" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload CMX file and hit the \"View\" button" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Download CMX file from the link, if required" >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" >}}
 Files with CMX extension are Corel Exchange image file format that is used as presentation by CorelSuite applications. It contains image data as vector graphics as well as metadata that describes the image. CMX files can be opened by CorelDraw, Corel Presentations, Paint Shop Pro and some versions of Adobe Illustrator.

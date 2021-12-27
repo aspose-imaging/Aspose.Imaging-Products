@@ -78,13 +78,15 @@ PM> Install-Package Aspose.Imaging
 
     {{% /blocks/products/pf/agp/content %}}
 
-    {{< blocks/products/pf/agp/about-file-section >}}
+    {{< blocks/imaging-app-widget
+        sectionTitle="Free App to View TIFF" 
+        appName="Viewer" 
+        extension="tiff"
+        label1="Select or drag and drop an TIFF image" 
+        label2="Image will be automatically uploaded and shown" 
+        checkFreeAppLabel="Check our [live demos to view TIFF](https://products.aspose.app/imaging/viewer/tiff) ">}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Free App to View TIFF" sectionDescription="Check our live demos to [View TIFF](https://products.aspose.app/imaging/viewer/tiff) with following benefits." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write or compile code" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload TIFF file and hit the \"View\" button" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Download TIFF file from the link, if required" >}}
+    {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" >}}
 TIFF or TIF, Tagged Image File Format, represents raster images that are meant for usage on a variety of devices that comply with this file format standard. It is capable of describing bilevel, grayscale, palette-color and full-color image data in several color spaces. It supports lossy as well as lossless compression schemes to choose between space and time for applications using the format. The format is extensible and has underwent several revisions that allows the inclusion of an unlimited amount of private or special-purpose information. The format is not machine dependent and is free from bounds like processor, operating system, or file systems.

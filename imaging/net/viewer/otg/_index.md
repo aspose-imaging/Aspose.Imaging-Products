@@ -78,13 +78,15 @@ PM> Install-Package Aspose.Imaging
 
     {{% /blocks/products/pf/agp/content %}}
 
-    {{< blocks/products/pf/agp/about-file-section >}}
+    {{< blocks/imaging-app-widget
+        sectionTitle="Free App to View OTG" 
+        appName="Viewer" 
+        extension="otg"
+        label1="Select or drag and drop an OTG image" 
+        label2="Image will be automatically uploaded and shown" 
+        checkFreeAppLabel="Check our [live demos to view OTG](https://products.aspose.app/imaging/viewer/otg) ">}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Free App to View OTG" sectionDescription="Check our live demos to [View OTG](https://products.aspose.app/imaging/viewer/otg) with following benefits." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write or compile code" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload OTG file and hit the \"View\" button" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Download OTG file from the link, if required" >}}
+    {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" >}}
 An OTG file is a drawing template that is created using the OpenDocument standard that follows the OASIS Office Applications 1.0 specification. It represents the default organization of drawing elements for a vector image that can be used to further enhance the contents of the file.

@@ -78,13 +78,15 @@ PM> Install-Package Aspose.Imaging
 
     {{% /blocks/products/pf/agp/content %}}
 
-    {{< blocks/products/pf/agp/about-file-section >}}
+    {{< blocks/imaging-app-widget
+        sectionTitle="Free App to View WMF" 
+        appName="Viewer" 
+        extension="wmf"
+        label1="Select or drag and drop an WMF image" 
+        label2="Image will be automatically uploaded and shown" 
+        checkFreeAppLabel="Check our [live demos to view WMF](https://products.aspose.app/imaging/viewer/wmf) ">}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Free App to View WMF" sectionDescription="Check our live demos to [View WMF](https://products.aspose.app/imaging/viewer/wmf) with following benefits." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write or compile code" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload WMF file and hit the \"View\" button" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Download WMF file from the link, if required" >}}
+    {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" >}}
 Files with WMF extension represent Microsoft Windows Metafile (WMF) for storing vector as well as bitmap-format images data. To be more accurate, WMF belongs to the vector file format category of Graphics file formats that is device independent. Windows Graphical Device Interface (GDI) uses the functions stored in a WMF file to display an image on the screen. A more enhanced version of WMF, known as Enhanced Meta Files (EMF), was published later that makes the format more feature rich. Practically, WMF are similar to SVG.

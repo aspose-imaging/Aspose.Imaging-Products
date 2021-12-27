@@ -78,13 +78,15 @@ PM> Install-Package Aspose.Imaging
 
     {{% /blocks/products/pf/agp/content %}}
 
-    {{< blocks/products/pf/agp/about-file-section >}}
+    {{< blocks/imaging-app-widget
+        sectionTitle="Free App to View SVG" 
+        appName="Viewer" 
+        extension="svg"
+        label1="Select or drag and drop an SVG image" 
+        label2="Image will be automatically uploaded and shown" 
+        checkFreeAppLabel="Check our [live demos to view SVG](https://products.aspose.app/imaging/viewer/svg) ">}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Free App to View SVG" sectionDescription="Check our live demos to [View SVG](https://products.aspose.app/imaging/viewer/svg) with following benefits." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write or compile code" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload SVG file and hit the \"View\" button" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Download SVG file from the link, if required" >}}
+    {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/page-description-language/svg/" >}}
 SVG files are Scalable Vector Graphics Files that use XML based text format for describing the appearance of image. The word Scalable refers to the fact that the SVG can be scaled to different sizes without losing any quality. Text based description of such files make them independent of resolution. It is one of the mostly used format for building website and print graphics in order to achieve scalability. The format can only be used for two-dimensional graphics though. SVG files can be viewed/opened in almost all modern browsers including Chrome, Internet Explorer, Firefox, and Safari.

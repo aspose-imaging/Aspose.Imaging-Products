@@ -78,13 +78,15 @@ PM> Install-Package Aspose.Imaging
 
     {{% /blocks/products/pf/agp/content %}}
 
-    {{< blocks/products/pf/agp/about-file-section >}}
+    {{< blocks/imaging-app-widget
+        sectionTitle="Free App to View DICOM" 
+        appName="Viewer" 
+        extension="dicom"
+        label1="Select or drag and drop an DICOM image" 
+        label2="Image will be automatically uploaded and shown" 
+        checkFreeAppLabel="Check our [live demos to view DICOM](https://products.aspose.app/imaging/viewer/dicom) ">}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Free App to View DICOM" sectionDescription="Check our live demos to [View DICOM](https://products.aspose.app/imaging/viewer/dicom) with following benefits." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write or compile code" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload DICOM file and hit the \"View\" button" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Download DICOM file from the link, if required" >}}
+    {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" >}}
 DICOM is the acronym for Digital Imaging and Communications in Medicine and pertains to the field of Medical Informatics. DICOM is the combination of file format definition and a network communications protocol. DICOM uses the .DCM extension. .DCM exist in two different formats i.e. format 1.x and format 2.x. DCM Format 1.x is further available in two versions normal and extended. DICOM is used for the integration of medical imaging devices like printers, servers, scanners etc from various vendors and also contains identification data of each patient for uniqueness. DICOM files can be shared between two parties if they are capable of receiving image data in DICOM format. The communication part of DICOM is application layer protocol and uses TCP/IP to communicate between entities. HTTP and HTTPS protocols are used for the web services of DICOM. Versions supported by web services are 1.0, 1.1, 2 or later.

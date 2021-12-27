@@ -78,13 +78,16 @@ PM> Install-Package Aspose.Imaging
 
     {{% /blocks/products/pf/agp/content %}}
 
-    {{< blocks/products/pf/agp/about-file-section >}}
+    {{< blocks/imaging-app-widget
+        sectionTitle="Free App to View DJVU" 
+        appName="Viewer" 
+        extension="djvu"
+        label1="Select or drag and drop an DJVU image" 
+        label2="Image will be automatically uploaded and shown" 
+        checkFreeAppLabel="Check our [live demos to view DJVU](https://products.aspose.app/imaging/viewer/djvu) ">}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Free App to View DJVU" sectionDescription="Check our live demos to [View DJVU](https://products.aspose.app/imaging/viewer/djvu) with following benefits." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write or compile code" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload DJVU file and hit the \"View\" button" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Download DJVU file from the link, if required" >}}
+
+    {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" >}}
 DjVu, pronounced as “déjà vu”, is a graphics file format intended for scanned documents and books especially those which contain the combination of text, drawings, images and photographs. It was developed by AT&T Labs. It uses multiple techniques like image layer separation of text and background images, progressive loading, arithmetic coding and lossy compression for bitonal images. Since DJVU file can contain compressed yet high-quality colour images, photographs, text, and drawings and can be saved in less space therefore, it's used on web as eBooks, manuals, newspapers, ancient documents, etc.

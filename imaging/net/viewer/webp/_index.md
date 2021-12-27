@@ -78,9 +78,18 @@ PM> Install-Package Aspose.Imaging
 
     {{% /blocks/products/pf/agp/content %}}
 
+    {{< blocks/imaging-app-widget
+        sectionTitle="Free App to View WEBP" 
+        appName="Viewer" 
+        extension="webp"
+        label1="Select or drag and drop an WEBP image" 
+        label2="Image will be automatically uploaded and shown" 
+        checkFreeAppLabel="Check our [live demos to view WEBP](https://products.aspose.app/imaging/viewer/webp) ">}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/demobox sectionTitle="Free App to View WEBP" sectionDescription="Check our live demos to [View WEBP](https://products.aspose.app/imaging/viewer/webp) with following benefits." >}}
+            
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write or compile code" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload WEBP file and hit the \"View\" button" >}}
