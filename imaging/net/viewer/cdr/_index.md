@@ -77,14 +77,14 @@ PM> Install-Package Aspose.Imaging
 
 
     {{% /blocks/products/pf/agp/content %}}
-
+    {{< blocks/imaging-app-widget
+        sectionTitle="Free App to View CDR" 
+        appName="Viewer" 
+        extension="cdr"
+        label1="Select or drag and drop an CDR image" 
+        label2="Image will be automatically uploaded and shown" 
+        checkFreeAppLabel="Check our [live demos to view CDR](https://products.aspose.app/imaging/viewer/cdr) ">}}
     {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/demobox sectionTitle="Free App to View CDR" sectionDescription="Check our live demos to [View CDR](https://products.aspose.app/imaging/viewer/cdr) with following benefits." >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write or compile code" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload CDR file and hit the \"View\" button" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Download CDR file from the link, if required" >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" >}}
 A CDR file is a vector drawing image file that is natively created with CorelDRAW for storing digital image encoded and compressed. Such a drawing file contains text, lines, shapes, images, colours and effects for vector representation of image contents. CDR files can be opened with CorelDRAW as the primary application and can also be converted to other formats such as PDF, JPG, PNG, BMP and AI. It can be used for representation of various graphics data like brochures, tabloids, envelopes, and postcards. Besides CorelDRAW, other Corel products such as Corel Paintshop Pro and CorelDRAW Graphics suite can also open the CDR file formats.
