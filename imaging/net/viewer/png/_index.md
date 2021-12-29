@@ -72,7 +72,7 @@ PM> Install-Package Aspose.Imaging
 
     {{% blocks/products/pf/agp/content h2="About Aspose.Imaging for .NET API" %}}
 
- Aspose.Imaging API is an image processing solution to create, modify, draw or convert images with in applications. Aspose.Imaging is a fast API for Image processing, including but not limited to image conversions and manipulations such as drawing, working with graphic primitives, image transformations, export and conversion to multiple formats. Its a standalone library and does not depend on any software for image operations. One can easily add high performance image conversion feature with native APIs within projects. These are 100% private on premise APIs and files are processed at your own servers. ‎
+ Aspose.Imaging API is an image processing solution to create, modify, draw or convert images with in applications. Aspose.Imaging is a fast API for Image processing, including but not limited to image conversions and manipulations such as drawing, working with graphic primitives, image transformations, export and conversion to multiple formats. Its a standalone library and does not depend on any software for image operations. One can easily add high performance image conversion feature with native APIs within projects. These are 100% private on premise APIs and files are processed at your own servers. 
 
 
 
@@ -87,13 +87,6 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabel="Check our [live demos to view PNG](https://products.aspose.app/imaging/viewer/png) ">}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
-
-        {{< blocks/products/pf/agp/demobox sectionTitle="Free App to View PNG" sectionDescription="Check our live demos to [View PNG](https://products.aspose.app/imaging/viewer/png) with following benefits." >}}
-            
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write or compile code" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload PNG file and hit the \"View\" button" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text=" Download PNG file from the link, if required" >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" >}}
 PNG, Portable Network Graphics, refers to a type of raster image file format that use loseless compression. This file format was created as a replacement of Graphics Interchange Format (GIF) and has no copyright limitations. However, PNG file format does not support animations. PNG file format supports loseless image compression that makes it popular among its users. With the passage of time, PNG has evolved as one of the mostly used image file format. Almost all Operating Systems have support for opening PNG files. For example, Microsoft Windows viewer has the capability to open PNG files as the OS has by default the support available as part of installation.

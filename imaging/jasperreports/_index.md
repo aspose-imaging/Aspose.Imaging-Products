@@ -6,7 +6,7 @@ description: Image processing and manipulation library API  to create edit draw 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="JasperReports Extension to Export Reports as Images" h2="Export reports to various Image formats from JasperReports." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/headers/aspose_imaging-for-jasperreports.svg" pfName="Aspose.Imaging for JasperReports" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/imaging/jasperreports" >}}
+{{< blocks/products/pf/upper-banner h1="JasperReports Extension to Export Reports as Images" h2="Export reports to various Image formats from JasperReports." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/headers/aspose_imaging-for-jasperreports.svg" pfName="Aspose.Imaging for JasperReports" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/imaging/jasperreports" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for JasperReports" >}}
 
@@ -91,7 +91,7 @@ description: Image processing and manipulation library API  to create edit draw 
     </i>
     JasperReports 6.3.0 or higher
    </header>
-   <!--<br /><header style="padding-left: 0px;"><i class="fa fa-cubes"> </i>JasperServer 3.7.1 or higher</header><br /><header style="padding-left: 0px;"><i class="fa fa-cubes"> </i>JasperReports Server 6.4.0</header><br /><header style="padding-left: 0px;"><i class="fa fa-cubes"> </i>JasperReports Server 7.1.0 or higher</header>-->
+   <!--<br /><header style="padding-left: 0px;"><i class="fa fa-cubes"> </i>JasperServer 3.7.1 or higher</header><br /><header style="padding-left: 0px;"><i class="fa fa-cubes"> </i>JasperReports Server 6.4.0</header><br /><header style="padding-left: 0px;"><i class="fa fa-cubes"> </i>JasperReports Server 7.1.0 or higher</header>-->
   </div>
   <!--/right-->
  </div>
@@ -125,7 +125,7 @@ description: Image processing and manipulation library API  to create edit draw 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Imaging for JasperReports supports the most popular image [file formats](https://docs.aspose.com/imaging/jasperreports/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Imaging for JasperReports supports the most popular image [file formats](https://docs.aspose.com/imaging/jasperreports/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-jasper">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -179,10 +179,10 @@ description: Image processing and manipulation library API  to create edit draw 
   <div class="container">
    <div class="col-lg-12">
     <h2 class="h2title">
-     Support for Multipage and Batch Export
+     Support for Multipage and Batch Export
     </h2>
     <p>
-     Aspose.Imaging for JasperReports allows exporting reports as multipage or batch export. Multipage export supported for formats: GIF, DICOM, TIFF, WebP, PDF. In batch mode, each page of the report will be saved as a separate file.
+     Aspose.Imaging for JasperReports allows exporting reports as multipage or batch export. Multipage export supported for formats: GIF, DICOM, TIFF, WebP, PDF. In batch mode, each page of the report will be saved as a separate file.
     </p>
    </div>
    <!--
@@ -196,7 +196,7 @@ description: Image processing and manipulation library API  to create edit draw 
      High Fidelity, Identical to Report Design
     </h2>
     <p>
-     Aspose.Imaging for JasperReports exports the reports to images in such a way that the result appear identical to the original report design as produced by the built-in JasperReports report designer. All report features are converted to the highest degree of precision to make image documents look as close to the original design as possible.
+     Aspose.Imaging for JasperReports exports the reports to images in such a way that the result appear identical to the original report design as produced by the built-in JasperReports report designer. All report features are converted to the highest degree of precision to make image documents look as close to the original design as possible.
     </p>
    </div>
   </div>
@@ -231,7 +231,7 @@ description: Image processing and manipulation library API  to create edit draw 
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/imaging/jasperreports" pricingInformationLink="https://purchase.aspose.com/pricing/imaging/jasperreports" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Imaging" description="Aspose.Imaging offers individual Image processing APIs for other popular development environments as listed below:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Imaging" description="Aspose.Imaging offers individual Image processing APIs for other popular development environments as listed below:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/imaging/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/imaging/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" sdkName="Java" >}}
