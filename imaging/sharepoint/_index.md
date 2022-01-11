@@ -60,7 +60,7 @@ description: SharePoint image processing App to create edit and convert images t
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="SharePoint Image Processing App" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg"/>
+  <img width="70" height="75" alt="SharePoint Image Processing App" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg"/>
   <header>
    Aspose.Imaging
   </header>
@@ -110,7 +110,7 @@ description: SharePoint image processing App to create edit and convert images t
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Image Converter for SharePoint" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg"/>
+  <img width="70" height="75" alt="Image Converter for SharePoint" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg"/>
   <header>
    Aspose.Imaging
   </header>
@@ -160,7 +160,7 @@ description: SharePoint image processing App to create edit and convert images t
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="SharePoint Imaging Apps" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg"/>
+  <img width="70" height="75" alt="SharePoint Imaging Apps" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg"/>
   <header>
    Aspose.Imaging
   </header>

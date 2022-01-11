@@ -113,7 +113,7 @@ description: Java Image processing and manipulation library. Create load view ed
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Image Java API" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg"/>
+  <img width="70" height="75" alt="Image Java API" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg"/>
   <header>
    Aspose.Imaging
   </header>
@@ -156,7 +156,7 @@ description: Java Image processing and manipulation library. Create load view ed
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java Image Processing Library" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg"/>
+  <img width="70" height="75" alt="Java Image Processing Library" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg"/>
   <header>
    Aspose.Imaging
   </header>
@@ -282,7 +282,7 @@ description: Java Image processing and manipulation library. Create load view ed
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java Imaging Library" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg"/>
+  <img width="70" height="75" alt="Java Imaging Library" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg"/>
   <header>
    Aspose.Imaging
   </header>

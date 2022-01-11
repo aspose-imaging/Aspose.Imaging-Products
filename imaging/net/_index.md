@@ -113,7 +113,7 @@ description: Image processing and manipulation library API  to create edit draw 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Image .NET APIs" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg"/>
+  <img width="70" height="75" alt="Image .NET APIs" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg"/>
   <header>
    Aspose.Imaging
   </header>
@@ -172,7 +172,7 @@ description: Image processing and manipulation library API  to create edit draw 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET Image Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg"/>
+  <img width="70" height="75" alt=".NET Image Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg"/>
   <header>
    Aspose.Imaging
   </header>
@@ -295,7 +295,7 @@ description: Image processing and manipulation library API  to create edit draw 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Image Processor C# Edit photo Edit image" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg"/>
+  <img width="70" height="75" alt="Image Processor C# Edit photo Edit image" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg"/>
   <header>
    Aspose.Imaging
   </header>

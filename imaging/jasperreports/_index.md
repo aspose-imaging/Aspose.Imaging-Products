@@ -56,7 +56,7 @@ description: Image processing and manipulation library API  to create edit draw 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="JasperReports to Words Exporter" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-jasperreports.svg"/>
+  <img width="70" height="75" alt="JasperReports to Words Exporter" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-jasperreports.svg"/>
   <header>
    Aspose.Imaging
   </header>
@@ -107,7 +107,7 @@ description: Image processing and manipulation library API  to create edit draw 
   </div>
  </div>
  <div class="d1-logo">
-  <img alt="JasperReports to DOC Converter" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-jasperreports.svg"/>
+  <img width="70" height="75" alt="JasperReports to DOC Converter" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-jasperreports.svg"/>
   <header>
    Aspose.Imaging
   </header>
@@ -150,7 +150,7 @@ description: Image processing and manipulation library API  to create edit draw 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="JasperReports Exporter for Word" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-jasperreports.svg"/>
+  <img width="70" height="75" alt="JasperReports Exporter for Word" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-jasperreports.svg"/>
   <header>
    Aspose.Imaging
   </header>
