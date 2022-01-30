@@ -9,10 +9,10 @@ description: Develop Images manipulation applications using On Premise or Cloud 
 {{< blocks/products/pf/upper-banner h1="Image Processing Solution for any Platform" h2="A combination of image manipulation APIs & prebuilt cross-platform apps to meet all of the modern image processing requirements." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/headers/aspose_imaging-brand.svg" imageAlt="Aspose.Imaging Product Family" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.Imaging On Premise APIs Include" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Imaging High Code APIs Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Imaging for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" productLink="https://products.aspose.com/imaging/net" >}}
-On Premise APIs to target .NET Framework and .NET Core platforms to develop image manipulation solution.
+High Code APIs to target .NET Framework and .NET Core platforms to develop image manipulation solution.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Imaging for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" productLink="https://products.aspose.com/imaging/java" >}}
@@ -23,11 +23,11 @@ Java APIs to create, manipulate or convert different format images in any applic
 Allows users to convert images to other image formats including PNG, JPEG, BMP, GIF, TIFF and more from within Microsoft SharePoint.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/imaging/family" innerText="View All On Premise APIs" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.com/imaging/family/" innerText="View All High Code APIs" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
-{{< blocks/products/pf/product-card-row title="Aspose.Imaging Cloud APIs Include" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Imaging Low Code APIs Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud for cURL" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-curl.png" productLink="https://products.aspose.cloud/imaging/curl" >}}
 Image processing REST APIs to resize, crop, rotate, scale, flip, search, export and convert images via any device capable of executing cURL commands.
@@ -41,11 +41,11 @@ Open source SDK designed for image manipulation capabilities to facilitate .NET 
 Easy to use Java SDK to communicate with Aspose.Imaging Cloud APIs for image manipulation and processing.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.cloud/imaging/family" innerText="View All Cloud APIs" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.cloud/imaging/family" innerText="View All Low Code APIs" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
-{{< blocks/products/pf/product-card-row title="Aspose.Imaging Cross Platform Apps Include" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Imaging No Code Apps Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Imaging " title="Conversion" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/imaging/conversion" >}}
 Easily convert Images to PDF, PSD and Raster image formats without leaving your favorite browser.
@@ -59,7 +59,7 @@ Just upload your image files to add watermark from any browser. No installation 
 Perform reverse image search to find particular image on specified website from anywhere.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.app/imaging/family" innerText="View All Cross Platform Apps" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.app/imaging/family" innerText="View All No Code Apps" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

@@ -9,7 +9,7 @@ description: Create manipulate and convert images using relevant library within 
 {{< blocks/products/pf/upper-banner h1="Imaging APIs for Cross Platform Development" h2="Native APIs to draw, manipulate, transform & convert images." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging.svg" pfName="Aspose.Imaging" downloadUrl="https://downloads.aspose.com/imaging" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.Imaging On Premise APIs Include" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Imaging High Code APIs Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Imaging for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" productLink="/imaging/net/" >}}
 Target Windows Forms, ASP.NET, WPF, WCF or any type of application based on .NET Framework 2.0 or later.
