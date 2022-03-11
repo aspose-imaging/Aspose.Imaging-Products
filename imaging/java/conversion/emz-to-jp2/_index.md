@@ -85,21 +85,18 @@ Before running the conversion example code, make sure that you have the followin
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
 
-<!-- aboutfile Starts -->
-   {{< blocks/products/pf/agp/demobox sectionTitle="Convert EMZs via Online App" sectionDescription="Convert EMZ to JP2 documents by visiting our [Live Demos website](https://products.aspose.app/imaging/conversion). The live demo has the following benefits" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-cogs" text="No need to download or setup anything" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-edit" text="No need to write any code" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your EMZ files and hit \"Convert\" button" >}}
-            {{< blocks/products/pf/agp/democard icon="fa-download" text="Instantly get the download link for the resultant file" >}}
+     {{< blocks/imaging-app-widget
+        sectionTitle="Free App to Convert EMZ to JP2"
+        appName="Conversion"
+        extension="EMZ-to-JP2"
+        label1="Select or drag and drop EMZ image"
+        label2="Choose format and click 'Convert' button"
+        label3="Click 'Download' button to download JP2 image"
+        checkFreeAppLabel="Check our [live demos to convert EMZ to JP2]"
+        checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/EMZ-to-JP2)"
+        showPreview="true">}}
 
-    {{% blocks/products/pf/agp/content h2="" %}}
-
-
-Aspose.Imaging API is an image processing solution to create, modify, draw or convert images (photos) within applications. It offers: cross-platform Image processing, including but not limited to conversions between various image formats (including uniform multi-page or multi-frame image processing), modifications such as drawing, working with graphic primitives, transformations (resize, crop, flip&rotate, binarization, grayscale, adjust), advanced image manipulation features (filtering, dithering, masking, deskewing), and memory optimization strategies. It’s a standalone library and does not depend on any software for image operations. One can easily add high-performance image conversion features with native APIs within projects. These are 100% private on-premise APIs and images are processed at your servers.
-    
-    {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
