@@ -33,7 +33,7 @@ description: Image processing and manipulation library API  to create edit draw 
    <header>
     <i class="fa fa-paint-brush">
     </i>
-    Drawing Options
+    Drawing Options 
    </header>
    <ul>
     <li>
