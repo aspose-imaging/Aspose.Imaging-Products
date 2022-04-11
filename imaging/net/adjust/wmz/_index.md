@@ -76,7 +76,7 @@ Aspose.Imaging for .NET is supported on all major operating systems. Just make s
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
-<!-- aboutfile Starts -->
+<!-- aboutfile Starts  -->
 
     {{% blocks/products/pf/agp/content h2="About Aspose.Imaging for .NET API" %}}
 
