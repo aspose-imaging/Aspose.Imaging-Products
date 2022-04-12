@@ -23,7 +23,7 @@ description: Image processing and manipulation library API  to create edit draw 
 
 {{< /blocks/products/pf/tab-content >}}
 
-<!--Diagrams Start-->
+<!--Diagrams Start -->
 {{< blocks/products/pf/carousel >}}
 
 {{< blocks/products/pf/carousel-item h3="At a Glance" description="Overview of API." >}}
