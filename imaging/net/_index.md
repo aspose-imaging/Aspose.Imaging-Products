@@ -483,7 +483,7 @@ description: Image processing and manipulation library API  to create edit draw 
 
 <h2 class="h2title">Register Custom Image File Formats</h2>
 
-<p>Another promising feature that Aspose.Imaging for .NET provides is to register custom image formats. Aspose.Imaging for .NET allows developers to register new custom file formats to create, open or export to by using one of the Aspose.Imaging for .NET registry libraries for corresponding operation. This feature allows the addition of new file formats which can be used for drawing and export purposes.</p>
+<p>Another promising feature that Aspose.Imaging for .NET provides is to register custom image formats. Aspose.Imaging for .NET allows developers to register new custom file formats to create, open or export to by using one of the Aspose.Imaging for .NET registry libraries for corresponding operation. This feature allows the addition of new file formats which can be used for drawing and export purposes. </p>
 
 </div>
 
