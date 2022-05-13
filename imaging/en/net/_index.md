@@ -1,20 +1,23 @@
----
+﻿---
 title: C# .NET Cross-platform Image Library API - Aspose 
 weight: 960
-url: /net/ 
+url: /net 
+lang: en
+langdirlevel: 2
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
 description: Image processing and manipulation library API  to create edit draw or export images to PSD BMP JPEG PNG TIFF GIF within C# ASP.NET VB.NET applications
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET cross-platform library - API for Image Processing" h2="Create, load, manipulate or convert images without requiring any image editor." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/headers/aspose_imaging-for-net.svg" pfName="Aspose.Imaging" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/imaging/net" >}}
+{{< blocks/products/pf/main-wrap-class>}}
+{{< blocks/products/pf/upper-banner h1=".NET cross-platform library - API for Image Processing" h2="Create, load, manipulate or convert images without requiring any image editor." downloadFreeTrialText="Download Free Trial" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/headers/aspose_imaging-for-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/imaging/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for .NET" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" 
+liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://purchase.aspose.com/pricing/imaging/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/imaging/net" installationsDocsLink="https://docs.aspose.com/imaging/net/installation" nugetLink="https://www.nuget.org/packages/aspose.imaging" nugetPackageName="Aspose.Imaging" directDownloadLink="https://downloads.aspose.com/imaging/net" liveDemosText="Live Demos" overviewText="Overview" featuresText="Features" resourcesText="Resources" pricingText="Pricing" downloadText="Download" learnText="Learn" buyText="Buy" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://purchase.aspose.com/pricing/imaging/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/imaging/net/" installationsDocsLink="https://docs.aspose.com/imaging/net/installation" nugetLink="https://www.nuget.org/packages/Aspose.Imaging/" nugetPackageName="Aspose.Imaging" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/imaging/net" >}}
-
-{{< blocks/products/pf/tab-content >}}
+{{< blocks/products/pf/tab-content carousel1Text1="At a" carousel1Text2="Glance" carousel2Text1="Supported File" carousel2Text2="Formats" carousel3Text1="Platform" carousel3Text2="Independence">}}
 <p align="justify">
- Aspose. Imaging for.NET is a library offering advanced image processing features. You could easily create, load, manipulate, convert, compress images or photos using this API. Also Aspose. Imaging library supports drawing and work with graphic primitives. Image export and conversion (including uniform multi-page image processing) is the one of API core features along with image transformations (resize, crop, flip&amp;rotate, binarization, grayscale, adjust), advanced image manipulation features (filtering, dithering, masking, deskewing) and memory optimization strategies.
+ Aspose.Imaging for .NET is a library offering advanced image processing features. You could easily create, load, manipulate, convert, compress images or photos using this API. Also Aspose. Imaging library supports drawing and work with graphic primitives. Image export and conversion (including uniform multi-page image processing) is the one of API core features along with image transformations (resize, crop, flip&amp;rotate, binarization, grayscale, adjust), advanced image manipulation features (filtering, dithering, masking, deskewing) and memory optimization strategies.
 </p>
 
 <p align="justify">
@@ -23,10 +26,11 @@ description: Image processing and manipulation library API  to create edit draw 
 
 {{< /blocks/products/pf/tab-content >}}
 
+
 <!--Diagrams Start -->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="At a Glance" description="Overview of API." >}}
+{{< blocks/products/pf/carousel-item h3="" description="Overview of API." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -74,7 +78,7 @@ description: Image processing and manipulation library API  to create edit draw 
    <header>
     <i class="fa fa-crop">
     </i>
-    Processing
+    Image Processing
    </header>
    <ul>
     <li>
@@ -113,7 +117,7 @@ description: Image processing and manipulation library API  to create edit draw 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Image .NET APIs" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg"/>
+  <img width="70" height="75" alt="Image .NET API" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg"/>
   <header>
    Aspose.Imaging
   </header>
@@ -131,7 +135,7 @@ description: Image processing and manipulation library API  to create edit draw 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.Imaging for .NET supports the .NET framework and .NET Standard" >}}
+{{< blocks/products/pf/carousel-item h3="" description="Aspose.Imaging for .NET supports the .NET framework and .NET Standard" >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -190,7 +194,7 @@ description: Image processing and manipulation library API  to create edit draw 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Imaging for .NET supports a variety of image [file formats](https://docs.aspose.com/imaging/net/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="" description="Aspose.Imaging for .NET supports a variety of image [file formats](https://docs.aspose.com/imaging/net/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -331,7 +335,7 @@ description: Image processing and manipulation library API  to create edit draw 
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create, load &amp; edit images
+     Create, load and edit images
     </p>
    </div>
    <div class="col-lg-4">
@@ -352,7 +356,7 @@ description: Image processing and manipulation library API  to create edit draw 
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Crop, resize &amp; rotate-flip
+     Crop, resize and rotate-flip
     </p>
    </div>
    <div class="col-lg-4">
@@ -416,7 +420,7 @@ description: Image processing and manipulation library API  to create edit draw 
      Convert Image Formats
     </h2>
     <p>
-     Along with the rich set of processing routines, API also provides an array of advanced algorithms that makes it an all-in-one solution for image conversion. These algorithms are encapsulated in specialized classes, that are simple to use and can export images to conventional raster formats along with PSD, WMF, EMF, DjVu, DICOM, DNG &amp; WebP formats with reliability.
+     Along with the rich set of processing routines, API also provides an array of advanced algorithms that makes it an all-in-one solution for image conversion. These algorithms are encapsulated in specialized classes, that are simple to use and can export images to conventional raster formats along with PSD, WMF, EMF, DjVu, DICOM, DNG and WebP formats with reliability.
     </p>
     <p>
      Using this library, format conversion is as simple as changing the file extension to the desired format.
@@ -437,7 +441,7 @@ description: Image processing and manipulation library API  to create edit draw 
      Aspose.Imaging for .NET supports an advanced set of drawing features along with the core functionality. Developers can draw on image surface either by manipulating the pixel information or by using the advanced functionality like Graphics and Paths.
     </p>
     <p>
-     .NET image library enables you to easily draw lines, curves, rectangles &amp; other geometric shapes, fill closed shapes with solid colors or gradients &amp; textures, draw text with options for fine control over the font and draw images by loading existing image data.
+     .NET image library enables you to easily draw lines, curves, rectangles and other geometric shapes, fill closed shapes with solid colors or gradients &amp; textures, draw text with options for fine control over the font and draw images by loading existing image data.
     </p>
    </div>
    <div class="col-lg-12">
@@ -495,8 +499,7 @@ description: Image processing and manipulation library API  to create edit draw 
 
 {{< /blocks/products/pf/main-container >}}
 
-
-{{< blocks/products/pf/support-learning-resources >}}
+{{< blocks/products/pf/support-learning-resources supportAndLearningResourcesText="Support and Learning Resources">}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/imaging/net/" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-imaging/Aspose.Imaging-for-.NET" >}}
@@ -511,14 +514,14 @@ description: Image processing and manipulation library API  to create edit draw 
 {{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/imaging/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Imaging for .NET?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Imaging for .NET" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Success Stories" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/imaging/net" pricingInformationLink="https://purchase.aspose.com/pricing/imaging/net" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/imaging/net" downloadFreeTrialText="Download Free Trial" pricingInformationText="Pricing Information" pricingInformationLink="https://purchase.aspose.com/pricing/imaging/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Imaging " description="Aspose.Imaging offers individual Imaging APIs for other popular development environments as listed below:" >}}
 
