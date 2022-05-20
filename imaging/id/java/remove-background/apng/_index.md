@@ -25,11 +25,11 @@ dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berik
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
 ```xml
-<repositori>
+<repository>
 <id>AsposeJavaAPI</id>
-<name>Asumsikan Java API</name>
+<name>Aspose Java API</name>
 <url>https://repository.aspose.com/repo/</url>
-</repositori>
+</repository>
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -37,12 +37,12 @@ dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berik
 {{% blocks/products/pf/agp/code-block title="Ketergantungan" offSpacer="true" %}}
 
 ```xml
-<ketergantungan>
+<dependency>
 <groupId>com.aspose</groupId>
 <artifactId>aspose-imaging</artifactId>
-<version>versi aspose-imaging API</version>
+<version>version of aspose-imaging API</version>
 <classifier>jdk16</classifier>
-</ketergantungan>
+</dependency>
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}

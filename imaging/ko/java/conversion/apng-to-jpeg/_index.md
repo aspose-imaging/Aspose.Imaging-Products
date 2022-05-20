@@ -26,11 +26,11 @@ APNG을 JPEG로 변환하려면 다음을 사용합니다.
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
 ```xml
-<저장소>
+<repository>
 <id>AsposeJavaAPI</id>
-<name>Aspose 자바 API</name>
+<name>Aspose Java API</name>
 <url>https://repository.aspose.com/repo/</url>
-</저장소>
+</repository>
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -38,12 +38,12 @@ APNG을 JPEG로 변환하려면 다음을 사용합니다.
 {{% blocks/products/pf/agp/code-block title="Dependency" offSpacer="true" %}}
 
 ```xml
-<의존성>
+<dependency>
 <groupId>com.aspose</groupId>
 <artifactId>aspose-imaging</artifactId>
-<version>aspose-imaging API 버전</version>
+<version>version of aspose-imaging API</version>
 <classifier>jdk16</classifier>
-</종속성>
+</dependency>
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -88,7 +88,6 @@ APNG을 JPEG로 변환하려면 다음을 사용합니다.
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
 
 {{< blocks/imaging-app-widget
         sectionTitle="APNG을 JPEG로 변환하는 무료 앱"

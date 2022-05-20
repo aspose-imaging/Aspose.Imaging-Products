@@ -88,7 +88,6 @@ Antes de executar o código de exemplo de conversão, verifique se você tem os 
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
 
 {{< blocks/imaging-app-widget
         sectionTitle="Aplicativo gratuito para converter DNG para DXF"

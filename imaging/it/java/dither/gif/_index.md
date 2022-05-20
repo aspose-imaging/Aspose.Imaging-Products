@@ -37,12 +37,12 @@ e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguent
 {{% blocks/products/pf/agp/code-block title="Dependency" offSpacer="true" %}}
 
 ```xml
-<dipendenza>
+<dependency>
 <groupId>com.aspose</groupId>
-<artifactId>imaging aspose</artifactId>
-<version>versione dell'API aspose-imaging</version>
-<classificatore>jdk16</classificatore>
-</dipendenza>
+<artifactId>aspose-imaging</artifactId>
+<version>version of aspose-imaging API</version>
+<classifier>jdk16</classifier>
+</dependency>
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}

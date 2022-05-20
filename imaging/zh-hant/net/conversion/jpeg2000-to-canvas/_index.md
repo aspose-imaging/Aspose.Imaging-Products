@@ -77,7 +77,6 @@ PM> Install-Package Aspose.Imaging
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
 
 {{< blocks/imaging-app-widget
         sectionTitle="將 JPEG2000 轉換為 CANVAS 的免費應用程序"

@@ -88,7 +88,6 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
 
 {{< blocks/imaging-app-widget
         sectionTitle="JPEG2000'i JPEG'e Dönüştürmek için Ücretsiz Uygulama"

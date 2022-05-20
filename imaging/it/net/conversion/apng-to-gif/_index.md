@@ -79,7 +79,6 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
 
 {{< blocks/imaging-app-widget
         sectionTitle="App gratuita per convertire APNG in GIF"

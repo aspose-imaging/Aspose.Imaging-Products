@@ -88,7 +88,6 @@ API, который представляет собой многофункцио
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
 
 {{< blocks/imaging-app-widget
         sectionTitle="Бесплатное приложение для конвертации EMF в WMZ"

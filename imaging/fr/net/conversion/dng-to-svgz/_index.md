@@ -79,7 +79,6 @@ Avant d'exécuter l'exemple de code de conversion, assurez-vous que vous dispose
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
 
 {{< blocks/imaging-app-widget
         sectionTitle="Application gratuite pour convertir DNG en SVGZ"

@@ -26,7 +26,7 @@ API 是一個功能豐富、功能強大且易於使用的 Java 平台圖像處�
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
 ```xml
-<存儲庫>
+<repository>
 <id>AsposeJavaAPI</id>
 <name>Aspose Java API</name>
 <url>https://repository.aspose.com/repo/</url>
@@ -38,12 +38,12 @@ API 是一個功能豐富、功能強大且易於使用的 Java 平台圖像處�
 {{% blocks/products/pf/agp/code-block title="Dependency" offSpacer="true" %}}
 
 ```xml
-<依賴>
+<dependency>
 <groupId>com.aspose</groupId>
 <artifactId>aspose-imaging</artifactId>
-<version>aspose-imaging API 版本</version>
-<分類器>jdk16</分類器>
-</依賴>
+<version>version of aspose-imaging API</version>
+<classifier>jdk16</classifier>
+</dependency>
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -88,7 +88,6 @@ API 是一個功能豐富、功能強大且易於使用的 Java 平台圖像處�
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
 
 {{< blocks/imaging-app-widget
         sectionTitle="將 DIB 轉換為 PSD 的免費應用程序"
