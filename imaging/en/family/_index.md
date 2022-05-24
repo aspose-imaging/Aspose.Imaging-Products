@@ -1,21 +1,24 @@
----
+﻿---
 title: .NET Java and SharePoint Image Manipulation and Drawing APIs 
 weight: 10
-url: /family
+url: /family 
+lang: en
+langdirlevel: 2
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
 description: Create manipulate and convert images using relevant library within .NET Java and SharePoint applications. Save images to PhotoShop formats
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Imaging APIs for Cross Platform Development" h2="Native APIs to draw, manipulate, transform & convert images." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging.svg" pfName="Aspose.Imaging" downloadUrl="https://downloads.aspose.com/imaging" tryOnlineUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Imaging APIs for Cross Platform Development" h2="Native APIs to draw, manipulate, transform and convert images." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging.svg" pfName="Aspose.Imaging" downloadUrl="https://downloads.aspose.com/imaging" tryOnlineUrl="" downloadFreeTrialText="Download Free Trial">}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Imaging High Code APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" productLink="/imaging/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" productLink="/imaging/en/net/" >}}
 Target Windows Forms, ASP.NET, WPF, WCF or any type of application based on .NET Framework 2.0 or later.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" productLink="/imaging/java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" productLink="/imaging/en/java/" >}}
 Native Java APIs for desktop, web or any kind of application based on Java SE or EE.
 {{< /blocks/products/pf/product >}}
 
@@ -30,7 +33,7 @@ Export reports to mutiple image formats from JasperReports.
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/support-learning-resources >}}
+{{< blocks/products/pf/support-learning-resources supportAndLearningResourcesText="Support and Learning Resources">}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/imaging/" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-imaging?tab=repositories" >}}
@@ -51,6 +54,6 @@ Export reports to mutiple image formats from JasperReports.
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/imaging" pricingInformationLink="https://purchase.aspose.com/pricing/imaging/family" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/imaging" pricingInformationLink="https://purchase.aspose.com/pricing/imaging/family" downloadFreeTrialText="Download Free Trial" pricingInformationText="Pricing Information">}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
