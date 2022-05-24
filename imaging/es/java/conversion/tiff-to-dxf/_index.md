@@ -88,7 +88,6 @@ Antes de ejecutar el código de ejemplo de conversión, asegúrese de tener los 
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
 
 {{< blocks/imaging-app-widget
         sectionTitle="Aplicación gratuita para convertir TIFF a DXF"

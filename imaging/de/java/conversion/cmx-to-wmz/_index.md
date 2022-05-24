@@ -25,25 +25,25 @@ und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml 
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
-„xml
-<Speicher>
-<id>AsposeJavaAPI</id>
-<name>Aspose-Java-API</name>
+```xml
+<repository>
+<id>Aspose Java API</id>
+<name>Aspose Java API</name>
 <url>https://repository.aspose.com/repo/</url>
-</Repository>
+</repository>
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{% blocks/products/pf/agp/code-block title="Abhängigkeit" offSpacer="true" %}}
 
-„xml
-<Abhängigkeit>
+```xml
+<dependency>
 <groupId>com.aspose</groupId>
 <artifactId>aspose-imaging</artifactId>
-<version>Version der aspose-imaging API</version>
+<version>version of aspose-imaging API</version>
 <classifier>jdk16</classifier>
-</Abhängigkeit>
+</dependency>
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -88,7 +88,6 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
 
 {{< blocks/imaging-app-widget
         sectionTitle="Kostenlose App zum Konvertieren von CMX in WMZ"

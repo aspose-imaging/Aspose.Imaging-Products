@@ -26,7 +26,7 @@ API 是一个功能丰富、功能强大且易于使用的 Java 平台图像处�
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
 ```xml
-<存储库>
+<repository>
 <id>AsposeJavaAPI</id>
 <name>Aspose Java API</name>
 <url>https://repository.aspose.com/repo/</url>
@@ -38,12 +38,12 @@ API 是一个功能丰富、功能强大且易于使用的 Java 平台图像处�
 {{% blocks/products/pf/agp/code-block title="Dependency" offSpacer="true" %}}
 
 ```xml
-<依赖>
+<dependency>
 <groupId>com.aspose</groupId>
 <artifactId>aspose-imaging</artifactId>
-<version>aspose-imaging API 版本</version>
-<分类器>jdk16</分类器>
-</依赖>
+<version>version of aspose-imaging API</version>
+<classifier>jdk16</classifier>
+</dependency>
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -88,7 +88,6 @@ API 是一个功能丰富、功能强大且易于使用的 Java 平台图像处�
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
 
 {{< blocks/imaging-app-widget
         sectionTitle="将 CMX 转换为 TIFF 的免费应用程序"

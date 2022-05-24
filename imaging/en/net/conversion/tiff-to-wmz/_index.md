@@ -77,7 +77,6 @@ Before running the conversion example code, make sure that you have the followin
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
 
 {{< blocks/imaging-app-widget
         sectionTitle="Free App to Convert TIFF to WMZ"

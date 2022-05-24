@@ -1,0 +1,59 @@
+﻿---
+title: .NET Java 和 SharePoint 圖像處理和繪圖 API 
+weight: 10
+url: /zh-hant/family 
+lang: zh-hant
+langdirlevel: 2
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+description: 使用 .NET Java 和 SharePoint 應用程序中的相關庫創建操作和轉換圖像。將圖像保存為 PhotoShop 格式
+---
+
+{{< blocks/products/pf/main-wrap-class >}}
+{{< blocks/products/pf/upper-banner h1="用於跨平台開發的成像 API" h2="用於繪製、操作、轉換和轉換圖像的本機 API。" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging.svg" pfName="Aspose.Imaging" downloadUrl="https://downloads.aspose.com/imaging" tryOnlineUrl="" downloadFreeTrialText="下載免費試用版">}}
+
+{{< blocks/products/pf/main-container >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Imaging 高代碼 API 包括" >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Imaging for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" productLink="/imaging/zh-hant/net/" >}}
+面向 Windows 窗體、ASP.NET、WPF、WCF 或任何類型的基於 .NET Framework 2.0 或更高版本的應用程序。
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Imaging for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" productLink="/imaging/zh-hant/java/" >}}
+用於桌面、Web 或任何基於 Java SE 或 EE 的應用程序的本機 Java API。
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Imaging for" title="SharePoint" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg" productLink="/imaging/sharepoint/" >}}
+在 SharePoint Foundation 或 Server 中轉換圖像。
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.Imaging for" title="JasperReports" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-jasperreports.svg" productLink="/imaging/jasperreports/" >}}
+從 JasperReports 將報告導出為多種圖像格式。
+{{< /blocks/products/pf/product >}}
+
+{{< /blocks/products/pf/product-card-row >}}
+{{< /blocks/products/pf/main-container >}}
+
+{{< blocks/products/pf/support-learning-resources supportAndLearningResourcesText="支持和學習資源">}}
+{{< blocks/products/pf/slr-tab tabTitle="學習資源" tabId="resources" >}}
+{{< blocks/products/pf/slr-element name="文檔" href="https://docs.aspose.com/imaging/" >}}
+{{< blocks/products/pf/slr-element name="源代碼" href="https://github.com/aspose-imaging?tab=repositories" >}}
+{{< blocks/products/pf/slr-element name="API 參考" href="https://apireference.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="教程視頻" href="https://www.youtube.com/user/asposevideo" >}}
+{{< /blocks/products/pf/slr-tab >}}
+
+{{< blocks/products/pf/slr-tab tabTitle="產品支持" tabId="support" >}}
+{{< blocks/products/pf/slr-element name="免費支持" href="https://forum.aspose.com/c/imaging" >}}
+{{< blocks/products/pf/slr-element name="付費支持" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="博客" href="https://blog.aspose.com/category/imaging/" >}}
+{{< /blocks/products/pf/slr-tab >}}
+
+{{< blocks/products/pf/slr-tab tabTitle="為什麼選擇 Aspose.Imaging 產品系列？" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-element name="客戶名單" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="成功的故事" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< /blocks/products/pf/slr-tab >}}
+
+{{< /blocks/products/pf/support-learning-resources >}}
+
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/imaging" pricingInformationLink="https://purchase.aspose.com/pricing/imaging/family" downloadFreeTrialText="下載免費試用版" pricingInformationText="定價信息">}}
+
+{{< /blocks/products/pf/main-wrap-class >}}

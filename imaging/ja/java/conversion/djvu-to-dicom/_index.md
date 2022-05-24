@@ -25,26 +25,26 @@ DJVUをDICOMに変換するには、
 
 {{% blocks/products/pf/agp/code-block title = "Repository" offSpacer = "true"%}}
 
-`` `xml
-<リポジトリ>
-<id> AsposeJavaAPI </ id>
-<name> Aspose Java API </ name>
-<url> https://repository.aspose.com/repo/ </ url>
-</リポジトリ>
-`` `
+```xml
+<repository>
+<id>Aspose Java API</id>
+<name>Aspose Java API</name>
+<url>https://repository.aspose.com/repo/</url>
+</repository>
+```
 
 {{%/ blocks/products/pf/agp/code-block%}}
 
 {{% blocks/products/pf/agp/code-block title = "Dependency" offSpacer = "true"%}}
 
-`` `xml
-<依存関係>
-<groupId> com.aspose </ groupId>
-<artifactId>aspose-イメージング</artifactId>
-<version>aspose-imagingAPIのバージョン</version>
-<classifier> jdk16 </ classifier>
-</依存関係>
-`` `
+```xml
+<dependency>
+<groupId>com.aspose</groupId>
+<artifactId>aspose-imaging</artifactId>
+<version>version of aspose-imaging API</version>
+<classifier>jdk16</classifier>
+</dependency>
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -88,7 +88,6 @@ DJVUをDICOMに変換するには、
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
 
 {{< blocks/imaging-app-widget
         sectionTitle="DJVUをDICOMに変換する無料アプリ"

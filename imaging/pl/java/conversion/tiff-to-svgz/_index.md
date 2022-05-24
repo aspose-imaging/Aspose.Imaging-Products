@@ -88,7 +88,6 @@ Przed uruchomieniem przykładowego kodu konwersji upewnij się, że masz następ
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
 
 {{< blocks/imaging-app-widget
         sectionTitle="Darmowa aplikacja do konwersji TIFF na SVGZ"
