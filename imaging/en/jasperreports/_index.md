@@ -43,7 +43,7 @@ description: Image processing and manipulation library API  to create edit draw 
    <header>
     <i class="fa fa-map-o">
     </i>
-    Multipage Export
+    Multipage  Export
    </header>
    <br/>
    <header>
