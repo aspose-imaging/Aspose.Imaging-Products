@@ -18,12 +18,7 @@ description: C# konvertavimo iš JPEG2000 į JPEG pavyzdinis kodas. Naudokite AP
 {{% blocks/products/pf/agp/content h2="Kaip konvertuoti JPEG2000 į JPEG naudojant C#" %}}
 
 Norėdami konvertuoti JPEG2000 į JPEG, naudosime
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta C# platformai. Atviras
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- paketų tvarkyklė, ieškokite
- **Aspose.Imaging**
- ir įdiegti. Taip pat galite naudoti šią komandą iš paketų tvarkyklės konsolės.
+[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta C# platformai. Atviras [NuGet](https://www.nuget.org/packages/aspose.imaging) paketų tvarkyklė, ieškokite **Aspose.Imaging** ir įdiegti. Taip pat galite naudoti šią komandą iš paketų tvarkyklės konsolės.
 
 {{% blocks/products/pf/agp/code-block title="Paketų tvarkytuvės konsolės komanda" offSpacer="true" %}}
 
@@ -95,7 +90,7 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
 JPEG 2000 (JP2) yra vaizdo kodavimo sistema ir pažangiausias vaizdo glaudinimo standartas. Sukurtas, naudojant banglečių technologiją, JPEG 2000 gali iš karto užkoduoti bet kokios kokybės turinį be nuostolių. Be to, be jokios didelės nuobaudos dėl kodavimo efektyvumo, JPEG 2000 turi galimybę pasiekti ir efektyviai iššifruoti tą patį turinį į daugybę kitų skiriamųjų gebų ir savybių. JPEG 2000 kodo srautai yra labai keičiami, nes yra dominančių regionų, kurie suteikia galimybę atsitiktinei erdvinei prieigai. Turi iki 16384 įvairių komponentų, kurių matmenys yra terapikseliais, o tikslumas gali siekti 38 bitus/pavyzdį.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
 JPEG yra vaizdo formatas, kuris išsaugomas naudojant nuostolingo glaudinimo metodą. Išvesties vaizdas dėl suspaudimo yra kompromisas tarp saugojimo dydžio ir vaizdo kokybės. Vartotojai gali reguliuoti suspaudimo lygį, kad pasiektų norimą kokybės lygį, tuo pačiu sumažindami saugyklos dydį. Vaizdo kokybei nežymiai pakenks, jei vaizdui taikomas glaudinimas 10:1. Kuo didesnė suspaudimo vertė, tuo didesnis vaizdo kokybės pablogėjimas.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -126,6 +121,7 @@ JPEG yra vaizdo formatas, kuris išsaugomas naudojant nuostolingo glaudinimo met
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/conversion/jpeg2000-to-tga" name="TGA" description="Targa grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/conversion/jpeg2000-to-svgz" name="SVGZ" description="Suglaudinta Scalable Vector Graphics (.SVG) failo versija." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/conversion/jpeg2000-to-canvas" name="CANVAS" description="HTML5 drobė" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/conversion/jpeg2000-to-ico" name="ICO" description="Windows piktograma" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

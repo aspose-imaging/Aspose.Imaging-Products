@@ -18,12 +18,7 @@ description: C# konvertavimo iš CDR į JP2 pavyzdinis kodas. Naudokite API pavy
 {{% blocks/products/pf/agp/content h2="Kaip konvertuoti CDR į JP2 naudojant C#" %}}
 
 Norėdami konvertuoti CDR į JP2, naudosime
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta C# platformai. Atviras
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- paketų tvarkyklė, ieškokite
- **Aspose.Imaging**
- ir įdiegti. Taip pat galite naudoti šią komandą iš paketų tvarkyklės konsolės.
+[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta C# platformai. Atviras [NuGet](https://www.nuget.org/packages/aspose.imaging) paketų tvarkyklė, ieškokite **Aspose.Imaging** ir įdiegti. Taip pat galite naudoti šią komandą iš paketų tvarkyklės konsolės.
 
 {{% blocks/products/pf/agp/code-block title="Paketų tvarkytuvės konsolės komanda" offSpacer="true" %}}
 
@@ -91,11 +86,11 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
 CDR failas yra vektorinio piešimo vaizdo failas, sukurtas naudojant CorelDRAW, kad būtų saugomas užkoduotas ir suspaustas skaitmeninis vaizdas. Tokiame piešimo faile yra tekstas, linijos, formos, vaizdai, spalvos ir efektai, skirti vaizdo turinio vektoriniam atvaizdavimui. CDR failus galima atidaryti naudojant CorelDRAW kaip pagrindinę programą ir konvertuoti į kitus formatus, tokius kaip PDF, JPG, PNG, BMP ir AI. Jis gali būti naudojamas įvairiems grafiniams duomenims, pvz., brošiūroms, bulvariniams leidiniams, vokams ir atvirukams, vaizduoti. Be CorelDRAW, kiti Corel produktai, tokie kaip Corel Paintshop Pro ir CorelDRAW Graphics Suite, taip pat gali atidaryti CDR failų formatus.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
 JPEG 2000 (JP2) yra vaizdo kodavimo sistema ir pažangiausias vaizdo glaudinimo standartas. Sukurtas, naudojant banglečių technologiją, JPEG 2000 gali iš karto užkoduoti bet kokios kokybės turinį be nuostolių. Be to, be jokios didelės nuobaudos dėl kodavimo efektyvumo, JPEG 2000 turi galimybę pasiekti ir efektyviai iššifruoti tą patį turinį į daugybę kitų skiriamųjų gebų ir savybių. JPEG 2000 kodo srautai yra labai keičiami, nes yra dominančių regionų, kurie suteikia galimybę atsitiktinei erdvinei prieigai. Turi iki 16384 įvairių komponentų, kurių matmenys yra terapikseliais, o tikslumas gali siekti 38 bitus/pavyzdį.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -129,6 +124,7 @@ JPEG 2000 (JP2) yra vaizdo kodavimo sistema ir pažangiausias vaizdo glaudinimo 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/conversion/cdr-to-tga" name="TGA" description="Targa grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/conversion/cdr-to-svgz" name="SVGZ" description="Suglaudinta Scalable Vector Graphics (.SVG) failo versija." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/conversion/cdr-to-canvas" name="CANVAS" description="HTML5 drobė" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/conversion/cdr-to-ico" name="ICO" description="Windows piktograma" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

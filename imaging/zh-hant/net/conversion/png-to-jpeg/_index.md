@@ -18,12 +18,7 @@ description: PNG 到 JPEG C# 轉換的示例代碼。使用 API 示例代碼在 
 {{% blocks/products/pf/agp/content h2="如何使用 C# 將 PNG 轉換為 JPEG" %}}
 
 為了將 PNG 轉換為 JPEG，我們將使用
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- API 是一個功能豐富、功能強大且易於使用的 C# 平台圖像處理和轉換 API。打開
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- 包管理器，搜索
- **Aspose.Imaging**
- 並安裝。您也可以從包管理器控制台使用以下命令。
+[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一個功能豐富、功能強大且易於使用的 C# 平台圖像處理和轉換 API。打開 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 並安裝。您也可以從包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 
@@ -91,12 +86,12 @@ PM> Install-Package Aspose.Imaging
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
-PNG, Portable Network Graphics, refers to a type of raster image file format that use loseless compression. This file format was created as a replacement of Graphics Interchange Format (GIF) and has no copyright limitations. However, PNG file format does not support animations. PNG file format supports loseless image compression that makes it popular among its users. With the passage of time, PNG has evolved as one of the mostly used image file format. Almost all Operating Systems have support for opening PNG files. For example, Microsoft Windows viewer has the capability to open PNG files as the OS has by default the support available as part of installation.
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+PNG，便攜式網絡圖形，是指一種使用無損壓縮的光柵圖像文件格式。此文件格式是作為圖形交換格式 (GIF) 的替代品而創建的，沒有版權限制。但是，PNG 文件格式不支持動畫。 PNG文件格式支持無損圖像壓縮，使其在用戶中很受歡迎。隨著時間的推移，PNG 已經發展成為最常用的圖像文件格式之一。幾乎所有操作系統都支持打開 PNG 文件。例如，Microsoft Windows 查看器能夠打開 PNG 文件，因為操作系統默認支持作為安裝的一部分。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
-A JPEG is a type of image format that is saved using the method of lossy compression. The output image, as result of compression, is a trade-off between storage size and image quality. Users can adjust the compression level to achieve the desired quality level while at the same time reduce the storage size. Image quality is negligibly affected if 10:1 compression is applied to the image. The higher the compression value, the higher the degradation in image quality.
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+JPEG 是一種使用有損壓縮方法保存的圖像格式。作為壓縮的結果，輸出圖像是存儲大小和圖像質量之間的權衡。用戶可以調整壓縮級別以達到所需的質量級別，同時減小存儲大小。如果對圖像應用 10:1 壓縮，則對圖像質量的影響可以忽略不計。壓縮值越高，圖像質量的劣化程度越高。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
     {{< /blocks/products/pf/agp/about-file-section >}}
@@ -105,29 +100,30 @@ A JPEG is a type of image format that is saved using the method of lossy compres
 
 {{< blocks/products/pf/agp/other-supported-section title="其他支持的轉換" subTitle="使用 C#，可以輕鬆轉換不同的格式，包括。" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/png-to-bmp" name="BMP" description="Bitmap Picture" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/png-to-gif" name="GIF" description="Graphical Interchange Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/png-to-dicom" name="DICOM" description="Digital Imaging & Communications" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/png-to-emf" name="EMF" description="Enhanced Metafile Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/png-to-jpg" name="JPG" description="Joint Photographic Experts Group" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/png-to-jpeg" name="JPEG" description="Joint Photographic Experts Group" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/png-to-bmp" name="BMP" description="位圖圖片" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/png-to-gif" name="GIF" description="圖形交換格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/png-to-dicom" name="DICOM" description="數碼影像與通訊" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/png-to-emf" name="EMF" description="增強的元文件格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/png-to-jpg" name="JPG" description="聯合攝影專家組" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/png-to-jpeg" name="JPEG" description="聯合攝影專家組" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/png-to-jp2" name="JP2" description="JPEG 2000" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/png-to-j2k" name="J2K" description="Wavelet Compressed Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/png-to-j2k" name="J2K" description="小波壓縮圖像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/png-to-jpeg2000" name="JPEG2000" description="JPEG 2000" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/png-to-apng" name="APNG" description="Animated Portable Network Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/png-to-psd" name="PSD" description="Photoshop Document" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/png-to-dxf" name="DXF" description="Drawing Interchange Format, or Drawing Exchange Format," >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/png-to-svg" name="SVG" description="Scalable Vector Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/png-to-tiff" name="TIFF" description="Tagged Image Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/png-to-webp" name="WEBP" description="Raster Web Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/png-to-wmf" name="WMF" description="Microsoft Windows Metafile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/png-to-pdf" name="PDF" description="Portable Document Format (PDF)" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/png-to-html" name="HTML" description="HTML5 Canvas" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/png-to-emz" name="EMZ" description="Windows Compressed Enhanced Metafile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/png-to-wmz" name="WMZ" description="Compressed Windows Media Player Skin" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/png-to-tga" name="TGA" description="Targa Graphic" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/png-to-svgz" name="SVGZ" description="Compressed version of Scalable Vector Graphics (.SVG) file." >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/png-to-canvas" name="CANVAS" description="HTML5 Canvas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/png-to-apng" name="APNG" description="動畫便攜式網絡圖形" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/png-to-psd" name="PSD" description="Photoshop 文檔" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/png-to-dxf" name="DXF" description="圖紙交換格式，或圖紙交換格式，" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/png-to-svg" name="SVG" description="可縮放矢量圖形" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/png-to-tiff" name="TIFF" description="標記圖像格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/png-to-webp" name="WEBP" description="光柵網絡圖像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/png-to-wmf" name="WMF" description="微軟視窗元文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/png-to-pdf" name="PDF" description="便攜式文檔格式 (PDF)" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/png-to-html" name="HTML" description="HTML5 畫布" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/png-to-emz" name="EMZ" description="Windows 壓縮增強元文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/png-to-wmz" name="WMZ" description="壓縮的 Windows Media Player 皮膚" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/png-to-tga" name="TGA" description="塔加圖形" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/png-to-svgz" name="SVGZ" description="可縮放矢量圖形 (.SVG) 文件的壓縮版本。" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/png-to-canvas" name="CANVAS" description="HTML5 畫布" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/png-to-ico" name="ICO" description="窗口圖標" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

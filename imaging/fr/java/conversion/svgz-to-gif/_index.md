@@ -18,10 +18,7 @@ description: Exemple de code pour la conversion Java SVGZ vers GIF. Utilisez un 
 {{% blocks/products/pf/agp/content h2="Comment convertir SVGZ en GIF en utilisant Java" %}}
 
 Afin de convertir SVGZ en GIF, nous utiliserons
-[Aspose.Imaging pour Java](https://products.aspose.com/imaging/java)
-API qui est une API de manipulation et de conversion d'images riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme Java. Vous pouvez télécharger sa dernière version directement depuis
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au fichier pom.xml.
+[Aspose.Imaging pour Java](https://products.aspose.com/imaging/java) API qui est une API de manipulation et de conversion d'images riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme Java. Vous pouvez télécharger sa dernière version directement depuis [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au fichier pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -102,11 +99,11 @@ Avant d'exécuter l'exemple de code de conversion, assurez-vous que vous dispose
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
 Un fichier avec l'extension .svgz est une version compressée du fichier Scalable Vector Graphics (.SVG). Il est compressé avec la compression gzip et contient des données au format XML. Les fichiers SVGZ prennent en charge la transparence, les dégradés, les animations et les filtres. Les fichiers SVGZ sont plus petits que les fichiers SVG par défaut et cette taille de fichier réduite permet de transférer les fichiers graphiques en ligne. Le graphiste crée des fichiers SVGZ à l'aide d'outils tels qu'Adobe Illustrator, Corel PaintShop Pro et autres. Cependant, les fichiers SVGZ peuvent être générés en activant la compression GZip dans le serveur Apache lors de l'envoi des données d'image.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
 Un format GIF ou Graphical Interchange est un type d'image hautement compressée. Propriété d'Unisys, GIF utilise l'algorithme de compression LZW qui ne dégrade pas la qualité de l'image. Pour chaque image, le GIF autorise généralement jusqu'à 8 bits par pixel et jusqu'à 256 couleurs sont autorisées sur l'image. Contrairement à une image JPEG, qui peut afficher jusqu'à 16 millions de couleurs et touche assez les limites de l'œil humain. À l'époque de l'émergence d'Internet, les GIF restaient le meilleur choix car ils nécessitaient une faible bande passante et étaient compatibles avec les graphiques qui consommaient des zones de couleur unies. Un GIF animé combine de nombreuses images ou cadres dans un seul fichier et les affiche dans une séquence pour générer un clip animé ou une courte vidéo. Les limitations de couleur vont jusqu'à 256 pour chaque image et sont probablement les moins appropriées pour reproduire d'autres images et photographies avec un dégradé de couleurs.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -139,6 +136,7 @@ Un format GIF ou Graphical Interchange est un type d'image hautement compressée
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/conversion/svgz-to-tga" name="TGA" description="Graphique Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/conversion/svgz-to-svg" name="SVG" description="Image Vectorielle" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/conversion/svgz-to-canvas" name="CANVAS" description="Canevas HTML5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/conversion/svgz-to-ico" name="ICO" description="Icône Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

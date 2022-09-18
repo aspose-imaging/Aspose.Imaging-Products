@@ -18,12 +18,7 @@ description: WMF - TGA C# dönüşümü için örnek kod. VB.NET, Asp.NET veya h
 {{% blocks/products/pf/agp/content h2="C# Kullanarak WMF'i TGA'ye Dönüştürme" %}}
 
 WMF'i TGA'ye dönüştürmek için kullanacağız
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. Açık
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- paket yöneticisi, ara
- **Aspose.Görüntüleme**
- ve yükleyin. Paket Yöneticisi Konsolundan aşağıdaki komutu da kullanabilirsiniz.
+[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. Açık [NuGet](https://www.nuget.org/packages/aspose.imaging) paket yöneticisi, ara **Aspose.Görüntüleme** ve yükleyin. Paket Yöneticisi Konsolundan aşağıdaki komutu da kullanabilirsiniz.
 
 {{%blocks/products/pf/agp/code-block title="Paket Yöneticisi Konsol Komutu" offSpacer="true" %}}
 
@@ -91,11 +86,11 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
 WMF uzantılı dosyalar, vektörün yanı sıra bitmap formatındaki görüntü verilerini depolamak için Microsoft Windows Meta Dosyasını (WMF) temsil eder. Daha doğru olmak gerekirse, WMF, aygıttan bağımsız Grafik dosya biçimlerinin vektör dosya biçimi kategorisine aittir. Windows Grafik Aygıt Arabirimi (GDI), bir görüntüyü ekranda görüntülemek için bir WMF dosyasında depolanan işlevleri kullanır. Gelişmiş Meta Dosyaları (EMF) olarak bilinen WMF'nin daha gelişmiş bir sürümü daha sonra yayımlandı ve bu, biçimi daha zengin özelliklere sahip hale getirdi. Pratik olarak WMF, SVG'ye benzer.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
 Genellikle TARGA olarak adlandırılan Truevision TGA, Truevision Inc. (şimdi Avid Technology'nin bir parçası) tarafından oluşturulan bir raster grafik dosyası formatıdır. IBM uyumlu PC'ler için Highcolor/truecolor ekranı destekleyen ilk grafik kartları olan TARGA ve VISTA kartlarının yerel formatıydı.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -128,6 +123,7 @@ Genellikle TARGA olarak adlandırılan Truevision TGA, Truevision Inc. (şimdi A
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/conversion/wmf-to-tga" name="TGA" description="Targa Grafiği" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/conversion/wmf-to-svgz" name="SVGZ" description="Ölçeklenebilir Vektör Grafikleri (.SVG) dosyasının sıkıştırılmış sürümü." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/conversion/wmf-to-canvas" name="CANVAS" description="HTML5 Tuval" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/conversion/wmf-to-ico" name="ICO" description="Windows simgesi" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

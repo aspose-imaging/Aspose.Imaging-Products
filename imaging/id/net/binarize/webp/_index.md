@@ -16,13 +16,7 @@ description: Coba API dokumen Lokal kami untuk Binarisasi file WEBP di .NET Fram
 
 {{% blocks/products/pf/agp/content h2="Cara Binarisasi File WEBP Menggunakan C#" %}}
 
-Untuk Binarisasi file WEBP, kami akan menggunakan
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- API yang kaya fitur, kuat, dan mudah digunakan manipulasi gambar dan konversi API untuk platform C#. Membuka
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- manajer paket, cari
- **Aspose.Imaging**
- dan menginstal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
+Untuk Binarisasi file WEBP, kami akan menggunakan [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API yang kaya fitur, kuat, dan mudah digunakan manipulasi gambar dan konversi API untuk platform C#. Membuka [NuGet](https://www.nuget.org/packages/aspose.imaging) manajer paket, cari **Aspose.Imaging** dan menginstal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Perintah Konsol Manajer Paket" offSpacer="true" %}}
 
@@ -42,9 +36,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-Anda membutuhkan
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- untuk mencoba alur kerja berikut di lingkungan Anda sendiri.
+Anda membutuhkan [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) untuk mencoba alur kerja berikut di lingkungan Anda sendiri.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -97,7 +89,7 @@ Aspose.Imaging API adalah solusi pemrosesan gambar untuk membuat, memodifikasi, 
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Cukup unggah file WEBP Anda dan tekan tombol \"Binarisasi sekarang\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Langsung dapatkan tautan unduhan untuk file yang dihasilkan" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya" >}}
 WebP, diperkenalkan oleh Google, adalah format file gambar web raster modern yang didasarkan pada kompresi lossless dan lossy. Ini memberikan kualitas gambar yang sama sekaligus mengurangi ukuran gambar secara signifikan. Karena sebagian besar halaman web menggunakan gambar sebagai representasi data yang efektif, penggunaan gambar WebP di halaman web menghasilkan pemuatan halaman web yang lebih cepat. Sesuai Google, gambar lossless WebP berukuran 26% lebih kecil dibandingkan dengan PNG, sementara gambar lossy WebP 25-34% lebih kecil dari gambar JPEG yang sebanding. Gambar dibandingkan berdasarkan indeks Kesamaan Struktural (SSIM) antara WebP dan format file gambar lainnya. WebP adalah proyek saudara dari format wadah multimedia WebM.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -109,6 +101,7 @@ WebP, diperkenalkan oleh Google, adalah format file gambar web raster modern yan
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/binarize/apng" name="APNG" description="Grafik Jaringan Portabel Animasi" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/binarize/bmp" name="BMP" description="Gambar Bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/binarize/ico" name="ICO" description="ikon Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/binarize/jpg" name="JPG" description="Kelompok Ahli Fotografi Bersama" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/binarize/jpeg" name="JPEG" description="Kelompok Ahli Fotografi Bersama" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/binarize/dib" name="DIB" description="Bitmap Independen Perangkat" >}}

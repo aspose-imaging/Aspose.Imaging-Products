@@ -16,13 +16,7 @@ description: Hãy thử các API tài liệu On-Premise của chúng tôi để 
 
 {{% blocks/products/pf/agp/content h2="Cách cắt tệp J2K bằng C#" %}}
 
-Để cắt các tệp J2K, chúng tôi sẽ sử dụng
-[Aspose.Imaging cho .NET] (https://products.aspose.com/imaging/net)
- API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C #. Mở
- [NuGet] (https://www.nuget.org/packages/aspose.imaging)
- quản lý gói, tìm kiếm
- ** Aspose.Imaging **
- và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển Trình quản lý Gói.
+Để cắt các tệp J2K, chúng tôi sẽ sử dụng [Aspose.Imaging cho .NET] (https://products.aspose.com/imaging/net) API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C #. Mở [NuGet] (https://www.nuget.org/packages/aspose.imaging) quản lý gói, tìm kiếm ** Aspose.Imaging ** và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển Trình quản lý Gói.
 
 {{% blocks/products/pf/agp/code-block title = "Lệnh Bảng điều khiển Trình quản lý Gói" offSpacer = "true"%}}
 
@@ -97,7 +91,7 @@ Aspose.Imaging API là một giải pháp xử lý hình ảnh để tạo, sử
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Chỉ cần tải lên các tệp J2K của bạn và nhấn nút \"Cắt ngay bây giờ \"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Nhận ngay liên kết tải xuống cho tệp kết quả" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm" >}}
 Tệp J2K là hình ảnh được nén bằng cách sử dụng nén wavelet thay vì nén DCT.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -109,6 +103,7 @@ Tệp J2K là hình ảnh được nén bằng cách sử dụng nén wavelet th
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/crop/apng" name="APNG" description="Đồ họa mạng di động hoạt hình" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/crop/bmp" name="BMP" description="Ảnh bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/crop/ico" name="ICO" description="Biểu tượng Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/crop/jpg" name="JPG" description="Nhóm chuyên gia nhiếp ảnh chung" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/crop/dib" name="DIB" description="Bản đồ bit độc lập với thiết bị" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/crop/dicom" name="DICOM" description="Hình ảnh & Truyền thông Kỹ thuật số" >}}

@@ -16,13 +16,8 @@ description: Probieren Sie unsere On-Premise-Dokument-APIs aus, um den Hintergru
 
 {{% blocks/products/pf/agp/content h2="So entfernen Sie den Hintergrund in DNG-Dateien mit C#" %}}
 
-Um den Hintergrund in DNG-Dateien zu entfernen, verwenden wir
-[Aspose.Imaging für .NET](https://products.aspose.com/imaging/net)
- API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Bildbearbeitungs- und Konvertierungs-API für die C#-Plattform ist. Offen
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- Paketmanager, suche nach
- **Aspose.Imaging**
- und installieren. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden.
+Um den Hintergrund in DNG-Dateien zu entfernen, verwenden wir [Aspose.Imaging für .NET](https://products.aspose.com/imaging/net) API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Bildbearbeitungs- und Konvertierungs-API für die C#-Plattform ist. Offen [NuGet](https://www.nuget.org/packages/aspose.imaging) Paketmanager, suche nach
+ **Aspose.Imaging** und installieren. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
@@ -42,9 +37,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-Du brauchst die
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- um den folgenden Workflow in Ihrer eigenen Umgebung auszuprobieren.
+Du brauchst die [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) um den folgenden Workflow in Ihrer eigenen Umgebung auszuprobieren.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -70,7 +63,7 @@ Aspose.Imaging für .NET wird auf allen wichtigen Betriebssystemen unterstützt.
 
 {{% blocks/products/pf/agp/code-block title="Hintergrund in DNG-Bildern entfernen – .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "07bd18a1af2633c99a708341d84b5ad2" "remove-change-background-generic-examples.cs" >}}
+{{< gist "aspose-com-gists" "c28d7d7f7dff39444751b5724d5ba14a" "remove-change-background-generic-examples.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -97,7 +90,7 @@ Aspose.Imaging API ist eine Bildverarbeitungslösung zum Erstellen, Ändern, Zei
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Laden Sie einfach Ihre DNG-Dateien hoch und klicken Sie auf die Schaltfläche \"Hintergrund jetzt entfernen\"." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Erhalten Sie sofort den Download-Link für die resultierende Datei" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen" >}}
 DNG ist ein Bildformat für Digitalkameras, das zum Speichern von Rohdateien verwendet wird. Es wurde von Adobe im September 2004 entwickelt. Es wurde im Wesentlichen für die digitale Fotografie entwickelt. DNG ist eine Erweiterung des TIFF/EP-Standardformats und verwendet in erheblichem Umfang Metadaten. Um Rohdaten von Digitalkameras mit einfacher Flexibilität und künstlerischer Kontrolle zu bearbeiten, entscheiden sich Fotografen für Kamera-Rohdateien. JPEG- und TIFF-Formate speichern Bilder, die von der Kamera verarbeitet werden, daher ist in solchen Formaten nicht viel Spielraum für Änderungen vorhanden.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -109,6 +102,7 @@ DNG ist ein Bildformat für Digitalkameras, das zum Speichern von Rohdateien ver
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/remove-background/apng" name="APNG" description="Animierte tragbare Netzwerkgrafiken" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/remove-background/bmp" name="BMP" description="Bitmap-Bild" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/remove-background/ico" name="ICO" description="Windows-Symbol" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/remove-background/jpg" name="JPG" description="Gemeinsame fotografische Expertengruppe" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/remove-background/dib" name="DIB" description="Geräteunabhängige Bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/remove-background/dicom" name="DICOM" description="Digitale Bildgebung und Kommunikation" >}}

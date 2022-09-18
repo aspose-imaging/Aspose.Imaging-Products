@@ -16,11 +16,7 @@ description: Java Uygulamasında WEBP dosyalarını birleştirmek için Şirket 
 
 {{% blocks/products/pf/agp/content h2="Java Kullanarak WEBP Dosyalarını Yeniden Boyutlandırma" %}}
 
-WEBP dosyalarını yeniden boyutlandırmak için kullanacağız
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java)
-Java platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. En son sürümünü doğrudan adresinden indirebilirsiniz.
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-ve pom.xml dosyasına aşağıdaki konfigürasyonları ekleyerek Maven tabanlı projenize kurun.
+WEBP dosyalarını yeniden boyutlandırmak için kullanacağız [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) Java platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. En son sürümünü doğrudan adresinden indirebilirsiniz. [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) ve pom.xml dosyasına aşağıdaki konfigürasyonları ekleyerek Maven tabanlı projenize kurun.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -55,9 +51,7 @@ ve pom.xml dosyasına aşağıdaki konfigürasyonları ekleyerek Maven tabanlı 
 
 {{% blocks/products/pf/agp/text %}}
 
-ihtiyacın var
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java)
- aşağıdaki iş akışını kendi ortamınızda denemek için
+ihtiyacın var [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) aşağıdaki iş akışını kendi ortamınızda denemek için
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +102,7 @@ Aspose.Imaging API, uygulamalar içinde görüntüleri (fotoğrafları) oluştur
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="WEBP dosyalarınızı yükleyin ve \"Yeniden Boyutlandır\" düğmesine basın" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Ortaya çıkan dosyanın indirme bağlantısını anında alın" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku" >}}
 Google tarafından tanıtılan WebP, kayıpsız ve kayıplı sıkıştırmaya dayanan modern bir raster web görüntü dosyası biçimidir. Görüntü boyutunu önemli ölçüde azaltırken aynı görüntü kalitesini sağlar. Web sayfalarının çoğu, verileri etkin bir şekilde temsil etmek için görüntüleri kullandığından, WebP görüntülerinin web sayfalarında kullanılması web sayfalarının daha hızlı yüklenmesine neden olur. Google'a göre, WebP kayıpsız görseller PNG'lere kıyasla %26 daha küçükken, WebP kayıplı görseller karşılaştırılabilir JPEG görsellerinden %25-34 daha küçüktür. Görüntüler, WebP ve diğer görüntü dosyası biçimleri arasındaki Yapısal Benzerlik (SSIM) endeksine dayalı olarak karşılaştırılır. WebP, WebM multimedya konteyner formatının kardeş projesidir.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -120,6 +114,7 @@ Google tarafından tanıtılan WebP, kayıpsız ve kayıplı sıkıştırmaya da
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/resize/apng" name="APNG" description="Hareketli Taşınabilir Ağ Grafikleri" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/resize/bmp" name="BMP" description="Bitmap Resmi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/resize/ico" name="ICO" description="Windows simgesi" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/resize/jpg" name="JPG" description="Birleşmiş Fotoğraf Uzmanları Grubu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/resize/cdr" name="CDR" description="Vektör Çizim Görüntüsü" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/resize/cmx" name="CMX" description="Corel Exchange Görüntüsü" >}}

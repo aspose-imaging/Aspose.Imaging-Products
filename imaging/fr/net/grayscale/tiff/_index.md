@@ -16,13 +16,7 @@ description: Essayez nos API de document sur site pour les fichiers TIFF en nive
 
 {{% blocks/products/pf/agp/content h2="Comment mettre en niveaux de gris les fichiers TIFF à l'aide de C#" %}}
 
-Afin de mettre en niveaux de gris les fichiers TIFF, nous utiliserons
-[Aspose.Imaging pour .NET](https://products.aspose.com/imaging/net)
- API qui est une API de manipulation et de conversion d'images riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme C #. Ouvrir
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- gestionnaire de paquets, recherchez
- **Aspose.Imaging**
- et installer. Vous pouvez également utiliser la commande suivante à partir de la console du gestionnaire de packages.
+Afin de mettre en niveaux de gris les fichiers TIFF, nous utiliserons [Aspose.Imaging pour .NET](https://products.aspose.com/imaging/net) API qui est une API de manipulation et de conversion d'images riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme C #. Ouvrir [NuGet](https://www.nuget.org/packages/aspose.imaging) gestionnaire de paquets, recherchez **Aspose.Imaging** et installer. Vous pouvez également utiliser la commande suivante à partir de la console du gestionnaire de packages.
 
 {{% blocks/products/pf/agp/code-block title="Commande de la console du gestionnaire de packages" offSpacer="true" %}}
 
@@ -44,9 +38,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-Vous avez besoin du
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- pour essayer le workflow suivant dans votre propre environnement.
+Vous avez besoin du [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) pour essayer le workflow suivant dans votre propre environnement.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -99,7 +91,7 @@ Aspose.Imaging API est une solution de traitement d'images pour créer, modifier
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Téléchargez simplement vos fichiers TIFF et cliquez sur le bouton \"Niveaux de gris maintenant\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Obtenez instantanément le lien de téléchargement du fichier résultant" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite" >}}
 TIFF ou TIF, Tagged Image File Format, représente des images raster destinées à être utilisées sur une variété d'appareils conformes à cette norme de format de fichier. Il est capable de décrire des données d'image à deux niveaux, en niveaux de gris, en couleurs de palette et en couleurs dans plusieurs espaces colorimétriques. Il prend en charge les schémas de compression avec perte et sans perte pour choisir entre l'espace et le temps pour les applications utilisant le format. Le format est extensible et a subi plusieurs révisions qui permettent l'inclusion d'une quantité illimitée d'informations privées ou à usage spécial. Le format ne dépend pas de la machine et est exempt de limites telles que le processeur, le système d'exploitation ou les systèmes de fichiers.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -111,6 +103,7 @@ TIFF ou TIF, Tagged Image File Format, représente des images raster destinées 
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/net/grayscale/apng" name="APNG" description="Graphiques de réseau portables animés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/net/grayscale/bmp" name="BMP" description="Image bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/net/grayscale/ico" name="ICO" description="Icône Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/net/grayscale/jpg" name="JPG" description="Groupe mixte d'experts photographiques" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/net/grayscale/jpeg" name="JPEG" description="Groupe mixte d'experts photographiques" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/net/grayscale/dib" name="DIB" description="Bitmap indépendant du périphérique" >}}

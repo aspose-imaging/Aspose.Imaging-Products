@@ -17,10 +17,7 @@ description: Probeer onze On-Premise document-API's om EPS-bestanden te bekijken
 {{% blocks/products/pf/agp/content h2="EPS afbeeldingen bekijken met Java" %}}
 
 Om EPS-bestanden te bekijken, gebruiken we
-[Aspose.Imaging voor Java](https://products.aspose.com/imaging/java)
-API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het Java-platform. U kunt de nieuwste versie rechtstreeks downloaden van
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
+[Aspose.Imaging voor Java](https://products.aspose.com/imaging/java) API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het Java-platform. U kunt de nieuwste versie rechtstreeks downloaden van [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -55,9 +52,7 @@ en installeer het binnen uw op Maven gebaseerde project door de volgende configu
 
 {{% blocks/products/pf/agp/text %}}
 
-Je hebt de nodig
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java)
- om de volgende workflow in uw eigen omgeving te proberen.
+Je hebt de nodig [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) om de volgende workflow in uw eigen omgeving te proberen.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -111,7 +106,7 @@ Aspose.Imaging API is een beeldverwerkingsoplossing voor het maken, wijzigen, te
         checkFreeAppLabel="Bekijk onze [live demo's om EPS](https://products.aspose.app/imaging/nl/image-view/EPS)">}}
 
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder" >}}
 Bestanden met de extensie EPS beschrijven in wezen een Encapsulated PostScript-taalprogramma dat het uiterlijk van een enkele pagina beschrijft. De naam "Encapsulated" omdat deze kan worden opgenomen of ingekapseld in een paginabeschrijving van een andere PostScript-taal. Deze op scripts gebaseerde bestandsindeling kan elke combinatie van tekst, afbeeldingen en afbeeldingen bevatten. EPS-bestanden kunnen een voorbeeldafbeelding van een bitmap bevatten die is ingekapseld voor weergave door toepassingen die dergelijke bestanden kunnen openen. EPS-bestanden kunnen worden geconverteerd naar standaard afbeeldingsformaten zoals JPG, PNG, TIFF en PDF met behulp van verschillende toepassingen, b.v. Adobe Illustrator, Photoshop en PaintShop Pro. Vanwege een beveiligingsprobleem in EPS-bestanden hebben Office 2016, Office 2013, Office 2010 en Office 365 de mogelijkheid uitgeschakeld om EPS-bestanden in Office-documenten in te voegen.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -123,6 +118,7 @@ Bestanden met de extensie EPS beschrijven in wezen een Encapsulated PostScript-t
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/viewer/apng" name="APNG" description="Geanimeerde draagbare netwerkgraphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/viewer/bmp" name="BMP" description="Bitmapafbeelding" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/viewer/ico" name="ICO" description="Windows-pictogram" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/viewer/jpg" name="JPG" description="Joint Photographic Experts Group" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/viewer/jpeg" name="JPEG" description="Joint Photographic Experts Group" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/viewer/dib" name="DIB" description="Apparaatonafhankelijke bitmap" >}}

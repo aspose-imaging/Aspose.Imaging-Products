@@ -18,10 +18,7 @@ description: Exemple de code pour la conversion Java DJVU vers APNG. Utilisez un
 {{% blocks/products/pf/agp/content h2="Comment convertir DJVU en APNG en utilisant Java" %}}
 
 Afin de convertir DJVU en APNG, nous utiliserons
-[Aspose.Imaging pour Java](https://products.aspose.com/imaging/java)
-API qui est une API de manipulation et de conversion d'images riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme Java. Vous pouvez télécharger sa dernière version directement depuis
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au fichier pom.xml.
+[Aspose.Imaging pour Java](https://products.aspose.com/imaging/java) API qui est une API de manipulation et de conversion d'images riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme Java. Vous pouvez télécharger sa dernière version directement depuis [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au fichier pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -102,11 +99,11 @@ Avant d'exécuter l'exemple de code de conversion, assurez-vous que vous dispose
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
 DjVu, prononcé comme "déjà vu", est un format de fichier graphique destiné aux documents numérisés et aux livres, en particulier ceux qui contiennent la combinaison de texte, dessins, images et photographies. Il a été développé par AT&T Labs. Il utilise plusieurs techniques telles que la séparation des couches d'image du texte et des images d'arrière-plan, le chargement progressif, le codage arithmétique et la compression avec perte pour les images bitonales. Étant donné que le fichier DJVU peut contenir des images, des photographies, du texte et des dessins en couleur compressés mais de haute qualité et peut donc être enregistré dans moins d'espace, il est utilisé sur le Web sous forme de livres électroniques, de manuels, de journaux, de documents anciens, etc.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
 Un fichier avec l'extension .apng (Animated Portable Network Graphics) est un format graphique raster et est une extension non officielle du Portable Network Graphic (PNG). Il comprend plusieurs cadres (chacun d'une image PNG) qui représente une séquence d'animation. Cela donne une visualisation similaire à un fichier GIF. Les fichiers APNG prennent en charge les images 24 bits et la transparence 8 bits. APNG est rétrocompatible avec les fichiers GIF non animés. Les fichiers APNG utilisent la même extension .png et peuvent être ouverts par des applications telles que Mozilla Firefox, Chrome avec prise en charge APNG, les applications iMessage pour iOS 10.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -140,6 +137,7 @@ Un fichier avec l'extension .apng (Animated Portable Network Graphics) est un fo
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/conversion/djvu-to-tga" name="TGA" description="Graphique Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/conversion/djvu-to-svgz" name="SVGZ" description="Version compressée du fichier Scalable Vector Graphics (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/conversion/djvu-to-canvas" name="CANVAS" description="Canevas HTML5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/conversion/djvu-to-ico" name="ICO" description="Icône Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -16,13 +16,7 @@ description: Wypróbuj nasze lokalne interfejsy API dokumentów, aby usunąć t�
 
 {{% blocks/products/pf/agp/content h2="Jak usunąć tło w plikach APNG za pomocą C#" %}}
 
-Aby usunąć tło w plikach APNG, użyjemy
-[Aspose.Imaging dla .NET](https://products.aspose.com/imaging/net)
- API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do obróbki i konwersji obrazów dla platformy C#. otwarty
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- menedżer pakietów, szukaj
- **Aspose.Obrazowanie**
- i zainstaluj. Możesz również użyć następującego polecenia z konsoli Menedżera pakietów.
+Aby usunąć tło w plikach APNG, użyjemy [Aspose.Imaging dla .NET](https://products.aspose.com/imaging/net) API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do obróbki i konwersji obrazów dla platformy C#. Otwarty [NuGet](https://www.nuget.org/packages/aspose.imaging) menedżer pakietów, szukaj **Aspose.Obrazowanie** i zainstaluj. Możesz również użyć następującego polecenia z konsoli Menedżera pakietów.
 
 {{% blocks/products/pf/agp/code-block title="Polecenie konsoli menedżera pakietów" offSpacer="true" %}}
 
@@ -44,9 +38,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-Potrzebujesz
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- aby wypróbować następujący przepływ pracy we własnym środowisku.
+Potrzebujesz [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) aby wypróbować następujący przepływ pracy we własnym środowisku.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -72,7 +64,7 @@ Aspose.Imaging dla .NET jest obsługiwane we wszystkich głównych systemach ope
 
 {{% blocks/products/pf/agp/code-block title="Usuń tło z obrazów w formacie APNG – .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "07bd18a1af2633c99a708341d84b5ad2" "remove-change-background-generic-examples.cs" >}}
+{{< gist "aspose-com-gists" "c28d7d7f7dff39444751b5724d5ba14a" "remove-change-background-generic-examples.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -99,7 +91,7 @@ Aspose.Imaging API to rozwiązanie do przetwarzania obrazów do tworzenia, modyf
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Po prostu prześlij swoje pliki APNG i naciśnij przycisk „Usuń tło teraz”" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Natychmiast uzyskaj link do pobrania pliku wynikowego" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej" >}}
 Plik z rozszerzeniem .apng (Animated Portable Network Graphics) jest rastrowym formatem graficznym i jest nieoficjalnym rozszerzeniem Portable Network Graphics (PNG ). Składa się z wielu ramek (każda z obrazu PNG), które reprezentują sekwencję animacji. Daje to podobną wizualizację jak plik GIF. Pliki APNG obsługują obrazy 24-bitowe i przezroczystość 8-bitową. APNG jest wstecznie kompatybilny z nieanimowanymi plikami GIF. Pliki APNG używają tego samego rozszerzenia .png i mogą być otwierane przez aplikacje takie jak Mozilla Firefox, Chrome z obsługą APNG, aplikacje iMessage na iOS 10.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -110,6 +102,7 @@ Plik z rozszerzeniem .apng (Animated Portable Network Graphics) jest rastrowym f
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane Usuń formaty tła" subTitle="Za pomocą C# można łatwo usunąć tło z różnych formatów, w tym." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/remove-background/bmp" name="BMP" description="Obraz bitmapowy" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/remove-background/ico" name="ICO" description="Ikona Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/remove-background/jpg" name="JPG" description="Wspólna Grupa Ekspertów Fotograficznych" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/remove-background/dib" name="DIB" description="Mapa bitowa niezależna od urządzenia" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/remove-background/dicom" name="DICOM" description="Obrazowanie cyfrowe i komunikacja" >}}

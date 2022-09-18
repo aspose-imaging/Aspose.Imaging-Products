@@ -16,13 +16,7 @@ description: オンプレミスドキュメントAPIを試して、.NET Framewor
 
 {{% blocks/products/pf/agp/content h2="C#を使用してDJVUファイルをマージする方法" %}}
 
-DJVUファイルをマージするために、
-[Aspose.Imaging for .NET]（https://products.aspose.com/imaging/net）
- 機能が豊富で強力で使いやすいC＃プラットフォーム用の画像操作および変換APIであるAPI。開ける
- [NuGet]（https://www.nuget.org/packages/aspose.imaging）
- パッケージマネージャー、検索
- ** Aspose.Imaging **
- とインストールします。パッケージマネージャーコンソールから次のコマンドを使用することもできます。
+DJVUファイルをマージするために、 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) 機能が豊富で強力で使いやすいC＃プラットフォーム用の画像操作および変換APIであるAPI。開ける [NuGet](https://www.nuget.org/packages/aspose.imaging) パッケージマネージャー、検索 ** Aspose.Imaging ** とインストールします。パッケージマネージャーコンソールから次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title ="パッケージマネージャーコンソールコマンド" offSpacer = "true"%}}
 
@@ -42,9 +36,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-あなたは
- [aspose.imaging.dll]（https://downloads.aspose.com/imaging/net）
- 自分の環境で次のワークフローを試してください。
+あなたは [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) 自分の環境で次のワークフローを試してください。
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -97,7 +89,7 @@ Aspose.Imaging APIは、アプリケーション内で画像（写真）を作�
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="DJVUファイルをアップロードして[今すぐマージ]ボタンをクリックするだけです" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="結果のファイルのダウンロードリンクを即座に取得します" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む" >}}
 「déjàvu」と発音されるDjVuは、スキャンされたドキュメントや書籍、特にテキスト、図面、画像、写真の組み合わせを含むものを対象としたグラフィックファイル形式です。 AT＆T研究所によって開発されました。テキストと背景画像の画像レイヤー分離、プログレッシブローディング、算術符号化、非可逆圧縮などの複数の手法を使用します。 DJVUファイルには、圧縮された高品質のカラー画像、写真、テキスト、および図面を含めることができ、より少ないスペースで保存できるため、電子書籍、マニュアル、新聞、古代の文書などとしてWebで使用されます。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -109,6 +101,7 @@ Aspose.Imaging APIは、アプリケーション内で画像（写真）を作�
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/merge/apng" name="APNG" description="アニメーション化されたポータブルネットワークグラフィックス" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/merge/bmp" name="BMP" description="ビットマップ画像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/merge/ico" name="ICO" description="Windows アイコン" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/merge/jpg" name="JPG" description="共同写真専門家グループ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/merge/cdr" name="CDR" description="ベクトル描画画像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/merge/cmx" name="CMX" description="CorelExchangeイメージ" >}}

@@ -16,13 +16,7 @@ description: .NET Framework, .NET Core, Windows 애플리케이션, ASP.NET 웹 
 
 {{% blocks/products/pf/agp/content h2="C#을 사용하여 JP2 파일을 디더링하는 방법" %}}
 
-JP2 파일을 디더링하려면 다음을 사용합니다.
-[.NET용 Aspose.Imaging](https://products.aspose.com/imaging/net)
- 기능이 풍부하고 강력하며 사용하기 쉬운 C# 플랫폼용 이미지 조작 및 변환 API인 API입니다. 열려있는
- [누겟](https://www.nuget.org/packages/aspose.imaging)
- 패키지 관리자, 검색
- **아포즈.이미징**
- 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
+JP2 파일을 디더링하려면 다음을 사용합니다. [.NET용 Aspose.Imaging](https://products.aspose.com/imaging/net) 기능이 풍부하고 강력하며 사용하기 쉬운 C# 플랫폼용 이미지 조작 및 변환 API인 API입니다. 열려있는 [누겟](https://www.nuget.org/packages/aspose.imaging) 패키지 관리자, 검색 **아포즈.이미징** 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
 
 {{% blocks/products/pf/agp/code-block title="패키지 관리자 콘솔 명령" offSpacer="true" %}}
 
@@ -44,9 +38,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-당신은 필요합니다
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- 자신의 환경에서 다음 워크플로를 시도합니다.
+당신은 필요합니다 [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) 자신의 환경에서 다음 워크플로를 시도합니다.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -99,7 +91,7 @@ Aspose.Imaging API는 애플리케이션 내에서 이미지(사진)를 생성, 
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="JP2 파일을 업로드하고 \"지금 디더링\" 버튼을 누르세요." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="결과 파일에 대한 다운로드 링크를 즉시 가져옵니다." >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기" >}}
 JPEG 2000(JP2)은 이미지 코딩 시스템이자 최첨단 이미지 압축 표준입니다. 웨이블릿 기술을 사용하여 설계된 JPEG 2000은 한 번에 모든 품질의 무손실 콘텐츠를 코딩할 수 있습니다. 게다가 JPEG 2000은 코딩 효율성에 있어 실질적인 불이익 없이 동일한 콘텐츠에 액세스하고 다양한 다른 해상도와 품질로 효과적으로 디코딩할 수 있는 기능을 가지고 있습니다. JPEG 2000의 코드 스트림은 공간 랜덤 액세스를 위한 기능을 제공하는 관심 영역을 갖도록 확장할 수 있습니다. 최대 16384개의 다양한 구성 요소를 테라픽셀 단위의 치수와 38비트/샘플의 정밀도까지 보유합니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -111,6 +103,7 @@ JPEG 2000(JP2)은 이미지 코딩 시스템이자 최첨단 이미지 압축 �
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/dither/apng" name="APNG" description="애니메이션 휴대용 네트워크 그래픽" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/dither/bmp" name="BMP" description="비트맵 그림" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/dither/ico" name="ICO" description="윈도우 아이콘" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/dither/jpg" name="JPG" description="공동 사진 전문가 그룹" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/dither/jpeg" name="JPEG" description="공동 사진 전문가 그룹" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/dither/dib" name="DIB" description="장치 독립 비트맵" >}}

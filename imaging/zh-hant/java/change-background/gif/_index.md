@@ -16,11 +16,7 @@ description: 嘗試使用我們的本地文檔 API 更改 Java 應用程序上 G
 
 {{% blocks/products/pf/agp/content h2="如何使用 Java 更改 GIF 文件中的背景" %}}
 
-為了改變 GIF 文件的背景，我們將使用
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java)
-API 是一個功能豐富、功能強大且易於使用的 Java 平台圖像處理和轉換 API。您可以直接從
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-並通過將以下配置添加到 pom.xml 將其安裝在基於 Maven 的項目中。
+為了改變 GIF 文件的背景，我們將使用 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一個功能豐富、功能強大 易於使用的 Java 平台圖像處理和轉換 API。您可以直接從 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 並通過將以下配置添加到 pom.xml 將其安裝在基於 Maven 的項目中。
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -55,9 +51,7 @@ API 是一個功能豐富、功能強大且易於使用的 Java 平台圖像處�
 
 {{% blocks/products/pf/agp/text %}}
 
-你需要
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java)
- 在您自己的環境中嘗試以下工作流程。
+你需要 [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) 在您自己的環境中嘗試以下工作流程。
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,8 +102,8 @@ Aspose.Imaging API 是一種圖像處理解決方案，用於在應用程序中�
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="只需上傳您的 GIF 文件並點擊“立即更改背景”按鈕" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="立即獲取生成文件的下載鏈接" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多" >}}
-A GIF or Graphical Interchange Format is a type of highly compressed image. Owned by Unisys, GIF uses the LZW compression algorithm that does not degrade the image quality. For each image GIF typically allow up to 8 bits per pixel and up to 256 colours are allowed across the image. In contrast to a JPEG image, which can display up to 16 million colours and fairly touches the limits of the human eye. Back when the internet emerged, GIFs remained the best choice because they required low bandwidth and compatible for the graphics that consume solid areas of colour. An animated GIF combines numerous images or frames into a single file and displays them in a sequence to generate an animated clip or a short video. The colour limitations are up to 256 for each frame and are likely to be the least suitable for reproducing other images and photographs with colour gradient.
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多" >}}
+GIF 或圖形交換格式是一種高度壓縮的圖像。 GIF 由 Unisys 擁有，使用不會降低圖像質量的 LZW 壓縮算法。對於每個圖像，GIF 通常允許每個像素最多 8 位，並且整個圖像最多允許 256 種顏色。與 JPEG 圖像相比，JPEG 圖像可以顯示多達 1600 萬種顏色，並且相當接近人眼的極限。早在互聯網出現時，GIF 仍然是最佳選擇，因為它們需要低帶寬並且與消耗純色區域的圖形兼容。動畫 GIF 將大量圖像或幀組合到一個文件中，並按順序顯示它們以生成動畫剪輯或短視頻。每幀的顏色限制最多為 256 種，並且可能最不適合再現具有顏色漸變的其他圖像和照片。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
     {{< /blocks/products/pf/agp/about-file-section >}}
@@ -118,29 +112,30 @@ A GIF or Graphical Interchange Format is a type of highly compressed image. Owne
 
 {{< blocks/products/pf/agp/other-supported-section title="其他支持的更改背景格式" subTitle="使用 Java，可以輕鬆更改不同格式的背景，包括。" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/change-background/apng" name="APNG" description="Animated Portable Network Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/change-background/bmp" name="BMP" description="Bitmap Picture" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/change-background/jpg" name="JPG" description="Joint Photographic Experts Group" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/change-background/dib" name="DIB" description="Device Independent Bitmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/change-background/dicom" name="DICOM" description="Digital Imaging & Communications" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/change-background/djvu" name="DJVU" description="Graphics Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/change-background/dng" name="DNG" description="Digital Camera Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/change-background/emf" name="EMF" description="Enhanced Metafile Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/change-background/emz" name="EMZ" description="Windows Compressed Enhanced Metafile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/change-background/apng" name="APNG" description="動畫便攜式網絡圖形" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/change-background/bmp" name="BMP" description="位圖圖片" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/change-background/ico" name="ICO" description="窗口圖標" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/change-background/jpg" name="JPG" description="聯合攝影專家組" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/change-background/dib" name="DIB" description="設備無關位圖" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/change-background/dicom" name="DICOM" description="數碼影像與通訊" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/change-background/djvu" name="DJVU" description="圖形格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/change-background/dng" name="DNG" description="數碼相機圖像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/change-background/emf" name="EMF" description="增強的元文件格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/change-background/emz" name="EMZ" description="Windows 壓縮增強元文件" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/change-background/jp2" name="JP2" description="JPEG 2000" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/change-background/j2k" name="J2K" description="Wavelet Compressed Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/change-background/png" name="PNG" description="Portable Network Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/change-background/tiff" name="TIFF" description="Tagged Image Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/change-background/webp" name="WEBP" description="Raster Web Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/change-background/wmf" name="WMF" description="Microsoft Windows Metafile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/change-background/wmz" name="WMZ" description="Compressed Windows Media Player Skin" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/change-background/tga" name="TGA" description="Targa Graphic" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/change-background/svg" name="SVG" description="Scalable Vector Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/change-background/eps" name="EPS" description="Encapsulated PostScript Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/change-background/cdr" name="CDR" description="Vector Drawing Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/change-background/cmx" name="CMX" description="Corel Exchange Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/change-background/otg" name="OTG" description="OpenDocument Standard" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/change-background/odg" name="ODG" description="Apache OpenOffice Draw Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/change-background/j2k" name="J2K" description="小波壓縮圖像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/change-background/png" name="PNG" description="便攜式網絡圖形" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/change-background/tiff" name="TIFF" description="標記圖像格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/change-background/webp" name="WEBP" description="光柵網絡圖像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/change-background/wmf" name="WMF" description="微軟視窗元文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/change-background/wmz" name="WMZ" description="壓縮的 Windows Media Player 皮膚" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/change-background/tga" name="TGA" description="塔加圖形" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/change-background/svg" name="SVG" description="可縮放矢量圖形" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/change-background/eps" name="EPS" description="封裝的 PostScript 語言" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/change-background/cdr" name="CDR" description="矢量繪圖圖像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/change-background/cmx" name="CMX" description="Corel 交換圖像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/change-background/otg" name="OTG" description="開放文檔標準" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/change-background/odg" name="ODG" description="Apache OpenOffice 繪圖格式" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

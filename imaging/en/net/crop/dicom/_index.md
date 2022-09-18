@@ -16,13 +16,8 @@ description: Try our On-Premise document APIs to cropDICOM files on .NET Framewo
 
 {{% blocks/products/pf/agp/content h2="How to Crop DICOM Files Using C#" %}}
 
-In order to crop DICOM files, we’ll use
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) 
- API which is a feature-rich, powerful and easy to use image manipulation and conversion API for C# platform. Open
- [NuGet](https://www.nuget.org/packages/aspose.imaging) 
- package manager, search for
- **Aspose.Imaging** 
- and install. You may also use the following command from the Package Manager Console.
+In order to crop DICOM files, we’ll use [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API which is a feature-rich, powerful and easy to use image manipulation and conversion API for C# platform. Open [NuGet](https://www.nuget.org/packages/aspose.imaging) package manager, search for
+ **Aspose.Imaging** and install. You may also use the following command from the Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
@@ -42,9 +37,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-You need the
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) 
- to try the following workflow in your own environment.
+You need the [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) to try the following workflow in your own environment.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -97,7 +90,7 @@ Aspose.Imaging API is an image processing solution to create, modify, draw or co
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your DICOM files and hit \"Crop now\" button" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Instantly get the download link for the resultant file" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom" whatIsFormat1="What is" whatIsFormat2="File Format" readMoreFormat="Read More" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="What is" whatIsFormat2="File Format" readMoreFormat="Read More" >}}
 DICOM is the acronym for Digital Imaging and Communications in Medicine and pertains to the field of Medical Informatics. DICOM is the combination of file format definition and a network communications protocol. DICOM uses the .DCM extension. .DCM exist in two different formats i.e. format 1.x and format 2.x. DCM Format 1.x is further available in two versions normal and extended. DICOM is used for the integration of medical imaging devices like printers, servers, scanners etc from various vendors and also contains identification data of each patient for uniqueness. DICOM files can be shared between two parties if they are capable of receiving image data in DICOM format. The communication part of DICOM is application layer protocol and uses TCP/IP to communicate between entities. HTTP and HTTPS protocols are used for the web services of DICOM. Versions supported by web services are 1.0, 1.1, 2 or later.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -109,6 +102,7 @@ DICOM is the acronym for Digital Imaging and Communications in Medicine and pert
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/net/crop/apng" name="APNG" description="Animated Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/net/crop/bmp" name="BMP" description="Bitmap Picture" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/net/crop/ico" name="ICO" description="Windows icon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/net/crop/jpg" name="JPG" description="Joint Photographic Experts Group" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/net/crop/dib" name="DIB" description="Device Independent Bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/net/crop/djvu" name="DJVU" description="Graphics Format" >}}

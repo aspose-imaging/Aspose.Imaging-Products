@@ -18,10 +18,7 @@ description: Codice di esempio per la conversione Java da J2K a DXF. Utilizzare 
 {{% blocks/products/pf/agp/content h2="Come convertire J2K in DXF utilizzando Java" %}}
 
 Per convertire J2K in DXF, useremo
-[Aspose.Imaging per Java](https://products.aspose.com/imaging/java)
-API che è un'API di conversione e manipolazione delle immagini ricca di funzionalità, potente e facile da usare per la piattaforma Java. Puoi scaricare la sua ultima versione direttamente da
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
+[Aspose.Imaging per Java](https://products.aspose.com/imaging/java) API che è un'API di conversione e manipolazione delle immagini ricca di funzionalità, potente e facile da usare per la piattaforma Java. Puoi scaricare la sua ultima versione direttamente da [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -102,7 +99,7 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
 Un file J2K è un'immagine che viene compressa utilizzando la compressione wavelet anziché la compressione DCT.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -139,6 +136,7 @@ DXF, Drawing Interchange Format, o Drawing Exchange Format, è una rappresentazi
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/conversion/j2k-to-tga" name="TGA" description="Grafica Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/conversion/j2k-to-svgz" name="SVGZ" description="Versione compressa del file Scalable Vector Graphics (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/conversion/j2k-to-canvas" name="CANVAS" description="Tela HTML5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/conversion/j2k-to-ico" name="ICO" description="Icona di Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

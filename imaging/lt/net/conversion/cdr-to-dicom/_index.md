@@ -18,12 +18,7 @@ description: C# konvertavimo iš CDR į DICOM pavyzdinis kodas. Naudokite API pa
 {{% blocks/products/pf/agp/content h2="Kaip konvertuoti CDR į DICOM naudojant C#" %}}
 
 Norėdami konvertuoti CDR į DICOM, naudosime
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta C# platformai. Atviras
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- paketų tvarkyklė, ieškokite
- **Aspose.Imaging**
- ir įdiegti. Taip pat galite naudoti šią komandą iš paketų tvarkyklės konsolės.
+[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta C# platformai. Atviras [NuGet](https://www.nuget.org/packages/aspose.imaging) paketų tvarkyklė, ieškokite **Aspose.Imaging** ir įdiegti. Taip pat galite naudoti šią komandą iš paketų tvarkyklės konsolės.
 
 {{% blocks/products/pf/agp/code-block title="Paketų tvarkytuvės konsolės komanda" offSpacer="true" %}}
 
@@ -91,11 +86,11 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
 CDR failas yra vektorinio piešimo vaizdo failas, sukurtas naudojant CorelDRAW, kad būtų saugomas užkoduotas ir suspaustas skaitmeninis vaizdas. Tokiame piešimo faile yra tekstas, linijos, formos, vaizdai, spalvos ir efektai, skirti vaizdo turinio vektoriniam atvaizdavimui. CDR failus galima atidaryti naudojant CorelDRAW kaip pagrindinę programą ir konvertuoti į kitus formatus, tokius kaip PDF, JPG, PNG, BMP ir AI. Jis gali būti naudojamas įvairiems grafiniams duomenims, pvz., brošiūroms, bulvariniams leidiniams, vokams ir atvirukams, vaizduoti. Be CorelDRAW, kiti Corel produktai, tokie kaip Corel Paintshop Pro ir CorelDRAW Graphics Suite, taip pat gali atidaryti CDR failų formatus.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
 DICOM yra skaitmeninio vaizdo gavimo ir ryšių medicinos akronimas ir yra susijęs su medicinos informatikos sritimi. DICOM yra failo formato apibrėžimo ir tinklo ryšio protokolo derinys. DICOM naudoja .DCM plėtinį. .DCM yra dviem skirtingais formatais, ty 1.x formatu ir 2.x formatu. DCM formatas 1.x taip pat galimas dviem versijomis: normalia ir išplėstine. DICOM naudojamas įvairių tiekėjų medicininiams vaizdo gavimo įrenginiams, pvz., spausdintuvams, serveriams, skaitytuvams ir tt, integruoti. Be to, jame yra kiekvieno paciento identifikavimo duomenys, siekiant unikalumo. DICOM failus galima dalytis tarp dviejų šalių, jei jos gali priimti vaizdo duomenis DICOM formatu. DICOM komunikacijos dalis yra taikomojo lygmens protokolas ir naudoja TCP/IP ryšį tarp objektų. DICOM žiniatinklio paslaugoms naudojami HTTP ir HTTPS protokolai. Žiniatinklio paslaugų palaikomos versijos yra 1.0, 1.1, 2 arba naujesnės.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -129,6 +124,7 @@ DICOM yra skaitmeninio vaizdo gavimo ir ryšių medicinos akronimas ir yra susij
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/conversion/cdr-to-tga" name="TGA" description="Targa grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/conversion/cdr-to-svgz" name="SVGZ" description="Suglaudinta Scalable Vector Graphics (.SVG) failo versija." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/conversion/cdr-to-canvas" name="CANVAS" description="HTML5 drobė" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/conversion/cdr-to-ico" name="ICO" description="Windows piktograma" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

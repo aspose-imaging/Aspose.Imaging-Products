@@ -18,10 +18,7 @@ description: Przykładowy kod konwersji CMX na JPEG Java. Użyj przykładowego k
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować CMX na JPEG za pomocą Java" %}}
 
 Aby przekonwertować CMX na JPEG, użyjemy
-[Aspose.Imaging dla Javy](https://products.aspose.com/imaging/java)
-API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do obróbki i konwersji obrazów dla platformy Java. Możesz pobrać jego najnowszą wersję bezpośrednio z
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-i zainstaluj go w swoim projekcie opartym na Maven, dodając następujące konfiguracje do pom.xml.
+[Aspose.Imaging dla Javy](https://products.aspose.com/imaging/java) API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do obróbki i konwersji obrazów dla platformy Java. Możesz pobrać jego najnowszą wersję bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) i zainstaluj go w swoim projekcie opartym na Maven, dodając następujące konfiguracje do pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repozytorium" offSpacer="true" %}}
 
@@ -102,11 +99,11 @@ Przed uruchomieniem przykładowego kodu konwersji upewnij się, że masz następ
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
 Pliki z rozszerzeniem CMX to format pliku obrazu Corel Exchange, który jest używany jako prezentacja przez aplikacje CorelSuite. Zawiera dane obrazu w postaci grafiki wektorowej oraz metadane opisujące obraz. Pliki CMX można otwierać w programach CorelDraw, Corel Presentations, Paint Shop Pro i niektórych wersjach programu Adobe Illustrator.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
 JPEG to rodzaj formatu obrazu, który jest zapisywany przy użyciu metody kompresji stratnej. Obraz wyjściowy w wyniku kompresji jest kompromisem między rozmiarem pamięci a jakością obrazu. Użytkownicy mogą dostosować poziom kompresji, aby osiągnąć pożądany poziom jakości, jednocześnie zmniejszając rozmiar pamięci. Jakość obrazu ulega nieznacznemu pogorszeniu, jeśli do obrazu zostanie zastosowana kompresja 10:1. Im wyższa wartość kompresji, tym większa degradacja jakości obrazu.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -140,6 +137,7 @@ JPEG to rodzaj formatu obrazu, który jest zapisywany przy użyciu metody kompre
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/conversion/cmx-to-tga" name="TGA" description="Targa grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/conversion/cmx-to-svgz" name="SVGZ" description="Skompresowana wersja pliku Scalable Vector Graphics (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/conversion/cmx-to-canvas" name="CANVAS" description="Płótno HTML5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/conversion/cmx-to-ico" name="ICO" description="Ikona Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

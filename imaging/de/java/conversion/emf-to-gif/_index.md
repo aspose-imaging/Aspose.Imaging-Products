@@ -18,10 +18,7 @@ description: Beispielcode für die Java-Konvertierung von EMF in GIF. Verwenden 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie EMF in GIF mit Java" %}}
 
 Um EMF in GIF zu konvertieren, verwenden wir
-[Aspose.Imaging für Java](https://products.aspose.com/imaging/java)
-API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Bildbearbeitungs- und Konvertierungs-API für die Java-Plattform ist. Sie können die neueste Version direkt von herunterladen
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
+[Aspose.Imaging für Java](https://products.aspose.com/imaging/java) API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Bildbearbeitungs- und Konvertierungs-API für die Java Plattform ist. Sie können die neueste Version direkt von herunterladen [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -102,11 +99,11 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
 Enhanced Metafile Format (EMF) speichert grafische Bilder geräteunabhängig. Metadateien von EMF bestehen aus Datensätzen variabler Länge in chronologischer Reihenfolge, die das gespeicherte Bild nach dem Analysieren auf jedem Ausgabegerät wiedergeben können. Diese Datensätze mit variabler Länge können Definitionen eingeschlossener Objekte, Zeichenbefehle und Grafikeigenschaften sein, die für die genaue Wiedergabe des Bildes entscheidend sind. Wenn ein Gerät eine EMF-Metadatei mit seiner eigenen Grafikumgebung öffnet, bleiben die Proportionen, Abmessungen, Farben und andere Grafikeigenschaften des Originalbilds gleich, unabhängig von der Plattform des öffnenden Geräts.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
 Ein GIF oder Graphical Interchange Format ist eine Art stark komprimiertes Bild. GIF gehört Unisys und verwendet den LZW-Komprimierungsalgorithmus, der die Bildqualität nicht beeinträchtigt. Für jedes Bild sind in GIF normalerweise bis zu 8 Bit pro Pixel und bis zu 256 Farben im gesamten Bild zulässig. Im Gegensatz zu einem JPEG-Bild, das bis zu 16 Millionen Farben darstellen kann und ziemlich an die Grenzen des menschlichen Auges stößt. Als das Internet aufkam, blieben GIFs die beste Wahl, da sie eine geringe Bandbreite erforderten und für die Grafiken kompatibel waren, die Volltonbereiche verbrauchen. Ein animiertes GIF kombiniert zahlreiche Bilder oder Frames in einer einzigen Datei und zeigt sie in einer Sequenz an, um einen animierten Clip oder ein kurzes Video zu erstellen. Die Farbbeschränkungen betragen bis zu 256 für jedes Bild und sind wahrscheinlich am wenigsten geeignet, um andere Bilder und Fotos mit Farbverlauf zu reproduzieren.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -139,6 +136,7 @@ Ein GIF oder Graphical Interchange Format ist eine Art stark komprimiertes Bild.
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/conversion/emf-to-tga" name="TGA" description="Targa-Grafik" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/conversion/emf-to-svgz" name="SVGZ" description="Komprimierte Version der Datei Scalable Vector Graphics (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/conversion/emf-to-canvas" name="CANVAS" description="HTML5-Leinwand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/conversion/emf-to-ico" name="ICO" description="Windows-Symbol" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

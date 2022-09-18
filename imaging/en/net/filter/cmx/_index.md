@@ -16,13 +16,8 @@ description: Try our On-Premise document APIs to Filter CMX files on .NET Framew
 
 {{% blocks/products/pf/agp/content h2="How to Filter CMX Files Using C#" %}}
 
-In order to filter CMX files, we’ll use
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) 
- API which is a feature-rich, powerful and easy to use image manipulation and conversion API for C# platform. Open
- [NuGet](https://www.nuget.org/packages/aspose.imaging) 
- package manager, search for
- **Aspose.Imaging** 
- and install. You may also use the following command from the Package Manager Console.
+In order to filter CMX files, we’ll use [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API which is a feature-rich, powerful and easy to use image manipulation and conversion API for C# platform. Open [NuGet](https://www.nuget.org/packages/aspose.imaging) package manager, search for
+ **Aspose.Imaging** and install. You may also use the following command from the Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
@@ -42,9 +37,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-You need the
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) 
- to try the following workflow in your own environment.
+You need the [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) to try the following workflow in your own environment.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -97,7 +90,7 @@ Aspose.Imaging API is an image processing solution to create, modify, draw or co
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your CMX files and hit \"Filter now\" button" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Instantly get the download link for the resultant file" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx" whatIsFormat1="What is" whatIsFormat2="File Format" readMoreFormat="Read More" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="What is" whatIsFormat2="File Format" readMoreFormat="Read More" >}}
 Files with CMX extension are Corel Exchange image file format that is used as presentation by CorelSuite applications. It contains image data as vector graphics as well as metadata that describes the image. CMX files can be opened by CorelDraw, Corel Presentations, Paint Shop Pro and some versions of Adobe Illustrator.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -109,6 +102,7 @@ Files with CMX extension are Corel Exchange image file format that is used as pr
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/net/filter/apng" name="APNG" description="Animated Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/net/filter/bmp" name="BMP" description="Bitmap Picture" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/net/filter/ico" name="ICO" description="Windows icon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/net/filter/jpg" name="JPG" description="Joint Photographic Experts Group" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/net/filter/jpeg" name="JPEG" description="Joint Photographic Experts Group" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/net/filter/dib" name="DIB" description="Device Independent Bitmap" >}}

@@ -16,13 +16,7 @@ description: Essayez nos API de document sur site pour modifier l'arrière-plan 
 
 {{% blocks/products/pf/agp/content h2="Comment changer l'arrière-plan dans les fichiers BMP à l'aide de C#" %}}
 
-Afin de changer l'arrière-plan dans les fichiers BMP, nous utiliserons
-[Aspose.Imaging pour .NET](https://products.aspose.com/imaging/net)
- API qui est une API de manipulation et de conversion d'images riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme C #. Ouvrir
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- gestionnaire de paquets, recherchez
- **Aspose.Imaging**
- et installer. Vous pouvez également utiliser la commande suivante à partir de la console du gestionnaire de packages.
+Afin de changer l'arrière-plan dans les fichiers BMP, nous utiliserons [Aspose.Imaging pour .NET](https://products.aspose.com/imaging/net) API qui est une API de manipulation et de conversion d'images riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme C #. Ouvrir [NuGet](https://www.nuget.org/packages/aspose.imaging) gestionnaire de paquets, recherchez **Aspose.Imaging** et installer. Vous pouvez également utiliser la commande suivante à partir de la console du gestionnaire de packages.
 
 {{% blocks/products/pf/agp/code-block title="Commande de la console du gestionnaire de packages" offSpacer="true" %}}
 
@@ -44,9 +38,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-Vous avez besoin du
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- pour essayer le workflow suivant dans votre propre environnement.
+Vous avez besoin du [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) pour essayer le workflow suivant dans votre propre environnement.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -99,7 +91,7 @@ Aspose.Imaging API est une solution de traitement d'images pour créer, modifier
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Téléchargez simplement vos fichiers BMP et cliquez sur le bouton \"Modifier l'arrière-plan maintenant\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Obtenez instantanément le lien de téléchargement du fichier résultant" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite" >}}
 Les fichiers ayant l'extension .BMP représentent des fichiers d'image bitmap utilisés pour stocker des images numériques bitmap. Ces images sont indépendantes de la carte graphique et sont également appelées format de fichier bitmap indépendant du périphérique (DIB). Cette indépendance sert à ouvrir le fichier sur plusieurs plates-formes telles que Microsoft Windows et Mac. Le format de fichier BMP peut stocker des données sous forme d'images numériques bidimensionnelles au format monochrome et couleur avec différentes profondeurs de couleur.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -110,6 +102,7 @@ Les fichiers ayant l'extension .BMP représentent des fichiers d'image bitmap ut
 {{< blocks/products/pf/agp/other-supported-section title="Autres formats d'arrière-plan de modification pris en charge" subTitle="En utilisant C#, on peut facilement changer l'arrière-plan dans différents formats, y compris." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/net/change-background/apng" name="APNG" description="Graphiques de réseau portables animés" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/net/change-background/ico" name="ICO" description="Icône Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/net/change-background/jpg" name="JPG" description="Groupe mixte d'experts photographiques" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/net/change-background/dib" name="DIB" description="Bitmap indépendant du périphérique" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/net/change-background/dicom" name="DICOM" description="Imagerie numérique et communications" >}}

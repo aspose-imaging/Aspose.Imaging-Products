@@ -18,12 +18,7 @@ description: SVGからWMFへのC＃変換のサンプルコード。 VB.NET、As
 {{% blocks/products/pf/agp/content h2="C#を使用してSVGをWMFに変換する方法" %}}
 
 SVGをWMFに変換するには、
-[Aspose.Imaging for .NET]（https://products.aspose.com/imaging/net）
- 機能が豊富で強力で使いやすいC＃プラットフォーム用の画像操作および変換APIであるAPI。開ける
- [NuGet]（https://www.nuget.org/packages/aspose.imaging）
- パッケージマネージャー、検索
- ** Aspose.Imaging **
- とインストールします。パッケージマネージャーコンソールから次のコマンドを使用することもできます。
+[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) 機能が豊富で強力で使いやすいC＃プラットフォーム用の画像操作および変換APIであるAPI。開ける [NuGet](https://www.nuget.org/packages/aspose.imaging) パッケージマネージャー、検索 ** Aspose.Imaging ** とインストールします。パッケージマネージャーコンソールから次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title ="パッケージマネージャーコンソールコマンド" offSpacer = "true"%}}
 
@@ -91,11 +86,11 @@ PM> Install-Package Aspose.Imaging
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
 SVGファイルは、画像の外観を記述するためにXMLベースのテキスト形式を使用するScalable VectorGraphicsファイルです。スケーラブルという言葉は、SVGが品質を損なうことなくさまざまなサイズにスケーリングできるという事実を指します。このようなファイルのテキストベースの説明により、解像度に依存しなくなります。これは、スケーラビリティを実現するためにWebサイトや印刷グラフィックを構築するために最もよく使用される形式の1つです。ただし、この形式は2次元グラフィックスにのみ使用できます。 SVGファイルは、Chrome、Internet Explorer、Firefox、Safariを含むほとんどすべての最新のブラウザーで表示/開くことができます。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
 WMF拡張子の付いたファイルは、ベクターおよびビットマップ形式の画像データを格納するためのMicrosoft Windowsメタファイル（WMF）を表します。より正確に言うと、WMFは、デバイスに依存しないグラフィックファイル形式のベクターファイル形式カテゴリに属しています。 Windowsグラフィックデバイスインターフェイス（GDI）は、WMFファイルに格納されている関数を使用して、画面に画像を表示します。拡張メタファイル（EMF）として知られるWMFのより拡張されたバージョンは、フォーマットをより豊富な機能にするために後で公開されました。実際には、WMFはSVGに似ています。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -129,6 +124,7 @@ WMF拡張子の付いたファイルは、ベクターおよびビットマッ�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/conversion/svg-to-svgz" name="SVGZ" description="スケーラブルベクターグラフィックス（.SVG）ファイルの圧縮バージョン。" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/conversion/svg-to-canvas" name="CANVAS" description="HTML5キャンバス" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/conversion/svg-to-svg" name="SVG" description="スケーラブルベクターグラフィックス" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/conversion/svg-to-ico" name="ICO" description="Windows アイコン" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -18,10 +18,7 @@ description: Código de exemplo para conversão Java de J2K para BMP. Use o cód
 {{% blocks/products/pf/agp/content h2="Como converter J2K para BMP usando Java" %}}
 
 Para converter J2K em BMP, usaremos
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java)
-API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para plataforma Java. Você pode baixar sua versão mais recente diretamente de
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-e instale-o em seu projeto baseado em Maven adicionando as seguintes configurações ao pom.xml.
+[Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para plataforma Java. Você pode baixar sua versão mais recente diretamente de [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) e instale-o em seu projeto baseado em Maven adicionando as seguintes configurações ao pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -102,11 +99,11 @@ Antes de executar o código de exemplo de conversão, verifique se você tem os 
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação">}}
 Um arquivo J2K é uma imagem compactada usando a compactação wavelet em vez da compactação DCT.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação">}}
 Arquivos com extensão .BMP representam arquivos de imagem de bitmap que são usados ​​para armazenar imagens digitais de bitmap. Essas imagens são independentes do adaptador gráfico e também são chamadas de formato de arquivo de bitmap independente de dispositivo (DIB). Essa independência serve para abrir o arquivo em várias plataformas, como Microsoft Windows e Mac. O formato de arquivo BMP pode armazenar dados como imagens digitais bidimensionais em formato monocromático e colorido com várias profundidades de cor.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -139,6 +136,7 @@ Arquivos com extensão .BMP representam arquivos de imagem de bitmap que são us
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/conversion/j2k-to-tga" name="TGA" description="Gráfico Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/conversion/j2k-to-svgz" name="SVGZ" description="Versão compactada do arquivo Scalable Vector Graphics (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/conversion/j2k-to-canvas" name="CANVAS" description="Tela HTML5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/conversion/j2k-to-ico" name="ICO" description="ícone do Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

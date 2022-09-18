@@ -17,12 +17,8 @@ description: Testen Sie unsere On-Premise-Dokument-APIs zum Anzeigen von SVG-Dat
 {{% blocks/products/pf/agp/content h2="Anzeigen von SVG-Bildern mit C#" %}}
 
 Um SVG-Dateien anzuzeigen, verwenden wir
-[Aspose.Imaging für .NET](https://products.aspose.com/imaging/net)
- API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Bildbearbeitungs- und Konvertierungs-API für die C#-Plattform ist. Offen
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- Paketmanager, suche nach
- **Aspose.Imaging**
- und installieren. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden.
+[Aspose.Imaging für .NET](https://products.aspose.com/imaging/net) API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Bildbearbeitungs- und Konvertierungs-API für die C#-Plattform ist. Offen [NuGet](https://www.nuget.org/packages/aspose.imaging) Paketmanager, suche nach
+ **Aspose.Imaging** und installieren. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
@@ -42,9 +38,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-Du brauchst die
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- um den folgenden Workflow in Ihrer eigenen Umgebung auszuprobieren.
+Du brauchst die [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) um den folgenden Workflow in Ihrer eigenen Umgebung auszuprobieren.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -100,7 +94,7 @@ Aspose.Imaging API ist eine Bildverarbeitungslösung zum Erstellen, Ändern, Zei
         checkFreeAppLabel="Sehen Sie sich unsere [Live-Demos zum Anzeigen von SVG](https://products.aspose.app/imaging/de/image-view/SVG)">}}
 
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen" >}}
 SVG-Dateien sind skalierbare Vektorgrafiken, die ein XML-basiertes Textformat zur Beschreibung des Erscheinungsbilds von Bildern verwenden. Das Wort Skalierbar bezieht sich darauf, dass das SVG ohne Qualitätsverlust auf verschiedene Größen skaliert werden kann. Die textbasierte Beschreibung solcher Dateien macht sie auflösungsunabhängig. Es ist eines der am häufigsten verwendeten Formate zum Erstellen von Websites und Druckgrafiken, um Skalierbarkeit zu erreichen. Das Format kann allerdings nur für zweidimensionale Grafiken verwendet werden. SVG-Dateien können in fast allen modernen Browsern angezeigt/geöffnet werden, einschließlich Chrome, Internet Explorer, Firefox und Safari.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -112,6 +106,7 @@ SVG-Dateien sind skalierbare Vektorgrafiken, die ein XML-basiertes Textformat zu
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/viewer/apng" name="APNG" description="Animierte tragbare Netzwerkgrafiken" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/viewer/bmp" name="BMP" description="Bitmap-Bild" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/viewer/ico" name="ICO" description="Windows-Symbol" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/viewer/jpg" name="JPG" description="Gemeinsame fotografische Expertengruppe" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/viewer/jpeg" name="JPEG" description="Gemeinsame fotografische Expertengruppe" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/viewer/dib" name="DIB" description="Geräteunabhängige Bitmap" >}}

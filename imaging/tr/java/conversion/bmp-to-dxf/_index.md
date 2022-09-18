@@ -18,10 +18,7 @@ description: BMP - DXF Java dönüşümü için örnek kod. Herhangi bir Web vey
 {{% blocks/products/pf/agp/content h2="Java Kullanarak BMP'i DXF'ye Dönüştürme" %}}
 
 BMP'i DXF'ye dönüştürmek için kullanacağız
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java)
-Java platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. En son sürümünü doğrudan adresinden indirebilirsiniz.
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-ve pom.xml dosyasına aşağıdaki konfigürasyonları ekleyerek Maven tabanlı projenize kurun.
+[Aspose.Imaging for Java](https://products.aspose.com/imaging/java) Java platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. En son sürümünü doğrudan adresinden indirebilirsiniz. [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) ve pom.xml dosyasına aşağıdaki konfigürasyonları ekleyerek Maven tabanlı projenize kurun.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -102,7 +99,7 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
 .BMP uzantısına sahip dosyalar, bitmap dijital görüntüleri depolamak için kullanılan Bitmap Görüntü dosyalarını temsil eder. Bu görüntüler grafik bağdaştırıcısından bağımsızdır ve aygıttan bağımsız bit eşlem (DIB) dosya biçimi olarak da adlandırılır. Bu bağımsızlık, dosyayı Microsoft Windows ve Mac gibi birden çok platformda açma amacına hizmet eder. BMP dosya formatı, verileri hem monokrom hem de çeşitli renk derinliklerine sahip renkli formatta iki boyutlu dijital görüntüler olarak saklayabilir.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -139,6 +136,7 @@ DXF, Drawing Interchange Format veya Drawing Exchange Format, AutoCAD çizim dos
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/conversion/bmp-to-tga" name="TGA" description="Targa Grafiği" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/conversion/bmp-to-svgz" name="SVGZ" description="Ölçeklenebilir Vektör Grafikleri (.SVG) dosyasının sıkıştırılmış sürümü." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/conversion/bmp-to-canvas" name="CANVAS" description="HTML5 Tuval" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/conversion/bmp-to-ico" name="ICO" description="Windows simgesi" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

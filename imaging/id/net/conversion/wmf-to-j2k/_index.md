@@ -18,12 +18,7 @@ description: Contoh kode untuk WMF ke J2K C# konversi. Gunakan kode contoh API u
 {{% blocks/products/pf/agp/content h2="Cara Mengonversi WMF ke J2K Menggunakan C#" %}}
 
 Untuk mengonversi WMF ke J2K, kami akan menggunakan
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- API yang kaya fitur, kuat, dan mudah digunakan manipulasi gambar dan konversi API untuk platform C#. Membuka
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- manajer paket, cari
- **Aspose.Imaging**
- dan menginstal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
+[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API yang kaya fitur, kuat, dan mudah digunakan manipulasi gambar dan konversi API untuk platform C#. Membuka [NuGet](https://www.nuget.org/packages/aspose.imaging) manajer paket, cari **Aspose.Imaging** dan menginstal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Perintah Konsol Manajer Paket" offSpacer="true" %}}
 
@@ -91,11 +86,11 @@ Sebelum menjalankan kode contoh konversi, pastikan Anda memiliki prasyarat berik
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
 File dengan ekstensi WMF mewakili Microsoft Windows Metafile (WMF) untuk menyimpan data gambar vektor dan format bitmap. Agar lebih akurat, WMF termasuk dalam kategori format file vektor dari format file Grafik yang tidak bergantung pada perangkat. Windows Graphical Device Interface (GDI) menggunakan fungsi yang disimpan dalam file WMF untuk menampilkan gambar di layar. Versi WMF yang lebih disempurnakan, yang dikenal sebagai Enhanced Meta Files (EMF), diterbitkan kemudian yang membuat format lebih kaya fitur. Secara praktis, WMF mirip dengan SVG.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
 File J2K adalah gambar yang dikompres menggunakan kompresi wavelet, bukan kompresi DCT.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -128,6 +123,7 @@ File J2K adalah gambar yang dikompres menggunakan kompresi wavelet, bukan kompre
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/conversion/wmf-to-tga" name="TGA" description="Grafis Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/conversion/wmf-to-svgz" name="SVGZ" description="Versi terkompresi dari file Scalable Vector Graphics (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/conversion/wmf-to-canvas" name="CANVAS" description="Kanvas HTML5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/conversion/wmf-to-ico" name="ICO" description="ikon Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -16,11 +16,7 @@ description: Exemple de code de conversion Java pour le format GIF vers le fichi
 
 {{% blocks/products/pf/agp/content h2="Comment filigraner le fichier GIF à l'aide de Java" %}}
 
-Afin de filigraner le fichier GIF, nous utiliserons
-[Aspose.Imaging pour Java](https://products.aspose.com/imaging/java)
-API qui est une API de manipulation et de conversion d'images riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme Java. Vous pouvez télécharger sa dernière version directement depuis
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au fichier pom.xml.
+Afin de filigraner le fichier GIF, nous utiliserons [Aspose.Imaging pour Java](https://products.aspose.com/imaging/java) API qui est une API de manipulation et de conversion d'images riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme Java. Vous pouvez télécharger sa dernière version directement depuis [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au fichier pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -55,9 +51,7 @@ et installez-le dans votre projet basé sur Maven en ajoutant les configurations
 
 {{% blocks/products/pf/agp/text %}}
 
-Vous avez besoin du
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java)
- pour essayer le workflow suivant dans votre propre environnement.
+Vous avez besoin du [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) pour essayer le workflow suivant dans votre propre environnement.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -110,7 +104,7 @@ Aspose.Imaging API est une solution de traitement d'images pour créer, modifier
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Téléchargez simplement votre fichier GIF, définissez votre filigrane et appuyez sur le bouton \"Ajouter\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Obtenez instantanément le lien de téléchargement du fichier résultant" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite" >}}
 Un format GIF ou Graphical Interchange est un type d'image hautement compressée. Propriété d'Unisys, GIF utilise l'algorithme de compression LZW qui ne dégrade pas la qualité de l'image. Pour chaque image, le GIF autorise généralement jusqu'à 8 bits par pixel et jusqu'à 256 couleurs sont autorisées sur l'image. Contrairement à une image JPEG, qui peut afficher jusqu'à 16 millions de couleurs et touche assez les limites de l'œil humain. À l'époque de l'émergence d'Internet, les GIF restaient le meilleur choix car ils nécessitaient une faible bande passante et étaient compatibles avec les graphiques qui consommaient des zones de couleur unies. Un GIF animé combine de nombreuses images ou cadres dans un seul fichier et les affiche dans une séquence pour générer un clip animé ou une courte vidéo. Les limitations de couleur vont jusqu'à 256 pour chaque image et sont probablement les moins appropriées pour reproduire d'autres images et photographies avec un dégradé de couleurs.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -121,6 +115,7 @@ Un format GIF ou Graphical Interchange est un type d'image hautement compressée
 {{< blocks/products/pf/agp/other-supported-section title="Autres formats de filigrane pris en charge" subTitle="En utilisant Java, on peut facilement filigraner différents formats, y compris." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/watermark/bmp" name="BMP" description="Image bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/watermark/ico" name="ICO" description="Icône Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/watermark/dib" name="DIB" description="Bitmap indépendant du périphérique" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/watermark/dicom" name="DICOM" description="Imagerie numérique et communications" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/watermark/emf" name="EMF" description="Format de métafichier amélioré" >}}

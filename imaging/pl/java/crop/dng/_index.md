@@ -16,11 +16,7 @@ description: Wypróbuj nasze lokalne interfejsy API dokumentów, aby przycinać 
 
 {{% blocks/products/pf/agp/content h2="Jak przyciąć pliki DNG za pomocą Java" %}}
 
-Aby przyciąć pliki DNG, użyjemy
-[Aspose.Imaging dla Javy](https://products.aspose.com/imaging/java)
-API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do obróbki i konwersji obrazów dla platformy Java. Możesz pobrać jego najnowszą wersję bezpośrednio z
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-i zainstaluj go w swoim projekcie opartym na Maven, dodając następujące konfiguracje do pom.xml.
+Aby przyciąć pliki DNG, użyjemy [Aspose.Imaging dla Javy](https://products.aspose.com/imaging/java) API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do obróbki i konwersji obrazów dla platformy Java. Możesz pobrać jego najnowszą wersję bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) i zainstaluj go w swoim projekcie opartym na Maven, dodając następujące konfiguracje do pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repozytorium" offSpacer="true" %}}
 
@@ -55,9 +51,7 @@ i zainstaluj go w swoim projekcie opartym na Maven, dodając następujące konfi
 
 {{% blocks/products/pf/agp/text %}}
 
-Potrzebujesz
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java)
- aby wypróbować następujący przepływ pracy we własnym środowisku.
+Potrzebujesz [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) aby wypróbować następujący przepływ pracy we własnym środowisku.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +102,7 @@ Aspose.Imaging API to rozwiązanie do przetwarzania obrazów do tworzenia, modyf
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Po prostu prześlij pliki DNG i naciśnij przycisk „Przytnij teraz”" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Natychmiast uzyskaj link do pobrania pliku wynikowego" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej" >}}
 DNG to format obrazu aparatu cyfrowego używany do przechowywania plików RAW. Został opracowany przez firmę Adobe we wrześniu 2004 roku. Został zasadniczo opracowany z myślą o fotografii cyfrowej. DNG jest rozszerzeniem standardowego formatu TIFF/EP i w znacznym stopniu wykorzystuje metadane. Aby manipulować nieprzetworzonymi danymi z aparatów cyfrowych z łatwością i elastycznością i artystyczną kontrolą, fotografowie wybierają nieprzetworzone pliki aparatu. Formaty JPEG i TIFF przechowują obrazy przetwarzane przez aparat, dlatego w takich formatach nie ma zbyt wiele miejsca na zmiany.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -120,6 +114,7 @@ DNG to format obrazu aparatu cyfrowego używany do przechowywania plików RAW. Z
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/crop/apng" name="APNG" description="Animowana przenośna grafika sieciowa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/crop/bmp" name="BMP" description="Obraz bitmapowy" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/crop/ico" name="ICO" description="Ikona Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/crop/jpg" name="JPG" description="Wspólna Grupa Ekspertów Fotograficznych" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/crop/dib" name="DIB" description="Mapa bitowa niezależna od urządzenia" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/crop/dicom" name="DICOM" description="Obrazowanie cyfrowe i komunikacja" >}}

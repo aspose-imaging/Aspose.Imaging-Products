@@ -16,13 +16,7 @@ description: Coba API dokumen Lokal kami untuk menghapus latar belakang dalam fi
 
 {{% blocks/products/pf/agp/content h2="Cara menghapus latar belakang di File JP2 Menggunakan C#" %}}
 
-Untuk menghapus latar belakang dalam file JP2, kami akan menggunakan
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- API yang kaya fitur, kuat, dan mudah digunakan manipulasi gambar dan konversi API untuk platform C#. Membuka
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- manajer paket, cari
- **Aspose.Imaging**
- dan menginstal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
+Untuk menghapus latar belakang dalam file JP2, kami akan menggunakan [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API yang kaya fitur, kuat, dan mudah digunakan manipulasi gambar dan konversi API untuk platform C#. Membuka [NuGet](https://www.nuget.org/packages/aspose.imaging) manajer paket, cari **Aspose.Imaging** dan menginstal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Perintah Konsol Manajer Paket" offSpacer="true" %}}
 
@@ -42,9 +36,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-Anda membutuhkan
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- untuk mencoba alur kerja berikut di lingkungan Anda sendiri.
+Anda membutuhkan [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) untuk mencoba alur kerja berikut di lingkungan Anda sendiri.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -70,7 +62,7 @@ Aspose.Imaging untuk .NET didukung di semua sistem operasi utama. Pastikan saja 
 
 {{% blocks/products/pf/agp/code-block title="Hapus latar belakang dalam gambar JP2 - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "07bd18a1af2633c99a708341d84b5ad2" "remove-change-background-generic-examples.cs" >}}
+{{< gist "aspose-com-gists" "c28d7d7f7dff39444751b5724d5ba14a" "remove-change-background-generic-examples.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -97,7 +89,7 @@ Aspose.Imaging API adalah solusi pemrosesan gambar untuk membuat, memodifikasi, 
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Cukup unggah file JP2 Anda dan tekan tombol \"Hapus latar belakang sekarang\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Langsung dapatkan tautan unduhan untuk file yang dihasilkan" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya" >}}
 JPEG 2000 (JP2) adalah sistem pengkodean gambar dan standar kompresi gambar mutakhir. Dirancang, menggunakan teknologi wavelet JPEG 2000 dapat mengkodekan konten lossless dalam kualitas apa pun sekaligus. Selain itu, tanpa penalti substansial dalam efisiensi pengkodean, JPEG 2000 memiliki kemampuan untuk mengakses dan mendekode konten yang sama secara efektif ke dalam berbagai resolusi dan kualitas lainnya. Aliran kode dalam JPEG 2000 secara signifikan dapat diskalakan memiliki wilayah yang menarik yang menyediakan fasilitas untuk akses acak spasial. Memiliki hingga 16384 komponen yang beragam dengan dimensi dalam terapixels, dan presisi yang dapat setinggi 38 bit/sampel.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -109,6 +101,7 @@ JPEG 2000 (JP2) adalah sistem pengkodean gambar dan standar kompresi gambar muta
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/remove-background/apng" name="APNG" description="Grafik Jaringan Portabel Animasi" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/remove-background/bmp" name="BMP" description="Gambar Bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/remove-background/ico" name="ICO" description="ikon Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/remove-background/jpg" name="JPG" description="Kelompok Ahli Fotografi Bersama" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/remove-background/dib" name="DIB" description="Bitmap Independen Perangkat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/remove-background/dicom" name="DICOM" description="Pencitraan & Komunikasi Digital" >}}

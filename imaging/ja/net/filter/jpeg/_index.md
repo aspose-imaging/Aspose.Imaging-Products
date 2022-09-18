@@ -16,13 +16,7 @@ description: オンプレミスドキュメントAPIを試して、.NET Framewor
 
 {{% blocks/products/pf/agp/content h2="C#を使用してJPEGファイルをフィルタリングする方法" %}}
 
-JPEGファイルをフィルタリングするために、
-[Aspose.Imaging for .NET]（https://products.aspose.com/imaging/net）
- 機能が豊富で強力で使いやすいC＃プラットフォーム用の画像操作および変換APIであるAPI。開ける
- [NuGet]（https://www.nuget.org/packages/aspose.imaging）
- パッケージマネージャー、検索
- ** Aspose.Imaging **
- とインストールします。パッケージマネージャーコンソールから次のコマンドを使用することもできます。
+JPEGファイルをフィルタリングするために、 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) 機能が豊富で強力で使いやすいC＃プラットフォーム用の画像操作および変換APIであるAPI。開ける [NuGet](https://www.nuget.org/packages/aspose.imaging) パッケージマネージャー、検索 ** Aspose.Imaging ** とインストールします。パッケージマネージャーコンソールから次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title ="パッケージマネージャーコンソールコマンド" offSpacer = "true"%}}
 
@@ -42,9 +36,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-あなたは
- [aspose.imaging.dll]（https://downloads.aspose.com/imaging/net）
- 自分の環境で次のワークフローを試してください。
+あなたは [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) 自分の環境で次のワークフローを試してください。
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -97,7 +89,7 @@ Aspose.Imaging APIは、アプリケーション内で画像（写真）を作�
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="JPEGファイルをアップロードして[今すぐフィルター]ボタンを押すだけです" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="結果のファイルのダウンロードリンクを即座に取得します" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む" >}}
 JPEGは、非可逆圧縮方式を使用して保存される画像形式の一種です。圧縮の結果としての出力画像は、ストレージサイズと画質の間のトレードオフです。ユーザーは、圧縮レベルを調整して、必要な品質レベルを達成すると同時に、ストレージサイズを減らすことができます。 10：1の圧縮が画像に適用されている場合、画質への影響はごくわずかです。圧縮値が高いほど、画質の低下が大きくなります。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -109,6 +101,7 @@ JPEGは、非可逆圧縮方式を使用して保存される画像形式の一�
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/filter/apng" name="APNG" description="アニメーション化されたポータブルネットワークグラフィックス" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/filter/bmp" name="BMP" description="ビットマップ画像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/filter/ico" name="ICO" description="Windows アイコン" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/filter/jpg" name="JPG" description="共同写真専門家グループ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/filter/dib" name="DIB" description="デバイスに依存しないビットマップ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/filter/dicom" name="DICOM" description="デジタルイメージング＆コミュニケーション" >}}

@@ -16,11 +16,7 @@ description: Probieren Sie unsere On-Premise-Dokument-APIs aus, um JP2-Dateien i
 
 {{% blocks/products/pf/agp/content h2="So binarisieren Sie JP2-Dateien mit Java" %}}
 
-Um JP2-Dateien zu binarisieren, verwenden wir
-[Aspose.Imaging für Java](https://products.aspose.com/imaging/java)
-API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Bildbearbeitungs- und Konvertierungs-API für die Java-Plattform ist. Sie können die neueste Version direkt von herunterladen
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
+Um JP2-Dateien zu binarisieren, verwenden wir [Aspose.Imaging für Java](https://products.aspose.com/imaging/java) API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Bildbearbeitungs- und Konvertierungs-API für die Java Plattform ist. Sie können die neueste Version direkt von herunterladen [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -55,9 +51,7 @@ und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml 
 
 {{% blocks/products/pf/agp/text %}}
 
-Du brauchst die
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java)
- um den folgenden Workflow in Ihrer eigenen Umgebung auszuprobieren.
+Du brauchst die [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) um den folgenden Workflow in Ihrer eigenen Umgebung auszuprobieren.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +102,7 @@ Aspose.Imaging API ist eine Bildverarbeitungslösung zum Erstellen, Ändern, Zei
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Laden Sie einfach Ihre JP2-Dateien hoch und klicken Sie auf die Schaltfläche \"Jetzt binarisieren\"." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Erhalten Sie sofort den Download-Link für die resultierende Datei" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen" >}}
 JPEG 2000 (JP2) ist ein Bildcodierungssystem und ein hochmoderner Bildkomprimierungsstandard. JPEG 2000 wurde unter Verwendung der Wavelet-Technologie entwickelt und kann verlustfreie Inhalte in jeder Qualität gleichzeitig kodieren. Darüber hinaus hat JPEG 2000 ohne wesentliche Einbußen bei der Codierungseffizienz die Fähigkeit, auf denselben Inhalt zuzugreifen und ihn effizient in eine Vielzahl anderer Auflösungen und Qualitäten zu decodieren. Die Codeströme in JPEG 2000 sind erheblich skalierbar, da sie interessierende Regionen aufweisen, die die Möglichkeit für einen räumlichen Direktzugriff bereitstellen. Besitzt bis zu 16384 verschiedene Komponenten mit Abmessungen in Terapixel und einer Genauigkeit, die bis zu 38 Bit/Sample betragen kann.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -120,6 +114,7 @@ JPEG 2000 (JP2) ist ein Bildcodierungssystem und ein hochmoderner Bildkomprimier
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/binarize/apng" name="APNG" description="Animierte tragbare Netzwerkgrafiken" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/binarize/bmp" name="BMP" description="Bitmap-Bild" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/binarize/ico" name="ICO" description="Windows-Symbol" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/binarize/jpg" name="JPG" description="Gemeinsame fotografische Expertengruppe" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/binarize/jpeg" name="JPEG" description="Gemeinsame fotografische Expertengruppe" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/binarize/dib" name="DIB" description="Geräteunabhängige Bitmap" >}}

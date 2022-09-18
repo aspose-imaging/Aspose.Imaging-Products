@@ -16,11 +16,7 @@ description: Experimente nossas APIs de documentos no local para compactar arqui
 
 {{% blocks/products/pf/agp/content h2="Como compactar arquivos OTG usando Java" %}}
 
-Para compactar arquivos OTG, usaremos
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java)
-API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para plataforma Java. Você pode baixar sua versão mais recente diretamente de
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-e instale-o em seu projeto baseado em Maven adicionando as seguintes configurações ao pom.xml.
+Para compactar arquivos OTG, usaremos [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para plataforma Java. Você pode baixar sua versão mais recente diretamente de [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) e instale-o em seu projeto baseado em Maven adicionando as seguintes configurações ao pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -55,9 +51,7 @@ e instale-o em seu projeto baseado em Maven adicionando as seguintes configuraç
 
 {{% blocks/products/pf/agp/text %}}
 
-Você precisa do
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java)
- para experimentar o fluxo de trabalho a seguir em seu próprio ambiente.
+Você precisa do [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) para experimentar o fluxo de trabalho a seguir em seu próprio ambiente.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +102,7 @@ Aspose.Imaging API é uma solução de processamento de imagens para criar, modi
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta enviar seus arquivos OTG e clicar no botão \"Compactar agora\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Obtenha instantaneamente o link de download para o arquivo resultante" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação" >}}
 Um arquivo OTG é um modelo de desenho criado usando o padrão OpenDocument que segue a especificação OASIS Office Applications 1.0. Ele representa a organização padrão dos elementos de desenho para uma imagem vetorial que pode ser usada para aprimorar ainda mais o conteúdo do arquivo.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -120,6 +114,7 @@ Um arquivo OTG é um modelo de desenho criado usando o padrão OpenDocument que 
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/compress/apng" name="APNG" description="Gráficos de rede portátil animados" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/compress/bmp" name="BMP" description="Imagem de bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/compress/ico" name="ICO" description="ícone do Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/compress/jpg" name="JPG" description="Grupo Conjunto de Especialistas em Fotografia" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/compress/jpeg" name="JPEG" description="Grupo Conjunto de Especialistas em Fotografia" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/compress/dib" name="DIB" description="Bitmap independente de dispositivo" >}}

@@ -16,11 +16,7 @@ description: Hãy thử các API tài liệu On-Premise của chúng tôi cho c�
 
 {{% blocks/products/pf/agp/content h2="Cách hòa sắc tệp GIF bằng Java" %}}
 
-Để hòa trộn các tệp GIF, chúng tôi sẽ sử dụng
-[Aspose.Imaging cho Java] (https://products.aspose.com/imaging/java)
-API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng Java. Bạn có thể tải xuống phiên bản mới nhất của nó trực tiếp từ
-[Maven] (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-và cài đặt nó trong dự án dựa trên Maven của bạn bằng cách thêm các cấu hình sau vào pom.xml.
+Để hòa trộn các tệp GIF, chúng tôi sẽ sử dụng [Aspose.Imaging cho Java] (https://products.aspose.com/imaging/java) API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng Java. Bạn có thể tải xuống phiên bản mới nhất của nó trực tiếp từ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) và cài đặt nó trong dự án dựa trên Maven của bạn bằng cách thêm các cấu hình sau vào pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Kho" offSpacer="true"%}}
 
@@ -55,9 +51,7 @@ và cài đặt nó trong dự án dựa trên Maven của bạn bằng cách th
 
 {{% blocks/products/pf/agp/text %}}
 
-Bạn cần
- [aspose-images-version-jdk16.jar] (https://downloads.aspose.com/imaging/java)
- để thử quy trình làm việc sau trong môi trường của riêng bạn.
+Bạn cần [aspose-images-version-jdk16.jar] (https://downloads.aspose.com/imaging/java) để thử quy trình làm việc sau trong môi trường của riêng bạn.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +102,7 @@ Aspose.Imaging API là một giải pháp xử lý hình ảnh để tạo, sử
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Chỉ cần tải lên các tệp GIF của bạn và nhấn nút \"Dither now \"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Nhận ngay liên kết tải xuống cho tệp kết quả" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm" >}}
 GIF hoặc Định dạng trao đổi đồ họa là một loại hình ảnh có độ nén cao. Thuộc sở hữu của Unisys, GIF sử dụng thuật toán nén LZW không làm giảm chất lượng hình ảnh. Đối với mỗi hình ảnh, GIF thường cho phép tối đa 8 bit trên mỗi pixel và tối đa 256 màu được phép trên toàn ảnh. Ngược lại với hình ảnh JPEG, hình ảnh này có thể hiển thị tới 16 triệu màu và khá gần với giới hạn của mắt người. Trở lại khi internet xuất hiện, GIF vẫn là lựa chọn tốt nhất vì chúng yêu cầu băng thông thấp và tương thích với đồ họa tiêu thụ các vùng màu đồng nhất. GIF động kết hợp nhiều hình ảnh hoặc khung hình thành một tệp duy nhất và hiển thị chúng theo trình tự để tạo ra một clip động hoặc một video ngắn. Các giới hạn về màu sắc lên đến 256 cho mỗi khung hình và có khả năng ít phù hợp nhất để tái tạo các hình ảnh và ảnh chụp khác với độ dốc màu.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -120,6 +114,7 @@ GIF hoặc Định dạng trao đổi đồ họa là một loại hình ảnh c
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/dither/apng" name="APNG" description="Đồ họa mạng di động hoạt hình" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/dither/bmp" name="BMP" description="Ảnh bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/dither/ico" name="ICO" description="Biểu tượng Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/dither/jpg" name="JPG" description="Nhóm chuyên gia nhiếp ảnh chung" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/dither/jpeg" name="JPEG" description="Nhóm chuyên gia nhiếp ảnh chung" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/dither/dib" name="DIB" description="Bản đồ bit độc lập với thiết bị" >}}

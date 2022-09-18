@@ -18,10 +18,7 @@ description: DJVU - EMZ Java dönüşümü için örnek kod. Herhangi bir Web ve
 {{% blocks/products/pf/agp/content h2="Java Kullanarak DJVU'i EMZ'ye Dönüştürme" %}}
 
 DJVU'i EMZ'ye dönüştürmek için kullanacağız
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java)
-Java platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. En son sürümünü doğrudan adresinden indirebilirsiniz.
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-ve pom.xml dosyasına aşağıdaki konfigürasyonları ekleyerek Maven tabanlı projenize kurun.
+[Aspose.Imaging for Java](https://products.aspose.com/imaging/java) Java platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. En son sürümünü doğrudan adresinden indirebilirsiniz. [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) ve pom.xml dosyasına aşağıdaki konfigürasyonları ekleyerek Maven tabanlı projenize kurun.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -102,11 +99,11 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
 DjVu, “déjà vu” olarak telaffuz edilir, özellikle metin, çizim, resim ve fotoğrafların birleşimini içeren taranmış belgeler ve kitaplar için tasarlanmış bir grafik dosya formatıdır. AT&T Labs tarafından geliştirilmiştir. Metin ve arka plan görüntülerinin görüntü katmanı ayrımı, aşamalı yükleme, aritmetik kodlama ve iki tonlu görüntüler için kayıplı sıkıştırma gibi birden çok teknik kullanır. DJVU dosyası sıkıştırılmış ancak yüksek kaliteli renkli görüntüler, fotoğraflar, metinler ve çizimler içerebildiğinden ve daha az alana kaydedilebildiğinden, web'de e-Kitaplar, kılavuzlar, gazeteler, eski belgeler vb. olarak kullanılır.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
 EMZ dosya uzantısına sahip bir dosya, daha özel olarak Windows Sıkıştırılmış Gelişmiş Meta Dosyası dosyası olarak adlandırılan sıkıştırılmış bir görüntü dosyasıdır.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -140,6 +137,7 @@ EMZ dosya uzantısına sahip bir dosya, daha özel olarak Windows Sıkıştırı
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/conversion/djvu-to-tga" name="TGA" description="Targa Grafiği" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/conversion/djvu-to-svgz" name="SVGZ" description="Ölçeklenebilir Vektör Grafikleri (.SVG) dosyasının sıkıştırılmış sürümü." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/conversion/djvu-to-canvas" name="CANVAS" description="HTML5 Tuval" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/conversion/djvu-to-ico" name="ICO" description="Windows simgesi" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

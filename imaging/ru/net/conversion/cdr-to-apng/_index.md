@@ -18,12 +18,7 @@ description: Пример кода для преобразования CDR в AP
 {{% blocks/products/pf/agp/content h2="Как преобразовать CDR в APNG с помощью C#" %}}
 
 Чтобы преобразовать CDR в APNG, мы будем использовать
-[Aspose.Imaging для .NET](https://products.aspose.com/imaging/net)
- API, который представляет собой многофункциональный, мощный и простой в использовании API для обработки и преобразования изображений для платформы C#. Открытым
- [NuGet] (https://www.nuget.org/packages/aspose.imaging)
- менеджер пакетов, поиск
- **Aspose.Imaging**
- и установить. Вы также можете использовать следующую команду из консоли диспетчера пакетов.
+[Aspose.Imaging для .NET](https://products.aspose.com/imaging/net) API, который представляет собой многофункциональный, мощный и простой в использовании API для обработки и преобразования изображений для платформы C#. Открытым [NuGet](https://www.nuget.org/packages/aspose.imaging) менеджер пакетов, поиск **Aspose.Imaging** и установить. Вы также можете использовать следующую команду из консоли диспетчера пакетов.
 
 {{% blocks/products/pf/agp/code-block title="Команда консоли диспетчера пакетов" offSpacer="true" %}}
 
@@ -93,11 +88,11 @@ PM> Install-Package Aspose.Imaging
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
 Файл CDR — это файл изображения векторного рисунка, изначально созданный с помощью CorelDRAW для хранения закодированного и сжатого цифрового изображения. Такой файл чертежа содержит текст, линии, формы, изображения, цвета и эффекты для векторного представления содержимого изображения. Файлы CDR можно открывать в CorelDRAW в качестве основного приложения, а также преобразовывать в другие форматы, такие как PDF, JPG, PNG, BMP и AI. Его можно использовать для представления различных графических данных, таких как брошюры, таблоиды, конверты и открытки. Помимо CorelDRAW, другие продукты Corel, такие как Corel Paintshop Pro и CorelDRAW Graphics Suite, также могут открывать форматы файлов CDR.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
 Файл с расширением .apng (Animated Portable Network Graphics) представляет собой растровый графический формат и является неофициальным расширением Portable Network Graphics (PNG). Он состоит из нескольких кадров (каждый из изображений PNG), которые представляют последовательность анимации. Это дает визуализацию, аналогичную файлу GIF. Файлы APNG поддерживают 24-битные изображения и 8-битную прозрачность. APNG обратно совместим с неанимированными файлами GIF. Файлы APNG используют то же расширение .png и могут открываться такими приложениями, как Mozilla Firefox, Chrome с поддержкой APNG, приложениями iMessage для iOS 10.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -131,6 +126,7 @@ PM> Install-Package Aspose.Imaging
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/conversion/cdr-to-tga" name="TGA" description="Тарга Графика" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/conversion/cdr-to-svgz" name="SVGZ" description="Сжатая версия файла масштабируемой векторной графики (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/conversion/cdr-to-canvas" name="CANVAS" description="Холст HTML5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/conversion/cdr-to-ico" name="ICO" description="Значок Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

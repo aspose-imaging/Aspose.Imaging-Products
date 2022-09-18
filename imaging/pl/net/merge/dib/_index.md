@@ -16,13 +16,7 @@ description: Wypróbuj nasze lokalne interfejsy API dokumentów, aby scalić pli
 
 {{% blocks/products/pf/agp/content h2="Jak scalić pliki DIB za pomocą C#" %}}
 
-Aby scalić pliki DIB, użyjemy
-[Aspose.Imaging dla .NET](https://products.aspose.com/imaging/net)
- API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do obróbki i konwersji obrazów dla platformy C#. otwarty
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- menedżer pakietów, szukaj
- **Aspose.Obrazowanie**
- i zainstaluj. Możesz również użyć następującego polecenia z konsoli Menedżera pakietów.
+Aby scalić pliki DIB, użyjemy [Aspose.Imaging dla .NET](https://products.aspose.com/imaging/net) API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do obróbki i konwersji obrazów dla platformy C#. Otwarty [NuGet](https://www.nuget.org/packages/aspose.imaging) menedżer pakietów, szukaj **Aspose.Obrazowanie** i zainstaluj. Możesz również użyć następującego polecenia z konsoli Menedżera pakietów.
 
 {{% blocks/products/pf/agp/code-block title="Polecenie konsoli menedżera pakietów" offSpacer="true" %}}
 
@@ -44,9 +38,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-Potrzebujesz
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- aby wypróbować następujący przepływ pracy we własnym środowisku.
+Potrzebujesz [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) aby wypróbować następujący przepływ pracy we własnym środowisku.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -99,7 +91,7 @@ Aspose.Imaging API to rozwiązanie do przetwarzania obrazów do tworzenia, modyf
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Po prostu prześlij swoje pliki DIB i naciśnij przycisk „Połącz teraz”" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Natychmiast uzyskaj link do pobrania pliku wynikowego" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej" >}}
 Plik DIB (Device Independent Bitmap) to plik obrazu rastrowego, który ma podobną strukturę do standardowych plików bitmapowych (BMP), ale ma inny nagłówek. Można go otworzyć za pomocą prawie wszystkich aplikacji, które mogą otwierać standardowy plik BMP w systemie Windows i macOS. DIB to pliki binarne i mają złożony format pliku podobny do BMP.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -111,6 +103,7 @@ Plik DIB (Device Independent Bitmap) to plik obrazu rastrowego, który ma podobn
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/merge/apng" name="APNG" description="Animowana przenośna grafika sieciowa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/merge/bmp" name="BMP" description="Obraz bitmapowy" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/merge/ico" name="ICO" description="Ikona Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/merge/jpg" name="JPG" description="Wspólna Grupa Ekspertów Fotograficznych" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/merge/cdr" name="CDR" description="Obraz rysunku wektorowego" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/merge/cmx" name="CMX" description="Obraz wymiany firmy Corel" >}}

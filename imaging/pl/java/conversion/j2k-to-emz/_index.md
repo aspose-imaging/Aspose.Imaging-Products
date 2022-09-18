@@ -18,10 +18,7 @@ description: Przykładowy kod konwersji J2K na EMZ Java. Użyj przykładowego ko
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować J2K na EMZ za pomocą Java" %}}
 
 Aby przekonwertować J2K na EMZ, użyjemy
-[Aspose.Imaging dla Javy](https://products.aspose.com/imaging/java)
-API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do obróbki i konwersji obrazów dla platformy Java. Możesz pobrać jego najnowszą wersję bezpośrednio z
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-i zainstaluj go w swoim projekcie opartym na Maven, dodając następujące konfiguracje do pom.xml.
+[Aspose.Imaging dla Javy](https://products.aspose.com/imaging/java) API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do obróbki i konwersji obrazów dla platformy Java. Możesz pobrać jego najnowszą wersję bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) i zainstaluj go w swoim projekcie opartym na Maven, dodając następujące konfiguracje do pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repozytorium" offSpacer="true" %}}
 
@@ -102,11 +99,11 @@ Przed uruchomieniem przykładowego kodu konwersji upewnij się, że masz następ
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
 Plik J2K to obraz skompresowany przy użyciu kompresji falkowej zamiast kompresji DCT.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
 Plik z rozszerzeniem EMZ to skompresowany plik obrazu, dokładniej nazywany plikiem Windows Compressed Enhanced Metafile
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -139,6 +136,7 @@ Plik z rozszerzeniem EMZ to skompresowany plik obrazu, dokładniej nazywany plik
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/conversion/j2k-to-tga" name="TGA" description="Targa grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/conversion/j2k-to-svgz" name="SVGZ" description="Skompresowana wersja pliku Scalable Vector Graphics (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/conversion/j2k-to-canvas" name="CANVAS" description="Płótno HTML5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/conversion/j2k-to-ico" name="ICO" description="Ikona Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

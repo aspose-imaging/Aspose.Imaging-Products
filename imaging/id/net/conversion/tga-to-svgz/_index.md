@@ -18,12 +18,7 @@ description: Contoh kode untuk TGA ke SVGZ C# konversi. Gunakan kode contoh API 
 {{% blocks/products/pf/agp/content h2="Cara Mengonversi TGA ke SVGZ Menggunakan C#" %}}
 
 Untuk mengonversi TGA ke SVGZ, kami akan menggunakan
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- API yang kaya fitur, kuat, dan mudah digunakan manipulasi gambar dan konversi API untuk platform C#. Membuka
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- manajer paket, cari
- **Aspose.Imaging**
- dan menginstal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
+[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API yang kaya fitur, kuat, dan mudah digunakan manipulasi gambar dan konversi API untuk platform C#. Membuka [NuGet](https://www.nuget.org/packages/aspose.imaging) manajer paket, cari **Aspose.Imaging** dan menginstal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Perintah Konsol Manajer Paket" offSpacer="true" %}}
 
@@ -91,11 +86,11 @@ Sebelum menjalankan kode contoh konversi, pastikan Anda memiliki prasyarat berik
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
 Truevision TGA, sering disebut sebagai TARGA, adalah format file grafik raster yang dibuat oleh Truevision Inc. (sekarang bagian dari Avid Technology). Itu adalah format asli papan TARGA dan VISTA, yang merupakan kartu grafis pertama untuk PC yang kompatibel dengan IBM yang mendukung tampilan Highcolor/truecolor.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
 File dengan ekstensi .svgz adalah versi terkompresi dari file Scalable Vector Graphics (.SVG). Itu dikompresi dengan kompresi gzip dan berisi data dalam format XML. File SVGZ mendukung transparansi, gradien, animasi, dan filter. File SVGZ berukuran lebih kecil dibandingkan dengan file SVG default dan ukuran file yang diperkecil ini membantu mentransfer file grafik secara online. Desainer grafis membuat file SVGZ menggunakan alat seperti Adobe Illustrator, Corel PaintShop Pro, dan lainnya. Namun, file SVGZ dapat dibuat dengan mengaktifkan kompresi GZip di Server Apache saat mengirimkan data gambar.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -128,6 +123,7 @@ File dengan ekstensi .svgz adalah versi terkompresi dari file Scalable Vector Gr
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/conversion/tga-to-wmz" name="WMZ" description="Kulit Windows Media Player Terkompresi" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/conversion/tga-to-svgz" name="SVGZ" description="Versi terkompresi dari file Scalable Vector Graphics (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/conversion/tga-to-canvas" name="CANVAS" description="Kanvas HTML5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/conversion/tga-to-ico" name="ICO" description="ikon Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

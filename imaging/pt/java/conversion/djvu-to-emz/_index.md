@@ -18,10 +18,7 @@ description: Código de exemplo para conversão Java de DJVU para EMZ. Use o có
 {{% blocks/products/pf/agp/content h2="Como converter DJVU para EMZ usando Java" %}}
 
 Para converter DJVU em EMZ, usaremos
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java)
-API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para plataforma Java. Você pode baixar sua versão mais recente diretamente de
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-e instale-o em seu projeto baseado em Maven adicionando as seguintes configurações ao pom.xml.
+[Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para plataforma Java. Você pode baixar sua versão mais recente diretamente de [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) e instale-o em seu projeto baseado em Maven adicionando as seguintes configurações ao pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -102,11 +99,11 @@ Antes de executar o código de exemplo de conversão, verifique se você tem os 
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação">}}
 DjVu, pronunciado como “déjà vu”, é um formato de arquivo gráfico destinado a documentos e livros digitalizados, especialmente aqueles que contêm a combinação de texto, desenhos, imagens e fotografias. Foi desenvolvido pela AT&T Labs. Ele usa várias técnicas, como separação de camadas de imagem de texto e imagens de fundo, carregamento progressivo, codificação aritmética e compactação com perdas para imagens bitonais. Como o arquivo DJVU pode conter imagens coloridas, fotografias, texto e desenhos compactados e de alta qualidade e pode ser salvo em menos espaço, portanto, é usado na web como eBooks, manuais, jornais, documentos antigos etc.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação">}}
 Um arquivo com a extensão de arquivo EMZ é um arquivo de imagem compactado, mais especificamente chamado de arquivo Windows Compressed Enhanced Metafile
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -140,6 +137,7 @@ Um arquivo com a extensão de arquivo EMZ é um arquivo de imagem compactado, ma
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/conversion/djvu-to-tga" name="TGA" description="Gráfico Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/conversion/djvu-to-svgz" name="SVGZ" description="Versão compactada do arquivo Scalable Vector Graphics (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/conversion/djvu-to-canvas" name="CANVAS" description="Tela HTML5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/conversion/djvu-to-ico" name="ICO" description="ícone do Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

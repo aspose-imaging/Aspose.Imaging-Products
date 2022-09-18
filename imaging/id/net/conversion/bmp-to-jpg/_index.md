@@ -18,12 +18,7 @@ description: Contoh kode untuk BMP ke JPG C# konversi. Gunakan kode contoh API u
 {{% blocks/products/pf/agp/content h2="Cara Mengonversi BMP ke JPG Menggunakan C#" %}}
 
 Untuk mengonversi BMP ke JPG, kami akan menggunakan
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- API yang kaya fitur, kuat, dan mudah digunakan manipulasi gambar dan konversi API untuk platform C#. Membuka
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- manajer paket, cari
- **Aspose.Imaging**
- dan menginstal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
+[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API yang kaya fitur, kuat, dan mudah digunakan manipulasi gambar dan konversi API untuk platform C#. Membuka [NuGet](https://www.nuget.org/packages/aspose.imaging) manajer paket, cari **Aspose.Imaging** dan menginstal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Perintah Konsol Manajer Paket" offSpacer="true" %}}
 
@@ -91,11 +86,11 @@ Sebelum menjalankan kode contoh konversi, pastikan Anda memiliki prasyarat berik
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
 File yang berekstensi .BMP merupakan file Gambar Bitmap yang digunakan untuk menyimpan gambar digital bitmap. Gambar-gambar ini tidak tergantung pada adaptor grafis dan juga disebut format file bitmap independen perangkat (DIB). Independensi ini bertujuan untuk membuka file di berbagai platform seperti Microsoft Windows dan Mac. Format file BMP dapat menyimpan data sebagai gambar digital dua dimensi baik dalam format monokrom maupun warna dengan kedalaman warna yang bervariasi.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
 JPEG adalah jenis format gambar yang disimpan menggunakan metode kompresi lossy. Gambar keluaran, sebagai hasil kompresi, merupakan pertukaran antara ukuran penyimpanan dan kualitas gambar. Pengguna dapat menyesuaikan tingkat kompresi untuk mencapai tingkat kualitas yang diinginkan sekaligus mengurangi ukuran penyimpanan. Kualitas gambar tidak terlalu terpengaruh jika kompresi 10:1 diterapkan pada gambar. Semakin tinggi nilai kompresi, semakin tinggi penurunan kualitas gambar.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -128,6 +123,7 @@ JPEG adalah jenis format gambar yang disimpan menggunakan metode kompresi lossy.
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/conversion/bmp-to-tga" name="TGA" description="Grafis Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/conversion/bmp-to-svgz" name="SVGZ" description="Versi terkompresi dari file Scalable Vector Graphics (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/conversion/bmp-to-canvas" name="CANVAS" description="Kanvas HTML5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/conversion/bmp-to-ico" name="ICO" description="ikon Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

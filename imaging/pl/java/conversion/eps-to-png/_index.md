@@ -18,10 +18,7 @@ description: Przykładowy kod konwersji EPS na PNG Java. Użyj przykładowego ko
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować EPS na PNG za pomocą Java" %}}
 
 Aby przekonwertować EPS na PNG, użyjemy
-[Aspose.Imaging dla Javy](https://products.aspose.com/imaging/java)
-API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do obróbki i konwersji obrazów dla platformy Java. Możesz pobrać jego najnowszą wersję bezpośrednio z
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-i zainstaluj go w swoim projekcie opartym na Maven, dodając następujące konfiguracje do pom.xml.
+[Aspose.Imaging dla Javy](https://products.aspose.com/imaging/java) API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do obróbki i konwersji obrazów dla platformy Java. Możesz pobrać jego najnowszą wersję bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) i zainstaluj go w swoim projekcie opartym na Maven, dodając następujące konfiguracje do pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repozytorium" offSpacer="true" %}}
 
@@ -102,11 +99,11 @@ Przed uruchomieniem przykładowego kodu konwersji upewnij się, że masz następ
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
 Pliki z rozszerzeniem EPS zasadniczo opisują program w języku Encapsulated PostScript, który opisuje wygląd pojedynczej strony. Nazwa „Enkapsulowana”, ponieważ może być zawarta lub zawarta w innym opisie strony w języku PostScript. Ten format pliku oparty na skrypcie może zawierać dowolną kombinację tekstu, grafiki i obrazów. Pliki EPS mogą zawierać obraz podglądu mapy bitowej zamknięty w środku do wyświetlania przez aplikacje, które mogą otwierać takie pliki. Pliki EPS można konwertować do standardowych formatów graficznych, takich jak JPG, PNG, TIFF i PDF przy użyciu różnych aplikacji, m.in. Adobe Illustrator, Photoshop i PaintShop Pro. Ze względu na lukę w zabezpieczeniach plików EPS pakiety Office 2016, Office 2013, Office 2010 i Office 365 wyłączyły możliwość wstawiania plików EPS do dokumentów pakietu Office.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
 PNG, Portable Network Graphics, odnosi się do formatu pliku obrazu rastrowego, który wykorzystuje kompresję bezstratną. Ten format pliku został utworzony jako zamiennik formatu Graphics Interchange Format (GIF) i nie ma ograniczeń dotyczących praw autorskich. Jednak format pliku PNG nie obsługuje animacji. Format plików PNG obsługuje bezstratną kompresję obrazu, dzięki czemu jest popularny wśród użytkowników. Z biegiem czasu PNG stał się jednym z najczęściej używanych formatów plików graficznych. Prawie wszystkie systemy operacyjne obsługują otwieranie plików PNG. Na przykład przeglądarka Microsoft Windows ma możliwość otwierania plików PNG, ponieważ system operacyjny domyślnie obsługuje wsparcie dostępne w ramach instalacji.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -140,6 +137,7 @@ PNG, Portable Network Graphics, odnosi się do formatu pliku obrazu rastrowego, 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/conversion/eps-to-tga" name="TGA" description="Targa grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/conversion/eps-to-svgz" name="SVGZ" description="Skompresowana wersja pliku Scalable Vector Graphics (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/conversion/eps-to-canvas" name="CANVAS" description="Płótno HTML5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/conversion/eps-to-ico" name="ICO" description="Ikona Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

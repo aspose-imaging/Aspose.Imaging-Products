@@ -18,12 +18,7 @@ description: Codice di esempio per la conversione da SVG a PSD C#. Utilizzare il
 {{% blocks/products/pf/agp/content h2="Come convertire SVG in PSD utilizzando C#" %}}
 
 Per convertire SVG in PSD, useremo
-[Aspose.Imaging per .NET](https://products.aspose.com/imaging/net)
- API che è un'API di conversione e manipolazione delle immagini ricca di funzionalità, potente e facile da usare per la piattaforma C#. Aprire
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- gestore pacchetti, cerca
- **Aspose.Imaging**
- e installa. È inoltre possibile utilizzare il seguente comando dalla Console di gestione pacchetti.
+[Aspose.Imaging per .NET](https://products.aspose.com/imaging/net) API che è un'API di conversione e manipolazione delle immagini ricca di funzionalità, potente e facile da usare per la piattaforma C#. Aprire [NuGet](https://www.nuget.org/packages/aspose.imaging) gestore pacchetti, cerca **Aspose.Imaging** e installa. È inoltre possibile utilizzare il seguente comando dalla Console di gestione pacchetti.
 
 {{% blocks/products/pf/agp/code-block title="Comando della console di Package Manager" offSpacer="true" %}}
 
@@ -93,11 +88,11 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
 I file SVG sono file di grafica vettoriale scalabili che utilizzano un formato di testo basato su XML per descrivere l'aspetto dell'immagine. La parola scalabile si riferisce al fatto che l'SVG può essere ridimensionato a diverse dimensioni senza perdere qualità. La descrizione testuale di tali file li rende indipendenti dalla risoluzione. È uno dei formati più utilizzati per la creazione di siti Web e grafica stampata al fine di ottenere scalabilità. Tuttavia, il formato può essere utilizzato solo per la grafica bidimensionale. I file SVG possono essere visualizzati/aperti in quasi tutti i browser moderni, inclusi Chrome, Internet Explorer, Firefox e Safari.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
 PSD, Photoshop Document, rappresenta il formato di file nativo di Adobe Photoshop utilizzato per la progettazione e lo sviluppo della grafica. I file PSD possono includere livelli di immagine, livelli di regolazione, maschere di livello, annotazioni, informazioni sui file, parole chiave e altri elementi specifici di Photoshop.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -131,6 +126,7 @@ PSD, Photoshop Document, rappresenta il formato di file nativo di Adobe Photosho
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/conversion/svg-to-svgz" name="SVGZ" description="Versione compressa del file Scalable Vector Graphics (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/conversion/svg-to-canvas" name="CANVAS" description="Tela HTML5" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/conversion/svg-to-svg" name="SVG" description="Grafica vettoriale scalabile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/conversion/svg-to-ico" name="ICO" description="Icona di Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

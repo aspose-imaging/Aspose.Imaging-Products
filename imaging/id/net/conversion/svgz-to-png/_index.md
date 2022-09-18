@@ -18,12 +18,7 @@ description: Contoh kode untuk SVGZ ke PNG C# konversi. Gunakan kode contoh API 
 {{% blocks/products/pf/agp/content h2="Cara Mengonversi SVGZ ke PNG Menggunakan C#" %}}
 
 Untuk mengonversi SVGZ ke PNG, kami akan menggunakan
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- API yang kaya fitur, kuat, dan mudah digunakan manipulasi gambar dan konversi API untuk platform C#. Membuka
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- manajer paket, cari
- **Aspose.Imaging**
- dan menginstal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
+[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API yang kaya fitur, kuat, dan mudah digunakan manipulasi gambar dan konversi API untuk platform C#. Membuka [NuGet](https://www.nuget.org/packages/aspose.imaging) manajer paket, cari **Aspose.Imaging** dan menginstal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Perintah Konsol Manajer Paket" offSpacer="true" %}}
 
@@ -91,11 +86,11 @@ Sebelum menjalankan kode contoh konversi, pastikan Anda memiliki prasyarat berik
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
 File dengan ekstensi .svgz adalah versi terkompresi dari file Scalable Vector Graphics (.SVG). Itu dikompresi dengan kompresi gzip dan berisi data dalam format XML. File SVGZ mendukung transparansi, gradien, animasi, dan filter. File SVGZ berukuran lebih kecil dibandingkan dengan file SVG default dan ukuran file yang diperkecil ini membantu mentransfer file grafik secara online. Desainer grafis membuat file SVGZ menggunakan alat seperti Adobe Illustrator, Corel PaintShop Pro, dan lainnya. Namun, file SVGZ dapat dibuat dengan mengaktifkan kompresi GZip di Server Apache saat mengirimkan data gambar.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
 PNG, Portable Network Graphics, mengacu pada jenis format file gambar raster yang menggunakan kompresi tanpa kehilangan. Format file ini dibuat sebagai pengganti Graphics Interchange Format (GIF) dan tidak memiliki batasan hak cipta. Namun, format file PNG tidak mendukung animasi. Format file PNG mendukung kompresi gambar tanpa kehilangan yang membuatnya populer di kalangan penggunanya. Dengan berlalunya waktu, PNG telah berkembang sebagai salah satu format file gambar yang paling banyak digunakan. Hampir semua Sistem Operasi memiliki dukungan untuk membuka file PNG. Misalnya, penampil Microsoft Windows memiliki kemampuan untuk membuka file PNG karena OS secara default memiliki dukungan yang tersedia sebagai bagian dari instalasi.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -128,6 +123,7 @@ PNG, Portable Network Graphics, mengacu pada jenis format file gambar raster yan
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/conversion/svgz-to-tga" name="TGA" description="Grafis Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/conversion/svgz-to-svg" name="SVG" description="Grafik Vektor Skalabel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/conversion/svgz-to-canvas" name="CANVAS" description="Kanvas HTML5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/conversion/svgz-to-ico" name="ICO" description="ikon Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

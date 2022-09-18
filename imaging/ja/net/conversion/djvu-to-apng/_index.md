@@ -18,12 +18,7 @@ description: DJVUからAPNGへのC＃変換のサンプルコード。 VB.NET、
 {{% blocks/products/pf/agp/content h2="C#を使用してDJVUをAPNGに変換する方法" %}}
 
 DJVUをAPNGに変換するには、
-[Aspose.Imaging for .NET]（https://products.aspose.com/imaging/net）
- 機能が豊富で強力で使いやすいC＃プラットフォーム用の画像操作および変換APIであるAPI。開ける
- [NuGet]（https://www.nuget.org/packages/aspose.imaging）
- パッケージマネージャー、検索
- ** Aspose.Imaging **
- とインストールします。パッケージマネージャーコンソールから次のコマンドを使用することもできます。
+[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) 機能が豊富で強力で使いやすいC＃プラットフォーム用の画像操作および変換APIであるAPI。開ける [NuGet](https://www.nuget.org/packages/aspose.imaging) パッケージマネージャー、検索 ** Aspose.Imaging ** とインストールします。パッケージマネージャーコンソールから次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title ="パッケージマネージャーコンソールコマンド" offSpacer = "true"%}}
 
@@ -91,11 +86,11 @@ PM> Install-Package Aspose.Imaging
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
 「déjàvu」と発音されるDjVuは、スキャンされたドキュメントや書籍、特にテキスト、図面、画像、写真の組み合わせを含むものを対象としたグラフィックファイル形式です。 AT＆T研究所によって開発されました。テキストと背景画像の画像レイヤー分離、プログレッシブローディング、算術符号化、非可逆圧縮などの複数の手法を使用します。 DJVUファイルには、圧縮された高品質のカラー画像、写真、テキスト、および図面を含めることができ、より少ないスペースで保存できるため、電子書籍、マニュアル、新聞、古代の文書などとしてWebで使用されます。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
 拡張子が.apng（Animated Portable Network Graphics）のファイルは、ラスターグラフィック形式であり、Portable Network Graphic（PNG）の非公式な拡張子です。アニメーションシーケンスを表す複数のフレーム（各PNG画像）で構成されます。これにより、GIFファイルと同様の視覚化が可能になります。 APNGファイルは24ビット画像と8ビット透明度をサポートしています。 APNGは、アニメーション化されていないGIFファイルと下位互換性があります。 APNGファイルは同じ.png拡張子を使用し、Mozilla Firefox、APNGをサポートするChrome、iOS10用のiMessageアプリなどのアプリケーションで開くことができます。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -129,6 +124,7 @@ PM> Install-Package Aspose.Imaging
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/conversion/djvu-to-tga" name="TGA" description="タルガグラフィック" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/conversion/djvu-to-svgz" name="SVGZ" description="スケーラブルベクターグラフィックス（.SVG）ファイルの圧縮バージョン。" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/conversion/djvu-to-canvas" name="CANVAS" description="HTML5キャンバス" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/conversion/djvu-to-ico" name="ICO" description="Windows アイコン" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -18,10 +18,7 @@ description: Código de exemplo para conversão Java de EPS para SVG. Use o cód
 {{% blocks/products/pf/agp/content h2="Como converter EPS para SVG usando Java" %}}
 
 Para converter EPS em SVG, usaremos
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java)
-API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para plataforma Java. Você pode baixar sua versão mais recente diretamente de
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-e instale-o em seu projeto baseado em Maven adicionando as seguintes configurações ao pom.xml.
+[Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para plataforma Java. Você pode baixar sua versão mais recente diretamente de [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) e instale-o em seu projeto baseado em Maven adicionando as seguintes configurações ao pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -102,11 +99,11 @@ Antes de executar o código de exemplo de conversão, verifique se você tem os 
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação">}}
 Arquivos com extensão EPS descrevem essencialmente um programa de linguagem PostScript encapsulado que descreve a aparência de uma única página. O nome "Encapsulated" porque pode ser incluído ou encapsulado em outra descrição de página de linguagem PostScript. Este formato de arquivo baseado em script pode conter qualquer combinação de texto, gráficos e imagens. Os arquivos EPS podem incluir uma imagem de visualização de bitmap encapsulada para exibição por aplicativos que podem abrir esses arquivos. Os arquivos EPS podem ser convertidos em formatos de imagem padrão, como JPG, PNG, TIFF e PDF usando diferentes aplicativos, por exemplo. Adobe Illustrator, Photoshop e PaintShop Pro. Devido a uma vulnerabilidade de segurança em arquivos EPS, o Office 2016, Office 2013, Office 2010 e Office 365 desativaram a capacidade de inserir arquivos EPS em documentos do Office.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação">}}
 Os arquivos SVG são arquivos gráficos vetoriais escaláveis ​​que usam o formato de texto baseado em XML para descrever a aparência da imagem. A palavra Escalável refere-se ao fato de que o SVG pode ser dimensionado para diferentes tamanhos sem perder qualidade. A descrição baseada em texto desses arquivos os torna independentes da resolução. É um dos formatos mais usados ​​para criar sites e imprimir gráficos para obter escalabilidade. O formato só pode ser usado para gráficos bidimensionais. Os arquivos SVG podem ser visualizados/abertos em quase todos os navegadores modernos, incluindo Chrome, Internet Explorer, Firefox e Safari.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -140,6 +137,7 @@ Os arquivos SVG são arquivos gráficos vetoriais escaláveis ​​que usam o f
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/conversion/eps-to-tga" name="TGA" description="Gráfico Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/conversion/eps-to-svgz" name="SVGZ" description="Versão compactada do arquivo Scalable Vector Graphics (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/conversion/eps-to-canvas" name="CANVAS" description="Tela HTML5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/conversion/eps-to-ico" name="ICO" description="ícone do Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

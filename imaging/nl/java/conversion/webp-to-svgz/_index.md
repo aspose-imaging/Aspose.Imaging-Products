@@ -18,10 +18,7 @@ description: Voorbeeldcode voor WEBP naar SVGZ Java-conversie. Gebruik API-voorb
 {{% blocks/products/pf/agp/content h2="Hoe WEBP naar SVGZ te converteren met Java" %}}
 
 Om WEBP naar SVGZ te converteren, gebruiken we
-[Aspose.Imaging voor Java](https://products.aspose.com/imaging/java)
-API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het Java-platform. U kunt de nieuwste versie rechtstreeks downloaden van
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
+[Aspose.Imaging voor Java](https://products.aspose.com/imaging/java) API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het Java-platform. U kunt de nieuwste versie rechtstreeks downloaden van [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -102,11 +99,11 @@ Voordat u de conversievoorbeeldcode uitvoert, moet u ervoor zorgen dat u aan de 
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
 WebP, geïntroduceerd door Google, is een modern rasterwebafbeeldingsbestandsformaat dat is gebaseerd op lossless en lossy compressie. Het biedt dezelfde beeldkwaliteit terwijl het beeldformaat aanzienlijk wordt verkleind. Aangezien de meeste webpagina's afbeeldingen gebruiken als effectieve weergave van gegevens, resulteert het gebruik van WebP-afbeeldingen in webpagina's in sneller laden van webpagina's. Volgens Google zijn WebP-afbeeldingen zonder verlies 26% kleiner in vergelijking met PNG's, terwijl WebP-afbeeldingen met verlies 25-34% kleiner zijn dan vergelijkbare JPEG-afbeeldingen. Afbeeldingen worden vergeleken op basis van de structurele gelijkenis (SSIM) -index tussen WebP en andere afbeeldingsbestandsindelingen. WebP is een zusterproject van het WebM multimedia containerformaat.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
 Een bestand met de extensie .svgz is een gecomprimeerde versie van het Scalable Vector Graphics-bestand (.SVG). Het is gecomprimeerd met gzip-compressie en bevat gegevens in XML-indeling. SVGZ-bestanden ondersteunen transparantie, verlopen, animaties en filters. SVGZ-bestanden zijn kleiner in vergelijking met de standaard SVG-bestanden en deze kleinere bestandsgrootte helpt de grafische bestanden online over te zetten. Grafisch ontwerper maakt SVGZ-bestanden met tools zoals Adobe Illustrator, Corel PaintShop Pro en andere. SVGZ-bestanden kunnen echter worden gegenereerd door GZip-compressie in de Apache-server in te schakelen terwijl de afbeeldingsgegevens worden verzonden.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -139,6 +136,7 @@ Een bestand met de extensie .svgz is een gecomprimeerde versie van het Scalable 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/conversion/webp-to-tga" name="TGA" description="Targa-afbeelding" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/conversion/webp-to-svgz" name="SVGZ" description="Gecomprimeerde versie van het Scalable Vector Graphics-bestand (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/conversion/webp-to-canvas" name="CANVAS" description="HTML5-canvas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/conversion/webp-to-ico" name="ICO" description="Windows-pictogram" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -18,12 +18,7 @@ description: Exemple de code pour la conversion DJVU vers PNG C#. Utilisez le co
 {{% blocks/products/pf/agp/content h2="Comment convertir DJVU en PNG en utilisant C#" %}}
 
 Afin de convertir DJVU en PNG, nous utiliserons
-[Aspose.Imaging pour .NET](https://products.aspose.com/imaging/net)
- API qui est une API de manipulation et de conversion d'images riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme C #. Ouvrir
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- gestionnaire de paquets, recherchez
- **Aspose.Imaging**
- et installer. Vous pouvez également utiliser la commande suivante à partir de la console du gestionnaire de packages.
+[Aspose.Imaging pour .NET](https://products.aspose.com/imaging/net) API qui est une API de manipulation et de conversion d'images riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme C #. Ouvrir [NuGet](https://www.nuget.org/packages/aspose.imaging) gestionnaire de paquets, recherchez **Aspose.Imaging** et installer. Vous pouvez également utiliser la commande suivante à partir de la console du gestionnaire de packages.
 
 {{% blocks/products/pf/agp/code-block title="Commande de la console du gestionnaire de packages" offSpacer="true" %}}
 
@@ -93,11 +88,11 @@ Avant d'exécuter l'exemple de code de conversion, assurez-vous que vous dispose
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
 DjVu, prononcé comme "déjà vu", est un format de fichier graphique destiné aux documents numérisés et aux livres, en particulier ceux qui contiennent la combinaison de texte, dessins, images et photographies. Il a été développé par AT&T Labs. Il utilise plusieurs techniques telles que la séparation des couches d'image du texte et des images d'arrière-plan, le chargement progressif, le codage arithmétique et la compression avec perte pour les images bitonales. Étant donné que le fichier DJVU peut contenir des images, des photographies, du texte et des dessins en couleur compressés mais de haute qualité et peut donc être enregistré dans moins d'espace, il est utilisé sur le Web sous forme de livres électroniques, de manuels, de journaux, de documents anciens, etc.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
 PNG, Portable Network Graphics, fait référence à un type de format de fichier d'image raster qui utilise une compression sans perte. Ce format de fichier a été créé en remplacement du Graphics Interchange Format (GIF) et n'a aucune limitation de copyright. Cependant, le format de fichier PNG ne prend pas en charge les animations. Le format de fichier PNG prend en charge la compression d'image sans perte, ce qui le rend populaire parmi ses utilisateurs. Au fil du temps, PNG est devenu l'un des formats de fichier image les plus utilisés. Presque tous les systèmes d'exploitation prennent en charge l'ouverture des fichiers PNG. Par exemple, la visionneuse Microsoft Windows a la capacité d'ouvrir les fichiers PNG car le système d'exploitation dispose par défaut de la prise en charge disponible dans le cadre de l'installation.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -131,6 +126,7 @@ PNG, Portable Network Graphics, fait référence à un type de format de fichier
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/net/conversion/djvu-to-tga" name="TGA" description="Graphique Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/net/conversion/djvu-to-svgz" name="SVGZ" description="Version compressée du fichier Scalable Vector Graphics (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/net/conversion/djvu-to-canvas" name="CANVAS" description="Canevas HTML5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/net/conversion/djvu-to-ico" name="ICO" description="Icône Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

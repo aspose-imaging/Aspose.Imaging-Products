@@ -18,12 +18,7 @@ description: Voorbeeldcode voor SVGZ naar PDF C#-conversie. Gebruik API-voorbeel
 {{% blocks/products/pf/agp/content h2="Hoe SVGZ naar PDF te converteren met C#" %}}
 
 Om SVGZ naar PDF te converteren, gebruiken we
-[Aspose.Imaging voor .NET](https://products.aspose.com/imaging/net)
- API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het C#-platform. Open
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- pakketbeheerder, zoek naar
- **Aspose.Imaging**
- en installeren. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
+[Aspose.Imaging voor .NET](https://products.aspose.com/imaging/net) API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het C#-platform. Open [NuGet](https://www.nuget.org/packages/aspose.imaging) pakketbeheerder, zoek naar **Aspose.Imaging** en installeren. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
@@ -91,7 +86,7 @@ Voordat u de conversievoorbeeldcode uitvoert, moet u ervoor zorgen dat u aan de 
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
 Een bestand met de extensie .svgz is een gecomprimeerde versie van het Scalable Vector Graphics-bestand (.SVG). Het is gecomprimeerd met gzip-compressie en bevat gegevens in XML-indeling. SVGZ-bestanden ondersteunen transparantie, verlopen, animaties en filters. SVGZ-bestanden zijn kleiner in vergelijking met de standaard SVG-bestanden en deze kleinere bestandsgrootte helpt de grafische bestanden online over te zetten. Grafisch ontwerper maakt SVGZ-bestanden met tools zoals Adobe Illustrator, Corel PaintShop Pro en andere. SVGZ-bestanden kunnen echter worden gegenereerd door GZip-compressie in de Apache-server in te schakelen terwijl de afbeeldingsgegevens worden verzonden.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -128,6 +123,7 @@ Portable Document Format (PDF) is een type document dat in de jaren negentig doo
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/conversion/svgz-to-tga" name="TGA" description="Targa-afbeelding" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/conversion/svgz-to-svg" name="SVG" description="Schaalbare vectorafbeeldingen" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/conversion/svgz-to-canvas" name="CANVAS" description="HTML5-canvas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/conversion/svgz-to-ico" name="ICO" description="Windows-pictogram" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

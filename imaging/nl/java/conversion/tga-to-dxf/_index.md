@@ -18,10 +18,7 @@ description: Voorbeeldcode voor TGA naar DXF Java-conversie. Gebruik API-voorbee
 {{% blocks/products/pf/agp/content h2="Hoe TGA naar DXF te converteren met Java" %}}
 
 Om TGA naar DXF te converteren, gebruiken we
-[Aspose.Imaging voor Java](https://products.aspose.com/imaging/java)
-API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het Java-platform. U kunt de nieuwste versie rechtstreeks downloaden van
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
+[Aspose.Imaging voor Java](https://products.aspose.com/imaging/java) API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het Java-platform. U kunt de nieuwste versie rechtstreeks downloaden van [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -102,7 +99,7 @@ Voordat u de conversievoorbeeldcode uitvoert, moet u ervoor zorgen dat u aan de 
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
 Truevision TGA, vaak TARGA genoemd, is een bestandsindeling voor rasterafbeeldingen die is gemaakt door Truevision Inc. (nu onderdeel van Avid Technology). Het was het oorspronkelijke formaat van TARGA- en VISTA-kaarten, de eerste grafische kaarten voor IBM-compatibele pc's die Highcolor/truecolor-weergave ondersteunen.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -139,6 +136,7 @@ DXF, Drawing Interchange Format, of Drawing Exchange Format, is een gelabelde ge
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/conversion/tga-to-wmz" name="WMZ" description="Gecomprimeerde Windows Media Player-skin" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/conversion/tga-to-svgz" name="SVGZ" description="Gecomprimeerde versie van het Scalable Vector Graphics-bestand (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/conversion/tga-to-canvas" name="CANVAS" description="HTML5-canvas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/conversion/tga-to-ico" name="ICO" description="Windows-pictogram" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

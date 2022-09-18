@@ -18,10 +18,7 @@ description: Codice di esempio per la conversione Java da DICOM a BMP. Utilizzar
 {{% blocks/products/pf/agp/content h2="Come convertire DICOM in BMP utilizzando Java" %}}
 
 Per convertire DICOM in BMP, useremo
-[Aspose.Imaging per Java](https://products.aspose.com/imaging/java)
-API che è un'API di conversione e manipolazione delle immagini ricca di funzionalità, potente e facile da usare per la piattaforma Java. Puoi scaricare la sua ultima versione direttamente da
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
+[Aspose.Imaging per Java](https://products.aspose.com/imaging/java) API che è un'API di conversione e manipolazione delle immagini ricca di funzionalità, potente e facile da usare per la piattaforma Java. Puoi scaricare la sua ultima versione direttamente da [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -102,11 +99,11 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
 DICOM è l'acronimo di Digital Imaging and Communications in Medicine e appartiene al campo dell'informatica medica. DICOM è la combinazione di definizione del formato file e protocollo di comunicazione di rete. DICOM utilizza l'estensione .DCM. .DCM esiste in due diversi formati, ovvero il formato 1.x e il formato 2.x. DCM Format 1.x è inoltre disponibile in due versioni normale ed estesa. DICOM viene utilizzato per l'integrazione di dispositivi di imaging medico come stampanti, server, scanner, ecc. di vari fornitori e contiene anche i dati di identificazione di ciascun paziente per l'unicità. I file DICOM possono essere condivisi tra due parti se sono in grado di ricevere dati di immagine in formato DICOM. La parte di comunicazione di DICOM è il protocollo del livello dell'applicazione e utilizza TCP/IP per comunicare tra entità. I protocolli HTTP e HTTPS vengono utilizzati per i servizi Web di DICOM. Le versioni supportate dai servizi Web sono 1.0, 1.1, 2 o successive.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
 I file con estensione .BMP rappresentano file di immagine bitmap che vengono utilizzati per memorizzare immagini digitali bitmap. Queste immagini sono indipendenti dalla scheda grafica e sono anche chiamate formato file DIB (Device Independent Bitmap). Questa indipendenza serve allo scopo di aprire il file su più piattaforme come Microsoft Windows e Mac. Il formato file BMP può memorizzare dati come immagini digitali bidimensionali sia in formato monocromatico che a colori con varie profondità di colore.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -139,6 +136,7 @@ I file con estensione .BMP rappresentano file di immagine bitmap che vengono uti
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/conversion/dicom-to-tga" name="TGA" description="Grafica Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/conversion/dicom-to-svgz" name="SVGZ" description="Versione compressa del file Scalable Vector Graphics (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/conversion/dicom-to-canvas" name="CANVAS" description="Tela HTML5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/conversion/dicom-to-ico" name="ICO" description="Icona di Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -18,12 +18,7 @@ description: Mã mẫu cho chuyển đổi JPEG sang SVGZ C #. Sử dụng mã m
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi JPEG thành SVGZ bằng C#" %}}
 
 Để chuyển đổi JPEG thành SVGZ, chúng tôi sẽ sử dụng
-[Aspose.Imaging cho .NET] (https://products.aspose.com/imaging/net)
- API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C #. Mở
- [NuGet] (https://www.nuget.org/packages/aspose.imaging)
- quản lý gói, tìm kiếm
- ** Aspose.Imaging **
- và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển Trình quản lý Gói.
+[Aspose.Imaging cho .NET] (https://products.aspose.com/imaging/net) API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C #. Mở [NuGet] (https://www.nuget.org/packages/aspose.imaging) quản lý gói, tìm kiếm ** Aspose.Imaging ** và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển Trình quản lý Gói.
 
 {{% blocks/products/pf/agp/code-block title = "Lệnh Bảng điều khiển Trình quản lý Gói" offSpacer = "true"%}}
 
@@ -91,11 +86,11 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
 JPEG là một loại định dạng hình ảnh được lưu bằng phương pháp nén mất dữ liệu. Hình ảnh đầu ra, là kết quả của quá trình nén, là sự cân bằng giữa kích thước lưu trữ và chất lượng hình ảnh. Người dùng có thể điều chỉnh mức độ nén để đạt được mức chất lượng mong muốn đồng thời giảm dung lượng lưu trữ. Chất lượng hình ảnh bị ảnh hưởng đáng kể nếu áp dụng nén 10: 1 cho hình ảnh. Giá trị nén càng cao thì chất lượng ảnh càng giảm.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
 Tệp có phần mở rộng .svgz là phiên bản nén của tệp Đồ họa Vectơ có thể mở rộng (.SVG). Nó được nén bằng nén gzip và chứa dữ liệu ở định dạng XML. Các tệp SVGZ hỗ trợ độ trong suốt, độ dốc, hoạt ảnh và bộ lọc. Các tệp SVGZ có kích thước nhỏ hơn so với các tệp SVG mặc định và kích thước tệp giảm này giúp chuyển các tệp đồ họa trực tuyến. Nhà thiết kế đồ họa tạo các tệp SVGZ bằng các công cụ như Adobe Illustrator, Corel PaintShop Pro và các công cụ khác. Tuy nhiên, tệp SVGZ có thể được tạo bằng cách bật tính năng nén GZip trong Máy chủ Apache trong khi gửi dữ liệu hình ảnh.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -127,6 +122,7 @@ Tệp có phần mở rộng .svgz là phiên bản nén của tệp Đồ họa
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/conversion/jpeg-to-tga" name="TGA" description="Đồ họa Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/conversion/jpeg-to-svgz" name="SVGZ" description="Phiên bản nén của tệp Đồ họa Vectơ có thể mở rộng (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/conversion/jpeg-to-canvas" name="CANVAS" description="HTML5 Canvas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/conversion/jpeg-to-ico" name="ICO" description="Biểu tượng Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -18,12 +18,7 @@ description: DICOM - JP2 C# dönüşümü için örnek kod. VB.NET, Asp.NET veya
 {{% blocks/products/pf/agp/content h2="C# Kullanarak DICOM'i JP2'ye Dönüştürme" %}}
 
 DICOM'i JP2'ye dönüştürmek için kullanacağız
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. Açık
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- paket yöneticisi, ara
- **Aspose.Görüntüleme**
- ve yükleyin. Paket Yöneticisi Konsolundan aşağıdaki komutu da kullanabilirsiniz.
+[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. Açık [NuGet](https://www.nuget.org/packages/aspose.imaging) paket yöneticisi, ara **Aspose.Görüntüleme** ve yükleyin. Paket Yöneticisi Konsolundan aşağıdaki komutu da kullanabilirsiniz.
 
 {{%blocks/products/pf/agp/code-block title="Paket Yöneticisi Konsol Komutu" offSpacer="true" %}}
 
@@ -91,11 +86,11 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
 DICOM, Tıpta Dijital Görüntüleme ve İletişimin kısaltmasıdır ve Tıp Bilişimi alanıyla ilgilidir. DICOM, dosya formatı tanımı ve bir ağ iletişim protokolünün birleşimidir. DICOM, .DCM uzantısını kullanır. .DCM, 1.x biçimi ve 2.x biçimi olmak üzere iki farklı biçimde bulunur. DCM Format 1.x ayrıca normal ve genişletilmiş iki versiyonda mevcuttur. DICOM, çeşitli satıcılara ait yazıcılar, sunucular, tarayıcılar vb. tıbbi görüntüleme cihazlarının entegrasyonu için kullanılır ve ayrıca benzersizlik için her hastanın kimlik verilerini içerir. DICOM dosyaları, DICOM formatında görüntü verilerini alabiliyorlarsa, iki taraf arasında paylaşılabilir. DICOM'un iletişim kısmı, uygulama katmanı protokolüdür ve varlıklar arasında iletişim kurmak için TCP/IP kullanır. DICOM'un web hizmetleri için HTTP ve HTTPS protokolleri kullanılır. Web servisleri tarafından desteklenen sürümler 1.0, 1.1, 2 veya üstüdür.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
 JPEG 2000 (JP2), bir görüntü kodlama sistemi ve son teknoloji görüntü sıkıştırma standardıdır. Dalgacık teknolojisi kullanılarak tasarlanan JPEG 2000, kayıpsız içeriği herhangi bir kalitede bir kerede kodlayabilir. Ayrıca, kodlama verimliliğinde önemli bir ceza olmaksızın, JPEG 2000, aynı içeriğe etkili bir şekilde çeşitli diğer çözünürlük ve niteliklere erişme ve kodunu çözme yeteneğine sahiptir. JPEG 2000'deki kod akışları, uzamsal rasgele erişim olanağı sağlayan ilgi bölgelerine sahip olarak önemli ölçüde ölçeklenebilir. Terapixels'deki boyutları ve 38 bit/numune kadar yüksek hassasiyete sahip 16384'e kadar farklı bileşene sahip olma.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -128,6 +123,7 @@ JPEG 2000 (JP2), bir görüntü kodlama sistemi ve son teknoloji görüntü sık
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/conversion/dicom-to-tga" name="TGA" description="Targa Grafiği" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/conversion/dicom-to-svgz" name="SVGZ" description="Ölçeklenebilir Vektör Grafikleri (.SVG) dosyasının sıkıştırılmış sürümü." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/conversion/dicom-to-canvas" name="CANVAS" description="HTML5 Tuval" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/conversion/dicom-to-ico" name="ICO" description="Windows simgesi" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

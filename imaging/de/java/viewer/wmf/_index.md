@@ -17,10 +17,7 @@ description: Testen Sie unsere On-Premise-Dokument-APIs zum Anzeigen von WMF-Dat
 {{% blocks/products/pf/agp/content h2="Anzeigen von WMF-Bildern mit Java" %}}
 
 Um WMF-Dateien anzuzeigen, verwenden wir
-[Aspose.Imaging für Java](https://products.aspose.com/imaging/java)
-API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Bildbearbeitungs- und Konvertierungs-API für die Java-Plattform ist. Sie können die neueste Version direkt von herunterladen
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
+[Aspose.Imaging für Java](https://products.aspose.com/imaging/java) API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Bildbearbeitungs- und Konvertierungs-API für die Java Plattform ist. Sie können die neueste Version direkt von herunterladen [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -55,9 +52,7 @@ und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml 
 
 {{% blocks/products/pf/agp/text %}}
 
-Du brauchst die
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java)
- um den folgenden Workflow in Ihrer eigenen Umgebung auszuprobieren.
+Du brauchst die [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) um den folgenden Workflow in Ihrer eigenen Umgebung auszuprobieren.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -111,7 +106,7 @@ Aspose.Imaging API ist eine Bildverarbeitungslösung zum Erstellen, Ändern, Zei
         checkFreeAppLabel="Sehen Sie sich unsere [Live-Demos zum Anzeigen von WMF](https://products.aspose.app/imaging/de/image-view/WMF)">}}
 
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen" >}}
 Dateien mit der Erweiterung WMF stellen Microsoft Windows Metafile (WMF) zum Speichern von Bilddaten im Vektor- und Bitmap-Format dar. Genauer gesagt gehört WMF zur Kategorie der Vektordateiformate der Grafikdateiformate, die geräteunabhängig ist. Windows Graphical Device Interface (GDI) verwendet die in einer WMF-Datei gespeicherten Funktionen, um ein Bild auf dem Bildschirm anzuzeigen. Eine erweiterte Version von WMF, bekannt als Enhanced Meta Files (EMF), wurde später veröffentlicht, wodurch das Format funktionsreicher wird. In der Praxis ähneln WMF SVG.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -123,6 +118,7 @@ Dateien mit der Erweiterung WMF stellen Microsoft Windows Metafile (WMF) zum Spe
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/viewer/apng" name="APNG" description="Animierte tragbare Netzwerkgrafiken" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/viewer/bmp" name="BMP" description="Bitmap-Bild" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/viewer/ico" name="ICO" description="Windows-Symbol" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/viewer/jpg" name="JPG" description="Gemeinsame fotografische Expertengruppe" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/viewer/jpeg" name="JPEG" description="Gemeinsame fotografische Expertengruppe" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/viewer/dib" name="DIB" description="Geräteunabhängige Bitmap" >}}

@@ -17,12 +17,7 @@ description: Probeer onze On-Premise document-API's om GIF-bestanden te bekijken
 {{% blocks/products/pf/agp/content h2="GIF afbeeldingen bekijken met C#" %}}
 
 Om GIF-bestanden te bekijken, gebruiken we
-[Aspose.Imaging voor .NET](https://products.aspose.com/imaging/net)
- API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het C#-platform. Open
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- pakketbeheerder, zoek naar
- **Aspose.Imaging**
- en installeren. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
+[Aspose.Imaging voor .NET](https://products.aspose.com/imaging/net) API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het C#-platform. Open [NuGet](https://www.nuget.org/packages/aspose.imaging) pakketbeheerder, zoek naar **Aspose.Imaging** en installeren. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
@@ -42,9 +37,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-Je hebt de nodig
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- om de volgende workflow in uw eigen omgeving te proberen.
+Je hebt de nodig [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) om de volgende workflow in uw eigen omgeving te proberen.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -100,7 +93,7 @@ Aspose.Imaging API is een beeldverwerkingsoplossing voor het maken, wijzigen, te
         checkFreeAppLabel="Bekijk onze [live demo's om GIF](https://products.aspose.app/imaging/nl/image-view/GIF)">}}
 
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder" >}}
 Een GIF of Graphical Interchange Format is een type sterk gecomprimeerde afbeelding. GIF, eigendom van Unisys, gebruikt het LZW-compressie-algoritme dat de beeldkwaliteit niet verslechtert. Voor elke afbeelding staat GIF doorgaans tot 8 bits per pixel toe en tot 256 kleuren over de afbeelding. In tegenstelling tot een JPEG-afbeelding, die tot 16 miljoen kleuren kan weergeven en redelijk de grenzen van het menselijk oog raakt. Toen het internet opkwam, bleven GIF's de beste keuze omdat ze een lage bandbreedte nodig hadden en compatibel waren voor de afbeeldingen die effen kleurvlakken verbruiken. Een geanimeerde GIF combineert een groot aantal afbeeldingen of frames in een enkel bestand en geeft ze in een volgorde weer om een ​​geanimeerde clip of een korte video te genereren. De kleurbeperkingen zijn tot 256 voor elk frame en zijn waarschijnlijk het minst geschikt voor het reproduceren van andere afbeeldingen en foto's met kleurverloop.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -112,6 +105,7 @@ Een GIF of Graphical Interchange Format is een type sterk gecomprimeerde afbeeld
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/viewer/apng" name="APNG" description="Geanimeerde draagbare netwerkgraphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/viewer/bmp" name="BMP" description="Bitmapafbeelding" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/viewer/ico" name="ICO" description="Windows-pictogram" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/viewer/jpg" name="JPG" description="Joint Photographic Experts Group" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/viewer/jpeg" name="JPEG" description="Joint Photographic Experts Group" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/viewer/dib" name="DIB" description="Apparaatonafhankelijke bitmap" >}}

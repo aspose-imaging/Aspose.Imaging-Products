@@ -17,12 +17,8 @@ description: Testen Sie unsere On-Premise-Dokument-APIs zum Anzeigen von GIF-Dat
 {{% blocks/products/pf/agp/content h2="Anzeigen von GIF-Bildern mit C#" %}}
 
 Um GIF-Dateien anzuzeigen, verwenden wir
-[Aspose.Imaging für .NET](https://products.aspose.com/imaging/net)
- API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Bildbearbeitungs- und Konvertierungs-API für die C#-Plattform ist. Offen
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- Paketmanager, suche nach
- **Aspose.Imaging**
- und installieren. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden.
+[Aspose.Imaging für .NET](https://products.aspose.com/imaging/net) API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Bildbearbeitungs- und Konvertierungs-API für die C#-Plattform ist. Offen [NuGet](https://www.nuget.org/packages/aspose.imaging) Paketmanager, suche nach
+ **Aspose.Imaging** und installieren. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
@@ -42,9 +38,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-Du brauchst die
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- um den folgenden Workflow in Ihrer eigenen Umgebung auszuprobieren.
+Du brauchst die [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) um den folgenden Workflow in Ihrer eigenen Umgebung auszuprobieren.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -100,7 +94,7 @@ Aspose.Imaging API ist eine Bildverarbeitungslösung zum Erstellen, Ändern, Zei
         checkFreeAppLabel="Sehen Sie sich unsere [Live-Demos zum Anzeigen von GIF](https://products.aspose.app/imaging/de/image-view/GIF)">}}
 
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen" >}}
 Ein GIF oder Graphical Interchange Format ist eine Art stark komprimiertes Bild. GIF gehört Unisys und verwendet den LZW-Komprimierungsalgorithmus, der die Bildqualität nicht beeinträchtigt. Für jedes Bild sind in GIF normalerweise bis zu 8 Bit pro Pixel und bis zu 256 Farben im gesamten Bild zulässig. Im Gegensatz zu einem JPEG-Bild, das bis zu 16 Millionen Farben darstellen kann und ziemlich an die Grenzen des menschlichen Auges stößt. Als das Internet aufkam, blieben GIFs die beste Wahl, da sie eine geringe Bandbreite erforderten und für die Grafiken kompatibel waren, die Volltonbereiche verbrauchen. Ein animiertes GIF kombiniert zahlreiche Bilder oder Frames in einer einzigen Datei und zeigt sie in einer Sequenz an, um einen animierten Clip oder ein kurzes Video zu erstellen. Die Farbbeschränkungen betragen bis zu 256 für jedes Bild und sind wahrscheinlich am wenigsten geeignet, um andere Bilder und Fotos mit Farbverlauf zu reproduzieren.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -112,6 +106,7 @@ Ein GIF oder Graphical Interchange Format ist eine Art stark komprimiertes Bild.
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/viewer/apng" name="APNG" description="Animierte tragbare Netzwerkgrafiken" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/viewer/bmp" name="BMP" description="Bitmap-Bild" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/viewer/ico" name="ICO" description="Windows-Symbol" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/viewer/jpg" name="JPG" description="Gemeinsame fotografische Expertengruppe" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/viewer/jpeg" name="JPEG" description="Gemeinsame fotografische Expertengruppe" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/viewer/dib" name="DIB" description="Geräteunabhängige Bitmap" >}}

@@ -17,12 +17,7 @@ description: Experimente nossas APIs de documentos no local para exibir arquivos
 {{% blocks/products/pf/agp/content h2="Como visualizar imagens PNG usando C#" %}}
 
 Para visualizar arquivos PNG, usaremos
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- gerenciador de pacotes, procure por
- **Aspose.Imagem**
- e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
+[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir [NuGet](https://www.nuget.org/packages/aspose.imaging) gerenciador de pacotes, procure por **Aspose.Imagem** e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
 
 {{% blocks/products/pf/agp/code-block title="Comando do Console do Gerenciador de Pacotes" offSpacer="true" %}}
 
@@ -44,9 +39,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-Você precisa do
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- para experimentar o fluxo de trabalho a seguir em seu próprio ambiente.
+Você precisa do [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) para experimentar o fluxo de trabalho a seguir em seu próprio ambiente.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -102,7 +95,7 @@ Aspose.Imaging API é uma solução de processamento de imagens para criar, modi
         checkFreeAppLabel="Confira nossas [demonstrações ao vivo para ver PNG](https://products.aspose.app/imaging/pt/image-view/PNG)">}}
 
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação" >}}
 PNG, Portable Network Graphics, refere-se a um tipo de formato de arquivo de imagem raster que usa compactação sem perdas. Este formato de arquivo foi criado como uma substituição do Graphics Interchange Format (GIF) e não possui limitações de direitos autorais. No entanto, o formato de arquivo PNG não suporta animações. O formato de arquivo PNG suporta compressão de imagem sem perdas que o torna popular entre seus usuários. Com o passar do tempo, o PNG evoluiu como um dos formatos de arquivo de imagem mais usados. Quase todos os sistemas operacionais têm suporte para abrir arquivos PNG. Por exemplo, o visualizador do Microsoft Windows tem a capacidade de abrir arquivos PNG, pois o sistema operacional tem, por padrão, o suporte disponível como parte da instalação.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -114,6 +107,7 @@ PNG, Portable Network Graphics, refere-se a um tipo de formato de arquivo de ima
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/viewer/apng" name="APNG" description="Gráficos de rede portátil animados" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/viewer/bmp" name="BMP" description="Imagem de bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/viewer/ico" name="ICO" description="ícone do Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/viewer/jpg" name="JPG" description="Grupo Conjunto de Especialistas em Fotografia" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/viewer/jpeg" name="JPEG" description="Grupo Conjunto de Especialistas em Fotografia" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/viewer/dib" name="DIB" description="Bitmap independente de dispositivo" >}}

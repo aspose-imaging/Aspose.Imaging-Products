@@ -18,12 +18,7 @@ description: C# konvertavimo iš CMX į CANVAS pavyzdinis kodas. Naudokite API p
 {{% blocks/products/pf/agp/content h2="Kaip konvertuoti CMX į CANVAS naudojant C#" %}}
 
 Norėdami konvertuoti CMX į CANVAS, naudosime
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta C# platformai. Atviras
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- paketų tvarkyklė, ieškokite
- **Aspose.Imaging**
- ir įdiegti. Taip pat galite naudoti šią komandą iš paketų tvarkyklės konsolės.
+[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta C# platformai. Atviras [NuGet](https://www.nuget.org/packages/aspose.imaging) paketų tvarkyklė, ieškokite **Aspose.Imaging** ir įdiegti. Taip pat galite naudoti šią komandą iš paketų tvarkyklės konsolės.
 
 {{% blocks/products/pf/agp/code-block title="Paketų tvarkytuvės konsolės komanda" offSpacer="true" %}}
 
@@ -91,7 +86,7 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
 Failai su CMX plėtiniu yra „Corel Exchange“ vaizdo failo formatas, naudojamas „CorelSuite“ programose kaip pristatymas. Jame yra vaizdo duomenys kaip vektorinė grafika, taip pat metaduomenys, apibūdinantys vaizdą. CMX failus galima atidaryti naudojant „CorelDraw“, „Corel Presentations“, „Paint Shop Pro“ ir kai kurias „Adobe Illustrator“ versijas.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -129,6 +124,7 @@ HTML (Hyper Text Markup Language) yra tinklalapių plėtinys, sukurtas rodyti na
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/conversion/cmx-to-tga" name="TGA" description="Targa grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/conversion/cmx-to-svgz" name="SVGZ" description="Suglaudinta Scalable Vector Graphics (.SVG) failo versija." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/conversion/cmx-to-canvas" name="CANVAS" description="HTML5 drobė" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/conversion/cmx-to-ico" name="ICO" description="Windows piktograma" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

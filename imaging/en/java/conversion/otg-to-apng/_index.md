@@ -18,10 +18,7 @@ description: Sample code for OTG to APNG Java conversion. Use API example code f
 {{% blocks/products/pf/agp/content h2="How to Convert OTG to APNG Using Java" %}}
 
 In order to convert OTG to APNG, we’ll use
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java) 
-API which is a feature-rich, powerful and easy to use image manipulation and conversion API for Java platform. You can download its latest version directly from
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 
-and install it within your Maven-based project by adding the following configurations to the pom.xml.
+[Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API which is a feature-rich, powerful and easy to use image manipulation and conversion API for Java platform. You can download its latest version directly from [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) and install it within your Maven-based project by adding the following configurations to the pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -102,11 +99,11 @@ Before running the conversion example code, make sure that you have the followin
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg" whatIsFormat1="What is" whatIsFormat2="File Format" readMoreFormat="Read More">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="What is" whatIsFormat2="File Format" readMoreFormat="Read More">}}
 An OTG file is a drawing template that is created using the OpenDocument standard that follows the OASIS Office Applications 1.0 specification. It represents the default organization of drawing elements for a vector image that can be used to further enhance the contents of the file.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng" whatIsFormat1="What is" whatIsFormat2="File Format" readMoreFormat="Read More">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="What is" whatIsFormat2="File Format" readMoreFormat="Read More">}}
 A file with .apng (Animated Portable Network Graphics) extension is a raster graphic format and is an unofficial extension to the Portable Network Graphic (PNG ). It comprises of multiple frames (each of PNG image) that represents an animation sequence. This gives similar visualization as a GIF file. APNG files support 24-bit images and 8-bit transparency. APNG is backward compatible with non-animated GIF files. APNG files use the same .png extension and can be opened by applications such as Mozilla Firefox, Chrome with APNG support, iMessage apps for iOS 10.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -140,6 +137,7 @@ A file with .apng (Animated Portable Network Graphics) extension is a raster gra
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/java/conversion/otg-to-tga" name="TGA" description="Targa Graphic" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/java/conversion/otg-to-svgz" name="SVGZ" description="Compressed version of Scalable Vector Graphics (.SVG) file." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/java/conversion/otg-to-canvas" name="CANVAS" description="HTML5 Canvas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/java/conversion/otg-to-ico" name="ICO" description="Windows icon" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

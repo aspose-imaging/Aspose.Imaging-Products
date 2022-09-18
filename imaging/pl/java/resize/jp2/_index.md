@@ -16,11 +16,7 @@ description: Wypróbuj nasze lokalne interfejsy API dokumentów, aby scalić pli
 
 {{% blocks/products/pf/agp/content h2="Jak zmienić rozmiar plików JP2 za pomocą Java" %}}
 
-Aby zmienić rozmiar plików JP2, użyjemy
-[Aspose.Imaging dla Javy](https://products.aspose.com/imaging/java)
-API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do obróbki i konwersji obrazów dla platformy Java. Możesz pobrać jego najnowszą wersję bezpośrednio z
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-i zainstaluj go w swoim projekcie opartym na Maven, dodając następujące konfiguracje do pom.xml.
+Aby zmienić rozmiar plików JP2, użyjemy [Aspose.Imaging dla Javy](https://products.aspose.com/imaging/java) API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do obróbki i konwersji obrazów dla platformy Java. Możesz pobrać jego najnowszą wersję bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) i zainstaluj go w swoim projekcie opartym na Maven, dodając następujące konfiguracje do pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repozytorium" offSpacer="true" %}}
 
@@ -55,9 +51,7 @@ i zainstaluj go w swoim projekcie opartym na Maven, dodając następujące konfi
 
 {{% blocks/products/pf/agp/text %}}
 
-Potrzebujesz
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java)
- aby wypróbować następujący przepływ pracy we własnym środowisku.
+Potrzebujesz [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) aby wypróbować następujący przepływ pracy we własnym środowisku.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +102,7 @@ Aspose.Imaging API to rozwiązanie do przetwarzania obrazów do tworzenia, modyf
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Po prostu prześlij swoje pliki JP2 i naciśnij przycisk „Zmień rozmiar”" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Natychmiast uzyskaj link do pobrania pliku wynikowego" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej" >}}
 JPEG 2000 (JP2) to system kodowania obrazu i najnowocześniejszy standard kompresji obrazu. Zaprojektowany przy użyciu technologii wavelet JPEG 2000 może kodować bezstratne treści w dowolnej jakości na raz. Co więcej, bez znaczącej utraty wydajności kodowania, JPEG 2000 ma możliwość dostępu i efektywnego dekodowania tej samej treści w różnych innych rozdzielczościach i jakościach. Strumienie kodu w JPEG 2000 są znacznie skalowalne, posiadając obszary zainteresowania, które zapewniają możliwość przestrzennego dostępu losowego. Posiada do 16384 różnych komponentów o wymiarach w terapikselach i precyzji, która może sięgać nawet 38 bitów na próbkę.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -120,6 +114,7 @@ JPEG 2000 (JP2) to system kodowania obrazu i najnowocześniejszy standard kompre
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/resize/apng" name="APNG" description="Animowana przenośna grafika sieciowa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/resize/bmp" name="BMP" description="Obraz bitmapowy" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/resize/ico" name="ICO" description="Ikona Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/resize/jpg" name="JPG" description="Wspólna Grupa Ekspertów Fotograficznych" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/resize/cdr" name="CDR" description="Obraz rysunku wektorowego" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/resize/cmx" name="CMX" description="Obraz wymiany firmy Corel" >}}

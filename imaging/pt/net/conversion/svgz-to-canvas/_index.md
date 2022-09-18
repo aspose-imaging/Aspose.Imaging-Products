@@ -18,12 +18,7 @@ description: Código de exemplo para conversão de C# SVGZ para CANVAS. Use o c�
 {{% blocks/products/pf/agp/content h2="Como converter SVGZ para CANVAS usando C#" %}}
 
 Para converter SVGZ em CANVAS, usaremos
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- gerenciador de pacotes, procure por
- **Aspose.Imagem**
- e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
+[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir [NuGet](https://www.nuget.org/packages/aspose.imaging) gerenciador de pacotes, procure por **Aspose.Imagem** e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
 
 {{% blocks/products/pf/agp/code-block title="Comando do Console do Gerenciador de Pacotes" offSpacer="true" %}}
 
@@ -93,7 +88,7 @@ Antes de executar o código de exemplo de conversão, verifique se você tem os 
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação">}}
 Um arquivo com extensão .svgz é uma versão compactada do arquivo Scalable Vector Graphics (.SVG). Ele é compactado com compactação gzip e contém dados em formato XML. Os arquivos SVGZ suportam transparência, gradientes, animações e filtros. Os arquivos SVGZ são menores em tamanho em comparação com os arquivos SVG padrão e esse tamanho de arquivo reduzido ajuda a transferir os arquivos gráficos online. O designer gráfico cria arquivos SVGZ usando ferramentas como Adobe Illustrator, Corel PaintShop Pro e outras. No entanto, os arquivos SVGZ podem ser gerados ativando a compactação GZip no Apache Server ao enviar os dados da imagem.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -130,6 +125,7 @@ HTML (Hyper Text Markup Language) é a extensão para páginas da web criadas pa
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/conversion/svgz-to-tga" name="TGA" description="Gráfico Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/conversion/svgz-to-svg" name="SVG" description="Gráficos vetoriais escalonáveis" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/conversion/svgz-to-canvas" name="CANVAS" description="Tela HTML5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/conversion/svgz-to-ico" name="ICO" description="ícone do Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

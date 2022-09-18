@@ -18,12 +18,7 @@ description: Voorbeeldcode voor ODG naar APNG C#-conversie. Gebruik API-voorbeel
 {{% blocks/products/pf/agp/content h2="Hoe ODG naar APNG te converteren met C#" %}}
 
 Om ODG naar APNG te converteren, gebruiken we
-[Aspose.Imaging voor .NET](https://products.aspose.com/imaging/net)
- API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het C#-platform. Open
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- pakketbeheerder, zoek naar
- **Aspose.Imaging**
- en installeren. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
+[Aspose.Imaging voor .NET](https://products.aspose.com/imaging/net) API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het C#-platform. Open [NuGet](https://www.nuget.org/packages/aspose.imaging) pakketbeheerder, zoek naar **Aspose.Imaging** en installeren. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
@@ -91,11 +86,11 @@ Voordat u de conversievoorbeeldcode uitvoert, moet u ervoor zorgen dat u aan de 
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
 Het ODG-bestandsformaat wordt gebruikt door Apache OpenOffice's Draw-toepassing om tekenelementen als vectorafbeelding op te slaan. Het volgt de op XML gebaseerde specificaties voor bestandsindelingen zoals uiteengezet door Advancement of Structural Information Standards (OASIS). ODG geeft tekeningen weer als vectorafbeeldingen met punten, lijnen en krommen. Naast OpenOffice bieden LibreOffice en andere toepassingen ook ondersteuning voor het werken met het ODG-bestandsformaat. Andere formaten die door OpenOffice worden ondersteund, zijn bijvoorbeeld ODT, ODF, ODP en ODS.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
 Een bestand met de extensie .apng (Animated Portable Network Graphics) is een grafische rasterindeling en is een niet-officiële extensie van Portable Network Graphic (PNG). Het bestaat uit meerdere frames (elk PNG-afbeelding) die een animatiereeks vertegenwoordigt. Dit geeft een vergelijkbare visualisatie als een GIF-bestand. APNG-bestanden ondersteunen 24-bits afbeeldingen en 8-bits transparantie. APNG is achterwaarts compatibel met niet-geanimeerde GIF-bestanden. APNG-bestanden gebruiken dezelfde .png-extensie en kunnen worden geopend door toepassingen zoals Mozilla Firefox, Chrome met APNG-ondersteuning, iMessage-apps voor iOS 10.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -129,6 +124,7 @@ Een bestand met de extensie .apng (Animated Portable Network Graphics) is een gr
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/conversion/odg-to-tga" name="TGA" description="Targa-afbeelding" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/conversion/odg-to-svgz" name="SVGZ" description="Gecomprimeerde versie van het Scalable Vector Graphics-bestand (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/conversion/odg-to-canvas" name="CANVAS" description="HTML5-canvas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/conversion/odg-to-ico" name="ICO" description="Windows-pictogram" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

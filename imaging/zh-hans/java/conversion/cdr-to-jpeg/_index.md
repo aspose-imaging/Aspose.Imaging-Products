@@ -18,9 +18,7 @@ description: Sample code for CDR to JPEG Java conversion. Use API example code f
 {{% blocks/products/pf/agp/content h2="如何使用 Java 将 CDR 转换为 JPEG" %}}
 
 为了将 CDR 转换为 JPEG，我们将使用
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java)
-API 是一个功能丰富、功能强大且易于使用的 Java 平台图像处理和转换 API。您可以直接从
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
+[Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一个功能丰富、功能强大 易于使用的 Java 平台图像处理和转换 API。您可以直接从 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
 并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
@@ -102,11 +100,11 @@ API 是一个功能丰富、功能强大且易于使用的 Java 平台图像处�
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
 CDR 文件是使用 CorelDRAW 本地创建的矢量绘图图像文件，用于存储编码和压缩的数字图像。这样的绘图文件包含文本、线条、形状、图像、颜色和效果，用于图像内容的矢量表示。 CDR 文件可以使用 CorelDRAW 作为主要应用程序打开，也可以转换为其他格式，例如 PDF、JPG、PNG、BMP 和 AI。它可用于表示各种图形数据，如小册子、小报、信封和明信片。除了 CorelDRAW，Corel Paintshop Pro 和 CorelDRAW Graphics Suite 等其他 Corel 产品也可以打开 CDR 文件格式。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
 JPEG 是一种使用有损压缩方法保存的图像格式。作为压缩的结果，输出图像是存储大小和图像质量之间的权衡。用户可以调整压缩级别以达到所需的质量级别，同时减小存储大小。如果对图像应用 10:1 压缩，则对图像质量的影响可以忽略不计。压缩值越高，图像质量的劣化程度越高。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -140,6 +138,7 @@ JPEG 是一种使用有损压缩方法保存的图像格式。作为压缩的结
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/conversion/cdr-to-tga" name="TGA" description="塔加图形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/conversion/cdr-to-svgz" name="SVGZ" description="可缩放矢量图形 (.SVG) 文件的压缩版本。" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/conversion/cdr-to-canvas" name="CANVAS" description="HTML5 画布" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/conversion/cdr-to-ico" name="ICO" description="窗口图标" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

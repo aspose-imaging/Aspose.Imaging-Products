@@ -17,12 +17,7 @@ description: Experimente nossas APIs de documentos no local para exibir arquivos
 {{% blocks/products/pf/agp/content h2="Como visualizar imagens BMP usando C#" %}}
 
 Para visualizar arquivos BMP, usaremos
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- gerenciador de pacotes, procure por
- **Aspose.Imagem**
- e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
+[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir [NuGet](https://www.nuget.org/packages/aspose.imaging) gerenciador de pacotes, procure por **Aspose.Imagem** e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
 
 {{% blocks/products/pf/agp/code-block title="Comando do Console do Gerenciador de Pacotes" offSpacer="true" %}}
 
@@ -44,9 +39,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-Você precisa do
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- para experimentar o fluxo de trabalho a seguir em seu próprio ambiente.
+Você precisa do [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) para experimentar o fluxo de trabalho a seguir em seu próprio ambiente.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -102,7 +95,7 @@ Aspose.Imaging API é uma solução de processamento de imagens para criar, modi
         checkFreeAppLabel="Confira nossas [demonstrações ao vivo para ver BMP](https://products.aspose.app/imaging/pt/image-view/BMP)">}}
 
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação" >}}
 Arquivos com extensão .BMP representam arquivos de imagem de bitmap que são usados ​​para armazenar imagens digitais de bitmap. Essas imagens são independentes do adaptador gráfico e também são chamadas de formato de arquivo de bitmap independente de dispositivo (DIB). Essa independência serve para abrir o arquivo em várias plataformas, como Microsoft Windows e Mac. O formato de arquivo BMP pode armazenar dados como imagens digitais bidimensionais em formato monocromático e colorido com várias profundidades de cor.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -113,6 +106,7 @@ Arquivos com extensão .BMP representam arquivos de imagem de bitmap que são us
 {{< blocks/products/pf/agp/other-supported-section title="Outros formatos de visualização suportados" subTitle="Usando C#, pode-se visualizar facilmente diferentes formatos, incluindo." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/viewer/apng" name="APNG" description="Gráficos de rede portátil animados" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/viewer/ico" name="ICO" description="ícone do Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/viewer/jpg" name="JPG" description="Grupo Conjunto de Especialistas em Fotografia" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/viewer/jpeg" name="JPEG" description="Grupo Conjunto de Especialistas em Fotografia" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/viewer/dib" name="DIB" description="Bitmap independente de dispositivo" >}}

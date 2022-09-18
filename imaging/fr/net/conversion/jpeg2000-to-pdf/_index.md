@@ -18,12 +18,7 @@ description: Exemple de code pour la conversion JPEG2000 vers PDF C#. Utilisez l
 {{% blocks/products/pf/agp/content h2="Comment convertir JPEG2000 en PDF en utilisant C#" %}}
 
 Afin de convertir JPEG2000 en PDF, nous utiliserons
-[Aspose.Imaging pour .NET](https://products.aspose.com/imaging/net)
- API qui est une API de manipulation et de conversion d'images riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme C #. Ouvrir
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- gestionnaire de paquets, recherchez
- **Aspose.Imaging**
- et installer. Vous pouvez également utiliser la commande suivante à partir de la console du gestionnaire de packages.
+[Aspose.Imaging pour .NET](https://products.aspose.com/imaging/net) API qui est une API de manipulation et de conversion d'images riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme C #. Ouvrir [NuGet](https://www.nuget.org/packages/aspose.imaging) gestionnaire de paquets, recherchez **Aspose.Imaging** et installer. Vous pouvez également utiliser la commande suivante à partir de la console du gestionnaire de packages.
 
 {{% blocks/products/pf/agp/code-block title="Commande de la console du gestionnaire de packages" offSpacer="true" %}}
 
@@ -128,6 +123,7 @@ Portable Document Format (PDF) est un type de document créé par Adobe dans les
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/net/conversion/jpeg2000-to-tga" name="TGA" description="Graphique Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/net/conversion/jpeg2000-to-svgz" name="SVGZ" description="Version compressée du fichier Scalable Vector Graphics (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/net/conversion/jpeg2000-to-canvas" name="CANVAS" description="Canevas HTML5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/net/conversion/jpeg2000-to-ico" name="ICO" description="Icône Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

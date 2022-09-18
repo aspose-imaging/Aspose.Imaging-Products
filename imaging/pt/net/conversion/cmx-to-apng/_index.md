@@ -18,12 +18,7 @@ description: Código de exemplo para conversão de C# CMX para APNG. Use o códi
 {{% blocks/products/pf/agp/content h2="Como converter CMX para APNG usando C#" %}}
 
 Para converter CMX em APNG, usaremos
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- gerenciador de pacotes, procure por
- **Aspose.Imagem**
- e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
+[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir [NuGet](https://www.nuget.org/packages/aspose.imaging) gerenciador de pacotes, procure por **Aspose.Imagem** e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
 
 {{% blocks/products/pf/agp/code-block title="Comando do Console do Gerenciador de Pacotes" offSpacer="true" %}}
 
@@ -93,11 +88,11 @@ Antes de executar o código de exemplo de conversão, verifique se você tem os 
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação">}}
 Arquivos com extensão CMX são o formato de arquivo de imagem do Corel Exchange usado como apresentação pelos aplicativos CorelSuite. Ele contém dados de imagem como gráficos vetoriais, bem como metadados que descrevem a imagem. Os arquivos CMX podem ser abertos pelo CorelDraw, Corel Presentations, Paint Shop Pro e algumas versões do Adobe Illustrator.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação">}}
 Um arquivo com extensão .apng (Animated Portable Network Graphics) é um formato gráfico raster e é uma extensão não oficial do Portable Network Graphic (PNG ). É composto por vários quadros (cada um de imagem PNG) que representa uma sequência de animação. Isso fornece uma visualização semelhante a um arquivo GIF. Os arquivos APNG suportam imagens de 24 bits e transparência de 8 bits. APNG é compatível com arquivos GIF não animados. Os arquivos APNG usam a mesma extensão .png e podem ser abertos por aplicativos como Mozilla Firefox, Chrome com suporte a APNG, aplicativos iMessage para iOS 10.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -131,6 +126,7 @@ Um arquivo com extensão .apng (Animated Portable Network Graphics) é um format
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/conversion/cmx-to-tga" name="TGA" description="Gráfico Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/conversion/cmx-to-svgz" name="SVGZ" description="Versão compactada do arquivo Scalable Vector Graphics (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/conversion/cmx-to-canvas" name="CANVAS" description="Tela HTML5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/conversion/cmx-to-ico" name="ICO" description="ícone do Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

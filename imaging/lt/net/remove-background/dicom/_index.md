@@ -16,13 +16,7 @@ description: Išbandykite „On-Premise“ dokumentų API, kad pašalintumėte f
 
 {{% blocks/products/pf/agp/content h2="Kaip pašalinti foną iš DICOM failų naudojant C#" %}}
 
-Norėdami pašalinti foną iš DICOM failų, naudosime
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta C# platformai. Atviras
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- paketų tvarkyklė, ieškokite
- **Aspose.Imaging**
- ir įdiegti. Taip pat galite naudoti šią komandą iš paketų tvarkyklės konsolės.
+Norėdami pašalinti foną iš DICOM failų, naudosime [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta C# platformai. Atviras [NuGet](https://www.nuget.org/packages/aspose.imaging) paketų tvarkyklė, ieškokite **Aspose.Imaging** ir įdiegti. Taip pat galite naudoti šią komandą iš paketų tvarkyklės konsolės.
 
 {{% blocks/products/pf/agp/code-block title="Paketų tvarkytuvės konsolės komanda" offSpacer="true" %}}
 
@@ -42,9 +36,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-Jums reikia
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- norėdami išbandyti šią darbo eigą savo aplinkoje.
+Jums reikia [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) norėdami išbandyti šią darbo eigą savo aplinkoje.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -70,7 +62,7 @@ Jums reikia
 
 {{% blocks/products/pf/agp/code-block title="Pašalinkite foną iš DICOM vaizdų – .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "07bd18a1af2633c99a708341d84b5ad2" "remove-change-background-generic-examples.cs" >}}
+{{< gist "aspose-com-gists" "c28d7d7f7dff39444751b5724d5ba14a" "remove-change-background-generic-examples.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -97,7 +89,7 @@ Aspose.Imaging API yra vaizdo apdorojimo sprendimas, skirtas kurti, modifikuoti,
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Tiesiog įkelkite DICOM failus ir paspauskite mygtuką \"Pašalinti foną dabar\"." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Iškart gaukite gauto failo atsisiuntimo nuorodą" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau" >}}
 DICOM yra skaitmeninio vaizdo gavimo ir ryšių medicinos akronimas ir yra susijęs su medicinos informatikos sritimi. DICOM yra failo formato apibrėžimo ir tinklo ryšio protokolo derinys. DICOM naudoja .DCM plėtinį. .DCM yra dviem skirtingais formatais, ty 1.x formatu ir 2.x formatu. DCM formatas 1.x taip pat galimas dviem versijomis: normalia ir išplėstine. DICOM naudojamas įvairių tiekėjų medicininiams vaizdo gavimo įrenginiams, pvz., spausdintuvams, serveriams, skaitytuvams ir tt, integruoti. Be to, jame yra kiekvieno paciento identifikavimo duomenys, siekiant unikalumo. DICOM failus galima dalytis tarp dviejų šalių, jei jos gali priimti vaizdo duomenis DICOM formatu. DICOM komunikacijos dalis yra taikomojo lygmens protokolas ir naudoja TCP/IP ryšį tarp objektų. DICOM žiniatinklio paslaugoms naudojami HTTP ir HTTPS protokolai. Žiniatinklio paslaugų palaikomos versijos yra 1.0, 1.1, 2 arba naujesnės.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -109,6 +101,7 @@ DICOM yra skaitmeninio vaizdo gavimo ir ryšių medicinos akronimas ir yra susij
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/remove-background/apng" name="APNG" description="Animuota nešiojama tinklo grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/remove-background/bmp" name="BMP" description="Bitmap paveikslėlis" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/remove-background/ico" name="ICO" description="Windows piktograma" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/remove-background/jpg" name="JPG" description="Jungtinė fotografijos ekspertų grupė" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/remove-background/dib" name="DIB" description="Nuo įrenginio nepriklausomas bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/remove-background/djvu" name="DJVU" description="Grafikos formatas" >}}

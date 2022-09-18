@@ -18,12 +18,7 @@ description: Código de exemplo para conversão de C# JPEG2000 para PDF. Use o c
 {{% blocks/products/pf/agp/content h2="Como converter JPEG2000 para PDF usando C#" %}}
 
 Para converter JPEG2000 em PDF, usaremos
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- gerenciador de pacotes, procure por
- **Aspose.Imagem**
- e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
+[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir [NuGet](https://www.nuget.org/packages/aspose.imaging) gerenciador de pacotes, procure por **Aspose.Imagem** e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
 
 {{% blocks/products/pf/agp/code-block title="Comando do Console do Gerenciador de Pacotes" offSpacer="true" %}}
 
@@ -128,6 +123,7 @@ Portable Document Format (PDF) é um tipo de documento criado pela Adobe na déc
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/conversion/jpeg2000-to-tga" name="TGA" description="Gráfico Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/conversion/jpeg2000-to-svgz" name="SVGZ" description="Versão compactada do arquivo Scalable Vector Graphics (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/conversion/jpeg2000-to-canvas" name="CANVAS" description="Tela HTML5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/conversion/jpeg2000-to-ico" name="ICO" description="ícone do Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

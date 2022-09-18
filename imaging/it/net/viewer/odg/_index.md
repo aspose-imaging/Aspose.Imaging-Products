@@ -17,12 +17,7 @@ description: Prova le nostre API di documenti locali per visualizzare i file ODG
 {{% blocks/products/pf/agp/content h2="Come visualizzare le immagini in ODG utilizzando C#" %}}
 
 Per visualizzare i file ODG, utilizzeremo
-[Aspose.Imaging per .NET](https://products.aspose.com/imaging/net)
- API che è un'API di conversione e manipolazione delle immagini ricca di funzionalità, potente e facile da usare per la piattaforma C#. Aprire
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- gestore pacchetti, cerca
- **Aspose.Imaging**
- e installa. È inoltre possibile utilizzare il seguente comando dalla Console di gestione pacchetti.
+[Aspose.Imaging per .NET](https://products.aspose.com/imaging/net) API che è un'API di conversione e manipolazione delle immagini ricca di funzionalità, potente e facile da usare per la piattaforma C#. Aprire [NuGet](https://www.nuget.org/packages/aspose.imaging) gestore pacchetti, cerca **Aspose.Imaging** e installa. È inoltre possibile utilizzare il seguente comando dalla Console di gestione pacchetti.
 
 {{% blocks/products/pf/agp/code-block title="Comando della console di Package Manager" offSpacer="true" %}}
 
@@ -44,9 +39,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-Hai bisogno del
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- per provare il seguente flusso di lavoro nel tuo ambiente.
+Hai bisogno del [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) per provare il seguente flusso di lavoro nel tuo ambiente.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -102,7 +95,7 @@ Aspose.Imaging API è una soluzione di elaborazione delle immagini per creare, m
         checkFreeAppLabel="Controlla le nostre [dimostrazioni dal vivo per visualizzare ODG](https://products.aspose.app/imaging/it/image-view/ODG)">}}
 
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più" >}}
 Il formato di file ODG viene utilizzato dall'applicazione Draw di Apache OpenOffice per memorizzare gli elementi di disegno come immagine vettoriale. Segue le specifiche del formato file basato su XML delineate da Advancement of Structural Information Standards (OASIS). ODG rappresenta i disegni come immagini vettoriali utilizzando punti, linee e curve. Oltre a OpenOffice, LibreOffice e altre applicazioni forniscono anche supporto per lavorare con il formato di file ODG. Altri formati supportati da OpenOffice, ad esempio, includono ODT, ODF, ODP e ODS.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -114,6 +107,7 @@ Il formato di file ODG viene utilizzato dall'applicazione Draw di Apache OpenOff
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/viewer/apng" name="APNG" description="Grafica di rete portatile animata" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/viewer/bmp" name="BMP" description="Immagine bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/viewer/ico" name="ICO" description="Icona di Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/viewer/jpg" name="JPG" description="Gruppo congiunto di esperti fotografici" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/viewer/jpeg" name="JPEG" description="Gruppo congiunto di esperti fotografici" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/viewer/dib" name="DIB" description="Bitmap indipendente dal dispositivo" >}}

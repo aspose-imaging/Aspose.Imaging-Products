@@ -18,10 +18,7 @@ description: Voorbeeldcode voor DNG naar DICOM Java-conversie. Gebruik API-voorb
 {{% blocks/products/pf/agp/content h2="Hoe DNG naar DICOM te converteren met Java" %}}
 
 Om DNG naar DICOM te converteren, gebruiken we
-[Aspose.Imaging voor Java](https://products.aspose.com/imaging/java)
-API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het Java-platform. U kunt de nieuwste versie rechtstreeks downloaden van
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
+[Aspose.Imaging voor Java](https://products.aspose.com/imaging/java) API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het Java-platform. U kunt de nieuwste versie rechtstreeks downloaden van [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -102,11 +99,11 @@ Voordat u de conversievoorbeeldcode uitvoert, moet u ervoor zorgen dat u aan de 
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
 DNG is een beeldformaat voor digitale camera's dat wordt gebruikt voor de opslag van onbewerkte bestanden. Het is in september 2004 door Adobe ontwikkeld. Het is in feite ontwikkeld voor digitale fotografie. DNG is een uitbreiding van het TIFF/EP-standaardformaat en maakt veel gebruik van metadata. Om onbewerkte gegevens van digitale camera's met gemak van flexibiliteit en artistieke controle te manipuleren, kiezen fotografen voor Camera Raw-bestanden. JPEG- en TIFF-formaten slaan afbeeldingen op die door de camera worden verwerkt, daarom is er niet veel ruimte voor wijziging in dergelijke formaten.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
 DICOM is de afkorting voor Digital Imaging and Communications in Medicine en heeft betrekking op het vakgebied Medische Informatica. DICOM is de combinatie van bestandsformaatdefinitie en een netwerkcommunicatieprotocol. DICOM gebruikt de .DCM-extensie. .DCM bestaat in twee verschillende formaten, namelijk formaat 1.x en formaat 2.x. DCM Format 1.x is verder beschikbaar in twee versies normaal en uitgebreid. DICOM wordt gebruikt voor de integratie van medische beeldvormingsapparatuur zoals printers, servers, scanners enz. van verschillende leveranciers en bevat ook identificatiegegevens van elke patiënt voor uniekheid. DICOM-bestanden kunnen tussen twee partijen worden gedeeld als ze beeldgegevens in DICOM-indeling kunnen ontvangen. Het communicatiegedeelte van DICOM is een applicatielaagprotocol en gebruikt TCP/IP om te communiceren tussen entiteiten. Voor de webservices van DICOM worden HTTP- en HTTPS-protocollen gebruikt. Door webservices ondersteunde versies zijn 1.0, 1.1, 2 of hoger.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -140,6 +137,7 @@ DICOM is de afkorting voor Digital Imaging and Communications in Medicine en hee
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/conversion/dng-to-tga" name="TGA" description="Targa-afbeelding" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/conversion/dng-to-svgz" name="SVGZ" description="Gecomprimeerde versie van het Scalable Vector Graphics-bestand (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/conversion/dng-to-canvas" name="CANVAS" description="HTML5-canvas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/conversion/dng-to-ico" name="ICO" description="Windows-pictogram" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

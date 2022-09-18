@@ -18,12 +18,7 @@ description: TIFFからBMPへのC＃変換のサンプルコード。 VB.NET、A
 {{% blocks/products/pf/agp/content h2="C#を使用してTIFFをBMPに変換する方法" %}}
 
 TIFFをBMPに変換するには、
-[Aspose.Imaging for .NET]（https://products.aspose.com/imaging/net）
- 機能が豊富で強力で使いやすいC＃プラットフォーム用の画像操作および変換APIであるAPI。開ける
- [NuGet]（https://www.nuget.org/packages/aspose.imaging）
- パッケージマネージャー、検索
- ** Aspose.Imaging **
- とインストールします。パッケージマネージャーコンソールから次のコマンドを使用することもできます。
+[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) 機能が豊富で強力で使いやすいC＃プラットフォーム用の画像操作および変換APIであるAPI。開ける [NuGet](https://www.nuget.org/packages/aspose.imaging) パッケージマネージャー、検索 ** Aspose.Imaging ** とインストールします。パッケージマネージャーコンソールから次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title ="パッケージマネージャーコンソールコマンド" offSpacer = "true"%}}
 
@@ -91,11 +86,11 @@ PM> Install-Package Aspose.Imaging
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
 TIFFまたはTIF（タグ付き画像ファイル形式）は、このファイル形式標準に準拠するさまざまなデバイスでの使用を目的としたラスター画像を表します。いくつかの色空間で、バイレベル、グレースケール、パレットカラー、およびフルカラーの画像データを記述することができます。この形式を使用するアプリケーションのスペースと時間のどちらかを選択するための非可逆圧縮方式と可逆圧縮方式をサポートしています。このフォーマットは拡張可能であり、無制限の量の個人情報または特別目的情報を含めることができるようにいくつかの改訂が行われています。この形式はマシンに依存せず、プロセッサ、オペレーティングシステム、ファイルシステムなどの境界がありません。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
 拡張子が.BMPのファイルは、ビットマップデジタル画像の保存に使用されるビットマップ画像ファイルを表します。これらの画像はグラフィックアダプタから独立しており、デバイスに依存しないビットマップ（DIB）ファイル形式とも呼ばれます。この独立性は、MicrosoftWindowsやMacなどの複数のプラットフォームでファイルを開くという目的を果たします。 BMPファイル形式では、データを2次元デジタル画像として、モノクロとさまざまな色深度のカラー形式の両方で保存できます。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -128,6 +123,7 @@ TIFFまたはTIF（タグ付き画像ファイル形式）は、このファイ�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/conversion/tiff-to-tga" name="TGA" description="タルガグラフィック" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/conversion/tiff-to-svgz" name="SVGZ" description="スケーラブルベクターグラフィックス（.SVG）ファイルの圧縮バージョン。" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/conversion/tiff-to-canvas" name="CANVAS" description="HTML5キャンバス" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/conversion/tiff-to-ico" name="ICO" description="Windows アイコン" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

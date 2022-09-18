@@ -18,12 +18,7 @@ description: Mã mẫu cho chuyển đổi TIFF sang JPEG C #. Sử dụng mã m
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi TIFF thành JPEG bằng C#" %}}
 
 Để chuyển đổi TIFF thành JPEG, chúng tôi sẽ sử dụng
-[Aspose.Imaging cho .NET] (https://products.aspose.com/imaging/net)
- API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C #. Mở
- [NuGet] (https://www.nuget.org/packages/aspose.imaging)
- quản lý gói, tìm kiếm
- ** Aspose.Imaging **
- và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển Trình quản lý Gói.
+[Aspose.Imaging cho .NET] (https://products.aspose.com/imaging/net) API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C #. Mở [NuGet] (https://www.nuget.org/packages/aspose.imaging) quản lý gói, tìm kiếm ** Aspose.Imaging ** và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển Trình quản lý Gói.
 
 {{% blocks/products/pf/agp/code-block title = "Lệnh Bảng điều khiển Trình quản lý Gói" offSpacer = "true"%}}
 
@@ -91,11 +86,11 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
 TIFF hoặc TIF, Định dạng tệp hình ảnh được gắn thẻ, đại diện cho hình ảnh raster được sử dụng trên nhiều thiết bị tuân thủ tiêu chuẩn định dạng tệp này. Nó có khả năng mô tả dữ liệu hình ảnh mức độ mật, thang độ xám, bảng màu và dữ liệu hình ảnh đầy đủ màu sắc trong một số không gian màu. Nó hỗ trợ các lược đồ nén mất dữ liệu cũng như không mất dữ liệu để lựa chọn giữa không gian và thời gian cho các ứng dụng sử dụng định dạng. Định dạng này có thể mở rộng và đã trải qua một số sửa đổi cho phép đưa vào một lượng thông tin cá nhân hoặc mục đích đặc biệt không giới hạn. Định dạng không phụ thuộc vào máy và không bị giới hạn như bộ xử lý, hệ điều hành hoặc hệ thống tệp.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
 JPEG là một loại định dạng hình ảnh được lưu bằng phương pháp nén mất dữ liệu. Hình ảnh đầu ra, là kết quả của quá trình nén, là sự cân bằng giữa kích thước lưu trữ và chất lượng hình ảnh. Người dùng có thể điều chỉnh mức độ nén để đạt được mức chất lượng mong muốn đồng thời giảm dung lượng lưu trữ. Chất lượng hình ảnh bị ảnh hưởng đáng kể nếu áp dụng nén 10: 1 cho hình ảnh. Giá trị nén càng cao thì chất lượng ảnh càng giảm.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -128,6 +123,7 @@ JPEG là một loại định dạng hình ảnh được lưu bằng phương p
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/conversion/tiff-to-tga" name="TGA" description="Đồ họa Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/conversion/tiff-to-svgz" name="SVGZ" description="Phiên bản nén của tệp Đồ họa Vectơ có thể mở rộng (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/conversion/tiff-to-canvas" name="CANVAS" description="HTML5 Canvas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/conversion/tiff-to-ico" name="ICO" description="Biểu tượng Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

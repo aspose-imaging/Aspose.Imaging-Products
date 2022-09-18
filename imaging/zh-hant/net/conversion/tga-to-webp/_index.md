@@ -18,12 +18,7 @@ description: TGA 到 WEBP C# 轉換的示例代碼。使用 API 示例代碼在 
 {{% blocks/products/pf/agp/content h2="如何使用 C# 將 TGA 轉換為 WEBP" %}}
 
 為了將 TGA 轉換為 WEBP，我們將使用
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- API 是一個功能豐富、功能強大且易於使用的 C# 平台圖像處理和轉換 API。打開
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- 包管理器，搜索
- **Aspose.Imaging**
- 並安裝。您也可以從包管理器控制台使用以下命令。
+[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一個功能豐富、功能強大且易於使用的 C# 平台圖像處理和轉換 API。打開 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 並安裝。您也可以從包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 
@@ -91,12 +86,12 @@ PM> Install-Package Aspose.Imaging
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
-Truevision TGA, often referred to as TARGA, is a raster graphics file format created by Truevision Inc. (now part of Avid Technology). It was the native format of TARGA and VISTA boards, which were the first graphic cards for IBM-compatible PCs to support Highcolor/truecolor display.
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+Truevision TGA，通常稱為 TARGA，是由 Truevision Inc.（現為 Avid Technology 的一部分）創建的光柵圖形文件格式。它是 TARGA 和 VISTA 板的原生格式，它們是 IBM 兼容 PC 上第一款支持高彩/真彩顯示的顯卡。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
-WebP, introduced by Google, is a modern raster web image file format that is based on lossless and lossy compression. It provides same image quality while considerably reducing the image size. Since most of the web pages use images as effective representation of data, the use of WebP images in web pages results in faster loading of web pages. As per Google, WebP lossless images are 26% smaller in size compared to PNGs, while WebP lossy images are 25-34% smaller than comparable JPEG images. Images are compared based on the Structural Similarity (SSIM) index between WebP and other image file formats. WebP is a sister project of WebM multimedia container format.
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+WebP 是 Google 推出的一種現代光柵 Web 圖像文件格式，它基於無損和有損壓縮。它提供相同的圖像質量，同時大大減小了圖像尺寸。由於大多數網頁使用圖像作為數據的有效表示，因此在網頁中使用 WebP 圖像會導致網頁加載速度更快。根據谷歌的說法，WebP 無損圖像的大小比 PNG 小 26%，而 WebP 有損圖像比同類 JPEG 圖像小 25-34%。基於 WebP 和其他圖像文件格式之間的結構相似性 (SSIM) 索引比較圖像。 WebP 是 WebM 多媒體容器格式的姊妹項目。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
     {{< /blocks/products/pf/agp/about-file-section >}}
@@ -105,29 +100,30 @@ WebP, introduced by Google, is a modern raster web image file format that is bas
 
 {{< blocks/products/pf/agp/other-supported-section title="其他支持的轉換" subTitle="使用 C#，可以輕鬆轉換不同的格式，包括。" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/tga-to-bmp" name="BMP" description="Bitmap Picture" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/tga-to-gif" name="GIF" description="Graphical Interchange Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/tga-to-dicom" name="DICOM" description="Digital Imaging & Communications" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/tga-to-emf" name="EMF" description="Enhanced Metafile Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/tga-to-jpg" name="JPG" description="Joint Photographic Experts Group" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/tga-to-jpeg" name="JPEG" description="Joint Photographic Experts Group" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/tga-to-bmp" name="BMP" description="位圖圖片" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/tga-to-gif" name="GIF" description="圖形交換格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/tga-to-dicom" name="DICOM" description="數碼影像與通訊" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/tga-to-emf" name="EMF" description="增強的元文件格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/tga-to-jpg" name="JPG" description="聯合攝影專家組" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/tga-to-jpeg" name="JPEG" description="聯合攝影專家組" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/tga-to-jp2" name="JP2" description="JPEG 2000" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/tga-to-j2k" name="J2K" description="Wavelet Compressed Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/tga-to-j2k" name="J2K" description="小波壓縮圖像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/tga-to-jpeg2000" name="JPEG2000" description="JPEG 2000" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/tga-to-png" name="PNG" description="Portable Network Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/tga-to-apng" name="APNG" description="Animated Portable Network Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/tga-to-psd" name="PSD" description="Photoshop Document" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/tga-to-dxf" name="DXF" description="Drawing Interchange Format, or Drawing Exchange Format," >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/tga-to-svg" name="SVG" description="Scalable Vector Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/tga-to-tiff" name="TIFF" description="Tagged Image Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/tga-to-webp" name="WEBP" description="Raster Web Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/tga-to-wmf" name="WMF" description="Microsoft Windows Metafile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/tga-to-pdf" name="PDF" description="Portable Document Format (PDF)" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/tga-to-html" name="HTML" description="HTML5 Canvas" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/tga-to-emz" name="EMZ" description="Windows Compressed Enhanced Metafile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/tga-to-wmz" name="WMZ" description="Compressed Windows Media Player Skin" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/tga-to-svgz" name="SVGZ" description="Compressed version of Scalable Vector Graphics (.SVG) file." >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/tga-to-canvas" name="CANVAS" description="HTML5 Canvas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/tga-to-png" name="PNG" description="便攜式網絡圖形" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/tga-to-apng" name="APNG" description="動畫便攜式網絡圖形" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/tga-to-psd" name="PSD" description="Photoshop 文檔" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/tga-to-dxf" name="DXF" description="圖紙交換格式，或圖紙交換格式，" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/tga-to-svg" name="SVG" description="可縮放矢量圖形" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/tga-to-tiff" name="TIFF" description="標記圖像格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/tga-to-webp" name="WEBP" description="光柵網絡圖像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/tga-to-wmf" name="WMF" description="微軟視窗元文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/tga-to-pdf" name="PDF" description="便攜式文檔格式 (PDF)" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/tga-to-html" name="HTML" description="HTML5 畫布" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/tga-to-emz" name="EMZ" description="Windows 壓縮增強元文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/tga-to-wmz" name="WMZ" description="壓縮的 Windows Media Player 皮膚" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/tga-to-svgz" name="SVGZ" description="可縮放矢量圖形 (.SVG) 文件的壓縮版本。" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/tga-to-canvas" name="CANVAS" description="HTML5 畫布" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/tga-to-ico" name="ICO" description="窗口圖標" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

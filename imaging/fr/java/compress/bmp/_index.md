@@ -16,11 +16,7 @@ description: Essayez nos API de document sur site pour compresser les fichiers B
 
 {{% blocks/products/pf/agp/content h2="Comment compresser des fichiers BMP à l'aide de Java" %}}
 
-Afin de compresser les fichiers BMP, nous utiliserons
-[Aspose.Imaging pour Java](https://products.aspose.com/imaging/java)
-API qui est une API de manipulation et de conversion d'images riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme Java. Vous pouvez télécharger sa dernière version directement depuis
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au fichier pom.xml.
+Afin de compresser les fichiers BMP, nous utiliserons [Aspose.Imaging pour Java](https://products.aspose.com/imaging/java) API qui est une API de manipulation et de conversion d'images riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme Java. Vous pouvez télécharger sa dernière version directement depuis [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au fichier pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -55,9 +51,7 @@ et installez-le dans votre projet basé sur Maven en ajoutant les configurations
 
 {{% blocks/products/pf/agp/text %}}
 
-Vous avez besoin du
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java)
- pour essayer le workflow suivant dans votre propre environnement.
+Vous avez besoin du [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) pour essayer le workflow suivant dans votre propre environnement.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +102,7 @@ Aspose.Imaging API est une solution de traitement d'images pour créer, modifier
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Téléchargez simplement vos fichiers BMP et appuyez sur le bouton \"Compresser maintenant\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Obtenez instantanément le lien de téléchargement du fichier résultant" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite" >}}
 Les fichiers ayant l'extension .BMP représentent des fichiers d'image bitmap utilisés pour stocker des images numériques bitmap. Ces images sont indépendantes de la carte graphique et sont également appelées format de fichier bitmap indépendant du périphérique (DIB). Cette indépendance sert à ouvrir le fichier sur plusieurs plates-formes telles que Microsoft Windows et Mac. Le format de fichier BMP peut stocker des données sous forme d'images numériques bidimensionnelles au format monochrome et couleur avec différentes profondeurs de couleur.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -119,6 +113,7 @@ Les fichiers ayant l'extension .BMP représentent des fichiers d'image bitmap ut
 {{< blocks/products/pf/agp/other-supported-section title="Autres formats de compression pris en charge" subTitle="En utilisant Java, on peut facilement compresser différents formats, y compris." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/compress/apng" name="APNG" description="Graphiques de réseau portables animés" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/compress/ico" name="ICO" description="Icône Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/compress/jpg" name="JPG" description="Groupe mixte d'experts photographiques" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/compress/jpeg" name="JPEG" description="Groupe mixte d'experts photographiques" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/compress/dib" name="DIB" description="Bitmap indépendant du périphérique" >}}

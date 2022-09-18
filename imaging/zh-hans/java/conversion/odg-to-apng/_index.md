@@ -18,9 +18,7 @@ description: Sample code for ODG to APNG Java conversion. Use API example code f
 {{% blocks/products/pf/agp/content h2="如何使用 Java 将 ODG 转换为 APNG" %}}
 
 为了将 ODG 转换为 APNG，我们将使用
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java)
-API 是一个功能丰富、功能强大且易于使用的 Java 平台图像处理和转换 API。您可以直接从
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
+[Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一个功能丰富、功能强大 易于使用的 Java 平台图像处理和转换 API。您可以直接从 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
 并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
@@ -102,11 +100,11 @@ API 是一个功能丰富、功能强大且易于使用的 Java 平台图像处�
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
 Apache OpenOffice 的 Draw 应用程序使用 ODG 文件格式将绘图元素存储为矢量图像。它遵循结构信息标准推进 (OASIS) 概述的基于 XML 的文件格式规范。 ODG 将绘图表示为使用点、线和曲线的矢量图像。除了 OpenOffice，LibreOffice 和其他应用程序还提供对 ODG 文件格式的支持。例如，OpenOffice 支持的其他格式包括 ODT、ODF、ODP 和 ODS。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
 具有 .apng（动画便携式网络图形）扩展名的文件是一种光栅图形格式，是便携式网络图形 (PNG) 的非官方扩展名。它由表示动画序列的多个帧（每个 PNG 图像）组成。这提供了与 GIF 文件类似的可视化效果。 APNG 文件支持 24 位图像和 8 位透明度。 APNG 向后兼容非动画 GIF 文件。 APNG 文件使用相同的 .png 扩展名，可以由 Mozilla Firefox、支持 APNG 的 Chrome、iOS 10 的 iMessage 应用程序等应用程序打开。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -140,6 +138,7 @@ Apache OpenOffice 的 Draw 应用程序使用 ODG 文件格式将绘图元素存
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/conversion/odg-to-tga" name="TGA" description="塔加图形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/conversion/odg-to-svgz" name="SVGZ" description="可缩放矢量图形 (.SVG) 文件的压缩版本。" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/conversion/odg-to-canvas" name="CANVAS" description="HTML5 画布" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/conversion/odg-to-ico" name="ICO" description="窗口图标" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

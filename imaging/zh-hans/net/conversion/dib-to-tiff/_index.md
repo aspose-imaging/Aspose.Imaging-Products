@@ -18,12 +18,7 @@ description: DIB 到 TIFF C# 转换的示例代码。使用 API 示例代码在 
 {{% blocks/products/pf/agp/content h2="如何使用 C# 将 DIB 转换为 TIFF" %}}
 
 为了将 DIB 转换为 TIFF，我们将使用
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- API 是一个功能丰富、功能强大且易于使用的 C# 平台图像处理和转换 API。打开
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- 包管理器，搜索
- **Aspose.Imaging**
- 并安装。您还可以从包管理器控制台使用以下命令。
+[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一个功能丰富、功能强大 易于使用的 C# 平台图像处理和转换 API。打开 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 并安装。您还可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 
@@ -91,11 +86,11 @@ PM> Install-Package Aspose.Imaging
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
 DIB（设备独立位图）文件是一种光栅图像文件，其结构类似于标准位图文件 (BMP)，但具有不同的标题。几乎所有可以在 Windows 和 macOS 上打开标准 BMP 文件的应用程序都可以打开它。 DIB 是二进制文件，具有类似于 BMP 的复杂文件格式。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
 TIFF 或 TIF，标记图像文件格式，表示用于在符合此文件格式标准的各种设备上使用的光栅图像。它能够在多个颜色空间中描述双层、灰度、调色板颜色和全彩色图像数据。它支持有损和无损压缩方案，以便为使用该格式的应用程序在空间和时间之间进行选择。该格式是可扩展的，并且经过多次修改，允许包含无限量的私人或特殊用途信息。该格式不依赖于机器，并且不受处理器、操作系统或文件系统等限制。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -129,6 +124,7 @@ TIFF 或 TIF，标记图像文件格式，表示用于在符合此文件格式�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/conversion/dib-to-tga" name="TGA" description="塔加图形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/conversion/dib-to-svgz" name="SVGZ" description="可缩放矢量图形 (.SVG) 文件的压缩版本。" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/conversion/dib-to-canvas" name="CANVAS" description="HTML5 画布" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/conversion/dib-to-ico" name="ICO" description="窗口图标" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

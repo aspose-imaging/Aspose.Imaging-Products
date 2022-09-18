@@ -18,12 +18,8 @@ description: Beispielcode für die C#-Konvertierung von EMF in TIFF. Verwenden S
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie EMF in TIFF mit C#" %}}
 
 Um EMF in TIFF zu konvertieren, verwenden wir
-[Aspose.Imaging für .NET](https://products.aspose.com/imaging/net)
- API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Bildbearbeitungs- und Konvertierungs-API für die C#-Plattform ist. Offen
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- Paketmanager, suche nach
- **Aspose.Imaging**
- und installieren. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden.
+[Aspose.Imaging für .NET](https://products.aspose.com/imaging/net) API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Bildbearbeitungs- und Konvertierungs-API für die C#-Plattform ist. Offen [NuGet](https://www.nuget.org/packages/aspose.imaging) Paketmanager, suche nach
+ **Aspose.Imaging** und installieren. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
@@ -91,11 +87,11 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
 Enhanced Metafile Format (EMF) speichert grafische Bilder geräteunabhängig. Metadateien von EMF bestehen aus Datensätzen variabler Länge in chronologischer Reihenfolge, die das gespeicherte Bild nach dem Analysieren auf jedem Ausgabegerät wiedergeben können. Diese Datensätze mit variabler Länge können Definitionen eingeschlossener Objekte, Zeichenbefehle und Grafikeigenschaften sein, die für die genaue Wiedergabe des Bildes entscheidend sind. Wenn ein Gerät eine EMF-Metadatei mit seiner eigenen Grafikumgebung öffnet, bleiben die Proportionen, Abmessungen, Farben und andere Grafikeigenschaften des Originalbilds gleich, unabhängig von der Plattform des öffnenden Geräts.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
 TIFF oder TIF, Tagged Image File Format, stellt Rasterbilder dar, die für die Verwendung auf einer Vielzahl von Geräten gedacht sind, die diesem Dateiformatstandard entsprechen. Es ist in der Lage, Bilevel-, Graustufen-, Palettenfarben- und Vollfarben-Bilddaten in mehreren Farbräumen zu beschreiben. Es unterstützt sowohl verlustbehaftete als auch verlustfreie Komprimierungsschemata, um zwischen Speicherplatz und Zeit für Anwendungen zu wählen, die das Format verwenden. Das Format ist erweiterbar und wurde mehrfach überarbeitet, was die Aufnahme einer unbegrenzten Menge an privaten oder speziellen Informationen ermöglicht. Das Format ist nicht maschinenabhängig und frei von Grenzen wie Prozessor, Betriebssystem oder Dateisystem.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -128,6 +124,7 @@ TIFF oder TIF, Tagged Image File Format, stellt Rasterbilder dar, die für die V
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/conversion/emf-to-tga" name="TGA" description="Targa-Grafik" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/conversion/emf-to-svgz" name="SVGZ" description="Komprimierte Version der Datei Scalable Vector Graphics (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/conversion/emf-to-canvas" name="CANVAS" description="HTML5-Leinwand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/conversion/emf-to-ico" name="ICO" description="Windows-Symbol" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

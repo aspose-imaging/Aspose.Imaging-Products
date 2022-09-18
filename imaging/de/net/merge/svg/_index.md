@@ -16,13 +16,8 @@ description: Probieren Sie unsere On-Premise-Dokument-APIs aus, um SVG-Dateien i
 
 {{% blocks/products/pf/agp/content h2="So führen Sie SVG-Dateien mit C# zusammen" %}}
 
-Um SVG-Dateien zusammenzuführen, verwenden wir
-[Aspose.Imaging für .NET](https://products.aspose.com/imaging/net)
- API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Bildbearbeitungs- und Konvertierungs-API für die C#-Plattform ist. Offen
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- Paketmanager, suche nach
- **Aspose.Imaging**
- und installieren. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden.
+Um SVG-Dateien zusammenzuführen, verwenden wir [Aspose.Imaging für .NET](https://products.aspose.com/imaging/net) API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Bildbearbeitungs- und Konvertierungs-API für die C#-Plattform ist. Offen [NuGet](https://www.nuget.org/packages/aspose.imaging) Paketmanager, suche nach
+ **Aspose.Imaging** und installieren. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
@@ -42,9 +37,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-Du brauchst die
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- um den folgenden Workflow in Ihrer eigenen Umgebung auszuprobieren.
+Du brauchst die [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) um den folgenden Workflow in Ihrer eigenen Umgebung auszuprobieren.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -97,7 +90,7 @@ Aspose.Imaging API ist eine Bildverarbeitungslösung zum Erstellen, Ändern, Zei
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Laden Sie einfach Ihre SVG-Dateien hoch und klicken Sie auf die Schaltfläche \"Jetzt zusammenführen\"." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Erhalten Sie sofort den Download-Link für die resultierende Datei" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen" >}}
 SVG-Dateien sind skalierbare Vektorgrafiken, die ein XML-basiertes Textformat zur Beschreibung des Erscheinungsbilds von Bildern verwenden. Das Wort Skalierbar bezieht sich darauf, dass das SVG ohne Qualitätsverlust auf verschiedene Größen skaliert werden kann. Die textbasierte Beschreibung solcher Dateien macht sie auflösungsunabhängig. Es ist eines der am häufigsten verwendeten Formate zum Erstellen von Websites und Druckgrafiken, um Skalierbarkeit zu erreichen. Das Format kann allerdings nur für zweidimensionale Grafiken verwendet werden. SVG-Dateien können in fast allen modernen Browsern angezeigt/geöffnet werden, einschließlich Chrome, Internet Explorer, Firefox und Safari.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -109,6 +102,7 @@ SVG-Dateien sind skalierbare Vektorgrafiken, die ein XML-basiertes Textformat zu
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/merge/apng" name="APNG" description="Animierte tragbare Netzwerkgrafiken" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/merge/bmp" name="BMP" description="Bitmap-Bild" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/merge/ico" name="ICO" description="Windows-Symbol" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/merge/jpg" name="JPG" description="Gemeinsame fotografische Expertengruppe" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/merge/cdr" name="CDR" description="Vektor-Zeichenbild" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/merge/cmx" name="CMX" description="Corel Exchange-Bild" >}}

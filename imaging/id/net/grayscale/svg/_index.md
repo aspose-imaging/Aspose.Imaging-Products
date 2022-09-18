@@ -16,13 +16,7 @@ description: Coba API dokumen Lokal kami untuk file skala abu-abu SVG di .NET Fr
 
 {{% blocks/products/pf/agp/content h2="Cara Grayscale File SVG Menggunakan C#" %}}
 
-Untuk file skala abu-abu SVG, kami akan menggunakan
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- API yang kaya fitur, kuat, dan mudah digunakan manipulasi gambar dan konversi API untuk platform C#. Membuka
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- manajer paket, cari
- **Aspose.Imaging**
- dan menginstal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
+Untuk file skala abu-abu SVG, kami akan menggunakan [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API yang kaya fitur, kuat, dan mudah digunakan manipulasi gambar dan konversi API untuk platform C#. Membuka [NuGet](https://www.nuget.org/packages/aspose.imaging) manajer paket, cari **Aspose.Imaging** dan menginstal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Perintah Konsol Manajer Paket" offSpacer="true" %}}
 
@@ -42,9 +36,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-Anda membutuhkan
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- untuk mencoba alur kerja berikut di lingkungan Anda sendiri.
+Anda membutuhkan [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) untuk mencoba alur kerja berikut di lingkungan Anda sendiri.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -97,7 +89,7 @@ Aspose.Imaging API adalah solusi pemrosesan gambar untuk membuat, memodifikasi, 
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Cukup unggah file SVG Anda dan tekan tombol \"Skala abu-abu sekarang\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Langsung dapatkan tautan unduhan untuk file yang dihasilkan" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya" >}}
 File SVG adalah File Grafik Vektor Scalable yang menggunakan format teks berbasis XML untuk menggambarkan tampilan gambar. Kata Scalable mengacu pada fakta bahwa SVG dapat diskalakan ke berbagai ukuran tanpa kehilangan kualitas apa pun. Deskripsi berbasis teks dari file tersebut membuat mereka independen dari resolusi. Ini adalah salah satu format yang paling banyak digunakan untuk membangun situs web dan mencetak grafik untuk mencapai skalabilitas. Format tersebut hanya dapat digunakan untuk grafik dua dimensi sekalipun. File SVG dapat dilihat/dibuka di hampir semua browser modern termasuk Chrome, Internet Explorer, Firefox, dan Safari.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -109,6 +101,7 @@ File SVG adalah File Grafik Vektor Scalable yang menggunakan format teks berbasi
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/grayscale/apng" name="APNG" description="Grafik Jaringan Portabel Animasi" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/grayscale/bmp" name="BMP" description="Gambar Bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/grayscale/ico" name="ICO" description="ikon Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/grayscale/jpg" name="JPG" description="Kelompok Ahli Fotografi Bersama" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/grayscale/jpeg" name="JPEG" description="Kelompok Ahli Fotografi Bersama" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/grayscale/dib" name="DIB" description="Bitmap Independen Perangkat" >}}

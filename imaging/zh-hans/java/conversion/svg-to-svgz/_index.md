@@ -18,9 +18,7 @@ description: Sample code for SVG to SVGZ Java conversion. Use API example code f
 {{% blocks/products/pf/agp/content h2="如何使用 Java 将 SVG 转换为 SVGZ" %}}
 
 为了将 SVG 转换为 SVGZ，我们将使用
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java)
-API 是一个功能丰富、功能强大且易于使用的 Java 平台图像处理和转换 API。您可以直接从
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
+[Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一个功能丰富、功能强大 易于使用的 Java 平台图像处理和转换 API。您可以直接从 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
 并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
@@ -102,11 +100,11 @@ API 是一个功能丰富、功能强大且易于使用的 Java 平台图像处�
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
 SVG 文件是使用基于 XML 的文本格式来描述图像外观的可缩放矢量图形文件。 Scalable 这个词指的是 SVG 可以缩放到不同的大小而不会损失任何质量。此类文件的基于文本的描述使它们独立于分辨率。它是用于构建网站和打印图形以实现可扩展性的最常用格式之一。该格式只能用于二维图形。 SVG 文件可以在几乎所有现代浏览器中查看/打开，包括 Chrome、Internet Explorer、Firefox 和 Safari。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
 扩展名为 .svgz 的文件是可缩放矢量图形 (.SVG) 文件的压缩版本。它使用 gzip 压缩，包含 XML 格式的数据。 SVGZ 文件支持透明度、渐变、动画和过滤器。与默认的 SVG 文件相比，SVGZ 文件的大小更小，这种减小的文件大小有助于在线传输图形文件。图形设计师使用 Adob​​e Illustrator、Corel PaintShop Pro 等工具创建 SVGZ 文件。但是，可以通过在发送图像数据时在 Apache 服务器中启用 GZip 压缩来生成 SVGZ 文件。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -140,6 +138,7 @@ SVG 文件是使用基于 XML 的文本格式来描述图像外观的可缩放�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/conversion/svg-to-svgz" name="SVGZ" description="可缩放矢量图形 (.SVG) 文件的压缩版本。" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/conversion/svg-to-canvas" name="CANVAS" description="HTML5 画布" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/conversion/svg-to-svg" name="SVG" description="可缩放矢量图形" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/conversion/svg-to-ico" name="ICO" description="窗口图标" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -17,12 +17,7 @@ description: Experimente nossas APIs de documentos no local para exibir arquivos
 {{% blocks/products/pf/agp/content h2="Como visualizar imagens WMZ usando C#" %}}
 
 Para visualizar arquivos WMZ, usaremos
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- gerenciador de pacotes, procure por
- **Aspose.Imagem**
- e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
+[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir [NuGet](https://www.nuget.org/packages/aspose.imaging) gerenciador de pacotes, procure por **Aspose.Imagem** e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
 
 {{% blocks/products/pf/agp/code-block title="Comando do Console do Gerenciador de Pacotes" offSpacer="true" %}}
 
@@ -44,9 +39,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-Você precisa do
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- para experimentar o fluxo de trabalho a seguir em seu próprio ambiente.
+Você precisa do [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) para experimentar o fluxo de trabalho a seguir em seu próprio ambiente.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -102,7 +95,7 @@ Aspose.Imaging API é uma solução de processamento de imagens para criar, modi
         checkFreeAppLabel="Confira nossas [demonstrações ao vivo para ver WMZ](https://products.aspose.app/imaging/pt/image-view/WMZ)">}}
 
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação" >}}
 WMZ é uma extensão de arquivo para um formato de arquivo de skin em/para/usado pelo Windows Media Player. Um arquivo WMZ é basicamente um arquivo WMF compactado em XML.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -114,6 +107,7 @@ WMZ é uma extensão de arquivo para um formato de arquivo de skin em/para/usado
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/viewer/apng" name="APNG" description="Gráficos de rede portátil animados" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/viewer/bmp" name="BMP" description="Imagem de bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/viewer/ico" name="ICO" description="ícone do Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/viewer/jpg" name="JPG" description="Grupo Conjunto de Especialistas em Fotografia" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/viewer/jpeg" name="JPEG" description="Grupo Conjunto de Especialistas em Fotografia" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/viewer/dib" name="DIB" description="Bitmap independente de dispositivo" >}}

@@ -18,10 +18,7 @@ description: Exemple de code pour la conversion Java JPEG2000 vers DXF. Utilisez
 {{% blocks/products/pf/agp/content h2="Comment convertir JPEG2000 en DXF en utilisant Java" %}}
 
 Afin de convertir JPEG2000 en DXF, nous utiliserons
-[Aspose.Imaging pour Java](https://products.aspose.com/imaging/java)
-API qui est une API de manipulation et de conversion d'images riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme Java. Vous pouvez télécharger sa dernière version directement depuis
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au fichier pom.xml.
+[Aspose.Imaging pour Java](https://products.aspose.com/imaging/java) API qui est une API de manipulation et de conversion d'images riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme Java. Vous pouvez télécharger sa dernière version directement depuis [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au fichier pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -137,6 +134,7 @@ DXF, Drawing Interchange Format ou Drawing Exchange Format, est une représentat
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/conversion/jpeg2000-to-tga" name="TGA" description="Graphique Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/conversion/jpeg2000-to-svgz" name="SVGZ" description="Version compressée du fichier Scalable Vector Graphics (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/conversion/jpeg2000-to-canvas" name="CANVAS" description="Canevas HTML5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/conversion/jpeg2000-to-ico" name="ICO" description="Icône Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

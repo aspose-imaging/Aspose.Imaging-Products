@@ -18,10 +18,7 @@ description: Codice di esempio per la conversione Java da JPEG a DICOM. Utilizza
 {{% blocks/products/pf/agp/content h2="Come convertire JPEG in DICOM utilizzando Java" %}}
 
 Per convertire JPEG in DICOM, useremo
-[Aspose.Imaging per Java](https://products.aspose.com/imaging/java)
-API che è un'API di conversione e manipolazione delle immagini ricca di funzionalità, potente e facile da usare per la piattaforma Java. Puoi scaricare la sua ultima versione direttamente da
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
+[Aspose.Imaging per Java](https://products.aspose.com/imaging/java) API che è un'API di conversione e manipolazione delle immagini ricca di funzionalità, potente e facile da usare per la piattaforma Java. Puoi scaricare la sua ultima versione direttamente da [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -102,11 +99,11 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
 Un JPEG è un tipo di formato immagine che viene salvato utilizzando il metodo di compressione con perdita di dati. L'immagine di output, come risultato della compressione, è un compromesso tra la dimensione della memoria e la qualità dell'immagine. Gli utenti possono regolare il livello di compressione per ottenere il livello di qualità desiderato riducendo allo stesso tempo le dimensioni dello storage. La qualità dell'immagine viene influenzata in modo trascurabile se all'immagine viene applicata la compressione 10:1. Maggiore è il valore di compressione, maggiore è il degrado della qualità dell'immagine.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
 DICOM è l'acronimo di Digital Imaging and Communications in Medicine e appartiene al campo dell'informatica medica. DICOM è la combinazione di definizione del formato file e protocollo di comunicazione di rete. DICOM utilizza l'estensione .DCM. .DCM esiste in due diversi formati, ovvero il formato 1.x e il formato 2.x. DCM Format 1.x è inoltre disponibile in due versioni normale ed estesa. DICOM viene utilizzato per l'integrazione di dispositivi di imaging medico come stampanti, server, scanner, ecc. di vari fornitori e contiene anche i dati di identificazione di ciascun paziente per l'unicità. I file DICOM possono essere condivisi tra due parti se sono in grado di ricevere dati di immagine in formato DICOM. La parte di comunicazione di DICOM è il protocollo del livello dell'applicazione e utilizza TCP/IP per comunicare tra entità. I protocolli HTTP e HTTPS vengono utilizzati per i servizi Web di DICOM. Le versioni supportate dai servizi Web sono 1.0, 1.1, 2 o successive.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -138,6 +135,7 @@ DICOM è l'acronimo di Digital Imaging and Communications in Medicine e appartie
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/conversion/jpeg-to-tga" name="TGA" description="Grafica Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/conversion/jpeg-to-svgz" name="SVGZ" description="Versione compressa del file Scalable Vector Graphics (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/conversion/jpeg-to-canvas" name="CANVAS" description="Tela HTML5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/conversion/jpeg-to-ico" name="ICO" description="Icona di Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

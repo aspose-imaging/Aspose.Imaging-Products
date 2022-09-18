@@ -18,10 +18,7 @@ description: Contoh kode untuk SVG ke EMF konversi Java. Gunakan kode contoh API
 {{% blocks/products/pf/agp/content h2="Cara Mengonversi SVG ke EMF Menggunakan Java" %}}
 
 Untuk mengonversi SVG ke EMF, kami akan menggunakan
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java)
-API yang kaya fitur, kuat dan mudah digunakan manipulasi gambar dan konversi API untuk platform Java. Anda dapat mengunduh versi terbarunya langsung dari
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
+[Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API yang kaya fitur, kuat dan mudah digunakan manipulasi gambar dan konversi API untuk platform Java. Anda dapat mengunduh versi terbarunya langsung dari [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -102,11 +99,11 @@ Sebelum menjalankan kode contoh konversi, pastikan Anda memiliki prasyarat berik
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
 File SVG adalah File Grafik Vektor Scalable yang menggunakan format teks berbasis XML untuk menggambarkan tampilan gambar. Kata Scalable mengacu pada fakta bahwa SVG dapat diskalakan ke berbagai ukuran tanpa kehilangan kualitas apa pun. Deskripsi berbasis teks dari file tersebut membuat mereka independen dari resolusi. Ini adalah salah satu format yang paling banyak digunakan untuk membangun situs web dan mencetak grafik untuk mencapai skalabilitas. Format tersebut hanya dapat digunakan untuk grafik dua dimensi sekalipun. File SVG dapat dilihat/dibuka di hampir semua browser modern termasuk Chrome, Internet Explorer, Firefox, dan Safari.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
 Enhanced metafile format (EMF) menyimpan gambar grafis secara mandiri. Metafile EMF terdiri dari catatan panjang variabel dalam urutan kronologis yang dapat membuat gambar yang disimpan setelah diurai pada perangkat output apa pun. Catatan panjang variabel ini dapat berupa definisi objek tertutup, perintah untuk menggambar, dan properti grafik yang penting untuk membuat gambar secara akurat. Saat perangkat membuka metafile EMF menggunakan lingkungan grafisnya sendiri, proporsi, dimensi, warna, dan properti grafis lainnya dari gambar asli tetap sama terlepas dari platform perangkat pembuka.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -140,6 +137,7 @@ Enhanced metafile format (EMF) menyimpan gambar grafis secara mandiri. Metafile 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/conversion/svg-to-svgz" name="SVGZ" description="Versi terkompresi dari file Scalable Vector Graphics (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/conversion/svg-to-canvas" name="CANVAS" description="Kanvas HTML5" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/conversion/svg-to-svg" name="SVG" description="Grafik Vektor Skalabel" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/conversion/svg-to-ico" name="ICO" description="ikon Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -16,13 +16,7 @@ description: Hãy thử các API tài liệu On-Premise của chúng tôi để 
 
 {{% blocks/products/pf/agp/content h2="Cách xóa nền trong DIB Tệp bằng C#" %}}
 
-Để xóa nền trong tệp DIB, chúng tôi sẽ sử dụng
-[Aspose.Imaging cho .NET] (https://products.aspose.com/imaging/net)
- API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C #. Mở
- [NuGet] (https://www.nuget.org/packages/aspose.imaging)
- quản lý gói, tìm kiếm
- ** Aspose.Imaging **
- và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển Trình quản lý Gói.
+Để xóa nền trong tệp DIB, chúng tôi sẽ sử dụng [Aspose.Imaging cho .NET] (https://products.aspose.com/imaging/net) API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C #. Mở [NuGet] (https://www.nuget.org/packages/aspose.imaging) quản lý gói, tìm kiếm ** Aspose.Imaging ** và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển Trình quản lý Gói.
 
 {{% blocks/products/pf/agp/code-block title = "Lệnh Bảng điều khiển Trình quản lý Gói" offSpacer = "true"%}}
 
@@ -70,7 +64,7 @@ Aspose.Imaging cho .NET được hỗ trợ trên tất cả các hệ điều h
 
 {{% blocks/products/pf/agp/code-block title="Xóa nền trong hình ảnh DIB - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "07bd18a1af2633c99a708341d84b5ad2" "remove-change-background-generic-examples.cs" >}}
+{{< gist "aspose-com-gists" "c28d7d7f7dff39444751b5724d5ba14a" "remove-change-background-generic-examples.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -97,7 +91,7 @@ Aspose.Imaging API là một giải pháp xử lý hình ảnh để tạo, sử
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Chỉ cần tải lên các tệp DIB của bạn và nhấn nút \"Xóa nền ngay bây giờ \"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Nhận ngay liên kết tải xuống cho tệp kết quả" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm" >}}
 Tệp DIB (Bitmap độc lập với thiết bị) là một tệp hình ảnh raster có cấu trúc tương tự như các tệp Bitmap tiêu chuẩn (BMP) nhưng có tiêu đề khác. Nó có thể được mở bằng hầu hết các ứng dụng có thể mở tệp BMP tiêu chuẩn trên Windows cũng như macOS. DIB là các tệp nhị phân và có định dạng tệp phức tạp tương tự như BMP.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -109,6 +103,7 @@ Tệp DIB (Bitmap độc lập với thiết bị) là một tệp hình ảnh r
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/remove-background/apng" name="APNG" description="Đồ họa mạng di động hoạt hình" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/remove-background/bmp" name="BMP" description="Ảnh bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/remove-background/ico" name="ICO" description="Biểu tượng Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/remove-background/jpg" name="JPG" description="Nhóm chuyên gia nhiếp ảnh chung" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/remove-background/dicom" name="DICOM" description="Hình ảnh & Truyền thông Kỹ thuật số" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/remove-background/djvu" name="DJVU" description="Định dạng đồ họa" >}}

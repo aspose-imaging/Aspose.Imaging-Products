@@ -16,11 +16,7 @@ description: Java 애플리케이션에서 EPS 파일을 자르려면 온프레�
 
 {{% blocks/products/pf/agp/content h2="Java을 사용하여 EPS 파일을 자르는 방법" %}}
 
-EPS 파일을 자르기 위해 다음을 사용합니다.
-[자바용 Aspose.Imaging](https://products.aspose.com/imaging/java)
-기능이 풍부하고 강력하며 사용하기 쉬운 Java 플랫폼용 이미지 조작 및 변환 API인 API입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.
-[메이븐](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-다음 구성을 pom.xml에 추가하여 Maven 기반 프로젝트 내에 설치합니다.
+EPS 파일을 자르기 위해 다음을 사용합니다. [자바용 Aspose.Imaging](https://products.aspose.com/imaging/java) 기능이 풍부하고 강력하며 사용하기쉬운 Java 플랫폼용 이미지 조작 및 변환 API인 API입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.[메이븐(https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 다음 구성을 pom.xml에 추가하여 Maven 기반 프로젝트 내에 설치합니다.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -55,9 +51,7 @@ EPS 파일을 자르기 위해 다음을 사용합니다.
 
 {{% blocks/products/pf/agp/text %}}
 
-당신은 필요합니다
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java)
- 자신의 환경에서 다음 워크플로를 시도합니다.
+당신은 필요합니다 [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) 자신의 환경에서 다음 워크플로를 시도합니다.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +102,7 @@ Aspose.Imaging API는 애플리케이션 내에서 이미지(사진)를 생성, 
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="EPS 파일을 업로드하고 \"지금 자르기\" 버튼을 누르세요." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="결과 파일에 대한 다운로드 링크를 즉시 가져옵니다." >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기" >}}
 EPS 확장자가 있는 파일은 기본적으로 단일 페이지의 모양을 설명하는 캡슐화된 포스트스크립트 언어 프로그램을 설명합니다. "Encapsulated"라는 이름은 다른 PostScript 언어 페이지 설명에 포함되거나 캡슐화될 수 있기 때문입니다. 이 스크립트 기반 파일 형식은 텍스트, 그래픽 및 이미지의 조합을 포함할 수 있습니다. EPS 파일에는 이러한 파일을 열 수 있는 응용 프로그램에서 표시할 수 있도록 내부에 캡슐화된 비트맵 미리 보기 이미지가 포함될 수 있습니다. EPS 파일은 다른 응용 프로그램을 사용하여 JPG, PNG, TIFF 및 PDF와 같은 표준 이미지 형식으로 변환할 수 있습니다. Adobe Illustrator, Photoshop 및 PaintShop Pro. EPS 파일의 보안 취약점으로 인해 Office 2016, Office 2013, Office 2010 및 Office 365는 EPS 파일을 Office 문서에 삽입하는 기능을 해제했습니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -120,6 +114,7 @@ EPS 확장자가 있는 파일은 기본적으로 단일 페이지의 모양을 
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/crop/apng" name="APNG" description="애니메이션 휴대용 네트워크 그래픽" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/crop/bmp" name="BMP" description="비트맵 그림" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/crop/ico" name="ICO" description="윈도우 아이콘" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/crop/jpg" name="JPG" description="공동 사진 전문가 그룹" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/crop/dib" name="DIB" description="장치 독립 비트맵" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/crop/dicom" name="DICOM" description="디지털 이미징 및 통신" >}}

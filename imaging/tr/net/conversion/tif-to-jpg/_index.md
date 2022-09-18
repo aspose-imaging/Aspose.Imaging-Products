@@ -18,12 +18,7 @@ description: TIF - JPG C# dönüşümü için örnek kod. VB.NET, Asp.NET veya h
 {{% blocks/products/pf/agp/content h2="C# Kullanarak TIF'i JPG'ye Dönüştürme" %}}
 
 TIF'i JPG'ye dönüştürmek için kullanacağız
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. Açık
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- paket yöneticisi, ara
- **Aspose.Görüntüleme**
- ve yükleyin. Paket Yöneticisi Konsolundan aşağıdaki komutu da kullanabilirsiniz.
+[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. Açık [NuGet](https://www.nuget.org/packages/aspose.imaging) paket yöneticisi, ara **Aspose.Görüntüleme** ve yükleyin. Paket Yöneticisi Konsolundan aşağıdaki komutu da kullanabilirsiniz.
 
 {{%blocks/products/pf/agp/code-block title="Paket Yöneticisi Konsol Komutu" offSpacer="true" %}}
 
@@ -91,11 +86,11 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIF" readMoreLink="https://docs.fileformat.com/image/tif" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIF" readMoreLink="https://docs.fileformat.com/image/tif/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
 JPEG, kayıplı sıkıştırma yöntemi kullanılarak kaydedilen bir görüntü formatı türüdür. Sıkıştırmanın bir sonucu olarak çıktı görüntüsü, depolama boyutu ve görüntü kalitesi arasında bir dengedir. Kullanıcılar, istenen kalite seviyesine ulaşmak için sıkıştırma seviyesini ayarlayabilir ve aynı zamanda depolama boyutunu küçültebilir. Görüntüye 10:1 sıkıştırma uygulanırsa görüntü kalitesi ihmal edilebilir düzeyde etkilenir. Sıkıştırma değeri ne kadar yüksek olursa, görüntü kalitesindeki bozulma o kadar yüksek olur.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -128,6 +123,7 @@ JPEG, kayıplı sıkıştırma yöntemi kullanılarak kaydedilen bir görüntü 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/conversion/tif-to-tga" name="TGA" description="Targa Grafiği" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/conversion/tif-to-svgz" name="SVGZ" description="Ölçeklenebilir Vektör Grafikleri (.SVG) dosyasının sıkıştırılmış sürümü." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/conversion/tif-to-canvas" name="CANVAS" description="HTML5 Tuval" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/conversion/tif-to-ico" name="ICO" description="Windows simgesi" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

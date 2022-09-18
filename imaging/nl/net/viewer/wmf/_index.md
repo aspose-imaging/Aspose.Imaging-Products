@@ -17,12 +17,7 @@ description: Probeer onze On-Premise document-API's om WMF-bestanden te bekijken
 {{% blocks/products/pf/agp/content h2="WMF afbeeldingen bekijken met C#" %}}
 
 Om WMF-bestanden te bekijken, gebruiken we
-[Aspose.Imaging voor .NET](https://products.aspose.com/imaging/net)
- API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het C#-platform. Open
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- pakketbeheerder, zoek naar
- **Aspose.Imaging**
- en installeren. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
+[Aspose.Imaging voor .NET](https://products.aspose.com/imaging/net) API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het C#-platform. Open [NuGet](https://www.nuget.org/packages/aspose.imaging) pakketbeheerder, zoek naar **Aspose.Imaging** en installeren. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
@@ -42,9 +37,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-Je hebt de nodig
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- om de volgende workflow in uw eigen omgeving te proberen.
+Je hebt de nodig [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) om de volgende workflow in uw eigen omgeving te proberen.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -100,7 +93,7 @@ Aspose.Imaging API is een beeldverwerkingsoplossing voor het maken, wijzigen, te
         checkFreeAppLabel="Bekijk onze [live demo's om WMF](https://products.aspose.app/imaging/nl/image-view/WMF)">}}
 
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder" >}}
 Bestanden met de WMF-extensie vertegenwoordigen Microsoft Windows Metafile (WMF) voor het opslaan van zowel vector- als bitmap-afbeeldingsgegevens. Om nauwkeuriger te zijn, WMF behoort tot de vectorbestandsindelingscategorie van Grafische bestandsindelingen die apparaatonafhankelijk is. Windows Graphical Device Interface (GDI) gebruikt de functies die zijn opgeslagen in een WMF-bestand om een ​​afbeelding op het scherm weer te geven. Een meer verbeterde versie van WMF, bekend als Enhanced Meta Files (EMF), werd later gepubliceerd, waardoor het formaat meer functies heeft. In de praktijk is WMF vergelijkbaar met SVG.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -112,6 +105,7 @@ Bestanden met de WMF-extensie vertegenwoordigen Microsoft Windows Metafile (WMF)
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/viewer/apng" name="APNG" description="Geanimeerde draagbare netwerkgraphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/viewer/bmp" name="BMP" description="Bitmapafbeelding" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/viewer/ico" name="ICO" description="Windows-pictogram" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/viewer/jpg" name="JPG" description="Joint Photographic Experts Group" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/viewer/jpeg" name="JPEG" description="Joint Photographic Experts Group" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/viewer/dib" name="DIB" description="Apparaatonafhankelijke bitmap" >}}

@@ -18,12 +18,7 @@ description: Mã mẫu cho chuyển đổi JPEG2000 sang DXF C #. Sử dụng m�
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi JPEG2000 thành DXF bằng C#" %}}
 
 Để chuyển đổi JPEG2000 thành DXF, chúng tôi sẽ sử dụng
-[Aspose.Imaging cho .NET] (https://products.aspose.com/imaging/net)
- API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C #. Mở
- [NuGet] (https://www.nuget.org/packages/aspose.imaging)
- quản lý gói, tìm kiếm
- ** Aspose.Imaging **
- và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển Trình quản lý Gói.
+[Aspose.Imaging cho .NET] (https://products.aspose.com/imaging/net) API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C #. Mở [NuGet] (https://www.nuget.org/packages/aspose.imaging) quản lý gói, tìm kiếm ** Aspose.Imaging ** và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển Trình quản lý Gói.
 
 {{% blocks/products/pf/agp/code-block title = "Lệnh Bảng điều khiển Trình quản lý Gói" offSpacer = "true"%}}
 
@@ -126,6 +121,7 @@ DXF, Định dạng Trao đổi Bản vẽ, hoặc Định dạng Trao đổi B�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/conversion/jpeg2000-to-tga" name="TGA" description="Đồ họa Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/conversion/jpeg2000-to-svgz" name="SVGZ" description="Phiên bản nén của tệp Đồ họa Vectơ có thể mở rộng (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/conversion/jpeg2000-to-canvas" name="CANVAS" description="HTML5 Canvas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/conversion/jpeg2000-to-ico" name="ICO" description="Biểu tượng Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

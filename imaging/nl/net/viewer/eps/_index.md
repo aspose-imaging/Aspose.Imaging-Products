@@ -17,12 +17,7 @@ description: Probeer onze On-Premise document-API's om EPS-bestanden te bekijken
 {{% blocks/products/pf/agp/content h2="EPS afbeeldingen bekijken met C#" %}}
 
 Om EPS-bestanden te bekijken, gebruiken we
-[Aspose.Imaging voor .NET](https://products.aspose.com/imaging/net)
- API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het C#-platform. Open
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- pakketbeheerder, zoek naar
- **Aspose.Imaging**
- en installeren. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
+[Aspose.Imaging voor .NET](https://products.aspose.com/imaging/net) API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het C#-platform. Open [NuGet](https://www.nuget.org/packages/aspose.imaging) pakketbeheerder, zoek naar **Aspose.Imaging** en installeren. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
@@ -42,9 +37,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-Je hebt de nodig
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- om de volgende workflow in uw eigen omgeving te proberen.
+Je hebt de nodig [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) om de volgende workflow in uw eigen omgeving te proberen.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -100,7 +93,7 @@ Aspose.Imaging API is een beeldverwerkingsoplossing voor het maken, wijzigen, te
         checkFreeAppLabel="Bekijk onze [live demo's om EPS](https://products.aspose.app/imaging/nl/image-view/EPS)">}}
 
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder" >}}
 Bestanden met de extensie EPS beschrijven in wezen een Encapsulated PostScript-taalprogramma dat het uiterlijk van een enkele pagina beschrijft. De naam "Encapsulated" omdat deze kan worden opgenomen of ingekapseld in een paginabeschrijving van een andere PostScript-taal. Deze op scripts gebaseerde bestandsindeling kan elke combinatie van tekst, afbeeldingen en afbeeldingen bevatten. EPS-bestanden kunnen een voorbeeldafbeelding van een bitmap bevatten die is ingekapseld voor weergave door toepassingen die dergelijke bestanden kunnen openen. EPS-bestanden kunnen worden geconverteerd naar standaard afbeeldingsformaten zoals JPG, PNG, TIFF en PDF met behulp van verschillende toepassingen, b.v. Adobe Illustrator, Photoshop en PaintShop Pro. Vanwege een beveiligingsprobleem in EPS-bestanden hebben Office 2016, Office 2013, Office 2010 en Office 365 de mogelijkheid uitgeschakeld om EPS-bestanden in Office-documenten in te voegen.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -112,6 +105,7 @@ Bestanden met de extensie EPS beschrijven in wezen een Encapsulated PostScript-t
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/viewer/apng" name="APNG" description="Geanimeerde draagbare netwerkgraphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/viewer/bmp" name="BMP" description="Bitmapafbeelding" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/viewer/ico" name="ICO" description="Windows-pictogram" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/viewer/jpg" name="JPG" description="Joint Photographic Experts Group" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/viewer/jpeg" name="JPEG" description="Joint Photographic Experts Group" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/viewer/dib" name="DIB" description="Apparaatonafhankelijke bitmap" >}}

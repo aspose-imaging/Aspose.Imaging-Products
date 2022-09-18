@@ -18,10 +18,7 @@ description: EMZからPDFへのJava変換のサンプルコード。 Webまた�
 {{% blocks/products/pf/agp/content h2="Javaを使用してEMZをPDFに変換する方法" %}}
 
 EMZをPDFに変換するには、
-[Aspose.Imaging for Java]（https://products.aspose.com/imaging/java）
-機能豊富で強力で使いやすいJavaプラットフォーム用の画像操作および変換APIであるAPI。最新バージョンはから直接ダウンロードできます
-[Maven]（https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging）
-次の構成をpom.xmlに追加して、Mavenベースのプロジェクトにインストールします。
+[Aspose.Imaging for Java](https://products.aspose.com/imaging/java) 機能豊富で強力で使いやすいJava ラットフォーム用の画像操作および変換APIであるAPI。最新バージョンはから直接ダウンロードできます[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 次の構成をpom.xmlに追加して、Mavenベースのプロジェクトにインストールします。
 
 {{% blocks/products/pf/agp/code-block title = "Repository" offSpacer = "true"%}}
 
@@ -102,7 +99,7 @@ EMZをPDFに変換するには、
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
 EMZファイル拡張子の付いたファイルは、圧縮イメージファイルであり、より具体的にはWindows圧縮拡張メタファイルファイルと呼ばれます。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -139,6 +136,7 @@ Portable Document Format（PDF）は、1990年代にAdobeによって作成さ�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/java/conversion/emz-to-tga" name="TGA" description="タルガグラフィック" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/java/conversion/emz-to-svgz" name="SVGZ" description="スケーラブルベクターグラフィックス（.SVG）ファイルの圧縮バージョン。" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/java/conversion/emz-to-canvas" name="CANVAS" description="HTML5キャンバス" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/java/conversion/emz-to-ico" name="ICO" description="Windows アイコン" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

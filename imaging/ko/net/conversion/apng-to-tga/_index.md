@@ -18,12 +18,7 @@ description: APNG에서 TGA로의 C# 변환을 위한 샘플 코드입니다. VB
 {{% blocks/products/pf/agp/content h2="C#을 사용하여 APNG을 TGA로 변환하는 방법" %}}
 
 APNG을 TGA로 변환하려면 다음을 사용합니다.
-[.NET용 Aspose.Imaging](https://products.aspose.com/imaging/net)
- 기능이 풍부하고 강력하며 사용하기 쉬운 C# 플랫폼용 이미지 조작 및 변환 API인 API입니다. 열려있는
- [누겟](https://www.nuget.org/packages/aspose.imaging)
- 패키지 관리자, 검색
- **아포즈.이미징**
- 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
+[.NET용 Aspose.Imaging](https://products.aspose.com/imaging/net) 기능이 풍부하고 강력하며 사용하기 쉬운 C# 플랫폼용 이미지 조작 및 변환 API인 API입니다. 열려있는 [누겟](https://www.nuget.org/packages/aspose.imaging) 패키지 관리자, 검색 **아포즈.이미징** 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
 
 {{% blocks/products/pf/agp/code-block title="패키지 관리자 콘솔 명령" offSpacer="true" %}}
 
@@ -93,11 +88,11 @@ PM> Install-Package Aspose.Imaging
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
 .apng(Animated Portable Network Graphics) 확장자를 가진 파일은 래스터 그래픽 형식이며 PNG(Portable Network Graphic)의 비공식 확장자입니다. 애니메이션 시퀀스를 나타내는 여러 프레임(각각 PNG 이미지)으로 구성됩니다. 이것은 GIF 파일과 유사한 시각화를 제공합니다. APNG 파일은 24비트 이미지와 8비트 투명도를 지원합니다. APNG는 애니메이션이 아닌 GIF 파일과 역호환됩니다. APNG 파일은 동일한 .png 확장자를 사용하며 Mozilla Firefox, APNG 지원 Chrome, iOS 10용 iMessage 앱과 같은 응용 프로그램에서 열 수 있습니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
 TARGA라고도 하는 Truevision TGA는 Truevision Inc.(현재 Avid Technology의 일부)에서 만든 래스터 그래픽 파일 형식입니다. TARGA 및 VISTA 보드의 기본 형식으로, IBM 호환 PC용으로 Highcolor/truecolor 디스플레이를 지원하는 최초의 그래픽 카드였습니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -130,6 +125,7 @@ TARGA라고도 하는 Truevision TGA는 Truevision Inc.(현재 Avid Technology�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/conversion/apng-to-tga" name="TGA" description="타르가 그래픽" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/conversion/apng-to-svgz" name="SVGZ" description="확장 가능한 벡터 그래픽(.SVG) 파일의 압축 버전입니다." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/conversion/apng-to-canvas" name="CANVAS" description="HTML5 캔버스" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/conversion/apng-to-ico" name="ICO" description="윈도우 아이콘" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

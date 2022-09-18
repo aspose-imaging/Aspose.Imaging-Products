@@ -17,12 +17,7 @@ description: Essayez nos API de document sur site pour afficher les fichiers TIF
 {{% blocks/products/pf/agp/content h2="Comment afficher des images TIFF à l'aide de C#" %}}
 
 Pour afficher les fichiers TIFF, nous utiliserons
-[Aspose.Imaging pour .NET](https://products.aspose.com/imaging/net)
- API qui est une API de manipulation et de conversion d'images riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme C #. Ouvrir
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- gestionnaire de paquets, recherchez
- **Aspose.Imaging**
- et installer. Vous pouvez également utiliser la commande suivante à partir de la console du gestionnaire de packages.
+[Aspose.Imaging pour .NET](https://products.aspose.com/imaging/net) API qui est une API de manipulation et de conversion d'images riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme C #. Ouvrir [NuGet](https://www.nuget.org/packages/aspose.imaging) gestionnaire de paquets, recherchez **Aspose.Imaging** et installer. Vous pouvez également utiliser la commande suivante à partir de la console du gestionnaire de packages.
 
 {{% blocks/products/pf/agp/code-block title="Commande de la console du gestionnaire de packages" offSpacer="true" %}}
 
@@ -44,9 +39,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-Vous avez besoin du
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- pour essayer le workflow suivant dans votre propre environnement.
+Vous avez besoin du [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) pour essayer le workflow suivant dans votre propre environnement.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -102,7 +95,7 @@ Aspose.Imaging API est une solution de traitement d'images pour créer, modifier
         checkFreeAppLabel="Consultez nos [démos en direct pour voir TIFF](https://products.aspose.app/imaging/fr/image-view/TIFF)">}}
 
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite" >}}
 TIFF ou TIF, Tagged Image File Format, représente des images raster destinées à être utilisées sur une variété d'appareils conformes à cette norme de format de fichier. Il est capable de décrire des données d'image à deux niveaux, en niveaux de gris, en couleurs de palette et en couleurs dans plusieurs espaces colorimétriques. Il prend en charge les schémas de compression avec perte et sans perte pour choisir entre l'espace et le temps pour les applications utilisant le format. Le format est extensible et a subi plusieurs révisions qui permettent l'inclusion d'une quantité illimitée d'informations privées ou à usage spécial. Le format ne dépend pas de la machine et est exempt de limites telles que le processeur, le système d'exploitation ou les systèmes de fichiers.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -114,6 +107,7 @@ TIFF ou TIF, Tagged Image File Format, représente des images raster destinées 
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/net/viewer/apng" name="APNG" description="Graphiques de réseau portables animés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/net/viewer/bmp" name="BMP" description="Image bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/net/viewer/ico" name="ICO" description="Icône Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/net/viewer/jpg" name="JPG" description="Groupe mixte d'experts photographiques" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/net/viewer/jpeg" name="JPEG" description="Groupe mixte d'experts photographiques" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/net/viewer/dib" name="DIB" description="Bitmap indépendant du périphérique" >}}

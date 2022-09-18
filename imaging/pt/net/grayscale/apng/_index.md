@@ -16,13 +16,7 @@ description: Experimente nossas APIs de documentos no local para arquivos APNG e
 
 {{% blocks/products/pf/agp/content h2="Como escalar arquivos APNG em escala de cinza usando C#" %}}
 
-Para escalar arquivos APNG em escala de cinza, usaremos
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- gerenciador de pacotes, procure por
- **Aspose.Imagem**
- e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
+Para escalar arquivos APNG em escala de cinza, usaremos [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir [NuGet](https://www.nuget.org/packages/aspose.imaging) gerenciador de pacotes, procure por **Aspose.Imagem** e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
 
 {{% blocks/products/pf/agp/code-block title="Comando do Console do Gerenciador de Pacotes" offSpacer="true" %}}
 
@@ -44,9 +38,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-Você precisa do
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- para experimentar o fluxo de trabalho a seguir em seu próprio ambiente.
+Você precisa do [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) para experimentar o fluxo de trabalho a seguir em seu próprio ambiente.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -99,7 +91,7 @@ Aspose.Imaging API é uma solução de processamento de imagens para criar, modi
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta carregar seus arquivos APNG e clicar no botão \"Grayscale now\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Obtenha instantaneamente o link de download para o arquivo resultante" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação" >}}
 Um arquivo com extensão .apng (Animated Portable Network Graphics) é um formato gráfico raster e é uma extensão não oficial do Portable Network Graphic (PNG ). É composto por vários quadros (cada um de imagem PNG) que representa uma sequência de animação. Isso fornece uma visualização semelhante a um arquivo GIF. Os arquivos APNG suportam imagens de 24 bits e transparência de 8 bits. APNG é compatível com arquivos GIF não animados. Os arquivos APNG usam a mesma extensão .png e podem ser abertos por aplicativos como Mozilla Firefox, Chrome com suporte a APNG, aplicativos iMessage para iOS 10.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -110,6 +102,7 @@ Um arquivo com extensão .apng (Animated Portable Network Graphics) é um format
 {{< blocks/products/pf/agp/other-supported-section title="Outros formatos de escala de cinza suportados" subTitle="Usando C#, pode-se facilmente usar diferentes formatos em escala de cinza, incluindo." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/grayscale/bmp" name="BMP" description="Imagem de bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/grayscale/ico" name="ICO" description="ícone do Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/grayscale/jpg" name="JPG" description="Grupo Conjunto de Especialistas em Fotografia" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/grayscale/jpeg" name="JPEG" description="Grupo Conjunto de Especialistas em Fotografia" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/grayscale/dib" name="DIB" description="Bitmap independente de dispositivo" >}}

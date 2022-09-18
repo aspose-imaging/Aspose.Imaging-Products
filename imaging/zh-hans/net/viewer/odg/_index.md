@@ -17,12 +17,7 @@ description: 尝试使用我们的本地文档 API 来查看 .NET Framework、.N
 {{% blocks/products/pf/agp/content h2="如何使用 C# 查看 ODG 图像" %}}
 
 为了查看 ODG 文件，我们将使用
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- API 是一个功能丰富、功能强大且易于使用的 C# 平台图像处理和转换 API。打开
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- 包管理器，搜索
- **Aspose.Imaging**
- 并安装。您还可以从包管理器控制台使用以下命令。
+[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一个功能丰富、功能强大 易于使用的 C# 平台图像处理和转换 API。打开 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 并安装。您还可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 
@@ -42,9 +37,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-你需要
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- 在您自己的环境中尝试以下工作流程。
+你需要 [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) 在您自己的环境中尝试以下工作流程。
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -100,7 +93,7 @@ Aspose.Imaging API 是一种图像处理解决方案，用于在应用程序中�
         checkFreeAppLabel="查看我们的 [现场演示以查看 ODG](https://products.aspose.app/imaging/zh-hans/image-view/ODG)">}}
 
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多" >}}
 Apache OpenOffice 的 Draw 应用程序使用 ODG 文件格式将绘图元素存储为矢量图像。它遵循结构信息标准推进 (OASIS) 概述的基于 XML 的文件格式规范。 ODG 将绘图表示为使用点、线和曲线的矢量图像。除了 OpenOffice，LibreOffice 和其他应用程序还提供对 ODG 文件格式的支持。例如，OpenOffice 支持的其他格式包括 ODT、ODF、ODP 和 ODS。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -112,6 +105,7 @@ Apache OpenOffice 的 Draw 应用程序使用 ODG 文件格式将绘图元素存
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/viewer/apng" name="APNG" description="动画便携式网络图形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/viewer/bmp" name="BMP" description="位图图片" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/viewer/ico" name="ICO" description="窗口图标" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/viewer/jpg" name="JPG" description="联合摄影专家组" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/viewer/jpeg" name="JPEG" description="联合摄影专家组" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/viewer/dib" name="DIB" description="设备无关位图" >}}

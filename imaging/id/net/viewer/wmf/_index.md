@@ -17,12 +17,7 @@ description: Coba API dokumen Lokal kami untuk Melihat file WMF di .NET Framewor
 {{% blocks/products/pf/agp/content h2="Cara Melihat gambar WMF Menggunakan C#" %}}
 
 Untuk melihat file WMF, kami akan menggunakan
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- API yang kaya fitur, kuat, dan mudah digunakan manipulasi gambar dan konversi API untuk platform C#. Membuka
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- manajer paket, cari
- **Aspose.Imaging**
- dan menginstal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
+[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API yang kaya fitur, kuat, dan mudah digunakan manipulasi gambar dan konversi API untuk platform C#. Membuka [NuGet](https://www.nuget.org/packages/aspose.imaging) manajer paket, cari **Aspose.Imaging** dan menginstal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Perintah Konsol Manajer Paket" offSpacer="true" %}}
 
@@ -42,9 +37,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-Anda membutuhkan
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- untuk mencoba alur kerja berikut di lingkungan Anda sendiri.
+Anda membutuhkan [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) untuk mencoba alur kerja berikut di lingkungan Anda sendiri.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -100,7 +93,7 @@ Aspose.Imaging API adalah solusi pemrosesan gambar untuk membuat, memodifikasi, 
         checkFreeAppLabel="Lihat [demo langsung kami untuk melihat WMF](https://products.aspose.app/imaging/id/image-view/WMF)">}}
 
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya" >}}
 File dengan ekstensi WMF mewakili Microsoft Windows Metafile (WMF) untuk menyimpan data gambar vektor dan format bitmap. Agar lebih akurat, WMF termasuk dalam kategori format file vektor dari format file Grafik yang tidak bergantung pada perangkat. Windows Graphical Device Interface (GDI) menggunakan fungsi yang disimpan dalam file WMF untuk menampilkan gambar di layar. Versi WMF yang lebih disempurnakan, yang dikenal sebagai Enhanced Meta Files (EMF), diterbitkan kemudian yang membuat format lebih kaya fitur. Secara praktis, WMF mirip dengan SVG.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -112,6 +105,7 @@ File dengan ekstensi WMF mewakili Microsoft Windows Metafile (WMF) untuk menyimp
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/viewer/apng" name="APNG" description="Grafik Jaringan Portabel Animasi" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/viewer/bmp" name="BMP" description="Gambar Bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/viewer/ico" name="ICO" description="ikon Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/viewer/jpg" name="JPG" description="Kelompok Ahli Fotografi Bersama" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/viewer/jpeg" name="JPEG" description="Kelompok Ahli Fotografi Bersama" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/viewer/dib" name="DIB" description="Bitmap Independen Perangkat" >}}

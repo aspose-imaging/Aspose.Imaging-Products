@@ -16,11 +16,7 @@ description: Essayez nos API de document sur site pour modifier l'arrière-plan 
 
 {{% blocks/products/pf/agp/content h2="Comment supprimer l'arrière-plan dans les fichiers EMZ à l'aide de Java" %}}
 
-Afin de supprimer l'arrière-plan dans les fichiers EMZ, nous utiliserons
-[Aspose.Imaging pour Java](https://products.aspose.com/imaging/java)
-API qui est une API de manipulation et de conversion d'images riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme Java. Vous pouvez télécharger sa dernière version directement depuis
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au fichier pom.xml.
+Afin de supprimer l'arrière-plan dans les fichiers EMZ, nous utiliserons [Aspose.Imaging pour Java](https://products.aspose.com/imaging/java) API qui est une API de manipulation et de conversion d'images riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme Java. Vous pouvez télécharger sa dernière version directement depuis [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au fichier pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -55,9 +51,7 @@ et installez-le dans votre projet basé sur Maven en ajoutant les configurations
 
 {{% blocks/products/pf/agp/text %}}
 
-Vous avez besoin du
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java)
- pour essayer le workflow suivant dans votre propre environnement.
+Vous avez besoin du [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) pour essayer le workflow suivant dans votre propre environnement.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +102,7 @@ Aspose.Imaging API est une solution de traitement d'images pour créer, modifier
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Téléchargez simplement vos fichiers EMZ et appuyez sur le bouton \"Supprimer l'arrière-plan maintenant\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Obtenez instantanément le lien de téléchargement du fichier résultant" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite" >}}
 Un fichier avec l'extension de fichier EMZ est un fichier image compressé, plus spécifiquement appelé fichier de métafichier amélioré compressé Windows.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -120,6 +114,7 @@ Un fichier avec l'extension de fichier EMZ est un fichier image compressé, plus
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/remove-background/apng" name="APNG" description="Graphiques de réseau portables animés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/remove-background/bmp" name="BMP" description="Image bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/remove-background/ico" name="ICO" description="Icône Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/remove-background/jpg" name="JPG" description="Groupe mixte d'experts photographiques" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/remove-background/dib" name="DIB" description="Bitmap indépendant du périphérique" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/remove-background/dicom" name="DICOM" description="Imagerie numérique et communications" >}}

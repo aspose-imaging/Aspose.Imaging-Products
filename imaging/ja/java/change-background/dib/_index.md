@@ -16,11 +16,7 @@ description: オンプレミスドキュメントAPIを試して、Javaアプリ
 
 {{% blocks/products/pf/agp/content h2="Javaを使用してDIBファイルの背景を変更する方法" %}}
 
-DIBファイルの背景を変更するには、
-[Aspose.Imaging for Java]（https://products.aspose.com/imaging/java）
-機能豊富で強力で使いやすいJavaプラットフォーム用の画像操作および変換APIであるAPI。最新バージョンはから直接ダウンロードできます
-[Maven]（https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging）
-次の構成をpom.xmlに追加して、Mavenベースのプロジェクトにインストールします。
+DIBファイルの背景を変更するには、 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) 機能豊富で強力で使いやすいJava ラットフォーム用の画像操作および変換APIであるAPI。最新バージョンはから直接ダウンロードできます[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 次の構成をpom.xmlに追加して、Mavenベースのプロジェクトにインストールします。
 
 {{% blocks/products/pf/agp/code-block title = "Repository" offSpacer = "true"%}}
 
@@ -55,9 +51,7 @@ DIBファイルの背景を変更するには、
 
 {{% blocks/products/pf/agp/text %}}
 
-あなたは
- [aspose-imaging-version-jdk16.jar]（https://downloads.aspose.com/imaging/java）
- 自分の環境で次のワークフローを試してください。
+あなたは [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) 自分の環境で次のワークフローを試してください。
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +102,7 @@ Aspose.Imaging APIは、アプリケーション内で画像（写真）を作�
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="DIBファイルをアップロードして、[今すぐ背景を変更]ボタンをクリックするだけです" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="結果のファイルのダウンロードリンクを即座に取得します" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む" >}}
 DIB（Device Independent Bitmap）ファイルは、標準のビットマップファイル（BMP）と構造が似ていますが、ヘッダーが異なるラスターイメージファイルです。これは、WindowsおよびmacOSで標準のBMPファイルを開くことができるほとんどすべてのアプリケーションで開くことができます。 DIBはバイナリファイルであり、BMPと同様の複雑なファイル形式を持っています。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -120,6 +114,7 @@ DIB（Device Independent Bitmap）ファイルは、標準のビットマップ�
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/java/change-background/apng" name="APNG" description="アニメーション化されたポータブルネットワークグラフィックス" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/java/change-background/bmp" name="BMP" description="ビットマップ画像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/java/change-background/ico" name="ICO" description="Windows アイコン" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/java/change-background/jpg" name="JPG" description="共同写真専門家グループ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/java/change-background/dicom" name="DICOM" description="デジタルイメージング＆コミュニケーション" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/java/change-background/djvu" name="DJVU" description="グラフィックフォーマット" >}}

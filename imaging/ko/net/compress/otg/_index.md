@@ -16,13 +16,7 @@ description: 온프레미스 문서 API를 사용해 .NET Framework, .NET Core, 
 
 {{% blocks/products/pf/agp/content h2="C#을 사용하여 OTG 파일을 압축하는 방법" %}}
 
-OTG 파일을 압축하기 위해 다음을 사용합니다.
-[.NET용 Aspose.Imaging](https://products.aspose.com/imaging/net)
- 기능이 풍부하고 강력하며 사용하기 쉬운 C# 플랫폼용 이미지 조작 및 변환 API인 API입니다. 열려있는
- [누겟](https://www.nuget.org/packages/aspose.imaging)
- 패키지 관리자, 검색
- **아포즈.이미징**
- 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
+OTG 파일을 압축하기 위해 다음을 사용합니다. [.NET용 Aspose.Imaging](https://products.aspose.com/imaging/net) 기능이 풍부하고 강력하며 사용하기 쉬운 C# 플랫폼용 이미지 조작 및 변환 API인 API입니다. 열려있는 [누겟](https://www.nuget.org/packages/aspose.imaging) 패키지 관리자, 검색 **아포즈.이미징** 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
 
 {{% blocks/products/pf/agp/code-block title="패키지 관리자 콘솔 명령" offSpacer="true" %}}
 
@@ -44,9 +38,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-당신은 필요합니다
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- 자신의 환경에서 다음 워크플로를 시도합니다.
+당신은 필요합니다 [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) 자신의 환경에서 다음 워크플로를 시도합니다.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -99,7 +91,7 @@ Aspose.Imaging API는 애플리케이션 내에서 이미지(사진)를 생성, 
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="OTG 파일을 업로드하고 \"지금 압축\" 버튼을 누르세요." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="결과 파일에 대한 다운로드 링크를 즉시 가져옵니다." >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기" >}}
 OTG 파일은 OASIS Office Applications 1.0 사양을 따르는 OpenDocument 표준을 사용하여 만든 도면 템플릿입니다. 파일 내용을 더욱 향상시키는 데 사용할 수 있는 벡터 이미지에 대한 그리기 요소의 기본 구성을 나타냅니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -111,6 +103,7 @@ OTG 파일은 OASIS Office Applications 1.0 사양을 따르는 OpenDocument 표
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/compress/apng" name="APNG" description="애니메이션 휴대용 네트워크 그래픽" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/compress/bmp" name="BMP" description="비트맵 그림" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/compress/ico" name="ICO" description="윈도우 아이콘" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/compress/jpg" name="JPG" description="공동 사진 전문가 그룹" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/compress/jpeg" name="JPEG" description="공동 사진 전문가 그룹" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/compress/dib" name="DIB" description="장치 독립 비트맵" >}}

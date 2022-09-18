@@ -18,12 +18,7 @@ description: DICOM 到 JPEG2000 C# 轉換的示例代碼。使用 API 示例代�
 {{% blocks/products/pf/agp/content h2="如何使用 C# 將 DICOM 轉換為 JPEG2000" %}}
 
 為了將 DICOM 轉換為 JPEG2000，我們將使用
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- API 是一個功能豐富、功能強大且易於使用的 C# 平台圖像處理和轉換 API。打開
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- 包管理器，搜索
- **Aspose.Imaging**
- 並安裝。您也可以從包管理器控制台使用以下命令。
+[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一個功能豐富、功能強大且易於使用的 C# 平台圖像處理和轉換 API。打開 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 並安裝。您也可以從包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 
@@ -91,12 +86,12 @@ PM> Install-Package Aspose.Imaging
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
-DICOM is the acronym for Digital Imaging and Communications in Medicine and pertains to the field of Medical Informatics. DICOM is the combination of file format definition and a network communications protocol. DICOM uses the .DCM extension. .DCM exist in two different formats i.e. format 1.x and format 2.x. DCM Format 1.x is further available in two versions normal and extended. DICOM is used for the integration of medical imaging devices like printers, servers, scanners etc from various vendors and also contains identification data of each patient for uniqueness. DICOM files can be shared between two parties if they are capable of receiving image data in DICOM format. The communication part of DICOM is application layer protocol and uses TCP/IP to communicate between entities. HTTP and HTTPS protocols are used for the web services of DICOM. Versions supported by web services are 1.0, 1.1, 2 or later.
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+DICOM 是 Digital Imaging and Communications in Medicine 的首字母縮寫詞，屬於醫學信息學領域。 DICOM 是文件格式定義和網絡通信協議的結合。 DICOM 使用 .DCM 擴展名。 .DCM 以兩種不同的格式存在，即格式 1.x 和格式 2.x。 DCM Format 1.x 還提供兩個普通版本和擴展版本。 DICOM 用於集成來自不同供應商的打印機、服務器、掃描儀等醫療成像設備，還包含每個患者的唯一識別數據。如果 DICOM 文件能夠接收 DICOM 格式的圖像數據，則它們可以在兩方之間共享。 DICOM的通信部分是應用層協議，實體之間使用TCP/IP進行通信。 HTTP 和 HTTPS 協議用於 DICOM 的 Web 服務。 Web 服務支持的版本是 1.0、1.1、2 或更高版本。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
-JPEG 2000 (JP2) is an image coding system and state-of-the-art image compression standard. Designed, using wavelet technology JPEG 2000 can code lossless content in any quality at once. Moreover, without any substantial penalty in coding efficiency, JPEG 2000 have the capability to access and decode the same content efficaciously into a variety of other resolutions and qualities. The code streams in JPEG 2000 is significantly scalable having regions of interest that provide the facility for spatial random access. Possessing Up to 16384 diverse components with the dimensions in terapixels, and precision that can be high as 38 bits/sample.
+JPEG 2000 (JP2) 是一種圖像編碼系統和最先進的圖像壓縮標準。設計，使用小波技術 JPEG 2000 可以一次編碼任何質量的無損內容。此外，在編碼效率沒有任何實質性損失的情況下，JPEG 2000 能夠有效地訪問相同的內容並將其解碼為各種其他分辨率和質量。 JPEG 2000 中的碼流具有顯著的可擴展性，具有為空間隨機訪問提供便利的感興趣區域。擁有多達 16384 個不同的組件，尺寸以萬億像素為單位，精度可高達 38 位/樣本。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
     {{< /blocks/products/pf/agp/about-file-section >}}
@@ -105,29 +100,30 @@ JPEG 2000 (JP2) is an image coding system and state-of-the-art image compression
 
 {{< blocks/products/pf/agp/other-supported-section title="其他支持的轉換" subTitle="使用 C#，可以輕鬆轉換不同的格式，包括。" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/dicom-to-bmp" name="BMP" description="Bitmap Picture" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/dicom-to-gif" name="GIF" description="Graphical Interchange Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/dicom-to-emf" name="EMF" description="Enhanced Metafile Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/dicom-to-jpg" name="JPG" description="Joint Photographic Experts Group" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/dicom-to-jpeg" name="JPEG" description="Joint Photographic Experts Group" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/dicom-to-bmp" name="BMP" description="位圖圖片" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/dicom-to-gif" name="GIF" description="圖形交換格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/dicom-to-emf" name="EMF" description="增強的元文件格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/dicom-to-jpg" name="JPG" description="聯合攝影專家組" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/dicom-to-jpeg" name="JPEG" description="聯合攝影專家組" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/dicom-to-jp2" name="JP2" description="JPEG 2000" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/dicom-to-j2k" name="J2K" description="Wavelet Compressed Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/dicom-to-j2k" name="J2K" description="小波壓縮圖像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/dicom-to-jpeg2000" name="JPEG2000" description="JPEG 2000" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/dicom-to-png" name="PNG" description="Portable Network Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/dicom-to-apng" name="APNG" description="Animated Portable Network Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/dicom-to-psd" name="PSD" description="Photoshop Document" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/dicom-to-dxf" name="DXF" description="Drawing Interchange Format, or Drawing Exchange Format," >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/dicom-to-svg" name="SVG" description="Scalable Vector Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/dicom-to-tiff" name="TIFF" description="Tagged Image Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/dicom-to-webp" name="WEBP" description="Raster Web Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/dicom-to-wmf" name="WMF" description="Microsoft Windows Metafile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/dicom-to-pdf" name="PDF" description="Portable Document Format (PDF)" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/dicom-to-html" name="HTML" description="HTML5 Canvas" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/dicom-to-emz" name="EMZ" description="Windows Compressed Enhanced Metafile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/dicom-to-wmz" name="WMZ" description="Compressed Windows Media Player Skin" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/dicom-to-tga" name="TGA" description="Targa Graphic" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/dicom-to-svgz" name="SVGZ" description="Compressed version of Scalable Vector Graphics (.SVG) file." >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/dicom-to-canvas" name="CANVAS" description="HTML5 Canvas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/dicom-to-png" name="PNG" description="便攜式網絡圖形" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/dicom-to-apng" name="APNG" description="動畫便攜式網絡圖形" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/dicom-to-psd" name="PSD" description="Photoshop 文檔" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/dicom-to-dxf" name="DXF" description="圖紙交換格式，或圖紙交換格式，" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/dicom-to-svg" name="SVG" description="可縮放矢量圖形" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/dicom-to-tiff" name="TIFF" description="標記圖像格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/dicom-to-webp" name="WEBP" description="光柵網絡圖像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/dicom-to-wmf" name="WMF" description="微軟視窗元文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/dicom-to-pdf" name="PDF" description="便攜式文檔格式 (PDF)" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/dicom-to-html" name="HTML" description="HTML5 畫布" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/dicom-to-emz" name="EMZ" description="Windows 壓縮增強元文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/dicom-to-wmz" name="WMZ" description="壓縮的 Windows Media Player 皮膚" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/dicom-to-tga" name="TGA" description="塔加圖形" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/dicom-to-svgz" name="SVGZ" description="可縮放矢量圖形 (.SVG) 文件的壓縮版本。" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/dicom-to-canvas" name="CANVAS" description="HTML5 畫布" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/conversion/dicom-to-ico" name="ICO" description="窗口圖標" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

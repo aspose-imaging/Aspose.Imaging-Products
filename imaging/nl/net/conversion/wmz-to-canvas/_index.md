@@ -18,12 +18,7 @@ description: Voorbeeldcode voor WMZ naar CANVAS C#-conversie. Gebruik API-voorbe
 {{% blocks/products/pf/agp/content h2="Hoe WMZ naar CANVAS te converteren met C#" %}}
 
 Om WMZ naar CANVAS te converteren, gebruiken we
-[Aspose.Imaging voor .NET](https://products.aspose.com/imaging/net)
- API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het C#-platform. Open
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- pakketbeheerder, zoek naar
- **Aspose.Imaging**
- en installeren. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
+[Aspose.Imaging voor .NET](https://products.aspose.com/imaging/net) API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het C#-platform. Open [NuGet](https://www.nuget.org/packages/aspose.imaging) pakketbeheerder, zoek naar **Aspose.Imaging** en installeren. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
@@ -91,7 +86,7 @@ Voordat u de conversievoorbeeldcode uitvoert, moet u ervoor zorgen dat u aan de 
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
 WMZ is een bestandsextensie voor een skin-bestandsformaat in/voor/gebruikt door Windows Media Player. Een WMZ-bestand is in feite een gecomprimeerd WMF-bestand in XML.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -128,6 +123,7 @@ HTML (Hyper Text Markup Language) is de extensie voor webpagina's die zijn gemaa
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/conversion/wmz-to-tga" name="TGA" description="Targa-afbeelding" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/conversion/wmz-to-svgz" name="SVGZ" description="Gecomprimeerde versie van het Scalable Vector Graphics-bestand (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/conversion/wmz-to-canvas" name="CANVAS" description="HTML5-canvas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/conversion/wmz-to-ico" name="ICO" description="Windows-pictogram" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

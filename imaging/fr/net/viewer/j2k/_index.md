@@ -17,12 +17,7 @@ description: Essayez nos API de document sur site pour afficher les fichiers J2K
 {{% blocks/products/pf/agp/content h2="Comment afficher des images J2K à l'aide de C#" %}}
 
 Pour afficher les fichiers J2K, nous utiliserons
-[Aspose.Imaging pour .NET](https://products.aspose.com/imaging/net)
- API qui est une API de manipulation et de conversion d'images riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme C #. Ouvrir
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- gestionnaire de paquets, recherchez
- **Aspose.Imaging**
- et installer. Vous pouvez également utiliser la commande suivante à partir de la console du gestionnaire de packages.
+[Aspose.Imaging pour .NET](https://products.aspose.com/imaging/net) API qui est une API de manipulation et de conversion d'images riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme C #. Ouvrir [NuGet](https://www.nuget.org/packages/aspose.imaging) gestionnaire de paquets, recherchez **Aspose.Imaging** et installer. Vous pouvez également utiliser la commande suivante à partir de la console du gestionnaire de packages.
 
 {{% blocks/products/pf/agp/code-block title="Commande de la console du gestionnaire de packages" offSpacer="true" %}}
 
@@ -44,9 +39,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-Vous avez besoin du
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- pour essayer le workflow suivant dans votre propre environnement.
+Vous avez besoin du [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) pour essayer le workflow suivant dans votre propre environnement.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -102,7 +95,7 @@ Aspose.Imaging API est une solution de traitement d'images pour créer, modifier
         checkFreeAppLabel="Consultez nos [démos en direct pour voir J2K](https://products.aspose.app/imaging/fr/image-view/J2K)">}}
 
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite" >}}
 Un fichier J2K est une image compressée à l'aide de la compression par ondelettes au lieu de la compression DCT.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -114,6 +107,7 @@ Un fichier J2K est une image compressée à l'aide de la compression par ondelet
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/net/viewer/apng" name="APNG" description="Graphiques de réseau portables animés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/net/viewer/bmp" name="BMP" description="Image bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/net/viewer/ico" name="ICO" description="Icône Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/net/viewer/jpg" name="JPG" description="Groupe mixte d'experts photographiques" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/net/viewer/jpeg" name="JPEG" description="Groupe mixte d'experts photographiques" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/net/viewer/dib" name="DIB" description="Bitmap indépendant du périphérique" >}}

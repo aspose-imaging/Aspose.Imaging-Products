@@ -16,10 +16,7 @@ description: 试试我们的 On-Premise 文档 API 来裁剪 Java 应用程序�
 
 {{% blocks/products/pf/agp/content h2="如何使用 Java 裁剪 TGA 文件" %}}
 
-为了裁剪 TGA 文件，我们将使用
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java)
-API 是一个功能丰富、功能强大且易于使用的 Java 平台图像处理和转换 API。您可以直接从
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
+为了裁剪 TGA 文件，我们将使用 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一个功能丰富、功能强大 易于使用的 Java 平台图像处理和转换 API。您可以直接从 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
 并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
@@ -55,9 +52,7 @@ API 是一个功能丰富、功能强大且易于使用的 Java 平台图像处�
 
 {{% blocks/products/pf/agp/text %}}
 
-你需要
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java)
- 在您自己的环境中尝试以下工作流程。
+你需要 [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) 在您自己的环境中尝试以下工作流程。
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +103,7 @@ Aspose.Imaging API 是一种图像处理解决方案，用于在应用程序中�
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="只需上传您的 TGA 文件并点击“立即裁剪”按钮" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="立即获取生成文件的下载链接" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多" >}}
 Truevision TGA，通常称为 TARGA，是由 Truevision Inc.（现为 Avid Technology 的一部分）创建的光栅图形文件格式。它是 TARGA 和 VISTA 板的原生格式，它们是 IBM 兼容 PC 上第一款支持高彩/真彩显示的显卡。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -120,6 +115,7 @@ Truevision TGA，通常称为 TARGA，是由 Truevision Inc.（现为 Avid Techn
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/crop/apng" name="APNG" description="动画便携式网络图形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/crop/bmp" name="BMP" description="位图图片" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/crop/ico" name="ICO" description="窗口图标" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/crop/jpg" name="JPG" description="联合摄影专家组" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/crop/dib" name="DIB" description="设备无关位图" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/crop/dicom" name="DICOM" description="数码影像与通讯" >}}

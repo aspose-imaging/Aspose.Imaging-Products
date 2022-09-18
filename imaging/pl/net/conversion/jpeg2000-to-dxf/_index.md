@@ -18,12 +18,7 @@ description: Przykładowy kod konwersji JPEG2000 do DXF C#. Użyj przykładowego
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować JPEG2000 na DXF za pomocą C#" %}}
 
 Aby przekonwertować JPEG2000 na DXF, użyjemy
-[Aspose.Imaging dla .NET](https://products.aspose.com/imaging/net)
- API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do obróbki i konwersji obrazów dla platformy C#. otwarty
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- menedżer pakietów, szukaj
- **Aspose.Obrazowanie**
- i zainstaluj. Możesz również użyć następującego polecenia z konsoli Menedżera pakietów.
+[Aspose.Imaging dla .NET](https://products.aspose.com/imaging/net) API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do obróbki i konwersji obrazów dla platformy C#. Otwarty [NuGet](https://www.nuget.org/packages/aspose.imaging) menedżer pakietów, szukaj **Aspose.Obrazowanie** i zainstaluj. Możesz również użyć następującego polecenia z konsoli Menedżera pakietów.
 
 {{% blocks/products/pf/agp/code-block title="Polecenie konsoli menedżera pakietów" offSpacer="true" %}}
 
@@ -128,6 +123,7 @@ DXF, Drawing Interchange Format lub Drawing Exchange Format, to oznakowana repre
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/conversion/jpeg2000-to-tga" name="TGA" description="Targa grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/conversion/jpeg2000-to-svgz" name="SVGZ" description="Skompresowana wersja pliku Scalable Vector Graphics (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/conversion/jpeg2000-to-canvas" name="CANVAS" description="Płótno HTML5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/conversion/jpeg2000-to-ico" name="ICO" description="Ikona Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

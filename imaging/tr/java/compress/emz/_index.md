@@ -16,11 +16,7 @@ description: EMZ dosyalarını Java Uygulamasında sıkıştırmak için Şirket
 
 {{% blocks/products/pf/agp/content h2="Java Kullanarak EMZ Dosyaları Nasıl Sıkıştırılır" %}}
 
-EMZ dosyalarını sıkıştırmak için kullanacağız
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java)
-Java platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. En son sürümünü doğrudan adresinden indirebilirsiniz.
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-ve pom.xml dosyasına aşağıdaki konfigürasyonları ekleyerek Maven tabanlı projenize kurun.
+EMZ dosyalarını sıkıştırmak için kullanacağız [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) Java platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. En son sürümünü doğrudan adresinden indirebilirsiniz. [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) ve pom.xml dosyasına aşağıdaki konfigürasyonları ekleyerek Maven tabanlı projenize kurun.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -55,9 +51,7 @@ ve pom.xml dosyasına aşağıdaki konfigürasyonları ekleyerek Maven tabanlı 
 
 {{% blocks/products/pf/agp/text %}}
 
-ihtiyacın var
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java)
- aşağıdaki iş akışını kendi ortamınızda denemek için
+ihtiyacın var [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) aşağıdaki iş akışını kendi ortamınızda denemek için
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +102,7 @@ Aspose.Imaging API, uygulamalar içinde görüntüleri (fotoğrafları) oluştur
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="EMZ dosyalarınızı yükleyin ve \"Şimdi sıkıştır\" düğmesine basın" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Ortaya çıkan dosyanın indirme bağlantısını anında alın" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku" >}}
 EMZ dosya uzantısına sahip bir dosya, daha özel olarak Windows Sıkıştırılmış Gelişmiş Meta Dosyası dosyası olarak adlandırılan sıkıştırılmış bir görüntü dosyasıdır.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -120,6 +114,7 @@ EMZ dosya uzantısına sahip bir dosya, daha özel olarak Windows Sıkıştırı
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/compress/apng" name="APNG" description="Hareketli Taşınabilir Ağ Grafikleri" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/compress/bmp" name="BMP" description="Bitmap Resmi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/compress/ico" name="ICO" description="Windows simgesi" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/compress/jpg" name="JPG" description="Birleşmiş Fotoğraf Uzmanları Grubu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/compress/jpeg" name="JPEG" description="Birleşmiş Fotoğraf Uzmanları Grubu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/compress/dib" name="DIB" description="Cihazdan Bağımsız Bit Eşlem" >}}

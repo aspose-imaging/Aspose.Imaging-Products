@@ -17,12 +17,7 @@ description: JPG dosyalarını .NET Framework, .NET Core, Windows Uygulaması, A
 {{% blocks/products/pf/agp/content h2="C# Kullanarak JPG görüntüleri Nasıl İzlenir" %}}
 
 JPG dosyalarını görüntülemek için kullanacağız
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. Açık
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- paket yöneticisi, ara
- **Aspose.Görüntüleme**
- ve yükleyin. Paket Yöneticisi Konsolundan aşağıdaki komutu da kullanabilirsiniz.
+[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. Açık [NuGet](https://www.nuget.org/packages/aspose.imaging) paket yöneticisi, ara **Aspose.Görüntüleme** ve yükleyin. Paket Yöneticisi Konsolundan aşağıdaki komutu da kullanabilirsiniz.
 
 {{%blocks/products/pf/agp/code-block title="Paket Yöneticisi Konsol Komutu" offSpacer="true" %}}
 
@@ -42,9 +37,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-ihtiyacın var
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- aşağıdaki iş akışını kendi ortamınızda denemek için
+ihtiyacın var [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) aşağıdaki iş akışını kendi ortamınızda denemek için
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -100,7 +93,7 @@ Aspose.Imaging API, uygulamalar içinde görüntüleri (fotoğrafları) oluştur
         checkFreeAppLabel="[yi görüntülemek için canlı JPG](https://products.aspose.app/imaging/tr/image-view/JPG)">}}
 
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku" >}}
 JPEG, kayıplı sıkıştırma yöntemi kullanılarak kaydedilen bir görüntü formatı türüdür. Sıkıştırmanın bir sonucu olarak çıktı görüntüsü, depolama boyutu ve görüntü kalitesi arasında bir dengedir. Kullanıcılar, istenen kalite seviyesine ulaşmak için sıkıştırma seviyesini ayarlayabilir ve aynı zamanda depolama boyutunu küçültebilir. Görüntüye 10:1 sıkıştırma uygulanırsa görüntü kalitesi ihmal edilebilir düzeyde etkilenir. Sıkıştırma değeri ne kadar yüksek olursa, görüntü kalitesindeki bozulma o kadar yüksek olur.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -112,6 +105,7 @@ JPEG, kayıplı sıkıştırma yöntemi kullanılarak kaydedilen bir görüntü 
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/viewer/apng" name="APNG" description="Hareketli Taşınabilir Ağ Grafikleri" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/viewer/bmp" name="BMP" description="Bitmap Resmi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/viewer/ico" name="ICO" description="Windows simgesi" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/viewer/jpeg" name="JPEG" description="Birleşmiş Fotoğraf Uzmanları Grubu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/viewer/dib" name="DIB" description="Cihazdan Bağımsız Bit Eşlem" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/viewer/dicom" name="DICOM" description="Dijital Görüntüleme ve İletişim" >}}

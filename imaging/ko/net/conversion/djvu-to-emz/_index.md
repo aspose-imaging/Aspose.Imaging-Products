@@ -18,12 +18,7 @@ description: DJVU에서 EMZ로의 C# 변환을 위한 샘플 코드입니다. VB
 {{% blocks/products/pf/agp/content h2="C#을 사용하여 DJVU을 EMZ로 변환하는 방법" %}}
 
 DJVU을 EMZ로 변환하려면 다음을 사용합니다.
-[.NET용 Aspose.Imaging](https://products.aspose.com/imaging/net)
- 기능이 풍부하고 강력하며 사용하기 쉬운 C# 플랫폼용 이미지 조작 및 변환 API인 API입니다. 열려있는
- [누겟](https://www.nuget.org/packages/aspose.imaging)
- 패키지 관리자, 검색
- **아포즈.이미징**
- 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
+[.NET용 Aspose.Imaging](https://products.aspose.com/imaging/net) 기능이 풍부하고 강력하며 사용하기 쉬운 C# 플랫폼용 이미지 조작 및 변환 API인 API입니다. 열려있는 [누겟](https://www.nuget.org/packages/aspose.imaging) 패키지 관리자, 검색 **아포즈.이미징** 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
 
 {{% blocks/products/pf/agp/code-block title="패키지 관리자 콘솔 명령" offSpacer="true" %}}
 
@@ -93,11 +88,11 @@ PM> Install-Package Aspose.Imaging
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
 "déjà vu"로 발음되는 DjVu는 특히 텍스트, 그림, 이미지 및 사진의 조합이 포함된 스캔 문서 및 책을 위한 그래픽 파일 형식입니다. AT&T Labs에서 개발했습니다. 텍스트 및 배경 이미지의 이미지 레이어 분리, 프로그레시브 로딩, 산술 코딩 및 비트 이미지에 대한 손실 압축과 같은 여러 기술을 사용합니다. DJVU 파일은 압축된 고품질의 컬러 이미지, 사진, 텍스트, 그림 등을 담을 수 있어 적은 공간에 저장할 수 있어 웹상에서 eBook, 매뉴얼, 신문, 고대문서 등으로 활용되고 있습니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
 EMZ 파일 확장자를 가진 파일은 압축된 이미지 파일이며, 보다 구체적으로 Windows Compressed Enhanced Metafile 파일이라고 합니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -131,6 +126,7 @@ EMZ 파일 확장자를 가진 파일은 압축된 이미지 파일이며, 보�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/conversion/djvu-to-tga" name="TGA" description="타르가 그래픽" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/conversion/djvu-to-svgz" name="SVGZ" description="확장 가능한 벡터 그래픽(.SVG) 파일의 압축 버전입니다." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/conversion/djvu-to-canvas" name="CANVAS" description="HTML5 캔버스" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/conversion/djvu-to-ico" name="ICO" description="윈도우 아이콘" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -18,10 +18,7 @@ description: WMFからHTMLへのJava変換のサンプルコード。 Webまた�
 {{% blocks/products/pf/agp/content h2="Javaを使用してWMFをHTMLに変換する方法" %}}
 
 WMFをHTMLに変換するには、
-[Aspose.Imaging for Java]（https://products.aspose.com/imaging/java）
-機能豊富で強力で使いやすいJavaプラットフォーム用の画像操作および変換APIであるAPI。最新バージョンはから直接ダウンロードできます
-[Maven]（https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging）
-次の構成をpom.xmlに追加して、Mavenベースのプロジェクトにインストールします。
+[Aspose.Imaging for Java](https://products.aspose.com/imaging/java) 機能豊富で強力で使いやすいJava ラットフォーム用の画像操作および変換APIであるAPI。最新バージョンはから直接ダウンロードできます[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 次の構成をpom.xmlに追加して、Mavenベースのプロジェクトにインストールします。
 
 {{% blocks/products/pf/agp/code-block title = "Repository" offSpacer = "true"%}}
 
@@ -102,7 +99,7 @@ WMFをHTMLに変換するには、
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
 WMF拡張子の付いたファイルは、ベクターおよびビットマップ形式の画像データを格納するためのMicrosoft Windowsメタファイル（WMF）を表します。より正確に言うと、WMFは、デバイスに依存しないグラフィックファイル形式のベクターファイル形式カテゴリに属しています。 Windowsグラフィックデバイスインターフェイス（GDI）は、WMFファイルに格納されている関数を使用して、画面に画像を表示します。拡張メタファイル（EMF）として知られるWMFのより拡張されたバージョンは、フォーマットをより豊富な機能にするために後で公開されました。実際には、WMFはSVGに似ています。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -139,6 +136,7 @@ HTML（ハイパーテキストマークアップ言語）は、ブラウザで�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/java/conversion/wmf-to-tga" name="TGA" description="タルガグラフィック" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/java/conversion/wmf-to-svgz" name="SVGZ" description="スケーラブルベクターグラフィックス（.SVG）ファイルの圧縮バージョン。" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/java/conversion/wmf-to-canvas" name="CANVAS" description="HTML5キャンバス" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/java/conversion/wmf-to-ico" name="ICO" description="Windows アイコン" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

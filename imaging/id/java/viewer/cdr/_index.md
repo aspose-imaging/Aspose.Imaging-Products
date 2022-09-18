@@ -17,10 +17,7 @@ description: Coba API dokumen Lokal kami untuk Melihat file CDR di .NET Framewor
 {{% blocks/products/pf/agp/content h2="Cara Melihat gambar CDR Menggunakan Java" %}}
 
 Untuk melihat file CDR, kami akan menggunakan
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java)
-API yang kaya fitur, kuat dan mudah digunakan manipulasi gambar dan konversi API untuk platform Java. Anda dapat mengunduh versi terbarunya langsung dari
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
+[Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API yang kaya fitur, kuat dan mudah digunakan manipulasi gambar dan konversi API untuk platform Java. Anda dapat mengunduh versi terbarunya langsung dari [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -55,9 +52,7 @@ dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berik
 
 {{% blocks/products/pf/agp/text %}}
 
-Anda membutuhkan
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java)
- untuk mencoba alur kerja berikut di lingkungan Anda sendiri.
+Anda membutuhkan [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) untuk mencoba alur kerja berikut di lingkungan Anda sendiri.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -111,7 +106,7 @@ Aspose.Imaging API adalah solusi pemrosesan gambar untuk membuat, memodifikasi, 
         checkFreeAppLabel="Lihat [demo langsung kami untuk melihat CDR](https://products.aspose.app/imaging/id/image-view/CDR)">}}
 
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya" >}}
 File CDR adalah file gambar gambar vektor yang dibuat secara native dengan CorelDRAW untuk menyimpan gambar digital yang dikodekan dan dikompresi. File gambar seperti itu berisi teks, garis, bentuk, gambar, warna, dan efek untuk representasi vektor dari konten gambar. File CDR dapat dibuka dengan CorelDRAW sebagai aplikasi utama dan juga dapat dikonversi ke format lain seperti PDF, JPG, PNG, BMP dan AI. Ini dapat digunakan untuk representasi berbagai data grafik seperti brosur, tabloid, amplop, dan kartu pos. Selain CorelDRAW, produk Corel lainnya seperti Corel Paintshop Pro dan CorelDRAW Graphics suite juga dapat membuka format file CDR.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -123,6 +118,7 @@ File CDR adalah file gambar gambar vektor yang dibuat secara native dengan Corel
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/viewer/apng" name="APNG" description="Grafik Jaringan Portabel Animasi" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/viewer/bmp" name="BMP" description="Gambar Bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/viewer/ico" name="ICO" description="ikon Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/viewer/jpg" name="JPG" description="Kelompok Ahli Fotografi Bersama" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/viewer/jpeg" name="JPEG" description="Kelompok Ahli Fotografi Bersama" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/viewer/dib" name="DIB" description="Bitmap Independen Perangkat" >}}

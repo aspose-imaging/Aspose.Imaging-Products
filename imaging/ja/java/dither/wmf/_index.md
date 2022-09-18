@@ -16,11 +16,7 @@ description: .NET Framework、.NET Core、Windowsアプリケーション、ASP.
 
 {{% blocks/products/pf/agp/content h2="Javaを使用してWMFファイルをディザリングする方法" %}}
 
-WMFファイルをディザリングするために、
-[Aspose.Imaging for Java]（https://products.aspose.com/imaging/java）
-機能豊富で強力で使いやすいJavaプラットフォーム用の画像操作および変換APIであるAPI。最新バージョンはから直接ダウンロードできます
-[Maven]（https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging）
-次の構成をpom.xmlに追加して、Mavenベースのプロジェクトにインストールします。
+WMFファイルをディザリングするために、 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) 機能豊富で強力で使いやすいJava ラットフォーム用の画像操作および変換APIであるAPI。最新バージョンはから直接ダウンロードできます[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 次の構成をpom.xmlに追加して、Mavenベースのプロジェクトにインストールします。
 
 {{% blocks/products/pf/agp/code-block title = "Repository" offSpacer = "true"%}}
 
@@ -55,9 +51,7 @@ WMFファイルをディザリングするために、
 
 {{% blocks/products/pf/agp/text %}}
 
-あなたは
- [aspose-imaging-version-jdk16.jar]（https://downloads.aspose.com/imaging/java）
- 自分の環境で次のワークフローを試してください。
+あなたは [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) 自分の環境で次のワークフローを試してください。
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +102,7 @@ Aspose.Imaging APIは、アプリケーション内で画像（写真）を作�
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="WMFファイルをアップロードして[今すぐディザリング]ボタンを押すだけです" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="結果のファイルのダウンロードリンクを即座に取得します" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む" >}}
 WMF拡張子の付いたファイルは、ベクターおよびビットマップ形式の画像データを格納するためのMicrosoft Windowsメタファイル（WMF）を表します。より正確に言うと、WMFは、デバイスに依存しないグラフィックファイル形式のベクターファイル形式カテゴリに属しています。 Windowsグラフィックデバイスインターフェイス（GDI）は、WMFファイルに格納されている関数を使用して、画面に画像を表示します。拡張メタファイル（EMF）として知られるWMFのより拡張されたバージョンは、フォーマットをより豊富な機能にするために後で公開されました。実際には、WMFはSVGに似ています。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -120,6 +114,7 @@ WMF拡張子の付いたファイルは、ベクターおよびビットマッ�
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/java/dither/apng" name="APNG" description="アニメーション化されたポータブルネットワークグラフィックス" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/java/dither/bmp" name="BMP" description="ビットマップ画像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/java/dither/ico" name="ICO" description="Windows アイコン" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/java/dither/jpg" name="JPG" description="共同写真専門家グループ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/java/dither/jpeg" name="JPEG" description="共同写真専門家グループ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/java/dither/dib" name="DIB" description="デバイスに依存しないビットマップ" >}}

@@ -18,10 +18,7 @@ description: BMP에서 EMF로의 Java 변환을 위한 샘플 코드입니다. �
 {{% blocks/products/pf/agp/content h2="Java을 사용하여 BMP을 EMF로 변환하는 방법" %}}
 
 BMP을 EMF로 변환하려면 다음을 사용합니다.
-[자바용 Aspose.Imaging](https://products.aspose.com/imaging/java)
-기능이 풍부하고 강력하며 사용하기 쉬운 Java 플랫폼용 이미지 조작 및 변환 API인 API입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.
-[메이븐](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-다음 구성을 pom.xml에 추가하여 Maven 기반 프로젝트 내에 설치합니다.
+[자바용 Aspose.Imaging](https://products.aspose.com/imaging/java) 기능이 풍부하고 강력하며 사용하기쉬운 Java 플랫폼용 이미지 조작 및 변환 API인 API입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.[메이븐(https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 다음 구성을 pom.xml에 추가하여 Maven 기반 프로젝트 내에 설치합니다.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -102,11 +99,11 @@ BMP을 EMF로 변환하려면 다음을 사용합니다.
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
 확장자가 .BMP인 파일은 비트맵 디지털 이미지를 저장하는 데 사용되는 비트맵 이미지 파일을 나타냅니다. 이러한 이미지는 그래픽 어댑터와 무관하며 DIB(장치 독립 비트맵) 파일 형식이라고도 합니다. 이 독립성은 Microsoft Windows 및 Mac과 같은 여러 플랫폼에서 파일을 여는 목적을 제공합니다. BMP 파일 형식은 데이터를 흑백 및 다양한 색상 깊이의 색상 형식으로 2차원 디지털 이미지로 저장할 수 있습니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
 EMF(Enhanced Metafile Format)는 그래픽 이미지를 장치에 독립적으로 저장합니다. EMF의 메타파일은 모든 출력 장치에서 구문 분석한 후 저장된 이미지를 렌더링할 수 있는 시간순의 가변 길이 레코드로 구성됩니다. 이러한 가변 길이 레코드는 포함된 개체의 정의, 그리기 명령 및 이미지를 정확하게 렌더링하는 데 중요한 그래픽 속성이 될 수 있습니다. 장치가 자체 그래픽 환경을 사용하여 EMF 메타파일을 열 때 원본 이미지의 비율, 치수, 색상 및 기타 그래픽 속성은 여는 장치 플랫폼에 관계없이 동일하게 유지됩니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -139,6 +136,7 @@ EMF(Enhanced Metafile Format)는 그래픽 이미지를 장치에 독립적으�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/conversion/bmp-to-tga" name="TGA" description="타르가 그래픽" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/conversion/bmp-to-svgz" name="SVGZ" description="확장 가능한 벡터 그래픽(.SVG) 파일의 압축 버전입니다." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/conversion/bmp-to-canvas" name="CANVAS" description="HTML5 캔버스" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/conversion/bmp-to-ico" name="ICO" description="윈도우 아이콘" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -17,10 +17,7 @@ description: Coba API dokumen Lokal kami untuk Melihat file WEBP di .NET Framewo
 {{% blocks/products/pf/agp/content h2="Cara Melihat gambar WEBP Menggunakan Java" %}}
 
 Untuk melihat file WEBP, kami akan menggunakan
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java)
-API yang kaya fitur, kuat dan mudah digunakan manipulasi gambar dan konversi API untuk platform Java. Anda dapat mengunduh versi terbarunya langsung dari
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
+[Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API yang kaya fitur, kuat dan mudah digunakan manipulasi gambar dan konversi API untuk platform Java. Anda dapat mengunduh versi terbarunya langsung dari [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -55,9 +52,7 @@ dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berik
 
 {{% blocks/products/pf/agp/text %}}
 
-Anda membutuhkan
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java)
- untuk mencoba alur kerja berikut di lingkungan Anda sendiri.
+Anda membutuhkan [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) untuk mencoba alur kerja berikut di lingkungan Anda sendiri.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -111,7 +106,7 @@ Aspose.Imaging API adalah solusi pemrosesan gambar untuk membuat, memodifikasi, 
         checkFreeAppLabel="Lihat [demo langsung kami untuk melihat WEBP](https://products.aspose.app/imaging/id/image-view/WEBP)">}}
 
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya" >}}
 WebP, diperkenalkan oleh Google, adalah format file gambar web raster modern yang didasarkan pada kompresi lossless dan lossy. Ini memberikan kualitas gambar yang sama sekaligus mengurangi ukuran gambar secara signifikan. Karena sebagian besar halaman web menggunakan gambar sebagai representasi data yang efektif, penggunaan gambar WebP di halaman web menghasilkan pemuatan halaman web yang lebih cepat. Sesuai Google, gambar lossless WebP berukuran 26% lebih kecil dibandingkan dengan PNG, sementara gambar lossy WebP 25-34% lebih kecil dari gambar JPEG yang sebanding. Gambar dibandingkan berdasarkan indeks Kesamaan Struktural (SSIM) antara WebP dan format file gambar lainnya. WebP adalah proyek saudara dari format wadah multimedia WebM.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -123,6 +118,7 @@ WebP, diperkenalkan oleh Google, adalah format file gambar web raster modern yan
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/viewer/apng" name="APNG" description="Grafik Jaringan Portabel Animasi" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/viewer/bmp" name="BMP" description="Gambar Bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/viewer/ico" name="ICO" description="ikon Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/viewer/jpg" name="JPG" description="Kelompok Ahli Fotografi Bersama" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/viewer/jpeg" name="JPEG" description="Kelompok Ahli Fotografi Bersama" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/viewer/dib" name="DIB" description="Bitmap Independen Perangkat" >}}

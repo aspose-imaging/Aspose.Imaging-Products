@@ -16,13 +16,8 @@ description: Probieren Sie unsere On-Premise-Dokument-APIs aus, um OTG-Dateien i
 
 {{% blocks/products/pf/agp/content h2="So binarisieren Sie OTG-Dateien mit C#" %}}
 
-Um OTG-Dateien zu binarisieren, verwenden wir
-[Aspose.Imaging für .NET](https://products.aspose.com/imaging/net)
- API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Bildbearbeitungs- und Konvertierungs-API für die C#-Plattform ist. Offen
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- Paketmanager, suche nach
- **Aspose.Imaging**
- und installieren. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden.
+Um OTG-Dateien zu binarisieren, verwenden wir [Aspose.Imaging für .NET](https://products.aspose.com/imaging/net) API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Bildbearbeitungs- und Konvertierungs-API für die C#-Plattform ist. Offen [NuGet](https://www.nuget.org/packages/aspose.imaging) Paketmanager, suche nach
+ **Aspose.Imaging** und installieren. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
@@ -42,9 +37,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-Du brauchst die
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- um den folgenden Workflow in Ihrer eigenen Umgebung auszuprobieren.
+Du brauchst die [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) um den folgenden Workflow in Ihrer eigenen Umgebung auszuprobieren.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -97,7 +90,7 @@ Aspose.Imaging API ist eine Bildverarbeitungslösung zum Erstellen, Ändern, Zei
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Laden Sie einfach Ihre OTG-Dateien hoch und klicken Sie auf die Schaltfläche \"Jetzt binarisieren\"." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Erhalten Sie sofort den Download-Link für die resultierende Datei" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen" >}}
 Eine OTG-Datei ist eine Zeichnungsvorlage, die mit dem OpenDocument-Standard erstellt wird, der der OASIS Office Applications 1.0-Spezifikation folgt. Es stellt die Standardorganisation von Zeichnungselementen für ein Vektorbild dar, das verwendet werden kann, um den Inhalt der Datei weiter zu verbessern.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -109,6 +102,7 @@ Eine OTG-Datei ist eine Zeichnungsvorlage, die mit dem OpenDocument-Standard ers
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/binarize/apng" name="APNG" description="Animierte tragbare Netzwerkgrafiken" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/binarize/bmp" name="BMP" description="Bitmap-Bild" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/binarize/ico" name="ICO" description="Windows-Symbol" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/binarize/jpg" name="JPG" description="Gemeinsame fotografische Expertengruppe" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/binarize/jpeg" name="JPEG" description="Gemeinsame fotografische Expertengruppe" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/binarize/dib" name="DIB" description="Geräteunabhängige Bitmap" >}}

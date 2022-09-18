@@ -16,13 +16,7 @@ description: .NET Framework, .NET Core, Windows 애플리케이션, ASP.NET 웹 
 
 {{% blocks/products/pf/agp/content h2="C#을 사용하여 DIB 파일을 필터링하는 방법" %}}
 
-DIB 파일을 필터링하기 위해 다음을 사용합니다.
-[.NET용 Aspose.Imaging](https://products.aspose.com/imaging/net)
- 기능이 풍부하고 강력하며 사용하기 쉬운 C# 플랫폼용 이미지 조작 및 변환 API인 API입니다. 열려있는
- [누겟](https://www.nuget.org/packages/aspose.imaging)
- 패키지 관리자, 검색
- **아포즈.이미징**
- 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
+DIB 파일을 필터링하기 위해 다음을 사용합니다. [.NET용 Aspose.Imaging](https://products.aspose.com/imaging/net) 기능이 풍부하고 강력하며 사용하기 쉬운 C# 플랫폼용 이미지 조작 및 변환 API인 API입니다. 열려있는 [누겟](https://www.nuget.org/packages/aspose.imaging) 패키지 관리자, 검색 **아포즈.이미징** 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
 
 {{% blocks/products/pf/agp/code-block title="패키지 관리자 콘솔 명령" offSpacer="true" %}}
 
@@ -44,9 +38,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-당신은 필요합니다
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- 자신의 환경에서 다음 워크플로를 시도합니다.
+당신은 필요합니다 [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) 자신의 환경에서 다음 워크플로를 시도합니다.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -99,7 +91,7 @@ Aspose.Imaging API는 애플리케이션 내에서 이미지(사진)를 생성, 
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="DIB 파일을 업로드하고 \"지금 필터링\" 버튼을 누르세요." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="결과 파일에 대한 다운로드 링크를 즉시 가져옵니다." >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기" >}}
 DIB(장치 독립 비트맵) 파일은 표준 비트맵 파일(BMP)과 구조가 유사하지만 헤더가 다른 래스터 이미지 파일입니다. Windows 및 macOS에서 표준 BMP 파일을 열 수 있는 거의 모든 응용 프로그램에서 열 수 있습니다. DIB는 바이너리 파일이며 BMP와 유사한 복잡한 파일 형식을 가지고 있습니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -111,6 +103,7 @@ DIB(장치 독립 비트맵) 파일은 표준 비트맵 파일(BMP)과 구조가
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/filter/apng" name="APNG" description="애니메이션 휴대용 네트워크 그래픽" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/filter/bmp" name="BMP" description="비트맵 그림" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/filter/ico" name="ICO" description="윈도우 아이콘" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/filter/jpg" name="JPG" description="공동 사진 전문가 그룹" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/filter/jpeg" name="JPEG" description="공동 사진 전문가 그룹" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/filter/dicom" name="DICOM" description="디지털 이미징 및 통신" >}}

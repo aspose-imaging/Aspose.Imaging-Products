@@ -18,10 +18,7 @@ description: Mã mẫu cho chuyển đổi Java từ CMX sang DXF. Sử dụng m
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi CMX thành DXF bằng Java" %}}
 
 Để chuyển đổi CMX thành DXF, chúng tôi sẽ sử dụng
-[Aspose.Imaging cho Java] (https://products.aspose.com/imaging/java)
-API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng Java. Bạn có thể tải xuống phiên bản mới nhất của nó trực tiếp từ
-[Maven] (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-và cài đặt nó trong dự án dựa trên Maven của bạn bằng cách thêm các cấu hình sau vào pom.xml.
+[Aspose.Imaging cho Java] (https://products.aspose.com/imaging/java) API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng Java. Bạn có thể tải xuống phiên bản mới nhất của nó trực tiếp từ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) và cài đặt nó trong dự án dựa trên Maven của bạn bằng cách thêm các cấu hình sau vào pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Kho" offSpacer="true"%}}
 
@@ -102,7 +99,7 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
 Các tệp có phần mở rộng CMX là định dạng tệp hình ảnh Corel Exchange được sử dụng làm bản trình bày bởi các ứng dụng CorelSuite. Nó chứa dữ liệu hình ảnh dưới dạng đồ họa vectơ cũng như siêu dữ liệu mô tả hình ảnh. Các tệp CMX có thể được mở bằng CorelDraw, Corel Presentations, Paint Shop Pro và một số phiên bản của Adobe Illustrator.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -140,6 +137,7 @@ DXF, Định dạng Trao đổi Bản vẽ, hoặc Định dạng Trao đổi B�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/conversion/cmx-to-tga" name="TGA" description="Đồ họa Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/conversion/cmx-to-svgz" name="SVGZ" description="Phiên bản nén của tệp Đồ họa Vectơ có thể mở rộng (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/conversion/cmx-to-canvas" name="CANVAS" description="HTML5 Canvas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/conversion/cmx-to-ico" name="ICO" description="Biểu tượng Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

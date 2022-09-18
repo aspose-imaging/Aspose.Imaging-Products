@@ -16,10 +16,7 @@ description: DIB 格式到  文件的示例 Java 转换代码。使用此示例�
 
 {{% blocks/products/pf/agp/content h2="如何使用 Java 为 DIB 文件添加水印" %}}
 
-为了给 DIB 文件加水印，我们将使用
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java)
-API 是一个功能丰富、功能强大且易于使用的 Java 平台图像处理和转换 API。您可以直接从
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
+为了给 DIB 文件加水印，我们将使用 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一个功能丰富、功能强大 易于使用的 Java 平台图像处理和转换 API。您可以直接从 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
 并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
@@ -55,9 +52,7 @@ API 是一个功能丰富、功能强大且易于使用的 Java 平台图像处�
 
 {{% blocks/products/pf/agp/text %}}
 
-你需要
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java)
- 在您自己的环境中尝试以下工作流程。
+你需要 [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) 在您自己的环境中尝试以下工作流程。
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -110,7 +105,7 @@ Aspose.Imaging API 是一种图像处理解决方案，用于在应用程序中�
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="只需上传您的 DIB 文件，设置水印并点击“添加”按钮" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="立即获取生成文件的下载链接" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多" >}}
 DIB（设备独立位图）文件是一种光栅图像文件，其结构类似于标准位图文件 (BMP)，但具有不同的标题。几乎所有可以在 Windows 和 macOS 上打开标准 BMP 文件的应用程序都可以打开它。 DIB 是二进制文件，具有类似于 BMP 的复杂文件格式。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -121,6 +116,7 @@ DIB（设备独立位图）文件是一种光栅图像文件，其结构类似�
 {{< blocks/products/pf/agp/other-supported-section title="其他支持的水印格式" subTitle="使用 Java，可以轻松地为不同的格式添加水印，包括。" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/watermark/bmp" name="BMP" description="位图图片" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/watermark/ico" name="ICO" description="窗口图标" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/watermark/dicom" name="DICOM" description="数码影像与通讯" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/watermark/emf" name="EMF" description="增强的元文件格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/watermark/gif" name="GIF" description="图形交换格式" >}}

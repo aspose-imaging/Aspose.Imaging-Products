@@ -18,10 +18,7 @@ description: Пример кода для преобразования SVGZ в E
 {{% blocks/products/pf/agp/content h2="Как преобразовать SVGZ в EMZ с помощью Java" %}}
 
 Чтобы преобразовать SVGZ в EMZ, мы будем использовать
-[Aspose.Imaging для Java](https://products.aspose.com/imaging/java)
-API, который представляет собой многофункциональный, мощный и простой в использовании API для обработки и преобразования изображений для платформы Java. Вы можете скачать его последнюю версию прямо с
-[Maven] (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-и установите его в своем проекте на основе Maven, добавив следующие конфигурации в файл pom.xml.
+[Aspose.Imaging для Java](https://products.aspose.com/imaging/java) API, который представляет собой многофункциональный, мощный и простой в использовании API для обработки и преобразования изображений для платформы Java. Вы можете скачать его последнюю версию прямо с [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) и установите его в своем проекте на основе Maven, добавив следующие конфигурации в файл pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Репозиторий" offSpacer="true" %}}
 
@@ -102,11 +99,11 @@ API, который представляет собой многофункцио
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
 Файл с расширением .svgz представляет собой сжатую версию файла масштабируемой векторной графики (.SVG). Он сжат сжатием gzip и содержит данные в формате XML. Файлы SVGZ поддерживают прозрачность, градиенты, анимацию и фильтры. Файлы SVGZ меньше по размеру по сравнению с файлами SVG по умолчанию, и этот уменьшенный размер файла помогает передавать графические файлы онлайн. Графический дизайнер создает файлы SVGZ с помощью таких инструментов, как Adobe Illustrator, Corel PaintShop Pro и других. Однако файлы SVGZ можно создавать, включив сжатие GZip на сервере Apache при отправке данных изображения.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
 Файл с расширением EMZ представляет собой сжатый файл изображения, более конкретно называемый файлом сжатого расширенного метафайла Windows.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -139,6 +136,7 @@ API, который представляет собой многофункцио
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/conversion/svgz-to-tga" name="TGA" description="Тарга Графика" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/conversion/svgz-to-svg" name="SVG" description="Масштабируемая векторная графика" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/conversion/svgz-to-canvas" name="CANVAS" description="Холст HTML5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/conversion/svgz-to-ico" name="ICO" description="Значок Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

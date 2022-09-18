@@ -18,12 +18,7 @@ description: Codice di esempio per la conversione da ODG a WEBP C#. Utilizzare i
 {{% blocks/products/pf/agp/content h2="Come convertire ODG in WEBP utilizzando C#" %}}
 
 Per convertire ODG in WEBP, useremo
-[Aspose.Imaging per .NET](https://products.aspose.com/imaging/net)
- API che è un'API di conversione e manipolazione delle immagini ricca di funzionalità, potente e facile da usare per la piattaforma C#. Aprire
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- gestore pacchetti, cerca
- **Aspose.Imaging**
- e installa. È inoltre possibile utilizzare il seguente comando dalla Console di gestione pacchetti.
+[Aspose.Imaging per .NET](https://products.aspose.com/imaging/net) API che è un'API di conversione e manipolazione delle immagini ricca di funzionalità, potente e facile da usare per la piattaforma C#. Aprire [NuGet](https://www.nuget.org/packages/aspose.imaging) gestore pacchetti, cerca **Aspose.Imaging** e installa. È inoltre possibile utilizzare il seguente comando dalla Console di gestione pacchetti.
 
 {{% blocks/products/pf/agp/code-block title="Comando della console di Package Manager" offSpacer="true" %}}
 
@@ -93,11 +88,11 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
 Il formato di file ODG viene utilizzato dall'applicazione Draw di Apache OpenOffice per memorizzare gli elementi di disegno come immagine vettoriale. Segue le specifiche del formato file basato su XML delineate da Advancement of Structural Information Standards (OASIS). ODG rappresenta i disegni come immagini vettoriali utilizzando punti, linee e curve. Oltre a OpenOffice, LibreOffice e altre applicazioni forniscono anche supporto per lavorare con il formato di file ODG. Altri formati supportati da OpenOffice, ad esempio, includono ODT, ODF, ODP e ODS.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
 WebP, introdotto da Google, è un moderno formato di file di immagini web raster basato sulla compressione lossless e lossy. Fornisce la stessa qualità dell'immagine riducendo notevolmente le dimensioni dell'immagine. Poiché la maggior parte delle pagine Web utilizza le immagini come rappresentazione efficace dei dati, l'utilizzo di immagini WebP nelle pagine Web determina un caricamento più rapido delle pagine Web. Secondo Google, le immagini con perdita di dati WebP sono di dimensioni inferiori del 26% rispetto ai PNG, mentre le immagini con perdita di dati WebP sono più piccole del 25-34% rispetto alle immagini JPEG comparabili. Le immagini vengono confrontate in base all'indice di somiglianza strutturale (SSIM) tra WebP e altri formati di file immagine. WebP è un progetto gemello del formato contenitore multimediale WebM.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -131,6 +126,7 @@ WebP, introdotto da Google, è un moderno formato di file di immagini web raster
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/conversion/odg-to-tga" name="TGA" description="Grafica Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/conversion/odg-to-svgz" name="SVGZ" description="Versione compressa del file Scalable Vector Graphics (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/conversion/odg-to-canvas" name="CANVAS" description="Tela HTML5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/conversion/odg-to-ico" name="ICO" description="Icona di Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

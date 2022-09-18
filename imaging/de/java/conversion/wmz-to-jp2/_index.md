@@ -18,10 +18,7 @@ description: Beispielcode für die Java-Konvertierung von WMZ in JP2. Verwenden 
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie WMZ in JP2 mit Java" %}}
 
 Um WMZ in JP2 zu konvertieren, verwenden wir
-[Aspose.Imaging für Java](https://products.aspose.com/imaging/java)
-API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Bildbearbeitungs- und Konvertierungs-API für die Java-Plattform ist. Sie können die neueste Version direkt von herunterladen
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
+[Aspose.Imaging für Java](https://products.aspose.com/imaging/java) API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Bildbearbeitungs- und Konvertierungs-API für die Java Plattform ist. Sie können die neueste Version direkt von herunterladen [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -102,11 +99,11 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
 WMZ ist eine Dateierweiterung für ein Skin-Dateiformat in/für/verwendet von Windows Media Player. Eine WMZ-Datei ist im Grunde eine gezippte WMF-Datei in XML.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
 JPEG 2000 (JP2) ist ein Bildcodierungssystem und ein hochmoderner Bildkomprimierungsstandard. JPEG 2000 wurde unter Verwendung der Wavelet-Technologie entwickelt und kann verlustfreie Inhalte in jeder Qualität gleichzeitig kodieren. Darüber hinaus hat JPEG 2000 ohne wesentliche Einbußen bei der Codierungseffizienz die Fähigkeit, auf denselben Inhalt zuzugreifen und ihn effizient in eine Vielzahl anderer Auflösungen und Qualitäten zu decodieren. Die Codeströme in JPEG 2000 sind erheblich skalierbar, da sie interessierende Regionen aufweisen, die die Möglichkeit für einen räumlichen Direktzugriff bereitstellen. Besitzt bis zu 16384 verschiedene Komponenten mit Abmessungen in Terapixel und einer Genauigkeit, die bis zu 38 Bit/Sample betragen kann.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -139,6 +136,7 @@ JPEG 2000 (JP2) ist ein Bildcodierungssystem und ein hochmoderner Bildkomprimier
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/conversion/wmz-to-tga" name="TGA" description="Targa-Grafik" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/conversion/wmz-to-svgz" name="SVGZ" description="Komprimierte Version der Datei Scalable Vector Graphics (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/conversion/wmz-to-canvas" name="CANVAS" description="HTML5-Leinwand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/conversion/wmz-to-ico" name="ICO" description="Windows-Symbol" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

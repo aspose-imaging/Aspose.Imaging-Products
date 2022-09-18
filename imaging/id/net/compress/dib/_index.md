@@ -16,13 +16,7 @@ description: Coba API dokumen Lokal kami untuk mengompresi file DIB di .NET Fram
 
 {{% blocks/products/pf/agp/content h2="Cara Mengompresi File DIB Menggunakan C#" %}}
 
-Untuk mengompresi file DIB, kami akan menggunakan
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- API yang kaya fitur, kuat, dan mudah digunakan manipulasi gambar dan konversi API untuk platform C#. Membuka
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- manajer paket, cari
- **Aspose.Imaging**
- dan menginstal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
+Untuk mengompresi file DIB, kami akan menggunakan [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API yang kaya fitur, kuat, dan mudah digunakan manipulasi gambar dan konversi API untuk platform C#. Membuka [NuGet](https://www.nuget.org/packages/aspose.imaging) manajer paket, cari **Aspose.Imaging** dan menginstal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Perintah Konsol Manajer Paket" offSpacer="true" %}}
 
@@ -42,9 +36,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-Anda membutuhkan
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- untuk mencoba alur kerja berikut di lingkungan Anda sendiri.
+Anda membutuhkan [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) untuk mencoba alur kerja berikut di lingkungan Anda sendiri.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -97,7 +89,7 @@ Aspose.Imaging API adalah solusi pemrosesan gambar untuk membuat, memodifikasi, 
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Cukup unggah file DIB Anda dan tekan tombol \"Kompres sekarang\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Langsung dapatkan tautan unduhan untuk file yang dihasilkan" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya" >}}
 File DIB (Device Independent Bitmap) adalah file gambar raster yang strukturnya mirip dengan file Bitmap standar (BMP) tetapi memiliki header yang berbeda. Dapat dibuka dengan hampir semua aplikasi yang dapat membuka file BMP standar di Windows maupun macOS. DIB adalah file biner dan memiliki format file kompleks yang mirip dengan BMP.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -109,6 +101,7 @@ File DIB (Device Independent Bitmap) adalah file gambar raster yang strukturnya 
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/compress/apng" name="APNG" description="Grafik Jaringan Portabel Animasi" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/compress/bmp" name="BMP" description="Gambar Bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/compress/ico" name="ICO" description="ikon Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/compress/jpg" name="JPG" description="Kelompok Ahli Fotografi Bersama" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/compress/jpeg" name="JPEG" description="Kelompok Ahli Fotografi Bersama" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/compress/dicom" name="DICOM" description="Pencitraan & Komunikasi Digital" >}}

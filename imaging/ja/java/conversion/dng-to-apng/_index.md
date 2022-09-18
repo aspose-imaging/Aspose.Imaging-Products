@@ -18,10 +18,7 @@ description: DNGからAPNGへのJava変換のサンプルコード。 Webまた�
 {{% blocks/products/pf/agp/content h2="Javaを使用してDNGをAPNGに変換する方法" %}}
 
 DNGをAPNGに変換するには、
-[Aspose.Imaging for Java]（https://products.aspose.com/imaging/java）
-機能豊富で強力で使いやすいJavaプラットフォーム用の画像操作および変換APIであるAPI。最新バージョンはから直接ダウンロードできます
-[Maven]（https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging）
-次の構成をpom.xmlに追加して、Mavenベースのプロジェクトにインストールします。
+[Aspose.Imaging for Java](https://products.aspose.com/imaging/java) 機能豊富で強力で使いやすいJava ラットフォーム用の画像操作および変換APIであるAPI。最新バージョンはから直接ダウンロードできます[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 次の構成をpom.xmlに追加して、Mavenベースのプロジェクトにインストールします。
 
 {{% blocks/products/pf/agp/code-block title = "Repository" offSpacer = "true"%}}
 
@@ -102,11 +99,11 @@ DNGをAPNGに変換するには、
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
 DNGは、rawファイルの保存に使用されるデジタルカメラの画像形式です。 2004年9月にAdobeによって開発されました。基本的にデジタル写真用に開発されました。 DNGはTIFF / EP標準形式の拡張であり、メタデータを大幅に使用します。柔軟性と芸術的な制御を容易にしてデジタルカメラからの生データを操作するために、写真家はカメラ生ファイルを選択します。 JPEGおよびTIFF形式は、カメラによって処理される画像を保存するため、このような形式では変更の余地があまりありません。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
 拡張子が.apng（Animated Portable Network Graphics）のファイルは、ラスターグラフィック形式であり、Portable Network Graphic（PNG）の非公式な拡張子です。アニメーションシーケンスを表す複数のフレーム（各PNG画像）で構成されます。これにより、GIFファイルと同様の視覚化が可能になります。 APNGファイルは24ビット画像と8ビット透明度をサポートしています。 APNGは、アニメーション化されていないGIFファイルと下位互換性があります。 APNGファイルは同じ.png拡張子を使用し、Mozilla Firefox、APNGをサポートするChrome、iOS10用のiMessageアプリなどのアプリケーションで開くことができます。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -140,6 +137,7 @@ DNGは、rawファイルの保存に使用されるデジタルカメラの画�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/java/conversion/dng-to-tga" name="TGA" description="タルガグラフィック" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/java/conversion/dng-to-svgz" name="SVGZ" description="スケーラブルベクターグラフィックス（.SVG）ファイルの圧縮バージョン。" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/java/conversion/dng-to-canvas" name="CANVAS" description="HTML5キャンバス" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/java/conversion/dng-to-ico" name="ICO" description="Windows アイコン" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

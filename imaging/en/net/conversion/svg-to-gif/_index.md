@@ -18,12 +18,8 @@ description: Sample code for SVG to GIF C# conversion. Use API example code for 
 {{% blocks/products/pf/agp/content h2="How to Convert SVG to GIF Using C#" %}}
 
 In order to convert SVG to GIF, we’ll use
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) 
- API which is a feature-rich, powerful and easy to use image manipulation and conversion API for C# platform. Open
- [NuGet](https://www.nuget.org/packages/aspose.imaging) 
- package manager, search for
- **Aspose.Imaging** 
- and install. You may also use the following command from the Package Manager Console.
+[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API which is a feature-rich, powerful and easy to use image manipulation and conversion API for C# platform. Open [NuGet](https://www.nuget.org/packages/aspose.imaging) package manager, search for
+ **Aspose.Imaging** and install. You may also use the following command from the Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
@@ -91,11 +87,11 @@ Before running the conversion example code, make sure that you have the followin
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg" whatIsFormat1="What is" whatIsFormat2="File Format" readMoreFormat="Read More">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="What is" whatIsFormat2="File Format" readMoreFormat="Read More">}}
 SVG files are Scalable Vector Graphics Files that use XML based text format for describing the appearance of image. The word Scalable refers to the fact that the SVG can be scaled to different sizes without losing any quality. Text based description of such files make them independent of resolution. It is one of the mostly used format for building website and print graphics in order to achieve scalability. The format can only be used for two-dimensional graphics though. SVG files can be viewed/opened in almost all modern browsers including Chrome, Internet Explorer, Firefox, and Safari.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif" whatIsFormat1="What is" whatIsFormat2="File Format" readMoreFormat="Read More">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="What is" whatIsFormat2="File Format" readMoreFormat="Read More">}}
 A GIF or Graphical Interchange Format is a type of highly compressed image. Owned by Unisys, GIF uses the LZW compression algorithm that does not degrade the image quality. For each image GIF typically allow up to 8 bits per pixel and up to 256 colours are allowed across the image. In contrast to a JPEG image, which can display up to 16 million colours and fairly touches the limits of the human eye. Back when the internet emerged, GIFs remained the best choice because they required low bandwidth and compatible for the graphics that consume solid areas of colour. An animated GIF combines numerous images or frames into a single file and displays them in a sequence to generate an animated clip or a short video. The colour limitations are up to 256 for each frame and are likely to be the least suitable for reproducing other images and photographs with colour gradient.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -129,6 +125,7 @@ A GIF or Graphical Interchange Format is a type of highly compressed image. Owne
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/net/conversion/svg-to-svgz" name="SVGZ" description="Compressed version of Scalable Vector Graphics (.SVG) file." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/net/conversion/svg-to-canvas" name="CANVAS" description="HTML5 Canvas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/net/conversion/svg-to-svg" name="SVG" description="Scalable Vector Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/net/conversion/svg-to-ico" name="ICO" description="Windows icon" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

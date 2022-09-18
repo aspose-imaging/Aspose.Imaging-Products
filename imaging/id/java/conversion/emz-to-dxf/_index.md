@@ -18,10 +18,7 @@ description: Contoh kode untuk EMZ ke DXF konversi Java. Gunakan kode contoh API
 {{% blocks/products/pf/agp/content h2="Cara Mengonversi EMZ ke DXF Menggunakan Java" %}}
 
 Untuk mengonversi EMZ ke DXF, kami akan menggunakan
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java)
-API yang kaya fitur, kuat dan mudah digunakan manipulasi gambar dan konversi API untuk platform Java. Anda dapat mengunduh versi terbarunya langsung dari
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
+[Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API yang kaya fitur, kuat dan mudah digunakan manipulasi gambar dan konversi API untuk platform Java. Anda dapat mengunduh versi terbarunya langsung dari [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -102,7 +99,7 @@ Sebelum menjalankan kode contoh konversi, pastikan Anda memiliki prasyarat berik
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
 File dengan ekstensi file EMZ adalah file gambar terkompresi, lebih khusus disebut sebagai file Metafile Windows Compressed Enhanced
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -139,6 +136,7 @@ DXF, Drawing Interchange Format, atau Drawing Exchange Format, adalah representa
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/conversion/emz-to-tga" name="TGA" description="Grafis Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/conversion/emz-to-svgz" name="SVGZ" description="Versi terkompresi dari file Scalable Vector Graphics (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/conversion/emz-to-canvas" name="CANVAS" description="Kanvas HTML5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/conversion/emz-to-ico" name="ICO" description="ikon Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

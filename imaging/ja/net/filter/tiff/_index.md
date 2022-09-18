@@ -16,13 +16,7 @@ description: オンプレミスドキュメントAPIを試して、.NET Framewor
 
 {{% blocks/products/pf/agp/content h2="C#を使用してTIFFファイルをフィルタリングする方法" %}}
 
-TIFFファイルをフィルタリングするために、
-[Aspose.Imaging for .NET]（https://products.aspose.com/imaging/net）
- 機能が豊富で強力で使いやすいC＃プラットフォーム用の画像操作および変換APIであるAPI。開ける
- [NuGet]（https://www.nuget.org/packages/aspose.imaging）
- パッケージマネージャー、検索
- ** Aspose.Imaging **
- とインストールします。パッケージマネージャーコンソールから次のコマンドを使用することもできます。
+TIFFファイルをフィルタリングするために、 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) 機能が豊富で強力で使いやすいC＃プラットフォーム用の画像操作および変換APIであるAPI。開ける [NuGet](https://www.nuget.org/packages/aspose.imaging) パッケージマネージャー、検索 ** Aspose.Imaging ** とインストールします。パッケージマネージャーコンソールから次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title ="パッケージマネージャーコンソールコマンド" offSpacer = "true"%}}
 
@@ -42,9 +36,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-あなたは
- [aspose.imaging.dll]（https://downloads.aspose.com/imaging/net）
- 自分の環境で次のワークフローを試してください。
+あなたは [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) 自分の環境で次のワークフローを試してください。
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -97,7 +89,7 @@ Aspose.Imaging APIは、アプリケーション内で画像（写真）を作�
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="TIFFファイルをアップロードして[今すぐフィルター]ボタンを押すだけです" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="結果のファイルのダウンロードリンクを即座に取得します" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む" >}}
 TIFFまたはTIF（タグ付き画像ファイル形式）は、このファイル形式標準に準拠するさまざまなデバイスでの使用を目的としたラスター画像を表します。いくつかの色空間で、バイレベル、グレースケール、パレットカラー、およびフルカラーの画像データを記述することができます。この形式を使用するアプリケーションのスペースと時間のどちらかを選択するための非可逆圧縮方式と可逆圧縮方式をサポートしています。このフォーマットは拡張可能であり、無制限の量の個人情報または特別目的情報を含めることができるようにいくつかの改訂が行われています。この形式はマシンに依存せず、プロセッサ、オペレーティングシステム、ファイルシステムなどの境界がありません。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -109,6 +101,7 @@ TIFFまたはTIF（タグ付き画像ファイル形式）は、このファイ�
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/filter/apng" name="APNG" description="アニメーション化されたポータブルネットワークグラフィックス" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/filter/bmp" name="BMP" description="ビットマップ画像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/filter/ico" name="ICO" description="Windows アイコン" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/filter/jpg" name="JPG" description="共同写真専門家グループ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/filter/jpeg" name="JPEG" description="共同写真専門家グループ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/filter/dib" name="DIB" description="デバイスに依存しないビットマップ" >}}

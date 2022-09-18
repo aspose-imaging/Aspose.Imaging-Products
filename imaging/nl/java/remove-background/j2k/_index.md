@@ -16,11 +16,7 @@ description: Probeer onze On-Premise document-API's om de achtergrond van J2K-be
 
 {{% blocks/products/pf/agp/content h2="Achtergrond verwijderen in J2K-bestanden met Java" %}}
 
-Om de achtergrond in J2K-bestanden te verwijderen, gebruiken we
-[Aspose.Imaging voor Java](https://products.aspose.com/imaging/java)
-API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het Java-platform. U kunt de nieuwste versie rechtstreeks downloaden van
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
+Om de achtergrond in J2K-bestanden te verwijderen, gebruiken we [Aspose.Imaging voor Java](https://products.aspose.com/imaging/java) API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het Java-platform. U kunt de nieuwste versie rechtstreeks downloaden van [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -55,9 +51,7 @@ en installeer het binnen uw op Maven gebaseerde project door de volgende configu
 
 {{% blocks/products/pf/agp/text %}}
 
-Je hebt de nodig
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java)
- om de volgende workflow in uw eigen omgeving te proberen.
+Je hebt de nodig [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) om de volgende workflow in uw eigen omgeving te proberen.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +102,7 @@ Aspose.Imaging API is een beeldverwerkingsoplossing voor het maken, wijzigen, te
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Upload gewoon uw J2K-bestanden en druk op de knop \"Achtergrond nu verwijderen\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Krijg direct de downloadlink voor het resulterende bestand" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder" >}}
 Een J2K-bestand is een afbeelding die is gecomprimeerd met behulp van wavelet-compressie in plaats van DCT-compressie.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -120,6 +114,7 @@ Een J2K-bestand is een afbeelding die is gecomprimeerd met behulp van wavelet-co
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/remove-background/apng" name="APNG" description="Geanimeerde draagbare netwerkgraphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/remove-background/bmp" name="BMP" description="Bitmapafbeelding" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/remove-background/ico" name="ICO" description="Windows-pictogram" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/remove-background/jpg" name="JPG" description="Joint Photographic Experts Group" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/remove-background/dib" name="DIB" description="Apparaatonafhankelijke bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/remove-background/dicom" name="DICOM" description="Digitale beeldvorming en communicatie" >}}

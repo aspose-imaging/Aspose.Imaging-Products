@@ -18,12 +18,7 @@ description: EMF - J2K C# dönüşümü için örnek kod. VB.NET, Asp.NET veya h
 {{% blocks/products/pf/agp/content h2="C# Kullanarak EMF'i J2K'ye Dönüştürme" %}}
 
 EMF'i J2K'ye dönüştürmek için kullanacağız
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. Açık
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- paket yöneticisi, ara
- **Aspose.Görüntüleme**
- ve yükleyin. Paket Yöneticisi Konsolundan aşağıdaki komutu da kullanabilirsiniz.
+[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. Açık [NuGet](https://www.nuget.org/packages/aspose.imaging) paket yöneticisi, ara **Aspose.Görüntüleme** ve yükleyin. Paket Yöneticisi Konsolundan aşağıdaki komutu da kullanabilirsiniz.
 
 {{%blocks/products/pf/agp/code-block title="Paket Yöneticisi Konsol Komutu" offSpacer="true" %}}
 
@@ -91,11 +86,11 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
 Gelişmiş meta dosya biçimi (EMF), grafik görüntüleri aygıttan bağımsız olarak depolar. EMF'nin meta dosyaları, herhangi bir çıktı aygıtında ayrıştırıldıktan sonra saklanan görüntüyü oluşturabilen, kronolojik sırayla değişken uzunluktaki kayıtlardan oluşur. Bu değişken uzunluklu kayıtlar, kapalı nesnelerin tanımları, çizim komutları ve görüntüyü doğru bir şekilde oluşturmak için kritik olan grafik özellikleri olabilir. Bir cihaz kendi grafik ortamını kullanarak bir EMF meta dosyasını açtığında, orijinal görüntünün oranları, boyutları, renkleri ve diğer grafik özellikleri, açılış cihazı platformundan bağımsız olarak aynı kalır.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
 J2K dosyası, DCT sıkıştırması yerine dalgacık sıkıştırması kullanılarak sıkıştırılmış bir görüntüdür.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -128,6 +123,7 @@ J2K dosyası, DCT sıkıştırması yerine dalgacık sıkıştırması kullanıl
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/conversion/emf-to-tga" name="TGA" description="Targa Grafiği" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/conversion/emf-to-svgz" name="SVGZ" description="Ölçeklenebilir Vektör Grafikleri (.SVG) dosyasının sıkıştırılmış sürümü." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/conversion/emf-to-canvas" name="CANVAS" description="HTML5 Tuval" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/conversion/emf-to-ico" name="ICO" description="Windows simgesi" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

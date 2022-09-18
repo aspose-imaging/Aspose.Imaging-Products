@@ -18,12 +18,8 @@ description: Beispielcode für die C#-Konvertierung von DIB in JPEG. Verwenden S
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie DIB in JPEG mit C#" %}}
 
 Um DIB in JPEG zu konvertieren, verwenden wir
-[Aspose.Imaging für .NET](https://products.aspose.com/imaging/net)
- API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Bildbearbeitungs- und Konvertierungs-API für die C#-Plattform ist. Offen
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- Paketmanager, suche nach
- **Aspose.Imaging**
- und installieren. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden.
+[Aspose.Imaging für .NET](https://products.aspose.com/imaging/net) API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Bildbearbeitungs- und Konvertierungs-API für die C#-Plattform ist. Offen [NuGet](https://www.nuget.org/packages/aspose.imaging) Paketmanager, suche nach
+ **Aspose.Imaging** und installieren. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
@@ -91,11 +87,11 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
 Eine DIB-Datei (Device Independent Bitmap) ist eine Rasterbilddatei, die in ihrer Struktur den standardmäßigen Bitmap-Dateien (BMP) ähnelt, jedoch einen anderen Header hat. Es kann mit fast allen Anwendungen geöffnet werden, die eine Standard-BMP-Datei sowohl unter Windows als auch unter macOS öffnen können. DIB sind Binärdateien und haben ein komplexes Dateiformat ähnlich wie BMP.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
 Ein JPEG ist ein Bildformat, das mit der Methode der verlustbehafteten Komprimierung gespeichert wird. Das Ausgabebild ist als Ergebnis der Komprimierung ein Kompromiss zwischen Speichergröße und Bildqualität. Benutzer können die Komprimierungsstufe anpassen, um die gewünschte Qualitätsstufe zu erreichen, während gleichzeitig die Speichergröße reduziert wird. Die Bildqualität wird vernachlässigbar beeinträchtigt, wenn eine 10:1-Komprimierung auf das Bild angewendet wird. Je höher der Komprimierungswert, desto stärker die Verschlechterung der Bildqualität.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -129,6 +125,7 @@ Ein JPEG ist ein Bildformat, das mit der Methode der verlustbehafteten Komprimie
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/conversion/dib-to-tga" name="TGA" description="Targa-Grafik" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/conversion/dib-to-svgz" name="SVGZ" description="Komprimierte Version der Datei Scalable Vector Graphics (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/conversion/dib-to-canvas" name="CANVAS" description="HTML5-Leinwand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/conversion/dib-to-ico" name="ICO" description="Windows-Symbol" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

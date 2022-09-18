@@ -18,10 +18,7 @@ description: Sample code for PNG to SVG Java conversion. Use API example code fo
 {{% blocks/products/pf/agp/content h2="如何使用 Java 將 PNG 轉換為 SVG" %}}
 
 為了將 PNG 轉換為 SVG，我們將使用
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java)
-API 是一個功能豐富、功能強大且易於使用的 Java 平台圖像處理和轉換 API。您可以直接從
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-並通過將以下配置添加到 pom.xml 將其安裝在基於 Maven 的項目中。
+[Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一個功能豐富、功能強大 易於使用的 Java 平台圖像處理和轉換 API。您可以直接從 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 並通過將以下配置添加到 pom.xml 將其安裝在基於 Maven 的項目中。
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -102,12 +99,12 @@ API 是一個功能豐富、功能強大且易於使用的 Java 平台圖像處�
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
-PNG, Portable Network Graphics, refers to a type of raster image file format that use loseless compression. This file format was created as a replacement of Graphics Interchange Format (GIF) and has no copyright limitations. However, PNG file format does not support animations. PNG file format supports loseless image compression that makes it popular among its users. With the passage of time, PNG has evolved as one of the mostly used image file format. Almost all Operating Systems have support for opening PNG files. For example, Microsoft Windows viewer has the capability to open PNG files as the OS has by default the support available as part of installation.
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+PNG，便攜式網絡圖形，是指一種使用無損壓縮的光柵圖像文件格式。此文件格式是作為圖形交換格式 (GIF) 的替代品而創建的，沒有版權限制。但是，PNG 文件格式不支持動畫。 PNG文件格式支持無損圖像壓縮，使其在用戶中很受歡迎。隨著時間的推移，PNG 已經發展成為最常用的圖像文件格式之一。幾乎所有操作系統都支持打開 PNG 文件。例如，Microsoft Windows 查看器能夠打開 PNG 文件，因為操作系統默認支持作為安裝的一部分。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
-SVG files are Scalable Vector Graphics Files that use XML based text format for describing the appearance of image. The word Scalable refers to the fact that the SVG can be scaled to different sizes without losing any quality. Text based description of such files make them independent of resolution. It is one of the mostly used format for building website and print graphics in order to achieve scalability. The format can only be used for two-dimensional graphics though. SVG files can be viewed/opened in almost all modern browsers including Chrome, Internet Explorer, Firefox, and Safari.
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+SVG 文件是使用基於 XML 的文本格式來描述圖像外觀的可縮放矢量圖形文件。 Scalable 這個詞指的是 SVG 可以縮放到不同的大小而不會損失任何質量。此類文件的基於文本的描述使它們獨立於分辨率。它是用於構建網站和打印圖形以實現可擴展性的最常用格式之一。該格式只能用於二維圖形。 SVG 文件可以在幾乎所有現代瀏覽器中查看/打開，包括 Chrome、Internet Explorer、Firefox 和 Safari。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
     {{< /blocks/products/pf/agp/about-file-section >}}
@@ -116,29 +113,30 @@ SVG files are Scalable Vector Graphics Files that use XML based text format for 
 
 {{< blocks/products/pf/agp/other-supported-section title="其他支持的轉換" subTitle="使用 Java，可以輕鬆轉換不同的格式，包括。" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/png-to-bmp" name="BMP" description="Bitmap Picture" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/png-to-gif" name="GIF" description="Graphical Interchange Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/png-to-dicom" name="DICOM" description="Digital Imaging & Communications" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/png-to-emf" name="EMF" description="Enhanced Metafile Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/png-to-jpg" name="JPG" description="Joint Photographic Experts Group" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/png-to-jpeg" name="JPEG" description="Joint Photographic Experts Group" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/png-to-bmp" name="BMP" description="位圖圖片" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/png-to-gif" name="GIF" description="圖形交換格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/png-to-dicom" name="DICOM" description="數碼影像與通訊" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/png-to-emf" name="EMF" description="增強的元文件格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/png-to-jpg" name="JPG" description="聯合攝影專家組" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/png-to-jpeg" name="JPEG" description="聯合攝影專家組" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/png-to-jp2" name="JP2" description="JPEG 2000" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/png-to-j2k" name="J2K" description="Wavelet Compressed Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/png-to-j2k" name="J2K" description="小波壓縮圖像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/png-to-jpeg2000" name="JPEG2000" description="JPEG 2000" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/png-to-apng" name="APNG" description="Animated Portable Network Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/png-to-psd" name="PSD" description="Photoshop Document" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/png-to-dxf" name="DXF" description="Drawing Interchange Format, or Drawing Exchange Format," >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/png-to-svg" name="SVG" description="Scalable Vector Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/png-to-tiff" name="TIFF" description="Tagged Image Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/png-to-webp" name="WEBP" description="Raster Web Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/png-to-wmf" name="WMF" description="Microsoft Windows Metafile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/png-to-pdf" name="PDF" description="Portable Document Format (PDF)" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/png-to-html" name="HTML" description="HTML5 Canvas" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/png-to-emz" name="EMZ" description="Windows Compressed Enhanced Metafile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/png-to-wmz" name="WMZ" description="Compressed Windows Media Player Skin" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/png-to-tga" name="TGA" description="Targa Graphic" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/png-to-svgz" name="SVGZ" description="Compressed version of Scalable Vector Graphics (.SVG) file." >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/png-to-canvas" name="CANVAS" description="HTML5 Canvas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/png-to-apng" name="APNG" description="動畫便攜式網絡圖形" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/png-to-psd" name="PSD" description="Photoshop 文檔" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/png-to-dxf" name="DXF" description="圖紙交換格式，或圖紙交換格式，" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/png-to-svg" name="SVG" description="可縮放矢量圖形" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/png-to-tiff" name="TIFF" description="標記圖像格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/png-to-webp" name="WEBP" description="光柵網絡圖像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/png-to-wmf" name="WMF" description="微軟視窗元文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/png-to-pdf" name="PDF" description="便攜式文檔格式 (PDF)" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/png-to-html" name="HTML" description="HTML5 畫布" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/png-to-emz" name="EMZ" description="Windows 壓縮增強元文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/png-to-wmz" name="WMZ" description="壓縮的 Windows Media Player 皮膚" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/png-to-tga" name="TGA" description="塔加圖形" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/png-to-svgz" name="SVGZ" description="可縮放矢量圖形 (.SVG) 文件的壓縮版本。" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/png-to-canvas" name="CANVAS" description="HTML5 畫布" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/png-to-ico" name="ICO" description="窗口圖標" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -18,10 +18,7 @@ description: Exemple de code pour la conversion Java CDR vers WEBP. Utilisez un 
 {{% blocks/products/pf/agp/content h2="Comment convertir CDR en WEBP en utilisant Java" %}}
 
 Afin de convertir CDR en WEBP, nous utiliserons
-[Aspose.Imaging pour Java](https://products.aspose.com/imaging/java)
-API qui est une API de manipulation et de conversion d'images riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme Java. Vous pouvez télécharger sa dernière version directement depuis
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au fichier pom.xml.
+[Aspose.Imaging pour Java](https://products.aspose.com/imaging/java) API qui est une API de manipulation et de conversion d'images riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme Java. Vous pouvez télécharger sa dernière version directement depuis [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au fichier pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -102,11 +99,11 @@ Avant d'exécuter l'exemple de code de conversion, assurez-vous que vous dispose
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
 Un fichier CDR est un fichier d'image de dessin vectoriel créé nativement avec CorelDRAW pour stocker une image numérique encodée et compressée. Un tel fichier de dessin contient du texte, des lignes, des formes, des images, des couleurs et des effets pour la représentation vectorielle du contenu de l'image. Les fichiers CDR peuvent être ouverts avec CorelDRAW comme application principale et peuvent également être convertis en d'autres formats tels que PDF, JPG, PNG, BMP et AI. Il peut être utilisé pour la représentation de diverses données graphiques telles que des brochures, des tabloïds, des enveloppes et des cartes postales. Outre CorelDRAW, d'autres produits Corel tels que Corel Paintshop Pro et la suite graphique CorelDRAW peuvent également ouvrir les formats de fichiers CDR.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
 WebP, introduit par Google, est un format de fichier d'image Web raster moderne basé sur une compression sans perte et avec perte. Il offre la même qualité d'image tout en réduisant considérablement la taille de l'image. Étant donné que la plupart des pages Web utilisent des images comme représentation efficace des données, l'utilisation d'images WebP dans les pages Web entraîne un chargement plus rapide des pages Web. Selon Google, les images WebP sans perte sont 26 % plus petites que les PNG, tandis que les images WebP avec perte sont 25 à 34 % plus petites que les images JPEG comparables. Les images sont comparées sur la base de l'indice de similarité structurelle (SSIM) entre WebP et d'autres formats de fichiers image. WebP est un projet frère du format de conteneur multimédia WebM.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -140,6 +137,7 @@ WebP, introduit par Google, est un format de fichier d'image Web raster moderne 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/conversion/cdr-to-tga" name="TGA" description="Graphique Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/conversion/cdr-to-svgz" name="SVGZ" description="Version compressée du fichier Scalable Vector Graphics (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/conversion/cdr-to-canvas" name="CANVAS" description="Canevas HTML5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/conversion/cdr-to-ico" name="ICO" description="Icône Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

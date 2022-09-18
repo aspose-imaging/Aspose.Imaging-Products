@@ -16,11 +16,7 @@ description: Prova le nostre API di documenti locali per cambiare lo sfondo dai 
 
 {{% blocks/products/pf/agp/content h2="Come rimuovere lo sfondo nei file DNG utilizzando Java" %}}
 
-Per rimuovere lo sfondo nei file DNG, utilizzeremo
-[Aspose.Imaging per Java](https://products.aspose.com/imaging/java)
-API che è un'API di conversione e manipolazione delle immagini ricca di funzionalità, potente e facile da usare per la piattaforma Java. Puoi scaricare la sua ultima versione direttamente da
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
+Per rimuovere lo sfondo nei file DNG, utilizzeremo [Aspose.Imaging per Java](https://products.aspose.com/imaging/java) API che è un'API di conversione e manipolazione delle immagini ricca di funzionalità, potente e facile da usare per la piattaforma Java. Puoi scaricare la sua ultima versione direttamente da [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -55,9 +51,7 @@ e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguent
 
 {{% blocks/products/pf/agp/text %}}
 
-Hai bisogno del
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java)
- per provare il seguente flusso di lavoro nel tuo ambiente.
+Hai bisogno del [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) per provare il seguente flusso di lavoro nel tuo ambiente.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +102,7 @@ Aspose.Imaging API è una soluzione di elaborazione delle immagini per creare, m
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Carica i tuoi file DNG e premi il pulsante \"Rimuovi sfondo ora\"." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Ottieni immediatamente il link per il download del file risultante" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più" >}}
 DNG è un formato di immagine della fotocamera digitale utilizzato per l'archiviazione di file grezzi. È stato sviluppato da Adobe nel settembre 2004. Fondamentalmente è stato sviluppato per la fotografia digitale. DNG è un'estensione del formato standard TIFF/EP e utilizza i metadati in modo significativo. Per manipolare i dati grezzi dalle fotocamere digitali con facilità di flessibilità e controllo artistico, i fotografi scelgono i file raw della fotocamera. I formati JPEG e TIFF memorizzano le immagini che vengono elaborate dalla fotocamera, quindi non è disponibile molto spazio per le modifiche in tali formati.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -120,6 +114,7 @@ DNG è un formato di immagine della fotocamera digitale utilizzato per l'archivi
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/remove-background/apng" name="APNG" description="Grafica di rete portatile animata" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/remove-background/bmp" name="BMP" description="Immagine bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/remove-background/ico" name="ICO" description="Icona di Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/remove-background/jpg" name="JPG" description="Gruppo congiunto di esperti fotografici" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/remove-background/dib" name="DIB" description="Bitmap indipendente dal dispositivo" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/remove-background/dicom" name="DICOM" description="Immagini e comunicazioni digitali" >}}

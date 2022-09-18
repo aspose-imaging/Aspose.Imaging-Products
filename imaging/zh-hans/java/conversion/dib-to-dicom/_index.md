@@ -18,9 +18,7 @@ description: Sample code for DIB to DICOM Java conversion. Use API example code 
 {{% blocks/products/pf/agp/content h2="如何使用 Java 将 DIB 转换为 DICOM" %}}
 
 为了将 DIB 转换为 DICOM，我们将使用
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java)
-API 是一个功能丰富、功能强大且易于使用的 Java 平台图像处理和转换 API。您可以直接从
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
+[Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一个功能丰富、功能强大 易于使用的 Java 平台图像处理和转换 API。您可以直接从 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
 并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
@@ -102,11 +100,11 @@ API 是一个功能丰富、功能强大且易于使用的 Java 平台图像处�
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
 DIB（设备独立位图）文件是一种光栅图像文件，其结构类似于标准位图文件 (BMP)，但具有不同的标题。几乎所有可以在 Windows 和 macOS 上打开标准 BMP 文件的应用程序都可以打开它。 DIB 是二进制文件，具有类似于 BMP 的复杂文件格式。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
 DICOM 是 Digital Imaging and Communications in Medicine 的首字母缩写词，属于医学信息学领域。 DICOM 是文件格式定义和网络通信协议的结合。 DICOM 使用 .DCM 扩展名。 .DCM 以两种不同的格式存在，即格式 1.x 和格式 2.x。 DCM Format 1.x 还提供了两个普通版本和扩展版本。 DICOM 用于集成来自不同供应商的打印机、服务器、扫描仪等医疗成像设备，还包含每个患者的唯一识别数据。如果 DICOM 文件能够接收 DICOM 格式的图像数据，则它们可以在两方之间共享。 DICOM的通信部分是应用层协议，实体之间使用TCP/IP进行通信。 HTTP 和 HTTPS 协议用于 DICOM 的 Web 服务。 Web 服务支持的版本是 1.0、1.1、2 或更高版本。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -140,6 +138,7 @@ DICOM 是 Digital Imaging and Communications in Medicine 的首字母缩写词�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/conversion/dib-to-tga" name="TGA" description="塔加图形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/conversion/dib-to-svgz" name="SVGZ" description="可缩放矢量图形 (.SVG) 文件的压缩版本。" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/conversion/dib-to-canvas" name="CANVAS" description="HTML5 画布" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/conversion/dib-to-ico" name="ICO" description="窗口图标" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

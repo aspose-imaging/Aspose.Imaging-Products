@@ -18,10 +18,7 @@ description: Sample code for BMP to HTML Java conversion. Use API example code f
 {{% blocks/products/pf/agp/content h2="如何使用 Java 將 BMP 轉換為 HTML" %}}
 
 為了將 BMP 轉換為 HTML，我們將使用
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java)
-API 是一個功能豐富、功能強大且易於使用的 Java 平台圖像處理和轉換 API。您可以直接從
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-並通過將以下配置添加到 pom.xml 將其安裝在基於 Maven 的項目中。
+[Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一個功能豐富、功能強大 易於使用的 Java 平台圖像處理和轉換 API。您可以直接從 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 並通過將以下配置添加到 pom.xml 將其安裝在基於 Maven 的項目中。
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -102,12 +99,12 @@ API 是一個功能豐富、功能強大且易於使用的 Java 平台圖像處�
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
-Files having extension .BMP represent Bitmap Image files that are used to store bitmap digital images. These images are independent of graphics adapter and are also called device independent bitmap (DIB) file format. This independency serves the purpose of opening the file on multiple platforms such as Microsoft Windows and Mac. The BMP file format can store data as two-dimensional digital images  in both monochrome as well as color format with various colour depths.
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+擴展名為 .BMP 的文件表示用於存儲位圖數字圖像的位圖圖像文件。這些圖像獨立於圖形適配器，也稱為設備獨立位圖 (DIB) 文件格式。這種獨立性的目的是在 Microsoft Windows 和 Mac 等多個平台上打開文件。 BMP 文件格式可以將數據存儲為單色和具有各種顏色深度的彩色格式的二維數字圖像。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
-HTML (Hyper Text Markup Language) is the extension for web pages created for display in browsers. Known as language of the web, HTML has evolved with requirements of new information requirements to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from server, where these are hosted, or can be loaded from local system as well. Each HTML page is made up of HTML elements such as forms, text, images, animations, links, etc. These elements are represented by tags such as img, a, p and several others where each tag has start and end. It can also embed applications written in scripting languages such as JavaScript and Style Sheets (CSS) for overall layout representation.
+HTML（超文本標記語言）是為在瀏覽器中顯示而創建的網頁的擴展。 HTML被稱為網絡語言，隨著新信息要求的要求而發展，要求將其顯示為網頁的一部分。最新的變體被稱為 HTML 5，它為使用該語言提供了很大的靈活性。 HTML 頁面要么從託管這些頁面的服務器接收，要么也可以從本地系統加載。每個 HTML 頁面都由 HTML 元素組成，例如表單、文本、圖像、動畫、鏈接等。這些元素由諸如 img、a、p 和其他幾個標籤表示，其中每個標籤都有開始和結束。它還可以嵌入以 JavaScript 和样式表 (CSS) 等腳本語言編寫的應用程序，以實現整體佈局表示。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
     {{< /blocks/products/pf/agp/about-file-section >}}
@@ -116,29 +113,30 @@ HTML (Hyper Text Markup Language) is the extension for web pages created for dis
 
 {{< blocks/products/pf/agp/other-supported-section title="其他支持的轉換" subTitle="使用 Java，可以輕鬆轉換不同的格式，包括。" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/bmp-to-gif" name="GIF" description="Graphical Interchange Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/bmp-to-dicom" name="DICOM" description="Digital Imaging & Communications" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/bmp-to-emf" name="EMF" description="Enhanced Metafile Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/bmp-to-jpg" name="JPG" description="Joint Photographic Experts Group" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/bmp-to-jpeg" name="JPEG" description="Joint Photographic Experts Group" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/bmp-to-gif" name="GIF" description="圖形交換格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/bmp-to-dicom" name="DICOM" description="數碼影像與通訊" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/bmp-to-emf" name="EMF" description="增強的元文件格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/bmp-to-jpg" name="JPG" description="聯合攝影專家組" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/bmp-to-jpeg" name="JPEG" description="聯合攝影專家組" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/bmp-to-jp2" name="JP2" description="JPEG 2000" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/bmp-to-j2k" name="J2K" description="Wavelet Compressed Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/bmp-to-j2k" name="J2K" description="小波壓縮圖像" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/bmp-to-jpeg2000" name="JPEG2000" description="JPEG 2000" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/bmp-to-png" name="PNG" description="Portable Network Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/bmp-to-apng" name="APNG" description="Animated Portable Network Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/bmp-to-psd" name="PSD" description="Photoshop Document" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/bmp-to-dxf" name="DXF" description="Drawing Interchange Format, or Drawing Exchange Format," >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/bmp-to-svg" name="SVG" description="Scalable Vector Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/bmp-to-tiff" name="TIFF" description="Tagged Image Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/bmp-to-webp" name="WEBP" description="Raster Web Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/bmp-to-wmf" name="WMF" description="Microsoft Windows Metafile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/bmp-to-pdf" name="PDF" description="Portable Document Format (PDF)" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/bmp-to-html" name="HTML" description="HTML5 Canvas" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/bmp-to-emz" name="EMZ" description="Windows Compressed Enhanced Metafile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/bmp-to-wmz" name="WMZ" description="Compressed Windows Media Player Skin" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/bmp-to-tga" name="TGA" description="Targa Graphic" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/bmp-to-svgz" name="SVGZ" description="Compressed version of Scalable Vector Graphics (.SVG) file." >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/bmp-to-canvas" name="CANVAS" description="HTML5 Canvas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/bmp-to-png" name="PNG" description="便攜式網絡圖形" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/bmp-to-apng" name="APNG" description="動畫便攜式網絡圖形" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/bmp-to-psd" name="PSD" description="Photoshop 文檔" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/bmp-to-dxf" name="DXF" description="圖紙交換格式，或圖紙交換格式，" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/bmp-to-svg" name="SVG" description="可縮放矢量圖形" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/bmp-to-tiff" name="TIFF" description="標記圖像格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/bmp-to-webp" name="WEBP" description="光柵網絡圖像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/bmp-to-wmf" name="WMF" description="微軟視窗元文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/bmp-to-pdf" name="PDF" description="便攜式文檔格式 (PDF)" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/bmp-to-html" name="HTML" description="HTML5 畫布" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/bmp-to-emz" name="EMZ" description="Windows 壓縮增強元文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/bmp-to-wmz" name="WMZ" description="壓縮的 Windows Media Player 皮膚" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/bmp-to-tga" name="TGA" description="塔加圖形" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/bmp-to-svgz" name="SVGZ" description="可縮放矢量圖形 (.SVG) 文件的壓縮版本。" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/bmp-to-canvas" name="CANVAS" description="HTML5 畫布" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/conversion/bmp-to-ico" name="ICO" description="窗口圖標" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

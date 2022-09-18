@@ -16,11 +16,7 @@ description: .NET Framework, .NET Core, Windows Uygulaması, ASP.NET Web Uygulam
 
 {{% blocks/products/pf/agp/content h2="Java Kullanılarak WMF Dosyaları Gri Tonlamalı Nasıl Yapılır?" %}}
 
-WMF dosyalarını gri tonlamak için kullanacağız
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java)
-Java platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. En son sürümünü doğrudan adresinden indirebilirsiniz.
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-ve pom.xml dosyasına aşağıdaki konfigürasyonları ekleyerek Maven tabanlı projenize kurun.
+WMF dosyalarını gri tonlamak için kullanacağız [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) Java platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. En son sürümünü doğrudan adresinden indirebilirsiniz. [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) ve pom.xml dosyasına aşağıdaki konfigürasyonları ekleyerek Maven tabanlı projenize kurun.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -55,9 +51,7 @@ ve pom.xml dosyasına aşağıdaki konfigürasyonları ekleyerek Maven tabanlı 
 
 {{% blocks/products/pf/agp/text %}}
 
-ihtiyacın var
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java)
- aşağıdaki iş akışını kendi ortamınızda denemek için
+ihtiyacın var [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) aşağıdaki iş akışını kendi ortamınızda denemek için
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +102,7 @@ Aspose.Imaging API, uygulamalar içinde görüntüleri (fotoğrafları) oluştur
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Sadece WMF dosyalarınızı yükleyin ve \"Gri tonlamalı şimdi\" düğmesine basın" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Ortaya çıkan dosyanın indirme bağlantısını anında alın" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku" >}}
 WMF uzantılı dosyalar, vektörün yanı sıra bitmap formatındaki görüntü verilerini depolamak için Microsoft Windows Meta Dosyasını (WMF) temsil eder. Daha doğru olmak gerekirse, WMF, aygıttan bağımsız Grafik dosya biçimlerinin vektör dosya biçimi kategorisine aittir. Windows Grafik Aygıt Arabirimi (GDI), bir görüntüyü ekranda görüntülemek için bir WMF dosyasında depolanan işlevleri kullanır. Gelişmiş Meta Dosyaları (EMF) olarak bilinen WMF'nin daha gelişmiş bir sürümü daha sonra yayımlandı ve bu, biçimi daha zengin özelliklere sahip hale getirdi. Pratik olarak WMF, SVG'ye benzer.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -120,6 +114,7 @@ WMF uzantılı dosyalar, vektörün yanı sıra bitmap formatındaki görüntü 
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/grayscale/apng" name="APNG" description="Hareketli Taşınabilir Ağ Grafikleri" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/grayscale/bmp" name="BMP" description="Bitmap Resmi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/grayscale/ico" name="ICO" description="Windows simgesi" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/grayscale/jpg" name="JPG" description="Birleşmiş Fotoğraf Uzmanları Grubu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/grayscale/jpeg" name="JPEG" description="Birleşmiş Fotoğraf Uzmanları Grubu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/grayscale/dib" name="DIB" description="Cihazdan Bağımsız Bit Eşlem" >}}

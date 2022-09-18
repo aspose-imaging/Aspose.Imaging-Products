@@ -18,12 +18,7 @@ description: Contoh kode untuk EPS ke SVGZ C# konversi. Gunakan kode contoh API 
 {{% blocks/products/pf/agp/content h2="Cara Mengonversi EPS ke SVGZ Menggunakan C#" %}}
 
 Untuk mengonversi EPS ke SVGZ, kami akan menggunakan
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- API yang kaya fitur, kuat, dan mudah digunakan manipulasi gambar dan konversi API untuk platform C#. Membuka
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- manajer paket, cari
- **Aspose.Imaging**
- dan menginstal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
+[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API yang kaya fitur, kuat, dan mudah digunakan manipulasi gambar dan konversi API untuk platform C#. Membuka [NuGet](https://www.nuget.org/packages/aspose.imaging) manajer paket, cari **Aspose.Imaging** dan menginstal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Perintah Konsol Manajer Paket" offSpacer="true" %}}
 
@@ -91,11 +86,11 @@ Sebelum menjalankan kode contoh konversi, pastikan Anda memiliki prasyarat berik
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
 File dengan ekstensi EPS pada dasarnya menggambarkan program bahasa Encapsulated PostScript yang menggambarkan tampilan satu halaman. Nama "Encapsulated" karena dapat dimasukkan atau dienkapsulasi dalam deskripsi halaman bahasa PostScript lain. Format file berbasis skrip ini dapat berisi kombinasi teks, grafik, dan gambar. File EPS dapat menyertakan gambar pratinjau bitmap yang dienkapsulasi di dalam untuk ditampilkan oleh aplikasi yang dapat membuka file tersebut. File EPS dapat dikonversi ke format gambar standar seperti JPG, PNG, TIFF dan PDF menggunakan aplikasi yang berbeda mis. Adobe Ilustrator, Photoshop dan PaintShop Pro. Karena kerentanan keamanan dalam file EPS, Office 2016, Office 2013, Office 2010, dan Office 365 telah menonaktifkan kemampuan untuk menyisipkan file EPS ke dalam dokumen Office.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
 File dengan ekstensi .svgz adalah versi terkompresi dari file Scalable Vector Graphics (.SVG). Itu dikompresi dengan kompresi gzip dan berisi data dalam format XML. File SVGZ mendukung transparansi, gradien, animasi, dan filter. File SVGZ berukuran lebih kecil dibandingkan dengan file SVG default dan ukuran file yang diperkecil ini membantu mentransfer file grafik secara online. Desainer grafis membuat file SVGZ menggunakan alat seperti Adobe Illustrator, Corel PaintShop Pro, dan lainnya. Namun, file SVGZ dapat dibuat dengan mengaktifkan kompresi GZip di Server Apache saat mengirimkan data gambar.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -129,6 +124,7 @@ File dengan ekstensi .svgz adalah versi terkompresi dari file Scalable Vector Gr
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/conversion/eps-to-tga" name="TGA" description="Grafis Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/conversion/eps-to-svgz" name="SVGZ" description="Versi terkompresi dari file Scalable Vector Graphics (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/conversion/eps-to-canvas" name="CANVAS" description="Kanvas HTML5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/net/conversion/eps-to-ico" name="ICO" description="ikon Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -18,10 +18,7 @@ description: Beispielcode für die Java-Konvertierung von DJVU in DICOM. Verwend
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie DJVU in DICOM mit Java" %}}
 
 Um DJVU in DICOM zu konvertieren, verwenden wir
-[Aspose.Imaging für Java](https://products.aspose.com/imaging/java)
-API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Bildbearbeitungs- und Konvertierungs-API für die Java-Plattform ist. Sie können die neueste Version direkt von herunterladen
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
+[Aspose.Imaging für Java](https://products.aspose.com/imaging/java) API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Bildbearbeitungs- und Konvertierungs-API für die Java Plattform ist. Sie können die neueste Version direkt von herunterladen [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -102,11 +99,11 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
 DjVu, ausgesprochen als „déjà vu“, ist ein Grafikdateiformat, das für gescannte Dokumente und Bücher gedacht ist, insbesondere für solche, die eine Kombination aus Text, Zeichnungen, Bildern und Fotos enthalten. Es wurde von AT&T Labs entwickelt. Es verwendet mehrere Techniken wie Bildebenentrennung von Text und Hintergrundbildern, progressives Laden, arithmetische Codierung und verlustbehaftete Komprimierung für bitonale Bilder. Da die DJVU-Datei komprimierte, aber qualitativ hochwertige Farbbilder, Fotos, Texte und Zeichnungen enthalten kann und daher auf weniger Platz gespeichert werden kann, wird sie im Internet als eBooks, Handbücher, Zeitungen, alte Dokumente usw. verwendet.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
 DICOM ist die Abkürzung für Digital Imaging and Communications in Medicine und gehört zum Gebiet der Medizinischen Informatik. DICOM ist die Kombination aus Dateiformatdefinition und einem Netzwerkkommunikationsprotokoll. DICOM verwendet die Erweiterung .DCM. .DCM gibt es in zwei verschiedenen Formaten, nämlich Format 1.x und Format 2.x. Das DCM-Format 1.x ist weiterhin in zwei Versionen normal und erweitert verfügbar. DICOM wird für die Integration von medizinischen Bildgebungsgeräten wie Druckern, Servern, Scannern usw. verschiedener Anbieter verwendet und enthält auch Identifikationsdaten jedes Patienten zur Eindeutigkeit. DICOM-Dateien können zwischen zwei Parteien geteilt werden, wenn sie in der Lage sind, Bilddaten im DICOM-Format zu empfangen. Der Kommunikationsteil von DICOM ist ein Anwendungsschichtprotokoll und verwendet TCP/IP zur Kommunikation zwischen Entitäten. Für die Webdienste von DICOM werden HTTP- und HTTPS-Protokolle verwendet. Von Webdiensten unterstützte Versionen sind 1.0, 1.1, 2 oder höher.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -140,6 +137,7 @@ DICOM ist die Abkürzung für Digital Imaging and Communications in Medicine und
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/conversion/djvu-to-tga" name="TGA" description="Targa-Grafik" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/conversion/djvu-to-svgz" name="SVGZ" description="Komprimierte Version der Datei Scalable Vector Graphics (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/conversion/djvu-to-canvas" name="CANVAS" description="HTML5-Leinwand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/conversion/djvu-to-ico" name="ICO" description="Windows-Symbol" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

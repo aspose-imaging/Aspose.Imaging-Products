@@ -18,12 +18,7 @@ description: C# konvertavimo iš DIB į WMZ pavyzdinis kodas. Naudokite API pavy
 {{% blocks/products/pf/agp/content h2="Kaip konvertuoti DIB į WMZ naudojant C#" %}}
 
 Norėdami konvertuoti DIB į WMZ, naudosime
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta C# platformai. Atviras
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- paketų tvarkyklė, ieškokite
- **Aspose.Imaging**
- ir įdiegti. Taip pat galite naudoti šią komandą iš paketų tvarkyklės konsolės.
+[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta C# platformai. Atviras [NuGet](https://www.nuget.org/packages/aspose.imaging) paketų tvarkyklė, ieškokite **Aspose.Imaging** ir įdiegti. Taip pat galite naudoti šią komandą iš paketų tvarkyklės konsolės.
 
 {{% blocks/products/pf/agp/code-block title="Paketų tvarkytuvės konsolės komanda" offSpacer="true" %}}
 
@@ -91,11 +86,11 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
 DIB (nuo įrenginio nepriklausomo taškinės schemos) failas yra rastrinio vaizdo failas, kurio struktūra yra panaši į standartinius taškinės schemos failus (BMP), bet turi skirtingą antraštę. Jį galima atidaryti su beveik visomis programomis, kurios gali atidaryti standartinį BMP failą sistemoje „Windows“ ir „MacOS“. DIB yra dvejetainiai failai ir turi sudėtingą failo formatą, panašų į BMP.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
 WMZ yra „Windows Media Player“ / „Windows Media Player“ naudojamo odos failo formato failo plėtinys. WMZ failas iš esmės yra suglaudintas WMF failas XML formatu.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -129,6 +124,7 @@ WMZ yra „Windows Media Player“ / „Windows Media Player“ naudojamo odos f
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/conversion/dib-to-tga" name="TGA" description="Targa grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/conversion/dib-to-svgz" name="SVGZ" description="Suglaudinta Scalable Vector Graphics (.SVG) failo versija." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/conversion/dib-to-canvas" name="CANVAS" description="HTML5 drobė" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/conversion/dib-to-ico" name="ICO" description="Windows piktograma" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -18,12 +18,8 @@ description: Sample code for TIFF to SVG C# conversion. Use API example code for
 {{% blocks/products/pf/agp/content h2="How to Convert TIFF to SVG Using C#" %}}
 
 In order to convert TIFF to SVG, we’ll use
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) 
- API which is a feature-rich, powerful and easy to use image manipulation and conversion API for C# platform. Open
- [NuGet](https://www.nuget.org/packages/aspose.imaging) 
- package manager, search for
- **Aspose.Imaging** 
- and install. You may also use the following command from the Package Manager Console.
+[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API which is a feature-rich, powerful and easy to use image manipulation and conversion API for C# platform. Open [NuGet](https://www.nuget.org/packages/aspose.imaging) package manager, search for
+ **Aspose.Imaging** and install. You may also use the following command from the Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
@@ -91,11 +87,11 @@ Before running the conversion example code, make sure that you have the followin
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff" whatIsFormat1="What is" whatIsFormat2="File Format" readMoreFormat="Read More">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="What is" whatIsFormat2="File Format" readMoreFormat="Read More">}}
 TIFF or TIF, Tagged Image File Format, represents raster images that are meant for usage on a variety of devices that comply with this file format standard. It is capable of describing bilevel, grayscale, palette-color and full-color image data in several color spaces. It supports lossy as well as lossless compression schemes to choose between space and time for applications using the format. The format is extensible and has underwent several revisions that allows the inclusion of an unlimited amount of private or special-purpose information. The format is not machine dependent and is free from bounds like processor, operating system, or file systems.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg" whatIsFormat1="What is" whatIsFormat2="File Format" readMoreFormat="Read More">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="What is" whatIsFormat2="File Format" readMoreFormat="Read More">}}
 SVG files are Scalable Vector Graphics Files that use XML based text format for describing the appearance of image. The word Scalable refers to the fact that the SVG can be scaled to different sizes without losing any quality. Text based description of such files make them independent of resolution. It is one of the mostly used format for building website and print graphics in order to achieve scalability. The format can only be used for two-dimensional graphics though. SVG files can be viewed/opened in almost all modern browsers including Chrome, Internet Explorer, Firefox, and Safari.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -128,6 +124,7 @@ SVG files are Scalable Vector Graphics Files that use XML based text format for 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/net/conversion/tiff-to-tga" name="TGA" description="Targa Graphic" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/net/conversion/tiff-to-svgz" name="SVGZ" description="Compressed version of Scalable Vector Graphics (.SVG) file." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/net/conversion/tiff-to-canvas" name="CANVAS" description="HTML5 Canvas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/net/conversion/tiff-to-ico" name="ICO" description="Windows icon" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

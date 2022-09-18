@@ -16,13 +16,7 @@ description: Prova le nostre API di documenti locali per filigranare il file GIF
 
 {{% blocks/products/pf/agp/content h2="Come filigranare il file GIF utilizzando C#" %}}
 
-Per filigranare il file GIF, useremo
-[Aspose.Imaging per .NET](https://products.aspose.com/imaging/net)
- API che è un'API di conversione e manipolazione delle immagini ricca di funzionalità, potente e facile da usare per la piattaforma C#. Aprire
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- gestore pacchetti, cerca
- **Aspose.Imaging**
- e installa. È inoltre possibile utilizzare il seguente comando dalla Console di gestione pacchetti.
+Per filigranare il file GIF, useremo [Aspose.Imaging per .NET](https://products.aspose.com/imaging/net) API che è un'API di conversione e manipolazione delle immagini ricca di funzionalità, potente e facile da usare per la piattaforma C#. Aprire [NuGet](https://www.nuget.org/packages/aspose.imaging) gestore pacchetti, cerca **Aspose.Imaging** e installa. È inoltre possibile utilizzare il seguente comando dalla Console di gestione pacchetti.
 
 {{% blocks/products/pf/agp/code-block title="Comando della console di Package Manager" offSpacer="true" %}}
 
@@ -44,9 +38,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-Hai bisogno del
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- per provare il seguente flusso di lavoro nel tuo ambiente.
+Hai bisogno del [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) per provare il seguente flusso di lavoro nel tuo ambiente.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -101,7 +93,7 @@ Aspose.Imaging API è una soluzione di elaborazione delle immagini per creare, m
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta caricare il file GIF, impostare la filigrana e premere il pulsante \"Aggiungi\"." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Ottieni immediatamente il link per il download del file risultante" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più" >}}
 Un formato GIF o Graphical Interchange Format è un tipo di immagine altamente compressa. Di proprietà di Unisys, GIF utilizza l'algoritmo di compressione LZW che non degrada la qualità dell'immagine. Per ogni immagine GIF in genere consentono fino a 8 bit per pixel e sono consentiti fino a 256 colori nell'immagine. In contrasto con un'immagine JPEG, che può visualizzare fino a 16 milioni di colori e tocca abbastanza i limiti dell'occhio umano. Quando è emerso Internet, le GIF sono rimaste la scelta migliore perché richiedevano una larghezza di banda ridotta e compatibili per la grafica che consuma aree di colore solide. Una GIF animata combina numerose immagini o fotogrammi in un unico file e le visualizza in sequenza per generare una clip animata o un breve video. I limiti di colore sono fino a 256 per ogni fotogramma e sono probabilmente i meno adatti per riprodurre altre immagini e fotografie con gradiente di colore.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -112,6 +104,7 @@ Un formato GIF o Graphical Interchange Format è un tipo di immagine altamente c
 {{< blocks/products/pf/agp/other-supported-section title="Altri formati di filigrana supportati" subTitle="Usando C#, si possono facilmente filigranare diversi formati tra cui." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/watermark/bmp" name="BMP" description="Immagine bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/watermark/ico" name="ICO" description="Icona di Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/watermark/dib" name="DIB" description="Bitmap indipendente dal dispositivo" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/watermark/dicom" name="DICOM" description="Immagini e comunicazioni digitali" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/watermark/emf" name="EMF" description="Formato Metafile migliorato" >}}

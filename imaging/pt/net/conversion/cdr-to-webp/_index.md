@@ -18,12 +18,7 @@ description: Código de exemplo para conversão de C# CDR para WEBP. Use o códi
 {{% blocks/products/pf/agp/content h2="Como converter CDR para WEBP usando C#" %}}
 
 Para converter CDR em WEBP, usaremos
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- gerenciador de pacotes, procure por
- **Aspose.Imagem**
- e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
+[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir [NuGet](https://www.nuget.org/packages/aspose.imaging) gerenciador de pacotes, procure por **Aspose.Imagem** e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
 
 {{% blocks/products/pf/agp/code-block title="Comando do Console do Gerenciador de Pacotes" offSpacer="true" %}}
 
@@ -93,11 +88,11 @@ Antes de executar o código de exemplo de conversão, verifique se você tem os 
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação">}}
 Um arquivo CDR é um arquivo de imagem de desenho vetorial criado nativamente com o CorelDRAW para armazenar imagens digitais codificadas e compactadas. Esse arquivo de desenho contém texto, linhas, formas, imagens, cores e efeitos para representação vetorial do conteúdo da imagem. Os arquivos CDR podem ser abertos com o CorelDRAW como aplicativo principal e também podem ser convertidos para outros formatos, como PDF, JPG, PNG, BMP e AI. Ele pode ser usado para representação de vários dados gráficos, como brochuras, tablóides, envelopes e cartões postais. Além do CorelDRAW, outros produtos Corel, como o Corel Paintshop Pro e o CorelDRAW Graphics Suite, também podem abrir os formatos de arquivo CDR.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação">}}
 O WebP, introduzido pelo Google, é um formato de arquivo de imagem da Web raster moderno baseado em compactação sem perdas e com perdas. Ele fornece a mesma qualidade de imagem enquanto reduz consideravelmente o tamanho da imagem. Como a maioria das páginas da web usa imagens como representação efetiva de dados, o uso de imagens WebP em páginas da web resulta em carregamento mais rápido das páginas da web. De acordo com o Google, as imagens sem perdas do WebP são 26% menores em tamanho em comparação com os PNGs, enquanto as imagens com perdas do WebP são 25-34% menores do que as imagens JPEG comparáveis. As imagens são comparadas com base no índice de semelhança estrutural (SSIM) entre o WebP e outros formatos de arquivo de imagem. WebP é um projeto irmão do formato de contêiner multimídia WebM.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -131,6 +126,7 @@ O WebP, introduzido pelo Google, é um formato de arquivo de imagem da Web raste
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/conversion/cdr-to-tga" name="TGA" description="Gráfico Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/conversion/cdr-to-svgz" name="SVGZ" description="Versão compactada do arquivo Scalable Vector Graphics (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/conversion/cdr-to-canvas" name="CANVAS" description="Tela HTML5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/conversion/cdr-to-ico" name="ICO" description="ícone do Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

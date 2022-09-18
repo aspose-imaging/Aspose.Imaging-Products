@@ -17,10 +17,7 @@ description: Try our On-Premise document APIs to View DJVU files on .NET Framewo
 {{% blocks/products/pf/agp/content h2="How to View DJVU images Using Java" %}}
 
 In order to view DJVU files, we’ll use
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java) 
-API which is a feature-rich, powerful and easy to use image manipulation and conversion API for Java platform. You can download its latest version directly from
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 
-and install it within your Maven-based project by adding the following configurations to the pom.xml.
+[Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API which is a feature-rich, powerful and easy to use image manipulation and conversion API for Java platform. You can download its latest version directly from [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) and install it within your Maven-based project by adding the following configurations to the pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -55,9 +52,7 @@ and install it within your Maven-based project by adding the following configura
 
 {{% blocks/products/pf/agp/text %}}
 
-You need the
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) 
- to try the following workflow in your own environment.
+You need the [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) to try the following workflow in your own environment.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -111,7 +106,7 @@ Aspose.Imaging API is an image processing solution to create, modify, draw or co
         checkFreeAppLabel="Check our [live demos to view DJVU](https://products.aspose.app/imaging/en/image-view/DJVU)">}}
 
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu" whatIsFormat1="What is" whatIsFormat2="File Format" readMoreFormat="Read More" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="What is" whatIsFormat2="File Format" readMoreFormat="Read More" >}}
 DjVu, pronounced as “déjà vu”, is a graphics file format intended for scanned documents and books especially those which contain the combination of text, drawings, images and photographs. It was developed by AT&T Labs. It uses multiple techniques like image layer separation of text and background images, progressive loading, arithmetic coding and lossy compression for bitonal images. Since DJVU file can contain compressed yet high-quality colour images, photographs, text, and drawings and can be saved in less space therefore, it's used on web as eBooks, manuals, newspapers, ancient documents, etc.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -123,6 +118,7 @@ DjVu, pronounced as “déjà vu”, is a graphics file format intended for scan
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/java/viewer/apng" name="APNG" description="Animated Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/java/viewer/bmp" name="BMP" description="Bitmap Picture" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/java/viewer/ico" name="ICO" description="Windows icon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/java/viewer/jpg" name="JPG" description="Joint Photographic Experts Group" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/java/viewer/jpeg" name="JPEG" description="Joint Photographic Experts Group" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/java/viewer/dib" name="DIB" description="Device Independent Bitmap" >}}

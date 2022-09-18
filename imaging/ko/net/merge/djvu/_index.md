@@ -16,13 +16,7 @@ description: 온프레미스 문서 API를 사용해 .NET Framework, .NET Core, 
 
 {{% blocks/products/pf/agp/content h2="C#을 사용하여 DJVU 파일을 병합하는 방법" %}}
 
-DJVU 파일을 병합하기 위해 다음을 사용합니다.
-[.NET용 Aspose.Imaging](https://products.aspose.com/imaging/net)
- 기능이 풍부하고 강력하며 사용하기 쉬운 C# 플랫폼용 이미지 조작 및 변환 API인 API입니다. 열려있는
- [누겟](https://www.nuget.org/packages/aspose.imaging)
- 패키지 관리자, 검색
- **아포즈.이미징**
- 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
+DJVU 파일을 병합하기 위해 다음을 사용합니다. [.NET용 Aspose.Imaging](https://products.aspose.com/imaging/net) 기능이 풍부하고 강력하며 사용하기 쉬운 C# 플랫폼용 이미지 조작 및 변환 API인 API입니다. 열려있는 [누겟](https://www.nuget.org/packages/aspose.imaging) 패키지 관리자, 검색 **아포즈.이미징** 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
 
 {{% blocks/products/pf/agp/code-block title="패키지 관리자 콘솔 명령" offSpacer="true" %}}
 
@@ -44,9 +38,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-당신은 필요합니다
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- 자신의 환경에서 다음 워크플로를 시도합니다.
+당신은 필요합니다 [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) 자신의 환경에서 다음 워크플로를 시도합니다.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -99,7 +91,7 @@ Aspose.Imaging API는 애플리케이션 내에서 이미지(사진)를 생성, 
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="DJVU 파일을 업로드하고 \"지금 병합\" 버튼을 누르세요." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="결과 파일에 대한 다운로드 링크를 즉시 가져옵니다." >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기" >}}
 "déjà vu"로 발음되는 DjVu는 특히 텍스트, 그림, 이미지 및 사진의 조합이 포함된 스캔 문서 및 책을 위한 그래픽 파일 형식입니다. AT&T Labs에서 개발했습니다. 텍스트 및 배경 이미지의 이미지 레이어 분리, 프로그레시브 로딩, 산술 코딩 및 비트 이미지에 대한 손실 압축과 같은 여러 기술을 사용합니다. DJVU 파일은 압축된 고품질의 컬러 이미지, 사진, 텍스트, 그림 등을 담을 수 있어 적은 공간에 저장할 수 있어 웹상에서 eBook, 매뉴얼, 신문, 고대문서 등으로 활용되고 있습니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -111,6 +103,7 @@ Aspose.Imaging API는 애플리케이션 내에서 이미지(사진)를 생성, 
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/merge/apng" name="APNG" description="애니메이션 휴대용 네트워크 그래픽" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/merge/bmp" name="BMP" description="비트맵 그림" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/merge/ico" name="ICO" description="윈도우 아이콘" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/merge/jpg" name="JPG" description="공동 사진 전문가 그룹" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/merge/cdr" name="CDR" description="벡터 드로잉 이미지" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/merge/cmx" name="CMX" description="Corel 교환 이미지" >}}

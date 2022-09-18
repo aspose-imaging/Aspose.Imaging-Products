@@ -18,10 +18,7 @@ description: Voorbeeldcode voor SVGZ naar DICOM Java-conversie. Gebruik API-voor
 {{% blocks/products/pf/agp/content h2="Hoe SVGZ naar DICOM te converteren met Java" %}}
 
 Om SVGZ naar DICOM te converteren, gebruiken we
-[Aspose.Imaging voor Java](https://products.aspose.com/imaging/java)
-API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het Java-platform. U kunt de nieuwste versie rechtstreeks downloaden van
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
+[Aspose.Imaging voor Java](https://products.aspose.com/imaging/java) API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het Java-platform. U kunt de nieuwste versie rechtstreeks downloaden van [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -102,11 +99,11 @@ Voordat u de conversievoorbeeldcode uitvoert, moet u ervoor zorgen dat u aan de 
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
 Een bestand met de extensie .svgz is een gecomprimeerde versie van het Scalable Vector Graphics-bestand (.SVG). Het is gecomprimeerd met gzip-compressie en bevat gegevens in XML-indeling. SVGZ-bestanden ondersteunen transparantie, verlopen, animaties en filters. SVGZ-bestanden zijn kleiner in vergelijking met de standaard SVG-bestanden en deze kleinere bestandsgrootte helpt de grafische bestanden online over te zetten. Grafisch ontwerper maakt SVGZ-bestanden met tools zoals Adobe Illustrator, Corel PaintShop Pro en andere. SVGZ-bestanden kunnen echter worden gegenereerd door GZip-compressie in de Apache-server in te schakelen terwijl de afbeeldingsgegevens worden verzonden.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
 DICOM is de afkorting voor Digital Imaging and Communications in Medicine en heeft betrekking op het vakgebied Medische Informatica. DICOM is de combinatie van bestandsformaatdefinitie en een netwerkcommunicatieprotocol. DICOM gebruikt de .DCM-extensie. .DCM bestaat in twee verschillende formaten, namelijk formaat 1.x en formaat 2.x. DCM Format 1.x is verder beschikbaar in twee versies normaal en uitgebreid. DICOM wordt gebruikt voor de integratie van medische beeldvormingsapparatuur zoals printers, servers, scanners enz. van verschillende leveranciers en bevat ook identificatiegegevens van elke patiënt voor uniekheid. DICOM-bestanden kunnen tussen twee partijen worden gedeeld als ze beeldgegevens in DICOM-indeling kunnen ontvangen. Het communicatiegedeelte van DICOM is een applicatielaagprotocol en gebruikt TCP/IP om te communiceren tussen entiteiten. Voor de webservices van DICOM worden HTTP- en HTTPS-protocollen gebruikt. Door webservices ondersteunde versies zijn 1.0, 1.1, 2 of hoger.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -139,6 +136,7 @@ DICOM is de afkorting voor Digital Imaging and Communications in Medicine en hee
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/conversion/svgz-to-tga" name="TGA" description="Targa-afbeelding" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/conversion/svgz-to-svg" name="SVG" description="Schaalbare vectorafbeeldingen" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/conversion/svgz-to-canvas" name="CANVAS" description="HTML5-canvas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/conversion/svgz-to-ico" name="ICO" description="Windows-pictogram" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

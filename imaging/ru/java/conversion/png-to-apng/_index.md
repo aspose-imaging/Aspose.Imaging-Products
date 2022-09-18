@@ -18,10 +18,7 @@ description: Пример кода для преобразования PNG в AP
 {{% blocks/products/pf/agp/content h2="Как преобразовать PNG в APNG с помощью Java" %}}
 
 Чтобы преобразовать PNG в APNG, мы будем использовать
-[Aspose.Imaging для Java](https://products.aspose.com/imaging/java)
-API, который представляет собой многофункциональный, мощный и простой в использовании API для обработки и преобразования изображений для платформы Java. Вы можете скачать его последнюю версию прямо с
-[Maven] (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-и установите его в своем проекте на основе Maven, добавив следующие конфигурации в файл pom.xml.
+[Aspose.Imaging для Java](https://products.aspose.com/imaging/java) API, который представляет собой многофункциональный, мощный и простой в использовании API для обработки и преобразования изображений для платформы Java. Вы можете скачать его последнюю версию прямо с [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) и установите его в своем проекте на основе Maven, добавив следующие конфигурации в файл pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Репозиторий" offSpacer="true" %}}
 
@@ -102,11 +99,11 @@ API, который представляет собой многофункцио
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
 PNG, переносимая сетевая графика, относится к типу формата файла растрового изображения, в котором используется сжатие без потерь. Этот формат файла был создан в качестве замены формата обмена графикой (GIF) и не имеет ограничений авторского права. Однако формат файла PNG не поддерживает анимацию. Формат файлов PNG поддерживает сжатие изображений без потерь, что делает его популярным среди пользователей. С течением времени PNG превратился в один из наиболее часто используемых форматов файлов изображений. Почти все операционные системы поддерживают открытие файлов PNG. Например, средство просмотра Microsoft Windows имеет возможность открывать файлы PNG, так как ОС по умолчанию имеет поддержку, доступную как часть установки.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
 Файл с расширением .apng (Animated Portable Network Graphics) представляет собой растровый графический формат и является неофициальным расширением Portable Network Graphics (PNG). Он состоит из нескольких кадров (каждый из изображений PNG), которые представляют последовательность анимации. Это дает визуализацию, аналогичную файлу GIF. Файлы APNG поддерживают 24-битные изображения и 8-битную прозрачность. APNG обратно совместим с неанимированными файлами GIF. Файлы APNG используют то же расширение .png и могут открываться такими приложениями, как Mozilla Firefox, Chrome с поддержкой APNG, приложениями iMessage для iOS 10.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -139,6 +136,7 @@ PNG, переносимая сетевая графика, относится к
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/conversion/png-to-tga" name="TGA" description="Тарга Графика" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/conversion/png-to-svgz" name="SVGZ" description="Сжатая версия файла масштабируемой векторной графики (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/conversion/png-to-canvas" name="CANVAS" description="Холст HTML5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/conversion/png-to-ico" name="ICO" description="Значок Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

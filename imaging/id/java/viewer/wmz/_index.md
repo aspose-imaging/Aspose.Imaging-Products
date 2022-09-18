@@ -17,10 +17,7 @@ description: Coba API dokumen Lokal kami untuk Melihat file WMZ di .NET Framewor
 {{% blocks/products/pf/agp/content h2="Cara Melihat gambar WMZ Menggunakan Java" %}}
 
 Untuk melihat file WMZ, kami akan menggunakan
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java)
-API yang kaya fitur, kuat dan mudah digunakan manipulasi gambar dan konversi API untuk platform Java. Anda dapat mengunduh versi terbarunya langsung dari
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
+[Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API yang kaya fitur, kuat dan mudah digunakan manipulasi gambar dan konversi API untuk platform Java. Anda dapat mengunduh versi terbarunya langsung dari [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -55,9 +52,7 @@ dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berik
 
 {{% blocks/products/pf/agp/text %}}
 
-Anda membutuhkan
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java)
- untuk mencoba alur kerja berikut di lingkungan Anda sendiri.
+Anda membutuhkan [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) untuk mencoba alur kerja berikut di lingkungan Anda sendiri.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -111,7 +106,7 @@ Aspose.Imaging API adalah solusi pemrosesan gambar untuk membuat, memodifikasi, 
         checkFreeAppLabel="Lihat [demo langsung kami untuk melihat WMZ](https://products.aspose.app/imaging/id/image-view/WMZ)">}}
 
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya" >}}
 WMZ adalah ekstensi file untuk format file kulit di/untuk/digunakan oleh Windows Media Player. File WMZ pada dasarnya adalah file WMF zip dalam XML.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -123,6 +118,7 @@ WMZ adalah ekstensi file untuk format file kulit di/untuk/digunakan oleh Windows
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/viewer/apng" name="APNG" description="Grafik Jaringan Portabel Animasi" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/viewer/bmp" name="BMP" description="Gambar Bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/viewer/ico" name="ICO" description="ikon Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/viewer/jpg" name="JPG" description="Kelompok Ahli Fotografi Bersama" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/viewer/jpeg" name="JPEG" description="Kelompok Ahli Fotografi Bersama" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/viewer/dib" name="DIB" description="Bitmap Independen Perangkat" >}}

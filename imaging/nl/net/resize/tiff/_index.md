@@ -16,13 +16,7 @@ description: Probeer onze On-Premise document-API's om het formaat van TIFF-best
 
 {{% blocks/products/pf/agp/content h2="Het formaat van TIFF-bestanden wijzigen met C#" %}}
 
-Om het formaat van TIFF bestanden te wijzigen, gebruiken we
-[Aspose.Imaging voor .NET](https://products.aspose.com/imaging/net)
- API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het C#-platform. Open
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- pakketbeheerder, zoek naar
- **Aspose.Imaging**
- en installeren. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
+Om het formaat van TIFF bestanden te wijzigen, gebruiken we [Aspose.Imaging voor .NET](https://products.aspose.com/imaging/net) API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het C#-platform. Open [NuGet](https://www.nuget.org/packages/aspose.imaging) pakketbeheerder, zoek naar **Aspose.Imaging** en installeren. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
@@ -42,9 +36,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-Je hebt de nodig
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- om de volgende workflow in uw eigen omgeving te proberen.
+Je hebt de nodig [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) om de volgende workflow in uw eigen omgeving te proberen.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -97,7 +89,7 @@ Aspose.Imaging API is een beeldverwerkingsoplossing voor het maken, wijzigen, te
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Upload gewoon uw TIFF-bestanden en druk op de knop \"Formaat wijzigen\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Krijg direct de downloadlink voor het resulterende bestand" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder" >}}
 TIFF of TIF, Tagged Image File Format, staat voor rasterafbeeldingen die bedoeld zijn voor gebruik op verschillende apparaten die voldoen aan deze standaard voor bestandsindelingen. Het is in staat om bilevel-, grijswaarden-, paletkleur- en full-color afbeeldingsgegevens in verschillende kleurruimten te beschrijven. Het ondersteunt zowel lossy als lossless compressieschema's om te kiezen tussen ruimte en tijd voor toepassingen die het formaat gebruiken. Het formaat is uitbreidbaar en heeft verschillende revisies ondergaan waardoor een onbeperkte hoeveelheid persoonlijke of speciale informatie kan worden opgenomen. Het formaat is niet machine-afhankelijk en is vrij van beperkingen zoals processor, besturingssysteem of bestandssystemen.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -109,6 +101,7 @@ TIFF of TIF, Tagged Image File Format, staat voor rasterafbeeldingen die bedoeld
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/resize/apng" name="APNG" description="Geanimeerde draagbare netwerkgraphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/resize/bmp" name="BMP" description="Bitmapafbeelding" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/resize/ico" name="ICO" description="Windows-pictogram" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/resize/jpg" name="JPG" description="Joint Photographic Experts Group" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/resize/cdr" name="CDR" description="Vector tekening afbeelding" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/resize/cmx" name="CMX" description="Corel Exchange-afbeelding" >}}

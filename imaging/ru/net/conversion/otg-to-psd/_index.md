@@ -18,12 +18,7 @@ description: Пример кода для преобразования OTG в PS
 {{% blocks/products/pf/agp/content h2="Как преобразовать OTG в PSD с помощью C#" %}}
 
 Чтобы преобразовать OTG в PSD, мы будем использовать
-[Aspose.Imaging для .NET](https://products.aspose.com/imaging/net)
- API, который представляет собой многофункциональный, мощный и простой в использовании API для обработки и преобразования изображений для платформы C#. Открытым
- [NuGet] (https://www.nuget.org/packages/aspose.imaging)
- менеджер пакетов, поиск
- **Aspose.Imaging**
- и установить. Вы также можете использовать следующую команду из консоли диспетчера пакетов.
+[Aspose.Imaging для .NET](https://products.aspose.com/imaging/net) API, который представляет собой многофункциональный, мощный и простой в использовании API для обработки и преобразования изображений для платформы C#. Открытым [NuGet](https://www.nuget.org/packages/aspose.imaging) менеджер пакетов, поиск **Aspose.Imaging** и установить. Вы также можете использовать следующую команду из консоли диспетчера пакетов.
 
 {{% blocks/products/pf/agp/code-block title="Команда консоли диспетчера пакетов" offSpacer="true" %}}
 
@@ -93,11 +88,11 @@ PM> Install-Package Aspose.Imaging
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
 Файл OTG представляет собой шаблон чертежа, созданный с использованием стандарта OpenDocument, который соответствует спецификации OASIS Office Applications 1.0. Он представляет собой организацию элементов рисования по умолчанию для векторного изображения, которую можно использовать для дальнейшего улучшения содержимого файла.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
 PSD, документ Photoshop, представляет собой собственный формат файлов Adobe Photoshop, используемый для графического дизайна и разработки. Файлы PSD могут включать в себя слои изображений, корректирующие слои, маски слоев, аннотации, информацию о файле, ключевые слова и другие элементы, характерные для Photoshop.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -131,6 +126,7 @@ PSD, документ Photoshop, представляет собой собст�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/conversion/otg-to-tga" name="TGA" description="Тарга Графика" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/conversion/otg-to-svgz" name="SVGZ" description="Сжатая версия файла масштабируемой векторной графики (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/conversion/otg-to-canvas" name="CANVAS" description="Холст HTML5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/conversion/otg-to-ico" name="ICO" description="Значок Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

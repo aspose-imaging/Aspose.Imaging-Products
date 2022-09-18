@@ -18,12 +18,7 @@ description: Codice di esempio per la conversione da TGA a PNG C#. Utilizzare il
 {{% blocks/products/pf/agp/content h2="Come convertire TGA in PNG utilizzando C#" %}}
 
 Per convertire TGA in PNG, useremo
-[Aspose.Imaging per .NET](https://products.aspose.com/imaging/net)
- API che è un'API di conversione e manipolazione delle immagini ricca di funzionalità, potente e facile da usare per la piattaforma C#. Aprire
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- gestore pacchetti, cerca
- **Aspose.Imaging**
- e installa. È inoltre possibile utilizzare il seguente comando dalla Console di gestione pacchetti.
+[Aspose.Imaging per .NET](https://products.aspose.com/imaging/net) API che è un'API di conversione e manipolazione delle immagini ricca di funzionalità, potente e facile da usare per la piattaforma C#. Aprire [NuGet](https://www.nuget.org/packages/aspose.imaging) gestore pacchetti, cerca **Aspose.Imaging** e installa. È inoltre possibile utilizzare il seguente comando dalla Console di gestione pacchetti.
 
 {{% blocks/products/pf/agp/code-block title="Comando della console di Package Manager" offSpacer="true" %}}
 
@@ -93,11 +88,11 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
 Truevision TGA, spesso indicato come TARGA, è un formato di file di grafica raster creato da Truevision Inc. (ora parte di Avid Technology). Era il formato nativo delle schede TARGA e VISTA, le prime schede grafiche per PC compatibili con IBM a supportare la visualizzazione Highcolor/truecolor.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
 PNG, Portable Network Graphics, si riferisce a un tipo di formato di file di immagine raster che utilizza la compressione senza perdita di dati. Questo formato di file è stato creato in sostituzione di Graphics Interchange Format (GIF) e non ha limitazioni di copyright. Tuttavia, il formato di file PNG non supporta le animazioni. Il formato di file PNG supporta la compressione delle immagini senza perdita di dati che lo rende popolare tra i suoi utenti. Con il passare del tempo, PNG si è evoluto come uno dei formati di file immagine più utilizzati. Quasi tutti i sistemi operativi supportano l'apertura di file PNG. Ad esempio, il visualizzatore di Microsoft Windows ha la capacità di aprire file PNG poiché il sistema operativo ha per impostazione predefinita il supporto disponibile come parte dell'installazione.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -130,6 +125,7 @@ PNG, Portable Network Graphics, si riferisce a un tipo di formato di file di imm
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/conversion/tga-to-wmz" name="WMZ" description="Skin compressa di Windows Media Player" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/conversion/tga-to-svgz" name="SVGZ" description="Versione compressa del file Scalable Vector Graphics (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/conversion/tga-to-canvas" name="CANVAS" description="Tela HTML5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/conversion/tga-to-ico" name="ICO" description="Icona di Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

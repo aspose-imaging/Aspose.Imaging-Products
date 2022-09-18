@@ -18,10 +18,7 @@ description: Exemple de code pour la conversion Java CDR vers APNG. Utilisez un 
 {{% blocks/products/pf/agp/content h2="Comment convertir CDR en APNG en utilisant Java" %}}
 
 Afin de convertir CDR en APNG, nous utiliserons
-[Aspose.Imaging pour Java](https://products.aspose.com/imaging/java)
-API qui est une API de manipulation et de conversion d'images riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme Java. Vous pouvez télécharger sa dernière version directement depuis
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au fichier pom.xml.
+[Aspose.Imaging pour Java](https://products.aspose.com/imaging/java) API qui est une API de manipulation et de conversion d'images riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme Java. Vous pouvez télécharger sa dernière version directement depuis [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au fichier pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -102,11 +99,11 @@ Avant d'exécuter l'exemple de code de conversion, assurez-vous que vous dispose
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
 Un fichier CDR est un fichier d'image de dessin vectoriel créé nativement avec CorelDRAW pour stocker une image numérique encodée et compressée. Un tel fichier de dessin contient du texte, des lignes, des formes, des images, des couleurs et des effets pour la représentation vectorielle du contenu de l'image. Les fichiers CDR peuvent être ouverts avec CorelDRAW comme application principale et peuvent également être convertis en d'autres formats tels que PDF, JPG, PNG, BMP et AI. Il peut être utilisé pour la représentation de diverses données graphiques telles que des brochures, des tabloïds, des enveloppes et des cartes postales. Outre CorelDRAW, d'autres produits Corel tels que Corel Paintshop Pro et la suite graphique CorelDRAW peuvent également ouvrir les formats de fichiers CDR.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
 Un fichier avec l'extension .apng (Animated Portable Network Graphics) est un format graphique raster et est une extension non officielle du Portable Network Graphic (PNG). Il comprend plusieurs cadres (chacun d'une image PNG) qui représente une séquence d'animation. Cela donne une visualisation similaire à un fichier GIF. Les fichiers APNG prennent en charge les images 24 bits et la transparence 8 bits. APNG est rétrocompatible avec les fichiers GIF non animés. Les fichiers APNG utilisent la même extension .png et peuvent être ouverts par des applications telles que Mozilla Firefox, Chrome avec prise en charge APNG, les applications iMessage pour iOS 10.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -140,6 +137,7 @@ Un fichier avec l'extension .apng (Animated Portable Network Graphics) est un fo
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/conversion/cdr-to-tga" name="TGA" description="Graphique Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/conversion/cdr-to-svgz" name="SVGZ" description="Version compressée du fichier Scalable Vector Graphics (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/conversion/cdr-to-canvas" name="CANVAS" description="Canevas HTML5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/conversion/cdr-to-ico" name="ICO" description="Icône Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

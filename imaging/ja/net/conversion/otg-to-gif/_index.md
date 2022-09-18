@@ -18,12 +18,7 @@ description: OTGからGIFへのC＃変換のサンプルコード。 VB.NET、As
 {{% blocks/products/pf/agp/content h2="C#を使用してOTGをGIFに変換する方法" %}}
 
 OTGをGIFに変換するには、
-[Aspose.Imaging for .NET]（https://products.aspose.com/imaging/net）
- 機能が豊富で強力で使いやすいC＃プラットフォーム用の画像操作および変換APIであるAPI。開ける
- [NuGet]（https://www.nuget.org/packages/aspose.imaging）
- パッケージマネージャー、検索
- ** Aspose.Imaging **
- とインストールします。パッケージマネージャーコンソールから次のコマンドを使用することもできます。
+[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) 機能が豊富で強力で使いやすいC＃プラットフォーム用の画像操作および変換APIであるAPI。開ける [NuGet](https://www.nuget.org/packages/aspose.imaging) パッケージマネージャー、検索 ** Aspose.Imaging ** とインストールします。パッケージマネージャーコンソールから次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title ="パッケージマネージャーコンソールコマンド" offSpacer = "true"%}}
 
@@ -91,11 +86,11 @@ PM> Install-Package Aspose.Imaging
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
 OTGファイルは、OASIS Office Applications1.0仕様に準拠したOpenDocument標準を使用して作成された図面テンプレートです。これは、ファイルの内容をさらに強化するために使用できるベクター画像の描画要素のデフォルトの構成を表します。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
 GIFまたはGraphicalInterchange Formatは、高度に圧縮された画像の一種です。 Unisysが所有するGIFは、画質を低下させないLZW圧縮アルゴリズムを使用します。画像ごとに、GIFは通常、ピクセルあたり最大8ビットを許可し、画像全体で最大256色を許可します。最大1600万色を表示でき、人間の目の限界にかなり触れるJPEG画像とは対照的です。インターネットが登場したとき、GIFは低帯域幅を必要とし、色の単色領域を消費するグラフィックスと互換性があるため、依然として最良の選択でした。アニメーションGIFは、多数の画像またはフレームを1つのファイルに結合し、それらを順番に表示して、アニメーションクリップまたは短いビデオを生成します。色の制限は、フレームごとに最大256であり、カラーグラデーションを使用して他の画像や写真を再現するのに最も適していない可能性があります。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -129,6 +124,7 @@ GIFまたはGraphicalInterchange Formatは、高度に圧縮された画像の�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/conversion/otg-to-tga" name="TGA" description="タルガグラフィック" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/conversion/otg-to-svgz" name="SVGZ" description="スケーラブルベクターグラフィックス（.SVG）ファイルの圧縮バージョン。" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/conversion/otg-to-canvas" name="CANVAS" description="HTML5キャンバス" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/conversion/otg-to-ico" name="ICO" description="Windows アイコン" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

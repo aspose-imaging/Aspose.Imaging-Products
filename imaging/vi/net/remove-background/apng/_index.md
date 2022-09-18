@@ -16,13 +16,7 @@ description: Hãy thử các API tài liệu On-Premise của chúng tôi để 
 
 {{% blocks/products/pf/agp/content h2="Cách xóa nền trong APNG Tệp bằng C#" %}}
 
-Để xóa nền trong tệp APNG, chúng tôi sẽ sử dụng
-[Aspose.Imaging cho .NET] (https://products.aspose.com/imaging/net)
- API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C #. Mở
- [NuGet] (https://www.nuget.org/packages/aspose.imaging)
- quản lý gói, tìm kiếm
- ** Aspose.Imaging **
- và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển Trình quản lý Gói.
+Để xóa nền trong tệp APNG, chúng tôi sẽ sử dụng [Aspose.Imaging cho .NET] (https://products.aspose.com/imaging/net) API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C #. Mở [NuGet] (https://www.nuget.org/packages/aspose.imaging) quản lý gói, tìm kiếm ** Aspose.Imaging ** và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển Trình quản lý Gói.
 
 {{% blocks/products/pf/agp/code-block title = "Lệnh Bảng điều khiển Trình quản lý Gói" offSpacer = "true"%}}
 
@@ -70,7 +64,7 @@ Aspose.Imaging cho .NET được hỗ trợ trên tất cả các hệ điều h
 
 {{% blocks/products/pf/agp/code-block title="Xóa nền trong hình ảnh APNG - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "07bd18a1af2633c99a708341d84b5ad2" "remove-change-background-generic-examples.cs" >}}
+{{< gist "aspose-com-gists" "c28d7d7f7dff39444751b5724d5ba14a" "remove-change-background-generic-examples.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -97,7 +91,7 @@ Aspose.Imaging API là một giải pháp xử lý hình ảnh để tạo, sử
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Chỉ cần tải lên các tệp APNG của bạn và nhấn nút \"Xóa nền ngay bây giờ \"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Nhận ngay liên kết tải xuống cho tệp kết quả" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm" >}}
 Tệp có phần mở rộng .apng (Animated Portable Network Graphics) là định dạng đồ họa raster và là phần mở rộng không chính thức của Đồ họa Mạng Di động (PNG). Nó bao gồm nhiều khung hình (mỗi hình ảnh PNG) đại diện cho một chuỗi hoạt ảnh. Điều này mang lại hình ảnh tương tự như một tệp GIF. Các tệp APNG hỗ trợ hình ảnh 24 bit và độ trong suốt 8 bit. APNG tương thích ngược với các tệp GIF không động. Các tệp APNG sử dụng cùng một phần mở rộng .png và có thể được mở bằng các ứng dụng như Mozilla Firefox, Chrome có hỗ trợ APNG, ứng dụng iMessage dành cho iOS 10.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -108,6 +102,7 @@ Tệp có phần mở rộng .apng (Animated Portable Network Graphics) là đ�
 {{< blocks/products/pf/agp/other-supported-section title="Các định dạng nền được hỗ trợ khác" subTitle="Sử dụng C#, người ta có thể dễ dàng xóa nền khỏi các định dạng khác nhau, bao gồm cả." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/remove-background/bmp" name="BMP" description="Ảnh bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/remove-background/ico" name="ICO" description="Biểu tượng Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/remove-background/jpg" name="JPG" description="Nhóm chuyên gia nhiếp ảnh chung" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/remove-background/dib" name="DIB" description="Bản đồ bit độc lập với thiết bị" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/remove-background/dicom" name="DICOM" description="Hình ảnh & Truyền thông Kỹ thuật số" >}}

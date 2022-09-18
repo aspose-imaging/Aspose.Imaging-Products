@@ -17,12 +17,8 @@ description: Testen Sie unsere On-Premise-Dokument-APIs zum Anzeigen von CDR-Dat
 {{% blocks/products/pf/agp/content h2="Anzeigen von CDR-Bildern mit C#" %}}
 
 Um CDR-Dateien anzuzeigen, verwenden wir
-[Aspose.Imaging für .NET](https://products.aspose.com/imaging/net)
- API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Bildbearbeitungs- und Konvertierungs-API für die C#-Plattform ist. Offen
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- Paketmanager, suche nach
- **Aspose.Imaging**
- und installieren. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden.
+[Aspose.Imaging für .NET](https://products.aspose.com/imaging/net) API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Bildbearbeitungs- und Konvertierungs-API für die C#-Plattform ist. Offen [NuGet](https://www.nuget.org/packages/aspose.imaging) Paketmanager, suche nach
+ **Aspose.Imaging** und installieren. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
@@ -42,9 +38,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-Du brauchst die
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- um den folgenden Workflow in Ihrer eigenen Umgebung auszuprobieren.
+Du brauchst die [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) um den folgenden Workflow in Ihrer eigenen Umgebung auszuprobieren.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -100,7 +94,7 @@ Aspose.Imaging API ist eine Bildverarbeitungslösung zum Erstellen, Ändern, Zei
         checkFreeAppLabel="Sehen Sie sich unsere [Live-Demos zum Anzeigen von CDR](https://products.aspose.app/imaging/de/image-view/CDR)">}}
 
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen" >}}
 Eine CDR-Datei ist eine Vektorzeichnungsbilddatei, die nativ mit CorelDRAW zum Speichern digitaler Bilder kodiert und komprimiert erstellt wird. Eine solche Zeichnungsdatei enthält Texte, Linien, Formen, Bilder, Farben und Effekte zur vektoriellen Darstellung von Bildinhalten. CDR-Dateien können mit CorelDRAW als Hauptanwendung geöffnet und auch in andere Formate wie PDF, JPG, PNG, BMP und AI konvertiert werden. Es kann zur Darstellung verschiedener Grafikdaten wie Broschüren, Boulevardzeitungen, Umschläge und Postkarten verwendet werden. Neben CorelDRAW können auch andere Corel-Produkte wie Corel Paintshop Pro und CorelDRAW Graphics Suite die CDR-Dateiformate öffnen.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -112,6 +106,7 @@ Eine CDR-Datei ist eine Vektorzeichnungsbilddatei, die nativ mit CorelDRAW zum S
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/viewer/apng" name="APNG" description="Animierte tragbare Netzwerkgrafiken" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/viewer/bmp" name="BMP" description="Bitmap-Bild" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/viewer/ico" name="ICO" description="Windows-Symbol" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/viewer/jpg" name="JPG" description="Gemeinsame fotografische Expertengruppe" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/viewer/jpeg" name="JPEG" description="Gemeinsame fotografische Expertengruppe" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/viewer/dib" name="DIB" description="Geräteunabhängige Bitmap" >}}

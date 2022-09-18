@@ -16,11 +16,7 @@ description: 嘗試使用我們的本地文檔 API 來合併 Java 應用程序�
 
 {{% blocks/products/pf/agp/content h2="如何使用 Java 調整 ODG 文件的大小" %}}
 
-為了調整 ODG 文件的大小，我們將使用
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java)
-API 是一個功能豐富、功能強大且易於使用的 Java 平台圖像處理和轉換 API。您可以直接從
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-並通過將以下配置添加到 pom.xml 將其安裝在基於 Maven 的項目中。
+為了調整 ODG 文件的大小，我們將使用 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一個功能豐富、功能強大 易於使用的 Java 平台圖像處理和轉換 API。您可以直接從 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 並通過將以下配置添加到 pom.xml 將其安裝在基於 Maven 的項目中。
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -55,9 +51,7 @@ API 是一個功能豐富、功能強大且易於使用的 Java 平台圖像處�
 
 {{% blocks/products/pf/agp/text %}}
 
-你需要
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java)
- 在您自己的環境中嘗試以下工作流程。
+你需要 [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) 在您自己的環境中嘗試以下工作流程。
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,8 +102,8 @@ Aspose.Imaging API 是一種圖像處理解決方案，用於在應用程序中�
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="只需上傳您的 ODG 文件並點擊“調整大小”按鈕" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="立即獲取生成文件的下載鏈接" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多" >}}
-The ODG file format is used by Apache OpenOffice's Draw application to store drawing elements as a vector image. It follows the XML based file format specifications outlined by Advancement of Structural Information Standards (OASIS). ODG represents drawings as vector images using points, lines and curves. Besides OpenOffice, LibreOffice and other applications also provide support for working with ODG file format. Other formats supported by OpenOffice, for example, include ODT, ODF, ODP and ODS.
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多" >}}
+Apache OpenOffice 的 Draw 應用程序使用 ODG 文件格式將繪圖元素存儲為矢量圖像。它遵循結構信息標準推進 (OASIS) 概述的基於 XML 的文件格式規範。 ODG 將繪圖表示為使用點、線和曲線的矢量圖像。除了 OpenOffice，LibreOffice 和其他應用程序還提供對 ODG 文件格式的支持。例如，OpenOffice 支持的其他格式包括 ODT、ODF、ODP 和 ODS。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
     {{< /blocks/products/pf/agp/about-file-section >}}
@@ -118,26 +112,27 @@ The ODG file format is used by Apache OpenOffice's Draw application to store dra
 
 {{< blocks/products/pf/agp/other-supported-section title="其他支持的調整大小格式" subTitle="" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/resize/apng" name="APNG" description="Animated Portable Network Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/resize/bmp" name="BMP" description="Bitmap Picture" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/resize/jpg" name="JPG" description="Joint Photographic Experts Group" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/resize/cdr" name="CDR" description="Vector Drawing Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/resize/cmx" name="CMX" description="Corel Exchange Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/resize/dib" name="DIB" description="Device Independent Bitmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/resize/dicom" name="DICOM" description="Digital Imaging & Communications" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/resize/djvu" name="DJVU" description="Graphics Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/resize/dng" name="DNG" description="Digital Camera Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/resize/emf" name="EMF" description="Enhanced Metafile Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/resize/eps" name="EPS" description="Encapsulated PostScript Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/resize/gif" name="GIF" description="Graphical Interchange Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/resize/apng" name="APNG" description="動畫便攜式網絡圖形" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/resize/bmp" name="BMP" description="位圖圖片" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/resize/ico" name="ICO" description="窗口圖標" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/resize/jpg" name="JPG" description="聯合攝影專家組" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/resize/cdr" name="CDR" description="矢量繪圖圖像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/resize/cmx" name="CMX" description="Corel 交換圖像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/resize/dib" name="DIB" description="設備無關位圖" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/resize/dicom" name="DICOM" description="數碼影像與通訊" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/resize/djvu" name="DJVU" description="圖形格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/resize/dng" name="DNG" description="數碼相機圖像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/resize/emf" name="EMF" description="增強的元文件格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/resize/eps" name="EPS" description="封裝的 PostScript 語言" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/resize/gif" name="GIF" description="圖形交換格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/resize/jp2" name="JP2" description="JPEG 2000" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/resize/j2k" name="J2K" description="Wavelet Compressed Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/resize/otg" name="OTG" description="OpenDocument Standard" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/resize/png" name="PNG" description="Portable Network Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/resize/svg" name="SVG" description="Scalable Vector Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/resize/tiff" name="TIFF" description="Tagged Image Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/resize/webp" name="WEBP" description="Raster Web Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/resize/wmf" name="WMF" description="Microsoft Windows Metafile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/resize/j2k" name="J2K" description="小波壓縮圖像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/resize/otg" name="OTG" description="開放文檔標準" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/resize/png" name="PNG" description="便攜式網絡圖形" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/resize/svg" name="SVG" description="可縮放矢量圖形" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/resize/tiff" name="TIFF" description="標記圖像格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/resize/webp" name="WEBP" description="光柵網絡圖像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/resize/wmf" name="WMF" description="微軟視窗元文件" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

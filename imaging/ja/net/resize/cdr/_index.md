@@ -16,13 +16,7 @@ description: オンプレミスドキュメントAPIを試して、.NET Framewor
 
 {{% blocks/products/pf/agp/content h2="C#を使用してCDRファイルのサイズを変更する方法" %}}
 
-CDRファイルのサイズを変更するには、
-[Aspose.Imaging for .NET]（https://products.aspose.com/imaging/net）
- 機能が豊富で強力で使いやすいC＃プラットフォーム用の画像操作および変換APIであるAPI。開ける
- [NuGet]（https://www.nuget.org/packages/aspose.imaging）
- パッケージマネージャー、検索
- ** Aspose.Imaging **
- とインストールします。パッケージマネージャーコンソールから次のコマンドを使用することもできます。
+CDRファイルのサイズを変更するには、 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) 機能が豊富で強力で使いやすいC＃プラットフォーム用の画像操作および変換APIであるAPI。開ける [NuGet](https://www.nuget.org/packages/aspose.imaging) パッケージマネージャー、検索 ** Aspose.Imaging ** とインストールします。パッケージマネージャーコンソールから次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title ="パッケージマネージャーコンソールコマンド" offSpacer = "true"%}}
 
@@ -42,9 +36,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-あなたは
- [aspose.imaging.dll]（https://downloads.aspose.com/imaging/net）
- 自分の環境で次のワークフローを試してください。
+あなたは [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) 自分の環境で次のワークフローを試してください。
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -97,7 +89,7 @@ Aspose.Imaging APIは、アプリケーション内で画像（写真）を作�
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="CDRファイルをアップロードして[サイズ変更]ボタンを押すだけです" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="結果のファイルのダウンロードリンクを即座に取得します" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む" >}}
 CDRファイルは、エンコードおよび圧縮されたデジタル画像を保存するためにCorelDRAWでネイティブに作成されたベクター描画画像ファイルです。このような描画ファイルには、画像コンテンツのベクトル表現のためのテキスト、線、形状、画像、色、および効果が含まれています。 CDRファイルは、CorelDRAWをプライマリアプリケーションとして使用して開くことができ、PDF、JPG、PNG、BMP、AIなどの他の形式に変換することもできます。パンフレット、タブロイド紙、封筒、はがきなどのさまざまなグラフィックデータの表現に使用できます。 CorelDRAWに加えて、Corel PaintshopProやCorelDRAWGraphicsスイートなどの他のCorel製品もCDRファイル形式を開くことができます。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -109,6 +101,7 @@ CDRファイルは、エンコードおよび圧縮されたデジタル画像�
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/resize/apng" name="APNG" description="アニメーション化されたポータブルネットワークグラフィックス" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/resize/bmp" name="BMP" description="ビットマップ画像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/resize/ico" name="ICO" description="Windows アイコン" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/resize/jpg" name="JPG" description="共同写真専門家グループ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/resize/cmx" name="CMX" description="CorelExchangeイメージ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/resize/dib" name="DIB" description="デバイスに依存しないビットマップ" >}}

@@ -18,12 +18,7 @@ description: Exemple de code pour la conversion JPEG vers JP2 C#. Utilisez le co
 {{% blocks/products/pf/agp/content h2="Comment convertir JPEG en JP2 en utilisant C#" %}}
 
 Afin de convertir JPEG en JP2, nous utiliserons
-[Aspose.Imaging pour .NET](https://products.aspose.com/imaging/net)
- API qui est une API de manipulation et de conversion d'images riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme C #. Ouvrir
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- gestionnaire de paquets, recherchez
- **Aspose.Imaging**
- et installer. Vous pouvez également utiliser la commande suivante à partir de la console du gestionnaire de packages.
+[Aspose.Imaging pour .NET](https://products.aspose.com/imaging/net) API qui est une API de manipulation et de conversion d'images riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme C #. Ouvrir [NuGet](https://www.nuget.org/packages/aspose.imaging) gestionnaire de paquets, recherchez **Aspose.Imaging** et installer. Vous pouvez également utiliser la commande suivante à partir de la console du gestionnaire de packages.
 
 {{% blocks/products/pf/agp/code-block title="Commande de la console du gestionnaire de packages" offSpacer="true" %}}
 
@@ -93,11 +88,11 @@ Avant d'exécuter l'exemple de code de conversion, assurez-vous que vous dispose
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
 Un JPEG est un type de format d'image enregistré à l'aide de la méthode de compression avec perte. L'image de sortie, résultant de la compression, est un compromis entre la taille de stockage et la qualité de l'image. Les utilisateurs peuvent ajuster le niveau de compression pour atteindre le niveau de qualité souhaité tout en réduisant la taille de stockage. La qualité de l'image est négligeable si une compression 10:1 est appliquée à l'image. Plus la valeur de compression est élevée, plus la dégradation de la qualité de l'image est importante.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
 JPEG 2000 (JP2) est un système de codage d'image et une norme de compression d'image de pointe. Conçu en utilisant la technologie des ondelettes JPEG 2000 peut coder du contenu sans perte dans n'importe quelle qualité à la fois. De plus, sans aucune pénalité substantielle dans l'efficacité du codage, JPEG 2000 a la capacité d'accéder et de décoder efficacement le même contenu dans une variété d'autres résolutions et qualités. Les flux de code dans JPEG 2000 sont considérablement évolutifs, ayant des régions d'intérêt qui fournissent la possibilité d'un accès spatial aléatoire. Possédant jusqu'à 16384 composants divers avec des dimensions en térapixels, et une précision pouvant atteindre 38 bits/échantillon.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -129,6 +124,7 @@ JPEG 2000 (JP2) est un système de codage d'image et une norme de compression d'
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/net/conversion/jpeg-to-tga" name="TGA" description="Graphique Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/net/conversion/jpeg-to-svgz" name="SVGZ" description="Version compressée du fichier Scalable Vector Graphics (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/net/conversion/jpeg-to-canvas" name="CANVAS" description="Canevas HTML5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/net/conversion/jpeg-to-ico" name="ICO" description="Icône Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -16,13 +16,7 @@ description: .NET Framework, .NET Core, Windows 애플리케이션, ASP.NET 웹 
 
 {{% blocks/products/pf/agp/content h2="C#을 사용하여 EPS 파일을 만화화하는 방법" %}}
 
-EPS 파일을 만화화하기 위해 다음을 사용합니다.
-[.NET용 Aspose.Imaging](https://products.aspose.com/imaging/net)
- 기능이 풍부하고 강력하며 사용하기 쉬운 C# 플랫폼용 이미지 조작 및 변환 API인 API입니다. 열려있는
- [누겟](https://www.nuget.org/packages/aspose.imaging)
- 패키지 관리자, 검색
- **아포즈.이미징**
- 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
+EPS 파일을 만화화하기 위해 다음을 사용합니다. [.NET용 Aspose.Imaging](https://products.aspose.com/imaging/net) 기능이 풍부하고 강력하며 사용하기 쉬운 C# 플랫폼용 이미지 조작 및 변환 API인 API입니다. 열려있는 [누겟](https://www.nuget.org/packages/aspose.imaging) 패키지 관리자, 검색 **아포즈.이미징** 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
 
 {{% blocks/products/pf/agp/code-block title="패키지 관리자 콘솔 명령" offSpacer="true" %}}
 
@@ -44,9 +38,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-당신은 필요합니다
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- 자신의 환경에서 다음 워크플로를 시도합니다.
+당신은 필요합니다 [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) 자신의 환경에서 다음 워크플로를 시도합니다.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -99,7 +91,7 @@ Aspose.Imaging API는 애플리케이션 내에서 이미지(사진)를 생성, 
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="EPS 파일을 업로드하고 \"지금 만화화\" 버튼을 누르세요." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="결과 파일에 대한 다운로드 링크를 즉시 가져옵니다." >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기" >}}
 EPS 확장자가 있는 파일은 기본적으로 단일 페이지의 모양을 설명하는 캡슐화된 포스트스크립트 언어 프로그램을 설명합니다. "Encapsulated"라는 이름은 다른 PostScript 언어 페이지 설명에 포함되거나 캡슐화될 수 있기 때문입니다. 이 스크립트 기반 파일 형식은 텍스트, 그래픽 및 이미지의 조합을 포함할 수 있습니다. EPS 파일에는 이러한 파일을 열 수 있는 응용 프로그램에서 표시할 수 있도록 내부에 캡슐화된 비트맵 미리 보기 이미지가 포함될 수 있습니다. EPS 파일은 다른 응용 프로그램을 사용하여 JPG, PNG, TIFF 및 PDF와 같은 표준 이미지 형식으로 변환할 수 있습니다. Adobe Illustrator, Photoshop 및 PaintShop Pro. EPS 파일의 보안 취약점으로 인해 Office 2016, Office 2013, Office 2010 및 Office 365는 EPS 파일을 Office 문서에 삽입하는 기능을 해제했습니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -111,6 +103,7 @@ EPS 확장자가 있는 파일은 기본적으로 단일 페이지의 모양을 
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/cartoonify/apng" name="APNG" description="애니메이션 휴대용 네트워크 그래픽" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/cartoonify/bmp" name="BMP" description="비트맵 그림" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/cartoonify/ico" name="ICO" description="윈도우 아이콘" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/cartoonify/jpg" name="JPG" description="공동 사진 전문가 그룹" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/cartoonify/jpeg" name="JPEG" description="공동 사진 전문가 그룹" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/net/cartoonify/dib" name="DIB" description="장치 독립 비트맵" >}}

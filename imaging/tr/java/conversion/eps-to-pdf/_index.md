@@ -18,10 +18,7 @@ description: EPS - PDF Java dönüşümü için örnek kod. Herhangi bir Web vey
 {{% blocks/products/pf/agp/content h2="Java Kullanarak EPS'i PDF'ye Dönüştürme" %}}
 
 EPS'i PDF'ye dönüştürmek için kullanacağız
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java)
-Java platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. En son sürümünü doğrudan adresinden indirebilirsiniz.
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-ve pom.xml dosyasına aşağıdaki konfigürasyonları ekleyerek Maven tabanlı projenize kurun.
+[Aspose.Imaging for Java](https://products.aspose.com/imaging/java) Java platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. En son sürümünü doğrudan adresinden indirebilirsiniz. [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) ve pom.xml dosyasına aşağıdaki konfigürasyonları ekleyerek Maven tabanlı projenize kurun.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -102,7 +99,7 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
 EPS uzantılı dosyalar, esas olarak, tek bir sayfanın görünümünü tanımlayan Encapsulated PostScript dil programını tanımlar. Başka bir PostScript dili sayfası açıklamasına dahil edilebildiği veya kapsüllenebildiği için "Encapsulated" adı. Bu komut dosyası tabanlı dosya formatı, metin, grafik ve görüntülerin herhangi bir kombinasyonunu içerebilir. EPS dosyaları, bu tür dosyaları açabilen uygulamalar tarafından görüntülenmek üzere içeride kapsüllenmiş bir bitmap önizleme görüntüsü içerebilir. EPS dosyaları, örneğin farklı uygulamalar kullanılarak JPG, PNG, TIFF ve PDF gibi standart görüntü biçimlerine dönüştürülebilir. Adobe Illustrator, Photoshop ve PaintShop Pro. EPS dosyalarındaki bir güvenlik açığı nedeniyle, Office 2016, Office 2013, Office 2010 ve Office 365, EPS dosyalarını Office belgelerine ekleme özelliğini kapatmıştır.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -140,6 +137,7 @@ Taşınabilir Belge Formatı (PDF), Adobe tarafından 1990'larda oluşturulmuş 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/conversion/eps-to-tga" name="TGA" description="Targa Grafiği" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/conversion/eps-to-svgz" name="SVGZ" description="Ölçeklenebilir Vektör Grafikleri (.SVG) dosyasının sıkıştırılmış sürümü." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/conversion/eps-to-canvas" name="CANVAS" description="HTML5 Tuval" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/conversion/eps-to-ico" name="ICO" description="Windows simgesi" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

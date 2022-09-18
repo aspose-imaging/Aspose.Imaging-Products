@@ -16,11 +16,7 @@ description: Try our On-Premise document APIs to Filter DIB files on .NET Framew
 
 {{% blocks/products/pf/agp/content h2="How to Filter DIB Files Using Java" %}}
 
-In order to filter DIB files, we’ll use
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java) 
-API which is a feature-rich, powerful and easy to use image manipulation and conversion API for Java platform. You can download its latest version directly from
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 
-and install it within your Maven-based project by adding the following configurations to the pom.xml.
+In order to filter DIB files, we’ll use [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API which is a feature-rich, powerful and easy to use image manipulation and conversion API for Java platform. You can download its latest version directly from [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) and install it within your Maven-based project by adding the following configurations to the pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -55,9 +51,7 @@ and install it within your Maven-based project by adding the following configura
 
 {{% blocks/products/pf/agp/text %}}
 
-You need the
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) 
- to try the following workflow in your own environment.
+You need the [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) to try the following workflow in your own environment.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +102,7 @@ Aspose.Imaging API is an image processing solution to create, modify, draw or co
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your DIB files and hit \"Filter now\" button" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Instantly get the download link for the resultant file" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib" whatIsFormat1="What is" whatIsFormat2="File Format" readMoreFormat="Read More" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="What is" whatIsFormat2="File Format" readMoreFormat="Read More" >}}
 A DIB (Device Independent Bitmap) file is a raster image file that is similar in structure to the standard Bitmap files (BMP) but has a different header. It can be opened with almost all applications that can open a standard BMP file on Windows as well as macOS. DIB are binary files and have a complex file format similar to BMP.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -120,6 +114,7 @@ A DIB (Device Independent Bitmap) file is a raster image file that is similar in
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/java/filter/apng" name="APNG" description="Animated Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/java/filter/bmp" name="BMP" description="Bitmap Picture" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/java/filter/ico" name="ICO" description="Windows icon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/java/filter/jpg" name="JPG" description="Joint Photographic Experts Group" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/java/filter/jpeg" name="JPEG" description="Joint Photographic Experts Group" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/java/filter/dicom" name="DICOM" description="Digital Imaging & Communications" >}}

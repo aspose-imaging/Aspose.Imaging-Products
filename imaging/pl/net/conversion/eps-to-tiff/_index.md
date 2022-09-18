@@ -18,12 +18,7 @@ description: Przykładowy kod konwersji EPS do TIFF C#. Użyj przykładowego kod
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować EPS na TIFF za pomocą C#" %}}
 
 Aby przekonwertować EPS na TIFF, użyjemy
-[Aspose.Imaging dla .NET](https://products.aspose.com/imaging/net)
- API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do obróbki i konwersji obrazów dla platformy C#. otwarty
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- menedżer pakietów, szukaj
- **Aspose.Obrazowanie**
- i zainstaluj. Możesz również użyć następującego polecenia z konsoli Menedżera pakietów.
+[Aspose.Imaging dla .NET](https://products.aspose.com/imaging/net) API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do obróbki i konwersji obrazów dla platformy C#. Otwarty [NuGet](https://www.nuget.org/packages/aspose.imaging) menedżer pakietów, szukaj **Aspose.Obrazowanie** i zainstaluj. Możesz również użyć następującego polecenia z konsoli Menedżera pakietów.
 
 {{% blocks/products/pf/agp/code-block title="Polecenie konsoli menedżera pakietów" offSpacer="true" %}}
 
@@ -93,11 +88,11 @@ Przed uruchomieniem przykładowego kodu konwersji upewnij się, że masz następ
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
 Pliki z rozszerzeniem EPS zasadniczo opisują program w języku Encapsulated PostScript, który opisuje wygląd pojedynczej strony. Nazwa „Enkapsulowana”, ponieważ może być zawarta lub zawarta w innym opisie strony w języku PostScript. Ten format pliku oparty na skrypcie może zawierać dowolną kombinację tekstu, grafiki i obrazów. Pliki EPS mogą zawierać obraz podglądu mapy bitowej zamknięty w środku do wyświetlania przez aplikacje, które mogą otwierać takie pliki. Pliki EPS można konwertować do standardowych formatów graficznych, takich jak JPG, PNG, TIFF i PDF przy użyciu różnych aplikacji, m.in. Adobe Illustrator, Photoshop i PaintShop Pro. Ze względu na lukę w zabezpieczeniach plików EPS pakiety Office 2016, Office 2013, Office 2010 i Office 365 wyłączyły możliwość wstawiania plików EPS do dokumentów pakietu Office.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
 TIFF lub TIF, Tagged Image File Format, reprezentuje obrazy rastrowe przeznaczone do użytku na różnych urządzeniach zgodnych z tym standardem formatu plików. Jest w stanie opisać dane obrazu dwupoziomowego, w skali szarości, w palecie kolorów i w pełnym kolorze w kilku przestrzeniach kolorów. Obsługuje stratne i bezstratne schematy kompresji, aby wybrać między przestrzenią a czasem dla aplikacji korzystających z formatu. Format jest rozszerzalny i przeszedł kilka zmian, które umożliwiają włączenie nieograniczonej ilości informacji prywatnych lub informacji specjalnego przeznaczenia. Format nie jest zależny od komputera i nie zawiera ograniczeń, takich jak procesor, system operacyjny lub systemy plików.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -131,6 +126,7 @@ TIFF lub TIF, Tagged Image File Format, reprezentuje obrazy rastrowe przeznaczon
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/conversion/eps-to-tga" name="TGA" description="Targa grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/conversion/eps-to-svgz" name="SVGZ" description="Skompresowana wersja pliku Scalable Vector Graphics (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/conversion/eps-to-canvas" name="CANVAS" description="Płótno HTML5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/conversion/eps-to-ico" name="ICO" description="Ikona Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

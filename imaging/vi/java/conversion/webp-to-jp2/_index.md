@@ -18,10 +18,7 @@ description: Mã mẫu cho chuyển đổi Java từ WEBP sang JP2. Sử dụng 
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi WEBP thành JP2 bằng Java" %}}
 
 Để chuyển đổi WEBP thành JP2, chúng tôi sẽ sử dụng
-[Aspose.Imaging cho Java] (https://products.aspose.com/imaging/java)
-API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng Java. Bạn có thể tải xuống phiên bản mới nhất của nó trực tiếp từ
-[Maven] (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-và cài đặt nó trong dự án dựa trên Maven của bạn bằng cách thêm các cấu hình sau vào pom.xml.
+[Aspose.Imaging cho Java] (https://products.aspose.com/imaging/java) API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng Java. Bạn có thể tải xuống phiên bản mới nhất của nó trực tiếp từ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) và cài đặt nó trong dự án dựa trên Maven của bạn bằng cách thêm các cấu hình sau vào pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Kho" offSpacer="true"%}}
 
@@ -102,11 +99,11 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
 WebP, được giới thiệu bởi Google, là một định dạng tệp hình ảnh web raster hiện đại dựa trên nén không mất dữ liệu và mất dữ liệu. Nó cung cấp chất lượng hình ảnh tương tự trong khi giảm đáng kể kích thước hình ảnh. Vì hầu hết các trang web đều sử dụng hình ảnh làm đại diện dữ liệu hiệu quả, việc sử dụng hình ảnh WebP trong các trang web dẫn đến tải trang web nhanh hơn. Theo Google, hình ảnh không mất dữ liệu WebP có kích thước nhỏ hơn 26% so với PNG, trong khi hình ảnh mất dữ liệu WebP nhỏ hơn 25-34% so với hình ảnh JPEG tương đương. Hình ảnh được so sánh dựa trên chỉ số Độ tương đồng về cấu trúc (SSIM) giữa WebP và các định dạng tệp hình ảnh khác. WebP là một dự án chị em của định dạng vùng chứa đa phương tiện WebM.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
 JPEG 2000 (JP2) là một hệ thống mã hóa hình ảnh và tiêu chuẩn nén hình ảnh hiện đại nhất. Được thiết kế, sử dụng công nghệ wavelet JPEG 2000 có thể mã hóa nội dung không mất dữ liệu ở bất kỳ chất lượng nào cùng một lúc. Hơn nữa, không có bất kỳ hình phạt đáng kể nào về hiệu quả mã hóa, JPEG 2000 có khả năng truy cập và giải mã hiệu quả cùng một nội dung thành nhiều độ phân giải và chất lượng khác. Các dòng mã trong JPEG 2000 có khả năng mở rộng đáng kể khi có các vùng quan tâm cung cấp cơ sở cho việc truy cập ngẫu nhiên theo không gian. Sở hữu tới 16384 linh kiện đa dạng với kích thước tính bằng terapixel và độ chính xác có thể cao tới 38 bit / mẫu.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -139,6 +136,7 @@ JPEG 2000 (JP2) là một hệ thống mã hóa hình ảnh và tiêu chuẩn n�
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/conversion/webp-to-tga" name="TGA" description="Đồ họa Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/conversion/webp-to-svgz" name="SVGZ" description="Phiên bản nén của tệp Đồ họa Vectơ có thể mở rộng (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/conversion/webp-to-canvas" name="CANVAS" description="HTML5 Canvas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/conversion/webp-to-ico" name="ICO" description="Biểu tượng Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

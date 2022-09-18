@@ -16,13 +16,7 @@ description: .NET Framework, .NET Core, Windows Application, ASP.NET Web Applica
 
 {{% blocks/products/pf/agp/content h2="C# Kullanarak TIFF Dosyalarında arka plan nasıl kaldırılır" %}}
 
-TIFF dosyalarındaki arka planı kaldırmak için kullanacağız
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. Açık
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- paket yöneticisi, ara
- **Aspose.Görüntüleme**
- ve yükleyin. Paket Yöneticisi Konsolundan aşağıdaki komutu da kullanabilirsiniz.
+TIFF dosyalarındaki arka planı kaldırmak için kullanacağız [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. Açık [NuGet](https://www.nuget.org/packages/aspose.imaging) paket yöneticisi, ara **Aspose.Görüntüleme** ve yükleyin. Paket Yöneticisi Konsolundan aşağıdaki komutu da kullanabilirsiniz.
 
 {{%blocks/products/pf/agp/code-block title="Paket Yöneticisi Konsol Komutu" offSpacer="true" %}}
 
@@ -42,9 +36,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-ihtiyacın var
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- aşağıdaki iş akışını kendi ortamınızda denemek için
+ihtiyacın var [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) aşağıdaki iş akışını kendi ortamınızda denemek için
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -70,7 +62,7 @@ Aspose.Imaging for .NET tüm büyük işletim sistemlerinde desteklenir. Sadece 
 
 {{% blocks/products/pf/agp/code-block title="TIFF resimlerdeki arka planı kaldırın - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "07bd18a1af2633c99a708341d84b5ad2" "remove-change-background-generic-examples.cs" >}}
+{{< gist "aspose-com-gists" "c28d7d7f7dff39444751b5724d5ba14a" "remove-change-background-generic-examples.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -97,7 +89,7 @@ Aspose.Imaging API, uygulamalar içinde görüntüleri (fotoğrafları) oluştur
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="TIFF dosyalarınızı yükleyin ve \"Arka planı şimdi kaldır\" düğmesine basın" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Ortaya çıkan dosyanın indirme bağlantısını anında alın" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku" >}}
 TIFF veya TIF, Etiketli Görüntü Dosyası Biçimi, bu dosya biçimi standardına uyan çeşitli aygıtlarda kullanılması amaçlanan taramalı görüntüleri temsil eder. Çeşitli renk uzaylarında çift düzeyli, gri tonlamalı, palet renkli ve tam renkli görüntü verilerini tanımlama yeteneğine sahiptir. Formatı kullanan uygulamalar için alan ve zaman arasında seçim yapmak için kayıplı ve kayıpsız sıkıştırma şemalarını destekler. Format genişletilebilir ve sınırsız miktarda özel veya özel amaçlı bilginin dahil edilmesine izin veren birkaç revizyondan geçmiştir. Biçim makineye bağımlı değildir ve işlemci, işletim sistemi veya dosya sistemleri gibi sınırlardan muaftır.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -109,6 +101,7 @@ TIFF veya TIF, Etiketli Görüntü Dosyası Biçimi, bu dosya biçimi standardı
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/remove-background/apng" name="APNG" description="Hareketli Taşınabilir Ağ Grafikleri" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/remove-background/bmp" name="BMP" description="Bitmap Resmi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/remove-background/ico" name="ICO" description="Windows simgesi" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/remove-background/jpg" name="JPG" description="Birleşmiş Fotoğraf Uzmanları Grubu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/remove-background/dib" name="DIB" description="Cihazdan Bağımsız Bit Eşlem" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/remove-background/dicom" name="DICOM" description="Dijital Görüntüleme ve İletişim" >}}

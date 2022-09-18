@@ -18,12 +18,7 @@ description: C# konvertavimo iš EMF į PSD pavyzdinis kodas. Naudokite API pavy
 {{% blocks/products/pf/agp/content h2="Kaip konvertuoti EMF į PSD naudojant C#" %}}
 
 Norėdami konvertuoti EMF į PSD, naudosime
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta C# platformai. Atviras
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- paketų tvarkyklė, ieškokite
- **Aspose.Imaging**
- ir įdiegti. Taip pat galite naudoti šią komandą iš paketų tvarkyklės konsolės.
+[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta C# platformai. Atviras [NuGet](https://www.nuget.org/packages/aspose.imaging) paketų tvarkyklė, ieškokite **Aspose.Imaging** ir įdiegti. Taip pat galite naudoti šią komandą iš paketų tvarkyklės konsolės.
 
 {{% blocks/products/pf/agp/code-block title="Paketų tvarkytuvės konsolės komanda" offSpacer="true" %}}
 
@@ -91,11 +86,11 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
 Patobulintas metafailo formatas (EMF) išsaugo grafinius vaizdus nepriklausomai nuo įrenginio. EMF metafailus sudaro kintamo ilgio įrašai chronologine tvarka, kurie gali pateikti saugomą vaizdą, išanalizuoti bet kuriame išvesties įrenginyje. Šie kintamo ilgio įrašai gali būti uždarų objektų apibrėžimai, piešimo komandos ir grafinės savybės, būtinos norint tiksliai atvaizduoti vaizdą. Kai įrenginys atidaro EMF metafailą naudodamas savo grafinę aplinką, pradinio vaizdo proporcijos, matmenys, spalvos ir kitos grafinės savybės išlieka tos pačios, neatsižvelgiant į atidarymo įrenginio platformą.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
 PSD, „Photoshop“ dokumentas, yra „Adobe Photoshop“ vietinis failo formatas, naudojamas grafikos projektavimui ir plėtrai. PSD failuose gali būti vaizdo sluoksnių, reguliavimo sluoksnių, sluoksnių kaukių, komentarų, failo informacijos, raktinių žodžių ir kitų „Photoshop“ būdingų elementų.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -128,6 +123,7 @@ PSD, „Photoshop“ dokumentas, yra „Adobe Photoshop“ vietinis failo format
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/conversion/emf-to-tga" name="TGA" description="Targa grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/conversion/emf-to-svgz" name="SVGZ" description="Suglaudinta Scalable Vector Graphics (.SVG) failo versija." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/conversion/emf-to-canvas" name="CANVAS" description="HTML5 drobė" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/conversion/emf-to-ico" name="ICO" description="Windows piktograma" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

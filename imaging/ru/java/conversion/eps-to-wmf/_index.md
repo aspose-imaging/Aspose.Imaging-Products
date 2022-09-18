@@ -18,10 +18,7 @@ description: Пример кода для преобразования EPS в WM
 {{% blocks/products/pf/agp/content h2="Как преобразовать EPS в WMF с помощью Java" %}}
 
 Чтобы преобразовать EPS в WMF, мы будем использовать
-[Aspose.Imaging для Java](https://products.aspose.com/imaging/java)
-API, который представляет собой многофункциональный, мощный и простой в использовании API для обработки и преобразования изображений для платформы Java. Вы можете скачать его последнюю версию прямо с
-[Maven] (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-и установите его в своем проекте на основе Maven, добавив следующие конфигурации в файл pom.xml.
+[Aspose.Imaging для Java](https://products.aspose.com/imaging/java) API, который представляет собой многофункциональный, мощный и простой в использовании API для обработки и преобразования изображений для платформы Java. Вы можете скачать его последнюю версию прямо с [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) и установите его в своем проекте на основе Maven, добавив следующие конфигурации в файл pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Репозиторий" offSpacer="true" %}}
 
@@ -102,11 +99,11 @@ API, который представляет собой многофункцио
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
 Файлы с расширением EPS, по существу, описывают языковую программу Encapsulated PostScript, описывающую внешний вид отдельной страницы. Имя «Инкапсулированный», потому что оно может быть включено или инкапсулировано в описание страницы на другом языке PostScript. Этот формат файла на основе сценария может содержать любую комбинацию текста, графики и изображений. Файлы EPS могут включать растровое изображение предварительного просмотра, инкапсулированное внутри для отображения приложениями, которые могут открывать такие файлы. Файлы EPS могут быть преобразованы в стандартные форматы изображений, такие как JPG, PNG, TIFF и PDF, с использованием различных приложений, например. Adobe Illustrator, Photoshop и PaintShop Pro. Из-за уязвимости в файлах EPS в Office 2016, Office 2013, Office 2010 и Office 365 отключена возможность вставки файлов EPS в документы Office.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
 Файлы с расширением WMF представляют собой метафайл Microsoft Windows (WMF) для хранения данных векторных и растровых изображений. Чтобы быть более точным, WMF принадлежит к категории форматов векторных файлов форматов графических файлов, которые не зависят от устройства. Интерфейс графических устройств Windows (GDI) использует функции, хранящиеся в файле WMF, для отображения изображения на экране. Более расширенная версия WMF, известная как Enhanced Meta Files (EMF), была опубликована позже, что делает формат более многофункциональным. Практически WMF похож на SVG.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -140,6 +137,7 @@ API, который представляет собой многофункцио
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/conversion/eps-to-tga" name="TGA" description="Тарга Графика" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/conversion/eps-to-svgz" name="SVGZ" description="Сжатая версия файла масштабируемой векторной графики (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/conversion/eps-to-canvas" name="CANVAS" description="Холст HTML5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/conversion/eps-to-ico" name="ICO" description="Значок Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -17,10 +17,7 @@ description: Testen Sie unsere On-Premise-Dokument-APIs zum Anzeigen von CDR-Dat
 {{% blocks/products/pf/agp/content h2="Anzeigen von CDR-Bildern mit Java" %}}
 
 Um CDR-Dateien anzuzeigen, verwenden wir
-[Aspose.Imaging für Java](https://products.aspose.com/imaging/java)
-API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Bildbearbeitungs- und Konvertierungs-API für die Java-Plattform ist. Sie können die neueste Version direkt von herunterladen
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
+[Aspose.Imaging für Java](https://products.aspose.com/imaging/java) API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Bildbearbeitungs- und Konvertierungs-API für die Java Plattform ist. Sie können die neueste Version direkt von herunterladen [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -55,9 +52,7 @@ und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml 
 
 {{% blocks/products/pf/agp/text %}}
 
-Du brauchst die
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java)
- um den folgenden Workflow in Ihrer eigenen Umgebung auszuprobieren.
+Du brauchst die [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) um den folgenden Workflow in Ihrer eigenen Umgebung auszuprobieren.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -111,7 +106,7 @@ Aspose.Imaging API ist eine Bildverarbeitungslösung zum Erstellen, Ändern, Zei
         checkFreeAppLabel="Sehen Sie sich unsere [Live-Demos zum Anzeigen von CDR](https://products.aspose.app/imaging/de/image-view/CDR)">}}
 
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen" >}}
 Eine CDR-Datei ist eine Vektorzeichnungsbilddatei, die nativ mit CorelDRAW zum Speichern digitaler Bilder kodiert und komprimiert erstellt wird. Eine solche Zeichnungsdatei enthält Texte, Linien, Formen, Bilder, Farben und Effekte zur vektoriellen Darstellung von Bildinhalten. CDR-Dateien können mit CorelDRAW als Hauptanwendung geöffnet und auch in andere Formate wie PDF, JPG, PNG, BMP und AI konvertiert werden. Es kann zur Darstellung verschiedener Grafikdaten wie Broschüren, Boulevardzeitungen, Umschläge und Postkarten verwendet werden. Neben CorelDRAW können auch andere Corel-Produkte wie Corel Paintshop Pro und CorelDRAW Graphics Suite die CDR-Dateiformate öffnen.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -123,6 +118,7 @@ Eine CDR-Datei ist eine Vektorzeichnungsbilddatei, die nativ mit CorelDRAW zum S
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/viewer/apng" name="APNG" description="Animierte tragbare Netzwerkgrafiken" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/viewer/bmp" name="BMP" description="Bitmap-Bild" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/viewer/ico" name="ICO" description="Windows-Symbol" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/viewer/jpg" name="JPG" description="Gemeinsame fotografische Expertengruppe" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/viewer/jpeg" name="JPEG" description="Gemeinsame fotografische Expertengruppe" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/viewer/dib" name="DIB" description="Geräteunabhängige Bitmap" >}}

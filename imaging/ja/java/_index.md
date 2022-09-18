@@ -15,7 +15,7 @@ description: Java画像処理および操作ライブラリ。ロードビュー
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" 
 liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://purchase.aspose.com/pricing/imaging/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/imaging/java" installationsDocsLink="https://docs.aspose.com/imaging/java/installation" mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-imaging/" directDownloadLink="https://downloads.aspose.com/imaging/java" liveDemosText="ライブデモ" overviewText="概要" featuresText="特徴" resourcesText="資力" pricingText="価格設定" downloadText="ダウンロード" learnText="学び" buyText="買う" >}}
 
-{{< blocks/products/pf/tab-content carousel1Text1="で" carousel1Text2="一目" carousel2Text1="サポートされているファイル" carousel2Text2="フォーマット" carousel3Text1="プラットホーム" carousel3Text2="独立">}}
+{{< blocks/products/pf/tab-content carousel1Text1="で" carousel1Text2="一目" carousel2Text1="プラットホーム" carousel2Text2="独立" carousel3Text1="サポートされているファイル" carousel3Text2="フォーマット">}}
 <p align="justify">
  Aspose.Imaging for Java は、高度な画像処理機能を提供するライブラリです。このAPIを使用して、画像や写真を簡単に作成、読み込み、操作、変換、圧縮できます。また、仮定します。 Imaging Libraryは、グラフィックプリミティブの描画と操作をサポートしています。画像のエクスポートと変換（均一な複数ページの画像処理を含む）は、画像変換（サイズ変更、トリミング、反転と回転、2値化、グレースケール、調整）、高度な画像操作機能（フィルタリング、ディザリング、マスキング、デスキュー）とともにAPIコア機能の1つです。 ）およびメモリ最適化戦略。
 </p>
@@ -193,7 +193,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
      <b>
       ラスター形式:
      </b>
-     JPEG2000, JPEG, BMP, TIFF, GIF, PNG, DICOM, TGA
+     JPEG2000, JPEG, BMP, TIFF, GIF, PNG, DICOM, TGA, ICO
     </li>
     <li>
      <b>
@@ -486,7 +486,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
 
 {{< blocks/products/pf/support-learning-resources supportAndLearningResourcesText="サポートおよび学習リソース">}}
 {{< blocks/products/pf/slr-tab tabTitle="学習リソース" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="ドキュメンテーション" href="https://docs.aspose.com/imaging/net/" >}}
+{{< blocks/products/pf/slr-element name="ドキュメンテーション" href="https://docs.aspose.com/imaging/java" >}}
 {{< blocks/products/pf/slr-element name="ソースコード" href="https://github.com/aspose-imaging/Aspose.Imaging-for-Java" >}}
 {{< blocks/products/pf/slr-element name="APIリファレンス" href="https://apireference.aspose.com/java/imaging" >}}
 {{< blocks/products/pf/slr-element name="チュートリアルビデオ" href="https://www.youtube.com/user/asposevideo" >}}

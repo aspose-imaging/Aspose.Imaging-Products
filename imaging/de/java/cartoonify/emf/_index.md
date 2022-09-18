@@ -16,11 +16,7 @@ description: Probieren Sie unsere On-Premise-Dokument-APIs aus, um EMF-Dateien i
 
 {{% blocks/products/pf/agp/content h2="Wie man EMF-Dateien mit Java karikiert" %}}
 
-Um EMF-Dateien zu cartoonisieren, verwenden wir
-[Aspose.Imaging für Java](https://products.aspose.com/imaging/java)
-API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Bildbearbeitungs- und Konvertierungs-API für die Java-Plattform ist. Sie können die neueste Version direkt von herunterladen
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
+Um EMF-Dateien zu cartoonisieren, verwenden wir [Aspose.Imaging für Java](https://products.aspose.com/imaging/java) API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Bildbearbeitungs- und Konvertierungs-API für die Java Plattform ist. Sie können die neueste Version direkt von herunterladen [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -55,9 +51,7 @@ und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml 
 
 {{% blocks/products/pf/agp/text %}}
 
-Du brauchst die
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java)
- um den folgenden Workflow in Ihrer eigenen Umgebung auszuprobieren.
+Du brauchst die [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) um den folgenden Workflow in Ihrer eigenen Umgebung auszuprobieren.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +102,7 @@ Aspose.Imaging API ist eine Bildverarbeitungslösung zum Erstellen, Ändern, Zei
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Laden Sie einfach Ihre EMF-Dateien hoch und klicken Sie auf die Schaltfläche \"Cartoonify now\"." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Erhalten Sie sofort den Download-Link für die resultierende Datei" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen" >}}
 Enhanced Metafile Format (EMF) speichert grafische Bilder geräteunabhängig. Metadateien von EMF bestehen aus Datensätzen variabler Länge in chronologischer Reihenfolge, die das gespeicherte Bild nach dem Analysieren auf jedem Ausgabegerät wiedergeben können. Diese Datensätze mit variabler Länge können Definitionen eingeschlossener Objekte, Zeichenbefehle und Grafikeigenschaften sein, die für die genaue Wiedergabe des Bildes entscheidend sind. Wenn ein Gerät eine EMF-Metadatei mit seiner eigenen Grafikumgebung öffnet, bleiben die Proportionen, Abmessungen, Farben und andere Grafikeigenschaften des Originalbilds gleich, unabhängig von der Plattform des öffnenden Geräts.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -120,6 +114,7 @@ Enhanced Metafile Format (EMF) speichert grafische Bilder geräteunabhängig. Me
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/cartoonify/apng" name="APNG" description="Animierte tragbare Netzwerkgrafiken" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/cartoonify/bmp" name="BMP" description="Bitmap-Bild" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/cartoonify/ico" name="ICO" description="Windows-Symbol" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/cartoonify/jpg" name="JPG" description="Gemeinsame fotografische Expertengruppe" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/cartoonify/jpeg" name="JPEG" description="Gemeinsame fotografische Expertengruppe" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/cartoonify/dib" name="DIB" description="Geräteunabhängige Bitmap" >}}

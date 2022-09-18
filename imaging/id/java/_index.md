@@ -15,7 +15,7 @@ description: Pustaka pemrosesan dan manipulasi gambar Java. Buat tampilan muat, 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" 
 liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://purchase.aspose.com/pricing/imaging/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/imaging/java" installationsDocsLink="https://docs.aspose.com/imaging/java/installation" mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-imaging/" directDownloadLink="https://downloads.aspose.com/imaging/java" liveDemosText="Demo Langsung" overviewText="Ringkasan" featuresText="Fitur" resourcesText="Sumber daya" pricingText="harga" downloadText="Unduh" learnText="Mempelajari" buyText="Membeli" >}}
 
-{{< blocks/products/pf/tab-content carousel1Text1="di" carousel1Text2="Lirikan" carousel2Text1="File yang Didukung" carousel2Text2="format" carousel3Text1="Platform" carousel3Text2="Kemerdekaan">}}
+{{< blocks/products/pf/tab-content carousel1Text1="di" carousel1Text2="Lirikan" carousel2Text1="Platform" carousel2Text2="Kemerdekaan" carousel3Text1="File yang Didukung" carousel3Text2="format">}}
 <p align="justify">
  Aspose.Imaging for Java adalah pustaka yang menawarkan fitur pemrosesan gambar tingkat lanjut. Anda dapat dengan mudah membuat, memuat, memanipulasi, mengonversi, mengompresi gambar atau foto menggunakan API ini. Juga Asumsi. Pustaka pencitraan mendukung menggambar dan bekerja dengan grafik primitif. Ekspor dan konversi gambar (termasuk pemrosesan gambar multi-halaman yang seragam) adalah salah satu fitur inti API bersama dengan transformasi gambar (mengubah ukuran, memotong, membalik&memutar, binarisasi, skala abu-abu, menyesuaikan), fitur manipulasi gambar lanjutan (pemfilteran, dithering, masking, deskewing ) dan strategi pengoptimalan memori.
 </p>
@@ -193,7 +193,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
      <b>
       Format Raster:
      </b>
-     JPEG2000, JPEG, BMP, TIFF, GIF, PNG, DICOM, TGA
+     JPEG2000, JPEG, BMP, TIFF, GIF, PNG, DICOM, TGA, ICO
     </li>
     <li>
      <b>
@@ -486,7 +486,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
 
 {{< blocks/products/pf/support-learning-resources supportAndLearningResourcesText="Dukungan dan Sumber Belajar">}}
 {{< blocks/products/pf/slr-tab tabTitle="Sumber Belajar" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Dokumentasi" href="https://docs.aspose.com/imaging/net/" >}}
+{{< blocks/products/pf/slr-element name="Dokumentasi" href="https://docs.aspose.com/imaging/java" >}}
 {{< blocks/products/pf/slr-element name="Kode sumber" href="https://github.com/aspose-imaging/Aspose.Imaging-for-Java" >}}
 {{< blocks/products/pf/slr-element name="Referensi API" href="https://apireference.aspose.com/java/imaging" >}}
 {{< blocks/products/pf/slr-element name="Video Tutorial" href="https://www.youtube.com/user/asposevideo" >}}

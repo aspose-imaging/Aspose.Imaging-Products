@@ -16,11 +16,7 @@ description: Hãy thử các API tài liệu On-Premise của chúng tôi để 
 
 {{% blocks/products/pf/agp/content h2="Cách nén tệp JP2 bằng Java" %}}
 
-Để nén các tệp JP2, chúng tôi sẽ sử dụng
-[Aspose.Imaging cho Java] (https://products.aspose.com/imaging/java)
-API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng Java. Bạn có thể tải xuống phiên bản mới nhất của nó trực tiếp từ
-[Maven] (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-và cài đặt nó trong dự án dựa trên Maven của bạn bằng cách thêm các cấu hình sau vào pom.xml.
+Để nén các tệp JP2, chúng tôi sẽ sử dụng [Aspose.Imaging cho Java] (https://products.aspose.com/imaging/java) API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng Java. Bạn có thể tải xuống phiên bản mới nhất của nó trực tiếp từ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) và cài đặt nó trong dự án dựa trên Maven của bạn bằng cách thêm các cấu hình sau vào pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Kho" offSpacer="true"%}}
 
@@ -55,9 +51,7 @@ và cài đặt nó trong dự án dựa trên Maven của bạn bằng cách th
 
 {{% blocks/products/pf/agp/text %}}
 
-Bạn cần
- [aspose-images-version-jdk16.jar] (https://downloads.aspose.com/imaging/java)
- để thử quy trình làm việc sau trong môi trường của riêng bạn.
+Bạn cần [aspose-images-version-jdk16.jar] (https://downloads.aspose.com/imaging/java) để thử quy trình làm việc sau trong môi trường của riêng bạn.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +102,7 @@ Aspose.Imaging API là một giải pháp xử lý hình ảnh để tạo, sử
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Chỉ cần tải lên các tệp JP2 của bạn và nhấn nút \"Nén ngay bây giờ \"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Nhận ngay liên kết tải xuống cho tệp kết quả" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm" >}}
 JPEG 2000 (JP2) là một hệ thống mã hóa hình ảnh và tiêu chuẩn nén hình ảnh hiện đại nhất. Được thiết kế, sử dụng công nghệ wavelet JPEG 2000 có thể mã hóa nội dung không mất dữ liệu ở bất kỳ chất lượng nào cùng một lúc. Hơn nữa, không có bất kỳ hình phạt đáng kể nào về hiệu quả mã hóa, JPEG 2000 có khả năng truy cập và giải mã hiệu quả cùng một nội dung thành nhiều độ phân giải và chất lượng khác. Các dòng mã trong JPEG 2000 có khả năng mở rộng đáng kể khi có các vùng quan tâm cung cấp cơ sở cho việc truy cập ngẫu nhiên theo không gian. Sở hữu tới 16384 linh kiện đa dạng với kích thước tính bằng terapixel và độ chính xác có thể cao tới 38 bit / mẫu.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -120,6 +114,7 @@ JPEG 2000 (JP2) là một hệ thống mã hóa hình ảnh và tiêu chuẩn n�
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/compress/apng" name="APNG" description="Đồ họa mạng di động hoạt hình" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/compress/bmp" name="BMP" description="Ảnh bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/compress/ico" name="ICO" description="Biểu tượng Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/compress/jpg" name="JPG" description="Nhóm chuyên gia nhiếp ảnh chung" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/compress/jpeg" name="JPEG" description="Nhóm chuyên gia nhiếp ảnh chung" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/compress/dib" name="DIB" description="Bản đồ bit độc lập với thiết bị" >}}

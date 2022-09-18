@@ -16,11 +16,7 @@ description: Probeer onze On-Premise document-API's om DJVU-bestanden te dithere
 
 {{% blocks/products/pf/agp/content h2="Hoe DJVU-bestanden te ditheren met Java" %}}
 
-Om DJVU-bestanden te Ditheren, gebruiken we
-[Aspose.Imaging voor Java](https://products.aspose.com/imaging/java)
-API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het Java-platform. U kunt de nieuwste versie rechtstreeks downloaden van
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
+Om DJVU-bestanden te Ditheren, gebruiken we [Aspose.Imaging voor Java](https://products.aspose.com/imaging/java) API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het Java-platform. U kunt de nieuwste versie rechtstreeks downloaden van [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -55,9 +51,7 @@ en installeer het binnen uw op Maven gebaseerde project door de volgende configu
 
 {{% blocks/products/pf/agp/text %}}
 
-Je hebt de nodig
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java)
- om de volgende workflow in uw eigen omgeving te proberen.
+Je hebt de nodig [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) om de volgende workflow in uw eigen omgeving te proberen.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +102,7 @@ Aspose.Imaging API is een beeldverwerkingsoplossing voor het maken, wijzigen, te
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Upload gewoon uw DJVU-bestanden en druk op de knop \"Dither nu\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Krijg direct de downloadlink voor het resulterende bestand" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder" >}}
 DjVu, uitgesproken als "déjà vu", is een grafisch bestandsformaat dat bedoeld is voor gescande documenten en boeken, met name die welke de combinatie van tekst, tekeningen, afbeeldingen en foto's bevatten. Het is ontwikkeld door AT&T Labs. Het maakt gebruik van meerdere technieken, zoals scheiding van tekst- en achtergrondafbeeldingen in beeldlagen, progressief laden, rekenkundige codering en compressie met verlies voor bitonale afbeeldingen. Omdat het DJVU-bestand gecomprimeerde maar hoogwaardige kleurenafbeeldingen, foto's, tekst en tekeningen kan bevatten en daarom in minder ruimte kan worden opgeslagen, wordt het op internet gebruikt als eBooks, handleidingen, kranten, oude documenten, enz.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -120,6 +114,7 @@ DjVu, uitgesproken als "déjà vu", is een grafisch bestandsformaat dat bedoeld 
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/dither/apng" name="APNG" description="Geanimeerde draagbare netwerkgraphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/dither/bmp" name="BMP" description="Bitmapafbeelding" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/dither/ico" name="ICO" description="Windows-pictogram" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/dither/jpg" name="JPG" description="Joint Photographic Experts Group" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/dither/jpeg" name="JPEG" description="Joint Photographic Experts Group" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/java/dither/dib" name="DIB" description="Apparaatonafhankelijke bitmap" >}}

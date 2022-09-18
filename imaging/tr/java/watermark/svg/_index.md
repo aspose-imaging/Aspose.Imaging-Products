@@ -16,11 +16,7 @@ description: SVG formatı için  dosyasına örnek Java dönüştürme kodu. Her
 
 {{% blocks/products/pf/agp/content h2="Java Kullanarak SVG Dosyasını Filigran Etme" %}}
 
-SVG dosyasını filigranlamak için kullanacağız
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java)
-Java platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. En son sürümünü doğrudan adresinden indirebilirsiniz.
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-ve pom.xml dosyasına aşağıdaki konfigürasyonları ekleyerek Maven tabanlı projenize kurun.
+SVG dosyasını filigranlamak için kullanacağız [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) Java platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. En son sürümünü doğrudan adresinden indirebilirsiniz. [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) ve pom.xml dosyasına aşağıdaki konfigürasyonları ekleyerek Maven tabanlı projenize kurun.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -55,9 +51,7 @@ ve pom.xml dosyasına aşağıdaki konfigürasyonları ekleyerek Maven tabanlı 
 
 {{% blocks/products/pf/agp/text %}}
 
-ihtiyacın var
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java)
- aşağıdaki iş akışını kendi ortamınızda denemek için
+ihtiyacın var [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) aşağıdaki iş akışını kendi ortamınızda denemek için
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -110,7 +104,7 @@ Aspose.Imaging API, uygulamalar içinde görüntüleri (fotoğrafları) oluştur
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Sadece SVG dosyanızı yükleyin, filigranınızı ayarlayın ve \"Ekle\" düğmesine basın" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Ortaya çıkan dosyanın indirme bağlantısını anında alın" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku" >}}
 SVG dosyaları, görüntünün görünümünü açıklamak için XML tabanlı metin biçimini kullanan Ölçeklenebilir Vektör Grafik Dosyalarıdır. Ölçeklenebilir kelimesi, SVG'nin kaliteden ödün vermeden farklı boyutlara ölçeklenebilmesini ifade eder. Bu tür dosyaların metin tabanlı açıklaması, onları çözünürlükten bağımsız kılar. Ölçeklenebilirlik sağlamak için web sitesi oluşturmak ve grafik yazdırmak için en çok kullanılan formatlardan biridir. Format ancak iki boyutlu grafikler için kullanılabilir. SVG dosyaları, Chrome, Internet Explorer, Firefox ve Safari dahil olmak üzere neredeyse tüm modern tarayıcılarda görüntülenebilir/açılabilir.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -121,6 +115,7 @@ SVG dosyaları, görüntünün görünümünü açıklamak için XML tabanlı me
 {{< blocks/products/pf/agp/other-supported-section title="Desteklenen Diğer Filigran Formatları" subTitle="Java kullanarak, dahil olmak üzere farklı formatları kolayca filigranlayabilirsiniz." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/watermark/bmp" name="BMP" description="Bitmap Resmi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/watermark/ico" name="ICO" description="Windows simgesi" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/watermark/dib" name="DIB" description="Cihazdan Bağımsız Bit Eşlem" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/watermark/dicom" name="DICOM" description="Dijital Görüntüleme ve İletişim" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/watermark/emf" name="EMF" description="Gelişmiş Meta Dosyası Formatı" >}}

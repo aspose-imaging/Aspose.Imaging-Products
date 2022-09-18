@@ -18,12 +18,7 @@ description: C# konvertavimo iš SVG į DXF pavyzdinis kodas. Naudokite API pavy
 {{% blocks/products/pf/agp/content h2="Kaip konvertuoti SVG į DXF naudojant C#" %}}
 
 Norėdami konvertuoti SVG į DXF, naudosime
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta C# platformai. Atviras
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- paketų tvarkyklė, ieškokite
- **Aspose.Imaging**
- ir įdiegti. Taip pat galite naudoti šią komandą iš paketų tvarkyklės konsolės.
+[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta C# platformai. Atviras [NuGet](https://www.nuget.org/packages/aspose.imaging) paketų tvarkyklė, ieškokite **Aspose.Imaging** ir įdiegti. Taip pat galite naudoti šią komandą iš paketų tvarkyklės konsolės.
 
 {{% blocks/products/pf/agp/code-block title="Paketų tvarkytuvės konsolės komanda" offSpacer="true" %}}
 
@@ -91,7 +86,7 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
 SVG failai yra keičiamo dydžio vektorinės grafikos failai, kurie naudoja XML pagrįstą teksto formatą vaizdo išvaizdai apibūdinti. Žodis Scalable reiškia faktą, kad SVG galima keisti iki skirtingų dydžių neprarandant kokybės. Tekstinis tokių failų aprašymas daro juos nepriklausomus nuo skiriamosios gebos. Tai vienas iš dažniausiai naudojamų interneto svetainių kūrimo ir spausdinimo grafikos formatų, siekiant mastelio. Tačiau formatą galima naudoti tik dvimatei grafikai. SVG failus galima peržiūrėti / atidaryti beveik visose šiuolaikinėse naršyklėse, įskaitant Chrome, Internet Explorer, Firefox ir Safari.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -129,6 +124,7 @@ DXF, Drawing Interchange Format arba Drawing Exchange Format, yra pažymėtas Au
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/conversion/svg-to-svgz" name="SVGZ" description="Suglaudinta Scalable Vector Graphics (.SVG) failo versija." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/conversion/svg-to-canvas" name="CANVAS" description="HTML5 drobė" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/conversion/svg-to-svg" name="SVG" description="Keičiama vektorinė grafika" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/conversion/svg-to-ico" name="ICO" description="Windows piktograma" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

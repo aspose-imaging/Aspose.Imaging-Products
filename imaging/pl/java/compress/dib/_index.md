@@ -16,11 +16,7 @@ description: Wypróbuj nasze lokalne interfejsy API dokumentów, aby skompresowa
 
 {{% blocks/products/pf/agp/content h2="Jak skompresować pliki DIB za pomocą Java" %}}
 
-Aby skompresować pliki DIB, użyjemy
-[Aspose.Imaging dla Javy](https://products.aspose.com/imaging/java)
-API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do obróbki i konwersji obrazów dla platformy Java. Możesz pobrać jego najnowszą wersję bezpośrednio z
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-i zainstaluj go w swoim projekcie opartym na Maven, dodając następujące konfiguracje do pom.xml.
+Aby skompresować pliki DIB, użyjemy [Aspose.Imaging dla Javy](https://products.aspose.com/imaging/java) API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do obróbki i konwersji obrazów dla platformy Java. Możesz pobrać jego najnowszą wersję bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) i zainstaluj go w swoim projekcie opartym na Maven, dodając następujące konfiguracje do pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repozytorium" offSpacer="true" %}}
 
@@ -55,9 +51,7 @@ i zainstaluj go w swoim projekcie opartym na Maven, dodając następujące konfi
 
 {{% blocks/products/pf/agp/text %}}
 
-Potrzebujesz
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java)
- aby wypróbować następujący przepływ pracy we własnym środowisku.
+Potrzebujesz [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) aby wypróbować następujący przepływ pracy we własnym środowisku.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +102,7 @@ Aspose.Imaging API to rozwiązanie do przetwarzania obrazów do tworzenia, modyf
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Po prostu prześlij swoje pliki DIB i naciśnij przycisk „Kompresuj teraz”" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Natychmiast uzyskaj link do pobrania pliku wynikowego" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej" >}}
 Plik DIB (Device Independent Bitmap) to plik obrazu rastrowego, który ma podobną strukturę do standardowych plików bitmapowych (BMP), ale ma inny nagłówek. Można go otworzyć za pomocą prawie wszystkich aplikacji, które mogą otwierać standardowy plik BMP w systemie Windows i macOS. DIB to pliki binarne i mają złożony format pliku podobny do BMP.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -120,6 +114,7 @@ Plik DIB (Device Independent Bitmap) to plik obrazu rastrowego, który ma podobn
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/compress/apng" name="APNG" description="Animowana przenośna grafika sieciowa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/compress/bmp" name="BMP" description="Obraz bitmapowy" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/compress/ico" name="ICO" description="Ikona Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/compress/jpg" name="JPG" description="Wspólna Grupa Ekspertów Fotograficznych" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/compress/jpeg" name="JPEG" description="Wspólna Grupa Ekspertów Fotograficznych" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/compress/dicom" name="DICOM" description="Obrazowanie cyfrowe i komunikacja" >}}

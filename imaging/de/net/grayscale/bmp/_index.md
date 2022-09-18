@@ -16,13 +16,8 @@ description: Probieren Sie unsere On-Premise-Dokument-APIs aus, um BMP-Dateien i
 
 {{% blocks/products/pf/agp/content h2="BMP-Dateien mit C# in Graustufen umwandeln" %}}
 
-Um BMP-Dateien in Graustufen umzuwandeln, verwenden wir
-[Aspose.Imaging für .NET](https://products.aspose.com/imaging/net)
- API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Bildbearbeitungs- und Konvertierungs-API für die C#-Plattform ist. Offen
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- Paketmanager, suche nach
- **Aspose.Imaging**
- und installieren. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden.
+Um BMP-Dateien in Graustufen umzuwandeln, verwenden wir [Aspose.Imaging für .NET](https://products.aspose.com/imaging/net) API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Bildbearbeitungs- und Konvertierungs-API für die C#-Plattform ist. Offen [NuGet](https://www.nuget.org/packages/aspose.imaging) Paketmanager, suche nach
+ **Aspose.Imaging** und installieren. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
@@ -42,9 +37,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-Du brauchst die
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- um den folgenden Workflow in Ihrer eigenen Umgebung auszuprobieren.
+Du brauchst die [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) um den folgenden Workflow in Ihrer eigenen Umgebung auszuprobieren.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -97,7 +90,7 @@ Aspose.Imaging API ist eine Bildverarbeitungslösung zum Erstellen, Ändern, Zei
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Laden Sie einfach Ihre BMP-Dateien hoch und klicken Sie auf die Schaltfläche \"Grayscale now\"." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Erhalten Sie sofort den Download-Link für die resultierende Datei" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen" >}}
 Dateien mit der Erweiterung .BMP stellen Bitmap-Bilddateien dar, die zum Speichern digitaler Bitmap-Bilder verwendet werden. Diese Bilder sind grafikadapterunabhängig und werden auch als DIB-Dateiformat (Device Independent Bitmap) bezeichnet. Diese Unabhängigkeit dient dem Zweck, die Datei auf mehreren Plattformen wie Microsoft Windows und Mac zu öffnen. Das BMP-Dateiformat kann Daten als zweidimensionale digitale Bilder sowohl im Monochrom- als auch im Farbformat mit verschiedenen Farbtiefen speichern.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -108,6 +101,7 @@ Dateien mit der Erweiterung .BMP stellen Bitmap-Bilddateien dar, die zum Speiche
 {{< blocks/products/pf/agp/other-supported-section title="Andere unterstützte Graustufenformate" subTitle="Mit C# kann man verschiedene Formate leicht graustufen, einschließlich." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/grayscale/apng" name="APNG" description="Animierte tragbare Netzwerkgrafiken" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/grayscale/ico" name="ICO" description="Windows-Symbol" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/grayscale/jpg" name="JPG" description="Gemeinsame fotografische Expertengruppe" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/grayscale/jpeg" name="JPEG" description="Gemeinsame fotografische Expertengruppe" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/grayscale/dib" name="DIB" description="Geräteunabhängige Bitmap" >}}

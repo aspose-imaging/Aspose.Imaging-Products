@@ -16,11 +16,7 @@ description: Prova le nostre API di documenti locali per binarizzare i file JPG 
 
 {{% blocks/products/pf/agp/content h2="Come binarizzare i file JPG usando Java" %}}
 
-Per binarizzare i file JPG, useremo
-[Aspose.Imaging per Java](https://products.aspose.com/imaging/java)
-API che è un'API di conversione e manipolazione delle immagini ricca di funzionalità, potente e facile da usare per la piattaforma Java. Puoi scaricare la sua ultima versione direttamente da
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
+Per binarizzare i file JPG, useremo [Aspose.Imaging per Java](https://products.aspose.com/imaging/java) API che è un'API di conversione e manipolazione delle immagini ricca di funzionalità, potente e facile da usare per la piattaforma Java. Puoi scaricare la sua ultima versione direttamente da [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -55,9 +51,7 @@ e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguent
 
 {{% blocks/products/pf/agp/text %}}
 
-Hai bisogno del
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java)
- per provare il seguente flusso di lavoro nel tuo ambiente.
+Hai bisogno del [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) per provare il seguente flusso di lavoro nel tuo ambiente.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +102,7 @@ Aspose.Imaging API è una soluzione di elaborazione delle immagini per creare, m
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta caricare i tuoi file JPG e premere il pulsante \"Binarizza ora\"." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Ottieni immediatamente il link per il download del file risultante" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più" >}}
 Un JPEG è un tipo di formato immagine che viene salvato utilizzando il metodo di compressione con perdita di dati. L'immagine di output, come risultato della compressione, è un compromesso tra la dimensione della memoria e la qualità dell'immagine. Gli utenti possono regolare il livello di compressione per ottenere il livello di qualità desiderato riducendo allo stesso tempo le dimensioni dello storage. La qualità dell'immagine viene influenzata in modo trascurabile se all'immagine viene applicata la compressione 10:1. Maggiore è il valore di compressione, maggiore è il degrado della qualità dell'immagine.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -120,6 +114,7 @@ Un JPEG è un tipo di formato immagine che viene salvato utilizzando il metodo d
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/binarize/apng" name="APNG" description="Grafica di rete portatile animata" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/binarize/bmp" name="BMP" description="Immagine bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/binarize/ico" name="ICO" description="Icona di Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/binarize/jpeg" name="JPEG" description="Gruppo congiunto di esperti fotografici" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/binarize/dib" name="DIB" description="Bitmap indipendente dal dispositivo" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/binarize/dicom" name="DICOM" description="Immagini e comunicazioni digitali" >}}

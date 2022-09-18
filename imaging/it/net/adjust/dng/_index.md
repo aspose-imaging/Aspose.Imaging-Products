@@ -16,13 +16,7 @@ description: Prova le nostre API di documenti locali per regolare i file DNG su 
 
 {{% blocks/products/pf/agp/content h2="Come modificare i file DNG utilizzando C#" %}}
 
-Per regolare i file DNG, utilizzeremo
-[Aspose.Imaging per .NET](https://products.aspose.com/imaging/net)
- API che è un'API di conversione e manipolazione delle immagini ricca di funzionalità, potente e facile da usare per la piattaforma C#. Aprire
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- gestore pacchetti, cerca
- **Aspose.Imaging**
- e installa. È inoltre possibile utilizzare il seguente comando dalla Console di gestione pacchetti.
+Per regolare i file DNG, utilizzeremo [Aspose.Imaging per .NET](https://products.aspose.com/imaging/net) API che è un'API di conversione e manipolazione delle immagini ricca di funzionalità, potente e facile da usare per la piattaforma C#. Aprire [NuGet](https://www.nuget.org/packages/aspose.imaging) gestore pacchetti, cerca **Aspose.Imaging** e installa. È inoltre possibile utilizzare il seguente comando dalla Console di gestione pacchetti.
 
 {{% blocks/products/pf/agp/code-block title="Comando della console di Package Manager" offSpacer="true" %}}
 
@@ -44,9 +38,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-Hai bisogno del
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- per provare il seguente flusso di lavoro nel tuo ambiente.
+Hai bisogno del [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) per provare il seguente flusso di lavoro nel tuo ambiente.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -99,7 +91,7 @@ Aspose.Imaging API è una soluzione di elaborazione delle immagini per creare, m
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Carica i tuoi file DNG e premi il pulsante \"Regola ora\"." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Ottieni immediatamente il link per il download del file risultante" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più" >}}
 DNG è un formato di immagine della fotocamera digitale utilizzato per l'archiviazione di file grezzi. È stato sviluppato da Adobe nel settembre 2004. Fondamentalmente è stato sviluppato per la fotografia digitale. DNG è un'estensione del formato standard TIFF/EP e utilizza i metadati in modo significativo. Per manipolare i dati grezzi dalle fotocamere digitali con facilità di flessibilità e controllo artistico, i fotografi scelgono i file raw della fotocamera. I formati JPEG e TIFF memorizzano le immagini che vengono elaborate dalla fotocamera, quindi non è disponibile molto spazio per le modifiche in tali formati.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -111,6 +103,7 @@ DNG è un formato di immagine della fotocamera digitale utilizzato per l'archivi
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/adjust/apng" name="APNG" description="Grafica di rete portatile animata" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/adjust/bmp" name="BMP" description="Immagine bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/adjust/ico" name="ICO" description="Icona di Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/adjust/jpg" name="JPG" description="Gruppo congiunto di esperti fotografici" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/adjust/jpeg" name="JPEG" description="Gruppo congiunto di esperti fotografici" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/adjust/dib" name="DIB" description="Bitmap indipendente dal dispositivo" >}}

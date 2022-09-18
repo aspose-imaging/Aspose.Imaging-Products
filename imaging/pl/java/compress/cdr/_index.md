@@ -16,11 +16,7 @@ description: Wypróbuj nasze lokalne interfejsy API dokumentów, aby skompresowa
 
 {{% blocks/products/pf/agp/content h2="Jak skompresować pliki CDR za pomocą Java" %}}
 
-Aby skompresować pliki CDR, użyjemy
-[Aspose.Imaging dla Javy](https://products.aspose.com/imaging/java)
-API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do obróbki i konwersji obrazów dla platformy Java. Możesz pobrać jego najnowszą wersję bezpośrednio z
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-i zainstaluj go w swoim projekcie opartym na Maven, dodając następujące konfiguracje do pom.xml.
+Aby skompresować pliki CDR, użyjemy [Aspose.Imaging dla Javy](https://products.aspose.com/imaging/java) API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do obróbki i konwersji obrazów dla platformy Java. Możesz pobrać jego najnowszą wersję bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) i zainstaluj go w swoim projekcie opartym na Maven, dodając następujące konfiguracje do pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repozytorium" offSpacer="true" %}}
 
@@ -55,9 +51,7 @@ i zainstaluj go w swoim projekcie opartym na Maven, dodając następujące konfi
 
 {{% blocks/products/pf/agp/text %}}
 
-Potrzebujesz
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java)
- aby wypróbować następujący przepływ pracy we własnym środowisku.
+Potrzebujesz [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) aby wypróbować następujący przepływ pracy we własnym środowisku.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +102,7 @@ Aspose.Imaging API to rozwiązanie do przetwarzania obrazów do tworzenia, modyf
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Po prostu prześlij swoje pliki CDR i naciśnij przycisk „Kompresuj teraz”" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Natychmiast uzyskaj link do pobrania pliku wynikowego" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej" >}}
 Plik CDR to plik obrazu rysunku wektorowego, który jest natywnie tworzony w programie CorelDRAW do przechowywania zakodowanych i skompresowanych obrazów cyfrowych. Taki plik rysunku zawiera tekst, linie, kształty, obrazy, kolory i efekty dla wektorowej reprezentacji treści obrazu. Pliki CDR można otwierać za pomocą programu CorelDRAW jako głównej aplikacji, a także konwertować na inne formaty, takie jak PDF, JPG, PNG, BMP i AI. Może być używany do przedstawiania różnych danych graficznych, takich jak broszury, tabloidy, koperty i pocztówki. Oprócz pakietu CorelDRAW inne produkty firmy Corel, takie jak Corel Paintshop Pro i pakiet CorelDRAW Graphics, mogą również otwierać formaty plików CDR.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -120,6 +114,7 @@ Plik CDR to plik obrazu rysunku wektorowego, który jest natywnie tworzony w pro
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/compress/apng" name="APNG" description="Animowana przenośna grafika sieciowa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/compress/bmp" name="BMP" description="Obraz bitmapowy" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/compress/ico" name="ICO" description="Ikona Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/compress/jpg" name="JPG" description="Wspólna Grupa Ekspertów Fotograficznych" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/compress/jpeg" name="JPEG" description="Wspólna Grupa Ekspertów Fotograficznych" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/compress/dib" name="DIB" description="Mapa bitowa niezależna od urządzenia" >}}

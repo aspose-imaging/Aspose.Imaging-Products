@@ -18,12 +18,7 @@ description: Пример кода для преобразования J2K в SV
 {{% blocks/products/pf/agp/content h2="Как преобразовать J2K в SVGZ с помощью C#" %}}
 
 Чтобы преобразовать J2K в SVGZ, мы будем использовать
-[Aspose.Imaging для .NET](https://products.aspose.com/imaging/net)
- API, который представляет собой многофункциональный, мощный и простой в использовании API для обработки и преобразования изображений для платформы C#. Открытым
- [NuGet] (https://www.nuget.org/packages/aspose.imaging)
- менеджер пакетов, поиск
- **Aspose.Imaging**
- и установить. Вы также можете использовать следующую команду из консоли диспетчера пакетов.
+[Aspose.Imaging для .NET](https://products.aspose.com/imaging/net) API, который представляет собой многофункциональный, мощный и простой в использовании API для обработки и преобразования изображений для платформы C#. Открытым [NuGet](https://www.nuget.org/packages/aspose.imaging) менеджер пакетов, поиск **Aspose.Imaging** и установить. Вы также можете использовать следующую команду из консоли диспетчера пакетов.
 
 {{% blocks/products/pf/agp/code-block title="Команда консоли диспетчера пакетов" offSpacer="true" %}}
 
@@ -93,11 +88,11 @@ PM> Install-Package Aspose.Imaging
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
 Файл J2K представляет собой изображение, сжатое с использованием вейвлет-сжатия вместо сжатия DCT.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
 Файл с расширением .svgz представляет собой сжатую версию файла масштабируемой векторной графики (.SVG). Он сжат сжатием gzip и содержит данные в формате XML. Файлы SVGZ поддерживают прозрачность, градиенты, анимацию и фильтры. Файлы SVGZ меньше по размеру по сравнению с файлами SVG по умолчанию, и этот уменьшенный размер файла помогает передавать графические файлы онлайн. Графический дизайнер создает файлы SVGZ с помощью таких инструментов, как Adobe Illustrator, Corel PaintShop Pro и других. Однако файлы SVGZ можно создавать, включив сжатие GZip на сервере Apache при отправке данных изображения.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -130,6 +125,7 @@ PM> Install-Package Aspose.Imaging
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/conversion/j2k-to-tga" name="TGA" description="Тарга Графика" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/conversion/j2k-to-svgz" name="SVGZ" description="Сжатая версия файла масштабируемой векторной графики (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/conversion/j2k-to-canvas" name="CANVAS" description="Холст HTML5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/conversion/j2k-to-ico" name="ICO" description="Значок Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

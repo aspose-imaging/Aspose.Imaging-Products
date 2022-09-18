@@ -16,13 +16,7 @@ description: Išbandykite „On-Premise“ dokumentų API, kad pašalintumėte f
 
 {{% blocks/products/pf/agp/content h2="Kaip pašalinti foną iš EMZ failų naudojant C#" %}}
 
-Norėdami pašalinti foną iš EMZ failų, naudosime
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta C# platformai. Atviras
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- paketų tvarkyklė, ieškokite
- **Aspose.Imaging**
- ir įdiegti. Taip pat galite naudoti šią komandą iš paketų tvarkyklės konsolės.
+Norėdami pašalinti foną iš EMZ failų, naudosime [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta C# platformai. Atviras [NuGet](https://www.nuget.org/packages/aspose.imaging) paketų tvarkyklė, ieškokite **Aspose.Imaging** ir įdiegti. Taip pat galite naudoti šią komandą iš paketų tvarkyklės konsolės.
 
 {{% blocks/products/pf/agp/code-block title="Paketų tvarkytuvės konsolės komanda" offSpacer="true" %}}
 
@@ -42,9 +36,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-Jums reikia
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- norėdami išbandyti šią darbo eigą savo aplinkoje.
+Jums reikia [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) norėdami išbandyti šią darbo eigą savo aplinkoje.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -70,7 +62,7 @@ Jums reikia
 
 {{% blocks/products/pf/agp/code-block title="Pašalinkite foną iš EMZ vaizdų – .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "07bd18a1af2633c99a708341d84b5ad2" "remove-change-background-generic-examples.cs" >}}
+{{< gist "aspose-com-gists" "c28d7d7f7dff39444751b5724d5ba14a" "remove-change-background-generic-examples.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -97,7 +89,7 @@ Aspose.Imaging API yra vaizdo apdorojimo sprendimas, skirtas kurti, modifikuoti,
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Tiesiog įkelkite EMZ failus ir paspauskite mygtuką \"Pašalinti foną dabar\"." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Iškart gaukite gauto failo atsisiuntimo nuorodą" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau" >}}
 Failas su EMZ failo plėtiniu yra suspausto vaizdo failas, tiksliau vadinamas „Windows Compressed Enhanced Metafile“ failu
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -109,6 +101,7 @@ Failas su EMZ failo plėtiniu yra suspausto vaizdo failas, tiksliau vadinamas �
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/remove-background/apng" name="APNG" description="Animuota nešiojama tinklo grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/remove-background/bmp" name="BMP" description="Bitmap paveikslėlis" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/remove-background/ico" name="ICO" description="Windows piktograma" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/remove-background/jpg" name="JPG" description="Jungtinė fotografijos ekspertų grupė" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/remove-background/dib" name="DIB" description="Nuo įrenginio nepriklausomas bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/remove-background/dicom" name="DICOM" description="Skaitmeninis vaizdas ir ryšiai" >}}

@@ -18,12 +18,8 @@ description: Beispielcode für die C#-Konvertierung von TGA in DXF. Verwenden Si
 {{% blocks/products/pf/agp/content h2="So konvertieren Sie TGA in DXF mit C#" %}}
 
 Um TGA in DXF zu konvertieren, verwenden wir
-[Aspose.Imaging für .NET](https://products.aspose.com/imaging/net)
- API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Bildbearbeitungs- und Konvertierungs-API für die C#-Plattform ist. Offen
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- Paketmanager, suche nach
- **Aspose.Imaging**
- und installieren. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden.
+[Aspose.Imaging für .NET](https://products.aspose.com/imaging/net) API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Bildbearbeitungs- und Konvertierungs-API für die C#-Plattform ist. Offen [NuGet](https://www.nuget.org/packages/aspose.imaging) Paketmanager, suche nach
+ **Aspose.Imaging** und installieren. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
@@ -91,7 +87,7 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
 Truevision TGA, oft auch als TARGA bezeichnet, ist ein Rastergrafik-Dateiformat, das von Truevision Inc. (jetzt Teil von Avid Technology) entwickelt wurde. Es war das native Format von TARGA- und VISTA-Karten, die die ersten Grafikkarten für IBM-kompatible PCs waren, die Highcolor/Truecolor-Anzeigen unterstützten.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -128,6 +124,7 @@ DXF, Drawing Interchange Format oder Drawing Exchange Format, ist eine getaggte 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/conversion/tga-to-wmz" name="WMZ" description="Komprimierte Windows Media Player-Skin" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/conversion/tga-to-svgz" name="SVGZ" description="Komprimierte Version der Datei Scalable Vector Graphics (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/conversion/tga-to-canvas" name="CANVAS" description="HTML5-Leinwand" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/conversion/tga-to-ico" name="ICO" description="Windows-Symbol" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

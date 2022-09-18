@@ -18,12 +18,7 @@ description: Пример кода для преобразования WMZ в SV
 {{% blocks/products/pf/agp/content h2="Как преобразовать WMZ в SVG с помощью C#" %}}
 
 Чтобы преобразовать WMZ в SVG, мы будем использовать
-[Aspose.Imaging для .NET](https://products.aspose.com/imaging/net)
- API, который представляет собой многофункциональный, мощный и простой в использовании API для обработки и преобразования изображений для платформы C#. Открытым
- [NuGet] (https://www.nuget.org/packages/aspose.imaging)
- менеджер пакетов, поиск
- **Aspose.Imaging**
- и установить. Вы также можете использовать следующую команду из консоли диспетчера пакетов.
+[Aspose.Imaging для .NET](https://products.aspose.com/imaging/net) API, который представляет собой многофункциональный, мощный и простой в использовании API для обработки и преобразования изображений для платформы C#. Открытым [NuGet](https://www.nuget.org/packages/aspose.imaging) менеджер пакетов, поиск **Aspose.Imaging** и установить. Вы также можете использовать следующую команду из консоли диспетчера пакетов.
 
 {{% blocks/products/pf/agp/code-block title="Команда консоли диспетчера пакетов" offSpacer="true" %}}
 
@@ -93,11 +88,11 @@ PM> Install-Package Aspose.Imaging
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
 WMZ — это расширение файла для формата файла скина в/для/используемого проигрывателем Windows Media. Файл WMZ представляет собой заархивированный файл WMF в формате XML.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
 Файлы SVG представляют собой файлы масштабируемой векторной графики, которые используют текстовый формат на основе XML для описания внешнего вида изображения. Слово «масштабируемый» относится к тому факту, что SVG можно масштабировать до разных размеров без потери качества. Текстовое описание таких файлов делает их независимыми от разрешения. Это один из наиболее часто используемых форматов для создания веб-сайтов и печатной графики для достижения масштабируемости. Однако этот формат можно использовать только для двумерной графики. Файлы SVG можно просматривать/открывать практически во всех современных браузерах, включая Chrome, Internet Explorer, Firefox и Safari.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -130,6 +125,7 @@ WMZ — это расширение файла для формата файла 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/conversion/wmz-to-tga" name="TGA" description="Тарга Графика" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/conversion/wmz-to-svgz" name="SVGZ" description="Сжатая версия файла масштабируемой векторной графики (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/conversion/wmz-to-canvas" name="CANVAS" description="Холст HTML5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/conversion/wmz-to-ico" name="ICO" description="Значок Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

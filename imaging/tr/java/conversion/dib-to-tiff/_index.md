@@ -18,10 +18,7 @@ description: DIB - TIFF Java dönüşümü için örnek kod. Herhangi bir Web ve
 {{% blocks/products/pf/agp/content h2="Java Kullanarak DIB'i TIFF'ye Dönüştürme" %}}
 
 DIB'i TIFF'ye dönüştürmek için kullanacağız
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java)
-Java platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. En son sürümünü doğrudan adresinden indirebilirsiniz.
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-ve pom.xml dosyasına aşağıdaki konfigürasyonları ekleyerek Maven tabanlı projenize kurun.
+[Aspose.Imaging for Java](https://products.aspose.com/imaging/java) Java platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. En son sürümünü doğrudan adresinden indirebilirsiniz. [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) ve pom.xml dosyasına aşağıdaki konfigürasyonları ekleyerek Maven tabanlı projenize kurun.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -102,11 +99,11 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
 Bir DIB (Aygıttan Bağımsız Bitmap) dosyası, yapı olarak standart Bitmap dosyalarına (BMP) benzeyen ancak farklı bir başlığa sahip olan bir raster görüntü dosyasıdır. MacOS'un yanı sıra Windows'ta standart bir BMP dosyası açabilen hemen hemen tüm uygulamalarla açılabilir. DIB ikili dosyalardır ve BMP'ye benzer karmaşık bir dosya biçimine sahiptir.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
 TIFF veya TIF, Etiketli Görüntü Dosyası Biçimi, bu dosya biçimi standardına uyan çeşitli aygıtlarda kullanılması amaçlanan taramalı görüntüleri temsil eder. Çeşitli renk uzaylarında çift düzeyli, gri tonlamalı, palet renkli ve tam renkli görüntü verilerini tanımlama yeteneğine sahiptir. Formatı kullanan uygulamalar için alan ve zaman arasında seçim yapmak için kayıplı ve kayıpsız sıkıştırma şemalarını destekler. Format genişletilebilir ve sınırsız miktarda özel veya özel amaçlı bilginin dahil edilmesine izin veren birkaç revizyondan geçmiştir. Biçim makineye bağımlı değildir ve işlemci, işletim sistemi veya dosya sistemleri gibi sınırlardan muaftır.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -140,6 +137,7 @@ TIFF veya TIF, Etiketli Görüntü Dosyası Biçimi, bu dosya biçimi standardı
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/conversion/dib-to-tga" name="TGA" description="Targa Grafiği" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/conversion/dib-to-svgz" name="SVGZ" description="Ölçeklenebilir Vektör Grafikleri (.SVG) dosyasının sıkıştırılmış sürümü." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/conversion/dib-to-canvas" name="CANVAS" description="HTML5 Tuval" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/conversion/dib-to-ico" name="ICO" description="Windows simgesi" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

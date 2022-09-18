@@ -16,13 +16,7 @@ description: Išbandykite „On-Premise“ dokumentų API, kad pakeistumėte fon
 
 {{% blocks/products/pf/agp/content h2="Kaip pakeisti foną JP2 failuose naudojant C#" %}}
 
-Norėdami pakeisti foną JP2 failuose, naudosime
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta C# platformai. Atviras
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- paketų tvarkyklė, ieškokite
- **Aspose.Imaging**
- ir įdiegti. Taip pat galite naudoti šią komandą iš paketų tvarkyklės konsolės.
+Norėdami pakeisti foną JP2 failuose, naudosime [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta C# platformai. Atviras [NuGet](https://www.nuget.org/packages/aspose.imaging) paketų tvarkyklė, ieškokite **Aspose.Imaging** ir įdiegti. Taip pat galite naudoti šią komandą iš paketų tvarkyklės konsolės.
 
 {{% blocks/products/pf/agp/code-block title="Paketų tvarkytuvės konsolės komanda" offSpacer="true" %}}
 
@@ -42,9 +36,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-Jums reikia
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- norėdami išbandyti šią darbo eigą savo aplinkoje.
+Jums reikia [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) norėdami išbandyti šią darbo eigą savo aplinkoje.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -97,7 +89,7 @@ Aspose.Imaging API yra vaizdo apdorojimo sprendimas, skirtas kurti, modifikuoti,
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Tiesiog įkelkite JP2 failus ir paspauskite mygtuką \"Keisti foną dabar\"." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Iškart gaukite gauto failo atsisiuntimo nuorodą" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau" >}}
 JPEG 2000 (JP2) yra vaizdo kodavimo sistema ir pažangiausias vaizdo glaudinimo standartas. Sukurtas, naudojant banglečių technologiją, JPEG 2000 gali iš karto užkoduoti bet kokios kokybės turinį be nuostolių. Be to, be jokios didelės nuobaudos dėl kodavimo efektyvumo, JPEG 2000 turi galimybę pasiekti ir efektyviai iššifruoti tą patį turinį į daugybę kitų skiriamųjų gebų ir savybių. JPEG 2000 kodo srautai yra labai keičiami, nes yra dominančių regionų, kurie suteikia galimybę atsitiktinei erdvinei prieigai. Turi iki 16384 įvairių komponentų, kurių matmenys yra terapikseliais, o tikslumas gali siekti 38 bitus/pavyzdį.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -109,6 +101,7 @@ JPEG 2000 (JP2) yra vaizdo kodavimo sistema ir pažangiausias vaizdo glaudinimo 
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/change-background/apng" name="APNG" description="Animuota nešiojama tinklo grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/change-background/bmp" name="BMP" description="Bitmap paveikslėlis" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/change-background/ico" name="ICO" description="Windows piktograma" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/change-background/jpg" name="JPG" description="Jungtinė fotografijos ekspertų grupė" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/change-background/dib" name="DIB" description="Nuo įrenginio nepriklausomas bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/change-background/dicom" name="DICOM" description="Skaitmeninis vaizdas ir ryšiai" >}}

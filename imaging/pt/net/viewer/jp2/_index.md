@@ -17,12 +17,7 @@ description: Experimente nossas APIs de documentos no local para exibir arquivos
 {{% blocks/products/pf/agp/content h2="Como visualizar imagens JP2 usando C#" %}}
 
 Para visualizar arquivos JP2, usaremos
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- gerenciador de pacotes, procure por
- **Aspose.Imagem**
- e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
+[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir [NuGet](https://www.nuget.org/packages/aspose.imaging) gerenciador de pacotes, procure por **Aspose.Imagem** e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
 
 {{% blocks/products/pf/agp/code-block title="Comando do Console do Gerenciador de Pacotes" offSpacer="true" %}}
 
@@ -44,9 +39,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-Você precisa do
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- para experimentar o fluxo de trabalho a seguir em seu próprio ambiente.
+Você precisa do [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) para experimentar o fluxo de trabalho a seguir em seu próprio ambiente.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -102,7 +95,7 @@ Aspose.Imaging API é uma solução de processamento de imagens para criar, modi
         checkFreeAppLabel="Confira nossas [demonstrações ao vivo para ver JP2](https://products.aspose.app/imaging/pt/image-view/JP2)">}}
 
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação" >}}
 JPEG 2000 (JP2) é um sistema de codificação de imagem e padrão de compressão de imagem de última geração. Projetado, usando a tecnologia wavelet JPEG 2000 pode codificar conteúdo sem perdas em qualquer qualidade de uma só vez. Além disso, sem nenhuma penalidade substancial na eficiência de codificação, o JPEG 2000 tem a capacidade de acessar e decodificar o mesmo conteúdo de forma eficaz em uma variedade de outras resoluções e qualidades. Os fluxos de código em JPEG 2000 são significativamente escaláveis ​​com regiões de interesse que fornecem a facilidade de acesso espacial aleatório. Possuindo até 16384 componentes diversos com as dimensões em terapixels, e precisão que pode chegar a 38 bits/amostra.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -114,6 +107,7 @@ JPEG 2000 (JP2) é um sistema de codificação de imagem e padrão de compressã
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/viewer/apng" name="APNG" description="Gráficos de rede portátil animados" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/viewer/bmp" name="BMP" description="Imagem de bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/viewer/ico" name="ICO" description="ícone do Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/viewer/jpg" name="JPG" description="Grupo Conjunto de Especialistas em Fotografia" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/viewer/jpeg" name="JPEG" description="Grupo Conjunto de Especialistas em Fotografia" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/viewer/dib" name="DIB" description="Bitmap independente de dispositivo" >}}

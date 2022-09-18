@@ -16,11 +16,7 @@ description: Experimente nossas APIs de documentos no local para arquivos EMZ em
 
 {{% blocks/products/pf/agp/content h2="Como escalar arquivos EMZ em escala de cinza usando Java" %}}
 
-Para escalar arquivos EMZ em escala de cinza, usaremos
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java)
-API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para plataforma Java. Você pode baixar sua versão mais recente diretamente de
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-e instale-o em seu projeto baseado em Maven adicionando as seguintes configurações ao pom.xml.
+Para escalar arquivos EMZ em escala de cinza, usaremos [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para plataforma Java. Você pode baixar sua versão mais recente diretamente de [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) e instale-o em seu projeto baseado em Maven adicionando as seguintes configurações ao pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -55,9 +51,7 @@ e instale-o em seu projeto baseado em Maven adicionando as seguintes configuraç
 
 {{% blocks/products/pf/agp/text %}}
 
-Você precisa do
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java)
- para experimentar o fluxo de trabalho a seguir em seu próprio ambiente.
+Você precisa do [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) para experimentar o fluxo de trabalho a seguir em seu próprio ambiente.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +102,7 @@ Aspose.Imaging API é uma solução de processamento de imagens para criar, modi
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta carregar seus arquivos EMZ e clicar no botão \"Grayscale now\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Obtenha instantaneamente o link de download para o arquivo resultante" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação" >}}
 Um arquivo com a extensão de arquivo EMZ é um arquivo de imagem compactado, mais especificamente chamado de arquivo Windows Compressed Enhanced Metafile
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -120,6 +114,7 @@ Um arquivo com a extensão de arquivo EMZ é um arquivo de imagem compactado, ma
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/grayscale/apng" name="APNG" description="Gráficos de rede portátil animados" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/grayscale/bmp" name="BMP" description="Imagem de bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/grayscale/ico" name="ICO" description="ícone do Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/grayscale/jpg" name="JPG" description="Grupo Conjunto de Especialistas em Fotografia" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/grayscale/jpeg" name="JPEG" description="Grupo Conjunto de Especialistas em Fotografia" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/grayscale/dib" name="DIB" description="Bitmap independente de dispositivo" >}}

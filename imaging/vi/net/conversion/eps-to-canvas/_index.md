@@ -18,12 +18,7 @@ description: Mã mẫu cho chuyển đổi EPS sang CANVAS C #. Sử dụng mã 
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi EPS thành CANVAS bằng C#" %}}
 
 Để chuyển đổi EPS thành CANVAS, chúng tôi sẽ sử dụng
-[Aspose.Imaging cho .NET] (https://products.aspose.com/imaging/net)
- API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C #. Mở
- [NuGet] (https://www.nuget.org/packages/aspose.imaging)
- quản lý gói, tìm kiếm
- ** Aspose.Imaging **
- và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển Trình quản lý Gói.
+[Aspose.Imaging cho .NET] (https://products.aspose.com/imaging/net) API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C #. Mở [NuGet] (https://www.nuget.org/packages/aspose.imaging) quản lý gói, tìm kiếm ** Aspose.Imaging ** và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển Trình quản lý Gói.
 
 {{% blocks/products/pf/agp/code-block title = "Lệnh Bảng điều khiển Trình quản lý Gói" offSpacer = "true"%}}
 
@@ -91,7 +86,7 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
 Các tệp có phần mở rộng EPS về cơ bản mô tả một chương trình ngôn ngữ PostScript được đóng gói mô tả sự xuất hiện của một trang duy nhất. Tên "Encapsulated" vì nó có thể được bao gồm hoặc đóng gói trong mô tả trang ngôn ngữ PostScript khác. Định dạng tệp dựa trên tập lệnh này có thể chứa bất kỳ sự kết hợp nào của văn bản, đồ họa và hình ảnh. Các tệp EPS có thể bao gồm một hình ảnh xem trước bitmap được đóng gói bên trong để hiển thị bởi các ứng dụng có thể mở các tệp như vậy. Các tệp EPS có thể được chuyển đổi sang các định dạng hình ảnh tiêu chuẩn như JPG, PNG, TIFF và PDF bằng các ứng dụng khác nhau, ví dụ: Adobe Illustrator, Photoshop và PaintShop Pro. Do lỗ hổng bảo mật trong tệp EPS, Office 2016, Office 2013, Office 2010 và Office 365 đã tắt khả năng chèn tệp EPS vào tài liệu Office.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -129,6 +124,7 @@ HTML (Hyper Text Markup Language) là phần mở rộng cho các trang web đư
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/conversion/eps-to-tga" name="TGA" description="Đồ họa Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/conversion/eps-to-svgz" name="SVGZ" description="Phiên bản nén của tệp Đồ họa Vectơ có thể mở rộng (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/conversion/eps-to-canvas" name="CANVAS" description="HTML5 Canvas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/conversion/eps-to-ico" name="ICO" description="Biểu tượng Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

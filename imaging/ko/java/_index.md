@@ -15,7 +15,7 @@ description: Java 이미지 처리 및 조작 라이브러리. 로드 뷰 편집
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" 
 liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://purchase.aspose.com/pricing/imaging/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/imaging/java" installationsDocsLink="https://docs.aspose.com/imaging/java/installation" mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-imaging/" directDownloadLink="https://downloads.aspose.com/imaging/java" liveDemosText="라이브 데모" overviewText="개요" featuresText="특징" resourcesText="자원" pricingText="가격" downloadText="다운로드" learnText="배우다" buyText="구입하다" >}}
 
-{{< blocks/products/pf/tab-content carousel1Text1="에" carousel1Text2="섬광" carousel2Text1="지원 파일" carousel2Text2="형식" carousel3Text1="플랫폼" carousel3Text2="독립">}}
+{{< blocks/products/pf/tab-content carousel1Text1="에" carousel1Text2="섬광" carousel2Text1="플랫폼" carousel2Text2="독립" carousel3Text1="지원 파일" carousel3Text2="형식">}}
 <p align="justify">
  Aspose.Imaging for Java 는 고급 이미지 처리 기능을 제공하는 라이브러리입니다. 이 API를 사용하여 이미지 또는 사진을 쉽게 생성, 로드, 조작, 변환, 압축할 수 있습니다. 또한 Aspose. 이미징 라이브러리는 그리기 및 그래픽 프리미티브 작업을 지원합니다. 이미지 내보내기 및 변환(균일한 다중 페이지 이미지 처리 포함)은 이미지 변환(크기 조정, 자르기, 뒤집기 및 회전, 이진화, 회색조, 조정), 고급 이미지 조작 기능(필터링, 디더링, 마스킹, 기울기 보정)과 함께 API 핵심 기능 중 하나입니다. ) 및 메모리 최적화 전략.
 </p>
@@ -193,7 +193,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
      <b>
       래스터 형식:
      </b>
-     JPEG2000, JPEG, BMP, TIFF, GIF, PNG, DICOM, TGA
+     JPEG2000, JPEG, BMP, TIFF, GIF, PNG, DICOM, TGA, ICO
     </li>
     <li>
      <b>
@@ -486,7 +486,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
 
 {{< blocks/products/pf/support-learning-resources supportAndLearningResourcesText="지원 및 학습 리소스">}}
 {{< blocks/products/pf/slr-tab tabTitle="학습 자료" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="선적 서류 비치" href="https://docs.aspose.com/imaging/net/" >}}
+{{< blocks/products/pf/slr-element name="선적 서류 비치" href="https://docs.aspose.com/imaging/java" >}}
 {{< blocks/products/pf/slr-element name="소스 코드" href="https://github.com/aspose-imaging/Aspose.Imaging-for-Java" >}}
 {{< blocks/products/pf/slr-element name="API 참조" href="https://apireference.aspose.com/java/imaging" >}}
 {{< blocks/products/pf/slr-element name="튜토리얼 비디오" href="https://www.youtube.com/user/asposevideo" >}}

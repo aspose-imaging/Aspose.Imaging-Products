@@ -17,12 +17,7 @@ description: Išbandykite mūsų „On-Premise“ dokumentų API, kad peržiūr�
 {{% blocks/products/pf/agp/content h2="Kaip peržiūrėti EPS vaizdus naudojant C#" %}}
 
 Norėdami peržiūrėti EPS failus, naudosime
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta C# platformai. Atviras
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- paketų tvarkyklė, ieškokite
- **Aspose.Imaging**
- ir įdiegti. Taip pat galite naudoti šią komandą iš paketų tvarkyklės konsolės.
+[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta C# platformai. Atviras [NuGet](https://www.nuget.org/packages/aspose.imaging) paketų tvarkyklė, ieškokite **Aspose.Imaging** ir įdiegti. Taip pat galite naudoti šią komandą iš paketų tvarkyklės konsolės.
 
 {{% blocks/products/pf/agp/code-block title="Paketų tvarkytuvės konsolės komanda" offSpacer="true" %}}
 
@@ -42,9 +37,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-Jums reikia
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- norėdami išbandyti šią darbo eigą savo aplinkoje.
+Jums reikia [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) norėdami išbandyti šią darbo eigą savo aplinkoje.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -100,7 +93,7 @@ Aspose.Imaging API yra vaizdo apdorojimo sprendimas, skirtas kurti, modifikuoti,
         checkFreeAppLabel="Peržiūrėkite mūsų [tiesiogines demonstracines versijas, kad galėtumėte peržiūrėti EPS](https://products.aspose.app/imaging/lt/image-view/EPS)">}}
 
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau" >}}
 Failai su EPS plėtiniu iš esmės apibūdina Encapsulated PostScript kalbos programą, kuri apibūdina vieno puslapio išvaizdą. Pavadinimas „Inkapsuliuotas“, nes jis gali būti įtrauktas arba įdėtas į kitą „PostScript“ kalbos puslapio aprašą. Šis scenarijus pagrįstas failo formatas gali turėti bet kokį teksto, grafikos ir vaizdų derinį. EPS failuose gali būti bitmap peržiūros vaizdas, įdėtas į vidų, kad būtų rodomas programos, galinčios atidaryti tokius failus. EPS failus galima konvertuoti į standartinius vaizdo formatus, tokius kaip JPG, PNG, TIFF ir PDF, naudojant įvairias programas, pvz. „Adobe Illustrator“, „Photoshop“ ir „PaintShop Pro“. Dėl EPS failų saugos pažeidžiamumo „Office 2016“, „Office 2013“, „Office 2010“ ir „Office 365“ išjungė galimybę įterpti EPS failus į „Office“ dokumentus.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -112,6 +105,7 @@ Failai su EPS plėtiniu iš esmės apibūdina Encapsulated PostScript kalbos pro
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/viewer/apng" name="APNG" description="Animuota nešiojama tinklo grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/viewer/bmp" name="BMP" description="Bitmap paveikslėlis" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/viewer/ico" name="ICO" description="Windows piktograma" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/viewer/jpg" name="JPG" description="Jungtinė fotografijos ekspertų grupė" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/viewer/jpeg" name="JPEG" description="Jungtinė fotografijos ekspertų grupė" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/viewer/dib" name="DIB" description="Nuo įrenginio nepriklausomas bitmap" >}}

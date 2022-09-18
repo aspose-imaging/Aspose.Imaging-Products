@@ -16,11 +16,7 @@ description: Java Uygulamasında BMP dosyalarını kırpmak için Şirket İçi 
 
 {{% blocks/products/pf/agp/content h2="Java Kullanarak BMP Dosyaları Nasıl Kırpılır" %}}
 
-BMP dosyalarını kırpmak için kullanacağız
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java)
-Java platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. En son sürümünü doğrudan adresinden indirebilirsiniz.
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-ve pom.xml dosyasına aşağıdaki konfigürasyonları ekleyerek Maven tabanlı projenize kurun.
+BMP dosyalarını kırpmak için kullanacağız [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) Java platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. En son sürümünü doğrudan adresinden indirebilirsiniz. [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) ve pom.xml dosyasına aşağıdaki konfigürasyonları ekleyerek Maven tabanlı projenize kurun.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -55,9 +51,7 @@ ve pom.xml dosyasına aşağıdaki konfigürasyonları ekleyerek Maven tabanlı 
 
 {{% blocks/products/pf/agp/text %}}
 
-ihtiyacın var
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java)
- aşağıdaki iş akışını kendi ortamınızda denemek için
+ihtiyacın var [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) aşağıdaki iş akışını kendi ortamınızda denemek için
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +102,7 @@ Aspose.Imaging API, uygulamalar içinde görüntüleri (fotoğrafları) oluştur
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="BMP dosyalarınızı yükleyin ve \"Şimdi kırp\" düğmesine basın" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Ortaya çıkan dosyanın indirme bağlantısını anında alın" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku" >}}
 .BMP uzantısına sahip dosyalar, bitmap dijital görüntüleri depolamak için kullanılan Bitmap Görüntü dosyalarını temsil eder. Bu görüntüler grafik bağdaştırıcısından bağımsızdır ve aygıttan bağımsız bit eşlem (DIB) dosya biçimi olarak da adlandırılır. Bu bağımsızlık, dosyayı Microsoft Windows ve Mac gibi birden çok platformda açma amacına hizmet eder. BMP dosya formatı, verileri hem monokrom hem de çeşitli renk derinliklerine sahip renkli formatta iki boyutlu dijital görüntüler olarak saklayabilir.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -119,6 +113,7 @@ Aspose.Imaging API, uygulamalar içinde görüntüleri (fotoğrafları) oluştur
 {{< blocks/products/pf/agp/other-supported-section title="Desteklenen Diğer Kırpma Formatları" subTitle="Java kullanarak, dahil olmak üzere farklı formatları kolayca kırpabilirsiniz." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/crop/apng" name="APNG" description="Hareketli Taşınabilir Ağ Grafikleri" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/crop/ico" name="ICO" description="Windows simgesi" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/crop/jpg" name="JPG" description="Birleşmiş Fotoğraf Uzmanları Grubu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/crop/dib" name="DIB" description="Cihazdan Bağımsız Bit Eşlem" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/java/crop/dicom" name="DICOM" description="Dijital Görüntüleme ve İletişim" >}}

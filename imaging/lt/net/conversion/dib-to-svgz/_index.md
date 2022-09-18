@@ -18,12 +18,7 @@ description: C# konvertavimo iš DIB į SVGZ pavyzdinis kodas. Naudokite API pav
 {{% blocks/products/pf/agp/content h2="Kaip konvertuoti DIB į SVGZ naudojant C#" %}}
 
 Norėdami konvertuoti DIB į SVGZ, naudosime
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta C# platformai. Atviras
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- paketų tvarkyklė, ieškokite
- **Aspose.Imaging**
- ir įdiegti. Taip pat galite naudoti šią komandą iš paketų tvarkyklės konsolės.
+[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta C# platformai. Atviras [NuGet](https://www.nuget.org/packages/aspose.imaging) paketų tvarkyklė, ieškokite **Aspose.Imaging** ir įdiegti. Taip pat galite naudoti šią komandą iš paketų tvarkyklės konsolės.
 
 {{% blocks/products/pf/agp/code-block title="Paketų tvarkytuvės konsolės komanda" offSpacer="true" %}}
 
@@ -91,11 +86,11 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
 DIB (nuo įrenginio nepriklausomo taškinės schemos) failas yra rastrinio vaizdo failas, kurio struktūra yra panaši į standartinius taškinės schemos failus (BMP), bet turi skirtingą antraštę. Jį galima atidaryti su beveik visomis programomis, kurios gali atidaryti standartinį BMP failą sistemoje „Windows“ ir „MacOS“. DIB yra dvejetainiai failai ir turi sudėtingą failo formatą, panašų į BMP.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
 Failas su plėtiniu .svgz yra suglaudinta Scalable Vector Graphics (.SVG) failo versija. Jis suglaudintas gzip glaudinimu ir jame yra duomenys XML formatu. SVGZ failai palaiko skaidrumą, gradientus, animaciją ir filtrus. SVGZ failai yra mažesni, palyginti su numatytaisiais SVG failais, ir šis sumažintas failo dydis padeda perkelti grafikos failus į internetą. Grafikos dizaineris kuria SVGZ failus naudodamas tokius įrankius kaip „Adobe Illustrator“, „Corel PaintShop Pro“ ir kt. Tačiau SVGZ failus galima sugeneruoti įjungus GZip glaudinimą „Apache“ serveryje, siunčiant vaizdo duomenis.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -129,6 +124,7 @@ Failas su plėtiniu .svgz yra suglaudinta Scalable Vector Graphics (.SVG) failo 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/conversion/dib-to-tga" name="TGA" description="Targa grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/conversion/dib-to-svgz" name="SVGZ" description="Suglaudinta Scalable Vector Graphics (.SVG) failo versija." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/conversion/dib-to-canvas" name="CANVAS" description="HTML5 drobė" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/conversion/dib-to-ico" name="ICO" description="Windows piktograma" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

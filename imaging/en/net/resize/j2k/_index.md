@@ -16,13 +16,8 @@ description: Try our On-Premise document APIs to resize J2K files on .NET Framew
 
 {{% blocks/products/pf/agp/content h2="How to Resize J2K Files Using C#" %}}
 
-In order to resize J2K files, we’ll use
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) 
- API which is a feature-rich, powerful and easy to use image manipulation and conversion API for C# platform. Open
- [NuGet](https://www.nuget.org/packages/aspose.imaging) 
- package manager, search for
- **Aspose.Imaging** 
- and install. You may also use the following command from the Package Manager Console.
+In order to resize J2K files, we’ll use [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API which is a feature-rich, powerful and easy to use image manipulation and conversion API for C# platform. Open [NuGet](https://www.nuget.org/packages/aspose.imaging) package manager, search for
+ **Aspose.Imaging** and install. You may also use the following command from the Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
@@ -42,9 +37,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-You need the
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) 
- to try the following workflow in your own environment.
+You need the [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) to try the following workflow in your own environment.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -97,7 +90,7 @@ Aspose.Imaging API is an image processing solution to create, modify, draw or co
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your J2K files and hit \"Resize\" button" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Instantly get the download link for the resultant file" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k" whatIsFormat1="What is" whatIsFormat2="File Format" readMoreFormat="Read More" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="What is" whatIsFormat2="File Format" readMoreFormat="Read More" >}}
 A J2K file is an image that is compressed using the wavelet compression instead of DCT compression.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -109,6 +102,7 @@ A J2K file is an image that is compressed using the wavelet compression instead 
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/net/resize/apng" name="APNG" description="Animated Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/net/resize/bmp" name="BMP" description="Bitmap Picture" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/net/resize/ico" name="ICO" description="Windows icon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/net/resize/jpg" name="JPG" description="Joint Photographic Experts Group" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/net/resize/cdr" name="CDR" description="Vector Drawing Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/net/resize/cmx" name="CMX" description="Corel Exchange Image" >}}

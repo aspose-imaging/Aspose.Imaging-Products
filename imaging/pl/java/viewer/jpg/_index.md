@@ -17,10 +17,7 @@ description: Wypróbuj nasze lokalne interfejsy API dokumentów, aby wyświetla�
 {{% blocks/products/pf/agp/content h2="Jak przeglądać obrazy JPG za pomocą Java" %}}
 
 Aby wyświetlić pliki JPG, użyjemy
-[Aspose.Imaging dla Javy](https://products.aspose.com/imaging/java)
-API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do obróbki i konwersji obrazów dla platformy Java. Możesz pobrać jego najnowszą wersję bezpośrednio z
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-i zainstaluj go w swoim projekcie opartym na Maven, dodając następujące konfiguracje do pom.xml.
+[Aspose.Imaging dla Javy](https://products.aspose.com/imaging/java) API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do obróbki i konwersji obrazów dla platformy Java. Możesz pobrać jego najnowszą wersję bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) i zainstaluj go w swoim projekcie opartym na Maven, dodając następujące konfiguracje do pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repozytorium" offSpacer="true" %}}
 
@@ -55,9 +52,7 @@ i zainstaluj go w swoim projekcie opartym na Maven, dodając następujące konfi
 
 {{% blocks/products/pf/agp/text %}}
 
-Potrzebujesz
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java)
- aby wypróbować następujący przepływ pracy we własnym środowisku.
+Potrzebujesz [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) aby wypróbować następujący przepływ pracy we własnym środowisku.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -111,7 +106,7 @@ Aspose.Imaging API to rozwiązanie do przetwarzania obrazów do tworzenia, modyf
         checkFreeAppLabel="Sprawdź nasze [dema na żywo, aby wyświetlić JPG](https://products.aspose.app/imaging/pl/image-view/JPG)">}}
 
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej" >}}
 JPEG to rodzaj formatu obrazu, który jest zapisywany przy użyciu metody kompresji stratnej. Obraz wyjściowy w wyniku kompresji jest kompromisem między rozmiarem pamięci a jakością obrazu. Użytkownicy mogą dostosować poziom kompresji, aby osiągnąć pożądany poziom jakości, jednocześnie zmniejszając rozmiar pamięci. Jakość obrazu ulega nieznacznemu pogorszeniu, jeśli do obrazu zostanie zastosowana kompresja 10:1. Im wyższa wartość kompresji, tym większa degradacja jakości obrazu.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -123,6 +118,7 @@ JPEG to rodzaj formatu obrazu, który jest zapisywany przy użyciu metody kompre
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/viewer/apng" name="APNG" description="Animowana przenośna grafika sieciowa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/viewer/bmp" name="BMP" description="Obraz bitmapowy" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/viewer/ico" name="ICO" description="Ikona Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/viewer/jpeg" name="JPEG" description="Wspólna Grupa Ekspertów Fotograficznych" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/viewer/dib" name="DIB" description="Mapa bitowa niezależna od urządzenia" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/viewer/dicom" name="DICOM" description="Obrazowanie cyfrowe i komunikacja" >}}

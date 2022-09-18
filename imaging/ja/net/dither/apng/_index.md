@@ -16,13 +16,7 @@ description: .NET Framework、.NET Core、Windowsアプリケーション、ASP.
 
 {{% blocks/products/pf/agp/content h2="C#を使用してAPNGファイルをディザリングする方法" %}}
 
-APNGファイルをディザリングするために、
-[Aspose.Imaging for .NET]（https://products.aspose.com/imaging/net）
- 機能が豊富で強力で使いやすいC＃プラットフォーム用の画像操作および変換APIであるAPI。開ける
- [NuGet]（https://www.nuget.org/packages/aspose.imaging）
- パッケージマネージャー、検索
- ** Aspose.Imaging **
- とインストールします。パッケージマネージャーコンソールから次のコマンドを使用することもできます。
+APNGファイルをディザリングするために、 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) 機能が豊富で強力で使いやすいC＃プラットフォーム用の画像操作および変換APIであるAPI。開ける [NuGet](https://www.nuget.org/packages/aspose.imaging) パッケージマネージャー、検索 ** Aspose.Imaging ** とインストールします。パッケージマネージャーコンソールから次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title ="パッケージマネージャーコンソールコマンド" offSpacer = "true"%}}
 
@@ -42,9 +36,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-あなたは
- [aspose.imaging.dll]（https://downloads.aspose.com/imaging/net）
- 自分の環境で次のワークフローを試してください。
+あなたは [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) 自分の環境で次のワークフローを試してください。
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -97,7 +89,7 @@ Aspose.Imaging APIは、アプリケーション内で画像（写真）を作�
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="APNGファイルをアップロードして[今すぐディザリング]ボタンを押すだけです" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="結果のファイルのダウンロードリンクを即座に取得します" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む" >}}
 拡張子が.apng（Animated Portable Network Graphics）のファイルは、ラスターグラフィック形式であり、Portable Network Graphic（PNG）の非公式な拡張子です。アニメーションシーケンスを表す複数のフレーム（各PNG画像）で構成されます。これにより、GIFファイルと同様の視覚化が可能になります。 APNGファイルは24ビット画像と8ビット透明度をサポートしています。 APNGは、アニメーション化されていないGIFファイルと下位互換性があります。 APNGファイルは同じ.png拡張子を使用し、Mozilla Firefox、APNGをサポートするChrome、iOS10用のiMessageアプリなどのアプリケーションで開くことができます。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -108,6 +100,7 @@ Aspose.Imaging APIは、アプリケーション内で画像（写真）を作�
 {{< blocks/products/pf/agp/other-supported-section title="その他のサポートされているディザ形式" subTitle="C#を使用すると、次のようなさまざまな形式を簡単にディザリングできます。" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/dither/bmp" name="BMP" description="ビットマップ画像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/dither/ico" name="ICO" description="Windows アイコン" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/dither/jpg" name="JPG" description="共同写真専門家グループ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/dither/jpeg" name="JPEG" description="共同写真専門家グループ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ja/net/dither/dib" name="DIB" description="デバイスに依存しないビットマップ" >}}

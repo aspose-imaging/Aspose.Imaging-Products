@@ -16,11 +16,7 @@ description: Contoh kode konversi Java untuk format TIFF ke file . Gunakan kode 
 
 {{% blocks/products/pf/agp/content h2="Cara Memberi Watermark TIFF File Menggunakan Java" %}}
 
-Untuk menandai file TIFF, kami akan menggunakan
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java)
-API yang kaya fitur, kuat dan mudah digunakan manipulasi gambar dan konversi API untuk platform Java. Anda dapat mengunduh versi terbarunya langsung dari
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
+Untuk menandai file TIFF, kami akan menggunakan [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API yang kaya fitur, kuat dan mudah digunakan manipulasi gambar dan konversi API untuk platform Java. Anda dapat mengunduh versi terbarunya langsung dari [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -55,9 +51,7 @@ dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berik
 
 {{% blocks/products/pf/agp/text %}}
 
-Anda membutuhkan
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java)
- untuk mencoba alur kerja berikut di lingkungan Anda sendiri.
+Anda membutuhkan [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) untuk mencoba alur kerja berikut di lingkungan Anda sendiri.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -110,7 +104,7 @@ Aspose.Imaging API adalah solusi pemrosesan gambar untuk membuat, memodifikasi, 
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Cukup unggah file TIFF Anda, atur tanda air Anda dan tekan tombol \"Tambah\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Langsung dapatkan tautan unduhan untuk file yang dihasilkan" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya" >}}
 TIFF atau TIF, Tagged Image File Format, mewakili gambar raster yang dimaksudkan untuk digunakan pada berbagai perangkat yang memenuhi standar format file ini. Ia mampu menggambarkan data gambar bilevel, grayscale, palette-color dan full-color dalam beberapa ruang warna. Ini mendukung skema kompresi lossy serta lossless untuk memilih antara ruang dan waktu untuk aplikasi yang menggunakan format. Formatnya dapat diperluas dan telah mengalami beberapa revisi yang memungkinkan dimasukkannya informasi pribadi atau tujuan khusus dalam jumlah yang tidak terbatas. Formatnya tidak bergantung pada mesin dan bebas dari batasan seperti prosesor, sistem operasi, atau sistem file.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -121,6 +115,7 @@ TIFF atau TIF, Tagged Image File Format, mewakili gambar raster yang dimaksudkan
 {{< blocks/products/pf/agp/other-supported-section title="Format Watermarking Lainnya yang Didukung" subTitle="Menggunakan Java, seseorang dapat dengan mudah menandai format yang berbeda termasuk." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/watermark/bmp" name="BMP" description="Gambar Bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/watermark/ico" name="ICO" description="ikon Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/watermark/dib" name="DIB" description="Bitmap Independen Perangkat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/watermark/dicom" name="DICOM" description="Pencitraan & Komunikasi Digital" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/watermark/emf" name="EMF" description="Format Metafile yang Ditingkatkan" >}}

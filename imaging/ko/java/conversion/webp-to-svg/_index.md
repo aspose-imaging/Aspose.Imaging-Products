@@ -18,10 +18,7 @@ description: WEBP에서 SVG로의 Java 변환을 위한 샘플 코드입니다. 
 {{% blocks/products/pf/agp/content h2="Java을 사용하여 WEBP을 SVG로 변환하는 방법" %}}
 
 WEBP을 SVG로 변환하려면 다음을 사용합니다.
-[자바용 Aspose.Imaging](https://products.aspose.com/imaging/java)
-기능이 풍부하고 강력하며 사용하기 쉬운 Java 플랫폼용 이미지 조작 및 변환 API인 API입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.
-[메이븐](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-다음 구성을 pom.xml에 추가하여 Maven 기반 프로젝트 내에 설치합니다.
+[자바용 Aspose.Imaging](https://products.aspose.com/imaging/java) 기능이 풍부하고 강력하며 사용하기쉬운 Java 플랫폼용 이미지 조작 및 변환 API인 API입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.[메이븐(https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 다음 구성을 pom.xml에 추가하여 Maven 기반 프로젝트 내에 설치합니다.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -102,11 +99,11 @@ WEBP을 SVG로 변환하려면 다음을 사용합니다.
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
 Google에서 소개한 WebP는 무손실 및 손실 압축을 기반으로 하는 최신 래스터 웹 이미지 파일 형식입니다. 이미지 크기를 크게 줄이면서 동일한 이미지 품질을 제공합니다. 대부분의 웹 페이지는 데이터의 효과적인 표현으로 이미지를 사용하기 때문에 웹 페이지에서 WebP 이미지를 사용하면 웹 페이지를 더 빠르게 로드할 수 있습니다. Google에 따르면 WebP 무손실 이미지는 PNG에 비해 크기가 26% 작으며 WebP 손실 이미지는 유사한 JPEG 이미지보다 25-34% 작습니다. WebP와 다른 이미지 파일 형식 간의 SSIM(구조적 유사성) 인덱스를 기반으로 이미지가 비교됩니다. WebP는 WebM 멀티미디어 컨테이너 형식의 자매 프로젝트입니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
 SVG 파일은 이미지의 모양을 설명하기 위해 XML 기반 텍스트 형식을 사용하는 확장 가능한 벡터 그래픽 파일입니다. Scalable이라는 단어는 SVG가 품질을 잃지 않고 다양한 크기로 확장될 수 있다는 사실을 나타냅니다. 이러한 파일에 대한 텍스트 기반 설명은 파일을 해상도와 무관하게 만듭니다. 확장성을 확보하기 위해 웹사이트를 구축하고 그래픽을 인쇄할 때 가장 많이 사용되는 형식 중 하나입니다. 형식은 2차원 그래픽에만 사용할 수 있습니다. SVG 파일은 Chrome, Internet Explorer, Firefox 및 Safari를 포함한 거의 모든 최신 브라우저에서 보거나 열 수 있습니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -139,6 +136,7 @@ SVG 파일은 이미지의 모양을 설명하기 위해 XML 기반 텍스트 �
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/conversion/webp-to-tga" name="TGA" description="타르가 그래픽" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/conversion/webp-to-svgz" name="SVGZ" description="확장 가능한 벡터 그래픽(.SVG) 파일의 압축 버전입니다." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/conversion/webp-to-canvas" name="CANVAS" description="HTML5 캔버스" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/conversion/webp-to-ico" name="ICO" description="윈도우 아이콘" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

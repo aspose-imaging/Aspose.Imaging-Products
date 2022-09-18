@@ -16,13 +16,7 @@ description: Experimente nossas APIs de documentos no local para cortar arquivos
 
 {{% blocks/products/pf/agp/content h2="Como cortar arquivos CMX usando C#" %}}
 
-Para cortar arquivos CMX, usaremos
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- gerenciador de pacotes, procure por
- **Aspose.Imagem**
- e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
+Para cortar arquivos CMX, usaremos [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir [NuGet](https://www.nuget.org/packages/aspose.imaging) gerenciador de pacotes, procure por **Aspose.Imagem** e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
 
 {{% blocks/products/pf/agp/code-block title="Comando do Console do Gerenciador de Pacotes" offSpacer="true" %}}
 
@@ -44,9 +38,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-Você precisa do
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- para experimentar o fluxo de trabalho a seguir em seu próprio ambiente.
+Você precisa do [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) para experimentar o fluxo de trabalho a seguir em seu próprio ambiente.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -99,7 +91,7 @@ Aspose.Imaging API é uma solução de processamento de imagens para criar, modi
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta enviar seus arquivos CMX e clicar no botão \"Cortar agora\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Obtenha instantaneamente o link de download para o arquivo resultante" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação" >}}
 Arquivos com extensão CMX são o formato de arquivo de imagem do Corel Exchange usado como apresentação pelos aplicativos CorelSuite. Ele contém dados de imagem como gráficos vetoriais, bem como metadados que descrevem a imagem. Os arquivos CMX podem ser abertos pelo CorelDraw, Corel Presentations, Paint Shop Pro e algumas versões do Adobe Illustrator.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -111,6 +103,7 @@ Arquivos com extensão CMX são o formato de arquivo de imagem do Corel Exchange
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/crop/apng" name="APNG" description="Gráficos de rede portátil animados" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/crop/bmp" name="BMP" description="Imagem de bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/crop/ico" name="ICO" description="ícone do Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/crop/jpg" name="JPG" description="Grupo Conjunto de Especialistas em Fotografia" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/crop/dib" name="DIB" description="Bitmap independente de dispositivo" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/crop/dicom" name="DICOM" description="Imagens e comunicações digitais" >}}

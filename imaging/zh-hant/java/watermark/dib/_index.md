@@ -16,11 +16,7 @@ description: DIB 格式到  文件的示例 Java 轉換代碼。使用此示例�
 
 {{% blocks/products/pf/agp/content h2="如何使用 Java 為 DIB 文件添加水印" %}}
 
-為了給 DIB 文件加水印，我們將使用
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java)
-API 是一個功能豐富、功能強大且易於使用的 Java 平台圖像處理和轉換 API。您可以直接從
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-並通過將以下配置添加到 pom.xml 將其安裝在基於 Maven 的項目中。
+為了給 DIB 文件加水印，我們將使用 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一個功能豐富、功能強大 易於使用的 Java 平台圖像處理和轉換 API。您可以直接從 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 並通過將以下配置添加到 pom.xml 將其安裝在基於 Maven 的項目中。
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -55,9 +51,7 @@ API 是一個功能豐富、功能強大且易於使用的 Java 平台圖像處�
 
 {{% blocks/products/pf/agp/text %}}
 
-你需要
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java)
- 在您自己的環境中嘗試以下工作流程。
+你需要 [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) 在您自己的環境中嘗試以下工作流程。
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -110,8 +104,8 @@ Aspose.Imaging API 是一種圖像處理解決方案，用於在應用程序中�
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="只需上傳您的 DIB 文件，設置水印並點擊“添加”按鈕" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="立即獲取生成文件的下載鏈接" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多" >}}
-A DIB (Device Independent Bitmap) file is a raster image file that is similar in structure to the standard Bitmap files (BMP) but has a different header. It can be opened with almost all applications that can open a standard BMP file on Windows as well as macOS. DIB are binary files and have a complex file format similar to BMP.
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多" >}}
+DIB（設備獨立位圖）文件是一種光柵圖像文件，其結構類似於標準位圖文件 (BMP)，但具有不同的標題。幾乎所有可以在 Windows 和 macOS 上打開標準 BMP 文件的應用程序都可以打開它。 DIB 是二進製文件，具有類似於 BMP 的複雜文件格式。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
     {{< /blocks/products/pf/agp/about-file-section >}}
@@ -120,17 +114,18 @@ A DIB (Device Independent Bitmap) file is a raster image file that is similar in
 
 {{< blocks/products/pf/agp/other-supported-section title="其他支持的水印格式" subTitle="使用 Java，可以輕鬆地為不同的格式添加水印，包括。" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/watermark/bmp" name="BMP" description="Bitmap Picture" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/watermark/dicom" name="DICOM" description="Digital Imaging & Communications" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/watermark/emf" name="EMF" description="Enhanced Metafile Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/watermark/gif" name="GIF" description="Graphical Interchange Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/watermark/bmp" name="BMP" description="位圖圖片" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/watermark/ico" name="ICO" description="窗口圖標" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/watermark/dicom" name="DICOM" description="數碼影像與通訊" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/watermark/emf" name="EMF" description="增強的元文件格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/watermark/gif" name="GIF" description="圖形交換格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/watermark/jp2" name="JP2" description="JPEG 2000" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/watermark/j2k" name="J2K" description="Wavelet Compressed Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/watermark/png" name="PNG" description="Portable Network Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/watermark/tiff" name="TIFF" description="Tagged Image Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/watermark/webp" name="WEBP" description="Raster Web Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/watermark/wmf" name="WMF" description="Microsoft Windows Metafile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/watermark/svg" name="SVG" description="Scalable Vector Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/watermark/j2k" name="J2K" description="小波壓縮圖像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/watermark/png" name="PNG" description="便攜式網絡圖形" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/watermark/tiff" name="TIFF" description="標記圖像格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/watermark/webp" name="WEBP" description="光柵網絡圖像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/watermark/wmf" name="WMF" description="微軟視窗元文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/watermark/svg" name="SVG" description="可縮放矢量圖形" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -18,12 +18,7 @@ description: C# konvertavimo iš DJVU į SVGZ pavyzdinis kodas. Naudokite API pa
 {{% blocks/products/pf/agp/content h2="Kaip konvertuoti DJVU į SVGZ naudojant C#" %}}
 
 Norėdami konvertuoti DJVU į SVGZ, naudosime
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta C# platformai. Atviras
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- paketų tvarkyklė, ieškokite
- **Aspose.Imaging**
- ir įdiegti. Taip pat galite naudoti šią komandą iš paketų tvarkyklės konsolės.
+[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta C# platformai. Atviras [NuGet](https://www.nuget.org/packages/aspose.imaging) paketų tvarkyklė, ieškokite **Aspose.Imaging** ir įdiegti. Taip pat galite naudoti šią komandą iš paketų tvarkyklės konsolės.
 
 {{% blocks/products/pf/agp/code-block title="Paketų tvarkytuvės konsolės komanda" offSpacer="true" %}}
 
@@ -91,11 +86,11 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
 DjVu, tariamas kaip „déjà vu“, yra grafinis failo formatas, skirtas nuskaitytiems dokumentams ir knygoms, ypač tiems, kuriuose yra teksto, piešinių, vaizdų ir nuotraukų derinys. Jį sukūrė AT&T Labs. Jame naudojami keli būdai, pvz., teksto ir fono vaizdų atskyrimas vaizdo sluoksniais, laipsniškas įkėlimas, aritmetinis kodavimas ir nuostolingas bitoninių vaizdų glaudinimas. Kadangi DJVU faile gali būti suspaustų, tačiau aukštos kokybės spalvotų vaizdų, nuotraukų, teksto ir piešinių, todėl jį galima išsaugoti mažiau vietos, jis naudojamas žiniatinklyje kaip el. knygos, žinynai, laikraščiai, senoviniai dokumentai ir kt.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
 Failas su plėtiniu .svgz yra suglaudinta Scalable Vector Graphics (.SVG) failo versija. Jis suglaudintas gzip glaudinimu ir jame yra duomenys XML formatu. SVGZ failai palaiko skaidrumą, gradientus, animaciją ir filtrus. SVGZ failai yra mažesni, palyginti su numatytaisiais SVG failais, ir šis sumažintas failo dydis padeda perkelti grafikos failus į internetą. Grafikos dizaineris kuria SVGZ failus naudodamas tokius įrankius kaip „Adobe Illustrator“, „Corel PaintShop Pro“ ir kt. Tačiau SVGZ failus galima sugeneruoti įjungus GZip glaudinimą „Apache“ serveryje, siunčiant vaizdo duomenis.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -129,6 +124,7 @@ Failas su plėtiniu .svgz yra suglaudinta Scalable Vector Graphics (.SVG) failo 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/conversion/djvu-to-tga" name="TGA" description="Targa grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/conversion/djvu-to-svgz" name="SVGZ" description="Suglaudinta Scalable Vector Graphics (.SVG) failo versija." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/conversion/djvu-to-canvas" name="CANVAS" description="HTML5 drobė" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/conversion/djvu-to-ico" name="ICO" description="Windows piktograma" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

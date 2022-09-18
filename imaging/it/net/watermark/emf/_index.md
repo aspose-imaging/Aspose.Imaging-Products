@@ -16,13 +16,7 @@ description: Prova le nostre API di documenti locali per filigranare il file EMF
 
 {{% blocks/products/pf/agp/content h2="Come filigranare il file EMF utilizzando C#" %}}
 
-Per filigranare il file EMF, useremo
-[Aspose.Imaging per .NET](https://products.aspose.com/imaging/net)
- API che è un'API di conversione e manipolazione delle immagini ricca di funzionalità, potente e facile da usare per la piattaforma C#. Aprire
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- gestore pacchetti, cerca
- **Aspose.Imaging**
- e installa. È inoltre possibile utilizzare il seguente comando dalla Console di gestione pacchetti.
+Per filigranare il file EMF, useremo [Aspose.Imaging per .NET](https://products.aspose.com/imaging/net) API che è un'API di conversione e manipolazione delle immagini ricca di funzionalità, potente e facile da usare per la piattaforma C#. Aprire [NuGet](https://www.nuget.org/packages/aspose.imaging) gestore pacchetti, cerca **Aspose.Imaging** e installa. È inoltre possibile utilizzare il seguente comando dalla Console di gestione pacchetti.
 
 {{% blocks/products/pf/agp/code-block title="Comando della console di Package Manager" offSpacer="true" %}}
 
@@ -44,9 +38,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-Hai bisogno del
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- per provare il seguente flusso di lavoro nel tuo ambiente.
+Hai bisogno del [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) per provare il seguente flusso di lavoro nel tuo ambiente.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -101,7 +93,7 @@ Aspose.Imaging API è una soluzione di elaborazione delle immagini per creare, m
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta caricare il file EMF, impostare la filigrana e premere il pulsante \"Aggiungi\"." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Ottieni immediatamente il link per il download del file risultante" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più" >}}
 Il formato metafile avanzato (EMF) memorizza le immagini grafiche indipendentemente dal dispositivo. I metafile di EMF comprendono record di lunghezza variabile in ordine cronologico che possono eseguire il rendering dell'immagine archiviata dopo l'analisi su qualsiasi dispositivo di output. Questi record a lunghezza variabile possono essere definizioni di oggetti racchiusi, comandi per il disegno e proprietà grafiche fondamentali per il rendering accurato dell'immagine. Quando un dispositivo apre un metafile EMF utilizzando il proprio ambiente grafico, le proporzioni, le dimensioni, i colori e altre proprietà grafiche dell'immagine originale rimangono le stesse indipendentemente dalla piattaforma del dispositivo di apertura.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -112,6 +104,7 @@ Il formato metafile avanzato (EMF) memorizza le immagini grafiche indipendenteme
 {{< blocks/products/pf/agp/other-supported-section title="Altri formati di filigrana supportati" subTitle="Usando C#, si possono facilmente filigranare diversi formati tra cui." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/watermark/bmp" name="BMP" description="Immagine bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/watermark/ico" name="ICO" description="Icona di Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/watermark/dib" name="DIB" description="Bitmap indipendente dal dispositivo" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/watermark/dicom" name="DICOM" description="Immagini e comunicazioni digitali" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/net/watermark/gif" name="GIF" description="Formato di scambio grafico" >}}

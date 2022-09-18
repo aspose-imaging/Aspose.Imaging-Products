@@ -18,12 +18,7 @@ description: Mã mẫu cho chuyển đổi CDR sang CANVAS C #. Sử dụng mã 
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi CDR thành CANVAS bằng C#" %}}
 
 Để chuyển đổi CDR thành CANVAS, chúng tôi sẽ sử dụng
-[Aspose.Imaging cho .NET] (https://products.aspose.com/imaging/net)
- API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C #. Mở
- [NuGet] (https://www.nuget.org/packages/aspose.imaging)
- quản lý gói, tìm kiếm
- ** Aspose.Imaging **
- và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển Trình quản lý Gói.
+[Aspose.Imaging cho .NET] (https://products.aspose.com/imaging/net) API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C #. Mở [NuGet] (https://www.nuget.org/packages/aspose.imaging) quản lý gói, tìm kiếm ** Aspose.Imaging ** và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển Trình quản lý Gói.
 
 {{% blocks/products/pf/agp/code-block title = "Lệnh Bảng điều khiển Trình quản lý Gói" offSpacer = "true"%}}
 
@@ -91,7 +86,7 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
 Tệp CDR là tệp hình ảnh bản vẽ vectơ được tạo nguyên bản bằng CorelDRAW để lưu trữ hình ảnh kỹ thuật số được mã hóa và nén. Một tệp bản vẽ như vậy có chứa văn bản, đường thẳng, hình dạng, hình ảnh, màu sắc và các hiệu ứng để biểu diễn vector của nội dung hình ảnh. Các tệp CDR có thể được mở bằng CorelDRAW làm ứng dụng chính và cũng có thể được chuyển đổi sang các định dạng khác như PDF, JPG, PNG, BMP và AI. Nó có thể được sử dụng để biểu diễn các dữ liệu đồ họa khác nhau như tài liệu quảng cáo, báo lá cải, phong bì và bưu thiếp. Bên cạnh CorelDRAW, các sản phẩm Corel khác như Corel Paintshop Pro và CorelDRAW Graphics suite cũng có thể mở các định dạng tệp CDR.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -129,6 +124,7 @@ HTML (Hyper Text Markup Language) là phần mở rộng cho các trang web đư
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/conversion/cdr-to-tga" name="TGA" description="Đồ họa Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/conversion/cdr-to-svgz" name="SVGZ" description="Phiên bản nén của tệp Đồ họa Vectơ có thể mở rộng (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/conversion/cdr-to-canvas" name="CANVAS" description="HTML5 Canvas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/conversion/cdr-to-ico" name="ICO" description="Biểu tượng Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

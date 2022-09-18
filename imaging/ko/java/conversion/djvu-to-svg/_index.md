@@ -18,10 +18,7 @@ description: DJVU에서 SVG로의 Java 변환을 위한 샘플 코드입니다. 
 {{% blocks/products/pf/agp/content h2="Java을 사용하여 DJVU을 SVG로 변환하는 방법" %}}
 
 DJVU을 SVG로 변환하려면 다음을 사용합니다.
-[자바용 Aspose.Imaging](https://products.aspose.com/imaging/java)
-기능이 풍부하고 강력하며 사용하기 쉬운 Java 플랫폼용 이미지 조작 및 변환 API인 API입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.
-[메이븐](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-다음 구성을 pom.xml에 추가하여 Maven 기반 프로젝트 내에 설치합니다.
+[자바용 Aspose.Imaging](https://products.aspose.com/imaging/java) 기능이 풍부하고 강력하며 사용하기쉬운 Java 플랫폼용 이미지 조작 및 변환 API인 API입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.[메이븐(https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 다음 구성을 pom.xml에 추가하여 Maven 기반 프로젝트 내에 설치합니다.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -102,11 +99,11 @@ DJVU을 SVG로 변환하려면 다음을 사용합니다.
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
 "déjà vu"로 발음되는 DjVu는 특히 텍스트, 그림, 이미지 및 사진의 조합이 포함된 스캔 문서 및 책을 위한 그래픽 파일 형식입니다. AT&T Labs에서 개발했습니다. 텍스트 및 배경 이미지의 이미지 레이어 분리, 프로그레시브 로딩, 산술 코딩 및 비트 이미지에 대한 손실 압축과 같은 여러 기술을 사용합니다. DJVU 파일은 압축된 고품질의 컬러 이미지, 사진, 텍스트, 그림 등을 담을 수 있어 적은 공간에 저장할 수 있어 웹상에서 eBook, 매뉴얼, 신문, 고대문서 등으로 활용되고 있습니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
 SVG 파일은 이미지의 모양을 설명하기 위해 XML 기반 텍스트 형식을 사용하는 확장 가능한 벡터 그래픽 파일입니다. Scalable이라는 단어는 SVG가 품질을 잃지 않고 다양한 크기로 확장될 수 있다는 사실을 나타냅니다. 이러한 파일에 대한 텍스트 기반 설명은 파일을 해상도와 무관하게 만듭니다. 확장성을 확보하기 위해 웹사이트를 구축하고 그래픽을 인쇄할 때 가장 많이 사용되는 형식 중 하나입니다. 형식은 2차원 그래픽에만 사용할 수 있습니다. SVG 파일은 Chrome, Internet Explorer, Firefox 및 Safari를 포함한 거의 모든 최신 브라우저에서 보거나 열 수 있습니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -140,6 +137,7 @@ SVG 파일은 이미지의 모양을 설명하기 위해 XML 기반 텍스트 �
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/conversion/djvu-to-tga" name="TGA" description="타르가 그래픽" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/conversion/djvu-to-svgz" name="SVGZ" description="확장 가능한 벡터 그래픽(.SVG) 파일의 압축 버전입니다." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/conversion/djvu-to-canvas" name="CANVAS" description="HTML5 캔버스" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/conversion/djvu-to-ico" name="ICO" description="윈도우 아이콘" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

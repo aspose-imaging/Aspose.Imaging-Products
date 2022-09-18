@@ -17,12 +17,7 @@ description: Experimente nossas APIs de documentos no local para exibir arquivos
 {{% blocks/products/pf/agp/content h2="Como visualizar imagens APNG usando C#" %}}
 
 Para visualizar arquivos APNG, usaremos
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- gerenciador de pacotes, procure por
- **Aspose.Imagem**
- e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
+[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir [NuGet](https://www.nuget.org/packages/aspose.imaging) gerenciador de pacotes, procure por **Aspose.Imagem** e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
 
 {{% blocks/products/pf/agp/code-block title="Comando do Console do Gerenciador de Pacotes" offSpacer="true" %}}
 
@@ -44,9 +39,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-Você precisa do
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- para experimentar o fluxo de trabalho a seguir em seu próprio ambiente.
+Você precisa do [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) para experimentar o fluxo de trabalho a seguir em seu próprio ambiente.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -102,7 +95,7 @@ Aspose.Imaging API é uma solução de processamento de imagens para criar, modi
         checkFreeAppLabel="Confira nossas [demonstrações ao vivo para ver APNG](https://products.aspose.app/imaging/pt/image-view/APNG)">}}
 
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação" >}}
 Um arquivo com extensão .apng (Animated Portable Network Graphics) é um formato gráfico raster e é uma extensão não oficial do Portable Network Graphic (PNG ). É composto por vários quadros (cada um de imagem PNG) que representa uma sequência de animação. Isso fornece uma visualização semelhante a um arquivo GIF. Os arquivos APNG suportam imagens de 24 bits e transparência de 8 bits. APNG é compatível com arquivos GIF não animados. Os arquivos APNG usam a mesma extensão .png e podem ser abertos por aplicativos como Mozilla Firefox, Chrome com suporte a APNG, aplicativos iMessage para iOS 10.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -113,6 +106,7 @@ Um arquivo com extensão .apng (Animated Portable Network Graphics) é um format
 {{< blocks/products/pf/agp/other-supported-section title="Outros formatos de visualização suportados" subTitle="Usando C#, pode-se visualizar facilmente diferentes formatos, incluindo." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/viewer/bmp" name="BMP" description="Imagem de bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/viewer/ico" name="ICO" description="ícone do Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/viewer/jpg" name="JPG" description="Grupo Conjunto de Especialistas em Fotografia" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/viewer/jpeg" name="JPEG" description="Grupo Conjunto de Especialistas em Fotografia" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/viewer/dib" name="DIB" description="Bitmap independente de dispositivo" >}}

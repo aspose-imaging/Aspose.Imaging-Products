@@ -16,11 +16,7 @@ description: Išbandykite mūsų „On-Premise“ dokumentų API, kad sudvejintu
 
 {{% blocks/products/pf/agp/content h2="Kaip sudvejinti EMF failus naudojant Java" %}}
 
-Norėdami sudvejinti EMF failus, naudosime
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java)
-API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo manipuliavimo ir konvertavimo API, skirta Java platformai. Naujausią jos versiją galite atsisiųsti tiesiai iš
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-ir įdiekite jį savo Maven pagrįstame projekte, pridėdami toliau nurodytas konfigūracijas prie pom.xml.
+Norėdami sudvejinti EMF failus, naudosime [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo manipuliavimo ir konvertavimo API, skirta Java platformai. Naujausią jos versiją galite atsisiųsti tiesiai iš [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) ir įdiekite jį savo Maven pagrįstame projekte, pridėdami toliau nurodytas konfigūracijas prie pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -55,9 +51,7 @@ ir įdiekite jį savo Maven pagrįstame projekte, pridėdami toliau nurodytas ko
 
 {{% blocks/products/pf/agp/text %}}
 
-Jums reikia
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java)
- norėdami išbandyti šią darbo eigą savo aplinkoje.
+Jums reikia [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) norėdami išbandyti šią darbo eigą savo aplinkoje.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +102,7 @@ Aspose.Imaging API yra vaizdo apdorojimo sprendimas, skirtas kurti, modifikuoti,
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Tiesiog įkelkite EMF failus ir paspauskite mygtuką \"Binarizuoti dabar\"." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Iškart gaukite gauto failo atsisiuntimo nuorodą" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau" >}}
 Patobulintas metafailo formatas (EMF) išsaugo grafinius vaizdus nepriklausomai nuo įrenginio. EMF metafailus sudaro kintamo ilgio įrašai chronologine tvarka, kurie gali pateikti saugomą vaizdą, išanalizuoti bet kuriame išvesties įrenginyje. Šie kintamo ilgio įrašai gali būti uždarų objektų apibrėžimai, piešimo komandos ir grafinės savybės, būtinos norint tiksliai atvaizduoti vaizdą. Kai įrenginys atidaro EMF metafailą naudodamas savo grafinę aplinką, pradinio vaizdo proporcijos, matmenys, spalvos ir kitos grafinės savybės išlieka tos pačios, neatsižvelgiant į atidarymo įrenginio platformą.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -120,6 +114,7 @@ Patobulintas metafailo formatas (EMF) išsaugo grafinius vaizdus nepriklausomai 
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/binarize/apng" name="APNG" description="Animuota nešiojama tinklo grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/binarize/bmp" name="BMP" description="Bitmap paveikslėlis" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/binarize/ico" name="ICO" description="Windows piktograma" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/binarize/jpg" name="JPG" description="Jungtinė fotografijos ekspertų grupė" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/binarize/jpeg" name="JPEG" description="Jungtinė fotografijos ekspertų grupė" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/binarize/dib" name="DIB" description="Nuo įrenginio nepriklausomas bitmap" >}}

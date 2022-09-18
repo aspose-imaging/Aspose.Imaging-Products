@@ -17,12 +17,7 @@ description: Hãy thử các API tài liệu On-Premise của chúng tôi để 
 {{% blocks/products/pf/agp/content h2="Cách xem hình ảnh JP2 bằng C#" %}}
 
 Để xem các tệp JP2, chúng tôi sẽ sử dụng
-[Aspose.Imaging cho .NET] (https://products.aspose.com/imaging/net)
- API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C #. Mở
- [NuGet] (https://www.nuget.org/packages/aspose.imaging)
- quản lý gói, tìm kiếm
- ** Aspose.Imaging **
- và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển Trình quản lý Gói.
+[Aspose.Imaging cho .NET] (https://products.aspose.com/imaging/net) API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C #. Mở [NuGet] (https://www.nuget.org/packages/aspose.imaging) quản lý gói, tìm kiếm ** Aspose.Imaging ** và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển Trình quản lý Gói.
 
 {{% blocks/products/pf/agp/code-block title = "Lệnh Bảng điều khiển Trình quản lý Gói" offSpacer = "true"%}}
 
@@ -100,7 +95,7 @@ Aspose.Imaging API là một giải pháp xử lý hình ảnh để tạo, sử
         checkFreeAppLabel="Kiểm tra [bản trình diễn trực tiếp để xem JP2](https://products.aspose.app/imaging/vi/image-view/JP2)">}}
 
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm" >}}
 JPEG 2000 (JP2) là một hệ thống mã hóa hình ảnh và tiêu chuẩn nén hình ảnh hiện đại nhất. Được thiết kế, sử dụng công nghệ wavelet JPEG 2000 có thể mã hóa nội dung không mất dữ liệu ở bất kỳ chất lượng nào cùng một lúc. Hơn nữa, không có bất kỳ hình phạt đáng kể nào về hiệu quả mã hóa, JPEG 2000 có khả năng truy cập và giải mã hiệu quả cùng một nội dung thành nhiều độ phân giải và chất lượng khác. Các dòng mã trong JPEG 2000 có khả năng mở rộng đáng kể khi có các vùng quan tâm cung cấp cơ sở cho việc truy cập ngẫu nhiên theo không gian. Sở hữu tới 16384 linh kiện đa dạng với kích thước tính bằng terapixel và độ chính xác có thể cao tới 38 bit / mẫu.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -112,6 +107,7 @@ JPEG 2000 (JP2) là một hệ thống mã hóa hình ảnh và tiêu chuẩn n�
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/viewer/apng" name="APNG" description="Đồ họa mạng di động hoạt hình" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/viewer/bmp" name="BMP" description="Ảnh bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/viewer/ico" name="ICO" description="Biểu tượng Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/viewer/jpg" name="JPG" description="Nhóm chuyên gia nhiếp ảnh chung" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/viewer/jpeg" name="JPEG" description="Nhóm chuyên gia nhiếp ảnh chung" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/viewer/dib" name="DIB" description="Bản đồ bit độc lập với thiết bị" >}}

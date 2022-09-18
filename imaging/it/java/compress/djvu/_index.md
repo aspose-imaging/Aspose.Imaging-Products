@@ -16,11 +16,7 @@ description: Prova le nostre API di documenti locali per comprimere i file DJVU 
 
 {{% blocks/products/pf/agp/content h2="Come comprimere file DJVU utilizzando Java" %}}
 
-Per comprimere i file DJVU, useremo
-[Aspose.Imaging per Java](https://products.aspose.com/imaging/java)
-API che è un'API di conversione e manipolazione delle immagini ricca di funzionalità, potente e facile da usare per la piattaforma Java. Puoi scaricare la sua ultima versione direttamente da
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
+Per comprimere i file DJVU, useremo [Aspose.Imaging per Java](https://products.aspose.com/imaging/java) API che è un'API di conversione e manipolazione delle immagini ricca di funzionalità, potente e facile da usare per la piattaforma Java. Puoi scaricare la sua ultima versione direttamente da [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -55,9 +51,7 @@ e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguent
 
 {{% blocks/products/pf/agp/text %}}
 
-Hai bisogno del
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java)
- per provare il seguente flusso di lavoro nel tuo ambiente.
+Hai bisogno del [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) per provare il seguente flusso di lavoro nel tuo ambiente.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +102,7 @@ Aspose.Imaging API è una soluzione di elaborazione delle immagini per creare, m
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Carica i tuoi file DJVU e premi il pulsante \"Comprimi ora\"." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Ottieni immediatamente il link per il download del file risultante" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più" >}}
 DjVu, pronunciato come "déjà vu", è un formato di file grafico destinato a documenti e libri scansionati, in particolare quelli che contengono la combinazione di testo, disegni, immagini e fotografie. È stato sviluppato da AT&T Labs. Utilizza più tecniche come la separazione del livello dell'immagine del testo e delle immagini di sfondo, il caricamento progressivo, la codifica aritmetica e la compressione con perdita di dati per le immagini bitonali. Poiché il file DJVU può contenere immagini a colori, fotografie, testo e disegni compressi ma di alta qualità e può essere salvato in meno spazio, quindi viene utilizzato sul Web come eBook, manuali, giornali, documenti antichi, ecc.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -120,6 +114,7 @@ DjVu, pronunciato come "déjà vu", è un formato di file grafico destinato a do
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/compress/apng" name="APNG" description="Grafica di rete portatile animata" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/compress/bmp" name="BMP" description="Immagine bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/compress/ico" name="ICO" description="Icona di Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/compress/jpg" name="JPG" description="Gruppo congiunto di esperti fotografici" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/compress/jpeg" name="JPEG" description="Gruppo congiunto di esperti fotografici" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/compress/dib" name="DIB" description="Bitmap indipendente dal dispositivo" >}}

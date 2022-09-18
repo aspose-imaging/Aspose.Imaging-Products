@@ -18,10 +18,7 @@ description: Пример кода для преобразования CMX в EM
 {{% blocks/products/pf/agp/content h2="Как преобразовать CMX в EMF с помощью Java" %}}
 
 Чтобы преобразовать CMX в EMF, мы будем использовать
-[Aspose.Imaging для Java](https://products.aspose.com/imaging/java)
-API, который представляет собой многофункциональный, мощный и простой в использовании API для обработки и преобразования изображений для платформы Java. Вы можете скачать его последнюю версию прямо с
-[Maven] (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-и установите его в своем проекте на основе Maven, добавив следующие конфигурации в файл pom.xml.
+[Aspose.Imaging для Java](https://products.aspose.com/imaging/java) API, который представляет собой многофункциональный, мощный и простой в использовании API для обработки и преобразования изображений для платформы Java. Вы можете скачать его последнюю версию прямо с [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) и установите его в своем проекте на основе Maven, добавив следующие конфигурации в файл pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Репозиторий" offSpacer="true" %}}
 
@@ -102,11 +99,11 @@ API, который представляет собой многофункцио
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
 Файлы с расширением CMX представляют собой формат файла изображения Corel Exchange, который используется в качестве представления приложениями CorelSuite. Он содержит данные изображения в виде векторной графики, а также метаданные, описывающие изображение. Файлы CMX можно открывать с помощью CorelDraw, Corel Presentations, Paint Shop Pro и некоторых версий Adobe Illustrator.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
 Расширенный формат метафайла (EMF) хранит графические изображения независимо от устройства. Метафайлы EMF состоят из записей переменной длины в хронологическом порядке, которые могут отображать сохраненное изображение после анализа на любом устройстве вывода. Эти записи переменной длины могут быть определениями вложенных объектов, команд для рисования и графических свойств, важных для точного воспроизведения изображения. Когда устройство открывает метафайл EMF, используя собственную графическую среду, пропорции, размеры, цвета и другие графические свойства исходного изображения остаются неизменными независимо от платформы открывающего устройства.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -140,6 +137,7 @@ API, который представляет собой многофункцио
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/conversion/cmx-to-tga" name="TGA" description="Тарга Графика" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/conversion/cmx-to-svgz" name="SVGZ" description="Сжатая версия файла масштабируемой векторной графики (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/conversion/cmx-to-canvas" name="CANVAS" description="Холст HTML5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/conversion/cmx-to-ico" name="ICO" description="Значок Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

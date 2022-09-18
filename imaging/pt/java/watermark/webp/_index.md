@@ -16,11 +16,7 @@ description: Exemplo de código de conversão Java do formato WEBP para o arquiv
 
 {{% blocks/products/pf/agp/content h2="Como marcar o arquivo WEBP com marca d'água usando Java" %}}
 
-Para marcar o arquivo WEBP com marca d'água, usaremos
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java)
-API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para plataforma Java. Você pode baixar sua versão mais recente diretamente de
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-e instale-o em seu projeto baseado em Maven adicionando as seguintes configurações ao pom.xml.
+Para marcar o arquivo WEBP com marca d'água, usaremos [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para plataforma Java. Você pode baixar sua versão mais recente diretamente de [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) e instale-o em seu projeto baseado em Maven adicionando as seguintes configurações ao pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -55,9 +51,7 @@ e instale-o em seu projeto baseado em Maven adicionando as seguintes configuraç
 
 {{% blocks/products/pf/agp/text %}}
 
-Você precisa do
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java)
- para experimentar o fluxo de trabalho a seguir em seu próprio ambiente.
+Você precisa do [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) para experimentar o fluxo de trabalho a seguir em seu próprio ambiente.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -110,7 +104,7 @@ Aspose.Imaging API é uma solução de processamento de imagens para criar, modi
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta enviar seu arquivo WEBP, definir sua marca d'água e clicar no botão \"Adicionar\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Obtenha instantaneamente o link de download para o arquivo resultante" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação" >}}
 O WebP, introduzido pelo Google, é um formato de arquivo de imagem da Web raster moderno baseado em compactação sem perdas e com perdas. Ele fornece a mesma qualidade de imagem enquanto reduz consideravelmente o tamanho da imagem. Como a maioria das páginas da web usa imagens como representação efetiva de dados, o uso de imagens WebP em páginas da web resulta em carregamento mais rápido das páginas da web. De acordo com o Google, as imagens sem perdas do WebP são 26% menores em tamanho em comparação com os PNGs, enquanto as imagens com perdas do WebP são 25-34% menores do que as imagens JPEG comparáveis. As imagens são comparadas com base no índice de semelhança estrutural (SSIM) entre o WebP e outros formatos de arquivo de imagem. WebP é um projeto irmão do formato de contêiner multimídia WebM.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -121,6 +115,7 @@ O WebP, introduzido pelo Google, é um formato de arquivo de imagem da Web raste
 {{< blocks/products/pf/agp/other-supported-section title="Outros formatos de marca d'água compatíveis" subTitle="Usando Java, pode-se facilmente marcar diferentes formatos, incluindo." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/watermark/bmp" name="BMP" description="Imagem de bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/watermark/ico" name="ICO" description="ícone do Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/watermark/dib" name="DIB" description="Bitmap independente de dispositivo" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/watermark/dicom" name="DICOM" description="Imagens e comunicações digitais" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/watermark/emf" name="EMF" description="Formato de metarquivo aprimorado" >}}

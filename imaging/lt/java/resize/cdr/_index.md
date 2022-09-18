@@ -16,11 +16,7 @@ description: Išbandykite „On-Premise“ dokumentų API, kad sujungtumėte CDR
 
 {{% blocks/products/pf/agp/content h2="Kaip pakeisti CDR failų dydį naudojant Java" %}}
 
-Norėdami pakeisti CDR failų dydį, naudosime
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java)
-API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo manipuliavimo ir konvertavimo API, skirta Java platformai. Naujausią jos versiją galite atsisiųsti tiesiai iš
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-ir įdiekite jį savo Maven pagrįstame projekte, pridėdami toliau nurodytas konfigūracijas prie pom.xml.
+Norėdami pakeisti CDR failų dydį, naudosime [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo manipuliavimo ir konvertavimo API, skirta Java platformai. Naujausią jos versiją galite atsisiųsti tiesiai iš [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) ir įdiekite jį savo Maven pagrįstame projekte, pridėdami toliau nurodytas konfigūracijas prie pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -55,9 +51,7 @@ ir įdiekite jį savo Maven pagrįstame projekte, pridėdami toliau nurodytas ko
 
 {{% blocks/products/pf/agp/text %}}
 
-Jums reikia
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java)
- norėdami išbandyti šią darbo eigą savo aplinkoje.
+Jums reikia [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) norėdami išbandyti šią darbo eigą savo aplinkoje.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +102,7 @@ Aspose.Imaging API yra vaizdo apdorojimo sprendimas, skirtas kurti, modifikuoti,
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Tiesiog įkelkite CDR failus ir paspauskite mygtuką \"Keisti dydį\"." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Iškart gaukite gauto failo atsisiuntimo nuorodą" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau" >}}
 CDR failas yra vektorinio piešimo vaizdo failas, sukurtas naudojant CorelDRAW, kad būtų saugomas užkoduotas ir suspaustas skaitmeninis vaizdas. Tokiame piešimo faile yra tekstas, linijos, formos, vaizdai, spalvos ir efektai, skirti vaizdo turinio vektoriniam atvaizdavimui. CDR failus galima atidaryti naudojant CorelDRAW kaip pagrindinę programą ir konvertuoti į kitus formatus, tokius kaip PDF, JPG, PNG, BMP ir AI. Jis gali būti naudojamas įvairiems grafiniams duomenims, pvz., brošiūroms, bulvariniams leidiniams, vokams ir atvirukams, vaizduoti. Be CorelDRAW, kiti Corel produktai, tokie kaip Corel Paintshop Pro ir CorelDRAW Graphics Suite, taip pat gali atidaryti CDR failų formatus.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -120,6 +114,7 @@ CDR failas yra vektorinio piešimo vaizdo failas, sukurtas naudojant CorelDRAW, 
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/resize/apng" name="APNG" description="Animuota nešiojama tinklo grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/resize/bmp" name="BMP" description="Bitmap paveikslėlis" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/resize/ico" name="ICO" description="Windows piktograma" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/resize/jpg" name="JPG" description="Jungtinė fotografijos ekspertų grupė" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/resize/cmx" name="CMX" description="Corel Exchange vaizdas" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/resize/dib" name="DIB" description="Nuo įrenginio nepriklausomas bitmap" >}}

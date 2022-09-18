@@ -16,11 +16,7 @@ description: Попробуйте наши локальные API-интерфе
 
 {{% blocks/products/pf/agp/content h2="Как удалить фон в файлах CDR с помощью Java" %}}
 
-Чтобы удалить фон в файлах CDR, мы будем использовать
-[Aspose.Imaging для Java](https://products.aspose.com/imaging/java)
-API, который представляет собой многофункциональный, мощный и простой в использовании API для обработки и преобразования изображений для платформы Java. Вы можете скачать его последнюю версию прямо с
-[Maven] (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-и установите его в своем проекте на основе Maven, добавив следующие конфигурации в файл pom.xml.
+Чтобы удалить фон в файлах CDR, мы будем использовать [Aspose.Imaging для Java](https://products.aspose.com/imaging/java) API, который представляет собой многофункциональный, мощный и простой в использовании API для обработки и преобразования изображений для платформы Java. Вы можете скачать его последнюю версию прямо с [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) и установите его в своем проекте на основе Maven, добавив следующие конфигурации в файл pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Репозиторий" offSpacer="true" %}}
 
@@ -55,9 +51,7 @@ API, который представляет собой многофункцио
 
 {{% blocks/products/pf/agp/text %}}
 
-Вам нужно
- [aspose-imaging-version-jdk16.jar] (https://downloads.aspose.com/imaging/java)
- чтобы попробовать следующий рабочий процесс в вашей собственной среде.
+Вам нужно [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java), чтобы попробовать следующий рабочий процесс в вашей собственной среде.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +102,7 @@ Aspose.Imaging API — это решение для обработки изоб�
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Просто загрузите файлы CDR и нажмите кнопку «Удалить фон сейчас»." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Мгновенно получить ссылку для скачивания результирующего файла" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее" >}}
 Файл CDR — это файл изображения векторного рисунка, изначально созданный с помощью CorelDRAW для хранения закодированного и сжатого цифрового изображения. Такой файл чертежа содержит текст, линии, формы, изображения, цвета и эффекты для векторного представления содержимого изображения. Файлы CDR можно открывать в CorelDRAW в качестве основного приложения, а также преобразовывать в другие форматы, такие как PDF, JPG, PNG, BMP и AI. Его можно использовать для представления различных графических данных, таких как брошюры, таблоиды, конверты и открытки. Помимо CorelDRAW, другие продукты Corel, такие как Corel Paintshop Pro и CorelDRAW Graphics Suite, также могут открывать форматы файлов CDR.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -120,6 +114,7 @@ Aspose.Imaging API — это решение для обработки изоб�
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/remove-background/apng" name="APNG" description="Анимированная портативная сетевая графика" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/remove-background/bmp" name="BMP" description="Растровое изображение" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/remove-background/ico" name="ICO" description="Значок Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/remove-background/jpg" name="JPG" description="Объединенная группа экспертов по фотографии" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/remove-background/dib" name="DIB" description="Независимое от устройства растровое изображение" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/remove-background/dicom" name="DICOM" description="Цифровая визуализация и связь" >}}

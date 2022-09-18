@@ -18,10 +18,7 @@ description: „Java“ konvertavimo DICOM į CANVAS pavyzdys. Naudokite API pav
 {{% blocks/products/pf/agp/content h2="Kaip konvertuoti DICOM į CANVAS naudojant Java" %}}
 
 Norėdami konvertuoti DICOM į CANVAS, naudosime
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java)
-API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo manipuliavimo ir konvertavimo API, skirta Java platformai. Naujausią jos versiją galite atsisiųsti tiesiai iš
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-ir įdiekite jį savo Maven pagrįstame projekte, pridėdami toliau nurodytas konfigūracijas prie pom.xml.
+[Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo manipuliavimo ir konvertavimo API, skirta Java platformai. Naujausią jos versiją galite atsisiųsti tiesiai iš [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) ir įdiekite jį savo Maven pagrįstame projekte, pridėdami toliau nurodytas konfigūracijas prie pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -102,7 +99,7 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
 DICOM yra skaitmeninio vaizdo gavimo ir ryšių medicinos akronimas ir yra susijęs su medicinos informatikos sritimi. DICOM yra failo formato apibrėžimo ir tinklo ryšio protokolo derinys. DICOM naudoja .DCM plėtinį. .DCM yra dviem skirtingais formatais, ty 1.x formatu ir 2.x formatu. DCM formatas 1.x taip pat galimas dviem versijomis: normalia ir išplėstine. DICOM naudojamas įvairių tiekėjų medicininiams vaizdo gavimo įrenginiams, pvz., spausdintuvams, serveriams, skaitytuvams ir tt, integruoti. Be to, jame yra kiekvieno paciento identifikavimo duomenys, siekiant unikalumo. DICOM failus galima dalytis tarp dviejų šalių, jei jos gali priimti vaizdo duomenis DICOM formatu. DICOM komunikacijos dalis yra taikomojo lygmens protokolas ir naudoja TCP/IP ryšį tarp objektų. DICOM žiniatinklio paslaugoms naudojami HTTP ir HTTPS protokolai. Žiniatinklio paslaugų palaikomos versijos yra 1.0, 1.1, 2 arba naujesnės.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -139,6 +136,7 @@ HTML (Hyper Text Markup Language) yra tinklalapių plėtinys, sukurtas rodyti na
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/conversion/dicom-to-tga" name="TGA" description="Targa grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/conversion/dicom-to-svgz" name="SVGZ" description="Suglaudinta Scalable Vector Graphics (.SVG) failo versija." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/conversion/dicom-to-canvas" name="CANVAS" description="HTML5 drobė" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/conversion/dicom-to-ico" name="ICO" description="Windows piktograma" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

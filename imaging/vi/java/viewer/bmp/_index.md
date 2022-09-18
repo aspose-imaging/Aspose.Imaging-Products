@@ -17,10 +17,7 @@ description: Hãy thử các API tài liệu On-Premise của chúng tôi để 
 {{% blocks/products/pf/agp/content h2="Cách xem hình ảnh BMP bằng Java" %}}
 
 Để xem các tệp BMP, chúng tôi sẽ sử dụng
-[Aspose.Imaging cho Java] (https://products.aspose.com/imaging/java)
-API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng Java. Bạn có thể tải xuống phiên bản mới nhất của nó trực tiếp từ
-[Maven] (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-và cài đặt nó trong dự án dựa trên Maven của bạn bằng cách thêm các cấu hình sau vào pom.xml.
+[Aspose.Imaging cho Java] (https://products.aspose.com/imaging/java) API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng Java. Bạn có thể tải xuống phiên bản mới nhất của nó trực tiếp từ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) và cài đặt nó trong dự án dựa trên Maven của bạn bằng cách thêm các cấu hình sau vào pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Kho" offSpacer="true"%}}
 
@@ -55,9 +52,7 @@ và cài đặt nó trong dự án dựa trên Maven của bạn bằng cách th
 
 {{% blocks/products/pf/agp/text %}}
 
-Bạn cần
- [aspose-images-version-jdk16.jar] (https://downloads.aspose.com/imaging/java)
- để thử quy trình làm việc sau trong môi trường của riêng bạn.
+Bạn cần [aspose-images-version-jdk16.jar] (https://downloads.aspose.com/imaging/java) để thử quy trình làm việc sau trong môi trường của riêng bạn.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -111,7 +106,7 @@ Aspose.Imaging API là một giải pháp xử lý hình ảnh để tạo, sử
         checkFreeAppLabel="Kiểm tra [bản trình diễn trực tiếp để xem BMP](https://products.aspose.app/imaging/vi/image-view/BMP)">}}
 
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm" >}}
 Các tệp có phần mở rộng .BMP đại diện cho các tệp Hình ảnh Bitmap được sử dụng để lưu trữ hình ảnh kỹ thuật số bitmap. Những hình ảnh này độc lập với bộ điều hợp đồ họa và còn được gọi là định dạng tệp bitmap (DIB) độc lập với thiết bị. Tính độc lập này phục vụ mục đích mở tệp trên nhiều nền tảng như Microsoft Windows và Mac. Định dạng tệp BMP có thể lưu trữ dữ liệu dưới dạng hình ảnh kỹ thuật số hai chiều ở cả định dạng đơn sắc và màu với nhiều độ sâu màu khác nhau.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -122,6 +117,7 @@ Các tệp có phần mở rộng .BMP đại diện cho các tệp Hình ảnh 
 {{< blocks/products/pf/agp/other-supported-section title="Các định dạng xem được hỗ trợ khác" subTitle="Sử dụng Java, người ta có thể dễ dàng Xem các định dạng khác nhau bao gồm." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/viewer/apng" name="APNG" description="Đồ họa mạng di động hoạt hình" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/viewer/ico" name="ICO" description="Biểu tượng Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/viewer/jpg" name="JPG" description="Nhóm chuyên gia nhiếp ảnh chung" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/viewer/jpeg" name="JPEG" description="Nhóm chuyên gia nhiếp ảnh chung" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/viewer/dib" name="DIB" description="Bản đồ bit độc lập với thiết bị" >}}

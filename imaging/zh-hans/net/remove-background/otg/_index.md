@@ -16,13 +16,7 @@ description: 尝试使用我们的本地文档 API 来删除 .NET Framework、.N
 
 {{% blocks/products/pf/agp/content h2="如何使用 C# 删除 OTG 文件中的背景" %}}
 
-为了去除 OTG 文件中的背景，我们将使用
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- API 是一个功能丰富、功能强大且易于使用的 C# 平台图像处理和转换 API。打开
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- 包管理器，搜索
- **Aspose.Imaging**
- 并安装。您还可以从包管理器控制台使用以下命令。
+为了去除 OTG 文件中的背景，我们将使用 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一个功能丰富、功能强大 易于使用的 C# 平台图像处理和转换 API。打开 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 并安装。您还可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 
@@ -42,9 +36,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-你需要
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- 在您自己的环境中尝试以下工作流程。
+你需要 [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) 在您自己的环境中尝试以下工作流程。
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -70,7 +62,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/code-block title="删除 OTG 图像中的背景 - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "07bd18a1af2633c99a708341d84b5ad2" "remove-change-background-generic-examples.cs" >}}
+{{< gist "aspose-com-gists" "c28d7d7f7dff39444751b5724d5ba14a" "remove-change-background-generic-examples.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -97,7 +89,7 @@ Aspose.Imaging API 是一种图像处理解决方案，用于在应用程序中�
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="只需上传您的 OTG 文件并点击“立即删除背景”按钮" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="立即获取生成文件的下载链接" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多" >}}
 OTG 文件是使用遵循 OASIS Office Applications 1.0 规范的 OpenDocument 标准创建的绘图模板。它表示矢量图像的绘图元素的默认组织，可用于进一步增强文件的内容。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -109,6 +101,7 @@ OTG 文件是使用遵循 OASIS Office Applications 1.0 规范的 OpenDocument �
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/remove-background/apng" name="APNG" description="动画便携式网络图形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/remove-background/bmp" name="BMP" description="位图图片" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/remove-background/ico" name="ICO" description="窗口图标" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/remove-background/jpg" name="JPG" description="联合摄影专家组" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/remove-background/dib" name="DIB" description="设备无关位图" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/remove-background/dicom" name="DICOM" description="数码影像与通讯" >}}

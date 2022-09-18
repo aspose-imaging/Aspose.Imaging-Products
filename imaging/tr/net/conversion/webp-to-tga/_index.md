@@ -18,12 +18,7 @@ description: WEBP - TGA C# dönüşümü için örnek kod. VB.NET, Asp.NET veya 
 {{% blocks/products/pf/agp/content h2="C# Kullanarak WEBP'i TGA'ye Dönüştürme" %}}
 
 WEBP'i TGA'ye dönüştürmek için kullanacağız
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. Açık
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- paket yöneticisi, ara
- **Aspose.Görüntüleme**
- ve yükleyin. Paket Yöneticisi Konsolundan aşağıdaki komutu da kullanabilirsiniz.
+[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. Açık [NuGet](https://www.nuget.org/packages/aspose.imaging) paket yöneticisi, ara **Aspose.Görüntüleme** ve yükleyin. Paket Yöneticisi Konsolundan aşağıdaki komutu da kullanabilirsiniz.
 
 {{%blocks/products/pf/agp/code-block title="Paket Yöneticisi Konsol Komutu" offSpacer="true" %}}
 
@@ -91,11 +86,11 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
 Google tarafından tanıtılan WebP, kayıpsız ve kayıplı sıkıştırmaya dayanan modern bir raster web görüntü dosyası biçimidir. Görüntü boyutunu önemli ölçüde azaltırken aynı görüntü kalitesini sağlar. Web sayfalarının çoğu, verileri etkin bir şekilde temsil etmek için görüntüleri kullandığından, WebP görüntülerinin web sayfalarında kullanılması web sayfalarının daha hızlı yüklenmesine neden olur. Google'a göre, WebP kayıpsız görseller PNG'lere kıyasla %26 daha küçükken, WebP kayıplı görseller karşılaştırılabilir JPEG görsellerinden %25-34 daha küçüktür. Görüntüler, WebP ve diğer görüntü dosyası biçimleri arasındaki Yapısal Benzerlik (SSIM) endeksine dayalı olarak karşılaştırılır. WebP, WebM multimedya konteyner formatının kardeş projesidir.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
 Genellikle TARGA olarak adlandırılan Truevision TGA, Truevision Inc. (şimdi Avid Technology'nin bir parçası) tarafından oluşturulan bir raster grafik dosyası formatıdır. IBM uyumlu PC'ler için Highcolor/truecolor ekranı destekleyen ilk grafik kartları olan TARGA ve VISTA kartlarının yerel formatıydı.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -128,6 +123,7 @@ Genellikle TARGA olarak adlandırılan Truevision TGA, Truevision Inc. (şimdi A
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/conversion/webp-to-tga" name="TGA" description="Targa Grafiği" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/conversion/webp-to-svgz" name="SVGZ" description="Ölçeklenebilir Vektör Grafikleri (.SVG) dosyasının sıkıştırılmış sürümü." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/conversion/webp-to-canvas" name="CANVAS" description="HTML5 Tuval" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/conversion/webp-to-ico" name="ICO" description="Windows simgesi" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -16,11 +16,7 @@ description: Przykładowy kod konwersji Java dla formatu WMF do pliku . Użyj te
 
 {{% blocks/products/pf/agp/content h2="Jak oznaczyć plik WMF znakiem wodnym za pomocą Java" %}}
 
-Aby oznaczyć plik WMF znakiem wodnym, użyjemy
-[Aspose.Imaging dla Javy](https://products.aspose.com/imaging/java)
-API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do obróbki i konwersji obrazów dla platformy Java. Możesz pobrać jego najnowszą wersję bezpośrednio z
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-i zainstaluj go w swoim projekcie opartym na Maven, dodając następujące konfiguracje do pom.xml.
+Aby oznaczyć plik WMF znakiem wodnym, użyjemy [Aspose.Imaging dla Javy](https://products.aspose.com/imaging/java) API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do obróbki i konwersji obrazów dla platformy Java. Możesz pobrać jego najnowszą wersję bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) i zainstaluj go w swoim projekcie opartym na Maven, dodając następujące konfiguracje do pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repozytorium" offSpacer="true" %}}
 
@@ -55,9 +51,7 @@ i zainstaluj go w swoim projekcie opartym na Maven, dodając następujące konfi
 
 {{% blocks/products/pf/agp/text %}}
 
-Potrzebujesz
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java)
- aby wypróbować następujący przepływ pracy we własnym środowisku.
+Potrzebujesz [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) aby wypróbować następujący przepływ pracy we własnym środowisku.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -110,7 +104,7 @@ Aspose.Imaging API to rozwiązanie do przetwarzania obrazów do tworzenia, modyf
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Po prostu prześlij plik WMF, ustaw znak wodny i naciśnij przycisk „Dodaj”" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Natychmiast uzyskaj link do pobrania pliku wynikowego" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej" >}}
 Pliki z rozszerzeniem WMF reprezentują Microsoft Windows Metafile (WMF) do przechowywania danych obrazów wektorowych i bitmapowych. Aby być bardziej dokładnym, WMF należy do kategorii formatów plików wektorowych w formatach plików graficznych, które są niezależne od urządzeń. Windows Graphical Device Interface (GDI) używa funkcji zapisanych w pliku WMF do wyświetlania obrazu na ekranie. Bardziej rozszerzona wersja WMF, znana jako Enhanced Meta Files (EMF), została opublikowana później, dzięki czemu format jest bogatszy w funkcje. Praktycznie WMF są podobne do SVG.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -121,6 +115,7 @@ Pliki z rozszerzeniem WMF reprezentują Microsoft Windows Metafile (WMF) do prze
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane formaty znaków wodnych" subTitle="Używając Java, można łatwo znakować różne formaty, w tym." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/watermark/bmp" name="BMP" description="Obraz bitmapowy" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/watermark/ico" name="ICO" description="Ikona Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/watermark/dib" name="DIB" description="Mapa bitowa niezależna od urządzenia" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/watermark/dicom" name="DICOM" description="Obrazowanie cyfrowe i komunikacja" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/watermark/emf" name="EMF" description="Ulepszony format metapliku" >}}

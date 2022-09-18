@@ -17,12 +17,7 @@ description: Probeer onze On-Premise document-API's om ODG-bestanden te bekijken
 {{% blocks/products/pf/agp/content h2="ODG afbeeldingen bekijken met C#" %}}
 
 Om ODG-bestanden te bekijken, gebruiken we
-[Aspose.Imaging voor .NET](https://products.aspose.com/imaging/net)
- API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het C#-platform. Open
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- pakketbeheerder, zoek naar
- **Aspose.Imaging**
- en installeren. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
+[Aspose.Imaging voor .NET](https://products.aspose.com/imaging/net) API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het C#-platform. Open [NuGet](https://www.nuget.org/packages/aspose.imaging) pakketbeheerder, zoek naar **Aspose.Imaging** en installeren. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
@@ -42,9 +37,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-Je hebt de nodig
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- om de volgende workflow in uw eigen omgeving te proberen.
+Je hebt de nodig [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) om de volgende workflow in uw eigen omgeving te proberen.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -100,7 +93,7 @@ Aspose.Imaging API is een beeldverwerkingsoplossing voor het maken, wijzigen, te
         checkFreeAppLabel="Bekijk onze [live demo's om ODG](https://products.aspose.app/imaging/nl/image-view/ODG)">}}
 
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder" >}}
 Het ODG-bestandsformaat wordt gebruikt door Apache OpenOffice's Draw-toepassing om tekenelementen als vectorafbeelding op te slaan. Het volgt de op XML gebaseerde specificaties voor bestandsindelingen zoals uiteengezet door Advancement of Structural Information Standards (OASIS). ODG geeft tekeningen weer als vectorafbeeldingen met punten, lijnen en krommen. Naast OpenOffice bieden LibreOffice en andere toepassingen ook ondersteuning voor het werken met het ODG-bestandsformaat. Andere formaten die door OpenOffice worden ondersteund, zijn bijvoorbeeld ODT, ODF, ODP en ODS.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -112,6 +105,7 @@ Het ODG-bestandsformaat wordt gebruikt door Apache OpenOffice's Draw-toepassing 
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/viewer/apng" name="APNG" description="Geanimeerde draagbare netwerkgraphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/viewer/bmp" name="BMP" description="Bitmapafbeelding" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/viewer/ico" name="ICO" description="Windows-pictogram" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/viewer/jpg" name="JPG" description="Joint Photographic Experts Group" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/viewer/jpeg" name="JPEG" description="Joint Photographic Experts Group" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/viewer/dib" name="DIB" description="Apparaatonafhankelijke bitmap" >}}

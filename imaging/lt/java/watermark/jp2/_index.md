@@ -16,11 +16,7 @@ description: Pavyzdinis Java konvertavimo kodas iš JP2 formato į  failą. Naud
 
 {{% blocks/products/pf/agp/content h2="Kaip pažymėti JP2 failą vandenženkliu naudojant Java" %}}
 
-Norėdami pažymėti JP2 failą vandenženkliu, naudosime
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java)
-API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo manipuliavimo ir konvertavimo API, skirta Java platformai. Naujausią jos versiją galite atsisiųsti tiesiai iš
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-ir įdiekite jį savo Maven pagrįstame projekte, pridėdami toliau nurodytas konfigūracijas prie pom.xml.
+Norėdami pažymėti JP2 failą vandenženkliu, naudosime [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo manipuliavimo ir konvertavimo API, skirta Java platformai. Naujausią jos versiją galite atsisiųsti tiesiai iš [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) ir įdiekite jį savo Maven pagrįstame projekte, pridėdami toliau nurodytas konfigūracijas prie pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -55,9 +51,7 @@ ir įdiekite jį savo Maven pagrįstame projekte, pridėdami toliau nurodytas ko
 
 {{% blocks/products/pf/agp/text %}}
 
-Jums reikia
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java)
- norėdami išbandyti šią darbo eigą savo aplinkoje.
+Jums reikia [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) norėdami išbandyti šią darbo eigą savo aplinkoje.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -110,7 +104,7 @@ Aspose.Imaging API yra vaizdo apdorojimo sprendimas, skirtas kurti, modifikuoti,
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Tiesiog įkelkite JP2 failą, nustatykite vandens ženklą ir paspauskite mygtuką \"Pridėti\"." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Iškart gaukite gauto failo atsisiuntimo nuorodą" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau" >}}
 JPEG 2000 (JP2) yra vaizdo kodavimo sistema ir pažangiausias vaizdo glaudinimo standartas. Sukurtas, naudojant banglečių technologiją, JPEG 2000 gali iš karto užkoduoti bet kokios kokybės turinį be nuostolių. Be to, be jokios didelės nuobaudos dėl kodavimo efektyvumo, JPEG 2000 turi galimybę pasiekti ir efektyviai iššifruoti tą patį turinį į daugybę kitų skiriamųjų gebų ir savybių. JPEG 2000 kodo srautai yra labai keičiami, nes yra dominančių regionų, kurie suteikia galimybę atsitiktinei erdvinei prieigai. Turi iki 16384 įvairių komponentų, kurių matmenys yra terapikseliais, o tikslumas gali siekti 38 bitus/pavyzdį.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -121,6 +115,7 @@ JPEG 2000 (JP2) yra vaizdo kodavimo sistema ir pažangiausias vaizdo glaudinimo 
 {{< blocks/products/pf/agp/other-supported-section title="Kiti palaikomi vandens ženklų formatai" subTitle="Naudodami Java galite lengvai pažymėti įvairius formatus, įskaitant." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/watermark/bmp" name="BMP" description="Bitmap paveikslėlis" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/watermark/ico" name="ICO" description="Windows piktograma" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/watermark/dib" name="DIB" description="Nuo įrenginio nepriklausomas bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/watermark/dicom" name="DICOM" description="Skaitmeninis vaizdas ir ryšiai" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/watermark/emf" name="EMF" description="Patobulintas metafailo formatas" >}}

@@ -16,11 +16,7 @@ description: Essayez nos API de document sur site pour fusionner des fichiers WM
 
 {{% blocks/products/pf/agp/content h2="Comment fusionner des fichiers WMF à l'aide de Java" %}}
 
-Afin de fusionner les fichiers WMF, nous utiliserons
-[Aspose.Imaging pour Java](https://products.aspose.com/imaging/java)
-API qui est une API de manipulation et de conversion d'images riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme Java. Vous pouvez télécharger sa dernière version directement depuis
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au fichier pom.xml.
+Afin de fusionner les fichiers WMF, nous utiliserons [Aspose.Imaging pour Java](https://products.aspose.com/imaging/java) API qui est une API de manipulation et de conversion d'images riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme Java. Vous pouvez télécharger sa dernière version directement depuis [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au fichier pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -55,9 +51,7 @@ et installez-le dans votre projet basé sur Maven en ajoutant les configurations
 
 {{% blocks/products/pf/agp/text %}}
 
-Vous avez besoin du
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java)
- pour essayer le workflow suivant dans votre propre environnement.
+Vous avez besoin du [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) pour essayer le workflow suivant dans votre propre environnement.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +102,7 @@ Aspose.Imaging API est une solution de traitement d'images pour créer, modifier
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Téléchargez simplement vos fichiers WMF et cliquez sur le bouton \"Fusionner maintenant\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Obtenez instantanément le lien de téléchargement du fichier résultant" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite" >}}
 Les fichiers avec l'extension WMF représentent le métafichier Microsoft Windows (WMF) pour stocker des données d'images vectorielles et bitmap. Pour être plus précis, WMF appartient à la catégorie des formats de fichiers vectoriels des formats de fichiers graphiques indépendants de l'appareil. L'interface de périphérique graphique Windows (GDI) utilise les fonctions stockées dans un fichier WMF pour afficher une image à l'écran. Une version plus améliorée de WMF, connue sous le nom de Enhanced Meta Files (EMF), a été publiée plus tard, ce qui rend le format plus riche en fonctionnalités. Pratiquement, WMF est similaire à SVG.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -120,6 +114,7 @@ Les fichiers avec l'extension WMF représentent le métafichier Microsoft Window
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/merge/apng" name="APNG" description="Graphiques de réseau portables animés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/merge/bmp" name="BMP" description="Image bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/merge/ico" name="ICO" description="Icône Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/merge/jpg" name="JPG" description="Groupe mixte d'experts photographiques" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/merge/cdr" name="CDR" description="Image de dessin vectoriel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/merge/cmx" name="CMX" description="Image d'échange Corel" >}}

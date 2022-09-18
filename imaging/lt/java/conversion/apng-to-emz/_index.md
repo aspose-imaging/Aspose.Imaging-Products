@@ -18,10 +18,7 @@ description: „Java“ konvertavimo APNG į EMZ pavyzdys. Naudokite API pavyzdi
 {{% blocks/products/pf/agp/content h2="Kaip konvertuoti APNG į EMZ naudojant Java" %}}
 
 Norėdami konvertuoti APNG į EMZ, naudosime
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java)
-API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo manipuliavimo ir konvertavimo API, skirta Java platformai. Naujausią jos versiją galite atsisiųsti tiesiai iš
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-ir įdiekite jį savo Maven pagrįstame projekte, pridėdami toliau nurodytas konfigūracijas prie pom.xml.
+[Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo manipuliavimo ir konvertavimo API, skirta Java platformai. Naujausią jos versiją galite atsisiųsti tiesiai iš [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) ir įdiekite jį savo Maven pagrįstame projekte, pridėdami toliau nurodytas konfigūracijas prie pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -102,11 +99,11 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
 Failas su plėtiniu .apng (Animated Portable Network Graphics) yra rastrinis grafinis formatas ir yra neoficialus nešiojamojo tinklo grafikos (PNG) plėtinys. Jį sudaro keli kadrai (kiekvienas PNG vaizdas), vaizduojantis animacijos seką. Tai suteikia panašią vizualizaciją kaip GIF failas. APNG failai palaiko 24 bitų vaizdus ir 8 bitų skaidrumą. APNG yra suderinamas su neanimuotais GIF failais. APNG failuose naudojamas tas pats .png plėtinys ir juos gali atidaryti tokios programos kaip „Mozilla Firefox“, „Chrome“ su APNG palaikymu, „iMessage“ programos, skirtos „iOS 10“.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
 Failas su EMZ failo plėtiniu yra suspausto vaizdo failas, tiksliau vadinamas „Windows Compressed Enhanced Metafile“ failu
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -139,6 +136,7 @@ Failas su EMZ failo plėtiniu yra suspausto vaizdo failas, tiksliau vadinamas �
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/conversion/apng-to-tga" name="TGA" description="Targa grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/conversion/apng-to-svgz" name="SVGZ" description="Suglaudinta Scalable Vector Graphics (.SVG) failo versija." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/conversion/apng-to-canvas" name="CANVAS" description="HTML5 drobė" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/conversion/apng-to-ico" name="ICO" description="Windows piktograma" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

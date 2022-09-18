@@ -16,13 +16,8 @@ description: Try our On-Premise document APIs to remove background in EMF files 
 
 {{% blocks/products/pf/agp/content h2="How to remove background in EMF Files Using C#" %}}
 
-In order to remove background in EMF files, we’ll use
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) 
- API which is a feature-rich, powerful and easy to use image manipulation and conversion API for C# platform. Open
- [NuGet](https://www.nuget.org/packages/aspose.imaging) 
- package manager, search for
- **Aspose.Imaging** 
- and install. You may also use the following command from the Package Manager Console.
+In order to remove background in EMF files, we’ll use [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API which is a feature-rich, powerful and easy to use image manipulation and conversion API for C# platform. Open [NuGet](https://www.nuget.org/packages/aspose.imaging) package manager, search for
+ **Aspose.Imaging** and install. You may also use the following command from the Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
@@ -42,9 +37,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-You need the
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) 
- to try the following workflow in your own environment.
+You need the [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) to try the following workflow in your own environment.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -70,7 +63,7 @@ Aspose.Imaging for .NET is supported on all major operating systems. Just make s
 
 {{% blocks/products/pf/agp/code-block title="Remove background in EMF images - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "07bd18a1af2633c99a708341d84b5ad2" "remove-change-background-generic-examples.cs" >}}
+{{< gist "aspose-com-gists" "c28d7d7f7dff39444751b5724d5ba14a" "remove-change-background-generic-examples.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -97,7 +90,7 @@ Aspose.Imaging API is an image processing solution to create, modify, draw or co
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your EMF files and hit \"Remove background now\" button" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Instantly get the download link for the resultant file" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf" whatIsFormat1="What is" whatIsFormat2="File Format" readMoreFormat="Read More" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="What is" whatIsFormat2="File Format" readMoreFormat="Read More" >}}
 Enhanced metafile format (EMF) stores graphical images device-independently. Metafiles of EMF comprises of variable-length records in chronological order that can render the stored image after parsing on any output device. These variable-length records can be definitions of enclosed objects, commands for drawing, and graphics properties critical to render the image accurately. When a device opens an EMF metafile using its own graphics environment, the proportions, dimensions, colors and other graphic properties of original image remains same regardless of the opening device platform.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -109,6 +102,7 @@ Enhanced metafile format (EMF) stores graphical images device-independently. Met
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/net/remove-background/apng" name="APNG" description="Animated Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/net/remove-background/bmp" name="BMP" description="Bitmap Picture" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/net/remove-background/ico" name="ICO" description="Windows icon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/net/remove-background/jpg" name="JPG" description="Joint Photographic Experts Group" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/net/remove-background/dib" name="DIB" description="Device Independent Bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/net/remove-background/dicom" name="DICOM" description="Digital Imaging & Communications" >}}

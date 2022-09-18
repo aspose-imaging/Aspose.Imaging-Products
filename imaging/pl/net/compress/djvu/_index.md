@@ -16,13 +16,7 @@ description: Wypróbuj nasze lokalne interfejsy API dokumentów, aby skompresowa
 
 {{% blocks/products/pf/agp/content h2="Jak skompresować pliki DJVU za pomocą C#" %}}
 
-Aby skompresować pliki DJVU, użyjemy
-[Aspose.Imaging dla .NET](https://products.aspose.com/imaging/net)
- API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do obróbki i konwersji obrazów dla platformy C#. otwarty
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- menedżer pakietów, szukaj
- **Aspose.Obrazowanie**
- i zainstaluj. Możesz również użyć następującego polecenia z konsoli Menedżera pakietów.
+Aby skompresować pliki DJVU, użyjemy [Aspose.Imaging dla .NET](https://products.aspose.com/imaging/net) API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do obróbki i konwersji obrazów dla platformy C#. Otwarty [NuGet](https://www.nuget.org/packages/aspose.imaging) menedżer pakietów, szukaj **Aspose.Obrazowanie** i zainstaluj. Możesz również użyć następującego polecenia z konsoli Menedżera pakietów.
 
 {{% blocks/products/pf/agp/code-block title="Polecenie konsoli menedżera pakietów" offSpacer="true" %}}
 
@@ -44,9 +38,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-Potrzebujesz
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- aby wypróbować następujący przepływ pracy we własnym środowisku.
+Potrzebujesz [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) aby wypróbować następujący przepływ pracy we własnym środowisku.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -99,7 +91,7 @@ Aspose.Imaging API to rozwiązanie do przetwarzania obrazów do tworzenia, modyf
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Po prostu prześlij swoje pliki DJVU i naciśnij przycisk „Kompresuj teraz”" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Natychmiast uzyskaj link do pobrania pliku wynikowego" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej" >}}
 DjVu, wymawiane jako „déjà vu”, to format plików graficznych przeznaczony dla zeskanowanych dokumentów i książek, zwłaszcza zawierających kombinację tekstu, rysunków, obrazów i fotografii. Został opracowany przez AT&T Labs. Wykorzystuje wiele technik, takich jak separacja warstw obrazu tekstu i obrazów tła, ładowanie progresywne, kodowanie arytmetyczne i kompresja stratna dla obrazów dwukolorowych. Ponieważ plik DJVU może zawierać skompresowane, ale wysokiej jakości kolorowe obrazy, zdjęcia, tekst i rysunki, i może być zapisany na mniejszej przestrzeni, dlatego jest używany w Internecie jako e-booki, podręczniki, gazety, starożytne dokumenty itp.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -111,6 +103,7 @@ DjVu, wymawiane jako „déjà vu”, to format plików graficznych przeznaczony
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/compress/apng" name="APNG" description="Animowana przenośna grafika sieciowa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/compress/bmp" name="BMP" description="Obraz bitmapowy" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/compress/ico" name="ICO" description="Ikona Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/compress/jpg" name="JPG" description="Wspólna Grupa Ekspertów Fotograficznych" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/compress/jpeg" name="JPEG" description="Wspólna Grupa Ekspertów Fotograficznych" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/compress/dib" name="DIB" description="Mapa bitowa niezależna od urządzenia" >}}

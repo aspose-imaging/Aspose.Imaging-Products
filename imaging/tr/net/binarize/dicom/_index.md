@@ -16,13 +16,7 @@ description: DICOM dosyalarını .NET Framework, .NET Core, Windows Uygulaması,
 
 {{% blocks/products/pf/agp/content h2="C# Kullanarak DICOM Dosyalarını Binarize Etme" %}}
 
-DICOM dosyalarını Binarize etmek için kullanacağız
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. Açık
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- paket yöneticisi, ara
- **Aspose.Görüntüleme**
- ve yükleyin. Paket Yöneticisi Konsolundan aşağıdaki komutu da kullanabilirsiniz.
+DICOM dosyalarını Binarize etmek için kullanacağız [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. Açık [NuGet](https://www.nuget.org/packages/aspose.imaging) paket yöneticisi, ara **Aspose.Görüntüleme** ve yükleyin. Paket Yöneticisi Konsolundan aşağıdaki komutu da kullanabilirsiniz.
 
 {{%blocks/products/pf/agp/code-block title="Paket Yöneticisi Konsol Komutu" offSpacer="true" %}}
 
@@ -42,9 +36,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-ihtiyacın var
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- aşağıdaki iş akışını kendi ortamınızda denemek için
+ihtiyacın var [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) aşağıdaki iş akışını kendi ortamınızda denemek için
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -97,7 +89,7 @@ Aspose.Imaging API, uygulamalar içinde görüntüleri (fotoğrafları) oluştur
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Sadece DICOM dosyalarınızı yükleyin ve \"Şimdi İkilileştir\" düğmesine basın" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Ortaya çıkan dosyanın indirme bağlantısını anında alın" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku" >}}
 DICOM, Tıpta Dijital Görüntüleme ve İletişimin kısaltmasıdır ve Tıp Bilişimi alanıyla ilgilidir. DICOM, dosya formatı tanımı ve bir ağ iletişim protokolünün birleşimidir. DICOM, .DCM uzantısını kullanır. .DCM, 1.x biçimi ve 2.x biçimi olmak üzere iki farklı biçimde bulunur. DCM Format 1.x ayrıca normal ve genişletilmiş iki versiyonda mevcuttur. DICOM, çeşitli satıcılara ait yazıcılar, sunucular, tarayıcılar vb. tıbbi görüntüleme cihazlarının entegrasyonu için kullanılır ve ayrıca benzersizlik için her hastanın kimlik verilerini içerir. DICOM dosyaları, DICOM formatında görüntü verilerini alabiliyorlarsa, iki taraf arasında paylaşılabilir. DICOM'un iletişim kısmı, uygulama katmanı protokolüdür ve varlıklar arasında iletişim kurmak için TCP/IP kullanır. DICOM'un web hizmetleri için HTTP ve HTTPS protokolleri kullanılır. Web servisleri tarafından desteklenen sürümler 1.0, 1.1, 2 veya üstüdür.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -109,6 +101,7 @@ DICOM, Tıpta Dijital Görüntüleme ve İletişimin kısaltmasıdır ve Tıp Bi
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/binarize/apng" name="APNG" description="Hareketli Taşınabilir Ağ Grafikleri" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/binarize/bmp" name="BMP" description="Bitmap Resmi" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/binarize/ico" name="ICO" description="Windows simgesi" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/binarize/jpg" name="JPG" description="Birleşmiş Fotoğraf Uzmanları Grubu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/binarize/jpeg" name="JPEG" description="Birleşmiş Fotoğraf Uzmanları Grubu" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/binarize/dib" name="DIB" description="Cihazdan Bağımsız Bit Eşlem" >}}

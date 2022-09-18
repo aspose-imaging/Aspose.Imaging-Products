@@ -16,11 +16,7 @@ description: JP2 格式到  文件的示例 Java 轉換代碼。使用此示例�
 
 {{% blocks/products/pf/agp/content h2="如何使用 Java 為 JP2 文件添加水印" %}}
 
-為了給 JP2 文件加水印，我們將使用
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java)
-API 是一個功能豐富、功能強大且易於使用的 Java 平台圖像處理和轉換 API。您可以直接從
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-並通過將以下配置添加到 pom.xml 將其安裝在基於 Maven 的項目中。
+為了給 JP2 文件加水印，我們將使用 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一個功能豐富、功能強大 易於使用的 Java 平台圖像處理和轉換 API。您可以直接從 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 並通過將以下配置添加到 pom.xml 將其安裝在基於 Maven 的項目中。
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -55,9 +51,7 @@ API 是一個功能豐富、功能強大且易於使用的 Java 平台圖像處�
 
 {{% blocks/products/pf/agp/text %}}
 
-你需要
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java)
- 在您自己的環境中嘗試以下工作流程。
+你需要 [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) 在您自己的環境中嘗試以下工作流程。
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -110,8 +104,8 @@ Aspose.Imaging API 是一種圖像處理解決方案，用於在應用程序中�
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="只需上傳您的 JP2 文件，設置水印並點擊“添加”按鈕" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="立即獲取生成文件的下載鏈接" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多" >}}
-JPEG 2000 (JP2) is an image coding system and state-of-the-art image compression standard. Designed, using wavelet technology JPEG 2000 can code lossless content in any quality at once. Moreover, without any substantial penalty in coding efficiency, JPEG 2000 have the capability to access and decode the same content efficaciously into a variety of other resolutions and qualities. The code streams in JPEG 2000 is significantly scalable having regions of interest that provide the facility for spatial random access. Possessing Up to 16384 diverse components with the dimensions in terapixels, and precision that can be high as 38 bits/sample.
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多" >}}
+JPEG 2000 (JP2) 是一種圖像編碼系統和最先進的圖像壓縮標準。設計，使用小波技術 JPEG 2000 可以一次編碼任何質量的無損內容。此外，在編碼效率沒有任何實質性損失的情況下，JPEG 2000 能夠有效地訪問相同的內容並將其解碼為各種其他分辨率和質量。 JPEG 2000 中的碼流具有顯著的可擴展性，具有為空間隨機訪問提供便利的感興趣區域。擁有多達 16384 個不同的組件，尺寸以萬億像素為單位，精度可高達 38 位/樣本。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
     {{< /blocks/products/pf/agp/about-file-section >}}
@@ -120,17 +114,18 @@ JPEG 2000 (JP2) is an image coding system and state-of-the-art image compression
 
 {{< blocks/products/pf/agp/other-supported-section title="其他支持的水印格式" subTitle="使用 Java，可以輕鬆地為不同的格式添加水印，包括。" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/watermark/bmp" name="BMP" description="Bitmap Picture" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/watermark/dib" name="DIB" description="Device Independent Bitmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/watermark/dicom" name="DICOM" description="Digital Imaging & Communications" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/watermark/emf" name="EMF" description="Enhanced Metafile Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/watermark/gif" name="GIF" description="Graphical Interchange Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/watermark/j2k" name="J2K" description="Wavelet Compressed Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/watermark/png" name="PNG" description="Portable Network Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/watermark/tiff" name="TIFF" description="Tagged Image Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/watermark/webp" name="WEBP" description="Raster Web Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/watermark/wmf" name="WMF" description="Microsoft Windows Metafile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/watermark/svg" name="SVG" description="Scalable Vector Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/watermark/bmp" name="BMP" description="位圖圖片" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/watermark/ico" name="ICO" description="窗口圖標" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/watermark/dib" name="DIB" description="設備無關位圖" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/watermark/dicom" name="DICOM" description="數碼影像與通訊" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/watermark/emf" name="EMF" description="增強的元文件格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/watermark/gif" name="GIF" description="圖形交換格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/watermark/j2k" name="J2K" description="小波壓縮圖像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/watermark/png" name="PNG" description="便攜式網絡圖形" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/watermark/tiff" name="TIFF" description="標記圖像格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/watermark/webp" name="WEBP" description="光柵網絡圖像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/watermark/wmf" name="WMF" description="微軟視窗元文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/java/watermark/svg" name="SVG" description="可縮放矢量圖形" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

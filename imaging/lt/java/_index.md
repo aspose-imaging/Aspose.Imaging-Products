@@ -15,7 +15,7 @@ description: Java vaizdų apdorojimo ir manipuliavimo biblioteka. Kurkite apkrov
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" 
 liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://purchase.aspose.com/pricing/imaging/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/imaging/java" installationsDocsLink="https://docs.aspose.com/imaging/java/installation" mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-imaging/" directDownloadLink="https://downloads.aspose.com/imaging/java" liveDemosText="Tiesioginės demonstracinės versijos" overviewText="Apžvalga" featuresText="funkcijos" resourcesText="Ištekliai" pricingText="Kainodara" downloadText="parsisiųsti" learnText="Mokytis" buyText="Pirkti" >}}
 
-{{< blocks/products/pf/tab-content carousel1Text1="Prie a" carousel1Text2="Žvilgsnis" carousel2Text1="Palaikomas failas" carousel2Text2="Formatai" carousel3Text1="Platforma" carousel3Text2="Nepriklausomybė">}}
+{{< blocks/products/pf/tab-content carousel1Text1="Prie a" carousel1Text2="Žvilgsnis" carousel2Text1="Platforma" carousel2Text2="Nepriklausomybė" carousel3Text1="Palaikomas failas" carousel3Text2="Formatai">}}
 <p align="justify">
  Aspose.Imaging for Java yra biblioteka, siūlanti pažangias vaizdo apdorojimo funkcijas. Naudodami šią API galite lengvai kurti, įkelti, manipuliuoti, konvertuoti, suspausti vaizdus ar nuotraukas. Taip pat Aspose. Vaizdo biblioteka palaiko piešimą ir darbą su grafiniais primityvais. Vaizdo eksportavimas ir konvertavimas (įskaitant vienodą kelių puslapių vaizdo apdorojimą) yra viena iš pagrindinių API funkcijų kartu su vaizdo transformacijomis (dydžio keitimu, apkarpymu, apvertimu ir pasukimu, dvejetainiu, pilkos spalvos tonu, koregavimu), pažangiomis vaizdo manipuliavimo funkcijomis (filtravimu, keitimu, maskavimu, iškraipymu). ) ir atminties optimizavimo strategijas.
 </p>
@@ -193,7 +193,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
      <b>
       Rastriniai formatai:
      </b>
-     JPEG2000, JPEG, BMP, TIFF, GIF, PNG, DICOM, TGA
+     JPEG2000, JPEG, BMP, TIFF, GIF, PNG, DICOM, TGA, ICO
     </li>
     <li>
      <b>
@@ -486,7 +486,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
 
 {{< blocks/products/pf/support-learning-resources supportAndLearningResourcesText="Pagalba ir mokymosi ištekliai">}}
 {{< blocks/products/pf/slr-tab tabTitle="Mokymosi ištekliai" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Dokumentacija" href="https://docs.aspose.com/imaging/net/" >}}
+{{< blocks/products/pf/slr-element name="Dokumentacija" href="https://docs.aspose.com/imaging/java" >}}
 {{< blocks/products/pf/slr-element name="Pirminis kodas" href="https://github.com/aspose-imaging/Aspose.Imaging-for-Java" >}}
 {{< blocks/products/pf/slr-element name="API nuorodos" href="https://apireference.aspose.com/java/imaging" >}}
 {{< blocks/products/pf/slr-element name="Mokomieji vaizdo įrašai" href="https://www.youtube.com/user/asposevideo" >}}

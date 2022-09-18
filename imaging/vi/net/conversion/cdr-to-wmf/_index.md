@@ -18,12 +18,7 @@ description: Mã mẫu cho chuyển đổi CDR sang WMF C #. Sử dụng mã m�
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi CDR thành WMF bằng C#" %}}
 
 Để chuyển đổi CDR thành WMF, chúng tôi sẽ sử dụng
-[Aspose.Imaging cho .NET] (https://products.aspose.com/imaging/net)
- API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C #. Mở
- [NuGet] (https://www.nuget.org/packages/aspose.imaging)
- quản lý gói, tìm kiếm
- ** Aspose.Imaging **
- và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển Trình quản lý Gói.
+[Aspose.Imaging cho .NET] (https://products.aspose.com/imaging/net) API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C #. Mở [NuGet] (https://www.nuget.org/packages/aspose.imaging) quản lý gói, tìm kiếm ** Aspose.Imaging ** và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển Trình quản lý Gói.
 
 {{% blocks/products/pf/agp/code-block title = "Lệnh Bảng điều khiển Trình quản lý Gói" offSpacer = "true"%}}
 
@@ -91,11 +86,11 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
 Tệp CDR là tệp hình ảnh bản vẽ vectơ được tạo nguyên bản bằng CorelDRAW để lưu trữ hình ảnh kỹ thuật số được mã hóa và nén. Một tệp bản vẽ như vậy có chứa văn bản, đường thẳng, hình dạng, hình ảnh, màu sắc và các hiệu ứng để biểu diễn vector của nội dung hình ảnh. Các tệp CDR có thể được mở bằng CorelDRAW làm ứng dụng chính và cũng có thể được chuyển đổi sang các định dạng khác như PDF, JPG, PNG, BMP và AI. Nó có thể được sử dụng để biểu diễn các dữ liệu đồ họa khác nhau như tài liệu quảng cáo, báo lá cải, phong bì và bưu thiếp. Bên cạnh CorelDRAW, các sản phẩm Corel khác như Corel Paintshop Pro và CorelDRAW Graphics suite cũng có thể mở các định dạng tệp CDR.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
 Các tệp có phần mở rộng WMF đại diện cho Microsoft Windows Metafile (WMF) để lưu trữ dữ liệu hình ảnh dạng vector cũng như bitmap. Nói chính xác hơn, WMF thuộc thể loại định dạng tệp vectơ của các định dạng tệp Đồ họa độc lập với thiết bị. Giao diện thiết bị đồ họa Windows (GDI) sử dụng các chức năng được lưu trữ trong tệp WMF để hiển thị hình ảnh trên màn hình. Một phiên bản nâng cao hơn của WMF, được gọi là Tệp Meta Nâng cao (EMF), đã được xuất bản sau đó giúp định dạng có nhiều tính năng phong phú hơn. Thực tế, WMF tương tự như SVG.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -129,6 +124,7 @@ Các tệp có phần mở rộng WMF đại diện cho Microsoft Windows Metafi
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/conversion/cdr-to-tga" name="TGA" description="Đồ họa Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/conversion/cdr-to-svgz" name="SVGZ" description="Phiên bản nén của tệp Đồ họa Vectơ có thể mở rộng (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/conversion/cdr-to-canvas" name="CANVAS" description="HTML5 Canvas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/conversion/cdr-to-ico" name="ICO" description="Biểu tượng Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

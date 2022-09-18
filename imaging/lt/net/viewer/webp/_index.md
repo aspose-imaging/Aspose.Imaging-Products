@@ -17,12 +17,7 @@ description: Išbandykite mūsų „On-Premise“ dokumentų API, kad peržiūr�
 {{% blocks/products/pf/agp/content h2="Kaip peržiūrėti WEBP vaizdus naudojant C#" %}}
 
 Norėdami peržiūrėti WEBP failus, naudosime
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta C# platformai. Atviras
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- paketų tvarkyklė, ieškokite
- **Aspose.Imaging**
- ir įdiegti. Taip pat galite naudoti šią komandą iš paketų tvarkyklės konsolės.
+[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta C# platformai. Atviras [NuGet](https://www.nuget.org/packages/aspose.imaging) paketų tvarkyklė, ieškokite **Aspose.Imaging** ir įdiegti. Taip pat galite naudoti šią komandą iš paketų tvarkyklės konsolės.
 
 {{% blocks/products/pf/agp/code-block title="Paketų tvarkytuvės konsolės komanda" offSpacer="true" %}}
 
@@ -42,9 +37,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-Jums reikia
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- norėdami išbandyti šią darbo eigą savo aplinkoje.
+Jums reikia [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) norėdami išbandyti šią darbo eigą savo aplinkoje.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -100,7 +93,7 @@ Aspose.Imaging API yra vaizdo apdorojimo sprendimas, skirtas kurti, modifikuoti,
         checkFreeAppLabel="Peržiūrėkite mūsų [tiesiogines demonstracines versijas, kad galėtumėte peržiūrėti WEBP](https://products.aspose.app/imaging/lt/image-view/WEBP)">}}
 
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau" >}}
 „WebP“, kurį pristatė „Google“, yra modernus rastrinis žiniatinklio vaizdo failo formatas, pagrįstas nenuostolingu ir nuostolingu glaudinimu. Tai užtikrina tą pačią vaizdo kokybę ir žymiai sumažina vaizdo dydį. Kadangi dauguma tinklalapių naudoja vaizdus kaip efektyvų duomenų atvaizdavimą, WebP vaizdų naudojimas tinklalapiuose leidžia greičiau įkelti tinklalapius. „Google“ teigimu, „WebP“ vaizdai be nuostolių yra 26 % mažesnio dydžio, palyginti su PNG, o „WebP“ vaizdai yra 25–34 % mažesni nei panašūs JPEG vaizdai. Vaizdai lyginami pagal struktūrinio panašumo (SSIM) indeksą tarp WebP ir kitų vaizdo failų formatų. „WebP“ yra „WebM“ daugialypės terpės konteinerio formato seserinis projektas.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -112,6 +105,7 @@ Aspose.Imaging API yra vaizdo apdorojimo sprendimas, skirtas kurti, modifikuoti,
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/viewer/apng" name="APNG" description="Animuota nešiojama tinklo grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/viewer/bmp" name="BMP" description="Bitmap paveikslėlis" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/viewer/ico" name="ICO" description="Windows piktograma" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/viewer/jpg" name="JPG" description="Jungtinė fotografijos ekspertų grupė" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/viewer/jpeg" name="JPEG" description="Jungtinė fotografijos ekspertų grupė" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/viewer/dib" name="DIB" description="Nuo įrenginio nepriklausomas bitmap" >}}

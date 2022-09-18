@@ -18,10 +18,7 @@ description: Codice di esempio per la conversione Java da DNG a WEBP. Utilizzare
 {{% blocks/products/pf/agp/content h2="Come convertire DNG in WEBP utilizzando Java" %}}
 
 Per convertire DNG in WEBP, useremo
-[Aspose.Imaging per Java](https://products.aspose.com/imaging/java)
-API che è un'API di conversione e manipolazione delle immagini ricca di funzionalità, potente e facile da usare per la piattaforma Java. Puoi scaricare la sua ultima versione direttamente da
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
+[Aspose.Imaging per Java](https://products.aspose.com/imaging/java) API che è un'API di conversione e manipolazione delle immagini ricca di funzionalità, potente e facile da usare per la piattaforma Java. Puoi scaricare la sua ultima versione direttamente da [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -102,11 +99,11 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
 DNG è un formato di immagine della fotocamera digitale utilizzato per l'archiviazione di file grezzi. È stato sviluppato da Adobe nel settembre 2004. Fondamentalmente è stato sviluppato per la fotografia digitale. DNG è un'estensione del formato standard TIFF/EP e utilizza i metadati in modo significativo. Per manipolare i dati grezzi dalle fotocamere digitali con facilità di flessibilità e controllo artistico, i fotografi scelgono i file raw della fotocamera. I formati JPEG e TIFF memorizzano le immagini che vengono elaborate dalla fotocamera, quindi non è disponibile molto spazio per le modifiche in tali formati.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
 WebP, introdotto da Google, è un moderno formato di file di immagini web raster basato sulla compressione lossless e lossy. Fornisce la stessa qualità dell'immagine riducendo notevolmente le dimensioni dell'immagine. Poiché la maggior parte delle pagine Web utilizza le immagini come rappresentazione efficace dei dati, l'utilizzo di immagini WebP nelle pagine Web determina un caricamento più rapido delle pagine Web. Secondo Google, le immagini con perdita di dati WebP sono di dimensioni inferiori del 26% rispetto ai PNG, mentre le immagini con perdita di dati WebP sono più piccole del 25-34% rispetto alle immagini JPEG comparabili. Le immagini vengono confrontate in base all'indice di somiglianza strutturale (SSIM) tra WebP e altri formati di file immagine. WebP è un progetto gemello del formato contenitore multimediale WebM.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -140,6 +137,7 @@ WebP, introdotto da Google, è un moderno formato di file di immagini web raster
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/conversion/dng-to-tga" name="TGA" description="Grafica Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/conversion/dng-to-svgz" name="SVGZ" description="Versione compressa del file Scalable Vector Graphics (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/conversion/dng-to-canvas" name="CANVAS" description="Tela HTML5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/it/java/conversion/dng-to-ico" name="ICO" description="Icona di Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

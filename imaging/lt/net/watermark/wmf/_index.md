@@ -16,13 +16,7 @@ description: Išbandykite mūsų „On-Premise“ dokumentų API, kad .NET Frame
 
 {{% blocks/products/pf/agp/content h2="Kaip pažymėti WMF failą vandenženkliu naudojant C#" %}}
 
-Norėdami pažymėti WMF failą vandenženkliu, naudosime
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta C# platformai. Atviras
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- paketų tvarkyklė, ieškokite
- **Aspose.Imaging**
- ir įdiegti. Taip pat galite naudoti šią komandą iš paketų tvarkyklės konsolės.
+Norėdami pažymėti WMF failą vandenženkliu, naudosime [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta C# platformai. Atviras [NuGet](https://www.nuget.org/packages/aspose.imaging) paketų tvarkyklė, ieškokite **Aspose.Imaging** ir įdiegti. Taip pat galite naudoti šią komandą iš paketų tvarkyklės konsolės.
 
 {{% blocks/products/pf/agp/code-block title="Paketų tvarkytuvės konsolės komanda" offSpacer="true" %}}
 
@@ -42,9 +36,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-Jums reikia
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- norėdami išbandyti šią darbo eigą savo aplinkoje.
+Jums reikia [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) norėdami išbandyti šią darbo eigą savo aplinkoje.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -99,7 +91,7 @@ Aspose.Imaging API yra vaizdo apdorojimo sprendimas, skirtas kurti, modifikuoti,
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Tiesiog įkelkite WMF failą, nustatykite vandens ženklą ir paspauskite mygtuką \"Pridėti\"." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Iškart gaukite gauto failo atsisiuntimo nuorodą" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau" >}}
 Failai su WMF plėtiniu yra „Microsoft Windows“ metafailas (WMF), skirtas vektorinių ir bitmap formato vaizdų duomenims saugoti. Tiksliau, WMF priklauso grafinių failų formatų vektorinių failų formatų kategorijai, kuri nepriklauso nuo įrenginio. „Windows“ grafinio įrenginio sąsaja (GDI) vaizdui ekrane rodyti naudoja WMF faile saugomas funkcijas. Vėliau buvo paskelbta labiau patobulinta WMF versija, žinoma kaip patobulinti meta failai (EMF), todėl formatas tapo turtingesnis. Praktiškai WMF yra panašūs į SVG.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -110,6 +102,7 @@ Failai su WMF plėtiniu yra „Microsoft Windows“ metafailas (WMF), skirtas ve
 {{< blocks/products/pf/agp/other-supported-section title="Kiti palaikomi vandens ženklų formatai" subTitle="Naudodami C# galite lengvai pažymėti įvairius formatus, įskaitant." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/watermark/bmp" name="BMP" description="Bitmap paveikslėlis" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/watermark/ico" name="ICO" description="Windows piktograma" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/watermark/dib" name="DIB" description="Nuo įrenginio nepriklausomas bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/watermark/dicom" name="DICOM" description="Skaitmeninis vaizdas ir ryšiai" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/watermark/emf" name="EMF" description="Patobulintas metafailo formatas" >}}

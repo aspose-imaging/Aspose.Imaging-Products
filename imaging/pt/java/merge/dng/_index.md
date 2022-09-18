@@ -16,11 +16,7 @@ description: Experimente nossas APIs de documentos no local para mesclar arquivo
 
 {{% blocks/products/pf/agp/content h2="Como mesclar arquivos DNG usando Java" %}}
 
-Para mesclar arquivos DNG, usaremos
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java)
-API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para plataforma Java. Você pode baixar sua versão mais recente diretamente de
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-e instale-o em seu projeto baseado em Maven adicionando as seguintes configurações ao pom.xml.
+Para mesclar arquivos DNG, usaremos [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para plataforma Java. Você pode baixar sua versão mais recente diretamente de [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) e instale-o em seu projeto baseado em Maven adicionando as seguintes configurações ao pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -55,9 +51,7 @@ e instale-o em seu projeto baseado em Maven adicionando as seguintes configuraç
 
 {{% blocks/products/pf/agp/text %}}
 
-Você precisa do
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java)
- para experimentar o fluxo de trabalho a seguir em seu próprio ambiente.
+Você precisa do [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) para experimentar o fluxo de trabalho a seguir em seu próprio ambiente.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +102,7 @@ Aspose.Imaging API é uma solução de processamento de imagens para criar, modi
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta enviar seus arquivos DNG e clicar no botão \"Mesclar agora\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Obtenha instantaneamente o link de download para o arquivo resultante" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação" >}}
 DNG é um formato de imagem de câmera digital usado para o armazenamento de arquivos raw. Foi desenvolvido pela Adobe em setembro de 2004. Foi desenvolvido basicamente para fotografia digital. DNG é uma extensão do formato padrão TIFF/EP e usa metadados de forma significativa. Para manipular dados brutos de câmeras digitais com facilidade de flexibilidade e controle artístico, os fotógrafos optam por arquivos camera raw. Os formatos JPEG e TIFF armazenam imagens que são processadas pela câmera, portanto, não há muito espaço para alterações nesses formatos.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -120,6 +114,7 @@ DNG é um formato de imagem de câmera digital usado para o armazenamento de arq
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/merge/apng" name="APNG" description="Gráficos de rede portátil animados" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/merge/bmp" name="BMP" description="Imagem de bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/merge/ico" name="ICO" description="ícone do Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/merge/jpg" name="JPG" description="Grupo Conjunto de Especialistas em Fotografia" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/merge/cdr" name="CDR" description="Imagem de desenho vetorial" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/java/merge/cmx" name="CMX" description="Imagem do Corel Exchange" >}}

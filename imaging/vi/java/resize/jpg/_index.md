@@ -16,11 +16,7 @@ description: Hãy thử các API tài liệu On-Premise của chúng tôi để 
 
 {{% blocks/products/pf/agp/content h2="Cách thay đổi kích thước tệp JPG bằng Java" %}}
 
-Để thay đổi kích thước tệp JPG, chúng tôi sẽ sử dụng
-[Aspose.Imaging cho Java] (https://products.aspose.com/imaging/java)
-API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng Java. Bạn có thể tải xuống phiên bản mới nhất của nó trực tiếp từ
-[Maven] (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-và cài đặt nó trong dự án dựa trên Maven của bạn bằng cách thêm các cấu hình sau vào pom.xml.
+Để thay đổi kích thước tệp JPG, chúng tôi sẽ sử dụng [Aspose.Imaging cho Java] (https://products.aspose.com/imaging/java) API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng Java. Bạn có thể tải xuống phiên bản mới nhất của nó trực tiếp từ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) và cài đặt nó trong dự án dựa trên Maven của bạn bằng cách thêm các cấu hình sau vào pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Kho" offSpacer="true"%}}
 
@@ -55,9 +51,7 @@ và cài đặt nó trong dự án dựa trên Maven của bạn bằng cách th
 
 {{% blocks/products/pf/agp/text %}}
 
-Bạn cần
- [aspose-images-version-jdk16.jar] (https://downloads.aspose.com/imaging/java)
- để thử quy trình làm việc sau trong môi trường của riêng bạn.
+Bạn cần [aspose-images-version-jdk16.jar] (https://downloads.aspose.com/imaging/java) để thử quy trình làm việc sau trong môi trường của riêng bạn.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +102,7 @@ Aspose.Imaging API là một giải pháp xử lý hình ảnh để tạo, sử
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Chỉ cần tải lên các tệp JPG của bạn và nhấn nút \"Thay đổi kích thước \"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Nhận ngay liên kết tải xuống cho tệp kết quả" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm" >}}
 JPEG là một loại định dạng hình ảnh được lưu bằng phương pháp nén mất dữ liệu. Hình ảnh đầu ra, là kết quả của quá trình nén, là sự cân bằng giữa kích thước lưu trữ và chất lượng hình ảnh. Người dùng có thể điều chỉnh mức độ nén để đạt được mức chất lượng mong muốn đồng thời giảm dung lượng lưu trữ. Chất lượng hình ảnh bị ảnh hưởng đáng kể nếu áp dụng nén 10: 1 cho hình ảnh. Giá trị nén càng cao thì chất lượng ảnh càng giảm.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -120,6 +114,7 @@ JPEG là một loại định dạng hình ảnh được lưu bằng phương p
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/resize/apng" name="APNG" description="Đồ họa mạng di động hoạt hình" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/resize/bmp" name="BMP" description="Ảnh bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/resize/ico" name="ICO" description="Biểu tượng Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/resize/cdr" name="CDR" description="Hình ảnh Bản vẽ Véc tơ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/resize/cmx" name="CMX" description="Hình ảnh trao đổi Corel" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/resize/dib" name="DIB" description="Bản đồ bit độc lập với thiết bị" >}}

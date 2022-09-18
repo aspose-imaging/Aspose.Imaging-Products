@@ -18,10 +18,7 @@ description: Mã mẫu cho chuyển đổi Java từ JPEG sang WMF. Sử dụng 
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi JPEG thành WMF bằng Java" %}}
 
 Để chuyển đổi JPEG thành WMF, chúng tôi sẽ sử dụng
-[Aspose.Imaging cho Java] (https://products.aspose.com/imaging/java)
-API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng Java. Bạn có thể tải xuống phiên bản mới nhất của nó trực tiếp từ
-[Maven] (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-và cài đặt nó trong dự án dựa trên Maven của bạn bằng cách thêm các cấu hình sau vào pom.xml.
+[Aspose.Imaging cho Java] (https://products.aspose.com/imaging/java) API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng Java. Bạn có thể tải xuống phiên bản mới nhất của nó trực tiếp từ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) và cài đặt nó trong dự án dựa trên Maven của bạn bằng cách thêm các cấu hình sau vào pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Kho" offSpacer="true"%}}
 
@@ -102,11 +99,11 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
 JPEG là một loại định dạng hình ảnh được lưu bằng phương pháp nén mất dữ liệu. Hình ảnh đầu ra, là kết quả của quá trình nén, là sự cân bằng giữa kích thước lưu trữ và chất lượng hình ảnh. Người dùng có thể điều chỉnh mức độ nén để đạt được mức chất lượng mong muốn đồng thời giảm dung lượng lưu trữ. Chất lượng hình ảnh bị ảnh hưởng đáng kể nếu áp dụng nén 10: 1 cho hình ảnh. Giá trị nén càng cao thì chất lượng ảnh càng giảm.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
 Các tệp có phần mở rộng WMF đại diện cho Microsoft Windows Metafile (WMF) để lưu trữ dữ liệu hình ảnh dạng vector cũng như bitmap. Nói chính xác hơn, WMF thuộc thể loại định dạng tệp vectơ của các định dạng tệp Đồ họa độc lập với thiết bị. Giao diện thiết bị đồ họa Windows (GDI) sử dụng các chức năng được lưu trữ trong tệp WMF để hiển thị hình ảnh trên màn hình. Một phiên bản nâng cao hơn của WMF, được gọi là Tệp Meta Nâng cao (EMF), đã được xuất bản sau đó giúp định dạng có nhiều tính năng phong phú hơn. Thực tế, WMF tương tự như SVG.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -138,6 +135,7 @@ Các tệp có phần mở rộng WMF đại diện cho Microsoft Windows Metafi
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/conversion/jpeg-to-tga" name="TGA" description="Đồ họa Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/conversion/jpeg-to-svgz" name="SVGZ" description="Phiên bản nén của tệp Đồ họa Vectơ có thể mở rộng (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/conversion/jpeg-to-canvas" name="CANVAS" description="HTML5 Canvas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/conversion/jpeg-to-ico" name="ICO" description="Biểu tượng Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

@@ -18,12 +18,7 @@ description: Mã mẫu cho chuyển đổi JPEG2000 sang DICOM C #. Sử dụng 
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi JPEG2000 thành DICOM bằng C#" %}}
 
 Để chuyển đổi JPEG2000 thành DICOM, chúng tôi sẽ sử dụng
-[Aspose.Imaging cho .NET] (https://products.aspose.com/imaging/net)
- API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C #. Mở
- [NuGet] (https://www.nuget.org/packages/aspose.imaging)
- quản lý gói, tìm kiếm
- ** Aspose.Imaging **
- và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển Trình quản lý Gói.
+[Aspose.Imaging cho .NET] (https://products.aspose.com/imaging/net) API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C #. Mở [NuGet] (https://www.nuget.org/packages/aspose.imaging) quản lý gói, tìm kiếm ** Aspose.Imaging ** và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển Trình quản lý Gói.
 
 {{% blocks/products/pf/agp/code-block title = "Lệnh Bảng điều khiển Trình quản lý Gói" offSpacer = "true"%}}
 
@@ -95,7 +90,7 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
 JPEG 2000 (JP2) là một hệ thống mã hóa hình ảnh và tiêu chuẩn nén hình ảnh hiện đại nhất. Được thiết kế, sử dụng công nghệ wavelet JPEG 2000 có thể mã hóa nội dung không mất dữ liệu ở bất kỳ chất lượng nào cùng một lúc. Hơn nữa, không có bất kỳ hình phạt đáng kể nào về hiệu quả mã hóa, JPEG 2000 có khả năng truy cập và giải mã hiệu quả cùng một nội dung thành nhiều độ phân giải và chất lượng khác. Các dòng mã trong JPEG 2000 có khả năng mở rộng đáng kể khi có các vùng quan tâm cung cấp cơ sở cho việc truy cập ngẫu nhiên theo không gian. Sở hữu tới 16384 linh kiện đa dạng với kích thước tính bằng terapixel và độ chính xác có thể cao tới 38 bit / mẫu.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
 DICOM là từ viết tắt của Digital Imaging and Communications in Medicine, liên quan đến lĩnh vực Tin học Y tế. DICOM là sự kết hợp giữa định nghĩa định dạng tệp và một giao thức truyền thông mạng. DICOM sử dụng phần mở rộng .DCM. .DCM tồn tại ở hai định dạng khác nhau, tức là định dạng 1.x và định dạng 2.x. Định dạng DCM 1.x còn có sẵn trong hai phiên bản bình thường và mở rộng. DICOM được sử dụng để tích hợp các thiết bị hình ảnh y tế như máy in, máy chủ, máy quét, v.v. từ các nhà cung cấp khác nhau và cũng chứa dữ liệu nhận dạng của từng bệnh nhân để tạo tính duy nhất. Các tệp DICOM có thể được chia sẻ giữa hai bên nếu họ có khả năng nhận dữ liệu hình ảnh ở định dạng DICOM. Phần giao tiếp của DICOM là giao thức lớp ứng dụng và sử dụng TCP / IP để giao tiếp giữa các thực thể. Các giao thức HTTP và HTTPS được sử dụng cho các dịch vụ web của DICOM. Các phiên bản được hỗ trợ bởi các dịch vụ web là 1.0, 1.1, 2 hoặc mới hơn.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -126,6 +121,7 @@ DICOM là từ viết tắt của Digital Imaging and Communications in Medicine
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/conversion/jpeg2000-to-tga" name="TGA" description="Đồ họa Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/conversion/jpeg2000-to-svgz" name="SVGZ" description="Phiên bản nén của tệp Đồ họa Vectơ có thể mở rộng (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/conversion/jpeg2000-to-canvas" name="CANVAS" description="HTML5 Canvas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/conversion/jpeg2000-to-ico" name="ICO" description="Biểu tượng Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

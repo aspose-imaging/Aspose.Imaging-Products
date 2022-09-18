@@ -16,11 +16,7 @@ description: Coba API dokumen Lokal kami untuk mengubah latar belakang dari file
 
 {{% blocks/products/pf/agp/content h2="Cara menghapus latar belakang di File DICOM Menggunakan Java" %}}
 
-Untuk menghapus latar belakang dalam file DICOM, kami akan menggunakan
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java)
-API yang kaya fitur, kuat dan mudah digunakan manipulasi gambar dan konversi API untuk platform Java. Anda dapat mengunduh versi terbarunya langsung dari
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
+Untuk menghapus latar belakang dalam file DICOM, kami akan menggunakan [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API yang kaya fitur, kuat dan mudah digunakan manipulasi gambar dan konversi API untuk platform Java. Anda dapat mengunduh versi terbarunya langsung dari [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -55,9 +51,7 @@ dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berik
 
 {{% blocks/products/pf/agp/text %}}
 
-Anda membutuhkan
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java)
- untuk mencoba alur kerja berikut di lingkungan Anda sendiri.
+Anda membutuhkan [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) untuk mencoba alur kerja berikut di lingkungan Anda sendiri.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +102,7 @@ Aspose.Imaging API adalah solusi pemrosesan gambar untuk membuat, memodifikasi, 
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Cukup unggah file DICOM Anda dan tekan tombol \"Hapus latar belakang sekarang\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Langsung dapatkan tautan unduhan untuk file yang dihasilkan" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya" >}}
 DICOM adalah singkatan dari Digital Imaging and Communications in Medicine dan berkaitan dengan bidang Informatika Medis. DICOM adalah kombinasi definisi format file dan protokol komunikasi jaringan. DICOM menggunakan ekstensi .DCM. .DCM ada dalam dua format yang berbeda yaitu format 1.x dan format 2.x. DCM Format 1.x selanjutnya tersedia dalam dua versi normal dan diperpanjang. DICOM digunakan untuk integrasi perangkat pencitraan medis seperti printer, server, pemindai dll dari berbagai vendor dan juga berisi data identifikasi setiap pasien untuk keunikan. File DICOM dapat dibagi antara dua pihak jika mereka mampu menerima data gambar dalam format DICOM. Bagian komunikasi DICOM adalah protokol lapisan aplikasi dan menggunakan TCP/IP untuk berkomunikasi antar entitas. Protokol HTTP dan HTTPS digunakan untuk layanan web DICOM. Versi yang didukung oleh layanan web adalah 1.0, 1.1, 2 atau yang lebih baru.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -120,6 +114,7 @@ DICOM adalah singkatan dari Digital Imaging and Communications in Medicine dan b
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/remove-background/apng" name="APNG" description="Grafik Jaringan Portabel Animasi" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/remove-background/bmp" name="BMP" description="Gambar Bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/remove-background/ico" name="ICO" description="ikon Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/remove-background/jpg" name="JPG" description="Kelompok Ahli Fotografi Bersama" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/remove-background/dib" name="DIB" description="Bitmap Independen Perangkat" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/id/java/remove-background/djvu" name="DJVU" description="Format Grafis" >}}

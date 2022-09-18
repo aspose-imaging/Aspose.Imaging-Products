@@ -16,13 +16,7 @@ description: Experimente nossas APIs de documentos no local para mesclar arquivo
 
 {{% blocks/products/pf/agp/content h2="Como mesclar arquivos DICOM usando C#" %}}
 
-Para mesclar arquivos DICOM, usaremos
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- gerenciador de pacotes, procure por
- **Aspose.Imagem**
- e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
+Para mesclar arquivos DICOM, usaremos [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir [NuGet](https://www.nuget.org/packages/aspose.imaging) gerenciador de pacotes, procure por **Aspose.Imagem** e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
 
 {{% blocks/products/pf/agp/code-block title="Comando do Console do Gerenciador de Pacotes" offSpacer="true" %}}
 
@@ -44,9 +38,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-Você precisa do
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- para experimentar o fluxo de trabalho a seguir em seu próprio ambiente.
+Você precisa do [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) para experimentar o fluxo de trabalho a seguir em seu próprio ambiente.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -99,7 +91,7 @@ Aspose.Imaging API é uma solução de processamento de imagens para criar, modi
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Basta enviar seus arquivos DICOM e clicar no botão \"Mesclar agora\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Obtenha instantaneamente o link de download para o arquivo resultante" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação" >}}
 DICOM é a sigla para Digital Imaging and Communications in Medicine e pertence ao campo da Informática Médica. DICOM é a combinação de definição de formato de arquivo e um protocolo de comunicação de rede. O DICOM usa a extensão .DCM. .DCM existem em dois formatos diferentes, ou seja, formato 1.xe formato 2.x. O formato DCM 1.x também está disponível em duas versões normal e estendida. DICOM é usado para a integração de dispositivos de imagens médicas como impressoras, servidores, scanners etc de vários fornecedores e também contém dados de identificação de cada paciente para exclusividade. Os arquivos DICOM podem ser compartilhados entre duas partes se forem capazes de receber dados de imagem no formato DICOM. A parte de comunicação do DICOM é um protocolo de camada de aplicação e usa TCP/IP para comunicação entre entidades. Os protocolos HTTP e HTTPS são usados ​​para os serviços web do DICOM. As versões suportadas pelos serviços da Web são 1.0, 1.1, 2 ou posterior.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -111,6 +103,7 @@ DICOM é a sigla para Digital Imaging and Communications in Medicine e pertence 
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/merge/apng" name="APNG" description="Gráficos de rede portátil animados" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/merge/bmp" name="BMP" description="Imagem de bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/merge/ico" name="ICO" description="ícone do Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/merge/jpg" name="JPG" description="Grupo Conjunto de Especialistas em Fotografia" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/merge/cdr" name="CDR" description="Imagem de desenho vetorial" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pt/net/merge/cmx" name="CMX" description="Imagem do Corel Exchange" >}}

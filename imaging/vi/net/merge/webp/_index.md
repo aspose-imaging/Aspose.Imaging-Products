@@ -16,13 +16,7 @@ description: Hãy thử các API tài liệu On-Premise của chúng tôi để 
 
 {{% blocks/products/pf/agp/content h2="Cách hợp nhất các tệp WEBP bằng C#" %}}
 
-Để hợp nhất các tệp WEBP, chúng tôi sẽ sử dụng
-[Aspose.Imaging cho .NET] (https://products.aspose.com/imaging/net)
- API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C #. Mở
- [NuGet] (https://www.nuget.org/packages/aspose.imaging)
- quản lý gói, tìm kiếm
- ** Aspose.Imaging **
- và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển Trình quản lý Gói.
+Để hợp nhất các tệp WEBP, chúng tôi sẽ sử dụng [Aspose.Imaging cho .NET] (https://products.aspose.com/imaging/net) API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C #. Mở [NuGet] (https://www.nuget.org/packages/aspose.imaging) quản lý gói, tìm kiếm ** Aspose.Imaging ** và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển Trình quản lý Gói.
 
 {{% blocks/products/pf/agp/code-block title = "Lệnh Bảng điều khiển Trình quản lý Gói" offSpacer = "true"%}}
 
@@ -97,7 +91,7 @@ Aspose.Imaging API là một giải pháp xử lý hình ảnh để tạo, sử
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Chỉ cần tải lên các tệp WEBP của bạn và nhấn nút \"Hợp nhất ngay bây giờ \"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Nhận ngay liên kết tải xuống cho tệp kết quả" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm" >}}
 WebP, được giới thiệu bởi Google, là một định dạng tệp hình ảnh web raster hiện đại dựa trên nén không mất dữ liệu và mất dữ liệu. Nó cung cấp chất lượng hình ảnh tương tự trong khi giảm đáng kể kích thước hình ảnh. Vì hầu hết các trang web đều sử dụng hình ảnh làm đại diện dữ liệu hiệu quả, việc sử dụng hình ảnh WebP trong các trang web dẫn đến tải trang web nhanh hơn. Theo Google, hình ảnh không mất dữ liệu WebP có kích thước nhỏ hơn 26% so với PNG, trong khi hình ảnh mất dữ liệu WebP nhỏ hơn 25-34% so với hình ảnh JPEG tương đương. Hình ảnh được so sánh dựa trên chỉ số Độ tương đồng về cấu trúc (SSIM) giữa WebP và các định dạng tệp hình ảnh khác. WebP là một dự án chị em của định dạng vùng chứa đa phương tiện WebM.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -109,6 +103,7 @@ WebP, được giới thiệu bởi Google, là một định dạng tệp hình
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/merge/apng" name="APNG" description="Đồ họa mạng di động hoạt hình" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/merge/bmp" name="BMP" description="Ảnh bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/merge/ico" name="ICO" description="Biểu tượng Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/merge/jpg" name="JPG" description="Nhóm chuyên gia nhiếp ảnh chung" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/merge/cdr" name="CDR" description="Hình ảnh Bản vẽ Véc tơ" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/merge/cmx" name="CMX" description="Hình ảnh trao đổi Corel" >}}

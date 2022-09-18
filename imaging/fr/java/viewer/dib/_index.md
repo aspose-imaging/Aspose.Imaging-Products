@@ -17,10 +17,7 @@ description: Essayez nos API de document sur site pour afficher les fichiers DIB
 {{% blocks/products/pf/agp/content h2="Comment afficher des images DIB à l'aide de Java" %}}
 
 Pour afficher les fichiers DIB, nous utiliserons
-[Aspose.Imaging pour Java](https://products.aspose.com/imaging/java)
-API qui est une API de manipulation et de conversion d'images riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme Java. Vous pouvez télécharger sa dernière version directement depuis
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au fichier pom.xml.
+[Aspose.Imaging pour Java](https://products.aspose.com/imaging/java) API qui est une API de manipulation et de conversion d'images riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme Java. Vous pouvez télécharger sa dernière version directement depuis [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au fichier pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -55,9 +52,7 @@ et installez-le dans votre projet basé sur Maven en ajoutant les configurations
 
 {{% blocks/products/pf/agp/text %}}
 
-Vous avez besoin du
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java)
- pour essayer le workflow suivant dans votre propre environnement.
+Vous avez besoin du [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) pour essayer le workflow suivant dans votre propre environnement.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -111,7 +106,7 @@ Aspose.Imaging API est une solution de traitement d'images pour créer, modifier
         checkFreeAppLabel="Consultez nos [démos en direct pour voir DIB](https://products.aspose.app/imaging/fr/image-view/DIB)">}}
 
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite" >}}
 Un fichier DIB (Device Independent Bitmap) est un fichier d'image raster dont la structure est similaire à celle des fichiers Bitmap standard (BMP), mais dont l'en-tête est différent. Il peut être ouvert avec presque toutes les applications capables d'ouvrir un fichier BMP standard sous Windows ainsi que macOS. DIB sont des fichiers binaires et ont un format de fichier complexe similaire à BMP.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -123,6 +118,7 @@ Un fichier DIB (Device Independent Bitmap) est un fichier d'image raster dont la
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/viewer/apng" name="APNG" description="Graphiques de réseau portables animés" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/viewer/bmp" name="BMP" description="Image bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/viewer/ico" name="ICO" description="Icône Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/viewer/jpg" name="JPG" description="Groupe mixte d'experts photographiques" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/viewer/jpeg" name="JPEG" description="Groupe mixte d'experts photographiques" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/viewer/dicom" name="DICOM" description="Imagerie numérique et communications" >}}

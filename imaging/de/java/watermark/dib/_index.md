@@ -16,11 +16,7 @@ description: Beispiel-Java-Konvertierungscode für das Format DIB in die Datei .
 
 {{% blocks/products/pf/agp/content h2="So versehen Sie eine DIB-Datei mit Java mit einem Wasserzeichen" %}}
 
-Um die DIB-Datei mit einem Wasserzeichen zu versehen, verwenden wir
-[Aspose.Imaging für Java](https://products.aspose.com/imaging/java)
-API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Bildbearbeitungs- und Konvertierungs-API für die Java-Plattform ist. Sie können die neueste Version direkt von herunterladen
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
+Um die DIB-Datei mit einem Wasserzeichen zu versehen, verwenden wir [Aspose.Imaging für Java](https://products.aspose.com/imaging/java) API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Bildbearbeitungs- und Konvertierungs-API für die Java Plattform ist. Sie können die neueste Version direkt von herunterladen [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml die folgenden Konfigurationen hinzufügen.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -55,9 +51,7 @@ und installieren Sie es in Ihrem Maven-basierten Projekt, indem Sie der pom.xml 
 
 {{% blocks/products/pf/agp/text %}}
 
-Du brauchst die
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java)
- um den folgenden Workflow in Ihrer eigenen Umgebung auszuprobieren.
+Du brauchst die [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) um den folgenden Workflow in Ihrer eigenen Umgebung auszuprobieren.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -110,7 +104,7 @@ Aspose.Imaging API ist eine Bildverarbeitungslösung zum Erstellen, Ändern, Zei
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Laden Sie einfach Ihre DIB-Datei hoch, setzen Sie Ihr Wasserzeichen und klicken Sie auf die Schaltfläche \"Hinzufügen\"." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Erhalten Sie sofort den Download-Link für die resultierende Datei" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen" >}}
 Eine DIB-Datei (Device Independent Bitmap) ist eine Rasterbilddatei, die in ihrer Struktur den standardmäßigen Bitmap-Dateien (BMP) ähnelt, jedoch einen anderen Header hat. Es kann mit fast allen Anwendungen geöffnet werden, die eine Standard-BMP-Datei sowohl unter Windows als auch unter macOS öffnen können. DIB sind Binärdateien und haben ein komplexes Dateiformat ähnlich wie BMP.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -121,6 +115,7 @@ Eine DIB-Datei (Device Independent Bitmap) ist eine Rasterbilddatei, die in ihre
 {{< blocks/products/pf/agp/other-supported-section title="Andere unterstützte Wasserzeichenformate" subTitle="Mit Java kann man problemlos verschiedene Formate mit Wasserzeichen versehen, einschließlich." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/watermark/bmp" name="BMP" description="Bitmap-Bild" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/watermark/ico" name="ICO" description="Windows-Symbol" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/watermark/dicom" name="DICOM" description="Digitale Bildgebung und Kommunikation" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/watermark/emf" name="EMF" description="Verbessertes Metafile-Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/java/watermark/gif" name="GIF" description="Grafisches Austauschformat" >}}

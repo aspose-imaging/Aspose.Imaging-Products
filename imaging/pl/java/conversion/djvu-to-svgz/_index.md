@@ -18,10 +18,7 @@ description: Przykładowy kod konwersji DJVU na SVGZ Java. Użyj przykładowego 
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować DJVU na SVGZ za pomocą Java" %}}
 
 Aby przekonwertować DJVU na SVGZ, użyjemy
-[Aspose.Imaging dla Javy](https://products.aspose.com/imaging/java)
-API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do obróbki i konwersji obrazów dla platformy Java. Możesz pobrać jego najnowszą wersję bezpośrednio z
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-i zainstaluj go w swoim projekcie opartym na Maven, dodając następujące konfiguracje do pom.xml.
+[Aspose.Imaging dla Javy](https://products.aspose.com/imaging/java) API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do obróbki i konwersji obrazów dla platformy Java. Możesz pobrać jego najnowszą wersję bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) i zainstaluj go w swoim projekcie opartym na Maven, dodając następujące konfiguracje do pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repozytorium" offSpacer="true" %}}
 
@@ -102,11 +99,11 @@ Przed uruchomieniem przykładowego kodu konwersji upewnij się, że masz następ
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
 DjVu, wymawiane jako „déjà vu”, to format plików graficznych przeznaczony dla zeskanowanych dokumentów i książek, zwłaszcza zawierających kombinację tekstu, rysunków, obrazów i fotografii. Został opracowany przez AT&T Labs. Wykorzystuje wiele technik, takich jak separacja warstw obrazu tekstu i obrazów tła, ładowanie progresywne, kodowanie arytmetyczne i kompresja stratna dla obrazów dwukolorowych. Ponieważ plik DJVU może zawierać skompresowane, ale wysokiej jakości kolorowe obrazy, zdjęcia, tekst i rysunki, i może być zapisany na mniejszej przestrzeni, dlatego jest używany w Internecie jako e-booki, podręczniki, gazety, starożytne dokumenty itp.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
 Plik z rozszerzeniem .svgz to skompresowana wersja pliku Scalable Vector Graphics (.SVG). Jest skompresowany za pomocą kompresji gzip i zawiera dane w formacie XML. Pliki SVGZ obsługują przezroczystość, gradienty, animacje i filtry. Pliki SVGZ mają mniejszy rozmiar w porównaniu z domyślnymi plikami SVG, a ten zmniejszony rozmiar pliku pomaga przesyłać pliki graficzne online. Projektant graficzny tworzy pliki SVGZ za pomocą narzędzi takich jak Adobe Illustrator, Corel PaintShop Pro i innych. Jednak pliki SVGZ można generować, włączając kompresję GZip na serwerze Apache podczas wysyłania danych obrazu.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -140,6 +137,7 @@ Plik z rozszerzeniem .svgz to skompresowana wersja pliku Scalable Vector Graphic
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/conversion/djvu-to-tga" name="TGA" description="Targa grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/conversion/djvu-to-svgz" name="SVGZ" description="Skompresowana wersja pliku Scalable Vector Graphics (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/conversion/djvu-to-canvas" name="CANVAS" description="Płótno HTML5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/java/conversion/djvu-to-ico" name="ICO" description="Ikona Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

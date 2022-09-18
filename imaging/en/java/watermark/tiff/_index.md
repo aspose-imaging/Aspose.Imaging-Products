@@ -16,11 +16,7 @@ description: Sample Java conversion code for TIFF format to  file. Use this exam
 
 {{% blocks/products/pf/agp/content h2="How to Watermark TIFF File Using Java" %}}
 
-In order to watermark TIFF file, we’ll use
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java) 
-API which is a feature-rich, powerful and easy to use image manipulation and conversion API for Java platform. You can download its latest version directly from
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 
-and install it within your Maven-based project by adding the following configurations to the pom.xml.
+In order to watermark TIFF file, we’ll use [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API which is a feature-rich, powerful and easy to use image manipulation and conversion API for Java platform. You can download its latest version directly from [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) and install it within your Maven-based project by adding the following configurations to the pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -55,9 +51,7 @@ and install it within your Maven-based project by adding the following configura
 
 {{% blocks/products/pf/agp/text %}}
 
-You need the
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) 
- to try the following workflow in your own environment.
+You need the [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) to try the following workflow in your own environment.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -110,7 +104,7 @@ Aspose.Imaging API is an image processing solution to create, modify, draw or co
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Just upload your TIFF file, set your watermark and hit \"Add\" button" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Instantly get the download link for the resultant file" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff" whatIsFormat1="What is" whatIsFormat2="File Format" readMoreFormat="Read More" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="What is" whatIsFormat2="File Format" readMoreFormat="Read More" >}}
 TIFF or TIF, Tagged Image File Format, represents raster images that are meant for usage on a variety of devices that comply with this file format standard. It is capable of describing bilevel, grayscale, palette-color and full-color image data in several color spaces. It supports lossy as well as lossless compression schemes to choose between space and time for applications using the format. The format is extensible and has underwent several revisions that allows the inclusion of an unlimited amount of private or special-purpose information. The format is not machine dependent and is free from bounds like processor, operating system, or file systems.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -121,6 +115,7 @@ TIFF or TIF, Tagged Image File Format, represents raster images that are meant f
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Watermarking Formats" subTitle="Using Java, one can easily watermark different formats including." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/java/watermark/bmp" name="BMP" description="Bitmap Picture" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/java/watermark/ico" name="ICO" description="Windows icon" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/java/watermark/dib" name="DIB" description="Device Independent Bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/java/watermark/dicom" name="DICOM" description="Digital Imaging & Communications" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/java/watermark/emf" name="EMF" description="Enhanced Metafile Format" >}}

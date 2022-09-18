@@ -16,11 +16,7 @@ description: Java 애플리케이션에서 DIB 파일을 병합하려면 온프�
 
 {{% blocks/products/pf/agp/content h2="Java을 사용하여 DIB 파일을 병합하는 방법" %}}
 
-DIB 파일을 병합하기 위해 다음을 사용합니다.
-[자바용 Aspose.Imaging](https://products.aspose.com/imaging/java)
-기능이 풍부하고 강력하며 사용하기 쉬운 Java 플랫폼용 이미지 조작 및 변환 API인 API입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.
-[메이븐](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-다음 구성을 pom.xml에 추가하여 Maven 기반 프로젝트 내에 설치합니다.
+DIB 파일을 병합하기 위해 다음을 사용합니다. [자바용 Aspose.Imaging](https://products.aspose.com/imaging/java) 기능이 풍부하고 강력하며 사용하기쉬운 Java 플랫폼용 이미지 조작 및 변환 API인 API입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.[메이븐(https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 다음 구성을 pom.xml에 추가하여 Maven 기반 프로젝트 내에 설치합니다.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -55,9 +51,7 @@ DIB 파일을 병합하기 위해 다음을 사용합니다.
 
 {{% blocks/products/pf/agp/text %}}
 
-당신은 필요합니다
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java)
- 자신의 환경에서 다음 워크플로를 시도합니다.
+당신은 필요합니다 [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) 자신의 환경에서 다음 워크플로를 시도합니다.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +102,7 @@ Aspose.Imaging API는 애플리케이션 내에서 이미지(사진)를 생성, 
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="DIB 파일을 업로드하고 \"지금 병합\" 버튼을 누르세요." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="결과 파일에 대한 다운로드 링크를 즉시 가져옵니다." >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기" >}}
 DIB(장치 독립 비트맵) 파일은 표준 비트맵 파일(BMP)과 구조가 유사하지만 헤더가 다른 래스터 이미지 파일입니다. Windows 및 macOS에서 표준 BMP 파일을 열 수 있는 거의 모든 응용 프로그램에서 열 수 있습니다. DIB는 바이너리 파일이며 BMP와 유사한 복잡한 파일 형식을 가지고 있습니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -120,6 +114,7 @@ DIB(장치 독립 비트맵) 파일은 표준 비트맵 파일(BMP)과 구조가
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/merge/apng" name="APNG" description="애니메이션 휴대용 네트워크 그래픽" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/merge/bmp" name="BMP" description="비트맵 그림" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/merge/ico" name="ICO" description="윈도우 아이콘" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/merge/jpg" name="JPG" description="공동 사진 전문가 그룹" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/merge/cdr" name="CDR" description="벡터 드로잉 이미지" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/merge/cmx" name="CMX" description="Corel 교환 이미지" >}}

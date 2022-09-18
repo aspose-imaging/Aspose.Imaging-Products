@@ -17,9 +17,7 @@ description: 尝试使用我们的本地文档 API 来查看 .NET Framework、.N
 {{% blocks/products/pf/agp/content h2="如何使用 Java 查看 EPS 图像" %}}
 
 为了查看 EPS 文件，我们将使用
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java)
-API 是一个功能丰富、功能强大且易于使用的 Java 平台图像处理和转换 API。您可以直接从
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
+[Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一个功能丰富、功能强大 易于使用的 Java 平台图像处理和转换 API。您可以直接从 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
 并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
@@ -55,9 +53,7 @@ API 是一个功能丰富、功能强大且易于使用的 Java 平台图像处�
 
 {{% blocks/products/pf/agp/text %}}
 
-你需要
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java)
- 在您自己的环境中尝试以下工作流程。
+你需要 [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) 在您自己的环境中尝试以下工作流程。
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -111,7 +107,7 @@ Aspose.Imaging API 是一种图像处理解决方案，用于在应用程序中�
         checkFreeAppLabel="查看我们的 [现场演示以查看 EPS](https://products.aspose.app/imaging/zh-hans/image-view/EPS)">}}
 
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多" >}}
 带有 EPS 扩展名的文件本质上描述了一个封装的 PostScript 语言程序，该程序描述了单个页面的外观。名称“封装”是因为它可以包含或封装在另一种 PostScript 语言页面描述中。这种基于脚本的文件格式可能包含文本、图形和图像的任意组合。 EPS 文件可能包含封装在内部的位图预览图像，以供可以打开此类文件的应用程序显示。可以使用不同的应用程序将 EPS 文件转换为标准图像格式，例如 JPG、PNG、TIFF 和 PDF。 Adobe Illustrator、Photoshop 和 PaintShop Pro。由于 EPS 文件中存在安全漏洞，Office 2016、Office 2013、Office 2010 和 Office 365 已关闭将 EPS 文件插入 Office 文档的功能。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -123,6 +119,7 @@ Aspose.Imaging API 是一种图像处理解决方案，用于在应用程序中�
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/viewer/apng" name="APNG" description="动画便携式网络图形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/viewer/bmp" name="BMP" description="位图图片" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/viewer/ico" name="ICO" description="窗口图标" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/viewer/jpg" name="JPG" description="联合摄影专家组" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/viewer/jpeg" name="JPEG" description="联合摄影专家组" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/viewer/dib" name="DIB" description="设备无关位图" >}}

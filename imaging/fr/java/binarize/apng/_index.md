@@ -16,11 +16,7 @@ description: Essayez nos API de document sur site pour binariser les fichiers AP
 
 {{% blocks/products/pf/agp/content h2="Comment binariser les fichiers APNG à l'aide de Java" %}}
 
-Afin de binariser les fichiers APNG, nous utiliserons
-[Aspose.Imaging pour Java](https://products.aspose.com/imaging/java)
-API qui est une API de manipulation et de conversion d'images riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme Java. Vous pouvez télécharger sa dernière version directement depuis
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au fichier pom.xml.
+Afin de binariser les fichiers APNG, nous utiliserons [Aspose.Imaging pour Java](https://products.aspose.com/imaging/java) API qui est une API de manipulation et de conversion d'images riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme Java. Vous pouvez télécharger sa dernière version directement depuis [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au fichier pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -55,9 +51,7 @@ et installez-le dans votre projet basé sur Maven en ajoutant les configurations
 
 {{% blocks/products/pf/agp/text %}}
 
-Vous avez besoin du
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java)
- pour essayer le workflow suivant dans votre propre environnement.
+Vous avez besoin du [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) pour essayer le workflow suivant dans votre propre environnement.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +102,7 @@ Aspose.Imaging API est une solution de traitement d'images pour créer, modifier
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Téléchargez simplement vos fichiers APNG et appuyez sur le bouton \"Binariser maintenant\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Obtenez instantanément le lien de téléchargement du fichier résultant" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite" >}}
 Un fichier avec l'extension .apng (Animated Portable Network Graphics) est un format graphique raster et est une extension non officielle du Portable Network Graphic (PNG). Il comprend plusieurs cadres (chacun d'une image PNG) qui représente une séquence d'animation. Cela donne une visualisation similaire à un fichier GIF. Les fichiers APNG prennent en charge les images 24 bits et la transparence 8 bits. APNG est rétrocompatible avec les fichiers GIF non animés. Les fichiers APNG utilisent la même extension .png et peuvent être ouverts par des applications telles que Mozilla Firefox, Chrome avec prise en charge APNG, les applications iMessage pour iOS 10.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -119,6 +113,7 @@ Un fichier avec l'extension .apng (Animated Portable Network Graphics) est un fo
 {{< blocks/products/pf/agp/other-supported-section title="Autres formats de binarisation pris en charge" subTitle="En utilisant Java, on peut facilement binariser différents formats, y compris." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/binarize/bmp" name="BMP" description="Image bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/binarize/ico" name="ICO" description="Icône Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/binarize/jpg" name="JPG" description="Groupe mixte d'experts photographiques" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/binarize/jpeg" name="JPEG" description="Groupe mixte d'experts photographiques" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/binarize/dib" name="DIB" description="Bitmap indépendant du périphérique" >}}

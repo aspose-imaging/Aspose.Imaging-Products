@@ -16,13 +16,7 @@ description: Probeer onze On-Premise document-API's om de achtergrond van ODG-be
 
 {{% blocks/products/pf/agp/content h2="Hoe de achtergrond in ODG-bestanden te veranderen met behulp van C#" %}}
 
-Om de achtergrond in ODG-bestanden te wijzigen, gebruiken we
-[Aspose.Imaging voor .NET](https://products.aspose.com/imaging/net)
- API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het C#-platform. Open
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- pakketbeheerder, zoek naar
- **Aspose.Imaging**
- en installeren. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
+Om de achtergrond in ODG-bestanden te wijzigen, gebruiken we [Aspose.Imaging voor .NET](https://products.aspose.com/imaging/net) API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het C#-platform. Open [NuGet](https://www.nuget.org/packages/aspose.imaging) pakketbeheerder, zoek naar **Aspose.Imaging** en installeren. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
@@ -42,9 +36,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-Je hebt de nodig
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- om de volgende workflow in uw eigen omgeving te proberen.
+Je hebt de nodig [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) om de volgende workflow in uw eigen omgeving te proberen.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -97,7 +89,7 @@ Aspose.Imaging API is een beeldverwerkingsoplossing voor het maken, wijzigen, te
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Upload gewoon uw ODG-bestanden en druk op de knop \"Achtergrond nu wijzigen\"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Krijg direct de downloadlink voor het resulterende bestand" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder" >}}
 Het ODG-bestandsformaat wordt gebruikt door Apache OpenOffice's Draw-toepassing om tekenelementen als vectorafbeelding op te slaan. Het volgt de op XML gebaseerde specificaties voor bestandsindelingen zoals uiteengezet door Advancement of Structural Information Standards (OASIS). ODG geeft tekeningen weer als vectorafbeeldingen met punten, lijnen en krommen. Naast OpenOffice bieden LibreOffice en andere toepassingen ook ondersteuning voor het werken met het ODG-bestandsformaat. Andere formaten die door OpenOffice worden ondersteund, zijn bijvoorbeeld ODT, ODF, ODP en ODS.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -109,6 +101,7 @@ Het ODG-bestandsformaat wordt gebruikt door Apache OpenOffice's Draw-toepassing 
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/change-background/apng" name="APNG" description="Geanimeerde draagbare netwerkgraphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/change-background/bmp" name="BMP" description="Bitmapafbeelding" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/change-background/ico" name="ICO" description="Windows-pictogram" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/change-background/jpg" name="JPG" description="Joint Photographic Experts Group" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/change-background/dib" name="DIB" description="Apparaatonafhankelijke bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/change-background/dicom" name="DICOM" description="Digitale beeldvorming en communicatie" >}}

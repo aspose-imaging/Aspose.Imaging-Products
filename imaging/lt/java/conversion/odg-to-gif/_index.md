@@ -18,10 +18,7 @@ description: „Java“ konvertavimo ODG į GIF pavyzdys. Naudokite API pavyzdin
 {{% blocks/products/pf/agp/content h2="Kaip konvertuoti ODG į GIF naudojant Java" %}}
 
 Norėdami konvertuoti ODG į GIF, naudosime
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java)
-API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo manipuliavimo ir konvertavimo API, skirta Java platformai. Naujausią jos versiją galite atsisiųsti tiesiai iš
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-ir įdiekite jį savo Maven pagrįstame projekte, pridėdami toliau nurodytas konfigūracijas prie pom.xml.
+[Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo manipuliavimo ir konvertavimo API, skirta Java platformai. Naujausią jos versiją galite atsisiųsti tiesiai iš [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) ir įdiekite jį savo Maven pagrįstame projekte, pridėdami toliau nurodytas konfigūracijas prie pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -102,11 +99,11 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
 ODG failo formatą naudoja „Apache OpenOffice“ programa „Draw“, kad išsaugotų piešimo elementus kaip vektorinį vaizdą. Ji atitinka XML failo formato specifikacijas, nurodytas Struktūrinės informacijos standartų pažangos (OASIS). ODG vaizduoja brėžinius kaip vektorinius vaizdus naudojant taškus, linijas ir kreives. Be OpenOffice, LibreOffice ir kitos programos taip pat palaiko darbą su ODG failo formatu. Pavyzdžiui, kiti „OpenOffice“ palaikomi formatai apima ODT, ODF, ODP ir ODS.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
 GIF arba grafinis mainų formatas yra labai suspausto vaizdo tipas. „Unisys“ priklausantis GIF naudoja LZW glaudinimo algoritmą, kuris nepablogina vaizdo kokybės. Kiekvienam vaizdui GIF paprastai leidžia iki 8 bitų viename pikselyje ir iki 256 spalvų visame vaizde. Priešingai nei JPEG vaizdas, kuris gali rodyti iki 16 milijonų spalvų ir gana paliečia žmogaus akies ribas. Kai atsirado internetas, GIF išliko geriausiu pasirinkimu, nes jiems reikėjo mažo pralaidumo ir jie buvo suderinami su grafika, kuri naudoja vientisas spalvų sritis. Animacinis GIF sujungia daugybę vaizdų arba kadrų į vieną failą ir pateikia juos seka, kad būtų sukurtas animacinis klipas arba trumpas vaizdo įrašas. Spalvų apribojimai yra iki 256 kiekvienam kadrui ir greičiausiai bus mažiausiai tinkami kitiems vaizdams ir nuotraukoms su spalvų gradientu atkurti.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -140,6 +137,7 @@ GIF arba grafinis mainų formatas yra labai suspausto vaizdo tipas. „Unisys“
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/conversion/odg-to-tga" name="TGA" description="Targa grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/conversion/odg-to-svgz" name="SVGZ" description="Suglaudinta Scalable Vector Graphics (.SVG) failo versija." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/conversion/odg-to-canvas" name="CANVAS" description="HTML5 drobė" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/java/conversion/odg-to-ico" name="ICO" description="Windows piktograma" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

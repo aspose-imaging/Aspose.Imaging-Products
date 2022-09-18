@@ -18,10 +18,7 @@ description: Exemple de code pour la conversion Java SVG vers DICOM. Utilisez un
 {{% blocks/products/pf/agp/content h2="Comment convertir SVG en DICOM en utilisant Java" %}}
 
 Afin de convertir SVG en DICOM, nous utiliserons
-[Aspose.Imaging pour Java](https://products.aspose.com/imaging/java)
-API qui est une API de manipulation et de conversion d'images riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme Java. Vous pouvez télécharger sa dernière version directement depuis
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au fichier pom.xml.
+[Aspose.Imaging pour Java](https://products.aspose.com/imaging/java) API qui est une API de manipulation et de conversion d'images riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme Java. Vous pouvez télécharger sa dernière version directement depuis [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au fichier pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -102,11 +99,11 @@ Avant d'exécuter l'exemple de code de conversion, assurez-vous que vous dispose
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
 Les fichiers SVG sont des fichiers graphiques vectoriels évolutifs qui utilisent un format de texte basé sur XML pour décrire l'apparence de l'image. Le mot Scalable fait référence au fait que le SVG peut être mis à l'échelle à différentes tailles sans perte de qualité. La description textuelle de ces fichiers les rend indépendants de la résolution. C'est l'un des formats les plus utilisés pour créer des sites Web et des graphiques d'impression afin d'atteindre l'évolutivité. Le format ne peut cependant être utilisé que pour les graphiques en deux dimensions. Les fichiers SVG peuvent être visualisés/ouverts dans presque tous les navigateurs modernes, y compris Chrome, Internet Explorer, Firefox et Safari.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
 DICOM est l'acronyme de Digital Imaging and Communications in Medicine et appartient au domaine de l'informatique médicale. DICOM est la combinaison d'une définition de format de fichier et d'un protocole de communication réseau. DICOM utilise l'extension .DCM. .DCM existe en deux formats différents, à savoir le format 1.x et le format 2.x. DCM Format 1.x est en outre disponible en deux versions normale et étendue. DICOM est utilisé pour l'intégration d'appareils d'imagerie médicale tels que des imprimantes, des serveurs, des scanners, etc. de divers fournisseurs et contient également des données d'identification de chaque patient pour un caractère unique. Les fichiers DICOM peuvent être partagés entre deux parties si elles sont capables de recevoir des données d'image au format DICOM. La partie communication de DICOM est le protocole de la couche application et utilise TCP/IP pour communiquer entre les entités. Les protocoles HTTP et HTTPS sont utilisés pour les services Web de DICOM. Les versions prises en charge par les services Web sont 1.0, 1.1, 2 ou ultérieures.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -140,6 +137,7 @@ DICOM est l'acronyme de Digital Imaging and Communications in Medicine et appart
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/conversion/svg-to-svgz" name="SVGZ" description="Version compressée du fichier Scalable Vector Graphics (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/conversion/svg-to-canvas" name="CANVAS" description="Canevas HTML5" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/conversion/svg-to-svg" name="SVG" description="Image Vectorielle" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/fr/java/conversion/svg-to-ico" name="ICO" description="Icône Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

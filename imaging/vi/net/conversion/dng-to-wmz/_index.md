@@ -18,12 +18,7 @@ description: Mã mẫu cho chuyển đổi DNG sang WMZ C #. Sử dụng mã m�
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi DNG thành WMZ bằng C#" %}}
 
 Để chuyển đổi DNG thành WMZ, chúng tôi sẽ sử dụng
-[Aspose.Imaging cho .NET] (https://products.aspose.com/imaging/net)
- API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C #. Mở
- [NuGet] (https://www.nuget.org/packages/aspose.imaging)
- quản lý gói, tìm kiếm
- ** Aspose.Imaging **
- và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển Trình quản lý Gói.
+[Aspose.Imaging cho .NET] (https://products.aspose.com/imaging/net) API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C #. Mở [NuGet] (https://www.nuget.org/packages/aspose.imaging) quản lý gói, tìm kiếm ** Aspose.Imaging ** và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển Trình quản lý Gói.
 
 {{% blocks/products/pf/agp/code-block title = "Lệnh Bảng điều khiển Trình quản lý Gói" offSpacer = "true"%}}
 
@@ -91,11 +86,11 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
 DNG là một định dạng hình ảnh máy ảnh kỹ thuật số được sử dụng để lưu trữ các tệp thô. Nó đã được phát triển bởi Adobe vào tháng 9 năm 2004. Về cơ bản nó được phát triển cho nhiếp ảnh kỹ thuật số. DNG là phần mở rộng của định dạng tiêu chuẩn TIFF / EP và sử dụng siêu dữ liệu đáng kể. Để xử lý dữ liệu thô từ máy ảnh kỹ thuật số một cách dễ dàng linh hoạt và khả năng kiểm soát nghệ thuật, các nhiếp ảnh gia chọn tệp thô của máy ảnh. Các định dạng JPEG và TIFF lưu trữ hình ảnh được xử lý bởi máy ảnh, do đó không có nhiều chỗ để thay đổi ở các định dạng như vậy.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
 WMZ là một phần mở rộng tệp cho định dạng tệp da trong / cho / được sử dụng bởi Windows Media Player. Tệp WMZ về cơ bản là một tệp WMF được nén trong XML.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -129,6 +124,7 @@ WMZ là một phần mở rộng tệp cho định dạng tệp da trong / cho /
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/conversion/dng-to-tga" name="TGA" description="Đồ họa Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/conversion/dng-to-svgz" name="SVGZ" description="Phiên bản nén của tệp Đồ họa Vectơ có thể mở rộng (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/conversion/dng-to-canvas" name="CANVAS" description="HTML5 Canvas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/conversion/dng-to-ico" name="ICO" description="Biểu tượng Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

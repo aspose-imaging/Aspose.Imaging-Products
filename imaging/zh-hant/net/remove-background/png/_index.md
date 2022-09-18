@@ -16,13 +16,7 @@ description: 嘗試使用我們的本地文檔 API 來刪除 .NET Framework、.N
 
 {{% blocks/products/pf/agp/content h2="如何使用 C# 刪除 PNG 文件中的背景" %}}
 
-為了去除 PNG 文件中的背景，我們將使用
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- API 是一個功能豐富、功能強大且易於使用的 C# 平台圖像處理和轉換 API。打開
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- 包管理器，搜索
- **Aspose.Imaging**
- 並安裝。您也可以從包管理器控制台使用以下命令。
+為了去除 PNG 文件中的背景，我們將使用 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一個功能豐富、功能強大且易於使用的 C# 平台圖像處理和轉換 API。打開 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 並安裝。您也可以從包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 
@@ -42,9 +36,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-你需要
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- 在您自己的環境中嘗試以下工作流程。
+你需要 [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) 在您自己的環境中嘗試以下工作流程。
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -70,7 +62,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/code-block title="刪除 PNG 圖像中的背景 - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "07bd18a1af2633c99a708341d84b5ad2" "remove-change-background-generic-examples.cs" >}}
+{{< gist "aspose-com-gists" "c28d7d7f7dff39444751b5724d5ba14a" "remove-change-background-generic-examples.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -97,8 +89,8 @@ Aspose.Imaging API 是一種圖像處理解決方案，用於在應用程序中�
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="只需上傳您的 PNG 文件並點擊“立即刪除背景”按鈕" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="立即獲取生成文件的下載鏈接" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多" >}}
-PNG, Portable Network Graphics, refers to a type of raster image file format that use loseless compression. This file format was created as a replacement of Graphics Interchange Format (GIF) and has no copyright limitations. However, PNG file format does not support animations. PNG file format supports loseless image compression that makes it popular among its users. With the passage of time, PNG has evolved as one of the mostly used image file format. Almost all Operating Systems have support for opening PNG files. For example, Microsoft Windows viewer has the capability to open PNG files as the OS has by default the support available as part of installation.
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多" >}}
+PNG，便攜式網絡圖形，是指一種使用無損壓縮的光柵圖像文件格式。此文件格式是作為圖形交換格式 (GIF) 的替代品而創建的，沒有版權限制。但是，PNG 文件格式不支持動畫。 PNG文件格式支持無損圖像壓縮，使其在用戶中很受歡迎。隨著時間的推移，PNG 已經發展成為最常用的圖像文件格式之一。幾乎所有操作系統都支持打開 PNG 文件。例如，Microsoft Windows 查看器能夠打開 PNG 文件，因為操作系統默認支持作為安裝的一部分。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
     {{< /blocks/products/pf/agp/about-file-section >}}
@@ -107,29 +99,30 @@ PNG, Portable Network Graphics, refers to a type of raster image file format tha
 
 {{< blocks/products/pf/agp/other-supported-section title="其他支持的刪除背景格式" subTitle="使用 C#，可以輕鬆地從不同格式中刪除背景，包括。" >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/remove-background/apng" name="APNG" description="Animated Portable Network Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/remove-background/bmp" name="BMP" description="Bitmap Picture" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/remove-background/jpg" name="JPG" description="Joint Photographic Experts Group" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/remove-background/dib" name="DIB" description="Device Independent Bitmap" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/remove-background/dicom" name="DICOM" description="Digital Imaging & Communications" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/remove-background/djvu" name="DJVU" description="Graphics Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/remove-background/dng" name="DNG" description="Digital Camera Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/remove-background/emf" name="EMF" description="Enhanced Metafile Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/remove-background/emz" name="EMZ" description="Windows Compressed Enhanced Metafile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/remove-background/gif" name="GIF" description="Graphical Interchange Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/remove-background/apng" name="APNG" description="動畫便攜式網絡圖形" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/remove-background/bmp" name="BMP" description="位圖圖片" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/remove-background/ico" name="ICO" description="窗口圖標" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/remove-background/jpg" name="JPG" description="聯合攝影專家組" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/remove-background/dib" name="DIB" description="設備無關位圖" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/remove-background/dicom" name="DICOM" description="數碼影像與通訊" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/remove-background/djvu" name="DJVU" description="圖形格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/remove-background/dng" name="DNG" description="數碼相機圖像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/remove-background/emf" name="EMF" description="增強的元文件格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/remove-background/emz" name="EMZ" description="Windows 壓縮增強元文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/remove-background/gif" name="GIF" description="圖形交換格式" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/remove-background/jp2" name="JP2" description="JPEG 2000" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/remove-background/j2k" name="J2K" description="Wavelet Compressed Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/remove-background/tiff" name="TIFF" description="Tagged Image Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/remove-background/webp" name="WEBP" description="Raster Web Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/remove-background/wmf" name="WMF" description="Microsoft Windows Metafile" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/remove-background/wmz" name="WMZ" description="Compressed Windows Media Player Skin" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/remove-background/tga" name="TGA" description="Targa Graphic" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/remove-background/svg" name="SVG" description="Scalable Vector Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/remove-background/eps" name="EPS" description="Encapsulated PostScript Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/remove-background/cdr" name="CDR" description="Vector Drawing Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/remove-background/cmx" name="CMX" description="Corel Exchange Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/remove-background/otg" name="OTG" description="OpenDocument Standard" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/remove-background/odg" name="ODG" description="Apache OpenOffice Draw Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/remove-background/j2k" name="J2K" description="小波壓縮圖像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/remove-background/tiff" name="TIFF" description="標記圖像格式" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/remove-background/webp" name="WEBP" description="光柵網絡圖像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/remove-background/wmf" name="WMF" description="微軟視窗元文件" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/remove-background/wmz" name="WMZ" description="壓縮的 Windows Media Player 皮膚" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/remove-background/tga" name="TGA" description="塔加圖形" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/remove-background/svg" name="SVG" description="可縮放矢量圖形" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/remove-background/eps" name="EPS" description="封裝的 PostScript 語言" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/remove-background/cdr" name="CDR" description="矢量繪圖圖像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/remove-background/cmx" name="CMX" description="Corel 交換圖像" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/remove-background/otg" name="OTG" description="開放文檔標準" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hant/net/remove-background/odg" name="ODG" description="Apache OpenOffice 繪圖格式" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

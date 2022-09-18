@@ -16,13 +16,7 @@ description: Hãy thử các API tài liệu On-Premise của chúng tôi cho c�
 
 {{% blocks/products/pf/agp/content h2="Cách hòa sắc tệp PNG bằng C#" %}}
 
-Để hòa trộn các tệp PNG, chúng tôi sẽ sử dụng
-[Aspose.Imaging cho .NET] (https://products.aspose.com/imaging/net)
- API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C #. Mở
- [NuGet] (https://www.nuget.org/packages/aspose.imaging)
- quản lý gói, tìm kiếm
- ** Aspose.Imaging **
- và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển Trình quản lý Gói.
+Để hòa trộn các tệp PNG, chúng tôi sẽ sử dụng [Aspose.Imaging cho .NET] (https://products.aspose.com/imaging/net) API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C #. Mở [NuGet] (https://www.nuget.org/packages/aspose.imaging) quản lý gói, tìm kiếm ** Aspose.Imaging ** và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển Trình quản lý Gói.
 
 {{% blocks/products/pf/agp/code-block title = "Lệnh Bảng điều khiển Trình quản lý Gói" offSpacer = "true"%}}
 
@@ -97,7 +91,7 @@ Aspose.Imaging API là một giải pháp xử lý hình ảnh để tạo, sử
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Chỉ cần tải lên các tệp PNG của bạn và nhấn nút \"Dither now \"" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Nhận ngay liên kết tải xuống cho tệp kết quả" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm" >}}
 PNG, Đồ họa mạng di động, đề cập đến một loại định dạng tệp hình ảnh raster sử dụng tính năng nén không có lỗ. Định dạng tệp này được tạo để thay thế cho Định dạng trao đổi đồ họa (GIF) và không có giới hạn bản quyền. Tuy nhiên, định dạng tệp PNG không hỗ trợ hình ảnh động. Định dạng tệp PNG hỗ trợ nén hình ảnh vô tận khiến nó trở nên phổ biến đối với người dùng. Theo thời gian, PNG đã phát triển như một trong những định dạng tệp hình ảnh được sử dụng nhiều nhất. Hầu hết tất cả các Hệ điều hành đều có hỗ trợ mở tệp PNG. Ví dụ, trình xem Microsoft Windows có khả năng mở tệp PNG vì theo mặc định, hệ điều hành có hỗ trợ sẵn có như một phần của quá trình cài đặt.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -109,6 +103,7 @@ PNG, Đồ họa mạng di động, đề cập đến một loại định dạ
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/dither/apng" name="APNG" description="Đồ họa mạng di động hoạt hình" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/dither/bmp" name="BMP" description="Ảnh bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/dither/ico" name="ICO" description="Biểu tượng Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/dither/jpg" name="JPG" description="Nhóm chuyên gia nhiếp ảnh chung" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/dither/jpeg" name="JPEG" description="Nhóm chuyên gia nhiếp ảnh chung" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/dither/dib" name="DIB" description="Bản đồ bit độc lập với thiết bị" >}}

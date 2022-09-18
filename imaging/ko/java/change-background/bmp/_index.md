@@ -16,11 +16,7 @@ description: Java 애플리케이션의 BMP 파일에서 배경을 변경하려�
 
 {{% blocks/products/pf/agp/content h2="Java을 사용하여 BMP 파일의 배경을 변경하는 방법" %}}
 
-BMP 파일의 배경을 변경하려면 다음을 사용합니다.
-[자바용 Aspose.Imaging](https://products.aspose.com/imaging/java)
-기능이 풍부하고 강력하며 사용하기 쉬운 Java 플랫폼용 이미지 조작 및 변환 API인 API입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.
-[메이븐](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-다음 구성을 pom.xml에 추가하여 Maven 기반 프로젝트 내에 설치합니다.
+BMP 파일의 배경을 변경하려면 다음을 사용합니다. [자바용 Aspose.Imaging](https://products.aspose.com/imaging/java) 기능이 풍부하고 강력하며 사용하기쉬운 Java 플랫폼용 이미지 조작 및 변환 API인 API입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.[메이븐(https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 다음 구성을 pom.xml에 추가하여 Maven 기반 프로젝트 내에 설치합니다.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -55,9 +51,7 @@ BMP 파일의 배경을 변경하려면 다음을 사용합니다.
 
 {{% blocks/products/pf/agp/text %}}
 
-당신은 필요합니다
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java)
- 자신의 환경에서 다음 워크플로를 시도합니다.
+당신은 필요합니다 [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) 자신의 환경에서 다음 워크플로를 시도합니다.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +102,7 @@ Aspose.Imaging API는 애플리케이션 내에서 이미지(사진)를 생성, 
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="BMP 파일을 업로드하고 \"지금 배경 변경\" 버튼을 누르세요." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="결과 파일에 대한 다운로드 링크를 즉시 가져옵니다." >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기" >}}
 확장자가 .BMP인 파일은 비트맵 디지털 이미지를 저장하는 데 사용되는 비트맵 이미지 파일을 나타냅니다. 이러한 이미지는 그래픽 어댑터와 무관하며 DIB(장치 독립 비트맵) 파일 형식이라고도 합니다. 이 독립성은 Microsoft Windows 및 Mac과 같은 여러 플랫폼에서 파일을 여는 목적을 제공합니다. BMP 파일 형식은 데이터를 흑백 및 다양한 색상 깊이의 색상 형식으로 2차원 디지털 이미지로 저장할 수 있습니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -119,6 +113,7 @@ Aspose.Imaging API는 애플리케이션 내에서 이미지(사진)를 생성, 
 {{< blocks/products/pf/agp/other-supported-section title="기타 지원되는 변경 배경 형식" subTitle="Java을 사용하면 다음을 포함한 다양한 형식으로 배경을 쉽게 변경할 수 있습니다." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/change-background/apng" name="APNG" description="애니메이션 휴대용 네트워크 그래픽" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/change-background/ico" name="ICO" description="윈도우 아이콘" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/change-background/jpg" name="JPG" description="공동 사진 전문가 그룹" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/change-background/dib" name="DIB" description="장치 독립 비트맵" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ko/java/change-background/dicom" name="DICOM" description="디지털 이미징 및 통신" >}}

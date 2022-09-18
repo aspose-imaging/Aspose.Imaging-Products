@@ -16,13 +16,8 @@ description: Probieren Sie unsere On-Premise-Dokument-APIs aus, um die Datei WEB
 
 {{% blocks/products/pf/agp/content h2="So versehen Sie eine WEBP-Datei mit C# mit einem Wasserzeichen" %}}
 
-Um die WEBP-Datei mit einem Wasserzeichen zu versehen, verwenden wir
-[Aspose.Imaging für .NET](https://products.aspose.com/imaging/net)
- API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Bildbearbeitungs- und Konvertierungs-API für die C#-Plattform ist. Offen
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- Paketmanager, suche nach
- **Aspose.Imaging**
- und installieren. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden.
+Um die WEBP-Datei mit einem Wasserzeichen zu versehen, verwenden wir [Aspose.Imaging für .NET](https://products.aspose.com/imaging/net) API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Bildbearbeitungs- und Konvertierungs-API für die C#-Plattform ist. Offen [NuGet](https://www.nuget.org/packages/aspose.imaging) Paketmanager, suche nach
+ **Aspose.Imaging** und installieren. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
@@ -42,9 +37,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-Du brauchst die
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- um den folgenden Workflow in Ihrer eigenen Umgebung auszuprobieren.
+Du brauchst die [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) um den folgenden Workflow in Ihrer eigenen Umgebung auszuprobieren.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -99,7 +92,7 @@ Aspose.Imaging API ist eine Bildverarbeitungslösung zum Erstellen, Ändern, Zei
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Laden Sie einfach Ihre WEBP-Datei hoch, setzen Sie Ihr Wasserzeichen und klicken Sie auf die Schaltfläche \"Hinzufügen\"." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Erhalten Sie sofort den Download-Link für die resultierende Datei" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen" >}}
 WebP, eingeführt von Google, ist ein modernes Raster-Webbild-Dateiformat, das auf verlustfreier und verlustbehafteter Komprimierung basiert. Es bietet die gleiche Bildqualität, während die Bildgröße erheblich reduziert wird. Da die meisten Webseiten Bilder als effektive Darstellung von Daten verwenden, führt die Verwendung von WebP-Bildern auf Webseiten zu einem schnelleren Laden von Webseiten. Laut Google sind verlustfreie WebP-Bilder im Vergleich zu PNGs 26 % kleiner, während verlustbehaftete WebP-Bilder 25–34 % kleiner sind als vergleichbare JPEG-Bilder. Bilder werden basierend auf dem Index der strukturellen Ähnlichkeit (SSIM) zwischen WebP und anderen Bilddateiformaten verglichen. WebP ist ein Schwesterprojekt des Multimedia-Containerformats WebM.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -110,6 +103,7 @@ WebP, eingeführt von Google, ist ein modernes Raster-Webbild-Dateiformat, das a
 {{< blocks/products/pf/agp/other-supported-section title="Andere unterstützte Wasserzeichenformate" subTitle="Mit C# kann man problemlos verschiedene Formate mit Wasserzeichen versehen, einschließlich." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/watermark/bmp" name="BMP" description="Bitmap-Bild" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/watermark/ico" name="ICO" description="Windows-Symbol" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/watermark/dib" name="DIB" description="Geräteunabhängige Bitmap" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/watermark/dicom" name="DICOM" description="Digitale Bildgebung und Kommunikation" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/de/net/watermark/emf" name="EMF" description="Verbessertes Metafile-Format" >}}

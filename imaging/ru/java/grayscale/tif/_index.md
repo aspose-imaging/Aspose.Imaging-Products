@@ -16,11 +16,7 @@ description: Попробуйте наши локальные API-интерфе
 
 {{% blocks/products/pf/agp/content h2="Как сделать файлы TIF в оттенках серого, используя Java" %}}
 
-Для файлов TIF в градациях серого мы будем использовать
-[Aspose.Imaging для Java](https://products.aspose.com/imaging/java)
-API, который представляет собой многофункциональный, мощный и простой в использовании API для обработки и преобразования изображений для платформы Java. Вы можете скачать его последнюю версию прямо с
-[Maven] (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-и установите его в своем проекте на основе Maven, добавив следующие конфигурации в файл pom.xml.
+Для файлов TIF в градациях серого мы будем использовать [Aspose.Imaging для Java](https://products.aspose.com/imaging/java) API, который представляет собой многофункциональный, мощный и простой в использовании API для обработки и преобразования изображений для платформы Java. Вы можете скачать его последнюю версию прямо с [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) и установите его в своем проекте на основе Maven, добавив следующие конфигурации в файл pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Репозиторий" offSpacer="true" %}}
 
@@ -55,9 +51,7 @@ API, который представляет собой многофункцио
 
 {{% blocks/products/pf/agp/text %}}
 
-Вам нужно
- [aspose-imaging-version-jdk16.jar] (https://downloads.aspose.com/imaging/java)
- чтобы попробовать следующий рабочий процесс в вашей собственной среде.
+Вам нужно [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java), чтобы попробовать следующий рабочий процесс в вашей собственной среде.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +102,7 @@ Aspose.Imaging API — это решение для обработки изоб�
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Просто загрузите файлы TIF и нажмите кнопку «Оттенки серого сейчас»." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Мгновенно получить ссылку для скачивания результирующего файла" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIF" readMoreLink="https://docs.fileformat.com/image/tif" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIF" readMoreLink="https://docs.fileformat.com/image/tif/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее" >}}
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -120,6 +114,7 @@ Aspose.Imaging API — это решение для обработки изоб�
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/grayscale/apng" name="APNG" description="Анимированная портативная сетевая графика" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/grayscale/bmp" name="BMP" description="Растровое изображение" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/grayscale/ico" name="ICO" description="Значок Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/grayscale/jpg" name="JPG" description="Объединенная группа экспертов по фотографии" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/grayscale/jpeg" name="JPEG" description="Объединенная группа экспертов по фотографии" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/grayscale/dib" name="DIB" description="Независимое от устройства растровое изображение" >}}

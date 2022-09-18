@@ -18,12 +18,7 @@ description: Voorbeeldcode voor DIB naar DICOM C#-conversie. Gebruik API-voorbee
 {{% blocks/products/pf/agp/content h2="Hoe DIB naar DICOM te converteren met C#" %}}
 
 Om DIB naar DICOM te converteren, gebruiken we
-[Aspose.Imaging voor .NET](https://products.aspose.com/imaging/net)
- API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het C#-platform. Open
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- pakketbeheerder, zoek naar
- **Aspose.Imaging**
- en installeren. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
+[Aspose.Imaging voor .NET](https://products.aspose.com/imaging/net) API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het C#-platform. Open [NuGet](https://www.nuget.org/packages/aspose.imaging) pakketbeheerder, zoek naar **Aspose.Imaging** en installeren. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
@@ -91,11 +86,11 @@ Voordat u de conversievoorbeeldcode uitvoert, moet u ervoor zorgen dat u aan de 
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
 Een DIB-bestand (Device Independent Bitmap) is een rasterafbeeldingsbestand dat qua structuur vergelijkbaar is met de standaard Bitmap-bestanden (BMP), maar een andere kop heeft. Het kan worden geopend met bijna alle toepassingen die een standaard BMP-bestand op Windows en macOS kunnen openen. DIB zijn binaire bestanden en hebben een complexe bestandsindeling die lijkt op BMP.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
 DICOM is de afkorting voor Digital Imaging and Communications in Medicine en heeft betrekking op het vakgebied Medische Informatica. DICOM is de combinatie van bestandsformaatdefinitie en een netwerkcommunicatieprotocol. DICOM gebruikt de .DCM-extensie. .DCM bestaat in twee verschillende formaten, namelijk formaat 1.x en formaat 2.x. DCM Format 1.x is verder beschikbaar in twee versies normaal en uitgebreid. DICOM wordt gebruikt voor de integratie van medische beeldvormingsapparatuur zoals printers, servers, scanners enz. van verschillende leveranciers en bevat ook identificatiegegevens van elke patiënt voor uniekheid. DICOM-bestanden kunnen tussen twee partijen worden gedeeld als ze beeldgegevens in DICOM-indeling kunnen ontvangen. Het communicatiegedeelte van DICOM is een applicatielaagprotocol en gebruikt TCP/IP om te communiceren tussen entiteiten. Voor de webservices van DICOM worden HTTP- en HTTPS-protocollen gebruikt. Door webservices ondersteunde versies zijn 1.0, 1.1, 2 of hoger.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -129,6 +124,7 @@ DICOM is de afkorting voor Digital Imaging and Communications in Medicine en hee
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/conversion/dib-to-tga" name="TGA" description="Targa-afbeelding" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/conversion/dib-to-svgz" name="SVGZ" description="Gecomprimeerde versie van het Scalable Vector Graphics-bestand (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/conversion/dib-to-canvas" name="CANVAS" description="HTML5-canvas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/nl/net/conversion/dib-to-ico" name="ICO" description="Windows-pictogram" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

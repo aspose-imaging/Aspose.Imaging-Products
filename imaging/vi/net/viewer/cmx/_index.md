@@ -17,12 +17,7 @@ description: Hãy thử các API tài liệu On-Premise của chúng tôi để 
 {{% blocks/products/pf/agp/content h2="Cách xem hình ảnh CMX bằng C#" %}}
 
 Để xem các tệp CMX, chúng tôi sẽ sử dụng
-[Aspose.Imaging cho .NET] (https://products.aspose.com/imaging/net)
- API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C #. Mở
- [NuGet] (https://www.nuget.org/packages/aspose.imaging)
- quản lý gói, tìm kiếm
- ** Aspose.Imaging **
- và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển Trình quản lý Gói.
+[Aspose.Imaging cho .NET] (https://products.aspose.com/imaging/net) API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C #. Mở [NuGet] (https://www.nuget.org/packages/aspose.imaging) quản lý gói, tìm kiếm ** Aspose.Imaging ** và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển Trình quản lý Gói.
 
 {{% blocks/products/pf/agp/code-block title = "Lệnh Bảng điều khiển Trình quản lý Gói" offSpacer = "true"%}}
 
@@ -100,7 +95,7 @@ Aspose.Imaging API là một giải pháp xử lý hình ảnh để tạo, sử
         checkFreeAppLabel="Kiểm tra [bản trình diễn trực tiếp để xem CMX](https://products.aspose.app/imaging/vi/image-view/CMX)">}}
 
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm" >}}
 Các tệp có phần mở rộng CMX là định dạng tệp hình ảnh Corel Exchange được sử dụng làm bản trình bày bởi các ứng dụng CorelSuite. Nó chứa dữ liệu hình ảnh dưới dạng đồ họa vectơ cũng như siêu dữ liệu mô tả hình ảnh. Các tệp CMX có thể được mở bằng CorelDraw, Corel Presentations, Paint Shop Pro và một số phiên bản của Adobe Illustrator.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -112,6 +107,7 @@ Các tệp có phần mở rộng CMX là định dạng tệp hình ảnh Corel
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/viewer/apng" name="APNG" description="Đồ họa mạng di động hoạt hình" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/viewer/bmp" name="BMP" description="Ảnh bitmap" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/viewer/ico" name="ICO" description="Biểu tượng Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/viewer/jpg" name="JPG" description="Nhóm chuyên gia nhiếp ảnh chung" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/viewer/jpeg" name="JPEG" description="Nhóm chuyên gia nhiếp ảnh chung" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/viewer/dib" name="DIB" description="Bản đồ bit độc lập với thiết bị" >}}

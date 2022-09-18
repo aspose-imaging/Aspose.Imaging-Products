@@ -15,7 +15,7 @@ description: Java Image processing and manipulation library. Create load view ed
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" 
 liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://purchase.aspose.com/pricing/imaging/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/imaging/java" installationsDocsLink="https://docs.aspose.com/imaging/java/installation" mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-imaging/" directDownloadLink="https://downloads.aspose.com/imaging/java" liveDemosText="Live Demos" overviewText="Overview" featuresText="Features" resourcesText="Resources" pricingText="Pricing" downloadText="Download" learnText="Learn" buyText="Buy" >}}
 
-{{< blocks/products/pf/tab-content carousel1Text1="At a" carousel1Text2="Glance" carousel2Text1="Supported File" carousel2Text2="Formats" carousel3Text1="Platform" carousel3Text2="Independence">}}
+{{< blocks/products/pf/tab-content carousel1Text1="At a" carousel1Text2="Glance" carousel2Text1="Platform" carousel2Text2="Independence" carousel3Text1="Supported File" carousel3Text2="Formats">}}
 <p align="justify">
  Aspose.Imaging for Java is a library offering advanced image processing features. You could easily create, load, manipulate, convert, compress images or photos using this API. Also Aspose. Imaging library supports drawing and work with graphic primitives. Image export and conversion (including uniform multi-page image processing) is the one of API core features along with image transformations (resize, crop, flip&amp;rotate, binarization, grayscale, adjust), advanced image manipulation features (filtering, dithering, masking, deskewing) and memory optimization strategies.
 </p>
@@ -193,7 +193,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
      <b>
       Raster Formats:
      </b>
-     JPEG2000, JPEG, BMP, TIFF, GIF, PNG, DICOM, TGA
+     JPEG2000, JPEG, BMP, TIFF, GIF, PNG, DICOM, TGA, ICO
     </li>
     <li>
      <b>
@@ -486,7 +486,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
 
 {{< blocks/products/pf/support-learning-resources supportAndLearningResourcesText="Support and Learning Resources">}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/imaging/net/" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/imaging/java" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-imaging/Aspose.Imaging-for-Java" >}}
 {{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/java/imaging" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}

@@ -16,13 +16,7 @@ description: Wypróbuj nasze lokalne interfejsy API dokumentów, aby dodać znak
 
 {{% blocks/products/pf/agp/content h2="Jak oznaczyć plik EMF znakiem wodnym za pomocą C#" %}}
 
-Aby oznaczyć plik EMF znakiem wodnym, użyjemy
-[Aspose.Imaging dla .NET](https://products.aspose.com/imaging/net)
- API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do obróbki i konwersji obrazów dla platformy C#. otwarty
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- menedżer pakietów, szukaj
- **Aspose.Obrazowanie**
- i zainstaluj. Możesz również użyć następującego polecenia z konsoli Menedżera pakietów.
+Aby oznaczyć plik EMF znakiem wodnym, użyjemy [Aspose.Imaging dla .NET](https://products.aspose.com/imaging/net) API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do obróbki i konwersji obrazów dla platformy C#. Otwarty [NuGet](https://www.nuget.org/packages/aspose.imaging) menedżer pakietów, szukaj **Aspose.Obrazowanie** i zainstaluj. Możesz również użyć następującego polecenia z konsoli Menedżera pakietów.
 
 {{% blocks/products/pf/agp/code-block title="Polecenie konsoli menedżera pakietów" offSpacer="true" %}}
 
@@ -44,9 +38,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-Potrzebujesz
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- aby wypróbować następujący przepływ pracy we własnym środowisku.
+Potrzebujesz [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) aby wypróbować następujący przepływ pracy we własnym środowisku.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -101,7 +93,7 @@ Aspose.Imaging API to rozwiązanie do przetwarzania obrazów do tworzenia, modyf
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Po prostu prześlij plik EMF, ustaw znak wodny i naciśnij przycisk „Dodaj”" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Natychmiast uzyskaj link do pobrania pliku wynikowego" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej" >}}
 Ulepszony format metapliku (EMF) przechowuje obrazy graficzne niezależnie od urządzenia. Metapliki EMF składają się z rekordów o zmiennej długości w porządku chronologicznym, które mogą renderować przechowywany obraz po przeanalizowaniu na dowolnym urządzeniu wyjściowym. Te rekordy o zmiennej długości mogą być definicjami zamkniętych obiektów, poleceniami do rysowania i właściwościami graficznymi krytycznymi dla dokładnego renderowania obrazu. Gdy urządzenie otwiera metaplik EMF przy użyciu własnego środowiska graficznego, proporcje, wymiary, kolory i inne właściwości graficzne oryginalnego obrazu pozostają takie same niezależnie od platformy urządzenia otwierającego.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -112,6 +104,7 @@ Ulepszony format metapliku (EMF) przechowuje obrazy graficzne niezależnie od ur
 {{< blocks/products/pf/agp/other-supported-section title="Inne obsługiwane formaty znaków wodnych" subTitle="Używając C#, można łatwo znakować różne formaty, w tym." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/watermark/bmp" name="BMP" description="Obraz bitmapowy" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/watermark/ico" name="ICO" description="Ikona Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/watermark/dib" name="DIB" description="Mapa bitowa niezależna od urządzenia" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/watermark/dicom" name="DICOM" description="Obrazowanie cyfrowe i komunikacja" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/watermark/gif" name="GIF" description="Graficzny format wymiany" >}}

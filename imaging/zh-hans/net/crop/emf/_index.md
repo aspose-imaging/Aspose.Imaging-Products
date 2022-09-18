@@ -16,13 +16,7 @@ description: 尝试使用我们的本地文档 API 来裁剪 .NET Framework、.N
 
 {{% blocks/products/pf/agp/content h2="如何使用 C# 裁剪 EMF 文件" %}}
 
-为了裁剪 EMF 文件，我们将使用
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- API 是一个功能丰富、功能强大且易于使用的 C# 平台图像处理和转换 API。打开
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- 包管理器，搜索
- **Aspose.Imaging**
- 并安装。您还可以从包管理器控制台使用以下命令。
+为了裁剪 EMF 文件，我们将使用 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一个功能丰富、功能强大 易于使用的 C# 平台图像处理和转换 API。打开 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 并安装。您还可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 
@@ -42,9 +36,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-你需要
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- 在您自己的环境中尝试以下工作流程。
+你需要 [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) 在您自己的环境中尝试以下工作流程。
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -97,7 +89,7 @@ Aspose.Imaging API 是一种图像处理解决方案，用于在应用程序中�
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="只需上传您的 EMF 文件并点击“立即裁剪”按钮" >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="立即获取生成文件的下载链接" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多" >}}
 增强型元文件格式 (EMF) 独立于设备存储图形图像。 EMF 的元文件由按时间顺序排列的可变长度记录组成，可以在任何输出设备上解析后呈现存储的图像。这些可变长度记录可以是封闭对象的定义、绘图命令和对准确渲染图像至关重要的图形属性。当设备使用自己的图形环境打开 EMF 图元文件时，无论打开设备平台如何，原始图像的比例、尺寸、颜色和其他图形属性都保持不变。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -109,6 +101,7 @@ Aspose.Imaging API 是一种图像处理解决方案，用于在应用程序中�
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/crop/apng" name="APNG" description="动画便携式网络图形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/crop/bmp" name="BMP" description="位图图片" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/crop/ico" name="ICO" description="窗口图标" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/crop/jpg" name="JPG" description="联合摄影专家组" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/crop/dib" name="DIB" description="设备无关位图" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/net/crop/dicom" name="DICOM" description="数码影像与通讯" >}}

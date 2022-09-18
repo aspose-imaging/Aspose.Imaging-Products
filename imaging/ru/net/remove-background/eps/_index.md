@@ -16,13 +16,7 @@ description: Попробуйте наши локальные API-интерфе
 
 {{% blocks/products/pf/agp/content h2="Как удалить фон в файлах EPS с помощью C#" %}}
 
-Чтобы удалить фон в файлах EPS, мы будем использовать
-[Aspose.Imaging для .NET](https://products.aspose.com/imaging/net)
- API, который представляет собой многофункциональный, мощный и простой в использовании API для обработки и преобразования изображений для платформы C#. Открытым
- [NuGet] (https://www.nuget.org/packages/aspose.imaging)
- менеджер пакетов, поиск
- **Aspose.Imaging**
- и установить. Вы также можете использовать следующую команду из консоли диспетчера пакетов.
+Чтобы удалить фон в файлах EPS, мы будем использовать [Aspose.Imaging для .NET](https://products.aspose.com/imaging/net) API, который представляет собой многофункциональный, мощный и простой в использовании API для обработки и преобразования изображений для платформы C#. Открытым [NuGet](https://www.nuget.org/packages/aspose.imaging) менеджер пакетов, поиск **Aspose.Imaging** и установить. Вы также можете использовать следующую команду из консоли диспетчера пакетов.
 
 {{% blocks/products/pf/agp/code-block title="Команда консоли диспетчера пакетов" offSpacer="true" %}}
 
@@ -44,9 +38,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-Вам нужно
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- чтобы попробовать следующий рабочий процесс в вашей собственной среде.
+Вам нужно [aspose.imaging.dll](https://downloads.aspose.com/imaging/net), чтобы попробовать следующий рабочий процесс в вашей собственной среде.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -72,7 +64,7 @@ Aspose.Imaging для .NET поддерживается во всех основ
 
 {{% blocks/products/pf/agp/code-block title="Удалить фон в изображениях EPS - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "07bd18a1af2633c99a708341d84b5ad2" "remove-change-background-generic-examples.cs" >}}
+{{< gist "aspose-com-gists" "c28d7d7f7dff39444751b5724d5ba14a" "remove-change-background-generic-examples.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -99,7 +91,7 @@ Aspose.Imaging API — это решение для обработки изоб�
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Просто загрузите файлы EPS и нажмите кнопку «Удалить фон сейчас»." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Мгновенно получить ссылку для скачивания результирующего файла" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее" >}}
 Файлы с расширением EPS, по существу, описывают языковую программу Encapsulated PostScript, описывающую внешний вид отдельной страницы. Имя «Инкапсулированный», потому что оно может быть включено или инкапсулировано в описание страницы на другом языке PostScript. Этот формат файла на основе сценария может содержать любую комбинацию текста, графики и изображений. Файлы EPS могут включать растровое изображение предварительного просмотра, инкапсулированное внутри для отображения приложениями, которые могут открывать такие файлы. Файлы EPS могут быть преобразованы в стандартные форматы изображений, такие как JPG, PNG, TIFF и PDF, с использованием различных приложений, например. Adobe Illustrator, Photoshop и PaintShop Pro. Из-за уязвимости в файлах EPS в Office 2016, Office 2013, Office 2010 и Office 365 отключена возможность вставки файлов EPS в документы Office.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -111,6 +103,7 @@ Aspose.Imaging API — это решение для обработки изоб�
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/remove-background/apng" name="APNG" description="Анимированная портативная сетевая графика" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/remove-background/bmp" name="BMP" description="Растровое изображение" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/remove-background/ico" name="ICO" description="Значок Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/remove-background/jpg" name="JPG" description="Объединенная группа экспертов по фотографии" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/remove-background/dib" name="DIB" description="Независимое от устройства растровое изображение" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/remove-background/dicom" name="DICOM" description="Цифровая визуализация и связь" >}}

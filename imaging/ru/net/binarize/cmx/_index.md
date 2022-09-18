@@ -16,13 +16,7 @@ description: Попробуйте наши локальные API-интерфе
 
 {{% blocks/products/pf/agp/content h2="Как бинаризировать файлы CMX с помощью C#" %}}
 
-Чтобы бинаризировать файлы CMX, мы будем использовать
-[Aspose.Imaging для .NET](https://products.aspose.com/imaging/net)
- API, который представляет собой многофункциональный, мощный и простой в использовании API для обработки и преобразования изображений для платформы C#. Открытым
- [NuGet] (https://www.nuget.org/packages/aspose.imaging)
- менеджер пакетов, поиск
- **Aspose.Imaging**
- и установить. Вы также можете использовать следующую команду из консоли диспетчера пакетов.
+Чтобы бинаризировать файлы CMX, мы будем использовать [Aspose.Imaging для .NET](https://products.aspose.com/imaging/net) API, который представляет собой многофункциональный, мощный и простой в использовании API для обработки и преобразования изображений для платформы C#. Открытым [NuGet](https://www.nuget.org/packages/aspose.imaging) менеджер пакетов, поиск **Aspose.Imaging** и установить. Вы также можете использовать следующую команду из консоли диспетчера пакетов.
 
 {{% blocks/products/pf/agp/code-block title="Команда консоли диспетчера пакетов" offSpacer="true" %}}
 
@@ -44,9 +38,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-Вам нужно
- [aspose.imaging.dll](https://downloads.aspose.com/imaging/net)
- чтобы попробовать следующий рабочий процесс в вашей собственной среде.
+Вам нужно [aspose.imaging.dll](https://downloads.aspose.com/imaging/net), чтобы попробовать следующий рабочий процесс в вашей собственной среде.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -99,7 +91,7 @@ Aspose.Imaging API — это решение для обработки изоб�
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Просто загрузите файлы CMX и нажмите кнопку \"Бинаризовать сейчас\"." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Мгновенно получить ссылку для скачивания результирующего файла" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее" >}}
 Файлы с расширением CMX представляют собой формат файла изображения Corel Exchange, который используется в качестве представления приложениями CorelSuite. Он содержит данные изображения в виде векторной графики, а также метаданные, описывающие изображение. Файлы CMX можно открывать с помощью CorelDraw, Corel Presentations, Paint Shop Pro и некоторых версий Adobe Illustrator.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -111,6 +103,7 @@ Aspose.Imaging API — это решение для обработки изоб�
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/binarize/apng" name="APNG" description="Анимированная портативная сетевая графика" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/binarize/bmp" name="BMP" description="Растровое изображение" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/binarize/ico" name="ICO" description="Значок Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/binarize/jpg" name="JPG" description="Объединенная группа экспертов по фотографии" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/binarize/jpeg" name="JPEG" description="Объединенная группа экспертов по фотографии" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/binarize/dib" name="DIB" description="Независимое от устройства растровое изображение" >}}

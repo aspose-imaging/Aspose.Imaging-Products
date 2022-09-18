@@ -15,7 +15,7 @@ description: API thư viện xử lý và thao tác hình ảnh để tạo ch�
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" 
 liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://purchase.aspose.com/pricing/imaging/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/imaging/net" installationsDocsLink="https://docs.aspose.com/imaging/net/installation" nugetLink="https://www.nuget.org/packages/aspose.imaging" nugetPackageName="Aspose.Imaging" directDownloadLink="https://downloads.aspose.com/imaging/net" liveDemosText="Bản trình diễn trực tiếp" overviewText="Tổng quat" featuresText="Đặc trưng" resourcesText="Tài nguyên" pricingText="Định giá" downloadText="Tải xuống" learnText="Học" buyText="Mua" >}}
 
-{{< blocks/products/pf/tab-content carousel1Text1="Tại một" carousel1Text2="Liếc nhìn" carousel2Text1="Tệp được hỗ trợ" carousel2Text2="Định dạng" carousel3Text1="Nền tảng" carousel3Text2="Sự độc lập">}}
+{{< blocks/products/pf/tab-content carousel1Text1="Tại một" carousel1Text2="Liếc nhìn" carousel2Text1="Nền tảng" carousel2Text2="Sự độc lập" carousel3Text1="Tệp được hỗ trợ" carousel3Text2="Định dạng">}}
 <p align="justify">
  Aspose.Imaging for .NET là một thư viện cung cấp các tính năng xử lý hình ảnh nâng cao. Bạn có thể dễ dàng tạo, tải, thao tác, chuyển đổi, nén hình ảnh hoặc ảnh chụp bằng cách sử dụng API này. Ngoài ra, Aspose. Thư viện hình ảnh hỗ trợ vẽ và làm việc với đồ họa nguyên thủy. Xuất và chuyển đổi hình ảnh (bao gồm cả xử lý hình ảnh nhiều trang đồng nhất) là một trong những tính năng cốt lõi của API cùng với các phép chuyển đổi hình ảnh (thay đổi kích thước, cắt, lật và xoay, mã hóa nhị phân, thang độ xám, điều chỉnh), các tính năng thao tác hình ảnh nâng cao (lọc, phối màu, tạo mặt nạ, giải mã ) và các chiến lược tối ưu hóa bộ nhớ.
 </p>
@@ -208,7 +208,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
      <b>
       Định dạng Raster:
      </b>
-     JPEG2000, JPEG, BMP, TIFF, GIF, PNG, DICOM, TGA
+     JPEG2000, JPEG, BMP, TIFF, GIF, PNG, DICOM, TGA, ICO
     </li>
     <li>
      <b>
@@ -501,7 +501,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
 
 {{< blocks/products/pf/support-learning-resources supportAndLearningResourcesText="Tài nguyên Hỗ trợ và Học tập">}}
 {{< blocks/products/pf/slr-tab tabTitle="Tài nguyên học tập" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Tài liệu" href="https://docs.aspose.com/imaging/net/" >}}
+{{< blocks/products/pf/slr-element name="Tài liệu" href="https://docs.aspose.com/imaging/net" >}}
 {{< blocks/products/pf/slr-element name="Mã nguồn" href="https://github.com/aspose-imaging/Aspose.Imaging-for-.NET" >}}
 {{< blocks/products/pf/slr-element name="Tham chiếu API" href="https://apireference.aspose.com/net/imaging" >}}
 {{< blocks/products/pf/slr-element name="Video hướng dẫn" href="https://www.youtube.com/user/asposevideo" >}}

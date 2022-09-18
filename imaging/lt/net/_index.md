@@ -15,7 +15,7 @@ description: Vaizdų apdorojimo ir manipuliavimo bibliotekos API, skirta kurti r
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" 
 liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://purchase.aspose.com/pricing/imaging/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/imaging/net" installationsDocsLink="https://docs.aspose.com/imaging/net/installation" nugetLink="https://www.nuget.org/packages/aspose.imaging" nugetPackageName="Aspose.Imaging" directDownloadLink="https://downloads.aspose.com/imaging/net" liveDemosText="Tiesioginės demonstracinės versijos" overviewText="Apžvalga" featuresText="funkcijos" resourcesText="Ištekliai" pricingText="Kainodara" downloadText="parsisiųsti" learnText="Mokytis" buyText="Pirkti" >}}
 
-{{< blocks/products/pf/tab-content carousel1Text1="Prie a" carousel1Text2="Žvilgsnis" carousel2Text1="Palaikomas failas" carousel2Text2="Formatai" carousel3Text1="Platforma" carousel3Text2="Nepriklausomybė">}}
+{{< blocks/products/pf/tab-content carousel1Text1="Prie a" carousel1Text2="Žvilgsnis" carousel2Text1="Platforma" carousel2Text2="Nepriklausomybė" carousel3Text1="Palaikomas failas" carousel3Text2="Formatai">}}
 <p align="justify">
  Aspose.Imaging for .NET yra biblioteka, siūlanti pažangias vaizdo apdorojimo funkcijas. Naudodami šią API galite lengvai kurti, įkelti, manipuliuoti, konvertuoti, suspausti vaizdus ar nuotraukas. Taip pat Aspose. Vaizdo biblioteka palaiko piešimą ir darbą su grafiniais primityvais. Vaizdo eksportavimas ir konvertavimas (įskaitant vienodą kelių puslapių vaizdo apdorojimą) yra viena iš pagrindinių API funkcijų kartu su vaizdo transformacijomis (dydžio keitimu, apkarpymu, apvertimu ir pasukimu, dvejetainiu, pilkos spalvos tonu, koregavimu), pažangiomis vaizdo manipuliavimo funkcijomis (filtravimu, keitimu, maskavimu, iškraipymu). ) ir atminties optimizavimo strategijas.
 </p>
@@ -208,7 +208,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
      <b>
       Rastriniai formatai:
      </b>
-     JPEG2000, JPEG, BMP, TIFF, GIF, PNG, DICOM, TGA
+     JPEG2000, JPEG, BMP, TIFF, GIF, PNG, DICOM, TGA, ICO
     </li>
     <li>
      <b>
@@ -501,7 +501,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
 
 {{< blocks/products/pf/support-learning-resources supportAndLearningResourcesText="Pagalba ir mokymosi ištekliai">}}
 {{< blocks/products/pf/slr-tab tabTitle="Mokymosi ištekliai" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Dokumentacija" href="https://docs.aspose.com/imaging/net/" >}}
+{{< blocks/products/pf/slr-element name="Dokumentacija" href="https://docs.aspose.com/imaging/net" >}}
 {{< blocks/products/pf/slr-element name="Pirminis kodas" href="https://github.com/aspose-imaging/Aspose.Imaging-for-.NET" >}}
 {{< blocks/products/pf/slr-element name="API nuorodos" href="https://apireference.aspose.com/net/imaging" >}}
 {{< blocks/products/pf/slr-element name="Mokomieji vaizdo įrašai" href="https://www.youtube.com/user/asposevideo" >}}

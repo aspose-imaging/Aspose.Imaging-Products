@@ -18,12 +18,7 @@ description: Пример кода для преобразования CDR в DI
 {{% blocks/products/pf/agp/content h2="Как преобразовать CDR в DICOM с помощью C#" %}}
 
 Чтобы преобразовать CDR в DICOM, мы будем использовать
-[Aspose.Imaging для .NET](https://products.aspose.com/imaging/net)
- API, который представляет собой многофункциональный, мощный и простой в использовании API для обработки и преобразования изображений для платформы C#. Открытым
- [NuGet] (https://www.nuget.org/packages/aspose.imaging)
- менеджер пакетов, поиск
- **Aspose.Imaging**
- и установить. Вы также можете использовать следующую команду из консоли диспетчера пакетов.
+[Aspose.Imaging для .NET](https://products.aspose.com/imaging/net) API, который представляет собой многофункциональный, мощный и простой в использовании API для обработки и преобразования изображений для платформы C#. Открытым [NuGet](https://www.nuget.org/packages/aspose.imaging) менеджер пакетов, поиск **Aspose.Imaging** и установить. Вы также можете использовать следующую команду из консоли диспетчера пакетов.
 
 {{% blocks/products/pf/agp/code-block title="Команда консоли диспетчера пакетов" offSpacer="true" %}}
 
@@ -93,11 +88,11 @@ PM> Install-Package Aspose.Imaging
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
 Файл CDR — это файл изображения векторного рисунка, изначально созданный с помощью CorelDRAW для хранения закодированного и сжатого цифрового изображения. Такой файл чертежа содержит текст, линии, формы, изображения, цвета и эффекты для векторного представления содержимого изображения. Файлы CDR можно открывать в CorelDRAW в качестве основного приложения, а также преобразовывать в другие форматы, такие как PDF, JPG, PNG, BMP и AI. Его можно использовать для представления различных графических данных, таких как брошюры, таблоиды, конверты и открытки. Помимо CorelDRAW, другие продукты Corel, такие как Corel Paintshop Pro и CorelDRAW Graphics Suite, также могут открывать форматы файлов CDR.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
 DICOM — это аббревиатура от Digital Imaging and Communications in Medicine, относящаяся к области медицинской информатики. DICOM — это комбинация определения формата файла и сетевого протокола связи. DICOM использует расширение .DCM. .DCM существует в двух разных форматах, то есть в формате 1.x и формате 2.x. Формат DCM 1.x также доступен в двух версиях: нормальной и расширенной. DICOM используется для интеграции медицинских устройств визуализации, таких как принтеры, серверы, сканеры и т. д., от различных поставщиков, а также содержит идентификационные данные каждого пациента для обеспечения уникальности. Файлы DICOM могут совместно использоваться двумя сторонами, если они способны получать данные изображения в формате DICOM. Коммуникационная часть DICOM представляет собой протокол прикладного уровня и использует TCP/IP для связи между объектами. Протоколы HTTP и HTTPS используются для веб-служб DICOM. Версии, поддерживаемые веб-службами: 1.0, 1.1, 2 или более поздние версии.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -131,6 +126,7 @@ DICOM — это аббревиатура от Digital Imaging and Communication
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/conversion/cdr-to-tga" name="TGA" description="Тарга Графика" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/conversion/cdr-to-svgz" name="SVGZ" description="Сжатая версия файла масштабируемой векторной графики (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/conversion/cdr-to-canvas" name="CANVAS" description="Холст HTML5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/conversion/cdr-to-ico" name="ICO" description="Значок Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

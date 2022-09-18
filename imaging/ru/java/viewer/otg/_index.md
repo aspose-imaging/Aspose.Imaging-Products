@@ -17,10 +17,7 @@ description: Попробуйте наши локальные API-интерфе
 {{% blocks/products/pf/agp/content h2="Как просматривать изображения OTG с помощью Java" %}}
 
 Для просмотра файлов OTG мы будем использовать
-[Aspose.Imaging для Java](https://products.aspose.com/imaging/java)
-API, который представляет собой многофункциональный, мощный и простой в использовании API для обработки и преобразования изображений для платформы Java. Вы можете скачать его последнюю версию прямо с
-[Maven] (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-и установите его в своем проекте на основе Maven, добавив следующие конфигурации в файл pom.xml.
+[Aspose.Imaging для Java](https://products.aspose.com/imaging/java) API, который представляет собой многофункциональный, мощный и простой в использовании API для обработки и преобразования изображений для платформы Java. Вы можете скачать его последнюю версию прямо с [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) и установите его в своем проекте на основе Maven, добавив следующие конфигурации в файл pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Репозиторий" offSpacer="true" %}}
 
@@ -55,9 +52,7 @@ API, который представляет собой многофункцио
 
 {{% blocks/products/pf/agp/text %}}
 
-Вам нужно
- [aspose-imaging-version-jdk16.jar] (https://downloads.aspose.com/imaging/java)
- чтобы попробовать следующий рабочий процесс в вашей собственной среде.
+Вам нужно [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java), чтобы попробовать следующий рабочий процесс в вашей собственной среде.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -111,7 +106,7 @@ Aspose.Imaging API — это решение для обработки изоб�
         checkFreeAppLabel="Проверьте наши [живые демонстрации для просмотра OTG](https://products.aspose.app/imaging/ru/image-view/OTG)">}}
 
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее" >}}
 Файл OTG представляет собой шаблон чертежа, созданный с использованием стандарта OpenDocument, который соответствует спецификации OASIS Office Applications 1.0. Он представляет собой организацию элементов рисования по умолчанию для векторного изображения, которую можно использовать для дальнейшего улучшения содержимого файла.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -123,6 +118,7 @@ Aspose.Imaging API — это решение для обработки изоб�
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/viewer/apng" name="APNG" description="Анимированная портативная сетевая графика" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/viewer/bmp" name="BMP" description="Растровое изображение" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/viewer/ico" name="ICO" description="Значок Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/viewer/jpg" name="JPG" description="Объединенная группа экспертов по фотографии" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/viewer/jpeg" name="JPEG" description="Объединенная группа экспертов по фотографии" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/viewer/dib" name="DIB" description="Независимое от устройства растровое изображение" >}}

@@ -18,12 +18,7 @@ description: C# konvertavimo iš CDR į APNG pavyzdinis kodas. Naudokite API pav
 {{% blocks/products/pf/agp/content h2="Kaip konvertuoti CDR į APNG naudojant C#" %}}
 
 Norėdami konvertuoti CDR į APNG, naudosime
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta C# platformai. Atviras
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- paketų tvarkyklė, ieškokite
- **Aspose.Imaging**
- ir įdiegti. Taip pat galite naudoti šią komandą iš paketų tvarkyklės konsolės.
+[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta C# platformai. Atviras [NuGet](https://www.nuget.org/packages/aspose.imaging) paketų tvarkyklė, ieškokite **Aspose.Imaging** ir įdiegti. Taip pat galite naudoti šią komandą iš paketų tvarkyklės konsolės.
 
 {{% blocks/products/pf/agp/code-block title="Paketų tvarkytuvės konsolės komanda" offSpacer="true" %}}
 
@@ -91,11 +86,11 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
 CDR failas yra vektorinio piešimo vaizdo failas, sukurtas naudojant CorelDRAW, kad būtų saugomas užkoduotas ir suspaustas skaitmeninis vaizdas. Tokiame piešimo faile yra tekstas, linijos, formos, vaizdai, spalvos ir efektai, skirti vaizdo turinio vektoriniam atvaizdavimui. CDR failus galima atidaryti naudojant CorelDRAW kaip pagrindinę programą ir konvertuoti į kitus formatus, tokius kaip PDF, JPG, PNG, BMP ir AI. Jis gali būti naudojamas įvairiems grafiniams duomenims, pvz., brošiūroms, bulvariniams leidiniams, vokams ir atvirukams, vaizduoti. Be CorelDRAW, kiti Corel produktai, tokie kaip Corel Paintshop Pro ir CorelDRAW Graphics Suite, taip pat gali atidaryti CDR failų formatus.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
 Failas su plėtiniu .apng (Animated Portable Network Graphics) yra rastrinis grafinis formatas ir yra neoficialus nešiojamojo tinklo grafikos (PNG) plėtinys. Jį sudaro keli kadrai (kiekvienas PNG vaizdas), vaizduojantis animacijos seką. Tai suteikia panašią vizualizaciją kaip GIF failas. APNG failai palaiko 24 bitų vaizdus ir 8 bitų skaidrumą. APNG yra suderinamas su neanimuotais GIF failais. APNG failuose naudojamas tas pats .png plėtinys ir juos gali atidaryti tokios programos kaip „Mozilla Firefox“, „Chrome“ su APNG palaikymu, „iMessage“ programos, skirtos „iOS 10“.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -129,6 +124,7 @@ Failas su plėtiniu .apng (Animated Portable Network Graphics) yra rastrinis gra
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/conversion/cdr-to-tga" name="TGA" description="Targa grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/conversion/cdr-to-svgz" name="SVGZ" description="Suglaudinta Scalable Vector Graphics (.SVG) failo versija." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/conversion/cdr-to-canvas" name="CANVAS" description="HTML5 drobė" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/lt/net/conversion/cdr-to-ico" name="ICO" description="Windows piktograma" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

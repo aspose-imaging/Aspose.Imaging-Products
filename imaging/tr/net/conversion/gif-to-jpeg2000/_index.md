@@ -18,12 +18,7 @@ description: GIF - JPEG2000 C# dönüşümü için örnek kod. VB.NET, Asp.NET v
 {{% blocks/products/pf/agp/content h2="C# Kullanarak GIF'i JPEG2000'ye Dönüştürme" %}}
 
 GIF'i JPEG2000'ye dönüştürmek için kullanacağız
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net)
- C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. Açık
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- paket yöneticisi, ara
- **Aspose.Görüntüleme**
- ve yükleyin. Paket Yöneticisi Konsolundan aşağıdaki komutu da kullanabilirsiniz.
+[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. Açık [NuGet](https://www.nuget.org/packages/aspose.imaging) paket yöneticisi, ara **Aspose.Görüntüleme** ve yükleyin. Paket Yöneticisi Konsolundan aşağıdaki komutu da kullanabilirsiniz.
 
 {{%blocks/products/pf/agp/code-block title="Paket Yöneticisi Konsol Komutu" offSpacer="true" %}}
 
@@ -91,7 +86,7 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
 GIF veya Grafik Değişim Biçimi, yüksek oranda sıkıştırılmış bir görüntü türüdür. Unisys'e ait olan GIF, görüntü kalitesini düşürmeyen LZW sıkıştırma algoritmasını kullanır. Her görüntü için GIF tipik olarak piksel başına 8 bite kadar izin verir ve görüntü genelinde 256 renge kadar izin verilir. 16 milyona kadar renk gösterebilen ve insan gözünün sınırlarına oldukça dokunan bir JPEG görüntüsünün aksine. İnternet ortaya çıktığında, GIF'ler düşük bant genişliği gerektirdiğinden ve düz renkli alanlar tüketen grafiklerle uyumlu olduğundan en iyi seçenek olarak kaldı. Animasyonlu bir GIF, çok sayıda görüntüyü veya çerçeveyi tek bir dosyada birleştirir ve hareketli bir klip veya kısa bir video oluşturmak için bunları bir sırayla görüntüler. Renk sınırlamaları her kare için 256'ya kadardır ve renk gradyanlı diğer görüntülerin ve fotoğrafların çoğaltılması için en az uygun olanlardır.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -128,6 +123,7 @@ JPEG 2000 (JP2), bir görüntü kodlama sistemi ve son teknoloji görüntü sık
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/conversion/gif-to-tga" name="TGA" description="Targa Grafiği" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/conversion/gif-to-svgz" name="SVGZ" description="Ölçeklenebilir Vektör Grafikleri (.SVG) dosyasının sıkıştırılmış sürümü." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/conversion/gif-to-canvas" name="CANVAS" description="HTML5 Tuval" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/tr/net/conversion/gif-to-ico" name="ICO" description="Windows simgesi" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

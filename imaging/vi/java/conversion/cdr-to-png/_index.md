@@ -18,10 +18,7 @@ description: Mã mẫu cho chuyển đổi Java từ CDR sang PNG. Sử dụng m
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi CDR thành PNG bằng Java" %}}
 
 Để chuyển đổi CDR thành PNG, chúng tôi sẽ sử dụng
-[Aspose.Imaging cho Java] (https://products.aspose.com/imaging/java)
-API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng Java. Bạn có thể tải xuống phiên bản mới nhất của nó trực tiếp từ
-[Maven] (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-và cài đặt nó trong dự án dựa trên Maven của bạn bằng cách thêm các cấu hình sau vào pom.xml.
+[Aspose.Imaging cho Java] (https://products.aspose.com/imaging/java) API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng Java. Bạn có thể tải xuống phiên bản mới nhất của nó trực tiếp từ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) và cài đặt nó trong dự án dựa trên Maven của bạn bằng cách thêm các cấu hình sau vào pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Kho" offSpacer="true"%}}
 
@@ -102,11 +99,11 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
 Tệp CDR là tệp hình ảnh bản vẽ vectơ được tạo nguyên bản bằng CorelDRAW để lưu trữ hình ảnh kỹ thuật số được mã hóa và nén. Một tệp bản vẽ như vậy có chứa văn bản, đường thẳng, hình dạng, hình ảnh, màu sắc và các hiệu ứng để biểu diễn vector của nội dung hình ảnh. Các tệp CDR có thể được mở bằng CorelDRAW làm ứng dụng chính và cũng có thể được chuyển đổi sang các định dạng khác như PDF, JPG, PNG, BMP và AI. Nó có thể được sử dụng để biểu diễn các dữ liệu đồ họa khác nhau như tài liệu quảng cáo, báo lá cải, phong bì và bưu thiếp. Bên cạnh CorelDRAW, các sản phẩm Corel khác như Corel Paintshop Pro và CorelDRAW Graphics suite cũng có thể mở các định dạng tệp CDR.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
 PNG, Đồ họa mạng di động, đề cập đến một loại định dạng tệp hình ảnh raster sử dụng tính năng nén không có lỗ. Định dạng tệp này được tạo để thay thế cho Định dạng trao đổi đồ họa (GIF) và không có giới hạn bản quyền. Tuy nhiên, định dạng tệp PNG không hỗ trợ hình ảnh động. Định dạng tệp PNG hỗ trợ nén hình ảnh vô tận khiến nó trở nên phổ biến đối với người dùng. Theo thời gian, PNG đã phát triển như một trong những định dạng tệp hình ảnh được sử dụng nhiều nhất. Hầu hết tất cả các Hệ điều hành đều có hỗ trợ mở tệp PNG. Ví dụ, trình xem Microsoft Windows có khả năng mở tệp PNG vì theo mặc định, hệ điều hành có hỗ trợ sẵn có như một phần của quá trình cài đặt.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -140,6 +137,7 @@ PNG, Đồ họa mạng di động, đề cập đến một loại định dạ
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/conversion/cdr-to-tga" name="TGA" description="Đồ họa Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/conversion/cdr-to-svgz" name="SVGZ" description="Phiên bản nén của tệp Đồ họa Vectơ có thể mở rộng (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/conversion/cdr-to-canvas" name="CANVAS" description="HTML5 Canvas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/java/conversion/cdr-to-ico" name="ICO" description="Biểu tượng Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

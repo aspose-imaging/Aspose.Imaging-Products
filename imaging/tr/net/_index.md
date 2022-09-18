@@ -15,7 +15,7 @@ description: C# ASP.NET VB.NET uygulamalarında düzenleme çizimi oluşturmak v
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" 
 liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://purchase.aspose.com/pricing/imaging/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/imaging/net" installationsDocsLink="https://docs.aspose.com/imaging/net/installation" nugetLink="https://www.nuget.org/packages/aspose.imaging" nugetPackageName="Aspose.Imaging" directDownloadLink="https://downloads.aspose.com/imaging/net" liveDemosText="Canlı Demolar" overviewText="genel bakış" featuresText="Özellikler" resourcesText="Kaynaklar" pricingText="fiyatlandırma" downloadText="İndirmek" learnText="Öğrenmek" buyText="Satın almak" >}}
 
-{{< blocks/products/pf/tab-content carousel1Text1="bir" carousel1Text2="Bakış atmak" carousel2Text1="Desteklenen Dosya" carousel2Text2="Formatlar" carousel3Text1="platformu" carousel3Text2="Bağımsızlık">}}
+{{< blocks/products/pf/tab-content carousel1Text1="bir" carousel1Text2="Bakış atmak" carousel2Text1="platformu" carousel2Text2="Bağımsızlık" carousel3Text1="Desteklenen Dosya" carousel3Text2="Formatlar">}}
 <p align="justify">
  Aspose.Imaging for .NET, gelişmiş görüntü işleme özellikleri sunan bir kitaplıktır. Bu API'yi kullanarak görüntüleri veya fotoğrafları kolayca oluşturabilir, yükleyebilir, değiştirebilir, dönüştürebilir, sıkıştırabilirsiniz. Ayrıca Aspose. Görüntüleme kitaplığı, çizimi destekler ve grafik temel öğelerle çalışır. Görüntü dışa aktarma ve dönüştürme (tek tip çok sayfalı görüntü işleme dahil), görüntü dönüştürmeleri (yeniden boyutlandırma, kırpma, çevirme ve döndürme, ikilileştirme, gri tonlama, ayarlama), gelişmiş görüntü işleme özellikleri (filtreleme, renk taklidi, maskeleme, eğrilik düzeltme) ile birlikte API temel özelliklerinden biridir. ) ve bellek optimizasyon stratejileri.
 </p>
@@ -208,7 +208,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
      <b>
       Raster Formatları:
      </b>
-     JPEG2000, JPEG, BMP, TIFF, GIF, PNG, DICOM, TGA
+     JPEG2000, JPEG, BMP, TIFF, GIF, PNG, DICOM, TGA, ICO
     </li>
     <li>
      <b>
@@ -501,7 +501,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
 
 {{< blocks/products/pf/support-learning-resources supportAndLearningResourcesText="Destek ve Öğrenme Kaynakları">}}
 {{< blocks/products/pf/slr-tab tabTitle="Öğrenme Kaynakları" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="belgeler" href="https://docs.aspose.com/imaging/net/" >}}
+{{< blocks/products/pf/slr-element name="belgeler" href="https://docs.aspose.com/imaging/net" >}}
 {{< blocks/products/pf/slr-element name="Kaynak kodu" href="https://github.com/aspose-imaging/Aspose.Imaging-for-.NET" >}}
 {{< blocks/products/pf/slr-element name="API Referansları" href="https://apireference.aspose.com/net/imaging" >}}
 {{< blocks/products/pf/slr-element name="Eğitim Videoları" href="https://www.youtube.com/user/asposevideo" >}}

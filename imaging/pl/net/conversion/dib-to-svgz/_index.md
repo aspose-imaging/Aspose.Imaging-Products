@@ -18,12 +18,7 @@ description: Przykładowy kod konwersji DIB do SVGZ C#. Użyj przykładowego kod
 {{% blocks/products/pf/agp/content h2="Jak przekonwertować DIB na SVGZ za pomocą C#" %}}
 
 Aby przekonwertować DIB na SVGZ, użyjemy
-[Aspose.Imaging dla .NET](https://products.aspose.com/imaging/net)
- API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do obróbki i konwersji obrazów dla platformy C#. otwarty
- [NuGet](https://www.nuget.org/packages/aspose.imaging)
- menedżer pakietów, szukaj
- **Aspose.Obrazowanie**
- i zainstaluj. Możesz również użyć następującego polecenia z konsoli Menedżera pakietów.
+[Aspose.Imaging dla .NET](https://products.aspose.com/imaging/net) API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do obróbki i konwersji obrazów dla platformy C#. Otwarty [NuGet](https://www.nuget.org/packages/aspose.imaging) menedżer pakietów, szukaj **Aspose.Obrazowanie** i zainstaluj. Możesz również użyć następującego polecenia z konsoli Menedżera pakietów.
 
 {{% blocks/products/pf/agp/code-block title="Polecenie konsoli menedżera pakietów" offSpacer="true" %}}
 
@@ -93,11 +88,11 @@ Przed uruchomieniem przykładowego kodu konwersji upewnij się, że masz następ
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
 Plik DIB (Device Independent Bitmap) to plik obrazu rastrowego, który ma podobną strukturę do standardowych plików bitmapowych (BMP), ale ma inny nagłówek. Można go otworzyć za pomocą prawie wszystkich aplikacji, które mogą otwierać standardowy plik BMP w systemie Windows i macOS. DIB to pliki binarne i mają złożony format pliku podobny do BMP.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
 Plik z rozszerzeniem .svgz to skompresowana wersja pliku Scalable Vector Graphics (.SVG). Jest skompresowany za pomocą kompresji gzip i zawiera dane w formacie XML. Pliki SVGZ obsługują przezroczystość, gradienty, animacje i filtry. Pliki SVGZ mają mniejszy rozmiar w porównaniu z domyślnymi plikami SVG, a ten zmniejszony rozmiar pliku pomaga przesyłać pliki graficzne online. Projektant graficzny tworzy pliki SVGZ za pomocą narzędzi takich jak Adobe Illustrator, Corel PaintShop Pro i innych. Jednak pliki SVGZ można generować, włączając kompresję GZip na serwerze Apache podczas wysyłania danych obrazu.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -131,6 +126,7 @@ Plik z rozszerzeniem .svgz to skompresowana wersja pliku Scalable Vector Graphic
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/conversion/dib-to-tga" name="TGA" description="Targa grafika" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/conversion/dib-to-svgz" name="SVGZ" description="Skompresowana wersja pliku Scalable Vector Graphics (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/conversion/dib-to-canvas" name="CANVAS" description="Płótno HTML5" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/pl/net/conversion/dib-to-ico" name="ICO" description="Ikona Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

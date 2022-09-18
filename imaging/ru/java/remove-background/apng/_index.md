@@ -16,11 +16,7 @@ description: Попробуйте наши локальные API-интерфе
 
 {{% blocks/products/pf/agp/content h2="Как удалить фон в файлах APNG с помощью Java" %}}
 
-Чтобы удалить фон в файлах APNG, мы будем использовать
-[Aspose.Imaging для Java](https://products.aspose.com/imaging/java)
-API, который представляет собой многофункциональный, мощный и простой в использовании API для обработки и преобразования изображений для платформы Java. Вы можете скачать его последнюю версию прямо с
-[Maven] (https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
-и установите его в своем проекте на основе Maven, добавив следующие конфигурации в файл pom.xml.
+Чтобы удалить фон в файлах APNG, мы будем использовать [Aspose.Imaging для Java](https://products.aspose.com/imaging/java) API, который представляет собой многофункциональный, мощный и простой в использовании API для обработки и преобразования изображений для платформы Java. Вы можете скачать его последнюю версию прямо с [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) и установите его в своем проекте на основе Maven, добавив следующие конфигурации в файл pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Репозиторий" offSpacer="true" %}}
 
@@ -55,9 +51,7 @@ API, который представляет собой многофункцио
 
 {{% blocks/products/pf/agp/text %}}
 
-Вам нужно
- [aspose-imaging-version-jdk16.jar] (https://downloads.aspose.com/imaging/java)
- чтобы попробовать следующий рабочий процесс в вашей собственной среде.
+Вам нужно [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java), чтобы попробовать следующий рабочий процесс в вашей собственной среде.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -108,7 +102,7 @@ Aspose.Imaging API — это решение для обработки изоб�
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Просто загрузите файлы APNG и нажмите кнопку «Удалить фон сейчас»." >}}
             {{< blocks/products/pf/agp/democard icon="fa-download" text="Мгновенно получить ссылку для скачивания результирующего файла" >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее" >}}
 Файл с расширением .apng (Animated Portable Network Graphics) представляет собой растровый графический формат и является неофициальным расширением Portable Network Graphics (PNG). Он состоит из нескольких кадров (каждый из изображений PNG), которые представляют последовательность анимации. Это дает визуализацию, аналогичную файлу GIF. Файлы APNG поддерживают 24-битные изображения и 8-битную прозрачность. APNG обратно совместим с неанимированными файлами GIF. Файлы APNG используют то же расширение .png и могут открываться такими приложениями, как Mozilla Firefox, Chrome с поддержкой APNG, приложениями iMessage для iOS 10.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -119,6 +113,7 @@ Aspose.Imaging API — это решение для обработки изоб�
 {{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые форматы удаления фона" subTitle="С помощью Java можно легко удалить фон из разных форматов, в том числе." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/remove-background/bmp" name="BMP" description="Растровое изображение" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/remove-background/ico" name="ICO" description="Значок Windows" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/remove-background/jpg" name="JPG" description="Объединенная группа экспертов по фотографии" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/remove-background/dib" name="DIB" description="Независимое от устройства растровое изображение" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/java/remove-background/dicom" name="DICOM" description="Цифровая визуализация и связь" >}}

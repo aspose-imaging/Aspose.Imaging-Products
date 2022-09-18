@@ -15,7 +15,7 @@ description: 圖像處理和操作庫 API，用於在 C# ASP.NET VB.NET 應用�
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" 
 liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://purchase.aspose.com/pricing/imaging/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/imaging/net" installationsDocsLink="https://docs.aspose.com/imaging/net/installation" nugetLink="https://www.nuget.org/packages/aspose.imaging" nugetPackageName="Aspose.Imaging" directDownloadLink="https://downloads.aspose.com/imaging/net" liveDemosText="現場演示" overviewText="概述" featuresText="特徵" resourcesText="資源" pricingText="價錢" downloadText="下載" learnText="學習" buyText="買" >}}
 
-{{< blocks/products/pf/tab-content carousel1Text1="在一個" carousel1Text2="一目了然" carousel2Text1="支持的文件" carousel2Text2="格式" carousel3Text1="平台" carousel3Text2="獨立">}}
+{{< blocks/products/pf/tab-content carousel1Text1="在一個" carousel1Text2="一目了然" carousel2Text1="平台" carousel2Text2="獨立" carousel3Text1="支持的文件" carousel3Text2="格式">}}
 <p align="justify">
  Aspose.Imaging for .NET 是一個提供高級圖像處理功能的庫。您可以使用此 API 輕鬆創建、加載、操作、轉換、壓縮圖像或照片。也假設。圖像庫支持繪圖和使用圖形基元。圖像導出和轉換（包括統一的多頁圖像處理）是 API 的核心功能之一，以及圖像轉換（調整大小、裁剪、翻轉和旋轉、二值化、灰度、調整）、高級圖像處理功能（過濾、抖動、遮罩、去歪斜） ) 和內存優化策略。
 </p>
@@ -208,7 +208,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
      <b>
       光柵格式:
      </b>
-     JPEG2000, JPEG, BMP, TIFF, GIF, PNG, DICOM, TGA
+     JPEG2000, JPEG, BMP, TIFF, GIF, PNG, DICOM, TGA, ICO
     </li>
     <li>
      <b>
@@ -501,7 +501,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
 
 {{< blocks/products/pf/support-learning-resources supportAndLearningResourcesText="支持和學習資源">}}
 {{< blocks/products/pf/slr-tab tabTitle="學習資源" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="文檔" href="https://docs.aspose.com/imaging/net/" >}}
+{{< blocks/products/pf/slr-element name="文檔" href="https://docs.aspose.com/imaging/net" >}}
 {{< blocks/products/pf/slr-element name="源代碼" href="https://github.com/aspose-imaging/Aspose.Imaging-for-.NET" >}}
 {{< blocks/products/pf/slr-element name="API 參考" href="https://apireference.aspose.com/net/imaging" >}}
 {{< blocks/products/pf/slr-element name="教程視頻" href="https://www.youtube.com/user/asposevideo" >}}

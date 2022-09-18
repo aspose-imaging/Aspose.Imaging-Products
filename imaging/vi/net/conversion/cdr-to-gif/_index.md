@@ -18,12 +18,7 @@ description: Mã mẫu cho chuyển đổi CDR sang GIF C #. Sử dụng mã m�
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi CDR thành GIF bằng C#" %}}
 
 Để chuyển đổi CDR thành GIF, chúng tôi sẽ sử dụng
-[Aspose.Imaging cho .NET] (https://products.aspose.com/imaging/net)
- API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C #. Mở
- [NuGet] (https://www.nuget.org/packages/aspose.imaging)
- quản lý gói, tìm kiếm
- ** Aspose.Imaging **
- và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển Trình quản lý Gói.
+[Aspose.Imaging cho .NET] (https://products.aspose.com/imaging/net) API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C #. Mở [NuGet] (https://www.nuget.org/packages/aspose.imaging) quản lý gói, tìm kiếm ** Aspose.Imaging ** và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển Trình quản lý Gói.
 
 {{% blocks/products/pf/agp/code-block title = "Lệnh Bảng điều khiển Trình quản lý Gói" offSpacer = "true"%}}
 
@@ -91,11 +86,11 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
 
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
 Tệp CDR là tệp hình ảnh bản vẽ vectơ được tạo nguyên bản bằng CorelDRAW để lưu trữ hình ảnh kỹ thuật số được mã hóa và nén. Một tệp bản vẽ như vậy có chứa văn bản, đường thẳng, hình dạng, hình ảnh, màu sắc và các hiệu ứng để biểu diễn vector của nội dung hình ảnh. Các tệp CDR có thể được mở bằng CorelDRAW làm ứng dụng chính và cũng có thể được chuyển đổi sang các định dạng khác như PDF, JPG, PNG, BMP và AI. Nó có thể được sử dụng để biểu diễn các dữ liệu đồ họa khác nhau như tài liệu quảng cáo, báo lá cải, phong bì và bưu thiếp. Bên cạnh CorelDRAW, các sản phẩm Corel khác như Corel Paintshop Pro và CorelDRAW Graphics suite cũng có thể mở các định dạng tệp CDR.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
 GIF hoặc Định dạng trao đổi đồ họa là một loại hình ảnh có độ nén cao. Thuộc sở hữu của Unisys, GIF sử dụng thuật toán nén LZW không làm giảm chất lượng hình ảnh. Đối với mỗi hình ảnh, GIF thường cho phép tối đa 8 bit trên mỗi pixel và tối đa 256 màu được phép trên toàn ảnh. Ngược lại với hình ảnh JPEG, hình ảnh này có thể hiển thị tới 16 triệu màu và khá gần với giới hạn của mắt người. Trở lại khi internet xuất hiện, GIF vẫn là lựa chọn tốt nhất vì chúng yêu cầu băng thông thấp và tương thích với đồ họa tiêu thụ các vùng màu đồng nhất. GIF động kết hợp nhiều hình ảnh hoặc khung hình thành một tệp duy nhất và hiển thị chúng theo trình tự để tạo ra một clip động hoặc một video ngắn. Các giới hạn về màu sắc lên đến 256 cho mỗi khung hình và có khả năng ít phù hợp nhất để tái tạo các hình ảnh và ảnh chụp khác với độ dốc màu.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -129,6 +124,7 @@ GIF hoặc Định dạng trao đổi đồ họa là một loại hình ảnh c
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/conversion/cdr-to-tga" name="TGA" description="Đồ họa Targa" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/conversion/cdr-to-svgz" name="SVGZ" description="Phiên bản nén của tệp Đồ họa Vectơ có thể mở rộng (.SVG)." >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/conversion/cdr-to-canvas" name="CANVAS" description="HTML5 Canvas" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/vi/net/conversion/cdr-to-ico" name="ICO" description="Biểu tượng Windows" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

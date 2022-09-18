@@ -15,7 +15,7 @@ description: Biblioteka przetwarzania i manipulacji obrazami Java. Twórz widok 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" 
 liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://purchase.aspose.com/pricing/imaging/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/imaging/java" installationsDocsLink="https://docs.aspose.com/imaging/java/installation" mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-imaging/" directDownloadLink="https://downloads.aspose.com/imaging/java" liveDemosText="Prezentacje na żywo" overviewText="Przegląd" featuresText="Cechy" resourcesText="Zasoby" pricingText="cennik" downloadText="Pobierać" learnText="Uczyć się" buyText="Kupić" >}}
 
-{{< blocks/products/pf/tab-content carousel1Text1="O godz" carousel1Text2="Zerknąć" carousel2Text1="Obsługiwany plik" carousel2Text2="Formaty" carousel3Text1="Platforma" carousel3Text2="Niezależność">}}
+{{< blocks/products/pf/tab-content carousel1Text1="O godz" carousel1Text2="Zerknąć" carousel2Text1="Platforma" carousel2Text2="Niezależność" carousel3Text1="Obsługiwany plik" carousel3Text2="Formaty">}}
 <p align="justify">
  Aspose.Imaging for Java to biblioteka oferująca zaawansowane funkcje przetwarzania obrazu. Możesz łatwo tworzyć, ładować, manipulować, konwertować, kompresować obrazy lub zdjęcia za pomocą tego interfejsu API. Również Aspose. Biblioteka obrazowania obsługuje rysowanie i pracę z prymitywami graficznymi. Eksport i konwersja obrazów (w tym jednolite przetwarzanie obrazów wielostronicowych) to jedna z podstawowych funkcji API wraz z transformacjami obrazu (zmiana rozmiaru, przycinanie, odwracanie i obracanie, binaryzacja, skala szarości, dostosowywanie), zaawansowanymi funkcjami manipulacji obrazami (filtrowanie, dithering, maskowanie, prostowanie ) i strategie optymalizacji pamięci.
 </p>
@@ -193,7 +193,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
      <b>
       Formaty rastrowe:
      </b>
-     JPEG2000, JPEG, BMP, TIFF, GIF, PNG, DICOM, TGA
+     JPEG2000, JPEG, BMP, TIFF, GIF, PNG, DICOM, TGA, ICO
     </li>
     <li>
      <b>
@@ -486,7 +486,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
 
 {{< blocks/products/pf/support-learning-resources supportAndLearningResourcesText="Wsparcie i zasoby szkoleniowe">}}
 {{< blocks/products/pf/slr-tab tabTitle="Zasoby edukacyjne" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Dokumentacja" href="https://docs.aspose.com/imaging/net/" >}}
+{{< blocks/products/pf/slr-element name="Dokumentacja" href="https://docs.aspose.com/imaging/java" >}}
 {{< blocks/products/pf/slr-element name="Kod źródłowy" href="https://github.com/aspose-imaging/Aspose.Imaging-for-Java" >}}
 {{< blocks/products/pf/slr-element name="Referencje API" href="https://apireference.aspose.com/java/imaging" >}}
 {{< blocks/products/pf/slr-element name="Filmy instruktażowe" href="https://www.youtube.com/user/asposevideo" >}}

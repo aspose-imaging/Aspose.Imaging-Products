@@ -15,7 +15,7 @@ description: Bibliothèque Java de traitement et de manipulation d'images. Crée
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" 
 liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://purchase.aspose.com/pricing/imaging/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/imaging/java" installationsDocsLink="https://docs.aspose.com/imaging/java/installation" mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-imaging/" directDownloadLink="https://downloads.aspose.com/imaging/java" liveDemosText="Démos en direct" overviewText="Aperçu" featuresText="Caractéristiques" resourcesText="Ressources" pricingText="Tarification" downloadText="Télécharger" learnText="Apprendre" buyText="Acheter" >}}
 
-{{< blocks/products/pf/tab-content carousel1Text1="À" carousel1Text2="Regard" carousel2Text1="Fichier pris en charge" carousel2Text2="Formats" carousel3Text1="Plateforme" carousel3Text2="Indépendance">}}
+{{< blocks/products/pf/tab-content carousel1Text1="À" carousel1Text2="Regard" carousel2Text1="Plateforme" carousel2Text2="Indépendance" carousel3Text1="Fichier pris en charge" carousel3Text2="Formats">}}
 <p align="justify">
  Aspose.Imaging for Java est une bibliothèque offrant des fonctionnalités avancées de traitement d'images. Vous pouvez facilement créer, charger, manipuler, convertir, compresser des images ou des photos à l'aide de cette API. Aspose également. La bibliothèque d'imagerie prend en charge le dessin et le travail avec des primitives graphiques. L'exportation et la conversion d'images (y compris le traitement uniforme d'images multipages) est l'une des fonctionnalités de base de l'API ainsi que les transformations d'image (redimensionnement, recadrage, retournement et rotation, binarisation, niveaux de gris, ajustement), les fonctionnalités avancées de manipulation d'image (filtrage, tramage, masquage, désalignement ) et les stratégies d'optimisation de la mémoire.
 </p>
@@ -193,7 +193,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
      <b>
       Formats raster:
      </b>
-     JPEG2000, JPEG, BMP, TIFF, GIF, PNG, DICOM, TGA
+     JPEG2000, JPEG, BMP, TIFF, GIF, PNG, DICOM, TGA, ICO
     </li>
     <li>
      <b>
@@ -486,7 +486,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
 
 {{< blocks/products/pf/support-learning-resources supportAndLearningResourcesText="Ressources d'assistance et d'apprentissage">}}
 {{< blocks/products/pf/slr-tab tabTitle="Ressources d'apprentissage" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/imaging/net/" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/imaging/java" >}}
 {{< blocks/products/pf/slr-element name="Code source" href="https://github.com/aspose-imaging/Aspose.Imaging-for-Java" >}}
 {{< blocks/products/pf/slr-element name="Références API" href="https://apireference.aspose.com/java/imaging" >}}
 {{< blocks/products/pf/slr-element name="Vidéos didactiques" href="https://www.youtube.com/user/asposevideo" >}}

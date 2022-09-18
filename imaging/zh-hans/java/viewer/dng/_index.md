@@ -17,9 +17,7 @@ description: 尝试使用我们的本地文档 API 来查看 .NET Framework、.N
 {{% blocks/products/pf/agp/content h2="如何使用 Java 查看 DNG 图像" %}}
 
 为了查看 DNG 文件，我们将使用
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java)
-API 是一个功能丰富、功能强大且易于使用的 Java 平台图像处理和转换 API。您可以直接从
-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
+[Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一个功能丰富、功能强大 易于使用的 Java 平台图像处理和转换 API。您可以直接从 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
 并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
@@ -55,9 +53,7 @@ API 是一个功能丰富、功能强大且易于使用的 Java 平台图像处�
 
 {{% blocks/products/pf/agp/text %}}
 
-你需要
- [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java)
- 在您自己的环境中尝试以下工作流程。
+你需要 [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imaging/java) 在您自己的环境中尝试以下工作流程。
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -111,7 +107,7 @@ Aspose.Imaging API 是一种图像处理解决方案，用于在应用程序中�
         checkFreeAppLabel="查看我们的 [现场演示以查看 DNG](https://products.aspose.app/imaging/zh-hans/image-view/DNG)">}}
 
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多" >}}
 DNG 是一种用于存储原始文件的数码相机图像格式。它是由 Adob​​e 于 2004 年 9 月开发的。它基本上是为数码摄影而开发的。 DNG 是 TIFF/EP 标准格式的扩展，大量使用元数据。为了轻松灵活地处理来自数码相机的原始数据和艺术控制，摄影师选择相机原始文件。 JPEG 和 TIFF 格式存储由相机处理的图像，因此在这些格式中没有太大的更改空间。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
@@ -123,6 +119,7 @@ DNG 是一种用于存储原始文件的数码相机图像格式。它是由 Ado
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/viewer/apng" name="APNG" description="动画便携式网络图形" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/viewer/bmp" name="BMP" description="位图图片" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/viewer/ico" name="ICO" description="窗口图标" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/viewer/jpg" name="JPG" description="联合摄影专家组" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/viewer/jpeg" name="JPEG" description="联合摄影专家组" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/zh-hans/java/viewer/dib" name="DIB" description="设备无关位图" >}}
