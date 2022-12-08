@@ -4,7 +4,7 @@ weight: 3920
 url: /ko/net/binarize/djvu/ 
 lang: ko
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: .NET Framework, .NET Core, Windows 애플리케이션, ASP.NET 웹 애플리케이션에서 DJVU 파일을 이진화하는 온프레미스 문서 API를 사용해 보세요.
 ---
 

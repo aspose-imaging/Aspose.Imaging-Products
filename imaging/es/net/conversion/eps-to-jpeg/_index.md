@@ -1,10 +1,10 @@
 ﻿---
-title: Convierta EPS a JPEG a través de C# 
+title: Conviert EPS a JPEG a través de C# 
 weight: 3920
 url: /es/net/conversion/eps-to-jpeg/ 
 lang: es
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Código de muestra para la conversión de C# de EPS a JPEG. Utilice el código de ejemplo de API para la conversión por lotes de archivos EPS a JPEG dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
 
@@ -17,8 +17,7 @@ description: Código de muestra para la conversión de C# de EPS a JPEG. Utilice
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir EPS a JPEG usando C#" %}}
 
-Para convertir EPS a JPEG, usaremos
-[Aspose.Imaging para .NET](https://products.aspose.com/imaging/net) API, que es una API de conversión y manipulación de imágenes rica en funciones, potente y fácil de usar para la plataforma C#. Abierto[NuGet](https://www.nuget.org/packages/aspose.imaging) administrador de paquetes, busque
+Para convertir EPS a JPEG, usaremos [Aspose.Imaging para .NET](https://products.aspose.com/imaging/net) API, que es una API de conversión y manipulación de imágenes rica en funciones, potente y fácil de usar para la plataforma C#. Abierto[NuGet](https://www.nuget.org/packages/aspose.imaging) administrador de paquetes, busque
  **Aspose.Imágenes** e instalar También puede usar el siguiente comando desde la Consola del administrador de paquetes.
 
 {{% blocks/products/pf/agp/code-block title="Comando de consola del administrador de paquetes" offSpacer="true" %}}
@@ -66,7 +65,7 @@ Antes de ejecutar el código de ejemplo de conversión, asegúrese de tener los 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convertir {Formato1} a {Formato2} - .NET" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Convertir EPS a JPEG - .NET" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
 

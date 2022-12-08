@@ -4,7 +4,7 @@ weight: 10
 url: /zh-hant/family 
 lang: zh-hant
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: 使用 .NET Java 和 SharePoint 應用程序中的相關庫創建操作和轉換圖像。將圖像保存為 PhotoShop 格式
 ---
 

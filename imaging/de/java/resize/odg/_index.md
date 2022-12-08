@@ -4,7 +4,7 @@ weight: 3920
 url: /de/java/resize/odg/ 
 lang: de
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Probieren Sie unsere On-Premise-Dokument-APIs aus, um ODG-Dateien in einer Java-Anwendung zusammenzuführen.
 ---
 

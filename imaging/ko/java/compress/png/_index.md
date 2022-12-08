@@ -4,7 +4,7 @@ weight: 3920
 url: /ko/java/compress/png/ 
 lang: ko
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Java 애플리케이션에서 PNG 파일을 압축하려면 온프레미스 문서 API를 사용해 보세요.
 ---
 

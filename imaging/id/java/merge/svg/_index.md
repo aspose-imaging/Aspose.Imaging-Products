@@ -4,7 +4,7 @@ weight: 3920
 url: /id/java/merge/svg/ 
 lang: id
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Coba API dokumen Lokal kami untuk menggabungkan file SVG di Aplikasi Java.
 ---
 

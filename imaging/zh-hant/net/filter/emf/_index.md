@@ -4,7 +4,7 @@ weight: 3920
 url: /zh-hant/net/filter/emf/ 
 lang: zh-hant
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: 嘗試使用我們的本地文檔 API 來過濾 .NET Framework、.NET Core、Windows 應用程序、ASP.NET Web 應用程序上的 EMF 文件。
 ---
 

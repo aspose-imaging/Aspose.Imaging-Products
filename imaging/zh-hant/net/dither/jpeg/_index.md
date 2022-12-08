@@ -4,7 +4,7 @@ weight: 3920
 url: /zh-hant/net/dither/jpeg/ 
 lang: zh-hant
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: 嘗試使用我們的本地文檔 API 在 .NET Framework、.NET Core、Windows 應用程序、ASP.NET Web 應用程序上抖動 JPEG 文件。
 ---
 

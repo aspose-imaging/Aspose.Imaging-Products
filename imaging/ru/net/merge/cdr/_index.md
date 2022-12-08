@@ -4,7 +4,7 @@ weight: 3920
 url: /ru/net/merge/cdr/ 
 lang: ru
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Попробуйте наши локальные API-интерфейсы документов для объединения файлов CDR в .NET Framework, .NET Core, приложении Windows, веб-приложении ASP.NET.
 ---
 

@@ -4,7 +4,7 @@ weight: 3920
 url: /pt/java/conversion/webp-to-bmp/ 
 lang: pt
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Código de exemplo para conversão Java de WEBP para BMP. Use o código de exemplo da API para arquivos em lote WEBP para conversão BMP em qualquer aplicativo baseado em Java da Web ou Desktop.
 ---
 
@@ -17,8 +17,7 @@ description: Código de exemplo para conversão Java de WEBP para BMP. Use o có
 
 {{% blocks/products/pf/agp/content h2="Como converter WEBP para BMP usando Java" %}}
 
-Para converter WEBP em BMP, usaremos
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para plataforma Java. Você pode baixar sua versão mais recente diretamente de [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) e instale-o em seu projeto baseado em Maven adicionando as seguintes configurações ao pom.xml.
+Para converter WEBP em BMP, usaremos [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para plataforma Java. Você pode baixar sua versão mais recente diretamente de [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) e instale-o em seu projeto baseado em Maven adicionando as seguintes configurações ao pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 

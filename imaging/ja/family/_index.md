@@ -4,7 +4,7 @@ weight: 10
 url: /ja/family 
 lang: ja
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: .NET JavaおよびSharePointアプリケーション内の関連ライブラリを使用して、画像の操作と変換を作成します。画像をPhotoShop形式で保存する
 ---
 

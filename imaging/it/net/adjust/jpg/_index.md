@@ -4,7 +4,7 @@ weight: 3920
 url: /it/net/adjust/jpg/ 
 lang: it
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Prova le nostre API di documenti locali per regolare i file JPG su .NET Framework, .NET Core, applicazione Windows, applicazione Web ASP.NET.
 ---
 

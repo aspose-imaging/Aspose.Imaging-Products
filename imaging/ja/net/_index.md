@@ -4,7 +4,7 @@ weight: 960
 url: /ja/net 
 lang: ja
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: C＃ASP.NETVB.NETアプリケーション内で編集描画または画像をPSDBMP JPEG PNGTIFFGIFにエクスポートするための画像処理および操作ライブラリAPI
 ---
 
@@ -342,21 +342,27 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
     <em class="fa fa-mail-forward ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
+    <a href="/imaging/ja/net/conversion/">
      画像をさまざまな形式に変換する
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     さまざまな画像フィルターと効果（ガウス、ぼかし、中央値、グレースケール、2値化、ディザリングなど）
+    <a href="/imaging/ja/net/crop/">
+     作物
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     トリミング、サイズ変更、回転-反転
+    <a href="/imaging/ja/net/resize/">
+     サイズ変更
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -391,7 +397,9 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
     <em class="fa fa-road ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     画像マスキング
+    <a href="/imaging/ja/net/remove-background/">
+     背景を削除
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -415,6 +423,111 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
      フォントを埋め込んだりエクスポートしたりしてSVGを保存する
     </p>
    </div>
+   <div class="col-lg-4">
+    <em class="fa fa-road ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/ja/net/change-background/">
+     背景を変更
+     </a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-wordpress ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/ja/net/watermark/">
+     画像に透かしを追加する
+     </a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-search ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/ja/net/viewer/">
+     画像を見る
+     </a>
+    </p>
+   </div>   
+   <div class="col-lg-4">
+    <em class="fa fa-compress ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/ja/net/compress/">
+     圧縮
+     </a>
+    </p>
+   </div>
+<div class="col-lg-4">
+    <em class="fa fa-link ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/ja/net/merge/">
+     マージ
+     </a>
+    </p>
+   </div>
+<div class="col-lg-12">
+  <h2 class="h2title">さまざまな画像フィルターと効果</h2>
+</div>
+   <div class="col-lg-4">
+    <em class="fa fa-compass ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/ja/net/dither/">
+     ディザ
+     </a>
+    </p>
+   </div>
+
+   <div class="col-lg-4">
+    <em class="fa fa-black-tie ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/ja/net/grayscale/">
+     グレースケール
+     </a>
+    </p>
+   </div>
+   
+   <div class="col-lg-4">
+    <em class="fa fa-filter ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/ja/net/filter/">
+     フィルター
+     </a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-television ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/ja/net/cartoonify/">
+     漫画化
+     </a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-print ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/ja/net/binarize/">
+     二値化
+     </a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-adjust ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/ja/net/adjust/">
+     調整
+     </a>
+    </p>
+   </div>
+
    <div class="col-lg-12">
     <h2 class="h2title">
      画像形式の変換

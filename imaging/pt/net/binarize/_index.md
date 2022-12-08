@@ -1,0 +1,29 @@
+﻿---
+title: Imagens Binarizar Via net, todos os formatos de imagem suportados 
+weight: 3920
+url: /pt/net/binarize 
+lang: pt
+langdirlevel: 2
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
+description: Usando Aspose.Imaging, você pode facilmente imagens Binarizar Via net
+---
+
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="Arquivos de imagem Binarizar via net" h2="Binarizar imagens" downloadText="Download" >}}
+
+
+{{% blocks/products/pf/feature-page-section  h2="Todos os formatos suportados para a operação Binarizar" %}}
+Usando o Aspose.Imaging, você pode facilmente aplicar Binarizar para diferentes formatos de imagem
+<br/>
+Lista completa de conversões suportadas para a operação Binarizar:
+{{% /blocks/products/pf/feature-page-section %}}
+<div class="container-fluid productfamilypage bg-gray">
+    <div class="convertypes bg-gray agp-content section">
+        <div class="container">
+		<div class="row other-converters">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/binarize/apng" >Binarizar (APNG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/binarize/bmp" >Binarizar (BMP)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/binarize/cdr" >Binarizar (CDR)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/binarize/cmx" >Binarizar (CMX)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/binarize/dib" >Binarizar (DIB)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/binarize/dicom" >Binarizar (DICOM)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/binarize/djvu" >Binarizar (DJVU)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/binarize/dng" >Binarizar (DNG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/binarize/emf" >Binarizar (EMF)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/binarize/emz" >Binarizar (EMZ)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/binarize/eps" >Binarizar (EPS)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/binarize/gif" >Binarizar (GIF)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/binarize/ico" >Binarizar (ICO)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/binarize/j2k" >Binarizar (J2K)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/binarize/jp2" >Binarizar (JP2)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/binarize/jpg" >Binarizar (JPG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/binarize/jpeg" >Binarizar (JPEG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/binarize/odg" >Binarizar (ODG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/binarize/otg" >Binarizar (OTG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/binarize/png" >Binarizar (PNG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/binarize/svg" >Binarizar (SVG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/binarize/tga" >Binarizar (TGA)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/binarize/tif" >Binarizar (TIF)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/binarize/tiff" >Binarizar (TIFF)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/binarize/webp" >Binarizar (WEBP)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/binarize/wmf" >Binarizar (WMF)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/binarize/wmz" >Binarizar (WMZ)</a></div>
+                </div>
+        </div>
+    </div>
+</div>
+<br/>

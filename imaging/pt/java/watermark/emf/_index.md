@@ -4,7 +4,7 @@ weight: 3920
 url: /pt/java/watermark/emf/ 
 lang: pt
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: Exemplo de código de conversão Java do formato EMF para o arquivo . Use este código de exemplo para converter EMF em  em qualquer aplicativo baseado em Java Web ou Desktop.
 ---
 

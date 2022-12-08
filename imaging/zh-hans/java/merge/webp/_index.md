@@ -4,7 +4,7 @@ weight: 3920
 url: /zh-hans/java/merge/webp/ 
 lang: zh-hans
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: 试试我们的 On-Premise 文档 API 来合并 Java 应用程序上的 WEBP 文件。
 ---
 

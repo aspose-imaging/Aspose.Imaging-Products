@@ -4,7 +4,7 @@ weight: 960
 url: /it/net 
 lang: it
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: API della libreria di elaborazione e manipolazione delle immagini per creare modifiche, disegnare o esportare immagini in PSD BMP JPEG PNG TIFF GIF all'interno di applicazioni C# ASP.NET VB.NET
 ---
 
@@ -342,21 +342,27 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
     <em class="fa fa-mail-forward ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
+    <a href="/imaging/it/net/conversion/">
      Converti le immagini in una varietà di formati
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Vari filtri ed effetti dell'immagine (gaussiana, sfocatura, mediana, scala di grigi, binarizzazione, dithering ecc.)
+    <a href="/imaging/it/net/crop/">
+     Raccolto
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Ritaglia, ridimensiona e ruota-capovolgi
+    <a href="/imaging/it/net/resize/">
+     Ridimensiona
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -391,7 +397,9 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
     <em class="fa fa-road ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Mascheramento dell'immagine
+    <a href="/imaging/it/net/remove-background/">
+     Rimuovi lo sfondo
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -415,6 +423,111 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
      Salva SVG con i caratteri incorporati o esportati
     </p>
    </div>
+   <div class="col-lg-4">
+    <em class="fa fa-road ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/it/net/change-background/">
+     Cambia sfondo
+     </a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-wordpress ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/it/net/watermark/">
+     Aggiungi filigrana all'immagine
+     </a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-search ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/it/net/viewer/">
+     Guarda l'immagine
+     </a>
+    </p>
+   </div>   
+   <div class="col-lg-4">
+    <em class="fa fa-compress ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/it/net/compress/">
+     Comprimere
+     </a>
+    </p>
+   </div>
+<div class="col-lg-4">
+    <em class="fa fa-link ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/it/net/merge/">
+     Unisci
+     </a>
+    </p>
+   </div>
+<div class="col-lg-12">
+  <h2 class="h2title">Vari filtri ed effetti immagine</h2>
+</div>
+   <div class="col-lg-4">
+    <em class="fa fa-compass ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/it/net/dither/">
+     Immagine retinata
+     </a>
+    </p>
+   </div>
+
+   <div class="col-lg-4">
+    <em class="fa fa-black-tie ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/it/net/grayscale/">
+     Scala di grigi
+     </a>
+    </p>
+   </div>
+   
+   <div class="col-lg-4">
+    <em class="fa fa-filter ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/it/net/filter/">
+     Filtro
+     </a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-television ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/it/net/cartoonify/">
+     Cartoonizza
+     </a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-print ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/it/net/binarize/">
+     Binarizzare
+     </a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-adjust ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/it/net/adjust/">
+     Regolare
+     </a>
+    </p>
+   </div>
+
    <div class="col-lg-12">
     <h2 class="h2title">
      Converti formati immagine

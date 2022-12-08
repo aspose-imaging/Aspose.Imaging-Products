@@ -4,7 +4,7 @@ weight: 3920
 url: /pl/java/change-background/wmz/ 
 lang: pl
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Wypróbuj nasze lokalne interfejsy API dokumentów, aby zmienić tło z plików WMZ w aplikacji Java.
 ---
 

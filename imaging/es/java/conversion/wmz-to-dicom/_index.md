@@ -4,7 +4,7 @@ weight: 3920
 url: /es/java/conversion/wmz-to-dicom/ 
 lang: es
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Código de muestra para la conversión de Java de WMZ a DICOM. Utilice el código de ejemplo de API para la conversión por lotes de archivos WMZ a DICOM dentro de cualquier aplicación basada en Web o Java de escritorio.
 ---
 
@@ -17,8 +17,7 @@ description: Código de muestra para la conversión de Java de WMZ a DICOM. Util
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir WMZ a DICOM usando Java" %}}
 
-Para convertir WMZ a DICOM, usaremos
-[Aspose.Imaging para Java](https://products.aspose.com/imaging/java) API que es una API de conversióny manipulación de imágenes rica en funciones, potente y fácil de usar para la plataforma Java. Puedes descargar su última versión directamente desde [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) e instálelo dentro de su proyecto basado en Maven agregando las siguientes configuraciones al pom.xml.
+Para convertir WMZ a DICOM, usaremos [Aspose.Imaging para Java](https://products.aspose.com/imaging/java) API que es una API de conversióny manipulación de imágenes rica en funciones, potente y fácil de usar para la plataforma Java. Puedes descargar su última versión directamente desde [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) e instálelo dentro de su proyecto basado en Maven agregando las siguientes configuraciones al pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repositorio" offSpacer="true" %}}
 
@@ -76,7 +75,7 @@ Antes de ejecutar el código de ejemplo de conversión, asegúrese de tener los 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convertir {Formato1} a {Formato2} - Java" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Convertir WMZ a DICOM - Java" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
 

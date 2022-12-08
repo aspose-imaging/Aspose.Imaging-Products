@@ -4,7 +4,7 @@ weight: 960
 url: /nl/java 
 lang: nl
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: Java Beeldverwerking en manipulatie bibliotheek. Maak laadweergave bewerk teken of converteer afbeeldingen naar meerdere formaten binnen applicaties zonder enige afbeeldingseditor
 ---
 
@@ -327,21 +327,27 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
     <em class="fa fa-mail-forward ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
+    <a href="/imaging/nl/java/conversion/">
      Afbeeldingen converteren naar verschillende formaten
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Verschillende beeldfilters en effecten (gaussiaans, vervagen, mediaan, grijswaarden, binarisatie, dithering enz.)
+    <a href="/imaging/nl/java/crop/">
+     Bijsnijden
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Bijsnijden, formaat wijzigen en roteren-omdraaien
+    <a href="/imaging/nl/java/resize/">
+     Formaat wijzigen
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -376,7 +382,9 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
     <em class="fa fa-road ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Afbeelding maskeren
+    <a href="/imaging/nl/java/remove-background/">
+     Verwijder achtergrond
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -400,6 +408,111 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
      SVG opslaan met ingesloten of geëxporteerde lettertypen
     </p>
    </div>
+   <div class="col-lg-4">
+    <em class="fa fa-road ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/nl/java/change-background/">
+     Verander de achtergrond
+     </a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-wordpress ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/nl/java/watermark/">
+     Watermerk aan afbeelding toevoegen
+     </a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-search ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/nl/java/viewer/">
+     Bekijk afbeelding
+     </a>
+    </p>
+   </div>   
+   <div class="col-lg-4">
+    <em class="fa fa-compress ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/nl/java/compress/">
+     Samendrukken
+     </a>
+    </p>
+   </div>
+<div class="col-lg-4">
+    <em class="fa fa-link ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/nl/java/merge/">
+     Samenvoegen
+     </a>
+    </p>
+   </div>
+<div class="col-lg-12">
+  <h2 class="h2title">Verschillende afbeeldingsfilters en effecten</h2>
+</div>
+   <div class="col-lg-4">
+    <em class="fa fa-compass ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/nl/java/dither/">
+     Dither-beeld
+     </a>
+    </p>
+   </div>
+
+   <div class="col-lg-4">
+    <em class="fa fa-black-tie ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/nl/java/grayscale/">
+     Grijstinten
+     </a>
+    </p>
+   </div>
+   
+   <div class="col-lg-4">
+    <em class="fa fa-filter ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/nl/java/filter/">
+     Filter
+     </a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-television ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/nl/java/cartoonify/">
+     Cartooniseren
+     </a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-print ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/nl/java/binarize/">
+     Binariseren
+     </a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-adjust ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/nl/java/adjust/">
+     Aanpassen
+     </a>
+    </p>
+   </div>
+
    <div class="col-lg-12">
     <h2 class="h2title">
      Converteer afbeeldingsformaten

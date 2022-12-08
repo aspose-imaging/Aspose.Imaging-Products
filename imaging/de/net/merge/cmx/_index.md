@@ -4,7 +4,7 @@ weight: 3920
 url: /de/net/merge/cmx/ 
 lang: de
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Probieren Sie unsere On-Premise-Dokument-APIs aus, um CMX-Dateien in .NET Framework, .NET Core, Windows-Anwendung und ASP.NET-Webanwendung zusammenzuführen.
 ---
 

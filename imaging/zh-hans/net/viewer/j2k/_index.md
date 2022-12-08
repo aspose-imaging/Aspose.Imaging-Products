@@ -4,7 +4,7 @@ weight: 3920
 url: /zh-hans/net/viewer/j2k/ 
 lang: zh-hans
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: 尝试使用我们的本地文档 API 来查看 .NET Framework、.NET Core、Windows 应用程序、ASP.NET Web 应用程序上的 J2K 文件。
 ---
 
@@ -16,8 +16,7 @@ description: 尝试使用我们的本地文档 API 来查看 .NET Framework、.N
 
 {{% blocks/products/pf/agp/content h2="如何使用 C# 查看 J2K 图像" %}}
 
-为了查看 J2K 文件，我们将使用
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一个功能丰富、功能强大 易于使用的 C# 平台图像处理和转换 API。打开 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 并安装。您还可以从包管理器控制台使用以下命令。
+为了查看 J2K 文件，我们将使用 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一个功能丰富、功能强大 易于使用的 C# 平台图像处理和转换 API。打开 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 并安装。您还可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 

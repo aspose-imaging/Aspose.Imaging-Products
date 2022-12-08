@@ -4,7 +4,7 @@ weight: 3920
 url: /pt/java/watermark/bmp/ 
 lang: pt
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: Exemplo de código de conversão Java do formato BMP para o arquivo . Use este código de exemplo para converter BMP em  em qualquer aplicativo baseado em Java Web ou Desktop.
 ---
 

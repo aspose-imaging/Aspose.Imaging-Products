@@ -4,7 +4,7 @@ weight: 3920
 url: /nl/java/conversion/j2k-to-svg/ 
 lang: nl
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Voorbeeldcode voor J2K naar SVG Java-conversie. Gebruik API-voorbeeldcode voor batch-J2K-bestanden naar SVG-conversie binnen elke web- of desktop-Java-toepassing.
 ---
 
@@ -17,8 +17,7 @@ description: Voorbeeldcode voor J2K naar SVG Java-conversie. Gebruik API-voorbee
 
 {{% blocks/products/pf/agp/content h2="Hoe J2K naar SVG te converteren met Java" %}}
 
-Om J2K naar SVG te converteren, gebruiken we
-[Aspose.Imaging voor Java](https://products.aspose.com/imaging/java) API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het Java-platform. U kunt de nieuwste versie rechtstreeks downloaden van [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
+Om J2K naar SVG te converteren, gebruiken we [Aspose.Imaging voor Java](https://products.aspose.com/imaging/java) API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het Java-platform. U kunt de nieuwste versie rechtstreeks downloaden van [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) en installeer het binnen uw op Maven gebaseerde project door de volgende configuraties toe te voegen aan pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 

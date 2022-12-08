@@ -4,7 +4,7 @@ weight: 960
 url: /vi/java 
 lang: vi
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: Thư viện thao tác và xử lý ảnh Java. Tạo chế độ xem tải, chỉnh sửa vẽ hoặc chuyển đổi hình ảnh sang nhiều định dạng trong các ứng dụng mà không cần bất kỳ trình chỉnh sửa hình ảnh nào
 ---
 
@@ -327,21 +327,27 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
     <em class="fa fa-mail-forward ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
+    <a href="/imaging/vi/java/conversion/">
      Chuyển đổi hình ảnh sang nhiều định dạng khác nhau
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Các bộ lọc và hiệu ứng hình ảnh khác nhau (gaussian, mờ, trung bình, thang độ xám, nhị phân, phối màu, v.v.)
+    <a href="/imaging/vi/java/crop/">
+     Mùa vụ
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Cắt, thay đổi kích thước và xoay-lật
+    <a href="/imaging/vi/java/resize/">
+     Thay đổi kích thước
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -376,7 +382,9 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
     <em class="fa fa-road ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Mặt nạ hình ảnh
+    <a href="/imaging/vi/java/remove-background/">
+     Gỡ bỏ nền
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -400,6 +408,111 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
      Lưu SVG với phông chữ được nhúng hoặc xuất
     </p>
    </div>
+   <div class="col-lg-4">
+    <em class="fa fa-road ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/vi/java/change-background/">
+     Thay đổi nền
+     </a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-wordpress ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/vi/java/watermark/">
+     Thêm hình mờ vào hình ảnh
+     </a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-search ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/vi/java/viewer/">
+     Xem hình ảnh
+     </a>
+    </p>
+   </div>   
+   <div class="col-lg-4">
+    <em class="fa fa-compress ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/vi/java/compress/">
+     Nén
+     </a>
+    </p>
+   </div>
+<div class="col-lg-4">
+    <em class="fa fa-link ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/vi/java/merge/">
+     hợp nhất
+     </a>
+    </p>
+   </div>
+<div class="col-lg-12">
+  <h2 class="h2title">Nhiều bộ lọc và hiệu ứng hình ảnh khác nhau</h2>
+</div>
+   <div class="col-lg-4">
+    <em class="fa fa-compass ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/vi/java/dither/">
+     Run lên
+     </a>
+    </p>
+   </div>
+
+   <div class="col-lg-4">
+    <em class="fa fa-black-tie ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/vi/java/grayscale/">
+     thang độ xám
+     </a>
+    </p>
+   </div>
+   
+   <div class="col-lg-4">
+    <em class="fa fa-filter ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/vi/java/filter/">
+     Lọc
+     </a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-television ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/vi/java/cartoonify/">
+     Hoạt hình hóa
+     </a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-print ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/vi/java/binarize/">
+     nhị phân hóa
+     </a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-adjust ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/vi/java/adjust/">
+     Điều chỉnh
+     </a>
+    </p>
+   </div>
+
    <div class="col-lg-12">
     <h2 class="h2title">
      Chuyển đổi định dạng hình ảnh

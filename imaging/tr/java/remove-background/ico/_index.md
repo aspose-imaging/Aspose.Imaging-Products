@@ -4,7 +4,7 @@ weight: 3920
 url: /tr/java/remove-background/ico/ 
 lang: tr
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Java Uygulamasında ICO dosyalarından arka planı değiştirmek için Şirket İçi belge API'lerimizi deneyin.
 ---
 

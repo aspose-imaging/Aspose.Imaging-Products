@@ -4,7 +4,7 @@ weight: 3920
 url: /id/java/watermark/tiff/ 
 lang: id
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: Contoh kode konversi Java untuk format TIFF ke file . Gunakan kode contoh ini untuk mengonversi TIFF ke  dalam aplikasi berbasis Java Web atau Desktop.
 ---
 

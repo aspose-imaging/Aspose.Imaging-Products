@@ -4,7 +4,7 @@ weight: 3920
 url: /vi/java/conversion/tif-to-jp2/ 
 lang: vi
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Mã mẫu cho chuyển đổi Java từ TIF sang JP2. Sử dụng mã mẫu API cho hàng loạt tệp TIF thành chuyển đổi JP2 trong bất kỳ ứng dụng dựa trên Web hoặc Máy tính Java nào.
 ---
 
@@ -17,8 +17,7 @@ description: Mã mẫu cho chuyển đổi Java từ TIF sang JP2. Sử dụng m
 
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi TIF thành JP2 bằng Java" %}}
 
-Để chuyển đổi TIF thành JP2, chúng tôi sẽ sử dụng
-[Aspose.Imaging cho Java] (https://products.aspose.com/imaging/java) API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng Java. Bạn có thể tải xuống phiên bản mới nhất của nó trực tiếp từ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) và cài đặt nó trong dự án dựa trên Maven của bạn bằng cách thêm các cấu hình sau vào pom.xml.
+Để chuyển đổi TIF thành JP2, chúng tôi sẽ sử dụng [Aspose.Imaging cho Java] (https://products.aspose.com/imaging/java) API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng Java. Bạn có thể tải xuống phiên bản mới nhất của nó trực tiếp từ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) và cài đặt nó trong dự án dựa trên Maven của bạn bằng cách thêm các cấu hình sau vào pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Kho" offSpacer="true"%}}
 

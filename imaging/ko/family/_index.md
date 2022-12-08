@@ -4,7 +4,7 @@ weight: 10
 url: /ko/family 
 lang: ko
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: .NET Java 및 SharePoint 애플리케이션 내에서 관련 라이브러리를 사용하여 이미지를 조작하고 변환합니다. 이미지를 Photoshop 형식으로 저장
 ---
 

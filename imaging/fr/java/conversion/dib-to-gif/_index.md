@@ -4,7 +4,7 @@ weight: 3920
 url: /fr/java/conversion/dib-to-gif/ 
 lang: fr
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Exemple de code pour la conversion Java DIB vers GIF. Utilisez un exemple de code d'API pour la conversion par lots de fichiers DIB en GIF dans n'importe quelle application Java Web ou de bureau.
 ---
 
@@ -17,8 +17,7 @@ description: Exemple de code pour la conversion Java DIB vers GIF. Utilisez un e
 
 {{% blocks/products/pf/agp/content h2="Comment convertir DIB en GIF en utilisant Java" %}}
 
-Afin de convertir DIB en GIF, nous utiliserons
-[Aspose.Imaging pour Java](https://products.aspose.com/imaging/java) API qui est une API de manipulation et de conversion d'images riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme Java. Vous pouvez télécharger sa dernière version directement depuis [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au fichier pom.xml.
+Afin de convertir DIB en GIF, nous utiliserons [Aspose.Imaging pour Java](https://products.aspose.com/imaging/java) API qui est une API de manipulation et de conversion d'images riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme Java. Vous pouvez télécharger sa dernière version directement depuis [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) et installez-le dans votre projet basé sur Maven en ajoutant les configurations suivantes au fichier pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 

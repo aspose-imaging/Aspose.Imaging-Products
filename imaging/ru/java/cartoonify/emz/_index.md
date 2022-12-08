@@ -4,7 +4,7 @@ weight: 3920
 url: /ru/java/cartoonify/emz/ 
 lang: ru
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: Попробуйте наши локальные API-интерфейсы для документов, чтобы карикатурировать файлы EMZ в .NET Framework, .NET Core, приложении Windows, веб-приложении ASP.NET.
 ---
 

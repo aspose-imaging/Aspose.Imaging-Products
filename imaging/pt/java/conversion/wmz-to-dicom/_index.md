@@ -4,7 +4,7 @@ weight: 3920
 url: /pt/java/conversion/wmz-to-dicom/ 
 lang: pt
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Código de exemplo para conversão Java de WMZ para DICOM. Use o código de exemplo da API para arquivos em lote WMZ para conversão DICOM em qualquer aplicativo baseado em Java da Web ou Desktop.
 ---
 
@@ -17,8 +17,7 @@ description: Código de exemplo para conversão Java de WMZ para DICOM. Use o c�
 
 {{% blocks/products/pf/agp/content h2="Como converter WMZ para DICOM usando Java" %}}
 
-Para converter WMZ em DICOM, usaremos
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para plataforma Java. Você pode baixar sua versão mais recente diretamente de [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) e instale-o em seu projeto baseado em Maven adicionando as seguintes configurações ao pom.xml.
+Para converter WMZ em DICOM, usaremos [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para plataforma Java. Você pode baixar sua versão mais recente diretamente de [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) e instale-o em seu projeto baseado em Maven adicionando as seguintes configurações ao pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 

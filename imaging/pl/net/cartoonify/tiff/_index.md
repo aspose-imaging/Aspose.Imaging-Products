@@ -4,7 +4,7 @@ weight: 3920
 url: /pl/net/cartoonify/tiff/ 
 lang: pl
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: Wypróbuj nasze lokalne interfejsy API dokumentów do rysowania plików TIFF w platformach .NET Framework, .NET Core, aplikacji Windows i ASP.NET Web Application.
 ---
 

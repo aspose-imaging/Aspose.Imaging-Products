@@ -4,7 +4,7 @@ weight: 3920
 url: /lt/net/conversion/tif-to-jpeg/ 
 lang: lt
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: C# konvertavimo iš TIF į JPEG pavyzdinis kodas. Naudokite API pavyzdinį kodą paketiniams TIF failams konvertuoti į JPEG VB.NET, Asp.NET arba bet kurioje .NET pagrįstoje programoje.
 ---
 
@@ -17,8 +17,7 @@ description: C# konvertavimo iš TIF į JPEG pavyzdinis kodas. Naudokite API pav
 
 {{% blocks/products/pf/agp/content h2="Kaip konvertuoti TIF į JPEG naudojant C#" %}}
 
-Norėdami konvertuoti TIF į JPEG, naudosime
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta C# platformai. Atviras [NuGet](https://www.nuget.org/packages/aspose.imaging) paketų tvarkyklė, ieškokite **Aspose.Imaging** ir įdiegti. Taip pat galite naudoti šią komandą iš paketų tvarkyklės konsolės.
+Norėdami konvertuoti TIF į JPEG, naudosime [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta C# platformai. Atviras [NuGet](https://www.nuget.org/packages/aspose.imaging) paketų tvarkyklė, ieškokite **Aspose.Imaging** ir įdiegti. Taip pat galite naudoti šią komandą iš paketų tvarkyklės konsolės.
 
 {{% blocks/products/pf/agp/code-block title="Paketų tvarkytuvės konsolės komanda" offSpacer="true" %}}
 

@@ -1,0 +1,30 @@
+﻿---
+title: Converter de JPEG para outros formatos 
+weight: 3920
+url: /pt/net/conversion/from/jpeg 
+lang: pt
+langdirlevel: 2
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
+description: Usando Aspose.Imaging você pode facilmente converter de JPEG para outros formatos
+---
+
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="Conversão de Arquivos de Imagem Via C#" h2="Converter de JPEG para outros formatos" downloadText="Download" >}}
+
+
+{{% blocks/products/pf/feature-page-section  h2="Todos os formatos suportados para converter de JPEG" %}}
+Usando Aspose.Imaging você pode facilmente converter de JPEG para outros formatos.
+<br/>
+Lista completa de conversões suportadas:
+{{% /blocks/products/pf/feature-page-section %}}
+<div class="container-fluid productfamilypage bg-gray">
+    <div class="convertypes bg-gray agp-content section">
+        <div class="container">
+		<div class="row other-converters">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/jpeg-to-bmp" >JPEG para BMP</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/jpeg-to-gif" >JPEG para GIF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/jpeg-to-dicom" >JPEG para DICOM</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/jpeg-to-emf" >JPEG para EMF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/jpeg-to-jp2" >JPEG para JP2</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/jpeg-to-j2k" >JPEG para J2K</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/jpeg-to-jpeg2000" >JPEG para JPEG2000</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/jpeg-to-png" >JPEG para PNG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/jpeg-to-apng" >JPEG para APNG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/jpeg-to-psd" >JPEG para PSD</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/jpeg-to-dxf" >JPEG para DXF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/jpeg-to-svg" >JPEG para SVG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/jpeg-to-tiff" >JPEG para TIFF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/jpeg-to-webp" >JPEG para WEBP</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/jpeg-to-wmf" >JPEG para WMF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/jpeg-to-pdf" >JPEG para PDF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/jpeg-to-html" >JPEG para HTML</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/jpeg-to-emz" >JPEG para EMZ</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/jpeg-to-wmz" >JPEG para WMZ</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/jpeg-to-tga" >JPEG para TGA</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/jpeg-to-svgz" >JPEG para SVGZ</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/jpeg-to-canvas" >JPEG para CANVAS</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/jpeg-to-ico" >JPEG para ICO</a></div>
+                </div>
+        </div>
+    </div>
+</div>
+<br/>
+

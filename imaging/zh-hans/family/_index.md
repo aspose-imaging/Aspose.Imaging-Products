@@ -4,7 +4,7 @@ weight: 10
 url: /zh-hans/family 
 lang: zh-hans
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: 使用 .NET Java 和 SharePoint 应用程序中的相关库创建操作和转换图像。将图像保存为 PhotoShop 格式
 ---
 

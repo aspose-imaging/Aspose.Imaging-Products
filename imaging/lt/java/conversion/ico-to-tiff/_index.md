@@ -4,7 +4,7 @@ weight: 3920
 url: /lt/java/conversion/ico-to-tiff/ 
 lang: lt
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: „Java“ konvertavimo ICO į TIFF pavyzdys. Naudokite API pavyzdinį kodą paketiniams ICO failams konvertuoti į TIFF bet kurioje žiniatinklio ar darbalaukio Java pagrįstoje programoje.
 ---
 
@@ -17,8 +17,7 @@ description: „Java“ konvertavimo ICO į TIFF pavyzdys. Naudokite API pavyzdi
 
 {{% blocks/products/pf/agp/content h2="Kaip konvertuoti ICO į TIFF naudojant Java" %}}
 
-Norėdami konvertuoti ICO į TIFF, naudosime
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo manipuliavimo ir konvertavimo API, skirta Java platformai. Naujausią jos versiją galite atsisiųsti tiesiai iš [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) ir įdiekite jį savo Maven pagrįstame projekte, pridėdami toliau nurodytas konfigūracijas prie pom.xml.
+Norėdami konvertuoti ICO į TIFF, naudosime [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo manipuliavimo ir konvertavimo API, skirta Java platformai. Naujausią jos versiją galite atsisiųsti tiesiai iš [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) ir įdiekite jį savo Maven pagrįstame projekte, pridėdami toliau nurodytas konfigūracijas prie pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 

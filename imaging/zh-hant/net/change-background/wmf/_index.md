@@ -4,7 +4,7 @@ weight: 3920
 url: /zh-hant/net/change-background/wmf/ 
 lang: zh-hant
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: 嘗試使用我們的本地文檔 API 更改 .NET Framework、.NET Core、Windows 應用程序、ASP.NET Web 應用程序上 WMF 文件的背景。
 ---
 

@@ -4,7 +4,7 @@ weight: 3920
 url: /id/java/cartoonify/jp2/ 
 lang: id
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: Coba API dokumen Lokal kami untuk membuat file kartun JP2 di .NET Framework, .NET Core, Aplikasi Windows, Aplikasi Web ASP.NET.
 ---
 

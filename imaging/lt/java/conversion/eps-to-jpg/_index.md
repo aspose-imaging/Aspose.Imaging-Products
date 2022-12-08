@@ -4,7 +4,7 @@ weight: 3920
 url: /lt/java/conversion/eps-to-jpg/ 
 lang: lt
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: „Java“ konvertavimo EPS į JPG pavyzdys. Naudokite API pavyzdinį kodą paketiniams EPS failams konvertuoti į JPG bet kurioje žiniatinklio ar darbalaukio Java pagrįstoje programoje.
 ---
 
@@ -17,8 +17,7 @@ description: „Java“ konvertavimo EPS į JPG pavyzdys. Naudokite API pavyzdin
 
 {{% blocks/products/pf/agp/content h2="Kaip konvertuoti EPS į JPG naudojant Java" %}}
 
-Norėdami konvertuoti EPS į JPG, naudosime
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo manipuliavimo ir konvertavimo API, skirta Java platformai. Naujausią jos versiją galite atsisiųsti tiesiai iš [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) ir įdiekite jį savo Maven pagrįstame projekte, pridėdami toliau nurodytas konfigūracijas prie pom.xml.
+Norėdami konvertuoti EPS į JPG, naudosime [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo manipuliavimo ir konvertavimo API, skirta Java platformai. Naujausią jos versiją galite atsisiųsti tiesiai iš [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) ir įdiekite jį savo Maven pagrįstame projekte, pridėdami toliau nurodytas konfigūracijas prie pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 

@@ -4,7 +4,7 @@ weight: 3920
 url: /java/resize/j2k/ 
 lang: en
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Try our On-Premise document APIs to resize J2K files on Java Application.
 ---
 

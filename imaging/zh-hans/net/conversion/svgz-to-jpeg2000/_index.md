@@ -4,7 +4,7 @@ weight: 3920
 url: /zh-hans/net/conversion/svgz-to-jpeg2000/ 
 lang: zh-hans
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: SVGZ 到 JPEG2000 C# 转换的示例代码。使用 API 示例代码在 VB.NET、Asp.NET 或任何基于 .NET 的应用程序中将 SVGZ 文件批量转换为 JPEG2000。
 ---
 
@@ -17,8 +17,7 @@ description: SVGZ 到 JPEG2000 C# 转换的示例代码。使用 API 示例代�
 
 {{% blocks/products/pf/agp/content h2="如何使用 C# 将 SVGZ 转换为 JPEG2000" %}}
 
-为了将 SVGZ 转换为 JPEG2000，我们将使用
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一个功能丰富、功能强大 易于使用的 C# 平台图像处理和转换 API。打开 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 并安装。您还可以从包管理器控制台使用以下命令。
+为了将 SVGZ 转换为 JPEG2000，我们将使用 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一个功能丰富、功能强大 易于使用的 C# 平台图像处理和转换 API。打开 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 并安装。您还可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 

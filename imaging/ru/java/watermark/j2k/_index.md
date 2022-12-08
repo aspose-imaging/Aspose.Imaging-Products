@@ -4,7 +4,7 @@ weight: 3920
 url: /ru/java/watermark/j2k/ 
 lang: ru
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: Пример кода преобразования Java для формата J2K в файл . Используйте этот пример кода для преобразования J2K в  в любом веб-приложении или приложении для рабочего стола на основе Java.
 ---
 

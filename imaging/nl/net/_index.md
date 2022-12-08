@@ -4,7 +4,7 @@ weight: 960
 url: /nl/net 
 lang: nl
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: Bibliotheek-API voor beeldverwerking en manipulatie om afbeeldingen te bewerken, tekenen of exporteren naar PSD BMP JPEG PNG TIFF GIF in C# ASP.NET VB.NET-toepassingen
 ---
 
@@ -342,21 +342,27 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
     <em class="fa fa-mail-forward ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
+    <a href="/imaging/nl/net/conversion/">
      Afbeeldingen converteren naar verschillende formaten
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Verschillende beeldfilters en effecten (gaussiaans, vervagen, mediaan, grijswaarden, binarisatie, dithering enz.)
+    <a href="/imaging/nl/net/crop/">
+     Bijsnijden
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Bijsnijden, formaat wijzigen en roteren-omdraaien
+    <a href="/imaging/nl/net/resize/">
+     Formaat wijzigen
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -391,7 +397,9 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
     <em class="fa fa-road ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Afbeelding maskeren
+    <a href="/imaging/nl/net/remove-background/">
+     Verwijder achtergrond
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -415,6 +423,111 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
      SVG opslaan met ingesloten of geëxporteerde lettertypen
     </p>
    </div>
+   <div class="col-lg-4">
+    <em class="fa fa-road ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/nl/net/change-background/">
+     Verander de achtergrond
+     </a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-wordpress ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/nl/net/watermark/">
+     Watermerk aan afbeelding toevoegen
+     </a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-search ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/nl/net/viewer/">
+     Bekijk afbeelding
+     </a>
+    </p>
+   </div>   
+   <div class="col-lg-4">
+    <em class="fa fa-compress ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/nl/net/compress/">
+     Samendrukken
+     </a>
+    </p>
+   </div>
+<div class="col-lg-4">
+    <em class="fa fa-link ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/nl/net/merge/">
+     Samenvoegen
+     </a>
+    </p>
+   </div>
+<div class="col-lg-12">
+  <h2 class="h2title">Verschillende afbeeldingsfilters en effecten</h2>
+</div>
+   <div class="col-lg-4">
+    <em class="fa fa-compass ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/nl/net/dither/">
+     Dither-beeld
+     </a>
+    </p>
+   </div>
+
+   <div class="col-lg-4">
+    <em class="fa fa-black-tie ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/nl/net/grayscale/">
+     Grijstinten
+     </a>
+    </p>
+   </div>
+   
+   <div class="col-lg-4">
+    <em class="fa fa-filter ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/nl/net/filter/">
+     Filter
+     </a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-television ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/nl/net/cartoonify/">
+     Cartooniseren
+     </a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-print ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/nl/net/binarize/">
+     Binariseren
+     </a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-adjust ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/nl/net/adjust/">
+     Aanpassen
+     </a>
+    </p>
+   </div>
+
    <div class="col-lg-12">
     <h2 class="h2title">
      Converteer afbeeldingsformaten

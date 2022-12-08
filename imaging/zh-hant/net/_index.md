@@ -4,7 +4,7 @@ weight: 960
 url: /zh-hant/net 
 lang: zh-hant
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: 圖像處理和操作庫 API，用於在 C# ASP.NET VB.NET 應用程序中創建編輯繪圖或將圖像導出為 PSD BMP JPEG PNG TIFF GIF
 ---
 
@@ -342,21 +342,27 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
     <em class="fa fa-mail-forward ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
+    <a href="/imaging/zh-hant/net/conversion/">
      將圖像轉換為多種格式
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     各種圖像過濾器和效果（高斯、模糊、中值、灰度、二值化、抖動等）
+    <a href="/imaging/zh-hant/net/crop/">
+     莊稼
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     裁剪、調整大小和旋轉翻轉
+    <a href="/imaging/zh-hant/net/resize/">
+     調整大小
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -391,7 +397,9 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
     <em class="fa fa-road ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     圖像遮罩
+    <a href="/imaging/zh-hant/net/remove-background/">
+     移除背景
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -415,6 +423,111 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
      保存嵌入或導出字體的 SVG
     </p>
    </div>
+   <div class="col-lg-4">
+    <em class="fa fa-road ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/zh-hant/net/change-background/">
+     換背景
+     </a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-wordpress ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/zh-hant/net/watermark/">
+     為圖像添加水印
+     </a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-search ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/zh-hant/net/viewer/">
+     看圖
+     </a>
+    </p>
+   </div>   
+   <div class="col-lg-4">
+    <em class="fa fa-compress ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/zh-hant/net/compress/">
+     壓縮
+     </a>
+    </p>
+   </div>
+<div class="col-lg-4">
+    <em class="fa fa-link ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/zh-hant/net/merge/">
+     合併
+     </a>
+    </p>
+   </div>
+<div class="col-lg-12">
+  <h2 class="h2title">各種圖像濾鏡和效果</h2>
+</div>
+   <div class="col-lg-4">
+    <em class="fa fa-compass ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/zh-hant/net/dither/">
+     抖動
+     </a>
+    </p>
+   </div>
+
+   <div class="col-lg-4">
+    <em class="fa fa-black-tie ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/zh-hant/net/grayscale/">
+     灰階
+     </a>
+    </p>
+   </div>
+   
+   <div class="col-lg-4">
+    <em class="fa fa-filter ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/zh-hant/net/filter/">
+     篩選
+     </a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-television ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/zh-hant/net/cartoonify/">
+     卡通化
+     </a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-print ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/zh-hant/net/binarize/">
+     二值化
+     </a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-adjust ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/zh-hant/net/adjust/">
+     調整
+     </a>
+    </p>
+   </div>
+
    <div class="col-lg-12">
     <h2 class="h2title">
      轉換圖像格式

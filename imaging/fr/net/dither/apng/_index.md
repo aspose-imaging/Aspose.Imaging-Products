@@ -4,7 +4,7 @@ weight: 3920
 url: /fr/net/dither/apng/ 
 lang: fr
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Essayez nos API de document sur site pour tramer les fichiers APNG sur .NET Framework, .NET Core, application Windows, application Web ASP.NET.
 ---
 

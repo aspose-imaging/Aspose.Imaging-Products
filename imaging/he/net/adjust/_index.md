@@ -1,0 +1,29 @@
+﻿---
+title: תמונות לְהַתְאִים דרך net, כל פורמטי התמונה הנתמכים 
+weight: 3920
+url: /he/net/adjust 
+lang: he
+langdirlevel: 2
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
+description: באמצעות Aspose.Imaging תוכל בקלות לְהַתְאִים תמונות באמצעות net
+---
+
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="קבצי תמונה לְהַתְאִים באמצעות net" h2="תמונות לְהַתְאִים" downloadText="הורד" >}}
+
+
+{{% blocks/products/pf/feature-page-section  h2="כל הפורמטים הנתמכים עבור פעולת לְהַתְאִים" %}}
+באמצעות Aspose.Imaging אתה יכול בקלות להחיל את לְהַתְאִים עבור פורמטים שונים של תמונה
+<br/>
+רשימה מלאה של המרות נתמכות עבור הפעולה לְהַתְאִים:
+{{% /blocks/products/pf/feature-page-section %}}
+<div class="container-fluid productfamilypage bg-gray">
+    <div class="convertypes bg-gray agp-content section">
+        <div class="container">
+		<div class="row other-converters">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/adjust/apng" >לְהַתְאִים (APNG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/adjust/bmp" >לְהַתְאִים (BMP)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/adjust/cdr" >לְהַתְאִים (CDR)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/adjust/cmx" >לְהַתְאִים (CMX)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/adjust/dib" >לְהַתְאִים (DIB)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/adjust/dicom" >לְהַתְאִים (DICOM)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/adjust/djvu" >לְהַתְאִים (DJVU)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/adjust/dng" >לְהַתְאִים (DNG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/adjust/emf" >לְהַתְאִים (EMF)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/adjust/emz" >לְהַתְאִים (EMZ)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/adjust/eps" >לְהַתְאִים (EPS)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/adjust/gif" >לְהַתְאִים (GIF)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/adjust/ico" >לְהַתְאִים (ICO)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/adjust/j2k" >לְהַתְאִים (J2K)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/adjust/jp2" >לְהַתְאִים (JP2)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/adjust/jpg" >לְהַתְאִים (JPG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/adjust/jpeg" >לְהַתְאִים (JPEG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/adjust/odg" >לְהַתְאִים (ODG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/adjust/otg" >לְהַתְאִים (OTG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/adjust/png" >לְהַתְאִים (PNG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/adjust/svg" >לְהַתְאִים (SVG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/adjust/tga" >לְהַתְאִים (TGA)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/adjust/tif" >לְהַתְאִים (TIF)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/adjust/tiff" >לְהַתְאִים (TIFF)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/adjust/webp" >לְהַתְאִים (WEBP)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/adjust/wmf" >לְהַתְאִים (WMF)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/adjust/wmz" >לְהַתְאִים (WMZ)</a></div>
+                </div>
+        </div>
+    </div>
+</div>
+<br/>

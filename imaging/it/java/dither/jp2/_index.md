@@ -4,7 +4,7 @@ weight: 3920
 url: /it/java/dither/jp2/ 
 lang: it
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Prova le nostre API di documenti locali per eseguire il dithering dei file JP2 su .NET Framework, .NET Core, applicazione Windows, applicazione Web ASP.NET.
 ---
 

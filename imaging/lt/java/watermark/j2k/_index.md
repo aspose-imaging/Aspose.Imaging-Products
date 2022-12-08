@@ -4,7 +4,7 @@ weight: 3920
 url: /lt/java/watermark/j2k/ 
 lang: lt
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: Pavyzdinis Java konvertavimo kodas iš J2K formato į  failą. Naudokite šį kodo pavyzdį, norėdami konvertuoti J2K į  bet kurioje žiniatinklio ar darbalaukio Java pagrįstoje programoje.
 ---
 

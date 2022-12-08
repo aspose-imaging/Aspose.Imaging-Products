@@ -4,7 +4,7 @@ weight: 3920
 url: /zh-hans/java/viewer/djvu/ 
 lang: zh-hans
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: 尝试使用我们的本地文档 API 来查看 .NET Framework、.NET Core、Windows 应用程序、ASP.NET Web 应用程序上的 DJVU 文件。
 ---
 
@@ -16,8 +16,7 @@ description: 尝试使用我们的本地文档 API 来查看 .NET Framework、.N
 
 {{% blocks/products/pf/agp/content h2="如何使用 Java 查看 DJVU 图像" %}}
 
-为了查看 DJVU 文件，我们将使用
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一个功能丰富、功能强大 易于使用的 Java 平台图像处理和转换 API。您可以直接从 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
+为了查看 DJVU 文件，我们将使用 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一个功能丰富、功能强大 易于使用的 Java 平台图像处理和转换 API。您可以直接从 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
 并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}

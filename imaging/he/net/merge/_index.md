@@ -1,0 +1,29 @@
+﻿---
+title: תמונות לְמַזֵג דרך net, כל פורמטי התמונה הנתמכים 
+weight: 3920
+url: /he/net/merge 
+lang: he
+langdirlevel: 2
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
+description: באמצעות Aspose.Imaging תוכל בקלות לְמַזֵג תמונות באמצעות net
+---
+
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="קבצי תמונה לְמַזֵג באמצעות net" h2="תמונות לְמַזֵג" downloadText="הורד" >}}
+
+
+{{% blocks/products/pf/feature-page-section  h2="כל הפורמטים הנתמכים עבור פעולת לְמַזֵג" %}}
+באמצעות Aspose.Imaging אתה יכול בקלות להחיל את לְמַזֵג עבור פורמטים שונים של תמונה
+<br/>
+רשימה מלאה של המרות נתמכות עבור הפעולה לְמַזֵג:
+{{% /blocks/products/pf/feature-page-section %}}
+<div class="container-fluid productfamilypage bg-gray">
+    <div class="convertypes bg-gray agp-content section">
+        <div class="container">
+		<div class="row other-converters">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/merge/webp" >לְמַזֵג (WEBP)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/merge/wmf" >לְמַזֵג (WMF)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/merge/tiff" >לְמַזֵג (TIFF)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/merge/png" >לְמַזֵג (PNG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/merge/svg" >לְמַזֵג (SVG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/merge/odg" >לְמַזֵג (ODG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/merge/otg" >לְמַזֵג (OTG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/merge/jpg" >לְמַזֵג (JPG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/merge/jp2" >לְמַזֵג (JP2)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/merge/ico" >לְמַזֵג (ICO)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/merge/j2k" >לְמַזֵג (J2K)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/merge/eps" >לְמַזֵג (EPS)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/merge/gif" >לְמַזֵג (GIF)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/merge/dng" >לְמַזֵג (DNG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/merge/emf" >לְמַזֵג (EMF)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/merge/djvu" >לְמַזֵג (DJVU)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/merge/dib" >לְמַזֵג (DIB)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/merge/dicom" >לְמַזֵג (DICOM)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/merge/cdr" >לְמַזֵג (CDR)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/merge/cmx" >לְמַזֵג (CMX)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/merge/apng" >לְמַזֵג (APNG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/merge/bmp" >לְמַזֵג (BMP)</a></div>
+                </div>
+        </div>
+    </div>
+</div>
+<br/>

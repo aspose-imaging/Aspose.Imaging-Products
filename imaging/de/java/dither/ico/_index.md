@@ -4,7 +4,7 @@ weight: 3920
 url: /de/java/dither/ico/ 
 lang: de
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Testen Sie unsere On-Premise-Dokument-APIs zum Dithering von ICO-Dateien in .NET Framework, .NET Core, Windows-Anwendung und ASP.NET-Webanwendung.
 ---
 

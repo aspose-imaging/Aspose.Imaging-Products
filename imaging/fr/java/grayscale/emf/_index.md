@@ -4,7 +4,7 @@ weight: 3920
 url: /fr/java/grayscale/emf/ 
 lang: fr
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: Essayez nos API de document sur site pour les fichiers EMF en niveaux de gris sur .NET Framework, .NET Core, Windows Application, ASP.NET Web Application.
 ---
 

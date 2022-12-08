@@ -4,7 +4,7 @@ weight: 3920
 url: /ko/java/crop/emf/ 
 lang: ko
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Java 애플리케이션에서 EMF 파일을 자르려면 온프레미스 문서 API를 사용해 보세요.
 ---
 

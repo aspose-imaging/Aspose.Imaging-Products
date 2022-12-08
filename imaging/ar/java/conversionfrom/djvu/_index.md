@@ -1,0 +1,30 @@
+﻿---
+title: تحويل من DJVU إلى صيغ أخرى 
+weight: 3920
+url: /ar/java/conversion/from/djvu 
+lang: ar
+langdirlevel: 2
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
+description: باستخدام Aspose.Imaging ، يمكنك بسهولة التحويل من DJVU إلى تنسيقات أخرى
+---
+
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل ملفات الصور عبر C #" h2="تحويل من DJVU إلى صيغ أخرى" downloadText="تحميل" >}}
+
+
+{{% blocks/products/pf/feature-page-section  h2="جميع التنسيقات المدعومة للتحويل من DJVU" %}}
+باستخدام Aspose.Imaging ، يمكنك بسهولة التحويل من DJVU إلى تنسيقات أخرى.
+<br/>
+القائمة الكاملة للتحويلات المدعومة:
+{{% /blocks/products/pf/feature-page-section %}}
+<div class="container-fluid productfamilypage bg-gray">
+    <div class="convertypes bg-gray agp-content section">
+        <div class="container">
+		<div class="row other-converters">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/djvu-to-bmp" >DJVU إلى BMP</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/djvu-to-gif" >DJVU إلى GIF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/djvu-to-dicom" >DJVU إلى DICOM</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/djvu-to-emf" >DJVU إلى EMF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/djvu-to-jpg" >DJVU إلى JPG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/djvu-to-jpeg" >DJVU إلى JPEG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/djvu-to-jp2" >DJVU إلى JP2</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/djvu-to-j2k" >DJVU إلى J2K</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/djvu-to-jpeg2000" >DJVU إلى JPEG2000</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/djvu-to-png" >DJVU إلى PNG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/djvu-to-apng" >DJVU إلى APNG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/djvu-to-psd" >DJVU إلى PSD</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/djvu-to-dxf" >DJVU إلى DXF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/djvu-to-svg" >DJVU إلى SVG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/djvu-to-tiff" >DJVU إلى TIFF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/djvu-to-webp" >DJVU إلى WEBP</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/djvu-to-wmf" >DJVU إلى WMF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/djvu-to-pdf" >DJVU إلى PDF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/djvu-to-html" >DJVU إلى HTML</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/djvu-to-emz" >DJVU إلى EMZ</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/djvu-to-wmz" >DJVU إلى WMZ</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/djvu-to-tga" >DJVU إلى TGA</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/djvu-to-svgz" >DJVU إلى SVGZ</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/djvu-to-canvas" >DJVU إلى CANVAS</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/djvu-to-ico" >DJVU إلى ICO</a></div>
+                </div>
+        </div>
+    </div>
+</div>
+<br/>
+

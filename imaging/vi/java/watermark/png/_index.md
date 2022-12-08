@@ -4,7 +4,7 @@ weight: 3920
 url: /vi/java/watermark/png/ 
 lang: vi
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: Mã chuyển đổi Java mẫu cho định dạng PNG thành tệp . Sử dụng mã ví dụ này để chuyển đổi PNG thành  trong bất kỳ ứng dụng dựa trên Java trên Web hoặc Máy tính để bàn nào.
 ---
 

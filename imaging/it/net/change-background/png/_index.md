@@ -4,7 +4,7 @@ weight: 3920
 url: /it/net/change-background/png/ 
 lang: it
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Prova le nostre API di documenti locali per cambiare lo sfondo dai file PNG su .NET Framework, .NET Core, applicazione Windows, applicazione Web ASP.NET.
 ---
 

@@ -1,0 +1,29 @@
+﻿---
+title: Згладити зображення використовуючи java, усі підтримувані формати зображень 
+weight: 3920
+url: /uk/java/dither 
+lang: uk
+langdirlevel: 2
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
+description: Використовуючи Aspose.Imaging, ви можете легко Згладити зображення використовуючи  java
+---
+
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="Файли зображень Згладити через java" h2="Згладити зображення" downloadText="Завантажити" >}}
+
+
+{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати для операції Згладити" %}}
+Використовуючи Aspose.Imaging, ви можете легко Згладити зображення різних форматів
+<br/>
+Повний список підтримуваних перетворень для операції Згладити:
+{{% /blocks/products/pf/feature-page-section %}}
+<div class="container-fluid productfamilypage bg-gray">
+    <div class="convertypes bg-gray agp-content section">
+        <div class="container">
+		<div class="row other-converters">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/dither/apng" >Згладити (APNG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/dither/bmp" >Згладити (BMP)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/dither/cdr" >Згладити (CDR)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/dither/cmx" >Згладити (CMX)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/dither/dib" >Згладити (DIB)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/dither/dicom" >Згладити (DICOM)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/dither/djvu" >Згладити (DJVU)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/dither/dng" >Згладити (DNG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/dither/emf" >Згладити (EMF)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/dither/emz" >Згладити (EMZ)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/dither/eps" >Згладити (EPS)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/dither/gif" >Згладити (GIF)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/dither/ico" >Згладити (ICO)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/dither/j2k" >Згладити (J2K)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/dither/jp2" >Згладити (JP2)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/dither/jpg" >Згладити (JPG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/dither/jpeg" >Згладити (JPEG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/dither/odg" >Згладити (ODG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/dither/otg" >Згладити (OTG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/dither/png" >Згладити (PNG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/dither/svg" >Згладити (SVG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/dither/tga" >Згладити (TGA)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/dither/tif" >Згладити (TIF)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/dither/tiff" >Згладити (TIFF)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/dither/webp" >Згладити (WEBP)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/dither/wmf" >Згладити (WMF)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/dither/wmz" >Згладити (WMZ)</a></div>
+                </div>
+        </div>
+    </div>
+</div>
+<br/>

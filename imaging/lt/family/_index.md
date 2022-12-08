@@ -4,7 +4,7 @@ weight: 10
 url: /lt/family 
 lang: lt
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: Kurkite manipuliuoti ir konvertuoti vaizdus naudodami atitinkamą biblioteką .NET Java ir SharePoint programose. Išsaugokite vaizdus į PhotoShop formatus
 ---
 

@@ -4,7 +4,7 @@ weight: 3920
 url: /java/resize/gif/ 
 lang: en
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Try our On-Premise document APIs to resize GIF files on Java Application.
 ---
 

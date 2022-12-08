@@ -4,7 +4,7 @@ weight: 3920
 url: /zh-hans/net/watermark/j2k/ 
 lang: zh-hans
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: 尝试使用我们的本地文档 API 为 .NET Framework、.NET Core、Windows 应用程序、ASP.NET Web 应用程序上的 J2K 文件添加水印。
 ---
 

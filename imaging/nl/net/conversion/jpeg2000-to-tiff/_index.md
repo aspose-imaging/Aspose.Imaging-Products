@@ -4,7 +4,7 @@ weight: 3920
 url: /nl/net/conversion/jpeg2000-to-tiff/ 
 lang: nl
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Voorbeeldcode voor JPEG2000 naar TIFF C#-conversie. Gebruik API-voorbeeldcode voor batch JPEG2000-bestanden naar TIFF-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde toepassing.
 ---
 
@@ -17,8 +17,7 @@ description: Voorbeeldcode voor JPEG2000 naar TIFF C#-conversie. Gebruik API-voo
 
 {{% blocks/products/pf/agp/content h2="Hoe JPEG2000 naar TIFF te converteren met C#" %}}
 
-Om JPEG2000 naar TIFF te converteren, gebruiken we
-[Aspose.Imaging voor .NET](https://products.aspose.com/imaging/net) API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het C#-platform. Open [NuGet](https://www.nuget.org/packages/aspose.imaging) pakketbeheerder, zoek naar **Aspose.Imaging** en installeren. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
+Om JPEG2000 naar TIFF te converteren, gebruiken we [Aspose.Imaging voor .NET](https://products.aspose.com/imaging/net) API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het C#-platform. Open [NuGet](https://www.nuget.org/packages/aspose.imaging) pakketbeheerder, zoek naar **Aspose.Imaging** en installeren. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 

@@ -1,0 +1,29 @@
+﻿---
+title: รูปภาพ ดูภาพ ผ่าน java รูปแบบรูปภาพที่รองรับทั้งหมด 
+weight: 3920
+url: /th/java/viewer 
+lang: th
+langdirlevel: 2
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
+description: เมื่อใช้ Aspose.Imaging คุณสามารถ ดูภาพ ภาพได้อย่างง่ายดายผ่าน java
+---
+
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="ไฟล์รูปภาพ ดูภาพ ผ่าน java" h2="ดูภาพ ภาพ" downloadText="ดาวน์โหลด" >}}
+
+
+{{% blocks/products/pf/feature-page-section  h2="รูปแบบที่รองรับทั้งหมดสำหรับการดำเนินการ ดูภาพ" %}}
+เมื่อใช้ Aspose.Imaging คุณสามารถใช้ ดูภาพ สำหรับรูปแบบภาพต่างๆ ได้อย่างง่ายดาย
+<br/>
+รายการการแปลงทั้งหมดที่รองรับสำหรับการดำเนินการ ดูภาพ:
+{{% /blocks/products/pf/feature-page-section %}}
+<div class="container-fluid productfamilypage bg-gray">
+    <div class="convertypes bg-gray agp-content section">
+        <div class="container">
+		<div class="row other-converters">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/viewer/apng" >ดูภาพ (APNG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/viewer/bmp" >ดูภาพ (BMP)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/viewer/cdr" >ดูภาพ (CDR)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/viewer/cmx" >ดูภาพ (CMX)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/viewer/dib" >ดูภาพ (DIB)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/viewer/dicom" >ดูภาพ (DICOM)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/viewer/djvu" >ดูภาพ (DJVU)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/viewer/dng" >ดูภาพ (DNG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/viewer/emf" >ดูภาพ (EMF)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/viewer/emz" >ดูภาพ (EMZ)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/viewer/eps" >ดูภาพ (EPS)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/viewer/gif" >ดูภาพ (GIF)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/viewer/ico" >ดูภาพ (ICO)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/viewer/j2k" >ดูภาพ (J2K)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/viewer/jp2" >ดูภาพ (JP2)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/viewer/jpg" >ดูภาพ (JPG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/viewer/jpeg" >ดูภาพ (JPEG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/viewer/odg" >ดูภาพ (ODG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/viewer/otg" >ดูภาพ (OTG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/viewer/png" >ดูภาพ (PNG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/viewer/svg" >ดูภาพ (SVG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/viewer/tga" >ดูภาพ (TGA)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/viewer/tif" >ดูภาพ (TIF)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/viewer/tiff" >ดูภาพ (TIFF)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/viewer/webp" >ดูภาพ (WEBP)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/viewer/wmf" >ดูภาพ (WMF)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/viewer/wmz" >ดูภาพ (WMZ)</a></div>
+                </div>
+        </div>
+    </div>
+</div>
+<br/>

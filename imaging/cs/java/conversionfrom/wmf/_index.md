@@ -1,0 +1,30 @@
+﻿---
+title: Převést z WMF do jiných formátů 
+weight: 3920
+url: /cs/java/conversion/from/wmf 
+lang: cs
+langdirlevel: 2
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
+description: Pomocí Aspose.Imaging můžete snadno převést z formátu WMF do jiných formátů
+---
+
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů přes C#" h2="Převést z WMF do jiných formátů" downloadText="Stažení" >}}
+
+
+{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty k převodu z formátu WMF" %}}
+Pomocí Aspose.Imaging můžete snadno převést z formátu WMF do jiných formátů.
+<br/>
+Úplný seznam podporovaných konverzí:
+{{% /blocks/products/pf/feature-page-section %}}
+<div class="container-fluid productfamilypage bg-gray">
+    <div class="convertypes bg-gray agp-content section">
+        <div class="container">
+		<div class="row other-converters">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/java/conversion/wmf-to-bmp" >WMF na BMP</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/java/conversion/wmf-to-gif" >WMF na GIF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/java/conversion/wmf-to-dicom" >WMF na DICOM</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/java/conversion/wmf-to-emf" >WMF na EMF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/java/conversion/wmf-to-jpg" >WMF na JPG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/java/conversion/wmf-to-jpeg" >WMF na JPEG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/java/conversion/wmf-to-jp2" >WMF na JP2</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/java/conversion/wmf-to-j2k" >WMF na J2K</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/java/conversion/wmf-to-jpeg2000" >WMF na JPEG2000</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/java/conversion/wmf-to-png" >WMF na PNG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/java/conversion/wmf-to-apng" >WMF na APNG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/java/conversion/wmf-to-psd" >WMF na PSD</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/java/conversion/wmf-to-dxf" >WMF na DXF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/java/conversion/wmf-to-svg" >WMF na SVG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/java/conversion/wmf-to-tiff" >WMF na TIFF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/java/conversion/wmf-to-webp" >WMF na WEBP</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/java/conversion/wmf-to-pdf" >WMF na PDF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/java/conversion/wmf-to-html" >WMF na HTML</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/java/conversion/wmf-to-emz" >WMF na EMZ</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/java/conversion/wmf-to-wmz" >WMF na WMZ</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/java/conversion/wmf-to-tga" >WMF na TGA</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/java/conversion/wmf-to-svgz" >WMF na SVGZ</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/java/conversion/wmf-to-canvas" >WMF na CANVAS</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/java/conversion/wmf-to-ico" >WMF na ICO</a></div>
+                </div>
+        </div>
+    </div>
+</div>
+<br/>
+

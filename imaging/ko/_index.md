@@ -4,7 +4,7 @@ weight: 4270
 url: /ko 
 lang: ko
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: On Premise 또는 Cloud API를 사용하여 이미지 조작 애플리케이션을 개발하거나 단순히 크로스 플랫폼 앱을 사용하여 비교 검사를 보거나 이미지 파일을 변환합니다.
 ---
 

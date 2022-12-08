@@ -4,7 +4,7 @@ weight: 3920
 url: /zh-hant/java/resize/svg/ 
 lang: zh-hant
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: 嘗試使用我們的本地文檔 API 來合併 Java 應用程序上的 SVG 文件。
 ---
 

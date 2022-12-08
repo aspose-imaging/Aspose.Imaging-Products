@@ -4,7 +4,7 @@ weight: 3920
 url: /ja/java/dither/apng/ 
 lang: ja
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: .NET Framework、.NET Core、Windowsアプリケーション、ASP.NETWebアプリケーションでAPNGファイルをディザーするオンプレミスドキュメントAPIをお試しください。
 ---
 

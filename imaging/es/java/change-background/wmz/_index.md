@@ -4,7 +4,7 @@ weight: 3920
 url: /es/java/change-background/wmz/ 
 lang: es
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Pruebe nuestras API de documentos locales para cambiar el fondo de los archivos WMZ en la aplicación Java.
 ---
 

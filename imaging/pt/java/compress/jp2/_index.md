@@ -4,7 +4,7 @@ weight: 3920
 url: /pt/java/compress/jp2/ 
 lang: pt
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Experimente nossas APIs de documentos no local para compactar arquivos JP2 no aplicativo Java.
 ---
 

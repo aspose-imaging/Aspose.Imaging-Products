@@ -4,7 +4,7 @@ weight: 4270
 url:  
 lang: en
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: Develop Images manipulation applications using On Premise or Cloud APIs or simply use cross-platform apps to view compare inspect or convert Image files.
 ---
 

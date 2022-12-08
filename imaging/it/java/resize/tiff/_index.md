@@ -4,7 +4,7 @@ weight: 3920
 url: /it/java/resize/tiff/ 
 lang: it
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Prova le nostre API di documenti locali per unire file TIFF su Java Application.
 ---
 

@@ -1,0 +1,29 @@
+﻿---
+title: תמונות יְבוּל דרך net, כל פורמטי התמונה הנתמכים 
+weight: 3920
+url: /he/net/crop 
+lang: he
+langdirlevel: 2
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
+description: באמצעות Aspose.Imaging תוכל בקלות יְבוּל תמונות באמצעות net
+---
+
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="קבצי תמונה יְבוּל באמצעות net" h2="תמונות יְבוּל" downloadText="הורד" >}}
+
+
+{{% blocks/products/pf/feature-page-section  h2="כל הפורמטים הנתמכים עבור פעולת יְבוּל" %}}
+באמצעות Aspose.Imaging אתה יכול בקלות להחיל את יְבוּל עבור פורמטים שונים של תמונה
+<br/>
+רשימה מלאה של המרות נתמכות עבור הפעולה יְבוּל:
+{{% /blocks/products/pf/feature-page-section %}}
+<div class="container-fluid productfamilypage bg-gray">
+    <div class="convertypes bg-gray agp-content section">
+        <div class="container">
+		<div class="row other-converters">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/crop/apng" >יְבוּל (APNG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/crop/bmp" >יְבוּל (BMP)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/crop/cdr" >יְבוּל (CDR)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/crop/cmx" >יְבוּל (CMX)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/crop/dib" >יְבוּל (DIB)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/crop/dicom" >יְבוּל (DICOM)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/crop/djvu" >יְבוּל (DJVU)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/crop/dng" >יְבוּל (DNG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/crop/emf" >יְבוּל (EMF)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/crop/emz" >יְבוּל (EMZ)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/crop/eps" >יְבוּל (EPS)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/crop/gif" >יְבוּל (GIF)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/crop/ico" >יְבוּל (ICO)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/crop/j2k" >יְבוּל (J2K)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/crop/jp2" >יְבוּל (JP2)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/crop/jpg" >יְבוּל (JPG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/crop/odg" >יְבוּל (ODG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/crop/otg" >יְבוּל (OTG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/crop/png" >יְבוּל (PNG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/crop/svg" >יְבוּל (SVG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/crop/tga" >יְבוּל (TGA)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/crop/tiff" >יְבוּל (TIFF)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/crop/webp" >יְבוּל (WEBP)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/crop/wmf" >יְבוּל (WMF)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/crop/wmz" >יְבוּל (WMZ)</a></div>
+                </div>
+        </div>
+    </div>
+</div>
+<br/>

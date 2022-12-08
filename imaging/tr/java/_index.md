@@ -4,7 +4,7 @@ weight: 960
 url: /tr/java 
 lang: tr
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: Java Görüntü işleme ve işleme kitaplığı. Yük görünümü düzenleme çizimi oluşturun veya herhangi bir görüntü düzenleyiciye gerek duymadan uygulamalar içinde görüntüleri birden çok biçime dönüştürün
 ---
 
@@ -327,21 +327,27 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
     <em class="fa fa-mail-forward ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
+    <a href="/imaging/tr/java/conversion/">
      Görüntüleri çeşitli biçimlere dönüştürün
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Çeşitli görüntü filtreleri ve efektleri (gauss, bulanıklık, medyan, gri tonlama, ikilileştirme, renk taklidi vb.)
+    <a href="/imaging/tr/java/crop/">
+     Mahsul
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Kırp, yeniden boyutlandır ve döndür-çevir
+    <a href="/imaging/tr/java/resize/">
+     yeniden boyutlandır
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -376,7 +382,9 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
     <em class="fa fa-road ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     görüntü maskeleme
+    <a href="/imaging/tr/java/remove-background/">
+     Arkaplanı kaldırın
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -400,6 +408,111 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
      SVG'yi gömülü veya dışa aktarılmış yazı tipleriyle kaydedin
     </p>
    </div>
+   <div class="col-lg-4">
+    <em class="fa fa-road ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/tr/java/change-background/">
+     Arka planı değiştir
+     </a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-wordpress ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/tr/java/watermark/">
+     Resme filigran ekleyin
+     </a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-search ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/tr/java/viewer/">
+     Görseli göster
+     </a>
+    </p>
+   </div>   
+   <div class="col-lg-4">
+    <em class="fa fa-compress ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/tr/java/compress/">
+     Kompres
+     </a>
+    </p>
+   </div>
+<div class="col-lg-4">
+    <em class="fa fa-link ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/tr/java/merge/">
+     Birleştirmek
+     </a>
+    </p>
+   </div>
+<div class="col-lg-12">
+  <h2 class="h2title">Çeşitli görüntü filtreleri ve efektleri</h2>
+</div>
+   <div class="col-lg-4">
+    <em class="fa fa-compass ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/tr/java/dither/">
+     Titreşim
+     </a>
+    </p>
+   </div>
+
+   <div class="col-lg-4">
+    <em class="fa fa-black-tie ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/tr/java/grayscale/">
+     gri tonlama
+     </a>
+    </p>
+   </div>
+   
+   <div class="col-lg-4">
+    <em class="fa fa-filter ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/tr/java/filter/">
+     filtre
+     </a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-television ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/tr/java/cartoonify/">
+     karikatürleştirmek
+     </a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-print ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/tr/java/binarize/">
+     İkilileştir
+     </a>
+    </p>
+   </div>
+   <div class="col-lg-4">
+    <em class="fa fa-adjust ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     <a href="/imaging/tr/java/adjust/">
+     Ayarlamak
+     </a>
+    </p>
+   </div>
+
    <div class="col-lg-12">
     <h2 class="h2title">
      Görüntü Formatlarını Dönüştür

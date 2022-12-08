@@ -1,0 +1,57 @@
+﻿---
+title: 다른 형식에서 PNG로 변환 
+weight: 3920
+url: /ko/net/conversion/to/png 
+lang: ko
+langdirlevel: 2
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
+description: Aspose.Imaging을 사용하면 다른 형식에서 PNG로 쉽게 변환할 수 있습니다.
+---
+
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="C#을 통한 이미지 파일 변환" h2="다른 형식에서 PNG로 변환" downloadText="다운로드" >}}
+
+
+{{% blocks/products/pf/feature-page-section  h2="PNG(으)로 변환할 지원되는 모든 형식" %}}
+Aspose.Imaging을 사용하면 다른 형식에서 PNG로 쉽게 변환할 수 있습니다.
+<br/>
+지원되는 변환의 전체 목록:
+{{% /blocks/products/pf/feature-page-section %}}
+<div class="container-fluid productfamilypage bg-gray">
+    <div class="convertypes bg-gray agp-content section">
+        <div class="container">
+		<div class="row other-converters">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/apng-to-png" >APNG 에게 PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/bmp-to-png" >BMP 에게 PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/dib-to-png" >DIB 에게 PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/dicom-to-png" >DICOM 에게 PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/djvu-to-png" >DJVU 에게 PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/dng-to-png" >DNG 에게 PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/emf-to-png" >EMF 에게 PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/emz-to-png" >EMZ 에게 PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/gif-to-png" >GIF 에게 PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/jpeg2000-to-png" >JPEG2000 에게 PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/jp2-to-png" >JP2 에게 PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/j2k-to-png" >J2K 에게 PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/jpg-to-png" >JPG 에게 PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/jpeg-to-png" >JPEG 에게 PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/tga-to-png" >TGA 에게 PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/tif-to-png" >TIF 에게 PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/tiff-to-png" >TIFF 에게 PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/webp-to-png" >WEBP 에게 PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/wmf-to-png" >WMF 에게 PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/wmz-to-png" >WMZ 에게 PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/svg-to-png" >SVG 에게 PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/svgz-to-png" >SVGZ 에게 PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/eps-to-png" >EPS 에게 PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/cdr-to-png" >CDR 에게 PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/cmx-to-png" >CMX 에게 PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/otg-to-png" >OTG 에게 PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/odg-to-png" >ODG 에게 PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/ico-to-png" >ICO 에게 PNG</a></div>
+                </div>
+        </div>
+    </div>
+</div>
+<br/>
+

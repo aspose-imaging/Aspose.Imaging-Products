@@ -1,10 +1,10 @@
 ﻿---
-title: Convierta DICOM a J2K a través de C# 
+title: Conviert DICOM a J2K a través de C# 
 weight: 3920
 url: /es/net/conversion/dicom-to-j2k/ 
 lang: es
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Código de muestra para la conversión de C# de DICOM a J2K. Utilice el código de ejemplo de API para la conversión por lotes de archivos DICOM a J2K dentro de VB.NET, Asp.NET o cualquier aplicación basada en .NET.
 ---
 
@@ -17,8 +17,7 @@ description: Código de muestra para la conversión de C# de DICOM a J2K. Utilic
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir DICOM a J2K usando C#" %}}
 
-Para convertir DICOM a J2K, usaremos
-[Aspose.Imaging para .NET](https://products.aspose.com/imaging/net) API, que es una API de conversión y manipulación de imágenes rica en funciones, potente y fácil de usar para la plataforma C#. Abierto[NuGet](https://www.nuget.org/packages/aspose.imaging) administrador de paquetes, busque
+Para convertir DICOM a J2K, usaremos [Aspose.Imaging para .NET](https://products.aspose.com/imaging/net) API, que es una API de conversión y manipulación de imágenes rica en funciones, potente y fácil de usar para la plataforma C#. Abierto[NuGet](https://www.nuget.org/packages/aspose.imaging) administrador de paquetes, busque
  **Aspose.Imágenes** e instalar También puede usar el siguiente comando desde la Consola del administrador de paquetes.
 
 {{% blocks/products/pf/agp/code-block title="Comando de consola del administrador de paquetes" offSpacer="true" %}}
@@ -66,7 +65,7 @@ Antes de ejecutar el código de ejemplo de conversión, asegúrese de tener los 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convertir {Formato1} a {Formato2} - .NET" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Convertir DICOM a J2K - .NET" offSpacer="" %}}
 
 {{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
 

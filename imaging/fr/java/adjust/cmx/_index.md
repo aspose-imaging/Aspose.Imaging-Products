@@ -4,7 +4,7 @@ weight: 3920
 url: /fr/java/adjust/cmx/ 
 lang: fr
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Essayez nos API de document sur site pour ajuster les fichiers CMX sur .NET Framework, .NET Core, application Windows, application Web ASP.NET.
 ---
 

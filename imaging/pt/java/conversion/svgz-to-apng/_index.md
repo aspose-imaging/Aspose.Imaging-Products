@@ -4,7 +4,7 @@ weight: 3920
 url: /pt/java/conversion/svgz-to-apng/ 
 lang: pt
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Código de exemplo para conversão Java de SVGZ para APNG. Use o código de exemplo da API para arquivos em lote SVGZ para conversão APNG em qualquer aplicativo baseado em Java da Web ou Desktop.
 ---
 
@@ -17,8 +17,7 @@ description: Código de exemplo para conversão Java de SVGZ para APNG. Use o c�
 
 {{% blocks/products/pf/agp/content h2="Como converter SVGZ para APNG usando Java" %}}
 
-Para converter SVGZ em APNG, usaremos
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para plataforma Java. Você pode baixar sua versão mais recente diretamente de [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) e instale-o em seu projeto baseado em Maven adicionando as seguintes configurações ao pom.xml.
+Para converter SVGZ em APNG, usaremos [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para plataforma Java. Você pode baixar sua versão mais recente diretamente de [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) e instale-o em seu projeto baseado em Maven adicionando as seguintes configurações ao pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 

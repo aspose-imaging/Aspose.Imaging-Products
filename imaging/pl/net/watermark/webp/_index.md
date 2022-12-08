@@ -4,7 +4,7 @@ weight: 3920
 url: /pl/net/watermark/webp/ 
 lang: pl
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: Wypróbuj nasze lokalne interfejsy API dokumentów, aby dodać znak wodny do pliku WEBP w .NET Framework, .NET Core, aplikacji Windows, aplikacji sieci Web ASP.NET.
 ---
 

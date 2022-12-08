@@ -4,7 +4,7 @@ weight: 4270
 url: /id 
 lang: id
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: Kembangkan aplikasi manipulasi Gambar menggunakan On Premise atau Cloud API atau cukup gunakan aplikasi lintas platform untuk melihat membandingkan, memeriksa, atau mengonversi file Gambar.
 ---
 

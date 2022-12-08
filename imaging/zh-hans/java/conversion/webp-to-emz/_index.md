@@ -4,8 +4,8 @@ weight: 3920
 url: /zh-hans/java/conversion/webp-to-emz/ 
 lang: zh-hans
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
-description: Sample code for WEBP to EMZ Java conversion. Use API example code for batch WEBP files to EMZ conversion within any Web or Desktop Java based application.
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
+description: WEBP 到 EMZ Java 转换的示例代码。在任何基于 Web 或桌面 Java 的应用程序中使用 API 示例代码将 WEBP 文件批量转换为 EMZ。
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,8 +17,7 @@ description: Sample code for WEBP to EMZ Java conversion. Use API example code f
 
 {{% blocks/products/pf/agp/content h2="如何使用 Java 将 WEBP 转换为 EMZ" %}}
 
-为了将 WEBP 转换为 EMZ，我们将使用
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一个功能丰富、功能强大 易于使用的 Java 平台图像处理和转换 API。您可以直接从 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
+为了将 WEBP 转换为 EMZ，我们将使用 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一个功能丰富、功能强大 易于使用的 Java 平台图像处理和转换 API。您可以直接从 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
 并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
@@ -58,10 +57,10 @@ description: Sample code for WEBP to EMZ Java conversion. Use API example code f
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Load WEBP file with Image.load method
-+ Create & set the instance of required subclass of ImageOptionsBase (e.g. BmpOptions, PngOptions, etc.)
-+ Call the Image.save method
-+ Pass file path with EMZ extension & object of ImageOptionsBase class
++ 使用 Image.load 方法加载 WEBP 文件
++ 创建和设置 ImageOptionsBase 所需子类的实例（例如 BmpOptions、PngOptions 等）
++ 调用 Image.save 方法
++ 传递带有 EMZ 扩展名的文件路径和 ImageOptionsBase 类的对象
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

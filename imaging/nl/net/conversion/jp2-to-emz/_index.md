@@ -4,7 +4,7 @@ weight: 3920
 url: /nl/net/conversion/jp2-to-emz/ 
 lang: nl
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Voorbeeldcode voor JP2 naar EMZ C#-conversie. Gebruik API-voorbeeldcode voor batch JP2-bestanden naar EMZ-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde toepassing.
 ---
 
@@ -17,8 +17,7 @@ description: Voorbeeldcode voor JP2 naar EMZ C#-conversie. Gebruik API-voorbeeld
 
 {{% blocks/products/pf/agp/content h2="Hoe JP2 naar EMZ te converteren met C#" %}}
 
-Om JP2 naar EMZ te converteren, gebruiken we
-[Aspose.Imaging voor .NET](https://products.aspose.com/imaging/net) API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het C#-platform. Open [NuGet](https://www.nuget.org/packages/aspose.imaging) pakketbeheerder, zoek naar **Aspose.Imaging** en installeren. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
+Om JP2 naar EMZ te converteren, gebruiken we [Aspose.Imaging voor .NET](https://products.aspose.com/imaging/net) API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het C#-platform. Open [NuGet](https://www.nuget.org/packages/aspose.imaging) pakketbeheerder, zoek naar **Aspose.Imaging** en installeren. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 

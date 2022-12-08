@@ -4,7 +4,7 @@ weight: 3920
 url: /id/net/viewer/wmf/ 
 lang: id
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: Coba API dokumen Lokal kami untuk Melihat file WMF di .NET Framework, .NET Core, Aplikasi Windows, Aplikasi Web ASP.NET.
 ---
 
@@ -16,8 +16,7 @@ description: Coba API dokumen Lokal kami untuk Melihat file WMF di .NET Framewor
 
 {{% blocks/products/pf/agp/content h2="Cara Melihat gambar WMF Menggunakan C#" %}}
 
-Untuk melihat file WMF, kami akan menggunakan
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API yang kaya fitur, kuat, dan mudah digunakan manipulasi gambar dan konversi API untuk platform C#. Membuka [NuGet](https://www.nuget.org/packages/aspose.imaging) manajer paket, cari **Aspose.Imaging** dan menginstal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
+Untuk melihat file WMF, kami akan menggunakan [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API yang kaya fitur, kuat, dan mudah digunakan manipulasi gambar dan konversi API untuk platform C#. Membuka [NuGet](https://www.nuget.org/packages/aspose.imaging) manajer paket, cari **Aspose.Imaging** dan menginstal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Perintah Konsol Manajer Paket" offSpacer="true" %}}
 

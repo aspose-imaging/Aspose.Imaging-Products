@@ -4,7 +4,7 @@ weight: 3920
 url: /zh-hant/net/viewer/wmz/ 
 lang: zh-hant
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: 嘗試使用我們的本地文檔 API 來查看 .NET Framework、.NET Core、Windows 應用程序、ASP.NET Web 應用程序上的 WMZ 文件。
 ---
 
@@ -16,8 +16,7 @@ description: 嘗試使用我們的本地文檔 API 來查看 .NET Framework、.N
 
 {{% blocks/products/pf/agp/content h2="如何使用 C# 查看 WMZ 圖像" %}}
 
-為了查看 WMZ 文件，我們將使用
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一個功能豐富、功能強大且易於使用的 C# 平台圖像處理和轉換 API。打開 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 並安裝。您也可以從包管理器控制台使用以下命令。
+為了查看 WMZ 文件，我們將使用 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一個功能豐富、功能強大且易於使用的 C# 平台圖像處理和轉換 API。打開 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 並安裝。您也可以從包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 

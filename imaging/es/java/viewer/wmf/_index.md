@@ -4,7 +4,7 @@ weight: 3920
 url: /es/java/viewer/wmf/ 
 lang: es
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: Pruebe nuestras API de documentos locales para ver archivos WMF en .NET Framework, .NET Core, aplicación de Windows, aplicación web ASP.NET.
 ---
 
@@ -16,8 +16,7 @@ description: Pruebe nuestras API de documentos locales para ver archivos WMF en 
 
 {{% blocks/products/pf/agp/content h2="Cómo ver imágenes WMF usando Java" %}}
 
-Para ver los archivos WMF, usaremos
-[Aspose.Imaging para Java](https://products.aspose.com/imaging/java) API que es una API de conversióny manipulación de imágenes rica en funciones, potente y fácil de usar para la plataforma Java. Puedes descargar su última versión directamente desde [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) e instálelo dentro de su proyecto basado en Maven agregando las siguientes configuraciones al pom.xml.
+Para ver los archivos WMF, usaremos [Aspose.Imaging para Java](https://products.aspose.com/imaging/java) API que es una API de conversióny manipulación de imágenes rica en funciones, potente y fácil de usar para la plataforma Java. Puedes descargar su última versión directamente desde [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) e instálelo dentro de su proyecto basado en Maven agregando las siguientes configuraciones al pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repositorio" offSpacer="true" %}}
 

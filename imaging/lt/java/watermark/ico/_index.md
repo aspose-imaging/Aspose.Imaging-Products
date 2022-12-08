@@ -4,7 +4,7 @@ weight: 3920
 url: /lt/java/watermark/ico/ 
 lang: lt
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: Pavyzdinis Java konvertavimo kodas iš ICO formato į  failą. Naudokite šį kodo pavyzdį, norėdami konvertuoti ICO į  bet kurioje žiniatinklio ar darbalaukio Java pagrįstoje programoje.
 ---
 

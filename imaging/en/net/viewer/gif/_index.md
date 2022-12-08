@@ -4,7 +4,7 @@ weight: 3920
 url: /net/viewer/gif/ 
 lang: en
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: Try our On-Premise document APIs to View GIF files on .NET Framework, .NET Core, Windows Application, ASP.NET Web Application.
 ---
 
@@ -16,8 +16,7 @@ description: Try our On-Premise document APIs to View GIF files on .NET Framewor
 
 {{% blocks/products/pf/agp/content h2="How to View GIF images Using C#" %}}
 
-In order to view GIF files, we’ll use
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API which is a feature-rich, powerful and easy to use image manipulation and conversion API for C# platform. Open [NuGet](https://www.nuget.org/packages/aspose.imaging) package manager, search for
+In order to view GIF files, we’ll use [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API which is a feature-rich, powerful and easy to use image manipulation and conversion API for C# platform. Open [NuGet](https://www.nuget.org/packages/aspose.imaging) package manager, search for
  **Aspose.Imaging** and install. You may also use the following command from the Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}

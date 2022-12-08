@@ -4,7 +4,7 @@ weight: 3920
 url: /nl/java/remove-background/emz/ 
 lang: nl
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Probeer onze On-Premise document-API's om de achtergrond van EMZ-bestanden op Java-toepassing te wijzigen.
 ---
 

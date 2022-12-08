@@ -4,7 +4,7 @@ weight: 3920
 url: /fr/net/conversion/otg-to-jp2/ 
 lang: fr
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Exemple de code pour la conversion OTG vers JP2 C#. Utilisez le code d'exemple d'API pour les fichiers batch OTG vers la conversion JP2 dans VB.NET, Asp.NET ou toute application basée sur .NET.
 ---
 
@@ -17,8 +17,7 @@ description: Exemple de code pour la conversion OTG vers JP2 C#. Utilisez le cod
 
 {{% blocks/products/pf/agp/content h2="Comment convertir OTG en JP2 en utilisant C#" %}}
 
-Afin de convertir OTG en JP2, nous utiliserons
-[Aspose.Imaging pour .NET](https://products.aspose.com/imaging/net) API qui est une API de manipulation et de conversion d'images riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme C #. Ouvrir [NuGet](https://www.nuget.org/packages/aspose.imaging) gestionnaire de paquets, recherchez **Aspose.Imaging** et installer. Vous pouvez également utiliser la commande suivante à partir de la console du gestionnaire de packages.
+Afin de convertir OTG en JP2, nous utiliserons [Aspose.Imaging pour .NET](https://products.aspose.com/imaging/net) API qui est une API de manipulation et de conversion d'images riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme C #. Ouvrir [NuGet](https://www.nuget.org/packages/aspose.imaging) gestionnaire de paquets, recherchez **Aspose.Imaging** et installer. Vous pouvez également utiliser la commande suivante à partir de la console du gestionnaire de packages.
 
 {{% blocks/products/pf/agp/code-block title="Commande de la console du gestionnaire de packages" offSpacer="true" %}}
 

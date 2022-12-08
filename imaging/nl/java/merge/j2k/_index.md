@@ -4,7 +4,7 @@ weight: 3920
 url: /nl/java/merge/j2k/ 
 lang: nl
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Probeer onze On-Premise document-API's om J2K-bestanden samen te voegen op Java-toepassing.
 ---
 

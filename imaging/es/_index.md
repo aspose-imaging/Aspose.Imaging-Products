@@ -4,7 +4,7 @@ weight: 4270
 url: /es 
 lang: es
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: Desarrolle aplicaciones de manipulación de imágenes utilizando API locales o en la nube o simplemente use aplicaciones multiplataforma para ver, comparar, inspeccionar o convertir archivos de imagen.
 ---
 

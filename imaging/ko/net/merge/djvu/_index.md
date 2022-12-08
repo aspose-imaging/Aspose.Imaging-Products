@@ -4,7 +4,7 @@ weight: 3920
 url: /ko/net/merge/djvu/ 
 lang: ko
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: 온프레미스 문서 API를 사용해 .NET Framework, .NET Core, Windows 애플리케이션, ASP.NET 웹 애플리케이션에서 DJVU 파일을 병합하세요.
 ---
 

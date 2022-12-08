@@ -4,7 +4,7 @@ weight: 3920
 url: /vi/java/dither/odg/ 
 lang: vi
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Hãy thử các API tài liệu On-Premise của chúng tôi cho các tệp Dither ODG trên .NET Framework, .NET Core, Windows Application, ASP.NET Web Application.
 ---
 

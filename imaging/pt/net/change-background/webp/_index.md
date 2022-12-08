@@ -4,7 +4,7 @@ weight: 3920
 url: /pt/net/change-background/webp/ 
 lang: pt
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Experimente nossas APIs de documentos no local para alterar o plano de fundo de arquivos WEBP no .NET Framework, .NET Core, Windows Application, ASP.NET Web Application.
 ---
 

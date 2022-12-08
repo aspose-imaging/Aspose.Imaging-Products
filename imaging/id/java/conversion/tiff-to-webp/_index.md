@@ -4,7 +4,7 @@ weight: 3920
 url: /id/java/conversion/tiff-to-webp/ 
 lang: id
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Contoh kode untuk TIFF ke WEBP konversi Java. Gunakan kode contoh API untuk file batch TIFF ke konversi WEBP dalam aplikasi berbasis Java Web atau Desktop.
 ---
 
@@ -17,8 +17,7 @@ description: Contoh kode untuk TIFF ke WEBP konversi Java. Gunakan kode contoh A
 
 {{% blocks/products/pf/agp/content h2="Cara Mengonversi TIFF ke WEBP Menggunakan Java" %}}
 
-Untuk mengonversi TIFF ke WEBP, kami akan menggunakan
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API yang kaya fitur, kuat dan mudah digunakan manipulasi gambar dan konversi API untuk platform Java. Anda dapat mengunduh versi terbarunya langsung dari [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
+Untuk mengonversi TIFF ke WEBP, kami akan menggunakan [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API yang kaya fitur, kuat dan mudah digunakan manipulasi gambar dan konversi API untuk platform Java. Anda dapat mengunduh versi terbarunya langsung dari [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
