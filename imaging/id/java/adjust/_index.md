@@ -12,10 +12,11 @@ description: Menggunakan Aspose.Imaging Anda dapat dengan mudah Menyesuaikan gam
 {{< blocks/products/pf/feature-page-header h1="File gambar Menyesuaikan melalui java" h2="gambar Menyesuaikan" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Semua format yang didukung untuk operasi Menyesuaikan" %}}
-Menggunakan Aspose.Imaging Anda dapat dengan mudah menerapkan Menyesuaikan untuk berbagai format gambar
+{{% blocks/products/pf/feature-page-section  h2="Semua gambar-gambar format yang didukung untuk operasi Menyesuaikan" %}}
+Menggunakan Aspose.Imaging Anda dapat dengan mudah menerapkan **Menyesuaikan** untuk berbagai format gambar secara terprogram
 <br/>
-Daftar lengkap konversi yang didukung untuk operasi Menyesuaikan:
+Daftar lengkap operasi Menyesuaikan yang didukung menurut format gambar:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

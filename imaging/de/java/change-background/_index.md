@@ -12,10 +12,11 @@ description: Mit Aspose.Imaging können Sie ganz einfach Hintergrund ändern Bil
 {{< blocks/products/pf/feature-page-header h1="Bilddateien Hintergrund ändern über java" h2="Hintergrund ändern Bilder" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Formate für den Vorgang Hintergrund ändern" %}}
-Mit Aspose.Imaging können Sie ganz einfach Hintergrund ändern für verschiedene Bildformate anwenden
+{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bilder Formate für den Vorgang Hintergrund ändern" %}}
+Mit Aspose.Imaging können Sie ganz einfach **Hintergrund ändern** für verschiedene Bildformate anwenden programmatisch
 <br/>
-Vollständige Liste der unterstützten Konvertierungen für den Vorgang Hintergrund ändern:
+Vollständige Liste der unterstützten Hintergrund ändern-Vorgänge nach Bildformaten:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

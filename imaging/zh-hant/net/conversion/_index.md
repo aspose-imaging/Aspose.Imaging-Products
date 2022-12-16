@@ -151,12 +151,13 @@ SVG的轉換過程是一樣的，加載SVG文件，使用相關的圖片保存�
 </div>
 <br/>
 
-{{% blocks/products/pf/feature-page-section  h2="所有支持的轉換格式" %}}
-下面列出了您可以轉換的格式的完整列表：
+{{% blocks/products/pf/feature-page-section  h2="所有支持的圖像格式轉換" %}}
+下面是完整的圖像格式列表，您可以將其轉換為：
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+                <hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/apng" >轉換自 APNG</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/bmp" >轉換自 BMP</a></div>
@@ -193,12 +194,13 @@ SVG的轉換過程是一樣的，加載SVG文件，使用相關的圖片保存�
 </div>
 <br/>
 
-{{% blocks/products/pf/feature-page-section  h2="要轉換為的所有支持格式" %}}
-下面列出了您可以轉換為的格式的完整列表：
+{{% blocks/products/pf/feature-page-section  h2="要轉換為的所有支持的圖像格式" %}}
+下面是完整的圖像格式列表，您可以從以下格式進行轉換：
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+	        <hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/bmp" >轉換成 BMP</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/gif" >轉換成 GIF</a></div>

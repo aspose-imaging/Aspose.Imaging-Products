@@ -12,10 +12,11 @@ description: באמצעות Aspose.Imaging תוכל בקלות לְמַזֵג ת
 {{< blocks/products/pf/feature-page-header h1="קבצי תמונה לְמַזֵג באמצעות java" h2="תמונות לְמַזֵג" downloadText="הורד" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="כל הפורמטים הנתמכים עבור פעולת לְמַזֵג" %}}
-באמצעות Aspose.Imaging אתה יכול בקלות להחיל את לְמַזֵג עבור פורמטים שונים של תמונה
+{{% blocks/products/pf/feature-page-section  h2="כל הפורמטים  תמונות הנתמכים עבור פעולת לְמַזֵג" %}}
+באמצעות Aspose.Imaging אתה יכול בקלות להחיל את **לְמַזֵג** עבור פורמטים שונים של תמונה באופן תוכניתי
 <br/>
-רשימה מלאה של המרות נתמכות עבור הפעולה לְמַזֵג:
+רשימה מלאה של פעולות לְמַזֵג נתמכות לפי פורמטים של תמונה:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

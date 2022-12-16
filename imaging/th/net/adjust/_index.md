@@ -12,10 +12,11 @@ description: เมื่อใช้ Aspose.Imaging คุณสามารถ
 {{< blocks/products/pf/feature-page-header h1="ไฟล์รูปภาพ ปรับ ผ่าน net" h2="ปรับ ภาพ" downloadText="ดาวน์โหลด" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="รูปแบบที่รองรับทั้งหมดสำหรับการดำเนินการ ปรับ" %}}
-เมื่อใช้ Aspose.Imaging คุณสามารถใช้ ปรับ สำหรับรูปแบบภาพต่างๆ ได้อย่างง่ายดาย
+{{% blocks/products/pf/feature-page-section  h2="รูปแบบที่รอ ภาพ งรับทั้งหมดสำหรับการดำเนินการ ปรับ" %}}
+เมื่อใช้ Aspose.Imaging คุณสามารถใช้ **ปรับ** สำหรับรูปแบบภาพต่างๆ ได้อย่างง่ายดาย โดยทางโปรแกรม
 <br/>
-รายการการแปลงทั้งหมดที่รองรับสำหรับการดำเนินการ ปรับ:
+รายการทั้งหมดของการดำเนินการ ปรับ ที่รองรับตามรูปแบบอิมเมจ:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -12,10 +12,11 @@ description: Naudodami Aspose.Imaging galite lengvai sukurti Pilkos spalvos vaiz
 {{< blocks/products/pf/feature-page-header h1="Vaizdo failai Pilkos spalvos per net" h2="Pilkos spalvos vaizdai" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Pilkos spalvos formatai" %}}
-Naudodami Aspose.Imaging galite lengvai pritaikyti Pilkos spalvos skirtingiems vaizdo formatams
+{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Pilkos spalvos attēlus formatai" %}}
+Naudodami Aspose.Imaging galite lengvai pritaikyti **Pilkos spalvos** skirtingiems vaizdo formatams programmatiski
 <br/>
-Visas palaikomų operacijos Pilkos spalvos konversijų sąrašas:
+Visas palaikomų operacijų Pilkos spalvos sąrašas pagal vaizdo formatus:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

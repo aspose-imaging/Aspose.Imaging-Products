@@ -12,10 +12,11 @@ description: Naudodami Aspose.Imaging galite lengvai sukurti Vandens ženklas va
 {{< blocks/products/pf/feature-page-header h1="Vaizdo failai Vandens ženklas per java" h2="Vandens ženklas vaizdai" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Vandens ženklas formatai" %}}
-Naudodami Aspose.Imaging galite lengvai pritaikyti Vandens ženklas skirtingiems vaizdo formatams
+{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Vandens ženklas attēlus formatai" %}}
+Naudodami Aspose.Imaging galite lengvai pritaikyti **Vandens ženklas** skirtingiems vaizdo formatams programmatiski
 <br/>
-Visas palaikomų operacijos Vandens ženklas konversijų sąrašas:
+Visas palaikomų operacijų Vandens ženklas sąrašas pagal vaizdo formatus:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

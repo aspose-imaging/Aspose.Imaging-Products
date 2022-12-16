@@ -12,10 +12,11 @@ description: Med Aspose.Imaging kan du enkelt Komprimera bilder via net
 {{< blocks/products/pf/feature-page-header h1="Bildfiler Komprimera via net" h2="Komprimera bilder" downloadText="Ladda ner" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alla format som stöds för operationen Komprimera" %}}
-Med Aspose.Imaging kan du enkelt använda Komprimera för olika bildformat
+{{% blocks/products/pf/feature-page-section  h2="Alla bilder format som stöds för operationen Komprimera" %}}
+Med Aspose.Imaging kan du enkelt använda **Komprimera** för olika bildformat programmatiskt
 <br/>
-Fullständig lista över omvandlingar som stöds för operationen Komprimera:
+Fullständig lista över Komprimera-operationer som stöds efter bildformat:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

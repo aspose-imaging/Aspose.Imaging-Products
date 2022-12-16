@@ -12,10 +12,11 @@ description: باستخدام Aspose.Imaging يمكنك بسهولة تغيير 
 {{< blocks/products/pf/feature-page-header h1="ملفات الصور تغيير الحجم عبر java" h2="تغيير الحجم الصور" downloadText="تحميل" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="جميع التنسيقات المدعومة لعملية تغيير الحجم" %}}
-باستخدام Aspose.Imaging ، يمكنك بسهولة تطبيق تغيير الحجم لتنسيقات الصور المختلفة
+{{% blocks/products/pf/feature-page-section  h2="جميع التنسيقا تالصور  المدعومة لعملية تغيير الحجم" %}}
+باستخدام Aspose.Imaging ، يمكنك بسهولة تطبيق **تغيير الحجم** لتنسيقات الصور المختلفة برمجيا
 <br/>
-القائمة الكاملة للتحويلات المدعومة لعملية تغيير الحجم:
+القائمة الكاملة لعمليات تغيير الحجم المدعومة حسب تنسيقات الصور:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

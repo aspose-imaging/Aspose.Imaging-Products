@@ -151,12 +151,13 @@ description: Конвертуйте популярні файли зображе
 </div>
 <br/>
 
-{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати для конвертації" %}}
-Нижче наведено повний список форматів, з яких можна конвертувати:
+{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для конвертації" %}}
+Нижче наведено повний список форматів зображень, у які можна конвертувати:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+                <hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/apng" >Перетворити з APNG</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/bmp" >Перетворити з BMP</a></div>
@@ -193,12 +194,13 @@ description: Конвертуйте популярні файли зображе
 </div>
 <br/>
 
-{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати для конвертації" %}}
-Нижче наведено повний список форматів, у які можна конвертувати:
+{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для конвертації" %}}
+Нижче наведено повний список форматів зображень, з яких можна конвертувати:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+	        <hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/bmp" >Перетворити в BMP</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/gif" >Перетворити в GIF</a></div>

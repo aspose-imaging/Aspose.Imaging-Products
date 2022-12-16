@@ -12,10 +12,11 @@ description: Med Aspose.Imaging kan du enkelt Filtrera bilder via java
 {{< blocks/products/pf/feature-page-header h1="Bildfiler Filtrera via java" h2="Filtrera bilder" downloadText="Ladda ner" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alla format som stöds för operationen Filtrera" %}}
-Med Aspose.Imaging kan du enkelt använda Filtrera för olika bildformat
+{{% blocks/products/pf/feature-page-section  h2="Alla bilder format som stöds för operationen Filtrera" %}}
+Med Aspose.Imaging kan du enkelt använda **Filtrera** för olika bildformat programmatiskt
 <br/>
-Fullständig lista över omvandlingar som stöds för operationen Filtrera:
+Fullständig lista över Filtrera-operationer som stöds efter bildformat:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

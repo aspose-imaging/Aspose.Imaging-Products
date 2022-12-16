@@ -12,10 +12,11 @@ description: Usando Aspose.Imaging puoi facilmente Comprimere immagini tramite n
 {{< blocks/products/pf/feature-page-header h1="File immagine Comprimere tramite net" h2="Comprimere immagini" downloadText="Scarica" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tutti i formati supportati per l'operazione Comprimere" %}}
-Usando Aspose.Imaging puoi facilmente applicare Comprimere per diversi formati di immagine
+{{% blocks/products/pf/feature-page-section  h2="Tutti i immagini formati supportati per l'operazione Comprimere" %}}
+Usando Aspose.Imaging puoi facilmente applicare **Comprimere** per diversi formati di immagine programmaticamente
 <br/>
-Elenco completo delle conversioni supportate per l'operazione Comprimere:
+Elenco completo delle operazioni Comprimere supportate per formati immagine:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

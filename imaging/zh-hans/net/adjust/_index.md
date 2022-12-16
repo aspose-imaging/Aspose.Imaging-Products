@@ -12,10 +12,11 @@ description: 使用 Aspose.Imaging 你可以轻松地通过 net 获取 调整 �
 {{< blocks/products/pf/feature-page-header h1="图片文件 调整 来自 net" h2="调整 图片" downloadText="下载" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="调整 操作的所有支持格式" %}}
-使用 Aspose.Imaging 您可以轻松地将 调整 应用于不同的图像格式
+{{% blocks/products/pf/feature-page-section  h2="调整 操作的所有支持格式图片" %}}
+使用 Aspose.Imaging 您可以轻松地将 **调整** 应用于不同的图像格式 以编程方式
 <br/>
-调整 操作支持的转换的完整列表：
+按图像格式支持的 调整 操作的完整列表：
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

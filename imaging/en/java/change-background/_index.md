@@ -12,10 +12,11 @@ description: Using Aspose.Imaging you can easily Change background images Via ja
 {{< blocks/products/pf/feature-page-header h1="Image files Change background via java" h2="Change background images" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="All supported formats for Change background operation" %}}
-Using Aspose.Imaging you can easily apply Change background for different image formats
+{{% blocks/products/pf/feature-page-section  h2="All supported image formats for Change background operation" %}}
+Using Aspose.Imaging you can easily apply **Change background** for different image formats programmatically
 <br/>
-Full list of supported conversions for Change background operation:
+Full list of supported Change background operations by image formats:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

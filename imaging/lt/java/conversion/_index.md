@@ -151,12 +151,13 @@ CDR konvertavimo procesas yra beveik toks pat, įkelkite CDR failą, naudokite a
 </div>
 <br/>
 
-{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi formatai, iš kurių galima konvertuoti" %}}
-Žemiau pateikiamas visas formatų, kuriuos galite konvertuoti, sąrašas:
+{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi attēlus formatai, iš kurių galima konvertuoti" %}}
+Tālāk ir parādīts pilns to attēlu formātu saraksts, kurus varat konvertēt uz:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+                <hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/from/apng" >Konvertuoti iš APNG</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/from/bmp" >Konvertuoti iš BMP</a></div>
@@ -193,12 +194,13 @@ CDR konvertavimo procesas yra beveik toks pat, įkelkite CDR failą, naudokite a
 </div>
 <br/>
 
-{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi formatai, į kuriuos reikia konvertuoti" %}}
-Žemiau pateikiamas visas formatų, į kuriuos galite konvertuoti, sąrašas:
+{{% blocks/products/pf/feature-page-section  h2="Visi atbalstītie attēlu formāti, uz kuriem konvertēt" %}}
+Žemiau pateikiamas visas vaizdo formatų, kuriuos galite konvertuoti, sąrašas:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+	        <hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/to/bmp" >Konvertuoti į BMP</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/to/gif" >Konvertuoti į GIF</a></div>

@@ -12,10 +12,11 @@ description: Usando Aspose.Imaging puede fácilmente Quitar fondo imágenes a tr
 {{< blocks/products/pf/feature-page-header h1="Archivos de imagen Quitar fondo a través de java" h2="Imágenes de Quitar fondo" downloadText="Descargar" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos los formatos admitidos para la operación Quitar fondo" %}}
-Usando Aspose.Imaging puede aplicar fácilmente Quitar fondo para diferentes formatos de imagen
+{{% blocks/products/pf/feature-page-section  h2="Todos los imágenes formatos admitidos para la operación Quitar fondo" %}}
+Usando Aspose.Imaging puede aplicar fácilmente **Quitar fondo** para diferentes formatos de imagen programáticamente
 <br/>
-Lista completa de conversiones admitidas para la operación Quitar fondo:
+Lista completa de operaciones {nombre de operación} admitidas por formatos de imagen:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

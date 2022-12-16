@@ -12,10 +12,11 @@ description: Pomocí Aspose.Imaging můžete snadno Filtr obrázky přes net
 {{< blocks/products/pf/feature-page-header h1="Soubory obrázků Filtr prostřednictvím net" h2="obrázky Filtr" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty pro operaci Filtr" %}}
-Pomocí Aspose.Imaging můžete snadno použít Filtr pro různé formáty obrázků
+{{% blocks/products/pf/feature-page-section  h2="Všechny podporované snímky formáty pro operaci Filtr" %}}
+Pomocí Aspose.Imaging můžete snadno použít **Filtr** pro různé formáty obrázků programově
 <br/>
-Úplný seznam podporovaných konverzí pro operaci Filtr:
+Úplný seznam podporovaných operací Filtr podle formátů obrázků:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -12,10 +12,11 @@ description: Використовуючи Aspose.Imaging, ви можете ле
 {{< blocks/products/pf/feature-page-header h1="Файли зображень Згладити через java" h2="Згладити зображення" downloadText="Завантажити" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати для операції Згладити" %}}
-Використовуючи Aspose.Imaging, ви можете легко Згладити зображення різних форматів
+{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для операції Згладити" %}}
+Використовуючи Aspose.Imaging, ви можете легко виконати операцiю **Згладити** для  зображень різних форматів програмно
 <br/>
-Повний список підтримуваних перетворень для операції Згладити:
+Повний список підтримуваних операцій Згладити за форматами зображень:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

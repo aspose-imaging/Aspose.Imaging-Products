@@ -12,10 +12,11 @@ description: 使用 Aspose.Imaging 你可以輕鬆地通過 net 獲取 壓縮 �
 {{< blocks/products/pf/feature-page-header h1="圖片文件 壓縮 來自 net" h2="壓縮 圖片" downloadText="下載" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="壓縮 操作的所有支持格式" %}}
-使用 Aspose.Imaging 您可以輕鬆地將 壓縮 應用於不同的圖像格式
+{{% blocks/products/pf/feature-page-section  h2="壓縮 操作的所有支持格式 圖片" %}}
+使用 Aspose.Imaging 您可以輕鬆地將 **壓縮** 應用於不同的圖像格式 以編程方式
 <br/>
-壓縮 操作支持的轉換的完整列表：
+按圖像格式支持的 壓縮 操作的完整列表：
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

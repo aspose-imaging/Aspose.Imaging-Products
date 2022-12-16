@@ -151,12 +151,13 @@ Proces převodu SVG je stejný, načíst soubor SVG, použít příslušné mož
 </div>
 <br/>
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty pro převod" %}}
-Níže je uveden úplný seznam formátů, ze kterých můžete převádět:
+{{% blocks/products/pf/feature-page-section  h2="Všechny snímky podporované formáty pro převod" %}}
+Níže je uveden úplný seznam obrazových formátů, do kterých můžete převést:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+                <hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/from/apng" >Převést z APNG</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/from/bmp" >Převést z BMP</a></div>
@@ -193,12 +194,13 @@ Níže je uveden úplný seznam formátů, ze kterých můžete převádět:
 </div>
 <br/>
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty pro převod" %}}
-Níže je uveden úplný seznam formátů, do kterých můžete převést:
+{{% blocks/products/pf/feature-page-section  h2="Všechny podporované obrazové formáty k převodu" %}}
+Níže je uveden úplný seznam obrazových formátů, ze kterých můžete převádět:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+	        <hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/to/bmp" >Převést na BMP</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/to/gif" >Převést na GIF</a></div>

@@ -12,10 +12,11 @@ description: Usando Aspose.Imaging, você pode facilmente imagens Filtro Via jav
 {{< blocks/products/pf/feature-page-header h1="Arquivos de imagem Filtro via java" h2="Filtro imagens" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos os formatos suportados para a operação Filtro" %}}
-Usando o Aspose.Imaging, você pode facilmente aplicar Filtro para diferentes formatos de imagem
+{{% blocks/products/pf/feature-page-section  h2="Todos os formatos suportados para a operação imagens Filtro" %}}
+Usando o Aspose.Imaging, você pode facilmente aplicar **Filtro** para diferentes formatos de imagem programaticamente
 <br/>
-Lista completa de conversões suportadas para a operação Filtro:
+Lista completa de operações Filtro suportadas por formatos de imagem:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

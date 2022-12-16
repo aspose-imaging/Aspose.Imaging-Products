@@ -12,10 +12,11 @@ description: Menggunakan Aspose.Imaging Anda dapat dengan mudah Hapus latar bela
 {{< blocks/products/pf/feature-page-header h1="File gambar Hapus latar belakang melalui java" h2="gambar Hapus latar belakang" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Semua format yang didukung untuk operasi Hapus latar belakang" %}}
-Menggunakan Aspose.Imaging Anda dapat dengan mudah menerapkan Hapus latar belakang untuk berbagai format gambar
+{{% blocks/products/pf/feature-page-section  h2="Semua gambar-gambar format yang didukung untuk operasi Hapus latar belakang" %}}
+Menggunakan Aspose.Imaging Anda dapat dengan mudah menerapkan **Hapus latar belakang** untuk berbagai format gambar secara terprogram
 <br/>
-Daftar lengkap konversi yang didukung untuk operasi Hapus latar belakang:
+Daftar lengkap operasi Hapus latar belakang yang didukung menurut format gambar:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

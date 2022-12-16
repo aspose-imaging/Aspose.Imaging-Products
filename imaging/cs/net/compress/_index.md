@@ -12,10 +12,11 @@ description: Pomocí Aspose.Imaging můžete snadno Komprimovat obrázky přes n
 {{< blocks/products/pf/feature-page-header h1="Soubory obrázků Komprimovat prostřednictvím net" h2="obrázky Komprimovat" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty pro operaci Komprimovat" %}}
-Pomocí Aspose.Imaging můžete snadno použít Komprimovat pro různé formáty obrázků
+{{% blocks/products/pf/feature-page-section  h2="Všechny podporované snímky formáty pro operaci Komprimovat" %}}
+Pomocí Aspose.Imaging můžete snadno použít **Komprimovat** pro různé formáty obrázků programově
 <br/>
-Úplný seznam podporovaných konverzí pro operaci Komprimovat:
+Úplný seznam podporovaných operací Komprimovat podle formátů obrázků:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

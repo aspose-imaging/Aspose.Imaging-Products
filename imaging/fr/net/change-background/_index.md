@@ -12,10 +12,11 @@ description: En utilisant Aspose.Imaging, vous pouvez facilement Changement de f
 {{< blocks/products/pf/feature-page-header h1="Fichiers image Changement de fond via net" h2="images de Changement de fond" downloadText="Télécharger" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tous les formats pris en charge pour l'opération Changement de fond" %}}
-En utilisant Aspose.Imaging, vous pouvez facilement appliquer Changement de fond pour différents formats d'image
+{{% blocks/products/pf/feature-page-section  h2="Tous les images formats pris en charge pour l'opération Changement de fond" %}}
+En utilisant Aspose.Imaging, vous pouvez facilement appliquer **Changement de fond** pour différents formats d'image par programmation
 <br/>
-Liste complète des conversions prises en charge pour l'opération Changement de fond :
+Liste complète des opérations Changement de fond prises en charge par formats d'image :
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

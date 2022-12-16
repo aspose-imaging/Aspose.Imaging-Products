@@ -12,10 +12,11 @@ description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng Gỡ bỏ n�
 {{< blocks/products/pf/feature-page-header h1="Tệp hình ảnh Gỡ bỏ nền qua net" h2="Gỡ bỏ nền hình ảnh" downloadText="Tải xuống" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tất cả các định dạng được hỗ trợ cho thao tác Gỡ bỏ nền" %}}
-Sử dụng Aspose.Imaging, bạn có thể dễ dàng áp dụng Gỡ bỏ nền cho các định dạng hình ảnh khác nhau
+{{% blocks/products/pf/feature-page-section  h2="Tất cả các hình ảnh định dạng được hỗ trợ cho thao tác Gỡ bỏ nền" %}}
+Sử dụng Aspose.Imaging, bạn có thể dễ dàng áp dụng **Gỡ bỏ nền** cho các định dạng hình ảnh khác nhau lập trình
 <br/>
-Danh sách đầy đủ các chuyển đổi được hỗ trợ cho hoạt động Gỡ bỏ nền:
+Danh sách đầy đủ các thao tác Gỡ bỏ nền được hỗ trợ theo định dạng hình ảnh:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -12,10 +12,11 @@ description: Using Aspose.Imaging you can easily Remove background images Via ne
 {{< blocks/products/pf/feature-page-header h1="Image files Remove background via net" h2="Remove background images" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="All supported formats for Remove background operation" %}}
-Using Aspose.Imaging you can easily apply Remove background for different image formats
+{{% blocks/products/pf/feature-page-section  h2="All supported image formats for Remove background operation" %}}
+Using Aspose.Imaging you can easily apply **Remove background** for different image formats programmatically
 <br/>
-Full list of supported conversions for Remove background operation:
+Full list of supported Remove background operations by image formats:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

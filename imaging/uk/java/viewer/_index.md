@@ -12,10 +12,11 @@ description: Використовуючи Aspose.Imaging, ви можете ле
 {{< blocks/products/pf/feature-page-header h1="Файли зображень Переглянути через java" h2="Переглянути зображення" downloadText="Завантажити" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати для операції Переглянути" %}}
-Використовуючи Aspose.Imaging, ви можете легко Переглянути зображення різних форматів
+{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для операції Переглянути" %}}
+Використовуючи Aspose.Imaging, ви можете легко виконати операцiю **Переглянути** для  зображень різних форматів програмно
 <br/>
-Повний список підтримуваних перетворень для операції Переглянути:
+Повний список підтримуваних операцій Переглянути за форматами зображень:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

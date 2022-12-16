@@ -12,10 +12,11 @@ description: Met behulp van Aspose.Imaging kunt u eenvoudig Verwijder achtergron
 {{< blocks/products/pf/feature-page-header h1="Afbeeldingsbestanden Verwijder achtergrond via net" h2="Verwijder achtergrond afbeeldingen" downloadText="Downloaden" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde indelingen voor de bewerking Verwijder achtergrond" %}}
-Met Aspose.Imaging kunt u eenvoudig Verwijder achtergrond toepassen voor verschillende afbeeldingsformaten
+{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde indelingen voor de bewerking afbeeldingen Verwijder achtergrond" %}}
+Met Aspose.Imaging kunt u eenvoudig **Verwijder achtergrond** toepassen voor verschillende afbeeldingsformaten programmatisch
 <br/>
-Volledige lijst met ondersteunde conversies voor bewerking Verwijder achtergrond:
+Volledige lijst met ondersteunde Verwijder achtergrond-bewerkingen per afbeeldingsindeling:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

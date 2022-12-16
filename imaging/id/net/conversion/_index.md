@@ -151,12 +151,13 @@ Proses konversi SVG sama, Muat file SVG, Gunakan opsi penyimpanan gambar yang re
 </div>
 <br/>
 
-{{% blocks/products/pf/feature-page-section  h2="Semua format yang didukung untuk dikonversi" %}}
-Di bawah ini disajikan daftar lengkap format yang dapat Anda konversi dari:
+{{% blocks/products/pf/feature-page-section  h2="Semua gambar-gambar format yang didukung untuk dikonversi" %}}
+Di bawah ini disajikan daftar lengkap format gambar, yang dapat Anda ubah menjadi:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+                <hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/apng" >Konversi Dari APNG</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/bmp" >Konversi Dari BMP</a></div>
@@ -193,12 +194,13 @@ Di bawah ini disajikan daftar lengkap format yang dapat Anda konversi dari:
 </div>
 <br/>
 
-{{% blocks/products/pf/feature-page-section  h2="Semua format yang didukung untuk dikonversi" %}}
-Di bawah ini disajikan daftar lengkap format yang dapat Anda konversi:
+{{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi" %}}
+Di bawah ini disajikan daftar lengkap format gambar, yang dapat Anda konversi dari:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+	        <hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/bmp" >Ubah ke BMP</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/gif" >Ubah ke GIF</a></div>

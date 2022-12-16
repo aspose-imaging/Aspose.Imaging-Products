@@ -12,14 +12,15 @@ description: Med Aspose.Imaging kan du enkelt konvertera till HTML från andra f
 {{< blocks/products/pf/feature-page-header h1="Konvertering av bildfiler via C#" h2="Konvertera till HTML från ett annat format" downloadText="Ladda ner" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alla format som stöds att konvertera från till HTML" %}}
-Med Aspose.Imaging kan du enkelt konvertera till HTML från andra format.
+{{% blocks/products/pf/feature-page-section  h2="Alla bildformat som stöds att konvertera från till HTML" %}}
+Med Aspose.Imaging kan du enkelt konvertera till HTML från andra bildformat.
 <br/>
 Fullständig lista över omvandlingar som stöds:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/net/conversion/apng-to-html" >APNG till HTML</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/net/conversion/bmp-to-html" >BMP till HTML</a></div>

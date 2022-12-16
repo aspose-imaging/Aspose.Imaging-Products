@@ -12,14 +12,15 @@ description: Pomocí Aspose.Imaging můžete snadno převést na SVG z jiných f
 {{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů přes C#" h2="Převést na SVG z jiných formátů" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty pro převod do SVG" %}}
-Pomocí Aspose.Imaging můžete snadno převést na SVG z jiných formátů.
+{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu na SVG" %}}
+Pomocí Aspose.Imaging můžete snadno převést do formátu SVG z jiných formátů obrázků.
 <br/>
 Úplný seznam podporovaných konverzí:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/java/conversion/apng-to-svg" >APNG na SVG</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/java/conversion/bmp-to-svg" >BMP na SVG</a></div>

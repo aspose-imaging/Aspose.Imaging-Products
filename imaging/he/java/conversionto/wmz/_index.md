@@ -12,14 +12,15 @@ description: באמצעות Aspose.Imaging תוכל להמיר בקלות ל-WMZ
 {{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה באמצעות C#" h2="המר ל-WMZ מפורמט אחר" downloadText="הורד" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="כל הפורמטים הנתמכים להמרה ל-WMZ" %}}
-באמצעות Aspose.Imaging תוכל להמיר בקלות ל-WMZ מפורמט אחר.
+{{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה ל-WMZ" %}}
+באמצעות Aspose.Imaging תוכל להמיר בקלות ל-WMZ מפורמטים אחרים של תמונה.
 <br/>
 רשימה מלאה של המרות נתמכות:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/apng-to-wmz" >APNG ל WMZ</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/bmp-to-wmz" >BMP ל WMZ</a></div>

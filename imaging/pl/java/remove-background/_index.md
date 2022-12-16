@@ -12,10 +12,11 @@ description: Używając Aspose.Imaging możesz łatwo Usuń tło obrazy Via java
 {{< blocks/products/pf/feature-page-header h1="Pliki obrazów Usuń tło przez java" h2="Obrazy Usuń tło" downloadText="Ściągnij" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty operacji Usuń tło" %}}
-Używając Aspose.Imaging możesz łatwo zastosować Usuń tło dla różnych formatów obrazów
+{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty operacji obrazy Usuń tło" %}}
+Używając Aspose.Imaging możesz łatwo zastosować **Usuń tło** dla różnych formatów obrazów programowo
 <br/>
-Pełna lista obsługiwanych konwersji dla operacji Usuń tło:
+Pełna lista obsługiwanych operacji Usuń tło według formatów obrazu:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

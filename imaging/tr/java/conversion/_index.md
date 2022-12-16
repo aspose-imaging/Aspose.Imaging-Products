@@ -151,12 +151,13 @@ CDR'nin dönüştürme işlemi hemen hemen aynıdır, CDR dosyasını yükleyin,
 </div>
 <br/>
 
-{{% blocks/products/pf/feature-page-section  h2="Dönüştürülecek tüm desteklenen biçimler" %}}
-Aşağıda, dönüştürebileceğiniz biçimlerin tam listesi sunulmuştur:
+{{% blocks/products/pf/feature-page-section  h2="Dönüştürülecek tüm desteklenen Görüntüler biçimler" %}}
+Aşağıda, dönüştürebileceğiniz görüntü biçimlerinin tam listesi sunulmaktadır:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+                <hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/java/conversion/from/apng" >Şuradan Dönüştür APNG</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/java/conversion/from/bmp" >Şuradan Dönüştür BMP</a></div>
@@ -193,12 +194,13 @@ Aşağıda, dönüştürebileceğiniz biçimlerin tam listesi sunulmuştur:
 </div>
 <br/>
 
-{{% blocks/products/pf/feature-page-section  h2="Dönüştürülecek tüm desteklenen biçimler" %}}
-Aşağıda, dönüştürebileceğiniz biçimlerin tam listesi sunulmuştur:
+{{% blocks/products/pf/feature-page-section  h2="Dönüştürülecek tüm desteklenen görüntü formatları" %}}
+Aşağıda, dönüştürebileceğiniz görüntü biçimlerinin tam listesi sunulmaktadır:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+	        <hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/java/conversion/to/bmp" >E dönüşmek BMP</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/java/conversion/to/gif" >E dönüşmek GIF</a></div>

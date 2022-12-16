@@ -12,10 +12,11 @@ description: Pomocí Aspose.Imaging můžete snadno Odstraňte pozadí obrázky 
 {{< blocks/products/pf/feature-page-header h1="Soubory obrázků Odstraňte pozadí prostřednictvím java" h2="obrázky Odstraňte pozadí" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty pro operaci Odstraňte pozadí" %}}
-Pomocí Aspose.Imaging můžete snadno použít Odstraňte pozadí pro různé formáty obrázků
+{{% blocks/products/pf/feature-page-section  h2="Všechny podporované snímky formáty pro operaci Odstraňte pozadí" %}}
+Pomocí Aspose.Imaging můžete snadno použít **Odstraňte pozadí** pro různé formáty obrázků programově
 <br/>
-Úplný seznam podporovaných konverzí pro operaci Odstraňte pozadí:
+Úplný seznam podporovaných operací Odstraňte pozadí podle formátů obrázků:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -12,10 +12,11 @@ description: Naudodami Aspose.Imaging galite lengvai sukurti Peržiūrėti Nuotr
 {{< blocks/products/pf/feature-page-header h1="Vaizdo failai Peržiūrėti Nuotrauka per java" h2="Peržiūrėti Nuotrauka vaizdai" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Peržiūrėti Nuotrauka formatai" %}}
-Naudodami Aspose.Imaging galite lengvai pritaikyti Peržiūrėti Nuotrauka skirtingiems vaizdo formatams
+{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Peržiūrėti Nuotrauka attēlus formatai" %}}
+Naudodami Aspose.Imaging galite lengvai pritaikyti **Peržiūrėti Nuotrauka** skirtingiems vaizdo formatams programmatiski
 <br/>
-Visas palaikomų operacijos Peržiūrėti Nuotrauka konversijų sąrašas:
+Visas palaikomų operacijų Peržiūrėti Nuotrauka sąrašas pagal vaizdo formatus:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

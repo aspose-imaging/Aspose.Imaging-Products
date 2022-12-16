@@ -12,14 +12,15 @@ description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi ke E
 {{< blocks/products/pf/feature-page-header h1="Konversi File Gambar Melalui C#" h2="Konversikan ke EMF dari format lain" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Semua format yang didukung untuk dikonversi dari ke EMF" %}}
-Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi ke EMF dari format lain.
+{{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari ke EMF" %}}
+Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi ke EMF dari format gambar lain.
 <br/>
 Daftar lengkap konversi yang didukung:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/apng-to-emf" >APNG ke EMF</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/bmp-to-emf" >BMP ke EMF</a></div>

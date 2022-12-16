@@ -12,10 +12,11 @@ description: Використовуючи Aspose.Imaging, ви можете ле
 {{< blocks/products/pf/feature-page-header h1="Файли зображень Змінити розмір через net" h2="Змінити розмір зображення" downloadText="Завантажити" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати для операції Змінити розмір" %}}
-Використовуючи Aspose.Imaging, ви можете легко Змінити розмір зображення різних форматів
+{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для операції Змінити розмір" %}}
+Використовуючи Aspose.Imaging, ви можете легко виконати операцiю **Змінити розмір** для  зображень різних форматів програмно
 <br/>
-Повний список підтримуваних перетворень для операції Змінити розмір:
+Повний список підтримуваних операцій Змінити розмір за форматами зображень:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

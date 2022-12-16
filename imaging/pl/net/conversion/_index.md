@@ -152,11 +152,12 @@ Proces konwersji SVG jest taki sam, Załaduj plik SVG, Użyj odpowiednich opcji 
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty do konwersji" %}}
-Poniżej prezentujemy pełną listę formatów, z których można konwertować:
+Poniżej znajduje się pełna lista formatów graficznych, do których można dokonać konwersji:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+                <hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/from/apng" >Konwertuj z APNG</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/from/bmp" >Konwertuj z BMP</a></div>
@@ -193,12 +194,13 @@ Poniżej prezentujemy pełną listę formatów, z których można konwertować:
 </div>
 <br/>
 
-{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty do konwersji" %}}
-Poniżej prezentujemy pełną listę formatów, na które można konwertować:
+{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty obrazów do konwersji" %}}
+Poniżej znajduje się pełna lista formatów graficznych, z których możesz dokonać konwersji:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+	        <hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/to/bmp" >Konwertuj na BMP</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/to/gif" >Konwertuj na GIF</a></div>

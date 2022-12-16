@@ -12,10 +12,11 @@ description: Mit Aspose.Imaging können Sie ganz einfach Ernte Bilder über java
 {{< blocks/products/pf/feature-page-header h1="Bilddateien Ernte über java" h2="Ernte Bilder" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Formate für den Vorgang Ernte" %}}
-Mit Aspose.Imaging können Sie ganz einfach Ernte für verschiedene Bildformate anwenden
+{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bilder Formate für den Vorgang Ernte" %}}
+Mit Aspose.Imaging können Sie ganz einfach **Ernte** für verschiedene Bildformate anwenden programmatisch
 <br/>
-Vollständige Liste der unterstützten Konvertierungen für den Vorgang Ernte:
+Vollständige Liste der unterstützten Ernte-Vorgänge nach Bildformaten:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

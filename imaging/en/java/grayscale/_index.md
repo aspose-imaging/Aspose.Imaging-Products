@@ -12,10 +12,11 @@ description: Using Aspose.Imaging you can easily Grayscale images Via java
 {{< blocks/products/pf/feature-page-header h1="Image files Grayscale via java" h2="Grayscale images" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="All supported formats for Grayscale operation" %}}
-Using Aspose.Imaging you can easily apply Grayscale for different image formats
+{{% blocks/products/pf/feature-page-section  h2="All supported image formats for Grayscale operation" %}}
+Using Aspose.Imaging you can easily apply **Grayscale** for different image formats programmatically
 <br/>
-Full list of supported conversions for Grayscale operation:
+Full list of supported Grayscale operations by image formats:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -12,10 +12,11 @@ description: Naudodami Aspose.Imaging galite lengvai sukurti Pašalinti foną va
 {{< blocks/products/pf/feature-page-header h1="Vaizdo failai Pašalinti foną per java" h2="Pašalinti foną vaizdai" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Pašalinti foną formatai" %}}
-Naudodami Aspose.Imaging galite lengvai pritaikyti Pašalinti foną skirtingiems vaizdo formatams
+{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Pašalinti foną attēlus formatai" %}}
+Naudodami Aspose.Imaging galite lengvai pritaikyti **Pašalinti foną** skirtingiems vaizdo formatams programmatiski
 <br/>
-Visas palaikomų operacijos Pašalinti foną konversijų sąrašas:
+Visas palaikomų operacijų Pašalinti foną sąrašas pagal vaizdo formatus:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

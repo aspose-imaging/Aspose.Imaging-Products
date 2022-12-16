@@ -12,10 +12,11 @@ description: Mit Aspose.Imaging können Sie ganz einfach Anpassen Bilder über j
 {{< blocks/products/pf/feature-page-header h1="Bilddateien Anpassen über java" h2="Anpassen Bilder" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Formate für den Vorgang Anpassen" %}}
-Mit Aspose.Imaging können Sie ganz einfach Anpassen für verschiedene Bildformate anwenden
+{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bilder Formate für den Vorgang Anpassen" %}}
+Mit Aspose.Imaging können Sie ganz einfach **Anpassen** für verschiedene Bildformate anwenden programmatisch
 <br/>
-Vollständige Liste der unterstützten Konvertierungen für den Vorgang Anpassen:
+Vollständige Liste der unterstützten Anpassen-Vorgänge nach Bildformaten:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

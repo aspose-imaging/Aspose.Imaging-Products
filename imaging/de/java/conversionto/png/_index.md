@@ -12,14 +12,15 @@ description: Mit Aspose.Imaging können Sie problemlos von anderen Formaten in P
 {{< blocks/products/pf/feature-page-header h1="Konvertierung von Bilddateien über C#" h2="Konvertieren Sie von anderen Formaten in PNG" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Formate zum Konvertieren in PNG" %}}
-Mit Aspose.Imaging können Sie problemlos von anderen Formaten in PNG konvertieren.
+{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bildformate zum Konvertieren in PNG" %}}
+Mit Aspose.Imaging können Sie problemlos von anderen Bildformaten in PNG konvertieren.
 <br/>
 Vollständige Liste der unterstützten Konvertierungen:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/apng-to-png" >APNG zu PNG</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/bmp-to-png" >BMP zu PNG</a></div>

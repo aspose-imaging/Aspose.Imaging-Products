@@ -12,10 +12,11 @@ description: Використовуючи Aspose.Imaging, ви можете ле
 {{< blocks/products/pf/feature-page-header h1="Файли зображень фільтрувати через net" h2="фільтрувати зображення" downloadText="Завантажити" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати для операції фільтрувати" %}}
-Використовуючи Aspose.Imaging, ви можете легко фільтрувати зображення різних форматів
+{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для операції фільтрувати" %}}
+Використовуючи Aspose.Imaging, ви можете легко виконати операцiю **фільтрувати** для  зображень різних форматів програмно
 <br/>
-Повний список підтримуваних перетворень для операції фільтрувати:
+Повний список підтримуваних операцій фільтрувати за форматами зображень:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

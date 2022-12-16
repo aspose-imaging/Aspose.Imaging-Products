@@ -12,14 +12,15 @@ description: Aspose.Imaging का उपयोग करके आप अन्
 {{< blocks/products/pf/feature-page-header h1="सी # के माध्यम से छवि फ़ाइलें रूपांतरण" h2="अन्य प्रारूपों से EMF में कनवर्ट करें" downloadText="डाउनलोड" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="से EMF में कनवर्ट करने के लिए सभी समर्थित प्रारूप" %}}
-Aspose.Imaging का उपयोग करके आप अन्य प्रारूपों से आसानी से EMF में परिवर्तित हो सकते हैं।
+{{% blocks/products/pf/feature-page-section  h2="से EMF में बदलने के लिए सभी समर्थित छवि प्रारूप" %}}
+Aspose.Imaging का उपयोग करके आप आसानी से अन्य छवि प्रारूपों से EMF में परिवर्तित कर सकते हैं।
 <br/>
 समर्थित रूपांतरणों की पूरी सूची:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/apng-to-emf" >APNG प्रति EMF</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/bmp-to-emf" >BMP प्रति EMF</a></div>

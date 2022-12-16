@@ -12,10 +12,11 @@ description: Usando Aspose.Imaging puede fácilmente Cultivo imágenes a través
 {{< blocks/products/pf/feature-page-header h1="Archivos de imagen Cultivo a través de net" h2="Imágenes de Cultivo" downloadText="Descargar" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos los formatos admitidos para la operación Cultivo" %}}
-Usando Aspose.Imaging puede aplicar fácilmente Cultivo para diferentes formatos de imagen
+{{% blocks/products/pf/feature-page-section  h2="Todos los imágenes formatos admitidos para la operación Cultivo" %}}
+Usando Aspose.Imaging puede aplicar fácilmente **Cultivo** para diferentes formatos de imagen programáticamente
 <br/>
-Lista completa de conversiones admitidas para la operación Cultivo:
+Lista completa de operaciones {nombre de operación} admitidas por formatos de imagen:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -12,10 +12,11 @@ description: Usando Aspose.Imaging puoi facilmente Cartoonizza immagini tramite 
 {{< blocks/products/pf/feature-page-header h1="File immagine Cartoonizza tramite net" h2="Cartoonizza immagini" downloadText="Scarica" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tutti i formati supportati per l'operazione Cartoonizza" %}}
-Usando Aspose.Imaging puoi facilmente applicare Cartoonizza per diversi formati di immagine
+{{% blocks/products/pf/feature-page-section  h2="Tutti i immagini formati supportati per l'operazione Cartoonizza" %}}
+Usando Aspose.Imaging puoi facilmente applicare **Cartoonizza** per diversi formati di immagine programmaticamente
 <br/>
-Elenco completo delle conversioni supportate per l'operazione Cartoonizza:
+Elenco completo delle operazioni Cartoonizza supportate per formati immagine:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

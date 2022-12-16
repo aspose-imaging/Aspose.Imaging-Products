@@ -12,10 +12,11 @@ description: Med Aspose.Imaging kan du enkelt Justera bilder via java
 {{< blocks/products/pf/feature-page-header h1="Bildfiler Justera via java" h2="Justera bilder" downloadText="Ladda ner" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alla format som stöds för operationen Justera" %}}
-Med Aspose.Imaging kan du enkelt använda Justera för olika bildformat
+{{% blocks/products/pf/feature-page-section  h2="Alla bilder format som stöds för operationen Justera" %}}
+Med Aspose.Imaging kan du enkelt använda **Justera** för olika bildformat programmatiskt
 <br/>
-Fullständig lista över omvandlingar som stöds för operationen Justera:
+Fullständig lista över Justera-operationer som stöds efter bildformat:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -12,10 +12,11 @@ description: Pomocí Aspose.Imaging můžete snadno Vodoznak obrázky přes net
 {{< blocks/products/pf/feature-page-header h1="Soubory obrázků Vodoznak prostřednictvím net" h2="obrázky Vodoznak" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty pro operaci Vodoznak" %}}
-Pomocí Aspose.Imaging můžete snadno použít Vodoznak pro různé formáty obrázků
+{{% blocks/products/pf/feature-page-section  h2="Všechny podporované snímky formáty pro operaci Vodoznak" %}}
+Pomocí Aspose.Imaging můžete snadno použít **Vodoznak** pro různé formáty obrázků programově
 <br/>
-Úplný seznam podporovaných konverzí pro operaci Vodoznak:
+Úplný seznam podporovaných operací Vodoznak podle formátů obrázků:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

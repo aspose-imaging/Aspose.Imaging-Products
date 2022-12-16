@@ -12,10 +12,11 @@ description: Aspose.Imaging'i kullanarak, net Aracılığıyla kolayca İkilile�
 {{< blocks/products/pf/feature-page-header h1="net aracılığıyla İkilileştir görüntü dosyaları" h2="İkilileştir görselleri" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="İkilileştir işlemi için desteklenen tüm biçimler" %}}
-Aspose.Imaging'i kullanarak farklı görüntü formatları için İkilileştir işlemini kolayca uygulayabilirsiniz
+{{% blocks/products/pf/feature-page-section  h2="İkilileştir işlemi Görüntüler için desteklenen tüm biçimler" %}}
+Aspose.Imaging'i kullanarak farklı görüntü formatları için **İkilileştir** işlemini kolayca uygulayabilirsiniz programlı olarak
 <br/>
-İkilileştir işlemi için desteklenen dönüşümlerin tam listesi:
+Görüntü biçimlerine göre desteklenen {işlem adı} işlemlerinin tam listesi:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

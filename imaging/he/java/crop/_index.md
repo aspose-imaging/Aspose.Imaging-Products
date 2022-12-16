@@ -12,10 +12,11 @@ description: באמצעות Aspose.Imaging תוכל בקלות יְבוּל תמ
 {{< blocks/products/pf/feature-page-header h1="קבצי תמונה יְבוּל באמצעות java" h2="תמונות יְבוּל" downloadText="הורד" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="כל הפורמטים הנתמכים עבור פעולת יְבוּל" %}}
-באמצעות Aspose.Imaging אתה יכול בקלות להחיל את יְבוּל עבור פורמטים שונים של תמונה
+{{% blocks/products/pf/feature-page-section  h2="כל הפורמטים  תמונות הנתמכים עבור פעולת יְבוּל" %}}
+באמצעות Aspose.Imaging אתה יכול בקלות להחיל את **יְבוּל** עבור פורמטים שונים של תמונה באופן תוכניתי
 <br/>
-רשימה מלאה של המרות נתמכות עבור הפעולה יְבוּל:
+רשימה מלאה של פעולות יְבוּל נתמכות לפי פורמטים של תמונה:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

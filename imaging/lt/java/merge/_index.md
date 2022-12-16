@@ -12,10 +12,11 @@ description: Naudodami Aspose.Imaging galite lengvai sukurti Sujungti vaizdus pe
 {{< blocks/products/pf/feature-page-header h1="Vaizdo failai Sujungti per java" h2="Sujungti vaizdai" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Sujungti formatai" %}}
-Naudodami Aspose.Imaging galite lengvai pritaikyti Sujungti skirtingiems vaizdo formatams
+{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Sujungti attēlus formatai" %}}
+Naudodami Aspose.Imaging galite lengvai pritaikyti **Sujungti** skirtingiems vaizdo formatams programmatiski
 <br/>
-Visas palaikomų operacijos Sujungti konversijų sąrašas:
+Visas palaikomų operacijų Sujungti sąrašas pagal vaizdo formatus:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

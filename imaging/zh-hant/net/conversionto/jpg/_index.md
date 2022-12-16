@@ -12,14 +12,15 @@ description: 使用 Aspose.Imaging，您可以輕鬆地將其他格式轉換為 
 {{< blocks/products/pf/feature-page-header h1="通過 C# 轉換圖像文件" h2="從其他格式轉換為 JPG" downloadText="下載" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="所有支持的格式轉換為 JPG" %}}
-使用 Aspose.Imaging，您可以輕鬆地將其他格式轉換為 JPG。
+{{% blocks/products/pf/feature-page-section  h2="所有支持的圖像格式轉換為 JPG" %}}
+使用 Aspose.Imaging，您可以輕鬆地將其他圖像格式轉換為 JPG。
 <br/>
 支持的轉換的完整列表：
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/apng-to-jpg" >APNG 至 JPG</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/bmp-to-jpg" >BMP 至 JPG</a></div>

@@ -12,14 +12,15 @@ description: Aspose.Imaging'i kullanarak başka biçimlerden SVGZ biçimine kola
 {{< blocks/products/pf/feature-page-header h1="C# Yoluyla Görüntü Dosyaları Dönüştürme" h2="Başka biçimlerden SVGZ biçimine dönüştürün" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="SVGZ biçimine dönüştürmek için desteklenen tüm biçimler" %}}
-Aspose.Imaging'i kullanarak başka biçimlerden SVGZ biçimine kolayca dönüştürebilirsiniz.
+{{% blocks/products/pf/feature-page-section  h2="SVGZ biçimine dönüştürülecek desteklenen tüm resim biçimleri" %}}
+Aspose.Imaging'i kullanarak diğer görüntü biçimlerinden SVGZ biçimine kolayca dönüştürebilirsiniz.
 <br/>
 Desteklenen dönüşümlerin tam listesi:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/java/conversion/apng-to-svgz" >APNG ile SVGZ</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/java/conversion/bmp-to-svgz" >BMP ile SVGZ</a></div>

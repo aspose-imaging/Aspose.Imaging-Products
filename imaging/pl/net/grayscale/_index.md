@@ -12,10 +12,11 @@ description: Używając Aspose.Imaging możesz łatwo Skala szarości obrazy Via
 {{< blocks/products/pf/feature-page-header h1="Pliki obrazów Skala szarości przez net" h2="Obrazy Skala szarości" downloadText="Ściągnij" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty operacji Skala szarości" %}}
-Używając Aspose.Imaging możesz łatwo zastosować Skala szarości dla różnych formatów obrazów
+{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty operacji obrazy Skala szarości" %}}
+Używając Aspose.Imaging możesz łatwo zastosować **Skala szarości** dla różnych formatów obrazów programowo
 <br/>
-Pełna lista obsługiwanych konwersji dla operacji Skala szarości:
+Pełna lista obsługiwanych operacji Skala szarości według formatów obrazu:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

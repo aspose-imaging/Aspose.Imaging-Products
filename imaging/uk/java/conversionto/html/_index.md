@@ -12,14 +12,15 @@ description: За допомогою Aspose.Imaging ви можете легко
 {{< blocks/products/pf/feature-page-header h1="Перетворення файлів зображень через C#" h2="Перетворити в HTML з інших форматів" downloadText="Завантажити" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати для перетворення на HTML" %}}
-За допомогою Aspose.Imaging ви можете легко конвертувати в HTML інші формати.
+{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для конвертації у HTML" %}}
+За допомогою Aspose.Imaging ви можете легко конвертувати в HTML інші формати зображень.
 <br/>
 Повний список підтримуваних конвертацій:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/apng-to-html" >APNG до HTML</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/bmp-to-html" >BMP до HTML</a></div>

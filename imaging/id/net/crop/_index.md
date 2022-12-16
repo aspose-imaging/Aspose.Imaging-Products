@@ -12,10 +12,11 @@ description: Menggunakan Aspose.Imaging Anda dapat dengan mudah Tanaman gambar V
 {{< blocks/products/pf/feature-page-header h1="File gambar Tanaman melalui net" h2="gambar Tanaman" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Semua format yang didukung untuk operasi Tanaman" %}}
-Menggunakan Aspose.Imaging Anda dapat dengan mudah menerapkan Tanaman untuk berbagai format gambar
+{{% blocks/products/pf/feature-page-section  h2="Semua gambar-gambar format yang didukung untuk operasi Tanaman" %}}
+Menggunakan Aspose.Imaging Anda dapat dengan mudah menerapkan **Tanaman** untuk berbagai format gambar secara terprogram
 <br/>
-Daftar lengkap konversi yang didukung untuk operasi Tanaman:
+Daftar lengkap operasi Tanaman yang didukung menurut format gambar:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -12,10 +12,11 @@ description: Usando Aspose.Imaging, você pode facilmente imagens Mude o fundo V
 {{< blocks/products/pf/feature-page-header h1="Arquivos de imagem Mude o fundo via net" h2="Mude o fundo imagens" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos os formatos suportados para a operação Mude o fundo" %}}
-Usando o Aspose.Imaging, você pode facilmente aplicar Mude o fundo para diferentes formatos de imagem
+{{% blocks/products/pf/feature-page-section  h2="Todos os formatos suportados para a operação imagens Mude o fundo" %}}
+Usando o Aspose.Imaging, você pode facilmente aplicar **Mude o fundo** para diferentes formatos de imagem programaticamente
 <br/>
-Lista completa de conversões suportadas para a operação Mude o fundo:
+Lista completa de operações Mude o fundo suportadas por formatos de imagem:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

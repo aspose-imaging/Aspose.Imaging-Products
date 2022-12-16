@@ -12,10 +12,11 @@ description: Using Aspose.Imaging you can easily Filter images Via net
 {{< blocks/products/pf/feature-page-header h1="Image files Filter via net" h2="Filter images" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="All supported formats for Filter operation" %}}
-Using Aspose.Imaging you can easily apply Filter for different image formats
+{{% blocks/products/pf/feature-page-section  h2="All supported image formats for Filter operation" %}}
+Using Aspose.Imaging you can easily apply **Filter** for different image formats programmatically
 <br/>
-Full list of supported conversions for Filter operation:
+Full list of supported Filter operations by image formats:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

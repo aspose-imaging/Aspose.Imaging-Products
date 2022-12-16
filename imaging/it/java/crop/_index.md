@@ -12,10 +12,11 @@ description: Usando Aspose.Imaging puoi facilmente Raccolto immagini tramite jav
 {{< blocks/products/pf/feature-page-header h1="File immagine Raccolto tramite java" h2="Raccolto immagini" downloadText="Scarica" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tutti i formati supportati per l'operazione Raccolto" %}}
-Usando Aspose.Imaging puoi facilmente applicare Raccolto per diversi formati di immagine
+{{% blocks/products/pf/feature-page-section  h2="Tutti i immagini formati supportati per l'operazione Raccolto" %}}
+Usando Aspose.Imaging puoi facilmente applicare **Raccolto** per diversi formati di immagine programmaticamente
 <br/>
-Elenco completo delle conversioni supportate per l'operazione Raccolto:
+Elenco completo delle operazioni Raccolto supportate per formati immagine:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -12,10 +12,11 @@ description: باستخدام Aspose.Imaging يمكنك بسهولة ضغط ال
 {{< blocks/products/pf/feature-page-header h1="ملفات الصور ضغط عبر net" h2="ضغط الصور" downloadText="تحميل" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="جميع التنسيقات المدعومة لعملية ضغط" %}}
-باستخدام Aspose.Imaging ، يمكنك بسهولة تطبيق ضغط لتنسيقات الصور المختلفة
+{{% blocks/products/pf/feature-page-section  h2="جميع التنسيقا تالصور  المدعومة لعملية ضغط" %}}
+باستخدام Aspose.Imaging ، يمكنك بسهولة تطبيق **ضغط** لتنسيقات الصور المختلفة برمجيا
 <br/>
-القائمة الكاملة للتحويلات المدعومة لعملية ضغط:
+القائمة الكاملة لعمليات ضغط المدعومة حسب تنسيقات الصور:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

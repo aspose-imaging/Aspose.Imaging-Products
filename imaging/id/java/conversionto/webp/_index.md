@@ -12,14 +12,15 @@ description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi ke W
 {{< blocks/products/pf/feature-page-header h1="Konversi File Gambar Melalui C#" h2="Konversikan ke WEBP dari format lain" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Semua format yang didukung untuk dikonversi dari ke WEBP" %}}
-Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi ke WEBP dari format lain.
+{{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari ke WEBP" %}}
+Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi ke WEBP dari format gambar lain.
 <br/>
 Daftar lengkap konversi yang didukung:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/apng-to-webp" >APNG ke WEBP</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/bmp-to-webp" >BMP ke WEBP</a></div>

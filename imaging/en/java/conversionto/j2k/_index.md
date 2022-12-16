@@ -1,25 +1,26 @@
 ﻿---
-title: Convert to J2K from another formats 
+title: Convert to J2K from other formats 
 weight: 3920
 url: /java/conversion/to/j2k 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Using Aspose.Imaging you can easily convert to J2K from another formats
+description: Using Aspose.Imaging you can easily convert to J2K from other formats
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Image Files Conversion Via C#" h2="Convert to J2K from another formats" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Image Files Conversion Via C#" h2="Convert to J2K from other formats" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="All supported formats to convert from to J2K" %}}
-Using Aspose.Imaging you can easily convert to J2K from another formats.
+{{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from to J2K" %}}
+Using Aspose.Imaging you can easily convert to J2K from other image formats.
 <br/>
 Full list of supported conversions:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/java/conversion/apng-to-j2k" >APNG to J2K</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/java/conversion/bmp-to-j2k" >BMP to J2K</a></div>

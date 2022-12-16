@@ -12,14 +12,15 @@ description: Usando Aspose.Imaging puede convertir fácilmente a PSD desde otros
 {{< blocks/products/pf/feature-page-header h1="Conversión de archivos de imagen a través de C#" h2="Convertir a PSD desde otros formatos" downloadText="Descargar" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos los formatos admitidos para convertir a PSD" %}}
-Con Aspose.Imaging puede convertir fácilmente a PSD desde otros formatos.
+{{% blocks/products/pf/feature-page-section  h2="Todos los formatos de imagen admitidos para convertir a PSD" %}}
+Con Aspose.Imaging puede convertir fácilmente a PSD desde otros formatos de imagen.
 <br/>
 Lista completa de conversiones admitidas:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/apng-to-psd" >APNG a PSD</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/bmp-to-psd" >BMP a PSD</a></div>

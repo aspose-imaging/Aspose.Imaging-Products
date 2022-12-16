@@ -12,10 +12,11 @@ description: Usando Aspose.Imaging, você pode facilmente imagens Redimensionar 
 {{< blocks/products/pf/feature-page-header h1="Arquivos de imagem Redimensionar via java" h2="Redimensionar imagens" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos os formatos suportados para a operação Redimensionar" %}}
-Usando o Aspose.Imaging, você pode facilmente aplicar Redimensionar para diferentes formatos de imagem
+{{% blocks/products/pf/feature-page-section  h2="Todos os formatos suportados para a operação imagens Redimensionar" %}}
+Usando o Aspose.Imaging, você pode facilmente aplicar **Redimensionar** para diferentes formatos de imagem programaticamente
 <br/>
-Lista completa de conversões suportadas para a operação Redimensionar:
+Lista completa de operações Redimensionar suportadas por formatos de imagem:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

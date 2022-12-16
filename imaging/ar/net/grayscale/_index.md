@@ -12,10 +12,11 @@ description: باستخدام Aspose.Imaging يمكنك بسهولة تدرج ا
 {{< blocks/products/pf/feature-page-header h1="ملفات الصور تدرج الرمادي عبر net" h2="تدرج الرمادي الصور" downloadText="تحميل" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="جميع التنسيقات المدعومة لعملية تدرج الرمادي" %}}
-باستخدام Aspose.Imaging ، يمكنك بسهولة تطبيق تدرج الرمادي لتنسيقات الصور المختلفة
+{{% blocks/products/pf/feature-page-section  h2="جميع التنسيقا تالصور  المدعومة لعملية تدرج الرمادي" %}}
+باستخدام Aspose.Imaging ، يمكنك بسهولة تطبيق **تدرج الرمادي** لتنسيقات الصور المختلفة برمجيا
 <br/>
-القائمة الكاملة للتحويلات المدعومة لعملية تدرج الرمادي:
+القائمة الكاملة لعمليات تدرج الرمادي المدعومة حسب تنسيقات الصور:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

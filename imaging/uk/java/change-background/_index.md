@@ -12,10 +12,11 @@ description: Використовуючи Aspose.Imaging, ви можете ле
 {{< blocks/products/pf/feature-page-header h1="Файли зображень Змінити фон через java" h2="Змінити фон зображення" downloadText="Завантажити" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати для операції Змінити фон" %}}
-Використовуючи Aspose.Imaging, ви можете легко Змінити фон зображення різних форматів
+{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для операції Змінити фон" %}}
+Використовуючи Aspose.Imaging, ви можете легко виконати операцiю **Змінити фон** для  зображень різних форматів програмно
 <br/>
-Повний список підтримуваних перетворень для операції Змінити фон:
+Повний список підтримуваних операцій Змінити фон за форматами зображень:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

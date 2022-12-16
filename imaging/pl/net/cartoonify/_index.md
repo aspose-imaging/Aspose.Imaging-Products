@@ -12,10 +12,11 @@ description: Używając Aspose.Imaging możesz łatwo Kreskówka obrazy Via net
 {{< blocks/products/pf/feature-page-header h1="Pliki obrazów Kreskówka przez net" h2="Obrazy Kreskówka" downloadText="Ściągnij" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty operacji Kreskówka" %}}
-Używając Aspose.Imaging możesz łatwo zastosować Kreskówka dla różnych formatów obrazów
+{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty operacji obrazy Kreskówka" %}}
+Używając Aspose.Imaging możesz łatwo zastosować **Kreskówka** dla różnych formatów obrazów programowo
 <br/>
-Pełna lista obsługiwanych konwersji dla operacji Kreskówka:
+Pełna lista obsługiwanych operacji Kreskówka według formatów obrazu:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

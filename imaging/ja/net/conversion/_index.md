@@ -151,12 +151,13 @@ SVG の変換プロセスは同じです。SVG ファイルを読み込み、関
 </div>
 <br/>
 
-{{% blocks/products/pf/feature-page-section  h2="変換元のサポートされているすべての形式" %}}
-以下に、変換できるフォーマットの完全なリストを示します。
+{{% blocks/products/pf/feature-page-section  h2="변환을 위해 지원되는 모든 형식" %}}
+以下に、変換できる画像形式の完全なリストを示します。
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+                <hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/from/apng" >変換元 APNG</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/from/bmp" >変換元 BMP</a></div>
@@ -193,12 +194,13 @@ SVG の変換プロセスは同じです。SVG ファイルを読み込み、関
 </div>
 <br/>
 
-{{% blocks/products/pf/feature-page-section  h2="サポートされているすべての変換形式" %}}
-以下に、変換できる形式の完全なリストを示します。
+{{% blocks/products/pf/feature-page-section  h2="変換先としてサポートされているすべての画像形式" %}}
+以下に、変換可能な画像形式の完全なリストを示します。
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+	        <hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/to/bmp" >に変換 BMP</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/to/gif" >に変換 GIF</a></div>

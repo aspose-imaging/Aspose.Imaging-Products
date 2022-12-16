@@ -12,10 +12,11 @@ description: เมื่อใช้ Aspose.Imaging คุณสามารถ
 {{< blocks/products/pf/feature-page-header h1="ไฟล์รูปภาพ การ์ตูน ผ่าน java" h2="การ์ตูน ภาพ" downloadText="ดาวน์โหลด" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="รูปแบบที่รองรับทั้งหมดสำหรับการดำเนินการ การ์ตูน" %}}
-เมื่อใช้ Aspose.Imaging คุณสามารถใช้ การ์ตูน สำหรับรูปแบบภาพต่างๆ ได้อย่างง่ายดาย
+{{% blocks/products/pf/feature-page-section  h2="รูปแบบที่รอ ภาพ งรับทั้งหมดสำหรับการดำเนินการ การ์ตูน" %}}
+เมื่อใช้ Aspose.Imaging คุณสามารถใช้ **การ์ตูน** สำหรับรูปแบบภาพต่างๆ ได้อย่างง่ายดาย โดยทางโปรแกรม
 <br/>
-รายการการแปลงทั้งหมดที่รองรับสำหรับการดำเนินการ การ์ตูน:
+รายการทั้งหมดของการดำเนินการ การ์ตูน ที่รองรับตามรูปแบบอิมเมจ:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

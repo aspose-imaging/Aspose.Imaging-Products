@@ -12,14 +12,15 @@ description: Aspose.Imaging を使用すると、別のフォーマットから 
 {{< blocks/products/pf/feature-page-header h1="C# による画像ファイルの変換" h2="別の形式から GIF に変換" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="サポートされているすべてのフォーマットから GIF への変換" %}}
-Aspose.Imaging を使用すると、別のフォーマットから GIF に簡単に変換できます。
+{{% blocks/products/pf/feature-page-section  h2="サポートされているすべての画像形式から GIF に変換" %}}
+Aspose.Imaging を使用すると、他の画像フォーマットから GIF に簡単に変換できます。
 <br/>
 サポートされている変換の完全なリスト:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/apng-to-gif" >APNG に GIF</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/bmp-to-gif" >BMP に GIF</a></div>

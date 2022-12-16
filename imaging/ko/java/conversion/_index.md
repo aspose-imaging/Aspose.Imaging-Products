@@ -151,12 +151,13 @@ CDR의 변환 과정은 거의 동일하며, CDR 파일을 로드하고, 관련 
 </div>
 <br/>
 
-{{% blocks/products/pf/feature-page-section  h2="변환할 지원되는 모든 형식" %}}
-다음은 변환할 수 있는 형식의 전체 목록입니다.
+{{% blocks/products/pf/feature-page-section  h2="변환할 이미지 지원되는 모든 형식" %}}
+다음은 변환할 수 있는 이미지 형식의 전체 목록입니다.
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+                <hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/from/apng" >다음에서 변환 APNG</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/from/bmp" >다음에서 변환 BMP</a></div>
@@ -193,12 +194,13 @@ CDR의 변환 과정은 거의 동일하며, CDR 파일을 로드하고, 관련 
 </div>
 <br/>
 
-{{% blocks/products/pf/feature-page-section  h2="지원되는 모든 형식으로 변환" %}}
-다음은 변환할 수 있는 형식의 전체 목록입니다.
+{{% blocks/products/pf/feature-page-section  h2="변환할 지원되는 모든 이미지 형식" %}}
+다음은 변환할 수 있는 이미지 형식의 전체 목록입니다.
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+	        <hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/to/bmp" >로 변환하다 BMP</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/to/gif" >로 변환하다 GIF</a></div>

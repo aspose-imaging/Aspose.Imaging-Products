@@ -12,14 +12,15 @@ description: Med Aspose.Imaging kan du enkelt konvertera till APNG från andra f
 {{< blocks/products/pf/feature-page-header h1="Konvertering av bildfiler via C#" h2="Konvertera till APNG från ett annat format" downloadText="Ladda ner" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alla format som stöds att konvertera från till APNG" %}}
-Med Aspose.Imaging kan du enkelt konvertera till APNG från andra format.
+{{% blocks/products/pf/feature-page-section  h2="Alla bildformat som stöds att konvertera från till APNG" %}}
+Med Aspose.Imaging kan du enkelt konvertera till APNG från andra bildformat.
 <br/>
 Fullständig lista över omvandlingar som stöds:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/bmp-to-apng" >BMP till APNG</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/dib-to-apng" >DIB till APNG</a></div>

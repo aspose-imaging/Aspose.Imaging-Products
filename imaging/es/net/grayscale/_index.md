@@ -12,10 +12,11 @@ description: Usando Aspose.Imaging puede fácilmente escala de grises imágenes 
 {{< blocks/products/pf/feature-page-header h1="Archivos de imagen escala de grises a través de net" h2="Imágenes de escala de grises" downloadText="Descargar" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos los formatos admitidos para la operación escala de grises" %}}
-Usando Aspose.Imaging puede aplicar fácilmente escala de grises para diferentes formatos de imagen
+{{% blocks/products/pf/feature-page-section  h2="Todos los imágenes formatos admitidos para la operación escala de grises" %}}
+Usando Aspose.Imaging puede aplicar fácilmente **escala de grises** para diferentes formatos de imagen programáticamente
 <br/>
-Lista completa de conversiones admitidas para la operación escala de grises:
+Lista completa de operaciones {nombre de operación} admitidas por formatos de imagen:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

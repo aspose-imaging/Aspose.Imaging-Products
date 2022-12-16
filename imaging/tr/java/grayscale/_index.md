@@ -12,10 +12,11 @@ description: Aspose.Imaging'i kullanarak, java Aracılığıyla kolayca gri tonl
 {{< blocks/products/pf/feature-page-header h1="java aracılığıyla gri tonlama görüntü dosyaları" h2="gri tonlama görselleri" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="gri tonlama işlemi için desteklenen tüm biçimler" %}}
-Aspose.Imaging'i kullanarak farklı görüntü formatları için gri tonlama işlemini kolayca uygulayabilirsiniz
+{{% blocks/products/pf/feature-page-section  h2="gri tonlama işlemi Görüntüler için desteklenen tüm biçimler" %}}
+Aspose.Imaging'i kullanarak farklı görüntü formatları için **gri tonlama** işlemini kolayca uygulayabilirsiniz programlı olarak
 <br/>
-gri tonlama işlemi için desteklenen dönüşümlerin tam listesi:
+Görüntü biçimlerine göre desteklenen {işlem adı} işlemlerinin tam listesi:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

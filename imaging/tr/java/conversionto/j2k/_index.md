@@ -12,14 +12,15 @@ description: Aspose.Imaging'i kullanarak başka biçimlerden J2K biçimine kolay
 {{< blocks/products/pf/feature-page-header h1="C# Yoluyla Görüntü Dosyaları Dönüştürme" h2="Başka biçimlerden J2K biçimine dönüştürün" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="J2K biçimine dönüştürmek için desteklenen tüm biçimler" %}}
-Aspose.Imaging'i kullanarak başka biçimlerden J2K biçimine kolayca dönüştürebilirsiniz.
+{{% blocks/products/pf/feature-page-section  h2="J2K biçimine dönüştürülecek desteklenen tüm resim biçimleri" %}}
+Aspose.Imaging'i kullanarak diğer görüntü biçimlerinden J2K biçimine kolayca dönüştürebilirsiniz.
 <br/>
 Desteklenen dönüşümlerin tam listesi:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/java/conversion/apng-to-j2k" >APNG ile J2K</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/java/conversion/bmp-to-j2k" >BMP ile J2K</a></div>

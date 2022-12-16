@@ -12,14 +12,15 @@ description: Usando o Aspose.Imaging, você pode facilmente converter para JPG d
 {{< blocks/products/pf/feature-page-header h1="Conversão de Arquivos de Imagem Via C#" h2="Converter para JPG de outros formatos" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos os formatos suportados para converter para JPG" %}}
-Usando Aspose.Imaging você pode facilmente converter para JPG de outros formatos.
+{{% blocks/products/pf/feature-page-section  h2="Todos os formatos de imagem suportados para converter para JPG" %}}
+Usando Aspose.Imaging, você pode facilmente converter para JPG de outros formatos de imagem.
 <br/>
 Lista completa de conversões suportadas:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/apng-to-jpg" >APNG para JPG</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/bmp-to-jpg" >BMP para JPG</a></div>

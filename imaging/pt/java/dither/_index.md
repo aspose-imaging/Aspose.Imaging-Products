@@ -12,10 +12,11 @@ description: Usando Aspose.Imaging, você pode facilmente imagens Dither Via jav
 {{< blocks/products/pf/feature-page-header h1="Arquivos de imagem Dither via java" h2="Dither imagens" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos os formatos suportados para a operação Dither" %}}
-Usando o Aspose.Imaging, você pode facilmente aplicar Dither para diferentes formatos de imagem
+{{% blocks/products/pf/feature-page-section  h2="Todos os formatos suportados para a operação imagens Dither" %}}
+Usando o Aspose.Imaging, você pode facilmente aplicar **Dither** para diferentes formatos de imagem programaticamente
 <br/>
-Lista completa de conversões suportadas para a operação Dither:
+Lista completa de operações Dither suportadas por formatos de imagem:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

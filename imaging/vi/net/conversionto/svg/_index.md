@@ -12,14 +12,15 @@ description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng chuyển đ�
 {{< blocks/products/pf/feature-page-header h1="Chuyển đổi tệp hình ảnh qua C#" h2="Chuyển đổi sang SVG từ các định dạng khác" downloadText="Tải xuống" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tất cả các định dạng được hỗ trợ để chuyển đổi từ sang SVG" %}}
-Sử dụng Aspose.Imaging, bạn có thể dễ dàng chuyển đổi sang SVG từ các định dạng khác.
+{{% blocks/products/pf/feature-page-section  h2="Tất cả các định dạng hình ảnh được hỗ trợ để chuyển đổi từ SVG" %}}
+Sử dụng Aspose.Imaging, bạn có thể dễ dàng chuyển đổi sang SVG từ các định dạng hình ảnh khác.
 <br/>
 Danh sách đầy đủ các chuyển đổi được hỗ trợ:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/apng-to-svg" >APNG đến SVG</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/bmp-to-svg" >BMP đến SVG</a></div>

@@ -151,12 +151,13 @@ description: แปลงไฟล์รูปภาพ รูปภาพ ไ�
 </div>
 <br/>
 
-{{% blocks/products/pf/feature-page-section  h2="รูปแบบที่รองรับทั้งหมดที่จะแปลงจาก" %}}
-ด้านล่างแสดงรายการรูปแบบทั้งหมดที่คุณสามารถแปลงจาก:
+{{% blocks/products/pf/feature-page-section  h2="รูปแบบภาพที่รองรับทั้งหมดสำหรับการแปลงจาก" %}}
+ด้านล่างนี้คือรายการรูปแบบภาพทั้งหมดที่คุณสามารถแปลงเป็น:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+                <hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/from/apng" >แปลงจาก APNG</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/from/bmp" >แปลงจาก BMP</a></div>
@@ -193,12 +194,13 @@ description: แปลงไฟล์รูปภาพ รูปภาพ ไ�
 </div>
 <br/>
 
-{{% blocks/products/pf/feature-page-section  h2="รูปแบบที่รองรับทั้งหมดที่จะแปลงเป็น" %}}
-ด้านล่างแสดงรายการรูปแบบทั้งหมดที่คุณสามารถแปลงเป็น:
+{{% blocks/products/pf/feature-page-section  h2="รูปแบบภาพที่รองรับทั้งหมดที่จะแปลงเป็น" %}}
+ด้านล่างนี้คือรายการรูปแบบภาพทั้งหมดที่คุณสามารถแปลงจาก:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+	        <hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/to/bmp" >เปลี่ยนเป็น BMP</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/to/gif" >เปลี่ยนเป็น GIF</a></div>

@@ -12,14 +12,15 @@ description: Usando Aspose.Imaging puede convertir fácilmente a ICO desde otros
 {{< blocks/products/pf/feature-page-header h1="Conversión de archivos de imagen a través de C#" h2="Convertir a ICO desde otros formatos" downloadText="Descargar" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos los formatos admitidos para convertir a ICO" %}}
-Con Aspose.Imaging puede convertir fácilmente a ICO desde otros formatos.
+{{% blocks/products/pf/feature-page-section  h2="Todos los formatos de imagen admitidos para convertir a ICO" %}}
+Con Aspose.Imaging puede convertir fácilmente a ICO desde otros formatos de imagen.
 <br/>
 Lista completa de conversiones admitidas:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/apng-to-ico" >APNG a ICO</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/bmp-to-ico" >BMP a ICO</a></div>

@@ -12,10 +12,11 @@ description: Używając Aspose.Imaging możesz łatwo Łączyć obrazy Via net
 {{< blocks/products/pf/feature-page-header h1="Pliki obrazów Łączyć przez net" h2="Obrazy Łączyć" downloadText="Ściągnij" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty operacji Łączyć" %}}
-Używając Aspose.Imaging możesz łatwo zastosować Łączyć dla różnych formatów obrazów
+{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty operacji obrazy Łączyć" %}}
+Używając Aspose.Imaging możesz łatwo zastosować **Łączyć** dla różnych formatów obrazów programowo
 <br/>
-Pełna lista obsługiwanych konwersji dla operacji Łączyć:
+Pełna lista obsługiwanych operacji Łączyć według formatów obrazu:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

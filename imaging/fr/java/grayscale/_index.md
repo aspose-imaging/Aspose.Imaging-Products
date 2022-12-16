@@ -12,10 +12,11 @@ description: En utilisant Aspose.Imaging, vous pouvez facilement Niveaux de gris
 {{< blocks/products/pf/feature-page-header h1="Fichiers image Niveaux de gris via java" h2="images de Niveaux de gris" downloadText="Télécharger" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tous les formats pris en charge pour l'opération Niveaux de gris" %}}
-En utilisant Aspose.Imaging, vous pouvez facilement appliquer Niveaux de gris pour différents formats d'image
+{{% blocks/products/pf/feature-page-section  h2="Tous les images formats pris en charge pour l'opération Niveaux de gris" %}}
+En utilisant Aspose.Imaging, vous pouvez facilement appliquer **Niveaux de gris** pour différents formats d'image par programmation
 <br/>
-Liste complète des conversions prises en charge pour l'opération Niveaux de gris :
+Liste complète des opérations Niveaux de gris prises en charge par formats d'image :
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

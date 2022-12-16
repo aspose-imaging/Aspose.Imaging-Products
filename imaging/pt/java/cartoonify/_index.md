@@ -12,10 +12,11 @@ description: Usando Aspose.Imaging, você pode facilmente imagens Cartoonify Via
 {{< blocks/products/pf/feature-page-header h1="Arquivos de imagem Cartoonify via java" h2="Cartoonify imagens" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos os formatos suportados para a operação Cartoonify" %}}
-Usando o Aspose.Imaging, você pode facilmente aplicar Cartoonify para diferentes formatos de imagem
+{{% blocks/products/pf/feature-page-section  h2="Todos os formatos suportados para a operação imagens Cartoonify" %}}
+Usando o Aspose.Imaging, você pode facilmente aplicar **Cartoonify** para diferentes formatos de imagem programaticamente
 <br/>
-Lista completa de conversões suportadas para a operação Cartoonify:
+Lista completa de operações Cartoonify suportadas por formatos de imagem:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

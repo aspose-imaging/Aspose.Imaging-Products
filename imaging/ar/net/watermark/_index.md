@@ -12,10 +12,11 @@ description: باستخدام Aspose.Imaging يمكنك بسهولة علامة 
 {{< blocks/products/pf/feature-page-header h1="ملفات الصور علامة مائية عبر net" h2="علامة مائية الصور" downloadText="تحميل" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="جميع التنسيقات المدعومة لعملية علامة مائية" %}}
-باستخدام Aspose.Imaging ، يمكنك بسهولة تطبيق علامة مائية لتنسيقات الصور المختلفة
+{{% blocks/products/pf/feature-page-section  h2="جميع التنسيقا تالصور  المدعومة لعملية علامة مائية" %}}
+باستخدام Aspose.Imaging ، يمكنك بسهولة تطبيق **علامة مائية** لتنسيقات الصور المختلفة برمجيا
 <br/>
-القائمة الكاملة للتحويلات المدعومة لعملية علامة مائية:
+القائمة الكاملة لعمليات علامة مائية المدعومة حسب تنسيقات الصور:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

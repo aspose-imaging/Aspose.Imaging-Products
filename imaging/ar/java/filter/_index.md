@@ -12,10 +12,11 @@ description: باستخدام Aspose.Imaging يمكنك بسهولة منقي ا
 {{< blocks/products/pf/feature-page-header h1="ملفات الصور منقي عبر java" h2="منقي الصور" downloadText="تحميل" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="جميع التنسيقات المدعومة لعملية منقي" %}}
-باستخدام Aspose.Imaging ، يمكنك بسهولة تطبيق منقي لتنسيقات الصور المختلفة
+{{% blocks/products/pf/feature-page-section  h2="جميع التنسيقا تالصور  المدعومة لعملية منقي" %}}
+باستخدام Aspose.Imaging ، يمكنك بسهولة تطبيق **منقي** لتنسيقات الصور المختلفة برمجيا
 <br/>
-القائمة الكاملة للتحويلات المدعومة لعملية منقي:
+القائمة الكاملة لعمليات منقي المدعومة حسب تنسيقات الصور:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

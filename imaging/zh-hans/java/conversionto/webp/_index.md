@@ -12,14 +12,15 @@ description: 使用 Aspose.Imaging，您可以轻松地将其他格式转换为 
 {{< blocks/products/pf/feature-page-header h1="通过 C# 转换图像文件" h2="从其他格式转换为 WEBP" downloadText="下载" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="所有支持的格式转换为 WEBP" %}}
-使用 Aspose.Imaging，您可以轻松地将其他格式转换为 WEBP。
+{{% blocks/products/pf/feature-page-section  h2="所有支持的图像格式转换为 WEBP" %}}
+使用 Aspose.Imaging，您可以轻松地将其他图像格式转换为 WEBP。
 <br/>
 支持的转换的完整列表：
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/apng-to-webp" >APNG 至 WEBP</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/bmp-to-webp" >BMP 至 WEBP</a></div>

@@ -12,10 +12,11 @@ description: Używając Aspose.Imaging możesz łatwo znak wodny obrazy Via net
 {{< blocks/products/pf/feature-page-header h1="Pliki obrazów znak wodny przez net" h2="Obrazy znak wodny" downloadText="Ściągnij" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty operacji znak wodny" %}}
-Używając Aspose.Imaging możesz łatwo zastosować znak wodny dla różnych formatów obrazów
+{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty operacji obrazy znak wodny" %}}
+Używając Aspose.Imaging możesz łatwo zastosować **znak wodny** dla różnych formatów obrazów programowo
 <br/>
-Pełna lista obsługiwanych konwersji dla operacji znak wodny:
+Pełna lista obsługiwanych operacji znak wodny według formatów obrazu:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

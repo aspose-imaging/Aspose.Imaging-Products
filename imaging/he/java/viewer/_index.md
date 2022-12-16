@@ -12,10 +12,11 @@ description: באמצעות Aspose.Imaging תוכל בקלות הצג תמונה
 {{< blocks/products/pf/feature-page-header h1="קבצי תמונה הצג תמונה באמצעות java" h2="תמונות הצג תמונה" downloadText="הורד" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="כל הפורמטים הנתמכים עבור פעולת הצג תמונה" %}}
-באמצעות Aspose.Imaging אתה יכול בקלות להחיל את הצג תמונה עבור פורמטים שונים של תמונה
+{{% blocks/products/pf/feature-page-section  h2="כל הפורמטים  תמונות הנתמכים עבור פעולת הצג תמונה" %}}
+באמצעות Aspose.Imaging אתה יכול בקלות להחיל את **הצג תמונה** עבור פורמטים שונים של תמונה באופן תוכניתי
 <br/>
-רשימה מלאה של המרות נתמכות עבור הפעולה הצג תמונה:
+רשימה מלאה של פעולות הצג תמונה נתמכות לפי פורמטים של תמונה:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -12,10 +12,11 @@ description: Usando Aspose.Imaging, você pode facilmente imagens Marca d'água 
 {{< blocks/products/pf/feature-page-header h1="Arquivos de imagem Marca d'água via java" h2="Marca d'água imagens" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos os formatos suportados para a operação Marca d'água" %}}
-Usando o Aspose.Imaging, você pode facilmente aplicar Marca d'água para diferentes formatos de imagem
+{{% blocks/products/pf/feature-page-section  h2="Todos os formatos suportados para a operação imagens Marca d'água" %}}
+Usando o Aspose.Imaging, você pode facilmente aplicar **Marca d'água** para diferentes formatos de imagem programaticamente
 <br/>
-Lista completa de conversões suportadas para a operação Marca d'água:
+Lista completa de operações Marca d'água suportadas por formatos de imagem:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

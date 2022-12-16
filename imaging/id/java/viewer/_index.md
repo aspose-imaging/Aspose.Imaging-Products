@@ -12,10 +12,11 @@ description: Menggunakan Aspose.Imaging Anda dapat dengan mudah Lihat gambar gam
 {{< blocks/products/pf/feature-page-header h1="File gambar Lihat gambar melalui java" h2="gambar Lihat gambar" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Semua format yang didukung untuk operasi Lihat gambar" %}}
-Menggunakan Aspose.Imaging Anda dapat dengan mudah menerapkan Lihat gambar untuk berbagai format gambar
+{{% blocks/products/pf/feature-page-section  h2="Semua gambar-gambar format yang didukung untuk operasi Lihat gambar" %}}
+Menggunakan Aspose.Imaging Anda dapat dengan mudah menerapkan **Lihat gambar** untuk berbagai format gambar secara terprogram
 <br/>
-Daftar lengkap konversi yang didukung untuk operasi Lihat gambar:
+Daftar lengkap operasi Lihat gambar yang didukung menurut format gambar:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

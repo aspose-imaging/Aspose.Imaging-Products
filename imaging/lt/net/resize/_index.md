@@ -12,10 +12,11 @@ description: Naudodami Aspose.Imaging galite lengvai sukurti Pakeisti dydį vaiz
 {{< blocks/products/pf/feature-page-header h1="Vaizdo failai Pakeisti dydį per net" h2="Pakeisti dydį vaizdai" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Pakeisti dydį formatai" %}}
-Naudodami Aspose.Imaging galite lengvai pritaikyti Pakeisti dydį skirtingiems vaizdo formatams
+{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Pakeisti dydį attēlus formatai" %}}
+Naudodami Aspose.Imaging galite lengvai pritaikyti **Pakeisti dydį** skirtingiems vaizdo formatams programmatiski
 <br/>
-Visas palaikomų operacijos Pakeisti dydį konversijų sąrašas:
+Visas palaikomų operacijų Pakeisti dydį sąrašas pagal vaizdo formatus:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

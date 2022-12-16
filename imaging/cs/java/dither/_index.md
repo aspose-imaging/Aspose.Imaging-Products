@@ -12,10 +12,11 @@ description: Pomocí Aspose.Imaging můžete snadno Váhat obrázky přes java
 {{< blocks/products/pf/feature-page-header h1="Soubory obrázků Váhat prostřednictvím java" h2="obrázky Váhat" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty pro operaci Váhat" %}}
-Pomocí Aspose.Imaging můžete snadno použít Váhat pro různé formáty obrázků
+{{% blocks/products/pf/feature-page-section  h2="Všechny podporované snímky formáty pro operaci Váhat" %}}
+Pomocí Aspose.Imaging můžete snadno použít **Váhat** pro různé formáty obrázků programově
 <br/>
-Úplný seznam podporovaných konverzí pro operaci Váhat:
+Úplný seznam podporovaných operací Váhat podle formátů obrázků:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -12,10 +12,11 @@ description: Використовуючи Aspose.Imaging, ви можете ле
 {{< blocks/products/pf/feature-page-header h1="Файли зображень Об’єднати через net" h2="Об’єднати зображення" downloadText="Завантажити" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати для операції Об’єднати" %}}
-Використовуючи Aspose.Imaging, ви можете легко Об’єднати зображення різних форматів
+{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для операції Об’єднати" %}}
+Використовуючи Aspose.Imaging, ви можете легко виконати операцiю **Об’єднати** для  зображень різних форматів програмно
 <br/>
-Повний список підтримуваних перетворень для операції Об’єднати:
+Повний список підтримуваних операцій Об’єднати за форматами зображень:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

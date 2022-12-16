@@ -12,10 +12,11 @@ description: Naudodami Aspose.Imaging galite lengvai sukurti Keisti foną vaizdu
 {{< blocks/products/pf/feature-page-header h1="Vaizdo failai Keisti foną per net" h2="Keisti foną vaizdai" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Keisti foną formatai" %}}
-Naudodami Aspose.Imaging galite lengvai pritaikyti Keisti foną skirtingiems vaizdo formatams
+{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Keisti foną attēlus formatai" %}}
+Naudodami Aspose.Imaging galite lengvai pritaikyti **Keisti foną** skirtingiems vaizdo formatams programmatiski
 <br/>
-Visas palaikomų operacijos Keisti foną konversijų sąrašas:
+Visas palaikomų operacijų Keisti foną sąrašas pagal vaizdo formatus:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

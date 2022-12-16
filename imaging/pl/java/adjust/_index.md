@@ -12,10 +12,11 @@ description: Używając Aspose.Imaging możesz łatwo Dostosować obrazy Via jav
 {{< blocks/products/pf/feature-page-header h1="Pliki obrazów Dostosować przez java" h2="Obrazy Dostosować" downloadText="Ściągnij" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty operacji Dostosować" %}}
-Używając Aspose.Imaging możesz łatwo zastosować Dostosować dla różnych formatów obrazów
+{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty operacji obrazy Dostosować" %}}
+Używając Aspose.Imaging możesz łatwo zastosować **Dostosować** dla różnych formatów obrazów programowo
 <br/>
-Pełna lista obsługiwanych konwersji dla operacji Dostosować:
+Pełna lista obsługiwanych operacji Dostosować według formatów obrazu:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

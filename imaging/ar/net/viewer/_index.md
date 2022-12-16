@@ -12,10 +12,11 @@ description: باستخدام Aspose.Imaging يمكنك بسهولة عرض ال
 {{< blocks/products/pf/feature-page-header h1="ملفات الصور عرض الصورة عبر net" h2="عرض الصورة الصور" downloadText="تحميل" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="جميع التنسيقات المدعومة لعملية عرض الصورة" %}}
-باستخدام Aspose.Imaging ، يمكنك بسهولة تطبيق عرض الصورة لتنسيقات الصور المختلفة
+{{% blocks/products/pf/feature-page-section  h2="جميع التنسيقا تالصور  المدعومة لعملية عرض الصورة" %}}
+باستخدام Aspose.Imaging ، يمكنك بسهولة تطبيق **عرض الصورة** لتنسيقات الصور المختلفة برمجيا
 <br/>
-القائمة الكاملة للتحويلات المدعومة لعملية عرض الصورة:
+القائمة الكاملة لعمليات عرض الصورة المدعومة حسب تنسيقات الصور:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

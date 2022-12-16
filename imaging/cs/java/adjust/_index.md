@@ -12,10 +12,11 @@ description: Pomocí Aspose.Imaging můžete snadno Upravit obrázky přes java
 {{< blocks/products/pf/feature-page-header h1="Soubory obrázků Upravit prostřednictvím java" h2="obrázky Upravit" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty pro operaci Upravit" %}}
-Pomocí Aspose.Imaging můžete snadno použít Upravit pro různé formáty obrázků
+{{% blocks/products/pf/feature-page-section  h2="Všechny podporované snímky formáty pro operaci Upravit" %}}
+Pomocí Aspose.Imaging můžete snadno použít **Upravit** pro různé formáty obrázků programově
 <br/>
-Úplný seznam podporovaných konverzí pro operaci Upravit:
+Úplný seznam podporovaných operací Upravit podle formátů obrázků:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

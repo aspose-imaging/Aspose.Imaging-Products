@@ -12,10 +12,11 @@ description: En utilisant Aspose.Imaging, vous pouvez facilement Caricaturer ima
 {{< blocks/products/pf/feature-page-header h1="Fichiers image Caricaturer via net" h2="images de Caricaturer" downloadText="Télécharger" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tous les formats pris en charge pour l'opération Caricaturer" %}}
-En utilisant Aspose.Imaging, vous pouvez facilement appliquer Caricaturer pour différents formats d'image
+{{% blocks/products/pf/feature-page-section  h2="Tous les images formats pris en charge pour l'opération Caricaturer" %}}
+En utilisant Aspose.Imaging, vous pouvez facilement appliquer **Caricaturer** pour différents formats d'image par programmation
 <br/>
-Liste complète des conversions prises en charge pour l'opération Caricaturer :
+Liste complète des opérations Caricaturer prises en charge par formats d'image :
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

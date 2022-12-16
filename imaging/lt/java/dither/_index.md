@@ -12,10 +12,11 @@ description: Naudodami Aspose.Imaging galite lengvai sukurti Dither vaizdus per 
 {{< blocks/products/pf/feature-page-header h1="Vaizdo failai Dither per java" h2="Dither vaizdai" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Dither formatai" %}}
-Naudodami Aspose.Imaging galite lengvai pritaikyti Dither skirtingiems vaizdo formatams
+{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Dither attēlus formatai" %}}
+Naudodami Aspose.Imaging galite lengvai pritaikyti **Dither** skirtingiems vaizdo formatams programmatiski
 <br/>
-Visas palaikomų operacijos Dither konversijų sąrašas:
+Visas palaikomų operacijų Dither sąrašas pagal vaizdo formatus:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

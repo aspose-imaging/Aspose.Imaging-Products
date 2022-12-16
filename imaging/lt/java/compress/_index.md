@@ -12,10 +12,11 @@ description: Naudodami Aspose.Imaging galite lengvai sukurti Suspausti vaizdus p
 {{< blocks/products/pf/feature-page-header h1="Vaizdo failai Suspausti per java" h2="Suspausti vaizdai" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Suspausti formatai" %}}
-Naudodami Aspose.Imaging galite lengvai pritaikyti Suspausti skirtingiems vaizdo formatams
+{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Suspausti attēlus formatai" %}}
+Naudodami Aspose.Imaging galite lengvai pritaikyti **Suspausti** skirtingiems vaizdo formatams programmatiski
 <br/>
-Visas palaikomų operacijos Suspausti konversijų sąrašas:
+Visas palaikomų operacijų Suspausti sąrašas pagal vaizdo formatus:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

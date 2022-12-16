@@ -12,10 +12,11 @@ description: Usando Aspose.Imaging, você pode facilmente imagens Ajustar Via ja
 {{< blocks/products/pf/feature-page-header h1="Arquivos de imagem Ajustar via java" h2="Ajustar imagens" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos os formatos suportados para a operação Ajustar" %}}
-Usando o Aspose.Imaging, você pode facilmente aplicar Ajustar para diferentes formatos de imagem
+{{% blocks/products/pf/feature-page-section  h2="Todos os formatos suportados para a operação imagens Ajustar" %}}
+Usando o Aspose.Imaging, você pode facilmente aplicar **Ajustar** para diferentes formatos de imagem programaticamente
 <br/>
-Lista completa de conversões suportadas para a operação Ajustar:
+Lista completa de operações Ajustar suportadas por formatos de imagem:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

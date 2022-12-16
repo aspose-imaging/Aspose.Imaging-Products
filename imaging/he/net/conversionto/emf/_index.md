@@ -12,14 +12,15 @@ description: באמצעות Aspose.Imaging תוכל להמיר בקלות ל-EMF
 {{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה באמצעות C#" h2="המר ל-EMF מפורמט אחר" downloadText="הורד" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="כל הפורמטים הנתמכים להמרה ל-EMF" %}}
-באמצעות Aspose.Imaging תוכל להמיר בקלות ל-EMF מפורמט אחר.
+{{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה ל-EMF" %}}
+באמצעות Aspose.Imaging תוכל להמיר בקלות ל-EMF מפורמטים אחרים של תמונה.
 <br/>
 רשימה מלאה של המרות נתמכות:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/apng-to-emf" >APNG ל EMF</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/bmp-to-emf" >BMP ל EMF</a></div>

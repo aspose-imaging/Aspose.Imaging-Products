@@ -12,10 +12,11 @@ description: Pomocí Aspose.Imaging můžete snadno Oříznutí obrázky přes n
 {{< blocks/products/pf/feature-page-header h1="Soubory obrázků Oříznutí prostřednictvím net" h2="obrázky Oříznutí" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty pro operaci Oříznutí" %}}
-Pomocí Aspose.Imaging můžete snadno použít Oříznutí pro různé formáty obrázků
+{{% blocks/products/pf/feature-page-section  h2="Všechny podporované snímky formáty pro operaci Oříznutí" %}}
+Pomocí Aspose.Imaging můžete snadno použít **Oříznutí** pro různé formáty obrázků programově
 <br/>
-Úplný seznam podporovaných konverzí pro operaci Oříznutí:
+Úplný seznam podporovaných operací Oříznutí podle formátů obrázků:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

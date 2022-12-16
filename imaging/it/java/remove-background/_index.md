@@ -12,10 +12,11 @@ description: Usando Aspose.Imaging puoi facilmente Rimuovi lo sfondo immagini tr
 {{< blocks/products/pf/feature-page-header h1="File immagine Rimuovi lo sfondo tramite java" h2="Rimuovi lo sfondo immagini" downloadText="Scarica" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tutti i formati supportati per l'operazione Rimuovi lo sfondo" %}}
-Usando Aspose.Imaging puoi facilmente applicare Rimuovi lo sfondo per diversi formati di immagine
+{{% blocks/products/pf/feature-page-section  h2="Tutti i immagini formati supportati per l'operazione Rimuovi lo sfondo" %}}
+Usando Aspose.Imaging puoi facilmente applicare **Rimuovi lo sfondo** per diversi formati di immagine programmaticamente
 <br/>
-Elenco completo delle conversioni supportate per l'operazione Rimuovi lo sfondo:
+Elenco completo delle operazioni Rimuovi lo sfondo supportate per formati immagine:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

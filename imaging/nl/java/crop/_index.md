@@ -12,10 +12,11 @@ description: Met behulp van Aspose.Imaging kunt u eenvoudig Bijsnijden afbeeldin
 {{< blocks/products/pf/feature-page-header h1="Afbeeldingsbestanden Bijsnijden via java" h2="Bijsnijden afbeeldingen" downloadText="Downloaden" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde indelingen voor de bewerking Bijsnijden" %}}
-Met Aspose.Imaging kunt u eenvoudig Bijsnijden toepassen voor verschillende afbeeldingsformaten
+{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde indelingen voor de bewerking afbeeldingen Bijsnijden" %}}
+Met Aspose.Imaging kunt u eenvoudig **Bijsnijden** toepassen voor verschillende afbeeldingsformaten programmatisch
 <br/>
-Volledige lijst met ondersteunde conversies voor bewerking Bijsnijden:
+Volledige lijst met ondersteunde Bijsnijden-bewerkingen per afbeeldingsindeling:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

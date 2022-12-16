@@ -151,12 +151,13 @@ Il processo di conversione di SVG è lo stesso, carica il file SVG, usa le opzio
 </div>
 <br/>
 
-{{% blocks/products/pf/feature-page-section  h2="Tutti i formati supportati da cui convertire" %}}
-Di seguito viene presentato l'elenco completo dei formati da cui è possibile convertire:
+{{% blocks/products/pf/feature-page-section  h2="Tutti i immagini formati supportati da cui convertire" %}}
+Di seguito è presentato l'elenco completo dei formati di immagine in cui è possibile convertire:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+                <hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/from/apng" >Converti da APNG</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/from/bmp" >Converti da BMP</a></div>
@@ -193,12 +194,13 @@ Di seguito viene presentato l'elenco completo dei formati da cui è possibile co
 </div>
 <br/>
 
-{{% blocks/products/pf/feature-page-section  h2="Tutti i formati supportati per la conversione" %}}
-Di seguito viene presentato l'elenco completo dei formati in cui è possibile convertire:
+{{% blocks/products/pf/feature-page-section  h2="Tutti i formati immagine supportati per la conversione" %}}
+Di seguito è presentato l'elenco completo dei formati di immagine da cui è possibile convertire:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+	        <hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/to/bmp" >Convertire in BMP</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/to/gif" >Convertire in GIF</a></div>

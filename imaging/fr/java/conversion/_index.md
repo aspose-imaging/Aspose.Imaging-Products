@@ -151,12 +151,13 @@ Le processus de conversion du CDR est presque le même, chargez le fichier CDR, 
 </div>
 <br/>
 
-{{% blocks/products/pf/feature-page-section  h2="Tous les formats pris en charge à partir desquels convertir" %}}
-Vous trouverez ci-dessous la liste complète des formats à partir desquels vous pouvez convertir :
+{{% blocks/products/pf/feature-page-section  h2="Tous les images formats pris en charge à partir desquels convertir" %}}
+Vous trouverez ci-dessous la liste complète des formats d'image vers lesquels vous pouvez convertir :
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+                <hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/from/apng" >Convertir à partir de APNG</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/from/bmp" >Convertir à partir de BMP</a></div>
@@ -193,12 +194,13 @@ Vous trouverez ci-dessous la liste complète des formats à partir desquels vous
 </div>
 <br/>
 
-{{% blocks/products/pf/feature-page-section  h2="Tous les formats pris en charge pour convertir" %}}
-Vous trouverez ci-dessous la liste complète des formats vers lesquels vous pouvez convertir :
+{{% blocks/products/pf/feature-page-section  h2="Tous les formats d'image pris en charge pour convertir" %}}
+Vous trouverez ci-dessous la liste complète des formats d'image à partir desquels vous pouvez convertir :
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+	        <hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/to/bmp" >Convertir en BMP</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/to/gif" >Convertir en GIF</a></div>

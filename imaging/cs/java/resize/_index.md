@@ -12,10 +12,11 @@ description: Pomocí Aspose.Imaging můžete snadno Změnit velikost obrázky p�
 {{< blocks/products/pf/feature-page-header h1="Soubory obrázků Změnit velikost prostřednictvím java" h2="obrázky Změnit velikost" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty pro operaci Změnit velikost" %}}
-Pomocí Aspose.Imaging můžete snadno použít Změnit velikost pro různé formáty obrázků
+{{% blocks/products/pf/feature-page-section  h2="Všechny podporované snímky formáty pro operaci Změnit velikost" %}}
+Pomocí Aspose.Imaging můžete snadno použít **Změnit velikost** pro různé formáty obrázků programově
 <br/>
-Úplný seznam podporovaných konverzí pro operaci Změnit velikost:
+Úplný seznam podporovaných operací Změnit velikost podle formátů obrázků:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

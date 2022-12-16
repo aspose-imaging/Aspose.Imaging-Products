@@ -12,10 +12,11 @@ description: باستخدام Aspose.Imaging يمكنك بسهولة إزالة 
 {{< blocks/products/pf/feature-page-header h1="ملفات الصور إزالة الخلفية عبر java" h2="إزالة الخلفية الصور" downloadText="تحميل" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="جميع التنسيقات المدعومة لعملية إزالة الخلفية" %}}
-باستخدام Aspose.Imaging ، يمكنك بسهولة تطبيق إزالة الخلفية لتنسيقات الصور المختلفة
+{{% blocks/products/pf/feature-page-section  h2="جميع التنسيقا تالصور  المدعومة لعملية إزالة الخلفية" %}}
+باستخدام Aspose.Imaging ، يمكنك بسهولة تطبيق **إزالة الخلفية** لتنسيقات الصور المختلفة برمجيا
 <br/>
-القائمة الكاملة للتحويلات المدعومة لعملية إزالة الخلفية:
+القائمة الكاملة لعمليات إزالة الخلفية المدعومة حسب تنسيقات الصور:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -12,10 +12,11 @@ description: Mit Aspose.Imaging können Sie ganz einfach Hintergrund entfernen B
 {{< blocks/products/pf/feature-page-header h1="Bilddateien Hintergrund entfernen über net" h2="Hintergrund entfernen Bilder" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Formate für den Vorgang Hintergrund entfernen" %}}
-Mit Aspose.Imaging können Sie ganz einfach Hintergrund entfernen für verschiedene Bildformate anwenden
+{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bilder Formate für den Vorgang Hintergrund entfernen" %}}
+Mit Aspose.Imaging können Sie ganz einfach **Hintergrund entfernen** für verschiedene Bildformate anwenden programmatisch
 <br/>
-Vollständige Liste der unterstützten Konvertierungen für den Vorgang Hintergrund entfernen:
+Vollständige Liste der unterstützten Hintergrund entfernen-Vorgänge nach Bildformaten:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

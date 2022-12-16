@@ -12,10 +12,11 @@ description: Używając Aspose.Imaging możesz łatwo Zobacz obrazek obrazy Via 
 {{< blocks/products/pf/feature-page-header h1="Pliki obrazów Zobacz obrazek przez java" h2="Obrazy Zobacz obrazek" downloadText="Ściągnij" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty operacji Zobacz obrazek" %}}
-Używając Aspose.Imaging możesz łatwo zastosować Zobacz obrazek dla różnych formatów obrazów
+{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty operacji obrazy Zobacz obrazek" %}}
+Używając Aspose.Imaging możesz łatwo zastosować **Zobacz obrazek** dla różnych formatów obrazów programowo
 <br/>
-Pełna lista obsługiwanych konwersji dla operacji Zobacz obrazek:
+Pełna lista obsługiwanych operacji Zobacz obrazek według formatów obrazu:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

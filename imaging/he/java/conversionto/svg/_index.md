@@ -12,14 +12,15 @@ description: באמצעות Aspose.Imaging תוכל להמיר בקלות ל-SVG
 {{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה באמצעות C#" h2="המר ל-SVG מפורמט אחר" downloadText="הורד" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="כל הפורמטים הנתמכים להמרה ל-SVG" %}}
-באמצעות Aspose.Imaging תוכל להמיר בקלות ל-SVG מפורמט אחר.
+{{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה ל-SVG" %}}
+באמצעות Aspose.Imaging תוכל להמיר בקלות ל-SVG מפורמטים אחרים של תמונה.
 <br/>
 רשימה מלאה של המרות נתמכות:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/apng-to-svg" >APNG ל SVG</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/bmp-to-svg" >BMP ל SVG</a></div>

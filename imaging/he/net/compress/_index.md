@@ -12,10 +12,11 @@ description: באמצעות Aspose.Imaging תוכל בקלות לִדחוֹס ת
 {{< blocks/products/pf/feature-page-header h1="קבצי תמונה לִדחוֹס באמצעות net" h2="תמונות לִדחוֹס" downloadText="הורד" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="כל הפורמטים הנתמכים עבור פעולת לִדחוֹס" %}}
-באמצעות Aspose.Imaging אתה יכול בקלות להחיל את לִדחוֹס עבור פורמטים שונים של תמונה
+{{% blocks/products/pf/feature-page-section  h2="כל הפורמטים  תמונות הנתמכים עבור פעולת לִדחוֹס" %}}
+באמצעות Aspose.Imaging אתה יכול בקלות להחיל את **לִדחוֹס** עבור פורמטים שונים של תמונה באופן תוכניתי
 <br/>
-רשימה מלאה של המרות נתמכות עבור הפעולה לִדחוֹס:
+רשימה מלאה של פעולות לִדחוֹס נתמכות לפי פורמטים של תמונה:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

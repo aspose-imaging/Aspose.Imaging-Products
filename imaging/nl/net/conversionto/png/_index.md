@@ -12,14 +12,15 @@ description: Met behulp van Aspose.Imaging kunt u eenvoudig converteren naar PNG
 {{< blocks/products/pf/feature-page-header h1="Conversie van afbeeldingsbestanden via C#" h2="Converteren naar PNG vanuit een ander formaat" downloadText="Downloaden" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde formaten om van naar PNG te converteren" %}}
-Met behulp van Aspose.Imaging kunt u eenvoudig converteren naar PNG vanuit een ander formaat.
+{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde afbeeldingsindelingen om van naar PNG te converteren" %}}
+Met Aspose.Imaging kunt u eenvoudig vanuit andere afbeeldingsindelingen converteren naar PNG.
 <br/>
 Volledige lijst met ondersteunde conversies:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/apng-to-png" >APNG tot PNG</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/bmp-to-png" >BMP tot PNG</a></div>

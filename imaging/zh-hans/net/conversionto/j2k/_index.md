@@ -12,14 +12,15 @@ description: 使用 Aspose.Imaging，您可以轻松地将其他格式转换为 
 {{< blocks/products/pf/feature-page-header h1="通过 C# 转换图像文件" h2="从其他格式转换为 J2K" downloadText="下载" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="所有支持的格式转换为 J2K" %}}
-使用 Aspose.Imaging，您可以轻松地将其他格式转换为 J2K。
+{{% blocks/products/pf/feature-page-section  h2="所有支持的图像格式转换为 J2K" %}}
+使用 Aspose.Imaging，您可以轻松地将其他图像格式转换为 J2K。
 <br/>
 支持的转换的完整列表：
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/apng-to-j2k" >APNG 至 J2K</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/bmp-to-j2k" >BMP 至 J2K</a></div>

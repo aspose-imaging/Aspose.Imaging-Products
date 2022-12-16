@@ -12,10 +12,11 @@ description: Using Aspose.Imaging you can easily Adjust images Via java
 {{< blocks/products/pf/feature-page-header h1="Image files Adjust via java" h2="Adjust images" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="All supported formats for Adjust operation" %}}
-Using Aspose.Imaging you can easily apply Adjust for different image formats
+{{% blocks/products/pf/feature-page-section  h2="All supported image formats for Adjust operation" %}}
+Using Aspose.Imaging you can easily apply **Adjust** for different image formats programmatically
 <br/>
-Full list of supported conversions for Adjust operation:
+Full list of supported Adjust operations by image formats:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

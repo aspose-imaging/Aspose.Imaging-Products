@@ -12,10 +12,11 @@ description: Aspose.Imaging を使用すると、net 経由で簡単に フィ�
 {{< blocks/products/pf/feature-page-header h1="net経由の画像ファイルフィルター" h2="{操作名} 画像" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="フィルター 操作でサポートされているすべての形式" %}}
-Aspose.Imaging を使用すると、さまざまな画像フォーマットに フィルター を簡単に適用できます
+{{% blocks/products/pf/feature-page-section  h2="フィルター 操作でサポートされているすべての形式 画像" %}}
+Aspose.Imaging を使用すると、さまざまな画像フォーマットに **フィルター** を簡単に適用できます プログラム的に
 <br/>
-フィルター 操作でサポートされている変換の完全なリスト:
+画像形式ごとにサポートされている フィルター 操作の完全なリスト:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

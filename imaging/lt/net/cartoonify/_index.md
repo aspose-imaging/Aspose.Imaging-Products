@@ -12,10 +12,11 @@ description: Naudodami Aspose.Imaging galite lengvai sukurti Karikatūrizuoti va
 {{< blocks/products/pf/feature-page-header h1="Vaizdo failai Karikatūrizuoti per net" h2="Karikatūrizuoti vaizdai" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Karikatūrizuoti formatai" %}}
-Naudodami Aspose.Imaging galite lengvai pritaikyti Karikatūrizuoti skirtingiems vaizdo formatams
+{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Karikatūrizuoti attēlus formatai" %}}
+Naudodami Aspose.Imaging galite lengvai pritaikyti **Karikatūrizuoti** skirtingiems vaizdo formatams programmatiski
 <br/>
-Visas palaikomų operacijos Karikatūrizuoti konversijų sąrašas:
+Visas palaikomų operacijų Karikatūrizuoti sąrašas pagal vaizdo formatus:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

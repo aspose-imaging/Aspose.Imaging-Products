@@ -12,10 +12,11 @@ description: Використовуючи Aspose.Imaging, ви можете ле
 {{< blocks/products/pf/feature-page-header h1="Файли зображень Мультиплiкувати через java" h2="Мультиплiкувати зображення" downloadText="Завантажити" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати для операції Мультиплiкувати" %}}
-Використовуючи Aspose.Imaging, ви можете легко Мультиплiкувати зображення різних форматів
+{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для операції Мультиплiкувати" %}}
+Використовуючи Aspose.Imaging, ви можете легко виконати операцiю **Мультиплiкувати** для  зображень різних форматів програмно
 <br/>
-Повний список підтримуваних перетворень для операції Мультиплiкувати:
+Повний список підтримуваних операцій Мультиплiкувати за форматами зображень:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -12,10 +12,11 @@ description: Mit Aspose.Imaging können Sie ganz einfach Verschmelzen Bilder üb
 {{< blocks/products/pf/feature-page-header h1="Bilddateien Verschmelzen über net" h2="Verschmelzen Bilder" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Formate für den Vorgang Verschmelzen" %}}
-Mit Aspose.Imaging können Sie ganz einfach Verschmelzen für verschiedene Bildformate anwenden
+{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bilder Formate für den Vorgang Verschmelzen" %}}
+Mit Aspose.Imaging können Sie ganz einfach **Verschmelzen** für verschiedene Bildformate anwenden programmatisch
 <br/>
-Vollständige Liste der unterstützten Konvertierungen für den Vorgang Verschmelzen:
+Vollständige Liste der unterstützten Verschmelzen-Vorgänge nach Bildformaten:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -12,10 +12,11 @@ description: באמצעות Aspose.Imaging תוכל בקלות גווני אפו
 {{< blocks/products/pf/feature-page-header h1="קבצי תמונה גווני אפור באמצעות net" h2="תמונות גווני אפור" downloadText="הורד" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="כל הפורמטים הנתמכים עבור פעולת גווני אפור" %}}
-באמצעות Aspose.Imaging אתה יכול בקלות להחיל את גווני אפור עבור פורמטים שונים של תמונה
+{{% blocks/products/pf/feature-page-section  h2="כל הפורמטים  תמונות הנתמכים עבור פעולת גווני אפור" %}}
+באמצעות Aspose.Imaging אתה יכול בקלות להחיל את **גווני אפור** עבור פורמטים שונים של תמונה באופן תוכניתי
 <br/>
-רשימה מלאה של המרות נתמכות עבור הפעולה גווני אפור:
+רשימה מלאה של פעולות גווני אפור נתמכות לפי פורמטים של תמונה:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

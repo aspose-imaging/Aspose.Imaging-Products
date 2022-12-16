@@ -12,10 +12,11 @@ description: باستخدام Aspose.Imaging يمكنك بسهولة ا & قتص
 {{< blocks/products/pf/feature-page-header h1="ملفات الصور ا & قتصاص عبر net" h2="ا & قتصاص الصور" downloadText="تحميل" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="جميع التنسيقات المدعومة لعملية ا & قتصاص" %}}
-باستخدام Aspose.Imaging ، يمكنك بسهولة تطبيق ا & قتصاص لتنسيقات الصور المختلفة
+{{% blocks/products/pf/feature-page-section  h2="جميع التنسيقا تالصور  المدعومة لعملية ا & قتصاص" %}}
+باستخدام Aspose.Imaging ، يمكنك بسهولة تطبيق **ا & قتصاص** لتنسيقات الصور المختلفة برمجيا
 <br/>
-القائمة الكاملة للتحويلات المدعومة لعملية ا & قتصاص:
+القائمة الكاملة لعمليات ا & قتصاص المدعومة حسب تنسيقات الصور:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

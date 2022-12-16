@@ -12,10 +12,11 @@ description: Usando Aspose.Imaging, você pode facilmente imagens Comprimir Via 
 {{< blocks/products/pf/feature-page-header h1="Arquivos de imagem Comprimir via java" h2="Comprimir imagens" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos os formatos suportados para a operação Comprimir" %}}
-Usando o Aspose.Imaging, você pode facilmente aplicar Comprimir para diferentes formatos de imagem
+{{% blocks/products/pf/feature-page-section  h2="Todos os formatos suportados para a operação imagens Comprimir" %}}
+Usando o Aspose.Imaging, você pode facilmente aplicar **Comprimir** para diferentes formatos de imagem programaticamente
 <br/>
-Lista completa de conversões suportadas para a operação Comprimir:
+Lista completa de operações Comprimir suportadas por formatos de imagem:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

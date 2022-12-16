@@ -12,10 +12,11 @@ description: Mit Aspose.Imaging können Sie ganz einfach Karikaturisieren Bilder
 {{< blocks/products/pf/feature-page-header h1="Bilddateien Karikaturisieren über net" h2="Karikaturisieren Bilder" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Formate für den Vorgang Karikaturisieren" %}}
-Mit Aspose.Imaging können Sie ganz einfach Karikaturisieren für verschiedene Bildformate anwenden
+{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bilder Formate für den Vorgang Karikaturisieren" %}}
+Mit Aspose.Imaging können Sie ganz einfach **Karikaturisieren** für verschiedene Bildformate anwenden programmatisch
 <br/>
-Vollständige Liste der unterstützten Konvertierungen für den Vorgang Karikaturisieren:
+Vollständige Liste der unterstützten Karikaturisieren-Vorgänge nach Bildformaten:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -12,10 +12,11 @@ description: Aspose.Imaging を使用すると、java 経由で簡単に マー�
 {{< blocks/products/pf/feature-page-header h1="java経由の画像ファイルマージ" h2="{操作名} 画像" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="マージ 操作でサポートされているすべての形式" %}}
-Aspose.Imaging を使用すると、さまざまな画像フォーマットに マージ を簡単に適用できます
+{{% blocks/products/pf/feature-page-section  h2="マージ 操作でサポートされているすべての形式 画像" %}}
+Aspose.Imaging を使用すると、さまざまな画像フォーマットに **マージ** を簡単に適用できます プログラム的に
 <br/>
-マージ 操作でサポートされている変換の完全なリスト:
+画像形式ごとにサポートされている マージ 操作の完全なリスト:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -12,10 +12,11 @@ description: Met behulp van Aspose.Imaging kunt u eenvoudig Cartooniseren afbeel
 {{< blocks/products/pf/feature-page-header h1="Afbeeldingsbestanden Cartooniseren via net" h2="Cartooniseren afbeeldingen" downloadText="Downloaden" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde indelingen voor de bewerking Cartooniseren" %}}
-Met Aspose.Imaging kunt u eenvoudig Cartooniseren toepassen voor verschillende afbeeldingsformaten
+{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde indelingen voor de bewerking afbeeldingen Cartooniseren" %}}
+Met Aspose.Imaging kunt u eenvoudig **Cartooniseren** toepassen voor verschillende afbeeldingsformaten programmatisch
 <br/>
-Volledige lijst met ondersteunde conversies voor bewerking Cartooniseren:
+Volledige lijst met ondersteunde Cartooniseren-bewerkingen per afbeeldingsindeling:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

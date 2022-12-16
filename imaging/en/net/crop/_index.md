@@ -12,10 +12,11 @@ description: Using Aspose.Imaging you can easily Crop images Via net
 {{< blocks/products/pf/feature-page-header h1="Image files Crop via net" h2="Crop images" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="All supported formats for Crop operation" %}}
-Using Aspose.Imaging you can easily apply Crop for different image formats
+{{% blocks/products/pf/feature-page-section  h2="All supported image formats for Crop operation" %}}
+Using Aspose.Imaging you can easily apply **Crop** for different image formats programmatically
 <br/>
-Full list of supported conversions for Crop operation:
+Full list of supported Crop operations by image formats:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

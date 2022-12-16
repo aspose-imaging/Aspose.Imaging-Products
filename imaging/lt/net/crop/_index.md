@@ -12,10 +12,11 @@ description: Naudodami Aspose.Imaging galite lengvai sukurti Apkarpyti vaizdus p
 {{< blocks/products/pf/feature-page-header h1="Vaizdo failai Apkarpyti per net" h2="Apkarpyti vaizdai" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Apkarpyti formatai" %}}
-Naudodami Aspose.Imaging galite lengvai pritaikyti Apkarpyti skirtingiems vaizdo formatams
+{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Apkarpyti attēlus formatai" %}}
+Naudodami Aspose.Imaging galite lengvai pritaikyti **Apkarpyti** skirtingiems vaizdo formatams programmatiski
 <br/>
-Visas palaikomų operacijos Apkarpyti konversijų sąrašas:
+Visas palaikomų operacijų Apkarpyti sąrašas pagal vaizdo formatus:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

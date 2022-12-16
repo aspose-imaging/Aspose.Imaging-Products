@@ -12,10 +12,11 @@ description: באמצעות Aspose.Imaging תוכל בקלות שנה גודל �
 {{< blocks/products/pf/feature-page-header h1="קבצי תמונה שנה גודל באמצעות net" h2="תמונות שנה גודל" downloadText="הורד" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="כל הפורמטים הנתמכים עבור פעולת שנה גודל" %}}
-באמצעות Aspose.Imaging אתה יכול בקלות להחיל את שנה גודל עבור פורמטים שונים של תמונה
+{{% blocks/products/pf/feature-page-section  h2="כל הפורמטים  תמונות הנתמכים עבור פעולת שנה גודל" %}}
+באמצעות Aspose.Imaging אתה יכול בקלות להחיל את **שנה גודל** עבור פורמטים שונים של תמונה באופן תוכניתי
 <br/>
-רשימה מלאה של המרות נתמכות עבור הפעולה שנה גודל:
+רשימה מלאה של פעולות שנה גודל נתמכות לפי פורמטים של תמונה:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

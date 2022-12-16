@@ -151,12 +151,13 @@ Quá trình chuyển đổi SVG cũng giống như vậy, Tải tệp SVG, Sử 
 </div>
 <br/>
 
-{{% blocks/products/pf/feature-page-section  h2="Tất cả các định dạng được hỗ trợ để chuyển đổi từ" %}}
-Dưới đây trình bày danh sách đầy đủ các định dạng mà bạn có thể chuyển đổi từ:
+{{% blocks/products/pf/feature-page-section  h2="Tất cả các định dạng hình ảnh được hỗ trợ để chuyển đổi từ" %}}
+Dưới đây là danh sách đầy đủ các định dạng hình ảnh mà bạn có thể chuyển đổi sang:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+                <hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/from/apng" >chuyển đổi từ APNG</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/from/bmp" >chuyển đổi từ BMP</a></div>
@@ -193,12 +194,13 @@ Dưới đây trình bày danh sách đầy đủ các định dạng mà bạn 
 </div>
 <br/>
 
-{{% blocks/products/pf/feature-page-section  h2="Tất cả các định dạng được hỗ trợ để chuyển đổi sang" %}}
-Dưới đây trình bày danh sách đầy đủ các định dạng mà bạn có thể chuyển đổi sang:
+{{% blocks/products/pf/feature-page-section  h2="Tất cả các định dạng hình ảnh được hỗ trợ để chuyển đổi sang" %}}
+Dưới đây là danh sách đầy đủ các định dạng hình ảnh mà bạn có thể chuyển đổi từ:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+	        <hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/to/bmp" >Chuyển đổi sang BMP</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/to/gif" >Chuyển đổi sang GIF</a></div>

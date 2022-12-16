@@ -12,10 +12,11 @@ description: 使用 Aspose.Imaging 你可以轻松地通过 java 获取 合并 �
 {{< blocks/products/pf/feature-page-header h1="图片文件 合并 来自 java" h2="合并 图片" downloadText="下载" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="合并 操作的所有支持格式" %}}
-使用 Aspose.Imaging 您可以轻松地将 合并 应用于不同的图像格式
+{{% blocks/products/pf/feature-page-section  h2="合并 操作的所有支持格式图片" %}}
+使用 Aspose.Imaging 您可以轻松地将 **合并** 应用于不同的图像格式 以编程方式
 <br/>
-合并 操作支持的转换的完整列表：
+按图像格式支持的 合并 操作的完整列表：
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

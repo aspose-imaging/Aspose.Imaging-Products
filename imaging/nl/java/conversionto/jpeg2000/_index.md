@@ -12,14 +12,15 @@ description: Met behulp van Aspose.Imaging kunt u eenvoudig converteren naar JPE
 {{< blocks/products/pf/feature-page-header h1="Conversie van afbeeldingsbestanden via C#" h2="Converteren naar JPEG2000 vanuit een ander formaat" downloadText="Downloaden" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde formaten om van naar JPEG2000 te converteren" %}}
-Met behulp van Aspose.Imaging kunt u eenvoudig converteren naar JPEG2000 vanuit een ander formaat.
+{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde afbeeldingsindelingen om van naar JPEG2000 te converteren" %}}
+Met Aspose.Imaging kunt u eenvoudig vanuit andere afbeeldingsindelingen converteren naar JPEG2000.
 <br/>
 Volledige lijst met ondersteunde conversies:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/apng-to-jpeg2000" >APNG tot JPEG2000</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/bmp-to-jpeg2000" >BMP tot JPEG2000</a></div>

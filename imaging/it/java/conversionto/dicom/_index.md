@@ -12,14 +12,15 @@ description: Usando Aspose.Imaging puoi facilmente convertire in DICOM da altri 
 {{< blocks/products/pf/feature-page-header h1="Conversione di file immagine tramite C#" h2="Converti in DICOM da altri formati" downloadText="Scarica" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tutti i formati supportati per la conversione da a DICOM" %}}
-Usando Aspose.Imaging puoi facilmente convertire in DICOM da altri formati.
+{{% blocks/products/pf/feature-page-section  h2="Tutti i formati immagine supportati per la conversione da a DICOM" %}}
+Usando Aspose.Imaging puoi facilmente convertire in DICOM da altri formati di immagine.
 <br/>
 Elenco completo delle conversioni supportate:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/apng-to-dicom" >APNG a DICOM</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/bmp-to-dicom" >BMP a DICOM</a></div>

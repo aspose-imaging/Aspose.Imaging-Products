@@ -12,10 +12,11 @@ description: Używając Aspose.Imaging możesz łatwo Zmień tło obrazy Via net
 {{< blocks/products/pf/feature-page-header h1="Pliki obrazów Zmień tło przez net" h2="Obrazy Zmień tło" downloadText="Ściągnij" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty operacji Zmień tło" %}}
-Używając Aspose.Imaging możesz łatwo zastosować Zmień tło dla różnych formatów obrazów
+{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty operacji obrazy Zmień tło" %}}
+Używając Aspose.Imaging możesz łatwo zastosować **Zmień tło** dla różnych formatów obrazów programowo
 <br/>
-Pełna lista obsługiwanych konwersji dla operacji Zmień tło:
+Pełna lista obsługiwanych operacji Zmień tło według formatów obrazu:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

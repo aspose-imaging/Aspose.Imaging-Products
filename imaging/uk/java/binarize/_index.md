@@ -12,10 +12,11 @@ description: Використовуючи Aspose.Imaging, ви можете ле
 {{< blocks/products/pf/feature-page-header h1="Файли зображень Бінаризувати через java" h2="Бінаризувати зображення" downloadText="Завантажити" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати для операції Бінаризувати" %}}
-Використовуючи Aspose.Imaging, ви можете легко Бінаризувати зображення різних форматів
+{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для операції Бінаризувати" %}}
+Використовуючи Aspose.Imaging, ви можете легко виконати операцiю **Бінаризувати** для  зображень різних форматів програмно
 <br/>
-Повний список підтримуваних перетворень для операції Бінаризувати:
+Повний список підтримуваних операцій Бінаризувати за форматами зображень:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

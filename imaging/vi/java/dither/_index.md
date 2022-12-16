@@ -12,10 +12,11 @@ description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng Run lên hì
 {{< blocks/products/pf/feature-page-header h1="Tệp hình ảnh Run lên qua java" h2="Run lên hình ảnh" downloadText="Tải xuống" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tất cả các định dạng được hỗ trợ cho thao tác Run lên" %}}
-Sử dụng Aspose.Imaging, bạn có thể dễ dàng áp dụng Run lên cho các định dạng hình ảnh khác nhau
+{{% blocks/products/pf/feature-page-section  h2="Tất cả các hình ảnh định dạng được hỗ trợ cho thao tác Run lên" %}}
+Sử dụng Aspose.Imaging, bạn có thể dễ dàng áp dụng **Run lên** cho các định dạng hình ảnh khác nhau lập trình
 <br/>
-Danh sách đầy đủ các chuyển đổi được hỗ trợ cho hoạt động Run lên:
+Danh sách đầy đủ các thao tác Run lên được hỗ trợ theo định dạng hình ảnh:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

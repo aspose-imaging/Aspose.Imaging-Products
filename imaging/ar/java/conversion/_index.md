@@ -151,12 +151,13 @@ description: قم بتحويل ملفات الصور والصور وملفات �
 </div>
 <br/>
 
-{{% blocks/products/pf/feature-page-section  h2="جميع الصيغ المدعومة للتحويل منها" %}}
-فيما يلي قائمة كاملة بالصيغ التي يمكنك التحويل منها:
+{{% blocks/products/pf/feature-page-section  h2="جميع تنسيقات الصور المدعومة للتحويل منا" %}}
+فيما يلي قائمة كاملة بتنسيقات الصور التي يمكنك التحويل إليها:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+                <hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/from/apng" >تحويل من APNG</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/from/bmp" >تحويل من BMP</a></div>
@@ -193,12 +194,13 @@ description: قم بتحويل ملفات الصور والصور وملفات �
 </div>
 <br/>
 
-{{% blocks/products/pf/feature-page-section  h2="جميع التنسيقات المدعومة للتحويل إلى" %}}
-فيما يلي قائمة كاملة بالتنسيقات التي يمكنك التحويل إليها:
+{{% blocks/products/pf/feature-page-section  h2="جميع تنسيقات الصور المدعومة للتحويل إلى" %}}
+فيما يلي قائمة كاملة بتنسيقات الصور التي يمكنك التحويل منها:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+	        <hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/to/bmp" >حول الى BMP</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/to/gif" >حول الى GIF</a></div>

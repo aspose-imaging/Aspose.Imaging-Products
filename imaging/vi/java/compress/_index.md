@@ -12,10 +12,11 @@ description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng Nén hình �
 {{< blocks/products/pf/feature-page-header h1="Tệp hình ảnh Nén qua java" h2="Nén hình ảnh" downloadText="Tải xuống" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tất cả các định dạng được hỗ trợ cho thao tác Nén" %}}
-Sử dụng Aspose.Imaging, bạn có thể dễ dàng áp dụng Nén cho các định dạng hình ảnh khác nhau
+{{% blocks/products/pf/feature-page-section  h2="Tất cả các hình ảnh định dạng được hỗ trợ cho thao tác Nén" %}}
+Sử dụng Aspose.Imaging, bạn có thể dễ dàng áp dụng **Nén** cho các định dạng hình ảnh khác nhau lập trình
 <br/>
-Danh sách đầy đủ các chuyển đổi được hỗ trợ cho hoạt động Nén:
+Danh sách đầy đủ các thao tác Nén được hỗ trợ theo định dạng hình ảnh:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

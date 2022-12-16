@@ -151,12 +151,13 @@ El proceso de conversión de CDR es casi el mismo, cargue el archivo CDR, use la
 </div>
 <br/>
 
-{{% blocks/products/pf/feature-page-section  h2="Todos los formatos compatibles para convertir" %}}
-A continuación se presenta una lista completa de formatos desde los que puede convertir:
+{{% blocks/products/pf/feature-page-section  h2="Todos los imágenes formatos compatibles para convertir" %}}
+A continuación se presenta una lista completa de los formatos de imagen a los que puede convertir:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+                <hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/from/apng" >Convertir desde APNG</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/from/bmp" >Convertir desde BMP</a></div>
@@ -193,12 +194,13 @@ A continuación se presenta una lista completa de formatos desde los que puede c
 </div>
 <br/>
 
-{{% blocks/products/pf/feature-page-section  h2="Todos los formatos compatibles para convertir" %}}
-A continuación se presenta una lista completa de formatos a los que puede convertir:
+{{% blocks/products/pf/feature-page-section  h2="Todos los formatos de imagen compatibles para convertir" %}}
+A continuación se presenta una lista completa de los formatos de imagen desde los que puede convertir:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+	        <hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/to/bmp" >Convertir a BMP</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/to/gif" >Convertir a GIF</a></div>

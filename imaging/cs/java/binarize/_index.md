@@ -12,10 +12,11 @@ description: Pomocí Aspose.Imaging můžete snadno Binarizovat obrázky přes j
 {{< blocks/products/pf/feature-page-header h1="Soubory obrázků Binarizovat prostřednictvím java" h2="obrázky Binarizovat" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty pro operaci Binarizovat" %}}
-Pomocí Aspose.Imaging můžete snadno použít Binarizovat pro různé formáty obrázků
+{{% blocks/products/pf/feature-page-section  h2="Všechny podporované snímky formáty pro operaci Binarizovat" %}}
+Pomocí Aspose.Imaging můžete snadno použít **Binarizovat** pro různé formáty obrázků programově
 <br/>
-Úplný seznam podporovaných konverzí pro operaci Binarizovat:
+Úplný seznam podporovaných operací Binarizovat podle formátů obrázků:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

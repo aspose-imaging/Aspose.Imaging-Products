@@ -12,14 +12,15 @@ description: باستخدام Aspose.Imaging ، يمكنك بسهولة التح
 {{< blocks/products/pf/feature-page-header h1="تحويل ملفات الصور عبر C #" h2="التحويل إلى GIF من تنسيقات أخرى" downloadText="تحميل" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="جميع التنسيقات المدعومة للتحويل منها إلى GIF" %}}
-باستخدام Aspose.Imaging ، يمكنك بسهولة التحويل إلى GIF من تنسيقات أخرى.
+{{% blocks/products/pf/feature-page-section  h2="جميع تنسيقات الصور المدعومة للتحويل منها إلى GIF" %}}
+باستخدام Aspose.Imaging ، يمكنك بسهولة التحويل إلى GIF من تنسيقات الصور الأخرى.
 <br/>
 القائمة الكاملة للتحويلات المدعومة:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/apng-to-gif" >APNG إلى GIF</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/bmp-to-gif" >BMP إلى GIF</a></div>

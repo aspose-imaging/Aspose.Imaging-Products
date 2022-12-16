@@ -12,10 +12,11 @@ description: Використовуючи Aspose.Imaging, ви можете ле
 {{< blocks/products/pf/feature-page-header h1="Файли зображень Додати водяний знак через net" h2="Додати водяний знак зображення" downloadText="Завантажити" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати для операції Додати водяний знак" %}}
-Використовуючи Aspose.Imaging, ви можете легко Додати водяний знак зображення різних форматів
+{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для операції Додати водяний знак" %}}
+Використовуючи Aspose.Imaging, ви можете легко виконати операцiю **Додати водяний знак** для  зображень різних форматів програмно
 <br/>
-Повний список підтримуваних перетворень для операції Додати водяний знак:
+Повний список підтримуваних операцій Додати водяний знак за форматами зображень:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

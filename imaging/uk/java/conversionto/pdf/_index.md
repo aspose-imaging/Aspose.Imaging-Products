@@ -12,14 +12,15 @@ description: За допомогою Aspose.Imaging ви можете легко
 {{< blocks/products/pf/feature-page-header h1="Перетворення файлів зображень через C#" h2="Перетворити в PDF з інших форматів" downloadText="Завантажити" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати для перетворення на PDF" %}}
-За допомогою Aspose.Imaging ви можете легко конвертувати в PDF інші формати.
+{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для конвертації у PDF" %}}
+За допомогою Aspose.Imaging ви можете легко конвертувати в PDF інші формати зображень.
 <br/>
 Повний список підтримуваних конвертацій:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/apng-to-pdf" >APNG до PDF</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/bmp-to-pdf" >BMP до PDF</a></div>

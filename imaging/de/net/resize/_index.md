@@ -12,10 +12,11 @@ description: Mit Aspose.Imaging können Sie ganz einfach Größe ändern Bilder 
 {{< blocks/products/pf/feature-page-header h1="Bilddateien Größe ändern über net" h2="Größe ändern Bilder" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Formate für den Vorgang Größe ändern" %}}
-Mit Aspose.Imaging können Sie ganz einfach Größe ändern für verschiedene Bildformate anwenden
+{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bilder Formate für den Vorgang Größe ändern" %}}
+Mit Aspose.Imaging können Sie ganz einfach **Größe ändern** für verschiedene Bildformate anwenden programmatisch
 <br/>
-Vollständige Liste der unterstützten Konvertierungen für den Vorgang Größe ändern:
+Vollständige Liste der unterstützten Größe ändern-Vorgänge nach Bildformaten:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

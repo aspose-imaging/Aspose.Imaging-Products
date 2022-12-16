@@ -12,10 +12,11 @@ description: Aspose.Imaging'i kullanarak, net Aracılığıyla kolayca Filigran 
 {{< blocks/products/pf/feature-page-header h1="net aracılığıyla Filigran görüntü dosyaları" h2="Filigran görselleri" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Filigran işlemi için desteklenen tüm biçimler" %}}
-Aspose.Imaging'i kullanarak farklı görüntü formatları için Filigran işlemini kolayca uygulayabilirsiniz
+{{% blocks/products/pf/feature-page-section  h2="Filigran işlemi Görüntüler için desteklenen tüm biçimler" %}}
+Aspose.Imaging'i kullanarak farklı görüntü formatları için **Filigran** işlemini kolayca uygulayabilirsiniz programlı olarak
 <br/>
-Filigran işlemi için desteklenen dönüşümlerin tam listesi:
+Görüntü biçimlerine göre desteklenen {işlem adı} işlemlerinin tam listesi:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

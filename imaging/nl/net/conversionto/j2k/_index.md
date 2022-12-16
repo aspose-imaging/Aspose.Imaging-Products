@@ -12,14 +12,15 @@ description: Met behulp van Aspose.Imaging kunt u eenvoudig converteren naar J2K
 {{< blocks/products/pf/feature-page-header h1="Conversie van afbeeldingsbestanden via C#" h2="Converteren naar J2K vanuit een ander formaat" downloadText="Downloaden" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde formaten om van naar J2K te converteren" %}}
-Met behulp van Aspose.Imaging kunt u eenvoudig converteren naar J2K vanuit een ander formaat.
+{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde afbeeldingsindelingen om van naar J2K te converteren" %}}
+Met Aspose.Imaging kunt u eenvoudig vanuit andere afbeeldingsindelingen converteren naar J2K.
 <br/>
 Volledige lijst met ondersteunde conversies:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/apng-to-j2k" >APNG tot J2K</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/bmp-to-j2k" >BMP tot J2K</a></div>

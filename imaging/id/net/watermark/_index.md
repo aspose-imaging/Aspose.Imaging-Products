@@ -12,10 +12,11 @@ description: Menggunakan Aspose.Imaging Anda dapat dengan mudah Tanda air gambar
 {{< blocks/products/pf/feature-page-header h1="File gambar Tanda air melalui net" h2="gambar Tanda air" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Semua format yang didukung untuk operasi Tanda air" %}}
-Menggunakan Aspose.Imaging Anda dapat dengan mudah menerapkan Tanda air untuk berbagai format gambar
+{{% blocks/products/pf/feature-page-section  h2="Semua gambar-gambar format yang didukung untuk operasi Tanda air" %}}
+Menggunakan Aspose.Imaging Anda dapat dengan mudah menerapkan **Tanda air** untuk berbagai format gambar secara terprogram
 <br/>
-Daftar lengkap konversi yang didukung untuk operasi Tanda air:
+Daftar lengkap operasi Tanda air yang didukung menurut format gambar:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

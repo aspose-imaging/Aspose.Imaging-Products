@@ -152,11 +152,12 @@ description: המר פורמטים פופולריים של תמונה, תמונ�
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="כל הפורמטים הנתמכים להמרה" %}}
-להלן רשימה מלאה של פורמטים שניתן להמיר מהם:
+להלן מוצגת רשימה מלאה של פורמטים של תמונה, שתוכל להמיר ל:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+                <hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/from/apng" >המר מ APNG</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/from/bmp" >המר מ BMP</a></div>
@@ -193,12 +194,13 @@ description: המר פורמטים פופולריים של תמונה, תמונ�
 </div>
 <br/>
 
-{{% blocks/products/pf/feature-page-section  h2="כל הפורמטים הנתמכים להמרה" %}}
-להלן רשימה מלאה של פורמטים שניתן להמיר אליהם:
+{{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה" %}}
+להלן מוצגת רשימה מלאה של פורמטים של תמונה, שתוכל להמיר מ:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+	        <hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/to/bmp" >להמיר ל BMP</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/to/gif" >להמיר ל GIF</a></div>

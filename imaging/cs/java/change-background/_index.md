@@ -12,10 +12,11 @@ description: Pomocí Aspose.Imaging můžete snadno Změnit pozadí obrázky př
 {{< blocks/products/pf/feature-page-header h1="Soubory obrázků Změnit pozadí prostřednictvím java" h2="obrázky Změnit pozadí" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty pro operaci Změnit pozadí" %}}
-Pomocí Aspose.Imaging můžete snadno použít Změnit pozadí pro různé formáty obrázků
+{{% blocks/products/pf/feature-page-section  h2="Všechny podporované snímky formáty pro operaci Změnit pozadí" %}}
+Pomocí Aspose.Imaging můžete snadno použít **Změnit pozadí** pro různé formáty obrázků programově
 <br/>
-Úplný seznam podporovaných konverzí pro operaci Změnit pozadí:
+Úplný seznam podporovaných operací Změnit pozadí podle formátů obrázků:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

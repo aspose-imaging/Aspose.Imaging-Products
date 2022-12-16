@@ -12,10 +12,11 @@ description: Używając Aspose.Imaging możesz łatwo Przyciąć obrazy Via java
 {{< blocks/products/pf/feature-page-header h1="Pliki obrazów Przyciąć przez java" h2="Obrazy Przyciąć" downloadText="Ściągnij" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty operacji Przyciąć" %}}
-Używając Aspose.Imaging możesz łatwo zastosować Przyciąć dla różnych formatów obrazów
+{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty operacji obrazy Przyciąć" %}}
+Używając Aspose.Imaging możesz łatwo zastosować **Przyciąć** dla różnych formatów obrazów programowo
 <br/>
-Pełna lista obsługiwanych konwersji dla operacji Przyciąć:
+Pełna lista obsługiwanych operacji Przyciąć według formatów obrazu:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

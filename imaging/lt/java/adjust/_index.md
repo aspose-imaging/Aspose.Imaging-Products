@@ -12,10 +12,11 @@ description: Naudodami Aspose.Imaging galite lengvai sukurti Sureguliuoti vaizdu
 {{< blocks/products/pf/feature-page-header h1="Vaizdo failai Sureguliuoti per java" h2="Sureguliuoti vaizdai" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Sureguliuoti formatai" %}}
-Naudodami Aspose.Imaging galite lengvai pritaikyti Sureguliuoti skirtingiems vaizdo formatams
+{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Sureguliuoti attēlus formatai" %}}
+Naudodami Aspose.Imaging galite lengvai pritaikyti **Sureguliuoti** skirtingiems vaizdo formatams programmatiski
 <br/>
-Visas palaikomų operacijos Sureguliuoti konversijų sąrašas:
+Visas palaikomų operacijų Sureguliuoti sąrašas pagal vaizdo formatus:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

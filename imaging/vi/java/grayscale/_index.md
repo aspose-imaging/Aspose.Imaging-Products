@@ -12,10 +12,11 @@ description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng thang độ 
 {{< blocks/products/pf/feature-page-header h1="Tệp hình ảnh thang độ xám qua java" h2="thang độ xám hình ảnh" downloadText="Tải xuống" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tất cả các định dạng được hỗ trợ cho thao tác thang độ xám" %}}
-Sử dụng Aspose.Imaging, bạn có thể dễ dàng áp dụng thang độ xám cho các định dạng hình ảnh khác nhau
+{{% blocks/products/pf/feature-page-section  h2="Tất cả các hình ảnh định dạng được hỗ trợ cho thao tác thang độ xám" %}}
+Sử dụng Aspose.Imaging, bạn có thể dễ dàng áp dụng **thang độ xám** cho các định dạng hình ảnh khác nhau lập trình
 <br/>
-Danh sách đầy đủ các chuyển đổi được hỗ trợ cho hoạt động thang độ xám:
+Danh sách đầy đủ các thao tác thang độ xám được hỗ trợ theo định dạng hình ảnh:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -12,10 +12,11 @@ description: เมื่อใช้ Aspose.Imaging คุณสามารถ
 {{< blocks/products/pf/feature-page-header h1="ไฟล์รูปภาพ ลบพื้นหลัง ผ่าน net" h2="ลบพื้นหลัง ภาพ" downloadText="ดาวน์โหลด" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="รูปแบบที่รองรับทั้งหมดสำหรับการดำเนินการ ลบพื้นหลัง" %}}
-เมื่อใช้ Aspose.Imaging คุณสามารถใช้ ลบพื้นหลัง สำหรับรูปแบบภาพต่างๆ ได้อย่างง่ายดาย
+{{% blocks/products/pf/feature-page-section  h2="รูปแบบที่รอ ภาพ งรับทั้งหมดสำหรับการดำเนินการ ลบพื้นหลัง" %}}
+เมื่อใช้ Aspose.Imaging คุณสามารถใช้ **ลบพื้นหลัง** สำหรับรูปแบบภาพต่างๆ ได้อย่างง่ายดาย โดยทางโปรแกรม
 <br/>
-รายการการแปลงทั้งหมดที่รองรับสำหรับการดำเนินการ ลบพื้นหลัง:
+รายการทั้งหมดของการดำเนินการ ลบพื้นหลัง ที่รองรับตามรูปแบบอิมเมจ:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

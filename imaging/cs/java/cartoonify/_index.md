@@ -12,10 +12,11 @@ description: Pomocí Aspose.Imaging můžete snadno Cartoonify obrázky přes ja
 {{< blocks/products/pf/feature-page-header h1="Soubory obrázků Cartoonify prostřednictvím java" h2="obrázky Cartoonify" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty pro operaci Cartoonify" %}}
-Pomocí Aspose.Imaging můžete snadno použít Cartoonify pro různé formáty obrázků
+{{% blocks/products/pf/feature-page-section  h2="Všechny podporované snímky formáty pro operaci Cartoonify" %}}
+Pomocí Aspose.Imaging můžete snadno použít **Cartoonify** pro různé formáty obrázků programově
 <br/>
-Úplný seznam podporovaných konverzí pro operaci Cartoonify:
+Úplný seznam podporovaných operací Cartoonify podle formátů obrázků:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

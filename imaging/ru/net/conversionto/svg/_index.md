@@ -12,14 +12,15 @@ description: Используя Aspose.Imaging, вы можете легко к�
 {{< blocks/products/pf/feature-page-header h1="Преобразование файлов изображений с помощью C#" h2="Преобразовать в SVG из других форматов" downloadText="Скачать" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Все поддерживаемые форматы для преобразования в SVG" %}}
-Используя Aspose.Imaging, вы можете легко преобразовать в SVG другие форматы.
+{{% blocks/products/pf/feature-page-section  h2="Все поддерживаемые форматы изображений для преобразования в SVG" %}}
+Используя Aspose.Imaging, вы можете легко преобразовать в SVG другие форматы изображений.
 <br/>
 Полный список поддерживаемых преобразований:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ru/net/conversion/apng-to-svg" >APNG к SVG</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ru/net/conversion/bmp-to-svg" >BMP к SVG</a></div>

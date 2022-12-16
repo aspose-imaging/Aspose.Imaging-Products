@@ -151,12 +151,13 @@ description: Преобразование популярных форматов 
 </div>
 <br/>
 
-{{% blocks/products/pf/feature-page-section  h2="Все поддерживаемые форматы для конвертации из" %}}
-Ниже представлен полный список форматов, из которых вы можете конвертировать:
+{{% blocks/products/pf/feature-page-section  h2="Все поддерживаемые форматы изображений для конвертации из" %}}
+Ниже представлен полный список форматов изображений, в которые вы можете конвертировать:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+                <hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ru/net/conversion/from/apng" >Конвертировать из APNG</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ru/net/conversion/from/bmp" >Конвертировать из BMP</a></div>
@@ -193,12 +194,13 @@ description: Преобразование популярных форматов 
 </div>
 <br/>
 
-{{% blocks/products/pf/feature-page-section  h2="Все поддерживаемые форматы для преобразования в" %}}
-Ниже представлен полный список форматов, в которые можно конвертировать:
+{{% blocks/products/pf/feature-page-section  h2="Все поддерживаемые форматы изображений для преобразования в" %}}
+Ниже представлен полный список форматов изображений, из которых вы можете конвертировать:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+	        <hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ru/net/conversion/to/bmp" >Преобразовать в BMP</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ru/net/conversion/to/gif" >Преобразовать в GIF</a></div>

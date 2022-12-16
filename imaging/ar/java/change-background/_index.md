@@ -12,10 +12,11 @@ description: باستخدام Aspose.Imaging يمكنك بسهولة غير ال
 {{< blocks/products/pf/feature-page-header h1="ملفات الصور غير الخلفية عبر java" h2="غير الخلفية الصور" downloadText="تحميل" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="جميع التنسيقات المدعومة لعملية غير الخلفية" %}}
-باستخدام Aspose.Imaging ، يمكنك بسهولة تطبيق غير الخلفية لتنسيقات الصور المختلفة
+{{% blocks/products/pf/feature-page-section  h2="جميع التنسيقا تالصور  المدعومة لعملية غير الخلفية" %}}
+باستخدام Aspose.Imaging ، يمكنك بسهولة تطبيق **غير الخلفية** لتنسيقات الصور المختلفة برمجيا
 <br/>
-القائمة الكاملة للتحويلات المدعومة لعملية غير الخلفية:
+القائمة الكاملة لعمليات غير الخلفية المدعومة حسب تنسيقات الصور:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

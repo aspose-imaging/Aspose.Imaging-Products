@@ -12,14 +12,15 @@ description: En utilisant Aspose.Imaging, vous pouvez facilement convertir en WM
 {{< blocks/products/pf/feature-page-header h1="Conversion de fichiers image via C#" h2="Convertir en WMZ à partir d'un autre format" downloadText="Télécharger" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tous les formats pris en charge pour convertir de vers WMZ" %}}
-En utilisant Aspose.Imaging, vous pouvez facilement convertir en WMZ à partir d'un autre format.
+{{% blocks/products/pf/feature-page-section  h2="Tous les formats d'image pris en charge pour convertir de vers WMZ" %}}
+En utilisant Aspose.Imaging, vous pouvez facilement convertir en WMZ à partir d'autres formats d'image.
 <br/>
 Liste complète des conversions prises en charge :
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/apng-to-wmz" >APNG à WMZ</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/bmp-to-wmz" >BMP à WMZ</a></div>

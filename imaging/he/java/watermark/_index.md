@@ -12,10 +12,11 @@ description: באמצעות Aspose.Imaging תוכל בקלות סימן מים �
 {{< blocks/products/pf/feature-page-header h1="קבצי תמונה סימן מים באמצעות java" h2="תמונות סימן מים" downloadText="הורד" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="כל הפורמטים הנתמכים עבור פעולת סימן מים" %}}
-באמצעות Aspose.Imaging אתה יכול בקלות להחיל את סימן מים עבור פורמטים שונים של תמונה
+{{% blocks/products/pf/feature-page-section  h2="כל הפורמטים  תמונות הנתמכים עבור פעולת סימן מים" %}}
+באמצעות Aspose.Imaging אתה יכול בקלות להחיל את **סימן מים** עבור פורמטים שונים של תמונה באופן תוכניתי
 <br/>
-רשימה מלאה של המרות נתמכות עבור הפעולה סימן מים:
+רשימה מלאה של פעולות סימן מים נתמכות לפי פורמטים של תמונה:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

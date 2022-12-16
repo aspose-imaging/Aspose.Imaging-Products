@@ -12,10 +12,11 @@ description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng Xem hình �
 {{< blocks/products/pf/feature-page-header h1="Tệp hình ảnh Xem hình ảnh qua net" h2="Xem hình ảnh hình ảnh" downloadText="Tải xuống" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tất cả các định dạng được hỗ trợ cho thao tác Xem hình ảnh" %}}
-Sử dụng Aspose.Imaging, bạn có thể dễ dàng áp dụng Xem hình ảnh cho các định dạng hình ảnh khác nhau
+{{% blocks/products/pf/feature-page-section  h2="Tất cả các hình ảnh định dạng được hỗ trợ cho thao tác Xem hình ảnh" %}}
+Sử dụng Aspose.Imaging, bạn có thể dễ dàng áp dụng **Xem hình ảnh** cho các định dạng hình ảnh khác nhau lập trình
 <br/>
-Danh sách đầy đủ các chuyển đổi được hỗ trợ cho hoạt động Xem hình ảnh:
+Danh sách đầy đủ các thao tác Xem hình ảnh được hỗ trợ theo định dạng hình ảnh:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -12,10 +12,11 @@ description: Aspose.Imaging'i kullanarak, java Aracılığıyla kolayca Titreşi
 {{< blocks/products/pf/feature-page-header h1="java aracılığıyla Titreşim görüntü dosyaları" h2="Titreşim görselleri" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Titreşim işlemi için desteklenen tüm biçimler" %}}
-Aspose.Imaging'i kullanarak farklı görüntü formatları için Titreşim işlemini kolayca uygulayabilirsiniz
+{{% blocks/products/pf/feature-page-section  h2="Titreşim işlemi Görüntüler için desteklenen tüm biçimler" %}}
+Aspose.Imaging'i kullanarak farklı görüntü formatları için **Titreşim** işlemini kolayca uygulayabilirsiniz programlı olarak
 <br/>
-Titreşim işlemi için desteklenen dönüşümlerin tam listesi:
+Görüntü biçimlerine göre desteklenen {işlem adı} işlemlerinin tam listesi:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

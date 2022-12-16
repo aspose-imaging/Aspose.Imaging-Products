@@ -12,10 +12,11 @@ description: Aspose.Imaging'i kullanarak, net Aracılığıyla kolayca yeniden b
 {{< blocks/products/pf/feature-page-header h1="net aracılığıyla yeniden boyutlandır görüntü dosyaları" h2="yeniden boyutlandır görselleri" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="yeniden boyutlandır işlemi için desteklenen tüm biçimler" %}}
-Aspose.Imaging'i kullanarak farklı görüntü formatları için yeniden boyutlandır işlemini kolayca uygulayabilirsiniz
+{{% blocks/products/pf/feature-page-section  h2="yeniden boyutlandır işlemi Görüntüler için desteklenen tüm biçimler" %}}
+Aspose.Imaging'i kullanarak farklı görüntü formatları için **yeniden boyutlandır** işlemini kolayca uygulayabilirsiniz programlı olarak
 <br/>
-yeniden boyutlandır işlemi için desteklenen dönüşümlerin tam listesi:
+Görüntü biçimlerine göre desteklenen {işlem adı} işlemlerinin tam listesi:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -12,10 +12,11 @@ description: Mit Aspose.Imaging können Sie ganz einfach Zittern Bilder über ja
 {{< blocks/products/pf/feature-page-header h1="Bilddateien Zittern über java" h2="Zittern Bilder" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Formate für den Vorgang Zittern" %}}
-Mit Aspose.Imaging können Sie ganz einfach Zittern für verschiedene Bildformate anwenden
+{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bilder Formate für den Vorgang Zittern" %}}
+Mit Aspose.Imaging können Sie ganz einfach **Zittern** für verschiedene Bildformate anwenden programmatisch
 <br/>
-Vollständige Liste der unterstützten Konvertierungen für den Vorgang Zittern:
+Vollständige Liste der unterstützten Zittern-Vorgänge nach Bildformaten:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

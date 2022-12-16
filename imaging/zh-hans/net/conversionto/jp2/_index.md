@@ -12,14 +12,15 @@ description: 使用 Aspose.Imaging，您可以轻松地将其他格式转换为 
 {{< blocks/products/pf/feature-page-header h1="通过 C# 转换图像文件" h2="从其他格式转换为 JP2" downloadText="下载" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="所有支持的格式转换为 JP2" %}}
-使用 Aspose.Imaging，您可以轻松地将其他格式转换为 JP2。
+{{% blocks/products/pf/feature-page-section  h2="所有支持的图像格式转换为 JP2" %}}
+使用 Aspose.Imaging，您可以轻松地将其他图像格式转换为 JP2。
 <br/>
 支持的转换的完整列表：
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/apng-to-jp2" >APNG 至 JP2</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/bmp-to-jp2" >BMP 至 JP2</a></div>

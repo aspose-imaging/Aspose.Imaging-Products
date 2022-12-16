@@ -12,10 +12,11 @@ description: Usando Aspose.Imaging puoi facilmente Unisci immagini tramite java
 {{< blocks/products/pf/feature-page-header h1="File immagine Unisci tramite java" h2="Unisci immagini" downloadText="Scarica" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tutti i formati supportati per l'operazione Unisci" %}}
-Usando Aspose.Imaging puoi facilmente applicare Unisci per diversi formati di immagine
+{{% blocks/products/pf/feature-page-section  h2="Tutti i immagini formati supportati per l'operazione Unisci" %}}
+Usando Aspose.Imaging puoi facilmente applicare **Unisci** per diversi formati di immagine programmaticamente
 <br/>
-Elenco completo delle conversioni supportate per l'operazione Unisci:
+Elenco completo delle operazioni Unisci supportate per formati immagine:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

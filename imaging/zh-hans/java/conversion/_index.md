@@ -151,12 +151,13 @@ CDR的转换过程几乎相同，加载CDR文件，使用相关图像保存选�
 </div>
 <br/>
 
-{{% blocks/products/pf/feature-page-section  h2="所有支持的转换格式" %}}
-下面列出了您可以转换的格式的完整列表：
+{{% blocks/products/pf/feature-page-section  h2="所有支持的图像格式转换" %}}
+下面是完整的图像格式列表，您可以将其转换为：
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+                <hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/from/apng" >转换自 APNG</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/from/bmp" >转换自 BMP</a></div>
@@ -193,12 +194,13 @@ CDR的转换过程几乎相同，加载CDR文件，使用相关图像保存选�
 </div>
 <br/>
 
-{{% blocks/products/pf/feature-page-section  h2="要转换为的所有支持格式" %}}
-下面列出了您可以转换为的格式的完整列表：
+{{% blocks/products/pf/feature-page-section  h2="要转换为的所有支持的图像格式" %}}
+下面是完整的图像格式列表，您可以从中进行转换：
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+	        <hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/to/bmp" >转换成 BMP</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/to/gif" >转换成 GIF</a></div>

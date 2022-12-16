@@ -12,10 +12,11 @@ description: Usando Aspose.Imaging, você pode facilmente imagens Remover imagem
 {{< blocks/products/pf/feature-page-header h1="Arquivos de imagem Remover imagem de fundo via net" h2="Remover imagem de fundo imagens" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos os formatos suportados para a operação Remover imagem de fundo" %}}
-Usando o Aspose.Imaging, você pode facilmente aplicar Remover imagem de fundo para diferentes formatos de imagem
+{{% blocks/products/pf/feature-page-section  h2="Todos os formatos suportados para a operação imagens Remover imagem de fundo" %}}
+Usando o Aspose.Imaging, você pode facilmente aplicar **Remover imagem de fundo** para diferentes formatos de imagem programaticamente
 <br/>
-Lista completa de conversões suportadas para a operação Remover imagem de fundo:
+Lista completa de operações Remover imagem de fundo suportadas por formatos de imagem:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -12,10 +12,11 @@ description: Używając Aspose.Imaging możesz łatwo Kompresja obrazy Via java
 {{< blocks/products/pf/feature-page-header h1="Pliki obrazów Kompresja przez java" h2="Obrazy Kompresja" downloadText="Ściągnij" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty operacji Kompresja" %}}
-Używając Aspose.Imaging możesz łatwo zastosować Kompresja dla różnych formatów obrazów
+{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty operacji obrazy Kompresja" %}}
+Używając Aspose.Imaging możesz łatwo zastosować **Kompresja** dla różnych formatów obrazów programowo
 <br/>
-Pełna lista obsługiwanych konwersji dla operacji Kompresja:
+Pełna lista obsługiwanych operacji Kompresja według formatów obrazu:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

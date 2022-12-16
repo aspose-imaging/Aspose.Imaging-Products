@@ -12,10 +12,11 @@ description: Aspose.Imaging を使用すると、net 経由で簡単に 透か�
 {{< blocks/products/pf/feature-page-header h1="net経由の画像ファイル透かし" h2="{操作名} 画像" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="透かし 操作でサポートされているすべての形式" %}}
-Aspose.Imaging を使用すると、さまざまな画像フォーマットに 透かし を簡単に適用できます
+{{% blocks/products/pf/feature-page-section  h2="透かし 操作でサポートされているすべての形式 画像" %}}
+Aspose.Imaging を使用すると、さまざまな画像フォーマットに **透かし** を簡単に適用できます プログラム的に
 <br/>
-透かし 操作でサポートされている変換の完全なリスト:
+画像形式ごとにサポートされている 透かし 操作の完全なリスト:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

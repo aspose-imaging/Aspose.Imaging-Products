@@ -12,10 +12,11 @@ description: Używając Aspose.Imaging możesz łatwo Dygotać obrazy Via java
 {{< blocks/products/pf/feature-page-header h1="Pliki obrazów Dygotać przez java" h2="Obrazy Dygotać" downloadText="Ściągnij" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty operacji Dygotać" %}}
-Używając Aspose.Imaging możesz łatwo zastosować Dygotać dla różnych formatów obrazów
+{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty operacji obrazy Dygotać" %}}
+Używając Aspose.Imaging możesz łatwo zastosować **Dygotać** dla różnych formatów obrazów programowo
 <br/>
-Pełna lista obsługiwanych konwersji dla operacji Dygotać:
+Pełna lista obsługiwanych operacji Dygotać według formatów obrazu:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

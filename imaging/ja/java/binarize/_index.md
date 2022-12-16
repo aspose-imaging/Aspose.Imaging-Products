@@ -12,10 +12,11 @@ description: Aspose.Imaging を使用すると、java 経由で簡単に 二値�
 {{< blocks/products/pf/feature-page-header h1="java経由の画像ファイル二値化" h2="{操作名} 画像" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="二値化 操作でサポートされているすべての形式" %}}
-Aspose.Imaging を使用すると、さまざまな画像フォーマットに 二値化 を簡単に適用できます
+{{% blocks/products/pf/feature-page-section  h2="二値化 操作でサポートされているすべての形式 画像" %}}
+Aspose.Imaging を使用すると、さまざまな画像フォーマットに **二値化** を簡単に適用できます プログラム的に
 <br/>
-二値化 操作でサポートされている変換の完全なリスト:
+画像形式ごとにサポートされている 二値化 操作の完全なリスト:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -12,10 +12,11 @@ description: Usando Aspose.Imaging, você pode facilmente imagens Colheita Via n
 {{< blocks/products/pf/feature-page-header h1="Arquivos de imagem Colheita via net" h2="Colheita imagens" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos os formatos suportados para a operação Colheita" %}}
-Usando o Aspose.Imaging, você pode facilmente aplicar Colheita para diferentes formatos de imagem
+{{% blocks/products/pf/feature-page-section  h2="Todos os formatos suportados para a operação imagens Colheita" %}}
+Usando o Aspose.Imaging, você pode facilmente aplicar **Colheita** para diferentes formatos de imagem programaticamente
 <br/>
-Lista completa de conversões suportadas para a operação Colheita:
+Lista completa de operações Colheita suportadas por formatos de imagem:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

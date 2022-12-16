@@ -12,10 +12,11 @@ description: Naudodami Aspose.Imaging galite lengvai sukurti Filtras vaizdus per
 {{< blocks/products/pf/feature-page-header h1="Vaizdo failai Filtras per java" h2="Filtras vaizdai" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Filtras formatai" %}}
-Naudodami Aspose.Imaging galite lengvai pritaikyti Filtras skirtingiems vaizdo formatams
+{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Filtras attēlus formatai" %}}
+Naudodami Aspose.Imaging galite lengvai pritaikyti **Filtras** skirtingiems vaizdo formatams programmatiski
 <br/>
-Visas palaikomų operacijos Filtras konversijų sąrašas:
+Visas palaikomų operacijų Filtras sąrašas pagal vaizdo formatus:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

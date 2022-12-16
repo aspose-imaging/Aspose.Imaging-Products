@@ -151,12 +151,13 @@ description: जावा पुस्तकालय के माध्यम 
 </div>
 <br/>
 
-{{% blocks/products/pf/feature-page-section  h2="कन्वर्ट करने के लिए सभी समर्थित प्रारूप" %}}
-नीचे उन स्वरूपों की पूरी सूची प्रस्तुत की गई है जिनसे आप कनवर्ट कर सकते हैं:
+{{% blocks/products/pf/feature-page-section  h2="से परिवर्तित करने के लिए सभी समर्थित छवि प्रारूप" %}}
+नीचे छवि प्रारूपों की पूरी सूची प्रस्तुत की गई है, जिन्हें आप इसमें बदल सकते हैं:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+                <hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/from/apng" >से कनवर्ट करें APNG</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/from/bmp" >से कनवर्ट करें BMP</a></div>
@@ -193,12 +194,13 @@ description: जावा पुस्तकालय के माध्यम 
 </div>
 <br/>
 
-{{% blocks/products/pf/feature-page-section  h2="कन्वर्ट करने के लिए सभी समर्थित प्रारूप" %}}
-नीचे उन स्वरूपों की पूरी सूची प्रस्तुत की गई है जिन्हें आप रूपांतरित कर सकते हैं:
+{{% blocks/products/pf/feature-page-section  h2="कनवर्ट करने के लिए सभी समर्थित छवि प्रारूप" %}}
+नीचे छवि प्रारूपों की पूरी सूची प्रस्तुत की गई है, जिससे आप परिवर्तित कर सकते हैं:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
+	        <hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
 		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/to/bmp" >में बदलो BMP</a></div>
 <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/to/gif" >में बदलो GIF</a></div>

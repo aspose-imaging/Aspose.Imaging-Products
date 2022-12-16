@@ -12,10 +12,11 @@ description: Mit Aspose.Imaging können Sie ganz einfach Kompresse Bilder über 
 {{< blocks/products/pf/feature-page-header h1="Bilddateien Kompresse über java" h2="Kompresse Bilder" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Formate für den Vorgang Kompresse" %}}
-Mit Aspose.Imaging können Sie ganz einfach Kompresse für verschiedene Bildformate anwenden
+{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bilder Formate für den Vorgang Kompresse" %}}
+Mit Aspose.Imaging können Sie ganz einfach **Kompresse** für verschiedene Bildformate anwenden programmatisch
 <br/>
-Vollständige Liste der unterstützten Konvertierungen für den Vorgang Kompresse:
+Vollständige Liste der unterstützten Kompresse-Vorgänge nach Bildformaten:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

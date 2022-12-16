@@ -12,10 +12,11 @@ description: Aspose.Imaging을 사용하면 java을 통해 쉽게 이진화 이�
 {{< blocks/products/pf/feature-page-header h1="java을 통한 이미지 파일 이진화" h2="{작업 이름} 이미지" downloadText="다운로드" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="이진화 작업에 대해 지원되는 모든 형식" %}}
-Aspose.Imaging을 사용하면 다양한 이미지 형식에 이진화을(를) 쉽게 적용할 수 있습니다.
+{{% blocks/products/pf/feature-page-section  h2="이진화 작업에 대해 지원되는 모든 형식 이미지" %}}
+Aspose.Imaging을 사용하면 다양한 이미지 형식에 **이진화** 을(를) 쉽게 적용할 수 있습니다 프로그래밍 방식으로. 
 <br/>
-이진화 작업에 대해 지원되는 변환의 전체 목록:
+이미지 형식별로 지원되는 이진화 작업의 전체 목록:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

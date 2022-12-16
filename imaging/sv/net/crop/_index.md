@@ -12,10 +12,11 @@ description: Med Aspose.Imaging kan du enkelt Beskära bilder via net
 {{< blocks/products/pf/feature-page-header h1="Bildfiler Beskära via net" h2="Beskära bilder" downloadText="Ladda ner" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alla format som stöds för operationen Beskära" %}}
-Med Aspose.Imaging kan du enkelt använda Beskära för olika bildformat
+{{% blocks/products/pf/feature-page-section  h2="Alla bilder format som stöds för operationen Beskära" %}}
+Med Aspose.Imaging kan du enkelt använda **Beskära** för olika bildformat programmatiskt
 <br/>
-Fullständig lista över omvandlingar som stöds för operationen Beskära:
+Fullständig lista över Beskära-operationer som stöds efter bildformat:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

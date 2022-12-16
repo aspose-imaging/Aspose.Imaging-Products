@@ -12,10 +12,11 @@ description: Med Aspose.Imaging kan du enkelt Gråskala bilder via net
 {{< blocks/products/pf/feature-page-header h1="Bildfiler Gråskala via net" h2="Gråskala bilder" downloadText="Ladda ner" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alla format som stöds för operationen Gråskala" %}}
-Med Aspose.Imaging kan du enkelt använda Gråskala för olika bildformat
+{{% blocks/products/pf/feature-page-section  h2="Alla bilder format som stöds för operationen Gråskala" %}}
+Med Aspose.Imaging kan du enkelt använda **Gråskala** för olika bildformat programmatiskt
 <br/>
-Fullständig lista över omvandlingar som stöds för operationen Gråskala:
+Fullständig lista över Gråskala-operationer som stöds efter bildformat:
+<hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
