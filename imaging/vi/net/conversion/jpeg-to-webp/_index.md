@@ -4,7 +4,7 @@ weight: 3920
 url: /vi/net/conversion/jpeg-to-webp/ 
 lang: vi
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Mã mẫu cho chuyển đổi JPEG sang WEBP C #. Sử dụng mã mẫu API cho hàng loạt tệp JPEG để chuyển đổi WEBP trong VB.NET, Asp.NET hoặc bất kỳ ứng dụng dựa trên .NET nào.
 ---
 
@@ -17,8 +17,7 @@ description: Mã mẫu cho chuyển đổi JPEG sang WEBP C #. Sử dụng mã m
 
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi JPEG thành WEBP bằng C#" %}}
 
-Để chuyển đổi JPEG thành WEBP, chúng tôi sẽ sử dụng
-[Aspose.Imaging cho .NET] (https://products.aspose.com/imaging/net) API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C #. Mở [NuGet] (https://www.nuget.org/packages/aspose.imaging) quản lý gói, tìm kiếm ** Aspose.Imaging ** và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển Trình quản lý Gói.
+Để chuyển đổi JPEG thành WEBP, chúng tôi sẽ sử dụng [Aspose.Imaging cho .NET] (https://products.aspose.com/imaging/net) API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C #. Mở [NuGet] (https://www.nuget.org/packages/aspose.imaging) quản lý gói, tìm kiếm ** Aspose.Imaging ** và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển Trình quản lý Gói.
 
 {{% blocks/products/pf/agp/code-block title = "Lệnh Bảng điều khiển Trình quản lý Gói" offSpacer = "true"%}}
 

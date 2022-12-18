@@ -4,7 +4,7 @@ weight: 3920
 url: /pt/java/watermark/jp2/ 
 lang: pt
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: Exemplo de código de conversão Java do formato JP2 para o arquivo . Use este código de exemplo para converter JP2 em  em qualquer aplicativo baseado em Java Web ou Desktop.
 ---
 

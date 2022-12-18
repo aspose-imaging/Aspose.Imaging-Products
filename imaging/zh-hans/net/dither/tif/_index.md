@@ -4,7 +4,7 @@ weight: 3920
 url: /zh-hans/net/dither/tif/ 
 lang: zh-hans
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: 尝试使用我们的本地文档 API 在 .NET Framework、.NET Core、Windows 应用程序、ASP.NET Web 应用程序上抖动 TIF 文件。
 ---
 

@@ -4,7 +4,7 @@ weight: 3920
 url: /java/conversion/wmf-to-svgz/ 
 lang: en
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Sample code for WMF to SVGZ Java conversion. Use API example code for batch WMF files to SVGZ conversion within any Web or Desktop Java based application.
 ---
 
@@ -17,8 +17,7 @@ description: Sample code for WMF to SVGZ Java conversion. Use API example code f
 
 {{% blocks/products/pf/agp/content h2="How to Convert WMF to SVGZ Using Java" %}}
 
-In order to convert WMF to SVGZ, we’ll use
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API which is a feature-rich, powerful and easy to use image manipulation and conversion API for Java platform. You can download its latest version directly from [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) and install it within your Maven-based project by adding the following configurations to the pom.xml.
+In order to convert WMF to SVGZ, we’ll use [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API which is a feature-rich, powerful and easy to use image manipulation and conversion API for Java platform. You can download its latest version directly from [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) and install it within your Maven-based project by adding the following configurations to the pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 

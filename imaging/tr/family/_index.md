@@ -4,7 +4,7 @@ weight: 10
 url: /tr/family 
 lang: tr
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: .NET Java ve SharePoint uygulamalarında ilgili kitaplığı kullanarak görüntüleri işleyin ve dönüştürün. Görüntüleri PhotoShop formatlarında kaydedin
 ---
 

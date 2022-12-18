@@ -4,7 +4,7 @@ weight: 3920
 url: /pt/net/conversion/j2k-to-jpeg2000/ 
 lang: pt
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Código de exemplo para conversão de C# J2K para JPEG2000. Use o código de exemplo de API para arquivos J2K em lote para conversão JPEG2000 em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 
@@ -17,8 +17,7 @@ description: Código de exemplo para conversão de C# J2K para JPEG2000. Use o c
 
 {{% blocks/products/pf/agp/content h2="Como converter J2K para JPEG2000 usando C#" %}}
 
-Para converter J2K em JPEG2000, usaremos
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir [NuGet](https://www.nuget.org/packages/aspose.imaging) gerenciador de pacotes, procure por **Aspose.Imagem** e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
+Para converter J2K em JPEG2000, usaremos [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir [NuGet](https://www.nuget.org/packages/aspose.imaging) gerenciador de pacotes, procure por **Aspose.Imagem** e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
 
 {{% blocks/products/pf/agp/code-block title="Comando do Console do Gerenciador de Pacotes" offSpacer="true" %}}
 

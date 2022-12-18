@@ -4,7 +4,7 @@ weight: 3920
 url: /zh-hant/net/conversion/jpeg-to-dicom/ 
 lang: zh-hant
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: JPEG 到 DICOM C# 轉換的示例代碼。使用 API 示例代碼在 VB.NET、Asp.NET 或任何基於 .NET 的應用程序中將 JPEG 文件批量轉換為 DICOM。
 ---
 
@@ -17,8 +17,7 @@ description: JPEG 到 DICOM C# 轉換的示例代碼。使用 API 示例代碼�
 
 {{% blocks/products/pf/agp/content h2="如何使用 C# 將 JPEG 轉換為 DICOM" %}}
 
-為了將 JPEG 轉換為 DICOM，我們將使用
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一個功能豐富、功能強大且易於使用的 C# 平台圖像處理和轉換 API。打開 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 並安裝。您也可以從包管理器控制台使用以下命令。
+為了將 JPEG 轉換為 DICOM，我們將使用 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一個功能豐富、功能強大且易於使用的 C# 平台圖像處理和轉換 API。打開 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 並安裝。您也可以從包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 

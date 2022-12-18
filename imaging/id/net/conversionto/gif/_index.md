@@ -1,0 +1,58 @@
+﻿---
+title: Konversikan ke GIF dari format lain 
+weight: 3920
+url: /id/net/conversion/to/gif 
+lang: id
+langdirlevel: 2
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
+description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi ke GIF dari format lain
+---
+
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar Melalui C#" h2="Konversikan ke GIF dari format lain" downloadText="Unduh" >}}
+
+
+{{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari ke GIF" %}}
+Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi ke GIF dari format gambar lain.
+<br/>
+Daftar lengkap konversi yang didukung:
+{{% /blocks/products/pf/feature-page-section %}}
+<div class="container-fluid productfamilypage bg-gray">
+    <div class="convertypes bg-gray agp-content section">
+        <div class="container">
+		<hr style="margin-left:-20px;"/>
+		<div class="row other-converters">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/apng-to-gif" >APNG ke GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/bmp-to-gif" >BMP ke GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/dib-to-gif" >DIB ke GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/dicom-to-gif" >DICOM ke GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/djvu-to-gif" >DJVU ke GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/dng-to-gif" >DNG ke GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/emf-to-gif" >EMF ke GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/emz-to-gif" >EMZ ke GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/jpeg2000-to-gif" >JPEG2000 ke GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/jp2-to-gif" >JP2 ke GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/j2k-to-gif" >J2K ke GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/jpg-to-gif" >JPG ke GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/jpeg-to-gif" >JPEG ke GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/png-to-gif" >PNG ke GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/tga-to-gif" >TGA ke GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/tif-to-gif" >TIF ke GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/tiff-to-gif" >TIFF ke GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/webp-to-gif" >WEBP ke GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/wmf-to-gif" >WMF ke GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/wmz-to-gif" >WMZ ke GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/svg-to-gif" >SVG ke GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/svgz-to-gif" >SVGZ ke GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/eps-to-gif" >EPS ke GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/cdr-to-gif" >CDR ke GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/cmx-to-gif" >CMX ke GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/otg-to-gif" >OTG ke GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/odg-to-gif" >ODG ke GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/ico-to-gif" >ICO ke GIF</a></div>
+                </div>
+        </div>
+    </div>
+</div>
+<br/>
+

@@ -4,7 +4,7 @@ weight: 3920
 url: /fr/java/filter/ico/ 
 lang: fr
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: Essayez nos API de document sur site pour filtrer les fichiers ICO sur .NET Framework, .NET Core, application Windows, application Web ASP.NET.
 ---
 

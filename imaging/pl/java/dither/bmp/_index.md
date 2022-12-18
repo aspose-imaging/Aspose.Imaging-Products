@@ -4,7 +4,7 @@ weight: 3920
 url: /pl/java/dither/bmp/ 
 lang: pl
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Wypróbuj nasze lokalne interfejsy API dokumentów, aby roztrząsać pliki BMP w platformach .NET Framework, .NET Core, aplikacji systemu Windows i aplikacji sieci Web ASP.NET.
 ---
 

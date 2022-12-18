@@ -4,7 +4,7 @@ weight: 4270
 url: /ja 
 lang: ja
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: オンプレミスまたはクラウドAPIを使用して画像操作アプリケーションを開発するか、クロスプラットフォームアプリを使用して、画像ファイルの比較検査または変換を表示します。
 ---
 

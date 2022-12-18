@@ -4,7 +4,7 @@ weight: 3920
 url: /ru/net/conversion/odg-to-jpeg/ 
 lang: ru
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Пример кода для преобразования ODG в JPEG C#. Используйте пример кода API для пакетного преобразования файлов ODG в JPEG в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 
@@ -17,8 +17,7 @@ description: Пример кода для преобразования ODG в JP
 
 {{% blocks/products/pf/agp/content h2="Как преобразовать ODG в JPEG с помощью C#" %}}
 
-Чтобы преобразовать ODG в JPEG, мы будем использовать
-[Aspose.Imaging для .NET](https://products.aspose.com/imaging/net) API, который представляет собой многофункциональный, мощный и простой в использовании API для обработки и преобразования изображений для платформы C#. Открытым [NuGet](https://www.nuget.org/packages/aspose.imaging) менеджер пакетов, поиск **Aspose.Imaging** и установить. Вы также можете использовать следующую команду из консоли диспетчера пакетов.
+Чтобы преобразовать ODG в JPEG, мы будем использовать [Aspose.Imaging для .NET](https://products.aspose.com/imaging/net) API, который представляет собой многофункциональный, мощный и простой в использовании API для обработки и преобразования изображений для платформы C#. Открытым [NuGet](https://www.nuget.org/packages/aspose.imaging) менеджер пакетов, поиск **Aspose.Imaging** и установить. Вы также можете использовать следующую команду из консоли диспетчера пакетов.
 
 {{% blocks/products/pf/agp/code-block title="Команда консоли диспетчера пакетов" offSpacer="true" %}}
 

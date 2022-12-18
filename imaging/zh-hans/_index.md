@@ -4,7 +4,7 @@ weight: 4270
 url: /zh-hans 
 lang: zh-hans
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: 使用 On Premise 或 Cloud API 开发图像处理应用程序，或者简单地使用跨平台应用程序来查看比较检查或转换图像文件。
 ---
 

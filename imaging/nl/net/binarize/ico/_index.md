@@ -4,7 +4,7 @@ weight: 3920
 url: /nl/net/binarize/ico/ 
 lang: nl
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: Probeer onze On-Premise document-API's om ICO-bestanden te binariseren op .NET Framework, .NET Core, Windows Application, ASP.NET Web Application.
 ---
 

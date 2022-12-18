@@ -4,7 +4,7 @@ weight: 3920
 url: /tr/net/cartoonify/odg/ 
 lang: tr
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: ODG dosyalarını .NET Framework, .NET Core, Windows Uygulaması, ASP.NET Web Uygulamasında Karikatürleştirmek için Şirket İçi belge API'lerimizi deneyin.
 ---
 

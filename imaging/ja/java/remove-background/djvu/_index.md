@@ -4,7 +4,7 @@ weight: 3920
 url: /ja/java/remove-background/djvu/ 
 lang: ja
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: オンプレミスドキュメントAPIを試して、JavaアプリケーションのDJVUファイルからバックグラウンドを変更してください。
 ---
 

@@ -4,7 +4,7 @@ weight: 3920
 url: /id/net/conversion/svgz-to-png/ 
 lang: id
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Contoh kode untuk SVGZ ke PNG C# konversi. Gunakan kode contoh API untuk file batch SVGZ ke konversi PNG dalam VB.NET, Asp.NET atau aplikasi berbasis .NET.
 ---
 
@@ -17,8 +17,7 @@ description: Contoh kode untuk SVGZ ke PNG C# konversi. Gunakan kode contoh API 
 
 {{% blocks/products/pf/agp/content h2="Cara Mengonversi SVGZ ke PNG Menggunakan C#" %}}
 
-Untuk mengonversi SVGZ ke PNG, kami akan menggunakan
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API yang kaya fitur, kuat, dan mudah digunakan manipulasi gambar dan konversi API untuk platform C#. Membuka [NuGet](https://www.nuget.org/packages/aspose.imaging) manajer paket, cari **Aspose.Imaging** dan menginstal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
+Untuk mengonversi SVGZ ke PNG, kami akan menggunakan [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API yang kaya fitur, kuat, dan mudah digunakan manipulasi gambar dan konversi API untuk platform C#. Membuka [NuGet](https://www.nuget.org/packages/aspose.imaging) manajer paket, cari **Aspose.Imaging** dan menginstal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Perintah Konsol Manajer Paket" offSpacer="true" %}}
 

@@ -4,7 +4,7 @@ weight: 3920
 url: /zh-hant/java/change-background/webp/ 
 lang: zh-hant
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: 嘗試使用我們的本地文檔 API 更改 Java 應用程序上 WEBP 文件的背景。
 ---
 

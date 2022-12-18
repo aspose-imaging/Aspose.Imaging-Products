@@ -4,7 +4,7 @@ weight: 3920
 url: /it/java/crop/webp/ 
 lang: it
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Prova le nostre API di documenti locali per ritagliare i file WEBP sull'applicazione Java.
 ---
 

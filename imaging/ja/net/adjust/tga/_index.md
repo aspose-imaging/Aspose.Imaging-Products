@@ -4,7 +4,7 @@ weight: 3920
 url: /ja/net/adjust/tga/ 
 lang: ja
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: オンプレミスドキュメントAPIを試して、.NET Framework、.NET Core、Windowsアプリケーション、ASP.NETWebアプリケーションでTGAファイルを調整してください。
 ---
 

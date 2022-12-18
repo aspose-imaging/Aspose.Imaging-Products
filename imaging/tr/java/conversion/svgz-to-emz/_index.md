@@ -4,7 +4,7 @@ weight: 3920
 url: /tr/java/conversion/svgz-to-emz/ 
 lang: tr
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: SVGZ - EMZ Java dönüşümü için örnek kod. Herhangi bir Web veya Masaüstü Java tabanlı uygulamada toplu SVGZ dosyalarını EMZ'ye dönüştürmek için API örnek kodunu kullanın.
 ---
 
@@ -17,8 +17,7 @@ description: SVGZ - EMZ Java dönüşümü için örnek kod. Herhangi bir Web ve
 
 {{% blocks/products/pf/agp/content h2="Java Kullanarak SVGZ'i EMZ'ye Dönüştürme" %}}
 
-SVGZ'i EMZ'ye dönüştürmek için kullanacağız
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java) Java platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. En son sürümünü doğrudan adresinden indirebilirsiniz. [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) ve pom.xml dosyasına aşağıdaki konfigürasyonları ekleyerek Maven tabanlı projenize kurun.
+SVGZ'i EMZ'ye dönüştürmek için kullanacağız [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) Java platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. En son sürümünü doğrudan adresinden indirebilirsiniz. [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) ve pom.xml dosyasına aşağıdaki konfigürasyonları ekleyerek Maven tabanlı projenize kurun.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 

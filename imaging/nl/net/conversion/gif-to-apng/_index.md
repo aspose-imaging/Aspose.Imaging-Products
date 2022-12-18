@@ -4,7 +4,7 @@ weight: 3920
 url: /nl/net/conversion/gif-to-apng/ 
 lang: nl
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Voorbeeldcode voor GIF naar APNG C#-conversie. Gebruik API-voorbeeldcode voor batch GIF-bestanden naar APNG-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde toepassing.
 ---
 
@@ -17,8 +17,7 @@ description: Voorbeeldcode voor GIF naar APNG C#-conversie. Gebruik API-voorbeel
 
 {{% blocks/products/pf/agp/content h2="Hoe GIF naar APNG te converteren met C#" %}}
 
-Om GIF naar APNG te converteren, gebruiken we
-[Aspose.Imaging voor .NET](https://products.aspose.com/imaging/net) API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het C#-platform. Open [NuGet](https://www.nuget.org/packages/aspose.imaging) pakketbeheerder, zoek naar **Aspose.Imaging** en installeren. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
+Om GIF naar APNG te converteren, gebruiken we [Aspose.Imaging voor .NET](https://products.aspose.com/imaging/net) API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het C#-platform. Open [NuGet](https://www.nuget.org/packages/aspose.imaging) pakketbeheerder, zoek naar **Aspose.Imaging** en installeren. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 

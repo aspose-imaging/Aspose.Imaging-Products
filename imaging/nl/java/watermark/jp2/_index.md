@@ -4,7 +4,7 @@ weight: 3920
 url: /nl/java/watermark/jp2/ 
 lang: nl
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: Voorbeeld Java-conversiecode voor JP2-indeling naar -bestand. Gebruik deze voorbeeldcode om JP2 naar  te converteren binnen een web- of desktop-Java-toepassing.
 ---
 

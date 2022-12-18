@@ -4,7 +4,7 @@ weight: 3920
 url: /nl/net/conversion/cmx-to-png/ 
 lang: nl
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Voorbeeldcode voor CMX naar PNG C#-conversie. Gebruik API-voorbeeldcode voor batch CMX-bestanden naar PNG-conversie binnen VB.NET, Asp.NET of een op .NET gebaseerde toepassing.
 ---
 
@@ -17,8 +17,7 @@ description: Voorbeeldcode voor CMX naar PNG C#-conversie. Gebruik API-voorbeeld
 
 {{% blocks/products/pf/agp/content h2="Hoe CMX naar PNG te converteren met C#" %}}
 
-Om CMX naar PNG te converteren, gebruiken we
-[Aspose.Imaging voor .NET](https://products.aspose.com/imaging/net) API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het C#-platform. Open [NuGet](https://www.nuget.org/packages/aspose.imaging) pakketbeheerder, zoek naar **Aspose.Imaging** en installeren. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
+Om CMX naar PNG te converteren, gebruiken we [Aspose.Imaging voor .NET](https://products.aspose.com/imaging/net) API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het C#-platform. Open [NuGet](https://www.nuget.org/packages/aspose.imaging) pakketbeheerder, zoek naar **Aspose.Imaging** en installeren. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 

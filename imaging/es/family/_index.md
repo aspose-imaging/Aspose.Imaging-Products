@@ -4,7 +4,7 @@ weight: 10
 url: /es/family 
 lang: es
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: Cree, manipule y convierta imágenes usando la biblioteca relevante dentro de las aplicaciones .NET Java y SharePoint. Guardar imágenes en formatos de PhotoShop
 ---
 

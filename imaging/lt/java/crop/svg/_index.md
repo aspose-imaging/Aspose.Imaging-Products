@@ -4,7 +4,7 @@ weight: 3920
 url: /lt/java/crop/svg/ 
 lang: lt
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Išbandykite mūsų „On-Premise“ dokumentų API, kad apkarpytumėte SVG failus „Java“ programoje.
 ---
 

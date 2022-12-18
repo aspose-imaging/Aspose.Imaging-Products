@@ -4,7 +4,7 @@ weight: 10
 url: /family 
 lang: en
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: Create manipulate and convert images using relevant library within .NET Java and SharePoint applications. Save images to PhotoShop formats
 ---
 

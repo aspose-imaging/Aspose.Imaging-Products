@@ -4,7 +4,7 @@ weight: 3920
 url: /tr/net/viewer/dib/ 
 lang: tr
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: DIB dosyalarını .NET Framework, .NET Core, Windows Uygulaması, ASP.NET Web Uygulamasında Görüntülemek için Şirket İçi belge API'lerimizi deneyin.
 ---
 
@@ -16,8 +16,7 @@ description: DIB dosyalarını .NET Framework, .NET Core, Windows Uygulaması, A
 
 {{% blocks/products/pf/agp/content h2="C# Kullanarak DIB görüntüleri Nasıl İzlenir" %}}
 
-DIB dosyalarını görüntülemek için kullanacağız
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. Açık [NuGet](https://www.nuget.org/packages/aspose.imaging) paket yöneticisi, ara **Aspose.Görüntüleme** ve yükleyin. Paket Yöneticisi Konsolundan aşağıdaki komutu da kullanabilirsiniz.
+DIB dosyalarını görüntülemek için kullanacağız [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. Açık [NuGet](https://www.nuget.org/packages/aspose.imaging) paket yöneticisi, ara **Aspose.Görüntüleme** ve yükleyin. Paket Yöneticisi Konsolundan aşağıdaki komutu da kullanabilirsiniz.
 
 {{%blocks/products/pf/agp/code-block title="Paket Yöneticisi Konsol Komutu" offSpacer="true" %}}
 

@@ -4,7 +4,7 @@ weight: 3920
 url: /tr/net/watermark/j2k/ 
 lang: tr
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: .NET Framework, .NET Core, Windows Uygulaması, ASP.NET Web Uygulamasında J2K dosyasını filigranlamak için Şirket İçi belge API'lerimizi deneyin.
 ---
 

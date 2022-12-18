@@ -1,0 +1,58 @@
+﻿---
+title: המר ל-DICOM מפורמט אחר 
+weight: 3920
+url: /he/net/conversion/to/dicom 
+lang: he
+langdirlevel: 2
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
+description: באמצעות Aspose.Imaging תוכל להמיר בקלות ל-DICOM מפורמט אחר
+---
+
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה באמצעות C#" h2="המר ל-DICOM מפורמט אחר" downloadText="הורד" >}}
+
+
+{{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה ל-DICOM" %}}
+באמצעות Aspose.Imaging תוכל להמיר בקלות ל-DICOM מפורמטים אחרים של תמונה.
+<br/>
+רשימה מלאה של המרות נתמכות:
+{{% /blocks/products/pf/feature-page-section %}}
+<div class="container-fluid productfamilypage bg-gray">
+    <div class="convertypes bg-gray agp-content section">
+        <div class="container">
+		<hr style="margin-left:-20px;"/>
+		<div class="row other-converters">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/apng-to-dicom" >APNG ל DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/bmp-to-dicom" >BMP ל DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/dib-to-dicom" >DIB ל DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/djvu-to-dicom" >DJVU ל DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/dng-to-dicom" >DNG ל DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/emf-to-dicom" >EMF ל DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/emz-to-dicom" >EMZ ל DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/gif-to-dicom" >GIF ל DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/jpeg2000-to-dicom" >JPEG2000 ל DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/jp2-to-dicom" >JP2 ל DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/j2k-to-dicom" >J2K ל DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/jpg-to-dicom" >JPG ל DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/jpeg-to-dicom" >JPEG ל DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/png-to-dicom" >PNG ל DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/tga-to-dicom" >TGA ל DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/tif-to-dicom" >TIF ל DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/tiff-to-dicom" >TIFF ל DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/webp-to-dicom" >WEBP ל DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/wmf-to-dicom" >WMF ל DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/wmz-to-dicom" >WMZ ל DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/svg-to-dicom" >SVG ל DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/svgz-to-dicom" >SVGZ ל DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/eps-to-dicom" >EPS ל DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/cdr-to-dicom" >CDR ל DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/cmx-to-dicom" >CMX ל DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/otg-to-dicom" >OTG ל DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/odg-to-dicom" >ODG ל DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/ico-to-dicom" >ICO ל DICOM</a></div>
+                </div>
+        </div>
+    </div>
+</div>
+<br/>
+

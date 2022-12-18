@@ -4,7 +4,7 @@ weight: 10
 url: /de/family 
 lang: de
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: Erstellen, manipulieren und konvertieren Sie Bilder mit der entsprechenden Bibliothek in .NET Java- und SharePoint-Anwendungen. Speichern Sie Bilder in Photoshop-Formaten
 ---
 

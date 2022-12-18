@@ -1,0 +1,31 @@
+﻿---
+title: Converteer van PNG naar een ander formaat 
+weight: 3920
+url: /nl/net/conversion/from/png 
+lang: nl
+langdirlevel: 2
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
+description: Met behulp van Aspose.Imaging kunt u eenvoudig converteren van PNG naar een ander formaat
+---
+
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="Conversie van afbeeldingsbestanden via C#" h2="Converteer van PNG naar een ander formaat" downloadText="Downloaden" >}}
+
+
+{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde afbeeldingsindelingen om te converteren van PNG" %}}
+Met Aspose.Imaging kunt u eenvoudig converteren van PNG naar andere formaten.
+<br/>
+Volledige lijst met ondersteunde conversies:
+{{% /blocks/products/pf/feature-page-section %}}
+<div class="container-fluid productfamilypage bg-gray">
+    <div class="convertypes bg-gray agp-content section">
+        <div class="container">
+		<hr style="margin-left:-20px;"/>
+		<div class="row other-converters">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/png-to-bmp" >PNG tot BMP</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/png-to-gif" >PNG tot GIF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/png-to-dicom" >PNG tot DICOM</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/png-to-emf" >PNG tot EMF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/png-to-jpg" >PNG tot JPG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/png-to-jpeg" >PNG tot JPEG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/png-to-jp2" >PNG tot JP2</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/png-to-j2k" >PNG tot J2K</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/png-to-jpeg2000" >PNG tot JPEG2000</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/png-to-apng" >PNG tot APNG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/png-to-psd" >PNG tot PSD</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/png-to-dxf" >PNG tot DXF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/png-to-svg" >PNG tot SVG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/png-to-tiff" >PNG tot TIFF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/png-to-webp" >PNG tot WEBP</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/png-to-wmf" >PNG tot WMF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/png-to-pdf" >PNG tot PDF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/png-to-html" >PNG tot HTML</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/png-to-emz" >PNG tot EMZ</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/png-to-wmz" >PNG tot WMZ</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/png-to-tga" >PNG tot TGA</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/png-to-svgz" >PNG tot SVGZ</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/png-to-canvas" >PNG tot CANVAS</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/png-to-ico" >PNG tot ICO</a></div>
+                </div>
+        </div>
+    </div>
+</div>
+<br/>
+

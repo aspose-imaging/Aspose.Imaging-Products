@@ -4,7 +4,7 @@ weight: 3920
 url: /ru/java/change-background/jp2/ 
 lang: ru
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Попробуйте наши локальные API-интерфейсы для документов, чтобы изменить фон из файлов JP2 в приложении Java.
 ---
 

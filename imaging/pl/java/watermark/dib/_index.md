@@ -4,7 +4,7 @@ weight: 3920
 url: /pl/java/watermark/dib/ 
 lang: pl
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: Przykładowy kod konwersji Java dla formatu DIB do pliku . Użyj tego przykładowego kodu, aby przekonwertować DIB na  w dowolnej aplikacji internetowej lub desktopowej Java.
 ---
 

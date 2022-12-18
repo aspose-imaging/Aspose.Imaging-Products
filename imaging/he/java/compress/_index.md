@@ -1,0 +1,30 @@
+﻿---
+title: תמונות לִדחוֹס דרך java, כל פורמטי התמונה הנתמכים 
+weight: 3920
+url: /he/java/compress 
+lang: he
+langdirlevel: 2
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
+description: באמצעות Aspose.Imaging תוכל בקלות לִדחוֹס תמונות באמצעות java
+---
+
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="קבצי תמונה לִדחוֹס באמצעות java" h2="תמונות לִדחוֹס" downloadText="הורד" >}}
+
+
+{{% blocks/products/pf/feature-page-section  h2="כל הפורמטים  תמונות הנתמכים עבור פעולת לִדחוֹס" %}}
+באמצעות Aspose.Imaging אתה יכול בקלות להחיל את **לִדחוֹס** עבור פורמטים שונים של תמונה באופן תוכניתי
+<br/>
+רשימה מלאה של פעולות לִדחוֹס נתמכות לפי פורמטים של תמונה:
+<hr/>
+{{% /blocks/products/pf/feature-page-section %}}
+<div class="container-fluid productfamilypage bg-gray">
+    <div class="convertypes bg-gray agp-content section">
+        <div class="container">
+		<div class="row other-converters">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/compress/apng" >לִדחוֹס (APNG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/compress/bmp" >לִדחוֹס (BMP)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/compress/cdr" >לִדחוֹס (CDR)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/compress/cmx" >לִדחוֹס (CMX)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/compress/dib" >לִדחוֹס (DIB)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/compress/dicom" >לִדחוֹס (DICOM)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/compress/djvu" >לִדחוֹס (DJVU)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/compress/dng" >לִדחוֹס (DNG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/compress/emf" >לִדחוֹס (EMF)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/compress/emz" >לִדחוֹס (EMZ)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/compress/eps" >לִדחוֹס (EPS)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/compress/gif" >לִדחוֹס (GIF)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/compress/ico" >לִדחוֹס (ICO)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/compress/j2k" >לִדחוֹס (J2K)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/compress/jp2" >לִדחוֹס (JP2)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/compress/jpg" >לִדחוֹס (JPG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/compress/jpeg" >לִדחוֹס (JPEG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/compress/odg" >לִדחוֹס (ODG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/compress/otg" >לִדחוֹס (OTG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/compress/png" >לִדחוֹס (PNG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/compress/svg" >לִדחוֹס (SVG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/compress/tga" >לִדחוֹס (TGA)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/compress/tif" >לִדחוֹס (TIF)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/compress/tiff" >לִדחוֹס (TIFF)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/compress/webp" >לִדחוֹס (WEBP)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/compress/wmf" >לִדחוֹס (WMF)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/compress/wmz" >לִדחוֹס (WMZ)</a></div>
+                </div>
+        </div>
+    </div>
+</div>
+<br/>

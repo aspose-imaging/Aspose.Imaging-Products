@@ -1,0 +1,59 @@
+﻿---
+title: अन्य प्रारूपों से PSD में कनवर्ट करें 
+weight: 3920
+url: /hi/java/conversion/to/psd 
+lang: hi
+langdirlevel: 2
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
+description: Aspose.Imaging का उपयोग करके आप अन्य प्रारूपों से PSD में आसानी से रूपांतरित कर सकते हैं
+---
+
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="सी # के माध्यम से छवि फ़ाइलें रूपांतरण" h2="अन्य प्रारूपों से PSD में कनवर्ट करें" downloadText="डाउनलोड" >}}
+
+
+{{% blocks/products/pf/feature-page-section  h2="से PSD में बदलने के लिए सभी समर्थित छवि प्रारूप" %}}
+Aspose.Imaging का उपयोग करके आप आसानी से अन्य छवि प्रारूपों से PSD में परिवर्तित कर सकते हैं।
+<br/>
+समर्थित रूपांतरणों की पूरी सूची:
+{{% /blocks/products/pf/feature-page-section %}}
+<div class="container-fluid productfamilypage bg-gray">
+    <div class="convertypes bg-gray agp-content section">
+        <div class="container">
+		<hr style="margin-left:-20px;"/>
+		<div class="row other-converters">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/apng-to-psd" >APNG प्रति PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/bmp-to-psd" >BMP प्रति PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/dib-to-psd" >DIB प्रति PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/dicom-to-psd" >DICOM प्रति PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/djvu-to-psd" >DJVU प्रति PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/dng-to-psd" >DNG प्रति PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/emf-to-psd" >EMF प्रति PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/emz-to-psd" >EMZ प्रति PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/gif-to-psd" >GIF प्रति PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/jpeg2000-to-psd" >JPEG2000 प्रति PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/jp2-to-psd" >JP2 प्रति PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/j2k-to-psd" >J2K प्रति PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/jpg-to-psd" >JPG प्रति PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/jpeg-to-psd" >JPEG प्रति PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/png-to-psd" >PNG प्रति PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/tga-to-psd" >TGA प्रति PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/tif-to-psd" >TIF प्रति PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/tiff-to-psd" >TIFF प्रति PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/webp-to-psd" >WEBP प्रति PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/wmf-to-psd" >WMF प्रति PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/wmz-to-psd" >WMZ प्रति PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/svg-to-psd" >SVG प्रति PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/svgz-to-psd" >SVGZ प्रति PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/eps-to-psd" >EPS प्रति PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/cdr-to-psd" >CDR प्रति PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/cmx-to-psd" >CMX प्रति PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/otg-to-psd" >OTG प्रति PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/odg-to-psd" >ODG प्रति PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/ico-to-psd" >ICO प्रति PSD</a></div>
+                </div>
+        </div>
+    </div>
+</div>
+<br/>
+

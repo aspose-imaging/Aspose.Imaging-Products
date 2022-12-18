@@ -4,7 +4,7 @@ weight: 3920
 url: /fr/net/viewer/jpeg/ 
 lang: fr
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: Essayez nos API de document sur site pour afficher les fichiers JPEG sur .NET Framework, .NET Core, application Windows, application Web ASP.NET.
 ---
 
@@ -16,8 +16,7 @@ description: Essayez nos API de document sur site pour afficher les fichiers JPE
 
 {{% blocks/products/pf/agp/content h2="Comment afficher des images JPEG à l'aide de C#" %}}
 
-Pour afficher les fichiers JPEG, nous utiliserons
-[Aspose.Imaging pour .NET](https://products.aspose.com/imaging/net) API qui est une API de manipulation et de conversion d'images riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme C #. Ouvrir [NuGet](https://www.nuget.org/packages/aspose.imaging) gestionnaire de paquets, recherchez **Aspose.Imaging** et installer. Vous pouvez également utiliser la commande suivante à partir de la console du gestionnaire de packages.
+Pour afficher les fichiers JPEG, nous utiliserons [Aspose.Imaging pour .NET](https://products.aspose.com/imaging/net) API qui est une API de manipulation et de conversion d'images riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme C #. Ouvrir [NuGet](https://www.nuget.org/packages/aspose.imaging) gestionnaire de paquets, recherchez **Aspose.Imaging** et installer. Vous pouvez également utiliser la commande suivante à partir de la console du gestionnaire de packages.
 
 {{% blocks/products/pf/agp/code-block title="Commande de la console du gestionnaire de packages" offSpacer="true" %}}
 

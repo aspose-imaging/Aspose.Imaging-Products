@@ -4,7 +4,7 @@ weight: 3920
 url: /tr/java/watermark/dicom/ 
 lang: tr
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: DICOM formatı için  dosyasına örnek Java dönüştürme kodu. Herhangi bir Web veya Masaüstü Java tabanlı uygulamada DICOM öğesini  biçimine dönüştürmek için bu örnek kodu kullanın.
 ---
 

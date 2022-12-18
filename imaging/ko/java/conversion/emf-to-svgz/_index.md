@@ -4,7 +4,7 @@ weight: 3920
 url: /ko/java/conversion/emf-to-svgz/ 
 lang: ko
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: EMF에서 SVGZ로의 Java 변환을 위한 샘플 코드입니다. 웹 또는 데스크톱 자바 기반 애플리케이션 내에서 일괄 EMF 파일을 SVGZ로 변환하는 API 예제 코드를 사용합니다.
 ---
 
@@ -17,8 +17,7 @@ description: EMF에서 SVGZ로의 Java 변환을 위한 샘플 코드입니다. 
 
 {{% blocks/products/pf/agp/content h2="Java을 사용하여 EMF을 SVGZ로 변환하는 방법" %}}
 
-EMF을 SVGZ로 변환하려면 다음을 사용합니다.
-[자바용 Aspose.Imaging](https://products.aspose.com/imaging/java) 기능이 풍부하고 강력하며 사용하기쉬운 Java 플랫폼용 이미지 조작 및 변환 API인 API입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.[메이븐(https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 다음 구성을 pom.xml에 추가하여 Maven 기반 프로젝트 내에 설치합니다.
+EMF을 SVGZ로 변환하려면 다음을 사용합니다. [자바용 Aspose.Imaging](https://products.aspose.com/imaging/java) 기능이 풍부하고 강력하며 사용하기쉬운 Java 플랫폼용 이미지 조작 및 변환 API인 API입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.[메이븐(https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 다음 구성을 pom.xml에 추가하여 Maven 기반 프로젝트 내에 설치합니다.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 

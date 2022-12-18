@@ -4,7 +4,7 @@ weight: 3920
 url: /de/net/grayscale/otg/ 
 lang: de
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: Probieren Sie unsere On-Premise-Dokument-APIs aus, um OTG-Dateien in .NET Framework, .NET Core, Windows-Anwendung und ASP.NET-Webanwendung in Graustufen darzustellen.
 ---
 

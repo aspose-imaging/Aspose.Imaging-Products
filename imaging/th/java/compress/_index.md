@@ -1,0 +1,30 @@
+﻿---
+title: รูปภาพ บีบอัด ผ่าน java รูปแบบรูปภาพที่รองรับทั้งหมด 
+weight: 3920
+url: /th/java/compress 
+lang: th
+langdirlevel: 2
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
+description: เมื่อใช้ Aspose.Imaging คุณสามารถ บีบอัด ภาพได้อย่างง่ายดายผ่าน java
+---
+
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="ไฟล์รูปภาพ บีบอัด ผ่าน java" h2="บีบอัด ภาพ" downloadText="ดาวน์โหลด" >}}
+
+
+{{% blocks/products/pf/feature-page-section  h2="รูปแบบที่รอ ภาพ งรับทั้งหมดสำหรับการดำเนินการ บีบอัด" %}}
+เมื่อใช้ Aspose.Imaging คุณสามารถใช้ **บีบอัด** สำหรับรูปแบบภาพต่างๆ ได้อย่างง่ายดาย โดยทางโปรแกรม
+<br/>
+รายการทั้งหมดของการดำเนินการ บีบอัด ที่รองรับตามรูปแบบอิมเมจ:
+<hr/>
+{{% /blocks/products/pf/feature-page-section %}}
+<div class="container-fluid productfamilypage bg-gray">
+    <div class="convertypes bg-gray agp-content section">
+        <div class="container">
+		<div class="row other-converters">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/compress/apng" >บีบอัด (APNG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/compress/bmp" >บีบอัด (BMP)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/compress/cdr" >บีบอัด (CDR)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/compress/cmx" >บีบอัด (CMX)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/compress/dib" >บีบอัด (DIB)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/compress/dicom" >บีบอัด (DICOM)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/compress/djvu" >บีบอัด (DJVU)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/compress/dng" >บีบอัด (DNG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/compress/emf" >บีบอัด (EMF)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/compress/emz" >บีบอัด (EMZ)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/compress/eps" >บีบอัด (EPS)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/compress/gif" >บีบอัด (GIF)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/compress/ico" >บีบอัด (ICO)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/compress/j2k" >บีบอัด (J2K)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/compress/jp2" >บีบอัด (JP2)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/compress/jpg" >บีบอัด (JPG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/compress/jpeg" >บีบอัด (JPEG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/compress/odg" >บีบอัด (ODG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/compress/otg" >บีบอัด (OTG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/compress/png" >บีบอัด (PNG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/compress/svg" >บีบอัด (SVG)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/compress/tga" >บีบอัด (TGA)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/compress/tif" >บีบอัด (TIF)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/compress/tiff" >บีบอัด (TIFF)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/compress/webp" >บีบอัด (WEBP)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/compress/wmf" >บีบอัด (WMF)</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/compress/wmz" >บีบอัด (WMZ)</a></div>
+                </div>
+        </div>
+    </div>
+</div>
+<br/>

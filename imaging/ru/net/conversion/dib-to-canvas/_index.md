@@ -4,7 +4,7 @@ weight: 3920
 url: /ru/net/conversion/dib-to-canvas/ 
 lang: ru
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Пример кода для преобразования DIB в CANVAS C#. Используйте пример кода API для пакетного преобразования файлов DIB в CANVAS в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 
@@ -17,8 +17,7 @@ description: Пример кода для преобразования DIB в CA
 
 {{% blocks/products/pf/agp/content h2="Как преобразовать DIB в CANVAS с помощью C#" %}}
 
-Чтобы преобразовать DIB в CANVAS, мы будем использовать
-[Aspose.Imaging для .NET](https://products.aspose.com/imaging/net) API, который представляет собой многофункциональный, мощный и простой в использовании API для обработки и преобразования изображений для платформы C#. Открытым [NuGet](https://www.nuget.org/packages/aspose.imaging) менеджер пакетов, поиск **Aspose.Imaging** и установить. Вы также можете использовать следующую команду из консоли диспетчера пакетов.
+Чтобы преобразовать DIB в CANVAS, мы будем использовать [Aspose.Imaging для .NET](https://products.aspose.com/imaging/net) API, который представляет собой многофункциональный, мощный и простой в использовании API для обработки и преобразования изображений для платформы C#. Открытым [NuGet](https://www.nuget.org/packages/aspose.imaging) менеджер пакетов, поиск **Aspose.Imaging** и установить. Вы также можете использовать следующую команду из консоли диспетчера пакетов.
 
 {{% blocks/products/pf/agp/code-block title="Команда консоли диспетчера пакетов" offSpacer="true" %}}
 

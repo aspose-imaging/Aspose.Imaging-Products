@@ -4,7 +4,7 @@ weight: 3920
 url: /vi/java/binarize/tif/ 
 lang: vi
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: Thử các API tài liệu On-Premise của chúng tôi để Binarize các tệp TIF trên .NET Framework, .NET Core, Windows Application, ASP.NET Web Application.
 ---
 

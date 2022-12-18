@@ -4,7 +4,7 @@ weight: 3920
 url: /lt/java/cartoonify/tga/ 
 lang: lt
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: Išbandykite mūsų „On-Premise“ dokumentų API, kad sukurtumėte „Cartoonify“ TGA failus .NET Framework, .NET Core, Windows Application, ASP.NET Web Application.
 ---
 

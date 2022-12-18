@@ -4,7 +4,7 @@ weight: 3920
 url: /lt/java/remove-background/apng/ 
 lang: lt
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Išbandykite „On-Premise“ dokumentų API, kad pakeistumėte foną iš APNG failų „Java“ programoje.
 ---
 

@@ -4,7 +4,7 @@ weight: 3920
 url: /ko/java/watermark/dib/ 
 lang: ko
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: DIB 형식을  파일로 변환하는 샘플 Java 변환 코드입니다. 이 예제 코드를 사용하여 웹 또는 데스크톱 자바 기반 애플리케이션 내에서 DIB을 로 변환합니다.
 ---
 

@@ -4,7 +4,7 @@ weight: 3920
 url: /es/java/cartoonify/odg/ 
 lang: es
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: Pruebe nuestras API de documentos en las instalaciones para crear archivos de Cartoonify ODG en .NET Framework, .NET Core, aplicación de Windows, aplicación web ASP.NET.
 ---
 

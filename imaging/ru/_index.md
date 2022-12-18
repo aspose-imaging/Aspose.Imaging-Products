@@ -4,7 +4,7 @@ weight: 4270
 url: /ru 
 lang: ru
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: Разрабатывайте приложения для обработки изображений с помощью локальных или облачных API или просто используйте кроссплатформенные приложения для просмотра, сравнения, проверки или преобразования файлов изображений.
 ---
 

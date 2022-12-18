@@ -4,7 +4,7 @@ weight: 3920
 url: /de/java/remove-background/tiff/ 
 lang: de
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Probieren Sie unsere On-Premise-Dokument-APIs aus, um den Hintergrund von TIFF-Dateien in der Java-Anwendung zu ändern.
 ---
 

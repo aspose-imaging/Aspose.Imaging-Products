@@ -4,7 +4,7 @@ weight: 3920
 url: /lt/java/conversion/png-to-emz/ 
 lang: lt
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: „Java“ konvertavimo PNG į EMZ pavyzdys. Naudokite API pavyzdinį kodą paketiniams PNG failams konvertuoti į EMZ bet kurioje žiniatinklio ar darbalaukio Java pagrįstoje programoje.
 ---
 
@@ -17,8 +17,7 @@ description: „Java“ konvertavimo PNG į EMZ pavyzdys. Naudokite API pavyzdin
 
 {{% blocks/products/pf/agp/content h2="Kaip konvertuoti PNG į EMZ naudojant Java" %}}
 
-Norėdami konvertuoti PNG į EMZ, naudosime
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo manipuliavimo ir konvertavimo API, skirta Java platformai. Naujausią jos versiją galite atsisiųsti tiesiai iš [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) ir įdiekite jį savo Maven pagrįstame projekte, pridėdami toliau nurodytas konfigūracijas prie pom.xml.
+Norėdami konvertuoti PNG į EMZ, naudosime [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo manipuliavimo ir konvertavimo API, skirta Java platformai. Naujausią jos versiją galite atsisiųsti tiesiai iš [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) ir įdiekite jį savo Maven pagrįstame projekte, pridėdami toliau nurodytas konfigūracijas prie pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 

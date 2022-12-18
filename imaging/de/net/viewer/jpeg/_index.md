@@ -4,7 +4,7 @@ weight: 3920
 url: /de/net/viewer/jpeg/ 
 lang: de
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: Testen Sie unsere On-Premise-Dokument-APIs zum Anzeigen von JPEG-Dateien in .NET Framework, .NET Core, Windows-Anwendung, ASP.NET-Webanwendung.
 ---
 
@@ -16,8 +16,7 @@ description: Testen Sie unsere On-Premise-Dokument-APIs zum Anzeigen von JPEG-Da
 
 {{% blocks/products/pf/agp/content h2="Anzeigen von JPEG-Bildern mit C#" %}}
 
-Um JPEG-Dateien anzuzeigen, verwenden wir
-[Aspose.Imaging für .NET](https://products.aspose.com/imaging/net) API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Bildbearbeitungs- und Konvertierungs-API für die C#-Plattform ist. Offen [NuGet](https://www.nuget.org/packages/aspose.imaging) Paketmanager, suche nach
+Um JPEG-Dateien anzuzeigen, verwenden wir [Aspose.Imaging für .NET](https://products.aspose.com/imaging/net) API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Bildbearbeitungs- und Konvertierungs-API für die C#-Plattform ist. Offen [NuGet](https://www.nuget.org/packages/aspose.imaging) Paketmanager, suche nach
  **Aspose.Imaging** und installieren. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}

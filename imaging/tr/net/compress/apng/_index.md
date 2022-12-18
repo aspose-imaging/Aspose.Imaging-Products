@@ -4,7 +4,7 @@ weight: 3920
 url: /tr/net/compress/apng/ 
 lang: tr
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: APNG dosyalarını .NET Framework, .NET Core, Windows Uygulaması, ASP.NET Web Uygulamasında sıkıştırmak için Şirket İçi belge API'lerimizi deneyin.
 ---
 

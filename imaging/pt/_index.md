@@ -4,7 +4,7 @@ weight: 4270
 url: /pt 
 lang: pt
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: Desenvolva aplicativos de manipulação de imagens usando APIs On Premise ou Cloud ou simplesmente use aplicativos multiplataforma para visualizar, comparar, inspecionar ou converter arquivos de imagem.
 ---
 

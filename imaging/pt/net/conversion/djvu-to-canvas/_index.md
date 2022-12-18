@@ -4,7 +4,7 @@ weight: 3920
 url: /pt/net/conversion/djvu-to-canvas/ 
 lang: pt
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Código de exemplo para conversão de C# DJVU para CANVAS. Use o código de exemplo de API para arquivos DJVU em lote para conversão CANVAS em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 
@@ -17,8 +17,7 @@ description: Código de exemplo para conversão de C# DJVU para CANVAS. Use o c�
 
 {{% blocks/products/pf/agp/content h2="Como converter DJVU para CANVAS usando C#" %}}
 
-Para converter DJVU em CANVAS, usaremos
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir [NuGet](https://www.nuget.org/packages/aspose.imaging) gerenciador de pacotes, procure por **Aspose.Imagem** e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
+Para converter DJVU em CANVAS, usaremos [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir [NuGet](https://www.nuget.org/packages/aspose.imaging) gerenciador de pacotes, procure por **Aspose.Imagem** e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
 
 {{% blocks/products/pf/agp/code-block title="Comando do Console do Gerenciador de Pacotes" offSpacer="true" %}}
 

@@ -4,7 +4,7 @@ weight: 3920
 url: /pt/net/remove-background/j2k/ 
 lang: pt
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Experimente nossas APIs de documentos no local para remover o plano de fundo em arquivos J2K no .NET Framework, .NET Core, Windows Application, ASP.NET Web Application.
 ---
 

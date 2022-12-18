@@ -4,7 +4,7 @@ weight: 3920
 url: /it/net/viewer/otg/ 
 lang: it
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: Prova le nostre API di documenti locali per visualizzare i file OTG su .NET Framework, .NET Core, applicazione Windows, applicazione Web ASP.NET.
 ---
 
@@ -16,8 +16,7 @@ description: Prova le nostre API di documenti locali per visualizzare i file OTG
 
 {{% blocks/products/pf/agp/content h2="Come visualizzare le immagini in OTG utilizzando C#" %}}
 
-Per visualizzare i file OTG, utilizzeremo
-[Aspose.Imaging per .NET](https://products.aspose.com/imaging/net) API che è un'API di conversione e manipolazione delle immagini ricca di funzionalità, potente e facile da usare per la piattaforma C#. Aprire [NuGet](https://www.nuget.org/packages/aspose.imaging) gestore pacchetti, cerca **Aspose.Imaging** e installa. È inoltre possibile utilizzare il seguente comando dalla Console di gestione pacchetti.
+Per visualizzare i file OTG, utilizzeremo [Aspose.Imaging per .NET](https://products.aspose.com/imaging/net) API che è un'API di conversione e manipolazione delle immagini ricca di funzionalità, potente e facile da usare per la piattaforma C#. Aprire [NuGet](https://www.nuget.org/packages/aspose.imaging) gestore pacchetti, cerca **Aspose.Imaging** e installa. È inoltre possibile utilizzare il seguente comando dalla Console di gestione pacchetti.
 
 {{% blocks/products/pf/agp/code-block title="Comando della console di Package Manager" offSpacer="true" %}}
 

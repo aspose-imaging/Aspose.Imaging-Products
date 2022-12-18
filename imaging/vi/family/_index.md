@@ -4,7 +4,7 @@ weight: 10
 url: /vi/family 
 lang: vi
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: Tạo thao tác và chuyển đổi hình ảnh bằng cách sử dụng thư viện có liên quan trong các ứng dụng .NET Java và SharePoint. Lưu hình ảnh sang định dạng PhotoShop
 ---
 

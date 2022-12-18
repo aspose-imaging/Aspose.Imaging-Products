@@ -4,7 +4,7 @@ weight: 4270
 url: /tr 
 lang: tr
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: Şirket İçi veya Bulut API'lerini kullanarak Görüntü işleme uygulamaları geliştirin veya Görüntü dosyalarını karşılaştırmayı incelemek veya dönüştürmek için yalnızca platformlar arası uygulamaları kullanın.
 ---
 

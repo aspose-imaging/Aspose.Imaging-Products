@@ -4,7 +4,7 @@ weight: 3920
 url: /id/java/change-background/dib/ 
 lang: id
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Coba API dokumen Lokal kami untuk mengubah latar belakang dari file DIB di Aplikasi Java.
 ---
 

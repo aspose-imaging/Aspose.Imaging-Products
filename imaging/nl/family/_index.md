@@ -4,7 +4,7 @@ weight: 10
 url: /nl/family 
 lang: nl
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: Creëer afbeeldingen manipuleren en converteren met behulp van relevante bibliotheek binnen .NET Java- en SharePoint-applicaties. Afbeeldingen opslaan in PhotoShop-indelingen
 ---
 

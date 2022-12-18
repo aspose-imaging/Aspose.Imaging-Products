@@ -4,7 +4,7 @@ weight: 3920
 url: /tr/java/watermark/bmp/ 
 lang: tr
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: BMP formatı için  dosyasına örnek Java dönüştürme kodu. Herhangi bir Web veya Masaüstü Java tabanlı uygulamada BMP öğesini  biçimine dönüştürmek için bu örnek kodu kullanın.
 ---
 

@@ -4,7 +4,7 @@ weight: 3920
 url: /ru/java/conversion/dicom-to-jpeg2000/ 
 lang: ru
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Пример кода для преобразования DICOM в JPEG2000 Java. Используйте пример кода API для пакетного преобразования файлов DICOM в JPEG2000 в любом веб-приложении или приложении для настольных ПК на основе Java.
 ---
 
@@ -17,8 +17,7 @@ description: Пример кода для преобразования DICOM в 
 
 {{% blocks/products/pf/agp/content h2="Как преобразовать DICOM в JPEG2000 с помощью Java" %}}
 
-Чтобы преобразовать DICOM в JPEG2000, мы будем использовать
-[Aspose.Imaging для Java](https://products.aspose.com/imaging/java) API, который представляет собой многофункциональный, мощный и простой в использовании API для обработки и преобразования изображений для платформы Java. Вы можете скачать его последнюю версию прямо с [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) и установите его в своем проекте на основе Maven, добавив следующие конфигурации в файл pom.xml.
+Чтобы преобразовать DICOM в JPEG2000, мы будем использовать [Aspose.Imaging для Java](https://products.aspose.com/imaging/java) API, который представляет собой многофункциональный, мощный и простой в использовании API для обработки и преобразования изображений для платформы Java. Вы можете скачать его последнюю версию прямо с [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) и установите его в своем проекте на основе Maven, добавив следующие конфигурации в файл pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Репозиторий" offSpacer="true" %}}
 

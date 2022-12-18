@@ -4,7 +4,7 @@ weight: 3920
 url: /id/net/conversion/jpeg2000-to-bmp/ 
 lang: id
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Contoh kode untuk JPEG2000 ke BMP C# konversi. Gunakan kode contoh API untuk file batch JPEG2000 ke konversi BMP dalam VB.NET, Asp.NET atau aplikasi berbasis .NET.
 ---
 
@@ -17,8 +17,7 @@ description: Contoh kode untuk JPEG2000 ke BMP C# konversi. Gunakan kode contoh 
 
 {{% blocks/products/pf/agp/content h2="Cara Mengonversi JPEG2000 ke BMP Menggunakan C#" %}}
 
-Untuk mengonversi JPEG2000 ke BMP, kami akan menggunakan
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API yang kaya fitur, kuat, dan mudah digunakan manipulasi gambar dan konversi API untuk platform C#. Membuka [NuGet](https://www.nuget.org/packages/aspose.imaging) manajer paket, cari **Aspose.Imaging** dan menginstal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
+Untuk mengonversi JPEG2000 ke BMP, kami akan menggunakan [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API yang kaya fitur, kuat, dan mudah digunakan manipulasi gambar dan konversi API untuk platform C#. Membuka [NuGet](https://www.nuget.org/packages/aspose.imaging) manajer paket, cari **Aspose.Imaging** dan menginstal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Perintah Konsol Manajer Paket" offSpacer="true" %}}
 

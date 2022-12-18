@@ -4,7 +4,7 @@ weight: 10
 url: /pl/family 
 lang: pl
 langdirlevel: 2
-locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
 description: Twórz manipuluj i konwertuj obrazy przy użyciu odpowiedniej biblioteki w aplikacjach .NET Java i SharePoint. Zapisuj obrazy w formatach PhotoShop
 ---
 

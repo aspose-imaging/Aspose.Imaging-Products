@@ -4,7 +4,7 @@ weight: 3920
 url: /net/conversion/emz-to-jp2/ 
 lang: en
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Sample code for EMZ to JP2 C# conversion. Use API example code for batch EMZ files to JP2 conversion within VB.NET, Asp.NET or any .NET based application.
 ---
 
@@ -17,8 +17,7 @@ description: Sample code for EMZ to JP2 C# conversion. Use API example code for 
 
 {{% blocks/products/pf/agp/content h2="How to Convert EMZ to JP2 Using C#" %}}
 
-In order to convert EMZ to JP2, we’ll use
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API which is a feature-rich, powerful and easy to use image manipulation and conversion API for C# platform. Open [NuGet](https://www.nuget.org/packages/aspose.imaging) package manager, search for
+In order to convert EMZ to JP2, we’ll use [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API which is a feature-rich, powerful and easy to use image manipulation and conversion API for C# platform. Open [NuGet](https://www.nuget.org/packages/aspose.imaging) package manager, search for
  **Aspose.Imaging** and install. You may also use the following command from the Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}

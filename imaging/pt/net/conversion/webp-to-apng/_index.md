@@ -4,7 +4,7 @@ weight: 3920
 url: /pt/net/conversion/webp-to-apng/ 
 lang: pt
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: Código de exemplo para conversão de C# WEBP para APNG. Use o código de exemplo de API para arquivos WEBP em lote para conversão APNG em VB.NET, Asp.NET ou qualquer aplicativo baseado em .NET.
 ---
 
@@ -17,8 +17,7 @@ description: Código de exemplo para conversão de C# WEBP para APNG. Use o cód
 
 {{% blocks/products/pf/agp/content h2="Como converter WEBP para APNG usando C#" %}}
 
-Para converter WEBP em APNG, usaremos
-[Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir [NuGet](https://www.nuget.org/packages/aspose.imaging) gerenciador de pacotes, procure por **Aspose.Imagem** e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
+Para converter WEBP em APNG, usaremos [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir [NuGet](https://www.nuget.org/packages/aspose.imaging) gerenciador de pacotes, procure por **Aspose.Imagem** e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
 
 {{% blocks/products/pf/agp/code-block title="Comando do Console do Gerenciador de Pacotes" offSpacer="true" %}}
 

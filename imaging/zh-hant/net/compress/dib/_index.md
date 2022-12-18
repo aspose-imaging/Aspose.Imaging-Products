@@ -4,7 +4,7 @@ weight: 3920
 url: /zh-hant/net/compress/dib/ 
 lang: zh-hant
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
 description: 嘗試使用我們的本地文檔 API 來壓縮 .NET Framework、.NET Core、Windows 應用程序、ASP.NET Web 應用程序上的 DIB 文件。
 ---
 

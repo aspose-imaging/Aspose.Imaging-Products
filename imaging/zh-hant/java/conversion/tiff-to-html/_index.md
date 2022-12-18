@@ -4,8 +4,8 @@ weight: 3920
 url: /zh-hant/java/conversion/tiff-to-html/ 
 lang: zh-hant
 langdirlevel: 2
-locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans
-description: Sample code for TIFF to HTML Java conversion. Use API example code for batch TIFF files to HTML conversion within any Web or Desktop Java based application.
+locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
+description: TIFF 到 HTML Java 轉換的示例代碼。使用 API 示例代碼在任何基於 Web 或桌面 Java 的應用程序中將 TIFF 文件批量轉換為 HTML。
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -17,8 +17,7 @@ description: Sample code for TIFF to HTML Java conversion. Use API example code 
 
 {{% blocks/products/pf/agp/content h2="如何使用 Java 將 TIFF 轉換為 HTML" %}}
 
-為了將 TIFF 轉換為 HTML，我們將使用
-[Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一個功能豐富、功能強大 易於使用的 Java 平台圖像處理和轉換 API。您可以直接從 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 並通過將以下配置添加到 pom.xml 將其安裝在基於 Maven 的項目中。
+為了將 TIFF 轉換為 HTML，我們將使用 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一個功能豐富、功能強大 易於使用的 Java 平台圖像處理和轉換 API。您可以直接從 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 並通過將以下配置添加到 pom.xml 將其安裝在基於 Maven 的項目中。
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -57,10 +56,10 @@ description: Sample code for TIFF to HTML Java conversion. Use API example code 
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Load TIFF file with Image.load method
-+ Create & set the instance of required subclass of ImageOptionsBase (e.g. BmpOptions, PngOptions, etc.)
-+ Call the Image.save method
-+ Pass file path with HTML extension & object of ImageOptionsBase class
++ 使用 Image.load 方法加載 TIFF 文件
++ 創建和設置 ImageOptionsBase 所需子類的實例（例如 BmpOptions、PngOptions 等）
++ 調用 Image.save 方法
++ 傳遞帶有 HTML 擴展名的文件路徑和 ImageOptionsBase 類的對象
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
