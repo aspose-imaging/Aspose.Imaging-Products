@@ -1,5 +1,5 @@
 ﻿---
-title: Convert to PNG from other formats 
+title: Convert to PNG from other formats via .NET 
 weight: 3920
 url: /net/conversion/to/png 
 lang: en
@@ -9,7 +9,7 @@ description: Using Aspose.Imaging you can easily convert to PNG from other forma
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Image Files Conversion Via C#" h2="Convert to PNG from other formats" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Image Files Conversion to PNG Via .NET" h2="Convert to PNG from other formats" downloadText="Download" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from to PNG" %}}

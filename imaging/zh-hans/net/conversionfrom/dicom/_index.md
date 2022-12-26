@@ -1,5 +1,5 @@
 ﻿---
-title: 从 DICOM 转换为其他格式 
+title: 通过 .NET 从 DICOM 转换为其他格式 
 weight: 3920
 url: /zh-hans/net/conversion/from/dicom 
 lang: zh-hans
@@ -9,7 +9,7 @@ description: 使用 Aspose.Imaging，您可以轻松地将 DICOM 转换为其他
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="通过 C# 转换图像文件" h2="从 DICOM 转换为其他格式" downloadText="下载" >}}
+{{< blocks/products/pf/feature-page-header h1="通过 .NET 从 DICOM 转换图像文件" h2="从 DICOM 转换为其他格式" downloadText="下载" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="要从 DICOM 转换的所有支持的图像格式" %}}

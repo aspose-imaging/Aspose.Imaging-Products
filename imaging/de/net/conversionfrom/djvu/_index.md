@@ -1,5 +1,5 @@
 ﻿---
-title: Konvertieren Sie von DJVU in andere Formate 
+title: Convertir de DJVU vers d'autres formats via .NET 
 weight: 3920
 url: /de/net/conversion/from/djvu 
 lang: de
@@ -9,7 +9,7 @@ description: Mit Aspose.Imaging können Sie ganz einfach von DJVU in andere Form
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertierung von Bilddateien über C#" h2="Konvertieren Sie von DJVU in andere Formate" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertierung von Bilddateien von DJVU über .NET" h2="Konvertieren Sie von DJVU in andere Formate" downloadText="Download" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bildformate zum Konvertieren von DJVU" %}}

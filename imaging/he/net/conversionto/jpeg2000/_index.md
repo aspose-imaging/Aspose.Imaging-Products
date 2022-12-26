@@ -1,5 +1,5 @@
 ﻿---
-title: המר ל-JPEG2000 מפורמט אחר 
+title: המר ל-JPEG2000 מפורמט אחר .NET 
 weight: 3920
 url: /he/net/conversion/to/jpeg2000 
 lang: he
@@ -9,7 +9,7 @@ description: באמצעות Aspose.Imaging תוכל להמיר בקלות ל-JPE
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה באמצעות C#" h2="המר ל-JPEG2000 מפורמט אחר" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="המרת קובצי תמונה ל-JPEG2000 דרך .NET" h2="המר ל-JPEG2000 מפורמט אחר" downloadText="הורד" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה ל-JPEG2000" %}}

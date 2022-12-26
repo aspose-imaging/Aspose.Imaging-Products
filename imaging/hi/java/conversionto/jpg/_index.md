@@ -1,5 +1,5 @@
 ﻿---
-title: अन्य प्रारूपों से JPG में कनवर्ट करें 
+title: अन्य प्रारूपों से JPG में कनवर्ट करें Java के 
 weight: 3920
 url: /hi/java/conversion/to/jpg 
 lang: hi
@@ -9,7 +9,7 @@ description: Aspose.Imaging का उपयोग करके आप अन्
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="सी # के माध्यम से छवि फ़ाइलें रूपांतरण" h2="अन्य प्रारूपों से JPG में कनवर्ट करें" downloadText="डाउनलोड" >}}
+{{< blocks/products/pf/feature-page-header h1="छवि फ़ाइलें Java के माध्यम से JPG में रूपांतरण" h2="अन्य प्रारूपों से JPG में कनवर्ट करें" downloadText="डाउनलोड" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="से JPG में बदलने के लिए सभी समर्थित छवि प्रारूप" %}}

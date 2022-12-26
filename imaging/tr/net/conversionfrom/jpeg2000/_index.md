@@ -1,5 +1,5 @@
 ﻿---
-title: JPEG2000 biçimini başka biçimlere dönüştürün 
+title: .NET Aracılığıyla JPEG2000'ten diğer biçimlere dönüştürün 
 weight: 3920
 url: /tr/net/conversion/from/jpeg2000 
 lang: tr
@@ -9,7 +9,7 @@ description: Aspose.Imaging'i kullanarak JPEG2000 biçimini kolayca başka biçi
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C# Yoluyla Görüntü Dosyaları Dönüştürme" h2="JPEG2000 biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET Yoluyla JPEG2000'den Görüntü Dosyaları Dönüştürme" h2="JPEG2000 biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="JPEG2000'den dönüştürülecek desteklenen tüm resim biçimleri" %}}

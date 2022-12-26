@@ -1,5 +1,5 @@
 ﻿---
-title: Konvertuoti iš DICOM į kitus formatus 
+title: Konvertuoti iš DICOM į kitus formatus per Java 
 weight: 3920
 url: /lt/java/conversion/from/dicom 
 lang: lt
@@ -9,7 +9,7 @@ description: Naudodami Aspose.Imaging galite lengvai konvertuoti iš DICOM į ki
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas naudojant C#" h2="Konvertuoti iš DICOM į kitus formatus" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas iš DICOM naudojant Java" h2="Konvertuoti iš DICOM į kitus formatus" downloadText="parsisiųsti" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai konvertuoti iš DICOM" %}}

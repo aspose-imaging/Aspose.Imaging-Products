@@ -1,5 +1,5 @@
 ﻿---
-title: המר ל-PNG מפורמט אחר 
+title: המר ל-PNG מפורמט אחר .NET 
 weight: 3920
 url: /he/net/conversion/to/png 
 lang: he
@@ -9,7 +9,7 @@ description: באמצעות Aspose.Imaging תוכל להמיר בקלות ל-PNG
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה באמצעות C#" h2="המר ל-PNG מפורמט אחר" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="המרת קובצי תמונה ל-PNG דרך .NET" h2="המר ל-PNG מפורמט אחר" downloadText="הורד" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה ל-PNG" %}}

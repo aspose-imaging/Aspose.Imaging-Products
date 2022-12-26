@@ -1,5 +1,5 @@
 ﻿---
-title: Konvertera till HTML från ett annat format 
+title: Konvertera till HTML från ett annat format via Java 
 weight: 3920
 url: /sv/java/conversion/to/html 
 lang: sv
@@ -9,7 +9,7 @@ description: Med Aspose.Imaging kan du enkelt konvertera till HTML från andra f
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertering av bildfiler via C#" h2="Konvertera till HTML från ett annat format" downloadText="Ladda ner" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertering av bildfiler till HTML via Java" h2="Konvertera till HTML från ett annat format" downloadText="Ladda ner" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alla bildformat som stöds att konvertera från till HTML" %}}

@@ -1,5 +1,5 @@
 ﻿---
-title: Konwertuj z WEBP na inne formaty 
+title: Konwertuj z WEBP na inne formaty przez .NET 
 weight: 3920
 url: /pl/net/conversion/from/webp 
 lang: pl
@@ -9,7 +9,7 @@ description: Za pomocą Aspose.Imaging możesz łatwo konwertować z WEBP na inn
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwersja plików obrazów przez C#" h2="Konwertuj z WEBP na inne formaty" downloadText="Ściągnij" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwersja plików graficznych z WEBP przez .NET" h2="Konwertuj z WEBP na inne formaty" downloadText="Ściągnij" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty obrazów do przekonwertowania z WEBP" %}}

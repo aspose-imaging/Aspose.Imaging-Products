@@ -1,5 +1,5 @@
 ﻿---
-title: Konvertieren Sie von anderen Formaten in SVGZ 
+title: Konvertieren Sie von anderen Formaten in SVGZ über Java 
 weight: 3920
 url: /de/java/conversion/to/svgz 
 lang: de
@@ -9,7 +9,7 @@ description: Mit Aspose.Imaging können Sie problemlos von anderen Formaten in S
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertierung von Bilddateien über C#" h2="Konvertieren Sie von anderen Formaten in SVGZ" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertierung von Bilddateien in SVGZ über Java" h2="Konvertieren Sie von anderen Formaten in SVGZ" downloadText="Download" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bildformate zum Konvertieren in SVGZ" %}}

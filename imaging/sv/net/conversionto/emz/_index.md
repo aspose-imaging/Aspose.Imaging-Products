@@ -1,5 +1,5 @@
 ﻿---
-title: Konvertera till EMZ från ett annat format 
+title: Konvertera till EMZ från ett annat format via .NET 
 weight: 3920
 url: /sv/net/conversion/to/emz 
 lang: sv
@@ -9,7 +9,7 @@ description: Med Aspose.Imaging kan du enkelt konvertera till EMZ från andra fo
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertering av bildfiler via C#" h2="Konvertera till EMZ från ett annat format" downloadText="Ladda ner" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertering av bildfiler till EMZ via .NET" h2="Konvertera till EMZ från ett annat format" downloadText="Ladda ner" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alla bildformat som stöds att konvertera från till EMZ" %}}

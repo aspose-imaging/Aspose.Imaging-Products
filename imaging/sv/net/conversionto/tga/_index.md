@@ -1,5 +1,5 @@
 ﻿---
-title: Konvertera till TGA från ett annat format 
+title: Konvertera till TGA från ett annat format via .NET 
 weight: 3920
 url: /sv/net/conversion/to/tga 
 lang: sv
@@ -9,7 +9,7 @@ description: Med Aspose.Imaging kan du enkelt konvertera till TGA från andra fo
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertering av bildfiler via C#" h2="Konvertera till TGA från ett annat format" downloadText="Ladda ner" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertering av bildfiler till TGA via .NET" h2="Konvertera till TGA från ett annat format" downloadText="Ladda ner" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alla bildformat som stöds att konvertera från till TGA" %}}

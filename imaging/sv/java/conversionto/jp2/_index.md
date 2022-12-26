@@ -1,5 +1,5 @@
 ﻿---
-title: Konvertera till JP2 från ett annat format 
+title: Konvertera till JP2 från ett annat format via Java 
 weight: 3920
 url: /sv/java/conversion/to/jp2 
 lang: sv
@@ -9,7 +9,7 @@ description: Med Aspose.Imaging kan du enkelt konvertera till JP2 från andra fo
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertering av bildfiler via C#" h2="Konvertera till JP2 från ett annat format" downloadText="Ladda ner" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertering av bildfiler till JP2 via Java" h2="Konvertera till JP2 från ett annat format" downloadText="Ladda ner" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alla bildformat som stöds att konvertera från till JP2" %}}

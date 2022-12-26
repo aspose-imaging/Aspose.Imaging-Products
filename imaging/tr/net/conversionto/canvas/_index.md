@@ -1,5 +1,5 @@
 ﻿---
-title: Başka biçimlerden CANVAS biçimine dönüştürün 
+title: Başka biçimlerden CANVAS biçimine dönüştürün .NET 
 weight: 3920
 url: /tr/net/conversion/to/canvas 
 lang: tr
@@ -9,7 +9,7 @@ description: Aspose.Imaging'i kullanarak başka biçimlerden CANVAS biçimine ko
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C# Yoluyla Görüntü Dosyaları Dönüştürme" h2="Başka biçimlerden CANVAS biçimine dönüştürün" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET Yoluyla Görüntü Dosyaları Dönüştürme" h2="Başka biçimlerden CANVAS biçimine dönüştürün" downloadText="İndirmek" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="CANVAS biçimine dönüştürülecek desteklenen tüm resim biçimleri" %}}

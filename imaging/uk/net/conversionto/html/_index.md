@@ -1,5 +1,5 @@
 ﻿---
-title: Перетворити в HTML з інших форматів 
+title: Перетворити в HTML з інших форматів за допомогою .NET 
 weight: 3920
 url: /uk/net/conversion/to/html 
 lang: uk
@@ -9,7 +9,7 @@ description: За допомогою Aspose.Imaging ви можете легко
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Перетворення файлів зображень через C#" h2="Перетворити в HTML з інших форматів" downloadText="Завантажити" >}}
+{{< blocks/products/pf/feature-page-header h1="Перетворення файлів зображень в HTML за допомогою .NET" h2="Перетворити в HTML з інших форматів" downloadText="Завантажити" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для конвертації у HTML" %}}

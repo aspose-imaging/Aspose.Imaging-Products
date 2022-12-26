@@ -1,5 +1,5 @@
 ﻿---
-title: SVG biçimini başka biçimlere dönüştürün 
+title: Java Aracılığıyla SVG'ten diğer biçimlere dönüştürün 
 weight: 3920
 url: /tr/java/conversion/from/svg 
 lang: tr
@@ -9,7 +9,7 @@ description: Aspose.Imaging'i kullanarak SVG biçimini kolayca başka biçimlere
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C# Yoluyla Görüntü Dosyaları Dönüştürme" h2="SVG biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1="Java Yoluyla SVG'den Görüntü Dosyaları Dönüştürme" h2="SVG biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="SVG'den dönüştürülecek desteklenen tüm resim biçimleri" %}}

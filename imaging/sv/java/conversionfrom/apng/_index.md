@@ -1,5 +1,5 @@
 ﻿---
-title: Konvertera från APNG till ett annat format 
+title: Konvertera från APNG till andra format via Java 
 weight: 3920
 url: /sv/java/conversion/from/apng 
 lang: sv
@@ -9,7 +9,7 @@ description: Med Aspose.Imaging kan du enkelt konvertera från APNG till ett ann
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertering av bildfiler via C#" h2="Konvertera från APNG till ett annat format" downloadText="Ladda ner" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertering av bildfiler från APNG via Java" h2="Konvertera från APNG till ett annat format" downloadText="Ladda ner" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alla bildformat som stöds för att konvertera från APNG" %}}

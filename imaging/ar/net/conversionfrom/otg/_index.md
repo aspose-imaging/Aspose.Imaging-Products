@@ -1,5 +1,5 @@
 ﻿---
-title: تحويل من OTG إلى صيغ أخرى 
+title: حوِّل من OTG إلى تنسيقات أخرى عبر .NET 
 weight: 3920
 url: /ar/net/conversion/from/otg 
 lang: ar
@@ -9,7 +9,7 @@ description: باستخدام Aspose.Imaging ، يمكنك بسهولة التح
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل ملفات الصور عبر C #" h2="تحويل من OTG إلى صيغ أخرى" downloadText="تحميل" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل ملفات الصور من OTG عبر .NET" h2="تحويل من OTG إلى صيغ أخرى" downloadText="تحميل" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="جميع تنسيقات الصور المدعومة للتحويل من OTG" %}}

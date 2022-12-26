@@ -1,5 +1,5 @@
 ﻿---
-title: Başka biçimlerden WEBP biçimine dönüştürün 
+title: Başka biçimlerden WEBP biçimine dönüştürün .NET 
 weight: 3920
 url: /tr/net/conversion/to/webp 
 lang: tr
@@ -9,7 +9,7 @@ description: Aspose.Imaging'i kullanarak başka biçimlerden WEBP biçimine kola
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C# Yoluyla Görüntü Dosyaları Dönüştürme" h2="Başka biçimlerden WEBP biçimine dönüştürün" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET Yoluyla Görüntü Dosyaları Dönüştürme" h2="Başka biçimlerden WEBP biçimine dönüştürün" downloadText="İndirmek" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="WEBP biçimine dönüştürülecek desteklenen tüm resim biçimleri" %}}

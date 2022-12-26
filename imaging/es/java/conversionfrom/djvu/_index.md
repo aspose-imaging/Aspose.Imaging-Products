@@ -1,5 +1,5 @@
 ﻿---
-title: Convertir de DJVU a otros formatos 
+title: Convertir de DJVU vers d'autres formats via Java 
 weight: 3920
 url: /es/java/conversion/from/djvu 
 lang: es
@@ -9,7 +9,7 @@ description: Usando Aspose.Imaging puede convertir fácilmente de DJVU a otros f
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversión de archivos de imagen a través de C#" h2="Convertir de DJVU a otros formatos" downloadText="Descargar" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversión de archivos de imagen de DJVU a través de Java" h2="Convertir de DJVU a otros formatos" downloadText="Descargar" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Todos los formatos de imagen admitidos para convertir desde DJVU" %}}

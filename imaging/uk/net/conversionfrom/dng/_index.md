@@ -1,5 +1,5 @@
 ﻿---
-title: Конвертувати з DNG в інші формати 
+title: Конвертувати з DNG в інші формати за допомогою .NET 
 weight: 3920
 url: /uk/net/conversion/from/dng 
 lang: uk
@@ -9,7 +9,7 @@ description: За допомогою Aspose.Imaging ви можете легко
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Перетворення файлів зображень через C#" h2="Конвертувати з DNG в інші формати" downloadText="Завантажити" >}}
+{{< blocks/products/pf/feature-page-header h1="Перетворення файлів зображень з DNG за допомогою .NET" h2="Конвертувати з DNG в інші формати" downloadText="Завантажити" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для конвертації з DNG" %}}

@@ -1,5 +1,5 @@
 ﻿---
-title: Převést z JPEG2000 do jiných formátů 
+title: Převést z JPEG2000 do jiných formátů přes .NET 
 weight: 3920
 url: /cs/net/conversion/from/jpeg2000 
 lang: cs
@@ -9,7 +9,7 @@ description: Pomocí Aspose.Imaging můžete snadno převést z formátu JPEG200
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů přes C#" h2="Převést z JPEG2000 do jiných formátů" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů z formátu JPEG2000 prostřednictvím .NET" h2="Převést z JPEG2000 do jiných formátů" downloadText="Stažení" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu z formátu JPEG2000" %}}

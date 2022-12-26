@@ -1,5 +1,5 @@
 ﻿---
-title: המר מ-JPG לפורמט אחר 
+title: המר מ-JPG לפורמטים אחרים דרך Java 
 weight: 3920
 url: /he/java/conversion/from/jpg 
 lang: he
@@ -9,7 +9,7 @@ description: באמצעות Aspose.Imaging תוכל להמיר בקלות מ-JPG
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה באמצעות C#" h2="המר מ-JPG לפורמט אחר" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה מ-JPG דרך Java" h2="המר מ-JPG לפורמט אחר" downloadText="הורד" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה מ-JPG" %}}

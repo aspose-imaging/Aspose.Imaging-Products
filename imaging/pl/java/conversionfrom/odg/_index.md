@@ -1,5 +1,5 @@
 ﻿---
-title: Konwertuj z ODG na inne formaty 
+title: Konwertuj z ODG na inne formaty przez Java 
 weight: 3920
 url: /pl/java/conversion/from/odg 
 lang: pl
@@ -9,7 +9,7 @@ description: Za pomocą Aspose.Imaging możesz łatwo konwertować z ODG na inne
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwersja plików obrazów przez C#" h2="Konwertuj z ODG na inne formaty" downloadText="Ściągnij" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwersja plików graficznych z ODG przez Java" h2="Konwertuj z ODG na inne formaty" downloadText="Ściągnij" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty obrazów do przekonwertowania z ODG" %}}

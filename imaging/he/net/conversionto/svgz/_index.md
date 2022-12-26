@@ -1,5 +1,5 @@
 ﻿---
-title: המר ל-SVGZ מפורמט אחר 
+title: המר ל-SVGZ מפורמט אחר .NET 
 weight: 3920
 url: /he/net/conversion/to/svgz 
 lang: he
@@ -9,7 +9,7 @@ description: באמצעות Aspose.Imaging תוכל להמיר בקלות ל-SVG
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה באמצעות C#" h2="המר ל-SVGZ מפורמט אחר" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="המרת קובצי תמונה ל-SVGZ דרך .NET" h2="המר ל-SVGZ מפורמט אחר" downloadText="הורד" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה ל-SVGZ" %}}

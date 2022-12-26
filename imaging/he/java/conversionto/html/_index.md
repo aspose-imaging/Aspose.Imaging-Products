@@ -1,5 +1,5 @@
 ﻿---
-title: המר ל-HTML מפורמט אחר 
+title: המר ל-HTML מפורמט אחר Java 
 weight: 3920
 url: /he/java/conversion/to/html 
 lang: he
@@ -9,7 +9,7 @@ description: באמצעות Aspose.Imaging תוכל להמיר בקלות ל-HTM
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה באמצעות C#" h2="המר ל-HTML מפורמט אחר" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="המרת קובצי תמונה ל-HTML דרך Java" h2="המר ל-HTML מפורמט אחר" downloadText="הורד" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה ל-HTML" %}}

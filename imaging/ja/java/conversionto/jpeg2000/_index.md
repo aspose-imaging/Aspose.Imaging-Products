@@ -1,5 +1,5 @@
 ﻿---
-title: 別の形式から JPEG2000 に変換 
+title: 別の形式から JPEG2000 に変換 Java に 
 weight: 3920
 url: /ja/java/conversion/to/jpeg2000 
 lang: ja
@@ -9,7 +9,7 @@ description: Aspose.Imaging を使用すると、別のフォーマットから 
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C# による画像ファイルの変換" h2="別の形式から JPEG2000 に変換" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1="Java を介した JPEG2000 への画像ファイルの変換" h2="別の形式から JPEG2000 に変換" downloadText="ダウンロード" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="サポートされているすべての画像形式から JPEG2000 に変換" %}}

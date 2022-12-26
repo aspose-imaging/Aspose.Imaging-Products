@@ -1,5 +1,5 @@
 ﻿---
-title: Başka biçimlerden PNG biçimine dönüştürün 
+title: Başka biçimlerden PNG biçimine dönüştürün Java 
 weight: 3920
 url: /tr/java/conversion/to/png 
 lang: tr
@@ -9,7 +9,7 @@ description: Aspose.Imaging'i kullanarak başka biçimlerden PNG biçimine kolay
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C# Yoluyla Görüntü Dosyaları Dönüştürme" h2="Başka biçimlerden PNG biçimine dönüştürün" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1="Java Yoluyla Görüntü Dosyaları Dönüştürme" h2="Başka biçimlerden PNG biçimine dönüştürün" downloadText="İndirmek" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="PNG biçimine dönüştürülecek desteklenen tüm resim biçimleri" %}}

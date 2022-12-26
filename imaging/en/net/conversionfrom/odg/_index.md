@@ -1,5 +1,5 @@
 ﻿---
-title: Convert from ODG to other formats 
+title: Convert from ODG to other formats Via .NET 
 weight: 3920
 url: /net/conversion/from/odg 
 lang: en
@@ -9,7 +9,7 @@ description: Using Aspose.Imaging you can easily convert from ODG to other forma
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Image Files Conversion Via C#" h2="Convert from ODG to other formats" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Image Files Conversion from ODG Via .NET" h2="Convert from ODG to other formats" downloadText="Download" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from ODG" %}}

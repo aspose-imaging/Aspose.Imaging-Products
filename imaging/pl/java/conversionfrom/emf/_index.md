@@ -1,5 +1,5 @@
 ﻿---
-title: Konwertuj z EMF na inne formaty 
+title: Konwertuj z EMF na inne formaty przez Java 
 weight: 3920
 url: /pl/java/conversion/from/emf 
 lang: pl
@@ -9,7 +9,7 @@ description: Za pomocą Aspose.Imaging możesz łatwo konwertować z EMF na inne
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwersja plików obrazów przez C#" h2="Konwertuj z EMF na inne formaty" downloadText="Ściągnij" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwersja plików graficznych z EMF przez Java" h2="Konwertuj z EMF na inne formaty" downloadText="Ściągnij" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty obrazów do przekonwertowania z EMF" %}}

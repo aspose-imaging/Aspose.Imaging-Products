@@ -1,5 +1,5 @@
 ﻿---
-title: التحويل إلى WEBP من تنسيقات أخرى 
+title: التحويل إلى WEBP من تنسيقات أخرى Java 
 weight: 3920
 url: /ar/java/conversion/to/webp 
 lang: ar
@@ -9,7 +9,7 @@ description: باستخدام Aspose.Imaging ، يمكنك بسهولة التح
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل ملفات الصور عبر C #" h2="التحويل إلى WEBP من تنسيقات أخرى" downloadText="تحميل" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل ملفات الصور إلى WEBP عبر Java" h2="التحويل إلى WEBP من تنسيقات أخرى" downloadText="تحميل" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="جميع تنسيقات الصور المدعومة للتحويل منها إلى WEBP" %}}

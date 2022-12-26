@@ -1,5 +1,5 @@
 ﻿---
-title: DICOM biçimini başka biçimlere dönüştürün 
+title: .NET Aracılığıyla DICOM'ten diğer biçimlere dönüştürün 
 weight: 3920
 url: /tr/net/conversion/from/dicom 
 lang: tr
@@ -9,7 +9,7 @@ description: Aspose.Imaging'i kullanarak DICOM biçimini kolayca başka biçimle
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C# Yoluyla Görüntü Dosyaları Dönüştürme" h2="DICOM biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET Yoluyla DICOM'den Görüntü Dosyaları Dönüştürme" h2="DICOM biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="DICOM'den dönüştürülecek desteklenen tüm resim biçimleri" %}}

@@ -1,5 +1,5 @@
 ﻿---
-title: Konversikan dari WMF ke format lain 
+title: Konversikan dari WMF ke format lain Melalui .NET 
 weight: 3920
 url: /id/net/conversion/from/wmf 
 lang: id
@@ -9,7 +9,7 @@ description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi dari
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar Melalui C#" h2="Konversikan dari WMF ke format lain" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar dari WMF Melalui .NET" h2="Konversikan dari WMF ke format lain" downloadText="Unduh" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari WMF" %}}

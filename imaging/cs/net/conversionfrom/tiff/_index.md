@@ -1,5 +1,5 @@
 ﻿---
-title: Převést z TIFF do jiných formátů 
+title: Převést z TIFF do jiných formátů přes .NET 
 weight: 3920
 url: /cs/net/conversion/from/tiff 
 lang: cs
@@ -9,7 +9,7 @@ description: Pomocí Aspose.Imaging můžete snadno převést z formátu TIFF do
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů přes C#" h2="Převést z TIFF do jiných formátů" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů z formátu TIFF prostřednictvím .NET" h2="Převést z TIFF do jiných formátů" downloadText="Stažení" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu z formátu TIFF" %}}

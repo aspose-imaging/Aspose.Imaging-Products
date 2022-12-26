@@ -1,5 +1,5 @@
 ﻿---
-title: המר מ-SVGZ לפורמט אחר 
+title: המר מ-SVGZ לפורמטים אחרים דרך Java 
 weight: 3920
 url: /he/java/conversion/from/svgz 
 lang: he
@@ -9,7 +9,7 @@ description: באמצעות Aspose.Imaging תוכל להמיר בקלות מ-SVG
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה באמצעות C#" h2="המר מ-SVGZ לפורמט אחר" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה מ-SVGZ דרך Java" h2="המר מ-SVGZ לפורמט אחר" downloadText="הורד" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה מ-SVGZ" %}}

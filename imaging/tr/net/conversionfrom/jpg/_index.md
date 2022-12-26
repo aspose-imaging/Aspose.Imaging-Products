@@ -1,5 +1,5 @@
 ﻿---
-title: JPG biçimini başka biçimlere dönüştürün 
+title: .NET Aracılığıyla JPG'ten diğer biçimlere dönüştürün 
 weight: 3920
 url: /tr/net/conversion/from/jpg 
 lang: tr
@@ -9,7 +9,7 @@ description: Aspose.Imaging'i kullanarak JPG biçimini kolayca başka biçimlere
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C# Yoluyla Görüntü Dosyaları Dönüştürme" h2="JPG biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET Yoluyla JPG'den Görüntü Dosyaları Dönüştürme" h2="JPG biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="JPG'den dönüştürülecek desteklenen tüm resim biçimleri" %}}

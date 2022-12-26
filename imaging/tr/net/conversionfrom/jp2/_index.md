@@ -1,5 +1,5 @@
 ﻿---
-title: JP2 biçimini başka biçimlere dönüştürün 
+title: .NET Aracılığıyla JP2'ten diğer biçimlere dönüştürün 
 weight: 3920
 url: /tr/net/conversion/from/jp2 
 lang: tr
@@ -9,7 +9,7 @@ description: Aspose.Imaging'i kullanarak JP2 biçimini kolayca başka biçimlere
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C# Yoluyla Görüntü Dosyaları Dönüştürme" h2="JP2 biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET Yoluyla JP2'den Görüntü Dosyaları Dönüştürme" h2="JP2 biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="JP2'den dönüştürülecek desteklenen tüm resim biçimleri" %}}

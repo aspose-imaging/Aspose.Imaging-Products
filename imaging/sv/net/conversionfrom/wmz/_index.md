@@ -1,5 +1,5 @@
 ﻿---
-title: Konvertera från WMZ till ett annat format 
+title: Konvertera från WMZ till andra format via .NET 
 weight: 3920
 url: /sv/net/conversion/from/wmz 
 lang: sv
@@ -9,7 +9,7 @@ description: Med Aspose.Imaging kan du enkelt konvertera från WMZ till ett anna
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertering av bildfiler via C#" h2="Konvertera från WMZ till ett annat format" downloadText="Ladda ner" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertering av bildfiler från WMZ via .NET" h2="Konvertera från WMZ till ett annat format" downloadText="Ladda ner" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alla bildformat som stöds för att konvertera från WMZ" %}}

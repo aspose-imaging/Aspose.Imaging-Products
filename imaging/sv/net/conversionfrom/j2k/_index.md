@@ -1,5 +1,5 @@
 ﻿---
-title: Konvertera från J2K till ett annat format 
+title: Konvertera från J2K till andra format via .NET 
 weight: 3920
 url: /sv/net/conversion/from/j2k 
 lang: sv
@@ -9,7 +9,7 @@ description: Med Aspose.Imaging kan du enkelt konvertera från J2K till ett anna
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertering av bildfiler via C#" h2="Konvertera från J2K till ett annat format" downloadText="Ladda ner" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertering av bildfiler från J2K via .NET" h2="Konvertera från J2K till ett annat format" downloadText="Ladda ner" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alla bildformat som stöds för att konvertera från J2K" %}}

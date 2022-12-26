@@ -1,5 +1,5 @@
 ﻿---
-title: DJVU biçimini başka biçimlere dönüştürün 
+title: .NET Aracılığıyla DJVU'ten diğer biçimlere dönüştürün 
 weight: 3920
 url: /tr/net/conversion/from/djvu 
 lang: tr
@@ -9,7 +9,7 @@ description: Aspose.Imaging'i kullanarak DJVU biçimini kolayca başka biçimler
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C# Yoluyla Görüntü Dosyaları Dönüştürme" h2="DJVU biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET Yoluyla DJVU'den Görüntü Dosyaları Dönüştürme" h2="DJVU biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="DJVU'den dönüştürülecek desteklenen tüm resim biçimleri" %}}

@@ -1,5 +1,5 @@
 ﻿---
-title: Converter de PNG para outros formatos 
+title: Converta de PNG para outros formatos via Java 
 weight: 3920
 url: /pt/java/conversion/from/png 
 lang: pt
@@ -9,7 +9,7 @@ description: Usando Aspose.Imaging você pode facilmente converter de PNG para o
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversão de Arquivos de Imagem Via C#" h2="Converter de PNG para outros formatos" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversão de arquivos de imagem de PNG via Java" h2="Converter de PNG para outros formatos" downloadText="Download" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Todos os formatos de imagem compatíveis para conversão de PNG" %}}

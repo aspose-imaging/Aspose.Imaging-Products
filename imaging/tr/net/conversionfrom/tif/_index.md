@@ -1,5 +1,5 @@
 ﻿---
-title: TIF biçimini başka biçimlere dönüştürün 
+title: .NET Aracılığıyla TIF'ten diğer biçimlere dönüştürün 
 weight: 3920
 url: /tr/net/conversion/from/tif 
 lang: tr
@@ -9,7 +9,7 @@ description: Aspose.Imaging'i kullanarak TIF biçimini kolayca başka biçimlere
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C# Yoluyla Görüntü Dosyaları Dönüştürme" h2="TIF biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET Yoluyla TIF'den Görüntü Dosyaları Dönüştürme" h2="TIF biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="TIF'den dönüştürülecek desteklenen tüm resim biçimleri" %}}

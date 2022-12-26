@@ -1,5 +1,5 @@
 ﻿---
-title: ODG biçimini başka biçimlere dönüştürün 
+title: Java Aracılığıyla ODG'ten diğer biçimlere dönüştürün 
 weight: 3920
 url: /tr/java/conversion/from/odg 
 lang: tr
@@ -9,7 +9,7 @@ description: Aspose.Imaging'i kullanarak ODG biçimini kolayca başka biçimlere
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C# Yoluyla Görüntü Dosyaları Dönüştürme" h2="ODG biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1="Java Yoluyla ODG'den Görüntü Dosyaları Dönüştürme" h2="ODG biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="ODG'den dönüştürülecek desteklenen tüm resim biçimleri" %}}

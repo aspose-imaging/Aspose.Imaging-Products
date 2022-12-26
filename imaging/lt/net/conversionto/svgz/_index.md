@@ -1,5 +1,5 @@
 ﻿---
-title: Konvertuoti į SVGZ iš kitų formatų 
+title: Konvertuoti į SVGZ iš kitų formatų naudojant .NET 
 weight: 3920
 url: /lt/net/conversion/to/svgz 
 lang: lt
@@ -9,7 +9,7 @@ description: Naudodami Aspose.Imaging galite lengvai konvertuoti į SVGZ iš kit
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas naudojant C#" h2="Konvertuoti į SVGZ iš kitų formatų" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas į SVGZ naudojant .NET" h2="Konvertuoti į SVGZ iš kitų formatų" downloadText="parsisiųsti" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai, kuriuos galima konvertuoti į SVGZ" %}}

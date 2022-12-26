@@ -1,5 +1,5 @@
 ﻿---
-title: Converteer van WMF naar een ander formaat 
+title: Converteren van WMF naar andere formaten Via Java 
 weight: 3920
 url: /nl/java/conversion/from/wmf 
 lang: nl
@@ -9,7 +9,7 @@ description: Met behulp van Aspose.Imaging kunt u eenvoudig converteren van WMF 
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversie van afbeeldingsbestanden via C#" h2="Converteer van WMF naar een ander formaat" downloadText="Downloaden" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversie van afbeeldingsbestanden van WMF via Java" h2="Converteer van WMF naar een ander formaat" downloadText="Downloaden" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde afbeeldingsindelingen om te converteren van WMF" %}}

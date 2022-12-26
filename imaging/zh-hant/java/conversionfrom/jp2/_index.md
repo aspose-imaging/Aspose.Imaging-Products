@@ -1,5 +1,5 @@
 ﻿---
-title: 從 JP2 轉換為其他格式 
+title: 通過 Java 從 JP2 轉換為其他格式 
 weight: 3920
 url: /zh-hant/java/conversion/from/jp2 
 lang: zh-hant
@@ -9,7 +9,7 @@ description: 使用 Aspose.Imaging，您可以輕鬆地將 JP2 轉換為其他�
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="通過 C# 轉換圖像文件" h2="從 JP2 轉換為其他格式" downloadText="下載" >}}
+{{< blocks/products/pf/feature-page-header h1="通過 Java 從 JP2 轉換圖像文件" h2="從 JP2 轉換為其他格式" downloadText="下載" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="要從 JP2 轉換的所有支持的圖像格式" %}}

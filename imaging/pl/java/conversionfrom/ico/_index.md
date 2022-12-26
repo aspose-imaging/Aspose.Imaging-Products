@@ -1,5 +1,5 @@
 ﻿---
-title: Konwertuj z ICO na inne formaty 
+title: Konwertuj z ICO na inne formaty przez Java 
 weight: 3920
 url: /pl/java/conversion/from/ico 
 lang: pl
@@ -9,7 +9,7 @@ description: Za pomocą Aspose.Imaging możesz łatwo konwertować z ICO na inne
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwersja plików obrazów przez C#" h2="Konwertuj z ICO na inne formaty" downloadText="Ściągnij" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwersja plików graficznych z ICO przez Java" h2="Konwertuj z ICO na inne formaty" downloadText="Ściągnij" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty obrazów do przekonwertowania z ICO" %}}

@@ -1,5 +1,5 @@
 ﻿---
-title: המר מ-WMF לפורמט אחר 
+title: המר מ-WMF לפורמטים אחרים דרך .NET 
 weight: 3920
 url: /he/net/conversion/from/wmf 
 lang: he
@@ -9,7 +9,7 @@ description: באמצעות Aspose.Imaging תוכל להמיר בקלות מ-WMF
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה באמצעות C#" h2="המר מ-WMF לפורמט אחר" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה מ-WMF דרך .NET" h2="המר מ-WMF לפורמט אחר" downloadText="הורד" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה מ-WMF" %}}

@@ -1,5 +1,5 @@
 ﻿---
-title: Converteren naar WEBP vanuit een ander formaat 
+title: Converteren naar WEBP vanuit een ander formaat via .NET 
 weight: 3920
 url: /nl/net/conversion/to/webp 
 lang: nl
@@ -9,7 +9,7 @@ description: Met behulp van Aspose.Imaging kunt u eenvoudig converteren naar WEB
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversie van afbeeldingsbestanden via C#" h2="Converteren naar WEBP vanuit een ander formaat" downloadText="Downloaden" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversie van afbeeldingsbestanden naar WEBP via .NET" h2="Converteren naar WEBP vanuit een ander formaat" downloadText="Downloaden" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde afbeeldingsindelingen om van naar WEBP te converteren" %}}

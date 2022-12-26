@@ -1,5 +1,5 @@
 ﻿---
-title: Перетворити в APNG з інших форматів 
+title: Перетворити в APNG з інших форматів за допомогою .NET 
 weight: 3920
 url: /uk/net/conversion/to/apng 
 lang: uk
@@ -9,7 +9,7 @@ description: За допомогою Aspose.Imaging ви можете легко
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Перетворення файлів зображень через C#" h2="Перетворити в APNG з інших форматів" downloadText="Завантажити" >}}
+{{< blocks/products/pf/feature-page-header h1="Перетворення файлів зображень в APNG за допомогою .NET" h2="Перетворити в APNG з інших форматів" downloadText="Завантажити" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для конвертації у APNG" %}}

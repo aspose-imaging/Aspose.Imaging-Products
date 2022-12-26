@@ -1,5 +1,5 @@
 ﻿---
-title: DICOM から別の形式に変換する 
+title: .NET 経由で DICOM から他の形式に変換します 
 weight: 3920
 url: /ja/net/conversion/from/dicom 
 lang: ja
@@ -9,7 +9,7 @@ description: Aspose.Imaging を使用すると、DICOM から別のフォーマ�
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C# による画像ファイルの変換" h2="DICOM から別の形式に変換する" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET による DICOM からの画像ファイルの変換" h2="DICOM から別の形式に変換する" downloadText="ダウンロード" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="DICOM から変換する、サポートされているすべての画像形式" %}}

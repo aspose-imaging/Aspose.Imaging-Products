@@ -1,5 +1,5 @@
 ﻿---
-title: Converti da TIF in altri formati 
+title: Converti da TIF in altri formati tramite Java 
 weight: 3920
 url: /it/java/conversion/from/tif 
 lang: it
@@ -9,7 +9,7 @@ description: Usando Aspose.Imaging puoi facilmente convertire da TIF ad altri fo
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversione di file immagine tramite C#" h2="Converti da TIF in altri formati" downloadText="Scarica" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversione di file immagine da TIF tramite Java" h2="Converti da TIF in altri formati" downloadText="Scarica" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tutti i formati immagine supportati per la conversione da TIF" %}}

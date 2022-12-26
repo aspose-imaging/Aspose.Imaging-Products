@@ -1,5 +1,5 @@
 ﻿---
-title: APNG biçimini başka biçimlere dönüştürün 
+title: Java Aracılığıyla APNG'ten diğer biçimlere dönüştürün 
 weight: 3920
 url: /tr/java/conversion/from/apng 
 lang: tr
@@ -9,7 +9,7 @@ description: Aspose.Imaging'i kullanarak APNG biçimini kolayca başka biçimler
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C# Yoluyla Görüntü Dosyaları Dönüştürme" h2="APNG biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1="Java Yoluyla APNG'den Görüntü Dosyaları Dönüştürme" h2="APNG biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="APNG'den dönüştürülecek desteklenen tüm resim biçimleri" %}}

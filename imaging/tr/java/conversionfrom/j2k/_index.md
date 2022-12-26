@@ -1,5 +1,5 @@
 ﻿---
-title: J2K biçimini başka biçimlere dönüştürün 
+title: Java Aracılığıyla J2K'ten diğer biçimlere dönüştürün 
 weight: 3920
 url: /tr/java/conversion/from/j2k 
 lang: tr
@@ -9,7 +9,7 @@ description: Aspose.Imaging'i kullanarak J2K biçimini kolayca başka biçimlere
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C# Yoluyla Görüntü Dosyaları Dönüştürme" h2="J2K biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1="Java Yoluyla J2K'den Görüntü Dosyaları Dönüştürme" h2="J2K biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="J2K'den dönüştürülecek desteklenen tüm resim biçimleri" %}}

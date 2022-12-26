@@ -1,5 +1,5 @@
 ﻿---
-title: BMP biçimini başka biçimlere dönüştürün 
+title: Java Aracılığıyla BMP'ten diğer biçimlere dönüştürün 
 weight: 3920
 url: /tr/java/conversion/from/bmp 
 lang: tr
@@ -9,7 +9,7 @@ description: Aspose.Imaging'i kullanarak BMP biçimini kolayca başka biçimlere
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C# Yoluyla Görüntü Dosyaları Dönüştürme" h2="BMP biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1="Java Yoluyla BMP'den Görüntü Dosyaları Dönüştürme" h2="BMP biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="BMP'den dönüştürülecek desteklenen tüm resim biçimleri" %}}

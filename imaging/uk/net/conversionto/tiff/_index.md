@@ -1,5 +1,5 @@
 ﻿---
-title: Перетворити в TIFF з інших форматів 
+title: Перетворити в TIFF з інших форматів за допомогою .NET 
 weight: 3920
 url: /uk/net/conversion/to/tiff 
 lang: uk
@@ -9,7 +9,7 @@ description: За допомогою Aspose.Imaging ви можете легко
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Перетворення файлів зображень через C#" h2="Перетворити в TIFF з інших форматів" downloadText="Завантажити" >}}
+{{< blocks/products/pf/feature-page-header h1="Перетворення файлів зображень в TIFF за допомогою .NET" h2="Перетворити в TIFF з інших форматів" downloadText="Завантажити" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для конвертації у TIFF" %}}

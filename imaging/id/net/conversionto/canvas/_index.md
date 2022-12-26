@@ -1,5 +1,5 @@
 ﻿---
-title: Konversikan ke CANVAS dari format lain 
+title: Konversikan ke CANVAS dari format lain Melalui .NET 
 weight: 3920
 url: /id/net/conversion/to/canvas 
 lang: id
@@ -9,7 +9,7 @@ description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi ke C
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar Melalui C#" h2="Konversikan ke CANVAS dari format lain" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar ke CANVAS Melalui .NET" h2="Konversikan ke CANVAS dari format lain" downloadText="Unduh" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari ke CANVAS" %}}

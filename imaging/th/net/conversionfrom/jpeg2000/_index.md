@@ -1,5 +1,5 @@
 ﻿---
-title: แปลงจาก JPEG2000 เป็นรูปแบบอื่น 
+title: แปลงจาก JPEG2000 เป็นรูปแบบอื่นผ่าน .NET 
 weight: 3920
 url: /th/net/conversion/from/jpeg2000 
 lang: th
@@ -9,7 +9,7 @@ description: เมื่อใช้ Aspose.Imaging คุณสามารถ
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="การแปลงไฟล์ภาพผ่าน C#" h2="แปลงจาก JPEG2000 เป็นรูปแบบอื่น" downloadText="ดาวน์โหลด" >}}
+{{< blocks/products/pf/feature-page-header h1="การแปลงไฟล์รูปภาพจาก JPEG2000 ผ่าน .NET" h2="แปลงจาก JPEG2000 เป็นรูปแบบอื่น" downloadText="ดาวน์โหลด" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="รูปแบบภาพที่รองรับทั้งหมดที่จะแปลงจาก JPEG2000" %}}

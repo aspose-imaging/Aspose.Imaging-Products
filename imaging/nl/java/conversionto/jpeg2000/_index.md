@@ -1,5 +1,5 @@
 ﻿---
-title: Converteren naar JPEG2000 vanuit een ander formaat 
+title: Converteren naar JPEG2000 vanuit een ander formaat via Java 
 weight: 3920
 url: /nl/java/conversion/to/jpeg2000 
 lang: nl
@@ -9,7 +9,7 @@ description: Met behulp van Aspose.Imaging kunt u eenvoudig converteren naar JPE
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversie van afbeeldingsbestanden via C#" h2="Converteren naar JPEG2000 vanuit een ander formaat" downloadText="Downloaden" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversie van afbeeldingsbestanden naar JPEG2000 via Java" h2="Converteren naar JPEG2000 vanuit een ander formaat" downloadText="Downloaden" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde afbeeldingsindelingen om van naar JPEG2000 te converteren" %}}

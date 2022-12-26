@@ -1,5 +1,5 @@
 ﻿---
-title: JPEG2000 से दूसरे फ़ॉर्मैट में बदलें 
+title: .NET के माध्यम से JPEG2000 से अन्य प्रारूपों में कनवर्ट करें 
 weight: 3920
 url: /hi/net/conversion/from/jpeg2000 
 lang: hi
@@ -9,7 +9,7 @@ description: Aspose.Imaging का उपयोग करके आप आसा
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="सी # के माध्यम से छवि फ़ाइलें रूपांतरण" h2="JPEG2000 से दूसरे फ़ॉर्मैट में बदलें" downloadText="डाउनलोड" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET के माध्यम से JPEG2000 से छवि फ़ाइलों का रूपांतरण" h2="JPEG2000 से दूसरे फ़ॉर्मैट में बदलें" downloadText="डाउनलोड" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="JPEG2000 से कनवर्ट करने के लिए सभी समर्थित छवि प्रारूप" %}}

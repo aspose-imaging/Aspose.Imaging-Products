@@ -1,5 +1,5 @@
 ﻿---
-title: التحويل إلى ICO من تنسيقات أخرى 
+title: التحويل إلى ICO من تنسيقات أخرى .NET 
 weight: 3920
 url: /ar/net/conversion/to/ico 
 lang: ar
@@ -9,7 +9,7 @@ description: باستخدام Aspose.Imaging ، يمكنك بسهولة التح
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل ملفات الصور عبر C #" h2="التحويل إلى ICO من تنسيقات أخرى" downloadText="تحميل" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل ملفات الصور إلى ICO عبر .NET" h2="التحويل إلى ICO من تنسيقات أخرى" downloadText="تحميل" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="جميع تنسيقات الصور المدعومة للتحويل منها إلى ICO" %}}

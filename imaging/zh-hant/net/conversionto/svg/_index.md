@@ -1,5 +1,5 @@
 ﻿---
-title: 從其他格式轉換為 SVG 
+title: 從其他格式轉換為 SVG 通過 .NET 
 weight: 3920
 url: /zh-hant/net/conversion/to/svg 
 lang: zh-hant
@@ -9,7 +9,7 @@ description: 使用 Aspose.Imaging，您可以輕鬆地將其他格式轉換為 
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="通過 C# 轉換圖像文件" h2="從其他格式轉換為 SVG" downloadText="下載" >}}
+{{< blocks/products/pf/feature-page-header h1="通過 .NET 將圖像文件轉換為 SVG" h2="從其他格式轉換為 SVG" downloadText="下載" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="所有支持的圖像格式轉換為 SVG" %}}

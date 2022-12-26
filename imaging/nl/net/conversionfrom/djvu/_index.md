@@ -1,5 +1,5 @@
 ﻿---
-title: Converteer van DJVU naar een ander formaat 
+title: Converteren van DJVU naar andere formaten Via .NET 
 weight: 3920
 url: /nl/net/conversion/from/djvu 
 lang: nl
@@ -9,7 +9,7 @@ description: Met behulp van Aspose.Imaging kunt u eenvoudig converteren van DJVU
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversie van afbeeldingsbestanden via C#" h2="Converteer van DJVU naar een ander formaat" downloadText="Downloaden" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversie van afbeeldingsbestanden van DJVU via .NET" h2="Converteer van DJVU naar een ander formaat" downloadText="Downloaden" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde afbeeldingsindelingen om te converteren van DJVU" %}}

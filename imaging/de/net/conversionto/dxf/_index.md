@@ -1,5 +1,5 @@
 ﻿---
-title: Konvertieren Sie von anderen Formaten in DXF 
+title: Konvertieren Sie von anderen Formaten in DXF über .NET 
 weight: 3920
 url: /de/net/conversion/to/dxf 
 lang: de
@@ -9,7 +9,7 @@ description: Mit Aspose.Imaging können Sie problemlos von anderen Formaten in D
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertierung von Bilddateien über C#" h2="Konvertieren Sie von anderen Formaten in DXF" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertierung von Bilddateien in DXF über .NET" h2="Konvertieren Sie von anderen Formaten in DXF" downloadText="Download" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bildformate zum Konvertieren in DXF" %}}

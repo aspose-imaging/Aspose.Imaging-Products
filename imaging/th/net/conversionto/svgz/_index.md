@@ -1,5 +1,5 @@
 ﻿---
-title: แปลงเป็น SVGZ จากรูปแบบอื่น 
+title: แปลงเป็น SVGZ จากรูปแบบอื่น .NET 
 weight: 3920
 url: /th/net/conversion/to/svgz 
 lang: th
@@ -9,7 +9,7 @@ description: เมื่อใช้ Aspose.Imaging คุณสามารถ
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="การแปลงไฟล์ภาพผ่าน C#" h2="แปลงเป็น SVGZ จากรูปแบบอื่น" downloadText="ดาวน์โหลด" >}}
+{{< blocks/products/pf/feature-page-header h1="การแปลงไฟล์รูปภาพเป็น SVGZ ผ่าน .NET" h2="แปลงเป็น SVGZ จากรูปแบบอื่น" downloadText="ดาวน์โหลด" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="รูปแบบรูปภาพที่รองรับทั้งหมดเพื่อแปลงจากเป็น SVGZ" %}}

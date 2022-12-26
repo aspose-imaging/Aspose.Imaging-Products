@@ -1,5 +1,5 @@
 ﻿---
-title: แปลงจาก APNG เป็นรูปแบบอื่น 
+title: แปลงจาก APNG เป็นรูปแบบอื่นผ่าน .NET 
 weight: 3920
 url: /th/net/conversion/from/apng 
 lang: th
@@ -9,7 +9,7 @@ description: เมื่อใช้ Aspose.Imaging คุณสามารถ
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="การแปลงไฟล์ภาพผ่าน C#" h2="แปลงจาก APNG เป็นรูปแบบอื่น" downloadText="ดาวน์โหลด" >}}
+{{< blocks/products/pf/feature-page-header h1="การแปลงไฟล์รูปภาพจาก APNG ผ่าน .NET" h2="แปลงจาก APNG เป็นรูปแบบอื่น" downloadText="ดาวน์โหลด" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="รูปแบบภาพที่รองรับทั้งหมดที่จะแปลงจาก APNG" %}}

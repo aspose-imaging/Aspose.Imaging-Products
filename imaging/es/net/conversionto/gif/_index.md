@@ -1,5 +1,5 @@
 ﻿---
-title: Convertir a GIF desde otros formatos 
+title: Convertir a GIF desde otros formatos de .NET 
 weight: 3920
 url: /es/net/conversion/to/gif 
 lang: es
@@ -9,7 +9,7 @@ description: Usando Aspose.Imaging puede convertir fácilmente a GIF desde otros
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversión de archivos de imagen a través de C#" h2="Convertir a GIF desde otros formatos" downloadText="Descargar" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversión de archivos de imagen a GIF a través de .NET" h2="Convertir a GIF desde otros formatos" downloadText="Descargar" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Todos los formatos de imagen admitidos para convertir a GIF" %}}

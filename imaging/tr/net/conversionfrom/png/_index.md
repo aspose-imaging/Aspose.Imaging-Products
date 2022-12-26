@@ -1,5 +1,5 @@
 ﻿---
-title: PNG biçimini başka biçimlere dönüştürün 
+title: .NET Aracılığıyla PNG'ten diğer biçimlere dönüştürün 
 weight: 3920
 url: /tr/net/conversion/from/png 
 lang: tr
@@ -9,7 +9,7 @@ description: Aspose.Imaging'i kullanarak PNG biçimini kolayca başka biçimlere
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C# Yoluyla Görüntü Dosyaları Dönüştürme" h2="PNG biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET Yoluyla PNG'den Görüntü Dosyaları Dönüştürme" h2="PNG biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="PNG'den dönüştürülecek desteklenen tüm resim biçimleri" %}}

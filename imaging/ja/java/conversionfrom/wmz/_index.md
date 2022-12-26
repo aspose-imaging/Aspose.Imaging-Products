@@ -1,5 +1,5 @@
 ﻿---
-title: WMZ から別の形式に変換する 
+title: Java 経由で WMZ から他の形式に変換します 
 weight: 3920
 url: /ja/java/conversion/from/wmz 
 lang: ja
@@ -9,7 +9,7 @@ description: Aspose.Imaging を使用すると、WMZ から別のフォーマッ
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C# による画像ファイルの変換" h2="WMZ から別の形式に変換する" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1="Java による WMZ からの画像ファイルの変換" h2="WMZ から別の形式に変換する" downloadText="ダウンロード" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="WMZ から変換する、サポートされているすべての画像形式" %}}

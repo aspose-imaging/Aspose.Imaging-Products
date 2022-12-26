@@ -1,5 +1,5 @@
 ﻿---
-title: DNG biçimini başka biçimlere dönüştürün 
+title: .NET Aracılığıyla DNG'ten diğer biçimlere dönüştürün 
 weight: 3920
 url: /tr/net/conversion/from/dng 
 lang: tr
@@ -9,7 +9,7 @@ description: Aspose.Imaging'i kullanarak DNG biçimini kolayca başka biçimlere
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C# Yoluyla Görüntü Dosyaları Dönüştürme" h2="DNG biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET Yoluyla DNG'den Görüntü Dosyaları Dönüştürme" h2="DNG biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="DNG'den dönüştürülecek desteklenen tüm resim biçimleri" %}}

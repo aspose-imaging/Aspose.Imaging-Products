@@ -1,5 +1,5 @@
 ﻿---
-title: Konvertieren Sie von anderen Formaten in CANVAS 
+title: Konvertieren Sie von anderen Formaten in CANVAS über .NET 
 weight: 3920
 url: /de/net/conversion/to/canvas 
 lang: de
@@ -9,7 +9,7 @@ description: Mit Aspose.Imaging können Sie problemlos von anderen Formaten in C
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertierung von Bilddateien über C#" h2="Konvertieren Sie von anderen Formaten in CANVAS" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertierung von Bilddateien in CANVAS über .NET" h2="Konvertieren Sie von anderen Formaten in CANVAS" downloadText="Download" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bildformate zum Konvertieren in CANVAS" %}}

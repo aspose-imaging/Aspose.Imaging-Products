@@ -1,5 +1,5 @@
 ﻿---
-title: Converteer van CDR naar een ander formaat 
+title: Converteren van CDR naar andere formaten Via Java 
 weight: 3920
 url: /nl/java/conversion/from/cdr 
 lang: nl
@@ -9,7 +9,7 @@ description: Met behulp van Aspose.Imaging kunt u eenvoudig converteren van CDR 
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversie van afbeeldingsbestanden via C#" h2="Converteer van CDR naar een ander formaat" downloadText="Downloaden" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversie van afbeeldingsbestanden van CDR via Java" h2="Converteer van CDR naar een ander formaat" downloadText="Downloaden" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde afbeeldingsindelingen om te converteren van CDR" %}}

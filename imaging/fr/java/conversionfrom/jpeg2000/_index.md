@@ -1,5 +1,5 @@
 ﻿---
-title: Convertir de JPEG2000 vers un autre format 
+title: Convertir de JPEG2000 vers d'autres formats via Java 
 weight: 3920
 url: /fr/java/conversion/from/jpeg2000 
 lang: fr
@@ -9,7 +9,7 @@ description: En utilisant Aspose.Imaging, vous pouvez facilement convertir de JP
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversion de fichiers image via C#" h2="Convertir de JPEG2000 vers un autre format" downloadText="Télécharger" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversion de fichiers image à partir de JPEG2000 via Java" h2="Convertir de JPEG2000 vers un autre format" downloadText="Télécharger" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tous les formats d'image pris en charge pour convertir à partir de JPEG2000" %}}

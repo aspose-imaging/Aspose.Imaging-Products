@@ -1,5 +1,5 @@
 ﻿---
-title: EPS biçimini başka biçimlere dönüştürün 
+title: .NET Aracılığıyla EPS'ten diğer biçimlere dönüştürün 
 weight: 3920
 url: /tr/net/conversion/from/eps 
 lang: tr
@@ -9,7 +9,7 @@ description: Aspose.Imaging'i kullanarak EPS biçimini kolayca başka biçimlere
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C# Yoluyla Görüntü Dosyaları Dönüştürme" h2="EPS biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET Yoluyla EPS'den Görüntü Dosyaları Dönüştürme" h2="EPS biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="EPS'den dönüştürülecek desteklenen tüm resim biçimleri" %}}

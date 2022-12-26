@@ -1,5 +1,5 @@
 ﻿---
-title: Başka biçimlerden WMF biçimine dönüştürün 
+title: Başka biçimlerden WMF biçimine dönüştürün Java 
 weight: 3920
 url: /tr/java/conversion/to/wmf 
 lang: tr
@@ -9,7 +9,7 @@ description: Aspose.Imaging'i kullanarak başka biçimlerden WMF biçimine kolay
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C# Yoluyla Görüntü Dosyaları Dönüştürme" h2="Başka biçimlerden WMF biçimine dönüştürün" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1="Java Yoluyla Görüntü Dosyaları Dönüştürme" h2="Başka biçimlerden WMF biçimine dönüştürün" downloadText="İndirmek" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="WMF biçimine dönüştürülecek desteklenen tüm resim biçimleri" %}}

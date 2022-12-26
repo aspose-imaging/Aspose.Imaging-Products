@@ -1,5 +1,5 @@
 ﻿---
-title: המר מ-GIF לפורמט אחר 
+title: המר מ-GIF לפורמטים אחרים דרך .NET 
 weight: 3920
 url: /he/net/conversion/from/gif 
 lang: he
@@ -9,7 +9,7 @@ description: באמצעות Aspose.Imaging תוכל להמיר בקלות מ-GIF
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה באמצעות C#" h2="המר מ-GIF לפורמט אחר" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה מ-GIF דרך .NET" h2="המר מ-GIF לפורמט אחר" downloadText="הורד" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה מ-GIF" %}}

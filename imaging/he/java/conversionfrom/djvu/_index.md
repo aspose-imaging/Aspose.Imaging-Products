@@ -1,5 +1,5 @@
 ﻿---
-title: המר מ-DJVU לפורמט אחר 
+title: המר מ-DJVU לפורמטים אחרים דרך Java 
 weight: 3920
 url: /he/java/conversion/from/djvu 
 lang: he
@@ -9,7 +9,7 @@ description: באמצעות Aspose.Imaging תוכל להמיר בקלות מ-DJV
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה באמצעות C#" h2="המר מ-DJVU לפורמט אחר" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה מ-DJVU דרך Java" h2="המר מ-DJVU לפורמט אחר" downloadText="הורד" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה מ-DJVU" %}}

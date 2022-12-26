@@ -1,5 +1,5 @@
 ﻿---
-title: Chuyển đổi sang WEBP từ các định dạng khác 
+title: Chuyển đổi sang WEBP từ các định dạng khác qua Java 
 weight: 3920
 url: /vi/java/conversion/to/webp 
 lang: vi
@@ -9,7 +9,7 @@ description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng chuyển đ�
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Chuyển đổi tệp hình ảnh qua C#" h2="Chuyển đổi sang WEBP từ các định dạng khác" downloadText="Tải xuống" >}}
+{{< blocks/products/pf/feature-page-header h1="Chuyển đổi tệp hình ảnh sang WEBP qua Java" h2="Chuyển đổi sang WEBP từ các định dạng khác" downloadText="Tải xuống" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tất cả các định dạng hình ảnh được hỗ trợ để chuyển đổi từ WEBP" %}}

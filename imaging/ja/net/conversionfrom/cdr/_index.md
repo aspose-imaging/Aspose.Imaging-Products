@@ -1,5 +1,5 @@
 ﻿---
-title: CDR から別の形式に変換する 
+title: .NET 経由で CDR から他の形式に変換します 
 weight: 3920
 url: /ja/net/conversion/from/cdr 
 lang: ja
@@ -9,7 +9,7 @@ description: Aspose.Imaging を使用すると、CDR から別のフォーマッ
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C# による画像ファイルの変換" h2="CDR から別の形式に変換する" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET による CDR からの画像ファイルの変換" h2="CDR から別の形式に変換する" downloadText="ダウンロード" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="CDR から変換する、サポートされているすべての画像形式" %}}

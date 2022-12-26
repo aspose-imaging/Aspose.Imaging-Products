@@ -1,5 +1,5 @@
 ﻿---
-title: Convertir de JPEG a otros formatos 
+title: Convertir de JPEG vers d'autres formats via .NET 
 weight: 3920
 url: /es/net/conversion/from/jpeg 
 lang: es
@@ -9,7 +9,7 @@ description: Usando Aspose.Imaging puede convertir fácilmente de JPEG a otros f
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversión de archivos de imagen a través de C#" h2="Convertir de JPEG a otros formatos" downloadText="Descargar" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversión de archivos de imagen de JPEG a través de .NET" h2="Convertir de JPEG a otros formatos" downloadText="Descargar" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Todos los formatos de imagen admitidos para convertir desde JPEG" %}}
