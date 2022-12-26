@@ -1,5 +1,5 @@
 ﻿---
-title: המר ל-JP2 מפורמט אחר 
+title: המר ל-JP2 מפורמט אחר .NET 
 weight: 3920
 url: /he/net/conversion/to/jp2 
 lang: he
@@ -9,7 +9,7 @@ description: באמצעות Aspose.Imaging תוכל להמיר בקלות ל-JP2
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה באמצעות C#" h2="המר ל-JP2 מפורמט אחר" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="המרת קובצי תמונה ל-JP2 דרך .NET" h2="המר ל-JP2 מפורמט אחר" downloadText="הורד" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה ל-JP2" %}}

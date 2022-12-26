@@ -1,5 +1,5 @@
 ﻿---
-title: التحويل إلى J2K من تنسيقات أخرى 
+title: التحويل إلى J2K من تنسيقات أخرى Java 
 weight: 3920
 url: /ar/java/conversion/to/j2k 
 lang: ar
@@ -9,7 +9,7 @@ description: باستخدام Aspose.Imaging ، يمكنك بسهولة التح
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل ملفات الصور عبر C #" h2="التحويل إلى J2K من تنسيقات أخرى" downloadText="تحميل" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل ملفات الصور إلى J2K عبر Java" h2="التحويل إلى J2K من تنسيقات أخرى" downloadText="تحميل" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="جميع تنسيقات الصور المدعومة للتحويل منها إلى J2K" %}}

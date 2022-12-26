@@ -1,5 +1,5 @@
 ﻿---
-title: Konvertera från TGA till ett annat format 
+title: Konvertera från TGA till andra format via Java 
 weight: 3920
 url: /sv/java/conversion/from/tga 
 lang: sv
@@ -9,7 +9,7 @@ description: Med Aspose.Imaging kan du enkelt konvertera från TGA till ett anna
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertering av bildfiler via C#" h2="Konvertera från TGA till ett annat format" downloadText="Ladda ner" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertering av bildfiler från TGA via Java" h2="Konvertera från TGA till ett annat format" downloadText="Ladda ner" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alla bildformat som stöds för att konvertera från TGA" %}}

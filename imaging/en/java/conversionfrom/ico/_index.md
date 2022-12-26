@@ -1,5 +1,5 @@
 ﻿---
-title: Convert from ICO to other formats 
+title: Convert from ICO to other formats Via Java 
 weight: 3920
 url: /java/conversion/from/ico 
 lang: en
@@ -9,7 +9,7 @@ description: Using Aspose.Imaging you can easily convert from ICO to other forma
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Image Files Conversion Via C#" h2="Convert from ICO to other formats" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Image Files Conversion from ICO Via Java" h2="Convert from ICO to other formats" downloadText="Download" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from ICO" %}}

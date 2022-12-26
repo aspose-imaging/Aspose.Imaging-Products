@@ -1,5 +1,5 @@
 ﻿---
-title: Konvertieren Sie von anderen Formaten in WMZ 
+title: Konvertieren Sie von anderen Formaten in WMZ über .NET 
 weight: 3920
 url: /de/net/conversion/to/wmz 
 lang: de
@@ -9,7 +9,7 @@ description: Mit Aspose.Imaging können Sie problemlos von anderen Formaten in W
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertierung von Bilddateien über C#" h2="Konvertieren Sie von anderen Formaten in WMZ" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertierung von Bilddateien in WMZ über .NET" h2="Konvertieren Sie von anderen Formaten in WMZ" downloadText="Download" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bildformate zum Konvertieren in WMZ" %}}

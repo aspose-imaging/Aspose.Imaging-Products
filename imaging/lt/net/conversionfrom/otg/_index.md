@@ -1,5 +1,5 @@
 ﻿---
-title: Konvertuoti iš OTG į kitus formatus 
+title: Konvertuoti iš OTG į kitus formatus per .NET 
 weight: 3920
 url: /lt/net/conversion/from/otg 
 lang: lt
@@ -9,7 +9,7 @@ description: Naudodami Aspose.Imaging galite lengvai konvertuoti iš OTG į kitu
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas naudojant C#" h2="Konvertuoti iš OTG į kitus formatus" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas iš OTG naudojant .NET" h2="Konvertuoti iš OTG į kitus formatus" downloadText="parsisiųsti" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai konvertuoti iš OTG" %}}

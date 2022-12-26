@@ -1,5 +1,5 @@
 ﻿---
-title: ICO biçimini başka biçimlere dönüştürün 
+title: .NET Aracılığıyla ICO'ten diğer biçimlere dönüştürün 
 weight: 3920
 url: /tr/net/conversion/from/ico 
 lang: tr
@@ -9,7 +9,7 @@ description: Aspose.Imaging'i kullanarak ICO biçimini kolayca başka biçimlere
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C# Yoluyla Görüntü Dosyaları Dönüştürme" h2="ICO biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET Yoluyla ICO'den Görüntü Dosyaları Dönüştürme" h2="ICO biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="ICO'den dönüştürülecek desteklenen tüm resim biçimleri" %}}

@@ -1,5 +1,5 @@
 ﻿---
-title: TIFF biçimini başka biçimlere dönüştürün 
+title: Java Aracılığıyla TIFF'ten diğer biçimlere dönüştürün 
 weight: 3920
 url: /tr/java/conversion/from/tiff 
 lang: tr
@@ -9,7 +9,7 @@ description: Aspose.Imaging'i kullanarak TIFF biçimini kolayca başka biçimler
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C# Yoluyla Görüntü Dosyaları Dönüştürme" h2="TIFF biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1="Java Yoluyla TIFF'den Görüntü Dosyaları Dönüştürme" h2="TIFF biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="TIFF'den dönüştürülecek desteklenen tüm resim biçimleri" %}}

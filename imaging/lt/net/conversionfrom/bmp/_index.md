@@ -1,5 +1,5 @@
 ﻿---
-title: Konvertuoti iš BMP į kitus formatus 
+title: Konvertuoti iš BMP į kitus formatus per .NET 
 weight: 3920
 url: /lt/net/conversion/from/bmp 
 lang: lt
@@ -9,7 +9,7 @@ description: Naudodami Aspose.Imaging galite lengvai konvertuoti iš BMP į kitu
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas naudojant C#" h2="Konvertuoti iš BMP į kitus formatus" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas iš BMP naudojant .NET" h2="Konvertuoti iš BMP į kitus formatus" downloadText="parsisiųsti" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai konvertuoti iš BMP" %}}

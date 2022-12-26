@@ -1,5 +1,5 @@
 ﻿---
-title: 別の形式から J2K に変換 
+title: 別の形式から J2K に変換 Java に 
 weight: 3920
 url: /ja/java/conversion/to/j2k 
 lang: ja
@@ -9,7 +9,7 @@ description: Aspose.Imaging を使用すると、別のフォーマットから 
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C# による画像ファイルの変換" h2="別の形式から J2K に変換" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1="Java を介した J2K への画像ファイルの変換" h2="別の形式から J2K に変換" downloadText="ダウンロード" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="サポートされているすべての画像形式から J2K に変換" %}}

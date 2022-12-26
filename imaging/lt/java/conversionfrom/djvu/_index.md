@@ -1,5 +1,5 @@
 ﻿---
-title: Konvertuoti iš DJVU į kitus formatus 
+title: Konvertuoti iš DJVU į kitus formatus per Java 
 weight: 3920
 url: /lt/java/conversion/from/djvu 
 lang: lt
@@ -9,7 +9,7 @@ description: Naudodami Aspose.Imaging galite lengvai konvertuoti iš DJVU į kit
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas naudojant C#" h2="Konvertuoti iš DJVU į kitus formatus" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas iš DJVU naudojant Java" h2="Konvertuoti iš DJVU į kitus formatus" downloadText="parsisiųsti" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai konvertuoti iš DJVU" %}}

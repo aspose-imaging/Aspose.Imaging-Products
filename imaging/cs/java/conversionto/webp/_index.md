@@ -1,5 +1,5 @@
 ﻿---
-title: Převést na WEBP z jiných formátů 
+title: Převést na WEBP z jiných formátů přes Java 
 weight: 3920
 url: /cs/java/conversion/to/webp 
 lang: cs
@@ -9,7 +9,7 @@ description: Pomocí Aspose.Imaging můžete snadno převést na WEBP z jiných 
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů přes C#" h2="Převést na WEBP z jiných formátů" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů do formátu WEBP prostřednictvím Java" h2="Převést na WEBP z jiných formátů" downloadText="Stažení" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu na WEBP" %}}

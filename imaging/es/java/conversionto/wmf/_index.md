@@ -1,5 +1,5 @@
 ﻿---
-title: Convertir a WMF desde otros formatos 
+title: Convertir a WMF desde otros formatos de Java 
 weight: 3920
 url: /es/java/conversion/to/wmf 
 lang: es
@@ -9,7 +9,7 @@ description: Usando Aspose.Imaging puede convertir fácilmente a WMF desde otros
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversión de archivos de imagen a través de C#" h2="Convertir a WMF desde otros formatos" downloadText="Descargar" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversión de archivos de imagen a WMF a través de Java" h2="Convertir a WMF desde otros formatos" downloadText="Descargar" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Todos los formatos de imagen admitidos para convertir a WMF" %}}

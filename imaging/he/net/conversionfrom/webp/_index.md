@@ -1,5 +1,5 @@
 ﻿---
-title: המר מ-WEBP לפורמט אחר 
+title: המר מ-WEBP לפורמטים אחרים דרך .NET 
 weight: 3920
 url: /he/net/conversion/from/webp 
 lang: he
@@ -9,7 +9,7 @@ description: באמצעות Aspose.Imaging תוכל להמיר בקלות מ-WEB
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה באמצעות C#" h2="המר מ-WEBP לפורמט אחר" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה מ-WEBP דרך .NET" h2="המר מ-WEBP לפורמט אחר" downloadText="הורד" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה מ-WEBP" %}}

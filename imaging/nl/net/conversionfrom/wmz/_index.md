@@ -1,5 +1,5 @@
 ﻿---
-title: Converteer van WMZ naar een ander formaat 
+title: Converteren van WMZ naar andere formaten Via .NET 
 weight: 3920
 url: /nl/net/conversion/from/wmz 
 lang: nl
@@ -9,7 +9,7 @@ description: Met behulp van Aspose.Imaging kunt u eenvoudig converteren van WMZ 
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversie van afbeeldingsbestanden via C#" h2="Converteer van WMZ naar een ander formaat" downloadText="Downloaden" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversie van afbeeldingsbestanden van WMZ via .NET" h2="Converteer van WMZ naar een ander formaat" downloadText="Downloaden" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde afbeeldingsindelingen om te converteren van WMZ" %}}

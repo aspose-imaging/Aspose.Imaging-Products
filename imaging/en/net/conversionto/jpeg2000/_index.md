@@ -1,5 +1,5 @@
 ﻿---
-title: Convert to JPEG2000 from other formats 
+title: Convert to JPEG2000 from other formats via .NET 
 weight: 3920
 url: /net/conversion/to/jpeg2000 
 lang: en
@@ -9,7 +9,7 @@ description: Using Aspose.Imaging you can easily convert to JPEG2000 from other 
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Image Files Conversion Via C#" h2="Convert to JPEG2000 from other formats" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Image Files Conversion to JPEG2000 Via .NET" h2="Convert to JPEG2000 from other formats" downloadText="Download" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from to JPEG2000" %}}

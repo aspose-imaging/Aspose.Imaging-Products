@@ -1,5 +1,5 @@
 ﻿---
-title: המר מ-ICO לפורמט אחר 
+title: המר מ-ICO לפורמטים אחרים דרך Java 
 weight: 3920
 url: /he/java/conversion/from/ico 
 lang: he
@@ -9,7 +9,7 @@ description: באמצעות Aspose.Imaging תוכל להמיר בקלות מ-ICO
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה באמצעות C#" h2="המר מ-ICO לפורמט אחר" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה מ-ICO דרך Java" h2="המר מ-ICO לפורמט אחר" downloadText="הורד" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה מ-ICO" %}}

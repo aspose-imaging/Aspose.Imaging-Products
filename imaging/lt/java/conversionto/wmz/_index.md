@@ -1,5 +1,5 @@
 ﻿---
-title: Konvertuoti į WMZ iš kitų formatų 
+title: Konvertuoti į WMZ iš kitų formatų naudojant Java 
 weight: 3920
 url: /lt/java/conversion/to/wmz 
 lang: lt
@@ -9,7 +9,7 @@ description: Naudodami Aspose.Imaging galite lengvai konvertuoti į WMZ iš kit�
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas naudojant C#" h2="Konvertuoti į WMZ iš kitų formatų" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas į WMZ naudojant Java" h2="Konvertuoti į WMZ iš kitų formatų" downloadText="parsisiųsti" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai, kuriuos galima konvertuoti į WMZ" %}}

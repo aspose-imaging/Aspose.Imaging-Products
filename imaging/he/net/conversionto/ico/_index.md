@@ -1,5 +1,5 @@
 ﻿---
-title: המר ל-ICO מפורמט אחר 
+title: המר ל-ICO מפורמט אחר .NET 
 weight: 3920
 url: /he/net/conversion/to/ico 
 lang: he
@@ -9,7 +9,7 @@ description: באמצעות Aspose.Imaging תוכל להמיר בקלות ל-ICO
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה באמצעות C#" h2="המר ל-ICO מפורמט אחר" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="המרת קובצי תמונה ל-ICO דרך .NET" h2="המר ל-ICO מפורמט אחר" downloadText="הורד" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה ל-ICO" %}}

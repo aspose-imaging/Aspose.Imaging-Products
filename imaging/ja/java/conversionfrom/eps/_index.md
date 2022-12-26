@@ -1,5 +1,5 @@
 ﻿---
-title: EPS から別の形式に変換する 
+title: Java 経由で EPS から他の形式に変換します 
 weight: 3920
 url: /ja/java/conversion/from/eps 
 lang: ja
@@ -9,7 +9,7 @@ description: Aspose.Imaging を使用すると、EPS から別のフォーマッ
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C# による画像ファイルの変換" h2="EPS から別の形式に変換する" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1="Java による EPS からの画像ファイルの変換" h2="EPS から別の形式に変換する" downloadText="ダウンロード" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="EPS から変換する、サポートされているすべての画像形式" %}}

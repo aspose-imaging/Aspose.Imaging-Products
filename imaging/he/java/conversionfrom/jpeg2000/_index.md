@@ -1,5 +1,5 @@
 ﻿---
-title: המר מ-JPEG2000 לפורמט אחר 
+title: המר מ-JPEG2000 לפורמטים אחרים דרך Java 
 weight: 3920
 url: /he/java/conversion/from/jpeg2000 
 lang: he
@@ -9,7 +9,7 @@ description: באמצעות Aspose.Imaging תוכל להמיר בקלות מ-JPE
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה באמצעות C#" h2="המר מ-JPEG2000 לפורמט אחר" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה מ-JPEG2000 דרך Java" h2="המר מ-JPEG2000 לפורמט אחר" downloadText="הורד" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה מ-JPEG2000" %}}

@@ -1,5 +1,5 @@
 ﻿---
-title: CMX biçimini başka biçimlere dönüştürün 
+title: .NET Aracılığıyla CMX'ten diğer biçimlere dönüştürün 
 weight: 3920
 url: /tr/net/conversion/from/cmx 
 lang: tr
@@ -9,7 +9,7 @@ description: Aspose.Imaging'i kullanarak CMX biçimini kolayca başka biçimlere
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C# Yoluyla Görüntü Dosyaları Dönüştürme" h2="CMX biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET Yoluyla CMX'den Görüntü Dosyaları Dönüştürme" h2="CMX biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="CMX'den dönüştürülecek desteklenen tüm resim biçimleri" %}}

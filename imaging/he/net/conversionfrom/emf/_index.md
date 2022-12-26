@@ -1,5 +1,5 @@
 ﻿---
-title: המר מ-EMF לפורמט אחר 
+title: המר מ-EMF לפורמטים אחרים דרך .NET 
 weight: 3920
 url: /he/net/conversion/from/emf 
 lang: he
@@ -9,7 +9,7 @@ description: באמצעות Aspose.Imaging תוכל להמיר בקלות מ-EMF
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה באמצעות C#" h2="המר מ-EMF לפורמט אחר" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה מ-EMF דרך .NET" h2="המר מ-EMF לפורמט אחר" downloadText="הורד" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה מ-EMF" %}}

@@ -1,5 +1,5 @@
 ﻿---
-title: Konvertera från OTG till ett annat format 
+title: Konvertera från OTG till andra format via .NET 
 weight: 3920
 url: /sv/net/conversion/from/otg 
 lang: sv
@@ -9,7 +9,7 @@ description: Med Aspose.Imaging kan du enkelt konvertera från OTG till ett anna
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertering av bildfiler via C#" h2="Konvertera från OTG till ett annat format" downloadText="Ladda ner" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertering av bildfiler från OTG via .NET" h2="Konvertera från OTG till ett annat format" downloadText="Ladda ner" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alla bildformat som stöds för att konvertera från OTG" %}}

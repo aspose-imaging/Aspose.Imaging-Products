@@ -1,5 +1,5 @@
 ﻿---
-title: GIF biçimini başka biçimlere dönüştürün 
+title: Java Aracılığıyla GIF'ten diğer biçimlere dönüştürün 
 weight: 3920
 url: /tr/java/conversion/from/gif 
 lang: tr
@@ -9,7 +9,7 @@ description: Aspose.Imaging'i kullanarak GIF biçimini kolayca başka biçimlere
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C# Yoluyla Görüntü Dosyaları Dönüştürme" h2="GIF biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1="Java Yoluyla GIF'den Görüntü Dosyaları Dönüştürme" h2="GIF biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="GIF'den dönüştürülecek desteklenen tüm resim biçimleri" %}}

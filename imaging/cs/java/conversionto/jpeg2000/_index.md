@@ -1,5 +1,5 @@
 ﻿---
-title: Převést na JPEG2000 z jiných formátů 
+title: Převést na JPEG2000 z jiných formátů přes Java 
 weight: 3920
 url: /cs/java/conversion/to/jpeg2000 
 lang: cs
@@ -9,7 +9,7 @@ description: Pomocí Aspose.Imaging můžete snadno převést na JPEG2000 z jin�
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů přes C#" h2="Převést na JPEG2000 z jiných formátů" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů do formátu JPEG2000 prostřednictvím Java" h2="Převést na JPEG2000 z jiných formátů" downloadText="Stažení" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu na JPEG2000" %}}

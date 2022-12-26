@@ -1,5 +1,5 @@
 ﻿---
-title: 從 JPEG2000 轉換為其他格式 
+title: 通過 .NET 從 JPEG2000 轉換為其他格式 
 weight: 3920
 url: /zh-hant/net/conversion/from/jpeg2000 
 lang: zh-hant
@@ -9,7 +9,7 @@ description: 使用 Aspose.Imaging，您可以輕鬆地將 JPEG2000 轉換為其
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="通過 C# 轉換圖像文件" h2="從 JPEG2000 轉換為其他格式" downloadText="下載" >}}
+{{< blocks/products/pf/feature-page-header h1="通過 .NET 從 JPEG2000 轉換圖像文件" h2="從 JPEG2000 轉換為其他格式" downloadText="下載" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="要從 JPEG2000 轉換的所有支持的圖像格式" %}}

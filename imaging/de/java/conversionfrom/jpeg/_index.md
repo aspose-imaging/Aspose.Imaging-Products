@@ -1,5 +1,5 @@
 ﻿---
-title: Konvertieren Sie von JPEG in andere Formate 
+title: Convertir de JPEG vers d'autres formats via Java 
 weight: 3920
 url: /de/java/conversion/from/jpeg 
 lang: de
@@ -9,7 +9,7 @@ description: Mit Aspose.Imaging können Sie ganz einfach von JPEG in andere Form
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertierung von Bilddateien über C#" h2="Konvertieren Sie von JPEG in andere Formate" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertierung von Bilddateien von JPEG über Java" h2="Konvertieren Sie von JPEG in andere Formate" downloadText="Download" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bildformate zum Konvertieren von JPEG" %}}

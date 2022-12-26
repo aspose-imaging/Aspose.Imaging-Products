@@ -1,5 +1,5 @@
 ﻿---
-title: Konwertuj na JPEG2000 z innych formatów 
+title: Konwertuj na JPEG2000 z innych formatów przez .NET 
 weight: 3920
 url: /pl/net/conversion/to/jpeg2000 
 lang: pl
@@ -9,7 +9,7 @@ description: Za pomocą Aspose.Imaging możesz łatwo przekonwertować do JPEG20
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwersja plików obrazów przez C#" h2="Konwertuj na JPEG2000 z innych formatów" downloadText="Ściągnij" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwersja plików obrazów na JPEG2000 przez .NET" h2="Konwertuj na JPEG2000 z innych formatów" downloadText="Ściągnij" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty obrazów do przekonwertowania na JPEG2000" %}}

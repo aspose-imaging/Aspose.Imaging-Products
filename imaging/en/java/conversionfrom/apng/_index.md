@@ -1,5 +1,5 @@
 ﻿---
-title: Convert from APNG to other formats 
+title: Convert from APNG to other formats Via Java 
 weight: 3920
 url: /java/conversion/from/apng 
 lang: en
@@ -9,7 +9,7 @@ description: Using Aspose.Imaging you can easily convert from APNG to other form
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Image Files Conversion Via C#" h2="Convert from APNG to other formats" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Image Files Conversion from APNG Via Java" h2="Convert from APNG to other formats" downloadText="Download" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from APNG" %}}

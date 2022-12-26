@@ -1,5 +1,5 @@
 ﻿---
-title: המר ל-EMZ מפורמט אחר 
+title: המר ל-EMZ מפורמט אחר Java 
 weight: 3920
 url: /he/java/conversion/to/emz 
 lang: he
@@ -9,7 +9,7 @@ description: באמצעות Aspose.Imaging תוכל להמיר בקלות ל-EMZ
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה באמצעות C#" h2="המר ל-EMZ מפורמט אחר" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="המרת קובצי תמונה ל-EMZ דרך Java" h2="המר ל-EMZ מפורמט אחר" downloadText="הורד" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה ל-EMZ" %}}

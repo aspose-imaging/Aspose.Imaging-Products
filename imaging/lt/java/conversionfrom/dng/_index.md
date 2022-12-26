@@ -1,5 +1,5 @@
 ﻿---
-title: Konvertuoti iš DNG į kitus formatus 
+title: Konvertuoti iš DNG į kitus formatus per Java 
 weight: 3920
 url: /lt/java/conversion/from/dng 
 lang: lt
@@ -9,7 +9,7 @@ description: Naudodami Aspose.Imaging galite lengvai konvertuoti iš DNG į kitu
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas naudojant C#" h2="Konvertuoti iš DNG į kitus formatus" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas iš DNG naudojant Java" h2="Konvertuoti iš DNG į kitus formatus" downloadText="parsisiųsti" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai konvertuoti iš DNG" %}}

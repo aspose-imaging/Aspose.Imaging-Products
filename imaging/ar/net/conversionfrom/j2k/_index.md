@@ -1,5 +1,5 @@
 ﻿---
-title: تحويل من J2K إلى صيغ أخرى 
+title: حوِّل من J2K إلى تنسيقات أخرى عبر .NET 
 weight: 3920
 url: /ar/net/conversion/from/j2k 
 lang: ar
@@ -9,7 +9,7 @@ description: باستخدام Aspose.Imaging ، يمكنك بسهولة التح
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل ملفات الصور عبر C #" h2="تحويل من J2K إلى صيغ أخرى" downloadText="تحميل" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل ملفات الصور من J2K عبر .NET" h2="تحويل من J2K إلى صيغ أخرى" downloadText="تحميل" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="جميع تنسيقات الصور المدعومة للتحويل من J2K" %}}

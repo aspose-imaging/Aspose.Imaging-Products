@@ -1,5 +1,5 @@
 ﻿---
-title: แปลงเป็น ICO จากรูปแบบอื่น 
+title: แปลงเป็น ICO จากรูปแบบอื่น Java 
 weight: 3920
 url: /th/java/conversion/to/ico 
 lang: th
@@ -9,7 +9,7 @@ description: เมื่อใช้ Aspose.Imaging คุณสามารถ
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="การแปลงไฟล์ภาพผ่าน C#" h2="แปลงเป็น ICO จากรูปแบบอื่น" downloadText="ดาวน์โหลด" >}}
+{{< blocks/products/pf/feature-page-header h1="การแปลงไฟล์รูปภาพเป็น ICO ผ่าน Java" h2="แปลงเป็น ICO จากรูปแบบอื่น" downloadText="ดาวน์โหลด" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="รูปแบบรูปภาพที่รองรับทั้งหมดเพื่อแปลงจากเป็น ICO" %}}

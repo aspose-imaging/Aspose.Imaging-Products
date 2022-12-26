@@ -1,5 +1,5 @@
 ﻿---
-title: Convert to WMZ from other formats 
+title: Convert to WMZ from other formats via Java 
 weight: 3920
 url: /java/conversion/to/wmz 
 lang: en
@@ -9,7 +9,7 @@ description: Using Aspose.Imaging you can easily convert to WMZ from other forma
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Image Files Conversion Via C#" h2="Convert to WMZ from other formats" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Image Files Conversion to WMZ Via Java" h2="Convert to WMZ from other formats" downloadText="Download" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from to WMZ" %}}

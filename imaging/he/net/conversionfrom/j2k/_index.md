@@ -1,5 +1,5 @@
 ﻿---
-title: המר מ-J2K לפורמט אחר 
+title: המר מ-J2K לפורמטים אחרים דרך .NET 
 weight: 3920
 url: /he/net/conversion/from/j2k 
 lang: he
@@ -9,7 +9,7 @@ description: באמצעות Aspose.Imaging תוכל להמיר בקלות מ-J2K
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה באמצעות C#" h2="המר מ-J2K לפורמט אחר" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה מ-J2K דרך .NET" h2="המר מ-J2K לפורמט אחר" downloadText="הורד" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה מ-J2K" %}}

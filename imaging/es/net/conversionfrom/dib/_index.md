@@ -1,5 +1,5 @@
 ﻿---
-title: Convertir de DIB a otros formatos 
+title: Convertir de DIB vers d'autres formats via .NET 
 weight: 3920
 url: /es/net/conversion/from/dib 
 lang: es
@@ -9,7 +9,7 @@ description: Usando Aspose.Imaging puede convertir fácilmente de DIB a otros fo
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversión de archivos de imagen a través de C#" h2="Convertir de DIB a otros formatos" downloadText="Descargar" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversión de archivos de imagen de DIB a través de .NET" h2="Convertir de DIB a otros formatos" downloadText="Descargar" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Todos los formatos de imagen admitidos para convertir desde DIB" %}}

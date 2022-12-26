@@ -1,5 +1,5 @@
 ﻿---
-title: המר מ-DICOM לפורמט אחר 
+title: המר מ-DICOM לפורמטים אחרים דרך .NET 
 weight: 3920
 url: /he/net/conversion/from/dicom 
 lang: he
@@ -9,7 +9,7 @@ description: באמצעות Aspose.Imaging תוכל להמיר בקלות מ-DIC
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה באמצעות C#" h2="המר מ-DICOM לפורמט אחר" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה מ-DICOM דרך .NET" h2="המר מ-DICOM לפורמט אחר" downloadText="הורד" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה מ-DICOM" %}}

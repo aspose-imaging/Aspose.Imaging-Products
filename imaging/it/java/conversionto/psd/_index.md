@@ -1,5 +1,5 @@
 ﻿---
-title: Converti in PSD da altri formati 
+title: Converti in PSD da altri formati tramite Java 
 weight: 3920
 url: /it/java/conversion/to/psd 
 lang: it
@@ -9,7 +9,7 @@ description: Usando Aspose.Imaging puoi facilmente convertire in PSD da altri fo
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversione di file immagine tramite C#" h2="Converti in PSD da altri formati" downloadText="Scarica" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversione di file immagine in PSD tramite Java" h2="Converti in PSD da altri formati" downloadText="Scarica" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tutti i formati immagine supportati per la conversione da a PSD" %}}

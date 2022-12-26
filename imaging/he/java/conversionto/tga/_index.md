@@ -1,5 +1,5 @@
 ﻿---
-title: המר ל-TGA מפורמט אחר 
+title: המר ל-TGA מפורמט אחר Java 
 weight: 3920
 url: /he/java/conversion/to/tga 
 lang: he
@@ -9,7 +9,7 @@ description: באמצעות Aspose.Imaging תוכל להמיר בקלות ל-TGA
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה באמצעות C#" h2="המר ל-TGA מפורמט אחר" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="המרת קובצי תמונה ל-TGA דרך Java" h2="המר ל-TGA מפורמט אחר" downloadText="הורד" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה ל-TGA" %}}

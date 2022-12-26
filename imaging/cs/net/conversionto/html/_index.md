@@ -1,5 +1,5 @@
 ﻿---
-title: Převést na HTML z jiných formátů 
+title: Převést na HTML z jiných formátů přes .NET 
 weight: 3920
 url: /cs/net/conversion/to/html 
 lang: cs
@@ -9,7 +9,7 @@ description: Pomocí Aspose.Imaging můžete snadno převést na HTML z jiných 
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů přes C#" h2="Převést na HTML z jiných formátů" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů do formátu HTML prostřednictvím .NET" h2="Převést na HTML z jiných formátů" downloadText="Stažení" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu na HTML" %}}

@@ -1,5 +1,5 @@
 ﻿---
-title: Konwertuj na J2K z innych formatów 
+title: Konwertuj na J2K z innych formatów przez Java 
 weight: 3920
 url: /pl/java/conversion/to/j2k 
 lang: pl
@@ -9,7 +9,7 @@ description: Za pomocą Aspose.Imaging możesz łatwo przekonwertować do J2K z 
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwersja plików obrazów przez C#" h2="Konwertuj na J2K z innych formatów" downloadText="Ściągnij" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwersja plików obrazów na J2K przez Java" h2="Konwertuj na J2K z innych formatów" downloadText="Ściągnij" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty obrazów do przekonwertowania na J2K" %}}

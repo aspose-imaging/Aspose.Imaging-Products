@@ -1,5 +1,5 @@
 ﻿---
-title: Convert from DICOM to other formats 
+title: Convert from DICOM to other formats Via .NET 
 weight: 3920
 url: /net/conversion/from/dicom 
 lang: en
@@ -9,7 +9,7 @@ description: Using Aspose.Imaging you can easily convert from DICOM to other for
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Image Files Conversion Via C#" h2="Convert from DICOM to other formats" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Image Files Conversion from DICOM Via .NET" h2="Convert from DICOM to other formats" downloadText="Download" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from DICOM" %}}

@@ -1,5 +1,5 @@
 ﻿---
-title: 다른 형식에서 ICO로 변환 
+title: 다른 형식에서 ICO로 변환 Java 을 
 weight: 3920
 url: /ko/java/conversion/to/ico 
 lang: ko
@@ -9,7 +9,7 @@ description: Aspose.Imaging을 사용하면 다른 형식에서 ICO로 쉽게 �
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C#을 통한 이미지 파일 변환" h2="다른 형식에서 ICO로 변환" downloadText="다운로드" >}}
+{{< blocks/products/pf/feature-page-header h1="Java을 통해 ICO로 이미지 파일 변환" h2="다른 형식에서 ICO로 변환" downloadText="다운로드" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="ICO (으)로 변환할 지원되는 모든 이미지 형식" %}}

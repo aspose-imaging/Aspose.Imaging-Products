@@ -1,5 +1,5 @@
 ﻿---
-title: Converter para BMP de outros formatos 
+title: Converter para BMP de outros formatos Via Java 
 weight: 3920
 url: /pt/java/conversion/to/bmp 
 lang: pt
@@ -9,7 +9,7 @@ description: Usando o Aspose.Imaging, você pode facilmente converter para BMP d
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversão de Arquivos de Imagem Via C#" h2="Converter para BMP de outros formatos" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversão de Arquivos de Imagem para BMP Via Java" h2="Converter para BMP de outros formatos" downloadText="Download" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Todos os formatos de imagem suportados para converter para BMP" %}}

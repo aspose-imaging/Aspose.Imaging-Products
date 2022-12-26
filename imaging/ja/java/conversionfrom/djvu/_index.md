@@ -1,5 +1,5 @@
 ﻿---
-title: DJVU から別の形式に変換する 
+title: Java 経由で DJVU から他の形式に変換します 
 weight: 3920
 url: /ja/java/conversion/from/djvu 
 lang: ja
@@ -9,7 +9,7 @@ description: Aspose.Imaging を使用すると、DJVU から別のフォーマ�
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C# による画像ファイルの変換" h2="DJVU から別の形式に変換する" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1="Java による DJVU からの画像ファイルの変換" h2="DJVU から別の形式に変換する" downloadText="ダウンロード" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="DJVU から変換する、サポートされているすべての画像形式" %}}

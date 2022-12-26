@@ -1,5 +1,5 @@
 ﻿---
-title: แปลงจาก DNG เป็นรูปแบบอื่น 
+title: แปลงจาก DNG เป็นรูปแบบอื่นผ่าน Java 
 weight: 3920
 url: /th/java/conversion/from/dng 
 lang: th
@@ -9,7 +9,7 @@ description: เมื่อใช้ Aspose.Imaging คุณสามารถ
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="การแปลงไฟล์ภาพผ่าน C#" h2="แปลงจาก DNG เป็นรูปแบบอื่น" downloadText="ดาวน์โหลด" >}}
+{{< blocks/products/pf/feature-page-header h1="การแปลงไฟล์รูปภาพจาก DNG ผ่าน Java" h2="แปลงจาก DNG เป็นรูปแบบอื่น" downloadText="ดาวน์โหลด" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="รูปแบบภาพที่รองรับทั้งหมดที่จะแปลงจาก DNG" %}}

@@ -1,5 +1,5 @@
 ﻿---
-title: Převést z JP2 do jiných formátů 
+title: Převést z JP2 do jiných formátů přes Java 
 weight: 3920
 url: /cs/java/conversion/from/jp2 
 lang: cs
@@ -9,7 +9,7 @@ description: Pomocí Aspose.Imaging můžete snadno převést z formátu JP2 do 
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů přes C#" h2="Převést z JP2 do jiných formátů" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů z formátu JP2 prostřednictvím Java" h2="Převést z JP2 do jiných formátů" downloadText="Stažení" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu z formátu JP2" %}}

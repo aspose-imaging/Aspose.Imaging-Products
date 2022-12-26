@@ -1,5 +1,5 @@
 ﻿---
-title: تحويل من JP2 إلى صيغ أخرى 
+title: حوِّل من JP2 إلى تنسيقات أخرى عبر Java 
 weight: 3920
 url: /ar/java/conversion/from/jp2 
 lang: ar
@@ -9,7 +9,7 @@ description: باستخدام Aspose.Imaging ، يمكنك بسهولة التح
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل ملفات الصور عبر C #" h2="تحويل من JP2 إلى صيغ أخرى" downloadText="تحميل" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل ملفات الصور من JP2 عبر Java" h2="تحويل من JP2 إلى صيغ أخرى" downloadText="تحميل" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="جميع تنسيقات الصور المدعومة للتحويل من JP2" %}}

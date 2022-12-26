@@ -1,5 +1,5 @@
 ﻿---
-title: EMF biçimini başka biçimlere dönüştürün 
+title: .NET Aracılığıyla EMF'ten diğer biçimlere dönüştürün 
 weight: 3920
 url: /tr/net/conversion/from/emf 
 lang: tr
@@ -9,7 +9,7 @@ description: Aspose.Imaging'i kullanarak EMF biçimini kolayca başka biçimlere
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C# Yoluyla Görüntü Dosyaları Dönüştürme" h2="EMF biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET Yoluyla EMF'den Görüntü Dosyaları Dönüştürme" h2="EMF biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="EMF'den dönüştürülecek desteklenen tüm resim biçimleri" %}}

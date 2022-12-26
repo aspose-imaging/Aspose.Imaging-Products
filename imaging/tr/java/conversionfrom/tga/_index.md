@@ -1,5 +1,5 @@
 ﻿---
-title: TGA biçimini başka biçimlere dönüştürün 
+title: Java Aracılığıyla TGA'ten diğer biçimlere dönüştürün 
 weight: 3920
 url: /tr/java/conversion/from/tga 
 lang: tr
@@ -9,7 +9,7 @@ description: Aspose.Imaging'i kullanarak TGA biçimini kolayca başka biçimlere
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C# Yoluyla Görüntü Dosyaları Dönüştürme" h2="TGA biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1="Java Yoluyla TGA'den Görüntü Dosyaları Dönüştürme" h2="TGA biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="TGA'den dönüştürülecek desteklenen tüm resim biçimleri" %}}

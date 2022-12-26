@@ -1,5 +1,5 @@
 ﻿---
-title: Convert to DICOM from other formats 
+title: Convert to DICOM from other formats via Java 
 weight: 3920
 url: /java/conversion/to/dicom 
 lang: en
@@ -9,7 +9,7 @@ description: Using Aspose.Imaging you can easily convert to DICOM from other for
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Image Files Conversion Via C#" h2="Convert to DICOM from other formats" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Image Files Conversion to DICOM Via Java" h2="Convert to DICOM from other formats" downloadText="Download" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from to DICOM" %}}

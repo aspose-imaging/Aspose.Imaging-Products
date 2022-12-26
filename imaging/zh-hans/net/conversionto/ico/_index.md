@@ -1,5 +1,5 @@
 ﻿---
-title: 从其他格式转换为 ICO 
+title: 从其他格式转换为 ICO 通过 .NET 
 weight: 3920
 url: /zh-hans/net/conversion/to/ico 
 lang: zh-hans
@@ -9,7 +9,7 @@ description: 使用 Aspose.Imaging，您可以轻松地将其他格式转换为 
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="通过 C# 转换图像文件" h2="从其他格式转换为 ICO" downloadText="下载" >}}
+{{< blocks/products/pf/feature-page-header h1="通过 .NET 将图像文件转换为 ICO" h2="从其他格式转换为 ICO" downloadText="下载" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="所有支持的图像格式转换为 ICO" %}}

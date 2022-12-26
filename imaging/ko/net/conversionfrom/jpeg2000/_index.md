@@ -1,5 +1,5 @@
 ﻿---
-title: JPEG2000에서 다른 형식으로 변환 
+title: .NET을 통해 JPEG2000에서 다른 형식으로 변환 
 weight: 3920
 url: /ko/net/conversion/from/jpeg2000 
 lang: ko
@@ -9,7 +9,7 @@ description: Aspose.Imaging을 사용하면 JPEG2000에서 다른 형식으로 �
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C#을 통한 이미지 파일 변환" h2="JPEG2000에서 다른 형식으로 변환" downloadText="다운로드" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET을 통해 JPEG2000에서 이미지 파일 변환" h2="JPEG2000에서 다른 형식으로 변환" downloadText="다운로드" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="JPEG2000에서 변환할 지원되는 모든 이미지 형식" %}}

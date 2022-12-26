@@ -1,5 +1,5 @@
 ﻿---
-title: המר מ-TIF לפורמט אחר 
+title: המר מ-TIF לפורמטים אחרים דרך Java 
 weight: 3920
 url: /he/java/conversion/from/tif 
 lang: he
@@ -9,7 +9,7 @@ description: באמצעות Aspose.Imaging תוכל להמיר בקלות מ-TIF
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה באמצעות C#" h2="המר מ-TIF לפורמט אחר" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה מ-TIF דרך Java" h2="המר מ-TIF לפורמט אחר" downloadText="הורד" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה מ-TIF" %}}

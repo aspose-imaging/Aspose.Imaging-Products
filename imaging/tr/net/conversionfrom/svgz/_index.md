@@ -1,5 +1,5 @@
 ﻿---
-title: SVGZ biçimini başka biçimlere dönüştürün 
+title: .NET Aracılığıyla SVGZ'ten diğer biçimlere dönüştürün 
 weight: 3920
 url: /tr/net/conversion/from/svgz 
 lang: tr
@@ -9,7 +9,7 @@ description: Aspose.Imaging'i kullanarak SVGZ biçimini kolayca başka biçimler
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="C# Yoluyla Görüntü Dosyaları Dönüştürme" h2="SVGZ biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET Yoluyla SVGZ'den Görüntü Dosyaları Dönüştürme" h2="SVGZ biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="SVGZ'den dönüştürülecek desteklenen tüm resim biçimleri" %}}

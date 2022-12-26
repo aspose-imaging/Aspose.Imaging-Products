@@ -1,5 +1,5 @@
 ﻿---
-title: Konversikan ke J2K dari format lain 
+title: Konversikan ke J2K dari format lain Melalui Java 
 weight: 3920
 url: /id/java/conversion/to/j2k 
 lang: id
@@ -9,7 +9,7 @@ description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi ke J
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar Melalui C#" h2="Konversikan ke J2K dari format lain" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar ke J2K Melalui Java" h2="Konversikan ke J2K dari format lain" downloadText="Unduh" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari ke J2K" %}}

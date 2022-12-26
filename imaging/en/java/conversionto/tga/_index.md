@@ -1,5 +1,5 @@
 ﻿---
-title: Convert to TGA from other formats 
+title: Convert to TGA from other formats via Java 
 weight: 3920
 url: /java/conversion/to/tga 
 lang: en
@@ -9,7 +9,7 @@ description: Using Aspose.Imaging you can easily convert to TGA from other forma
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Image Files Conversion Via C#" h2="Convert to TGA from other formats" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Image Files Conversion to TGA Via Java" h2="Convert to TGA from other formats" downloadText="Download" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from to TGA" %}}

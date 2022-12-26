@@ -1,5 +1,5 @@
 ﻿---
-title: Перетворити в JP2 з інших форматів 
+title: Перетворити в JP2 з інших форматів за допомогою .NET 
 weight: 3920
 url: /uk/net/conversion/to/jp2 
 lang: uk
@@ -9,7 +9,7 @@ description: За допомогою Aspose.Imaging ви можете легко
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Перетворення файлів зображень через C#" h2="Перетворити в JP2 з інших форматів" downloadText="Завантажити" >}}
+{{< blocks/products/pf/feature-page-header h1="Перетворення файлів зображень в JP2 за допомогою .NET" h2="Перетворити в JP2 з інших форматів" downloadText="Завантажити" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для конвертації у JP2" %}}

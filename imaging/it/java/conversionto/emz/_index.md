@@ -1,5 +1,5 @@
 ﻿---
-title: Converti in EMZ da altri formati 
+title: Converti in EMZ da altri formati tramite Java 
 weight: 3920
 url: /it/java/conversion/to/emz 
 lang: it
@@ -9,7 +9,7 @@ description: Usando Aspose.Imaging puoi facilmente convertire in EMZ da altri fo
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversione di file immagine tramite C#" h2="Converti in EMZ da altri formati" downloadText="Scarica" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversione di file immagine in EMZ tramite Java" h2="Converti in EMZ da altri formati" downloadText="Scarica" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tutti i formati immagine supportati per la conversione da a EMZ" %}}

@@ -1,5 +1,5 @@
 ﻿---
-title: अन्य प्रारूपों से JP2 में कनवर्ट करें 
+title: अन्य प्रारूपों से JP2 में कनवर्ट करें .NET के 
 weight: 3920
 url: /hi/net/conversion/to/jp2 
 lang: hi
@@ -9,7 +9,7 @@ description: Aspose.Imaging का उपयोग करके आप अन्
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="सी # के माध्यम से छवि फ़ाइलें रूपांतरण" h2="अन्य प्रारूपों से JP2 में कनवर्ट करें" downloadText="डाउनलोड" >}}
+{{< blocks/products/pf/feature-page-header h1="छवि फ़ाइलें .NET के माध्यम से JP2 में रूपांतरण" h2="अन्य प्रारूपों से JP2 में कनवर्ट करें" downloadText="डाउनलोड" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="से JP2 में बदलने के लिए सभी समर्थित छवि प्रारूप" %}}
