@@ -1,21 +1,21 @@
 ﻿---
-title: Konvertuoti iš ICO į kitus formatus per Java 
+title: Konvertuokite iš ICO į kitus palaikomus formatus naudodami Aspose.Imaging for Java 
 weight: 3920
 url: /lt/java/conversion/from/ico 
 lang: lt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Naudodami Aspose.Imaging galite lengvai konvertuoti iš ICO į kitus formatus
+description: Naudodami Aspose.Imaging galite lengvai konvertuoti iš ICO į kitus formatus naudodami Java platformą
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas iš ICO naudojant Java" h2="Konvertuoti iš ICO į kitus formatus" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas iš ICO naudojant Aspose.Imaging for Java" h2="Konvertuokite iš ICO į kitus formatus naudodami Java platformą" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai konvertuoti iš ICO" %}}
-Naudodami Aspose.Imaging galite lengvai konvertuoti iš ICO į kitus formatus.
+{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai, konvertuojami iš ICO naudojant Aspose.Imaging for Java" %}}
+Naudodami Aspose.Imaging galite lengvai konvertuoti iš ICO į kitus palaikomus formatus naudodami Java platformą.
 <br/>
-Visas palaikomų konversijų sąrašas:
+Visų palaikomų konversijų sąrašas:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

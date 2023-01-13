@@ -1,21 +1,21 @@
 ﻿---
-title: Konversikan ke DICOM dari format lain Melalui Java 
+title: Konversikan ke DICOM dari format lain menggunakan Aspose.Imaging untuk pustaka Java 
 weight: 3920
 url: /id/java/conversion/to/dicom 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi ke DICOM dari format lain
+description: Menggunakan Aspose.Imaging Anda dapat mengonversi ke DICOM dari format lain menggunakan Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar ke DICOM Melalui Java" h2="Konversikan ke DICOM dari format lain" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar ke DICOM menggunakan Aspose.Imaging untuk pustaka Java" h2="Konversikan ke DICOM dari format gambar lain menggunakan platform Java" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari ke DICOM" %}}
-Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi ke DICOM dari format gambar lain.
+{{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari ke DICOM menggunakan Aspose.Imaging untuk Java" %}}
+Dengan menggunakan pustaka Aspose.Imaging, Anda dapat dengan mudah mengonversi ke DICOM dari format gambar lain yang didukung menggunakan platform Java.
 <br/>
-Daftar lengkap konversi yang didukung:
+Konversi yang didukung:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

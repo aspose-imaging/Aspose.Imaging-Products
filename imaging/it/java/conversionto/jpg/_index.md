@@ -1,21 +1,21 @@
 ﻿---
-title: Converti in JPG da altri formati tramite Java 
+title: Converti in JPG da altri formati utilizzando Aspose.Imaging per la libreria Java 
 weight: 3920
 url: /it/java/conversion/to/jpg 
 lang: it
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging puoi facilmente convertire in JPG da altri formati
+description: Usando Aspose.Imaging puoi convertire in JPG da altri formati usando Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversione di file immagine in JPG tramite Java" h2="Converti in JPG da altri formati" downloadText="Scarica" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversione dei file immagine in JPG utilizzando Aspose.Imaging per la libreria Java" h2="Converti in JPG da altri formati immagine utilizzando la piattaforma Java" downloadText="Scarica" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tutti i formati immagine supportati per la conversione da a JPG" %}}
-Usando Aspose.Imaging puoi facilmente convertire in JPG da altri formati di immagine.
+{{% blocks/products/pf/feature-page-section  h2="Tutti i formati immagine supportati da convertire in JPG utilizzando Aspose.Imaging per Java" %}}
+Utilizzando la libreria Aspose.Imaging puoi facilmente convertire in JPG da altri formati di immagine supportati utilizzando la piattaforma Java.
 <br/>
-Elenco completo delle conversioni supportate:
+Conversioni supportate:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

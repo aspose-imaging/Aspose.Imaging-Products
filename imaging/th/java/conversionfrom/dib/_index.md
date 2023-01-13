@@ -1,19 +1,19 @@
 ﻿---
-title: แปลงจาก DIB เป็นรูปแบบอื่นผ่าน Java 
+title: แปลงจาก DIB เป็นรูปแบบอื่นที่รองรับโดยใช้ Aspose.Imaging สำหรับ Java 
 weight: 3920
 url: /th/java/conversion/from/dib 
 lang: th
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: เมื่อใช้ Aspose.Imaging คุณสามารถแปลงจาก DIB เป็นรูปแบบอื่นได้อย่างง่ายดาย
+description: เมื่อใช้ Aspose.Imaging คุณสามารถแปลงจาก DIB เป็นรูปแบบอื่นโดยใช้แพลตฟอร์ม Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="การแปลงไฟล์รูปภาพจาก DIB ผ่าน Java" h2="แปลงจาก DIB เป็นรูปแบบอื่น" downloadText="ดาวน์โหลด" >}}
+{{< blocks/products/pf/feature-page-header h1="การแปลงไฟล์อิมเมจจาก DIB โดยใช้ Aspose.Imaging สำหรับ Java" h2="แปลงจาก DIB เป็นรูปแบบอื่นโดยใช้แพลตฟอร์ม Java" downloadText="ดาวน์โหลด" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="รูปแบบภาพที่รองรับทั้งหมดที่จะแปลงจาก DIB" %}}
-เมื่อใช้ Aspose.Imaging คุณสามารถแปลงจาก DIB เป็นรูปแบบอื่นได้อย่างง่ายดาย
+{{% blocks/products/pf/feature-page-section  h2="รูปแบบภาพที่รองรับทั้งหมดเพื่อแปลงจาก DIB โดยใช้ Aspose.Imaging สำหรับ Java" %}}
+เมื่อใช้ Aspose.Imaging คุณสามารถแปลงจาก DIB เป็นรูปแบบอื่นที่รองรับโดยใช้แพลตฟอร์ม Java
 <br/>
 รายการการแปลงที่รองรับทั้งหมด:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,21 +1,21 @@
 ﻿---
-title: Преобразовать в WEBP из других форматов с помощью Java 
+title: Преобразование в WEBP из других форматов с помощью библиотеки Aspose.Imaging for Java. 
 weight: 3920
 url: /ru/java/conversion/to/webp 
 lang: ru
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Используя Aspose.Imaging, вы можете легко конвертировать в WEBP из других форматов.
+description: Используя Aspose.Imaging, вы можете конвертировать в WEBP другие форматы с помощью Java.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование файлов изображений в WEBP с помощью Java" h2="Преобразовать в WEBP из других форматов" downloadText="Скачать" >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование файлов изображений в формат WEBP с использованием библиотеки Aspose.Imaging for Java" h2="Преобразование в WEBP из других форматов изображений с использованием платформы Java" downloadText="Скачать" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Все поддерживаемые форматы изображений для преобразования в WEBP" %}}
-Используя Aspose.Imaging, вы можете легко преобразовать в WEBP другие форматы изображений.
+{{% blocks/products/pf/feature-page-section  h2="Все поддерживаемые форматы изображений для преобразования в WEBP с помощью Aspose.Imaging for Java" %}}
+Используя библиотеку Aspose.Imaging, вы можете легко преобразовать в WEBP другие поддерживаемые форматы изображений, используя платформу Java.
 <br/>
-Полный список поддерживаемых преобразований:
+Поддерживаемые преобразования:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

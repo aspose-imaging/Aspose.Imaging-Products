@@ -1,21 +1,21 @@
 ﻿---
-title: Konversikan dari EMZ ke format lain Melalui Java 
+title: Konversikan dari EMZ ke format lain yang didukung menggunakan Aspose.Imaging untuk Java 
 weight: 3920
 url: /id/java/conversion/from/emz 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi dari EMZ ke format lain
+description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi dari EMZ ke format lain menggunakan platform Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar dari EMZ Melalui Java" h2="Konversikan dari EMZ ke format lain" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar dari EMZ menggunakan Aspose.Imaging untuk Java" h2="Konversikan dari EMZ ke format lain menggunakan platform Java" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari EMZ" %}}
-Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi dari EMZ ke format lain.
+{{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari EMZ menggunakan Aspose.Imaging untuk Java" %}}
+Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi dari EMZ ke format lain yang didukung menggunakan platform Java.
 <br/>
-Daftar lengkap konversi yang didukung:
+Semua daftar konversi yang didukung:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

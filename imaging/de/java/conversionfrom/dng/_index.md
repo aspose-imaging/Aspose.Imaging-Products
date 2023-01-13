@@ -1,21 +1,21 @@
 ﻿---
-title: Convertir de DNG vers d'autres formats via Java 
+title: Konvertieren Sie mit Aspose.Imaging für Java von DNG in andere unterstützte Formate 
 weight: 3920
 url: /de/java/conversion/from/dng 
 lang: de
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Mit Aspose.Imaging können Sie ganz einfach von DNG in andere Formate konvertieren
+description: Mit Aspose.Imaging können Sie mithilfe der Java-Plattform problemlos von DNG in andere Formate konvertieren
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertierung von Bilddateien von DNG über Java" h2="Konvertieren Sie von DNG in andere Formate" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertierung von Bilddateien aus DNG mit Aspose.Imaging für Java" h2="Konvertieren Sie mithilfe der Java-Plattform von DNG in andere Formate" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bildformate zum Konvertieren von DNG" %}}
-Mit Aspose.Imaging können Sie ganz einfach von DNG in andere Formate konvertieren.
+{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bildformate zum Konvertieren von DNG mit Aspose.Imaging für Java" %}}
+Mit Aspose.Imaging können Sie mithilfe der Java-Plattform problemlos von DNG in andere unterstützte Formate konvertieren.
 <br/>
-Vollständige Liste der unterstützten Konvertierungen:
+Liste aller unterstützten Konvertierungen:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

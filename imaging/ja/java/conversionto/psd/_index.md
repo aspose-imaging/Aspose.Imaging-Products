@@ -1,21 +1,21 @@
 ﻿---
-title: 別の形式から PSD に変換 Java に 
+title: Aspose.Imaging for Java ライブラリを使用して、他のフォーマットから PSD に変換します 
 weight: 3920
 url: /ja/java/conversion/to/psd 
 lang: ja
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging を使用すると、別のフォーマットから PSD に簡単に変換できます
+description: Aspose.Imaging を使用すると、Java を使用して他のフォーマットから PSD に変換できます。
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Java を介した PSD への画像ファイルの変換" h2="別の形式から PSD に変換" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java ライブラリを使用した PSD への画像ファイルの変換" h2="Java プラットフォームを使用して、他の画像形式から PSD に変換します" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="サポートされているすべての画像形式から PSD に変換" %}}
-Aspose.Imaging を使用すると、他の画像フォーマットから PSD に簡単に変換できます。
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java を使用して PSD に変換する、サポートされているすべての画像フォーマット" %}}
+Aspose.Imaging ライブラリを使用すると、Java プラットフォームを使用して、サポートされている他の画像フォーマットから PSD に簡単に変換できます。
 <br/>
-サポートされている変換の完全なリスト:
+サポートされている変換:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -1,21 +1,21 @@
 ﻿---
-title: حوِّل من WMZ إلى تنسيقات أخرى عبر Java 
+title: قم بالتحويل من WMZ إلى التنسيقات الأخرى المدعومة باستخدام Aspose.Imaging for Java 
 weight: 3920
 url: /ar/java/conversion/from/wmz 
 lang: ar
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: باستخدام Aspose.Imaging ، يمكنك بسهولة التحويل من WMZ إلى تنسيقات أخرى
+description: باستخدام Aspose.Imaging ، يمكنك بسهولة التحويل من WMZ إلى تنسيقات أخرى باستخدام نظام Java الأساسي
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل ملفات الصور من WMZ عبر Java" h2="تحويل من WMZ إلى صيغ أخرى" downloadText="تحميل" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل ملفات الصور من WMZ باستخدام Aspose.Imaging for Java" h2="قم بالتحويل من WMZ إلى تنسيقات أخرى باستخدام نظام Java الأساسي" downloadText="تحميل" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="جميع تنسيقات الصور المدعومة للتحويل من WMZ" %}}
-باستخدام Aspose.Imaging ، يمكنك بسهولة التحويل من WMZ إلى تنسيقات أخرى.
+{{% blocks/products/pf/feature-page-section  h2="جميع تنسيقات الصور المدعومة للتحويل من WMZ باستخدام Aspose.Imaging for Java" %}}
+باستخدام Aspose.Imaging ، يمكنك بسهولة التحويل من WMZ إلى تنسيقات أخرى مدعومة باستخدام نظام Java الأساسي.
 <br/>
-القائمة الكاملة للتحويلات المدعومة:
+قائمة جميع التحويلات المدعومة:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

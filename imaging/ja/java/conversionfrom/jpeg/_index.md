@@ -1,21 +1,21 @@
 ﻿---
-title: Java 経由で JPEG から他の形式に変換します 
+title: Aspose.Imaging for Java を使用して、JPEG から他のサポートされている形式に変換します。 
 weight: 3920
 url: /ja/java/conversion/from/jpeg 
 lang: ja
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging を使用すると、JPEG から別のフォーマットに簡単に変換できます
+description: Aspose.Imaging を使用すると、Java プラットフォームを使用して JPEG から他のフォーマットに簡単に変換できます。
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Java による JPEG からの画像ファイルの変換" h2="JPEG から別の形式に変換する" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java を使用した JPEG からの画像ファイルの変換" h2="Java プラットフォームを使用して JPEG から他の形式に変換する" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="JPEG から変換する、サポートされているすべての画像形式" %}}
-Aspose.Imaging を使用すると、JPEG から他のフォーマットに簡単に変換できます。
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java を使用して JPEG から変換する、サポートされているすべての画像フォーマット" %}}
+Aspose.Imaging を使用すると、Java プラットフォームを使用して JPEG からサポートされている他のフォーマットに簡単に変換できます。
 <br/>
-サポートされている変換の完全なリスト:
+サポートされているすべての変換リスト:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

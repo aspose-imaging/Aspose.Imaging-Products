@@ -1,21 +1,21 @@
 ﻿---
-title: Converteren naar DXF vanuit een ander formaat via Java 
+title: Converteer naar DXF vanuit andere formaten met Aspose.Imaging voor Java-bibliotheek 
 weight: 3920
 url: /nl/java/conversion/to/dxf 
 lang: nl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Met behulp van Aspose.Imaging kunt u eenvoudig converteren naar DXF vanuit een ander formaat
+description: Met Aspose.Imaging kunt u met Java converteren naar DXF vanuit andere formaten
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversie van afbeeldingsbestanden naar DXF via Java" h2="Converteren naar DXF vanuit een ander formaat" downloadText="Downloaden" >}}
+{{< blocks/products/pf/feature-page-header h1="Afbeeldingsbestanden Conversie naar DXF met behulp van Aspose.Imaging voor Java-bibliotheek" h2="Converteer naar DXF van andere afbeeldingsindelingen met behulp van het Java-platform" downloadText="Downloaden" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde afbeeldingsindelingen om van naar DXF te converteren" %}}
-Met Aspose.Imaging kunt u eenvoudig vanuit andere afbeeldingsindelingen converteren naar DXF.
+{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde afbeeldingsindelingen om van naar DXF te converteren met Aspose.Imaging voor Java" %}}
+Met behulp van de Aspose.Imaging-bibliotheek kunt u eenvoudig converteren naar DXF vanuit andere ondersteunde afbeeldingsindelingen met behulp van het Java-platform.
 <br/>
-Volledige lijst met ondersteunde conversies:
+Ondersteunde conversies:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

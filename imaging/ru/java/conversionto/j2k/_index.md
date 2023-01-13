@@ -1,21 +1,21 @@
 ﻿---
-title: Преобразовать в J2K из других форматов с помощью Java 
+title: Преобразование в J2K из других форматов с помощью библиотеки Aspose.Imaging for Java. 
 weight: 3920
 url: /ru/java/conversion/to/j2k 
 lang: ru
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Используя Aspose.Imaging, вы можете легко конвертировать в J2K из других форматов.
+description: Используя Aspose.Imaging, вы можете конвертировать в J2K другие форматы с помощью Java.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование файлов изображений в J2K с помощью Java" h2="Преобразовать в J2K из других форматов" downloadText="Скачать" >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование файлов изображений в формат J2K с использованием библиотеки Aspose.Imaging for Java" h2="Преобразование в J2K из других форматов изображений с использованием платформы Java" downloadText="Скачать" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Все поддерживаемые форматы изображений для преобразования в J2K" %}}
-Используя Aspose.Imaging, вы можете легко преобразовать в J2K другие форматы изображений.
+{{% blocks/products/pf/feature-page-section  h2="Все поддерживаемые форматы изображений для преобразования в J2K с помощью Aspose.Imaging for Java" %}}
+Используя библиотеку Aspose.Imaging, вы можете легко преобразовать в J2K другие поддерживаемые форматы изображений, используя платформу Java.
 <br/>
-Полный список поддерживаемых преобразований:
+Поддерживаемые преобразования:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

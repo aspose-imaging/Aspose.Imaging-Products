@@ -1,21 +1,21 @@
 ﻿---
-title: המר מ-TGA לפורמטים אחרים דרך Java 
+title: המר מ-TGA לפורמטים נתמכים אחרים באמצעות Aspose.Imaging עבור Java 
 weight: 3920
 url: /he/java/conversion/from/tga 
 lang: he
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: באמצעות Aspose.Imaging תוכל להמיר בקלות מ-TGA לפורמט אחר
+description: באמצעות Aspose.Imaging תוכל להמיר בקלות מ-TGA לפורמטים אחרים באמצעות פלטפורמת Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה מ-TGA דרך Java" h2="המר מ-TGA לפורמט אחר" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה מ-TGA באמצעות Aspose.Imaging עבור Java" h2="המר מ-TGA לפורמטים אחרים באמצעות פלטפורמת Java" downloadText="הורד" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה מ-TGA" %}}
-באמצעות Aspose.Imaging תוכל להמיר בקלות מ-TGA לפורמטים אחרים.
+{{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה מ-TGA באמצעות Aspose.Imaging עבור Java" %}}
+באמצעות Aspose.Imaging תוכל להמיר בקלות מ-TGA לפורמטים נתמכים אחרים באמצעות פלטפורמת Java.
 <br/>
-רשימה מלאה של המרות נתמכות:
+רשימת כל ההמרות הנתמכות:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

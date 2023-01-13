@@ -1,21 +1,21 @@
 ﻿---
-title: Konwertuj na CANVAS z innych formatów przez Java 
+title: Konwertuj do formatu CANVAS z innych formatów przy użyciu biblioteki Aspose.Imaging for Java 
 weight: 3920
 url: /pl/java/conversion/to/canvas 
 lang: pl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Za pomocą Aspose.Imaging możesz łatwo przekonwertować do CANVAS z innych formatów
+description: Za pomocą Aspose.Imaging możesz konwertować do CANVAS z innych formatów przy użyciu Javy
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwersja plików obrazów na CANVAS przez Java" h2="Konwertuj na CANVAS z innych formatów" downloadText="Ściągnij" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwersja plików graficznych do formatu CANVAS przy użyciu biblioteki Aspose.Imaging for Java" h2="Konwertuj do CANVAS z innych formatów obrazów za pomocą platformy Java" downloadText="Ściągnij" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty obrazów do przekonwertowania na CANVAS" %}}
-Za pomocą Aspose.Imaging możesz łatwo przekonwertować do CANVAS z innych formatów obrazów.
+{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty obrazów do przekonwertowania na CANVAS przy użyciu Aspose.Imaging for Java" %}}
+Korzystając z biblioteki Aspose.Imaging możesz łatwo przekonwertować do CANVAS z innych obsługiwanych formatów obrazów przy użyciu platformy Java.
 <br/>
-Pełna lista obsługiwanych konwersji:
+Obsługiwane konwersje:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -1,21 +1,21 @@
 ﻿---
-title: Chuyển đổi từ JPEG2000 sang các định dạng khác Qua Java 
+title: Chuyển đổi từ JPEG2000 sang các định dạng được hỗ trợ khác bằng Aspose.Imaging for Java 
 weight: 3920
 url: /vi/java/conversion/from/jpeg2000 
 lang: vi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng chuyển đổi từ JPEG2000 sang các định dạng khác
+description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng chuyển đổi từ JPEG2000 sang các định dạng khác bằng nền tảng Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Chuyển đổi tệp hình ảnh từ JPEG2000 qua Java" h2="Chuyển đổi từ JPEG2000 sang định dạng khác" downloadText="Tải xuống" >}}
+{{< blocks/products/pf/feature-page-header h1="Chuyển đổi tệp hình ảnh từ JPEG2000 bằng Aspose.Imaging cho Java" h2="Chuyển đổi từ JPEG2000 sang các định dạng khác bằng nền tảng Java" downloadText="Tải xuống" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tất cả các định dạng hình ảnh được hỗ trợ để chuyển đổi từ JPEG2000" %}}
-Sử dụng Aspose.Imaging, bạn có thể dễ dàng chuyển đổi từ JPEG2000 sang các định dạng khác.
+{{% blocks/products/pf/feature-page-section  h2="Tất cả các định dạng hình ảnh được hỗ trợ để chuyển đổi từ JPEG2000 bằng Aspose.Imaging cho Java" %}}
+Sử dụng Aspose.Imaging, bạn có thể dễ dàng chuyển đổi từ JPEG2000 sang các định dạng được hỗ trợ khác bằng nền tảng Java.
 <br/>
-Danh sách đầy đủ các chuyển đổi được hỗ trợ:
+Tất cả danh sách chuyển đổi được hỗ trợ:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

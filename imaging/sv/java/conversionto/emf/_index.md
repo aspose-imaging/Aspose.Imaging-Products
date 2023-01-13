@@ -1,21 +1,21 @@
 ﻿---
-title: Konvertera till EMF från ett annat format via Java 
+title: Konvertera till EMF från andra format med Aspose.Imaging för Java-bibliotek 
 weight: 3920
 url: /sv/java/conversion/to/emf 
 lang: sv
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Med Aspose.Imaging kan du enkelt konvertera till EMF från andra format
+description: Med Aspose.Imaging kan du konvertera till EMF från andra format med Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertering av bildfiler till EMF via Java" h2="Konvertera till EMF från ett annat format" downloadText="Ladda ner" >}}
+{{< blocks/products/pf/feature-page-header h1="Bildfiler Konvertering till EMF med Aspose.Imaging för Java-bibliotek" h2="Konvertera till EMF från andra bildformat med Java-plattformen" downloadText="Ladda ner" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alla bildformat som stöds att konvertera från till EMF" %}}
-Med Aspose.Imaging kan du enkelt konvertera till EMF från andra bildformat.
+{{% blocks/products/pf/feature-page-section  h2="Alla bildformat som stöds att konvertera från till EMF med Aspose.Imaging för Java" %}}
+Med hjälp av Aspose.Imaging-biblioteket kan du enkelt konvertera till EMF från andra bildformat som stöds med hjälp av Java-plattformen.
 <br/>
-Fullständig lista över omvandlingar som stöds:
+Omvandlingar som stöds:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

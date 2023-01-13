@@ -1,21 +1,21 @@
 ﻿---
-title: Konwertuj z TIF na inne formaty przez Java 
+title: Konwertuj z TIF na inne obsługiwane formaty za pomocą Aspose.Imaging for Java 
 weight: 3920
 url: /pl/java/conversion/from/tif 
 lang: pl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Za pomocą Aspose.Imaging możesz łatwo konwertować z TIF na inne formaty
+description: Za pomocą Aspose.Imaging możesz łatwo konwertować z formatu TIF na inne formaty przy użyciu platformy Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwersja plików graficznych z TIF przez Java" h2="Konwertuj z TIF na inne formaty" downloadText="Ściągnij" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwersja plików graficznych z TIF przy użyciu Aspose.Imaging for Java" h2="Konwertuj z TIF na inne formaty za pomocą platformy Java" downloadText="Ściągnij" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty obrazów do przekonwertowania z TIF" %}}
-Za pomocą Aspose.Imaging możesz łatwo konwertować z TIF na inne formaty.
+{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty obrazów do konwersji z TIF przy użyciu Aspose.Imaging for Java" %}}
+Za pomocą Aspose.Imaging możesz łatwo konwertować z TIF na inne obsługiwane formaty przy użyciu platformy Java.
 <br/>
-Pełna lista obsługiwanych konwersji:
+Lista wszystkich obsługiwanych konwersji:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -1,21 +1,21 @@
 ﻿---
-title: Převést z ODG do jiných formátů přes Java 
+title: Převeďte z ODG do jiných podporovaných formátů pomocí Aspose.Imaging for Java 
 weight: 3920
 url: /cs/java/conversion/from/odg 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Pomocí Aspose.Imaging můžete snadno převést z formátu ODG do jiných formátů
+description: Pomocí Aspose.Imaging můžete snadno převádět z formátu ODG do jiných formátů pomocí platformy Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů z formátu ODG prostřednictvím Java" h2="Převést z ODG do jiných formátů" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů z formátu ODG pomocí Aspose.Imaging for Java" h2="Převeďte z ODG do jiných formátů pomocí platformy Java" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu z formátu ODG" %}}
-Pomocí Aspose.Imaging můžete snadno převádět z formátu ODG do jiných formátů.
+{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu z formátu ODG pomocí Aspose.Imaging for Java" %}}
+Pomocí Aspose.Imaging můžete snadno převádět z formátu ODG do jiných podporovaných formátů pomocí platformy Java.
 <br/>
-Úplný seznam podporovaných konverzí:
+Seznam všech podporovaných konverzí:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

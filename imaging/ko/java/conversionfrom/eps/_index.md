@@ -1,21 +1,21 @@
 ﻿---
-title: Java을 통해 EPS에서 다른 형식으로 변환 
+title: Aspose.Imaging for Java를 사용하여 EPS에서 지원되는 다른 형식으로 변환 
 weight: 3920
 url: /ko/java/conversion/from/eps 
 lang: ko
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging을 사용하면 EPS에서 다른 형식으로 쉽게 변환할 수 있습니다.
+description: Aspose.Imaging을 사용하면 EPS에서 Java 플랫폼을 사용하는 다른 형식으로 쉽게 변환할 수 있습니다.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Java을 통해 EPS에서 이미지 파일 변환" h2="EPS에서 다른 형식으로 변환" downloadText="다운로드" >}}
+{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java를 사용하여 EPS에서 이미지 파일 변환" h2="Java 플랫폼을 사용하여 EPS에서 다른 형식으로 변환" downloadText="다운로드" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="EPS에서 변환할 지원되는 모든 이미지 형식" %}}
-Aspose.Imaging을 사용하면 EPS에서 다른 형식으로 쉽게 변환할 수 있습니다.
+{{% blocks/products/pf/feature-page-section  h2="지원되는 모든 이미지 형식은 Aspose.Imaging for Java를 사용하여 EPS에서 변환할 수 있습니다." %}}
+Aspose.Imaging을 사용하면 EPS에서 Java 플랫폼을 사용하여 지원되는 다른 형식으로 쉽게 변환할 수 있습니다.
 <br/>
-지원되는 변환의 전체 목록:
+지원되는 모든 변환 목록:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

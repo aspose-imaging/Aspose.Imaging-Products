@@ -1,21 +1,21 @@
 ﻿---
-title: Konversikan ke EMF dari format lain Melalui Java 
+title: Konversikan ke EMF dari format lain menggunakan Aspose.Imaging untuk pustaka Java 
 weight: 3920
 url: /id/java/conversion/to/emf 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi ke EMF dari format lain
+description: Menggunakan Aspose.Imaging Anda dapat mengonversi ke EMF dari format lain menggunakan Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar ke EMF Melalui Java" h2="Konversikan ke EMF dari format lain" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar ke EMF menggunakan Aspose.Imaging untuk pustaka Java" h2="Konversikan ke EMF dari format gambar lain menggunakan platform Java" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari ke EMF" %}}
-Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi ke EMF dari format gambar lain.
+{{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari ke EMF menggunakan Aspose.Imaging untuk Java" %}}
+Dengan menggunakan pustaka Aspose.Imaging, Anda dapat dengan mudah mengonversi ke EMF dari format gambar lain yang didukung menggunakan platform Java.
 <br/>
-Daftar lengkap konversi yang didukung:
+Konversi yang didukung:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

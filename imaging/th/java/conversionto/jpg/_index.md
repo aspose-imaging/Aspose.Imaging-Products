@@ -1,21 +1,21 @@
 ﻿---
-title: แปลงเป็น JPG จากรูปแบบอื่น Java 
+title: แปลงเป็น JPG จากรูปแบบอื่นโดยใช้ Aspose.Imaging สำหรับไลบรารี Java 
 weight: 3920
 url: /th/java/conversion/to/jpg 
 lang: th
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: เมื่อใช้ Aspose.Imaging คุณสามารถแปลงเป็น JPG จากรูปแบบอื่นได้อย่างง่ายดาย
+description: การใช้ Aspose.Imaging คุณสามารถแปลงเป็น JPG จากรูปแบบอื่นโดยใช้ Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="การแปลงไฟล์รูปภาพเป็น JPG ผ่าน Java" h2="แปลงเป็น JPG จากรูปแบบอื่น" downloadText="ดาวน์โหลด" >}}
+{{< blocks/products/pf/feature-page-header h1="การแปลงไฟล์อิมเมจเป็น JPG โดยใช้ Aspose.Imaging สำหรับไลบรารี Java" h2="แปลงเป็น JPG จากรูปแบบภาพอื่นโดยใช้แพลตฟอร์ม Java" downloadText="ดาวน์โหลด" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="รูปแบบรูปภาพที่รองรับทั้งหมดเพื่อแปลงจากเป็น JPG" %}}
-เมื่อใช้ Aspose.Imaging คุณสามารถแปลงเป็น JPG จากรูปแบบรูปภาพอื่นๆ ได้อย่างง่ายดาย
+{{% blocks/products/pf/feature-page-section  h2="รูปแบบรูปภาพที่รองรับทั้งหมดเพื่อแปลงจากเป็น JPG โดยใช้ Aspose.Imaging สำหรับ Java" %}}
+การใช้ไลบรารี Aspose.Imaging คุณสามารถแปลงเป็น JPG จากรูปแบบรูปภาพอื่นๆ ที่รองรับโดยใช้แพลตฟอร์ม Java
 <br/>
-รายการการแปลงที่รองรับทั้งหมด:
+การแปลงที่รองรับ:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -1,21 +1,21 @@
 ﻿---
-title: Преобразовать в PNG из других форматов с помощью Java 
+title: Преобразование в PNG из других форматов с помощью библиотеки Aspose.Imaging for Java. 
 weight: 3920
 url: /ru/java/conversion/to/png 
 lang: ru
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Используя Aspose.Imaging, вы можете легко конвертировать в PNG из других форматов.
+description: Используя Aspose.Imaging, вы можете конвертировать в PNG другие форматы с помощью Java.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование файлов изображений в PNG с помощью Java" h2="Преобразовать в PNG из других форматов" downloadText="Скачать" >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование файлов изображений в формат PNG с использованием библиотеки Aspose.Imaging for Java" h2="Преобразование в PNG из других форматов изображений с использованием платформы Java" downloadText="Скачать" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Все поддерживаемые форматы изображений для преобразования в PNG" %}}
-Используя Aspose.Imaging, вы можете легко преобразовать в PNG другие форматы изображений.
+{{% blocks/products/pf/feature-page-section  h2="Все поддерживаемые форматы изображений для преобразования в PNG с помощью Aspose.Imaging for Java" %}}
+Используя библиотеку Aspose.Imaging, вы можете легко преобразовать в PNG другие поддерживаемые форматы изображений, используя платформу Java.
 <br/>
-Полный список поддерживаемых преобразований:
+Поддерживаемые преобразования:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

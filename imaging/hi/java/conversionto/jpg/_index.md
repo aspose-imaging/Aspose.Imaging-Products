@@ -1,54 +1,54 @@
 ﻿---
-title: अन्य प्रारूपों से JPG में कनवर्ट करें Java के 
+title: जावा लाइब्रेरी के लिए Aspose.Imaging का उपयोग करके अन्य प्रारूपों से JPG में कनवर्ट करें 
 weight: 3920
 url: /hi/java/conversion/to/jpg 
 lang: hi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging का उपयोग करके आप अन्य प्रारूपों से JPG में आसानी से रूपांतरित कर सकते हैं
+description: Aspose.Imaging का उपयोग करके आप जावा का उपयोग करके अन्य प्रारूपों से JPG में कनवर्ट कर सकते हैं
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="छवि फ़ाइलें Java के माध्यम से JPG में रूपांतरण" h2="अन्य प्रारूपों से JPG में कनवर्ट करें" downloadText="डाउनलोड" >}}
+{{< blocks/products/pf/feature-page-header h1="जावा लाइब्रेरी के लिए Aspose.Imaging का उपयोग करके छवि फ़ाइलों का JPG में रूपांतरण" h2="जावा प्लेटफॉर्म का उपयोग करके अन्य छवि प्रारूपों से JPG में कनवर्ट करें" downloadText="डाउनलोड" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="से JPG में बदलने के लिए सभी समर्थित छवि प्रारूप" %}}
-Aspose.Imaging का उपयोग करके आप आसानी से अन्य छवि प्रारूपों से JPG में परिवर्तित कर सकते हैं।
+{{% blocks/products/pf/feature-page-section  h2="जावा के लिए Aspose.Imaging का उपयोग करके सभी समर्थित छवि प्रारूपों को JPG में बदलने के लिए" %}}
+Aspose.Imaging लाइब्रेरी का उपयोग करके आप आसानी से जावा प्लेटफॉर्म का उपयोग करके अन्य समर्थित छवि प्रारूपों से JPG में परिवर्तित कर सकते हैं।
 <br/>
-समर्थित रूपांतरणों की पूरी सूची:
+समर्थित रूपांतरण:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/apng-to-jpg" >APNG प्रति JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/bmp-to-jpg" >BMP प्रति JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/dib-to-jpg" >DIB प्रति JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/dicom-to-jpg" >DICOM प्रति JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/djvu-to-jpg" >DJVU प्रति JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/dng-to-jpg" >DNG प्रति JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/emf-to-jpg" >EMF प्रति JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/emz-to-jpg" >EMZ प्रति JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/gif-to-jpg" >GIF प्रति JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/jpeg2000-to-jpg" >JPEG2000 प्रति JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/jp2-to-jpg" >JP2 प्रति JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/j2k-to-jpg" >J2K प्रति JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/png-to-jpg" >PNG प्रति JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/tga-to-jpg" >TGA प्रति JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/tif-to-jpg" >TIF प्रति JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/tiff-to-jpg" >TIFF प्रति JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/webp-to-jpg" >WEBP प्रति JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/wmf-to-jpg" >WMF प्रति JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/wmz-to-jpg" >WMZ प्रति JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/svg-to-jpg" >SVG प्रति JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/svgz-to-jpg" >SVGZ प्रति JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/eps-to-jpg" >EPS प्रति JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/cdr-to-jpg" >CDR प्रति JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/cmx-to-jpg" >CMX प्रति JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/otg-to-jpg" >OTG प्रति JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/odg-to-jpg" >ODG प्रति JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/ico-to-jpg" >ICO प्रति JPG</a></div>
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/apng-to-jpg" >APNG को JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/bmp-to-jpg" >BMP को JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/dib-to-jpg" >DIB को JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/dicom-to-jpg" >DICOM को JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/djvu-to-jpg" >DJVU को JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/dng-to-jpg" >DNG को JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/emf-to-jpg" >EMF को JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/emz-to-jpg" >EMZ को JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/gif-to-jpg" >GIF को JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/jpeg2000-to-jpg" >JPEG2000 को JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/jp2-to-jpg" >JP2 को JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/j2k-to-jpg" >J2K को JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/png-to-jpg" >PNG को JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/tga-to-jpg" >TGA को JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/tif-to-jpg" >TIF को JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/tiff-to-jpg" >TIFF को JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/webp-to-jpg" >WEBP को JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/wmf-to-jpg" >WMF को JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/wmz-to-jpg" >WMZ को JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/svg-to-jpg" >SVG को JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/svgz-to-jpg" >SVGZ को JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/eps-to-jpg" >EPS को JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/cdr-to-jpg" >CDR को JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/cmx-to-jpg" >CMX को JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/otg-to-jpg" >OTG को JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/odg-to-jpg" >ODG को JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/ico-to-jpg" >ICO को JPG</a></div>
                 </div>
         </div>
     </div>

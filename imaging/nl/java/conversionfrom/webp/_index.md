@@ -1,21 +1,21 @@
 ﻿---
-title: Converteren van WEBP naar andere formaten Via Java 
+title: Converteer van WEBP naar andere ondersteunde formaten met Aspose.Imaging voor Java 
 weight: 3920
 url: /nl/java/conversion/from/webp 
 lang: nl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Met behulp van Aspose.Imaging kunt u eenvoudig converteren van WEBP naar een ander formaat
+description: Met Aspose.Imaging kunt u eenvoudig converteren van WEBP naar andere formaten met behulp van het Java-platform
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversie van afbeeldingsbestanden van WEBP via Java" h2="Converteer van WEBP naar een ander formaat" downloadText="Downloaden" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversie van afbeeldingsbestanden van WEBP met behulp van Aspose.Imaging voor Java" h2="Converteer van WEBP naar andere formaten met behulp van het Java-platform" downloadText="Downloaden" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde afbeeldingsindelingen om te converteren van WEBP" %}}
-Met Aspose.Imaging kunt u eenvoudig converteren van WEBP naar andere formaten.
+{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde afbeeldingsindelingen om te converteren van WEBP met Aspose.Imaging voor Java" %}}
+Met Aspose.Imaging kunt u eenvoudig converteren van WEBP naar andere ondersteunde formaten met behulp van het Java-platform.
 <br/>
-Volledige lijst met ondersteunde conversies:
+Lijst met alle ondersteunde conversies:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -1,21 +1,21 @@
 ﻿---
-title: Java Aracılığıyla JPEG2000'ten diğer biçimlere dönüştürün 
+title: Aspose.Imaging for Java kullanarak JPEG2000 formatını desteklenen diğer formatlara dönüştürün 
 weight: 3920
 url: /tr/java/conversion/from/jpeg2000 
 lang: tr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging'i kullanarak JPEG2000 biçimini kolayca başka biçimlere dönüştürebilirsiniz
+description: Aspose.Imaging'i kullanarak JPEG2000'ten Java platformunu kullanarak diğer formatlara kolayca dönüştürebilirsiniz
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Java Yoluyla JPEG2000'den Görüntü Dosyaları Dönüştürme" h2="JPEG2000 biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java kullanarak JPEG2000'ten Görüntü Dosyaları Dönüştürme" h2="Java platformunu kullanarak JPEG2000 biçimini diğer biçimlere dönüştürün" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="JPEG2000'den dönüştürülecek desteklenen tüm resim biçimleri" %}}
-Aspose.Imaging'i kullanarak JPEG2000 formatından diğer formatlara kolayca dönüştürebilirsiniz.
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java kullanılarak JPEG2000'den dönüştürmek için desteklenen tüm resim formatları" %}}
+Aspose.Imaging'i kullanarak JPEG2000'ten Java platformunu kullanarak desteklenen diğer formatlara kolayca dönüştürebilirsiniz.
 <br/>
-Desteklenen dönüşümlerin tam listesi:
+Desteklenen tüm dönüşümler listesi:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

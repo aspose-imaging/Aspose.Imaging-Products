@@ -1,21 +1,21 @@
 ﻿---
-title: Convertir de JPEG2000 vers d'autres formats via Java 
+title: Convierta de JPEG2000 a otros formatos admitidos usando Aspose.Imaging para Java 
 weight: 3920
 url: /es/java/conversion/from/jpeg2000 
 lang: es
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging puede convertir fácilmente de JPEG2000 a otros formatos
+description: Usando Aspose.Imaging puede convertir fácilmente de JPEG2000 a otros formatos usando la plataforma Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversión de archivos de imagen de JPEG2000 a través de Java" h2="Convertir de JPEG2000 a otros formatos" downloadText="Descargar" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversión de archivos de imagen de JPEG2000 usando Aspose.Imaging para Java" h2="Convierta de JPEG2000 a otros formatos utilizando la plataforma Java" downloadText="Descargar" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos los formatos de imagen admitidos para convertir desde JPEG2000" %}}
-Usando Aspose.Imaging puede convertir fácilmente de JPEG2000 a otros formatos.
+{{% blocks/products/pf/feature-page-section  h2="Todos los formatos de imagen admitidos para convertir desde JPEG2000 usando Aspose.Imaging para Java" %}}
+Con Aspose.Imaging, puede convertir fácilmente de JPEG2000 a otros formatos compatibles con la plataforma Java.
 <br/>
-Lista completa de conversiones admitidas:
+Lista de todas las conversiones admitidas:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

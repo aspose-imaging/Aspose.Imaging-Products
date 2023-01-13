@@ -1,21 +1,21 @@
 ﻿---
-title: Convert from SVGZ to other formats Via Java 
+title: Convert from SVGZ to other supported formats using Aspose.Imaging for Java 
 weight: 3920
 url: /java/conversion/from/svgz 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Using Aspose.Imaging you can easily convert from SVGZ to other formats
+description: Using Aspose.Imaging you can easily convert from SVGZ to other formats using Java platform
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Image Files Conversion from SVGZ Via Java" h2="Convert from SVGZ to other formats" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Image Files Conversion from SVGZ using Aspose.Imaging for Java" h2="Convert from SVGZ to other formats using Java platform" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from SVGZ" %}}
-Using Aspose.Imaging you can easily convert from SVGZ to other formats.
+{{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from SVGZ using Aspose.Imaging for Java" %}}
+Using Aspose.Imaging you can easily convert from SVGZ to other supported formats using Java platform.
 <br/>
-Full list of supported conversions:
+All supported conversions list:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
