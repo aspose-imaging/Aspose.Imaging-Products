@@ -1,21 +1,21 @@
 ﻿---
-title: Java Aracılığıyla J2K'ten diğer biçimlere dönüştürün 
+title: Aspose.Imaging for Java kullanarak J2K formatını desteklenen diğer formatlara dönüştürün 
 weight: 3920
 url: /tr/java/conversion/from/j2k 
 lang: tr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging'i kullanarak J2K biçimini kolayca başka biçimlere dönüştürebilirsiniz
+description: Aspose.Imaging'i kullanarak J2K'ten Java platformunu kullanarak diğer formatlara kolayca dönüştürebilirsiniz
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Java Yoluyla J2K'den Görüntü Dosyaları Dönüştürme" h2="J2K biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java kullanarak J2K'ten Görüntü Dosyaları Dönüştürme" h2="Java platformunu kullanarak J2K biçimini diğer biçimlere dönüştürün" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="J2K'den dönüştürülecek desteklenen tüm resim biçimleri" %}}
-Aspose.Imaging'i kullanarak J2K formatından diğer formatlara kolayca dönüştürebilirsiniz.
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java kullanılarak J2K'den dönüştürmek için desteklenen tüm resim formatları" %}}
+Aspose.Imaging'i kullanarak J2K'ten Java platformunu kullanarak desteklenen diğer formatlara kolayca dönüştürebilirsiniz.
 <br/>
-Desteklenen dönüşümlerin tam listesi:
+Desteklenen tüm dönüşümler listesi:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

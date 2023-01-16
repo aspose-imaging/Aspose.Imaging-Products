@@ -1,21 +1,21 @@
 ﻿---
-title: Převést na PDF z jiných formátů přes Java 
+title: Převeďte do PDF z jiných formátů pomocí knihovny Aspose.Imaging for Java 
 weight: 3920
 url: /cs/java/conversion/to/pdf 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Pomocí Aspose.Imaging můžete snadno převést na PDF z jiných formátů
+description: Pomocí Aspose.Imaging můžete převést do PDF z jiných formátů pomocí Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů do formátu PDF prostřednictvím Java" h2="Převést na PDF z jiných formátů" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů do formátu PDF pomocí knihovny Aspose.Imaging for Java" h2="Převeďte do formátu PDF z jiných formátů obrázků pomocí platformy Java" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu na PDF" %}}
-Pomocí Aspose.Imaging můžete snadno převést do formátu PDF z jiných formátů obrázků.
+{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu do PDF pomocí Aspose.Imaging for Java" %}}
+Pomocí knihovny Aspose.Imaging můžete snadno převést do formátu PDF z jiných podporovaných formátů obrázků pomocí platformy Java.
 <br/>
-Úplný seznam podporovaných konverzí:
+Podporované konverze:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

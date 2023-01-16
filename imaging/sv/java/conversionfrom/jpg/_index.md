@@ -1,21 +1,21 @@
 ﻿---
-title: Konvertera från JPG till andra format via Java 
+title: Konvertera från JPG till andra format som stöds med Aspose.Imaging för Java 
 weight: 3920
 url: /sv/java/conversion/from/jpg 
 lang: sv
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Med Aspose.Imaging kan du enkelt konvertera från JPG till ett annat format
+description: Med Aspose.Imaging kan du enkelt konvertera från JPG till andra format med Java-plattformen
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertering av bildfiler från JPG via Java" h2="Konvertera från JPG till ett annat format" downloadText="Ladda ner" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertering av bildfiler från JPG med Aspose.Imaging för Java" h2="Konvertera från JPG till andra format med Java-plattformen" downloadText="Ladda ner" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alla bildformat som stöds för att konvertera från JPG" %}}
-Med Aspose.Imaging kan du enkelt konvertera från JPG till andra format.
+{{% blocks/products/pf/feature-page-section  h2="Alla bildformat som stöds för att konvertera från JPG med Aspose.Imaging för Java" %}}
+Med Aspose.Imaging kan du enkelt konvertera från JPG till andra format som stöds med hjälp av Java-plattformen.
 <br/>
-Fullständig lista över omvandlingar som stöds:
+Lista över alla konverteringar som stöds:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

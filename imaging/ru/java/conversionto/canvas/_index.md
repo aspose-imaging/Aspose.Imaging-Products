@@ -1,21 +1,21 @@
 ﻿---
-title: Преобразовать в CANVAS из других форматов с помощью Java 
+title: Преобразование в CANVAS из других форматов с помощью библиотеки Aspose.Imaging for Java. 
 weight: 3920
 url: /ru/java/conversion/to/canvas 
 lang: ru
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Используя Aspose.Imaging, вы можете легко конвертировать в CANVAS из других форматов.
+description: Используя Aspose.Imaging, вы можете конвертировать в CANVAS другие форматы с помощью Java.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование файлов изображений в CANVAS с помощью Java" h2="Преобразовать в CANVAS из других форматов" downloadText="Скачать" >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование файлов изображений в формат CANVAS с использованием библиотеки Aspose.Imaging for Java" h2="Преобразование в CANVAS из других форматов изображений с использованием платформы Java" downloadText="Скачать" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Все поддерживаемые форматы изображений для преобразования в CANVAS" %}}
-Используя Aspose.Imaging, вы можете легко преобразовать в CANVAS другие форматы изображений.
+{{% blocks/products/pf/feature-page-section  h2="Все поддерживаемые форматы изображений для преобразования в CANVAS с помощью Aspose.Imaging for Java" %}}
+Используя библиотеку Aspose.Imaging, вы можете легко преобразовать в CANVAS другие поддерживаемые форматы изображений, используя платформу Java.
 <br/>
-Полный список поддерживаемых преобразований:
+Поддерживаемые преобразования:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -1,21 +1,21 @@
 ﻿---
-title: המר מ-GIF לפורמטים אחרים דרך Java 
+title: המר מ-GIF לפורמטים נתמכים אחרים באמצעות Aspose.Imaging עבור Java 
 weight: 3920
 url: /he/java/conversion/from/gif 
 lang: he
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: באמצעות Aspose.Imaging תוכל להמיר בקלות מ-GIF לפורמט אחר
+description: באמצעות Aspose.Imaging תוכל להמיר בקלות מ-GIF לפורמטים אחרים באמצעות פלטפורמת Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה מ-GIF דרך Java" h2="המר מ-GIF לפורמט אחר" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה מ-GIF באמצעות Aspose.Imaging עבור Java" h2="המר מ-GIF לפורמטים אחרים באמצעות פלטפורמת Java" downloadText="הורד" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה מ-GIF" %}}
-באמצעות Aspose.Imaging תוכל להמיר בקלות מ-GIF לפורמטים אחרים.
+{{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה מ-GIF באמצעות Aspose.Imaging עבור Java" %}}
+באמצעות Aspose.Imaging תוכל להמיר בקלות מ-GIF לפורמטים נתמכים אחרים באמצעות פלטפורמת Java.
 <br/>
-רשימה מלאה של המרות נתמכות:
+רשימת כל ההמרות הנתמכות:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

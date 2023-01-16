@@ -1,21 +1,21 @@
 ﻿---
-title: Konvertuoti į JPG iš kitų formatų naudojant Java 
+title: Konvertuokite į JPG iš kitų formatų naudodami Aspose.Imaging for Java biblioteką 
 weight: 3920
 url: /lt/java/conversion/to/jpg 
 lang: lt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Naudodami Aspose.Imaging galite lengvai konvertuoti į JPG iš kitų formatų
+description: Naudodami Aspose.Imaging galite konvertuoti į JPG iš kitų formatų naudodami Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas į JPG naudojant Java" h2="Konvertuoti į JPG iš kitų formatų" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas į JPG naudojant Aspose.Imaging for Java biblioteką" h2="Konvertuokite į JPG iš kitų vaizdo formatų naudodami Java platformą" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai, kuriuos galima konvertuoti į JPG" %}}
-Naudodami Aspose.Imaging galite lengvai konvertuoti į JPG iš kitų vaizdo formatų.
+{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai, kuriuos galima konvertuoti į JPG naudojant Aspose.Imaging for Java" %}}
+Naudodami Aspose.Imaging biblioteką galite lengvai konvertuoti į JPG iš kitų palaikomų vaizdo formatų naudodami Java platformą.
 <br/>
-Visas palaikomų konversijų sąrašas:
+Palaikomos konversijos:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -1,21 +1,21 @@
 ﻿---
-title: Convert from JP2 to other formats Via Java 
+title: Convert from JP2 to other supported formats using Aspose.Imaging for Java 
 weight: 3920
 url: /java/conversion/from/jp2 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Using Aspose.Imaging you can easily convert from JP2 to other formats
+description: Using Aspose.Imaging you can easily convert from JP2 to other formats using Java platform
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Image Files Conversion from JP2 Via Java" h2="Convert from JP2 to other formats" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Image Files Conversion from JP2 using Aspose.Imaging for Java" h2="Convert from JP2 to other formats using Java platform" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from JP2" %}}
-Using Aspose.Imaging you can easily convert from JP2 to other formats.
+{{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from JP2 using Aspose.Imaging for Java" %}}
+Using Aspose.Imaging you can easily convert from JP2 to other supported formats using Java platform.
 <br/>
-Full list of supported conversions:
+All supported conversions list:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

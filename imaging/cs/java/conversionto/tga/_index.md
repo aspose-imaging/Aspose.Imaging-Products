@@ -1,21 +1,21 @@
 ﻿---
-title: Převést na TGA z jiných formátů přes Java 
+title: Převeďte do TGA z jiných formátů pomocí knihovny Aspose.Imaging for Java 
 weight: 3920
 url: /cs/java/conversion/to/tga 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Pomocí Aspose.Imaging můžete snadno převést na TGA z jiných formátů
+description: Pomocí Aspose.Imaging můžete převést do TGA z jiných formátů pomocí Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů do formátu TGA prostřednictvím Java" h2="Převést na TGA z jiných formátů" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů do formátu TGA pomocí knihovny Aspose.Imaging for Java" h2="Převeďte do formátu TGA z jiných formátů obrázků pomocí platformy Java" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu na TGA" %}}
-Pomocí Aspose.Imaging můžete snadno převést do formátu TGA z jiných formátů obrázků.
+{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu do TGA pomocí Aspose.Imaging for Java" %}}
+Pomocí knihovny Aspose.Imaging můžete snadno převést do formátu TGA z jiných podporovaných formátů obrázků pomocí platformy Java.
 <br/>
-Úplný seznam podporovaných konverzí:
+Podporované konverze:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -1,21 +1,21 @@
 ﻿---
-title: Converti in GIF da altri formati tramite Java 
+title: Converti in GIF da altri formati utilizzando Aspose.Imaging per la libreria Java 
 weight: 3920
 url: /it/java/conversion/to/gif 
 lang: it
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging puoi facilmente convertire in GIF da altri formati
+description: Usando Aspose.Imaging puoi convertire in GIF da altri formati usando Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversione di file immagine in GIF tramite Java" h2="Converti in GIF da altri formati" downloadText="Scarica" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversione dei file immagine in GIF utilizzando Aspose.Imaging per la libreria Java" h2="Converti in GIF da altri formati immagine utilizzando la piattaforma Java" downloadText="Scarica" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tutti i formati immagine supportati per la conversione da a GIF" %}}
-Usando Aspose.Imaging puoi facilmente convertire in GIF da altri formati di immagine.
+{{% blocks/products/pf/feature-page-section  h2="Tutti i formati immagine supportati da convertire in GIF utilizzando Aspose.Imaging per Java" %}}
+Utilizzando la libreria Aspose.Imaging puoi facilmente convertire in GIF da altri formati di immagine supportati utilizzando la piattaforma Java.
 <br/>
-Elenco completo delle conversioni supportate:
+Conversioni supportate:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

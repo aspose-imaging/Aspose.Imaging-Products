@@ -1,21 +1,21 @@
 ﻿---
-title: Convertir de SVG vers d'autres formats via Java 
+title: Convertir de SVG vers d'autres formats pris en charge à l'aide d'Aspose.Imaging pour Java 
 weight: 3920
 url: /fr/java/conversion/from/svg 
 lang: fr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: En utilisant Aspose.Imaging, vous pouvez facilement convertir de SVG vers un autre format
+description: En utilisant Aspose.Imaging, vous pouvez facilement convertir de SVG vers d'autres formats à l'aide de la plate-forme Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversion de fichiers image à partir de SVG via Java" h2="Convertir de SVG vers un autre format" downloadText="Télécharger" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversion de fichiers image à partir de SVG à l'aide d'Aspose.Imaging pour Java" h2="Convertir de SVG vers d'autres formats à l'aide de la plate-forme Java" downloadText="Télécharger" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tous les formats d'image pris en charge pour convertir à partir de SVG" %}}
-En utilisant Aspose.Imaging, vous pouvez facilement convertir de SVG vers d'autres formats.
+{{% blocks/products/pf/feature-page-section  h2="Tous les formats d'image pris en charge à convertir à partir de SVG à l'aide d'Aspose.Imaging pour Java" %}}
+En utilisant Aspose.Imaging, vous pouvez facilement convertir de SVG vers d'autres formats pris en charge à l'aide de la plate-forme Java.
 <br/>
-Liste complète des conversions prises en charge :
+Liste de toutes les conversions acceptées :
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

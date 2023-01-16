@@ -1,21 +1,21 @@
 ﻿---
-title: Převést z DICOM do jiných formátů přes Java 
+title: Převeďte z DICOM do jiných podporovaných formátů pomocí Aspose.Imaging for Java 
 weight: 3920
 url: /cs/java/conversion/from/dicom 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Pomocí Aspose.Imaging můžete snadno převést z formátu DICOM do jiných formátů
+description: Pomocí Aspose.Imaging můžete snadno převádět z formátu DICOM do jiných formátů pomocí platformy Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů z formátu DICOM prostřednictvím Java" h2="Převést z DICOM do jiných formátů" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů z formátu DICOM pomocí Aspose.Imaging for Java" h2="Převeďte z DICOM do jiných formátů pomocí platformy Java" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu z formátu DICOM" %}}
-Pomocí Aspose.Imaging můžete snadno převádět z formátu DICOM do jiných formátů.
+{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu z formátu DICOM pomocí Aspose.Imaging for Java" %}}
+Pomocí Aspose.Imaging můžete snadno převádět z formátu DICOM do jiných podporovaných formátů pomocí platformy Java.
 <br/>
-Úplný seznam podporovaných konverzí:
+Seznam všech podporovaných konverzí:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

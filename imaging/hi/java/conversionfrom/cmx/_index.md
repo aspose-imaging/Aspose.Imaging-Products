@@ -1,21 +1,21 @@
 ﻿---
-title: Java के माध्यम से CMX से अन्य प्रारूपों में कनवर्ट करें 
+title: जावा के लिए Aspose.Imaging का उपयोग करके CMX से अन्य समर्थित स्वरूपों में कनवर्ट करें 
 weight: 3920
 url: /hi/java/conversion/from/cmx 
 lang: hi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging का उपयोग करके आप आसानी से CMX से अन्य स्वरूपों में परिवर्तित कर सकते हैं
+description: Aspose.Imaging का उपयोग करके आप जावा प्लेटफॉर्म का उपयोग करके आसानी से CMX से अन्य प्रारूपों में परिवर्तित कर सकते हैं
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Java के माध्यम से CMX से छवि फ़ाइलों का रूपांतरण" h2="CMX से दूसरे फ़ॉर्मैट में बदलें" downloadText="डाउनलोड" >}}
+{{< blocks/products/pf/feature-page-header h1="जावा के लिए Aspose.Imaging का उपयोग करके CMX से छवि फ़ाइलें रूपांतरण" h2="जावा प्लेटफॉर्म का उपयोग करके CMX से अन्य प्रारूपों में कनवर्ट करें" downloadText="डाउनलोड" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="CMX से कनवर्ट करने के लिए सभी समर्थित छवि प्रारूप" %}}
-Aspose.Imaging का उपयोग करके आप आसानी से CMX से अन्य प्रारूपों में परिवर्तित कर सकते हैं।
+{{% blocks/products/pf/feature-page-section  h2="जावा के लिए Aspose.Imaging का उपयोग करके CMX से कनवर्ट करने के लिए सभी समर्थित छवि प्रारूप" %}}
+Aspose.Imaging का उपयोग करके आप जावा प्लेटफॉर्म का उपयोग करके आसानी से CMX से अन्य समर्थित स्वरूपों में परिवर्तित कर सकते हैं।
 <br/>
-समर्थित रूपांतरणों की पूरी सूची:
+सभी समर्थित रूपांतरण सूची:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -1,21 +1,21 @@
 ﻿---
-title: Başka biçimlerden PNG biçimine dönüştürün Java 
+title: Aspose.Imaging for Java kitaplığını kullanarak diğer formatlardan PNG formatına dönüştürün 
 weight: 3920
 url: /tr/java/conversion/to/png 
 lang: tr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging'i kullanarak başka biçimlerden PNG biçimine kolayca dönüştürebilirsiniz
+description: Aspose.Imaging'i kullanarak Java kullanan diğer biçimlerden PNG biçimine dönüştürebilirsiniz
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Java Yoluyla Görüntü Dosyaları Dönüştürme" h2="Başka biçimlerden PNG biçimine dönüştürün" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java kitaplığı kullanılarak Görüntü Dosyalarının PNG biçimine dönüştürülmesi" h2="Java platformunu kullanarak diğer görüntü biçimlerinden PNG biçimine dönüştürün" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="PNG biçimine dönüştürülecek desteklenen tüm resim biçimleri" %}}
-Aspose.Imaging'i kullanarak diğer görüntü biçimlerinden PNG biçimine kolayca dönüştürebilirsiniz.
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java kullanılarak PNG biçimine dönüştürmek için desteklenen tüm görüntü biçimleri" %}}
+Aspose.Imaging kütüphanesini kullanarak, Java platformunu kullanarak desteklenen diğer görüntü biçimlerinden PNG biçimine kolayca dönüştürebilirsiniz.
 <br/>
-Desteklenen dönüşümlerin tam listesi:
+Desteklenen dönüşümler:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

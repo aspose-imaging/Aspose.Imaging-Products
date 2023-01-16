@@ -1,21 +1,21 @@
 ﻿---
-title: Konwertuj na APNG z innych formatów przez Java 
+title: Konwertuj do formatu APNG z innych formatów przy użyciu biblioteki Aspose.Imaging for Java 
 weight: 3920
 url: /pl/java/conversion/to/apng 
 lang: pl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Za pomocą Aspose.Imaging możesz łatwo przekonwertować do APNG z innych formatów
+description: Za pomocą Aspose.Imaging możesz konwertować do APNG z innych formatów przy użyciu Javy
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwersja plików obrazów na APNG przez Java" h2="Konwertuj na APNG z innych formatów" downloadText="Ściągnij" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwersja plików graficznych do formatu APNG przy użyciu biblioteki Aspose.Imaging for Java" h2="Konwertuj do APNG z innych formatów obrazów za pomocą platformy Java" downloadText="Ściągnij" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty obrazów do przekonwertowania na APNG" %}}
-Za pomocą Aspose.Imaging możesz łatwo przekonwertować do APNG z innych formatów obrazów.
+{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty obrazów do przekonwertowania na APNG przy użyciu Aspose.Imaging for Java" %}}
+Korzystając z biblioteki Aspose.Imaging możesz łatwo przekonwertować do APNG z innych obsługiwanych formatów obrazów przy użyciu platformy Java.
 <br/>
-Pełna lista obsługiwanych konwersji:
+Obsługiwane konwersje:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

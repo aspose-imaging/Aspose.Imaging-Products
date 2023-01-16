@@ -1,21 +1,21 @@
 ﻿---
-title: Konwertuj na JP2 z innych formatów przez Java 
+title: Konwertuj do formatu JP2 z innych formatów przy użyciu biblioteki Aspose.Imaging for Java 
 weight: 3920
 url: /pl/java/conversion/to/jp2 
 lang: pl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Za pomocą Aspose.Imaging możesz łatwo przekonwertować do JP2 z innych formatów
+description: Za pomocą Aspose.Imaging możesz konwertować do JP2 z innych formatów przy użyciu Javy
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwersja plików obrazów na JP2 przez Java" h2="Konwertuj na JP2 z innych formatów" downloadText="Ściągnij" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwersja plików graficznych do formatu JP2 przy użyciu biblioteki Aspose.Imaging for Java" h2="Konwertuj do JP2 z innych formatów obrazów za pomocą platformy Java" downloadText="Ściągnij" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty obrazów do przekonwertowania na JP2" %}}
-Za pomocą Aspose.Imaging możesz łatwo przekonwertować do JP2 z innych formatów obrazów.
+{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty obrazów do przekonwertowania na JP2 przy użyciu Aspose.Imaging for Java" %}}
+Korzystając z biblioteki Aspose.Imaging możesz łatwo przekonwertować do JP2 z innych obsługiwanych formatów obrazów przy użyciu platformy Java.
 <br/>
-Pełna lista obsługiwanych konwersji:
+Obsługiwane konwersje:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

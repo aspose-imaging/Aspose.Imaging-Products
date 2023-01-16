@@ -1,21 +1,21 @@
 ﻿---
-title: Converti da ODG in altri formati tramite Java 
+title: Converti da ODG in altri formati supportati utilizzando Aspose.Imaging per Java 
 weight: 3920
 url: /it/java/conversion/from/odg 
 lang: it
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging puoi facilmente convertire da ODG ad altri formati
+description: Usando Aspose.Imaging puoi convertire facilmente da ODG ad altri formati usando la piattaforma Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversione di file immagine da ODG tramite Java" h2="Converti da ODG in altri formati" downloadText="Scarica" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversione di file immagine da ODG utilizzando Aspose.Imaging per Java" h2="Converti da ODG in altri formati utilizzando la piattaforma Java" downloadText="Scarica" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tutti i formati immagine supportati per la conversione da ODG" %}}
-Usando Aspose.Imaging puoi facilmente convertire da ODG ad altri formati.
+{{% blocks/products/pf/feature-page-section  h2="Tutti i formati immagine supportati da convertire da ODG utilizzando Aspose.Imaging per Java" %}}
+Usando Aspose.Imaging puoi convertire facilmente da ODG ad altri formati supportati usando la piattaforma Java.
 <br/>
-Elenco completo delle conversioni supportate:
+Elenco di tutte le conversioni supportate:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

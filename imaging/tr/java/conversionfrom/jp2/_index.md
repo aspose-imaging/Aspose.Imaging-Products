@@ -1,21 +1,21 @@
 ﻿---
-title: Java Aracılığıyla JP2'ten diğer biçimlere dönüştürün 
+title: Aspose.Imaging for Java kullanarak JP2 formatını desteklenen diğer formatlara dönüştürün 
 weight: 3920
 url: /tr/java/conversion/from/jp2 
 lang: tr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging'i kullanarak JP2 biçimini kolayca başka biçimlere dönüştürebilirsiniz
+description: Aspose.Imaging'i kullanarak JP2'ten Java platformunu kullanarak diğer formatlara kolayca dönüştürebilirsiniz
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Java Yoluyla JP2'den Görüntü Dosyaları Dönüştürme" h2="JP2 biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java kullanarak JP2'ten Görüntü Dosyaları Dönüştürme" h2="Java platformunu kullanarak JP2 biçimini diğer biçimlere dönüştürün" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="JP2'den dönüştürülecek desteklenen tüm resim biçimleri" %}}
-Aspose.Imaging'i kullanarak JP2 formatından diğer formatlara kolayca dönüştürebilirsiniz.
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java kullanılarak JP2'den dönüştürmek için desteklenen tüm resim formatları" %}}
+Aspose.Imaging'i kullanarak JP2'ten Java platformunu kullanarak desteklenen diğer formatlara kolayca dönüştürebilirsiniz.
 <br/>
-Desteklenen dönüşümlerin tam listesi:
+Desteklenen tüm dönüşümler listesi:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

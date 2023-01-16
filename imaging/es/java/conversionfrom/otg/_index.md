@@ -1,21 +1,21 @@
 ﻿---
-title: Convertir de OTG vers d'autres formats via Java 
+title: Convierta de OTG a otros formatos admitidos usando Aspose.Imaging para Java 
 weight: 3920
 url: /es/java/conversion/from/otg 
 lang: es
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging puede convertir fácilmente de OTG a otros formatos
+description: Usando Aspose.Imaging puede convertir fácilmente de OTG a otros formatos usando la plataforma Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversión de archivos de imagen de OTG a través de Java" h2="Convertir de OTG a otros formatos" downloadText="Descargar" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversión de archivos de imagen de OTG usando Aspose.Imaging para Java" h2="Convierta de OTG a otros formatos utilizando la plataforma Java" downloadText="Descargar" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos los formatos de imagen admitidos para convertir desde OTG" %}}
-Usando Aspose.Imaging puede convertir fácilmente de OTG a otros formatos.
+{{% blocks/products/pf/feature-page-section  h2="Todos los formatos de imagen admitidos para convertir desde OTG usando Aspose.Imaging para Java" %}}
+Con Aspose.Imaging, puede convertir fácilmente de OTG a otros formatos compatibles con la plataforma Java.
 <br/>
-Lista completa de conversiones admitidas:
+Lista de todas las conversiones admitidas:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

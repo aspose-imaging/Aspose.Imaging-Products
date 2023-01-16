@@ -1,21 +1,21 @@
 ﻿---
-title: Converti in WMZ da altri formati tramite Java 
+title: Converti in WMZ da altri formati utilizzando Aspose.Imaging per la libreria Java 
 weight: 3920
 url: /it/java/conversion/to/wmz 
 lang: it
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging puoi facilmente convertire in WMZ da altri formati
+description: Usando Aspose.Imaging puoi convertire in WMZ da altri formati usando Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversione di file immagine in WMZ tramite Java" h2="Converti in WMZ da altri formati" downloadText="Scarica" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversione dei file immagine in WMZ utilizzando Aspose.Imaging per la libreria Java" h2="Converti in WMZ da altri formati immagine utilizzando la piattaforma Java" downloadText="Scarica" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tutti i formati immagine supportati per la conversione da a WMZ" %}}
-Usando Aspose.Imaging puoi facilmente convertire in WMZ da altri formati di immagine.
+{{% blocks/products/pf/feature-page-section  h2="Tutti i formati immagine supportati da convertire in WMZ utilizzando Aspose.Imaging per Java" %}}
+Utilizzando la libreria Aspose.Imaging puoi facilmente convertire in WMZ da altri formati di immagine supportati utilizzando la piattaforma Java.
 <br/>
-Elenco completo delle conversioni supportate:
+Conversioni supportate:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

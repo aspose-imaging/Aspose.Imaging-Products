@@ -1,21 +1,21 @@
 ﻿---
-title: Java Aracılığıyla DIB'ten diğer biçimlere dönüştürün 
+title: Aspose.Imaging for Java kullanarak DIB formatını desteklenen diğer formatlara dönüştürün 
 weight: 3920
 url: /tr/java/conversion/from/dib 
 lang: tr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging'i kullanarak DIB biçimini kolayca başka biçimlere dönüştürebilirsiniz
+description: Aspose.Imaging'i kullanarak DIB'ten Java platformunu kullanarak diğer formatlara kolayca dönüştürebilirsiniz
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Java Yoluyla DIB'den Görüntü Dosyaları Dönüştürme" h2="DIB biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java kullanarak DIB'ten Görüntü Dosyaları Dönüştürme" h2="Java platformunu kullanarak DIB biçimini diğer biçimlere dönüştürün" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="DIB'den dönüştürülecek desteklenen tüm resim biçimleri" %}}
-Aspose.Imaging'i kullanarak DIB formatından diğer formatlara kolayca dönüştürebilirsiniz.
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java kullanılarak DIB'den dönüştürmek için desteklenen tüm resim formatları" %}}
+Aspose.Imaging'i kullanarak DIB'ten Java platformunu kullanarak desteklenen diğer formatlara kolayca dönüştürebilirsiniz.
 <br/>
-Desteklenen dönüşümlerin tam listesi:
+Desteklenen tüm dönüşümler listesi:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

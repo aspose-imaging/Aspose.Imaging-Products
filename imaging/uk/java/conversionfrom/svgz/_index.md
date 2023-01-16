@@ -1,21 +1,21 @@
 ﻿---
-title: Конвертувати з SVGZ в інші формати за допомогою Java 
+title: Перетворюйте з SVGZ в інші підтримувані формати за допомогою Aspose.Imaging для Java 
 weight: 3920
 url: /uk/java/conversion/from/svgz 
 lang: uk
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: За допомогою Aspose.Imaging ви можете легко конвертувати з SVGZ в інші формати
+description: Використовуючи Aspose.Imaging, ви можете легко конвертувати з SVGZ в інші формати за допомогою платформи Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Перетворення файлів зображень з SVGZ за допомогою Java" h2="Конвертувати з SVGZ в інші формати" downloadText="Завантажити" >}}
+{{< blocks/products/pf/feature-page-header h1="Перетворення файлів зображень із SVGZ за допомогою Aspose.Imaging for Java" h2="Перетворення з SVGZ в інші формати за допомогою платформи Java" downloadText="Завантажити" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для конвертації з SVGZ" %}}
-За допомогою Aspose.Imaging ви можете легко конвертувати з SVGZ в інші формати.
+{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для конвертації з SVGZ за допомогою Aspose.Imaging for Java" %}}
+Використовуючи Aspose.Imaging, ви можете легко конвертувати з SVGZ в інші підтримувані формати за допомогою платформи Java.
 <br/>
-Повний список підтримуваних конвертацій:
+Список усіх підтримуваних конверсій:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

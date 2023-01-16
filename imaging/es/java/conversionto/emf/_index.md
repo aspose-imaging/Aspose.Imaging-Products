@@ -1,21 +1,21 @@
 ﻿---
-title: Convertir a EMF desde otros formatos de Java 
+title: Convierta a EMF desde otros formatos utilizando la biblioteca Aspose.Imaging para Java 
 weight: 3920
 url: /es/java/conversion/to/emf 
 lang: es
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging puede convertir fácilmente a EMF desde otros formatos
+description: Usando Aspose.Imaging puede convertir a EMF desde otros formatos usando Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversión de archivos de imagen a EMF a través de Java" h2="Convertir a EMF desde otros formatos" downloadText="Descargar" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversión de archivos de imagen a EMF utilizando la biblioteca Aspose.Imaging para Java" h2="Convierta a EMF desde otros formatos de imagen utilizando la plataforma Java" downloadText="Descargar" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos los formatos de imagen admitidos para convertir a EMF" %}}
-Con Aspose.Imaging puede convertir fácilmente a EMF desde otros formatos de imagen.
+{{% blocks/products/pf/feature-page-section  h2="Todos los formatos de imagen admitidos para convertir a EMF usando Aspose.Imaging para Java" %}}
+Con la biblioteca Aspose.Imaging, puede convertir fácilmente a EMF desde otros formatos de imagen admitidos utilizando la plataforma Java.
 <br/>
-Lista completa de conversiones admitidas:
+Conversiones admitidas:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
