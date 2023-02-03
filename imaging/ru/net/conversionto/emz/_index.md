@@ -1,21 +1,21 @@
 ﻿---
-title: Преобразовать в EMZ из других форматов с помощью .NET 
+title: Преобразование изображений в формат изображения EMZ из других поддерживаемых форматов с использованием платформы .NET. 
 weight: 3920
 url: /ru/net/conversion/to/emz 
 lang: ru
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Используя Aspose.Imaging, вы можете легко конвертировать в EMZ из других форматов.
+description: Используя библиотеку Aspose.Imaging for .NET, можно легко преобразовать в EMZ другие поддерживаемые форматы изображений.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование файлов изображений в EMZ с помощью .NET" h2="Преобразовать в EMZ из других форматов" downloadText="Скачать" >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование файлов изображений в формат изображения EMZ с использованием платформы .NET." h2="Преобразование в формат EMZ из других форматов с помощью библиотеки Aspose.Imaging for .NET." downloadText="Скачать" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Все поддерживаемые форматы изображений для преобразования в EMZ" %}}
-Используя Aspose.Imaging, вы можете легко преобразовать в EMZ другие форматы изображений.
+{{% blocks/products/pf/feature-page-section  h2="Все поддерживаемые преобразования в формат EMZ с использованием библиотеки Aspose.Imaging for .NET" %}}
+Используя библиотеку Aspose.Imaging, вы можете программно преобразовывать различные форматы изображений в изображения EMZ.
 <br/>
-Полный список поддерживаемых преобразований:
+Поддерживаются следующие преобразования:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

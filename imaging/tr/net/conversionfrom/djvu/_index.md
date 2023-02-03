@@ -13,7 +13,7 @@ description: Aspose.Imaging'i kullanarak DJVU biçimini kolayca başka biçimler
 
 
 {{% blocks/products/pf/feature-page-section  h2="DJVU'den dönüştürülecek desteklenen tüm resim biçimleri" %}}
-Aspose.Imaging'i kullanarak DJVU formatından diğer formatlara kolayca dönüştürebilirsiniz.
+Aspose.Imaging, .NET platformunda DJVU'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir.
 <br/>
 Desteklenen dönüşümlerin tam listesi:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,21 +1,21 @@
 ﻿---
-title: Konvertieren Sie von anderen Formaten in SVG über .NET 
+title: Konvertieren Sie Bilder aus anderen unterstützten Formaten mithilfe der .NET-Plattform in das Bildformat SVG 
 weight: 3920
 url: /de/net/conversion/to/svg 
 lang: de
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Mit Aspose.Imaging können Sie problemlos von anderen Formaten in SVG konvertieren
+description: Mit Aspose.Imaging für die .NET-Bibliothek ist es einfach, von anderen unterstützten Bildformaten in SVG zu konvertieren
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertierung von Bilddateien in SVG über .NET" h2="Konvertieren Sie von anderen Formaten in SVG" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie Bilddateien mithilfe der .NET-Plattform in das Bildformat SVG" h2="Konvertieren Sie mithilfe der Aspose.Imaging for .NET-Bibliothek aus anderen Formaten in das SVG-Format" downloadText="Herunterladen" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bildformate zum Konvertieren in SVG" %}}
-Mit Aspose.Imaging können Sie problemlos von anderen Bildformaten in SVG konvertieren.
+{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Konvertierungen in das SVG-Format mit Aspose.Imaging für die .NET-Bibliothek" %}}
+Mit der Aspose.Imaging-Bibliothek können Sie verschiedene Bildformate programmgesteuert in SVG-Bilder konvertieren.
 <br/>
-Vollständige Liste der unterstützten Konvertierungen:
+Folgende Konvertierungen werden unterstützt:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

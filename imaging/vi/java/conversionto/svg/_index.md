@@ -12,8 +12,8 @@ description: Sử dụng Aspose.Imaging, bạn có thể chuyển đổi sang SV
 {{< blocks/products/pf/feature-page-header h1="Chuyển đổi tệp hình ảnh sang SVG bằng thư viện Aspose.Imaging for Java" h2="Chuyển đổi sang SVG từ các định dạng hình ảnh khác bằng nền tảng Java" downloadText="Tải xuống" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tất cả các định dạng hình ảnh được hỗ trợ để chuyển đổi từ SVG sang bằng Aspose.Imaging for Java" %}}
-Sử dụng thư viện Aspose.Imaging, bạn có thể dễ dàng chuyển đổi sang SVG từ các định dạng hình ảnh được hỗ trợ khác bằng nền tảng Java.
+{{% blocks/products/pf/feature-page-section  h2="Tất cả các định dạng hình ảnh được hỗ trợ đều có thể chuyển đổi thành SVG bằng Aspose.Imaging for Java" %}}
+Sử dụng thư viện Aspose.Imaging, bạn có thể lập trình chuyển đổi sang SVG từ các định dạng hình ảnh được hỗ trợ khác bằng nền tảng Java.
 <br/>
 Chuyển đổi được hỗ trợ:
 {{% /blocks/products/pf/feature-page-section %}}

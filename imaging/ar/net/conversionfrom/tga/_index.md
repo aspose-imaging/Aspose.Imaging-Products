@@ -13,7 +13,7 @@ description: باستخدام Aspose.Imaging ، يمكنك بسهولة التح
 
 
 {{% blocks/products/pf/feature-page-section  h2="جميع تنسيقات الصور المدعومة للتحويل من TGA" %}}
-باستخدام Aspose.Imaging ، يمكنك بسهولة التحويل من TGA إلى تنسيقات أخرى.
+يسمح Aspose.Imaging بأتمتة الكثير من التحويلات من TGA إلى تنسيقات أخرى على منصة .NET.
 <br/>
 القائمة الكاملة للتحويلات المدعومة:
 {{% /blocks/products/pf/feature-page-section %}}

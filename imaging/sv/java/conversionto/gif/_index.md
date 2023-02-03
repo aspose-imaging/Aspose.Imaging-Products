@@ -12,8 +12,8 @@ description: Med Aspose.Imaging kan du konvertera till GIF från andra format me
 {{< blocks/products/pf/feature-page-header h1="Bildfiler Konvertering till GIF med Aspose.Imaging för Java-bibliotek" h2="Konvertera till GIF från andra bildformat med Java-plattformen" downloadText="Ladda ner" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alla bildformat som stöds att konvertera från till GIF med Aspose.Imaging för Java" %}}
-Med hjälp av Aspose.Imaging-biblioteket kan du enkelt konvertera till GIF från andra bildformat som stöds med hjälp av Java-plattformen.
+{{% blocks/products/pf/feature-page-section  h2="Alla bildformat som stöds kan konverteras till GIF med Aspose.Imaging för Java" %}}
+Med hjälp av Aspose.Imaging-biblioteket kan du programmatiskt konvertera till GIF från andra bildformat som stöds med hjälp av Java-plattformen.
 <br/>
 Omvandlingar som stöds:
 {{% /blocks/products/pf/feature-page-section %}}

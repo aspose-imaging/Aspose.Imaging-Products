@@ -1,21 +1,21 @@
 ﻿---
-title: Konvertera till CANVAS från ett annat format via .NET 
+title: Konvertera bilder till CANVAS-bildformat från andra format som stöds med .NET-plattformen 
 weight: 3920
 url: /sv/net/conversion/to/canvas 
 lang: sv
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Med Aspose.Imaging kan du enkelt konvertera till CANVAS från andra format
+description: Med Aspose.Imaging för .NET-bibliotek är det lätt att konvertera till CANVAS från andra bildformat som stöds
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertering av bildfiler till CANVAS via .NET" h2="Konvertera till CANVAS från ett annat format" downloadText="Ladda ner" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertera bildfiler till bildformatet CANVAS med .NET-plattformen" h2="Konvertera till CANVAS-format från andra format med Aspose.Imaging för .NET-bibliotek" downloadText="Ladda ner" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alla bildformat som stöds att konvertera från till CANVAS" %}}
-Med Aspose.Imaging kan du enkelt konvertera till CANVAS från andra bildformat.
+{{% blocks/products/pf/feature-page-section  h2="Alla omvandlingar som stöds till CANVAS-format med Aspose.Imaging för .NET-bibliotek" %}}
+Med hjälp av Aspose.Imaging-biblioteket kan du programmatiskt konvertera olika bildformat till CANVAS-bild.
 <br/>
-Fullständig lista över omvandlingar som stöds:
+Följande konverteringar stöds:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -5,17 +5,18 @@ url: /nl/java/conversion/from/jp2
 lang: nl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Met Aspose.Imaging kunt u eenvoudig converteren van JP2 naar andere formaten met behulp van het Java-platform
+description: Aspose.Imaging kan eenvoudig converteren van JP2 naar andere formaten met behulp van het Java-platform
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversie van afbeeldingsbestanden van JP2 met behulp van Aspose.Imaging voor Java" h2="Converteer van JP2 naar andere formaten met behulp van het Java-platform" downloadText="Downloaden" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer afbeeldingen van JP2-indeling met Aspose.Imaging voor Java" h2="Converteer van JP2 afbeeldingsformaat naar andere formaten met behulp van het Java-platform" downloadText="Downloaden" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde afbeeldingsindelingen om te converteren van JP2 met Aspose.Imaging voor Java" %}}
-Met Aspose.Imaging kunt u eenvoudig converteren van JP2 naar andere ondersteunde formaten met behulp van het Java-platform.
+{{% blocks/products/pf/feature-page-section  h2="Breed spectrum aan afbeeldingsindelingen die kunnen worden geconverteerd van JP2-afbeeldingen met Aspose.Imaging voor Java" %}}
+U kunt programmatisch converteren van het JP2-formaat naar andere beschikbare formaten met behulp van
+Aspose.Imaging voor Java.
 <br/>
-Lijst met alle ondersteunde conversies:
+Er zijn de volgende verbouwingen aan boord:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

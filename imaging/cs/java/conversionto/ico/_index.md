@@ -12,8 +12,8 @@ description: Pomocí Aspose.Imaging můžete převést do ICO z jiných formát�
 {{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů do formátu ICO pomocí knihovny Aspose.Imaging for Java" h2="Převeďte do formátu ICO z jiných formátů obrázků pomocí platformy Java" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu do ICO pomocí Aspose.Imaging for Java" %}}
-Pomocí knihovny Aspose.Imaging můžete snadno převést do formátu ICO z jiných podporovaných formátů obrázků pomocí platformy Java.
+{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků lze převést do formátu ICO pomocí Aspose.Imaging for Java" %}}
+Pomocí knihovny Aspose.Imaging můžete pomocí platformy Java programově převádět do formátu ICO z jiných podporovaných formátů obrázků.
 <br/>
 Podporované konverze:
 {{% /blocks/products/pf/feature-page-section %}}

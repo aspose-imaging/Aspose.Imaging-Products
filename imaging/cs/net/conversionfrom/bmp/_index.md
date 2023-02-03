@@ -13,7 +13,7 @@ description: Pomocí Aspose.Imaging můžete snadno převést z formátu BMP do 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu z formátu BMP" %}}
-Pomocí Aspose.Imaging můžete snadno převádět z formátu BMP do jiných formátů.
+Aspose.Imaging umožňuje automatizovat mnoho konverzí z BMP do jiných formátů na platformě .NET.
 <br/>
 Úplný seznam podporovaných konverzí:
 {{% /blocks/products/pf/feature-page-section %}}

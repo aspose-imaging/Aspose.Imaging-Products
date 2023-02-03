@@ -13,7 +13,7 @@ description: Aspose.Imaging'i kullanarak ODG biçimini kolayca başka biçimlere
 
 
 {{% blocks/products/pf/feature-page-section  h2="ODG'den dönüştürülecek desteklenen tüm resim biçimleri" %}}
-Aspose.Imaging'i kullanarak ODG formatından diğer formatlara kolayca dönüştürebilirsiniz.
+Aspose.Imaging, .NET platformunda ODG'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir.
 <br/>
 Desteklenen dönüşümlerin tam listesi:
 {{% /blocks/products/pf/feature-page-section %}}

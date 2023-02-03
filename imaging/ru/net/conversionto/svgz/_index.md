@@ -1,21 +1,21 @@
 ﻿---
-title: Преобразовать в SVGZ из других форматов с помощью .NET 
+title: Преобразование изображений в формат изображения SVGZ из других поддерживаемых форматов с использованием платформы .NET. 
 weight: 3920
 url: /ru/net/conversion/to/svgz 
 lang: ru
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Используя Aspose.Imaging, вы можете легко конвертировать в SVGZ из других форматов.
+description: Используя библиотеку Aspose.Imaging for .NET, можно легко преобразовать в SVGZ другие поддерживаемые форматы изображений.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование файлов изображений в SVGZ с помощью .NET" h2="Преобразовать в SVGZ из других форматов" downloadText="Скачать" >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование файлов изображений в формат изображения SVGZ с использованием платформы .NET." h2="Преобразование в формат SVGZ из других форматов с помощью библиотеки Aspose.Imaging for .NET." downloadText="Скачать" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Все поддерживаемые форматы изображений для преобразования в SVGZ" %}}
-Используя Aspose.Imaging, вы можете легко преобразовать в SVGZ другие форматы изображений.
+{{% blocks/products/pf/feature-page-section  h2="Все поддерживаемые преобразования в формат SVGZ с использованием библиотеки Aspose.Imaging for .NET" %}}
+Используя библиотеку Aspose.Imaging, вы можете программно преобразовывать различные форматы изображений в изображения SVGZ.
 <br/>
-Полный список поддерживаемых преобразований:
+Поддерживаются следующие преобразования:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

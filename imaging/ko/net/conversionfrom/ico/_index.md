@@ -13,7 +13,7 @@ description: Aspose.Imaging을 사용하면 ICO에서 다른 형식으로 쉽게
 
 
 {{% blocks/products/pf/feature-page-section  h2="ICO에서 변환할 지원되는 모든 이미지 형식" %}}
-Aspose.Imaging을 사용하면 ICO에서 다른 형식으로 쉽게 변환할 수 있습니다.
+Aspose.Imaging을 사용하면 ICO에서 .NET 플랫폼의 다른 형식으로 많은 변환을 자동화할 수 있습니다.
 <br/>
 지원되는 변환의 전체 목록:
 {{% /blocks/products/pf/feature-page-section %}}

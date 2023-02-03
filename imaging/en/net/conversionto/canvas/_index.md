@@ -1,21 +1,21 @@
 ﻿---
-title: Convert to CANVAS from other formats via .NET 
+title: Convert images to CANVAS image format from other supported formats using .NET platform 
 weight: 3920
 url: /net/conversion/to/canvas 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Using Aspose.Imaging you can easily convert to CANVAS from other formats
+description: Using Aspose.Imaging for .NET library it is easy to convert to CANVAS from other supported image formats
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Image Files Conversion to CANVAS Via .NET" h2="Convert to CANVAS from other formats" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert Image Files to CANVAS image format using .NET platform" h2="Convert to CANVAS format from other formats using Aspose.Imaging for .NET library" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from to CANVAS" %}}
-Using Aspose.Imaging you can easily convert to CANVAS from other image formats.
+{{% blocks/products/pf/feature-page-section  h2="All supported conversions to CANVAS format using Aspose.Imaging for .NET library" %}}
+Using Aspose.Imaging library you can programmatically convert various image formats to CANVAS image.
 <br/>
-Full list of supported conversions:
+Following conversions are supported :
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

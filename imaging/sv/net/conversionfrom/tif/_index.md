@@ -13,7 +13,7 @@ description: Med Aspose.Imaging kan du enkelt konvertera från TIF till ett anna
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alla bildformat som stöds för att konvertera från TIF" %}}
-Med Aspose.Imaging kan du enkelt konvertera från TIF till andra format.
+Aspose.Imaging låter automatisera många konverteringar från TIF till andra format på .NET-plattformen.
 <br/>
 Fullständig lista över omvandlingar som stöds:
 {{% /blocks/products/pf/feature-page-section %}}

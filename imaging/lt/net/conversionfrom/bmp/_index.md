@@ -13,7 +13,7 @@ description: Naudodami Aspose.Imaging galite lengvai konvertuoti iš BMP į kitu
 
 
 {{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai konvertuoti iš BMP" %}}
-Naudodami Aspose.Imaging galite lengvai konvertuoti iš BMP į kitus formatus.
+Aspose.Imaging leidžia automatizuoti daug konversijų iš BMP į kitus formatus .NET platformoje.
 <br/>
 Visas palaikomų konversijų sąrašas:
 {{% /blocks/products/pf/feature-page-section %}}

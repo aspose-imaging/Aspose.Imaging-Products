@@ -13,7 +13,7 @@ description: За допомогою Aspose.Imaging ви можете легко
 
 
 {{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для конвертації з DICOM" %}}
-За допомогою Aspose.Imaging ви можете легко конвертувати з DICOM в інші формати.
+Aspose.Imaging дозволяє автоматизувати багато перетворень із DICOM в інші формати на платформі .NET.
 <br/>
 Повний список підтримуваних конвертацій:
 {{% /blocks/products/pf/feature-page-section %}}

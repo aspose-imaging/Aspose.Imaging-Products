@@ -13,7 +13,7 @@ description: Aspose.Imaging'i kullanarak APNG biçimini kolayca başka biçimler
 
 
 {{% blocks/products/pf/feature-page-section  h2="APNG'den dönüştürülecek desteklenen tüm resim biçimleri" %}}
-Aspose.Imaging'i kullanarak APNG formatından diğer formatlara kolayca dönüştürebilirsiniz.
+Aspose.Imaging, .NET platformunda APNG'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir.
 <br/>
 Desteklenen dönüşümlerin tam listesi:
 {{% /blocks/products/pf/feature-page-section %}}

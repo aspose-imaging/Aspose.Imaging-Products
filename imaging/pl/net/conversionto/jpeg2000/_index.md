@@ -1,21 +1,21 @@
 ﻿---
-title: Konwertuj na JPEG2000 z innych formatów przez .NET 
+title: Konwertuj obrazy do formatu obrazu JPEG2000 z innych obsługiwanych formatów za pomocą platformy .NET 
 weight: 3920
 url: /pl/net/conversion/to/jpeg2000 
 lang: pl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Za pomocą Aspose.Imaging możesz łatwo przekonwertować do JPEG2000 z innych formatów
+description: Korzystając z biblioteki Aspose.Imaging dla .NET, można łatwo przekonwertować do formatu JPEG2000 z innych obsługiwanych formatów obrazów
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwersja plików obrazów na JPEG2000 przez .NET" h2="Konwertuj na JPEG2000 z innych formatów" downloadText="Ściągnij" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj pliki obrazów do formatu obrazu JPEG2000 za pomocą platformy .NET" h2="Konwertuj do formatu JPEG2000 z innych formatów przy użyciu biblioteki Aspose.Imaging for .NET" downloadText="Pobierać" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty obrazów do przekonwertowania na JPEG2000" %}}
-Za pomocą Aspose.Imaging możesz łatwo przekonwertować do JPEG2000 z innych formatów obrazów.
+{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane konwersje do formatu JPEG2000 przy użyciu biblioteki Aspose.Imaging for .NET" %}}
+Korzystając z biblioteki Aspose.Imaging możesz programowo konwertować różne formaty obrazów na obraz JPEG2000.
 <br/>
-Pełna lista obsługiwanych konwersji:
+Obsługiwane są następujące konwersje:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -13,7 +13,7 @@ description: Aspose.Imaging'i kullanarak JP2 biçimini kolayca başka biçimlere
 
 
 {{% blocks/products/pf/feature-page-section  h2="JP2'den dönüştürülecek desteklenen tüm resim biçimleri" %}}
-Aspose.Imaging'i kullanarak JP2 formatından diğer formatlara kolayca dönüştürebilirsiniz.
+Aspose.Imaging, .NET platformunda JP2'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir.
 <br/>
 Desteklenen dönüşümlerin tam listesi:
 {{% /blocks/products/pf/feature-page-section %}}

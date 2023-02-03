@@ -1,21 +1,21 @@
 ﻿---
-title: Converteren naar JPEG vanuit een ander formaat via .NET 
+title: Converteer afbeeldingen naar JPEG afbeeldingsindeling van andere ondersteunde indelingen met behulp van het .NET-platform 
 weight: 3920
 url: /nl/net/conversion/to/jpeg 
 lang: nl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Met behulp van Aspose.Imaging kunt u eenvoudig converteren naar JPEG vanuit een ander formaat
+description: Met Aspose.Imaging voor .NET-bibliotheek is het eenvoudig om te converteren naar JPEG vanuit andere ondersteunde afbeeldingsindelingen
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversie van afbeeldingsbestanden naar JPEG via .NET" h2="Converteren naar JPEG vanuit een ander formaat" downloadText="Downloaden" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer afbeeldingsbestanden naar JPEG afbeeldingsindeling met behulp van het .NET-platform" h2="Converteer naar JPEG-indeling van andere indelingen met Aspose.Imaging voor .NET-bibliotheek" downloadText="Downloaden" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde afbeeldingsindelingen om van naar JPEG te converteren" %}}
-Met Aspose.Imaging kunt u eenvoudig vanuit andere afbeeldingsindelingen converteren naar JPEG.
+{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde conversies naar JPEG-indeling met Aspose.Imaging voor .NET-bibliotheek" %}}
+Met behulp van de Aspose.Imaging-bibliotheek kunt u verschillende afbeeldingsindelingen programmatisch converteren naar JPEG afbeelding.
 <br/>
-Volledige lijst met ondersteunde conversies:
+De volgende conversies worden ondersteund:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

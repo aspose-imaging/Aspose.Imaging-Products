@@ -13,7 +13,7 @@ description: Aspose.Imaging'i kullanarak JPEG2000 biçimini kolayca başka biçi
 
 
 {{% blocks/products/pf/feature-page-section  h2="JPEG2000'den dönüştürülecek desteklenen tüm resim biçimleri" %}}
-Aspose.Imaging'i kullanarak JPEG2000 formatından diğer formatlara kolayca dönüştürebilirsiniz.
+Aspose.Imaging, .NET platformunda JPEG2000'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir.
 <br/>
 Desteklenen dönüşümlerin tam listesi:
 {{% /blocks/products/pf/feature-page-section %}}

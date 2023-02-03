@@ -13,7 +13,7 @@ description: Aspose.Imaging'i kullanarak EMZ biçimini kolayca başka biçimlere
 
 
 {{% blocks/products/pf/feature-page-section  h2="EMZ'den dönüştürülecek desteklenen tüm resim biçimleri" %}}
-Aspose.Imaging'i kullanarak EMZ formatından diğer formatlara kolayca dönüştürebilirsiniz.
+Aspose.Imaging, .NET platformunda EMZ'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir.
 <br/>
 Desteklenen dönüşümlerin tam listesi:
 {{% /blocks/products/pf/feature-page-section %}}

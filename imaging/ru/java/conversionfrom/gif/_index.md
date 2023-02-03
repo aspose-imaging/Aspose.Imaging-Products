@@ -5,17 +5,18 @@ url: /ru/java/conversion/from/gif
 lang: ru
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Используя Aspose.Imaging, вы можете легко конвертировать из GIF в другие форматы, используя платформу Java.
+description: Aspose.Imaging может легко конвертировать из GIF в другие форматы с помощью платформы Java.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование файлов изображений из GIF с использованием Aspose.Imaging for Java" h2="Преобразование из GIF в другие форматы с использованием платформы Java" downloadText="Скачать" >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование изображений из формата GIF с помощью Aspose.Imaging for Java" h2="Преобразование из формата изображения GIF в другие форматы с использованием платформы Java" downloadText="Скачать" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Все поддерживаемые форматы изображений для преобразования из GIF с помощью Aspose.Imaging for Java" %}}
-Используя Aspose.Imaging, вы можете легко преобразовать GIF в другие поддерживаемые форматы с помощью платформы Java.
+{{% blocks/products/pf/feature-page-section  h2="Спектр форматов изображений, которые можно преобразовать из изображений GIF с помощью Aspose.Imaging for Java." %}}
+Вы можете программно преобразовать формат GIF в другие доступные форматы, используя
+Aspose.Imaging for Java.
 <br/>
-Список всех поддерживаемых конверсий:
+Представлены следующие трансформации:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

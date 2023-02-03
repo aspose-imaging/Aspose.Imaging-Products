@@ -1,54 +1,54 @@
 ﻿---
-title: 從其他格式轉換為 JPEG 通過 .NET 
+title: 使用 .NET 平台將圖像從其他支持的格式轉換為 JPEG 圖像格式 
 weight: 3920
 url: /zh-hant/net/conversion/to/jpeg 
 lang: zh-hant
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: 使用 Aspose.Imaging，您可以輕鬆地將其他格式轉換為 JPEG
+description: 使用 Aspose.Imaging for .NET 庫可以輕鬆地將其他支持的圖像格式轉換為 JPEG
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="通過 .NET 將圖像文件轉換為 JPEG" h2="從其他格式轉換為 JPEG" downloadText="下載" >}}
+{{< blocks/products/pf/feature-page-header h1="使用 .NET 平台將圖像文件轉換為 JPEG 圖像格式" h2="使用 Aspose.Imaging for .NET 庫從其他格式轉換為 JPEG 格式" downloadText="下載" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="所有支持的圖像格式轉換為 JPEG" %}}
-使用 Aspose.Imaging，您可以輕鬆地將其他圖像格式轉換為 JPEG。
+{{% blocks/products/pf/feature-page-section  h2="所有支持使用 Aspose.Imaging for .NET 庫轉換為 JPEG 格式" %}}
+使用 Aspose.Imaging 庫，您可以以編程方式將各種圖像格式轉換為 JPEG 圖像。
 <br/>
-支持的轉換的完整列表：
+支持以下轉換：
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/apng-to-jpeg" >APNG 至 JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/bmp-to-jpeg" >BMP 至 JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/dib-to-jpeg" >DIB 至 JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/dicom-to-jpeg" >DICOM 至 JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/djvu-to-jpeg" >DJVU 至 JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/dng-to-jpeg" >DNG 至 JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/emf-to-jpeg" >EMF 至 JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/emz-to-jpeg" >EMZ 至 JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/gif-to-jpeg" >GIF 至 JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/jpeg2000-to-jpeg" >JPEG2000 至 JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/jp2-to-jpeg" >JP2 至 JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/j2k-to-jpeg" >J2K 至 JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/png-to-jpeg" >PNG 至 JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/tga-to-jpeg" >TGA 至 JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/tif-to-jpeg" >TIF 至 JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/tiff-to-jpeg" >TIFF 至 JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/webp-to-jpeg" >WEBP 至 JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/wmf-to-jpeg" >WMF 至 JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/wmz-to-jpeg" >WMZ 至 JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/svg-to-jpeg" >SVG 至 JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/svgz-to-jpeg" >SVGZ 至 JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/eps-to-jpeg" >EPS 至 JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/cdr-to-jpeg" >CDR 至 JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/cmx-to-jpeg" >CMX 至 JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/otg-to-jpeg" >OTG 至 JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/odg-to-jpeg" >ODG 至 JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/ico-to-jpeg" >ICO 至 JPEG</a></div>
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/apng-to-jpeg" >APNG 到 JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/bmp-to-jpeg" >BMP 到 JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/dib-to-jpeg" >DIB 到 JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/dicom-to-jpeg" >DICOM 到 JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/djvu-to-jpeg" >DJVU 到 JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/dng-to-jpeg" >DNG 到 JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/emf-to-jpeg" >EMF 到 JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/emz-to-jpeg" >EMZ 到 JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/gif-to-jpeg" >GIF 到 JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/jpeg2000-to-jpeg" >JPEG2000 到 JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/jp2-to-jpeg" >JP2 到 JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/j2k-to-jpeg" >J2K 到 JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/png-to-jpeg" >PNG 到 JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/tga-to-jpeg" >TGA 到 JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/tif-to-jpeg" >TIF 到 JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/tiff-to-jpeg" >TIFF 到 JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/webp-to-jpeg" >WEBP 到 JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/wmf-to-jpeg" >WMF 到 JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/wmz-to-jpeg" >WMZ 到 JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/svg-to-jpeg" >SVG 到 JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/svgz-to-jpeg" >SVGZ 到 JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/eps-to-jpeg" >EPS 到 JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/cdr-to-jpeg" >CDR 到 JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/cmx-to-jpeg" >CMX 到 JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/otg-to-jpeg" >OTG 到 JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/odg-to-jpeg" >ODG 到 JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/ico-to-jpeg" >ICO 到 JPEG</a></div>
                 </div>
         </div>
     </div>

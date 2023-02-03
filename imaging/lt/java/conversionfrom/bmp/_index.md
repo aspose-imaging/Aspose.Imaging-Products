@@ -5,17 +5,18 @@ url: /lt/java/conversion/from/bmp
 lang: lt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Naudodami Aspose.Imaging galite lengvai konvertuoti iš BMP į kitus formatus naudodami Java platformą
+description: „Aspose.Imaging“ gali lengvai konvertuoti iš BMP į kitus formatus naudojant „Java“ platformą
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas iš BMP naudojant Aspose.Imaging for Java" h2="Konvertuokite iš BMP į kitus formatus naudodami Java platformą" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertuokite vaizdus iš BMP formato naudodami Aspose.Imaging for Java" h2="Konvertuokite iš BMP vaizdo formato į kitus formatus naudodami Java platformą" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai, konvertuojami iš BMP naudojant Aspose.Imaging for Java" %}}
-Naudodami Aspose.Imaging galite lengvai konvertuoti iš BMP į kitus palaikomus formatus naudodami Java platformą.
+{{% blocks/products/pf/feature-page-section  h2="Platus vaizdo formatų spektras, kurį galima konvertuoti iš BMP vaizdų naudojant Aspose.Imaging for Java" %}}
+Galite programiškai konvertuoti iš BMP formato į kitus galimus formatus naudodami
+Aspose.Imaging for Java.
 <br/>
-Visų palaikomų konversijų sąrašas:
+Laive yra šios konversijos:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

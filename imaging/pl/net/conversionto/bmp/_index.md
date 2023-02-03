@@ -1,21 +1,21 @@
 ﻿---
-title: Konwertuj na BMP z innych formatów przez .NET 
+title: Konwertuj obrazy do formatu obrazu BMP z innych obsługiwanych formatów za pomocą platformy .NET 
 weight: 3920
 url: /pl/net/conversion/to/bmp 
 lang: pl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Za pomocą Aspose.Imaging możesz łatwo przekonwertować do BMP z innych formatów
+description: Korzystając z biblioteki Aspose.Imaging dla .NET, można łatwo przekonwertować do formatu BMP z innych obsługiwanych formatów obrazów
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwersja plików obrazów na BMP przez .NET" h2="Konwertuj na BMP z innych formatów" downloadText="Ściągnij" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj pliki obrazów do formatu obrazu BMP za pomocą platformy .NET" h2="Konwertuj do formatu BMP z innych formatów przy użyciu biblioteki Aspose.Imaging for .NET" downloadText="Pobierać" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty obrazów do przekonwertowania na BMP" %}}
-Za pomocą Aspose.Imaging możesz łatwo przekonwertować do BMP z innych formatów obrazów.
+{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane konwersje do formatu BMP przy użyciu biblioteki Aspose.Imaging for .NET" %}}
+Korzystając z biblioteki Aspose.Imaging możesz programowo konwertować różne formaty obrazów na obraz BMP.
 <br/>
-Pełna lista obsługiwanych konwersji:
+Obsługiwane są następujące konwersje:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

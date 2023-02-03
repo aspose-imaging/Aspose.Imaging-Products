@@ -1,21 +1,21 @@
 ﻿---
-title: Преобразовать в APNG из других форматов с помощью .NET 
+title: Преобразование изображений в формат изображения APNG из других поддерживаемых форматов с использованием платформы .NET. 
 weight: 3920
 url: /ru/net/conversion/to/apng 
 lang: ru
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Используя Aspose.Imaging, вы можете легко конвертировать в APNG из других форматов.
+description: Используя библиотеку Aspose.Imaging for .NET, можно легко преобразовать в APNG другие поддерживаемые форматы изображений.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование файлов изображений в APNG с помощью .NET" h2="Преобразовать в APNG из других форматов" downloadText="Скачать" >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование файлов изображений в формат изображения APNG с использованием платформы .NET." h2="Преобразование в формат APNG из других форматов с помощью библиотеки Aspose.Imaging for .NET." downloadText="Скачать" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Все поддерживаемые форматы изображений для преобразования в APNG" %}}
-Используя Aspose.Imaging, вы можете легко преобразовать в APNG другие форматы изображений.
+{{% blocks/products/pf/feature-page-section  h2="Все поддерживаемые преобразования в формат APNG с использованием библиотеки Aspose.Imaging for .NET" %}}
+Используя библиотеку Aspose.Imaging, вы можете программно преобразовывать различные форматы изображений в изображения APNG.
 <br/>
-Полный список поддерживаемых преобразований:
+Поддерживаются следующие преобразования:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

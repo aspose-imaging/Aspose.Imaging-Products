@@ -1,21 +1,21 @@
 ﻿---
-title: Converteren naar HTML vanuit een ander formaat via .NET 
+title: Converteer afbeeldingen naar HTML afbeeldingsindeling van andere ondersteunde indelingen met behulp van het .NET-platform 
 weight: 3920
 url: /nl/net/conversion/to/html 
 lang: nl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Met behulp van Aspose.Imaging kunt u eenvoudig converteren naar HTML vanuit een ander formaat
+description: Met Aspose.Imaging voor .NET-bibliotheek is het eenvoudig om te converteren naar HTML vanuit andere ondersteunde afbeeldingsindelingen
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversie van afbeeldingsbestanden naar HTML via .NET" h2="Converteren naar HTML vanuit een ander formaat" downloadText="Downloaden" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer afbeeldingsbestanden naar HTML afbeeldingsindeling met behulp van het .NET-platform" h2="Converteer naar HTML-indeling van andere indelingen met Aspose.Imaging voor .NET-bibliotheek" downloadText="Downloaden" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde afbeeldingsindelingen om van naar HTML te converteren" %}}
-Met Aspose.Imaging kunt u eenvoudig vanuit andere afbeeldingsindelingen converteren naar HTML.
+{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde conversies naar HTML-indeling met Aspose.Imaging voor .NET-bibliotheek" %}}
+Met behulp van de Aspose.Imaging-bibliotheek kunt u verschillende afbeeldingsindelingen programmatisch converteren naar HTML afbeelding.
 <br/>
-Volledige lijst met ondersteunde conversies:
+De volgende conversies worden ondersteund:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

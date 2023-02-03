@@ -12,8 +12,8 @@ description: Menggunakan Aspose.Imaging Anda dapat mengonversi ke SVG dari forma
 {{< blocks/products/pf/feature-page-header h1="Konversi File Gambar ke SVG menggunakan Aspose.Imaging untuk pustaka Java" h2="Konversikan ke SVG dari format gambar lain menggunakan platform Java" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari ke SVG menggunakan Aspose.Imaging untuk Java" %}}
-Dengan menggunakan pustaka Aspose.Imaging, Anda dapat dengan mudah mengonversi ke SVG dari format gambar lain yang didukung menggunakan platform Java.
+{{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung dapat dikonversi ke SVG menggunakan Aspose.Imaging untuk Java" %}}
+Dengan menggunakan pustaka Aspose.Imaging, Anda dapat mengonversi secara terprogram ke SVG dari format gambar lain yang didukung menggunakan platform Java.
 <br/>
 Konversi yang didukung:
 {{% /blocks/products/pf/feature-page-section %}}

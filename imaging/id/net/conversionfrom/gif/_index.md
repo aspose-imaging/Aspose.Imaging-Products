@@ -13,7 +13,7 @@ description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi dari
 
 
 {{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari GIF" %}}
-Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi dari GIF ke format lain.
+Aspose.Imaging memungkinkan mengotomatiskan banyak konversi dari GIF ke format lain di platform .NET.
 <br/>
 Daftar lengkap konversi yang didukung:
 {{% /blocks/products/pf/feature-page-section %}}

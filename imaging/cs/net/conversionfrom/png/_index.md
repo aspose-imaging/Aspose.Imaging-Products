@@ -13,7 +13,7 @@ description: Pomocí Aspose.Imaging můžete snadno převést z formátu PNG do 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu z formátu PNG" %}}
-Pomocí Aspose.Imaging můžete snadno převádět z formátu PNG do jiných formátů.
+Aspose.Imaging umožňuje automatizovat mnoho konverzí z PNG do jiných formátů na platformě .NET.
 <br/>
 Úplný seznam podporovaných konverzí:
 {{% /blocks/products/pf/feature-page-section %}}

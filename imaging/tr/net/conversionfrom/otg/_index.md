@@ -13,7 +13,7 @@ description: Aspose.Imaging'i kullanarak OTG biçimini kolayca başka biçimlere
 
 
 {{% blocks/products/pf/feature-page-section  h2="OTG'den dönüştürülecek desteklenen tüm resim biçimleri" %}}
-Aspose.Imaging'i kullanarak OTG formatından diğer formatlara kolayca dönüştürebilirsiniz.
+Aspose.Imaging, .NET platformunda OTG'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir.
 <br/>
 Desteklenen dönüşümlerin tam listesi:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,55 +1,55 @@
 ﻿---
-title: अन्य प्रारूपों से ICO में कनवर्ट करें .NET के 
+title: .NET प्लेटफॉर्म का उपयोग करके छवियों को अन्य समर्थित स्वरूपों से ICO छवि प्रारूप में कनवर्ट करें 
 weight: 3920
 url: /hi/net/conversion/to/ico 
 lang: hi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging का उपयोग करके आप अन्य प्रारूपों से ICO में आसानी से रूपांतरित कर सकते हैं
+description: .NET लाइब्रेरी के लिए Aspose.Imaging का उपयोग करके अन्य समर्थित छवि प्रारूपों से ICO में कनवर्ट करना आसान है
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="छवि फ़ाइलें .NET के माध्यम से ICO में रूपांतरण" h2="अन्य प्रारूपों से ICO में कनवर्ट करें" downloadText="डाउनलोड" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET प्लेटफॉर्म का उपयोग करके छवि फ़ाइलों को ICO छवि प्रारूप में कनवर्ट करें" h2=".NET लाइब्रेरी के लिए Aspose.Imaging का उपयोग करके अन्य प्रारूपों से ICO प्रारूप में कनवर्ट करें" downloadText="डाउनलोड" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="से ICO में बदलने के लिए सभी समर्थित छवि प्रारूप" %}}
-Aspose.Imaging का उपयोग करके आप आसानी से अन्य छवि प्रारूपों से ICO में परिवर्तित कर सकते हैं।
+{{% blocks/products/pf/feature-page-section  h2=".NET लाइब्रेरी के लिए Aspose.Imaging का उपयोग करके ICO प्रारूप में सभी समर्थित रूपांतरण" %}}
+Aspose.Imaging लाइब्रेरी का उपयोग करके आप विभिन्न छवि प्रारूपों को ICO छवि में प्रोग्रामेटिक रूप से परिवर्तित कर सकते हैं।
 <br/>
-समर्थित रूपांतरणों की पूरी सूची:
+निम्नलिखित रूपांतरण समर्थित हैं:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/apng-to-ico" >APNG प्रति ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/bmp-to-ico" >BMP प्रति ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/dib-to-ico" >DIB प्रति ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/dicom-to-ico" >DICOM प्रति ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/djvu-to-ico" >DJVU प्रति ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/dng-to-ico" >DNG प्रति ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/emf-to-ico" >EMF प्रति ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/emz-to-ico" >EMZ प्रति ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/gif-to-ico" >GIF प्रति ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/jpeg2000-to-ico" >JPEG2000 प्रति ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/jp2-to-ico" >JP2 प्रति ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/j2k-to-ico" >J2K प्रति ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/jpg-to-ico" >JPG प्रति ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/jpeg-to-ico" >JPEG प्रति ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/png-to-ico" >PNG प्रति ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/tga-to-ico" >TGA प्रति ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/tif-to-ico" >TIF प्रति ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/tiff-to-ico" >TIFF प्रति ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/webp-to-ico" >WEBP प्रति ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/wmf-to-ico" >WMF प्रति ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/wmz-to-ico" >WMZ प्रति ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/svg-to-ico" >SVG प्रति ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/svgz-to-ico" >SVGZ प्रति ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/eps-to-ico" >EPS प्रति ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/cdr-to-ico" >CDR प्रति ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/cmx-to-ico" >CMX प्रति ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/otg-to-ico" >OTG प्रति ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/odg-to-ico" >ODG प्रति ICO</a></div>
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/apng-to-ico" >APNG को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/bmp-to-ico" >BMP को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/dib-to-ico" >DIB को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/dicom-to-ico" >DICOM को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/djvu-to-ico" >DJVU को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/dng-to-ico" >DNG को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/emf-to-ico" >EMF को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/emz-to-ico" >EMZ को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/gif-to-ico" >GIF को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/jpeg2000-to-ico" >JPEG2000 को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/jp2-to-ico" >JP2 को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/j2k-to-ico" >J2K को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/jpg-to-ico" >JPG को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/jpeg-to-ico" >JPEG को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/png-to-ico" >PNG को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/tga-to-ico" >TGA को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/tif-to-ico" >TIF को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/tiff-to-ico" >TIFF को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/webp-to-ico" >WEBP को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/wmf-to-ico" >WMF को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/wmz-to-ico" >WMZ को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/svg-to-ico" >SVG को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/svgz-to-ico" >SVGZ को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/eps-to-ico" >EPS को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/cdr-to-ico" >CDR को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/cmx-to-ico" >CMX को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/otg-to-ico" >OTG को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/odg-to-ico" >ODG को ICO</a></div>
                 </div>
         </div>
     </div>

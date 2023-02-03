@@ -5,17 +5,18 @@ url: /pl/java/conversion/from/wmf
 lang: pl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Za pomocą Aspose.Imaging możesz łatwo konwertować z formatu WMF na inne formaty przy użyciu platformy Java
+description: Aspose.Imaging może łatwo konwertować z formatu WMF na inne formaty przy użyciu platformy Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwersja plików graficznych z WMF przy użyciu Aspose.Imaging for Java" h2="Konwertuj z WMF na inne formaty za pomocą platformy Java" downloadText="Ściągnij" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj obrazy z formatu WMF za pomocą Aspose.Imaging for Java" h2="Konwertuj z formatu obrazu WMF na inne formaty za pomocą platformy Java" downloadText="Ściągnij" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty obrazów do konwersji z WMF przy użyciu Aspose.Imaging for Java" %}}
-Za pomocą Aspose.Imaging możesz łatwo konwertować z WMF na inne obsługiwane formaty przy użyciu platformy Java.
+{{% blocks/products/pf/feature-page-section  h2="Szerokie spektrum formatów obrazów, które można konwertować z obrazów WMF przy użyciu Aspose.Imaging for Java" %}}
+Możesz programowo przekonwertować z formatu WMF na inne dostępne formaty za pomocą
+Aspose.Imaging dla Javy.
 <br/>
-Lista wszystkich obsługiwanych konwersji:
+Na pokładzie znajdują się następujące konwersje:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

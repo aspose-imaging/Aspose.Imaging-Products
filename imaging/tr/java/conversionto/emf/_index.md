@@ -12,8 +12,8 @@ description: Aspose.Imaging'i kullanarak Java kullanan diğer biçimlerden EMF b
 {{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java kitaplığı kullanılarak Görüntü Dosyalarının EMF biçimine dönüştürülmesi" h2="Java platformunu kullanarak diğer görüntü biçimlerinden EMF biçimine dönüştürün" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java kullanılarak EMF biçimine dönüştürmek için desteklenen tüm görüntü biçimleri" %}}
-Aspose.Imaging kütüphanesini kullanarak, Java platformunu kullanarak desteklenen diğer görüntü biçimlerinden EMF biçimine kolayca dönüştürebilirsiniz.
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java kullanılarak EMF biçimine dönüştürülebilen desteklenen tüm görüntü biçimleri" %}}
+Aspose.Imaging kütüphanesini kullanarak, Java platformunu kullanarak desteklenen diğer resim biçimlerinden programlı olarak EMF biçimine dönüştürebilirsiniz.
 <br/>
 Desteklenen dönüşümler:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,21 +1,21 @@
 ﻿---
-title: Konwertuj na TGA z innych formatów przez .NET 
+title: Konwertuj obrazy do formatu obrazu TGA z innych obsługiwanych formatów za pomocą platformy .NET 
 weight: 3920
 url: /pl/net/conversion/to/tga 
 lang: pl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Za pomocą Aspose.Imaging możesz łatwo przekonwertować do TGA z innych formatów
+description: Korzystając z biblioteki Aspose.Imaging dla .NET, można łatwo przekonwertować do formatu TGA z innych obsługiwanych formatów obrazów
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwersja plików obrazów na TGA przez .NET" h2="Konwertuj na TGA z innych formatów" downloadText="Ściągnij" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj pliki obrazów do formatu obrazu TGA za pomocą platformy .NET" h2="Konwertuj do formatu TGA z innych formatów przy użyciu biblioteki Aspose.Imaging for .NET" downloadText="Pobierać" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty obrazów do przekonwertowania na TGA" %}}
-Za pomocą Aspose.Imaging możesz łatwo przekonwertować do TGA z innych formatów obrazów.
+{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane konwersje do formatu TGA przy użyciu biblioteki Aspose.Imaging for .NET" %}}
+Korzystając z biblioteki Aspose.Imaging możesz programowo konwertować różne formaty obrazów na obraz TGA.
 <br/>
-Pełna lista obsługiwanych konwersji:
+Obsługiwane są następujące konwersje:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -13,7 +13,7 @@ description: Naudodami Aspose.Imaging galite lengvai konvertuoti iš EMZ į kitu
 
 
 {{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai konvertuoti iš EMZ" %}}
-Naudodami Aspose.Imaging galite lengvai konvertuoti iš EMZ į kitus formatus.
+Aspose.Imaging leidžia automatizuoti daug konversijų iš EMZ į kitus formatus .NET platformoje.
 <br/>
 Visas palaikomų konversijų sąrašas:
 {{% /blocks/products/pf/feature-page-section %}}

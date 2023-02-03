@@ -1,21 +1,21 @@
 ﻿---
-title: Převést na SVGZ z jiných formátů přes .NET 
+title: Převeďte obrázky do formátu obrázku SVGZ z jiných podporovaných formátů pomocí platformy .NET 
 weight: 3920
 url: /cs/net/conversion/to/svgz 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Pomocí Aspose.Imaging můžete snadno převést na SVGZ z jiných formátů
+description: Pomocí knihovny Aspose.Imaging for .NET je snadné převést do formátu SVGZ z jiných podporovaných formátů obrázků
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů do formátu SVGZ prostřednictvím .NET" h2="Převést na SVGZ z jiných formátů" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Převeďte soubory obrázků do formátu obrázků SVGZ pomocí platformy .NET" h2="Převeďte do formátu SVGZ z jiných formátů pomocí knihovny Aspose.Imaging for .NET" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu na SVGZ" %}}
-Pomocí Aspose.Imaging můžete snadno převést do formátu SVGZ z jiných formátů obrázků.
+{{% blocks/products/pf/feature-page-section  h2="Všechny podporované převody do formátu SVGZ pomocí knihovny Aspose.Imaging for .NET" %}}
+Pomocí knihovny Aspose.Imaging můžete programově převádět různé formáty obrázků na obrázek SVGZ.
 <br/>
-Úplný seznam podporovaných konverzí:
+Podporovány jsou následující převody:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

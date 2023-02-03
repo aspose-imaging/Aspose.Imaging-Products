@@ -13,7 +13,7 @@ description: Aspose.Imaging का उपयोग करके आप आसा
 
 
 {{% blocks/products/pf/feature-page-section  h2="DICOM से कनवर्ट करने के लिए सभी समर्थित छवि प्रारूप" %}}
-Aspose.Imaging का उपयोग करके आप आसानी से DICOM से अन्य प्रारूपों में परिवर्तित कर सकते हैं।
+Aspose.Image .NET प्लेटफॉर्म पर DICOM से अन्य प्रारूपों में बहुत से रूपांतरणों को स्वचालित करने की अनुमति देता है।
 <br/>
 समर्थित रूपांतरणों की पूरी सूची:
 {{% /blocks/products/pf/feature-page-section %}}

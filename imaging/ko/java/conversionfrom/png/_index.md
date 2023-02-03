@@ -5,17 +5,18 @@ url: /ko/java/conversion/from/png
 lang: ko
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging을 사용하면 PNG에서 Java 플랫폼을 사용하는 다른 형식으로 쉽게 변환할 수 있습니다.
+description: Aspose.Imaging은 Java 플랫폼을 사용하여 PNG에서 다른 형식으로 쉽게 변환할 수 있습니다.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java를 사용하여 PNG에서 이미지 파일 변환" h2="Java 플랫폼을 사용하여 PNG에서 다른 형식으로 변환" downloadText="다운로드" >}}
+{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java를 사용하여 PNG 형식에서 이미지 변환" h2="Java 플랫폼을 사용하여 PNG 이미지 형식에서 다른 형식으로 변환" downloadText="다운로드" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="지원되는 모든 이미지 형식은 Aspose.Imaging for Java를 사용하여 PNG에서 변환할 수 있습니다." %}}
-Aspose.Imaging을 사용하면 PNG에서 Java 플랫폼을 사용하여 지원되는 다른 형식으로 쉽게 변환할 수 있습니다.
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java를 사용하여 PNG 이미지에서 변환할 수 있는 광범위한 이미지 형식" %}}
+다음을 사용하여 PNG 형식에서 사용 가능한 다른 형식으로 프로그래밍 방식으로 변환할 수 있습니다.
+Aspose.Imaging for Java.
 <br/>
-지원되는 모든 변환 목록:
+보드에는 다음과 같은 변환이 있습니다.
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

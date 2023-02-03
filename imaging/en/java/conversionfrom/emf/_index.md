@@ -5,17 +5,18 @@ url: /java/conversion/from/emf
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Using Aspose.Imaging you can easily convert from EMF to other formats using Java platform
+description: Aspose.Imaging can easily convert from EMF to other formats using Java platform
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Image Files Conversion from EMF using Aspose.Imaging for Java" h2="Convert from EMF to other formats using Java platform" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert images from EMF format using Aspose.Imaging for Java" h2="Convert from EMF image format to other formats using Java platform" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from EMF using Aspose.Imaging for Java" %}}
-Using Aspose.Imaging you can easily convert from EMF to other supported formats using Java platform.
+{{% blocks/products/pf/feature-page-section  h2="Wide spectrum of image formats that can be converted from EMF images using Aspose.Imaging for Java" %}}
+You can programmaticaly convert from EMF format to other available formats using 
+Aspose.Imaging for Java.
 <br/>
-All supported conversions list:
+There are following conversions on board:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

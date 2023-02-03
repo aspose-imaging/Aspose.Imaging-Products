@@ -12,8 +12,8 @@ description: Naudodami Aspose.Imaging galite konvertuoti į SVG iš kitų format
 {{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas į SVG naudojant Aspose.Imaging for Java biblioteką" h2="Konvertuokite į SVG iš kitų vaizdo formatų naudodami Java platformą" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai, kuriuos galima konvertuoti į SVG naudojant Aspose.Imaging for Java" %}}
-Naudodami Aspose.Imaging biblioteką galite lengvai konvertuoti į SVG iš kitų palaikomų vaizdo formatų naudodami Java platformą.
+{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai konvertuojami į SVG naudojant Aspose.Imaging for Java" %}}
+Naudodami Aspose.Imaging biblioteką galite programiškai konvertuoti į SVG iš kitų palaikomų vaizdo formatų naudodami Java platformą.
 <br/>
 Palaikomos konversijos:
 {{% /blocks/products/pf/feature-page-section %}}

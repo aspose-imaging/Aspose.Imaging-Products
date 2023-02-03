@@ -13,7 +13,7 @@ description: Aspose.Imaging'i kullanarak DNG biçimini kolayca başka biçimlere
 
 
 {{% blocks/products/pf/feature-page-section  h2="DNG'den dönüştürülecek desteklenen tüm resim biçimleri" %}}
-Aspose.Imaging'i kullanarak DNG formatından diğer formatlara kolayca dönüştürebilirsiniz.
+Aspose.Imaging, .NET platformunda DNG'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir.
 <br/>
 Desteklenen dönüşümlerin tam listesi:
 {{% /blocks/products/pf/feature-page-section %}}

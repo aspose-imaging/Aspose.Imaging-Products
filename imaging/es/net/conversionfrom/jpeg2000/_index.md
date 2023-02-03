@@ -13,7 +13,7 @@ description: Usando Aspose.Imaging puede convertir fácilmente de JPEG2000 a otr
 
 
 {{% blocks/products/pf/feature-page-section  h2="Todos los formatos de imagen admitidos para convertir desde JPEG2000" %}}
-Usando Aspose.Imaging puede convertir fácilmente de JPEG2000 a otros formatos.
+Aspose.Imaging permite automatizar muchas conversiones de JPEG2000 a otros formatos en la plataforma .NET.
 <br/>
 Lista completa de conversiones admitidas:
 {{% /blocks/products/pf/feature-page-section %}}

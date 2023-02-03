@@ -1,21 +1,21 @@
 ﻿---
-title: Convert to JP2 from other formats via .NET 
+title: Convert images to JP2 image format from other supported formats using .NET platform 
 weight: 3920
 url: /net/conversion/to/jp2 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Using Aspose.Imaging you can easily convert to JP2 from other formats
+description: Using Aspose.Imaging for .NET library it is easy to convert to JP2 from other supported image formats
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Image Files Conversion to JP2 Via .NET" h2="Convert to JP2 from other formats" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert Image Files to JP2 image format using .NET platform" h2="Convert to JP2 format from other formats using Aspose.Imaging for .NET library" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from to JP2" %}}
-Using Aspose.Imaging you can easily convert to JP2 from other image formats.
+{{% blocks/products/pf/feature-page-section  h2="All supported conversions to JP2 format using Aspose.Imaging for .NET library" %}}
+Using Aspose.Imaging library you can programmatically convert various image formats to JP2 image.
 <br/>
-Full list of supported conversions:
+Following conversions are supported :
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -13,7 +13,7 @@ description: Aspose.Imaging'i kullanarak WMF biçimini kolayca başka biçimlere
 
 
 {{% blocks/products/pf/feature-page-section  h2="WMF'den dönüştürülecek desteklenen tüm resim biçimleri" %}}
-Aspose.Imaging'i kullanarak WMF formatından diğer formatlara kolayca dönüştürebilirsiniz.
+Aspose.Imaging, .NET platformunda WMF'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir.
 <br/>
 Desteklenen dönüşümlerin tam listesi:
 {{% /blocks/products/pf/feature-page-section %}}

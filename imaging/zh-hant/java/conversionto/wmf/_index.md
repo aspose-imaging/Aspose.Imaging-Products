@@ -12,8 +12,8 @@ description: 使用 Aspose.Imaging，您可以使用 Java 從其他格式轉換�
 {{< blocks/products/pf/feature-page-header h1="使用 Aspose.Imaging for Java 庫將圖像文件轉換為 WMF" h2="使用 Java 平台從其他圖像格式轉換為 WMF" downloadText="下載" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="使用 Aspose.Imaging for Java 將所有支持的圖像格式轉換為 WMF" %}}
-使用 Aspose.Imaging 庫，您可以使用 Java 平台輕鬆地將其他受支持的圖像格式轉換為 WMF。
+{{% blocks/products/pf/feature-page-section  h2="使用 Aspose.Imaging for Java 可將所有支持的圖像格式轉換為 WMF" %}}
+使用 Aspose.Imaging 庫，您可以使用 Java 平台以編程方式將其他受支持的圖像格式轉換為 WMF。
 <br/>
 支持的轉換：
 {{% /blocks/products/pf/feature-page-section %}}

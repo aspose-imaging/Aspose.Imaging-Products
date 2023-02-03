@@ -13,7 +13,7 @@ description: Aspose.Imaging を使用すると、SVG から別のフォーマッ
 
 
 {{% blocks/products/pf/feature-page-section  h2="SVG から変換する、サポートされているすべての画像形式" %}}
-Aspose.Imaging を使用すると、SVG から他のフォーマットに簡単に変換できます。
+Aspose.Imaging を使用すると、SVG から .NET プラットフォーム上の他のフォーマットへの多くの変換を自動化できます。
 <br/>
 サポートされている変換の完全なリスト:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,7 +13,7 @@ description: Naudodami Aspose.Imaging galite lengvai konvertuoti iš TIFF į kit
 
 
 {{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai konvertuoti iš TIFF" %}}
-Naudodami Aspose.Imaging galite lengvai konvertuoti iš TIFF į kitus formatus.
+Aspose.Imaging leidžia automatizuoti daug konversijų iš TIFF į kitus formatus .NET platformoje.
 <br/>
 Visas palaikomų konversijų sąrašas:
 {{% /blocks/products/pf/feature-page-section %}}

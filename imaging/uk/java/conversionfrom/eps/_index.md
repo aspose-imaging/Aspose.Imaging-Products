@@ -5,17 +5,18 @@ url: /uk/java/conversion/from/eps
 lang: uk
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Використовуючи Aspose.Imaging, ви можете легко конвертувати з EPS в інші формати за допомогою платформи Java
+description: Aspose.Imaging може легко конвертувати з EPS в інші формати за допомогою платформи Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Перетворення файлів зображень із EPS за допомогою Aspose.Imaging for Java" h2="Перетворення з EPS в інші формати за допомогою платформи Java" downloadText="Завантажити" >}}
+{{< blocks/products/pf/feature-page-header h1="Перетворіть зображення з формату EPS за допомогою Aspose.Imaging for Java" h2="Перетворіть формат зображення EPS в інші формати за допомогою платформи Java" downloadText="Завантажити" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для конвертації з EPS за допомогою Aspose.Imaging for Java" %}}
-Використовуючи Aspose.Imaging, ви можете легко конвертувати з EPS в інші підтримувані формати за допомогою платформи Java.
+{{% blocks/products/pf/feature-page-section  h2="Спектр форматів зображень, які можна конвертувати з EPS зображень за допомогою Aspose.Imaging for Java" %}}
+Ви можете програмно конвертувати формат EPS в інші доступні формати за допомогою
+Aspose.Imaging for Java.
 <br/>
-Список усіх підтримуваних конверсій:
+Наведено такі перетворення:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

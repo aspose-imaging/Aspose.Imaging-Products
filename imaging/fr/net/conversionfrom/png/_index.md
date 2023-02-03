@@ -13,7 +13,7 @@ description: En utilisant Aspose.Imaging, vous pouvez facilement convertir de PN
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tous les formats d'image pris en charge pour convertir à partir de PNG" %}}
-En utilisant Aspose.Imaging, vous pouvez facilement convertir de PNG vers d'autres formats.
+Aspose.Imaging permet d'automatiser de nombreuses conversions de PNG vers d'autres formats sur la plate-forme .NET.
 <br/>
 Liste complète des conversions prises en charge :
 {{% /blocks/products/pf/feature-page-section %}}

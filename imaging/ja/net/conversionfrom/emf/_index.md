@@ -13,7 +13,7 @@ description: Aspose.Imaging を使用すると、EMF から別のフォーマッ
 
 
 {{% blocks/products/pf/feature-page-section  h2="EMF から変換する、サポートされているすべての画像形式" %}}
-Aspose.Imaging を使用すると、EMF から他のフォーマットに簡単に変換できます。
+Aspose.Imaging を使用すると、EMF から .NET プラットフォーム上の他のフォーマットへの多くの変換を自動化できます。
 <br/>
 サポートされている変換の完全なリスト:
 {{% /blocks/products/pf/feature-page-section %}}

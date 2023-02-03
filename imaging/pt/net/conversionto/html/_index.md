@@ -1,21 +1,21 @@
 ﻿---
-title: Converter para HTML de outros formatos Via .NET 
+title: Converta imagens para o formato de imagem HTML de outros formatos suportados usando a plataforma .NET 
 weight: 3920
 url: /pt/net/conversion/to/html 
 lang: pt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando o Aspose.Imaging, você pode facilmente converter para HTML de outros formatos
+description: Usando a biblioteca Aspose.Imaging para .NET, é fácil converter para HTML de outros formatos de imagem suportados
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversão de Arquivos de Imagem para HTML Via .NET" h2="Converter para HTML de outros formatos" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Converta arquivos de imagem para o formato de imagem HTML usando a plataforma .NET" h2="Converta para o formato HTML de outros formatos usando a biblioteca Aspose.Imaging for .NET" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos os formatos de imagem suportados para converter para HTML" %}}
-Usando Aspose.Imaging, você pode facilmente converter para HTML de outros formatos de imagem.
+{{% blocks/products/pf/feature-page-section  h2="Todas as conversões suportadas para o formato HTML usando a biblioteca Aspose.Imaging for .NET" %}}
+Usando a biblioteca Aspose.Imaging, você pode converter programaticamente vários formatos de imagem em imagem HTML.
 <br/>
-Lista completa de conversões suportadas:
+As seguintes conversões são suportadas:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

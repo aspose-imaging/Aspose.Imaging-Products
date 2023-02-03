@@ -13,7 +13,7 @@ description: Naudodami Aspose.Imaging galite lengvai konvertuoti iš JPEG į kit
 
 
 {{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai konvertuoti iš JPEG" %}}
-Naudodami Aspose.Imaging galite lengvai konvertuoti iš JPEG į kitus formatus.
+Aspose.Imaging leidžia automatizuoti daug konversijų iš JPEG į kitus formatus .NET platformoje.
 <br/>
 Visas palaikomų konversijų sąrašas:
 {{% /blocks/products/pf/feature-page-section %}}

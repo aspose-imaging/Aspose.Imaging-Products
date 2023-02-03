@@ -13,7 +13,7 @@ description: Pomocí Aspose.Imaging můžete snadno převést z formátu CMX do 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu z formátu CMX" %}}
-Pomocí Aspose.Imaging můžete snadno převádět z formátu CMX do jiných formátů.
+Aspose.Imaging umožňuje automatizovat mnoho konverzí z CMX do jiných formátů na platformě .NET.
 <br/>
 Úplný seznam podporovaných konverzí:
 {{% /blocks/products/pf/feature-page-section %}}

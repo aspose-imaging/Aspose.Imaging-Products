@@ -13,7 +13,7 @@ description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi dari
 
 
 {{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari JP2" %}}
-Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi dari JP2 ke format lain.
+Aspose.Imaging memungkinkan mengotomatiskan banyak konversi dari JP2 ke format lain di platform .NET.
 <br/>
 Daftar lengkap konversi yang didukung:
 {{% /blocks/products/pf/feature-page-section %}}

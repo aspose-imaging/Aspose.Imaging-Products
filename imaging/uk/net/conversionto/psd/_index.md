@@ -1,21 +1,21 @@
 ﻿---
-title: Перетворити в PSD з інших форматів за допомогою .NET 
+title: Перетворіть зображення у формат PSD з інших підтримуваних форматів за допомогою платформи .NET 
 weight: 3920
 url: /uk/net/conversion/to/psd 
 lang: uk
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: За допомогою Aspose.Imaging ви можете легко конвертувати в PSD інші формати
+description: За допомогою бібліотеки Aspose.Imaging для .NET можна легко конвертувати в PSD інші підтримувані формати зображень
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Перетворення файлів зображень в PSD за допомогою .NET" h2="Перетворити в PSD з інших форматів" downloadText="Завантажити" >}}
+{{< blocks/products/pf/feature-page-header h1="Перетворюйте файли зображень у формат зображення PSD за допомогою платформи .NET" h2="Перетворіть у формат PSD інші формати за допомогою бібліотеки Aspose.Imaging для .NET" downloadText="Завантажити" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для конвертації у PSD" %}}
-За допомогою Aspose.Imaging ви можете легко конвертувати в PSD інші формати зображень.
+{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані перетворення у формат PSD за допомогою бібліотеки Aspose.Imaging для .NET" %}}
+Використовуючи бібліотеку Aspose.Imaging, ви можете програмно конвертувати різні формати зображень у зображення PSD.
 <br/>
-Повний список підтримуваних конвертацій:
+Підтримуються наступні перетворення:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

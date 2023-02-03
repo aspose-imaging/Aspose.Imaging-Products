@@ -5,17 +5,18 @@ url: /de/java/conversion/from/j2k
 lang: de
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Mit Aspose.Imaging können Sie mithilfe der Java-Plattform problemlos von J2K in andere Formate konvertieren
+description: Aspose.Imaging kann mithilfe der Java-Plattform problemlos von J2K in andere Formate konvertieren
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertierung von Bilddateien aus J2K mit Aspose.Imaging für Java" h2="Konvertieren Sie mithilfe der Java-Plattform von J2K in andere Formate" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie Bilder aus dem J2K-Format mit Aspose.Imaging für Java" h2="Konvertieren Sie das Bildformat J2K mithilfe der Java-Plattform in andere Formate" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bildformate zum Konvertieren von J2K mit Aspose.Imaging für Java" %}}
-Mit Aspose.Imaging können Sie mithilfe der Java-Plattform problemlos von J2K in andere unterstützte Formate konvertieren.
+{{% blocks/products/pf/feature-page-section  h2="Breites Spektrum an Bildformaten, die mit Aspose.Imaging für Java aus J2K-Bildern konvertiert werden können" %}}
+Sie können das J2K-Format programmgesteuert in andere verfügbare Formate konvertieren, indem Sie verwenden
+Aspose.Imaging für Java.
 <br/>
-Liste aller unterstützten Konvertierungen:
+Folgende Umbauten sind an Bord:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

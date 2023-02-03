@@ -1,21 +1,21 @@
 ﻿---
-title: แปลงเป็น WMZ จากรูปแบบอื่น .NET 
+title: แปลงรูปภาพเป็นรูปแบบ WMZ จากรูปแบบอื่นที่รองรับโดยใช้แพลตฟอร์ม .NET 
 weight: 3920
 url: /th/net/conversion/to/wmz 
 lang: th
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: เมื่อใช้ Aspose.Imaging คุณสามารถแปลงเป็น WMZ จากรูปแบบอื่นได้อย่างง่ายดาย
+description: การใช้ Aspose.Imaging สำหรับไลบรารี .NET ทำให้ง่ายต่อการแปลงเป็น WMZ จากรูปแบบรูปภาพอื่นๆ ที่รองรับ
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="การแปลงไฟล์รูปภาพเป็น WMZ ผ่าน .NET" h2="แปลงเป็น WMZ จากรูปแบบอื่น" downloadText="ดาวน์โหลด" >}}
+{{< blocks/products/pf/feature-page-header h1="แปลงไฟล์รูปภาพเป็นรูปแบบรูปภาพ WMZ โดยใช้แพลตฟอร์ม .NET" h2="แปลงเป็นรูปแบบ WMZ จากรูปแบบอื่นโดยใช้ Aspose.Imaging สำหรับไลบรารี .NET" downloadText="ดาวน์โหลด" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="รูปแบบรูปภาพที่รองรับทั้งหมดเพื่อแปลงจากเป็น WMZ" %}}
-เมื่อใช้ Aspose.Imaging คุณสามารถแปลงเป็น WMZ จากรูปแบบรูปภาพอื่นๆ ได้อย่างง่ายดาย
+{{% blocks/products/pf/feature-page-section  h2="การแปลงที่รองรับทั้งหมดเป็นรูปแบบ WMZ โดยใช้ Aspose.Imaging สำหรับไลบรารี .NET" %}}
+การใช้ไลบรารี Aspose.Imaging คุณสามารถแปลงรูปแบบรูปภาพต่างๆ เป็นรูปภาพ WMZ โดยทางโปรแกรม
 <br/>
-รายการการแปลงที่รองรับทั้งหมด:
+รองรับการแปลงต่อไปนี้:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

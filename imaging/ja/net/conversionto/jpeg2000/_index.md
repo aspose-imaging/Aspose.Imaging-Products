@@ -1,21 +1,21 @@
 ﻿---
-title: 別の形式から JPEG2000 に変換 .NET に 
+title: .NET プラットフォームを使用して、画像を他のサポートされている形式から JPEG2000 画像形式に変換します 
 weight: 3920
 url: /ja/net/conversion/to/jpeg2000 
 lang: ja
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging を使用すると、別のフォーマットから JPEG2000 に簡単に変換できます
+description: Aspose.Imaging for .NET ライブラリを使用すると、サポートされている他の画像フォーマットから JPEG2000 に簡単に変換できます。
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET を介した JPEG2000 への画像ファイルの変換" h2="別の形式から JPEG2000 に変換" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET プラットフォームを使用して、画像ファイルを JPEG2000 画像形式に変換します" h2="Aspose.Imaging for .NET ライブラリを使用して、他のフォーマットから JPEG2000 フォーマットに変換します" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="サポートされているすべての画像形式から JPEG2000 に変換" %}}
-Aspose.Imaging を使用すると、他の画像フォーマットから JPEG2000 に簡単に変換できます。
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for .NET ライブラリを使用した JPEG2000 形式へのすべてのサポートされている変換" %}}
+Aspose.Imaging ライブラリを使用すると、さまざまな画像フォーマットをプログラムで JPEG2000 画像に変換できます。
 <br/>
-サポートされている変換の完全なリスト:
+次の変換がサポートされています。
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

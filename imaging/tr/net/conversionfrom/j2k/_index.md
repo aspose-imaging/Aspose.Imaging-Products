@@ -13,7 +13,7 @@ description: Aspose.Imaging'i kullanarak J2K biçimini kolayca başka biçimlere
 
 
 {{% blocks/products/pf/feature-page-section  h2="J2K'den dönüştürülecek desteklenen tüm resim biçimleri" %}}
-Aspose.Imaging'i kullanarak J2K formatından diğer formatlara kolayca dönüştürebilirsiniz.
+Aspose.Imaging, .NET platformunda J2K'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir.
 <br/>
 Desteklenen dönüşümlerin tam listesi:
 {{% /blocks/products/pf/feature-page-section %}}

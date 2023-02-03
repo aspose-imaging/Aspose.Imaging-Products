@@ -5,17 +5,18 @@ url: /th/java/conversion/from/webp
 lang: th
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: เมื่อใช้ Aspose.Imaging คุณสามารถแปลงจาก WEBP เป็นรูปแบบอื่นโดยใช้แพลตฟอร์ม Java
+description: Aspose.Imaging สามารถแปลงจาก WEBP เป็นรูปแบบอื่นได้อย่างง่ายดายโดยใช้แพลตฟอร์ม Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="การแปลงไฟล์อิมเมจจาก WEBP โดยใช้ Aspose.Imaging สำหรับ Java" h2="แปลงจาก WEBP เป็นรูปแบบอื่นโดยใช้แพลตฟอร์ม Java" downloadText="ดาวน์โหลด" >}}
+{{< blocks/products/pf/feature-page-header h1="แปลงรูปภาพจากรูปแบบ WEBP โดยใช้ Aspose.Imaging สำหรับ Java" h2="แปลงจากรูปแบบภาพ WEBP เป็นรูปแบบอื่นโดยใช้แพลตฟอร์ม Java" downloadText="ดาวน์โหลด" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="รูปแบบภาพที่รองรับทั้งหมดเพื่อแปลงจาก WEBP โดยใช้ Aspose.Imaging สำหรับ Java" %}}
-เมื่อใช้ Aspose.Imaging คุณสามารถแปลงจาก WEBP เป็นรูปแบบอื่นที่รองรับโดยใช้แพลตฟอร์ม Java
+{{% blocks/products/pf/feature-page-section  h2="รูปแบบรูปภาพที่หลากหลายที่สามารถแปลงจากรูปภาพ WEBP โดยใช้ Aspose.Imaging สำหรับ Java" %}}
+คุณสามารถแปลงจากรูปแบบ WEBP เป็นรูปแบบอื่นที่ใช้ได้โดยใช้โปรแกรม
+Aspose.Imaging สำหรับ Java
 <br/>
-รายการการแปลงที่รองรับทั้งหมด:
+มีการแปลงต่อไปนี้บนกระดาน:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

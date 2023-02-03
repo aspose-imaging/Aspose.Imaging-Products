@@ -12,8 +12,8 @@ description: Pomocí Aspose.Imaging můžete převést do JPEG z jiných formát
 {{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů do formátu JPEG pomocí knihovny Aspose.Imaging for Java" h2="Převeďte do formátu JPEG z jiných formátů obrázků pomocí platformy Java" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu do JPEG pomocí Aspose.Imaging for Java" %}}
-Pomocí knihovny Aspose.Imaging můžete snadno převést do formátu JPEG z jiných podporovaných formátů obrázků pomocí platformy Java.
+{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků lze převést do formátu JPEG pomocí Aspose.Imaging for Java" %}}
+Pomocí knihovny Aspose.Imaging můžete pomocí platformy Java programově převádět do formátu JPEG z jiných podporovaných formátů obrázků.
 <br/>
 Podporované konverze:
 {{% /blocks/products/pf/feature-page-section %}}

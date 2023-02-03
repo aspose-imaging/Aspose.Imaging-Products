@@ -13,7 +13,7 @@ description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi dari
 
 
 {{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari EMZ" %}}
-Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi dari EMZ ke format lain.
+Aspose.Imaging memungkinkan mengotomatiskan banyak konversi dari EMZ ke format lain di platform .NET.
 <br/>
 Daftar lengkap konversi yang didukung:
 {{% /blocks/products/pf/feature-page-section %}}

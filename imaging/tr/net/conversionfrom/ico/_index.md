@@ -13,7 +13,7 @@ description: Aspose.Imaging'i kullanarak ICO biçimini kolayca başka biçimlere
 
 
 {{% blocks/products/pf/feature-page-section  h2="ICO'den dönüştürülecek desteklenen tüm resim biçimleri" %}}
-Aspose.Imaging'i kullanarak ICO formatından diğer formatlara kolayca dönüştürebilirsiniz.
+Aspose.Imaging, .NET platformunda ICO'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir.
 <br/>
 Desteklenen dönüşümlerin tam listesi:
 {{% /blocks/products/pf/feature-page-section %}}

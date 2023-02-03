@@ -9,11 +9,11 @@ description: Za pomocą Aspose.Imaging możesz konwertować do J2K z innych form
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwersja plików graficznych do formatu J2K przy użyciu biblioteki Aspose.Imaging for Java" h2="Konwertuj do J2K z innych formatów obrazów za pomocą platformy Java" downloadText="Ściągnij" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwersja plików graficznych do formatu J2K przy użyciu biblioteki Aspose.Imaging for Java" h2="Konwertuj do J2K z innych formatów obrazów za pomocą platformy Java" downloadText="Pobierać" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty obrazów do przekonwertowania na J2K przy użyciu Aspose.Imaging for Java" %}}
-Korzystając z biblioteki Aspose.Imaging możesz łatwo przekonwertować do J2K z innych obsługiwanych formatów obrazów przy użyciu platformy Java.
+{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty obrazów konwertowalne do J2K przy użyciu Aspose.Imaging for Java" %}}
+Korzystając z biblioteki Aspose.Imaging możesz programowo konwertować do J2K z innych obsługiwanych formatów obrazów przy użyciu platformy Java.
 <br/>
 Obsługiwane konwersje:
 {{% /blocks/products/pf/feature-page-section %}}

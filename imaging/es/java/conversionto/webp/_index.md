@@ -12,8 +12,8 @@ description: Usando Aspose.Imaging puede convertir a WEBP desde otros formatos u
 {{< blocks/products/pf/feature-page-header h1="Conversión de archivos de imagen a WEBP utilizando la biblioteca Aspose.Imaging para Java" h2="Convierta a WEBP desde otros formatos de imagen utilizando la plataforma Java" downloadText="Descargar" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos los formatos de imagen admitidos para convertir a WEBP usando Aspose.Imaging para Java" %}}
-Con la biblioteca Aspose.Imaging, puede convertir fácilmente a WEBP desde otros formatos de imagen admitidos utilizando la plataforma Java.
+{{% blocks/products/pf/feature-page-section  h2="Todos los formatos de imagen admitidos convertibles a WEBP usando Aspose.Imaging para Java" %}}
+Con la biblioteca Aspose.Imaging, puede convertir mediante programación a WEBP desde otros formatos de imagen admitidos mediante la plataforma Java.
 <br/>
 Conversiones admitidas:
 {{% /blocks/products/pf/feature-page-section %}}

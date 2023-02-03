@@ -13,7 +13,7 @@ description: 使用 Aspose.Imaging，您可以轻松地将 J2K 转换为其他�
 
 
 {{% blocks/products/pf/feature-page-section  h2="要从 J2K 转换的所有支持的图像格式" %}}
-使用 Aspose.Imaging，您可以轻松地将 J2K 转换为其他格式。
+Aspose.Imaging 允许在 .NET 平台上自动进行从 J2K 到其他格式的大量转换。
 <br/>
 支持的转换的完整列表：
 {{% /blocks/products/pf/feature-page-section %}}

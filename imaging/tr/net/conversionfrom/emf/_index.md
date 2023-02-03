@@ -13,7 +13,7 @@ description: Aspose.Imaging'i kullanarak EMF biçimini kolayca başka biçimlere
 
 
 {{% blocks/products/pf/feature-page-section  h2="EMF'den dönüştürülecek desteklenen tüm resim biçimleri" %}}
-Aspose.Imaging'i kullanarak EMF formatından diğer formatlara kolayca dönüştürebilirsiniz.
+Aspose.Imaging, .NET platformunda EMF'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir.
 <br/>
 Desteklenen dönüşümlerin tam listesi:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,7 +13,7 @@ description: Mit Aspose.Imaging können Sie ganz einfach von TIFF in andere Form
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bildformate zum Konvertieren von TIFF" %}}
-Mit Aspose.Imaging können Sie ganz einfach von TIFF in andere Formate konvertieren.
+Aspose.Imaging ermöglicht die Automatisierung vieler Konvertierungen von TIFF in andere Formate auf der .NET-Plattform.
 <br/>
 Vollständige Liste der unterstützten Konvertierungen:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -12,8 +12,8 @@ description: Aspose.Imaging का उपयोग करके आप जाव
 {{< blocks/products/pf/feature-page-header h1="जावा लाइब्रेरी के लिए Aspose.Imaging का उपयोग करके छवि फ़ाइलों का DXF में रूपांतरण" h2="जावा प्लेटफॉर्म का उपयोग करके अन्य छवि प्रारूपों से DXF में कनवर्ट करें" downloadText="डाउनलोड" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="जावा के लिए Aspose.Imaging का उपयोग करके सभी समर्थित छवि प्रारूपों को DXF में बदलने के लिए" %}}
-Aspose.Imaging लाइब्रेरी का उपयोग करके आप आसानी से जावा प्लेटफॉर्म का उपयोग करके अन्य समर्थित छवि प्रारूपों से DXF में परिवर्तित कर सकते हैं।
+{{% blocks/products/pf/feature-page-section  h2="जावा के लिए Aspose.Imaging का उपयोग करके सभी समर्थित छवि प्रारूपों को DXF में बदला जा सकता है" %}}
+Aspose.Imaging लाइब्रेरी का उपयोग करके आप जावा प्लेटफॉर्म का उपयोग करके अन्य समर्थित छवि प्रारूपों से प्रोग्रामेटिक रूप से DXF में कनवर्ट कर सकते हैं।
 <br/>
 समर्थित रूपांतरण:
 {{% /blocks/products/pf/feature-page-section %}}

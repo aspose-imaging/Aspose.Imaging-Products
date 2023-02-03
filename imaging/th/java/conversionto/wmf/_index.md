@@ -12,8 +12,8 @@ description: การใช้ Aspose.Imaging คุณสามารถแป
 {{< blocks/products/pf/feature-page-header h1="การแปลงไฟล์อิมเมจเป็น WMF โดยใช้ Aspose.Imaging สำหรับไลบรารี Java" h2="แปลงเป็น WMF จากรูปแบบภาพอื่นโดยใช้แพลตฟอร์ม Java" downloadText="ดาวน์โหลด" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="รูปแบบรูปภาพที่รองรับทั้งหมดเพื่อแปลงจากเป็น WMF โดยใช้ Aspose.Imaging สำหรับ Java" %}}
-การใช้ไลบรารี Aspose.Imaging คุณสามารถแปลงเป็น WMF จากรูปแบบรูปภาพอื่นๆ ที่รองรับโดยใช้แพลตฟอร์ม Java
+{{% blocks/products/pf/feature-page-section  h2="รูปแบบภาพที่รองรับทั้งหมดแปลงเป็น WMF โดยใช้ Aspose.Imaging สำหรับ Java" %}}
+การใช้ไลบรารี Aspose.Imaging คุณสามารถแปลงเป็น WMF จากรูปแบบรูปภาพอื่นๆ ที่รองรับทางโปรแกรมโดยใช้แพลตฟอร์ม Java
 <br/>
 การแปลงที่รองรับ:
 {{% /blocks/products/pf/feature-page-section %}}

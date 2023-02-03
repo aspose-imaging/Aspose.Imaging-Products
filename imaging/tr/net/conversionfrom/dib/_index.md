@@ -13,7 +13,7 @@ description: Aspose.Imaging'i kullanarak DIB biçimini kolayca başka biçimlere
 
 
 {{% blocks/products/pf/feature-page-section  h2="DIB'den dönüştürülecek desteklenen tüm resim biçimleri" %}}
-Aspose.Imaging'i kullanarak DIB formatından diğer formatlara kolayca dönüştürebilirsiniz.
+Aspose.Imaging, .NET platformunda DIB'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir.
 <br/>
 Desteklenen dönüşümlerin tam listesi:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,7 +13,7 @@ description: Pomocí Aspose.Imaging můžete snadno převést z formátu WMF do 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu z formátu WMF" %}}
-Pomocí Aspose.Imaging můžete snadno převádět z formátu WMF do jiných formátů.
+Aspose.Imaging umožňuje automatizovat mnoho konverzí z WMF do jiných formátů na platformě .NET.
 <br/>
 Úplný seznam podporovaných konverzí:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -5,17 +5,18 @@ url: /cs/java/conversion/from/j2k
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Pomocí Aspose.Imaging můžete snadno převádět z formátu J2K do jiných formátů pomocí platformy Java
+description: Aspose.Imaging lze snadno převést z formátu J2K do jiných formátů pomocí platformy Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů z formátu J2K pomocí Aspose.Imaging for Java" h2="Převeďte z J2K do jiných formátů pomocí platformy Java" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Převeďte obrázky z formátu J2K pomocí Aspose.Imaging for Java" h2="Převeďte z formátu obrázku J2K do jiných formátů pomocí platformy Java" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu z formátu J2K pomocí Aspose.Imaging for Java" %}}
-Pomocí Aspose.Imaging můžete snadno převádět z formátu J2K do jiných podporovaných formátů pomocí platformy Java.
+{{% blocks/products/pf/feature-page-section  h2="Široké spektrum obrazových formátů, které lze převést z obrázků J2K pomocí Aspose.Imaging for Java" %}}
+Můžete programově převádět z formátu J2K do jiných dostupných formátů pomocí
+Aspose.Imaging pro Javu.
 <br/>
-Seznam všech podporovaných konverzí:
+Na palubě jsou následující konverze:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

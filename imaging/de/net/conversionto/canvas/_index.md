@@ -1,21 +1,21 @@
 ﻿---
-title: Konvertieren Sie von anderen Formaten in CANVAS über .NET 
+title: Konvertieren Sie Bilder aus anderen unterstützten Formaten mithilfe der .NET-Plattform in das Bildformat CANVAS 
 weight: 3920
 url: /de/net/conversion/to/canvas 
 lang: de
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Mit Aspose.Imaging können Sie problemlos von anderen Formaten in CANVAS konvertieren
+description: Mit Aspose.Imaging für die .NET-Bibliothek ist es einfach, von anderen unterstützten Bildformaten in CANVAS zu konvertieren
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertierung von Bilddateien in CANVAS über .NET" h2="Konvertieren Sie von anderen Formaten in CANVAS" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie Bilddateien mithilfe der .NET-Plattform in das Bildformat CANVAS" h2="Konvertieren Sie mithilfe der Aspose.Imaging for .NET-Bibliothek aus anderen Formaten in das CANVAS-Format" downloadText="Herunterladen" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bildformate zum Konvertieren in CANVAS" %}}
-Mit Aspose.Imaging können Sie problemlos von anderen Bildformaten in CANVAS konvertieren.
+{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Konvertierungen in das CANVAS-Format mit Aspose.Imaging für die .NET-Bibliothek" %}}
+Mit der Aspose.Imaging-Bibliothek können Sie verschiedene Bildformate programmgesteuert in CANVAS-Bilder konvertieren.
 <br/>
-Vollständige Liste der unterstützten Konvertierungen:
+Folgende Konvertierungen werden unterstützt:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

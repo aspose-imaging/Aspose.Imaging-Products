@@ -12,8 +12,8 @@ description: Naudodami Aspose.Imaging galite konvertuoti į PDF iš kitų format
 {{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas į PDF naudojant Aspose.Imaging for Java biblioteką" h2="Konvertuokite į PDF iš kitų vaizdo formatų naudodami Java platformą" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai, kuriuos galima konvertuoti į PDF naudojant Aspose.Imaging for Java" %}}
-Naudodami Aspose.Imaging biblioteką galite lengvai konvertuoti į PDF iš kitų palaikomų vaizdo formatų naudodami Java platformą.
+{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai konvertuojami į PDF naudojant Aspose.Imaging for Java" %}}
+Naudodami Aspose.Imaging biblioteką galite programiškai konvertuoti į PDF iš kitų palaikomų vaizdo formatų naudodami Java platformą.
 <br/>
 Palaikomos konversijos:
 {{% /blocks/products/pf/feature-page-section %}}

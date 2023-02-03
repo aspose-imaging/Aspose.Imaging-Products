@@ -1,21 +1,21 @@
 ﻿---
-title: Konvertuoti į SVG iš kitų formatų naudojant .NET 
+title: Konvertuokite vaizdus į SVG vaizdo formatą iš kitų palaikomų formatų naudodami .NET platformą 
 weight: 3920
 url: /lt/net/conversion/to/svg 
 lang: lt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Naudodami Aspose.Imaging galite lengvai konvertuoti į SVG iš kitų formatų
+description: Naudojant Aspose.Imaging, skirta .NET bibliotekai, lengva konvertuoti į SVG iš kitų palaikomų vaizdo formatų
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas į SVG naudojant .NET" h2="Konvertuoti į SVG iš kitų formatų" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertuokite vaizdo failus į SVG vaizdo formatą naudodami .NET platformą" h2="Konvertuokite į SVG formatą iš kitų formatų naudodami Aspose.Imaging, skirtą .NET bibliotekai" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai, kuriuos galima konvertuoti į SVG" %}}
-Naudodami Aspose.Imaging galite lengvai konvertuoti į SVG iš kitų vaizdo formatų.
+{{% blocks/products/pf/feature-page-section  h2="Visos palaikomos konversijos į SVG formatą naudojant Aspose.Imaging for .NET biblioteką" %}}
+Naudodami Aspose.Imaging biblioteką galite programiškai konvertuoti įvairius vaizdo formatus į SVG vaizdą.
 <br/>
-Visas palaikomų konversijų sąrašas:
+Palaikomos šios konversijos:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
