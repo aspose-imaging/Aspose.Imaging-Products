@@ -12,8 +12,8 @@ description: באמצעות Aspose.Imaging ניתן להמיר ל-SVG מפורמ
 {{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה ל-SVG באמצעות Aspose.Imaging עבור ספריית Java" h2="המר ל-SVG מפורמטים אחרים של תמונה באמצעות פלטפורמת Java" downloadText="הורד" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה ל-SVG באמצעות Aspose.Imaging עבור Java" %}}
-באמצעות ספריית Aspose.Imaging תוכל להמיר בקלות ל-SVG מפורמטים נתמכים אחרים של תמונה באמצעות פלטפורמת Java.
+{{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים ניתנים להמרה ל-SVG באמצעות Aspose.Imaging עבור Java" %}}
+באמצעות ספריית Aspose.Imaging אתה יכול להמיר באופן פרוגרמטי ל-SVG מפורמטים נתמכים אחרים של תמונה באמצעות פלטפורמת Java.
 <br/>
 המרות נתמכות:
 {{% /blocks/products/pf/feature-page-section %}}

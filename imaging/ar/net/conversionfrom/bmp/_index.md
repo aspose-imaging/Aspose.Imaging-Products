@@ -13,7 +13,7 @@ description: باستخدام Aspose.Imaging ، يمكنك بسهولة التح
 
 
 {{% blocks/products/pf/feature-page-section  h2="جميع تنسيقات الصور المدعومة للتحويل من BMP" %}}
-باستخدام Aspose.Imaging ، يمكنك بسهولة التحويل من BMP إلى تنسيقات أخرى.
+يسمح Aspose.Imaging بأتمتة الكثير من التحويلات من BMP إلى تنسيقات أخرى على منصة .NET.
 <br/>
 القائمة الكاملة للتحويلات المدعومة:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -5,17 +5,18 @@ url: /id/java/conversion/from/eps
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi dari EPS ke format lain menggunakan platform Java
+description: Aspose.Imaging dapat dengan mudah mengonversi dari EPS ke format lain menggunakan platform Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar dari EPS menggunakan Aspose.Imaging untuk Java" h2="Konversikan dari EPS ke format lain menggunakan platform Java" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversikan gambar dari format EPS menggunakan Aspose.Imaging untuk Java" h2="Konversi dari format gambar EPS ke format lain menggunakan platform Java" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari EPS menggunakan Aspose.Imaging untuk Java" %}}
-Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi dari EPS ke format lain yang didukung menggunakan platform Java.
+{{% blocks/products/pf/feature-page-section  h2="Spektrum luas format gambar yang dapat dikonversi dari gambar EPS menggunakan Aspose.Imaging untuk Java" %}}
+Anda dapat secara terprogram mengonversi dari format EPS ke format lain yang tersedia menggunakan
+Aspose.Imaging untuk Java.
 <br/>
-Semua daftar konversi yang didukung:
+Ada konversi berikut di pesawat:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

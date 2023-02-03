@@ -13,7 +13,7 @@ description: Aspose.Imaging'i kullanarak BMP biçimini kolayca başka biçimlere
 
 
 {{% blocks/products/pf/feature-page-section  h2="BMP'den dönüştürülecek desteklenen tüm resim biçimleri" %}}
-Aspose.Imaging'i kullanarak BMP formatından diğer formatlara kolayca dönüştürebilirsiniz.
+Aspose.Imaging, .NET platformunda BMP'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir.
 <br/>
 Desteklenen dönüşümlerin tam listesi:
 {{% /blocks/products/pf/feature-page-section %}}

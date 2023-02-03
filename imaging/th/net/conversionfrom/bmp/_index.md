@@ -13,7 +13,7 @@ description: เมื่อใช้ Aspose.Imaging คุณสามารถ
 
 
 {{% blocks/products/pf/feature-page-section  h2="รูปแบบภาพที่รองรับทั้งหมดที่จะแปลงจาก BMP" %}}
-เมื่อใช้ Aspose.Imaging คุณสามารถแปลงจาก BMP เป็นรูปแบบอื่นได้อย่างง่ายดาย
+Aspose.Imaging ช่วยให้การแปลงจำนวนมากโดยอัตโนมัติจาก BMP เป็นรูปแบบอื่นบนแพลตฟอร์ม .NET
 <br/>
 รายการการแปลงที่รองรับทั้งหมด:
 {{% /blocks/products/pf/feature-page-section %}}

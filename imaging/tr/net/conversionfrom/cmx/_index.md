@@ -13,7 +13,7 @@ description: Aspose.Imaging'i kullanarak CMX biçimini kolayca başka biçimlere
 
 
 {{% blocks/products/pf/feature-page-section  h2="CMX'den dönüştürülecek desteklenen tüm resim biçimleri" %}}
-Aspose.Imaging'i kullanarak CMX formatından diğer formatlara kolayca dönüştürebilirsiniz.
+Aspose.Imaging, .NET platformunda CMX'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir.
 <br/>
 Desteklenen dönüşümlerin tam listesi:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -12,8 +12,8 @@ description: באמצעות Aspose.Imaging ניתן להמיר ל-TGA מפורמ
 {{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה ל-TGA באמצעות Aspose.Imaging עבור ספריית Java" h2="המר ל-TGA מפורמטים אחרים של תמונה באמצעות פלטפורמת Java" downloadText="הורד" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה ל-TGA באמצעות Aspose.Imaging עבור Java" %}}
-באמצעות ספריית Aspose.Imaging תוכל להמיר בקלות ל-TGA מפורמטים נתמכים אחרים של תמונה באמצעות פלטפורמת Java.
+{{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים ניתנים להמרה ל-TGA באמצעות Aspose.Imaging עבור Java" %}}
+באמצעות ספריית Aspose.Imaging אתה יכול להמיר באופן פרוגרמטי ל-TGA מפורמטים נתמכים אחרים של תמונה באמצעות פלטפורמת Java.
 <br/>
 המרות נתמכות:
 {{% /blocks/products/pf/feature-page-section %}}

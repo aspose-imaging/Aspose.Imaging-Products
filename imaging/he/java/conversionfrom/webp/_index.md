@@ -5,17 +5,18 @@ url: /he/java/conversion/from/webp
 lang: he
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: באמצעות Aspose.Imaging תוכל להמיר בקלות מ-WEBP לפורמטים אחרים באמצעות פלטפורמת Java
+description: Aspose.Imaging יכולה להמיר בקלות מ-WEBP לפורמטים אחרים באמצעות פלטפורמת Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה מ-WEBP באמצעות Aspose.Imaging עבור Java" h2="המר מ-WEBP לפורמטים אחרים באמצעות פלטפורמת Java" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="המר תמונות מפורמט WEBP באמצעות Aspose.Imaging עבור Java" h2="המר מפורמט תמונה WEBP לפורמטים אחרים באמצעות פלטפורמת Java" downloadText="הורד" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה מ-WEBP באמצעות Aspose.Imaging עבור Java" %}}
-באמצעות Aspose.Imaging תוכל להמיר בקלות מ-WEBP לפורמטים נתמכים אחרים באמצעות פלטפורמת Java.
+{{% blocks/products/pf/feature-page-section  h2="ספקטרום רחב של פורמטים של תמונות שניתן להמיר מתמונות WEBP באמצעות Aspose.Imaging עבור Java" %}}
+אתה יכול להמיר באופן תכנותי מפורמט WEBP לפורמטים זמינים אחרים באמצעות
+Aspose.Imaging עבור Java.
 <br/>
-רשימת כל ההמרות הנתמכות:
+ישנן ההמרות הבאות על הסיפון:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

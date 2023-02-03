@@ -13,7 +13,7 @@ description: Aspose.Imaging'i kullanarak TIF biçimini kolayca başka biçimlere
 
 
 {{% blocks/products/pf/feature-page-section  h2="TIF'den dönüştürülecek desteklenen tüm resim biçimleri" %}}
-Aspose.Imaging'i kullanarak TIF formatından diğer formatlara kolayca dönüştürebilirsiniz.
+Aspose.Imaging, .NET platformunda TIF'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir.
 <br/>
 Desteklenen dönüşümlerin tam listesi:
 {{% /blocks/products/pf/feature-page-section %}}

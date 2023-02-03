@@ -5,17 +5,18 @@ url: /ja/java/conversion/from/wmz
 lang: ja
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging を使用すると、Java プラットフォームを使用して WMZ から他のフォーマットに簡単に変換できます。
+description: Aspose.Imaging は、Java プラットフォームを使用して WMZ から他のフォーマットに簡単に変換できます
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java を使用した WMZ からの画像ファイルの変換" h2="Java プラットフォームを使用して WMZ から他の形式に変換する" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java を使用して WMZ フォーマットから画像を変換します" h2="Java プラットフォームを使用して、WMZ 画像形式から他の形式に変換します" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java を使用して WMZ から変換する、サポートされているすべての画像フォーマット" %}}
-Aspose.Imaging を使用すると、Java プラットフォームを使用して WMZ からサポートされている他のフォーマットに簡単に変換できます。
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java を使用して WMZ 画像から変換できる幅広い画像フォーマット" %}}
+次を使用して、WMZ 形式から他の使用可能な形式にプログラムで変換できます。
+Aspose.Imaging for Java。
 <br/>
-サポートされているすべての変換リスト:
+機内では次の変換があります。
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -13,7 +13,7 @@ description: Met behulp van Aspose.Imaging kunt u eenvoudig converteren van SVG 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde afbeeldingsindelingen om te converteren van SVG" %}}
-Met Aspose.Imaging kunt u eenvoudig converteren van SVG naar andere formaten.
+Aspose.Imaging maakt het mogelijk veel conversies van SVG naar andere formaten op het .NET-platform te automatiseren.
 <br/>
 Volledige lijst met ondersteunde conversies:
 {{% /blocks/products/pf/feature-page-section %}}

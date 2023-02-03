@@ -13,7 +13,7 @@ description: Aspose.Imaging을 사용하면 Java를 사용하여 다른 형식�
 
 
 {{% blocks/products/pf/feature-page-section  h2="지원되는 모든 이미지 형식은 Aspose.Imaging for Java를 사용하여 WMF로 변환할 수 있습니다." %}}
-Aspose.Imaging 라이브러리를 사용하면 Java 플랫폼을 사용하여 지원되는 다른 이미지 형식에서 WMF로 쉽게 변환할 수 있습니다.
+Aspose.Imaging 라이브러리를 사용하면 Java 플랫폼을 사용하여 지원되는 다른 이미지 형식에서 프로그래밍 방식으로 WMF로 변환할 수 있습니다.
 <br/>
 지원되는 변환:
 {{% /blocks/products/pf/feature-page-section %}}

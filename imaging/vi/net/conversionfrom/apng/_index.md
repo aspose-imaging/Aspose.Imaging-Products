@@ -13,7 +13,7 @@ description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng chuyển đ�
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tất cả các định dạng hình ảnh được hỗ trợ để chuyển đổi từ APNG" %}}
-Sử dụng Aspose.Imaging, bạn có thể dễ dàng chuyển đổi từ APNG sang các định dạng khác.
+Aspose.Imaging cho phép tự động hóa rất nhiều chuyển đổi từ APNG sang các định dạng khác trên nền tảng .NET.
 <br/>
 Danh sách đầy đủ các chuyển đổi được hỗ trợ:
 {{% /blocks/products/pf/feature-page-section %}}

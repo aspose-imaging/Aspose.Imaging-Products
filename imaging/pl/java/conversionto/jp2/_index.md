@@ -9,11 +9,11 @@ description: Za pomocą Aspose.Imaging możesz konwertować do JP2 z innych form
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwersja plików graficznych do formatu JP2 przy użyciu biblioteki Aspose.Imaging for Java" h2="Konwertuj do JP2 z innych formatów obrazów za pomocą platformy Java" downloadText="Ściągnij" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwersja plików graficznych do formatu JP2 przy użyciu biblioteki Aspose.Imaging for Java" h2="Konwertuj do JP2 z innych formatów obrazów za pomocą platformy Java" downloadText="Pobierać" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty obrazów do przekonwertowania na JP2 przy użyciu Aspose.Imaging for Java" %}}
-Korzystając z biblioteki Aspose.Imaging możesz łatwo przekonwertować do JP2 z innych obsługiwanych formatów obrazów przy użyciu platformy Java.
+{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty obrazów konwertowalne do JP2 przy użyciu Aspose.Imaging for Java" %}}
+Korzystając z biblioteki Aspose.Imaging możesz programowo konwertować do JP2 z innych obsługiwanych formatów obrazów przy użyciu platformy Java.
 <br/>
 Obsługiwane konwersje:
 {{% /blocks/products/pf/feature-page-section %}}

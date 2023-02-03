@@ -13,7 +13,7 @@ description: Mit Aspose.Imaging können Sie ganz einfach von J2K in andere Forma
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bildformate zum Konvertieren von J2K" %}}
-Mit Aspose.Imaging können Sie ganz einfach von J2K in andere Formate konvertieren.
+Aspose.Imaging ermöglicht die Automatisierung vieler Konvertierungen von J2K in andere Formate auf der .NET-Plattform.
 <br/>
 Vollständige Liste der unterstützten Konvertierungen:
 {{% /blocks/products/pf/feature-page-section %}}

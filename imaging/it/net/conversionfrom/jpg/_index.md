@@ -13,7 +13,7 @@ description: Usando Aspose.Imaging puoi facilmente convertire da JPG ad altri fo
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tutti i formati immagine supportati per la conversione da JPG" %}}
-Usando Aspose.Imaging puoi facilmente convertire da JPG ad altri formati.
+Aspose.Imaging consente di automatizzare molte conversioni da JPG ad altri formati sulla piattaforma .NET.
 <br/>
 Elenco completo delle conversioni supportate:
 {{% /blocks/products/pf/feature-page-section %}}

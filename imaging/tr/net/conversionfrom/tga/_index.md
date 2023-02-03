@@ -13,7 +13,7 @@ description: Aspose.Imaging'i kullanarak TGA biçimini kolayca başka biçimlere
 
 
 {{% blocks/products/pf/feature-page-section  h2="TGA'den dönüştürülecek desteklenen tüm resim biçimleri" %}}
-Aspose.Imaging'i kullanarak TGA formatından diğer formatlara kolayca dönüştürebilirsiniz.
+Aspose.Imaging, .NET platformunda TGA'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir.
 <br/>
 Desteklenen dönüşümlerin tam listesi:
 {{% /blocks/products/pf/feature-page-section %}}

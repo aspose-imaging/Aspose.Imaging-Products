@@ -1,55 +1,55 @@
 ﻿---
-title: अन्य प्रारूपों से EMF में कनवर्ट करें .NET के 
+title: .NET प्लेटफॉर्म का उपयोग करके छवियों को अन्य समर्थित स्वरूपों से EMF छवि प्रारूप में कनवर्ट करें 
 weight: 3920
 url: /hi/net/conversion/to/emf 
 lang: hi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging का उपयोग करके आप अन्य प्रारूपों से EMF में आसानी से रूपांतरित कर सकते हैं
+description: .NET लाइब्रेरी के लिए Aspose.Imaging का उपयोग करके अन्य समर्थित छवि प्रारूपों से EMF में कनवर्ट करना आसान है
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="छवि फ़ाइलें .NET के माध्यम से EMF में रूपांतरण" h2="अन्य प्रारूपों से EMF में कनवर्ट करें" downloadText="डाउनलोड" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET प्लेटफॉर्म का उपयोग करके छवि फ़ाइलों को EMF छवि प्रारूप में कनवर्ट करें" h2=".NET लाइब्रेरी के लिए Aspose.Imaging का उपयोग करके अन्य प्रारूपों से EMF प्रारूप में कनवर्ट करें" downloadText="डाउनलोड" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="से EMF में बदलने के लिए सभी समर्थित छवि प्रारूप" %}}
-Aspose.Imaging का उपयोग करके आप आसानी से अन्य छवि प्रारूपों से EMF में परिवर्तित कर सकते हैं।
+{{% blocks/products/pf/feature-page-section  h2=".NET लाइब्रेरी के लिए Aspose.Imaging का उपयोग करके EMF प्रारूप में सभी समर्थित रूपांतरण" %}}
+Aspose.Imaging लाइब्रेरी का उपयोग करके आप विभिन्न छवि प्रारूपों को EMF छवि में प्रोग्रामेटिक रूप से परिवर्तित कर सकते हैं।
 <br/>
-समर्थित रूपांतरणों की पूरी सूची:
+निम्नलिखित रूपांतरण समर्थित हैं:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/apng-to-emf" >APNG प्रति EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/bmp-to-emf" >BMP प्रति EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/dib-to-emf" >DIB प्रति EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/dicom-to-emf" >DICOM प्रति EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/djvu-to-emf" >DJVU प्रति EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/dng-to-emf" >DNG प्रति EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/emz-to-emf" >EMZ प्रति EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/gif-to-emf" >GIF प्रति EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/jpeg2000-to-emf" >JPEG2000 प्रति EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/jp2-to-emf" >JP2 प्रति EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/j2k-to-emf" >J2K प्रति EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/jpg-to-emf" >JPG प्रति EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/jpeg-to-emf" >JPEG प्रति EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/png-to-emf" >PNG प्रति EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/tga-to-emf" >TGA प्रति EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/tif-to-emf" >TIF प्रति EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/tiff-to-emf" >TIFF प्रति EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/webp-to-emf" >WEBP प्रति EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/wmf-to-emf" >WMF प्रति EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/wmz-to-emf" >WMZ प्रति EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/svg-to-emf" >SVG प्रति EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/svgz-to-emf" >SVGZ प्रति EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/eps-to-emf" >EPS प्रति EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/cdr-to-emf" >CDR प्रति EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/cmx-to-emf" >CMX प्रति EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/otg-to-emf" >OTG प्रति EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/odg-to-emf" >ODG प्रति EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/ico-to-emf" >ICO प्रति EMF</a></div>
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/apng-to-emf" >APNG को EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/bmp-to-emf" >BMP को EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/dib-to-emf" >DIB को EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/dicom-to-emf" >DICOM को EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/djvu-to-emf" >DJVU को EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/dng-to-emf" >DNG को EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/emz-to-emf" >EMZ को EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/gif-to-emf" >GIF को EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/jpeg2000-to-emf" >JPEG2000 को EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/jp2-to-emf" >JP2 को EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/j2k-to-emf" >J2K को EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/jpg-to-emf" >JPG को EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/jpeg-to-emf" >JPEG को EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/png-to-emf" >PNG को EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/tga-to-emf" >TGA को EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/tif-to-emf" >TIF को EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/tiff-to-emf" >TIFF को EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/webp-to-emf" >WEBP को EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/wmf-to-emf" >WMF को EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/wmz-to-emf" >WMZ को EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/svg-to-emf" >SVG को EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/svgz-to-emf" >SVGZ को EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/eps-to-emf" >EPS को EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/cdr-to-emf" >CDR को EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/cmx-to-emf" >CMX को EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/otg-to-emf" >OTG को EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/odg-to-emf" >ODG को EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/ico-to-emf" >ICO को EMF</a></div>
                 </div>
         </div>
     </div>

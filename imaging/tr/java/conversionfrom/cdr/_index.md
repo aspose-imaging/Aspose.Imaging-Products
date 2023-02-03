@@ -5,17 +5,18 @@ url: /tr/java/conversion/from/cdr
 lang: tr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging'i kullanarak CDR'ten Java platformunu kullanarak diğer formatlara kolayca dönüştürebilirsiniz
+description: Aspose.Imaging, Java platformunu kullanarak CDR biçimini diğer biçimlere kolayca dönüştürebilir
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java kullanarak CDR'ten Görüntü Dosyaları Dönüştürme" h2="Java platformunu kullanarak CDR biçimini diğer biçimlere dönüştürün" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java kullanarak görüntüleri CDR formatından dönüştürün" h2="Java platformunu kullanarak CDR görüntü biçiminden diğer biçimlere dönüştürme" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java kullanılarak CDR'den dönüştürmek için desteklenen tüm resim formatları" %}}
-Aspose.Imaging'i kullanarak CDR'ten Java platformunu kullanarak desteklenen diğer formatlara kolayca dönüştürebilirsiniz.
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java kullanılarak CDR görüntülerden dönüştürülebilen geniş görüntü formatları yelpazesi" %}}
+kullanarak CDR biçiminden diğer kullanılabilir biçimlere programlı olarak dönüştürebilirsiniz.
+Java için Aspose.Imaging.
 <br/>
-Desteklenen tüm dönüşümler listesi:
+Gemide aşağıdaki dönüşümler var:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

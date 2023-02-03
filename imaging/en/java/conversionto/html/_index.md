@@ -12,8 +12,8 @@ description: Using Aspose.Imaging you can convert to HTML from other formats usi
 {{< blocks/products/pf/feature-page-header h1="Image Files Conversion to HTML using Aspose.Imaging for Java library" h2="Convert to HTML from other image formats using Java platform" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from to HTML using Aspose.Imaging for Java" %}}
-Using Aspose.Imaging library you can easily convert to HTML from other supported image formats using Java platform.
+{{% blocks/products/pf/feature-page-section  h2="All supported image formats convertible to HTML using Aspose.Imaging for Java" %}}
+Using Aspose.Imaging library you can programmatically convert to HTML from other supported image formats using Java platform.
 <br/>
 Supported conversions:
 {{% /blocks/products/pf/feature-page-section %}}

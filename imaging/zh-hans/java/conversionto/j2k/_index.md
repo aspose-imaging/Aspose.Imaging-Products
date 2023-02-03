@@ -12,8 +12,8 @@ description: 使用 Aspose.Imaging，您可以使用 Java 从其他格式转换�
 {{< blocks/products/pf/feature-page-header h1="使用 Aspose.Imaging for Java 库将图像文件转换为 J2K" h2="使用 Java 平台从其他图像格式转换为 J2K" downloadText="下载" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="使用 Aspose.Imaging for Java 将所有支持的图像格式转换为 J2K" %}}
-使用 Aspose.Imaging 库，您可以使用 Java 平台轻松地将其他受支持的图像格式转换为 J2K。
+{{% blocks/products/pf/feature-page-section  h2="使用 Aspose.Imaging for Java 可将所有支持的图像格式转换为 J2K" %}}
+使用 Aspose.Imaging 库，您可以使用 Java 平台以编程方式将其他受支持的图像格式转换为 J2K。
 <br/>
 支持的转换：
 {{% /blocks/products/pf/feature-page-section %}}

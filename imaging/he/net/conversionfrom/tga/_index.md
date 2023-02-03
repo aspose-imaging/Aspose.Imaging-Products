@@ -13,7 +13,7 @@ description: באמצעות Aspose.Imaging תוכל להמיר בקלות מ-TGA
 
 
 {{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה מ-TGA" %}}
-באמצעות Aspose.Imaging תוכל להמיר בקלות מ-TGA לפורמטים אחרים.
+Aspose.Imaging מאפשר לבצע אוטומציה של המרות רבות מ-TGA לפורמטים אחרים בפלטפורמת NET.
 <br/>
 רשימה מלאה של המרות נתמכות:
 {{% /blocks/products/pf/feature-page-section %}}

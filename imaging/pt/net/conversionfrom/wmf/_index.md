@@ -13,7 +13,7 @@ description: Usando Aspose.Imaging você pode facilmente converter de WMF para o
 
 
 {{% blocks/products/pf/feature-page-section  h2="Todos os formatos de imagem compatíveis para conversão de WMF" %}}
-Usando Aspose.Imaging você pode facilmente converter de WMF para outros formatos.
+Aspose.Imaging permite automatizar muitas conversões de WMF para outros formatos na plataforma .NET.
 <br/>
 Lista completa de conversões suportadas:
 {{% /blocks/products/pf/feature-page-section %}}

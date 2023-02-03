@@ -1,21 +1,21 @@
 ﻿---
-title: המר ל-EMZ מפורמט אחר .NET 
+title: המר תמונות לפורמט תמונה EMZ מפורמטים נתמכים אחרים באמצעות פלטפורמת NET 
 weight: 3920
 url: /he/net/conversion/to/emz 
 lang: he
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: באמצעות Aspose.Imaging תוכל להמיר בקלות ל-EMZ מפורמט אחר
+description: באמצעות Aspose.Imaging עבור ספריית NET קל להמיר ל-EMZ מפורמטי תמונה נתמכים אחרים
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="המרת קובצי תמונה ל-EMZ דרך .NET" h2="המר ל-EMZ מפורמט אחר" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="המר קבצי תמונה לפורמט תמונה EMZ באמצעות פלטפורמת NET" h2="המר לפורמט EMZ מפורמטים אחרים באמצעות Aspose.Imaging עבור ספריית NET" downloadText="הורד" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה ל-EMZ" %}}
-באמצעות Aspose.Imaging תוכל להמיר בקלות ל-EMZ מפורמטים אחרים של תמונה.
+{{% blocks/products/pf/feature-page-section  h2="כל ההמרות הנתמכות לפורמט EMZ באמצעות Aspose.Imaging עבור ספריית NET" %}}
+באמצעות ספריית Aspose.Imaging אתה יכול להמיר פורמטים שונים של תמונה לתמונה EMZ.
 <br/>
-רשימה מלאה של המרות נתמכות:
+ההמרות הבאות נתמכות:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

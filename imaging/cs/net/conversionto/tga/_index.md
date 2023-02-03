@@ -1,21 +1,21 @@
 ﻿---
-title: Převést na TGA z jiných formátů přes .NET 
+title: Převeďte obrázky do formátu obrázku TGA z jiných podporovaných formátů pomocí platformy .NET 
 weight: 3920
 url: /cs/net/conversion/to/tga 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Pomocí Aspose.Imaging můžete snadno převést na TGA z jiných formátů
+description: Pomocí knihovny Aspose.Imaging for .NET je snadné převést do formátu TGA z jiných podporovaných formátů obrázků
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů do formátu TGA prostřednictvím .NET" h2="Převést na TGA z jiných formátů" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Převeďte soubory obrázků do formátu obrázků TGA pomocí platformy .NET" h2="Převeďte do formátu TGA z jiných formátů pomocí knihovny Aspose.Imaging for .NET" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu na TGA" %}}
-Pomocí Aspose.Imaging můžete snadno převést do formátu TGA z jiných formátů obrázků.
+{{% blocks/products/pf/feature-page-section  h2="Všechny podporované převody do formátu TGA pomocí knihovny Aspose.Imaging for .NET" %}}
+Pomocí knihovny Aspose.Imaging můžete programově převádět různé formáty obrázků na obrázek TGA.
 <br/>
-Úplný seznam podporovaných konverzí:
+Podporovány jsou následující převody:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

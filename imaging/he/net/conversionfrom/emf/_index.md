@@ -13,7 +13,7 @@ description: באמצעות Aspose.Imaging תוכל להמיר בקלות מ-EMF
 
 
 {{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה מ-EMF" %}}
-באמצעות Aspose.Imaging תוכל להמיר בקלות מ-EMF לפורמטים אחרים.
+Aspose.Imaging מאפשר לבצע אוטומציה של המרות רבות מ-EMF לפורמטים אחרים בפלטפורמת NET.
 <br/>
 רשימה מלאה של המרות נתמכות:
 {{% /blocks/products/pf/feature-page-section %}}

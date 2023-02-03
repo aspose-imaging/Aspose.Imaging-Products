@@ -5,17 +5,18 @@ url: /vi/java/conversion/from/emz
 lang: vi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng chuyển đổi từ EMZ sang các định dạng khác bằng nền tảng Java
+description: Aspose.Imaging có thể dễ dàng chuyển đổi từ EMZ sang các định dạng khác bằng nền tảng Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Chuyển đổi tệp hình ảnh từ EMZ bằng Aspose.Imaging cho Java" h2="Chuyển đổi từ EMZ sang các định dạng khác bằng nền tảng Java" downloadText="Tải xuống" >}}
+{{< blocks/products/pf/feature-page-header h1="Chuyển đổi hình ảnh từ định dạng EMZ bằng Aspose.Imaging cho Java" h2="Chuyển đổi từ định dạng hình ảnh EMZ sang các định dạng khác bằng nền tảng Java" downloadText="Tải xuống" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tất cả các định dạng hình ảnh được hỗ trợ để chuyển đổi từ EMZ bằng Aspose.Imaging cho Java" %}}
-Sử dụng Aspose.Imaging, bạn có thể dễ dàng chuyển đổi từ EMZ sang các định dạng được hỗ trợ khác bằng nền tảng Java.
+{{% blocks/products/pf/feature-page-section  h2="Nhiều định dạng hình ảnh có thể được chuyển đổi từ hình ảnh EMZ bằng Aspose.Imaging cho Java" %}}
+Bạn có thể lập trình chuyển đổi từ định dạng EMZ sang các định dạng có sẵn khác bằng cách sử dụng
+Aspose.Imaging cho Java.
 <br/>
-Tất cả danh sách chuyển đổi được hỗ trợ:
+Có các chuyển đổi sau trên tàu:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

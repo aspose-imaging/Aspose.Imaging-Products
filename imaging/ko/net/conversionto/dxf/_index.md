@@ -1,21 +1,21 @@
 ﻿---
-title: 다른 형식에서 DXF로 변환 .NET 을 
+title: .NET 플랫폼을 사용하여 지원되는 다른 형식에서 이미지를 DXF 이미지 형식으로 변환 
 weight: 3920
 url: /ko/net/conversion/to/dxf 
 lang: ko
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging을 사용하면 다른 형식에서 DXF로 쉽게 변환할 수 있습니다.
+description: .NET 라이브러리용 Aspose.Imaging을 사용하면 지원되는 다른 이미지 형식에서 DXF로 쉽게 변환할 수 있습니다.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET을 통해 DXF로 이미지 파일 변환" h2="다른 형식에서 DXF로 변환" downloadText="다운로드" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET 플랫폼을 사용하여 이미지 파일을 DXF 이미지 형식으로 변환" h2=".NET용 Aspose.Imaging 라이브러리를 사용하여 다른 형식에서 DXF 형식으로 변환" downloadText="다운로드" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="DXF (으)로 변환할 지원되는 모든 이미지 형식" %}}
-Aspose.Imaging을 사용하면 다른 이미지 형식에서 DXF로 쉽게 변환할 수 있습니다.
+{{% blocks/products/pf/feature-page-section  h2=".NET 라이브러리용 Aspose.Imaging을 사용하여 DXF 형식으로 지원되는 모든 변환" %}}
+Aspose.Imaging 라이브러리를 사용하면 프로그래밍 방식으로 다양한 이미지 형식을 DXF 이미지로 변환할 수 있습니다.
 <br/>
-지원되는 변환의 전체 목록:
+다음 변환이 지원됩니다.
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

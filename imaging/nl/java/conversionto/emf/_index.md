@@ -12,8 +12,8 @@ description: Met Aspose.Imaging kunt u met Java converteren naar EMF vanuit ande
 {{< blocks/products/pf/feature-page-header h1="Afbeeldingsbestanden Conversie naar EMF met behulp van Aspose.Imaging voor Java-bibliotheek" h2="Converteer naar EMF van andere afbeeldingsindelingen met behulp van het Java-platform" downloadText="Downloaden" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde afbeeldingsindelingen om van naar EMF te converteren met Aspose.Imaging voor Java" %}}
-Met behulp van de Aspose.Imaging-bibliotheek kunt u eenvoudig converteren naar EMF vanuit andere ondersteunde afbeeldingsindelingen met behulp van het Java-platform.
+{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde afbeeldingsindelingen kunnen worden geconverteerd naar EMF met Aspose.Imaging voor Java" %}}
+Met behulp van de Aspose.Imaging-bibliotheek kunt u programmatisch converteren naar EMF van andere ondersteunde afbeeldingsindelingen met behulp van het Java-platform.
 <br/>
 Ondersteunde conversies:
 {{% /blocks/products/pf/feature-page-section %}}

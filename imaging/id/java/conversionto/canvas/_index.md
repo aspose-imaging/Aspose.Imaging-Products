@@ -12,8 +12,8 @@ description: Menggunakan Aspose.Imaging Anda dapat mengonversi ke CANVAS dari fo
 {{< blocks/products/pf/feature-page-header h1="Konversi File Gambar ke CANVAS menggunakan Aspose.Imaging untuk pustaka Java" h2="Konversikan ke CANVAS dari format gambar lain menggunakan platform Java" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari ke CANVAS menggunakan Aspose.Imaging untuk Java" %}}
-Dengan menggunakan pustaka Aspose.Imaging, Anda dapat dengan mudah mengonversi ke CANVAS dari format gambar lain yang didukung menggunakan platform Java.
+{{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung dapat dikonversi ke CANVAS menggunakan Aspose.Imaging untuk Java" %}}
+Dengan menggunakan pustaka Aspose.Imaging, Anda dapat mengonversi secara terprogram ke CANVAS dari format gambar lain yang didukung menggunakan platform Java.
 <br/>
 Konversi yang didukung:
 {{% /blocks/products/pf/feature-page-section %}}

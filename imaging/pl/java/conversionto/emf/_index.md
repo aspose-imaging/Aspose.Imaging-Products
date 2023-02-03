@@ -9,11 +9,11 @@ description: Za pomocą Aspose.Imaging możesz konwertować do EMF z innych form
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwersja plików graficznych do formatu EMF przy użyciu biblioteki Aspose.Imaging for Java" h2="Konwertuj do EMF z innych formatów obrazów za pomocą platformy Java" downloadText="Ściągnij" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwersja plików graficznych do formatu EMF przy użyciu biblioteki Aspose.Imaging for Java" h2="Konwertuj do EMF z innych formatów obrazów za pomocą platformy Java" downloadText="Pobierać" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty obrazów do przekonwertowania na EMF przy użyciu Aspose.Imaging for Java" %}}
-Korzystając z biblioteki Aspose.Imaging możesz łatwo przekonwertować do EMF z innych obsługiwanych formatów obrazów przy użyciu platformy Java.
+{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty obrazów konwertowalne do EMF przy użyciu Aspose.Imaging for Java" %}}
+Korzystając z biblioteki Aspose.Imaging możesz programowo konwertować do EMF z innych obsługiwanych formatów obrazów przy użyciu platformy Java.
 <br/>
 Obsługiwane konwersje:
 {{% /blocks/products/pf/feature-page-section %}}

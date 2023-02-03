@@ -1,21 +1,21 @@
 ﻿---
-title: המר ל-JPEG2000 מפורמט אחר .NET 
+title: המר תמונות לפורמט תמונה JPEG2000 מפורמטים נתמכים אחרים באמצעות פלטפורמת NET 
 weight: 3920
 url: /he/net/conversion/to/jpeg2000 
 lang: he
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: באמצעות Aspose.Imaging תוכל להמיר בקלות ל-JPEG2000 מפורמט אחר
+description: באמצעות Aspose.Imaging עבור ספריית NET קל להמיר ל-JPEG2000 מפורמטי תמונה נתמכים אחרים
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="המרת קובצי תמונה ל-JPEG2000 דרך .NET" h2="המר ל-JPEG2000 מפורמט אחר" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="המר קבצי תמונה לפורמט תמונה JPEG2000 באמצעות פלטפורמת NET" h2="המר לפורמט JPEG2000 מפורמטים אחרים באמצעות Aspose.Imaging עבור ספריית NET" downloadText="הורד" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה ל-JPEG2000" %}}
-באמצעות Aspose.Imaging תוכל להמיר בקלות ל-JPEG2000 מפורמטים אחרים של תמונה.
+{{% blocks/products/pf/feature-page-section  h2="כל ההמרות הנתמכות לפורמט JPEG2000 באמצעות Aspose.Imaging עבור ספריית NET" %}}
+באמצעות ספריית Aspose.Imaging אתה יכול להמיר פורמטים שונים של תמונה לתמונה JPEG2000.
 <br/>
-רשימה מלאה של המרות נתמכות:
+ההמרות הבאות נתמכות:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -1,21 +1,21 @@
 ﻿---
-title: Перетворити в JPG з інших форматів за допомогою .NET 
+title: Перетворіть зображення у формат JPG з інших підтримуваних форматів за допомогою платформи .NET 
 weight: 3920
 url: /uk/net/conversion/to/jpg 
 lang: uk
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: За допомогою Aspose.Imaging ви можете легко конвертувати в JPG інші формати
+description: За допомогою бібліотеки Aspose.Imaging для .NET можна легко конвертувати в JPG інші підтримувані формати зображень
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Перетворення файлів зображень в JPG за допомогою .NET" h2="Перетворити в JPG з інших форматів" downloadText="Завантажити" >}}
+{{< blocks/products/pf/feature-page-header h1="Перетворюйте файли зображень у формат зображення JPG за допомогою платформи .NET" h2="Перетворіть у формат JPG інші формати за допомогою бібліотеки Aspose.Imaging для .NET" downloadText="Завантажити" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для конвертації у JPG" %}}
-За допомогою Aspose.Imaging ви можете легко конвертувати в JPG інші формати зображень.
+{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані перетворення у формат JPG за допомогою бібліотеки Aspose.Imaging для .NET" %}}
+Використовуючи бібліотеку Aspose.Imaging, ви можете програмно конвертувати різні формати зображень у зображення JPG.
 <br/>
-Повний список підтримуваних конвертацій:
+Підтримуються наступні перетворення:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

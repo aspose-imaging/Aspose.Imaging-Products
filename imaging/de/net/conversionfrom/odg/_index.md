@@ -13,7 +13,7 @@ description: Mit Aspose.Imaging können Sie ganz einfach von ODG in andere Forma
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bildformate zum Konvertieren von ODG" %}}
-Mit Aspose.Imaging können Sie ganz einfach von ODG in andere Formate konvertieren.
+Aspose.Imaging ermöglicht die Automatisierung vieler Konvertierungen von ODG in andere Formate auf der .NET-Plattform.
 <br/>
 Vollständige Liste der unterstützten Konvertierungen:
 {{% /blocks/products/pf/feature-page-section %}}

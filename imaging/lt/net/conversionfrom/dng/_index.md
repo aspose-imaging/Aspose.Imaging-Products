@@ -13,7 +13,7 @@ description: Naudodami Aspose.Imaging galite lengvai konvertuoti iš DNG į kitu
 
 
 {{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai konvertuoti iš DNG" %}}
-Naudodami Aspose.Imaging galite lengvai konvertuoti iš DNG į kitus formatus.
+Aspose.Imaging leidžia automatizuoti daug konversijų iš DNG į kitus formatus .NET platformoje.
 <br/>
 Visas palaikomų konversijų sąrašas:
 {{% /blocks/products/pf/feature-page-section %}}

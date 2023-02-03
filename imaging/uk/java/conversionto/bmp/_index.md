@@ -12,8 +12,8 @@ description: За допомогою Aspose.Imaging ви можете конве
 {{< blocks/products/pf/feature-page-header h1="Перетворення файлів зображень у BMP за допомогою бібліотеки Aspose.Imaging для Java" h2="Перетворіть у BMP інші формати зображень за допомогою платформи Java" downloadText="Завантажити" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для перетворення на BMP за допомогою Aspose.Imaging for Java" %}}
-Використовуючи бібліотеку Aspose.Imaging, ви можете легко конвертувати в BMP інші підтримувані формати зображень за допомогою платформи Java.
+{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень, якi можливо конвертувати у BMP за допомогою Aspose.Imaging для Java" %}}
+Використовуючи бібліотеку Aspose.Imaging, ви можете програмно конвертувати в BMP інші підтримувані формати зображень за допомогою платформи Java.
 <br/>
 Підтримувані перетворення:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,7 +13,7 @@ description: Using Aspose.Imaging you can easily convert from APNG to other form
 
 
 {{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from APNG" %}}
-Using Aspose.Imaging you can easily convert from APNG to other formats.
+Aspose.Imaging allows automate a lot of conversions from APNG to other formats on .NET platform.
 <br/>
 Full list of supported conversions:
 {{% /blocks/products/pf/feature-page-section %}}

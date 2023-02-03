@@ -13,7 +13,7 @@ description: Met behulp van Aspose.Imaging kunt u eenvoudig converteren van EMF 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde afbeeldingsindelingen om te converteren van EMF" %}}
-Met Aspose.Imaging kunt u eenvoudig converteren van EMF naar andere formaten.
+Aspose.Imaging maakt het mogelijk veel conversies van EMF naar andere formaten op het .NET-platform te automatiseren.
 <br/>
 Volledige lijst met ondersteunde conversies:
 {{% /blocks/products/pf/feature-page-section %}}

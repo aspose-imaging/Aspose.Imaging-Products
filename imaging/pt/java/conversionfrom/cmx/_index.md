@@ -5,17 +5,18 @@ url: /pt/java/conversion/from/cmx
 lang: pt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando o Aspose.Imaging, você pode facilmente converter de CMX para outros formatos usando a plataforma Java
+description: Aspose.Imaging pode converter facilmente de CMX para outros formatos usando a plataforma Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversão de arquivos de imagem de CMX usando Aspose.Imaging para Java" h2="Converta de CMX para outros formatos usando a plataforma Java" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Converta imagens do formato CMX usando Aspose.Imaging para Java" h2="Converta do formato de imagem CMX para outros formatos usando a plataforma Java" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos os formatos de imagem suportados para converter de CMX usando Aspose.Imaging para Java" %}}
-Usando o Aspose.Imaging, você pode facilmente converter de CMX para outros formatos suportados usando a plataforma Java.
+{{% blocks/products/pf/feature-page-section  h2="Amplo espectro de formatos de imagem que podem ser convertidos de imagens CMX usando Aspose.Imaging para Java" %}}
+Você pode converter programaticamente do formato CMX para outros formatos disponíveis usando
+Aspose.Imaging para Java.
 <br/>
-Lista de todas as conversões suportadas:
+Existem as seguintes conversões a bordo:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

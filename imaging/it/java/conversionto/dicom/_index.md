@@ -12,8 +12,8 @@ description: Usando Aspose.Imaging puoi convertire in DICOM da altri formati usa
 {{< blocks/products/pf/feature-page-header h1="Conversione dei file immagine in DICOM utilizzando Aspose.Imaging per la libreria Java" h2="Converti in DICOM da altri formati immagine utilizzando la piattaforma Java" downloadText="Scarica" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tutti i formati immagine supportati da convertire in DICOM utilizzando Aspose.Imaging per Java" %}}
-Utilizzando la libreria Aspose.Imaging puoi facilmente convertire in DICOM da altri formati di immagine supportati utilizzando la piattaforma Java.
+{{% blocks/products/pf/feature-page-section  h2="Tutti i formati immagine supportati sono convertibili in DICOM utilizzando Aspose.Imaging per Java" %}}
+Utilizzando la libreria Aspose.Imaging è possibile convertire in modo programmatico in DICOM da altri formati di immagine supportati utilizzando la piattaforma Java.
 <br/>
 Conversioni supportate:
 {{% /blocks/products/pf/feature-page-section %}}

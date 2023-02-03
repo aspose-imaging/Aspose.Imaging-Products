@@ -12,8 +12,8 @@ description: باستخدام Aspose.Imaging ، يمكنك التحويل إلى
 {{< blocks/products/pf/feature-page-header h1="تحويل ملفات الصور إلى J2K باستخدام Aspose.Imaging لمكتبة Java" h2="التحويل إلى J2K من تنسيقات الصور الأخرى باستخدام نظام Java الأساسي" downloadText="تحميل" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="جميع تنسيقات الصور المدعومة للتحويل منها إلى J2K باستخدام Aspose.Imaging for Java" %}}
-باستخدام مكتبة Aspose.Imaging ، يمكنك بسهولة التحويل إلى J2K من تنسيقات الصور الأخرى المدعومة باستخدام نظام Java الأساسي.
+{{% blocks/products/pf/feature-page-section  h2="جميع تنسيقات الصور المدعومة قابلة للتحويل إلى J2K باستخدام Aspose.Imaging for Java" %}}
+باستخدام مكتبة Aspose.Imaging ، يمكنك التحويل برمجيًا إلى J2K من تنسيقات الصور المدعومة الأخرى باستخدام نظام Java الأساسي.
 <br/>
 التحويلات المدعومة:
 {{% /blocks/products/pf/feature-page-section %}}

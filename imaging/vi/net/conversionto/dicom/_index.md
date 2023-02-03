@@ -1,21 +1,21 @@
 ﻿---
-title: Chuyển đổi sang DICOM từ các định dạng khác qua .NET 
+title: Chuyển đổi hình ảnh sang định dạng hình ảnh DICOM từ các định dạng được hỗ trợ khác bằng nền tảng .NET 
 weight: 3920
 url: /vi/net/conversion/to/dicom 
 lang: vi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng chuyển đổi sang DICOM từ các định dạng khác
+description: Sử dụng Aspose.Imaging cho thư viện .NET, thật dễ dàng để chuyển đổi sang DICOM từ các định dạng hình ảnh được hỗ trợ khác
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Chuyển đổi tệp hình ảnh sang DICOM qua .NET" h2="Chuyển đổi sang DICOM từ các định dạng khác" downloadText="Tải xuống" >}}
+{{< blocks/products/pf/feature-page-header h1="Chuyển đổi tệp hình ảnh sang định dạng hình ảnh DICOM bằng nền tảng .NET" h2="Chuyển đổi sang định dạng DICOM từ các định dạng khác bằng thư viện Aspose.Imaging for .NET" downloadText="Tải xuống" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tất cả các định dạng hình ảnh được hỗ trợ để chuyển đổi từ DICOM" %}}
-Sử dụng Aspose.Imaging, bạn có thể dễ dàng chuyển đổi sang DICOM từ các định dạng hình ảnh khác.
+{{% blocks/products/pf/feature-page-section  h2="Tất cả các chuyển đổi được hỗ trợ sang định dạng DICOM bằng thư viện Aspose.Imaging for .NET" %}}
+Sử dụng thư viện Aspose.Imaging, bạn có thể lập trình chuyển đổi các định dạng hình ảnh khác nhau thành hình ảnh DICOM.
 <br/>
-Danh sách đầy đủ các chuyển đổi được hỗ trợ:
+chuyển đổi sau đây được hỗ trợ:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

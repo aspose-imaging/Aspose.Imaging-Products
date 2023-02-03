@@ -1,21 +1,21 @@
 ﻿---
-title: המר ל-HTML מפורמט אחר .NET 
+title: המר תמונות לפורמט תמונה HTML מפורמטים נתמכים אחרים באמצעות פלטפורמת NET 
 weight: 3920
 url: /he/net/conversion/to/html 
 lang: he
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: באמצעות Aspose.Imaging תוכל להמיר בקלות ל-HTML מפורמט אחר
+description: באמצעות Aspose.Imaging עבור ספריית NET קל להמיר ל-HTML מפורמטי תמונה נתמכים אחרים
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="המרת קובצי תמונה ל-HTML דרך .NET" h2="המר ל-HTML מפורמט אחר" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="המר קבצי תמונה לפורמט תמונה HTML באמצעות פלטפורמת NET" h2="המר לפורמט HTML מפורמטים אחרים באמצעות Aspose.Imaging עבור ספריית NET" downloadText="הורד" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה ל-HTML" %}}
-באמצעות Aspose.Imaging תוכל להמיר בקלות ל-HTML מפורמטים אחרים של תמונה.
+{{% blocks/products/pf/feature-page-section  h2="כל ההמרות הנתמכות לפורמט HTML באמצעות Aspose.Imaging עבור ספריית NET" %}}
+באמצעות ספריית Aspose.Imaging אתה יכול להמיר פורמטים שונים של תמונה לתמונה HTML.
 <br/>
-רשימה מלאה של המרות נתמכות:
+ההמרות הבאות נתמכות:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

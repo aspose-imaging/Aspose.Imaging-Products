@@ -1,21 +1,21 @@
 ﻿---
-title: Convertir a JPEG desde otros formatos de .NET 
+title: Convierta imágenes al formato de imagen JPEG desde otros formatos compatibles utilizando la plataforma .NET 
 weight: 3920
 url: /es/net/conversion/to/jpeg 
 lang: es
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging puede convertir fácilmente a JPEG desde otros formatos
+description: Usando Aspose.Imaging para la biblioteca .NET, es fácil convertir a JPEG desde otros formatos de imagen compatibles
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversión de archivos de imagen a JPEG a través de .NET" h2="Convertir a JPEG desde otros formatos" downloadText="Descargar" >}}
+{{< blocks/products/pf/feature-page-header h1="Convierta archivos de imagen a formato de imagen JPEG utilizando la plataforma .NET" h2="Convierta al formato JPEG desde otros formatos usando Aspose.Imaging para la biblioteca .NET" downloadText="Descargar" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos los formatos de imagen admitidos para convertir a JPEG" %}}
-Con Aspose.Imaging puede convertir fácilmente a JPEG desde otros formatos de imagen.
+{{% blocks/products/pf/feature-page-section  h2="Todas las conversiones admitidas al formato JPEG usando Aspose.Imaging para la biblioteca .NET" %}}
+Con la biblioteca Aspose.Imaging, puede convertir mediante programación varios formatos de imagen a la imagen JPEG.
 <br/>
-Lista completa de conversiones admitidas:
+Se admiten las siguientes conversiones:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

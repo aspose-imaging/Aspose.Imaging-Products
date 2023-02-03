@@ -1,21 +1,21 @@
 ﻿---
-title: המר ל-DXF מפורמט אחר .NET 
+title: המר תמונות לפורמט תמונה DXF מפורמטים נתמכים אחרים באמצעות פלטפורמת NET 
 weight: 3920
 url: /he/net/conversion/to/dxf 
 lang: he
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: באמצעות Aspose.Imaging תוכל להמיר בקלות ל-DXF מפורמט אחר
+description: באמצעות Aspose.Imaging עבור ספריית NET קל להמיר ל-DXF מפורמטי תמונה נתמכים אחרים
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="המרת קובצי תמונה ל-DXF דרך .NET" h2="המר ל-DXF מפורמט אחר" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="המר קבצי תמונה לפורמט תמונה DXF באמצעות פלטפורמת NET" h2="המר לפורמט DXF מפורמטים אחרים באמצעות Aspose.Imaging עבור ספריית NET" downloadText="הורד" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה ל-DXF" %}}
-באמצעות Aspose.Imaging תוכל להמיר בקלות ל-DXF מפורמטים אחרים של תמונה.
+{{% blocks/products/pf/feature-page-section  h2="כל ההמרות הנתמכות לפורמט DXF באמצעות Aspose.Imaging עבור ספריית NET" %}}
+באמצעות ספריית Aspose.Imaging אתה יכול להמיר פורמטים שונים של תמונה לתמונה DXF.
 <br/>
-רשימה מלאה של המרות נתמכות:
+ההמרות הבאות נתמכות:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

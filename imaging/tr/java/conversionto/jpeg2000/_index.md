@@ -12,8 +12,8 @@ description: Aspose.Imaging'i kullanarak Java kullanan diğer biçimlerden JPEG2
 {{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java kitaplığı kullanılarak Görüntü Dosyalarının JPEG2000 biçimine dönüştürülmesi" h2="Java platformunu kullanarak diğer görüntü biçimlerinden JPEG2000 biçimine dönüştürün" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java kullanılarak JPEG2000 biçimine dönüştürmek için desteklenen tüm görüntü biçimleri" %}}
-Aspose.Imaging kütüphanesini kullanarak, Java platformunu kullanarak desteklenen diğer görüntü biçimlerinden JPEG2000 biçimine kolayca dönüştürebilirsiniz.
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java kullanılarak JPEG2000 biçimine dönüştürülebilen desteklenen tüm görüntü biçimleri" %}}
+Aspose.Imaging kütüphanesini kullanarak, Java platformunu kullanarak desteklenen diğer resim biçimlerinden programlı olarak JPEG2000 biçimine dönüştürebilirsiniz.
 <br/>
 Desteklenen dönüşümler:
 {{% /blocks/products/pf/feature-page-section %}}

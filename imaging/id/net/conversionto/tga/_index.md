@@ -1,21 +1,21 @@
 ﻿---
-title: Konversikan ke TGA dari format lain Melalui .NET 
+title: Konversi gambar ke format gambar TGA dari format lain yang didukung menggunakan platform .NET 
 weight: 3920
 url: /id/net/conversion/to/tga 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi ke TGA dari format lain
+description: Menggunakan Aspose.Imaging untuk pustaka .NET, mudah untuk mengonversi ke TGA dari format gambar lain yang didukung
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar ke TGA Melalui .NET" h2="Konversikan ke TGA dari format lain" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar menjadi format gambar TGA menggunakan platform .NET" h2="Konversikan ke format TGA dari format lain menggunakan Aspose.Imaging untuk perpustakaan .NET" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari ke TGA" %}}
-Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi ke TGA dari format gambar lain.
+{{% blocks/products/pf/feature-page-section  h2="Semua konversi yang didukung ke format TGA menggunakan Aspose.Imaging untuk perpustakaan .NET" %}}
+Dengan menggunakan pustaka Aspose.Imaging, Anda dapat secara terprogram mengonversi berbagai format gambar menjadi gambar TGA.
 <br/>
-Daftar lengkap konversi yang didukung:
+Konversi berikut didukung :
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

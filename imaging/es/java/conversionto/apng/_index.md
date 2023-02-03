@@ -12,8 +12,8 @@ description: Usando Aspose.Imaging puede convertir a APNG desde otros formatos u
 {{< blocks/products/pf/feature-page-header h1="Conversión de archivos de imagen a APNG utilizando la biblioteca Aspose.Imaging para Java" h2="Convierta a APNG desde otros formatos de imagen utilizando la plataforma Java" downloadText="Descargar" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos los formatos de imagen admitidos para convertir a APNG usando Aspose.Imaging para Java" %}}
-Con la biblioteca Aspose.Imaging, puede convertir fácilmente a APNG desde otros formatos de imagen admitidos utilizando la plataforma Java.
+{{% blocks/products/pf/feature-page-section  h2="Todos los formatos de imagen admitidos convertibles a APNG usando Aspose.Imaging para Java" %}}
+Con la biblioteca Aspose.Imaging, puede convertir mediante programación a APNG desde otros formatos de imagen admitidos mediante la plataforma Java.
 <br/>
 Conversiones admitidas:
 {{% /blocks/products/pf/feature-page-section %}}

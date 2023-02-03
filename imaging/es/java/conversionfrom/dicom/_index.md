@@ -5,17 +5,18 @@ url: /es/java/conversion/from/dicom
 lang: es
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging puede convertir fácilmente de DICOM a otros formatos usando la plataforma Java
+description: Aspose.Imaging puede convertir fácilmente de DICOM a otros formatos usando la plataforma Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversión de archivos de imagen de DICOM usando Aspose.Imaging para Java" h2="Convierta de DICOM a otros formatos utilizando la plataforma Java" downloadText="Descargar" >}}
+{{< blocks/products/pf/feature-page-header h1="Convierta imágenes del formato DICOM usando Aspose.Imaging para Java" h2="Convierta del formato de imagen DICOM a otros formatos utilizando la plataforma Java" downloadText="Descargar" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos los formatos de imagen admitidos para convertir desde DICOM usando Aspose.Imaging para Java" %}}
-Con Aspose.Imaging, puede convertir fácilmente de DICOM a otros formatos compatibles con la plataforma Java.
+{{% blocks/products/pf/feature-page-section  h2="Amplio espectro de formatos de imagen que se pueden convertir a partir de imágenes DICOM usando Aspose.Imaging para Java" %}}
+Puede convertir programáticamente del formato DICOM a otros formatos disponibles usando
+Aspose. Imaging para Java.
 <br/>
-Lista de todas las conversiones admitidas:
+Hay las siguientes conversiones a bordo:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

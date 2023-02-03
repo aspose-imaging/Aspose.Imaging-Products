@@ -1,21 +1,21 @@
 ﻿---
-title: המר ל-WEBP מפורמט אחר .NET 
+title: המר תמונות לפורמט תמונה WEBP מפורמטים נתמכים אחרים באמצעות פלטפורמת NET 
 weight: 3920
 url: /he/net/conversion/to/webp 
 lang: he
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: באמצעות Aspose.Imaging תוכל להמיר בקלות ל-WEBP מפורמט אחר
+description: באמצעות Aspose.Imaging עבור ספריית NET קל להמיר ל-WEBP מפורמטי תמונה נתמכים אחרים
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="המרת קובצי תמונה ל-WEBP דרך .NET" h2="המר ל-WEBP מפורמט אחר" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="המר קבצי תמונה לפורמט תמונה WEBP באמצעות פלטפורמת NET" h2="המר לפורמט WEBP מפורמטים אחרים באמצעות Aspose.Imaging עבור ספריית NET" downloadText="הורד" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה ל-WEBP" %}}
-באמצעות Aspose.Imaging תוכל להמיר בקלות ל-WEBP מפורמטים אחרים של תמונה.
+{{% blocks/products/pf/feature-page-section  h2="כל ההמרות הנתמכות לפורמט WEBP באמצעות Aspose.Imaging עבור ספריית NET" %}}
+באמצעות ספריית Aspose.Imaging אתה יכול להמיר פורמטים שונים של תמונה לתמונה WEBP.
 <br/>
-רשימה מלאה של המרות נתמכות:
+ההמרות הבאות נתמכות:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -13,7 +13,7 @@ description: Naudodami Aspose.Imaging galite lengvai konvertuoti iš DJVU į kit
 
 
 {{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai konvertuoti iš DJVU" %}}
-Naudodami Aspose.Imaging galite lengvai konvertuoti iš DJVU į kitus formatus.
+Aspose.Imaging leidžia automatizuoti daug konversijų iš DJVU į kitus formatus .NET platformoje.
 <br/>
 Visas palaikomų konversijų sąrašas:
 {{% /blocks/products/pf/feature-page-section %}}

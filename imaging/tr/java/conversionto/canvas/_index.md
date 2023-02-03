@@ -12,8 +12,8 @@ description: Aspose.Imaging'i kullanarak Java kullanan diğer biçimlerden CANVA
 {{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java kitaplığı kullanılarak Görüntü Dosyalarının CANVAS biçimine dönüştürülmesi" h2="Java platformunu kullanarak diğer görüntü biçimlerinden CANVAS biçimine dönüştürün" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java kullanılarak CANVAS biçimine dönüştürmek için desteklenen tüm görüntü biçimleri" %}}
-Aspose.Imaging kütüphanesini kullanarak, Java platformunu kullanarak desteklenen diğer görüntü biçimlerinden CANVAS biçimine kolayca dönüştürebilirsiniz.
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java kullanılarak CANVAS biçimine dönüştürülebilen desteklenen tüm görüntü biçimleri" %}}
+Aspose.Imaging kütüphanesini kullanarak, Java platformunu kullanarak desteklenen diğer resim biçimlerinden programlı olarak CANVAS biçimine dönüştürebilirsiniz.
 <br/>
 Desteklenen dönüşümler:
 {{% /blocks/products/pf/feature-page-section %}}

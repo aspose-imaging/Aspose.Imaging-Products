@@ -1,21 +1,21 @@
 ﻿---
-title: Başka biçimlerden WEBP biçimine dönüştürün .NET 
+title: .NET platformunu kullanarak görüntüleri desteklenen diğer biçimlerden WEBP görüntü biçimine dönüştürün 
 weight: 3920
 url: /tr/net/conversion/to/webp 
 lang: tr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging'i kullanarak başka biçimlerden WEBP biçimine kolayca dönüştürebilirsiniz
+description: Aspose.Imaging for .NET kitaplığını kullanarak, desteklenen diğer görüntü biçimlerinden WEBP biçimine dönüştürmek kolaydır
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET Yoluyla Görüntü Dosyaları Dönüştürme" h2="Başka biçimlerden WEBP biçimine dönüştürün" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET platformunu kullanarak Görüntü Dosyalarını WEBP görüntü formatına dönüştürün" h2="Aspose.Imaging for .NET kitaplığını kullanarak diğer formatlardan WEBP formatına dönüştürün" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="WEBP biçimine dönüştürülecek desteklenen tüm resim biçimleri" %}}
-Aspose.Imaging'i kullanarak diğer görüntü biçimlerinden WEBP biçimine kolayca dönüştürebilirsiniz.
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for .NET kitaplığı kullanılarak WEBP biçimine desteklenen tüm dönüşümler" %}}
+Aspose.Imaging kütüphanesini kullanarak çeşitli resim formatlarını programlı olarak WEBP resme dönüştürebilirsiniz.
 <br/>
-Desteklenen dönüşümlerin tam listesi:
+Aşağıdaki dönüşümler desteklenir:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

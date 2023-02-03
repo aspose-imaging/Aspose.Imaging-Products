@@ -13,7 +13,7 @@ description: Usando Aspose.Imaging você pode facilmente converter de EPS para o
 
 
 {{% blocks/products/pf/feature-page-section  h2="Todos os formatos de imagem compatíveis para conversão de EPS" %}}
-Usando Aspose.Imaging você pode facilmente converter de EPS para outros formatos.
+Aspose.Imaging permite automatizar muitas conversões de EPS para outros formatos na plataforma .NET.
 <br/>
 Lista completa de conversões suportadas:
 {{% /blocks/products/pf/feature-page-section %}}

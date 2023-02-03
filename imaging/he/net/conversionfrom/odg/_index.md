@@ -13,7 +13,7 @@ description: באמצעות Aspose.Imaging תוכל להמיר בקלות מ-ODG
 
 
 {{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה מ-ODG" %}}
-באמצעות Aspose.Imaging תוכל להמיר בקלות מ-ODG לפורמטים אחרים.
+Aspose.Imaging מאפשר לבצע אוטומציה של המרות רבות מ-ODG לפורמטים אחרים בפלטפורמת NET.
 <br/>
 רשימה מלאה של המרות נתמכות:
 {{% /blocks/products/pf/feature-page-section %}}

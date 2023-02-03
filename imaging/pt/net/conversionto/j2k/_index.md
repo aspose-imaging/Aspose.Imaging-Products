@@ -1,21 +1,21 @@
 ﻿---
-title: Converter para J2K de outros formatos Via .NET 
+title: Converta imagens para o formato de imagem J2K de outros formatos suportados usando a plataforma .NET 
 weight: 3920
 url: /pt/net/conversion/to/j2k 
 lang: pt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando o Aspose.Imaging, você pode facilmente converter para J2K de outros formatos
+description: Usando a biblioteca Aspose.Imaging para .NET, é fácil converter para J2K de outros formatos de imagem suportados
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversão de Arquivos de Imagem para J2K Via .NET" h2="Converter para J2K de outros formatos" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Converta arquivos de imagem para o formato de imagem J2K usando a plataforma .NET" h2="Converta para o formato J2K de outros formatos usando a biblioteca Aspose.Imaging for .NET" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos os formatos de imagem suportados para converter para J2K" %}}
-Usando Aspose.Imaging, você pode facilmente converter para J2K de outros formatos de imagem.
+{{% blocks/products/pf/feature-page-section  h2="Todas as conversões suportadas para o formato J2K usando a biblioteca Aspose.Imaging for .NET" %}}
+Usando a biblioteca Aspose.Imaging, você pode converter programaticamente vários formatos de imagem em imagem J2K.
 <br/>
-Lista completa de conversões suportadas:
+As seguintes conversões são suportadas:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

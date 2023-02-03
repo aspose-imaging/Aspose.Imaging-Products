@@ -13,7 +13,7 @@ description: باستخدام Aspose.Imaging ، يمكنك بسهولة التح
 
 
 {{% blocks/products/pf/feature-page-section  h2="جميع تنسيقات الصور المدعومة للتحويل من J2K" %}}
-باستخدام Aspose.Imaging ، يمكنك بسهولة التحويل من J2K إلى تنسيقات أخرى.
+يسمح Aspose.Imaging بأتمتة الكثير من التحويلات من J2K إلى تنسيقات أخرى على منصة .NET.
 <br/>
 القائمة الكاملة للتحويلات المدعومة:
 {{% /blocks/products/pf/feature-page-section %}}

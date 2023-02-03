@@ -12,8 +12,8 @@ description: باستخدام Aspose.Imaging ، يمكنك التحويل إلى
 {{< blocks/products/pf/feature-page-header h1="تحويل ملفات الصور إلى ICO باستخدام Aspose.Imaging لمكتبة Java" h2="التحويل إلى ICO من تنسيقات الصور الأخرى باستخدام نظام Java الأساسي" downloadText="تحميل" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="جميع تنسيقات الصور المدعومة للتحويل منها إلى ICO باستخدام Aspose.Imaging for Java" %}}
-باستخدام مكتبة Aspose.Imaging ، يمكنك بسهولة التحويل إلى ICO من تنسيقات الصور الأخرى المدعومة باستخدام نظام Java الأساسي.
+{{% blocks/products/pf/feature-page-section  h2="جميع تنسيقات الصور المدعومة قابلة للتحويل إلى ICO باستخدام Aspose.Imaging for Java" %}}
+باستخدام مكتبة Aspose.Imaging ، يمكنك التحويل برمجيًا إلى ICO من تنسيقات الصور المدعومة الأخرى باستخدام نظام Java الأساسي.
 <br/>
 التحويلات المدعومة:
 {{% /blocks/products/pf/feature-page-section %}}

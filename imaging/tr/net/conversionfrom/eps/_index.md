@@ -13,7 +13,7 @@ description: Aspose.Imaging'i kullanarak EPS biçimini kolayca başka biçimlere
 
 
 {{% blocks/products/pf/feature-page-section  h2="EPS'den dönüştürülecek desteklenen tüm resim biçimleri" %}}
-Aspose.Imaging'i kullanarak EPS formatından diğer formatlara kolayca dönüştürebilirsiniz.
+Aspose.Imaging, .NET platformunda EPS'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir.
 <br/>
 Desteklenen dönüşümlerin tam listesi:
 {{% /blocks/products/pf/feature-page-section %}}

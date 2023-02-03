@@ -13,7 +13,7 @@ description: Mit Aspose.Imaging können Sie ganz einfach von TGA in andere Forma
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bildformate zum Konvertieren von TGA" %}}
-Mit Aspose.Imaging können Sie ganz einfach von TGA in andere Formate konvertieren.
+Aspose.Imaging ermöglicht die Automatisierung vieler Konvertierungen von TGA in andere Formate auf der .NET-Plattform.
 <br/>
 Vollständige Liste der unterstützten Konvertierungen:
 {{% /blocks/products/pf/feature-page-section %}}

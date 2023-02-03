@@ -1,21 +1,21 @@
 ﻿---
-title: Converteren naar DXF vanuit een ander formaat via .NET 
+title: Converteer afbeeldingen naar DXF afbeeldingsindeling van andere ondersteunde indelingen met behulp van het .NET-platform 
 weight: 3920
 url: /nl/net/conversion/to/dxf 
 lang: nl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Met behulp van Aspose.Imaging kunt u eenvoudig converteren naar DXF vanuit een ander formaat
+description: Met Aspose.Imaging voor .NET-bibliotheek is het eenvoudig om te converteren naar DXF vanuit andere ondersteunde afbeeldingsindelingen
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversie van afbeeldingsbestanden naar DXF via .NET" h2="Converteren naar DXF vanuit een ander formaat" downloadText="Downloaden" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer afbeeldingsbestanden naar DXF afbeeldingsindeling met behulp van het .NET-platform" h2="Converteer naar DXF-indeling van andere indelingen met Aspose.Imaging voor .NET-bibliotheek" downloadText="Downloaden" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde afbeeldingsindelingen om van naar DXF te converteren" %}}
-Met Aspose.Imaging kunt u eenvoudig vanuit andere afbeeldingsindelingen converteren naar DXF.
+{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde conversies naar DXF-indeling met Aspose.Imaging voor .NET-bibliotheek" %}}
+Met behulp van de Aspose.Imaging-bibliotheek kunt u verschillende afbeeldingsindelingen programmatisch converteren naar DXF afbeelding.
 <br/>
-Volledige lijst met ondersteunde conversies:
+De volgende conversies worden ondersteund:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

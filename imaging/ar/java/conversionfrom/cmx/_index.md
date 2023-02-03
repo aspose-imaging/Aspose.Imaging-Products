@@ -5,17 +5,18 @@ url: /ar/java/conversion/from/cmx
 lang: ar
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: باستخدام Aspose.Imaging ، يمكنك بسهولة التحويل من CMX إلى تنسيقات أخرى باستخدام نظام Java الأساسي
+description: Aspose.Imaging يمكن تحويله بسهولة من CMX إلى تنسيقات أخرى باستخدام Java platform
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل ملفات الصور من CMX باستخدام Aspose.Imaging for Java" h2="قم بالتحويل من CMX إلى تنسيقات أخرى باستخدام نظام Java الأساسي" downloadText="تحميل" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل الصور من تنسيق CMX باستخدام Aspose.Imaging for Java" h2="تحويل من تنسيق صورة CMX إلى تنسيقات أخرى باستخدام نظام Java الأساسي" downloadText="تحميل" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="جميع تنسيقات الصور المدعومة للتحويل من CMX باستخدام Aspose.Imaging for Java" %}}
-باستخدام Aspose.Imaging ، يمكنك بسهولة التحويل من CMX إلى تنسيقات أخرى مدعومة باستخدام نظام Java الأساسي.
+{{% blocks/products/pf/feature-page-section  h2="مجموعة واسعة من تنسيقات الصور التي يمكن تحويلها من صور CMX باستخدام Aspose.Imaging for Java" %}}
+يمكنك تحويل برمجيًا من تنسيق CMX إلى تنسيقات أخرى متاحة باستخدام
+Aspose.Imaging لجافا.
 <br/>
-قائمة جميع التحويلات المدعومة:
+هناك التحويلات التالية على متن الطائرة:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

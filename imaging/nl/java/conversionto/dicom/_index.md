@@ -12,8 +12,8 @@ description: Met Aspose.Imaging kunt u met Java converteren naar DICOM vanuit an
 {{< blocks/products/pf/feature-page-header h1="Afbeeldingsbestanden Conversie naar DICOM met behulp van Aspose.Imaging voor Java-bibliotheek" h2="Converteer naar DICOM van andere afbeeldingsindelingen met behulp van het Java-platform" downloadText="Downloaden" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde afbeeldingsindelingen om van naar DICOM te converteren met Aspose.Imaging voor Java" %}}
-Met behulp van de Aspose.Imaging-bibliotheek kunt u eenvoudig converteren naar DICOM vanuit andere ondersteunde afbeeldingsindelingen met behulp van het Java-platform.
+{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde afbeeldingsindelingen kunnen worden geconverteerd naar DICOM met Aspose.Imaging voor Java" %}}
+Met behulp van de Aspose.Imaging-bibliotheek kunt u programmatisch converteren naar DICOM van andere ondersteunde afbeeldingsindelingen met behulp van het Java-platform.
 <br/>
 Ondersteunde conversies:
 {{% /blocks/products/pf/feature-page-section %}}

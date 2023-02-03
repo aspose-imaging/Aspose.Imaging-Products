@@ -13,7 +13,7 @@ description: באמצעות Aspose.Imaging תוכל להמיר בקלות מ-DJV
 
 
 {{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה מ-DJVU" %}}
-באמצעות Aspose.Imaging תוכל להמיר בקלות מ-DJVU לפורמטים אחרים.
+Aspose.Imaging מאפשר לבצע אוטומציה של המרות רבות מ-DJVU לפורמטים אחרים בפלטפורמת NET.
 <br/>
 רשימה מלאה של המרות נתמכות:
 {{% /blocks/products/pf/feature-page-section %}}

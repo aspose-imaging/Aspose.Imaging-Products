@@ -1,21 +1,21 @@
 ﻿---
-title: Converter para TIFF de outros formatos Via .NET 
+title: Converta imagens para o formato de imagem TIFF de outros formatos suportados usando a plataforma .NET 
 weight: 3920
 url: /pt/net/conversion/to/tiff 
 lang: pt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando o Aspose.Imaging, você pode facilmente converter para TIFF de outros formatos
+description: Usando a biblioteca Aspose.Imaging para .NET, é fácil converter para TIFF de outros formatos de imagem suportados
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversão de Arquivos de Imagem para TIFF Via .NET" h2="Converter para TIFF de outros formatos" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Converta arquivos de imagem para o formato de imagem TIFF usando a plataforma .NET" h2="Converta para o formato TIFF de outros formatos usando a biblioteca Aspose.Imaging for .NET" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos os formatos de imagem suportados para converter para TIFF" %}}
-Usando Aspose.Imaging, você pode facilmente converter para TIFF de outros formatos de imagem.
+{{% blocks/products/pf/feature-page-section  h2="Todas as conversões suportadas para o formato TIFF usando a biblioteca Aspose.Imaging for .NET" %}}
+Usando a biblioteca Aspose.Imaging, você pode converter programaticamente vários formatos de imagem em imagem TIFF.
 <br/>
-Lista completa de conversões suportadas:
+As seguintes conversões são suportadas:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

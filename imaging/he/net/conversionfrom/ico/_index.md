@@ -13,7 +13,7 @@ description: באמצעות Aspose.Imaging תוכל להמיר בקלות מ-ICO
 
 
 {{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה מ-ICO" %}}
-באמצעות Aspose.Imaging תוכל להמיר בקלות מ-ICO לפורמטים אחרים.
+Aspose.Imaging מאפשר לבצע אוטומציה של המרות רבות מ-ICO לפורמטים אחרים בפלטפורמת NET.
 <br/>
 רשימה מלאה של המרות נתמכות:
 {{% /blocks/products/pf/feature-page-section %}}
