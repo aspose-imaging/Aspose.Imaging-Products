@@ -28,3 +28,47 @@ description: 使用 Aspose.Imaging 你可以轻松地通过 net 获取 调整大
     </div>
 </div>
 <br/>
+
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET 仅调整大小许可" %}}
+您只关心图像大小调整吗？ Aspose.Imaging Resize 许可可以帮助您以编程方式实现所需的调整大小，而无需许可产品的其他功能。 <br/>
+<i><b>要让它成为现实，您可以：</b></i>
+<ul>
+<li>
+在 <a href="https://purchase.aspose.market/">https://purchase.aspose.market/</a> 购买适当的许可证
+</li>
+<li>
+将 <a href="https://www.nuget.org/packages/Aspose.Imaging">nuget reference to Aspose.Imaging .NET</a> 从 v23.2 开始添加到您的项目中；
+</li>
+<li>
+使用受支持的<a href="https://reference.aspose.com/imaging/net/aspose.imaging/resizetype/">调整大小算法</a>中的一种或多种实现所需的图像向下采样或向上采样自动化
+</li>
+<li>
+使用购买的许可证<a href="https://docs.aspose.com/imaging/net/licensing/">设置许可证</a>。
+</li>
+</ul>
+<i><b>支持哪些 .NET 平台？</b></i> <br/>
+图像调整许可适用于 NETStandard2.0 和更高版本的 .NET 平台；<br/>
+<i><b>使用未根据购买的调整大小许可获得许可的 API 条目时会发生什么情况？</b></i><br/>
+在这种情况下使用试用模式。<br/>
+<i><b>我在哪里可以找到适合我的图像大小调整许可证的 API 条目？</b></i><br/>
+请查看子页面上可用的代码片段以了解要点。<br/>
+<i><b>是否有现场演示以了解其工作原理？</b></i><br/>
+有 <a href="https://products.aspose.app/imaging/zh-hans/image-resize/">Aspose.Imaging Image resize application</a> ，您可以在购买调整大小许可证之前试用它。 <br/>
+<i><b>还有其他模块化许可证吗？</b></i><br/>
+是的，现在可以使用以下模块化许可证：<br/>
+<ul>
+<li>
+<a href="https://products.aspose.com/imaging/zh-hans/net/conversion/">Aspose.Imaging Conversion</a> - 允许将您的输入图像转换为另一种支持的图像格式您的需求;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/zh-hans/net/merge/">Aspose.Imaging Image Merge</a> - 允许从多个输入图像组成多页相册；
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/zh-hans/net/merge/">Aspose.Imaging Image Album</a> - 利用输入图像集组成多页相册。
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/zh-hans/net/crop/">Aspose.Imaging Image Crop</a> - 允许裁剪图像的所需部分并将结果保存在所需的格式。
+</li>
+</ul>
+<i><b>其他 Aspose 产品是否有同样的机会？</b></i><br/>
+是的，在 <a href="https://aspose.market">https://aspose.market</a> 上还有其他可用的模块化许可机会。

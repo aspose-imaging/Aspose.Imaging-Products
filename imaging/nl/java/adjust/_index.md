@@ -28,3 +28,5 @@ Volledige lijst met ondersteunde Aanpassen-bewerkingen per afbeeldingsindeling:
     </div>
 </div>
 <br/>
+
+

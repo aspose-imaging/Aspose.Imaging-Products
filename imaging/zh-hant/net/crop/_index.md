@@ -28,3 +28,45 @@ description: 使用 Aspose.Imaging 你可以輕鬆地通過 net 獲取 莊稼 �
     </div>
 </div>
 <br/>
+
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET 裁剪許可" %}}
+如果您需要裁剪圖像作為僅選定的功能，Aspose.Imaging Crop 許可可能適合您的需要。 <br/>
+<i><b>如何實現？</b></i>
+<ul>
+<李>
+在 <a href="https://purchase.aspose.market/">https://purchase.aspose.market/</a> 購買適當的許可證
+</li>
+<李>
+將 <a href="https://www.nuget.org/packages/Aspose.Imaging">nuget reference to Aspose.Imaging .NET</a> 從 v23.2 開始添加到您的項目中；
+</li>
+<李>
+實施所需的圖像裁剪自動化；
+</li>
+<李>
+應使用裁剪許可證<a href="https://docs.aspose.com/imaging/net/licensing/">設置許可證</a>。
+</li>
+</ul>
+<i><b>支持哪些 .NET 平台？</b></i> <br/>
+Aspose.Imaging Crop 許可支持 NETStandard2.0 和更高版本的 .NET 平台。<br/>
+<i><b>如果我使用未經許可的 API 條目，會發生什麼？</b></i><br/>
+這種情況下會出現試用模式。<br/>
+<i><b>你能告訴我它是如何工作的嗎？</b></i><br/>
+請嘗試 <a href="https://products.aspose.app/imaging/zh-hant/image-crop/">Aspose.Imaging Image crop application</a> ，看看它是如何工作的。<br/>
+<i><b>你們能否為其他功能提供模塊化許可？</b></i><br/>
+是的，可以使用以下模塊化許可證：<br/>
+<ul>
+<李>
+<a href="https://products.aspose.com/imaging/zh-hant/net/conversion/">Aspose.Imaging Conversion</a> - 允許將您的輸入圖像轉換為另一種支持的圖像格式您的需求;
+</li>
+<李>
+<a href="https://products.aspose.com/imaging/zh-hant/net/merge/">Aspose.Imaging Image Merge</a> - 允許從多個輸入圖像組成多頁相冊；
+</li>
+<李>
+<a href="https://products.aspose.com/imaging/zh-hant/net/merge/">Aspose.Imaging Image Album</a> - 利用輸入圖像集組成多頁相冊。
+</li>
+<李>
+<a href="https://products.aspose.com/imaging/zh-hant/net/resize/">Aspose.Imaging Image Resize</a> - 允許調整圖像大小，使用支持的 <a href="https://reference.aspose.com/imaging/net/aspose.imaging/resizetype/">調整大小算法</a>。您也可以對圖像進行降採樣或升採樣。
+</li>
+</ul>
+<i><b>其他 Aspose 產品是否有同樣的機會？</b></i><br/>
+是的，在 <a href="https://aspose.market">https://aspose.market</a> 上還有其他可用的模塊化許可機會。

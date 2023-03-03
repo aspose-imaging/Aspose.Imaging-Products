@@ -28,3 +28,5 @@ Volledige lijst met ondersteunde Dither-bewerkingen per afbeeldingsindeling:
     </div>
 </div>
 <br/>
+
+

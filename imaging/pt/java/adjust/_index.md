@@ -28,3 +28,5 @@ Lista completa de operações Ajustar suportadas por formatos de imagem:
     </div>
 </div>
 <br/>
+
+

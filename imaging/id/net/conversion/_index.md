@@ -231,5 +231,52 @@ Di bawah ini disajikan daftar lengkap format gambar, yang dapat Anda konversi da
         </div>
     </div>
 </div>
+
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET Image hanya mengonversi lisensi" %}}
+
+Harap baca topik ini jika Anda hanya perlu membeli dan menggunakan fitur <a href="https://en.wikipedia.org/wiki/Image_conversion">konversi gambar</a>.<br/>
+<i><b>Bagaimana cara membeli dan menggunakan fitur konversi saja?</b></i>
+<ul>
+<li>
+Beli lisensi yang sesuai melalui <a href="https://purchase.aspose.market/">https://purchase.aspose.market/</a>
+</li>
+<li>
+Tambahkan <a href="https://www.nuget.org/packages/Aspose.Imaging">referensi nuget ke Aspose.Imaging .NET</a> mulai dari v23.2 ke proyek Anda;
+</li>
+<li>
+Terapkan konversi dari atau ke format gambar yang diinginkan dari <a href="https://docs.aspose.com/imaging/net/supported-file-formats/">daftar format yang didukung oleh Aspose.Imaging</a> menggunakan contoh konversi dari halaman ini dan anak;
+</li>
+<li>
+Gunakan lisensi yang dibeli untuk <a href="https://docs.aspose.com/imaging/net/licensing/">menyetel lisensi</a>.
+</li>
+</ul>
+<i><b>Platform apa saja yang didukung?</b></i> <br/>
+NETStandard2.0 dan platform .NET yang lebih tinggi cocok untuk lisensi konversi;<br/>
+<i><b>Apa yang terjadi jika saya menggunakan entri API, yang tidak dilisensikan di bawah lisensi konversi yang dibeli?</b></i><br/>
+Pustaka akan berfungsi dalam mode uji coba.<br/>
+<i><b>Bagaimana saya tahu, entri API mana yang cocok untuk lisensi konversi saya?</b></i><br/>
+Harap pelajari cuplikan kode di halaman ini dan halaman turunan.<br/>
+<i><b>Saya tidak yakin apakah saya memerlukan lisensi konversi. Dapatkah saya melihat demo langsungnya?</b></i><br/>
+Tentu, silakan coba <a href="https://products.aspose.app/imaging/id/conversion/">Aplikasi Konversi Aspose.Imaging</a>.<br/>
+<i><b>Bolehkah saya membeli dan menggunakan lisensi modular lainnya?</b></i><br/>
+Tentu Anda dapat membeli dan menggunakan lisensi modular lain yang tersedia:<br/>
+<ul>
+<li>
+<a href="https://products.aspose.com/imaging/id/net/merge/">Aspose.Imaging Penggabungan gambar</a> - memungkinkan pembuatan kolase gambar dari beberapa gambar masukan;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/id/net/merge/">Album Gambar Aspose.Imaging</a> - memungkinkan untuk membuat album multi halaman dari beberapa gambar masukan;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/id/net/resize/">Aspose.Imaging Pengubahan Ukuran Gambar</a> - memungkinkan untuk mengubah ukuran gambar Anda, menyesuaikan dimensi yang diinginkan menggunakan algoritme pengubahan ukuran yang didukung . Anda juga dapat mengambil sampel atau menaikkan sampel gambar Anda.
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/id/net/crop/">Aspose.Imaging Image Crop</a> - memungkinkan untuk memotong bagian gambar yang diperlukan dan menyimpan hasilnya di format yang diinginkan.
+</li>
+</ul>
+<i><b>Dapatkah saya menggunakan produk Aspose lain dengan cara yang sama?</b></i><br/>
+Pastikan memeriksa <a href="https://aspose.market">https://aspose.market</a> untuk kemampuan pemberian lisensi modular yang tersedia.
+
+
 <br/>
 

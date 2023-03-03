@@ -231,5 +231,52 @@ Vous trouverez ci-dessous la liste complète des formats d'image à partir desqu
         </div>
     </div>
 </div>
+
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET Image convertir uniquement les licences" %}}
+
+Veuillez lire cette rubrique si vous avez besoin d'acheter et d'utiliser uniquement la fonctionnalité de <a href="https://en.wikipedia.org/wiki/Image_conversion">conversion d'image</a>.<br/>
+<i><b>Comment acheter et utiliser uniquement la fonctionnalité de conversion ?</b></i>
+<ul>
+<li>
+Achetez la licence appropriée via <a href="https://purchase.aspose.market/">https://purchase.aspose.market/</a>
+</li>
+<li>
+Ajoutez une <a href="https://www.nuget.org/packages/Aspose.Imaging">référence nuget à Aspose.Imaging .NET</a> à partir de la v23.2 à votre projet ;
+</li>
+<li>
+Implémenter la conversion depuis ou vers le format d'image souhaité à partir de la <a href="https://docs.aspose.com/imaging/net/supported-file-formats/">liste des formats pris en charge par Aspose.Imaging</a> en utilisant exemples de conversion de cette page et des pages enfants ;
+</li>
+<li>
+Utilisez la licence achetée pour <a href="https://docs.aspose.com/imaging/net/licensing/">définir la licence</a>.
+</li>
+</ul>
+<i><b>Quelles plates-formes sont prises en charge ?</b></i> <br/>
+NETStandard2.0 et les plates-formes .NET supérieures conviennent aux licences de conversion ;<br/>
+<i><b>Que se passe-t-il si j'utilise des entrées d'API qui ne sont pas concédées sous licence de conversion achetée ?</b></i><br/>
+La bibliothèque fonctionnera en mode d'essai.<br/>
+<i><b>Comment puis-je savoir quelles entrées d'API conviennent à ma licence de conversion ?</b></i><br/>
+Veuillez apprendre les extraits de code sur cette page et sur les pages enfants.<br/>
+<i><b>Je ne suis pas sûr d'avoir besoin d'une licence de conversion. Puis-je voir la démo en direct ?</b></i><br/>
+Bien sûr, veuillez essayer <a href="https://products.aspose.app/imaging/fr/conversion/">Aspose.Imaging Conversion Application</a>.<br/>
+<i><b>Puis-je acheter et utiliser d'autres licences modulaires ?</b></i><br/>
+Bien sûr, vous pouvez acheter et utiliser d'autres licences modulaires disponibles :<br/>
+<ul>
+<li>
+<a href="https://products.aspose.com/imaging/fr/net/merge/">Aspose.Imaging Image merge</a> - permet de créer un collage d'images à partir de plusieurs images d'entrée ;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/fr/net/merge/">Aspose.Imaging Image Album</a> - permet de composer un album de plusieurs pages à partir de plusieurs images d'entrée ;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/fr/net/resize/">Aspose.Imaging Image Resize</a> - permet de redimensionner votre image, en ajustant les dimensions souhaitées à l'aide des algorithmes de redimensionnement pris en charge . Vous pouvez également sous-échantillonner ou sur-échantillonner votre image.
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/fr/net/crop/">Aspose.Imaging Image Crop</a> - permet de recadrer la partie requise de l'image et d'enregistrer le résultat dans le format souhaité.
+</li>
+</ul>
+<i><b>Puis-je utiliser d'autres produits Aspose de la même manière ?</b></i><br/>
+Assurez-vous de vérifier <a href="https://aspose.market">https://aspose.market</a> pour les capacités de licence modulaire disponibles.
+
+
 <br/>
 

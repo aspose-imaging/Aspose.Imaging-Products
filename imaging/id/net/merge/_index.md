@@ -28,3 +28,92 @@ Daftar lengkap operasi Menggabungkan yang didukung menurut format gambar:
     </div>
 </div>
 <br/>
+
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET image hanya menggabungkan lisensi" %}}
+Topik ini untuk kasus ketika Anda hanya perlu membeli dan menggunakan fitur <b>penggabungan gambar</b>. Penggabungan gambar di sini berarti pembuatan kolase tunggal dari beberapa gambar masukan; <br/>
+<i><b>Bagaimana cara membeli dan menggunakan fitur penggabungan saja?</b></i>
+<ul>
+<li>
+Beli lisensi yang sesuai melalui <a href="https://purchase.aspose.market/">https://purchase.aspose.market/</a>
+</li>
+<li>
+Tambahkan <a href="https://www.nuget.org/packages/Aspose.Imaging">referensi nuget ke Aspose.Imaging .NET</a> mulai dari v23.2 ke proyek Anda;
+</li>
+<li>
+Terapkan penggabungan gambar input ke gambar keluaran tunggal menggunakan contoh penggabungan yang sesuai dari halaman anak;
+</li>
+<li>
+Gunakan lisensi yang dibeli untuk <a href="https://docs.aspose.com/imaging/net/licensing/">menyetel lisensi</a>.
+</li>
+</ul>
+<i><b>Platform .NET mana yang didukung?</b></i> <br/>
+Lisensi gabungan didukung untuk NETStandard2.0 dan platform .NET yang lebih tinggi;<br/>
+<i><b>Apa yang terjadi, jika saya menggunakan entri API, yang tidak dilisensikan di bawah lisensi gabungan yang dibeli?</b></i><br/>
+Mode uji coba berfungsi dalam kasus seperti itu.<br/>
+<i><b>Bagaimana saya tahu, entri API mana yang cocok untuk lisensi penggabungan saya?</b></i><br/>
+Ada cuplikan kode yang sesuai yang tersedia di halaman turunan, tempat Anda dapat menemukan ide tentang penggunaan berlisensi.<br/>
+<i><b>Dapatkah saya melihat demo langsung untuk memastikan, bahwa saya memerlukan lisensi penggabungan gambar?</b></i><br/>
+<a href="https://products.aspose.app/imaging/id/image-merge/">Aspose.Imaging Aplikasi penggabungan gambar</a> penggabungan satu halaman dapat membantu Anda menentukan pilihan.<br />
+<i><b>Apakah ada lisensi modular lainnya?</b></i><br/>
+Tentu Anda dapat membeli dan menggunakan lisensi modular lain yang tersedia:<br/>
+<ul>
+<li>
+<a href="https://products.aspose.com/imaging/id/net/conversion/">Konversi Aspose.Imaging</a> - memungkinkan untuk mengubah gambar input Anda ke format gambar lain yang didukung sesuai kebutuhanmu;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/id/net/merge/">Album Gambar Aspose.Imaging</a> - memungkinkan untuk membuat album multi halaman dari beberapa gambar masukan;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/id/net/resize/">Aspose.Imaging Pengubahan Ukuran Gambar</a> - memungkinkan untuk mengubah ukuran gambar Anda, menyesuaikan dimensi yang diinginkan menggunakan algoritme pengubahan ukuran yang didukung . Anda juga dapat mengambil sampel atau menaikkan sampel gambar Anda.
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/id/net/crop/">Aspose.Imaging Image Crop</a> - memungkinkan untuk memotong bagian gambar yang diperlukan dan menyimpan hasilnya di format yang diinginkan.
+</li>
+</ul>
+<i><b>Apakah ada kemampuan yang sama untuk produk Aspose lainnya?</b></i><br/>
+Ya, ada penawaran lisensi modular lain yang tersedia di <a href="https://aspose.market">https://aspose.market</a>.
+
+<br/>
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET album gambar hanya lisensi" %}}
+Mencari kemampuan untuk membuat album gambar (buklet) dari gambar atau foto Anda secara terprogram? Topik ini dapat membantu mencapai tujuan, hanya membeli fitur yang diperlukan.<br/>
+<i><b>Bagaimana cara membeli dan menggunakan fitur pembuatan album gambar (buklet) saja?</b></i>
+<ul>
+<li>
+Lisensi yang sesuai dapat dibeli melalui <a href="https://purchase.aspose.market/">https://purchase.aspose.market/</a>
+</li>
+<li>
+<a href="https://www.nuget.org/packages/Aspose.Imaging">Referensi Nuget</a> ke Aspose.Imaging .NET mulai dari v23.2 harus ditambahkan ke proyek Anda;
+</li>
+<li>
+Pembuatan album gambar dalam format keluaran multi halaman yang diperlukan (tiff, pdf, dicom atau psd) harus dilaksanakan dengan mempertimbangkan contoh pembuatan gambar multi halaman yang sesuai dari halaman anak;
+</li>
+<li>
+Lisensi yang dibeli harus digunakan untuk <a href="https://docs.aspose.com/imaging/net/licensing/">menyetel lisensi</a>.
+</li>
+</ul>
+<i><b>Platform .NET mana yang didukung?</b></i> <br/>
+NETStandard2.0 dan platform .NET yang lebih tinggi cocok untuk lisensi album gambar;<br/>
+<i><b>Saat saya menggunakan entri API, yang tidak dilisensikan di bawah lisensi album gambar yang dibeli – apa yang terjadi?</b></i><br/>
+Mode uji coba akan aktif.<br/>
+<i><b>Di mana saya dapat menemukan, entri API mana yang cocok untuk lisensi album gambar saya?</b></i><br/>
+Anda mungkin menemukannya di cuplikan kode yang sesuai yang tersedia di halaman turunan<br/>
+<i><b>Dapatkah saya melihat demo langsung untuk memastikan bahwa lisensi album gambar sesuai dengan kebutuhan saya?</b></i><br/>
+<a href="https://products.aspose.app/imaging/id/image-merge/">Aplikasi Penggabungan Gambar Aspose.Imaging</a> penggabungan multi halaman untuk Anda pertimbangkan dalam kasus seperti itu.. <br/>
+<i><b>Dapatkah Anda menawarkan lisensi modular lainnya?</b></i><br/>
+Tentu Anda dapat meninjau dan membeli lisensi modular lain yang tersedia:<br/>
+<ul>
+<li>
+<a href="https://products.aspose.com/imaging/id/net/merge/">Aspose.Imaging Penggabungan gambar</a> - memungkinkan pembuatan kolase gambar dari beberapa gambar masukan;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/id/net/conversion/">Konversi Aspose.Imaging</a> - memungkinkan untuk mengubah gambar input Anda ke format gambar lain yang didukung sesuai kebutuhanmu;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/id/net/resize/">Aspose.Imaging Pengubahan Ukuran Gambar</a> - memungkinkan untuk mengubah ukuran gambar Anda, menyesuaikan dimensi yang diinginkan menggunakan algoritme pengubahan ukuran yang didukung . Anda juga dapat mengambil sampel atau menaikkan sampel gambar Anda.
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/id/net/crop/">Aspose.Imaging Image Crop</a> - memungkinkan untuk memotong bagian gambar yang diperlukan dan menyimpan hasilnya di format yang diinginkan.
+</li>
+</ul>
+<i><b>Apakah ada penawaran yang sama untuk produk Aspose lainnya?</b></i><br/>
+Ya, ada penawaran lisensi modular lain yang tersedia di <a href="https://aspose.market">https://aspose.market</a> untuk kemampuan pemberian lisensi modular yang tersedia.

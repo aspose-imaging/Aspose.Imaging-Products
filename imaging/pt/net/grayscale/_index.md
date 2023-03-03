@@ -28,3 +28,5 @@ Lista completa de operações Escala de cinza suportadas por formatos de imagem:
     </div>
 </div>
 <br/>
+
+

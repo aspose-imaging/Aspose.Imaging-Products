@@ -28,3 +28,45 @@ Visas palaikomų operacijų Apkarpyti sąrašas pagal vaizdo formatus:
     </div>
 </div>
 <br/>
+
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET crop tik licencijavimas" %}}
+Jei jums reikia apkarpyti vaizdus kaip pasirinktą vienintelę funkciją, „Aspose.Imaging Crop“ licencija gali atitikti jūsų poreikius. <br/>
+<i><b>Kaip tai pasiekti?</b></i>
+<ul>
+<li>
+Įsigykite atitinkamą licenciją adresu <a href="https://purchase.aspose.market/">https://purchase.aspose.market/</a>
+</li>
+<li>
+Pridėkite <a href="https://www.nuget.org/packages/Aspose.Imaging">nuget nuorodą į Aspose.Imaging .NET</a> nuo 23.2 prie savo projekto;
+</li>
+<li>
+Įdiegti reikiamą vaizdo apkarpymo automatizavimą;
+</li>
+<li>
+Pasėlių licencija turėtų būti naudojama <a href="https://docs.aspose.com/imaging/net/licensing/">licencijai nustatyti</a>.
+</li>
+</ul>
+<i><b>Kokios .NET platformos palaikomos?</b></i> <br/>
+NETStandard2.0 ir naujesnės .NET platformos palaikomos Aspose.Imaging Crop licencijavimui.<br/>
+<i><b>Kas atsitiks, jei naudoju nelicencijuotus API įrašus?</b></i><br/>
+Tokiu atveju pasirodys bandomasis režimas.<br/>
+<i><b>Ar galite parodyti, kaip tai veikia?</b></i><br/>
+Išbandykite <a href="https://products.aspose.app/imaging/lt/image-crop/">„Aspose.Imaging“ vaizdo apkarpymo programą</a>, kad sužinotumėte, kaip ji veikia.<br/>
+<i><b>Ar galite suteikti modulines licencijas kitoms funkcijoms?</b></i><br/>
+Taip, yra šios modulinės licencijos:<br/>
+<ul>
+<li>
+<a href="https://products.aspose.com/imaging/lt/net/conversion/">Aspose.Imaging Conversion</a> – leidžia pakeisti įvesties vaizdą į kitą palaikomą vaizdo formatą, kaip nurodyta jūsų poreikius;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/lt/net/merge/">Aspose.Imaging Image Merge</a> – leidžia sudaryti kelių puslapių albumą iš kelių įvestų vaizdų;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/lt/net/merge/">Aspose.Imaging vaizdų albumas</a> – pasinaudokite kelių puslapių albumų kūrimu iš įvestų vaizdų rinkinio.
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/lt/net/resize/">Aspose.Imaging Image Resize</a> – leidžia pakeisti vaizdo dydį, kad atitiktų norimus matmenis naudojant palaikomą <a href="https://reference.aspose.com/imaging/net/aspose.imaging/resizetype/">dydžių keitimo algoritmai</a>. Taip pat galite pavyzdį žemyn arba į viršų.
+</li>
+</ul>
+<i><b>Ar yra tokia pati galimybė kitiems „Aspose“ produktams?</b></i><br/>
+Taip, <a href="https://aspose.market">https://aspose.market</a> yra ir kitų galimų modulinių licencijavimo galimybių.

@@ -28,3 +28,45 @@ Lista completa de operaciones {nombre de operación} admitidas por formatos de i
     </div>
 </div>
 <br/>
+
+{{% blocks/products/pf/feature-page-section  h2="Licencias de cultivo de Aspose.Imaging .NET" %}}
+En caso de que necesite recortar sus imágenes como una función exclusiva seleccionada, la licencia de Aspose.Imaging Crop puede satisfacer sus necesidades. <br/>
+<i><b>¿Cómo puedes lograrlo?</b></i>
+<ul>
+<li>
+Compre la licencia apropiada en <a href="https://purchase.aspose.market/">https://purchase.aspose.market/</a>
+</li>
+<li>
+Agregue <a href="https://www.nuget.org/packages/Aspose.Imaging">referencia de nuget a Aspose.Imaging .NET</a> a partir de v23.2 para su proyecto;
+</li>
+<li>
+Implementar la automatización de recorte de imágenes requerida;
+</li>
+<li>
+La licencia de cultivo debe usarse para <a href="https://docs.aspose.com/imaging/net/licensing/">establecer la licencia</a>.
+</li>
+</ul>
+<i><b>¿Qué plataformas .NET son compatibles?</b></i> <br/>
+NETStandard2.0 y plataformas .NET superiores son compatibles con las licencias de Aspose.Imaging Crop.<br/>
+<i><b>En caso de que utilice entradas de API sin licencia, ¿qué sucede?</b></i><br/>
+El modo de prueba aparecerá en tal caso.<br/>
+<i><b>¿Puedes mostrarme cómo funciona?</b></i><br/>
+Pruebe <a href="https://products.aspose.app/imaging/es/image-crop/">Aspose.Imaging Image crop application</a> para ver cómo funciona.<br/>
+<i><b>¿Puede proporcionar licencias modulares para otras funciones?</b></i><br/>
+Sí, las siguientes licencias modulares están disponibles:<br/>
+<ul>
+<li>
+<a href="https://products.aspose.com/imaging/es/net/conversion/">Aspose.Imaging Conversion</a>: permite transformar su imagen de entrada a otro formato de imagen compatible según tus necesidades;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/es/net/merge/">Aspose.Imaging Image Merge</a>: permite componer un álbum de varias páginas a partir de varias imágenes de entrada;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/es/net/merge/">Álbum de imágenes de Aspose.Imaging</a>: aproveche la composición de álbumes de varias páginas a partir de un conjunto de imágenes de entrada.
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/es/net/resize/">Aspose.Imaging Image Resize</a>: permite cambiar el tamaño de su imagen, ajustando las dimensiones deseadas utilizando <a href="https://reference.aspose.com/imaging/net/aspose.imaging/resizetype/">algoritmos de cambio de tamaño</a>. También puede mostrar hacia abajo o hacia arriba la muestra de su imagen.
+</li>
+</ul>
+<i><b>¿Existe la misma oportunidad para otros productos de Aspose?</b></i><br/>
+Sí, hay otras oportunidades de licencias modulares disponibles en <a href="https://aspose.market">https://aspose.market</a>.

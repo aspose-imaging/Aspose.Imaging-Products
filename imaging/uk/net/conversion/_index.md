@@ -231,5 +231,52 @@ description: Перетворюйте популярні формати зобр
         </div>
     </div>
 </div>
+
+{{% blocks/products/pf/feature-page-section  h2="Ліцензування плагiну конвертацiї Aspose.Imaging .NET Image convert" %}}
+
+Будь ласка, прочитайте цю тему, якщо вам потрібно купувати та використовувати лише функцію <a href="https://en.wikipedia.org/wiki/Image_conversion">конвертацiї зображень</a>.<br/>
+<i><b>Як купувати та використовувати лише функцію конвертацiї?</b></i>
+<ul>
+<li>
+Придбайте відповідну ліцензію через <a href="https://purchase.aspose.market/">https://purchase.aspose.market/</a>
+</li>
+<li>
+Додайте до свого проекту <a href="https://www.nuget.org/packages/Aspose.Imaging">посилання на nuget Aspose.Imaging .NET</a>, починаючи з версії 23.2;
+</li>
+<li>
+Здійсніть перетворення з або в потрібний формат зображення зі <a href="https://docs.aspose.com/imaging/net/supported-file-formats/">списку підтримуваних Aspose.Imaging форматів</a> за допомогою прикладiв перетворення з цієї та дочірніх сторінок;
+</li>
+<li>
+Використовуйте придбану ліцензію, щоб <a href="https://docs.aspose.com/imaging/net/licensing/">встановити ліцензію</a>.
+</li>
+</ul>
+<i><b>Які платформи підтримуються?</b></i> <br/>
+Платформи NETStandard 2.0 і виші підходять для ліцензування конвертацiї;<br/>
+<i><b>Що трапиться, якщо я використовую записи API, які не ліцензуються відповідно до придбаної ліцензії на перетворення?</b></i><br/>
+Бібліотека працюватиме в пробному режимі.<br/>
+<i><b>Як я можу дізнатися, які точки API підходять для моєї ліцензії для конверсiй?</b></i><br/>
+Будь ласка, вивчіть фрагменти коду на цій та дочірніх сторінках.<br/>
+<i><b>Я не впевнений, чи потрібна мені ліцензія для конвертацiї. Чи можу я переглянути демонстраційну версію?</b></i><br/>
+Звичайно, спробуйте <a href="https://products.aspose.app/imaging/uk/conversion/">Aspose.Imaging Conversion Application</a>.<br/>
+<i><b>Чи можу я придбати та використовувати інші модульні ліцензії?</b></i><br/>
+Звичайно, ви можете придбати та використовувати інші доступні модульні ліцензії:<br/>
+<ul>
+<li>
+<a href="https://products.aspose.com/imaging/uk/net/merge/">Aspose.Imaging Image merge</a> - дозволяє створювати колаж із кількох вхідних зображень;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/uk/net/merge/">Aspose.Imaging Image Album</a> - дозволяє створити багатосторінковий альбом із кількох вхідних зображень;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/uk/net/resize/">Aspose.Imaging Image Resize</a> – дозволяє змінювати розмір зображення, підганяючи потрібні розміри за допомогою підтримуваних алгоритмів зміни розміру. Ви також можете зменшити або збільшити свої зображення.
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/uk/net/crop/">Aspose.Imaging Image Crop</a> – дозволяє обрізати необхідну частину зображення та зберегти результат у бажаний формат.
+</li>
+</ul>
+<i><b>Чи можу я так само використовувати інші продукти Aspose?</b></i><br/>
+Обов’язково перевірте <a href="https://aspose.market">https://aspose.market</a>, щоб дізнатися про доступні можливості модульного ліцензування.
+
+
 <br/>
 

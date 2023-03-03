@@ -28,3 +28,5 @@ Pełna lista obsługiwanych operacji Usuń tło według formatów obrazu:
     </div>
 </div>
 <br/>
+
+

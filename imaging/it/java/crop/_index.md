@@ -28,3 +28,5 @@ Elenco completo delle operazioni Raccolto supportate per formati immagine:
     </div>
 </div>
 <br/>
+
+

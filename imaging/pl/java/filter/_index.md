@@ -28,3 +28,5 @@ Pełna lista obsługiwanych operacji Filtr według formatów obrazu:
     </div>
 </div>
 <br/>
+
+

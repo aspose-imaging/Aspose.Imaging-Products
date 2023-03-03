@@ -28,3 +28,45 @@ Danh sách đầy đủ các thao tác Trồng trọt được hỗ trợ theo �
     </div>
 </div>
 <br/>
+
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET chỉ cấp phép cắt xén" %}}
+Trong trường hợp bạn cần cắt xén hình ảnh của mình dưới dạng một tính năng duy nhất được chọn, thì việc cấp phép Aspose.Imaging Crop có thể phù hợp với nhu cầu của bạn. <br/>
+<i><b>Làm thế nào bạn có thể đạt được điều đó?</b></i>
+<ul>
+<li>
+Mua giấy phép phù hợp tại <a href="https://purchase.aspose.market/">https://purchase.aspose.market/</a>
+</li>
+<li>
+Thêm <a href="https://www.nuget.org/packages/Aspose.Imaging">nuget tham chiếu đến Aspose.Imaging .NET</a> bắt đầu từ phiên bản 23.2 cho dự án của bạn;
+</li>
+<li>
+Thực hiện tự động hóa hình ảnh cần thiết;
+</li>
+<li>
+Nên sử dụng giấy phép cắt xén để <a href="https://docs.aspose.com/imaging/net/licensing/">đặt giấy phép</a>.
+</li>
+</ul>
+<i><b>Nền tảng .NET nào được hỗ trợ?</b></i> <br/>
+NETStandard2.0 và các nền tảng .NET cao hơn được hỗ trợ cho việc cấp phép Aspose.Imaging Crop.<br/>
+<i><b>Trong trường hợp tôi sử dụng các mục nhập API không được cấp phép, điều gì sẽ xảy ra?</b></i><br/>
+Chế độ dùng thử sẽ xuất hiện trong trường hợp đó.<br/>
+<i><b>Bạn có thể chỉ cho tôi cách nó hoạt động không?</b></i><br/>
+Vui lòng thử <a href="https://products.aspose.app/imaging/vi/image-crop/">Ứng dụng cắt ảnh Aspose.Imaging</a> để xem cách thức hoạt động của ứng dụng này.<br/>
+<i><b>Bạn có thể cung cấp giấy phép mô-đun cho các tính năng khác không?</b></i><br/>
+Có, hiện có các giấy phép mô-đun sau:<br/>
+<ul>
+<li>
+<a href="https://products.aspose.com/imaging/vi/net/conversion/">Chuyển đổi Aspose.Imaging</a> - cho phép chuyển đổi hình ảnh đầu vào của bạn sang định dạng hình ảnh được hỗ trợ khác theo bạn cần;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/vi/net/merge/">Hợp nhất hình ảnh Aspose.Imaging</a> - cho phép soạn anbom nhiều trang từ một số hình ảnh đầu vào;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/vi/net/merge/">Album hình ảnh Aspose.Imaging</a> - tận dụng việc soạn các anbom nhiều trang từ tập hợp các hình ảnh đầu vào.
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/vi/net/resize/">Thay đổi kích thước hình ảnh Aspose.Imaging</a> - cho phép thay đổi kích thước hình ảnh của bạn, điều chỉnh các kích thước mong muốn bằng cách sử dụng <a được hỗ trợ href="https://reference.aspose.com/imaging/net/aspose.imaging/resizetype/">thuật toán thay đổi kích thước</a>. Bạn cũng có thể lấy mẫu hoặc lấy mẫu hình ảnh của mình.
+</li>
+</ul>
+<i><b>Có cơ hội tương tự cho các sản phẩm Aspose khác không?</b></i><br/>
+Có, có các cơ hội cấp phép theo mô-đun sẵn có khác tại <a href="https://aspose.market">https://aspose.market</a>.

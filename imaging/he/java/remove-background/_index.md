@@ -28,3 +28,5 @@ description: באמצעות Aspose.Imaging תוכל בקלות הסר רקע ת�
     </div>
 </div>
 <br/>
+
+

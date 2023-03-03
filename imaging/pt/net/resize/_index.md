@@ -28,3 +28,47 @@ Lista completa de operações Redimensionar suportadas por formatos de imagem:
     </div>
 </div>
 <br/>
+
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET redimensiona apenas licenciamento" %}}
+Você está preocupado apenas com o redimensionamento da imagem? O licenciamento do Aspose.Imaging Resize pode ajudá-lo a implementar o redimensionamento necessário programaticamente sem a necessidade de licenciar outros recursos do produto. <br/>
+<i><b>Para torná-lo real, você pode:</b></i>
+<ul>
+<li>
+Compre a licença apropriada em <a href="https://purchase.aspose.market/">https://purchase.aspose.market/</a>
+</li>
+<li>
+Adicione <a href="https://www.nuget.org/packages/Aspose.Imaging">referência nuget ao Aspose.Imaging .NET</a> a partir da v23.2 ao seu projeto;
+</li>
+<li>
+Implemente a amostragem necessária de imagem ou a automação de amostragem usando um ou vários dos <a href="https://reference.aspose.com/imaging/net/aspose.imaging/resizetype/">algoritmos de redimensionamento</a> suportados
+</li>
+<li>
+Use a licença adquirida para <a href="https://docs.aspose.com/imaging/net/licensing/">definir a licença</a>.
+</li>
+</ul>
+<i><b>Quais plataformas .NET são suportadas?</b></i> <br/>
+O licenciamento de redimensionamento de imagem funciona para plataformas NETStandard2.0 e superiores;<br/>
+<i><b>O que é esperado quando as entradas de API, que não são licenciadas sob a licença de redimensionamento adquirida, são usadas?</b></i><br/>
+O modo de teste é usado nesse caso.<br/>
+<i><b>Onde posso encontrar quais entradas de API são adequadas para minha licença de redimensionamento de imagem?</b></i><br/>
+Revise os snippets de código disponíveis nas páginas filhas para entender.<br/>
+<i><b>Há demonstração ao vivo para ver como funciona?</b></i><br/>
+Existe <a href="https://products.aspose.app/imaging/pt/image-resize/">Aplicativo de redimensionamento de imagens Aspose.Imaging</a> , que você pode experimentar antes de comprar a licença de redimensionamento. <br/>
+<i><b>Existem outras licenças modulares?</b></i><br/>
+Sim, as seguintes licenças modulares estão disponíveis por enquanto:<br/>
+<ul>
+<li>
+<a href="https://products.aspose.com/imaging/pt/net/conversion/">Aspose.Imaging Conversion</a> - permite transformar sua imagem de entrada em outro formato de imagem compatível conforme suas necessidades;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/pt/net/merge/">Aspose.Imaging Image Merge</a> - permite compor um álbum de várias páginas a partir de várias imagens de entrada;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/pt/net/merge/">Álbum de imagens Aspose.Imaging</a> - aproveite a composição de álbuns de várias páginas a partir de um conjunto de imagens de entrada.
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/pt/net/crop/">Aspose.Imaging Image Crop</a> - permite cortar a parte necessária da imagem e salvar o resultado em o formato desejado.
+</li>
+</ul>
+<i><b>Existe a mesma oportunidade para outros produtos Aspose?</b></i><br/>
+Sim, existem outras oportunidades de licenciamento modular disponíveis em <a href="https://aspose.market">https://aspose.market</a>.

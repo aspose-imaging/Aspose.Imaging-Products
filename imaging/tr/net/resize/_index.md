@@ -28,3 +28,47 @@ Görüntü biçimlerine göre desteklenen {işlem adı} işlemlerinin tam listes
     </div>
 </div>
 <br/>
+
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET yalnızca lisanslamayı yeniden boyutlandırır" %}}
+Yalnızca görüntünün yeniden boyutlandırılmasıyla mı ilgileniyorsunuz? Aspose.Imaging Resize lisanslaması, ürünün diğer özelliklerini lisanslamanıza gerek kalmadan gerekli yeniden boyutlandırmayı programlı olarak uygulamanıza yardımcı olabilir. <br/>
+<i><b>Gerçekleştirmek için şunları yapabilirsiniz:</b></i>
+<ul>
+<li>
+İlgili lisansı <a href="https://purchase.aspose.market/">https://purchase.aspose.market/</a> adresinden satın alın
+</li>
+<li>
+Projenize v23.2'den başlayarak <a href="https://www.nuget.org/packages/Aspose.Imaging">Aspose.Imaging .NET'e bir nuget referansı</a> ekleyin;
+</li>
+<li>
+Desteklenen <a href="https://reference.aspose.com/imaging/net/aspose.imaging/resizetype/">yeniden boyutlandırma algoritmalarından</a> bir veya birkaçını kullanarak gerekli görüntü aşağı örnekleme veya yukarı örnekleme otomasyonunu uygulayın
+</li>
+<li>
+<a href="https://docs.aspose.com/imaging/net/licensing/">lisansı ayarlamak</a> için satın alınan lisansı kullanın.
+</li>
+</ul>
+<i><b>Hangi .NET platformları desteklenir?</b></i> <br/>
+Görüntü yeniden boyutlandırma lisansı, NEStandard2.0 ve üzeri .NET platformları için çalışır;<br/>
+<i><b>Satın alınan yeniden boyutlandırma lisansı kapsamında lisanslanmayan API girişleri kullanıldığında ne beklenir?</b></i><br/>
+Böyle bir durumda deneme modu kullanılır.<br/>
+<i><b>Resim yeniden boyutlandırma lisansım için hangi API girişlerinin uygun olduğunu nerede bulabilirim?</b></i><br/>
+Konuyu anlamak için lütfen alt sayfalarda bulunan kod parçacıklarını inceleyin.<br/>
+<i><b>Nasıl çalıştığını görmek için canlı demo var mı?</b></i><br/>
+Yeniden boyutlandırma lisansını satın almadan önce deneyebileceğiniz <a href="https://products.aspose.app/imaging/tr/image-resize/">Aspose.Imaging Image resize uygulaması</a> bulunmaktadır. <br/>
+<i><b>Başka modüler lisanslar var mı?</b></i><br/>
+Evet, şu anda aşağıdaki modüler lisanslar mevcuttur:<br/>
+<ul>
+<li>
+<a href="https://products.aspose.com/imaging/tr/net/conversion/">Aspose.Imaging Conversion</a> - girdi görüntünüzü belirtilen şekilde desteklenen başka bir görüntü biçimine dönüştürmenize olanak tanır ihtiyaçlarınız;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/tr/net/merge/">Aspose.Imaging Image Merge</a> - çeşitli giriş görüntülerinden çok sayfalı albüm oluşturmaya olanak tanır;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/tr/net/merge/">Aspose.Imaging Görüntü Albümü</a> - girdi görüntülerinden çok sayfalı albümler oluşturmanın avantajlarından yararlanın.
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/tr/net/crop/">Aspose.Imaging Image Crop</a> - görüntünün gerekli kısmının kırpılmasını ve sonucun kaydedilmesini sağlar istenen biçim.
+</li>
+</ul>
+<i><b>Diğer Aspose ürünleri için de aynı fırsat var mı?</b></i><br/>
+Evet, <a href="https://aspose.market">https://aspose.market</a> adresinde başka modüler lisanslama fırsatları mevcuttur.

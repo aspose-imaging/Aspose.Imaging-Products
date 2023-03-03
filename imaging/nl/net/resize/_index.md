@@ -28,3 +28,47 @@ Volledige lijst met ondersteunde Formaat wijzigen-bewerkingen per afbeeldingsind
     </div>
 </div>
 <br/>
+
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET formaat wijzigen alleen licenties" %}}
+Maakt u zich alleen zorgen over het wijzigen van de afbeelding? Aspose.Imaging Resize-licenties kunnen u helpen de vereiste formaatwijziging programmatisch te implementeren zonder dat u andere functies van het product hoeft te licentiëren. <br/>
+<i><b>Om het echt te maken, kunt u:</b></i>
+<ul>
+<li>
+Koop de juiste licentie op <a href="https://purchase.aspose.market/">https://purchase.aspose.market/</a>
+</li>
+<li>
+Voeg <a href="https://www.nuget.org/packages/Aspose.Imaging">nuget-referentie toe aan Aspose.Imaging .NET</a> vanaf v23.2 aan uw project;
+</li>
+<li>
+Implementeer de vereiste automatische downsampling of upsampling van afbeeldingen met behulp van een of meer van de ondersteunde <a href="https://reference.aspose.com/imaging/net/aspose.imaging/resizetype/">algoritmen voor formaat wijzigen</a>
+</li>
+<li>
+Gebruik de aangeschafte licentie om <a href="https://docs.aspose.com/imaging/net/licensing/">de licentie in te stellen</a>.
+</li>
+</ul>
+<i><b>Welke .NET-platforms worden ondersteund?</b></i> <br/>
+Licenties voor het wijzigen van de afbeeldingsgrootte werken voor NETStandard2.0 en hogere .NET-platforms;<br/>
+<i><b>Wat wordt er verwacht als er API-items worden gebruikt die niet zijn gelicentieerd onder de gekochte resize-licentie?</b></i><br/>
+In dat geval wordt de proefmodus gebruikt.<br/>
+<i><b>Waar kan ik vinden welke API-items geschikt zijn voor mijn licentie voor het wijzigen van de grootte van afbeeldingen?</b></i><br/>
+Bekijk de beschikbare codefragmenten op de onderliggende pagina's om het punt te begrijpen.<br/>
+<i><b>Zijn er live demo's om te zien hoe het werkt?</b></i><br/>
+Er is een <a href="https://products.aspose.app/imaging/nl/image-resize/">Aspose.Imaging Image resize-applicatie</a> , die u kunt proberen voordat u de licentie voor het wijzigen van de grootte koopt. <br/>
+<i><b>Zijn er andere modulaire licenties?</b></i><br/>
+Ja, de volgende modulaire licenties zijn momenteel beschikbaar:<br/>
+<ul>
+<li>
+<a href="https://products.aspose.com/imaging/nl/net/conversion/">Aspose.Imaging Conversion</a> - maakt het mogelijk om uw invoerafbeelding te transformeren naar een ander ondersteund afbeeldingsformaat volgens je behoeften;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/nl/net/merge/">Aspose.Imaging Image Merge</a> - maakt het mogelijk om een ​​album met meerdere pagina's samen te stellen op basis van verschillende invoerafbeeldingen;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/nl/net/merge/">Aspose.Imaging Image Album</a> - profiteer van het samenstellen van albums met meerdere pagina's uit een reeks invoerafbeeldingen.
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/nl/net/crop/">Aspose.Imaging Image Crop</a> - maakt het mogelijk om het vereiste deel van de afbeelding bij te snijden en het resultaat op te slaan in het gewenste formaat.
+</li>
+</ul>
+<i><b>Zijn er dezelfde mogelijkheden voor andere Aspose-producten?</b></i><br/>
+Ja, er zijn andere beschikbare modulaire licentiemogelijkheden op <a href="https://aspose.market">https://aspose.market</a>.

@@ -28,3 +28,45 @@ description: باستخدام Aspose.Imaging يمكنك بسهولة ا & قتص
     </div>
 </div>
 <br/>
+
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET المحاصيل الترخيص فقط" %}}
+في حال احتجت إلى اقتصاص صورك كميزة محددة فقط ، قد يناسب ترخيص Aspose.Maging Crop احتياجاتك. <br/>
+<i> كيف يمكنك تحقيق ذلك؟ </ b> </i>
+<ul>
+<li>
+قم بشراء الترخيص المخصص على <a href="https://purchase.aspose.market/"> https://purchase.aspose.market/ </a>
+</li>
+<li>
+أضف <a href="https://www.nuget.org/packages/Aspose.Imaging"> مرجع nuget إلى Aspose.Imaging .NET </a> بدءًا من الإصدار 23.2 إلى مشروعك ؛
+</li>
+<li>
+تنفيذ أتمتة اقتصاص الصور المطلوبة ؛
+</li>
+<li>
+يجب استخدام ترخيص المحاصيل <a href="https://docs.aspose.com/imaging/net/licensing/"> لتعيين الترخيص </a>.
+</li>
+</ul>
+<i> <b> ما هي أنظمة .NET الأساسية المدعومة؟ </ b> </i> <br/>
+يتم دعم الأنظمة الأساسية NETStandard2.0 والإصدارات الأحدث من .NET لتراخيص Aspose.Imaging Crop. <br/>
+<i> <b> في حالة استخدامي لإدخالات غير مرخصة لواجهة برمجة التطبيقات ، ماذا يحدث؟ </ b> </i> <br/>
+سيظهر وضع المحاكمة في مثل هذه الحالة. <br/>
+<i> هل يمكنك أن تريني كيف يعمل؟ </ b> </i> <br/>
+يرجى تجربة <a href="https://products.aspose.app/imaging/ar/image-crop/"> Aspose.Imaging Image Crop app </a> لمعرفة كيفية عمله. <br/>
+<i> هل يمكنك تقديم تراخيص معيارية لميزات أخرى؟ </ b> </i> <br/>
+نعم ، تتوفر التراخيص المعيارية التالية: <br/>
+<ul>
+<li>
+<a href="https://products.aspose.com/imaging/ar/net/conversion/"> Aspose.Imaging Conversion </a> - يسمح بتحويل صورة الإدخال إلى تنسيق صورة آخر مدعوم وفقًا احتياجاتك؛
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/ar/net/merge/"> Aspose.Imaging Image Merge </a> - يسمح بتكوين ألبوم متعدد الصفحات من عدة صور إدخال ؛
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/ar/net/merge/"> Aspose.Imaging Image Album </a> - استفد من إنشاء ألبومات متعددة الصفحات من مجموعة صور الإدخال.
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/ar/net/resize/"> Aspose.Imaging Image Resize </a> - يسمح بتغيير حجم الصورة ، مع ملاءمة الأبعاد المطلوبة باستخدام <a المدعومة href = "https://reference.aspose.com/imaging/net/aspose.imaging/resizetype/"> تغيير حجم الخوارزميات </a>. يمكنك أيضًا تقليل عينة من صورتك أو أخذ عينات منها.
+</li>
+</ul>
+<i> <b> هل هناك نفس الفرصة لمنتجات Aspose الأخرى؟ </ b> </i> <br/>
+نعم ، هناك فرص ترخيص معيارية أخرى متاحة على <a href="https://aspose.market"> https://aspose.market </a>.

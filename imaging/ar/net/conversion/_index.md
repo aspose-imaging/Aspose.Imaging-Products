@@ -231,5 +231,52 @@ description: قم بتحويل تنسيقات الصور والصور والصو
         </div>
     </div>
 </div>
+
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET Image تحويل الترخيص فقط" %}}
+
+يرجى قراءة هذا الموضوع إذا كنت تريد شراء واستخدام ميزة <a href="https://en.wikipedia.org/wiki/Image_conversion"> تحويل الصور </a> فقط. <br/>
+<i> <b> كيف تشتري وتستخدم ميزة التحويل فقط؟ </ b> </i>
+<ul>
+<li>
+شراء ترخيص مخصص عبر <a href="https://purchase.aspose.market/"> https://purchase.aspose.market/ </a>
+</li>
+<li>
+أضف <a href="https://www.nuget.org/packages/Aspose.Imaging"> مرجع nuget إلى Aspose.Imaging .NET </a> بدءًا من الإصدار 23.2 إلى مشروعك ؛
+</li>
+<li>
+تنفيذ التحويل من أو إلى تنسيق الصورة المطلوب من <a href="https://docs.aspose.com/imaging/net/supported-file-formats/"> قائمة تنسيقات Aspose.Imaging </a> باستخدام أمثلة التحويل من هذه الصفحات الفرعية ؛
+</li>
+<li>
+استخدم الترخيص الذي تم شراؤه <a href="https://docs.aspose.com/imaging/net/licensing/"> لتعيين الترخيص </a>.
+</li>
+</ul>
+<i> <b> ما هي الأنظمة الأساسية المدعومة؟ </ b> </i> <br/>
+تعد الأنظمة الأساسية NETStandard2.0 والإصدارات الأحدث من .NET مناسبة لترخيص التحويل ؛ <br/>
+<i> <b> ماذا يحدث ، إذا استخدمت إدخالات واجهة برمجة التطبيقات ، غير المرخصة بموجب ترخيص التحويل الذي تم شراؤه؟ </ b> </i> <br/>
+ستعمل المكتبة في الوضع التجريبي. <br/>
+<i> <b> كيف لي أن أعرف ، ما هي إدخالات واجهة برمجة التطبيقات المناسبة لترخيص التحويل الخاص بي؟ </ b> </i> <br/>
+يرجى التعرف على مقتطفات الشفرة في هذه الصفحة والصفحات الفرعية. <br/>
+العلامة & lt ؛ ط & GT ؛ & lt ؛ ط & GT ؛ لست متأكدا من أنني بحاجة إلى رخصة التحويل. هل يمكنني مشاهدة العرض المباشر؟ </ b> </i> <br/>
+بالتأكيد ، يرجى تجربة <a href="https://products.aspose.app/imaging/ar/conversion/"> Aspose.Imaging Conversion Application </a>. <br/>
+<i> هل يمكنني شراء تراخيص معيارية أخرى واستخدامها؟ </ b> </i> <br/>
+تأكد من أنه يمكنك شراء واستخدام التراخيص المعيارية الأخرى المتوفرة: <br/>
+<ul>
+<li>
+<a href="https://products.aspose.com/imaging/ar/net/merge/"> Aspose.Imaging Image merge </a> - يسمح بإنشاء صورة مجمعة من عدة صور إدخال ؛
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/ar/net/merge/"> Aspose.Imaging Image Album </a> - يسمح بتأليف ألبوم متعدد الصفحات من عدة صور إدخال ؛
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/ar/net/resize/"> Aspose.Imaging Image Resize </a> - يسمح بتغيير حجم الصورة ، مع ملاءمة الأبعاد المطلوبة باستخدام خوارزميات تغيير الحجم المدعومة . يمكنك أيضًا تقليل عينة من صورتك أو أخذ عينات منها.
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/ar/net/crop/"> Aspose.Imaging Image Crop </a> - يسمح باقتصاص الجزء المطلوب من الصورة وحفظ النتيجة في التنسيق المطلوب.
+</li>
+</ul>
+<i> هل يمكنني استخدام منتجات Aspose الأخرى بنفس الطريقة؟ </ b> </i> <br/>
+تحقق بالتأكيد من <a href="https://aspose.market"> https://aspose.market </a> لمعرفة إمكانيات الترخيص المعيارية المتاحة.
+
+
 <br/>
 

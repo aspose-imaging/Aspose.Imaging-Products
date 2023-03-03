@@ -28,3 +28,45 @@ Volledige lijst met ondersteunde Bijsnijden-bewerkingen per afbeeldingsindeling:
     </div>
 </div>
 <br/>
+
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET licentie voor alleen bijsnijden" %}}
+Als u uw afbeeldingen wilt bijsnijden als een geselecteerde functie, kan Aspose.Imaging Crop-licentie aan uw behoeften voldoen. <br/>
+<i><b>Hoe bereik je dat?</b></i>
+<ul>
+<li>
+Koop de juiste licentie op <a href="https://purchase.aspose.market/">https://purchase.aspose.market/</a>
+</li>
+<li>
+Voeg <a href="https://www.nuget.org/packages/Aspose.Imaging">nuget-referentie toe aan Aspose.Imaging .NET</a> vanaf v23.2 aan uw project;
+</li>
+<li>
+Implementeer de vereiste automatisering voor het bijsnijden van afbeeldingen;
+</li>
+<li>
+Gewaslicentie moet worden gebruikt om <a href="https://docs.aspose.com/imaging/net/licensing/">de licentie in te stellen</a>.
+</li>
+</ul>
+<i><b>Welke .NET-platforms worden ondersteund?</b></i> <br/>
+NETStandard2.0 en hogere .NET-platforms worden ondersteund voor Aspose.Imaging Crop-licenties.<br/>
+<i><b>Als ik niet-gelicentieerde API-items gebruik, wat gebeurt er dan?</b></i><br/>
+In dat geval verschijnt de proefmodus.<br/>
+<i><b>Kun je me laten zien hoe het werkt?</b></i><br/>
+Probeer <a href="https://products.aspose.app/imaging/nl/image-crop/">Aspose.Imaging Image crop applicatie</a> om te zien hoe het werkt.<br/>
+<i><b>Kunnen jullie modulaire licenties leveren voor andere functies?</b></i><br/>
+Ja, de volgende modulaire licenties zijn beschikbaar:<br/>
+<ul>
+<li>
+<a href="https://products.aspose.com/imaging/nl/net/conversion/">Aspose.Imaging Conversion</a> - maakt het mogelijk om uw invoerafbeelding te transformeren naar een ander ondersteund afbeeldingsformaat volgens je behoeften;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/nl/net/merge/">Aspose.Imaging Image Merge</a> - maakt het mogelijk om een ​​album met meerdere pagina's samen te stellen op basis van verschillende invoerafbeeldingen;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/nl/net/merge/">Aspose.Imaging Image Album</a> - profiteer van het samenstellen van albums met meerdere pagina's uit een reeks invoerafbeeldingen.
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/nl/net/resize/">Aspose.Imaging Image Resize</a> - maakt het mogelijk om het formaat van uw afbeelding aan te passen aan de gewenste afmetingen met ondersteunde <a href="https://reference.aspose.com/imaging/net/aspose.imaging/resizetype/">algoritmen voor formaat wijzigen</a>. U kunt uw afbeelding ook downsamplen of upsamplen.
+</li>
+</ul>
+<i><b>Zijn er dezelfde mogelijkheden voor andere Aspose-producten?</b></i><br/>
+Ja, er zijn andere beschikbare modulaire licentiemogelijkheden op <a href="https://aspose.market">https://aspose.market</a>.

@@ -28,3 +28,47 @@ Liste complète des opérations Redimensionner prises en charge par formats d'im
     </div>
 </div>
 <br/>
+
+{{% blocks/products/pf/feature-page-section  h2="Licence de redimensionnement Aspose.Imaging .NET uniquement" %}}
+Êtes-vous préoccupé par le redimensionnement de l'image uniquement ? La licence Aspose.Imaging Resize peut vous aider à implémenter le redimensionnement requis par programmation sans avoir besoin d'acquérir une licence pour d'autres fonctionnalités du produit. <br/>
+<i><b>Pour le rendre réel, vous pouvez :</b></i>
+<ul>
+<li>
+Achetez la licence appropriée sur <a href="https://purchase.aspose.market/">https://purchase.aspose.market/</a>
+</li>
+<li>
+Ajoutez une <a href="https://www.nuget.org/packages/Aspose.Imaging">référence nuget à Aspose.Imaging .NET</a> à partir de la v23.2 à votre projet ;
+</li>
+<li>
+Implémentez l'automatisation de l'échantillonnage vers le bas ou vers le haut de l'image requise en utilisant un ou plusieurs des <a href="https://reference.aspose.com/imaging/net/aspose.imaging/resizetype/">algorithmes de redimensionnement</a> pris en charge
+</li>
+<li>
+Utilisez la licence achetée pour <a href="https://docs.aspose.com/imaging/net/licensing/">définir la licence</a>.
+</li>
+</ul>
+<i><b>Quelles plates-formes .NET sont prises en charge ?</b></i> <br/>
+La licence de redimensionnement d'image fonctionne pour NETStandard2.0 et les plates-formes .NET supérieures ;<br/>
+<i><b>Qu'est-ce qui est attendu lorsque des entrées d'API, qui ne sont pas sous licence sous licence de redimensionnement achetée, sont utilisées ?</b></i><br/>
+Le mode d'essai est être utilisé dans un tel cas.<br/>
+<i><b>Où puis-je trouver les entrées d'API adaptées à ma licence de redimensionnement d'image ?</b></i><br/>
+Veuillez consulter les extraits de code disponibles sur les pages enfants pour comprendre.<br/>
+<i><b>Y a-t-il une démonstration en direct pour voir comment cela fonctionne ?</b></i><br/>
+Il existe une <a href="https://products.aspose.app/imaging/fr/image-resize/">application de redimensionnement d'image Aspose.Imaging</a>, que vous pouvez essayer avant d'acheter la licence de redimensionnement. <br/>
+<i><b>Existe-t-il d'autres licences modulaires ?</b></i><br/>
+Oui, les licences modulaires suivantes sont disponibles pour le moment :<br/>
+<ul>
+<li>
+<a href="https://products.aspose.com/imaging/fr/net/conversion/">Aspose.Imaging Conversion</a> - permet de transformer votre image d'entrée dans un autre format d'image pris en charge selon vos besoins;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/fr/net/merge/">Aspose.Imaging Image Merge</a> - permet de composer un album de plusieurs pages à partir de plusieurs images d'entrée ;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/fr/net/merge/">Aspose.Imaging Image Album</a> - profitez de la composition d'albums de plusieurs pages à partir d'un ensemble d'images d'entrée.
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/fr/net/crop/">Aspose.Imaging Image Crop</a> - permet de recadrer la partie requise de l'image et d'enregistrer le résultat dans le format souhaité.
+</li>
+</ul>
+<i><b>Existe-t-il la même opportunité pour les autres produits Aspose ?</b></i><br/>
+Oui, il existe d'autres opportunités de licences modulaires disponibles sur <a href="https://aspose.market">https://aspose.market</a>.

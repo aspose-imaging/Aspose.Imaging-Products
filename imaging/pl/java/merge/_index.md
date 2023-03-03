@@ -28,3 +28,5 @@ Pełna lista obsługiwanych operacji Łączyć według formatów obrazu:
     </div>
 </div>
 <br/>
+
+

@@ -28,3 +28,92 @@ Visas palaikomų operacijų Sujungti sąrašas pagal vaizdo formatus:
     </div>
 </div>
 <br/>
+
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET vaizdas sujungti tik licencijas" %}}
+Ši tema skirta tik tuo atveju, kai reikia pirkti ir naudoti tik <b>vaizdo sujungimo</b> funkciją. Vaizdo sujungimas čia reiškia vieno koliažo sukūrimą iš kelių įvestų vaizdų; <br/>
+<i><b>Kaip nusipirkti ir naudoti tik sujungimo funkciją?</b></i>
+<ul>
+<li>
+Įsigykite atitinkamą licenciją adresu <a href="https://purchase.aspose.market/">https://purchase.aspose.market/</a>
+</li>
+<li>
+Pridėkite <a href="https://www.nuget.org/packages/Aspose.Imaging">nuget nuorodą į Aspose.Imaging .NET</a> nuo 23.2 prie savo projekto;
+</li>
+<li>
+Įgyvendinti įvesties vaizdų sujungimą su vienu išvesties vaizdu, naudodami tinkamus sujungimo pavyzdžius iš antrinių puslapių;
+</li>
+<li>
+Naudokite įsigytą licenciją <a href="https://docs.aspose.com/imaging/net/licensing/">licencijai nustatyti</a>.
+</li>
+</ul>
+<i><b>Kokios .NET platformos palaikomos?</b></i> <br/>
+Sujungimo licencijavimas palaikomas NETStandard2.0 ir aukštesnėse .NET platformose;<br/>
+<i><b>Kas atsitiks, jei naudosiu API įrašus, kurie nėra licencijuoti pagal įsigytą sujungimo licenciją?</b></i><br/>
+Tokiu atveju veikia bandomasis režimas.<br/>
+<i><b>Kaip galiu žinoti, kurie API įrašai tinka mano sujungimo licencijai?</b></i><br/>
+Antriniuose puslapiuose yra atitinkamų kodo fragmentų, kuriuose galite rasti licencijuoto naudojimo idėjų.<br/>
+<i><b>Ar galiu pamatyti tiesioginę demonstracinę versiją, kad įsitikinčiau, jog man reikia vaizdų sujungimo licencijos?</b></i><br/>
+<a href="https://products.aspose.app/imaging/lt/image-merge/">Aspose.Imaging vaizdų sujungimo programa</a> vieno puslapio sujungimas gali padėti jums pasirinkti.<br />
+<i><b>Ar yra kitų modulinių licencijų?</b></i><br/>
+Žinoma, galite įsigyti ir naudoti kitas galimas modulines licencijas:<br/>
+<ul>
+<li>
+<a href="https://products.aspose.com/imaging/lt/net/conversion/">Aspose.Imaging Conversion</a> – leidžia pakeisti įvesties vaizdą į kitą palaikomą vaizdo formatą, kaip nurodyta jūsų poreikius;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/lt/net/merge/">Aspose.Imaging vaizdo albumas</a> – leidžia sudaryti kelių puslapių albumą iš kelių įvestų vaizdų;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/lt/net/resize/">Aspose.Imaging Image Resize</a> – leidžia pakeisti vaizdo dydį, kad atitiktų norimus matmenis naudojant palaikomus dydžio keitimo algoritmus . Taip pat galite pavyzdį žemyn arba į viršų.
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/lt/net/crop/">Aspose.Imaging Image Crop</a> – leidžia apkarpyti reikiamą vaizdo dalį ir išsaugoti rezultatą norimą formatą.
+</li>
+</ul>
+<i><b>Ar yra kitų „Aspose“ produktų galimybių?</b></i><br/>
+Taip, <a href="https://aspose.market">https://aspose.market</a> yra ir kitų galimų modulinių licencijavimo pasiūlymų.
+
+<br/>
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET vaizdo albumo licencijavimas" %}}
+Ieškote galimybės programiškai sukurti vaizdų albumą (bukletą) iš savo vaizdų ar nuotraukų? Ši tema gali padėti pasiekti tikslą, perkant tik reikiamą funkciją.<br/>
+<i><b>Kaip galiu nusipirkti ir naudoti tik vaizdų albumo (bukleto) kūrimo funkciją?</b></i>
+<ul>
+<li>
+Atitinkamą licenciją galima įsigyti adresu <a href="https://purchase.aspose.market/">https://purchase.aspose.market/</a>
+</li>
+<li>
+Prie projekto reikėtų pridėti <a href="https://www.nuget.org/packages/Aspose.Imaging">Nuget nuorodą</a> į Aspose.Imaging .NET nuo 23.2 versijos;
+</li>
+<li>
+Vaizdo albumo kūrimas reikiamu kelių puslapių išvesties formatu (tiff, pdf, dicom arba psd) turi būti įgyvendintas atsižvelgiant į atitinkamus kelių puslapių vaizdo kūrimo pavyzdžius iš antrinių puslapių;
+</li>
+<li>
+Įsigyta licencija turėtų būti naudojama <a href="https://docs.aspose.com/imaging/net/licensing/">licencijai nustatyti</a>.
+</li>
+</ul>
+<i><b>Kokios .NET platformos palaikomos?</b></i> <br/>
+NETStandard2.0 ir naujesnės .NET platformos tinka vaizdų albumų licencijavimui;<br/>
+<i><b>Kas nutinka, kai naudoju API įrašus, kurie nėra licencijuoti pagal įsigytą vaizdų albumo licenciją?</b></i><br/>
+Tada bus įjungtas bandomasis režimas.<br/>
+<i><b>Kur galiu rasti, kurie API įrašai tinka mano vaizdų albumo licencijai?</b></i><br/>
+Tai galite rasti atitinkamuose kodo fragmentuose, esančiuose antriniuose puslapiuose<br/>
+<i><b>Ar galiu pamatyti tiesioginę demonstracinę versiją, kad įsitikinčiau, jog vaizdų albumo licencija atitinka mano poreikius?</b></i><br/>
+<a href="https://products.aspose.app/imaging/lt/image-merge/">„Aspose.Imaging“ vaizdų sujungimo programa</a> tokiu atveju turėtumėte apsvarstyti kelių puslapių sujungimą. <br/>
+<i><b>Ar galite pasiūlyti kitų modulinių licencijų?</b></i><br/>
+Žinoma, galite peržiūrėti ir įsigyti kitas galimas modulines licencijas:<br/>
+<ul>
+<li>
+<a href="https://products.aspose.com/imaging/lt/net/merge/">Aspose.Imaging Image merge</a> – leidžia sukurti vaizdo koliažą iš kelių įvesties vaizdų;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/lt/net/conversion/">Aspose.Imaging Conversion</a> – leidžia pakeisti įvesties vaizdą į kitą palaikomą vaizdo formatą, kaip nurodyta jūsų poreikius;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/lt/net/resize/">Aspose.Imaging Image Resize</a> – leidžia pakeisti vaizdo dydį, kad atitiktų norimus matmenis naudojant palaikomus dydžio keitimo algoritmus . Taip pat galite pavyzdį žemyn arba į viršų.
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/lt/net/crop/">Aspose.Imaging Image Crop</a> – leidžia apkarpyti reikiamą vaizdo dalį ir išsaugoti rezultatą norimą formatą.
+</li>
+</ul>
+<i><b>Ar yra tokie patys pasiūlymai kitiems „Aspose“ produktams?</b></i><br/>
+Taip, yra kitų galimų modulinių licencijavimo pasiūlymų adresu <a href="https://aspose.market">https://aspose.market</a>, kad galėtumėte naudotis modulinėmis licencijavimo galimybėmis.

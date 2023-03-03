@@ -28,3 +28,45 @@ Aspose.Imaging を使用すると、さまざまな画像フォーマットに *
     </div>
 </div>
 <br/>
+
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET トリミングのみのライセンス" %}}
+選択した機能のみとしてイメージをトリミングする必要がある場合は、Aspose.Imaging Crop ライセンスが必要になる場合があります。 <br/>
+<i><b>どうすれば達成できますか?</b></i>
+<ul>
+<リ>
+<a href="https://purchase.aspose.market/">https://purchase.aspose.market/</a> で適切なライセンスを購入します。
+</li>
+<リ>
+v23.2 以降の <a href="https://www.nuget.org/packages/Aspose.Imaging">Aspose.Imaging .NET への nuget 参照</a> をプロジェクトに追加します。
+</li>
+<リ>
+必要な画像トリミングの自動化を実装します。
+</li>
+<リ>
+<a href="https://docs.aspose.com/imaging/net/licensing/">ライセンスを設定</a>するには、クロップ ライセンスを使用する必要があります。
+</li>
+</ul>
+<i><b>どの .NET プラットフォームがサポートされていますか?</b></i> <br/>
+Aspose.Imaging Crop ライセンスでは、NETStandard2.0 以降の .NET プラットフォームがサポートされています。<br/>
+<i><b>ライセンスされていない API エントリを使用するとどうなりますか?</b></i><br/>
+そんな時はお試しモードが登場。<br/>
+<i><b>仕組みを教えてもらえますか?</b></i><br/>
+<a href="https://products.aspose.app/imaging/ja/image-crop/">Aspose.Imaging 画像クロップ アプリケーション</a>を試して、その動作を確認してください。<br/>
+<i><b>他の機能のモジュラー ライセンスを提供できますか?</b></i><br/>
+はい。次のモジュラー ライセンスを利用できます。<br/>
+<ul>
+<リ>
+<a href="https://products.aspose.com/imaging/ja/net/conversion/">Aspose.Imaging Conversion</a> - 入力画像を別のサポートされている画像形式に変換できます。あなたの要望;
+</li>
+<リ>
+<a href="https://products.aspose.com/imaging/ja/net/merge/">Aspose.Imaging Image Merge</a> - 複数の入力画像から複数ページのアルバムを構成できます。
+</li>
+<リ>
+<a href="https://products.aspose.com/imaging/ja/net/merge/">Aspose.Imaging Image Album</a> - 入力画像のセットから複数ページのアルバムを構成する利点を活用します。
+</li>
+<リ>
+<a href="https://products.aspose.com/imaging/ja/net/resize/">Aspose.Imaging Image Resize</a> - サポートされている <a href="https://reference.aspose.com/imaging/net/aspose.imaging/resizetype/">サイズ変更アルゴリズム</a>。画像をダウンサンプリングまたはアップサンプリングすることもできます。
+</li>
+</ul>
+<i><b>他の Aspose 製品にも同様の機会はありますか?</b></i><br/>
+はい、<a href="https://aspose.market">https://aspose.market</a> で、他の利用可能なモジュラー ライセンスの機会があります。

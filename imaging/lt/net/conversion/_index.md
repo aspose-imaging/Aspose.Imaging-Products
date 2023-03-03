@@ -231,5 +231,52 @@ Tālāk ir parādīts pilns to attēlu formātu saraksts, kurus varat konvertēt
         </div>
     </div>
 </div>
+
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET Image konvertuoti tik licenciją" %}}
+
+Perskaitykite šią temą, jei reikia įsigyti ir naudoti tik <a href="https://en.wikipedia.org/wiki/Image_conversion">vaizdo konvertavimo</a> funkciją.<br/>
+<i><b>Kaip nusipirkti ir naudoti tik konversijos funkciją?</b></i>
+<ul>
+<li>
+Įsigykite atitinkamą licenciją adresu <a href="https://purchase.aspose.market/">https://purchase.aspose.market/</a>
+</li>
+<li>
+Pridėkite <a href="https://www.nuget.org/packages/Aspose.Imaging">nuget nuorodą į Aspose.Imaging .NET</a> nuo 23.2 prie savo projekto;
+</li>
+<li>
+Įdiekite konvertavimą iš arba į norimą vaizdo formatą iš <a href="https://docs.aspose.com/imaging/net/supported-file-formats/">palaikomų Aspose.Imaging formatų sąrašo</a> naudodami konversijų pavyzdžiai iš šio ir antrinių puslapių;
+</li>
+<li>
+Naudokite įsigytą licenciją <a href="https://docs.aspose.com/imaging/net/licensing/">licencijai nustatyti</a>.
+</li>
+</ul>
+<i><b>Kokios platformos palaikomos?</b></i> <br/>
+NETStandard2.0 ir naujesnės versijos .NET platformos tinka konvertavimo licencijavimui;<br/>
+<i><b>Kas nutiks, jei naudosiu API įrašus, kurie nėra licencijuoti pagal įsigytą konversijos licenciją?</b></i><br/>
+Biblioteka veiks bandomuoju režimu.<br/>
+<i><b>Kaip galiu žinoti, kurie API įrašai tinka mano konversijos licencijai?</b></i><br/>
+Sužinokite kodo fragmentus šiame ir antriniuose puslapiuose.<br/>
+<i><b>Nesu tikras, ar man reikia konversijos licencijos. Ar galiu pamatyti tiesioginę demonstraciją?</b></i><br/>
+Žinoma, išbandykite <a href="https://products.aspose.app/imaging/lt/conversion/">„Aspose.Imaging“ konversijos programą</a>.<br/>
+<i><b>Ar galiu įsigyti ir naudoti kitas modulines licencijas?</b></i><br/>
+Žinoma, galite įsigyti ir naudoti kitas galimas modulines licencijas:<br/>
+<ul>
+<li>
+<a href="https://products.aspose.com/imaging/lt/net/merge/">Aspose.Imaging Image merge</a> – leidžia sukurti vaizdo koliažą iš kelių įvesties vaizdų;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/lt/net/merge/">Aspose.Imaging vaizdo albumas</a> – leidžia sudaryti kelių puslapių albumą iš kelių įvestų vaizdų;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/lt/net/resize/">Aspose.Imaging Image Resize</a> – leidžia pakeisti vaizdo dydį, kad atitiktų norimus matmenis naudojant palaikomus dydžio keitimo algoritmus . Taip pat galite pavyzdį žemyn arba į viršų.
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/lt/net/crop/">Aspose.Imaging Image Crop</a> – leidžia apkarpyti reikiamą vaizdo dalį ir išsaugoti rezultatą norimą formatą.
+</li>
+</ul>
+<i><b>Ar galiu taip pat naudoti kitus Aspose produktus?</b></i><br/>
+Būtinai patikrinkite <a href="https://aspose.market">https://aspose.market</a>, kad būtų galima rasti modulinių licencijavimo galimybių.
+
+
 <br/>
 

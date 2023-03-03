@@ -28,3 +28,45 @@ description: 使用 Aspose.Imaging 你可以轻松地通过 net 获取 庄稼 �
     </div>
 </div>
 <br/>
+
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET 裁剪许可" %}}
+如果您需要裁剪图像作为仅选定的功能，Aspose.Imaging Crop 许可可能适合您的需要。 <br/>
+<i><b>如何实现？</b></i>
+<ul>
+<李>
+在 <a href="https://purchase.aspose.market/">https://purchase.aspose.market/</a> 购买适当的许可证
+</li>
+<李>
+将 <a href="https://www.nuget.org/packages/Aspose.Imaging">nuget reference to Aspose.Imaging .NET</a> 从 v23.2 开始添加到您的项目中；
+</li>
+<李>
+实施所需的图像裁剪自动化；
+</li>
+<李>
+应使用裁剪许可证<a href="https://docs.aspose.com/imaging/net/licensing/">设置许可证</a>。
+</li>
+</ul>
+<i><b>支持哪些 .NET 平台？</b></i> <br/>
+Aspose.Imaging Crop 许可支持 NETStandard2.0 和更高版本的 .NET 平台。<br/>
+<i><b>如果我使用未经许可的 API 条目，会发生什么？</b></i><br/>
+这种情况下会出现试用模式。<br/>
+<i><b>你能告诉我它是如何工作的吗？</b></i><br/>
+请尝试 <a href="https://products.aspose.app/imaging/zh-hans/image-crop/">Aspose.Imaging Image crop application</a> ，看看它是如何工作的。<br/>
+<i><b>你们能否为其他功能提供模块化许可？</b></i><br/>
+是的，可以使用以下模块化许可证：<br/>
+<ul>
+<李>
+<a href="https://products.aspose.com/imaging/zh-hans/net/conversion/">Aspose.Imaging Conversion</a> - 允许将您的输入图像转换为另一种支持的图像格式您的需求;
+</li>
+<李>
+<a href="https://products.aspose.com/imaging/zh-hans/net/merge/">Aspose.Imaging Image Merge</a> - 允许从多个输入图像组成多页相册；
+</li>
+<李>
+<a href="https://products.aspose.com/imaging/zh-hans/net/merge/">Aspose.Imaging Image Album</a> - 利用输入图像集组成多页相册。
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/zh-hans/net/resize/">Aspose.Imaging Image Resize</a> - 允许调整图像大小，使用支持的 <a href="https://reference.aspose.com/imaging/net/aspose.imaging/resizetype/">调整大小算法</a>。您也可以对图像进行降采样或升采样。
+</li>
+</ul>
+<i><b>其他 Aspose 产品是否有同样的机会？</b></i><br/>
+是的，在 <a href="https://aspose.market">https://aspose.market</a> 上还有其他可用的模块化许可机会。

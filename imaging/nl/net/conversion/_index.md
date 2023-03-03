@@ -231,5 +231,52 @@ Hieronder vindt u een volledige lijst van de afbeeldingsindelingen waaruit u kun
         </div>
     </div>
 </div>
+
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET Image convert only licentie" %}}
+
+Lees dit onderwerp als u alleen de functie <a href="https://en.wikipedia.org/wiki/Image_conversion">beeldconversie</a> wilt kopen en gebruiken.<br/>
+<i><b>Alleen de conversiefunctie kopen en gebruiken?</b></i>
+<ul>
+<li>
+Koop de juiste licentie via <a href="https://purchase.aspose.market/">https://purchase.aspose.market/</a>
+</li>
+<li>
+Voeg <a href="https://www.nuget.org/packages/Aspose.Imaging">nuget-referentie toe aan Aspose.Imaging .NET</a> vanaf v23.2 aan uw project;
+</li>
+<li>
+Implementeer conversie van of naar het gewenste afbeeldingsformaat uit de <a href="https://docs.aspose.com/imaging/net/supported-file-formats/">lijst met ondersteund door Aspose.Imaging-indelingen</a> met behulp van conversievoorbeelden van deze en onderliggende pagina's;
+</li>
+<li>
+Gebruik de aangeschafte licentie om <a href="https://docs.aspose.com/imaging/net/licensing/">de licentie in te stellen</a>.
+</li>
+</ul>
+<i><b>Welke platforms worden ondersteund?</b></i> <br/>
+NETStandaard 2.0 en hogere .NET-platforms zijn geschikt voor conversielicenties;<br/>
+<i><b>Wat gebeurt er als ik API-items gebruik die niet zijn gelicentieerd onder een gekochte conversielicentie?</b></i><br/>
+De bibliotheek werkt in de proefmodus.<br/>
+<i><b>Hoe weet ik welke API-items geschikt zijn voor mijn conversielicentie?</b></i><br/>
+Lees de codefragmenten op deze en onderliggende pagina's.<br/>
+<i><b>Ik weet niet zeker of ik een conversielicentie nodig heb. Kan ik de live demo zien?</b></i><br/>
+Natuurlijk, probeer <a href="https://products.aspose.app/imaging/nl/conversion/">Aspose.Imaging Conversion Application</a>.<br/>
+<i><b>Mag ik andere modulaire licenties kopen en gebruiken?</b></i><br/>
+Natuurlijk kunt u andere beschikbare modulaire licenties kopen en gebruiken:<br/>
+<ul>
+<li>
+<a href="https://products.aspose.com/imaging/nl/net/merge/">Aspose.Imaging Afbeelding samenvoegen</a> - maakt het mogelijk om een ​​afbeeldingscollage te maken van verschillende invoerafbeeldingen;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/nl/net/merge/">Aspose.Imaging Image Album</a> - maakt het mogelijk om een ​​album met meerdere pagina's samen te stellen op basis van verschillende invoerafbeeldingen;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/nl/net/resize/">Aspose.Imaging Image Resize</a> - maakt het mogelijk om het formaat van uw afbeelding aan te passen aan de gewenste afmetingen met behulp van ondersteunde algoritmen voor het wijzigen van het formaat . U kunt uw afbeelding ook downsamplen of upsamplen.
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/nl/net/crop/">Aspose.Imaging Image Crop</a> - maakt het mogelijk om het vereiste deel van de afbeelding bij te snijden en het resultaat op te slaan in het gewenste formaat.
+</li>
+</ul>
+<i><b>Kan ik andere Aspose-producten op dezelfde manier gebruiken?</b></i><br/>
+Controleer zeker <a href="https://aspose.market">https://aspose.market</a> voor beschikbare modulaire licentiemogelijkheden.
+
+
 <br/>
 

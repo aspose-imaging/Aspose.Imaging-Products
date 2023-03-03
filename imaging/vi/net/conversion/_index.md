@@ -231,5 +231,52 @@ Dưới đây là danh sách đầy đủ các định dạng hình ảnh mà b�
         </div>
     </div>
 </div>
+
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET Image chỉ chuyển đổi giấy phép" %}}
+
+Vui lòng đọc chủ đề này nếu bạn chỉ cần mua và sử dụng tính năng <a href="https://en.wikipedia.org/wiki/Image_conversion">chuyển đổi hình ảnh</a>.<br/>
+<i><b>Làm cách nào để chỉ mua và sử dụng tính năng chuyển đổi?</b></i>
+<ul>
+<li>
+Mua giấy phép phù hợp qua <a href="https://purchase.aspose.market/">https://purchase.aspose.market/</a>
+</li>
+<li>
+Thêm <a href="https://www.nuget.org/packages/Aspose.Imaging">nuget tham chiếu đến Aspose.Imaging .NET</a> bắt đầu từ phiên bản 23.2 cho dự án của bạn;
+</li>
+<li>
+Triển khai chuyển đổi từ hoặc sang định dạng hình ảnh mong muốn từ <a href="https://docs.aspose.com/imaging/net/supported-file-formats/">danh sách các định dạng được Aspose.Imaging hỗ trợ</a> bằng cách sử dụng ví dụ chuyển đổi từ trang này và trang con;
+</li>
+<li>
+Sử dụng giấy phép đã mua để <a href="https://docs.aspose.com/imaging/net/licensing/">đặt giấy phép</a>.
+</li>
+</ul>
+<i><b>Nền tảng nào được hỗ trợ?</b></i> <br/>
+NETStandard2.0 và các nền tảng .NET cao hơn phù hợp để cấp phép chuyển đổi;<br/>
+<i><b>Điều gì xảy ra nếu tôi sử dụng các mục API không được cấp phép theo giấy phép chuyển đổi đã mua?</b></i><br/>
+Thư viện sẽ hoạt động ở chế độ dùng thử.<br/>
+<i><b>Làm cách nào để biết mục nhập API nào phù hợp với giấy phép chuyển đổi của tôi?</b></i><br/>
+Vui lòng tìm hiểu các đoạn mã trên trang này và các trang con.<br/>
+<i><b>Tôi không chắc mình có cần giấy phép chuyển đổi hay không. Tôi có thể xem bản demo trực tiếp không?</b></i><br/>
+Chắc chắn rồi, vui lòng thử <a href="https://products.aspose.app/imaging/vi/conversion/">Ứng dụng chuyển đổi Aspose.Imaging</a>.<br/>
+<i><b>Tôi có thể mua và sử dụng các giấy phép mô-đun khác không?</b></i><br/>
+Chắc chắn bạn có thể mua và sử dụng các giấy phép mô-đun có sẵn khác:<br/>
+<ul>
+<li>
+<a href="https://products.aspose.com/imaging/vi/net/merge/">Aspose.Imaging Hợp nhất hình ảnh</a> - cho phép tạo ảnh ghép từ nhiều hình ảnh đầu vào;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/vi/net/merge/">Album ảnh Aspose.Imaging</a> - cho phép soạn album nhiều trang từ nhiều ảnh đầu vào;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/vi/net/resize/">Thay đổi kích thước hình ảnh Aspose.Imaging</a> - cho phép thay đổi kích thước hình ảnh của bạn, điều chỉnh các kích thước mong muốn bằng các thuật toán thay đổi kích thước được hỗ trợ . Bạn cũng có thể lấy mẫu hoặc lấy mẫu hình ảnh của mình.
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/vi/net/crop/">Aspose.Imaging Image Crop</a> - cho phép cắt một phần hình ảnh cần thiết và lưu kết quả vào định dạng mong muốn.
+</li>
+</ul>
+<i><b>Tôi có thể sử dụng các sản phẩm Aspose khác theo cách tương tự không?</b></i><br/>
+Hãy chắc chắn kiểm tra <a href="https://aspose.market">https://aspose.market</a> để biết các khả năng cấp phép theo mô-đun có sẵn.
+
+
 <br/>
 

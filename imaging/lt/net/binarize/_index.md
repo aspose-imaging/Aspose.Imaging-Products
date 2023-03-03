@@ -28,3 +28,5 @@ Visas palaikomų operacijų Binarizuoti sąrašas pagal vaizdo formatus:
     </div>
 </div>
 <br/>
+
+

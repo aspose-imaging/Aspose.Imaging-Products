@@ -28,3 +28,45 @@ Full list of supported Crop operations by image formats:
     </div>
 </div>
 <br/>
+
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET crop only licensing" %}}
+In case you need cropping your images as a selected only feature, Aspose.Imaging Crop licensing may suit your needs. <br/> 
+<i><b>How can you achieve that?</b></i>
+<ul>
+<li>
+Purchase the appropriated license at  <a href="https://purchase.aspose.market/">https://purchase.aspose.market/</a>
+</li>
+<li>
+Add <a href="https://www.nuget.org/packages/Aspose.Imaging">nuget reference to Aspose.Imaging .NET</a> starting from v23.2 to you project;
+</li>
+<li>
+Implement required image crop automation;
+</li>
+<li>
+Crop license should be used to <a href="https://docs.aspose.com/imaging/net/licensing/">set the license</a>.
+</li>
+</ul>
+<i><b>Which .NET platforms are supported?</b></i> <br/>
+NETStandard2.0 and higher .NET platforms are supported for Aspose.Imaging Crop licensing.<br/>
+<i><b>In case I use not licensed API entries, what happens?</b></i><br/>
+The trial mode will appear in such case.<br/>
+<i><b>Can you show me how it works?</b></i><br/>
+Please try <a href="https://products.aspose.app/imaging/image-crop/">Aspose.Imaging Image crop application</a> , to see how it works.<br/>
+<i><b>Can you provide modular licenses for other features?</b></i><br/>
+Yes, following modular licenses are available:<br/>
+<ul>
+<li>
+<a href="https://products.aspose.com/imaging/net/conversion/">Aspose.Imaging Conversion</a> - allows to transform your input image to the another supported image format as per your needs;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/net/merge/">Aspose.Imaging Image Merge</a> - allows to compose multi page album from several input images;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/net/merge/">Aspose.Imaging Image Album</a> - take advantage composing multi page albums from set of input images.
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/net/resize/">Aspose.Imaging Image Resize</a> - allows to resize you image, fitting desired dimensions using supported <a href="https://reference.aspose.com/imaging/net/aspose.imaging/resizetype/">resize algorithms</a>. You may down sample or up sample your image as well.
+</li> 
+</ul>
+<i><b>Are there the same opportunity for other Aspose products?</b></i><br/>
+Yes, there are other available modular licensing opportunities at <a href="https://aspose.market">https://aspose.market</a>.

@@ -28,3 +28,45 @@ description: เมื่อใช้ Aspose.Imaging คุณสามารถ
     </div>
 </div>
 <br/>
+
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET ครอบตัดสิทธิ์การใช้งานเท่านั้น" %}}
+ในกรณีที่คุณต้องการครอบตัดรูปภาพของคุณเป็นฟีเจอร์ที่เลือกเท่านั้น สิทธิ์ใช้งาน Aspose.Imaging Crop อาจเหมาะกับความต้องการของคุณ <br/>
+<i><b>คุณจะประสบความสำเร็จได้อย่างไร</b></i>
+<ul>
+<li>
+ซื้อใบอนุญาตที่เหมาะสมได้ที่ <a href="https://purchase.aspose.market/">https://purchase.aspose.market/</a>
+</li>
+<li>
+เพิ่ม <a href="https://www.nuget.org/packages/Aspose.Imaging">การอ้างอิง nuget ไปยัง Aspose.Imaging .NET</a> โดยเริ่มจากเวอร์ชัน 23.2 ให้กับโปรเจ็กต์ของคุณ
+</li>
+<li>
+ใช้การครอบตัดภาพอัตโนมัติที่จำเป็น
+</li>
+<li>
+ควรใช้ใบอนุญาตครอบตัดเพื่อ<a href="https://docs.aspose.com/imaging/net/licensing/">ตั้งค่าใบอนุญาต</a>
+</li>
+</ul>
+<i><b>แพลตฟอร์ม .NET ใดบ้างที่รองรับ</b></i><br/>
+NETStandard2.0 และแพลตฟอร์ม .NET ที่สูงกว่าได้รับการสนับสนุนสำหรับสิทธิ์การใช้งาน Aspose.Imaging Crop<br/>
+<i><b>ในกรณีที่ฉันใช้รายการ API ที่ไม่ได้รับอนุญาต จะเกิดอะไรขึ้น</b></i><br/>
+โหมดทดลองจะปรากฏขึ้นในกรณีดังกล่าว<br/>
+<i><b>ช่วยแสดงวิธีการทำงานหน่อยได้ไหม</b></i><br/>
+โปรดลองใช้ <a href="https://products.aspose.app/imaging/th/image-crop/">Aspose.Imaging แอปพลิเคชันครอบตัดรูปภาพ</a> เพื่อดูวิธีการทำงาน<br/>
+<i><b>คุณสามารถให้ใบอนุญาตแบบแยกส่วนสำหรับคุณลักษณะอื่นๆ ได้หรือไม่</b></i><br/>
+ใช่ มีใบอนุญาตแบบแยกส่วนดังต่อไปนี้:<br/>
+<ul>
+<li>
+<a href="https://products.aspose.com/imaging/th/net/conversion/">การแปลง Aspose.Imaging</a> - อนุญาตให้แปลงรูปภาพอินพุตของคุณเป็นรูปแบบรูปภาพอื่นที่รองรับตาม ความต้องการของคุณ
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/th/net/merge/">Aspose.Imaging Image Merge</a> - อนุญาตให้สร้างอัลบั้มหลายหน้าจากภาพที่ป้อนเข้าหลายภาพ
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/th/net/merge/">อัลบั้มรูปภาพ Aspose.Imaging</a> - ใช้ประโยชน์จากการสร้างอัลบั้มหลายหน้าจากชุดรูปภาพที่ป้อน
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/th/net/resize/">Aspose.Imaging Image Resize</a> - ช่วยให้ปรับขนาดรูปภาพของคุณ พอดีกับขนาดที่ต้องการโดยใช้ <a href="https://reference.aspose.com/imaging/net/aspose.imaging/resizetype/">ปรับขนาดอัลกอริทึม</a> คุณสามารถลดตัวอย่างหรือเพิ่มตัวอย่างภาพของคุณได้เช่นกัน
+</li>
+</ul>
+<i><b>มีโอกาสเหมือนกันสำหรับผลิตภัณฑ์ Aspose อื่นๆ หรือไม่</b></i><br/>
+ใช่ มีโอกาสในการออกใบอนุญาตแบบโมดูลาร์อื่นๆ ที่ <a href="https://aspose.market">https://aspose.market</a>

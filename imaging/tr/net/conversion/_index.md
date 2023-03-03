@@ -231,5 +231,52 @@ Aşağıda, dönüştürebileceğiniz görüntü biçimlerinin tam listesi sunul
         </div>
     </div>
 </div>
+
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET Image yalnızca dönüştürme lisanslama" %}}
+
+Yalnızca <a href="https://en.wikipedia.org/wiki/Image_conversion">görüntü dönüştürme</a> özelliğini satın alıp kullanmanız gerekiyorsa lütfen bu konuyu okuyun.<br/>
+<i><b>Yalnızca dönüştürme özelliği nasıl satın alınır ve kullanılır?</b></i>
+<ul>
+<li>
+Uygun lisansı <a href="https://purchase.aspose.market/">https://purchase.aspose.market/</a> aracılığıyla satın alın
+</li>
+<li>
+Projenize v23.2'den başlayarak <a href="https://www.nuget.org/packages/Aspose.Imaging">Aspose.Imaging .NET'e bir nuget referansı</a> ekleyin;
+</li>
+<li>
+kullanarak <a href="https://docs.aspose.com/imaging/net/supported-file-formats/">Aspose.Imaging tarafından desteklenen biçimler listesinde</a> istenen görüntü biçiminden veya istenen görüntü biçimine dönüştürme uygulayın bu ve alt sayfalardan dönüştürme örnekleri;
+</li>
+<li>
+<a href="https://docs.aspose.com/imaging/net/licensing/">lisansı ayarlamak</a> için satın alınan lisansı kullanın.
+</li>
+</ul>
+<i><b>Hangi platformlar desteklenir?</b></i> <br/>
+NEStandard2.0 ve üzeri .NET platformları, dönüştürme lisanslaması için uygundur;<br/>
+<i><b>Satın alınan dönüştürme lisansı kapsamında lisanslanmayan API girişlerini kullanırsam ne olur?</b></i><br/>
+Kitaplık, deneme modunda çalışacaktır.<br/>
+<i><b>Dönüşüm lisansım için hangi API girişlerinin uygun olduğunu nasıl bilebilirim?</b></i><br/>
+Lütfen bu ve alt sayfalardaki kod parçacıklarını öğrenin.<br/>
+<i><b>Dönüşüm lisansına ihtiyacım olduğundan emin değilim. Canlı demoyu görebilir miyim?</b></i><br/>
+Elbette, lütfen <a href="https://products.aspose.app/imaging/tr/conversion/">Aspose.Imaging Conversion Uygulamasını</a> deneyin.<br/>
+<i><b>Diğer modüler lisansları satın alıp kullanabilir miyim?</b></i><br/>
+Diğer mevcut modüler lisansları satın alıp kullanabileceğinizden emin olabilirsiniz:<br/>
+<ul>
+<li>
+<a href="https://products.aspose.com/imaging/tr/net/merge/">Aspose.Imaging Görüntü birleştirme</a> - çeşitli giriş görüntülerinden görüntü kolajı oluşturmaya olanak tanır;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/tr/net/merge/">Aspose.Imaging Görüntü Albümü</a> - çeşitli girdi görüntülerinden çok sayfalı albüm oluşturmaya olanak tanır;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/tr/net/resize/">Aspose.Imaging Image Resize</a> - desteklenen yeniden boyutlandırma algoritmalarını kullanarak istediğiniz boyutlara sığdırarak görüntünüzü yeniden boyutlandırmanıza olanak tanır . Resminizi de aşağı örnekleyebilir veya yukarı örnekleyebilirsiniz.
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/tr/net/crop/">Aspose.Imaging Image Crop</a> - görüntünün gerekli kısmının kırpılmasını ve sonucun kaydedilmesini sağlar istenen biçim.
+</li>
+</ul>
+<i><b>Diğer Aspose ürünlerini de aynı şekilde kullanabilir miyim?</b></i><br/>
+Kullanılabilir modüler lisanslama yetenekleri için mutlaka <a href="https://aspose.market">https://aspose.market</a> adresini kontrol edin.
+
+
 <br/>
 

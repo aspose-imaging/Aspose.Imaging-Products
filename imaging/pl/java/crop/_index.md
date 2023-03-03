@@ -28,3 +28,5 @@ Pełna lista obsługiwanych operacji Przyciąć według formatów obrazu:
     </div>
 </div>
 <br/>
+
+

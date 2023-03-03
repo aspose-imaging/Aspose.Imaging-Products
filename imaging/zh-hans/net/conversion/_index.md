@@ -231,5 +231,52 @@ SVG的转换过程是一样的，加载SVG文件，使用相关的图片保存�
         </div>
     </div>
 </div>
+
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET Image convert only 许可" %}}
+
+如果您只需要购买和使用<a href="https://en.wikipedia.org/wiki/Image_conversion">图像转换</a>功能，请阅读本主题。<br/>
+<i><b>如何只购买和使用转换功能？</b></i>
+<ul>
+<李>
+通过 <a href="https://purchase.aspose.market/">https://purchase.aspose.market/</a> 购买适当的许可证
+</li>
+<李>
+将 <a href="https://www.nuget.org/packages/Aspose.Imaging">nuget reference to Aspose.Imaging .NET</a> 从 v23.2 开始添加到您的项目中；
+</li>
+<李>
+使用 <a href="https://docs.aspose.com/imaging/net/supported-file-formats/">Aspose.Imaging 格式支持列表</a>实现所需图像格式的转换此页面和子页面的转换示例；
+</li>
+<李>
+使用购买的许可证<a href="https://docs.aspose.com/imaging/net/licensing/">设置许可证</a>。
+</li>
+</ul>
+<i><b>支持哪些平台？</b></i> <br/>
+NETStandard2.0及更高版本.NET平台适合转换授权；<br/>
+<i><b>如果我使用未根据购买的转换许可获得许可的 API 条目，会发生什么情况？</b></i><br/>
+该库将在试用模式下工作。<br/>
+<i><b>我怎么知道哪些 API 条目适合我的转换许可证？</b></i><br/>
+请了解此页面和子页面上的代码片段。<br/>
+<i><b>我不确定我是否需要转换许可证。我可以观看现场演示吗？</b></i><br/>
+当然，请尝试 <a href="https://products.aspose.app/imaging/zh-hans/conversion/">Aspose.Imaging 转换应用程序</a>。<br/>
+<i><b>我可以购买和使用其他模块化许可证吗？</b></i><br/>
+当然，您可以购买和使用其他可用的模块化许可证：<br/>
+<ul>
+<李>
+<a href="https://products.aspose.com/imaging/zh-hans/net/merge/">Aspose.Imaging Image merge</a> - 允许从多个输入图像创建图像拼贴；
+</li>
+<李>
+<a href="https://products.aspose.com/imaging/zh-hans/net/merge/">Aspose.Imaging Image Album</a> - 允许从多个输入图像组成多页相册；
+</li>
+<李>
+<a href="https://products.aspose.com/imaging/zh-hans/net/resize/">Aspose.Imaging Image Resize</a> - 允许调整图像大小，使用支持的调整大小算法调整所需尺寸.您也可以对图像进行降采样或升采样。
+</li>
+<李>
+<a href="https://products.aspose.com/imaging/zh-hans/net/crop/">Aspose.Imaging Image Crop</a> - 允许裁剪图像的所需部分并将结果保存在所需的格式。
+</li>
+</ul>
+<i><b>我可以用同样的方式使用其他 Aspose 产品吗？</b></i><br/>
+请务必检查 <a href="https://aspose.market">https://aspose.market</a> 以了解可用的模块化许可功能。
+
+
 <br/>
 

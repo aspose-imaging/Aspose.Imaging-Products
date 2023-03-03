@@ -28,3 +28,5 @@ Pełna lista obsługiwanych operacji Zmień tło według formatów obrazu:
     </div>
 </div>
 <br/>
+
+

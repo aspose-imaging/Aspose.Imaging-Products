@@ -28,3 +28,47 @@ Fullständig lista över Ändra storlek-operationer som stöds efter bildformat:
     </div>
 </div>
 <br/>
+
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET ändra storlek endast licensiering" %}}
+Är du bara bekymrad över bildstorleken? Aspose.Imaging Resize-licensering kan hjälpa dig att implementera nödvändig storleksändring programmatiskt utan att behöva licensiera andra funktioner i produkten. <br/>
+<i><b>För att göra det verkligt kan du:</b></i>
+<ul>
+<li>
+Köp den tillämpliga licensen på <a href="https://purchase.aspose.market/">https://purchase.aspose.market/</a>
+</li>
+<li>
+Lägg till <a href="https://www.nuget.org/packages/Aspose.Imaging">nuget-referens till Aspose.Imaging .NET</a> från v23.2 till ditt projekt;
+</li>
+<li>
+Implementera nödvändig bildnedsampling eller uppsamplingsautomatisering med en eller flera från de <a href="https://reference.aspose.com/imaging/net/aspose.imaging/resizetype/">storleksändringsalgoritmerna</a> som stöds
+</li>
+<li>
+Använd köpt licens för att <a href="https://docs.aspose.com/imaging/net/licensing/">ställa in licensen</a>.
+</li>
+</ul>
+<i><b>Vilka .NET-plattformar stöds?</b></i> <br/>
+Licensering av bildstorlek fungerar för NETStandard2.0 och högre .NET-plattformar;<br/>
+<i><b>Vad förväntas när API-poster som inte är licensierade under köpt resize-licens används?</b></i><br/>
+Provläget används i ett sådant fall.<br/>
+<i><b>Var kan jag hitta vilka API-poster som är lämpliga för min licens för bildändring?</b></i><br/>
+Granska kodavsnitt som finns på underordnade sidor för att förstå poängen.<br/>
+<i><b>Finns det livedemo för att se hur det fungerar?</b></i><br/>
+Det finns <a href="https://products.aspose.app/imaging/sv/image-resize/">applikationen Aspose.Imaging Image resize</a> som du kan prova innan du köper licensen för resize. <br/>
+<i><b>Finns det andra modulära licenser?</b></i><br/>
+Ja, följande modulära licenser är tillgängliga för tillfället:<br/>
+<ul>
+<li>
+<a href="https://products.aspose.com/imaging/sv/net/conversion/">Aspose.Imaging Conversion</a> - gör det möjligt att omvandla din indatabild till ett annat bildformat som stöds enligt dina behov;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/sv/net/merge/">Aspose.Imaging Image Merge</a> - gör det möjligt att komponera flersidigt album från flera ingående bilder;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/sv/net/merge/">Aspose.Imaging-bildalbum</a> – dra fördel av att komponera flersidiga album från en uppsättning ingående bilder.
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/sv/net/crop/">Aspose.Imaging Image Crop</a> - gör det möjligt att beskära önskad del av bilden och spara resultatet i önskat format.
+</li>
+</ul>
+<i><b>Finns det samma möjlighet för andra Aspose-produkter?</b></i><br/>
+Ja, det finns andra tillgängliga modulära licensieringsmöjligheter på <a href="https://aspose.market">https://aspose.market</a>.

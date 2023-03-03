@@ -28,3 +28,5 @@ Fullständig lista över Dither-operationer som stöds efter bildformat:
     </div>
 </div>
 <br/>
+
+

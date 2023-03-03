@@ -28,3 +28,5 @@ Pełna lista obsługiwanych operacji Dostosować według formatów obrazu:
     </div>
 </div>
 <br/>
+
+

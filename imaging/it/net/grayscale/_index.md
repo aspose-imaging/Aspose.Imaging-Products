@@ -28,3 +28,5 @@ Elenco completo delle operazioni Scala di grigi supportate per formati immagine:
     </div>
 </div>
 <br/>
+
+

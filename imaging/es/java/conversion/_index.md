@@ -231,5 +231,8 @@ A continuación se presenta una lista completa de los formatos de imagen desde l
         </div>
     </div>
 </div>
-<br/>
+
+{{% blocks/products/pf/feature-page-section  h2="" %}}
+
+
 

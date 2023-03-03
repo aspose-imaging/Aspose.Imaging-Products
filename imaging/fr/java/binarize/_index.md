@@ -28,3 +28,5 @@ Liste complète des opérations Binariser prises en charge par formats d'image 
     </div>
 </div>
 <br/>
+
+

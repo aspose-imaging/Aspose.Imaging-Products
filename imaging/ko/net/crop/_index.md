@@ -28,3 +28,45 @@ Aspose.Imaging을 사용하면 다양한 이미지 형식에 **수확고** 을(�
     </div>
 </div>
 <br/>
+
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET 자르기 전용 라이선스" %}}
+선택한 기능으로 이미지를 잘라야 하는 경우 Aspose.Imaging 자르기 라이센스가 필요에 적합할 수 있습니다. <br/>
+<i><b>어떻게 달성할 수 있습니까?</b></i>
+<ul>
+<리>
+<a href="https://purchase.aspose.market/">https://purchase.aspose.market/</a>에서 적절한 라이선스를 구매하세요.
+</리>
+<리>
+v23.2부터 시작하여 <a href="https://www.nuget.org/packages/Aspose.Imaging">Aspose.Imaging .NET에 대한 nuget 참조</a>를 프로젝트에 추가합니다.
+</리>
+<리>
+필요한 이미지 자르기 자동화를 구현합니다.
+</리>
+<리>
+자르기 라이선스는 <a href="https://docs.aspose.com/imaging/net/licensing/">라이선스를 설정</a>하는 데 사용해야 합니다.
+</리>
+</ul>
+<i><b>어떤 .NET 플랫폼이 지원되나요?</b></i> <br/>
+NETStandard2.0 이상의 .NET 플랫폼은 Aspose.Imaging Crop 라이선스를 지원합니다.<br/>
+<i><b>허가되지 않은 API 항목을 사용하는 경우 어떻게 됩니까?</b></i><br/>
+이 경우 평가판 모드가 나타납니다.<br/>
+<i><b>어떻게 작동하는지 보여줄 수 있나요?</b></i><br/>
+작동 방식을 보려면 <a href="https://products.aspose.app/imaging/ko/image-crop/">Aspose.Imaging 이미지 자르기 애플리케이션</a>을 사용해 보세요.<br/>
+<i><b>다른 기능에 대한 모듈식 라이센스를 제공할 수 있습니까?</b></i><br/>
+예, 다음 모듈 라이선스를 사용할 수 있습니다.<br/>
+<ul>
+<리>
+<a href="https://products.aspose.com/imaging/ko/net/conversion/">Aspose.Imaging 변환</a> - 입력 이미지를 지원되는 다른 이미지 형식으로 변환할 수 있습니다. 너의 요구;
+</리>
+<리>
+<a href="https://products.aspose.com/imaging/ko/net/merge/">Aspose.Imaging Image Merge</a> - 여러 입력 이미지에서 다중 페이지 앨범을 구성할 수 있습니다.
+</리>
+<리>
+<a href="https://products.aspose.com/imaging/ko/net/merge/">Aspose.Imaging 이미지 앨범</a> - 입력 이미지 세트에서 다중 페이지 앨범 구성을 활용합니다.
+</리>
+<리>
+<a href="https://products.aspose.com/imaging/ko/net/resize/">Aspose.Imaging 이미지 크기 조정</a> - 지원되는 <a href="https://reference.aspose.com/imaging/net/aspose.imaging/resizetype/">크기 조정 알고리즘</a>. 이미지를 다운샘플링하거나 업샘플링할 수도 있습니다.
+</리>
+</ul>
+<i><b>다른 Aspose 제품에도 동일한 기회가 있습니까?</b></i><br/>
+예, <a href="https://aspose.market">https://aspose.market</a>에서 사용 가능한 다른 모듈식 라이선스 기회가 있습니다.

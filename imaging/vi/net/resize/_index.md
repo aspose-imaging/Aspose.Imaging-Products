@@ -28,3 +28,47 @@ Danh sách đầy đủ các thao tác Thay đổi kích thước được hỗ 
     </div>
 </div>
 <br/>
+
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET chỉ cấp phép thay đổi kích thước" %}}
+Bạn chỉ quan tâm đến việc thay đổi kích thước hình ảnh? Cấp phép thay đổi kích thước Aspose.Imaging có thể giúp bạn thực hiện thay đổi kích thước bắt buộc theo chương trình mà không cần cấp phép các tính năng khác của sản phẩm. <br/>
+<i><b>Để biến nó thành hiện thực, bạn có thể:</b></i>
+<ul>
+<li>
+Mua giấy phép phù hợp tại <a href="https://purchase.aspose.market/">https://purchase.aspose.market/</a>
+</li>
+<li>
+Thêm <a href="https://www.nuget.org/packages/Aspose.Imaging">nuget tham chiếu đến Aspose.Imaging .NET</a> bắt đầu từ phiên bản 23.2 cho dự án của bạn;
+</li>
+<li>
+Triển khai tự động hóa lấy mẫu xuống hoặc lấy mẫu lên hình ảnh bắt buộc bằng cách sử dụng một hoặc một số <a href="https://reference.aspose.com/imaging/net/aspose.imaging/resizetype/">thuật toán thay đổi kích thước</a> được hỗ trợ
+</li>
+<li>
+Sử dụng giấy phép đã mua để <a href="https://docs.aspose.com/imaging/net/licensing/">đặt giấy phép</a>.
+</li>
+</ul>
+<i><b>Nền tảng .NET nào được hỗ trợ?</b></i> <br/>
+Cấp phép thay đổi kích thước hình ảnh hoạt động cho NETStandard2.0 và các nền tảng .NET cao hơn;<br/>
+<i><b>Điều gì xảy ra khi các mục nhập API không được cấp phép theo giấy phép thay đổi kích thước đã mua được sử dụng?</b></i><br/>
+Chế độ dùng thử được sử dụng trong trường hợp này.<br/>
+<i><b>Tôi có thể tìm mục nhập API nào phù hợp với giấy phép thay đổi kích thước hình ảnh của mình ở đâu?</b></i><br/>
+Vui lòng xem lại các đoạn mã có sẵn trên các trang con để hiểu rõ vấn đề.<br/>
+<i><b>Có bản trình diễn trực tiếp để xem nó hoạt động như thế nào không?</b></i><br/>
+Có <a href="https://products.aspose.app/imaging/vi/image-resize/">Aspose.Imaging Ứng dụng thay đổi kích thước hình ảnh</a> mà bạn có thể dùng thử trước khi mua giấy phép thay đổi kích thước. <br/>
+<i><b>Có giấy phép mô-đun nào khác không?</b></i><br/>
+Có, các giấy phép mô-đun sau hiện có sẵn:<br/>
+<ul>
+<li>
+<a href="https://products.aspose.com/imaging/vi/net/conversion/">Chuyển đổi Aspose.Imaging</a> - cho phép chuyển đổi hình ảnh đầu vào của bạn sang định dạng hình ảnh được hỗ trợ khác theo bạn cần;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/vi/net/merge/">Hợp nhất hình ảnh Aspose.Imaging</a> - cho phép soạn anbom nhiều trang từ một số hình ảnh đầu vào;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/vi/net/merge/">Album hình ảnh Aspose.Imaging</a> - tận dụng việc soạn các anbom nhiều trang từ tập hợp các hình ảnh đầu vào.
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/vi/net/crop/">Aspose.Imaging Image Crop</a> - cho phép cắt một phần hình ảnh cần thiết và lưu kết quả vào định dạng mong muốn.
+</li>
+</ul>
+<i><b>Có cơ hội tương tự cho các sản phẩm Aspose khác không?</b></i><br/>
+Có, có các cơ hội cấp phép theo mô-đun sẵn có khác tại <a href="https://aspose.market">https://aspose.market</a>.

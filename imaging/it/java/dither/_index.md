@@ -28,3 +28,5 @@ Elenco completo delle operazioni Dithering supportate per formati immagine:
     </div>
 </div>
 <br/>
+
+

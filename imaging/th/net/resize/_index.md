@@ -28,3 +28,47 @@ description: เมื่อใช้ Aspose.Imaging คุณสามารถ
     </div>
 </div>
 <br/>
+
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET ปรับขนาดสิทธิ์ใช้งานเท่านั้น" %}}
+คุณกังวลเกี่ยวกับการปรับขนาดภาพเท่านั้นหรือไม่? Aspose.Imaging Resize การให้สิทธิ์ใช้งานอาจช่วยให้คุณปรับใช้การปรับขนาดที่จำเป็นทางโปรแกรมโดยไม่จำเป็นต้องให้สิทธิ์การใช้งานฟีเจอร์อื่นๆ ของผลิตภัณฑ์ <br/>
+<i><b>เพื่อให้เป็นจริง คุณอาจ:</b></i>
+<ul>
+<li>
+ซื้อใบอนุญาตที่เหมาะสมได้ที่ <a href="https://purchase.aspose.market/">https://purchase.aspose.market/</a>
+</li>
+<li>
+เพิ่ม <a href="https://www.nuget.org/packages/Aspose.Imaging">การอ้างอิง nuget ไปยัง Aspose.Imaging .NET</a> โดยเริ่มจากเวอร์ชัน 23.2 ให้กับโปรเจ็กต์ของคุณ
+</li>
+<li>
+ใช้การสุ่มตัวอย่างลงหรือเพิ่มการสุ่มตัวอย่างอัตโนมัติที่จำเป็นโดยใช้อย่างน้อยหนึ่งรายการจาก<a href="https://reference.aspose.com/imaging/net/aspose.imaging/resizetype/">อัลกอริทึมปรับขนาด</a>ที่รองรับ
+</li>
+<li>
+ใช้ใบอนุญาตที่ซื้อมาเพื่อ<a href="https://docs.aspose.com/imaging/net/licensing/">ตั้งค่าใบอนุญาต</a>
+</li>
+</ul>
+<i><b>แพลตฟอร์ม .NET ใดบ้างที่รองรับ</b></i><br/>
+สิทธิ์การใช้งานการปรับขนาดภาพใช้งานได้กับ NETStandard2.0 และแพลตฟอร์ม .NET ที่สูงกว่า<br/>
+<i><b>จะเกิดอะไรขึ้นเมื่อใช้รายการ API ซึ่งไม่ได้รับอนุญาตภายใต้ใบอนุญาตการปรับขนาดที่ซื้อมา</b></i><br/>
+ในกรณีนี้จะใช้โหมดทดลองใช้งาน<br/>
+<i><b>ฉันจะค้นหารายการ API ใดที่เหมาะกับใบอนุญาตปรับขนาดภาพของฉันได้ที่ไหน</b></i><br/>
+โปรดตรวจสอบข้อมูลโค้ดที่มีในหน้ารองเพื่อทำความเข้าใจ<br/>
+<i><b>มีการสาธิตสดเพื่อดูวิธีการทำงานหรือไม่</b></i><br/>
+มี <a href="https://products.aspose.app/imaging/th/image-resize/">Aspose.Imaging แอปพลิเคชันปรับขนาดรูปภาพ</a> ซึ่งคุณอาจลองใช้ก่อนซื้อใบอนุญาตปรับขนาด <br/>
+<i><b>มีใบอนุญาตแบบแยกส่วนอื่นๆ หรือไม่</b></i><br/>
+ใช่ ใบอนุญาตโมดูลาร์ต่อไปนี้พร้อมใช้งานแล้วในขณะนี้:<br/>
+<ul>
+<li>
+<a href="https://products.aspose.com/imaging/th/net/conversion/">การแปลง Aspose.Imaging</a> - อนุญาตให้แปลงรูปภาพอินพุตของคุณเป็นรูปแบบรูปภาพอื่นที่รองรับตาม ความต้องการของคุณ
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/th/net/merge/">Aspose.Imaging Image Merge</a> - อนุญาตให้สร้างอัลบั้มหลายหน้าจากภาพที่ป้อนเข้าหลายภาพ
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/th/net/merge/">อัลบั้มรูปภาพ Aspose.Imaging</a> - ใช้ประโยชน์จากการสร้างอัลบั้มหลายหน้าจากชุดรูปภาพที่ป้อน
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/th/net/crop/">ครอบตัดรูปภาพ Aspose.Imaging</a> - อนุญาตให้ครอบตัดส่วนที่ต้องการของรูปภาพและบันทึกผลลัพธ์ใน รูปแบบที่ต้องการ
+</li>
+</ul>
+<i><b>มีโอกาสเหมือนกันสำหรับผลิตภัณฑ์ Aspose อื่นๆ หรือไม่</b></i><br/>
+ใช่ มีโอกาสในการออกใบอนุญาตแบบโมดูลาร์อื่นๆ ที่ <a href="https://aspose.market">https://aspose.market</a>

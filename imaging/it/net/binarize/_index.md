@@ -28,3 +28,5 @@ Elenco completo delle operazioni Binarizzare supportate per formati immagine:
     </div>
 </div>
 <br/>
+
+

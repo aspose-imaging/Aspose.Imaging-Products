@@ -28,3 +28,5 @@ Pełna lista obsługiwanych operacji Zobacz obrazek według formatów obrazu:
     </div>
 </div>
 <br/>
+
+

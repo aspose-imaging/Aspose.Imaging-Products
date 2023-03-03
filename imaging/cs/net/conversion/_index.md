@@ -231,5 +231,52 @@ Níže je uveden úplný seznam obrazových formátů, ze kterých můžete pře
         </div>
     </div>
 </div>
+
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET Image převádí pouze licencování" %}}
+
+Přečtěte si prosím toto téma, pokud potřebujete koupit a používat pouze funkci <a href="https://en.wikipedia.org/wiki/Image_conversion">převod obrázků</a>.<br/>
+<i><b>Jak nakupovat a používat pouze funkci konverze?</b></i>
+<ul>
+<li>
+Koupit příslušnou licenci prostřednictvím <a href="https://purchase.aspose.market/">https://purchase.aspose.market/</a>
+</li>
+<li>
+Přidejte <a href="https://www.nuget.org/packages/Aspose.Imaging">nuget odkaz na Aspose.Imaging .NET</a> počínaje verzí 23.2 do svého projektu;
+</li>
+<li>
+Implementujte převod z nebo do požadovaného formátu obrázku ze <a href="https://docs.aspose.com/imaging/net/supported-file-formats/">seznamu podporovaných formátů Aspose.Imaging</a> pomocí příklady konverzí z této a podřízené stránky;
+</li>
+<li>
+Použijte zakoupenou licenci k <a href="https://docs.aspose.com/imaging/net/licensing/">nastavení licence</a>.
+</li>
+</ul>
+<i><b>Které platformy jsou podporovány?</b></i> <br/>
+NETStandard2.0 a vyšší platformy .NET jsou vhodné pro licencování konverzí;<br/>
+<i><b>Co se stane, když použiji položky API, které nejsou licencovány v rámci zakoupené konverzní licence?</b></i><br/>
+Knihovna bude fungovat ve zkušebním režimu.<br/>
+<i><b>Jak mohu vědět, které položky API jsou vhodné pro mou licenci pro převod?</b></i><br/>
+Přečtěte si prosím úryvky kódu na této a podřízené stránce.<br/>
+<i><b>Nejsem si jistý, zda potřebuji licenci na konverzi. Mohu vidět živou ukázku?</b></i><br/>
+Jistě, zkuste <a href="https://products.aspose.app/imaging/cs/conversion/">Aplikaci pro konverzi Aspose.Imaging</a>.<br/>
+<i><b>Mohu zakoupit a používat další modulární licence?</b></i><br/>
+Jistě si můžete zakoupit a používat další dostupné modulární licence:<br/>
+<ul>
+<li>
+<a href="https://products.aspose.com/imaging/cs/net/merge/">Sloučení obrázků Aspose.Imaging</a> – umožňuje vytvořit koláž obrázků z několika vstupních obrázků;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/cs/net/merge/">Album obrázků Aspose.Imaging</a> – umožňuje sestavit vícestránkové album z několika vstupních obrázků;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/cs/net/resize/">Aspose.Imaging Image Resize</a> – umožňuje změnit velikost obrázku a přizpůsobit požadované rozměry pomocí podporovaných algoritmů pro změnu velikosti . Svůj obrázek můžete také ochutnat dolů nebo nahoru.
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/cs/net/crop/">Aspose.Imaging Image Crop</a> – umožňuje oříznout požadovanou část obrázku a uložit výsledek do požadovaný formát.
+</li>
+</ul>
+<i><b>Mohu používat další produkty Aspose stejným způsobem?</b></i><br/>
+Dostupné modulární možnosti licencování určitě najdete na <a href="https://aspose.market">https://aspose.market</a>.
+
+
 <br/>
 

@@ -28,3 +28,5 @@ Volledige lijst met ondersteunde Binariseren-bewerkingen per afbeeldingsindeling
     </div>
 </div>
 <br/>
+
+

@@ -28,3 +28,5 @@ Pełna lista obsługiwanych operacji Kompresja według formatów obrazu:
     </div>
 </div>
 <br/>
+
+

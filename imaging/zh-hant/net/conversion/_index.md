@@ -231,5 +231,52 @@ SVG的轉換過程是一樣的，加載SVG文件，使用相關的圖片保存�
         </div>
     </div>
 </div>
+
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET Image convert only 許可" %}}
+
+如果您只需要購買和使用<a href="https://en.wikipedia.org/wiki/Image_conversion">圖像轉換</a>功能，請閱讀本主題。<br/>
+<i><b>如何只購買和使用轉換功能？</b></i>
+<ul>
+<李>
+通過 <a href="https://purchase.aspose.market/">https://purchase.aspose.market/</a> 購買適當的許可證
+</li>
+<李>
+將 <a href="https://www.nuget.org/packages/Aspose.Imaging">nuget reference to Aspose.Imaging .NET</a> 從 v23.2 開始添加到您的項目中；
+</li>
+<李>
+使用 <a href="https://docs.aspose.com/imaging/net/supported-file-formats/">Aspose.Imaging 格式支持列表</a>實現所需圖像格式的轉換此頁面和子頁面的轉換示例；
+</li>
+<李>
+使用購買的許可證<a href="https://docs.aspose.com/imaging/net/licensing/">設置許可證</a>。
+</li>
+</ul>
+<i><b>支持哪些平台？</b></i> <br/>
+NETStandard2.0及更高版本.NET平台適合轉換授權；<br/>
+<i><b>如果我使用未根據購買的轉換許可獲得許可的 API 條目，會發生什麼情況？</b></i><br/>
+該庫將在試用模式下工作。<br/>
+<i><b>我怎麼知道哪些 API 條目適合我的轉換許可證？</b></i><br/>
+請了解此頁面和子頁面上的代碼片段。<br/>
+<i><b>我不確定我是否需要轉換許可證。我可以觀看現場演示嗎？</b></i><br/>
+當然，請嘗試 <a href="https://products.aspose.app/imaging/zh-hant/conversion/">Aspose.Imaging 轉換應用程序</a>。<br/>
+<i><b>我可以購買和使用其他模塊化許可證嗎？</b></i><br/>
+當然，您可以購買和使用其他可用的模塊化許可證：<br/>
+<ul>
+<李>
+<a href="https://products.aspose.com/imaging/zh-hant/net/merge/">Aspose.Imaging Image merge</a> - 允許從多個輸入圖像創建圖像拼貼；
+</li>
+<李>
+<a href="https://products.aspose.com/imaging/zh-hant/net/merge/">Aspose.Imaging Image Album</a> - 允許從多個輸入圖像組成多頁相冊；
+</li>
+<李>
+<a href="https://products.aspose.com/imaging/zh-hant/net/resize/">Aspose.Imaging Image Resize</a> - 允許調整圖像大小，使用支持的調整大小算法調整所需尺寸.您也可以對圖像進行降採樣或升採樣。
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/zh-hant/net/crop/">Aspose.Imaging Image Crop</a> - 允許裁剪圖像的所需部分並將結果保存在所需的格式。
+</li>
+</ul>
+<i><b>我可以用同樣的方式使用其他 Aspose 產品嗎？</b></i><br/>
+請務必檢查 <a href="https://aspose.market">https://aspose.market</a> 以獲得可用的模塊化許可功能。
+
+
 <br/>
 

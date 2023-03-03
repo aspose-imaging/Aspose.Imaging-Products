@@ -231,5 +231,52 @@ SVG の変換プロセスは同じです。SVG ファイルを読み込み、関
         </div>
     </div>
 </div>
+
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET イメージ変換のみのライセンス" %}}
+
+<a href="https://en.wikipedia.org/wiki/Image_conversion">画像変換</a>機能のみを購入して使用する必要がある場合は、このトピックをお読みください。<br/>
+<i><b>変換機能のみを購入して使用する方法</b></i>
+<ul>
+<リ>
+<a href="https://purchase.aspose.market/">https://purchase.aspose.market/</a> から適切なライセンスを購入します
+</li>
+<リ>
+v23.2 以降の <a href="https://www.nuget.org/packages/Aspose.Imaging">Aspose.Imaging .NET への nuget 参照</a> をプロジェクトに追加します。
+</li>
+<リ>
+<a href="https://docs.aspose.com/imaging/net/supported-file-formats/">Aspose.Imaging でサポートされているフォーマットのリスト</a>から、目的のイメージ フォーマットへの変換を実装します。このページと子ページからの変換例。
+</li>
+<リ>
+購入したライセンスを使用して<a href="https://docs.aspose.com/imaging/net/licensing/">ライセンスを設定</a>します。
+</li>
+</ul>
+<i><b>サポートされているプラ​​ットフォームは?</b></i> <br/>
+NETStandard2.0 以降の .NET プラットフォームは、変換ライセンスに適しています。<br/>
+<i><b>購入した変換ライセンスでライセンスされていない API エントリを使用するとどうなりますか?</b></i><br/>
+ライブラリは試用モードで動作します。<br/>
+<i><b>変換ライセンスに適した API エントリを確認するにはどうすればよいですか?</b></i><br/>
+このページと子ページのコード スニペットを学習してください。<br/>
+<i><b>変換ライセンスが必要かどうかわかりません。ライブデモを見ることはできますか?</b></i><br/>
+<a href="https://products.aspose.app/imaging/ja/conversion/">Aspose.Imaging 変換アプリケーション</a>をお試しください。<br/>
+<i><b>他のモジュラー ライセンスを購入して使用できますか?</b></i><br/>
+もちろん、他の利用可能なモジュラー ライセンスを購入して使用することもできます:<br/>
+<ul>
+<リ>
+<a href="https://products.aspose.com/imaging/ja/net/merge/">Aspose.Imaging イメージ マージ</a> - 複数の入力イメージからイメージ コラージュを作成できます。
+</li>
+<リ>
+<a href="https://products.aspose.com/imaging/ja/net/merge/">Aspose.Imaging イメージ アルバム</a> - 複数の入力イメージから複数ページのアルバムを作成できます。
+</li>
+<リ>
+<a href="https://products.aspose.com/imaging/ja/net/resize/">Aspose.Imaging Image Resize</a> - サポートされているサイズ変更アルゴリズムを使用して、希望のサイズに合わせて画像のサイズを変更できます.画像をダウンサンプリングまたはアップサンプリングすることもできます。
+</li>
+<リ>
+<a href="https://products.aspose.com/imaging/ja/net/crop/">Aspose.Imaging Image Crop</a> - イメージの必要な部分をトリミングし、結果を必要な形式。
+</li>
+</ul>
+<i><b>他の Aspose 製品を同じように使用できますか?</b></i><br/>
+利用可能なモジュラー ライセンス機能については、<a href="https://aspose.market">https://aspose.market</a> を確認してください。
+
+
 <br/>
 

@@ -28,3 +28,5 @@ Pełna lista obsługiwanych operacji Zmień rozmiar według formatów obrazu:
     </div>
 </div>
 <br/>
+
+

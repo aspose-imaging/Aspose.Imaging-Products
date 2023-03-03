@@ -28,3 +28,45 @@ Daftar lengkap operasi Tanaman yang didukung menurut format gambar:
     </div>
 </div>
 <br/>
+
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET hanya memotong lisensi" %}}
+Jika Anda perlu memotong gambar Anda sebagai satu-satunya fitur yang dipilih, lisensi Pangkas Aspose.Imaging mungkin sesuai dengan kebutuhan Anda. <br/>
+<i><b>Bagaimana Anda bisa mencapainya?</b></i>
+<ul>
+<li>
+Beli lisensi yang sesuai di <a href="https://purchase.aspose.market/">https://purchase.aspose.market/</a>
+</li>
+<li>
+Tambahkan <a href="https://www.nuget.org/packages/Aspose.Imaging">referensi nuget ke Aspose.Imaging .NET</a> mulai dari v23.2 ke proyek Anda;
+</li>
+<li>
+Terapkan otomatisasi pemotongan gambar yang diperlukan;
+</li>
+<li>
+Lisensi crop harus digunakan untuk <a href="https://docs.aspose.com/imaging/net/licensing/">menyetel lisensi</a>.
+</li>
+</ul>
+<i><b>Platform .NET mana yang didukung?</b></i> <br/>
+NETStandard2.0 dan platform .NET yang lebih tinggi didukung untuk lisensi Pangkas Aspose.Imaging.<br/>
+<i><b>Jika saya menggunakan entri API yang tidak berlisensi, apa yang terjadi?</b></i><br/>
+Mode uji coba akan muncul dalam kasus tersebut.<br/>
+<i><b>Dapatkah Anda menunjukkan cara kerjanya?</b></i><br/>
+Silakan coba <a href="https://products.aspose.app/imaging/id/image-crop/">Aplikasi potong gambar Aspose.Imaging</a> , untuk melihat cara kerjanya.<br/>
+<i><b>Dapatkah Anda memberikan lisensi modular untuk fitur lain?</b></i><br/>
+Ya, lisensi modular berikut tersedia:<br/>
+<ul>
+<li>
+<a href="https://products.aspose.com/imaging/id/net/conversion/">Konversi Aspose.Imaging</a> - memungkinkan untuk mengubah gambar input Anda ke format gambar lain yang didukung sesuai kebutuhanmu;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/id/net/merge/">Aspose.Imaging Image Merge</a> - memungkinkan untuk membuat album multi halaman dari beberapa gambar masukan;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/id/net/merge/">Album Gambar Aspose.Imaging</a> - manfaatkan pembuatan album multi halaman dari kumpulan gambar masukan.
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/id/net/resize/">Aspose.Imaging Ubah Ukuran Gambar</a> - memungkinkan untuk mengubah ukuran gambar Anda, menyesuaikan dimensi yang diinginkan menggunakan <a yang didukung href="https://reference.aspose.com/imaging/net/aspose.imaging/resizetype/">mengubah ukuran algoritme</a>. Anda juga dapat mengambil sampel atau menaikkan sampel gambar Anda.
+</li>
+</ul>
+<i><b>Apakah ada peluang yang sama untuk produk Aspose lainnya?</b></i><br/>
+Ya, ada peluang pemberian lisensi modular lain yang tersedia di <a href="https://aspose.market">https://aspose.market</a>.

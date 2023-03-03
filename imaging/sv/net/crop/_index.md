@@ -28,3 +28,45 @@ Fullständig lista över Beskära-operationer som stöds efter bildformat:
     </div>
 </div>
 <br/>
+
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET beskär endast licensiering" %}}
+Om du behöver beskära dina bilder som en utvald funktion, kan Aspose.Imaging Crop-licensering passa dina behov. <br/>
+<i><b>Hur kan du uppnå det?</b></i>
+<ul>
+<li>
+Köp den tillämpliga licensen på <a href="https://purchase.aspose.market/">https://purchase.aspose.market/</a>
+</li>
+<li>
+Lägg till <a href="https://www.nuget.org/packages/Aspose.Imaging">nuget-referens till Aspose.Imaging .NET</a> från v23.2 till ditt projekt;
+</li>
+<li>
+Implementera nödvändig bildbeskärningsautomatisering;
+</li>
+<li>
+Beskärningslicens bör användas för att <a href="https://docs.aspose.com/imaging/net/licensing/">ställa in licensen</a>.
+</li>
+</ul>
+<i><b>Vilka .NET-plattformar stöds?</b></i> <br/>
+NETStandard2.0 och högre .NET-plattformar stöds för Aspose.Imaging Crop-licensiering.<br/>
+<i><b>Vad händer om jag använder API-poster som inte är licensierade?</b></i><br/>
+Provläget visas i sådana fall.<br/>
+<i><b>Kan du visa mig hur det fungerar?</b></i><br/>
+Testa <a href="https://products.aspose.app/imaging/sv/image-crop/">Aspose.Imaging Image Crop-applikation</a> för att se hur det fungerar.<br/>
+<i><b>Kan du tillhandahålla modulära licenser för andra funktioner?</b></i><br/>
+Ja, följande modulära licenser är tillgängliga:<br/>
+<ul>
+<li>
+<a href="https://products.aspose.com/imaging/sv/net/conversion/">Aspose.Imaging Conversion</a> - gör det möjligt att omvandla din indatabild till ett annat bildformat som stöds enligt dina behov;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/sv/net/merge/">Aspose.Imaging Image Merge</a> - gör det möjligt att komponera flersidigt album från flera ingående bilder;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/sv/net/merge/">Aspose.Imaging-bildalbum</a> – dra fördel av att komponera flersidiga album från en uppsättning ingående bilder.
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/sv/net/resize/">Aspose.Imaging Image Resize</a> – gör det möjligt att ändra storlek på din bild, anpassa önskade dimensioner med <a som stöds href="https://reference.aspose.com/imaging/net/aspose.imaging/resizetype/">algoritmer för att ändra storlek</a>. Du kan även prova ned eller upp för din bild.
+</li>
+</ul>
+<i><b>Finns det samma möjlighet för andra Aspose-produkter?</b></i><br/>
+Ja, det finns andra tillgängliga modulära licensieringsmöjligheter på <a href="https://aspose.market">https://aspose.market</a>.

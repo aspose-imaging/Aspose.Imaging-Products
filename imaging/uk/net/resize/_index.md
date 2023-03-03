@@ -28,3 +28,47 @@ description: Використовуючи Aspose.Imaging, ви можете ле
     </div>
 </div>
 <br/>
+
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET Image Resize плагін тільки для зміни розміру зображення" %}}
+Вас хвилює лише зміна розміру зображення? Ліцензування Aspose.Imaging Image Resize може допомогти вам реалізувати необхідну зміну розміру програмним шляхом без необхідності ліцензування інших функцій продукту. <br/>
+<i><b>Щоб зробити це реальним, ви можете:</b></i>
+<ul>
+<li>
+Придбати відповідну ліцензію на <a href="https://purchase.aspose.market/">https://purchase.aspose.market/</a>
+</li>
+<li>
+Додати до свого проекту <a href="https://www.nuget.org/packages/Aspose.Imaging">посилання на nuget на Aspose.Imaging .NET</a>, починаючи з версії 23.2;
+</li>
+<li>
+Застосувати необхідну автоматичну дискретизацію зображення із зменшенням або збільшенням за допомогою одного або кількох із підтримуваних <a href="https://reference.aspose.com/imaging/net/aspose.imaging/resizetype/">алгоритмів зміни розміру</a>
+</li>
+<li>
+Використати придбану ліцензію, щоб <a href="https://docs.aspose.com/imaging/net/licensing/">налаштувати ліцензію</a> в коді.
+</li>
+</ul>
+<i><b>Які платформи .NET підтримуються?</b></i> <br/>
+Ліцензування Aspose.Imaging .NET Image Resize для зміни розміру зображення працює для NETStandard 2.0 і вище;<br/>
+<i><b>Що очікується, коли використовуються точки входу API, які не ліцензовані відповідно до придбаної ліцензії на Aspose.Imaging .NET Image Resize?</b></i><br/>
+У цьому випадку використовується trial режим.<br/>
+<i><b>Де я можу знайти, які точки API підходять для моєї ліцензії на Aspose.Imaging .NET Image Resize?</b></i><br/>
+Перегляньте фрагменти коду, доступні на дочірніх сторінках, щоб зрозуміти суть.<br/>
+<i><b>Чи є демо-версія, щоб побачити, як це працює?</b></i><br/>
+Існує <a href="https://products.aspose.app/imaging/uk/image-resize/">додаток для зміни розміру зображення Aspose.Imaging</a>, який ви можете спробувати, перш ніж придбати ліцензію на зміну розміру. <br/>
+<i><b>Чи існують інші модульні ліцензії?</b></i><br/>
+Так, наразі доступні наступні модульні ліцензії:<br/>
+<ul>
+<li>
+<a href="https://products.aspose.com/imaging/uk/net/conversion/">Aspose.Imaging Conversion</a> – дозволяє перетворити вхідне зображення в інший підтримуваний формат зображення відповідно до ваших потреби;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/uk/net/merge/">Aspose.Imaging Image Merge</a> - дозволяє створити багатосторінковий альбом із кількох вхідних зображень;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/uk/net/merge/">Aspose.Imaging Image Album</a> – скористайтеся перевагами створення багатосторінкових альбомів із набору вхідних зображень.
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/uk/net/crop/">Aspose.Imaging Image Crop</a> – дозволяє обрізати необхідну частину зображення та зберегти результат у бажаний формат.
+</li>
+</ul>
+<i><b>Чи є такі ж можливості для інших продуктів Aspose?</b></i><br/>
+Так, доступні інші можливості модульного ліцензування на <a href="https://aspose.market">https://aspose.market</a>.

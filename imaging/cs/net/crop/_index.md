@@ -28,3 +28,45 @@ Pomocí Aspose.Imaging můžete snadno použít **Oříznutí** pro různé form
     </div>
 </div>
 <br/>
+
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET oříznout pouze licencování" %}}
+V případě, že potřebujete oříznout obrázky jako jedinou vybranou funkci, může licencování Aspose.Imaging Crop vyhovovat vašim potřebám. <br/>
+<i><b>Jak toho můžete dosáhnout?</b></i>
+<ul>
+<li>
+Kupte si příslušnou licenci na <a href="https://purchase.aspose.market/">https://purchase.aspose.market/</a>
+</li>
+<li>
+Přidejte <a href="https://www.nuget.org/packages/Aspose.Imaging">nuget odkaz na Aspose.Imaging .NET</a> počínaje verzí 23.2 do svého projektu;
+</li>
+<li>
+Implementujte požadovanou automatizaci oříznutí obrázku;
+</li>
+<li>
+K <a href="https://docs.aspose.com/imaging/net/licensing/">nastavení licence</a> by měla být použita oříznutá licence.
+</li>
+</ul>
+<i><b>Které platformy .NET jsou podporovány?</b></i> <br/>
+Pro licencování Aspose.Imaging Crop jsou podporovány platformy NETStandard2.0 a vyšší .NET.<br/>
+<i><b>Co se stane v případě, že použiji nelicencované položky API?</b></i><br/>
+V takovém případě se objeví zkušební režim.<br/>
+<i><b>Můžete mi ukázat, jak to funguje?</b></i><br/>
+Vyzkoušejte prosím <a href="https://products.aspose.app/imaging/cs/image-crop/">aplikaci pro oříznutí obrázku Aspose.Imaging</a>, abyste viděli, jak to funguje.<br/>
+<i><b>Můžete poskytnout modulární licence pro další funkce?</b></i><br/>
+Ano, jsou k dispozici následující modulární licence:<br/>
+<ul>
+<li>
+<a href="https://products.aspose.com/imaging/cs/net/conversion/">Aspose.Imaging Conversion</a> – umožňuje transformovat váš vstupní obrázek do jiného podporovaného formátu obrázku podle tvoje potřeby;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/cs/net/merge/">Aspose.Imaging Image Merge</a> – umožňuje sestavit vícestránkové album z několika vstupních obrázků;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/cs/net/merge/">Album obrázků Aspose.Imaging</a> – využijte možnosti skládání vícestránkových alb ze sady vstupních obrázků.
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/cs/net/resize/">Aspose.Imaging Image Resize</a> – umožňuje změnit velikost obrázku a přizpůsobit požadované rozměry pomocí podporovaných <a href="https://reference.aspose.com/imaging/net/aspose.imaging/resizetype/">algoritmy změny velikosti</a>. Svůj obrázek můžete také ochutnat dolů nebo nahoru.
+</li>
+</ul>
+<i><b>Existuje stejná příležitost pro další produkty Aspose?</b></i><br/>
+Ano, na adrese <a href="https://aspose.market">https://aspose.market</a> jsou k dispozici další možnosti modulárního licencování.

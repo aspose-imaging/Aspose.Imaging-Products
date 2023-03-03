@@ -28,3 +28,5 @@ Pomocí Aspose.Imaging můžete snadno použít **Odstraňte pozadí** pro různ
     </div>
 </div>
 <br/>
+
+

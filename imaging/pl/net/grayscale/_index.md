@@ -28,3 +28,5 @@ Pełna lista obsługiwanych operacji Skala szarości według formatów obrazu:
     </div>
 </div>
 <br/>
+
+

@@ -28,3 +28,5 @@ Pełna lista obsługiwanych operacji Dygotać według formatów obrazu:
     </div>
 </div>
 <br/>
+
+

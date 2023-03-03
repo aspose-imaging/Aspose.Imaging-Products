@@ -28,3 +28,47 @@ Aspose.Imaging を使用すると、さまざまな画像フォーマットに *
     </div>
 </div>
 <br/>
+
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET のサイズ変更のみのライセンス" %}}
+画像のサイズ変更のみに関心がありますか? Aspose.Imaging Resize ライセンスは、製品の他の機能のライセンスを取得する必要なく、必要なサイズ変更をプログラムで実装するのに役立ちます。 <br/>
+<i><b>実現するには:</b></i>
+<ul>
+<リ>
+<a href="https://purchase.aspose.market/">https://purchase.aspose.market/</a> で適切なライセンスを購入します。
+</li>
+<リ>
+v23.2 以降の <a href="https://www.nuget.org/packages/Aspose.Imaging">Aspose.Imaging .NET への nuget 参照</a> をプロジェクトに追加します。
+</li>
+<リ>
+サポートされている <a href="https://reference.aspose.com/imaging/net/aspose.imaging/resizetype/">サイズ変更アルゴリズム</a> から 1 つまたは複数を使用して、必要な画像のダウン サンプリングまたはアップ サンプリングの自動化を実装します。
+</li>
+<リ>
+購入したライセンスを使用して<a href="https://docs.aspose.com/imaging/net/licensing/">ライセンスを設定</a>します。
+</li>
+</ul>
+<i><b>どの .NET プラットフォームがサポートされていますか?</b></i> <br/>
+画像サイズ変更ライセンスは、NETStandard2.0 以降の .NET プラットフォームで機能します。<br/>
+<i><b>購入したサイズ変更ライセンスでライセンスされていない API エントリが使用された場合、何が期待されますか?</b></i><br/>
+そんな時に使うのがトライアルモードです。<br/>
+<i><b>画像サイズ変更ライセンスに適した API エントリはどこにありますか?</b></i><br/>
+ポイントを理解するには、子ページで利用可能なコード スニペットを確認してください。<br/>
+<i><b>動作を確認するためのライブ デモはありますか?</b></i><br/>
+<a href="https://products.aspose.app/imaging/ja/image-resize/">Aspose.Imaging 画像サイズ変更アプリケーション</a> があり、サイズ変更ライセンスを購入する前に試すことができます。 <br/>
+<i><b>他のモジュラー ライセンスはありますか?</b></i><br/>
+はい。現在、次のモジュラー ライセンスを利用できます。<br/>
+<ul>
+<リ>
+<a href="https://products.aspose.com/imaging/ja/net/conversion/">Aspose.Imaging Conversion</a> - 入力画像を別のサポートされている画像形式に変換できます。あなたの要望;
+</li>
+<リ>
+<a href="https://products.aspose.com/imaging/ja/net/merge/">Aspose.Imaging Image Merge</a> - 複数の入力画像から複数ページのアルバムを構成できます。
+</li>
+<リ>
+<a href="https://products.aspose.com/imaging/ja/net/merge/">Aspose.Imaging Image Album</a> - 入力画像のセットから複数ページのアルバムを構成する利点を活用します。
+</li>
+<リ>
+<a href="https://products.aspose.com/imaging/ja/net/crop/">Aspose.Imaging Image Crop</a> - イメージの必要な部分をトリミングし、結果を必要な形式。
+</li>
+</ul>
+<i><b>他の Aspose 製品にも同様の機会はありますか?</b></i><br/>
+はい、<a href="https://aspose.market">https://aspose.market</a> で、他の利用可能なモジュラー ライセンスの機会があります。

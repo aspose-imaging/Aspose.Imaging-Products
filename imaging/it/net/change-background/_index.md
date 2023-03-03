@@ -28,3 +28,5 @@ Elenco completo delle operazioni Cambia sfondo supportate per formati immagine:
     </div>
 </div>
 <br/>
+
+

@@ -28,3 +28,45 @@ description: באמצעות Aspose.Imaging תוכל בקלות יְבוּל תמ
     </div>
 </div>
 <br/>
+
+{{% blocks/products/pf/feature-page-section  h2="רישוי Aspose.Imaging .NET יבול בלבד" %}}
+במקרה שאתה צריך לחתוך את התמונות שלך כתכונה נבחרת בלבד, רישוי Aspose.Imaging Crop עשוי להתאים לצרכים שלך. <br/>
+<i><b>איך אתה יכול להשיג זאת?</b></i>
+<ul>
+<li>
+רכוש את הרישיון המתאים בכתובת <a href="https://purchase.aspose.market/">https://purchase.aspose.market/</a>
+</li>
+<li>
+הוסף <a href="https://www.nuget.org/packages/Aspose.Imaging">נוget הפניה ל-Aspose.Imaging .NET</a> החל מ-v23.2 לפרויקט שלך;
+</li>
+<li>
+יישום אוטומציה של חיתוך תמונה נדרשת;
+</li>
+<li>
+יש להשתמש ברישיון חיתוך כדי <a href="https://docs.aspose.com/imaging/net/licensing/">להגדיר את הרישיון</a>.
+</li>
+</ul>
+<i><b>אילו פלטפורמות NET נתמכות?</b></i> <br/>
+פלטפורמות NETStandard2.0 ומעלה נתמכות עבור רישוי Aspose.Imaging Crop.<br/>
+<i><b>במקרה שאני משתמש בערכי API לא מורשים, מה קורה?</b></i><br/>
+מצב הניסיון יופיע במקרה כזה.<br/>
+<i><b>האם אתה יכול להראות לי איך זה עובד?</b></i><br/>
+נסה את <a href="https://products.aspose.app/imaging/he/image-crop/">אפליקציית חיתוך תמונה של Aspose.Imaging</a> כדי לראות איך זה עובד.<br/>
+<i><b>האם אתה יכול לספק רישיונות מודולריים עבור תכונות אחרות?</b></i><br/>
+כן, הרישיונות המודולריים הבאים זמינים:<br/>
+<ul>
+<li>
+<a href="https://products.aspose.com/imaging/he/net/conversion/">Aspose.Imaging Conversion</a> - מאפשר להפוך את תמונת הקלט שלך לפורמט תמונה נתמך אחר לפי הצרכים שלך;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/he/net/merge/">Aspose.Imaging Image Merge</a> - מאפשר לחבר אלבום מרובה עמודים ממספר תמונות קלט;
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/he/net/merge/">Aspose.Imaging Image Album</a> - נצל את החיבור של אלבומים מרובי עמודים מתוך סט של תמונות קלט.
+</li>
+<li>
+<a href="https://products.aspose.com/imaging/he/net/resize/">Aspose.Imaging Image Resize</a> - מאפשר לשנות את גודל התמונה שלך, להתאים לממדים הרצויים באמצעות <a נתמך href="https://reference.aspose.com/imaging/net/aspose.imaging/resizetype/">אלגוריתמים לשינוי גודל</a>. אתה יכול להוריד את הדגימה או לדגום את התמונה שלך גם כן.
+</li>
+</ul>
+<i><b>האם יש את אותה הזדמנות עבור מוצרי Aspose אחרים?</b></i><br/>
+כן, יש הזדמנויות אחרות של רישוי מודולרי זמינות בכתובת <a href="https://aspose.market">https://aspose.market</a>.

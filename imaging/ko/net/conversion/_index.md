@@ -231,5 +231,52 @@ SVG의 변환 과정은 동일하며 SVG 파일을 로드하고 관련 이미지
         </div>
     </div>
 </div>
+
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET Image 변환 전용 라이선스" %}}
+
+<a href="https://en.wikipedia.org/wiki/Image_conversion">이미지 변환</a> 기능만 구입하고 사용해야 하는 경우 이 항목을 읽으십시오.<br/>
+<i><b>전환 기능만 구매하고 사용하는 방법</b></i>
+<ul>
+<리>
+<a href="https://purchase.aspose.market/">https://purchase.aspose.market/</a>을 통해 적절한 라이선스 구매
+</리>
+<리>
+v23.2부터 시작하여 <a href="https://www.nuget.org/packages/Aspose.Imaging">Aspose.Imaging .NET에 대한 nuget 참조</a>를 프로젝트에 추가합니다.
+</리>
+<리>
+다음을 사용하여 <a href="https://docs.aspose.com/imaging/net/supported-file-formats/">Aspose.Imaging 형식 지원 목록</a>에서 원하는 이미지 형식으로의 변환을 구현합니다. 이 페이지와 하위 페이지의 전환 예시
+</리>
+<리>
+구매한 라이선스를 사용하여 <a href="https://docs.aspose.com/imaging/net/licensing/">라이선스를 설정</a>하세요.
+</리>
+</ul>
+<i><b>어떤 플랫폼이 지원되나요?</b></i> <br/>
+NETStandard2.0 이상의 .NET 플랫폼은 전환 라이선스에 적합합니다.<br/>
+<i><b>구입한 변환 라이선스에 따라 라이선스가 부여되지 않은 API 항목을 사용하면 어떻게 됩니까?</b></i><br/>
+라이브러리는 평가판 모드에서 작동합니다.<br/>
+<i><b>어떤 API 항목이 내 변환 라이센스에 적합한지 어떻게 알 수 있습니까?</b></i><br/>
+이 페이지와 하위 페이지에서 코드 스니펫을 배우십시오.<br/>
+<i><b>전환 라이센스가 필요한지 잘 모르겠습니다. 라이브 데모를 볼 수 있습니까?</b></i><br/>
+물론입니다. <a href="https://products.aspose.app/imaging/ko/conversion/">Aspose.Imaging 변환 애플리케이션</a>을 사용해 보세요.<br/>
+<i><b>다른 모듈식 라이센스를 구입하여 사용할 수 있습니까?</b></i><br/>
+물론 사용 가능한 다른 모듈식 라이센스를 구매하고 사용할 수 있습니다.<br/>
+<ul>
+<리>
+<a href="https://products.aspose.com/imaging/ko/net/merge/">Aspose.Imaging 이미지 병합</a> - 여러 입력 이미지에서 이미지 콜라주를 만들 수 있습니다.
+</리>
+<리>
+<a href="https://products.aspose.com/imaging/ko/net/merge/">Aspose.Imaging 이미지 앨범</a> - 여러 입력 이미지에서 다중 페이지 앨범을 구성할 수 있습니다.
+</리>
+<리>
+<a href="https://products.aspose.com/imaging/ko/net/resize/">Aspose.Imaging 이미지 크기 조정</a> - 지원되는 크기 조정 알고리즘을 사용하여 원하는 치수에 맞게 이미지 크기를 조정할 수 있습니다. . 이미지를 다운샘플링하거나 업샘플링할 수도 있습니다.
+</리>
+<리>
+<a href="https://products.aspose.com/imaging/ko/net/crop/">Aspose.Imaging 이미지 자르기</a> - 이미지의 필요한 부분을 자르고 결과를 저장할 수 있습니다. 원하는 형식.
+</리>
+</ul>
+<i><b>다른 Aspose 제품도 같은 방법으로 사용할 수 있나요?</b></i><br/>
+<a href="https://aspose.market">https://aspose.market</a>에서 사용 가능한 모듈식 라이선스 기능을 확인하세요.
+
+
 <br/>
 
