@@ -236,7 +236,7 @@ description: Преобразование популярных форматов 
 
 Прочтите этот раздел, если вам нужно купить и использовать только функцию <a href="https://en.wikipedia.org/wiki/Image_conversion">преобразования изображений</a>.<br/>
 <i><b>Как купить и использовать только функцию конверсии?</b></i>
-<ул>
+<ul>
 <li>
 Купить соответствующую лицензию через <a href="https://purchase.aspose.market/">https://purchase.aspose.market/</a>
 </li>
@@ -260,7 +260,7 @@ description: Преобразование популярных форматов 
 Конечно, попробуйте <a href="https://products.aspose.app/imaging/ru/conversion/">приложение Aspose.Imaging Conversion</a>.<br/>
 <i><b>Могу ли я приобрести и использовать другие модульные лицензии?</b></i><br/>
 Конечно, вы можете приобрести и использовать другие доступные модульные лицензии:<br/>
-<ул>
+<ul>
 <li>
 <a href="https://products.aspose.com/imaging/ru/net/merge/">Aspose.Imaging Image merge</a> - позволяет создать коллаж из нескольких входных изображений;
 </li>

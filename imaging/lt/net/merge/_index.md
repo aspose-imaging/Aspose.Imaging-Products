@@ -74,7 +74,7 @@ Antriniuose puslapiuose yra atitinkamų kodo fragmentų, kuriuose galite rasti l
 Taip, <a href="https://aspose.market">https://aspose.market</a> yra ir kitų galimų modulinių licencijavimo pasiūlymų.
 
 <br/>
-{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET vaizdo albumo licencijavimas" %}}
+<h2>Aspose.Imaging .NET vaizdo albumo licencijavimas</h2>
 Ieškote galimybės programiškai sukurti vaizdų albumą (bukletą) iš savo vaizdų ar nuotraukų? Ši tema gali padėti pasiekti tikslą, perkant tik reikiamą funkciją.<br/>
 <i><b>Kaip galiu nusipirkti ir naudoti tik vaizdų albumo (bukleto) kūrimo funkciją?</b></i>
 <ul>

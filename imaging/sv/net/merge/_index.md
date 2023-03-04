@@ -74,7 +74,7 @@ Visst kan du köpa och använda andra tillgängliga modullicenser:<br/>
 Ja, det finns andra tillgängliga modulära licenserbjudanden på <a href="https://aspose.market">https://aspose.market</a>.
 
 <br/>
-{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET bildalbum endast licensiering" %}}
+<h2>Aspose.Imaging .NET bildalbum endast licensiering</h2>
 Letar du efter möjligheten att skapa bildalbumet (häftet) från dina bilder eller foton programmatiskt? Det här ämnet kan hjälpa dig att uppnå målet, endast köp som krävs.<br/>
 <i><b>Hur kan jag bara köpa och använda funktionen för att skapa bildalbum (häften)?</b></i>
 <ul>

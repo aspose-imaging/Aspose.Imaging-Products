@@ -74,7 +74,7 @@ Tentu Anda dapat membeli dan menggunakan lisensi modular lain yang tersedia:<br/
 Ya, ada penawaran lisensi modular lain yang tersedia di <a href="https://aspose.market">https://aspose.market</a>.
 
 <br/>
-{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET album gambar hanya lisensi" %}}
+<h2>Aspose.Imaging .NET album gambar hanya lisensi</h2>
 Mencari kemampuan untuk membuat album gambar (buklet) dari gambar atau foto Anda secara terprogram? Topik ini dapat membantu mencapai tujuan, hanya membeli fitur yang diperlukan.<br/>
 <i><b>Bagaimana cara membeli dan menggunakan fitur pembuatan album gambar (buklet) saja?</b></i>
 <ul>

@@ -74,7 +74,7 @@ Seguro que puede comprar y utilizar otras licencias modulares disponibles:<br/>
 Sí, hay otras ofertas de licencias modulares disponibles en <a href="https://aspose.market">https://aspose.market</a>.
 
 <br/>
-{{% blocks/products/pf/feature-page-section  h2="Licencias de solo álbum de imagen .NET de Aspose.Imaging" %}}
+<h2>Licencias de solo álbum de imagen .NET de Aspose.Imaging</h2>
 ¿Busca la capacidad de crear el álbum de imágenes (folleto) a partir de sus imágenes o fotos mediante programación? Este tema puede ayudar a lograr el objetivo, comprando solo la característica requerida.<br/>
 <i><b>¿Cómo puedo comprar y utilizar únicamente la función de creación de álbumes de imágenes (folletos)?</b></i>
 <ul>

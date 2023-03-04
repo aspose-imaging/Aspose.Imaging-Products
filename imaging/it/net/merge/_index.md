@@ -74,7 +74,7 @@ Sicuramente puoi acquistare e utilizzare altre licenze modulari disponibili:<br/
 Sì, sono disponibili altre offerte di licenze modulari su <a href="https://aspose.market">https://aspose.market</a>.
 
 <br/>
-{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET solo licenza per album di immagini" %}}
+<h2>Aspose.Imaging .NET solo licenza per album di immagini</h2>
 Cerchi la possibilità di creare l'album di immagini (opuscolo) dalle tue immagini o foto in modo programmatico? Questo argomento può aiutare a raggiungere l'obiettivo, acquistando solo le funzionalità richieste.<br/>
 <i><b>Come posso acquistare e utilizzare solo la funzione di creazione di album di immagini (opuscolo)?</b></i>
 <ul>

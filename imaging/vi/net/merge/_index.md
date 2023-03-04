@@ -74,7 +74,7 @@ Chắc chắn bạn có thể mua và sử dụng các giấy phép mô-đun có
 Có, có các ưu đãi cấp phép mô-đun sẵn có khác tại <a href="https://aspose.market">https://aspose.market</a>.
 
 <br/>
-{{% blocks/products/pf/feature-page-section  h2="Chỉ cấp phép cho album hình ảnh Aspose.Imaging .NET" %}}
+<h2>Chỉ cấp phép cho album hình ảnh Aspose.Imaging .NET</h2>
 Tìm kiếm khả năng tạo album hình ảnh (tập sách) từ hình ảnh hoặc ảnh của bạn theo chương trình? Chủ đề này có thể giúp đạt được mục tiêu, chỉ mua tính năng bắt buộc.<br/>
 <i><b>Làm cách nào để tôi chỉ có thể mua và sử dụng tính năng tạo album ảnh (tập sách)?</b></i>
 <ul>

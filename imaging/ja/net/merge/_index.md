@@ -74,7 +74,7 @@ Merge ライセンスは、NETStandard2.0 以降の .NET プラットフォー�
 はい、<a href="https://aspose.market">https://aspose.market</a> で他の利用可能なモジュラー ライセンス オファーがあります。
 
 <br/>
-{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET イメージ アルバムのみのライセンス" %}}
+<h2>Aspose.Imaging .NET イメージ アルバムのみのライセンス</h2>
 プログラムで画像や写真から画像アルバム (小冊子) を作成する機能をお探しですか?このトピックは、必要な機能のみを購入して、目標を達成するのに役立つ場合があります。<br/>
 <i><b>イメージ アルバム (ブックレット) 作成機能のみを購入して使用するにはどうすればよいですか?</b></i>
 <ul>

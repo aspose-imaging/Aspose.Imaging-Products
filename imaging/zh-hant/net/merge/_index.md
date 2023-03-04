@@ -74,7 +74,7 @@ NETStandard2.0 及更高版本的 .NET 平台支持合併許可；<br/>
 是的，<a href="https://aspose.market">https://aspose.market</a> 上還有其他可用的模塊化許可優惠。
 
 <br/>
-{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET 相冊唯一許可" %}}
+<h2>Aspose.Imaging .NET 相冊唯一許可</h2>
 尋找以編程方式從您的圖像或照片創建圖像相冊（小冊子）的能力？本主題可能有助於實現目標，僅購買所需的功能。<br/>
 <i><b>如何購買和使用僅畫冊（小冊子）製作功能？</b></i>
 <ul>
