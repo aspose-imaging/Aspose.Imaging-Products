@@ -30,6 +30,7 @@ Pomocí Aspose.Imaging můžete snadno použít **Oříznutí** pro různé form
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET oříznout pouze licencování" %}}
+<div style="font-size:16px;">
 V případě, že potřebujete oříznout obrázky jako jedinou vybranou funkci, může licencování Aspose.Imaging Crop vyhovovat vašim potřebám. <br/>
 <i><b>Jak toho můžete dosáhnout?</b></i>
 <ul>
@@ -70,3 +71,5 @@ Ano, jsou k dispozici následující modulární licence:<br/>
 </ul>
 <i><b>Existuje stejná příležitost pro další produkty Aspose?</b></i><br/>
 Ano, na adrese <a href="https://aspose.market">https://aspose.market</a> jsou k dispozici další možnosti modulárního licencování.
+</div>
+<br/>

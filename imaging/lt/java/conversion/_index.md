@@ -233,6 +233,7 @@ Tālāk ir parādīts pilns to attēlu formātu saraksts, kurus varat konvertēt
 </div>
 
 {{% blocks/products/pf/feature-page-section  h2="" %}}
+<div style="font-size:16px;">
 
-
-
+</div>
+<br/>

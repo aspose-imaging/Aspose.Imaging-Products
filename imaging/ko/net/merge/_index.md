@@ -30,6 +30,7 @@ Aspose.Imaging을 사용하면 다양한 이미지 형식에 **병합** 을(를)
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET 이미지 병합 전용 라이선스" %}}
+<div style="font-size:16px;">
 이 항목은 <b>이미지 병합</b> 기능만 구입하여 사용해야 하는 경우에 해당합니다. 여기서 이미지 병합은 여러 입력 이미지에서 단일 콜라주를 생성하는 것을 의미합니다. <br/>
 <i><b>병합 기능만 구입하고 사용하는 방법</b></i>
 <ul>
@@ -72,9 +73,12 @@ v23.2부터 시작하여 <a href="https://www.nuget.org/packages/Aspose.Imaging"
 </ul>
 <i><b>다른 Aspose 제품에도 동일한 기능이 있습니까?</b></i><br/>
 예, <a href="https://aspose.market">https://aspose.market</a>에서 사용 가능한 다른 모듈식 라이선스 제안이 있습니다.
+</div>
+<br/>
 
 <br/>
 <h2>Aspose.Imaging .NET 이미지 앨범 전용 라이선스</h2>
+<div style="font-size:16px;">
 프로그래밍 방식으로 이미지 또는 사진에서 이미지 앨범(소책자)을 만드는 기능을 찾고 계십니까? 이 항목은 필요한 기능만 구입하여 목표를 달성하는 데 도움이 될 수 있습니다.<br/>
 <i><b>이미지 앨범(소책자)만들기 기능만 구입해서 사용하려면 어떻게 해야 하나요?</b></i>
 <ul>
@@ -117,3 +121,5 @@ NETStandard2.0 이상의 .NET 플랫폼은 이미지 앨범 라이선스에 적�
 </ul>
 <i><b>다른 Aspose 제품에도 동일한 제안이 있습니까?</b></i><br/>
 예, <a href="https://aspose.market">https://aspose.market</a>에서 사용 가능한 모듈식 라이선스 기능에 대해 사용 가능한 다른 모듈식 라이선스 제안이 있습니다.
+</div>
+<br/>

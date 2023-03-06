@@ -233,6 +233,7 @@ Dưới đây là danh sách đầy đủ các định dạng hình ảnh mà b�
 </div>
 
 {{% blocks/products/pf/feature-page-section  h2="" %}}
+<div style="font-size:16px;">
 
-
-
+</div>
+<br/>

@@ -30,6 +30,7 @@ Visas palaikomų operacijų Sujungti sąrašas pagal vaizdo formatus:
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET vaizdas sujungti tik licencijas" %}}
+<div style="font-size:16px;">
 Ši tema skirta tik tuo atveju, kai reikia pirkti ir naudoti tik <b>vaizdo sujungimo</b> funkciją. Vaizdo sujungimas čia reiškia vieno koliažo sukūrimą iš kelių įvestų vaizdų; <br/>
 <i><b>Kaip nusipirkti ir naudoti tik sujungimo funkciją?</b></i>
 <ul>
@@ -72,9 +73,12 @@ Antriniuose puslapiuose yra atitinkamų kodo fragmentų, kuriuose galite rasti l
 </ul>
 <i><b>Ar yra kitų „Aspose“ produktų galimybių?</b></i><br/>
 Taip, <a href="https://aspose.market">https://aspose.market</a> yra ir kitų galimų modulinių licencijavimo pasiūlymų.
+</div>
+<br/>
 
 <br/>
 <h2>Aspose.Imaging .NET vaizdo albumo licencijavimas</h2>
+<div style="font-size:16px;">
 Ieškote galimybės programiškai sukurti vaizdų albumą (bukletą) iš savo vaizdų ar nuotraukų? Ši tema gali padėti pasiekti tikslą, perkant tik reikiamą funkciją.<br/>
 <i><b>Kaip galiu nusipirkti ir naudoti tik vaizdų albumo (bukleto) kūrimo funkciją?</b></i>
 <ul>
@@ -117,3 +121,5 @@ Tai galite rasti atitinkamuose kodo fragmentuose, esančiuose antriniuose puslap
 </ul>
 <i><b>Ar yra tokie patys pasiūlymai kitiems „Aspose“ produktams?</b></i><br/>
 Taip, yra kitų galimų modulinių licencijavimo pasiūlymų adresu <a href="https://aspose.market">https://aspose.market</a>, kad galėtumėte naudotis modulinėmis licencijavimo galimybėmis.
+</div>
+<br/>

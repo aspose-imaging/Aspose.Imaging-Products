@@ -30,6 +30,7 @@ Pełna lista obsługiwanych operacji Łączyć według formatów obrazu:
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET — tylko licencja na scalanie obrazów" %}}
+<div style="font-size:16px;">
 Ten temat dotyczy sytuacji, gdy potrzebujesz kupić i używać tylko funkcji <b>scalania obrazów</b>. Łączenie obrazów oznacza tutaj utworzenie pojedynczego kolażu z kilku obrazów wejściowych; <br/>
 <i><b>Jak kupić i używać samej funkcji scalania?</b></i>
 <ul>
@@ -72,9 +73,12 @@ Oczywiście możesz kupować i używać innych dostępnych licencji modułowych:
 </ul>
 <i><b>Czy inne produkty Aspose mają takie same możliwości?</b></i><br/>
 Tak, na <a href="https://aspose.market">https://aspose.market</a> dostępne są inne oferty licencjonowania modułowego.
+</div>
+<br/>
 
 <br/>
 <h2>Aspose.Imaging Tylko licencja na album obrazów .NET</h2>
+<div style="font-size:16px;">
 Szukasz możliwości programowego tworzenia albumu obrazów (książeczki) ze swoich obrazów lub zdjęć? Ten temat może pomóc w osiągnięciu celu, kupując tylko wymaganą funkcję.<br/>
 <i><b>Jak mogę kupić i korzystać tylko z funkcji tworzenia albumów (książek) ze zdjęciami?</b></i>
 <ul>
@@ -117,3 +121,5 @@ Jasne, że możesz przeglądać i kupować inne dostępne licencje modułowe:<br
 </ul>
 <i><b>Czy są takie same oferty dla innych produktów Aspose?</b></i><br/>
 Tak, na <a href="https://aspose.market">https://aspose.market</a> dostępne są inne oferty licencjonowania modułowego, które zawierają dostępne możliwości licencjonowania modułowego.
+</div>
+<br/>

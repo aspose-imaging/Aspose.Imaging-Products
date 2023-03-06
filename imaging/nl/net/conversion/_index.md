@@ -233,7 +233,7 @@ Hieronder vindt u een volledige lijst van de afbeeldingsindelingen waaruit u kun
 </div>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET Image convert only licentie" %}}
-
+<div style="font-size:16px;">
 Lees dit onderwerp als u alleen de functie <a href="https://en.wikipedia.org/wiki/Image_conversion">beeldconversie</a> wilt kopen en gebruiken.<br/>
 <i><b>Alleen de conversiefunctie kopen en gebruiken?</b></i>
 <ul>
@@ -279,4 +279,5 @@ Controleer zeker <a href="https://aspose.market">https://aspose.market</a> voor 
 
 
 <br/>
-
+</div>
+<br/>

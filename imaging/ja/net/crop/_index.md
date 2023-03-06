@@ -30,6 +30,7 @@ Aspose.Imaging を使用すると、さまざまな画像フォーマットに *
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET トリミングのみのライセンス" %}}
+<div style="font-size:16px;">
 選択した機能のみとしてイメージをトリミングする必要がある場合は、Aspose.Imaging Crop ライセンスが必要になる場合があります。 <br/>
 <i><b>どうすれば達成できますか?</b></i>
 <ul>
@@ -70,3 +71,5 @@ Aspose.Imaging Crop ライセンスでは、NETStandard2.0 以降の .NET プラ
 </ul>
 <i><b>他の Aspose 製品にも同様の機会はありますか?</b></i><br/>
 はい、<a href="https://aspose.market">https://aspose.market</a> で、他の利用可能なモジュラー ライセンスの機会があります。
+</div>
+<br/>

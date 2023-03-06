@@ -30,6 +30,7 @@ Lista completa de operaciones {nombre de operación} admitidas por formatos de i
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Licencias de cultivo de Aspose.Imaging .NET" %}}
+<div style="font-size:16px;">
 En caso de que necesite recortar sus imágenes como una función exclusiva seleccionada, la licencia de Aspose.Imaging Crop puede satisfacer sus necesidades. <br/>
 <i><b>¿Cómo puedes lograrlo?</b></i>
 <ul>
@@ -70,3 +71,5 @@ Sí, las siguientes licencias modulares están disponibles:<br/>
 </ul>
 <i><b>¿Existe la misma oportunidad para otros productos de Aspose?</b></i><br/>
 Sí, hay otras oportunidades de licencias modulares disponibles en <a href="https://aspose.market">https://aspose.market</a>.
+</div>
+<br/>

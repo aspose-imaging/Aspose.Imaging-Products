@@ -233,6 +233,7 @@ Below is presented full list of the image formats, that you  can convert from:
 </div>
 
 {{% blocks/products/pf/feature-page-section  h2="" %}}
+<div style="font-size:16px;">
 
-
-
+</div>
+<br/>

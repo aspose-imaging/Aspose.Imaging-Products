@@ -30,6 +30,7 @@ Full list of supported Crop operations by image formats:
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET crop only licensing" %}}
+<div style="font-size:16px;">
 In case you need cropping your images as a selected only feature, Aspose.Imaging Crop licensing may suit your needs. <br/> 
 <i><b>How can you achieve that?</b></i>
 <ul>
@@ -70,3 +71,5 @@ Yes, following modular licenses are available:<br/>
 </ul>
 <i><b>Are there the same opportunity for other Aspose products?</b></i><br/>
 Yes, there are other available modular licensing opportunities at <a href="https://aspose.market">https://aspose.market</a>.
+</div>
+<br/>

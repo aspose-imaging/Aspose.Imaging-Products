@@ -30,6 +30,7 @@ Aspose.Imaging का उपयोग करके आप विभिन्न 
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET क्रॉप ओनली लाइसेंसिंग" %}}
+<div style="font-size:16px;">
 यदि आपको अपनी छवियों को केवल चयनित सुविधा के रूप में क्रॉप करने की आवश्यकता है, तो Aspose.Imaging क्रॉप लाइसेंसिंग आपकी आवश्यकताओं के अनुरूप हो सकती है। <br/>
 <i><b>आप इसे कैसे प्राप्त कर सकते हैं?</b></i>
 <उल>
@@ -70,3 +71,5 @@ Aspose.Imaging Crop लाइसेंसिंग के लिए NETStandard2
 </ul>
 <i><b>क्या अन्य Aspose उत्पादों के लिए समान अवसर हैं?</b></i><br/>
 हां, <a href="https://aspose.market">https://aspose.market</a> पर अन्य मॉड्यूलर लाइसेंसिंग अवसर उपलब्ध हैं।
+</div>
+<br/>

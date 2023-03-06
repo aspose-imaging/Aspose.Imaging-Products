@@ -30,6 +30,7 @@ description: Використовуючи Aspose.Imaging, ви можете ле
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET Image Resize плагін тільки для зміни розміру зображення" %}}
+<div style="font-size:16px;">
 Вас хвилює лише зміна розміру зображення? Ліцензування Aspose.Imaging Image Resize може допомогти вам реалізувати необхідну зміну розміру програмним шляхом без необхідності ліцензування інших функцій продукту. <br/>
 <i><b>Щоб зробити це реальним, ви можете:</b></i>
 <ul>
@@ -72,3 +73,5 @@ description: Використовуючи Aspose.Imaging, ви можете ле
 </ul>
 <i><b>Чи є такі ж можливості для інших продуктів Aspose?</b></i><br/>
 Так, доступні інші можливості модульного ліцензування на <a href="https://aspose.market">https://aspose.market</a>.
+</div>
+<br/>

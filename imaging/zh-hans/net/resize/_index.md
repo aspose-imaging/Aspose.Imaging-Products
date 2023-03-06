@@ -30,6 +30,7 @@ description: 使用 Aspose.Imaging 你可以轻松地通过 net 获取 调整大
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET 仅调整大小许可" %}}
+<div style="font-size:16px;">
 您只关心图像大小调整吗？ Aspose.Imaging Resize 许可可以帮助您以编程方式实现所需的调整大小，而无需许可产品的其他功能。 <br/>
 <i><b>要让它成为现实，您可以：</b></i>
 <ul>
@@ -72,3 +73,5 @@ description: 使用 Aspose.Imaging 你可以轻松地通过 net 获取 调整大
 </ul>
 <i><b>其他 Aspose 产品是否有同样的机会？</b></i><br/>
 是的，在 <a href="https://aspose.market">https://aspose.market</a> 上还有其他可用的模块化许可机会。
+</div>
+<br/>

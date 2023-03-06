@@ -30,6 +30,7 @@ description: באמצעות Aspose.Imaging תוכל בקלות שנה גודל �
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET שינוי גודל רישוי בלבד" %}}
+<div style="font-size:16px;">
 האם אתה מודאג משינוי גודל התמונה בלבד? רישוי Aspose.Imaging שינוי גודל עשוי לעזור לך ליישם את שינוי הגודל הנדרש באופן תכנותי ללא צורך ברישיון תכונות אחרות של המוצר. <br/>
 <i><b>כדי להפוך את זה לאמיתי, תוכל:</b></i>
 <ul>
@@ -72,3 +73,5 @@ description: באמצעות Aspose.Imaging תוכל בקלות שנה גודל �
 </ul>
 <i><b>האם יש את אותה הזדמנות עבור מוצרי Aspose אחרים?</b></i><br/>
 כן, יש הזדמנויות אחרות של רישוי מודולרי זמינות בכתובת <a href="https://aspose.market">https://aspose.market</a>.
+</div>
+<br/>

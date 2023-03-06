@@ -30,6 +30,7 @@ Danh sách đầy đủ các thao tác Trồng trọt được hỗ trợ theo �
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET chỉ cấp phép cắt xén" %}}
+<div style="font-size:16px;">
 Trong trường hợp bạn cần cắt xén hình ảnh của mình dưới dạng một tính năng duy nhất được chọn, thì việc cấp phép Aspose.Imaging Crop có thể phù hợp với nhu cầu của bạn. <br/>
 <i><b>Làm thế nào bạn có thể đạt được điều đó?</b></i>
 <ul>
@@ -70,3 +71,5 @@ Có, hiện có các giấy phép mô-đun sau:<br/>
 </ul>
 <i><b>Có cơ hội tương tự cho các sản phẩm Aspose khác không?</b></i><br/>
 Có, có các cơ hội cấp phép theo mô-đun sẵn có khác tại <a href="https://aspose.market">https://aspose.market</a>.
+</div>
+<br/>

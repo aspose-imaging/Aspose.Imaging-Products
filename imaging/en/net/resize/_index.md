@@ -30,6 +30,7 @@ Full list of supported Resize operations by image formats:
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET resize only licensing" %}}
+<div style="font-size:16px;">
 Are you concerned on image resize only? Aspose.Imaging Resize licensing may help you implement required resize programmatically without need to license other features of the product. <br/> 
 <i><b>To make it real you may:</b></i>
 <ul>
@@ -72,3 +73,5 @@ Yes, following modular licenses are available for now:<br/>
 </ul>
 <i><b>Are there the same opportunity for other Aspose products?</b></i><br/>
 Yes, there are other available modular licensing opportunities at <a href="https://aspose.market">https://aspose.market</a>.
+</div>
+<br/>

@@ -233,7 +233,7 @@ Poniżej znajduje się pełna lista formatów graficznych, z których możesz do
 </div>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET Image konwertuje tylko licencjonowanie" %}}
-
+<div style="font-size:16px;">
 Przeczytaj ten temat, jeśli chcesz kupić i używać tylko funkcji <a href="https://en.wikipedia.org/wiki/Image_conversion">konwersji obrazu</a>.<br/>
 <i><b>Jak kupować i korzystać tylko z funkcji konwersji?</b></i>
 <ul>
@@ -279,4 +279,5 @@ Koniecznie sprawdź <a href="https://aspose.market">https://aspose.market</a> do
 
 
 <br/>
-
+</div>
+<br/>

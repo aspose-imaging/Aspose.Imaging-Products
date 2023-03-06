@@ -30,6 +30,7 @@ Vollständige Liste der unterstützten Größe ändern-Vorgänge nach Bildformat
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET-Resize-Only-Lizenzierung" %}}
+<div style="font-size:16px;">
 Sind Sie nur an der Bildgrößenänderung interessiert? Die Aspose.Imaging Resize-Lizenzierung kann Ihnen dabei helfen, die erforderliche Größenänderung programmgesteuert zu implementieren, ohne dass andere Funktionen des Produkts lizenziert werden müssen. <br/>
 <i><b>Um es wahr werden zu lassen, können Sie:</b></i>
 <ul>
@@ -72,3 +73,5 @@ Ja, folgende modulare Lizenzen sind derzeit verfügbar:<br/>
 </ul>
 <i><b>Gibt es die gleiche Möglichkeit für andere Aspose-Produkte?</b></i><br/>
 Ja, unter <a href="https://aspose.market">https://aspose.market</a> sind weitere modulare Lizenzierungsmöglichkeiten verfügbar.
+</div>
+<br/>

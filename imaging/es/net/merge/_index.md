@@ -30,6 +30,7 @@ Lista completa de operaciones {nombre de operación} admitidas por formatos de i
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Licencias de combinación de imágenes .NET de Aspose.Imaging" %}}
+<div style="font-size:16px;">
 Este tema es para el caso en que necesita comprar y usar la función <b>combinación de imágenes</b> únicamente. La combinación de imágenes aquí significa la creación de un solo collage a partir de varias imágenes de entrada; <br/>
 <i><b>¿Cómo comprar y usar solo la función de combinación?</b></i>
 <ul>
@@ -72,9 +73,12 @@ Seguro que puede comprar y utilizar otras licencias modulares disponibles:<br/>
 </ul>
 <i><b>¿Existen las mismas capacidades para otros productos de Aspose?</b></i><br/>
 Sí, hay otras ofertas de licencias modulares disponibles en <a href="https://aspose.market">https://aspose.market</a>.
+</div>
+<br/>
 
 <br/>
 <h2>Licencias de solo álbum de imagen .NET de Aspose.Imaging</h2>
+<div style="font-size:16px;">
 ¿Busca la capacidad de crear el álbum de imágenes (folleto) a partir de sus imágenes o fotos mediante programación? Este tema puede ayudar a lograr el objetivo, comprando solo la característica requerida.<br/>
 <i><b>¿Cómo puedo comprar y utilizar únicamente la función de creación de álbumes de imágenes (folletos)?</b></i>
 <ul>
@@ -117,3 +121,5 @@ Seguro que puede revisar y comprar otras licencias modulares disponibles:<br/>
 </ul>
 <i><b>¿Existen las mismas ofertas para otros productos de Aspose?</b></i><br/>
 Sí, hay otras ofertas de licencias modulares disponibles en <a href="https://aspose.market">https://aspose.market</a> para las capacidades de licencias modulares disponibles.
+</div>
+<br/>

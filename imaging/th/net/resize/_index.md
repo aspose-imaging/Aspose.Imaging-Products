@@ -30,6 +30,7 @@ description: เมื่อใช้ Aspose.Imaging คุณสามารถ
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET ปรับขนาดสิทธิ์ใช้งานเท่านั้น" %}}
+<div style="font-size:16px;">
 คุณกังวลเกี่ยวกับการปรับขนาดภาพเท่านั้นหรือไม่? Aspose.Imaging Resize การให้สิทธิ์ใช้งานอาจช่วยให้คุณปรับใช้การปรับขนาดที่จำเป็นทางโปรแกรมโดยไม่จำเป็นต้องให้สิทธิ์การใช้งานฟีเจอร์อื่นๆ ของผลิตภัณฑ์ <br/>
 <i><b>เพื่อให้เป็นจริง คุณอาจ:</b></i>
 <ul>
@@ -72,3 +73,5 @@ description: เมื่อใช้ Aspose.Imaging คุณสามารถ
 </ul>
 <i><b>มีโอกาสเหมือนกันสำหรับผลิตภัณฑ์ Aspose อื่นๆ หรือไม่</b></i><br/>
 ใช่ มีโอกาสในการออกใบอนุญาตแบบโมดูลาร์อื่นๆ ที่ <a href="https://aspose.market">https://aspose.market</a>
+</div>
+<br/>

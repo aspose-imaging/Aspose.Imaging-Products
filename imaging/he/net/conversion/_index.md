@@ -233,7 +233,7 @@ description: המר פורמטים פופולריים של תמונה, תמונ�
 </div>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET Image המרת רישוי בלבד" %}}
-
+<div style="font-size:16px;">
 קרא את הנושא הזה אם אתה צריך לקנות ולהשתמש בתכונה <a href="https://en.wikipedia.org/wiki/Image_conversion">המרת תמונה</a> בלבד.<br/>
 <i><b>כיצד לקנות ולהשתמש בתכונת המרה בלבד?</b></i>
 <ul>
@@ -279,4 +279,5 @@ description: המר פורמטים פופולריים של תמונה, תמונ�
 
 
 <br/>
-
+</div>
+<br/>

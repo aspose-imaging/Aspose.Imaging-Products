@@ -233,7 +233,7 @@ Níže je uveden úplný seznam obrazových formátů, ze kterých můžete pře
 </div>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET Image převádí pouze licencování" %}}
-
+<div style="font-size:16px;">
 Přečtěte si prosím toto téma, pokud potřebujete koupit a používat pouze funkci <a href="https://en.wikipedia.org/wiki/Image_conversion">převod obrázků</a>.<br/>
 <i><b>Jak nakupovat a používat pouze funkci konverze?</b></i>
 <ul>
@@ -279,4 +279,5 @@ Dostupné modulární možnosti licencování určitě najdete na <a href="https
 
 
 <br/>
-
+</div>
+<br/>

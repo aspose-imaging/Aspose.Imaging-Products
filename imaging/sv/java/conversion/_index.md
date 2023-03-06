@@ -233,6 +233,7 @@ Nedan presenteras en fullständig lista över bildformat som du kan konvertera f
 </div>
 
 {{% blocks/products/pf/feature-page-section  h2="" %}}
+<div style="font-size:16px;">
 
-
-
+</div>
+<br/>

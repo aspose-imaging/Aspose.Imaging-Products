@@ -233,7 +233,7 @@ Tālāk ir parādīts pilns to attēlu formātu saraksts, kurus varat konvertēt
 </div>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET Image konvertuoti tik licenciją" %}}
-
+<div style="font-size:16px;">
 Perskaitykite šią temą, jei reikia įsigyti ir naudoti tik <a href="https://en.wikipedia.org/wiki/Image_conversion">vaizdo konvertavimo</a> funkciją.<br/>
 <i><b>Kaip nusipirkti ir naudoti tik konversijos funkciją?</b></i>
 <ul>
@@ -279,4 +279,5 @@ Būtinai patikrinkite <a href="https://aspose.market">https://aspose.market</a>,
 
 
 <br/>
-
+</div>
+<br/>

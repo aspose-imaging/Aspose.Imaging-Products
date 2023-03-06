@@ -233,7 +233,7 @@ description: قم بتحويل تنسيقات الصور والصور والصو
 </div>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET Image تحويل الترخيص فقط" %}}
-
+<div style="font-size:16px;">
 يرجى قراءة هذا الموضوع إذا كنت تريد شراء واستخدام ميزة <a href="https://en.wikipedia.org/wiki/Image_conversion"> تحويل الصور </a> فقط. <br/>
 <i> <b> كيف تشتري وتستخدم ميزة التحويل فقط؟ </ b> </i>
 <ul>
@@ -279,4 +279,5 @@ description: قم بتحويل تنسيقات الصور والصور والصو
 
 
 <br/>
-
+</div>
+<br/>

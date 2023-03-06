@@ -30,6 +30,7 @@ Vollständige Liste der unterstützten Verschmelzen-Vorgänge nach Bildformaten:
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging Lizenzierung nur für die Zusammenführung von .NET-Bildern" %}}
+<div style="font-size:16px;">
 Dieses Thema ist für den Fall, wenn Sie nur die Funktion <b>Bildzusammenführung</b> kaufen und verwenden müssen. Bildzusammenführung bedeutet hier die Erstellung einer einzelnen Collage aus den mehreren Eingabebildern; <br/>
 <i><b>Wie kaufe und verwende ich nur die Zusammenführungsfunktion?</b></i>
 <ul>
@@ -72,9 +73,12 @@ Natürlich können Sie auch andere verfügbare modulare Lizenzen erwerben und ve
 </ul>
 <i><b>Gibt es dieselben Funktionen für andere Aspose-Produkte?</b></i><br/>
 Ja, es gibt weitere verfügbare modulare Lizenzierungsangebote unter <a href="https://aspose.market">https://aspose.market</a>.
+</div>
+<br/>
 
 <br/>
 <h2>Lizenzierung nur für Aspose.Imaging .NET-Bilderalben</h2>
+<div style="font-size:16px;">
 Suchen Sie nach der Möglichkeit, das Bildalbum (Booklet) aus Ihren Bildern oder Fotos programmgesteuert zu erstellen? Dieses Thema kann helfen, das Ziel zu erreichen, indem nur die erforderliche Funktion gekauft wird.<br/>
 <i><b>Wie kann ich nur die Erstellungsfunktion für Bilderalben (Booklets) kaufen und verwenden?</b></i>
 <ul>
@@ -117,3 +121,5 @@ Natürlich können Sie andere verfügbare modulare Lizenzen prüfen und kaufen:<
 </ul>
 <i><b>Gibt es dieselben Angebote für andere Aspose-Produkte?</b></i><br/>
 Ja, es gibt andere verfügbare modulare Lizenzierungsangebote unter <a href="https://aspose.market">https://aspose.market</a> für verfügbare modulare Lizenzierungsfunktionen.
+</div>
+<br/>

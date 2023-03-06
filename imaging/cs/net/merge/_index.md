@@ -30,6 +30,7 @@ Pomocí Aspose.Imaging můžete snadno použít **Spojit** pro různé formáty 
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET image merge pouze licencování" %}}
+<div style="font-size:16px;">
 Toto téma je pro případ, kdy potřebujete koupit a používat pouze funkci <b>sloučení obrázků</b>. Sloučení obrázků zde znamená vytvoření jediné koláže z několika vstupních obrázků; <br/>
 <i><b>Jak koupit a používat pouze funkci sloučení?</b></i>
 <ul>
@@ -72,9 +73,12 @@ Jistě si můžete zakoupit a používat další dostupné modulární licence:<
 </ul>
 <i><b>Existují stejné možnosti pro ostatní produkty Aspose?</b></i><br/>
 Ano, na adrese <a href="https://aspose.market">https://aspose.market</a> jsou k dispozici další nabídky modulárních licencí.
+</div>
+<br/>
 
 <br/>
 <h2>Licencování pouze na album obrázků Aspose.Imaging .NET</h2>
+<div style="font-size:16px;">
 Hledáte možnost vytvořit obrázkové album (booklet) z vašich obrázků nebo fotografií programově? Toto téma vám může pomoci dosáhnout cíle a zakoupit pouze požadovanou funkci.<br/>
 <i><b>Jak si mohu koupit a používat pouze funkci vytváření obrázkového alba (bookletu)?</b></i>
 <ul>
@@ -117,3 +121,5 @@ Jistě si můžete prohlédnout a zakoupit další dostupné modulární licence
 </ul>
 <i><b>Existují stejné nabídky pro další produkty Aspose?</b></i><br/>
 Ano, na adrese <a href="https://aspose.market">https://aspose.market</a> jsou dostupné další modulární nabídky licencování, kde jsou dostupné možnosti modulárního licencování.
+</div>
+<br/>

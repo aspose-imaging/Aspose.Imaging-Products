@@ -30,6 +30,7 @@ description: باستخدام Aspose.Imaging يمكنك بسهولة ا & قتص
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET المحاصيل الترخيص فقط" %}}
+<div style="font-size:16px;">
 في حال احتجت إلى اقتصاص صورك كميزة محددة فقط ، قد يناسب ترخيص Aspose.Maging Crop احتياجاتك. <br/>
 <i> كيف يمكنك تحقيق ذلك؟ </ b> </i>
 <ul>
@@ -70,3 +71,5 @@ description: باستخدام Aspose.Imaging يمكنك بسهولة ا & قتص
 </ul>
 <i> <b> هل هناك نفس الفرصة لمنتجات Aspose الأخرى؟ </ b> </i> <br/>
 نعم ، هناك فرص ترخيص معيارية أخرى متاحة على <a href="https://aspose.market"> https://aspose.market </a>.
+</div>
+<br/>

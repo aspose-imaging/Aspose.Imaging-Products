@@ -30,6 +30,7 @@ Liste complète des opérations Recadrer prises en charge par formats d'image :
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET licence de recadrage uniquement" %}}
+<div style="font-size:16px;">
 Si vous avez besoin de recadrer vos images en tant que fonctionnalité sélectionnée uniquement, la licence Aspose.Imaging Crop peut répondre à vos besoins. <br/>
 <i><b>Comment pouvez-vous y parvenir ?</b></i>
 <ul>
@@ -70,3 +71,5 @@ Oui, les licences modulaires suivantes sont disponibles :<br/>
 </ul>
 <i><b>Existe-t-il la même opportunité pour les autres produits Aspose ?</b></i><br/>
 Oui, il existe d'autres opportunités de licences modulaires disponibles sur <a href="https://aspose.market">https://aspose.market</a>.
+</div>
+<br/>

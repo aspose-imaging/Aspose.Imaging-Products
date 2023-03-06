@@ -30,6 +30,7 @@ Vollständige Liste der unterstützten Ernte-Vorgänge nach Bildformaten:
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET-Nur-Crop-Lizenzierung" %}}
+<div style="font-size:16px;">
 Falls Sie Ihre Bilder nur als ausgewählte Funktion zuschneiden müssen, kann die Lizenzierung von Aspose.Imaging Crop Ihren Anforderungen entsprechen. <br/>
 <i><b>Wie können Sie das erreichen?</b></i>
 <ul>
@@ -70,3 +71,5 @@ Ja, folgende modulare Lizenzen sind verfügbar:<br/>
 </ul>
 <i><b>Gibt es die gleiche Möglichkeit für andere Aspose-Produkte?</b></i><br/>
 Ja, unter <a href="https://aspose.market">https://aspose.market</a> sind weitere modulare Lizenzierungsmöglichkeiten verfügbar.
+</div>
+<br/>

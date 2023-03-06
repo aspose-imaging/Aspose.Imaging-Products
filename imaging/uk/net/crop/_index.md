@@ -30,6 +30,7 @@ description: Використовуючи Aspose.Imaging, ви можете ле
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Ліцензування Aspose.Imaging .NET Image Crop тільки для кадрування зображень" %}}
+<div style="font-size:16px;">
 Якщо вам потрібно лише обрізати зображення, ліцензія Aspose.Imaging Crop може відповідати вашим потребам. <br/>
 <i><b>Як цього досягти?</b></i>
 <ul>
@@ -70,3 +71,5 @@ description: Використовуючи Aspose.Imaging, ви можете ле
 </ul>
 <i><b>Чи є такі ж можливості для інших продуктів Aspose?</b></i><br/>
 Так, доступні інші можливості модульного ліцензування на <a href="https://aspose.market">https://aspose.market</a>.
+</div>
+<br/>

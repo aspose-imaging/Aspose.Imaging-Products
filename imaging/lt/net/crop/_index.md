@@ -30,6 +30,7 @@ Visas palaikomų operacijų Apkarpyti sąrašas pagal vaizdo formatus:
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET crop tik licencijavimas" %}}
+<div style="font-size:16px;">
 Jei jums reikia apkarpyti vaizdus kaip pasirinktą vienintelę funkciją, „Aspose.Imaging Crop“ licencija gali atitikti jūsų poreikius. <br/>
 <i><b>Kaip tai pasiekti?</b></i>
 <ul>
@@ -70,3 +71,5 @@ Taip, yra šios modulinės licencijos:<br/>
 </ul>
 <i><b>Ar yra tokia pati galimybė kitiems „Aspose“ produktams?</b></i><br/>
 Taip, <a href="https://aspose.market">https://aspose.market</a> yra ir kitų galimų modulinių licencijavimo galimybių.
+</div>
+<br/>

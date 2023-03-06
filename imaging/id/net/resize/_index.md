@@ -30,6 +30,7 @@ Daftar lengkap operasi Ubah ukuran yang didukung menurut format gambar:
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET hanya mengubah ukuran lisensi" %}}
+<div style="font-size:16px;">
 Apakah Anda khawatir tentang pengubahan ukuran gambar saja? Lisensi Aspose.Imaging Resize dapat membantu Anda mengimplementasikan resize yang diperlukan secara terprogram tanpa perlu melisensikan fitur produk lainnya. <br/>
 <i><b>Untuk mewujudkannya, Anda dapat:</b></i>
 <ul>
@@ -72,3 +73,5 @@ Ya, lisensi modular berikut tersedia untuk saat ini:<br/>
 </ul>
 <i><b>Apakah ada peluang yang sama untuk produk Aspose lainnya?</b></i><br/>
 Ya, ada peluang pemberian lisensi modular lain yang tersedia di <a href="https://aspose.market">https://aspose.market</a>.
+</div>
+<br/>

@@ -30,6 +30,7 @@ Volledige lijst met ondersteunde Formaat wijzigen-bewerkingen per afbeeldingsind
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET formaat wijzigen alleen licenties" %}}
+<div style="font-size:16px;">
 Maakt u zich alleen zorgen over het wijzigen van de afbeelding? Aspose.Imaging Resize-licenties kunnen u helpen de vereiste formaatwijziging programmatisch te implementeren zonder dat u andere functies van het product hoeft te licentiëren. <br/>
 <i><b>Om het echt te maken, kunt u:</b></i>
 <ul>
@@ -72,3 +73,5 @@ Ja, de volgende modulaire licenties zijn momenteel beschikbaar:<br/>
 </ul>
 <i><b>Zijn er dezelfde mogelijkheden voor andere Aspose-producten?</b></i><br/>
 Ja, er zijn andere beschikbare modulaire licentiemogelijkheden op <a href="https://aspose.market">https://aspose.market</a>.
+</div>
+<br/>

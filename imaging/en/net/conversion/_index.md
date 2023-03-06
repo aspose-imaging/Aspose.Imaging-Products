@@ -233,7 +233,7 @@ Below is presented full list of the image formats, that you  can convert from:
 </div>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET Image convert only licensing" %}}
-
+<div style="font-size:16px;">
 Please read this topic if you need buy and use <a href="https://en.wikipedia.org/wiki/Image_conversion">image conversion</a> feature only.<br/> 
 <i><b>How to buy and use conversion feature only?</b></i>
 <ul>
@@ -279,4 +279,5 @@ Sure check <a href="https://aspose.market">https://aspose.market</a> for availab
 
 
 <br/>
-
+</div>
+<br/>

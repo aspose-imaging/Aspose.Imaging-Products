@@ -30,6 +30,7 @@ description: 使用 Aspose.Imaging 你可以輕鬆地通過 net 獲取 莊稼 �
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET 裁剪許可" %}}
+<div style="font-size:16px;">
 如果您需要裁剪圖像作為僅選定的功能，Aspose.Imaging Crop 許可可能適合您的需要。 <br/>
 <i><b>如何實現？</b></i>
 <ul>
@@ -70,3 +71,5 @@ Aspose.Imaging Crop 許可支持 NETStandard2.0 和更高版本的 .NET 平台�
 </ul>
 <i><b>其他 Aspose 產品是否有同樣的機會？</b></i><br/>
 是的，在 <a href="https://aspose.market">https://aspose.market</a> 上還有其他可用的模塊化許可機會。
+</div>
+<br/>

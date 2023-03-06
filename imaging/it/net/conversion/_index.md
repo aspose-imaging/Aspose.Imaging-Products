@@ -233,7 +233,7 @@ Di seguito è presentato l'elenco completo dei formati di immagine da cui è pos
 </div>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET immagine convertire solo licenza" %}}
-
+<div style="font-size:16px;">
 Leggi questo argomento se hai bisogno di acquistare e utilizzare solo la funzione <a href="https://en.wikipedia.org/wiki/Image_conversion">conversione immagine</a>.<br/>
 <i><b>Come acquistare e utilizzare solo la funzione di conversione?</b></i>
 <ul>
@@ -279,4 +279,5 @@ Sicuramente controlla <a href="https://aspose.market">https://aspose.market</a> 
 
 
 <br/>
-
+</div>
+<br/>

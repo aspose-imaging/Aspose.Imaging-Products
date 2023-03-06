@@ -30,6 +30,7 @@ description: 使用 Aspose.Imaging 你可以輕鬆地通過 net 獲取 合併 �
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET 圖像合併許可" %}}
+<div style="font-size:16px;">
 本主題適用於您只需要購買和使用<b>圖像合併</b>功能的情況。這裡的圖像合併是指從多個輸入圖像創建單個拼貼畫； <br/>
 <i><b>如何只購買和使用合併功能？</b></i>
 <ul>
@@ -72,9 +73,12 @@ NETStandard2.0 及更高版本的 .NET 平台支持合併許可；<br/>
 </ul>
 <i><b>其他 Aspose 產品是否具有相同的功能？</b></i><br/>
 是的，<a href="https://aspose.market">https://aspose.market</a> 上還有其他可用的模塊化許可優惠。
+</div>
+<br/>
 
 <br/>
 <h2>Aspose.Imaging .NET 相冊唯一許可</h2>
+<div style="font-size:16px;">
 尋找以編程方式從您的圖像或照片創建圖像相冊（小冊子）的能力？本主題可能有助於實現目標，僅購買所需的功能。<br/>
 <i><b>如何購買和使用僅畫冊（小冊子）製作功能？</b></i>
 <ul>
@@ -117,3 +121,5 @@ NETStandard2.0及以上.NET平台適用於相冊授權；<br/>
 </ul>
 <i><b>其他 Aspose 產品是否有相同的優惠？</b></i><br/>
 是的，在 <a href="https://aspose.market">https://aspose.market</a> 上還有其他可用的模塊化許可優惠以提供可用的模塊化許可功能。
+</div>
+<br/>

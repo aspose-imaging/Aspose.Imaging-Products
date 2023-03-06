@@ -30,6 +30,7 @@ Görüntü biçimlerine göre desteklenen {işlem adı} işlemlerinin tam listes
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET görüntü birleştirme yalnızca lisanslama" %}}
+<div style="font-size:16px;">
 Bu konu, yalnızca <b>görüntü birleştirme</b> özelliğini satın alıp kullanmanız gerektiğinde geçerlidir. Burada görüntü birleştirme, çeşitli girdi görüntülerinden tek bir kolajın oluşturulması anlamına gelir; <br/>
 <i><b>Yalnızca birleştirme özelliği nasıl satın alınır ve kullanılır?</b></i>
 <ul>
@@ -72,9 +73,12 @@ Diğer mevcut modüler lisansları satın alıp kullanabileceğinizden emin olab
 </ul>
 <i><b>Diğer Aspose ürünlerinde de aynı özellikler var mı?</b></i><br/>
 Evet, <a href="https://aspose.market">https://aspose.market</a> adresinde başka modüler lisanslama teklifleri mevcuttur.
+</div>
+<br/>
 
 <br/>
 <h2>Yalnızca Aspose.Imaging .NET resim albümü lisanslaması</h2>
+<div style="font-size:16px;">
 Görüntülerinizden veya fotoğraflarınızdan programlı olarak görüntü albümü (kitapçık) oluşturma yeteneği mi arıyorsunuz? Bu konu, yalnızca gerekli özelliği satın alarak hedefe ulaşmanıza yardımcı olabilir.<br/>
 <i><b>Yalnızca resim albümü (kitapçık) oluşturma özelliğini nasıl satın alıp kullanabilirim?</b></i>
 <ul>
@@ -117,3 +121,5 @@ Diğer mevcut modüler lisansları inceleyip satın alabileceğinizden emin olab
 </ul>
 <i><b>Diğer Aspose ürünleri için de aynı teklifler var mı?</b></i><br/>
 Evet, mevcut modüler lisanslama yetenekleri için <a href="https://aspose.market">https://aspose.market</a> adresinde başka modüler lisanslama teklifleri bulunmaktadır.
+</div>
+<br/>

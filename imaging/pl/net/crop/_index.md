@@ -30,6 +30,7 @@ Pełna lista obsługiwanych operacji Przyciąć według formatów obrazu:
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Licencja Aspose.Imaging .NET tylko na przycinanie" %}}
+<div style="font-size:16px;">
 Jeśli potrzebujesz przycinania zdjęć jako wybranej tylko funkcji, licencja Aspose.Imaging Crop może odpowiadać Twoim potrzebom. <br/>
 <i><b>Jak możesz to osiągnąć?</b></i>
 <ul>
@@ -70,3 +71,5 @@ Tak, dostępne są następujące licencje modułowe:<br/>
 </ul>
 <i><b>Czy istnieją takie same możliwości dla innych produktów Aspose?</b></i><br/>
 Tak, na <a href="https://aspose.market">https://aspose.market</a> dostępne są inne możliwości licencjonowania modułowego.
+</div>
+<br/>

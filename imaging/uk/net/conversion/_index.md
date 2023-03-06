@@ -233,7 +233,7 @@ description: Перетворюйте популярні формати зобр
 </div>
 
 {{% blocks/products/pf/feature-page-section  h2="Ліцензування плагiну конвертацiї Aspose.Imaging .NET Image convert" %}}
-
+<div style="font-size:16px;">
 Будь ласка, прочитайте цю тему, якщо вам потрібно купувати та використовувати лише функцію <a href="https://en.wikipedia.org/wiki/Image_conversion">конвертацiї зображень</a>.<br/>
 <i><b>Як купувати та використовувати лише функцію конвертацiї?</b></i>
 <ul>
@@ -279,4 +279,5 @@ description: Перетворюйте популярні формати зобр
 
 
 <br/>
-
+</div>
+<br/>

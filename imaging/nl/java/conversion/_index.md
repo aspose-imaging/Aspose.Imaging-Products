@@ -233,6 +233,7 @@ Hieronder vindt u een volledige lijst van de afbeeldingsindelingen waaruit u kun
 </div>
 
 {{% blocks/products/pf/feature-page-section  h2="" %}}
+<div style="font-size:16px;">
 
-
-
+</div>
+<br/>

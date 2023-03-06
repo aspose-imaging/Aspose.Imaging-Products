@@ -233,7 +233,7 @@ Dưới đây là danh sách đầy đủ các định dạng hình ảnh mà b�
 </div>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET Image chỉ chuyển đổi giấy phép" %}}
-
+<div style="font-size:16px;">
 Vui lòng đọc chủ đề này nếu bạn chỉ cần mua và sử dụng tính năng <a href="https://en.wikipedia.org/wiki/Image_conversion">chuyển đổi hình ảnh</a>.<br/>
 <i><b>Làm cách nào để chỉ mua và sử dụng tính năng chuyển đổi?</b></i>
 <ul>
@@ -279,4 +279,5 @@ Hãy chắc chắn kiểm tra <a href="https://aspose.market">https://aspose.mar
 
 
 <br/>
-
+</div>
+<br/>

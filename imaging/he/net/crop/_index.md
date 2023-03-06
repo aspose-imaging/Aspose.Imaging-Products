@@ -30,6 +30,7 @@ description: באמצעות Aspose.Imaging תוכל בקלות יְבוּל תמ
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="רישוי Aspose.Imaging .NET יבול בלבד" %}}
+<div style="font-size:16px;">
 במקרה שאתה צריך לחתוך את התמונות שלך כתכונה נבחרת בלבד, רישוי Aspose.Imaging Crop עשוי להתאים לצרכים שלך. <br/>
 <i><b>איך אתה יכול להשיג זאת?</b></i>
 <ul>
@@ -70,3 +71,5 @@ description: באמצעות Aspose.Imaging תוכל בקלות יְבוּל תמ
 </ul>
 <i><b>האם יש את אותה הזדמנות עבור מוצרי Aspose אחרים?</b></i><br/>
 כן, יש הזדמנויות אחרות של רישוי מודולרי זמינות בכתובת <a href="https://aspose.market">https://aspose.market</a>.
+</div>
+<br/>

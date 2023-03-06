@@ -30,6 +30,7 @@ Daftar lengkap operasi Menggabungkan yang didukung menurut format gambar:
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET image hanya menggabungkan lisensi" %}}
+<div style="font-size:16px;">
 Topik ini untuk kasus ketika Anda hanya perlu membeli dan menggunakan fitur <b>penggabungan gambar</b>. Penggabungan gambar di sini berarti pembuatan kolase tunggal dari beberapa gambar masukan; <br/>
 <i><b>Bagaimana cara membeli dan menggunakan fitur penggabungan saja?</b></i>
 <ul>
@@ -72,9 +73,12 @@ Tentu Anda dapat membeli dan menggunakan lisensi modular lain yang tersedia:<br/
 </ul>
 <i><b>Apakah ada kemampuan yang sama untuk produk Aspose lainnya?</b></i><br/>
 Ya, ada penawaran lisensi modular lain yang tersedia di <a href="https://aspose.market">https://aspose.market</a>.
+</div>
+<br/>
 
 <br/>
 <h2>Aspose.Imaging .NET album gambar hanya lisensi</h2>
+<div style="font-size:16px;">
 Mencari kemampuan untuk membuat album gambar (buklet) dari gambar atau foto Anda secara terprogram? Topik ini dapat membantu mencapai tujuan, hanya membeli fitur yang diperlukan.<br/>
 <i><b>Bagaimana cara membeli dan menggunakan fitur pembuatan album gambar (buklet) saja?</b></i>
 <ul>
@@ -117,3 +121,5 @@ Tentu Anda dapat meninjau dan membeli lisensi modular lain yang tersedia:<br/>
 </ul>
 <i><b>Apakah ada penawaran yang sama untuk produk Aspose lainnya?</b></i><br/>
 Ya, ada penawaran lisensi modular lain yang tersedia di <a href="https://aspose.market">https://aspose.market</a> untuk kemampuan pemberian lisensi modular yang tersedia.
+</div>
+<br/>

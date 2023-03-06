@@ -30,6 +30,7 @@ Danh sách đầy đủ các thao tác Thay đổi kích thước được hỗ 
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET chỉ cấp phép thay đổi kích thước" %}}
+<div style="font-size:16px;">
 Bạn chỉ quan tâm đến việc thay đổi kích thước hình ảnh? Cấp phép thay đổi kích thước Aspose.Imaging có thể giúp bạn thực hiện thay đổi kích thước bắt buộc theo chương trình mà không cần cấp phép các tính năng khác của sản phẩm. <br/>
 <i><b>Để biến nó thành hiện thực, bạn có thể:</b></i>
 <ul>
@@ -72,3 +73,5 @@ Có, các giấy phép mô-đun sau hiện có sẵn:<br/>
 </ul>
 <i><b>Có cơ hội tương tự cho các sản phẩm Aspose khác không?</b></i><br/>
 Có, có các cơ hội cấp phép theo mô-đun sẵn có khác tại <a href="https://aspose.market">https://aspose.market</a>.
+</div>
+<br/>

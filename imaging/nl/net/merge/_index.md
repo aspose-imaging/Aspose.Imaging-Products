@@ -30,6 +30,7 @@ Volledige lijst met ondersteunde Samenvoegen-bewerkingen per afbeeldingsindeling
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET-licentie voor het samenvoegen van afbeeldingen" %}}
+<div style="font-size:16px;">
 Dit onderwerp is voor het geval dat u alleen de functie <b>afbeeldingen samenvoegen</b> nodig heeft om te kopen en te gebruiken. Samenvoegen van afbeeldingen betekent hier het maken van een enkele collage van de verschillende invoerafbeeldingen; <br/>
 <i><b>Alleen de samenvoegfunctie kopen en gebruiken?</b></i>
 <ul>
@@ -72,9 +73,12 @@ Natuurlijk kunt u andere beschikbare modulaire licenties kopen en gebruiken:<br/
 </ul>
 <i><b>Zijn er dezelfde mogelijkheden voor andere Aspose-producten?</b></i><br/>
 Ja, er zijn andere beschikbare modulaire licentieaanbiedingen op <a href="https://aspose.market">https://aspose.market</a>.
+</div>
+<br/>
 
 <br/>
 <h2>Aspose.Imaging .NET-afbeeldingsalbum alleen licentie</h2>
+<div style="font-size:16px;">
 Op zoek naar de mogelijkheid om programmatisch het afbeeldingenalbum (boekje) van uw afbeeldingen of foto's te maken? Dit onderwerp kan helpen om het doel te bereiken, alleen de vereiste functie kopen.<br/>
 <i><b>Hoe kan ik alleen de functie voor het maken van fotoalbums (boekjes) kopen en gebruiken?</b></i>
 <ul>
@@ -117,3 +121,5 @@ Natuurlijk kunt u andere beschikbare modulaire licenties bekijken en kopen:<br/>
 </ul>
 <i><b>Zijn er dezelfde aanbiedingen voor andere Aspose-producten?</b></i><br/>
 Ja, er zijn andere beschikbare modulaire licentieaanbiedingen op <a href="https://aspose.market">https://aspose.market</a> voor beschikbare modulaire licentiemogelijkheden.
+</div>
+<br/>

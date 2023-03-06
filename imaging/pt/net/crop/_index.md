@@ -30,6 +30,7 @@ Lista completa de operações Colheita suportadas por formatos de imagem:
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET licenciando apenas colheita" %}}
+<div style="font-size:16px;">
 Caso você precise recortar suas imagens como um recurso apenas selecionado, o licenciamento Aspose.Imaging Crop pode atender às suas necessidades. <br/>
 <i><b>Como você pode conseguir isso?</b></i>
 <ul>
@@ -70,3 +71,5 @@ Sim, as seguintes licenças modulares estão disponíveis:<br/>
 </ul>
 <i><b>Existe a mesma oportunidade para outros produtos Aspose?</b></i><br/>
 Sim, existem outras oportunidades de licenciamento modular disponíveis em <a href="https://aspose.market">https://aspose.market</a>.
+</div>
+<br/>

@@ -233,7 +233,7 @@ Aşağıda, dönüştürebileceğiniz görüntü biçimlerinin tam listesi sunul
 </div>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET Image yalnızca dönüştürme lisanslama" %}}
-
+<div style="font-size:16px;">
 Yalnızca <a href="https://en.wikipedia.org/wiki/Image_conversion">görüntü dönüştürme</a> özelliğini satın alıp kullanmanız gerekiyorsa lütfen bu konuyu okuyun.<br/>
 <i><b>Yalnızca dönüştürme özelliği nasıl satın alınır ve kullanılır?</b></i>
 <ul>
@@ -279,4 +279,5 @@ Kullanılabilir modüler lisanslama yetenekleri için mutlaka <a href="https://a
 
 
 <br/>
-
+</div>
+<br/>

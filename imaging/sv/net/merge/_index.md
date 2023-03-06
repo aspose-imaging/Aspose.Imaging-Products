@@ -30,6 +30,7 @@ Fullständig lista över Sammanfoga-operationer som stöds efter bildformat:
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET image merge endast licensiering" %}}
+<div style="font-size:16px;">
 Det här ämnet är endast för fallet när du behöver köpa och använda funktionen <b>bildsammanfogning</b>. Bildsammanfogning betyder här skapande av enstaka collage från flera indatabilder; <br/>
 <i><b>Hur köper och använder man endast sammanslagningsfunktionen?</b></i>
 <ul>
@@ -72,9 +73,12 @@ Visst kan du köpa och använda andra tillgängliga modullicenser:<br/>
 </ul>
 <i><b>Finns det samma möjligheter för andra Aspose-produkter?</b></i><br/>
 Ja, det finns andra tillgängliga modulära licenserbjudanden på <a href="https://aspose.market">https://aspose.market</a>.
+</div>
+<br/>
 
 <br/>
 <h2>Aspose.Imaging .NET bildalbum endast licensiering</h2>
+<div style="font-size:16px;">
 Letar du efter möjligheten att skapa bildalbumet (häftet) från dina bilder eller foton programmatiskt? Det här ämnet kan hjälpa dig att uppnå målet, endast köp som krävs.<br/>
 <i><b>Hur kan jag bara köpa och använda funktionen för att skapa bildalbum (häften)?</b></i>
 <ul>
@@ -117,3 +121,5 @@ Visst kan du granska och köpa andra tillgängliga modullicenser:<br/>
 </ul>
 <i><b>Finns det samma erbjudanden för andra Aspose-produkter?</b></i><br/>
 Ja, det finns andra tillgängliga modulära licenserbjudanden på <a href="https://aspose.market">https://aspose.market</a> för tillgängliga modulära licensieringsmöjligheter.
+</div>
+<br/>

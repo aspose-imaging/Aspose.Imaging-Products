@@ -233,7 +233,7 @@ Di bawah ini disajikan daftar lengkap format gambar, yang dapat Anda konversi da
 </div>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET Image hanya mengonversi lisensi" %}}
-
+<div style="font-size:16px;">
 Harap baca topik ini jika Anda hanya perlu membeli dan menggunakan fitur <a href="https://en.wikipedia.org/wiki/Image_conversion">konversi gambar</a>.<br/>
 <i><b>Bagaimana cara membeli dan menggunakan fitur konversi saja?</b></i>
 <ul>
@@ -279,4 +279,5 @@ Pastikan memeriksa <a href="https://aspose.market">https://aspose.market</a> unt
 
 
 <br/>
-
+</div>
+<br/>

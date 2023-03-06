@@ -30,6 +30,7 @@ Elenco completo delle operazioni Unisci supportate per formati immagine:
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET immagine unione solo licenze" %}}
+<div style="font-size:16px;">
 Questo argomento riguarda il caso in cui è necessario acquistare e utilizzare solo la funzione <b>unione immagini</b>. L'unione di immagini qui significa la creazione di un singolo collage dalle diverse immagini di input; <br/>
 <i><b>Come acquistare e utilizzare solo la funzione di unione?</b></i>
 <ul>
@@ -72,9 +73,12 @@ Sicuramente puoi acquistare e utilizzare altre licenze modulari disponibili:<br/
 </ul>
 <i><b>Ci sono le stesse funzionalità per altri prodotti Aspose?</b></i><br/>
 Sì, sono disponibili altre offerte di licenze modulari su <a href="https://aspose.market">https://aspose.market</a>.
+</div>
+<br/>
 
 <br/>
 <h2>Aspose.Imaging .NET solo licenza per album di immagini</h2>
+<div style="font-size:16px;">
 Cerchi la possibilità di creare l'album di immagini (opuscolo) dalle tue immagini o foto in modo programmatico? Questo argomento può aiutare a raggiungere l'obiettivo, acquistando solo le funzionalità richieste.<br/>
 <i><b>Come posso acquistare e utilizzare solo la funzione di creazione di album di immagini (opuscolo)?</b></i>
 <ul>
@@ -117,3 +121,5 @@ Sicuramente puoi rivedere e acquistare altre licenze modulari disponibili:<br/>
 </ul>
 <i><b>Ci sono le stesse offerte per altri prodotti Aspose?</b></i><br/>
 Sì, sono disponibili altre offerte di licenze modulari su <a href="https://aspose.market">https://aspose.market</a> per le funzionalità di licenza modulari disponibili.
+</div>
+<br/>

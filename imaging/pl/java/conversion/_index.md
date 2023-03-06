@@ -233,6 +233,7 @@ Poniżej znajduje się pełna lista formatów graficznych, z których możesz do
 </div>
 
 {{% blocks/products/pf/feature-page-section  h2="" %}}
+<div style="font-size:16px;">
 
-
-
+</div>
+<br/>

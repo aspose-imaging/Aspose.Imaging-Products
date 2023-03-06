@@ -30,6 +30,7 @@ Volledige lijst met ondersteunde Bijsnijden-bewerkingen per afbeeldingsindeling:
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET licentie voor alleen bijsnijden" %}}
+<div style="font-size:16px;">
 Als u uw afbeeldingen wilt bijsnijden als een geselecteerde functie, kan Aspose.Imaging Crop-licentie aan uw behoeften voldoen. <br/>
 <i><b>Hoe bereik je dat?</b></i>
 <ul>
@@ -70,3 +71,5 @@ Ja, de volgende modulaire licenties zijn beschikbaar:<br/>
 </ul>
 <i><b>Zijn er dezelfde mogelijkheden voor andere Aspose-producten?</b></i><br/>
 Ja, er zijn andere beschikbare modulaire licentiemogelijkheden op <a href="https://aspose.market">https://aspose.market</a>.
+</div>
+<br/>

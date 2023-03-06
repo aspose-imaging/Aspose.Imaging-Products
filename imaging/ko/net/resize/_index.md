@@ -30,6 +30,7 @@ Aspose.Imaging을 사용하면 다양한 이미지 형식에 **크기 조정** �
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET 크기 조정 전용 라이선스" %}}
+<div style="font-size:16px;">
 이미지 크기 조정에만 관심이 있습니까? Aspose.Imaging Resize 라이선스는 제품의 다른 기능에 라이선스를 부여할 필요 없이 프로그래밍 방식으로 필요한 크기 조정을 구현하는 데 도움이 될 수 있습니다. <br/>
 <i><b>진짜로 만들기 위해 다음을 수행할 수 있습니다.</b></i>
 <ul>
@@ -72,3 +73,5 @@ v23.2부터 시작하여 <a href="https://www.nuget.org/packages/Aspose.Imaging"
 </ul>
 <i><b>다른 Aspose 제품에도 동일한 기회가 있습니까?</b></i><br/>
 예, <a href="https://aspose.market">https://aspose.market</a>에서 사용 가능한 다른 모듈식 라이선스 기회가 있습니다.
+</div>
+<br/>

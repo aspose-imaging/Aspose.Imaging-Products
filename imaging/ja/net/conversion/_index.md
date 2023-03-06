@@ -233,7 +233,7 @@ SVG の変換プロセスは同じです。SVG ファイルを読み込み、関
 </div>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET イメージ変換のみのライセンス" %}}
-
+<div style="font-size:16px;">
 <a href="https://en.wikipedia.org/wiki/Image_conversion">画像変換</a>機能のみを購入して使用する必要がある場合は、このトピックをお読みください。<br/>
 <i><b>変換機能のみを購入して使用する方法</b></i>
 <ul>
@@ -279,4 +279,5 @@ NETStandard2.0 以降の .NET プラットフォームは、変換ライセン�
 
 
 <br/>
-
+</div>
+<br/>

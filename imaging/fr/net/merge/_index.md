@@ -30,6 +30,7 @@ Liste complète des opérations Fusionner prises en charge par formats d'image 
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Licence de fusion d'images Aspose.Imaging .NET uniquement" %}}
+<div style="font-size:16px;">
 Cette rubrique concerne le cas où vous avez besoin d'acheter et d'utiliser uniquement la fonctionnalité de <b>fusion d'images</b>. La fusion d'images signifie ici la création d'un collage unique à partir de plusieurs images d'entrée ; <br/>
 <i><b>Comment acheter et utiliser uniquement la fonctionnalité de fusion ?</b></i>
 <ul>
@@ -72,9 +73,12 @@ Bien sûr, vous pouvez acheter et utiliser d'autres licences modulaires disponib
 </ul>
 <i><b>Existe-t-il les mêmes fonctionnalités pour les autres produits Aspose ?</b></i><br/>
 Oui, il existe d'autres offres de licences modulaires disponibles sur <a href="https://aspose.market">https://aspose.market</a>.
+</div>
+<br/>
 
 <br/>
 <h2>Licence d'album d'images Aspose.Imaging .NET uniquement</h2>
+<div style="font-size:16px;">
 Vous recherchez la possibilité de créer l'album d'images (livret) à partir de vos images ou photos par programmation ? Cette rubrique peut vous aider à atteindre l'objectif, en achetant uniquement la fonctionnalité requise.<br/>
 <i><b>Comment puis-je acheter et utiliser uniquement la fonction de création d'album d'images (livret) ?</b></i>
 <ul>
@@ -117,3 +121,5 @@ Bien sûr, vous pouvez consulter et acheter d'autres licences modulaires disponi
 </ul>
 <i><b>Existe-t-il les mêmes offres pour les autres produits Aspose ?</b></i><br/>
 Oui, il existe d'autres offres de licences modulaires disponibles sur <a href="https://aspose.market">https://aspose.market</a> pour les capacités de licences modulaires disponibles.
+</div>
+<br/>

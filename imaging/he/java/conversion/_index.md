@@ -233,6 +233,7 @@ description: המר קבצי תמונות, תמונות, תמונות פופול
 </div>
 
 {{% blocks/products/pf/feature-page-section  h2="" %}}
+<div style="font-size:16px;">
 
-
-
+</div>
+<br/>

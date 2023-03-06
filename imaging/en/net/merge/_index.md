@@ -30,6 +30,7 @@ Full list of supported Merge operations by image formats:
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET image merge only licensing" %}}
+<div style="font-size:16px;">
 This topic is for the case when you need buy and use <b>image merge</b> feature only. Image merge here means creation of single collage from the several input images; <br/> 
 <i><b>How to buy and use merge feature only?</b></i>
 <ul>
@@ -72,9 +73,12 @@ Sure you may purchase and use other available modular licenses:<br/>
 </ul>
 <i><b>Are there the same capabilities for other Aspose products?</b></i><br/>
 Yes, there are other available modular licensing offers at <a href="https://aspose.market">https://aspose.market</a>.
+</div>
+<br/>
 
 <br/>
 <h2>Aspose.Imaging .NET image album only licensing</h2>
+<div style="font-size:16px;">
 Looking for the ability to create the image album (booklet) from your images or photos programmatically? This topic may help to achieve the goal, buying required feature only.<br/> 
 <i><b>How can I buy and use image album (booklet) creation feature only?</b></i>
 <ul>
@@ -117,3 +121,5 @@ Sure you may review and purchase other available modular licenses:<br/>
 </ul>
 <i><b>Are there the same offers for other Aspose products?</b></i><br/>
 Yes, there are other available modular licensing offers at <a href="https://aspose.market">https://aspose.market</a> for available modular licensing capabilities.
+</div>
+<br/>

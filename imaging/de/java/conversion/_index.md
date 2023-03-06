@@ -233,6 +233,7 @@ Nachfolgend finden Sie eine vollständige Liste der Bildformate, aus denen Sie k
 </div>
 
 {{% blocks/products/pf/feature-page-section  h2="" %}}
+<div style="font-size:16px;">
 
-
-
+</div>
+<br/>

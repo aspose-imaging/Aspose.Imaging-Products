@@ -30,6 +30,7 @@ Pełna lista obsługiwanych operacji Zmień rozmiar według formatów obrazu:
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET tylko zmiana rozmiaru licencji" %}}
+<div style="font-size:16px;">
 Czy martwisz się tylko o zmianę rozmiaru obrazu? Licencja Aspose.Imaging Resize może pomóc w programowym zaimplementowaniu wymaganej zmiany rozmiaru bez konieczności licencjonowania innych funkcji produktu. <br/>
 <i><b>Aby to urzeczywistnić, możesz:</b></i>
 <ul>
@@ -72,3 +73,5 @@ Tak, obecnie dostępne są następujące licencje modułowe:<br/>
 </ul>
 <i><b>Czy istnieją takie same możliwości dla innych produktów Aspose?</b></i><br/>
 Tak, na <a href="https://aspose.market">https://aspose.market</a> dostępne są inne możliwości licencjonowania modułowego.
+</div>
+<br/>

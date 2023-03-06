@@ -30,6 +30,7 @@ Lista completa de operações Redimensionar suportadas por formatos de imagem:
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET redimensiona apenas licenciamento" %}}
+<div style="font-size:16px;">
 Você está preocupado apenas com o redimensionamento da imagem? O licenciamento do Aspose.Imaging Resize pode ajudá-lo a implementar o redimensionamento necessário programaticamente sem a necessidade de licenciar outros recursos do produto. <br/>
 <i><b>Para torná-lo real, você pode:</b></i>
 <ul>
@@ -72,3 +73,5 @@ Sim, as seguintes licenças modulares estão disponíveis por enquanto:<br/>
 </ul>
 <i><b>Existe a mesma oportunidade para outros produtos Aspose?</b></i><br/>
 Sim, existem outras oportunidades de licenciamento modular disponíveis em <a href="https://aspose.market">https://aspose.market</a>.
+</div>
+<br/>

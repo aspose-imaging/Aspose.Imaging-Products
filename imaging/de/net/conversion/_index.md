@@ -233,7 +233,7 @@ Nachfolgend finden Sie eine vollständige Liste der Bildformate, aus denen Sie k
 </div>
 
 {{% blocks/products/pf/feature-page-section  h2="Lizenzierung nur für Aspose.Imaging .NET Image-Konvertierung" %}}
-
+<div style="font-size:16px;">
 Bitte lesen Sie dieses Thema, wenn Sie nur die Funktion <a href="https://en.wikipedia.org/wiki/Image_conversion">Bildkonvertierung</a> kaufen und verwenden möchten.<br/>
 <i><b>Wie kaufe und verwende ich nur die Conversion-Funktion?</b></i>
 <ul>
@@ -279,4 +279,5 @@ Natürlich können Sie andere verfügbare modulare Lizenzen erwerben und verwend
 
 
 <br/>
-
+</div>
+<br/>

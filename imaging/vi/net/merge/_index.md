@@ -30,6 +30,7 @@ Danh sách đầy đủ các thao tác hợp nhất được hỗ trợ theo đ�
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Chỉ cấp phép hợp nhất hình ảnh Aspose.Imaging .NET" %}}
+<div style="font-size:16px;">
 Chủ đề này dành cho trường hợp bạn chỉ cần mua và sử dụng tính năng <b>hợp nhất hình ảnh</b>. Hợp nhất hình ảnh ở đây có nghĩa là tạo một ảnh ghép từ một số hình ảnh đầu vào; <br/>
 <i><b>Làm cách nào để chỉ mua và sử dụng tính năng hợp nhất?</b></i>
 <ul>
@@ -72,9 +73,12 @@ Chắc chắn bạn có thể mua và sử dụng các giấy phép mô-đun có
 </ul>
 <i><b>Các sản phẩm Aspose khác có khả năng tương tự không?</b></i><br/>
 Có, có các ưu đãi cấp phép mô-đun sẵn có khác tại <a href="https://aspose.market">https://aspose.market</a>.
+</div>
+<br/>
 
 <br/>
 <h2>Chỉ cấp phép cho album hình ảnh Aspose.Imaging .NET</h2>
+<div style="font-size:16px;">
 Tìm kiếm khả năng tạo album hình ảnh (tập sách) từ hình ảnh hoặc ảnh của bạn theo chương trình? Chủ đề này có thể giúp đạt được mục tiêu, chỉ mua tính năng bắt buộc.<br/>
 <i><b>Làm cách nào để tôi chỉ có thể mua và sử dụng tính năng tạo album ảnh (tập sách)?</b></i>
 <ul>
@@ -117,3 +121,5 @@ Chắc chắn rằng bạn có thể xem xét và mua các giấy phép mô-đun
 </ul>
 <i><b>Có ưu đãi tương tự cho các sản phẩm Aspose khác không?</b></i><br/>
 Có, có các ưu đãi cấp phép theo mô-đun sẵn có khác tại <a href="https://aspose.market">https://aspose.market</a> để biết các khả năng cấp phép theo mô-đun sẵn có.
+</div>
+<br/>

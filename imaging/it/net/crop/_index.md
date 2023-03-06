@@ -30,6 +30,7 @@ Elenco completo delle operazioni Raccolto supportate per formati immagine:
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET ritaglio solo licenze" %}}
+<div style="font-size:16px;">
 Nel caso in cui tu abbia bisogno di ritagliare le tue immagini come funzione solo selezionata, la licenza Aspose.Imaging Crop potrebbe soddisfare le tue esigenze. <br/>
 <i><b>Come puoi ottenerlo?</b></i>
 <ul>
@@ -70,3 +71,5 @@ Sì, sono disponibili le seguenti licenze modulari:<br/>
 </ul>
 <i><b>Ci sono le stesse opportunità per altri prodotti Aspose?</b></i><br/>
 Sì, sono disponibili altre opportunità di licenza modulare su <a href="https://aspose.market">https://aspose.market</a>.
+</div>
+<br/>

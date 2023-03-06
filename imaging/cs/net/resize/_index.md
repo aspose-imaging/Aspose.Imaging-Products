@@ -30,6 +30,7 @@ Pomocí Aspose.Imaging můžete snadno použít **Změnit velikost** pro různé
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET licencování pouze pro změnu velikosti" %}}
+<div style="font-size:16px;">
 Zajímá vás pouze změna velikosti obrázku? Licencování Aspose.Imaging Resize vám může pomoci implementovat požadovanou změnu velikosti programově bez nutnosti licencovat další funkce produktu. <br/>
 <i><b>Aby to bylo reálné, můžete:</b></i>
 <ul>
@@ -72,3 +73,5 @@ Ano, nyní jsou k dispozici následující modulární licence:<br/>
 </ul>
 <i><b>Existuje stejná příležitost pro další produkty Aspose?</b></i><br/>
 Ano, na adrese <a href="https://aspose.market">https://aspose.market</a> jsou k dispozici další možnosti modulárního licencování.
+</div>
+<br/>

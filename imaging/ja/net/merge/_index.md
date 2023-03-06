@@ -30,6 +30,7 @@ Aspose.Imaging を使用すると、さまざまな画像フォーマットに *
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET イメージ マージのみのライセンス" %}}
+<div style="font-size:16px;">
 このトピックは、<b>画​​像結合</b>機能のみを購入して使用する必要がある場合を対象としています。ここでの画像結合とは、複数の入力画像から 1 つのコラージュを作成することを意味します。 <br/>
 <i><b>マージ機能のみを購入して使用する方法</b></i>
 <ul>
@@ -72,9 +73,12 @@ Merge ライセンスは、NETStandard2.0 以降の .NET プラットフォー�
 </ul>
 <i><b>他の Aspose 製品にも同じ機能がありますか?</b></i><br/>
 はい、<a href="https://aspose.market">https://aspose.market</a> で他の利用可能なモジュラー ライセンス オファーがあります。
+</div>
+<br/>
 
 <br/>
 <h2>Aspose.Imaging .NET イメージ アルバムのみのライセンス</h2>
+<div style="font-size:16px;">
 プログラムで画像や写真から画像アルバム (小冊子) を作成する機能をお探しですか?このトピックは、必要な機能のみを購入して、目標を達成するのに役立つ場合があります。<br/>
 <i><b>イメージ アルバム (ブックレット) 作成機能のみを購入して使用するにはどうすればよいですか?</b></i>
 <ul>
@@ -117,3 +121,5 @@ NETStandard2.0 以降の .NET プラットフォームは、イメージ アル�
 </ul>
 <i><b>他の Aspose 製品にも同じオファーはありますか?</b></i><br/>
 はい、<a href="https://aspose.market">https://aspose.market</a> で利用可能なモジュラー ライセンス機能について、他の利用可能なモジュラー ライセンス オファーがあります。
+</div>
+<br/>

@@ -30,6 +30,7 @@ Lista completa de operações mesclar suportadas por formatos de imagem:
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET licenciamento somente para mesclagem de imagens" %}}
+<div style="font-size:16px;">
 Este tópico é para o caso em que você precisa comprar e usar apenas o recurso <b>mesclagem de imagem</b>. A fusão de imagens aqui significa a criação de uma colagem única a partir das várias imagens de entrada; <br/>
 <i><b>Como comprar e usar apenas o recurso de mesclagem?</b></i>
 <ul>
@@ -72,9 +73,12 @@ Claro que você pode comprar e usar outras licenças modulares disponíveis:<br/
 </ul>
 <i><b>Existem os mesmos recursos para outros produtos Aspose?</b></i><br/>
 Sim, existem outras ofertas de licenciamento modular disponíveis em <a href="https://aspose.market">https://aspose.market</a>.
+</div>
+<br/>
 
 <br/>
 <h2>Álbum de imagem Aspose.Imaging .NET licenciamento apenas</h2>
+<div style="font-size:16px;">
 Procurando a capacidade de criar o álbum de imagens (livreto) de suas imagens ou fotos de forma programática? Este tópico pode ajudar a atingir o objetivo, comprando apenas o recurso necessário.<br/>
 <i><b>Como posso comprar e usar apenas o recurso de criação de álbum de imagens (livreto)?</b></i>
 <ul>
@@ -117,3 +121,5 @@ Claro que você pode revisar e comprar outras licenças modulares disponíveis:<
 </ul>
 <i><b>Existem as mesmas ofertas para outros produtos Aspose?</b></i><br/>
 Sim, existem outras ofertas de licenciamento modular disponíveis em <a href="https://aspose.market">https://aspose.market</a> para recursos de licenciamento modular disponíveis.
+</div>
+<br/>

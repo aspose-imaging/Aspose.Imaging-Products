@@ -233,6 +233,7 @@ Di seguito è presentato l'elenco completo dei formati di immagine da cui è pos
 </div>
 
 {{% blocks/products/pf/feature-page-section  h2="" %}}
+<div style="font-size:16px;">
 
-
-
+</div>
+<br/>

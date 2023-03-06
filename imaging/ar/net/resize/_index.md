@@ -30,6 +30,7 @@ description: باستخدام Aspose.Imaging يمكنك بسهولة تغيير 
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET تغيير حجم الترخيص فقط" %}}
+<div style="font-size:16px;">
 هل أنت قلق بشأن تغيير حجم الصورة فقط؟ Aspose.Imaging قد يساعدك ترخيص تغيير الحجم في تنفيذ تغيير الحجم المطلوب برمجيًا دون الحاجة إلى ترخيص ميزات أخرى للمنتج. <br/>
 العلامة & lt ؛ ط & GT ؛ لجعله حقيقيًا ، يمكنك: </ b> </i>
 <ul>
@@ -72,3 +73,5 @@ description: باستخدام Aspose.Imaging يمكنك بسهولة تغيير 
 </ul>
 <i> <b> هل هناك نفس الفرصة لمنتجات Aspose الأخرى؟ </ b> </i> <br/>
 نعم ، هناك فرص ترخيص معيارية أخرى متاحة على <a href="https://aspose.market"> https://aspose.market </a>.
+</div>
+<br/>

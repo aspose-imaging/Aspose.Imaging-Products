@@ -30,6 +30,7 @@ description: 使用 Aspose.Imaging 你可以轻松地通过 net 获取 合并 �
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET 图像合并许可" %}}
+<div style="font-size:16px;">
 本主题适用于您只需要购买和使用<b>图像合并</b>功能的情况。这里的图像合并是指从多个输入图像创建单个拼贴画； <br/>
 <i><b>如何只购买和使用合并功能？</b></i>
 <ul>
@@ -72,9 +73,12 @@ NETStandard2.0 及更高版本的 .NET 平台支持合并许可；<br/>
 </ul>
 <i><b>其他 Aspose 产品是否具有相同的功能？</b></i><br/>
 是的，<a href="https://aspose.market">https://aspose.market</a> 上还有其他可用的模块化许可优惠。
+</div>
+<br/>
 
 <br/>
 <h2>Aspose.Imaging .NET 相册唯一许可</h2>
+<div style="font-size:16px;">
 寻找以编程方式从您的图像或照片创建图像相册（小册子）的能力？本主题可能有助于实现目标，仅购买所需的功能。<br/>
 <i><b>如何购买和使用仅画册（小册子）制作功能？</b></i>
 <ul>
@@ -117,3 +121,5 @@ NETStandard2.0及以上.NET平台适用于相册授权；<br/>
 </ul>
 <i><b>其他 Aspose 产品是否有相同的优惠？</b></i><br/>
 是的，在 <a href="https://aspose.market">https://aspose.market</a> 上还有其他可用的模块化许可优惠以提供可用的模块化许可功能。
+</div>
+<br/>

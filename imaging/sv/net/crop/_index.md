@@ -30,6 +30,7 @@ Fullständig lista över Beskära-operationer som stöds efter bildformat:
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET beskär endast licensiering" %}}
+<div style="font-size:16px;">
 Om du behöver beskära dina bilder som en utvald funktion, kan Aspose.Imaging Crop-licensering passa dina behov. <br/>
 <i><b>Hur kan du uppnå det?</b></i>
 <ul>
@@ -70,3 +71,5 @@ Ja, följande modulära licenser är tillgängliga:<br/>
 </ul>
 <i><b>Finns det samma möjlighet för andra Aspose-produkter?</b></i><br/>
 Ja, det finns andra tillgängliga modulära licensieringsmöjligheter på <a href="https://aspose.market">https://aspose.market</a>.
+</div>
+<br/>

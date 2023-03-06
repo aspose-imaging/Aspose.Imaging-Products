@@ -233,7 +233,7 @@ Nedan presenteras en fullständig lista över bildformat som du kan konvertera f
 </div>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET Image konvertera endast licensiering" %}}
-
+<div style="font-size:16px;">
 Läs det här ämnet om du bara behöver köpa och använda <a href="https://en.wikipedia.org/wiki/Image_conversion">bildkonverteringsfunktionen</a>.<br/>
 <i><b>Hur köper och använder du endast konverteringsfunktionen?</b></i>
 <ul>
@@ -279,4 +279,5 @@ Kontrollera säkert <a href="https://aspose.market">https://aspose.market</a> f�
 
 
 <br/>
-
+</div>
+<br/>

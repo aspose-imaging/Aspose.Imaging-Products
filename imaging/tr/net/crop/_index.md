@@ -30,6 +30,7 @@ Görüntü biçimlerine göre desteklenen {işlem adı} işlemlerinin tam listes
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET yalnızca kırpma lisanslaması" %}}
+<div style="font-size:16px;">
 Yalnızca seçilen bir özellik olarak görüntülerinizi kırpmanız gerekirse, Aspose.Imaging Crop lisansı ihtiyaçlarınızı karşılayabilir. <br/>
 <i><b>Bunu nasıl başarabilirsiniz?</b></i>
 <ul>
@@ -70,3 +71,5 @@ Evet, aşağıdaki modüler lisanslar mevcuttur:<br/>
 </ul>
 <i><b>Diğer Aspose ürünleri için de aynı fırsat var mı?</b></i><br/>
 Evet, <a href="https://aspose.market">https://aspose.market</a> adresinde başka modüler lisanslama fırsatları mevcuttur.
+</div>
+<br/>

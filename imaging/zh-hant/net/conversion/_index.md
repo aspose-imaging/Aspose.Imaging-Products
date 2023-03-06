@@ -233,7 +233,7 @@ SVG的轉換過程是一樣的，加載SVG文件，使用相關的圖片保存�
 </div>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET Image convert only 許可" %}}
-
+<div style="font-size:16px;">
 如果您只需要購買和使用<a href="https://en.wikipedia.org/wiki/Image_conversion">圖像轉換</a>功能，請閱讀本主題。<br/>
 <i><b>如何只購買和使用轉換功能？</b></i>
 <ul>
@@ -279,4 +279,5 @@ NETStandard2.0及更高版本.NET平台適合轉換授權；<br/>
 
 
 <br/>
-
+</div>
+<br/>

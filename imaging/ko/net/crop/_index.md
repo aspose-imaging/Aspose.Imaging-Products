@@ -30,6 +30,7 @@ Aspose.Imaging을 사용하면 다양한 이미지 형식에 **수확고** 을(�
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET 자르기 전용 라이선스" %}}
+<div style="font-size:16px;">
 선택한 기능으로 이미지를 잘라야 하는 경우 Aspose.Imaging 자르기 라이센스가 필요에 적합할 수 있습니다. <br/>
 <i><b>어떻게 달성할 수 있습니까?</b></i>
 <ul>
@@ -70,3 +71,5 @@ NETStandard2.0 이상의 .NET 플랫폼은 Aspose.Imaging Crop 라이선스를 �
 </ul>
 <i><b>다른 Aspose 제품에도 동일한 기회가 있습니까?</b></i><br/>
 예, <a href="https://aspose.market">https://aspose.market</a>에서 사용 가능한 다른 모듈식 라이선스 기회가 있습니다.
+</div>
+<br/>

@@ -30,6 +30,7 @@ Görüntü biçimlerine göre desteklenen {işlem adı} işlemlerinin tam listes
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET yalnızca lisanslamayı yeniden boyutlandırır" %}}
+<div style="font-size:16px;">
 Yalnızca görüntünün yeniden boyutlandırılmasıyla mı ilgileniyorsunuz? Aspose.Imaging Resize lisanslaması, ürünün diğer özelliklerini lisanslamanıza gerek kalmadan gerekli yeniden boyutlandırmayı programlı olarak uygulamanıza yardımcı olabilir. <br/>
 <i><b>Gerçekleştirmek için şunları yapabilirsiniz:</b></i>
 <ul>
@@ -72,3 +73,5 @@ Evet, şu anda aşağıdaki modüler lisanslar mevcuttur:<br/>
 </ul>
 <i><b>Diğer Aspose ürünleri için de aynı fırsat var mı?</b></i><br/>
 Evet, <a href="https://aspose.market">https://aspose.market</a> adresinde başka modüler lisanslama fırsatları mevcuttur.
+</div>
+<br/>

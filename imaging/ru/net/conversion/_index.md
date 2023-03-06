@@ -233,7 +233,7 @@ description: Преобразование популярных форматов 
 </div>
 
 {{% blocks/products/pf/feature-page-section  h2="Лицензирование плагина конвертации изображений Aspose.Imaging .NET Image Convert" %}}
-
+<div style="font-size:16px;">
 Прочтите этот раздел, если вам нужно купить и использовать только функцию <a href="https://en.wikipedia.org/wiki/Image_conversion">преобразования изображений</a>.<br/>
 <i><b>Как купить и использовать только функцию конверсии?</b></i>
 <ul>
@@ -279,4 +279,5 @@ description: Преобразование популярных форматов 
 
 
 <br/>
-
+</div>
+<br/>

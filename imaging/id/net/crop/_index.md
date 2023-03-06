@@ -30,6 +30,7 @@ Daftar lengkap operasi Tanaman yang didukung menurut format gambar:
 <br/>
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging .NET hanya memotong lisensi" %}}
+<div style="font-size:16px;">
 Jika Anda perlu memotong gambar Anda sebagai satu-satunya fitur yang dipilih, lisensi Pangkas Aspose.Imaging mungkin sesuai dengan kebutuhan Anda. <br/>
 <i><b>Bagaimana Anda bisa mencapainya?</b></i>
 <ul>
@@ -70,3 +71,5 @@ Ya, lisensi modular berikut tersedia:<br/>
 </ul>
 <i><b>Apakah ada peluang yang sama untuk produk Aspose lainnya?</b></i><br/>
 Ya, ada peluang pemberian lisensi modular lain yang tersedia di <a href="https://aspose.market">https://aspose.market</a>.
+</div>
+<br/>
