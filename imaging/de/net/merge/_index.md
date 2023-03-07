@@ -75,8 +75,6 @@ Natürlich können Sie auch andere verfügbare modulare Lizenzen erwerben und ve
 Ja, es gibt weitere verfügbare modulare Lizenzierungsangebote unter <a href="https://aspose.market">https://aspose.market</a>.
 </div>
 <br/>
-
-<br/>
 <h2>Lizenzierung nur für Aspose.Imaging .NET-Bilderalben</h2>
 <div style="font-size:16px;">
 Suchen Sie nach der Möglichkeit, das Bildalbum (Booklet) aus Ihren Bildern oder Fotos programmgesteuert zu erstellen? Dieses Thema kann helfen, das Ziel zu erreichen, indem nur die erforderliche Funktion gekauft wird.<br/>

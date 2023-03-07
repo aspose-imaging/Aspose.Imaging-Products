@@ -75,8 +75,6 @@ Sure you may purchase and use other available modular licenses:<br/>
 Yes, there are other available modular licensing offers at <a href="https://aspose.market">https://aspose.market</a>.
 </div>
 <br/>
-
-<br/>
 <h2>Aspose.Imaging .NET image album only licensing</h2>
 <div style="font-size:16px;">
 Looking for the ability to create the image album (booklet) from your images or photos programmatically? This topic may help to achieve the goal, buying required feature only.<br/> 

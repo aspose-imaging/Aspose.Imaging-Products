@@ -75,8 +75,6 @@ description: باستخدام Aspose.Imaging يمكنك بسهولة دمج ال
 نعم ، هناك عروض ترخيص معيارية أخرى متاحة على <a href="https://aspose.market"> https://aspose.market </a>.
 </div>
 <br/>
-
-<br/>
 <h2>Aspose.Imaging .NET ألبوم صور الترخيص فقط</h2>
 <div style="font-size:16px;">
 هل تبحث عن امكانية انشاء البوم الصور (كتيب) من صورك او صورك برمجيا؟ هذا الموضوع قد يساعد في تحقيق الهدف ، شراء الميزة المطلوبة فقط. <br/>

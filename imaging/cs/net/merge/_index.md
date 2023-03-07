@@ -75,8 +75,6 @@ Jistě si můžete zakoupit a používat další dostupné modulární licence:<
 Ano, na adrese <a href="https://aspose.market">https://aspose.market</a> jsou k dispozici další nabídky modulárních licencí.
 </div>
 <br/>
-
-<br/>
 <h2>Licencování pouze na album obrázků Aspose.Imaging .NET</h2>
 <div style="font-size:16px;">
 Hledáte možnost vytvořit obrázkové album (booklet) z vašich obrázků nebo fotografií programově? Toto téma vám může pomoci dosáhnout cíle a zakoupit pouze požadovanou funkci.<br/>

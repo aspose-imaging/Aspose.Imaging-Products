@@ -75,8 +75,6 @@ Diğer mevcut modüler lisansları satın alıp kullanabileceğinizden emin olab
 Evet, <a href="https://aspose.market">https://aspose.market</a> adresinde başka modüler lisanslama teklifleri mevcuttur.
 </div>
 <br/>
-
-<br/>
 <h2>Yalnızca Aspose.Imaging .NET resim albümü lisanslaması</h2>
 <div style="font-size:16px;">
 Görüntülerinizden veya fotoğraflarınızdan programlı olarak görüntü albümü (kitapçık) oluşturma yeteneği mi arıyorsunuz? Bu konu, yalnızca gerekli özelliği satın alarak hedefe ulaşmanıza yardımcı olabilir.<br/>

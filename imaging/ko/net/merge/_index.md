@@ -75,8 +75,6 @@ v23.2부터 시작하여 <a href="https://www.nuget.org/packages/Aspose.Imaging"
 예, <a href="https://aspose.market">https://aspose.market</a>에서 사용 가능한 다른 모듈식 라이선스 제안이 있습니다.
 </div>
 <br/>
-
-<br/>
 <h2>Aspose.Imaging .NET 이미지 앨범 전용 라이선스</h2>
 <div style="font-size:16px;">
 프로그래밍 방식으로 이미지 또는 사진에서 이미지 앨범(소책자)을 만드는 기능을 찾고 계십니까? 이 항목은 필요한 기능만 구입하여 목표를 달성하는 데 도움이 될 수 있습니다.<br/>

@@ -75,8 +75,6 @@ NETStandard2.0 及更高版本的 .NET 平台支持合并许可；<br/>
 是的，<a href="https://aspose.market">https://aspose.market</a> 上还有其他可用的模块化许可优惠。
 </div>
 <br/>
-
-<br/>
 <h2>Aspose.Imaging .NET 相册唯一许可</h2>
 <div style="font-size:16px;">
 寻找以编程方式从您的图像或照片创建图像相册（小册子）的能力？本主题可能有助于实现目标，仅购买所需的功能。<br/>

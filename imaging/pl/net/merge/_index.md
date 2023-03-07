@@ -75,8 +75,6 @@ Oczywiście możesz kupować i używać innych dostępnych licencji modułowych:
 Tak, na <a href="https://aspose.market">https://aspose.market</a> dostępne są inne oferty licencjonowania modułowego.
 </div>
 <br/>
-
-<br/>
 <h2>Aspose.Imaging Tylko licencja na album obrazów .NET</h2>
 <div style="font-size:16px;">
 Szukasz możliwości programowego tworzenia albumu obrazów (książeczki) ze swoich obrazów lub zdjęć? Ten temat może pomóc w osiągnięciu celu, kupując tylko wymaganą funkcję.<br/>
