@@ -1,21 +1,21 @@
 ﻿---
-title: Convertir de TIFF vers d'autres formats via .NET 
+title: Konvertieren Sie von TIFF(Markiertes Bildformat) in andere Formate über die Bild-API von .NET 
 weight: 3920
 url: /de/net/conversion/from/tiff 
 lang: de
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Mit Aspose.Imaging können Sie ganz einfach von TIFF in andere Formate konvertieren
+description: Mit Aspose.Imaging können Sie ganz einfach von TIFF(Markiertes Bildformat) in andere Formate konvertieren
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertierung von Bilddateien von TIFF über .NET" h2="Konvertieren Sie von TIFF in andere Formate" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertierung von Bilddateien aus TIFF (Markiertes Bildformat) über die Bild-API von .NET" h2="Konvertieren Sie mithilfe der Aspose.Imaging-API von Markiertes Bildformat in andere Formate" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bildformate zum Konvertieren von TIFF" %}}
-Aspose.Imaging ermöglicht die Automatisierung vieler Konvertierungen von TIFF in andere Formate auf der .NET-Plattform.
+{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bildformate zum Konvertieren von TIFF(Markiertes Bildformat)" %}}
+Aspose.Imaging ermöglicht die Automatisierung vieler Konvertierungen von TIFF in andere Formate auf der .NET-Plattform. TIFF oder TIF, Tagged Image File Format, stellt Rasterbilder dar, die für die Verwendung auf einer Vielzahl von Geräten gedacht sind, die diesem Dateiformatstandard entsprechen. Es ist in der Lage, Bilevel-, Graustufen-, Palettenfarben- und Vollfarben-Bilddaten in mehreren Farbräumen zu beschreiben. Es unterstützt sowohl verlustbehaftete als auch verlustfreie Komprimierungsschemata, um zwischen Speicherplatz und Zeit für Anwendungen zu wählen, die das Format verwenden. Das Format ist erweiterbar und wurde mehrfach überarbeitet, was die Aufnahme einer unbegrenzten Menge an privaten oder speziellen Informationen ermöglicht. Das Format ist nicht maschinenabhängig und frei von Grenzen wie Prozessor, Betriebssystem oder Dateisystem.
 <br/>
-Vollständige Liste der unterstützten Konvertierungen:
+Vollständige Liste der unterstützten Konvertierungen von TIFF:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

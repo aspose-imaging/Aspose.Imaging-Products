@@ -1,20 +1,20 @@
 ﻿---
-title: Converteer van JPEG naar andere ondersteunde formaten met Aspose.Imaging voor Java 
+title: Converteer van JPEG(Joint Photographic Experts Group) naar andere ondersteunde formaten met Aspose.Imaging voor Java API 
 weight: 3920
 url: /nl/java/conversion/from/jpeg 
 lang: nl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging kan eenvoudig converteren van JPEG naar andere formaten met behulp van het Java-platform
+description: Aspose.Imaging kan eenvoudig converteren van JPEG(Joint Photographic Experts Group) naar andere formaten met behulp van het Java-platform
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer afbeeldingen van JPEG-indeling met Aspose.Imaging voor Java" h2="Converteer van JPEG afbeeldingsformaat naar andere formaten met behulp van het Java-platform" downloadText="Downloaden" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer afbeeldingen van JPEG-indeling met Aspose.Imaging voor Java" h2="Converteer van JPEG(Joint Photographic Experts Group) afbeeldingsformaat naar andere formaten met behulp van het Java-platform" downloadText="Downloaden" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Breed spectrum aan afbeeldingsindelingen die kunnen worden geconverteerd van JPEG-afbeeldingen met Aspose.Imaging voor Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Breed spectrum aan afbeeldingsindelingen die kunnen worden geconverteerd van JPEG(Joint Photographic Experts Group)-afbeeldingen met Aspose.Imaging voor Java" %}}
 U kunt programmatisch converteren van het JPEG-formaat naar andere beschikbare formaten met behulp van
-Aspose.Imaging voor Java.
+Aspose.Imaging voor Java. Een JPEG is een type afbeeldingsformaat dat wordt opgeslagen met de methode van compressie met verlies. Het uitvoerbeeld, als resultaat van compressie, is een afweging tussen opslaggrootte en beeldkwaliteit. Gebruikers kunnen het compressieniveau aanpassen om het gewenste kwaliteitsniveau te bereiken en tegelijkertijd de opslagruimte verkleinen. De beeldkwaliteit wordt verwaarloosbaar beïnvloed als 10:1 compressie op de afbeelding wordt toegepast. Hoe hoger de compressiewaarde, hoe groter de verslechtering van de beeldkwaliteit.
 <br/>
 Er zijn de volgende verbouwingen aan boord:
 {{% /blocks/products/pf/feature-page-section %}}

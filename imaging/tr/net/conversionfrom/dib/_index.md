@@ -1,21 +1,21 @@
 ﻿---
-title: .NET Aracılığıyla DIB'ten diğer biçimlere dönüştürün 
+title: .NET görüntü API'sı aracılığıyla DIB(Cihazdan Bağımsız Bit Eşlem) biçimini diğer biçimlere dönüştürün 
 weight: 3920
 url: /tr/net/conversion/from/dib 
 lang: tr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging'i kullanarak DIB biçimini kolayca başka biçimlere dönüştürebilirsiniz
+description: Aspose.Imaging'i kullanarak DIB(Cihazdan Bağımsız Bit Eşlem) biçimini kolayca başka biçimlere dönüştürebilirsiniz
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET Yoluyla DIB'den Görüntü Dosyaları Dönüştürme" h2="DIB biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET image API aracılığıyla DIB(Cihazdan Bağımsız Bit Eşlem)'den Görüntü Dosyaları Dönüşümü" h2="Aspose.Imaging API kullanarak Cihazdan Bağımsız Bit Eşlem formatını diğer formatlara dönüştürün" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="DIB'den dönüştürülecek desteklenen tüm resim biçimleri" %}}
-Aspose.Imaging, .NET platformunda DIB'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir.
+{{% blocks/products/pf/feature-page-section  h2="DIB(Cihazdan Bağımsız Bit Eşlem) biçiminden dönüştürülecek desteklenen tüm resim biçimleri" %}}
+Aspose.Imaging, .NET platformunda DIB'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir. Bir DIB (Aygıttan Bağımsız Bitmap) dosyası, yapı olarak standart Bitmap dosyalarına (BMP) benzeyen ancak farklı bir başlığa sahip olan bir raster görüntü dosyasıdır. MacOS'un yanı sıra Windows'ta standart bir BMP dosyası açabilen hemen hemen tüm uygulamalarla açılabilir. DIB ikili dosyalardır ve BMP'ye benzer karmaşık bir dosya biçimine sahiptir.
 <br/>
-Desteklenen dönüşümlerin tam listesi:
+DIB tarafından desteklenen dönüşümlerin tam listesi:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

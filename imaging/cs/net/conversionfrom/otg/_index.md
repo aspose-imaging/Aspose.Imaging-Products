@@ -1,21 +1,21 @@
 ﻿---
-title: Převést z OTG do jiných formátů přes .NET 
+title: Převést z formátu OTG(OpenDocument Standard) do jiných formátů prostřednictvím rozhraní API pro obrázky .NET 
 weight: 3920
 url: /cs/net/conversion/from/otg 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Pomocí Aspose.Imaging můžete snadno převést z formátu OTG do jiných formátů
+description: Pomocí Aspose.Imaging můžete snadno převést z formátu OTG(OpenDocument Standard) do jiných formátů
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů z formátu OTG prostřednictvím .NET" h2="Převést z OTG do jiných formátů" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů z formátu OTG(OpenDocument Standard) prostřednictvím rozhraní API pro obrázky .NET" h2="Převeďte z OpenDocument Standard do jiných formátů pomocí Aspose.Imaging API" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu z formátu OTG" %}}
-Aspose.Imaging umožňuje automatizovat mnoho konverzí z OTG do jiných formátů na platformě .NET.
+{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu z formátu OTG (OpenDocument Standard)" %}}
+Aspose.Imaging umožňuje automatizovat mnoho konverzí z OTG do jiných formátů na platformě .NET. Soubor OTG je šablona výkresu vytvořená pomocí standardu OpenDocument podle specifikace OASIS Office Applications 1.0. Představuje výchozí organizaci prvků výkresu pro vektorový obrázek, který lze použít k dalšímu vylepšení obsahu souboru.
 <br/>
-Úplný seznam podporovaných konverzí:
+Úplný seznam podporovaných konverzí z OTG:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

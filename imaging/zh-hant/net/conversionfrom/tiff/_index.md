@@ -1,21 +1,21 @@
 ﻿---
-title: 通過 .NET 從 TIFF 轉換為其他格式 
+title: 通過 .NET 圖像 API 從 TIFF(標記圖像格式) 轉換為其他格式 
 weight: 3920
 url: /zh-hant/net/conversion/from/tiff 
 lang: zh-hant
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: 使用 Aspose.Imaging，您可以輕鬆地將 TIFF 轉換為其他格式
+description: 使用 Aspose.Imaging，您可以輕鬆地將 TIFF(標記圖像格式) 轉換為其他格式
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="通過 .NET 從 TIFF 轉換圖像文件" h2="從 TIFF 轉換為其他格式" downloadText="下載" >}}
+{{< blocks/products/pf/feature-page-header h1="通過 .NET 圖像 API 從 TIFF(標記圖像格式) 轉換圖像文件" h2="使用 Aspose.Imaging API 從 標記圖像格式 轉換為其他格式" downloadText="下載" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="要從 TIFF 轉換的所有支持的圖像格式" %}}
-Aspose.Imaging 允許在 .NET 平台上自動進行從 TIFF 到其他格式的大量轉換。
+{{% blocks/products/pf/feature-page-section  h2="從 TIFF(標記圖像格式) 轉換的所有支持的圖像格式" %}}
+Aspose.Imaging 允許在 .NET 平台上自動進行從 TIFF 到其他格式的大量轉換。 TIFF 或 TIF，標記圖像文件格式，表示用於在符合此文件格式標準的各種設備上使用的光柵圖像。它能夠在多個顏色空間中描述雙層、灰度、調色板顏色和全彩色圖像數據。它支持有損和無損壓縮方案，以便為使用該格式的應用程序在空間和時間之間進行選擇。該格式是可擴展的，並且經過多次修改，允許包含無限量的私人或特殊用途信息。該格式不依賴於機器，並且不受處理器、操作系統或文件系統等限制。
 <br/>
-支持的轉換的完整列表：
+TIFF 支持的轉換的完整列表：
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -1,21 +1,21 @@
 ﻿---
-title: .NET을 통해 ICO에서 다른 형식으로 변환 
+title: .NET 이미지 API를 통해 ICO(윈도우 아이콘)에서 다른 형식으로 변환 
 weight: 3920
 url: /ko/net/conversion/from/ico 
 lang: ko
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging을 사용하면 ICO에서 다른 형식으로 쉽게 변환할 수 있습니다.
+description: Aspose.Imaging을 사용하면 ICO(윈도우 아이콘) 에서 다른 형식으로 쉽게 변환할 수 있습니다.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET을 통해 ICO에서 이미지 파일 변환" h2="ICO에서 다른 형식으로 변환" downloadText="다운로드" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET 이미지 API를 통해 ICO(윈도우 아이콘)에서 이미지 파일 변환" h2="Aspose.Imaging API를 사용하여 윈도우 아이콘에서 다른 형식으로 변환" downloadText="다운로드" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="ICO에서 변환할 지원되는 모든 이미지 형식" %}}
+{{% blocks/products/pf/feature-page-section  h2="ICO(윈도우 아이콘)에서 변환할 지원되는 모든 이미지 형식 ICO 파일 형식은 Microsoft Windows의 컴퓨터 아이콘에 대한 이미지 파일 형식입니다. ICO 파일에는 적절하게 크기를 조정할 수 있도록 여러 크기와 색상 깊이의 하나 이상의 작은 이미지가 포함되어 있습니다. Windows에서 바탕 화면, 시작 메뉴 또는 Windows 탐색기에서 사용자에게 아이콘을 표시하는 모든 실행 파일에는 ICO 형식의 아이콘이 있어야 합니다." %}}
 Aspose.Imaging을 사용하면 ICO에서 .NET 플랫폼의 다른 형식으로 많은 변환을 자동화할 수 있습니다.
 <br/>
-지원되는 변환의 전체 목록:
+ICO에서 지원되는 변환의 전체 목록:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

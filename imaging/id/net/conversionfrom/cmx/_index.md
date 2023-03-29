@@ -1,21 +1,21 @@
 ﻿---
-title: Konversikan dari CMX ke format lain Melalui .NET 
+title: Konversikan dari CMX(Corel Exchange Gambar) ke format lain Melalui API gambar .NET 
 weight: 3920
 url: /id/net/conversion/from/cmx 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi dari CMX ke format lain
+description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi dari CMX(Corel Exchange Gambar) ke format lain
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar dari CMX Melalui .NET" h2="Konversikan dari CMX ke format lain" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar dari CMX(Corel Exchange Gambar) Melalui API gambar .NET" h2="Konversikan dari Corel Exchange Gambar ke format lain menggunakan Aspose.Imaging API" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari CMX" %}}
-Aspose.Imaging memungkinkan mengotomatiskan banyak konversi dari CMX ke format lain di platform .NET.
+{{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari CMX(Corel Exchange Gambar)" %}}
+Aspose.Imaging memungkinkan mengotomatiskan banyak konversi dari CMX ke format lain di platform .NET. File dengan ekstensi CMX adalah format file gambar Corel Exchange yang digunakan sebagai presentasi oleh aplikasi CorelSuite. Ini berisi data gambar sebagai grafik vektor serta metadata yang menggambarkan gambar. File CMX dapat dibuka dengan CorelDraw, Corel Presentations, Paint Shop Pro dan beberapa versi Adobe Illustrator.
 <br/>
-Daftar lengkap konversi yang didukung:
+Daftar lengkap konversi yang didukung dari CMX:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

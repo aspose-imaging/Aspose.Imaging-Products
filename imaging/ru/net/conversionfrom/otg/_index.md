@@ -1,21 +1,21 @@
 ﻿---
-title: Конвертировать из OTG в другие форматы с помощью .NET 
+title: Преобразование из OTG(Стандарт OpenDocument) в другие форматы с помощью API изображений .NET 
 weight: 3920
 url: /ru/net/conversion/from/otg 
 lang: ru
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Используя Aspose.Imaging, вы можете легко конвертировать из OTG в другие форматы.
+description: Используя Aspose.Imaging, вы можете легко конвертировать из OTG(Стандарт OpenDocument) в другие форматы.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование файлов изображений из OTG с помощью .NET" h2="Конвертировать из OTG в другие форматы" downloadText="Скачать" >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование файлов изображений из OTG(Стандарт OpenDocument) через .NET API изображений" h2="Преобразование из Стандарт OpenDocument в другие форматы с помощью Aspose.Imaging API" downloadText="Скачать" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Все поддерживаемые форматы изображений для преобразования из OTG" %}}
-Aspose.Imaging позволяет автоматизировать множество преобразований из OTG в другие форматы на платформе .NET.
+{{% blocks/products/pf/feature-page-section  h2="Все поддерживаемые форматы изображений для преобразования из OTG(Стандарт OpenDocument)" %}}
+Aspose.Imaging позволяет автоматизировать множество преобразований из OTG в другие форматы на платформе .NET. Файл OTG представляет собой шаблон чертежа, созданный с использованием стандарта OpenDocument, который соответствует спецификации OASIS Office Applications 1.0. Он представляет собой организацию элементов рисования по умолчанию для векторного изображения, которую можно использовать для дальнейшего улучшения содержимого файла.
 <br/>
-Полный список поддерживаемых преобразований:
+Полный список поддерживаемых преобразований из OTG:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

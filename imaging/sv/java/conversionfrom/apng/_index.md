@@ -1,20 +1,20 @@
 ﻿---
-title: Konvertera från APNG till andra format som stöds med Aspose.Imaging för Java 
+title: Konvertera från APNG(Animerad bärbar nätverksgrafik) till andra format som stöds med Aspose.Imaging för Java API 
 weight: 3920
 url: /sv/java/conversion/from/apng 
 lang: sv
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging kan enkelt konvertera från APNG till andra format med hjälp av Java-plattformen
+description: Aspose.Imaging kan enkelt konvertera från APNG(Animerad bärbar nätverksgrafik) till andra format med hjälp av Java-plattformen
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertera bilder från formatet APNG med Aspose.Imaging för Java" h2="Konvertera från APNG bildformat till andra format med Java-plattformen" downloadText="Ladda ner" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertera bilder från formatet APNG med Aspose.Imaging för Java" h2="Konvertera från APNG(Animerad bärbar nätverksgrafik) bildformat till andra format med Java-plattformen" downloadText="Ladda ner" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Brett spektrum av bildformat som kan konverteras från APNG-bilder med Aspose.Imaging för Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Brett spektrum av bildformat som kan konverteras från APNG(Animerad bärbar nätverksgrafik)-bilder med Aspose.Imaging för Java" %}}
 Du kan programmatiskt konvertera från formatet APNG till andra tillgängliga format med hjälp av
-Aspose.Imaging för Java.
+Aspose.Imaging för Java. En fil med tillägget .apng (Animated Portable Network Graphics) är ett rastergrafikformat och är ett inofficiellt tillägg till Portable Network Graphic (PNG ). Den består av flera bildrutor (var och en av PNG-bilder) som representerar en animationssekvens. Detta ger liknande visualisering som en GIF-fil. APNG-filer stöder 24-bitars bilder och 8-bitars transparens. APNG är bakåtkompatibel med icke-animerade GIF-filer. APNG-filer använder samma .png-tillägg och kan öppnas av applikationer som Mozilla Firefox, Chrome med APNG-stöd, iMessage-appar för iOS 10.
 <br/>
 Det finns följande konverteringar ombord:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,21 +1,21 @@
 ﻿---
-title: המר מ-WMZ לפורמטים אחרים דרך .NET 
+title: המר מ-WMZ(עור דחוס של Windows Media Player) לפורמטים אחרים באמצעות API של תמונה של .NET 
 weight: 3920
 url: /he/net/conversion/from/wmz 
 lang: he
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: באמצעות Aspose.Imaging תוכל להמיר בקלות מ-WMZ לפורמט אחר
+description: באמצעות Aspose.Imaging תוכל להמיר בקלות מ- WMZ(עור דחוס של Windows Media Player) לפורמט אחר
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה מ-WMZ דרך .NET" h2="המר מ-WMZ לפורמט אחר" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה מ-WMZ(עור דחוס של Windows Media Player) באמצעות API של תמונה של .NET" h2="המר מ-עור דחוס של Windows Media Player לפורמטים אחרים באמצעות Aspose.Imaging API" downloadText="הורד" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה מ-WMZ" %}}
-Aspose.Imaging מאפשר לבצע אוטומציה של המרות רבות מ-WMZ לפורמטים אחרים בפלטפורמת NET.
+{{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה מ-WMZ(עור דחוס של Windows Media Player)" %}}
+Aspose.Imaging מאפשר לבצע אוטומציה של המרות רבות מ-WMZ לפורמטים אחרים בפלטפורמת NET. WMZ היא סיומת קובץ עבור פורמט קובץ סקין ב/עבור/בשימוש על ידי Windows Media Player. קובץ WMZ הוא בעצם קובץ WMF דחוס ב-XML.
 <br/>
-רשימה מלאה של המרות נתמכות:
+רשימה מלאה של המרות נתמכות מ-WMZ:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

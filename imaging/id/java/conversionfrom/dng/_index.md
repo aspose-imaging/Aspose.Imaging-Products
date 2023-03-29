@@ -1,20 +1,20 @@
 ﻿---
-title: Konversikan dari DNG ke format lain yang didukung menggunakan Aspose.Imaging untuk Java 
+title: Konversikan dari DNG(Gambar Kamera Digital) ke format lain yang didukung menggunakan Aspose.Imaging untuk Java API 
 weight: 3920
 url: /id/java/conversion/from/dng 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging dapat dengan mudah mengonversi dari DNG ke format lain menggunakan platform Java
+description: Aspose.Imaging dapat dengan mudah mengonversi dari DNG(Gambar Kamera Digital) ke format lain menggunakan platform Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversikan gambar dari format DNG menggunakan Aspose.Imaging untuk Java" h2="Konversi dari format gambar DNG ke format lain menggunakan platform Java" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversikan gambar dari format DNG menggunakan Aspose.Imaging untuk Java" h2="Konversi dari format gambar DNG(Gambar Kamera Digital) ke format lain menggunakan platform Java" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Spektrum luas format gambar yang dapat dikonversi dari gambar DNG menggunakan Aspose.Imaging untuk Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Spektrum luas format gambar yang dapat dikonversi dari gambar DNG(Gambar Kamera Digital) menggunakan Aspose.Imaging untuk Java" %}}
 Anda dapat secara terprogram mengonversi dari format DNG ke format lain yang tersedia menggunakan
-Aspose.Imaging untuk Java.
+Aspose.Imaging untuk Java. DNG adalah format gambar kamera digital yang digunakan untuk penyimpanan file mentah. Ini telah dikembangkan oleh Adobe pada bulan September 2004. Ini pada dasarnya dikembangkan untuk fotografi digital. DNG adalah perpanjangan dari format standar TIFF/EP dan menggunakan metadata secara signifikan. Untuk memanipulasi data mentah dari kamera digital dengan fleksibilitas dan kontrol artistik yang mudah, fotografer memilih file mentah kamera. Format JPEG dan TIFF menyimpan gambar yang diproses oleh kamera, oleh karena itu tidak banyak ruang untuk perubahan yang tersedia dalam format tersebut.
 <br/>
 Ada konversi berikut di pesawat:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,21 +1,21 @@
 ﻿---
-title: .NET을 통해 WMF에서 다른 형식으로 변환 
+title: .NET 이미지 API를 통해 WMF(마이크로소프트 윈도우 메타파일)에서 다른 형식으로 변환 
 weight: 3920
 url: /ko/net/conversion/from/wmf 
 lang: ko
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging을 사용하면 WMF에서 다른 형식으로 쉽게 변환할 수 있습니다.
+description: Aspose.Imaging을 사용하면 WMF(마이크로소프트 윈도우 메타파일) 에서 다른 형식으로 쉽게 변환할 수 있습니다.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET을 통해 WMF에서 이미지 파일 변환" h2="WMF에서 다른 형식으로 변환" downloadText="다운로드" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET 이미지 API를 통해 WMF(마이크로소프트 윈도우 메타파일)에서 이미지 파일 변환" h2="Aspose.Imaging API를 사용하여 마이크로소프트 윈도우 메타파일에서 다른 형식으로 변환" downloadText="다운로드" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="WMF에서 변환할 지원되는 모든 이미지 형식" %}}
+{{% blocks/products/pf/feature-page-section  h2="WMF(마이크로소프트 윈도우 메타파일)에서 변환할 지원되는 모든 이미지 형식 WMF 확장자를 가진 파일은 벡터 및 비트맵 형식 이미지 데이터를 저장하기 위한 Microsoft WMF(Windows 메타파일)를 나타냅니다. 더 정확하게 말하면 WMF는 장치 독립적인 그래픽 파일 형식의 벡터 파일 형식 범주에 속합니다. Windows GDI(그래픽 장치 인터페이스)는 WMF 파일에 저장된 기능을 사용하여 화면에 이미지를 표시합니다. EMF(Enhanced Meta Files)로 알려진 보다 향상된 WMF 버전이 나중에 게시되어 형식을 더욱 풍부하게 만들었습니다. 실제로 WMF는 SVG와 유사합니다." %}}
 Aspose.Imaging을 사용하면 WMF에서 .NET 플랫폼의 다른 형식으로 많은 변환을 자동화할 수 있습니다.
 <br/>
-지원되는 변환의 전체 목록:
+WMF에서 지원되는 변환의 전체 목록:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

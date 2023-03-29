@@ -1,19 +1,19 @@
 ﻿---
-title: Converti immagini in formato immagine JPEG da altri formati supportati utilizzando la piattaforma .NET 
+title: Converti immagini in formato immagine JPEG(Gruppo congiunto di esperti fotografici) da altri formati supportati utilizzando la piattaforma .NET 
 weight: 3920
 url: /it/net/conversion/to/jpeg 
 lang: it
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Utilizzando Aspose.Imaging per la libreria .NET è facile convertire in JPEG da altri formati di immagine supportati
+description: Utilizzando Aspose.Imaging per la libreria .NET è facile convertire in JPEG(Gruppo congiunto di esperti fotografici) da altri formati di immagine supportati
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converti file immagine in formato immagine JPEG utilizzando la piattaforma .NET" h2="Converti in formato JPEG da altri formati utilizzando Aspose.Imaging per la libreria .NET" downloadText="Scarica" >}}
+{{< blocks/products/pf/feature-page-header h1="Converti file immagine in formato immagine JPEG(Gruppo congiunto di esperti fotografici) utilizzando la piattaforma .NET" h2="Converti in formato Gruppo congiunto di esperti fotografici da altri formati utilizzando Aspose.Imaging per la libreria .NET" downloadText="Scarica" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tutte le conversioni supportate nel formato JPEG utilizzando Aspose.Imaging per la libreria .NET" %}}
-Utilizzando la libreria Aspose.Imaging è possibile convertire in modo programmatico vari formati di immagine in JPEG image.
+{{% blocks/products/pf/feature-page-section  h2="Tutte le conversioni supportate nel formato JPEG(Gruppo congiunto di esperti fotografici) utilizzando Aspose.Imaging per la libreria .NET" %}}
+Utilizzando la libreria Aspose.Imaging è possibile convertire in modo programmatico vari formati di immagine in JPEG image. Un JPEG è un tipo di formato immagine che viene salvato utilizzando il metodo di compressione con perdita di dati. L'immagine di output, come risultato della compressione, è un compromesso tra la dimensione della memoria e la qualità dell'immagine. Gli utenti possono regolare il livello di compressione per ottenere il livello di qualità desiderato riducendo allo stesso tempo le dimensioni dello storage. La qualità dell'immagine viene influenzata in modo trascurabile se all'immagine viene applicata la compressione 10:1. Maggiore è il valore di compressione, maggiore è il degrado della qualità dell'immagine.
 <br/>
 Sono supportate le seguenti conversioni:
 {{% /blocks/products/pf/feature-page-section %}}

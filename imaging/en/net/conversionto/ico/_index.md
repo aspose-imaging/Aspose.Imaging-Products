@@ -1,19 +1,19 @@
 ﻿---
-title: Convert images to ICO image format from other supported formats using .NET platform 
+title: Convert images to ICO(Windows icon) image format from other supported formats using .NET platform 
 weight: 3920
 url: /net/conversion/to/ico 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Using Aspose.Imaging for .NET library it is easy to convert to ICO from other supported image formats
+description: Using Aspose.Imaging for .NET library it is easy to convert to ICO(Windows icon) from other supported image formats
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert Image Files to ICO image format using .NET platform" h2="Convert to ICO format from other formats using Aspose.Imaging for .NET library" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert Image Files to ICO(Windows icon) image format using .NET platform" h2="Convert to Windows icon format from other formats using Aspose.Imaging for .NET library" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="All supported conversions to ICO format using Aspose.Imaging for .NET library" %}}
-Using Aspose.Imaging library you can programmatically convert various image formats to ICO image.
+{{% blocks/products/pf/feature-page-section  h2="All supported conversions to ICO(Windows icon) format using Aspose.Imaging for .NET library" %}}
+Using Aspose.Imaging library you can programmatically convert various image formats to ICO image. The ICO file format is an image file format for computer icons in Microsoft Windows. ICO files contain one or more small images at multiple sizes and color depths, such that they may be scaled appropriately. In Windows, all executables that display an icon to the user, on the desktop, in the Start Menu, or in Windows Explorer, must carry the icon in ICO format.
 <br/>
 Following conversions are supported :
 {{% /blocks/products/pf/feature-page-section %}}

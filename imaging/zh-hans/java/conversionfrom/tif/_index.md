@@ -1,20 +1,20 @@
 ﻿---
-title: 使用 Aspose.Imaging for Java 从 TIF 转换为其他支持的格式 
+title: 使用 Aspose.Imaging for Java API 从 TIF(标记图像格式) 转换为其他支持的格式 
 weight: 3920
 url: /zh-hans/java/conversion/from/tif 
 lang: zh-hans
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging 可以使用 Java 平台轻松地将 TIF 转换为其他格式
+description: Aspose.Imaging 可以使用 Java 平台轻松地将 TIF(标记图像格式) 转换为其他格式
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="使用 Aspose.Imaging for Java 从 TIF 格式转换图像" h2="使用 Java 平台将 TIF 图像格式转换为其他格式" downloadText="下载" >}}
+{{< blocks/products/pf/feature-page-header h1="使用 Aspose.Imaging for Java 从 TIF 格式转换图像" h2="使用 Java 平台将 TIF(标记图像格式) 图像格式转换为其他格式" downloadText="下载" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="可以使用 Aspose.Imaging for Java 从 TIF 图像转换的各种图像格式" %}}
+{{% blocks/products/pf/feature-page-section  h2="可以使用 Aspose.Imaging for Java 从 TIF(标记图像格式) 图像转换的各种图像格式" %}}
 您可以使用编程方式将 TIF 格式转换为其他可用格式
-用于 Java 的 Aspose.Imaging。
+用于 Java 的 Aspose.Imaging。 
 <br/>
 船上有以下转换：
 {{% /blocks/products/pf/feature-page-section %}}

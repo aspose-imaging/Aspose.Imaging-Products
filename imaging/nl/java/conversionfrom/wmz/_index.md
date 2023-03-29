@@ -1,20 +1,20 @@
 ﻿---
-title: Converteer van WMZ naar andere ondersteunde formaten met Aspose.Imaging voor Java 
+title: Converteer van WMZ(Gecomprimeerde Windows Media Player-skin) naar andere ondersteunde formaten met Aspose.Imaging voor Java API 
 weight: 3920
 url: /nl/java/conversion/from/wmz 
 lang: nl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging kan eenvoudig converteren van WMZ naar andere formaten met behulp van het Java-platform
+description: Aspose.Imaging kan eenvoudig converteren van WMZ(Gecomprimeerde Windows Media Player-skin) naar andere formaten met behulp van het Java-platform
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer afbeeldingen van WMZ-indeling met Aspose.Imaging voor Java" h2="Converteer van WMZ afbeeldingsformaat naar andere formaten met behulp van het Java-platform" downloadText="Downloaden" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer afbeeldingen van WMZ-indeling met Aspose.Imaging voor Java" h2="Converteer van WMZ(Gecomprimeerde Windows Media Player-skin) afbeeldingsformaat naar andere formaten met behulp van het Java-platform" downloadText="Downloaden" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Breed spectrum aan afbeeldingsindelingen die kunnen worden geconverteerd van WMZ-afbeeldingen met Aspose.Imaging voor Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Breed spectrum aan afbeeldingsindelingen die kunnen worden geconverteerd van WMZ(Gecomprimeerde Windows Media Player-skin)-afbeeldingen met Aspose.Imaging voor Java" %}}
 U kunt programmatisch converteren van het WMZ-formaat naar andere beschikbare formaten met behulp van
-Aspose.Imaging voor Java.
+Aspose.Imaging voor Java. WMZ is een bestandsextensie voor een skin-bestandsformaat in/voor/gebruikt door Windows Media Player. Een WMZ-bestand is in feite een gecomprimeerd WMF-bestand in XML.
 <br/>
 Er zijn de volgende verbouwingen aan boord:
 {{% /blocks/products/pf/feature-page-section %}}

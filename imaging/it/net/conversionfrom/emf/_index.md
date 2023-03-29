@@ -1,21 +1,21 @@
 ﻿---
-title: Converti da EMF in altri formati tramite .NET 
+title: Conversione da EMF(Formato Metafile migliorato) ad altri formati tramite API immagine .NET 
 weight: 3920
 url: /it/net/conversion/from/emf 
 lang: it
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging puoi facilmente convertire da EMF ad altri formati
+description: Usando Aspose.Imaging puoi facilmente convertire da EMF(Formato Metafile migliorato) ad altri formati
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversione di file immagine da EMF tramite .NET" h2="Converti da EMF in altri formati" downloadText="Scarica" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversione di file immagine da EMF(Formato Metafile migliorato) tramite l'API immagine .NET" h2="Converti da Formato Metafile migliorato in altri formati utilizzando l'API Aspose.Imaging" downloadText="Scarica" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tutti i formati immagine supportati per la conversione da EMF" %}}
-Aspose.Imaging consente di automatizzare molte conversioni da EMF ad altri formati sulla piattaforma .NET.
+{{% blocks/products/pf/feature-page-section  h2="Tutti i formati immagine supportati per la conversione da EMF(Formato Metafile migliorato)" %}}
+Aspose.Imaging consente di automatizzare molte conversioni da EMF ad altri formati sulla piattaforma .NET. Il formato metafile avanzato (EMF) memorizza le immagini grafiche indipendentemente dal dispositivo. I metafile di EMF comprendono record di lunghezza variabile in ordine cronologico che possono eseguire il rendering dell'immagine archiviata dopo l'analisi su qualsiasi dispositivo di output. Questi record a lunghezza variabile possono essere definizioni di oggetti racchiusi, comandi per il disegno e proprietà grafiche fondamentali per il rendering accurato dell'immagine. Quando un dispositivo apre un metafile EMF utilizzando il proprio ambiente grafico, le proporzioni, le dimensioni, i colori e altre proprietà grafiche dell'immagine originale rimangono le stesse indipendentemente dalla piattaforma del dispositivo di apertura.
 <br/>
-Elenco completo delle conversioni supportate:
+Elenco completo delle conversioni supportate da EMF:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

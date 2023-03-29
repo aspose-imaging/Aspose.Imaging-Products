@@ -1,21 +1,21 @@
 ﻿---
-title: 通过 .NET 从 CDR 转换为其他格式 
+title: 通过 .NET 图像 API 从 CDR(矢量绘图图像) 转换为其他格式 
 weight: 3920
 url: /zh-hans/net/conversion/from/cdr 
 lang: zh-hans
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: 使用 Aspose.Imaging，您可以轻松地将 CDR 转换为其他格式
+description: 使用 Aspose.Imaging，您可以轻松地将 CDR(矢量绘图图像) 转换为其他格式
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="通过 .NET 从 CDR 转换图像文件" h2="从 CDR 转换为其他格式" downloadText="下载" >}}
+{{< blocks/products/pf/feature-page-header h1="通过 .NET 图像 API 从 CDR(矢量绘图图像) 转换图像文件" h2="使用 Aspose.Imaging API 从 矢量绘图图像 转换为其他格式" downloadText="下载" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="要从 CDR 转换的所有支持的图像格式" %}}
-Aspose.Imaging 允许在 .NET 平台上自动进行从 CDR 到其他格式的大量转换。
+{{% blocks/products/pf/feature-page-section  h2="从 CDR(矢量绘图图像) 转换的所有支持的图像格式" %}}
+Aspose.Imaging 允许在 .NET 平台上自动进行从 CDR 到其他格式的大量转换。 CDR 文件是使用 CorelDRAW 本地创建的矢量绘图图像文件，用于存储编码和压缩的数字图像。这样的绘图文件包含文本、线条、形状、图像、颜色和效果，用于图像内容的矢量表示。 CDR 文件可以使用 CorelDRAW 作为主要应用程序打开，也可以转换为其他格式，例如 PDF、JPG、PNG、BMP 和 AI。它可用于表示各种图形数据，如小册子、小报、信封和明信片。除了 CorelDRAW，Corel Paintshop Pro 和 CorelDRAW Graphics Suite 等其他 Corel 产品也可以打开 CDR 文件格式。
 <br/>
-支持的转换的完整列表：
+CDR 支持的转换的完整列表：
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

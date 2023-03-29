@@ -1,20 +1,20 @@
 ﻿---
-title: Konversikan dari TGA ke format lain yang didukung menggunakan Aspose.Imaging untuk Java 
+title: Konversikan dari TGA(Grafis Targa) ke format lain yang didukung menggunakan Aspose.Imaging untuk Java API 
 weight: 3920
 url: /id/java/conversion/from/tga 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging dapat dengan mudah mengonversi dari TGA ke format lain menggunakan platform Java
+description: Aspose.Imaging dapat dengan mudah mengonversi dari TGA(Grafis Targa) ke format lain menggunakan platform Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversikan gambar dari format TGA menggunakan Aspose.Imaging untuk Java" h2="Konversi dari format gambar TGA ke format lain menggunakan platform Java" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversikan gambar dari format TGA menggunakan Aspose.Imaging untuk Java" h2="Konversi dari format gambar TGA(Grafis Targa) ke format lain menggunakan platform Java" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Spektrum luas format gambar yang dapat dikonversi dari gambar TGA menggunakan Aspose.Imaging untuk Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Spektrum luas format gambar yang dapat dikonversi dari gambar TGA(Grafis Targa) menggunakan Aspose.Imaging untuk Java" %}}
 Anda dapat secara terprogram mengonversi dari format TGA ke format lain yang tersedia menggunakan
-Aspose.Imaging untuk Java.
+Aspose.Imaging untuk Java. Truevision TGA, sering disebut sebagai TARGA, adalah format file grafik raster yang dibuat oleh Truevision Inc. (sekarang bagian dari Avid Technology). Itu adalah format asli papan TARGA dan VISTA, yang merupakan kartu grafis pertama untuk PC yang kompatibel dengan IBM yang mendukung tampilan Highcolor/truecolor.
 <br/>
 Ada konversi berikut di pesawat:
 {{% /blocks/products/pf/feature-page-section %}}

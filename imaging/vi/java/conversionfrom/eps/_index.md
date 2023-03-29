@@ -1,20 +1,20 @@
 ﻿---
-title: Chuyển đổi từ EPS sang các định dạng được hỗ trợ khác bằng Aspose.Imaging for Java 
+title: Chuyển đổi từ EPS(Ngôn ngữ PostScript được đóng gói) sang các định dạng được hỗ trợ khác bằng Aspose.Imaging for Java API 
 weight: 3920
 url: /vi/java/conversion/from/eps 
 lang: vi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging có thể dễ dàng chuyển đổi từ EPS sang các định dạng khác bằng nền tảng Java
+description: Aspose.Imaging có thể dễ dàng chuyển đổi từ EPS(Ngôn ngữ PostScript được đóng gói) sang các định dạng khác bằng nền tảng Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Chuyển đổi hình ảnh từ định dạng EPS bằng Aspose.Imaging cho Java" h2="Chuyển đổi từ định dạng hình ảnh EPS sang các định dạng khác bằng nền tảng Java" downloadText="Tải xuống" >}}
+{{< blocks/products/pf/feature-page-header h1="Chuyển đổi hình ảnh từ định dạng EPS bằng Aspose.Imaging cho Java" h2="Chuyển đổi từ định dạng hình ảnh EPS(Ngôn ngữ PostScript được đóng gói) sang các định dạng khác bằng nền tảng Java" downloadText="Tải xuống" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Nhiều định dạng hình ảnh có thể được chuyển đổi từ hình ảnh EPS bằng Aspose.Imaging cho Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Nhiều định dạng hình ảnh có thể được chuyển đổi từ hình ảnh EPS(Ngôn ngữ PostScript được đóng gói) bằng Aspose.Imaging cho Java" %}}
 Bạn có thể lập trình chuyển đổi từ định dạng EPS sang các định dạng có sẵn khác bằng cách sử dụng
-Aspose.Imaging cho Java.
+Aspose.Imaging cho Java. Các tệp có phần mở rộng EPS về cơ bản mô tả một chương trình ngôn ngữ PostScript được đóng gói mô tả sự xuất hiện của một trang duy nhất. Tên "Encapsulated" vì nó có thể được bao gồm hoặc đóng gói trong mô tả trang ngôn ngữ PostScript khác. Định dạng tệp dựa trên tập lệnh này có thể chứa bất kỳ sự kết hợp nào của văn bản, đồ họa và hình ảnh. Các tệp EPS có thể bao gồm một hình ảnh xem trước bitmap được đóng gói bên trong để hiển thị bởi các ứng dụng có thể mở các tệp như vậy. Các tệp EPS có thể được chuyển đổi sang các định dạng hình ảnh tiêu chuẩn như JPG, PNG, TIFF và PDF bằng các ứng dụng khác nhau, ví dụ: Adobe Illustrator, Photoshop và PaintShop Pro. Do lỗ hổng bảo mật trong tệp EPS, Office 2016, Office 2013, Office 2010 và Office 365 đã tắt khả năng chèn tệp EPS vào tài liệu Office.
 <br/>
 Có các chuyển đổi sau trên tàu:
 {{% /blocks/products/pf/feature-page-section %}}

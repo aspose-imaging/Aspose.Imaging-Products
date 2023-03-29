@@ -1,21 +1,21 @@
 ﻿---
-title: Convertir de DIB vers d'autres formats via .NET 
+title: Konvertieren Sie von DIB(Geräteunabhängige Bitmap) in andere Formate über die Bild-API von .NET 
 weight: 3920
 url: /de/net/conversion/from/dib 
 lang: de
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Mit Aspose.Imaging können Sie ganz einfach von DIB in andere Formate konvertieren
+description: Mit Aspose.Imaging können Sie ganz einfach von DIB(Geräteunabhängige Bitmap) in andere Formate konvertieren
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertierung von Bilddateien von DIB über .NET" h2="Konvertieren Sie von DIB in andere Formate" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertierung von Bilddateien aus DIB (Geräteunabhängige Bitmap) über die Bild-API von .NET" h2="Konvertieren Sie mithilfe der Aspose.Imaging-API von Geräteunabhängige Bitmap in andere Formate" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bildformate zum Konvertieren von DIB" %}}
-Aspose.Imaging ermöglicht die Automatisierung vieler Konvertierungen von DIB in andere Formate auf der .NET-Plattform.
+{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bildformate zum Konvertieren von DIB(Geräteunabhängige Bitmap)" %}}
+Aspose.Imaging ermöglicht die Automatisierung vieler Konvertierungen von DIB in andere Formate auf der .NET-Plattform. Eine DIB-Datei (Device Independent Bitmap) ist eine Rasterbilddatei, die in ihrer Struktur den standardmäßigen Bitmap-Dateien (BMP) ähnelt, jedoch einen anderen Header hat. Es kann mit fast allen Anwendungen geöffnet werden, die eine Standard-BMP-Datei sowohl unter Windows als auch unter macOS öffnen können. DIB sind Binärdateien und haben ein komplexes Dateiformat ähnlich wie BMP.
 <br/>
-Vollständige Liste der unterstützten Konvertierungen:
+Vollständige Liste der unterstützten Konvertierungen von DIB:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

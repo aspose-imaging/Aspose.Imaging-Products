@@ -1,20 +1,20 @@
 ﻿---
-title: Перетворюйте з APNG в інші підтримувані формати за допомогою Aspose.Imaging для Java 
+title: Перетворюйте з APNG(Анімована переносна мережева графіка) в інші підтримувані формати за допомогою Aspose.Imaging for Java API 
 weight: 3920
 url: /uk/java/conversion/from/apng 
 lang: uk
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging може легко конвертувати з APNG в інші формати за допомогою платформи Java
+description: Aspose.Imaging може легко конвертувати з APNG(Анімована переносна мережева графіка) в інші формати за допомогою платформи Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Перетворіть зображення з формату APNG за допомогою Aspose.Imaging for Java" h2="Перетворіть формат зображення APNG в інші формати за допомогою платформи Java" downloadText="Завантажити" >}}
+{{< blocks/products/pf/feature-page-header h1="Перетворіть зображення з формату APNG за допомогою Aspose.Imaging for Java" h2="Перетворіть формат зображення APNG(Анімована переносна мережева графіка) в інші формати за допомогою платформи Java" downloadText="Завантажити" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Спектр форматів зображень, які можна конвертувати з APNG зображень за допомогою Aspose.Imaging for Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Спектр форматів зображень, які можна конвертувати з APNG(Анімована переносна мережева графіка) зображень за допомогою Aspose.Imaging for Java" %}}
 Ви можете програмно конвертувати формат APNG в інші доступні формати за допомогою
-Aspose.Imaging for Java.
+Aspose.Imaging for Java. Файл із розширенням .apng (Animated Portable Network Graphic) — це растровий графічний формат і є неофіційним розширенням Portable Network Graphic (PNG). Він складається з кількох кадрів (кожен із зображень PNG), які представляють послідовність анімації. Це дає візуалізацію, подібну до файлу GIF. Файли APNG підтримують 24-бітні зображення та 8-бітну прозорість. APNG має зворотну сумісність із файлами GIF без анімації. Файли APNG використовують те саме розширення .png і можуть відкриватися такими програмами, як Mozilla Firefox, Chrome із підтримкою APNG, програмами iMessage для iOS 10.
 <br/>
 Наведено такі перетворення:
 {{% /blocks/products/pf/feature-page-section %}}

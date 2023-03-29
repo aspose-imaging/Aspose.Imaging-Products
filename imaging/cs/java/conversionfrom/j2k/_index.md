@@ -1,20 +1,20 @@
 ﻿---
-title: Převeďte z J2K do jiných podporovaných formátů pomocí Aspose.Imaging for Java 
+title: Převeďte z J2K(Wavelet Compressed Image) do jiných podporovaných formátů pomocí Aspose.Imaging for Java API 
 weight: 3920
 url: /cs/java/conversion/from/j2k 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging lze snadno převést z formátu J2K do jiných formátů pomocí platformy Java
+description: Aspose.Imaging lze snadno převést z formátu J2K(Wavelet Compressed Image) do jiných formátů pomocí platformy Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převeďte obrázky z formátu J2K pomocí Aspose.Imaging for Java" h2="Převeďte z formátu obrázku J2K do jiných formátů pomocí platformy Java" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Převeďte obrázky z formátu J2K pomocí Aspose.Imaging for Java" h2="Převeďte z formátu obrázku J2K(Wavelet Compressed Image) do jiných formátů pomocí platformy Java" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Široké spektrum obrazových formátů, které lze převést z obrázků J2K pomocí Aspose.Imaging for Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Široké spektrum obrazových formátů, které lze převést z obrázků J2K(Wavelet Compressed Image) pomocí Aspose.Imaging for Java" %}}
 Můžete programově převádět z formátu J2K do jiných dostupných formátů pomocí
-Aspose.Imaging pro Javu.
+Aspose.Imaging pro Javu. Soubor J2K je obrázek, který je komprimován pomocí komprese wavelet namísto komprese DCT.
 <br/>
 Na palubě jsou následující konverze:
 {{% /blocks/products/pf/feature-page-section %}}

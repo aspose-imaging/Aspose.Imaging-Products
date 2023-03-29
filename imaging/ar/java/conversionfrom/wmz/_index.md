@@ -1,20 +1,20 @@
 ﻿---
-title: قم بالتحويل من WMZ إلى التنسيقات الأخرى المدعومة باستخدام Aspose.Imaging for Java 
+title: قم بالتحويل من WMZ(غلاف Windows Media Player المضغوط) إلى التنسيقات الأخرى المدعومة باستخدام Aspose.Imaging for Java API 
 weight: 3920
 url: /ar/java/conversion/from/wmz 
 lang: ar
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging يمكن تحويله بسهولة من WMZ إلى تنسيقات أخرى باستخدام Java platform
+description: Aspose.Imaging يمكن تحويله بسهولة من WMZ(غلاف Windows Media Player المضغوط) إلى تنسيقات أخرى باستخدام Java platform
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل الصور من تنسيق WMZ باستخدام Aspose.Imaging for Java" h2="تحويل من تنسيق صورة WMZ إلى تنسيقات أخرى باستخدام نظام Java الأساسي" downloadText="تحميل" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل الصور من تنسيق WMZ باستخدام Aspose.Imaging for Java" h2="تحويل من تنسيق صورة WMZ(غلاف Windows Media Player المضغوط) إلى تنسيقات أخرى باستخدام نظام Java الأساسي" downloadText="تحميل" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="مجموعة واسعة من تنسيقات الصور التي يمكن تحويلها من صور WMZ باستخدام Aspose.Imaging for Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="مجموعة واسعة من تنسيقات الصور التي يمكن تحويلها من صور WMZ(غلاف Windows Media Player المضغوط) باستخدام Aspose.Imaging for Java" %}}
 يمكنك تحويل برمجيًا من تنسيق WMZ إلى تنسيقات أخرى متاحة باستخدام
-Aspose.Imaging لجافا.
+Aspose.Imaging لجافا. WMZ هو امتداد ملف لتنسيق ملف السطح في / من أجل / يستخدم بواسطة Windows Media Player. ملف WMZ هو في الأساس ملف WMF مضغوط بتنسيق XML.
 <br/>
 هناك التحويلات التالية على متن الطائرة:
 {{% /blocks/products/pf/feature-page-section %}}

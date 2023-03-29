@@ -1,20 +1,20 @@
 ﻿---
-title: Convert from SVG to other supported formats using Aspose.Imaging for Java 
+title: Convert from SVG(Scalable Vector Graphics) to other supported formats using Aspose.Imaging for Java API 
 weight: 3920
 url: /java/conversion/from/svg 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging can easily convert from SVG to other formats using Java platform
+description: Aspose.Imaging API can easily convert from SVG(Scalable Vector Graphics) to other formats using Java platform
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert images from SVG format using Aspose.Imaging for Java" h2="Convert from SVG image format to other formats using Java platform" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert images from SVG format using Aspose.Imaging for Java" h2="Convert from SVG(Scalable Vector Graphics) image format to other formats using Java platform" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wide spectrum of image formats that can be converted from SVG images using Aspose.Imaging for Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Wide spectrum of image formats that can be converted from SVG(Scalable Vector Graphics) images using Aspose.Imaging for Java" %}}
 You can programmaticaly convert from SVG format to other available formats using 
-Aspose.Imaging for Java.
+Aspose.Imaging for Java. SVG files are Scalable Vector Graphics Files that use XML based text format for describing the appearance of image. The word Scalable refers to the fact that the SVG can be scaled to different sizes without losing any quality. Text based description of such files make them independent of resolution. It is one of the mostly used format for building website and print graphics in order to achieve scalability. The format can only be used for two-dimensional graphics though. SVG files can be viewed/opened in almost all modern browsers including Chrome, Internet Explorer, Firefox, and Safari.
 <br/>
 There are following conversions on board:
 {{% /blocks/products/pf/feature-page-section %}}

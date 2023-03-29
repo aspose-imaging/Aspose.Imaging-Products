@@ -1,21 +1,21 @@
 ﻿---
-title: Převést z EMZ do jiných formátů přes .NET 
+title: Převést z formátu EMZ(Windows Compressed Enhanced Metafile) do jiných formátů prostřednictvím rozhraní API pro obrázky .NET 
 weight: 3920
 url: /cs/net/conversion/from/emz 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Pomocí Aspose.Imaging můžete snadno převést z formátu EMZ do jiných formátů
+description: Pomocí Aspose.Imaging můžete snadno převést z formátu EMZ(Windows Compressed Enhanced Metafile) do jiných formátů
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů z formátu EMZ prostřednictvím .NET" h2="Převést z EMZ do jiných formátů" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů z formátu EMZ(Windows Compressed Enhanced Metafile) prostřednictvím rozhraní API pro obrázky .NET" h2="Převeďte z Windows Compressed Enhanced Metafile do jiných formátů pomocí Aspose.Imaging API" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu z formátu EMZ" %}}
-Aspose.Imaging umožňuje automatizovat mnoho konverzí z EMZ do jiných formátů na platformě .NET.
+{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu z formátu EMZ (Windows Compressed Enhanced Metafile)" %}}
+Aspose.Imaging umožňuje automatizovat mnoho konverzí z EMZ do jiných formátů na platformě .NET. Soubor s příponou EMZ je komprimovaný soubor obrázku, konkrétněji označovaný jako soubor Windows Compressed Enhanced Metafile.
 <br/>
-Úplný seznam podporovaných konverzí:
+Úplný seznam podporovaných konverzí z EMZ:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

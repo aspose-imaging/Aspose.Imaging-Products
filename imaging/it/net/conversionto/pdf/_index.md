@@ -1,19 +1,19 @@
 ﻿---
-title: Converti immagini in formato immagine PDF da altri formati supportati utilizzando la piattaforma .NET 
+title: Converti immagini in formato immagine PDF(Formato documento portatile (PDF)) da altri formati supportati utilizzando la piattaforma .NET 
 weight: 3920
 url: /it/net/conversion/to/pdf 
 lang: it
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Utilizzando Aspose.Imaging per la libreria .NET è facile convertire in PDF da altri formati di immagine supportati
+description: Utilizzando Aspose.Imaging per la libreria .NET è facile convertire in PDF(Formato documento portatile (PDF)) da altri formati di immagine supportati
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converti file immagine in formato immagine PDF utilizzando la piattaforma .NET" h2="Converti in formato PDF da altri formati utilizzando Aspose.Imaging per la libreria .NET" downloadText="Scarica" >}}
+{{< blocks/products/pf/feature-page-header h1="Converti file immagine in formato immagine PDF(Formato documento portatile (PDF)) utilizzando la piattaforma .NET" h2="Converti in formato Formato documento portatile (PDF) da altri formati utilizzando Aspose.Imaging per la libreria .NET" downloadText="Scarica" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tutte le conversioni supportate nel formato PDF utilizzando Aspose.Imaging per la libreria .NET" %}}
-Utilizzando la libreria Aspose.Imaging è possibile convertire in modo programmatico vari formati di immagine in PDF image.
+{{% blocks/products/pf/feature-page-section  h2="Tutte le conversioni supportate nel formato PDF(Formato documento portatile (PDF)) utilizzando Aspose.Imaging per la libreria .NET" %}}
+Utilizzando la libreria Aspose.Imaging è possibile convertire in modo programmatico vari formati di immagine in PDF image. Portable Document Format (PDF) è un tipo di documento creato da Adobe negli anni '90. Lo scopo di questo formato di file era quello di introdurre uno standard per la rappresentazione di documenti e altro materiale di riferimento in un formato indipendente dal software applicativo, dall'hardware e dal sistema operativo. Il formato di file PDF ha la piena capacità di contenere informazioni come testo, immagini, collegamenti ipertestuali, campi modulo, rich media, firme digitali, allegati, metadati, caratteristiche geospaziali e oggetti 3D che possono diventare parte del documento di origine.
 <br/>
 Sono supportate le seguenti conversioni:
 {{% /blocks/products/pf/feature-page-section %}}

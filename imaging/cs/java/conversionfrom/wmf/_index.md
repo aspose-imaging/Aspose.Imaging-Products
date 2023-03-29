@@ -1,20 +1,20 @@
 ﻿---
-title: Převeďte z WMF do jiných podporovaných formátů pomocí Aspose.Imaging for Java 
+title: Převeďte z WMF(Microsoft Windows Metafile) do jiných podporovaných formátů pomocí Aspose.Imaging for Java API 
 weight: 3920
 url: /cs/java/conversion/from/wmf 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging lze snadno převést z formátu WMF do jiných formátů pomocí platformy Java
+description: Aspose.Imaging lze snadno převést z formátu WMF(Microsoft Windows Metafile) do jiných formátů pomocí platformy Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převeďte obrázky z formátu WMF pomocí Aspose.Imaging for Java" h2="Převeďte z formátu obrázku WMF do jiných formátů pomocí platformy Java" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Převeďte obrázky z formátu WMF pomocí Aspose.Imaging for Java" h2="Převeďte z formátu obrázku WMF(Microsoft Windows Metafile) do jiných formátů pomocí platformy Java" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Široké spektrum obrazových formátů, které lze převést z obrázků WMF pomocí Aspose.Imaging for Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Široké spektrum obrazových formátů, které lze převést z obrázků WMF(Microsoft Windows Metafile) pomocí Aspose.Imaging for Java" %}}
 Můžete programově převádět z formátu WMF do jiných dostupných formátů pomocí
-Aspose.Imaging pro Javu.
+Aspose.Imaging pro Javu. Soubory s příponou WMF představují Microsoft Windows Metafile (WMF) pro ukládání dat vektorových i bitmapových obrázků. Abychom byli přesnější, WMF patří do kategorie formátů vektorových souborů grafických formátů souborů, které jsou nezávislé na zařízení. Windows Graphical Device Interface (GDI) používá funkce uložené v souboru WMF k zobrazení obrázku na obrazovce. Později byla publikována vylepšená verze WMF, známá jako Enhanced Meta Files (EMF), díky níž je formát bohatší na funkce. Prakticky jsou WMF podobné SVG.
 <br/>
 Na palubě jsou následující konverze:
 {{% /blocks/products/pf/feature-page-section %}}

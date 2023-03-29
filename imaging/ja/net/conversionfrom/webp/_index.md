@@ -1,21 +1,21 @@
 ﻿---
-title: .NET 経由で WEBP から他の形式に変換します 
+title: .NET 画像 API を介して WEBP(ラスターWebイメージ) から他の形式に変換する 
 weight: 3920
 url: /ja/net/conversion/from/webp 
 lang: ja
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging を使用すると、WEBP から別のフォーマットに簡単に変換できます
+description: Aspose.Imaging を使用すると、WEBP(ラスターWebイメージ) から別のフォーマットに簡単に変換できます
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET による WEBP からの画像ファイルの変換" h2="WEBP から別の形式に変換する" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET 画像 API を介した WEBP(ラスターWebイメージ) からの画像ファイルの変換" h2="Aspose.Imaging API を使用して ラスターWebイメージ から他のフォーマットに変換" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="WEBP から変換する、サポートされているすべての画像形式" %}}
-Aspose.Imaging を使用すると、WEBP から .NET プラットフォーム上の他のフォーマットへの多くの変換を自動化できます。
+{{% blocks/products/pf/feature-page-section  h2="WEBP(ラスターWebイメージ) から変換する、サポートされているすべての画像形式" %}}
+Aspose.Imaging を使用すると、WEBP から .NET プラットフォーム上の他のフォーマットへの多くの変換を自動化できます。 Googleによって導入されたWebPは、可逆および非可逆圧縮に基づく最新のラスターWeb画像ファイル形式です。画像サイズを大幅に縮小しながら、同じ画質を提供します。ほとんどのWebページはデータの効果的な表現として画像を使用するため、WebページでWebP画像を使用すると、Webページの読み込みが速くなります。 Googleによると、WebPの損失のない画像はPNGと比較してサイズが26％小さく、WebPの損失のある画像は同等のJPEG画像よりも25〜34％小さくなっています。画像は、WebPと他の画像ファイル形式の間の構造的類似性（SSIM）インデックスに基づいて比較されます。 WebPは、WebMマルチメディアコンテナ形式の姉妹プロジェクトです。
 <br/>
-サポートされている変換の完全なリスト:
+サポートされている WEBP からの変換の完全なリスト:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

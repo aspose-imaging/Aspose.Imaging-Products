@@ -1,21 +1,21 @@
 ﻿---
-title: Convertir de OTG vers d'autres formats via .NET 
+title: Convertir de OTG(Norme OpenDocument) vers d'autres formats via l'API d'image .NET 
 weight: 3920
 url: /fr/net/conversion/from/otg 
 lang: fr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: En utilisant Aspose.Imaging, vous pouvez facilement convertir de OTG vers un autre format
+description: En utilisant Aspose.Imaging, vous pouvez facilement convertir de OTG(Norme OpenDocument) vers un autre format
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversion de fichiers image à partir de OTG via .NET" h2="Convertir de OTG vers un autre format" downloadText="Télécharger" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversion de fichiers image à partir de OTG(Norme OpenDocument) via l'API d'image .NET" h2="Convertir de Norme OpenDocument vers d'autres formats à l'aide de l'API Aspose.Imaging" downloadText="Télécharger" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tous les formats d'image pris en charge pour convertir à partir de OTG" %}}
-Aspose.Imaging permet d'automatiser de nombreuses conversions de OTG vers d'autres formats sur la plate-forme .NET.
+{{% blocks/products/pf/feature-page-section  h2="Tous les formats d'image pris en charge pour convertir à partir de OTG(Norme OpenDocument)" %}}
+Aspose.Imaging permet d'automatiser de nombreuses conversions de OTG vers d'autres formats sur la plate-forme .NET. Un fichier OTG est un modèle de dessin créé à l'aide de la norme OpenDocument qui suit la spécification OASIS Office Applications 1.0. Il représente l'organisation par défaut des éléments de dessin pour une image vectorielle qui peut être utilisée pour améliorer davantage le contenu du fichier.
 <br/>
-Liste complète des conversions prises en charge :
+Liste complète des conversions prises en charge à partir de OTG :
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

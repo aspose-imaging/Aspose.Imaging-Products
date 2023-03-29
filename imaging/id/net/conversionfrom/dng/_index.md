@@ -1,21 +1,21 @@
 ﻿---
-title: Konversikan dari DNG ke format lain Melalui .NET 
+title: Konversikan dari DNG(Gambar Kamera Digital) ke format lain Melalui API gambar .NET 
 weight: 3920
 url: /id/net/conversion/from/dng 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi dari DNG ke format lain
+description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi dari DNG(Gambar Kamera Digital) ke format lain
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar dari DNG Melalui .NET" h2="Konversikan dari DNG ke format lain" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar dari DNG(Gambar Kamera Digital) Melalui API gambar .NET" h2="Konversikan dari Gambar Kamera Digital ke format lain menggunakan Aspose.Imaging API" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari DNG" %}}
-Aspose.Imaging memungkinkan mengotomatiskan banyak konversi dari DNG ke format lain di platform .NET.
+{{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari DNG(Gambar Kamera Digital)" %}}
+Aspose.Imaging memungkinkan mengotomatiskan banyak konversi dari DNG ke format lain di platform .NET. DNG adalah format gambar kamera digital yang digunakan untuk penyimpanan file mentah. Ini telah dikembangkan oleh Adobe pada bulan September 2004. Ini pada dasarnya dikembangkan untuk fotografi digital. DNG adalah perpanjangan dari format standar TIFF/EP dan menggunakan metadata secara signifikan. Untuk memanipulasi data mentah dari kamera digital dengan fleksibilitas dan kontrol artistik yang mudah, fotografer memilih file mentah kamera. Format JPEG dan TIFF menyimpan gambar yang diproses oleh kamera, oleh karena itu tidak banyak ruang untuk perubahan yang tersedia dalam format tersebut.
 <br/>
-Daftar lengkap konversi yang didukung:
+Daftar lengkap konversi yang didukung dari DNG:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

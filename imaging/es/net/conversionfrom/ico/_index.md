@@ -1,21 +1,21 @@
 ﻿---
-title: Convertir de ICO vers d'autres formats via .NET 
+title: Convierta de ICO(icono de ventanas) a otros formatos a través de la API de imágenes .NET 
 weight: 3920
 url: /es/net/conversion/from/ico 
 lang: es
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging puede convertir fácilmente de ICO a otros formatos
+description: Usando Aspose.Imaging puede convertir fácilmente de ICO(icono de ventanas) a otros formatos
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversión de archivos de imagen de ICO a través de .NET" h2="Convertir de ICO a otros formatos" downloadText="Descargar" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversión de archivos de imagen de ICO(icono de ventanas) a través de la API de imagen .NET" h2="Convierta de icono de ventanas a otros formatos usando Aspose.Imaging API" downloadText="Descargar" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos los formatos de imagen admitidos para convertir desde ICO" %}}
-Aspose.Imaging permite automatizar muchas conversiones de ICO a otros formatos en la plataforma .NET.
+{{% blocks/products/pf/feature-page-section  h2="Todos los formatos de imagen admitidos para convertir desde ICO(icono de ventanas)" %}}
+Aspose.Imaging permite automatizar muchas conversiones de ICO a otros formatos en la plataforma .NET. El formato de archivo ICO es un formato de archivo de imagen para iconos de computadora en Microsoft Windows. Los archivos ICO contienen una o más imágenes pequeñas en varios tamaños y profundidades de color, de modo que se pueden escalar adecuadamente. En Windows, todos los ejecutables que muestran un icono al usuario, en el escritorio, en el Menú Inicio o en el Explorador de Windows, deben llevar el icono en formato ICO.
 <br/>
-Lista completa de conversiones admitidas:
+Lista completa de conversiones admitidas de ICO:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -1,21 +1,21 @@
 ﻿---
-title: המר מ-SVGZ לפורמטים אחרים דרך .NET 
+title: המר מ-SVGZ(גרסה דחוסה של קובץ Scalable Vector Graphics (.SVG).) לפורמטים אחרים באמצעות API של תמונה של .NET 
 weight: 3920
 url: /he/net/conversion/from/svgz 
 lang: he
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: באמצעות Aspose.Imaging תוכל להמיר בקלות מ-SVGZ לפורמט אחר
+description: באמצעות Aspose.Imaging תוכל להמיר בקלות מ- SVGZ(גרסה דחוסה של קובץ Scalable Vector Graphics (.SVG).) לפורמט אחר
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה מ-SVGZ דרך .NET" h2="המר מ-SVGZ לפורמט אחר" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה מ-SVGZ(גרסה דחוסה של קובץ Scalable Vector Graphics (.SVG).) באמצעות API של תמונה של .NET" h2="המר מ-גרסה דחוסה של קובץ Scalable Vector Graphics (.SVG). לפורמטים אחרים באמצעות Aspose.Imaging API" downloadText="הורד" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה מ-SVGZ" %}}
-Aspose.Imaging מאפשר לבצע אוטומציה של המרות רבות מ-SVGZ לפורמטים אחרים בפלטפורמת NET.
+{{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה מ-SVGZ(גרסה דחוסה של קובץ Scalable Vector Graphics (.SVG).)" %}}
+Aspose.Imaging מאפשר לבצע אוטומציה של המרות רבות מ-SVGZ לפורמטים אחרים בפלטפורמת NET. קובץ עם סיומת .svgz הוא גרסה דחוסה של קובץ Scalable Vector Graphics (.SVG). הוא דחוס עם דחיסת gzip ומכיל נתונים בפורמט XML. קובצי SVGZ תומכים בשקיפות, מעברי צבע, אנימציות ומסננים. קבצי SVGZ קטנים יותר בהשוואה לקובצי SVG ברירת המחדל וגודל הקובץ המופחת הזה עוזר להעביר את קבצי הגרפיקה באופן מקוון. מעצב גרפי יוצר קובצי SVGZ באמצעות כלים כמו Adobe Illustrator, Corel PaintShop Pro ואחרים. עם זאת, ניתן ליצור קבצי SVGZ על ידי הפעלת דחיסת GZip בשרת ה-Apache בזמן שליחת נתוני התמונה.
 <br/>
-רשימה מלאה של המרות נתמכות:
+רשימה מלאה של המרות נתמכות מ-SVGZ:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

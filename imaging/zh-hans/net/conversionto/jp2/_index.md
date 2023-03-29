@@ -1,19 +1,19 @@
 ﻿---
-title: 使用 .NET 平台将图像从其他支持的格式转换为 JP2 图像格式 
+title: 使用 .NET 平台将图像从其他支持的格式转换为 JP2(JPEG 2000) 图像格式 
 weight: 3920
 url: /zh-hans/net/conversion/to/jp2 
 lang: zh-hans
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: 使用 Aspose.Imaging for .NET 库可以轻松地将其他支持的图像格式转换为 JP2
+description: 使用 Aspose.Imaging for .NET 库可以轻松地将其他支持的图像格式转换为 JP2(JPEG 2000)
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="使用 .NET 平台将图像文件转换为 JP2 图像格式" h2="使用 Aspose.Imaging for .NET 库从其他格式转换为 JP2 格式" downloadText="下载" >}}
+{{< blocks/products/pf/feature-page-header h1="使用 .NET 平台将图像文件转换为 JP2(JPEG 2000) 图像格式" h2="使用 Aspose.Imaging for .NET 库从其他格式转换为 JPEG 2000 格式" downloadText="下载" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="所有支持使用 Aspose.Imaging for .NET 库转换为 JP2 格式" %}}
-使用 Aspose.Imaging 库，您可以以编程方式将各种图像格式转换为 JP2 图像。
+{{% blocks/products/pf/feature-page-section  h2="所有支持使用 Aspose.Imaging for .NET 库转换为 JP2(JPEG 2000) 格式" %}}
+使用 Aspose.Imaging 库，您可以以编程方式将各种图像格式转换为 JP2 图像。 JPEG 2000 (JP2) 是一种图像编码系统和最先进的图像压缩标准。设计，使用小波技术 JPEG 2000 可以一次编码任何质量的无损内容。此外，在编码效率没有任何实质性损失的情况下，JPEG 2000 能够有效地访问相同的内容并将其解码为各种其他分辨率和质量。 JPEG 2000 中的码流具有显着的可扩展性，具有为空间随机访问提供便利的感兴趣区域。拥有多达 16384 个不同的组件，尺寸以万亿像素为单位，精度可高达 38 位/样本。
 <br/>
 支持以下转换：
 {{% /blocks/products/pf/feature-page-section %}}

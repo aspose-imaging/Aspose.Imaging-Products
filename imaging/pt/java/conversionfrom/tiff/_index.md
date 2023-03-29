@@ -1,20 +1,20 @@
 ﻿---
-title: Converta de TIFF para outros formatos suportados usando Aspose.Imaging for Java 
+title: Converta de TIFF(Formato de imagem marcada) para outros formatos suportados usando Aspose.Imaging for Java API 
 weight: 3920
 url: /pt/java/conversion/from/tiff 
 lang: pt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging pode converter facilmente de TIFF para outros formatos usando a plataforma Java
+description: Aspose.Imaging pode converter facilmente de TIFF(Formato de imagem marcada) para outros formatos usando a plataforma Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converta imagens do formato TIFF usando Aspose.Imaging para Java" h2="Converta do formato de imagem TIFF para outros formatos usando a plataforma Java" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Converta imagens do formato TIFF usando Aspose.Imaging para Java" h2="Converta do formato de imagem TIFF(Formato de imagem marcada) para outros formatos usando a plataforma Java" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Amplo espectro de formatos de imagem que podem ser convertidos de imagens TIFF usando Aspose.Imaging para Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Amplo espectro de formatos de imagem que podem ser convertidos de imagens TIFF(Formato de imagem marcada) usando Aspose.Imaging para Java" %}}
 Você pode converter programaticamente do formato TIFF para outros formatos disponíveis usando
-Aspose.Imaging para Java.
+Aspose.Imaging para Java. TIFF ou TIF, Tagged Image File Format, representa imagens raster que se destinam ao uso em uma variedade de dispositivos que estão em conformidade com este padrão de formato de arquivo. Ele é capaz de descrever dados de imagem de dois níveis, tons de cinza, cores de paleta e cores em vários espaços de cores. Ele suporta esquemas de compactação com e sem perdas para escolher entre espaço e tempo para aplicativos que usam o formato. O formato é extensível e passou por várias revisões que permitem a inclusão de uma quantidade ilimitada de informações privadas ou de finalidade especial. O formato não depende da máquina e está livre de limites como processador, sistema operacional ou sistemas de arquivos.
 <br/>
 Existem as seguintes conversões a bordo:
 {{% /blocks/products/pf/feature-page-section %}}

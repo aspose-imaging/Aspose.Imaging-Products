@@ -1,20 +1,20 @@
 ﻿---
-title: Convertir de EMZ vers d'autres formats pris en charge à l'aide d'Aspose.Imaging pour Java 
+title: Convertir de EMZ(Métafichier amélioré compressé Windows) vers d'autres formats pris en charge à l'aide d'Aspose.Imaging pour Java API 
 weight: 3920
 url: /fr/java/conversion/from/emz 
 lang: fr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging peut facilement convertir de EMZ vers d'autres formats à l'aide de la plate-forme Java
+description: Aspose.Imaging peut facilement convertir de EMZ(Métafichier amélioré compressé Windows) vers d'autres formats à l'aide de la plate-forme Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convertir des images à partir du format EMZ à l'aide d'Aspose.Imaging pour Java" h2="Convertir du format d'image EMZ vers d'autres formats à l'aide de la plate-forme Java" downloadText="Télécharger" >}}
+{{< blocks/products/pf/feature-page-header h1="Convertir des images à partir du format EMZ à l'aide d'Aspose.Imaging pour Java" h2="Convertir du format d'image EMZ(Métafichier amélioré compressé Windows) vers d'autres formats à l'aide de la plate-forme Java" downloadText="Télécharger" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Large éventail de formats d'image pouvant être convertis à partir d'images EMZ à l'aide d'Aspose.Imaging pour Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Large éventail de formats d'image pouvant être convertis à partir d'images EMZ(Métafichier amélioré compressé Windows) à l'aide d'Aspose.Imaging pour Java" %}}
 Vous pouvez convertir par programmation du format EMZ vers d'autres formats disponibles en utilisant
-Aspose.Imaging pour Java.
+Aspose.Imaging pour Java. Un fichier avec l'extension de fichier EMZ est un fichier image compressé, plus spécifiquement appelé fichier de métafichier amélioré compressé Windows.
 <br/>
 Il y a les conversions suivantes à bord :
 {{% /blocks/products/pf/feature-page-section %}}

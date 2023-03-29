@@ -1,21 +1,21 @@
 ﻿---
-title: Convert from OTG to other formats Via .NET 
+title: Convert from OTG(OpenDocument Standard) to other formats Via .NET image API 
 weight: 3920
 url: /net/conversion/from/otg 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Using Aspose.Imaging you can easily convert from OTG to other formats
+description: Using Aspose.Imaging for .NET you can easily convert from OTG(OpenDocument Standard) to other formats
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Image Files Conversion from OTG Via .NET" h2="Convert from OTG to other formats" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Image Files Conversion from OTG(OpenDocument Standard) Via .NET image API" h2="Convert from OpenDocument Standard to other formats using Aspose.Imaging API" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from OTG" %}}
-Aspose.Imaging allows automate a lot of conversions from OTG to other formats on .NET platform.
+{{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from OTG(OpenDocument Standard)" %}}
+Aspose.Imaging allows automate a lot of conversions from OTG to other formats on .NET platform. An OTG file is a drawing template that is created using the OpenDocument standard that follows the OASIS Office Applications 1.0 specification. It represents the default organization of drawing elements for a vector image that can be used to further enhance the contents of the file.
 <br/>
-Full list of supported conversions:
+Full list of supported conversions from OTG:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

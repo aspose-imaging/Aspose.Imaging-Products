@@ -1,20 +1,20 @@
 ﻿---
-title: Convertir de OTG vers d'autres formats pris en charge à l'aide d'Aspose.Imaging pour Java 
+title: Convertir de OTG(Norme OpenDocument) vers d'autres formats pris en charge à l'aide d'Aspose.Imaging pour Java API 
 weight: 3920
 url: /fr/java/conversion/from/otg 
 lang: fr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging peut facilement convertir de OTG vers d'autres formats à l'aide de la plate-forme Java
+description: Aspose.Imaging peut facilement convertir de OTG(Norme OpenDocument) vers d'autres formats à l'aide de la plate-forme Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convertir des images à partir du format OTG à l'aide d'Aspose.Imaging pour Java" h2="Convertir du format d'image OTG vers d'autres formats à l'aide de la plate-forme Java" downloadText="Télécharger" >}}
+{{< blocks/products/pf/feature-page-header h1="Convertir des images à partir du format OTG à l'aide d'Aspose.Imaging pour Java" h2="Convertir du format d'image OTG(Norme OpenDocument) vers d'autres formats à l'aide de la plate-forme Java" downloadText="Télécharger" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Large éventail de formats d'image pouvant être convertis à partir d'images OTG à l'aide d'Aspose.Imaging pour Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Large éventail de formats d'image pouvant être convertis à partir d'images OTG(Norme OpenDocument) à l'aide d'Aspose.Imaging pour Java" %}}
 Vous pouvez convertir par programmation du format OTG vers d'autres formats disponibles en utilisant
-Aspose.Imaging pour Java.
+Aspose.Imaging pour Java. Un fichier OTG est un modèle de dessin créé à l'aide de la norme OpenDocument qui suit la spécification OASIS Office Applications 1.0. Il représente l'organisation par défaut des éléments de dessin pour une image vectorielle qui peut être utilisée pour améliorer davantage le contenu du fichier.
 <br/>
 Il y a les conversions suivantes à bord :
 {{% /blocks/products/pf/feature-page-section %}}

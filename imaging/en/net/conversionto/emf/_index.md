@@ -1,19 +1,19 @@
 ﻿---
-title: Convert images to EMF image format from other supported formats using .NET platform 
+title: Convert images to EMF(Enhanced Metafile Format) image format from other supported formats using .NET platform 
 weight: 3920
 url: /net/conversion/to/emf 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Using Aspose.Imaging for .NET library it is easy to convert to EMF from other supported image formats
+description: Using Aspose.Imaging for .NET library it is easy to convert to EMF(Enhanced Metafile Format) from other supported image formats
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert Image Files to EMF image format using .NET platform" h2="Convert to EMF format from other formats using Aspose.Imaging for .NET library" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert Image Files to EMF(Enhanced Metafile Format) image format using .NET platform" h2="Convert to Enhanced Metafile Format format from other formats using Aspose.Imaging for .NET library" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="All supported conversions to EMF format using Aspose.Imaging for .NET library" %}}
-Using Aspose.Imaging library you can programmatically convert various image formats to EMF image.
+{{% blocks/products/pf/feature-page-section  h2="All supported conversions to EMF(Enhanced Metafile Format) format using Aspose.Imaging for .NET library" %}}
+Using Aspose.Imaging library you can programmatically convert various image formats to EMF image. Enhanced metafile format (EMF) stores graphical images device-independently. Metafiles of EMF comprises of variable-length records in chronological order that can render the stored image after parsing on any output device. These variable-length records can be definitions of enclosed objects, commands for drawing, and graphics properties critical to render the image accurately. When a device opens an EMF metafile using its own graphics environment, the proportions, dimensions, colors and other graphic properties of original image remains same regardless of the opening device platform.
 <br/>
 Following conversions are supported :
 {{% /blocks/products/pf/feature-page-section %}}

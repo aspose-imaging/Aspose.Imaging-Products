@@ -1,20 +1,20 @@
 ﻿---
-title: Converti da CMX in altri formati supportati utilizzando Aspose.Imaging per Java 
+title: Converti da CMX(Immagine di scambio di Corel) in altri formati supportati utilizzando Aspose.Imaging per Java API 
 weight: 3920
 url: /it/java/conversion/from/cmx 
 lang: it
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging può facilmente convertire da CMX ad altri formati utilizzando la piattaforma Java
+description: Aspose.Imaging può facilmente convertire da CMX(Immagine di scambio di Corel) ad altri formati utilizzando la piattaforma Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converti immagini dal formato CMX utilizzando Aspose.Imaging per Java" h2="Converti dal formato immagine CMX in altri formati utilizzando la piattaforma Java" downloadText="Scarica" >}}
+{{< blocks/products/pf/feature-page-header h1="Converti immagini dal formato CMX utilizzando Aspose.Imaging per Java" h2="Converti dal formato immagine CMX(Immagine di scambio di Corel) in altri formati utilizzando la piattaforma Java" downloadText="Scarica" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Ampio spettro di formati immagine che possono essere convertiti da immagini CMX utilizzando Aspose.Imaging per Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Ampio spettro di formati immagine che possono essere convertiti da immagini CMX(Immagine di scambio di Corel) utilizzando Aspose.Imaging per Java" %}}
 Puoi convertire in modo programmatico dal formato CMX in altri formati disponibili utilizzando
-Aspose.Imaging per Java.
+Aspose.Imaging per Java. I file con estensione CMX sono un formato di file immagine di Corel Exchange utilizzato come presentazione dalle applicazioni CorelSuite. Contiene dati di immagine come grafica vettoriale e metadati che descrivono l'immagine. I file CMX possono essere aperti da CorelDraw, Corel Presentations, Paint Shop Pro e alcune versioni di Adobe Illustrator.
 <br/>
 Ci sono le seguenti conversioni a bordo:
 {{% /blocks/products/pf/feature-page-section %}}

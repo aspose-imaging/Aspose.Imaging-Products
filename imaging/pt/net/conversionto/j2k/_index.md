@@ -1,19 +1,19 @@
 ﻿---
-title: Converta imagens para o formato de imagem J2K de outros formatos suportados usando a plataforma .NET 
+title: Converta imagens para o formato de imagem J2K(Imagem Comprimida Wavelet) de outros formatos suportados usando a plataforma .NET 
 weight: 3920
 url: /pt/net/conversion/to/j2k 
 lang: pt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando a biblioteca Aspose.Imaging para .NET, é fácil converter para J2K de outros formatos de imagem suportados
+description: Usando a biblioteca Aspose.Imaging para .NET, é fácil converter para J2K(Imagem Comprimida Wavelet) de outros formatos de imagem suportados
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converta arquivos de imagem para o formato de imagem J2K usando a plataforma .NET" h2="Converta para o formato J2K de outros formatos usando a biblioteca Aspose.Imaging for .NET" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Converta arquivos de imagem para o formato de imagem J2K(Imagem Comprimida Wavelet) usando a plataforma .NET" h2="Converta para o formato Imagem Comprimida Wavelet de outros formatos usando a biblioteca Aspose.Imaging for .NET" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todas as conversões suportadas para o formato J2K usando a biblioteca Aspose.Imaging for .NET" %}}
-Usando a biblioteca Aspose.Imaging, você pode converter programaticamente vários formatos de imagem em imagem J2K.
+{{% blocks/products/pf/feature-page-section  h2="Todas as conversões suportadas para o formato J2K(Imagem Comprimida Wavelet) usando a biblioteca Aspose.Imaging for .NET" %}}
+Usando a biblioteca Aspose.Imaging, você pode converter programaticamente vários formatos de imagem em imagem J2K. Um arquivo J2K é uma imagem compactada usando a compactação wavelet em vez da compactação DCT.
 <br/>
 As seguintes conversões são suportadas:
 {{% /blocks/products/pf/feature-page-section %}}

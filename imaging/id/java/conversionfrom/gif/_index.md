@@ -1,20 +1,20 @@
 ﻿---
-title: Konversikan dari GIF ke format lain yang didukung menggunakan Aspose.Imaging untuk Java 
+title: Konversikan dari GIF(Format Pertukaran Grafis) ke format lain yang didukung menggunakan Aspose.Imaging untuk Java API 
 weight: 3920
 url: /id/java/conversion/from/gif 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging dapat dengan mudah mengonversi dari GIF ke format lain menggunakan platform Java
+description: Aspose.Imaging dapat dengan mudah mengonversi dari GIF(Format Pertukaran Grafis) ke format lain menggunakan platform Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversikan gambar dari format GIF menggunakan Aspose.Imaging untuk Java" h2="Konversi dari format gambar GIF ke format lain menggunakan platform Java" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversikan gambar dari format GIF menggunakan Aspose.Imaging untuk Java" h2="Konversi dari format gambar GIF(Format Pertukaran Grafis) ke format lain menggunakan platform Java" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Spektrum luas format gambar yang dapat dikonversi dari gambar GIF menggunakan Aspose.Imaging untuk Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Spektrum luas format gambar yang dapat dikonversi dari gambar GIF(Format Pertukaran Grafis) menggunakan Aspose.Imaging untuk Java" %}}
 Anda dapat secara terprogram mengonversi dari format GIF ke format lain yang tersedia menggunakan
-Aspose.Imaging untuk Java.
+Aspose.Imaging untuk Java. GIF atau Graphical Interchange Format adalah jenis gambar yang sangat terkompresi. Dimiliki oleh Unisys, GIF menggunakan algoritma kompresi LZW yang tidak menurunkan kualitas gambar. Untuk setiap gambar, GIF biasanya mengizinkan hingga 8 bit per piksel dan hingga 256 warna diizinkan di seluruh gambar. Berbeda dengan gambar JPEG, yang mampu menampilkan hingga 16 juta warna dan terbilang menyentuh batas mata manusia. Kembali ketika internet muncul, GIF tetap menjadi pilihan terbaik karena membutuhkan bandwidth rendah dan kompatibel untuk grafik yang menggunakan area warna solid. GIF animasi menggabungkan banyak gambar atau bingkai ke dalam satu file dan menampilkannya secara berurutan untuk menghasilkan klip animasi atau video pendek. Batasan warna hingga 256 untuk setiap bingkai dan kemungkinan paling tidak cocok untuk mereproduksi gambar dan foto lain dengan gradien warna.
 <br/>
 Ada konversi berikut di pesawat:
 {{% /blocks/products/pf/feature-page-section %}}

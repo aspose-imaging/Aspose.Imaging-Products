@@ -1,21 +1,21 @@
 ﻿---
-title: Конвертувати з WMZ в інші формати за допомогою .NET 
+title: Перетворення з WMZ(Стиснена оболонка Windows Media Player) в інші формати за допомогою API зображень .NET 
 weight: 3920
 url: /uk/net/conversion/from/wmz 
 lang: uk
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: За допомогою Aspose.Imaging ви можете легко конвертувати з WMZ в інші формати
+description: За допомогою Aspose.Imaging ви можете легко конвертувати з WMZ(Стиснена оболонка Windows Media Player) в інші формати
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Перетворення файлів зображень з WMZ за допомогою .NET" h2="Конвертувати з WMZ в інші формати" downloadText="Завантажити" >}}
+{{< blocks/products/pf/feature-page-header h1="Перетворення файлів зображень із WMZ(Стиснена оболонка Windows Media Player) через API зображень .NET" h2="Перетворюйте з Стиснена оболонка Windows Media Player в інші формати за допомогою API Aspose.Imaging" downloadText="Завантажити" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для конвертації з WMZ" %}}
-Aspose.Imaging дозволяє автоматизувати багато перетворень із WMZ в інші формати на платформі .NET.
+{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для конвертації з WMZ(Стиснена оболонка Windows Media Player)" %}}
+Aspose.Imaging дозволяє автоматизувати багато перетворень із WMZ в інші формати на платформі .NET. WMZ — це розширення файлу для формату файлу оболонки, який/для/використовується медіапрогравачем Windows. WMZ-файл – це в основному заархівований файл WMF у форматі XML.
 <br/>
-Повний список підтримуваних конвертацій:
+Повний список підтримуваних конвертацій із WMZ:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

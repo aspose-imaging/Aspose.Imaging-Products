@@ -1,20 +1,20 @@
 ﻿---
-title: Konversikan dari DJVU ke format lain yang didukung menggunakan Aspose.Imaging untuk Java 
+title: Konversikan dari DJVU(Format Grafis) ke format lain yang didukung menggunakan Aspose.Imaging untuk Java API 
 weight: 3920
 url: /id/java/conversion/from/djvu 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging dapat dengan mudah mengonversi dari DJVU ke format lain menggunakan platform Java
+description: Aspose.Imaging dapat dengan mudah mengonversi dari DJVU(Format Grafis) ke format lain menggunakan platform Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversikan gambar dari format DJVU menggunakan Aspose.Imaging untuk Java" h2="Konversi dari format gambar DJVU ke format lain menggunakan platform Java" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversikan gambar dari format DJVU menggunakan Aspose.Imaging untuk Java" h2="Konversi dari format gambar DJVU(Format Grafis) ke format lain menggunakan platform Java" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Spektrum luas format gambar yang dapat dikonversi dari gambar DJVU menggunakan Aspose.Imaging untuk Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Spektrum luas format gambar yang dapat dikonversi dari gambar DJVU(Format Grafis) menggunakan Aspose.Imaging untuk Java" %}}
 Anda dapat secara terprogram mengonversi dari format DJVU ke format lain yang tersedia menggunakan
-Aspose.Imaging untuk Java.
+Aspose.Imaging untuk Java. DjVu, diucapkan sebagai "déjà vu", adalah format file grafik yang ditujukan untuk dokumen dan buku yang dipindai terutama yang berisi kombinasi teks, gambar, gambar, dan foto. Ini dikembangkan oleh AT&T Labs. Ini menggunakan beberapa teknik seperti pemisahan lapisan gambar teks dan gambar latar belakang, pemuatan progresif, pengkodean aritmatika dan kompresi lossy untuk gambar bitonal. Karena file DJVU dapat berisi gambar, foto, teks, dan gambar berwarna yang terkompresi namun berkualitas tinggi dan dapat disimpan dalam ruang yang lebih sedikit, oleh karena itu, file ini digunakan di web sebagai eBuku, manual, surat kabar, dokumen kuno, dll.
 <br/>
 Ada konversi berikut di pesawat:
 {{% /blocks/products/pf/feature-page-section %}}

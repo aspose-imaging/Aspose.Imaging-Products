@@ -1,21 +1,21 @@
 ﻿---
-title: Convertir de CMX vers d'autres formats via .NET 
+title: Convertir de CMX(Image d'échange Corel) vers d'autres formats via l'API d'image .NET 
 weight: 3920
 url: /fr/net/conversion/from/cmx 
 lang: fr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: En utilisant Aspose.Imaging, vous pouvez facilement convertir de CMX vers un autre format
+description: En utilisant Aspose.Imaging, vous pouvez facilement convertir de CMX(Image d'échange Corel) vers un autre format
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversion de fichiers image à partir de CMX via .NET" h2="Convertir de CMX vers un autre format" downloadText="Télécharger" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversion de fichiers image à partir de CMX(Image d'échange Corel) via l'API d'image .NET" h2="Convertir de Image d'échange Corel vers d'autres formats à l'aide de l'API Aspose.Imaging" downloadText="Télécharger" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tous les formats d'image pris en charge pour convertir à partir de CMX" %}}
-Aspose.Imaging permet d'automatiser de nombreuses conversions de CMX vers d'autres formats sur la plate-forme .NET.
+{{% blocks/products/pf/feature-page-section  h2="Tous les formats d'image pris en charge pour convertir à partir de CMX(Image d'échange Corel)" %}}
+Aspose.Imaging permet d'automatiser de nombreuses conversions de CMX vers d'autres formats sur la plate-forme .NET. Les fichiers avec l'extension CMX sont au format de fichier image Corel Exchange utilisé comme présentation par les applications CorelSuite. Il contient des données d'image sous forme de graphiques vectoriels ainsi que des métadonnées qui décrivent l'image. Les fichiers CMX peuvent être ouverts par CorelDraw, Corel Presentations, Paint Shop Pro et certaines versions d'Adobe Illustrator.
 <br/>
-Liste complète des conversions prises en charge :
+Liste complète des conversions prises en charge à partir de CMX :
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

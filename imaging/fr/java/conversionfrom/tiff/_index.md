@@ -1,20 +1,20 @@
 ﻿---
-title: Convertir de TIFF vers d'autres formats pris en charge à l'aide d'Aspose.Imaging pour Java 
+title: Convertir de TIFF(Format d'image balisé) vers d'autres formats pris en charge à l'aide d'Aspose.Imaging pour Java API 
 weight: 3920
 url: /fr/java/conversion/from/tiff 
 lang: fr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging peut facilement convertir de TIFF vers d'autres formats à l'aide de la plate-forme Java
+description: Aspose.Imaging peut facilement convertir de TIFF(Format d'image balisé) vers d'autres formats à l'aide de la plate-forme Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convertir des images à partir du format TIFF à l'aide d'Aspose.Imaging pour Java" h2="Convertir du format d'image TIFF vers d'autres formats à l'aide de la plate-forme Java" downloadText="Télécharger" >}}
+{{< blocks/products/pf/feature-page-header h1="Convertir des images à partir du format TIFF à l'aide d'Aspose.Imaging pour Java" h2="Convertir du format d'image TIFF(Format d'image balisé) vers d'autres formats à l'aide de la plate-forme Java" downloadText="Télécharger" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Large éventail de formats d'image pouvant être convertis à partir d'images TIFF à l'aide d'Aspose.Imaging pour Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Large éventail de formats d'image pouvant être convertis à partir d'images TIFF(Format d'image balisé) à l'aide d'Aspose.Imaging pour Java" %}}
 Vous pouvez convertir par programmation du format TIFF vers d'autres formats disponibles en utilisant
-Aspose.Imaging pour Java.
+Aspose.Imaging pour Java. TIFF ou TIF, Tagged Image File Format, représente des images raster destinées à être utilisées sur une variété d'appareils conformes à cette norme de format de fichier. Il est capable de décrire des données d'image à deux niveaux, en niveaux de gris, en couleurs de palette et en couleurs dans plusieurs espaces colorimétriques. Il prend en charge les schémas de compression avec perte et sans perte pour choisir entre l'espace et le temps pour les applications utilisant le format. Le format est extensible et a subi plusieurs révisions qui permettent l'inclusion d'une quantité illimitée d'informations privées ou à usage spécial. Le format ne dépend pas de la machine et est exempt de limites telles que le processeur, le système d'exploitation ou les systèmes de fichiers.
 <br/>
 Il y a les conversions suivantes à bord :
 {{% /blocks/products/pf/feature-page-section %}}

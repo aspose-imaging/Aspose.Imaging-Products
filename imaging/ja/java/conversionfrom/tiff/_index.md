@@ -1,20 +1,20 @@
 ﻿---
-title: Aspose.Imaging for Java を使用して、TIFF から他のサポートされている形式に変換します。 
+title: Aspose.Imaging for Java API を使用して、TIFF(タグ付き画像形式) から他のサポートされている形式に変換します。 
 weight: 3920
 url: /ja/java/conversion/from/tiff 
 lang: ja
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging は、Java プラットフォームを使用して TIFF から他のフォーマットに簡単に変換できます
+description: Aspose.Imaging は、Java プラットフォームを使用して TIFF(タグ付き画像形式) から他のフォーマットに簡単に変換できます
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java を使用して TIFF フォーマットから画像を変換します" h2="Java プラットフォームを使用して、TIFF 画像形式から他の形式に変換します" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java を使用して TIFF フォーマットから画像を変換します" h2="Java プラットフォームを使用して、TIFF(タグ付き画像形式) 画像形式から他の形式に変換します" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java を使用して TIFF 画像から変換できる幅広い画像フォーマット" %}}
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java を使用して TIFF(タグ付き画像形式) 画像から変換できる幅広い画像フォーマット" %}}
 次を使用して、TIFF 形式から他の使用可能な形式にプログラムで変換できます。
-Aspose.Imaging for Java。
+Aspose.Imaging for Java。 TIFFまたはTIF（タグ付き画像ファイル形式）は、このファイル形式標準に準拠するさまざまなデバイスでの使用を目的としたラスター画像を表します。いくつかの色空間で、バイレベル、グレースケール、パレットカラー、およびフルカラーの画像データを記述することができます。この形式を使用するアプリケーションのスペースと時間のどちらかを選択するための非可逆圧縮方式と可逆圧縮方式をサポートしています。このフォーマットは拡張可能であり、無制限の量の個人情報または特別目的情報を含めることができるようにいくつかの改訂が行われています。この形式はマシンに依存せず、プロセッサ、オペレーティングシステム、ファイルシステムなどの境界がありません。
 <br/>
 機内では次の変換があります。
 {{% /blocks/products/pf/feature-page-section %}}

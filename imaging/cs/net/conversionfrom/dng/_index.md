@@ -1,21 +1,21 @@
 ﻿---
-title: Převést z DNG do jiných formátů přes .NET 
+title: Převést z formátu DNG(Obrázek z digitálního fotoaparátu) do jiných formátů prostřednictvím rozhraní API pro obrázky .NET 
 weight: 3920
 url: /cs/net/conversion/from/dng 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Pomocí Aspose.Imaging můžete snadno převést z formátu DNG do jiných formátů
+description: Pomocí Aspose.Imaging můžete snadno převést z formátu DNG(Obrázek z digitálního fotoaparátu) do jiných formátů
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů z formátu DNG prostřednictvím .NET" h2="Převést z DNG do jiných formátů" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů z formátu DNG(Obrázek z digitálního fotoaparátu) prostřednictvím rozhraní API pro obrázky .NET" h2="Převeďte z Obrázek z digitálního fotoaparátu do jiných formátů pomocí Aspose.Imaging API" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu z formátu DNG" %}}
-Aspose.Imaging umožňuje automatizovat mnoho konverzí z DNG do jiných formátů na platformě .NET.
+{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu z formátu DNG (Obrázek z digitálního fotoaparátu)" %}}
+Aspose.Imaging umožňuje automatizovat mnoho konverzí z DNG do jiných formátů na platformě .NET. DNG je obrazový formát digitálního fotoaparátu používaný pro ukládání nezpracovaných souborů. Byl vyvinut společností Adobe v září 2004. V podstatě byl vyvinut pro digitální fotografii. DNG je rozšířením standardního formátu TIFF/EP a významně využívá metadata. Aby mohli fotografové manipulovat s nezpracovanými daty z digitálních fotoaparátů se snadnou flexibilitou a uměleckým ovládáním, volí soubory camera raw. Formáty JPEG a TIFF ukládají snímky, které zpracovává fotoaparát, proto v těchto formátech není k dispozici mnoho prostoru pro úpravy.
 <br/>
-Úplný seznam podporovaných konverzí:
+Úplný seznam podporovaných konverzí z DNG:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

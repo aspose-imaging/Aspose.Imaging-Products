@@ -1,19 +1,19 @@
 ﻿---
-title: Convierta imágenes al formato de imagen EMZ desde otros formatos compatibles utilizando la plataforma .NET 
+title: Convierta imágenes al formato de imagen EMZ(Metarchivo mejorado comprimido de Windows) desde otros formatos compatibles utilizando la plataforma .NET 
 weight: 3920
 url: /es/net/conversion/to/emz 
 lang: es
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging para la biblioteca .NET, es fácil convertir a EMZ desde otros formatos de imagen compatibles
+description: Usando Aspose.Imaging para la biblioteca .NET, es fácil convertir a EMZ(Metarchivo mejorado comprimido de Windows) desde otros formatos de imagen compatibles
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convierta archivos de imagen a formato de imagen EMZ utilizando la plataforma .NET" h2="Convierta al formato EMZ desde otros formatos usando Aspose.Imaging para la biblioteca .NET" downloadText="Descargar" >}}
+{{< blocks/products/pf/feature-page-header h1="Convierta archivos de imagen a formato de imagen EMZ(Metarchivo mejorado comprimido de Windows) utilizando la plataforma .NET" h2="Convierta al formato Metarchivo mejorado comprimido de Windows desde otros formatos usando Aspose.Imaging para la biblioteca .NET" downloadText="Descargar" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todas las conversiones admitidas al formato EMZ usando Aspose.Imaging para la biblioteca .NET" %}}
-Con la biblioteca Aspose.Imaging, puede convertir mediante programación varios formatos de imagen a la imagen EMZ.
+{{% blocks/products/pf/feature-page-section  h2="Todas las conversiones admitidas al formato EMZ(Metarchivo mejorado comprimido de Windows) usando Aspose.Imaging para la biblioteca .NET" %}}
+Con la biblioteca Aspose.Imaging, puede convertir mediante programación varios formatos de imagen a la imagen EMZ. Un archivo con la extensión de archivo EMZ es un archivo de imagen comprimido, más específicamente conocido como archivo de metarchivo mejorado comprimido de Windows.
 <br/>
 Se admiten las siguientes conversiones:
 {{% /blocks/products/pf/feature-page-section %}}

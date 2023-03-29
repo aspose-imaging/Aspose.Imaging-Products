@@ -1,21 +1,21 @@
 ﻿---
-title: Konvertera från SVGZ till andra format via .NET 
+title: Konvertera från SVGZ(Komprimerad version av Scalable Vector Graphics-fil (.SVG).) till andra format via .NET bild-API 
 weight: 3920
 url: /sv/net/conversion/from/svgz 
 lang: sv
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Med Aspose.Imaging kan du enkelt konvertera från SVGZ till ett annat format
+description: Med Aspose.Imaging kan du enkelt konvertera från SVGZ(Komprimerad version av Scalable Vector Graphics-fil (.SVG).) till ett annat format
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertering av bildfiler från SVGZ via .NET" h2="Konvertera från SVGZ till ett annat format" downloadText="Ladda ner" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertering av bildfiler från SVGZ(Komprimerad version av Scalable Vector Graphics-fil (.SVG).) via .NET bild-API" h2="Konvertera från Komprimerad version av Scalable Vector Graphics-fil (.SVG). till andra format med Aspose.Imaging API" downloadText="Ladda ner" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alla bildformat som stöds för att konvertera från SVGZ" %}}
-Aspose.Imaging låter automatisera många konverteringar från SVGZ till andra format på .NET-plattformen.
+{{% blocks/products/pf/feature-page-section  h2="Alla bildformat som stöds att konvertera från SVGZ(Komprimerad version av Scalable Vector Graphics-fil (.SVG).)" %}}
+Aspose.Imaging låter automatisera många konverteringar från SVGZ till andra format på .NET-plattformen. En fil med filtillägget .svgz är en komprimerad version av filen Scalable Vector Graphics (.SVG). Den är komprimerad med gzip-komprimering och innehåller data i XML-format. SVGZ-filer stöder transparens, gradienter, animationer och filter. SVGZ-filer är mindre i storlek jämfört med standard SVG-filer och denna reducerade filstorlek hjälper till att överföra grafikfilerna online. Grafikdesigner skapar SVGZ-filer med hjälp av verktyg som Adobe Illustrator, Corel PaintShop Pro och andra. SVGZ-filer kan dock genereras genom att aktivera GZip-komprimering i Apache-servern medan bilddata skickas ut.
 <br/>
-Fullständig lista över omvandlingar som stöds:
+Fullständig lista över omvandlingar som stöds från SVGZ:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -1,20 +1,20 @@
 ﻿---
-title: Convert from APNG to other supported formats using Aspose.Imaging for Java 
+title: Convert from APNG(Animated Portable Network Graphics) to other supported formats using Aspose.Imaging for Java API 
 weight: 3920
 url: /java/conversion/from/apng 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging can easily convert from APNG to other formats using Java platform
+description: Aspose.Imaging API can easily convert from APNG(Animated Portable Network Graphics) to other formats using Java platform
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert images from APNG format using Aspose.Imaging for Java" h2="Convert from APNG image format to other formats using Java platform" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert images from APNG format using Aspose.Imaging for Java" h2="Convert from APNG(Animated Portable Network Graphics) image format to other formats using Java platform" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wide spectrum of image formats that can be converted from APNG images using Aspose.Imaging for Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Wide spectrum of image formats that can be converted from APNG(Animated Portable Network Graphics) images using Aspose.Imaging for Java" %}}
 You can programmaticaly convert from APNG format to other available formats using 
-Aspose.Imaging for Java.
+Aspose.Imaging for Java. A file with .apng (Animated Portable Network Graphics) extension is a raster graphic format and is an unofficial extension to the Portable Network Graphic (PNG ). It comprises of multiple frames (each of PNG image) that represents an animation sequence. This gives similar visualization as a GIF file. APNG files support 24-bit images and 8-bit transparency. APNG is backward compatible with non-animated GIF files. APNG files use the same .png extension and can be opened by applications such as Mozilla Firefox, Chrome with APNG support, iMessage apps for iOS 10.
 <br/>
 There are following conversions on board:
 {{% /blocks/products/pf/feature-page-section %}}

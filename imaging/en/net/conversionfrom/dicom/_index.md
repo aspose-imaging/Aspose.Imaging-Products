@@ -1,21 +1,21 @@
 ﻿---
-title: Convert from DICOM to other formats Via .NET 
+title: Convert from DICOM(Digital Imaging & Communications) to other formats Via .NET image API 
 weight: 3920
 url: /net/conversion/from/dicom 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Using Aspose.Imaging you can easily convert from DICOM to other formats
+description: Using Aspose.Imaging for .NET you can easily convert from DICOM(Digital Imaging & Communications) to other formats
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Image Files Conversion from DICOM Via .NET" h2="Convert from DICOM to other formats" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Image Files Conversion from DICOM(Digital Imaging & Communications) Via .NET image API" h2="Convert from Digital Imaging & Communications to other formats using Aspose.Imaging API" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from DICOM" %}}
-Aspose.Imaging allows automate a lot of conversions from DICOM to other formats on .NET platform.
+{{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from DICOM(Digital Imaging & Communications)" %}}
+Aspose.Imaging allows automate a lot of conversions from DICOM to other formats on .NET platform. DICOM is the acronym for Digital Imaging and Communications in Medicine and pertains to the field of Medical Informatics. DICOM is the combination of file format definition and a network communications protocol. DICOM uses the .DCM extension. .DCM exist in two different formats i.e. format 1.x and format 2.x. DCM Format 1.x is further available in two versions normal and extended. DICOM is used for the integration of medical imaging devices like printers, servers, scanners etc from various vendors and also contains identification data of each patient for uniqueness. DICOM files can be shared between two parties if they are capable of receiving image data in DICOM format. The communication part of DICOM is application layer protocol and uses TCP/IP to communicate between entities. HTTP and HTTPS protocols are used for the web services of DICOM. Versions supported by web services are 1.0, 1.1, 2 or later.
 <br/>
-Full list of supported conversions:
+Full list of supported conversions from DICOM:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

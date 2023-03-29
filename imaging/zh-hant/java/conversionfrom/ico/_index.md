@@ -1,20 +1,20 @@
 ﻿---
-title: 使用 Aspose.Imaging for Java 從 ICO 轉換為其他支持的格式 
+title: 使用 Aspose.Imaging for Java API 從 ICO(窗口圖標) 轉換為其他支持的格式 
 weight: 3920
 url: /zh-hant/java/conversion/from/ico 
 lang: zh-hant
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging 可以使用 Java 平台輕鬆地將 ICO 轉換為其他格式
+description: Aspose.Imaging 可以使用 Java 平台輕鬆地將 ICO(窗口圖標) 轉換為其他格式
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="使用 Aspose.Imaging for Java 從 ICO 格式轉換圖像" h2="使用 Java 平台將 ICO 圖像格式轉換為其他格式" downloadText="下載" >}}
+{{< blocks/products/pf/feature-page-header h1="使用 Aspose.Imaging for Java 從 ICO 格式轉換圖像" h2="使用 Java 平台將 ICO(窗口圖標) 圖像格式轉換為其他格式" downloadText="下載" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="可以使用 Aspose.Imaging for Java 從 ICO 圖像轉換的各種圖像格式" %}}
+{{% blocks/products/pf/feature-page-section  h2="可以使用 Aspose.Imaging for Java 從 ICO(窗口圖標) 圖像轉換的各種圖像格式" %}}
 您可以使用編程方式將 ICO 格式轉換為其他可用格式
-用於 Java 的 Aspose.Imaging。
+用於 Java 的 Aspose.Imaging。 ICO 文件格式是 Microsoft Windows 中計算機圖標的圖像文件格式。 ICO 文件包含一個或多個具有多種尺寸和顏色深度的小圖像，以便它們可以適當地縮放。在 Windows 中，在桌面、開始菜單或 Windows 資源管理器中向用戶顯示圖標的所有可執行文件都必須帶有 ICO 格式的圖標。
 <br/>
 船上有以下轉換：
 {{% /blocks/products/pf/feature-page-section %}}

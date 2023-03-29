@@ -1,21 +1,21 @@
 ﻿---
-title: Konvertuoti iš ICO į kitus formatus per .NET 
+title: Konvertuoti iš ICO(Windows piktograma) į kitus formatus naudojant .NET vaizdo API 
 weight: 3920
 url: /lt/net/conversion/from/ico 
 lang: lt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Naudodami Aspose.Imaging galite lengvai konvertuoti iš ICO į kitus formatus
+description: Naudodami Aspose.Imaging galite lengvai konvertuoti iš ICO(Windows piktograma) į kitus formatus
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas iš ICO naudojant .NET" h2="Konvertuoti iš ICO į kitus formatus" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas iš ICO(Windows piktograma) naudojant .NET vaizdo API" h2="Konvertuokite iš Windows piktograma į kitus formatus naudodami Aspose.Imaging API" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai konvertuoti iš ICO" %}}
-Aspose.Imaging leidžia automatizuoti daug konversijų iš ICO į kitus formatus .NET platformoje.
+{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai, konvertuojami iš ICO(Windows piktograma)" %}}
+Aspose.Imaging leidžia automatizuoti daug konversijų iš ICO į kitus formatus .NET platformoje. ICO failo formatas yra vaizdo failo formatas, skirtas kompiuterio piktogramoms „Microsoft Windows“. ICO failuose yra vienas ar daugiau mažų įvairių dydžių ir spalvų gylio vaizdų, kad juos būtų galima atitinkamai pakeisti. Sistemoje „Windows“ visuose vykdomuosiuose failuose, kuriuose vartotojui rodoma piktograma, darbalaukyje, meniu Pradėti arba „Windows Explorer“, turi būti piktograma ICO formatu.
 <br/>
-Visas palaikomų konversijų sąrašas:
+Visas palaikomų konversijų iš ICO sąrašas:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

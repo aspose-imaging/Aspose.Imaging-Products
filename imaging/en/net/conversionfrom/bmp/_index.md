@@ -1,21 +1,21 @@
 ﻿---
-title: Convert from BMP to other formats Via .NET 
+title: Convert from BMP(Bitmap Picture) to other formats Via .NET image API 
 weight: 3920
 url: /net/conversion/from/bmp 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Using Aspose.Imaging you can easily convert from BMP to other formats
+description: Using Aspose.Imaging for .NET you can easily convert from BMP(Bitmap Picture) to other formats
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Image Files Conversion from BMP Via .NET" h2="Convert from BMP to other formats" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Image Files Conversion from BMP(Bitmap Picture) Via .NET image API" h2="Convert from Bitmap Picture to other formats using Aspose.Imaging API" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from BMP" %}}
-Aspose.Imaging allows automate a lot of conversions from BMP to other formats on .NET platform.
+{{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from BMP(Bitmap Picture)" %}}
+Aspose.Imaging allows automate a lot of conversions from BMP to other formats on .NET platform. Files having extension .BMP represent Bitmap Image files that are used to store bitmap digital images. These images are independent of graphics adapter and are also called device independent bitmap (DIB) file format. This independency serves the purpose of opening the file on multiple platforms such as Microsoft Windows and Mac. The BMP file format can store data as two-dimensional digital images  in both monochrome as well as color format with various colour depths.
 <br/>
-Full list of supported conversions:
+Full list of supported conversions from BMP:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

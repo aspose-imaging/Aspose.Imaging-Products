@@ -1,20 +1,20 @@
 ﻿---
-title: Convertir de DNG vers d'autres formats pris en charge à l'aide d'Aspose.Imaging pour Java 
+title: Convertir de DNG(Image d'appareil photo numérique) vers d'autres formats pris en charge à l'aide d'Aspose.Imaging pour Java API 
 weight: 3920
 url: /fr/java/conversion/from/dng 
 lang: fr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging peut facilement convertir de DNG vers d'autres formats à l'aide de la plate-forme Java
+description: Aspose.Imaging peut facilement convertir de DNG(Image d'appareil photo numérique) vers d'autres formats à l'aide de la plate-forme Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convertir des images à partir du format DNG à l'aide d'Aspose.Imaging pour Java" h2="Convertir du format d'image DNG vers d'autres formats à l'aide de la plate-forme Java" downloadText="Télécharger" >}}
+{{< blocks/products/pf/feature-page-header h1="Convertir des images à partir du format DNG à l'aide d'Aspose.Imaging pour Java" h2="Convertir du format d'image DNG(Image d'appareil photo numérique) vers d'autres formats à l'aide de la plate-forme Java" downloadText="Télécharger" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Large éventail de formats d'image pouvant être convertis à partir d'images DNG à l'aide d'Aspose.Imaging pour Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Large éventail de formats d'image pouvant être convertis à partir d'images DNG(Image d'appareil photo numérique) à l'aide d'Aspose.Imaging pour Java" %}}
 Vous pouvez convertir par programmation du format DNG vers d'autres formats disponibles en utilisant
-Aspose.Imaging pour Java.
+Aspose.Imaging pour Java. DNG est un format d'image d'appareil photo numérique utilisé pour le stockage de fichiers bruts. Il a été développé par Adobe en septembre 2004. Il a été essentiellement développé pour la photographie numérique. DNG est une extension du format standard TIFF/EP et utilise les métadonnées de manière significative. Afin de manipuler les données brutes des appareils photo numériques avec une grande souplesse et un contrôle artistique, les photographes optent pour les fichiers Camera Raw. Les formats JPEG et TIFF stockent des images qui sont traitées par l'appareil photo, donc peu de place pour la modification est disponible dans ces formats.
 <br/>
 Il y a les conversions suivantes à bord :
 {{% /blocks/products/pf/feature-page-section %}}

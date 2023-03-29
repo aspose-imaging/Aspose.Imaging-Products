@@ -1,20 +1,20 @@
 ﻿---
-title: 使用 Aspose.Imaging for Java 從 CMX 轉換為其他支持的格式 
+title: 使用 Aspose.Imaging for Java API 從 CMX(Corel 交換圖像) 轉換為其他支持的格式 
 weight: 3920
 url: /zh-hant/java/conversion/from/cmx 
 lang: zh-hant
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging 可以使用 Java 平台輕鬆地將 CMX 轉換為其他格式
+description: Aspose.Imaging 可以使用 Java 平台輕鬆地將 CMX(Corel 交換圖像) 轉換為其他格式
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="使用 Aspose.Imaging for Java 從 CMX 格式轉換圖像" h2="使用 Java 平台將 CMX 圖像格式轉換為其他格式" downloadText="下載" >}}
+{{< blocks/products/pf/feature-page-header h1="使用 Aspose.Imaging for Java 從 CMX 格式轉換圖像" h2="使用 Java 平台將 CMX(Corel 交換圖像) 圖像格式轉換為其他格式" downloadText="下載" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="可以使用 Aspose.Imaging for Java 從 CMX 圖像轉換的各種圖像格式" %}}
+{{% blocks/products/pf/feature-page-section  h2="可以使用 Aspose.Imaging for Java 從 CMX(Corel 交換圖像) 圖像轉換的各種圖像格式" %}}
 您可以使用編程方式將 CMX 格式轉換為其他可用格式
-用於 Java 的 Aspose.Imaging。
+用於 Java 的 Aspose.Imaging。 帶有 CMX 擴展名的文件是 Corel Exchange 圖像文件格式，CorelSuite 應用程序用作演示文稿。它包含作為矢量圖形的圖像數據以及描述圖像的元數據。 CMX 文件可由 CorelDraw、Corel Presentations、Paint Shop Pro 和某些版本的 Adob​​e Illustrator 打開。
 <br/>
 船上有以下轉換：
 {{% /blocks/products/pf/feature-page-section %}}

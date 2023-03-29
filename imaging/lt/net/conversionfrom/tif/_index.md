@@ -1,21 +1,21 @@
 ﻿---
-title: Konvertuoti iš TIF į kitus formatus per .NET 
+title: Konvertuoti iš TIF(Pažymėtas vaizdo formatas) į kitus formatus naudojant .NET vaizdo API 
 weight: 3920
 url: /lt/net/conversion/from/tif 
 lang: lt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Naudodami Aspose.Imaging galite lengvai konvertuoti iš TIF į kitus formatus
+description: Naudodami Aspose.Imaging galite lengvai konvertuoti iš TIF(Pažymėtas vaizdo formatas) į kitus formatus
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas iš TIF naudojant .NET" h2="Konvertuoti iš TIF į kitus formatus" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas iš TIF(Pažymėtas vaizdo formatas) naudojant .NET vaizdo API" h2="Konvertuokite iš Pažymėtas vaizdo formatas į kitus formatus naudodami Aspose.Imaging API" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai konvertuoti iš TIF" %}}
-Aspose.Imaging leidžia automatizuoti daug konversijų iš TIF į kitus formatus .NET platformoje.
+{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai, konvertuojami iš TIF(Pažymėtas vaizdo formatas)" %}}
+Aspose.Imaging leidžia automatizuoti daug konversijų iš TIF į kitus formatus .NET platformoje. 
 <br/>
-Visas palaikomų konversijų sąrašas:
+Visas palaikomų konversijų iš TIF sąrašas:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

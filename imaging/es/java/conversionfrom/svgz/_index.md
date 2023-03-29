@@ -1,20 +1,20 @@
 ﻿---
-title: Convierta de SVGZ a otros formatos admitidos usando Aspose.Imaging para Java 
+title: Convierta de SVGZ(Versión comprimida del archivo Scalable Vector Graphics (.SVG).) a otros formatos admitidos usando Aspose.Imaging para Java API. 
 weight: 3920
 url: /es/java/conversion/from/svgz 
 lang: es
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging puede convertir fácilmente de SVGZ a otros formatos usando la plataforma Java
+description: Aspose.Imaging puede convertir fácilmente de SVGZ(Versión comprimida del archivo Scalable Vector Graphics (.SVG).) a otros formatos usando la plataforma Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convierta imágenes del formato SVGZ usando Aspose.Imaging para Java" h2="Convierta del formato de imagen SVGZ a otros formatos utilizando la plataforma Java" downloadText="Descargar" >}}
+{{< blocks/products/pf/feature-page-header h1="Convierta imágenes del formato SVGZ usando Aspose.Imaging para Java" h2="Convierta del formato de imagen SVGZ(Versión comprimida del archivo Scalable Vector Graphics (.SVG).) a otros formatos utilizando la plataforma Java" downloadText="Descargar" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Amplio espectro de formatos de imagen que se pueden convertir a partir de imágenes SVGZ usando Aspose.Imaging para Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Amplio espectro de formatos de imagen que se pueden convertir a partir de imágenes SVGZ(Versión comprimida del archivo Scalable Vector Graphics (.SVG).) usando Aspose.Imaging para Java" %}}
 Puede convertir programáticamente del formato SVGZ a otros formatos disponibles usando
-Aspose. Imaging para Java.
+Aspose. Imaging para Java. Un archivo con la extensión .svgz es una versión comprimida del archivo Scalable Vector Graphics (.SVG). Está comprimido con compresión gzip y contiene datos en formato XML. Los archivos SVGZ admiten transparencia, degradados, animaciones y filtros. Los archivos SVGZ son más pequeños en comparación con los archivos SVG predeterminados y este tamaño de archivo reducido ayuda a transferir los archivos gráficos en línea. El diseñador de gráficos crea archivos SVGZ utilizando herramientas como Adobe Illustrator, Corel PaintShop Pro y otras. Sin embargo, los archivos SVGZ se pueden generar habilitando la compresión GZip en el servidor Apache mientras se envían los datos de la imagen.
 <br/>
 Hay las siguientes conversiones a bordo:
 {{% /blocks/products/pf/feature-page-section %}}

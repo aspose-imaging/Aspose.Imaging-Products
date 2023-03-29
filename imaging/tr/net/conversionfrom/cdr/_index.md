@@ -1,21 +1,21 @@
 ﻿---
-title: .NET Aracılığıyla CDR'ten diğer biçimlere dönüştürün 
+title: .NET görüntü API'sı aracılığıyla CDR(Vektör Çizim Görüntüsü) biçimini diğer biçimlere dönüştürün 
 weight: 3920
 url: /tr/net/conversion/from/cdr 
 lang: tr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging'i kullanarak CDR biçimini kolayca başka biçimlere dönüştürebilirsiniz
+description: Aspose.Imaging'i kullanarak CDR(Vektör Çizim Görüntüsü) biçimini kolayca başka biçimlere dönüştürebilirsiniz
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET Yoluyla CDR'den Görüntü Dosyaları Dönüştürme" h2="CDR biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET image API aracılığıyla CDR(Vektör Çizim Görüntüsü)'den Görüntü Dosyaları Dönüşümü" h2="Aspose.Imaging API kullanarak Vektör Çizim Görüntüsü formatını diğer formatlara dönüştürün" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="CDR'den dönüştürülecek desteklenen tüm resim biçimleri" %}}
-Aspose.Imaging, .NET platformunda CDR'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir.
+{{% blocks/products/pf/feature-page-section  h2="CDR(Vektör Çizim Görüntüsü) biçiminden dönüştürülecek desteklenen tüm resim biçimleri" %}}
+Aspose.Imaging, .NET platformunda CDR'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir. CDR dosyası, kodlanmış ve sıkıştırılmış dijital görüntüyü depolamak için CorelDRAW ile yerel olarak oluşturulan bir vektör çizim görüntü dosyasıdır. Böyle bir çizim dosyası, görüntü içeriğinin vektör temsili için metin, çizgiler, şekiller, görüntüler, renkler ve efektler içerir. CDR dosyaları birincil uygulama olarak CorelDRAW ile açılabilir ve ayrıca PDF, JPG, PNG, BMP ve AI gibi diğer biçimlere dönüştürülebilir. Broşürler, magazin dergileri, zarflar ve kartpostallar gibi çeşitli grafik verilerinin gösterimi için kullanılabilir. CorelDRAW'ın yanı sıra Corel Paintshop Pro ve CorelDRAW Graphics paketi gibi diğer Corel ürünleri de CDR dosya biçimlerini açabilir.
 <br/>
-Desteklenen dönüşümlerin tam listesi:
+CDR tarafından desteklenen dönüşümlerin tam listesi:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

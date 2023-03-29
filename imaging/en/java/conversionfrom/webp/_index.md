@@ -1,20 +1,20 @@
 ﻿---
-title: Convert from WEBP to other supported formats using Aspose.Imaging for Java 
+title: Convert from WEBP(Raster Web Image) to other supported formats using Aspose.Imaging for Java API 
 weight: 3920
 url: /java/conversion/from/webp 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging can easily convert from WEBP to other formats using Java platform
+description: Aspose.Imaging API can easily convert from WEBP(Raster Web Image) to other formats using Java platform
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert images from WEBP format using Aspose.Imaging for Java" h2="Convert from WEBP image format to other formats using Java platform" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert images from WEBP format using Aspose.Imaging for Java" h2="Convert from WEBP(Raster Web Image) image format to other formats using Java platform" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wide spectrum of image formats that can be converted from WEBP images using Aspose.Imaging for Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Wide spectrum of image formats that can be converted from WEBP(Raster Web Image) images using Aspose.Imaging for Java" %}}
 You can programmaticaly convert from WEBP format to other available formats using 
-Aspose.Imaging for Java.
+Aspose.Imaging for Java. WebP, introduced by Google, is a modern raster web image file format that is based on lossless and lossy compression. It provides same image quality while considerably reducing the image size. Since most of the web pages use images as effective representation of data, the use of WebP images in web pages results in faster loading of web pages. As per Google, WebP lossless images are 26% smaller in size compared to PNGs, while WebP lossy images are 25-34% smaller than comparable JPEG images. Images are compared based on the Structural Similarity (SSIM) index between WebP and other image file formats. WebP is a sister project of WebM multimedia container format.
 <br/>
 There are following conversions on board:
 {{% /blocks/products/pf/feature-page-section %}}

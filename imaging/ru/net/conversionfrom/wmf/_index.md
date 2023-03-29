@@ -1,21 +1,21 @@
 ﻿---
-title: Конвертировать из WMF в другие форматы с помощью .NET 
+title: Преобразование из WMF(Метафайл Microsoft Windows) в другие форматы с помощью API изображений .NET 
 weight: 3920
 url: /ru/net/conversion/from/wmf 
 lang: ru
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Используя Aspose.Imaging, вы можете легко конвертировать из WMF в другие форматы.
+description: Используя Aspose.Imaging, вы можете легко конвертировать из WMF(Метафайл Microsoft Windows) в другие форматы.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование файлов изображений из WMF с помощью .NET" h2="Конвертировать из WMF в другие форматы" downloadText="Скачать" >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование файлов изображений из WMF(Метафайл Microsoft Windows) через .NET API изображений" h2="Преобразование из Метафайл Microsoft Windows в другие форматы с помощью Aspose.Imaging API" downloadText="Скачать" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Все поддерживаемые форматы изображений для преобразования из WMF" %}}
-Aspose.Imaging позволяет автоматизировать множество преобразований из WMF в другие форматы на платформе .NET.
+{{% blocks/products/pf/feature-page-section  h2="Все поддерживаемые форматы изображений для преобразования из WMF(Метафайл Microsoft Windows)" %}}
+Aspose.Imaging позволяет автоматизировать множество преобразований из WMF в другие форматы на платформе .NET. Файлы с расширением WMF представляют собой метафайл Microsoft Windows (WMF) для хранения данных векторных и растровых изображений. Чтобы быть более точным, WMF принадлежит к категории форматов векторных файлов форматов графических файлов, которые не зависят от устройства. Интерфейс графических устройств Windows (GDI) использует функции, хранящиеся в файле WMF, для отображения изображения на экране. Более расширенная версия WMF, известная как Enhanced Meta Files (EMF), была опубликована позже, что делает формат более многофункциональным. Практически WMF похож на SVG.
 <br/>
-Полный список поддерживаемых преобразований:
+Полный список поддерживаемых преобразований из WMF:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

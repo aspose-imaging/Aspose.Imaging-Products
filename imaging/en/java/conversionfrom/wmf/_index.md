@@ -1,20 +1,20 @@
 ﻿---
-title: Convert from WMF to other supported formats using Aspose.Imaging for Java 
+title: Convert from WMF(Microsoft Windows Metafile) to other supported formats using Aspose.Imaging for Java API 
 weight: 3920
 url: /java/conversion/from/wmf 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging can easily convert from WMF to other formats using Java platform
+description: Aspose.Imaging API can easily convert from WMF(Microsoft Windows Metafile) to other formats using Java platform
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert images from WMF format using Aspose.Imaging for Java" h2="Convert from WMF image format to other formats using Java platform" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert images from WMF format using Aspose.Imaging for Java" h2="Convert from WMF(Microsoft Windows Metafile) image format to other formats using Java platform" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wide spectrum of image formats that can be converted from WMF images using Aspose.Imaging for Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Wide spectrum of image formats that can be converted from WMF(Microsoft Windows Metafile) images using Aspose.Imaging for Java" %}}
 You can programmaticaly convert from WMF format to other available formats using 
-Aspose.Imaging for Java.
+Aspose.Imaging for Java. Files with WMF extension represent Microsoft Windows Metafile (WMF) for storing vector as well as bitmap-format images data. To be more accurate, WMF belongs to the vector file format category of Graphics file formats that is device independent. Windows Graphical Device Interface (GDI) uses the functions stored in a WMF file to display an image on the screen. A more enhanced version of WMF, known as Enhanced Meta Files (EMF), was published later that makes the format more feature rich. Practically, WMF are similar to SVG.
 <br/>
 There are following conversions on board:
 {{% /blocks/products/pf/feature-page-section %}}

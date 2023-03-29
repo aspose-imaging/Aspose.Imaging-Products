@@ -1,20 +1,20 @@
 ﻿---
-title: Aspose.Imaging for Java を使用して、WMF から他のサポートされている形式に変換します。 
+title: Aspose.Imaging for Java API を使用して、WMF(MicrosoftWindowsメタファイル) から他のサポートされている形式に変換します。 
 weight: 3920
 url: /ja/java/conversion/from/wmf 
 lang: ja
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging は、Java プラットフォームを使用して WMF から他のフォーマットに簡単に変換できます
+description: Aspose.Imaging は、Java プラットフォームを使用して WMF(MicrosoftWindowsメタファイル) から他のフォーマットに簡単に変換できます
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java を使用して WMF フォーマットから画像を変換します" h2="Java プラットフォームを使用して、WMF 画像形式から他の形式に変換します" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java を使用して WMF フォーマットから画像を変換します" h2="Java プラットフォームを使用して、WMF(MicrosoftWindowsメタファイル) 画像形式から他の形式に変換します" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java を使用して WMF 画像から変換できる幅広い画像フォーマット" %}}
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java を使用して WMF(MicrosoftWindowsメタファイル) 画像から変換できる幅広い画像フォーマット" %}}
 次を使用して、WMF 形式から他の使用可能な形式にプログラムで変換できます。
-Aspose.Imaging for Java。
+Aspose.Imaging for Java。 WMF拡張子の付いたファイルは、ベクターおよびビットマップ形式の画像データを格納するためのMicrosoft Windowsメタファイル（WMF）を表します。より正確に言うと、WMFは、デバイスに依存しないグラフィックファイル形式のベクターファイル形式カテゴリに属しています。 Windowsグラフィックデバイスインターフェイス（GDI）は、WMFファイルに格納されている関数を使用して、画面に画像を表示します。拡張メタファイル（EMF）として知られるWMFのより拡張されたバージョンは、フォーマットをより豊富な機能にするために後で公開されました。実際には、WMFはSVGに似ています。
 <br/>
 機内では次の変換があります。
 {{% /blocks/products/pf/feature-page-section %}}

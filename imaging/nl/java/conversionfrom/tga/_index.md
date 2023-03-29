@@ -1,20 +1,20 @@
 ﻿---
-title: Converteer van TGA naar andere ondersteunde formaten met Aspose.Imaging voor Java 
+title: Converteer van TGA(Targa-afbeelding) naar andere ondersteunde formaten met Aspose.Imaging voor Java API 
 weight: 3920
 url: /nl/java/conversion/from/tga 
 lang: nl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging kan eenvoudig converteren van TGA naar andere formaten met behulp van het Java-platform
+description: Aspose.Imaging kan eenvoudig converteren van TGA(Targa-afbeelding) naar andere formaten met behulp van het Java-platform
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer afbeeldingen van TGA-indeling met Aspose.Imaging voor Java" h2="Converteer van TGA afbeeldingsformaat naar andere formaten met behulp van het Java-platform" downloadText="Downloaden" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer afbeeldingen van TGA-indeling met Aspose.Imaging voor Java" h2="Converteer van TGA(Targa-afbeelding) afbeeldingsformaat naar andere formaten met behulp van het Java-platform" downloadText="Downloaden" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Breed spectrum aan afbeeldingsindelingen die kunnen worden geconverteerd van TGA-afbeeldingen met Aspose.Imaging voor Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Breed spectrum aan afbeeldingsindelingen die kunnen worden geconverteerd van TGA(Targa-afbeelding)-afbeeldingen met Aspose.Imaging voor Java" %}}
 U kunt programmatisch converteren van het TGA-formaat naar andere beschikbare formaten met behulp van
-Aspose.Imaging voor Java.
+Aspose.Imaging voor Java. Truevision TGA, vaak TARGA genoemd, is een bestandsindeling voor rasterafbeeldingen die is gemaakt door Truevision Inc. (nu onderdeel van Avid Technology). Het was het oorspronkelijke formaat van TARGA- en VISTA-kaarten, de eerste grafische kaarten voor IBM-compatibele pc's die Highcolor/truecolor-weergave ondersteunen.
 <br/>
 Er zijn de volgende verbouwingen aan boord:
 {{% /blocks/products/pf/feature-page-section %}}

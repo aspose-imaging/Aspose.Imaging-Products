@@ -1,20 +1,20 @@
 ﻿---
-title: Convierta de ODG a otros formatos admitidos usando Aspose.Imaging para Java 
+title: Convierta de ODG(Formato de dibujo de Apache OpenOffice) a otros formatos admitidos usando Aspose.Imaging para Java API. 
 weight: 3920
 url: /es/java/conversion/from/odg 
 lang: es
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging puede convertir fácilmente de ODG a otros formatos usando la plataforma Java
+description: Aspose.Imaging puede convertir fácilmente de ODG(Formato de dibujo de Apache OpenOffice) a otros formatos usando la plataforma Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convierta imágenes del formato ODG usando Aspose.Imaging para Java" h2="Convierta del formato de imagen ODG a otros formatos utilizando la plataforma Java" downloadText="Descargar" >}}
+{{< blocks/products/pf/feature-page-header h1="Convierta imágenes del formato ODG usando Aspose.Imaging para Java" h2="Convierta del formato de imagen ODG(Formato de dibujo de Apache OpenOffice) a otros formatos utilizando la plataforma Java" downloadText="Descargar" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Amplio espectro de formatos de imagen que se pueden convertir a partir de imágenes ODG usando Aspose.Imaging para Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Amplio espectro de formatos de imagen que se pueden convertir a partir de imágenes ODG(Formato de dibujo de Apache OpenOffice) usando Aspose.Imaging para Java" %}}
 Puede convertir programáticamente del formato ODG a otros formatos disponibles usando
-Aspose. Imaging para Java.
+Aspose. Imaging para Java. El formato de archivo ODG es utilizado por la aplicación Draw de Apache OpenOffice para almacenar elementos de dibujo como una imagen vectorial. Sigue las especificaciones de formato de archivo basadas en XML descritas por Advancement of Structural Information Standards (OASIS). ODG representa dibujos como imágenes vectoriales utilizando puntos, líneas y curvas. Además de OpenOffice, LibreOffice y otras aplicaciones también brindan soporte para trabajar con el formato de archivo ODG. Otros formatos compatibles con OpenOffice, por ejemplo, incluyen ODT, ODF, ODP y ODS.
 <br/>
 Hay las siguientes conversiones a bordo:
 {{% /blocks/products/pf/feature-page-section %}}

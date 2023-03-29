@@ -1,21 +1,21 @@
 ﻿---
-title: .NET Aracılığıyla ICO'ten diğer biçimlere dönüştürün 
+title: .NET görüntü API'sı aracılığıyla ICO(Windows simgesi) biçimini diğer biçimlere dönüştürün 
 weight: 3920
 url: /tr/net/conversion/from/ico 
 lang: tr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging'i kullanarak ICO biçimini kolayca başka biçimlere dönüştürebilirsiniz
+description: Aspose.Imaging'i kullanarak ICO(Windows simgesi) biçimini kolayca başka biçimlere dönüştürebilirsiniz
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET Yoluyla ICO'den Görüntü Dosyaları Dönüştürme" h2="ICO biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET image API aracılığıyla ICO(Windows simgesi)'den Görüntü Dosyaları Dönüşümü" h2="Aspose.Imaging API kullanarak Windows simgesi formatını diğer formatlara dönüştürün" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="ICO'den dönüştürülecek desteklenen tüm resim biçimleri" %}}
-Aspose.Imaging, .NET platformunda ICO'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir.
+{{% blocks/products/pf/feature-page-section  h2="ICO(Windows simgesi) biçiminden dönüştürülecek desteklenen tüm resim biçimleri" %}}
+Aspose.Imaging, .NET platformunda ICO'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir. ICO dosya biçimi, Microsoft Windows'taki bilgisayar simgeleri için bir görüntü dosyası biçimidir. ICO dosyaları, uygun şekilde ölçeklendirilebilmeleri için birden fazla boyutta ve renk derinliğinde bir veya daha fazla küçük resim içerir. Windows'ta, masaüstünde, Başlat Menüsü'nde veya Windows Gezgini'nde kullanıcıya bir simge görüntüleyen tüm yürütülebilir dosyalar, simgeyi ICO biçiminde taşımalıdır.
 <br/>
-Desteklenen dönüşümlerin tam listesi:
+ICO tarafından desteklenen dönüşümlerin tam listesi:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

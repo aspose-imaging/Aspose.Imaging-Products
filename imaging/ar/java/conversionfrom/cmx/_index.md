@@ -1,20 +1,20 @@
 ﻿---
-title: قم بالتحويل من CMX إلى التنسيقات الأخرى المدعومة باستخدام Aspose.Imaging for Java 
+title: قم بالتحويل من CMX(كوريل تبادل الصورة) إلى التنسيقات الأخرى المدعومة باستخدام Aspose.Imaging for Java API 
 weight: 3920
 url: /ar/java/conversion/from/cmx 
 lang: ar
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging يمكن تحويله بسهولة من CMX إلى تنسيقات أخرى باستخدام Java platform
+description: Aspose.Imaging يمكن تحويله بسهولة من CMX(كوريل تبادل الصورة) إلى تنسيقات أخرى باستخدام Java platform
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل الصور من تنسيق CMX باستخدام Aspose.Imaging for Java" h2="تحويل من تنسيق صورة CMX إلى تنسيقات أخرى باستخدام نظام Java الأساسي" downloadText="تحميل" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل الصور من تنسيق CMX باستخدام Aspose.Imaging for Java" h2="تحويل من تنسيق صورة CMX(كوريل تبادل الصورة) إلى تنسيقات أخرى باستخدام نظام Java الأساسي" downloadText="تحميل" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="مجموعة واسعة من تنسيقات الصور التي يمكن تحويلها من صور CMX باستخدام Aspose.Imaging for Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="مجموعة واسعة من تنسيقات الصور التي يمكن تحويلها من صور CMX(كوريل تبادل الصورة) باستخدام Aspose.Imaging for Java" %}}
 يمكنك تحويل برمجيًا من تنسيق CMX إلى تنسيقات أخرى متاحة باستخدام
-Aspose.Imaging لجافا.
+Aspose.Imaging لجافا. الملفات ذات امتداد CMX هي تنسيق ملف صورة Corel Exchange يتم استخدامه كعرض تقديمي بواسطة تطبيقات CorelSuite. يحتوي على بيانات الصورة كرسومات متجهة بالإضافة إلى بيانات أولية تصف الصورة. يمكن فتح ملفات CMX بواسطة CorelDraw و Corel Presentations و Paint Shop Pro وبعض إصدارات Adobe Illustrator.
 <br/>
 هناك التحويلات التالية على متن الطائرة:
 {{% /blocks/products/pf/feature-page-section %}}

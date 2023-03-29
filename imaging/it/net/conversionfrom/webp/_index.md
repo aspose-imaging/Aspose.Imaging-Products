@@ -1,21 +1,21 @@
 ﻿---
-title: Converti da WEBP in altri formati tramite .NET 
+title: Conversione da WEBP(Immagine web raster) ad altri formati tramite API immagine .NET 
 weight: 3920
 url: /it/net/conversion/from/webp 
 lang: it
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging puoi facilmente convertire da WEBP ad altri formati
+description: Usando Aspose.Imaging puoi facilmente convertire da WEBP(Immagine web raster) ad altri formati
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversione di file immagine da WEBP tramite .NET" h2="Converti da WEBP in altri formati" downloadText="Scarica" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversione di file immagine da WEBP(Immagine web raster) tramite l'API immagine .NET" h2="Converti da Immagine web raster in altri formati utilizzando l'API Aspose.Imaging" downloadText="Scarica" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tutti i formati immagine supportati per la conversione da WEBP" %}}
-Aspose.Imaging consente di automatizzare molte conversioni da WEBP ad altri formati sulla piattaforma .NET.
+{{% blocks/products/pf/feature-page-section  h2="Tutti i formati immagine supportati per la conversione da WEBP(Immagine web raster)" %}}
+Aspose.Imaging consente di automatizzare molte conversioni da WEBP ad altri formati sulla piattaforma .NET. WebP, introdotto da Google, è un moderno formato di file di immagini web raster basato sulla compressione lossless e lossy. Fornisce la stessa qualità dell'immagine riducendo notevolmente le dimensioni dell'immagine. Poiché la maggior parte delle pagine Web utilizza le immagini come rappresentazione efficace dei dati, l'utilizzo di immagini WebP nelle pagine Web determina un caricamento più rapido delle pagine Web. Secondo Google, le immagini con perdita di dati WebP sono di dimensioni inferiori del 26% rispetto ai PNG, mentre le immagini con perdita di dati WebP sono più piccole del 25-34% rispetto alle immagini JPEG comparabili. Le immagini vengono confrontate in base all'indice di somiglianza strutturale (SSIM) tra WebP e altri formati di file immagine. WebP è un progetto gemello del formato contenitore multimediale WebM.
 <br/>
-Elenco completo delle conversioni supportate:
+Elenco completo delle conversioni supportate da WEBP:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

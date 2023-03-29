@@ -1,21 +1,21 @@
 ﻿---
-title: Převést z APNG do jiných formátů přes .NET 
+title: Převést z formátu APNG(Animovaná přenosná síťová grafika) do jiných formátů prostřednictvím rozhraní API pro obrázky .NET 
 weight: 3920
 url: /cs/net/conversion/from/apng 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Pomocí Aspose.Imaging můžete snadno převést z formátu APNG do jiných formátů
+description: Pomocí Aspose.Imaging můžete snadno převést z formátu APNG(Animovaná přenosná síťová grafika) do jiných formátů
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů z formátu APNG prostřednictvím .NET" h2="Převést z APNG do jiných formátů" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů z formátu APNG(Animovaná přenosná síťová grafika) prostřednictvím rozhraní API pro obrázky .NET" h2="Převeďte z Animovaná přenosná síťová grafika do jiných formátů pomocí Aspose.Imaging API" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu z formátu APNG" %}}
-Aspose.Imaging umožňuje automatizovat mnoho konverzí z APNG do jiných formátů na platformě .NET.
+{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu z formátu APNG (Animovaná přenosná síťová grafika)" %}}
+Aspose.Imaging umožňuje automatizovat mnoho konverzí z APNG do jiných formátů na platformě .NET. Soubor s příponou .apng (Animated Portable Network Graphics) je rastrový grafický formát a je neoficiálním rozšířením Portable Network Graphic (PNG). Skládá se z několika snímků (každý z obrázku PNG), které představují sekvenci animace. To poskytuje podobnou vizualizaci jako soubor GIF. Soubory APNG podporují 24bitové obrázky a 8bitovou průhlednost. APNG je zpětně kompatibilní s neanimovanými soubory GIF. Soubory APNG používají stejnou příponu .png a lze je otevřít aplikacemi, jako je Mozilla Firefox, Chrome s podporou APNG, aplikace iMessage pro iOS 10.
 <br/>
-Úplný seznam podporovaných konverzí:
+Úplný seznam podporovaných konverzí z APNG:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

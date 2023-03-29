@@ -1,21 +1,21 @@
 ﻿---
-title: Chuyển đổi từ EPS sang các định dạng khác Qua .NET 
+title: Chuyển đổi từ EPS(Ngôn ngữ PostScript được đóng gói) sang các định dạng khác Qua API hình ảnh .NET 
 weight: 3920
 url: /vi/net/conversion/from/eps 
 lang: vi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng chuyển đổi từ EPS sang các định dạng khác
+description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng chuyển đổi từ EPS(Ngôn ngữ PostScript được đóng gói) sang các định dạng khác
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Chuyển đổi tệp hình ảnh từ EPS qua .NET" h2="Chuyển đổi từ EPS sang định dạng khác" downloadText="Tải xuống" >}}
+{{< blocks/products/pf/feature-page-header h1="Chuyển đổi tệp hình ảnh từ EPS(Ngôn ngữ PostScript được đóng gói) qua API hình ảnh .NET" h2="Chuyển đổi từ Ngôn ngữ PostScript được đóng gói sang các định dạng khác bằng API Aspose.Imaging" downloadText="Tải xuống" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tất cả các định dạng hình ảnh được hỗ trợ để chuyển đổi từ EPS" %}}
-Aspose.Imaging cho phép tự động hóa rất nhiều chuyển đổi từ EPS sang các định dạng khác trên nền tảng .NET.
+{{% blocks/products/pf/feature-page-section  h2="Tất cả các định dạng hình ảnh được hỗ trợ để chuyển đổi từ EPS(Ngôn ngữ PostScript được đóng gói)" %}}
+Aspose.Imaging cho phép tự động hóa rất nhiều chuyển đổi từ EPS sang các định dạng khác trên nền tảng .NET. Các tệp có phần mở rộng EPS về cơ bản mô tả một chương trình ngôn ngữ PostScript được đóng gói mô tả sự xuất hiện của một trang duy nhất. Tên "Encapsulated" vì nó có thể được bao gồm hoặc đóng gói trong mô tả trang ngôn ngữ PostScript khác. Định dạng tệp dựa trên tập lệnh này có thể chứa bất kỳ sự kết hợp nào của văn bản, đồ họa và hình ảnh. Các tệp EPS có thể bao gồm một hình ảnh xem trước bitmap được đóng gói bên trong để hiển thị bởi các ứng dụng có thể mở các tệp như vậy. Các tệp EPS có thể được chuyển đổi sang các định dạng hình ảnh tiêu chuẩn như JPG, PNG, TIFF và PDF bằng các ứng dụng khác nhau, ví dụ: Adobe Illustrator, Photoshop và PaintShop Pro. Do lỗ hổng bảo mật trong tệp EPS, Office 2016, Office 2013, Office 2010 và Office 365 đã tắt khả năng chèn tệp EPS vào tài liệu Office.
 <br/>
-Danh sách đầy đủ các chuyển đổi được hỗ trợ:
+Danh sách đầy đủ các chuyển đổi được hỗ trợ từ EPS:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

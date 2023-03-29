@@ -1,21 +1,21 @@
 ﻿---
-title: Convertir de SVG vers d'autres formats via .NET 
+title: Convierta de SVG(gráficas vectoriales escalables) a otros formatos a través de la API de imágenes .NET 
 weight: 3920
 url: /es/net/conversion/from/svg 
 lang: es
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging puede convertir fácilmente de SVG a otros formatos
+description: Usando Aspose.Imaging puede convertir fácilmente de SVG(gráficas vectoriales escalables) a otros formatos
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversión de archivos de imagen de SVG a través de .NET" h2="Convertir de SVG a otros formatos" downloadText="Descargar" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversión de archivos de imagen de SVG(gráficas vectoriales escalables) a través de la API de imagen .NET" h2="Convierta de gráficas vectoriales escalables a otros formatos usando Aspose.Imaging API" downloadText="Descargar" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos los formatos de imagen admitidos para convertir desde SVG" %}}
-Aspose.Imaging permite automatizar muchas conversiones de SVG a otros formatos en la plataforma .NET.
+{{% blocks/products/pf/feature-page-section  h2="Todos los formatos de imagen admitidos para convertir desde SVG(gráficas vectoriales escalables)" %}}
+Aspose.Imaging permite automatizar muchas conversiones de SVG a otros formatos en la plataforma .NET. Los archivos SVG son archivos de gráficos vectoriales escalables que utilizan un formato de texto basado en XML para describir la apariencia de la imagen. La palabra escalable se refiere al hecho de que el SVG se puede escalar a diferentes tamaños sin perder calidad. La descripción basada en texto de dichos archivos los hace independientes de la resolución. Es uno de los formatos más utilizados para crear sitios web e imprimir gráficos para lograr escalabilidad. Sin embargo, el formato solo se puede usar para gráficos bidimensionales. Los archivos SVG se pueden ver/abrir en casi todos los navegadores modernos, incluidos Chrome, Internet Explorer, Firefox y Safari.
 <br/>
-Lista completa de conversiones admitidas:
+Lista completa de conversiones admitidas de SVG:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

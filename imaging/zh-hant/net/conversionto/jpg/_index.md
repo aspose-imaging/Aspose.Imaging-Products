@@ -1,19 +1,19 @@
 ﻿---
-title: 使用 .NET 平台將圖像從其他支持的格式轉換為 JPG 圖像格式 
+title: 使用 .NET 平台將圖像從其他支持的格式轉換為 JPG(聯合攝影專家組) 圖像格式 
 weight: 3920
 url: /zh-hant/net/conversion/to/jpg 
 lang: zh-hant
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: 使用 Aspose.Imaging for .NET 庫可以輕鬆地將其他支持的圖像格式轉換為 JPG
+description: 使用 Aspose.Imaging for .NET 庫可以輕鬆地將其他支持的圖像格式轉換為 JPG(聯合攝影專家組)
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="使用 .NET 平台將圖像文件轉換為 JPG 圖像格式" h2="使用 Aspose.Imaging for .NET 庫從其他格式轉換為 JPG 格式" downloadText="下載" >}}
+{{< blocks/products/pf/feature-page-header h1="使用 .NET 平台將圖像文件轉換為 JPG(聯合攝影專家組) 圖像格式" h2="使用 Aspose.Imaging for .NET 庫從其他格式轉換為 聯合攝影專家組 格式" downloadText="下載" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="所有支持使用 Aspose.Imaging for .NET 庫轉換為 JPG 格式" %}}
-使用 Aspose.Imaging 庫，您可以以編程方式將各種圖像格式轉換為 JPG 圖像。
+{{% blocks/products/pf/feature-page-section  h2="所有支持使用 Aspose.Imaging for .NET 庫轉換為 JPG(聯合攝影專家組) 格式" %}}
+使用 Aspose.Imaging 庫，您可以以編程方式將各種圖像格式轉換為 JPG 圖像。 JPEG 是一種使用有損壓縮方法保存的圖像格式。作為壓縮的結果，輸出圖像是存儲大小和圖像質量之間的權衡。用戶可以調整壓縮級別以達到所需的質量級別，同時減小存儲大小。如果對圖像應用 10:1 壓縮，則對圖像質量的影響可以忽略不計。壓縮值越高，圖像質量的劣化程度越高。
 <br/>
 支持以下轉換：
 {{% /blocks/products/pf/feature-page-section %}}

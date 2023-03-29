@@ -1,20 +1,20 @@
 ﻿---
-title: Konvertieren Sie mit Aspose.Imaging für Java von TGA in andere unterstützte Formate 
+title: Konvertieren Sie mit Aspose.Imaging für Java von TGA(Targa-Grafik) in andere unterstützte Formate API 
 weight: 3920
 url: /de/java/conversion/from/tga 
 lang: de
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging kann mithilfe der Java-Plattform problemlos von TGA in andere Formate konvertieren
+description: Aspose.Imaging kann mithilfe der Java-Plattform problemlos von TGA(Targa-Grafik) in andere Formate konvertieren
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie Bilder aus dem TGA-Format mit Aspose.Imaging für Java" h2="Konvertieren Sie das Bildformat TGA mithilfe der Java-Plattform in andere Formate" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie Bilder aus dem TGA-Format mit Aspose.Imaging für Java" h2="Konvertieren Sie das Bildformat TGA(Targa-Grafik) mithilfe der Java-Plattform in andere Formate" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Breites Spektrum an Bildformaten, die mit Aspose.Imaging für Java aus TGA-Bildern konvertiert werden können" %}}
+{{% blocks/products/pf/feature-page-section  h2="Breites Spektrum an Bildformaten, die mit Aspose.Imaging für Java aus TGA(Targa-Grafik)-Bildern konvertiert werden können" %}}
 Sie können das TGA-Format programmgesteuert in andere verfügbare Formate konvertieren, indem Sie verwenden
-Aspose.Imaging für Java.
+Aspose.Imaging für Java. Truevision TGA, oft auch als TARGA bezeichnet, ist ein Rastergrafik-Dateiformat, das von Truevision Inc. (jetzt Teil von Avid Technology) entwickelt wurde. Es war das native Format von TARGA- und VISTA-Karten, die die ersten Grafikkarten für IBM-kompatible PCs waren, die Highcolor/Truecolor-Anzeigen unterstützten.
 <br/>
 Folgende Umbauten sind an Bord:
 {{% /blocks/products/pf/feature-page-section %}}

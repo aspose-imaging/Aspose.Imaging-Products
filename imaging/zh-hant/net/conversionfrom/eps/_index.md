@@ -1,21 +1,21 @@
 ﻿---
-title: 通過 .NET 從 EPS 轉換為其他格式 
+title: 通過 .NET 圖像 API 從 EPS(封裝的 PostScript 語言) 轉換為其他格式 
 weight: 3920
 url: /zh-hant/net/conversion/from/eps 
 lang: zh-hant
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: 使用 Aspose.Imaging，您可以輕鬆地將 EPS 轉換為其他格式
+description: 使用 Aspose.Imaging，您可以輕鬆地將 EPS(封裝的 PostScript 語言) 轉換為其他格式
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="通過 .NET 從 EPS 轉換圖像文件" h2="從 EPS 轉換為其他格式" downloadText="下載" >}}
+{{< blocks/products/pf/feature-page-header h1="通過 .NET 圖像 API 從 EPS(封裝的 PostScript 語言) 轉換圖像文件" h2="使用 Aspose.Imaging API 從 封裝的 PostScript 語言 轉換為其他格式" downloadText="下載" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="要從 EPS 轉換的所有支持的圖像格式" %}}
-Aspose.Imaging 允許在 .NET 平台上自動進行從 EPS 到其他格式的大量轉換。
+{{% blocks/products/pf/feature-page-section  h2="從 EPS(封裝的 PostScript 語言) 轉換的所有支持的圖像格式" %}}
+Aspose.Imaging 允許在 .NET 平台上自動進行從 EPS 到其他格式的大量轉換。 帶有 EPS 擴展名的文件本質上描述了一個封裝的 PostScript 語言程序，該程序描述了單個頁面的外觀。名稱“封裝”是因為它可以包含或封裝在另一種 PostScript 語言頁面描述中。這種基於腳本的文件格式可能包含文本、圖形和圖像的任意組合。 EPS 文件可能包含封裝在內部的位圖預覽圖像，以供可以打開此類文件的應用程序顯示。可以使用不同的應用程序將 EPS 文件轉換為標準圖像格式，例如 JPG、PNG、TIFF 和 PDF。 Adobe Illustrator、Photoshop 和 PaintShop Pro。由於 EPS 文件中存在安全漏洞，Office 2016、Office 2013、Office 2010 和 Office 365 已關閉將 EPS 文件插入 Office 文檔的功能。
 <br/>
-支持的轉換的完整列表：
+EPS 支持的轉換的完整列表：
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

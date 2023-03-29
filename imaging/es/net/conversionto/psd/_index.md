@@ -1,19 +1,19 @@
 ﻿---
-title: Convierta imágenes al formato de imagen PSD desde otros formatos compatibles utilizando la plataforma .NET 
+title: Convierta imágenes al formato de imagen PSD(Documento de Photoshop) desde otros formatos compatibles utilizando la plataforma .NET 
 weight: 3920
 url: /es/net/conversion/to/psd 
 lang: es
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging para la biblioteca .NET, es fácil convertir a PSD desde otros formatos de imagen compatibles
+description: Usando Aspose.Imaging para la biblioteca .NET, es fácil convertir a PSD(Documento de Photoshop) desde otros formatos de imagen compatibles
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convierta archivos de imagen a formato de imagen PSD utilizando la plataforma .NET" h2="Convierta al formato PSD desde otros formatos usando Aspose.Imaging para la biblioteca .NET" downloadText="Descargar" >}}
+{{< blocks/products/pf/feature-page-header h1="Convierta archivos de imagen a formato de imagen PSD(Documento de Photoshop) utilizando la plataforma .NET" h2="Convierta al formato Documento de Photoshop desde otros formatos usando Aspose.Imaging para la biblioteca .NET" downloadText="Descargar" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todas las conversiones admitidas al formato PSD usando Aspose.Imaging para la biblioteca .NET" %}}
-Con la biblioteca Aspose.Imaging, puede convertir mediante programación varios formatos de imagen a la imagen PSD.
+{{% blocks/products/pf/feature-page-section  h2="Todas las conversiones admitidas al formato PSD(Documento de Photoshop) usando Aspose.Imaging para la biblioteca .NET" %}}
+Con la biblioteca Aspose.Imaging, puede convertir mediante programación varios formatos de imagen a la imagen PSD. PSD, documento de Photoshop, representa el formato de archivo nativo de Adobe Photoshop utilizado para el diseño y desarrollo de gráficos. Los archivos PSD pueden incluir capas de imagen, capas de ajuste, máscaras de capa, anotaciones, información de archivo, palabras clave y otros elementos específicos de Photoshop.
 <br/>
 Se admiten las siguientes conversiones:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,20 +1,20 @@
 ﻿---
-title: Aspose.Imaging for Java を使用して、J2K から他のサポートされている形式に変換します。 
+title: Aspose.Imaging for Java API を使用して、J2K(ウェーブレット圧縮画像) から他のサポートされている形式に変換します。 
 weight: 3920
 url: /ja/java/conversion/from/j2k 
 lang: ja
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging は、Java プラットフォームを使用して J2K から他のフォーマットに簡単に変換できます
+description: Aspose.Imaging は、Java プラットフォームを使用して J2K(ウェーブレット圧縮画像) から他のフォーマットに簡単に変換できます
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java を使用して J2K フォーマットから画像を変換します" h2="Java プラットフォームを使用して、J2K 画像形式から他の形式に変換します" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java を使用して J2K フォーマットから画像を変換します" h2="Java プラットフォームを使用して、J2K(ウェーブレット圧縮画像) 画像形式から他の形式に変換します" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java を使用して J2K 画像から変換できる幅広い画像フォーマット" %}}
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java を使用して J2K(ウェーブレット圧縮画像) 画像から変換できる幅広い画像フォーマット" %}}
 次を使用して、J2K 形式から他の使用可能な形式にプログラムで変換できます。
-Aspose.Imaging for Java。
+Aspose.Imaging for Java。 J2Kファイルは、DCT圧縮の代わりにウェーブレット圧縮を使用して圧縮された画像です。
 <br/>
 機内では次の変換があります。
 {{% /blocks/products/pf/feature-page-section %}}

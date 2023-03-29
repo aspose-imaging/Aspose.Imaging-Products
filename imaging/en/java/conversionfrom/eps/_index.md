@@ -1,20 +1,20 @@
 ﻿---
-title: Convert from EPS to other supported formats using Aspose.Imaging for Java 
+title: Convert from EPS(Encapsulated PostScript Language) to other supported formats using Aspose.Imaging for Java API 
 weight: 3920
 url: /java/conversion/from/eps 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging can easily convert from EPS to other formats using Java platform
+description: Aspose.Imaging API can easily convert from EPS(Encapsulated PostScript Language) to other formats using Java platform
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert images from EPS format using Aspose.Imaging for Java" h2="Convert from EPS image format to other formats using Java platform" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert images from EPS format using Aspose.Imaging for Java" h2="Convert from EPS(Encapsulated PostScript Language) image format to other formats using Java platform" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wide spectrum of image formats that can be converted from EPS images using Aspose.Imaging for Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Wide spectrum of image formats that can be converted from EPS(Encapsulated PostScript Language) images using Aspose.Imaging for Java" %}}
 You can programmaticaly convert from EPS format to other available formats using 
-Aspose.Imaging for Java.
+Aspose.Imaging for Java. FIles with EPS extension essentially describe an Encapsulated PostScript language program that describes the appearance of a single page. The name "Encapsulated" because it can be included or encapsulated in another PostScript language page description. This script based file format may contain any combination of text, graphics and images. EPS files may include a bitmap preview image encapsulated inside for display by applications that can open such files. EPS files can be converted to standard image formats such as JPG, PNG, TIFF and PDF using different applications e.g. Adobe Illustrator, Photoshop and PaintShop Pro. Because of a security vulnerability in EPS files, Office 2016, Office 2013, Office 2010, and Office 365 have turned off the ability to insert EPS files into Office documents.
 <br/>
 There are following conversions on board:
 {{% /blocks/products/pf/feature-page-section %}}

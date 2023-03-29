@@ -1,20 +1,20 @@
 ﻿---
-title: Převeďte z CDR do jiných podporovaných formátů pomocí Aspose.Imaging for Java 
+title: Převeďte z CDR(Vektorové Kreslení Obrázek) do jiných podporovaných formátů pomocí Aspose.Imaging for Java API 
 weight: 3920
 url: /cs/java/conversion/from/cdr 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging lze snadno převést z formátu CDR do jiných formátů pomocí platformy Java
+description: Aspose.Imaging lze snadno převést z formátu CDR(Vektorové Kreslení Obrázek) do jiných formátů pomocí platformy Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převeďte obrázky z formátu CDR pomocí Aspose.Imaging for Java" h2="Převeďte z formátu obrázku CDR do jiných formátů pomocí platformy Java" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Převeďte obrázky z formátu CDR pomocí Aspose.Imaging for Java" h2="Převeďte z formátu obrázku CDR(Vektorové Kreslení Obrázek) do jiných formátů pomocí platformy Java" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Široké spektrum obrazových formátů, které lze převést z obrázků CDR pomocí Aspose.Imaging for Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Široké spektrum obrazových formátů, které lze převést z obrázků CDR(Vektorové Kreslení Obrázek) pomocí Aspose.Imaging for Java" %}}
 Můžete programově převádět z formátu CDR do jiných dostupných formátů pomocí
-Aspose.Imaging pro Javu.
+Aspose.Imaging pro Javu. Soubor CDR je soubor s obrázkem vektorové kresby, který je nativně vytvořen pomocí aplikace CorelDRAW pro ukládání kódovaných a komprimovaných digitálních obrázků. Takový výkresový soubor obsahuje text, čáry, tvary, obrázky, barvy a efekty pro vektorovou reprezentaci obsahu obrázku. Soubory CDR lze otevřít pomocí CorelDRAW jako primární aplikace a lze je také převést do jiných formátů, jako jsou PDF, JPG, PNG, BMP a AI. Lze jej použít pro reprezentaci různých grafických dat, jako jsou brožury, bulvární tiskoviny, obálky a pohlednice. Kromě aplikace CorelDRAW mohou formáty souborů CDR otevřít také další produkty Corel, jako je Corel Paintshop Pro a CorelDRAW Graphics Suite.
 <br/>
 Na palubě jsou následující konverze:
 {{% /blocks/products/pf/feature-page-section %}}

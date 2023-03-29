@@ -1,20 +1,20 @@
 ﻿---
-title: Перетворюйте з PNG в інші підтримувані формати за допомогою Aspose.Imaging для Java 
+title: Перетворюйте з PNG(Портативна мережева графіка) в інші підтримувані формати за допомогою Aspose.Imaging for Java API 
 weight: 3920
 url: /uk/java/conversion/from/png 
 lang: uk
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging може легко конвертувати з PNG в інші формати за допомогою платформи Java
+description: Aspose.Imaging може легко конвертувати з PNG(Портативна мережева графіка) в інші формати за допомогою платформи Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Перетворіть зображення з формату PNG за допомогою Aspose.Imaging for Java" h2="Перетворіть формат зображення PNG в інші формати за допомогою платформи Java" downloadText="Завантажити" >}}
+{{< blocks/products/pf/feature-page-header h1="Перетворіть зображення з формату PNG за допомогою Aspose.Imaging for Java" h2="Перетворіть формат зображення PNG(Портативна мережева графіка) в інші формати за допомогою платформи Java" downloadText="Завантажити" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Спектр форматів зображень, які можна конвертувати з PNG зображень за допомогою Aspose.Imaging for Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Спектр форматів зображень, які можна конвертувати з PNG(Портативна мережева графіка) зображень за допомогою Aspose.Imaging for Java" %}}
 Ви можете програмно конвертувати формат PNG в інші доступні формати за допомогою
-Aspose.Imaging for Java.
+Aspose.Imaging for Java. PNG, Portable Network Graphics, відноситься до типу формату растрового зображення, який використовує стиснення без втрат. Цей формат файлу було створено як заміну формату Graphics Interchange Format (GIF) і не має обмежень щодо авторських прав. Однак формат файлу PNG не підтримує анімацію. Формат файлу PNG підтримує стиснення зображень без втрат, що робить його популярним серед користувачів. З плином часу PNG перетворився на один із найбільш використовуваних форматів файлів зображень. Майже всі операційні системи підтримують відкриття файлів PNG. Наприклад, засіб перегляду Microsoft Windows має можливість відкривати файли PNG, оскільки ОС за замовчуванням підтримує підтримку, доступну як частину встановлення.
 <br/>
 Наведено такі перетворення:
 {{% /blocks/products/pf/feature-page-section %}}

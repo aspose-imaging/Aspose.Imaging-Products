@@ -1,20 +1,20 @@
 ﻿---
-title: Converteer van OTG naar andere ondersteunde formaten met Aspose.Imaging voor Java 
+title: Converteer van OTG(OpenDocument-standaard) naar andere ondersteunde formaten met Aspose.Imaging voor Java API 
 weight: 3920
 url: /nl/java/conversion/from/otg 
 lang: nl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging kan eenvoudig converteren van OTG naar andere formaten met behulp van het Java-platform
+description: Aspose.Imaging kan eenvoudig converteren van OTG(OpenDocument-standaard) naar andere formaten met behulp van het Java-platform
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer afbeeldingen van OTG-indeling met Aspose.Imaging voor Java" h2="Converteer van OTG afbeeldingsformaat naar andere formaten met behulp van het Java-platform" downloadText="Downloaden" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer afbeeldingen van OTG-indeling met Aspose.Imaging voor Java" h2="Converteer van OTG(OpenDocument-standaard) afbeeldingsformaat naar andere formaten met behulp van het Java-platform" downloadText="Downloaden" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Breed spectrum aan afbeeldingsindelingen die kunnen worden geconverteerd van OTG-afbeeldingen met Aspose.Imaging voor Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Breed spectrum aan afbeeldingsindelingen die kunnen worden geconverteerd van OTG(OpenDocument-standaard)-afbeeldingen met Aspose.Imaging voor Java" %}}
 U kunt programmatisch converteren van het OTG-formaat naar andere beschikbare formaten met behulp van
-Aspose.Imaging voor Java.
+Aspose.Imaging voor Java. Een OTG-bestand is een tekeningsjabloon die is gemaakt met behulp van de OpenDocument-standaard die de OASIS Office Applications 1.0-specificatie volgt. Het vertegenwoordigt de standaardorganisatie van tekenelementen voor een vectorafbeelding die kan worden gebruikt om de inhoud van het bestand verder te verbeteren.
 <br/>
 Er zijn de volgende verbouwingen aan boord:
 {{% /blocks/products/pf/feature-page-section %}}

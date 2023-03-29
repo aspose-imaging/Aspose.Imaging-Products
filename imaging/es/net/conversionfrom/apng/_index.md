@@ -1,21 +1,21 @@
 ﻿---
-title: Convertir de APNG vers d'autres formats via .NET 
+title: Convierta de APNG(Gráficos de red portátiles animados) a otros formatos a través de la API de imágenes .NET 
 weight: 3920
 url: /es/net/conversion/from/apng 
 lang: es
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging puede convertir fácilmente de APNG a otros formatos
+description: Usando Aspose.Imaging puede convertir fácilmente de APNG(Gráficos de red portátiles animados) a otros formatos
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversión de archivos de imagen de APNG a través de .NET" h2="Convertir de APNG a otros formatos" downloadText="Descargar" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversión de archivos de imagen de APNG(Gráficos de red portátiles animados) a través de la API de imagen .NET" h2="Convierta de Gráficos de red portátiles animados a otros formatos usando Aspose.Imaging API" downloadText="Descargar" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos los formatos de imagen admitidos para convertir desde APNG" %}}
-Aspose.Imaging permite automatizar muchas conversiones de APNG a otros formatos en la plataforma .NET.
+{{% blocks/products/pf/feature-page-section  h2="Todos los formatos de imagen admitidos para convertir desde APNG(Gráficos de red portátiles animados)" %}}
+Aspose.Imaging permite automatizar muchas conversiones de APNG a otros formatos en la plataforma .NET. Un archivo con la extensión .apng (Animated Portable Network Graphics) es un formato gráfico de trama y es una extensión no oficial de Portable Network Graphic (PNG). Se compone de múltiples fotogramas (cada uno de imagen PNG) que representa una secuencia de animación. Esto proporciona una visualización similar a la de un archivo GIF. Los archivos APNG admiten imágenes de 24 bits y transparencia de 8 bits. APNG es compatible con versiones anteriores de archivos GIF no animados. Los archivos APNG usan la misma extensión .png y pueden abrirse con aplicaciones como Mozilla Firefox, Chrome con compatibilidad con APNG, aplicaciones de iMessage para iOS 10.
 <br/>
-Lista completa de conversiones admitidas:
+Lista completa de conversiones admitidas de APNG:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

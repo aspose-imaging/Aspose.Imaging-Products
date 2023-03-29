@@ -1,20 +1,20 @@
 ﻿---
-title: Перетворюйте з WEBP в інші підтримувані формати за допомогою Aspose.Imaging для Java 
+title: Перетворюйте з WEBP(Растрове веб-зображення) в інші підтримувані формати за допомогою Aspose.Imaging for Java API 
 weight: 3920
 url: /uk/java/conversion/from/webp 
 lang: uk
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging може легко конвертувати з WEBP в інші формати за допомогою платформи Java
+description: Aspose.Imaging може легко конвертувати з WEBP(Растрове веб-зображення) в інші формати за допомогою платформи Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Перетворіть зображення з формату WEBP за допомогою Aspose.Imaging for Java" h2="Перетворіть формат зображення WEBP в інші формати за допомогою платформи Java" downloadText="Завантажити" >}}
+{{< blocks/products/pf/feature-page-header h1="Перетворіть зображення з формату WEBP за допомогою Aspose.Imaging for Java" h2="Перетворіть формат зображення WEBP(Растрове веб-зображення) в інші формати за допомогою платформи Java" downloadText="Завантажити" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Спектр форматів зображень, які можна конвертувати з WEBP зображень за допомогою Aspose.Imaging for Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Спектр форматів зображень, які можна конвертувати з WEBP(Растрове веб-зображення) зображень за допомогою Aspose.Imaging for Java" %}}
 Ви можете програмно конвертувати формат WEBP в інші доступні формати за допомогою
-Aspose.Imaging for Java.
+Aspose.Imaging for Java. WebP, представлений компанією Google, — це сучасний растровий формат файлів веб-зображень, який базується на стисненні без втрат і з втратами. Він забезпечує таку саму якість зображення при значному зменшенні розміру зображення. Оскільки більшість веб-сторінок використовують зображення як ефективне представлення даних, використання зображень WebP на веб-сторінках призводить до швидшого завантаження веб-сторінок. За даними Google, зображення WebP без втрат на 26% менші за розмір порівняно з PNG, а зображення WebP із втратами на 25-34% менші за порівняльні зображення JPEG. Зображення порівнюються на основі індексу структурної подібності (SSIM) між WebP та іншими форматами файлів зображень. WebP є дочірнім проектом формату мультимедійного контейнера WebM.
 <br/>
 Наведено такі перетворення:
 {{% /blocks/products/pf/feature-page-section %}}

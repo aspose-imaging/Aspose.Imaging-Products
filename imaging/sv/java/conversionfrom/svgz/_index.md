@@ -1,20 +1,20 @@
 ﻿---
-title: Konvertera från SVGZ till andra format som stöds med Aspose.Imaging för Java 
+title: Konvertera från SVGZ(Komprimerad version av Scalable Vector Graphics-fil (.SVG).) till andra format som stöds med Aspose.Imaging för Java API 
 weight: 3920
 url: /sv/java/conversion/from/svgz 
 lang: sv
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging kan enkelt konvertera från SVGZ till andra format med hjälp av Java-plattformen
+description: Aspose.Imaging kan enkelt konvertera från SVGZ(Komprimerad version av Scalable Vector Graphics-fil (.SVG).) till andra format med hjälp av Java-plattformen
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertera bilder från formatet SVGZ med Aspose.Imaging för Java" h2="Konvertera från SVGZ bildformat till andra format med Java-plattformen" downloadText="Ladda ner" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertera bilder från formatet SVGZ med Aspose.Imaging för Java" h2="Konvertera från SVGZ(Komprimerad version av Scalable Vector Graphics-fil (.SVG).) bildformat till andra format med Java-plattformen" downloadText="Ladda ner" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Brett spektrum av bildformat som kan konverteras från SVGZ-bilder med Aspose.Imaging för Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Brett spektrum av bildformat som kan konverteras från SVGZ(Komprimerad version av Scalable Vector Graphics-fil (.SVG).)-bilder med Aspose.Imaging för Java" %}}
 Du kan programmatiskt konvertera från formatet SVGZ till andra tillgängliga format med hjälp av
-Aspose.Imaging för Java.
+Aspose.Imaging för Java. En fil med filtillägget .svgz är en komprimerad version av filen Scalable Vector Graphics (.SVG). Den är komprimerad med gzip-komprimering och innehåller data i XML-format. SVGZ-filer stöder transparens, gradienter, animationer och filter. SVGZ-filer är mindre i storlek jämfört med standard SVG-filer och denna reducerade filstorlek hjälper till att överföra grafikfilerna online. Grafikdesigner skapar SVGZ-filer med hjälp av verktyg som Adobe Illustrator, Corel PaintShop Pro och andra. SVGZ-filer kan dock genereras genom att aktivera GZip-komprimering i Apache-servern medan bilddata skickas ut.
 <br/>
 Det finns följande konverteringar ombord:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,19 +1,19 @@
 ﻿---
-title: Konvertuokite vaizdus į WMZ vaizdo formatą iš kitų palaikomų formatų naudodami .NET platformą 
+title: Konvertuokite vaizdus į WMZ(Suspausta Windows Media Player oda) vaizdo formatą iš kitų palaikomų formatų naudodami .NET platformą 
 weight: 3920
 url: /lt/net/conversion/to/wmz 
 lang: lt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Naudojant Aspose.Imaging, skirta .NET bibliotekai, lengva konvertuoti į WMZ iš kitų palaikomų vaizdo formatų
+description: Naudojant Aspose.Imaging, skirta .NET bibliotekai, lengva konvertuoti į WMZ(Suspausta Windows Media Player oda) iš kitų palaikomų vaizdo formatų
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertuokite vaizdo failus į WMZ vaizdo formatą naudodami .NET platformą" h2="Konvertuokite į WMZ formatą iš kitų formatų naudodami Aspose.Imaging, skirtą .NET bibliotekai" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertuokite vaizdo failus į WMZ(Suspausta Windows Media Player oda) vaizdo formatą naudodami .NET platformą" h2="Konvertuokite į Suspausta Windows Media Player oda formatą iš kitų formatų naudodami Aspose.Imaging, skirtą .NET bibliotekai" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visos palaikomos konversijos į WMZ formatą naudojant Aspose.Imaging for .NET biblioteką" %}}
-Naudodami Aspose.Imaging biblioteką galite programiškai konvertuoti įvairius vaizdo formatus į WMZ vaizdą.
+{{% blocks/products/pf/feature-page-section  h2="Visos palaikomos konversijos į WMZ(Suspausta Windows Media Player oda) formatą naudojant Aspose.Imaging for .NET biblioteką" %}}
+Naudodami Aspose.Imaging biblioteką galite programiškai konvertuoti įvairius vaizdo formatus į WMZ vaizdą. WMZ yra „Windows Media Player“ / „Windows Media Player“ naudojamo odos failo formato failo plėtinys. WMZ failas iš esmės yra suglaudintas WMF failas XML formatu.
 <br/>
 Palaikomos šios konversijos:
 {{% /blocks/products/pf/feature-page-section %}}

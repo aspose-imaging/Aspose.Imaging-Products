@@ -1,19 +1,19 @@
 ﻿---
-title: Convert images to TIFF image format from other supported formats using .NET platform 
+title: Convert images to TIFF(Tagged Image Format) image format from other supported formats using .NET platform 
 weight: 3920
 url: /net/conversion/to/tiff 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Using Aspose.Imaging for .NET library it is easy to convert to TIFF from other supported image formats
+description: Using Aspose.Imaging for .NET library it is easy to convert to TIFF(Tagged Image Format) from other supported image formats
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert Image Files to TIFF image format using .NET platform" h2="Convert to TIFF format from other formats using Aspose.Imaging for .NET library" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert Image Files to TIFF(Tagged Image Format) image format using .NET platform" h2="Convert to Tagged Image Format format from other formats using Aspose.Imaging for .NET library" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="All supported conversions to TIFF format using Aspose.Imaging for .NET library" %}}
-Using Aspose.Imaging library you can programmatically convert various image formats to TIFF image.
+{{% blocks/products/pf/feature-page-section  h2="All supported conversions to TIFF(Tagged Image Format) format using Aspose.Imaging for .NET library" %}}
+Using Aspose.Imaging library you can programmatically convert various image formats to TIFF image. TIFF or TIF, Tagged Image File Format, represents raster images that are meant for usage on a variety of devices that comply with this file format standard. It is capable of describing bilevel, grayscale, palette-color and full-color image data in several color spaces. It supports lossy as well as lossless compression schemes to choose between space and time for applications using the format. The format is extensible and has underwent several revisions that allows the inclusion of an unlimited amount of private or special-purpose information. The format is not machine dependent and is free from bounds like processor, operating system, or file systems.
 <br/>
 Following conversions are supported :
 {{% /blocks/products/pf/feature-page-section %}}

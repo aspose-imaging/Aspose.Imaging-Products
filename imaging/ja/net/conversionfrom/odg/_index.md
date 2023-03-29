@@ -1,21 +1,21 @@
 ﻿---
-title: .NET 経由で ODG から他の形式に変換します 
+title: .NET 画像 API を介して ODG(ApacheOpenOfficeDrawフォーマット) から他の形式に変換する 
 weight: 3920
 url: /ja/net/conversion/from/odg 
 lang: ja
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging を使用すると、ODG から別のフォーマットに簡単に変換できます
+description: Aspose.Imaging を使用すると、ODG(ApacheOpenOfficeDrawフォーマット) から別のフォーマットに簡単に変換できます
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET による ODG からの画像ファイルの変換" h2="ODG から別の形式に変換する" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET 画像 API を介した ODG(ApacheOpenOfficeDrawフォーマット) からの画像ファイルの変換" h2="Aspose.Imaging API を使用して ApacheOpenOfficeDrawフォーマット から他のフォーマットに変換" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="ODG から変換する、サポートされているすべての画像形式" %}}
-Aspose.Imaging を使用すると、ODG から .NET プラットフォーム上の他のフォーマットへの多くの変換を自動化できます。
+{{% blocks/products/pf/feature-page-section  h2="ODG(ApacheOpenOfficeDrawフォーマット) から変換する、サポートされているすべての画像形式" %}}
+Aspose.Imaging を使用すると、ODG から .NET プラットフォーム上の他のフォーマットへの多くの変換を自動化できます。 ODGファイル形式は、Apache OpenOfficeのDrawアプリケーションで、描画要素をベクターイメージとして保存するために使用されます。これは、Advancement of Structural Information Standards（OASIS）によって概説されているXMLベースのファイル形式の仕様に従います。 ODGは、点、線、曲線を使用して図面をベクトル画像として表します。 OpenOfficeに加えて、LibreOfficeおよびその他のアプリケーションもODGファイル形式での作業をサポートします。たとえば、OpenOfficeでサポートされている他の形式には、ODT、ODF、ODP、ODSなどがあります。
 <br/>
-サポートされている変換の完全なリスト:
+サポートされている ODG からの変換の完全なリスト:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

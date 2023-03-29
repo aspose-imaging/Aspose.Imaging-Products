@@ -1,21 +1,21 @@
 ﻿---
-title: .NET 経由で EMF から他の形式に変換します 
+title: .NET 画像 API を介して EMF(強化されたメタファイル形式) から他の形式に変換する 
 weight: 3920
 url: /ja/net/conversion/from/emf 
 lang: ja
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging を使用すると、EMF から別のフォーマットに簡単に変換できます
+description: Aspose.Imaging を使用すると、EMF(強化されたメタファイル形式) から別のフォーマットに簡単に変換できます
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET による EMF からの画像ファイルの変換" h2="EMF から別の形式に変換する" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET 画像 API を介した EMF(強化されたメタファイル形式) からの画像ファイルの変換" h2="Aspose.Imaging API を使用して 強化されたメタファイル形式 から他のフォーマットに変換" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="EMF から変換する、サポートされているすべての画像形式" %}}
-Aspose.Imaging を使用すると、EMF から .NET プラットフォーム上の他のフォーマットへの多くの変換を自動化できます。
+{{% blocks/products/pf/feature-page-section  h2="EMF(強化されたメタファイル形式) から変換する、サポートされているすべての画像形式" %}}
+Aspose.Imaging を使用すると、EMF から .NET プラットフォーム上の他のフォーマットへの多くの変換を自動化できます。 拡張メタファイル形式（EMF）は、グラフィック画像をデバイスに依存せずに保存します。 EMFのメタファイルは、任意の出力デバイスで解析した後、保存された画像をレンダリングできる時系列の可変長レコードで構成されます。これらの可変長レコードは、囲まれたオブジェクトの定義、描画用のコマンド、および画像を正確にレンダリングするために重要なグラフィックスプロパティにすることができます。デバイスが独自のグラフィックス環境を使用してEMFメタファイルを開くと、開いているデバイスプラットフォームに関係なく、元の画像の比率、寸法、色、およびその他のグラフィックプロパティは同じままです。
 <br/>
-サポートされている変換の完全なリスト:
+サポートされている EMF からの変換の完全なリスト:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

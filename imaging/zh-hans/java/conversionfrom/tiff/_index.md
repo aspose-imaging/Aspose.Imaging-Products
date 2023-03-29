@@ -1,20 +1,20 @@
 ﻿---
-title: 使用 Aspose.Imaging for Java 从 TIFF 转换为其他支持的格式 
+title: 使用 Aspose.Imaging for Java API 从 TIFF(标记图像格式) 转换为其他支持的格式 
 weight: 3920
 url: /zh-hans/java/conversion/from/tiff 
 lang: zh-hans
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging 可以使用 Java 平台轻松地将 TIFF 转换为其他格式
+description: Aspose.Imaging 可以使用 Java 平台轻松地将 TIFF(标记图像格式) 转换为其他格式
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="使用 Aspose.Imaging for Java 从 TIFF 格式转换图像" h2="使用 Java 平台将 TIFF 图像格式转换为其他格式" downloadText="下载" >}}
+{{< blocks/products/pf/feature-page-header h1="使用 Aspose.Imaging for Java 从 TIFF 格式转换图像" h2="使用 Java 平台将 TIFF(标记图像格式) 图像格式转换为其他格式" downloadText="下载" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="可以使用 Aspose.Imaging for Java 从 TIFF 图像转换的各种图像格式" %}}
+{{% blocks/products/pf/feature-page-section  h2="可以使用 Aspose.Imaging for Java 从 TIFF(标记图像格式) 图像转换的各种图像格式" %}}
 您可以使用编程方式将 TIFF 格式转换为其他可用格式
-用于 Java 的 Aspose.Imaging。
+用于 Java 的 Aspose.Imaging。 TIFF 或 TIF，标记图像文件格式，表示用于在符合此文件格式标准的各种设备上使用的光栅图像。它能够在多个颜色空间中描述双层、灰度、调色板颜色和全彩色图像数据。它支持有损和无损压缩方案，以便为使用该格式的应用程序在空间和时间之间进行选择。该格式是可扩展的，并且经过多次修改，允许包含无限量的私人或特殊用途信息。该格式不依赖于机器，并且不受处理器、操作系统或文件系统等限制。
 <br/>
 船上有以下转换：
 {{% /blocks/products/pf/feature-page-section %}}

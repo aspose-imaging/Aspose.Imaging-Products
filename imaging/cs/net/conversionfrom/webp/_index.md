@@ -1,21 +1,21 @@
 ﻿---
-title: Převést z WEBP do jiných formátů přes .NET 
+title: Převést z formátu WEBP(Rastrový webový obrázek) do jiných formátů prostřednictvím rozhraní API pro obrázky .NET 
 weight: 3920
 url: /cs/net/conversion/from/webp 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Pomocí Aspose.Imaging můžete snadno převést z formátu WEBP do jiných formátů
+description: Pomocí Aspose.Imaging můžete snadno převést z formátu WEBP(Rastrový webový obrázek) do jiných formátů
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů z formátu WEBP prostřednictvím .NET" h2="Převést z WEBP do jiných formátů" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů z formátu WEBP(Rastrový webový obrázek) prostřednictvím rozhraní API pro obrázky .NET" h2="Převeďte z Rastrový webový obrázek do jiných formátů pomocí Aspose.Imaging API" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu z formátu WEBP" %}}
-Aspose.Imaging umožňuje automatizovat mnoho konverzí z WEBP do jiných formátů na platformě .NET.
+{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu z formátu WEBP (Rastrový webový obrázek)" %}}
+Aspose.Imaging umožňuje automatizovat mnoho konverzí z WEBP do jiných formátů na platformě .NET. WebP, představený společností Google, je moderní formát rastrových webových obrázků, který je založen na bezztrátové a ztrátové kompresi. Poskytuje stejnou kvalitu obrazu a výrazně snižuje velikost obrazu. Protože většina webových stránek používá obrázky jako efektivní reprezentaci dat, použití obrázků WebP na webových stránkách vede k rychlejšímu načítání webových stránek. Podle Google jsou bezztrátové obrázky WebP o 26 % menší ve srovnání s obrázky PNG, zatímco ztrátové obrázky WebP jsou o 25–34 % menší než srovnatelné obrázky JPEG. Obrázky jsou porovnávány na základě indexu strukturní podobnosti (SSIM) mezi WebP a jinými formáty souborů obrázků. WebP je sesterský projekt formátu multimediálních kontejnerů WebM.
 <br/>
-Úplný seznam podporovaných konverzí:
+Úplný seznam podporovaných konverzí z WEBP:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

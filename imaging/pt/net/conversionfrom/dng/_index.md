@@ -1,21 +1,21 @@
 ﻿---
-title: Converta de DNG para outros formatos via .NET 
+title: Converta de DNG(Imagem de câmera digital) para outros formatos por meio da API de imagem .NET 
 weight: 3920
 url: /pt/net/conversion/from/dng 
 lang: pt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging você pode facilmente converter de DNG para outros formatos
+description: Usando Aspose.Imaging você pode facilmente converter de DNG(Imagem de câmera digital) para outros formatos
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversão de arquivos de imagem de DNG via .NET" h2="Converter de DNG para outros formatos" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversão de arquivos de imagem de DNG(Imagem de câmera digital) por meio da API de imagem .NET" h2="Converta de Imagem de câmera digital para outros formatos usando a API Aspose.Imaging" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos os formatos de imagem compatíveis para conversão de DNG" %}}
-Aspose.Imaging permite automatizar muitas conversões de DNG para outros formatos na plataforma .NET.
+{{% blocks/products/pf/feature-page-section  h2="Todos os formatos de imagem compatíveis para conversão de DNG(Imagem de câmera digital)" %}}
+Aspose.Imaging permite automatizar muitas conversões de DNG para outros formatos na plataforma .NET. DNG é um formato de imagem de câmera digital usado para o armazenamento de arquivos raw. Foi desenvolvido pela Adobe em setembro de 2004. Foi desenvolvido basicamente para fotografia digital. DNG é uma extensão do formato padrão TIFF/EP e usa metadados de forma significativa. Para manipular dados brutos de câmeras digitais com facilidade de flexibilidade e controle artístico, os fotógrafos optam por arquivos camera raw. Os formatos JPEG e TIFF armazenam imagens que são processadas pela câmera, portanto, não há muito espaço para alterações nesses formatos.
 <br/>
-Lista completa de conversões suportadas:
+Lista completa de conversões suportadas de DNG:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

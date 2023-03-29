@@ -1,20 +1,20 @@
 ﻿---
-title: Aspose.Imaging for Java kullanarak CMX formatını desteklenen diğer formatlara dönüştürün 
+title: Aspose.Imaging for Java API kullanarak CMX(Corel Exchange Görüntüsü) formatını desteklenen diğer formatlara dönüştürün 
 weight: 3920
 url: /tr/java/conversion/from/cmx 
 lang: tr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging, Java platformunu kullanarak CMX biçimini diğer biçimlere kolayca dönüştürebilir
+description: Aspose.Imaging, Java platformunu kullanarak CMX(Corel Exchange Görüntüsü) biçimini diğer biçimlere kolayca dönüştürebilir
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java kullanarak görüntüleri CMX formatından dönüştürün" h2="Java platformunu kullanarak CMX görüntü biçiminden diğer biçimlere dönüştürme" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java kullanarak görüntüleri CMX formatından dönüştürün" h2="Java platformunu kullanarak CMX(Corel Exchange Görüntüsü) görüntü biçiminden diğer biçimlere dönüştürme" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java kullanılarak CMX görüntülerden dönüştürülebilen geniş görüntü formatları yelpazesi" %}}
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java kullanılarak CMX(Corel Exchange Görüntüsü) görüntülerden dönüştürülebilen geniş görüntü formatları yelpazesi" %}}
 kullanarak CMX biçiminden diğer kullanılabilir biçimlere programlı olarak dönüştürebilirsiniz.
-Java için Aspose.Imaging.
+Java için Aspose.Imaging. CMX uzantılı dosyalar, CorelSuite uygulamaları tarafından sunum olarak kullanılan Corel Exchange görüntü dosyası formatıdır. Vektör grafikleri olarak görüntü verilerini ve görüntüyü tanımlayan meta verileri içerir. CMX dosyaları CorelDraw, Corel Presentations, Paint Shop Pro ve Adobe Illustrator'ın bazı sürümleri tarafından açılabilir.
 <br/>
 Gemide aşağıdaki dönüşümler var:
 {{% /blocks/products/pf/feature-page-section %}}

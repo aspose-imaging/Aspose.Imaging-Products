@@ -1,21 +1,21 @@
 ﻿---
-title: Convertir de EMZ vers d'autres formats via .NET 
+title: Konvertieren Sie von EMZ(Windows komprimierte erweiterte Metadatei) in andere Formate über die Bild-API von .NET 
 weight: 3920
 url: /de/net/conversion/from/emz 
 lang: de
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Mit Aspose.Imaging können Sie ganz einfach von EMZ in andere Formate konvertieren
+description: Mit Aspose.Imaging können Sie ganz einfach von EMZ(Windows komprimierte erweiterte Metadatei) in andere Formate konvertieren
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertierung von Bilddateien von EMZ über .NET" h2="Konvertieren Sie von EMZ in andere Formate" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertierung von Bilddateien aus EMZ (Windows komprimierte erweiterte Metadatei) über die Bild-API von .NET" h2="Konvertieren Sie mithilfe der Aspose.Imaging-API von Windows komprimierte erweiterte Metadatei in andere Formate" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bildformate zum Konvertieren von EMZ" %}}
-Aspose.Imaging ermöglicht die Automatisierung vieler Konvertierungen von EMZ in andere Formate auf der .NET-Plattform.
+{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bildformate zum Konvertieren von EMZ(Windows komprimierte erweiterte Metadatei)" %}}
+Aspose.Imaging ermöglicht die Automatisierung vieler Konvertierungen von EMZ in andere Formate auf der .NET-Plattform. Eine Datei mit der EMZ-Dateierweiterung ist eine komprimierte Bilddatei, die genauer als Windows Compressed Enhanced Metafile-Datei bezeichnet wird
 <br/>
-Vollständige Liste der unterstützten Konvertierungen:
+Vollständige Liste der unterstützten Konvertierungen von EMZ:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -1,20 +1,20 @@
 ﻿---
-title: Преобразование из OTG в другие поддерживаемые форматы с помощью Aspose.Imaging for Java 
+title: Преобразование из OTG(Стандарт OpenDocument) в другие поддерживаемые форматы с помощью Aspose.Imaging for Java API 
 weight: 3920
 url: /ru/java/conversion/from/otg 
 lang: ru
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging может легко конвертировать из OTG в другие форматы с помощью платформы Java.
+description: Aspose.Imaging может легко конвертировать из OTG(Стандарт OpenDocument) в другие форматы с помощью платформы Java.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование изображений из формата OTG с помощью Aspose.Imaging for Java" h2="Преобразование из формата изображения OTG в другие форматы с использованием платформы Java" downloadText="Скачать" >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование изображений из формата OTG с помощью Aspose.Imaging for Java" h2="Преобразование из формата изображения OTG(Стандарт OpenDocument) в другие форматы с использованием платформы Java" downloadText="Скачать" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Спектр форматов изображений, которые можно преобразовать из изображений OTG с помощью Aspose.Imaging for Java." %}}
+{{% blocks/products/pf/feature-page-section  h2="Спектр форматов изображений, которые можно преобразовать из изображений OTG(Стандарт OpenDocument) с помощью Aspose.Imaging for Java." %}}
 Вы можете программно преобразовать формат OTG в другие доступные форматы, используя
-Aspose.Imaging for Java.
+Aspose.Imaging for Java. Файл OTG представляет собой шаблон чертежа, созданный с использованием стандарта OpenDocument, который соответствует спецификации OASIS Office Applications 1.0. Он представляет собой организацию элементов рисования по умолчанию для векторного изображения, которую можно использовать для дальнейшего улучшения содержимого файла.
 <br/>
 Представлены следующие трансформации:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,20 +1,20 @@
 ﻿---
-title: Konwertuj z WEBP na inne obsługiwane formaty za pomocą Aspose.Imaging for Java 
+title: Konwertuj z WEBP(Obraz rastrowy w sieci Web) na inne obsługiwane formaty za pomocą Aspose.Imaging for Java API 
 weight: 3920
 url: /pl/java/conversion/from/webp 
 lang: pl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging może łatwo konwertować z formatu WEBP na inne formaty przy użyciu platformy Java
+description: Aspose.Imaging może łatwo konwertować z formatu WEBP(Obraz rastrowy w sieci Web) na inne formaty przy użyciu platformy Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwertuj obrazy z formatu WEBP za pomocą Aspose.Imaging for Java" h2="Konwertuj z formatu obrazu WEBP na inne formaty za pomocą platformy Java" downloadText="Ściągnij" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj obrazy z formatu WEBP za pomocą Aspose.Imaging for Java" h2="Konwertuj z formatu obrazu WEBP(Obraz rastrowy w sieci Web) na inne formaty za pomocą platformy Java" downloadText="Ściągnij" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Szerokie spektrum formatów obrazów, które można konwertować z obrazów WEBP przy użyciu Aspose.Imaging for Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Szerokie spektrum formatów obrazów, które można konwertować z obrazów WEBP(Obraz rastrowy w sieci Web) przy użyciu Aspose.Imaging for Java" %}}
 Możesz programowo przekonwertować z formatu WEBP na inne dostępne formaty za pomocą
-Aspose.Imaging dla Javy.
+Aspose.Imaging dla Javy. WebP, wprowadzony przez Google, to nowoczesny rastrowy format plików obrazów internetowych, oparty na bezstratnej i stratnej kompresji. Zapewnia tę samą jakość obrazu, jednocześnie znacznie zmniejszając rozmiar obrazu. Ponieważ większość stron internetowych wykorzystuje obrazy jako efektywną reprezentację danych, użycie obrazów WebP na stronach internetowych powoduje szybsze ładowanie stron internetowych. Według Google, bezstratne obrazy WebP są o 26% mniejsze w porównaniu do plików PNG, podczas gdy stratne obrazy WebP są o 25-34% mniejsze niż porównywalne obrazy JPEG. Obrazy są porównywane na podstawie indeksu podobieństwa strukturalnego (SSIM) między WebP a innymi formatami plików graficznych. WebP to siostrzany projekt formatu kontenera multimedialnego WebM.
 <br/>
 Na pokładzie znajdują się następujące konwersje:
 {{% /blocks/products/pf/feature-page-section %}}

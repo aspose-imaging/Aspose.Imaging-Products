@@ -1,21 +1,21 @@
 ﻿---
-title: Конвертувати з CMX в інші формати за допомогою .NET 
+title: Перетворення з CMX(Corel Exchange Image) в інші формати за допомогою API зображень .NET 
 weight: 3920
 url: /uk/net/conversion/from/cmx 
 lang: uk
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: За допомогою Aspose.Imaging ви можете легко конвертувати з CMX в інші формати
+description: За допомогою Aspose.Imaging ви можете легко конвертувати з CMX(Corel Exchange Image) в інші формати
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Перетворення файлів зображень з CMX за допомогою .NET" h2="Конвертувати з CMX в інші формати" downloadText="Завантажити" >}}
+{{< blocks/products/pf/feature-page-header h1="Перетворення файлів зображень із CMX(Corel Exchange Image) через API зображень .NET" h2="Перетворюйте з Corel Exchange Image в інші формати за допомогою API Aspose.Imaging" downloadText="Завантажити" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для конвертації з CMX" %}}
-Aspose.Imaging дозволяє автоматизувати багато перетворень із CMX в інші формати на платформі .NET.
+{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для конвертації з CMX(Corel Exchange Image)" %}}
+Aspose.Imaging дозволяє автоматизувати багато перетворень із CMX в інші формати на платформі .NET. Файли з розширенням CMX — це формат файлу зображень Corel Exchange, який використовується як презентація програмами CorelSuite. Він містить дані зображення як векторну графіку, а також метадані, які описують зображення. Файли CMX можна відкривати за допомогою CorelDraw, Corel Presentations, Paint Shop Pro та деяких версій Adobe Illustrator.
 <br/>
-Повний список підтримуваних конвертацій:
+Повний список підтримуваних конвертацій із CMX:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

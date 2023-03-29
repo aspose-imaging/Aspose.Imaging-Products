@@ -1,21 +1,21 @@
 ﻿---
-title: Konvertera från DJVU till andra format via .NET 
+title: Konvertera från DJVU(Grafikformat) till andra format via .NET bild-API 
 weight: 3920
 url: /sv/net/conversion/from/djvu 
 lang: sv
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Med Aspose.Imaging kan du enkelt konvertera från DJVU till ett annat format
+description: Med Aspose.Imaging kan du enkelt konvertera från DJVU(Grafikformat) till ett annat format
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertering av bildfiler från DJVU via .NET" h2="Konvertera från DJVU till ett annat format" downloadText="Ladda ner" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertering av bildfiler från DJVU(Grafikformat) via .NET bild-API" h2="Konvertera från Grafikformat till andra format med Aspose.Imaging API" downloadText="Ladda ner" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alla bildformat som stöds för att konvertera från DJVU" %}}
-Aspose.Imaging låter automatisera många konverteringar från DJVU till andra format på .NET-plattformen.
+{{% blocks/products/pf/feature-page-section  h2="Alla bildformat som stöds att konvertera från DJVU(Grafikformat)" %}}
+Aspose.Imaging låter automatisera många konverteringar från DJVU till andra format på .NET-plattformen. DjVu, uttalas som "déjà vu", är ett grafikfilformat avsett för skannade dokument och böcker, särskilt de som innehåller en kombination av text, teckningar, bilder och fotografier. Det utvecklades av AT&T Labs. Den använder flera tekniker som bildlagerseparering av text och bakgrundsbilder, progressiv laddning, aritmetisk kodning och förlustkomprimering för bitonala bilder. Eftersom DJVU-filen kan innehålla komprimerade men ändå högkvalitativa färgbilder, fotografier, text och teckningar och kan sparas på mindre utrymme, används den på webben som e-böcker, manualer, tidningar, gamla dokument, etc.
 <br/>
-Fullständig lista över omvandlingar som stöds:
+Fullständig lista över omvandlingar som stöds från DJVU:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

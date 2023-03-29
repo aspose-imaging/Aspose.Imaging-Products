@@ -1,21 +1,21 @@
 ﻿---
-title: Конвертувати з ODG в інші формати за допомогою .NET 
+title: Перетворення з ODG(Формат Apache OpenOffice Draw) в інші формати за допомогою API зображень .NET 
 weight: 3920
 url: /uk/net/conversion/from/odg 
 lang: uk
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: За допомогою Aspose.Imaging ви можете легко конвертувати з ODG в інші формати
+description: За допомогою Aspose.Imaging ви можете легко конвертувати з ODG(Формат Apache OpenOffice Draw) в інші формати
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Перетворення файлів зображень з ODG за допомогою .NET" h2="Конвертувати з ODG в інші формати" downloadText="Завантажити" >}}
+{{< blocks/products/pf/feature-page-header h1="Перетворення файлів зображень із ODG(Формат Apache OpenOffice Draw) через API зображень .NET" h2="Перетворюйте з Формат Apache OpenOffice Draw в інші формати за допомогою API Aspose.Imaging" downloadText="Завантажити" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для конвертації з ODG" %}}
-Aspose.Imaging дозволяє автоматизувати багато перетворень із ODG в інші формати на платформі .NET.
+{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для конвертації з ODG(Формат Apache OpenOffice Draw)" %}}
+Aspose.Imaging дозволяє автоматизувати багато перетворень із ODG в інші формати на платформі .NET. Формат файлу ODG використовується програмою Draw Apache OpenOffice для зберігання елементів малюнка у вигляді векторного зображення. Він відповідає специфікаціям формату файлів на основі XML, викладеним Стандартами вдосконалення структурної інформації (OASIS). ODG представляє малюнки як векторні зображення за допомогою точок, ліній і кривих. Крім OpenOffice, LibreOffice та інші програми також надають підтримку для роботи з форматом файлу ODG. Інші формати, які підтримує OpenOffice, наприклад, включають ODT, ODF, ODP і ODS.
 <br/>
-Повний список підтримуваних конвертацій:
+Повний список підтримуваних конвертацій із ODG:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

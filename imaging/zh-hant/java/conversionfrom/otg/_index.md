@@ -1,20 +1,20 @@
 ﻿---
-title: 使用 Aspose.Imaging for Java 從 OTG 轉換為其他支持的格式 
+title: 使用 Aspose.Imaging for Java API 從 OTG(開放文檔標準) 轉換為其他支持的格式 
 weight: 3920
 url: /zh-hant/java/conversion/from/otg 
 lang: zh-hant
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging 可以使用 Java 平台輕鬆地將 OTG 轉換為其他格式
+description: Aspose.Imaging 可以使用 Java 平台輕鬆地將 OTG(開放文檔標準) 轉換為其他格式
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="使用 Aspose.Imaging for Java 從 OTG 格式轉換圖像" h2="使用 Java 平台將 OTG 圖像格式轉換為其他格式" downloadText="下載" >}}
+{{< blocks/products/pf/feature-page-header h1="使用 Aspose.Imaging for Java 從 OTG 格式轉換圖像" h2="使用 Java 平台將 OTG(開放文檔標準) 圖像格式轉換為其他格式" downloadText="下載" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="可以使用 Aspose.Imaging for Java 從 OTG 圖像轉換的各種圖像格式" %}}
+{{% blocks/products/pf/feature-page-section  h2="可以使用 Aspose.Imaging for Java 從 OTG(開放文檔標準) 圖像轉換的各種圖像格式" %}}
 您可以使用編程方式將 OTG 格式轉換為其他可用格式
-用於 Java 的 Aspose.Imaging。
+用於 Java 的 Aspose.Imaging。 OTG 文件是使用遵循 OASIS Office Applications 1.0 規範的 OpenDocument 標準創建的繪圖模板。它表示矢量圖像的繪圖元素的默認組織，可用於進一步增強文件的內容。
 <br/>
 船上有以下轉換：
 {{% /blocks/products/pf/feature-page-section %}}

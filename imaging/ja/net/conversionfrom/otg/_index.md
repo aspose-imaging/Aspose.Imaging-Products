@@ -1,21 +1,21 @@
 ﻿---
-title: .NET 経由で OTG から他の形式に変換します 
+title: .NET 画像 API を介して OTG(OpenDocument標準) から他の形式に変換する 
 weight: 3920
 url: /ja/net/conversion/from/otg 
 lang: ja
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging を使用すると、OTG から別のフォーマットに簡単に変換できます
+description: Aspose.Imaging を使用すると、OTG(OpenDocument標準) から別のフォーマットに簡単に変換できます
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET による OTG からの画像ファイルの変換" h2="OTG から別の形式に変換する" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET 画像 API を介した OTG(OpenDocument標準) からの画像ファイルの変換" h2="Aspose.Imaging API を使用して OpenDocument標準 から他のフォーマットに変換" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="OTG から変換する、サポートされているすべての画像形式" %}}
-Aspose.Imaging を使用すると、OTG から .NET プラットフォーム上の他のフォーマットへの多くの変換を自動化できます。
+{{% blocks/products/pf/feature-page-section  h2="OTG(OpenDocument標準) から変換する、サポートされているすべての画像形式" %}}
+Aspose.Imaging を使用すると、OTG から .NET プラットフォーム上の他のフォーマットへの多くの変換を自動化できます。 OTGファイルは、OASIS Office Applications1.0仕様に準拠したOpenDocument標準を使用して作成された図面テンプレートです。これは、ファイルの内容をさらに強化するために使用できるベクター画像の描画要素のデフォルトの構成を表します。
 <br/>
-サポートされている変換の完全なリスト:
+サポートされている OTG からの変換の完全なリスト:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

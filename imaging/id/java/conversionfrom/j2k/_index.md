@@ -1,20 +1,20 @@
 ﻿---
-title: Konversikan dari J2K ke format lain yang didukung menggunakan Aspose.Imaging untuk Java 
+title: Konversikan dari J2K(Gambar Terkompresi Wavelet) ke format lain yang didukung menggunakan Aspose.Imaging untuk Java API 
 weight: 3920
 url: /id/java/conversion/from/j2k 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging dapat dengan mudah mengonversi dari J2K ke format lain menggunakan platform Java
+description: Aspose.Imaging dapat dengan mudah mengonversi dari J2K(Gambar Terkompresi Wavelet) ke format lain menggunakan platform Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversikan gambar dari format J2K menggunakan Aspose.Imaging untuk Java" h2="Konversi dari format gambar J2K ke format lain menggunakan platform Java" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversikan gambar dari format J2K menggunakan Aspose.Imaging untuk Java" h2="Konversi dari format gambar J2K(Gambar Terkompresi Wavelet) ke format lain menggunakan platform Java" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Spektrum luas format gambar yang dapat dikonversi dari gambar J2K menggunakan Aspose.Imaging untuk Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Spektrum luas format gambar yang dapat dikonversi dari gambar J2K(Gambar Terkompresi Wavelet) menggunakan Aspose.Imaging untuk Java" %}}
 Anda dapat secara terprogram mengonversi dari format J2K ke format lain yang tersedia menggunakan
-Aspose.Imaging untuk Java.
+Aspose.Imaging untuk Java. File J2K adalah gambar yang dikompres menggunakan kompresi wavelet, bukan kompresi DCT.
 <br/>
 Ada konversi berikut di pesawat:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,19 +1,19 @@
 ﻿---
-title: Konversi gambar ke format gambar DXF dari format lain yang didukung menggunakan platform .NET 
+title: Konversi gambar ke format gambar DXF(Menggambar Format Pertukaran, atau Menggambar Format Pertukaran,) dari format lain yang didukung menggunakan platform .NET 
 weight: 3920
 url: /id/net/conversion/to/dxf 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Menggunakan Aspose.Imaging untuk pustaka .NET, mudah untuk mengonversi ke DXF dari format gambar lain yang didukung
+description: Menggunakan Aspose.Imaging untuk pustaka .NET, mudah untuk mengonversi ke DXF(Menggambar Format Pertukaran, atau Menggambar Format Pertukaran,) dari format gambar lain yang didukung
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar menjadi format gambar DXF menggunakan platform .NET" h2="Konversikan ke format DXF dari format lain menggunakan Aspose.Imaging untuk perpustakaan .NET" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar menjadi format gambar DXF(Menggambar Format Pertukaran, atau Menggambar Format Pertukaran,) menggunakan platform .NET" h2="Konversikan ke format Menggambar Format Pertukaran, atau Menggambar Format Pertukaran, dari format lain menggunakan Aspose.Imaging untuk perpustakaan .NET" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Semua konversi yang didukung ke format DXF menggunakan Aspose.Imaging untuk perpustakaan .NET" %}}
-Dengan menggunakan pustaka Aspose.Imaging, Anda dapat secara terprogram mengonversi berbagai format gambar menjadi gambar DXF.
+{{% blocks/products/pf/feature-page-section  h2="Semua konversi yang didukung ke format DXF(Menggambar Format Pertukaran, atau Menggambar Format Pertukaran,) menggunakan Aspose.Imaging untuk perpustakaan .NET" %}}
+Dengan menggunakan pustaka Aspose.Imaging, Anda dapat secara terprogram mengonversi berbagai format gambar menjadi gambar DXF. DXF, Drawing Interchange Format, atau Drawing Exchange Format, adalah representasi data yang ditandai dari file gambar AutoCAD. Setiap elemen dalam file memiliki nomor integer awalan yang disebut kode grup. Kode grup ini sebenarnya mewakili elemen yang mengikuti dan menunjukkan arti dari elemen data untuk tipe objek tertentu. DXF memungkinkan untuk mewakili hampir semua informasi yang ditentukan pengguna dalam file gambar.
 <br/>
 Konversi berikut didukung :
 {{% /blocks/products/pf/feature-page-section %}}

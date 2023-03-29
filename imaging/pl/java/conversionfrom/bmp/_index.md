@@ -1,20 +1,20 @@
 ﻿---
-title: Konwertuj z BMP na inne obsługiwane formaty za pomocą Aspose.Imaging for Java 
+title: Konwertuj z BMP(Obraz bitmapowy) na inne obsługiwane formaty za pomocą Aspose.Imaging for Java API 
 weight: 3920
 url: /pl/java/conversion/from/bmp 
 lang: pl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging może łatwo konwertować z formatu BMP na inne formaty przy użyciu platformy Java
+description: Aspose.Imaging może łatwo konwertować z formatu BMP(Obraz bitmapowy) na inne formaty przy użyciu platformy Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwertuj obrazy z formatu BMP za pomocą Aspose.Imaging for Java" h2="Konwertuj z formatu obrazu BMP na inne formaty za pomocą platformy Java" downloadText="Ściągnij" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj obrazy z formatu BMP za pomocą Aspose.Imaging for Java" h2="Konwertuj z formatu obrazu BMP(Obraz bitmapowy) na inne formaty za pomocą platformy Java" downloadText="Ściągnij" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Szerokie spektrum formatów obrazów, które można konwertować z obrazów BMP przy użyciu Aspose.Imaging for Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Szerokie spektrum formatów obrazów, które można konwertować z obrazów BMP(Obraz bitmapowy) przy użyciu Aspose.Imaging for Java" %}}
 Możesz programowo przekonwertować z formatu BMP na inne dostępne formaty za pomocą
-Aspose.Imaging dla Javy.
+Aspose.Imaging dla Javy. Pliki o rozszerzeniu .BMP reprezentują pliki obrazów bitmapowych, które są używane do przechowywania cyfrowych obrazów bitmapowych. Obrazy te są niezależne od karty graficznej i są również nazywane formatem plików mapy bitowej niezależnej od urządzenia (DIB). Ta niezależność służy do otwierania pliku na wielu platformach, takich jak Microsoft Windows i Mac. Format pliku BMP może przechowywać dane jako dwuwymiarowe obrazy cyfrowe zarówno w formacie monochromatycznym, jak i kolorowym z różnymi głębiami kolorów.
 <br/>
 Na pokładzie znajdują się następujące konwersje:
 {{% /blocks/products/pf/feature-page-section %}}

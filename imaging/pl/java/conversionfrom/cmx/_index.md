@@ -1,20 +1,20 @@
 ﻿---
-title: Konwertuj z CMX na inne obsługiwane formaty za pomocą Aspose.Imaging for Java 
+title: Konwertuj z CMX(Obraz wymiany firmy Corel) na inne obsługiwane formaty za pomocą Aspose.Imaging for Java API 
 weight: 3920
 url: /pl/java/conversion/from/cmx 
 lang: pl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging może łatwo konwertować z formatu CMX na inne formaty przy użyciu platformy Java
+description: Aspose.Imaging może łatwo konwertować z formatu CMX(Obraz wymiany firmy Corel) na inne formaty przy użyciu platformy Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwertuj obrazy z formatu CMX za pomocą Aspose.Imaging for Java" h2="Konwertuj z formatu obrazu CMX na inne formaty za pomocą platformy Java" downloadText="Ściągnij" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj obrazy z formatu CMX za pomocą Aspose.Imaging for Java" h2="Konwertuj z formatu obrazu CMX(Obraz wymiany firmy Corel) na inne formaty za pomocą platformy Java" downloadText="Ściągnij" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Szerokie spektrum formatów obrazów, które można konwertować z obrazów CMX przy użyciu Aspose.Imaging for Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Szerokie spektrum formatów obrazów, które można konwertować z obrazów CMX(Obraz wymiany firmy Corel) przy użyciu Aspose.Imaging for Java" %}}
 Możesz programowo przekonwertować z formatu CMX na inne dostępne formaty za pomocą
-Aspose.Imaging dla Javy.
+Aspose.Imaging dla Javy. Pliki z rozszerzeniem CMX to format pliku obrazu Corel Exchange, który jest używany jako prezentacja przez aplikacje CorelSuite. Zawiera dane obrazu w postaci grafiki wektorowej oraz metadane opisujące obraz. Pliki CMX można otwierać w programach CorelDraw, Corel Presentations, Paint Shop Pro i niektórych wersjach programu Adobe Illustrator.
 <br/>
 Na pokładzie znajdują się następujące konwersje:
 {{% /blocks/products/pf/feature-page-section %}}

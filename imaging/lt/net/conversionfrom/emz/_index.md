@@ -1,21 +1,21 @@
 ﻿---
-title: Konvertuoti iš EMZ į kitus formatus per .NET 
+title: Konvertuoti iš EMZ(„Windows“ suspaustas patobulintas metafailas) į kitus formatus naudojant .NET vaizdo API 
 weight: 3920
 url: /lt/net/conversion/from/emz 
 lang: lt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Naudodami Aspose.Imaging galite lengvai konvertuoti iš EMZ į kitus formatus
+description: Naudodami Aspose.Imaging galite lengvai konvertuoti iš EMZ(„Windows“ suspaustas patobulintas metafailas) į kitus formatus
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas iš EMZ naudojant .NET" h2="Konvertuoti iš EMZ į kitus formatus" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas iš EMZ(„Windows“ suspaustas patobulintas metafailas) naudojant .NET vaizdo API" h2="Konvertuokite iš „Windows“ suspaustas patobulintas metafailas į kitus formatus naudodami Aspose.Imaging API" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai konvertuoti iš EMZ" %}}
-Aspose.Imaging leidžia automatizuoti daug konversijų iš EMZ į kitus formatus .NET platformoje.
+{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai, konvertuojami iš EMZ(„Windows“ suspaustas patobulintas metafailas)" %}}
+Aspose.Imaging leidžia automatizuoti daug konversijų iš EMZ į kitus formatus .NET platformoje. Failas su EMZ failo plėtiniu yra suspausto vaizdo failas, tiksliau vadinamas „Windows Compressed Enhanced Metafile“ failu
 <br/>
-Visas palaikomų konversijų sąrašas:
+Visas palaikomų konversijų iš EMZ sąrašas:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -1,19 +1,19 @@
 ﻿---
-title: 使用 .NET 平台将图像从其他支持的格式转换为 ICO 图像格式 
+title: 使用 .NET 平台将图像从其他支持的格式转换为 ICO(窗口图标) 图像格式 
 weight: 3920
 url: /zh-hans/net/conversion/to/ico 
 lang: zh-hans
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: 使用 Aspose.Imaging for .NET 库可以轻松地将其他支持的图像格式转换为 ICO
+description: 使用 Aspose.Imaging for .NET 库可以轻松地将其他支持的图像格式转换为 ICO(窗口图标)
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="使用 .NET 平台将图像文件转换为 ICO 图像格式" h2="使用 Aspose.Imaging for .NET 库从其他格式转换为 ICO 格式" downloadText="下载" >}}
+{{< blocks/products/pf/feature-page-header h1="使用 .NET 平台将图像文件转换为 ICO(窗口图标) 图像格式" h2="使用 Aspose.Imaging for .NET 库从其他格式转换为 窗口图标 格式" downloadText="下载" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="所有支持使用 Aspose.Imaging for .NET 库转换为 ICO 格式" %}}
-使用 Aspose.Imaging 库，您可以以编程方式将各种图像格式转换为 ICO 图像。
+{{% blocks/products/pf/feature-page-section  h2="所有支持使用 Aspose.Imaging for .NET 库转换为 ICO(窗口图标) 格式" %}}
+使用 Aspose.Imaging 库，您可以以编程方式将各种图像格式转换为 ICO 图像。 ICO 文件格式是 Microsoft Windows 中计算机图标的图像文件格式。 ICO 文件包含一个或多个具有多种尺寸和颜色深度的小图像，以便它们可以适当地缩放。在 Windows 中，在桌面、开始菜单或 Windows 资源管理器中向用户显示图标的所有可执行文件都必须带有 ICO 格式的图标。
 <br/>
 支持以下转换：
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,21 +1,21 @@
 ﻿---
-title: Convert from EPS to other formats Via .NET 
+title: Convert from EPS(Encapsulated PostScript Language) to other formats Via .NET image API 
 weight: 3920
 url: /net/conversion/from/eps 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Using Aspose.Imaging you can easily convert from EPS to other formats
+description: Using Aspose.Imaging for .NET you can easily convert from EPS(Encapsulated PostScript Language) to other formats
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Image Files Conversion from EPS Via .NET" h2="Convert from EPS to other formats" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Image Files Conversion from EPS(Encapsulated PostScript Language) Via .NET image API" h2="Convert from Encapsulated PostScript Language to other formats using Aspose.Imaging API" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from EPS" %}}
-Aspose.Imaging allows automate a lot of conversions from EPS to other formats on .NET platform.
+{{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from EPS(Encapsulated PostScript Language)" %}}
+Aspose.Imaging allows automate a lot of conversions from EPS to other formats on .NET platform. FIles with EPS extension essentially describe an Encapsulated PostScript language program that describes the appearance of a single page. The name "Encapsulated" because it can be included or encapsulated in another PostScript language page description. This script based file format may contain any combination of text, graphics and images. EPS files may include a bitmap preview image encapsulated inside for display by applications that can open such files. EPS files can be converted to standard image formats such as JPG, PNG, TIFF and PDF using different applications e.g. Adobe Illustrator, Photoshop and PaintShop Pro. Because of a security vulnerability in EPS files, Office 2016, Office 2013, Office 2010, and Office 365 have turned off the ability to insert EPS files into Office documents.
 <br/>
-Full list of supported conversions:
+Full list of supported conversions from EPS:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

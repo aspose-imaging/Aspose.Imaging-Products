@@ -1,21 +1,21 @@
 ﻿---
-title: .NET 経由で PNG から他の形式に変換します 
+title: .NET 画像 API を介して PNG(ポータブルネットワークグラフィックス) から他の形式に変換する 
 weight: 3920
 url: /ja/net/conversion/from/png 
 lang: ja
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging を使用すると、PNG から別のフォーマットに簡単に変換できます
+description: Aspose.Imaging を使用すると、PNG(ポータブルネットワークグラフィックス) から別のフォーマットに簡単に変換できます
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET による PNG からの画像ファイルの変換" h2="PNG から別の形式に変換する" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET 画像 API を介した PNG(ポータブルネットワークグラフィックス) からの画像ファイルの変換" h2="Aspose.Imaging API を使用して ポータブルネットワークグラフィックス から他のフォーマットに変換" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="PNG から変換する、サポートされているすべての画像形式" %}}
-Aspose.Imaging を使用すると、PNG から .NET プラットフォーム上の他のフォーマットへの多くの変換を自動化できます。
+{{% blocks/products/pf/feature-page-section  h2="PNG(ポータブルネットワークグラフィックス) から変換する、サポートされているすべての画像形式" %}}
+Aspose.Imaging を使用すると、PNG から .NET プラットフォーム上の他のフォーマットへの多くの変換を自動化できます。 PNG（Portable Network Graphics）は、ロスレス圧縮を使用するラスターイメージファイル形式の一種を指します。このファイル形式は、Graphics Interchange Format（GIF）の代わりとして作成されたものであり、著作権の制限はありません。ただし、PNGファイル形式はアニメーションをサポートしていません。 PNGファイル形式は、ユーザーの間で人気のあるロスレス画像圧縮をサポートしています。時間の経過とともに、PNGは最もよく使用される画像ファイル形式の1つとして進化してきました。ほとんどすべてのオペレーティングシステムは、PNGファイルを開くことをサポートしています。たとえば、Microsoft Windowsビューアには、OSがデフォルトでインストールの一部として利用可能なサポートを備えているため、PNGファイルを開く機能があります。
 <br/>
-サポートされている変換の完全なリスト:
+サポートされている PNG からの変換の完全なリスト:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

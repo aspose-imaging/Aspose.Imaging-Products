@@ -1,21 +1,21 @@
 ﻿---
-title: 通过 .NET 从 OTG 转换为其他格式 
+title: 通过 .NET 图像 API 从 OTG(开放文档标准) 转换为其他格式 
 weight: 3920
 url: /zh-hans/net/conversion/from/otg 
 lang: zh-hans
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: 使用 Aspose.Imaging，您可以轻松地将 OTG 转换为其他格式
+description: 使用 Aspose.Imaging，您可以轻松地将 OTG(开放文档标准) 转换为其他格式
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="通过 .NET 从 OTG 转换图像文件" h2="从 OTG 转换为其他格式" downloadText="下载" >}}
+{{< blocks/products/pf/feature-page-header h1="通过 .NET 图像 API 从 OTG(开放文档标准) 转换图像文件" h2="使用 Aspose.Imaging API 从 开放文档标准 转换为其他格式" downloadText="下载" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="要从 OTG 转换的所有支持的图像格式" %}}
-Aspose.Imaging 允许在 .NET 平台上自动进行从 OTG 到其他格式的大量转换。
+{{% blocks/products/pf/feature-page-section  h2="从 OTG(开放文档标准) 转换的所有支持的图像格式" %}}
+Aspose.Imaging 允许在 .NET 平台上自动进行从 OTG 到其他格式的大量转换。 OTG 文件是使用遵循 OASIS Office Applications 1.0 规范的 OpenDocument 标准创建的绘图模板。它表示矢量图像的绘图元素的默认组织，可用于进一步增强文件的内容。
 <br/>
-支持的转换的完整列表：
+OTG 支持的转换的完整列表：
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

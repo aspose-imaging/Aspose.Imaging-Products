@@ -1,21 +1,21 @@
 ﻿---
-title: .NET के माध्यम से WMZ से अन्य प्रारूपों में कनवर्ट करें 
+title: .NET इमेज एपीआई के ज़रिए WMZ(संपीड़ित विंडोज मीडिया प्लेयर त्वचा) से दूसरे फ़ॉर्मैट में बदलें 
 weight: 3920
 url: /hi/net/conversion/from/wmz 
 lang: hi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging का उपयोग करके आप आसानी से WMZ से अन्य स्वरूपों में परिवर्तित कर सकते हैं
+description: Aspose.Imaging का उपयोग करके आप आसानी से WMZ(संपीड़ित विंडोज मीडिया प्लेयर त्वचा) से अन्य स्वरूपों में परिवर्तित कर सकते हैं
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET के माध्यम से WMZ से छवि फ़ाइलों का रूपांतरण" h2="WMZ से दूसरे फ़ॉर्मैट में बदलें" downloadText="डाउनलोड" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET छवि API के माध्यम से WMZ(संपीड़ित विंडोज मीडिया प्लेयर त्वचा) से छवि फ़ाइलें रूपांतरण" h2="Aspose.Imaging API का उपयोग करके संपीड़ित विंडोज मीडिया प्लेयर त्वचा से अन्य प्रारूपों में कनवर्ट करें" downloadText="डाउनलोड" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="WMZ से कनवर्ट करने के लिए सभी समर्थित छवि प्रारूप" %}}
-Aspose.Image .NET प्लेटफॉर्म पर WMZ से अन्य प्रारूपों में बहुत से रूपांतरणों को स्वचालित करने की अनुमति देता है।
+{{% blocks/products/pf/feature-page-section  h2="WMZ(संपीड़ित विंडोज मीडिया प्लेयर त्वचा) से कनवर्ट करने के लिए सभी समर्थित छवि प्रारूप" %}}
+Aspose.Image .NET प्लेटफॉर्म पर WMZ से अन्य प्रारूपों में बहुत से रूपांतरणों को स्वचालित करने की अनुमति देता है। WMZ विंडोज मीडिया प्लेयर में/के लिए/इस्तेमाल किए जाने वाले स्किन फाइल फॉर्मेट के लिए एक फाइल एक्सटेंशन है। WMZ फ़ाइल मूल रूप से XML में ज़िप की गई WMF फ़ाइल है।
 <br/>
-समर्थित रूपांतरणों की पूरी सूची:
+WMZ से समर्थित रूपांतरणों की पूरी सूची:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

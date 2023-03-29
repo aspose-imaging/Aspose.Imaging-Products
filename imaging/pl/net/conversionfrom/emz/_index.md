@@ -1,21 +1,21 @@
 ﻿---
-title: Konwertuj z EMZ na inne formaty przez .NET 
+title: Konwertuj z formatu EMZ(Rozszerzony metaplik skompresowany w systemie Windows) na inne formaty za pomocą interfejsu graficznego .NET 
 weight: 3920
 url: /pl/net/conversion/from/emz 
 lang: pl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Za pomocą Aspose.Imaging możesz łatwo konwertować z EMZ na inne formaty
+description: Za pomocą Aspose.Imaging możesz łatwo konwertować z EMZ(Rozszerzony metaplik skompresowany w systemie Windows) na inne formaty
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwersja plików graficznych z EMZ przez .NET" h2="Konwertuj z EMZ na inne formaty" downloadText="Ściągnij" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwersja plików graficznych z formatu EMZ(Rozszerzony metaplik skompresowany w systemie Windows) za pośrednictwem interfejsu graficznego .NET" h2="Konwertuj z Rozszerzony metaplik skompresowany w systemie Windows na inne formaty za pomocą API Aspose.Imaging" downloadText="Ściągnij" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty obrazów do przekonwertowania z EMZ" %}}
-Aspose.Imaging pozwala zautomatyzować wiele konwersji z EMZ do innych formatów na platformie .NET.
+{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty obrazów do przekonwertowania z EMZ(Rozszerzony metaplik skompresowany w systemie Windows)" %}}
+Aspose.Imaging pozwala zautomatyzować wiele konwersji z EMZ do innych formatów na platformie .NET. Plik z rozszerzeniem EMZ to skompresowany plik obrazu, dokładniej nazywany plikiem Windows Compressed Enhanced Metafile
 <br/>
-Pełna lista obsługiwanych konwersji:
+Pełna lista obsługiwanych konwersji z EMZ:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

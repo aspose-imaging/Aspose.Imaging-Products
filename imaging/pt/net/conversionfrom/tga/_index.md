@@ -1,21 +1,21 @@
 ﻿---
-title: Converta de TGA para outros formatos via .NET 
+title: Converta de TGA(Gráfico Targa) para outros formatos por meio da API de imagem .NET 
 weight: 3920
 url: /pt/net/conversion/from/tga 
 lang: pt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging você pode facilmente converter de TGA para outros formatos
+description: Usando Aspose.Imaging você pode facilmente converter de TGA(Gráfico Targa) para outros formatos
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversão de arquivos de imagem de TGA via .NET" h2="Converter de TGA para outros formatos" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversão de arquivos de imagem de TGA(Gráfico Targa) por meio da API de imagem .NET" h2="Converta de Gráfico Targa para outros formatos usando a API Aspose.Imaging" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos os formatos de imagem compatíveis para conversão de TGA" %}}
-Aspose.Imaging permite automatizar muitas conversões de TGA para outros formatos na plataforma .NET.
+{{% blocks/products/pf/feature-page-section  h2="Todos os formatos de imagem compatíveis para conversão de TGA(Gráfico Targa)" %}}
+Aspose.Imaging permite automatizar muitas conversões de TGA para outros formatos na plataforma .NET. Truevision TGA, muitas vezes referido como TARGA, é um formato de arquivo gráfico raster criado pela Truevision Inc. (agora parte da Avid Technology). Era o formato nativo das placas TARGA e VISTA, que foram as primeiras placas gráficas para PCs compatíveis com IBM a suportar exibição Highcolor/truecolor.
 <br/>
-Lista completa de conversões suportadas:
+Lista completa de conversões suportadas de TGA:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

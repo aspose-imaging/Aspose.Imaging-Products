@@ -1,21 +1,21 @@
 ﻿---
-title: Convertir de JPG vers d'autres formats via .NET 
+title: Konvertieren Sie von JPG(Gemeinsame fotografische Expertengruppe) in andere Formate über die Bild-API von .NET 
 weight: 3920
 url: /de/net/conversion/from/jpg 
 lang: de
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Mit Aspose.Imaging können Sie ganz einfach von JPG in andere Formate konvertieren
+description: Mit Aspose.Imaging können Sie ganz einfach von JPG(Gemeinsame fotografische Expertengruppe) in andere Formate konvertieren
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertierung von Bilddateien von JPG über .NET" h2="Konvertieren Sie von JPG in andere Formate" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertierung von Bilddateien aus JPG (Gemeinsame fotografische Expertengruppe) über die Bild-API von .NET" h2="Konvertieren Sie mithilfe der Aspose.Imaging-API von Gemeinsame fotografische Expertengruppe in andere Formate" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bildformate zum Konvertieren von JPG" %}}
-Aspose.Imaging ermöglicht die Automatisierung vieler Konvertierungen von JPG in andere Formate auf der .NET-Plattform.
+{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bildformate zum Konvertieren von JPG(Gemeinsame fotografische Expertengruppe)" %}}
+Aspose.Imaging ermöglicht die Automatisierung vieler Konvertierungen von JPG in andere Formate auf der .NET-Plattform. Ein JPEG ist ein Bildformat, das mit der Methode der verlustbehafteten Komprimierung gespeichert wird. Das Ausgabebild ist als Ergebnis der Komprimierung ein Kompromiss zwischen Speichergröße und Bildqualität. Benutzer können die Komprimierungsstufe anpassen, um die gewünschte Qualitätsstufe zu erreichen, während gleichzeitig die Speichergröße reduziert wird. Die Bildqualität wird vernachlässigbar beeinträchtigt, wenn eine 10:1-Komprimierung auf das Bild angewendet wird. Je höher der Komprimierungswert, desto stärker die Verschlechterung der Bildqualität.
 <br/>
-Vollständige Liste der unterstützten Konvertierungen:
+Vollständige Liste der unterstützten Konvertierungen von JPG:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -1,21 +1,21 @@
 ﻿---
-title: Convertir de DJVU vers d'autres formats via .NET 
+title: Konvertieren Sie von DJVU(Grafikformat) in andere Formate über die Bild-API von .NET 
 weight: 3920
 url: /de/net/conversion/from/djvu 
 lang: de
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Mit Aspose.Imaging können Sie ganz einfach von DJVU in andere Formate konvertieren
+description: Mit Aspose.Imaging können Sie ganz einfach von DJVU(Grafikformat) in andere Formate konvertieren
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertierung von Bilddateien von DJVU über .NET" h2="Konvertieren Sie von DJVU in andere Formate" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertierung von Bilddateien aus DJVU (Grafikformat) über die Bild-API von .NET" h2="Konvertieren Sie mithilfe der Aspose.Imaging-API von Grafikformat in andere Formate" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bildformate zum Konvertieren von DJVU" %}}
-Aspose.Imaging ermöglicht die Automatisierung vieler Konvertierungen von DJVU in andere Formate auf der .NET-Plattform.
+{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bildformate zum Konvertieren von DJVU(Grafikformat)" %}}
+Aspose.Imaging ermöglicht die Automatisierung vieler Konvertierungen von DJVU in andere Formate auf der .NET-Plattform. DjVu, ausgesprochen als „déjà vu“, ist ein Grafikdateiformat, das für gescannte Dokumente und Bücher gedacht ist, insbesondere für solche, die eine Kombination aus Text, Zeichnungen, Bildern und Fotos enthalten. Es wurde von AT&T Labs entwickelt. Es verwendet mehrere Techniken wie Bildebenentrennung von Text und Hintergrundbildern, progressives Laden, arithmetische Codierung und verlustbehaftete Komprimierung für bitonale Bilder. Da die DJVU-Datei komprimierte, aber qualitativ hochwertige Farbbilder, Fotos, Texte und Zeichnungen enthalten kann und daher auf weniger Platz gespeichert werden kann, wird sie im Internet als eBooks, Handbücher, Zeitungen, alte Dokumente usw. verwendet.
 <br/>
-Vollständige Liste der unterstützten Konvertierungen:
+Vollständige Liste der unterstützten Konvertierungen von DJVU:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -1,21 +1,21 @@
 ﻿---
-title: Convertir de EMZ vers d'autres formats via .NET 
+title: Convertir de EMZ(Métafichier amélioré compressé Windows) vers d'autres formats via l'API d'image .NET 
 weight: 3920
 url: /fr/net/conversion/from/emz 
 lang: fr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: En utilisant Aspose.Imaging, vous pouvez facilement convertir de EMZ vers un autre format
+description: En utilisant Aspose.Imaging, vous pouvez facilement convertir de EMZ(Métafichier amélioré compressé Windows) vers un autre format
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversion de fichiers image à partir de EMZ via .NET" h2="Convertir de EMZ vers un autre format" downloadText="Télécharger" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversion de fichiers image à partir de EMZ(Métafichier amélioré compressé Windows) via l'API d'image .NET" h2="Convertir de Métafichier amélioré compressé Windows vers d'autres formats à l'aide de l'API Aspose.Imaging" downloadText="Télécharger" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tous les formats d'image pris en charge pour convertir à partir de EMZ" %}}
-Aspose.Imaging permet d'automatiser de nombreuses conversions de EMZ vers d'autres formats sur la plate-forme .NET.
+{{% blocks/products/pf/feature-page-section  h2="Tous les formats d'image pris en charge pour convertir à partir de EMZ(Métafichier amélioré compressé Windows)" %}}
+Aspose.Imaging permet d'automatiser de nombreuses conversions de EMZ vers d'autres formats sur la plate-forme .NET. Un fichier avec l'extension de fichier EMZ est un fichier image compressé, plus spécifiquement appelé fichier de métafichier amélioré compressé Windows.
 <br/>
-Liste complète des conversions prises en charge :
+Liste complète des conversions prises en charge à partir de EMZ :
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

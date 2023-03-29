@@ -1,20 +1,20 @@
 ﻿---
-title: Aspose.Imaging for Java를 사용하여 DJVU에서 지원되는 다른 형식으로 변환 
+title: Aspose.Imaging for Java API 를 사용하여 DJVU(그래픽 형식)에서 지원되는 다른 형식으로 변환 
 weight: 3920
 url: /ko/java/conversion/from/djvu 
 lang: ko
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging은 Java 플랫폼을 사용하여 DJVU에서 다른 형식으로 쉽게 변환할 수 있습니다.
+description: Aspose.Imaging은 Java 플랫폼을 사용하여 DJVU(그래픽 형식)에서 다른 형식으로 쉽게 변환할 수 있습니다.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java를 사용하여 DJVU 형식에서 이미지 변환" h2="Java 플랫폼을 사용하여 DJVU 이미지 형식에서 다른 형식으로 변환" downloadText="다운로드" >}}
+{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java를 사용하여 DJVU 형식에서 이미지 변환" h2="Java 플랫폼을 사용하여 DJVU(그래픽 형식) 이미지 형식에서 다른 형식으로 변환" downloadText="다운로드" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java를 사용하여 DJVU 이미지에서 변환할 수 있는 광범위한 이미지 형식" %}}
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java를 사용하여 DJVU(그래픽 형식) 이미지에서 변환할 수 있는 광범위한 이미지 형식" %}}
 다음을 사용하여 DJVU 형식에서 사용 가능한 다른 형식으로 프로그래밍 방식으로 변환할 수 있습니다.
-Aspose.Imaging for Java.
+Aspose.Imaging for Java. "déjà vu"로 발음되는 DjVu는 특히 텍스트, 그림, 이미지 및 사진의 조합이 포함된 스캔 문서 및 책을 위한 그래픽 파일 형식입니다. AT&T Labs에서 개발했습니다. 텍스트 및 배경 이미지의 이미지 레이어 분리, 프로그레시브 로딩, 산술 코딩 및 비트 이미지에 대한 손실 압축과 같은 여러 기술을 사용합니다. DJVU 파일은 압축된 고품질의 컬러 이미지, 사진, 텍스트, 그림 등을 담을 수 있어 적은 공간에 저장할 수 있어 웹상에서 eBook, 매뉴얼, 신문, 고대문서 등으로 활용되고 있습니다.
 <br/>
 보드에는 다음과 같은 변환이 있습니다.
 {{% /blocks/products/pf/feature-page-section %}}

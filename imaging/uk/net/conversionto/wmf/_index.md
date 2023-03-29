@@ -1,19 +1,19 @@
 ﻿---
-title: Перетворіть зображення у формат WMF з інших підтримуваних форматів за допомогою платформи .NET 
+title: Перетворіть зображення у формат WMF(Метафайл Microsoft Windows) з інших підтримуваних форматів за допомогою платформи .NET 
 weight: 3920
 url: /uk/net/conversion/to/wmf 
 lang: uk
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: За допомогою бібліотеки Aspose.Imaging для .NET можна легко конвертувати в WMF інші підтримувані формати зображень
+description: За допомогою бібліотеки Aspose.Imaging для .NET можна легко конвертувати в WMF(Метафайл Microsoft Windows) інші підтримувані формати зображень
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Перетворюйте файли зображень у формат зображення WMF за допомогою платформи .NET" h2="Перетворіть у формат WMF інші формати за допомогою бібліотеки Aspose.Imaging для .NET" downloadText="Завантажити" >}}
+{{< blocks/products/pf/feature-page-header h1="Перетворюйте файли зображень у формат зображення WMF(Метафайл Microsoft Windows) за допомогою платформи .NET" h2="Перетворіть у формат Метафайл Microsoft Windows інші формати за допомогою бібліотеки Aspose.Imaging для .NET" downloadText="Завантажити" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані перетворення у формат WMF за допомогою бібліотеки Aspose.Imaging для .NET" %}}
-Використовуючи бібліотеку Aspose.Imaging, ви можете програмно конвертувати різні формати зображень у зображення WMF.
+{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані перетворення у формат WMF(Метафайл Microsoft Windows) за допомогою бібліотеки Aspose.Imaging для .NET" %}}
+Використовуючи бібліотеку Aspose.Imaging, ви можете програмно конвертувати різні формати зображень у зображення WMF. Файли з розширенням WMF представляють метафайл Microsoft Windows (WMF) для зберігання векторних і растрових зображень. Щоб бути більш точним, WMF належить до категорії форматів векторних файлів графічних форматів, які не залежать від пристрою. Інтерфейс графічного пристрою Windows (GDI) використовує функції, збережені у файлі WMF, для відображення зображення на екрані. Пізніше було опубліковано розширену версію WMF, відому як Enhanced Meta Files (EMF), яка робить формат більш багатим на функції. Практично WMF схожі на SVG.
 <br/>
 Підтримуються наступні перетворення:
 {{% /blocks/products/pf/feature-page-section %}}

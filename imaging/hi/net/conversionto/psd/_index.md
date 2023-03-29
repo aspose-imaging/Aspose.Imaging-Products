@@ -1,19 +1,19 @@
 ﻿---
-title: .NET प्लेटफॉर्म का उपयोग करके छवियों को अन्य समर्थित स्वरूपों से PSD छवि प्रारूप में कनवर्ट करें 
+title: .NET प्लेटफॉर्म का उपयोग करके छवियों को अन्य समर्थित स्वरूपों से PSD(फोटोशॉप दस्तावेज़) छवि प्रारूप में कनवर्ट करें 
 weight: 3920
 url: /hi/net/conversion/to/psd 
 lang: hi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: .NET लाइब्रेरी के लिए Aspose.Imaging का उपयोग करके अन्य समर्थित छवि प्रारूपों से PSD में कनवर्ट करना आसान है
+description: .NET लाइब्रेरी के लिए Aspose.Imaging का उपयोग करके अन्य समर्थित छवि प्रारूपों से PSD(फोटोशॉप दस्तावेज़) में कनवर्ट करना आसान है
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET प्लेटफॉर्म का उपयोग करके छवि फ़ाइलों को PSD छवि प्रारूप में कनवर्ट करें" h2=".NET लाइब्रेरी के लिए Aspose.Imaging का उपयोग करके अन्य प्रारूपों से PSD प्रारूप में कनवर्ट करें" downloadText="डाउनलोड" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET प्लेटफॉर्म का उपयोग करके छवि फ़ाइलों को PSD(फोटोशॉप दस्तावेज़) छवि प्रारूप में कनवर्ट करें" h2=".NET लाइब्रेरी के लिए Aspose.Imaging का उपयोग करके अन्य प्रारूपों से फोटोशॉप दस्तावेज़ प्रारूप में कनवर्ट करें" downloadText="डाउनलोड" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2=".NET लाइब्रेरी के लिए Aspose.Imaging का उपयोग करके PSD प्रारूप में सभी समर्थित रूपांतरण" %}}
-Aspose.Imaging लाइब्रेरी का उपयोग करके आप विभिन्न छवि प्रारूपों को PSD छवि में प्रोग्रामेटिक रूप से परिवर्तित कर सकते हैं।
+{{% blocks/products/pf/feature-page-section  h2=".NET लाइब्रेरी के लिए Aspose.Imaging का उपयोग करके PSD(फोटोशॉप दस्तावेज़) प्रारूप में सभी समर्थित रूपांतरण" %}}
+Aspose.Imaging लाइब्रेरी का उपयोग करके आप विभिन्न छवि प्रारूपों को PSD छवि में प्रोग्रामेटिक रूप से परिवर्तित कर सकते हैं। PSD, Photoshop Document, Adobe Photoshop के मूल फ़ाइल स्वरूप का प्रतिनिधित्व करता है जिसका उपयोग ग्राफिक्स डिजाइनिंग और विकास के लिए किया जाता है। PSD फ़ाइलों में छवि परतें, समायोजन परतें, परत मास्क, एनोटेशन, फ़ाइल जानकारी, कीवर्ड और अन्य फ़ोटोशॉप-विशिष्ट तत्व शामिल हो सकते हैं।
 <br/>
 निम्नलिखित रूपांतरण समर्थित हैं:
 {{% /blocks/products/pf/feature-page-section %}}

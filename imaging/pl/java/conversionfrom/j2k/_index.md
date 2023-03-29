@@ -1,20 +1,20 @@
 ﻿---
-title: Konwertuj z J2K na inne obsługiwane formaty za pomocą Aspose.Imaging for Java 
+title: Konwertuj z J2K(Skompresowany obraz falkowy) na inne obsługiwane formaty za pomocą Aspose.Imaging for Java API 
 weight: 3920
 url: /pl/java/conversion/from/j2k 
 lang: pl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging może łatwo konwertować z formatu J2K na inne formaty przy użyciu platformy Java
+description: Aspose.Imaging może łatwo konwertować z formatu J2K(Skompresowany obraz falkowy) na inne formaty przy użyciu platformy Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwertuj obrazy z formatu J2K za pomocą Aspose.Imaging for Java" h2="Konwertuj z formatu obrazu J2K na inne formaty za pomocą platformy Java" downloadText="Ściągnij" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj obrazy z formatu J2K za pomocą Aspose.Imaging for Java" h2="Konwertuj z formatu obrazu J2K(Skompresowany obraz falkowy) na inne formaty za pomocą platformy Java" downloadText="Ściągnij" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Szerokie spektrum formatów obrazów, które można konwertować z obrazów J2K przy użyciu Aspose.Imaging for Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Szerokie spektrum formatów obrazów, które można konwertować z obrazów J2K(Skompresowany obraz falkowy) przy użyciu Aspose.Imaging for Java" %}}
 Możesz programowo przekonwertować z formatu J2K na inne dostępne formaty za pomocą
-Aspose.Imaging dla Javy.
+Aspose.Imaging dla Javy. Plik J2K to obraz skompresowany przy użyciu kompresji falkowej zamiast kompresji DCT.
 <br/>
 Na pokładzie znajdują się następujące konwersje:
 {{% /blocks/products/pf/feature-page-section %}}

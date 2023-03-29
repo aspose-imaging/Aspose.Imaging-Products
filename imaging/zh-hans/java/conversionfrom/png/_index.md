@@ -1,20 +1,20 @@
 ﻿---
-title: 使用 Aspose.Imaging for Java 从 PNG 转换为其他支持的格式 
+title: 使用 Aspose.Imaging for Java API 从 PNG(便携式网络图形) 转换为其他支持的格式 
 weight: 3920
 url: /zh-hans/java/conversion/from/png 
 lang: zh-hans
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging 可以使用 Java 平台轻松地将 PNG 转换为其他格式
+description: Aspose.Imaging 可以使用 Java 平台轻松地将 PNG(便携式网络图形) 转换为其他格式
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="使用 Aspose.Imaging for Java 从 PNG 格式转换图像" h2="使用 Java 平台将 PNG 图像格式转换为其他格式" downloadText="下载" >}}
+{{< blocks/products/pf/feature-page-header h1="使用 Aspose.Imaging for Java 从 PNG 格式转换图像" h2="使用 Java 平台将 PNG(便携式网络图形) 图像格式转换为其他格式" downloadText="下载" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="可以使用 Aspose.Imaging for Java 从 PNG 图像转换的各种图像格式" %}}
+{{% blocks/products/pf/feature-page-section  h2="可以使用 Aspose.Imaging for Java 从 PNG(便携式网络图形) 图像转换的各种图像格式" %}}
 您可以使用编程方式将 PNG 格式转换为其他可用格式
-用于 Java 的 Aspose.Imaging。
+用于 Java 的 Aspose.Imaging。 PNG，便携式网络图形，是指一种使用无损压缩的光栅图像文件格式。此文件格式是作为图形交换格式 (GIF) 的替代品而创建的，没有版权限制。但是，PNG 文件格式不支持动画。 PNG文件格式支持无损图像压缩，使其在用户中很受欢迎。随着时间的推移，PNG 已经发展成为最常用的图像文件格式之一。几乎所有操作系统都支持打开 PNG 文件。例如，Microsoft Windows 查看器能够打开 PNG 文件，因为操作系统默认支持作为安装的一部分。
 <br/>
 船上有以下转换：
 {{% /blocks/products/pf/feature-page-section %}}

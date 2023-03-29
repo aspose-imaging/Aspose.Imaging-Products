@@ -1,21 +1,21 @@
 ﻿---
-title: Convertir de WEBP vers d'autres formats via .NET 
+title: Konvertieren Sie von WEBP(Raster-Webbild) in andere Formate über die Bild-API von .NET 
 weight: 3920
 url: /de/net/conversion/from/webp 
 lang: de
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Mit Aspose.Imaging können Sie ganz einfach von WEBP in andere Formate konvertieren
+description: Mit Aspose.Imaging können Sie ganz einfach von WEBP(Raster-Webbild) in andere Formate konvertieren
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertierung von Bilddateien von WEBP über .NET" h2="Konvertieren Sie von WEBP in andere Formate" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertierung von Bilddateien aus WEBP (Raster-Webbild) über die Bild-API von .NET" h2="Konvertieren Sie mithilfe der Aspose.Imaging-API von Raster-Webbild in andere Formate" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bildformate zum Konvertieren von WEBP" %}}
-Aspose.Imaging ermöglicht die Automatisierung vieler Konvertierungen von WEBP in andere Formate auf der .NET-Plattform.
+{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bildformate zum Konvertieren von WEBP(Raster-Webbild)" %}}
+Aspose.Imaging ermöglicht die Automatisierung vieler Konvertierungen von WEBP in andere Formate auf der .NET-Plattform. WebP, eingeführt von Google, ist ein modernes Raster-Webbild-Dateiformat, das auf verlustfreier und verlustbehafteter Komprimierung basiert. Es bietet die gleiche Bildqualität, während die Bildgröße erheblich reduziert wird. Da die meisten Webseiten Bilder als effektive Darstellung von Daten verwenden, führt die Verwendung von WebP-Bildern auf Webseiten zu einem schnelleren Laden von Webseiten. Laut Google sind verlustfreie WebP-Bilder im Vergleich zu PNGs 26 % kleiner, während verlustbehaftete WebP-Bilder 25–34 % kleiner sind als vergleichbare JPEG-Bilder. Bilder werden basierend auf dem Index der strukturellen Ähnlichkeit (SSIM) zwischen WebP und anderen Bilddateiformaten verglichen. WebP ist ein Schwesterprojekt des Multimedia-Containerformats WebM.
 <br/>
-Vollständige Liste der unterstützten Konvertierungen:
+Vollständige Liste der unterstützten Konvertierungen von WEBP:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -1,21 +1,21 @@
 ﻿---
-title: Konwertuj z JPEG na inne formaty przez .NET 
+title: Konwertuj z formatu JPEG(Wspólna Grupa Ekspertów Fotograficznych) na inne formaty za pomocą interfejsu graficznego .NET 
 weight: 3920
 url: /pl/net/conversion/from/jpeg 
 lang: pl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Za pomocą Aspose.Imaging możesz łatwo konwertować z JPEG na inne formaty
+description: Za pomocą Aspose.Imaging możesz łatwo konwertować z JPEG(Wspólna Grupa Ekspertów Fotograficznych) na inne formaty
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwersja plików graficznych z JPEG przez .NET" h2="Konwertuj z JPEG na inne formaty" downloadText="Ściągnij" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwersja plików graficznych z formatu JPEG(Wspólna Grupa Ekspertów Fotograficznych) za pośrednictwem interfejsu graficznego .NET" h2="Konwertuj z Wspólna Grupa Ekspertów Fotograficznych na inne formaty za pomocą API Aspose.Imaging" downloadText="Ściągnij" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty obrazów do przekonwertowania z JPEG" %}}
-Aspose.Imaging pozwala zautomatyzować wiele konwersji z JPEG do innych formatów na platformie .NET.
+{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty obrazów do przekonwertowania z JPEG(Wspólna Grupa Ekspertów Fotograficznych)" %}}
+Aspose.Imaging pozwala zautomatyzować wiele konwersji z JPEG do innych formatów na platformie .NET. JPEG to rodzaj formatu obrazu, który jest zapisywany przy użyciu metody kompresji stratnej. Obraz wyjściowy w wyniku kompresji jest kompromisem między rozmiarem pamięci a jakością obrazu. Użytkownicy mogą dostosować poziom kompresji, aby osiągnąć pożądany poziom jakości, jednocześnie zmniejszając rozmiar pamięci. Jakość obrazu ulega nieznacznemu pogorszeniu, jeśli do obrazu zostanie zastosowana kompresja 10:1. Im wyższa wartość kompresji, tym większa degradacja jakości obrazu.
 <br/>
-Pełna lista obsługiwanych konwersji:
+Pełna lista obsługiwanych konwersji z JPEG:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

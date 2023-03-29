@@ -1,21 +1,21 @@
 ﻿---
-title: 通過 .NET 從 DIB 轉換為其他格式 
+title: 通過 .NET 圖像 API 從 DIB(設備無關位圖) 轉換為其他格式 
 weight: 3920
 url: /zh-hant/net/conversion/from/dib 
 lang: zh-hant
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: 使用 Aspose.Imaging，您可以輕鬆地將 DIB 轉換為其他格式
+description: 使用 Aspose.Imaging，您可以輕鬆地將 DIB(設備無關位圖) 轉換為其他格式
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="通過 .NET 從 DIB 轉換圖像文件" h2="從 DIB 轉換為其他格式" downloadText="下載" >}}
+{{< blocks/products/pf/feature-page-header h1="通過 .NET 圖像 API 從 DIB(設備無關位圖) 轉換圖像文件" h2="使用 Aspose.Imaging API 從 設備無關位圖 轉換為其他格式" downloadText="下載" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="要從 DIB 轉換的所有支持的圖像格式" %}}
-Aspose.Imaging 允許在 .NET 平台上自動進行從 DIB 到其他格式的大量轉換。
+{{% blocks/products/pf/feature-page-section  h2="從 DIB(設備無關位圖) 轉換的所有支持的圖像格式" %}}
+Aspose.Imaging 允許在 .NET 平台上自動進行從 DIB 到其他格式的大量轉換。 DIB（設備獨立位圖）文件是一種光柵圖像文件，其結構類似於標準位圖文件 (BMP)，但具有不同的標題。幾乎所有可以在 Windows 和 macOS 上打開標準 BMP 文件的應用程序都可以打開它。 DIB 是二進製文件，具有類似於 BMP 的複雜文件格式。
 <br/>
-支持的轉換的完整列表：
+DIB 支持的轉換的完整列表：
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

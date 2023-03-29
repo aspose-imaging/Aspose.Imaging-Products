@@ -1,21 +1,21 @@
 ﻿---
-title: Konvertera från JPG till andra format via .NET 
+title: Konvertera från JPG(Förenade Fotografers Expert Grupp) till andra format via .NET bild-API 
 weight: 3920
 url: /sv/net/conversion/from/jpg 
 lang: sv
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Med Aspose.Imaging kan du enkelt konvertera från JPG till ett annat format
+description: Med Aspose.Imaging kan du enkelt konvertera från JPG(Förenade Fotografers Expert Grupp) till ett annat format
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertering av bildfiler från JPG via .NET" h2="Konvertera från JPG till ett annat format" downloadText="Ladda ner" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertering av bildfiler från JPG(Förenade Fotografers Expert Grupp) via .NET bild-API" h2="Konvertera från Förenade Fotografers Expert Grupp till andra format med Aspose.Imaging API" downloadText="Ladda ner" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alla bildformat som stöds för att konvertera från JPG" %}}
-Aspose.Imaging låter automatisera många konverteringar från JPG till andra format på .NET-plattformen.
+{{% blocks/products/pf/feature-page-section  h2="Alla bildformat som stöds att konvertera från JPG(Förenade Fotografers Expert Grupp)" %}}
+Aspose.Imaging låter automatisera många konverteringar från JPG till andra format på .NET-plattformen. En JPEG är en typ av bildformat som sparas med metoden för förlustkomprimering. Utdatabilden, som ett resultat av komprimering, är en kompromiss mellan lagringsstorlek och bildkvalitet. Användare kan justera komprimeringsnivån för att uppnå önskad kvalitetsnivå samtidigt som lagringsstorleken minskas. Bildkvaliteten påverkas försumbart om 10:1-komprimering tillämpas på bilden. Ju högre komprimeringsvärde, desto högre försämring i bildkvalitet.
 <br/>
-Fullständig lista över omvandlingar som stöds:
+Fullständig lista över omvandlingar som stöds från JPG:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

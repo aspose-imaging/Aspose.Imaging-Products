@@ -1,21 +1,21 @@
 ﻿---
-title: Konvertuoti iš DIB į kitus formatus per .NET 
+title: Konvertuoti iš DIB(Nuo įrenginio nepriklausomas bitmap) į kitus formatus naudojant .NET vaizdo API 
 weight: 3920
 url: /lt/net/conversion/from/dib 
 lang: lt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Naudodami Aspose.Imaging galite lengvai konvertuoti iš DIB į kitus formatus
+description: Naudodami Aspose.Imaging galite lengvai konvertuoti iš DIB(Nuo įrenginio nepriklausomas bitmap) į kitus formatus
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas iš DIB naudojant .NET" h2="Konvertuoti iš DIB į kitus formatus" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas iš DIB(Nuo įrenginio nepriklausomas bitmap) naudojant .NET vaizdo API" h2="Konvertuokite iš Nuo įrenginio nepriklausomas bitmap į kitus formatus naudodami Aspose.Imaging API" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai konvertuoti iš DIB" %}}
-Aspose.Imaging leidžia automatizuoti daug konversijų iš DIB į kitus formatus .NET platformoje.
+{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai, konvertuojami iš DIB(Nuo įrenginio nepriklausomas bitmap)" %}}
+Aspose.Imaging leidžia automatizuoti daug konversijų iš DIB į kitus formatus .NET platformoje. DIB (nuo įrenginio nepriklausomo taškinės schemos) failas yra rastrinio vaizdo failas, kurio struktūra yra panaši į standartinius taškinės schemos failus (BMP), bet turi skirtingą antraštę. Jį galima atidaryti su beveik visomis programomis, kurios gali atidaryti standartinį BMP failą sistemoje „Windows“ ir „MacOS“. DIB yra dvejetainiai failai ir turi sudėtingą failo formatą, panašų į BMP.
 <br/>
-Visas palaikomų konversijų sąrašas:
+Visas palaikomų konversijų iš DIB sąrašas:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

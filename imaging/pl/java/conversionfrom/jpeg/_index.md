@@ -1,20 +1,20 @@
 ﻿---
-title: Konwertuj z JPEG na inne obsługiwane formaty za pomocą Aspose.Imaging for Java 
+title: Konwertuj z JPEG(Wspólna Grupa Ekspertów Fotograficznych) na inne obsługiwane formaty za pomocą Aspose.Imaging for Java API 
 weight: 3920
 url: /pl/java/conversion/from/jpeg 
 lang: pl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging może łatwo konwertować z formatu JPEG na inne formaty przy użyciu platformy Java
+description: Aspose.Imaging może łatwo konwertować z formatu JPEG(Wspólna Grupa Ekspertów Fotograficznych) na inne formaty przy użyciu platformy Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwertuj obrazy z formatu JPEG za pomocą Aspose.Imaging for Java" h2="Konwertuj z formatu obrazu JPEG na inne formaty za pomocą platformy Java" downloadText="Ściągnij" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj obrazy z formatu JPEG za pomocą Aspose.Imaging for Java" h2="Konwertuj z formatu obrazu JPEG(Wspólna Grupa Ekspertów Fotograficznych) na inne formaty za pomocą platformy Java" downloadText="Ściągnij" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Szerokie spektrum formatów obrazów, które można konwertować z obrazów JPEG przy użyciu Aspose.Imaging for Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Szerokie spektrum formatów obrazów, które można konwertować z obrazów JPEG(Wspólna Grupa Ekspertów Fotograficznych) przy użyciu Aspose.Imaging for Java" %}}
 Możesz programowo przekonwertować z formatu JPEG na inne dostępne formaty za pomocą
-Aspose.Imaging dla Javy.
+Aspose.Imaging dla Javy. JPEG to rodzaj formatu obrazu, który jest zapisywany przy użyciu metody kompresji stratnej. Obraz wyjściowy w wyniku kompresji jest kompromisem między rozmiarem pamięci a jakością obrazu. Użytkownicy mogą dostosować poziom kompresji, aby osiągnąć pożądany poziom jakości, jednocześnie zmniejszając rozmiar pamięci. Jakość obrazu ulega nieznacznemu pogorszeniu, jeśli do obrazu zostanie zastosowana kompresja 10:1. Im wyższa wartość kompresji, tym większa degradacja jakości obrazu.
 <br/>
 Na pokładzie znajdują się następujące konwersje:
 {{% /blocks/products/pf/feature-page-section %}}

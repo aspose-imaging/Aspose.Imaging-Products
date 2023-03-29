@@ -1,21 +1,21 @@
 ﻿---
-title: Конвертувати з DIB в інші формати за допомогою .NET 
+title: Перетворення з DIB(Незалежне від пристрою растрове зображення) в інші формати за допомогою API зображень .NET 
 weight: 3920
 url: /uk/net/conversion/from/dib 
 lang: uk
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: За допомогою Aspose.Imaging ви можете легко конвертувати з DIB в інші формати
+description: За допомогою Aspose.Imaging ви можете легко конвертувати з DIB(Незалежне від пристрою растрове зображення) в інші формати
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Перетворення файлів зображень з DIB за допомогою .NET" h2="Конвертувати з DIB в інші формати" downloadText="Завантажити" >}}
+{{< blocks/products/pf/feature-page-header h1="Перетворення файлів зображень із DIB(Незалежне від пристрою растрове зображення) через API зображень .NET" h2="Перетворюйте з Незалежне від пристрою растрове зображення в інші формати за допомогою API Aspose.Imaging" downloadText="Завантажити" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для конвертації з DIB" %}}
-Aspose.Imaging дозволяє автоматизувати багато перетворень із DIB в інші формати на платформі .NET.
+{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для конвертації з DIB(Незалежне від пристрою растрове зображення)" %}}
+Aspose.Imaging дозволяє автоматизувати багато перетворень із DIB в інші формати на платформі .NET. Файл DIB (Device Independent Bitmap) — це файл растрового зображення, подібний за структурою до стандартних файлів Bitmap (BMP), але має інший заголовок. Його можна відкрити майже за допомогою всіх програм, які можуть відкрити стандартний файл BMP у Windows, а також у macOS. DIB є двійковими файлами та мають складний формат файлів, подібний до BMP.
 <br/>
-Повний список підтримуваних конвертацій:
+Повний список підтримуваних конвертацій із DIB:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

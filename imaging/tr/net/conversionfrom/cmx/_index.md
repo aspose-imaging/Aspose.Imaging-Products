@@ -1,21 +1,21 @@
 ﻿---
-title: .NET Aracılığıyla CMX'ten diğer biçimlere dönüştürün 
+title: .NET görüntü API'sı aracılığıyla CMX(Corel Exchange Görüntüsü) biçimini diğer biçimlere dönüştürün 
 weight: 3920
 url: /tr/net/conversion/from/cmx 
 lang: tr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging'i kullanarak CMX biçimini kolayca başka biçimlere dönüştürebilirsiniz
+description: Aspose.Imaging'i kullanarak CMX(Corel Exchange Görüntüsü) biçimini kolayca başka biçimlere dönüştürebilirsiniz
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET Yoluyla CMX'den Görüntü Dosyaları Dönüştürme" h2="CMX biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET image API aracılığıyla CMX(Corel Exchange Görüntüsü)'den Görüntü Dosyaları Dönüşümü" h2="Aspose.Imaging API kullanarak Corel Exchange Görüntüsü formatını diğer formatlara dönüştürün" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="CMX'den dönüştürülecek desteklenen tüm resim biçimleri" %}}
-Aspose.Imaging, .NET platformunda CMX'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir.
+{{% blocks/products/pf/feature-page-section  h2="CMX(Corel Exchange Görüntüsü) biçiminden dönüştürülecek desteklenen tüm resim biçimleri" %}}
+Aspose.Imaging, .NET platformunda CMX'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir. CMX uzantılı dosyalar, CorelSuite uygulamaları tarafından sunum olarak kullanılan Corel Exchange görüntü dosyası formatıdır. Vektör grafikleri olarak görüntü verilerini ve görüntüyü tanımlayan meta verileri içerir. CMX dosyaları CorelDraw, Corel Presentations, Paint Shop Pro ve Adobe Illustrator'ın bazı sürümleri tarafından açılabilir.
 <br/>
-Desteklenen dönüşümlerin tam listesi:
+CMX tarafından desteklenen dönüşümlerin tam listesi:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -1,21 +1,21 @@
 ﻿---
-title: Converta de BMP para outros formatos via .NET 
+title: Converta de BMP(Imagem de bitmap) para outros formatos por meio da API de imagem .NET 
 weight: 3920
 url: /pt/net/conversion/from/bmp 
 lang: pt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging você pode facilmente converter de BMP para outros formatos
+description: Usando Aspose.Imaging você pode facilmente converter de BMP(Imagem de bitmap) para outros formatos
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversão de arquivos de imagem de BMP via .NET" h2="Converter de BMP para outros formatos" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversão de arquivos de imagem de BMP(Imagem de bitmap) por meio da API de imagem .NET" h2="Converta de Imagem de bitmap para outros formatos usando a API Aspose.Imaging" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos os formatos de imagem compatíveis para conversão de BMP" %}}
-Aspose.Imaging permite automatizar muitas conversões de BMP para outros formatos na plataforma .NET.
+{{% blocks/products/pf/feature-page-section  h2="Todos os formatos de imagem compatíveis para conversão de BMP(Imagem de bitmap)" %}}
+Aspose.Imaging permite automatizar muitas conversões de BMP para outros formatos na plataforma .NET. Arquivos com extensão .BMP representam arquivos de imagem de bitmap que são usados ​​para armazenar imagens digitais de bitmap. Essas imagens são independentes do adaptador gráfico e também são chamadas de formato de arquivo de bitmap independente de dispositivo (DIB). Essa independência serve para abrir o arquivo em várias plataformas, como Microsoft Windows e Mac. O formato de arquivo BMP pode armazenar dados como imagens digitais bidimensionais em formato monocromático e colorido com várias profundidades de cor.
 <br/>
-Lista completa de conversões suportadas:
+Lista completa de conversões suportadas de BMP:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

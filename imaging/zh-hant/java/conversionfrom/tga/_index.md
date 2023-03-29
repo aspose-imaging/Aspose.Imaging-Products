@@ -1,20 +1,20 @@
 ﻿---
-title: 使用 Aspose.Imaging for Java 從 TGA 轉換為其他支持的格式 
+title: 使用 Aspose.Imaging for Java API 從 TGA(塔加圖形) 轉換為其他支持的格式 
 weight: 3920
 url: /zh-hant/java/conversion/from/tga 
 lang: zh-hant
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging 可以使用 Java 平台輕鬆地將 TGA 轉換為其他格式
+description: Aspose.Imaging 可以使用 Java 平台輕鬆地將 TGA(塔加圖形) 轉換為其他格式
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="使用 Aspose.Imaging for Java 從 TGA 格式轉換圖像" h2="使用 Java 平台將 TGA 圖像格式轉換為其他格式" downloadText="下載" >}}
+{{< blocks/products/pf/feature-page-header h1="使用 Aspose.Imaging for Java 從 TGA 格式轉換圖像" h2="使用 Java 平台將 TGA(塔加圖形) 圖像格式轉換為其他格式" downloadText="下載" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="可以使用 Aspose.Imaging for Java 從 TGA 圖像轉換的各種圖像格式" %}}
+{{% blocks/products/pf/feature-page-section  h2="可以使用 Aspose.Imaging for Java 從 TGA(塔加圖形) 圖像轉換的各種圖像格式" %}}
 您可以使用編程方式將 TGA 格式轉換為其他可用格式
-用於 Java 的 Aspose.Imaging。
+用於 Java 的 Aspose.Imaging。 Truevision TGA，通常稱為 TARGA，是由 Truevision Inc.（現為 Avid Technology 的一部分）創建的光柵圖形文件格式。它是 TARGA 和 VISTA 板的原生格式，它們是 IBM 兼容 PC 上第一款支持高彩/真彩顯示的顯卡。
 <br/>
 船上有以下轉換：
 {{% /blocks/products/pf/feature-page-section %}}

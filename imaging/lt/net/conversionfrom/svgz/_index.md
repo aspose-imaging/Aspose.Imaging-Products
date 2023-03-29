@@ -1,21 +1,21 @@
 ﻿---
-title: Konvertuoti iš SVGZ į kitus formatus per .NET 
+title: Konvertuoti iš SVGZ(Suglaudinta Scalable Vector Graphics (.SVG) failo versija.) į kitus formatus naudojant .NET vaizdo API 
 weight: 3920
 url: /lt/net/conversion/from/svgz 
 lang: lt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Naudodami Aspose.Imaging galite lengvai konvertuoti iš SVGZ į kitus formatus
+description: Naudodami Aspose.Imaging galite lengvai konvertuoti iš SVGZ(Suglaudinta Scalable Vector Graphics (.SVG) failo versija.) į kitus formatus
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas iš SVGZ naudojant .NET" h2="Konvertuoti iš SVGZ į kitus formatus" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas iš SVGZ(Suglaudinta Scalable Vector Graphics (.SVG) failo versija.) naudojant .NET vaizdo API" h2="Konvertuokite iš Suglaudinta Scalable Vector Graphics (.SVG) failo versija. į kitus formatus naudodami Aspose.Imaging API" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai konvertuoti iš SVGZ" %}}
-Aspose.Imaging leidžia automatizuoti daug konversijų iš SVGZ į kitus formatus .NET platformoje.
+{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai, konvertuojami iš SVGZ(Suglaudinta Scalable Vector Graphics (.SVG) failo versija.)" %}}
+Aspose.Imaging leidžia automatizuoti daug konversijų iš SVGZ į kitus formatus .NET platformoje. Failas su plėtiniu .svgz yra suglaudinta Scalable Vector Graphics (.SVG) failo versija. Jis suglaudintas gzip glaudinimu ir jame yra duomenys XML formatu. SVGZ failai palaiko skaidrumą, gradientus, animaciją ir filtrus. SVGZ failai yra mažesni, palyginti su numatytaisiais SVG failais, ir šis sumažintas failo dydis padeda perkelti grafikos failus į internetą. Grafikos dizaineris kuria SVGZ failus naudodamas tokius įrankius kaip „Adobe Illustrator“, „Corel PaintShop Pro“ ir kt. Tačiau SVGZ failus galima sugeneruoti įjungus GZip glaudinimą „Apache“ serveryje, siunčiant vaizdo duomenis.
 <br/>
-Visas palaikomų konversijų sąrašas:
+Visas palaikomų konversijų iš SVGZ sąrašas:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

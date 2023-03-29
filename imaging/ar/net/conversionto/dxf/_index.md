@@ -1,19 +1,19 @@
 ﻿---
-title: تحويل الصور إلى تنسيق صورة DXF من التنسيقات الأخرى المدعومة باستخدام منصة .NET 
+title: تحويل الصور إلى تنسيق صورة DXF(تنسيق تبادل الرسم ، أو تنسيق تبادل الرسم ،) من التنسيقات الأخرى المدعومة باستخدام منصة .NET 
 weight: 3920
 url: /ar/net/conversion/to/dxf 
 lang: ar
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: باستخدام Aspose.Imaging لمكتبة .NET يسهل التحويل إلى DXF من تنسيقات الصور الأخرى المدعومة
+description: باستخدام Aspose.Imaging لمكتبة .NET يسهل التحويل إلى DXF(تنسيق تبادل الرسم ، أو تنسيق تبادل الرسم ،) من تنسيقات الصور الأخرى المدعومة
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل ملفات الصور إلى تنسيق صورة DXF باستخدام منصة .NET" h2="تحويل إلى تنسيق DXF من التنسيقات الأخرى باستخدام Aspose.Imaging لمكتبة .NET" downloadText="تحميل" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل ملفات الصور إلى تنسيق صورة DXF(تنسيق تبادل الرسم ، أو تنسيق تبادل الرسم ،) باستخدام منصة .NET" h2="تحويل إلى تنسيق تنسيق تبادل الرسم ، أو تنسيق تبادل الرسم ، من التنسيقات الأخرى باستخدام Aspose.Imaging لمكتبة .NET" downloadText="تحميل" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="جميع التحويلات المدعومة إلى تنسيق DXF باستخدام Aspose.Imaging for .NET library" %}}
-باستخدام مكتبة Aspose.Imaging ، يمكنك تحويل العديد من تنسيقات الصور إلى صورة DXF برمجيًا.
+{{% blocks/products/pf/feature-page-section  h2="جميع التحويلات المدعومة إلى تنسيق DXF(تنسيق تبادل الرسم ، أو تنسيق تبادل الرسم ،) باستخدام Aspose.Imaging for .NET library" %}}
+باستخدام مكتبة Aspose.Imaging ، يمكنك تحويل العديد من تنسيقات الصور إلى صورة DXF برمجيًا. DXF ، أو تنسيق تبادل الرسم ، أو تنسيق تبادل الرسم ، هو تمثيل بيانات ذو علامات لملف رسم AutoCAD. يحتوي كل عنصر في الملف على رقم بادئة صحيح يسمى رمز المجموعة. يمثل رمز المجموعة هذا العنصر الذي يليه ويشير إلى معنى عنصر البيانات لنوع كائن معين. يتيح DXF تمثيل جميع المعلومات المحددة من قبل المستخدم تقريبًا في ملف الرسم.
 <br/>
 يتم دعم التحويلات التالية:
 {{% /blocks/products/pf/feature-page-section %}}

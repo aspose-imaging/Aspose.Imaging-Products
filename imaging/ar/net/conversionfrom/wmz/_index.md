@@ -1,21 +1,21 @@
 ﻿---
-title: حوِّل من WMZ إلى تنسيقات أخرى عبر .NET 
+title: قم بالتحويل من WMZ (غلاف Windows Media Player المضغوط) إلى تنسيقات أخرى عبر واجهة برمجة تطبيقات الصور .NET 
 weight: 3920
 url: /ar/net/conversion/from/wmz 
 lang: ar
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: باستخدام Aspose.Imaging ، يمكنك بسهولة التحويل من WMZ إلى تنسيقات أخرى
+description: باستخدام Aspose.Imaging ، يمكنك بسهولة التحويل من WMZ(غلاف Windows Media Player المضغوط) إلى تنسيقات أخرى
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل ملفات الصور من WMZ عبر .NET" h2="تحويل من WMZ إلى صيغ أخرى" downloadText="تحميل" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل ملفات الصور من WMZ (غلاف Windows Media Player المضغوط) عبر .NET image API" h2="تحويل من غلاف Windows Media Player المضغوط إلى تنسيقات أخرى باستخدام Aspose.Imaging API" downloadText="تحميل" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="جميع تنسيقات الصور المدعومة للتحويل من WMZ" %}}
-يسمح Aspose.Imaging بأتمتة الكثير من التحويلات من WMZ إلى تنسيقات أخرى على منصة .NET.
+{{% blocks/products/pf/feature-page-section  h2="جميع تنسيقات الصور المدعومة المراد تحويلها من WMZ (غلاف Windows Media Player المضغوط)" %}}
+يسمح Aspose.Imaging بأتمتة الكثير من التحويلات من WMZ إلى تنسيقات أخرى على منصة .NET. WMZ هو امتداد ملف لتنسيق ملف السطح في / من أجل / يستخدم بواسطة Windows Media Player. ملف WMZ هو في الأساس ملف WMF مضغوط بتنسيق XML.
 <br/>
-القائمة الكاملة للتحويلات المدعومة:
+القائمة الكاملة للتحويلات المدعومة من WMZ:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -1,21 +1,21 @@
 ﻿---
-title: Konversikan dari DICOM ke format lain Melalui .NET 
+title: Konversikan dari DICOM(Pencitraan & Komunikasi Digital) ke format lain Melalui API gambar .NET 
 weight: 3920
 url: /id/net/conversion/from/dicom 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi dari DICOM ke format lain
+description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi dari DICOM(Pencitraan & Komunikasi Digital) ke format lain
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar dari DICOM Melalui .NET" h2="Konversikan dari DICOM ke format lain" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar dari DICOM(Pencitraan & Komunikasi Digital) Melalui API gambar .NET" h2="Konversikan dari Pencitraan & Komunikasi Digital ke format lain menggunakan Aspose.Imaging API" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari DICOM" %}}
-Aspose.Imaging memungkinkan mengotomatiskan banyak konversi dari DICOM ke format lain di platform .NET.
+{{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari DICOM(Pencitraan & Komunikasi Digital)" %}}
+Aspose.Imaging memungkinkan mengotomatiskan banyak konversi dari DICOM ke format lain di platform .NET. DICOM adalah singkatan dari Digital Imaging and Communications in Medicine dan berkaitan dengan bidang Informatika Medis. DICOM adalah kombinasi definisi format file dan protokol komunikasi jaringan. DICOM menggunakan ekstensi .DCM. .DCM ada dalam dua format yang berbeda yaitu format 1.x dan format 2.x. DCM Format 1.x selanjutnya tersedia dalam dua versi normal dan diperpanjang. DICOM digunakan untuk integrasi perangkat pencitraan medis seperti printer, server, pemindai dll dari berbagai vendor dan juga berisi data identifikasi setiap pasien untuk keunikan. File DICOM dapat dibagi antara dua pihak jika mereka mampu menerima data gambar dalam format DICOM. Bagian komunikasi DICOM adalah protokol lapisan aplikasi dan menggunakan TCP/IP untuk berkomunikasi antar entitas. Protokol HTTP dan HTTPS digunakan untuk layanan web DICOM. Versi yang didukung oleh layanan web adalah 1.0, 1.1, 2 atau yang lebih baru.
 <br/>
-Daftar lengkap konversi yang didukung:
+Daftar lengkap konversi yang didukung dari DICOM:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

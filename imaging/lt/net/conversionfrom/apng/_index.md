@@ -1,21 +1,21 @@
 ﻿---
-title: Konvertuoti iš APNG į kitus formatus per .NET 
+title: Konvertuoti iš APNG(Animuota nešiojama tinklo grafika) į kitus formatus naudojant .NET vaizdo API 
 weight: 3920
 url: /lt/net/conversion/from/apng 
 lang: lt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Naudodami Aspose.Imaging galite lengvai konvertuoti iš APNG į kitus formatus
+description: Naudodami Aspose.Imaging galite lengvai konvertuoti iš APNG(Animuota nešiojama tinklo grafika) į kitus formatus
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas iš APNG naudojant .NET" h2="Konvertuoti iš APNG į kitus formatus" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas iš APNG(Animuota nešiojama tinklo grafika) naudojant .NET vaizdo API" h2="Konvertuokite iš Animuota nešiojama tinklo grafika į kitus formatus naudodami Aspose.Imaging API" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai konvertuoti iš APNG" %}}
-Aspose.Imaging leidžia automatizuoti daug konversijų iš APNG į kitus formatus .NET platformoje.
+{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai, konvertuojami iš APNG(Animuota nešiojama tinklo grafika)" %}}
+Aspose.Imaging leidžia automatizuoti daug konversijų iš APNG į kitus formatus .NET platformoje. Failas su plėtiniu .apng (Animated Portable Network Graphics) yra rastrinis grafinis formatas ir yra neoficialus nešiojamojo tinklo grafikos (PNG) plėtinys. Jį sudaro keli kadrai (kiekvienas PNG vaizdas), vaizduojantis animacijos seką. Tai suteikia panašią vizualizaciją kaip GIF failas. APNG failai palaiko 24 bitų vaizdus ir 8 bitų skaidrumą. APNG yra suderinamas su neanimuotais GIF failais. APNG failuose naudojamas tas pats .png plėtinys ir juos gali atidaryti tokios programos kaip „Mozilla Firefox“, „Chrome“ su APNG palaikymu, „iMessage“ programos, skirtos „iOS 10“.
 <br/>
-Visas palaikomų konversijų sąrašas:
+Visas palaikomų konversijų iš APNG sąrašas:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

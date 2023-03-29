@@ -1,21 +1,21 @@
 ﻿---
-title: Convert from SVG to other formats Via .NET 
+title: Convert from SVG(Scalable Vector Graphics) to other formats Via .NET image API 
 weight: 3920
 url: /net/conversion/from/svg 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Using Aspose.Imaging you can easily convert from SVG to other formats
+description: Using Aspose.Imaging for .NET you can easily convert from SVG(Scalable Vector Graphics) to other formats
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Image Files Conversion from SVG Via .NET" h2="Convert from SVG to other formats" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Image Files Conversion from SVG(Scalable Vector Graphics) Via .NET image API" h2="Convert from Scalable Vector Graphics to other formats using Aspose.Imaging API" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from SVG" %}}
-Aspose.Imaging allows automate a lot of conversions from SVG to other formats on .NET platform.
+{{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from SVG(Scalable Vector Graphics)" %}}
+Aspose.Imaging allows automate a lot of conversions from SVG to other formats on .NET platform. SVG files are Scalable Vector Graphics Files that use XML based text format for describing the appearance of image. The word Scalable refers to the fact that the SVG can be scaled to different sizes without losing any quality. Text based description of such files make them independent of resolution. It is one of the mostly used format for building website and print graphics in order to achieve scalability. The format can only be used for two-dimensional graphics though. SVG files can be viewed/opened in almost all modern browsers including Chrome, Internet Explorer, Firefox, and Safari.
 <br/>
-Full list of supported conversions:
+Full list of supported conversions from SVG:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

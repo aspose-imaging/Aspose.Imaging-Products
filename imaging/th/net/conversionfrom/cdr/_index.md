@@ -1,21 +1,21 @@
 ﻿---
-title: แปลงจาก CDR เป็นรูปแบบอื่นผ่าน .NET 
+title: แปลงจาก CDR(วาดภาพเวกเตอร์) เป็นรูปแบบอื่นผ่าน .NET image API 
 weight: 3920
 url: /th/net/conversion/from/cdr 
 lang: th
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: เมื่อใช้ Aspose.Imaging คุณสามารถแปลงจาก CDR เป็นรูปแบบอื่นได้อย่างง่ายดาย
+description: เมื่อใช้ Aspose.Imaging คุณสามารถแปลงจาก CDR(วาดภาพเวกเตอร์) เป็นรูปแบบอื่นได้อย่างง่ายดาย
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="การแปลงไฟล์รูปภาพจาก CDR ผ่าน .NET" h2="แปลงจาก CDR เป็นรูปแบบอื่น" downloadText="ดาวน์โหลด" >}}
+{{< blocks/products/pf/feature-page-header h1="การแปลงไฟล์อิมเมจจาก CDR(วาดภาพเวกเตอร์) ผ่าน .NET image API" h2="แปลงจาก วาดภาพเวกเตอร์ เป็นรูปแบบอื่นโดยใช้ Aspose.Imaging API" downloadText="ดาวน์โหลด" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="รูปแบบภาพที่รองรับทั้งหมดที่จะแปลงจาก CDR" %}}
-Aspose.Imaging ช่วยให้การแปลงจำนวนมากโดยอัตโนมัติจาก CDR เป็นรูปแบบอื่นบนแพลตฟอร์ม .NET
+{{% blocks/products/pf/feature-page-section  h2="รูปแบบรูปภาพที่รองรับทั้งหมดที่จะแปลงจาก CDR(วาดภาพเวกเตอร์)" %}}
+Aspose.Imaging ช่วยให้การแปลงจำนวนมากโดยอัตโนมัติจาก CDR เป็นรูปแบบอื่นบนแพลตฟอร์ม .NET ไฟล์ CDR เป็นไฟล์ภาพวาดเวกเตอร์ที่สร้างขึ้นด้วย CorelDRAW สำหรับจัดเก็บภาพดิจิทัลที่เข้ารหัสและบีบอัด ไฟล์รูปวาดดังกล่าวประกอบด้วยข้อความ เส้น รูปร่าง รูปภาพ สี และเอฟเฟกต์สำหรับการแสดงเนื้อหารูปภาพแบบเวกเตอร์ ไฟล์ CDR สามารถเปิดได้ด้วย CorelDRAW เป็นแอปพลิเคชันหลักและยังสามารถแปลงเป็นรูปแบบอื่น ๆ เช่น PDF, JPG, PNG, BMP และ AI ใช้สำหรับแสดงข้อมูลกราฟิกต่างๆ เช่น โบรชัวร์ แท็บลอยด์ ซองจดหมาย และไปรษณียบัตร นอกจาก CorelDRAW แล้ว ผลิตภัณฑ์ Corel อื่นๆ เช่น Corel Paintshop Pro และชุดกราฟิก CorelDRAW ยังสามารถเปิดรูปแบบไฟล์ CDR ได้อีกด้วย
 <br/>
-รายการการแปลงที่รองรับทั้งหมด:
+รายการทั้งหมดของการแปลงที่รองรับจาก CDR:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

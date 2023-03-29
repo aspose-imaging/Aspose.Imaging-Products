@@ -1,21 +1,21 @@
 ﻿---
-title: Convertir de TGA vers d'autres formats via .NET 
+title: Konvertieren Sie von TGA(Targa-Grafik) in andere Formate über die Bild-API von .NET 
 weight: 3920
 url: /de/net/conversion/from/tga 
 lang: de
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Mit Aspose.Imaging können Sie ganz einfach von TGA in andere Formate konvertieren
+description: Mit Aspose.Imaging können Sie ganz einfach von TGA(Targa-Grafik) in andere Formate konvertieren
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertierung von Bilddateien von TGA über .NET" h2="Konvertieren Sie von TGA in andere Formate" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertierung von Bilddateien aus TGA (Targa-Grafik) über die Bild-API von .NET" h2="Konvertieren Sie mithilfe der Aspose.Imaging-API von Targa-Grafik in andere Formate" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bildformate zum Konvertieren von TGA" %}}
-Aspose.Imaging ermöglicht die Automatisierung vieler Konvertierungen von TGA in andere Formate auf der .NET-Plattform.
+{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bildformate zum Konvertieren von TGA(Targa-Grafik)" %}}
+Aspose.Imaging ermöglicht die Automatisierung vieler Konvertierungen von TGA in andere Formate auf der .NET-Plattform. Truevision TGA, oft auch als TARGA bezeichnet, ist ein Rastergrafik-Dateiformat, das von Truevision Inc. (jetzt Teil von Avid Technology) entwickelt wurde. Es war das native Format von TARGA- und VISTA-Karten, die die ersten Grafikkarten für IBM-kompatible PCs waren, die Highcolor/Truecolor-Anzeigen unterstützten.
 <br/>
-Vollständige Liste der unterstützten Konvertierungen:
+Vollständige Liste der unterstützten Konvertierungen von TGA:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

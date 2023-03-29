@@ -1,21 +1,21 @@
 ﻿---
-title: Convertir de EMF vers d'autres formats via .NET 
+title: Convertir de EMF(Format de métafichier amélioré) vers d'autres formats via l'API d'image .NET 
 weight: 3920
 url: /fr/net/conversion/from/emf 
 lang: fr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: En utilisant Aspose.Imaging, vous pouvez facilement convertir de EMF vers un autre format
+description: En utilisant Aspose.Imaging, vous pouvez facilement convertir de EMF(Format de métafichier amélioré) vers un autre format
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversion de fichiers image à partir de EMF via .NET" h2="Convertir de EMF vers un autre format" downloadText="Télécharger" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversion de fichiers image à partir de EMF(Format de métafichier amélioré) via l'API d'image .NET" h2="Convertir de Format de métafichier amélioré vers d'autres formats à l'aide de l'API Aspose.Imaging" downloadText="Télécharger" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tous les formats d'image pris en charge pour convertir à partir de EMF" %}}
-Aspose.Imaging permet d'automatiser de nombreuses conversions de EMF vers d'autres formats sur la plate-forme .NET.
+{{% blocks/products/pf/feature-page-section  h2="Tous les formats d'image pris en charge pour convertir à partir de EMF(Format de métafichier amélioré)" %}}
+Aspose.Imaging permet d'automatiser de nombreuses conversions de EMF vers d'autres formats sur la plate-forme .NET. Le format de métafichier amélioré (EMF) stocke les images graphiques indépendamment du périphérique. Les métafichiers d'EMF comprennent des enregistrements de longueur variable dans l'ordre chronologique qui peuvent restituer l'image stockée après analyse sur n'importe quel périphérique de sortie. Ces enregistrements de longueur variable peuvent être des définitions d'objets fermés, des commandes de dessin et des propriétés graphiques essentielles pour restituer l'image avec précision. Lorsqu'un appareil ouvre un métafichier EMF à l'aide de son propre environnement graphique, les proportions, dimensions, couleurs et autres propriétés graphiques de l'image d'origine restent les mêmes quelle que soit la plate-forme de l'appareil d'ouverture.
 <br/>
-Liste complète des conversions prises en charge :
+Liste complète des conversions prises en charge à partir de EMF :
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

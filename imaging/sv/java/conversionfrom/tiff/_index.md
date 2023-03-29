@@ -1,20 +1,20 @@
 ﻿---
-title: Konvertera från TIFF till andra format som stöds med Aspose.Imaging för Java 
+title: Konvertera från TIFF(Taggad bildformat) till andra format som stöds med Aspose.Imaging för Java API 
 weight: 3920
 url: /sv/java/conversion/from/tiff 
 lang: sv
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging kan enkelt konvertera från TIFF till andra format med hjälp av Java-plattformen
+description: Aspose.Imaging kan enkelt konvertera från TIFF(Taggad bildformat) till andra format med hjälp av Java-plattformen
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertera bilder från formatet TIFF med Aspose.Imaging för Java" h2="Konvertera från TIFF bildformat till andra format med Java-plattformen" downloadText="Ladda ner" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertera bilder från formatet TIFF med Aspose.Imaging för Java" h2="Konvertera från TIFF(Taggad bildformat) bildformat till andra format med Java-plattformen" downloadText="Ladda ner" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Brett spektrum av bildformat som kan konverteras från TIFF-bilder med Aspose.Imaging för Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Brett spektrum av bildformat som kan konverteras från TIFF(Taggad bildformat)-bilder med Aspose.Imaging för Java" %}}
 Du kan programmatiskt konvertera från formatet TIFF till andra tillgängliga format med hjälp av
-Aspose.Imaging för Java.
+Aspose.Imaging för Java. TIFF eller TIF, Tagged Image File Format, representerar rasterbilder som är avsedda för användning på en mängd olika enheter som överensstämmer med denna filformatstandard. Den kan beskriva bilevel-, gråskala-, palett-färg- och fullfärgsbilddata i flera färgrymder. Den stöder såväl förlustfria som förlustfria komprimeringssystem för att välja mellan utrymme och tid för applikationer som använder formatet. Formatet är utbyggbart och har genomgått flera revisioner som gör det möjligt att inkludera en obegränsad mängd privat eller specialinformation. Formatet är inte maskinberoende och är fritt från gränser som processor, operativsystem eller filsystem.
 <br/>
 Det finns följande konverteringar ombord:
 {{% /blocks/products/pf/feature-page-section %}}

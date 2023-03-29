@@ -1,20 +1,20 @@
 ﻿---
-title: 使用 Aspose.Imaging for Java 从 APNG 转换为其他支持的格式 
+title: 使用 Aspose.Imaging for Java API 从 APNG(动画便携式网络图形) 转换为其他支持的格式 
 weight: 3920
 url: /zh-hans/java/conversion/from/apng 
 lang: zh-hans
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging 可以使用 Java 平台轻松地将 APNG 转换为其他格式
+description: Aspose.Imaging 可以使用 Java 平台轻松地将 APNG(动画便携式网络图形) 转换为其他格式
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="使用 Aspose.Imaging for Java 从 APNG 格式转换图像" h2="使用 Java 平台将 APNG 图像格式转换为其他格式" downloadText="下载" >}}
+{{< blocks/products/pf/feature-page-header h1="使用 Aspose.Imaging for Java 从 APNG 格式转换图像" h2="使用 Java 平台将 APNG(动画便携式网络图形) 图像格式转换为其他格式" downloadText="下载" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="可以使用 Aspose.Imaging for Java 从 APNG 图像转换的各种图像格式" %}}
+{{% blocks/products/pf/feature-page-section  h2="可以使用 Aspose.Imaging for Java 从 APNG(动画便携式网络图形) 图像转换的各种图像格式" %}}
 您可以使用编程方式将 APNG 格式转换为其他可用格式
-用于 Java 的 Aspose.Imaging。
+用于 Java 的 Aspose.Imaging。 具有 .apng（动画便携式网络图形）扩展名的文件是一种光栅图形格式，是便携式网络图形 (PNG) 的非官方扩展名。它由表示动画序列的多个帧（每个 PNG 图像）组成。这提供了与 GIF 文件类似的可视化效果。 APNG 文件支持 24 位图像和 8 位透明度。 APNG 向后兼容非动画 GIF 文件。 APNG 文件使用相同的 .png 扩展名，可以由 Mozilla Firefox、支持 APNG 的 Chrome、iOS 10 的 iMessage 应用程序等应用程序打开。
 <br/>
 船上有以下转换：
 {{% /blocks/products/pf/feature-page-section %}}

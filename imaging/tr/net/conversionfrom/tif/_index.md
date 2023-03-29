@@ -1,21 +1,21 @@
 ﻿---
-title: .NET Aracılığıyla TIF'ten diğer biçimlere dönüştürün 
+title: .NET görüntü API'sı aracılığıyla TIF(Etiketli Görüntü Formatı) biçimini diğer biçimlere dönüştürün 
 weight: 3920
 url: /tr/net/conversion/from/tif 
 lang: tr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging'i kullanarak TIF biçimini kolayca başka biçimlere dönüştürebilirsiniz
+description: Aspose.Imaging'i kullanarak TIF(Etiketli Görüntü Formatı) biçimini kolayca başka biçimlere dönüştürebilirsiniz
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET Yoluyla TIF'den Görüntü Dosyaları Dönüştürme" h2="TIF biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET image API aracılığıyla TIF(Etiketli Görüntü Formatı)'den Görüntü Dosyaları Dönüşümü" h2="Aspose.Imaging API kullanarak Etiketli Görüntü Formatı formatını diğer formatlara dönüştürün" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="TIF'den dönüştürülecek desteklenen tüm resim biçimleri" %}}
-Aspose.Imaging, .NET platformunda TIF'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir.
+{{% blocks/products/pf/feature-page-section  h2="TIF(Etiketli Görüntü Formatı) biçiminden dönüştürülecek desteklenen tüm resim biçimleri" %}}
+Aspose.Imaging, .NET platformunda TIF'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir. 
 <br/>
-Desteklenen dönüşümlerin tam listesi:
+TIF tarafından desteklenen dönüşümlerin tam listesi:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

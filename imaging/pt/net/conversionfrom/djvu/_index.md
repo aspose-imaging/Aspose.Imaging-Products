@@ -1,21 +1,21 @@
 ﻿---
-title: Converta de DJVU para outros formatos via .NET 
+title: Converta de DJVU(Formato gráfico) para outros formatos por meio da API de imagem .NET 
 weight: 3920
 url: /pt/net/conversion/from/djvu 
 lang: pt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging você pode facilmente converter de DJVU para outros formatos
+description: Usando Aspose.Imaging você pode facilmente converter de DJVU(Formato gráfico) para outros formatos
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversão de arquivos de imagem de DJVU via .NET" h2="Converter de DJVU para outros formatos" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversão de arquivos de imagem de DJVU(Formato gráfico) por meio da API de imagem .NET" h2="Converta de Formato gráfico para outros formatos usando a API Aspose.Imaging" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos os formatos de imagem compatíveis para conversão de DJVU" %}}
-Aspose.Imaging permite automatizar muitas conversões de DJVU para outros formatos na plataforma .NET.
+{{% blocks/products/pf/feature-page-section  h2="Todos os formatos de imagem compatíveis para conversão de DJVU(Formato gráfico)" %}}
+Aspose.Imaging permite automatizar muitas conversões de DJVU para outros formatos na plataforma .NET. DjVu, pronunciado como “déjà vu”, é um formato de arquivo gráfico destinado a documentos e livros digitalizados, especialmente aqueles que contêm a combinação de texto, desenhos, imagens e fotografias. Foi desenvolvido pela AT&T Labs. Ele usa várias técnicas, como separação de camadas de imagem de texto e imagens de fundo, carregamento progressivo, codificação aritmética e compactação com perdas para imagens bitonais. Como o arquivo DJVU pode conter imagens coloridas, fotografias, texto e desenhos compactados e de alta qualidade e pode ser salvo em menos espaço, portanto, é usado na web como eBooks, manuais, jornais, documentos antigos etc.
 <br/>
-Lista completa de conversões suportadas:
+Lista completa de conversões suportadas de DJVU:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

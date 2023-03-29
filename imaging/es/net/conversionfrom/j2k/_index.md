@@ -1,21 +1,21 @@
 ﻿---
-title: Convertir de J2K vers d'autres formats via .NET 
+title: Convierta de J2K(Imagen comprimida Wavelet) a otros formatos a través de la API de imágenes .NET 
 weight: 3920
 url: /es/net/conversion/from/j2k 
 lang: es
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging puede convertir fácilmente de J2K a otros formatos
+description: Usando Aspose.Imaging puede convertir fácilmente de J2K(Imagen comprimida Wavelet) a otros formatos
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversión de archivos de imagen de J2K a través de .NET" h2="Convertir de J2K a otros formatos" downloadText="Descargar" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversión de archivos de imagen de J2K(Imagen comprimida Wavelet) a través de la API de imagen .NET" h2="Convierta de Imagen comprimida Wavelet a otros formatos usando Aspose.Imaging API" downloadText="Descargar" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos los formatos de imagen admitidos para convertir desde J2K" %}}
-Aspose.Imaging permite automatizar muchas conversiones de J2K a otros formatos en la plataforma .NET.
+{{% blocks/products/pf/feature-page-section  h2="Todos los formatos de imagen admitidos para convertir desde J2K(Imagen comprimida Wavelet)" %}}
+Aspose.Imaging permite automatizar muchas conversiones de J2K a otros formatos en la plataforma .NET. Un archivo J2K es una imagen que se comprime mediante la compresión wavelet en lugar de la compresión DCT.
 <br/>
-Lista completa de conversiones admitidas:
+Lista completa de conversiones admitidas de J2K:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

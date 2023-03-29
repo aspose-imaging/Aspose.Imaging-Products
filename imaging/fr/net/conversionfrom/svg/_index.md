@@ -1,21 +1,21 @@
 ﻿---
-title: Convertir de SVG vers d'autres formats via .NET 
+title: Convertir de SVG(Image Vectorielle) vers d'autres formats via l'API d'image .NET 
 weight: 3920
 url: /fr/net/conversion/from/svg 
 lang: fr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: En utilisant Aspose.Imaging, vous pouvez facilement convertir de SVG vers un autre format
+description: En utilisant Aspose.Imaging, vous pouvez facilement convertir de SVG(Image Vectorielle) vers un autre format
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversion de fichiers image à partir de SVG via .NET" h2="Convertir de SVG vers un autre format" downloadText="Télécharger" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversion de fichiers image à partir de SVG(Image Vectorielle) via l'API d'image .NET" h2="Convertir de Image Vectorielle vers d'autres formats à l'aide de l'API Aspose.Imaging" downloadText="Télécharger" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tous les formats d'image pris en charge pour convertir à partir de SVG" %}}
-Aspose.Imaging permet d'automatiser de nombreuses conversions de SVG vers d'autres formats sur la plate-forme .NET.
+{{% blocks/products/pf/feature-page-section  h2="Tous les formats d'image pris en charge pour convertir à partir de SVG(Image Vectorielle)" %}}
+Aspose.Imaging permet d'automatiser de nombreuses conversions de SVG vers d'autres formats sur la plate-forme .NET. Les fichiers SVG sont des fichiers graphiques vectoriels évolutifs qui utilisent un format de texte basé sur XML pour décrire l'apparence de l'image. Le mot Scalable fait référence au fait que le SVG peut être mis à l'échelle à différentes tailles sans perte de qualité. La description textuelle de ces fichiers les rend indépendants de la résolution. C'est l'un des formats les plus utilisés pour créer des sites Web et des graphiques d'impression afin d'atteindre l'évolutivité. Le format ne peut cependant être utilisé que pour les graphiques en deux dimensions. Les fichiers SVG peuvent être visualisés/ouverts dans presque tous les navigateurs modernes, y compris Chrome, Internet Explorer, Firefox et Safari.
 <br/>
-Liste complète des conversions prises en charge :
+Liste complète des conversions prises en charge à partir de SVG :
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

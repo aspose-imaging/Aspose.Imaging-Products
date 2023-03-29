@@ -1,21 +1,21 @@
 ﻿---
-title: Конвертировать из APNG в другие форматы с помощью .NET 
+title: Преобразование из APNG(Анимированная портативная сетевая графика) в другие форматы с помощью API изображений .NET 
 weight: 3920
 url: /ru/net/conversion/from/apng 
 lang: ru
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Используя Aspose.Imaging, вы можете легко конвертировать из APNG в другие форматы.
+description: Используя Aspose.Imaging, вы можете легко конвертировать из APNG(Анимированная портативная сетевая графика) в другие форматы.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование файлов изображений из APNG с помощью .NET" h2="Конвертировать из APNG в другие форматы" downloadText="Скачать" >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование файлов изображений из APNG(Анимированная портативная сетевая графика) через .NET API изображений" h2="Преобразование из Анимированная портативная сетевая графика в другие форматы с помощью Aspose.Imaging API" downloadText="Скачать" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Все поддерживаемые форматы изображений для преобразования из APNG" %}}
-Aspose.Imaging позволяет автоматизировать множество преобразований из APNG в другие форматы на платформе .NET.
+{{% blocks/products/pf/feature-page-section  h2="Все поддерживаемые форматы изображений для преобразования из APNG(Анимированная портативная сетевая графика)" %}}
+Aspose.Imaging позволяет автоматизировать множество преобразований из APNG в другие форматы на платформе .NET. Файл с расширением .apng (Animated Portable Network Graphics) представляет собой растровый графический формат и является неофициальным расширением Portable Network Graphics (PNG). Он состоит из нескольких кадров (каждый из изображений PNG), которые представляют последовательность анимации. Это дает визуализацию, аналогичную файлу GIF. Файлы APNG поддерживают 24-битные изображения и 8-битную прозрачность. APNG обратно совместим с неанимированными файлами GIF. Файлы APNG используют то же расширение .png и могут открываться такими приложениями, как Mozilla Firefox, Chrome с поддержкой APNG, приложениями iMessage для iOS 10.
 <br/>
-Полный список поддерживаемых преобразований:
+Полный список поддерживаемых преобразований из APNG:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

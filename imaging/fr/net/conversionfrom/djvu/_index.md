@@ -1,21 +1,21 @@
 ﻿---
-title: Convertir de DJVU vers d'autres formats via .NET 
+title: Convertir de DJVU(Format graphique) vers d'autres formats via l'API d'image .NET 
 weight: 3920
 url: /fr/net/conversion/from/djvu 
 lang: fr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: En utilisant Aspose.Imaging, vous pouvez facilement convertir de DJVU vers un autre format
+description: En utilisant Aspose.Imaging, vous pouvez facilement convertir de DJVU(Format graphique) vers un autre format
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversion de fichiers image à partir de DJVU via .NET" h2="Convertir de DJVU vers un autre format" downloadText="Télécharger" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversion de fichiers image à partir de DJVU(Format graphique) via l'API d'image .NET" h2="Convertir de Format graphique vers d'autres formats à l'aide de l'API Aspose.Imaging" downloadText="Télécharger" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tous les formats d'image pris en charge pour convertir à partir de DJVU" %}}
-Aspose.Imaging permet d'automatiser de nombreuses conversions de DJVU vers d'autres formats sur la plate-forme .NET.
+{{% blocks/products/pf/feature-page-section  h2="Tous les formats d'image pris en charge pour convertir à partir de DJVU(Format graphique)" %}}
+Aspose.Imaging permet d'automatiser de nombreuses conversions de DJVU vers d'autres formats sur la plate-forme .NET. DjVu, prononcé comme "déjà vu", est un format de fichier graphique destiné aux documents numérisés et aux livres, en particulier ceux qui contiennent la combinaison de texte, dessins, images et photographies. Il a été développé par AT&T Labs. Il utilise plusieurs techniques telles que la séparation des couches d'image du texte et des images d'arrière-plan, le chargement progressif, le codage arithmétique et la compression avec perte pour les images bitonales. Étant donné que le fichier DJVU peut contenir des images, des photographies, du texte et des dessins en couleur compressés mais de haute qualité et peut donc être enregistré dans moins d'espace, il est utilisé sur le Web sous forme de livres électroniques, de manuels, de journaux, de documents anciens, etc.
 <br/>
-Liste complète des conversions prises en charge :
+Liste complète des conversions prises en charge à partir de DJVU :
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

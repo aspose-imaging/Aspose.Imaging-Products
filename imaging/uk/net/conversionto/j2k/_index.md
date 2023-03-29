@@ -1,19 +1,19 @@
 ﻿---
-title: Перетворіть зображення у формат J2K з інших підтримуваних форматів за допомогою платформи .NET 
+title: Перетворіть зображення у формат J2K(Wavelet Compressed Image) з інших підтримуваних форматів за допомогою платформи .NET 
 weight: 3920
 url: /uk/net/conversion/to/j2k 
 lang: uk
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: За допомогою бібліотеки Aspose.Imaging для .NET можна легко конвертувати в J2K інші підтримувані формати зображень
+description: За допомогою бібліотеки Aspose.Imaging для .NET можна легко конвертувати в J2K(Wavelet Compressed Image) інші підтримувані формати зображень
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Перетворюйте файли зображень у формат зображення J2K за допомогою платформи .NET" h2="Перетворіть у формат J2K інші формати за допомогою бібліотеки Aspose.Imaging для .NET" downloadText="Завантажити" >}}
+{{< blocks/products/pf/feature-page-header h1="Перетворюйте файли зображень у формат зображення J2K(Wavelet Compressed Image) за допомогою платформи .NET" h2="Перетворіть у формат Wavelet Compressed Image інші формати за допомогою бібліотеки Aspose.Imaging для .NET" downloadText="Завантажити" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані перетворення у формат J2K за допомогою бібліотеки Aspose.Imaging для .NET" %}}
-Використовуючи бібліотеку Aspose.Imaging, ви можете програмно конвертувати різні формати зображень у зображення J2K.
+{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані перетворення у формат J2K(Wavelet Compressed Image) за допомогою бібліотеки Aspose.Imaging для .NET" %}}
+Використовуючи бібліотеку Aspose.Imaging, ви можете програмно конвертувати різні формати зображень у зображення J2K. Файл J2K — це зображення, яке стискається за допомогою вейвлет-стиснення замість стиснення DCT.
 <br/>
 Підтримуються наступні перетворення:
 {{% /blocks/products/pf/feature-page-section %}}

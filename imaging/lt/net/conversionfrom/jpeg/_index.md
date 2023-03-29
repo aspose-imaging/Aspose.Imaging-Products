@@ -1,21 +1,21 @@
 ﻿---
-title: Konvertuoti iš JPEG į kitus formatus per .NET 
+title: Konvertuoti iš JPEG(Jungtinė fotografijos ekspertų grupė) į kitus formatus naudojant .NET vaizdo API 
 weight: 3920
 url: /lt/net/conversion/from/jpeg 
 lang: lt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Naudodami Aspose.Imaging galite lengvai konvertuoti iš JPEG į kitus formatus
+description: Naudodami Aspose.Imaging galite lengvai konvertuoti iš JPEG(Jungtinė fotografijos ekspertų grupė) į kitus formatus
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas iš JPEG naudojant .NET" h2="Konvertuoti iš JPEG į kitus formatus" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas iš JPEG(Jungtinė fotografijos ekspertų grupė) naudojant .NET vaizdo API" h2="Konvertuokite iš Jungtinė fotografijos ekspertų grupė į kitus formatus naudodami Aspose.Imaging API" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai konvertuoti iš JPEG" %}}
-Aspose.Imaging leidžia automatizuoti daug konversijų iš JPEG į kitus formatus .NET platformoje.
+{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai, konvertuojami iš JPEG(Jungtinė fotografijos ekspertų grupė)" %}}
+Aspose.Imaging leidžia automatizuoti daug konversijų iš JPEG į kitus formatus .NET platformoje. JPEG yra vaizdo formatas, kuris išsaugomas naudojant nuostolingo glaudinimo metodą. Išvesties vaizdas dėl suspaudimo yra kompromisas tarp saugojimo dydžio ir vaizdo kokybės. Vartotojai gali reguliuoti suspaudimo lygį, kad pasiektų norimą kokybės lygį, tuo pačiu sumažindami saugyklos dydį. Vaizdo kokybei nežymiai pakenks, jei vaizdui taikomas glaudinimas 10:1. Kuo didesnė suspaudimo vertė, tuo didesnis vaizdo kokybės pablogėjimas.
 <br/>
-Visas palaikomų konversijų sąrašas:
+Visas palaikomų konversijų iš JPEG sąrašas:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

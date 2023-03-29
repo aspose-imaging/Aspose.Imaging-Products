@@ -1,21 +1,21 @@
 ﻿---
-title: Chuyển đổi từ J2K sang các định dạng khác Qua .NET 
+title: Chuyển đổi từ J2K(Hình ảnh nén Wavelet) sang các định dạng khác Qua API hình ảnh .NET 
 weight: 3920
 url: /vi/net/conversion/from/j2k 
 lang: vi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng chuyển đổi từ J2K sang các định dạng khác
+description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng chuyển đổi từ J2K(Hình ảnh nén Wavelet) sang các định dạng khác
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Chuyển đổi tệp hình ảnh từ J2K qua .NET" h2="Chuyển đổi từ J2K sang định dạng khác" downloadText="Tải xuống" >}}
+{{< blocks/products/pf/feature-page-header h1="Chuyển đổi tệp hình ảnh từ J2K(Hình ảnh nén Wavelet) qua API hình ảnh .NET" h2="Chuyển đổi từ Hình ảnh nén Wavelet sang các định dạng khác bằng API Aspose.Imaging" downloadText="Tải xuống" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tất cả các định dạng hình ảnh được hỗ trợ để chuyển đổi từ J2K" %}}
-Aspose.Imaging cho phép tự động hóa rất nhiều chuyển đổi từ J2K sang các định dạng khác trên nền tảng .NET.
+{{% blocks/products/pf/feature-page-section  h2="Tất cả các định dạng hình ảnh được hỗ trợ để chuyển đổi từ J2K(Hình ảnh nén Wavelet)" %}}
+Aspose.Imaging cho phép tự động hóa rất nhiều chuyển đổi từ J2K sang các định dạng khác trên nền tảng .NET. Tệp J2K là hình ảnh được nén bằng cách sử dụng nén wavelet thay vì nén DCT.
 <br/>
-Danh sách đầy đủ các chuyển đổi được hỗ trợ:
+Danh sách đầy đủ các chuyển đổi được hỗ trợ từ J2K:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -1,21 +1,21 @@
 ﻿---
-title: Konvertera från WMZ till andra format via .NET 
+title: Konvertera från WMZ(Komprimerat Windows Media Player-skal) till andra format via .NET bild-API 
 weight: 3920
 url: /sv/net/conversion/from/wmz 
 lang: sv
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Med Aspose.Imaging kan du enkelt konvertera från WMZ till ett annat format
+description: Med Aspose.Imaging kan du enkelt konvertera från WMZ(Komprimerat Windows Media Player-skal) till ett annat format
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertering av bildfiler från WMZ via .NET" h2="Konvertera från WMZ till ett annat format" downloadText="Ladda ner" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertering av bildfiler från WMZ(Komprimerat Windows Media Player-skal) via .NET bild-API" h2="Konvertera från Komprimerat Windows Media Player-skal till andra format med Aspose.Imaging API" downloadText="Ladda ner" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alla bildformat som stöds för att konvertera från WMZ" %}}
-Aspose.Imaging låter automatisera många konverteringar från WMZ till andra format på .NET-plattformen.
+{{% blocks/products/pf/feature-page-section  h2="Alla bildformat som stöds att konvertera från WMZ(Komprimerat Windows Media Player-skal)" %}}
+Aspose.Imaging låter automatisera många konverteringar från WMZ till andra format på .NET-plattformen. WMZ är ett filtillägg för ett skalfilformat i/för/används av Windows Media Player. En WMZ-fil är i grunden en zippad WMF-fil i XML.
 <br/>
-Fullständig lista över omvandlingar som stöds:
+Fullständig lista över omvandlingar som stöds från WMZ:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

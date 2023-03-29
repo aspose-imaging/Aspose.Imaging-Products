@@ -1,20 +1,20 @@
 ﻿---
-title: Convert from TIFF to other supported formats using Aspose.Imaging for Java 
+title: Convert from TIFF(Tagged Image Format) to other supported formats using Aspose.Imaging for Java API 
 weight: 3920
 url: /java/conversion/from/tiff 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging can easily convert from TIFF to other formats using Java platform
+description: Aspose.Imaging API can easily convert from TIFF(Tagged Image Format) to other formats using Java platform
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert images from TIFF format using Aspose.Imaging for Java" h2="Convert from TIFF image format to other formats using Java platform" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert images from TIFF format using Aspose.Imaging for Java" h2="Convert from TIFF(Tagged Image Format) image format to other formats using Java platform" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wide spectrum of image formats that can be converted from TIFF images using Aspose.Imaging for Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Wide spectrum of image formats that can be converted from TIFF(Tagged Image Format) images using Aspose.Imaging for Java" %}}
 You can programmaticaly convert from TIFF format to other available formats using 
-Aspose.Imaging for Java.
+Aspose.Imaging for Java. TIFF or TIF, Tagged Image File Format, represents raster images that are meant for usage on a variety of devices that comply with this file format standard. It is capable of describing bilevel, grayscale, palette-color and full-color image data in several color spaces. It supports lossy as well as lossless compression schemes to choose between space and time for applications using the format. The format is extensible and has underwent several revisions that allows the inclusion of an unlimited amount of private or special-purpose information. The format is not machine dependent and is free from bounds like processor, operating system, or file systems.
 <br/>
 There are following conversions on board:
 {{% /blocks/products/pf/feature-page-section %}}

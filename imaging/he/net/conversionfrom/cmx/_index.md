@@ -1,21 +1,21 @@
 ﻿---
-title: המר מ-CMX לפורמטים אחרים דרך .NET 
+title: המר מ-CMX(תמונת Corel Exchange) לפורמטים אחרים באמצעות API של תמונה של .NET 
 weight: 3920
 url: /he/net/conversion/from/cmx 
 lang: he
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: באמצעות Aspose.Imaging תוכל להמיר בקלות מ-CMX לפורמט אחר
+description: באמצעות Aspose.Imaging תוכל להמיר בקלות מ- CMX(תמונת Corel Exchange) לפורמט אחר
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה מ-CMX דרך .NET" h2="המר מ-CMX לפורמט אחר" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה מ-CMX(תמונת Corel Exchange) באמצעות API של תמונה של .NET" h2="המר מ-תמונת Corel Exchange לפורמטים אחרים באמצעות Aspose.Imaging API" downloadText="הורד" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה מ-CMX" %}}
-Aspose.Imaging מאפשר לבצע אוטומציה של המרות רבות מ-CMX לפורמטים אחרים בפלטפורמת NET.
+{{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה מ-CMX(תמונת Corel Exchange)" %}}
+Aspose.Imaging מאפשר לבצע אוטומציה של המרות רבות מ-CMX לפורמטים אחרים בפלטפורמת NET. קבצים עם סיומת CMX הם פורמט קובץ תמונה של Corel Exchange המשמש כמצגת על ידי יישומי CorelSuite. הוא מכיל נתוני תמונה כגרפיקה וקטורית וכן מטא נתונים המתארים את התמונה. ניתן לפתוח קבצי CMX על ידי CorelDraw, Corel Presentations, Paint Shop Pro וגרסאות מסוימות של Adobe Illustrator.
 <br/>
-רשימה מלאה של המרות נתמכות:
+רשימה מלאה של המרות נתמכות מ-CMX:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

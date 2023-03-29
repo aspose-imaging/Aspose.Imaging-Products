@@ -1,21 +1,21 @@
 ﻿---
-title: Convertir de TIF vers d'autres formats via .NET 
+title: Konvertieren Sie von TIF(Markiertes Bildformat) in andere Formate über die Bild-API von .NET 
 weight: 3920
 url: /de/net/conversion/from/tif 
 lang: de
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Mit Aspose.Imaging können Sie ganz einfach von TIF in andere Formate konvertieren
+description: Mit Aspose.Imaging können Sie ganz einfach von TIF(Markiertes Bildformat) in andere Formate konvertieren
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertierung von Bilddateien von TIF über .NET" h2="Konvertieren Sie von TIF in andere Formate" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertierung von Bilddateien aus TIF (Markiertes Bildformat) über die Bild-API von .NET" h2="Konvertieren Sie mithilfe der Aspose.Imaging-API von Markiertes Bildformat in andere Formate" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bildformate zum Konvertieren von TIF" %}}
-Aspose.Imaging ermöglicht die Automatisierung vieler Konvertierungen von TIF in andere Formate auf der .NET-Plattform.
+{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bildformate zum Konvertieren von TIF(Markiertes Bildformat)" %}}
+Aspose.Imaging ermöglicht die Automatisierung vieler Konvertierungen von TIF in andere Formate auf der .NET-Plattform. 
 <br/>
-Vollständige Liste der unterstützten Konvertierungen:
+Vollständige Liste der unterstützten Konvertierungen von TIF:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

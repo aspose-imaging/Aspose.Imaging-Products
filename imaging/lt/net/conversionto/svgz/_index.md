@@ -1,19 +1,19 @@
 ﻿---
-title: Konvertuokite vaizdus į SVGZ vaizdo formatą iš kitų palaikomų formatų naudodami .NET platformą 
+title: Konvertuokite vaizdus į SVGZ(Suglaudinta Scalable Vector Graphics (.SVG) failo versija.) vaizdo formatą iš kitų palaikomų formatų naudodami .NET platformą 
 weight: 3920
 url: /lt/net/conversion/to/svgz 
 lang: lt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Naudojant Aspose.Imaging, skirta .NET bibliotekai, lengva konvertuoti į SVGZ iš kitų palaikomų vaizdo formatų
+description: Naudojant Aspose.Imaging, skirta .NET bibliotekai, lengva konvertuoti į SVGZ(Suglaudinta Scalable Vector Graphics (.SVG) failo versija.) iš kitų palaikomų vaizdo formatų
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertuokite vaizdo failus į SVGZ vaizdo formatą naudodami .NET platformą" h2="Konvertuokite į SVGZ formatą iš kitų formatų naudodami Aspose.Imaging, skirtą .NET bibliotekai" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertuokite vaizdo failus į SVGZ(Suglaudinta Scalable Vector Graphics (.SVG) failo versija.) vaizdo formatą naudodami .NET platformą" h2="Konvertuokite į Suglaudinta Scalable Vector Graphics (.SVG) failo versija. formatą iš kitų formatų naudodami Aspose.Imaging, skirtą .NET bibliotekai" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visos palaikomos konversijos į SVGZ formatą naudojant Aspose.Imaging for .NET biblioteką" %}}
-Naudodami Aspose.Imaging biblioteką galite programiškai konvertuoti įvairius vaizdo formatus į SVGZ vaizdą.
+{{% blocks/products/pf/feature-page-section  h2="Visos palaikomos konversijos į SVGZ(Suglaudinta Scalable Vector Graphics (.SVG) failo versija.) formatą naudojant Aspose.Imaging for .NET biblioteką" %}}
+Naudodami Aspose.Imaging biblioteką galite programiškai konvertuoti įvairius vaizdo formatus į SVGZ vaizdą. Failas su plėtiniu .svgz yra suglaudinta Scalable Vector Graphics (.SVG) failo versija. Jis suglaudintas gzip glaudinimu ir jame yra duomenys XML formatu. SVGZ failai palaiko skaidrumą, gradientus, animaciją ir filtrus. SVGZ failai yra mažesni, palyginti su numatytaisiais SVG failais, ir šis sumažintas failo dydis padeda perkelti grafikos failus į internetą. Grafikos dizaineris kuria SVGZ failus naudodamas tokius įrankius kaip „Adobe Illustrator“, „Corel PaintShop Pro“ ir kt. Tačiau SVGZ failus galima sugeneruoti įjungus GZip glaudinimą „Apache“ serveryje, siunčiant vaizdo duomenis.
 <br/>
 Palaikomos šios konversijos:
 {{% /blocks/products/pf/feature-page-section %}}

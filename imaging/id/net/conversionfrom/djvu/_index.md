@@ -1,21 +1,21 @@
 ﻿---
-title: Konversikan dari DJVU ke format lain Melalui .NET 
+title: Konversikan dari DJVU(Format Grafis) ke format lain Melalui API gambar .NET 
 weight: 3920
 url: /id/net/conversion/from/djvu 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi dari DJVU ke format lain
+description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi dari DJVU(Format Grafis) ke format lain
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar dari DJVU Melalui .NET" h2="Konversikan dari DJVU ke format lain" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar dari DJVU(Format Grafis) Melalui API gambar .NET" h2="Konversikan dari Format Grafis ke format lain menggunakan Aspose.Imaging API" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari DJVU" %}}
-Aspose.Imaging memungkinkan mengotomatiskan banyak konversi dari DJVU ke format lain di platform .NET.
+{{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari DJVU(Format Grafis)" %}}
+Aspose.Imaging memungkinkan mengotomatiskan banyak konversi dari DJVU ke format lain di platform .NET. DjVu, diucapkan sebagai "déjà vu", adalah format file grafik yang ditujukan untuk dokumen dan buku yang dipindai terutama yang berisi kombinasi teks, gambar, gambar, dan foto. Ini dikembangkan oleh AT&T Labs. Ini menggunakan beberapa teknik seperti pemisahan lapisan gambar teks dan gambar latar belakang, pemuatan progresif, pengkodean aritmatika dan kompresi lossy untuk gambar bitonal. Karena file DJVU dapat berisi gambar, foto, teks, dan gambar berwarna yang terkompresi namun berkualitas tinggi dan dapat disimpan dalam ruang yang lebih sedikit, oleh karena itu, file ini digunakan di web sebagai eBuku, manual, surat kabar, dokumen kuno, dll.
 <br/>
-Daftar lengkap konversi yang didukung:
+Daftar lengkap konversi yang didukung dari DJVU:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

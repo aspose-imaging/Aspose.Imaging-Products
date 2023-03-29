@@ -1,21 +1,21 @@
 ﻿---
-title: Convert from DNG to other formats Via .NET 
+title: Convert from DNG(Digital Camera Image) to other formats Via .NET image API 
 weight: 3920
 url: /net/conversion/from/dng 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Using Aspose.Imaging you can easily convert from DNG to other formats
+description: Using Aspose.Imaging for .NET you can easily convert from DNG(Digital Camera Image) to other formats
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Image Files Conversion from DNG Via .NET" h2="Convert from DNG to other formats" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Image Files Conversion from DNG(Digital Camera Image) Via .NET image API" h2="Convert from Digital Camera Image to other formats using Aspose.Imaging API" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from DNG" %}}
-Aspose.Imaging allows automate a lot of conversions from DNG to other formats on .NET platform.
+{{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from DNG(Digital Camera Image)" %}}
+Aspose.Imaging allows automate a lot of conversions from DNG to other formats on .NET platform. DNG is a digital camera image format used for the storage of raw files. It has been developed by Adobe in September 2004. It was basically developed for digital photography. DNG is an extension of TIFF/EP standard format and uses metadata significantly. In order to manipulate raw data from digital cameras with ease of flexibility and artistic control, photographers opt camera raw files. JPEG and TIFF formats store images that are processed by the camera, therefore not much room for alteration is available in such formats.
 <br/>
-Full list of supported conversions:
+Full list of supported conversions from DNG:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

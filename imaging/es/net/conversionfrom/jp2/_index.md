@@ -1,21 +1,21 @@
 ﻿---
-title: Convertir de JP2 vers d'autres formats via .NET 
+title: Convierta de JP2(JPEG2000) a otros formatos a través de la API de imágenes .NET 
 weight: 3920
 url: /es/net/conversion/from/jp2 
 lang: es
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging puede convertir fácilmente de JP2 a otros formatos
+description: Usando Aspose.Imaging puede convertir fácilmente de JP2(JPEG2000) a otros formatos
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversión de archivos de imagen de JP2 a través de .NET" h2="Convertir de JP2 a otros formatos" downloadText="Descargar" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversión de archivos de imagen de JP2(JPEG2000) a través de la API de imagen .NET" h2="Convierta de JPEG2000 a otros formatos usando Aspose.Imaging API" downloadText="Descargar" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos los formatos de imagen admitidos para convertir desde JP2" %}}
-Aspose.Imaging permite automatizar muchas conversiones de JP2 a otros formatos en la plataforma .NET.
+{{% blocks/products/pf/feature-page-section  h2="Todos los formatos de imagen admitidos para convertir desde JP2(JPEG2000)" %}}
+Aspose.Imaging permite automatizar muchas conversiones de JP2 a otros formatos en la plataforma .NET. JPEG 2000 (JP2) es un sistema de codificación de imágenes y un estándar de compresión de imágenes de última generación. Diseñado, utilizando la tecnología wavelet, JPEG 2000 puede codificar contenido sin pérdidas en cualquier calidad a la vez. Además, sin ninguna penalización sustancial en la eficiencia de la codificación, JPEG 2000 tiene la capacidad de acceder y decodificar el mismo contenido de manera eficaz en una variedad de otras resoluciones y calidades. Los flujos de código en JPEG 2000 son significativamente escalables y tienen regiones de interés que brindan la posibilidad de acceso espacial aleatorio. Posee hasta 16384 componentes diversos con las dimensiones en terapixels y una precisión que puede llegar a 38 bits/muestra.
 <br/>
-Lista completa de conversiones admitidas:
+Lista completa de conversiones admitidas de JP2:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

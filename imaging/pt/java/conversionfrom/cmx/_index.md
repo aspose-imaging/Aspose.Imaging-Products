@@ -1,20 +1,20 @@
 ﻿---
-title: Converta de CMX para outros formatos suportados usando Aspose.Imaging for Java 
+title: Converta de CMX(Imagem do Corel Exchange) para outros formatos suportados usando Aspose.Imaging for Java API 
 weight: 3920
 url: /pt/java/conversion/from/cmx 
 lang: pt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging pode converter facilmente de CMX para outros formatos usando a plataforma Java
+description: Aspose.Imaging pode converter facilmente de CMX(Imagem do Corel Exchange) para outros formatos usando a plataforma Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converta imagens do formato CMX usando Aspose.Imaging para Java" h2="Converta do formato de imagem CMX para outros formatos usando a plataforma Java" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Converta imagens do formato CMX usando Aspose.Imaging para Java" h2="Converta do formato de imagem CMX(Imagem do Corel Exchange) para outros formatos usando a plataforma Java" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Amplo espectro de formatos de imagem que podem ser convertidos de imagens CMX usando Aspose.Imaging para Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Amplo espectro de formatos de imagem que podem ser convertidos de imagens CMX(Imagem do Corel Exchange) usando Aspose.Imaging para Java" %}}
 Você pode converter programaticamente do formato CMX para outros formatos disponíveis usando
-Aspose.Imaging para Java.
+Aspose.Imaging para Java. Arquivos com extensão CMX são o formato de arquivo de imagem do Corel Exchange usado como apresentação pelos aplicativos CorelSuite. Ele contém dados de imagem como gráficos vetoriais, bem como metadados que descrevem a imagem. Os arquivos CMX podem ser abertos pelo CorelDraw, Corel Presentations, Paint Shop Pro e algumas versões do Adobe Illustrator.
 <br/>
 Existem as seguintes conversões a bordo:
 {{% /blocks/products/pf/feature-page-section %}}

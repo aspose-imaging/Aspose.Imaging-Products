@@ -1,21 +1,21 @@
 ﻿---
-title: Конвертировать из EPS в другие форматы с помощью .NET 
+title: Преобразование из EPS(Инкапсулированный язык PostScript) в другие форматы с помощью API изображений .NET 
 weight: 3920
 url: /ru/net/conversion/from/eps 
 lang: ru
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Используя Aspose.Imaging, вы можете легко конвертировать из EPS в другие форматы.
+description: Используя Aspose.Imaging, вы можете легко конвертировать из EPS(Инкапсулированный язык PostScript) в другие форматы.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование файлов изображений из EPS с помощью .NET" h2="Конвертировать из EPS в другие форматы" downloadText="Скачать" >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование файлов изображений из EPS(Инкапсулированный язык PostScript) через .NET API изображений" h2="Преобразование из Инкапсулированный язык PostScript в другие форматы с помощью Aspose.Imaging API" downloadText="Скачать" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Все поддерживаемые форматы изображений для преобразования из EPS" %}}
-Aspose.Imaging позволяет автоматизировать множество преобразований из EPS в другие форматы на платформе .NET.
+{{% blocks/products/pf/feature-page-section  h2="Все поддерживаемые форматы изображений для преобразования из EPS(Инкапсулированный язык PostScript)" %}}
+Aspose.Imaging позволяет автоматизировать множество преобразований из EPS в другие форматы на платформе .NET. Файлы с расширением EPS, по существу, описывают языковую программу Encapsulated PostScript, описывающую внешний вид отдельной страницы. Имя «Инкапсулированный», потому что оно может быть включено или инкапсулировано в описание страницы на другом языке PostScript. Этот формат файла на основе сценария может содержать любую комбинацию текста, графики и изображений. Файлы EPS могут включать растровое изображение предварительного просмотра, инкапсулированное внутри для отображения приложениями, которые могут открывать такие файлы. Файлы EPS могут быть преобразованы в стандартные форматы изображений, такие как JPG, PNG, TIFF и PDF, с использованием различных приложений, например. Adobe Illustrator, Photoshop и PaintShop Pro. Из-за уязвимости в файлах EPS в Office 2016, Office 2013, Office 2010 и Office 365 отключена возможность вставки файлов EPS в документы Office.
 <br/>
-Полный список поддерживаемых преобразований:
+Полный список поддерживаемых преобразований из EPS:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

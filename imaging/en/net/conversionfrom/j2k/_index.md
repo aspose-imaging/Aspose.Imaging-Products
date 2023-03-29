@@ -1,21 +1,21 @@
 ﻿---
-title: Convert from J2K to other formats Via .NET 
+title: Convert from J2K(Wavelet Compressed Image) to other formats Via .NET image API 
 weight: 3920
 url: /net/conversion/from/j2k 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Using Aspose.Imaging you can easily convert from J2K to other formats
+description: Using Aspose.Imaging for .NET you can easily convert from J2K(Wavelet Compressed Image) to other formats
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Image Files Conversion from J2K Via .NET" h2="Convert from J2K to other formats" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Image Files Conversion from J2K(Wavelet Compressed Image) Via .NET image API" h2="Convert from Wavelet Compressed Image to other formats using Aspose.Imaging API" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from J2K" %}}
-Aspose.Imaging allows automate a lot of conversions from J2K to other formats on .NET platform.
+{{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from J2K(Wavelet Compressed Image)" %}}
+Aspose.Imaging allows automate a lot of conversions from J2K to other formats on .NET platform. A J2K file is an image that is compressed using the wavelet compression instead of DCT compression.
 <br/>
-Full list of supported conversions:
+Full list of supported conversions from J2K:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -1,19 +1,19 @@
 ﻿---
-title: Convert images to EMZ image format from other supported formats using .NET platform 
+title: Convert images to EMZ(Windows Compressed Enhanced Metafile) image format from other supported formats using .NET platform 
 weight: 3920
 url: /net/conversion/to/emz 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Using Aspose.Imaging for .NET library it is easy to convert to EMZ from other supported image formats
+description: Using Aspose.Imaging for .NET library it is easy to convert to EMZ(Windows Compressed Enhanced Metafile) from other supported image formats
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert Image Files to EMZ image format using .NET platform" h2="Convert to EMZ format from other formats using Aspose.Imaging for .NET library" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert Image Files to EMZ(Windows Compressed Enhanced Metafile) image format using .NET platform" h2="Convert to Windows Compressed Enhanced Metafile format from other formats using Aspose.Imaging for .NET library" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="All supported conversions to EMZ format using Aspose.Imaging for .NET library" %}}
-Using Aspose.Imaging library you can programmatically convert various image formats to EMZ image.
+{{% blocks/products/pf/feature-page-section  h2="All supported conversions to EMZ(Windows Compressed Enhanced Metafile) format using Aspose.Imaging for .NET library" %}}
+Using Aspose.Imaging library you can programmatically convert various image formats to EMZ image. A file with the EMZ file extension is a compressed image file, more specifically referred to as a Windows Compressed Enhanced Metafile file
 <br/>
 Following conversions are supported :
 {{% /blocks/products/pf/feature-page-section %}}

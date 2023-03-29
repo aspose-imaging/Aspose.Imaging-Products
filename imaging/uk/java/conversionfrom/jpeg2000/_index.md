@@ -1,20 +1,20 @@
 ﻿---
-title: Перетворюйте з JPEG2000 в інші підтримувані формати за допомогою Aspose.Imaging для Java 
+title: Перетворюйте з JPEG2000(JPEG 2000) в інші підтримувані формати за допомогою Aspose.Imaging for Java API 
 weight: 3920
 url: /uk/java/conversion/from/jpeg2000 
 lang: uk
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging може легко конвертувати з JPEG2000 в інші формати за допомогою платформи Java
+description: Aspose.Imaging може легко конвертувати з JPEG2000(JPEG 2000) в інші формати за допомогою платформи Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Перетворіть зображення з формату JPEG2000 за допомогою Aspose.Imaging for Java" h2="Перетворіть формат зображення JPEG2000 в інші формати за допомогою платформи Java" downloadText="Завантажити" >}}
+{{< blocks/products/pf/feature-page-header h1="Перетворіть зображення з формату JPEG2000 за допомогою Aspose.Imaging for Java" h2="Перетворіть формат зображення JPEG2000(JPEG 2000) в інші формати за допомогою платформи Java" downloadText="Завантажити" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Спектр форматів зображень, які можна конвертувати з JPEG2000 зображень за допомогою Aspose.Imaging for Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Спектр форматів зображень, які можна конвертувати з JPEG2000(JPEG 2000) зображень за допомогою Aspose.Imaging for Java" %}}
 Ви можете програмно конвертувати формат JPEG2000 в інші доступні формати за допомогою
-Aspose.Imaging for Java.
+Aspose.Imaging for Java. JPEG 2000 (JP2) — це система кодування зображень і сучасний стандарт стиснення зображень. Розроблений із використанням вейвлет-технології JPEG 2000 може кодувати вміст без втрат у будь-якій якості одночасно. Крім того, без суттєвого зниження ефективності кодування JPEG 2000 має можливість отримувати доступ і ефективно декодувати той самий вміст у різні інші роздільності та якості. Потоки коду в JPEG 2000 є значно масштабованими, маючи області інтересу, які забезпечують можливість просторового довільного доступу. Має до 16384 різноманітних компонентів із розмірами в терапікселях і точністю до 38 біт/зразок.
 <br/>
 Наведено такі перетворення:
 {{% /blocks/products/pf/feature-page-section %}}

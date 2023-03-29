@@ -1,21 +1,21 @@
 ﻿---
-title: Конвертировать из EMZ в другие форматы с помощью .NET 
+title: Преобразование из EMZ(Сжатый расширенный метафайл Windows) в другие форматы с помощью API изображений .NET 
 weight: 3920
 url: /ru/net/conversion/from/emz 
 lang: ru
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Используя Aspose.Imaging, вы можете легко конвертировать из EMZ в другие форматы.
+description: Используя Aspose.Imaging, вы можете легко конвертировать из EMZ(Сжатый расширенный метафайл Windows) в другие форматы.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование файлов изображений из EMZ с помощью .NET" h2="Конвертировать из EMZ в другие форматы" downloadText="Скачать" >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование файлов изображений из EMZ(Сжатый расширенный метафайл Windows) через .NET API изображений" h2="Преобразование из Сжатый расширенный метафайл Windows в другие форматы с помощью Aspose.Imaging API" downloadText="Скачать" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Все поддерживаемые форматы изображений для преобразования из EMZ" %}}
-Aspose.Imaging позволяет автоматизировать множество преобразований из EMZ в другие форматы на платформе .NET.
+{{% blocks/products/pf/feature-page-section  h2="Все поддерживаемые форматы изображений для преобразования из EMZ(Сжатый расширенный метафайл Windows)" %}}
+Aspose.Imaging позволяет автоматизировать множество преобразований из EMZ в другие форматы на платформе .NET. Файл с расширением EMZ представляет собой сжатый файл изображения, более конкретно называемый файлом сжатого расширенного метафайла Windows.
 <br/>
-Полный список поддерживаемых преобразований:
+Полный список поддерживаемых преобразований из EMZ:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

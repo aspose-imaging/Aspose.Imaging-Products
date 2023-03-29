@@ -1,21 +1,21 @@
 ﻿---
-title: Конвертувати з PNG в інші формати за допомогою .NET 
+title: Перетворення з PNG(Портативна мережева графіка) в інші формати за допомогою API зображень .NET 
 weight: 3920
 url: /uk/net/conversion/from/png 
 lang: uk
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: За допомогою Aspose.Imaging ви можете легко конвертувати з PNG в інші формати
+description: За допомогою Aspose.Imaging ви можете легко конвертувати з PNG(Портативна мережева графіка) в інші формати
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Перетворення файлів зображень з PNG за допомогою .NET" h2="Конвертувати з PNG в інші формати" downloadText="Завантажити" >}}
+{{< blocks/products/pf/feature-page-header h1="Перетворення файлів зображень із PNG(Портативна мережева графіка) через API зображень .NET" h2="Перетворюйте з Портативна мережева графіка в інші формати за допомогою API Aspose.Imaging" downloadText="Завантажити" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для конвертації з PNG" %}}
-Aspose.Imaging дозволяє автоматизувати багато перетворень із PNG в інші формати на платформі .NET.
+{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для конвертації з PNG(Портативна мережева графіка)" %}}
+Aspose.Imaging дозволяє автоматизувати багато перетворень із PNG в інші формати на платформі .NET. PNG, Portable Network Graphics, відноситься до типу формату растрового зображення, який використовує стиснення без втрат. Цей формат файлу було створено як заміну формату Graphics Interchange Format (GIF) і не має обмежень щодо авторських прав. Однак формат файлу PNG не підтримує анімацію. Формат файлу PNG підтримує стиснення зображень без втрат, що робить його популярним серед користувачів. З плином часу PNG перетворився на один із найбільш використовуваних форматів файлів зображень. Майже всі операційні системи підтримують відкриття файлів PNG. Наприклад, засіб перегляду Microsoft Windows має можливість відкривати файли PNG, оскільки ОС за замовчуванням підтримує підтримку, доступну як частину встановлення.
 <br/>
-Повний список підтримуваних конвертацій:
+Повний список підтримуваних конвертацій із PNG:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

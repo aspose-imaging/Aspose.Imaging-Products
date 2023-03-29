@@ -1,19 +1,19 @@
 ﻿---
-title: Convert images to JP2 image format from other supported formats using .NET platform 
+title: Convert images to JP2(JPEG 2000) image format from other supported formats using .NET platform 
 weight: 3920
 url: /net/conversion/to/jp2 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Using Aspose.Imaging for .NET library it is easy to convert to JP2 from other supported image formats
+description: Using Aspose.Imaging for .NET library it is easy to convert to JP2(JPEG 2000) from other supported image formats
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert Image Files to JP2 image format using .NET platform" h2="Convert to JP2 format from other formats using Aspose.Imaging for .NET library" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert Image Files to JP2(JPEG 2000) image format using .NET platform" h2="Convert to JPEG 2000 format from other formats using Aspose.Imaging for .NET library" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="All supported conversions to JP2 format using Aspose.Imaging for .NET library" %}}
-Using Aspose.Imaging library you can programmatically convert various image formats to JP2 image.
+{{% blocks/products/pf/feature-page-section  h2="All supported conversions to JP2(JPEG 2000) format using Aspose.Imaging for .NET library" %}}
+Using Aspose.Imaging library you can programmatically convert various image formats to JP2 image. JPEG 2000 (JP2) is an image coding system and state-of-the-art image compression standard. Designed, using wavelet technology JPEG 2000 can code lossless content in any quality at once. Moreover, without any substantial penalty in coding efficiency, JPEG 2000 have the capability to access and decode the same content efficaciously into a variety of other resolutions and qualities. The code streams in JPEG 2000 is significantly scalable having regions of interest that provide the facility for spatial random access. Possessing Up to 16384 diverse components with the dimensions in terapixels, and precision that can be high as 38 bits/sample.
 <br/>
 Following conversions are supported :
 {{% /blocks/products/pf/feature-page-section %}}

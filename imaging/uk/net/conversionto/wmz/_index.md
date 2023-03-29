@@ -1,19 +1,19 @@
 ﻿---
-title: Перетворіть зображення у формат WMZ з інших підтримуваних форматів за допомогою платформи .NET 
+title: Перетворіть зображення у формат WMZ(Стиснена оболонка Windows Media Player) з інших підтримуваних форматів за допомогою платформи .NET 
 weight: 3920
 url: /uk/net/conversion/to/wmz 
 lang: uk
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: За допомогою бібліотеки Aspose.Imaging для .NET можна легко конвертувати в WMZ інші підтримувані формати зображень
+description: За допомогою бібліотеки Aspose.Imaging для .NET можна легко конвертувати в WMZ(Стиснена оболонка Windows Media Player) інші підтримувані формати зображень
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Перетворюйте файли зображень у формат зображення WMZ за допомогою платформи .NET" h2="Перетворіть у формат WMZ інші формати за допомогою бібліотеки Aspose.Imaging для .NET" downloadText="Завантажити" >}}
+{{< blocks/products/pf/feature-page-header h1="Перетворюйте файли зображень у формат зображення WMZ(Стиснена оболонка Windows Media Player) за допомогою платформи .NET" h2="Перетворіть у формат Стиснена оболонка Windows Media Player інші формати за допомогою бібліотеки Aspose.Imaging для .NET" downloadText="Завантажити" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані перетворення у формат WMZ за допомогою бібліотеки Aspose.Imaging для .NET" %}}
-Використовуючи бібліотеку Aspose.Imaging, ви можете програмно конвертувати різні формати зображень у зображення WMZ.
+{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані перетворення у формат WMZ(Стиснена оболонка Windows Media Player) за допомогою бібліотеки Aspose.Imaging для .NET" %}}
+Використовуючи бібліотеку Aspose.Imaging, ви можете програмно конвертувати різні формати зображень у зображення WMZ. WMZ — це розширення файлу для формату файлу оболонки, який/для/використовується медіапрогравачем Windows. WMZ-файл – це в основному заархівований файл WMF у форматі XML.
 <br/>
 Підтримуються наступні перетворення:
 {{% /blocks/products/pf/feature-page-section %}}

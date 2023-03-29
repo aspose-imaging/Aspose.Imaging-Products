@@ -1,20 +1,20 @@
 ﻿---
-title: जावा के लिए Aspose.Imaging का उपयोग करके CMX से अन्य समर्थित स्वरूपों में कनवर्ट करें 
+title: जावा के लिए Aspose.Imaging API का उपयोग करके CMX(कोरल एक्सचेंज इमेज) से अन्य समर्थित स्वरूपों में कनवर्ट करें 
 weight: 3920
 url: /hi/java/conversion/from/cmx 
 lang: hi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Image आसानी से जावा प्लेटफॉर्म का उपयोग करके CMX से अन्य प्रारूपों में परिवर्तित हो सकता है
+description: Aspose.Image आसानी से जावा प्लेटफॉर्म का उपयोग करके CMX(कोरल एक्सचेंज इमेज) से अन्य प्रारूपों में परिवर्तित हो सकता है
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="जावा के लिए Aspose.Imaging का उपयोग करके छवियों को CMX प्रारूप से रूपांतरित करें" h2="जावा प्लेटफॉर्म का उपयोग करके CMX छवि प्रारूप से अन्य प्रारूपों में कनवर्ट करें" downloadText="डाउनलोड" >}}
+{{< blocks/products/pf/feature-page-header h1="जावा के लिए Aspose.Imaging का उपयोग करके छवियों को CMX प्रारूप से रूपांतरित करें" h2="जावा प्लेटफॉर्म का उपयोग करके CMX(कोरल एक्सचेंज इमेज) छवि प्रारूप से अन्य प्रारूपों में कनवर्ट करें" downloadText="डाउनलोड" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="जावा के लिए Aspose.Imaging का उपयोग करके छवि प्रारूपों का व्यापक स्पेक्ट्रम जिसे CMX छवियों से परिवर्तित किया जा सकता है" %}}
+{{% blocks/products/pf/feature-page-section  h2="जावा के लिए Aspose.Imaging का उपयोग करके छवि प्रारूपों का व्यापक स्पेक्ट्रम जिसे CMX(कोरल एक्सचेंज इमेज) छवियों से परिवर्तित किया जा सकता है" %}}
 आप प्रोग्रामैटिक रूप से CMX प्रारूप का उपयोग करके अन्य उपलब्ध प्रारूपों में परिवर्तित कर सकते हैं
-जावा के लिए Aspose.Imaging।
+जावा के लिए Aspose.Imaging। CMX एक्सटेंशन वाली फ़ाइलें Corel Exchange छवि फ़ाइल स्वरूप हैं जिनका उपयोग CorelSuite अनुप्रयोगों द्वारा प्रस्तुतिकरण के रूप में किया जाता है। इसमें छवि डेटा वेक्टर ग्राफिक्स के साथ-साथ मेटाडेटा भी शामिल है जो छवि का वर्णन करता है। CMX फाइलें CorelDraw, Corel प्रस्तुतियों, पेंट शॉप प्रो और Adobe Illustrator के कुछ संस्करणों द्वारा खोली जा सकती हैं।
 <br/>
 बोर्ड पर निम्नलिखित रूपांतरण हैं:
 {{% /blocks/products/pf/feature-page-section %}}

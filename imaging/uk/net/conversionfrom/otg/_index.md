@@ -1,21 +1,21 @@
 ﻿---
-title: Конвертувати з OTG в інші формати за допомогою .NET 
+title: Перетворення з OTG(Стандарт OpenDocument) в інші формати за допомогою API зображень .NET 
 weight: 3920
 url: /uk/net/conversion/from/otg 
 lang: uk
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: За допомогою Aspose.Imaging ви можете легко конвертувати з OTG в інші формати
+description: За допомогою Aspose.Imaging ви можете легко конвертувати з OTG(Стандарт OpenDocument) в інші формати
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Перетворення файлів зображень з OTG за допомогою .NET" h2="Конвертувати з OTG в інші формати" downloadText="Завантажити" >}}
+{{< blocks/products/pf/feature-page-header h1="Перетворення файлів зображень із OTG(Стандарт OpenDocument) через API зображень .NET" h2="Перетворюйте з Стандарт OpenDocument в інші формати за допомогою API Aspose.Imaging" downloadText="Завантажити" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для конвертації з OTG" %}}
-Aspose.Imaging дозволяє автоматизувати багато перетворень із OTG в інші формати на платформі .NET.
+{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для конвертації з OTG(Стандарт OpenDocument)" %}}
+Aspose.Imaging дозволяє автоматизувати багато перетворень із OTG в інші формати на платформі .NET. Файл OTG — це шаблон малюнка, який створюється за допомогою стандарту OpenDocument, який відповідає специфікації OASIS Office Applications 1.0. Він представляє стандартну організацію елементів малюнка для векторного зображення, яке можна використовувати для подальшого вдосконалення вмісту файлу.
 <br/>
-Повний список підтримуваних конвертацій:
+Повний список підтримуваних конвертацій із OTG:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

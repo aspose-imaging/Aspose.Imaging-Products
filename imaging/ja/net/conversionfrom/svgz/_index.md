@@ -1,21 +1,21 @@
 ﻿---
-title: .NET 経由で SVGZ から他の形式に変換します 
+title: .NET 画像 API を介して SVGZ(スケーラブルベクターグラフィックス（.SVG）ファイルの圧縮バージョン。) から他の形式に変換する 
 weight: 3920
 url: /ja/net/conversion/from/svgz 
 lang: ja
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging を使用すると、SVGZ から別のフォーマットに簡単に変換できます
+description: Aspose.Imaging を使用すると、SVGZ(スケーラブルベクターグラフィックス（.SVG）ファイルの圧縮バージョン。) から別のフォーマットに簡単に変換できます
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET による SVGZ からの画像ファイルの変換" h2="SVGZ から別の形式に変換する" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET 画像 API を介した SVGZ(スケーラブルベクターグラフィックス（.SVG）ファイルの圧縮バージョン。) からの画像ファイルの変換" h2="Aspose.Imaging API を使用して スケーラブルベクターグラフィックス（.SVG）ファイルの圧縮バージョン。 から他のフォーマットに変換" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="SVGZ から変換する、サポートされているすべての画像形式" %}}
-Aspose.Imaging を使用すると、SVGZ から .NET プラットフォーム上の他のフォーマットへの多くの変換を自動化できます。
+{{% blocks/products/pf/feature-page-section  h2="SVGZ(スケーラブルベクターグラフィックス（.SVG）ファイルの圧縮バージョン。) から変換する、サポートされているすべての画像形式" %}}
+Aspose.Imaging を使用すると、SVGZ から .NET プラットフォーム上の他のフォーマットへの多くの変換を自動化できます。 拡張子が.svgzのファイルは、Scalable Vector Graphics（.SVG）ファイルの圧縮バージョンです。 gzip圧縮で圧縮され、XML形式のデータが含まれています。 SVGZファイルは、透明度、グラデーション、アニメーション、およびフィルターをサポートします。 SVGZファイルはデフォルトのSVGファイルと比較してサイズが小さく、この縮小されたファイルサイズはグラフィックファイルをオンラインで転送するのに役立ちます。グラフィックデザイナーは、Adobe Illustrator、Corel PaintShopProなどのツールを使用してSVGZファイルを作成します。ただし、SVGZファイルは、画像データの送信中にApacheサーバーでGZip圧縮を有効にすることで生成できます。
 <br/>
-サポートされている変換の完全なリスト:
+サポートされている SVGZ からの変換の完全なリスト:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

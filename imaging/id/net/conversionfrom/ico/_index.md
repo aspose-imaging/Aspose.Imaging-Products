@@ -1,21 +1,21 @@
 ﻿---
-title: Konversikan dari ICO ke format lain Melalui .NET 
+title: Konversikan dari ICO(ikon Windows) ke format lain Melalui API gambar .NET 
 weight: 3920
 url: /id/net/conversion/from/ico 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi dari ICO ke format lain
+description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi dari ICO(ikon Windows) ke format lain
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar dari ICO Melalui .NET" h2="Konversikan dari ICO ke format lain" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar dari ICO(ikon Windows) Melalui API gambar .NET" h2="Konversikan dari ikon Windows ke format lain menggunakan Aspose.Imaging API" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari ICO" %}}
-Aspose.Imaging memungkinkan mengotomatiskan banyak konversi dari ICO ke format lain di platform .NET.
+{{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari ICO(ikon Windows)" %}}
+Aspose.Imaging memungkinkan mengotomatiskan banyak konversi dari ICO ke format lain di platform .NET. Format file ICO adalah format file gambar untuk ikon komputer di Microsoft Windows. File ICO berisi satu atau lebih gambar kecil dengan berbagai ukuran dan kedalaman warna, sehingga dapat diskalakan dengan tepat. Di Windows, semua executable yang menampilkan ikon kepada pengguna, di desktop, di Start Menu, atau di Windows Explorer, harus membawa ikon dalam format ICO.
 <br/>
-Daftar lengkap konversi yang didukung:
+Daftar lengkap konversi yang didukung dari ICO:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

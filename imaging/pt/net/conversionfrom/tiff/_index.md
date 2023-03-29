@@ -1,21 +1,21 @@
 ﻿---
-title: Converta de TIFF para outros formatos via .NET 
+title: Converta de TIFF(Formato de imagem marcada) para outros formatos por meio da API de imagem .NET 
 weight: 3920
 url: /pt/net/conversion/from/tiff 
 lang: pt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging você pode facilmente converter de TIFF para outros formatos
+description: Usando Aspose.Imaging você pode facilmente converter de TIFF(Formato de imagem marcada) para outros formatos
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversão de arquivos de imagem de TIFF via .NET" h2="Converter de TIFF para outros formatos" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversão de arquivos de imagem de TIFF(Formato de imagem marcada) por meio da API de imagem .NET" h2="Converta de Formato de imagem marcada para outros formatos usando a API Aspose.Imaging" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos os formatos de imagem compatíveis para conversão de TIFF" %}}
-Aspose.Imaging permite automatizar muitas conversões de TIFF para outros formatos na plataforma .NET.
+{{% blocks/products/pf/feature-page-section  h2="Todos os formatos de imagem compatíveis para conversão de TIFF(Formato de imagem marcada)" %}}
+Aspose.Imaging permite automatizar muitas conversões de TIFF para outros formatos na plataforma .NET. TIFF ou TIF, Tagged Image File Format, representa imagens raster que se destinam ao uso em uma variedade de dispositivos que estão em conformidade com este padrão de formato de arquivo. Ele é capaz de descrever dados de imagem de dois níveis, tons de cinza, cores de paleta e cores em vários espaços de cores. Ele suporta esquemas de compactação com e sem perdas para escolher entre espaço e tempo para aplicativos que usam o formato. O formato é extensível e passou por várias revisões que permitem a inclusão de uma quantidade ilimitada de informações privadas ou de finalidade especial. O formato não depende da máquina e está livre de limites como processador, sistema operacional ou sistemas de arquivos.
 <br/>
-Lista completa de conversões suportadas:
+Lista completa de conversões suportadas de TIFF:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

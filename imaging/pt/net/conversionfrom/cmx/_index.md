@@ -1,21 +1,21 @@
 ﻿---
-title: Converta de CMX para outros formatos via .NET 
+title: Converta de CMX(Imagem do Corel Exchange) para outros formatos por meio da API de imagem .NET 
 weight: 3920
 url: /pt/net/conversion/from/cmx 
 lang: pt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging você pode facilmente converter de CMX para outros formatos
+description: Usando Aspose.Imaging você pode facilmente converter de CMX(Imagem do Corel Exchange) para outros formatos
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversão de arquivos de imagem de CMX via .NET" h2="Converter de CMX para outros formatos" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversão de arquivos de imagem de CMX(Imagem do Corel Exchange) por meio da API de imagem .NET" h2="Converta de Imagem do Corel Exchange para outros formatos usando a API Aspose.Imaging" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos os formatos de imagem compatíveis para conversão de CMX" %}}
-Aspose.Imaging permite automatizar muitas conversões de CMX para outros formatos na plataforma .NET.
+{{% blocks/products/pf/feature-page-section  h2="Todos os formatos de imagem compatíveis para conversão de CMX(Imagem do Corel Exchange)" %}}
+Aspose.Imaging permite automatizar muitas conversões de CMX para outros formatos na plataforma .NET. Arquivos com extensão CMX são o formato de arquivo de imagem do Corel Exchange usado como apresentação pelos aplicativos CorelSuite. Ele contém dados de imagem como gráficos vetoriais, bem como metadados que descrevem a imagem. Os arquivos CMX podem ser abertos pelo CorelDraw, Corel Presentations, Paint Shop Pro e algumas versões do Adobe Illustrator.
 <br/>
-Lista completa de conversões suportadas:
+Lista completa de conversões suportadas de CMX:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

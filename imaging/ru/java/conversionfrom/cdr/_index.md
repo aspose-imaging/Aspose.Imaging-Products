@@ -1,20 +1,20 @@
 ﻿---
-title: Преобразование из CDR в другие поддерживаемые форматы с помощью Aspose.Imaging for Java 
+title: Преобразование из CDR(Векторный рисунок изображения) в другие поддерживаемые форматы с помощью Aspose.Imaging for Java API 
 weight: 3920
 url: /ru/java/conversion/from/cdr 
 lang: ru
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging может легко конвертировать из CDR в другие форматы с помощью платформы Java.
+description: Aspose.Imaging может легко конвертировать из CDR(Векторный рисунок изображения) в другие форматы с помощью платформы Java.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование изображений из формата CDR с помощью Aspose.Imaging for Java" h2="Преобразование из формата изображения CDR в другие форматы с использованием платформы Java" downloadText="Скачать" >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование изображений из формата CDR с помощью Aspose.Imaging for Java" h2="Преобразование из формата изображения CDR(Векторный рисунок изображения) в другие форматы с использованием платформы Java" downloadText="Скачать" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Спектр форматов изображений, которые можно преобразовать из изображений CDR с помощью Aspose.Imaging for Java." %}}
+{{% blocks/products/pf/feature-page-section  h2="Спектр форматов изображений, которые можно преобразовать из изображений CDR(Векторный рисунок изображения) с помощью Aspose.Imaging for Java." %}}
 Вы можете программно преобразовать формат CDR в другие доступные форматы, используя
-Aspose.Imaging for Java.
+Aspose.Imaging for Java. Файл CDR — это файл изображения векторного рисунка, изначально созданный с помощью CorelDRAW для хранения закодированного и сжатого цифрового изображения. Такой файл чертежа содержит текст, линии, формы, изображения, цвета и эффекты для векторного представления содержимого изображения. Файлы CDR можно открывать в CorelDRAW в качестве основного приложения, а также преобразовывать в другие форматы, такие как PDF, JPG, PNG, BMP и AI. Его можно использовать для представления различных графических данных, таких как брошюры, таблоиды, конверты и открытки. Помимо CorelDRAW, другие продукты Corel, такие как Corel Paintshop Pro и CorelDRAW Graphics Suite, также могут открывать форматы файлов CDR.
 <br/>
 Представлены следующие трансформации:
 {{% /blocks/products/pf/feature-page-section %}}

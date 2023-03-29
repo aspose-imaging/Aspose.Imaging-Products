@@ -1,21 +1,21 @@
 ﻿---
-title: 通过 .NET 从 J2K 转换为其他格式 
+title: 通过 .NET 图像 API 从 J2K(小波压缩图像) 转换为其他格式 
 weight: 3920
 url: /zh-hans/net/conversion/from/j2k 
 lang: zh-hans
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: 使用 Aspose.Imaging，您可以轻松地将 J2K 转换为其他格式
+description: 使用 Aspose.Imaging，您可以轻松地将 J2K(小波压缩图像) 转换为其他格式
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="通过 .NET 从 J2K 转换图像文件" h2="从 J2K 转换为其他格式" downloadText="下载" >}}
+{{< blocks/products/pf/feature-page-header h1="通过 .NET 图像 API 从 J2K(小波压缩图像) 转换图像文件" h2="使用 Aspose.Imaging API 从 小波压缩图像 转换为其他格式" downloadText="下载" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="要从 J2K 转换的所有支持的图像格式" %}}
-Aspose.Imaging 允许在 .NET 平台上自动进行从 J2K 到其他格式的大量转换。
+{{% blocks/products/pf/feature-page-section  h2="从 J2K(小波压缩图像) 转换的所有支持的图像格式" %}}
+Aspose.Imaging 允许在 .NET 平台上自动进行从 J2K 到其他格式的大量转换。 J2K 文件是使用小波压缩而不是 DCT 压缩压缩的图像。
 <br/>
-支持的转换的完整列表：
+J2K 支持的转换的完整列表：
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

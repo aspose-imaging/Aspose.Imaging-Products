@@ -1,20 +1,20 @@
 ﻿---
-title: Convert from DNG to other supported formats using Aspose.Imaging for Java 
+title: Convert from DNG(Digital Camera Image) to other supported formats using Aspose.Imaging for Java API 
 weight: 3920
 url: /java/conversion/from/dng 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging can easily convert from DNG to other formats using Java platform
+description: Aspose.Imaging API can easily convert from DNG(Digital Camera Image) to other formats using Java platform
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert images from DNG format using Aspose.Imaging for Java" h2="Convert from DNG image format to other formats using Java platform" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert images from DNG format using Aspose.Imaging for Java" h2="Convert from DNG(Digital Camera Image) image format to other formats using Java platform" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wide spectrum of image formats that can be converted from DNG images using Aspose.Imaging for Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Wide spectrum of image formats that can be converted from DNG(Digital Camera Image) images using Aspose.Imaging for Java" %}}
 You can programmaticaly convert from DNG format to other available formats using 
-Aspose.Imaging for Java.
+Aspose.Imaging for Java. DNG is a digital camera image format used for the storage of raw files. It has been developed by Adobe in September 2004. It was basically developed for digital photography. DNG is an extension of TIFF/EP standard format and uses metadata significantly. In order to manipulate raw data from digital cameras with ease of flexibility and artistic control, photographers opt camera raw files. JPEG and TIFF formats store images that are processed by the camera, therefore not much room for alteration is available in such formats.
 <br/>
 There are following conversions on board:
 {{% /blocks/products/pf/feature-page-section %}}

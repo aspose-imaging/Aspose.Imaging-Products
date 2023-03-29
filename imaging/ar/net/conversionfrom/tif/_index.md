@@ -1,21 +1,21 @@
 ﻿---
-title: حوِّل من TIF إلى تنسيقات أخرى عبر .NET 
+title: قم بالتحويل من TIF (تنسيق الصورة الموسومة) إلى تنسيقات أخرى عبر واجهة برمجة تطبيقات الصور .NET 
 weight: 3920
 url: /ar/net/conversion/from/tif 
 lang: ar
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: باستخدام Aspose.Imaging ، يمكنك بسهولة التحويل من TIF إلى تنسيقات أخرى
+description: باستخدام Aspose.Imaging ، يمكنك بسهولة التحويل من TIF(تنسيق الصورة الموسومة) إلى تنسيقات أخرى
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل ملفات الصور من TIF عبر .NET" h2="تحويل من TIF إلى صيغ أخرى" downloadText="تحميل" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل ملفات الصور من TIF (تنسيق الصورة الموسومة) عبر .NET image API" h2="تحويل من تنسيق الصورة الموسومة إلى تنسيقات أخرى باستخدام Aspose.Imaging API" downloadText="تحميل" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="جميع تنسيقات الصور المدعومة للتحويل من TIF" %}}
-يسمح Aspose.Imaging بأتمتة الكثير من التحويلات من TIF إلى تنسيقات أخرى على منصة .NET.
+{{% blocks/products/pf/feature-page-section  h2="جميع تنسيقات الصور المدعومة المراد تحويلها من TIF (تنسيق الصورة الموسومة)" %}}
+يسمح Aspose.Imaging بأتمتة الكثير من التحويلات من TIF إلى تنسيقات أخرى على منصة .NET. 
 <br/>
-القائمة الكاملة للتحويلات المدعومة:
+القائمة الكاملة للتحويلات المدعومة من TIF:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

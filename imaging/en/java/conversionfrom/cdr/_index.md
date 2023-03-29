@@ -1,20 +1,20 @@
 ﻿---
-title: Convert from CDR to other supported formats using Aspose.Imaging for Java 
+title: Convert from CDR(Vector Drawing Image) to other supported formats using Aspose.Imaging for Java API 
 weight: 3920
 url: /java/conversion/from/cdr 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging can easily convert from CDR to other formats using Java platform
+description: Aspose.Imaging API can easily convert from CDR(Vector Drawing Image) to other formats using Java platform
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert images from CDR format using Aspose.Imaging for Java" h2="Convert from CDR image format to other formats using Java platform" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert images from CDR format using Aspose.Imaging for Java" h2="Convert from CDR(Vector Drawing Image) image format to other formats using Java platform" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wide spectrum of image formats that can be converted from CDR images using Aspose.Imaging for Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Wide spectrum of image formats that can be converted from CDR(Vector Drawing Image) images using Aspose.Imaging for Java" %}}
 You can programmaticaly convert from CDR format to other available formats using 
-Aspose.Imaging for Java.
+Aspose.Imaging for Java. A CDR file is a vector drawing image file that is natively created with CorelDRAW for storing digital image encoded and compressed. Such a drawing file contains text, lines, shapes, images, colours and effects for vector representation of image contents. CDR files can be opened with CorelDRAW as the primary application and can also be converted to other formats such as PDF, JPG, PNG, BMP and AI. It can be used for representation of various graphics data like brochures, tabloids, envelopes, and postcards. Besides CorelDRAW, other Corel products such as Corel Paintshop Pro and CorelDRAW Graphics suite can also open the CDR file formats.
 <br/>
 There are following conversions on board:
 {{% /blocks/products/pf/feature-page-section %}}

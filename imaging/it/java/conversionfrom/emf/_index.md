@@ -1,20 +1,20 @@
 ﻿---
-title: Converti da EMF in altri formati supportati utilizzando Aspose.Imaging per Java 
+title: Converti da EMF(Formato Metafile migliorato) in altri formati supportati utilizzando Aspose.Imaging per Java API 
 weight: 3920
 url: /it/java/conversion/from/emf 
 lang: it
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging può facilmente convertire da EMF ad altri formati utilizzando la piattaforma Java
+description: Aspose.Imaging può facilmente convertire da EMF(Formato Metafile migliorato) ad altri formati utilizzando la piattaforma Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converti immagini dal formato EMF utilizzando Aspose.Imaging per Java" h2="Converti dal formato immagine EMF in altri formati utilizzando la piattaforma Java" downloadText="Scarica" >}}
+{{< blocks/products/pf/feature-page-header h1="Converti immagini dal formato EMF utilizzando Aspose.Imaging per Java" h2="Converti dal formato immagine EMF(Formato Metafile migliorato) in altri formati utilizzando la piattaforma Java" downloadText="Scarica" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Ampio spettro di formati immagine che possono essere convertiti da immagini EMF utilizzando Aspose.Imaging per Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Ampio spettro di formati immagine che possono essere convertiti da immagini EMF(Formato Metafile migliorato) utilizzando Aspose.Imaging per Java" %}}
 Puoi convertire in modo programmatico dal formato EMF in altri formati disponibili utilizzando
-Aspose.Imaging per Java.
+Aspose.Imaging per Java. Il formato metafile avanzato (EMF) memorizza le immagini grafiche indipendentemente dal dispositivo. I metafile di EMF comprendono record di lunghezza variabile in ordine cronologico che possono eseguire il rendering dell'immagine archiviata dopo l'analisi su qualsiasi dispositivo di output. Questi record a lunghezza variabile possono essere definizioni di oggetti racchiusi, comandi per il disegno e proprietà grafiche fondamentali per il rendering accurato dell'immagine. Quando un dispositivo apre un metafile EMF utilizzando il proprio ambiente grafico, le proporzioni, le dimensioni, i colori e altre proprietà grafiche dell'immagine originale rimangono le stesse indipendentemente dalla piattaforma del dispositivo di apertura.
 <br/>
 Ci sono le seguenti conversioni a bordo:
 {{% /blocks/products/pf/feature-page-section %}}

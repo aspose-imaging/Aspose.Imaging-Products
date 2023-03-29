@@ -1,21 +1,21 @@
 ﻿---
-title: Convertir de WMZ vers d'autres formats via .NET 
+title: Konvertieren Sie von WMZ(Komprimierte Windows Media Player-Skin) in andere Formate über die Bild-API von .NET 
 weight: 3920
 url: /de/net/conversion/from/wmz 
 lang: de
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Mit Aspose.Imaging können Sie ganz einfach von WMZ in andere Formate konvertieren
+description: Mit Aspose.Imaging können Sie ganz einfach von WMZ(Komprimierte Windows Media Player-Skin) in andere Formate konvertieren
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertierung von Bilddateien von WMZ über .NET" h2="Konvertieren Sie von WMZ in andere Formate" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertierung von Bilddateien aus WMZ (Komprimierte Windows Media Player-Skin) über die Bild-API von .NET" h2="Konvertieren Sie mithilfe der Aspose.Imaging-API von Komprimierte Windows Media Player-Skin in andere Formate" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bildformate zum Konvertieren von WMZ" %}}
-Aspose.Imaging ermöglicht die Automatisierung vieler Konvertierungen von WMZ in andere Formate auf der .NET-Plattform.
+{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bildformate zum Konvertieren von WMZ(Komprimierte Windows Media Player-Skin)" %}}
+Aspose.Imaging ermöglicht die Automatisierung vieler Konvertierungen von WMZ in andere Formate auf der .NET-Plattform. WMZ ist eine Dateierweiterung für ein Skin-Dateiformat in/für/verwendet von Windows Media Player. Eine WMZ-Datei ist im Grunde eine gezippte WMF-Datei in XML.
 <br/>
-Vollständige Liste der unterstützten Konvertierungen:
+Vollständige Liste der unterstützten Konvertierungen von WMZ:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

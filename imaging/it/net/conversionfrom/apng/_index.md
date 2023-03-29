@@ -1,21 +1,21 @@
 ﻿---
-title: Converti da APNG in altri formati tramite .NET 
+title: Conversione da APNG(Grafica di rete portatile animata) ad altri formati tramite API immagine .NET 
 weight: 3920
 url: /it/net/conversion/from/apng 
 lang: it
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging puoi facilmente convertire da APNG ad altri formati
+description: Usando Aspose.Imaging puoi facilmente convertire da APNG(Grafica di rete portatile animata) ad altri formati
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversione di file immagine da APNG tramite .NET" h2="Converti da APNG in altri formati" downloadText="Scarica" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversione di file immagine da APNG(Grafica di rete portatile animata) tramite l'API immagine .NET" h2="Converti da Grafica di rete portatile animata in altri formati utilizzando l'API Aspose.Imaging" downloadText="Scarica" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tutti i formati immagine supportati per la conversione da APNG" %}}
-Aspose.Imaging consente di automatizzare molte conversioni da APNG ad altri formati sulla piattaforma .NET.
+{{% blocks/products/pf/feature-page-section  h2="Tutti i formati immagine supportati per la conversione da APNG(Grafica di rete portatile animata)" %}}
+Aspose.Imaging consente di automatizzare molte conversioni da APNG ad altri formati sulla piattaforma .NET. Un file con estensione .apng (Animated Portable Network Graphics) è un formato grafico raster ed è un'estensione non ufficiale di Portable Network Graphic (PNG). Comprende più fotogrammi (ciascuno di un'immagine PNG) che rappresenta una sequenza di animazione. Ciò fornisce una visualizzazione simile a quella di un file GIF. I file APNG supportano immagini a 24 bit e trasparenza a 8 bit. APNG è compatibile con le versioni precedenti di file GIF non animati. I file APNG utilizzano la stessa estensione .png e possono essere aperti da applicazioni come Mozilla Firefox, Chrome con supporto APNG, app iMessage per iOS 10.
 <br/>
-Elenco completo delle conversioni supportate:
+Elenco completo delle conversioni supportate da APNG:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -1,21 +1,21 @@
 ﻿---
-title: Convertir de TGA vers d'autres formats via .NET 
+title: Convertir de TGA(Graphique Targa) vers d'autres formats via l'API d'image .NET 
 weight: 3920
 url: /fr/net/conversion/from/tga 
 lang: fr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: En utilisant Aspose.Imaging, vous pouvez facilement convertir de TGA vers un autre format
+description: En utilisant Aspose.Imaging, vous pouvez facilement convertir de TGA(Graphique Targa) vers un autre format
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversion de fichiers image à partir de TGA via .NET" h2="Convertir de TGA vers un autre format" downloadText="Télécharger" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversion de fichiers image à partir de TGA(Graphique Targa) via l'API d'image .NET" h2="Convertir de Graphique Targa vers d'autres formats à l'aide de l'API Aspose.Imaging" downloadText="Télécharger" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tous les formats d'image pris en charge pour convertir à partir de TGA" %}}
-Aspose.Imaging permet d'automatiser de nombreuses conversions de TGA vers d'autres formats sur la plate-forme .NET.
+{{% blocks/products/pf/feature-page-section  h2="Tous les formats d'image pris en charge pour convertir à partir de TGA(Graphique Targa)" %}}
+Aspose.Imaging permet d'automatiser de nombreuses conversions de TGA vers d'autres formats sur la plate-forme .NET. Truevision TGA, souvent appelé TARGA, est un format de fichier graphique raster créé par Truevision Inc. (qui fait maintenant partie d'Avid Technology). C'était le format natif des cartes TARGA et VISTA, qui étaient les premières cartes graphiques pour PC compatibles IBM à prendre en charge l'affichage Highcolor/truecolor.
 <br/>
-Liste complète des conversions prises en charge :
+Liste complète des conversions prises en charge à partir de TGA :
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

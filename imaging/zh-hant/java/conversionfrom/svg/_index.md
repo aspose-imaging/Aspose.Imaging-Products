@@ -1,20 +1,20 @@
 ﻿---
-title: 使用 Aspose.Imaging for Java 從 SVG 轉換為其他支持的格式 
+title: 使用 Aspose.Imaging for Java API 從 SVG(可縮放矢量圖形) 轉換為其他支持的格式 
 weight: 3920
 url: /zh-hant/java/conversion/from/svg 
 lang: zh-hant
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging 可以使用 Java 平台輕鬆地將 SVG 轉換為其他格式
+description: Aspose.Imaging 可以使用 Java 平台輕鬆地將 SVG(可縮放矢量圖形) 轉換為其他格式
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="使用 Aspose.Imaging for Java 從 SVG 格式轉換圖像" h2="使用 Java 平台將 SVG 圖像格式轉換為其他格式" downloadText="下載" >}}
+{{< blocks/products/pf/feature-page-header h1="使用 Aspose.Imaging for Java 從 SVG 格式轉換圖像" h2="使用 Java 平台將 SVG(可縮放矢量圖形) 圖像格式轉換為其他格式" downloadText="下載" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="可以使用 Aspose.Imaging for Java 從 SVG 圖像轉換的各種圖像格式" %}}
+{{% blocks/products/pf/feature-page-section  h2="可以使用 Aspose.Imaging for Java 從 SVG(可縮放矢量圖形) 圖像轉換的各種圖像格式" %}}
 您可以使用編程方式將 SVG 格式轉換為其他可用格式
-用於 Java 的 Aspose.Imaging。
+用於 Java 的 Aspose.Imaging。 SVG 文件是使用基於 XML 的文本格式來描述圖像外觀的可縮放矢量圖形文件。 Scalable 這個詞指的是 SVG 可以縮放到不同的大小而不會損失任何質量。此類文件的基於文本的描述使它們獨立於分辨率。它是用於構建網站和打印圖形以實現可擴展性的最常用格式之一。該格式只能用於二維圖形。 SVG 文件可以在幾乎所有現代瀏覽器中查看/打開，包括 Chrome、Internet Explorer、Firefox 和 Safari。
 <br/>
 船上有以下轉換：
 {{% /blocks/products/pf/feature-page-section %}}

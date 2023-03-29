@@ -1,21 +1,21 @@
 ﻿---
-title: Konvertuoti iš ODG į kitus formatus per .NET 
+title: Konvertuoti iš ODG(Apache OpenOffice Draw formatas) į kitus formatus naudojant .NET vaizdo API 
 weight: 3920
 url: /lt/net/conversion/from/odg 
 lang: lt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Naudodami Aspose.Imaging galite lengvai konvertuoti iš ODG į kitus formatus
+description: Naudodami Aspose.Imaging galite lengvai konvertuoti iš ODG(Apache OpenOffice Draw formatas) į kitus formatus
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas iš ODG naudojant .NET" h2="Konvertuoti iš ODG į kitus formatus" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas iš ODG(Apache OpenOffice Draw formatas) naudojant .NET vaizdo API" h2="Konvertuokite iš Apache OpenOffice Draw formatas į kitus formatus naudodami Aspose.Imaging API" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai konvertuoti iš ODG" %}}
-Aspose.Imaging leidžia automatizuoti daug konversijų iš ODG į kitus formatus .NET platformoje.
+{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai, konvertuojami iš ODG(Apache OpenOffice Draw formatas)" %}}
+Aspose.Imaging leidžia automatizuoti daug konversijų iš ODG į kitus formatus .NET platformoje. ODG failo formatą naudoja „Apache OpenOffice“ programa „Draw“, kad išsaugotų piešimo elementus kaip vektorinį vaizdą. Ji atitinka XML failo formato specifikacijas, nurodytas Struktūrinės informacijos standartų pažangos (OASIS). ODG vaizduoja brėžinius kaip vektorinius vaizdus naudojant taškus, linijas ir kreives. Be OpenOffice, LibreOffice ir kitos programos taip pat palaiko darbą su ODG failo formatu. Pavyzdžiui, kiti „OpenOffice“ palaikomi formatai apima ODT, ODF, ODP ir ODS.
 <br/>
-Visas palaikomų konversijų sąrašas:
+Visas palaikomų konversijų iš ODG sąrašas:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

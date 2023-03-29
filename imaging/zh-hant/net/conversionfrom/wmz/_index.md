@@ -1,21 +1,21 @@
 ﻿---
-title: 通過 .NET 從 WMZ 轉換為其他格式 
+title: 通過 .NET 圖像 API 從 WMZ(壓縮的 Windows Media Player 皮膚) 轉換為其他格式 
 weight: 3920
 url: /zh-hant/net/conversion/from/wmz 
 lang: zh-hant
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: 使用 Aspose.Imaging，您可以輕鬆地將 WMZ 轉換為其他格式
+description: 使用 Aspose.Imaging，您可以輕鬆地將 WMZ(壓縮的 Windows Media Player 皮膚) 轉換為其他格式
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="通過 .NET 從 WMZ 轉換圖像文件" h2="從 WMZ 轉換為其他格式" downloadText="下載" >}}
+{{< blocks/products/pf/feature-page-header h1="通過 .NET 圖像 API 從 WMZ(壓縮的 Windows Media Player 皮膚) 轉換圖像文件" h2="使用 Aspose.Imaging API 從 壓縮的 Windows Media Player 皮膚 轉換為其他格式" downloadText="下載" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="要從 WMZ 轉換的所有支持的圖像格式" %}}
-Aspose.Imaging 允許在 .NET 平台上自動進行從 WMZ 到其他格式的大量轉換。
+{{% blocks/products/pf/feature-page-section  h2="從 WMZ(壓縮的 Windows Media Player 皮膚) 轉換的所有支持的圖像格式" %}}
+Aspose.Imaging 允許在 .NET 平台上自動進行從 WMZ 到其他格式的大量轉換。 WMZ 是 Windows Media Player 中/用於/使用的皮膚文件格式的文件擴展名。 WMZ 文件基本上是 XML 格式的壓縮 WMF 文件。
 <br/>
-支持的轉換的完整列表：
+WMZ 支持的轉換的完整列表：
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

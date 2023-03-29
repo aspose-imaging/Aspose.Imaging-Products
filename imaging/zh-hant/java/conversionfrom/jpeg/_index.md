@@ -1,20 +1,20 @@
 ﻿---
-title: 使用 Aspose.Imaging for Java 從 JPEG 轉換為其他支持的格式 
+title: 使用 Aspose.Imaging for Java API 從 JPEG(聯合攝影專家組) 轉換為其他支持的格式 
 weight: 3920
 url: /zh-hant/java/conversion/from/jpeg 
 lang: zh-hant
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging 可以使用 Java 平台輕鬆地將 JPEG 轉換為其他格式
+description: Aspose.Imaging 可以使用 Java 平台輕鬆地將 JPEG(聯合攝影專家組) 轉換為其他格式
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="使用 Aspose.Imaging for Java 從 JPEG 格式轉換圖像" h2="使用 Java 平台將 JPEG 圖像格式轉換為其他格式" downloadText="下載" >}}
+{{< blocks/products/pf/feature-page-header h1="使用 Aspose.Imaging for Java 從 JPEG 格式轉換圖像" h2="使用 Java 平台將 JPEG(聯合攝影專家組) 圖像格式轉換為其他格式" downloadText="下載" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="可以使用 Aspose.Imaging for Java 從 JPEG 圖像轉換的各種圖像格式" %}}
+{{% blocks/products/pf/feature-page-section  h2="可以使用 Aspose.Imaging for Java 從 JPEG(聯合攝影專家組) 圖像轉換的各種圖像格式" %}}
 您可以使用編程方式將 JPEG 格式轉換為其他可用格式
-用於 Java 的 Aspose.Imaging。
+用於 Java 的 Aspose.Imaging。 JPEG 是一種使用有損壓縮方法保存的圖像格式。作為壓縮的結果，輸出圖像是存儲大小和圖像質量之間的權衡。用戶可以調整壓縮級別以達到所需的質量級別，同時減小存儲大小。如果對圖像應用 10:1 壓縮，則對圖像質量的影響可以忽略不計。壓縮值越高，圖像質量的劣化程度越高。
 <br/>
 船上有以下轉換：
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,20 +1,20 @@
 ﻿---
-title: जावा के लिए Aspose.Imaging का उपयोग करके ICO से अन्य समर्थित स्वरूपों में कनवर्ट करें 
+title: जावा के लिए Aspose.Imaging API का उपयोग करके ICO(विंडोज आइकन) से अन्य समर्थित स्वरूपों में कनवर्ट करें 
 weight: 3920
 url: /hi/java/conversion/from/ico 
 lang: hi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Image आसानी से जावा प्लेटफॉर्म का उपयोग करके ICO से अन्य प्रारूपों में परिवर्तित हो सकता है
+description: Aspose.Image आसानी से जावा प्लेटफॉर्म का उपयोग करके ICO(विंडोज आइकन) से अन्य प्रारूपों में परिवर्तित हो सकता है
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="जावा के लिए Aspose.Imaging का उपयोग करके छवियों को ICO प्रारूप से रूपांतरित करें" h2="जावा प्लेटफॉर्म का उपयोग करके ICO छवि प्रारूप से अन्य प्रारूपों में कनवर्ट करें" downloadText="डाउनलोड" >}}
+{{< blocks/products/pf/feature-page-header h1="जावा के लिए Aspose.Imaging का उपयोग करके छवियों को ICO प्रारूप से रूपांतरित करें" h2="जावा प्लेटफॉर्म का उपयोग करके ICO(विंडोज आइकन) छवि प्रारूप से अन्य प्रारूपों में कनवर्ट करें" downloadText="डाउनलोड" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="जावा के लिए Aspose.Imaging का उपयोग करके छवि प्रारूपों का व्यापक स्पेक्ट्रम जिसे ICO छवियों से परिवर्तित किया जा सकता है" %}}
+{{% blocks/products/pf/feature-page-section  h2="जावा के लिए Aspose.Imaging का उपयोग करके छवि प्रारूपों का व्यापक स्पेक्ट्रम जिसे ICO(विंडोज आइकन) छवियों से परिवर्तित किया जा सकता है" %}}
 आप प्रोग्रामैटिक रूप से ICO प्रारूप का उपयोग करके अन्य उपलब्ध प्रारूपों में परिवर्तित कर सकते हैं
-जावा के लिए Aspose.Imaging।
+जावा के लिए Aspose.Imaging। ICO फ़ाइल स्वरूप Microsoft Windows में कंप्यूटर आइकन के लिए एक छवि फ़ाइल स्वरूप है। ICO फाइलों में एक या एक से अधिक छोटी छवियां कई आकारों और रंग गहराई में होती हैं, जैसे कि उन्हें उचित रूप से बढ़ाया जा सकता है। विंडोज़ में, सभी निष्पादन योग्य जो उपयोगकर्ता को एक आइकन प्रदर्शित करते हैं, डेस्कटॉप पर, स्टार्ट मेनू में, या विंडोज एक्सप्लोरर में, आईसीओ प्रारूप में आइकन ले जाना चाहिए।
 <br/>
 बोर्ड पर निम्नलिखित रूपांतरण हैं:
 {{% /blocks/products/pf/feature-page-section %}}

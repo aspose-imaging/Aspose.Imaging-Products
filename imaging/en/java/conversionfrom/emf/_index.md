@@ -1,20 +1,20 @@
 ﻿---
-title: Convert from EMF to other supported formats using Aspose.Imaging for Java 
+title: Convert from EMF(Enhanced Metafile Format) to other supported formats using Aspose.Imaging for Java API 
 weight: 3920
 url: /java/conversion/from/emf 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging can easily convert from EMF to other formats using Java platform
+description: Aspose.Imaging API can easily convert from EMF(Enhanced Metafile Format) to other formats using Java platform
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert images from EMF format using Aspose.Imaging for Java" h2="Convert from EMF image format to other formats using Java platform" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert images from EMF format using Aspose.Imaging for Java" h2="Convert from EMF(Enhanced Metafile Format) image format to other formats using Java platform" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wide spectrum of image formats that can be converted from EMF images using Aspose.Imaging for Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Wide spectrum of image formats that can be converted from EMF(Enhanced Metafile Format) images using Aspose.Imaging for Java" %}}
 You can programmaticaly convert from EMF format to other available formats using 
-Aspose.Imaging for Java.
+Aspose.Imaging for Java. Enhanced metafile format (EMF) stores graphical images device-independently. Metafiles of EMF comprises of variable-length records in chronological order that can render the stored image after parsing on any output device. These variable-length records can be definitions of enclosed objects, commands for drawing, and graphics properties critical to render the image accurately. When a device opens an EMF metafile using its own graphics environment, the proportions, dimensions, colors and other graphic properties of original image remains same regardless of the opening device platform.
 <br/>
 There are following conversions on board:
 {{% /blocks/products/pf/feature-page-section %}}

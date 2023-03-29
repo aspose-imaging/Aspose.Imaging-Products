@@ -1,20 +1,20 @@
 ﻿---
-title: Převeďte z CMX do jiných podporovaných formátů pomocí Aspose.Imaging for Java 
+title: Převeďte z CMX(Obrázek Corel Exchange) do jiných podporovaných formátů pomocí Aspose.Imaging for Java API 
 weight: 3920
 url: /cs/java/conversion/from/cmx 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging lze snadno převést z formátu CMX do jiných formátů pomocí platformy Java
+description: Aspose.Imaging lze snadno převést z formátu CMX(Obrázek Corel Exchange) do jiných formátů pomocí platformy Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převeďte obrázky z formátu CMX pomocí Aspose.Imaging for Java" h2="Převeďte z formátu obrázku CMX do jiných formátů pomocí platformy Java" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Převeďte obrázky z formátu CMX pomocí Aspose.Imaging for Java" h2="Převeďte z formátu obrázku CMX(Obrázek Corel Exchange) do jiných formátů pomocí platformy Java" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Široké spektrum obrazových formátů, které lze převést z obrázků CMX pomocí Aspose.Imaging for Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Široké spektrum obrazových formátů, které lze převést z obrázků CMX(Obrázek Corel Exchange) pomocí Aspose.Imaging for Java" %}}
 Můžete programově převádět z formátu CMX do jiných dostupných formátů pomocí
-Aspose.Imaging pro Javu.
+Aspose.Imaging pro Javu. Soubory s příponou CMX jsou formát souboru obrázků Corel Exchange, který používají aplikace CorelSuite jako prezentaci. Obsahuje obrazová data jako vektorovou grafiku i metadata, která obrázek popisují. Soubory CMX lze otevřít pomocí aplikací CorelDraw, Corel Presentations, Paint Shop Pro a některých verzí aplikace Adobe Illustrator.
 <br/>
 Na palubě jsou následující konverze:
 {{% /blocks/products/pf/feature-page-section %}}

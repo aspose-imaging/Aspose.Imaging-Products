@@ -1,21 +1,21 @@
 ﻿---
-title: Convertir de DNG vers d'autres formats via .NET 
+title: Convierta de DNG(Imagen de cámara digital) a otros formatos a través de la API de imágenes .NET 
 weight: 3920
 url: /es/net/conversion/from/dng 
 lang: es
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging puede convertir fácilmente de DNG a otros formatos
+description: Usando Aspose.Imaging puede convertir fácilmente de DNG(Imagen de cámara digital) a otros formatos
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversión de archivos de imagen de DNG a través de .NET" h2="Convertir de DNG a otros formatos" downloadText="Descargar" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversión de archivos de imagen de DNG(Imagen de cámara digital) a través de la API de imagen .NET" h2="Convierta de Imagen de cámara digital a otros formatos usando Aspose.Imaging API" downloadText="Descargar" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos los formatos de imagen admitidos para convertir desde DNG" %}}
-Aspose.Imaging permite automatizar muchas conversiones de DNG a otros formatos en la plataforma .NET.
+{{% blocks/products/pf/feature-page-section  h2="Todos los formatos de imagen admitidos para convertir desde DNG(Imagen de cámara digital)" %}}
+Aspose.Imaging permite automatizar muchas conversiones de DNG a otros formatos en la plataforma .NET. DNG es un formato de imagen de cámara digital utilizado para el almacenamiento de archivos sin formato. Ha sido desarrollado por Adobe en septiembre de 2004. Fue desarrollado básicamente para fotografía digital. DNG es una extensión del formato estándar TIFF/EP y utiliza metadatos de manera significativa. Para manipular los datos sin procesar de las cámaras digitales con facilidad de flexibilidad y control artístico, los fotógrafos optan por los archivos sin formato de cámara. Los formatos JPEG y TIFF almacenan imágenes que son procesadas por la cámara, por lo tanto, no hay mucho espacio para la alteración disponible en dichos formatos.
 <br/>
-Lista completa de conversiones admitidas:
+Lista completa de conversiones admitidas de DNG:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

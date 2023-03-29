@@ -1,20 +1,20 @@
 ﻿---
-title: Aspose.Imaging for Java を使用して、EMZ から他のサポートされている形式に変換します。 
+title: Aspose.Imaging for Java API を使用して、EMZ(Windows圧縮拡張メタファイル) から他のサポートされている形式に変換します。 
 weight: 3920
 url: /ja/java/conversion/from/emz 
 lang: ja
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging は、Java プラットフォームを使用して EMZ から他のフォーマットに簡単に変換できます
+description: Aspose.Imaging は、Java プラットフォームを使用して EMZ(Windows圧縮拡張メタファイル) から他のフォーマットに簡単に変換できます
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java を使用して EMZ フォーマットから画像を変換します" h2="Java プラットフォームを使用して、EMZ 画像形式から他の形式に変換します" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java を使用して EMZ フォーマットから画像を変換します" h2="Java プラットフォームを使用して、EMZ(Windows圧縮拡張メタファイル) 画像形式から他の形式に変換します" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java を使用して EMZ 画像から変換できる幅広い画像フォーマット" %}}
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java を使用して EMZ(Windows圧縮拡張メタファイル) 画像から変換できる幅広い画像フォーマット" %}}
 次を使用して、EMZ 形式から他の使用可能な形式にプログラムで変換できます。
-Aspose.Imaging for Java。
+Aspose.Imaging for Java。 EMZファイル拡張子の付いたファイルは、圧縮イメージファイルであり、より具体的にはWindows圧縮拡張メタファイルファイルと呼ばれます。
 <br/>
 機内では次の変換があります。
 {{% /blocks/products/pf/feature-page-section %}}

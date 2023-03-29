@@ -1,20 +1,20 @@
 ﻿---
-title: Convert from TGA to other supported formats using Aspose.Imaging for Java 
+title: Convert from TGA(Targa Graphic) to other supported formats using Aspose.Imaging for Java API 
 weight: 3920
 url: /java/conversion/from/tga 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging can easily convert from TGA to other formats using Java platform
+description: Aspose.Imaging API can easily convert from TGA(Targa Graphic) to other formats using Java platform
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert images from TGA format using Aspose.Imaging for Java" h2="Convert from TGA image format to other formats using Java platform" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert images from TGA format using Aspose.Imaging for Java" h2="Convert from TGA(Targa Graphic) image format to other formats using Java platform" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wide spectrum of image formats that can be converted from TGA images using Aspose.Imaging for Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Wide spectrum of image formats that can be converted from TGA(Targa Graphic) images using Aspose.Imaging for Java" %}}
 You can programmaticaly convert from TGA format to other available formats using 
-Aspose.Imaging for Java.
+Aspose.Imaging for Java. Truevision TGA, often referred to as TARGA, is a raster graphics file format created by Truevision Inc. (now part of Avid Technology). It was the native format of TARGA and VISTA boards, which were the first graphic cards for IBM-compatible PCs to support Highcolor/truecolor display.
 <br/>
 There are following conversions on board:
 {{% /blocks/products/pf/feature-page-section %}}

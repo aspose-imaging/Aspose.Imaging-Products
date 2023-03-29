@@ -1,19 +1,19 @@
 ﻿---
-title: Convert images to DXF image format from other supported formats using .NET platform 
+title: Convert images to DXF(Drawing Interchange Format, or Drawing Exchange Format,) image format from other supported formats using .NET platform 
 weight: 3920
 url: /net/conversion/to/dxf 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Using Aspose.Imaging for .NET library it is easy to convert to DXF from other supported image formats
+description: Using Aspose.Imaging for .NET library it is easy to convert to DXF(Drawing Interchange Format, or Drawing Exchange Format,) from other supported image formats
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert Image Files to DXF image format using .NET platform" h2="Convert to DXF format from other formats using Aspose.Imaging for .NET library" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert Image Files to DXF(Drawing Interchange Format, or Drawing Exchange Format,) image format using .NET platform" h2="Convert to Drawing Interchange Format, or Drawing Exchange Format, format from other formats using Aspose.Imaging for .NET library" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="All supported conversions to DXF format using Aspose.Imaging for .NET library" %}}
-Using Aspose.Imaging library you can programmatically convert various image formats to DXF image.
+{{% blocks/products/pf/feature-page-section  h2="All supported conversions to DXF(Drawing Interchange Format, or Drawing Exchange Format,) format using Aspose.Imaging for .NET library" %}}
+Using Aspose.Imaging library you can programmatically convert various image formats to DXF image. DXF, Drawing Interchange Format, or Drawing Exchange Format, is a tagged data representation of AutoCAD drawing file. Each element in the file has a prefix integer number called a group code. This group code actually represents the element that follows and indicates the meaning of a data element for a given object type. DXF makes it possible to represent almost all user-specified information in a drawing file.
 <br/>
 Following conversions are supported :
 {{% /blocks/products/pf/feature-page-section %}}

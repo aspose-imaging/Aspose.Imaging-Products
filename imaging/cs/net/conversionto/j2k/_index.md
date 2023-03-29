@@ -1,19 +1,19 @@
 ﻿---
-title: Převeďte obrázky do formátu obrázku J2K z jiných podporovaných formátů pomocí platformy .NET 
+title: Převeďte obrázky do formátu obrázku J2K(Wavelet Compressed Image) z jiných podporovaných formátů pomocí platformy .NET 
 weight: 3920
 url: /cs/net/conversion/to/j2k 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Pomocí knihovny Aspose.Imaging for .NET je snadné převést do formátu J2K z jiných podporovaných formátů obrázků
+description: Pomocí knihovny Aspose.Imaging for .NET je snadné převést do formátu J2K(Wavelet Compressed Image) z jiných podporovaných formátů obrázků
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převeďte soubory obrázků do formátu obrázků J2K pomocí platformy .NET" h2="Převeďte do formátu J2K z jiných formátů pomocí knihovny Aspose.Imaging for .NET" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Převeďte soubory obrázků do formátu obrázků J2K(Wavelet Compressed Image) pomocí platformy .NET" h2="Převeďte do formátu Wavelet Compressed Image z jiných formátů pomocí knihovny Aspose.Imaging for .NET" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované převody do formátu J2K pomocí knihovny Aspose.Imaging for .NET" %}}
-Pomocí knihovny Aspose.Imaging můžete programově převádět různé formáty obrázků na obrázek J2K.
+{{% blocks/products/pf/feature-page-section  h2="Všechny podporované převody do formátu J2K(Wavelet Compressed Image) pomocí knihovny Aspose.Imaging for .NET" %}}
+Pomocí knihovny Aspose.Imaging můžete programově převádět různé formáty obrázků na obrázek J2K. Soubor J2K je obrázek, který je komprimován pomocí komprese wavelet namísto komprese DCT.
 <br/>
 Podporovány jsou následující převody:
 {{% /blocks/products/pf/feature-page-section %}}

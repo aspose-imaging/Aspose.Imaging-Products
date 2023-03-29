@@ -1,21 +1,21 @@
 ﻿---
-title: 通過 .NET 從 BMP 轉換為其他格式 
+title: 通過 .NET 圖像 API 從 BMP(位圖圖片) 轉換為其他格式 
 weight: 3920
 url: /zh-hant/net/conversion/from/bmp 
 lang: zh-hant
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: 使用 Aspose.Imaging，您可以輕鬆地將 BMP 轉換為其他格式
+description: 使用 Aspose.Imaging，您可以輕鬆地將 BMP(位圖圖片) 轉換為其他格式
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="通過 .NET 從 BMP 轉換圖像文件" h2="從 BMP 轉換為其他格式" downloadText="下載" >}}
+{{< blocks/products/pf/feature-page-header h1="通過 .NET 圖像 API 從 BMP(位圖圖片) 轉換圖像文件" h2="使用 Aspose.Imaging API 從 位圖圖片 轉換為其他格式" downloadText="下載" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="要從 BMP 轉換的所有支持的圖像格式" %}}
-Aspose.Imaging 允許在 .NET 平台上自動進行從 BMP 到其他格式的大量轉換。
+{{% blocks/products/pf/feature-page-section  h2="從 BMP(位圖圖片) 轉換的所有支持的圖像格式" %}}
+Aspose.Imaging 允許在 .NET 平台上自動進行從 BMP 到其他格式的大量轉換。 擴展名為 .BMP 的文件表示用於存儲位圖數字圖像的位圖圖像文件。這些圖像獨立於圖形適配器，也稱為設備獨立位圖 (DIB) 文件格式。這種獨立性的目的是在 Microsoft Windows 和 Mac 等多個平台上打開文件。 BMP 文件格式可以將數據存儲為單色和具有各種顏色深度的彩色格式的二維數字圖像。
 <br/>
-支持的轉換的完整列表：
+BMP 支持的轉換的完整列表：
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

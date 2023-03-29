@@ -1,21 +1,21 @@
 ﻿---
-title: .NET을 통해 EMZ에서 다른 형식으로 변환 
+title: .NET 이미지 API를 통해 EMZ(Windows 압축 확장 메타파일)에서 다른 형식으로 변환 
 weight: 3920
 url: /ko/net/conversion/from/emz 
 lang: ko
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging을 사용하면 EMZ에서 다른 형식으로 쉽게 변환할 수 있습니다.
+description: Aspose.Imaging을 사용하면 EMZ(Windows 압축 확장 메타파일) 에서 다른 형식으로 쉽게 변환할 수 있습니다.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET을 통해 EMZ에서 이미지 파일 변환" h2="EMZ에서 다른 형식으로 변환" downloadText="다운로드" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET 이미지 API를 통해 EMZ(Windows 압축 확장 메타파일)에서 이미지 파일 변환" h2="Aspose.Imaging API를 사용하여 Windows 압축 확장 메타파일에서 다른 형식으로 변환" downloadText="다운로드" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="EMZ에서 변환할 지원되는 모든 이미지 형식" %}}
+{{% blocks/products/pf/feature-page-section  h2="EMZ(Windows 압축 확장 메타파일)에서 변환할 지원되는 모든 이미지 형식 EMZ 파일 확장자를 가진 파일은 압축된 이미지 파일이며, 보다 구체적으로 Windows Compressed Enhanced Metafile 파일이라고 합니다." %}}
 Aspose.Imaging을 사용하면 EMZ에서 .NET 플랫폼의 다른 형식으로 많은 변환을 자동화할 수 있습니다.
 <br/>
-지원되는 변환의 전체 목록:
+EMZ에서 지원되는 변환의 전체 목록:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

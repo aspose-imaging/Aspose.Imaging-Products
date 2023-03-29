@@ -1,20 +1,20 @@
 ﻿---
-title: Convert from PNG to other supported formats using Aspose.Imaging for Java 
+title: Convert from PNG(Portable Network Graphics) to other supported formats using Aspose.Imaging for Java API 
 weight: 3920
 url: /java/conversion/from/png 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging can easily convert from PNG to other formats using Java platform
+description: Aspose.Imaging API can easily convert from PNG(Portable Network Graphics) to other formats using Java platform
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert images from PNG format using Aspose.Imaging for Java" h2="Convert from PNG image format to other formats using Java platform" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert images from PNG format using Aspose.Imaging for Java" h2="Convert from PNG(Portable Network Graphics) image format to other formats using Java platform" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wide spectrum of image formats that can be converted from PNG images using Aspose.Imaging for Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Wide spectrum of image formats that can be converted from PNG(Portable Network Graphics) images using Aspose.Imaging for Java" %}}
 You can programmaticaly convert from PNG format to other available formats using 
-Aspose.Imaging for Java.
+Aspose.Imaging for Java. PNG, Portable Network Graphics, refers to a type of raster image file format that use loseless compression. This file format was created as a replacement of Graphics Interchange Format (GIF) and has no copyright limitations. However, PNG file format does not support animations. PNG file format supports loseless image compression that makes it popular among its users. With the passage of time, PNG has evolved as one of the mostly used image file format. Almost all Operating Systems have support for opening PNG files. For example, Microsoft Windows viewer has the capability to open PNG files as the OS has by default the support available as part of installation.
 <br/>
 There are following conversions on board:
 {{% /blocks/products/pf/feature-page-section %}}

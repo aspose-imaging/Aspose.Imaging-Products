@@ -1,20 +1,20 @@
 ﻿---
-title: Converti da BMP in altri formati supportati utilizzando Aspose.Imaging per Java 
+title: Converti da BMP(Immagine bitmap) in altri formati supportati utilizzando Aspose.Imaging per Java API 
 weight: 3920
 url: /it/java/conversion/from/bmp 
 lang: it
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging può facilmente convertire da BMP ad altri formati utilizzando la piattaforma Java
+description: Aspose.Imaging può facilmente convertire da BMP(Immagine bitmap) ad altri formati utilizzando la piattaforma Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converti immagini dal formato BMP utilizzando Aspose.Imaging per Java" h2="Converti dal formato immagine BMP in altri formati utilizzando la piattaforma Java" downloadText="Scarica" >}}
+{{< blocks/products/pf/feature-page-header h1="Converti immagini dal formato BMP utilizzando Aspose.Imaging per Java" h2="Converti dal formato immagine BMP(Immagine bitmap) in altri formati utilizzando la piattaforma Java" downloadText="Scarica" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Ampio spettro di formati immagine che possono essere convertiti da immagini BMP utilizzando Aspose.Imaging per Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Ampio spettro di formati immagine che possono essere convertiti da immagini BMP(Immagine bitmap) utilizzando Aspose.Imaging per Java" %}}
 Puoi convertire in modo programmatico dal formato BMP in altri formati disponibili utilizzando
-Aspose.Imaging per Java.
+Aspose.Imaging per Java. I file con estensione .BMP rappresentano file di immagine bitmap che vengono utilizzati per memorizzare immagini digitali bitmap. Queste immagini sono indipendenti dalla scheda grafica e sono anche chiamate formato file DIB (Device Independent Bitmap). Questa indipendenza serve allo scopo di aprire il file su più piattaforme come Microsoft Windows e Mac. Il formato file BMP può memorizzare dati come immagini digitali bidimensionali sia in formato monocromatico che a colori con varie profondità di colore.
 <br/>
 Ci sono le seguenti conversioni a bordo:
 {{% /blocks/products/pf/feature-page-section %}}

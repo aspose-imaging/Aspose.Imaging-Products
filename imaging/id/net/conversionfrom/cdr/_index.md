@@ -1,21 +1,21 @@
 ﻿---
-title: Konversikan dari CDR ke format lain Melalui .NET 
+title: Konversikan dari CDR(Gambar Gambar Vektor) ke format lain Melalui API gambar .NET 
 weight: 3920
 url: /id/net/conversion/from/cdr 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi dari CDR ke format lain
+description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi dari CDR(Gambar Gambar Vektor) ke format lain
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar dari CDR Melalui .NET" h2="Konversikan dari CDR ke format lain" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar dari CDR(Gambar Gambar Vektor) Melalui API gambar .NET" h2="Konversikan dari Gambar Gambar Vektor ke format lain menggunakan Aspose.Imaging API" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari CDR" %}}
-Aspose.Imaging memungkinkan mengotomatiskan banyak konversi dari CDR ke format lain di platform .NET.
+{{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari CDR(Gambar Gambar Vektor)" %}}
+Aspose.Imaging memungkinkan mengotomatiskan banyak konversi dari CDR ke format lain di platform .NET. File CDR adalah file gambar gambar vektor yang dibuat secara native dengan CorelDRAW untuk menyimpan gambar digital yang dikodekan dan dikompresi. File gambar seperti itu berisi teks, garis, bentuk, gambar, warna, dan efek untuk representasi vektor dari konten gambar. File CDR dapat dibuka dengan CorelDRAW sebagai aplikasi utama dan juga dapat dikonversi ke format lain seperti PDF, JPG, PNG, BMP dan AI. Ini dapat digunakan untuk representasi berbagai data grafik seperti brosur, tabloid, amplop, dan kartu pos. Selain CorelDRAW, produk Corel lainnya seperti Corel Paintshop Pro dan CorelDRAW Graphics suite juga dapat membuka format file CDR.
 <br/>
-Daftar lengkap konversi yang didukung:
+Daftar lengkap konversi yang didukung dari CDR:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

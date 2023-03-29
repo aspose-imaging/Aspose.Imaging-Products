@@ -1,20 +1,20 @@
 ﻿---
-title: Convert from DJVU to other supported formats using Aspose.Imaging for Java 
+title: Convert from DJVU(Graphics Format) to other supported formats using Aspose.Imaging for Java API 
 weight: 3920
 url: /java/conversion/from/djvu 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging can easily convert from DJVU to other formats using Java platform
+description: Aspose.Imaging API can easily convert from DJVU(Graphics Format) to other formats using Java platform
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert images from DJVU format using Aspose.Imaging for Java" h2="Convert from DJVU image format to other formats using Java platform" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert images from DJVU format using Aspose.Imaging for Java" h2="Convert from DJVU(Graphics Format) image format to other formats using Java platform" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wide spectrum of image formats that can be converted from DJVU images using Aspose.Imaging for Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Wide spectrum of image formats that can be converted from DJVU(Graphics Format) images using Aspose.Imaging for Java" %}}
 You can programmaticaly convert from DJVU format to other available formats using 
-Aspose.Imaging for Java.
+Aspose.Imaging for Java. DjVu, pronounced as “déjà vu”, is a graphics file format intended for scanned documents and books especially those which contain the combination of text, drawings, images and photographs. It was developed by AT&T Labs. It uses multiple techniques like image layer separation of text and background images, progressive loading, arithmetic coding and lossy compression for bitonal images. Since DJVU file can contain compressed yet high-quality colour images, photographs, text, and drawings and can be saved in less space therefore, it's used on web as eBooks, manuals, newspapers, ancient documents, etc.
 <br/>
 There are following conversions on board:
 {{% /blocks/products/pf/feature-page-section %}}

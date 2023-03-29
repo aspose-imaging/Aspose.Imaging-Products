@@ -1,21 +1,21 @@
 ﻿---
-title: .NET 経由で EMZ から他の形式に変換します 
+title: .NET 画像 API を介して EMZ(Windows圧縮拡張メタファイル) から他の形式に変換する 
 weight: 3920
 url: /ja/net/conversion/from/emz 
 lang: ja
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging を使用すると、EMZ から別のフォーマットに簡単に変換できます
+description: Aspose.Imaging を使用すると、EMZ(Windows圧縮拡張メタファイル) から別のフォーマットに簡単に変換できます
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET による EMZ からの画像ファイルの変換" h2="EMZ から別の形式に変換する" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET 画像 API を介した EMZ(Windows圧縮拡張メタファイル) からの画像ファイルの変換" h2="Aspose.Imaging API を使用して Windows圧縮拡張メタファイル から他のフォーマットに変換" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="EMZ から変換する、サポートされているすべての画像形式" %}}
-Aspose.Imaging を使用すると、EMZ から .NET プラットフォーム上の他のフォーマットへの多くの変換を自動化できます。
+{{% blocks/products/pf/feature-page-section  h2="EMZ(Windows圧縮拡張メタファイル) から変換する、サポートされているすべての画像形式" %}}
+Aspose.Imaging を使用すると、EMZ から .NET プラットフォーム上の他のフォーマットへの多くの変換を自動化できます。 EMZファイル拡張子の付いたファイルは、圧縮イメージファイルであり、より具体的にはWindows圧縮拡張メタファイルファイルと呼ばれます。
 <br/>
-サポートされている変換の完全なリスト:
+サポートされている EMZ からの変換の完全なリスト:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

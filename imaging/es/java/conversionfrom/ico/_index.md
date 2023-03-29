@@ -1,20 +1,20 @@
 ﻿---
-title: Convierta de ICO a otros formatos admitidos usando Aspose.Imaging para Java 
+title: Convierta de ICO(icono de ventanas) a otros formatos admitidos usando Aspose.Imaging para Java API. 
 weight: 3920
 url: /es/java/conversion/from/ico 
 lang: es
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging puede convertir fácilmente de ICO a otros formatos usando la plataforma Java
+description: Aspose.Imaging puede convertir fácilmente de ICO(icono de ventanas) a otros formatos usando la plataforma Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convierta imágenes del formato ICO usando Aspose.Imaging para Java" h2="Convierta del formato de imagen ICO a otros formatos utilizando la plataforma Java" downloadText="Descargar" >}}
+{{< blocks/products/pf/feature-page-header h1="Convierta imágenes del formato ICO usando Aspose.Imaging para Java" h2="Convierta del formato de imagen ICO(icono de ventanas) a otros formatos utilizando la plataforma Java" downloadText="Descargar" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Amplio espectro de formatos de imagen que se pueden convertir a partir de imágenes ICO usando Aspose.Imaging para Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Amplio espectro de formatos de imagen que se pueden convertir a partir de imágenes ICO(icono de ventanas) usando Aspose.Imaging para Java" %}}
 Puede convertir programáticamente del formato ICO a otros formatos disponibles usando
-Aspose. Imaging para Java.
+Aspose. Imaging para Java. El formato de archivo ICO es un formato de archivo de imagen para iconos de computadora en Microsoft Windows. Los archivos ICO contienen una o más imágenes pequeñas en varios tamaños y profundidades de color, de modo que se pueden escalar adecuadamente. En Windows, todos los ejecutables que muestran un icono al usuario, en el escritorio, en el Menú Inicio o en el Explorador de Windows, deben llevar el icono en formato ICO.
 <br/>
 Hay las siguientes conversiones a bordo:
 {{% /blocks/products/pf/feature-page-section %}}

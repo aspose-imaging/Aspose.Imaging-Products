@@ -1,21 +1,21 @@
 ﻿---
-title: Convertir de WMF vers d'autres formats via .NET 
+title: Konvertieren Sie von WMF(Microsoft Windows-Metadatei) in andere Formate über die Bild-API von .NET 
 weight: 3920
 url: /de/net/conversion/from/wmf 
 lang: de
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Mit Aspose.Imaging können Sie ganz einfach von WMF in andere Formate konvertieren
+description: Mit Aspose.Imaging können Sie ganz einfach von WMF(Microsoft Windows-Metadatei) in andere Formate konvertieren
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertierung von Bilddateien von WMF über .NET" h2="Konvertieren Sie von WMF in andere Formate" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertierung von Bilddateien aus WMF (Microsoft Windows-Metadatei) über die Bild-API von .NET" h2="Konvertieren Sie mithilfe der Aspose.Imaging-API von Microsoft Windows-Metadatei in andere Formate" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bildformate zum Konvertieren von WMF" %}}
-Aspose.Imaging ermöglicht die Automatisierung vieler Konvertierungen von WMF in andere Formate auf der .NET-Plattform.
+{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bildformate zum Konvertieren von WMF(Microsoft Windows-Metadatei)" %}}
+Aspose.Imaging ermöglicht die Automatisierung vieler Konvertierungen von WMF in andere Formate auf der .NET-Plattform. Dateien mit der Erweiterung WMF stellen Microsoft Windows Metafile (WMF) zum Speichern von Bilddaten im Vektor- und Bitmap-Format dar. Genauer gesagt gehört WMF zur Kategorie der Vektordateiformate der Grafikdateiformate, die geräteunabhängig ist. Windows Graphical Device Interface (GDI) verwendet die in einer WMF-Datei gespeicherten Funktionen, um ein Bild auf dem Bildschirm anzuzeigen. Eine erweiterte Version von WMF, bekannt als Enhanced Meta Files (EMF), wurde später veröffentlicht, wodurch das Format funktionsreicher wird. In der Praxis ähneln WMF SVG.
 <br/>
-Vollständige Liste der unterstützten Konvertierungen:
+Vollständige Liste der unterstützten Konvertierungen von WMF:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

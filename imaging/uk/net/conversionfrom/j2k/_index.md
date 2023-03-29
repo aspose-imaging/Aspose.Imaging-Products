@@ -1,21 +1,21 @@
 ﻿---
-title: Конвертувати з J2K в інші формати за допомогою .NET 
+title: Перетворення з J2K(Wavelet Compressed Image) в інші формати за допомогою API зображень .NET 
 weight: 3920
 url: /uk/net/conversion/from/j2k 
 lang: uk
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: За допомогою Aspose.Imaging ви можете легко конвертувати з J2K в інші формати
+description: За допомогою Aspose.Imaging ви можете легко конвертувати з J2K(Wavelet Compressed Image) в інші формати
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Перетворення файлів зображень з J2K за допомогою .NET" h2="Конвертувати з J2K в інші формати" downloadText="Завантажити" >}}
+{{< blocks/products/pf/feature-page-header h1="Перетворення файлів зображень із J2K(Wavelet Compressed Image) через API зображень .NET" h2="Перетворюйте з Wavelet Compressed Image в інші формати за допомогою API Aspose.Imaging" downloadText="Завантажити" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для конвертації з J2K" %}}
-Aspose.Imaging дозволяє автоматизувати багато перетворень із J2K в інші формати на платформі .NET.
+{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для конвертації з J2K(Wavelet Compressed Image)" %}}
+Aspose.Imaging дозволяє автоматизувати багато перетворень із J2K в інші формати на платформі .NET. Файл J2K — це зображення, яке стискається за допомогою вейвлет-стиснення замість стиснення DCT.
 <br/>
-Повний список підтримуваних конвертацій:
+Повний список підтримуваних конвертацій із J2K:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

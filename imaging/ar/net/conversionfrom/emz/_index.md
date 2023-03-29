@@ -1,21 +1,21 @@
 ﻿---
-title: حوِّل من EMZ إلى تنسيقات أخرى عبر .NET 
+title: قم بالتحويل من EMZ (ملف تعريف محسن مضغوط لـ Windows) إلى تنسيقات أخرى عبر واجهة برمجة تطبيقات الصور .NET 
 weight: 3920
 url: /ar/net/conversion/from/emz 
 lang: ar
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: باستخدام Aspose.Imaging ، يمكنك بسهولة التحويل من EMZ إلى تنسيقات أخرى
+description: باستخدام Aspose.Imaging ، يمكنك بسهولة التحويل من EMZ(ملف تعريف محسن مضغوط لـ Windows) إلى تنسيقات أخرى
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل ملفات الصور من EMZ عبر .NET" h2="تحويل من EMZ إلى صيغ أخرى" downloadText="تحميل" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل ملفات الصور من EMZ (ملف تعريف محسن مضغوط لـ Windows) عبر .NET image API" h2="تحويل من ملف تعريف محسن مضغوط لـ Windows إلى تنسيقات أخرى باستخدام Aspose.Imaging API" downloadText="تحميل" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="جميع تنسيقات الصور المدعومة للتحويل من EMZ" %}}
-يسمح Aspose.Imaging بأتمتة الكثير من التحويلات من EMZ إلى تنسيقات أخرى على منصة .NET.
+{{% blocks/products/pf/feature-page-section  h2="جميع تنسيقات الصور المدعومة المراد تحويلها من EMZ (ملف تعريف محسن مضغوط لـ Windows)" %}}
+يسمح Aspose.Imaging بأتمتة الكثير من التحويلات من EMZ إلى تنسيقات أخرى على منصة .NET. الملف بامتداد ملف EMZ هو ملف صورة مضغوط ، يشار إليه بشكل أكثر تحديدًا باسم ملف Windows Compressed Enhanced Metafile
 <br/>
-القائمة الكاملة للتحويلات المدعومة:
+القائمة الكاملة للتحويلات المدعومة من EMZ:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

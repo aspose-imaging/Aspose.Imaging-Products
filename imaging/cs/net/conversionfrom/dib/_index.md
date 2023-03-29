@@ -1,21 +1,21 @@
 ﻿---
-title: Převést z DIB do jiných formátů přes .NET 
+title: Převést z formátu DIB(Bitmap nezávislý na zařízení) do jiných formátů prostřednictvím rozhraní API pro obrázky .NET 
 weight: 3920
 url: /cs/net/conversion/from/dib 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Pomocí Aspose.Imaging můžete snadno převést z formátu DIB do jiných formátů
+description: Pomocí Aspose.Imaging můžete snadno převést z formátu DIB(Bitmap nezávislý na zařízení) do jiných formátů
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů z formátu DIB prostřednictvím .NET" h2="Převést z DIB do jiných formátů" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů z formátu DIB(Bitmap nezávislý na zařízení) prostřednictvím rozhraní API pro obrázky .NET" h2="Převeďte z Bitmap nezávislý na zařízení do jiných formátů pomocí Aspose.Imaging API" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu z formátu DIB" %}}
-Aspose.Imaging umožňuje automatizovat mnoho konverzí z DIB do jiných formátů na platformě .NET.
+{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu z formátu DIB (Bitmap nezávislý na zařízení)" %}}
+Aspose.Imaging umožňuje automatizovat mnoho konverzí z DIB do jiných formátů na platformě .NET. Soubor DIB (Device Independent Bitmap) je soubor rastrového obrázku, který má podobnou strukturu jako standardní bitmapové soubory (BMP), ale má jiné záhlaví. Lze jej otevřít téměř všemi aplikacemi, které dokážou otevřít standardní soubor BMP ve Windows i macOS. DIB jsou binární soubory a mají složitý formát souborů podobný BMP.
 <br/>
-Úplný seznam podporovaných konverzí:
+Úplný seznam podporovaných konverzí z DIB:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

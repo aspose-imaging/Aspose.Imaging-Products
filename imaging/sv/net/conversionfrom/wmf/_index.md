@@ -1,21 +1,21 @@
 ﻿---
-title: Konvertera från WMF till andra format via .NET 
+title: Konvertera från WMF(Microsoft Windows metafil) till andra format via .NET bild-API 
 weight: 3920
 url: /sv/net/conversion/from/wmf 
 lang: sv
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Med Aspose.Imaging kan du enkelt konvertera från WMF till ett annat format
+description: Med Aspose.Imaging kan du enkelt konvertera från WMF(Microsoft Windows metafil) till ett annat format
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertering av bildfiler från WMF via .NET" h2="Konvertera från WMF till ett annat format" downloadText="Ladda ner" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertering av bildfiler från WMF(Microsoft Windows metafil) via .NET bild-API" h2="Konvertera från Microsoft Windows metafil till andra format med Aspose.Imaging API" downloadText="Ladda ner" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alla bildformat som stöds för att konvertera från WMF" %}}
-Aspose.Imaging låter automatisera många konverteringar från WMF till andra format på .NET-plattformen.
+{{% blocks/products/pf/feature-page-section  h2="Alla bildformat som stöds att konvertera från WMF(Microsoft Windows metafil)" %}}
+Aspose.Imaging låter automatisera många konverteringar från WMF till andra format på .NET-plattformen. Filer med WMF-tillägg representerar Microsoft Windows Metafile (WMF) för lagring av vektor- och bitmappsformat bilddata. För att vara mer exakt tillhör WMF kategorin vektorfilformat för grafikfilformat som är enhetsoberoende. Windows Graphical Device Interface (GDI) använder funktionerna som är lagrade i en WMF-fil för att visa en bild på skärmen. En mer förbättrad version av WMF, känd som Enhanced Meta Files (EMF), publicerades senare som gör formatet mer funktionsrikt. Praktiskt taget liknar WMF SVG.
 <br/>
-Fullständig lista över omvandlingar som stöds:
+Fullständig lista över omvandlingar som stöds från WMF:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

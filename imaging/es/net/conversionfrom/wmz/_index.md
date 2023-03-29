@@ -1,21 +1,21 @@
 ﻿---
-title: Convertir de WMZ vers d'autres formats via .NET 
+title: Convierta de WMZ(Máscara de Windows Media Player comprimida) a otros formatos a través de la API de imágenes .NET 
 weight: 3920
 url: /es/net/conversion/from/wmz 
 lang: es
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging puede convertir fácilmente de WMZ a otros formatos
+description: Usando Aspose.Imaging puede convertir fácilmente de WMZ(Máscara de Windows Media Player comprimida) a otros formatos
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversión de archivos de imagen de WMZ a través de .NET" h2="Convertir de WMZ a otros formatos" downloadText="Descargar" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversión de archivos de imagen de WMZ(Máscara de Windows Media Player comprimida) a través de la API de imagen .NET" h2="Convierta de Máscara de Windows Media Player comprimida a otros formatos usando Aspose.Imaging API" downloadText="Descargar" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos los formatos de imagen admitidos para convertir desde WMZ" %}}
-Aspose.Imaging permite automatizar muchas conversiones de WMZ a otros formatos en la plataforma .NET.
+{{% blocks/products/pf/feature-page-section  h2="Todos los formatos de imagen admitidos para convertir desde WMZ(Máscara de Windows Media Player comprimida)" %}}
+Aspose.Imaging permite automatizar muchas conversiones de WMZ a otros formatos en la plataforma .NET. WMZ es una extensión de archivo para un formato de archivo de máscara en/para/utilizado por Windows Media Player. Un archivo WMZ es básicamente un archivo WMF comprimido en XML.
 <br/>
-Lista completa de conversiones admitidas:
+Lista completa de conversiones admitidas de WMZ:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -1,21 +1,21 @@
 ﻿---
-title: Convertir de EMF vers d'autres formats via .NET 
+title: Konvertieren Sie von EMF(Verbessertes Metafile-Format) in andere Formate über die Bild-API von .NET 
 weight: 3920
 url: /de/net/conversion/from/emf 
 lang: de
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Mit Aspose.Imaging können Sie ganz einfach von EMF in andere Formate konvertieren
+description: Mit Aspose.Imaging können Sie ganz einfach von EMF(Verbessertes Metafile-Format) in andere Formate konvertieren
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertierung von Bilddateien von EMF über .NET" h2="Konvertieren Sie von EMF in andere Formate" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertierung von Bilddateien aus EMF (Verbessertes Metafile-Format) über die Bild-API von .NET" h2="Konvertieren Sie mithilfe der Aspose.Imaging-API von Verbessertes Metafile-Format in andere Formate" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bildformate zum Konvertieren von EMF" %}}
-Aspose.Imaging ermöglicht die Automatisierung vieler Konvertierungen von EMF in andere Formate auf der .NET-Plattform.
+{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bildformate zum Konvertieren von EMF(Verbessertes Metafile-Format)" %}}
+Aspose.Imaging ermöglicht die Automatisierung vieler Konvertierungen von EMF in andere Formate auf der .NET-Plattform. Enhanced Metafile Format (EMF) speichert grafische Bilder geräteunabhängig. Metadateien von EMF bestehen aus Datensätzen variabler Länge in chronologischer Reihenfolge, die das gespeicherte Bild nach dem Analysieren auf jedem Ausgabegerät wiedergeben können. Diese Datensätze mit variabler Länge können Definitionen eingeschlossener Objekte, Zeichenbefehle und Grafikeigenschaften sein, die für die genaue Wiedergabe des Bildes entscheidend sind. Wenn ein Gerät eine EMF-Metadatei mit seiner eigenen Grafikumgebung öffnet, bleiben die Proportionen, Abmessungen, Farben und andere Grafikeigenschaften des Originalbilds gleich, unabhängig von der Plattform des öffnenden Geräts.
 <br/>
-Vollständige Liste der unterstützten Konvertierungen:
+Vollständige Liste der unterstützten Konvertierungen von EMF:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -1,21 +1,21 @@
 ﻿---
-title: .NET 経由で BMP から他の形式に変換します 
+title: .NET 画像 API を介して BMP(ビットマップ画像) から他の形式に変換する 
 weight: 3920
 url: /ja/net/conversion/from/bmp 
 lang: ja
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging を使用すると、BMP から別のフォーマットに簡単に変換できます
+description: Aspose.Imaging を使用すると、BMP(ビットマップ画像) から別のフォーマットに簡単に変換できます
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET による BMP からの画像ファイルの変換" h2="BMP から別の形式に変換する" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET 画像 API を介した BMP(ビットマップ画像) からの画像ファイルの変換" h2="Aspose.Imaging API を使用して ビットマップ画像 から他のフォーマットに変換" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="BMP から変換する、サポートされているすべての画像形式" %}}
-Aspose.Imaging を使用すると、BMP から .NET プラットフォーム上の他のフォーマットへの多くの変換を自動化できます。
+{{% blocks/products/pf/feature-page-section  h2="BMP(ビットマップ画像) から変換する、サポートされているすべての画像形式" %}}
+Aspose.Imaging を使用すると、BMP から .NET プラットフォーム上の他のフォーマットへの多くの変換を自動化できます。 拡張子が.BMPのファイルは、ビットマップデジタル画像の保存に使用されるビットマップ画像ファイルを表します。これらの画像はグラフィックアダプタから独立しており、デバイスに依存しないビットマップ（DIB）ファイル形式とも呼ばれます。この独立性は、MicrosoftWindowsやMacなどの複数のプラットフォームでファイルを開くという目的を果たします。 BMPファイル形式では、データを2次元デジタル画像として、モノクロとさまざまな色深度のカラー形式の両方で保存できます。
 <br/>
-サポートされている変換の完全なリスト:
+サポートされている BMP からの変換の完全なリスト:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

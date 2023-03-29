@@ -1,21 +1,21 @@
 ﻿---
-title: Převést z TIF do jiných formátů přes .NET 
+title: Převést z formátu TIF(Formát tagovaného obrázku) do jiných formátů prostřednictvím rozhraní API pro obrázky .NET 
 weight: 3920
 url: /cs/net/conversion/from/tif 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Pomocí Aspose.Imaging můžete snadno převést z formátu TIF do jiných formátů
+description: Pomocí Aspose.Imaging můžete snadno převést z formátu TIF(Formát tagovaného obrázku) do jiných formátů
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů z formátu TIF prostřednictvím .NET" h2="Převést z TIF do jiných formátů" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů z formátu TIF(Formát tagovaného obrázku) prostřednictvím rozhraní API pro obrázky .NET" h2="Převeďte z Formát tagovaného obrázku do jiných formátů pomocí Aspose.Imaging API" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu z formátu TIF" %}}
-Aspose.Imaging umožňuje automatizovat mnoho konverzí z TIF do jiných formátů na platformě .NET.
+{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu z formátu TIF (Formát tagovaného obrázku)" %}}
+Aspose.Imaging umožňuje automatizovat mnoho konverzí z TIF do jiných formátů na platformě .NET. 
 <br/>
-Úplný seznam podporovaných konverzí:
+Úplný seznam podporovaných konverzí z TIF:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

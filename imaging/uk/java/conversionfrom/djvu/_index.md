@@ -1,20 +1,20 @@
 ﻿---
-title: Перетворюйте з DJVU в інші підтримувані формати за допомогою Aspose.Imaging для Java 
+title: Перетворюйте з DJVU(Графічний формат) в інші підтримувані формати за допомогою Aspose.Imaging for Java API 
 weight: 3920
 url: /uk/java/conversion/from/djvu 
 lang: uk
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging може легко конвертувати з DJVU в інші формати за допомогою платформи Java
+description: Aspose.Imaging може легко конвертувати з DJVU(Графічний формат) в інші формати за допомогою платформи Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Перетворіть зображення з формату DJVU за допомогою Aspose.Imaging for Java" h2="Перетворіть формат зображення DJVU в інші формати за допомогою платформи Java" downloadText="Завантажити" >}}
+{{< blocks/products/pf/feature-page-header h1="Перетворіть зображення з формату DJVU за допомогою Aspose.Imaging for Java" h2="Перетворіть формат зображення DJVU(Графічний формат) в інші формати за допомогою платформи Java" downloadText="Завантажити" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Спектр форматів зображень, які можна конвертувати з DJVU зображень за допомогою Aspose.Imaging for Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Спектр форматів зображень, які можна конвертувати з DJVU(Графічний формат) зображень за допомогою Aspose.Imaging for Java" %}}
 Ви можете програмно конвертувати формат DJVU в інші доступні формати за допомогою
-Aspose.Imaging for Java.
+Aspose.Imaging for Java. DjVu, що вимовляється як «дежавю», — це формат графічних файлів, призначений для відсканованих документів і книг, особливо тих, які містять поєднання тексту, малюнків, зображень і фотографій. Він був розроблений AT&T Labs. Він використовує кілька методів, як-от поділ тексту та фонових зображень шаром зображення, прогресивне завантаження, арифметичне кодування та стиснення з втратами для бітональних зображень. Оскільки файл DJVU може містити стиснуті, але високоякісні кольорові зображення, фотографії, текст і малюнки та може бути збережений у меншому місці, він використовується в Інтернеті як електронні книги, посібники, газети, старовинні документи тощо.
 <br/>
 Наведено такі перетворення:
 {{% /blocks/products/pf/feature-page-section %}}

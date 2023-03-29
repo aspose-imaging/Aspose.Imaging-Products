@@ -1,19 +1,19 @@
 ﻿---
-title: Convert images to TGA image format from other supported formats using .NET platform 
+title: Convert images to TGA(Targa Graphic) image format from other supported formats using .NET platform 
 weight: 3920
 url: /net/conversion/to/tga 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Using Aspose.Imaging for .NET library it is easy to convert to TGA from other supported image formats
+description: Using Aspose.Imaging for .NET library it is easy to convert to TGA(Targa Graphic) from other supported image formats
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert Image Files to TGA image format using .NET platform" h2="Convert to TGA format from other formats using Aspose.Imaging for .NET library" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert Image Files to TGA(Targa Graphic) image format using .NET platform" h2="Convert to Targa Graphic format from other formats using Aspose.Imaging for .NET library" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="All supported conversions to TGA format using Aspose.Imaging for .NET library" %}}
-Using Aspose.Imaging library you can programmatically convert various image formats to TGA image.
+{{% blocks/products/pf/feature-page-section  h2="All supported conversions to TGA(Targa Graphic) format using Aspose.Imaging for .NET library" %}}
+Using Aspose.Imaging library you can programmatically convert various image formats to TGA image. Truevision TGA, often referred to as TARGA, is a raster graphics file format created by Truevision Inc. (now part of Avid Technology). It was the native format of TARGA and VISTA boards, which were the first graphic cards for IBM-compatible PCs to support Highcolor/truecolor display.
 <br/>
 Following conversions are supported :
 {{% /blocks/products/pf/feature-page-section %}}

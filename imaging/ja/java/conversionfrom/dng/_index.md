@@ -1,20 +1,20 @@
 ﻿---
-title: Aspose.Imaging for Java を使用して、DNG から他のサポートされている形式に変換します。 
+title: Aspose.Imaging for Java API を使用して、DNG(デジタルカメラ画像) から他のサポートされている形式に変換します。 
 weight: 3920
 url: /ja/java/conversion/from/dng 
 lang: ja
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging は、Java プラットフォームを使用して DNG から他のフォーマットに簡単に変換できます
+description: Aspose.Imaging は、Java プラットフォームを使用して DNG(デジタルカメラ画像) から他のフォーマットに簡単に変換できます
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java を使用して DNG フォーマットから画像を変換します" h2="Java プラットフォームを使用して、DNG 画像形式から他の形式に変換します" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java を使用して DNG フォーマットから画像を変換します" h2="Java プラットフォームを使用して、DNG(デジタルカメラ画像) 画像形式から他の形式に変換します" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java を使用して DNG 画像から変換できる幅広い画像フォーマット" %}}
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java を使用して DNG(デジタルカメラ画像) 画像から変換できる幅広い画像フォーマット" %}}
 次を使用して、DNG 形式から他の使用可能な形式にプログラムで変換できます。
-Aspose.Imaging for Java。
+Aspose.Imaging for Java。 DNGは、rawファイルの保存に使用されるデジタルカメラの画像形式です。 2004年9月にAdobeによって開発されました。基本的にデジタル写真用に開発されました。 DNGはTIFF / EP標準形式の拡張であり、メタデータを大幅に使用します。柔軟性と芸術的な制御を容易にしてデジタルカメラからの生データを操作するために、写真家はカメラ生ファイルを選択します。 JPEGおよびTIFF形式は、カメラによって処理される画像を保存するため、このような形式では変更の余地があまりありません。
 <br/>
 機内では次の変換があります。
 {{% /blocks/products/pf/feature-page-section %}}

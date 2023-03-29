@@ -1,21 +1,21 @@
 ﻿---
-title: Converti da OTG in altri formati tramite .NET 
+title: Conversione da OTG(Standard OpenDocument) ad altri formati tramite API immagine .NET 
 weight: 3920
 url: /it/net/conversion/from/otg 
 lang: it
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging puoi facilmente convertire da OTG ad altri formati
+description: Usando Aspose.Imaging puoi facilmente convertire da OTG(Standard OpenDocument) ad altri formati
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversione di file immagine da OTG tramite .NET" h2="Converti da OTG in altri formati" downloadText="Scarica" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversione di file immagine da OTG(Standard OpenDocument) tramite l'API immagine .NET" h2="Converti da Standard OpenDocument in altri formati utilizzando l'API Aspose.Imaging" downloadText="Scarica" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tutti i formati immagine supportati per la conversione da OTG" %}}
-Aspose.Imaging consente di automatizzare molte conversioni da OTG ad altri formati sulla piattaforma .NET.
+{{% blocks/products/pf/feature-page-section  h2="Tutti i formati immagine supportati per la conversione da OTG(Standard OpenDocument)" %}}
+Aspose.Imaging consente di automatizzare molte conversioni da OTG ad altri formati sulla piattaforma .NET. Un file OTG è un modello di disegno creato utilizzando lo standard OpenDocument che segue la specifica OASIS Office Applications 1.0. Rappresenta l'organizzazione predefinita degli elementi di disegno per un'immagine vettoriale che può essere utilizzata per migliorare ulteriormente il contenuto del file.
 <br/>
-Elenco completo delle conversioni supportate:
+Elenco completo delle conversioni supportate da OTG:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -1,20 +1,20 @@
 ﻿---
-title: Converteer van SVGZ naar andere ondersteunde formaten met Aspose.Imaging voor Java 
+title: Converteer van SVGZ(Gecomprimeerde versie van het Scalable Vector Graphics-bestand (.SVG).) naar andere ondersteunde formaten met Aspose.Imaging voor Java API 
 weight: 3920
 url: /nl/java/conversion/from/svgz 
 lang: nl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging kan eenvoudig converteren van SVGZ naar andere formaten met behulp van het Java-platform
+description: Aspose.Imaging kan eenvoudig converteren van SVGZ(Gecomprimeerde versie van het Scalable Vector Graphics-bestand (.SVG).) naar andere formaten met behulp van het Java-platform
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer afbeeldingen van SVGZ-indeling met Aspose.Imaging voor Java" h2="Converteer van SVGZ afbeeldingsformaat naar andere formaten met behulp van het Java-platform" downloadText="Downloaden" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer afbeeldingen van SVGZ-indeling met Aspose.Imaging voor Java" h2="Converteer van SVGZ(Gecomprimeerde versie van het Scalable Vector Graphics-bestand (.SVG).) afbeeldingsformaat naar andere formaten met behulp van het Java-platform" downloadText="Downloaden" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Breed spectrum aan afbeeldingsindelingen die kunnen worden geconverteerd van SVGZ-afbeeldingen met Aspose.Imaging voor Java" %}}
+{{% blocks/products/pf/feature-page-section  h2="Breed spectrum aan afbeeldingsindelingen die kunnen worden geconverteerd van SVGZ(Gecomprimeerde versie van het Scalable Vector Graphics-bestand (.SVG).)-afbeeldingen met Aspose.Imaging voor Java" %}}
 U kunt programmatisch converteren van het SVGZ-formaat naar andere beschikbare formaten met behulp van
-Aspose.Imaging voor Java.
+Aspose.Imaging voor Java. Een bestand met de extensie .svgz is een gecomprimeerde versie van het Scalable Vector Graphics-bestand (.SVG). Het is gecomprimeerd met gzip-compressie en bevat gegevens in XML-indeling. SVGZ-bestanden ondersteunen transparantie, verlopen, animaties en filters. SVGZ-bestanden zijn kleiner in vergelijking met de standaard SVG-bestanden en deze kleinere bestandsgrootte helpt de grafische bestanden online over te zetten. Grafisch ontwerper maakt SVGZ-bestanden met tools zoals Adobe Illustrator, Corel PaintShop Pro en andere. SVGZ-bestanden kunnen echter worden gegenereerd door GZip-compressie in de Apache-server in te schakelen terwijl de afbeeldingsgegevens worden verzonden.
 <br/>
 Er zijn de volgende verbouwingen aan boord:
 {{% /blocks/products/pf/feature-page-section %}}

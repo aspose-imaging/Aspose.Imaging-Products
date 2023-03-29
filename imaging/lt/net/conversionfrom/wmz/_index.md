@@ -1,21 +1,21 @@
 ﻿---
-title: Konvertuoti iš WMZ į kitus formatus per .NET 
+title: Konvertuoti iš WMZ(Suspausta Windows Media Player oda) į kitus formatus naudojant .NET vaizdo API 
 weight: 3920
 url: /lt/net/conversion/from/wmz 
 lang: lt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Naudodami Aspose.Imaging galite lengvai konvertuoti iš WMZ į kitus formatus
+description: Naudodami Aspose.Imaging galite lengvai konvertuoti iš WMZ(Suspausta Windows Media Player oda) į kitus formatus
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas iš WMZ naudojant .NET" h2="Konvertuoti iš WMZ į kitus formatus" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas iš WMZ(Suspausta Windows Media Player oda) naudojant .NET vaizdo API" h2="Konvertuokite iš Suspausta Windows Media Player oda į kitus formatus naudodami Aspose.Imaging API" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai konvertuoti iš WMZ" %}}
-Aspose.Imaging leidžia automatizuoti daug konversijų iš WMZ į kitus formatus .NET platformoje.
+{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai, konvertuojami iš WMZ(Suspausta Windows Media Player oda)" %}}
+Aspose.Imaging leidžia automatizuoti daug konversijų iš WMZ į kitus formatus .NET platformoje. WMZ yra „Windows Media Player“ / „Windows Media Player“ naudojamo odos failo formato failo plėtinys. WMZ failas iš esmės yra suglaudintas WMF failas XML formatu.
 <br/>
-Visas palaikomų konversijų sąrašas:
+Visas palaikomų konversijų iš WMZ sąrašas:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
