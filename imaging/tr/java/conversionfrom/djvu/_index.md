@@ -14,7 +14,7 @@ description: Aspose.Imaging, Java platformunu kullanarak DJVU(Grafik Formatı) b
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java kullanılarak DJVU(Grafik Formatı) görüntülerden dönüştürülebilen geniş görüntü formatları yelpazesi" %}}
 kullanarak DJVU biçiminden diğer kullanılabilir biçimlere programlı olarak dönüştürebilirsiniz.
-Java için Aspose.Imaging. DjVu, “déjà vu” olarak telaffuz edilir, özellikle metin, çizim, resim ve fotoğrafların birleşimini içeren taranmış belgeler ve kitaplar için tasarlanmış bir grafik dosya formatıdır. AT&T Labs tarafından geliştirilmiştir. Metin ve arka plan görüntülerinin görüntü katmanı ayrımı, aşamalı yükleme, aritmetik kodlama ve iki tonlu görüntüler için kayıplı sıkıştırma gibi birden çok teknik kullanır. DJVU dosyası sıkıştırılmış ancak yüksek kaliteli renkli görüntüler, fotoğraflar, metinler ve çizimler içerebildiğinden ve daha az alana kaydedilebildiğinden, web'de e-Kitaplar, kılavuzlar, gazeteler, eski belgeler vb. olarak kullanılır.
+Java için Aspose.Imaging. DjVu, DJVU olarak telaffuz edilir, özellikle metin, çizim, resim ve fotoğrafların birleşimini içeren taranmış belgeler ve kitaplar için tasarlanmış bir grafik dosya formatıdır. AT&T Labs tarafından geliştirilmiştir. Metin ve arka plan görüntülerinin görüntü katmanı ayrımı, aşamalı yükleme, aritmetik kodlama ve iki tonlu görüntüler için kayıplı sıkıştırma gibi birden çok teknik kullanır. DJVU dosyası sıkıştırılmış ancak yüksek kaliteli renkli görüntüler, fotoğraflar, metinler ve çizimler içerebildiğinden ve daha az alana kaydedilebildiğinden, web'de e-Kitaplar, kılavuzlar, gazeteler, eski belgeler vb. olarak kullanılır.
 <br/>
 Gemide aşağıdaki dönüşümler var:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -14,7 +14,7 @@ description: „Aspose.Imaging“ gali lengvai konvertuoti iš DJVU(Grafikos for
 
 {{% blocks/products/pf/feature-page-section  h2="Platus vaizdo formatų spektras, kurį galima konvertuoti iš DJVU(Grafikos formatas) vaizdų naudojant Aspose.Imaging for Java" %}}
 Galite programiškai konvertuoti iš DJVU formato į kitus galimus formatus naudodami
-Aspose.Imaging for Java. DjVu, tariamas kaip „déjà vu“, yra grafinis failo formatas, skirtas nuskaitytiems dokumentams ir knygoms, ypač tiems, kuriuose yra teksto, piešinių, vaizdų ir nuotraukų derinys. Jį sukūrė AT&T Labs. Jame naudojami keli būdai, pvz., teksto ir fono vaizdų atskyrimas vaizdo sluoksniais, laipsniškas įkėlimas, aritmetinis kodavimas ir nuostolingas bitoninių vaizdų glaudinimas. Kadangi DJVU faile gali būti suspaustų, tačiau aukštos kokybės spalvotų vaizdų, nuotraukų, teksto ir piešinių, todėl jį galima išsaugoti mažiau vietos, jis naudojamas žiniatinklyje kaip el. knygos, žinynai, laikraščiai, senoviniai dokumentai ir kt.
+Aspose.Imaging for Java. DjVu, tariamas kaip DJVU, yra grafinis failo formatas, skirtas nuskaitytiems dokumentams ir knygoms, ypač tiems, kuriuose yra teksto, piešinių, vaizdų ir nuotraukų derinys. Jį sukūrė AT&T Labs. Jame naudojami keli būdai, pvz., teksto ir fono vaizdų atskyrimas vaizdo sluoksniais, laipsniškas įkėlimas, aritmetinis kodavimas ir nuostolingas bitoninių vaizdų glaudinimas. Kadangi DJVU faile gali būti suspaustų, tačiau aukštos kokybės spalvotų vaizdų, nuotraukų, teksto ir piešinių, todėl jį galima išsaugoti mažiau vietos, jis naudojamas žiniatinklyje kaip el. knygos, žinynai, laikraščiai, senoviniai dokumentai ir kt.
 <br/>
 Laive yra šios konversijos:
 {{% /blocks/products/pf/feature-page-section %}}
