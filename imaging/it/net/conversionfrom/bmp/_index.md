@@ -13,7 +13,7 @@ description: Usando Aspose.Imaging puoi facilmente convertire da BMP(Immagine bi
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tutti i formati immagine supportati per la conversione da BMP(Immagine bitmap)" %}}
-Aspose.Imaging consente di automatizzare molte conversioni da BMP ad altri formati sulla piattaforma .NET. I file con estensione .BMP rappresentano file di immagine bitmap che vengono utilizzati per memorizzare immagini digitali bitmap. Queste immagini sono indipendenti dalla scheda grafica e sono anche chiamate formato file DIB (Device Independent Bitmap). Questa indipendenza serve allo scopo di aprire il file su più piattaforme come Microsoft Windows e Mac. Il formato file BMP può memorizzare dati come immagini digitali bidimensionali sia in formato monocromatico che a colori con varie profondità di colore.
+<p align=justify>Aspose.Imaging consente di automatizzare molte conversioni da BMP ad altri formati sulla piattaforma .NET. I file con estensione .BMP rappresentano file di immagine bitmap che vengono utilizzati per memorizzare immagini digitali bitmap. Queste immagini sono indipendenti dalla scheda grafica e sono anche chiamate formato file DIB (Device Independent Bitmap). Questa indipendenza serve allo scopo di aprire il file su più piattaforme come Microsoft Windows e Mac. Il formato file BMP può memorizzare dati come immagini digitali bidimensionali sia in formato monocromatico che a colori con varie profondità di colore.</p>
 <br/>
 Elenco completo delle conversioni supportate da BMP:
 {{% /blocks/products/pf/feature-page-section %}}

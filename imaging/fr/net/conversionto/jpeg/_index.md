@@ -13,7 +13,7 @@ description: En utilisant Aspose.Imaging pour la bibliothèque .NET, il est faci
 
 
 {{% blocks/products/pf/feature-page-section  h2="Toutes les conversions prises en charge au format JPEG(Groupe mixte d'experts photographiques) à l'aide de la bibliothèque Aspose.Imaging pour .NET" %}}
-À l'aide de la bibliothèque Aspose.Imaging, vous pouvez convertir par programmation divers formats d'image en image JPEG. Un JPEG est un type de format d'image enregistré à l'aide de la méthode de compression avec perte. L'image de sortie, résultant de la compression, est un compromis entre la taille de stockage et la qualité de l'image. Les utilisateurs peuvent ajuster le niveau de compression pour atteindre le niveau de qualité souhaité tout en réduisant la taille de stockage. La qualité de l'image est négligeable si une compression 10:1 est appliquée à l'image. Plus la valeur de compression est élevée, plus la dégradation de la qualité de l'image est importante.
+<p align=justify>À l'aide de la bibliothèque Aspose.Imaging, vous pouvez convertir par programmation divers formats d'image en image JPEG. Un JPEG est un type de format d'image enregistré à l'aide de la méthode de compression avec perte. L'image de sortie, résultant de la compression, est un compromis entre la taille de stockage et la qualité de l'image. Les utilisateurs peuvent ajuster le niveau de compression pour atteindre le niveau de qualité souhaité tout en réduisant la taille de stockage. La qualité de l'image est négligeable si une compression 10:1 est appliquée à l'image. Plus la valeur de compression est élevée, plus la dégradation de la qualité de l'image est importante. </p>
 <br/>
 Les conversions suivantes sont prises en charge :
 {{% /blocks/products/pf/feature-page-section %}}

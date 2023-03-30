@@ -13,8 +13,8 @@ description: Aspose.Imaging lze snadno převést z formátu OTG(OpenDocument Sta
 
 
 {{% blocks/products/pf/feature-page-section  h2="Široké spektrum obrazových formátů, které lze převést z obrázků OTG(OpenDocument Standard) pomocí Aspose.Imaging for Java" %}}
-Můžete programově převádět z formátu OTG do jiných dostupných formátů pomocí
-Aspose.Imaging pro Javu. Soubor OTG je šablona výkresu vytvořená pomocí standardu OpenDocument podle specifikace OASIS Office Applications 1.0. Představuje výchozí organizaci prvků výkresu pro vektorový obrázek, který lze použít k dalšímu vylepšení obsahu souboru.
+<p align=justify>Můžete programově převádět z formátu OTG do jiných dostupných formátů pomocí
+Aspose.Imaging pro Javu. Soubor OTG je šablona výkresu vytvořená pomocí standardu OpenDocument podle specifikace OASIS Office Applications 1.0. Představuje výchozí organizaci prvků výkresu pro vektorový obrázek, který lze použít k dalšímu vylepšení obsahu souboru.</p>
 <br/>
 Na palubě jsou následující konverze:
 {{% /blocks/products/pf/feature-page-section %}}

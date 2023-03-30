@@ -13,8 +13,8 @@ description: Aspose.Imaging może łatwo konwertować z formatu TIFF(Oznaczony f
 
 
 {{% blocks/products/pf/feature-page-section  h2="Szerokie spektrum formatów obrazów, które można konwertować z obrazów TIFF(Oznaczony format obrazu) przy użyciu Aspose.Imaging for Java" %}}
-Możesz programowo przekonwertować z formatu TIFF na inne dostępne formaty za pomocą
-Aspose.Imaging dla Javy. TIFF lub TIF, Tagged Image File Format, reprezentuje obrazy rastrowe przeznaczone do użytku na różnych urządzeniach zgodnych z tym standardem formatu plików. Jest w stanie opisać dane obrazu dwupoziomowego, w skali szarości, w palecie kolorów i w pełnym kolorze w kilku przestrzeniach kolorów. Obsługuje stratne i bezstratne schematy kompresji, aby wybrać między przestrzenią a czasem dla aplikacji korzystających z formatu. Format jest rozszerzalny i przeszedł kilka zmian, które umożliwiają włączenie nieograniczonej ilości informacji prywatnych lub informacji specjalnego przeznaczenia. Format nie jest zależny od komputera i nie zawiera ograniczeń, takich jak procesor, system operacyjny lub systemy plików.
+<p align=justify>Możesz programowo przekonwertować z formatu TIFF na inne dostępne formaty za pomocą
+Aspose.Imaging dla Javy. TIFF lub TIF, Tagged Image File Format, reprezentuje obrazy rastrowe przeznaczone do użytku na różnych urządzeniach zgodnych z tym standardem formatu plików. Jest w stanie opisać dane obrazu dwupoziomowego, w skali szarości, w palecie kolorów i w pełnym kolorze w kilku przestrzeniach kolorów. Obsługuje stratne i bezstratne schematy kompresji, aby wybrać między przestrzenią a czasem dla aplikacji korzystających z formatu. Format jest rozszerzalny i przeszedł kilka zmian, które umożliwiają włączenie nieograniczonej ilości informacji prywatnych lub informacji specjalnego przeznaczenia. Format nie jest zależny od komputera i nie zawiera ograniczeń, takich jak procesor, system operacyjny lub systemy plików.</p>
 <br/>
 Na pokładzie znajdują się następujące konwersje:
 {{% /blocks/products/pf/feature-page-section %}}

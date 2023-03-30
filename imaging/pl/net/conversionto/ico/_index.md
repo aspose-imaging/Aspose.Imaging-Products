@@ -13,7 +13,7 @@ description: Korzystając z biblioteki Aspose.Imaging dla .NET, można łatwo pr
 
 
 {{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane konwersje do formatu ICO(Ikona Windows) przy użyciu biblioteki Aspose.Imaging for .NET" %}}
-Korzystając z biblioteki Aspose.Imaging możesz programowo konwertować różne formaty obrazów na obraz ICO. Format pliku ICO to format pliku obrazu dla ikon komputera w systemie Microsoft Windows. Pliki ICO zawierają jeden lub więcej małych obrazów o różnych rozmiarach i głębi kolorów, dzięki czemu można je odpowiednio skalować. W systemie Windows wszystkie pliki wykonywalne, które wyświetlają użytkownikowi ikonę na pulpicie, w menu Start lub w Eksploratorze Windows, muszą zawierać ikonę w formacie ICO.
+<p align=justify>Korzystając z biblioteki Aspose.Imaging możesz programowo konwertować różne formaty obrazów na obraz ICO. Format pliku ICO to format pliku obrazu dla ikon komputera w systemie Microsoft Windows. Pliki ICO zawierają jeden lub więcej małych obrazów o różnych rozmiarach i głębi kolorów, dzięki czemu można je odpowiednio skalować. W systemie Windows wszystkie pliki wykonywalne, które wyświetlają użytkownikowi ikonę na pulpicie, w menu Start lub w Eksploratorze Windows, muszą zawierać ikonę w formacie ICO.</p>
 <br/>
 Obsługiwane są następujące konwersje:
 {{% /blocks/products/pf/feature-page-section %}}

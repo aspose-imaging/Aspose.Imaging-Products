@@ -13,8 +13,8 @@ description: Aspose.Imaging kan eenvoudig converteren van DIB(Apparaatonafhankel
 
 
 {{% blocks/products/pf/feature-page-section  h2="Breed spectrum aan afbeeldingsindelingen die kunnen worden geconverteerd van DIB(Apparaatonafhankelijke bitmap)-afbeeldingen met Aspose.Imaging voor Java" %}}
-U kunt programmatisch converteren van het DIB-formaat naar andere beschikbare formaten met behulp van
-Aspose.Imaging voor Java. Een DIB-bestand (Device Independent Bitmap) is een rasterafbeeldingsbestand dat qua structuur vergelijkbaar is met de standaard Bitmap-bestanden (BMP), maar een andere kop heeft. Het kan worden geopend met bijna alle toepassingen die een standaard BMP-bestand op Windows en macOS kunnen openen. DIB zijn binaire bestanden en hebben een complexe bestandsindeling die lijkt op BMP.
+<p align=justify>U kunt programmatisch converteren van het DIB-formaat naar andere beschikbare formaten met behulp van
+Aspose.Imaging voor Java. Een DIB-bestand (Device Independent Bitmap) is een rasterafbeeldingsbestand dat qua structuur vergelijkbaar is met de standaard Bitmap-bestanden (BMP), maar een andere kop heeft. Het kan worden geopend met bijna alle toepassingen die een standaard BMP-bestand op Windows en macOS kunnen openen. DIB zijn binaire bestanden en hebben een complexe bestandsindeling die lijkt op BMP.</p>
 <br/>
 Er zijn de volgende verbouwingen aan boord:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,7 +13,7 @@ description: Med Aspose.Imaging för .NET-bibliotek är det lätt att konvertera
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alla omvandlingar som stöds till PSD(Photoshop-dokument)-format med Aspose.Imaging för .NET-bibliotek" %}}
-Med hjälp av Aspose.Imaging-biblioteket kan du programmatiskt konvertera olika bildformat till PSD-bild. PSD, Photoshop Document, representerar Adobe Photoshops ursprungliga filformat som används för grafisk design och utveckling. PSD-filer kan innehålla bildlager, justeringslager, lagermasker, anteckningar, filinformation, nyckelord och andra Photoshop-specifika element.
+<p align=justify>Med hjälp av Aspose.Imaging-biblioteket kan du programmatiskt konvertera olika bildformat till PSD-bild. PSD, Photoshop Document, representerar Adobe Photoshops ursprungliga filformat som används för grafisk design och utveckling. PSD-filer kan innehålla bildlager, justeringslager, lagermasker, anteckningar, filinformation, nyckelord och andra Photoshop-specifika element.</p>
 <br/>
 Följande konverteringar stöds:
 {{% /blocks/products/pf/feature-page-section %}}

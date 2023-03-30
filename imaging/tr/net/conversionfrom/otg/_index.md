@@ -13,7 +13,7 @@ description: Aspose.Imaging'i kullanarak OTG(OpenDocument Standardı) biçimini 
 
 
 {{% blocks/products/pf/feature-page-section  h2="OTG(OpenDocument Standardı) biçiminden dönüştürülecek desteklenen tüm resim biçimleri" %}}
-Aspose.Imaging, .NET platformunda OTG'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir. Bir OTG dosyası, OASIS Office Applications 1.0 spesifikasyonunu izleyen OpenDocument standardı kullanılarak oluşturulan bir çizim şablonudur. Dosyanın içeriğini daha da geliştirmek için kullanılabilecek bir vektör görüntüsü için çizim öğelerinin varsayılan organizasyonunu temsil eder.
+<p align=justify>Aspose.Imaging, .NET platformunda OTG'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir. Bir OTG dosyası, OASIS Office Applications 1.0 spesifikasyonunu izleyen OpenDocument standardı kullanılarak oluşturulan bir çizim şablonudur. Dosyanın içeriğini daha da geliştirmek için kullanılabilecek bir vektör görüntüsü için çizim öğelerinin varsayılan organizasyonunu temsil eder.</p>
 <br/>
 OTG tarafından desteklenen dönüşümlerin tam listesi:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,8 +13,8 @@ description: Aspose.Imaging dapat dengan mudah mengonversi dari J2K(Gambar Terko
 
 
 {{% blocks/products/pf/feature-page-section  h2="Spektrum luas format gambar yang dapat dikonversi dari gambar J2K(Gambar Terkompresi Wavelet) menggunakan Aspose.Imaging untuk Java" %}}
-Anda dapat secara terprogram mengonversi dari format J2K ke format lain yang tersedia menggunakan
-Aspose.Imaging untuk Java. File J2K adalah gambar yang dikompres menggunakan kompresi wavelet, bukan kompresi DCT.
+<p align=justify>Anda dapat secara terprogram mengonversi dari format J2K ke format lain yang tersedia menggunakan
+Aspose.Imaging untuk Java. File J2K adalah gambar yang dikompres menggunakan kompresi wavelet, bukan kompresi DCT.</p>
 <br/>
 Ada konversi berikut di pesawat:
 {{% /blocks/products/pf/feature-page-section %}}

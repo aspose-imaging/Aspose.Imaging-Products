@@ -13,8 +13,8 @@ description: Aspose.Imaging dapat dengan mudah mengonversi dari PNG(Grafik Jarin
 
 
 {{% blocks/products/pf/feature-page-section  h2="Spektrum luas format gambar yang dapat dikonversi dari gambar PNG(Grafik Jaringan Portabel) menggunakan Aspose.Imaging untuk Java" %}}
-Anda dapat secara terprogram mengonversi dari format PNG ke format lain yang tersedia menggunakan
-Aspose.Imaging untuk Java. PNG, Portable Network Graphics, mengacu pada jenis format file gambar raster yang menggunakan kompresi tanpa kehilangan. Format file ini dibuat sebagai pengganti Graphics Interchange Format (GIF) dan tidak memiliki batasan hak cipta. Namun, format file PNG tidak mendukung animasi. Format file PNG mendukung kompresi gambar tanpa kehilangan yang membuatnya populer di kalangan penggunanya. Dengan berlalunya waktu, PNG telah berkembang sebagai salah satu format file gambar yang paling banyak digunakan. Hampir semua Sistem Operasi memiliki dukungan untuk membuka file PNG. Misalnya, penampil Microsoft Windows memiliki kemampuan untuk membuka file PNG karena OS secara default memiliki dukungan yang tersedia sebagai bagian dari instalasi.
+<p align=justify>Anda dapat secara terprogram mengonversi dari format PNG ke format lain yang tersedia menggunakan
+Aspose.Imaging untuk Java. PNG, Portable Network Graphics, mengacu pada jenis format file gambar raster yang menggunakan kompresi tanpa kehilangan. Format file ini dibuat sebagai pengganti Graphics Interchange Format (GIF) dan tidak memiliki batasan hak cipta. Namun, format file PNG tidak mendukung animasi. Format file PNG mendukung kompresi gambar tanpa kehilangan yang membuatnya populer di kalangan penggunanya. Dengan berlalunya waktu, PNG telah berkembang sebagai salah satu format file gambar yang paling banyak digunakan. Hampir semua Sistem Operasi memiliki dukungan untuk membuka file PNG. Misalnya, penampil Microsoft Windows memiliki kemampuan untuk membuka file PNG karena OS secara default memiliki dukungan yang tersedia sebagai bagian dari instalasi.</p>
 <br/>
 Ada konversi berikut di pesawat:
 {{% /blocks/products/pf/feature-page-section %}}

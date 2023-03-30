@@ -13,8 +13,8 @@ description: Aspose.Imaging 可以使用 Java 平台輕鬆地將 TGA(塔加圖�
 
 
 {{% blocks/products/pf/feature-page-section  h2="可以使用 Aspose.Imaging for Java 從 TGA(塔加圖形) 圖像轉換的各種圖像格式" %}}
-您可以使用編程方式將 TGA 格式轉換為其他可用格式
-用於 Java 的 Aspose.Imaging。 Truevision TGA，通常稱為 TARGA，是由 Truevision Inc.（現為 Avid Technology 的一部分）創建的光柵圖形文件格式。它是 TARGA 和 VISTA 板的原生格式，它們是 IBM 兼容 PC 上第一款支持高彩/真彩顯示的顯卡。
+<p align=justify>您可以使用編程方式將 TGA 格式轉換為其他可用格式
+用於 Java 的 Aspose.Imaging。 Truevision TGA，通常稱為 TARGA，是由 Truevision Inc.（現為 Avid Technology 的一部分）創建的光柵圖形文件格式。它是 TARGA 和 VISTA 板的原生格式，它們是 IBM 兼容 PC 上第一款支持高彩/真彩顯示的顯卡。</p>
 <br/>
 船上有以下轉換：
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,7 +13,7 @@ description: Mit Aspose.Imaging für die .NET-Bibliothek ist es einfach, von and
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Konvertierungen in das BMP(Bitmap-Bild)-Format mit Aspose.Imaging für die .NET-Bibliothek" %}}
-Mit der Aspose.Imaging-Bibliothek können Sie verschiedene Bildformate programmgesteuert in BMP-Bilder konvertieren. Dateien mit der Erweiterung .BMP stellen Bitmap-Bilddateien dar, die zum Speichern digitaler Bitmap-Bilder verwendet werden. Diese Bilder sind grafikadapterunabhängig und werden auch als DIB-Dateiformat (Device Independent Bitmap) bezeichnet. Diese Unabhängigkeit dient dem Zweck, die Datei auf mehreren Plattformen wie Microsoft Windows und Mac zu öffnen. Das BMP-Dateiformat kann Daten als zweidimensionale digitale Bilder sowohl im Monochrom- als auch im Farbformat mit verschiedenen Farbtiefen speichern.
+<p align=justify>Mit der Aspose.Imaging-Bibliothek können Sie verschiedene Bildformate programmgesteuert in BMP-Bilder konvertieren. Dateien mit der Erweiterung .BMP stellen Bitmap-Bilddateien dar, die zum Speichern digitaler Bitmap-Bilder verwendet werden. Diese Bilder sind grafikadapterunabhängig und werden auch als DIB-Dateiformat (Device Independent Bitmap) bezeichnet. Diese Unabhängigkeit dient dem Zweck, die Datei auf mehreren Plattformen wie Microsoft Windows und Mac zu öffnen. Das BMP-Dateiformat kann Daten als zweidimensionale digitale Bilder sowohl im Monochrom- als auch im Farbformat mit verschiedenen Farbtiefen speichern.</p>
 <br/>
 Folgende Konvertierungen werden unterstützt:
 {{% /blocks/products/pf/feature-page-section %}}

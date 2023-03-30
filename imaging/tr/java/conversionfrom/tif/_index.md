@@ -13,8 +13,8 @@ description: Aspose.Imaging, Java platformunu kullanarak TIF(Etiketli Görüntü
 
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java kullanılarak TIF(Etiketli Görüntü Formatı) görüntülerden dönüştürülebilen geniş görüntü formatları yelpazesi" %}}
-kullanarak TIF biçiminden diğer kullanılabilir biçimlere programlı olarak dönüştürebilirsiniz.
-Java için Aspose.Imaging. 
+<p align=justify>kullanarak TIF biçiminden diğer kullanılabilir biçimlere programlı olarak dönüştürebilirsiniz.
+Java için Aspose.Imaging. </p>
 <br/>
 Gemide aşağıdaki dönüşümler var:
 {{% /blocks/products/pf/feature-page-section %}}

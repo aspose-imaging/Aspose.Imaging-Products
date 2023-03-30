@@ -13,8 +13,8 @@ description: Aspose.Imaging kan eenvoudig converteren van WMZ(Gecomprimeerde Win
 
 
 {{% blocks/products/pf/feature-page-section  h2="Breed spectrum aan afbeeldingsindelingen die kunnen worden geconverteerd van WMZ(Gecomprimeerde Windows Media Player-skin)-afbeeldingen met Aspose.Imaging voor Java" %}}
-U kunt programmatisch converteren van het WMZ-formaat naar andere beschikbare formaten met behulp van
-Aspose.Imaging voor Java. WMZ is een bestandsextensie voor een skin-bestandsformaat in/voor/gebruikt door Windows Media Player. Een WMZ-bestand is in feite een gecomprimeerd WMF-bestand in XML.
+<p align=justify>U kunt programmatisch converteren van het WMZ-formaat naar andere beschikbare formaten met behulp van
+Aspose.Imaging voor Java. WMZ is een bestandsextensie voor een skin-bestandsformaat in/voor/gebruikt door Windows Media Player. Een WMZ-bestand is in feite een gecomprimeerd WMF-bestand in XML.</p>
 <br/>
 Er zijn de volgende verbouwingen aan boord:
 {{% /blocks/products/pf/feature-page-section %}}

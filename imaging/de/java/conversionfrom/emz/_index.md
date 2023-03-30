@@ -13,8 +13,8 @@ description: Aspose.Imaging kann mithilfe der Java-Plattform problemlos von EMZ(
 
 
 {{% blocks/products/pf/feature-page-section  h2="Breites Spektrum an Bildformaten, die mit Aspose.Imaging für Java aus EMZ(Windows komprimierte erweiterte Metadatei)-Bildern konvertiert werden können" %}}
-Sie können das EMZ-Format programmgesteuert in andere verfügbare Formate konvertieren, indem Sie verwenden
-Aspose.Imaging für Java. Eine Datei mit der EMZ-Dateierweiterung ist eine komprimierte Bilddatei, die genauer als Windows Compressed Enhanced Metafile-Datei bezeichnet wird
+<p align=justify>Sie können das EMZ-Format programmgesteuert in andere verfügbare Formate konvertieren, indem Sie verwenden
+Aspose.Imaging für Java. Eine Datei mit der EMZ-Dateierweiterung ist eine komprimierte Bilddatei, die genauer als Windows Compressed Enhanced Metafile-Datei bezeichnet wird</p>
 <br/>
 Folgende Umbauten sind an Bord:
 {{% /blocks/products/pf/feature-page-section %}}

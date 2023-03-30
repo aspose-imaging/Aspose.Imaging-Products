@@ -13,7 +13,7 @@ description: Naudodami Aspose.Imaging galite lengvai konvertuoti iš WMF(Microso
 
 
 {{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai, konvertuojami iš WMF(Microsoft Windows metafailas)" %}}
-Aspose.Imaging leidžia automatizuoti daug konversijų iš WMF į kitus formatus .NET platformoje. Failai su WMF plėtiniu yra „Microsoft Windows“ metafailas (WMF), skirtas vektorinių ir bitmap formato vaizdų duomenims saugoti. Tiksliau, WMF priklauso grafinių failų formatų vektorinių failų formatų kategorijai, kuri nepriklauso nuo įrenginio. „Windows“ grafinio įrenginio sąsaja (GDI) vaizdui ekrane rodyti naudoja WMF faile saugomas funkcijas. Vėliau buvo paskelbta labiau patobulinta WMF versija, žinoma kaip patobulinti meta failai (EMF), todėl formatas tapo turtingesnis. Praktiškai WMF yra panašūs į SVG.
+<p align=justify>Aspose.Imaging leidžia automatizuoti daug konversijų iš WMF į kitus formatus .NET platformoje. Failai su WMF plėtiniu yra „Microsoft Windows“ metafailas (WMF), skirtas vektorinių ir bitmap formato vaizdų duomenims saugoti. Tiksliau, WMF priklauso grafinių failų formatų vektorinių failų formatų kategorijai, kuri nepriklauso nuo įrenginio. „Windows“ grafinio įrenginio sąsaja (GDI) vaizdui ekrane rodyti naudoja WMF faile saugomas funkcijas. Vėliau buvo paskelbta labiau patobulinta WMF versija, žinoma kaip patobulinti meta failai (EMF), todėl formatas tapo turtingesnis. Praktiškai WMF yra panašūs į SVG.</p>
 <br/>
 Visas palaikomų konversijų iš WMF sąrašas:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,7 +13,7 @@ description: Aspose.Imaging を使用すると、CMX(CorelExchangeイメージ) 
 
 
 {{% blocks/products/pf/feature-page-section  h2="CMX(CorelExchangeイメージ) から変換する、サポートされているすべての画像形式" %}}
-Aspose.Imaging を使用すると、CMX から .NET プラットフォーム上の他のフォーマットへの多くの変換を自動化できます。 CMX拡張子の付いたファイルは、CorelSuiteアプリケーションによるプレゼンテーションとして使用されるCorelExchangeイメージファイル形式です。これには、ベクターグラフィックとしての画像データと、画像を説明するメタデータが含まれています。 CMXファイルは、CorelDraw、Corel Presentations、Paint Shop Pro、およびAdobeIllustratorの一部のバージョンで開くことができます。
+<p align=justify>Aspose.Imaging を使用すると、CMX から .NET プラットフォーム上の他のフォーマットへの多くの変換を自動化できます。 CMX拡張子の付いたファイルは、CorelSuiteアプリケーションによるプレゼンテーションとして使用されるCorelExchangeイメージファイル形式です。これには、ベクターグラフィックとしての画像データと、画像を説明するメタデータが含まれています。 CMXファイルは、CorelDraw、Corel Presentations、Paint Shop Pro、およびAdobeIllustratorの一部のバージョンで開くことができます。</p>
 <br/>
 サポートされている CMX からの変換の完全なリスト:
 {{% /blocks/products/pf/feature-page-section %}}

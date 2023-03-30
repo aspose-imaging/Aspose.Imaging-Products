@@ -13,7 +13,7 @@ description: .NET 라이브러리용 Aspose.Imaging을 사용하면 지원되는
 
 
 {{% blocks/products/pf/feature-page-section  h2=".NET 라이브러리용 Aspose.Imaging을 사용하여 PSD(포토샵 문서) 형식으로 지원되는 모든 변환" %}}
-Aspose.Imaging 라이브러리를 사용하면 프로그래밍 방식으로 다양한 이미지 형식을 PSD 이미지로 변환할 수 있습니다. PSD, Photoshop Document는 그래픽 디자인 및 개발에 사용되는 Adobe Photoshop의 기본 파일 형식을 나타냅니다. PSD 파일에는 이미지 레이어, 조정 레이어, 레이어 마스크, 주석, 파일 정보, 키워드 및 기타 Photoshop 관련 요소가 포함될 수 있습니다.
+<p align=justify>Aspose.Imaging 라이브러리를 사용하면 프로그래밍 방식으로 다양한 이미지 형식을 PSD 이미지로 변환할 수 있습니다. PSD, Photoshop Document는 그래픽 디자인 및 개발에 사용되는 Adobe Photoshop의 기본 파일 형식을 나타냅니다. PSD 파일에는 이미지 레이어, 조정 레이어, 레이어 마스크, 주석, 파일 정보, 키워드 및 기타 Photoshop 관련 요소가 포함될 수 있습니다.</p>
 <br/>
 다음 변환이 지원됩니다.
 {{% /blocks/products/pf/feature-page-section %}}

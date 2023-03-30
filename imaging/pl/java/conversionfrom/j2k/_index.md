@@ -13,8 +13,8 @@ description: Aspose.Imaging może łatwo konwertować z formatu J2K(Skompresowan
 
 
 {{% blocks/products/pf/feature-page-section  h2="Szerokie spektrum formatów obrazów, które można konwertować z obrazów J2K(Skompresowany obraz falkowy) przy użyciu Aspose.Imaging for Java" %}}
-Możesz programowo przekonwertować z formatu J2K na inne dostępne formaty za pomocą
-Aspose.Imaging dla Javy. Plik J2K to obraz skompresowany przy użyciu kompresji falkowej zamiast kompresji DCT.
+<p align=justify>Możesz programowo przekonwertować z formatu J2K na inne dostępne formaty za pomocą
+Aspose.Imaging dla Javy. Plik J2K to obraz skompresowany przy użyciu kompresji falkowej zamiast kompresji DCT.</p>
 <br/>
 Na pokładzie znajdują się następujące konwersje:
 {{% /blocks/products/pf/feature-page-section %}}

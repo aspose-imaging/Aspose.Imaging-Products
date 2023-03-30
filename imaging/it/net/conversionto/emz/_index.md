@@ -13,7 +13,7 @@ description: Utilizzando Aspose.Imaging per la libreria .NET è facile convertir
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tutte le conversioni supportate nel formato EMZ(Metafile avanzato compresso di Windows) utilizzando Aspose.Imaging per la libreria .NET" %}}
-Utilizzando la libreria Aspose.Imaging è possibile convertire in modo programmatico vari formati di immagine in EMZ image. Un file con estensione EMZ è un file di immagine compresso, più specificamente denominato file di metafile avanzato compresso di Windows
+<p align=justify>Utilizzando la libreria Aspose.Imaging è possibile convertire in modo programmatico vari formati di immagine in EMZ image. Un file con estensione EMZ è un file di immagine compresso, più specificamente denominato file di metafile avanzato compresso di Windows</p>
 <br/>
 Sono supportate le seguenti conversioni:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,8 +13,8 @@ description: Aspose.Imaging może łatwo konwertować z formatu SVG(Skalowalna G
 
 
 {{% blocks/products/pf/feature-page-section  h2="Szerokie spektrum formatów obrazów, które można konwertować z obrazów SVG(Skalowalna Grafika wektorowa) przy użyciu Aspose.Imaging for Java" %}}
-Możesz programowo przekonwertować z formatu SVG na inne dostępne formaty za pomocą
-Aspose.Imaging dla Javy. Pliki SVG to skalowalne pliki grafiki wektorowej, które wykorzystują format tekstowy oparty na XML do opisywania wyglądu obrazu. Słowo Skalowalny odnosi się do faktu, że SVG można skalować do różnych rozmiarów bez utraty jakości. Opis tekstowy takich plików czyni je niezależnymi od rozdzielczości. Jest to jeden z najczęściej używanych formatów do budowy stron internetowych i grafiki drukowanej w celu uzyskania skalowalności. Format ten może być jednak używany tylko do grafiki dwuwymiarowej. Pliki SVG można przeglądać/otwierać w prawie wszystkich nowoczesnych przeglądarkach, w tym Chrome, Internet Explorer, Firefox i Safari.
+<p align=justify>Możesz programowo przekonwertować z formatu SVG na inne dostępne formaty za pomocą
+Aspose.Imaging dla Javy. Pliki SVG to skalowalne pliki grafiki wektorowej, które wykorzystują format tekstowy oparty na XML do opisywania wyglądu obrazu. Słowo Skalowalny odnosi się do faktu, że SVG można skalować do różnych rozmiarów bez utraty jakości. Opis tekstowy takich plików czyni je niezależnymi od rozdzielczości. Jest to jeden z najczęściej używanych formatów do budowy stron internetowych i grafiki drukowanej w celu uzyskania skalowalności. Format ten może być jednak używany tylko do grafiki dwuwymiarowej. Pliki SVG można przeglądać/otwierać w prawie wszystkich nowoczesnych przeglądarkach, w tym Chrome, Internet Explorer, Firefox i Safari.</p>
 <br/>
 Na pokładzie znajdują się następujące konwersje:
 {{% /blocks/products/pf/feature-page-section %}}

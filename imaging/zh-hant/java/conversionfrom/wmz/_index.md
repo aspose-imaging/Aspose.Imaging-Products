@@ -13,8 +13,8 @@ description: Aspose.Imaging 可以使用 Java 平台輕鬆地將 WMZ(壓縮的 W
 
 
 {{% blocks/products/pf/feature-page-section  h2="可以使用 Aspose.Imaging for Java 從 WMZ(壓縮的 Windows Media Player 皮膚) 圖像轉換的各種圖像格式" %}}
-您可以使用編程方式將 WMZ 格式轉換為其他可用格式
-用於 Java 的 Aspose.Imaging。 WMZ 是 Windows Media Player 中/用於/使用的皮膚文件格式的文件擴展名。 WMZ 文件基本上是 XML 格式的壓縮 WMF 文件。
+<p align=justify>您可以使用編程方式將 WMZ 格式轉換為其他可用格式
+用於 Java 的 Aspose.Imaging。 WMZ 是 Windows Media Player 中/用於/使用的皮膚文件格式的文件擴展名。 WMZ 文件基本上是 XML 格式的壓縮 WMF 文件。</p>
 <br/>
 船上有以下轉換：
 {{% /blocks/products/pf/feature-page-section %}}

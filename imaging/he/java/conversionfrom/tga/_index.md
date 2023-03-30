@@ -13,8 +13,8 @@ description: Aspose.Imaging יכולה להמיר בקלות מ-TGA(טארגה �
 
 
 {{% blocks/products/pf/feature-page-section  h2="ספקטרום רחב של פורמטים של תמונות שניתן להמיר מתמונות TGA(טארגה גרפיקה) באמצעות Aspose.Imaging עבור Java" %}}
-אתה יכול להמיר באופן תכנותי מפורמט TGA לפורמטים זמינים אחרים באמצעות
-Aspose.Imaging עבור Java. Truevision TGA, המכונה לעתים קרובות TARGA, הוא פורמט קובץ גרפי רסטר שנוצר על ידי Truevision Inc. (כיום חלק מ-Avid Technology). זה היה הפורמט המקורי של לוחות TARGA ו-VISTA, שהיו הכרטיסים הגרפיים הראשונים למחשבים תואמי IBM שתמכו בתצוגה Highcolor/Truecolor.
+<p align=justify>אתה יכול להמיר באופן תכנותי מפורמט TGA לפורמטים זמינים אחרים באמצעות
+Aspose.Imaging עבור Java. Truevision TGA, המכונה לעתים קרובות TARGA, הוא פורמט קובץ גרפי רסטר שנוצר על ידי Truevision Inc. (כיום חלק מ-Avid Technology). זה היה הפורמט המקורי של לוחות TARGA ו-VISTA, שהיו הכרטיסים הגרפיים הראשונים למחשבים תואמי IBM שתמכו בתצוגה Highcolor/Truecolor.</p>
 <br/>
 ישנן ההמרות הבאות על הסיפון:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,7 +13,7 @@ description: Utilizzando Aspose.Imaging per la libreria .NET è facile convertir
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tutte le conversioni supportate nel formato PSD(Documento Photoshop) utilizzando Aspose.Imaging per la libreria .NET" %}}
-Utilizzando la libreria Aspose.Imaging è possibile convertire in modo programmatico vari formati di immagine in PSD image. PSD, Photoshop Document, rappresenta il formato di file nativo di Adobe Photoshop utilizzato per la progettazione e lo sviluppo della grafica. I file PSD possono includere livelli di immagine, livelli di regolazione, maschere di livello, annotazioni, informazioni sui file, parole chiave e altri elementi specifici di Photoshop.
+<p align=justify>Utilizzando la libreria Aspose.Imaging è possibile convertire in modo programmatico vari formati di immagine in PSD image. PSD, Photoshop Document, rappresenta il formato di file nativo di Adobe Photoshop utilizzato per la progettazione e lo sviluppo della grafica. I file PSD possono includere livelli di immagine, livelli di regolazione, maschere di livello, annotazioni, informazioni sui file, parole chiave e altri elementi specifici di Photoshop.</p>
 <br/>
 Sono supportate le seguenti conversioni:
 {{% /blocks/products/pf/feature-page-section %}}

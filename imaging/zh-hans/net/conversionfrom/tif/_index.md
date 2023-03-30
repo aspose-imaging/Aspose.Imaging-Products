@@ -13,7 +13,7 @@ description: 使用 Aspose.Imaging，您可以轻松地将 TIF(标记图像格�
 
 
 {{% blocks/products/pf/feature-page-section  h2="从 TIF(标记图像格式) 转换的所有支持的图像格式" %}}
-Aspose.Imaging 允许在 .NET 平台上自动进行从 TIF 到其他格式的大量转换。 
+<p align=justify>Aspose.Imaging 允许在 .NET 平台上自动进行从 TIF 到其他格式的大量转换。 </p>
 <br/>
 TIF 支持的转换的完整列表：
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,7 +13,7 @@ description: Aspose.Imaging を使用すると、ICO(Windows アイコン) か�
 
 
 {{% blocks/products/pf/feature-page-section  h2="ICO(Windows アイコン) から変換する、サポートされているすべての画像形式" %}}
-Aspose.Imaging を使用すると、ICO から .NET プラットフォーム上の他のフォーマットへの多くの変換を自動化できます。 ICO ファイル形式は、Microsoft Windows のコンピューター アイコンのイメージ ファイル形式です。 ICO ファイルには、適切にスケーリングできるように、複数のサイズと色深度の 1 つまたは複数の小さな画像が含まれています。 Windows では、ユーザー、デスクトップ、スタート メニュー、または Windows エクスプローラーにアイコンを表示するすべての実行可能ファイルは、アイコンを ICO 形式で保持する必要があります。
+<p align=justify>Aspose.Imaging を使用すると、ICO から .NET プラットフォーム上の他のフォーマットへの多くの変換を自動化できます。 ICO ファイル形式は、Microsoft Windows のコンピューター アイコンのイメージ ファイル形式です。 ICO ファイルには、適切にスケーリングできるように、複数のサイズと色深度の 1 つまたは複数の小さな画像が含まれています。 Windows では、ユーザー、デスクトップ、スタート メニュー、または Windows エクスプローラーにアイコンを表示するすべての実行可能ファイルは、アイコンを ICO 形式で保持する必要があります。</p>
 <br/>
 サポートされている ICO からの変換の完全なリスト:
 {{% /blocks/products/pf/feature-page-section %}}

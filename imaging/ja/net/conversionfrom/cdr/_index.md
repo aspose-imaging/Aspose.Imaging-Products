@@ -13,7 +13,7 @@ description: Aspose.Imaging を使用すると、CDR(ベクトル描画画像) �
 
 
 {{% blocks/products/pf/feature-page-section  h2="CDR(ベクトル描画画像) から変換する、サポートされているすべての画像形式" %}}
-Aspose.Imaging を使用すると、CDR から .NET プラットフォーム上の他のフォーマットへの多くの変換を自動化できます。 CDRファイルは、エンコードおよび圧縮されたデジタル画像を保存するためにCorelDRAWでネイティブに作成されたベクター描画画像ファイルです。このような描画ファイルには、画像コンテンツのベクトル表現のためのテキスト、線、形状、画像、色、および効果が含まれています。 CDRファイルは、CorelDRAWをプライマリアプリケーションとして使用して開くことができ、PDF、JPG、PNG、BMP、AIなどの他の形式に変換することもできます。パンフレット、タブロイド紙、封筒、はがきなどのさまざまなグラフィックデータの表現に使用できます。 CorelDRAWに加えて、Corel PaintshopProやCorelDRAWGraphicsスイートなどの他のCorel製品もCDRファイル形式を開くことができます。
+<p align=justify>Aspose.Imaging を使用すると、CDR から .NET プラットフォーム上の他のフォーマットへの多くの変換を自動化できます。 CDRファイルは、エンコードおよび圧縮されたデジタル画像を保存するためにCorelDRAWでネイティブに作成されたベクター描画画像ファイルです。このような描画ファイルには、画像コンテンツのベクトル表現のためのテキスト、線、形状、画像、色、および効果が含まれています。 CDRファイルは、CorelDRAWをプライマリアプリケーションとして使用して開くことができ、PDF、JPG、PNG、BMP、AIなどの他の形式に変換することもできます。パンフレット、タブロイド紙、封筒、はがきなどのさまざまなグラフィックデータの表現に使用できます。 CorelDRAWに加えて、Corel PaintshopProやCorelDRAWGraphicsスイートなどの他のCorel製品もCDRファイル形式を開くことができます。</p>
 <br/>
 サポートされている CDR からの変換の完全なリスト:
 {{% /blocks/products/pf/feature-page-section %}}

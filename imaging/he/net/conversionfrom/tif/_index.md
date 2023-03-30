@@ -13,7 +13,7 @@ description: באמצעות Aspose.Imaging תוכל להמיר בקלות מ- TI
 
 
 {{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה מ-TIF(פורמט תמונה מתויג)" %}}
-Aspose.Imaging מאפשר לבצע אוטומציה של המרות רבות מ-TIF לפורמטים אחרים בפלטפורמת NET. 
+<p align=justify>Aspose.Imaging מאפשר לבצע אוטומציה של המרות רבות מ-TIF לפורמטים אחרים בפלטפורמת NET. </p>
 <br/>
 רשימה מלאה של המרות נתמכות מ-TIF:
 {{% /blocks/products/pf/feature-page-section %}}

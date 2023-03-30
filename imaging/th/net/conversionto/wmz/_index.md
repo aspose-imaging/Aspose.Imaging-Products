@@ -13,7 +13,7 @@ description: การใช้ Aspose.Imaging สำหรับไลบรา
 
 
 {{% blocks/products/pf/feature-page-section  h2="การแปลงที่รองรับทั้งหมดเป็นรูปแบบ WMZ(สกิน Windows Media Player ที่บีบอัด) โดยใช้ Aspose.Imaging สำหรับไลบรารี .NET" %}}
-การใช้ไลบรารี Aspose.Imaging คุณสามารถแปลงรูปแบบรูปภาพต่างๆ เป็นรูปภาพ WMZ โดยทางโปรแกรม WMZ เป็นนามสกุลไฟล์สำหรับรูปแบบไฟล์สกินใน/สำหรับ/ใช้โดย Windows Media Player ไฟล์ WMZ นั้นเป็นไฟล์ WMF ที่บีบอัดในรูปแบบ XML
+<p align=justify>การใช้ไลบรารี Aspose.Imaging คุณสามารถแปลงรูปแบบรูปภาพต่างๆ เป็นรูปภาพ WMZ โดยทางโปรแกรม WMZ เป็นนามสกุลไฟล์สำหรับรูปแบบไฟล์สกินใน/สำหรับ/ใช้โดย Windows Media Player ไฟล์ WMZ นั้นเป็นไฟล์ WMF ที่บีบอัดในรูปแบบ XML</p>
 <br/>
 รองรับการแปลงต่อไปนี้:
 {{% /blocks/products/pf/feature-page-section %}}

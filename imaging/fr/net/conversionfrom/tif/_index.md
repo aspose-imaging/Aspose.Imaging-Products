@@ -13,7 +13,7 @@ description: En utilisant Aspose.Imaging, vous pouvez facilement convertir de TI
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tous les formats d'image pris en charge pour convertir à partir de TIF(Format d'image balisé)" %}}
-Aspose.Imaging permet d'automatiser de nombreuses conversions de TIF vers d'autres formats sur la plate-forme .NET. 
+<p align=justify>Aspose.Imaging permet d'automatiser de nombreuses conversions de TIF vers d'autres formats sur la plate-forme .NET. </p>
 <br/>
 Liste complète des conversions prises en charge à partir de TIF :
 {{% /blocks/products/pf/feature-page-section %}}

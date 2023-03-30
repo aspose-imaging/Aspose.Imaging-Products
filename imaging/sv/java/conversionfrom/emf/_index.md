@@ -13,8 +13,8 @@ description: Aspose.Imaging kan enkelt konvertera från EMF(Förbättrat metafil
 
 
 {{% blocks/products/pf/feature-page-section  h2="Brett spektrum av bildformat som kan konverteras från EMF(Förbättrat metafilformat)-bilder med Aspose.Imaging för Java" %}}
-Du kan programmatiskt konvertera från formatet EMF till andra tillgängliga format med hjälp av
-Aspose.Imaging för Java. Enhanced metafile format (EMF) lagrar grafiska bilder enhetsoberoende. Metafiler av EMF består av poster med variabel längd i kronologisk ordning som kan återge den lagrade bilden efter analys på valfri utenhet. Dessa poster med variabel längd kan vara definitioner av inneslutna objekt, kommandon för ritning och grafikegenskaper som är viktiga för att återge bilden korrekt. När en enhet öppnar en EMF-metafil med sin egen grafikmiljö förblir proportionerna, dimensionerna, färgerna och andra grafiska egenskaper för originalbilden desamma oavsett vilken enhetsplattform som öppnas.
+<p align=justify>Du kan programmatiskt konvertera från formatet EMF till andra tillgängliga format med hjälp av
+Aspose.Imaging för Java. Enhanced metafile format (EMF) lagrar grafiska bilder enhetsoberoende. Metafiler av EMF består av poster med variabel längd i kronologisk ordning som kan återge den lagrade bilden efter analys på valfri utenhet. Dessa poster med variabel längd kan vara definitioner av inneslutna objekt, kommandon för ritning och grafikegenskaper som är viktiga för att återge bilden korrekt. När en enhet öppnar en EMF-metafil med sin egen grafikmiljö förblir proportionerna, dimensionerna, färgerna och andra grafiska egenskaper för originalbilden desamma oavsett vilken enhetsplattform som öppnas.</p>
 <br/>
 Det finns följande konverteringar ombord:
 {{% /blocks/products/pf/feature-page-section %}}

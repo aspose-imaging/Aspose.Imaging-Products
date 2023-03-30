@@ -13,7 +13,7 @@ description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi dari
 
 
 {{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari ICO(ikon Windows)" %}}
-Aspose.Imaging memungkinkan mengotomatiskan banyak konversi dari ICO ke format lain di platform .NET. Format file ICO adalah format file gambar untuk ikon komputer di Microsoft Windows. File ICO berisi satu atau lebih gambar kecil dengan berbagai ukuran dan kedalaman warna, sehingga dapat diskalakan dengan tepat. Di Windows, semua executable yang menampilkan ikon kepada pengguna, di desktop, di Start Menu, atau di Windows Explorer, harus membawa ikon dalam format ICO.
+<p align=justify>Aspose.Imaging memungkinkan mengotomatiskan banyak konversi dari ICO ke format lain di platform .NET. Format file ICO adalah format file gambar untuk ikon komputer di Microsoft Windows. File ICO berisi satu atau lebih gambar kecil dengan berbagai ukuran dan kedalaman warna, sehingga dapat diskalakan dengan tepat. Di Windows, semua executable yang menampilkan ikon kepada pengguna, di desktop, di Start Menu, atau di Windows Explorer, harus membawa ikon dalam format ICO.</p>
 <br/>
 Daftar lengkap konversi yang didukung dari ICO:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,8 +13,8 @@ description: Aspose.Imaging có thể dễ dàng chuyển đổi từ J2K(Hình 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Nhiều định dạng hình ảnh có thể được chuyển đổi từ hình ảnh J2K(Hình ảnh nén Wavelet) bằng Aspose.Imaging cho Java" %}}
-Bạn có thể lập trình chuyển đổi từ định dạng J2K sang các định dạng có sẵn khác bằng cách sử dụng
-Aspose.Imaging cho Java. Tệp J2K là hình ảnh được nén bằng cách sử dụng nén wavelet thay vì nén DCT.
+<p align=justify>Bạn có thể lập trình chuyển đổi từ định dạng J2K sang các định dạng có sẵn khác bằng cách sử dụng
+Aspose.Imaging cho Java. Tệp J2K là hình ảnh được nén bằng cách sử dụng nén wavelet thay vì nén DCT.</p>
 <br/>
 Có các chuyển đổi sau trên tàu:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,8 +13,8 @@ description: Aspose.Imaging kan enkelt konvertera från WEBP(Raster webbbild) ti
 
 
 {{% blocks/products/pf/feature-page-section  h2="Brett spektrum av bildformat som kan konverteras från WEBP(Raster webbbild)-bilder med Aspose.Imaging för Java" %}}
-Du kan programmatiskt konvertera från formatet WEBP till andra tillgängliga format med hjälp av
-Aspose.Imaging för Java. WebP, introducerat av Google, är ett modernt rasterwebbbildsfilformat som är baserat på förlustfri och förlustfri komprimering. Den ger samma bildkvalitet samtidigt som den minskar bildstorleken avsevärt. Eftersom de flesta webbsidor använder bilder som effektiv representation av data, resulterar användningen av WebP-bilder på webbsidor i snabbare inläsning av webbsidor. Enligt Google är WebP-förlustfria bilder 26 % mindre i storlek jämfört med PNG-bilder, medan WebP-förlustfria bilder är 25-34 % mindre än jämförbara JPEG-bilder. Bilder jämförs baserat på SSIM-indexet (Structural Similarity) mellan WebP och andra bildfilformat. WebP är ett systerprojekt av WebM multimediacontainerformat.
+<p align=justify>Du kan programmatiskt konvertera från formatet WEBP till andra tillgängliga format med hjälp av
+Aspose.Imaging för Java. WebP, introducerat av Google, är ett modernt rasterwebbbildsfilformat som är baserat på förlustfri och förlustfri komprimering. Den ger samma bildkvalitet samtidigt som den minskar bildstorleken avsevärt. Eftersom de flesta webbsidor använder bilder som effektiv representation av data, resulterar användningen av WebP-bilder på webbsidor i snabbare inläsning av webbsidor. Enligt Google är WebP-förlustfria bilder 26 % mindre i storlek jämfört med PNG-bilder, medan WebP-förlustfria bilder är 25-34 % mindre än jämförbara JPEG-bilder. Bilder jämförs baserat på SSIM-indexet (Structural Similarity) mellan WebP och andra bildfilformat. WebP är ett systerprojekt av WebM multimediacontainerformat.</p>
 <br/>
 Det finns följande konverteringar ombord:
 {{% /blocks/products/pf/feature-page-section %}}

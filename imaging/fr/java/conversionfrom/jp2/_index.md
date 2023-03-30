@@ -13,8 +13,8 @@ description: Aspose.Imaging peut facilement convertir de JP2(JPEG 2000) vers d'a
 
 
 {{% blocks/products/pf/feature-page-section  h2="Large éventail de formats d'image pouvant être convertis à partir d'images JP2(JPEG 2000) à l'aide d'Aspose.Imaging pour Java" %}}
-Vous pouvez convertir par programmation du format JP2 vers d'autres formats disponibles en utilisant
-Aspose.Imaging pour Java. JPEG 2000 (JP2) est un système de codage d'image et une norme de compression d'image de pointe. Conçu en utilisant la technologie des ondelettes JPEG 2000 peut coder du contenu sans perte dans n'importe quelle qualité à la fois. De plus, sans aucune pénalité substantielle dans l'efficacité du codage, JPEG 2000 a la capacité d'accéder et de décoder efficacement le même contenu dans une variété d'autres résolutions et qualités. Les flux de code dans JPEG 2000 sont considérablement évolutifs, ayant des régions d'intérêt qui fournissent la possibilité d'un accès spatial aléatoire. Possédant jusqu'à 16384 composants divers avec des dimensions en térapixels, et une précision pouvant atteindre 38 bits/échantillon.
+<p align=justify>Vous pouvez convertir par programmation du format JP2 vers d'autres formats disponibles en utilisant
+Aspose.Imaging pour Java. JPEG 2000 (JP2) est un système de codage d'image et une norme de compression d'image de pointe. Conçu en utilisant la technologie des ondelettes JPEG 2000 peut coder du contenu sans perte dans n'importe quelle qualité à la fois. De plus, sans aucune pénalité substantielle dans l'efficacité du codage, JPEG 2000 a la capacité d'accéder et de décoder efficacement le même contenu dans une variété d'autres résolutions et qualités. Les flux de code dans JPEG 2000 sont considérablement évolutifs, ayant des régions d'intérêt qui fournissent la possibilité d'un accès spatial aléatoire. Possédant jusqu'à 16384 composants divers avec des dimensions en térapixels, et une précision pouvant atteindre 38 bits/échantillon.</p>
 <br/>
 Il y a les conversions suivantes à bord :
 {{% /blocks/products/pf/feature-page-section %}}

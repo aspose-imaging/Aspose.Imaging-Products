@@ -13,7 +13,7 @@ description: Med Aspose.Imaging för .NET-bibliotek är det lätt att konvertera
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alla omvandlingar som stöds till APNG(Animerad bärbar nätverksgrafik)-format med Aspose.Imaging för .NET-bibliotek" %}}
-Med hjälp av Aspose.Imaging-biblioteket kan du programmatiskt konvertera olika bildformat till APNG-bild. En fil med tillägget .apng (Animated Portable Network Graphics) är ett rastergrafikformat och är ett inofficiellt tillägg till Portable Network Graphic (PNG ). Den består av flera bildrutor (var och en av PNG-bilder) som representerar en animationssekvens. Detta ger liknande visualisering som en GIF-fil. APNG-filer stöder 24-bitars bilder och 8-bitars transparens. APNG är bakåtkompatibel med icke-animerade GIF-filer. APNG-filer använder samma .png-tillägg och kan öppnas av applikationer som Mozilla Firefox, Chrome med APNG-stöd, iMessage-appar för iOS 10.
+<p align=justify>Med hjälp av Aspose.Imaging-biblioteket kan du programmatiskt konvertera olika bildformat till APNG-bild. En fil med tillägget .apng (Animated Portable Network Graphics) är ett rastergrafikformat och är ett inofficiellt tillägg till Portable Network Graphic (PNG ). Den består av flera bildrutor (var och en av PNG-bilder) som representerar en animationssekvens. Detta ger liknande visualisering som en GIF-fil. APNG-filer stöder 24-bitars bilder och 8-bitars transparens. APNG är bakåtkompatibel med icke-animerade GIF-filer. APNG-filer använder samma .png-tillägg och kan öppnas av applikationer som Mozilla Firefox, Chrome med APNG-stöd, iMessage-appar för iOS 10.</p>
 <br/>
 Följande konverteringar stöds:
 {{% /blocks/products/pf/feature-page-section %}}

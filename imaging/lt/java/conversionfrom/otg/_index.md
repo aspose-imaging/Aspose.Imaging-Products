@@ -13,8 +13,8 @@ description: „Aspose.Imaging“ gali lengvai konvertuoti iš OTG(OpenDocument 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Platus vaizdo formatų spektras, kurį galima konvertuoti iš OTG(OpenDocument standartas) vaizdų naudojant Aspose.Imaging for Java" %}}
-Galite programiškai konvertuoti iš OTG formato į kitus galimus formatus naudodami
-Aspose.Imaging for Java. OTG failas yra piešimo šablonas, sukurtas naudojant OpenDocument standartą, atitinkantį OASIS Office Applications 1.0 specifikaciją. Tai yra numatytasis vektorinio vaizdo piešimo elementų organizavimas, kurį galima naudoti toliau tobulinant failo turinį.
+<p align=justify>Galite programiškai konvertuoti iš OTG formato į kitus galimus formatus naudodami
+Aspose.Imaging for Java. OTG failas yra piešimo šablonas, sukurtas naudojant OpenDocument standartą, atitinkantį OASIS Office Applications 1.0 specifikaciją. Tai yra numatytasis vektorinio vaizdo piešimo elementų organizavimas, kurį galima naudoti toliau tobulinant failo turinį.</p>
 <br/>
 Laive yra šios konversijos:
 {{% /blocks/products/pf/feature-page-section %}}

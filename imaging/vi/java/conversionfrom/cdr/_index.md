@@ -13,8 +13,8 @@ description: Aspose.Imaging có thể dễ dàng chuyển đổi từ CDR(Hình 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Nhiều định dạng hình ảnh có thể được chuyển đổi từ hình ảnh CDR(Hình ảnh Bản vẽ Véc tơ) bằng Aspose.Imaging cho Java" %}}
-Bạn có thể lập trình chuyển đổi từ định dạng CDR sang các định dạng có sẵn khác bằng cách sử dụng
-Aspose.Imaging cho Java. Tệp CDR là tệp hình ảnh bản vẽ vectơ được tạo nguyên bản bằng CorelDRAW để lưu trữ hình ảnh kỹ thuật số được mã hóa và nén. Một tệp bản vẽ như vậy có chứa văn bản, đường thẳng, hình dạng, hình ảnh, màu sắc và các hiệu ứng để biểu diễn vector của nội dung hình ảnh. Các tệp CDR có thể được mở bằng CorelDRAW làm ứng dụng chính và cũng có thể được chuyển đổi sang các định dạng khác như PDF, JPG, PNG, BMP và AI. Nó có thể được sử dụng để biểu diễn các dữ liệu đồ họa khác nhau như tài liệu quảng cáo, báo lá cải, phong bì và bưu thiếp. Bên cạnh CorelDRAW, các sản phẩm Corel khác như Corel Paintshop Pro và CorelDRAW Graphics suite cũng có thể mở các định dạng tệp CDR.
+<p align=justify>Bạn có thể lập trình chuyển đổi từ định dạng CDR sang các định dạng có sẵn khác bằng cách sử dụng
+Aspose.Imaging cho Java. Tệp CDR là tệp hình ảnh bản vẽ vectơ được tạo nguyên bản bằng CorelDRAW để lưu trữ hình ảnh kỹ thuật số được mã hóa và nén. Một tệp bản vẽ như vậy có chứa văn bản, đường thẳng, hình dạng, hình ảnh, màu sắc và các hiệu ứng để biểu diễn vector của nội dung hình ảnh. Các tệp CDR có thể được mở bằng CorelDRAW làm ứng dụng chính và cũng có thể được chuyển đổi sang các định dạng khác như PDF, JPG, PNG, BMP và AI. Nó có thể được sử dụng để biểu diễn các dữ liệu đồ họa khác nhau như tài liệu quảng cáo, báo lá cải, phong bì và bưu thiếp. Bên cạnh CorelDRAW, các sản phẩm Corel khác như Corel Paintshop Pro và CorelDRAW Graphics suite cũng có thể mở các định dạng tệp CDR.</p>
 <br/>
 Có các chuyển đổi sau trên tàu:
 {{% /blocks/products/pf/feature-page-section %}}

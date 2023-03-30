@@ -13,8 +13,8 @@ description: „Aspose.Imaging“ gali lengvai konvertuoti iš APNG(Animuota ne�
 
 
 {{% blocks/products/pf/feature-page-section  h2="Platus vaizdo formatų spektras, kurį galima konvertuoti iš APNG(Animuota nešiojama tinklo grafika) vaizdų naudojant Aspose.Imaging for Java" %}}
-Galite programiškai konvertuoti iš APNG formato į kitus galimus formatus naudodami
-Aspose.Imaging for Java. Failas su plėtiniu .apng (Animated Portable Network Graphics) yra rastrinis grafinis formatas ir yra neoficialus nešiojamojo tinklo grafikos (PNG) plėtinys. Jį sudaro keli kadrai (kiekvienas PNG vaizdas), vaizduojantis animacijos seką. Tai suteikia panašią vizualizaciją kaip GIF failas. APNG failai palaiko 24 bitų vaizdus ir 8 bitų skaidrumą. APNG yra suderinamas su neanimuotais GIF failais. APNG failuose naudojamas tas pats .png plėtinys ir juos gali atidaryti tokios programos kaip „Mozilla Firefox“, „Chrome“ su APNG palaikymu, „iMessage“ programos, skirtos „iOS 10“.
+<p align=justify>Galite programiškai konvertuoti iš APNG formato į kitus galimus formatus naudodami
+Aspose.Imaging for Java. Failas su plėtiniu .apng (Animated Portable Network Graphics) yra rastrinis grafinis formatas ir yra neoficialus nešiojamojo tinklo grafikos (PNG) plėtinys. Jį sudaro keli kadrai (kiekvienas PNG vaizdas), vaizduojantis animacijos seką. Tai suteikia panašią vizualizaciją kaip GIF failas. APNG failai palaiko 24 bitų vaizdus ir 8 bitų skaidrumą. APNG yra suderinamas su neanimuotais GIF failais. APNG failuose naudojamas tas pats .png plėtinys ir juos gali atidaryti tokios programos kaip „Mozilla Firefox“, „Chrome“ su APNG palaikymu, „iMessage“ programos, skirtos „iOS 10“.</p>
 <br/>
 Laive yra šios konversijos:
 {{% /blocks/products/pf/feature-page-section %}}

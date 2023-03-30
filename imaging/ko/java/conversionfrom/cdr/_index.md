@@ -13,8 +13,8 @@ description: Aspose.Imaging은 Java 플랫폼을 사용하여 CDR(벡터 드로�
 
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java를 사용하여 CDR(벡터 드로잉 이미지) 이미지에서 변환할 수 있는 광범위한 이미지 형식" %}}
-다음을 사용하여 CDR 형식에서 사용 가능한 다른 형식으로 프로그래밍 방식으로 변환할 수 있습니다.
-Aspose.Imaging for Java. CDR 파일은 인코딩 및 압축된 디지털 이미지를 저장하기 위해 CorelDRAW로 기본 생성되는 벡터 드로잉 이미지 파일입니다. 이러한 도면 파일에는 이미지 내용의 벡터 표현을 위한 텍스트, 선, 모양, 이미지, 색상 및 효과가 포함됩니다. CDR 파일은 CorelDRAW를 기본 응용 프로그램으로 사용하여 열 수 있으며 PDF, JPG, PNG, BMP 및 AI와 같은 다른 형식으로 변환할 수도 있습니다. 브로셔, 타블로이드, 봉투, 엽서 등 다양한 그래픽 데이터의 표현에 사용할 수 있습니다. CorelDRAW 외에도 Corel Paintshop Pro 및 CorelDRAW Graphics 제품군과 같은 다른 Corel 제품도 CDR 파일 형식을 열 수 있습니다.
+<p align=justify>다음을 사용하여 CDR 형식에서 사용 가능한 다른 형식으로 프로그래밍 방식으로 변환할 수 있습니다.
+Aspose.Imaging for Java. CDR 파일은 인코딩 및 압축된 디지털 이미지를 저장하기 위해 CorelDRAW로 기본 생성되는 벡터 드로잉 이미지 파일입니다. 이러한 도면 파일에는 이미지 내용의 벡터 표현을 위한 텍스트, 선, 모양, 이미지, 색상 및 효과가 포함됩니다. CDR 파일은 CorelDRAW를 기본 응용 프로그램으로 사용하여 열 수 있으며 PDF, JPG, PNG, BMP 및 AI와 같은 다른 형식으로 변환할 수도 있습니다. 브로셔, 타블로이드, 봉투, 엽서 등 다양한 그래픽 데이터의 표현에 사용할 수 있습니다. CorelDRAW 외에도 Corel Paintshop Pro 및 CorelDRAW Graphics 제품군과 같은 다른 Corel 제품도 CDR 파일 형식을 열 수 있습니다.</p>
 <br/>
 보드에는 다음과 같은 변환이 있습니다.
 {{% /blocks/products/pf/feature-page-section %}}

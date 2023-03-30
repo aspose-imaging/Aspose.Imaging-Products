@@ -13,7 +13,7 @@ description: Pomocí knihovny Aspose.Imaging for .NET je snadné převést do fo
 
 
 {{% blocks/products/pf/feature-page-section  h2="Všechny podporované převody do formátu APNG(Animovaná přenosná síťová grafika) pomocí knihovny Aspose.Imaging for .NET" %}}
-Pomocí knihovny Aspose.Imaging můžete programově převádět různé formáty obrázků na obrázek APNG. Soubor s příponou .apng (Animated Portable Network Graphics) je rastrový grafický formát a je neoficiálním rozšířením Portable Network Graphic (PNG). Skládá se z několika snímků (každý z obrázku PNG), které představují sekvenci animace. To poskytuje podobnou vizualizaci jako soubor GIF. Soubory APNG podporují 24bitové obrázky a 8bitovou průhlednost. APNG je zpětně kompatibilní s neanimovanými soubory GIF. Soubory APNG používají stejnou příponu .png a lze je otevřít aplikacemi, jako je Mozilla Firefox, Chrome s podporou APNG, aplikace iMessage pro iOS 10.
+<p align=justify>Pomocí knihovny Aspose.Imaging můžete programově převádět různé formáty obrázků na obrázek APNG. Soubor s příponou .apng (Animated Portable Network Graphics) je rastrový grafický formát a je neoficiálním rozšířením Portable Network Graphic (PNG). Skládá se z několika snímků (každý z obrázku PNG), které představují sekvenci animace. To poskytuje podobnou vizualizaci jako soubor GIF. Soubory APNG podporují 24bitové obrázky a 8bitovou průhlednost. APNG je zpětně kompatibilní s neanimovanými soubory GIF. Soubory APNG používají stejnou příponu .png a lze je otevřít aplikacemi, jako je Mozilla Firefox, Chrome s podporou APNG, aplikace iMessage pro iOS 10.</p>
 <br/>
 Podporovány jsou následující převody:
 {{% /blocks/products/pf/feature-page-section %}}

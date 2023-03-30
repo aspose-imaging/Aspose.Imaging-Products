@@ -13,8 +13,8 @@ description: „Aspose.Imaging“ gali lengvai konvertuoti iš ICO(Windows pikto
 
 
 {{% blocks/products/pf/feature-page-section  h2="Platus vaizdo formatų spektras, kurį galima konvertuoti iš ICO(Windows piktograma) vaizdų naudojant Aspose.Imaging for Java" %}}
-Galite programiškai konvertuoti iš ICO formato į kitus galimus formatus naudodami
-Aspose.Imaging for Java. ICO failo formatas yra vaizdo failo formatas, skirtas kompiuterio piktogramoms „Microsoft Windows“. ICO failuose yra vienas ar daugiau mažų įvairių dydžių ir spalvų gylio vaizdų, kad juos būtų galima atitinkamai pakeisti. Sistemoje „Windows“ visuose vykdomuosiuose failuose, kuriuose vartotojui rodoma piktograma, darbalaukyje, meniu Pradėti arba „Windows Explorer“, turi būti piktograma ICO formatu.
+<p align=justify>Galite programiškai konvertuoti iš ICO formato į kitus galimus formatus naudodami
+Aspose.Imaging for Java. ICO failo formatas yra vaizdo failo formatas, skirtas kompiuterio piktogramoms „Microsoft Windows“. ICO failuose yra vienas ar daugiau mažų įvairių dydžių ir spalvų gylio vaizdų, kad juos būtų galima atitinkamai pakeisti. Sistemoje „Windows“ visuose vykdomuosiuose failuose, kuriuose vartotojui rodoma piktograma, darbalaukyje, meniu Pradėti arba „Windows Explorer“, turi būti piktograma ICO formatu.</p>
 <br/>
 Laive yra šios konversijos:
 {{% /blocks/products/pf/feature-page-section %}}

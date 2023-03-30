@@ -13,7 +13,7 @@ description: Aspose.Imaging を使用すると、APNG(アニメーション化�
 
 
 {{% blocks/products/pf/feature-page-section  h2="APNG(アニメーション化されたポータブルネットワークグラフィックス) から変換する、サポートされているすべての画像形式" %}}
-Aspose.Imaging を使用すると、APNG から .NET プラットフォーム上の他のフォーマットへの多くの変換を自動化できます。 拡張子が.apng（Animated Portable Network Graphics）のファイルは、ラスターグラフィック形式であり、Portable Network Graphic（PNG）の非公式な拡張子です。アニメーションシーケンスを表す複数のフレーム（各PNG画像）で構成されます。これにより、GIFファイルと同様の視覚化が可能になります。 APNGファイルは24ビット画像と8ビット透明度をサポートしています。 APNGは、アニメーション化されていないGIFファイルと下位互換性があります。 APNGファイルは同じ.png拡張子を使用し、Mozilla Firefox、APNGをサポートするChrome、iOS10用のiMessageアプリなどのアプリケーションで開くことができます。
+<p align=justify>Aspose.Imaging を使用すると、APNG から .NET プラットフォーム上の他のフォーマットへの多くの変換を自動化できます。 拡張子が.apng（Animated Portable Network Graphics）のファイルは、ラスターグラフィック形式であり、Portable Network Graphic（PNG）の非公式な拡張子です。アニメーションシーケンスを表す複数のフレーム（各PNG画像）で構成されます。これにより、GIFファイルと同様の視覚化が可能になります。 APNGファイルは24ビット画像と8ビット透明度をサポートしています。 APNGは、アニメーション化されていないGIFファイルと下位互換性があります。 APNGファイルは同じ.png拡張子を使用し、Mozilla Firefox、APNGをサポートするChrome、iOS10用のiMessageアプリなどのアプリケーションで開くことができます。</p>
 <br/>
 サポートされている APNG からの変換の完全なリスト:
 {{% /blocks/products/pf/feature-page-section %}}

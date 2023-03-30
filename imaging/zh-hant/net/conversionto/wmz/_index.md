@@ -13,7 +13,7 @@ description: 使用 Aspose.Imaging for .NET 庫可以輕鬆地將其他支持的
 
 
 {{% blocks/products/pf/feature-page-section  h2="所有支持使用 Aspose.Imaging for .NET 庫轉換為 WMZ(壓縮的 Windows Media Player 皮膚) 格式" %}}
-使用 Aspose.Imaging 庫，您可以以編程方式將各種圖像格式轉換為 WMZ 圖像。 WMZ 是 Windows Media Player 中/用於/使用的皮膚文件格式的文件擴展名。 WMZ 文件基本上是 XML 格式的壓縮 WMF 文件。
+<p align=justify>使用 Aspose.Imaging 庫，您可以以編程方式將各種圖像格式轉換為 WMZ 圖像。 WMZ 是 Windows Media Player 中/用於/使用的皮膚文件格式的文件擴展名。 WMZ 文件基本上是 XML 格式的壓縮 WMF 文件。</p>
 <br/>
 支持以下轉換：
 {{% /blocks/products/pf/feature-page-section %}}

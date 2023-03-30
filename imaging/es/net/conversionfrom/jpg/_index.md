@@ -13,7 +13,7 @@ description: Usando Aspose.Imaging puede convertir fácilmente de JPG(Joint Phot
 
 
 {{% blocks/products/pf/feature-page-section  h2="Todos los formatos de imagen admitidos para convertir desde JPG(Joint Photographic Experts Group)" %}}
-Aspose.Imaging permite automatizar muchas conversiones de JPG a otros formatos en la plataforma .NET. Un JPEG es un tipo de formato de imagen que se guarda mediante el método de compresión con pérdida. La imagen de salida, como resultado de la compresión, es un equilibrio entre el tamaño de almacenamiento y la calidad de la imagen. Los usuarios pueden ajustar el nivel de compresión para lograr el nivel de calidad deseado y al mismo tiempo reducir el tamaño de almacenamiento. La calidad de la imagen se ve afectada de manera insignificante si se aplica una compresión de 10:1 a la imagen. Cuanto mayor sea el valor de compresión, mayor será la degradación de la calidad de la imagen.
+<p align=justify>Aspose.Imaging permite automatizar muchas conversiones de JPG a otros formatos en la plataforma .NET. Un JPEG es un tipo de formato de imagen que se guarda mediante el método de compresión con pérdida. La imagen de salida, como resultado de la compresión, es un equilibrio entre el tamaño de almacenamiento y la calidad de la imagen. Los usuarios pueden ajustar el nivel de compresión para lograr el nivel de calidad deseado y al mismo tiempo reducir el tamaño de almacenamiento. La calidad de la imagen se ve afectada de manera insignificante si se aplica una compresión de 10:1 a la imagen. Cuanto mayor sea el valor de compresión, mayor será la degradación de la calidad de la imagen.</p>
 <br/>
 Lista completa de conversiones admitidas de JPG:
 {{% /blocks/products/pf/feature-page-section %}}

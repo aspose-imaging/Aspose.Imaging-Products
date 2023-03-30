@@ -13,7 +13,7 @@ description: Met Aspose.Imaging voor .NET-bibliotheek is het eenvoudig om te con
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde conversies naar EMZ(Windows gecomprimeerd verbeterd metabestand)-indeling met Aspose.Imaging voor .NET-bibliotheek" %}}
-Met behulp van de Aspose.Imaging-bibliotheek kunt u verschillende afbeeldingsindelingen programmatisch converteren naar EMZ afbeelding. Een bestand met de EMZ-bestandsextensie is een gecomprimeerd afbeeldingsbestand, meer specifiek een Windows Compressed Enhanced Metafile-bestand genoemd
+<p align=justify>Met behulp van de Aspose.Imaging-bibliotheek kunt u verschillende afbeeldingsindelingen programmatisch converteren naar EMZ afbeelding. Een bestand met de EMZ-bestandsextensie is een gecomprimeerd afbeeldingsbestand, meer specifiek een Windows Compressed Enhanced Metafile-bestand genoemd</p>
 <br/>
 De volgende conversies worden ondersteund:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,7 +13,7 @@ description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi dari
 
 
 {{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari J2K(Gambar Terkompresi Wavelet)" %}}
-Aspose.Imaging memungkinkan mengotomatiskan banyak konversi dari J2K ke format lain di platform .NET. File J2K adalah gambar yang dikompres menggunakan kompresi wavelet, bukan kompresi DCT.
+<p align=justify>Aspose.Imaging memungkinkan mengotomatiskan banyak konversi dari J2K ke format lain di platform .NET. File J2K adalah gambar yang dikompres menggunakan kompresi wavelet, bukan kompresi DCT.</p>
 <br/>
 Daftar lengkap konversi yang didukung dari J2K:
 {{% /blocks/products/pf/feature-page-section %}}

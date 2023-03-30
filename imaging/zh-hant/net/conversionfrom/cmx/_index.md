@@ -13,7 +13,7 @@ description: 使用 Aspose.Imaging，您可以輕鬆地將 CMX(Corel 交換圖�
 
 
 {{% blocks/products/pf/feature-page-section  h2="從 CMX(Corel 交換圖像) 轉換的所有支持的圖像格式" %}}
-Aspose.Imaging 允許在 .NET 平台上自動進行從 CMX 到其他格式的大量轉換。 帶有 CMX 擴展名的文件是 Corel Exchange 圖像文件格式，CorelSuite 應用程序用作演示文稿。它包含作為矢量圖形的圖像數據以及描述圖像的元數據。 CMX 文件可由 CorelDraw、Corel Presentations、Paint Shop Pro 和某些版本的 Adob​​e Illustrator 打開。
+<p align=justify>Aspose.Imaging 允許在 .NET 平台上自動進行從 CMX 到其他格式的大量轉換。 帶有 CMX 擴展名的文件是 Corel Exchange 圖像文件格式，CorelSuite 應用程序用作演示文稿。它包含作為矢量圖形的圖像數據以及描述圖像的元數據。 CMX 文件可由 CorelDraw、Corel Presentations、Paint Shop Pro 和某些版本的 Adob​​e Illustrator 打開。</p>
 <br/>
 CMX 支持的轉換的完整列表：
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,8 +13,8 @@ description: Aspose.Imaging puede convertir fácilmente de WMF(Metarchivo de Mic
 
 
 {{% blocks/products/pf/feature-page-section  h2="Amplio espectro de formatos de imagen que se pueden convertir a partir de imágenes WMF(Metarchivo de Microsoft Windows) usando Aspose.Imaging para Java" %}}
-Puede convertir programáticamente del formato WMF a otros formatos disponibles usando
-Aspose. Imaging para Java. Los archivos con la extensión WMF representan el metarchivo de Microsoft Windows (WMF) para almacenar datos de imágenes vectoriales y de formato de mapa de bits. Para ser más precisos, WMF pertenece a la categoría de formato de archivo vectorial de formatos de archivo de gráficos que es independiente del dispositivo. La interfaz de dispositivo gráfico de Windows (GDI) utiliza las funciones almacenadas en un archivo WMF para mostrar una imagen en la pantalla. Más tarde se publicó una versión más mejorada de WMF, conocida como Enhanced Meta Files (EMF), que hace que el formato tenga más funciones. Prácticamente, WMF son similares a SVG.
+<p align=justify>Puede convertir programáticamente del formato WMF a otros formatos disponibles usando
+Aspose. Imaging para Java. Los archivos con la extensión WMF representan el metarchivo de Microsoft Windows (WMF) para almacenar datos de imágenes vectoriales y de formato de mapa de bits. Para ser más precisos, WMF pertenece a la categoría de formato de archivo vectorial de formatos de archivo de gráficos que es independiente del dispositivo. La interfaz de dispositivo gráfico de Windows (GDI) utiliza las funciones almacenadas en un archivo WMF para mostrar una imagen en la pantalla. Más tarde se publicó una versión más mejorada de WMF, conocida como Enhanced Meta Files (EMF), que hace que el formato tenga más funciones. Prácticamente, WMF son similares a SVG.</p>
 <br/>
 Hay las siguientes conversiones a bordo:
 {{% /blocks/products/pf/feature-page-section %}}

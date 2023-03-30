@@ -13,8 +13,8 @@ description: Aspose.Imaging 可以使用 Java 平台輕鬆地將 ICO(窗口圖�
 
 
 {{% blocks/products/pf/feature-page-section  h2="可以使用 Aspose.Imaging for Java 從 ICO(窗口圖標) 圖像轉換的各種圖像格式" %}}
-您可以使用編程方式將 ICO 格式轉換為其他可用格式
-用於 Java 的 Aspose.Imaging。 ICO 文件格式是 Microsoft Windows 中計算機圖標的圖像文件格式。 ICO 文件包含一個或多個具有多種尺寸和顏色深度的小圖像，以便它們可以適當地縮放。在 Windows 中，在桌面、開始菜單或 Windows 資源管理器中向用戶顯示圖標的所有可執行文件都必須帶有 ICO 格式的圖標。
+<p align=justify>您可以使用編程方式將 ICO 格式轉換為其他可用格式
+用於 Java 的 Aspose.Imaging。 ICO 文件格式是 Microsoft Windows 中計算機圖標的圖像文件格式。 ICO 文件包含一個或多個具有多種尺寸和顏色深度的小圖像，以便它們可以適當地縮放。在 Windows 中，在桌面、開始菜單或 Windows 資源管理器中向用戶顯示圖標的所有可執行文件都必須帶有 ICO 格式的圖標。</p>
 <br/>
 船上有以下轉換：
 {{% /blocks/products/pf/feature-page-section %}}

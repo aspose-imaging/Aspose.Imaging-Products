@@ -13,8 +13,8 @@ description: Aspose.Imaging può facilmente convertire da TIFF(Formato immagine 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Ampio spettro di formati immagine che possono essere convertiti da immagini TIFF(Formato immagine contrassegnato) utilizzando Aspose.Imaging per Java" %}}
-Puoi convertire in modo programmatico dal formato TIFF in altri formati disponibili utilizzando
-Aspose.Imaging per Java. TIFF o TIF, Tagged Image File Format, rappresenta immagini raster destinate all'uso su una varietà di dispositivi conformi a questo standard di formato file. È in grado di descrivere dati di immagini a due livelli, in scala di grigi, a colori ea colori in diversi spazi colore. Supporta schemi di compressione lossy e lossless per scegliere tra spazio e tempo per le applicazioni che utilizzano il formato. Il formato è estensibile e ha subito diverse revisioni che consentono l'inclusione di una quantità illimitata di informazioni private o per scopi speciali. Il formato non dipende dalla macchina ed è libero da limiti come processore, sistema operativo o file system.
+<p align=justify>Puoi convertire in modo programmatico dal formato TIFF in altri formati disponibili utilizzando
+Aspose.Imaging per Java. TIFF o TIF, Tagged Image File Format, rappresenta immagini raster destinate all'uso su una varietà di dispositivi conformi a questo standard di formato file. È in grado di descrivere dati di immagini a due livelli, in scala di grigi, a colori ea colori in diversi spazi colore. Supporta schemi di compressione lossy e lossless per scegliere tra spazio e tempo per le applicazioni che utilizzano il formato. Il formato è estensibile e ha subito diverse revisioni che consentono l'inclusione di una quantità illimitata di informazioni private o per scopi speciali. Il formato non dipende dalla macchina ed è libero da limiti come processore, sistema operativo o file system.</p>
 <br/>
 Ci sono le seguenti conversioni a bordo:
 {{% /blocks/products/pf/feature-page-section %}}

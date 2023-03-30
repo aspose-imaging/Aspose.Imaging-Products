@@ -13,7 +13,7 @@ description: Med Aspose.Imaging kan du enkelt konvertera från DJVU(Grafikformat
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alla bildformat som stöds att konvertera från DJVU(Grafikformat)" %}}
-Aspose.Imaging låter automatisera många konverteringar från DJVU till andra format på .NET-plattformen. DjVu, uttalas som DJVU, är ett grafikfilformat avsett för skannade dokument och böcker, särskilt de som innehåller en kombination av text, teckningar, bilder och fotografier. Det utvecklades av AT&T Labs. Den använder flera tekniker som bildlagerseparering av text och bakgrundsbilder, progressiv laddning, aritmetisk kodning och förlustkomprimering för bitonala bilder. Eftersom DJVU-filen kan innehålla komprimerade men ändå högkvalitativa färgbilder, fotografier, text och teckningar och kan sparas på mindre utrymme, används den på webben som e-böcker, manualer, tidningar, gamla dokument, etc.
+<p align=justify>Aspose.Imaging låter automatisera många konverteringar från DJVU till andra format på .NET-plattformen. DjVu, uttalas som DJVU, är ett grafikfilformat avsett för skannade dokument och böcker, särskilt de som innehåller en kombination av text, teckningar, bilder och fotografier. Det utvecklades av AT&T Labs. Den använder flera tekniker som bildlagerseparering av text och bakgrundsbilder, progressiv laddning, aritmetisk kodning och förlustkomprimering för bitonala bilder. Eftersom DJVU-filen kan innehålla komprimerade men ändå högkvalitativa färgbilder, fotografier, text och teckningar och kan sparas på mindre utrymme, används den på webben som e-böcker, manualer, tidningar, gamla dokument, etc.</p>
 <br/>
 Fullständig lista över omvandlingar som stöds från DJVU:
 {{% /blocks/products/pf/feature-page-section %}}

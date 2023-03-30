@@ -13,7 +13,7 @@ description: Pomocí Aspose.Imaging můžete snadno převést z formátu BMP(Bit
 
 
 {{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu z formátu BMP (Bitmapový obrázek)" %}}
-Aspose.Imaging umožňuje automatizovat mnoho konverzí z BMP do jiných formátů na platformě .NET. Soubory s příponou .BMP představují soubory bitmapových obrázků, které se používají k ukládání bitmapových digitálních obrázků. Tyto obrázky jsou nezávislé na grafickém adaptéru a nazývají se také formát souboru bitmap nezávislý na zařízení (DIB). Tato nezávislost slouží k otevření souboru na více platformách, jako jsou Microsoft Windows a Mac. Souborový formát BMP může ukládat data jako dvourozměrné digitální obrázky v monochromatickém i barevném formátu s různými barevnými hloubkami.
+<p align=justify>Aspose.Imaging umožňuje automatizovat mnoho konverzí z BMP do jiných formátů na platformě .NET. Soubory s příponou .BMP představují soubory bitmapových obrázků, které se používají k ukládání bitmapových digitálních obrázků. Tyto obrázky jsou nezávislé na grafickém adaptéru a nazývají se také formát souboru bitmap nezávislý na zařízení (DIB). Tato nezávislost slouží k otevření souboru na více platformách, jako jsou Microsoft Windows a Mac. Souborový formát BMP může ukládat data jako dvourozměrné digitální obrázky v monochromatickém i barevném formátu s různými barevnými hloubkami.</p>
 <br/>
 Úplný seznam podporovaných konverzí z BMP:
 {{% /blocks/products/pf/feature-page-section %}}

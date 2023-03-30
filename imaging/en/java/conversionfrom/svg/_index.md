@@ -13,8 +13,8 @@ description: Aspose.Imaging API can easily convert from SVG(Scalable Vector Grap
 
 
 {{% blocks/products/pf/feature-page-section  h2="Wide spectrum of image formats that can be converted from SVG(Scalable Vector Graphics) images using Aspose.Imaging for Java" %}}
-You can programmaticaly convert from SVG format to other available formats using 
-Aspose.Imaging for Java. SVG files are Scalable Vector Graphics Files that use XML based text format for describing the appearance of image. The word Scalable refers to the fact that the SVG can be scaled to different sizes without losing any quality. Text based description of such files make them independent of resolution. It is one of the mostly used format for building website and print graphics in order to achieve scalability. The format can only be used for two-dimensional graphics though. SVG files can be viewed/opened in almost all modern browsers including Chrome, Internet Explorer, Firefox, and Safari.
+<p align=justify>You can programmaticaly convert from SVG format to other available formats using 
+Aspose.Imaging for Java. SVG files are Scalable Vector Graphics Files that use XML based text format for describing the appearance of image. The word Scalable refers to the fact that the SVG can be scaled to different sizes without losing any quality. Text based description of such files make them independent of resolution. It is one of the mostly used format for building website and print graphics in order to achieve scalability. The format can only be used for two-dimensional graphics though. SVG files can be viewed/opened in almost all modern browsers including Chrome, Internet Explorer, Firefox, and Safari.</p>
 <br/>
 There are following conversions on board:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,8 +13,8 @@ description: „Aspose.Imaging“ gali lengvai konvertuoti iš JPG(Jungtinė fot
 
 
 {{% blocks/products/pf/feature-page-section  h2="Platus vaizdo formatų spektras, kurį galima konvertuoti iš JPG(Jungtinė fotografijos ekspertų grupė) vaizdų naudojant Aspose.Imaging for Java" %}}
-Galite programiškai konvertuoti iš JPG formato į kitus galimus formatus naudodami
-Aspose.Imaging for Java. JPEG yra vaizdo formatas, kuris išsaugomas naudojant nuostolingo glaudinimo metodą. Išvesties vaizdas dėl suspaudimo yra kompromisas tarp saugojimo dydžio ir vaizdo kokybės. Vartotojai gali reguliuoti suspaudimo lygį, kad pasiektų norimą kokybės lygį, tuo pačiu sumažindami saugyklos dydį. Vaizdo kokybei nežymiai pakenks, jei vaizdui taikomas glaudinimas 10:1. Kuo didesnė suspaudimo vertė, tuo didesnis vaizdo kokybės pablogėjimas.
+<p align=justify>Galite programiškai konvertuoti iš JPG formato į kitus galimus formatus naudodami
+Aspose.Imaging for Java. JPEG yra vaizdo formatas, kuris išsaugomas naudojant nuostolingo glaudinimo metodą. Išvesties vaizdas dėl suspaudimo yra kompromisas tarp saugojimo dydžio ir vaizdo kokybės. Vartotojai gali reguliuoti suspaudimo lygį, kad pasiektų norimą kokybės lygį, tuo pačiu sumažindami saugyklos dydį. Vaizdo kokybei nežymiai pakenks, jei vaizdui taikomas glaudinimas 10:1. Kuo didesnė suspaudimo vertė, tuo didesnis vaizdo kokybės pablogėjimas.</p>
 <br/>
 Laive yra šios konversijos:
 {{% /blocks/products/pf/feature-page-section %}}

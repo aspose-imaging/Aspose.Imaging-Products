@@ -13,7 +13,7 @@ description: Aspose.Imaging을 사용하면 OTG(OpenDocument 표준) 에서 다�
 
 
 {{% blocks/products/pf/feature-page-section  h2="OTG(OpenDocument 표준)에서 변환할 지원되는 모든 이미지 형식 OTG 파일은 OASIS Office Applications 1.0 사양을 따르는 OpenDocument 표준을 사용하여 만든 도면 템플릿입니다. 파일 내용을 더욱 향상시키는 데 사용할 수 있는 벡터 이미지에 대한 그리기 요소의 기본 구성을 나타냅니다." %}}
-Aspose.Imaging을 사용하면 OTG에서 .NET 플랫폼의 다른 형식으로 많은 변환을 자동화할 수 있습니다.
+<p align=justify>Aspose.Imaging을 사용하면 OTG에서 .NET 플랫폼의 다른 형식으로 많은 변환을 자동화할 수 있습니다.</p>
 <br/>
 OTG에서 지원되는 변환의 전체 목록:
 {{% /blocks/products/pf/feature-page-section %}}

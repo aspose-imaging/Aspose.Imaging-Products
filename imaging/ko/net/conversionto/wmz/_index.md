@@ -13,7 +13,7 @@ description: .NET 라이브러리용 Aspose.Imaging을 사용하면 지원되는
 
 
 {{% blocks/products/pf/feature-page-section  h2=".NET 라이브러리용 Aspose.Imaging을 사용하여 WMZ(압축된 Windows Media Player 스킨) 형식으로 지원되는 모든 변환" %}}
-Aspose.Imaging 라이브러리를 사용하면 프로그래밍 방식으로 다양한 이미지 형식을 WMZ 이미지로 변환할 수 있습니다. WMZ는 Windows Media Player에서 사용되는 스킨 파일 형식의 파일 확장자입니다. WMZ 파일은 기본적으로 XML로 압축된 WMF 파일입니다.
+<p align=justify>Aspose.Imaging 라이브러리를 사용하면 프로그래밍 방식으로 다양한 이미지 형식을 WMZ 이미지로 변환할 수 있습니다. WMZ는 Windows Media Player에서 사용되는 스킨 파일 형식의 파일 확장자입니다. WMZ 파일은 기본적으로 XML로 압축된 WMF 파일입니다.</p>
 <br/>
 다음 변환이 지원됩니다.
 {{% /blocks/products/pf/feature-page-section %}}

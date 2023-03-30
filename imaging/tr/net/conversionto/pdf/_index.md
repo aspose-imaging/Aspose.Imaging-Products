@@ -13,7 +13,7 @@ description: Aspose.Imaging for .NET kitaplığını kullanarak, desteklenen di�
 
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for .NET kitaplığı kullanılarak PDF(Taşınabilir Belge Formatı (PDF)) biçimine desteklenen tüm dönüşümler" %}}
-Aspose.Imaging kütüphanesini kullanarak çeşitli resim formatlarını programlı olarak PDF resme dönüştürebilirsiniz. Taşınabilir Belge Formatı (PDF), Adobe tarafından 1990'larda oluşturulmuş bir belge türüdür. Bu dosya biçiminin amacı, belgelerin ve diğer başvuru malzemelerinin uygulama yazılımı, donanım ve İşletim Sisteminden bağımsız bir biçimde temsil edilmesi için bir standart getirmekti. PDF dosya formatı, kaynak belgenin bir parçası haline gelebilecek metin, resimler, köprüler, form alanları, zengin medya, dijital imzalar, ekler, meta veriler, Jeo-uzaysal özellikler ve 3B nesneler gibi bilgileri içerme konusunda tam kapasiteye sahiptir.
+<p align=justify>Aspose.Imaging kütüphanesini kullanarak çeşitli resim formatlarını programlı olarak PDF resme dönüştürebilirsiniz. Taşınabilir Belge Formatı (PDF), Adobe tarafından 1990'larda oluşturulmuş bir belge türüdür. Bu dosya biçiminin amacı, belgelerin ve diğer başvuru malzemelerinin uygulama yazılımı, donanım ve İşletim Sisteminden bağımsız bir biçimde temsil edilmesi için bir standart getirmekti. PDF dosya formatı, kaynak belgenin bir parçası haline gelebilecek metin, resimler, köprüler, form alanları, zengin medya, dijital imzalar, ekler, meta veriler, Jeo-uzaysal özellikler ve 3B nesneler gibi bilgileri içerme konusunda tam kapasiteye sahiptir.</p>
 <br/>
 Aşağıdaki dönüşümler desteklenir:
 {{% /blocks/products/pf/feature-page-section %}}

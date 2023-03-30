@@ -13,7 +13,7 @@ description: باستخدام Aspose.Imaging ، يمكنك بسهولة التح
 
 
 {{% blocks/products/pf/feature-page-section  h2="جميع تنسيقات الصور المدعومة المراد تحويلها من CMX (كوريل تبادل الصورة)" %}}
-يسمح Aspose.Imaging بأتمتة الكثير من التحويلات من CMX إلى تنسيقات أخرى على منصة .NET. الملفات ذات امتداد CMX هي تنسيق ملف صورة Corel Exchange يتم استخدامه كعرض تقديمي بواسطة تطبيقات CorelSuite. يحتوي على بيانات الصورة كرسومات متجهة بالإضافة إلى بيانات أولية تصف الصورة. يمكن فتح ملفات CMX بواسطة CorelDraw و Corel Presentations و Paint Shop Pro وبعض إصدارات Adobe Illustrator.
+<p align=justify>يسمح Aspose.Imaging بأتمتة الكثير من التحويلات من CMX إلى تنسيقات أخرى على منصة .NET. الملفات ذات امتداد CMX هي تنسيق ملف صورة Corel Exchange يتم استخدامه كعرض تقديمي بواسطة تطبيقات CorelSuite. يحتوي على بيانات الصورة كرسومات متجهة بالإضافة إلى بيانات أولية تصف الصورة. يمكن فتح ملفات CMX بواسطة CorelDraw و Corel Presentations و Paint Shop Pro وبعض إصدارات Adobe Illustrator.</p>
 <br/>
 القائمة الكاملة للتحويلات المدعومة من CMX:
 {{% /blocks/products/pf/feature-page-section %}}

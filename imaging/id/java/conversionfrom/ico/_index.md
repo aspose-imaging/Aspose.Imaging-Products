@@ -13,8 +13,8 @@ description: Aspose.Imaging dapat dengan mudah mengonversi dari ICO(ikon Windows
 
 
 {{% blocks/products/pf/feature-page-section  h2="Spektrum luas format gambar yang dapat dikonversi dari gambar ICO(ikon Windows) menggunakan Aspose.Imaging untuk Java" %}}
-Anda dapat secara terprogram mengonversi dari format ICO ke format lain yang tersedia menggunakan
-Aspose.Imaging untuk Java. Format file ICO adalah format file gambar untuk ikon komputer di Microsoft Windows. File ICO berisi satu atau lebih gambar kecil dengan berbagai ukuran dan kedalaman warna, sehingga dapat diskalakan dengan tepat. Di Windows, semua executable yang menampilkan ikon kepada pengguna, di desktop, di Start Menu, atau di Windows Explorer, harus membawa ikon dalam format ICO.
+<p align=justify>Anda dapat secara terprogram mengonversi dari format ICO ke format lain yang tersedia menggunakan
+Aspose.Imaging untuk Java. Format file ICO adalah format file gambar untuk ikon komputer di Microsoft Windows. File ICO berisi satu atau lebih gambar kecil dengan berbagai ukuran dan kedalaman warna, sehingga dapat diskalakan dengan tepat. Di Windows, semua executable yang menampilkan ikon kepada pengguna, di desktop, di Start Menu, atau di Windows Explorer, harus membawa ikon dalam format ICO.</p>
 <br/>
 Ada konversi berikut di pesawat:
 {{% /blocks/products/pf/feature-page-section %}}

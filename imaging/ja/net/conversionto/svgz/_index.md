@@ -13,7 +13,7 @@ description: Aspose.Imaging for .NET ライブラリを使用すると、サポ�
 
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for .NET ライブラリを使用した SVGZ(スケーラブルベクターグラフィックス（.SVG）ファイルの圧縮バージョン。) 形式へのすべてのサポートされている変換" %}}
-Aspose.Imaging ライブラリを使用すると、さまざまな画像フォーマットをプログラムで SVGZ 画像に変換できます。 拡張子が.svgzのファイルは、Scalable Vector Graphics（.SVG）ファイルの圧縮バージョンです。 gzip圧縮で圧縮され、XML形式のデータが含まれています。 SVGZファイルは、透明度、グラデーション、アニメーション、およびフィルターをサポートします。 SVGZファイルはデフォルトのSVGファイルと比較してサイズが小さく、この縮小されたファイルサイズはグラフィックファイルをオンラインで転送するのに役立ちます。グラフィックデザイナーは、Adobe Illustrator、Corel PaintShopProなどのツールを使用してSVGZファイルを作成します。ただし、SVGZファイルは、画像データの送信中にApacheサーバーでGZip圧縮を有効にすることで生成できます。
+<p align=justify>Aspose.Imaging ライブラリを使用すると、さまざまな画像フォーマットをプログラムで SVGZ 画像に変換できます。 拡張子が.svgzのファイルは、Scalable Vector Graphics（.SVG）ファイルの圧縮バージョンです。 gzip圧縮で圧縮され、XML形式のデータが含まれています。 SVGZファイルは、透明度、グラデーション、アニメーション、およびフィルターをサポートします。 SVGZファイルはデフォルトのSVGファイルと比較してサイズが小さく、この縮小されたファイルサイズはグラフィックファイルをオンラインで転送するのに役立ちます。グラフィックデザイナーは、Adobe Illustrator、Corel PaintShopProなどのツールを使用してSVGZファイルを作成します。ただし、SVGZファイルは、画像データの送信中にApacheサーバーでGZip圧縮を有効にすることで生成できます。</p>
 <br/>
 次の変換がサポートされています。
 {{% /blocks/products/pf/feature-page-section %}}

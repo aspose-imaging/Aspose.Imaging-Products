@@ -13,7 +13,7 @@ description: Aspose.Imaging'i kullanarak DIB(Cihazdan Bağımsız Bit Eşlem) bi
 
 
 {{% blocks/products/pf/feature-page-section  h2="DIB(Cihazdan Bağımsız Bit Eşlem) biçiminden dönüştürülecek desteklenen tüm resim biçimleri" %}}
-Aspose.Imaging, .NET platformunda DIB'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir. Bir DIB (Aygıttan Bağımsız Bitmap) dosyası, yapı olarak standart Bitmap dosyalarına (BMP) benzeyen ancak farklı bir başlığa sahip olan bir raster görüntü dosyasıdır. MacOS'un yanı sıra Windows'ta standart bir BMP dosyası açabilen hemen hemen tüm uygulamalarla açılabilir. DIB ikili dosyalardır ve BMP'ye benzer karmaşık bir dosya biçimine sahiptir.
+<p align=justify>Aspose.Imaging, .NET platformunda DIB'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir. Bir DIB (Aygıttan Bağımsız Bitmap) dosyası, yapı olarak standart Bitmap dosyalarına (BMP) benzeyen ancak farklı bir başlığa sahip olan bir raster görüntü dosyasıdır. MacOS'un yanı sıra Windows'ta standart bir BMP dosyası açabilen hemen hemen tüm uygulamalarla açılabilir. DIB ikili dosyalardır ve BMP'ye benzer karmaşık bir dosya biçimine sahiptir.</p>
 <br/>
 DIB tarafından desteklenen dönüşümlerin tam listesi:
 {{% /blocks/products/pf/feature-page-section %}}

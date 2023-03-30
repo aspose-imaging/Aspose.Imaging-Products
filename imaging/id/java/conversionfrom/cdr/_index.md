@@ -13,8 +13,8 @@ description: Aspose.Imaging dapat dengan mudah mengonversi dari CDR(Gambar Gamba
 
 
 {{% blocks/products/pf/feature-page-section  h2="Spektrum luas format gambar yang dapat dikonversi dari gambar CDR(Gambar Gambar Vektor) menggunakan Aspose.Imaging untuk Java" %}}
-Anda dapat secara terprogram mengonversi dari format CDR ke format lain yang tersedia menggunakan
-Aspose.Imaging untuk Java. File CDR adalah file gambar gambar vektor yang dibuat secara native dengan CorelDRAW untuk menyimpan gambar digital yang dikodekan dan dikompresi. File gambar seperti itu berisi teks, garis, bentuk, gambar, warna, dan efek untuk representasi vektor dari konten gambar. File CDR dapat dibuka dengan CorelDRAW sebagai aplikasi utama dan juga dapat dikonversi ke format lain seperti PDF, JPG, PNG, BMP dan AI. Ini dapat digunakan untuk representasi berbagai data grafik seperti brosur, tabloid, amplop, dan kartu pos. Selain CorelDRAW, produk Corel lainnya seperti Corel Paintshop Pro dan CorelDRAW Graphics suite juga dapat membuka format file CDR.
+<p align=justify>Anda dapat secara terprogram mengonversi dari format CDR ke format lain yang tersedia menggunakan
+Aspose.Imaging untuk Java. File CDR adalah file gambar gambar vektor yang dibuat secara native dengan CorelDRAW untuk menyimpan gambar digital yang dikodekan dan dikompresi. File gambar seperti itu berisi teks, garis, bentuk, gambar, warna, dan efek untuk representasi vektor dari konten gambar. File CDR dapat dibuka dengan CorelDRAW sebagai aplikasi utama dan juga dapat dikonversi ke format lain seperti PDF, JPG, PNG, BMP dan AI. Ini dapat digunakan untuk representasi berbagai data grafik seperti brosur, tabloid, amplop, dan kartu pos. Selain CorelDRAW, produk Corel lainnya seperti Corel Paintshop Pro dan CorelDRAW Graphics suite juga dapat membuka format file CDR.</p>
 <br/>
 Ada konversi berikut di pesawat:
 {{% /blocks/products/pf/feature-page-section %}}

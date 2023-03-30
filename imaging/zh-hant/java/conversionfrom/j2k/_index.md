@@ -13,8 +13,8 @@ description: Aspose.Imaging 可以使用 Java 平台輕鬆地將 J2K(小波壓�
 
 
 {{% blocks/products/pf/feature-page-section  h2="可以使用 Aspose.Imaging for Java 從 J2K(小波壓縮圖像) 圖像轉換的各種圖像格式" %}}
-您可以使用編程方式將 J2K 格式轉換為其他可用格式
-用於 Java 的 Aspose.Imaging。 J2K 文件是使用小波壓縮而不是 DCT 壓縮壓縮的圖像。
+<p align=justify>您可以使用編程方式將 J2K 格式轉換為其他可用格式
+用於 Java 的 Aspose.Imaging。 J2K 文件是使用小波壓縮而不是 DCT 壓縮壓縮的圖像。</p>
 <br/>
 船上有以下轉換：
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,7 +13,7 @@ description: Usando Aspose.Imaging você pode converter para ICO de outros forma
 
 
 {{% blocks/products/pf/feature-page-section  h2="Todos os formatos de imagem compatíveis podem ser convertidos em ICO usando Aspose.Imaging para Java" %}}
-Usando a biblioteca Aspose.Imaging, você pode converter programaticamente para ICO de outros formatos de imagem suportados usando a plataforma Java.
+<p align=justify>Usando a biblioteca Aspose.Imaging, você pode converter programaticamente para ICO de outros formatos de imagem suportados usando a plataforma Java.</p>
 <br/>
 Conversões suportadas:
 {{% /blocks/products/pf/feature-page-section %}}

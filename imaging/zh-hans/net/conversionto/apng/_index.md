@@ -13,7 +13,7 @@ description: 使用 Aspose.Imaging for .NET 库可以轻松地将其他支持的
 
 
 {{% blocks/products/pf/feature-page-section  h2="所有支持使用 Aspose.Imaging for .NET 库转换为 APNG(动画便携式网络图形) 格式" %}}
-使用 Aspose.Imaging 库，您可以以编程方式将各种图像格式转换为 APNG 图像。 具有 .apng（动画便携式网络图形）扩展名的文件是一种光栅图形格式，是便携式网络图形 (PNG) 的非官方扩展名。它由表示动画序列的多个帧（每个 PNG 图像）组成。这提供了与 GIF 文件类似的可视化效果。 APNG 文件支持 24 位图像和 8 位透明度。 APNG 向后兼容非动画 GIF 文件。 APNG 文件使用相同的 .png 扩展名，可以由 Mozilla Firefox、支持 APNG 的 Chrome、iOS 10 的 iMessage 应用程序等应用程序打开。
+<p align=justify>使用 Aspose.Imaging 库，您可以以编程方式将各种图像格式转换为 APNG 图像。 具有 .apng（动画便携式网络图形）扩展名的文件是一种光栅图形格式，是便携式网络图形 (PNG) 的非官方扩展名。它由表示动画序列的多个帧（每个 PNG 图像）组成。这提供了与 GIF 文件类似的可视化效果。 APNG 文件支持 24 位图像和 8 位透明度。 APNG 向后兼容非动画 GIF 文件。 APNG 文件使用相同的 .png 扩展名，可以由 Mozilla Firefox、支持 APNG 的 Chrome、iOS 10 的 iMessage 应用程序等应用程序打开。</p>
 <br/>
 支持以下转换：
 {{% /blocks/products/pf/feature-page-section %}}

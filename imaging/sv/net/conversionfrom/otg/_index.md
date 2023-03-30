@@ -13,7 +13,7 @@ description: Med Aspose.Imaging kan du enkelt konvertera från OTG(OpenDocument 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alla bildformat som stöds att konvertera från OTG(OpenDocument Standard)" %}}
-Aspose.Imaging låter automatisera många konverteringar från OTG till andra format på .NET-plattformen. En OTG-fil är en ritmall som skapas med OpenDocument-standarden som följer OASIS Office Applications 1.0-specifikationen. Det representerar standardorganisationen för ritelement för en vektorbild som kan användas för att ytterligare förbättra innehållet i filen.
+<p align=justify>Aspose.Imaging låter automatisera många konverteringar från OTG till andra format på .NET-plattformen. En OTG-fil är en ritmall som skapas med OpenDocument-standarden som följer OASIS Office Applications 1.0-specifikationen. Det representerar standardorganisationen för ritelement för en vektorbild som kan användas för att ytterligare förbättra innehållet i filen.</p>
 <br/>
 Fullständig lista över omvandlingar som stöds från OTG:
 {{% /blocks/products/pf/feature-page-section %}}

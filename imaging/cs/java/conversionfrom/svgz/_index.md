@@ -13,8 +13,8 @@ description: Aspose.Imaging lze snadno převést z formátu SVGZ(Komprimovaná v
 
 
 {{% blocks/products/pf/feature-page-section  h2="Široké spektrum obrazových formátů, které lze převést z obrázků SVGZ(Komprimovaná verze souboru Scalable Vector Graphics (.SVG).) pomocí Aspose.Imaging for Java" %}}
-Můžete programově převádět z formátu SVGZ do jiných dostupných formátů pomocí
-Aspose.Imaging pro Javu. Soubor s příponou .svgz je komprimovaná verze souboru Scalable Vector Graphics (.SVG). Je komprimován kompresí gzip a obsahuje data ve formátu XML. Soubory SVGZ podporují průhlednost, přechody, animace a filtry. Soubory SVGZ jsou menší ve srovnání s výchozími soubory SVG a tato zmenšená velikost souboru pomáhá přenášet grafické soubory online. Grafický návrhář vytváří soubory SVGZ pomocí nástrojů jako Adobe Illustrator, Corel PaintShop Pro a další. Soubory SVGZ však lze generovat povolením komprese GZip na serveru Apache při odesílání obrazových dat.
+<p align=justify>Můžete programově převádět z formátu SVGZ do jiných dostupných formátů pomocí
+Aspose.Imaging pro Javu. Soubor s příponou .svgz je komprimovaná verze souboru Scalable Vector Graphics (.SVG). Je komprimován kompresí gzip a obsahuje data ve formátu XML. Soubory SVGZ podporují průhlednost, přechody, animace a filtry. Soubory SVGZ jsou menší ve srovnání s výchozími soubory SVG a tato zmenšená velikost souboru pomáhá přenášet grafické soubory online. Grafický návrhář vytváří soubory SVGZ pomocí nástrojů jako Adobe Illustrator, Corel PaintShop Pro a další. Soubory SVGZ však lze generovat povolením komprese GZip na serveru Apache při odesílání obrazových dat.</p>
 <br/>
 Na palubě jsou následující konverze:
 {{% /blocks/products/pf/feature-page-section %}}

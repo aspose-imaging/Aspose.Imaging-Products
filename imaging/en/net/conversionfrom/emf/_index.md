@@ -13,7 +13,7 @@ description: Using Aspose.Imaging for .NET you can easily convert from EMF(Enhan
 
 
 {{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from EMF(Enhanced Metafile Format)" %}}
-Aspose.Imaging allows automate a lot of conversions from EMF to other formats on .NET platform. Enhanced metafile format (EMF) stores graphical images device-independently. Metafiles of EMF comprises of variable-length records in chronological order that can render the stored image after parsing on any output device. These variable-length records can be definitions of enclosed objects, commands for drawing, and graphics properties critical to render the image accurately. When a device opens an EMF metafile using its own graphics environment, the proportions, dimensions, colors and other graphic properties of original image remains same regardless of the opening device platform.
+<p align=justify>Aspose.Imaging allows automate a lot of conversions from EMF to other formats on .NET platform. Enhanced metafile format (EMF) stores graphical images device-independently. Metafiles of EMF comprises of variable-length records in chronological order that can render the stored image after parsing on any output device. These variable-length records can be definitions of enclosed objects, commands for drawing, and graphics properties critical to render the image accurately. When a device opens an EMF metafile using its own graphics environment, the proportions, dimensions, colors and other graphic properties of original image remains same regardless of the opening device platform.</p>
 <br/>
 Full list of supported conversions from EMF:
 {{% /blocks/products/pf/feature-page-section %}}

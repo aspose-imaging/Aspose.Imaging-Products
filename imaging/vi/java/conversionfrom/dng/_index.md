@@ -13,8 +13,8 @@ description: Aspose.Imaging có thể dễ dàng chuyển đổi từ DNG(Hình 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Nhiều định dạng hình ảnh có thể được chuyển đổi từ hình ảnh DNG(Hình ảnh máy ảnh kỹ thuật số) bằng Aspose.Imaging cho Java" %}}
-Bạn có thể lập trình chuyển đổi từ định dạng DNG sang các định dạng có sẵn khác bằng cách sử dụng
-Aspose.Imaging cho Java. DNG là một định dạng hình ảnh máy ảnh kỹ thuật số được sử dụng để lưu trữ các tệp thô. Nó đã được phát triển bởi Adobe vào tháng 9 năm 2004. Về cơ bản nó được phát triển cho nhiếp ảnh kỹ thuật số. DNG là phần mở rộng của định dạng tiêu chuẩn TIFF / EP và sử dụng siêu dữ liệu đáng kể. Để xử lý dữ liệu thô từ máy ảnh kỹ thuật số một cách dễ dàng linh hoạt và khả năng kiểm soát nghệ thuật, các nhiếp ảnh gia chọn tệp thô của máy ảnh. Các định dạng JPEG và TIFF lưu trữ hình ảnh được xử lý bởi máy ảnh, do đó không có nhiều chỗ để thay đổi ở các định dạng như vậy.
+<p align=justify>Bạn có thể lập trình chuyển đổi từ định dạng DNG sang các định dạng có sẵn khác bằng cách sử dụng
+Aspose.Imaging cho Java. DNG là một định dạng hình ảnh máy ảnh kỹ thuật số được sử dụng để lưu trữ các tệp thô. Nó đã được phát triển bởi Adobe vào tháng 9 năm 2004. Về cơ bản nó được phát triển cho nhiếp ảnh kỹ thuật số. DNG là phần mở rộng của định dạng tiêu chuẩn TIFF / EP và sử dụng siêu dữ liệu đáng kể. Để xử lý dữ liệu thô từ máy ảnh kỹ thuật số một cách dễ dàng linh hoạt và khả năng kiểm soát nghệ thuật, các nhiếp ảnh gia chọn tệp thô của máy ảnh. Các định dạng JPEG và TIFF lưu trữ hình ảnh được xử lý bởi máy ảnh, do đó không có nhiều chỗ để thay đổi ở các định dạng như vậy.</p>
 <br/>
 Có các chuyển đổi sau trên tàu:
 {{% /blocks/products/pf/feature-page-section %}}

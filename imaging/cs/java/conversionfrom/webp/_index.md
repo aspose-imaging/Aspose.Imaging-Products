@@ -13,8 +13,8 @@ description: Aspose.Imaging lze snadno převést z formátu WEBP(Rastrový webov
 
 
 {{% blocks/products/pf/feature-page-section  h2="Široké spektrum obrazových formátů, které lze převést z obrázků WEBP(Rastrový webový obrázek) pomocí Aspose.Imaging for Java" %}}
-Můžete programově převádět z formátu WEBP do jiných dostupných formátů pomocí
-Aspose.Imaging pro Javu. WebP, představený společností Google, je moderní formát rastrových webových obrázků, který je založen na bezztrátové a ztrátové kompresi. Poskytuje stejnou kvalitu obrazu a výrazně snižuje velikost obrazu. Protože většina webových stránek používá obrázky jako efektivní reprezentaci dat, použití obrázků WebP na webových stránkách vede k rychlejšímu načítání webových stránek. Podle Google jsou bezztrátové obrázky WebP o 26 % menší ve srovnání s obrázky PNG, zatímco ztrátové obrázky WebP jsou o 25–34 % menší než srovnatelné obrázky JPEG. Obrázky jsou porovnávány na základě indexu strukturní podobnosti (SSIM) mezi WebP a jinými formáty souborů obrázků. WebP je sesterský projekt formátu multimediálních kontejnerů WebM.
+<p align=justify>Můžete programově převádět z formátu WEBP do jiných dostupných formátů pomocí
+Aspose.Imaging pro Javu. WebP, představený společností Google, je moderní formát rastrových webových obrázků, který je založen na bezztrátové a ztrátové kompresi. Poskytuje stejnou kvalitu obrazu a výrazně snižuje velikost obrazu. Protože většina webových stránek používá obrázky jako efektivní reprezentaci dat, použití obrázků WebP na webových stránkách vede k rychlejšímu načítání webových stránek. Podle Google jsou bezztrátové obrázky WebP o 26 % menší ve srovnání s obrázky PNG, zatímco ztrátové obrázky WebP jsou o 25–34 % menší než srovnatelné obrázky JPEG. Obrázky jsou porovnávány na základě indexu strukturní podobnosti (SSIM) mezi WebP a jinými formáty souborů obrázků. WebP je sesterský projekt formátu multimediálních kontejnerů WebM.</p>
 <br/>
 Na palubě jsou následující konverze:
 {{% /blocks/products/pf/feature-page-section %}}

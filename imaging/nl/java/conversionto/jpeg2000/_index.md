@@ -13,7 +13,7 @@ description: Met Aspose.Imaging kunt u met Java converteren naar JPEG2000 vanuit
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde afbeeldingsindelingen kunnen worden geconverteerd naar JPEG2000 met Aspose.Imaging voor Java" %}}
-Met behulp van de Aspose.Imaging-bibliotheek kunt u programmatisch converteren naar JPEG2000 van andere ondersteunde afbeeldingsindelingen met behulp van het Java-platform.
+<p align=justify>Met behulp van de Aspose.Imaging-bibliotheek kunt u programmatisch converteren naar JPEG2000 van andere ondersteunde afbeeldingsindelingen met behulp van het Java-platform.</p>
 <br/>
 Ondersteunde conversies:
 {{% /blocks/products/pf/feature-page-section %}}

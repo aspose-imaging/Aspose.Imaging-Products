@@ -13,7 +13,7 @@ description: באמצעות Aspose.Imaging תוכל להמיר בקלות מ- DI
 
 
 {{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה מ-DIB(מפת סיביות בלתי תלויה בהתקן)" %}}
-Aspose.Imaging מאפשר לבצע אוטומציה של המרות רבות מ-DIB לפורמטים אחרים בפלטפורמת NET. קובץ DIB (Device Independent Bitmap) הוא קובץ תמונת רסטר הדומה במבנהו לקובצי Bitmap הסטנדרטיים (BMP) אך בעל כותרת שונה. ניתן לפתוח אותו כמעט עם כל היישומים שיכולים לפתוח קובץ BMP סטנדרטי ב-Windows כמו גם ב-macOS. DIB הם קבצים בינאריים ובעלי פורמט קובץ מורכב הדומה ל-BMP.
+<p align=justify>Aspose.Imaging מאפשר לבצע אוטומציה של המרות רבות מ-DIB לפורמטים אחרים בפלטפורמת NET. קובץ DIB (Device Independent Bitmap) הוא קובץ תמונת רסטר הדומה במבנהו לקובצי Bitmap הסטנדרטיים (BMP) אך בעל כותרת שונה. ניתן לפתוח אותו כמעט עם כל היישומים שיכולים לפתוח קובץ BMP סטנדרטי ב-Windows כמו גם ב-macOS. DIB הם קבצים בינאריים ובעלי פורמט קובץ מורכב הדומה ל-BMP.</p>
 <br/>
 רשימה מלאה של המרות נתמכות מ-DIB:
 {{% /blocks/products/pf/feature-page-section %}}

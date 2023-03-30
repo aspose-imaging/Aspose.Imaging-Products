@@ -13,7 +13,7 @@ description: Med Aspose.Imaging för .NET-bibliotek är det lätt att konvertera
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alla omvandlingar som stöds till JPEG(Förenade Fotografers Expert Grupp)-format med Aspose.Imaging för .NET-bibliotek" %}}
-Med hjälp av Aspose.Imaging-biblioteket kan du programmatiskt konvertera olika bildformat till JPEG-bild. En JPEG är en typ av bildformat som sparas med metoden för förlustkomprimering. Utdatabilden, som ett resultat av komprimering, är en kompromiss mellan lagringsstorlek och bildkvalitet. Användare kan justera komprimeringsnivån för att uppnå önskad kvalitetsnivå samtidigt som lagringsstorleken minskas. Bildkvaliteten påverkas försumbart om 10:1-komprimering tillämpas på bilden. Ju högre komprimeringsvärde, desto högre försämring i bildkvalitet.
+<p align=justify>Med hjälp av Aspose.Imaging-biblioteket kan du programmatiskt konvertera olika bildformat till JPEG-bild. En JPEG är en typ av bildformat som sparas med metoden för förlustkomprimering. Utdatabilden, som ett resultat av komprimering, är en kompromiss mellan lagringsstorlek och bildkvalitet. Användare kan justera komprimeringsnivån för att uppnå önskad kvalitetsnivå samtidigt som lagringsstorleken minskas. Bildkvaliteten påverkas försumbart om 10:1-komprimering tillämpas på bilden. Ju högre komprimeringsvärde, desto högre försämring i bildkvalitet.</p>
 <br/>
 Följande konverteringar stöds:
 {{% /blocks/products/pf/feature-page-section %}}

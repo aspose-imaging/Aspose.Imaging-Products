@@ -13,8 +13,8 @@ description: Aspose.Imaging, Java platformunu kullanarak WMF(Microsoft Windows M
 
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java kullanılarak WMF(Microsoft Windows Meta Dosyası) görüntülerden dönüştürülebilen geniş görüntü formatları yelpazesi" %}}
-kullanarak WMF biçiminden diğer kullanılabilir biçimlere programlı olarak dönüştürebilirsiniz.
-Java için Aspose.Imaging. WMF uzantılı dosyalar, vektörün yanı sıra bitmap formatındaki görüntü verilerini depolamak için Microsoft Windows Meta Dosyasını (WMF) temsil eder. Daha doğru olmak gerekirse, WMF, aygıttan bağımsız Grafik dosya biçimlerinin vektör dosya biçimi kategorisine aittir. Windows Grafik Aygıt Arabirimi (GDI), bir görüntüyü ekranda görüntülemek için bir WMF dosyasında depolanan işlevleri kullanır. Gelişmiş Meta Dosyaları (EMF) olarak bilinen WMF'nin daha gelişmiş bir sürümü daha sonra yayımlandı ve bu, biçimi daha zengin özelliklere sahip hale getirdi. Pratik olarak WMF, SVG'ye benzer.
+<p align=justify>kullanarak WMF biçiminden diğer kullanılabilir biçimlere programlı olarak dönüştürebilirsiniz.
+Java için Aspose.Imaging. WMF uzantılı dosyalar, vektörün yanı sıra bitmap formatındaki görüntü verilerini depolamak için Microsoft Windows Meta Dosyasını (WMF) temsil eder. Daha doğru olmak gerekirse, WMF, aygıttan bağımsız Grafik dosya biçimlerinin vektör dosya biçimi kategorisine aittir. Windows Grafik Aygıt Arabirimi (GDI), bir görüntüyü ekranda görüntülemek için bir WMF dosyasında depolanan işlevleri kullanır. Gelişmiş Meta Dosyaları (EMF) olarak bilinen WMF'nin daha gelişmiş bir sürümü daha sonra yayımlandı ve bu, biçimi daha zengin özelliklere sahip hale getirdi. Pratik olarak WMF, SVG'ye benzer.</p>
 <br/>
 Gemide aşağıdaki dönüşümler var:
 {{% /blocks/products/pf/feature-page-section %}}

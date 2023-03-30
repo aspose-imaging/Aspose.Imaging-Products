@@ -13,8 +13,8 @@ description: Aspose.Imaging puede convertir fácilmente de SVG(gráficas vectori
 
 
 {{% blocks/products/pf/feature-page-section  h2="Amplio espectro de formatos de imagen que se pueden convertir a partir de imágenes SVG(gráficas vectoriales escalables) usando Aspose.Imaging para Java" %}}
-Puede convertir programáticamente del formato SVG a otros formatos disponibles usando
-Aspose. Imaging para Java. Los archivos SVG son archivos de gráficos vectoriales escalables que utilizan un formato de texto basado en XML para describir la apariencia de la imagen. La palabra escalable se refiere al hecho de que el SVG se puede escalar a diferentes tamaños sin perder calidad. La descripción basada en texto de dichos archivos los hace independientes de la resolución. Es uno de los formatos más utilizados para crear sitios web e imprimir gráficos para lograr escalabilidad. Sin embargo, el formato solo se puede usar para gráficos bidimensionales. Los archivos SVG se pueden ver/abrir en casi todos los navegadores modernos, incluidos Chrome, Internet Explorer, Firefox y Safari.
+<p align=justify>Puede convertir programáticamente del formato SVG a otros formatos disponibles usando
+Aspose. Imaging para Java. Los archivos SVG son archivos de gráficos vectoriales escalables que utilizan un formato de texto basado en XML para describir la apariencia de la imagen. La palabra escalable se refiere al hecho de que el SVG se puede escalar a diferentes tamaños sin perder calidad. La descripción basada en texto de dichos archivos los hace independientes de la resolución. Es uno de los formatos más utilizados para crear sitios web e imprimir gráficos para lograr escalabilidad. Sin embargo, el formato solo se puede usar para gráficos bidimensionales. Los archivos SVG se pueden ver/abrir en casi todos los navegadores modernos, incluidos Chrome, Internet Explorer, Firefox y Safari.</p>
 <br/>
 Hay las siguientes conversiones a bordo:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,7 +13,7 @@ description: Pomocí Aspose.Imaging můžete převést do TGA z jiných formát�
 
 
 {{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků lze převést do formátu TGA pomocí Aspose.Imaging for Java" %}}
-Pomocí knihovny Aspose.Imaging můžete pomocí platformy Java programově převádět do formátu TGA z jiných podporovaných formátů obrázků.
+<p align=justify>Pomocí knihovny Aspose.Imaging můžete pomocí platformy Java programově převádět do formátu TGA z jiných podporovaných formátů obrázků.</p>
 <br/>
 Podporované konverze:
 {{% /blocks/products/pf/feature-page-section %}}

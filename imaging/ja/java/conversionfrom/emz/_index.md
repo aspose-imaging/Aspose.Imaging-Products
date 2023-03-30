@@ -13,8 +13,8 @@ description: Aspose.Imaging は、Java プラットフォームを使用して E
 
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java を使用して EMZ(Windows圧縮拡張メタファイル) 画像から変換できる幅広い画像フォーマット" %}}
-次を使用して、EMZ 形式から他の使用可能な形式にプログラムで変換できます。
-Aspose.Imaging for Java。 EMZファイル拡張子の付いたファイルは、圧縮イメージファイルであり、より具体的にはWindows圧縮拡張メタファイルファイルと呼ばれます。
+<p align=justify>次を使用して、EMZ 形式から他の使用可能な形式にプログラムで変換できます。
+Aspose.Imaging for Java。 EMZファイル拡張子の付いたファイルは、圧縮イメージファイルであり、より具体的にはWindows圧縮拡張メタファイルファイルと呼ばれます。</p>
 <br/>
 機内では次の変換があります。
 {{% /blocks/products/pf/feature-page-section %}}

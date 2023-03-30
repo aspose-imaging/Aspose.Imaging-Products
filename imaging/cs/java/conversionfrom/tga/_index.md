@@ -13,8 +13,8 @@ description: Aspose.Imaging lze snadno převést z formátu TGA(Grafika Targa) d
 
 
 {{% blocks/products/pf/feature-page-section  h2="Široké spektrum obrazových formátů, které lze převést z obrázků TGA(Grafika Targa) pomocí Aspose.Imaging for Java" %}}
-Můžete programově převádět z formátu TGA do jiných dostupných formátů pomocí
-Aspose.Imaging pro Javu. Truevision TGA, často označovaný jako TARGA, je formát rastrového grafického souboru vytvořený společností Truevision Inc. (nyní součástí Avid Technology). Byl to nativní formát desek TARGA a VISTA, které byly prvními grafickými kartami pro počítače kompatibilní s IBM, které podporovaly zobrazení Highcolor/truecolor.
+<p align=justify>Můžete programově převádět z formátu TGA do jiných dostupných formátů pomocí
+Aspose.Imaging pro Javu. Truevision TGA, často označovaný jako TARGA, je formát rastrového grafického souboru vytvořený společností Truevision Inc. (nyní součástí Avid Technology). Byl to nativní formát desek TARGA a VISTA, které byly prvními grafickými kartami pro počítače kompatibilní s IBM, které podporovaly zobrazení Highcolor/truecolor.</p>
 <br/>
 Na palubě jsou následující konverze:
 {{% /blocks/products/pf/feature-page-section %}}

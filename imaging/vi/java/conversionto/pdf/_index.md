@@ -13,7 +13,7 @@ description: Sử dụng Aspose.Imaging, bạn có thể chuyển đổi sang PD
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tất cả các định dạng hình ảnh được hỗ trợ đều có thể chuyển đổi thành PDF bằng Aspose.Imaging for Java" %}}
-Sử dụng thư viện Aspose.Imaging, bạn có thể lập trình chuyển đổi sang PDF từ các định dạng hình ảnh được hỗ trợ khác bằng nền tảng Java.
+<p align=justify>Sử dụng thư viện Aspose.Imaging, bạn có thể lập trình chuyển đổi sang PDF từ các định dạng hình ảnh được hỗ trợ khác bằng nền tảng Java.</p>
 <br/>
 Chuyển đổi được hỗ trợ:
 {{% /blocks/products/pf/feature-page-section %}}

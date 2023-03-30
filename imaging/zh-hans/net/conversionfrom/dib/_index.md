@@ -13,7 +13,7 @@ description: 使用 Aspose.Imaging，您可以轻松地将 DIB(设备无关位�
 
 
 {{% blocks/products/pf/feature-page-section  h2="从 DIB(设备无关位图) 转换的所有支持的图像格式" %}}
-Aspose.Imaging 允许在 .NET 平台上自动进行从 DIB 到其他格式的大量转换。 DIB（设备独立位图）文件是一种光栅图像文件，其结构类似于标准位图文件 (BMP)，但具有不同的标题。几乎所有可以在 Windows 和 macOS 上打开标准 BMP 文件的应用程序都可以打开它。 DIB 是二进制文件，具有类似于 BMP 的复杂文件格式。
+<p align=justify>Aspose.Imaging 允许在 .NET 平台上自动进行从 DIB 到其他格式的大量转换。 DIB（设备独立位图）文件是一种光栅图像文件，其结构类似于标准位图文件 (BMP)，但具有不同的标题。几乎所有可以在 Windows 和 macOS 上打开标准 BMP 文件的应用程序都可以打开它。 DIB 是二进制文件，具有类似于 BMP 的复杂文件格式。</p>
 <br/>
 DIB 支持的转换的完整列表：
 {{% /blocks/products/pf/feature-page-section %}}

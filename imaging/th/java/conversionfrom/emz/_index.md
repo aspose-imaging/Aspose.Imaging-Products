@@ -13,8 +13,8 @@ description: Aspose.Imaging สามารถแปลงจาก EMZ(Windows 
 
 
 {{% blocks/products/pf/feature-page-section  h2="รูปแบบรูปภาพที่หลากหลายที่สามารถแปลงจากรูปภาพ EMZ(Windows บีบอัด Metafile ที่ปรับปรุงแล้ว) โดยใช้ Aspose.Imaging สำหรับ Java" %}}
-คุณสามารถแปลงจากรูปแบบ EMZ เป็นรูปแบบอื่นที่ใช้ได้โดยใช้โปรแกรม
-Aspose.Imaging สำหรับ Java ไฟล์ที่มีนามสกุลไฟล์ EMZ คือไฟล์รูปภาพที่ถูกบีบอัด ซึ่งเรียกเจาะจงกว่านั้นว่าไฟล์ Windows Compressed Enhanced Metafile
+<p align=justify>คุณสามารถแปลงจากรูปแบบ EMZ เป็นรูปแบบอื่นที่ใช้ได้โดยใช้โปรแกรม
+Aspose.Imaging สำหรับ Java ไฟล์ที่มีนามสกุลไฟล์ EMZ คือไฟล์รูปภาพที่ถูกบีบอัด ซึ่งเรียกเจาะจงกว่านั้นว่าไฟล์ Windows Compressed Enhanced Metafile</p>
 <br/>
 มีการแปลงต่อไปนี้บนกระดาน:
 {{% /blocks/products/pf/feature-page-section %}}

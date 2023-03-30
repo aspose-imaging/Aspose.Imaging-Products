@@ -13,8 +13,8 @@ description: Aspose.Imaging kan enkelt konvertera från DIB(Enhetsoberoende bitm
 
 
 {{% blocks/products/pf/feature-page-section  h2="Brett spektrum av bildformat som kan konverteras från DIB(Enhetsoberoende bitmapp)-bilder med Aspose.Imaging för Java" %}}
-Du kan programmatiskt konvertera från formatet DIB till andra tillgängliga format med hjälp av
-Aspose.Imaging för Java. En DIB-fil (Device Independent Bitmap) är en rasterbildsfil som i struktur liknar standardbitmappsfilerna (BMP) men har en annan rubrik. Den kan öppnas med nästan alla applikationer som kan öppna en standard BMP-fil på Windows såväl som macOS. DIB är binära filer och har ett komplext filformat som liknar BMP.
+<p align=justify>Du kan programmatiskt konvertera från formatet DIB till andra tillgängliga format med hjälp av
+Aspose.Imaging för Java. En DIB-fil (Device Independent Bitmap) är en rasterbildsfil som i struktur liknar standardbitmappsfilerna (BMP) men har en annan rubrik. Den kan öppnas med nästan alla applikationer som kan öppna en standard BMP-fil på Windows såväl som macOS. DIB är binära filer och har ett komplext filformat som liknar BMP.</p>
 <br/>
 Det finns följande konverteringar ombord:
 {{% /blocks/products/pf/feature-page-section %}}

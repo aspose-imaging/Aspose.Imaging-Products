@@ -13,7 +13,7 @@ description: باستخدام Aspose.Imaging ، يمكنك بسهولة التح
 
 
 {{% blocks/products/pf/feature-page-section  h2="جميع تنسيقات الصور المدعومة المراد تحويلها من OTG (معيار OpenDocument)" %}}
-يسمح Aspose.Imaging بأتمتة الكثير من التحويلات من OTG إلى تنسيقات أخرى على منصة .NET. ملف OTG هو قالب رسم تم إنشاؤه باستخدام معيار OpenDocument الذي يتبع مواصفات OASIS Office Applications 1.0. إنه يمثل التنظيم الافتراضي لعناصر الرسم لصورة متجهة يمكن استخدامها لزيادة تحسين محتويات الملف.
+<p align=justify>يسمح Aspose.Imaging بأتمتة الكثير من التحويلات من OTG إلى تنسيقات أخرى على منصة .NET. ملف OTG هو قالب رسم تم إنشاؤه باستخدام معيار OpenDocument الذي يتبع مواصفات OASIS Office Applications 1.0. إنه يمثل التنظيم الافتراضي لعناصر الرسم لصورة متجهة يمكن استخدامها لزيادة تحسين محتويات الملف.</p>
 <br/>
 القائمة الكاملة للتحويلات المدعومة من OTG:
 {{% /blocks/products/pf/feature-page-section %}}

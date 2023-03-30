@@ -13,8 +13,8 @@ description: Aspose.Imaging, Java platformunu kullanarak CDR(Vektör Çizim Gör
 
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java kullanılarak CDR(Vektör Çizim Görüntüsü) görüntülerden dönüştürülebilen geniş görüntü formatları yelpazesi" %}}
-kullanarak CDR biçiminden diğer kullanılabilir biçimlere programlı olarak dönüştürebilirsiniz.
-Java için Aspose.Imaging. CDR dosyası, kodlanmış ve sıkıştırılmış dijital görüntüyü depolamak için CorelDRAW ile yerel olarak oluşturulan bir vektör çizim görüntü dosyasıdır. Böyle bir çizim dosyası, görüntü içeriğinin vektör temsili için metin, çizgiler, şekiller, görüntüler, renkler ve efektler içerir. CDR dosyaları birincil uygulama olarak CorelDRAW ile açılabilir ve ayrıca PDF, JPG, PNG, BMP ve AI gibi diğer biçimlere dönüştürülebilir. Broşürler, magazin dergileri, zarflar ve kartpostallar gibi çeşitli grafik verilerinin gösterimi için kullanılabilir. CorelDRAW'ın yanı sıra Corel Paintshop Pro ve CorelDRAW Graphics paketi gibi diğer Corel ürünleri de CDR dosya biçimlerini açabilir.
+<p align=justify>kullanarak CDR biçiminden diğer kullanılabilir biçimlere programlı olarak dönüştürebilirsiniz.
+Java için Aspose.Imaging. CDR dosyası, kodlanmış ve sıkıştırılmış dijital görüntüyü depolamak için CorelDRAW ile yerel olarak oluşturulan bir vektör çizim görüntü dosyasıdır. Böyle bir çizim dosyası, görüntü içeriğinin vektör temsili için metin, çizgiler, şekiller, görüntüler, renkler ve efektler içerir. CDR dosyaları birincil uygulama olarak CorelDRAW ile açılabilir ve ayrıca PDF, JPG, PNG, BMP ve AI gibi diğer biçimlere dönüştürülebilir. Broşürler, magazin dergileri, zarflar ve kartpostallar gibi çeşitli grafik verilerinin gösterimi için kullanılabilir. CorelDRAW'ın yanı sıra Corel Paintshop Pro ve CorelDRAW Graphics paketi gibi diğer Corel ürünleri de CDR dosya biçimlerini açabilir.</p>
 <br/>
 Gemide aşağıdaki dönüşümler var:
 {{% /blocks/products/pf/feature-page-section %}}

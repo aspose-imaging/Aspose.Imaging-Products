@@ -13,8 +13,8 @@ description: Aspose.Imaging pode converter facilmente de BMP(Imagem de bitmap) p
 
 
 {{% blocks/products/pf/feature-page-section  h2="Amplo espectro de formatos de imagem que podem ser convertidos de imagens BMP(Imagem de bitmap) usando Aspose.Imaging para Java" %}}
-Você pode converter programaticamente do formato BMP para outros formatos disponíveis usando
-Aspose.Imaging para Java. Arquivos com extensão .BMP representam arquivos de imagem de bitmap que são usados ​​para armazenar imagens digitais de bitmap. Essas imagens são independentes do adaptador gráfico e também são chamadas de formato de arquivo de bitmap independente de dispositivo (DIB). Essa independência serve para abrir o arquivo em várias plataformas, como Microsoft Windows e Mac. O formato de arquivo BMP pode armazenar dados como imagens digitais bidimensionais em formato monocromático e colorido com várias profundidades de cor.
+<p align=justify>Você pode converter programaticamente do formato BMP para outros formatos disponíveis usando
+Aspose.Imaging para Java. Arquivos com extensão .BMP representam arquivos de imagem de bitmap que são usados ​​para armazenar imagens digitais de bitmap. Essas imagens são independentes do adaptador gráfico e também são chamadas de formato de arquivo de bitmap independente de dispositivo (DIB). Essa independência serve para abrir o arquivo em várias plataformas, como Microsoft Windows e Mac. O formato de arquivo BMP pode armazenar dados como imagens digitais bidimensionais em formato monocromático e colorido com várias profundidades de cor.</p>
 <br/>
 Existem as seguintes conversões a bordo:
 {{% /blocks/products/pf/feature-page-section %}}

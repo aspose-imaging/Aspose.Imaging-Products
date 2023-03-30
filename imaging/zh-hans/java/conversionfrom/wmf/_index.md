@@ -13,8 +13,8 @@ description: Aspose.Imaging 可以使用 Java 平台轻松地将 WMF(微软视�
 
 
 {{% blocks/products/pf/feature-page-section  h2="可以使用 Aspose.Imaging for Java 从 WMF(微软视窗元文件) 图像转换的各种图像格式" %}}
-您可以使用编程方式将 WMF 格式转换为其他可用格式
-用于 Java 的 Aspose.Imaging。 带有 WMF 扩展名的文件代表 Microsoft Windows 元文件 (WMF)，用于存储矢量以及位图格式的图像数据。更准确地说，WMF 属于与设备无关的图形文件格式的矢量文件格式类别。 Windows 图形设备接口 (GDI) 使用存储在 WMF 文件中的函数在屏幕上显示图像。后来发布了 WMF 的更增强版本，称为增强元文件 (EMF)，使该格式的功能更加丰富。实际上，WMF 类似于 SVG。
+<p align=justify>您可以使用编程方式将 WMF 格式转换为其他可用格式
+用于 Java 的 Aspose.Imaging。 带有 WMF 扩展名的文件代表 Microsoft Windows 元文件 (WMF)，用于存储矢量以及位图格式的图像数据。更准确地说，WMF 属于与设备无关的图形文件格式的矢量文件格式类别。 Windows 图形设备接口 (GDI) 使用存储在 WMF 文件中的函数在屏幕上显示图像。后来发布了 WMF 的更增强版本，称为增强元文件 (EMF)，使该格式的功能更加丰富。实际上，WMF 类似于 SVG。</p>
 <br/>
 船上有以下转换：
 {{% /blocks/products/pf/feature-page-section %}}

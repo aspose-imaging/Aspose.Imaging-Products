@@ -13,7 +13,7 @@ description: Using Aspose.Imaging for .NET library it is easy to convert to PSD(
 
 
 {{% blocks/products/pf/feature-page-section  h2="All supported conversions to PSD(Photoshop Document) format using Aspose.Imaging for .NET library" %}}
-Using Aspose.Imaging library you can programmatically convert various image formats to PSD image. PSD, Photoshop Document, represents Adobe Photoshop’s native file format used for graphics designing and development. PSD files may include image layers, adjustment layers, layer masks, annotations, file information, keywords and other Photoshop-specific elements.
+<p align=justify>Using Aspose.Imaging library you can programmatically convert various image formats to PSD image. PSD, Photoshop Document, represents Adobe Photoshop’s native file format used for graphics designing and development. PSD files may include image layers, adjustment layers, layer masks, annotations, file information, keywords and other Photoshop-specific elements.</p>
 <br/>
 Following conversions are supported :
 {{% /blocks/products/pf/feature-page-section %}}

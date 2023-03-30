@@ -13,7 +13,7 @@ description: Usando Aspose.Imaging para la biblioteca .NET, es fácil convertir 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Todas las conversiones admitidas al formato DXF(Formato de intercambio de dibujos, o Formato de intercambio de dibujos,) usando Aspose.Imaging para la biblioteca .NET" %}}
-Con la biblioteca Aspose.Imaging, puede convertir mediante programación varios formatos de imagen a la imagen DXF. DXF, formato de intercambio de dibujos o formato de intercambio de dibujos, es una representación de datos etiquetados del archivo de dibujo de AutoCAD. Cada elemento del archivo tiene un número entero de prefijo denominado código de grupo. Este código de grupo en realidad representa el elemento que sigue e indica el significado de un elemento de datos para un tipo de objeto dado. DXF permite representar casi toda la información especificada por el usuario en un archivo de dibujo.
+<p align=justify>Con la biblioteca Aspose.Imaging, puede convertir mediante programación varios formatos de imagen a la imagen DXF. DXF, formato de intercambio de dibujos o formato de intercambio de dibujos, es una representación de datos etiquetados del archivo de dibujo de AutoCAD. Cada elemento del archivo tiene un número entero de prefijo denominado código de grupo. Este código de grupo en realidad representa el elemento que sigue e indica el significado de un elemento de datos para un tipo de objeto dado. DXF permite representar casi toda la información especificada por el usuario en un archivo de dibujo. </p>
 <br/>
 Se admiten las siguientes conversiones:
 {{% /blocks/products/pf/feature-page-section %}}

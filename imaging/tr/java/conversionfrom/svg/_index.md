@@ -13,8 +13,8 @@ description: Aspose.Imaging, Java platformunu kullanarak SVG(ölçeklendirilebil
 
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java kullanılarak SVG(ölçeklendirilebilir Vektör Grafiği) görüntülerden dönüştürülebilen geniş görüntü formatları yelpazesi" %}}
-kullanarak SVG biçiminden diğer kullanılabilir biçimlere programlı olarak dönüştürebilirsiniz.
-Java için Aspose.Imaging. SVG dosyaları, görüntünün görünümünü açıklamak için XML tabanlı metin biçimini kullanan Ölçeklenebilir Vektör Grafik Dosyalarıdır. Ölçeklenebilir kelimesi, SVG'nin kaliteden ödün vermeden farklı boyutlara ölçeklenebilmesini ifade eder. Bu tür dosyaların metin tabanlı açıklaması, onları çözünürlükten bağımsız kılar. Ölçeklenebilirlik sağlamak için web sitesi oluşturmak ve grafik yazdırmak için en çok kullanılan formatlardan biridir. Format ancak iki boyutlu grafikler için kullanılabilir. SVG dosyaları, Chrome, Internet Explorer, Firefox ve Safari dahil olmak üzere neredeyse tüm modern tarayıcılarda görüntülenebilir/açılabilir.
+<p align=justify>kullanarak SVG biçiminden diğer kullanılabilir biçimlere programlı olarak dönüştürebilirsiniz.
+Java için Aspose.Imaging. SVG dosyaları, görüntünün görünümünü açıklamak için XML tabanlı metin biçimini kullanan Ölçeklenebilir Vektör Grafik Dosyalarıdır. Ölçeklenebilir kelimesi, SVG'nin kaliteden ödün vermeden farklı boyutlara ölçeklenebilmesini ifade eder. Bu tür dosyaların metin tabanlı açıklaması, onları çözünürlükten bağımsız kılar. Ölçeklenebilirlik sağlamak için web sitesi oluşturmak ve grafik yazdırmak için en çok kullanılan formatlardan biridir. Format ancak iki boyutlu grafikler için kullanılabilir. SVG dosyaları, Chrome, Internet Explorer, Firefox ve Safari dahil olmak üzere neredeyse tüm modern tarayıcılarda görüntülenebilir/açılabilir.</p>
 <br/>
 Gemide aşağıdaki dönüşümler var:
 {{% /blocks/products/pf/feature-page-section %}}

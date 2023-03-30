@@ -13,7 +13,7 @@ description: Using Aspose.Imaging for .NET library it is easy to convert to BMP(
 
 
 {{% blocks/products/pf/feature-page-section  h2="All supported conversions to BMP(Bitmap Picture) format using Aspose.Imaging for .NET library" %}}
-Using Aspose.Imaging library you can programmatically convert various image formats to BMP image. Files having extension .BMP represent Bitmap Image files that are used to store bitmap digital images. These images are independent of graphics adapter and are also called device independent bitmap (DIB) file format. This independency serves the purpose of opening the file on multiple platforms such as Microsoft Windows and Mac. The BMP file format can store data as two-dimensional digital images  in both monochrome as well as color format with various colour depths.
+<p align=justify>Using Aspose.Imaging library you can programmatically convert various image formats to BMP image. Files having extension .BMP represent Bitmap Image files that are used to store bitmap digital images. These images are independent of graphics adapter and are also called device independent bitmap (DIB) file format. This independency serves the purpose of opening the file on multiple platforms such as Microsoft Windows and Mac. The BMP file format can store data as two-dimensional digital images  in both monochrome as well as color format with various colour depths.</p>
 <br/>
 Following conversions are supported :
 {{% /blocks/products/pf/feature-page-section %}}

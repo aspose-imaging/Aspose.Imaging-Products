@@ -13,7 +13,7 @@ description: Aspose.Imaging'i kullanarak WMZ(Sıkıştırılmış Windows Media 
 
 
 {{% blocks/products/pf/feature-page-section  h2="WMZ(Sıkıştırılmış Windows Media Player Dış Görünümü) biçiminden dönüştürülecek desteklenen tüm resim biçimleri" %}}
-Aspose.Imaging, .NET platformunda WMZ'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir. WMZ, Windows Media Player'da/içinde/tarafından kullanılan bir dış görünüm dosyası biçimi için bir dosya uzantısıdır. Bir WMZ dosyası, temel olarak XML'de sıkıştırılmış bir WMF dosyasıdır.
+<p align=justify>Aspose.Imaging, .NET platformunda WMZ'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir. WMZ, Windows Media Player'da/içinde/tarafından kullanılan bir dış görünüm dosyası biçimi için bir dosya uzantısıdır. Bir WMZ dosyası, temel olarak XML'de sıkıştırılmış bir WMF dosyasıdır.</p>
 <br/>
 WMZ tarafından desteklenen dönüşümlerin tam listesi:
 {{% /blocks/products/pf/feature-page-section %}}

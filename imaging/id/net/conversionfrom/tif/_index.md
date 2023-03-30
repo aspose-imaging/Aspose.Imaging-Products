@@ -13,7 +13,7 @@ description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi dari
 
 
 {{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari TIF(Format Gambar yang Ditandai)" %}}
-Aspose.Imaging memungkinkan mengotomatiskan banyak konversi dari TIF ke format lain di platform .NET. 
+<p align=justify>Aspose.Imaging memungkinkan mengotomatiskan banyak konversi dari TIF ke format lain di platform .NET. </p>
 <br/>
 Daftar lengkap konversi yang didukung dari TIF:
 {{% /blocks/products/pf/feature-page-section %}}

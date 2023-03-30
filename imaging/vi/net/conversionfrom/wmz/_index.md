@@ -13,7 +13,7 @@ description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng chuyển đ�
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tất cả các định dạng hình ảnh được hỗ trợ để chuyển đổi từ WMZ(Giao diện Windows Media Player được nén)" %}}
-Aspose.Imaging cho phép tự động hóa rất nhiều chuyển đổi từ WMZ sang các định dạng khác trên nền tảng .NET. WMZ là một phần mở rộng tệp cho định dạng tệp da trong / cho / được sử dụng bởi Windows Media Player. Tệp WMZ về cơ bản là một tệp WMF được nén trong XML.
+<p align=justify>Aspose.Imaging cho phép tự động hóa rất nhiều chuyển đổi từ WMZ sang các định dạng khác trên nền tảng .NET. WMZ là một phần mở rộng tệp cho định dạng tệp da trong / cho / được sử dụng bởi Windows Media Player. Tệp WMZ về cơ bản là một tệp WMF được nén trong XML.</p>
 <br/>
 Danh sách đầy đủ các chuyển đổi được hỗ trợ từ WMZ:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,7 +13,7 @@ description: Mit Aspose.Imaging können Sie mithilfe von Java aus anderen Format
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bildformate können mit Aspose.Imaging für Java in PDF konvertiert werden" %}}
-Mit der Aspose.Imaging-Bibliothek können Sie mithilfe der Java-Plattform programmgesteuert von anderen unterstützten Bildformaten in PDF konvertieren.
+<p align=justify>Mit der Aspose.Imaging-Bibliothek können Sie mithilfe der Java-Plattform programmgesteuert von anderen unterstützten Bildformaten in PDF konvertieren.</p>
 <br/>
 Unterstützte Konvertierungen:
 {{% /blocks/products/pf/feature-page-section %}}

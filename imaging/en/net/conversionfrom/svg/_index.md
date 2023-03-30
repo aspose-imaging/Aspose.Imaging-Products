@@ -13,7 +13,7 @@ description: Using Aspose.Imaging for .NET you can easily convert from SVG(Scala
 
 
 {{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from SVG(Scalable Vector Graphics)" %}}
-Aspose.Imaging allows automate a lot of conversions from SVG to other formats on .NET platform. SVG files are Scalable Vector Graphics Files that use XML based text format for describing the appearance of image. The word Scalable refers to the fact that the SVG can be scaled to different sizes without losing any quality. Text based description of such files make them independent of resolution. It is one of the mostly used format for building website and print graphics in order to achieve scalability. The format can only be used for two-dimensional graphics though. SVG files can be viewed/opened in almost all modern browsers including Chrome, Internet Explorer, Firefox, and Safari.
+<p align=justify>Aspose.Imaging allows automate a lot of conversions from SVG to other formats on .NET platform. SVG files are Scalable Vector Graphics Files that use XML based text format for describing the appearance of image. The word Scalable refers to the fact that the SVG can be scaled to different sizes without losing any quality. Text based description of such files make them independent of resolution. It is one of the mostly used format for building website and print graphics in order to achieve scalability. The format can only be used for two-dimensional graphics though. SVG files can be viewed/opened in almost all modern browsers including Chrome, Internet Explorer, Firefox, and Safari.</p>
 <br/>
 Full list of supported conversions from SVG:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,7 +13,7 @@ description: Met behulp van Aspose.Imaging kunt u eenvoudig converteren van EMZ(
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde afbeeldingsindelingen om te converteren van EMZ(Windows gecomprimeerd verbeterd metabestand)" %}}
-Aspose.Imaging maakt het mogelijk veel conversies van EMZ naar andere formaten op het .NET-platform te automatiseren. Een bestand met de EMZ-bestandsextensie is een gecomprimeerd afbeeldingsbestand, meer specifiek een Windows Compressed Enhanced Metafile-bestand genoemd
+<p align=justify>Aspose.Imaging maakt het mogelijk veel conversies van EMZ naar andere formaten op het .NET-platform te automatiseren. Een bestand met de EMZ-bestandsextensie is een gecomprimeerd afbeeldingsbestand, meer specifiek een Windows Compressed Enhanced Metafile-bestand genoemd</p>
 <br/>
 Volledige lijst met ondersteunde conversies van EMZ:
 {{% /blocks/products/pf/feature-page-section %}}

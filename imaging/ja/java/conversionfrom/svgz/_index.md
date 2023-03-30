@@ -13,8 +13,8 @@ description: Aspose.Imaging は、Java プラットフォームを使用して S
 
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java を使用して SVGZ(スケーラブルベクターグラフィックス（.SVG）ファイルの圧縮バージョン。) 画像から変換できる幅広い画像フォーマット" %}}
-次を使用して、SVGZ 形式から他の使用可能な形式にプログラムで変換できます。
-Aspose.Imaging for Java。 拡張子が.svgzのファイルは、Scalable Vector Graphics（.SVG）ファイルの圧縮バージョンです。 gzip圧縮で圧縮され、XML形式のデータが含まれています。 SVGZファイルは、透明度、グラデーション、アニメーション、およびフィルターをサポートします。 SVGZファイルはデフォルトのSVGファイルと比較してサイズが小さく、この縮小されたファイルサイズはグラフィックファイルをオンラインで転送するのに役立ちます。グラフィックデザイナーは、Adobe Illustrator、Corel PaintShopProなどのツールを使用してSVGZファイルを作成します。ただし、SVGZファイルは、画像データの送信中にApacheサーバーでGZip圧縮を有効にすることで生成できます。
+<p align=justify>次を使用して、SVGZ 形式から他の使用可能な形式にプログラムで変換できます。
+Aspose.Imaging for Java。 拡張子が.svgzのファイルは、Scalable Vector Graphics（.SVG）ファイルの圧縮バージョンです。 gzip圧縮で圧縮され、XML形式のデータが含まれています。 SVGZファイルは、透明度、グラデーション、アニメーション、およびフィルターをサポートします。 SVGZファイルはデフォルトのSVGファイルと比較してサイズが小さく、この縮小されたファイルサイズはグラフィックファイルをオンラインで転送するのに役立ちます。グラフィックデザイナーは、Adobe Illustrator、Corel PaintShopProなどのツールを使用してSVGZファイルを作成します。ただし、SVGZファイルは、画像データの送信中にApacheサーバーでGZip圧縮を有効にすることで生成できます。</p>
 <br/>
 機内では次の変換があります。
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,7 +13,7 @@ description: Korzystając z biblioteki Aspose.Imaging dla .NET, można łatwo pr
 
 
 {{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane konwersje do formatu PDF(Przenośny format dokumentu (PDF)) przy użyciu biblioteki Aspose.Imaging for .NET" %}}
-Korzystając z biblioteki Aspose.Imaging możesz programowo konwertować różne formaty obrazów na obraz PDF. Portable Document Format (PDF) to rodzaj dokumentu stworzony przez firmę Adobe w latach 90. XX wieku. Celem tego formatu pliku było wprowadzenie standardu reprezentacji dokumentów i innych materiałów referencyjnych w formacie niezależnym od oprogramowania aplikacji, sprzętu oraz systemu operacyjnego. Format pliku PDF ma pełną zdolność do przechowywania informacji, takich jak tekst, obrazy, hiperłącza, pola formularzy, multimedia, podpisy cyfrowe, załączniki, metadane, funkcje geoprzestrzenne i obiekty 3D, które mogą stać się częścią dokumentu źródłowego.
+<p align=justify>Korzystając z biblioteki Aspose.Imaging możesz programowo konwertować różne formaty obrazów na obraz PDF. Portable Document Format (PDF) to rodzaj dokumentu stworzony przez firmę Adobe w latach 90. XX wieku. Celem tego formatu pliku było wprowadzenie standardu reprezentacji dokumentów i innych materiałów referencyjnych w formacie niezależnym od oprogramowania aplikacji, sprzętu oraz systemu operacyjnego. Format pliku PDF ma pełną zdolność do przechowywania informacji, takich jak tekst, obrazy, hiperłącza, pola formularzy, multimedia, podpisy cyfrowe, załączniki, metadane, funkcje geoprzestrzenne i obiekty 3D, które mogą stać się częścią dokumentu źródłowego.</p>
 <br/>
 Obsługiwane są następujące konwersje:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,8 +13,8 @@ description: Aspose.Imaging kan eenvoudig converteren van CMX(Corel Exchange-afb
 
 
 {{% blocks/products/pf/feature-page-section  h2="Breed spectrum aan afbeeldingsindelingen die kunnen worden geconverteerd van CMX(Corel Exchange-afbeelding)-afbeeldingen met Aspose.Imaging voor Java" %}}
-U kunt programmatisch converteren van het CMX-formaat naar andere beschikbare formaten met behulp van
-Aspose.Imaging voor Java. Bestanden met de CMX-extensie zijn Corel Exchange-beeldbestandsindeling die wordt gebruikt als presentatie door CorelSuite-toepassingen. Het bevat afbeeldingsgegevens als vectorafbeeldingen en metagegevens die de afbeelding beschrijven. CMX-bestanden kunnen worden geopend door CorelDraw, Corel Presentations, Paint Shop Pro en sommige versies van Adobe Illustrator.
+<p align=justify>U kunt programmatisch converteren van het CMX-formaat naar andere beschikbare formaten met behulp van
+Aspose.Imaging voor Java. Bestanden met de CMX-extensie zijn Corel Exchange-beeldbestandsindeling die wordt gebruikt als presentatie door CorelSuite-toepassingen. Het bevat afbeeldingsgegevens als vectorafbeeldingen en metagegevens die de afbeelding beschrijven. CMX-bestanden kunnen worden geopend door CorelDraw, Corel Presentations, Paint Shop Pro en sommige versies van Adobe Illustrator.</p>
 <br/>
 Er zijn de volgende verbouwingen aan boord:
 {{% /blocks/products/pf/feature-page-section %}}

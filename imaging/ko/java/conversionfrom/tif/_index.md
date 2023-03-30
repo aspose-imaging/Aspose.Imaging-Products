@@ -13,8 +13,8 @@ description: Aspose.Imaging은 Java 플랫폼을 사용하여 TIF(태그가 지�
 
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java를 사용하여 TIF(태그가 지정된 이미지 형식) 이미지에서 변환할 수 있는 광범위한 이미지 형식" %}}
-다음을 사용하여 TIF 형식에서 사용 가능한 다른 형식으로 프로그래밍 방식으로 변환할 수 있습니다.
-Aspose.Imaging for Java. 
+<p align=justify>다음을 사용하여 TIF 형식에서 사용 가능한 다른 형식으로 프로그래밍 방식으로 변환할 수 있습니다.
+Aspose.Imaging for Java. </p>
 <br/>
 보드에는 다음과 같은 변환이 있습니다.
 {{% /blocks/products/pf/feature-page-section %}}

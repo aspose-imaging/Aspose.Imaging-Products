@@ -13,8 +13,8 @@ description: Aspose.Imaging pode converter facilmente de EMF(Formato de metarqui
 
 
 {{% blocks/products/pf/feature-page-section  h2="Amplo espectro de formatos de imagem que podem ser convertidos de imagens EMF(Formato de metarquivo aprimorado) usando Aspose.Imaging para Java" %}}
-Você pode converter programaticamente do formato EMF para outros formatos disponíveis usando
-Aspose.Imaging para Java. O formato de metarquivo aprimorado (EMF) armazena imagens gráficas independentemente do dispositivo. Os metarquivos de EMF são compostos por registros de comprimento variável em ordem cronológica que podem renderizar a imagem armazenada após a análise em qualquer dispositivo de saída. Esses registros de comprimento variável podem ser definições de objetos incluídos, comandos para desenho e propriedades gráficas críticas para renderizar a imagem com precisão. Quando um dispositivo abre um metarquivo EMF usando seu próprio ambiente gráfico, as proporções, dimensões, cores e outras propriedades gráficas da imagem original permanecem as mesmas, independentemente da plataforma do dispositivo de abertura.
+<p align=justify>Você pode converter programaticamente do formato EMF para outros formatos disponíveis usando
+Aspose.Imaging para Java. O formato de metarquivo aprimorado (EMF) armazena imagens gráficas independentemente do dispositivo. Os metarquivos de EMF são compostos por registros de comprimento variável em ordem cronológica que podem renderizar a imagem armazenada após a análise em qualquer dispositivo de saída. Esses registros de comprimento variável podem ser definições de objetos incluídos, comandos para desenho e propriedades gráficas críticas para renderizar a imagem com precisão. Quando um dispositivo abre um metarquivo EMF usando seu próprio ambiente gráfico, as proporções, dimensões, cores e outras propriedades gráficas da imagem original permanecem as mesmas, independentemente da plataforma do dispositivo de abertura.</p>
 <br/>
 Existem as seguintes conversões a bordo:
 {{% /blocks/products/pf/feature-page-section %}}

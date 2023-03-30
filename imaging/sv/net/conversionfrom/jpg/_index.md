@@ -13,7 +13,7 @@ description: Med Aspose.Imaging kan du enkelt konvertera från JPG(Förenade Fot
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alla bildformat som stöds att konvertera från JPG(Förenade Fotografers Expert Grupp)" %}}
-Aspose.Imaging låter automatisera många konverteringar från JPG till andra format på .NET-plattformen. En JPEG är en typ av bildformat som sparas med metoden för förlustkomprimering. Utdatabilden, som ett resultat av komprimering, är en kompromiss mellan lagringsstorlek och bildkvalitet. Användare kan justera komprimeringsnivån för att uppnå önskad kvalitetsnivå samtidigt som lagringsstorleken minskas. Bildkvaliteten påverkas försumbart om 10:1-komprimering tillämpas på bilden. Ju högre komprimeringsvärde, desto högre försämring i bildkvalitet.
+<p align=justify>Aspose.Imaging låter automatisera många konverteringar från JPG till andra format på .NET-plattformen. En JPEG är en typ av bildformat som sparas med metoden för förlustkomprimering. Utdatabilden, som ett resultat av komprimering, är en kompromiss mellan lagringsstorlek och bildkvalitet. Användare kan justera komprimeringsnivån för att uppnå önskad kvalitetsnivå samtidigt som lagringsstorleken minskas. Bildkvaliteten påverkas försumbart om 10:1-komprimering tillämpas på bilden. Ju högre komprimeringsvärde, desto högre försämring i bildkvalitet.</p>
 <br/>
 Fullständig lista över omvandlingar som stöds från JPG:
 {{% /blocks/products/pf/feature-page-section %}}

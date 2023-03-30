@@ -13,8 +13,8 @@ description: Aspose.Imaging có thể dễ dàng chuyển đổi từ ODG(Apache
 
 
 {{% blocks/products/pf/feature-page-section  h2="Nhiều định dạng hình ảnh có thể được chuyển đổi từ hình ảnh ODG(Apache OpenOffice Draw Format) bằng Aspose.Imaging cho Java" %}}
-Bạn có thể lập trình chuyển đổi từ định dạng ODG sang các định dạng có sẵn khác bằng cách sử dụng
-Aspose.Imaging cho Java. Định dạng tệp ODG được ứng dụng Draw của Apache OpenOffice sử dụng để lưu trữ các phần tử bản vẽ dưới dạng hình ảnh vectơ. Nó tuân theo các đặc tả định dạng tệp dựa trên XML được nêu ra bởi Sự Tiến bộ của Tiêu chuẩn Thông tin Cấu trúc (OASIS). ODG biểu diễn bản vẽ dưới dạng hình ảnh vectơ sử dụng các điểm, đường thẳng và đường cong. Bên cạnh OpenOffice, LibreOffice và các ứng dụng khác cũng cung cấp hỗ trợ làm việc với định dạng tệp ODG. Các định dạng khác được OpenOffice hỗ trợ, chẳng hạn, bao gồm ODT, ODF, ODP và ODS.
+<p align=justify>Bạn có thể lập trình chuyển đổi từ định dạng ODG sang các định dạng có sẵn khác bằng cách sử dụng
+Aspose.Imaging cho Java. Định dạng tệp ODG được ứng dụng Draw của Apache OpenOffice sử dụng để lưu trữ các phần tử bản vẽ dưới dạng hình ảnh vectơ. Nó tuân theo các đặc tả định dạng tệp dựa trên XML được nêu ra bởi Sự Tiến bộ của Tiêu chuẩn Thông tin Cấu trúc (OASIS). ODG biểu diễn bản vẽ dưới dạng hình ảnh vectơ sử dụng các điểm, đường thẳng và đường cong. Bên cạnh OpenOffice, LibreOffice và các ứng dụng khác cũng cung cấp hỗ trợ làm việc với định dạng tệp ODG. Các định dạng khác được OpenOffice hỗ trợ, chẳng hạn, bao gồm ODT, ODF, ODP và ODS.</p>
 <br/>
 Có các chuyển đổi sau trên tàu:
 {{% /blocks/products/pf/feature-page-section %}}

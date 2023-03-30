@@ -13,7 +13,7 @@ description: Pomocí knihovny Aspose.Imaging for .NET je snadné převést do fo
 
 
 {{% blocks/products/pf/feature-page-section  h2="Všechny podporované převody do formátu DXF(Výměnný formát výkresů nebo formát výměny výkresů,) pomocí knihovny Aspose.Imaging for .NET" %}}
-Pomocí knihovny Aspose.Imaging můžete programově převádět různé formáty obrázků na obrázek DXF. DXF, Drawing Interchange Format nebo Drawing Exchange Format, je reprezentace tagovaných dat výkresového souboru AutoCADu. Každý prvek v souboru má předponu celé číslo nazývané kód skupiny. Tento skupinový kód ve skutečnosti představuje prvek, který následuje, a označuje význam datového prvku pro daný typ objektu. DXF umožňuje reprezentovat téměř všechny uživatelem specifikované informace ve výkresovém souboru.
+<p align=justify>Pomocí knihovny Aspose.Imaging můžete programově převádět různé formáty obrázků na obrázek DXF. DXF, Drawing Interchange Format nebo Drawing Exchange Format, je reprezentace tagovaných dat výkresového souboru AutoCADu. Každý prvek v souboru má předponu celé číslo nazývané kód skupiny. Tento skupinový kód ve skutečnosti představuje prvek, který následuje, a označuje význam datového prvku pro daný typ objektu. DXF umožňuje reprezentovat téměř všechny uživatelem specifikované informace ve výkresovém souboru.</p>
 <br/>
 Podporovány jsou následující převody:
 {{% /blocks/products/pf/feature-page-section %}}

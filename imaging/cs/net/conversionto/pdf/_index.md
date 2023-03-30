@@ -13,7 +13,7 @@ description: Pomocí knihovny Aspose.Imaging for .NET je snadné převést do fo
 
 
 {{% blocks/products/pf/feature-page-section  h2="Všechny podporované převody do formátu PDF(Portable Document Format (PDF)) pomocí knihovny Aspose.Imaging for .NET" %}}
-Pomocí knihovny Aspose.Imaging můžete programově převádět různé formáty obrázků na obrázek PDF. Portable Document Format (PDF) je typ dokumentu vytvořený společností Adobe již v 90. letech minulého století. Účelem tohoto formátu souboru bylo zavést standard pro reprezentaci dokumentů a dalších referenčních materiálů ve formátu, který je nezávislý na aplikačním softwaru, hardwaru i operačním systému. Formát souboru PDF má plnou schopnost obsahovat informace jako text, obrázky, hypertextové odkazy, pole formuláře, multimédia, digitální podpisy, přílohy, metadata, geoprostorové prvky a 3D objekty, které se mohou stát součástí zdrojového dokumentu.
+<p align=justify>Pomocí knihovny Aspose.Imaging můžete programově převádět různé formáty obrázků na obrázek PDF. Portable Document Format (PDF) je typ dokumentu vytvořený společností Adobe již v 90. letech minulého století. Účelem tohoto formátu souboru bylo zavést standard pro reprezentaci dokumentů a dalších referenčních materiálů ve formátu, který je nezávislý na aplikačním softwaru, hardwaru i operačním systému. Formát souboru PDF má plnou schopnost obsahovat informace jako text, obrázky, hypertextové odkazy, pole formuláře, multimédia, digitální podpisy, přílohy, metadata, geoprostorové prvky a 3D objekty, které se mohou stát součástí zdrojového dokumentu.</p>
 <br/>
 Podporovány jsou následující převody:
 {{% /blocks/products/pf/feature-page-section %}}

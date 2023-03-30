@@ -13,7 +13,7 @@ description: Naudojant Aspose.Imaging, skirta .NET bibliotekai, lengva konvertuo
 
 
 {{% blocks/products/pf/feature-page-section  h2="Visos palaikomos konversijos į WMZ(Suspausta Windows Media Player oda) formatą naudojant Aspose.Imaging for .NET biblioteką" %}}
-Naudodami Aspose.Imaging biblioteką galite programiškai konvertuoti įvairius vaizdo formatus į WMZ vaizdą. WMZ yra „Windows Media Player“ / „Windows Media Player“ naudojamo odos failo formato failo plėtinys. WMZ failas iš esmės yra suglaudintas WMF failas XML formatu.
+<p align=justify>Naudodami Aspose.Imaging biblioteką galite programiškai konvertuoti įvairius vaizdo formatus į WMZ vaizdą. WMZ yra „Windows Media Player“ / „Windows Media Player“ naudojamo odos failo formato failo plėtinys. WMZ failas iš esmės yra suglaudintas WMF failas XML formatu.</p>
 <br/>
 Palaikomos šios konversijos:
 {{% /blocks/products/pf/feature-page-section %}}

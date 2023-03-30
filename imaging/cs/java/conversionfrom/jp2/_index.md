@@ -13,8 +13,8 @@ description: Aspose.Imaging lze snadno převést z formátu JP2(JPEG 2000) do ji
 
 
 {{% blocks/products/pf/feature-page-section  h2="Široké spektrum obrazových formátů, které lze převést z obrázků JP2(JPEG 2000) pomocí Aspose.Imaging for Java" %}}
-Můžete programově převádět z formátu JP2 do jiných dostupných formátů pomocí
-Aspose.Imaging pro Javu. JPEG 2000 (JP2) je systém kódování obrazu a nejmodernější standard komprese obrazu. JPEG 2000 navržený pomocí waveletové technologie dokáže kódovat bezeztrátový obsah v jakékoli kvalitě najednou. Navíc, bez jakékoli podstatné penalizace v účinnosti kódování, JPEG 2000 má schopnost přistupovat ke stejnému obsahu a účinně jej dekódovat do řady dalších rozlišení a kvalit. Toky kódu v JPEG 2000 jsou výrazně škálovatelné a mají oblasti zájmu, které poskytují možnost prostorového náhodného přístupu. Obsahuje až 16 384 různých komponent s rozměry v terapixelech a přesností, která může dosahovat až 38 bitů/vzorek.
+<p align=justify>Můžete programově převádět z formátu JP2 do jiných dostupných formátů pomocí
+Aspose.Imaging pro Javu. JPEG 2000 (JP2) je systém kódování obrazu a nejmodernější standard komprese obrazu. JPEG 2000 navržený pomocí waveletové technologie dokáže kódovat bezeztrátový obsah v jakékoli kvalitě najednou. Navíc, bez jakékoli podstatné penalizace v účinnosti kódování, JPEG 2000 má schopnost přistupovat ke stejnému obsahu a účinně jej dekódovat do řady dalších rozlišení a kvalit. Toky kódu v JPEG 2000 jsou výrazně škálovatelné a mají oblasti zájmu, které poskytují možnost prostorového náhodného přístupu. Obsahuje až 16 384 různých komponent s rozměry v terapixelech a přesností, která může dosahovat až 38 bitů/vzorek.</p>
 <br/>
 Na palubě jsou následující konverze:
 {{% /blocks/products/pf/feature-page-section %}}

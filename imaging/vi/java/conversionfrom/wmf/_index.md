@@ -13,8 +13,8 @@ description: Aspose.Imaging có thể dễ dàng chuyển đổi từ WMF(Micros
 
 
 {{% blocks/products/pf/feature-page-section  h2="Nhiều định dạng hình ảnh có thể được chuyển đổi từ hình ảnh WMF(Microsoft Windows Metafile) bằng Aspose.Imaging cho Java" %}}
-Bạn có thể lập trình chuyển đổi từ định dạng WMF sang các định dạng có sẵn khác bằng cách sử dụng
-Aspose.Imaging cho Java. Các tệp có phần mở rộng WMF đại diện cho Microsoft Windows Metafile (WMF) để lưu trữ dữ liệu hình ảnh dạng vector cũng như bitmap. Nói chính xác hơn, WMF thuộc thể loại định dạng tệp vectơ của các định dạng tệp Đồ họa độc lập với thiết bị. Giao diện thiết bị đồ họa Windows (GDI) sử dụng các chức năng được lưu trữ trong tệp WMF để hiển thị hình ảnh trên màn hình. Một phiên bản nâng cao hơn của WMF, được gọi là Tệp Meta Nâng cao (EMF), đã được xuất bản sau đó giúp định dạng có nhiều tính năng phong phú hơn. Thực tế, WMF tương tự như SVG.
+<p align=justify>Bạn có thể lập trình chuyển đổi từ định dạng WMF sang các định dạng có sẵn khác bằng cách sử dụng
+Aspose.Imaging cho Java. Các tệp có phần mở rộng WMF đại diện cho Microsoft Windows Metafile (WMF) để lưu trữ dữ liệu hình ảnh dạng vector cũng như bitmap. Nói chính xác hơn, WMF thuộc thể loại định dạng tệp vectơ của các định dạng tệp Đồ họa độc lập với thiết bị. Giao diện thiết bị đồ họa Windows (GDI) sử dụng các chức năng được lưu trữ trong tệp WMF để hiển thị hình ảnh trên màn hình. Một phiên bản nâng cao hơn của WMF, được gọi là Tệp Meta Nâng cao (EMF), đã được xuất bản sau đó giúp định dạng có nhiều tính năng phong phú hơn. Thực tế, WMF tương tự như SVG.</p>
 <br/>
 Có các chuyển đổi sau trên tàu:
 {{% /blocks/products/pf/feature-page-section %}}

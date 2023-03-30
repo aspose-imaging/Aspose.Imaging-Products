@@ -13,8 +13,8 @@ description: Aspose.Imaging può facilmente convertire da SVG(Grafica vettoriale
 
 
 {{% blocks/products/pf/feature-page-section  h2="Ampio spettro di formati immagine che possono essere convertiti da immagini SVG(Grafica vettoriale scalabile) utilizzando Aspose.Imaging per Java" %}}
-Puoi convertire in modo programmatico dal formato SVG in altri formati disponibili utilizzando
-Aspose.Imaging per Java. I file SVG sono file di grafica vettoriale scalabili che utilizzano un formato di testo basato su XML per descrivere l'aspetto dell'immagine. La parola scalabile si riferisce al fatto che l'SVG può essere ridimensionato a diverse dimensioni senza perdere qualità. La descrizione testuale di tali file li rende indipendenti dalla risoluzione. È uno dei formati più utilizzati per la creazione di siti Web e grafica stampata al fine di ottenere scalabilità. Tuttavia, il formato può essere utilizzato solo per la grafica bidimensionale. I file SVG possono essere visualizzati/aperti in quasi tutti i browser moderni, inclusi Chrome, Internet Explorer, Firefox e Safari.
+<p align=justify>Puoi convertire in modo programmatico dal formato SVG in altri formati disponibili utilizzando
+Aspose.Imaging per Java. I file SVG sono file di grafica vettoriale scalabili che utilizzano un formato di testo basato su XML per descrivere l'aspetto dell'immagine. La parola scalabile si riferisce al fatto che l'SVG può essere ridimensionato a diverse dimensioni senza perdere qualità. La descrizione testuale di tali file li rende indipendenti dalla risoluzione. È uno dei formati più utilizzati per la creazione di siti Web e grafica stampata al fine di ottenere scalabilità. Tuttavia, il formato può essere utilizzato solo per la grafica bidimensionale. I file SVG possono essere visualizzati/aperti in quasi tutti i browser moderni, inclusi Chrome, Internet Explorer, Firefox e Safari.</p>
 <br/>
 Ci sono le seguenti conversioni a bordo:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,7 +13,7 @@ description: באמצעות Aspose.Imaging עבור ספריית NET קל להמ
 
 
 {{% blocks/products/pf/feature-page-section  h2="כל ההמרות הנתמכות לפורמט EMZ(Metafile משופר דחוס של Windows) באמצעות Aspose.Imaging עבור ספריית NET" %}}
-באמצעות ספריית Aspose.Imaging אתה יכול להמיר פורמטים שונים של תמונה לתמונה EMZ. קובץ עם סיומת הקובץ EMZ הוא קובץ תמונה דחוס, המכונה באופן ספציפי יותר קובץ Windows Compressed Enhanced Metafile
+<p align=justify>באמצעות ספריית Aspose.Imaging אתה יכול להמיר פורמטים שונים של תמונה לתמונה EMZ. קובץ עם סיומת הקובץ EMZ הוא קובץ תמונה דחוס, המכונה באופן ספציפי יותר קובץ Windows Compressed Enhanced Metafile</p>
 <br/>
 ההמרות הבאות נתמכות:
 {{% /blocks/products/pf/feature-page-section %}}

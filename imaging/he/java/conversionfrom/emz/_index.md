@@ -13,8 +13,8 @@ description: Aspose.Imaging יכולה להמיר בקלות מ-EMZ(Metafile מ�
 
 
 {{% blocks/products/pf/feature-page-section  h2="ספקטרום רחב של פורמטים של תמונות שניתן להמיר מתמונות EMZ(Metafile משופר דחוס של Windows) באמצעות Aspose.Imaging עבור Java" %}}
-אתה יכול להמיר באופן תכנותי מפורמט EMZ לפורמטים זמינים אחרים באמצעות
-Aspose.Imaging עבור Java. קובץ עם סיומת הקובץ EMZ הוא קובץ תמונה דחוס, המכונה באופן ספציפי יותר קובץ Windows Compressed Enhanced Metafile
+<p align=justify>אתה יכול להמיר באופן תכנותי מפורמט EMZ לפורמטים זמינים אחרים באמצעות
+Aspose.Imaging עבור Java. קובץ עם סיומת הקובץ EMZ הוא קובץ תמונה דחוס, המכונה באופן ספציפי יותר קובץ Windows Compressed Enhanced Metafile</p>
 <br/>
 ישנן ההמרות הבאות על הסיפון:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,8 +13,8 @@ description: Aspose.Imaging puede convertir fácilmente de EMF(Formato de metarc
 
 
 {{% blocks/products/pf/feature-page-section  h2="Amplio espectro de formatos de imagen que se pueden convertir a partir de imágenes EMF(Formato de metarchivo mejorado) usando Aspose.Imaging para Java" %}}
-Puede convertir programáticamente del formato EMF a otros formatos disponibles usando
-Aspose. Imaging para Java. El formato de metarchivo mejorado (EMF) almacena imágenes gráficas de forma independiente del dispositivo. Los metarchivos de EMF se componen de registros de longitud variable en orden cronológico que pueden representar la imagen almacenada después de analizarla en cualquier dispositivo de salida. Estos registros de longitud variable pueden ser definiciones de objetos encerrados, comandos para dibujar y propiedades gráficas críticas para representar la imagen con precisión. Cuando un dispositivo abre un metarchivo EMF utilizando su propio entorno de gráficos, las proporciones, dimensiones, colores y otras propiedades gráficas de la imagen original siguen siendo las mismas independientemente de la plataforma del dispositivo de apertura.
+<p align=justify>Puede convertir programáticamente del formato EMF a otros formatos disponibles usando
+Aspose. Imaging para Java. El formato de metarchivo mejorado (EMF) almacena imágenes gráficas de forma independiente del dispositivo. Los metarchivos de EMF se componen de registros de longitud variable en orden cronológico que pueden representar la imagen almacenada después de analizarla en cualquier dispositivo de salida. Estos registros de longitud variable pueden ser definiciones de objetos encerrados, comandos para dibujar y propiedades gráficas críticas para representar la imagen con precisión. Cuando un dispositivo abre un metarchivo EMF utilizando su propio entorno de gráficos, las proporciones, dimensiones, colores y otras propiedades gráficas de la imagen original siguen siendo las mismas independientemente de la plataforma del dispositivo de apertura.</p>
 <br/>
 Hay las siguientes conversiones a bordo:
 {{% /blocks/products/pf/feature-page-section %}}

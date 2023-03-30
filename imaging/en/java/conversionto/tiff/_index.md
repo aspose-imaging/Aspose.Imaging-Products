@@ -13,7 +13,7 @@ description: Using Aspose.Imaging you can convert to TIFF from other formats usi
 
 
 {{% blocks/products/pf/feature-page-section  h2="All supported image formats convertible to TIFF using Aspose.Imaging for Java" %}}
-Using Aspose.Imaging library you can programmatically convert to TIFF from other supported image formats using Java platform.
+<p align=justify>Using Aspose.Imaging library you can programmatically convert to TIFF from other supported image formats using Java platform.</p>
 <br/>
 Supported conversions:
 {{% /blocks/products/pf/feature-page-section %}}

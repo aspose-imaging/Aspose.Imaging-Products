@@ -13,7 +13,7 @@ description: Utilizzando Aspose.Imaging per la libreria .NET è facile convertir
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tutte le conversioni supportate nel formato J2K(Immagine compressa Wavelet) utilizzando Aspose.Imaging per la libreria .NET" %}}
-Utilizzando la libreria Aspose.Imaging è possibile convertire in modo programmatico vari formati di immagine in J2K image. Un file J2K è un'immagine che viene compressa utilizzando la compressione wavelet anziché la compressione DCT.
+<p align=justify>Utilizzando la libreria Aspose.Imaging è possibile convertire in modo programmatico vari formati di immagine in J2K image. Un file J2K è un'immagine che viene compressa utilizzando la compressione wavelet anziché la compressione DCT.</p>
 <br/>
 Sono supportate le seguenti conversioni:
 {{% /blocks/products/pf/feature-page-section %}}

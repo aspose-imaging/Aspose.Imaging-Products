@@ -13,8 +13,8 @@ description: Aspose.Imaging può facilmente convertire da CDR(Immagine di disegn
 
 
 {{% blocks/products/pf/feature-page-section  h2="Ampio spettro di formati immagine che possono essere convertiti da immagini CDR(Immagine di disegno vettoriale) utilizzando Aspose.Imaging per Java" %}}
-Puoi convertire in modo programmatico dal formato CDR in altri formati disponibili utilizzando
-Aspose.Imaging per Java. Un file CDR è un file immagine di disegno vettoriale creato in modo nativo con CorelDRAW per la memorizzazione di immagini digitali codificate e compresse. Tale file di disegno contiene testo, linee, forme, immagini, colori ed effetti per la rappresentazione vettoriale del contenuto dell'immagine. I file CDR possono essere aperti con CorelDRAW come applicazione principale e possono anche essere convertiti in altri formati come PDF, JPG, PNG, BMP e AI. Può essere utilizzato per la rappresentazione di vari dati grafici come brochure, tabloid, buste e cartoline. Oltre a CorelDRAW, anche altri prodotti Corel come Corel Paintshop Pro e CorelDRAW Graphics Suite possono aprire i formati di file CDR.
+<p align=justify>Puoi convertire in modo programmatico dal formato CDR in altri formati disponibili utilizzando
+Aspose.Imaging per Java. Un file CDR è un file immagine di disegno vettoriale creato in modo nativo con CorelDRAW per la memorizzazione di immagini digitali codificate e compresse. Tale file di disegno contiene testo, linee, forme, immagini, colori ed effetti per la rappresentazione vettoriale del contenuto dell'immagine. I file CDR possono essere aperti con CorelDRAW come applicazione principale e possono anche essere convertiti in altri formati come PDF, JPG, PNG, BMP e AI. Può essere utilizzato per la rappresentazione di vari dati grafici come brochure, tabloid, buste e cartoline. Oltre a CorelDRAW, anche altri prodotti Corel come Corel Paintshop Pro e CorelDRAW Graphics Suite possono aprire i formati di file CDR.</p>
 <br/>
 Ci sono le seguenti conversioni a bordo:
 {{% /blocks/products/pf/feature-page-section %}}

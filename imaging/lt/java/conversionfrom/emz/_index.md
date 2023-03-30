@@ -13,8 +13,8 @@ description: „Aspose.Imaging“ gali lengvai konvertuoti iš EMZ(„Windows“
 
 
 {{% blocks/products/pf/feature-page-section  h2="Platus vaizdo formatų spektras, kurį galima konvertuoti iš EMZ(„Windows“ suspaustas patobulintas metafailas) vaizdų naudojant Aspose.Imaging for Java" %}}
-Galite programiškai konvertuoti iš EMZ formato į kitus galimus formatus naudodami
-Aspose.Imaging for Java. Failas su EMZ failo plėtiniu yra suspausto vaizdo failas, tiksliau vadinamas „Windows Compressed Enhanced Metafile“ failu
+<p align=justify>Galite programiškai konvertuoti iš EMZ formato į kitus galimus formatus naudodami
+Aspose.Imaging for Java. Failas su EMZ failo plėtiniu yra suspausto vaizdo failas, tiksliau vadinamas „Windows Compressed Enhanced Metafile“ failu</p>
 <br/>
 Laive yra šios konversijos:
 {{% /blocks/products/pf/feature-page-section %}}

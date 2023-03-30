@@ -13,7 +13,7 @@ description: باستخدام Aspose.Imaging ، يمكنك بسهولة التح
 
 
 {{% blocks/products/pf/feature-page-section  h2="جميع تنسيقات الصور المدعومة المراد تحويلها من TIF (تنسيق الصورة الموسومة)" %}}
-يسمح Aspose.Imaging بأتمتة الكثير من التحويلات من TIF إلى تنسيقات أخرى على منصة .NET. 
+<p align=justify>يسمح Aspose.Imaging بأتمتة الكثير من التحويلات من TIF إلى تنسيقات أخرى على منصة .NET. </p>
 <br/>
 القائمة الكاملة للتحويلات المدعومة من TIF:
 {{% /blocks/products/pf/feature-page-section %}}

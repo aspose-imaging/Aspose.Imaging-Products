@@ -13,7 +13,7 @@ description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng chuyển đ�
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tất cả các định dạng hình ảnh được hỗ trợ để chuyển đổi từ CMX(Hình ảnh trao đổi Corel)" %}}
-Aspose.Imaging cho phép tự động hóa rất nhiều chuyển đổi từ CMX sang các định dạng khác trên nền tảng .NET. Các tệp có phần mở rộng CMX là định dạng tệp hình ảnh Corel Exchange được sử dụng làm bản trình bày bởi các ứng dụng CorelSuite. Nó chứa dữ liệu hình ảnh dưới dạng đồ họa vectơ cũng như siêu dữ liệu mô tả hình ảnh. Các tệp CMX có thể được mở bằng CorelDraw, Corel Presentations, Paint Shop Pro và một số phiên bản của Adobe Illustrator.
+<p align=justify>Aspose.Imaging cho phép tự động hóa rất nhiều chuyển đổi từ CMX sang các định dạng khác trên nền tảng .NET. Các tệp có phần mở rộng CMX là định dạng tệp hình ảnh Corel Exchange được sử dụng làm bản trình bày bởi các ứng dụng CorelSuite. Nó chứa dữ liệu hình ảnh dưới dạng đồ họa vectơ cũng như siêu dữ liệu mô tả hình ảnh. Các tệp CMX có thể được mở bằng CorelDraw, Corel Presentations, Paint Shop Pro và một số phiên bản của Adobe Illustrator.</p>
 <br/>
 Danh sách đầy đủ các chuyển đổi được hỗ trợ từ CMX:
 {{% /blocks/products/pf/feature-page-section %}}

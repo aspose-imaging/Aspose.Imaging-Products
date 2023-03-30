@@ -13,7 +13,7 @@ description: Sử dụng Aspose.Imaging cho thư viện .NET, thật dễ dàng 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tất cả các chuyển đổi được hỗ trợ sang định dạng J2K(Hình ảnh nén Wavelet) bằng thư viện Aspose.Imaging for .NET" %}}
-Sử dụng thư viện Aspose.Imaging, bạn có thể lập trình chuyển đổi các định dạng hình ảnh khác nhau thành hình ảnh J2K. Tệp J2K là hình ảnh được nén bằng cách sử dụng nén wavelet thay vì nén DCT.
+<p align=justify>Sử dụng thư viện Aspose.Imaging, bạn có thể lập trình chuyển đổi các định dạng hình ảnh khác nhau thành hình ảnh J2K. Tệp J2K là hình ảnh được nén bằng cách sử dụng nén wavelet thay vì nén DCT.</p>
 <br/>
 chuyển đổi sau đây được hỗ trợ:
 {{% /blocks/products/pf/feature-page-section %}}

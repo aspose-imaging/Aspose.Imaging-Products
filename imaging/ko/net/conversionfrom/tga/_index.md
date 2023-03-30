@@ -13,7 +13,7 @@ description: Aspose.Imaging을 사용하면 TGA(타르가 그래픽) 에서 다�
 
 
 {{% blocks/products/pf/feature-page-section  h2="TGA(타르가 그래픽)에서 변환할 지원되는 모든 이미지 형식 TARGA라고도 하는 Truevision TGA는 Truevision Inc.(현재 Avid Technology의 일부)에서 만든 래스터 그래픽 파일 형식입니다. TARGA 및 VISTA 보드의 기본 형식으로, IBM 호환 PC용으로 Highcolor/truecolor 디스플레이를 지원하는 최초의 그래픽 카드였습니다." %}}
-Aspose.Imaging을 사용하면 TGA에서 .NET 플랫폼의 다른 형식으로 많은 변환을 자동화할 수 있습니다.
+<p align=justify>Aspose.Imaging을 사용하면 TGA에서 .NET 플랫폼의 다른 형식으로 많은 변환을 자동화할 수 있습니다.</p>
 <br/>
 TGA에서 지원되는 변환의 전체 목록:
 {{% /blocks/products/pf/feature-page-section %}}

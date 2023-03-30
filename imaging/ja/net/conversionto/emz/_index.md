@@ -13,7 +13,7 @@ description: Aspose.Imaging for .NET ライブラリを使用すると、サポ�
 
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for .NET ライブラリを使用した EMZ(Windows圧縮拡張メタファイル) 形式へのすべてのサポートされている変換" %}}
-Aspose.Imaging ライブラリを使用すると、さまざまな画像フォーマットをプログラムで EMZ 画像に変換できます。 EMZファイル拡張子の付いたファイルは、圧縮イメージファイルであり、より具体的にはWindows圧縮拡張メタファイルファイルと呼ばれます。
+<p align=justify>Aspose.Imaging ライブラリを使用すると、さまざまな画像フォーマットをプログラムで EMZ 画像に変換できます。 EMZファイル拡張子の付いたファイルは、圧縮イメージファイルであり、より具体的にはWindows圧縮拡張メタファイルファイルと呼ばれます。</p>
 <br/>
 次の変換がサポートされています。
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,8 +13,8 @@ description: Aspose.Imaging 可以使用 Java 平台轻松地将 TIF(标记图�
 
 
 {{% blocks/products/pf/feature-page-section  h2="可以使用 Aspose.Imaging for Java 从 TIF(标记图像格式) 图像转换的各种图像格式" %}}
-您可以使用编程方式将 TIF 格式转换为其他可用格式
-用于 Java 的 Aspose.Imaging。 
+<p align=justify>您可以使用编程方式将 TIF 格式转换为其他可用格式
+用于 Java 的 Aspose.Imaging。 </p>
 <br/>
 船上有以下转换：
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,7 +13,7 @@ description: Sử dụng Aspose.Imaging cho thư viện .NET, thật dễ dàng 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tất cả các chuyển đổi được hỗ trợ sang định dạng PSD(Tài liệu Photoshop) bằng thư viện Aspose.Imaging for .NET" %}}
-Sử dụng thư viện Aspose.Imaging, bạn có thể lập trình chuyển đổi các định dạng hình ảnh khác nhau thành hình ảnh PSD. PSD, Tài liệu Photoshop, đại diện cho định dạng tệp gốc của Adobe Photoshop được sử dụng để thiết kế và phát triển đồ họa. Tệp PSD có thể bao gồm các lớp hình ảnh, lớp điều chỉnh, mặt nạ lớp, chú thích, thông tin tệp, từ khóa và các yếu tố cụ thể khác của Photoshop.
+<p align=justify>Sử dụng thư viện Aspose.Imaging, bạn có thể lập trình chuyển đổi các định dạng hình ảnh khác nhau thành hình ảnh PSD. PSD, Tài liệu Photoshop, đại diện cho định dạng tệp gốc của Adobe Photoshop được sử dụng để thiết kế và phát triển đồ họa. Tệp PSD có thể bao gồm các lớp hình ảnh, lớp điều chỉnh, mặt nạ lớp, chú thích, thông tin tệp, từ khóa và các yếu tố cụ thể khác của Photoshop.</p>
 <br/>
 chuyển đổi sau đây được hỗ trợ:
 {{% /blocks/products/pf/feature-page-section %}}

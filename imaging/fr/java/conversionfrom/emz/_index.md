@@ -13,8 +13,8 @@ description: Aspose.Imaging peut facilement convertir de EMZ(Métafichier améli
 
 
 {{% blocks/products/pf/feature-page-section  h2="Large éventail de formats d'image pouvant être convertis à partir d'images EMZ(Métafichier amélioré compressé Windows) à l'aide d'Aspose.Imaging pour Java" %}}
-Vous pouvez convertir par programmation du format EMZ vers d'autres formats disponibles en utilisant
-Aspose.Imaging pour Java. Un fichier avec l'extension de fichier EMZ est un fichier image compressé, plus spécifiquement appelé fichier de métafichier amélioré compressé Windows.
+<p align=justify>Vous pouvez convertir par programmation du format EMZ vers d'autres formats disponibles en utilisant
+Aspose.Imaging pour Java. Un fichier avec l'extension de fichier EMZ est un fichier image compressé, plus spécifiquement appelé fichier de métafichier amélioré compressé Windows.</p>
 <br/>
 Il y a les conversions suivantes à bord :
 {{% /blocks/products/pf/feature-page-section %}}

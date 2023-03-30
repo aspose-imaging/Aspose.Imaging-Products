@@ -13,7 +13,7 @@ description: Korzystając z biblioteki Aspose.Imaging dla .NET, można łatwo pr
 
 
 {{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane konwersje do formatu PSD(Dokument Photoshop) przy użyciu biblioteki Aspose.Imaging for .NET" %}}
-Korzystając z biblioteki Aspose.Imaging możesz programowo konwertować różne formaty obrazów na obraz PSD. PSD, Photoshop Document, reprezentuje natywny format plików Adobe Photoshop używany do projektowania i tworzenia grafiki. Pliki PSD mogą zawierać warstwy obrazu, warstwy dopasowania, maski warstw, adnotacje, informacje o plikach, słowa kluczowe i inne elementy charakterystyczne dla programu Photoshop.
+<p align=justify>Korzystając z biblioteki Aspose.Imaging możesz programowo konwertować różne formaty obrazów na obraz PSD. PSD, Photoshop Document, reprezentuje natywny format plików Adobe Photoshop używany do projektowania i tworzenia grafiki. Pliki PSD mogą zawierać warstwy obrazu, warstwy dopasowania, maski warstw, adnotacje, informacje o plikach, słowa kluczowe i inne elementy charakterystyczne dla programu Photoshop.</p>
 <br/>
 Obsługiwane są następujące konwersje:
 {{% /blocks/products/pf/feature-page-section %}}

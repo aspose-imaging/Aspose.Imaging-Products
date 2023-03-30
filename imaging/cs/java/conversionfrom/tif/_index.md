@@ -13,8 +13,8 @@ description: Aspose.Imaging lze snadno převést z formátu TIF(Formát tagovan�
 
 
 {{% blocks/products/pf/feature-page-section  h2="Široké spektrum obrazových formátů, které lze převést z obrázků TIF(Formát tagovaného obrázku) pomocí Aspose.Imaging for Java" %}}
-Můžete programově převádět z formátu TIF do jiných dostupných formátů pomocí
-Aspose.Imaging pro Javu. 
+<p align=justify>Můžete programově převádět z formátu TIF do jiných dostupných formátů pomocí
+Aspose.Imaging pro Javu. </p>
 <br/>
 Na palubě jsou následující konverze:
 {{% /blocks/products/pf/feature-page-section %}}

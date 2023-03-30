@@ -13,8 +13,8 @@ description: Aspose.Imaging יכולה להמיר בקלות מ-CMX(תמונת C
 
 
 {{% blocks/products/pf/feature-page-section  h2="ספקטרום רחב של פורמטים של תמונות שניתן להמיר מתמונות CMX(תמונת Corel Exchange) באמצעות Aspose.Imaging עבור Java" %}}
-אתה יכול להמיר באופן תכנותי מפורמט CMX לפורמטים זמינים אחרים באמצעות
-Aspose.Imaging עבור Java. קבצים עם סיומת CMX הם פורמט קובץ תמונה של Corel Exchange המשמש כמצגת על ידי יישומי CorelSuite. הוא מכיל נתוני תמונה כגרפיקה וקטורית וכן מטא נתונים המתארים את התמונה. ניתן לפתוח קבצי CMX על ידי CorelDraw, Corel Presentations, Paint Shop Pro וגרסאות מסוימות של Adobe Illustrator.
+<p align=justify>אתה יכול להמיר באופן תכנותי מפורמט CMX לפורמטים זמינים אחרים באמצעות
+Aspose.Imaging עבור Java. קבצים עם סיומת CMX הם פורמט קובץ תמונה של Corel Exchange המשמש כמצגת על ידי יישומי CorelSuite. הוא מכיל נתוני תמונה כגרפיקה וקטורית וכן מטא נתונים המתארים את התמונה. ניתן לפתוח קבצי CMX על ידי CorelDraw, Corel Presentations, Paint Shop Pro וגרסאות מסוימות של Adobe Illustrator.</p>
 <br/>
 ישנן ההמרות הבאות על הסיפון:
 {{% /blocks/products/pf/feature-page-section %}}

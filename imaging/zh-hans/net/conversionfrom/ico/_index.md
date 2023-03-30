@@ -13,7 +13,7 @@ description: 使用 Aspose.Imaging，您可以轻松地将 ICO(窗口图标) 转
 
 
 {{% blocks/products/pf/feature-page-section  h2="从 ICO(窗口图标) 转换的所有支持的图像格式" %}}
-Aspose.Imaging 允许在 .NET 平台上自动进行从 ICO 到其他格式的大量转换。 ICO 文件格式是 Microsoft Windows 中计算机图标的图像文件格式。 ICO 文件包含一个或多个具有多种尺寸和颜色深度的小图像，以便它们可以适当地缩放。在 Windows 中，在桌面、开始菜单或 Windows 资源管理器中向用户显示图标的所有可执行文件都必须带有 ICO 格式的图标。
+<p align=justify>Aspose.Imaging 允许在 .NET 平台上自动进行从 ICO 到其他格式的大量转换。 ICO 文件格式是 Microsoft Windows 中计算机图标的图像文件格式。 ICO 文件包含一个或多个具有多种尺寸和颜色深度的小图像，以便它们可以适当地缩放。在 Windows 中，在桌面、开始菜单或 Windows 资源管理器中向用户显示图标的所有可执行文件都必须带有 ICO 格式的图标。</p>
 <br/>
 ICO 支持的转换的完整列表：
 {{% /blocks/products/pf/feature-page-section %}}

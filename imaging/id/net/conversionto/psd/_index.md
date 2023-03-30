@@ -13,7 +13,7 @@ description: Menggunakan Aspose.Imaging untuk pustaka .NET, mudah untuk mengonve
 
 
 {{% blocks/products/pf/feature-page-section  h2="Semua konversi yang didukung ke format PSD(Dokumen Photoshop) menggunakan Aspose.Imaging untuk perpustakaan .NET" %}}
-Dengan menggunakan pustaka Aspose.Imaging, Anda dapat secara terprogram mengonversi berbagai format gambar menjadi gambar PSD. PSD, Dokumen Photoshop, mewakili format file asli Adobe Photoshop yang digunakan untuk perancangan dan pengembangan grafis. File PSD dapat mencakup lapisan gambar, lapisan penyesuaian, topeng lapisan, anotasi, informasi file, kata kunci, dan elemen khusus Photoshop lainnya.
+<p align=justify>Dengan menggunakan pustaka Aspose.Imaging, Anda dapat secara terprogram mengonversi berbagai format gambar menjadi gambar PSD. PSD, Dokumen Photoshop, mewakili format file asli Adobe Photoshop yang digunakan untuk perancangan dan pengembangan grafis. File PSD dapat mencakup lapisan gambar, lapisan penyesuaian, topeng lapisan, anotasi, informasi file, kata kunci, dan elemen khusus Photoshop lainnya.</p>
 <br/>
 Konversi berikut didukung :
 {{% /blocks/products/pf/feature-page-section %}}

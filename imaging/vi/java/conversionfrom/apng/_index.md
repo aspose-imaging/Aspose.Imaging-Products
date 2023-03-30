@@ -13,8 +13,8 @@ description: Aspose.Imaging có thể dễ dàng chuyển đổi từ APNG(Đồ
 
 
 {{% blocks/products/pf/feature-page-section  h2="Nhiều định dạng hình ảnh có thể được chuyển đổi từ hình ảnh APNG(Đồ họa mạng di động hoạt hình) bằng Aspose.Imaging cho Java" %}}
-Bạn có thể lập trình chuyển đổi từ định dạng APNG sang các định dạng có sẵn khác bằng cách sử dụng
-Aspose.Imaging cho Java. Tệp có phần mở rộng .apng (Animated Portable Network Graphics) là định dạng đồ họa raster và là phần mở rộng không chính thức của Đồ họa Mạng Di động (PNG). Nó bao gồm nhiều khung hình (mỗi hình ảnh PNG) đại diện cho một chuỗi hoạt ảnh. Điều này mang lại hình ảnh tương tự như một tệp GIF. Các tệp APNG hỗ trợ hình ảnh 24 bit và độ trong suốt 8 bit. APNG tương thích ngược với các tệp GIF không động. Các tệp APNG sử dụng cùng một phần mở rộng .png và có thể được mở bằng các ứng dụng như Mozilla Firefox, Chrome có hỗ trợ APNG, ứng dụng iMessage dành cho iOS 10.
+<p align=justify>Bạn có thể lập trình chuyển đổi từ định dạng APNG sang các định dạng có sẵn khác bằng cách sử dụng
+Aspose.Imaging cho Java. Tệp có phần mở rộng .apng (Animated Portable Network Graphics) là định dạng đồ họa raster và là phần mở rộng không chính thức của Đồ họa Mạng Di động (PNG). Nó bao gồm nhiều khung hình (mỗi hình ảnh PNG) đại diện cho một chuỗi hoạt ảnh. Điều này mang lại hình ảnh tương tự như một tệp GIF. Các tệp APNG hỗ trợ hình ảnh 24 bit và độ trong suốt 8 bit. APNG tương thích ngược với các tệp GIF không động. Các tệp APNG sử dụng cùng một phần mở rộng .png và có thể được mở bằng các ứng dụng như Mozilla Firefox, Chrome có hỗ trợ APNG, ứng dụng iMessage dành cho iOS 10.</p>
 <br/>
 Có các chuyển đổi sau trên tàu:
 {{% /blocks/products/pf/feature-page-section %}}

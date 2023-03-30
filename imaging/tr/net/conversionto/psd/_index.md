@@ -13,7 +13,7 @@ description: Aspose.Imaging for .NET kitaplığını kullanarak, desteklenen di�
 
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for .NET kitaplığı kullanılarak PSD(Photoshop Belgesi) biçimine desteklenen tüm dönüşümler" %}}
-Aspose.Imaging kütüphanesini kullanarak çeşitli resim formatlarını programlı olarak PSD resme dönüştürebilirsiniz. PSD, Photoshop Document, Adobe Photoshop'un grafik tasarımı ve geliştirme için kullanılan yerel dosya biçimini temsil eder. PSD dosyaları, görüntü katmanlarını, ayarlama katmanlarını, katman maskelerini, açıklamaları, dosya bilgilerini, anahtar kelimeleri ve Photoshop'a özgü diğer öğeleri içerebilir.
+<p align=justify>Aspose.Imaging kütüphanesini kullanarak çeşitli resim formatlarını programlı olarak PSD resme dönüştürebilirsiniz. PSD, Photoshop Document, Adobe Photoshop'un grafik tasarımı ve geliştirme için kullanılan yerel dosya biçimini temsil eder. PSD dosyaları, görüntü katmanlarını, ayarlama katmanlarını, katman maskelerini, açıklamaları, dosya bilgilerini, anahtar kelimeleri ve Photoshop'a özgü diğer öğeleri içerebilir.</p>
 <br/>
 Aşağıdaki dönüşümler desteklenir:
 {{% /blocks/products/pf/feature-page-section %}}

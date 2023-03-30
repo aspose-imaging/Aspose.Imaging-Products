@@ -13,7 +13,7 @@ description: Naudojant Aspose.Imaging, skirta .NET bibliotekai, lengva konvertuo
 
 
 {{% blocks/products/pf/feature-page-section  h2="Visos palaikomos konversijos į EMZ(„Windows“ suspaustas patobulintas metafailas) formatą naudojant Aspose.Imaging for .NET biblioteką" %}}
-Naudodami Aspose.Imaging biblioteką galite programiškai konvertuoti įvairius vaizdo formatus į EMZ vaizdą. Failas su EMZ failo plėtiniu yra suspausto vaizdo failas, tiksliau vadinamas „Windows Compressed Enhanced Metafile“ failu
+<p align=justify>Naudodami Aspose.Imaging biblioteką galite programiškai konvertuoti įvairius vaizdo formatus į EMZ vaizdą. Failas su EMZ failo plėtiniu yra suspausto vaizdo failas, tiksliau vadinamas „Windows Compressed Enhanced Metafile“ failu</p>
 <br/>
 Palaikomos šios konversijos:
 {{% /blocks/products/pf/feature-page-section %}}

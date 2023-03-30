@@ -13,7 +13,7 @@ description: 使用 Aspose.Imaging，您可以輕鬆地將 PNG(便攜式網絡�
 
 
 {{% blocks/products/pf/feature-page-section  h2="從 PNG(便攜式網絡圖形) 轉換的所有支持的圖像格式" %}}
-Aspose.Imaging 允許在 .NET 平台上自動進行從 PNG 到其他格式的大量轉換。 PNG，便攜式網絡圖形，是指一種使用無損壓縮的光柵圖像文件格式。此文件格式是作為圖形交換格式 (GIF) 的替代品而創建的，沒有版權限制。但是，PNG 文件格式不支持動畫。 PNG文件格式支持無損圖像壓縮，使其在用戶中很受歡迎。隨著時間的推移，PNG 已經發展成為最常用的圖像文件格式之一。幾乎所有操作系統都支持打開 PNG 文件。例如，Microsoft Windows 查看器能夠打開 PNG 文件，因為操作系統默認支持作為安裝的一部分。
+<p align=justify>Aspose.Imaging 允許在 .NET 平台上自動進行從 PNG 到其他格式的大量轉換。 PNG，便攜式網絡圖形，是指一種使用無損壓縮的光柵圖像文件格式。此文件格式是作為圖形交換格式 (GIF) 的替代品而創建的，沒有版權限制。但是，PNG 文件格式不支持動畫。 PNG文件格式支持無損圖像壓縮，使其在用戶中很受歡迎。隨著時間的推移，PNG 已經發展成為最常用的圖像文件格式之一。幾乎所有操作系統都支持打開 PNG 文件。例如，Microsoft Windows 查看器能夠打開 PNG 文件，因為操作系統默認支持作為安裝的一部分。</p>
 <br/>
 PNG 支持的轉換的完整列表：
 {{% /blocks/products/pf/feature-page-section %}}

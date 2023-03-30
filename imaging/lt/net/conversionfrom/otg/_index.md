@@ -13,7 +13,7 @@ description: Naudodami Aspose.Imaging galite lengvai konvertuoti iš OTG(OpenDoc
 
 
 {{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai, konvertuojami iš OTG(OpenDocument standartas)" %}}
-Aspose.Imaging leidžia automatizuoti daug konversijų iš OTG į kitus formatus .NET platformoje. OTG failas yra piešimo šablonas, sukurtas naudojant OpenDocument standartą, atitinkantį OASIS Office Applications 1.0 specifikaciją. Tai yra numatytasis vektorinio vaizdo piešimo elementų organizavimas, kurį galima naudoti toliau tobulinant failo turinį.
+<p align=justify>Aspose.Imaging leidžia automatizuoti daug konversijų iš OTG į kitus formatus .NET platformoje. OTG failas yra piešimo šablonas, sukurtas naudojant OpenDocument standartą, atitinkantį OASIS Office Applications 1.0 specifikaciją. Tai yra numatytasis vektorinio vaizdo piešimo elementų organizavimas, kurį galima naudoti toliau tobulinant failo turinį.</p>
 <br/>
 Visas palaikomų konversijų iš OTG sąrašas:
 {{% /blocks/products/pf/feature-page-section %}}

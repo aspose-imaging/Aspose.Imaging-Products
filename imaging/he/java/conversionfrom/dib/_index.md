@@ -13,8 +13,8 @@ description: Aspose.Imaging יכולה להמיר בקלות מ-DIB(מפת סי�
 
 
 {{% blocks/products/pf/feature-page-section  h2="ספקטרום רחב של פורמטים של תמונות שניתן להמיר מתמונות DIB(מפת סיביות בלתי תלויה בהתקן) באמצעות Aspose.Imaging עבור Java" %}}
-אתה יכול להמיר באופן תכנותי מפורמט DIB לפורמטים זמינים אחרים באמצעות
-Aspose.Imaging עבור Java. קובץ DIB (Device Independent Bitmap) הוא קובץ תמונת רסטר הדומה במבנהו לקובצי Bitmap הסטנדרטיים (BMP) אך בעל כותרת שונה. ניתן לפתוח אותו כמעט עם כל היישומים שיכולים לפתוח קובץ BMP סטנדרטי ב-Windows כמו גם ב-macOS. DIB הם קבצים בינאריים ובעלי פורמט קובץ מורכב הדומה ל-BMP.
+<p align=justify>אתה יכול להמיר באופן תכנותי מפורמט DIB לפורמטים זמינים אחרים באמצעות
+Aspose.Imaging עבור Java. קובץ DIB (Device Independent Bitmap) הוא קובץ תמונת רסטר הדומה במבנהו לקובצי Bitmap הסטנדרטיים (BMP) אך בעל כותרת שונה. ניתן לפתוח אותו כמעט עם כל היישומים שיכולים לפתוח קובץ BMP סטנדרטי ב-Windows כמו גם ב-macOS. DIB הם קבצים בינאריים ובעלי פורמט קובץ מורכב הדומה ל-BMP.</p>
 <br/>
 ישנן ההמרות הבאות על הסיפון:
 {{% /blocks/products/pf/feature-page-section %}}

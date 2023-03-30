@@ -13,7 +13,7 @@ description: Aspose.Imaging for .NET kitaplığını kullanarak, desteklenen di�
 
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for .NET kitaplığı kullanılarak TGA(Targa Grafiği) biçimine desteklenen tüm dönüşümler" %}}
-Aspose.Imaging kütüphanesini kullanarak çeşitli resim formatlarını programlı olarak TGA resme dönüştürebilirsiniz. Genellikle TARGA olarak adlandırılan Truevision TGA, Truevision Inc. (şimdi Avid Technology'nin bir parçası) tarafından oluşturulan bir raster grafik dosyası formatıdır. IBM uyumlu PC'ler için Highcolor/truecolor ekranı destekleyen ilk grafik kartları olan TARGA ve VISTA kartlarının yerel formatıydı.
+<p align=justify>Aspose.Imaging kütüphanesini kullanarak çeşitli resim formatlarını programlı olarak TGA resme dönüştürebilirsiniz. Genellikle TARGA olarak adlandırılan Truevision TGA, Truevision Inc. (şimdi Avid Technology'nin bir parçası) tarafından oluşturulan bir raster grafik dosyası formatıdır. IBM uyumlu PC'ler için Highcolor/truecolor ekranı destekleyen ilk grafik kartları olan TARGA ve VISTA kartlarının yerel formatıydı.</p>
 <br/>
 Aşağıdaki dönüşümler desteklenir:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,7 +13,7 @@ description: Pomocí Aspose.Imaging můžete snadno převést z formátu DIB(Bit
 
 
 {{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu z formátu DIB (Bitmap nezávislý na zařízení)" %}}
-Aspose.Imaging umožňuje automatizovat mnoho konverzí z DIB do jiných formátů na platformě .NET. Soubor DIB (Device Independent Bitmap) je soubor rastrového obrázku, který má podobnou strukturu jako standardní bitmapové soubory (BMP), ale má jiné záhlaví. Lze jej otevřít téměř všemi aplikacemi, které dokážou otevřít standardní soubor BMP ve Windows i macOS. DIB jsou binární soubory a mají složitý formát souborů podobný BMP.
+<p align=justify>Aspose.Imaging umožňuje automatizovat mnoho konverzí z DIB do jiných formátů na platformě .NET. Soubor DIB (Device Independent Bitmap) je soubor rastrového obrázku, který má podobnou strukturu jako standardní bitmapové soubory (BMP), ale má jiné záhlaví. Lze jej otevřít téměř všemi aplikacemi, které dokážou otevřít standardní soubor BMP ve Windows i macOS. DIB jsou binární soubory a mají složitý formát souborů podobný BMP.</p>
 <br/>
 Úplný seznam podporovaných konverzí z DIB:
 {{% /blocks/products/pf/feature-page-section %}}

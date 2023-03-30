@@ -13,8 +13,8 @@ description: Aspose.Imaging 可以使用 Java 平台輕鬆地將 OTG(開放文�
 
 
 {{% blocks/products/pf/feature-page-section  h2="可以使用 Aspose.Imaging for Java 從 OTG(開放文檔標準) 圖像轉換的各種圖像格式" %}}
-您可以使用編程方式將 OTG 格式轉換為其他可用格式
-用於 Java 的 Aspose.Imaging。 OTG 文件是使用遵循 OASIS Office Applications 1.0 規範的 OpenDocument 標準創建的繪圖模板。它表示矢量圖像的繪圖元素的默認組織，可用於進一步增強文件的內容。
+<p align=justify>您可以使用編程方式將 OTG 格式轉換為其他可用格式
+用於 Java 的 Aspose.Imaging。 OTG 文件是使用遵循 OASIS Office Applications 1.0 規範的 OpenDocument 標準創建的繪圖模板。它表示矢量圖像的繪圖元素的默認組織，可用於進一步增強文件的內容。</p>
 <br/>
 船上有以下轉換：
 {{% /blocks/products/pf/feature-page-section %}}

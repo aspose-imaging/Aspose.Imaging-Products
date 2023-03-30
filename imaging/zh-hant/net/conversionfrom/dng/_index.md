@@ -13,7 +13,7 @@ description: 使用 Aspose.Imaging，您可以輕鬆地將 DNG(數碼相機圖�
 
 
 {{% blocks/products/pf/feature-page-section  h2="從 DNG(數碼相機圖像) 轉換的所有支持的圖像格式" %}}
-Aspose.Imaging 允許在 .NET 平台上自動進行從 DNG 到其他格式的大量轉換。 DNG 是一種用於存儲原始文件的數碼相機圖像格式。它是由 Adob​​e 於 2004 年 9 月開發的。它基本上是為數碼攝影而開發的。 DNG 是 TIFF/EP 標準格式的擴展，大量使用元數據。為了輕鬆靈活地處理來自數碼相機的原始數據和藝術控制，攝影師選擇相機原始文件。 JPEG 和 TIFF 格式存儲由相機處理的圖像，因此在這些格式中沒有太大的更改空間。
+<p align=justify>Aspose.Imaging 允許在 .NET 平台上自動進行從 DNG 到其他格式的大量轉換。 DNG 是一種用於存儲原始文件的數碼相機圖像格式。它是由 Adob​​e 於 2004 年 9 月開發的。它基本上是為數碼攝影而開發的。 DNG 是 TIFF/EP 標準格式的擴展，大量使用元數據。為了輕鬆靈活地處理來自數碼相機的原始數據和藝術控制，攝影師選擇相機原始文件。 JPEG 和 TIFF 格式存儲由相機處理的圖像，因此在這些格式中沒有太大的更改空間。</p>
 <br/>
 DNG 支持的轉換的完整列表：
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,8 +13,8 @@ description: Aspose.Imaging pode converter facilmente de JPG(Grupo Conjunto de E
 
 
 {{% blocks/products/pf/feature-page-section  h2="Amplo espectro de formatos de imagem que podem ser convertidos de imagens JPG(Grupo Conjunto de Especialistas em Fotografia) usando Aspose.Imaging para Java" %}}
-Você pode converter programaticamente do formato JPG para outros formatos disponíveis usando
-Aspose.Imaging para Java. Um JPEG é um tipo de formato de imagem que é salvo usando o método de compactação com perdas. A imagem de saída, como resultado da compactação, é uma compensação entre o tamanho do armazenamento e a qualidade da imagem. Os usuários podem ajustar o nível de compactação para atingir o nível de qualidade desejado e, ao mesmo tempo, reduzir o tamanho do armazenamento. A qualidade da imagem é afetada de forma insignificante se a compressão 10:1 for aplicada à imagem. Quanto maior o valor de compactação, maior a degradação na qualidade da imagem.
+<p align=justify>Você pode converter programaticamente do formato JPG para outros formatos disponíveis usando
+Aspose.Imaging para Java. Um JPEG é um tipo de formato de imagem que é salvo usando o método de compactação com perdas. A imagem de saída, como resultado da compactação, é uma compensação entre o tamanho do armazenamento e a qualidade da imagem. Os usuários podem ajustar o nível de compactação para atingir o nível de qualidade desejado e, ao mesmo tempo, reduzir o tamanho do armazenamento. A qualidade da imagem é afetada de forma insignificante se a compressão 10:1 for aplicada à imagem. Quanto maior o valor de compactação, maior a degradação na qualidade da imagem.</p>
 <br/>
 Existem as seguintes conversões a bordo:
 {{% /blocks/products/pf/feature-page-section %}}

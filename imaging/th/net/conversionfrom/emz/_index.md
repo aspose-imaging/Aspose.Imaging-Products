@@ -13,7 +13,7 @@ description: เมื่อใช้ Aspose.Imaging คุณสามารถ
 
 
 {{% blocks/products/pf/feature-page-section  h2="รูปแบบรูปภาพที่รองรับทั้งหมดที่จะแปลงจาก EMZ(Windows บีบอัด Metafile ที่ปรับปรุงแล้ว)" %}}
-Aspose.Imaging ช่วยให้การแปลงจำนวนมากโดยอัตโนมัติจาก EMZ เป็นรูปแบบอื่นบนแพลตฟอร์ม .NET ไฟล์ที่มีนามสกุลไฟล์ EMZ คือไฟล์รูปภาพที่ถูกบีบอัด ซึ่งเรียกเจาะจงกว่านั้นว่าไฟล์ Windows Compressed Enhanced Metafile
+<p align=justify>Aspose.Imaging ช่วยให้การแปลงจำนวนมากโดยอัตโนมัติจาก EMZ เป็นรูปแบบอื่นบนแพลตฟอร์ม .NET ไฟล์ที่มีนามสกุลไฟล์ EMZ คือไฟล์รูปภาพที่ถูกบีบอัด ซึ่งเรียกเจาะจงกว่านั้นว่าไฟล์ Windows Compressed Enhanced Metafile</p>
 <br/>
 รายการทั้งหมดของการแปลงที่รองรับจาก EMZ:
 {{% /blocks/products/pf/feature-page-section %}}

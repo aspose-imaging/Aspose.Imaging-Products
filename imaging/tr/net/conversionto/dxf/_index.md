@@ -13,7 +13,7 @@ description: Aspose.Imaging for .NET kitaplığını kullanarak, desteklenen di�
 
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for .NET kitaplığı kullanılarak DXF(Çizim Değişim Formatı veya Çizim Değişim Formatı,) biçimine desteklenen tüm dönüşümler" %}}
-Aspose.Imaging kütüphanesini kullanarak çeşitli resim formatlarını programlı olarak DXF resme dönüştürebilirsiniz. DXF, Drawing Interchange Format veya Drawing Exchange Format, AutoCAD çizim dosyasının etiketli bir veri gösterimidir. Dosyadaki her öğenin, grup kodu adı verilen bir ön ek tamsayı numarası vardır. Bu grup kodu aslında takip eden öğeyi temsil eder ve belirli bir nesne türü için bir veri öğesinin anlamını belirtir. DXF, bir çizim dosyasında hemen hemen tüm kullanıcı tanımlı bilgileri temsil etmeyi mümkün kılar.
+<p align=justify>Aspose.Imaging kütüphanesini kullanarak çeşitli resim formatlarını programlı olarak DXF resme dönüştürebilirsiniz. DXF, Drawing Interchange Format veya Drawing Exchange Format, AutoCAD çizim dosyasının etiketli bir veri gösterimidir. Dosyadaki her öğenin, grup kodu adı verilen bir ön ek tamsayı numarası vardır. Bu grup kodu aslında takip eden öğeyi temsil eder ve belirli bir nesne türü için bir veri öğesinin anlamını belirtir. DXF, bir çizim dosyasında hemen hemen tüm kullanıcı tanımlı bilgileri temsil etmeyi mümkün kılar.</p>
 <br/>
 Aşağıdaki dönüşümler desteklenir:
 {{% /blocks/products/pf/feature-page-section %}}

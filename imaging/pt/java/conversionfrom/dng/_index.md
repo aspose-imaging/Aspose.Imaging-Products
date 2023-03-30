@@ -13,8 +13,8 @@ description: Aspose.Imaging pode converter facilmente de DNG(Imagem de câmera d
 
 
 {{% blocks/products/pf/feature-page-section  h2="Amplo espectro de formatos de imagem que podem ser convertidos de imagens DNG(Imagem de câmera digital) usando Aspose.Imaging para Java" %}}
-Você pode converter programaticamente do formato DNG para outros formatos disponíveis usando
-Aspose.Imaging para Java. DNG é um formato de imagem de câmera digital usado para o armazenamento de arquivos raw. Foi desenvolvido pela Adobe em setembro de 2004. Foi desenvolvido basicamente para fotografia digital. DNG é uma extensão do formato padrão TIFF/EP e usa metadados de forma significativa. Para manipular dados brutos de câmeras digitais com facilidade de flexibilidade e controle artístico, os fotógrafos optam por arquivos camera raw. Os formatos JPEG e TIFF armazenam imagens que são processadas pela câmera, portanto, não há muito espaço para alterações nesses formatos.
+<p align=justify>Você pode converter programaticamente do formato DNG para outros formatos disponíveis usando
+Aspose.Imaging para Java. DNG é um formato de imagem de câmera digital usado para o armazenamento de arquivos raw. Foi desenvolvido pela Adobe em setembro de 2004. Foi desenvolvido basicamente para fotografia digital. DNG é uma extensão do formato padrão TIFF/EP e usa metadados de forma significativa. Para manipular dados brutos de câmeras digitais com facilidade de flexibilidade e controle artístico, os fotógrafos optam por arquivos camera raw. Os formatos JPEG e TIFF armazenam imagens que são processadas pela câmera, portanto, não há muito espaço para alterações nesses formatos.</p>
 <br/>
 Existem as seguintes conversões a bordo:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,7 +13,7 @@ description: Aspose.Imaging을 사용하면 CMX(Corel 교환 이미지) 에서 �
 
 
 {{% blocks/products/pf/feature-page-section  h2="CMX(Corel 교환 이미지)에서 변환할 지원되는 모든 이미지 형식 CMX 확장자를 가진 파일은 CorelSuite 응용 프로그램에서 프레젠테이션으로 사용되는 Corel Exchange 이미지 파일 형식입니다. 여기에는 이미지를 설명하는 메타데이터뿐만 아니라 벡터 그래픽으로 이미지 데이터가 포함됩니다. CMX 파일은 CorelDraw, Corel Presentations, Paint Shop Pro 및 일부 Adobe Illustrator 버전에서 열 수 있습니다." %}}
-Aspose.Imaging을 사용하면 CMX에서 .NET 플랫폼의 다른 형식으로 많은 변환을 자동화할 수 있습니다.
+<p align=justify>Aspose.Imaging을 사용하면 CMX에서 .NET 플랫폼의 다른 형식으로 많은 변환을 자동화할 수 있습니다.</p>
 <br/>
 CMX에서 지원되는 변환의 전체 목록:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,7 +13,7 @@ description: 使用 Aspose.Imaging for .NET 库可以轻松地将其他支持的
 
 
 {{% blocks/products/pf/feature-page-section  h2="所有支持使用 Aspose.Imaging for .NET 库转换为 DXF(图纸交换格式，或图纸交换格式，) 格式" %}}
-使用 Aspose.Imaging 库，您可以以编程方式将各种图像格式转换为 DXF 图像。 DXF，即图形交换格式，或图形交换格式，是 AutoCAD 图形文件的标记数据表示。文件中的每个元素都有一个前缀整数，称为组码。该组代码实际上表示后面的元素，并指示给定对象类型的数据元素的含义。 DXF 可以在图形文件中表示几乎所有用户指定的信息。
+<p align=justify>使用 Aspose.Imaging 库，您可以以编程方式将各种图像格式转换为 DXF 图像。 DXF，即图形交换格式，或图形交换格式，是 AutoCAD 图形文件的标记数据表示。文件中的每个元素都有一个前缀整数，称为组码。该组代码实际上表示后面的元素，并指示给定对象类型的数据元素的含义。 DXF 可以在图形文件中表示几乎所有用户指定的信息。</p>
 <br/>
 支持以下转换：
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,7 +13,7 @@ description: Using Aspose.Imaging for .NET you can easily convert from APNG(Anim
 
 
 {{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from APNG(Animated Portable Network Graphics)" %}}
-Aspose.Imaging allows automate a lot of conversions from APNG to other formats on .NET platform. A file with .apng (Animated Portable Network Graphics) extension is a raster graphic format and is an unofficial extension to the Portable Network Graphic (PNG ). It comprises of multiple frames (each of PNG image) that represents an animation sequence. This gives similar visualization as a GIF file. APNG files support 24-bit images and 8-bit transparency. APNG is backward compatible with non-animated GIF files. APNG files use the same .png extension and can be opened by applications such as Mozilla Firefox, Chrome with APNG support, iMessage apps for iOS 10.
+<p align=justify>Aspose.Imaging allows automate a lot of conversions from APNG to other formats on .NET platform. A file with .apng (Animated Portable Network Graphics) extension is a raster graphic format and is an unofficial extension to the Portable Network Graphic (PNG ). It comprises of multiple frames (each of PNG image) that represents an animation sequence. This gives similar visualization as a GIF file. APNG files support 24-bit images and 8-bit transparency. APNG is backward compatible with non-animated GIF files. APNG files use the same .png extension and can be opened by applications such as Mozilla Firefox, Chrome with APNG support, iMessage apps for iOS 10.</p>
 <br/>
 Full list of supported conversions from APNG:
 {{% /blocks/products/pf/feature-page-section %}}

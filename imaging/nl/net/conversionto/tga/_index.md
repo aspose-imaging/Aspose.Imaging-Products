@@ -13,7 +13,7 @@ description: Met Aspose.Imaging voor .NET-bibliotheek is het eenvoudig om te con
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde conversies naar TGA(Targa-afbeelding)-indeling met Aspose.Imaging voor .NET-bibliotheek" %}}
-Met behulp van de Aspose.Imaging-bibliotheek kunt u verschillende afbeeldingsindelingen programmatisch converteren naar TGA afbeelding. Truevision TGA, vaak TARGA genoemd, is een bestandsindeling voor rasterafbeeldingen die is gemaakt door Truevision Inc. (nu onderdeel van Avid Technology). Het was het oorspronkelijke formaat van TARGA- en VISTA-kaarten, de eerste grafische kaarten voor IBM-compatibele pc's die Highcolor/truecolor-weergave ondersteunen.
+<p align=justify>Met behulp van de Aspose.Imaging-bibliotheek kunt u verschillende afbeeldingsindelingen programmatisch converteren naar TGA afbeelding. Truevision TGA, vaak TARGA genoemd, is een bestandsindeling voor rasterafbeeldingen die is gemaakt door Truevision Inc. (nu onderdeel van Avid Technology). Het was het oorspronkelijke formaat van TARGA- en VISTA-kaarten, de eerste grafische kaarten voor IBM-compatibele pc's die Highcolor/truecolor-weergave ondersteunen.</p>
 <br/>
 De volgende conversies worden ondersteund:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,7 +13,7 @@ description: เมื่อใช้ Aspose.Imaging คุณสามารถ
 
 
 {{% blocks/products/pf/feature-page-section  h2="รูปแบบรูปภาพที่รองรับทั้งหมดที่จะแปลงจาก TIF(รูปแบบภาพที่ติดแท็ก)" %}}
-Aspose.Imaging ช่วยให้การแปลงจำนวนมากโดยอัตโนมัติจาก TIF เป็นรูปแบบอื่นบนแพลตฟอร์ม .NET 
+<p align=justify>Aspose.Imaging ช่วยให้การแปลงจำนวนมากโดยอัตโนมัติจาก TIF เป็นรูปแบบอื่นบนแพลตฟอร์ม .NET </p>
 <br/>
 รายการทั้งหมดของการแปลงที่รองรับจาก TIF:
 {{% /blocks/products/pf/feature-page-section %}}

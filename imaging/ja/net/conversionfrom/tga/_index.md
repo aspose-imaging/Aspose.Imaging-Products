@@ -13,7 +13,7 @@ description: Aspose.Imaging を使用すると、TGA(タルガグラフィック
 
 
 {{% blocks/products/pf/feature-page-section  h2="TGA(タルガグラフィック) から変換する、サポートされているすべての画像形式" %}}
-Aspose.Imaging を使用すると、TGA から .NET プラットフォーム上の他のフォーマットへの多くの変換を自動化できます。 Truevision TGAは、TARGAとも呼ばれ、Truevision Inc.（現在はAvid Technologyの一部）によって作成されたラスターグラフィックファイル形式です。これは、ハイカラー/トゥルーカラー表示をサポートするIBM互換PC用の最初のグラフィックカードであるTARGAおよびVISTAボードのネイティブフォーマットでした。
+<p align=justify>Aspose.Imaging を使用すると、TGA から .NET プラットフォーム上の他のフォーマットへの多くの変換を自動化できます。 Truevision TGAは、TARGAとも呼ばれ、Truevision Inc.（現在はAvid Technologyの一部）によって作成されたラスターグラフィックファイル形式です。これは、ハイカラー/トゥルーカラー表示をサポートするIBM互換PC用の最初のグラフィックカードであるTARGAおよびVISTAボードのネイティブフォーマットでした。</p>
 <br/>
 サポートされている TGA からの変換の完全なリスト:
 {{% /blocks/products/pf/feature-page-section %}}

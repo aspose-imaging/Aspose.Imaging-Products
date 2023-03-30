@@ -13,7 +13,7 @@ description: Pomocí Aspose.Imaging můžete snadno převést z formátu WMZ(Kom
 
 
 {{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu z formátu WMZ (Komprimovaný vzhled Windows Media Player)" %}}
-Aspose.Imaging umožňuje automatizovat mnoho konverzí z WMZ do jiných formátů na platformě .NET. WMZ je přípona souboru pro formát souboru skinu v/pro/používaný Windows Media Player. Soubor WMZ je v podstatě zazipovaný soubor WMF ve formátu XML.
+<p align=justify>Aspose.Imaging umožňuje automatizovat mnoho konverzí z WMZ do jiných formátů na platformě .NET. WMZ je přípona souboru pro formát souboru skinu v/pro/používaný Windows Media Player. Soubor WMZ je v podstatě zazipovaný soubor WMF ve formátu XML.</p>
 <br/>
 Úplný seznam podporovaných konverzí z WMZ:
 {{% /blocks/products/pf/feature-page-section %}}

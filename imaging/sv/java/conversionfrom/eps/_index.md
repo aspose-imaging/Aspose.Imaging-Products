@@ -13,8 +13,8 @@ description: Aspose.Imaging kan enkelt konvertera från EPS(Inkapslat PostScript
 
 
 {{% blocks/products/pf/feature-page-section  h2="Brett spektrum av bildformat som kan konverteras från EPS(Inkapslat PostScript-språk)-bilder med Aspose.Imaging för Java" %}}
-Du kan programmatiskt konvertera från formatet EPS till andra tillgängliga format med hjälp av
-Aspose.Imaging för Java. Filer med EPS-tillägg beskriver i huvudsak ett Encapsulated PostScript-språkprogram som beskriver utseendet på en enda sida. Namnet "Encapsulated" eftersom det kan inkluderas eller inkapslas i en annan PostScript-språksidbeskrivning. Detta skriptbaserade filformat kan innehålla valfri kombination av text, grafik och bilder. EPS-filer kan innehålla en bitmappsförhandsvisningsbild inkapslad inuti för visning av program som kan öppna sådana filer. EPS-filer kan konverteras till standardbildformat som JPG, PNG, TIFF och PDF med hjälp av olika applikationer t.ex. Adobe Illustrator, Photoshop och PaintShop Pro. På grund av en säkerhetsrisk i EPS-filer har Office 2016, Office 2013, Office 2010 och Office 365 stängt av möjligheten att infoga EPS-filer i Office-dokument.
+<p align=justify>Du kan programmatiskt konvertera från formatet EPS till andra tillgängliga format med hjälp av
+Aspose.Imaging för Java. Filer med EPS-tillägg beskriver i huvudsak ett Encapsulated PostScript-språkprogram som beskriver utseendet på en enda sida. Namnet "Encapsulated" eftersom det kan inkluderas eller inkapslas i en annan PostScript-språksidbeskrivning. Detta skriptbaserade filformat kan innehålla valfri kombination av text, grafik och bilder. EPS-filer kan innehålla en bitmappsförhandsvisningsbild inkapslad inuti för visning av program som kan öppna sådana filer. EPS-filer kan konverteras till standardbildformat som JPG, PNG, TIFF och PDF med hjälp av olika applikationer t.ex. Adobe Illustrator, Photoshop och PaintShop Pro. På grund av en säkerhetsrisk i EPS-filer har Office 2016, Office 2013, Office 2010 och Office 365 stängt av möjligheten att infoga EPS-filer i Office-dokument.</p>
 <br/>
 Det finns följande konverteringar ombord:
 {{% /blocks/products/pf/feature-page-section %}}

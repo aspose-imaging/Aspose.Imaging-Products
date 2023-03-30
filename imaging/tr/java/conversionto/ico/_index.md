@@ -13,7 +13,7 @@ description: Aspose.Imaging'i kullanarak Java kullanan diğer biçimlerden ICO b
 
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java kullanılarak ICO biçimine dönüştürülebilen desteklenen tüm görüntü biçimleri" %}}
-Aspose.Imaging kütüphanesini kullanarak, Java platformunu kullanarak desteklenen diğer resim biçimlerinden programlı olarak ICO biçimine dönüştürebilirsiniz.
+<p align=justify>Aspose.Imaging kütüphanesini kullanarak, Java platformunu kullanarak desteklenen diğer resim biçimlerinden programlı olarak ICO biçimine dönüştürebilirsiniz.</p>
 <br/>
 Desteklenen dönüşümler:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,7 +13,7 @@ description: Aspose.Imaging'i kullanarak TIF(Etiketli Görüntü Formatı) biçi
 
 
 {{% blocks/products/pf/feature-page-section  h2="TIF(Etiketli Görüntü Formatı) biçiminden dönüştürülecek desteklenen tüm resim biçimleri" %}}
-Aspose.Imaging, .NET platformunda TIF'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir. 
+<p align=justify>Aspose.Imaging, .NET platformunda TIF'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir. </p>
 <br/>
 TIF tarafından desteklenen dönüşümlerin tam listesi:
 {{% /blocks/products/pf/feature-page-section %}}

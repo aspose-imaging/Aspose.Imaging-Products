@@ -13,7 +13,7 @@ description: 使用 Aspose.Imaging for .NET 庫可以輕鬆地將其他支持的
 
 
 {{% blocks/products/pf/feature-page-section  h2="所有支持使用 Aspose.Imaging for .NET 庫轉換為 PDF(便攜式文檔格式 (PDF)) 格式" %}}
-使用 Aspose.Imaging 庫，您可以以編程方式將各種圖像格式轉換為 PDF 圖像。 可移植文檔格式 (PDF) 是 Adob​​e 在 1990 年代創建的一種文檔。這種文件格式的目的是引入一種標準，用於以獨立於應用軟件、硬件和操作系統的格式來表示文檔和其他參考資料。 PDF 文件格式具有包含文本、圖像、超鏈接、表單域、富媒體、數字簽名、附件、元數據、地理空間特徵和 3D 對像等信息的全部功能，這些信息可以成為源文檔的一部分。
+<p align=justify>使用 Aspose.Imaging 庫，您可以以編程方式將各種圖像格式轉換為 PDF 圖像。 可移植文檔格式 (PDF) 是 Adob​​e 在 1990 年代創建的一種文檔。這種文件格式的目的是引入一種標準，用於以獨立於應用軟件、硬件和操作系統的格式來表示文檔和其他參考資料。 PDF 文件格式具有包含文本、圖像、超鏈接、表單域、富媒體、數字簽名、附件、元數據、地理空間特徵和 3D 對像等信息的全部功能，這些信息可以成為源文檔的一部分。</p>
 <br/>
 支持以下轉換：
 {{% /blocks/products/pf/feature-page-section %}}

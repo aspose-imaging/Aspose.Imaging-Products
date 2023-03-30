@@ -13,7 +13,7 @@ description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng chuyển đ�
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tất cả các định dạng hình ảnh được hỗ trợ để chuyển đổi từ EMZ(Siêu tệp nâng cao được nén của Windows)" %}}
-Aspose.Imaging cho phép tự động hóa rất nhiều chuyển đổi từ EMZ sang các định dạng khác trên nền tảng .NET. Tệp có phần mở rộng tệp EMZ là tệp hình ảnh nén, được gọi cụ thể hơn là tệp Siêu tệp tin nâng cao được nén trong Windows
+<p align=justify>Aspose.Imaging cho phép tự động hóa rất nhiều chuyển đổi từ EMZ sang các định dạng khác trên nền tảng .NET. Tệp có phần mở rộng tệp EMZ là tệp hình ảnh nén, được gọi cụ thể hơn là tệp Siêu tệp tin nâng cao được nén trong Windows</p>
 <br/>
 Danh sách đầy đủ các chuyển đổi được hỗ trợ từ EMZ:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,7 +13,7 @@ description: באמצעות Aspose.Imaging תוכל להמיר בקלות מ- EM
 
 
 {{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה מ-EMZ(Metafile משופר דחוס של Windows)" %}}
-Aspose.Imaging מאפשר לבצע אוטומציה של המרות רבות מ-EMZ לפורמטים אחרים בפלטפורמת NET. קובץ עם סיומת הקובץ EMZ הוא קובץ תמונה דחוס, המכונה באופן ספציפי יותר קובץ Windows Compressed Enhanced Metafile
+<p align=justify>Aspose.Imaging מאפשר לבצע אוטומציה של המרות רבות מ-EMZ לפורמטים אחרים בפלטפורמת NET. קובץ עם סיומת הקובץ EMZ הוא קובץ תמונה דחוס, המכונה באופן ספציפי יותר קובץ Windows Compressed Enhanced Metafile</p>
 <br/>
 רשימה מלאה של המרות נתמכות מ-EMZ:
 {{% /blocks/products/pf/feature-page-section %}}

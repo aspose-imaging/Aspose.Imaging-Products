@@ -13,7 +13,7 @@ description: Med Aspose.Imaging för .NET-bibliotek är det lätt att konvertera
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alla omvandlingar som stöds till PDF(Portable Document Format (PDF))-format med Aspose.Imaging för .NET-bibliotek" %}}
-Med hjälp av Aspose.Imaging-biblioteket kan du programmatiskt konvertera olika bildformat till PDF-bild. Portable Document Format (PDF) är en typ av dokument som skapades av Adobe redan på 1990-talet. Syftet med detta filformat var att införa en standard för representation av dokument och annat referensmaterial i ett format som är oberoende av applikationsprogramvara, hårdvara samt operativsystem. PDF-filformatet har full förmåga att innehålla information som text, bilder, hyperlänkar, formulärfält, rich media, digitala signaturer, bilagor, metadata, geospatiala funktioner och 3D-objekt i det som kan bli en del av källdokumentet.
+<p align=justify>Med hjälp av Aspose.Imaging-biblioteket kan du programmatiskt konvertera olika bildformat till PDF-bild. Portable Document Format (PDF) är en typ av dokument som skapades av Adobe redan på 1990-talet. Syftet med detta filformat var att införa en standard för representation av dokument och annat referensmaterial i ett format som är oberoende av applikationsprogramvara, hårdvara samt operativsystem. PDF-filformatet har full förmåga att innehålla information som text, bilder, hyperlänkar, formulärfält, rich media, digitala signaturer, bilagor, metadata, geospatiala funktioner och 3D-objekt i det som kan bli en del av källdokumentet.</p>
 <br/>
 Följande konverteringar stöds:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,7 +13,7 @@ description: Naudodami Aspose.Imaging galite konvertuoti į APNG iš kitų forma
 
 
 {{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai konvertuojami į APNG naudojant Aspose.Imaging for Java" %}}
-Naudodami Aspose.Imaging biblioteką galite programiškai konvertuoti į APNG iš kitų palaikomų vaizdo formatų naudodami Java platformą.
+<p align=justify>Naudodami Aspose.Imaging biblioteką galite programiškai konvertuoti į APNG iš kitų palaikomų vaizdo formatų naudodami Java platformą.</p>
 <br/>
 Palaikomos konversijos:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,7 +13,7 @@ description: Utilizzando Aspose.Imaging per la libreria .NET è facile convertir
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tutte le conversioni supportate nel formato WMZ(Skin compressa di Windows Media Player) utilizzando Aspose.Imaging per la libreria .NET" %}}
-Utilizzando la libreria Aspose.Imaging è possibile convertire in modo programmatico vari formati di immagine in WMZ image. WMZ è un'estensione di file per un formato di file skin in/per/utilizzato da Windows Media Player. Un file WMZ è fondamentalmente un file WMF compresso in XML.
+<p align=justify>Utilizzando la libreria Aspose.Imaging è possibile convertire in modo programmatico vari formati di immagine in WMZ image. WMZ è un'estensione di file per un formato di file skin in/per/utilizzato da Windows Media Player. Un file WMZ è fondamentalmente un file WMF compresso in XML.</p>
 <br/>
 Sono supportate le seguenti conversioni:
 {{% /blocks/products/pf/feature-page-section %}}

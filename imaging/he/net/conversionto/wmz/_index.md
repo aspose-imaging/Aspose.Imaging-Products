@@ -13,7 +13,7 @@ description: באמצעות Aspose.Imaging עבור ספריית NET קל להמ
 
 
 {{% blocks/products/pf/feature-page-section  h2="כל ההמרות הנתמכות לפורמט WMZ(עור דחוס של Windows Media Player) באמצעות Aspose.Imaging עבור ספריית NET" %}}
-באמצעות ספריית Aspose.Imaging אתה יכול להמיר פורמטים שונים של תמונה לתמונה WMZ. WMZ היא סיומת קובץ עבור פורמט קובץ סקין ב/עבור/בשימוש על ידי Windows Media Player. קובץ WMZ הוא בעצם קובץ WMF דחוס ב-XML.
+<p align=justify>באמצעות ספריית Aspose.Imaging אתה יכול להמיר פורמטים שונים של תמונה לתמונה WMZ. WMZ היא סיומת קובץ עבור פורמט קובץ סקין ב/עבור/בשימוש על ידי Windows Media Player. קובץ WMZ הוא בעצם קובץ WMF דחוס ב-XML.</p>
 <br/>
 ההמרות הבאות נתמכות:
 {{% /blocks/products/pf/feature-page-section %}}

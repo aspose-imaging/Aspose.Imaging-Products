@@ -13,7 +13,7 @@ description: Sử dụng Aspose.Imaging cho thư viện .NET, thật dễ dàng 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tất cả các chuyển đổi được hỗ trợ sang định dạng DXF(Định dạng Trao đổi Bản vẽ, hoặc Định dạng Trao đổi Bản vẽ,) bằng thư viện Aspose.Imaging for .NET" %}}
-Sử dụng thư viện Aspose.Imaging, bạn có thể lập trình chuyển đổi các định dạng hình ảnh khác nhau thành hình ảnh DXF. DXF, Định dạng Trao đổi Bản vẽ, hoặc Định dạng Trao đổi Bản vẽ, là một biểu diễn dữ liệu được gắn thẻ của tệp bản vẽ AutoCAD. Mỗi phần tử trong tệp có một số nguyên tiền tố được gọi là mã nhóm. Mã nhóm này thực sự đại diện cho phần tử theo sau và cho biết ý nghĩa của phần tử dữ liệu đối với một kiểu đối tượng nhất định. DXF làm cho nó có thể biểu diễn hầu hết tất cả thông tin do người dùng chỉ định trong một tệp bản vẽ.
+<p align=justify>Sử dụng thư viện Aspose.Imaging, bạn có thể lập trình chuyển đổi các định dạng hình ảnh khác nhau thành hình ảnh DXF. DXF, Định dạng Trao đổi Bản vẽ, hoặc Định dạng Trao đổi Bản vẽ, là một biểu diễn dữ liệu được gắn thẻ của tệp bản vẽ AutoCAD. Mỗi phần tử trong tệp có một số nguyên tiền tố được gọi là mã nhóm. Mã nhóm này thực sự đại diện cho phần tử theo sau và cho biết ý nghĩa của phần tử dữ liệu đối với một kiểu đối tượng nhất định. DXF làm cho nó có thể biểu diễn hầu hết tất cả thông tin do người dùng chỉ định trong một tệp bản vẽ.</p>
 <br/>
 chuyển đổi sau đây được hỗ trợ:
 {{% /blocks/products/pf/feature-page-section %}}

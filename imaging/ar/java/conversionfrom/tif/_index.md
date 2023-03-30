@@ -13,8 +13,8 @@ description: Aspose.Imaging يمكن تحويله بسهولة من TIF(تنسي
 
 
 {{% blocks/products/pf/feature-page-section  h2="مجموعة واسعة من تنسيقات الصور التي يمكن تحويلها من صور TIF(تنسيق الصورة الموسومة) باستخدام Aspose.Imaging for Java" %}}
-يمكنك تحويل برمجيًا من تنسيق TIF إلى تنسيقات أخرى متاحة باستخدام
-Aspose.Imaging لجافا. 
+<p align=justify>يمكنك تحويل برمجيًا من تنسيق TIF إلى تنسيقات أخرى متاحة باستخدام
+Aspose.Imaging لجافا. </p>
 <br/>
 هناك التحويلات التالية على متن الطائرة:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,7 +13,7 @@ description: Aspose.Imaging का उपयोग करके आप आसा
 
 
 {{% blocks/products/pf/feature-page-section  h2="TIF(टैग की गई छवि प्रारूप) से कनवर्ट करने के लिए सभी समर्थित छवि प्रारूप" %}}
-Aspose.Image .NET प्लेटफॉर्म पर TIF से अन्य प्रारूपों में बहुत से रूपांतरणों को स्वचालित करने की अनुमति देता है। 
+<p align=justify>Aspose.Image .NET प्लेटफॉर्म पर TIF से अन्य प्रारूपों में बहुत से रूपांतरणों को स्वचालित करने की अनुमति देता है। </p>
 <br/>
 TIF से समर्थित रूपांतरणों की पूरी सूची:
 {{% /blocks/products/pf/feature-page-section %}}

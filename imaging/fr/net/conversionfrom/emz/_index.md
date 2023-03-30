@@ -13,7 +13,7 @@ description: En utilisant Aspose.Imaging, vous pouvez facilement convertir de EM
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tous les formats d'image pris en charge pour convertir à partir de EMZ(Métafichier amélioré compressé Windows)" %}}
-Aspose.Imaging permet d'automatiser de nombreuses conversions de EMZ vers d'autres formats sur la plate-forme .NET. Un fichier avec l'extension de fichier EMZ est un fichier image compressé, plus spécifiquement appelé fichier de métafichier amélioré compressé Windows.
+<p align=justify>Aspose.Imaging permet d'automatiser de nombreuses conversions de EMZ vers d'autres formats sur la plate-forme .NET. Un fichier avec l'extension de fichier EMZ est un fichier image compressé, plus spécifiquement appelé fichier de métafichier amélioré compressé Windows.</p>
 <br/>
 Liste complète des conversions prises en charge à partir de EMZ :
 {{% /blocks/products/pf/feature-page-section %}}

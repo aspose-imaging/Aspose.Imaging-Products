@@ -13,8 +13,8 @@ description: Aspose.Imaging lze snadno převést z formátu WMZ(Komprimovaný vz
 
 
 {{% blocks/products/pf/feature-page-section  h2="Široké spektrum obrazových formátů, které lze převést z obrázků WMZ(Komprimovaný vzhled Windows Media Player) pomocí Aspose.Imaging for Java" %}}
-Můžete programově převádět z formátu WMZ do jiných dostupných formátů pomocí
-Aspose.Imaging pro Javu. WMZ je přípona souboru pro formát souboru skinu v/pro/používaný Windows Media Player. Soubor WMZ je v podstatě zazipovaný soubor WMF ve formátu XML.
+<p align=justify>Můžete programově převádět z formátu WMZ do jiných dostupných formátů pomocí
+Aspose.Imaging pro Javu. WMZ je přípona souboru pro formát souboru skinu v/pro/používaný Windows Media Player. Soubor WMZ je v podstatě zazipovaný soubor WMF ve formátu XML.</p>
 <br/>
 Na palubě jsou následující konverze:
 {{% /blocks/products/pf/feature-page-section %}}

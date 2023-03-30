@@ -13,7 +13,7 @@ description: באמצעות Aspose.Imaging עבור ספריית NET קל להמ
 
 
 {{% blocks/products/pf/feature-page-section  h2="כל ההמרות הנתמכות לפורמט J2K(תמונה דחוסה של Wavelet) באמצעות Aspose.Imaging עבור ספריית NET" %}}
-באמצעות ספריית Aspose.Imaging אתה יכול להמיר פורמטים שונים של תמונה לתמונה J2K. קובץ J2K הוא תמונה שנדחסת באמצעות דחיסת wavelet במקום דחיסת DCT.
+<p align=justify>באמצעות ספריית Aspose.Imaging אתה יכול להמיר פורמטים שונים של תמונה לתמונה J2K. קובץ J2K הוא תמונה שנדחסת באמצעות דחיסת wavelet במקום דחיסת DCT.</p>
 <br/>
 ההמרות הבאות נתמכות:
 {{% /blocks/products/pf/feature-page-section %}}

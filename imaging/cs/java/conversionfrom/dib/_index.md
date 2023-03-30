@@ -13,8 +13,8 @@ description: Aspose.Imaging lze snadno převést z formátu DIB(Bitmap nezávisl
 
 
 {{% blocks/products/pf/feature-page-section  h2="Široké spektrum obrazových formátů, které lze převést z obrázků DIB(Bitmap nezávislý na zařízení) pomocí Aspose.Imaging for Java" %}}
-Můžete programově převádět z formátu DIB do jiných dostupných formátů pomocí
-Aspose.Imaging pro Javu. Soubor DIB (Device Independent Bitmap) je soubor rastrového obrázku, který má podobnou strukturu jako standardní bitmapové soubory (BMP), ale má jiné záhlaví. Lze jej otevřít téměř všemi aplikacemi, které dokážou otevřít standardní soubor BMP ve Windows i macOS. DIB jsou binární soubory a mají složitý formát souborů podobný BMP.
+<p align=justify>Můžete programově převádět z formátu DIB do jiných dostupných formátů pomocí
+Aspose.Imaging pro Javu. Soubor DIB (Device Independent Bitmap) je soubor rastrového obrázku, který má podobnou strukturu jako standardní bitmapové soubory (BMP), ale má jiné záhlaví. Lze jej otevřít téměř všemi aplikacemi, které dokážou otevřít standardní soubor BMP ve Windows i macOS. DIB jsou binární soubory a mají složitý formát souborů podobný BMP.</p>
 <br/>
 Na palubě jsou následující konverze:
 {{% /blocks/products/pf/feature-page-section %}}

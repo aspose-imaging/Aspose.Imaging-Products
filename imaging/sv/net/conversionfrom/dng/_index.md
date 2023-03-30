@@ -13,7 +13,7 @@ description: Med Aspose.Imaging kan du enkelt konvertera från DNG(Digitalkamera
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alla bildformat som stöds att konvertera från DNG(Digitalkamerabild)" %}}
-Aspose.Imaging låter automatisera många konverteringar från DNG till andra format på .NET-plattformen. DNG är ett digitalkamerabildformat som används för lagring av råfiler. Den har utvecklats av Adobe i september 2004. Den utvecklades i princip för digital fotografering. DNG är en förlängning av TIFF/EP standardformat och använder metadata avsevärt. För att manipulera rådata från digitalkameror med enkel flexibilitet och konstnärlig kontroll väljer fotografer Camera Raw-filer. JPEG- och TIFF-format lagrar bilder som bearbetas av kameran, därför finns det inte mycket utrymme för ändringar i sådana format.
+<p align=justify>Aspose.Imaging låter automatisera många konverteringar från DNG till andra format på .NET-plattformen. DNG är ett digitalkamerabildformat som används för lagring av råfiler. Den har utvecklats av Adobe i september 2004. Den utvecklades i princip för digital fotografering. DNG är en förlängning av TIFF/EP standardformat och använder metadata avsevärt. För att manipulera rådata från digitalkameror med enkel flexibilitet och konstnärlig kontroll väljer fotografer Camera Raw-filer. JPEG- och TIFF-format lagrar bilder som bearbetas av kameran, därför finns det inte mycket utrymme för ändringar i sådana format.</p>
 <br/>
 Fullständig lista över omvandlingar som stöds från DNG:
 {{% /blocks/products/pf/feature-page-section %}}

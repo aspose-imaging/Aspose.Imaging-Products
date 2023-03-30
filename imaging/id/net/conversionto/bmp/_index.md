@@ -13,7 +13,7 @@ description: Menggunakan Aspose.Imaging untuk pustaka .NET, mudah untuk mengonve
 
 
 {{% blocks/products/pf/feature-page-section  h2="Semua konversi yang didukung ke format BMP(Gambar Bitmap) menggunakan Aspose.Imaging untuk perpustakaan .NET" %}}
-Dengan menggunakan pustaka Aspose.Imaging, Anda dapat secara terprogram mengonversi berbagai format gambar menjadi gambar BMP. File yang berekstensi .BMP merupakan file Gambar Bitmap yang digunakan untuk menyimpan gambar digital bitmap. Gambar-gambar ini tidak tergantung pada adaptor grafis dan juga disebut format file bitmap independen perangkat (DIB). Independensi ini bertujuan untuk membuka file di berbagai platform seperti Microsoft Windows dan Mac. Format file BMP dapat menyimpan data sebagai gambar digital dua dimensi baik dalam format monokrom maupun warna dengan kedalaman warna yang bervariasi.
+<p align=justify>Dengan menggunakan pustaka Aspose.Imaging, Anda dapat secara terprogram mengonversi berbagai format gambar menjadi gambar BMP. File yang berekstensi .BMP merupakan file Gambar Bitmap yang digunakan untuk menyimpan gambar digital bitmap. Gambar-gambar ini tidak tergantung pada adaptor grafis dan juga disebut format file bitmap independen perangkat (DIB). Independensi ini bertujuan untuk membuka file di berbagai platform seperti Microsoft Windows dan Mac. Format file BMP dapat menyimpan data sebagai gambar digital dua dimensi baik dalam format monokrom maupun warna dengan kedalaman warna yang bervariasi.</p>
 <br/>
 Konversi berikut didukung :
 {{% /blocks/products/pf/feature-page-section %}}

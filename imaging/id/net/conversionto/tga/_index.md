@@ -13,7 +13,7 @@ description: Menggunakan Aspose.Imaging untuk pustaka .NET, mudah untuk mengonve
 
 
 {{% blocks/products/pf/feature-page-section  h2="Semua konversi yang didukung ke format TGA(Grafis Targa) menggunakan Aspose.Imaging untuk perpustakaan .NET" %}}
-Dengan menggunakan pustaka Aspose.Imaging, Anda dapat secara terprogram mengonversi berbagai format gambar menjadi gambar TGA. Truevision TGA, sering disebut sebagai TARGA, adalah format file grafik raster yang dibuat oleh Truevision Inc. (sekarang bagian dari Avid Technology). Itu adalah format asli papan TARGA dan VISTA, yang merupakan kartu grafis pertama untuk PC yang kompatibel dengan IBM yang mendukung tampilan Highcolor/truecolor.
+<p align=justify>Dengan menggunakan pustaka Aspose.Imaging, Anda dapat secara terprogram mengonversi berbagai format gambar menjadi gambar TGA. Truevision TGA, sering disebut sebagai TARGA, adalah format file grafik raster yang dibuat oleh Truevision Inc. (sekarang bagian dari Avid Technology). Itu adalah format asli papan TARGA dan VISTA, yang merupakan kartu grafis pertama untuk PC yang kompatibel dengan IBM yang mendukung tampilan Highcolor/truecolor.</p>
 <br/>
 Konversi berikut didukung :
 {{% /blocks/products/pf/feature-page-section %}}

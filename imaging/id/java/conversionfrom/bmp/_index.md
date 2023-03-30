@@ -13,8 +13,8 @@ description: Aspose.Imaging dapat dengan mudah mengonversi dari BMP(Gambar Bitma
 
 
 {{% blocks/products/pf/feature-page-section  h2="Spektrum luas format gambar yang dapat dikonversi dari gambar BMP(Gambar Bitmap) menggunakan Aspose.Imaging untuk Java" %}}
-Anda dapat secara terprogram mengonversi dari format BMP ke format lain yang tersedia menggunakan
-Aspose.Imaging untuk Java. File yang berekstensi .BMP merupakan file Gambar Bitmap yang digunakan untuk menyimpan gambar digital bitmap. Gambar-gambar ini tidak tergantung pada adaptor grafis dan juga disebut format file bitmap independen perangkat (DIB). Independensi ini bertujuan untuk membuka file di berbagai platform seperti Microsoft Windows dan Mac. Format file BMP dapat menyimpan data sebagai gambar digital dua dimensi baik dalam format monokrom maupun warna dengan kedalaman warna yang bervariasi.
+<p align=justify>Anda dapat secara terprogram mengonversi dari format BMP ke format lain yang tersedia menggunakan
+Aspose.Imaging untuk Java. File yang berekstensi .BMP merupakan file Gambar Bitmap yang digunakan untuk menyimpan gambar digital bitmap. Gambar-gambar ini tidak tergantung pada adaptor grafis dan juga disebut format file bitmap independen perangkat (DIB). Independensi ini bertujuan untuk membuka file di berbagai platform seperti Microsoft Windows dan Mac. Format file BMP dapat menyimpan data sebagai gambar digital dua dimensi baik dalam format monokrom maupun warna dengan kedalaman warna yang bervariasi.</p>
 <br/>
 Ada konversi berikut di pesawat:
 {{% /blocks/products/pf/feature-page-section %}}

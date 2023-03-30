@@ -13,8 +13,8 @@ description: Aspose.Imaging puede convertir fácilmente de CDR(Imagen de dibujo 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Amplio espectro de formatos de imagen que se pueden convertir a partir de imágenes CDR(Imagen de dibujo vectorial) usando Aspose.Imaging para Java" %}}
-Puede convertir programáticamente del formato CDR a otros formatos disponibles usando
-Aspose. Imaging para Java. Un archivo CDR es un archivo de imagen de dibujo vectorial que se crea de forma nativa con CorelDRAW para almacenar imágenes digitales codificadas y comprimidas. Dicho archivo de dibujo contiene texto, líneas, formas, imágenes, colores y efectos para la representación vectorial del contenido de la imagen. Los archivos CDR se pueden abrir con CorelDRAW como aplicación principal y también se pueden convertir a otros formatos como PDF, JPG, PNG, BMP y AI. Se puede utilizar para la representación de varios datos gráficos como folletos, tabloides, sobres y postales. Además de CorelDRAW, otros productos de Corel como Corel Paintshop Pro y CorelDRAW Graphics Suite también pueden abrir los formatos de archivo CDR.
+<p align=justify>Puede convertir programáticamente del formato CDR a otros formatos disponibles usando
+Aspose. Imaging para Java. Un archivo CDR es un archivo de imagen de dibujo vectorial que se crea de forma nativa con CorelDRAW para almacenar imágenes digitales codificadas y comprimidas. Dicho archivo de dibujo contiene texto, líneas, formas, imágenes, colores y efectos para la representación vectorial del contenido de la imagen. Los archivos CDR se pueden abrir con CorelDRAW como aplicación principal y también se pueden convertir a otros formatos como PDF, JPG, PNG, BMP y AI. Se puede utilizar para la representación de varios datos gráficos como folletos, tabloides, sobres y postales. Además de CorelDRAW, otros productos de Corel como Corel Paintshop Pro y CorelDRAW Graphics Suite también pueden abrir los formatos de archivo CDR.</p>
 <br/>
 Hay las siguientes conversiones a bordo:
 {{% /blocks/products/pf/feature-page-section %}}

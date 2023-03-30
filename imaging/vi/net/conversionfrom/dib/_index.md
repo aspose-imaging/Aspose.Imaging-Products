@@ -13,7 +13,7 @@ description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng chuyển đ�
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tất cả các định dạng hình ảnh được hỗ trợ để chuyển đổi từ DIB(Bản đồ bit độc lập với thiết bị)" %}}
-Aspose.Imaging cho phép tự động hóa rất nhiều chuyển đổi từ DIB sang các định dạng khác trên nền tảng .NET. Tệp DIB (Bitmap độc lập với thiết bị) là một tệp hình ảnh raster có cấu trúc tương tự như các tệp Bitmap tiêu chuẩn (BMP) nhưng có tiêu đề khác. Nó có thể được mở bằng hầu hết các ứng dụng có thể mở tệp BMP tiêu chuẩn trên Windows cũng như macOS. DIB là các tệp nhị phân và có định dạng tệp phức tạp tương tự như BMP.
+<p align=justify>Aspose.Imaging cho phép tự động hóa rất nhiều chuyển đổi từ DIB sang các định dạng khác trên nền tảng .NET. Tệp DIB (Bitmap độc lập với thiết bị) là một tệp hình ảnh raster có cấu trúc tương tự như các tệp Bitmap tiêu chuẩn (BMP) nhưng có tiêu đề khác. Nó có thể được mở bằng hầu hết các ứng dụng có thể mở tệp BMP tiêu chuẩn trên Windows cũng như macOS. DIB là các tệp nhị phân và có định dạng tệp phức tạp tương tự như BMP.</p>
 <br/>
 Danh sách đầy đủ các chuyển đổi được hỗ trợ từ DIB:
 {{% /blocks/products/pf/feature-page-section %}}

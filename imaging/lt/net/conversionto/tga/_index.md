@@ -13,7 +13,7 @@ description: Naudojant Aspose.Imaging, skirta .NET bibliotekai, lengva konvertuo
 
 
 {{% blocks/products/pf/feature-page-section  h2="Visos palaikomos konversijos į TGA(Targa grafika) formatą naudojant Aspose.Imaging for .NET biblioteką" %}}
-Naudodami Aspose.Imaging biblioteką galite programiškai konvertuoti įvairius vaizdo formatus į TGA vaizdą. Truevision TGA, dažnai vadinamas TARGA, yra rastrinės grafikos failo formatas, sukurtas Truevision Inc. (dabar Avid Technology dalis). Tai buvo vietinis TARGA ir VISTA plokščių formatas, kurios buvo pirmosios su IBM suderinamų kompiuterių grafinės plokštės, palaikančios Highcolor/truecolor ekraną.
+<p align=justify>Naudodami Aspose.Imaging biblioteką galite programiškai konvertuoti įvairius vaizdo formatus į TGA vaizdą. Truevision TGA, dažnai vadinamas TARGA, yra rastrinės grafikos failo formatas, sukurtas Truevision Inc. (dabar Avid Technology dalis). Tai buvo vietinis TARGA ir VISTA plokščių formatas, kurios buvo pirmosios su IBM suderinamų kompiuterių grafinės plokštės, palaikančios Highcolor/truecolor ekraną.</p>
 <br/>
 Palaikomos šios konversijos:
 {{% /blocks/products/pf/feature-page-section %}}

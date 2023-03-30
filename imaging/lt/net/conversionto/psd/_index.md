@@ -13,7 +13,7 @@ description: Naudojant Aspose.Imaging, skirta .NET bibliotekai, lengva konvertuo
 
 
 {{% blocks/products/pf/feature-page-section  h2="Visos palaikomos konversijos į PSD(Photoshop dokumentas) formatą naudojant Aspose.Imaging for .NET biblioteką" %}}
-Naudodami Aspose.Imaging biblioteką galite programiškai konvertuoti įvairius vaizdo formatus į PSD vaizdą. PSD, „Photoshop“ dokumentas, yra „Adobe Photoshop“ vietinis failo formatas, naudojamas grafikos projektavimui ir plėtrai. PSD failuose gali būti vaizdo sluoksnių, reguliavimo sluoksnių, sluoksnių kaukių, komentarų, failo informacijos, raktinių žodžių ir kitų „Photoshop“ būdingų elementų.
+<p align=justify>Naudodami Aspose.Imaging biblioteką galite programiškai konvertuoti įvairius vaizdo formatus į PSD vaizdą. PSD, „Photoshop“ dokumentas, yra „Adobe Photoshop“ vietinis failo formatas, naudojamas grafikos projektavimui ir plėtrai. PSD failuose gali būti vaizdo sluoksnių, reguliavimo sluoksnių, sluoksnių kaukių, komentarų, failo informacijos, raktinių žodžių ir kitų „Photoshop“ būdingų elementų.</p>
 <br/>
 Palaikomos šios konversijos:
 {{% /blocks/products/pf/feature-page-section %}}

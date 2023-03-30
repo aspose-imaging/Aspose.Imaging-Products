@@ -13,7 +13,7 @@ description: Pomocí Aspose.Imaging můžete snadno převést z formátu J2K(Wav
 
 
 {{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu z formátu J2K (Wavelet Compressed Image)" %}}
-Aspose.Imaging umožňuje automatizovat mnoho konverzí z J2K do jiných formátů na platformě .NET. Soubor J2K je obrázek, který je komprimován pomocí komprese wavelet namísto komprese DCT.
+<p align=justify>Aspose.Imaging umožňuje automatizovat mnoho konverzí z J2K do jiných formátů na platformě .NET. Soubor J2K je obrázek, který je komprimován pomocí komprese wavelet namísto komprese DCT.</p>
 <br/>
 Úplný seznam podporovaných konverzí z J2K:
 {{% /blocks/products/pf/feature-page-section %}}

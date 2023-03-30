@@ -13,7 +13,7 @@ description: Aspose.Imaging을 사용하면 J2K(웨이블릿 압축 이미지) �
 
 
 {{% blocks/products/pf/feature-page-section  h2="J2K(웨이블릿 압축 이미지)에서 변환할 지원되는 모든 이미지 형식 J2K 파일은 DCT 압축 대신 웨이블릿 압축을 사용하여 압축한 이미지입니다." %}}
-Aspose.Imaging을 사용하면 J2K에서 .NET 플랫폼의 다른 형식으로 많은 변환을 자동화할 수 있습니다.
+<p align=justify>Aspose.Imaging을 사용하면 J2K에서 .NET 플랫폼의 다른 형식으로 많은 변환을 자동화할 수 있습니다.</p>
 <br/>
 J2K에서 지원되는 변환의 전체 목록:
 {{% /blocks/products/pf/feature-page-section %}}

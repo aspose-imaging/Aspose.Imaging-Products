@@ -13,7 +13,7 @@ description: Menggunakan Aspose.Imaging untuk pustaka .NET, mudah untuk mengonve
 
 
 {{% blocks/products/pf/feature-page-section  h2="Semua konversi yang didukung ke format DXF(Menggambar Format Pertukaran, atau Menggambar Format Pertukaran,) menggunakan Aspose.Imaging untuk perpustakaan .NET" %}}
-Dengan menggunakan pustaka Aspose.Imaging, Anda dapat secara terprogram mengonversi berbagai format gambar menjadi gambar DXF. DXF, Drawing Interchange Format, atau Drawing Exchange Format, adalah representasi data yang ditandai dari file gambar AutoCAD. Setiap elemen dalam file memiliki nomor integer awalan yang disebut kode grup. Kode grup ini sebenarnya mewakili elemen yang mengikuti dan menunjukkan arti dari elemen data untuk tipe objek tertentu. DXF memungkinkan untuk mewakili hampir semua informasi yang ditentukan pengguna dalam file gambar.
+<p align=justify>Dengan menggunakan pustaka Aspose.Imaging, Anda dapat secara terprogram mengonversi berbagai format gambar menjadi gambar DXF. DXF, Drawing Interchange Format, atau Drawing Exchange Format, adalah representasi data yang ditandai dari file gambar AutoCAD. Setiap elemen dalam file memiliki nomor integer awalan yang disebut kode grup. Kode grup ini sebenarnya mewakili elemen yang mengikuti dan menunjukkan arti dari elemen data untuk tipe objek tertentu. DXF memungkinkan untuk mewakili hampir semua informasi yang ditentukan pengguna dalam file gambar.</p>
 <br/>
 Konversi berikut didukung :
 {{% /blocks/products/pf/feature-page-section %}}

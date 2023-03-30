@@ -13,8 +13,8 @@ description: Aspose.Imaging は、Java プラットフォームを使用して C
 
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java を使用して CMX(CorelExchangeイメージ) 画像から変換できる幅広い画像フォーマット" %}}
-次を使用して、CMX 形式から他の使用可能な形式にプログラムで変換できます。
-Aspose.Imaging for Java。 CMX拡張子の付いたファイルは、CorelSuiteアプリケーションによるプレゼンテーションとして使用されるCorelExchangeイメージファイル形式です。これには、ベクターグラフィックとしての画像データと、画像を説明するメタデータが含まれています。 CMXファイルは、CorelDraw、Corel Presentations、Paint Shop Pro、およびAdobeIllustratorの一部のバージョンで開くことができます。
+<p align=justify>次を使用して、CMX 形式から他の使用可能な形式にプログラムで変換できます。
+Aspose.Imaging for Java。 CMX拡張子の付いたファイルは、CorelSuiteアプリケーションによるプレゼンテーションとして使用されるCorelExchangeイメージファイル形式です。これには、ベクターグラフィックとしての画像データと、画像を説明するメタデータが含まれています。 CMXファイルは、CorelDraw、Corel Presentations、Paint Shop Pro、およびAdobeIllustratorの一部のバージョンで開くことができます。</p>
 <br/>
 機内では次の変換があります。
 {{% /blocks/products/pf/feature-page-section %}}

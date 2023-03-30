@@ -13,7 +13,7 @@ description: Naudojant Aspose.Imaging, skirta .NET bibliotekai, lengva konvertuo
 
 
 {{% blocks/products/pf/feature-page-section  h2="Visos palaikomos konversijos į ICO(Windows piktograma) formatą naudojant Aspose.Imaging for .NET biblioteką" %}}
-Naudodami Aspose.Imaging biblioteką galite programiškai konvertuoti įvairius vaizdo formatus į ICO vaizdą. ICO failo formatas yra vaizdo failo formatas, skirtas kompiuterio piktogramoms „Microsoft Windows“. ICO failuose yra vienas ar daugiau mažų įvairių dydžių ir spalvų gylio vaizdų, kad juos būtų galima atitinkamai pakeisti. Sistemoje „Windows“ visuose vykdomuosiuose failuose, kuriuose vartotojui rodoma piktograma, darbalaukyje, meniu Pradėti arba „Windows Explorer“, turi būti piktograma ICO formatu.
+<p align=justify>Naudodami Aspose.Imaging biblioteką galite programiškai konvertuoti įvairius vaizdo formatus į ICO vaizdą. ICO failo formatas yra vaizdo failo formatas, skirtas kompiuterio piktogramoms „Microsoft Windows“. ICO failuose yra vienas ar daugiau mažų įvairių dydžių ir spalvų gylio vaizdų, kad juos būtų galima atitinkamai pakeisti. Sistemoje „Windows“ visuose vykdomuosiuose failuose, kuriuose vartotojui rodoma piktograma, darbalaukyje, meniu Pradėti arba „Windows Explorer“, turi būti piktograma ICO formatu.</p>
 <br/>
 Palaikomos šios konversijos:
 {{% /blocks/products/pf/feature-page-section %}}

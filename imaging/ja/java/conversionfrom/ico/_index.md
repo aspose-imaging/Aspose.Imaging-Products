@@ -13,8 +13,8 @@ description: Aspose.Imaging は、Java プラットフォームを使用して I
 
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java を使用して ICO(Windows アイコン) 画像から変換できる幅広い画像フォーマット" %}}
-次を使用して、ICO 形式から他の使用可能な形式にプログラムで変換できます。
-Aspose.Imaging for Java。 ICO ファイル形式は、Microsoft Windows のコンピューター アイコンのイメージ ファイル形式です。 ICO ファイルには、適切にスケーリングできるように、複数のサイズと色深度の 1 つまたは複数の小さな画像が含まれています。 Windows では、ユーザー、デスクトップ、スタート メニュー、または Windows エクスプローラーにアイコンを表示するすべての実行可能ファイルは、アイコンを ICO 形式で保持する必要があります。
+<p align=justify>次を使用して、ICO 形式から他の使用可能な形式にプログラムで変換できます。
+Aspose.Imaging for Java。 ICO ファイル形式は、Microsoft Windows のコンピューター アイコンのイメージ ファイル形式です。 ICO ファイルには、適切にスケーリングできるように、複数のサイズと色深度の 1 つまたは複数の小さな画像が含まれています。 Windows では、ユーザー、デスクトップ、スタート メニュー、または Windows エクスプローラーにアイコンを表示するすべての実行可能ファイルは、アイコンを ICO 形式で保持する必要があります。</p>
 <br/>
 機内では次の変換があります。
 {{% /blocks/products/pf/feature-page-section %}}

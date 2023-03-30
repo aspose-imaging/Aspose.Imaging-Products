@@ -13,7 +13,7 @@ description: Aspose.Imaging'i kullanarak CMX(Corel Exchange Görüntüsü) biçi
 
 
 {{% blocks/products/pf/feature-page-section  h2="CMX(Corel Exchange Görüntüsü) biçiminden dönüştürülecek desteklenen tüm resim biçimleri" %}}
-Aspose.Imaging, .NET platformunda CMX'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir. CMX uzantılı dosyalar, CorelSuite uygulamaları tarafından sunum olarak kullanılan Corel Exchange görüntü dosyası formatıdır. Vektör grafikleri olarak görüntü verilerini ve görüntüyü tanımlayan meta verileri içerir. CMX dosyaları CorelDraw, Corel Presentations, Paint Shop Pro ve Adobe Illustrator'ın bazı sürümleri tarafından açılabilir.
+<p align=justify>Aspose.Imaging, .NET platformunda CMX'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir. CMX uzantılı dosyalar, CorelSuite uygulamaları tarafından sunum olarak kullanılan Corel Exchange görüntü dosyası formatıdır. Vektör grafikleri olarak görüntü verilerini ve görüntüyü tanımlayan meta verileri içerir. CMX dosyaları CorelDraw, Corel Presentations, Paint Shop Pro ve Adobe Illustrator'ın bazı sürümleri tarafından açılabilir.</p>
 <br/>
 CMX tarafından desteklenen dönüşümlerin tam listesi:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,8 +13,8 @@ description: Aspose.Imaging có thể dễ dàng chuyển đổi từ EMZ(Siêu 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Nhiều định dạng hình ảnh có thể được chuyển đổi từ hình ảnh EMZ(Siêu tệp nâng cao được nén của Windows) bằng Aspose.Imaging cho Java" %}}
-Bạn có thể lập trình chuyển đổi từ định dạng EMZ sang các định dạng có sẵn khác bằng cách sử dụng
-Aspose.Imaging cho Java. Tệp có phần mở rộng tệp EMZ là tệp hình ảnh nén, được gọi cụ thể hơn là tệp Siêu tệp tin nâng cao được nén trong Windows
+<p align=justify>Bạn có thể lập trình chuyển đổi từ định dạng EMZ sang các định dạng có sẵn khác bằng cách sử dụng
+Aspose.Imaging cho Java. Tệp có phần mở rộng tệp EMZ là tệp hình ảnh nén, được gọi cụ thể hơn là tệp Siêu tệp tin nâng cao được nén trong Windows</p>
 <br/>
 Có các chuyển đổi sau trên tàu:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,8 +13,8 @@ description: Aspose.Imaging 可以使用 Java 平台轻松地将 DNG(数码相�
 
 
 {{% blocks/products/pf/feature-page-section  h2="可以使用 Aspose.Imaging for Java 从 DNG(数码相机图像) 图像转换的各种图像格式" %}}
-您可以使用编程方式将 DNG 格式转换为其他可用格式
-用于 Java 的 Aspose.Imaging。 DNG 是一种用于存储原始文件的数码相机图像格式。它是由 Adob​​e 于 2004 年 9 月开发的。它基本上是为数码摄影而开发的。 DNG 是 TIFF/EP 标准格式的扩展，大量使用元数据。为了轻松灵活地处理来自数码相机的原始数据和艺术控制，摄影师选择相机原始文件。 JPEG 和 TIFF 格式存储由相机处理的图像，因此在这些格式中没有太大的更改空间。
+<p align=justify>您可以使用编程方式将 DNG 格式转换为其他可用格式
+用于 Java 的 Aspose.Imaging。 DNG 是一种用于存储原始文件的数码相机图像格式。它是由 Adob​​e 于 2004 年 9 月开发的。它基本上是为数码摄影而开发的。 DNG 是 TIFF/EP 标准格式的扩展，大量使用元数据。为了轻松灵活地处理来自数码相机的原始数据和艺术控制，摄影师选择相机原始文件。 JPEG 和 TIFF 格式存储由相机处理的图像，因此在这些格式中没有太大的更改空间。</p>
 <br/>
 船上有以下转换：
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,7 +13,7 @@ description: 使用 Aspose.Imaging，您可以轻松地将 EPS(封装的 PostScr
 
 
 {{% blocks/products/pf/feature-page-section  h2="从 EPS(封装的 PostScript 语言) 转换的所有支持的图像格式" %}}
-Aspose.Imaging 允许在 .NET 平台上自动进行从 EPS 到其他格式的大量转换。 带有 EPS 扩展名的文件本质上描述了一个封装的 PostScript 语言程序，该程序描述了单个页面的外观。名称“封装”是因为它可以包含或封装在另一种 PostScript 语言页面描述中。这种基于脚本的文件格式可能包含文本、图形和图像的任意组合。 EPS 文件可能包含封装在内部的位图预览图像，以供可以打开此类文件的应用程序显示。可以使用不同的应用程序将 EPS 文件转换为标准图像格式，例如 JPG、PNG、TIFF 和 PDF。 Adobe Illustrator、Photoshop 和 PaintShop Pro。由于 EPS 文件中存在安全漏洞，Office 2016、Office 2013、Office 2010 和 Office 365 已关闭将 EPS 文件插入 Office 文档的功能。
+<p align=justify>Aspose.Imaging 允许在 .NET 平台上自动进行从 EPS 到其他格式的大量转换。 带有 EPS 扩展名的文件本质上描述了一个封装的 PostScript 语言程序，该程序描述了单个页面的外观。名称“封装”是因为它可以包含或封装在另一种 PostScript 语言页面描述中。这种基于脚本的文件格式可能包含文本、图形和图像的任意组合。 EPS 文件可能包含封装在内部的位图预览图像，以供可以打开此类文件的应用程序显示。可以使用不同的应用程序将 EPS 文件转换为标准图像格式，例如 JPG、PNG、TIFF 和 PDF。 Adobe Illustrator、Photoshop 和 PaintShop Pro。由于 EPS 文件中存在安全漏洞，Office 2016、Office 2013、Office 2010 和 Office 365 已关闭将 EPS 文件插入 Office 文档的功能。</p>
 <br/>
 EPS 支持的转换的完整列表：
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,7 +13,7 @@ description: Naudojant Aspose.Imaging, skirta .NET bibliotekai, lengva konvertuo
 
 
 {{% blocks/products/pf/feature-page-section  h2="Visos palaikomos konversijos į PDF(Nešiojamo dokumento formatas (PDF)) formatą naudojant Aspose.Imaging for .NET biblioteką" %}}
-Naudodami Aspose.Imaging biblioteką galite programiškai konvertuoti įvairius vaizdo formatus į PDF vaizdą. Portable Document Format (PDF) yra dokumento tipas, kurį „Adobe“ sukūrė 1990 m. Šio failo formato tikslas buvo įdiegti standartą, skirtą dokumentų ir kitos informacinės medžiagos vaizdavimui tokiu formatu, kuris nepriklauso nuo taikomosios programinės įrangos, aparatinės įrangos ir operacinės sistemos. PDF failo formatas turi visas galimybes talpinti informaciją, pvz., tekstą, vaizdus, ​​hipersaitus, formos laukus, raiškiąją mediją, skaitmeninius parašus, priedus, metaduomenis, geografines ypatybes ir 3D objektus, kurie gali tapti šaltinio dokumento dalimi.
+<p align=justify>Naudodami Aspose.Imaging biblioteką galite programiškai konvertuoti įvairius vaizdo formatus į PDF vaizdą. Portable Document Format (PDF) yra dokumento tipas, kurį „Adobe“ sukūrė 1990 m. Šio failo formato tikslas buvo įdiegti standartą, skirtą dokumentų ir kitos informacinės medžiagos vaizdavimui tokiu formatu, kuris nepriklauso nuo taikomosios programinės įrangos, aparatinės įrangos ir operacinės sistemos. PDF failo formatas turi visas galimybes talpinti informaciją, pvz., tekstą, vaizdus, ​​hipersaitus, formos laukus, raiškiąją mediją, skaitmeninius parašus, priedus, metaduomenis, geografines ypatybes ir 3D objektus, kurie gali tapti šaltinio dokumento dalimi.</p>
 <br/>
 Palaikomos šios konversijos:
 {{% /blocks/products/pf/feature-page-section %}}

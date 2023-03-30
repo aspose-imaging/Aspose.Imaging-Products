@@ -13,7 +13,7 @@ description: Med Aspose.Imaging för .NET-bibliotek är det lätt att konvertera
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alla omvandlingar som stöds till EMZ(Windows komprimerad förbättrad metafil)-format med Aspose.Imaging för .NET-bibliotek" %}}
-Med hjälp av Aspose.Imaging-biblioteket kan du programmatiskt konvertera olika bildformat till EMZ-bild. En fil med filtillägget EMZ är en komprimerad bildfil, mer specifikt kallad en Windows Compressed Enhanced Metafile-fil
+<p align=justify>Med hjälp av Aspose.Imaging-biblioteket kan du programmatiskt konvertera olika bildformat till EMZ-bild. En fil med filtillägget EMZ är en komprimerad bildfil, mer specifikt kallad en Windows Compressed Enhanced Metafile-fil</p>
 <br/>
 Följande konverteringar stöds:
 {{% /blocks/products/pf/feature-page-section %}}

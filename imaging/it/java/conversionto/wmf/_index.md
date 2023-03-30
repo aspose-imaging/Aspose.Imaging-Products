@@ -13,7 +13,7 @@ description: Usando Aspose.Imaging puoi convertire in WMF da altri formati usand
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tutti i formati immagine supportati sono convertibili in WMF utilizzando Aspose.Imaging per Java" %}}
-Utilizzando la libreria Aspose.Imaging è possibile convertire in modo programmatico in WMF da altri formati di immagine supportati utilizzando la piattaforma Java.
+<p align=justify>Utilizzando la libreria Aspose.Imaging è possibile convertire in modo programmatico in WMF da altri formati di immagine supportati utilizzando la piattaforma Java.</p>
 <br/>
 Conversioni supportate:
 {{% /blocks/products/pf/feature-page-section %}}

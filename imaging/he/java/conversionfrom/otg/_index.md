@@ -13,8 +13,8 @@ description: Aspose.Imaging יכולה להמיר בקלות מ-OTG(OpenDocument
 
 
 {{% blocks/products/pf/feature-page-section  h2="ספקטרום רחב של פורמטים של תמונות שניתן להמיר מתמונות OTG(OpenDocument Standard) באמצעות Aspose.Imaging עבור Java" %}}
-אתה יכול להמיר באופן תכנותי מפורמט OTG לפורמטים זמינים אחרים באמצעות
-Aspose.Imaging עבור Java. קובץ OTG הוא תבנית ציור שנוצרת באמצעות תקן OpenDocument העוקב אחר מפרט OASIS Office Applications 1.0. הוא מייצג את ארגון ברירת המחדל של רכיבי ציור עבור תמונה וקטורית שניתן להשתמש בהם כדי לשפר עוד יותר את תוכן הקובץ.
+<p align=justify>אתה יכול להמיר באופן תכנותי מפורמט OTG לפורמטים זמינים אחרים באמצעות
+Aspose.Imaging עבור Java. קובץ OTG הוא תבנית ציור שנוצרת באמצעות תקן OpenDocument העוקב אחר מפרט OASIS Office Applications 1.0. הוא מייצג את ארגון ברירת המחדל של רכיבי ציור עבור תמונה וקטורית שניתן להשתמש בהם כדי לשפר עוד יותר את תוכן הקובץ.</p>
 <br/>
 ישנן ההמרות הבאות על הסיפון:
 {{% /blocks/products/pf/feature-page-section %}}

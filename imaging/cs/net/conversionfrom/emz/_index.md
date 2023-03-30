@@ -13,7 +13,7 @@ description: Pomocí Aspose.Imaging můžete snadno převést z formátu EMZ(Win
 
 
 {{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu z formátu EMZ (Windows Compressed Enhanced Metafile)" %}}
-Aspose.Imaging umožňuje automatizovat mnoho konverzí z EMZ do jiných formátů na platformě .NET. Soubor s příponou EMZ je komprimovaný soubor obrázku, konkrétněji označovaný jako soubor Windows Compressed Enhanced Metafile.
+<p align=justify>Aspose.Imaging umožňuje automatizovat mnoho konverzí z EMZ do jiných formátů na platformě .NET. Soubor s příponou EMZ je komprimovaný soubor obrázku, konkrétněji označovaný jako soubor Windows Compressed Enhanced Metafile.</p>
 <br/>
 Úplný seznam podporovaných konverzí z EMZ:
 {{% /blocks/products/pf/feature-page-section %}}

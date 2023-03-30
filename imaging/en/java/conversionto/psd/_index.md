@@ -13,7 +13,7 @@ description: Using Aspose.Imaging you can convert to PSD from other formats usin
 
 
 {{% blocks/products/pf/feature-page-section  h2="All supported image formats convertible to PSD using Aspose.Imaging for Java" %}}
-Using Aspose.Imaging library you can programmatically convert to PSD from other supported image formats using Java platform.
+<p align=justify>Using Aspose.Imaging library you can programmatically convert to PSD from other supported image formats using Java platform.</p>
 <br/>
 Supported conversions:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,7 +13,7 @@ description: 使用 Aspose.Imaging，您可以輕鬆地將 J2K(小波壓縮圖�
 
 
 {{% blocks/products/pf/feature-page-section  h2="從 J2K(小波壓縮圖像) 轉換的所有支持的圖像格式" %}}
-Aspose.Imaging 允許在 .NET 平台上自動進行從 J2K 到其他格式的大量轉換。 J2K 文件是使用小波壓縮而不是 DCT 壓縮壓縮的圖像。
+<p align=justify>Aspose.Imaging 允許在 .NET 平台上自動進行從 J2K 到其他格式的大量轉換。 J2K 文件是使用小波壓縮而不是 DCT 壓縮壓縮的圖像。</p>
 <br/>
 J2K 支持的轉換的完整列表：
 {{% /blocks/products/pf/feature-page-section %}}

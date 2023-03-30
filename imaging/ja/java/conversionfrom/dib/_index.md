@@ -13,8 +13,8 @@ description: Aspose.Imaging は、Java プラットフォームを使用して D
 
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java を使用して DIB(デバイスに依存しないビットマップ) 画像から変換できる幅広い画像フォーマット" %}}
-次を使用して、DIB 形式から他の使用可能な形式にプログラムで変換できます。
-Aspose.Imaging for Java。 DIB（Device Independent Bitmap）ファイルは、標準のビットマップファイル（BMP）と構造が似ていますが、ヘッダーが異なるラスターイメージファイルです。これは、WindowsおよびmacOSで標準のBMPファイルを開くことができるほとんどすべてのアプリケーションで開くことができます。 DIBはバイナリファイルであり、BMPと同様の複雑なファイル形式を持っています。
+<p align=justify>次を使用して、DIB 形式から他の使用可能な形式にプログラムで変換できます。
+Aspose.Imaging for Java。 DIB（Device Independent Bitmap）ファイルは、標準のビットマップファイル（BMP）と構造が似ていますが、ヘッダーが異なるラスターイメージファイルです。これは、WindowsおよびmacOSで標準のBMPファイルを開くことができるほとんどすべてのアプリケーションで開くことができます。 DIBはバイナリファイルであり、BMPと同様の複雑なファイル形式を持っています。</p>
 <br/>
 機内では次の変換があります。
 {{% /blocks/products/pf/feature-page-section %}}

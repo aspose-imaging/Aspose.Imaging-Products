@@ -13,7 +13,7 @@ description: Usando Aspose.Imaging puede convertir a JPEG desde otros formatos u
 
 
 {{% blocks/products/pf/feature-page-section  h2="Todos los formatos de imagen admitidos convertibles a JPEG usando Aspose.Imaging para Java" %}}
-Con la biblioteca Aspose.Imaging, puede convertir mediante programación a JPEG desde otros formatos de imagen admitidos mediante la plataforma Java.
+<p align=justify>Con la biblioteca Aspose.Imaging, puede convertir mediante programación a JPEG desde otros formatos de imagen admitidos mediante la plataforma Java.</p>
 <br/>
 Conversiones admitidas:
 {{% /blocks/products/pf/feature-page-section %}}

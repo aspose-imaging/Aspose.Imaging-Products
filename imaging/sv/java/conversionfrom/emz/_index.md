@@ -13,8 +13,8 @@ description: Aspose.Imaging kan enkelt konvertera från EMZ(Windows komprimerad 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Brett spektrum av bildformat som kan konverteras från EMZ(Windows komprimerad förbättrad metafil)-bilder med Aspose.Imaging för Java" %}}
-Du kan programmatiskt konvertera från formatet EMZ till andra tillgängliga format med hjälp av
-Aspose.Imaging för Java. En fil med filtillägget EMZ är en komprimerad bildfil, mer specifikt kallad en Windows Compressed Enhanced Metafile-fil
+<p align=justify>Du kan programmatiskt konvertera från formatet EMZ till andra tillgängliga format med hjälp av
+Aspose.Imaging för Java. En fil med filtillägget EMZ är en komprimerad bildfil, mer specifikt kallad en Windows Compressed Enhanced Metafile-fil</p>
 <br/>
 Det finns följande konverteringar ombord:
 {{% /blocks/products/pf/feature-page-section %}}

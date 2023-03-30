@@ -13,7 +13,7 @@ description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi dari
 
 
 {{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari OTG(Standar Dokumen Terbuka)" %}}
-Aspose.Imaging memungkinkan mengotomatiskan banyak konversi dari OTG ke format lain di platform .NET. File OTG adalah template gambar yang dibuat menggunakan standar OpenDocument yang mengikuti spesifikasi OASIS Office Applications 1.0. Ini mewakili organisasi default elemen gambar untuk gambar vektor yang dapat digunakan untuk lebih menyempurnakan isi file.
+<p align=justify>Aspose.Imaging memungkinkan mengotomatiskan banyak konversi dari OTG ke format lain di platform .NET. File OTG adalah template gambar yang dibuat menggunakan standar OpenDocument yang mengikuti spesifikasi OASIS Office Applications 1.0. Ini mewakili organisasi default elemen gambar untuk gambar vektor yang dapat digunakan untuk lebih menyempurnakan isi file.</p>
 <br/>
 Daftar lengkap konversi yang didukung dari OTG:
 {{% /blocks/products/pf/feature-page-section %}}

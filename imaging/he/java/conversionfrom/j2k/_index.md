@@ -13,8 +13,8 @@ description: Aspose.Imaging יכולה להמיר בקלות מ-J2K(תמונה �
 
 
 {{% blocks/products/pf/feature-page-section  h2="ספקטרום רחב של פורמטים של תמונות שניתן להמיר מתמונות J2K(תמונה דחוסה של Wavelet) באמצעות Aspose.Imaging עבור Java" %}}
-אתה יכול להמיר באופן תכנותי מפורמט J2K לפורמטים זמינים אחרים באמצעות
-Aspose.Imaging עבור Java. קובץ J2K הוא תמונה שנדחסת באמצעות דחיסת wavelet במקום דחיסת DCT.
+<p align=justify>אתה יכול להמיר באופן תכנותי מפורמט J2K לפורמטים זמינים אחרים באמצעות
+Aspose.Imaging עבור Java. קובץ J2K הוא תמונה שנדחסת באמצעות דחיסת wavelet במקום דחיסת DCT.</p>
 <br/>
 ישנן ההמרות הבאות על הסיפון:
 {{% /blocks/products/pf/feature-page-section %}}

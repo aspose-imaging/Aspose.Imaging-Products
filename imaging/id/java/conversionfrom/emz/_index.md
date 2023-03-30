@@ -13,8 +13,8 @@ description: Aspose.Imaging dapat dengan mudah mengonversi dari EMZ(Metafile Ter
 
 
 {{% blocks/products/pf/feature-page-section  h2="Spektrum luas format gambar yang dapat dikonversi dari gambar EMZ(Metafile Terkompresi Windows yang Ditingkatkan) menggunakan Aspose.Imaging untuk Java" %}}
-Anda dapat secara terprogram mengonversi dari format EMZ ke format lain yang tersedia menggunakan
-Aspose.Imaging untuk Java. File dengan ekstensi file EMZ adalah file gambar terkompresi, lebih khusus disebut sebagai file Metafile Windows Compressed Enhanced
+<p align=justify>Anda dapat secara terprogram mengonversi dari format EMZ ke format lain yang tersedia menggunakan
+Aspose.Imaging untuk Java. File dengan ekstensi file EMZ adalah file gambar terkompresi, lebih khusus disebut sebagai file Metafile Windows Compressed Enhanced</p>
 <br/>
 Ada konversi berikut di pesawat:
 {{% /blocks/products/pf/feature-page-section %}}

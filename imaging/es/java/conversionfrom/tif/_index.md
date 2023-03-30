@@ -13,8 +13,8 @@ description: Aspose.Imaging puede convertir fácilmente de TIF(Formato de imagen
 
 
 {{% blocks/products/pf/feature-page-section  h2="Amplio espectro de formatos de imagen que se pueden convertir a partir de imágenes TIF(Formato de imagen etiquetada) usando Aspose.Imaging para Java" %}}
-Puede convertir programáticamente del formato TIF a otros formatos disponibles usando
-Aspose. Imaging para Java. 
+<p align=justify>Puede convertir programáticamente del formato TIF a otros formatos disponibles usando
+Aspose. Imaging para Java. </p>
 <br/>
 Hay las siguientes conversiones a bordo:
 {{% /blocks/products/pf/feature-page-section %}}

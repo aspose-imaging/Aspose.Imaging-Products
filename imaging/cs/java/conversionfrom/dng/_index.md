@@ -13,8 +13,8 @@ description: Aspose.Imaging lze snadno převést z formátu DNG(Obrázek z digit
 
 
 {{% blocks/products/pf/feature-page-section  h2="Široké spektrum obrazových formátů, které lze převést z obrázků DNG(Obrázek z digitálního fotoaparátu) pomocí Aspose.Imaging for Java" %}}
-Můžete programově převádět z formátu DNG do jiných dostupných formátů pomocí
-Aspose.Imaging pro Javu. DNG je obrazový formát digitálního fotoaparátu používaný pro ukládání nezpracovaných souborů. Byl vyvinut společností Adobe v září 2004. V podstatě byl vyvinut pro digitální fotografii. DNG je rozšířením standardního formátu TIFF/EP a významně využívá metadata. Aby mohli fotografové manipulovat s nezpracovanými daty z digitálních fotoaparátů se snadnou flexibilitou a uměleckým ovládáním, volí soubory camera raw. Formáty JPEG a TIFF ukládají snímky, které zpracovává fotoaparát, proto v těchto formátech není k dispozici mnoho prostoru pro úpravy.
+<p align=justify>Můžete programově převádět z formátu DNG do jiných dostupných formátů pomocí
+Aspose.Imaging pro Javu. DNG je obrazový formát digitálního fotoaparátu používaný pro ukládání nezpracovaných souborů. Byl vyvinut společností Adobe v září 2004. V podstatě byl vyvinut pro digitální fotografii. DNG je rozšířením standardního formátu TIFF/EP a významně využívá metadata. Aby mohli fotografové manipulovat s nezpracovanými daty z digitálních fotoaparátů se snadnou flexibilitou a uměleckým ovládáním, volí soubory camera raw. Formáty JPEG a TIFF ukládají snímky, které zpracovává fotoaparát, proto v těchto formátech není k dispozici mnoho prostoru pro úpravy.</p>
 <br/>
 Na palubě jsou následující konverze:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,7 +13,7 @@ description: Aspose.Imaging'i kullanarak Java kullanan diğer biçimlerden APNG 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java kullanılarak APNG biçimine dönüştürülebilen desteklenen tüm görüntü biçimleri" %}}
-Aspose.Imaging kütüphanesini kullanarak, Java platformunu kullanarak desteklenen diğer resim biçimlerinden programlı olarak APNG biçimine dönüştürebilirsiniz.
+<p align=justify>Aspose.Imaging kütüphanesini kullanarak, Java platformunu kullanarak desteklenen diğer resim biçimlerinden programlı olarak APNG biçimine dönüştürebilirsiniz.</p>
 <br/>
 Desteklenen dönüşümler:
 {{% /blocks/products/pf/feature-page-section %}}

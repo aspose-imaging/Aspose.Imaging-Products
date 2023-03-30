@@ -13,8 +13,8 @@ description: Aspose.Imaging lze snadno převést z formátu EPS(Encapsulated Pos
 
 
 {{% blocks/products/pf/feature-page-section  h2="Široké spektrum obrazových formátů, které lze převést z obrázků EPS(Encapsulated PostScript Language) pomocí Aspose.Imaging for Java" %}}
-Můžete programově převádět z formátu EPS do jiných dostupných formátů pomocí
-Aspose.Imaging pro Javu. Soubory s příponou EPS v podstatě popisují program jazyka Encapsulated PostScript, který popisuje vzhled jedné stránky. Název "Encapsulated", protože může být zahrnut nebo zapouzdřen v popisu stránky v jiném jazyce PostScript. Tento formát souboru založený na skriptech může obsahovat libovolnou kombinaci textu, grafiky a obrázků. Soubory EPS mohou obsahovat bitmapový náhledový obrázek zapouzdřený uvnitř pro zobrazení aplikacemi, které mohou takové soubory otevřít. Soubory EPS lze převést do standardních obrazových formátů, jako jsou JPG, PNG, TIFF a PDF pomocí různých aplikací, např. Adobe Illustrator, Photoshop a PaintShop Pro. Kvůli bezpečnostní chybě v souborech EPS vypnuly ​​Office 2016, Office 2013, Office 2010 a Office 365 možnost vkládat soubory EPS do dokumentů Office.
+<p align=justify>Můžete programově převádět z formátu EPS do jiných dostupných formátů pomocí
+Aspose.Imaging pro Javu. Soubory s příponou EPS v podstatě popisují program jazyka Encapsulated PostScript, který popisuje vzhled jedné stránky. Název "Encapsulated", protože může být zahrnut nebo zapouzdřen v popisu stránky v jiném jazyce PostScript. Tento formát souboru založený na skriptech může obsahovat libovolnou kombinaci textu, grafiky a obrázků. Soubory EPS mohou obsahovat bitmapový náhledový obrázek zapouzdřený uvnitř pro zobrazení aplikacemi, které mohou takové soubory otevřít. Soubory EPS lze převést do standardních obrazových formátů, jako jsou JPG, PNG, TIFF a PDF pomocí různých aplikací, např. Adobe Illustrator, Photoshop a PaintShop Pro. Kvůli bezpečnostní chybě v souborech EPS vypnuly ​​Office 2016, Office 2013, Office 2010 a Office 365 možnost vkládat soubory EPS do dokumentů Office.</p>
 <br/>
 Na palubě jsou následující konverze:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,8 +13,8 @@ description: Aspose.Imaging kan eenvoudig converteren van CDR(Vector tekening af
 
 
 {{% blocks/products/pf/feature-page-section  h2="Breed spectrum aan afbeeldingsindelingen die kunnen worden geconverteerd van CDR(Vector tekening afbeelding)-afbeeldingen met Aspose.Imaging voor Java" %}}
-U kunt programmatisch converteren van het CDR-formaat naar andere beschikbare formaten met behulp van
-Aspose.Imaging voor Java. Een CDR-bestand is een vectortekeningafbeeldingsbestand dat oorspronkelijk is gemaakt met CorelDRAW voor het opslaan van gecodeerde en gecomprimeerde digitale afbeeldingen. Zo'n tekenbestand bevat tekst, lijnen, vormen, afbeeldingen, kleuren en effecten voor vectorweergave van afbeeldingsinhoud. CDR-bestanden kunnen worden geopend met CorelDRAW als de primaire toepassing en kunnen ook worden geconverteerd naar andere formaten zoals PDF, JPG, PNG, BMP en AI. Het kan worden gebruikt voor de weergave van verschillende grafische gegevens zoals brochures, tabloids, enveloppen en ansichtkaarten. Naast CorelDRAW kunnen ook andere Corel-producten, zoals Corel Paintshop Pro en CorelDRAW Graphics suite, de CDR-bestandsindelingen openen.
+<p align=justify>U kunt programmatisch converteren van het CDR-formaat naar andere beschikbare formaten met behulp van
+Aspose.Imaging voor Java. Een CDR-bestand is een vectortekeningafbeeldingsbestand dat oorspronkelijk is gemaakt met CorelDRAW voor het opslaan van gecodeerde en gecomprimeerde digitale afbeeldingen. Zo'n tekenbestand bevat tekst, lijnen, vormen, afbeeldingen, kleuren en effecten voor vectorweergave van afbeeldingsinhoud. CDR-bestanden kunnen worden geopend met CorelDRAW als de primaire toepassing en kunnen ook worden geconverteerd naar andere formaten zoals PDF, JPG, PNG, BMP en AI. Het kan worden gebruikt voor de weergave van verschillende grafische gegevens zoals brochures, tabloids, enveloppen en ansichtkaarten. Naast CorelDRAW kunnen ook andere Corel-producten, zoals Corel Paintshop Pro en CorelDRAW Graphics suite, de CDR-bestandsindelingen openen.</p>
 <br/>
 Er zijn de volgende verbouwingen aan boord:
 {{% /blocks/products/pf/feature-page-section %}}

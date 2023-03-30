@@ -13,7 +13,7 @@ description: Med Aspose.Imaging för .NET-bibliotek är det lätt att konvertera
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alla omvandlingar som stöds till ICO(Windows-ikonen)-format med Aspose.Imaging för .NET-bibliotek" %}}
-Med hjälp av Aspose.Imaging-biblioteket kan du programmatiskt konvertera olika bildformat till ICO-bild. ICO-filformatet är ett bildfilformat för datorikoner i Microsoft Windows. ICO-filer innehåller en eller flera små bilder i flera storlekar och färgdjup, så att de kan skalas på lämpligt sätt. I Windows måste alla körbara filer som visar en ikon för användaren, på skrivbordet, i Start-menyn eller i Utforskaren i Windows, bära ikonen i ICO-format.
+<p align=justify>Med hjälp av Aspose.Imaging-biblioteket kan du programmatiskt konvertera olika bildformat till ICO-bild. ICO-filformatet är ett bildfilformat för datorikoner i Microsoft Windows. ICO-filer innehåller en eller flera små bilder i flera storlekar och färgdjup, så att de kan skalas på lämpligt sätt. I Windows måste alla körbara filer som visar en ikon för användaren, på skrivbordet, i Start-menyn eller i Utforskaren i Windows, bära ikonen i ICO-format.</p>
 <br/>
 Följande konverteringar stöds:
 {{% /blocks/products/pf/feature-page-section %}}

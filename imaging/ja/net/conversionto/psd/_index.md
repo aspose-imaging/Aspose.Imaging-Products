@@ -13,7 +13,7 @@ description: Aspose.Imaging for .NET ライブラリを使用すると、サポ�
 
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for .NET ライブラリを使用した PSD(Photoshopドキュメント) 形式へのすべてのサポートされている変換" %}}
-Aspose.Imaging ライブラリを使用すると、さまざまな画像フォーマットをプログラムで PSD 画像に変換できます。 PSD、Photoshop Documentは、グラフィックデザインと開発に使用されるAdobePhotoshopのネイティブファイル形式を表します。 PSDファイルには、画像レイヤー、調整レイヤー、レイヤーマスク、注釈、ファイル情報、キーワード、その他のPhotoshop固有の要素が含まれる場合があります。
+<p align=justify>Aspose.Imaging ライブラリを使用すると、さまざまな画像フォーマットをプログラムで PSD 画像に変換できます。 PSD、Photoshop Documentは、グラフィックデザインと開発に使用されるAdobePhotoshopのネイティブファイル形式を表します。 PSDファイルには、画像レイヤー、調整レイヤー、レイヤーマスク、注釈、ファイル情報、キーワード、その他のPhotoshop固有の要素が含まれる場合があります。</p>
 <br/>
 次の変換がサポートされています。
 {{% /blocks/products/pf/feature-page-section %}}

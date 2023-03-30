@@ -13,7 +13,7 @@ description: Usando Aspose.Imaging para la biblioteca .NET, es fácil convertir 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Todas las conversiones admitidas al formato BMP(Imagen de mapa de bits) usando Aspose.Imaging para la biblioteca .NET" %}}
-Con la biblioteca Aspose.Imaging, puede convertir mediante programación varios formatos de imagen a la imagen BMP. Los archivos que tienen la extensión .BMP representan archivos de imagen de mapa de bits que se utilizan para almacenar imágenes digitales de mapa de bits. Estas imágenes son independientes del adaptador de gráficos y también se denominan formato de archivo de mapa de bits independiente del dispositivo (DIB). Esta independencia sirve para abrir el archivo en múltiples plataformas, como Microsoft Windows y Mac. El formato de archivo BMP puede almacenar datos como imágenes digitales bidimensionales tanto en formato monocromático como en color con varias profundidades de color.
+<p align=justify>Con la biblioteca Aspose.Imaging, puede convertir mediante programación varios formatos de imagen a la imagen BMP. Los archivos que tienen la extensión .BMP representan archivos de imagen de mapa de bits que se utilizan para almacenar imágenes digitales de mapa de bits. Estas imágenes son independientes del adaptador de gráficos y también se denominan formato de archivo de mapa de bits independiente del dispositivo (DIB). Esta independencia sirve para abrir el archivo en múltiples plataformas, como Microsoft Windows y Mac. El formato de archivo BMP puede almacenar datos como imágenes digitales bidimensionales tanto en formato monocromático como en color con varias profundidades de color. </p>
 <br/>
 Se admiten las siguientes conversiones:
 {{% /blocks/products/pf/feature-page-section %}}

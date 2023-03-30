@@ -13,7 +13,7 @@ description: Naudodami Aspose.Imaging galite konvertuoti į JP2 iš kitų format
 
 
 {{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai konvertuojami į JP2 naudojant Aspose.Imaging for Java" %}}
-Naudodami Aspose.Imaging biblioteką galite programiškai konvertuoti į JP2 iš kitų palaikomų vaizdo formatų naudodami Java platformą.
+<p align=justify>Naudodami Aspose.Imaging biblioteką galite programiškai konvertuoti į JP2 iš kitų palaikomų vaizdo formatų naudodami Java platformą.</p>
 <br/>
 Palaikomos konversijos:
 {{% /blocks/products/pf/feature-page-section %}}

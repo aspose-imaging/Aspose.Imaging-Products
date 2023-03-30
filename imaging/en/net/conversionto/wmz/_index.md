@@ -13,7 +13,7 @@ description: Using Aspose.Imaging for .NET library it is easy to convert to WMZ(
 
 
 {{% blocks/products/pf/feature-page-section  h2="All supported conversions to WMZ(Compressed Windows Media Player Skin) format using Aspose.Imaging for .NET library" %}}
-Using Aspose.Imaging library you can programmatically convert various image formats to WMZ image. WMZ is a file extension for a skin file format in/for/used by Windows Media Player. A WMZ file is basically a zipped WMF file in XML.
+<p align=justify>Using Aspose.Imaging library you can programmatically convert various image formats to WMZ image. WMZ is a file extension for a skin file format in/for/used by Windows Media Player. A WMZ file is basically a zipped WMF file in XML.</p>
 <br/>
 Following conversions are supported :
 {{% /blocks/products/pf/feature-page-section %}}

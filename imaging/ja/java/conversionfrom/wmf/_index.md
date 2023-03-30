@@ -13,8 +13,8 @@ description: Aspose.Imaging は、Java プラットフォームを使用して W
 
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java を使用して WMF(MicrosoftWindowsメタファイル) 画像から変換できる幅広い画像フォーマット" %}}
-次を使用して、WMF 形式から他の使用可能な形式にプログラムで変換できます。
-Aspose.Imaging for Java。 WMF拡張子の付いたファイルは、ベクターおよびビットマップ形式の画像データを格納するためのMicrosoft Windowsメタファイル（WMF）を表します。より正確に言うと、WMFは、デバイスに依存しないグラフィックファイル形式のベクターファイル形式カテゴリに属しています。 Windowsグラフィックデバイスインターフェイス（GDI）は、WMFファイルに格納されている関数を使用して、画面に画像を表示します。拡張メタファイル（EMF）として知られるWMFのより拡張されたバージョンは、フォーマットをより豊富な機能にするために後で公開されました。実際には、WMFはSVGに似ています。
+<p align=justify>次を使用して、WMF 形式から他の使用可能な形式にプログラムで変換できます。
+Aspose.Imaging for Java。 WMF拡張子の付いたファイルは、ベクターおよびビットマップ形式の画像データを格納するためのMicrosoft Windowsメタファイル（WMF）を表します。より正確に言うと、WMFは、デバイスに依存しないグラフィックファイル形式のベクターファイル形式カテゴリに属しています。 Windowsグラフィックデバイスインターフェイス（GDI）は、WMFファイルに格納されている関数を使用して、画面に画像を表示します。拡張メタファイル（EMF）として知られるWMFのより拡張されたバージョンは、フォーマットをより豊富な機能にするために後で公開されました。実際には、WMFはSVGに似ています。</p>
 <br/>
 機内では次の変換があります。
 {{% /blocks/products/pf/feature-page-section %}}

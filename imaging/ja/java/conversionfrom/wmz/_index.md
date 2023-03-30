@@ -13,8 +13,8 @@ description: Aspose.Imaging は、Java プラットフォームを使用して W
 
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java を使用して WMZ(圧縮されたWindowsMediaPlayerスキン) 画像から変換できる幅広い画像フォーマット" %}}
-次を使用して、WMZ 形式から他の使用可能な形式にプログラムで変換できます。
-Aspose.Imaging for Java。 WMZは、Windows MediaPlayerで使用される/使用される/使用されるスキンファイル形式のファイル拡張子です。 WMZファイルは、基本的にXML形式のzip形式のWMFファイルです。
+<p align=justify>次を使用して、WMZ 形式から他の使用可能な形式にプログラムで変換できます。
+Aspose.Imaging for Java。 WMZは、Windows MediaPlayerで使用される/使用される/使用されるスキンファイル形式のファイル拡張子です。 WMZファイルは、基本的にXML形式のzip形式のWMFファイルです。</p>
 <br/>
 機内では次の変換があります。
 {{% /blocks/products/pf/feature-page-section %}}

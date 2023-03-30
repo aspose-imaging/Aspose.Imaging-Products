@@ -13,8 +13,8 @@ description: Aspose.Imaging pode converter facilmente de J2K(Imagem Comprimida W
 
 
 {{% blocks/products/pf/feature-page-section  h2="Amplo espectro de formatos de imagem que podem ser convertidos de imagens J2K(Imagem Comprimida Wavelet) usando Aspose.Imaging para Java" %}}
-Você pode converter programaticamente do formato J2K para outros formatos disponíveis usando
-Aspose.Imaging para Java. Um arquivo J2K é uma imagem compactada usando a compactação wavelet em vez da compactação DCT.
+<p align=justify>Você pode converter programaticamente do formato J2K para outros formatos disponíveis usando
+Aspose.Imaging para Java. Um arquivo J2K é uma imagem compactada usando a compactação wavelet em vez da compactação DCT.</p>
 <br/>
 Existem as seguintes conversões a bordo:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,7 +13,7 @@ description: 使用 Aspose.Imaging，您可以轻松地将 SVGZ(可缩放矢量�
 
 
 {{% blocks/products/pf/feature-page-section  h2="从 SVGZ(可缩放矢量图形 (.SVG) 文件的压缩版本。) 转换的所有支持的图像格式" %}}
-Aspose.Imaging 允许在 .NET 平台上自动进行从 SVGZ 到其他格式的大量转换。 扩展名为 .svgz 的文件是可缩放矢量图形 (.SVG) 文件的压缩版本。它使用 gzip 压缩，包含 XML 格式的数据。 SVGZ 文件支持透明度、渐变、动画和过滤器。与默认的 SVG 文件相比，SVGZ 文件的大小更小，这种减小的文件大小有助于在线传输图形文件。图形设计师使用 Adob​​e Illustrator、Corel PaintShop Pro 等工具创建 SVGZ 文件。但是，可以通过在发送图像数据时在 Apache 服务器中启用 GZip 压缩来生成 SVGZ 文件。
+<p align=justify>Aspose.Imaging 允许在 .NET 平台上自动进行从 SVGZ 到其他格式的大量转换。 扩展名为 .svgz 的文件是可缩放矢量图形 (.SVG) 文件的压缩版本。它使用 gzip 压缩，包含 XML 格式的数据。 SVGZ 文件支持透明度、渐变、动画和过滤器。与默认的 SVG 文件相比，SVGZ 文件的大小更小，这种减小的文件大小有助于在线传输图形文件。图形设计师使用 Adob​​e Illustrator、Corel PaintShop Pro 等工具创建 SVGZ 文件。但是，可以通过在发送图像数据时在 Apache 服务器中启用 GZip 压缩来生成 SVGZ 文件。</p>
 <br/>
 SVGZ 支持的转换的完整列表：
 {{% /blocks/products/pf/feature-page-section %}}

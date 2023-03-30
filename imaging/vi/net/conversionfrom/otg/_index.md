@@ -13,7 +13,7 @@ description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng chuyển đ�
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tất cả các định dạng hình ảnh được hỗ trợ để chuyển đổi từ OTG(Tiêu chuẩn OpenDocument)" %}}
-Aspose.Imaging cho phép tự động hóa rất nhiều chuyển đổi từ OTG sang các định dạng khác trên nền tảng .NET. Tệp OTG là mẫu bản vẽ được tạo bằng tiêu chuẩn OpenDocument tuân theo đặc điểm kỹ thuật của Ứng dụng Văn phòng OASIS 1.0. Nó đại diện cho tổ chức mặc định của các phần tử vẽ cho hình ảnh vectơ có thể được sử dụng để nâng cao hơn nữa nội dung của tệp.
+<p align=justify>Aspose.Imaging cho phép tự động hóa rất nhiều chuyển đổi từ OTG sang các định dạng khác trên nền tảng .NET. Tệp OTG là mẫu bản vẽ được tạo bằng tiêu chuẩn OpenDocument tuân theo đặc điểm kỹ thuật của Ứng dụng Văn phòng OASIS 1.0. Nó đại diện cho tổ chức mặc định của các phần tử vẽ cho hình ảnh vectơ có thể được sử dụng để nâng cao hơn nữa nội dung của tệp.</p>
 <br/>
 Danh sách đầy đủ các chuyển đổi được hỗ trợ từ OTG:
 {{% /blocks/products/pf/feature-page-section %}}

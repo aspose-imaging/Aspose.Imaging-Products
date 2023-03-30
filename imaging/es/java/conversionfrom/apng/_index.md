@@ -13,8 +13,8 @@ description: Aspose.Imaging puede convertir fácilmente de APNG(Gráficos de red
 
 
 {{% blocks/products/pf/feature-page-section  h2="Amplio espectro de formatos de imagen que se pueden convertir a partir de imágenes APNG(Gráficos de red portátiles animados) usando Aspose.Imaging para Java" %}}
-Puede convertir programáticamente del formato APNG a otros formatos disponibles usando
-Aspose. Imaging para Java. Un archivo con la extensión .apng (Animated Portable Network Graphics) es un formato gráfico de trama y es una extensión no oficial de Portable Network Graphic (PNG). Se compone de múltiples fotogramas (cada uno de imagen PNG) que representa una secuencia de animación. Esto proporciona una visualización similar a la de un archivo GIF. Los archivos APNG admiten imágenes de 24 bits y transparencia de 8 bits. APNG es compatible con versiones anteriores de archivos GIF no animados. Los archivos APNG usan la misma extensión .png y pueden abrirse con aplicaciones como Mozilla Firefox, Chrome con compatibilidad con APNG, aplicaciones de iMessage para iOS 10.
+<p align=justify>Puede convertir programáticamente del formato APNG a otros formatos disponibles usando
+Aspose. Imaging para Java. Un archivo con la extensión .apng (Animated Portable Network Graphics) es un formato gráfico de trama y es una extensión no oficial de Portable Network Graphic (PNG). Se compone de múltiples fotogramas (cada uno de imagen PNG) que representa una secuencia de animación. Esto proporciona una visualización similar a la de un archivo GIF. Los archivos APNG admiten imágenes de 24 bits y transparencia de 8 bits. APNG es compatible con versiones anteriores de archivos GIF no animados. Los archivos APNG usan la misma extensión .png y pueden abrirse con aplicaciones como Mozilla Firefox, Chrome con compatibilidad con APNG, aplicaciones de iMessage para iOS 10.</p>
 <br/>
 Hay las siguientes conversiones a bordo:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,7 +13,7 @@ description: Using Aspose.Imaging for .NET you can easily convert from J2K(Wavel
 
 
 {{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from J2K(Wavelet Compressed Image)" %}}
-Aspose.Imaging allows automate a lot of conversions from J2K to other formats on .NET platform. A J2K file is an image that is compressed using the wavelet compression instead of DCT compression.
+<p align=justify>Aspose.Imaging allows automate a lot of conversions from J2K to other formats on .NET platform. A J2K file is an image that is compressed using the wavelet compression instead of DCT compression.</p>
 <br/>
 Full list of supported conversions from J2K:
 {{% /blocks/products/pf/feature-page-section %}}

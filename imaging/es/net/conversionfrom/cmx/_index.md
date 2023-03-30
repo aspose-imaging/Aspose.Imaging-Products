@@ -13,7 +13,7 @@ description: Usando Aspose.Imaging puede convertir fácilmente de CMX(Imagen de 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Todos los formatos de imagen admitidos para convertir desde CMX(Imagen de intercambio de Corel)" %}}
-Aspose.Imaging permite automatizar muchas conversiones de CMX a otros formatos en la plataforma .NET. Los archivos con la extensión CMX son un formato de archivo de imagen de Corel Exchange que las aplicaciones CorelSuite utilizan como presentación. Contiene datos de imagen como gráficos vectoriales, así como metadatos que describen la imagen. Los archivos CMX se pueden abrir con CorelDraw, Corel Presentations, Paint Shop Pro y algunas versiones de Adobe Illustrator.
+<p align=justify>Aspose.Imaging permite automatizar muchas conversiones de CMX a otros formatos en la plataforma .NET. Los archivos con la extensión CMX son un formato de archivo de imagen de Corel Exchange que las aplicaciones CorelSuite utilizan como presentación. Contiene datos de imagen como gráficos vectoriales, así como metadatos que describen la imagen. Los archivos CMX se pueden abrir con CorelDraw, Corel Presentations, Paint Shop Pro y algunas versiones de Adobe Illustrator.</p>
 <br/>
 Lista completa de conversiones admitidas de CMX:
 {{% /blocks/products/pf/feature-page-section %}}

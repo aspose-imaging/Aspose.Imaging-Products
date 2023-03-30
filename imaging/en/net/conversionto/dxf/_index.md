@@ -13,7 +13,7 @@ description: Using Aspose.Imaging for .NET library it is easy to convert to DXF(
 
 
 {{% blocks/products/pf/feature-page-section  h2="All supported conversions to DXF(Drawing Interchange Format, or Drawing Exchange Format,) format using Aspose.Imaging for .NET library" %}}
-Using Aspose.Imaging library you can programmatically convert various image formats to DXF image. DXF, Drawing Interchange Format, or Drawing Exchange Format, is a tagged data representation of AutoCAD drawing file. Each element in the file has a prefix integer number called a group code. This group code actually represents the element that follows and indicates the meaning of a data element for a given object type. DXF makes it possible to represent almost all user-specified information in a drawing file.
+<p align=justify>Using Aspose.Imaging library you can programmatically convert various image formats to DXF image. DXF, Drawing Interchange Format, or Drawing Exchange Format, is a tagged data representation of AutoCAD drawing file. Each element in the file has a prefix integer number called a group code. This group code actually represents the element that follows and indicates the meaning of a data element for a given object type. DXF makes it possible to represent almost all user-specified information in a drawing file.</p>
 <br/>
 Following conversions are supported :
 {{% /blocks/products/pf/feature-page-section %}}

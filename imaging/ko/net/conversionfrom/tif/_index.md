@@ -13,7 +13,7 @@ description: Aspose.Imaging을 사용하면 TIF(태그가 지정된 이미지 �
 
 
 {{% blocks/products/pf/feature-page-section  h2="TIF(태그가 지정된 이미지 형식)에서 변환할 지원되는 모든 이미지 형식 " %}}
-Aspose.Imaging을 사용하면 TIF에서 .NET 플랫폼의 다른 형식으로 많은 변환을 자동화할 수 있습니다.
+<p align=justify>Aspose.Imaging을 사용하면 TIF에서 .NET 플랫폼의 다른 형식으로 많은 변환을 자동화할 수 있습니다.</p>
 <br/>
 TIF에서 지원되는 변환의 전체 목록:
 {{% /blocks/products/pf/feature-page-section %}}

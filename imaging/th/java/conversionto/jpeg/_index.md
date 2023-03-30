@@ -13,7 +13,7 @@ description: การใช้ Aspose.Imaging คุณสามารถแป
 
 
 {{% blocks/products/pf/feature-page-section  h2="รูปแบบภาพที่รองรับทั้งหมดแปลงเป็น JPEG โดยใช้ Aspose.Imaging สำหรับ Java" %}}
-การใช้ไลบรารี Aspose.Imaging คุณสามารถแปลงเป็น JPEG จากรูปแบบรูปภาพอื่นๆ ที่รองรับทางโปรแกรมโดยใช้แพลตฟอร์ม Java
+<p align=justify>การใช้ไลบรารี Aspose.Imaging คุณสามารถแปลงเป็น JPEG จากรูปแบบรูปภาพอื่นๆ ที่รองรับทางโปรแกรมโดยใช้แพลตฟอร์ม Java</p>
 <br/>
 การแปลงที่รองรับ:
 {{% /blocks/products/pf/feature-page-section %}}

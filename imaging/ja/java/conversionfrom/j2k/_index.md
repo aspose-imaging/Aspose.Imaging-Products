@@ -13,8 +13,8 @@ description: Aspose.Imaging は、Java プラットフォームを使用して J
 
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java を使用して J2K(ウェーブレット圧縮画像) 画像から変換できる幅広い画像フォーマット" %}}
-次を使用して、J2K 形式から他の使用可能な形式にプログラムで変換できます。
-Aspose.Imaging for Java。 J2Kファイルは、DCT圧縮の代わりにウェーブレット圧縮を使用して圧縮された画像です。
+<p align=justify>次を使用して、J2K 形式から他の使用可能な形式にプログラムで変換できます。
+Aspose.Imaging for Java。 J2Kファイルは、DCT圧縮の代わりにウェーブレット圧縮を使用して圧縮された画像です。</p>
 <br/>
 機内では次の変換があります。
 {{% /blocks/products/pf/feature-page-section %}}

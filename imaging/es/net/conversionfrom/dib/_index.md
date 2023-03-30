@@ -13,7 +13,7 @@ description: Usando Aspose.Imaging puede convertir fácilmente de DIB(Mapa de bi
 
 
 {{% blocks/products/pf/feature-page-section  h2="Todos los formatos de imagen admitidos para convertir desde DIB(Mapa de bits independiente del dispositivo)" %}}
-Aspose.Imaging permite automatizar muchas conversiones de DIB a otros formatos en la plataforma .NET. Un archivo DIB (mapa de bits independiente del dispositivo) es un archivo de imagen de trama que tiene una estructura similar a los archivos de mapa de bits estándar (BMP), pero tiene un encabezado diferente. Se puede abrir con casi todas las aplicaciones que pueden abrir un archivo BMP estándar en Windows y macOS. DIB son archivos binarios y tienen un formato de archivo complejo similar a BMP.
+<p align=justify>Aspose.Imaging permite automatizar muchas conversiones de DIB a otros formatos en la plataforma .NET. Un archivo DIB (mapa de bits independiente del dispositivo) es un archivo de imagen de trama que tiene una estructura similar a los archivos de mapa de bits estándar (BMP), pero tiene un encabezado diferente. Se puede abrir con casi todas las aplicaciones que pueden abrir un archivo BMP estándar en Windows y macOS. DIB son archivos binarios y tienen un formato de archivo complejo similar a BMP.</p>
 <br/>
 Lista completa de conversiones admitidas de DIB:
 {{% /blocks/products/pf/feature-page-section %}}

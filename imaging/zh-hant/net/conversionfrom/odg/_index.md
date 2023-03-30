@@ -13,7 +13,7 @@ description: 使用 Aspose.Imaging，您可以輕鬆地將 ODG(Apache OpenOffice
 
 
 {{% blocks/products/pf/feature-page-section  h2="從 ODG(Apache OpenOffice 繪圖格式) 轉換的所有支持的圖像格式" %}}
-Aspose.Imaging 允許在 .NET 平台上自動進行從 ODG 到其他格式的大量轉換。 Apache OpenOffice 的 Draw 應用程序使用 ODG 文件格式將繪圖元素存儲為矢量圖像。它遵循結構信息標準推進 (OASIS) 概述的基於 XML 的文件格式規範。 ODG 將繪圖表示為使用點、線和曲線的矢量圖像。除了 OpenOffice，LibreOffice 和其他應用程序還提供對 ODG 文件格式的支持。例如，OpenOffice 支持的其他格式包括 ODT、ODF、ODP 和 ODS。
+<p align=justify>Aspose.Imaging 允許在 .NET 平台上自動進行從 ODG 到其他格式的大量轉換。 Apache OpenOffice 的 Draw 應用程序使用 ODG 文件格式將繪圖元素存儲為矢量圖像。它遵循結構信息標準推進 (OASIS) 概述的基於 XML 的文件格式規範。 ODG 將繪圖表示為使用點、線和曲線的矢量圖像。除了 OpenOffice，LibreOffice 和其他應用程序還提供對 ODG 文件格式的支持。例如，OpenOffice 支持的其他格式包括 ODT、ODF、ODP 和 ODS。</p>
 <br/>
 ODG 支持的轉換的完整列表：
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,7 +13,7 @@ description: Mit Aspose.Imaging können Sie ganz einfach von ICO(Windows-Symbol)
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bildformate zum Konvertieren von ICO(Windows-Symbol)" %}}
-Aspose.Imaging ermöglicht die Automatisierung vieler Konvertierungen von ICO in andere Formate auf der .NET-Plattform. Das ICO-Dateiformat ist ein Bilddateiformat für Computersymbole in Microsoft Windows. ICO-Dateien enthalten ein oder mehrere kleine Bilder in mehreren Größen und Farbtiefen, sodass sie entsprechend skaliert werden können. In Windows müssen alle ausführbaren Dateien, die dem Benutzer auf dem Desktop, im Startmenü oder im Windows Explorer ein Symbol anzeigen, das Symbol im ICO-Format enthalten.
+<p align=justify>Aspose.Imaging ermöglicht die Automatisierung vieler Konvertierungen von ICO in andere Formate auf der .NET-Plattform. Das ICO-Dateiformat ist ein Bilddateiformat für Computersymbole in Microsoft Windows. ICO-Dateien enthalten ein oder mehrere kleine Bilder in mehreren Größen und Farbtiefen, sodass sie entsprechend skaliert werden können. In Windows müssen alle ausführbaren Dateien, die dem Benutzer auf dem Desktop, im Startmenü oder im Windows Explorer ein Symbol anzeigen, das Symbol im ICO-Format enthalten.</p>
 <br/>
 Vollständige Liste der unterstützten Konvertierungen von ICO:
 {{% /blocks/products/pf/feature-page-section %}}

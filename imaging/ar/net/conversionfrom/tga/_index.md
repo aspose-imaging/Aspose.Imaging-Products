@@ -13,7 +13,7 @@ description: باستخدام Aspose.Imaging ، يمكنك بسهولة التح
 
 
 {{% blocks/products/pf/feature-page-section  h2="جميع تنسيقات الصور المدعومة المراد تحويلها من TGA (تارجا جرافيك)" %}}
-يسمح Aspose.Imaging بأتمتة الكثير من التحويلات من TGA إلى تنسيقات أخرى على منصة .NET. Truevision TGA ، الذي يشار إليه غالبًا باسم TARGA ، هو تنسيق ملف رسومات نقطية تم إنشاؤه بواسطة Truevision Inc. (الآن جزء من Avid Technology). كان هذا هو التنسيق الأصلي للوحات TARGA و VISTA ، والتي كانت أول بطاقات رسومية لأجهزة الكمبيوتر المتوافقة مع IBM لدعم عرض Highcolor / truecolor.
+<p align=justify>يسمح Aspose.Imaging بأتمتة الكثير من التحويلات من TGA إلى تنسيقات أخرى على منصة .NET. Truevision TGA ، الذي يشار إليه غالبًا باسم TARGA ، هو تنسيق ملف رسومات نقطية تم إنشاؤه بواسطة Truevision Inc. (الآن جزء من Avid Technology). كان هذا هو التنسيق الأصلي للوحات TARGA و VISTA ، والتي كانت أول بطاقات رسومية لأجهزة الكمبيوتر المتوافقة مع IBM لدعم عرض Highcolor / truecolor.</p>
 <br/>
 القائمة الكاملة للتحويلات المدعومة من TGA:
 {{% /blocks/products/pf/feature-page-section %}}

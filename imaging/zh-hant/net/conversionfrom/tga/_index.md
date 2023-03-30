@@ -13,7 +13,7 @@ description: 使用 Aspose.Imaging，您可以輕鬆地將 TGA(塔加圖形) 轉
 
 
 {{% blocks/products/pf/feature-page-section  h2="從 TGA(塔加圖形) 轉換的所有支持的圖像格式" %}}
-Aspose.Imaging 允許在 .NET 平台上自動進行從 TGA 到其他格式的大量轉換。 Truevision TGA，通常稱為 TARGA，是由 Truevision Inc.（現為 Avid Technology 的一部分）創建的光柵圖形文件格式。它是 TARGA 和 VISTA 板的原生格式，它們是 IBM 兼容 PC 上第一款支持高彩/真彩顯示的顯卡。
+<p align=justify>Aspose.Imaging 允許在 .NET 平台上自動進行從 TGA 到其他格式的大量轉換。 Truevision TGA，通常稱為 TARGA，是由 Truevision Inc.（現為 Avid Technology 的一部分）創建的光柵圖形文件格式。它是 TARGA 和 VISTA 板的原生格式，它們是 IBM 兼容 PC 上第一款支持高彩/真彩顯示的顯卡。</p>
 <br/>
 TGA 支持的轉換的完整列表：
 {{% /blocks/products/pf/feature-page-section %}}

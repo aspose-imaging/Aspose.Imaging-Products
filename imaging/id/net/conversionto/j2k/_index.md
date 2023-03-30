@@ -13,7 +13,7 @@ description: Menggunakan Aspose.Imaging untuk pustaka .NET, mudah untuk mengonve
 
 
 {{% blocks/products/pf/feature-page-section  h2="Semua konversi yang didukung ke format J2K(Gambar Terkompresi Wavelet) menggunakan Aspose.Imaging untuk perpustakaan .NET" %}}
-Dengan menggunakan pustaka Aspose.Imaging, Anda dapat secara terprogram mengonversi berbagai format gambar menjadi gambar J2K. File J2K adalah gambar yang dikompres menggunakan kompresi wavelet, bukan kompresi DCT.
+<p align=justify>Dengan menggunakan pustaka Aspose.Imaging, Anda dapat secara terprogram mengonversi berbagai format gambar menjadi gambar J2K. File J2K adalah gambar yang dikompres menggunakan kompresi wavelet, bukan kompresi DCT.</p>
 <br/>
 Konversi berikut didukung :
 {{% /blocks/products/pf/feature-page-section %}}

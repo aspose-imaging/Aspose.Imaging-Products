@@ -13,8 +13,8 @@ description: Aspose.Imaging kan enkelt konvertera från CDR(Vektor Ritning Bild)
 
 
 {{% blocks/products/pf/feature-page-section  h2="Brett spektrum av bildformat som kan konverteras från CDR(Vektor Ritning Bild)-bilder med Aspose.Imaging för Java" %}}
-Du kan programmatiskt konvertera från formatet CDR till andra tillgängliga format med hjälp av
-Aspose.Imaging för Java. En CDR-fil är en vektorritningsbildfil som skapas med CorelDRAW för att lagra digitala bilder kodade och komprimerade. En sådan ritfil innehåller text, linjer, former, bilder, färger och effekter för vektorrepresentation av bildinnehåll. CDR-filer kan öppnas med CorelDRAW som primärapplikation och kan även konverteras till andra format som PDF, JPG, PNG, BMP och AI. Den kan användas för representation av olika grafiska data som broschyrer, tabloider, kuvert och vykort. Förutom CorelDRAW kan andra Corel-produkter som Corel Paintshop Pro och CorelDRAW Graphics Suite också öppna CDR-filformaten.
+<p align=justify>Du kan programmatiskt konvertera från formatet CDR till andra tillgängliga format med hjälp av
+Aspose.Imaging för Java. En CDR-fil är en vektorritningsbildfil som skapas med CorelDRAW för att lagra digitala bilder kodade och komprimerade. En sådan ritfil innehåller text, linjer, former, bilder, färger och effekter för vektorrepresentation av bildinnehåll. CDR-filer kan öppnas med CorelDRAW som primärapplikation och kan även konverteras till andra format som PDF, JPG, PNG, BMP och AI. Den kan användas för representation av olika grafiska data som broschyrer, tabloider, kuvert och vykort. Förutom CorelDRAW kan andra Corel-produkter som Corel Paintshop Pro och CorelDRAW Graphics Suite också öppna CDR-filformaten.</p>
 <br/>
 Det finns följande konverteringar ombord:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,8 +13,8 @@ description: Aspose.Imaging は、Java プラットフォームを使用して O
 
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java を使用して ODG(ApacheOpenOfficeDrawフォーマット) 画像から変換できる幅広い画像フォーマット" %}}
-次を使用して、ODG 形式から他の使用可能な形式にプログラムで変換できます。
-Aspose.Imaging for Java。 ODGファイル形式は、Apache OpenOfficeのDrawアプリケーションで、描画要素をベクターイメージとして保存するために使用されます。これは、Advancement of Structural Information Standards（OASIS）によって概説されているXMLベースのファイル形式の仕様に従います。 ODGは、点、線、曲線を使用して図面をベクトル画像として表します。 OpenOfficeに加えて、LibreOfficeおよびその他のアプリケーションもODGファイル形式での作業をサポートします。たとえば、OpenOfficeでサポートされている他の形式には、ODT、ODF、ODP、ODSなどがあります。
+<p align=justify>次を使用して、ODG 形式から他の使用可能な形式にプログラムで変換できます。
+Aspose.Imaging for Java。 ODGファイル形式は、Apache OpenOfficeのDrawアプリケーションで、描画要素をベクターイメージとして保存するために使用されます。これは、Advancement of Structural Information Standards（OASIS）によって概説されているXMLベースのファイル形式の仕様に従います。 ODGは、点、線、曲線を使用して図面をベクトル画像として表します。 OpenOfficeに加えて、LibreOfficeおよびその他のアプリケーションもODGファイル形式での作業をサポートします。たとえば、OpenOfficeでサポートされている他の形式には、ODT、ODF、ODP、ODSなどがあります。</p>
 <br/>
 機内では次の変換があります。
 {{% /blocks/products/pf/feature-page-section %}}

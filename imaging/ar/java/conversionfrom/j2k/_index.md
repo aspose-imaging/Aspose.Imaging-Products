@@ -13,8 +13,8 @@ description: Aspose.Imaging يمكن تحويله بسهولة من J2K(صورة
 
 
 {{% blocks/products/pf/feature-page-section  h2="مجموعة واسعة من تنسيقات الصور التي يمكن تحويلها من صور J2K(صورة مضغوطة Wavelet) باستخدام Aspose.Imaging for Java" %}}
-يمكنك تحويل برمجيًا من تنسيق J2K إلى تنسيقات أخرى متاحة باستخدام
-Aspose.Imaging لجافا. ملف J2K هو صورة يتم ضغطها باستخدام ضغط الموجة بدلاً من ضغط DCT.
+<p align=justify>يمكنك تحويل برمجيًا من تنسيق J2K إلى تنسيقات أخرى متاحة باستخدام
+Aspose.Imaging لجافا. ملف J2K هو صورة يتم ضغطها باستخدام ضغط الموجة بدلاً من ضغط DCT.</p>
 <br/>
 هناك التحويلات التالية على متن الطائرة:
 {{% /blocks/products/pf/feature-page-section %}}

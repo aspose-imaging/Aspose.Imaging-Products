@@ -13,8 +13,8 @@ description: Aspose.Imaging dapat dengan mudah mengonversi dari TIF(Format Gamba
 
 
 {{% blocks/products/pf/feature-page-section  h2="Spektrum luas format gambar yang dapat dikonversi dari gambar TIF(Format Gambar yang Ditandai) menggunakan Aspose.Imaging untuk Java" %}}
-Anda dapat secara terprogram mengonversi dari format TIF ke format lain yang tersedia menggunakan
-Aspose.Imaging untuk Java. 
+<p align=justify>Anda dapat secara terprogram mengonversi dari format TIF ke format lain yang tersedia menggunakan
+Aspose.Imaging untuk Java. </p>
 <br/>
 Ada konversi berikut di pesawat:
 {{% /blocks/products/pf/feature-page-section %}}

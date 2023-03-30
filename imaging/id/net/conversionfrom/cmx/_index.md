@@ -13,7 +13,7 @@ description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi dari
 
 
 {{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari CMX(Corel Exchange Gambar)" %}}
-Aspose.Imaging memungkinkan mengotomatiskan banyak konversi dari CMX ke format lain di platform .NET. File dengan ekstensi CMX adalah format file gambar Corel Exchange yang digunakan sebagai presentasi oleh aplikasi CorelSuite. Ini berisi data gambar sebagai grafik vektor serta metadata yang menggambarkan gambar. File CMX dapat dibuka dengan CorelDraw, Corel Presentations, Paint Shop Pro dan beberapa versi Adobe Illustrator.
+<p align=justify>Aspose.Imaging memungkinkan mengotomatiskan banyak konversi dari CMX ke format lain di platform .NET. File dengan ekstensi CMX adalah format file gambar Corel Exchange yang digunakan sebagai presentasi oleh aplikasi CorelSuite. Ini berisi data gambar sebagai grafik vektor serta metadata yang menggambarkan gambar. File CMX dapat dibuka dengan CorelDraw, Corel Presentations, Paint Shop Pro dan beberapa versi Adobe Illustrator.</p>
 <br/>
 Daftar lengkap konversi yang didukung dari CMX:
 {{% /blocks/products/pf/feature-page-section %}}

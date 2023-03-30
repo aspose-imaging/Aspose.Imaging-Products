@@ -13,8 +13,8 @@ description: Aspose.Imaging API can easily convert from JPEG(Joint Photographic 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Wide spectrum of image formats that can be converted from JPEG(Joint Photographic Experts Group) images using Aspose.Imaging for Java" %}}
-You can programmaticaly convert from JPEG format to other available formats using 
-Aspose.Imaging for Java. A JPEG is a type of image format that is saved using the method of lossy compression. The output image, as result of compression, is a trade-off between storage size and image quality. Users can adjust the compression level to achieve the desired quality level while at the same time reduce the storage size. Image quality is negligibly affected if 10:1 compression is applied to the image. The higher the compression value, the higher the degradation in image quality.
+<p align=justify>You can programmaticaly convert from JPEG format to other available formats using 
+Aspose.Imaging for Java. A JPEG is a type of image format that is saved using the method of lossy compression. The output image, as result of compression, is a trade-off between storage size and image quality. Users can adjust the compression level to achieve the desired quality level while at the same time reduce the storage size. Image quality is negligibly affected if 10:1 compression is applied to the image. The higher the compression value, the higher the degradation in image quality.</p>
 <br/>
 There are following conversions on board:
 {{% /blocks/products/pf/feature-page-section %}}

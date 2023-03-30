@@ -13,7 +13,7 @@ description: باستخدام Aspose.Imaging ، يمكنك بسهولة التح
 
 
 {{% blocks/products/pf/feature-page-section  h2="جميع تنسيقات الصور المدعومة المراد تحويلها من WMZ (غلاف Windows Media Player المضغوط)" %}}
-يسمح Aspose.Imaging بأتمتة الكثير من التحويلات من WMZ إلى تنسيقات أخرى على منصة .NET. WMZ هو امتداد ملف لتنسيق ملف السطح في / من أجل / يستخدم بواسطة Windows Media Player. ملف WMZ هو في الأساس ملف WMF مضغوط بتنسيق XML.
+<p align=justify>يسمح Aspose.Imaging بأتمتة الكثير من التحويلات من WMZ إلى تنسيقات أخرى على منصة .NET. WMZ هو امتداد ملف لتنسيق ملف السطح في / من أجل / يستخدم بواسطة Windows Media Player. ملف WMZ هو في الأساس ملف WMF مضغوط بتنسيق XML.</p>
 <br/>
 القائمة الكاملة للتحويلات المدعومة من WMZ:
 {{% /blocks/products/pf/feature-page-section %}}

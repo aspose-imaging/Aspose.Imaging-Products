@@ -13,7 +13,7 @@ description: Za pomocą Aspose.Imaging możesz konwertować do WEBP z innych for
 
 
 {{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty obrazów konwertowalne do WEBP przy użyciu Aspose.Imaging for Java" %}}
-Korzystając z biblioteki Aspose.Imaging możesz programowo konwertować do WEBP z innych obsługiwanych formatów obrazów przy użyciu platformy Java.
+<p align=justify>Korzystając z biblioteki Aspose.Imaging możesz programowo konwertować do WEBP z innych obsługiwanych formatów obrazów przy użyciu platformy Java.</p>
 <br/>
 Obsługiwane konwersje:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,7 +13,7 @@ description: การใช้ Aspose.Imaging สำหรับไลบรา
 
 
 {{% blocks/products/pf/feature-page-section  h2="การแปลงที่รองรับทั้งหมดเป็นรูปแบบ TGA(Targa Graphic) โดยใช้ Aspose.Imaging สำหรับไลบรารี .NET" %}}
-การใช้ไลบรารี Aspose.Imaging คุณสามารถแปลงรูปแบบรูปภาพต่างๆ เป็นรูปภาพ TGA โดยทางโปรแกรม Truevision TGA ซึ่งมักเรียกกันว่า TARGA เป็นรูปแบบไฟล์กราฟิกแรสเตอร์ที่สร้างโดย Truevision Inc. (ปัจจุบันเป็นส่วนหนึ่งของ Avid Technology) เป็นรูปแบบดั้งเดิมของบอร์ด TARGA และ VISTA ซึ่งเป็นกราฟิกการ์ดรุ่นแรกสำหรับพีซีที่เข้ากันได้กับ IBM เพื่อรองรับการแสดงผล Highcolor/truecolor
+<p align=justify>การใช้ไลบรารี Aspose.Imaging คุณสามารถแปลงรูปแบบรูปภาพต่างๆ เป็นรูปภาพ TGA โดยทางโปรแกรม Truevision TGA ซึ่งมักเรียกกันว่า TARGA เป็นรูปแบบไฟล์กราฟิกแรสเตอร์ที่สร้างโดย Truevision Inc. (ปัจจุบันเป็นส่วนหนึ่งของ Avid Technology) เป็นรูปแบบดั้งเดิมของบอร์ด TARGA และ VISTA ซึ่งเป็นกราฟิกการ์ดรุ่นแรกสำหรับพีซีที่เข้ากันได้กับ IBM เพื่อรองรับการแสดงผล Highcolor/truecolor</p>
 <br/>
 รองรับการแปลงต่อไปนี้:
 {{% /blocks/products/pf/feature-page-section %}}

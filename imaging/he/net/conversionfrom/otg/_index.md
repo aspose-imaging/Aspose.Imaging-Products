@@ -13,7 +13,7 @@ description: באמצעות Aspose.Imaging תוכל להמיר בקלות מ- OT
 
 
 {{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה מ-OTG(OpenDocument Standard)" %}}
-Aspose.Imaging מאפשר לבצע אוטומציה של המרות רבות מ-OTG לפורמטים אחרים בפלטפורמת NET. קובץ OTG הוא תבנית ציור שנוצרת באמצעות תקן OpenDocument העוקב אחר מפרט OASIS Office Applications 1.0. הוא מייצג את ארגון ברירת המחדל של רכיבי ציור עבור תמונה וקטורית שניתן להשתמש בהם כדי לשפר עוד יותר את תוכן הקובץ.
+<p align=justify>Aspose.Imaging מאפשר לבצע אוטומציה של המרות רבות מ-OTG לפורמטים אחרים בפלטפורמת NET. קובץ OTG הוא תבנית ציור שנוצרת באמצעות תקן OpenDocument העוקב אחר מפרט OASIS Office Applications 1.0. הוא מייצג את ארגון ברירת המחדל של רכיבי ציור עבור תמונה וקטורית שניתן להשתמש בהם כדי לשפר עוד יותר את תוכן הקובץ.</p>
 <br/>
 רשימה מלאה של המרות נתמכות מ-OTG:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,8 +13,8 @@ description: Aspose.Imaging, Java platformunu kullanarak J2K(Dalgacık Sıkışt
 
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java kullanılarak J2K(Dalgacık Sıkıştırılmış Görüntü) görüntülerden dönüştürülebilen geniş görüntü formatları yelpazesi" %}}
-kullanarak J2K biçiminden diğer kullanılabilir biçimlere programlı olarak dönüştürebilirsiniz.
-Java için Aspose.Imaging. J2K dosyası, DCT sıkıştırması yerine dalgacık sıkıştırması kullanılarak sıkıştırılmış bir görüntüdür.
+<p align=justify>kullanarak J2K biçiminden diğer kullanılabilir biçimlere programlı olarak dönüştürebilirsiniz.
+Java için Aspose.Imaging. J2K dosyası, DCT sıkıştırması yerine dalgacık sıkıştırması kullanılarak sıkıştırılmış bir görüntüdür.</p>
 <br/>
 Gemide aşağıdaki dönüşümler var:
 {{% /blocks/products/pf/feature-page-section %}}

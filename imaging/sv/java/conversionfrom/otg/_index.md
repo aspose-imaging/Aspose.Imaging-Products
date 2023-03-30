@@ -13,8 +13,8 @@ description: Aspose.Imaging kan enkelt konvertera från OTG(OpenDocument Standar
 
 
 {{% blocks/products/pf/feature-page-section  h2="Brett spektrum av bildformat som kan konverteras från OTG(OpenDocument Standard)-bilder med Aspose.Imaging för Java" %}}
-Du kan programmatiskt konvertera från formatet OTG till andra tillgängliga format med hjälp av
-Aspose.Imaging för Java. En OTG-fil är en ritmall som skapas med OpenDocument-standarden som följer OASIS Office Applications 1.0-specifikationen. Det representerar standardorganisationen för ritelement för en vektorbild som kan användas för att ytterligare förbättra innehållet i filen.
+<p align=justify>Du kan programmatiskt konvertera från formatet OTG till andra tillgängliga format med hjälp av
+Aspose.Imaging för Java. En OTG-fil är en ritmall som skapas med OpenDocument-standarden som följer OASIS Office Applications 1.0-specifikationen. Det representerar standardorganisationen för ritelement för en vektorbild som kan användas för att ytterligare förbättra innehållet i filen.</p>
 <br/>
 Det finns följande konverteringar ombord:
 {{% /blocks/products/pf/feature-page-section %}}

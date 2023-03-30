@@ -13,7 +13,7 @@ description: 使用 Aspose.Imaging for .NET 库可以轻松地将其他支持的
 
 
 {{% blocks/products/pf/feature-page-section  h2="所有支持使用 Aspose.Imaging for .NET 库转换为 EMZ(Windows 压缩增强元文件) 格式" %}}
-使用 Aspose.Imaging 库，您可以以编程方式将各种图像格式转换为 EMZ 图像。 具有 EMZ 文件扩展名的文件是压缩图像文件，更具体地称为 Windows 压缩增强元文件文件
+<p align=justify>使用 Aspose.Imaging 库，您可以以编程方式将各种图像格式转换为 EMZ 图像。 具有 EMZ 文件扩展名的文件是压缩图像文件，更具体地称为 Windows 压缩增强元文件文件</p>
 <br/>
 支持以下转换：
 {{% /blocks/products/pf/feature-page-section %}}

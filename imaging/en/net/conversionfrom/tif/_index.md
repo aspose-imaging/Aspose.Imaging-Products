@@ -13,7 +13,7 @@ description: Using Aspose.Imaging for .NET you can easily convert from TIF(Tagge
 
 
 {{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from TIF(Tagged Image Format)" %}}
-Aspose.Imaging allows automate a lot of conversions from TIF to other formats on .NET platform. 
+<p align=justify>Aspose.Imaging allows automate a lot of conversions from TIF to other formats on .NET platform. </p>
 <br/>
 Full list of supported conversions from TIF:
 {{% /blocks/products/pf/feature-page-section %}}

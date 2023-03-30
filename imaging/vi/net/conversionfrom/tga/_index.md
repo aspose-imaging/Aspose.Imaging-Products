@@ -13,7 +13,7 @@ description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng chuyển đ�
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tất cả các định dạng hình ảnh được hỗ trợ để chuyển đổi từ TGA(Đồ họa Targa)" %}}
-Aspose.Imaging cho phép tự động hóa rất nhiều chuyển đổi từ TGA sang các định dạng khác trên nền tảng .NET. Truevision TGA, thường được gọi là TARGA, là một định dạng tệp đồ họa raster được tạo bởi Truevision Inc. (hiện là một phần của Avid Technology). Đó là định dạng ban đầu của bảng TARGA và VISTA, là những thẻ đồ họa đầu tiên dành cho PC tương thích với IBM hỗ trợ hiển thị Highcolor / truecolor.
+<p align=justify>Aspose.Imaging cho phép tự động hóa rất nhiều chuyển đổi từ TGA sang các định dạng khác trên nền tảng .NET. Truevision TGA, thường được gọi là TARGA, là một định dạng tệp đồ họa raster được tạo bởi Truevision Inc. (hiện là một phần của Avid Technology). Đó là định dạng ban đầu của bảng TARGA và VISTA, là những thẻ đồ họa đầu tiên dành cho PC tương thích với IBM hỗ trợ hiển thị Highcolor / truecolor.</p>
 <br/>
 Danh sách đầy đủ các chuyển đổi được hỗ trợ từ TGA:
 {{% /blocks/products/pf/feature-page-section %}}

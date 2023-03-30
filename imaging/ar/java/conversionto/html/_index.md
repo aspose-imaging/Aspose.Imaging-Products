@@ -13,7 +13,7 @@ description: باستخدام Aspose.Imaging ، يمكنك التحويل إلى
 
 
 {{% blocks/products/pf/feature-page-section  h2="جميع تنسيقات الصور المدعومة قابلة للتحويل إلى HTML باستخدام Aspose.Imaging for Java" %}}
-باستخدام مكتبة Aspose.Imaging ، يمكنك التحويل برمجيًا إلى HTML من تنسيقات الصور المدعومة الأخرى باستخدام نظام Java الأساسي.
+<p align=justify>باستخدام مكتبة Aspose.Imaging ، يمكنك التحويل برمجيًا إلى HTML من تنسيقات الصور المدعومة الأخرى باستخدام نظام Java الأساسي.</p>
 <br/>
 التحويلات المدعومة:
 {{% /blocks/products/pf/feature-page-section %}}

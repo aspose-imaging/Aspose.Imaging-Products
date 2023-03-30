@@ -13,7 +13,7 @@ description: باستخدام Aspose.Imaging ، يمكنك بسهولة التح
 
 
 {{% blocks/products/pf/feature-page-section  h2="جميع تنسيقات الصور المدعومة المراد تحويلها من J2K (صورة مضغوطة Wavelet)" %}}
-يسمح Aspose.Imaging بأتمتة الكثير من التحويلات من J2K إلى تنسيقات أخرى على منصة .NET. ملف J2K هو صورة يتم ضغطها باستخدام ضغط الموجة بدلاً من ضغط DCT.
+<p align=justify>يسمح Aspose.Imaging بأتمتة الكثير من التحويلات من J2K إلى تنسيقات أخرى على منصة .NET. ملف J2K هو صورة يتم ضغطها باستخدام ضغط الموجة بدلاً من ضغط DCT.</p>
 <br/>
 القائمة الكاملة للتحويلات المدعومة من J2K:
 {{% /blocks/products/pf/feature-page-section %}}

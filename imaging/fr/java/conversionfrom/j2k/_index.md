@@ -13,8 +13,8 @@ description: Aspose.Imaging peut facilement convertir de J2K(Image compressée e
 
 
 {{% blocks/products/pf/feature-page-section  h2="Large éventail de formats d'image pouvant être convertis à partir d'images J2K(Image compressée en ondelettes) à l'aide d'Aspose.Imaging pour Java" %}}
-Vous pouvez convertir par programmation du format J2K vers d'autres formats disponibles en utilisant
-Aspose.Imaging pour Java. Un fichier J2K est une image compressée à l'aide de la compression par ondelettes au lieu de la compression DCT.
+<p align=justify>Vous pouvez convertir par programmation du format J2K vers d'autres formats disponibles en utilisant
+Aspose.Imaging pour Java. Un fichier J2K est une image compressée à l'aide de la compression par ondelettes au lieu de la compression DCT.</p>
 <br/>
 Il y a les conversions suivantes à bord :
 {{% /blocks/products/pf/feature-page-section %}}

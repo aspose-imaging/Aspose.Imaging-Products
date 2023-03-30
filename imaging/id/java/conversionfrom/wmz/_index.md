@@ -13,8 +13,8 @@ description: Aspose.Imaging dapat dengan mudah mengonversi dari WMZ(Kulit Window
 
 
 {{% blocks/products/pf/feature-page-section  h2="Spektrum luas format gambar yang dapat dikonversi dari gambar WMZ(Kulit Windows Media Player Terkompresi) menggunakan Aspose.Imaging untuk Java" %}}
-Anda dapat secara terprogram mengonversi dari format WMZ ke format lain yang tersedia menggunakan
-Aspose.Imaging untuk Java. WMZ adalah ekstensi file untuk format file kulit di/untuk/digunakan oleh Windows Media Player. File WMZ pada dasarnya adalah file WMF zip dalam XML.
+<p align=justify>Anda dapat secara terprogram mengonversi dari format WMZ ke format lain yang tersedia menggunakan
+Aspose.Imaging untuk Java. WMZ adalah ekstensi file untuk format file kulit di/untuk/digunakan oleh Windows Media Player. File WMZ pada dasarnya adalah file WMF zip dalam XML.</p>
 <br/>
 Ada konversi berikut di pesawat:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,7 +13,7 @@ description: Aspose.Imaging을 사용하면 ODG(Apache OpenOffice 그리기 형�
 
 
 {{% blocks/products/pf/feature-page-section  h2="ODG(Apache OpenOffice 그리기 형식)에서 변환할 지원되는 모든 이미지 형식 ODG 파일 형식은 Apache OpenOffice의 그리기 응용 프로그램에서 그리기 요소를 벡터 이미지로 저장하는 데 사용됩니다. OASIS(구조 정보 표준의 발전)에서 설명한 XML 기반 파일 형식 사양을 따릅니다. ODG는 점, 선 및 곡선을 사용하여 도면을 벡터 이미지로 나타냅니다. OpenOffice 외에도 LibreOffice 및 기타 응용 프로그램은 ODG 파일 형식 작업을 지원합니다. 예를 들어 OpenOffice에서 지원하는 다른 형식에는 ODT, ODF, ODP 및 ODS가 있습니다." %}}
-Aspose.Imaging을 사용하면 ODG에서 .NET 플랫폼의 다른 형식으로 많은 변환을 자동화할 수 있습니다.
+<p align=justify>Aspose.Imaging을 사용하면 ODG에서 .NET 플랫폼의 다른 형식으로 많은 변환을 자동화할 수 있습니다.</p>
 <br/>
 ODG에서 지원되는 변환의 전체 목록:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,8 +13,8 @@ description: Aspose.Imaging יכולה להמיר בקלות מ-TIF(פורמט �
 
 
 {{% blocks/products/pf/feature-page-section  h2="ספקטרום רחב של פורמטים של תמונות שניתן להמיר מתמונות TIF(פורמט תמונה מתויג) באמצעות Aspose.Imaging עבור Java" %}}
-אתה יכול להמיר באופן תכנותי מפורמט TIF לפורמטים זמינים אחרים באמצעות
-Aspose.Imaging עבור Java. 
+<p align=justify>אתה יכול להמיר באופן תכנותי מפורמט TIF לפורמטים זמינים אחרים באמצעות
+Aspose.Imaging עבור Java. </p>
 <br/>
 ישנן ההמרות הבאות על הסיפון:
 {{% /blocks/products/pf/feature-page-section %}}

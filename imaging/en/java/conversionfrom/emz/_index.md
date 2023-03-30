@@ -13,8 +13,8 @@ description: Aspose.Imaging API can easily convert from EMZ(Windows Compressed E
 
 
 {{% blocks/products/pf/feature-page-section  h2="Wide spectrum of image formats that can be converted from EMZ(Windows Compressed Enhanced Metafile) images using Aspose.Imaging for Java" %}}
-You can programmaticaly convert from EMZ format to other available formats using 
-Aspose.Imaging for Java. A file with the EMZ file extension is a compressed image file, more specifically referred to as a Windows Compressed Enhanced Metafile file
+<p align=justify>You can programmaticaly convert from EMZ format to other available formats using 
+Aspose.Imaging for Java. A file with the EMZ file extension is a compressed image file, more specifically referred to as a Windows Compressed Enhanced Metafile file</p>
 <br/>
 There are following conversions on board:
 {{% /blocks/products/pf/feature-page-section %}}

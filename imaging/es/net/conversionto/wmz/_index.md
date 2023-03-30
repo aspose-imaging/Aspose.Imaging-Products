@@ -13,7 +13,7 @@ description: Usando Aspose.Imaging para la biblioteca .NET, es fácil convertir 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Todas las conversiones admitidas al formato WMZ(Máscara de Windows Media Player comprimida) usando Aspose.Imaging para la biblioteca .NET" %}}
-Con la biblioteca Aspose.Imaging, puede convertir mediante programación varios formatos de imagen a la imagen WMZ. WMZ es una extensión de archivo para un formato de archivo de máscara en/para/utilizado por Windows Media Player. Un archivo WMZ es básicamente un archivo WMF comprimido en XML.
+<p align=justify>Con la biblioteca Aspose.Imaging, puede convertir mediante programación varios formatos de imagen a la imagen WMZ. WMZ es una extensión de archivo para un formato de archivo de máscara en/para/utilizado por Windows Media Player. Un archivo WMZ es básicamente un archivo WMF comprimido en XML. </p>
 <br/>
 Se admiten las siguientes conversiones:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,8 +13,8 @@ description: Aspose.Imaging peut facilement convertir de ICO(Icône Windows) ver
 
 
 {{% blocks/products/pf/feature-page-section  h2="Large éventail de formats d'image pouvant être convertis à partir d'images ICO(Icône Windows) à l'aide d'Aspose.Imaging pour Java" %}}
-Vous pouvez convertir par programmation du format ICO vers d'autres formats disponibles en utilisant
-Aspose.Imaging pour Java. Le format de fichier ICO est un format de fichier image pour les icônes d'ordinateur dans Microsoft Windows. Les fichiers ICO contiennent une ou plusieurs petites images à plusieurs tailles et profondeurs de couleur, de sorte qu'elles peuvent être mises à l'échelle de manière appropriée. Sous Windows, tous les exécutables qui affichent une icône à l'utilisateur, sur le bureau, dans le menu Démarrer ou dans l'Explorateur Windows, doivent porter l'icône au format ICO.
+<p align=justify>Vous pouvez convertir par programmation du format ICO vers d'autres formats disponibles en utilisant
+Aspose.Imaging pour Java. Le format de fichier ICO est un format de fichier image pour les icônes d'ordinateur dans Microsoft Windows. Les fichiers ICO contiennent une ou plusieurs petites images à plusieurs tailles et profondeurs de couleur, de sorte qu'elles peuvent être mises à l'échelle de manière appropriée. Sous Windows, tous les exécutables qui affichent une icône à l'utilisateur, sur le bureau, dans le menu Démarrer ou dans l'Explorateur Windows, doivent porter l'icône au format ICO.</p>
 <br/>
 Il y a les conversions suivantes à bord :
 {{% /blocks/products/pf/feature-page-section %}}

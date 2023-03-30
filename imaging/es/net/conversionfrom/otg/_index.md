@@ -13,7 +13,7 @@ description: Usando Aspose.Imaging puede convertir fácilmente de OTG(Estándar 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Todos los formatos de imagen admitidos para convertir desde OTG(Estándar de documento abierto)" %}}
-Aspose.Imaging permite automatizar muchas conversiones de OTG a otros formatos en la plataforma .NET. Un archivo OTG es una plantilla de dibujo que se crea utilizando el estándar OpenDocument que sigue la especificación OASIS Office Applications 1.0. Representa la organización predeterminada de elementos de dibujo para una imagen vectorial que se puede utilizar para mejorar aún más el contenido del archivo.
+<p align=justify>Aspose.Imaging permite automatizar muchas conversiones de OTG a otros formatos en la plataforma .NET. Un archivo OTG es una plantilla de dibujo que se crea utilizando el estándar OpenDocument que sigue la especificación OASIS Office Applications 1.0. Representa la organización predeterminada de elementos de dibujo para una imagen vectorial que se puede utilizar para mejorar aún más el contenido del archivo.</p>
 <br/>
 Lista completa de conversiones admitidas de OTG:
 {{% /blocks/products/pf/feature-page-section %}}

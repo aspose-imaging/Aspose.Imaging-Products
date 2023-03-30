@@ -13,8 +13,8 @@ description: Aspose.Imaging lze snadno převést z formátu ODG(Formát Apache O
 
 
 {{% blocks/products/pf/feature-page-section  h2="Široké spektrum obrazových formátů, které lze převést z obrázků ODG(Formát Apache OpenOffice Draw) pomocí Aspose.Imaging for Java" %}}
-Můžete programově převádět z formátu ODG do jiných dostupných formátů pomocí
-Aspose.Imaging pro Javu. Formát souboru ODG používá aplikace Draw Apache OpenOffice k ukládání prvků výkresu jako vektorový obrázek. Řídí se specifikacemi formátu souborů založenými na XML, které jsou uvedeny v Advancement of Structural Information Standards (OASIS). ODG představuje kresby jako vektorové obrázky pomocí bodů, čar a křivek. Kromě OpenOffice, LibreOffice a další aplikace poskytují podporu pro práci se souborovým formátem ODG. Mezi další formáty podporované například OpenOffice patří ODT, ODF, ODP a ODS.
+<p align=justify>Můžete programově převádět z formátu ODG do jiných dostupných formátů pomocí
+Aspose.Imaging pro Javu. Formát souboru ODG používá aplikace Draw Apache OpenOffice k ukládání prvků výkresu jako vektorový obrázek. Řídí se specifikacemi formátu souborů založenými na XML, které jsou uvedeny v Advancement of Structural Information Standards (OASIS). ODG představuje kresby jako vektorové obrázky pomocí bodů, čar a křivek. Kromě OpenOffice, LibreOffice a další aplikace poskytují podporu pro práci se souborovým formátem ODG. Mezi další formáty podporované například OpenOffice patří ODT, ODF, ODP a ODS.</p>
 <br/>
 Na palubě jsou následující konverze:
 {{% /blocks/products/pf/feature-page-section %}}

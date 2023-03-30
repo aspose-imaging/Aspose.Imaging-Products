@@ -13,8 +13,8 @@ description: Aspose.Imaging kan eenvoudig converteren van TIF(Gelabelde afbeeldi
 
 
 {{% blocks/products/pf/feature-page-section  h2="Breed spectrum aan afbeeldingsindelingen die kunnen worden geconverteerd van TIF(Gelabelde afbeeldingsindeling)-afbeeldingen met Aspose.Imaging voor Java" %}}
-U kunt programmatisch converteren van het TIF-formaat naar andere beschikbare formaten met behulp van
-Aspose.Imaging voor Java. 
+<p align=justify>U kunt programmatisch converteren van het TIF-formaat naar andere beschikbare formaten met behulp van
+Aspose.Imaging voor Java. </p>
 <br/>
 Er zijn de volgende verbouwingen aan boord:
 {{% /blocks/products/pf/feature-page-section %}}

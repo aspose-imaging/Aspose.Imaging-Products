@@ -13,7 +13,7 @@ description: Aspose.Imaging を使用すると、TIF(タグ付き画像形式) �
 
 
 {{% blocks/products/pf/feature-page-section  h2="TIF(タグ付き画像形式) から変換する、サポートされているすべての画像形式" %}}
-Aspose.Imaging を使用すると、TIF から .NET プラットフォーム上の他のフォーマットへの多くの変換を自動化できます。 
+<p align=justify>Aspose.Imaging を使用すると、TIF から .NET プラットフォーム上の他のフォーマットへの多くの変換を自動化できます。 </p>
 <br/>
 サポートされている TIF からの変換の完全なリスト:
 {{% /blocks/products/pf/feature-page-section %}}

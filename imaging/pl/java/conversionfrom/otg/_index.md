@@ -13,8 +13,8 @@ description: Aspose.Imaging może łatwo konwertować z formatu OTG(Standard Ope
 
 
 {{% blocks/products/pf/feature-page-section  h2="Szerokie spektrum formatów obrazów, które można konwertować z obrazów OTG(Standard OpenDocument) przy użyciu Aspose.Imaging for Java" %}}
-Możesz programowo przekonwertować z formatu OTG na inne dostępne formaty za pomocą
-Aspose.Imaging dla Javy. Plik OTG to szablon rysunku utworzony przy użyciu standardu OpenDocument zgodnego ze specyfikacją OASIS Office Applications 1.0. Reprezentuje domyślną organizację elementów rysunkowych dla obrazu wektorowego, która może być wykorzystana do dalszego ulepszania zawartości pliku.
+<p align=justify>Możesz programowo przekonwertować z formatu OTG na inne dostępne formaty za pomocą
+Aspose.Imaging dla Javy. Plik OTG to szablon rysunku utworzony przy użyciu standardu OpenDocument zgodnego ze specyfikacją OASIS Office Applications 1.0. Reprezentuje domyślną organizację elementów rysunkowych dla obrazu wektorowego, która może być wykorzystana do dalszego ulepszania zawartości pliku.</p>
 <br/>
 Na pokładzie znajdują się następujące konwersje:
 {{% /blocks/products/pf/feature-page-section %}}

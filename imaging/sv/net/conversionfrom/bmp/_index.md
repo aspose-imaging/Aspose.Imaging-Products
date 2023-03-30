@@ -13,7 +13,7 @@ description: Med Aspose.Imaging kan du enkelt konvertera från BMP(Bitmap bild) 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alla bildformat som stöds att konvertera från BMP(Bitmap bild)" %}}
-Aspose.Imaging låter automatisera många konverteringar från BMP till andra format på .NET-plattformen. Filer med tillägget .BMP representerar bitmappsbildfiler som används för att lagra digitala bitmappsbilder. Dessa bilder är oberoende av grafikkort och kallas även enhetsoberoende bitmappsfilformat (DIB). Detta oberoende tjänar syftet att öppna filen på flera plattformar som Microsoft Windows och Mac. BMP-filformatet kan lagra data som tvådimensionella digitala bilder i både svartvitt och färgformat med olika färgdjup.
+<p align=justify>Aspose.Imaging låter automatisera många konverteringar från BMP till andra format på .NET-plattformen. Filer med tillägget .BMP representerar bitmappsbildfiler som används för att lagra digitala bitmappsbilder. Dessa bilder är oberoende av grafikkort och kallas även enhetsoberoende bitmappsfilformat (DIB). Detta oberoende tjänar syftet att öppna filen på flera plattformar som Microsoft Windows och Mac. BMP-filformatet kan lagra data som tvådimensionella digitala bilder i både svartvitt och färgformat med olika färgdjup.</p>
 <br/>
 Fullständig lista över omvandlingar som stöds från BMP:
 {{% /blocks/products/pf/feature-page-section %}}

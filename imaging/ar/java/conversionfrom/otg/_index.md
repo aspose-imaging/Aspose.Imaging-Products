@@ -13,8 +13,8 @@ description: Aspose.Imaging يمكن تحويله بسهولة من OTG(معيا
 
 
 {{% blocks/products/pf/feature-page-section  h2="مجموعة واسعة من تنسيقات الصور التي يمكن تحويلها من صور OTG(معيار OpenDocument) باستخدام Aspose.Imaging for Java" %}}
-يمكنك تحويل برمجيًا من تنسيق OTG إلى تنسيقات أخرى متاحة باستخدام
-Aspose.Imaging لجافا. ملف OTG هو قالب رسم تم إنشاؤه باستخدام معيار OpenDocument الذي يتبع مواصفات OASIS Office Applications 1.0. إنه يمثل التنظيم الافتراضي لعناصر الرسم لصورة متجهة يمكن استخدامها لزيادة تحسين محتويات الملف.
+<p align=justify>يمكنك تحويل برمجيًا من تنسيق OTG إلى تنسيقات أخرى متاحة باستخدام
+Aspose.Imaging لجافا. ملف OTG هو قالب رسم تم إنشاؤه باستخدام معيار OpenDocument الذي يتبع مواصفات OASIS Office Applications 1.0. إنه يمثل التنظيم الافتراضي لعناصر الرسم لصورة متجهة يمكن استخدامها لزيادة تحسين محتويات الملف.</p>
 <br/>
 هناك التحويلات التالية على متن الطائرة:
 {{% /blocks/products/pf/feature-page-section %}}

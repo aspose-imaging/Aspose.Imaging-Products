@@ -13,7 +13,7 @@ description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi dari
 
 
 {{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari EMZ(Metafile Terkompresi Windows yang Ditingkatkan)" %}}
-Aspose.Imaging memungkinkan mengotomatiskan banyak konversi dari EMZ ke format lain di platform .NET. File dengan ekstensi file EMZ adalah file gambar terkompresi, lebih khusus disebut sebagai file Metafile Windows Compressed Enhanced
+<p align=justify>Aspose.Imaging memungkinkan mengotomatiskan banyak konversi dari EMZ ke format lain di platform .NET. File dengan ekstensi file EMZ adalah file gambar terkompresi, lebih khusus disebut sebagai file Metafile Windows Compressed Enhanced</p>
 <br/>
 Daftar lengkap konversi yang didukung dari EMZ:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,7 +13,7 @@ description: Usando Aspose.Imaging puede convertir fácilmente de ODG(Formato de
 
 
 {{% blocks/products/pf/feature-page-section  h2="Todos los formatos de imagen admitidos para convertir desde ODG(Formato de dibujo de Apache OpenOffice)" %}}
-Aspose.Imaging permite automatizar muchas conversiones de ODG a otros formatos en la plataforma .NET. El formato de archivo ODG es utilizado por la aplicación Draw de Apache OpenOffice para almacenar elementos de dibujo como una imagen vectorial. Sigue las especificaciones de formato de archivo basadas en XML descritas por Advancement of Structural Information Standards (OASIS). ODG representa dibujos como imágenes vectoriales utilizando puntos, líneas y curvas. Además de OpenOffice, LibreOffice y otras aplicaciones también brindan soporte para trabajar con el formato de archivo ODG. Otros formatos compatibles con OpenOffice, por ejemplo, incluyen ODT, ODF, ODP y ODS.
+<p align=justify>Aspose.Imaging permite automatizar muchas conversiones de ODG a otros formatos en la plataforma .NET. El formato de archivo ODG es utilizado por la aplicación Draw de Apache OpenOffice para almacenar elementos de dibujo como una imagen vectorial. Sigue las especificaciones de formato de archivo basadas en XML descritas por Advancement of Structural Information Standards (OASIS). ODG representa dibujos como imágenes vectoriales utilizando puntos, líneas y curvas. Además de OpenOffice, LibreOffice y otras aplicaciones también brindan soporte para trabajar con el formato de archivo ODG. Otros formatos compatibles con OpenOffice, por ejemplo, incluyen ODT, ODF, ODP y ODS.</p>
 <br/>
 Lista completa de conversiones admitidas de ODG:
 {{% /blocks/products/pf/feature-page-section %}}

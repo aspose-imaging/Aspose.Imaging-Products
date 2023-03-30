@@ -13,8 +13,8 @@ description: Aspose.Imaging, Java platformunu kullanarak SVGZ(Ölçeklenebilir V
 
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java kullanılarak SVGZ(Ölçeklenebilir Vektör Grafikleri (.SVG) dosyasının sıkıştırılmış sürümü.) görüntülerden dönüştürülebilen geniş görüntü formatları yelpazesi" %}}
-kullanarak SVGZ biçiminden diğer kullanılabilir biçimlere programlı olarak dönüştürebilirsiniz.
-Java için Aspose.Imaging. .svgz uzantılı bir dosya, Ölçeklenebilir Vektör Grafikleri (.SVG) dosyasının sıkıştırılmış bir sürümüdür. Gzip sıkıştırması ile sıkıştırılır ve XML formatında veri içerir. SVGZ dosyaları şeffaflığı, degradeleri, animasyonları ve filtreleri destekler. SVGZ dosyalarının boyutu, varsayılan SVG dosyalarına kıyasla daha küçüktür ve bu küçültülmüş dosya boyutu, grafik dosyalarının çevrimiçi olarak aktarılmasına yardımcı olur. Grafik tasarımcısı, Adobe Illustrator, Corel PaintShop Pro ve diğerleri gibi araçları kullanarak SVGZ dosyaları oluşturur. Ancak, görüntü verileri gönderilirken Apache Sunucusunda GZip sıkıştırması etkinleştirilerek SVGZ dosyaları oluşturulabilir.
+<p align=justify>kullanarak SVGZ biçiminden diğer kullanılabilir biçimlere programlı olarak dönüştürebilirsiniz.
+Java için Aspose.Imaging. .svgz uzantılı bir dosya, Ölçeklenebilir Vektör Grafikleri (.SVG) dosyasının sıkıştırılmış bir sürümüdür. Gzip sıkıştırması ile sıkıştırılır ve XML formatında veri içerir. SVGZ dosyaları şeffaflığı, degradeleri, animasyonları ve filtreleri destekler. SVGZ dosyalarının boyutu, varsayılan SVG dosyalarına kıyasla daha küçüktür ve bu küçültülmüş dosya boyutu, grafik dosyalarının çevrimiçi olarak aktarılmasına yardımcı olur. Grafik tasarımcısı, Adobe Illustrator, Corel PaintShop Pro ve diğerleri gibi araçları kullanarak SVGZ dosyaları oluşturur. Ancak, görüntü verileri gönderilirken Apache Sunucusunda GZip sıkıştırması etkinleştirilerek SVGZ dosyaları oluşturulabilir.</p>
 <br/>
 Gemide aşağıdaki dönüşümler var:
 {{% /blocks/products/pf/feature-page-section %}}

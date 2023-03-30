@@ -13,8 +13,8 @@ description: Aspose.Imaging API can easily convert from CMX(Corel Exchange Image
 
 
 {{% blocks/products/pf/feature-page-section  h2="Wide spectrum of image formats that can be converted from CMX(Corel Exchange Image) images using Aspose.Imaging for Java" %}}
-You can programmaticaly convert from CMX format to other available formats using 
-Aspose.Imaging for Java. Files with CMX extension are Corel Exchange image file format that is used as presentation by CorelSuite applications. It contains image data as vector graphics as well as metadata that describes the image. CMX files can be opened by CorelDraw, Corel Presentations, Paint Shop Pro and some versions of Adobe Illustrator.
+<p align=justify>You can programmaticaly convert from CMX format to other available formats using 
+Aspose.Imaging for Java. Files with CMX extension are Corel Exchange image file format that is used as presentation by CorelSuite applications. It contains image data as vector graphics as well as metadata that describes the image. CMX files can be opened by CorelDraw, Corel Presentations, Paint Shop Pro and some versions of Adobe Illustrator.</p>
 <br/>
 There are following conversions on board:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,7 +13,7 @@ description: Med Aspose.Imaging kan du enkelt konvertera från DIB(Enhetsoberoen
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alla bildformat som stöds att konvertera från DIB(Enhetsoberoende bitmapp)" %}}
-Aspose.Imaging låter automatisera många konverteringar från DIB till andra format på .NET-plattformen. En DIB-fil (Device Independent Bitmap) är en rasterbildsfil som i struktur liknar standardbitmappsfilerna (BMP) men har en annan rubrik. Den kan öppnas med nästan alla applikationer som kan öppna en standard BMP-fil på Windows såväl som macOS. DIB är binära filer och har ett komplext filformat som liknar BMP.
+<p align=justify>Aspose.Imaging låter automatisera många konverteringar från DIB till andra format på .NET-plattformen. En DIB-fil (Device Independent Bitmap) är en rasterbildsfil som i struktur liknar standardbitmappsfilerna (BMP) men har en annan rubrik. Den kan öppnas med nästan alla applikationer som kan öppna en standard BMP-fil på Windows såväl som macOS. DIB är binära filer och har ett komplext filformat som liknar BMP.</p>
 <br/>
 Fullständig lista över omvandlingar som stöds från DIB:
 {{% /blocks/products/pf/feature-page-section %}}

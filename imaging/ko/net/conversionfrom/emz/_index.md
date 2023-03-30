@@ -13,7 +13,7 @@ description: Aspose.Imaging을 사용하면 EMZ(Windows 압축 확장 메타파�
 
 
 {{% blocks/products/pf/feature-page-section  h2="EMZ(Windows 압축 확장 메타파일)에서 변환할 지원되는 모든 이미지 형식 EMZ 파일 확장자를 가진 파일은 압축된 이미지 파일이며, 보다 구체적으로 Windows Compressed Enhanced Metafile 파일이라고 합니다." %}}
-Aspose.Imaging을 사용하면 EMZ에서 .NET 플랫폼의 다른 형식으로 많은 변환을 자동화할 수 있습니다.
+<p align=justify>Aspose.Imaging을 사용하면 EMZ에서 .NET 플랫폼의 다른 형식으로 많은 변환을 자동화할 수 있습니다.</p>
 <br/>
 EMZ에서 지원되는 변환의 전체 목록:
 {{% /blocks/products/pf/feature-page-section %}}

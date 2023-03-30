@@ -13,8 +13,8 @@ description: Aspose.Imaging 可以使用 Java 平台轻松地将 BMP(位图图�
 
 
 {{% blocks/products/pf/feature-page-section  h2="可以使用 Aspose.Imaging for Java 从 BMP(位图图片) 图像转换的各种图像格式" %}}
-您可以使用编程方式将 BMP 格式转换为其他可用格式
-用于 Java 的 Aspose.Imaging。 扩展名为 .BMP 的文件表示用于存储位图数字图像的位图图像文件。这些图像独立于图形适配器，也称为设备独立位图 (DIB) 文件格式。这种独立性的目的是在 Microsoft Windows 和 Mac 等多个平台上打开文件。 BMP 文件格式可以将数据存储为单色和具有各种颜色深度的彩色格式的二维数字图像。
+<p align=justify>您可以使用编程方式将 BMP 格式转换为其他可用格式
+用于 Java 的 Aspose.Imaging。 扩展名为 .BMP 的文件表示用于存储位图数字图像的位图图像文件。这些图像独立于图形适配器，也称为设备独立位图 (DIB) 文件格式。这种独立性的目的是在 Microsoft Windows 和 Mac 等多个平台上打开文件。 BMP 文件格式可以将数据存储为单色和具有各种颜色深度的彩色格式的二维数字图像。</p>
 <br/>
 船上有以下转换：
 {{% /blocks/products/pf/feature-page-section %}}

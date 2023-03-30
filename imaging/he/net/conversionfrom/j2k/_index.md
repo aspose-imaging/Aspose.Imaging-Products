@@ -13,7 +13,7 @@ description: באמצעות Aspose.Imaging תוכל להמיר בקלות מ- J2
 
 
 {{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה מ-J2K(תמונה דחוסה של Wavelet)" %}}
-Aspose.Imaging מאפשר לבצע אוטומציה של המרות רבות מ-J2K לפורמטים אחרים בפלטפורמת NET. קובץ J2K הוא תמונה שנדחסת באמצעות דחיסת wavelet במקום דחיסת DCT.
+<p align=justify>Aspose.Imaging מאפשר לבצע אוטומציה של המרות רבות מ-J2K לפורמטים אחרים בפלטפורמת NET. קובץ J2K הוא תמונה שנדחסת באמצעות דחיסת wavelet במקום דחיסת DCT.</p>
 <br/>
 רשימה מלאה של המרות נתמכות מ-J2K:
 {{% /blocks/products/pf/feature-page-section %}}

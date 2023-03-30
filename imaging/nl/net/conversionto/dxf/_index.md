@@ -13,7 +13,7 @@ description: Met Aspose.Imaging voor .NET-bibliotheek is het eenvoudig om te con
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde conversies naar DXF(Drawing Interchange Format, of Drawing Exchange Format,)-indeling met Aspose.Imaging voor .NET-bibliotheek" %}}
-Met behulp van de Aspose.Imaging-bibliotheek kunt u verschillende afbeeldingsindelingen programmatisch converteren naar DXF afbeelding. DXF, Drawing Interchange Format, of Drawing Exchange Format, is een gelabelde gegevensweergave van een AutoCAD-tekeningbestand. Elk element in het bestand heeft een prefix geheel getal dat een groepscode wordt genoemd. Deze groepscode vertegenwoordigt eigenlijk het element dat volgt en geeft de betekenis aan van een data-element voor een bepaald objecttype. DXF maakt het mogelijk om bijna alle door de gebruiker gespecificeerde informatie in een tekeningbestand weer te geven.
+<p align=justify>Met behulp van de Aspose.Imaging-bibliotheek kunt u verschillende afbeeldingsindelingen programmatisch converteren naar DXF afbeelding. DXF, Drawing Interchange Format, of Drawing Exchange Format, is een gelabelde gegevensweergave van een AutoCAD-tekeningbestand. Elk element in het bestand heeft een prefix geheel getal dat een groepscode wordt genoemd. Deze groepscode vertegenwoordigt eigenlijk het element dat volgt en geeft de betekenis aan van een data-element voor een bepaald objecttype. DXF maakt het mogelijk om bijna alle door de gebruiker gespecificeerde informatie in een tekeningbestand weer te geven.</p>
 <br/>
 De volgende conversies worden ondersteund:
 {{% /blocks/products/pf/feature-page-section %}}

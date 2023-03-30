@@ -13,8 +13,8 @@ description: Aspose.Imaging は、Java プラットフォームを使用して T
 
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java を使用して TGA(タルガグラフィック) 画像から変換できる幅広い画像フォーマット" %}}
-次を使用して、TGA 形式から他の使用可能な形式にプログラムで変換できます。
-Aspose.Imaging for Java。 Truevision TGAは、TARGAとも呼ばれ、Truevision Inc.（現在はAvid Technologyの一部）によって作成されたラスターグラフィックファイル形式です。これは、ハイカラー/トゥルーカラー表示をサポートするIBM互換PC用の最初のグラフィックカードであるTARGAおよびVISTAボードのネイティブフォーマットでした。
+<p align=justify>次を使用して、TGA 形式から他の使用可能な形式にプログラムで変換できます。
+Aspose.Imaging for Java。 Truevision TGAは、TARGAとも呼ばれ、Truevision Inc.（現在はAvid Technologyの一部）によって作成されたラスターグラフィックファイル形式です。これは、ハイカラー/トゥルーカラー表示をサポートするIBM互換PC用の最初のグラフィックカードであるTARGAおよびVISTAボードのネイティブフォーマットでした。</p>
 <br/>
 機内では次の変換があります。
 {{% /blocks/products/pf/feature-page-section %}}

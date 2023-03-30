@@ -13,8 +13,8 @@ description: Aspose.Imaging може легко конвертувати з J2K(
 
 
 {{% blocks/products/pf/feature-page-section  h2="Спектр форматів зображень, які можна конвертувати з J2K(Wavelet Compressed Image) зображень за допомогою Aspose.Imaging for Java" %}}
-Ви можете програмно конвертувати формат J2K в інші доступні формати за допомогою
-Aspose.Imaging for Java. Файл J2K — це зображення, яке стискається за допомогою вейвлет-стиснення замість стиснення DCT.
+<p align=justify>Ви можете програмно конвертувати формат J2K в інші доступні формати за допомогою
+Aspose.Imaging for Java. Файл J2K — це зображення, яке стискається за допомогою вейвлет-стиснення замість стиснення DCT.</p>
 <br/>
 Наведено такі перетворення:
 {{% /blocks/products/pf/feature-page-section %}}

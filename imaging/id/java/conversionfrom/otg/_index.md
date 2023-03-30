@@ -13,8 +13,8 @@ description: Aspose.Imaging dapat dengan mudah mengonversi dari OTG(Standar Doku
 
 
 {{% blocks/products/pf/feature-page-section  h2="Spektrum luas format gambar yang dapat dikonversi dari gambar OTG(Standar Dokumen Terbuka) menggunakan Aspose.Imaging untuk Java" %}}
-Anda dapat secara terprogram mengonversi dari format OTG ke format lain yang tersedia menggunakan
-Aspose.Imaging untuk Java. File OTG adalah template gambar yang dibuat menggunakan standar OpenDocument yang mengikuti spesifikasi OASIS Office Applications 1.0. Ini mewakili organisasi default elemen gambar untuk gambar vektor yang dapat digunakan untuk lebih menyempurnakan isi file.
+<p align=justify>Anda dapat secara terprogram mengonversi dari format OTG ke format lain yang tersedia menggunakan
+Aspose.Imaging untuk Java. File OTG adalah template gambar yang dibuat menggunakan standar OpenDocument yang mengikuti spesifikasi OASIS Office Applications 1.0. Ini mewakili organisasi default elemen gambar untuk gambar vektor yang dapat digunakan untuk lebih menyempurnakan isi file.</p>
 <br/>
 Ada konversi berikut di pesawat:
 {{% /blocks/products/pf/feature-page-section %}}

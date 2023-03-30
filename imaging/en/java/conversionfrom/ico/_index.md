@@ -13,8 +13,8 @@ description: Aspose.Imaging API can easily convert from ICO(Windows icon) to oth
 
 
 {{% blocks/products/pf/feature-page-section  h2="Wide spectrum of image formats that can be converted from ICO(Windows icon) images using Aspose.Imaging for Java" %}}
-You can programmaticaly convert from ICO format to other available formats using 
-Aspose.Imaging for Java. The ICO file format is an image file format for computer icons in Microsoft Windows. ICO files contain one or more small images at multiple sizes and color depths, such that they may be scaled appropriately. In Windows, all executables that display an icon to the user, on the desktop, in the Start Menu, or in Windows Explorer, must carry the icon in ICO format.
+<p align=justify>You can programmaticaly convert from ICO format to other available formats using 
+Aspose.Imaging for Java. The ICO file format is an image file format for computer icons in Microsoft Windows. ICO files contain one or more small images at multiple sizes and color depths, such that they may be scaled appropriately. In Windows, all executables that display an icon to the user, on the desktop, in the Start Menu, or in Windows Explorer, must carry the icon in ICO format.</p>
 <br/>
 There are following conversions on board:
 {{% /blocks/products/pf/feature-page-section %}}

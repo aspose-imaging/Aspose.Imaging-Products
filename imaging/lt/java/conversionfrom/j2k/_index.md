@@ -13,8 +13,8 @@ description: „Aspose.Imaging“ gali lengvai konvertuoti iš J2K(„Wavelet“
 
 
 {{% blocks/products/pf/feature-page-section  h2="Platus vaizdo formatų spektras, kurį galima konvertuoti iš J2K(„Wavelet“ suspaustas vaizdas) vaizdų naudojant Aspose.Imaging for Java" %}}
-Galite programiškai konvertuoti iš J2K formato į kitus galimus formatus naudodami
-Aspose.Imaging for Java. J2K failas yra vaizdas, suglaudintas naudojant banglečių glaudinimą, o ne DCT glaudinimą.
+<p align=justify>Galite programiškai konvertuoti iš J2K formato į kitus galimus formatus naudodami
+Aspose.Imaging for Java. J2K failas yra vaizdas, suglaudintas naudojant banglečių glaudinimą, o ne DCT glaudinimą.</p>
 <br/>
 Laive yra šios konversijos:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,8 +13,8 @@ description: Aspose.Imaging puede convertir fácilmente de WMZ(Máscara de Windo
 
 
 {{% blocks/products/pf/feature-page-section  h2="Amplio espectro de formatos de imagen que se pueden convertir a partir de imágenes WMZ(Máscara de Windows Media Player comprimida) usando Aspose.Imaging para Java" %}}
-Puede convertir programáticamente del formato WMZ a otros formatos disponibles usando
-Aspose. Imaging para Java. WMZ es una extensión de archivo para un formato de archivo de máscara en/para/utilizado por Windows Media Player. Un archivo WMZ es básicamente un archivo WMF comprimido en XML.
+<p align=justify>Puede convertir programáticamente del formato WMZ a otros formatos disponibles usando
+Aspose. Imaging para Java. WMZ es una extensión de archivo para un formato de archivo de máscara en/para/utilizado por Windows Media Player. Un archivo WMZ es básicamente un archivo WMF comprimido en XML.</p>
 <br/>
 Hay las siguientes conversiones a bordo:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,7 +13,7 @@ description: Aspose.Imaging'i kullanarak J2K(Dalgacık Sıkıştırılmış Gör
 
 
 {{% blocks/products/pf/feature-page-section  h2="J2K(Dalgacık Sıkıştırılmış Görüntü) biçiminden dönüştürülecek desteklenen tüm resim biçimleri" %}}
-Aspose.Imaging, .NET platformunda J2K'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir. J2K dosyası, DCT sıkıştırması yerine dalgacık sıkıştırması kullanılarak sıkıştırılmış bir görüntüdür.
+<p align=justify>Aspose.Imaging, .NET platformunda J2K'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir. J2K dosyası, DCT sıkıştırması yerine dalgacık sıkıştırması kullanılarak sıkıştırılmış bir görüntüdür.</p>
 <br/>
 J2K tarafından desteklenen dönüşümlerin tam listesi:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,7 +13,7 @@ description: Naudodami Aspose.Imaging galite lengvai konvertuoti iš TIF(Pažym�
 
 
 {{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai, konvertuojami iš TIF(Pažymėtas vaizdo formatas)" %}}
-Aspose.Imaging leidžia automatizuoti daug konversijų iš TIF į kitus formatus .NET platformoje. 
+<p align=justify>Aspose.Imaging leidžia automatizuoti daug konversijų iš TIF į kitus formatus .NET platformoje. </p>
 <br/>
 Visas palaikomų konversijų iš TIF sąrašas:
 {{% /blocks/products/pf/feature-page-section %}}

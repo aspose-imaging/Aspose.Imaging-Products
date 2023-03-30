@@ -13,8 +13,8 @@ description: Aspose.Imaging API can easily convert from OTG(OpenDocument Standar
 
 
 {{% blocks/products/pf/feature-page-section  h2="Wide spectrum of image formats that can be converted from OTG(OpenDocument Standard) images using Aspose.Imaging for Java" %}}
-You can programmaticaly convert from OTG format to other available formats using 
-Aspose.Imaging for Java. An OTG file is a drawing template that is created using the OpenDocument standard that follows the OASIS Office Applications 1.0 specification. It represents the default organization of drawing elements for a vector image that can be used to further enhance the contents of the file.
+<p align=justify>You can programmaticaly convert from OTG format to other available formats using 
+Aspose.Imaging for Java. An OTG file is a drawing template that is created using the OpenDocument standard that follows the OASIS Office Applications 1.0 specification. It represents the default organization of drawing elements for a vector image that can be used to further enhance the contents of the file.</p>
 <br/>
 There are following conversions on board:
 {{% /blocks/products/pf/feature-page-section %}}

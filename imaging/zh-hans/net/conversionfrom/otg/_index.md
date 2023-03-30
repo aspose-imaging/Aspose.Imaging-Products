@@ -13,7 +13,7 @@ description: 使用 Aspose.Imaging，您可以轻松地将 OTG(开放文档标�
 
 
 {{% blocks/products/pf/feature-page-section  h2="从 OTG(开放文档标准) 转换的所有支持的图像格式" %}}
-Aspose.Imaging 允许在 .NET 平台上自动进行从 OTG 到其他格式的大量转换。 OTG 文件是使用遵循 OASIS Office Applications 1.0 规范的 OpenDocument 标准创建的绘图模板。它表示矢量图像的绘图元素的默认组织，可用于进一步增强文件的内容。
+<p align=justify>Aspose.Imaging 允许在 .NET 平台上自动进行从 OTG 到其他格式的大量转换。 OTG 文件是使用遵循 OASIS Office Applications 1.0 规范的 OpenDocument 标准创建的绘图模板。它表示矢量图像的绘图元素的默认组织，可用于进一步增强文件的内容。</p>
 <br/>
 OTG 支持的转换的完整列表：
 {{% /blocks/products/pf/feature-page-section %}}

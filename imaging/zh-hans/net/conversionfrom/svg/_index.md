@@ -13,7 +13,7 @@ description: 使用 Aspose.Imaging，您可以轻松地将 SVG(可缩放矢量�
 
 
 {{% blocks/products/pf/feature-page-section  h2="从 SVG(可缩放矢量图形) 转换的所有支持的图像格式" %}}
-Aspose.Imaging 允许在 .NET 平台上自动进行从 SVG 到其他格式的大量转换。 SVG 文件是使用基于 XML 的文本格式来描述图像外观的可缩放矢量图形文件。 Scalable 这个词指的是 SVG 可以缩放到不同的大小而不会损失任何质量。此类文件的基于文本的描述使它们独立于分辨率。它是用于构建网站和打印图形以实现可扩展性的最常用格式之一。该格式只能用于二维图形。 SVG 文件可以在几乎所有现代浏览器中查看/打开，包括 Chrome、Internet Explorer、Firefox 和 Safari。
+<p align=justify>Aspose.Imaging 允许在 .NET 平台上自动进行从 SVG 到其他格式的大量转换。 SVG 文件是使用基于 XML 的文本格式来描述图像外观的可缩放矢量图形文件。 Scalable 这个词指的是 SVG 可以缩放到不同的大小而不会损失任何质量。此类文件的基于文本的描述使它们独立于分辨率。它是用于构建网站和打印图形以实现可扩展性的最常用格式之一。该格式只能用于二维图形。 SVG 文件可以在几乎所有现代浏览器中查看/打开，包括 Chrome、Internet Explorer、Firefox 和 Safari。</p>
 <br/>
 SVG 支持的转换的完整列表：
 {{% /blocks/products/pf/feature-page-section %}}

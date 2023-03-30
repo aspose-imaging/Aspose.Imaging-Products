@@ -13,7 +13,7 @@ description: Naudodami Aspose.Imaging galite lengvai konvertuoti iš J2K(„Wave
 
 
 {{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai, konvertuojami iš J2K(„Wavelet“ suspaustas vaizdas)" %}}
-Aspose.Imaging leidžia automatizuoti daug konversijų iš J2K į kitus formatus .NET platformoje. J2K failas yra vaizdas, suglaudintas naudojant banglečių glaudinimą, o ne DCT glaudinimą.
+<p align=justify>Aspose.Imaging leidžia automatizuoti daug konversijų iš J2K į kitus formatus .NET platformoje. J2K failas yra vaizdas, suglaudintas naudojant banglečių glaudinimą, o ne DCT glaudinimą.</p>
 <br/>
 Visas palaikomų konversijų iš J2K sąrašas:
 {{% /blocks/products/pf/feature-page-section %}}

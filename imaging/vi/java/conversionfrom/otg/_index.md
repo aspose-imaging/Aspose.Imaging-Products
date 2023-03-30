@@ -13,8 +13,8 @@ description: Aspose.Imaging có thể dễ dàng chuyển đổi từ OTG(Tiêu 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Nhiều định dạng hình ảnh có thể được chuyển đổi từ hình ảnh OTG(Tiêu chuẩn OpenDocument) bằng Aspose.Imaging cho Java" %}}
-Bạn có thể lập trình chuyển đổi từ định dạng OTG sang các định dạng có sẵn khác bằng cách sử dụng
-Aspose.Imaging cho Java. Tệp OTG là mẫu bản vẽ được tạo bằng tiêu chuẩn OpenDocument tuân theo đặc điểm kỹ thuật của Ứng dụng Văn phòng OASIS 1.0. Nó đại diện cho tổ chức mặc định của các phần tử vẽ cho hình ảnh vectơ có thể được sử dụng để nâng cao hơn nữa nội dung của tệp.
+<p align=justify>Bạn có thể lập trình chuyển đổi từ định dạng OTG sang các định dạng có sẵn khác bằng cách sử dụng
+Aspose.Imaging cho Java. Tệp OTG là mẫu bản vẽ được tạo bằng tiêu chuẩn OpenDocument tuân theo đặc điểm kỹ thuật của Ứng dụng Văn phòng OASIS 1.0. Nó đại diện cho tổ chức mặc định của các phần tử vẽ cho hình ảnh vectơ có thể được sử dụng để nâng cao hơn nữa nội dung của tệp.</p>
 <br/>
 Có các chuyển đổi sau trên tàu:
 {{% /blocks/products/pf/feature-page-section %}}

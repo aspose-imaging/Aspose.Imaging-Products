@@ -13,8 +13,8 @@ description: Aspose.Imaging 可以使用 Java 平台輕鬆地將 EMZ(Windows 壓
 
 
 {{% blocks/products/pf/feature-page-section  h2="可以使用 Aspose.Imaging for Java 從 EMZ(Windows 壓縮增強元文件) 圖像轉換的各種圖像格式" %}}
-您可以使用編程方式將 EMZ 格式轉換為其他可用格式
-用於 Java 的 Aspose.Imaging。 具有 EMZ 文件擴展名的文件是壓縮圖像文件，更具體地稱為 Windows 壓縮增強元文件文件
+<p align=justify>您可以使用編程方式將 EMZ 格式轉換為其他可用格式
+用於 Java 的 Aspose.Imaging。 具有 EMZ 文件擴展名的文件是壓縮圖像文件，更具體地稱為 Windows 壓縮增強元文件文件</p>
 <br/>
 船上有以下轉換：
 {{% /blocks/products/pf/feature-page-section %}}

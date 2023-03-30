@@ -13,7 +13,7 @@ description: En utilisant Aspose.Imaging, vous pouvez facilement convertir de DI
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tous les formats d'image pris en charge pour convertir à partir de DIB(Bitmap indépendant du périphérique)" %}}
-Aspose.Imaging permet d'automatiser de nombreuses conversions de DIB vers d'autres formats sur la plate-forme .NET. Un fichier DIB (Device Independent Bitmap) est un fichier d'image raster dont la structure est similaire à celle des fichiers Bitmap standard (BMP), mais dont l'en-tête est différent. Il peut être ouvert avec presque toutes les applications capables d'ouvrir un fichier BMP standard sous Windows ainsi que macOS. DIB sont des fichiers binaires et ont un format de fichier complexe similaire à BMP.
+<p align=justify>Aspose.Imaging permet d'automatiser de nombreuses conversions de DIB vers d'autres formats sur la plate-forme .NET. Un fichier DIB (Device Independent Bitmap) est un fichier d'image raster dont la structure est similaire à celle des fichiers Bitmap standard (BMP), mais dont l'en-tête est différent. Il peut être ouvert avec presque toutes les applications capables d'ouvrir un fichier BMP standard sous Windows ainsi que macOS. DIB sont des fichiers binaires et ont un format de fichier complexe similaire à BMP.</p>
 <br/>
 Liste complète des conversions prises en charge à partir de DIB :
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,8 +13,8 @@ description: Aspose.Imaging API can easily convert from DIB(Device Independent B
 
 
 {{% blocks/products/pf/feature-page-section  h2="Wide spectrum of image formats that can be converted from DIB(Device Independent Bitmap) images using Aspose.Imaging for Java" %}}
-You can programmaticaly convert from DIB format to other available formats using 
-Aspose.Imaging for Java. A DIB (Device Independent Bitmap) file is a raster image file that is similar in structure to the standard Bitmap files (BMP) but has a different header. It can be opened with almost all applications that can open a standard BMP file on Windows as well as macOS. DIB are binary files and have a complex file format similar to BMP.
+<p align=justify>You can programmaticaly convert from DIB format to other available formats using 
+Aspose.Imaging for Java. A DIB (Device Independent Bitmap) file is a raster image file that is similar in structure to the standard Bitmap files (BMP) but has a different header. It can be opened with almost all applications that can open a standard BMP file on Windows as well as macOS. DIB are binary files and have a complex file format similar to BMP.</p>
 <br/>
 There are following conversions on board:
 {{% /blocks/products/pf/feature-page-section %}}

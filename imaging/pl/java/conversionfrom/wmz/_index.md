@@ -13,8 +13,8 @@ description: Aspose.Imaging może łatwo konwertować z formatu WMZ(Skompresowan
 
 
 {{% blocks/products/pf/feature-page-section  h2="Szerokie spektrum formatów obrazów, które można konwertować z obrazów WMZ(Skompresowana skórka Windows Media Player) przy użyciu Aspose.Imaging for Java" %}}
-Możesz programowo przekonwertować z formatu WMZ na inne dostępne formaty za pomocą
-Aspose.Imaging dla Javy. WMZ to rozszerzenie pliku dla formatu pliku skóry w/dla/używanego przez Windows Media Player. Plik WMZ to w zasadzie spakowany plik WMF w formacie XML.
+<p align=justify>Możesz programowo przekonwertować z formatu WMZ na inne dostępne formaty za pomocą
+Aspose.Imaging dla Javy. WMZ to rozszerzenie pliku dla formatu pliku skóry w/dla/używanego przez Windows Media Player. Plik WMZ to w zasadzie spakowany plik WMF w formacie XML.</p>
 <br/>
 Na pokładzie znajdują się następujące konwersje:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,7 +13,7 @@ description: باستخدام Aspose.Imaging لمكتبة .NET يسهل التح
 
 
 {{% blocks/products/pf/feature-page-section  h2="جميع التحويلات المدعومة إلى تنسيق EMZ(ملف تعريف محسن مضغوط لـ Windows) باستخدام Aspose.Imaging for .NET library" %}}
-باستخدام مكتبة Aspose.Imaging ، يمكنك تحويل العديد من تنسيقات الصور إلى صورة EMZ برمجيًا. الملف بامتداد ملف EMZ هو ملف صورة مضغوط ، يشار إليه بشكل أكثر تحديدًا باسم ملف Windows Compressed Enhanced Metafile
+<p align=justify>باستخدام مكتبة Aspose.Imaging ، يمكنك تحويل العديد من تنسيقات الصور إلى صورة EMZ برمجيًا. الملف بامتداد ملف EMZ هو ملف صورة مضغوط ، يشار إليه بشكل أكثر تحديدًا باسم ملف Windows Compressed Enhanced Metafile</p>
 <br/>
 يتم دعم التحويلات التالية:
 {{% /blocks/products/pf/feature-page-section %}}

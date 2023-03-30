@@ -13,8 +13,8 @@ description: Aspose.Imaging kan eenvoudig converteren van TGA(Targa-afbeelding) 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Breed spectrum aan afbeeldingsindelingen die kunnen worden geconverteerd van TGA(Targa-afbeelding)-afbeeldingen met Aspose.Imaging voor Java" %}}
-U kunt programmatisch converteren van het TGA-formaat naar andere beschikbare formaten met behulp van
-Aspose.Imaging voor Java. Truevision TGA, vaak TARGA genoemd, is een bestandsindeling voor rasterafbeeldingen die is gemaakt door Truevision Inc. (nu onderdeel van Avid Technology). Het was het oorspronkelijke formaat van TARGA- en VISTA-kaarten, de eerste grafische kaarten voor IBM-compatibele pc's die Highcolor/truecolor-weergave ondersteunen.
+<p align=justify>U kunt programmatisch converteren van het TGA-formaat naar andere beschikbare formaten met behulp van
+Aspose.Imaging voor Java. Truevision TGA, vaak TARGA genoemd, is een bestandsindeling voor rasterafbeeldingen die is gemaakt door Truevision Inc. (nu onderdeel van Avid Technology). Het was het oorspronkelijke formaat van TARGA- en VISTA-kaarten, de eerste grafische kaarten voor IBM-compatibele pc's die Highcolor/truecolor-weergave ondersteunen.</p>
 <br/>
 Er zijn de volgende verbouwingen aan boord:
 {{% /blocks/products/pf/feature-page-section %}}

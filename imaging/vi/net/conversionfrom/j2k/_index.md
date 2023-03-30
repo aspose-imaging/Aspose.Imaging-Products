@@ -13,7 +13,7 @@ description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng chuyển đ�
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tất cả các định dạng hình ảnh được hỗ trợ để chuyển đổi từ J2K(Hình ảnh nén Wavelet)" %}}
-Aspose.Imaging cho phép tự động hóa rất nhiều chuyển đổi từ J2K sang các định dạng khác trên nền tảng .NET. Tệp J2K là hình ảnh được nén bằng cách sử dụng nén wavelet thay vì nén DCT.
+<p align=justify>Aspose.Imaging cho phép tự động hóa rất nhiều chuyển đổi từ J2K sang các định dạng khác trên nền tảng .NET. Tệp J2K là hình ảnh được nén bằng cách sử dụng nén wavelet thay vì nén DCT.</p>
 <br/>
 Danh sách đầy đủ các chuyển đổi được hỗ trợ từ J2K:
 {{% /blocks/products/pf/feature-page-section %}}

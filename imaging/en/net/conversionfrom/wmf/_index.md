@@ -13,7 +13,7 @@ description: Using Aspose.Imaging for .NET you can easily convert from WMF(Micro
 
 
 {{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from WMF(Microsoft Windows Metafile)" %}}
-Aspose.Imaging allows automate a lot of conversions from WMF to other formats on .NET platform. Files with WMF extension represent Microsoft Windows Metafile (WMF) for storing vector as well as bitmap-format images data. To be more accurate, WMF belongs to the vector file format category of Graphics file formats that is device independent. Windows Graphical Device Interface (GDI) uses the functions stored in a WMF file to display an image on the screen. A more enhanced version of WMF, known as Enhanced Meta Files (EMF), was published later that makes the format more feature rich. Practically, WMF are similar to SVG.
+<p align=justify>Aspose.Imaging allows automate a lot of conversions from WMF to other formats on .NET platform. Files with WMF extension represent Microsoft Windows Metafile (WMF) for storing vector as well as bitmap-format images data. To be more accurate, WMF belongs to the vector file format category of Graphics file formats that is device independent. Windows Graphical Device Interface (GDI) uses the functions stored in a WMF file to display an image on the screen. A more enhanced version of WMF, known as Enhanced Meta Files (EMF), was published later that makes the format more feature rich. Practically, WMF are similar to SVG.</p>
 <br/>
 Full list of supported conversions from WMF:
 {{% /blocks/products/pf/feature-page-section %}}

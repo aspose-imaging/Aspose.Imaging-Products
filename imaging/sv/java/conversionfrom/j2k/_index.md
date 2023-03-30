@@ -13,8 +13,8 @@ description: Aspose.Imaging kan enkelt konvertera från J2K(Wavelet komprimerad 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Brett spektrum av bildformat som kan konverteras från J2K(Wavelet komprimerad bild)-bilder med Aspose.Imaging för Java" %}}
-Du kan programmatiskt konvertera från formatet J2K till andra tillgängliga format med hjälp av
-Aspose.Imaging för Java. En J2K-fil är en bild som komprimeras med hjälp av wavelet-komprimering istället för DCT-komprimering.
+<p align=justify>Du kan programmatiskt konvertera från formatet J2K till andra tillgängliga format med hjälp av
+Aspose.Imaging för Java. En J2K-fil är en bild som komprimeras med hjälp av wavelet-komprimering istället för DCT-komprimering.</p>
 <br/>
 Det finns följande konverteringar ombord:
 {{% /blocks/products/pf/feature-page-section %}}

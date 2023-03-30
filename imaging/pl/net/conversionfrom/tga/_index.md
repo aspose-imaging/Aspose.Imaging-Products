@@ -13,7 +13,7 @@ description: Za pomocą Aspose.Imaging możesz łatwo konwertować z TGA(Targa g
 
 
 {{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty obrazów do przekonwertowania z TGA(Targa grafika)" %}}
-Aspose.Imaging pozwala zautomatyzować wiele konwersji z TGA do innych formatów na platformie .NET. Truevision TGA, często określany jako TARGA, to rastrowy format plików graficznych stworzony przez Truevision Inc. (obecnie część Avid Technology). Był to natywny format płyt TARGA i VISTA, które były pierwszymi kartami graficznymi dla komputerów zgodnych z IBM obsługującymi wyświetlacz Highcolor/truecolor.
+<p align=justify>Aspose.Imaging pozwala zautomatyzować wiele konwersji z TGA do innych formatów na platformie .NET. Truevision TGA, często określany jako TARGA, to rastrowy format plików graficznych stworzony przez Truevision Inc. (obecnie część Avid Technology). Był to natywny format płyt TARGA i VISTA, które były pierwszymi kartami graficznymi dla komputerów zgodnych z IBM obsługującymi wyświetlacz Highcolor/truecolor.</p>
 <br/>
 Pełna lista obsługiwanych konwersji z TGA:
 {{% /blocks/products/pf/feature-page-section %}}

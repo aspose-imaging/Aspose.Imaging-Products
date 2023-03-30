@@ -13,7 +13,7 @@ description: Naudodami Aspose.Imaging galite lengvai konvertuoti iš EMZ(„Wind
 
 
 {{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai, konvertuojami iš EMZ(„Windows“ suspaustas patobulintas metafailas)" %}}
-Aspose.Imaging leidžia automatizuoti daug konversijų iš EMZ į kitus formatus .NET platformoje. Failas su EMZ failo plėtiniu yra suspausto vaizdo failas, tiksliau vadinamas „Windows Compressed Enhanced Metafile“ failu
+<p align=justify>Aspose.Imaging leidžia automatizuoti daug konversijų iš EMZ į kitus formatus .NET platformoje. Failas su EMZ failo plėtiniu yra suspausto vaizdo failas, tiksliau vadinamas „Windows Compressed Enhanced Metafile“ failu</p>
 <br/>
 Visas palaikomų konversijų iš EMZ sąrašas:
 {{% /blocks/products/pf/feature-page-section %}}

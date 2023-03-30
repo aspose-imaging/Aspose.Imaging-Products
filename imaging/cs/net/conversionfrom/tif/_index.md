@@ -13,7 +13,7 @@ description: Pomocí Aspose.Imaging můžete snadno převést z formátu TIF(For
 
 
 {{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu z formátu TIF (Formát tagovaného obrázku)" %}}
-Aspose.Imaging umožňuje automatizovat mnoho konverzí z TIF do jiných formátů na platformě .NET. 
+<p align=justify>Aspose.Imaging umožňuje automatizovat mnoho konverzí z TIF do jiných formátů na platformě .NET. </p>
 <br/>
 Úplný seznam podporovaných konverzí z TIF:
 {{% /blocks/products/pf/feature-page-section %}}

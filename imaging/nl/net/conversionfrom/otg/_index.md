@@ -13,7 +13,7 @@ description: Met behulp van Aspose.Imaging kunt u eenvoudig converteren van OTG(
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde afbeeldingsindelingen om te converteren van OTG(OpenDocument-standaard)" %}}
-Aspose.Imaging maakt het mogelijk veel conversies van OTG naar andere formaten op het .NET-platform te automatiseren. Een OTG-bestand is een tekeningsjabloon die is gemaakt met behulp van de OpenDocument-standaard die de OASIS Office Applications 1.0-specificatie volgt. Het vertegenwoordigt de standaardorganisatie van tekenelementen voor een vectorafbeelding die kan worden gebruikt om de inhoud van het bestand verder te verbeteren.
+<p align=justify>Aspose.Imaging maakt het mogelijk veel conversies van OTG naar andere formaten op het .NET-platform te automatiseren. Een OTG-bestand is een tekeningsjabloon die is gemaakt met behulp van de OpenDocument-standaard die de OASIS Office Applications 1.0-specificatie volgt. Het vertegenwoordigt de standaardorganisatie van tekenelementen voor een vectorafbeelding die kan worden gebruikt om de inhoud van het bestand verder te verbeteren.</p>
 <br/>
 Volledige lijst met ondersteunde conversies van OTG:
 {{% /blocks/products/pf/feature-page-section %}}

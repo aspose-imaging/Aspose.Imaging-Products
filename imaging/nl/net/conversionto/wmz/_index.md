@@ -13,7 +13,7 @@ description: Met Aspose.Imaging voor .NET-bibliotheek is het eenvoudig om te con
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde conversies naar WMZ(Gecomprimeerde Windows Media Player-skin)-indeling met Aspose.Imaging voor .NET-bibliotheek" %}}
-Met behulp van de Aspose.Imaging-bibliotheek kunt u verschillende afbeeldingsindelingen programmatisch converteren naar WMZ afbeelding. WMZ is een bestandsextensie voor een skin-bestandsformaat in/voor/gebruikt door Windows Media Player. Een WMZ-bestand is in feite een gecomprimeerd WMF-bestand in XML.
+<p align=justify>Met behulp van de Aspose.Imaging-bibliotheek kunt u verschillende afbeeldingsindelingen programmatisch converteren naar WMZ afbeelding. WMZ is een bestandsextensie voor een skin-bestandsformaat in/voor/gebruikt door Windows Media Player. Een WMZ-bestand is in feite een gecomprimeerd WMF-bestand in XML.</p>
 <br/>
 De volgende conversies worden ondersteund:
 {{% /blocks/products/pf/feature-page-section %}}

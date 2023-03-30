@@ -13,7 +13,7 @@ description: Za pomocą Aspose.Imaging możesz konwertować do SVG z innych form
 
 
 {{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty obrazów konwertowalne do SVG przy użyciu Aspose.Imaging for Java" %}}
-Korzystając z biblioteki Aspose.Imaging możesz programowo konwertować do SVG z innych obsługiwanych formatów obrazów przy użyciu platformy Java.
+<p align=justify>Korzystając z biblioteki Aspose.Imaging możesz programowo konwertować do SVG z innych obsługiwanych formatów obrazów przy użyciu platformy Java.</p>
 <br/>
 Obsługiwane konwersje:
 {{% /blocks/products/pf/feature-page-section %}}

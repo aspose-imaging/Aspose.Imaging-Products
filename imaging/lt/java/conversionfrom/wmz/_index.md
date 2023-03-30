@@ -13,8 +13,8 @@ description: „Aspose.Imaging“ gali lengvai konvertuoti iš WMZ(Suspausta Win
 
 
 {{% blocks/products/pf/feature-page-section  h2="Platus vaizdo formatų spektras, kurį galima konvertuoti iš WMZ(Suspausta Windows Media Player oda) vaizdų naudojant Aspose.Imaging for Java" %}}
-Galite programiškai konvertuoti iš WMZ formato į kitus galimus formatus naudodami
-Aspose.Imaging for Java. WMZ yra „Windows Media Player“ / „Windows Media Player“ naudojamo odos failo formato failo plėtinys. WMZ failas iš esmės yra suglaudintas WMF failas XML formatu.
+<p align=justify>Galite programiškai konvertuoti iš WMZ formato į kitus galimus formatus naudodami
+Aspose.Imaging for Java. WMZ yra „Windows Media Player“ / „Windows Media Player“ naudojamo odos failo formato failo plėtinys. WMZ failas iš esmės yra suglaudintas WMF failas XML formatu.</p>
 <br/>
 Laive yra šios konversijos:
 {{% /blocks/products/pf/feature-page-section %}}

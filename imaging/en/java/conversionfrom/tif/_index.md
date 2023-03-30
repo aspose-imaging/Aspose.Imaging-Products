@@ -13,8 +13,8 @@ description: Aspose.Imaging API can easily convert from TIF(Tagged Image Format)
 
 
 {{% blocks/products/pf/feature-page-section  h2="Wide spectrum of image formats that can be converted from TIF(Tagged Image Format) images using Aspose.Imaging for Java" %}}
-You can programmaticaly convert from TIF format to other available formats using 
-Aspose.Imaging for Java. 
+<p align=justify>You can programmaticaly convert from TIF format to other available formats using 
+Aspose.Imaging for Java. </p>
 <br/>
 There are following conversions on board:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -13,7 +13,7 @@ description: Aspose.Imaging'i kullanarak EMZ(Windows Sıkıştırılmış Geliş
 
 
 {{% blocks/products/pf/feature-page-section  h2="EMZ(Windows Sıkıştırılmış Gelişmiş Meta Dosyası) biçiminden dönüştürülecek desteklenen tüm resim biçimleri" %}}
-Aspose.Imaging, .NET platformunda EMZ'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir. EMZ dosya uzantısına sahip bir dosya, daha özel olarak Windows Sıkıştırılmış Gelişmiş Meta Dosyası dosyası olarak adlandırılan sıkıştırılmış bir görüntü dosyasıdır.
+<p align=justify>Aspose.Imaging, .NET platformunda EMZ'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir. EMZ dosya uzantısına sahip bir dosya, daha özel olarak Windows Sıkıştırılmış Gelişmiş Meta Dosyası dosyası olarak adlandırılan sıkıştırılmış bir görüntü dosyasıdır.</p>
 <br/>
 EMZ tarafından desteklenen dönüşümlerin tam listesi:
 {{% /blocks/products/pf/feature-page-section %}}
