@@ -1,19 +1,19 @@
 ﻿---
-title: Konvertuokite vaizdus į CANVAS vaizdo formatą iš kitų palaikomų formatų naudodami .NET platformą 
+title: Konvertuokite vaizdus į CANVAS(HTML5 drobė) vaizdo formatą iš kitų palaikomų formatų naudodami .NET platformą 
 weight: 3920
 url: /lt/net/conversion/to/canvas 
 lang: lt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Naudojant Aspose.Imaging, skirta .NET bibliotekai, lengva konvertuoti į CANVAS iš kitų palaikomų vaizdo formatų
+description: Naudojant Aspose.Imaging, skirta .NET bibliotekai, lengva konvertuoti į CANVAS(HTML5 drobė) iš kitų palaikomų vaizdo formatų
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertuokite vaizdo failus į CANVAS vaizdo formatą naudodami .NET platformą" h2="Konvertuokite į CANVAS formatą iš kitų formatų naudodami Aspose.Imaging, skirtą .NET bibliotekai" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertuokite vaizdo failus į CANVAS(HTML5 drobė) vaizdo formatą naudodami .NET platformą" h2="Konvertuokite į HTML5 drobė formatą iš kitų formatų naudodami Aspose.Imaging, skirtą .NET bibliotekai" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visos palaikomos konversijos į CANVAS formatą naudojant Aspose.Imaging for .NET biblioteką" %}}
-Naudodami Aspose.Imaging biblioteką galite programiškai konvertuoti įvairius vaizdo formatus į CANVAS vaizdą.
+{{% blocks/products/pf/feature-page-section  h2="Visos palaikomos konversijos į CANVAS(HTML5 drobė) formatą naudojant Aspose.Imaging for .NET biblioteką" %}}
+<p align=justify>Naudodami Aspose.Imaging biblioteką galite programiškai konvertuoti įvairius vaizdo formatus į CANVAS vaizdą. HTML (Hyper Text Markup Language) yra tinklalapių plėtinys, sukurtas rodyti naršyklėse. Žinomas kaip žiniatinklio kalba, HTML išsivystė atsižvelgiant į naujus informacijos reikalavimus, kurie turi būti rodomi kaip tinklalapių dalis. Naujausias variantas žinomas kaip HTML 5, suteikiantis daug lankstumo dirbant su kalba. HTML puslapiai gaunami iš serverio, kuriame jie yra talpinami, arba gali būti įkeliami ir iš vietinės sistemos. Kiekvienas HTML puslapis yra sudarytas iš HTML elementų, tokių kaip formos, tekstas, vaizdai, animacija, nuorodos ir tt Šie elementai vaizduojami tokiomis žymomis kaip img, a, p ir keletas kitų, kur kiekviena žyma turi pradžią ir pabaigą. Jis taip pat gali įterpti programas, parašytas skriptų kalbomis, pvz., JavaScript ir Style Sheets (CSS), kad būtų galima pateikti bendrą išdėstymą.</p>
 <br/>
 Palaikomos šios konversijos:
 {{% /blocks/products/pf/feature-page-section %}}

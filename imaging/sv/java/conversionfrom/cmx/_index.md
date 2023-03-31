@@ -1,20 +1,20 @@
 ﻿---
-title: Konvertera från CMX till andra format som stöds med Aspose.Imaging för Java 
+title: Konvertera från CMX(Corel Exchange-bild) till andra format som stöds med Aspose.Imaging för Java API 
 weight: 3920
 url: /sv/java/conversion/from/cmx 
 lang: sv
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging kan enkelt konvertera från CMX till andra format med hjälp av Java-plattformen
+description: Aspose.Imaging kan enkelt konvertera från CMX(Corel Exchange-bild) till andra format med hjälp av Java-plattformen
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertera bilder från formatet CMX med Aspose.Imaging för Java" h2="Konvertera från CMX bildformat till andra format med Java-plattformen" downloadText="Ladda ner" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertera bilder från formatet CMX med Aspose.Imaging för Java" h2="Konvertera från CMX(Corel Exchange-bild) bildformat till andra format med Java-plattformen" downloadText="Ladda ner" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Brett spektrum av bildformat som kan konverteras från CMX-bilder med Aspose.Imaging för Java" %}}
-Du kan programmatiskt konvertera från formatet CMX till andra tillgängliga format med hjälp av
-Aspose.Imaging för Java.
+{{% blocks/products/pf/feature-page-section  h2="Brett spektrum av bildformat som kan konverteras från CMX(Corel Exchange-bild)-bilder med Aspose.Imaging för Java" %}}
+<p align=justify>Du kan programmatiskt konvertera från formatet CMX till andra tillgängliga format med hjälp av
+Aspose.Imaging för Java. Filer med CMX-tillägget är Corel Exchange-bildfilformat som används som presentation av CorelSuite-applikationer. Den innehåller bilddata som vektorgrafik samt metadata som beskriver bilden. CMX-filer kan öppnas av CorelDraw, Corel Presentations, Paint Shop Pro och vissa versioner av Adobe Illustrator.</p>
 <br/>
 Det finns följande konverteringar ombord:
 {{% /blocks/products/pf/feature-page-section %}}

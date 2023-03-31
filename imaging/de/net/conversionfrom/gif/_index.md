@@ -1,21 +1,21 @@
 ﻿---
-title: Convertir de GIF vers d'autres formats via .NET 
+title: Konvertieren Sie von GIF(Grafisches Austauschformat) in andere Formate über die Bild-API von .NET 
 weight: 3920
 url: /de/net/conversion/from/gif 
 lang: de
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Mit Aspose.Imaging können Sie ganz einfach von GIF in andere Formate konvertieren
+description: Mit Aspose.Imaging können Sie ganz einfach von GIF(Grafisches Austauschformat) in andere Formate konvertieren
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertierung von Bilddateien von GIF über .NET" h2="Konvertieren Sie von GIF in andere Formate" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertierung von Bilddateien aus GIF (Grafisches Austauschformat) über die Bild-API von .NET" h2="Konvertieren Sie mithilfe der Aspose.Imaging-API von Grafisches Austauschformat in andere Formate" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bildformate zum Konvertieren von GIF" %}}
-Aspose.Imaging ermöglicht die Automatisierung vieler Konvertierungen von GIF in andere Formate auf der .NET-Plattform.
+{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bildformate zum Konvertieren von GIF(Grafisches Austauschformat)" %}}
+<p align=justify>Aspose.Imaging ermöglicht die Automatisierung vieler Konvertierungen von GIF in andere Formate auf der .NET-Plattform. Ein GIF oder Graphical Interchange Format ist eine Art stark komprimiertes Bild. GIF gehört Unisys und verwendet den LZW-Komprimierungsalgorithmus, der die Bildqualität nicht beeinträchtigt. Für jedes Bild sind in GIF normalerweise bis zu 8 Bit pro Pixel und bis zu 256 Farben im gesamten Bild zulässig. Im Gegensatz zu einem JPEG-Bild, das bis zu 16 Millionen Farben darstellen kann und ziemlich an die Grenzen des menschlichen Auges stößt. Als das Internet aufkam, blieben GIFs die beste Wahl, da sie eine geringe Bandbreite erforderten und für die Grafiken kompatibel waren, die Volltonbereiche verbrauchen. Ein animiertes GIF kombiniert zahlreiche Bilder oder Frames in einer einzigen Datei und zeigt sie in einer Sequenz an, um einen animierten Clip oder ein kurzes Video zu erstellen. Die Farbbeschränkungen betragen bis zu 256 für jedes Bild und sind wahrscheinlich am wenigsten geeignet, um andere Bilder und Fotos mit Farbverlauf zu reproduzieren.</p>
 <br/>
-Vollständige Liste der unterstützten Konvertierungen:
+Vollständige Liste der unterstützten Konvertierungen von GIF:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

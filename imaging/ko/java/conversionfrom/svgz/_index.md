@@ -1,20 +1,20 @@
 ﻿---
-title: Aspose.Imaging for Java를 사용하여 SVGZ에서 지원되는 다른 형식으로 변환 
+title: Aspose.Imaging for Java API 를 사용하여 SVGZ(확장 가능한 벡터 그래픽(.SVG) 파일의 압축 버전입니다.)에서 지원되는 다른 형식으로 변환 
 weight: 3920
 url: /ko/java/conversion/from/svgz 
 lang: ko
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging은 Java 플랫폼을 사용하여 SVGZ에서 다른 형식으로 쉽게 변환할 수 있습니다.
+description: Aspose.Imaging은 Java 플랫폼을 사용하여 SVGZ(확장 가능한 벡터 그래픽(.SVG) 파일의 압축 버전입니다.)에서 다른 형식으로 쉽게 변환할 수 있습니다.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java를 사용하여 SVGZ 형식에서 이미지 변환" h2="Java 플랫폼을 사용하여 SVGZ 이미지 형식에서 다른 형식으로 변환" downloadText="다운로드" >}}
+{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java를 사용하여 SVGZ 형식에서 이미지 변환" h2="Java 플랫폼을 사용하여 SVGZ(확장 가능한 벡터 그래픽(.SVG) 파일의 압축 버전입니다.) 이미지 형식에서 다른 형식으로 변환" downloadText="다운로드" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java를 사용하여 SVGZ 이미지에서 변환할 수 있는 광범위한 이미지 형식" %}}
-다음을 사용하여 SVGZ 형식에서 사용 가능한 다른 형식으로 프로그래밍 방식으로 변환할 수 있습니다.
-Aspose.Imaging for Java.
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java를 사용하여 SVGZ(확장 가능한 벡터 그래픽(.SVG) 파일의 압축 버전입니다.) 이미지에서 변환할 수 있는 광범위한 이미지 형식" %}}
+<p align=justify>다음을 사용하여 SVGZ 형식에서 사용 가능한 다른 형식으로 프로그래밍 방식으로 변환할 수 있습니다.
+Aspose.Imaging for Java. 확장자가 .svgz인 파일은 .SVG(Scalable Vector Graphics) 파일의 압축 버전입니다. gzip 압축으로 압축되며 XML 형식의 데이터를 포함합니다. SVGZ 파일은 투명도, 그라디언트, 애니메이션 및 필터를 지원합니다. SVGZ 파일은 기본 SVG 파일에 비해 크기가 더 작으며 이 축소된 파일 크기는 그래픽 파일을 온라인으로 전송하는 데 도움이 됩니다. 그래픽 디자이너는 Adobe Illustrator, Corel PaintShop Pro 등과 같은 도구를 사용하여 SVGZ 파일을 만듭니다. 그러나 SVGZ 파일은 이미지 데이터를 보내는 동안 Apache Server에서 GZip 압축을 활성화하여 생성할 수 있습니다.</p>
 <br/>
 보드에는 다음과 같은 변환이 있습니다.
 {{% /blocks/products/pf/feature-page-section %}}

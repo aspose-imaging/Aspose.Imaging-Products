@@ -1,19 +1,19 @@
 ﻿---
-title: Konwertuj obrazy do formatu obrazu PSD z innych obsługiwanych formatów za pomocą platformy .NET 
+title: Konwertuj obrazy do formatu obrazu PSD(Dokument Photoshop) z innych obsługiwanych formatów za pomocą platformy .NET 
 weight: 3920
 url: /pl/net/conversion/to/psd 
 lang: pl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Korzystając z biblioteki Aspose.Imaging dla .NET, można łatwo przekonwertować do formatu PSD z innych obsługiwanych formatów obrazów
+description: Korzystając z biblioteki Aspose.Imaging dla .NET, można łatwo przekonwertować do formatu PSD(Dokument Photoshop) z innych obsługiwanych formatów obrazów
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwertuj pliki obrazów do formatu obrazu PSD za pomocą platformy .NET" h2="Konwertuj do formatu PSD z innych formatów przy użyciu biblioteki Aspose.Imaging for .NET" downloadText="Pobierać" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj pliki obrazów do formatu obrazu PSD(Dokument Photoshop) za pomocą platformy .NET" h2="Konwertuj do formatu Dokument Photoshop z innych formatów przy użyciu biblioteki Aspose.Imaging for .NET" downloadText="Pobierać" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane konwersje do formatu PSD przy użyciu biblioteki Aspose.Imaging for .NET" %}}
-Korzystając z biblioteki Aspose.Imaging możesz programowo konwertować różne formaty obrazów na obraz PSD.
+{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane konwersje do formatu PSD(Dokument Photoshop) przy użyciu biblioteki Aspose.Imaging for .NET" %}}
+<p align=justify>Korzystając z biblioteki Aspose.Imaging możesz programowo konwertować różne formaty obrazów na obraz PSD. PSD, Photoshop Document, reprezentuje natywny format plików Adobe Photoshop używany do projektowania i tworzenia grafiki. Pliki PSD mogą zawierać warstwy obrazu, warstwy dopasowania, maski warstw, adnotacje, informacje o plikach, słowa kluczowe i inne elementy charakterystyczne dla programu Photoshop.</p>
 <br/>
 Obsługiwane są następujące konwersje:
 {{% /blocks/products/pf/feature-page-section %}}

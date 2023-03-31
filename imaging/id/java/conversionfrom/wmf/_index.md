@@ -1,20 +1,20 @@
 ﻿---
-title: Konversikan dari WMF ke format lain yang didukung menggunakan Aspose.Imaging untuk Java 
+title: Konversikan dari WMF(Metafile Microsoft Windows) ke format lain yang didukung menggunakan Aspose.Imaging untuk Java API 
 weight: 3920
 url: /id/java/conversion/from/wmf 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging dapat dengan mudah mengonversi dari WMF ke format lain menggunakan platform Java
+description: Aspose.Imaging dapat dengan mudah mengonversi dari WMF(Metafile Microsoft Windows) ke format lain menggunakan platform Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversikan gambar dari format WMF menggunakan Aspose.Imaging untuk Java" h2="Konversi dari format gambar WMF ke format lain menggunakan platform Java" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversikan gambar dari format WMF menggunakan Aspose.Imaging untuk Java" h2="Konversi dari format gambar WMF(Metafile Microsoft Windows) ke format lain menggunakan platform Java" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Spektrum luas format gambar yang dapat dikonversi dari gambar WMF menggunakan Aspose.Imaging untuk Java" %}}
-Anda dapat secara terprogram mengonversi dari format WMF ke format lain yang tersedia menggunakan
-Aspose.Imaging untuk Java.
+{{% blocks/products/pf/feature-page-section  h2="Spektrum luas format gambar yang dapat dikonversi dari gambar WMF(Metafile Microsoft Windows) menggunakan Aspose.Imaging untuk Java" %}}
+<p align=justify>Anda dapat secara terprogram mengonversi dari format WMF ke format lain yang tersedia menggunakan
+Aspose.Imaging untuk Java. File dengan ekstensi WMF mewakili Microsoft Windows Metafile (WMF) untuk menyimpan data gambar vektor dan format bitmap. Agar lebih akurat, WMF termasuk dalam kategori format file vektor dari format file Grafik yang tidak bergantung pada perangkat. Windows Graphical Device Interface (GDI) menggunakan fungsi yang disimpan dalam file WMF untuk menampilkan gambar di layar. Versi WMF yang lebih disempurnakan, yang dikenal sebagai Enhanced Meta Files (EMF), diterbitkan kemudian yang membuat format lebih kaya fitur. Secara praktis, WMF mirip dengan SVG.</p>
 <br/>
 Ada konversi berikut di pesawat:
 {{% /blocks/products/pf/feature-page-section %}}

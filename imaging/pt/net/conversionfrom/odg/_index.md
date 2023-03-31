@@ -1,21 +1,21 @@
 ﻿---
-title: Converta de ODG para outros formatos via .NET 
+title: Converta de ODG(Formato de desenho do Apache OpenOffice) para outros formatos por meio da API de imagem .NET 
 weight: 3920
 url: /pt/net/conversion/from/odg 
 lang: pt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging você pode facilmente converter de ODG para outros formatos
+description: Usando Aspose.Imaging você pode facilmente converter de ODG(Formato de desenho do Apache OpenOffice) para outros formatos
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversão de arquivos de imagem de ODG via .NET" h2="Converter de ODG para outros formatos" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversão de arquivos de imagem de ODG(Formato de desenho do Apache OpenOffice) por meio da API de imagem .NET" h2="Converta de Formato de desenho do Apache OpenOffice para outros formatos usando a API Aspose.Imaging" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos os formatos de imagem compatíveis para conversão de ODG" %}}
-Aspose.Imaging permite automatizar muitas conversões de ODG para outros formatos na plataforma .NET.
+{{% blocks/products/pf/feature-page-section  h2="Todos os formatos de imagem compatíveis para conversão de ODG(Formato de desenho do Apache OpenOffice)" %}}
+<p align=justify>Aspose.Imaging permite automatizar muitas conversões de ODG para outros formatos na plataforma .NET. O formato de arquivo ODG é usado pelo aplicativo Draw do Apache OpenOffice para armazenar elementos de desenho como uma imagem vetorial. Ele segue as especificações de formato de arquivo baseado em XML descritas pelo Advancement of Structural Information Standards (OASIS). ODG representa desenhos como imagens vetoriais usando pontos, linhas e curvas. Além do OpenOffice, o LibreOffice e outros aplicativos também oferecem suporte para trabalhar com o formato de arquivo ODG. Outros formatos suportados pelo OpenOffice, por exemplo, incluem ODT, ODF, ODP e ODS.</p>
 <br/>
-Lista completa de conversões suportadas:
+Lista completa de conversões suportadas de ODG:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -1,21 +1,21 @@
 ﻿---
-title: Převést z ODG do jiných formátů přes .NET 
+title: Převést z formátu ODG(Formát Apache OpenOffice Draw) do jiných formátů prostřednictvím rozhraní API pro obrázky .NET 
 weight: 3920
 url: /cs/net/conversion/from/odg 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Pomocí Aspose.Imaging můžete snadno převést z formátu ODG do jiných formátů
+description: Pomocí Aspose.Imaging můžete snadno převést z formátu ODG(Formát Apache OpenOffice Draw) do jiných formátů
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů z formátu ODG prostřednictvím .NET" h2="Převést z ODG do jiných formátů" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů z formátu ODG(Formát Apache OpenOffice Draw) prostřednictvím rozhraní API pro obrázky .NET" h2="Převeďte z Formát Apache OpenOffice Draw do jiných formátů pomocí Aspose.Imaging API" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu z formátu ODG" %}}
-Aspose.Imaging umožňuje automatizovat mnoho konverzí z ODG do jiných formátů na platformě .NET.
+{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu z formátu ODG (Formát Apache OpenOffice Draw)" %}}
+<p align=justify>Aspose.Imaging umožňuje automatizovat mnoho konverzí z ODG do jiných formátů na platformě .NET. Formát souboru ODG používá aplikace Draw Apache OpenOffice k ukládání prvků výkresu jako vektorový obrázek. Řídí se specifikacemi formátu souborů založenými na XML, které jsou uvedeny v Advancement of Structural Information Standards (OASIS). ODG představuje kresby jako vektorové obrázky pomocí bodů, čar a křivek. Kromě OpenOffice, LibreOffice a další aplikace poskytují podporu pro práci se souborovým formátem ODG. Mezi další formáty podporované například OpenOffice patří ODT, ODF, ODP a ODS.</p>
 <br/>
-Úplný seznam podporovaných konverzí:
+Úplný seznam podporovaných konverzí z ODG:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

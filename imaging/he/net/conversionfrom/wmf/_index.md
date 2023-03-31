@@ -1,21 +1,21 @@
 ﻿---
-title: המר מ-WMF לפורמטים אחרים דרך .NET 
+title: המר מ-WMF(Microsoft Windows Metafile) לפורמטים אחרים באמצעות API של תמונה של .NET 
 weight: 3920
 url: /he/net/conversion/from/wmf 
 lang: he
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: באמצעות Aspose.Imaging תוכל להמיר בקלות מ-WMF לפורמט אחר
+description: באמצעות Aspose.Imaging תוכל להמיר בקלות מ- WMF(Microsoft Windows Metafile) לפורמט אחר
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה מ-WMF דרך .NET" h2="המר מ-WMF לפורמט אחר" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה מ-WMF(Microsoft Windows Metafile) באמצעות API של תמונה של .NET" h2="המר מ-Microsoft Windows Metafile לפורמטים אחרים באמצעות Aspose.Imaging API" downloadText="הורד" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה מ-WMF" %}}
-Aspose.Imaging מאפשר לבצע אוטומציה של המרות רבות מ-WMF לפורמטים אחרים בפלטפורמת NET.
+{{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה מ-WMF(Microsoft Windows Metafile)" %}}
+<p align=justify>Aspose.Imaging מאפשר לבצע אוטומציה של המרות רבות מ-WMF לפורמטים אחרים בפלטפורמת NET. קבצים עם סיומת WMF מייצגים את Microsoft Windows Metafile (WMF) לאחסון נתוני תמונות וקטורים כמו גם בפורמט סיביות. ליתר דיוק, WMF שייך לקטגוריית פורמט קבצים וקטור של פורמטים של קבצי גרפיקה שאינה תלויה במכשיר. ממשק התקן גרפי של Windows (GDI) משתמש בפונקציות המאוחסנות בקובץ WMF כדי להציג תמונה על המסך. מאוחר יותר פורסמה גרסה משופרת יותר של WMF, הידועה בשם Enhanced Meta Files (EMF), שהופכת את הפורמט לעשיר יותר בתכונות. למעשה, WMF דומים ל-SVG.</p>
 <br/>
-רשימה מלאה של המרות נתמכות:
+רשימה מלאה של המרות נתמכות מ-WMF:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

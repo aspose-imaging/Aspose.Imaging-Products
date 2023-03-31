@@ -1,20 +1,20 @@
 ﻿---
-title: Convertir de DJVU vers d'autres formats pris en charge à l'aide d'Aspose.Imaging pour Java 
+title: Convertir de DJVU(Format graphique) vers d'autres formats pris en charge à l'aide d'Aspose.Imaging pour Java API 
 weight: 3920
 url: /fr/java/conversion/from/djvu 
 lang: fr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging peut facilement convertir de DJVU vers d'autres formats à l'aide de la plate-forme Java
+description: Aspose.Imaging peut facilement convertir de DJVU(Format graphique) vers d'autres formats à l'aide de la plate-forme Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convertir des images à partir du format DJVU à l'aide d'Aspose.Imaging pour Java" h2="Convertir du format d'image DJVU vers d'autres formats à l'aide de la plate-forme Java" downloadText="Télécharger" >}}
+{{< blocks/products/pf/feature-page-header h1="Convertir des images à partir du format DJVU à l'aide d'Aspose.Imaging pour Java" h2="Convertir du format d'image DJVU(Format graphique) vers d'autres formats à l'aide de la plate-forme Java" downloadText="Télécharger" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Large éventail de formats d'image pouvant être convertis à partir d'images DJVU à l'aide d'Aspose.Imaging pour Java" %}}
-Vous pouvez convertir par programmation du format DJVU vers d'autres formats disponibles en utilisant
-Aspose.Imaging pour Java.
+{{% blocks/products/pf/feature-page-section  h2="Large éventail de formats d'image pouvant être convertis à partir d'images DJVU(Format graphique) à l'aide d'Aspose.Imaging pour Java" %}}
+<p align=justify>Vous pouvez convertir par programmation du format DJVU vers d'autres formats disponibles en utilisant
+Aspose.Imaging pour Java. DjVu, prononcé comme DJVU, est un format de fichier graphique destiné aux documents numérisés et aux livres, en particulier ceux qui contiennent la combinaison de texte, dessins, images et photographies. Il a été développé par AT&T Labs. Il utilise plusieurs techniques telles que la séparation des couches d'image du texte et des images d'arrière-plan, le chargement progressif, le codage arithmétique et la compression avec perte pour les images bitonales. Étant donné que le fichier DJVU peut contenir des images, des photographies, du texte et des dessins en couleur compressés mais de haute qualité et peut donc être enregistré dans moins d'espace, il est utilisé sur le Web sous forme de livres électroniques, de manuels, de journaux, de documents anciens, etc.</p>
 <br/>
 Il y a les conversions suivantes à bord :
 {{% /blocks/products/pf/feature-page-section %}}

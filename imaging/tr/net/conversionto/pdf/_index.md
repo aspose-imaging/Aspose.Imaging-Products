@@ -1,19 +1,19 @@
 ﻿---
-title: .NET platformunu kullanarak görüntüleri desteklenen diğer biçimlerden PDF görüntü biçimine dönüştürün 
+title: .NET platformunu kullanarak görüntüleri desteklenen diğer biçimlerden PDF(Taşınabilir Belge Formatı (PDF)) görüntü biçimine dönüştürün 
 weight: 3920
 url: /tr/net/conversion/to/pdf 
 lang: tr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging for .NET kitaplığını kullanarak, desteklenen diğer görüntü biçimlerinden PDF biçimine dönüştürmek kolaydır
+description: Aspose.Imaging for .NET kitaplığını kullanarak, desteklenen diğer görüntü biçimlerinden PDF(Taşınabilir Belge Formatı (PDF)) biçimine dönüştürmek kolaydır
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET platformunu kullanarak Görüntü Dosyalarını PDF görüntü formatına dönüştürün" h2="Aspose.Imaging for .NET kitaplığını kullanarak diğer formatlardan PDF formatına dönüştürün" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET platformunu kullanarak Görüntü Dosyalarını PDF(Taşınabilir Belge Formatı (PDF)) görüntü formatına dönüştürün" h2="Aspose.Imaging for .NET kitaplığını kullanarak diğer formatlardan Taşınabilir Belge Formatı (PDF) formatına dönüştürün" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for .NET kitaplığı kullanılarak PDF biçimine desteklenen tüm dönüşümler" %}}
-Aspose.Imaging kütüphanesini kullanarak çeşitli resim formatlarını programlı olarak PDF resme dönüştürebilirsiniz.
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for .NET kitaplığı kullanılarak PDF(Taşınabilir Belge Formatı (PDF)) biçimine desteklenen tüm dönüşümler" %}}
+<p align=justify>Aspose.Imaging kütüphanesini kullanarak çeşitli resim formatlarını programlı olarak PDF resme dönüştürebilirsiniz. Taşınabilir Belge Formatı (PDF), Adobe tarafından 1990'larda oluşturulmuş bir belge türüdür. Bu dosya biçiminin amacı, belgelerin ve diğer başvuru malzemelerinin uygulama yazılımı, donanım ve İşletim Sisteminden bağımsız bir biçimde temsil edilmesi için bir standart getirmekti. PDF dosya formatı, kaynak belgenin bir parçası haline gelebilecek metin, resimler, köprüler, form alanları, zengin medya, dijital imzalar, ekler, meta veriler, Jeo-uzaysal özellikler ve 3B nesneler gibi bilgileri içerme konusunda tam kapasiteye sahiptir.</p>
 <br/>
 Aşağıdaki dönüşümler desteklenir:
 {{% /blocks/products/pf/feature-page-section %}}

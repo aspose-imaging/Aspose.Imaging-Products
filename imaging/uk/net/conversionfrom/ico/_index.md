@@ -1,21 +1,21 @@
 ﻿---
-title: Конвертувати з ICO в інші формати за допомогою .NET 
+title: Перетворення з ICO(Значок Windows) в інші формати за допомогою API зображень .NET 
 weight: 3920
 url: /uk/net/conversion/from/ico 
 lang: uk
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: За допомогою Aspose.Imaging ви можете легко конвертувати з ICO в інші формати
+description: За допомогою Aspose.Imaging ви можете легко конвертувати з ICO(Значок Windows) в інші формати
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Перетворення файлів зображень з ICO за допомогою .NET" h2="Конвертувати з ICO в інші формати" downloadText="Завантажити" >}}
+{{< blocks/products/pf/feature-page-header h1="Перетворення файлів зображень із ICO(Значок Windows) через API зображень .NET" h2="Перетворюйте з Значок Windows в інші формати за допомогою API Aspose.Imaging" downloadText="Завантажити" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для конвертації з ICO" %}}
-Aspose.Imaging дозволяє автоматизувати багато перетворень із ICO в інші формати на платформі .NET.
+{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для конвертації з ICO(Значок Windows)" %}}
+<p align=justify>Aspose.Imaging дозволяє автоматизувати багато перетворень із ICO в інші формати на платформі .NET. Формат файлу ICO — це формат файлу зображення для комп’ютерних значків у Microsoft Windows. Файли ICO містять одне або кілька невеликих зображень різних розмірів і глибини кольору, щоб їх можна було відповідно масштабувати. У Windows усі виконувані файли, які відображають піктограму для користувача на робочому столі, у меню «Пуск» або в Провіднику Windows, повинні мати піктограму у форматі ICO.</p>
 <br/>
-Повний список підтримуваних конвертацій:
+Повний список підтримуваних конвертацій із ICO:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

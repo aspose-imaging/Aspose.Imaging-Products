@@ -1,19 +1,19 @@
 ﻿---
-title: Konvertieren Sie Bilder aus anderen unterstützten Formaten mithilfe der .NET-Plattform in das Bildformat TGA 
+title: Konvertieren Sie Bilder aus anderen unterstützten Formaten mithilfe der .NET-Plattform in das Bildformat TGA(Targa-Grafik) 
 weight: 3920
 url: /de/net/conversion/to/tga 
 lang: de
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Mit Aspose.Imaging für die .NET-Bibliothek ist es einfach, von anderen unterstützten Bildformaten in TGA zu konvertieren
+description: Mit Aspose.Imaging für die .NET-Bibliothek ist es einfach, von anderen unterstützten Bildformaten in TGA(Targa-Grafik) zu konvertieren
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie Bilddateien mithilfe der .NET-Plattform in das Bildformat TGA" h2="Konvertieren Sie mithilfe der Aspose.Imaging for .NET-Bibliothek aus anderen Formaten in das TGA-Format" downloadText="Herunterladen" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie Bilddateien mithilfe der .NET-Plattform in das Bildformat TGA(Targa-Grafik)" h2="Konvertieren Sie mithilfe der Aspose.Imaging for .NET-Bibliothek aus anderen Formaten in das Targa-Grafik-Format" downloadText="Herunterladen" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Konvertierungen in das TGA-Format mit Aspose.Imaging für die .NET-Bibliothek" %}}
-Mit der Aspose.Imaging-Bibliothek können Sie verschiedene Bildformate programmgesteuert in TGA-Bilder konvertieren.
+{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Konvertierungen in das TGA(Targa-Grafik)-Format mit Aspose.Imaging für die .NET-Bibliothek" %}}
+<p align=justify>Mit der Aspose.Imaging-Bibliothek können Sie verschiedene Bildformate programmgesteuert in TGA-Bilder konvertieren. Truevision TGA, oft auch als TARGA bezeichnet, ist ein Rastergrafik-Dateiformat, das von Truevision Inc. (jetzt Teil von Avid Technology) entwickelt wurde. Es war das native Format von TARGA- und VISTA-Karten, die die ersten Grafikkarten für IBM-kompatible PCs waren, die Highcolor/Truecolor-Anzeigen unterstützten.</p>
 <br/>
 Folgende Konvertierungen werden unterstützt:
 {{% /blocks/products/pf/feature-page-section %}}

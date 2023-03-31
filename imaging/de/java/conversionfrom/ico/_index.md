@@ -1,20 +1,20 @@
 ﻿---
-title: Konvertieren Sie mit Aspose.Imaging für Java von ICO in andere unterstützte Formate 
+title: Konvertieren Sie mit Aspose.Imaging für Java von ICO(Windows-Symbol) in andere unterstützte Formate API 
 weight: 3920
 url: /de/java/conversion/from/ico 
 lang: de
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging kann mithilfe der Java-Plattform problemlos von ICO in andere Formate konvertieren
+description: Aspose.Imaging kann mithilfe der Java-Plattform problemlos von ICO(Windows-Symbol) in andere Formate konvertieren
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie Bilder aus dem ICO-Format mit Aspose.Imaging für Java" h2="Konvertieren Sie das Bildformat ICO mithilfe der Java-Plattform in andere Formate" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie Bilder aus dem ICO-Format mit Aspose.Imaging für Java" h2="Konvertieren Sie das Bildformat ICO(Windows-Symbol) mithilfe der Java-Plattform in andere Formate" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Breites Spektrum an Bildformaten, die mit Aspose.Imaging für Java aus ICO-Bildern konvertiert werden können" %}}
-Sie können das ICO-Format programmgesteuert in andere verfügbare Formate konvertieren, indem Sie verwenden
-Aspose.Imaging für Java.
+{{% blocks/products/pf/feature-page-section  h2="Breites Spektrum an Bildformaten, die mit Aspose.Imaging für Java aus ICO(Windows-Symbol)-Bildern konvertiert werden können" %}}
+<p align=justify>Sie können das ICO-Format programmgesteuert in andere verfügbare Formate konvertieren, indem Sie verwenden
+Aspose.Imaging für Java. Das ICO-Dateiformat ist ein Bilddateiformat für Computersymbole in Microsoft Windows. ICO-Dateien enthalten ein oder mehrere kleine Bilder in mehreren Größen und Farbtiefen, sodass sie entsprechend skaliert werden können. In Windows müssen alle ausführbaren Dateien, die dem Benutzer auf dem Desktop, im Startmenü oder im Windows Explorer ein Symbol anzeigen, das Symbol im ICO-Format enthalten.</p>
 <br/>
 Folgende Umbauten sind an Bord:
 {{% /blocks/products/pf/feature-page-section %}}

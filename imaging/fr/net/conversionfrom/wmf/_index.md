@@ -1,21 +1,21 @@
 ﻿---
-title: Convertir de WMF vers d'autres formats via .NET 
+title: Convertir de WMF(Métafichier Microsoft Windows) vers d'autres formats via l'API d'image .NET 
 weight: 3920
 url: /fr/net/conversion/from/wmf 
 lang: fr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: En utilisant Aspose.Imaging, vous pouvez facilement convertir de WMF vers un autre format
+description: En utilisant Aspose.Imaging, vous pouvez facilement convertir de WMF(Métafichier Microsoft Windows) vers un autre format
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversion de fichiers image à partir de WMF via .NET" h2="Convertir de WMF vers un autre format" downloadText="Télécharger" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversion de fichiers image à partir de WMF(Métafichier Microsoft Windows) via l'API d'image .NET" h2="Convertir de Métafichier Microsoft Windows vers d'autres formats à l'aide de l'API Aspose.Imaging" downloadText="Télécharger" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tous les formats d'image pris en charge pour convertir à partir de WMF" %}}
-Aspose.Imaging permet d'automatiser de nombreuses conversions de WMF vers d'autres formats sur la plate-forme .NET.
+{{% blocks/products/pf/feature-page-section  h2="Tous les formats d'image pris en charge pour convertir à partir de WMF(Métafichier Microsoft Windows)" %}}
+<p align=justify>Aspose.Imaging permet d'automatiser de nombreuses conversions de WMF vers d'autres formats sur la plate-forme .NET. Les fichiers avec l'extension WMF représentent le métafichier Microsoft Windows (WMF) pour stocker des données d'images vectorielles et bitmap. Pour être plus précis, WMF appartient à la catégorie des formats de fichiers vectoriels des formats de fichiers graphiques indépendants de l'appareil. L'interface de périphérique graphique Windows (GDI) utilise les fonctions stockées dans un fichier WMF pour afficher une image à l'écran. Une version plus améliorée de WMF, connue sous le nom de Enhanced Meta Files (EMF), a été publiée plus tard, ce qui rend le format plus riche en fonctionnalités. Pratiquement, WMF est similaire à SVG.</p>
 <br/>
-Liste complète des conversions prises en charge :
+Liste complète des conversions prises en charge à partir de WMF :
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

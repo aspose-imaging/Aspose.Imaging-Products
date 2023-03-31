@@ -1,19 +1,19 @@
 ﻿---
-title: המר תמונות לפורמט תמונה SVG מפורמטים נתמכים אחרים באמצעות פלטפורמת NET 
+title: המר תמונות לפורמט תמונה SVG(גרפיקה וקטורית ניתנת להרחבה) מפורמטים נתמכים אחרים באמצעות פלטפורמת NET 
 weight: 3920
 url: /he/net/conversion/to/svg 
 lang: he
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: באמצעות Aspose.Imaging עבור ספריית NET קל להמיר ל-SVG מפורמטי תמונה נתמכים אחרים
+description: באמצעות Aspose.Imaging עבור ספריית NET קל להמיר ל-SVG(גרפיקה וקטורית ניתנת להרחבה) מפורמטי תמונה נתמכים אחרים
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="המר קבצי תמונה לפורמט תמונה SVG באמצעות פלטפורמת NET" h2="המר לפורמט SVG מפורמטים אחרים באמצעות Aspose.Imaging עבור ספריית NET" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="המר קבצי תמונה לפורמט תמונה SVG(גרפיקה וקטורית ניתנת להרחבה) באמצעות פלטפורמת NET" h2="המר לפורמט גרפיקה וקטורית ניתנת להרחבה מפורמטים אחרים באמצעות Aspose.Imaging עבור ספריית NET" downloadText="הורד" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="כל ההמרות הנתמכות לפורמט SVG באמצעות Aspose.Imaging עבור ספריית NET" %}}
-באמצעות ספריית Aspose.Imaging אתה יכול להמיר פורמטים שונים של תמונה לתמונה SVG.
+{{% blocks/products/pf/feature-page-section  h2="כל ההמרות הנתמכות לפורמט SVG(גרפיקה וקטורית ניתנת להרחבה) באמצעות Aspose.Imaging עבור ספריית NET" %}}
+<p align=justify>באמצעות ספריית Aspose.Imaging אתה יכול להמיר פורמטים שונים של תמונה לתמונה SVG. קובצי SVG הם קבצי גרפיקה וקטורית ניתנים להרחבה המשתמשים בפורמט טקסט מבוסס XML לתיאור מראה התמונה. המילה Scalable מתייחסת לעובדה שניתן להגדיל את ה-SVG לגדלים שונים מבלי לאבד כל איכות. תיאור מבוסס טקסט של קבצים כאלה הופך אותם לבלתי תלויים ברזולוציה. זהו אחד הפורמטים הנפוצים ביותר לבניית אתרים וגרפיקה להדפסה על מנת להשיג מדרגיות. עם זאת, הפורמט יכול לשמש רק עבור גרפיקה דו מימדית. ניתן להציג/לפתוח קבצי SVG כמעט בכל הדפדפנים המודרניים כולל Chrome, Internet Explorer, Firefox ו-Safari.</p>
 <br/>
 ההמרות הבאות נתמכות:
 {{% /blocks/products/pf/feature-page-section %}}

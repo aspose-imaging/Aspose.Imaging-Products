@@ -1,20 +1,20 @@
 ﻿---
-title: Converteer van SVG naar andere ondersteunde formaten met Aspose.Imaging voor Java 
+title: Converteer van SVG(Schaalbare vectorafbeeldingen) naar andere ondersteunde formaten met Aspose.Imaging voor Java API 
 weight: 3920
 url: /nl/java/conversion/from/svg 
 lang: nl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging kan eenvoudig converteren van SVG naar andere formaten met behulp van het Java-platform
+description: Aspose.Imaging kan eenvoudig converteren van SVG(Schaalbare vectorafbeeldingen) naar andere formaten met behulp van het Java-platform
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer afbeeldingen van SVG-indeling met Aspose.Imaging voor Java" h2="Converteer van SVG afbeeldingsformaat naar andere formaten met behulp van het Java-platform" downloadText="Downloaden" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer afbeeldingen van SVG-indeling met Aspose.Imaging voor Java" h2="Converteer van SVG(Schaalbare vectorafbeeldingen) afbeeldingsformaat naar andere formaten met behulp van het Java-platform" downloadText="Downloaden" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Breed spectrum aan afbeeldingsindelingen die kunnen worden geconverteerd van SVG-afbeeldingen met Aspose.Imaging voor Java" %}}
-U kunt programmatisch converteren van het SVG-formaat naar andere beschikbare formaten met behulp van
-Aspose.Imaging voor Java.
+{{% blocks/products/pf/feature-page-section  h2="Breed spectrum aan afbeeldingsindelingen die kunnen worden geconverteerd van SVG(Schaalbare vectorafbeeldingen)-afbeeldingen met Aspose.Imaging voor Java" %}}
+<p align=justify>U kunt programmatisch converteren van het SVG-formaat naar andere beschikbare formaten met behulp van
+Aspose.Imaging voor Java. SVG-bestanden zijn schaalbare vectorafbeeldingsbestanden die op XML gebaseerde tekstindeling gebruiken om het uiterlijk van de afbeelding te beschrijven. Het woord Scalable verwijst naar het feit dat de SVG kan worden geschaald naar verschillende formaten zonder kwaliteitsverlies. Op tekst gebaseerde beschrijving van dergelijke bestanden maakt ze onafhankelijk van resolutie. Het is een van de meest gebruikte formaten voor het bouwen van website- en printafbeeldingen om schaalbaarheid te bereiken. Het formaat kan echter alleen worden gebruikt voor tweedimensionale afbeeldingen. SVG-bestanden kunnen worden bekeken/geopend in bijna alle moderne browsers, waaronder Chrome, Internet Explorer, Firefox en Safari.</p>
 <br/>
 Er zijn de volgende verbouwingen aan boord:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,21 +1,21 @@
 ﻿---
-title: Convertir de WEBP vers d'autres formats via .NET 
+title: Convertir de WEBP(Image Web raster) vers d'autres formats via l'API d'image .NET 
 weight: 3920
 url: /fr/net/conversion/from/webp 
 lang: fr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: En utilisant Aspose.Imaging, vous pouvez facilement convertir de WEBP vers un autre format
+description: En utilisant Aspose.Imaging, vous pouvez facilement convertir de WEBP(Image Web raster) vers un autre format
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversion de fichiers image à partir de WEBP via .NET" h2="Convertir de WEBP vers un autre format" downloadText="Télécharger" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversion de fichiers image à partir de WEBP(Image Web raster) via l'API d'image .NET" h2="Convertir de Image Web raster vers d'autres formats à l'aide de l'API Aspose.Imaging" downloadText="Télécharger" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tous les formats d'image pris en charge pour convertir à partir de WEBP" %}}
-Aspose.Imaging permet d'automatiser de nombreuses conversions de WEBP vers d'autres formats sur la plate-forme .NET.
+{{% blocks/products/pf/feature-page-section  h2="Tous les formats d'image pris en charge pour convertir à partir de WEBP(Image Web raster)" %}}
+<p align=justify>Aspose.Imaging permet d'automatiser de nombreuses conversions de WEBP vers d'autres formats sur la plate-forme .NET. WebP, introduit par Google, est un format de fichier d'image Web raster moderne basé sur une compression sans perte et avec perte. Il offre la même qualité d'image tout en réduisant considérablement la taille de l'image. Étant donné que la plupart des pages Web utilisent des images comme représentation efficace des données, l'utilisation d'images WebP dans les pages Web entraîne un chargement plus rapide des pages Web. Selon Google, les images WebP sans perte sont 26 % plus petites que les PNG, tandis que les images WebP avec perte sont 25 à 34 % plus petites que les images JPEG comparables. Les images sont comparées sur la base de l'indice de similarité structurelle (SSIM) entre WebP et d'autres formats de fichiers image. WebP est un projet frère du format de conteneur multimédia WebM.</p>
 <br/>
-Liste complète des conversions prises en charge :
+Liste complète des conversions prises en charge à partir de WEBP :
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -1,19 +1,19 @@
 ﻿---
-title: Převeďte obrázky do formátu obrázku BMP z jiných podporovaných formátů pomocí platformy .NET 
+title: Převeďte obrázky do formátu obrázku BMP(Bitmapový obrázek) z jiných podporovaných formátů pomocí platformy .NET 
 weight: 3920
 url: /cs/net/conversion/to/bmp 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Pomocí knihovny Aspose.Imaging for .NET je snadné převést do formátu BMP z jiných podporovaných formátů obrázků
+description: Pomocí knihovny Aspose.Imaging for .NET je snadné převést do formátu BMP(Bitmapový obrázek) z jiných podporovaných formátů obrázků
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převeďte soubory obrázků do formátu obrázků BMP pomocí platformy .NET" h2="Převeďte do formátu BMP z jiných formátů pomocí knihovny Aspose.Imaging for .NET" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Převeďte soubory obrázků do formátu obrázků BMP(Bitmapový obrázek) pomocí platformy .NET" h2="Převeďte do formátu Bitmapový obrázek z jiných formátů pomocí knihovny Aspose.Imaging for .NET" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované převody do formátu BMP pomocí knihovny Aspose.Imaging for .NET" %}}
-Pomocí knihovny Aspose.Imaging můžete programově převádět různé formáty obrázků na obrázek BMP.
+{{% blocks/products/pf/feature-page-section  h2="Všechny podporované převody do formátu BMP(Bitmapový obrázek) pomocí knihovny Aspose.Imaging for .NET" %}}
+<p align=justify>Pomocí knihovny Aspose.Imaging můžete programově převádět různé formáty obrázků na obrázek BMP. Soubory s příponou .BMP představují soubory bitmapových obrázků, které se používají k ukládání bitmapových digitálních obrázků. Tyto obrázky jsou nezávislé na grafickém adaptéru a nazývají se také formát souboru bitmap nezávislý na zařízení (DIB). Tato nezávislost slouží k otevření souboru na více platformách, jako jsou Microsoft Windows a Mac. Souborový formát BMP může ukládat data jako dvourozměrné digitální obrázky v monochromatickém i barevném formátu s různými barevnými hloubkami.</p>
 <br/>
 Podporovány jsou následující převody:
 {{% /blocks/products/pf/feature-page-section %}}

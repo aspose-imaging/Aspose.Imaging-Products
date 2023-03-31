@@ -1,21 +1,21 @@
 ﻿---
-title: Converteren van DIB naar andere formaten Via .NET 
+title: Converteer van DIB(Apparaatonafhankelijke bitmap) naar andere formaten via de .NET afbeeldings-API 
 weight: 3920
 url: /nl/net/conversion/from/dib 
 lang: nl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Met behulp van Aspose.Imaging kunt u eenvoudig converteren van DIB naar een ander formaat
+description: Met behulp van Aspose.Imaging kunt u eenvoudig converteren van DIB(Apparaatonafhankelijke bitmap) naar een ander formaat
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversie van afbeeldingsbestanden van DIB via .NET" h2="Converteer van DIB naar een ander formaat" downloadText="Downloaden" >}}
+{{< blocks/products/pf/feature-page-header h1="Afbeeldingsbestanden Conversie van DIB(Apparaatonafhankelijke bitmap) via .NET afbeeldings-API" h2="Converteer van Apparaatonafhankelijke bitmap naar andere formaten met behulp van de Aspose.Imaging API" downloadText="Downloaden" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde afbeeldingsindelingen om te converteren van DIB" %}}
-Aspose.Imaging maakt het mogelijk veel conversies van DIB naar andere formaten op het .NET-platform te automatiseren.
+{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde afbeeldingsindelingen om te converteren van DIB(Apparaatonafhankelijke bitmap)" %}}
+<p align=justify>Aspose.Imaging maakt het mogelijk veel conversies van DIB naar andere formaten op het .NET-platform te automatiseren. Een DIB-bestand (Device Independent Bitmap) is een rasterafbeeldingsbestand dat qua structuur vergelijkbaar is met de standaard Bitmap-bestanden (BMP), maar een andere kop heeft. Het kan worden geopend met bijna alle toepassingen die een standaard BMP-bestand op Windows en macOS kunnen openen. DIB zijn binaire bestanden en hebben een complexe bestandsindeling die lijkt op BMP.</p>
 <br/>
-Volledige lijst met ondersteunde conversies:
+Volledige lijst met ondersteunde conversies van DIB:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

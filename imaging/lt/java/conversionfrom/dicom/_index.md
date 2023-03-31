@@ -1,20 +1,20 @@
 ﻿---
-title: Konvertuokite iš DICOM į kitus palaikomus formatus naudodami Aspose.Imaging for Java 
+title: Konvertuokite iš DICOM(Skaitmeninis vaizdas ir ryšiai) į kitus palaikomus formatus naudodami Aspose.Imaging for Java API 
 weight: 3920
 url: /lt/java/conversion/from/dicom 
 lang: lt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: „Aspose.Imaging“ gali lengvai konvertuoti iš DICOM į kitus formatus naudojant „Java“ platformą
+description: „Aspose.Imaging“ gali lengvai konvertuoti iš DICOM(Skaitmeninis vaizdas ir ryšiai) į kitus formatus naudojant „Java“ platformą
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertuokite vaizdus iš DICOM formato naudodami Aspose.Imaging for Java" h2="Konvertuokite iš DICOM vaizdo formato į kitus formatus naudodami Java platformą" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertuokite vaizdus iš DICOM formato naudodami Aspose.Imaging for Java" h2="Konvertuokite iš DICOM(Skaitmeninis vaizdas ir ryšiai) vaizdo formato į kitus formatus naudodami Java platformą" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Platus vaizdo formatų spektras, kurį galima konvertuoti iš DICOM vaizdų naudojant Aspose.Imaging for Java" %}}
-Galite programiškai konvertuoti iš DICOM formato į kitus galimus formatus naudodami
-Aspose.Imaging for Java.
+{{% blocks/products/pf/feature-page-section  h2="Platus vaizdo formatų spektras, kurį galima konvertuoti iš DICOM(Skaitmeninis vaizdas ir ryšiai) vaizdų naudojant Aspose.Imaging for Java" %}}
+<p align=justify>Galite programiškai konvertuoti iš DICOM formato į kitus galimus formatus naudodami
+Aspose.Imaging for Java. DICOM yra skaitmeninio vaizdo gavimo ir ryšių medicinos akronimas ir yra susijęs su medicinos informatikos sritimi. DICOM yra failo formato apibrėžimo ir tinklo ryšio protokolo derinys. DICOM naudoja .DCM plėtinį. .DCM yra dviem skirtingais formatais, ty 1.x formatu ir 2.x formatu. DCM formatas 1.x taip pat galimas dviem versijomis: normalia ir išplėstine. DICOM naudojamas įvairių tiekėjų medicininiams vaizdo gavimo įrenginiams, pvz., spausdintuvams, serveriams, skaitytuvams ir tt, integruoti. Be to, jame yra kiekvieno paciento identifikavimo duomenys, siekiant unikalumo. DICOM failus galima dalytis tarp dviejų šalių, jei jos gali priimti vaizdo duomenis DICOM formatu. DICOM komunikacijos dalis yra taikomojo lygmens protokolas ir naudoja TCP/IP ryšį tarp objektų. DICOM žiniatinklio paslaugoms naudojami HTTP ir HTTPS protokolai. Žiniatinklio paslaugų palaikomos versijos yra 1.0, 1.1, 2 arba naujesnės.</p>
 <br/>
 Laive yra šios konversijos:
 {{% /blocks/products/pf/feature-page-section %}}

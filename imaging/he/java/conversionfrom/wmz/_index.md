@@ -1,20 +1,20 @@
 ﻿---
-title: המר מ-WMZ לפורמטים נתמכים אחרים באמצעות Aspose.Imaging עבור Java 
+title: המר מ-WMZ(עור דחוס של Windows Media Player) לפורמטים נתמכים אחרים באמצעות Aspose.Imaging עבור Java API 
 weight: 3920
 url: /he/java/conversion/from/wmz 
 lang: he
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging יכולה להמיר בקלות מ-WMZ לפורמטים אחרים באמצעות פלטפורמת Java
+description: Aspose.Imaging יכולה להמיר בקלות מ-WMZ(עור דחוס של Windows Media Player) לפורמטים אחרים באמצעות פלטפורמת Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="המר תמונות מפורמט WMZ באמצעות Aspose.Imaging עבור Java" h2="המר מפורמט תמונה WMZ לפורמטים אחרים באמצעות פלטפורמת Java" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="המר תמונות מפורמט WMZ באמצעות Aspose.Imaging עבור Java" h2="המר מפורמט תמונה WMZ(עור דחוס של Windows Media Player) לפורמטים אחרים באמצעות פלטפורמת Java" downloadText="הורד" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="ספקטרום רחב של פורמטים של תמונות שניתן להמיר מתמונות WMZ באמצעות Aspose.Imaging עבור Java" %}}
-אתה יכול להמיר באופן תכנותי מפורמט WMZ לפורמטים זמינים אחרים באמצעות
-Aspose.Imaging עבור Java.
+{{% blocks/products/pf/feature-page-section  h2="ספקטרום רחב של פורמטים של תמונות שניתן להמיר מתמונות WMZ(עור דחוס של Windows Media Player) באמצעות Aspose.Imaging עבור Java" %}}
+<p align=justify>אתה יכול להמיר באופן תכנותי מפורמט WMZ לפורמטים זמינים אחרים באמצעות
+Aspose.Imaging עבור Java. WMZ היא סיומת קובץ עבור פורמט קובץ סקין ב/עבור/בשימוש על ידי Windows Media Player. קובץ WMZ הוא בעצם קובץ WMF דחוס ב-XML.</p>
 <br/>
 ישנן ההמרות הבאות על הסיפון:
 {{% /blocks/products/pf/feature-page-section %}}

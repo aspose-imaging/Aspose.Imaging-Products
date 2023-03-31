@@ -1,19 +1,19 @@
 ﻿---
-title: تحويل الصور إلى تنسيق صورة WMF من التنسيقات الأخرى المدعومة باستخدام منصة .NET 
+title: تحويل الصور إلى تنسيق صورة WMF(ملف تعريف Microsoft Windows) من التنسيقات الأخرى المدعومة باستخدام منصة .NET 
 weight: 3920
 url: /ar/net/conversion/to/wmf 
 lang: ar
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: باستخدام Aspose.Imaging لمكتبة .NET يسهل التحويل إلى WMF من تنسيقات الصور الأخرى المدعومة
+description: باستخدام Aspose.Imaging لمكتبة .NET يسهل التحويل إلى WMF(ملف تعريف Microsoft Windows) من تنسيقات الصور الأخرى المدعومة
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل ملفات الصور إلى تنسيق صورة WMF باستخدام منصة .NET" h2="تحويل إلى تنسيق WMF من التنسيقات الأخرى باستخدام Aspose.Imaging لمكتبة .NET" downloadText="تحميل" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل ملفات الصور إلى تنسيق صورة WMF(ملف تعريف Microsoft Windows) باستخدام منصة .NET" h2="تحويل إلى تنسيق ملف تعريف Microsoft Windows من التنسيقات الأخرى باستخدام Aspose.Imaging لمكتبة .NET" downloadText="تحميل" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="جميع التحويلات المدعومة إلى تنسيق WMF باستخدام Aspose.Imaging for .NET library" %}}
-باستخدام مكتبة Aspose.Imaging ، يمكنك تحويل العديد من تنسيقات الصور إلى صورة WMF برمجيًا.
+{{% blocks/products/pf/feature-page-section  h2="جميع التحويلات المدعومة إلى تنسيق WMF(ملف تعريف Microsoft Windows) باستخدام Aspose.Imaging for .NET library" %}}
+<p align=justify>باستخدام مكتبة Aspose.Imaging ، يمكنك تحويل العديد من تنسيقات الصور إلى صورة WMF برمجيًا. تمثل الملفات ذات الامتداد WMF Microsoft Windows Metafile (WMF) لتخزين بيانات الصور المتجهة وكذلك الصور النقطية. لكي تكون أكثر دقة ، تنتمي WMF إلى فئة تنسيق ملف متجه لتنسيقات ملفات الرسومات المستقلة عن الجهاز. تستخدم واجهة جهاز Windows الرسومية (GDI) الوظائف المخزنة في ملف WMF لعرض صورة على الشاشة. تم نشر إصدار محسن أكثر من WMF ، والمعروف باسم Enhanced Meta Files (EMF) ، في وقت لاحق مما يجعل التنسيق أكثر ثراءً بالميزات. من الناحية العملية ، تشبه WMF SVG.</p>
 <br/>
 يتم دعم التحويلات التالية:
 {{% /blocks/products/pf/feature-page-section %}}

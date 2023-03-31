@@ -1,21 +1,21 @@
 ﻿---
-title: Converti da GIF in altri formati tramite .NET 
+title: Conversione da GIF(Formato di scambio grafico) ad altri formati tramite API immagine .NET 
 weight: 3920
 url: /it/net/conversion/from/gif 
 lang: it
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging puoi facilmente convertire da GIF ad altri formati
+description: Usando Aspose.Imaging puoi facilmente convertire da GIF(Formato di scambio grafico) ad altri formati
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversione di file immagine da GIF tramite .NET" h2="Converti da GIF in altri formati" downloadText="Scarica" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversione di file immagine da GIF(Formato di scambio grafico) tramite l'API immagine .NET" h2="Converti da Formato di scambio grafico in altri formati utilizzando l'API Aspose.Imaging" downloadText="Scarica" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tutti i formati immagine supportati per la conversione da GIF" %}}
-Aspose.Imaging consente di automatizzare molte conversioni da GIF ad altri formati sulla piattaforma .NET.
+{{% blocks/products/pf/feature-page-section  h2="Tutti i formati immagine supportati per la conversione da GIF(Formato di scambio grafico)" %}}
+<p align=justify>Aspose.Imaging consente di automatizzare molte conversioni da GIF ad altri formati sulla piattaforma .NET. Un formato GIF o Graphical Interchange Format è un tipo di immagine altamente compressa. Di proprietà di Unisys, GIF utilizza l'algoritmo di compressione LZW che non degrada la qualità dell'immagine. Per ogni immagine GIF in genere consentono fino a 8 bit per pixel e sono consentiti fino a 256 colori nell'immagine. In contrasto con un'immagine JPEG, che può visualizzare fino a 16 milioni di colori e tocca abbastanza i limiti dell'occhio umano. Quando è emerso Internet, le GIF sono rimaste la scelta migliore perché richiedevano una larghezza di banda ridotta e compatibili per la grafica che consuma aree di colore solide. Una GIF animata combina numerose immagini o fotogrammi in un unico file e le visualizza in sequenza per generare una clip animata o un breve video. I limiti di colore sono fino a 256 per ogni fotogramma e sono probabilmente i meno adatti per riprodurre altre immagini e fotografie con gradiente di colore.</p>
 <br/>
-Elenco completo delle conversioni supportate:
+Elenco completo delle conversioni supportate da GIF:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

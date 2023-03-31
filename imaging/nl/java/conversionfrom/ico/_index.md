@@ -1,20 +1,20 @@
 ﻿---
-title: Converteer van ICO naar andere ondersteunde formaten met Aspose.Imaging voor Java 
+title: Converteer van ICO(Windows-pictogram) naar andere ondersteunde formaten met Aspose.Imaging voor Java API 
 weight: 3920
 url: /nl/java/conversion/from/ico 
 lang: nl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging kan eenvoudig converteren van ICO naar andere formaten met behulp van het Java-platform
+description: Aspose.Imaging kan eenvoudig converteren van ICO(Windows-pictogram) naar andere formaten met behulp van het Java-platform
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer afbeeldingen van ICO-indeling met Aspose.Imaging voor Java" h2="Converteer van ICO afbeeldingsformaat naar andere formaten met behulp van het Java-platform" downloadText="Downloaden" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer afbeeldingen van ICO-indeling met Aspose.Imaging voor Java" h2="Converteer van ICO(Windows-pictogram) afbeeldingsformaat naar andere formaten met behulp van het Java-platform" downloadText="Downloaden" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Breed spectrum aan afbeeldingsindelingen die kunnen worden geconverteerd van ICO-afbeeldingen met Aspose.Imaging voor Java" %}}
-U kunt programmatisch converteren van het ICO-formaat naar andere beschikbare formaten met behulp van
-Aspose.Imaging voor Java.
+{{% blocks/products/pf/feature-page-section  h2="Breed spectrum aan afbeeldingsindelingen die kunnen worden geconverteerd van ICO(Windows-pictogram)-afbeeldingen met Aspose.Imaging voor Java" %}}
+<p align=justify>U kunt programmatisch converteren van het ICO-formaat naar andere beschikbare formaten met behulp van
+Aspose.Imaging voor Java. De ICO-bestandsindeling is een afbeeldingsbestandsindeling voor computerpictogrammen in Microsoft Windows. ICO-bestanden bevatten een of meer kleine afbeeldingen met meerdere formaten en kleurdiepten, zodat ze op de juiste manier kunnen worden geschaald. In Windows moeten alle uitvoerbare bestanden die een pictogram weergeven aan de gebruiker, op het bureaublad, in het Startmenu of in Windows Verkenner, het pictogram in ICO-indeling dragen.</p>
 <br/>
 Er zijn de volgende verbouwingen aan boord:
 {{% /blocks/products/pf/feature-page-section %}}

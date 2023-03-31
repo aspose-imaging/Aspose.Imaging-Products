@@ -1,19 +1,19 @@
 ﻿---
-title: Converti immagini in formato immagine HTML da altri formati supportati utilizzando la piattaforma .NET 
+title: Converti immagini in formato immagine HTML(Tela HTML5) da altri formati supportati utilizzando la piattaforma .NET 
 weight: 3920
 url: /it/net/conversion/to/html 
 lang: it
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Utilizzando Aspose.Imaging per la libreria .NET è facile convertire in HTML da altri formati di immagine supportati
+description: Utilizzando Aspose.Imaging per la libreria .NET è facile convertire in HTML(Tela HTML5) da altri formati di immagine supportati
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converti file immagine in formato immagine HTML utilizzando la piattaforma .NET" h2="Converti in formato HTML da altri formati utilizzando Aspose.Imaging per la libreria .NET" downloadText="Scarica" >}}
+{{< blocks/products/pf/feature-page-header h1="Converti file immagine in formato immagine HTML(Tela HTML5) utilizzando la piattaforma .NET" h2="Converti in formato Tela HTML5 da altri formati utilizzando Aspose.Imaging per la libreria .NET" downloadText="Scarica" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tutte le conversioni supportate nel formato HTML utilizzando Aspose.Imaging per la libreria .NET" %}}
-Utilizzando la libreria Aspose.Imaging è possibile convertire in modo programmatico vari formati di immagine in HTML image.
+{{% blocks/products/pf/feature-page-section  h2="Tutte le conversioni supportate nel formato HTML(Tela HTML5) utilizzando Aspose.Imaging per la libreria .NET" %}}
+<p align=justify>Utilizzando la libreria Aspose.Imaging è possibile convertire in modo programmatico vari formati di immagine in HTML image. HTML (Hyper Text Markup Language) è l'estensione per le pagine web create per la visualizzazione nei browser. Conosciuto come linguaggio del web, l'HTML si è evoluto con i requisiti di nuovi requisiti informativi da visualizzare come parte delle pagine web. L'ultima variante è nota come HTML 5 che offre molta flessibilità per lavorare con la lingua. Le pagine HTML vengono ricevute dal server, dove sono ospitate, oppure possono essere caricate anche dal sistema locale. Ogni pagina HTML è composta da elementi HTML come moduli, testo, immagini, animazioni, collegamenti, ecc. Questi elementi sono rappresentati da tag come img, a, p e molti altri in cui ogni tag ha inizio e fine. Può anche incorporare applicazioni scritte in linguaggi di scripting come JavaScript e fogli di stile (CSS) per la rappresentazione generale del layout.</p>
 <br/>
 Sono supportate le seguenti conversioni:
 {{% /blocks/products/pf/feature-page-section %}}

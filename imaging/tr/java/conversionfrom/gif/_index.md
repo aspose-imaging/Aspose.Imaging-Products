@@ -1,20 +1,20 @@
 ﻿---
-title: Aspose.Imaging for Java kullanarak GIF formatını desteklenen diğer formatlara dönüştürün 
+title: Aspose.Imaging for Java API kullanarak GIF(Grafik Değişim Formatı) formatını desteklenen diğer formatlara dönüştürün 
 weight: 3920
 url: /tr/java/conversion/from/gif 
 lang: tr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging, Java platformunu kullanarak GIF biçimini diğer biçimlere kolayca dönüştürebilir
+description: Aspose.Imaging, Java platformunu kullanarak GIF(Grafik Değişim Formatı) biçimini diğer biçimlere kolayca dönüştürebilir
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java kullanarak görüntüleri GIF formatından dönüştürün" h2="Java platformunu kullanarak GIF görüntü biçiminden diğer biçimlere dönüştürme" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java kullanarak görüntüleri GIF formatından dönüştürün" h2="Java platformunu kullanarak GIF(Grafik Değişim Formatı) görüntü biçiminden diğer biçimlere dönüştürme" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java kullanılarak GIF görüntülerden dönüştürülebilen geniş görüntü formatları yelpazesi" %}}
-kullanarak GIF biçiminden diğer kullanılabilir biçimlere programlı olarak dönüştürebilirsiniz.
-Java için Aspose.Imaging.
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java kullanılarak GIF(Grafik Değişim Formatı) görüntülerden dönüştürülebilen geniş görüntü formatları yelpazesi" %}}
+<p align=justify>kullanarak GIF biçiminden diğer kullanılabilir biçimlere programlı olarak dönüştürebilirsiniz.
+Java için Aspose.Imaging. GIF veya Grafik Değişim Biçimi, yüksek oranda sıkıştırılmış bir görüntü türüdür. Unisys'e ait olan GIF, görüntü kalitesini düşürmeyen LZW sıkıştırma algoritmasını kullanır. Her görüntü için GIF tipik olarak piksel başına 8 bite kadar izin verir ve görüntü genelinde 256 renge kadar izin verilir. 16 milyona kadar renk gösterebilen ve insan gözünün sınırlarına oldukça dokunan bir JPEG görüntüsünün aksine. İnternet ortaya çıktığında, GIF'ler düşük bant genişliği gerektirdiğinden ve düz renkli alanlar tüketen grafiklerle uyumlu olduğundan en iyi seçenek olarak kaldı. Animasyonlu bir GIF, çok sayıda görüntüyü veya çerçeveyi tek bir dosyada birleştirir ve hareketli bir klip veya kısa bir video oluşturmak için bunları bir sırayla görüntüler. Renk sınırlamaları her kare için 256'ya kadardır ve renk gradyanlı diğer görüntülerin ve fotoğrafların çoğaltılması için en az uygun olanlardır.</p>
 <br/>
 Gemide aşağıdaki dönüşümler var:
 {{% /blocks/products/pf/feature-page-section %}}

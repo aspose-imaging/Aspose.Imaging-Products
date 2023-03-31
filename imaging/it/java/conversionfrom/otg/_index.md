@@ -1,20 +1,20 @@
 ﻿---
-title: Converti da OTG in altri formati supportati utilizzando Aspose.Imaging per Java 
+title: Converti da OTG(Standard OpenDocument) in altri formati supportati utilizzando Aspose.Imaging per Java API 
 weight: 3920
 url: /it/java/conversion/from/otg 
 lang: it
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging può facilmente convertire da OTG ad altri formati utilizzando la piattaforma Java
+description: Aspose.Imaging può facilmente convertire da OTG(Standard OpenDocument) ad altri formati utilizzando la piattaforma Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converti immagini dal formato OTG utilizzando Aspose.Imaging per Java" h2="Converti dal formato immagine OTG in altri formati utilizzando la piattaforma Java" downloadText="Scarica" >}}
+{{< blocks/products/pf/feature-page-header h1="Converti immagini dal formato OTG utilizzando Aspose.Imaging per Java" h2="Converti dal formato immagine OTG(Standard OpenDocument) in altri formati utilizzando la piattaforma Java" downloadText="Scarica" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Ampio spettro di formati immagine che possono essere convertiti da immagini OTG utilizzando Aspose.Imaging per Java" %}}
-Puoi convertire in modo programmatico dal formato OTG in altri formati disponibili utilizzando
-Aspose.Imaging per Java.
+{{% blocks/products/pf/feature-page-section  h2="Ampio spettro di formati immagine che possono essere convertiti da immagini OTG(Standard OpenDocument) utilizzando Aspose.Imaging per Java" %}}
+<p align=justify>Puoi convertire in modo programmatico dal formato OTG in altri formati disponibili utilizzando
+Aspose.Imaging per Java. Un file OTG è un modello di disegno creato utilizzando lo standard OpenDocument che segue la specifica OASIS Office Applications 1.0. Rappresenta l'organizzazione predefinita degli elementi di disegno per un'immagine vettoriale che può essere utilizzata per migliorare ulteriormente il contenuto del file.</p>
 <br/>
 Ci sono le seguenti conversioni a bordo:
 {{% /blocks/products/pf/feature-page-section %}}

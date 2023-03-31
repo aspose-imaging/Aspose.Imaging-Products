@@ -1,21 +1,21 @@
 ﻿---
-title: Convertir de BMP vers d'autres formats via .NET 
+title: Convierta de BMP(Imagen de mapa de bits) a otros formatos a través de la API de imágenes .NET 
 weight: 3920
 url: /es/net/conversion/from/bmp 
 lang: es
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging puede convertir fácilmente de BMP a otros formatos
+description: Usando Aspose.Imaging puede convertir fácilmente de BMP(Imagen de mapa de bits) a otros formatos
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversión de archivos de imagen de BMP a través de .NET" h2="Convertir de BMP a otros formatos" downloadText="Descargar" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversión de archivos de imagen de BMP(Imagen de mapa de bits) a través de la API de imagen .NET" h2="Convierta de Imagen de mapa de bits a otros formatos usando Aspose.Imaging API" downloadText="Descargar" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos los formatos de imagen admitidos para convertir desde BMP" %}}
-Aspose.Imaging permite automatizar muchas conversiones de BMP a otros formatos en la plataforma .NET.
+{{% blocks/products/pf/feature-page-section  h2="Todos los formatos de imagen admitidos para convertir desde BMP(Imagen de mapa de bits)" %}}
+<p align=justify>Aspose.Imaging permite automatizar muchas conversiones de BMP a otros formatos en la plataforma .NET. Los archivos que tienen la extensión .BMP representan archivos de imagen de mapa de bits que se utilizan para almacenar imágenes digitales de mapa de bits. Estas imágenes son independientes del adaptador de gráficos y también se denominan formato de archivo de mapa de bits independiente del dispositivo (DIB). Esta independencia sirve para abrir el archivo en múltiples plataformas, como Microsoft Windows y Mac. El formato de archivo BMP puede almacenar datos como imágenes digitales bidimensionales tanto en formato monocromático como en color con varias profundidades de color.</p>
 <br/>
-Lista completa de conversiones admitidas:
+Lista completa de conversiones admitidas de BMP:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -1,21 +1,21 @@
 ﻿---
-title: Převést z JPEG do jiných formátů přes .NET 
+title: Převést z formátu JPEG(Společná skupina fotografických expertů) do jiných formátů prostřednictvím rozhraní API pro obrázky .NET 
 weight: 3920
 url: /cs/net/conversion/from/jpeg 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Pomocí Aspose.Imaging můžete snadno převést z formátu JPEG do jiných formátů
+description: Pomocí Aspose.Imaging můžete snadno převést z formátu JPEG(Společná skupina fotografických expertů) do jiných formátů
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů z formátu JPEG prostřednictvím .NET" h2="Převést z JPEG do jiných formátů" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů z formátu JPEG(Společná skupina fotografických expertů) prostřednictvím rozhraní API pro obrázky .NET" h2="Převeďte z Společná skupina fotografických expertů do jiných formátů pomocí Aspose.Imaging API" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu z formátu JPEG" %}}
-Aspose.Imaging umožňuje automatizovat mnoho konverzí z JPEG do jiných formátů na platformě .NET.
+{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu z formátu JPEG (Společná skupina fotografických expertů)" %}}
+<p align=justify>Aspose.Imaging umožňuje automatizovat mnoho konverzí z JPEG do jiných formátů na platformě .NET. JPEG je typ obrazového formátu, který se ukládá pomocí metody ztrátové komprese. Výstupní obraz, jako výsledek komprese, je kompromisem mezi velikostí úložiště a kvalitou obrazu. Uživatelé mohou upravit úroveň komprese tak, aby dosáhli požadované úrovně kvality a zároveň snížili velikost úložiště. Kvalita obrazu je zanedbatelně ovlivněna, pokud je na obraz aplikována komprese 10:1. Čím vyšší je hodnota komprese, tím vyšší je zhoršení kvality obrazu.</p>
 <br/>
-Úplný seznam podporovaných konverzí:
+Úplný seznam podporovaných konverzí z JPEG:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

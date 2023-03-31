@@ -1,20 +1,20 @@
 ﻿---
-title: Aspose.Imaging for Java kullanarak TGA formatını desteklenen diğer formatlara dönüştürün 
+title: Aspose.Imaging for Java API kullanarak TGA(Targa Grafiği) formatını desteklenen diğer formatlara dönüştürün 
 weight: 3920
 url: /tr/java/conversion/from/tga 
 lang: tr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging, Java platformunu kullanarak TGA biçimini diğer biçimlere kolayca dönüştürebilir
+description: Aspose.Imaging, Java platformunu kullanarak TGA(Targa Grafiği) biçimini diğer biçimlere kolayca dönüştürebilir
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java kullanarak görüntüleri TGA formatından dönüştürün" h2="Java platformunu kullanarak TGA görüntü biçiminden diğer biçimlere dönüştürme" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java kullanarak görüntüleri TGA formatından dönüştürün" h2="Java platformunu kullanarak TGA(Targa Grafiği) görüntü biçiminden diğer biçimlere dönüştürme" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java kullanılarak TGA görüntülerden dönüştürülebilen geniş görüntü formatları yelpazesi" %}}
-kullanarak TGA biçiminden diğer kullanılabilir biçimlere programlı olarak dönüştürebilirsiniz.
-Java için Aspose.Imaging.
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java kullanılarak TGA(Targa Grafiği) görüntülerden dönüştürülebilen geniş görüntü formatları yelpazesi" %}}
+<p align=justify>kullanarak TGA biçiminden diğer kullanılabilir biçimlere programlı olarak dönüştürebilirsiniz.
+Java için Aspose.Imaging. Genellikle TARGA olarak adlandırılan Truevision TGA, Truevision Inc. (şimdi Avid Technology'nin bir parçası) tarafından oluşturulan bir raster grafik dosyası formatıdır. IBM uyumlu PC'ler için Highcolor/truecolor ekranı destekleyen ilk grafik kartları olan TARGA ve VISTA kartlarının yerel formatıydı.</p>
 <br/>
 Gemide aşağıdaki dönüşümler var:
 {{% /blocks/products/pf/feature-page-section %}}

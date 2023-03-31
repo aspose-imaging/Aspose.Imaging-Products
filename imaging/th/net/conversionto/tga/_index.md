@@ -1,19 +1,19 @@
 ﻿---
-title: แปลงรูปภาพเป็นรูปแบบ TGA จากรูปแบบอื่นที่รองรับโดยใช้แพลตฟอร์ม .NET 
+title: แปลงรูปภาพเป็นรูปแบบ TGA(Targa Graphic) จากรูปแบบอื่นที่รองรับโดยใช้แพลตฟอร์ม .NET 
 weight: 3920
 url: /th/net/conversion/to/tga 
 lang: th
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: การใช้ Aspose.Imaging สำหรับไลบรารี .NET ทำให้ง่ายต่อการแปลงเป็น TGA จากรูปแบบรูปภาพอื่นๆ ที่รองรับ
+description: การใช้ Aspose.Imaging สำหรับไลบรารี .NET ทำให้ง่ายต่อการแปลงเป็น TGA(Targa Graphic) จากรูปแบบรูปภาพอื่นๆ ที่รองรับ
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="แปลงไฟล์รูปภาพเป็นรูปแบบรูปภาพ TGA โดยใช้แพลตฟอร์ม .NET" h2="แปลงเป็นรูปแบบ TGA จากรูปแบบอื่นโดยใช้ Aspose.Imaging สำหรับไลบรารี .NET" downloadText="ดาวน์โหลด" >}}
+{{< blocks/products/pf/feature-page-header h1="แปลงไฟล์รูปภาพเป็นรูปแบบรูปภาพ TGA(Targa Graphic) โดยใช้แพลตฟอร์ม .NET" h2="แปลงเป็นรูปแบบ Targa Graphic จากรูปแบบอื่นโดยใช้ Aspose.Imaging สำหรับไลบรารี .NET" downloadText="ดาวน์โหลด" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="การแปลงที่รองรับทั้งหมดเป็นรูปแบบ TGA โดยใช้ Aspose.Imaging สำหรับไลบรารี .NET" %}}
-การใช้ไลบรารี Aspose.Imaging คุณสามารถแปลงรูปแบบรูปภาพต่างๆ เป็นรูปภาพ TGA โดยทางโปรแกรม
+{{% blocks/products/pf/feature-page-section  h2="การแปลงที่รองรับทั้งหมดเป็นรูปแบบ TGA(Targa Graphic) โดยใช้ Aspose.Imaging สำหรับไลบรารี .NET" %}}
+<p align=justify>การใช้ไลบรารี Aspose.Imaging คุณสามารถแปลงรูปแบบรูปภาพต่างๆ เป็นรูปภาพ TGA โดยทางโปรแกรม Truevision TGA ซึ่งมักเรียกกันว่า TARGA เป็นรูปแบบไฟล์กราฟิกแรสเตอร์ที่สร้างโดย Truevision Inc. (ปัจจุบันเป็นส่วนหนึ่งของ Avid Technology) เป็นรูปแบบดั้งเดิมของบอร์ด TARGA และ VISTA ซึ่งเป็นกราฟิกการ์ดรุ่นแรกสำหรับพีซีที่เข้ากันได้กับ IBM เพื่อรองรับการแสดงผล Highcolor/truecolor</p>
 <br/>
 รองรับการแปลงต่อไปนี้:
 {{% /blocks/products/pf/feature-page-section %}}

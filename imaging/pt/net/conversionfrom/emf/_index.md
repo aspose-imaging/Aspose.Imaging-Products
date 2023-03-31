@@ -1,21 +1,21 @@
 ﻿---
-title: Converta de EMF para outros formatos via .NET 
+title: Converta de EMF(Formato de metarquivo aprimorado) para outros formatos por meio da API de imagem .NET 
 weight: 3920
 url: /pt/net/conversion/from/emf 
 lang: pt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging você pode facilmente converter de EMF para outros formatos
+description: Usando Aspose.Imaging você pode facilmente converter de EMF(Formato de metarquivo aprimorado) para outros formatos
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversão de arquivos de imagem de EMF via .NET" h2="Converter de EMF para outros formatos" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversão de arquivos de imagem de EMF(Formato de metarquivo aprimorado) por meio da API de imagem .NET" h2="Converta de Formato de metarquivo aprimorado para outros formatos usando a API Aspose.Imaging" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos os formatos de imagem compatíveis para conversão de EMF" %}}
-Aspose.Imaging permite automatizar muitas conversões de EMF para outros formatos na plataforma .NET.
+{{% blocks/products/pf/feature-page-section  h2="Todos os formatos de imagem compatíveis para conversão de EMF(Formato de metarquivo aprimorado)" %}}
+<p align=justify>Aspose.Imaging permite automatizar muitas conversões de EMF para outros formatos na plataforma .NET. O formato de metarquivo aprimorado (EMF) armazena imagens gráficas independentemente do dispositivo. Os metarquivos de EMF são compostos por registros de comprimento variável em ordem cronológica que podem renderizar a imagem armazenada após a análise em qualquer dispositivo de saída. Esses registros de comprimento variável podem ser definições de objetos incluídos, comandos para desenho e propriedades gráficas críticas para renderizar a imagem com precisão. Quando um dispositivo abre um metarquivo EMF usando seu próprio ambiente gráfico, as proporções, dimensões, cores e outras propriedades gráficas da imagem original permanecem as mesmas, independentemente da plataforma do dispositivo de abertura.</p>
 <br/>
-Lista completa de conversões suportadas:
+Lista completa de conversões suportadas de EMF:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

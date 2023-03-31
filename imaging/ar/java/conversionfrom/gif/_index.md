@@ -1,20 +1,20 @@
 ﻿---
-title: قم بالتحويل من GIF إلى التنسيقات الأخرى المدعومة باستخدام Aspose.Imaging for Java 
+title: قم بالتحويل من GIF(تنسيق التبادل الرسومي) إلى التنسيقات الأخرى المدعومة باستخدام Aspose.Imaging for Java API 
 weight: 3920
 url: /ar/java/conversion/from/gif 
 lang: ar
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging يمكن تحويله بسهولة من GIF إلى تنسيقات أخرى باستخدام Java platform
+description: Aspose.Imaging يمكن تحويله بسهولة من GIF(تنسيق التبادل الرسومي) إلى تنسيقات أخرى باستخدام Java platform
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل الصور من تنسيق GIF باستخدام Aspose.Imaging for Java" h2="تحويل من تنسيق صورة GIF إلى تنسيقات أخرى باستخدام نظام Java الأساسي" downloadText="تحميل" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل الصور من تنسيق GIF باستخدام Aspose.Imaging for Java" h2="تحويل من تنسيق صورة GIF(تنسيق التبادل الرسومي) إلى تنسيقات أخرى باستخدام نظام Java الأساسي" downloadText="تحميل" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="مجموعة واسعة من تنسيقات الصور التي يمكن تحويلها من صور GIF باستخدام Aspose.Imaging for Java" %}}
-يمكنك تحويل برمجيًا من تنسيق GIF إلى تنسيقات أخرى متاحة باستخدام
-Aspose.Imaging لجافا.
+{{% blocks/products/pf/feature-page-section  h2="مجموعة واسعة من تنسيقات الصور التي يمكن تحويلها من صور GIF(تنسيق التبادل الرسومي) باستخدام Aspose.Imaging for Java" %}}
+<p align=justify>يمكنك تحويل برمجيًا من تنسيق GIF إلى تنسيقات أخرى متاحة باستخدام
+Aspose.Imaging لجافا. تنسيق GIF أو تنسيق التبادل الرسومي هو نوع من الصور المضغوطة بشدة. يستخدم GIF ، المملوك من قبل Unisys ، خوارزمية ضغط LZW التي لا تقلل من جودة الصورة. لكل صورة ، يسمح GIF عادةً بما يصل إلى 8 بت لكل بكسل وما يصل إلى 256 لونًا مسموح به عبر الصورة. على عكس صورة JPEG ، التي يمكنها عرض ما يصل إلى 16 مليون لون وتلامس إلى حد ما حدود العين البشرية. عندما ظهر الإنترنت ، ظلت ملفات GIF هي الخيار الأفضل لأنها تتطلب نطاقًا تردديًا منخفضًا ومتوافقة مع الرسومات التي تستهلك مناطق صلبة من الألوان. تجمع صورة GIF المتحركة العديد من الصور أو الإطارات في ملف واحد وتعرضها في تسلسل لإنشاء مقطع متحرك أو مقطع فيديو قصير. تصل حدود اللون إلى 256 لكل إطار ومن المحتمل أن تكون الأقل ملاءمة لإعادة إنتاج الصور والصور الفوتوغرافية الأخرى ذات التدرج اللوني.</p>
 <br/>
 هناك التحويلات التالية على متن الطائرة:
 {{% /blocks/products/pf/feature-page-section %}}

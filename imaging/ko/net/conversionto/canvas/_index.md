@@ -1,19 +1,19 @@
 ﻿---
-title: .NET 플랫폼을 사용하여 지원되는 다른 형식에서 이미지를 CANVAS 이미지 형식으로 변환 
+title: .NET 플랫폼을 사용하여 지원되는 다른 형식에서 이미지를 CANVAS(HTML5 캔버스) 이미지 형식으로 변환 
 weight: 3920
 url: /ko/net/conversion/to/canvas 
 lang: ko
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: .NET 라이브러리용 Aspose.Imaging을 사용하면 지원되는 다른 이미지 형식에서 CANVAS로 쉽게 변환할 수 있습니다.
+description: .NET 라이브러리용 Aspose.Imaging을 사용하면 지원되는 다른 이미지 형식에서 CANVAS(HTML5 캔버스)로 쉽게 변환할 수 있습니다.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET 플랫폼을 사용하여 이미지 파일을 CANVAS 이미지 형식으로 변환" h2=".NET용 Aspose.Imaging 라이브러리를 사용하여 다른 형식에서 CANVAS 형식으로 변환" downloadText="다운로드" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET 플랫폼을 사용하여 이미지 파일을 CANVAS(HTML5 캔버스) 이미지 형식으로 변환" h2=".NET용 Aspose.Imaging 라이브러리를 사용하여 다른 형식에서 HTML5 캔버스 형식으로 변환" downloadText="다운로드" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2=".NET 라이브러리용 Aspose.Imaging을 사용하여 CANVAS 형식으로 지원되는 모든 변환" %}}
-Aspose.Imaging 라이브러리를 사용하면 프로그래밍 방식으로 다양한 이미지 형식을 CANVAS 이미지로 변환할 수 있습니다.
+{{% blocks/products/pf/feature-page-section  h2=".NET 라이브러리용 Aspose.Imaging을 사용하여 CANVAS(HTML5 캔버스) 형식으로 지원되는 모든 변환" %}}
+<p align=justify>Aspose.Imaging 라이브러리를 사용하면 프로그래밍 방식으로 다양한 이미지 형식을 CANVAS 이미지로 변환할 수 있습니다. HTML(Hyper Text Markup Language)은 브라우저에 표시하기 위해 생성된 웹 페이지의 확장입니다. 웹 언어로 알려진 HTML은 웹 페이지의 일부로 표시되어야 하는 새로운 정보 요구 사항과 함께 발전했습니다. 최신 변형은 HTML 5로 알려져 있으며 언어 작업에 많은 유연성을 제공합니다. HTML 페이지는 호스팅되는 서버에서 수신하거나 로컬 시스템에서도 로드할 수 있습니다. 각 HTML 페이지는 양식, 텍스트, 이미지, 애니메이션, 링크 등과 같은 HTML 요소로 구성됩니다. 이러한 요소는 img, a, p 및 각 태그에 시작과 끝이 있는 여러 태그와 같은 태그로 표시됩니다. 또한 전체 레이아웃 표현을 위해 JavaScript 및 CSS(스타일 시트)와 같은 스크립팅 언어로 작성된 응용 프로그램을 포함할 수 있습니다.</p>
 <br/>
 다음 변환이 지원됩니다.
 {{% /blocks/products/pf/feature-page-section %}}

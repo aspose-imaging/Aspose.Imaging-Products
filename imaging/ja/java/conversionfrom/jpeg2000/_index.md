@@ -1,20 +1,20 @@
 ﻿---
-title: Aspose.Imaging for Java を使用して、JPEG2000 から他のサポートされている形式に変換します。 
+title: Aspose.Imaging for Java API を使用して、JPEG2000(JPEG 2000) から他のサポートされている形式に変換します。 
 weight: 3920
 url: /ja/java/conversion/from/jpeg2000 
 lang: ja
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging は、Java プラットフォームを使用して JPEG2000 から他のフォーマットに簡単に変換できます
+description: Aspose.Imaging は、Java プラットフォームを使用して JPEG2000(JPEG 2000) から他のフォーマットに簡単に変換できます
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java を使用して JPEG2000 フォーマットから画像を変換します" h2="Java プラットフォームを使用して、JPEG2000 画像形式から他の形式に変換します" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java を使用して JPEG2000 フォーマットから画像を変換します" h2="Java プラットフォームを使用して、JPEG2000(JPEG 2000) 画像形式から他の形式に変換します" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java を使用して JPEG2000 画像から変換できる幅広い画像フォーマット" %}}
-次を使用して、JPEG2000 形式から他の使用可能な形式にプログラムで変換できます。
-Aspose.Imaging for Java。
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java を使用して JPEG2000(JPEG 2000) 画像から変換できる幅広い画像フォーマット" %}}
+<p align=justify>次を使用して、JPEG2000 形式から他の使用可能な形式にプログラムで変換できます。
+Aspose.Imaging for Java。 JPEG 2000（JP2）は、画像コーディングシステムであり、最先端の画像圧縮規格です。ウェーブレットテクノロジーを使用して設計されたJPEG2000は、ロスレスコンテンツを任意の品質で一度にコーディングできます。さらに、コーディング効率に実質的なペナルティを課すことなく、JPEG 2000には、同じコンテンツに効果的にアクセスしてデコードし、他のさまざまな解像度や品質に変換する機能があります。 JPEG 2000のコードストリームは非常にスケーラブルであり、空間ランダムアクセスの機能を提供する関心領域があります。テラピクセル単位の寸法と38ビット/サンプルの高精度を備えた最大16384の多様なコンポーネントを備えています。</p>
 <br/>
 機内では次の変換があります。
 {{% /blocks/products/pf/feature-page-section %}}

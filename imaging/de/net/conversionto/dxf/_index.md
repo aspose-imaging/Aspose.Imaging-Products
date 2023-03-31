@@ -1,19 +1,19 @@
 ﻿---
-title: Konvertieren Sie Bilder aus anderen unterstützten Formaten mithilfe der .NET-Plattform in das Bildformat DXF 
+title: Konvertieren Sie Bilder aus anderen unterstützten Formaten mithilfe der .NET-Plattform in das Bildformat DXF(Zeichnungsaustauschformat oder Zeichnungsaustauschformat,) 
 weight: 3920
 url: /de/net/conversion/to/dxf 
 lang: de
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Mit Aspose.Imaging für die .NET-Bibliothek ist es einfach, von anderen unterstützten Bildformaten in DXF zu konvertieren
+description: Mit Aspose.Imaging für die .NET-Bibliothek ist es einfach, von anderen unterstützten Bildformaten in DXF(Zeichnungsaustauschformat oder Zeichnungsaustauschformat,) zu konvertieren
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie Bilddateien mithilfe der .NET-Plattform in das Bildformat DXF" h2="Konvertieren Sie mithilfe der Aspose.Imaging for .NET-Bibliothek aus anderen Formaten in das DXF-Format" downloadText="Herunterladen" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie Bilddateien mithilfe der .NET-Plattform in das Bildformat DXF(Zeichnungsaustauschformat oder Zeichnungsaustauschformat,)" h2="Konvertieren Sie mithilfe der Aspose.Imaging for .NET-Bibliothek aus anderen Formaten in das Zeichnungsaustauschformat oder Zeichnungsaustauschformat,-Format" downloadText="Herunterladen" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Konvertierungen in das DXF-Format mit Aspose.Imaging für die .NET-Bibliothek" %}}
-Mit der Aspose.Imaging-Bibliothek können Sie verschiedene Bildformate programmgesteuert in DXF-Bilder konvertieren.
+{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Konvertierungen in das DXF(Zeichnungsaustauschformat oder Zeichnungsaustauschformat,)-Format mit Aspose.Imaging für die .NET-Bibliothek" %}}
+<p align=justify>Mit der Aspose.Imaging-Bibliothek können Sie verschiedene Bildformate programmgesteuert in DXF-Bilder konvertieren. DXF, Drawing Interchange Format oder Drawing Exchange Format, ist eine getaggte Datendarstellung der AutoCAD-Zeichnungsdatei. Jedes Element in der Datei hat eine Präfix-Ganzzahl, die als Gruppencode bezeichnet wird. Dieser Gruppencode stellt tatsächlich das folgende Element dar und gibt die Bedeutung eines Datenelements für einen bestimmten Objekttyp an. DXF ermöglicht es, nahezu alle benutzerspezifischen Informationen in einer Zeichnungsdatei darzustellen.</p>
 <br/>
 Folgende Konvertierungen werden unterstützt:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,21 +1,21 @@
 ﻿---
-title: המר מ-EMZ לפורמטים אחרים דרך .NET 
+title: המר מ-EMZ(Metafile משופר דחוס של Windows) לפורמטים אחרים באמצעות API של תמונה של .NET 
 weight: 3920
 url: /he/net/conversion/from/emz 
 lang: he
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: באמצעות Aspose.Imaging תוכל להמיר בקלות מ-EMZ לפורמט אחר
+description: באמצעות Aspose.Imaging תוכל להמיר בקלות מ- EMZ(Metafile משופר דחוס של Windows) לפורמט אחר
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה מ-EMZ דרך .NET" h2="המר מ-EMZ לפורמט אחר" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה מ-EMZ(Metafile משופר דחוס של Windows) באמצעות API של תמונה של .NET" h2="המר מ-Metafile משופר דחוס של Windows לפורמטים אחרים באמצעות Aspose.Imaging API" downloadText="הורד" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה מ-EMZ" %}}
-Aspose.Imaging מאפשר לבצע אוטומציה של המרות רבות מ-EMZ לפורמטים אחרים בפלטפורמת NET.
+{{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה מ-EMZ(Metafile משופר דחוס של Windows)" %}}
+<p align=justify>Aspose.Imaging מאפשר לבצע אוטומציה של המרות רבות מ-EMZ לפורמטים אחרים בפלטפורמת NET. קובץ עם סיומת הקובץ EMZ הוא קובץ תמונה דחוס, המכונה באופן ספציפי יותר קובץ Windows Compressed Enhanced Metafile</p>
 <br/>
-רשימה מלאה של המרות נתמכות:
+רשימה מלאה של המרות נתמכות מ-EMZ:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

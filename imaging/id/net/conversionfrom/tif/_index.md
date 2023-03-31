@@ -1,21 +1,21 @@
 ﻿---
-title: Konversikan dari TIF ke format lain Melalui .NET 
+title: Konversikan dari TIF(Format Gambar yang Ditandai) ke format lain Melalui API gambar .NET 
 weight: 3920
 url: /id/net/conversion/from/tif 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi dari TIF ke format lain
+description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi dari TIF(Format Gambar yang Ditandai) ke format lain
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar dari TIF Melalui .NET" h2="Konversikan dari TIF ke format lain" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar dari TIF(Format Gambar yang Ditandai) Melalui API gambar .NET" h2="Konversikan dari Format Gambar yang Ditandai ke format lain menggunakan Aspose.Imaging API" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari TIF" %}}
-Aspose.Imaging memungkinkan mengotomatiskan banyak konversi dari TIF ke format lain di platform .NET.
+{{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari TIF(Format Gambar yang Ditandai)" %}}
+<p align=justify>Aspose.Imaging memungkinkan mengotomatiskan banyak konversi dari TIF ke format lain di platform .NET. </p>
 <br/>
-Daftar lengkap konversi yang didukung:
+Daftar lengkap konversi yang didukung dari TIF:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

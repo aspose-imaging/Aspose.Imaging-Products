@@ -1,20 +1,20 @@
 ﻿---
-title: Convierta de WMF a otros formatos admitidos usando Aspose.Imaging para Java 
+title: Convierta de WMF(Metarchivo de Microsoft Windows) a otros formatos admitidos usando Aspose.Imaging para Java API. 
 weight: 3920
 url: /es/java/conversion/from/wmf 
 lang: es
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging puede convertir fácilmente de WMF a otros formatos usando la plataforma Java
+description: Aspose.Imaging puede convertir fácilmente de WMF(Metarchivo de Microsoft Windows) a otros formatos usando la plataforma Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convierta imágenes del formato WMF usando Aspose.Imaging para Java" h2="Convierta del formato de imagen WMF a otros formatos utilizando la plataforma Java" downloadText="Descargar" >}}
+{{< blocks/products/pf/feature-page-header h1="Convierta imágenes del formato WMF usando Aspose.Imaging para Java" h2="Convierta del formato de imagen WMF(Metarchivo de Microsoft Windows) a otros formatos utilizando la plataforma Java" downloadText="Descargar" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Amplio espectro de formatos de imagen que se pueden convertir a partir de imágenes WMF usando Aspose.Imaging para Java" %}}
-Puede convertir programáticamente del formato WMF a otros formatos disponibles usando
-Aspose. Imaging para Java.
+{{% blocks/products/pf/feature-page-section  h2="Amplio espectro de formatos de imagen que se pueden convertir a partir de imágenes WMF(Metarchivo de Microsoft Windows) usando Aspose.Imaging para Java" %}}
+<p align=justify>Puede convertir programáticamente del formato WMF a otros formatos disponibles usando
+Aspose. Imaging para Java. Los archivos con la extensión WMF representan el metarchivo de Microsoft Windows (WMF) para almacenar datos de imágenes vectoriales y de formato de mapa de bits. Para ser más precisos, WMF pertenece a la categoría de formato de archivo vectorial de formatos de archivo de gráficos que es independiente del dispositivo. La interfaz de dispositivo gráfico de Windows (GDI) utiliza las funciones almacenadas en un archivo WMF para mostrar una imagen en la pantalla. Más tarde se publicó una versión más mejorada de WMF, conocida como Enhanced Meta Files (EMF), que hace que el formato tenga más funciones. Prácticamente, WMF son similares a SVG.</p>
 <br/>
 Hay las siguientes conversiones a bordo:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,20 +1,20 @@
 ﻿---
-title: Aspose.Imaging for Java を使用して、BMP から他のサポートされている形式に変換します。 
+title: Aspose.Imaging for Java API を使用して、BMP(ビットマップ画像) から他のサポートされている形式に変換します。 
 weight: 3920
 url: /ja/java/conversion/from/bmp 
 lang: ja
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging は、Java プラットフォームを使用して BMP から他のフォーマットに簡単に変換できます
+description: Aspose.Imaging は、Java プラットフォームを使用して BMP(ビットマップ画像) から他のフォーマットに簡単に変換できます
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java を使用して BMP フォーマットから画像を変換します" h2="Java プラットフォームを使用して、BMP 画像形式から他の形式に変換します" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java を使用して BMP フォーマットから画像を変換します" h2="Java プラットフォームを使用して、BMP(ビットマップ画像) 画像形式から他の形式に変換します" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java を使用して BMP 画像から変換できる幅広い画像フォーマット" %}}
-次を使用して、BMP 形式から他の使用可能な形式にプログラムで変換できます。
-Aspose.Imaging for Java。
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java を使用して BMP(ビットマップ画像) 画像から変換できる幅広い画像フォーマット" %}}
+<p align=justify>次を使用して、BMP 形式から他の使用可能な形式にプログラムで変換できます。
+Aspose.Imaging for Java。 拡張子が.BMPのファイルは、ビットマップデジタル画像の保存に使用されるビットマップ画像ファイルを表します。これらの画像はグラフィックアダプタから独立しており、デバイスに依存しないビットマップ（DIB）ファイル形式とも呼ばれます。この独立性は、MicrosoftWindowsやMacなどの複数のプラットフォームでファイルを開くという目的を果たします。 BMPファイル形式では、データを2次元デジタル画像として、モノクロとさまざまな色深度のカラー形式の両方で保存できます。</p>
 <br/>
 機内では次の変換があります。
 {{% /blocks/products/pf/feature-page-section %}}

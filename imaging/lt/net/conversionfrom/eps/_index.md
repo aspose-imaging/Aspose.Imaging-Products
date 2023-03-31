@@ -1,21 +1,21 @@
 ﻿---
-title: Konvertuoti iš EPS į kitus formatus per .NET 
+title: Konvertuoti iš EPS(Inkapsuliuota PostScript kalba) į kitus formatus naudojant .NET vaizdo API 
 weight: 3920
 url: /lt/net/conversion/from/eps 
 lang: lt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Naudodami Aspose.Imaging galite lengvai konvertuoti iš EPS į kitus formatus
+description: Naudodami Aspose.Imaging galite lengvai konvertuoti iš EPS(Inkapsuliuota PostScript kalba) į kitus formatus
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas iš EPS naudojant .NET" h2="Konvertuoti iš EPS į kitus formatus" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas iš EPS(Inkapsuliuota PostScript kalba) naudojant .NET vaizdo API" h2="Konvertuokite iš Inkapsuliuota PostScript kalba į kitus formatus naudodami Aspose.Imaging API" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai konvertuoti iš EPS" %}}
-Aspose.Imaging leidžia automatizuoti daug konversijų iš EPS į kitus formatus .NET platformoje.
+{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai, konvertuojami iš EPS(Inkapsuliuota PostScript kalba)" %}}
+<p align=justify>Aspose.Imaging leidžia automatizuoti daug konversijų iš EPS į kitus formatus .NET platformoje. Failai su EPS plėtiniu iš esmės apibūdina Encapsulated PostScript kalbos programą, kuri apibūdina vieno puslapio išvaizdą. Pavadinimas „Inkapsuliuotas“, nes jis gali būti įtrauktas arba įdėtas į kitą „PostScript“ kalbos puslapio aprašą. Šis scenarijus pagrįstas failo formatas gali turėti bet kokį teksto, grafikos ir vaizdų derinį. EPS failuose gali būti bitmap peržiūros vaizdas, įdėtas į vidų, kad būtų rodomas programos, galinčios atidaryti tokius failus. EPS failus galima konvertuoti į standartinius vaizdo formatus, tokius kaip JPG, PNG, TIFF ir PDF, naudojant įvairias programas, pvz. „Adobe Illustrator“, „Photoshop“ ir „PaintShop Pro“. Dėl EPS failų saugos pažeidžiamumo „Office 2016“, „Office 2013“, „Office 2010“ ir „Office 365“ išjungė galimybę įterpti EPS failus į „Office“ dokumentus.</p>
 <br/>
-Visas palaikomų konversijų sąrašas:
+Visas palaikomų konversijų iš EPS sąrašas:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

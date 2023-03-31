@@ -1,21 +1,21 @@
 ﻿---
-title: .NET을 통해 APNG에서 다른 형식으로 변환 
+title: .NET 이미지 API를 통해 APNG(애니메이션 휴대용 네트워크 그래픽)에서 다른 형식으로 변환 
 weight: 3920
 url: /ko/net/conversion/from/apng 
 lang: ko
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging을 사용하면 APNG에서 다른 형식으로 쉽게 변환할 수 있습니다.
+description: Aspose.Imaging을 사용하면 APNG(애니메이션 휴대용 네트워크 그래픽) 에서 다른 형식으로 쉽게 변환할 수 있습니다.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET을 통해 APNG에서 이미지 파일 변환" h2="APNG에서 다른 형식으로 변환" downloadText="다운로드" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET 이미지 API를 통해 APNG(애니메이션 휴대용 네트워크 그래픽)에서 이미지 파일 변환" h2="Aspose.Imaging API를 사용하여 애니메이션 휴대용 네트워크 그래픽에서 다른 형식으로 변환" downloadText="다운로드" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="APNG에서 변환할 지원되는 모든 이미지 형식" %}}
-Aspose.Imaging을 사용하면 APNG에서 .NET 플랫폼의 다른 형식으로 많은 변환을 자동화할 수 있습니다.
+{{% blocks/products/pf/feature-page-section  h2="APNG(애니메이션 휴대용 네트워크 그래픽)에서 변환할 지원되는 모든 이미지 형식 .apng(Animated Portable Network Graphics) 확장자를 가진 파일은 래스터 그래픽 형식이며 PNG(Portable Network Graphic)의 비공식 확장자입니다. 애니메이션 시퀀스를 나타내는 여러 프레임(각각 PNG 이미지)으로 구성됩니다. 이것은 GIF 파일과 유사한 시각화를 제공합니다. APNG 파일은 24비트 이미지와 8비트 투명도를 지원합니다. APNG는 애니메이션이 아닌 GIF 파일과 역호환됩니다. APNG 파일은 동일한 .png 확장자를 사용하며 Mozilla Firefox, APNG 지원 Chrome, iOS 10용 iMessage 앱과 같은 응용 프로그램에서 열 수 있습니다." %}}
+<p align=justify>Aspose.Imaging을 사용하면 APNG에서 .NET 플랫폼의 다른 형식으로 많은 변환을 자동화할 수 있습니다.</p>
 <br/>
-지원되는 변환의 전체 목록:
+APNG에서 지원되는 변환의 전체 목록:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

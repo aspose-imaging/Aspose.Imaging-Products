@@ -1,19 +1,19 @@
 ﻿---
-title: Konvertuokite vaizdus į EMF vaizdo formatą iš kitų palaikomų formatų naudodami .NET platformą 
+title: Konvertuokite vaizdus į EMF(Patobulintas metafailo formatas) vaizdo formatą iš kitų palaikomų formatų naudodami .NET platformą 
 weight: 3920
 url: /lt/net/conversion/to/emf 
 lang: lt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Naudojant Aspose.Imaging, skirta .NET bibliotekai, lengva konvertuoti į EMF iš kitų palaikomų vaizdo formatų
+description: Naudojant Aspose.Imaging, skirta .NET bibliotekai, lengva konvertuoti į EMF(Patobulintas metafailo formatas) iš kitų palaikomų vaizdo formatų
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertuokite vaizdo failus į EMF vaizdo formatą naudodami .NET platformą" h2="Konvertuokite į EMF formatą iš kitų formatų naudodami Aspose.Imaging, skirtą .NET bibliotekai" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertuokite vaizdo failus į EMF(Patobulintas metafailo formatas) vaizdo formatą naudodami .NET platformą" h2="Konvertuokite į Patobulintas metafailo formatas formatą iš kitų formatų naudodami Aspose.Imaging, skirtą .NET bibliotekai" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visos palaikomos konversijos į EMF formatą naudojant Aspose.Imaging for .NET biblioteką" %}}
-Naudodami Aspose.Imaging biblioteką galite programiškai konvertuoti įvairius vaizdo formatus į EMF vaizdą.
+{{% blocks/products/pf/feature-page-section  h2="Visos palaikomos konversijos į EMF(Patobulintas metafailo formatas) formatą naudojant Aspose.Imaging for .NET biblioteką" %}}
+<p align=justify>Naudodami Aspose.Imaging biblioteką galite programiškai konvertuoti įvairius vaizdo formatus į EMF vaizdą. Patobulintas metafailo formatas (EMF) išsaugo grafinius vaizdus nepriklausomai nuo įrenginio. EMF metafailus sudaro kintamo ilgio įrašai chronologine tvarka, kurie gali pateikti saugomą vaizdą, išanalizuoti bet kuriame išvesties įrenginyje. Šie kintamo ilgio įrašai gali būti uždarų objektų apibrėžimai, piešimo komandos ir grafinės savybės, būtinos norint tiksliai atvaizduoti vaizdą. Kai įrenginys atidaro EMF metafailą naudodamas savo grafinę aplinką, pradinio vaizdo proporcijos, matmenys, spalvos ir kitos grafinės savybės išlieka tos pačios, neatsižvelgiant į atidarymo įrenginio platformą.</p>
 <br/>
 Palaikomos šios konversijos:
 {{% /blocks/products/pf/feature-page-section %}}

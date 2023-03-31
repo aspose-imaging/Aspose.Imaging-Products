@@ -1,21 +1,21 @@
 ﻿---
-title: Converteren van OTG naar andere formaten Via .NET 
+title: Converteer van OTG(OpenDocument-standaard) naar andere formaten via de .NET afbeeldings-API 
 weight: 3920
 url: /nl/net/conversion/from/otg 
 lang: nl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Met behulp van Aspose.Imaging kunt u eenvoudig converteren van OTG naar een ander formaat
+description: Met behulp van Aspose.Imaging kunt u eenvoudig converteren van OTG(OpenDocument-standaard) naar een ander formaat
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversie van afbeeldingsbestanden van OTG via .NET" h2="Converteer van OTG naar een ander formaat" downloadText="Downloaden" >}}
+{{< blocks/products/pf/feature-page-header h1="Afbeeldingsbestanden Conversie van OTG(OpenDocument-standaard) via .NET afbeeldings-API" h2="Converteer van OpenDocument-standaard naar andere formaten met behulp van de Aspose.Imaging API" downloadText="Downloaden" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde afbeeldingsindelingen om te converteren van OTG" %}}
-Aspose.Imaging maakt het mogelijk veel conversies van OTG naar andere formaten op het .NET-platform te automatiseren.
+{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde afbeeldingsindelingen om te converteren van OTG(OpenDocument-standaard)" %}}
+<p align=justify>Aspose.Imaging maakt het mogelijk veel conversies van OTG naar andere formaten op het .NET-platform te automatiseren. Een OTG-bestand is een tekeningsjabloon die is gemaakt met behulp van de OpenDocument-standaard die de OASIS Office Applications 1.0-specificatie volgt. Het vertegenwoordigt de standaardorganisatie van tekenelementen voor een vectorafbeelding die kan worden gebruikt om de inhoud van het bestand verder te verbeteren.</p>
 <br/>
-Volledige lijst met ondersteunde conversies:
+Volledige lijst met ondersteunde conversies van OTG:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

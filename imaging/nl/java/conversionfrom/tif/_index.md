@@ -1,20 +1,20 @@
 ﻿---
-title: Converteer van TIF naar andere ondersteunde formaten met Aspose.Imaging voor Java 
+title: Converteer van TIF(Gelabelde afbeeldingsindeling) naar andere ondersteunde formaten met Aspose.Imaging voor Java API 
 weight: 3920
 url: /nl/java/conversion/from/tif 
 lang: nl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging kan eenvoudig converteren van TIF naar andere formaten met behulp van het Java-platform
+description: Aspose.Imaging kan eenvoudig converteren van TIF(Gelabelde afbeeldingsindeling) naar andere formaten met behulp van het Java-platform
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer afbeeldingen van TIF-indeling met Aspose.Imaging voor Java" h2="Converteer van TIF afbeeldingsformaat naar andere formaten met behulp van het Java-platform" downloadText="Downloaden" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer afbeeldingen van TIF-indeling met Aspose.Imaging voor Java" h2="Converteer van TIF(Gelabelde afbeeldingsindeling) afbeeldingsformaat naar andere formaten met behulp van het Java-platform" downloadText="Downloaden" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Breed spectrum aan afbeeldingsindelingen die kunnen worden geconverteerd van TIF-afbeeldingen met Aspose.Imaging voor Java" %}}
-U kunt programmatisch converteren van het TIF-formaat naar andere beschikbare formaten met behulp van
-Aspose.Imaging voor Java.
+{{% blocks/products/pf/feature-page-section  h2="Breed spectrum aan afbeeldingsindelingen die kunnen worden geconverteerd van TIF(Gelabelde afbeeldingsindeling)-afbeeldingen met Aspose.Imaging voor Java" %}}
+<p align=justify>U kunt programmatisch converteren van het TIF-formaat naar andere beschikbare formaten met behulp van
+Aspose.Imaging voor Java. </p>
 <br/>
 Er zijn de volgende verbouwingen aan boord:
 {{% /blocks/products/pf/feature-page-section %}}

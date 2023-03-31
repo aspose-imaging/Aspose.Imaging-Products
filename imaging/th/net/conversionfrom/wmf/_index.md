@@ -1,21 +1,21 @@
 ﻿---
-title: แปลงจาก WMF เป็นรูปแบบอื่นผ่าน .NET 
+title: แปลงจาก WMF(Microsoft Windows Metafile) เป็นรูปแบบอื่นผ่าน .NET image API 
 weight: 3920
 url: /th/net/conversion/from/wmf 
 lang: th
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: เมื่อใช้ Aspose.Imaging คุณสามารถแปลงจาก WMF เป็นรูปแบบอื่นได้อย่างง่ายดาย
+description: เมื่อใช้ Aspose.Imaging คุณสามารถแปลงจาก WMF(Microsoft Windows Metafile) เป็นรูปแบบอื่นได้อย่างง่ายดาย
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="การแปลงไฟล์รูปภาพจาก WMF ผ่าน .NET" h2="แปลงจาก WMF เป็นรูปแบบอื่น" downloadText="ดาวน์โหลด" >}}
+{{< blocks/products/pf/feature-page-header h1="การแปลงไฟล์อิมเมจจาก WMF(Microsoft Windows Metafile) ผ่าน .NET image API" h2="แปลงจาก Microsoft Windows Metafile เป็นรูปแบบอื่นโดยใช้ Aspose.Imaging API" downloadText="ดาวน์โหลด" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="รูปแบบภาพที่รองรับทั้งหมดที่จะแปลงจาก WMF" %}}
-Aspose.Imaging ช่วยให้การแปลงจำนวนมากโดยอัตโนมัติจาก WMF เป็นรูปแบบอื่นบนแพลตฟอร์ม .NET
+{{% blocks/products/pf/feature-page-section  h2="รูปแบบรูปภาพที่รองรับทั้งหมดที่จะแปลงจาก WMF(Microsoft Windows Metafile)" %}}
+<p align=justify>Aspose.Imaging ช่วยให้การแปลงจำนวนมากโดยอัตโนมัติจาก WMF เป็นรูปแบบอื่นบนแพลตฟอร์ม .NET ไฟล์ที่มีนามสกุล WMF แสดงถึง Microsoft Windows Metafile (WMF) สำหรับการจัดเก็บข้อมูลเวกเตอร์และรูปแบบบิตแมป เพื่อให้แม่นยำยิ่งขึ้น WMF อยู่ในหมวดหมู่รูปแบบไฟล์เวกเตอร์ของรูปแบบไฟล์กราฟิกที่ไม่ขึ้นกับอุปกรณ์ Windows Graphical Device Interface (GDI) ใช้ฟังก์ชันที่จัดเก็บไว้ในไฟล์ WMF เพื่อแสดงภาพบนหน้าจอ WMF เวอร์ชันที่ได้รับการปรับปรุงมากขึ้น หรือที่เรียกว่า Enhanced Meta Files (EMF) ได้รับการเผยแพร่ในภายหลัง ซึ่งทำให้รูปแบบมีคุณลักษณะที่สมบูรณ์ยิ่งขึ้น ในทางปฏิบัติ WMF จะคล้ายกับ SVG</p>
 <br/>
-รายการการแปลงที่รองรับทั้งหมด:
+รายการทั้งหมดของการแปลงที่รองรับจาก WMF:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

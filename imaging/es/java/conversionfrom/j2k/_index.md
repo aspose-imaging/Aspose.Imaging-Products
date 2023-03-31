@@ -1,20 +1,20 @@
 ﻿---
-title: Convierta de J2K a otros formatos admitidos usando Aspose.Imaging para Java 
+title: Convierta de J2K(Imagen comprimida Wavelet) a otros formatos admitidos usando Aspose.Imaging para Java API. 
 weight: 3920
 url: /es/java/conversion/from/j2k 
 lang: es
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging puede convertir fácilmente de J2K a otros formatos usando la plataforma Java
+description: Aspose.Imaging puede convertir fácilmente de J2K(Imagen comprimida Wavelet) a otros formatos usando la plataforma Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convierta imágenes del formato J2K usando Aspose.Imaging para Java" h2="Convierta del formato de imagen J2K a otros formatos utilizando la plataforma Java" downloadText="Descargar" >}}
+{{< blocks/products/pf/feature-page-header h1="Convierta imágenes del formato J2K usando Aspose.Imaging para Java" h2="Convierta del formato de imagen J2K(Imagen comprimida Wavelet) a otros formatos utilizando la plataforma Java" downloadText="Descargar" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Amplio espectro de formatos de imagen que se pueden convertir a partir de imágenes J2K usando Aspose.Imaging para Java" %}}
-Puede convertir programáticamente del formato J2K a otros formatos disponibles usando
-Aspose. Imaging para Java.
+{{% blocks/products/pf/feature-page-section  h2="Amplio espectro de formatos de imagen que se pueden convertir a partir de imágenes J2K(Imagen comprimida Wavelet) usando Aspose.Imaging para Java" %}}
+<p align=justify>Puede convertir programáticamente del formato J2K a otros formatos disponibles usando
+Aspose. Imaging para Java. Un archivo J2K es una imagen que se comprime mediante la compresión wavelet en lugar de la compresión DCT.</p>
 <br/>
 Hay las siguientes conversiones a bordo:
 {{% /blocks/products/pf/feature-page-section %}}

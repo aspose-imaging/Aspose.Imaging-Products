@@ -13,7 +13,7 @@ description: Med Aspose.Imaging kan du konvertera till J2K från andra format me
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alla bildformat som stöds kan konverteras till J2K med Aspose.Imaging för Java" %}}
-Med hjälp av Aspose.Imaging-biblioteket kan du programmatiskt konvertera till J2K från andra bildformat som stöds med hjälp av Java-plattformen.
+<p align=justify>Med hjälp av Aspose.Imaging-biblioteket kan du programmatiskt konvertera till J2K från andra bildformat som stöds med hjälp av Java-plattformen.</p>
 <br/>
 Omvandlingar som stöds:
 {{% /blocks/products/pf/feature-page-section %}}

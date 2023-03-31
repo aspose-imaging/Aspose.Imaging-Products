@@ -1,21 +1,21 @@
 ﻿---
-title: Konversikan dari ODG ke format lain Melalui .NET 
+title: Konversikan dari ODG(Format Undian Apache OpenOffice) ke format lain Melalui API gambar .NET 
 weight: 3920
 url: /id/net/conversion/from/odg 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi dari ODG ke format lain
+description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi dari ODG(Format Undian Apache OpenOffice) ke format lain
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar dari ODG Melalui .NET" h2="Konversikan dari ODG ke format lain" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar dari ODG(Format Undian Apache OpenOffice) Melalui API gambar .NET" h2="Konversikan dari Format Undian Apache OpenOffice ke format lain menggunakan Aspose.Imaging API" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari ODG" %}}
-Aspose.Imaging memungkinkan mengotomatiskan banyak konversi dari ODG ke format lain di platform .NET.
+{{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari ODG(Format Undian Apache OpenOffice)" %}}
+<p align=justify>Aspose.Imaging memungkinkan mengotomatiskan banyak konversi dari ODG ke format lain di platform .NET. Format file ODG digunakan oleh aplikasi Draw Apache OpenOffice untuk menyimpan elemen gambar sebagai gambar vektor. Ini mengikuti spesifikasi format file berbasis XML yang digariskan oleh Kemajuan Standar Informasi Struktural (OASIS). ODG mewakili gambar sebagai gambar vektor menggunakan titik, garis, dan kurva. Selain OpenOffice, LibreOffice dan aplikasi lain juga menyediakan dukungan untuk bekerja dengan format file ODG. Format lain yang didukung oleh OpenOffice, misalnya, termasuk ODT, ODF, ODP dan ODS.</p>
 <br/>
-Daftar lengkap konversi yang didukung:
+Daftar lengkap konversi yang didukung dari ODG:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -1,20 +1,20 @@
 ﻿---
-title: Aspose.Imaging for Java を使用して、SVG から他のサポートされている形式に変換します。 
+title: Aspose.Imaging for Java API を使用して、SVG(スケーラブルベクターグラフィックス) から他のサポートされている形式に変換します。 
 weight: 3920
 url: /ja/java/conversion/from/svg 
 lang: ja
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging は、Java プラットフォームを使用して SVG から他のフォーマットに簡単に変換できます
+description: Aspose.Imaging は、Java プラットフォームを使用して SVG(スケーラブルベクターグラフィックス) から他のフォーマットに簡単に変換できます
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java を使用して SVG フォーマットから画像を変換します" h2="Java プラットフォームを使用して、SVG 画像形式から他の形式に変換します" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java を使用して SVG フォーマットから画像を変換します" h2="Java プラットフォームを使用して、SVG(スケーラブルベクターグラフィックス) 画像形式から他の形式に変換します" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java を使用して SVG 画像から変換できる幅広い画像フォーマット" %}}
-次を使用して、SVG 形式から他の使用可能な形式にプログラムで変換できます。
-Aspose.Imaging for Java。
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java を使用して SVG(スケーラブルベクターグラフィックス) 画像から変換できる幅広い画像フォーマット" %}}
+<p align=justify>次を使用して、SVG 形式から他の使用可能な形式にプログラムで変換できます。
+Aspose.Imaging for Java。 SVGファイルは、画像の外観を記述するためにXMLベースのテキスト形式を使用するScalable VectorGraphicsファイルです。スケーラブルという言葉は、SVGが品質を損なうことなくさまざまなサイズにスケーリングできるという事実を指します。このようなファイルのテキストベースの説明により、解像度に依存しなくなります。これは、スケーラビリティを実現するためにWebサイトや印刷グラフィックを構築するために最もよく使用される形式の1つです。ただし、この形式は2次元グラフィックスにのみ使用できます。 SVGファイルは、Chrome、Internet Explorer、Firefox、Safariを含むほとんどすべての最新のブラウザーで表示/開くことができます。</p>
 <br/>
 機内では次の変換があります。
 {{% /blocks/products/pf/feature-page-section %}}

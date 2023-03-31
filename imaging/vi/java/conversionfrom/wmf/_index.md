@@ -1,20 +1,20 @@
 ﻿---
-title: Chuyển đổi từ WMF sang các định dạng được hỗ trợ khác bằng Aspose.Imaging for Java 
+title: Chuyển đổi từ WMF(Microsoft Windows Metafile) sang các định dạng được hỗ trợ khác bằng Aspose.Imaging for Java API 
 weight: 3920
 url: /vi/java/conversion/from/wmf 
 lang: vi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging có thể dễ dàng chuyển đổi từ WMF sang các định dạng khác bằng nền tảng Java
+description: Aspose.Imaging có thể dễ dàng chuyển đổi từ WMF(Microsoft Windows Metafile) sang các định dạng khác bằng nền tảng Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Chuyển đổi hình ảnh từ định dạng WMF bằng Aspose.Imaging cho Java" h2="Chuyển đổi từ định dạng hình ảnh WMF sang các định dạng khác bằng nền tảng Java" downloadText="Tải xuống" >}}
+{{< blocks/products/pf/feature-page-header h1="Chuyển đổi hình ảnh từ định dạng WMF bằng Aspose.Imaging cho Java" h2="Chuyển đổi từ định dạng hình ảnh WMF(Microsoft Windows Metafile) sang các định dạng khác bằng nền tảng Java" downloadText="Tải xuống" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Nhiều định dạng hình ảnh có thể được chuyển đổi từ hình ảnh WMF bằng Aspose.Imaging cho Java" %}}
-Bạn có thể lập trình chuyển đổi từ định dạng WMF sang các định dạng có sẵn khác bằng cách sử dụng
-Aspose.Imaging cho Java.
+{{% blocks/products/pf/feature-page-section  h2="Nhiều định dạng hình ảnh có thể được chuyển đổi từ hình ảnh WMF(Microsoft Windows Metafile) bằng Aspose.Imaging cho Java" %}}
+<p align=justify>Bạn có thể lập trình chuyển đổi từ định dạng WMF sang các định dạng có sẵn khác bằng cách sử dụng
+Aspose.Imaging cho Java. Các tệp có phần mở rộng WMF đại diện cho Microsoft Windows Metafile (WMF) để lưu trữ dữ liệu hình ảnh dạng vector cũng như bitmap. Nói chính xác hơn, WMF thuộc thể loại định dạng tệp vectơ của các định dạng tệp Đồ họa độc lập với thiết bị. Giao diện thiết bị đồ họa Windows (GDI) sử dụng các chức năng được lưu trữ trong tệp WMF để hiển thị hình ảnh trên màn hình. Một phiên bản nâng cao hơn của WMF, được gọi là Tệp Meta Nâng cao (EMF), đã được xuất bản sau đó giúp định dạng có nhiều tính năng phong phú hơn. Thực tế, WMF tương tự như SVG.</p>
 <br/>
 Có các chuyển đổi sau trên tàu:
 {{% /blocks/products/pf/feature-page-section %}}

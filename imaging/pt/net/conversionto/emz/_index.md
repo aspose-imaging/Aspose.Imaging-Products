@@ -1,19 +1,19 @@
 ﻿---
-title: Converta imagens para o formato de imagem EMZ de outros formatos suportados usando a plataforma .NET 
+title: Converta imagens para o formato de imagem EMZ(Meta-arquivo aprimorado compactado do Windows) de outros formatos suportados usando a plataforma .NET 
 weight: 3920
 url: /pt/net/conversion/to/emz 
 lang: pt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando a biblioteca Aspose.Imaging para .NET, é fácil converter para EMZ de outros formatos de imagem suportados
+description: Usando a biblioteca Aspose.Imaging para .NET, é fácil converter para EMZ(Meta-arquivo aprimorado compactado do Windows) de outros formatos de imagem suportados
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converta arquivos de imagem para o formato de imagem EMZ usando a plataforma .NET" h2="Converta para o formato EMZ de outros formatos usando a biblioteca Aspose.Imaging for .NET" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Converta arquivos de imagem para o formato de imagem EMZ(Meta-arquivo aprimorado compactado do Windows) usando a plataforma .NET" h2="Converta para o formato Meta-arquivo aprimorado compactado do Windows de outros formatos usando a biblioteca Aspose.Imaging for .NET" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todas as conversões suportadas para o formato EMZ usando a biblioteca Aspose.Imaging for .NET" %}}
-Usando a biblioteca Aspose.Imaging, você pode converter programaticamente vários formatos de imagem em imagem EMZ.
+{{% blocks/products/pf/feature-page-section  h2="Todas as conversões suportadas para o formato EMZ(Meta-arquivo aprimorado compactado do Windows) usando a biblioteca Aspose.Imaging for .NET" %}}
+<p align=justify>Usando a biblioteca Aspose.Imaging, você pode converter programaticamente vários formatos de imagem em imagem EMZ. Um arquivo com a extensão de arquivo EMZ é um arquivo de imagem compactado, mais especificamente chamado de arquivo Windows Compressed Enhanced Metafile</p>
 <br/>
 As seguintes conversões são suportadas:
 {{% /blocks/products/pf/feature-page-section %}}

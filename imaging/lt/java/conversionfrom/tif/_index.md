@@ -1,20 +1,20 @@
 ﻿---
-title: Konvertuokite iš TIF į kitus palaikomus formatus naudodami Aspose.Imaging for Java 
+title: Konvertuokite iš TIF(Pažymėtas vaizdo formatas) į kitus palaikomus formatus naudodami Aspose.Imaging for Java API 
 weight: 3920
 url: /lt/java/conversion/from/tif 
 lang: lt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: „Aspose.Imaging“ gali lengvai konvertuoti iš TIF į kitus formatus naudojant „Java“ platformą
+description: „Aspose.Imaging“ gali lengvai konvertuoti iš TIF(Pažymėtas vaizdo formatas) į kitus formatus naudojant „Java“ platformą
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertuokite vaizdus iš TIF formato naudodami Aspose.Imaging for Java" h2="Konvertuokite iš TIF vaizdo formato į kitus formatus naudodami Java platformą" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertuokite vaizdus iš TIF formato naudodami Aspose.Imaging for Java" h2="Konvertuokite iš TIF(Pažymėtas vaizdo formatas) vaizdo formato į kitus formatus naudodami Java platformą" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Platus vaizdo formatų spektras, kurį galima konvertuoti iš TIF vaizdų naudojant Aspose.Imaging for Java" %}}
-Galite programiškai konvertuoti iš TIF formato į kitus galimus formatus naudodami
-Aspose.Imaging for Java.
+{{% blocks/products/pf/feature-page-section  h2="Platus vaizdo formatų spektras, kurį galima konvertuoti iš TIF(Pažymėtas vaizdo formatas) vaizdų naudojant Aspose.Imaging for Java" %}}
+<p align=justify>Galite programiškai konvertuoti iš TIF formato į kitus galimus formatus naudodami
+Aspose.Imaging for Java. </p>
 <br/>
 Laive yra šios konversijos:
 {{% /blocks/products/pf/feature-page-section %}}

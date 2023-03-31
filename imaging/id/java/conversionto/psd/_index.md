@@ -13,7 +13,7 @@ description: Menggunakan Aspose.Imaging Anda dapat mengonversi ke PSD dari forma
 
 
 {{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung dapat dikonversi ke PSD menggunakan Aspose.Imaging untuk Java" %}}
-Dengan menggunakan pustaka Aspose.Imaging, Anda dapat mengonversi secara terprogram ke PSD dari format gambar lain yang didukung menggunakan platform Java.
+<p align=justify>Dengan menggunakan pustaka Aspose.Imaging, Anda dapat mengonversi secara terprogram ke PSD dari format gambar lain yang didukung menggunakan platform Java.</p>
 <br/>
 Konversi yang didukung:
 {{% /blocks/products/pf/feature-page-section %}}

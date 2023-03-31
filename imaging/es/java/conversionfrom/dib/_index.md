@@ -1,20 +1,20 @@
 ﻿---
-title: Convierta de DIB a otros formatos admitidos usando Aspose.Imaging para Java 
+title: Convierta de DIB(Mapa de bits independiente del dispositivo) a otros formatos admitidos usando Aspose.Imaging para Java API. 
 weight: 3920
 url: /es/java/conversion/from/dib 
 lang: es
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging puede convertir fácilmente de DIB a otros formatos usando la plataforma Java
+description: Aspose.Imaging puede convertir fácilmente de DIB(Mapa de bits independiente del dispositivo) a otros formatos usando la plataforma Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convierta imágenes del formato DIB usando Aspose.Imaging para Java" h2="Convierta del formato de imagen DIB a otros formatos utilizando la plataforma Java" downloadText="Descargar" >}}
+{{< blocks/products/pf/feature-page-header h1="Convierta imágenes del formato DIB usando Aspose.Imaging para Java" h2="Convierta del formato de imagen DIB(Mapa de bits independiente del dispositivo) a otros formatos utilizando la plataforma Java" downloadText="Descargar" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Amplio espectro de formatos de imagen que se pueden convertir a partir de imágenes DIB usando Aspose.Imaging para Java" %}}
-Puede convertir programáticamente del formato DIB a otros formatos disponibles usando
-Aspose. Imaging para Java.
+{{% blocks/products/pf/feature-page-section  h2="Amplio espectro de formatos de imagen que se pueden convertir a partir de imágenes DIB(Mapa de bits independiente del dispositivo) usando Aspose.Imaging para Java" %}}
+<p align=justify>Puede convertir programáticamente del formato DIB a otros formatos disponibles usando
+Aspose. Imaging para Java. Un archivo DIB (mapa de bits independiente del dispositivo) es un archivo de imagen de trama que tiene una estructura similar a los archivos de mapa de bits estándar (BMP), pero tiene un encabezado diferente. Se puede abrir con casi todas las aplicaciones que pueden abrir un archivo BMP estándar en Windows y macOS. DIB son archivos binarios y tienen un formato de archivo complejo similar a BMP.</p>
 <br/>
 Hay las siguientes conversiones a bordo:
 {{% /blocks/products/pf/feature-page-section %}}

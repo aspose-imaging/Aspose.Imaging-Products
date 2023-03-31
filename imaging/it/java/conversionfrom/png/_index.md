@@ -1,20 +1,20 @@
 ﻿---
-title: Converti da PNG in altri formati supportati utilizzando Aspose.Imaging per Java 
+title: Converti da PNG(Grafica di rete portatile) in altri formati supportati utilizzando Aspose.Imaging per Java API 
 weight: 3920
 url: /it/java/conversion/from/png 
 lang: it
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging può facilmente convertire da PNG ad altri formati utilizzando la piattaforma Java
+description: Aspose.Imaging può facilmente convertire da PNG(Grafica di rete portatile) ad altri formati utilizzando la piattaforma Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converti immagini dal formato PNG utilizzando Aspose.Imaging per Java" h2="Converti dal formato immagine PNG in altri formati utilizzando la piattaforma Java" downloadText="Scarica" >}}
+{{< blocks/products/pf/feature-page-header h1="Converti immagini dal formato PNG utilizzando Aspose.Imaging per Java" h2="Converti dal formato immagine PNG(Grafica di rete portatile) in altri formati utilizzando la piattaforma Java" downloadText="Scarica" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Ampio spettro di formati immagine che possono essere convertiti da immagini PNG utilizzando Aspose.Imaging per Java" %}}
-Puoi convertire in modo programmatico dal formato PNG in altri formati disponibili utilizzando
-Aspose.Imaging per Java.
+{{% blocks/products/pf/feature-page-section  h2="Ampio spettro di formati immagine che possono essere convertiti da immagini PNG(Grafica di rete portatile) utilizzando Aspose.Imaging per Java" %}}
+<p align=justify>Puoi convertire in modo programmatico dal formato PNG in altri formati disponibili utilizzando
+Aspose.Imaging per Java. PNG, Portable Network Graphics, si riferisce a un tipo di formato di file di immagine raster che utilizza la compressione senza perdita di dati. Questo formato di file è stato creato in sostituzione di Graphics Interchange Format (GIF) e non ha limitazioni di copyright. Tuttavia, il formato di file PNG non supporta le animazioni. Il formato di file PNG supporta la compressione delle immagini senza perdita di dati che lo rende popolare tra i suoi utenti. Con il passare del tempo, PNG si è evoluto come uno dei formati di file immagine più utilizzati. Quasi tutti i sistemi operativi supportano l'apertura di file PNG. Ad esempio, il visualizzatore di Microsoft Windows ha la capacità di aprire file PNG poiché il sistema operativo ha per impostazione predefinita il supporto disponibile come parte dell'installazione.</p>
 <br/>
 Ci sono le seguenti conversioni a bordo:
 {{% /blocks/products/pf/feature-page-section %}}

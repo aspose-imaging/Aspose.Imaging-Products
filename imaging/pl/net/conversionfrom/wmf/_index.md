@@ -1,21 +1,21 @@
 ﻿---
-title: Konwertuj z WMF na inne formaty przez .NET 
+title: Konwertuj z formatu WMF(Metaplik Microsoft Windows) na inne formaty za pomocą interfejsu graficznego .NET 
 weight: 3920
 url: /pl/net/conversion/from/wmf 
 lang: pl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Za pomocą Aspose.Imaging możesz łatwo konwertować z WMF na inne formaty
+description: Za pomocą Aspose.Imaging możesz łatwo konwertować z WMF(Metaplik Microsoft Windows) na inne formaty
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwersja plików graficznych z WMF przez .NET" h2="Konwertuj z WMF na inne formaty" downloadText="Ściągnij" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwersja plików graficznych z formatu WMF(Metaplik Microsoft Windows) za pośrednictwem interfejsu graficznego .NET" h2="Konwertuj z Metaplik Microsoft Windows na inne formaty za pomocą API Aspose.Imaging" downloadText="Ściągnij" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty obrazów do przekonwertowania z WMF" %}}
-Aspose.Imaging pozwala zautomatyzować wiele konwersji z WMF do innych formatów na platformie .NET.
+{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty obrazów do przekonwertowania z WMF(Metaplik Microsoft Windows)" %}}
+<p align=justify>Aspose.Imaging pozwala zautomatyzować wiele konwersji z WMF do innych formatów na platformie .NET. Pliki z rozszerzeniem WMF reprezentują Microsoft Windows Metafile (WMF) do przechowywania danych obrazów wektorowych i bitmapowych. Aby być bardziej dokładnym, WMF należy do kategorii formatów plików wektorowych w formatach plików graficznych, które są niezależne od urządzeń. Windows Graphical Device Interface (GDI) używa funkcji zapisanych w pliku WMF do wyświetlania obrazu na ekranie. Bardziej rozszerzona wersja WMF, znana jako Enhanced Meta Files (EMF), została opublikowana później, dzięki czemu format jest bogatszy w funkcje. Praktycznie WMF są podobne do SVG.</p>
 <br/>
-Pełna lista obsługiwanych konwersji:
+Pełna lista obsługiwanych konwersji z WMF:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

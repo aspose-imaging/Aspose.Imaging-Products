@@ -1,21 +1,21 @@
 ﻿---
-title: Converteren van DICOM naar andere formaten Via .NET 
+title: Converteer van DICOM(Digitale beeldvorming en communicatie) naar andere formaten via de .NET afbeeldings-API 
 weight: 3920
 url: /nl/net/conversion/from/dicom 
 lang: nl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Met behulp van Aspose.Imaging kunt u eenvoudig converteren van DICOM naar een ander formaat
+description: Met behulp van Aspose.Imaging kunt u eenvoudig converteren van DICOM(Digitale beeldvorming en communicatie) naar een ander formaat
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversie van afbeeldingsbestanden van DICOM via .NET" h2="Converteer van DICOM naar een ander formaat" downloadText="Downloaden" >}}
+{{< blocks/products/pf/feature-page-header h1="Afbeeldingsbestanden Conversie van DICOM(Digitale beeldvorming en communicatie) via .NET afbeeldings-API" h2="Converteer van Digitale beeldvorming en communicatie naar andere formaten met behulp van de Aspose.Imaging API" downloadText="Downloaden" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde afbeeldingsindelingen om te converteren van DICOM" %}}
-Aspose.Imaging maakt het mogelijk veel conversies van DICOM naar andere formaten op het .NET-platform te automatiseren.
+{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde afbeeldingsindelingen om te converteren van DICOM(Digitale beeldvorming en communicatie)" %}}
+<p align=justify>Aspose.Imaging maakt het mogelijk veel conversies van DICOM naar andere formaten op het .NET-platform te automatiseren. DICOM is de afkorting voor Digital Imaging and Communications in Medicine en heeft betrekking op het vakgebied Medische Informatica. DICOM is de combinatie van bestandsformaatdefinitie en een netwerkcommunicatieprotocol. DICOM gebruikt de .DCM-extensie. .DCM bestaat in twee verschillende formaten, namelijk formaat 1.x en formaat 2.x. DCM Format 1.x is verder beschikbaar in twee versies normaal en uitgebreid. DICOM wordt gebruikt voor de integratie van medische beeldvormingsapparatuur zoals printers, servers, scanners enz. van verschillende leveranciers en bevat ook identificatiegegevens van elke patiënt voor uniekheid. DICOM-bestanden kunnen tussen twee partijen worden gedeeld als ze beeldgegevens in DICOM-indeling kunnen ontvangen. Het communicatiegedeelte van DICOM is een applicatielaagprotocol en gebruikt TCP/IP om te communiceren tussen entiteiten. Voor de webservices van DICOM worden HTTP- en HTTPS-protocollen gebruikt. Door webservices ondersteunde versies zijn 1.0, 1.1, 2 of hoger.</p>
 <br/>
-Volledige lijst met ondersteunde conversies:
+Volledige lijst met ondersteunde conversies van DICOM:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

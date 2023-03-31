@@ -1,19 +1,19 @@
 ﻿---
-title: Převeďte obrázky do formátu obrázku WMF z jiných podporovaných formátů pomocí platformy .NET 
+title: Převeďte obrázky do formátu obrázku WMF(Microsoft Windows Metafile) z jiných podporovaných formátů pomocí platformy .NET 
 weight: 3920
 url: /cs/net/conversion/to/wmf 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Pomocí knihovny Aspose.Imaging for .NET je snadné převést do formátu WMF z jiných podporovaných formátů obrázků
+description: Pomocí knihovny Aspose.Imaging for .NET je snadné převést do formátu WMF(Microsoft Windows Metafile) z jiných podporovaných formátů obrázků
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převeďte soubory obrázků do formátu obrázků WMF pomocí platformy .NET" h2="Převeďte do formátu WMF z jiných formátů pomocí knihovny Aspose.Imaging for .NET" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Převeďte soubory obrázků do formátu obrázků WMF(Microsoft Windows Metafile) pomocí platformy .NET" h2="Převeďte do formátu Microsoft Windows Metafile z jiných formátů pomocí knihovny Aspose.Imaging for .NET" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované převody do formátu WMF pomocí knihovny Aspose.Imaging for .NET" %}}
-Pomocí knihovny Aspose.Imaging můžete programově převádět různé formáty obrázků na obrázek WMF.
+{{% blocks/products/pf/feature-page-section  h2="Všechny podporované převody do formátu WMF(Microsoft Windows Metafile) pomocí knihovny Aspose.Imaging for .NET" %}}
+<p align=justify>Pomocí knihovny Aspose.Imaging můžete programově převádět různé formáty obrázků na obrázek WMF. Soubory s příponou WMF představují Microsoft Windows Metafile (WMF) pro ukládání dat vektorových i bitmapových obrázků. Abychom byli přesnější, WMF patří do kategorie formátů vektorových souborů grafických formátů souborů, které jsou nezávislé na zařízení. Windows Graphical Device Interface (GDI) používá funkce uložené v souboru WMF k zobrazení obrázku na obrazovce. Později byla publikována vylepšená verze WMF, známá jako Enhanced Meta Files (EMF), díky níž je formát bohatší na funkce. Prakticky jsou WMF podobné SVG.</p>
 <br/>
 Podporovány jsou následující převody:
 {{% /blocks/products/pf/feature-page-section %}}

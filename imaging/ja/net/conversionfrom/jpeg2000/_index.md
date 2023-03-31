@@ -1,21 +1,21 @@
 ﻿---
-title: .NET 経由で JPEG2000 から他の形式に変換します 
+title: .NET 画像 API を介して JPEG2000(JPEG 2000) から他の形式に変換する 
 weight: 3920
 url: /ja/net/conversion/from/jpeg2000 
 lang: ja
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging を使用すると、JPEG2000 から別のフォーマットに簡単に変換できます
+description: Aspose.Imaging を使用すると、JPEG2000(JPEG 2000) から別のフォーマットに簡単に変換できます
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET による JPEG2000 からの画像ファイルの変換" h2="JPEG2000 から別の形式に変換する" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET 画像 API を介した JPEG2000(JPEG 2000) からの画像ファイルの変換" h2="Aspose.Imaging API を使用して JPEG 2000 から他のフォーマットに変換" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="JPEG2000 から変換する、サポートされているすべての画像形式" %}}
-Aspose.Imaging を使用すると、JPEG2000 から .NET プラットフォーム上の他のフォーマットへの多くの変換を自動化できます。
+{{% blocks/products/pf/feature-page-section  h2="JPEG2000(JPEG 2000) から変換する、サポートされているすべての画像形式" %}}
+<p align=justify>Aspose.Imaging を使用すると、JPEG2000 から .NET プラットフォーム上の他のフォーマットへの多くの変換を自動化できます。 JPEG 2000（JP2）は、画像コーディングシステムであり、最先端の画像圧縮規格です。ウェーブレットテクノロジーを使用して設計されたJPEG2000は、ロスレスコンテンツを任意の品質で一度にコーディングできます。さらに、コーディング効率に実質的なペナルティを課すことなく、JPEG 2000には、同じコンテンツに効果的にアクセスしてデコードし、他のさまざまな解像度や品質に変換する機能があります。 JPEG 2000のコードストリームは非常にスケーラブルであり、空間ランダムアクセスの機能を提供する関心領域があります。テラピクセル単位の寸法と38ビット/サンプルの高精度を備えた最大16384の多様なコンポーネントを備えています。</p>
 <br/>
-サポートされている変換の完全なリスト:
+サポートされている JPEG2000 からの変換の完全なリスト:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

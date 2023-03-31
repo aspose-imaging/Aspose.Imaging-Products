@@ -1,19 +1,19 @@
 ﻿---
-title: Konvertera bilder till PSD-bildformat från andra format som stöds med .NET-plattformen 
+title: Konvertera bilder till PSD(Photoshop-dokument)-bildformat från andra format som stöds med .NET-plattformen 
 weight: 3920
 url: /sv/net/conversion/to/psd 
 lang: sv
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Med Aspose.Imaging för .NET-bibliotek är det lätt att konvertera till PSD från andra bildformat som stöds
+description: Med Aspose.Imaging för .NET-bibliotek är det lätt att konvertera till PSD(Photoshop-dokument) från andra bildformat som stöds
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertera bildfiler till bildformatet PSD med .NET-plattformen" h2="Konvertera till PSD-format från andra format med Aspose.Imaging för .NET-bibliotek" downloadText="Ladda ner" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertera bildfiler till bildformatet PSD(Photoshop-dokument) med .NET-plattformen" h2="Konvertera till Photoshop-dokument-format från andra format med Aspose.Imaging för .NET-bibliotek" downloadText="Ladda ner" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alla omvandlingar som stöds till PSD-format med Aspose.Imaging för .NET-bibliotek" %}}
-Med hjälp av Aspose.Imaging-biblioteket kan du programmatiskt konvertera olika bildformat till PSD-bild.
+{{% blocks/products/pf/feature-page-section  h2="Alla omvandlingar som stöds till PSD(Photoshop-dokument)-format med Aspose.Imaging för .NET-bibliotek" %}}
+<p align=justify>Med hjälp av Aspose.Imaging-biblioteket kan du programmatiskt konvertera olika bildformat till PSD-bild. PSD, Photoshop Document, representerar Adobe Photoshops ursprungliga filformat som används för grafisk design och utveckling. PSD-filer kan innehålla bildlager, justeringslager, lagermasker, anteckningar, filinformation, nyckelord och andra Photoshop-specifika element.</p>
 <br/>
 Följande konverteringar stöds:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,21 +1,21 @@
 ﻿---
-title: Konversikan dari J2K ke format lain Melalui .NET 
+title: Konversikan dari J2K(Gambar Terkompresi Wavelet) ke format lain Melalui API gambar .NET 
 weight: 3920
 url: /id/net/conversion/from/j2k 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi dari J2K ke format lain
+description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi dari J2K(Gambar Terkompresi Wavelet) ke format lain
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar dari J2K Melalui .NET" h2="Konversikan dari J2K ke format lain" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar dari J2K(Gambar Terkompresi Wavelet) Melalui API gambar .NET" h2="Konversikan dari Gambar Terkompresi Wavelet ke format lain menggunakan Aspose.Imaging API" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari J2K" %}}
-Aspose.Imaging memungkinkan mengotomatiskan banyak konversi dari J2K ke format lain di platform .NET.
+{{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari J2K(Gambar Terkompresi Wavelet)" %}}
+<p align=justify>Aspose.Imaging memungkinkan mengotomatiskan banyak konversi dari J2K ke format lain di platform .NET. File J2K adalah gambar yang dikompres menggunakan kompresi wavelet, bukan kompresi DCT.</p>
 <br/>
-Daftar lengkap konversi yang didukung:
+Daftar lengkap konversi yang didukung dari J2K:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

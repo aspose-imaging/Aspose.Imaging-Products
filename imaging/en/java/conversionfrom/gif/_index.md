@@ -1,20 +1,20 @@
 ﻿---
-title: Convert from GIF to other supported formats using Aspose.Imaging for Java 
+title: Convert from GIF(Graphical Interchange Format) to other supported formats using Aspose.Imaging for Java API 
 weight: 3920
 url: /java/conversion/from/gif 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging can easily convert from GIF to other formats using Java platform
+description: Aspose.Imaging API can easily convert from GIF(Graphical Interchange Format) to other formats using Java platform
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert images from GIF format using Aspose.Imaging for Java" h2="Convert from GIF image format to other formats using Java platform" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert images from GIF format using Aspose.Imaging for Java" h2="Convert from GIF(Graphical Interchange Format) image format to other formats using Java platform" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wide spectrum of image formats that can be converted from GIF images using Aspose.Imaging for Java" %}}
-You can programmaticaly convert from GIF format to other available formats using 
-Aspose.Imaging for Java.
+{{% blocks/products/pf/feature-page-section  h2="Wide spectrum of image formats that can be converted from GIF(Graphical Interchange Format) images using Aspose.Imaging for Java" %}}
+<p align=justify>You can programmaticaly convert from GIF format to other available formats using 
+Aspose.Imaging for Java. A GIF or Graphical Interchange Format is a type of highly compressed image. Owned by Unisys, GIF uses the LZW compression algorithm that does not degrade the image quality. For each image GIF typically allow up to 8 bits per pixel and up to 256 colours are allowed across the image. In contrast to a JPEG image, which can display up to 16 million colours and fairly touches the limits of the human eye. Back when the internet emerged, GIFs remained the best choice because they required low bandwidth and compatible for the graphics that consume solid areas of colour. An animated GIF combines numerous images or frames into a single file and displays them in a sequence to generate an animated clip or a short video. The colour limitations are up to 256 for each frame and are likely to be the least suitable for reproducing other images and photographs with colour gradient.</p>
 <br/>
 There are following conversions on board:
 {{% /blocks/products/pf/feature-page-section %}}

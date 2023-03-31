@@ -1,19 +1,19 @@
 ﻿---
-title: Převeďte obrázky do formátu obrázku SVGZ z jiných podporovaných formátů pomocí platformy .NET 
+title: Převeďte obrázky do formátu obrázku SVGZ(Komprimovaná verze souboru Scalable Vector Graphics (.SVG).) z jiných podporovaných formátů pomocí platformy .NET 
 weight: 3920
 url: /cs/net/conversion/to/svgz 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Pomocí knihovny Aspose.Imaging for .NET je snadné převést do formátu SVGZ z jiných podporovaných formátů obrázků
+description: Pomocí knihovny Aspose.Imaging for .NET je snadné převést do formátu SVGZ(Komprimovaná verze souboru Scalable Vector Graphics (.SVG).) z jiných podporovaných formátů obrázků
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převeďte soubory obrázků do formátu obrázků SVGZ pomocí platformy .NET" h2="Převeďte do formátu SVGZ z jiných formátů pomocí knihovny Aspose.Imaging for .NET" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Převeďte soubory obrázků do formátu obrázků SVGZ(Komprimovaná verze souboru Scalable Vector Graphics (.SVG).) pomocí platformy .NET" h2="Převeďte do formátu Komprimovaná verze souboru Scalable Vector Graphics (.SVG). z jiných formátů pomocí knihovny Aspose.Imaging for .NET" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované převody do formátu SVGZ pomocí knihovny Aspose.Imaging for .NET" %}}
-Pomocí knihovny Aspose.Imaging můžete programově převádět různé formáty obrázků na obrázek SVGZ.
+{{% blocks/products/pf/feature-page-section  h2="Všechny podporované převody do formátu SVGZ(Komprimovaná verze souboru Scalable Vector Graphics (.SVG).) pomocí knihovny Aspose.Imaging for .NET" %}}
+<p align=justify>Pomocí knihovny Aspose.Imaging můžete programově převádět různé formáty obrázků na obrázek SVGZ. Soubor s příponou .svgz je komprimovaná verze souboru Scalable Vector Graphics (.SVG). Je komprimován kompresí gzip a obsahuje data ve formátu XML. Soubory SVGZ podporují průhlednost, přechody, animace a filtry. Soubory SVGZ jsou menší ve srovnání s výchozími soubory SVG a tato zmenšená velikost souboru pomáhá přenášet grafické soubory online. Grafický návrhář vytváří soubory SVGZ pomocí nástrojů jako Adobe Illustrator, Corel PaintShop Pro a další. Soubory SVGZ však lze generovat povolením komprese GZip na serveru Apache při odesílání obrazových dat.</p>
 <br/>
 Podporovány jsou následující převody:
 {{% /blocks/products/pf/feature-page-section %}}

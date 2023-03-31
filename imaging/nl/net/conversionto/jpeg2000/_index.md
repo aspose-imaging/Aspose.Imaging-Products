@@ -1,19 +1,19 @@
 ﻿---
-title: Converteer afbeeldingen naar JPEG2000 afbeeldingsindeling van andere ondersteunde indelingen met behulp van het .NET-platform 
+title: Converteer afbeeldingen naar JPEG2000(JPEG 2000) afbeeldingsindeling van andere ondersteunde indelingen met behulp van het .NET-platform 
 weight: 3920
 url: /nl/net/conversion/to/jpeg2000 
 lang: nl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Met Aspose.Imaging voor .NET-bibliotheek is het eenvoudig om te converteren naar JPEG2000 vanuit andere ondersteunde afbeeldingsindelingen
+description: Met Aspose.Imaging voor .NET-bibliotheek is het eenvoudig om te converteren naar JPEG2000(JPEG 2000) vanuit andere ondersteunde afbeeldingsindelingen
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer afbeeldingsbestanden naar JPEG2000 afbeeldingsindeling met behulp van het .NET-platform" h2="Converteer naar JPEG2000-indeling van andere indelingen met Aspose.Imaging voor .NET-bibliotheek" downloadText="Downloaden" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer afbeeldingsbestanden naar JPEG2000(JPEG 2000) afbeeldingsindeling met behulp van het .NET-platform" h2="Converteer naar JPEG 2000-indeling van andere indelingen met Aspose.Imaging voor .NET-bibliotheek" downloadText="Downloaden" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde conversies naar JPEG2000-indeling met Aspose.Imaging voor .NET-bibliotheek" %}}
-Met behulp van de Aspose.Imaging-bibliotheek kunt u verschillende afbeeldingsindelingen programmatisch converteren naar JPEG2000 afbeelding.
+{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde conversies naar JPEG2000(JPEG 2000)-indeling met Aspose.Imaging voor .NET-bibliotheek" %}}
+<p align=justify>Met behulp van de Aspose.Imaging-bibliotheek kunt u verschillende afbeeldingsindelingen programmatisch converteren naar JPEG2000 afbeelding. JPEG 2000 (JP2) is een beeldcoderingssysteem en de modernste beeldcompressiestandaard. Ontworpen, met behulp van wavelet-technologie, kan JPEG 2000 verliesvrije inhoud in elke kwaliteit tegelijk coderen. Bovendien heeft JPEG 2000, zonder enige substantiële schade aan de coderingsefficiëntie, de mogelijkheid om dezelfde inhoud op doeltreffende wijze te openen en te decoderen in een verscheidenheid aan andere resoluties en kwaliteiten. De codestromen in JPEG 2000 zijn aanzienlijk schaalbaar met interessegebieden die de mogelijkheid bieden voor ruimtelijke willekeurige toegang. Met tot 16384 verschillende componenten met afmetingen in terapixels en een precisie die kan oplopen tot 38 bits/sample.</p>
 <br/>
 De volgende conversies worden ondersteund:
 {{% /blocks/products/pf/feature-page-section %}}

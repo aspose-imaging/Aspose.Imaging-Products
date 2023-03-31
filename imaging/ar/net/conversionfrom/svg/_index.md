@@ -1,21 +1,21 @@
 ﻿---
-title: حوِّل من SVG إلى تنسيقات أخرى عبر .NET 
+title: قم بالتحويل من SVG (الرسومات المتجهات قابلة لل) إلى تنسيقات أخرى عبر واجهة برمجة تطبيقات الصور .NET 
 weight: 3920
 url: /ar/net/conversion/from/svg 
 lang: ar
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: باستخدام Aspose.Imaging ، يمكنك بسهولة التحويل من SVG إلى تنسيقات أخرى
+description: باستخدام Aspose.Imaging ، يمكنك بسهولة التحويل من SVG(الرسومات المتجهات قابلة لل) إلى تنسيقات أخرى
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل ملفات الصور من SVG عبر .NET" h2="تحويل من SVG إلى صيغ أخرى" downloadText="تحميل" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل ملفات الصور من SVG (الرسومات المتجهات قابلة لل) عبر .NET image API" h2="تحويل من الرسومات المتجهات قابلة لل إلى تنسيقات أخرى باستخدام Aspose.Imaging API" downloadText="تحميل" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="جميع تنسيقات الصور المدعومة للتحويل من SVG" %}}
-يسمح Aspose.Imaging بأتمتة الكثير من التحويلات من SVG إلى تنسيقات أخرى على منصة .NET.
+{{% blocks/products/pf/feature-page-section  h2="جميع تنسيقات الصور المدعومة المراد تحويلها من SVG (الرسومات المتجهات قابلة لل)" %}}
+<p align=justify>يسمح Aspose.Imaging بأتمتة الكثير من التحويلات من SVG إلى تنسيقات أخرى على منصة .NET. ملفات SVG هي ملفات رسومات متجهة قابلة للتطوير تستخدم تنسيقًا نصيًا يستند إلى XML لوصف مظهر الصورة. تشير كلمة Scalable إلى حقيقة أنه يمكن تحجيم SVG إلى أحجام مختلفة دون فقدان أي جودة. الوصف المستند إلى النص لمثل هذه الملفات يجعلها مستقلة عن الدقة. إنه أحد التنسيقات الأكثر استخدامًا لبناء مواقع الويب والرسومات المطبوعة من أجل تحقيق قابلية التوسع. لا يمكن استخدام التنسيق إلا للرسومات ثنائية الأبعاد. يمكن عرض / فتح ملفات SVG في جميع المتصفحات الحديثة تقريبًا بما في ذلك Chrome و Internet Explorer و Firefox و Safari.</p>
 <br/>
-القائمة الكاملة للتحويلات المدعومة:
+القائمة الكاملة للتحويلات المدعومة من SVG:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

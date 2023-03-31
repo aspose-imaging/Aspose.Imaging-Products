@@ -1,21 +1,21 @@
 ﻿---
-title: Konvertuoti iš WMF į kitus formatus per .NET 
+title: Konvertuoti iš WMF(Microsoft Windows metafailas) į kitus formatus naudojant .NET vaizdo API 
 weight: 3920
 url: /lt/net/conversion/from/wmf 
 lang: lt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Naudodami Aspose.Imaging galite lengvai konvertuoti iš WMF į kitus formatus
+description: Naudodami Aspose.Imaging galite lengvai konvertuoti iš WMF(Microsoft Windows metafailas) į kitus formatus
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas iš WMF naudojant .NET" h2="Konvertuoti iš WMF į kitus formatus" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas iš WMF(Microsoft Windows metafailas) naudojant .NET vaizdo API" h2="Konvertuokite iš Microsoft Windows metafailas į kitus formatus naudodami Aspose.Imaging API" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai konvertuoti iš WMF" %}}
-Aspose.Imaging leidžia automatizuoti daug konversijų iš WMF į kitus formatus .NET platformoje.
+{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai, konvertuojami iš WMF(Microsoft Windows metafailas)" %}}
+<p align=justify>Aspose.Imaging leidžia automatizuoti daug konversijų iš WMF į kitus formatus .NET platformoje. Failai su WMF plėtiniu yra „Microsoft Windows“ metafailas (WMF), skirtas vektorinių ir bitmap formato vaizdų duomenims saugoti. Tiksliau, WMF priklauso grafinių failų formatų vektorinių failų formatų kategorijai, kuri nepriklauso nuo įrenginio. „Windows“ grafinio įrenginio sąsaja (GDI) vaizdui ekrane rodyti naudoja WMF faile saugomas funkcijas. Vėliau buvo paskelbta labiau patobulinta WMF versija, žinoma kaip patobulinti meta failai (EMF), todėl formatas tapo turtingesnis. Praktiškai WMF yra panašūs į SVG.</p>
 <br/>
-Visas palaikomų konversijų sąrašas:
+Visas palaikomų konversijų iš WMF sąrašas:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

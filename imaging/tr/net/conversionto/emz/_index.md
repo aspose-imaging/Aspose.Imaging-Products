@@ -1,19 +1,19 @@
 ﻿---
-title: .NET platformunu kullanarak görüntüleri desteklenen diğer biçimlerden EMZ görüntü biçimine dönüştürün 
+title: .NET platformunu kullanarak görüntüleri desteklenen diğer biçimlerden EMZ(Windows Sıkıştırılmış Gelişmiş Meta Dosyası) görüntü biçimine dönüştürün 
 weight: 3920
 url: /tr/net/conversion/to/emz 
 lang: tr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging for .NET kitaplığını kullanarak, desteklenen diğer görüntü biçimlerinden EMZ biçimine dönüştürmek kolaydır
+description: Aspose.Imaging for .NET kitaplığını kullanarak, desteklenen diğer görüntü biçimlerinden EMZ(Windows Sıkıştırılmış Gelişmiş Meta Dosyası) biçimine dönüştürmek kolaydır
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET platformunu kullanarak Görüntü Dosyalarını EMZ görüntü formatına dönüştürün" h2="Aspose.Imaging for .NET kitaplığını kullanarak diğer formatlardan EMZ formatına dönüştürün" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET platformunu kullanarak Görüntü Dosyalarını EMZ(Windows Sıkıştırılmış Gelişmiş Meta Dosyası) görüntü formatına dönüştürün" h2="Aspose.Imaging for .NET kitaplığını kullanarak diğer formatlardan Windows Sıkıştırılmış Gelişmiş Meta Dosyası formatına dönüştürün" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for .NET kitaplığı kullanılarak EMZ biçimine desteklenen tüm dönüşümler" %}}
-Aspose.Imaging kütüphanesini kullanarak çeşitli resim formatlarını programlı olarak EMZ resme dönüştürebilirsiniz.
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for .NET kitaplığı kullanılarak EMZ(Windows Sıkıştırılmış Gelişmiş Meta Dosyası) biçimine desteklenen tüm dönüşümler" %}}
+<p align=justify>Aspose.Imaging kütüphanesini kullanarak çeşitli resim formatlarını programlı olarak EMZ resme dönüştürebilirsiniz. EMZ dosya uzantısına sahip bir dosya, daha özel olarak Windows Sıkıştırılmış Gelişmiş Meta Dosyası dosyası olarak adlandırılan sıkıştırılmış bir görüntü dosyasıdır.</p>
 <br/>
 Aşağıdaki dönüşümler desteklenir:
 {{% /blocks/products/pf/feature-page-section %}}

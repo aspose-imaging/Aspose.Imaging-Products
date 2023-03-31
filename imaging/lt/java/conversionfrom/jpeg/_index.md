@@ -1,20 +1,20 @@
 ﻿---
-title: Konvertuokite iš JPEG į kitus palaikomus formatus naudodami Aspose.Imaging for Java 
+title: Konvertuokite iš JPEG(Jungtinė fotografijos ekspertų grupė) į kitus palaikomus formatus naudodami Aspose.Imaging for Java API 
 weight: 3920
 url: /lt/java/conversion/from/jpeg 
 lang: lt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: „Aspose.Imaging“ gali lengvai konvertuoti iš JPEG į kitus formatus naudojant „Java“ platformą
+description: „Aspose.Imaging“ gali lengvai konvertuoti iš JPEG(Jungtinė fotografijos ekspertų grupė) į kitus formatus naudojant „Java“ platformą
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertuokite vaizdus iš JPEG formato naudodami Aspose.Imaging for Java" h2="Konvertuokite iš JPEG vaizdo formato į kitus formatus naudodami Java platformą" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertuokite vaizdus iš JPEG formato naudodami Aspose.Imaging for Java" h2="Konvertuokite iš JPEG(Jungtinė fotografijos ekspertų grupė) vaizdo formato į kitus formatus naudodami Java platformą" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Platus vaizdo formatų spektras, kurį galima konvertuoti iš JPEG vaizdų naudojant Aspose.Imaging for Java" %}}
-Galite programiškai konvertuoti iš JPEG formato į kitus galimus formatus naudodami
-Aspose.Imaging for Java.
+{{% blocks/products/pf/feature-page-section  h2="Platus vaizdo formatų spektras, kurį galima konvertuoti iš JPEG(Jungtinė fotografijos ekspertų grupė) vaizdų naudojant Aspose.Imaging for Java" %}}
+<p align=justify>Galite programiškai konvertuoti iš JPEG formato į kitus galimus formatus naudodami
+Aspose.Imaging for Java. JPEG yra vaizdo formatas, kuris išsaugomas naudojant nuostolingo glaudinimo metodą. Išvesties vaizdas dėl suspaudimo yra kompromisas tarp saugojimo dydžio ir vaizdo kokybės. Vartotojai gali reguliuoti suspaudimo lygį, kad pasiektų norimą kokybės lygį, tuo pačiu sumažindami saugyklos dydį. Vaizdo kokybei nežymiai pakenks, jei vaizdui taikomas glaudinimas 10:1. Kuo didesnė suspaudimo vertė, tuo didesnis vaizdo kokybės pablogėjimas.</p>
 <br/>
 Laive yra šios konversijos:
 {{% /blocks/products/pf/feature-page-section %}}

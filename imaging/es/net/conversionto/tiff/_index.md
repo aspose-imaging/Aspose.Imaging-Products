@@ -1,19 +1,19 @@
 ﻿---
-title: Convierta imágenes al formato de imagen TIFF desde otros formatos compatibles utilizando la plataforma .NET 
+title: Convierta imágenes al formato de imagen TIFF(Formato de imagen etiquetada) desde otros formatos compatibles utilizando la plataforma .NET 
 weight: 3920
 url: /es/net/conversion/to/tiff 
 lang: es
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging para la biblioteca .NET, es fácil convertir a TIFF desde otros formatos de imagen compatibles
+description: Usando Aspose.Imaging para la biblioteca .NET, es fácil convertir a TIFF(Formato de imagen etiquetada) desde otros formatos de imagen compatibles
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convierta archivos de imagen a formato de imagen TIFF utilizando la plataforma .NET" h2="Convierta al formato TIFF desde otros formatos usando Aspose.Imaging para la biblioteca .NET" downloadText="Descargar" >}}
+{{< blocks/products/pf/feature-page-header h1="Convierta archivos de imagen a formato de imagen TIFF(Formato de imagen etiquetada) utilizando la plataforma .NET" h2="Convierta al formato Formato de imagen etiquetada desde otros formatos usando Aspose.Imaging para la biblioteca .NET" downloadText="Descargar" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todas las conversiones admitidas al formato TIFF usando Aspose.Imaging para la biblioteca .NET" %}}
-Con la biblioteca Aspose.Imaging, puede convertir mediante programación varios formatos de imagen a la imagen TIFF.
+{{% blocks/products/pf/feature-page-section  h2="Todas las conversiones admitidas al formato TIFF(Formato de imagen etiquetada) usando Aspose.Imaging para la biblioteca .NET" %}}
+<p align=justify>Con la biblioteca Aspose.Imaging, puede convertir mediante programación varios formatos de imagen a la imagen TIFF. TIFF o TIF, formato de archivo de imagen etiquetada, representa imágenes de trama diseñadas para su uso en una variedad de dispositivos que cumplen con este estándar de formato de archivo. Es capaz de describir datos de imágenes de dos niveles, escala de grises, colores de paleta y a todo color en varios espacios de color. Admite esquemas de compresión con pérdida y sin pérdida para elegir entre el espacio y el tiempo para las aplicaciones que utilizan el formato. El formato es extensible y ha sufrido varias revisiones que permiten la inclusión de una cantidad ilimitada de información privada o de propósito especial. El formato no depende de la máquina y está libre de límites como el procesador, el sistema operativo o los sistemas de archivos. </p>
 <br/>
 Se admiten las siguientes conversiones:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,21 +1,21 @@
 ﻿---
-title: Convert from ICO to other formats Via .NET 
+title: Convert from ICO(Windows icon) to other formats Via .NET image API 
 weight: 3920
 url: /net/conversion/from/ico 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Using Aspose.Imaging you can easily convert from ICO to other formats
+description: Using Aspose.Imaging for .NET you can easily convert from ICO(Windows icon) to other formats
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Image Files Conversion from ICO Via .NET" h2="Convert from ICO to other formats" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Image Files Conversion from ICO(Windows icon) Via .NET image API" h2="Convert from Windows icon to other formats using Aspose.Imaging API" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from ICO" %}}
-Aspose.Imaging allows automate a lot of conversions from ICO to other formats on .NET platform.
+{{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from ICO(Windows icon)" %}}
+<p align=justify>Aspose.Imaging allows automate a lot of conversions from ICO to other formats on .NET platform. The ICO file format is an image file format for computer icons in Microsoft Windows. ICO files contain one or more small images at multiple sizes and color depths, such that they may be scaled appropriately. In Windows, all executables that display an icon to the user, on the desktop, in the Start Menu, or in Windows Explorer, must carry the icon in ICO format.</p>
 <br/>
-Full list of supported conversions:
+Full list of supported conversions from ICO:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

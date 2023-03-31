@@ -1,20 +1,20 @@
 ﻿---
-title: قم بالتحويل من BMP إلى التنسيقات الأخرى المدعومة باستخدام Aspose.Imaging for Java 
+title: قم بالتحويل من BMP(صورة نقطية) إلى التنسيقات الأخرى المدعومة باستخدام Aspose.Imaging for Java API 
 weight: 3920
 url: /ar/java/conversion/from/bmp 
 lang: ar
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging يمكن تحويله بسهولة من BMP إلى تنسيقات أخرى باستخدام Java platform
+description: Aspose.Imaging يمكن تحويله بسهولة من BMP(صورة نقطية) إلى تنسيقات أخرى باستخدام Java platform
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل الصور من تنسيق BMP باستخدام Aspose.Imaging for Java" h2="تحويل من تنسيق صورة BMP إلى تنسيقات أخرى باستخدام نظام Java الأساسي" downloadText="تحميل" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل الصور من تنسيق BMP باستخدام Aspose.Imaging for Java" h2="تحويل من تنسيق صورة BMP(صورة نقطية) إلى تنسيقات أخرى باستخدام نظام Java الأساسي" downloadText="تحميل" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="مجموعة واسعة من تنسيقات الصور التي يمكن تحويلها من صور BMP باستخدام Aspose.Imaging for Java" %}}
-يمكنك تحويل برمجيًا من تنسيق BMP إلى تنسيقات أخرى متاحة باستخدام
-Aspose.Imaging لجافا.
+{{% blocks/products/pf/feature-page-section  h2="مجموعة واسعة من تنسيقات الصور التي يمكن تحويلها من صور BMP(صورة نقطية) باستخدام Aspose.Imaging for Java" %}}
+<p align=justify>يمكنك تحويل برمجيًا من تنسيق BMP إلى تنسيقات أخرى متاحة باستخدام
+Aspose.Imaging لجافا. الملفات ذات الامتداد .BMP تمثل ملفات الصور النقطية المستخدمة لتخزين الصور الرقمية للصور النقطية. هذه الصور مستقلة عن محول الرسومات وتسمى أيضًا تنسيق ملف الصورة النقطية المستقلة عن الجهاز (DIB). يخدم هذا الاستقلال غرض فتح الملف على منصات متعددة مثل Microsoft Windows و Mac. يمكن لملف BMP تخزين البيانات كصور رقمية ثنائية الأبعاد بتنسيق أحادي اللون بالإضافة إلى تنسيق الألوان بأعماق ألوان مختلفة.</p>
 <br/>
 هناك التحويلات التالية على متن الطائرة:
 {{% /blocks/products/pf/feature-page-section %}}

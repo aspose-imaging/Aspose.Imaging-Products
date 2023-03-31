@@ -1,20 +1,20 @@
 ﻿---
-title: Aspose.Imaging for Java kullanarak WMZ formatını desteklenen diğer formatlara dönüştürün 
+title: Aspose.Imaging for Java API kullanarak WMZ(Sıkıştırılmış Windows Media Player Dış Görünümü) formatını desteklenen diğer formatlara dönüştürün 
 weight: 3920
 url: /tr/java/conversion/from/wmz 
 lang: tr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging, Java platformunu kullanarak WMZ biçimini diğer biçimlere kolayca dönüştürebilir
+description: Aspose.Imaging, Java platformunu kullanarak WMZ(Sıkıştırılmış Windows Media Player Dış Görünümü) biçimini diğer biçimlere kolayca dönüştürebilir
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java kullanarak görüntüleri WMZ formatından dönüştürün" h2="Java platformunu kullanarak WMZ görüntü biçiminden diğer biçimlere dönüştürme" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java kullanarak görüntüleri WMZ formatından dönüştürün" h2="Java platformunu kullanarak WMZ(Sıkıştırılmış Windows Media Player Dış Görünümü) görüntü biçiminden diğer biçimlere dönüştürme" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java kullanılarak WMZ görüntülerden dönüştürülebilen geniş görüntü formatları yelpazesi" %}}
-kullanarak WMZ biçiminden diğer kullanılabilir biçimlere programlı olarak dönüştürebilirsiniz.
-Java için Aspose.Imaging.
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java kullanılarak WMZ(Sıkıştırılmış Windows Media Player Dış Görünümü) görüntülerden dönüştürülebilen geniş görüntü formatları yelpazesi" %}}
+<p align=justify>kullanarak WMZ biçiminden diğer kullanılabilir biçimlere programlı olarak dönüştürebilirsiniz.
+Java için Aspose.Imaging. WMZ, Windows Media Player'da/içinde/tarafından kullanılan bir dış görünüm dosyası biçimi için bir dosya uzantısıdır. Bir WMZ dosyası, temel olarak XML'de sıkıştırılmış bir WMF dosyasıdır.</p>
 <br/>
 Gemide aşağıdaki dönüşümler var:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,20 +1,20 @@
 ﻿---
-title: Converteer van DJVU naar andere ondersteunde formaten met Aspose.Imaging voor Java 
+title: Converteer van DJVU(Grafisch formaat) naar andere ondersteunde formaten met Aspose.Imaging voor Java API 
 weight: 3920
 url: /nl/java/conversion/from/djvu 
 lang: nl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging kan eenvoudig converteren van DJVU naar andere formaten met behulp van het Java-platform
+description: Aspose.Imaging kan eenvoudig converteren van DJVU(Grafisch formaat) naar andere formaten met behulp van het Java-platform
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer afbeeldingen van DJVU-indeling met Aspose.Imaging voor Java" h2="Converteer van DJVU afbeeldingsformaat naar andere formaten met behulp van het Java-platform" downloadText="Downloaden" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer afbeeldingen van DJVU-indeling met Aspose.Imaging voor Java" h2="Converteer van DJVU(Grafisch formaat) afbeeldingsformaat naar andere formaten met behulp van het Java-platform" downloadText="Downloaden" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Breed spectrum aan afbeeldingsindelingen die kunnen worden geconverteerd van DJVU-afbeeldingen met Aspose.Imaging voor Java" %}}
-U kunt programmatisch converteren van het DJVU-formaat naar andere beschikbare formaten met behulp van
-Aspose.Imaging voor Java.
+{{% blocks/products/pf/feature-page-section  h2="Breed spectrum aan afbeeldingsindelingen die kunnen worden geconverteerd van DJVU(Grafisch formaat)-afbeeldingen met Aspose.Imaging voor Java" %}}
+<p align=justify>U kunt programmatisch converteren van het DJVU-formaat naar andere beschikbare formaten met behulp van
+Aspose.Imaging voor Java. DjVu, uitgesproken als DJVU, is een grafisch bestandsformaat dat bedoeld is voor gescande documenten en boeken, met name die welke de combinatie van tekst, tekeningen, afbeeldingen en foto's bevatten. Het is ontwikkeld door AT&T Labs. Het maakt gebruik van meerdere technieken, zoals scheiding van tekst- en achtergrondafbeeldingen in beeldlagen, progressief laden, rekenkundige codering en compressie met verlies voor bitonale afbeeldingen. Omdat het DJVU-bestand gecomprimeerde maar hoogwaardige kleurenafbeeldingen, foto's, tekst en tekeningen kan bevatten en daarom in minder ruimte kan worden opgeslagen, wordt het op internet gebruikt als eBooks, handleidingen, kranten, oude documenten, enz.</p>
 <br/>
 Er zijn de volgende verbouwingen aan boord:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,19 +1,19 @@
 ﻿---
-title: Convertir des images au format d'image ICO à partir d'autres formats pris en charge à l'aide de la plate-forme .NET 
+title: Convertir des images au format d'image ICO(Icône Windows) à partir d'autres formats pris en charge à l'aide de la plate-forme .NET 
 weight: 3920
 url: /fr/net/conversion/to/ico 
 lang: fr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: En utilisant Aspose.Imaging pour la bibliothèque .NET, il est facile de convertir en ICO à partir d'autres formats d'image pris en charge
+description: En utilisant Aspose.Imaging pour la bibliothèque .NET, il est facile de convertir en ICO(Icône Windows) à partir d'autres formats d'image pris en charge
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convertir les fichiers image au format d'image ICO à l'aide de la plate-forme .NET" h2="Convertir au format ICO à partir d'autres formats à l'aide de la bibliothèque Aspose.Imaging pour .NET" downloadText="Télécharger" >}}
+{{< blocks/products/pf/feature-page-header h1="Convertir les fichiers image au format d'image ICO(Icône Windows) à l'aide de la plate-forme .NET" h2="Convertir au format Icône Windows à partir d'autres formats à l'aide de la bibliothèque Aspose.Imaging pour .NET" downloadText="Télécharger" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Toutes les conversions prises en charge au format ICO à l'aide de la bibliothèque Aspose.Imaging pour .NET" %}}
-À l'aide de la bibliothèque Aspose.Imaging, vous pouvez convertir par programmation divers formats d'image en image ICO.
+{{% blocks/products/pf/feature-page-section  h2="Toutes les conversions prises en charge au format ICO(Icône Windows) à l'aide de la bibliothèque Aspose.Imaging pour .NET" %}}
+<p align=justify>À l'aide de la bibliothèque Aspose.Imaging, vous pouvez convertir par programmation divers formats d'image en image ICO. Le format de fichier ICO est un format de fichier image pour les icônes d'ordinateur dans Microsoft Windows. Les fichiers ICO contiennent une ou plusieurs petites images à plusieurs tailles et profondeurs de couleur, de sorte qu'elles peuvent être mises à l'échelle de manière appropriée. Sous Windows, tous les exécutables qui affichent une icône à l'utilisateur, sur le bureau, dans le menu Démarrer ou dans l'Explorateur Windows, doivent porter l'icône au format ICO. </p>
 <br/>
 Les conversions suivantes sont prises en charge :
 {{% /blocks/products/pf/feature-page-section %}}

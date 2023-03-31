@@ -1,21 +1,21 @@
 ﻿---
-title: .NET Aracılığıyla TGA'ten diğer biçimlere dönüştürün 
+title: .NET görüntü API'sı aracılığıyla TGA(Targa Grafiği) biçimini diğer biçimlere dönüştürün 
 weight: 3920
 url: /tr/net/conversion/from/tga 
 lang: tr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging'i kullanarak TGA biçimini kolayca başka biçimlere dönüştürebilirsiniz
+description: Aspose.Imaging'i kullanarak TGA(Targa Grafiği) biçimini kolayca başka biçimlere dönüştürebilirsiniz
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET Yoluyla TGA'den Görüntü Dosyaları Dönüştürme" h2="TGA biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET image API aracılığıyla TGA(Targa Grafiği)'den Görüntü Dosyaları Dönüşümü" h2="Aspose.Imaging API kullanarak Targa Grafiği formatını diğer formatlara dönüştürün" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="TGA'den dönüştürülecek desteklenen tüm resim biçimleri" %}}
-Aspose.Imaging, .NET platformunda TGA'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir.
+{{% blocks/products/pf/feature-page-section  h2="TGA(Targa Grafiği) biçiminden dönüştürülecek desteklenen tüm resim biçimleri" %}}
+<p align=justify>Aspose.Imaging, .NET platformunda TGA'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir. Genellikle TARGA olarak adlandırılan Truevision TGA, Truevision Inc. (şimdi Avid Technology'nin bir parçası) tarafından oluşturulan bir raster grafik dosyası formatıdır. IBM uyumlu PC'ler için Highcolor/truecolor ekranı destekleyen ilk grafik kartları olan TARGA ve VISTA kartlarının yerel formatıydı.</p>
 <br/>
-Desteklenen dönüşümlerin tam listesi:
+TGA tarafından desteklenen dönüşümlerin tam listesi:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -1,21 +1,21 @@
 ﻿---
-title: Konversikan dari DIB ke format lain Melalui .NET 
+title: Konversikan dari DIB(Bitmap Independen Perangkat) ke format lain Melalui API gambar .NET 
 weight: 3920
 url: /id/net/conversion/from/dib 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi dari DIB ke format lain
+description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi dari DIB(Bitmap Independen Perangkat) ke format lain
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar dari DIB Melalui .NET" h2="Konversikan dari DIB ke format lain" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar dari DIB(Bitmap Independen Perangkat) Melalui API gambar .NET" h2="Konversikan dari Bitmap Independen Perangkat ke format lain menggunakan Aspose.Imaging API" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari DIB" %}}
-Aspose.Imaging memungkinkan mengotomatiskan banyak konversi dari DIB ke format lain di platform .NET.
+{{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari DIB(Bitmap Independen Perangkat)" %}}
+<p align=justify>Aspose.Imaging memungkinkan mengotomatiskan banyak konversi dari DIB ke format lain di platform .NET. File DIB (Device Independent Bitmap) adalah file gambar raster yang strukturnya mirip dengan file Bitmap standar (BMP) tetapi memiliki header yang berbeda. Dapat dibuka dengan hampir semua aplikasi yang dapat membuka file BMP standar di Windows maupun macOS. DIB adalah file biner dan memiliki format file kompleks yang mirip dengan BMP.</p>
 <br/>
-Daftar lengkap konversi yang didukung:
+Daftar lengkap konversi yang didukung dari DIB:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -1,20 +1,20 @@
 ﻿---
-title: Konvertieren Sie mit Aspose.Imaging für Java von DJVU in andere unterstützte Formate 
+title: Konvertieren Sie mit Aspose.Imaging für Java von DJVU(Grafikformat) in andere unterstützte Formate API 
 weight: 3920
 url: /de/java/conversion/from/djvu 
 lang: de
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging kann mithilfe der Java-Plattform problemlos von DJVU in andere Formate konvertieren
+description: Aspose.Imaging kann mithilfe der Java-Plattform problemlos von DJVU(Grafikformat) in andere Formate konvertieren
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie Bilder aus dem DJVU-Format mit Aspose.Imaging für Java" h2="Konvertieren Sie das Bildformat DJVU mithilfe der Java-Plattform in andere Formate" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie Bilder aus dem DJVU-Format mit Aspose.Imaging für Java" h2="Konvertieren Sie das Bildformat DJVU(Grafikformat) mithilfe der Java-Plattform in andere Formate" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Breites Spektrum an Bildformaten, die mit Aspose.Imaging für Java aus DJVU-Bildern konvertiert werden können" %}}
-Sie können das DJVU-Format programmgesteuert in andere verfügbare Formate konvertieren, indem Sie verwenden
-Aspose.Imaging für Java.
+{{% blocks/products/pf/feature-page-section  h2="Breites Spektrum an Bildformaten, die mit Aspose.Imaging für Java aus DJVU(Grafikformat)-Bildern konvertiert werden können" %}}
+<p align=justify>Sie können das DJVU-Format programmgesteuert in andere verfügbare Formate konvertieren, indem Sie verwenden
+Aspose.Imaging für Java. DjVu, ausgesprochen als DJVU, ist ein Grafikdateiformat, das für gescannte Dokumente und Bücher gedacht ist, insbesondere für solche, die eine Kombination aus Text, Zeichnungen, Bildern und Fotos enthalten. Es wurde von AT&T Labs entwickelt. Es verwendet mehrere Techniken wie Bildebenentrennung von Text und Hintergrundbildern, progressives Laden, arithmetische Codierung und verlustbehaftete Komprimierung für bitonale Bilder. Da die DJVU-Datei komprimierte, aber qualitativ hochwertige Farbbilder, Fotos, Texte und Zeichnungen enthalten kann und daher auf weniger Platz gespeichert werden kann, wird sie im Internet als eBooks, Handbücher, Zeitungen, alte Dokumente usw. verwendet.</p>
 <br/>
 Folgende Umbauten sind an Bord:
 {{% /blocks/products/pf/feature-page-section %}}

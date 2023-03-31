@@ -1,20 +1,20 @@
 ﻿---
-title: המר מ-TIF לפורמטים נתמכים אחרים באמצעות Aspose.Imaging עבור Java 
+title: המר מ-TIF(פורמט תמונה מתויג) לפורמטים נתמכים אחרים באמצעות Aspose.Imaging עבור Java API 
 weight: 3920
 url: /he/java/conversion/from/tif 
 lang: he
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging יכולה להמיר בקלות מ-TIF לפורמטים אחרים באמצעות פלטפורמת Java
+description: Aspose.Imaging יכולה להמיר בקלות מ-TIF(פורמט תמונה מתויג) לפורמטים אחרים באמצעות פלטפורמת Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="המר תמונות מפורמט TIF באמצעות Aspose.Imaging עבור Java" h2="המר מפורמט תמונה TIF לפורמטים אחרים באמצעות פלטפורמת Java" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="המר תמונות מפורמט TIF באמצעות Aspose.Imaging עבור Java" h2="המר מפורמט תמונה TIF(פורמט תמונה מתויג) לפורמטים אחרים באמצעות פלטפורמת Java" downloadText="הורד" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="ספקטרום רחב של פורמטים של תמונות שניתן להמיר מתמונות TIF באמצעות Aspose.Imaging עבור Java" %}}
-אתה יכול להמיר באופן תכנותי מפורמט TIF לפורמטים זמינים אחרים באמצעות
-Aspose.Imaging עבור Java.
+{{% blocks/products/pf/feature-page-section  h2="ספקטרום רחב של פורמטים של תמונות שניתן להמיר מתמונות TIF(פורמט תמונה מתויג) באמצעות Aspose.Imaging עבור Java" %}}
+<p align=justify>אתה יכול להמיר באופן תכנותי מפורמט TIF לפורמטים זמינים אחרים באמצעות
+Aspose.Imaging עבור Java. </p>
 <br/>
 ישנן ההמרות הבאות על הסיפון:
 {{% /blocks/products/pf/feature-page-section %}}

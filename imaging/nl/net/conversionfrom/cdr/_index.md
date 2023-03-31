@@ -1,21 +1,21 @@
 ﻿---
-title: Converteren van CDR naar andere formaten Via .NET 
+title: Converteer van CDR(Vector tekening afbeelding) naar andere formaten via de .NET afbeeldings-API 
 weight: 3920
 url: /nl/net/conversion/from/cdr 
 lang: nl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Met behulp van Aspose.Imaging kunt u eenvoudig converteren van CDR naar een ander formaat
+description: Met behulp van Aspose.Imaging kunt u eenvoudig converteren van CDR(Vector tekening afbeelding) naar een ander formaat
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversie van afbeeldingsbestanden van CDR via .NET" h2="Converteer van CDR naar een ander formaat" downloadText="Downloaden" >}}
+{{< blocks/products/pf/feature-page-header h1="Afbeeldingsbestanden Conversie van CDR(Vector tekening afbeelding) via .NET afbeeldings-API" h2="Converteer van Vector tekening afbeelding naar andere formaten met behulp van de Aspose.Imaging API" downloadText="Downloaden" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde afbeeldingsindelingen om te converteren van CDR" %}}
-Aspose.Imaging maakt het mogelijk veel conversies van CDR naar andere formaten op het .NET-platform te automatiseren.
+{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde afbeeldingsindelingen om te converteren van CDR(Vector tekening afbeelding)" %}}
+<p align=justify>Aspose.Imaging maakt het mogelijk veel conversies van CDR naar andere formaten op het .NET-platform te automatiseren. Een CDR-bestand is een vectortekeningafbeeldingsbestand dat oorspronkelijk is gemaakt met CorelDRAW voor het opslaan van gecodeerde en gecomprimeerde digitale afbeeldingen. Zo'n tekenbestand bevat tekst, lijnen, vormen, afbeeldingen, kleuren en effecten voor vectorweergave van afbeeldingsinhoud. CDR-bestanden kunnen worden geopend met CorelDRAW als de primaire toepassing en kunnen ook worden geconverteerd naar andere formaten zoals PDF, JPG, PNG, BMP en AI. Het kan worden gebruikt voor de weergave van verschillende grafische gegevens zoals brochures, tabloids, enveloppen en ansichtkaarten. Naast CorelDRAW kunnen ook andere Corel-producten, zoals Corel Paintshop Pro en CorelDRAW Graphics suite, de CDR-bestandsindelingen openen.</p>
 <br/>
-Volledige lijst met ondersteunde conversies:
+Volledige lijst met ondersteunde conversies van CDR:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

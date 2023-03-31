@@ -1,20 +1,20 @@
 ﻿---
-title: Konvertera från WMZ till andra format som stöds med Aspose.Imaging för Java 
+title: Konvertera från WMZ(Komprimerat Windows Media Player-skal) till andra format som stöds med Aspose.Imaging för Java API 
 weight: 3920
 url: /sv/java/conversion/from/wmz 
 lang: sv
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging kan enkelt konvertera från WMZ till andra format med hjälp av Java-plattformen
+description: Aspose.Imaging kan enkelt konvertera från WMZ(Komprimerat Windows Media Player-skal) till andra format med hjälp av Java-plattformen
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertera bilder från formatet WMZ med Aspose.Imaging för Java" h2="Konvertera från WMZ bildformat till andra format med Java-plattformen" downloadText="Ladda ner" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertera bilder från formatet WMZ med Aspose.Imaging för Java" h2="Konvertera från WMZ(Komprimerat Windows Media Player-skal) bildformat till andra format med Java-plattformen" downloadText="Ladda ner" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Brett spektrum av bildformat som kan konverteras från WMZ-bilder med Aspose.Imaging för Java" %}}
-Du kan programmatiskt konvertera från formatet WMZ till andra tillgängliga format med hjälp av
-Aspose.Imaging för Java.
+{{% blocks/products/pf/feature-page-section  h2="Brett spektrum av bildformat som kan konverteras från WMZ(Komprimerat Windows Media Player-skal)-bilder med Aspose.Imaging för Java" %}}
+<p align=justify>Du kan programmatiskt konvertera från formatet WMZ till andra tillgängliga format med hjälp av
+Aspose.Imaging för Java. WMZ är ett filtillägg för ett skalfilformat i/för/används av Windows Media Player. En WMZ-fil är i grunden en zippad WMF-fil i XML.</p>
 <br/>
 Det finns följande konverteringar ombord:
 {{% /blocks/products/pf/feature-page-section %}}

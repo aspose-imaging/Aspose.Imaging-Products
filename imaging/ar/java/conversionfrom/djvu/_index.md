@@ -1,20 +1,20 @@
 ﻿---
-title: قم بالتحويل من DJVU إلى التنسيقات الأخرى المدعومة باستخدام Aspose.Imaging for Java 
+title: قم بالتحويل من DJVU(تنسيق الرسومات) إلى التنسيقات الأخرى المدعومة باستخدام Aspose.Imaging for Java API 
 weight: 3920
 url: /ar/java/conversion/from/djvu 
 lang: ar
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging يمكن تحويله بسهولة من DJVU إلى تنسيقات أخرى باستخدام Java platform
+description: Aspose.Imaging يمكن تحويله بسهولة من DJVU(تنسيق الرسومات) إلى تنسيقات أخرى باستخدام Java platform
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل الصور من تنسيق DJVU باستخدام Aspose.Imaging for Java" h2="تحويل من تنسيق صورة DJVU إلى تنسيقات أخرى باستخدام نظام Java الأساسي" downloadText="تحميل" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل الصور من تنسيق DJVU باستخدام Aspose.Imaging for Java" h2="تحويل من تنسيق صورة DJVU(تنسيق الرسومات) إلى تنسيقات أخرى باستخدام نظام Java الأساسي" downloadText="تحميل" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="مجموعة واسعة من تنسيقات الصور التي يمكن تحويلها من صور DJVU باستخدام Aspose.Imaging for Java" %}}
-يمكنك تحويل برمجيًا من تنسيق DJVU إلى تنسيقات أخرى متاحة باستخدام
-Aspose.Imaging لجافا.
+{{% blocks/products/pf/feature-page-section  h2="مجموعة واسعة من تنسيقات الصور التي يمكن تحويلها من صور DJVU(تنسيق الرسومات) باستخدام Aspose.Imaging for Java" %}}
+<p align=justify>يمكنك تحويل برمجيًا من تنسيق DJVU إلى تنسيقات أخرى متاحة باستخدام
+Aspose.Imaging لجافا. يُنطق DjVu باسم DJVU ، وهو تنسيق ملف رسومي مخصص للوثائق والكتب الممسوحة ضوئيًا وخاصة تلك التي تحتوي على مزيج من النصوص والرسومات والصور والصور الفوتوغرافية. تم تطويره بواسطة AT&T Labs. يستخدم تقنيات متعددة مثل فصل طبقة الصور للنص وصور الخلفية ، والتحميل التدريجي ، والتشفير الحسابي والضغط المفقود للصور البتونية. نظرًا لأن ملف DJVU يمكن أن يحتوي على صور ملونة وصور فوتوغرافية ونصوص ورسومات مضغوطة وعالية الجودة ويمكن حفظها في مساحة أقل ، يتم استخدامه على الويب ككتب إلكترونية وكتيبات وصحف ومستندات قديمة وما إلى ذلك.</p>
 <br/>
 هناك التحويلات التالية على متن الطائرة:
 {{% /blocks/products/pf/feature-page-section %}}

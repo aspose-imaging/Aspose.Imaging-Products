@@ -1,19 +1,19 @@
 ﻿---
-title: Konvertuokite vaizdus į WMF vaizdo formatą iš kitų palaikomų formatų naudodami .NET platformą 
+title: Konvertuokite vaizdus į WMF(Microsoft Windows metafailas) vaizdo formatą iš kitų palaikomų formatų naudodami .NET platformą 
 weight: 3920
 url: /lt/net/conversion/to/wmf 
 lang: lt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Naudojant Aspose.Imaging, skirta .NET bibliotekai, lengva konvertuoti į WMF iš kitų palaikomų vaizdo formatų
+description: Naudojant Aspose.Imaging, skirta .NET bibliotekai, lengva konvertuoti į WMF(Microsoft Windows metafailas) iš kitų palaikomų vaizdo formatų
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertuokite vaizdo failus į WMF vaizdo formatą naudodami .NET platformą" h2="Konvertuokite į WMF formatą iš kitų formatų naudodami Aspose.Imaging, skirtą .NET bibliotekai" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertuokite vaizdo failus į WMF(Microsoft Windows metafailas) vaizdo formatą naudodami .NET platformą" h2="Konvertuokite į Microsoft Windows metafailas formatą iš kitų formatų naudodami Aspose.Imaging, skirtą .NET bibliotekai" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visos palaikomos konversijos į WMF formatą naudojant Aspose.Imaging for .NET biblioteką" %}}
-Naudodami Aspose.Imaging biblioteką galite programiškai konvertuoti įvairius vaizdo formatus į WMF vaizdą.
+{{% blocks/products/pf/feature-page-section  h2="Visos palaikomos konversijos į WMF(Microsoft Windows metafailas) formatą naudojant Aspose.Imaging for .NET biblioteką" %}}
+<p align=justify>Naudodami Aspose.Imaging biblioteką galite programiškai konvertuoti įvairius vaizdo formatus į WMF vaizdą. Failai su WMF plėtiniu yra „Microsoft Windows“ metafailas (WMF), skirtas vektorinių ir bitmap formato vaizdų duomenims saugoti. Tiksliau, WMF priklauso grafinių failų formatų vektorinių failų formatų kategorijai, kuri nepriklauso nuo įrenginio. „Windows“ grafinio įrenginio sąsaja (GDI) vaizdui ekrane rodyti naudoja WMF faile saugomas funkcijas. Vėliau buvo paskelbta labiau patobulinta WMF versija, žinoma kaip patobulinti meta failai (EMF), todėl formatas tapo turtingesnis. Praktiškai WMF yra panašūs į SVG.</p>
 <br/>
 Palaikomos šios konversijos:
 {{% /blocks/products/pf/feature-page-section %}}

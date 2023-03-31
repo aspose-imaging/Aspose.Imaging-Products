@@ -1,19 +1,19 @@
 ﻿---
-title: Convertir des images au format d'image PSD à partir d'autres formats pris en charge à l'aide de la plate-forme .NET 
+title: Convertir des images au format d'image PSD(Document Photoshop) à partir d'autres formats pris en charge à l'aide de la plate-forme .NET 
 weight: 3920
 url: /fr/net/conversion/to/psd 
 lang: fr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: En utilisant Aspose.Imaging pour la bibliothèque .NET, il est facile de convertir en PSD à partir d'autres formats d'image pris en charge
+description: En utilisant Aspose.Imaging pour la bibliothèque .NET, il est facile de convertir en PSD(Document Photoshop) à partir d'autres formats d'image pris en charge
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convertir les fichiers image au format d'image PSD à l'aide de la plate-forme .NET" h2="Convertir au format PSD à partir d'autres formats à l'aide de la bibliothèque Aspose.Imaging pour .NET" downloadText="Télécharger" >}}
+{{< blocks/products/pf/feature-page-header h1="Convertir les fichiers image au format d'image PSD(Document Photoshop) à l'aide de la plate-forme .NET" h2="Convertir au format Document Photoshop à partir d'autres formats à l'aide de la bibliothèque Aspose.Imaging pour .NET" downloadText="Télécharger" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Toutes les conversions prises en charge au format PSD à l'aide de la bibliothèque Aspose.Imaging pour .NET" %}}
-À l'aide de la bibliothèque Aspose.Imaging, vous pouvez convertir par programmation divers formats d'image en image PSD.
+{{% blocks/products/pf/feature-page-section  h2="Toutes les conversions prises en charge au format PSD(Document Photoshop) à l'aide de la bibliothèque Aspose.Imaging pour .NET" %}}
+<p align=justify>À l'aide de la bibliothèque Aspose.Imaging, vous pouvez convertir par programmation divers formats d'image en image PSD. PSD, Photoshop Document, représente le format de fichier natif d'Adobe Photoshop utilisé pour la conception et le développement graphiques. Les fichiers PSD peuvent inclure des calques d'image, des calques de réglage, des masques de calque, des annotations, des informations sur les fichiers, des mots-clés et d'autres éléments spécifiques à Photoshop. </p>
 <br/>
 Les conversions suivantes sont prises en charge :
 {{% /blocks/products/pf/feature-page-section %}}

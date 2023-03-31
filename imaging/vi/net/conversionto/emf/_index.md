@@ -1,19 +1,19 @@
 ﻿---
-title: Chuyển đổi hình ảnh sang định dạng hình ảnh EMF từ các định dạng được hỗ trợ khác bằng nền tảng .NET 
+title: Chuyển đổi hình ảnh sang định dạng hình ảnh EMF(Định dạng siêu tệp nâng cao) từ các định dạng được hỗ trợ khác bằng nền tảng .NET 
 weight: 3920
 url: /vi/net/conversion/to/emf 
 lang: vi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Sử dụng Aspose.Imaging cho thư viện .NET, thật dễ dàng để chuyển đổi sang EMF từ các định dạng hình ảnh được hỗ trợ khác
+description: Sử dụng Aspose.Imaging cho thư viện .NET, thật dễ dàng để chuyển đổi sang EMF(Định dạng siêu tệp nâng cao) từ các định dạng hình ảnh được hỗ trợ khác
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Chuyển đổi tệp hình ảnh sang định dạng hình ảnh EMF bằng nền tảng .NET" h2="Chuyển đổi sang định dạng EMF từ các định dạng khác bằng thư viện Aspose.Imaging for .NET" downloadText="Tải xuống" >}}
+{{< blocks/products/pf/feature-page-header h1="Chuyển đổi tệp hình ảnh sang định dạng hình ảnh EMF(Định dạng siêu tệp nâng cao) bằng nền tảng .NET" h2="Chuyển đổi sang định dạng Định dạng siêu tệp nâng cao từ các định dạng khác bằng thư viện Aspose.Imaging for .NET" downloadText="Tải xuống" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tất cả các chuyển đổi được hỗ trợ sang định dạng EMF bằng thư viện Aspose.Imaging for .NET" %}}
-Sử dụng thư viện Aspose.Imaging, bạn có thể lập trình chuyển đổi các định dạng hình ảnh khác nhau thành hình ảnh EMF.
+{{% blocks/products/pf/feature-page-section  h2="Tất cả các chuyển đổi được hỗ trợ sang định dạng EMF(Định dạng siêu tệp nâng cao) bằng thư viện Aspose.Imaging for .NET" %}}
+<p align=justify>Sử dụng thư viện Aspose.Imaging, bạn có thể lập trình chuyển đổi các định dạng hình ảnh khác nhau thành hình ảnh EMF. Định dạng metafile nâng cao (EMF) lưu trữ hình ảnh đồ họa độc lập với thiết bị. Siêu tệp EMF bao gồm các bản ghi có độ dài thay đổi theo thứ tự thời gian có thể hiển thị hình ảnh được lưu trữ sau khi phân tích cú pháp trên bất kỳ thiết bị đầu ra nào. Các bản ghi có độ dài thay đổi này có thể là định nghĩa của các đối tượng kèm theo, các lệnh để vẽ và các thuộc tính đồ họa quan trọng để hiển thị hình ảnh một cách chính xác. Khi một thiết bị mở siêu tệp EMF bằng cách sử dụng môi trường đồ họa của riêng nó, tỷ lệ, kích thước, màu sắc và các thuộc tính đồ họa khác của hình ảnh gốc vẫn giữ nguyên bất kể nền tảng thiết bị đang mở.</p>
 <br/>
 chuyển đổi sau đây được hỗ trợ:
 {{% /blocks/products/pf/feature-page-section %}}

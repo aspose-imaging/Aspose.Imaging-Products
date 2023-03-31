@@ -1,19 +1,19 @@
 ﻿---
-title: Converta imagens para o formato de imagem PDF de outros formatos suportados usando a plataforma .NET 
+title: Converta imagens para o formato de imagem PDF(Formato de Documento Portátil (PDF)) de outros formatos suportados usando a plataforma .NET 
 weight: 3920
 url: /pt/net/conversion/to/pdf 
 lang: pt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando a biblioteca Aspose.Imaging para .NET, é fácil converter para PDF de outros formatos de imagem suportados
+description: Usando a biblioteca Aspose.Imaging para .NET, é fácil converter para PDF(Formato de Documento Portátil (PDF)) de outros formatos de imagem suportados
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converta arquivos de imagem para o formato de imagem PDF usando a plataforma .NET" h2="Converta para o formato PDF de outros formatos usando a biblioteca Aspose.Imaging for .NET" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Converta arquivos de imagem para o formato de imagem PDF(Formato de Documento Portátil (PDF)) usando a plataforma .NET" h2="Converta para o formato Formato de Documento Portátil (PDF) de outros formatos usando a biblioteca Aspose.Imaging for .NET" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todas as conversões suportadas para o formato PDF usando a biblioteca Aspose.Imaging for .NET" %}}
-Usando a biblioteca Aspose.Imaging, você pode converter programaticamente vários formatos de imagem em imagem PDF.
+{{% blocks/products/pf/feature-page-section  h2="Todas as conversões suportadas para o formato PDF(Formato de Documento Portátil (PDF)) usando a biblioteca Aspose.Imaging for .NET" %}}
+<p align=justify>Usando a biblioteca Aspose.Imaging, você pode converter programaticamente vários formatos de imagem em imagem PDF. Portable Document Format (PDF) é um tipo de documento criado pela Adobe na década de 1990. O objetivo deste formato de arquivo foi introduzir um padrão para representação de documentos e outros materiais de referência em um formato independente do software aplicativo, hardware e sistema operacional. O formato de arquivo PDF tem capacidade total para conter informações como texto, imagens, hiperlinks, campos de formulário, rich media, assinaturas digitais, anexos, metadados, recursos geoespaciais e objetos 3D que podem se tornar parte do documento de origem.</p>
 <br/>
 As seguintes conversões são suportadas:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,20 +1,20 @@
 ﻿---
-title: Chuyển đổi từ TGA sang các định dạng được hỗ trợ khác bằng Aspose.Imaging for Java 
+title: Chuyển đổi từ TGA(Đồ họa Targa) sang các định dạng được hỗ trợ khác bằng Aspose.Imaging for Java API 
 weight: 3920
 url: /vi/java/conversion/from/tga 
 lang: vi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging có thể dễ dàng chuyển đổi từ TGA sang các định dạng khác bằng nền tảng Java
+description: Aspose.Imaging có thể dễ dàng chuyển đổi từ TGA(Đồ họa Targa) sang các định dạng khác bằng nền tảng Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Chuyển đổi hình ảnh từ định dạng TGA bằng Aspose.Imaging cho Java" h2="Chuyển đổi từ định dạng hình ảnh TGA sang các định dạng khác bằng nền tảng Java" downloadText="Tải xuống" >}}
+{{< blocks/products/pf/feature-page-header h1="Chuyển đổi hình ảnh từ định dạng TGA bằng Aspose.Imaging cho Java" h2="Chuyển đổi từ định dạng hình ảnh TGA(Đồ họa Targa) sang các định dạng khác bằng nền tảng Java" downloadText="Tải xuống" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Nhiều định dạng hình ảnh có thể được chuyển đổi từ hình ảnh TGA bằng Aspose.Imaging cho Java" %}}
-Bạn có thể lập trình chuyển đổi từ định dạng TGA sang các định dạng có sẵn khác bằng cách sử dụng
-Aspose.Imaging cho Java.
+{{% blocks/products/pf/feature-page-section  h2="Nhiều định dạng hình ảnh có thể được chuyển đổi từ hình ảnh TGA(Đồ họa Targa) bằng Aspose.Imaging cho Java" %}}
+<p align=justify>Bạn có thể lập trình chuyển đổi từ định dạng TGA sang các định dạng có sẵn khác bằng cách sử dụng
+Aspose.Imaging cho Java. Truevision TGA, thường được gọi là TARGA, là một định dạng tệp đồ họa raster được tạo bởi Truevision Inc. (hiện là một phần của Avid Technology). Đó là định dạng ban đầu của bảng TARGA và VISTA, là những thẻ đồ họa đầu tiên dành cho PC tương thích với IBM hỗ trợ hiển thị Highcolor / truecolor.</p>
 <br/>
 Có các chuyển đổi sau trên tàu:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,21 +1,21 @@
 ﻿---
-title: Converti da DNG in altri formati tramite .NET 
+title: Conversione da DNG(Immagine della fotocamera digitale) ad altri formati tramite API immagine .NET 
 weight: 3920
 url: /it/net/conversion/from/dng 
 lang: it
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging puoi facilmente convertire da DNG ad altri formati
+description: Usando Aspose.Imaging puoi facilmente convertire da DNG(Immagine della fotocamera digitale) ad altri formati
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversione di file immagine da DNG tramite .NET" h2="Converti da DNG in altri formati" downloadText="Scarica" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversione di file immagine da DNG(Immagine della fotocamera digitale) tramite l'API immagine .NET" h2="Converti da Immagine della fotocamera digitale in altri formati utilizzando l'API Aspose.Imaging" downloadText="Scarica" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tutti i formati immagine supportati per la conversione da DNG" %}}
-Aspose.Imaging consente di automatizzare molte conversioni da DNG ad altri formati sulla piattaforma .NET.
+{{% blocks/products/pf/feature-page-section  h2="Tutti i formati immagine supportati per la conversione da DNG(Immagine della fotocamera digitale)" %}}
+<p align=justify>Aspose.Imaging consente di automatizzare molte conversioni da DNG ad altri formati sulla piattaforma .NET. DNG è un formato di immagine della fotocamera digitale utilizzato per l'archiviazione di file grezzi. È stato sviluppato da Adobe nel settembre 2004. Fondamentalmente è stato sviluppato per la fotografia digitale. DNG è un'estensione del formato standard TIFF/EP e utilizza i metadati in modo significativo. Per manipolare i dati grezzi dalle fotocamere digitali con facilità di flessibilità e controllo artistico, i fotografi scelgono i file raw della fotocamera. I formati JPEG e TIFF memorizzano le immagini che vengono elaborate dalla fotocamera, quindi non è disponibile molto spazio per le modifiche in tali formati.</p>
 <br/>
-Elenco completo delle conversioni supportate:
+Elenco completo delle conversioni supportate da DNG:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

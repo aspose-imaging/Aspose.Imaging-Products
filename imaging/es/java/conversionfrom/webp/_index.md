@@ -1,20 +1,20 @@
 ﻿---
-title: Convierta de WEBP a otros formatos admitidos usando Aspose.Imaging para Java 
+title: Convierta de WEBP(Imagen web ráster) a otros formatos admitidos usando Aspose.Imaging para Java API. 
 weight: 3920
 url: /es/java/conversion/from/webp 
 lang: es
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging puede convertir fácilmente de WEBP a otros formatos usando la plataforma Java
+description: Aspose.Imaging puede convertir fácilmente de WEBP(Imagen web ráster) a otros formatos usando la plataforma Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convierta imágenes del formato WEBP usando Aspose.Imaging para Java" h2="Convierta del formato de imagen WEBP a otros formatos utilizando la plataforma Java" downloadText="Descargar" >}}
+{{< blocks/products/pf/feature-page-header h1="Convierta imágenes del formato WEBP usando Aspose.Imaging para Java" h2="Convierta del formato de imagen WEBP(Imagen web ráster) a otros formatos utilizando la plataforma Java" downloadText="Descargar" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Amplio espectro de formatos de imagen que se pueden convertir a partir de imágenes WEBP usando Aspose.Imaging para Java" %}}
-Puede convertir programáticamente del formato WEBP a otros formatos disponibles usando
-Aspose. Imaging para Java.
+{{% blocks/products/pf/feature-page-section  h2="Amplio espectro de formatos de imagen que se pueden convertir a partir de imágenes WEBP(Imagen web ráster) usando Aspose.Imaging para Java" %}}
+<p align=justify>Puede convertir programáticamente del formato WEBP a otros formatos disponibles usando
+Aspose. Imaging para Java. WebP, presentado por Google, es un formato de archivo de imagen web rasterizado moderno que se basa en la compresión sin pérdida y con pérdida. Proporciona la misma calidad de imagen mientras reduce considerablemente el tamaño de la imagen. Dado que la mayoría de las páginas web utilizan imágenes como representación efectiva de los datos, el uso de imágenes WebP en las páginas web da como resultado una carga más rápida de las páginas web. Según Google, las imágenes sin pérdida de WebP son un 26 % más pequeñas en comparación con los PNG, mientras que las imágenes con pérdida de WebP son un 25-34 % más pequeñas que las imágenes JPEG comparables. Las imágenes se comparan según el índice de similitud estructural (SSIM) entre WebP y otros formatos de archivo de imagen. WebP es un proyecto hermano del formato de contenedor multimedia WebM.</p>
 <br/>
 Hay las siguientes conversiones a bordo:
 {{% /blocks/products/pf/feature-page-section %}}

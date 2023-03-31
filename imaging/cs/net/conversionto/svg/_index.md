@@ -1,19 +1,19 @@
 ﻿---
-title: Převeďte obrázky do formátu obrázku SVG z jiných podporovaných formátů pomocí platformy .NET 
+title: Převeďte obrázky do formátu obrázku SVG(Škálovatelná vektorová grafika) z jiných podporovaných formátů pomocí platformy .NET 
 weight: 3920
 url: /cs/net/conversion/to/svg 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Pomocí knihovny Aspose.Imaging for .NET je snadné převést do formátu SVG z jiných podporovaných formátů obrázků
+description: Pomocí knihovny Aspose.Imaging for .NET je snadné převést do formátu SVG(Škálovatelná vektorová grafika) z jiných podporovaných formátů obrázků
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převeďte soubory obrázků do formátu obrázků SVG pomocí platformy .NET" h2="Převeďte do formátu SVG z jiných formátů pomocí knihovny Aspose.Imaging for .NET" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Převeďte soubory obrázků do formátu obrázků SVG(Škálovatelná vektorová grafika) pomocí platformy .NET" h2="Převeďte do formátu Škálovatelná vektorová grafika z jiných formátů pomocí knihovny Aspose.Imaging for .NET" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované převody do formátu SVG pomocí knihovny Aspose.Imaging for .NET" %}}
-Pomocí knihovny Aspose.Imaging můžete programově převádět různé formáty obrázků na obrázek SVG.
+{{% blocks/products/pf/feature-page-section  h2="Všechny podporované převody do formátu SVG(Škálovatelná vektorová grafika) pomocí knihovny Aspose.Imaging for .NET" %}}
+<p align=justify>Pomocí knihovny Aspose.Imaging můžete programově převádět různé formáty obrázků na obrázek SVG. Soubory SVG jsou soubory škálovatelné vektorové grafiky, které k popisu vzhledu obrázku používají textový formát založený na XML. Slovo Scalable odkazuje na skutečnost, že SVG lze škálovat na různé velikosti bez ztráty kvality. Textový popis těchto souborů je činí nezávislými na rozlišení. Je to jeden z nejčastěji používaných formátů pro tvorbu webových stránek a tiskové grafiky za účelem dosažení škálovatelnosti. Formát lze použít pouze pro dvourozměrnou grafiku. Soubory SVG lze prohlížet/otvírat téměř ve všech moderních prohlížečích včetně Chrome, Internet Explorer, Firefox a Safari.</p>
 <br/>
 Podporovány jsou následující převody:
 {{% /blocks/products/pf/feature-page-section %}}

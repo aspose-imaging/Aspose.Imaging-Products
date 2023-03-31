@@ -1,20 +1,20 @@
 ﻿---
-title: 使用 Aspose.Imaging for Java 从 DICOM 转换为其他支持的格式 
+title: 使用 Aspose.Imaging for Java API 从 DICOM(数码影像与通讯) 转换为其他支持的格式 
 weight: 3920
 url: /zh-hans/java/conversion/from/dicom 
 lang: zh-hans
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging 可以使用 Java 平台轻松地将 DICOM 转换为其他格式
+description: Aspose.Imaging 可以使用 Java 平台轻松地将 DICOM(数码影像与通讯) 转换为其他格式
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="使用 Aspose.Imaging for Java 从 DICOM 格式转换图像" h2="使用 Java 平台将 DICOM 图像格式转换为其他格式" downloadText="下载" >}}
+{{< blocks/products/pf/feature-page-header h1="使用 Aspose.Imaging for Java 从 DICOM 格式转换图像" h2="使用 Java 平台将 DICOM(数码影像与通讯) 图像格式转换为其他格式" downloadText="下载" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="可以使用 Aspose.Imaging for Java 从 DICOM 图像转换的各种图像格式" %}}
-您可以使用编程方式将 DICOM 格式转换为其他可用格式
-用于 Java 的 Aspose.Imaging。
+{{% blocks/products/pf/feature-page-section  h2="可以使用 Aspose.Imaging for Java 从 DICOM(数码影像与通讯) 图像转换的各种图像格式" %}}
+<p align=justify>您可以使用编程方式将 DICOM 格式转换为其他可用格式
+用于 Java 的 Aspose.Imaging。 DICOM 是 Digital Imaging and Communications in Medicine 的首字母缩写词，属于医学信息学领域。 DICOM 是文件格式定义和网络通信协议的结合。 DICOM 使用 .DCM 扩展名。 .DCM 以两种不同的格式存在，即格式 1.x 和格式 2.x。 DCM Format 1.x 还提供了两个普通版本和扩展版本。 DICOM 用于集成来自不同供应商的打印机、服务器、扫描仪等医疗成像设备，还包含每个患者的唯一识别数据。如果 DICOM 文件能够接收 DICOM 格式的图像数据，则它们可以在两方之间共享。 DICOM的通信部分是应用层协议，实体之间使用TCP/IP进行通信。 HTTP 和 HTTPS 协议用于 DICOM 的 Web 服务。 Web 服务支持的版本是 1.0、1.1、2 或更高版本。</p>
 <br/>
 船上有以下转换：
 {{% /blocks/products/pf/feature-page-section %}}

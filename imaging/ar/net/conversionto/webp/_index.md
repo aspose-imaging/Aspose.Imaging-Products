@@ -1,19 +1,19 @@
 ﻿---
-title: تحويل الصور إلى تنسيق صورة WEBP من التنسيقات الأخرى المدعومة باستخدام منصة .NET 
+title: تحويل الصور إلى تنسيق صورة WEBP(صورة الويب النقطية) من التنسيقات الأخرى المدعومة باستخدام منصة .NET 
 weight: 3920
 url: /ar/net/conversion/to/webp 
 lang: ar
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: باستخدام Aspose.Imaging لمكتبة .NET يسهل التحويل إلى WEBP من تنسيقات الصور الأخرى المدعومة
+description: باستخدام Aspose.Imaging لمكتبة .NET يسهل التحويل إلى WEBP(صورة الويب النقطية) من تنسيقات الصور الأخرى المدعومة
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل ملفات الصور إلى تنسيق صورة WEBP باستخدام منصة .NET" h2="تحويل إلى تنسيق WEBP من التنسيقات الأخرى باستخدام Aspose.Imaging لمكتبة .NET" downloadText="تحميل" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل ملفات الصور إلى تنسيق صورة WEBP(صورة الويب النقطية) باستخدام منصة .NET" h2="تحويل إلى تنسيق صورة الويب النقطية من التنسيقات الأخرى باستخدام Aspose.Imaging لمكتبة .NET" downloadText="تحميل" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="جميع التحويلات المدعومة إلى تنسيق WEBP باستخدام Aspose.Imaging for .NET library" %}}
-باستخدام مكتبة Aspose.Imaging ، يمكنك تحويل العديد من تنسيقات الصور إلى صورة WEBP برمجيًا.
+{{% blocks/products/pf/feature-page-section  h2="جميع التحويلات المدعومة إلى تنسيق WEBP(صورة الويب النقطية) باستخدام Aspose.Imaging for .NET library" %}}
+<p align=justify>باستخدام مكتبة Aspose.Imaging ، يمكنك تحويل العديد من تنسيقات الصور إلى صورة WEBP برمجيًا. WebP ، الذي قدمته Google ، هو تنسيق حديث لملف صور الويب النقطية يعتمد على ضغط بدون فقد وفقدان. إنه يوفر نفس جودة الصورة مع تقليل حجم الصورة بشكل كبير. نظرًا لأن معظم صفحات الويب تستخدم الصور كتمثيل فعال للبيانات ، فإن استخدام صور WebP في صفحات الويب ينتج عنه تحميل أسرع لصفحات الويب. وفقًا لـ Google ، تكون صور WebP غير المفقودة أصغر حجمًا بنسبة 26٪ مقارنة بصور PNG ، في حين أن صور WebP المفقودة أصغر بنسبة 25-34٪ من صور JPEG المماثلة. تتم مقارنة الصور بناءً على فهرس التشابه الهيكلي (SSIM) بين WebP وتنسيقات ملفات الصور الأخرى. يعد WebP مشروعًا شقيقًا لتنسيق حاوية الوسائط المتعددة WebM.</p>
 <br/>
 يتم دعم التحويلات التالية:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,19 +1,19 @@
 ﻿---
-title: Converti immagini in formato immagine TIFF da altri formati supportati utilizzando la piattaforma .NET 
+title: Converti immagini in formato immagine TIFF(Formato immagine contrassegnato) da altri formati supportati utilizzando la piattaforma .NET 
 weight: 3920
 url: /it/net/conversion/to/tiff 
 lang: it
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Utilizzando Aspose.Imaging per la libreria .NET è facile convertire in TIFF da altri formati di immagine supportati
+description: Utilizzando Aspose.Imaging per la libreria .NET è facile convertire in TIFF(Formato immagine contrassegnato) da altri formati di immagine supportati
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converti file immagine in formato immagine TIFF utilizzando la piattaforma .NET" h2="Converti in formato TIFF da altri formati utilizzando Aspose.Imaging per la libreria .NET" downloadText="Scarica" >}}
+{{< blocks/products/pf/feature-page-header h1="Converti file immagine in formato immagine TIFF(Formato immagine contrassegnato) utilizzando la piattaforma .NET" h2="Converti in formato Formato immagine contrassegnato da altri formati utilizzando Aspose.Imaging per la libreria .NET" downloadText="Scarica" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tutte le conversioni supportate nel formato TIFF utilizzando Aspose.Imaging per la libreria .NET" %}}
-Utilizzando la libreria Aspose.Imaging è possibile convertire in modo programmatico vari formati di immagine in TIFF image.
+{{% blocks/products/pf/feature-page-section  h2="Tutte le conversioni supportate nel formato TIFF(Formato immagine contrassegnato) utilizzando Aspose.Imaging per la libreria .NET" %}}
+<p align=justify>Utilizzando la libreria Aspose.Imaging è possibile convertire in modo programmatico vari formati di immagine in TIFF image. TIFF o TIF, Tagged Image File Format, rappresenta immagini raster destinate all'uso su una varietà di dispositivi conformi a questo standard di formato file. È in grado di descrivere dati di immagini a due livelli, in scala di grigi, a colori ea colori in diversi spazi colore. Supporta schemi di compressione lossy e lossless per scegliere tra spazio e tempo per le applicazioni che utilizzano il formato. Il formato è estensibile e ha subito diverse revisioni che consentono l'inclusione di una quantità illimitata di informazioni private o per scopi speciali. Il formato non dipende dalla macchina ed è libero da limiti come processore, sistema operativo o file system.</p>
 <br/>
 Sono supportate le seguenti conversioni:
 {{% /blocks/products/pf/feature-page-section %}}

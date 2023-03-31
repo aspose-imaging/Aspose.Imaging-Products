@@ -1,19 +1,19 @@
 ﻿---
-title: Converta imagens para o formato de imagem APNG de outros formatos suportados usando a plataforma .NET 
+title: Converta imagens para o formato de imagem APNG(Gráficos de rede portátil animados) de outros formatos suportados usando a plataforma .NET 
 weight: 3920
 url: /pt/net/conversion/to/apng 
 lang: pt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando a biblioteca Aspose.Imaging para .NET, é fácil converter para APNG de outros formatos de imagem suportados
+description: Usando a biblioteca Aspose.Imaging para .NET, é fácil converter para APNG(Gráficos de rede portátil animados) de outros formatos de imagem suportados
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converta arquivos de imagem para o formato de imagem APNG usando a plataforma .NET" h2="Converta para o formato APNG de outros formatos usando a biblioteca Aspose.Imaging for .NET" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Converta arquivos de imagem para o formato de imagem APNG(Gráficos de rede portátil animados) usando a plataforma .NET" h2="Converta para o formato Gráficos de rede portátil animados de outros formatos usando a biblioteca Aspose.Imaging for .NET" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todas as conversões suportadas para o formato APNG usando a biblioteca Aspose.Imaging for .NET" %}}
-Usando a biblioteca Aspose.Imaging, você pode converter programaticamente vários formatos de imagem em imagem APNG.
+{{% blocks/products/pf/feature-page-section  h2="Todas as conversões suportadas para o formato APNG(Gráficos de rede portátil animados) usando a biblioteca Aspose.Imaging for .NET" %}}
+<p align=justify>Usando a biblioteca Aspose.Imaging, você pode converter programaticamente vários formatos de imagem em imagem APNG. Um arquivo com extensão .apng (Animated Portable Network Graphics) é um formato gráfico raster e é uma extensão não oficial do Portable Network Graphic (PNG ). É composto por vários quadros (cada um de imagem PNG) que representa uma sequência de animação. Isso fornece uma visualização semelhante a um arquivo GIF. Os arquivos APNG suportam imagens de 24 bits e transparência de 8 bits. APNG é compatível com arquivos GIF não animados. Os arquivos APNG usam a mesma extensão .png e podem ser abertos por aplicativos como Mozilla Firefox, Chrome com suporte a APNG, aplicativos iMessage para iOS 10.</p>
 <br/>
 As seguintes conversões são suportadas:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,20 +1,20 @@
 ﻿---
-title: 使用 Aspose.Imaging for Java 從 EPS 轉換為其他支持的格式 
+title: 使用 Aspose.Imaging for Java API 從 EPS(封裝的 PostScript 語言) 轉換為其他支持的格式 
 weight: 3920
 url: /zh-hant/java/conversion/from/eps 
 lang: zh-hant
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging 可以使用 Java 平台輕鬆地將 EPS 轉換為其他格式
+description: Aspose.Imaging 可以使用 Java 平台輕鬆地將 EPS(封裝的 PostScript 語言) 轉換為其他格式
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="使用 Aspose.Imaging for Java 從 EPS 格式轉換圖像" h2="使用 Java 平台將 EPS 圖像格式轉換為其他格式" downloadText="下載" >}}
+{{< blocks/products/pf/feature-page-header h1="使用 Aspose.Imaging for Java 從 EPS 格式轉換圖像" h2="使用 Java 平台將 EPS(封裝的 PostScript 語言) 圖像格式轉換為其他格式" downloadText="下載" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="可以使用 Aspose.Imaging for Java 從 EPS 圖像轉換的各種圖像格式" %}}
-您可以使用編程方式將 EPS 格式轉換為其他可用格式
-用於 Java 的 Aspose.Imaging。
+{{% blocks/products/pf/feature-page-section  h2="可以使用 Aspose.Imaging for Java 從 EPS(封裝的 PostScript 語言) 圖像轉換的各種圖像格式" %}}
+<p align=justify>您可以使用編程方式將 EPS 格式轉換為其他可用格式
+用於 Java 的 Aspose.Imaging。 帶有 EPS 擴展名的文件本質上描述了一個封裝的 PostScript 語言程序，該程序描述了單個頁面的外觀。名稱“封裝”是因為它可以包含或封裝在另一種 PostScript 語言頁面描述中。這種基於腳本的文件格式可能包含文本、圖形和圖像的任意組合。 EPS 文件可能包含封裝在內部的位圖預覽圖像，以供可以打開此類文件的應用程序顯示。可以使用不同的應用程序將 EPS 文件轉換為標準圖像格式，例如 JPG、PNG、TIFF 和 PDF。 Adobe Illustrator、Photoshop 和 PaintShop Pro。由於 EPS 文件中存在安全漏洞，Office 2016、Office 2013、Office 2010 和 Office 365 已關閉將 EPS 文件插入 Office 文檔的功能。</p>
 <br/>
 船上有以下轉換：
 {{% /blocks/products/pf/feature-page-section %}}

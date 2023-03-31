@@ -1,20 +1,20 @@
 ﻿---
-title: Převeďte z DJVU do jiných podporovaných formátů pomocí Aspose.Imaging for Java 
+title: Převeďte z DJVU(Grafický formát) do jiných podporovaných formátů pomocí Aspose.Imaging for Java API 
 weight: 3920
 url: /cs/java/conversion/from/djvu 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging lze snadno převést z formátu DJVU do jiných formátů pomocí platformy Java
+description: Aspose.Imaging lze snadno převést z formátu DJVU(Grafický formát) do jiných formátů pomocí platformy Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převeďte obrázky z formátu DJVU pomocí Aspose.Imaging for Java" h2="Převeďte z formátu obrázku DJVU do jiných formátů pomocí platformy Java" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Převeďte obrázky z formátu DJVU pomocí Aspose.Imaging for Java" h2="Převeďte z formátu obrázku DJVU(Grafický formát) do jiných formátů pomocí platformy Java" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Široké spektrum obrazových formátů, které lze převést z obrázků DJVU pomocí Aspose.Imaging for Java" %}}
-Můžete programově převádět z formátu DJVU do jiných dostupných formátů pomocí
-Aspose.Imaging pro Javu.
+{{% blocks/products/pf/feature-page-section  h2="Široké spektrum obrazových formátů, které lze převést z obrázků DJVU(Grafický formát) pomocí Aspose.Imaging for Java" %}}
+<p align=justify>Můžete programově převádět z formátu DJVU do jiných dostupných formátů pomocí
+Aspose.Imaging pro Javu. DjVu, vyslovováno jako DJVU, je formát grafického souboru určený pro naskenované dokumenty a knihy, zejména ty, které obsahují kombinaci textu, kreseb, obrázků a fotografií. Byl vyvinut společností AT&T Labs. Využívá různé techniky, jako je separace obrazových vrstev textu a obrázků na pozadí, progresivní načítání, aritmetické kódování a ztrátová komprese pro bitonální obrázky. Protože soubor DJVU může obsahovat komprimované, ale vysoce kvalitní barevné obrázky, fotografie, text a kresby a lze jej uložit na méně místa, používá se na webu jako e-knihy, manuály, noviny, staré dokumenty atd.</p>
 <br/>
 Na palubě jsou následující konverze:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,20 +1,20 @@
 ﻿---
-title: जावा के लिए Aspose.Imaging का उपयोग करके EMZ से अन्य समर्थित स्वरूपों में कनवर्ट करें 
+title: जावा के लिए Aspose.Imaging API का उपयोग करके EMZ(विंडोज कम्प्रेस्ड एन्हांस्ड मेटाफाइल) से अन्य समर्थित स्वरूपों में कनवर्ट करें 
 weight: 3920
 url: /hi/java/conversion/from/emz 
 lang: hi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Image आसानी से जावा प्लेटफॉर्म का उपयोग करके EMZ से अन्य प्रारूपों में परिवर्तित हो सकता है
+description: Aspose.Image आसानी से जावा प्लेटफॉर्म का उपयोग करके EMZ(विंडोज कम्प्रेस्ड एन्हांस्ड मेटाफाइल) से अन्य प्रारूपों में परिवर्तित हो सकता है
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="जावा के लिए Aspose.Imaging का उपयोग करके छवियों को EMZ प्रारूप से रूपांतरित करें" h2="जावा प्लेटफॉर्म का उपयोग करके EMZ छवि प्रारूप से अन्य प्रारूपों में कनवर्ट करें" downloadText="डाउनलोड" >}}
+{{< blocks/products/pf/feature-page-header h1="जावा के लिए Aspose.Imaging का उपयोग करके छवियों को EMZ प्रारूप से रूपांतरित करें" h2="जावा प्लेटफॉर्म का उपयोग करके EMZ(विंडोज कम्प्रेस्ड एन्हांस्ड मेटाफाइल) छवि प्रारूप से अन्य प्रारूपों में कनवर्ट करें" downloadText="डाउनलोड" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="जावा के लिए Aspose.Imaging का उपयोग करके छवि प्रारूपों का व्यापक स्पेक्ट्रम जिसे EMZ छवियों से परिवर्तित किया जा सकता है" %}}
-आप प्रोग्रामैटिक रूप से EMZ प्रारूप का उपयोग करके अन्य उपलब्ध प्रारूपों में परिवर्तित कर सकते हैं
-जावा के लिए Aspose.Imaging।
+{{% blocks/products/pf/feature-page-section  h2="जावा के लिए Aspose.Imaging का उपयोग करके छवि प्रारूपों का व्यापक स्पेक्ट्रम जिसे EMZ(विंडोज कम्प्रेस्ड एन्हांस्ड मेटाफाइल) छवियों से परिवर्तित किया जा सकता है" %}}
+<p align=justify>आप प्रोग्रामैटिक रूप से EMZ प्रारूप का उपयोग करके अन्य उपलब्ध प्रारूपों में परिवर्तित कर सकते हैं
+जावा के लिए Aspose.Imaging। EMZ फ़ाइल एक्सटेंशन वाली फ़ाइल एक संपीड़ित छवि फ़ाइल है, जिसे विशेष रूप से Windows संपीड़ित एन्हांस्ड मेटाफ़ाइल फ़ाइल के रूप में संदर्भित किया जाता है</p>
 <br/>
 बोर्ड पर निम्नलिखित रूपांतरण हैं:
 {{% /blocks/products/pf/feature-page-section %}}

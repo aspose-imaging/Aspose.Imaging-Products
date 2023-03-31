@@ -1,19 +1,19 @@
 ﻿---
-title: แปลงรูปภาพเป็นรูปแบบ EMZ จากรูปแบบอื่นที่รองรับโดยใช้แพลตฟอร์ม .NET 
+title: แปลงรูปภาพเป็นรูปแบบ EMZ(Windows บีบอัด Metafile ที่ปรับปรุงแล้ว) จากรูปแบบอื่นที่รองรับโดยใช้แพลตฟอร์ม .NET 
 weight: 3920
 url: /th/net/conversion/to/emz 
 lang: th
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: การใช้ Aspose.Imaging สำหรับไลบรารี .NET ทำให้ง่ายต่อการแปลงเป็น EMZ จากรูปแบบรูปภาพอื่นๆ ที่รองรับ
+description: การใช้ Aspose.Imaging สำหรับไลบรารี .NET ทำให้ง่ายต่อการแปลงเป็น EMZ(Windows บีบอัด Metafile ที่ปรับปรุงแล้ว) จากรูปแบบรูปภาพอื่นๆ ที่รองรับ
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="แปลงไฟล์รูปภาพเป็นรูปแบบรูปภาพ EMZ โดยใช้แพลตฟอร์ม .NET" h2="แปลงเป็นรูปแบบ EMZ จากรูปแบบอื่นโดยใช้ Aspose.Imaging สำหรับไลบรารี .NET" downloadText="ดาวน์โหลด" >}}
+{{< blocks/products/pf/feature-page-header h1="แปลงไฟล์รูปภาพเป็นรูปแบบรูปภาพ EMZ(Windows บีบอัด Metafile ที่ปรับปรุงแล้ว) โดยใช้แพลตฟอร์ม .NET" h2="แปลงเป็นรูปแบบ Windows บีบอัด Metafile ที่ปรับปรุงแล้ว จากรูปแบบอื่นโดยใช้ Aspose.Imaging สำหรับไลบรารี .NET" downloadText="ดาวน์โหลด" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="การแปลงที่รองรับทั้งหมดเป็นรูปแบบ EMZ โดยใช้ Aspose.Imaging สำหรับไลบรารี .NET" %}}
-การใช้ไลบรารี Aspose.Imaging คุณสามารถแปลงรูปแบบรูปภาพต่างๆ เป็นรูปภาพ EMZ โดยทางโปรแกรม
+{{% blocks/products/pf/feature-page-section  h2="การแปลงที่รองรับทั้งหมดเป็นรูปแบบ EMZ(Windows บีบอัด Metafile ที่ปรับปรุงแล้ว) โดยใช้ Aspose.Imaging สำหรับไลบรารี .NET" %}}
+<p align=justify>การใช้ไลบรารี Aspose.Imaging คุณสามารถแปลงรูปแบบรูปภาพต่างๆ เป็นรูปภาพ EMZ โดยทางโปรแกรม ไฟล์ที่มีนามสกุลไฟล์ EMZ คือไฟล์รูปภาพที่ถูกบีบอัด ซึ่งเรียกเจาะจงกว่านั้นว่าไฟล์ Windows Compressed Enhanced Metafile</p>
 <br/>
 รองรับการแปลงต่อไปนี้:
 {{% /blocks/products/pf/feature-page-section %}}

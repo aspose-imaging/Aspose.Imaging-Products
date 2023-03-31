@@ -1,20 +1,20 @@
 ﻿---
-title: قم بالتحويل من JPEG إلى التنسيقات الأخرى المدعومة باستخدام Aspose.Imaging for Java 
+title: قم بالتحويل من JPEG(مجموعة خبراء التصوير المشتركة) إلى التنسيقات الأخرى المدعومة باستخدام Aspose.Imaging for Java API 
 weight: 3920
 url: /ar/java/conversion/from/jpeg 
 lang: ar
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging يمكن تحويله بسهولة من JPEG إلى تنسيقات أخرى باستخدام Java platform
+description: Aspose.Imaging يمكن تحويله بسهولة من JPEG(مجموعة خبراء التصوير المشتركة) إلى تنسيقات أخرى باستخدام Java platform
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل الصور من تنسيق JPEG باستخدام Aspose.Imaging for Java" h2="تحويل من تنسيق صورة JPEG إلى تنسيقات أخرى باستخدام نظام Java الأساسي" downloadText="تحميل" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل الصور من تنسيق JPEG باستخدام Aspose.Imaging for Java" h2="تحويل من تنسيق صورة JPEG(مجموعة خبراء التصوير المشتركة) إلى تنسيقات أخرى باستخدام نظام Java الأساسي" downloadText="تحميل" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="مجموعة واسعة من تنسيقات الصور التي يمكن تحويلها من صور JPEG باستخدام Aspose.Imaging for Java" %}}
-يمكنك تحويل برمجيًا من تنسيق JPEG إلى تنسيقات أخرى متاحة باستخدام
-Aspose.Imaging لجافا.
+{{% blocks/products/pf/feature-page-section  h2="مجموعة واسعة من تنسيقات الصور التي يمكن تحويلها من صور JPEG(مجموعة خبراء التصوير المشتركة) باستخدام Aspose.Imaging for Java" %}}
+<p align=justify>يمكنك تحويل برمجيًا من تنسيق JPEG إلى تنسيقات أخرى متاحة باستخدام
+Aspose.Imaging لجافا. JPEG هو نوع من تنسيق الصور يتم حفظه باستخدام طريقة الضغط مع فقدان البيانات. الصورة الناتجة ، كنتيجة للضغط ، هي مقايضة بين حجم التخزين وجودة الصورة. يمكن للمستخدمين ضبط مستوى الضغط لتحقيق مستوى الجودة المطلوب مع تقليل حجم التخزين في نفس الوقت. تتأثر جودة الصورة بشكل ضئيل إذا تم تطبيق ضغط بنسبة 10: 1 على الصورة. كلما زادت قيمة الضغط ، زاد تدهور جودة الصورة.</p>
 <br/>
 هناك التحويلات التالية على متن الطائرة:
 {{% /blocks/products/pf/feature-page-section %}}

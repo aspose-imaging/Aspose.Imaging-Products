@@ -1,20 +1,20 @@
 ﻿---
-title: قم بالتحويل من TGA إلى التنسيقات الأخرى المدعومة باستخدام Aspose.Imaging for Java 
+title: قم بالتحويل من TGA(تارجا جرافيك) إلى التنسيقات الأخرى المدعومة باستخدام Aspose.Imaging for Java API 
 weight: 3920
 url: /ar/java/conversion/from/tga 
 lang: ar
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging يمكن تحويله بسهولة من TGA إلى تنسيقات أخرى باستخدام Java platform
+description: Aspose.Imaging يمكن تحويله بسهولة من TGA(تارجا جرافيك) إلى تنسيقات أخرى باستخدام Java platform
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل الصور من تنسيق TGA باستخدام Aspose.Imaging for Java" h2="تحويل من تنسيق صورة TGA إلى تنسيقات أخرى باستخدام نظام Java الأساسي" downloadText="تحميل" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل الصور من تنسيق TGA باستخدام Aspose.Imaging for Java" h2="تحويل من تنسيق صورة TGA(تارجا جرافيك) إلى تنسيقات أخرى باستخدام نظام Java الأساسي" downloadText="تحميل" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="مجموعة واسعة من تنسيقات الصور التي يمكن تحويلها من صور TGA باستخدام Aspose.Imaging for Java" %}}
-يمكنك تحويل برمجيًا من تنسيق TGA إلى تنسيقات أخرى متاحة باستخدام
-Aspose.Imaging لجافا.
+{{% blocks/products/pf/feature-page-section  h2="مجموعة واسعة من تنسيقات الصور التي يمكن تحويلها من صور TGA(تارجا جرافيك) باستخدام Aspose.Imaging for Java" %}}
+<p align=justify>يمكنك تحويل برمجيًا من تنسيق TGA إلى تنسيقات أخرى متاحة باستخدام
+Aspose.Imaging لجافا. Truevision TGA ، الذي يشار إليه غالبًا باسم TARGA ، هو تنسيق ملف رسومات نقطية تم إنشاؤه بواسطة Truevision Inc. (الآن جزء من Avid Technology). كان هذا هو التنسيق الأصلي للوحات TARGA و VISTA ، والتي كانت أول بطاقات رسومية لأجهزة الكمبيوتر المتوافقة مع IBM لدعم عرض Highcolor / truecolor.</p>
 <br/>
 هناك التحويلات التالية على متن الطائرة:
 {{% /blocks/products/pf/feature-page-section %}}

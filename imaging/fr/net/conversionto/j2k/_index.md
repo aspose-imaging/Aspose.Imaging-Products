@@ -1,19 +1,19 @@
 ﻿---
-title: Convertir des images au format d'image J2K à partir d'autres formats pris en charge à l'aide de la plate-forme .NET 
+title: Convertir des images au format d'image J2K(Image compressée en ondelettes) à partir d'autres formats pris en charge à l'aide de la plate-forme .NET 
 weight: 3920
 url: /fr/net/conversion/to/j2k 
 lang: fr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: En utilisant Aspose.Imaging pour la bibliothèque .NET, il est facile de convertir en J2K à partir d'autres formats d'image pris en charge
+description: En utilisant Aspose.Imaging pour la bibliothèque .NET, il est facile de convertir en J2K(Image compressée en ondelettes) à partir d'autres formats d'image pris en charge
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convertir les fichiers image au format d'image J2K à l'aide de la plate-forme .NET" h2="Convertir au format J2K à partir d'autres formats à l'aide de la bibliothèque Aspose.Imaging pour .NET" downloadText="Télécharger" >}}
+{{< blocks/products/pf/feature-page-header h1="Convertir les fichiers image au format d'image J2K(Image compressée en ondelettes) à l'aide de la plate-forme .NET" h2="Convertir au format Image compressée en ondelettes à partir d'autres formats à l'aide de la bibliothèque Aspose.Imaging pour .NET" downloadText="Télécharger" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Toutes les conversions prises en charge au format J2K à l'aide de la bibliothèque Aspose.Imaging pour .NET" %}}
-À l'aide de la bibliothèque Aspose.Imaging, vous pouvez convertir par programmation divers formats d'image en image J2K.
+{{% blocks/products/pf/feature-page-section  h2="Toutes les conversions prises en charge au format J2K(Image compressée en ondelettes) à l'aide de la bibliothèque Aspose.Imaging pour .NET" %}}
+<p align=justify>À l'aide de la bibliothèque Aspose.Imaging, vous pouvez convertir par programmation divers formats d'image en image J2K. Un fichier J2K est une image compressée à l'aide de la compression par ondelettes au lieu de la compression DCT. </p>
 <br/>
 Les conversions suivantes sont prises en charge :
 {{% /blocks/products/pf/feature-page-section %}}

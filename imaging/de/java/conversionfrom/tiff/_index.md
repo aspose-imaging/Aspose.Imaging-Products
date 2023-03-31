@@ -1,20 +1,20 @@
 ﻿---
-title: Konvertieren Sie mit Aspose.Imaging für Java von TIFF in andere unterstützte Formate 
+title: Konvertieren Sie mit Aspose.Imaging für Java von TIFF(Markiertes Bildformat) in andere unterstützte Formate API 
 weight: 3920
 url: /de/java/conversion/from/tiff 
 lang: de
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging kann mithilfe der Java-Plattform problemlos von TIFF in andere Formate konvertieren
+description: Aspose.Imaging kann mithilfe der Java-Plattform problemlos von TIFF(Markiertes Bildformat) in andere Formate konvertieren
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie Bilder aus dem TIFF-Format mit Aspose.Imaging für Java" h2="Konvertieren Sie das Bildformat TIFF mithilfe der Java-Plattform in andere Formate" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie Bilder aus dem TIFF-Format mit Aspose.Imaging für Java" h2="Konvertieren Sie das Bildformat TIFF(Markiertes Bildformat) mithilfe der Java-Plattform in andere Formate" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Breites Spektrum an Bildformaten, die mit Aspose.Imaging für Java aus TIFF-Bildern konvertiert werden können" %}}
-Sie können das TIFF-Format programmgesteuert in andere verfügbare Formate konvertieren, indem Sie verwenden
-Aspose.Imaging für Java.
+{{% blocks/products/pf/feature-page-section  h2="Breites Spektrum an Bildformaten, die mit Aspose.Imaging für Java aus TIFF(Markiertes Bildformat)-Bildern konvertiert werden können" %}}
+<p align=justify>Sie können das TIFF-Format programmgesteuert in andere verfügbare Formate konvertieren, indem Sie verwenden
+Aspose.Imaging für Java. TIFF oder TIF, Tagged Image File Format, stellt Rasterbilder dar, die für die Verwendung auf einer Vielzahl von Geräten gedacht sind, die diesem Dateiformatstandard entsprechen. Es ist in der Lage, Bilevel-, Graustufen-, Palettenfarben- und Vollfarben-Bilddaten in mehreren Farbräumen zu beschreiben. Es unterstützt sowohl verlustbehaftete als auch verlustfreie Komprimierungsschemata, um zwischen Speicherplatz und Zeit für Anwendungen zu wählen, die das Format verwenden. Das Format ist erweiterbar und wurde mehrfach überarbeitet, was die Aufnahme einer unbegrenzten Menge an privaten oder speziellen Informationen ermöglicht. Das Format ist nicht maschinenabhängig und frei von Grenzen wie Prozessor, Betriebssystem oder Dateisystem.</p>
 <br/>
 Folgende Umbauten sind an Bord:
 {{% /blocks/products/pf/feature-page-section %}}

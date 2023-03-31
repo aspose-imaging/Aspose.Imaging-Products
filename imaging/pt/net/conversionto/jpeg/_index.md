@@ -1,19 +1,19 @@
 ﻿---
-title: Converta imagens para o formato de imagem JPEG de outros formatos suportados usando a plataforma .NET 
+title: Converta imagens para o formato de imagem JPEG(Grupo Conjunto de Especialistas em Fotografia) de outros formatos suportados usando a plataforma .NET 
 weight: 3920
 url: /pt/net/conversion/to/jpeg 
 lang: pt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando a biblioteca Aspose.Imaging para .NET, é fácil converter para JPEG de outros formatos de imagem suportados
+description: Usando a biblioteca Aspose.Imaging para .NET, é fácil converter para JPEG(Grupo Conjunto de Especialistas em Fotografia) de outros formatos de imagem suportados
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converta arquivos de imagem para o formato de imagem JPEG usando a plataforma .NET" h2="Converta para o formato JPEG de outros formatos usando a biblioteca Aspose.Imaging for .NET" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Converta arquivos de imagem para o formato de imagem JPEG(Grupo Conjunto de Especialistas em Fotografia) usando a plataforma .NET" h2="Converta para o formato Grupo Conjunto de Especialistas em Fotografia de outros formatos usando a biblioteca Aspose.Imaging for .NET" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todas as conversões suportadas para o formato JPEG usando a biblioteca Aspose.Imaging for .NET" %}}
-Usando a biblioteca Aspose.Imaging, você pode converter programaticamente vários formatos de imagem em imagem JPEG.
+{{% blocks/products/pf/feature-page-section  h2="Todas as conversões suportadas para o formato JPEG(Grupo Conjunto de Especialistas em Fotografia) usando a biblioteca Aspose.Imaging for .NET" %}}
+<p align=justify>Usando a biblioteca Aspose.Imaging, você pode converter programaticamente vários formatos de imagem em imagem JPEG. Um JPEG é um tipo de formato de imagem que é salvo usando o método de compactação com perdas. A imagem de saída, como resultado da compactação, é uma compensação entre o tamanho do armazenamento e a qualidade da imagem. Os usuários podem ajustar o nível de compactação para atingir o nível de qualidade desejado e, ao mesmo tempo, reduzir o tamanho do armazenamento. A qualidade da imagem é afetada de forma insignificante se a compressão 10:1 for aplicada à imagem. Quanto maior o valor de compactação, maior a degradação na qualidade da imagem.</p>
 <br/>
 As seguintes conversões são suportadas:
 {{% /blocks/products/pf/feature-page-section %}}

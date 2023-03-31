@@ -1,20 +1,20 @@
 ﻿---
-title: Konwertuj z TIFF na inne obsługiwane formaty za pomocą Aspose.Imaging for Java 
+title: Konwertuj z TIFF(Oznaczony format obrazu) na inne obsługiwane formaty za pomocą Aspose.Imaging for Java API 
 weight: 3920
 url: /pl/java/conversion/from/tiff 
 lang: pl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging może łatwo konwertować z formatu TIFF na inne formaty przy użyciu platformy Java
+description: Aspose.Imaging może łatwo konwertować z formatu TIFF(Oznaczony format obrazu) na inne formaty przy użyciu platformy Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwertuj obrazy z formatu TIFF za pomocą Aspose.Imaging for Java" h2="Konwertuj z formatu obrazu TIFF na inne formaty za pomocą platformy Java" downloadText="Ściągnij" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj obrazy z formatu TIFF za pomocą Aspose.Imaging for Java" h2="Konwertuj z formatu obrazu TIFF(Oznaczony format obrazu) na inne formaty za pomocą platformy Java" downloadText="Ściągnij" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Szerokie spektrum formatów obrazów, które można konwertować z obrazów TIFF przy użyciu Aspose.Imaging for Java" %}}
-Możesz programowo przekonwertować z formatu TIFF na inne dostępne formaty za pomocą
-Aspose.Imaging dla Javy.
+{{% blocks/products/pf/feature-page-section  h2="Szerokie spektrum formatów obrazów, które można konwertować z obrazów TIFF(Oznaczony format obrazu) przy użyciu Aspose.Imaging for Java" %}}
+<p align=justify>Możesz programowo przekonwertować z formatu TIFF na inne dostępne formaty za pomocą
+Aspose.Imaging dla Javy. TIFF lub TIF, Tagged Image File Format, reprezentuje obrazy rastrowe przeznaczone do użytku na różnych urządzeniach zgodnych z tym standardem formatu plików. Jest w stanie opisać dane obrazu dwupoziomowego, w skali szarości, w palecie kolorów i w pełnym kolorze w kilku przestrzeniach kolorów. Obsługuje stratne i bezstratne schematy kompresji, aby wybrać między przestrzenią a czasem dla aplikacji korzystających z formatu. Format jest rozszerzalny i przeszedł kilka zmian, które umożliwiają włączenie nieograniczonej ilości informacji prywatnych lub informacji specjalnego przeznaczenia. Format nie jest zależny od komputera i nie zawiera ograniczeń, takich jak procesor, system operacyjny lub systemy plików.</p>
 <br/>
 Na pokładzie znajdują się następujące konwersje:
 {{% /blocks/products/pf/feature-page-section %}}

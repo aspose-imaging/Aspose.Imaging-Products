@@ -1,20 +1,20 @@
 ﻿---
-title: Konwertuj z PNG na inne obsługiwane formaty za pomocą Aspose.Imaging for Java 
+title: Konwertuj z PNG(Przenośna Grafika Sieciowa) na inne obsługiwane formaty za pomocą Aspose.Imaging for Java API 
 weight: 3920
 url: /pl/java/conversion/from/png 
 lang: pl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging może łatwo konwertować z formatu PNG na inne formaty przy użyciu platformy Java
+description: Aspose.Imaging może łatwo konwertować z formatu PNG(Przenośna Grafika Sieciowa) na inne formaty przy użyciu platformy Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwertuj obrazy z formatu PNG za pomocą Aspose.Imaging for Java" h2="Konwertuj z formatu obrazu PNG na inne formaty za pomocą platformy Java" downloadText="Ściągnij" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj obrazy z formatu PNG za pomocą Aspose.Imaging for Java" h2="Konwertuj z formatu obrazu PNG(Przenośna Grafika Sieciowa) na inne formaty za pomocą platformy Java" downloadText="Ściągnij" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Szerokie spektrum formatów obrazów, które można konwertować z obrazów PNG przy użyciu Aspose.Imaging for Java" %}}
-Możesz programowo przekonwertować z formatu PNG na inne dostępne formaty za pomocą
-Aspose.Imaging dla Javy.
+{{% blocks/products/pf/feature-page-section  h2="Szerokie spektrum formatów obrazów, które można konwertować z obrazów PNG(Przenośna Grafika Sieciowa) przy użyciu Aspose.Imaging for Java" %}}
+<p align=justify>Możesz programowo przekonwertować z formatu PNG na inne dostępne formaty za pomocą
+Aspose.Imaging dla Javy. PNG, Portable Network Graphics, odnosi się do formatu pliku obrazu rastrowego, który wykorzystuje kompresję bezstratną. Ten format pliku został utworzony jako zamiennik formatu Graphics Interchange Format (GIF) i nie ma ograniczeń dotyczących praw autorskich. Jednak format pliku PNG nie obsługuje animacji. Format plików PNG obsługuje bezstratną kompresję obrazu, dzięki czemu jest popularny wśród użytkowników. Z biegiem czasu PNG stał się jednym z najczęściej używanych formatów plików graficznych. Prawie wszystkie systemy operacyjne obsługują otwieranie plików PNG. Na przykład przeglądarka Microsoft Windows ma możliwość otwierania plików PNG, ponieważ system operacyjny domyślnie obsługuje wsparcie dostępne w ramach instalacji.</p>
 <br/>
 Na pokładzie znajdują się następujące konwersje:
 {{% /blocks/products/pf/feature-page-section %}}

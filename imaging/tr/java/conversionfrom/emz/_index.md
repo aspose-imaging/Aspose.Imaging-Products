@@ -1,20 +1,20 @@
 ﻿---
-title: Aspose.Imaging for Java kullanarak EMZ formatını desteklenen diğer formatlara dönüştürün 
+title: Aspose.Imaging for Java API kullanarak EMZ(Windows Sıkıştırılmış Gelişmiş Meta Dosyası) formatını desteklenen diğer formatlara dönüştürün 
 weight: 3920
 url: /tr/java/conversion/from/emz 
 lang: tr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging, Java platformunu kullanarak EMZ biçimini diğer biçimlere kolayca dönüştürebilir
+description: Aspose.Imaging, Java platformunu kullanarak EMZ(Windows Sıkıştırılmış Gelişmiş Meta Dosyası) biçimini diğer biçimlere kolayca dönüştürebilir
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java kullanarak görüntüleri EMZ formatından dönüştürün" h2="Java platformunu kullanarak EMZ görüntü biçiminden diğer biçimlere dönüştürme" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java kullanarak görüntüleri EMZ formatından dönüştürün" h2="Java platformunu kullanarak EMZ(Windows Sıkıştırılmış Gelişmiş Meta Dosyası) görüntü biçiminden diğer biçimlere dönüştürme" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java kullanılarak EMZ görüntülerden dönüştürülebilen geniş görüntü formatları yelpazesi" %}}
-kullanarak EMZ biçiminden diğer kullanılabilir biçimlere programlı olarak dönüştürebilirsiniz.
-Java için Aspose.Imaging.
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java kullanılarak EMZ(Windows Sıkıştırılmış Gelişmiş Meta Dosyası) görüntülerden dönüştürülebilen geniş görüntü formatları yelpazesi" %}}
+<p align=justify>kullanarak EMZ biçiminden diğer kullanılabilir biçimlere programlı olarak dönüştürebilirsiniz.
+Java için Aspose.Imaging. EMZ dosya uzantısına sahip bir dosya, daha özel olarak Windows Sıkıştırılmış Gelişmiş Meta Dosyası dosyası olarak adlandırılan sıkıştırılmış bir görüntü dosyasıdır.</p>
 <br/>
 Gemide aşağıdaki dönüşümler var:
 {{% /blocks/products/pf/feature-page-section %}}

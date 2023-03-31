@@ -13,7 +13,7 @@ description: За допомогою Aspose.Imaging ви можете конве
 
 
 {{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень, якi можливо конвертувати у PNG за допомогою Aspose.Imaging для Java" %}}
-Використовуючи бібліотеку Aspose.Imaging, ви можете програмно конвертувати в PNG інші підтримувані формати зображень за допомогою платформи Java.
+<p align=justify>Використовуючи бібліотеку Aspose.Imaging, ви можете програмно конвертувати в PNG інші підтримувані формати зображень за допомогою платформи Java.</p>
 <br/>
 Підтримувані перетворення:
 {{% /blocks/products/pf/feature-page-section %}}

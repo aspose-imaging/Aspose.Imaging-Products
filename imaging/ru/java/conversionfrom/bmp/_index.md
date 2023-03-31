@@ -1,20 +1,20 @@
 ﻿---
-title: Преобразование из BMP в другие поддерживаемые форматы с помощью Aspose.Imaging for Java 
+title: Преобразование из BMP(Растровое изображение) в другие поддерживаемые форматы с помощью Aspose.Imaging for Java API 
 weight: 3920
 url: /ru/java/conversion/from/bmp 
 lang: ru
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging может легко конвертировать из BMP в другие форматы с помощью платформы Java.
+description: Aspose.Imaging может легко конвертировать из BMP(Растровое изображение) в другие форматы с помощью платформы Java.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование изображений из формата BMP с помощью Aspose.Imaging for Java" h2="Преобразование из формата изображения BMP в другие форматы с использованием платформы Java" downloadText="Скачать" >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование изображений из формата BMP с помощью Aspose.Imaging for Java" h2="Преобразование из формата изображения BMP(Растровое изображение) в другие форматы с использованием платформы Java" downloadText="Скачать" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Спектр форматов изображений, которые можно преобразовать из изображений BMP с помощью Aspose.Imaging for Java." %}}
-Вы можете программно преобразовать формат BMP в другие доступные форматы, используя
-Aspose.Imaging for Java.
+{{% blocks/products/pf/feature-page-section  h2="Спектр форматов изображений, которые можно преобразовать из изображений BMP(Растровое изображение) с помощью Aspose.Imaging for Java." %}}
+<p align=justify>Вы можете программно преобразовать формат BMP в другие доступные форматы, используя
+Aspose.Imaging for Java. Файлы с расширением .BMP представляют файлы растровых изображений, которые используются для хранения растровых цифровых изображений. Эти изображения не зависят от графического адаптера и также называются форматом файла независимого от устройства растрового изображения (DIB). Эта независимость служит цели открытия файла на нескольких платформах, таких как Microsoft Windows и Mac. Формат файла BMP может хранить данные в виде двумерных цифровых изображений как в монохромном, так и в цветном формате с различной глубиной цвета.</p>
 <br/>
 Представлены следующие трансформации:
 {{% /blocks/products/pf/feature-page-section %}}

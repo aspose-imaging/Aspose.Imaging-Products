@@ -1,20 +1,20 @@
 ﻿---
-title: Converteer van CMX naar andere ondersteunde formaten met Aspose.Imaging voor Java 
+title: Converteer van CMX(Corel Exchange-afbeelding) naar andere ondersteunde formaten met Aspose.Imaging voor Java API 
 weight: 3920
 url: /nl/java/conversion/from/cmx 
 lang: nl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging kan eenvoudig converteren van CMX naar andere formaten met behulp van het Java-platform
+description: Aspose.Imaging kan eenvoudig converteren van CMX(Corel Exchange-afbeelding) naar andere formaten met behulp van het Java-platform
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer afbeeldingen van CMX-indeling met Aspose.Imaging voor Java" h2="Converteer van CMX afbeeldingsformaat naar andere formaten met behulp van het Java-platform" downloadText="Downloaden" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer afbeeldingen van CMX-indeling met Aspose.Imaging voor Java" h2="Converteer van CMX(Corel Exchange-afbeelding) afbeeldingsformaat naar andere formaten met behulp van het Java-platform" downloadText="Downloaden" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Breed spectrum aan afbeeldingsindelingen die kunnen worden geconverteerd van CMX-afbeeldingen met Aspose.Imaging voor Java" %}}
-U kunt programmatisch converteren van het CMX-formaat naar andere beschikbare formaten met behulp van
-Aspose.Imaging voor Java.
+{{% blocks/products/pf/feature-page-section  h2="Breed spectrum aan afbeeldingsindelingen die kunnen worden geconverteerd van CMX(Corel Exchange-afbeelding)-afbeeldingen met Aspose.Imaging voor Java" %}}
+<p align=justify>U kunt programmatisch converteren van het CMX-formaat naar andere beschikbare formaten met behulp van
+Aspose.Imaging voor Java. Bestanden met de CMX-extensie zijn Corel Exchange-beeldbestandsindeling die wordt gebruikt als presentatie door CorelSuite-toepassingen. Het bevat afbeeldingsgegevens als vectorafbeeldingen en metagegevens die de afbeelding beschrijven. CMX-bestanden kunnen worden geopend door CorelDraw, Corel Presentations, Paint Shop Pro en sommige versies van Adobe Illustrator.</p>
 <br/>
 Er zijn de volgende verbouwingen aan boord:
 {{% /blocks/products/pf/feature-page-section %}}

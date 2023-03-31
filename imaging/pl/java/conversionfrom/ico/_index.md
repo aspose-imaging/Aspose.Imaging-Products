@@ -1,20 +1,20 @@
 ﻿---
-title: Konwertuj z ICO na inne obsługiwane formaty za pomocą Aspose.Imaging for Java 
+title: Konwertuj z ICO(Ikona Windows) na inne obsługiwane formaty za pomocą Aspose.Imaging for Java API 
 weight: 3920
 url: /pl/java/conversion/from/ico 
 lang: pl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging może łatwo konwertować z formatu ICO na inne formaty przy użyciu platformy Java
+description: Aspose.Imaging może łatwo konwertować z formatu ICO(Ikona Windows) na inne formaty przy użyciu platformy Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwertuj obrazy z formatu ICO za pomocą Aspose.Imaging for Java" h2="Konwertuj z formatu obrazu ICO na inne formaty za pomocą platformy Java" downloadText="Ściągnij" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj obrazy z formatu ICO za pomocą Aspose.Imaging for Java" h2="Konwertuj z formatu obrazu ICO(Ikona Windows) na inne formaty za pomocą platformy Java" downloadText="Ściągnij" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Szerokie spektrum formatów obrazów, które można konwertować z obrazów ICO przy użyciu Aspose.Imaging for Java" %}}
-Możesz programowo przekonwertować z formatu ICO na inne dostępne formaty za pomocą
-Aspose.Imaging dla Javy.
+{{% blocks/products/pf/feature-page-section  h2="Szerokie spektrum formatów obrazów, które można konwertować z obrazów ICO(Ikona Windows) przy użyciu Aspose.Imaging for Java" %}}
+<p align=justify>Możesz programowo przekonwertować z formatu ICO na inne dostępne formaty za pomocą
+Aspose.Imaging dla Javy. Format pliku ICO to format pliku obrazu dla ikon komputera w systemie Microsoft Windows. Pliki ICO zawierają jeden lub więcej małych obrazów o różnych rozmiarach i głębi kolorów, dzięki czemu można je odpowiednio skalować. W systemie Windows wszystkie pliki wykonywalne, które wyświetlają użytkownikowi ikonę na pulpicie, w menu Start lub w Eksploratorze Windows, muszą zawierać ikonę w formacie ICO.</p>
 <br/>
 Na pokładzie znajdują się następujące konwersje:
 {{% /blocks/products/pf/feature-page-section %}}

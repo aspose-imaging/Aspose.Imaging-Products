@@ -1,21 +1,21 @@
 ﻿---
-title: .NET के माध्यम से BMP से अन्य प्रारूपों में कनवर्ट करें 
+title: .NET इमेज एपीआई के ज़रिए BMP(बिटमैप चित्र) से दूसरे फ़ॉर्मैट में बदलें 
 weight: 3920
 url: /hi/net/conversion/from/bmp 
 lang: hi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging का उपयोग करके आप आसानी से BMP से अन्य स्वरूपों में परिवर्तित कर सकते हैं
+description: Aspose.Imaging का उपयोग करके आप आसानी से BMP(बिटमैप चित्र) से अन्य स्वरूपों में परिवर्तित कर सकते हैं
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET के माध्यम से BMP से छवि फ़ाइलों का रूपांतरण" h2="BMP से दूसरे फ़ॉर्मैट में बदलें" downloadText="डाउनलोड" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET छवि API के माध्यम से BMP(बिटमैप चित्र) से छवि फ़ाइलें रूपांतरण" h2="Aspose.Imaging API का उपयोग करके बिटमैप चित्र से अन्य प्रारूपों में कनवर्ट करें" downloadText="डाउनलोड" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="BMP से कनवर्ट करने के लिए सभी समर्थित छवि प्रारूप" %}}
-Aspose.Image .NET प्लेटफॉर्म पर BMP से अन्य प्रारूपों में बहुत से रूपांतरणों को स्वचालित करने की अनुमति देता है।
+{{% blocks/products/pf/feature-page-section  h2="BMP(बिटमैप चित्र) से कनवर्ट करने के लिए सभी समर्थित छवि प्रारूप" %}}
+<p align=justify>Aspose.Image .NET प्लेटफॉर्म पर BMP से अन्य प्रारूपों में बहुत से रूपांतरणों को स्वचालित करने की अनुमति देता है। एक्सटेंशन वाली फ़ाइलें .BMP बिटमैप छवि फ़ाइलों का प्रतिनिधित्व करती हैं जिनका उपयोग बिटमैप डिजिटल छवियों को संग्रहीत करने के लिए किया जाता है। ये चित्र ग्राफिक्स एडेप्टर से स्वतंत्र हैं और इन्हें डिवाइस इंडिपेंडेंट बिटमैप (DIB) फ़ाइल स्वरूप भी कहा जाता है। यह स्वतंत्रता माइक्रोसॉफ्ट विंडोज और मैक जैसे कई प्लेटफार्मों पर फ़ाइल खोलने के उद्देश्य से कार्य करती है। बीएमपी फ़ाइल प्रारूप डेटा को दो-आयामी डिजिटल छवियों के रूप में मोनोक्रोम के साथ-साथ विभिन्न रंग गहराई के साथ रंग प्रारूप में संग्रहीत कर सकता है।</p>
 <br/>
-समर्थित रूपांतरणों की पूरी सूची:
+BMP से समर्थित रूपांतरणों की पूरी सूची:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -1,20 +1,20 @@
 ﻿---
-title: Converti da TGA in altri formati supportati utilizzando Aspose.Imaging per Java 
+title: Converti da TGA(Grafica Targa) in altri formati supportati utilizzando Aspose.Imaging per Java API 
 weight: 3920
 url: /it/java/conversion/from/tga 
 lang: it
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging può facilmente convertire da TGA ad altri formati utilizzando la piattaforma Java
+description: Aspose.Imaging può facilmente convertire da TGA(Grafica Targa) ad altri formati utilizzando la piattaforma Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converti immagini dal formato TGA utilizzando Aspose.Imaging per Java" h2="Converti dal formato immagine TGA in altri formati utilizzando la piattaforma Java" downloadText="Scarica" >}}
+{{< blocks/products/pf/feature-page-header h1="Converti immagini dal formato TGA utilizzando Aspose.Imaging per Java" h2="Converti dal formato immagine TGA(Grafica Targa) in altri formati utilizzando la piattaforma Java" downloadText="Scarica" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Ampio spettro di formati immagine che possono essere convertiti da immagini TGA utilizzando Aspose.Imaging per Java" %}}
-Puoi convertire in modo programmatico dal formato TGA in altri formati disponibili utilizzando
-Aspose.Imaging per Java.
+{{% blocks/products/pf/feature-page-section  h2="Ampio spettro di formati immagine che possono essere convertiti da immagini TGA(Grafica Targa) utilizzando Aspose.Imaging per Java" %}}
+<p align=justify>Puoi convertire in modo programmatico dal formato TGA in altri formati disponibili utilizzando
+Aspose.Imaging per Java. Truevision TGA, spesso indicato come TARGA, è un formato di file di grafica raster creato da Truevision Inc. (ora parte di Avid Technology). Era il formato nativo delle schede TARGA e VISTA, le prime schede grafiche per PC compatibili con IBM a supportare la visualizzazione Highcolor/truecolor.</p>
 <br/>
 Ci sono le seguenti conversioni a bordo:
 {{% /blocks/products/pf/feature-page-section %}}

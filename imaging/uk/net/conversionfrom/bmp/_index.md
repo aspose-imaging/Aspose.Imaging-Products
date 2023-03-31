@@ -1,21 +1,21 @@
 ﻿---
-title: Конвертувати з BMP в інші формати за допомогою .NET 
+title: Перетворення з BMP(Растрове зображення) в інші формати за допомогою API зображень .NET 
 weight: 3920
 url: /uk/net/conversion/from/bmp 
 lang: uk
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: За допомогою Aspose.Imaging ви можете легко конвертувати з BMP в інші формати
+description: За допомогою Aspose.Imaging ви можете легко конвертувати з BMP(Растрове зображення) в інші формати
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Перетворення файлів зображень з BMP за допомогою .NET" h2="Конвертувати з BMP в інші формати" downloadText="Завантажити" >}}
+{{< blocks/products/pf/feature-page-header h1="Перетворення файлів зображень із BMP(Растрове зображення) через API зображень .NET" h2="Перетворюйте з Растрове зображення в інші формати за допомогою API Aspose.Imaging" downloadText="Завантажити" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для конвертації з BMP" %}}
-Aspose.Imaging дозволяє автоматизувати багато перетворень із BMP в інші формати на платформі .NET.
+{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для конвертації з BMP(Растрове зображення)" %}}
+<p align=justify>Aspose.Imaging дозволяє автоматизувати багато перетворень із BMP в інші формати на платформі .NET. Файли з розширенням .BMP представляють файли Bitmap Image, які використовуються для зберігання растрових цифрових зображень. Ці зображення не залежать від графічного адаптера, а також називаються форматом файлу растрового зображення, незалежного від пристрою (DIB). Ця незалежність служить для відкриття файлу на кількох платформах, таких як Microsoft Windows і Mac. Формат файлу BMP може зберігати дані як двовимірні цифрові зображення як у монохромному, так і в кольоровому форматі з різною глибиною кольору.</p>
 <br/>
-Повний список підтримуваних конвертацій:
+Повний список підтримуваних конвертацій із BMP:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

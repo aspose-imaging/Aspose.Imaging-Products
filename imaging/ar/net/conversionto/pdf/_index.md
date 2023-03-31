@@ -1,19 +1,19 @@
 ﻿---
-title: تحويل الصور إلى تنسيق صورة PDF من التنسيقات الأخرى المدعومة باستخدام منصة .NET 
+title: تحويل الصور إلى تنسيق صورة PDF(تنسيق المستندات المحمولة (PDF)) من التنسيقات الأخرى المدعومة باستخدام منصة .NET 
 weight: 3920
 url: /ar/net/conversion/to/pdf 
 lang: ar
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: باستخدام Aspose.Imaging لمكتبة .NET يسهل التحويل إلى PDF من تنسيقات الصور الأخرى المدعومة
+description: باستخدام Aspose.Imaging لمكتبة .NET يسهل التحويل إلى PDF(تنسيق المستندات المحمولة (PDF)) من تنسيقات الصور الأخرى المدعومة
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل ملفات الصور إلى تنسيق صورة PDF باستخدام منصة .NET" h2="تحويل إلى تنسيق PDF من التنسيقات الأخرى باستخدام Aspose.Imaging لمكتبة .NET" downloadText="تحميل" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل ملفات الصور إلى تنسيق صورة PDF(تنسيق المستندات المحمولة (PDF)) باستخدام منصة .NET" h2="تحويل إلى تنسيق تنسيق المستندات المحمولة (PDF) من التنسيقات الأخرى باستخدام Aspose.Imaging لمكتبة .NET" downloadText="تحميل" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="جميع التحويلات المدعومة إلى تنسيق PDF باستخدام Aspose.Imaging for .NET library" %}}
-باستخدام مكتبة Aspose.Imaging ، يمكنك تحويل العديد من تنسيقات الصور إلى صورة PDF برمجيًا.
+{{% blocks/products/pf/feature-page-section  h2="جميع التحويلات المدعومة إلى تنسيق PDF(تنسيق المستندات المحمولة (PDF)) باستخدام Aspose.Imaging for .NET library" %}}
+<p align=justify>باستخدام مكتبة Aspose.Imaging ، يمكنك تحويل العديد من تنسيقات الصور إلى صورة PDF برمجيًا. تنسيق المستندات المحمولة (PDF) هو نوع من المستندات التي أنشأتها Adobe في التسعينيات. كان الغرض من تنسيق الملف هذا هو تقديم معيار لتمثيل المستندات والمواد المرجعية الأخرى بتنسيق مستقل عن برامج التطبيقات والأجهزة وكذلك نظام التشغيل. يتمتع تنسيق ملف PDF بالقدرة الكاملة على احتواء معلومات مثل النصوص والصور والارتباطات التشعبية وحقول النموذج والوسائط الغنية والتوقيعات الرقمية والمرفقات والبيانات الوصفية والميزات الجغرافية المكانية والكائنات ثلاثية الأبعاد الموجودة فيه والتي يمكن أن تصبح جزءًا من المستند المصدر.</p>
 <br/>
 يتم دعم التحويلات التالية:
 {{% /blocks/products/pf/feature-page-section %}}

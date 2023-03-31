@@ -1,20 +1,20 @@
 ﻿---
-title: Chuyển đổi từ WMZ sang các định dạng được hỗ trợ khác bằng Aspose.Imaging for Java 
+title: Chuyển đổi từ WMZ(Giao diện Windows Media Player được nén) sang các định dạng được hỗ trợ khác bằng Aspose.Imaging for Java API 
 weight: 3920
 url: /vi/java/conversion/from/wmz 
 lang: vi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging có thể dễ dàng chuyển đổi từ WMZ sang các định dạng khác bằng nền tảng Java
+description: Aspose.Imaging có thể dễ dàng chuyển đổi từ WMZ(Giao diện Windows Media Player được nén) sang các định dạng khác bằng nền tảng Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Chuyển đổi hình ảnh từ định dạng WMZ bằng Aspose.Imaging cho Java" h2="Chuyển đổi từ định dạng hình ảnh WMZ sang các định dạng khác bằng nền tảng Java" downloadText="Tải xuống" >}}
+{{< blocks/products/pf/feature-page-header h1="Chuyển đổi hình ảnh từ định dạng WMZ bằng Aspose.Imaging cho Java" h2="Chuyển đổi từ định dạng hình ảnh WMZ(Giao diện Windows Media Player được nén) sang các định dạng khác bằng nền tảng Java" downloadText="Tải xuống" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Nhiều định dạng hình ảnh có thể được chuyển đổi từ hình ảnh WMZ bằng Aspose.Imaging cho Java" %}}
-Bạn có thể lập trình chuyển đổi từ định dạng WMZ sang các định dạng có sẵn khác bằng cách sử dụng
-Aspose.Imaging cho Java.
+{{% blocks/products/pf/feature-page-section  h2="Nhiều định dạng hình ảnh có thể được chuyển đổi từ hình ảnh WMZ(Giao diện Windows Media Player được nén) bằng Aspose.Imaging cho Java" %}}
+<p align=justify>Bạn có thể lập trình chuyển đổi từ định dạng WMZ sang các định dạng có sẵn khác bằng cách sử dụng
+Aspose.Imaging cho Java. WMZ là một phần mở rộng tệp cho định dạng tệp da trong / cho / được sử dụng bởi Windows Media Player. Tệp WMZ về cơ bản là một tệp WMF được nén trong XML.</p>
 <br/>
 Có các chuyển đổi sau trên tàu:
 {{% /blocks/products/pf/feature-page-section %}}

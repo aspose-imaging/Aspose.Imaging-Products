@@ -1,20 +1,20 @@
 ﻿---
-title: Aspose.Imaging for Java kullanarak DJVU formatını desteklenen diğer formatlara dönüştürün 
+title: Aspose.Imaging for Java API kullanarak DJVU(Grafik Formatı) formatını desteklenen diğer formatlara dönüştürün 
 weight: 3920
 url: /tr/java/conversion/from/djvu 
 lang: tr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging, Java platformunu kullanarak DJVU biçimini diğer biçimlere kolayca dönüştürebilir
+description: Aspose.Imaging, Java platformunu kullanarak DJVU(Grafik Formatı) biçimini diğer biçimlere kolayca dönüştürebilir
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java kullanarak görüntüleri DJVU formatından dönüştürün" h2="Java platformunu kullanarak DJVU görüntü biçiminden diğer biçimlere dönüştürme" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java kullanarak görüntüleri DJVU formatından dönüştürün" h2="Java platformunu kullanarak DJVU(Grafik Formatı) görüntü biçiminden diğer biçimlere dönüştürme" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java kullanılarak DJVU görüntülerden dönüştürülebilen geniş görüntü formatları yelpazesi" %}}
-kullanarak DJVU biçiminden diğer kullanılabilir biçimlere programlı olarak dönüştürebilirsiniz.
-Java için Aspose.Imaging.
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java kullanılarak DJVU(Grafik Formatı) görüntülerden dönüştürülebilen geniş görüntü formatları yelpazesi" %}}
+<p align=justify>kullanarak DJVU biçiminden diğer kullanılabilir biçimlere programlı olarak dönüştürebilirsiniz.
+Java için Aspose.Imaging. DjVu, DJVU olarak telaffuz edilir, özellikle metin, çizim, resim ve fotoğrafların birleşimini içeren taranmış belgeler ve kitaplar için tasarlanmış bir grafik dosya formatıdır. AT&T Labs tarafından geliştirilmiştir. Metin ve arka plan görüntülerinin görüntü katmanı ayrımı, aşamalı yükleme, aritmetik kodlama ve iki tonlu görüntüler için kayıplı sıkıştırma gibi birden çok teknik kullanır. DJVU dosyası sıkıştırılmış ancak yüksek kaliteli renkli görüntüler, fotoğraflar, metinler ve çizimler içerebildiğinden ve daha az alana kaydedilebildiğinden, web'de e-Kitaplar, kılavuzlar, gazeteler, eski belgeler vb. olarak kullanılır.</p>
 <br/>
 Gemide aşağıdaki dönüşümler var:
 {{% /blocks/products/pf/feature-page-section %}}

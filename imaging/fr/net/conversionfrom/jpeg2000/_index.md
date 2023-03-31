@@ -1,21 +1,21 @@
 ﻿---
-title: Convertir de JPEG2000 vers d'autres formats via .NET 
+title: Convertir de JPEG2000(JPEG 2000) vers d'autres formats via l'API d'image .NET 
 weight: 3920
 url: /fr/net/conversion/from/jpeg2000 
 lang: fr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: En utilisant Aspose.Imaging, vous pouvez facilement convertir de JPEG2000 vers un autre format
+description: En utilisant Aspose.Imaging, vous pouvez facilement convertir de JPEG2000(JPEG 2000) vers un autre format
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversion de fichiers image à partir de JPEG2000 via .NET" h2="Convertir de JPEG2000 vers un autre format" downloadText="Télécharger" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversion de fichiers image à partir de JPEG2000(JPEG 2000) via l'API d'image .NET" h2="Convertir de JPEG 2000 vers d'autres formats à l'aide de l'API Aspose.Imaging" downloadText="Télécharger" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tous les formats d'image pris en charge pour convertir à partir de JPEG2000" %}}
-Aspose.Imaging permet d'automatiser de nombreuses conversions de JPEG2000 vers d'autres formats sur la plate-forme .NET.
+{{% blocks/products/pf/feature-page-section  h2="Tous les formats d'image pris en charge pour convertir à partir de JPEG2000(JPEG 2000)" %}}
+<p align=justify>Aspose.Imaging permet d'automatiser de nombreuses conversions de JPEG2000 vers d'autres formats sur la plate-forme .NET. JPEG 2000 (JP2) est un système de codage d'image et une norme de compression d'image de pointe. Conçu en utilisant la technologie des ondelettes JPEG 2000 peut coder du contenu sans perte dans n'importe quelle qualité à la fois. De plus, sans aucune pénalité substantielle dans l'efficacité du codage, JPEG 2000 a la capacité d'accéder et de décoder efficacement le même contenu dans une variété d'autres résolutions et qualités. Les flux de code dans JPEG 2000 sont considérablement évolutifs, ayant des régions d'intérêt qui fournissent la possibilité d'un accès spatial aléatoire. Possédant jusqu'à 16384 composants divers avec des dimensions en térapixels, et une précision pouvant atteindre 38 bits/échantillon.</p>
 <br/>
-Liste complète des conversions prises en charge :
+Liste complète des conversions prises en charge à partir de JPEG2000 :
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

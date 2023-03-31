@@ -1,19 +1,19 @@
 ﻿---
-title: Convertir des images au format d'image EMF à partir d'autres formats pris en charge à l'aide de la plate-forme .NET 
+title: Convertir des images au format d'image EMF(Format de métafichier amélioré) à partir d'autres formats pris en charge à l'aide de la plate-forme .NET 
 weight: 3920
 url: /fr/net/conversion/to/emf 
 lang: fr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: En utilisant Aspose.Imaging pour la bibliothèque .NET, il est facile de convertir en EMF à partir d'autres formats d'image pris en charge
+description: En utilisant Aspose.Imaging pour la bibliothèque .NET, il est facile de convertir en EMF(Format de métafichier amélioré) à partir d'autres formats d'image pris en charge
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convertir les fichiers image au format d'image EMF à l'aide de la plate-forme .NET" h2="Convertir au format EMF à partir d'autres formats à l'aide de la bibliothèque Aspose.Imaging pour .NET" downloadText="Télécharger" >}}
+{{< blocks/products/pf/feature-page-header h1="Convertir les fichiers image au format d'image EMF(Format de métafichier amélioré) à l'aide de la plate-forme .NET" h2="Convertir au format Format de métafichier amélioré à partir d'autres formats à l'aide de la bibliothèque Aspose.Imaging pour .NET" downloadText="Télécharger" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Toutes les conversions prises en charge au format EMF à l'aide de la bibliothèque Aspose.Imaging pour .NET" %}}
-À l'aide de la bibliothèque Aspose.Imaging, vous pouvez convertir par programmation divers formats d'image en image EMF.
+{{% blocks/products/pf/feature-page-section  h2="Toutes les conversions prises en charge au format EMF(Format de métafichier amélioré) à l'aide de la bibliothèque Aspose.Imaging pour .NET" %}}
+<p align=justify>À l'aide de la bibliothèque Aspose.Imaging, vous pouvez convertir par programmation divers formats d'image en image EMF. Le format de métafichier amélioré (EMF) stocke les images graphiques indépendamment du périphérique. Les métafichiers d'EMF comprennent des enregistrements de longueur variable dans l'ordre chronologique qui peuvent restituer l'image stockée après analyse sur n'importe quel périphérique de sortie. Ces enregistrements de longueur variable peuvent être des définitions d'objets fermés, des commandes de dessin et des propriétés graphiques essentielles pour restituer l'image avec précision. Lorsqu'un appareil ouvre un métafichier EMF à l'aide de son propre environnement graphique, les proportions, dimensions, couleurs et autres propriétés graphiques de l'image d'origine restent les mêmes quelle que soit la plate-forme de l'appareil d'ouverture. </p>
 <br/>
 Les conversions suivantes sont prises en charge :
 {{% /blocks/products/pf/feature-page-section %}}

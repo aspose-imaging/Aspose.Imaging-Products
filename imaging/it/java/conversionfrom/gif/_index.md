@@ -1,20 +1,20 @@
 ﻿---
-title: Converti da GIF in altri formati supportati utilizzando Aspose.Imaging per Java 
+title: Converti da GIF(Formato di scambio grafico) in altri formati supportati utilizzando Aspose.Imaging per Java API 
 weight: 3920
 url: /it/java/conversion/from/gif 
 lang: it
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging può facilmente convertire da GIF ad altri formati utilizzando la piattaforma Java
+description: Aspose.Imaging può facilmente convertire da GIF(Formato di scambio grafico) ad altri formati utilizzando la piattaforma Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converti immagini dal formato GIF utilizzando Aspose.Imaging per Java" h2="Converti dal formato immagine GIF in altri formati utilizzando la piattaforma Java" downloadText="Scarica" >}}
+{{< blocks/products/pf/feature-page-header h1="Converti immagini dal formato GIF utilizzando Aspose.Imaging per Java" h2="Converti dal formato immagine GIF(Formato di scambio grafico) in altri formati utilizzando la piattaforma Java" downloadText="Scarica" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Ampio spettro di formati immagine che possono essere convertiti da immagini GIF utilizzando Aspose.Imaging per Java" %}}
-Puoi convertire in modo programmatico dal formato GIF in altri formati disponibili utilizzando
-Aspose.Imaging per Java.
+{{% blocks/products/pf/feature-page-section  h2="Ampio spettro di formati immagine che possono essere convertiti da immagini GIF(Formato di scambio grafico) utilizzando Aspose.Imaging per Java" %}}
+<p align=justify>Puoi convertire in modo programmatico dal formato GIF in altri formati disponibili utilizzando
+Aspose.Imaging per Java. Un formato GIF o Graphical Interchange Format è un tipo di immagine altamente compressa. Di proprietà di Unisys, GIF utilizza l'algoritmo di compressione LZW che non degrada la qualità dell'immagine. Per ogni immagine GIF in genere consentono fino a 8 bit per pixel e sono consentiti fino a 256 colori nell'immagine. In contrasto con un'immagine JPEG, che può visualizzare fino a 16 milioni di colori e tocca abbastanza i limiti dell'occhio umano. Quando è emerso Internet, le GIF sono rimaste la scelta migliore perché richiedevano una larghezza di banda ridotta e compatibili per la grafica che consuma aree di colore solide. Una GIF animata combina numerose immagini o fotogrammi in un unico file e le visualizza in sequenza per generare una clip animata o un breve video. I limiti di colore sono fino a 256 per ogni fotogramma e sono probabilmente i meno adatti per riprodurre altre immagini e fotografie con gradiente di colore.</p>
 <br/>
 Ci sono le seguenti conversioni a bordo:
 {{% /blocks/products/pf/feature-page-section %}}

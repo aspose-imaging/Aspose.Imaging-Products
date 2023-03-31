@@ -1,20 +1,20 @@
 ﻿---
-title: Chuyển đổi từ JPG sang các định dạng được hỗ trợ khác bằng Aspose.Imaging for Java 
+title: Chuyển đổi từ JPG(Nhóm chuyên gia nhiếp ảnh chung) sang các định dạng được hỗ trợ khác bằng Aspose.Imaging for Java API 
 weight: 3920
 url: /vi/java/conversion/from/jpg 
 lang: vi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging có thể dễ dàng chuyển đổi từ JPG sang các định dạng khác bằng nền tảng Java
+description: Aspose.Imaging có thể dễ dàng chuyển đổi từ JPG(Nhóm chuyên gia nhiếp ảnh chung) sang các định dạng khác bằng nền tảng Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Chuyển đổi hình ảnh từ định dạng JPG bằng Aspose.Imaging cho Java" h2="Chuyển đổi từ định dạng hình ảnh JPG sang các định dạng khác bằng nền tảng Java" downloadText="Tải xuống" >}}
+{{< blocks/products/pf/feature-page-header h1="Chuyển đổi hình ảnh từ định dạng JPG bằng Aspose.Imaging cho Java" h2="Chuyển đổi từ định dạng hình ảnh JPG(Nhóm chuyên gia nhiếp ảnh chung) sang các định dạng khác bằng nền tảng Java" downloadText="Tải xuống" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Nhiều định dạng hình ảnh có thể được chuyển đổi từ hình ảnh JPG bằng Aspose.Imaging cho Java" %}}
-Bạn có thể lập trình chuyển đổi từ định dạng JPG sang các định dạng có sẵn khác bằng cách sử dụng
-Aspose.Imaging cho Java.
+{{% blocks/products/pf/feature-page-section  h2="Nhiều định dạng hình ảnh có thể được chuyển đổi từ hình ảnh JPG(Nhóm chuyên gia nhiếp ảnh chung) bằng Aspose.Imaging cho Java" %}}
+<p align=justify>Bạn có thể lập trình chuyển đổi từ định dạng JPG sang các định dạng có sẵn khác bằng cách sử dụng
+Aspose.Imaging cho Java. JPEG là một loại định dạng hình ảnh được lưu bằng phương pháp nén mất dữ liệu. Hình ảnh đầu ra, là kết quả của quá trình nén, là sự cân bằng giữa kích thước lưu trữ và chất lượng hình ảnh. Người dùng có thể điều chỉnh mức độ nén để đạt được mức chất lượng mong muốn đồng thời giảm dung lượng lưu trữ. Chất lượng hình ảnh bị ảnh hưởng đáng kể nếu áp dụng nén 10: 1 cho hình ảnh. Giá trị nén càng cao thì chất lượng ảnh càng giảm.</p>
 <br/>
 Có các chuyển đổi sau trên tàu:
 {{% /blocks/products/pf/feature-page-section %}}

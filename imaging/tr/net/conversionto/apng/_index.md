@@ -1,19 +1,19 @@
 ﻿---
-title: .NET platformunu kullanarak görüntüleri desteklenen diğer biçimlerden APNG görüntü biçimine dönüştürün 
+title: .NET platformunu kullanarak görüntüleri desteklenen diğer biçimlerden APNG(Hareketli Taşınabilir Ağ Grafikleri) görüntü biçimine dönüştürün 
 weight: 3920
 url: /tr/net/conversion/to/apng 
 lang: tr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging for .NET kitaplığını kullanarak, desteklenen diğer görüntü biçimlerinden APNG biçimine dönüştürmek kolaydır
+description: Aspose.Imaging for .NET kitaplığını kullanarak, desteklenen diğer görüntü biçimlerinden APNG(Hareketli Taşınabilir Ağ Grafikleri) biçimine dönüştürmek kolaydır
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET platformunu kullanarak Görüntü Dosyalarını APNG görüntü formatına dönüştürün" h2="Aspose.Imaging for .NET kitaplığını kullanarak diğer formatlardan APNG formatına dönüştürün" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET platformunu kullanarak Görüntü Dosyalarını APNG(Hareketli Taşınabilir Ağ Grafikleri) görüntü formatına dönüştürün" h2="Aspose.Imaging for .NET kitaplığını kullanarak diğer formatlardan Hareketli Taşınabilir Ağ Grafikleri formatına dönüştürün" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for .NET kitaplığı kullanılarak APNG biçimine desteklenen tüm dönüşümler" %}}
-Aspose.Imaging kütüphanesini kullanarak çeşitli resim formatlarını programlı olarak APNG resme dönüştürebilirsiniz.
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for .NET kitaplığı kullanılarak APNG(Hareketli Taşınabilir Ağ Grafikleri) biçimine desteklenen tüm dönüşümler" %}}
+<p align=justify>Aspose.Imaging kütüphanesini kullanarak çeşitli resim formatlarını programlı olarak APNG resme dönüştürebilirsiniz. .apng (Animasyonlu Taşınabilir Ağ Grafikleri) uzantılı bir dosya, bir raster grafik biçimidir ve Taşınabilir Ağ Grafiğinin (PNG) resmi olmayan bir uzantısıdır. Bir animasyon dizisini temsil eden birden çok kareden (PNG görüntüsünün her biri) oluşur. Bu, bir GIF dosyasına benzer görselleştirme sağlar. APNG dosyaları 24 bit görüntüleri ve 8 bit şeffaflığı destekler. APNG, animasyonsuz GIF dosyalarıyla geriye dönük olarak uyumludur. APNG dosyaları aynı .png uzantısını kullanır ve Mozilla Firefox, APNG destekli Chrome, iOS 10 için iMessage uygulamaları gibi uygulamalar tarafından açılabilir.</p>
 <br/>
 Aşağıdaki dönüşümler desteklenir:
 {{% /blocks/products/pf/feature-page-section %}}

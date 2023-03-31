@@ -1,19 +1,19 @@
 ﻿---
-title: .NET プラットフォームを使用して、画像を他のサポートされている形式から PDF 画像形式に変換します 
+title: .NET プラットフォームを使用して、画像を他のサポートされている形式から PDF(ポータブルドキュメントフォーマット（PDF）) 画像形式に変換します 
 weight: 3920
 url: /ja/net/conversion/to/pdf 
 lang: ja
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging for .NET ライブラリを使用すると、サポートされている他の画像フォーマットから PDF に簡単に変換できます。
+description: Aspose.Imaging for .NET ライブラリを使用すると、サポートされている他の画像フォーマットから PDF(ポータブルドキュメントフォーマット（PDF）) に簡単に変換できます。
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET プラットフォームを使用して、画像ファイルを PDF 画像形式に変換します" h2="Aspose.Imaging for .NET ライブラリを使用して、他のフォーマットから PDF フォーマットに変換します" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET プラットフォームを使用して、画像ファイルを PDF(ポータブルドキュメントフォーマット（PDF）) 画像形式に変換します" h2="Aspose.Imaging for .NET ライブラリを使用して、他のフォーマットから ポータブルドキュメントフォーマット（PDF） フォーマットに変換します" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for .NET ライブラリを使用した PDF 形式へのすべてのサポートされている変換" %}}
-Aspose.Imaging ライブラリを使用すると、さまざまな画像フォーマットをプログラムで PDF 画像に変換できます。
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for .NET ライブラリを使用した PDF(ポータブルドキュメントフォーマット（PDF）) 形式へのすべてのサポートされている変換" %}}
+<p align=justify>Aspose.Imaging ライブラリを使用すると、さまざまな画像フォーマットをプログラムで PDF 画像に変換できます。 Portable Document Format（PDF）は、1990年代にAdobeによって作成されたドキュメントの一種です。このファイル形式の目的は、アプリケーションソフトウェア、ハードウェア、およびオペレーティングシステムに依存しない形式で、ドキュメントやその他の参照資料を表現するための標準を導入することでした。 PDFファイル形式には、テキスト、画像、ハイパーリンク、フォームフィールド、リッチメディア、デジタル署名、添付ファイル、メタデータ、地理空間機能、ソースドキュメントの一部として使用できる3Dオブジェクトなどの情報を含めることができます。</p>
 <br/>
 次の変換がサポートされています。
 {{% /blocks/products/pf/feature-page-section %}}

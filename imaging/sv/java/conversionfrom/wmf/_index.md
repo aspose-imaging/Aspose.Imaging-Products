@@ -1,20 +1,20 @@
 ﻿---
-title: Konvertera från WMF till andra format som stöds med Aspose.Imaging för Java 
+title: Konvertera från WMF(Microsoft Windows metafil) till andra format som stöds med Aspose.Imaging för Java API 
 weight: 3920
 url: /sv/java/conversion/from/wmf 
 lang: sv
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging kan enkelt konvertera från WMF till andra format med hjälp av Java-plattformen
+description: Aspose.Imaging kan enkelt konvertera från WMF(Microsoft Windows metafil) till andra format med hjälp av Java-plattformen
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertera bilder från formatet WMF med Aspose.Imaging för Java" h2="Konvertera från WMF bildformat till andra format med Java-plattformen" downloadText="Ladda ner" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertera bilder från formatet WMF med Aspose.Imaging för Java" h2="Konvertera från WMF(Microsoft Windows metafil) bildformat till andra format med Java-plattformen" downloadText="Ladda ner" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Brett spektrum av bildformat som kan konverteras från WMF-bilder med Aspose.Imaging för Java" %}}
-Du kan programmatiskt konvertera från formatet WMF till andra tillgängliga format med hjälp av
-Aspose.Imaging för Java.
+{{% blocks/products/pf/feature-page-section  h2="Brett spektrum av bildformat som kan konverteras från WMF(Microsoft Windows metafil)-bilder med Aspose.Imaging för Java" %}}
+<p align=justify>Du kan programmatiskt konvertera från formatet WMF till andra tillgängliga format med hjälp av
+Aspose.Imaging för Java. Filer med WMF-tillägg representerar Microsoft Windows Metafile (WMF) för lagring av vektor- och bitmappsformat bilddata. För att vara mer exakt tillhör WMF kategorin vektorfilformat för grafikfilformat som är enhetsoberoende. Windows Graphical Device Interface (GDI) använder funktionerna som är lagrade i en WMF-fil för att visa en bild på skärmen. En mer förbättrad version av WMF, känd som Enhanced Meta Files (EMF), publicerades senare som gör formatet mer funktionsrikt. Praktiskt taget liknar WMF SVG.</p>
 <br/>
 Det finns följande konverteringar ombord:
 {{% /blocks/products/pf/feature-page-section %}}

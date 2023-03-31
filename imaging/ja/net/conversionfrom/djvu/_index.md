@@ -1,21 +1,21 @@
 ﻿---
-title: .NET 経由で DJVU から他の形式に変換します 
+title: .NET 画像 API を介して DJVU(グラフィックフォーマット) から他の形式に変換する 
 weight: 3920
 url: /ja/net/conversion/from/djvu 
 lang: ja
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging を使用すると、DJVU から別のフォーマットに簡単に変換できます
+description: Aspose.Imaging を使用すると、DJVU(グラフィックフォーマット) から別のフォーマットに簡単に変換できます
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET による DJVU からの画像ファイルの変換" h2="DJVU から別の形式に変換する" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET 画像 API を介した DJVU(グラフィックフォーマット) からの画像ファイルの変換" h2="Aspose.Imaging API を使用して グラフィックフォーマット から他のフォーマットに変換" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="DJVU から変換する、サポートされているすべての画像形式" %}}
-Aspose.Imaging を使用すると、DJVU から .NET プラットフォーム上の他のフォーマットへの多くの変換を自動化できます。
+{{% blocks/products/pf/feature-page-section  h2="DJVU(グラフィックフォーマット) から変換する、サポートされているすべての画像形式" %}}
+<p align=justify>Aspose.Imaging を使用すると、DJVU から .NET プラットフォーム上の他のフォーマットへの多くの変換を自動化できます。 DJVU と発音されるDjVuは、スキャンされたドキュメントや書籍、特にテキスト、図面、画像、写真の組み合わせを含むものを対象としたグラフィックファイル形式です。 AT＆T研究所によって開発されました。テキストと背景画像の画像レイヤー分離、プログレッシブローディング、算術符号化、非可逆圧縮などの複数の手法を使用します。 DJVUファイルには、圧縮された高品質のカラー画像、写真、テキスト、および図面を含めることができ、より少ないスペースで保存できるため、電子書籍、マニュアル、新聞、古代の文書などとしてWebで使用されます。</p>
 <br/>
-サポートされている変換の完全なリスト:
+サポートされている DJVU からの変換の完全なリスト:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

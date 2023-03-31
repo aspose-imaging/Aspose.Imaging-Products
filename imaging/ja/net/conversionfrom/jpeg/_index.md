@@ -1,21 +1,21 @@
 ﻿---
-title: .NET 経由で JPEG から他の形式に変換します 
+title: .NET 画像 API を介して JPEG(共同写真専門家グループ) から他の形式に変換する 
 weight: 3920
 url: /ja/net/conversion/from/jpeg 
 lang: ja
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging を使用すると、JPEG から別のフォーマットに簡単に変換できます
+description: Aspose.Imaging を使用すると、JPEG(共同写真専門家グループ) から別のフォーマットに簡単に変換できます
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET による JPEG からの画像ファイルの変換" h2="JPEG から別の形式に変換する" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET 画像 API を介した JPEG(共同写真専門家グループ) からの画像ファイルの変換" h2="Aspose.Imaging API を使用して 共同写真専門家グループ から他のフォーマットに変換" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="JPEG から変換する、サポートされているすべての画像形式" %}}
-Aspose.Imaging を使用すると、JPEG から .NET プラットフォーム上の他のフォーマットへの多くの変換を自動化できます。
+{{% blocks/products/pf/feature-page-section  h2="JPEG(共同写真専門家グループ) から変換する、サポートされているすべての画像形式" %}}
+<p align=justify>Aspose.Imaging を使用すると、JPEG から .NET プラットフォーム上の他のフォーマットへの多くの変換を自動化できます。 JPEGは、非可逆圧縮方式を使用して保存される画像形式の一種です。圧縮の結果としての出力画像は、ストレージサイズと画質の間のトレードオフです。ユーザーは、圧縮レベルを調整して、必要な品質レベルを達成すると同時に、ストレージサイズを減らすことができます。 10：1の圧縮が画像に適用されている場合、画質への影響はごくわずかです。圧縮値が高いほど、画質の低下が大きくなります。</p>
 <br/>
-サポートされている変換の完全なリスト:
+サポートされている JPEG からの変換の完全なリスト:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

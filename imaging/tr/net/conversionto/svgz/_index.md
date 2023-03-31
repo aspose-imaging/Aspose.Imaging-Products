@@ -1,19 +1,19 @@
 ﻿---
-title: .NET platformunu kullanarak görüntüleri desteklenen diğer biçimlerden SVGZ görüntü biçimine dönüştürün 
+title: .NET platformunu kullanarak görüntüleri desteklenen diğer biçimlerden SVGZ(Ölçeklenebilir Vektör Grafikleri (.SVG) dosyasının sıkıştırılmış sürümü.) görüntü biçimine dönüştürün 
 weight: 3920
 url: /tr/net/conversion/to/svgz 
 lang: tr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging for .NET kitaplığını kullanarak, desteklenen diğer görüntü biçimlerinden SVGZ biçimine dönüştürmek kolaydır
+description: Aspose.Imaging for .NET kitaplığını kullanarak, desteklenen diğer görüntü biçimlerinden SVGZ(Ölçeklenebilir Vektör Grafikleri (.SVG) dosyasının sıkıştırılmış sürümü.) biçimine dönüştürmek kolaydır
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET platformunu kullanarak Görüntü Dosyalarını SVGZ görüntü formatına dönüştürün" h2="Aspose.Imaging for .NET kitaplığını kullanarak diğer formatlardan SVGZ formatına dönüştürün" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET platformunu kullanarak Görüntü Dosyalarını SVGZ(Ölçeklenebilir Vektör Grafikleri (.SVG) dosyasının sıkıştırılmış sürümü.) görüntü formatına dönüştürün" h2="Aspose.Imaging for .NET kitaplığını kullanarak diğer formatlardan Ölçeklenebilir Vektör Grafikleri (.SVG) dosyasının sıkıştırılmış sürümü. formatına dönüştürün" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for .NET kitaplığı kullanılarak SVGZ biçimine desteklenen tüm dönüşümler" %}}
-Aspose.Imaging kütüphanesini kullanarak çeşitli resim formatlarını programlı olarak SVGZ resme dönüştürebilirsiniz.
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for .NET kitaplığı kullanılarak SVGZ(Ölçeklenebilir Vektör Grafikleri (.SVG) dosyasının sıkıştırılmış sürümü.) biçimine desteklenen tüm dönüşümler" %}}
+<p align=justify>Aspose.Imaging kütüphanesini kullanarak çeşitli resim formatlarını programlı olarak SVGZ resme dönüştürebilirsiniz. .svgz uzantılı bir dosya, Ölçeklenebilir Vektör Grafikleri (.SVG) dosyasının sıkıştırılmış bir sürümüdür. Gzip sıkıştırması ile sıkıştırılır ve XML formatında veri içerir. SVGZ dosyaları şeffaflığı, degradeleri, animasyonları ve filtreleri destekler. SVGZ dosyalarının boyutu, varsayılan SVG dosyalarına kıyasla daha küçüktür ve bu küçültülmüş dosya boyutu, grafik dosyalarının çevrimiçi olarak aktarılmasına yardımcı olur. Grafik tasarımcısı, Adobe Illustrator, Corel PaintShop Pro ve diğerleri gibi araçları kullanarak SVGZ dosyaları oluşturur. Ancak, görüntü verileri gönderilirken Apache Sunucusunda GZip sıkıştırması etkinleştirilerek SVGZ dosyaları oluşturulabilir.</p>
 <br/>
 Aşağıdaki dönüşümler desteklenir:
 {{% /blocks/products/pf/feature-page-section %}}

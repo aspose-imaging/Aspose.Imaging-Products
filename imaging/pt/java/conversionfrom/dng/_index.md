@@ -1,20 +1,20 @@
 ﻿---
-title: Converta de DNG para outros formatos suportados usando Aspose.Imaging for Java 
+title: Converta de DNG(Imagem de câmera digital) para outros formatos suportados usando Aspose.Imaging for Java API 
 weight: 3920
 url: /pt/java/conversion/from/dng 
 lang: pt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging pode converter facilmente de DNG para outros formatos usando a plataforma Java
+description: Aspose.Imaging pode converter facilmente de DNG(Imagem de câmera digital) para outros formatos usando a plataforma Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converta imagens do formato DNG usando Aspose.Imaging para Java" h2="Converta do formato de imagem DNG para outros formatos usando a plataforma Java" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Converta imagens do formato DNG usando Aspose.Imaging para Java" h2="Converta do formato de imagem DNG(Imagem de câmera digital) para outros formatos usando a plataforma Java" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Amplo espectro de formatos de imagem que podem ser convertidos de imagens DNG usando Aspose.Imaging para Java" %}}
-Você pode converter programaticamente do formato DNG para outros formatos disponíveis usando
-Aspose.Imaging para Java.
+{{% blocks/products/pf/feature-page-section  h2="Amplo espectro de formatos de imagem que podem ser convertidos de imagens DNG(Imagem de câmera digital) usando Aspose.Imaging para Java" %}}
+<p align=justify>Você pode converter programaticamente do formato DNG para outros formatos disponíveis usando
+Aspose.Imaging para Java. DNG é um formato de imagem de câmera digital usado para o armazenamento de arquivos raw. Foi desenvolvido pela Adobe em setembro de 2004. Foi desenvolvido basicamente para fotografia digital. DNG é uma extensão do formato padrão TIFF/EP e usa metadados de forma significativa. Para manipular dados brutos de câmeras digitais com facilidade de flexibilidade e controle artístico, os fotógrafos optam por arquivos camera raw. Os formatos JPEG e TIFF armazenam imagens que são processadas pela câmera, portanto, não há muito espaço para alterações nesses formatos.</p>
 <br/>
 Existem as seguintes conversões a bordo:
 {{% /blocks/products/pf/feature-page-section %}}

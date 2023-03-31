@@ -1,21 +1,21 @@
 ﻿---
-title: .NET Aracılığıyla EMZ'ten diğer biçimlere dönüştürün 
+title: .NET görüntü API'sı aracılığıyla EMZ(Windows Sıkıştırılmış Gelişmiş Meta Dosyası) biçimini diğer biçimlere dönüştürün 
 weight: 3920
 url: /tr/net/conversion/from/emz 
 lang: tr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging'i kullanarak EMZ biçimini kolayca başka biçimlere dönüştürebilirsiniz
+description: Aspose.Imaging'i kullanarak EMZ(Windows Sıkıştırılmış Gelişmiş Meta Dosyası) biçimini kolayca başka biçimlere dönüştürebilirsiniz
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET Yoluyla EMZ'den Görüntü Dosyaları Dönüştürme" h2="EMZ biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET image API aracılığıyla EMZ(Windows Sıkıştırılmış Gelişmiş Meta Dosyası)'den Görüntü Dosyaları Dönüşümü" h2="Aspose.Imaging API kullanarak Windows Sıkıştırılmış Gelişmiş Meta Dosyası formatını diğer formatlara dönüştürün" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="EMZ'den dönüştürülecek desteklenen tüm resim biçimleri" %}}
-Aspose.Imaging, .NET platformunda EMZ'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir.
+{{% blocks/products/pf/feature-page-section  h2="EMZ(Windows Sıkıştırılmış Gelişmiş Meta Dosyası) biçiminden dönüştürülecek desteklenen tüm resim biçimleri" %}}
+<p align=justify>Aspose.Imaging, .NET platformunda EMZ'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir. EMZ dosya uzantısına sahip bir dosya, daha özel olarak Windows Sıkıştırılmış Gelişmiş Meta Dosyası dosyası olarak adlandırılan sıkıştırılmış bir görüntü dosyasıdır.</p>
 <br/>
-Desteklenen dönüşümlerin tam listesi:
+EMZ tarafından desteklenen dönüşümlerin tam listesi:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -1,19 +1,19 @@
 ﻿---
-title: Konversi gambar ke format gambar PSD dari format lain yang didukung menggunakan platform .NET 
+title: Konversi gambar ke format gambar PSD(Dokumen Photoshop) dari format lain yang didukung menggunakan platform .NET 
 weight: 3920
 url: /id/net/conversion/to/psd 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Menggunakan Aspose.Imaging untuk pustaka .NET, mudah untuk mengonversi ke PSD dari format gambar lain yang didukung
+description: Menggunakan Aspose.Imaging untuk pustaka .NET, mudah untuk mengonversi ke PSD(Dokumen Photoshop) dari format gambar lain yang didukung
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar menjadi format gambar PSD menggunakan platform .NET" h2="Konversikan ke format PSD dari format lain menggunakan Aspose.Imaging untuk perpustakaan .NET" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar menjadi format gambar PSD(Dokumen Photoshop) menggunakan platform .NET" h2="Konversikan ke format Dokumen Photoshop dari format lain menggunakan Aspose.Imaging untuk perpustakaan .NET" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Semua konversi yang didukung ke format PSD menggunakan Aspose.Imaging untuk perpustakaan .NET" %}}
-Dengan menggunakan pustaka Aspose.Imaging, Anda dapat secara terprogram mengonversi berbagai format gambar menjadi gambar PSD.
+{{% blocks/products/pf/feature-page-section  h2="Semua konversi yang didukung ke format PSD(Dokumen Photoshop) menggunakan Aspose.Imaging untuk perpustakaan .NET" %}}
+<p align=justify>Dengan menggunakan pustaka Aspose.Imaging, Anda dapat secara terprogram mengonversi berbagai format gambar menjadi gambar PSD. PSD, Dokumen Photoshop, mewakili format file asli Adobe Photoshop yang digunakan untuk perancangan dan pengembangan grafis. File PSD dapat mencakup lapisan gambar, lapisan penyesuaian, topeng lapisan, anotasi, informasi file, kata kunci, dan elemen khusus Photoshop lainnya.</p>
 <br/>
 Konversi berikut didukung :
 {{% /blocks/products/pf/feature-page-section %}}

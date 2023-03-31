@@ -1,21 +1,21 @@
 ﻿---
-title: Конвертировать из WMZ в другие форматы с помощью .NET 
+title: Преобразование из WMZ(Сжатая оболочка проигрывателя Windows Media) в другие форматы с помощью API изображений .NET 
 weight: 3920
 url: /ru/net/conversion/from/wmz 
 lang: ru
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Используя Aspose.Imaging, вы можете легко конвертировать из WMZ в другие форматы.
+description: Используя Aspose.Imaging, вы можете легко конвертировать из WMZ(Сжатая оболочка проигрывателя Windows Media) в другие форматы.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование файлов изображений из WMZ с помощью .NET" h2="Конвертировать из WMZ в другие форматы" downloadText="Скачать" >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование файлов изображений из WMZ(Сжатая оболочка проигрывателя Windows Media) через .NET API изображений" h2="Преобразование из Сжатая оболочка проигрывателя Windows Media в другие форматы с помощью Aspose.Imaging API" downloadText="Скачать" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Все поддерживаемые форматы изображений для преобразования из WMZ" %}}
-Aspose.Imaging позволяет автоматизировать множество преобразований из WMZ в другие форматы на платформе .NET.
+{{% blocks/products/pf/feature-page-section  h2="Все поддерживаемые форматы изображений для преобразования из WMZ(Сжатая оболочка проигрывателя Windows Media)" %}}
+<p align=justify>Aspose.Imaging позволяет автоматизировать множество преобразований из WMZ в другие форматы на платформе .NET. WMZ — это расширение файла для формата файла скина в/для/используемого проигрывателем Windows Media. Файл WMZ представляет собой заархивированный файл WMF в формате XML.</p>
 <br/>
-Полный список поддерживаемых преобразований:
+Полный список поддерживаемых преобразований из WMZ:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

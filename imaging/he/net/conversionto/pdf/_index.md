@@ -1,19 +1,19 @@
 ﻿---
-title: המר תמונות לפורמט תמונה PDF מפורמטים נתמכים אחרים באמצעות פלטפורמת NET 
+title: המר תמונות לפורמט תמונה PDF(פורמט מסמך נייד (PDF)) מפורמטים נתמכים אחרים באמצעות פלטפורמת NET 
 weight: 3920
 url: /he/net/conversion/to/pdf 
 lang: he
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: באמצעות Aspose.Imaging עבור ספריית NET קל להמיר ל-PDF מפורמטי תמונה נתמכים אחרים
+description: באמצעות Aspose.Imaging עבור ספריית NET קל להמיר ל-PDF(פורמט מסמך נייד (PDF)) מפורמטי תמונה נתמכים אחרים
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="המר קבצי תמונה לפורמט תמונה PDF באמצעות פלטפורמת NET" h2="המר לפורמט PDF מפורמטים אחרים באמצעות Aspose.Imaging עבור ספריית NET" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="המר קבצי תמונה לפורמט תמונה PDF(פורמט מסמך נייד (PDF)) באמצעות פלטפורמת NET" h2="המר לפורמט פורמט מסמך נייד (PDF) מפורמטים אחרים באמצעות Aspose.Imaging עבור ספריית NET" downloadText="הורד" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="כל ההמרות הנתמכות לפורמט PDF באמצעות Aspose.Imaging עבור ספריית NET" %}}
-באמצעות ספריית Aspose.Imaging אתה יכול להמיר פורמטים שונים של תמונה לתמונה PDF.
+{{% blocks/products/pf/feature-page-section  h2="כל ההמרות הנתמכות לפורמט PDF(פורמט מסמך נייד (PDF)) באמצעות Aspose.Imaging עבור ספריית NET" %}}
+<p align=justify>באמצעות ספריית Aspose.Imaging אתה יכול להמיר פורמטים שונים של תמונה לתמונה PDF. פורמט מסמכים ניידים (PDF) הוא סוג של מסמך שנוצר על ידי Adobe עוד בשנות ה-90. מטרת פורמט קובץ זה הייתה להציג תקן לייצוג של מסמכים וחומרי עזר אחרים בפורמט שאינו תלוי בתוכנת יישום, חומרה ומערכת הפעלה. לפורמט קובץ ה-PDF יש יכולת מלאה להכיל מידע כמו טקסט, תמונות, היפר-קישורים, שדות טופס, מדיה עשירה, חתימות דיגיטליות, קבצים מצורפים, מטא נתונים, תכונות גיאו-מרחביות ואובייקטים תלת-ממדיים, שיכולים להפוך לחלק ממסמך המקור.</p>
 <br/>
 ההמרות הבאות נתמכות:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,19 +1,19 @@
 ﻿---
-title: Konvertieren Sie Bilder aus anderen unterstützten Formaten mithilfe der .NET-Plattform in das Bildformat DICOM 
+title: Konvertieren Sie Bilder aus anderen unterstützten Formaten mithilfe der .NET-Plattform in das Bildformat DICOM(Digitale Bildgebung und Kommunikation) 
 weight: 3920
 url: /de/net/conversion/to/dicom 
 lang: de
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Mit Aspose.Imaging für die .NET-Bibliothek ist es einfach, von anderen unterstützten Bildformaten in DICOM zu konvertieren
+description: Mit Aspose.Imaging für die .NET-Bibliothek ist es einfach, von anderen unterstützten Bildformaten in DICOM(Digitale Bildgebung und Kommunikation) zu konvertieren
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie Bilddateien mithilfe der .NET-Plattform in das Bildformat DICOM" h2="Konvertieren Sie mithilfe der Aspose.Imaging for .NET-Bibliothek aus anderen Formaten in das DICOM-Format" downloadText="Herunterladen" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie Bilddateien mithilfe der .NET-Plattform in das Bildformat DICOM(Digitale Bildgebung und Kommunikation)" h2="Konvertieren Sie mithilfe der Aspose.Imaging for .NET-Bibliothek aus anderen Formaten in das Digitale Bildgebung und Kommunikation-Format" downloadText="Herunterladen" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Konvertierungen in das DICOM-Format mit Aspose.Imaging für die .NET-Bibliothek" %}}
-Mit der Aspose.Imaging-Bibliothek können Sie verschiedene Bildformate programmgesteuert in DICOM-Bilder konvertieren.
+{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Konvertierungen in das DICOM(Digitale Bildgebung und Kommunikation)-Format mit Aspose.Imaging für die .NET-Bibliothek" %}}
+<p align=justify>Mit der Aspose.Imaging-Bibliothek können Sie verschiedene Bildformate programmgesteuert in DICOM-Bilder konvertieren. DICOM ist die Abkürzung für Digital Imaging and Communications in Medicine und gehört zum Gebiet der Medizinischen Informatik. DICOM ist die Kombination aus Dateiformatdefinition und einem Netzwerkkommunikationsprotokoll. DICOM verwendet die Erweiterung .DCM. .DCM gibt es in zwei verschiedenen Formaten, nämlich Format 1.x und Format 2.x. Das DCM-Format 1.x ist weiterhin in zwei Versionen normal und erweitert verfügbar. DICOM wird für die Integration von medizinischen Bildgebungsgeräten wie Druckern, Servern, Scannern usw. verschiedener Anbieter verwendet und enthält auch Identifikationsdaten jedes Patienten zur Eindeutigkeit. DICOM-Dateien können zwischen zwei Parteien geteilt werden, wenn sie in der Lage sind, Bilddaten im DICOM-Format zu empfangen. Der Kommunikationsteil von DICOM ist ein Anwendungsschichtprotokoll und verwendet TCP/IP zur Kommunikation zwischen Entitäten. Für die Webdienste von DICOM werden HTTP- und HTTPS-Protokolle verwendet. Von Webdiensten unterstützte Versionen sind 1.0, 1.1, 2 oder höher.</p>
 <br/>
 Folgende Konvertierungen werden unterstützt:
 {{% /blocks/products/pf/feature-page-section %}}

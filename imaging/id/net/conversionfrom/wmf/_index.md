@@ -1,21 +1,21 @@
 ﻿---
-title: Konversikan dari WMF ke format lain Melalui .NET 
+title: Konversikan dari WMF(Metafile Microsoft Windows) ke format lain Melalui API gambar .NET 
 weight: 3920
 url: /id/net/conversion/from/wmf 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi dari WMF ke format lain
+description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi dari WMF(Metafile Microsoft Windows) ke format lain
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar dari WMF Melalui .NET" h2="Konversikan dari WMF ke format lain" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar dari WMF(Metafile Microsoft Windows) Melalui API gambar .NET" h2="Konversikan dari Metafile Microsoft Windows ke format lain menggunakan Aspose.Imaging API" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari WMF" %}}
-Aspose.Imaging memungkinkan mengotomatiskan banyak konversi dari WMF ke format lain di platform .NET.
+{{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari WMF(Metafile Microsoft Windows)" %}}
+<p align=justify>Aspose.Imaging memungkinkan mengotomatiskan banyak konversi dari WMF ke format lain di platform .NET. File dengan ekstensi WMF mewakili Microsoft Windows Metafile (WMF) untuk menyimpan data gambar vektor dan format bitmap. Agar lebih akurat, WMF termasuk dalam kategori format file vektor dari format file Grafik yang tidak bergantung pada perangkat. Windows Graphical Device Interface (GDI) menggunakan fungsi yang disimpan dalam file WMF untuk menampilkan gambar di layar. Versi WMF yang lebih disempurnakan, yang dikenal sebagai Enhanced Meta Files (EMF), diterbitkan kemudian yang membuat format lebih kaya fitur. Secara praktis, WMF mirip dengan SVG.</p>
 <br/>
-Daftar lengkap konversi yang didukung:
+Daftar lengkap konversi yang didukung dari WMF:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -1,21 +1,21 @@
 ﻿---
-title: .NET Aracılığıyla DICOM'ten diğer biçimlere dönüştürün 
+title: .NET görüntü API'sı aracılığıyla DICOM(Dijital Görüntüleme ve İletişim) biçimini diğer biçimlere dönüştürün 
 weight: 3920
 url: /tr/net/conversion/from/dicom 
 lang: tr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging'i kullanarak DICOM biçimini kolayca başka biçimlere dönüştürebilirsiniz
+description: Aspose.Imaging'i kullanarak DICOM(Dijital Görüntüleme ve İletişim) biçimini kolayca başka biçimlere dönüştürebilirsiniz
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET Yoluyla DICOM'den Görüntü Dosyaları Dönüştürme" h2="DICOM biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET image API aracılığıyla DICOM(Dijital Görüntüleme ve İletişim)'den Görüntü Dosyaları Dönüşümü" h2="Aspose.Imaging API kullanarak Dijital Görüntüleme ve İletişim formatını diğer formatlara dönüştürün" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="DICOM'den dönüştürülecek desteklenen tüm resim biçimleri" %}}
-Aspose.Imaging, .NET platformunda DICOM'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir.
+{{% blocks/products/pf/feature-page-section  h2="DICOM(Dijital Görüntüleme ve İletişim) biçiminden dönüştürülecek desteklenen tüm resim biçimleri" %}}
+<p align=justify>Aspose.Imaging, .NET platformunda DICOM'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir. DICOM, Tıpta Dijital Görüntüleme ve İletişimin kısaltmasıdır ve Tıp Bilişimi alanıyla ilgilidir. DICOM, dosya formatı tanımı ve bir ağ iletişim protokolünün birleşimidir. DICOM, .DCM uzantısını kullanır. .DCM, 1.x biçimi ve 2.x biçimi olmak üzere iki farklı biçimde bulunur. DCM Format 1.x ayrıca normal ve genişletilmiş iki versiyonda mevcuttur. DICOM, çeşitli satıcılara ait yazıcılar, sunucular, tarayıcılar vb. tıbbi görüntüleme cihazlarının entegrasyonu için kullanılır ve ayrıca benzersizlik için her hastanın kimlik verilerini içerir. DICOM dosyaları, DICOM formatında görüntü verilerini alabiliyorlarsa, iki taraf arasında paylaşılabilir. DICOM'un iletişim kısmı, uygulama katmanı protokolüdür ve varlıklar arasında iletişim kurmak için TCP/IP kullanır. DICOM'un web hizmetleri için HTTP ve HTTPS protokolleri kullanılır. Web servisleri tarafından desteklenen sürümler 1.0, 1.1, 2 veya üstüdür.</p>
 <br/>
-Desteklenen dönüşümlerin tam listesi:
+DICOM tarafından desteklenen dönüşümlerin tam listesi:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

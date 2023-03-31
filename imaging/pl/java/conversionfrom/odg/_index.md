@@ -1,20 +1,20 @@
 ﻿---
-title: Konwertuj z ODG na inne obsługiwane formaty za pomocą Aspose.Imaging for Java 
+title: Konwertuj z ODG(Apache OpenOffice Draw format) na inne obsługiwane formaty za pomocą Aspose.Imaging for Java API 
 weight: 3920
 url: /pl/java/conversion/from/odg 
 lang: pl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging może łatwo konwertować z formatu ODG na inne formaty przy użyciu platformy Java
+description: Aspose.Imaging może łatwo konwertować z formatu ODG(Apache OpenOffice Draw format) na inne formaty przy użyciu platformy Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwertuj obrazy z formatu ODG za pomocą Aspose.Imaging for Java" h2="Konwertuj z formatu obrazu ODG na inne formaty za pomocą platformy Java" downloadText="Ściągnij" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj obrazy z formatu ODG za pomocą Aspose.Imaging for Java" h2="Konwertuj z formatu obrazu ODG(Apache OpenOffice Draw format) na inne formaty za pomocą platformy Java" downloadText="Ściągnij" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Szerokie spektrum formatów obrazów, które można konwertować z obrazów ODG przy użyciu Aspose.Imaging for Java" %}}
-Możesz programowo przekonwertować z formatu ODG na inne dostępne formaty za pomocą
-Aspose.Imaging dla Javy.
+{{% blocks/products/pf/feature-page-section  h2="Szerokie spektrum formatów obrazów, które można konwertować z obrazów ODG(Apache OpenOffice Draw format) przy użyciu Aspose.Imaging for Java" %}}
+<p align=justify>Możesz programowo przekonwertować z formatu ODG na inne dostępne formaty za pomocą
+Aspose.Imaging dla Javy. Format pliku ODG jest używany przez aplikację Draw Apache OpenOffice do przechowywania elementów rysunkowych jako obrazu wektorowego. Jest zgodny ze specyfikacjami formatu plików opartymi na XML, określonymi przez Advancement of Structural Information Standards (OASIS). ODG przedstawia rysunki jako obrazy wektorowe za pomocą punktów, linii i krzywych. Oprócz OpenOffice, LibreOffice i inne aplikacje zapewniają również obsługę pracy z formatem plików ODG. Inne formaty obsługiwane przez OpenOffice to na przykład ODT, ODF, ODP i ODS.</p>
 <br/>
 Na pokładzie znajdują się następujące konwersje:
 {{% /blocks/products/pf/feature-page-section %}}

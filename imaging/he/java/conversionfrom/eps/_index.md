@@ -1,20 +1,20 @@
 ﻿---
-title: המר מ-EPS לפורמטים נתמכים אחרים באמצעות Aspose.Imaging עבור Java 
+title: המר מ-EPS(שפת PostScript מובלעת) לפורמטים נתמכים אחרים באמצעות Aspose.Imaging עבור Java API 
 weight: 3920
 url: /he/java/conversion/from/eps 
 lang: he
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging יכולה להמיר בקלות מ-EPS לפורמטים אחרים באמצעות פלטפורמת Java
+description: Aspose.Imaging יכולה להמיר בקלות מ-EPS(שפת PostScript מובלעת) לפורמטים אחרים באמצעות פלטפורמת Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="המר תמונות מפורמט EPS באמצעות Aspose.Imaging עבור Java" h2="המר מפורמט תמונה EPS לפורמטים אחרים באמצעות פלטפורמת Java" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="המר תמונות מפורמט EPS באמצעות Aspose.Imaging עבור Java" h2="המר מפורמט תמונה EPS(שפת PostScript מובלעת) לפורמטים אחרים באמצעות פלטפורמת Java" downloadText="הורד" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="ספקטרום רחב של פורמטים של תמונות שניתן להמיר מתמונות EPS באמצעות Aspose.Imaging עבור Java" %}}
-אתה יכול להמיר באופן תכנותי מפורמט EPS לפורמטים זמינים אחרים באמצעות
-Aspose.Imaging עבור Java.
+{{% blocks/products/pf/feature-page-section  h2="ספקטרום רחב של פורמטים של תמונות שניתן להמיר מתמונות EPS(שפת PostScript מובלעת) באמצעות Aspose.Imaging עבור Java" %}}
+<p align=justify>אתה יכול להמיר באופן תכנותי מפורמט EPS לפורמטים זמינים אחרים באמצעות
+Aspose.Imaging עבור Java. קבצים עם סיומת EPS מתארים בעצם תוכנית שפת Encapsulated PostScript שמתארת ​​את המראה של עמוד בודד. השם "Encapsulated" מכיוון שניתן לכלול אותו או לכלול אותו בתיאור עמוד אחר בשפת PostScript. פורמט קובץ זה מבוסס סקריפט עשוי להכיל כל שילוב של טקסט, גרפיקה ותמונות. קובצי EPS עשויים לכלול תמונת תצוגה מקדימה של מפת סיביות מכוסה בפנים לתצוגה על ידי יישומים שיכולים לפתוח קבצים כאלה. ניתן להמיר קבצי EPS לפורמטים סטנדרטיים של תמונה כגון JPG, PNG, TIFF ו-PDF באמצעות יישומים שונים, למשל. Adobe Illustrator, Photoshop ו-PaintShop Pro. בגלל פגיעות אבטחה בקובצי EPS, Office 2016, Office 2013, Office 2010 ו-Office 365 ביטלו את היכולת להכניס קובצי EPS למסמכי Office.</p>
 <br/>
 ישנן ההמרות הבאות על הסיפון:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,19 +1,19 @@
 ﻿---
-title: Converta imagens para o formato de imagem TGA de outros formatos suportados usando a plataforma .NET 
+title: Converta imagens para o formato de imagem TGA(Gráfico Targa) de outros formatos suportados usando a plataforma .NET 
 weight: 3920
 url: /pt/net/conversion/to/tga 
 lang: pt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando a biblioteca Aspose.Imaging para .NET, é fácil converter para TGA de outros formatos de imagem suportados
+description: Usando a biblioteca Aspose.Imaging para .NET, é fácil converter para TGA(Gráfico Targa) de outros formatos de imagem suportados
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converta arquivos de imagem para o formato de imagem TGA usando a plataforma .NET" h2="Converta para o formato TGA de outros formatos usando a biblioteca Aspose.Imaging for .NET" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Converta arquivos de imagem para o formato de imagem TGA(Gráfico Targa) usando a plataforma .NET" h2="Converta para o formato Gráfico Targa de outros formatos usando a biblioteca Aspose.Imaging for .NET" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todas as conversões suportadas para o formato TGA usando a biblioteca Aspose.Imaging for .NET" %}}
-Usando a biblioteca Aspose.Imaging, você pode converter programaticamente vários formatos de imagem em imagem TGA.
+{{% blocks/products/pf/feature-page-section  h2="Todas as conversões suportadas para o formato TGA(Gráfico Targa) usando a biblioteca Aspose.Imaging for .NET" %}}
+<p align=justify>Usando a biblioteca Aspose.Imaging, você pode converter programaticamente vários formatos de imagem em imagem TGA. Truevision TGA, muitas vezes referido como TARGA, é um formato de arquivo gráfico raster criado pela Truevision Inc. (agora parte da Avid Technology). Era o formato nativo das placas TARGA e VISTA, que foram as primeiras placas gráficas para PCs compatíveis com IBM a suportar exibição Highcolor/truecolor.</p>
 <br/>
 As seguintes conversões são suportadas:
 {{% /blocks/products/pf/feature-page-section %}}

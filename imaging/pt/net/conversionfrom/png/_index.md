@@ -1,21 +1,21 @@
 ﻿---
-title: Converta de PNG para outros formatos via .NET 
+title: Converta de PNG(Gráficos Portáteis de Rede) para outros formatos por meio da API de imagem .NET 
 weight: 3920
 url: /pt/net/conversion/from/png 
 lang: pt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging você pode facilmente converter de PNG para outros formatos
+description: Usando Aspose.Imaging você pode facilmente converter de PNG(Gráficos Portáteis de Rede) para outros formatos
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversão de arquivos de imagem de PNG via .NET" h2="Converter de PNG para outros formatos" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversão de arquivos de imagem de PNG(Gráficos Portáteis de Rede) por meio da API de imagem .NET" h2="Converta de Gráficos Portáteis de Rede para outros formatos usando a API Aspose.Imaging" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos os formatos de imagem compatíveis para conversão de PNG" %}}
-Aspose.Imaging permite automatizar muitas conversões de PNG para outros formatos na plataforma .NET.
+{{% blocks/products/pf/feature-page-section  h2="Todos os formatos de imagem compatíveis para conversão de PNG(Gráficos Portáteis de Rede)" %}}
+<p align=justify>Aspose.Imaging permite automatizar muitas conversões de PNG para outros formatos na plataforma .NET. PNG, Portable Network Graphics, refere-se a um tipo de formato de arquivo de imagem raster que usa compactação sem perdas. Este formato de arquivo foi criado como uma substituição do Graphics Interchange Format (GIF) e não possui limitações de direitos autorais. No entanto, o formato de arquivo PNG não suporta animações. O formato de arquivo PNG suporta compressão de imagem sem perdas que o torna popular entre seus usuários. Com o passar do tempo, o PNG evoluiu como um dos formatos de arquivo de imagem mais usados. Quase todos os sistemas operacionais têm suporte para abrir arquivos PNG. Por exemplo, o visualizador do Microsoft Windows tem a capacidade de abrir arquivos PNG, pois o sistema operacional tem, por padrão, o suporte disponível como parte da instalação.</p>
 <br/>
-Lista completa de conversões suportadas:
+Lista completa de conversões suportadas de PNG:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

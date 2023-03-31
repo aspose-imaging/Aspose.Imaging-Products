@@ -1,21 +1,21 @@
 ﻿---
-title: .NET के माध्यम से J2K से अन्य प्रारूपों में कनवर्ट करें 
+title: .NET इमेज एपीआई के ज़रिए J2K(तरंगिका संपीड़ित छवि) से दूसरे फ़ॉर्मैट में बदलें 
 weight: 3920
 url: /hi/net/conversion/from/j2k 
 lang: hi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging का उपयोग करके आप आसानी से J2K से अन्य स्वरूपों में परिवर्तित कर सकते हैं
+description: Aspose.Imaging का उपयोग करके आप आसानी से J2K(तरंगिका संपीड़ित छवि) से अन्य स्वरूपों में परिवर्तित कर सकते हैं
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET के माध्यम से J2K से छवि फ़ाइलों का रूपांतरण" h2="J2K से दूसरे फ़ॉर्मैट में बदलें" downloadText="डाउनलोड" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET छवि API के माध्यम से J2K(तरंगिका संपीड़ित छवि) से छवि फ़ाइलें रूपांतरण" h2="Aspose.Imaging API का उपयोग करके तरंगिका संपीड़ित छवि से अन्य प्रारूपों में कनवर्ट करें" downloadText="डाउनलोड" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="J2K से कनवर्ट करने के लिए सभी समर्थित छवि प्रारूप" %}}
-Aspose.Image .NET प्लेटफॉर्म पर J2K से अन्य प्रारूपों में बहुत से रूपांतरणों को स्वचालित करने की अनुमति देता है।
+{{% blocks/products/pf/feature-page-section  h2="J2K(तरंगिका संपीड़ित छवि) से कनवर्ट करने के लिए सभी समर्थित छवि प्रारूप" %}}
+<p align=justify>Aspose.Image .NET प्लेटफॉर्म पर J2K से अन्य प्रारूपों में बहुत से रूपांतरणों को स्वचालित करने की अनुमति देता है। J2K फ़ाइल एक ऐसी छवि है जिसे DCT संपीड़न के बजाय तरंगिका संपीड़न का उपयोग करके संपीड़ित किया जाता है।</p>
 <br/>
-समर्थित रूपांतरणों की पूरी सूची:
+J2K से समर्थित रूपांतरणों की पूरी सूची:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

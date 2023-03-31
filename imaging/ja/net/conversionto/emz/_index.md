@@ -1,19 +1,19 @@
 ﻿---
-title: .NET プラットフォームを使用して、画像を他のサポートされている形式から EMZ 画像形式に変換します 
+title: .NET プラットフォームを使用して、画像を他のサポートされている形式から EMZ(Windows圧縮拡張メタファイル) 画像形式に変換します 
 weight: 3920
 url: /ja/net/conversion/to/emz 
 lang: ja
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging for .NET ライブラリを使用すると、サポートされている他の画像フォーマットから EMZ に簡単に変換できます。
+description: Aspose.Imaging for .NET ライブラリを使用すると、サポートされている他の画像フォーマットから EMZ(Windows圧縮拡張メタファイル) に簡単に変換できます。
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET プラットフォームを使用して、画像ファイルを EMZ 画像形式に変換します" h2="Aspose.Imaging for .NET ライブラリを使用して、他のフォーマットから EMZ フォーマットに変換します" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET プラットフォームを使用して、画像ファイルを EMZ(Windows圧縮拡張メタファイル) 画像形式に変換します" h2="Aspose.Imaging for .NET ライブラリを使用して、他のフォーマットから Windows圧縮拡張メタファイル フォーマットに変換します" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for .NET ライブラリを使用した EMZ 形式へのすべてのサポートされている変換" %}}
-Aspose.Imaging ライブラリを使用すると、さまざまな画像フォーマットをプログラムで EMZ 画像に変換できます。
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for .NET ライブラリを使用した EMZ(Windows圧縮拡張メタファイル) 形式へのすべてのサポートされている変換" %}}
+<p align=justify>Aspose.Imaging ライブラリを使用すると、さまざまな画像フォーマットをプログラムで EMZ 画像に変換できます。 EMZファイル拡張子の付いたファイルは、圧縮イメージファイルであり、より具体的にはWindows圧縮拡張メタファイルファイルと呼ばれます。</p>
 <br/>
 次の変換がサポートされています。
 {{% /blocks/products/pf/feature-page-section %}}

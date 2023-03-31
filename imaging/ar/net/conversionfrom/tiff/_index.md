@@ -1,21 +1,21 @@
 ﻿---
-title: حوِّل من TIFF إلى تنسيقات أخرى عبر .NET 
+title: قم بالتحويل من TIFF (تنسيق الصورة الموسومة) إلى تنسيقات أخرى عبر واجهة برمجة تطبيقات الصور .NET 
 weight: 3920
 url: /ar/net/conversion/from/tiff 
 lang: ar
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: باستخدام Aspose.Imaging ، يمكنك بسهولة التحويل من TIFF إلى تنسيقات أخرى
+description: باستخدام Aspose.Imaging ، يمكنك بسهولة التحويل من TIFF(تنسيق الصورة الموسومة) إلى تنسيقات أخرى
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل ملفات الصور من TIFF عبر .NET" h2="تحويل من TIFF إلى صيغ أخرى" downloadText="تحميل" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل ملفات الصور من TIFF (تنسيق الصورة الموسومة) عبر .NET image API" h2="تحويل من تنسيق الصورة الموسومة إلى تنسيقات أخرى باستخدام Aspose.Imaging API" downloadText="تحميل" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="جميع تنسيقات الصور المدعومة للتحويل من TIFF" %}}
-يسمح Aspose.Imaging بأتمتة الكثير من التحويلات من TIFF إلى تنسيقات أخرى على منصة .NET.
+{{% blocks/products/pf/feature-page-section  h2="جميع تنسيقات الصور المدعومة المراد تحويلها من TIFF (تنسيق الصورة الموسومة)" %}}
+<p align=justify>يسمح Aspose.Imaging بأتمتة الكثير من التحويلات من TIFF إلى تنسيقات أخرى على منصة .NET. TIFF أو TIF ، تنسيق ملف الصورة ذي العلامات ، يمثل صورًا نقطية مخصصة للاستخدام على مجموعة متنوعة من الأجهزة التي تتوافق مع معيار تنسيق الملف هذا. إنه قادر على وصف بيانات الصورة ذات المستوى الثنائي ، والرمادي ، واللون الملون ، وبيانات الصور كاملة الألوان في العديد من مساحات الألوان. وهو يدعم أنظمة الضغط التي يتم فقدانها وكذلك بدون فقدان البيانات للاختيار بين المكان والزمان للتطبيقات التي تستخدم التنسيق. التنسيق قابل للتوسيع وخضع لعدة مراجعات تسمح بإدراج كمية غير محدودة من المعلومات الخاصة أو ذات الأغراض الخاصة. لا يعتمد التنسيق على الجهاز وخالي من الحدود مثل المعالج أو نظام التشغيل أو أنظمة الملفات.</p>
 <br/>
-القائمة الكاملة للتحويلات المدعومة:
+القائمة الكاملة للتحويلات المدعومة من TIFF:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

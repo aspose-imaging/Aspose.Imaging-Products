@@ -1,21 +1,21 @@
 ﻿---
-title: Конвертировать из J2K в другие форматы с помощью .NET 
+title: Преобразование из J2K(Сжатое изображение вейвлета) в другие форматы с помощью API изображений .NET 
 weight: 3920
 url: /ru/net/conversion/from/j2k 
 lang: ru
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Используя Aspose.Imaging, вы можете легко конвертировать из J2K в другие форматы.
+description: Используя Aspose.Imaging, вы можете легко конвертировать из J2K(Сжатое изображение вейвлета) в другие форматы.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование файлов изображений из J2K с помощью .NET" h2="Конвертировать из J2K в другие форматы" downloadText="Скачать" >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование файлов изображений из J2K(Сжатое изображение вейвлета) через .NET API изображений" h2="Преобразование из Сжатое изображение вейвлета в другие форматы с помощью Aspose.Imaging API" downloadText="Скачать" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Все поддерживаемые форматы изображений для преобразования из J2K" %}}
-Aspose.Imaging позволяет автоматизировать множество преобразований из J2K в другие форматы на платформе .NET.
+{{% blocks/products/pf/feature-page-section  h2="Все поддерживаемые форматы изображений для преобразования из J2K(Сжатое изображение вейвлета)" %}}
+<p align=justify>Aspose.Imaging позволяет автоматизировать множество преобразований из J2K в другие форматы на платформе .NET. Файл J2K представляет собой изображение, сжатое с использованием вейвлет-сжатия вместо сжатия DCT.</p>
 <br/>
-Полный список поддерживаемых преобразований:
+Полный список поддерживаемых преобразований из J2K:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

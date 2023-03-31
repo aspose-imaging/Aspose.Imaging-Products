@@ -1,21 +1,21 @@
 ﻿---
-title: Konwertuj z EPS na inne formaty przez .NET 
+title: Konwertuj z formatu EPS(Enkapsulowany język PostScript) na inne formaty za pomocą interfejsu graficznego .NET 
 weight: 3920
 url: /pl/net/conversion/from/eps 
 lang: pl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Za pomocą Aspose.Imaging możesz łatwo konwertować z EPS na inne formaty
+description: Za pomocą Aspose.Imaging możesz łatwo konwertować z EPS(Enkapsulowany język PostScript) na inne formaty
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwersja plików graficznych z EPS przez .NET" h2="Konwertuj z EPS na inne formaty" downloadText="Ściągnij" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwersja plików graficznych z formatu EPS(Enkapsulowany język PostScript) za pośrednictwem interfejsu graficznego .NET" h2="Konwertuj z Enkapsulowany język PostScript na inne formaty za pomocą API Aspose.Imaging" downloadText="Ściągnij" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty obrazów do przekonwertowania z EPS" %}}
-Aspose.Imaging pozwala zautomatyzować wiele konwersji z EPS do innych formatów na platformie .NET.
+{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty obrazów do przekonwertowania z EPS(Enkapsulowany język PostScript)" %}}
+<p align=justify>Aspose.Imaging pozwala zautomatyzować wiele konwersji z EPS do innych formatów na platformie .NET. Pliki z rozszerzeniem EPS zasadniczo opisują program w języku Encapsulated PostScript, który opisuje wygląd pojedynczej strony. Nazwa „Enkapsulowana”, ponieważ może być zawarta lub zawarta w innym opisie strony w języku PostScript. Ten format pliku oparty na skrypcie może zawierać dowolną kombinację tekstu, grafiki i obrazów. Pliki EPS mogą zawierać obraz podglądu mapy bitowej zamknięty w środku do wyświetlania przez aplikacje, które mogą otwierać takie pliki. Pliki EPS można konwertować do standardowych formatów graficznych, takich jak JPG, PNG, TIFF i PDF przy użyciu różnych aplikacji, m.in. Adobe Illustrator, Photoshop i PaintShop Pro. Ze względu na lukę w zabezpieczeniach plików EPS pakiety Office 2016, Office 2013, Office 2010 i Office 365 wyłączyły możliwość wstawiania plików EPS do dokumentów pakietu Office.</p>
 <br/>
-Pełna lista obsługiwanych konwersji:
+Pełna lista obsługiwanych konwersji z EPS:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

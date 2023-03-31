@@ -1,21 +1,21 @@
 ﻿---
-title: Převést z PNG do jiných formátů přes .NET 
+title: Převést z formátu PNG(Přenosná síťová grafika) do jiných formátů prostřednictvím rozhraní API pro obrázky .NET 
 weight: 3920
 url: /cs/net/conversion/from/png 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Pomocí Aspose.Imaging můžete snadno převést z formátu PNG do jiných formátů
+description: Pomocí Aspose.Imaging můžete snadno převést z formátu PNG(Přenosná síťová grafika) do jiných formátů
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů z formátu PNG prostřednictvím .NET" h2="Převést z PNG do jiných formátů" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů z formátu PNG(Přenosná síťová grafika) prostřednictvím rozhraní API pro obrázky .NET" h2="Převeďte z Přenosná síťová grafika do jiných formátů pomocí Aspose.Imaging API" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu z formátu PNG" %}}
-Aspose.Imaging umožňuje automatizovat mnoho konverzí z PNG do jiných formátů na platformě .NET.
+{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu z formátu PNG (Přenosná síťová grafika)" %}}
+<p align=justify>Aspose.Imaging umožňuje automatizovat mnoho konverzí z PNG do jiných formátů na platformě .NET. PNG, Portable Network Graphics, označuje typ formátu rastrového obrázku, který používá bezztrátovou kompresi. Tento formát souboru byl vytvořen jako náhrada za Graphics Interchange Format (GIF) a nemá žádná omezení autorských práv. Formát souboru PNG však animace nepodporuje. Formát souboru PNG podporuje bezztrátovou kompresi obrázků, díky čemuž je mezi uživateli oblíbený. Postupem času se PNG vyvinul jako jeden z nejčastěji používaných formátů obrazových souborů. Téměř všechny operační systémy podporují otevírání souborů PNG. Například prohlížeč Microsoft Windows má schopnost otevírat soubory PNG, protože OS má standardně podporu dostupnou jako součást instalace.</p>
 <br/>
-Úplný seznam podporovaných konverzí:
+Úplný seznam podporovaných konverzí z PNG:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

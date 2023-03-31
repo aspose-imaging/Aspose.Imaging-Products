@@ -1,19 +1,19 @@
 ﻿---
-title: Chuyển đổi hình ảnh sang định dạng hình ảnh EMZ từ các định dạng được hỗ trợ khác bằng nền tảng .NET 
+title: Chuyển đổi hình ảnh sang định dạng hình ảnh EMZ(Siêu tệp nâng cao được nén của Windows) từ các định dạng được hỗ trợ khác bằng nền tảng .NET 
 weight: 3920
 url: /vi/net/conversion/to/emz 
 lang: vi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Sử dụng Aspose.Imaging cho thư viện .NET, thật dễ dàng để chuyển đổi sang EMZ từ các định dạng hình ảnh được hỗ trợ khác
+description: Sử dụng Aspose.Imaging cho thư viện .NET, thật dễ dàng để chuyển đổi sang EMZ(Siêu tệp nâng cao được nén của Windows) từ các định dạng hình ảnh được hỗ trợ khác
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Chuyển đổi tệp hình ảnh sang định dạng hình ảnh EMZ bằng nền tảng .NET" h2="Chuyển đổi sang định dạng EMZ từ các định dạng khác bằng thư viện Aspose.Imaging for .NET" downloadText="Tải xuống" >}}
+{{< blocks/products/pf/feature-page-header h1="Chuyển đổi tệp hình ảnh sang định dạng hình ảnh EMZ(Siêu tệp nâng cao được nén của Windows) bằng nền tảng .NET" h2="Chuyển đổi sang định dạng Siêu tệp nâng cao được nén của Windows từ các định dạng khác bằng thư viện Aspose.Imaging for .NET" downloadText="Tải xuống" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tất cả các chuyển đổi được hỗ trợ sang định dạng EMZ bằng thư viện Aspose.Imaging for .NET" %}}
-Sử dụng thư viện Aspose.Imaging, bạn có thể lập trình chuyển đổi các định dạng hình ảnh khác nhau thành hình ảnh EMZ.
+{{% blocks/products/pf/feature-page-section  h2="Tất cả các chuyển đổi được hỗ trợ sang định dạng EMZ(Siêu tệp nâng cao được nén của Windows) bằng thư viện Aspose.Imaging for .NET" %}}
+<p align=justify>Sử dụng thư viện Aspose.Imaging, bạn có thể lập trình chuyển đổi các định dạng hình ảnh khác nhau thành hình ảnh EMZ. Tệp có phần mở rộng tệp EMZ là tệp hình ảnh nén, được gọi cụ thể hơn là tệp Siêu tệp tin nâng cao được nén trong Windows</p>
 <br/>
 chuyển đổi sau đây được hỗ trợ:
 {{% /blocks/products/pf/feature-page-section %}}

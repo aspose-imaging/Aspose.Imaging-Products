@@ -1,20 +1,20 @@
 ﻿---
-title: Перетворюйте з JPEG в інші підтримувані формати за допомогою Aspose.Imaging для Java 
+title: Перетворюйте з JPEG(Об’єднана експертна група з фотографій) в інші підтримувані формати за допомогою Aspose.Imaging for Java API 
 weight: 3920
 url: /uk/java/conversion/from/jpeg 
 lang: uk
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging може легко конвертувати з JPEG в інші формати за допомогою платформи Java
+description: Aspose.Imaging може легко конвертувати з JPEG(Об’єднана експертна група з фотографій) в інші формати за допомогою платформи Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Перетворіть зображення з формату JPEG за допомогою Aspose.Imaging for Java" h2="Перетворіть формат зображення JPEG в інші формати за допомогою платформи Java" downloadText="Завантажити" >}}
+{{< blocks/products/pf/feature-page-header h1="Перетворіть зображення з формату JPEG за допомогою Aspose.Imaging for Java" h2="Перетворіть формат зображення JPEG(Об’єднана експертна група з фотографій) в інші формати за допомогою платформи Java" downloadText="Завантажити" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Спектр форматів зображень, які можна конвертувати з JPEG зображень за допомогою Aspose.Imaging for Java" %}}
-Ви можете програмно конвертувати формат JPEG в інші доступні формати за допомогою
-Aspose.Imaging for Java.
+{{% blocks/products/pf/feature-page-section  h2="Спектр форматів зображень, які можна конвертувати з JPEG(Об’єднана експертна група з фотографій) зображень за допомогою Aspose.Imaging for Java" %}}
+<p align=justify>Ви можете програмно конвертувати формат JPEG в інші доступні формати за допомогою
+Aspose.Imaging for Java. JPEG — це тип формату зображення, який зберігається за допомогою методу стиснення з втратами. Вихідне зображення, як результат стиснення, є компромісом між розміром пам’яті та якістю зображення. Користувачі можуть регулювати рівень стиснення, щоб досягти бажаного рівня якості, одночасно зменшуючи розмір пам’яті. Якщо до зображення застосувати стиснення 10:1, на якість зображення вплине незначно. Чим вище значення стиснення, тим більше погіршується якість зображення.</p>
 <br/>
 Наведено такі перетворення:
 {{% /blocks/products/pf/feature-page-section %}}

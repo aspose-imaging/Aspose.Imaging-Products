@@ -1,20 +1,20 @@
 ﻿---
-title: Převeďte z ICO do jiných podporovaných formátů pomocí Aspose.Imaging for Java 
+title: Převeďte z ICO(ikona Windows) do jiných podporovaných formátů pomocí Aspose.Imaging for Java API 
 weight: 3920
 url: /cs/java/conversion/from/ico 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging lze snadno převést z formátu ICO do jiných formátů pomocí platformy Java
+description: Aspose.Imaging lze snadno převést z formátu ICO(ikona Windows) do jiných formátů pomocí platformy Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převeďte obrázky z formátu ICO pomocí Aspose.Imaging for Java" h2="Převeďte z formátu obrázku ICO do jiných formátů pomocí platformy Java" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Převeďte obrázky z formátu ICO pomocí Aspose.Imaging for Java" h2="Převeďte z formátu obrázku ICO(ikona Windows) do jiných formátů pomocí platformy Java" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Široké spektrum obrazových formátů, které lze převést z obrázků ICO pomocí Aspose.Imaging for Java" %}}
-Můžete programově převádět z formátu ICO do jiných dostupných formátů pomocí
-Aspose.Imaging pro Javu.
+{{% blocks/products/pf/feature-page-section  h2="Široké spektrum obrazových formátů, které lze převést z obrázků ICO(ikona Windows) pomocí Aspose.Imaging for Java" %}}
+<p align=justify>Můžete programově převádět z formátu ICO do jiných dostupných formátů pomocí
+Aspose.Imaging pro Javu. Formát souboru ICO je formát souboru obrázků pro počítačové ikony v systému Microsoft Windows. Soubory ICO obsahují jeden nebo více malých obrázků v různých velikostech a barevných hloubkách, takže je lze vhodně škálovat. Ve Windows musí všechny spustitelné soubory, které uživateli zobrazují ikonu, na ploše, v nabídce Start nebo v Průzkumníku Windows, nést ikonu ve formátu ICO.</p>
 <br/>
 Na palubě jsou následující konverze:
 {{% /blocks/products/pf/feature-page-section %}}

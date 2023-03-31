@@ -1,21 +1,21 @@
 ﻿---
-title: Convertir de DIB vers d'autres formats via .NET 
+title: Convierta de DIB(Mapa de bits independiente del dispositivo) a otros formatos a través de la API de imágenes .NET 
 weight: 3920
 url: /es/net/conversion/from/dib 
 lang: es
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging puede convertir fácilmente de DIB a otros formatos
+description: Usando Aspose.Imaging puede convertir fácilmente de DIB(Mapa de bits independiente del dispositivo) a otros formatos
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversión de archivos de imagen de DIB a través de .NET" h2="Convertir de DIB a otros formatos" downloadText="Descargar" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversión de archivos de imagen de DIB(Mapa de bits independiente del dispositivo) a través de la API de imagen .NET" h2="Convierta de Mapa de bits independiente del dispositivo a otros formatos usando Aspose.Imaging API" downloadText="Descargar" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos los formatos de imagen admitidos para convertir desde DIB" %}}
-Aspose.Imaging permite automatizar muchas conversiones de DIB a otros formatos en la plataforma .NET.
+{{% blocks/products/pf/feature-page-section  h2="Todos los formatos de imagen admitidos para convertir desde DIB(Mapa de bits independiente del dispositivo)" %}}
+<p align=justify>Aspose.Imaging permite automatizar muchas conversiones de DIB a otros formatos en la plataforma .NET. Un archivo DIB (mapa de bits independiente del dispositivo) es un archivo de imagen de trama que tiene una estructura similar a los archivos de mapa de bits estándar (BMP), pero tiene un encabezado diferente. Se puede abrir con casi todas las aplicaciones que pueden abrir un archivo BMP estándar en Windows y macOS. DIB son archivos binarios y tienen un formato de archivo complejo similar a BMP.</p>
 <br/>
-Lista completa de conversiones admitidas:
+Lista completa de conversiones admitidas de DIB:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

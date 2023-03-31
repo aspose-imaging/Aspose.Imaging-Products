@@ -1,20 +1,20 @@
 ﻿---
-title: Konvertieren Sie mit Aspose.Imaging für Java von CMX in andere unterstützte Formate 
+title: Konvertieren Sie mit Aspose.Imaging für Java von CMX(Corel Exchange-Bild) in andere unterstützte Formate API 
 weight: 3920
 url: /de/java/conversion/from/cmx 
 lang: de
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging kann mithilfe der Java-Plattform problemlos von CMX in andere Formate konvertieren
+description: Aspose.Imaging kann mithilfe der Java-Plattform problemlos von CMX(Corel Exchange-Bild) in andere Formate konvertieren
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie Bilder aus dem CMX-Format mit Aspose.Imaging für Java" h2="Konvertieren Sie das Bildformat CMX mithilfe der Java-Plattform in andere Formate" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie Bilder aus dem CMX-Format mit Aspose.Imaging für Java" h2="Konvertieren Sie das Bildformat CMX(Corel Exchange-Bild) mithilfe der Java-Plattform in andere Formate" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Breites Spektrum an Bildformaten, die mit Aspose.Imaging für Java aus CMX-Bildern konvertiert werden können" %}}
-Sie können das CMX-Format programmgesteuert in andere verfügbare Formate konvertieren, indem Sie verwenden
-Aspose.Imaging für Java.
+{{% blocks/products/pf/feature-page-section  h2="Breites Spektrum an Bildformaten, die mit Aspose.Imaging für Java aus CMX(Corel Exchange-Bild)-Bildern konvertiert werden können" %}}
+<p align=justify>Sie können das CMX-Format programmgesteuert in andere verfügbare Formate konvertieren, indem Sie verwenden
+Aspose.Imaging für Java. Dateien mit der Erweiterung CMX sind Corel Exchange-Bilddateiformate, die von CorelSuite-Anwendungen als Präsentation verwendet werden. Sie enthält Bilddaten als Vektorgrafik sowie Metadaten, die das Bild beschreiben. CMX-Dateien können mit CorelDraw, Corel Presentations, Paint Shop Pro und einigen Versionen von Adobe Illustrator geöffnet werden.</p>
 <br/>
 Folgende Umbauten sind an Bord:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,20 +1,20 @@
 ﻿---
-title: Konvertuokite iš PNG į kitus palaikomus formatus naudodami Aspose.Imaging for Java 
+title: Konvertuokite iš PNG(Nešiojamoji tinklo grafika) į kitus palaikomus formatus naudodami Aspose.Imaging for Java API 
 weight: 3920
 url: /lt/java/conversion/from/png 
 lang: lt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: „Aspose.Imaging“ gali lengvai konvertuoti iš PNG į kitus formatus naudojant „Java“ platformą
+description: „Aspose.Imaging“ gali lengvai konvertuoti iš PNG(Nešiojamoji tinklo grafika) į kitus formatus naudojant „Java“ platformą
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertuokite vaizdus iš PNG formato naudodami Aspose.Imaging for Java" h2="Konvertuokite iš PNG vaizdo formato į kitus formatus naudodami Java platformą" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertuokite vaizdus iš PNG formato naudodami Aspose.Imaging for Java" h2="Konvertuokite iš PNG(Nešiojamoji tinklo grafika) vaizdo formato į kitus formatus naudodami Java platformą" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Platus vaizdo formatų spektras, kurį galima konvertuoti iš PNG vaizdų naudojant Aspose.Imaging for Java" %}}
-Galite programiškai konvertuoti iš PNG formato į kitus galimus formatus naudodami
-Aspose.Imaging for Java.
+{{% blocks/products/pf/feature-page-section  h2="Platus vaizdo formatų spektras, kurį galima konvertuoti iš PNG(Nešiojamoji tinklo grafika) vaizdų naudojant Aspose.Imaging for Java" %}}
+<p align=justify>Galite programiškai konvertuoti iš PNG formato į kitus galimus formatus naudodami
+Aspose.Imaging for Java. PNG, Portable Network Graphics, reiškia rastrinio vaizdo failo formato tipą, kuriame naudojamas nepralaidus glaudinimas. Šis failo formatas buvo sukurtas kaip grafinio mainų formato (GIF) pakaitalas ir neturi jokių autorių teisių apribojimų. Tačiau PNG failo formatas nepalaiko animacijų. PNG failo formatas palaiko nenutrūkstamą vaizdo glaudinimą, todėl jis yra populiarus tarp vartotojų. Laikui bėgant, PNG tapo vienu iš dažniausiai naudojamų vaizdo failų formatų. Beveik visos operacinės sistemos palaiko PNG failų atidarymą. Pavyzdžiui, „Microsoft Windows Viewer“ turi galimybę atidaryti PNG failus, nes OS pagal numatytuosius nustatymus palaiko diegimo dalį.</p>
 <br/>
 Laive yra šios konversijos:
 {{% /blocks/products/pf/feature-page-section %}}

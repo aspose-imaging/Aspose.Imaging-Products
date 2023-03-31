@@ -1,19 +1,19 @@
 ﻿---
-title: แปลงรูปภาพเป็นรูปแบบ WMF จากรูปแบบอื่นที่รองรับโดยใช้แพลตฟอร์ม .NET 
+title: แปลงรูปภาพเป็นรูปแบบ WMF(Microsoft Windows Metafile) จากรูปแบบอื่นที่รองรับโดยใช้แพลตฟอร์ม .NET 
 weight: 3920
 url: /th/net/conversion/to/wmf 
 lang: th
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: การใช้ Aspose.Imaging สำหรับไลบรารี .NET ทำให้ง่ายต่อการแปลงเป็น WMF จากรูปแบบรูปภาพอื่นๆ ที่รองรับ
+description: การใช้ Aspose.Imaging สำหรับไลบรารี .NET ทำให้ง่ายต่อการแปลงเป็น WMF(Microsoft Windows Metafile) จากรูปแบบรูปภาพอื่นๆ ที่รองรับ
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="แปลงไฟล์รูปภาพเป็นรูปแบบรูปภาพ WMF โดยใช้แพลตฟอร์ม .NET" h2="แปลงเป็นรูปแบบ WMF จากรูปแบบอื่นโดยใช้ Aspose.Imaging สำหรับไลบรารี .NET" downloadText="ดาวน์โหลด" >}}
+{{< blocks/products/pf/feature-page-header h1="แปลงไฟล์รูปภาพเป็นรูปแบบรูปภาพ WMF(Microsoft Windows Metafile) โดยใช้แพลตฟอร์ม .NET" h2="แปลงเป็นรูปแบบ Microsoft Windows Metafile จากรูปแบบอื่นโดยใช้ Aspose.Imaging สำหรับไลบรารี .NET" downloadText="ดาวน์โหลด" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="การแปลงที่รองรับทั้งหมดเป็นรูปแบบ WMF โดยใช้ Aspose.Imaging สำหรับไลบรารี .NET" %}}
-การใช้ไลบรารี Aspose.Imaging คุณสามารถแปลงรูปแบบรูปภาพต่างๆ เป็นรูปภาพ WMF โดยทางโปรแกรม
+{{% blocks/products/pf/feature-page-section  h2="การแปลงที่รองรับทั้งหมดเป็นรูปแบบ WMF(Microsoft Windows Metafile) โดยใช้ Aspose.Imaging สำหรับไลบรารี .NET" %}}
+<p align=justify>การใช้ไลบรารี Aspose.Imaging คุณสามารถแปลงรูปแบบรูปภาพต่างๆ เป็นรูปภาพ WMF โดยทางโปรแกรม ไฟล์ที่มีนามสกุล WMF แสดงถึง Microsoft Windows Metafile (WMF) สำหรับการจัดเก็บข้อมูลเวกเตอร์และรูปแบบบิตแมป เพื่อให้แม่นยำยิ่งขึ้น WMF อยู่ในหมวดหมู่รูปแบบไฟล์เวกเตอร์ของรูปแบบไฟล์กราฟิกที่ไม่ขึ้นกับอุปกรณ์ Windows Graphical Device Interface (GDI) ใช้ฟังก์ชันที่จัดเก็บไว้ในไฟล์ WMF เพื่อแสดงภาพบนหน้าจอ WMF เวอร์ชันที่ได้รับการปรับปรุงมากขึ้น หรือที่เรียกว่า Enhanced Meta Files (EMF) ได้รับการเผยแพร่ในภายหลัง ซึ่งทำให้รูปแบบมีคุณลักษณะที่สมบูรณ์ยิ่งขึ้น ในทางปฏิบัติ WMF จะคล้ายกับ SVG</p>
 <br/>
 รองรับการแปลงต่อไปนี้:
 {{% /blocks/products/pf/feature-page-section %}}

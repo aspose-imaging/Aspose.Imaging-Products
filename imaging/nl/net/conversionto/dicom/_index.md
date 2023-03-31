@@ -1,19 +1,19 @@
 ﻿---
-title: Converteer afbeeldingen naar DICOM afbeeldingsindeling van andere ondersteunde indelingen met behulp van het .NET-platform 
+title: Converteer afbeeldingen naar DICOM(Digitale beeldvorming en communicatie) afbeeldingsindeling van andere ondersteunde indelingen met behulp van het .NET-platform 
 weight: 3920
 url: /nl/net/conversion/to/dicom 
 lang: nl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Met Aspose.Imaging voor .NET-bibliotheek is het eenvoudig om te converteren naar DICOM vanuit andere ondersteunde afbeeldingsindelingen
+description: Met Aspose.Imaging voor .NET-bibliotheek is het eenvoudig om te converteren naar DICOM(Digitale beeldvorming en communicatie) vanuit andere ondersteunde afbeeldingsindelingen
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer afbeeldingsbestanden naar DICOM afbeeldingsindeling met behulp van het .NET-platform" h2="Converteer naar DICOM-indeling van andere indelingen met Aspose.Imaging voor .NET-bibliotheek" downloadText="Downloaden" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer afbeeldingsbestanden naar DICOM(Digitale beeldvorming en communicatie) afbeeldingsindeling met behulp van het .NET-platform" h2="Converteer naar Digitale beeldvorming en communicatie-indeling van andere indelingen met Aspose.Imaging voor .NET-bibliotheek" downloadText="Downloaden" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde conversies naar DICOM-indeling met Aspose.Imaging voor .NET-bibliotheek" %}}
-Met behulp van de Aspose.Imaging-bibliotheek kunt u verschillende afbeeldingsindelingen programmatisch converteren naar DICOM afbeelding.
+{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde conversies naar DICOM(Digitale beeldvorming en communicatie)-indeling met Aspose.Imaging voor .NET-bibliotheek" %}}
+<p align=justify>Met behulp van de Aspose.Imaging-bibliotheek kunt u verschillende afbeeldingsindelingen programmatisch converteren naar DICOM afbeelding. DICOM is de afkorting voor Digital Imaging and Communications in Medicine en heeft betrekking op het vakgebied Medische Informatica. DICOM is de combinatie van bestandsformaatdefinitie en een netwerkcommunicatieprotocol. DICOM gebruikt de .DCM-extensie. .DCM bestaat in twee verschillende formaten, namelijk formaat 1.x en formaat 2.x. DCM Format 1.x is verder beschikbaar in twee versies normaal en uitgebreid. DICOM wordt gebruikt voor de integratie van medische beeldvormingsapparatuur zoals printers, servers, scanners enz. van verschillende leveranciers en bevat ook identificatiegegevens van elke patiënt voor uniekheid. DICOM-bestanden kunnen tussen twee partijen worden gedeeld als ze beeldgegevens in DICOM-indeling kunnen ontvangen. Het communicatiegedeelte van DICOM is een applicatielaagprotocol en gebruikt TCP/IP om te communiceren tussen entiteiten. Voor de webservices van DICOM worden HTTP- en HTTPS-protocollen gebruikt. Door webservices ondersteunde versies zijn 1.0, 1.1, 2 of hoger.</p>
 <br/>
 De volgende conversies worden ondersteund:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,21 +1,21 @@
 ﻿---
-title: แปลงจาก ODG เป็นรูปแบบอื่นผ่าน .NET 
+title: แปลงจาก ODG(รูปแบบการวาด Apache OpenOffice) เป็นรูปแบบอื่นผ่าน .NET image API 
 weight: 3920
 url: /th/net/conversion/from/odg 
 lang: th
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: เมื่อใช้ Aspose.Imaging คุณสามารถแปลงจาก ODG เป็นรูปแบบอื่นได้อย่างง่ายดาย
+description: เมื่อใช้ Aspose.Imaging คุณสามารถแปลงจาก ODG(รูปแบบการวาด Apache OpenOffice) เป็นรูปแบบอื่นได้อย่างง่ายดาย
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="การแปลงไฟล์รูปภาพจาก ODG ผ่าน .NET" h2="แปลงจาก ODG เป็นรูปแบบอื่น" downloadText="ดาวน์โหลด" >}}
+{{< blocks/products/pf/feature-page-header h1="การแปลงไฟล์อิมเมจจาก ODG(รูปแบบการวาด Apache OpenOffice) ผ่าน .NET image API" h2="แปลงจาก รูปแบบการวาด Apache OpenOffice เป็นรูปแบบอื่นโดยใช้ Aspose.Imaging API" downloadText="ดาวน์โหลด" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="รูปแบบภาพที่รองรับทั้งหมดที่จะแปลงจาก ODG" %}}
-Aspose.Imaging ช่วยให้การแปลงจำนวนมากโดยอัตโนมัติจาก ODG เป็นรูปแบบอื่นบนแพลตฟอร์ม .NET
+{{% blocks/products/pf/feature-page-section  h2="รูปแบบรูปภาพที่รองรับทั้งหมดที่จะแปลงจาก ODG(รูปแบบการวาด Apache OpenOffice)" %}}
+<p align=justify>Aspose.Imaging ช่วยให้การแปลงจำนวนมากโดยอัตโนมัติจาก ODG เป็นรูปแบบอื่นบนแพลตฟอร์ม .NET รูปแบบไฟล์ ODG ถูกใช้โดยแอปพลิเคชัน Draw ของ Apache OpenOffice เพื่อจัดเก็บองค์ประกอบการวาดเป็นภาพเวกเตอร์ เป็นไปตามข้อกำหนดรูปแบบไฟล์ XML ที่ร่างโดย Advancement of Structural Information Standards (OASIS) ODG แสดงภาพวาดเป็นภาพเวกเตอร์โดยใช้จุด เส้น และเส้นโค้ง นอกจาก OpenOffice แล้ว LibreOffice และแอปพลิเคชั่นอื่น ๆ ยังรองรับการทำงานกับรูปแบบไฟล์ ODG รูปแบบอื่นๆ ที่ OpenOffice รองรับ เช่น ODT, ODF, ODP และ ODS</p>
 <br/>
-รายการการแปลงที่รองรับทั้งหมด:
+รายการทั้งหมดของการแปลงที่รองรับจาก ODG:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

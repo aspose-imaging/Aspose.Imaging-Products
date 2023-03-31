@@ -1,21 +1,21 @@
 ﻿---
-title: แปลงจาก TIFF เป็นรูปแบบอื่นผ่าน .NET 
+title: แปลงจาก TIFF(รูปแบบภาพที่ติดแท็ก) เป็นรูปแบบอื่นผ่าน .NET image API 
 weight: 3920
 url: /th/net/conversion/from/tiff 
 lang: th
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: เมื่อใช้ Aspose.Imaging คุณสามารถแปลงจาก TIFF เป็นรูปแบบอื่นได้อย่างง่ายดาย
+description: เมื่อใช้ Aspose.Imaging คุณสามารถแปลงจาก TIFF(รูปแบบภาพที่ติดแท็ก) เป็นรูปแบบอื่นได้อย่างง่ายดาย
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="การแปลงไฟล์รูปภาพจาก TIFF ผ่าน .NET" h2="แปลงจาก TIFF เป็นรูปแบบอื่น" downloadText="ดาวน์โหลด" >}}
+{{< blocks/products/pf/feature-page-header h1="การแปลงไฟล์อิมเมจจาก TIFF(รูปแบบภาพที่ติดแท็ก) ผ่าน .NET image API" h2="แปลงจาก รูปแบบภาพที่ติดแท็ก เป็นรูปแบบอื่นโดยใช้ Aspose.Imaging API" downloadText="ดาวน์โหลด" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="รูปแบบภาพที่รองรับทั้งหมดที่จะแปลงจาก TIFF" %}}
-Aspose.Imaging ช่วยให้การแปลงจำนวนมากโดยอัตโนมัติจาก TIFF เป็นรูปแบบอื่นบนแพลตฟอร์ม .NET
+{{% blocks/products/pf/feature-page-section  h2="รูปแบบรูปภาพที่รองรับทั้งหมดที่จะแปลงจาก TIFF(รูปแบบภาพที่ติดแท็ก)" %}}
+<p align=justify>Aspose.Imaging ช่วยให้การแปลงจำนวนมากโดยอัตโนมัติจาก TIFF เป็นรูปแบบอื่นบนแพลตฟอร์ม .NET TIFF หรือ TIF ซึ่งเป็นรูปแบบไฟล์ภาพที่ติดแท็ก แสดงถึงภาพแรสเตอร์ที่มีไว้สำหรับการใช้งานบนอุปกรณ์ต่างๆ ที่สอดคล้องกับมาตรฐานรูปแบบไฟล์นี้ สามารถอธิบายข้อมูลภาพสองระดับ ระดับสีเทา สีจานสี และสีเต็มในพื้นที่สีต่างๆ รองรับรูปแบบการบีบอัดแบบ lossy และ lossless เพื่อเลือกระหว่างพื้นที่และเวลาสำหรับแอปพลิเคชันที่ใช้รูปแบบ รูปแบบนี้ขยายได้และมีการแก้ไขหลายครั้งที่อนุญาตให้รวมข้อมูลส่วนตัวหรือข้อมูลวัตถุประสงค์พิเศษได้ไม่จำกัดจำนวน รูปแบบไม่ขึ้นกับเครื่องและปราศจากขอบเขต เช่น โปรเซสเซอร์ ระบบปฏิบัติการ หรือระบบไฟล์</p>
 <br/>
-รายการการแปลงที่รองรับทั้งหมด:
+รายการทั้งหมดของการแปลงที่รองรับจาก TIFF:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

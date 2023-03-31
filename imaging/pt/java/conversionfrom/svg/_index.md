@@ -1,20 +1,20 @@
 ﻿---
-title: Converta de SVG para outros formatos suportados usando Aspose.Imaging for Java 
+title: Converta de SVG(Gráficos vetoriais escalonáveis) para outros formatos suportados usando Aspose.Imaging for Java API 
 weight: 3920
 url: /pt/java/conversion/from/svg 
 lang: pt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging pode converter facilmente de SVG para outros formatos usando a plataforma Java
+description: Aspose.Imaging pode converter facilmente de SVG(Gráficos vetoriais escalonáveis) para outros formatos usando a plataforma Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converta imagens do formato SVG usando Aspose.Imaging para Java" h2="Converta do formato de imagem SVG para outros formatos usando a plataforma Java" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Converta imagens do formato SVG usando Aspose.Imaging para Java" h2="Converta do formato de imagem SVG(Gráficos vetoriais escalonáveis) para outros formatos usando a plataforma Java" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Amplo espectro de formatos de imagem que podem ser convertidos de imagens SVG usando Aspose.Imaging para Java" %}}
-Você pode converter programaticamente do formato SVG para outros formatos disponíveis usando
-Aspose.Imaging para Java.
+{{% blocks/products/pf/feature-page-section  h2="Amplo espectro de formatos de imagem que podem ser convertidos de imagens SVG(Gráficos vetoriais escalonáveis) usando Aspose.Imaging para Java" %}}
+<p align=justify>Você pode converter programaticamente do formato SVG para outros formatos disponíveis usando
+Aspose.Imaging para Java. Os arquivos SVG são arquivos gráficos vetoriais escaláveis ​​que usam o formato de texto baseado em XML para descrever a aparência da imagem. A palavra Escalável refere-se ao fato de que o SVG pode ser dimensionado para diferentes tamanhos sem perder qualidade. A descrição baseada em texto desses arquivos os torna independentes da resolução. É um dos formatos mais usados ​​para criar sites e imprimir gráficos para obter escalabilidade. O formato só pode ser usado para gráficos bidimensionais. Os arquivos SVG podem ser visualizados/abertos em quase todos os navegadores modernos, incluindo Chrome, Internet Explorer, Firefox e Safari.</p>
 <br/>
 Existem as seguintes conversões a bordo:
 {{% /blocks/products/pf/feature-page-section %}}

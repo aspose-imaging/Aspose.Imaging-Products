@@ -1,21 +1,21 @@
 ﻿---
-title: .NET Aracılığıyla PNG'ten diğer biçimlere dönüştürün 
+title: .NET görüntü API'sı aracılığıyla PNG(taşınabilir Ağ Grafikleri) biçimini diğer biçimlere dönüştürün 
 weight: 3920
 url: /tr/net/conversion/from/png 
 lang: tr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging'i kullanarak PNG biçimini kolayca başka biçimlere dönüştürebilirsiniz
+description: Aspose.Imaging'i kullanarak PNG(taşınabilir Ağ Grafikleri) biçimini kolayca başka biçimlere dönüştürebilirsiniz
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET Yoluyla PNG'den Görüntü Dosyaları Dönüştürme" h2="PNG biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET image API aracılığıyla PNG(taşınabilir Ağ Grafikleri)'den Görüntü Dosyaları Dönüşümü" h2="Aspose.Imaging API kullanarak taşınabilir Ağ Grafikleri formatını diğer formatlara dönüştürün" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="PNG'den dönüştürülecek desteklenen tüm resim biçimleri" %}}
-Aspose.Imaging, .NET platformunda PNG'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir.
+{{% blocks/products/pf/feature-page-section  h2="PNG(taşınabilir Ağ Grafikleri) biçiminden dönüştürülecek desteklenen tüm resim biçimleri" %}}
+<p align=justify>Aspose.Imaging, .NET platformunda PNG'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir. PNG, Taşınabilir Ağ Grafikleri, kayıpsız sıkıştırma kullanan bir tür raster görüntü dosyası biçimini ifade eder. Bu dosya biçimi, Grafik Değişim Biçimi'nin (GIF) yerini almak üzere oluşturulmuştur ve herhangi bir telif hakkı sınırlaması yoktur. Ancak PNG dosya formatı animasyonları desteklemez. PNG dosya formatı, onu kullanıcıları arasında popüler kılan kayıpsız görüntü sıkıştırmayı destekler. Zaman geçtikçe PNG, en çok kullanılan resim dosyası formatlarından biri olarak gelişti. Hemen hemen tüm İşletim Sistemleri PNG dosyalarını açma desteğine sahiptir. Örneğin, işletim sisteminin varsayılan olarak kurulumun bir parçası olarak sunulan desteğe sahip olduğu gibi, Microsoft Windows görüntüleyici PNG dosyalarını açma özelliğine sahiptir.</p>
 <br/>
-Desteklenen dönüşümlerin tam listesi:
+PNG tarafından desteklenen dönüşümlerin tam listesi:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

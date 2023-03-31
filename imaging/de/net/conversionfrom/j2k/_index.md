@@ -1,21 +1,21 @@
 ﻿---
-title: Convertir de J2K vers d'autres formats via .NET 
+title: Konvertieren Sie von J2K(Wavelet-komprimiertes Bild) in andere Formate über die Bild-API von .NET 
 weight: 3920
 url: /de/net/conversion/from/j2k 
 lang: de
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Mit Aspose.Imaging können Sie ganz einfach von J2K in andere Formate konvertieren
+description: Mit Aspose.Imaging können Sie ganz einfach von J2K(Wavelet-komprimiertes Bild) in andere Formate konvertieren
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertierung von Bilddateien von J2K über .NET" h2="Konvertieren Sie von J2K in andere Formate" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertierung von Bilddateien aus J2K (Wavelet-komprimiertes Bild) über die Bild-API von .NET" h2="Konvertieren Sie mithilfe der Aspose.Imaging-API von Wavelet-komprimiertes Bild in andere Formate" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bildformate zum Konvertieren von J2K" %}}
-Aspose.Imaging ermöglicht die Automatisierung vieler Konvertierungen von J2K in andere Formate auf der .NET-Plattform.
+{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bildformate zum Konvertieren von J2K(Wavelet-komprimiertes Bild)" %}}
+<p align=justify>Aspose.Imaging ermöglicht die Automatisierung vieler Konvertierungen von J2K in andere Formate auf der .NET-Plattform. Eine J2K-Datei ist ein Bild, das mit der Wavelet-Komprimierung anstelle der DCT-Komprimierung komprimiert wird.</p>
 <br/>
-Vollständige Liste der unterstützten Konvertierungen:
+Vollständige Liste der unterstützten Konvertierungen von J2K:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

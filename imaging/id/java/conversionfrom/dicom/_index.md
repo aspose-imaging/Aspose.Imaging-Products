@@ -1,20 +1,20 @@
 ﻿---
-title: Konversikan dari DICOM ke format lain yang didukung menggunakan Aspose.Imaging untuk Java 
+title: Konversikan dari DICOM(Pencitraan & Komunikasi Digital) ke format lain yang didukung menggunakan Aspose.Imaging untuk Java API 
 weight: 3920
 url: /id/java/conversion/from/dicom 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging dapat dengan mudah mengonversi dari DICOM ke format lain menggunakan platform Java
+description: Aspose.Imaging dapat dengan mudah mengonversi dari DICOM(Pencitraan & Komunikasi Digital) ke format lain menggunakan platform Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversikan gambar dari format DICOM menggunakan Aspose.Imaging untuk Java" h2="Konversi dari format gambar DICOM ke format lain menggunakan platform Java" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversikan gambar dari format DICOM menggunakan Aspose.Imaging untuk Java" h2="Konversi dari format gambar DICOM(Pencitraan & Komunikasi Digital) ke format lain menggunakan platform Java" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Spektrum luas format gambar yang dapat dikonversi dari gambar DICOM menggunakan Aspose.Imaging untuk Java" %}}
-Anda dapat secara terprogram mengonversi dari format DICOM ke format lain yang tersedia menggunakan
-Aspose.Imaging untuk Java.
+{{% blocks/products/pf/feature-page-section  h2="Spektrum luas format gambar yang dapat dikonversi dari gambar DICOM(Pencitraan & Komunikasi Digital) menggunakan Aspose.Imaging untuk Java" %}}
+<p align=justify>Anda dapat secara terprogram mengonversi dari format DICOM ke format lain yang tersedia menggunakan
+Aspose.Imaging untuk Java. DICOM adalah singkatan dari Digital Imaging and Communications in Medicine dan berkaitan dengan bidang Informatika Medis. DICOM adalah kombinasi definisi format file dan protokol komunikasi jaringan. DICOM menggunakan ekstensi .DCM. .DCM ada dalam dua format yang berbeda yaitu format 1.x dan format 2.x. DCM Format 1.x selanjutnya tersedia dalam dua versi normal dan diperpanjang. DICOM digunakan untuk integrasi perangkat pencitraan medis seperti printer, server, pemindai dll dari berbagai vendor dan juga berisi data identifikasi setiap pasien untuk keunikan. File DICOM dapat dibagi antara dua pihak jika mereka mampu menerima data gambar dalam format DICOM. Bagian komunikasi DICOM adalah protokol lapisan aplikasi dan menggunakan TCP/IP untuk berkomunikasi antar entitas. Protokol HTTP dan HTTPS digunakan untuk layanan web DICOM. Versi yang didukung oleh layanan web adalah 1.0, 1.1, 2 atau yang lebih baru.</p>
 <br/>
 Ada konversi berikut di pesawat:
 {{% /blocks/products/pf/feature-page-section %}}

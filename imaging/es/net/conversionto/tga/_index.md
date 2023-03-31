@@ -1,19 +1,19 @@
 ﻿---
-title: Convierta imágenes al formato de imagen TGA desde otros formatos compatibles utilizando la plataforma .NET 
+title: Convierta imágenes al formato de imagen TGA(Gráfico Targa) desde otros formatos compatibles utilizando la plataforma .NET 
 weight: 3920
 url: /es/net/conversion/to/tga 
 lang: es
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging para la biblioteca .NET, es fácil convertir a TGA desde otros formatos de imagen compatibles
+description: Usando Aspose.Imaging para la biblioteca .NET, es fácil convertir a TGA(Gráfico Targa) desde otros formatos de imagen compatibles
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convierta archivos de imagen a formato de imagen TGA utilizando la plataforma .NET" h2="Convierta al formato TGA desde otros formatos usando Aspose.Imaging para la biblioteca .NET" downloadText="Descargar" >}}
+{{< blocks/products/pf/feature-page-header h1="Convierta archivos de imagen a formato de imagen TGA(Gráfico Targa) utilizando la plataforma .NET" h2="Convierta al formato Gráfico Targa desde otros formatos usando Aspose.Imaging para la biblioteca .NET" downloadText="Descargar" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todas las conversiones admitidas al formato TGA usando Aspose.Imaging para la biblioteca .NET" %}}
-Con la biblioteca Aspose.Imaging, puede convertir mediante programación varios formatos de imagen a la imagen TGA.
+{{% blocks/products/pf/feature-page-section  h2="Todas las conversiones admitidas al formato TGA(Gráfico Targa) usando Aspose.Imaging para la biblioteca .NET" %}}
+<p align=justify>Con la biblioteca Aspose.Imaging, puede convertir mediante programación varios formatos de imagen a la imagen TGA. Truevision TGA, a menudo denominado TARGA, es un formato de archivo de gráficos de trama creado por Truevision Inc. (ahora parte de Avid Technology). Era el formato nativo de las placas TARGA y VISTA, que fueron las primeras tarjetas gráficas para PC compatibles con IBM que admitían pantallas Highcolor/truecolor. </p>
 <br/>
 Se admiten las siguientes conversiones:
 {{% /blocks/products/pf/feature-page-section %}}

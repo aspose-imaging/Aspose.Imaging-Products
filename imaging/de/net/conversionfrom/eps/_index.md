@@ -1,21 +1,21 @@
 ﻿---
-title: Convertir de EPS vers d'autres formats via .NET 
+title: Konvertieren Sie von EPS(Gekapselte PostScript-Sprache) in andere Formate über die Bild-API von .NET 
 weight: 3920
 url: /de/net/conversion/from/eps 
 lang: de
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Mit Aspose.Imaging können Sie ganz einfach von EPS in andere Formate konvertieren
+description: Mit Aspose.Imaging können Sie ganz einfach von EPS(Gekapselte PostScript-Sprache) in andere Formate konvertieren
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertierung von Bilddateien von EPS über .NET" h2="Konvertieren Sie von EPS in andere Formate" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertierung von Bilddateien aus EPS (Gekapselte PostScript-Sprache) über die Bild-API von .NET" h2="Konvertieren Sie mithilfe der Aspose.Imaging-API von Gekapselte PostScript-Sprache in andere Formate" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bildformate zum Konvertieren von EPS" %}}
-Aspose.Imaging ermöglicht die Automatisierung vieler Konvertierungen von EPS in andere Formate auf der .NET-Plattform.
+{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bildformate zum Konvertieren von EPS(Gekapselte PostScript-Sprache)" %}}
+<p align=justify>Aspose.Imaging ermöglicht die Automatisierung vieler Konvertierungen von EPS in andere Formate auf der .NET-Plattform. Dateien mit der Erweiterung EPS beschreiben im Wesentlichen ein Encapsulated PostScript-Sprachprogramm, das das Erscheinungsbild einer einzelnen Seite beschreibt. Der Name "Encapsulated", weil er in eine Seitenbeschreibung einer anderen PostScript-Sprache eingeschlossen oder eingekapselt werden kann. Dieses skriptbasierte Dateiformat kann eine beliebige Kombination aus Text, Grafiken und Bildern enthalten. EPS-Dateien können ein eingekapseltes Bitmap-Vorschaubild enthalten, das von Anwendungen angezeigt werden kann, die solche Dateien öffnen können. EPS-Dateien können mit verschiedenen Anwendungen in Standard-Bildformate wie JPG, PNG, TIFF und PDF konvertiert werden, z. Adobe Illustrator, Photoshop und Paint Shop Pro. Aufgrund einer Sicherheitslücke in EPS-Dateien haben Office 2016, Office 2013, Office 2010 und Office 365 die Möglichkeit zum Einfügen von EPS-Dateien in Office-Dokumente deaktiviert.</p>
 <br/>
-Vollständige Liste der unterstützten Konvertierungen:
+Vollständige Liste der unterstützten Konvertierungen von EPS:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

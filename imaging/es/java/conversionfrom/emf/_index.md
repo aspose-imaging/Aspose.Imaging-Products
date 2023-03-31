@@ -1,20 +1,20 @@
 ﻿---
-title: Convierta de EMF a otros formatos admitidos usando Aspose.Imaging para Java 
+title: Convierta de EMF(Formato de metarchivo mejorado) a otros formatos admitidos usando Aspose.Imaging para Java API. 
 weight: 3920
 url: /es/java/conversion/from/emf 
 lang: es
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging puede convertir fácilmente de EMF a otros formatos usando la plataforma Java
+description: Aspose.Imaging puede convertir fácilmente de EMF(Formato de metarchivo mejorado) a otros formatos usando la plataforma Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convierta imágenes del formato EMF usando Aspose.Imaging para Java" h2="Convierta del formato de imagen EMF a otros formatos utilizando la plataforma Java" downloadText="Descargar" >}}
+{{< blocks/products/pf/feature-page-header h1="Convierta imágenes del formato EMF usando Aspose.Imaging para Java" h2="Convierta del formato de imagen EMF(Formato de metarchivo mejorado) a otros formatos utilizando la plataforma Java" downloadText="Descargar" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Amplio espectro de formatos de imagen que se pueden convertir a partir de imágenes EMF usando Aspose.Imaging para Java" %}}
-Puede convertir programáticamente del formato EMF a otros formatos disponibles usando
-Aspose. Imaging para Java.
+{{% blocks/products/pf/feature-page-section  h2="Amplio espectro de formatos de imagen que se pueden convertir a partir de imágenes EMF(Formato de metarchivo mejorado) usando Aspose.Imaging para Java" %}}
+<p align=justify>Puede convertir programáticamente del formato EMF a otros formatos disponibles usando
+Aspose. Imaging para Java. El formato de metarchivo mejorado (EMF) almacena imágenes gráficas de forma independiente del dispositivo. Los metarchivos de EMF se componen de registros de longitud variable en orden cronológico que pueden representar la imagen almacenada después de analizarla en cualquier dispositivo de salida. Estos registros de longitud variable pueden ser definiciones de objetos encerrados, comandos para dibujar y propiedades gráficas críticas para representar la imagen con precisión. Cuando un dispositivo abre un metarchivo EMF utilizando su propio entorno de gráficos, las proporciones, dimensiones, colores y otras propiedades gráficas de la imagen original siguen siendo las mismas independientemente de la plataforma del dispositivo de apertura.</p>
 <br/>
 Hay las siguientes conversiones a bordo:
 {{% /blocks/products/pf/feature-page-section %}}

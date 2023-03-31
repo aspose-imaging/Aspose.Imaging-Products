@@ -1,19 +1,19 @@
 ﻿---
-title: Converti immagini in formato immagine BMP da altri formati supportati utilizzando la piattaforma .NET 
+title: Converti immagini in formato immagine BMP(Immagine bitmap) da altri formati supportati utilizzando la piattaforma .NET 
 weight: 3920
 url: /it/net/conversion/to/bmp 
 lang: it
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Utilizzando Aspose.Imaging per la libreria .NET è facile convertire in BMP da altri formati di immagine supportati
+description: Utilizzando Aspose.Imaging per la libreria .NET è facile convertire in BMP(Immagine bitmap) da altri formati di immagine supportati
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converti file immagine in formato immagine BMP utilizzando la piattaforma .NET" h2="Converti in formato BMP da altri formati utilizzando Aspose.Imaging per la libreria .NET" downloadText="Scarica" >}}
+{{< blocks/products/pf/feature-page-header h1="Converti file immagine in formato immagine BMP(Immagine bitmap) utilizzando la piattaforma .NET" h2="Converti in formato Immagine bitmap da altri formati utilizzando Aspose.Imaging per la libreria .NET" downloadText="Scarica" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tutte le conversioni supportate nel formato BMP utilizzando Aspose.Imaging per la libreria .NET" %}}
-Utilizzando la libreria Aspose.Imaging è possibile convertire in modo programmatico vari formati di immagine in BMP image.
+{{% blocks/products/pf/feature-page-section  h2="Tutte le conversioni supportate nel formato BMP(Immagine bitmap) utilizzando Aspose.Imaging per la libreria .NET" %}}
+<p align=justify>Utilizzando la libreria Aspose.Imaging è possibile convertire in modo programmatico vari formati di immagine in BMP image. I file con estensione .BMP rappresentano file di immagine bitmap che vengono utilizzati per memorizzare immagini digitali bitmap. Queste immagini sono indipendenti dalla scheda grafica e sono anche chiamate formato file DIB (Device Independent Bitmap). Questa indipendenza serve allo scopo di aprire il file su più piattaforme come Microsoft Windows e Mac. Il formato file BMP può memorizzare dati come immagini digitali bidimensionali sia in formato monocromatico che a colori con varie profondità di colore.</p>
 <br/>
 Sono supportate le seguenti conversioni:
 {{% /blocks/products/pf/feature-page-section %}}

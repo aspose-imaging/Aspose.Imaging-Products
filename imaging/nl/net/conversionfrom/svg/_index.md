@@ -1,21 +1,21 @@
 ﻿---
-title: Converteren van SVG naar andere formaten Via .NET 
+title: Converteer van SVG(Schaalbare vectorafbeeldingen) naar andere formaten via de .NET afbeeldings-API 
 weight: 3920
 url: /nl/net/conversion/from/svg 
 lang: nl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Met behulp van Aspose.Imaging kunt u eenvoudig converteren van SVG naar een ander formaat
+description: Met behulp van Aspose.Imaging kunt u eenvoudig converteren van SVG(Schaalbare vectorafbeeldingen) naar een ander formaat
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversie van afbeeldingsbestanden van SVG via .NET" h2="Converteer van SVG naar een ander formaat" downloadText="Downloaden" >}}
+{{< blocks/products/pf/feature-page-header h1="Afbeeldingsbestanden Conversie van SVG(Schaalbare vectorafbeeldingen) via .NET afbeeldings-API" h2="Converteer van Schaalbare vectorafbeeldingen naar andere formaten met behulp van de Aspose.Imaging API" downloadText="Downloaden" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde afbeeldingsindelingen om te converteren van SVG" %}}
-Aspose.Imaging maakt het mogelijk veel conversies van SVG naar andere formaten op het .NET-platform te automatiseren.
+{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde afbeeldingsindelingen om te converteren van SVG(Schaalbare vectorafbeeldingen)" %}}
+<p align=justify>Aspose.Imaging maakt het mogelijk veel conversies van SVG naar andere formaten op het .NET-platform te automatiseren. SVG-bestanden zijn schaalbare vectorafbeeldingsbestanden die op XML gebaseerde tekstindeling gebruiken om het uiterlijk van de afbeelding te beschrijven. Het woord Scalable verwijst naar het feit dat de SVG kan worden geschaald naar verschillende formaten zonder kwaliteitsverlies. Op tekst gebaseerde beschrijving van dergelijke bestanden maakt ze onafhankelijk van resolutie. Het is een van de meest gebruikte formaten voor het bouwen van website- en printafbeeldingen om schaalbaarheid te bereiken. Het formaat kan echter alleen worden gebruikt voor tweedimensionale afbeeldingen. SVG-bestanden kunnen worden bekeken/geopend in bijna alle moderne browsers, waaronder Chrome, Internet Explorer, Firefox en Safari.</p>
 <br/>
-Volledige lijst met ondersteunde conversies:
+Volledige lijst met ondersteunde conversies van SVG:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

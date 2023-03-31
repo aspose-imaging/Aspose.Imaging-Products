@@ -1,19 +1,19 @@
 ﻿---
-title: Konvertera bilder till PNG-bildformat från andra format som stöds med .NET-plattformen 
+title: Konvertera bilder till PNG(Bärbar nätverksgrafik)-bildformat från andra format som stöds med .NET-plattformen 
 weight: 3920
 url: /sv/net/conversion/to/png 
 lang: sv
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Med Aspose.Imaging för .NET-bibliotek är det lätt att konvertera till PNG från andra bildformat som stöds
+description: Med Aspose.Imaging för .NET-bibliotek är det lätt att konvertera till PNG(Bärbar nätverksgrafik) från andra bildformat som stöds
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertera bildfiler till bildformatet PNG med .NET-plattformen" h2="Konvertera till PNG-format från andra format med Aspose.Imaging för .NET-bibliotek" downloadText="Ladda ner" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertera bildfiler till bildformatet PNG(Bärbar nätverksgrafik) med .NET-plattformen" h2="Konvertera till Bärbar nätverksgrafik-format från andra format med Aspose.Imaging för .NET-bibliotek" downloadText="Ladda ner" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alla omvandlingar som stöds till PNG-format med Aspose.Imaging för .NET-bibliotek" %}}
-Med hjälp av Aspose.Imaging-biblioteket kan du programmatiskt konvertera olika bildformat till PNG-bild.
+{{% blocks/products/pf/feature-page-section  h2="Alla omvandlingar som stöds till PNG(Bärbar nätverksgrafik)-format med Aspose.Imaging för .NET-bibliotek" %}}
+<p align=justify>Med hjälp av Aspose.Imaging-biblioteket kan du programmatiskt konvertera olika bildformat till PNG-bild. PNG, Portable Network Graphics, hänvisar till en typ av rasterbildsfilformat som använder förlustfri komprimering. Det här filformatet skapades som en ersättning för Graphics Interchange Format (GIF) och har inga upphovsrättsliga begränsningar. PNG-filformat stöder dock inte animationer. PNG-filformatet stöder förlustfri bildkomprimering som gör det populärt bland sina användare. Med tidens gång har PNG utvecklats till ett av de mest använda bildfilformaten. Nästan alla operativsystem har stöd för att öppna PNG-filer. Till exempel har Microsoft Windows Viewer förmågan att öppna PNG-filer eftersom operativsystemet som standard har stödet tillgängligt som en del av installationen.</p>
 <br/>
 Följande konverteringar stöds:
 {{% /blocks/products/pf/feature-page-section %}}

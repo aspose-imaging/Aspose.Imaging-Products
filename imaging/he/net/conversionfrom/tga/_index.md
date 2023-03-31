@@ -1,21 +1,21 @@
 ﻿---
-title: המר מ-TGA לפורמטים אחרים דרך .NET 
+title: המר מ-TGA(טארגה גרפיקה) לפורמטים אחרים באמצעות API של תמונה של .NET 
 weight: 3920
 url: /he/net/conversion/from/tga 
 lang: he
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: באמצעות Aspose.Imaging תוכל להמיר בקלות מ-TGA לפורמט אחר
+description: באמצעות Aspose.Imaging תוכל להמיר בקלות מ- TGA(טארגה גרפיקה) לפורמט אחר
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה מ-TGA דרך .NET" h2="המר מ-TGA לפורמט אחר" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה מ-TGA(טארגה גרפיקה) באמצעות API של תמונה של .NET" h2="המר מ-טארגה גרפיקה לפורמטים אחרים באמצעות Aspose.Imaging API" downloadText="הורד" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה מ-TGA" %}}
-Aspose.Imaging מאפשר לבצע אוטומציה של המרות רבות מ-TGA לפורמטים אחרים בפלטפורמת NET.
+{{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה מ-TGA(טארגה גרפיקה)" %}}
+<p align=justify>Aspose.Imaging מאפשר לבצע אוטומציה של המרות רבות מ-TGA לפורמטים אחרים בפלטפורמת NET. Truevision TGA, המכונה לעתים קרובות TARGA, הוא פורמט קובץ גרפי רסטר שנוצר על ידי Truevision Inc. (כיום חלק מ-Avid Technology). זה היה הפורמט המקורי של לוחות TARGA ו-VISTA, שהיו הכרטיסים הגרפיים הראשונים למחשבים תואמי IBM שתמכו בתצוגה Highcolor/Truecolor.</p>
 <br/>
-רשימה מלאה של המרות נתמכות:
+רשימה מלאה של המרות נתמכות מ-TGA:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

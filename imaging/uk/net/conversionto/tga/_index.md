@@ -1,19 +1,19 @@
 ﻿---
-title: Перетворіть зображення у формат TGA з інших підтримуваних форматів за допомогою платформи .NET 
+title: Перетворіть зображення у формат TGA(Targa Graphic) з інших підтримуваних форматів за допомогою платформи .NET 
 weight: 3920
 url: /uk/net/conversion/to/tga 
 lang: uk
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: За допомогою бібліотеки Aspose.Imaging для .NET можна легко конвертувати в TGA інші підтримувані формати зображень
+description: За допомогою бібліотеки Aspose.Imaging для .NET можна легко конвертувати в TGA(Targa Graphic) інші підтримувані формати зображень
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Перетворюйте файли зображень у формат зображення TGA за допомогою платформи .NET" h2="Перетворіть у формат TGA інші формати за допомогою бібліотеки Aspose.Imaging для .NET" downloadText="Завантажити" >}}
+{{< blocks/products/pf/feature-page-header h1="Перетворюйте файли зображень у формат зображення TGA(Targa Graphic) за допомогою платформи .NET" h2="Перетворіть у формат Targa Graphic інші формати за допомогою бібліотеки Aspose.Imaging для .NET" downloadText="Завантажити" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані перетворення у формат TGA за допомогою бібліотеки Aspose.Imaging для .NET" %}}
-Використовуючи бібліотеку Aspose.Imaging, ви можете програмно конвертувати різні формати зображень у зображення TGA.
+{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані перетворення у формат TGA(Targa Graphic) за допомогою бібліотеки Aspose.Imaging для .NET" %}}
+<p align=justify>Використовуючи бібліотеку Aspose.Imaging, ви можете програмно конвертувати різні формати зображень у зображення TGA. Truevision TGA, який часто називають TARGA, — це формат файлів растрової графіки, створений компанією Truevision Inc. (зараз є частиною Avid Technology). Це був рідний формат плат TARGA і VISTA, які були першими графічними картами для IBM-сумісних ПК, які підтримували відображення Highcolor/truecolor. </p>
 <br/>
 Підтримуються наступні перетворення:
 {{% /blocks/products/pf/feature-page-section %}}

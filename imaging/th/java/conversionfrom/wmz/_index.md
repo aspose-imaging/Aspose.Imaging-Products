@@ -1,20 +1,20 @@
 ﻿---
-title: แปลงจาก WMZ เป็นรูปแบบอื่นที่รองรับโดยใช้ Aspose.Imaging สำหรับ Java 
+title: แปลงจาก WMZ(สกิน Windows Media Player ที่บีบอัด) เป็นรูปแบบอื่นที่รองรับโดยใช้ Aspose.Imaging สำหรับ Java API 
 weight: 3920
 url: /th/java/conversion/from/wmz 
 lang: th
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging สามารถแปลงจาก WMZ เป็นรูปแบบอื่นได้อย่างง่ายดายโดยใช้แพลตฟอร์ม Java
+description: Aspose.Imaging สามารถแปลงจาก WMZ(สกิน Windows Media Player ที่บีบอัด) เป็นรูปแบบอื่นได้อย่างง่ายดายโดยใช้แพลตฟอร์ม Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="แปลงรูปภาพจากรูปแบบ WMZ โดยใช้ Aspose.Imaging สำหรับ Java" h2="แปลงจากรูปแบบภาพ WMZ เป็นรูปแบบอื่นโดยใช้แพลตฟอร์ม Java" downloadText="ดาวน์โหลด" >}}
+{{< blocks/products/pf/feature-page-header h1="แปลงรูปภาพจากรูปแบบ WMZ โดยใช้ Aspose.Imaging สำหรับ Java" h2="แปลงจากรูปแบบภาพ WMZ(สกิน Windows Media Player ที่บีบอัด) เป็นรูปแบบอื่นโดยใช้แพลตฟอร์ม Java" downloadText="ดาวน์โหลด" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="รูปแบบรูปภาพที่หลากหลายที่สามารถแปลงจากรูปภาพ WMZ โดยใช้ Aspose.Imaging สำหรับ Java" %}}
-คุณสามารถแปลงจากรูปแบบ WMZ เป็นรูปแบบอื่นที่ใช้ได้โดยใช้โปรแกรม
-Aspose.Imaging สำหรับ Java
+{{% blocks/products/pf/feature-page-section  h2="รูปแบบรูปภาพที่หลากหลายที่สามารถแปลงจากรูปภาพ WMZ(สกิน Windows Media Player ที่บีบอัด) โดยใช้ Aspose.Imaging สำหรับ Java" %}}
+<p align=justify>คุณสามารถแปลงจากรูปแบบ WMZ เป็นรูปแบบอื่นที่ใช้ได้โดยใช้โปรแกรม
+Aspose.Imaging สำหรับ Java WMZ เป็นนามสกุลไฟล์สำหรับรูปแบบไฟล์สกินใน/สำหรับ/ใช้โดย Windows Media Player ไฟล์ WMZ นั้นเป็นไฟล์ WMF ที่บีบอัดในรูปแบบ XML</p>
 <br/>
 มีการแปลงต่อไปนี้บนกระดาน:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,19 +1,19 @@
 ﻿---
-title: Converti immagini in formato immagine PSD da altri formati supportati utilizzando la piattaforma .NET 
+title: Converti immagini in formato immagine PSD(Documento Photoshop) da altri formati supportati utilizzando la piattaforma .NET 
 weight: 3920
 url: /it/net/conversion/to/psd 
 lang: it
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Utilizzando Aspose.Imaging per la libreria .NET è facile convertire in PSD da altri formati di immagine supportati
+description: Utilizzando Aspose.Imaging per la libreria .NET è facile convertire in PSD(Documento Photoshop) da altri formati di immagine supportati
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converti file immagine in formato immagine PSD utilizzando la piattaforma .NET" h2="Converti in formato PSD da altri formati utilizzando Aspose.Imaging per la libreria .NET" downloadText="Scarica" >}}
+{{< blocks/products/pf/feature-page-header h1="Converti file immagine in formato immagine PSD(Documento Photoshop) utilizzando la piattaforma .NET" h2="Converti in formato Documento Photoshop da altri formati utilizzando Aspose.Imaging per la libreria .NET" downloadText="Scarica" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tutte le conversioni supportate nel formato PSD utilizzando Aspose.Imaging per la libreria .NET" %}}
-Utilizzando la libreria Aspose.Imaging è possibile convertire in modo programmatico vari formati di immagine in PSD image.
+{{% blocks/products/pf/feature-page-section  h2="Tutte le conversioni supportate nel formato PSD(Documento Photoshop) utilizzando Aspose.Imaging per la libreria .NET" %}}
+<p align=justify>Utilizzando la libreria Aspose.Imaging è possibile convertire in modo programmatico vari formati di immagine in PSD image. PSD, Photoshop Document, rappresenta il formato di file nativo di Adobe Photoshop utilizzato per la progettazione e lo sviluppo della grafica. I file PSD possono includere livelli di immagine, livelli di regolazione, maschere di livello, annotazioni, informazioni sui file, parole chiave e altri elementi specifici di Photoshop.</p>
 <br/>
 Sono supportate le seguenti conversioni:
 {{% /blocks/products/pf/feature-page-section %}}

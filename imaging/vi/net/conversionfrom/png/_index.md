@@ -1,21 +1,21 @@
 ﻿---
-title: Chuyển đổi từ PNG sang các định dạng khác Qua .NET 
+title: Chuyển đổi từ PNG(Biểu đồ minh họa mạng lưới không dây) sang các định dạng khác Qua API hình ảnh .NET 
 weight: 3920
 url: /vi/net/conversion/from/png 
 lang: vi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng chuyển đổi từ PNG sang các định dạng khác
+description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng chuyển đổi từ PNG(Biểu đồ minh họa mạng lưới không dây) sang các định dạng khác
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Chuyển đổi tệp hình ảnh từ PNG qua .NET" h2="Chuyển đổi từ PNG sang định dạng khác" downloadText="Tải xuống" >}}
+{{< blocks/products/pf/feature-page-header h1="Chuyển đổi tệp hình ảnh từ PNG(Biểu đồ minh họa mạng lưới không dây) qua API hình ảnh .NET" h2="Chuyển đổi từ Biểu đồ minh họa mạng lưới không dây sang các định dạng khác bằng API Aspose.Imaging" downloadText="Tải xuống" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tất cả các định dạng hình ảnh được hỗ trợ để chuyển đổi từ PNG" %}}
-Aspose.Imaging cho phép tự động hóa rất nhiều chuyển đổi từ PNG sang các định dạng khác trên nền tảng .NET.
+{{% blocks/products/pf/feature-page-section  h2="Tất cả các định dạng hình ảnh được hỗ trợ để chuyển đổi từ PNG(Biểu đồ minh họa mạng lưới không dây)" %}}
+<p align=justify>Aspose.Imaging cho phép tự động hóa rất nhiều chuyển đổi từ PNG sang các định dạng khác trên nền tảng .NET. PNG, Đồ họa mạng di động, đề cập đến một loại định dạng tệp hình ảnh raster sử dụng tính năng nén không có lỗ. Định dạng tệp này được tạo để thay thế cho Định dạng trao đổi đồ họa (GIF) và không có giới hạn bản quyền. Tuy nhiên, định dạng tệp PNG không hỗ trợ hình ảnh động. Định dạng tệp PNG hỗ trợ nén hình ảnh vô tận khiến nó trở nên phổ biến đối với người dùng. Theo thời gian, PNG đã phát triển như một trong những định dạng tệp hình ảnh được sử dụng nhiều nhất. Hầu hết tất cả các Hệ điều hành đều có hỗ trợ mở tệp PNG. Ví dụ, trình xem Microsoft Windows có khả năng mở tệp PNG vì theo mặc định, hệ điều hành có hỗ trợ sẵn có như một phần của quá trình cài đặt.</p>
 <br/>
-Danh sách đầy đủ các chuyển đổi được hỗ trợ:
+Danh sách đầy đủ các chuyển đổi được hỗ trợ từ PNG:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -1,21 +1,21 @@
 ﻿---
-title: Конвертувати з JPEG2000 в інші формати за допомогою .NET 
+title: Перетворення з JPEG2000(JPEG 2000) в інші формати за допомогою API зображень .NET 
 weight: 3920
 url: /uk/net/conversion/from/jpeg2000 
 lang: uk
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: За допомогою Aspose.Imaging ви можете легко конвертувати з JPEG2000 в інші формати
+description: За допомогою Aspose.Imaging ви можете легко конвертувати з JPEG2000(JPEG 2000) в інші формати
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Перетворення файлів зображень з JPEG2000 за допомогою .NET" h2="Конвертувати з JPEG2000 в інші формати" downloadText="Завантажити" >}}
+{{< blocks/products/pf/feature-page-header h1="Перетворення файлів зображень із JPEG2000(JPEG 2000) через API зображень .NET" h2="Перетворюйте з JPEG 2000 в інші формати за допомогою API Aspose.Imaging" downloadText="Завантажити" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для конвертації з JPEG2000" %}}
-Aspose.Imaging дозволяє автоматизувати багато перетворень із JPEG2000 в інші формати на платформі .NET.
+{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для конвертації з JPEG2000(JPEG 2000)" %}}
+<p align=justify>Aspose.Imaging дозволяє автоматизувати багато перетворень із JPEG2000 в інші формати на платформі .NET. JPEG 2000 (JP2) — це система кодування зображень і сучасний стандарт стиснення зображень. Розроблений із використанням вейвлет-технології JPEG 2000 може кодувати вміст без втрат у будь-якій якості одночасно. Крім того, без суттєвого зниження ефективності кодування JPEG 2000 має можливість отримувати доступ і ефективно декодувати той самий вміст у різні інші роздільності та якості. Потоки коду в JPEG 2000 є значно масштабованими, маючи області інтересу, які забезпечують можливість просторового довільного доступу. Має до 16384 різноманітних компонентів із розмірами в терапікселях і точністю до 38 біт/зразок.</p>
 <br/>
-Повний список підтримуваних конвертацій:
+Повний список підтримуваних конвертацій із JPEG2000:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

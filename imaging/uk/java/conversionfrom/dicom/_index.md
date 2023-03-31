@@ -1,20 +1,20 @@
 ﻿---
-title: Перетворюйте з DICOM в інші підтримувані формати за допомогою Aspose.Imaging для Java 
+title: Перетворюйте з DICOM(Цифрові зображення та комунікації) в інші підтримувані формати за допомогою Aspose.Imaging for Java API 
 weight: 3920
 url: /uk/java/conversion/from/dicom 
 lang: uk
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging може легко конвертувати з DICOM в інші формати за допомогою платформи Java
+description: Aspose.Imaging може легко конвертувати з DICOM(Цифрові зображення та комунікації) в інші формати за допомогою платформи Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Перетворіть зображення з формату DICOM за допомогою Aspose.Imaging for Java" h2="Перетворіть формат зображення DICOM в інші формати за допомогою платформи Java" downloadText="Завантажити" >}}
+{{< blocks/products/pf/feature-page-header h1="Перетворіть зображення з формату DICOM за допомогою Aspose.Imaging for Java" h2="Перетворіть формат зображення DICOM(Цифрові зображення та комунікації) в інші формати за допомогою платформи Java" downloadText="Завантажити" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Спектр форматів зображень, які можна конвертувати з DICOM зображень за допомогою Aspose.Imaging for Java" %}}
-Ви можете програмно конвертувати формат DICOM в інші доступні формати за допомогою
-Aspose.Imaging for Java.
+{{% blocks/products/pf/feature-page-section  h2="Спектр форматів зображень, які можна конвертувати з DICOM(Цифрові зображення та комунікації) зображень за допомогою Aspose.Imaging for Java" %}}
+<p align=justify>Ви можете програмно конвертувати формат DICOM в інші доступні формати за допомогою
+Aspose.Imaging for Java. DICOM — це абревіатура від Digital Imaging and Communications in Medicine і відноситься до галузі медичної інформатики. DICOM — це поєднання визначення формату файлу та протоколу мережевого зв’язку. DICOM використовує розширення .DCM. .DCM існує у двох різних форматах, тобто форматі 1.x і форматі 2.x. Формат DCM 1.x також доступний у двох версіях: звичайній і розширеній. DICOM використовується для інтеграції медичних пристроїв візуалізації, таких як принтери, сервери, сканери тощо від різних постачальників, а також містить ідентифікаційні дані кожного пацієнта для унікальності. Файли DICOM можуть використовуватися між двома сторонами, якщо вони здатні отримувати дані зображення у форматі DICOM. Комунікаційна частина DICOM є протоколом прикладного рівня та використовує TCP/IP для зв’язку між об’єктами. Для веб-служб DICOM використовуються протоколи HTTP і HTTPS. Веб-службами підтримуються версії 1.0, 1.1, 2 або новіші.</p>
 <br/>
 Наведено такі перетворення:
 {{% /blocks/products/pf/feature-page-section %}}

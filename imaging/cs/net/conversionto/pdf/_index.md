@@ -1,19 +1,19 @@
 ﻿---
-title: Převeďte obrázky do formátu obrázku PDF z jiných podporovaných formátů pomocí platformy .NET 
+title: Převeďte obrázky do formátu obrázku PDF(Portable Document Format (PDF)) z jiných podporovaných formátů pomocí platformy .NET 
 weight: 3920
 url: /cs/net/conversion/to/pdf 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Pomocí knihovny Aspose.Imaging for .NET je snadné převést do formátu PDF z jiných podporovaných formátů obrázků
+description: Pomocí knihovny Aspose.Imaging for .NET je snadné převést do formátu PDF(Portable Document Format (PDF)) z jiných podporovaných formátů obrázků
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převeďte soubory obrázků do formátu obrázků PDF pomocí platformy .NET" h2="Převeďte do formátu PDF z jiných formátů pomocí knihovny Aspose.Imaging for .NET" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Převeďte soubory obrázků do formátu obrázků PDF(Portable Document Format (PDF)) pomocí platformy .NET" h2="Převeďte do formátu Portable Document Format (PDF) z jiných formátů pomocí knihovny Aspose.Imaging for .NET" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované převody do formátu PDF pomocí knihovny Aspose.Imaging for .NET" %}}
-Pomocí knihovny Aspose.Imaging můžete programově převádět různé formáty obrázků na obrázek PDF.
+{{% blocks/products/pf/feature-page-section  h2="Všechny podporované převody do formátu PDF(Portable Document Format (PDF)) pomocí knihovny Aspose.Imaging for .NET" %}}
+<p align=justify>Pomocí knihovny Aspose.Imaging můžete programově převádět různé formáty obrázků na obrázek PDF. Portable Document Format (PDF) je typ dokumentu vytvořený společností Adobe již v 90. letech minulého století. Účelem tohoto formátu souboru bylo zavést standard pro reprezentaci dokumentů a dalších referenčních materiálů ve formátu, který je nezávislý na aplikačním softwaru, hardwaru i operačním systému. Formát souboru PDF má plnou schopnost obsahovat informace jako text, obrázky, hypertextové odkazy, pole formuláře, multimédia, digitální podpisy, přílohy, metadata, geoprostorové prvky a 3D objekty, které se mohou stát součástí zdrojového dokumentu.</p>
 <br/>
 Podporovány jsou následující převody:
 {{% /blocks/products/pf/feature-page-section %}}

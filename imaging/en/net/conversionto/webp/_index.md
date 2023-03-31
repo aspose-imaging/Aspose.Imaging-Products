@@ -1,19 +1,19 @@
 ﻿---
-title: Convert images to WEBP image format from other supported formats using .NET platform 
+title: Convert images to WEBP(Raster Web Image) image format from other supported formats using .NET platform 
 weight: 3920
 url: /net/conversion/to/webp 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Using Aspose.Imaging for .NET library it is easy to convert to WEBP from other supported image formats
+description: Using Aspose.Imaging for .NET library it is easy to convert to WEBP(Raster Web Image) from other supported image formats
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert Image Files to WEBP image format using .NET platform" h2="Convert to WEBP format from other formats using Aspose.Imaging for .NET library" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert Image Files to WEBP(Raster Web Image) image format using .NET platform" h2="Convert to Raster Web Image format from other formats using Aspose.Imaging for .NET library" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="All supported conversions to WEBP format using Aspose.Imaging for .NET library" %}}
-Using Aspose.Imaging library you can programmatically convert various image formats to WEBP image.
+{{% blocks/products/pf/feature-page-section  h2="All supported conversions to WEBP(Raster Web Image) format using Aspose.Imaging for .NET library" %}}
+<p align=justify>Using Aspose.Imaging library you can programmatically convert various image formats to WEBP image. WebP, introduced by Google, is a modern raster web image file format that is based on lossless and lossy compression. It provides same image quality while considerably reducing the image size. Since most of the web pages use images as effective representation of data, the use of WebP images in web pages results in faster loading of web pages. As per Google, WebP lossless images are 26% smaller in size compared to PNGs, while WebP lossy images are 25-34% smaller than comparable JPEG images. Images are compared based on the Structural Similarity (SSIM) index between WebP and other image file formats. WebP is a sister project of WebM multimedia container format.</p>
 <br/>
 Following conversions are supported :
 {{% /blocks/products/pf/feature-page-section %}}

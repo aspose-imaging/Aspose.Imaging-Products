@@ -1,20 +1,20 @@
 ﻿---
-title: Konvertieren Sie mit Aspose.Imaging für Java von OTG in andere unterstützte Formate 
+title: Konvertieren Sie mit Aspose.Imaging für Java von OTG(OpenDocument-Standard) in andere unterstützte Formate API 
 weight: 3920
 url: /de/java/conversion/from/otg 
 lang: de
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging kann mithilfe der Java-Plattform problemlos von OTG in andere Formate konvertieren
+description: Aspose.Imaging kann mithilfe der Java-Plattform problemlos von OTG(OpenDocument-Standard) in andere Formate konvertieren
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie Bilder aus dem OTG-Format mit Aspose.Imaging für Java" h2="Konvertieren Sie das Bildformat OTG mithilfe der Java-Plattform in andere Formate" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie Bilder aus dem OTG-Format mit Aspose.Imaging für Java" h2="Konvertieren Sie das Bildformat OTG(OpenDocument-Standard) mithilfe der Java-Plattform in andere Formate" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Breites Spektrum an Bildformaten, die mit Aspose.Imaging für Java aus OTG-Bildern konvertiert werden können" %}}
-Sie können das OTG-Format programmgesteuert in andere verfügbare Formate konvertieren, indem Sie verwenden
-Aspose.Imaging für Java.
+{{% blocks/products/pf/feature-page-section  h2="Breites Spektrum an Bildformaten, die mit Aspose.Imaging für Java aus OTG(OpenDocument-Standard)-Bildern konvertiert werden können" %}}
+<p align=justify>Sie können das OTG-Format programmgesteuert in andere verfügbare Formate konvertieren, indem Sie verwenden
+Aspose.Imaging für Java. Eine OTG-Datei ist eine Zeichnungsvorlage, die mit dem OpenDocument-Standard erstellt wird, der der OASIS Office Applications 1.0-Spezifikation folgt. Es stellt die Standardorganisation von Zeichnungselementen für ein Vektorbild dar, das verwendet werden kann, um den Inhalt der Datei weiter zu verbessern.</p>
 <br/>
 Folgende Umbauten sind an Bord:
 {{% /blocks/products/pf/feature-page-section %}}

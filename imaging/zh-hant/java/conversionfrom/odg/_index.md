@@ -1,20 +1,20 @@
 ﻿---
-title: 使用 Aspose.Imaging for Java 從 ODG 轉換為其他支持的格式 
+title: 使用 Aspose.Imaging for Java API 從 ODG(Apache OpenOffice 繪圖格式) 轉換為其他支持的格式 
 weight: 3920
 url: /zh-hant/java/conversion/from/odg 
 lang: zh-hant
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging 可以使用 Java 平台輕鬆地將 ODG 轉換為其他格式
+description: Aspose.Imaging 可以使用 Java 平台輕鬆地將 ODG(Apache OpenOffice 繪圖格式) 轉換為其他格式
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="使用 Aspose.Imaging for Java 從 ODG 格式轉換圖像" h2="使用 Java 平台將 ODG 圖像格式轉換為其他格式" downloadText="下載" >}}
+{{< blocks/products/pf/feature-page-header h1="使用 Aspose.Imaging for Java 從 ODG 格式轉換圖像" h2="使用 Java 平台將 ODG(Apache OpenOffice 繪圖格式) 圖像格式轉換為其他格式" downloadText="下載" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="可以使用 Aspose.Imaging for Java 從 ODG 圖像轉換的各種圖像格式" %}}
-您可以使用編程方式將 ODG 格式轉換為其他可用格式
-用於 Java 的 Aspose.Imaging。
+{{% blocks/products/pf/feature-page-section  h2="可以使用 Aspose.Imaging for Java 從 ODG(Apache OpenOffice 繪圖格式) 圖像轉換的各種圖像格式" %}}
+<p align=justify>您可以使用編程方式將 ODG 格式轉換為其他可用格式
+用於 Java 的 Aspose.Imaging。 Apache OpenOffice 的 Draw 應用程序使用 ODG 文件格式將繪圖元素存儲為矢量圖像。它遵循結構信息標準推進 (OASIS) 概述的基於 XML 的文件格式規範。 ODG 將繪圖表示為使用點、線和曲線的矢量圖像。除了 OpenOffice，LibreOffice 和其他應用程序還提供對 ODG 文件格式的支持。例如，OpenOffice 支持的其他格式包括 ODT、ODF、ODP 和 ODS。</p>
 <br/>
 船上有以下轉換：
 {{% /blocks/products/pf/feature-page-section %}}

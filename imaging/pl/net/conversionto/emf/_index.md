@@ -1,19 +1,19 @@
 ﻿---
-title: Konwertuj obrazy do formatu obrazu EMF z innych obsługiwanych formatów za pomocą platformy .NET 
+title: Konwertuj obrazy do formatu obrazu EMF(Ulepszony format metapliku) z innych obsługiwanych formatów za pomocą platformy .NET 
 weight: 3920
 url: /pl/net/conversion/to/emf 
 lang: pl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Korzystając z biblioteki Aspose.Imaging dla .NET, można łatwo przekonwertować do formatu EMF z innych obsługiwanych formatów obrazów
+description: Korzystając z biblioteki Aspose.Imaging dla .NET, można łatwo przekonwertować do formatu EMF(Ulepszony format metapliku) z innych obsługiwanych formatów obrazów
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwertuj pliki obrazów do formatu obrazu EMF za pomocą platformy .NET" h2="Konwertuj do formatu EMF z innych formatów przy użyciu biblioteki Aspose.Imaging for .NET" downloadText="Pobierać" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj pliki obrazów do formatu obrazu EMF(Ulepszony format metapliku) za pomocą platformy .NET" h2="Konwertuj do formatu Ulepszony format metapliku z innych formatów przy użyciu biblioteki Aspose.Imaging for .NET" downloadText="Pobierać" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane konwersje do formatu EMF przy użyciu biblioteki Aspose.Imaging for .NET" %}}
-Korzystając z biblioteki Aspose.Imaging możesz programowo konwertować różne formaty obrazów na obraz EMF.
+{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane konwersje do formatu EMF(Ulepszony format metapliku) przy użyciu biblioteki Aspose.Imaging for .NET" %}}
+<p align=justify>Korzystając z biblioteki Aspose.Imaging możesz programowo konwertować różne formaty obrazów na obraz EMF. Ulepszony format metapliku (EMF) przechowuje obrazy graficzne niezależnie od urządzenia. Metapliki EMF składają się z rekordów o zmiennej długości w porządku chronologicznym, które mogą renderować przechowywany obraz po przeanalizowaniu na dowolnym urządzeniu wyjściowym. Te rekordy o zmiennej długości mogą być definicjami zamkniętych obiektów, poleceniami do rysowania i właściwościami graficznymi krytycznymi dla dokładnego renderowania obrazu. Gdy urządzenie otwiera metaplik EMF przy użyciu własnego środowiska graficznego, proporcje, wymiary, kolory i inne właściwości graficzne oryginalnego obrazu pozostają takie same niezależnie od platformy urządzenia otwierającego.</p>
 <br/>
 Obsługiwane są następujące konwersje:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,21 +1,21 @@
 ﻿---
-title: Chuyển đổi từ CDR sang các định dạng khác Qua .NET 
+title: Chuyển đổi từ CDR(Hình ảnh Bản vẽ Véc tơ) sang các định dạng khác Qua API hình ảnh .NET 
 weight: 3920
 url: /vi/net/conversion/from/cdr 
 lang: vi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng chuyển đổi từ CDR sang các định dạng khác
+description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng chuyển đổi từ CDR(Hình ảnh Bản vẽ Véc tơ) sang các định dạng khác
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Chuyển đổi tệp hình ảnh từ CDR qua .NET" h2="Chuyển đổi từ CDR sang định dạng khác" downloadText="Tải xuống" >}}
+{{< blocks/products/pf/feature-page-header h1="Chuyển đổi tệp hình ảnh từ CDR(Hình ảnh Bản vẽ Véc tơ) qua API hình ảnh .NET" h2="Chuyển đổi từ Hình ảnh Bản vẽ Véc tơ sang các định dạng khác bằng API Aspose.Imaging" downloadText="Tải xuống" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tất cả các định dạng hình ảnh được hỗ trợ để chuyển đổi từ CDR" %}}
-Aspose.Imaging cho phép tự động hóa rất nhiều chuyển đổi từ CDR sang các định dạng khác trên nền tảng .NET.
+{{% blocks/products/pf/feature-page-section  h2="Tất cả các định dạng hình ảnh được hỗ trợ để chuyển đổi từ CDR(Hình ảnh Bản vẽ Véc tơ)" %}}
+<p align=justify>Aspose.Imaging cho phép tự động hóa rất nhiều chuyển đổi từ CDR sang các định dạng khác trên nền tảng .NET. Tệp CDR là tệp hình ảnh bản vẽ vectơ được tạo nguyên bản bằng CorelDRAW để lưu trữ hình ảnh kỹ thuật số được mã hóa và nén. Một tệp bản vẽ như vậy có chứa văn bản, đường thẳng, hình dạng, hình ảnh, màu sắc và các hiệu ứng để biểu diễn vector của nội dung hình ảnh. Các tệp CDR có thể được mở bằng CorelDRAW làm ứng dụng chính và cũng có thể được chuyển đổi sang các định dạng khác như PDF, JPG, PNG, BMP và AI. Nó có thể được sử dụng để biểu diễn các dữ liệu đồ họa khác nhau như tài liệu quảng cáo, báo lá cải, phong bì và bưu thiếp. Bên cạnh CorelDRAW, các sản phẩm Corel khác như Corel Paintshop Pro và CorelDRAW Graphics suite cũng có thể mở các định dạng tệp CDR.</p>
 <br/>
-Danh sách đầy đủ các chuyển đổi được hỗ trợ:
+Danh sách đầy đủ các chuyển đổi được hỗ trợ từ CDR:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -1,20 +1,20 @@
 ﻿---
-title: Konvertera från JPEG till andra format som stöds med Aspose.Imaging för Java 
+title: Konvertera från JPEG(Förenade Fotografers Expert Grupp) till andra format som stöds med Aspose.Imaging för Java API 
 weight: 3920
 url: /sv/java/conversion/from/jpeg 
 lang: sv
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging kan enkelt konvertera från JPEG till andra format med hjälp av Java-plattformen
+description: Aspose.Imaging kan enkelt konvertera från JPEG(Förenade Fotografers Expert Grupp) till andra format med hjälp av Java-plattformen
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertera bilder från formatet JPEG med Aspose.Imaging för Java" h2="Konvertera från JPEG bildformat till andra format med Java-plattformen" downloadText="Ladda ner" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertera bilder från formatet JPEG med Aspose.Imaging för Java" h2="Konvertera från JPEG(Förenade Fotografers Expert Grupp) bildformat till andra format med Java-plattformen" downloadText="Ladda ner" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Brett spektrum av bildformat som kan konverteras från JPEG-bilder med Aspose.Imaging för Java" %}}
-Du kan programmatiskt konvertera från formatet JPEG till andra tillgängliga format med hjälp av
-Aspose.Imaging för Java.
+{{% blocks/products/pf/feature-page-section  h2="Brett spektrum av bildformat som kan konverteras från JPEG(Förenade Fotografers Expert Grupp)-bilder med Aspose.Imaging för Java" %}}
+<p align=justify>Du kan programmatiskt konvertera från formatet JPEG till andra tillgängliga format med hjälp av
+Aspose.Imaging för Java. En JPEG är en typ av bildformat som sparas med metoden för förlustkomprimering. Utdatabilden, som ett resultat av komprimering, är en kompromiss mellan lagringsstorlek och bildkvalitet. Användare kan justera komprimeringsnivån för att uppnå önskad kvalitetsnivå samtidigt som lagringsstorleken minskas. Bildkvaliteten påverkas försumbart om 10:1-komprimering tillämpas på bilden. Ju högre komprimeringsvärde, desto högre försämring i bildkvalitet.</p>
 <br/>
 Det finns följande konverteringar ombord:
 {{% /blocks/products/pf/feature-page-section %}}

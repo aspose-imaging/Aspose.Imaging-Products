@@ -1,19 +1,19 @@
 ﻿---
-title: Chuyển đổi hình ảnh sang định dạng hình ảnh PSD từ các định dạng được hỗ trợ khác bằng nền tảng .NET 
+title: Chuyển đổi hình ảnh sang định dạng hình ảnh PSD(Tài liệu Photoshop) từ các định dạng được hỗ trợ khác bằng nền tảng .NET 
 weight: 3920
 url: /vi/net/conversion/to/psd 
 lang: vi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Sử dụng Aspose.Imaging cho thư viện .NET, thật dễ dàng để chuyển đổi sang PSD từ các định dạng hình ảnh được hỗ trợ khác
+description: Sử dụng Aspose.Imaging cho thư viện .NET, thật dễ dàng để chuyển đổi sang PSD(Tài liệu Photoshop) từ các định dạng hình ảnh được hỗ trợ khác
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Chuyển đổi tệp hình ảnh sang định dạng hình ảnh PSD bằng nền tảng .NET" h2="Chuyển đổi sang định dạng PSD từ các định dạng khác bằng thư viện Aspose.Imaging for .NET" downloadText="Tải xuống" >}}
+{{< blocks/products/pf/feature-page-header h1="Chuyển đổi tệp hình ảnh sang định dạng hình ảnh PSD(Tài liệu Photoshop) bằng nền tảng .NET" h2="Chuyển đổi sang định dạng Tài liệu Photoshop từ các định dạng khác bằng thư viện Aspose.Imaging for .NET" downloadText="Tải xuống" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tất cả các chuyển đổi được hỗ trợ sang định dạng PSD bằng thư viện Aspose.Imaging for .NET" %}}
-Sử dụng thư viện Aspose.Imaging, bạn có thể lập trình chuyển đổi các định dạng hình ảnh khác nhau thành hình ảnh PSD.
+{{% blocks/products/pf/feature-page-section  h2="Tất cả các chuyển đổi được hỗ trợ sang định dạng PSD(Tài liệu Photoshop) bằng thư viện Aspose.Imaging for .NET" %}}
+<p align=justify>Sử dụng thư viện Aspose.Imaging, bạn có thể lập trình chuyển đổi các định dạng hình ảnh khác nhau thành hình ảnh PSD. PSD, Tài liệu Photoshop, đại diện cho định dạng tệp gốc của Adobe Photoshop được sử dụng để thiết kế và phát triển đồ họa. Tệp PSD có thể bao gồm các lớp hình ảnh, lớp điều chỉnh, mặt nạ lớp, chú thích, thông tin tệp, từ khóa và các yếu tố cụ thể khác của Photoshop.</p>
 <br/>
 chuyển đổi sau đây được hỗ trợ:
 {{% /blocks/products/pf/feature-page-section %}}

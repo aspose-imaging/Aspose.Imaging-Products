@@ -13,7 +13,7 @@ description: باستخدام Aspose.Imaging ، يمكنك التحويل إلى
 
 
 {{% blocks/products/pf/feature-page-section  h2="جميع تنسيقات الصور المدعومة قابلة للتحويل إلى SVGZ باستخدام Aspose.Imaging for Java" %}}
-باستخدام مكتبة Aspose.Imaging ، يمكنك التحويل برمجيًا إلى SVGZ من تنسيقات الصور المدعومة الأخرى باستخدام نظام Java الأساسي.
+<p align=justify>باستخدام مكتبة Aspose.Imaging ، يمكنك التحويل برمجيًا إلى SVGZ من تنسيقات الصور المدعومة الأخرى باستخدام نظام Java الأساسي.</p>
 <br/>
 التحويلات المدعومة:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,21 +1,21 @@
 ﻿---
-title: Konvertera från SVG till andra format via .NET 
+title: Konvertera från SVG(Skalbar vektorgrafik) till andra format via .NET bild-API 
 weight: 3920
 url: /sv/net/conversion/from/svg 
 lang: sv
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Med Aspose.Imaging kan du enkelt konvertera från SVG till ett annat format
+description: Med Aspose.Imaging kan du enkelt konvertera från SVG(Skalbar vektorgrafik) till ett annat format
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertering av bildfiler från SVG via .NET" h2="Konvertera från SVG till ett annat format" downloadText="Ladda ner" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertering av bildfiler från SVG(Skalbar vektorgrafik) via .NET bild-API" h2="Konvertera från Skalbar vektorgrafik till andra format med Aspose.Imaging API" downloadText="Ladda ner" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alla bildformat som stöds för att konvertera från SVG" %}}
-Aspose.Imaging låter automatisera många konverteringar från SVG till andra format på .NET-plattformen.
+{{% blocks/products/pf/feature-page-section  h2="Alla bildformat som stöds att konvertera från SVG(Skalbar vektorgrafik)" %}}
+<p align=justify>Aspose.Imaging låter automatisera många konverteringar från SVG till andra format på .NET-plattformen. SVG-filer är skalbara vektorgrafikfiler som använder XML-baserat textformat för att beskriva bildens utseende. Ordet Scalable syftar på det faktum att SVG kan skalas till olika storlekar utan att förlora någon kvalitet. Textbaserad beskrivning av sådana filer gör dem oberoende av upplösning. Det är ett av de mest använda formaten för att bygga webbplatser och skriva ut grafik för att uppnå skalbarhet. Formatet kan dock endast användas för tvådimensionell grafik. SVG-filer kan ses/öppnas i nästan alla moderna webbläsare inklusive Chrome, Internet Explorer, Firefox och Safari.</p>
 <br/>
-Fullständig lista över omvandlingar som stöds:
+Fullständig lista över omvandlingar som stöds från SVG:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

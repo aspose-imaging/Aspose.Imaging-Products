@@ -1,19 +1,19 @@
 ﻿---
-title: Convert images to PSD image format from other supported formats using .NET platform 
+title: Convert images to PSD(Photoshop Document) image format from other supported formats using .NET platform 
 weight: 3920
 url: /net/conversion/to/psd 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Using Aspose.Imaging for .NET library it is easy to convert to PSD from other supported image formats
+description: Using Aspose.Imaging for .NET library it is easy to convert to PSD(Photoshop Document) from other supported image formats
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert Image Files to PSD image format using .NET platform" h2="Convert to PSD format from other formats using Aspose.Imaging for .NET library" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert Image Files to PSD(Photoshop Document) image format using .NET platform" h2="Convert to Photoshop Document format from other formats using Aspose.Imaging for .NET library" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="All supported conversions to PSD format using Aspose.Imaging for .NET library" %}}
-Using Aspose.Imaging library you can programmatically convert various image formats to PSD image.
+{{% blocks/products/pf/feature-page-section  h2="All supported conversions to PSD(Photoshop Document) format using Aspose.Imaging for .NET library" %}}
+<p align=justify>Using Aspose.Imaging library you can programmatically convert various image formats to PSD image. PSD, Photoshop Document, represents Adobe Photoshop’s native file format used for graphics designing and development. PSD files may include image layers, adjustment layers, layer masks, annotations, file information, keywords and other Photoshop-specific elements.</p>
 <br/>
 Following conversions are supported :
 {{% /blocks/products/pf/feature-page-section %}}

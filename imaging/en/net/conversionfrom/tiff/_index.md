@@ -1,21 +1,21 @@
 ﻿---
-title: Convert from TIFF to other formats Via .NET 
+title: Convert from TIFF(Tagged Image Format) to other formats Via .NET image API 
 weight: 3920
 url: /net/conversion/from/tiff 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Using Aspose.Imaging you can easily convert from TIFF to other formats
+description: Using Aspose.Imaging for .NET you can easily convert from TIFF(Tagged Image Format) to other formats
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Image Files Conversion from TIFF Via .NET" h2="Convert from TIFF to other formats" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Image Files Conversion from TIFF(Tagged Image Format) Via .NET image API" h2="Convert from Tagged Image Format to other formats using Aspose.Imaging API" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from TIFF" %}}
-Aspose.Imaging allows automate a lot of conversions from TIFF to other formats on .NET platform.
+{{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from TIFF(Tagged Image Format)" %}}
+<p align=justify>Aspose.Imaging allows automate a lot of conversions from TIFF to other formats on .NET platform. TIFF or TIF, Tagged Image File Format, represents raster images that are meant for usage on a variety of devices that comply with this file format standard. It is capable of describing bilevel, grayscale, palette-color and full-color image data in several color spaces. It supports lossy as well as lossless compression schemes to choose between space and time for applications using the format. The format is extensible and has underwent several revisions that allows the inclusion of an unlimited amount of private or special-purpose information. The format is not machine dependent and is free from bounds like processor, operating system, or file systems.</p>
 <br/>
-Full list of supported conversions:
+Full list of supported conversions from TIFF:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

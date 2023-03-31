@@ -1,20 +1,20 @@
 ﻿---
-title: 使用 Aspose.Imaging for Java 從 J2K 轉換為其他支持的格式 
+title: 使用 Aspose.Imaging for Java API 從 J2K(小波壓縮圖像) 轉換為其他支持的格式 
 weight: 3920
 url: /zh-hant/java/conversion/from/j2k 
 lang: zh-hant
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging 可以使用 Java 平台輕鬆地將 J2K 轉換為其他格式
+description: Aspose.Imaging 可以使用 Java 平台輕鬆地將 J2K(小波壓縮圖像) 轉換為其他格式
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="使用 Aspose.Imaging for Java 從 J2K 格式轉換圖像" h2="使用 Java 平台將 J2K 圖像格式轉換為其他格式" downloadText="下載" >}}
+{{< blocks/products/pf/feature-page-header h1="使用 Aspose.Imaging for Java 從 J2K 格式轉換圖像" h2="使用 Java 平台將 J2K(小波壓縮圖像) 圖像格式轉換為其他格式" downloadText="下載" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="可以使用 Aspose.Imaging for Java 從 J2K 圖像轉換的各種圖像格式" %}}
-您可以使用編程方式將 J2K 格式轉換為其他可用格式
-用於 Java 的 Aspose.Imaging。
+{{% blocks/products/pf/feature-page-section  h2="可以使用 Aspose.Imaging for Java 從 J2K(小波壓縮圖像) 圖像轉換的各種圖像格式" %}}
+<p align=justify>您可以使用編程方式將 J2K 格式轉換為其他可用格式
+用於 Java 的 Aspose.Imaging。 J2K 文件是使用小波壓縮而不是 DCT 壓縮壓縮的圖像。</p>
 <br/>
 船上有以下轉換：
 {{% /blocks/products/pf/feature-page-section %}}

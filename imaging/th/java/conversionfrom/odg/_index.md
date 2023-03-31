@@ -1,20 +1,20 @@
 ﻿---
-title: แปลงจาก ODG เป็นรูปแบบอื่นที่รองรับโดยใช้ Aspose.Imaging สำหรับ Java 
+title: แปลงจาก ODG(รูปแบบการวาด Apache OpenOffice) เป็นรูปแบบอื่นที่รองรับโดยใช้ Aspose.Imaging สำหรับ Java API 
 weight: 3920
 url: /th/java/conversion/from/odg 
 lang: th
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging สามารถแปลงจาก ODG เป็นรูปแบบอื่นได้อย่างง่ายดายโดยใช้แพลตฟอร์ม Java
+description: Aspose.Imaging สามารถแปลงจาก ODG(รูปแบบการวาด Apache OpenOffice) เป็นรูปแบบอื่นได้อย่างง่ายดายโดยใช้แพลตฟอร์ม Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="แปลงรูปภาพจากรูปแบบ ODG โดยใช้ Aspose.Imaging สำหรับ Java" h2="แปลงจากรูปแบบภาพ ODG เป็นรูปแบบอื่นโดยใช้แพลตฟอร์ม Java" downloadText="ดาวน์โหลด" >}}
+{{< blocks/products/pf/feature-page-header h1="แปลงรูปภาพจากรูปแบบ ODG โดยใช้ Aspose.Imaging สำหรับ Java" h2="แปลงจากรูปแบบภาพ ODG(รูปแบบการวาด Apache OpenOffice) เป็นรูปแบบอื่นโดยใช้แพลตฟอร์ม Java" downloadText="ดาวน์โหลด" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="รูปแบบรูปภาพที่หลากหลายที่สามารถแปลงจากรูปภาพ ODG โดยใช้ Aspose.Imaging สำหรับ Java" %}}
-คุณสามารถแปลงจากรูปแบบ ODG เป็นรูปแบบอื่นที่ใช้ได้โดยใช้โปรแกรม
-Aspose.Imaging สำหรับ Java
+{{% blocks/products/pf/feature-page-section  h2="รูปแบบรูปภาพที่หลากหลายที่สามารถแปลงจากรูปภาพ ODG(รูปแบบการวาด Apache OpenOffice) โดยใช้ Aspose.Imaging สำหรับ Java" %}}
+<p align=justify>คุณสามารถแปลงจากรูปแบบ ODG เป็นรูปแบบอื่นที่ใช้ได้โดยใช้โปรแกรม
+Aspose.Imaging สำหรับ Java รูปแบบไฟล์ ODG ถูกใช้โดยแอปพลิเคชัน Draw ของ Apache OpenOffice เพื่อจัดเก็บองค์ประกอบการวาดเป็นภาพเวกเตอร์ เป็นไปตามข้อกำหนดรูปแบบไฟล์ XML ที่ร่างโดย Advancement of Structural Information Standards (OASIS) ODG แสดงภาพวาดเป็นภาพเวกเตอร์โดยใช้จุด เส้น และเส้นโค้ง นอกจาก OpenOffice แล้ว LibreOffice และแอปพลิเคชั่นอื่น ๆ ยังรองรับการทำงานกับรูปแบบไฟล์ ODG รูปแบบอื่นๆ ที่ OpenOffice รองรับ เช่น ODT, ODF, ODP และ ODS</p>
 <br/>
 มีการแปลงต่อไปนี้บนกระดาน:
 {{% /blocks/products/pf/feature-page-section %}}

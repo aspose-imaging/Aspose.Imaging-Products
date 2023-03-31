@@ -1,21 +1,21 @@
 ﻿---
-title: حوِّل من BMP إلى تنسيقات أخرى عبر .NET 
+title: قم بالتحويل من BMP (صورة نقطية) إلى تنسيقات أخرى عبر واجهة برمجة تطبيقات الصور .NET 
 weight: 3920
 url: /ar/net/conversion/from/bmp 
 lang: ar
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: باستخدام Aspose.Imaging ، يمكنك بسهولة التحويل من BMP إلى تنسيقات أخرى
+description: باستخدام Aspose.Imaging ، يمكنك بسهولة التحويل من BMP(صورة نقطية) إلى تنسيقات أخرى
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل ملفات الصور من BMP عبر .NET" h2="تحويل من BMP إلى صيغ أخرى" downloadText="تحميل" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل ملفات الصور من BMP (صورة نقطية) عبر .NET image API" h2="تحويل من صورة نقطية إلى تنسيقات أخرى باستخدام Aspose.Imaging API" downloadText="تحميل" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="جميع تنسيقات الصور المدعومة للتحويل من BMP" %}}
-يسمح Aspose.Imaging بأتمتة الكثير من التحويلات من BMP إلى تنسيقات أخرى على منصة .NET.
+{{% blocks/products/pf/feature-page-section  h2="جميع تنسيقات الصور المدعومة المراد تحويلها من BMP (صورة نقطية)" %}}
+<p align=justify>يسمح Aspose.Imaging بأتمتة الكثير من التحويلات من BMP إلى تنسيقات أخرى على منصة .NET. الملفات ذات الامتداد .BMP تمثل ملفات الصور النقطية المستخدمة لتخزين الصور الرقمية للصور النقطية. هذه الصور مستقلة عن محول الرسومات وتسمى أيضًا تنسيق ملف الصورة النقطية المستقلة عن الجهاز (DIB). يخدم هذا الاستقلال غرض فتح الملف على منصات متعددة مثل Microsoft Windows و Mac. يمكن لملف BMP تخزين البيانات كصور رقمية ثنائية الأبعاد بتنسيق أحادي اللون بالإضافة إلى تنسيق الألوان بأعماق ألوان مختلفة.</p>
 <br/>
-القائمة الكاملة للتحويلات المدعومة:
+القائمة الكاملة للتحويلات المدعومة من BMP:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -1,19 +1,19 @@
 ﻿---
-title: แปลงรูปภาพเป็นรูปแบบ DXF จากรูปแบบอื่นที่รองรับโดยใช้แพลตฟอร์ม .NET 
+title: แปลงรูปภาพเป็นรูปแบบ DXF(Drawing Interchange Format หรือ Drawing Exchange Format,) จากรูปแบบอื่นที่รองรับโดยใช้แพลตฟอร์ม .NET 
 weight: 3920
 url: /th/net/conversion/to/dxf 
 lang: th
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: การใช้ Aspose.Imaging สำหรับไลบรารี .NET ทำให้ง่ายต่อการแปลงเป็น DXF จากรูปแบบรูปภาพอื่นๆ ที่รองรับ
+description: การใช้ Aspose.Imaging สำหรับไลบรารี .NET ทำให้ง่ายต่อการแปลงเป็น DXF(Drawing Interchange Format หรือ Drawing Exchange Format,) จากรูปแบบรูปภาพอื่นๆ ที่รองรับ
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="แปลงไฟล์รูปภาพเป็นรูปแบบรูปภาพ DXF โดยใช้แพลตฟอร์ม .NET" h2="แปลงเป็นรูปแบบ DXF จากรูปแบบอื่นโดยใช้ Aspose.Imaging สำหรับไลบรารี .NET" downloadText="ดาวน์โหลด" >}}
+{{< blocks/products/pf/feature-page-header h1="แปลงไฟล์รูปภาพเป็นรูปแบบรูปภาพ DXF(Drawing Interchange Format หรือ Drawing Exchange Format,) โดยใช้แพลตฟอร์ม .NET" h2="แปลงเป็นรูปแบบ Drawing Interchange Format หรือ Drawing Exchange Format, จากรูปแบบอื่นโดยใช้ Aspose.Imaging สำหรับไลบรารี .NET" downloadText="ดาวน์โหลด" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="การแปลงที่รองรับทั้งหมดเป็นรูปแบบ DXF โดยใช้ Aspose.Imaging สำหรับไลบรารี .NET" %}}
-การใช้ไลบรารี Aspose.Imaging คุณสามารถแปลงรูปแบบรูปภาพต่างๆ เป็นรูปภาพ DXF โดยทางโปรแกรม
+{{% blocks/products/pf/feature-page-section  h2="การแปลงที่รองรับทั้งหมดเป็นรูปแบบ DXF(Drawing Interchange Format หรือ Drawing Exchange Format,) โดยใช้ Aspose.Imaging สำหรับไลบรารี .NET" %}}
+<p align=justify>การใช้ไลบรารี Aspose.Imaging คุณสามารถแปลงรูปแบบรูปภาพต่างๆ เป็นรูปภาพ DXF โดยทางโปรแกรม DXF, Drawing Interchange Format หรือ Drawing Exchange Format คือการแสดงข้อมูลที่ติดแท็กของไฟล์รูปวาด AutoCAD แต่ละองค์ประกอบในไฟล์มีเลขจำนวนเต็มนำหน้าที่เรียกว่ารหัสกลุ่ม รหัสกลุ่มนี้จริง ๆ แล้วแสดงถึงองค์ประกอบที่ตามมาและระบุความหมายขององค์ประกอบข้อมูลสำหรับประเภทวัตถุที่กำหนด DXF ทำให้สามารถแสดงข้อมูลเกือบทั้งหมดที่ผู้ใช้ระบุในไฟล์รูปวาดได้</p>
 <br/>
 รองรับการแปลงต่อไปนี้:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,21 +1,21 @@
 ﻿---
-title: .NET Aracılığıyla DNG'ten diğer biçimlere dönüştürün 
+title: .NET görüntü API'sı aracılığıyla DNG(Dijital Kamera Görüntüsü) biçimini diğer biçimlere dönüştürün 
 weight: 3920
 url: /tr/net/conversion/from/dng 
 lang: tr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging'i kullanarak DNG biçimini kolayca başka biçimlere dönüştürebilirsiniz
+description: Aspose.Imaging'i kullanarak DNG(Dijital Kamera Görüntüsü) biçimini kolayca başka biçimlere dönüştürebilirsiniz
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET Yoluyla DNG'den Görüntü Dosyaları Dönüştürme" h2="DNG biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET image API aracılığıyla DNG(Dijital Kamera Görüntüsü)'den Görüntü Dosyaları Dönüşümü" h2="Aspose.Imaging API kullanarak Dijital Kamera Görüntüsü formatını diğer formatlara dönüştürün" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="DNG'den dönüştürülecek desteklenen tüm resim biçimleri" %}}
-Aspose.Imaging, .NET platformunda DNG'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir.
+{{% blocks/products/pf/feature-page-section  h2="DNG(Dijital Kamera Görüntüsü) biçiminden dönüştürülecek desteklenen tüm resim biçimleri" %}}
+<p align=justify>Aspose.Imaging, .NET platformunda DNG'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir. DNG, ham dosyaların depolanması için kullanılan bir dijital kamera görüntü formatıdır. Adobe tarafından Eylül 2004'te geliştirilmiştir. Temelde dijital fotoğrafçılık için geliştirilmiştir. DNG, TIFF/EP standart biçiminin bir uzantısıdır ve önemli ölçüde meta verileri kullanır. Dijital kameralardan gelen ham verileri esneklik ve sanatsal kontrol kolaylığı ile işlemek için fotoğrafçılar camera raw dosyalarını tercih eder. JPEG ve TIFF formatları, kamera tarafından işlenen görüntüleri saklar, bu nedenle bu formatlarda değişiklik için fazla yer yoktur.</p>
 <br/>
-Desteklenen dönüşümlerin tam listesi:
+DNG tarafından desteklenen dönüşümlerin tam listesi:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

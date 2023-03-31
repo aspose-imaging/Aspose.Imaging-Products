@@ -1,21 +1,21 @@
 ﻿---
-title: המר מ-JP2 לפורמטים אחרים דרך .NET 
+title: המר מ-JP2(JPEG 2000) לפורמטים אחרים באמצעות API של תמונה של .NET 
 weight: 3920
 url: /he/net/conversion/from/jp2 
 lang: he
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: באמצעות Aspose.Imaging תוכל להמיר בקלות מ-JP2 לפורמט אחר
+description: באמצעות Aspose.Imaging תוכל להמיר בקלות מ- JP2(JPEG 2000) לפורמט אחר
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה מ-JP2 דרך .NET" h2="המר מ-JP2 לפורמט אחר" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה מ-JP2(JPEG 2000) באמצעות API של תמונה של .NET" h2="המר מ-JPEG 2000 לפורמטים אחרים באמצעות Aspose.Imaging API" downloadText="הורד" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה מ-JP2" %}}
-Aspose.Imaging מאפשר לבצע אוטומציה של המרות רבות מ-JP2 לפורמטים אחרים בפלטפורמת NET.
+{{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה מ-JP2(JPEG 2000)" %}}
+<p align=justify>Aspose.Imaging מאפשר לבצע אוטומציה של המרות רבות מ-JP2 לפורמטים אחרים בפלטפורמת NET. JPEG 2000 (JP2) היא מערכת קידוד תמונה ותקן דחיסת תמונה מתקדם. עוצב, תוך שימוש בטכנולוגיית wavelet JPEG 2000 יכול לקודד תוכן ללא אובדן בכל איכות בבת אחת. יתרה מכך, ללא כל עונש משמעותי ביעילות הקידוד, ל-JPEG 2000 יש את היכולת לגשת ולפענח את אותו תוכן בצורה יעילה למגוון רזולוציות ואיכויות אחרות. זרמי הקוד ב-JPEG 2000 ניתנים להרחבה באופן משמעותי עם אזורי עניין המספקים את המתקן לגישה אקראית מרחבית. בעל עד 16384 רכיבים מגוונים עם המידות ב-terapixels, ודיוק שיכול להגיע ל-38 סיביות/דגימה.</p>
 <br/>
-רשימה מלאה של המרות נתמכות:
+רשימה מלאה של המרות נתמכות מ-JP2:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

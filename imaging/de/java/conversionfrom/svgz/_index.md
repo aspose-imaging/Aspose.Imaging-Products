@@ -1,20 +1,20 @@
 ﻿---
-title: Konvertieren Sie mit Aspose.Imaging für Java von SVGZ in andere unterstützte Formate 
+title: Konvertieren Sie mit Aspose.Imaging für Java von SVGZ(Komprimierte Version der Datei Scalable Vector Graphics (.SVG).) in andere unterstützte Formate API 
 weight: 3920
 url: /de/java/conversion/from/svgz 
 lang: de
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging kann mithilfe der Java-Plattform problemlos von SVGZ in andere Formate konvertieren
+description: Aspose.Imaging kann mithilfe der Java-Plattform problemlos von SVGZ(Komprimierte Version der Datei Scalable Vector Graphics (.SVG).) in andere Formate konvertieren
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie Bilder aus dem SVGZ-Format mit Aspose.Imaging für Java" h2="Konvertieren Sie das Bildformat SVGZ mithilfe der Java-Plattform in andere Formate" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie Bilder aus dem SVGZ-Format mit Aspose.Imaging für Java" h2="Konvertieren Sie das Bildformat SVGZ(Komprimierte Version der Datei Scalable Vector Graphics (.SVG).) mithilfe der Java-Plattform in andere Formate" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Breites Spektrum an Bildformaten, die mit Aspose.Imaging für Java aus SVGZ-Bildern konvertiert werden können" %}}
-Sie können das SVGZ-Format programmgesteuert in andere verfügbare Formate konvertieren, indem Sie verwenden
-Aspose.Imaging für Java.
+{{% blocks/products/pf/feature-page-section  h2="Breites Spektrum an Bildformaten, die mit Aspose.Imaging für Java aus SVGZ(Komprimierte Version der Datei Scalable Vector Graphics (.SVG).)-Bildern konvertiert werden können" %}}
+<p align=justify>Sie können das SVGZ-Format programmgesteuert in andere verfügbare Formate konvertieren, indem Sie verwenden
+Aspose.Imaging für Java. Eine Datei mit der Erweiterung .svgz ist eine komprimierte Version der Datei Scalable Vector Graphics (.SVG). Es ist mit gzip-Komprimierung komprimiert und enthält Daten im XML-Format. SVGZ-Dateien unterstützen Transparenz, Farbverläufe, Animationen und Filter. SVGZ-Dateien sind im Vergleich zu den Standard-SVG-Dateien kleiner und diese reduzierte Dateigröße hilft, die Grafikdateien online zu übertragen. Grafikdesigner erstellen SVGZ-Dateien mit Tools wie Adobe Illustrator, Corel PaintShop Pro und anderen. SVGZ-Dateien können jedoch generiert werden, indem die GZip-Komprimierung im Apache-Server aktiviert wird, während die Bilddaten gesendet werden.</p>
 <br/>
 Folgende Umbauten sind an Bord:
 {{% /blocks/products/pf/feature-page-section %}}

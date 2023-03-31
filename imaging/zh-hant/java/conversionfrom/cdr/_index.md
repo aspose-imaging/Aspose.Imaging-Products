@@ -1,20 +1,20 @@
 ﻿---
-title: 使用 Aspose.Imaging for Java 從 CDR 轉換為其他支持的格式 
+title: 使用 Aspose.Imaging for Java API 從 CDR(矢量繪圖圖像) 轉換為其他支持的格式 
 weight: 3920
 url: /zh-hant/java/conversion/from/cdr 
 lang: zh-hant
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging 可以使用 Java 平台輕鬆地將 CDR 轉換為其他格式
+description: Aspose.Imaging 可以使用 Java 平台輕鬆地將 CDR(矢量繪圖圖像) 轉換為其他格式
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="使用 Aspose.Imaging for Java 從 CDR 格式轉換圖像" h2="使用 Java 平台將 CDR 圖像格式轉換為其他格式" downloadText="下載" >}}
+{{< blocks/products/pf/feature-page-header h1="使用 Aspose.Imaging for Java 從 CDR 格式轉換圖像" h2="使用 Java 平台將 CDR(矢量繪圖圖像) 圖像格式轉換為其他格式" downloadText="下載" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="可以使用 Aspose.Imaging for Java 從 CDR 圖像轉換的各種圖像格式" %}}
-您可以使用編程方式將 CDR 格式轉換為其他可用格式
-用於 Java 的 Aspose.Imaging。
+{{% blocks/products/pf/feature-page-section  h2="可以使用 Aspose.Imaging for Java 從 CDR(矢量繪圖圖像) 圖像轉換的各種圖像格式" %}}
+<p align=justify>您可以使用編程方式將 CDR 格式轉換為其他可用格式
+用於 Java 的 Aspose.Imaging。 CDR 文件是使用 CorelDRAW 本地創建的矢量繪圖圖像文件，用於存儲編碼和壓縮的數字圖像。這樣的繪圖文件包含文本、線條、形狀、圖像、顏色和效果，用於圖像內容的矢量表示。 CDR 文件可以使用 CorelDRAW 作為主要應用程序打開，也可以轉換為其他格式，例如 PDF、JPG、PNG、BMP 和 AI。它可用於表示各種圖形數據，如小冊子、小報、信封和明信片。除了 CorelDRAW，Corel Paintshop Pro 和 CorelDRAW Graphics Suite 等其他 Corel 產品也可以打開 CDR 文件格式。</p>
 <br/>
 船上有以下轉換：
 {{% /blocks/products/pf/feature-page-section %}}

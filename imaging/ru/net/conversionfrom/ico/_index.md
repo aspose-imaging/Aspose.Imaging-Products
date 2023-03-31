@@ -1,21 +1,21 @@
 ﻿---
-title: Конвертировать из ICO в другие форматы с помощью .NET 
+title: Преобразование из ICO(Значок Windows) в другие форматы с помощью API изображений .NET 
 weight: 3920
 url: /ru/net/conversion/from/ico 
 lang: ru
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Используя Aspose.Imaging, вы можете легко конвертировать из ICO в другие форматы.
+description: Используя Aspose.Imaging, вы можете легко конвертировать из ICO(Значок Windows) в другие форматы.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование файлов изображений из ICO с помощью .NET" h2="Конвертировать из ICO в другие форматы" downloadText="Скачать" >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование файлов изображений из ICO(Значок Windows) через .NET API изображений" h2="Преобразование из Значок Windows в другие форматы с помощью Aspose.Imaging API" downloadText="Скачать" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Все поддерживаемые форматы изображений для преобразования из ICO" %}}
-Aspose.Imaging позволяет автоматизировать множество преобразований из ICO в другие форматы на платформе .NET.
+{{% blocks/products/pf/feature-page-section  h2="Все поддерживаемые форматы изображений для преобразования из ICO(Значок Windows)" %}}
+<p align=justify>Aspose.Imaging позволяет автоматизировать множество преобразований из ICO в другие форматы на платформе .NET. Формат файла ICO — это формат файла изображения для компьютерных значков в Microsoft Windows. Файлы ICO содержат одно или несколько небольших изображений разного размера и глубины цвета, чтобы их можно было соответствующим образом масштабировать. В Windows все исполняемые файлы, отображающие значок для пользователя на рабочем столе, в меню «Пуск» или в проводнике Windows, должны иметь значок в формате ICO.</p>
 <br/>
-Полный список поддерживаемых преобразований:
+Полный список поддерживаемых преобразований из ICO:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

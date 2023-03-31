@@ -1,20 +1,20 @@
 ﻿---
-title: Convierta de BMP a otros formatos admitidos usando Aspose.Imaging para Java 
+title: Convierta de BMP(Imagen de mapa de bits) a otros formatos admitidos usando Aspose.Imaging para Java API. 
 weight: 3920
 url: /es/java/conversion/from/bmp 
 lang: es
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging puede convertir fácilmente de BMP a otros formatos usando la plataforma Java
+description: Aspose.Imaging puede convertir fácilmente de BMP(Imagen de mapa de bits) a otros formatos usando la plataforma Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convierta imágenes del formato BMP usando Aspose.Imaging para Java" h2="Convierta del formato de imagen BMP a otros formatos utilizando la plataforma Java" downloadText="Descargar" >}}
+{{< blocks/products/pf/feature-page-header h1="Convierta imágenes del formato BMP usando Aspose.Imaging para Java" h2="Convierta del formato de imagen BMP(Imagen de mapa de bits) a otros formatos utilizando la plataforma Java" downloadText="Descargar" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Amplio espectro de formatos de imagen que se pueden convertir a partir de imágenes BMP usando Aspose.Imaging para Java" %}}
-Puede convertir programáticamente del formato BMP a otros formatos disponibles usando
-Aspose. Imaging para Java.
+{{% blocks/products/pf/feature-page-section  h2="Amplio espectro de formatos de imagen que se pueden convertir a partir de imágenes BMP(Imagen de mapa de bits) usando Aspose.Imaging para Java" %}}
+<p align=justify>Puede convertir programáticamente del formato BMP a otros formatos disponibles usando
+Aspose. Imaging para Java. Los archivos que tienen la extensión .BMP representan archivos de imagen de mapa de bits que se utilizan para almacenar imágenes digitales de mapa de bits. Estas imágenes son independientes del adaptador de gráficos y también se denominan formato de archivo de mapa de bits independiente del dispositivo (DIB). Esta independencia sirve para abrir el archivo en múltiples plataformas, como Microsoft Windows y Mac. El formato de archivo BMP puede almacenar datos como imágenes digitales bidimensionales tanto en formato monocromático como en color con varias profundidades de color.</p>
 <br/>
 Hay las siguientes conversiones a bordo:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,19 +1,19 @@
 ﻿---
-title: Konvertuokite vaizdus į SVG vaizdo formatą iš kitų palaikomų formatų naudodami .NET platformą 
+title: Konvertuokite vaizdus į SVG(Keičiama vektorinė grafika) vaizdo formatą iš kitų palaikomų formatų naudodami .NET platformą 
 weight: 3920
 url: /lt/net/conversion/to/svg 
 lang: lt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Naudojant Aspose.Imaging, skirta .NET bibliotekai, lengva konvertuoti į SVG iš kitų palaikomų vaizdo formatų
+description: Naudojant Aspose.Imaging, skirta .NET bibliotekai, lengva konvertuoti į SVG(Keičiama vektorinė grafika) iš kitų palaikomų vaizdo formatų
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertuokite vaizdo failus į SVG vaizdo formatą naudodami .NET platformą" h2="Konvertuokite į SVG formatą iš kitų formatų naudodami Aspose.Imaging, skirtą .NET bibliotekai" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertuokite vaizdo failus į SVG(Keičiama vektorinė grafika) vaizdo formatą naudodami .NET platformą" h2="Konvertuokite į Keičiama vektorinė grafika formatą iš kitų formatų naudodami Aspose.Imaging, skirtą .NET bibliotekai" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visos palaikomos konversijos į SVG formatą naudojant Aspose.Imaging for .NET biblioteką" %}}
-Naudodami Aspose.Imaging biblioteką galite programiškai konvertuoti įvairius vaizdo formatus į SVG vaizdą.
+{{% blocks/products/pf/feature-page-section  h2="Visos palaikomos konversijos į SVG(Keičiama vektorinė grafika) formatą naudojant Aspose.Imaging for .NET biblioteką" %}}
+<p align=justify>Naudodami Aspose.Imaging biblioteką galite programiškai konvertuoti įvairius vaizdo formatus į SVG vaizdą. SVG failai yra keičiamo dydžio vektorinės grafikos failai, kurie naudoja XML pagrįstą teksto formatą vaizdo išvaizdai apibūdinti. Žodis Scalable reiškia faktą, kad SVG galima keisti iki skirtingų dydžių neprarandant kokybės. Tekstinis tokių failų aprašymas daro juos nepriklausomus nuo skiriamosios gebos. Tai vienas iš dažniausiai naudojamų interneto svetainių kūrimo ir spausdinimo grafikos formatų, siekiant mastelio. Tačiau formatą galima naudoti tik dvimatei grafikai. SVG failus galima peržiūrėti / atidaryti beveik visose šiuolaikinėse naršyklėse, įskaitant Chrome, Internet Explorer, Firefox ir Safari.</p>
 <br/>
 Palaikomos šios konversijos:
 {{% /blocks/products/pf/feature-page-section %}}

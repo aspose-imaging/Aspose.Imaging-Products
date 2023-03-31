@@ -1,20 +1,20 @@
 ﻿---
-title: Konvertuokite iš CMX į kitus palaikomus formatus naudodami Aspose.Imaging for Java 
+title: Konvertuokite iš CMX(Corel Exchange vaizdas) į kitus palaikomus formatus naudodami Aspose.Imaging for Java API 
 weight: 3920
 url: /lt/java/conversion/from/cmx 
 lang: lt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: „Aspose.Imaging“ gali lengvai konvertuoti iš CMX į kitus formatus naudojant „Java“ platformą
+description: „Aspose.Imaging“ gali lengvai konvertuoti iš CMX(Corel Exchange vaizdas) į kitus formatus naudojant „Java“ platformą
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertuokite vaizdus iš CMX formato naudodami Aspose.Imaging for Java" h2="Konvertuokite iš CMX vaizdo formato į kitus formatus naudodami Java platformą" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertuokite vaizdus iš CMX formato naudodami Aspose.Imaging for Java" h2="Konvertuokite iš CMX(Corel Exchange vaizdas) vaizdo formato į kitus formatus naudodami Java platformą" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Platus vaizdo formatų spektras, kurį galima konvertuoti iš CMX vaizdų naudojant Aspose.Imaging for Java" %}}
-Galite programiškai konvertuoti iš CMX formato į kitus galimus formatus naudodami
-Aspose.Imaging for Java.
+{{% blocks/products/pf/feature-page-section  h2="Platus vaizdo formatų spektras, kurį galima konvertuoti iš CMX(Corel Exchange vaizdas) vaizdų naudojant Aspose.Imaging for Java" %}}
+<p align=justify>Galite programiškai konvertuoti iš CMX formato į kitus galimus formatus naudodami
+Aspose.Imaging for Java. Failai su CMX plėtiniu yra „Corel Exchange“ vaizdo failo formatas, naudojamas „CorelSuite“ programose kaip pristatymas. Jame yra vaizdo duomenys kaip vektorinė grafika, taip pat metaduomenys, apibūdinantys vaizdą. CMX failus galima atidaryti naudojant „CorelDraw“, „Corel Presentations“, „Paint Shop Pro“ ir kai kurias „Adobe Illustrator“ versijas.</p>
 <br/>
 Laive yra šios konversijos:
 {{% /blocks/products/pf/feature-page-section %}}

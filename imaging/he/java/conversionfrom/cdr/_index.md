@@ -1,20 +1,20 @@
 ﻿---
-title: המר מ-CDR לפורמטים נתמכים אחרים באמצעות Aspose.Imaging עבור Java 
+title: המר מ-CDR(תמונה של ציור וקטור) לפורמטים נתמכים אחרים באמצעות Aspose.Imaging עבור Java API 
 weight: 3920
 url: /he/java/conversion/from/cdr 
 lang: he
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging יכולה להמיר בקלות מ-CDR לפורמטים אחרים באמצעות פלטפורמת Java
+description: Aspose.Imaging יכולה להמיר בקלות מ-CDR(תמונה של ציור וקטור) לפורמטים אחרים באמצעות פלטפורמת Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="המר תמונות מפורמט CDR באמצעות Aspose.Imaging עבור Java" h2="המר מפורמט תמונה CDR לפורמטים אחרים באמצעות פלטפורמת Java" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="המר תמונות מפורמט CDR באמצעות Aspose.Imaging עבור Java" h2="המר מפורמט תמונה CDR(תמונה של ציור וקטור) לפורמטים אחרים באמצעות פלטפורמת Java" downloadText="הורד" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="ספקטרום רחב של פורמטים של תמונות שניתן להמיר מתמונות CDR באמצעות Aspose.Imaging עבור Java" %}}
-אתה יכול להמיר באופן תכנותי מפורמט CDR לפורמטים זמינים אחרים באמצעות
-Aspose.Imaging עבור Java.
+{{% blocks/products/pf/feature-page-section  h2="ספקטרום רחב של פורמטים של תמונות שניתן להמיר מתמונות CDR(תמונה של ציור וקטור) באמצעות Aspose.Imaging עבור Java" %}}
+<p align=justify>אתה יכול להמיר באופן תכנותי מפורמט CDR לפורמטים זמינים אחרים באמצעות
+Aspose.Imaging עבור Java. קובץ CDR הוא קובץ תמונת ציור וקטור שנוצר באופן מקורי עם CorelDRAW לאחסון תמונה דיגיטלית מקודדת ודחוסה. קובץ ציור כזה מכיל טקסט, קווים, צורות, תמונות, צבעים ואפקטים לייצוג וקטור של תוכן התמונה. ניתן לפתוח קבצי CDR עם CorelDRAW כיישום הראשי וניתן להמיר אותם גם לפורמטים אחרים כגון PDF, JPG, PNG, BMP ו-AI. זה יכול לשמש לייצוג של נתונים גרפיים שונים כמו חוברות, צהובונים, מעטפות וגלויות. מלבד CorelDRAW, מוצרי Corel אחרים כגון Corel Paintshop Pro ו- CorelDRAW Graphics Suite יכולים גם הם לפתוח את תבניות הקובץ CDR.</p>
 <br/>
 ישנן ההמרות הבאות על הסיפון:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,21 +1,21 @@
 ﻿---
-title: Konvertera från WEBP till andra format via .NET 
+title: Konvertera från WEBP(Raster webbbild) till andra format via .NET bild-API 
 weight: 3920
 url: /sv/net/conversion/from/webp 
 lang: sv
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Med Aspose.Imaging kan du enkelt konvertera från WEBP till ett annat format
+description: Med Aspose.Imaging kan du enkelt konvertera från WEBP(Raster webbbild) till ett annat format
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertering av bildfiler från WEBP via .NET" h2="Konvertera från WEBP till ett annat format" downloadText="Ladda ner" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertering av bildfiler från WEBP(Raster webbbild) via .NET bild-API" h2="Konvertera från Raster webbbild till andra format med Aspose.Imaging API" downloadText="Ladda ner" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alla bildformat som stöds för att konvertera från WEBP" %}}
-Aspose.Imaging låter automatisera många konverteringar från WEBP till andra format på .NET-plattformen.
+{{% blocks/products/pf/feature-page-section  h2="Alla bildformat som stöds att konvertera från WEBP(Raster webbbild)" %}}
+<p align=justify>Aspose.Imaging låter automatisera många konverteringar från WEBP till andra format på .NET-plattformen. WebP, introducerat av Google, är ett modernt rasterwebbbildsfilformat som är baserat på förlustfri och förlustfri komprimering. Den ger samma bildkvalitet samtidigt som den minskar bildstorleken avsevärt. Eftersom de flesta webbsidor använder bilder som effektiv representation av data, resulterar användningen av WebP-bilder på webbsidor i snabbare inläsning av webbsidor. Enligt Google är WebP-förlustfria bilder 26 % mindre i storlek jämfört med PNG-bilder, medan WebP-förlustfria bilder är 25-34 % mindre än jämförbara JPEG-bilder. Bilder jämförs baserat på SSIM-indexet (Structural Similarity) mellan WebP och andra bildfilformat. WebP är ett systerprojekt av WebM multimediacontainerformat.</p>
 <br/>
-Fullständig lista över omvandlingar som stöds:
+Fullständig lista över omvandlingar som stöds från WEBP:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

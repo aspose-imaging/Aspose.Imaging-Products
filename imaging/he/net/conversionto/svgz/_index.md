@@ -1,19 +1,19 @@
 ﻿---
-title: המר תמונות לפורמט תמונה SVGZ מפורמטים נתמכים אחרים באמצעות פלטפורמת NET 
+title: המר תמונות לפורמט תמונה SVGZ(גרסה דחוסה של קובץ Scalable Vector Graphics (.SVG).) מפורמטים נתמכים אחרים באמצעות פלטפורמת NET 
 weight: 3920
 url: /he/net/conversion/to/svgz 
 lang: he
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: באמצעות Aspose.Imaging עבור ספריית NET קל להמיר ל-SVGZ מפורמטי תמונה נתמכים אחרים
+description: באמצעות Aspose.Imaging עבור ספריית NET קל להמיר ל-SVGZ(גרסה דחוסה של קובץ Scalable Vector Graphics (.SVG).) מפורמטי תמונה נתמכים אחרים
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="המר קבצי תמונה לפורמט תמונה SVGZ באמצעות פלטפורמת NET" h2="המר לפורמט SVGZ מפורמטים אחרים באמצעות Aspose.Imaging עבור ספריית NET" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="המר קבצי תמונה לפורמט תמונה SVGZ(גרסה דחוסה של קובץ Scalable Vector Graphics (.SVG).) באמצעות פלטפורמת NET" h2="המר לפורמט גרסה דחוסה של קובץ Scalable Vector Graphics (.SVG). מפורמטים אחרים באמצעות Aspose.Imaging עבור ספריית NET" downloadText="הורד" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="כל ההמרות הנתמכות לפורמט SVGZ באמצעות Aspose.Imaging עבור ספריית NET" %}}
-באמצעות ספריית Aspose.Imaging אתה יכול להמיר פורמטים שונים של תמונה לתמונה SVGZ.
+{{% blocks/products/pf/feature-page-section  h2="כל ההמרות הנתמכות לפורמט SVGZ(גרסה דחוסה של קובץ Scalable Vector Graphics (.SVG).) באמצעות Aspose.Imaging עבור ספריית NET" %}}
+<p align=justify>באמצעות ספריית Aspose.Imaging אתה יכול להמיר פורמטים שונים של תמונה לתמונה SVGZ. קובץ עם סיומת .svgz הוא גרסה דחוסה של קובץ Scalable Vector Graphics (.SVG). הוא דחוס עם דחיסת gzip ומכיל נתונים בפורמט XML. קובצי SVGZ תומכים בשקיפות, מעברי צבע, אנימציות ומסננים. קבצי SVGZ קטנים יותר בהשוואה לקובצי SVG ברירת המחדל וגודל הקובץ המופחת הזה עוזר להעביר את קבצי הגרפיקה באופן מקוון. מעצב גרפי יוצר קובצי SVGZ באמצעות כלים כמו Adobe Illustrator, Corel PaintShop Pro ואחרים. עם זאת, ניתן ליצור קבצי SVGZ על ידי הפעלת דחיסת GZip בשרת ה-Apache בזמן שליחת נתוני התמונה.</p>
 <br/>
 ההמרות הבאות נתמכות:
 {{% /blocks/products/pf/feature-page-section %}}

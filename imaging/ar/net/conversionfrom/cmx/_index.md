@@ -1,21 +1,21 @@
 ﻿---
-title: حوِّل من CMX إلى تنسيقات أخرى عبر .NET 
+title: قم بالتحويل من CMX (كوريل تبادل الصورة) إلى تنسيقات أخرى عبر واجهة برمجة تطبيقات الصور .NET 
 weight: 3920
 url: /ar/net/conversion/from/cmx 
 lang: ar
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: باستخدام Aspose.Imaging ، يمكنك بسهولة التحويل من CMX إلى تنسيقات أخرى
+description: باستخدام Aspose.Imaging ، يمكنك بسهولة التحويل من CMX(كوريل تبادل الصورة) إلى تنسيقات أخرى
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل ملفات الصور من CMX عبر .NET" h2="تحويل من CMX إلى صيغ أخرى" downloadText="تحميل" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل ملفات الصور من CMX (كوريل تبادل الصورة) عبر .NET image API" h2="تحويل من كوريل تبادل الصورة إلى تنسيقات أخرى باستخدام Aspose.Imaging API" downloadText="تحميل" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="جميع تنسيقات الصور المدعومة للتحويل من CMX" %}}
-يسمح Aspose.Imaging بأتمتة الكثير من التحويلات من CMX إلى تنسيقات أخرى على منصة .NET.
+{{% blocks/products/pf/feature-page-section  h2="جميع تنسيقات الصور المدعومة المراد تحويلها من CMX (كوريل تبادل الصورة)" %}}
+<p align=justify>يسمح Aspose.Imaging بأتمتة الكثير من التحويلات من CMX إلى تنسيقات أخرى على منصة .NET. الملفات ذات امتداد CMX هي تنسيق ملف صورة Corel Exchange يتم استخدامه كعرض تقديمي بواسطة تطبيقات CorelSuite. يحتوي على بيانات الصورة كرسومات متجهة بالإضافة إلى بيانات أولية تصف الصورة. يمكن فتح ملفات CMX بواسطة CorelDraw و Corel Presentations و Paint Shop Pro وبعض إصدارات Adobe Illustrator.</p>
 <br/>
-القائمة الكاملة للتحويلات المدعومة:
+القائمة الكاملة للتحويلات المدعومة من CMX:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

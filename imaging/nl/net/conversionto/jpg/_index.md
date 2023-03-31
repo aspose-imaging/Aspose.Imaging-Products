@@ -1,19 +1,19 @@
 ﻿---
-title: Converteer afbeeldingen naar JPG afbeeldingsindeling van andere ondersteunde indelingen met behulp van het .NET-platform 
+title: Converteer afbeeldingen naar JPG(Joint Photographic Experts Group) afbeeldingsindeling van andere ondersteunde indelingen met behulp van het .NET-platform 
 weight: 3920
 url: /nl/net/conversion/to/jpg 
 lang: nl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Met Aspose.Imaging voor .NET-bibliotheek is het eenvoudig om te converteren naar JPG vanuit andere ondersteunde afbeeldingsindelingen
+description: Met Aspose.Imaging voor .NET-bibliotheek is het eenvoudig om te converteren naar JPG(Joint Photographic Experts Group) vanuit andere ondersteunde afbeeldingsindelingen
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer afbeeldingsbestanden naar JPG afbeeldingsindeling met behulp van het .NET-platform" h2="Converteer naar JPG-indeling van andere indelingen met Aspose.Imaging voor .NET-bibliotheek" downloadText="Downloaden" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer afbeeldingsbestanden naar JPG(Joint Photographic Experts Group) afbeeldingsindeling met behulp van het .NET-platform" h2="Converteer naar Joint Photographic Experts Group-indeling van andere indelingen met Aspose.Imaging voor .NET-bibliotheek" downloadText="Downloaden" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde conversies naar JPG-indeling met Aspose.Imaging voor .NET-bibliotheek" %}}
-Met behulp van de Aspose.Imaging-bibliotheek kunt u verschillende afbeeldingsindelingen programmatisch converteren naar JPG afbeelding.
+{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde conversies naar JPG(Joint Photographic Experts Group)-indeling met Aspose.Imaging voor .NET-bibliotheek" %}}
+<p align=justify>Met behulp van de Aspose.Imaging-bibliotheek kunt u verschillende afbeeldingsindelingen programmatisch converteren naar JPG afbeelding. Een JPEG is een type afbeeldingsformaat dat wordt opgeslagen met de methode van compressie met verlies. Het uitvoerbeeld, als resultaat van compressie, is een afweging tussen opslaggrootte en beeldkwaliteit. Gebruikers kunnen het compressieniveau aanpassen om het gewenste kwaliteitsniveau te bereiken en tegelijkertijd de opslagruimte verkleinen. De beeldkwaliteit wordt verwaarloosbaar beïnvloed als 10:1 compressie op de afbeelding wordt toegepast. Hoe hoger de compressiewaarde, hoe groter de verslechtering van de beeldkwaliteit.</p>
 <br/>
 De volgende conversies worden ondersteund:
 {{% /blocks/products/pf/feature-page-section %}}

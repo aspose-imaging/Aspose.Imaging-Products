@@ -1,19 +1,19 @@
 ﻿---
-title: Convertir des images au format d'image BMP à partir d'autres formats pris en charge à l'aide de la plate-forme .NET 
+title: Convertir des images au format d'image BMP(Image bitmap) à partir d'autres formats pris en charge à l'aide de la plate-forme .NET 
 weight: 3920
 url: /fr/net/conversion/to/bmp 
 lang: fr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: En utilisant Aspose.Imaging pour la bibliothèque .NET, il est facile de convertir en BMP à partir d'autres formats d'image pris en charge
+description: En utilisant Aspose.Imaging pour la bibliothèque .NET, il est facile de convertir en BMP(Image bitmap) à partir d'autres formats d'image pris en charge
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convertir les fichiers image au format d'image BMP à l'aide de la plate-forme .NET" h2="Convertir au format BMP à partir d'autres formats à l'aide de la bibliothèque Aspose.Imaging pour .NET" downloadText="Télécharger" >}}
+{{< blocks/products/pf/feature-page-header h1="Convertir les fichiers image au format d'image BMP(Image bitmap) à l'aide de la plate-forme .NET" h2="Convertir au format Image bitmap à partir d'autres formats à l'aide de la bibliothèque Aspose.Imaging pour .NET" downloadText="Télécharger" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Toutes les conversions prises en charge au format BMP à l'aide de la bibliothèque Aspose.Imaging pour .NET" %}}
-À l'aide de la bibliothèque Aspose.Imaging, vous pouvez convertir par programmation divers formats d'image en image BMP.
+{{% blocks/products/pf/feature-page-section  h2="Toutes les conversions prises en charge au format BMP(Image bitmap) à l'aide de la bibliothèque Aspose.Imaging pour .NET" %}}
+<p align=justify>À l'aide de la bibliothèque Aspose.Imaging, vous pouvez convertir par programmation divers formats d'image en image BMP. Les fichiers ayant l'extension .BMP représentent des fichiers d'image bitmap utilisés pour stocker des images numériques bitmap. Ces images sont indépendantes de la carte graphique et sont également appelées format de fichier bitmap indépendant du périphérique (DIB). Cette indépendance sert à ouvrir le fichier sur plusieurs plates-formes telles que Microsoft Windows et Mac. Le format de fichier BMP peut stocker des données sous forme d'images numériques bidimensionnelles au format monochrome et couleur avec différentes profondeurs de couleur. </p>
 <br/>
 Les conversions suivantes sont prises en charge :
 {{% /blocks/products/pf/feature-page-section %}}

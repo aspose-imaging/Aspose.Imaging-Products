@@ -1,21 +1,21 @@
 ﻿---
-title: Konversikan dari JPG ke format lain Melalui .NET 
+title: Konversikan dari JPG(Kelompok Ahli Fotografi Bersama) ke format lain Melalui API gambar .NET 
 weight: 3920
 url: /id/net/conversion/from/jpg 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi dari JPG ke format lain
+description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi dari JPG(Kelompok Ahli Fotografi Bersama) ke format lain
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar dari JPG Melalui .NET" h2="Konversikan dari JPG ke format lain" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar dari JPG(Kelompok Ahli Fotografi Bersama) Melalui API gambar .NET" h2="Konversikan dari Kelompok Ahli Fotografi Bersama ke format lain menggunakan Aspose.Imaging API" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari JPG" %}}
-Aspose.Imaging memungkinkan mengotomatiskan banyak konversi dari JPG ke format lain di platform .NET.
+{{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari JPG(Kelompok Ahli Fotografi Bersama)" %}}
+<p align=justify>Aspose.Imaging memungkinkan mengotomatiskan banyak konversi dari JPG ke format lain di platform .NET. JPEG adalah jenis format gambar yang disimpan menggunakan metode kompresi lossy. Gambar keluaran, sebagai hasil kompresi, merupakan pertukaran antara ukuran penyimpanan dan kualitas gambar. Pengguna dapat menyesuaikan tingkat kompresi untuk mencapai tingkat kualitas yang diinginkan sekaligus mengurangi ukuran penyimpanan. Kualitas gambar tidak terlalu terpengaruh jika kompresi 10:1 diterapkan pada gambar. Semakin tinggi nilai kompresi, semakin tinggi penurunan kualitas gambar.</p>
 <br/>
-Daftar lengkap konversi yang didukung:
+Daftar lengkap konversi yang didukung dari JPG:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

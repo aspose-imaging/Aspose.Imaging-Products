@@ -1,21 +1,21 @@
 ﻿---
-title: Convert from JP2 to other formats Via .NET 
+title: Convert from JP2(JPEG 2000) to other formats Via .NET image API 
 weight: 3920
 url: /net/conversion/from/jp2 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Using Aspose.Imaging you can easily convert from JP2 to other formats
+description: Using Aspose.Imaging for .NET you can easily convert from JP2(JPEG 2000) to other formats
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Image Files Conversion from JP2 Via .NET" h2="Convert from JP2 to other formats" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Image Files Conversion from JP2(JPEG 2000) Via .NET image API" h2="Convert from JPEG 2000 to other formats using Aspose.Imaging API" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from JP2" %}}
-Aspose.Imaging allows automate a lot of conversions from JP2 to other formats on .NET platform.
+{{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from JP2(JPEG 2000)" %}}
+<p align=justify>Aspose.Imaging allows automate a lot of conversions from JP2 to other formats on .NET platform. JPEG 2000 (JP2) is an image coding system and state-of-the-art image compression standard. Designed, using wavelet technology JPEG 2000 can code lossless content in any quality at once. Moreover, without any substantial penalty in coding efficiency, JPEG 2000 have the capability to access and decode the same content efficaciously into a variety of other resolutions and qualities. The code streams in JPEG 2000 is significantly scalable having regions of interest that provide the facility for spatial random access. Possessing Up to 16384 diverse components with the dimensions in terapixels, and precision that can be high as 38 bits/sample.</p>
 <br/>
-Full list of supported conversions:
+Full list of supported conversions from JP2:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

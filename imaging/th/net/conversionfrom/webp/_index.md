@@ -1,21 +1,21 @@
 ﻿---
-title: แปลงจาก WEBP เป็นรูปแบบอื่นผ่าน .NET 
+title: แปลงจาก WEBP(รูปภาพเว็บแรสเตอร์) เป็นรูปแบบอื่นผ่าน .NET image API 
 weight: 3920
 url: /th/net/conversion/from/webp 
 lang: th
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: เมื่อใช้ Aspose.Imaging คุณสามารถแปลงจาก WEBP เป็นรูปแบบอื่นได้อย่างง่ายดาย
+description: เมื่อใช้ Aspose.Imaging คุณสามารถแปลงจาก WEBP(รูปภาพเว็บแรสเตอร์) เป็นรูปแบบอื่นได้อย่างง่ายดาย
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="การแปลงไฟล์รูปภาพจาก WEBP ผ่าน .NET" h2="แปลงจาก WEBP เป็นรูปแบบอื่น" downloadText="ดาวน์โหลด" >}}
+{{< blocks/products/pf/feature-page-header h1="การแปลงไฟล์อิมเมจจาก WEBP(รูปภาพเว็บแรสเตอร์) ผ่าน .NET image API" h2="แปลงจาก รูปภาพเว็บแรสเตอร์ เป็นรูปแบบอื่นโดยใช้ Aspose.Imaging API" downloadText="ดาวน์โหลด" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="รูปแบบภาพที่รองรับทั้งหมดที่จะแปลงจาก WEBP" %}}
-Aspose.Imaging ช่วยให้การแปลงจำนวนมากโดยอัตโนมัติจาก WEBP เป็นรูปแบบอื่นบนแพลตฟอร์ม .NET
+{{% blocks/products/pf/feature-page-section  h2="รูปแบบรูปภาพที่รองรับทั้งหมดที่จะแปลงจาก WEBP(รูปภาพเว็บแรสเตอร์)" %}}
+<p align=justify>Aspose.Imaging ช่วยให้การแปลงจำนวนมากโดยอัตโนมัติจาก WEBP เป็นรูปแบบอื่นบนแพลตฟอร์ม .NET WebP ซึ่งเปิดตัวโดย Google เป็นรูปแบบไฟล์ภาพเว็บแรสเตอร์ที่ทันสมัยซึ่งใช้การบีบอัดแบบไม่สูญเสียข้อมูลและการสูญเสียข้อมูล ให้คุณภาพของภาพเท่าเดิมในขณะที่ลดขนาดภาพลงอย่างมาก เนื่องจากหน้าเว็บส่วนใหญ่ใช้รูปภาพเป็นตัวแทนข้อมูลที่มีประสิทธิภาพ การใช้รูปภาพ WebP ในหน้าเว็บส่งผลให้โหลดหน้าเว็บเร็วขึ้น ตาม Google รูปภาพที่ไม่สูญเสียของ WebP มีขนาดเล็กกว่า 26% เมื่อเทียบกับ PNG ในขณะที่รูปภาพที่สูญเสียของ WebP นั้นเล็กกว่าภาพ JPEG ที่เปรียบเทียบได้ 25-34% รูปภาพจะถูกเปรียบเทียบโดยอิงตามดัชนีความคล้ายคลึงกันของโครงสร้าง (SSIM) ระหว่าง WebP และรูปแบบไฟล์รูปภาพอื่นๆ WebP เป็นโครงการน้องสาวของรูปแบบคอนเทนเนอร์มัลติมีเดียของ WebM</p>
 <br/>
-รายการการแปลงที่รองรับทั้งหมด:
+รายการทั้งหมดของการแปลงที่รองรับจาก WEBP:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

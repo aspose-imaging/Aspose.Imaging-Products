@@ -1,19 +1,19 @@
 ﻿---
-title: Перетворіть зображення у формат ICO з інших підтримуваних форматів за допомогою платформи .NET 
+title: Перетворіть зображення у формат ICO(Значок Windows) з інших підтримуваних форматів за допомогою платформи .NET 
 weight: 3920
 url: /uk/net/conversion/to/ico 
 lang: uk
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: За допомогою бібліотеки Aspose.Imaging для .NET можна легко конвертувати в ICO інші підтримувані формати зображень
+description: За допомогою бібліотеки Aspose.Imaging для .NET можна легко конвертувати в ICO(Значок Windows) інші підтримувані формати зображень
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Перетворюйте файли зображень у формат зображення ICO за допомогою платформи .NET" h2="Перетворіть у формат ICO інші формати за допомогою бібліотеки Aspose.Imaging для .NET" downloadText="Завантажити" >}}
+{{< blocks/products/pf/feature-page-header h1="Перетворюйте файли зображень у формат зображення ICO(Значок Windows) за допомогою платформи .NET" h2="Перетворіть у формат Значок Windows інші формати за допомогою бібліотеки Aspose.Imaging для .NET" downloadText="Завантажити" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані перетворення у формат ICO за допомогою бібліотеки Aspose.Imaging для .NET" %}}
-Використовуючи бібліотеку Aspose.Imaging, ви можете програмно конвертувати різні формати зображень у зображення ICO.
+{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані перетворення у формат ICO(Значок Windows) за допомогою бібліотеки Aspose.Imaging для .NET" %}}
+<p align=justify>Використовуючи бібліотеку Aspose.Imaging, ви можете програмно конвертувати різні формати зображень у зображення ICO. Формат файлу ICO — це формат файлу зображення для комп’ютерних значків у Microsoft Windows. Файли ICO містять одне або кілька невеликих зображень різних розмірів і глибини кольору, щоб їх можна було відповідно масштабувати. У Windows усі виконувані файли, які відображають піктограму для користувача на робочому столі, у меню «Пуск» або в Провіднику Windows, повинні мати піктограму у форматі ICO. </p>
 <br/>
 Підтримуються наступні перетворення:
 {{% /blocks/products/pf/feature-page-section %}}

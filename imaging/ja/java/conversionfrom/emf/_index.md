@@ -1,20 +1,20 @@
 ﻿---
-title: Aspose.Imaging for Java を使用して、EMF から他のサポートされている形式に変換します。 
+title: Aspose.Imaging for Java API を使用して、EMF(強化されたメタファイル形式) から他のサポートされている形式に変換します。 
 weight: 3920
 url: /ja/java/conversion/from/emf 
 lang: ja
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging は、Java プラットフォームを使用して EMF から他のフォーマットに簡単に変換できます
+description: Aspose.Imaging は、Java プラットフォームを使用して EMF(強化されたメタファイル形式) から他のフォーマットに簡単に変換できます
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java を使用して EMF フォーマットから画像を変換します" h2="Java プラットフォームを使用して、EMF 画像形式から他の形式に変換します" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java を使用して EMF フォーマットから画像を変換します" h2="Java プラットフォームを使用して、EMF(強化されたメタファイル形式) 画像形式から他の形式に変換します" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java を使用して EMF 画像から変換できる幅広い画像フォーマット" %}}
-次を使用して、EMF 形式から他の使用可能な形式にプログラムで変換できます。
-Aspose.Imaging for Java。
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java を使用して EMF(強化されたメタファイル形式) 画像から変換できる幅広い画像フォーマット" %}}
+<p align=justify>次を使用して、EMF 形式から他の使用可能な形式にプログラムで変換できます。
+Aspose.Imaging for Java。 拡張メタファイル形式（EMF）は、グラフィック画像をデバイスに依存せずに保存します。 EMFのメタファイルは、任意の出力デバイスで解析した後、保存された画像をレンダリングできる時系列の可変長レコードで構成されます。これらの可変長レコードは、囲まれたオブジェクトの定義、描画用のコマンド、および画像を正確にレンダリングするために重要なグラフィックスプロパティにすることができます。デバイスが独自のグラフィックス環境を使用してEMFメタファイルを開くと、開いているデバイスプラットフォームに関係なく、元の画像の比率、寸法、色、およびその他のグラフィックプロパティは同じままです。</p>
 <br/>
 機内では次の変換があります。
 {{% /blocks/products/pf/feature-page-section %}}

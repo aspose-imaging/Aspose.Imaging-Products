@@ -1,20 +1,20 @@
 ﻿---
-title: Перетворюйте з EPS в інші підтримувані формати за допомогою Aspose.Imaging для Java 
+title: Перетворюйте з EPS(Мова інкапсульованого PostScript) в інші підтримувані формати за допомогою Aspose.Imaging for Java API 
 weight: 3920
 url: /uk/java/conversion/from/eps 
 lang: uk
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging може легко конвертувати з EPS в інші формати за допомогою платформи Java
+description: Aspose.Imaging може легко конвертувати з EPS(Мова інкапсульованого PostScript) в інші формати за допомогою платформи Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Перетворіть зображення з формату EPS за допомогою Aspose.Imaging for Java" h2="Перетворіть формат зображення EPS в інші формати за допомогою платформи Java" downloadText="Завантажити" >}}
+{{< blocks/products/pf/feature-page-header h1="Перетворіть зображення з формату EPS за допомогою Aspose.Imaging for Java" h2="Перетворіть формат зображення EPS(Мова інкапсульованого PostScript) в інші формати за допомогою платформи Java" downloadText="Завантажити" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Спектр форматів зображень, які можна конвертувати з EPS зображень за допомогою Aspose.Imaging for Java" %}}
-Ви можете програмно конвертувати формат EPS в інші доступні формати за допомогою
-Aspose.Imaging for Java.
+{{% blocks/products/pf/feature-page-section  h2="Спектр форматів зображень, які можна конвертувати з EPS(Мова інкапсульованого PostScript) зображень за допомогою Aspose.Imaging for Java" %}}
+<p align=justify>Ви можете програмно конвертувати формат EPS в інші доступні формати за допомогою
+Aspose.Imaging for Java. Файли з розширенням EPS по суті описують програму на мові Encapsulated PostScript, яка описує зовнішній вигляд однієї сторінки. Назва «Інкапсульований», оскільки її можна включити або інкапсулювати в опис сторінки іншою мовою PostScript. Цей формат файлу на основі сценарію може містити будь-яку комбінацію тексту, графіки та зображень. Файли EPS можуть містити растрове зображення попереднього перегляду, інкапсульоване всередину для відображення програмами, які можуть відкривати такі файли. Файли EPS можна конвертувати в стандартні формати зображень, такі як JPG, PNG, TIFF і PDF, за допомогою різних програм, напр. Adobe Illustrator, Photoshop і PaintShop Pro. Через вразливість у безпеці файлів EPS Office 2016, Office 2013, Office 2010 і Office 365 вимкнули можливість вставляти файли EPS у документи Office.</p>
 <br/>
 Наведено такі перетворення:
 {{% /blocks/products/pf/feature-page-section %}}

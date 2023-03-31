@@ -1,21 +1,21 @@
 ﻿---
-title: Chuyển đổi từ CMX sang các định dạng khác Qua .NET 
+title: Chuyển đổi từ CMX(Hình ảnh trao đổi Corel) sang các định dạng khác Qua API hình ảnh .NET 
 weight: 3920
 url: /vi/net/conversion/from/cmx 
 lang: vi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng chuyển đổi từ CMX sang các định dạng khác
+description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng chuyển đổi từ CMX(Hình ảnh trao đổi Corel) sang các định dạng khác
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Chuyển đổi tệp hình ảnh từ CMX qua .NET" h2="Chuyển đổi từ CMX sang định dạng khác" downloadText="Tải xuống" >}}
+{{< blocks/products/pf/feature-page-header h1="Chuyển đổi tệp hình ảnh từ CMX(Hình ảnh trao đổi Corel) qua API hình ảnh .NET" h2="Chuyển đổi từ Hình ảnh trao đổi Corel sang các định dạng khác bằng API Aspose.Imaging" downloadText="Tải xuống" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tất cả các định dạng hình ảnh được hỗ trợ để chuyển đổi từ CMX" %}}
-Aspose.Imaging cho phép tự động hóa rất nhiều chuyển đổi từ CMX sang các định dạng khác trên nền tảng .NET.
+{{% blocks/products/pf/feature-page-section  h2="Tất cả các định dạng hình ảnh được hỗ trợ để chuyển đổi từ CMX(Hình ảnh trao đổi Corel)" %}}
+<p align=justify>Aspose.Imaging cho phép tự động hóa rất nhiều chuyển đổi từ CMX sang các định dạng khác trên nền tảng .NET. Các tệp có phần mở rộng CMX là định dạng tệp hình ảnh Corel Exchange được sử dụng làm bản trình bày bởi các ứng dụng CorelSuite. Nó chứa dữ liệu hình ảnh dưới dạng đồ họa vectơ cũng như siêu dữ liệu mô tả hình ảnh. Các tệp CMX có thể được mở bằng CorelDraw, Corel Presentations, Paint Shop Pro và một số phiên bản của Adobe Illustrator.</p>
 <br/>
-Danh sách đầy đủ các chuyển đổi được hỗ trợ:
+Danh sách đầy đủ các chuyển đổi được hỗ trợ từ CMX:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

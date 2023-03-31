@@ -1,20 +1,20 @@
 ﻿---
-title: המר מ-DNG לפורמטים נתמכים אחרים באמצעות Aspose.Imaging עבור Java 
+title: המר מ-DNG(תמונת מצלמה דיגיטלית) לפורמטים נתמכים אחרים באמצעות Aspose.Imaging עבור Java API 
 weight: 3920
 url: /he/java/conversion/from/dng 
 lang: he
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging יכולה להמיר בקלות מ-DNG לפורמטים אחרים באמצעות פלטפורמת Java
+description: Aspose.Imaging יכולה להמיר בקלות מ-DNG(תמונת מצלמה דיגיטלית) לפורמטים אחרים באמצעות פלטפורמת Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="המר תמונות מפורמט DNG באמצעות Aspose.Imaging עבור Java" h2="המר מפורמט תמונה DNG לפורמטים אחרים באמצעות פלטפורמת Java" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="המר תמונות מפורמט DNG באמצעות Aspose.Imaging עבור Java" h2="המר מפורמט תמונה DNG(תמונת מצלמה דיגיטלית) לפורמטים אחרים באמצעות פלטפורמת Java" downloadText="הורד" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="ספקטרום רחב של פורמטים של תמונות שניתן להמיר מתמונות DNG באמצעות Aspose.Imaging עבור Java" %}}
-אתה יכול להמיר באופן תכנותי מפורמט DNG לפורמטים זמינים אחרים באמצעות
-Aspose.Imaging עבור Java.
+{{% blocks/products/pf/feature-page-section  h2="ספקטרום רחב של פורמטים של תמונות שניתן להמיר מתמונות DNG(תמונת מצלמה דיגיטלית) באמצעות Aspose.Imaging עבור Java" %}}
+<p align=justify>אתה יכול להמיר באופן תכנותי מפורמט DNG לפורמטים זמינים אחרים באמצעות
+Aspose.Imaging עבור Java. DNG הוא פורמט תמונה של מצלמה דיגיטלית המשמש לאחסון קבצי גלם. הוא פותח על ידי אדובי בספטמבר 2004. הוא פותח בעיקרו עבור צילום דיגיטלי. DNG הוא הרחבה של פורמט תקן TIFF/EP ומשתמש במטא נתונים באופן משמעותי. על מנת לתפעל נתונים גולמיים ממצלמות דיגיטליות בקלות גמישות ושליטה אמנותית, צלמים בוחרים בקבצי מצלמה גולמיים. פורמטים JPEG ו-TIFF מאחסנים תמונות המעובדות על ידי המצלמה, ולכן אין הרבה מקום לשינויים בפורמטים כאלה.</p>
 <br/>
 ישנן ההמרות הבאות על הסיפון:
 {{% /blocks/products/pf/feature-page-section %}}

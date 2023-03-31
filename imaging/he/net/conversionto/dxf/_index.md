@@ -1,19 +1,19 @@
 ﻿---
-title: המר תמונות לפורמט תמונה DXF מפורמטים נתמכים אחרים באמצעות פלטפורמת NET 
+title: המר תמונות לפורמט תמונה DXF(Drawing Interchange Format, או Drawing Exchange Format,) מפורמטים נתמכים אחרים באמצעות פלטפורמת NET 
 weight: 3920
 url: /he/net/conversion/to/dxf 
 lang: he
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: באמצעות Aspose.Imaging עבור ספריית NET קל להמיר ל-DXF מפורמטי תמונה נתמכים אחרים
+description: באמצעות Aspose.Imaging עבור ספריית NET קל להמיר ל-DXF(Drawing Interchange Format, או Drawing Exchange Format,) מפורמטי תמונה נתמכים אחרים
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="המר קבצי תמונה לפורמט תמונה DXF באמצעות פלטפורמת NET" h2="המר לפורמט DXF מפורמטים אחרים באמצעות Aspose.Imaging עבור ספריית NET" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="המר קבצי תמונה לפורמט תמונה DXF(Drawing Interchange Format, או Drawing Exchange Format,) באמצעות פלטפורמת NET" h2="המר לפורמט Drawing Interchange Format, או Drawing Exchange Format, מפורמטים אחרים באמצעות Aspose.Imaging עבור ספריית NET" downloadText="הורד" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="כל ההמרות הנתמכות לפורמט DXF באמצעות Aspose.Imaging עבור ספריית NET" %}}
-באמצעות ספריית Aspose.Imaging אתה יכול להמיר פורמטים שונים של תמונה לתמונה DXF.
+{{% blocks/products/pf/feature-page-section  h2="כל ההמרות הנתמכות לפורמט DXF(Drawing Interchange Format, או Drawing Exchange Format,) באמצעות Aspose.Imaging עבור ספריית NET" %}}
+<p align=justify>באמצעות ספריית Aspose.Imaging אתה יכול להמיר פורמטים שונים של תמונה לתמונה DXF. DXF, Drawing Interchange Format, או Drawing Exchange Format, הוא ייצוג נתונים מתויג של קובץ ציור AutoCAD. לכל רכיב בקובץ יש קידומת מספר שלם הנקרא קוד קבוצה. קוד קבוצה זה מייצג למעשה את האלמנט שאחריו ומציין את המשמעות של אלמנט נתונים עבור סוג אובייקט נתון. DXF מאפשר לייצג כמעט את כל המידע שצוין על ידי המשתמש בקובץ ציור.</p>
 <br/>
 ההמרות הבאות נתמכות:
 {{% /blocks/products/pf/feature-page-section %}}

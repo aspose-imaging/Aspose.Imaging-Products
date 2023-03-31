@@ -1,20 +1,20 @@
 ﻿---
-title: Konvertera från CDR till andra format som stöds med Aspose.Imaging för Java 
+title: Konvertera från CDR(Vektor Ritning Bild) till andra format som stöds med Aspose.Imaging för Java API 
 weight: 3920
 url: /sv/java/conversion/from/cdr 
 lang: sv
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging kan enkelt konvertera från CDR till andra format med hjälp av Java-plattformen
+description: Aspose.Imaging kan enkelt konvertera från CDR(Vektor Ritning Bild) till andra format med hjälp av Java-plattformen
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertera bilder från formatet CDR med Aspose.Imaging för Java" h2="Konvertera från CDR bildformat till andra format med Java-plattformen" downloadText="Ladda ner" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertera bilder från formatet CDR med Aspose.Imaging för Java" h2="Konvertera från CDR(Vektor Ritning Bild) bildformat till andra format med Java-plattformen" downloadText="Ladda ner" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Brett spektrum av bildformat som kan konverteras från CDR-bilder med Aspose.Imaging för Java" %}}
-Du kan programmatiskt konvertera från formatet CDR till andra tillgängliga format med hjälp av
-Aspose.Imaging för Java.
+{{% blocks/products/pf/feature-page-section  h2="Brett spektrum av bildformat som kan konverteras från CDR(Vektor Ritning Bild)-bilder med Aspose.Imaging för Java" %}}
+<p align=justify>Du kan programmatiskt konvertera från formatet CDR till andra tillgängliga format med hjälp av
+Aspose.Imaging för Java. En CDR-fil är en vektorritningsbildfil som skapas med CorelDRAW för att lagra digitala bilder kodade och komprimerade. En sådan ritfil innehåller text, linjer, former, bilder, färger och effekter för vektorrepresentation av bildinnehåll. CDR-filer kan öppnas med CorelDRAW som primärapplikation och kan även konverteras till andra format som PDF, JPG, PNG, BMP och AI. Den kan användas för representation av olika grafiska data som broschyrer, tabloider, kuvert och vykort. Förutom CorelDRAW kan andra Corel-produkter som Corel Paintshop Pro och CorelDRAW Graphics Suite också öppna CDR-filformaten.</p>
 <br/>
 Det finns följande konverteringar ombord:
 {{% /blocks/products/pf/feature-page-section %}}

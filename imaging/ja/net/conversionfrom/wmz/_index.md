@@ -1,21 +1,21 @@
 ﻿---
-title: .NET 経由で WMZ から他の形式に変換します 
+title: .NET 画像 API を介して WMZ(圧縮されたWindowsMediaPlayerスキン) から他の形式に変換する 
 weight: 3920
 url: /ja/net/conversion/from/wmz 
 lang: ja
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging を使用すると、WMZ から別のフォーマットに簡単に変換できます
+description: Aspose.Imaging を使用すると、WMZ(圧縮されたWindowsMediaPlayerスキン) から別のフォーマットに簡単に変換できます
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET による WMZ からの画像ファイルの変換" h2="WMZ から別の形式に変換する" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET 画像 API を介した WMZ(圧縮されたWindowsMediaPlayerスキン) からの画像ファイルの変換" h2="Aspose.Imaging API を使用して 圧縮されたWindowsMediaPlayerスキン から他のフォーマットに変換" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="WMZ から変換する、サポートされているすべての画像形式" %}}
-Aspose.Imaging を使用すると、WMZ から .NET プラットフォーム上の他のフォーマットへの多くの変換を自動化できます。
+{{% blocks/products/pf/feature-page-section  h2="WMZ(圧縮されたWindowsMediaPlayerスキン) から変換する、サポートされているすべての画像形式" %}}
+<p align=justify>Aspose.Imaging を使用すると、WMZ から .NET プラットフォーム上の他のフォーマットへの多くの変換を自動化できます。 WMZは、Windows MediaPlayerで使用される/使用される/使用されるスキンファイル形式のファイル拡張子です。 WMZファイルは、基本的にXML形式のzip形式のWMFファイルです。</p>
 <br/>
-サポートされている変換の完全なリスト:
+サポートされている WMZ からの変換の完全なリスト:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

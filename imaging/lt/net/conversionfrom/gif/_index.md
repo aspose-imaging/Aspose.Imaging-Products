@@ -1,21 +1,21 @@
 ﻿---
-title: Konvertuoti iš GIF į kitus formatus per .NET 
+title: Konvertuoti iš GIF(Grafinis mainų formatas) į kitus formatus naudojant .NET vaizdo API 
 weight: 3920
 url: /lt/net/conversion/from/gif 
 lang: lt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Naudodami Aspose.Imaging galite lengvai konvertuoti iš GIF į kitus formatus
+description: Naudodami Aspose.Imaging galite lengvai konvertuoti iš GIF(Grafinis mainų formatas) į kitus formatus
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas iš GIF naudojant .NET" h2="Konvertuoti iš GIF į kitus formatus" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas iš GIF(Grafinis mainų formatas) naudojant .NET vaizdo API" h2="Konvertuokite iš Grafinis mainų formatas į kitus formatus naudodami Aspose.Imaging API" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai konvertuoti iš GIF" %}}
-Aspose.Imaging leidžia automatizuoti daug konversijų iš GIF į kitus formatus .NET platformoje.
+{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai, konvertuojami iš GIF(Grafinis mainų formatas)" %}}
+<p align=justify>Aspose.Imaging leidžia automatizuoti daug konversijų iš GIF į kitus formatus .NET platformoje. GIF arba grafinis mainų formatas yra labai suspausto vaizdo tipas. „Unisys“ priklausantis GIF naudoja LZW glaudinimo algoritmą, kuris nepablogina vaizdo kokybės. Kiekvienam vaizdui GIF paprastai leidžia iki 8 bitų viename pikselyje ir iki 256 spalvų visame vaizde. Priešingai nei JPEG vaizdas, kuris gali rodyti iki 16 milijonų spalvų ir gana paliečia žmogaus akies ribas. Kai atsirado internetas, GIF išliko geriausiu pasirinkimu, nes jiems reikėjo mažo pralaidumo ir jie buvo suderinami su grafika, kuri naudoja vientisas spalvų sritis. Animacinis GIF sujungia daugybę vaizdų arba kadrų į vieną failą ir pateikia juos seka, kad būtų sukurtas animacinis klipas arba trumpas vaizdo įrašas. Spalvų apribojimai yra iki 256 kiekvienam kadrui ir greičiausiai bus mažiausiai tinkami kitiems vaizdams ir nuotraukoms su spalvų gradientu atkurti.</p>
 <br/>
-Visas palaikomų konversijų sąrašas:
+Visas palaikomų konversijų iš GIF sąrašas:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

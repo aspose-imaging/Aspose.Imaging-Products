@@ -1,21 +1,21 @@
 ﻿---
-title: Конвертувати з TIF в інші формати за допомогою .NET 
+title: Перетворення з TIF(Формат зображення з тегами) в інші формати за допомогою API зображень .NET 
 weight: 3920
 url: /uk/net/conversion/from/tif 
 lang: uk
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: За допомогою Aspose.Imaging ви можете легко конвертувати з TIF в інші формати
+description: За допомогою Aspose.Imaging ви можете легко конвертувати з TIF(Формат зображення з тегами) в інші формати
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Перетворення файлів зображень з TIF за допомогою .NET" h2="Конвертувати з TIF в інші формати" downloadText="Завантажити" >}}
+{{< blocks/products/pf/feature-page-header h1="Перетворення файлів зображень із TIF(Формат зображення з тегами) через API зображень .NET" h2="Перетворюйте з Формат зображення з тегами в інші формати за допомогою API Aspose.Imaging" downloadText="Завантажити" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для конвертації з TIF" %}}
-Aspose.Imaging дозволяє автоматизувати багато перетворень із TIF в інші формати на платформі .NET.
+{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для конвертації з TIF(Формат зображення з тегами)" %}}
+<p align=justify>Aspose.Imaging дозволяє автоматизувати багато перетворень із TIF в інші формати на платформі .NET. </p>
 <br/>
-Повний список підтримуваних конвертацій:
+Повний список підтримуваних конвертацій із TIF:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

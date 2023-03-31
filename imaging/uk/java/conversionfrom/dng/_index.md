@@ -1,20 +1,20 @@
 ﻿---
-title: Перетворюйте з DNG в інші підтримувані формати за допомогою Aspose.Imaging для Java 
+title: Перетворюйте з DNG(Зображення цифрової камери) в інші підтримувані формати за допомогою Aspose.Imaging for Java API 
 weight: 3920
 url: /uk/java/conversion/from/dng 
 lang: uk
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging може легко конвертувати з DNG в інші формати за допомогою платформи Java
+description: Aspose.Imaging може легко конвертувати з DNG(Зображення цифрової камери) в інші формати за допомогою платформи Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Перетворіть зображення з формату DNG за допомогою Aspose.Imaging for Java" h2="Перетворіть формат зображення DNG в інші формати за допомогою платформи Java" downloadText="Завантажити" >}}
+{{< blocks/products/pf/feature-page-header h1="Перетворіть зображення з формату DNG за допомогою Aspose.Imaging for Java" h2="Перетворіть формат зображення DNG(Зображення цифрової камери) в інші формати за допомогою платформи Java" downloadText="Завантажити" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Спектр форматів зображень, які можна конвертувати з DNG зображень за допомогою Aspose.Imaging for Java" %}}
-Ви можете програмно конвертувати формат DNG в інші доступні формати за допомогою
-Aspose.Imaging for Java.
+{{% blocks/products/pf/feature-page-section  h2="Спектр форматів зображень, які можна конвертувати з DNG(Зображення цифрової камери) зображень за допомогою Aspose.Imaging for Java" %}}
+<p align=justify>Ви можете програмно конвертувати формат DNG в інші доступні формати за допомогою
+Aspose.Imaging for Java. DNG — це формат зображення цифрової камери, який використовується для зберігання необроблених файлів. Він був розроблений Adobe у вересні 2004 року. В основному він був розроблений для цифрової фотографії. DNG є розширенням стандартного формату TIFF/EP і значно використовує метадані. Щоб маніпулювати необробленими даними з цифрових камер із легкою гнучкістю та художнім контролем, фотографи вибирають файли Camera Raw. У форматах JPEG і TIFF зберігаються зображення, оброблені камерою, тому в таких форматах мало місця для змін.</p>
 <br/>
 Наведено такі перетворення:
 {{% /blocks/products/pf/feature-page-section %}}

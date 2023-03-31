@@ -1,21 +1,21 @@
 ﻿---
-title: Конвертировать из BMP в другие форматы с помощью .NET 
+title: Преобразование из BMP(Растровое изображение) в другие форматы с помощью API изображений .NET 
 weight: 3920
 url: /ru/net/conversion/from/bmp 
 lang: ru
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Используя Aspose.Imaging, вы можете легко конвертировать из BMP в другие форматы.
+description: Используя Aspose.Imaging, вы можете легко конвертировать из BMP(Растровое изображение) в другие форматы.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование файлов изображений из BMP с помощью .NET" h2="Конвертировать из BMP в другие форматы" downloadText="Скачать" >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование файлов изображений из BMP(Растровое изображение) через .NET API изображений" h2="Преобразование из Растровое изображение в другие форматы с помощью Aspose.Imaging API" downloadText="Скачать" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Все поддерживаемые форматы изображений для преобразования из BMP" %}}
-Aspose.Imaging позволяет автоматизировать множество преобразований из BMP в другие форматы на платформе .NET.
+{{% blocks/products/pf/feature-page-section  h2="Все поддерживаемые форматы изображений для преобразования из BMP(Растровое изображение)" %}}
+<p align=justify>Aspose.Imaging позволяет автоматизировать множество преобразований из BMP в другие форматы на платформе .NET. Файлы с расширением .BMP представляют файлы растровых изображений, которые используются для хранения растровых цифровых изображений. Эти изображения не зависят от графического адаптера и также называются форматом файла независимого от устройства растрового изображения (DIB). Эта независимость служит цели открытия файла на нескольких платформах, таких как Microsoft Windows и Mac. Формат файла BMP может хранить данные в виде двумерных цифровых изображений как в монохромном, так и в цветном формате с различной глубиной цвета.</p>
 <br/>
-Полный список поддерживаемых преобразований:
+Полный список поддерживаемых преобразований из BMP:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

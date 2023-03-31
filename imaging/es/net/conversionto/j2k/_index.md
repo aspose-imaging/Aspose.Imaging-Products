@@ -1,19 +1,19 @@
 ﻿---
-title: Convierta imágenes al formato de imagen J2K desde otros formatos compatibles utilizando la plataforma .NET 
+title: Convierta imágenes al formato de imagen J2K(Imagen comprimida Wavelet) desde otros formatos compatibles utilizando la plataforma .NET 
 weight: 3920
 url: /es/net/conversion/to/j2k 
 lang: es
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging para la biblioteca .NET, es fácil convertir a J2K desde otros formatos de imagen compatibles
+description: Usando Aspose.Imaging para la biblioteca .NET, es fácil convertir a J2K(Imagen comprimida Wavelet) desde otros formatos de imagen compatibles
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convierta archivos de imagen a formato de imagen J2K utilizando la plataforma .NET" h2="Convierta al formato J2K desde otros formatos usando Aspose.Imaging para la biblioteca .NET" downloadText="Descargar" >}}
+{{< blocks/products/pf/feature-page-header h1="Convierta archivos de imagen a formato de imagen J2K(Imagen comprimida Wavelet) utilizando la plataforma .NET" h2="Convierta al formato Imagen comprimida Wavelet desde otros formatos usando Aspose.Imaging para la biblioteca .NET" downloadText="Descargar" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todas las conversiones admitidas al formato J2K usando Aspose.Imaging para la biblioteca .NET" %}}
-Con la biblioteca Aspose.Imaging, puede convertir mediante programación varios formatos de imagen a la imagen J2K.
+{{% blocks/products/pf/feature-page-section  h2="Todas las conversiones admitidas al formato J2K(Imagen comprimida Wavelet) usando Aspose.Imaging para la biblioteca .NET" %}}
+<p align=justify>Con la biblioteca Aspose.Imaging, puede convertir mediante programación varios formatos de imagen a la imagen J2K. Un archivo J2K es una imagen que se comprime mediante la compresión wavelet en lugar de la compresión DCT. </p>
 <br/>
 Se admiten las siguientes conversiones:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,21 +1,21 @@
 ﻿---
-title: Converta de EMZ para outros formatos via .NET 
+title: Converta de EMZ(Meta-arquivo aprimorado compactado do Windows) para outros formatos por meio da API de imagem .NET 
 weight: 3920
 url: /pt/net/conversion/from/emz 
 lang: pt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging você pode facilmente converter de EMZ para outros formatos
+description: Usando Aspose.Imaging você pode facilmente converter de EMZ(Meta-arquivo aprimorado compactado do Windows) para outros formatos
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversão de arquivos de imagem de EMZ via .NET" h2="Converter de EMZ para outros formatos" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversão de arquivos de imagem de EMZ(Meta-arquivo aprimorado compactado do Windows) por meio da API de imagem .NET" h2="Converta de Meta-arquivo aprimorado compactado do Windows para outros formatos usando a API Aspose.Imaging" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos os formatos de imagem compatíveis para conversão de EMZ" %}}
-Aspose.Imaging permite automatizar muitas conversões de EMZ para outros formatos na plataforma .NET.
+{{% blocks/products/pf/feature-page-section  h2="Todos os formatos de imagem compatíveis para conversão de EMZ(Meta-arquivo aprimorado compactado do Windows)" %}}
+<p align=justify>Aspose.Imaging permite automatizar muitas conversões de EMZ para outros formatos na plataforma .NET. Um arquivo com a extensão de arquivo EMZ é um arquivo de imagem compactado, mais especificamente chamado de arquivo Windows Compressed Enhanced Metafile</p>
 <br/>
-Lista completa de conversões suportadas:
+Lista completa de conversões suportadas de EMZ:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

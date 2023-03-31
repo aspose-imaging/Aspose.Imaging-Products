@@ -1,19 +1,19 @@
 ﻿---
-title: Konvertera bilder till JPEG-bildformat från andra format som stöds med .NET-plattformen 
+title: Konvertera bilder till JPEG(Förenade Fotografers Expert Grupp)-bildformat från andra format som stöds med .NET-plattformen 
 weight: 3920
 url: /sv/net/conversion/to/jpeg 
 lang: sv
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Med Aspose.Imaging för .NET-bibliotek är det lätt att konvertera till JPEG från andra bildformat som stöds
+description: Med Aspose.Imaging för .NET-bibliotek är det lätt att konvertera till JPEG(Förenade Fotografers Expert Grupp) från andra bildformat som stöds
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertera bildfiler till bildformatet JPEG med .NET-plattformen" h2="Konvertera till JPEG-format från andra format med Aspose.Imaging för .NET-bibliotek" downloadText="Ladda ner" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertera bildfiler till bildformatet JPEG(Förenade Fotografers Expert Grupp) med .NET-plattformen" h2="Konvertera till Förenade Fotografers Expert Grupp-format från andra format med Aspose.Imaging för .NET-bibliotek" downloadText="Ladda ner" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alla omvandlingar som stöds till JPEG-format med Aspose.Imaging för .NET-bibliotek" %}}
-Med hjälp av Aspose.Imaging-biblioteket kan du programmatiskt konvertera olika bildformat till JPEG-bild.
+{{% blocks/products/pf/feature-page-section  h2="Alla omvandlingar som stöds till JPEG(Förenade Fotografers Expert Grupp)-format med Aspose.Imaging för .NET-bibliotek" %}}
+<p align=justify>Med hjälp av Aspose.Imaging-biblioteket kan du programmatiskt konvertera olika bildformat till JPEG-bild. En JPEG är en typ av bildformat som sparas med metoden för förlustkomprimering. Utdatabilden, som ett resultat av komprimering, är en kompromiss mellan lagringsstorlek och bildkvalitet. Användare kan justera komprimeringsnivån för att uppnå önskad kvalitetsnivå samtidigt som lagringsstorleken minskas. Bildkvaliteten påverkas försumbart om 10:1-komprimering tillämpas på bilden. Ju högre komprimeringsvärde, desto högre försämring i bildkvalitet.</p>
 <br/>
 Följande konverteringar stöds:
 {{% /blocks/products/pf/feature-page-section %}}

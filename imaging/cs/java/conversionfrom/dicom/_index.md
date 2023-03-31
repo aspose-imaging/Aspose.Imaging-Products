@@ -1,20 +1,20 @@
 ﻿---
-title: Převeďte z DICOM do jiných podporovaných formátů pomocí Aspose.Imaging for Java 
+title: Převeďte z DICOM(Digitální zobrazování a komunikace) do jiných podporovaných formátů pomocí Aspose.Imaging for Java API 
 weight: 3920
 url: /cs/java/conversion/from/dicom 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging lze snadno převést z formátu DICOM do jiných formátů pomocí platformy Java
+description: Aspose.Imaging lze snadno převést z formátu DICOM(Digitální zobrazování a komunikace) do jiných formátů pomocí platformy Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převeďte obrázky z formátu DICOM pomocí Aspose.Imaging for Java" h2="Převeďte z formátu obrázku DICOM do jiných formátů pomocí platformy Java" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Převeďte obrázky z formátu DICOM pomocí Aspose.Imaging for Java" h2="Převeďte z formátu obrázku DICOM(Digitální zobrazování a komunikace) do jiných formátů pomocí platformy Java" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Široké spektrum obrazových formátů, které lze převést z obrázků DICOM pomocí Aspose.Imaging for Java" %}}
-Můžete programově převádět z formátu DICOM do jiných dostupných formátů pomocí
-Aspose.Imaging pro Javu.
+{{% blocks/products/pf/feature-page-section  h2="Široké spektrum obrazových formátů, které lze převést z obrázků DICOM(Digitální zobrazování a komunikace) pomocí Aspose.Imaging for Java" %}}
+<p align=justify>Můžete programově převádět z formátu DICOM do jiných dostupných formátů pomocí
+Aspose.Imaging pro Javu. DICOM je zkratka pro Digital Imaging and Communications in Medicine a týká se oblasti lékařské informatiky. DICOM je kombinací definice formátu souboru a síťového komunikačního protokolu. DICOM používá příponu .DCM. .DCM existuje ve dvou různých formátech, tj. formátu 1.xa formátu 2.x. DCM Format 1.x je dále k dispozici ve dvou verzích normální a rozšířené. DICOM se používá pro integraci lékařských zobrazovacích zařízení, jako jsou tiskárny, servery, skenery atd. od různých dodavatelů a také obsahuje identifikační údaje každého pacienta pro jedinečnost. Soubory DICOM lze sdílet mezi dvěma stranami, pokud jsou schopny přijímat obrazová data ve formátu DICOM. Komunikační částí DICOM je protokol aplikační vrstvy a ke komunikaci mezi entitami využívá TCP/IP. Pro webové služby DICOM se používají protokoly HTTP a HTTPS. Verze podporované webovými službami jsou 1.0, 1.1, 2 nebo novější.</p>
 <br/>
 Na palubě jsou následující konverze:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,19 +1,19 @@
 ﻿---
-title: .NET プラットフォームを使用して、画像を他のサポートされている形式から TIFF 画像形式に変換します 
+title: .NET プラットフォームを使用して、画像を他のサポートされている形式から TIFF(タグ付き画像形式) 画像形式に変換します 
 weight: 3920
 url: /ja/net/conversion/to/tiff 
 lang: ja
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging for .NET ライブラリを使用すると、サポートされている他の画像フォーマットから TIFF に簡単に変換できます。
+description: Aspose.Imaging for .NET ライブラリを使用すると、サポートされている他の画像フォーマットから TIFF(タグ付き画像形式) に簡単に変換できます。
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET プラットフォームを使用して、画像ファイルを TIFF 画像形式に変換します" h2="Aspose.Imaging for .NET ライブラリを使用して、他のフォーマットから TIFF フォーマットに変換します" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET プラットフォームを使用して、画像ファイルを TIFF(タグ付き画像形式) 画像形式に変換します" h2="Aspose.Imaging for .NET ライブラリを使用して、他のフォーマットから タグ付き画像形式 フォーマットに変換します" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for .NET ライブラリを使用した TIFF 形式へのすべてのサポートされている変換" %}}
-Aspose.Imaging ライブラリを使用すると、さまざまな画像フォーマットをプログラムで TIFF 画像に変換できます。
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for .NET ライブラリを使用した TIFF(タグ付き画像形式) 形式へのすべてのサポートされている変換" %}}
+<p align=justify>Aspose.Imaging ライブラリを使用すると、さまざまな画像フォーマットをプログラムで TIFF 画像に変換できます。 TIFFまたはTIF（タグ付き画像ファイル形式）は、このファイル形式標準に準拠するさまざまなデバイスでの使用を目的としたラスター画像を表します。いくつかの色空間で、バイレベル、グレースケール、パレットカラー、およびフルカラーの画像データを記述することができます。この形式を使用するアプリケーションのスペースと時間のどちらかを選択するための非可逆圧縮方式と可逆圧縮方式をサポートしています。このフォーマットは拡張可能であり、無制限の量の個人情報または特別目的情報を含めることができるようにいくつかの改訂が行われています。この形式はマシンに依存せず、プロセッサ、オペレーティングシステム、ファイルシステムなどの境界がありません。</p>
 <br/>
 次の変換がサポートされています。
 {{% /blocks/products/pf/feature-page-section %}}

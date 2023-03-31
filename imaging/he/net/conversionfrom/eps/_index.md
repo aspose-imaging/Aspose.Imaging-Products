@@ -1,21 +1,21 @@
 ﻿---
-title: המר מ-EPS לפורמטים אחרים דרך .NET 
+title: המר מ-EPS(שפת PostScript מובלעת) לפורמטים אחרים באמצעות API של תמונה של .NET 
 weight: 3920
 url: /he/net/conversion/from/eps 
 lang: he
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: באמצעות Aspose.Imaging תוכל להמיר בקלות מ-EPS לפורמט אחר
+description: באמצעות Aspose.Imaging תוכל להמיר בקלות מ- EPS(שפת PostScript מובלעת) לפורמט אחר
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה מ-EPS דרך .NET" h2="המר מ-EPS לפורמט אחר" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה מ-EPS(שפת PostScript מובלעת) באמצעות API של תמונה של .NET" h2="המר מ-שפת PostScript מובלעת לפורמטים אחרים באמצעות Aspose.Imaging API" downloadText="הורד" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה מ-EPS" %}}
-Aspose.Imaging מאפשר לבצע אוטומציה של המרות רבות מ-EPS לפורמטים אחרים בפלטפורמת NET.
+{{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה מ-EPS(שפת PostScript מובלעת)" %}}
+<p align=justify>Aspose.Imaging מאפשר לבצע אוטומציה של המרות רבות מ-EPS לפורמטים אחרים בפלטפורמת NET. קבצים עם סיומת EPS מתארים בעצם תוכנית שפת Encapsulated PostScript שמתארת ​​את המראה של עמוד בודד. השם "Encapsulated" מכיוון שניתן לכלול אותו או לכלול אותו בתיאור עמוד אחר בשפת PostScript. פורמט קובץ זה מבוסס סקריפט עשוי להכיל כל שילוב של טקסט, גרפיקה ותמונות. קובצי EPS עשויים לכלול תמונת תצוגה מקדימה של מפת סיביות מכוסה בפנים לתצוגה על ידי יישומים שיכולים לפתוח קבצים כאלה. ניתן להמיר קבצי EPS לפורמטים סטנדרטיים של תמונה כגון JPG, PNG, TIFF ו-PDF באמצעות יישומים שונים, למשל. Adobe Illustrator, Photoshop ו-PaintShop Pro. בגלל פגיעות אבטחה בקובצי EPS, Office 2016, Office 2013, Office 2010 ו-Office 365 ביטלו את היכולת להכניס קובצי EPS למסמכי Office.</p>
 <br/>
-רשימה מלאה של המרות נתמכות:
+רשימה מלאה של המרות נתמכות מ-EPS:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

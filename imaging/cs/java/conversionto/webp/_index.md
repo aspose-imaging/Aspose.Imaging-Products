@@ -13,7 +13,7 @@ description: Pomocí Aspose.Imaging můžete převést do WEBP z jiných formát
 
 
 {{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků lze převést do formátu WEBP pomocí Aspose.Imaging for Java" %}}
-Pomocí knihovny Aspose.Imaging můžete pomocí platformy Java programově převádět do formátu WEBP z jiných podporovaných formátů obrázků.
+<p align=justify>Pomocí knihovny Aspose.Imaging můžete pomocí platformy Java programově převádět do formátu WEBP z jiných podporovaných formátů obrázků.</p>
 <br/>
 Podporované konverze:
 {{% /blocks/products/pf/feature-page-section %}}

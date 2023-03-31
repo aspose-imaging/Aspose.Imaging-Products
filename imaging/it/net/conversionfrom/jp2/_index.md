@@ -1,21 +1,21 @@
 ﻿---
-title: Converti da JP2 in altri formati tramite .NET 
+title: Conversione da JP2(JPEG 2000) ad altri formati tramite API immagine .NET 
 weight: 3920
 url: /it/net/conversion/from/jp2 
 lang: it
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging puoi facilmente convertire da JP2 ad altri formati
+description: Usando Aspose.Imaging puoi facilmente convertire da JP2(JPEG 2000) ad altri formati
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversione di file immagine da JP2 tramite .NET" h2="Converti da JP2 in altri formati" downloadText="Scarica" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversione di file immagine da JP2(JPEG 2000) tramite l'API immagine .NET" h2="Converti da JPEG 2000 in altri formati utilizzando l'API Aspose.Imaging" downloadText="Scarica" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tutti i formati immagine supportati per la conversione da JP2" %}}
-Aspose.Imaging consente di automatizzare molte conversioni da JP2 ad altri formati sulla piattaforma .NET.
+{{% blocks/products/pf/feature-page-section  h2="Tutti i formati immagine supportati per la conversione da JP2(JPEG 2000)" %}}
+<p align=justify>Aspose.Imaging consente di automatizzare molte conversioni da JP2 ad altri formati sulla piattaforma .NET. JPEG 2000 (JP2) è un sistema di codifica delle immagini e uno standard di compressione delle immagini all'avanguardia. Progettato, utilizzando la tecnologia wavelet, JPEG 2000 può codificare contenuti senza perdita di qualità in qualsiasi qualità contemporaneamente. Inoltre, senza alcuna penalizzazione sostanziale nell'efficienza della codifica, JPEG 2000 ha la capacità di accedere e decodificare efficacemente lo stesso contenuto in una varietà di altre risoluzioni e qualità. I flussi di codice in JPEG 2000 sono significativamente scalabili con regioni di interesse che forniscono la struttura per l'accesso casuale spaziale. Possedendo fino a 16384 diversi componenti con le dimensioni in terapixel e una precisione che può arrivare fino a 38 bit/campione.</p>
 <br/>
-Elenco completo delle conversioni supportate:
+Elenco completo delle conversioni supportate da JP2:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

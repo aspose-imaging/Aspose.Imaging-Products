@@ -1,19 +1,19 @@
 ﻿---
-title: Convierta imágenes al formato de imagen EMF desde otros formatos compatibles utilizando la plataforma .NET 
+title: Convierta imágenes al formato de imagen EMF(Formato de metarchivo mejorado) desde otros formatos compatibles utilizando la plataforma .NET 
 weight: 3920
 url: /es/net/conversion/to/emf 
 lang: es
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging para la biblioteca .NET, es fácil convertir a EMF desde otros formatos de imagen compatibles
+description: Usando Aspose.Imaging para la biblioteca .NET, es fácil convertir a EMF(Formato de metarchivo mejorado) desde otros formatos de imagen compatibles
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convierta archivos de imagen a formato de imagen EMF utilizando la plataforma .NET" h2="Convierta al formato EMF desde otros formatos usando Aspose.Imaging para la biblioteca .NET" downloadText="Descargar" >}}
+{{< blocks/products/pf/feature-page-header h1="Convierta archivos de imagen a formato de imagen EMF(Formato de metarchivo mejorado) utilizando la plataforma .NET" h2="Convierta al formato Formato de metarchivo mejorado desde otros formatos usando Aspose.Imaging para la biblioteca .NET" downloadText="Descargar" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todas las conversiones admitidas al formato EMF usando Aspose.Imaging para la biblioteca .NET" %}}
-Con la biblioteca Aspose.Imaging, puede convertir mediante programación varios formatos de imagen a la imagen EMF.
+{{% blocks/products/pf/feature-page-section  h2="Todas las conversiones admitidas al formato EMF(Formato de metarchivo mejorado) usando Aspose.Imaging para la biblioteca .NET" %}}
+<p align=justify>Con la biblioteca Aspose.Imaging, puede convertir mediante programación varios formatos de imagen a la imagen EMF. El formato de metarchivo mejorado (EMF) almacena imágenes gráficas de forma independiente del dispositivo. Los metarchivos de EMF se componen de registros de longitud variable en orden cronológico que pueden representar la imagen almacenada después de analizarla en cualquier dispositivo de salida. Estos registros de longitud variable pueden ser definiciones de objetos encerrados, comandos para dibujar y propiedades gráficas críticas para representar la imagen con precisión. Cuando un dispositivo abre un metarchivo EMF utilizando su propio entorno de gráficos, las proporciones, dimensiones, colores y otras propiedades gráficas de la imagen original siguen siendo las mismas independientemente de la plataforma del dispositivo de apertura. </p>
 <br/>
 Se admiten las siguientes conversiones:
 {{% /blocks/products/pf/feature-page-section %}}

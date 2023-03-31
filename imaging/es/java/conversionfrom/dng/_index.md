@@ -1,20 +1,20 @@
 ﻿---
-title: Convierta de DNG a otros formatos admitidos usando Aspose.Imaging para Java 
+title: Convierta de DNG(Imagen de cámara digital) a otros formatos admitidos usando Aspose.Imaging para Java API. 
 weight: 3920
 url: /es/java/conversion/from/dng 
 lang: es
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging puede convertir fácilmente de DNG a otros formatos usando la plataforma Java
+description: Aspose.Imaging puede convertir fácilmente de DNG(Imagen de cámara digital) a otros formatos usando la plataforma Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convierta imágenes del formato DNG usando Aspose.Imaging para Java" h2="Convierta del formato de imagen DNG a otros formatos utilizando la plataforma Java" downloadText="Descargar" >}}
+{{< blocks/products/pf/feature-page-header h1="Convierta imágenes del formato DNG usando Aspose.Imaging para Java" h2="Convierta del formato de imagen DNG(Imagen de cámara digital) a otros formatos utilizando la plataforma Java" downloadText="Descargar" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Amplio espectro de formatos de imagen que se pueden convertir a partir de imágenes DNG usando Aspose.Imaging para Java" %}}
-Puede convertir programáticamente del formato DNG a otros formatos disponibles usando
-Aspose. Imaging para Java.
+{{% blocks/products/pf/feature-page-section  h2="Amplio espectro de formatos de imagen que se pueden convertir a partir de imágenes DNG(Imagen de cámara digital) usando Aspose.Imaging para Java" %}}
+<p align=justify>Puede convertir programáticamente del formato DNG a otros formatos disponibles usando
+Aspose. Imaging para Java. DNG es un formato de imagen de cámara digital utilizado para el almacenamiento de archivos sin formato. Ha sido desarrollado por Adobe en septiembre de 2004. Fue desarrollado básicamente para fotografía digital. DNG es una extensión del formato estándar TIFF/EP y utiliza metadatos de manera significativa. Para manipular los datos sin procesar de las cámaras digitales con facilidad de flexibilidad y control artístico, los fotógrafos optan por los archivos sin formato de cámara. Los formatos JPEG y TIFF almacenan imágenes que son procesadas por la cámara, por lo tanto, no hay mucho espacio para la alteración disponible en dichos formatos.</p>
 <br/>
 Hay las siguientes conversiones a bordo:
 {{% /blocks/products/pf/feature-page-section %}}

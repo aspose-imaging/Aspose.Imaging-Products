@@ -1,21 +1,21 @@
 ﻿---
-title: แปลงจาก BMP เป็นรูปแบบอื่นผ่าน .NET 
+title: แปลงจาก BMP(รูปภาพบิตแมป) เป็นรูปแบบอื่นผ่าน .NET image API 
 weight: 3920
 url: /th/net/conversion/from/bmp 
 lang: th
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: เมื่อใช้ Aspose.Imaging คุณสามารถแปลงจาก BMP เป็นรูปแบบอื่นได้อย่างง่ายดาย
+description: เมื่อใช้ Aspose.Imaging คุณสามารถแปลงจาก BMP(รูปภาพบิตแมป) เป็นรูปแบบอื่นได้อย่างง่ายดาย
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="การแปลงไฟล์รูปภาพจาก BMP ผ่าน .NET" h2="แปลงจาก BMP เป็นรูปแบบอื่น" downloadText="ดาวน์โหลด" >}}
+{{< blocks/products/pf/feature-page-header h1="การแปลงไฟล์อิมเมจจาก BMP(รูปภาพบิตแมป) ผ่าน .NET image API" h2="แปลงจาก รูปภาพบิตแมป เป็นรูปแบบอื่นโดยใช้ Aspose.Imaging API" downloadText="ดาวน์โหลด" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="รูปแบบภาพที่รองรับทั้งหมดที่จะแปลงจาก BMP" %}}
-Aspose.Imaging ช่วยให้การแปลงจำนวนมากโดยอัตโนมัติจาก BMP เป็นรูปแบบอื่นบนแพลตฟอร์ม .NET
+{{% blocks/products/pf/feature-page-section  h2="รูปแบบรูปภาพที่รองรับทั้งหมดที่จะแปลงจาก BMP(รูปภาพบิตแมป)" %}}
+<p align=justify>Aspose.Imaging ช่วยให้การแปลงจำนวนมากโดยอัตโนมัติจาก BMP เป็นรูปแบบอื่นบนแพลตฟอร์ม .NET ไฟล์ที่มีนามสกุล .BMP แสดงถึงไฟล์ภาพบิตแมปที่ใช้เก็บภาพดิจิทัลบิตแมป รูปภาพเหล่านี้ไม่ขึ้นกับการ์ดจอและเรียกอีกอย่างว่ารูปแบบไฟล์บิตแมปที่ไม่ขึ้นกับอุปกรณ์ (DIB) ความเป็นอิสระนี้มีจุดประสงค์ในการเปิดไฟล์บนหลายแพลตฟอร์ม เช่น Microsoft Windows และ Mac รูปแบบไฟล์ BMP สามารถจัดเก็บข้อมูลเป็นภาพดิจิทัลสองมิติทั้งในรูปแบบขาวดำและรูปแบบสีที่มีความลึกของสีต่างๆ</p>
 <br/>
-รายการการแปลงที่รองรับทั้งหมด:
+รายการทั้งหมดของการแปลงที่รองรับจาก BMP:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

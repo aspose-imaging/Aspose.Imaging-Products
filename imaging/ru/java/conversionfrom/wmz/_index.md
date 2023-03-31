@@ -1,20 +1,20 @@
 ﻿---
-title: Преобразование из WMZ в другие поддерживаемые форматы с помощью Aspose.Imaging for Java 
+title: Преобразование из WMZ(Сжатая оболочка проигрывателя Windows Media) в другие поддерживаемые форматы с помощью Aspose.Imaging for Java API 
 weight: 3920
 url: /ru/java/conversion/from/wmz 
 lang: ru
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging может легко конвертировать из WMZ в другие форматы с помощью платформы Java.
+description: Aspose.Imaging может легко конвертировать из WMZ(Сжатая оболочка проигрывателя Windows Media) в другие форматы с помощью платформы Java.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование изображений из формата WMZ с помощью Aspose.Imaging for Java" h2="Преобразование из формата изображения WMZ в другие форматы с использованием платформы Java" downloadText="Скачать" >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование изображений из формата WMZ с помощью Aspose.Imaging for Java" h2="Преобразование из формата изображения WMZ(Сжатая оболочка проигрывателя Windows Media) в другие форматы с использованием платформы Java" downloadText="Скачать" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Спектр форматов изображений, которые можно преобразовать из изображений WMZ с помощью Aspose.Imaging for Java." %}}
-Вы можете программно преобразовать формат WMZ в другие доступные форматы, используя
-Aspose.Imaging for Java.
+{{% blocks/products/pf/feature-page-section  h2="Спектр форматов изображений, которые можно преобразовать из изображений WMZ(Сжатая оболочка проигрывателя Windows Media) с помощью Aspose.Imaging for Java." %}}
+<p align=justify>Вы можете программно преобразовать формат WMZ в другие доступные форматы, используя
+Aspose.Imaging for Java. WMZ — это расширение файла для формата файла скина в/для/используемого проигрывателем Windows Media. Файл WMZ представляет собой заархивированный файл WMF в формате XML.</p>
 <br/>
 Представлены следующие трансформации:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,20 +1,20 @@
 ﻿---
-title: Převeďte z APNG do jiných podporovaných formátů pomocí Aspose.Imaging for Java 
+title: Převeďte z APNG(Animovaná přenosná síťová grafika) do jiných podporovaných formátů pomocí Aspose.Imaging for Java API 
 weight: 3920
 url: /cs/java/conversion/from/apng 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging lze snadno převést z formátu APNG do jiných formátů pomocí platformy Java
+description: Aspose.Imaging lze snadno převést z formátu APNG(Animovaná přenosná síťová grafika) do jiných formátů pomocí platformy Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převeďte obrázky z formátu APNG pomocí Aspose.Imaging for Java" h2="Převeďte z formátu obrázku APNG do jiných formátů pomocí platformy Java" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Převeďte obrázky z formátu APNG pomocí Aspose.Imaging for Java" h2="Převeďte z formátu obrázku APNG(Animovaná přenosná síťová grafika) do jiných formátů pomocí platformy Java" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Široké spektrum obrazových formátů, které lze převést z obrázků APNG pomocí Aspose.Imaging for Java" %}}
-Můžete programově převádět z formátu APNG do jiných dostupných formátů pomocí
-Aspose.Imaging pro Javu.
+{{% blocks/products/pf/feature-page-section  h2="Široké spektrum obrazových formátů, které lze převést z obrázků APNG(Animovaná přenosná síťová grafika) pomocí Aspose.Imaging for Java" %}}
+<p align=justify>Můžete programově převádět z formátu APNG do jiných dostupných formátů pomocí
+Aspose.Imaging pro Javu. Soubor s příponou .apng (Animated Portable Network Graphics) je rastrový grafický formát a je neoficiálním rozšířením Portable Network Graphic (PNG). Skládá se z několika snímků (každý z obrázku PNG), které představují sekvenci animace. To poskytuje podobnou vizualizaci jako soubor GIF. Soubory APNG podporují 24bitové obrázky a 8bitovou průhlednost. APNG je zpětně kompatibilní s neanimovanými soubory GIF. Soubory APNG používají stejnou příponu .png a lze je otevřít aplikacemi, jako je Mozilla Firefox, Chrome s podporou APNG, aplikace iMessage pro iOS 10.</p>
 <br/>
 Na palubě jsou následující konverze:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,21 +1,21 @@
 ﻿---
-title: המר מ-TIF לפורמטים אחרים דרך .NET 
+title: המר מ-TIF(פורמט תמונה מתויג) לפורמטים אחרים באמצעות API של תמונה של .NET 
 weight: 3920
 url: /he/net/conversion/from/tif 
 lang: he
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: באמצעות Aspose.Imaging תוכל להמיר בקלות מ-TIF לפורמט אחר
+description: באמצעות Aspose.Imaging תוכל להמיר בקלות מ- TIF(פורמט תמונה מתויג) לפורמט אחר
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה מ-TIF דרך .NET" h2="המר מ-TIF לפורמט אחר" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה מ-TIF(פורמט תמונה מתויג) באמצעות API של תמונה של .NET" h2="המר מ-פורמט תמונה מתויג לפורמטים אחרים באמצעות Aspose.Imaging API" downloadText="הורד" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה מ-TIF" %}}
-Aspose.Imaging מאפשר לבצע אוטומציה של המרות רבות מ-TIF לפורמטים אחרים בפלטפורמת NET.
+{{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה מ-TIF(פורמט תמונה מתויג)" %}}
+<p align=justify>Aspose.Imaging מאפשר לבצע אוטומציה של המרות רבות מ-TIF לפורמטים אחרים בפלטפורמת NET. </p>
 <br/>
-רשימה מלאה של המרות נתמכות:
+רשימה מלאה של המרות נתמכות מ-TIF:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

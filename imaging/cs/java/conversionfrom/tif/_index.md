@@ -1,20 +1,20 @@
 ﻿---
-title: Převeďte z TIF do jiných podporovaných formátů pomocí Aspose.Imaging for Java 
+title: Převeďte z TIF(Formát tagovaného obrázku) do jiných podporovaných formátů pomocí Aspose.Imaging for Java API 
 weight: 3920
 url: /cs/java/conversion/from/tif 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging lze snadno převést z formátu TIF do jiných formátů pomocí platformy Java
+description: Aspose.Imaging lze snadno převést z formátu TIF(Formát tagovaného obrázku) do jiných formátů pomocí platformy Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převeďte obrázky z formátu TIF pomocí Aspose.Imaging for Java" h2="Převeďte z formátu obrázku TIF do jiných formátů pomocí platformy Java" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Převeďte obrázky z formátu TIF pomocí Aspose.Imaging for Java" h2="Převeďte z formátu obrázku TIF(Formát tagovaného obrázku) do jiných formátů pomocí platformy Java" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Široké spektrum obrazových formátů, které lze převést z obrázků TIF pomocí Aspose.Imaging for Java" %}}
-Můžete programově převádět z formátu TIF do jiných dostupných formátů pomocí
-Aspose.Imaging pro Javu.
+{{% blocks/products/pf/feature-page-section  h2="Široké spektrum obrazových formátů, které lze převést z obrázků TIF(Formát tagovaného obrázku) pomocí Aspose.Imaging for Java" %}}
+<p align=justify>Můžete programově převádět z formátu TIF do jiných dostupných formátů pomocí
+Aspose.Imaging pro Javu. </p>
 <br/>
 Na palubě jsou následující konverze:
 {{% /blocks/products/pf/feature-page-section %}}

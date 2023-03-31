@@ -1,21 +1,21 @@
 ﻿---
-title: 通過 .NET 從 GIF 轉換為其他格式 
+title: 通過 .NET 圖像 API 從 GIF(圖形交換格式) 轉換為其他格式 
 weight: 3920
 url: /zh-hant/net/conversion/from/gif 
 lang: zh-hant
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: 使用 Aspose.Imaging，您可以輕鬆地將 GIF 轉換為其他格式
+description: 使用 Aspose.Imaging，您可以輕鬆地將 GIF(圖形交換格式) 轉換為其他格式
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="通過 .NET 從 GIF 轉換圖像文件" h2="從 GIF 轉換為其他格式" downloadText="下載" >}}
+{{< blocks/products/pf/feature-page-header h1="通過 .NET 圖像 API 從 GIF(圖形交換格式) 轉換圖像文件" h2="使用 Aspose.Imaging API 從 圖形交換格式 轉換為其他格式" downloadText="下載" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="要從 GIF 轉換的所有支持的圖像格式" %}}
-Aspose.Imaging 允許在 .NET 平台上自動進行從 GIF 到其他格式的大量轉換。
+{{% blocks/products/pf/feature-page-section  h2="從 GIF(圖形交換格式) 轉換的所有支持的圖像格式" %}}
+<p align=justify>Aspose.Imaging 允許在 .NET 平台上自動進行從 GIF 到其他格式的大量轉換。 GIF 或圖形交換格式是一種高度壓縮的圖像。 GIF 由 Unisys 擁有，使用不會降低圖像質量的 LZW 壓縮算法。對於每個圖像，GIF 通常允許每個像素最多 8 位，並且整個圖像最多允許 256 種顏色。與 JPEG 圖像相比，JPEG 圖像可以顯示多達 1600 萬種顏色，並且相當接近人眼的極限。早在互聯網出現時，GIF 仍然是最佳選擇，因為它們需要低帶寬並且與消耗純色區域的圖形兼容。動畫 GIF 將大量圖像或幀組合到一個文件中，並按順序顯示它們以生成動畫剪輯或短視頻。每幀的顏色限制最多為 256 種，並且可能最不適合再現具有顏色漸變的其他圖像和照片。</p>
 <br/>
-支持的轉換的完整列表：
+GIF 支持的轉換的完整列表：
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

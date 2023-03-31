@@ -1,21 +1,21 @@
 ﻿---
-title: Конвертувати з DNG в інші формати за допомогою .NET 
+title: Перетворення з DNG(Зображення цифрової камери) в інші формати за допомогою API зображень .NET 
 weight: 3920
 url: /uk/net/conversion/from/dng 
 lang: uk
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: За допомогою Aspose.Imaging ви можете легко конвертувати з DNG в інші формати
+description: За допомогою Aspose.Imaging ви можете легко конвертувати з DNG(Зображення цифрової камери) в інші формати
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Перетворення файлів зображень з DNG за допомогою .NET" h2="Конвертувати з DNG в інші формати" downloadText="Завантажити" >}}
+{{< blocks/products/pf/feature-page-header h1="Перетворення файлів зображень із DNG(Зображення цифрової камери) через API зображень .NET" h2="Перетворюйте з Зображення цифрової камери в інші формати за допомогою API Aspose.Imaging" downloadText="Завантажити" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для конвертації з DNG" %}}
-Aspose.Imaging дозволяє автоматизувати багато перетворень із DNG в інші формати на платформі .NET.
+{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для конвертації з DNG(Зображення цифрової камери)" %}}
+<p align=justify>Aspose.Imaging дозволяє автоматизувати багато перетворень із DNG в інші формати на платформі .NET. DNG — це формат зображення цифрової камери, який використовується для зберігання необроблених файлів. Він був розроблений Adobe у вересні 2004 року. В основному він був розроблений для цифрової фотографії. DNG є розширенням стандартного формату TIFF/EP і значно використовує метадані. Щоб маніпулювати необробленими даними з цифрових камер із легкою гнучкістю та художнім контролем, фотографи вибирають файли Camera Raw. У форматах JPEG і TIFF зберігаються зображення, оброблені камерою, тому в таких форматах мало місця для змін.</p>
 <br/>
-Повний список підтримуваних конвертацій:
+Повний список підтримуваних конвертацій із DNG:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

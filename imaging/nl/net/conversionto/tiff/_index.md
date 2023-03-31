@@ -1,19 +1,19 @@
 ﻿---
-title: Converteer afbeeldingen naar TIFF afbeeldingsindeling van andere ondersteunde indelingen met behulp van het .NET-platform 
+title: Converteer afbeeldingen naar TIFF(Gelabelde afbeeldingsindeling) afbeeldingsindeling van andere ondersteunde indelingen met behulp van het .NET-platform 
 weight: 3920
 url: /nl/net/conversion/to/tiff 
 lang: nl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Met Aspose.Imaging voor .NET-bibliotheek is het eenvoudig om te converteren naar TIFF vanuit andere ondersteunde afbeeldingsindelingen
+description: Met Aspose.Imaging voor .NET-bibliotheek is het eenvoudig om te converteren naar TIFF(Gelabelde afbeeldingsindeling) vanuit andere ondersteunde afbeeldingsindelingen
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer afbeeldingsbestanden naar TIFF afbeeldingsindeling met behulp van het .NET-platform" h2="Converteer naar TIFF-indeling van andere indelingen met Aspose.Imaging voor .NET-bibliotheek" downloadText="Downloaden" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer afbeeldingsbestanden naar TIFF(Gelabelde afbeeldingsindeling) afbeeldingsindeling met behulp van het .NET-platform" h2="Converteer naar Gelabelde afbeeldingsindeling-indeling van andere indelingen met Aspose.Imaging voor .NET-bibliotheek" downloadText="Downloaden" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde conversies naar TIFF-indeling met Aspose.Imaging voor .NET-bibliotheek" %}}
-Met behulp van de Aspose.Imaging-bibliotheek kunt u verschillende afbeeldingsindelingen programmatisch converteren naar TIFF afbeelding.
+{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde conversies naar TIFF(Gelabelde afbeeldingsindeling)-indeling met Aspose.Imaging voor .NET-bibliotheek" %}}
+<p align=justify>Met behulp van de Aspose.Imaging-bibliotheek kunt u verschillende afbeeldingsindelingen programmatisch converteren naar TIFF afbeelding. TIFF of TIF, Tagged Image File Format, staat voor rasterafbeeldingen die bedoeld zijn voor gebruik op verschillende apparaten die voldoen aan deze standaard voor bestandsindelingen. Het is in staat om bilevel-, grijswaarden-, paletkleur- en full-color afbeeldingsgegevens in verschillende kleurruimten te beschrijven. Het ondersteunt zowel lossy als lossless compressieschema's om te kiezen tussen ruimte en tijd voor toepassingen die het formaat gebruiken. Het formaat is uitbreidbaar en heeft verschillende revisies ondergaan waardoor een onbeperkte hoeveelheid persoonlijke of speciale informatie kan worden opgenomen. Het formaat is niet machine-afhankelijk en is vrij van beperkingen zoals processor, besturingssysteem of bestandssystemen.</p>
 <br/>
 De volgende conversies worden ondersteund:
 {{% /blocks/products/pf/feature-page-section %}}

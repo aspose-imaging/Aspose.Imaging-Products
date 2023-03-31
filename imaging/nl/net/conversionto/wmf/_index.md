@@ -1,19 +1,19 @@
 ﻿---
-title: Converteer afbeeldingen naar WMF afbeeldingsindeling van andere ondersteunde indelingen met behulp van het .NET-platform 
+title: Converteer afbeeldingen naar WMF(Microsoft Windows-metabestand) afbeeldingsindeling van andere ondersteunde indelingen met behulp van het .NET-platform 
 weight: 3920
 url: /nl/net/conversion/to/wmf 
 lang: nl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Met Aspose.Imaging voor .NET-bibliotheek is het eenvoudig om te converteren naar WMF vanuit andere ondersteunde afbeeldingsindelingen
+description: Met Aspose.Imaging voor .NET-bibliotheek is het eenvoudig om te converteren naar WMF(Microsoft Windows-metabestand) vanuit andere ondersteunde afbeeldingsindelingen
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer afbeeldingsbestanden naar WMF afbeeldingsindeling met behulp van het .NET-platform" h2="Converteer naar WMF-indeling van andere indelingen met Aspose.Imaging voor .NET-bibliotheek" downloadText="Downloaden" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer afbeeldingsbestanden naar WMF(Microsoft Windows-metabestand) afbeeldingsindeling met behulp van het .NET-platform" h2="Converteer naar Microsoft Windows-metabestand-indeling van andere indelingen met Aspose.Imaging voor .NET-bibliotheek" downloadText="Downloaden" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde conversies naar WMF-indeling met Aspose.Imaging voor .NET-bibliotheek" %}}
-Met behulp van de Aspose.Imaging-bibliotheek kunt u verschillende afbeeldingsindelingen programmatisch converteren naar WMF afbeelding.
+{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde conversies naar WMF(Microsoft Windows-metabestand)-indeling met Aspose.Imaging voor .NET-bibliotheek" %}}
+<p align=justify>Met behulp van de Aspose.Imaging-bibliotheek kunt u verschillende afbeeldingsindelingen programmatisch converteren naar WMF afbeelding. Bestanden met de WMF-extensie vertegenwoordigen Microsoft Windows Metafile (WMF) voor het opslaan van zowel vector- als bitmap-afbeeldingsgegevens. Om nauwkeuriger te zijn, WMF behoort tot de vectorbestandsindelingscategorie van Grafische bestandsindelingen die apparaatonafhankelijk is. Windows Graphical Device Interface (GDI) gebruikt de functies die zijn opgeslagen in een WMF-bestand om een ​​afbeelding op het scherm weer te geven. Een meer verbeterde versie van WMF, bekend als Enhanced Meta Files (EMF), werd later gepubliceerd, waardoor het formaat meer functies heeft. In de praktijk is WMF vergelijkbaar met SVG.</p>
 <br/>
 De volgende conversies worden ondersteund:
 {{% /blocks/products/pf/feature-page-section %}}

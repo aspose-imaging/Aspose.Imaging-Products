@@ -1,20 +1,20 @@
 ﻿---
-title: Convertir de ICO vers d'autres formats pris en charge à l'aide d'Aspose.Imaging pour Java 
+title: Convertir de ICO(Icône Windows) vers d'autres formats pris en charge à l'aide d'Aspose.Imaging pour Java API 
 weight: 3920
 url: /fr/java/conversion/from/ico 
 lang: fr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging peut facilement convertir de ICO vers d'autres formats à l'aide de la plate-forme Java
+description: Aspose.Imaging peut facilement convertir de ICO(Icône Windows) vers d'autres formats à l'aide de la plate-forme Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convertir des images à partir du format ICO à l'aide d'Aspose.Imaging pour Java" h2="Convertir du format d'image ICO vers d'autres formats à l'aide de la plate-forme Java" downloadText="Télécharger" >}}
+{{< blocks/products/pf/feature-page-header h1="Convertir des images à partir du format ICO à l'aide d'Aspose.Imaging pour Java" h2="Convertir du format d'image ICO(Icône Windows) vers d'autres formats à l'aide de la plate-forme Java" downloadText="Télécharger" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Large éventail de formats d'image pouvant être convertis à partir d'images ICO à l'aide d'Aspose.Imaging pour Java" %}}
-Vous pouvez convertir par programmation du format ICO vers d'autres formats disponibles en utilisant
-Aspose.Imaging pour Java.
+{{% blocks/products/pf/feature-page-section  h2="Large éventail de formats d'image pouvant être convertis à partir d'images ICO(Icône Windows) à l'aide d'Aspose.Imaging pour Java" %}}
+<p align=justify>Vous pouvez convertir par programmation du format ICO vers d'autres formats disponibles en utilisant
+Aspose.Imaging pour Java. Le format de fichier ICO est un format de fichier image pour les icônes d'ordinateur dans Microsoft Windows. Les fichiers ICO contiennent une ou plusieurs petites images à plusieurs tailles et profondeurs de couleur, de sorte qu'elles peuvent être mises à l'échelle de manière appropriée. Sous Windows, tous les exécutables qui affichent une icône à l'utilisateur, sur le bureau, dans le menu Démarrer ou dans l'Explorateur Windows, doivent porter l'icône au format ICO.</p>
 <br/>
 Il y a les conversions suivantes à bord :
 {{% /blocks/products/pf/feature-page-section %}}

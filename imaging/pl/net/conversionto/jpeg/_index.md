@@ -1,19 +1,19 @@
 ﻿---
-title: Konwertuj obrazy do formatu obrazu JPEG z innych obsługiwanych formatów za pomocą platformy .NET 
+title: Konwertuj obrazy do formatu obrazu JPEG(Wspólna Grupa Ekspertów Fotograficznych) z innych obsługiwanych formatów za pomocą platformy .NET 
 weight: 3920
 url: /pl/net/conversion/to/jpeg 
 lang: pl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Korzystając z biblioteki Aspose.Imaging dla .NET, można łatwo przekonwertować do formatu JPEG z innych obsługiwanych formatów obrazów
+description: Korzystając z biblioteki Aspose.Imaging dla .NET, można łatwo przekonwertować do formatu JPEG(Wspólna Grupa Ekspertów Fotograficznych) z innych obsługiwanych formatów obrazów
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwertuj pliki obrazów do formatu obrazu JPEG za pomocą platformy .NET" h2="Konwertuj do formatu JPEG z innych formatów przy użyciu biblioteki Aspose.Imaging for .NET" downloadText="Pobierać" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj pliki obrazów do formatu obrazu JPEG(Wspólna Grupa Ekspertów Fotograficznych) za pomocą platformy .NET" h2="Konwertuj do formatu Wspólna Grupa Ekspertów Fotograficznych z innych formatów przy użyciu biblioteki Aspose.Imaging for .NET" downloadText="Pobierać" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane konwersje do formatu JPEG przy użyciu biblioteki Aspose.Imaging for .NET" %}}
-Korzystając z biblioteki Aspose.Imaging możesz programowo konwertować różne formaty obrazów na obraz JPEG.
+{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane konwersje do formatu JPEG(Wspólna Grupa Ekspertów Fotograficznych) przy użyciu biblioteki Aspose.Imaging for .NET" %}}
+<p align=justify>Korzystając z biblioteki Aspose.Imaging możesz programowo konwertować różne formaty obrazów na obraz JPEG. JPEG to rodzaj formatu obrazu, który jest zapisywany przy użyciu metody kompresji stratnej. Obraz wyjściowy w wyniku kompresji jest kompromisem między rozmiarem pamięci a jakością obrazu. Użytkownicy mogą dostosować poziom kompresji, aby osiągnąć pożądany poziom jakości, jednocześnie zmniejszając rozmiar pamięci. Jakość obrazu ulega nieznacznemu pogorszeniu, jeśli do obrazu zostanie zastosowana kompresja 10:1. Im wyższa wartość kompresji, tym większa degradacja jakości obrazu.</p>
 <br/>
 Obsługiwane są następujące konwersje:
 {{% /blocks/products/pf/feature-page-section %}}

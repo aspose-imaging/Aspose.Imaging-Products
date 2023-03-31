@@ -1,19 +1,19 @@
 ﻿---
-title: تحويل الصور إلى تنسيق صورة BMP من التنسيقات الأخرى المدعومة باستخدام منصة .NET 
+title: تحويل الصور إلى تنسيق صورة BMP(صورة نقطية) من التنسيقات الأخرى المدعومة باستخدام منصة .NET 
 weight: 3920
 url: /ar/net/conversion/to/bmp 
 lang: ar
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: باستخدام Aspose.Imaging لمكتبة .NET يسهل التحويل إلى BMP من تنسيقات الصور الأخرى المدعومة
+description: باستخدام Aspose.Imaging لمكتبة .NET يسهل التحويل إلى BMP(صورة نقطية) من تنسيقات الصور الأخرى المدعومة
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل ملفات الصور إلى تنسيق صورة BMP باستخدام منصة .NET" h2="تحويل إلى تنسيق BMP من التنسيقات الأخرى باستخدام Aspose.Imaging لمكتبة .NET" downloadText="تحميل" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل ملفات الصور إلى تنسيق صورة BMP(صورة نقطية) باستخدام منصة .NET" h2="تحويل إلى تنسيق صورة نقطية من التنسيقات الأخرى باستخدام Aspose.Imaging لمكتبة .NET" downloadText="تحميل" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="جميع التحويلات المدعومة إلى تنسيق BMP باستخدام Aspose.Imaging for .NET library" %}}
-باستخدام مكتبة Aspose.Imaging ، يمكنك تحويل العديد من تنسيقات الصور إلى صورة BMP برمجيًا.
+{{% blocks/products/pf/feature-page-section  h2="جميع التحويلات المدعومة إلى تنسيق BMP(صورة نقطية) باستخدام Aspose.Imaging for .NET library" %}}
+<p align=justify>باستخدام مكتبة Aspose.Imaging ، يمكنك تحويل العديد من تنسيقات الصور إلى صورة BMP برمجيًا. الملفات ذات الامتداد .BMP تمثل ملفات الصور النقطية المستخدمة لتخزين الصور الرقمية للصور النقطية. هذه الصور مستقلة عن محول الرسومات وتسمى أيضًا تنسيق ملف الصورة النقطية المستقلة عن الجهاز (DIB). يخدم هذا الاستقلال غرض فتح الملف على منصات متعددة مثل Microsoft Windows و Mac. يمكن لملف BMP تخزين البيانات كصور رقمية ثنائية الأبعاد بتنسيق أحادي اللون بالإضافة إلى تنسيق الألوان بأعماق ألوان مختلفة.</p>
 <br/>
 يتم دعم التحويلات التالية:
 {{% /blocks/products/pf/feature-page-section %}}

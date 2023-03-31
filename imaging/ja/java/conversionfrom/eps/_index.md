@@ -1,20 +1,20 @@
 ﻿---
-title: Aspose.Imaging for Java を使用して、EPS から他のサポートされている形式に変換します。 
+title: Aspose.Imaging for Java API を使用して、EPS(カプセル化されたPostScript言語) から他のサポートされている形式に変換します。 
 weight: 3920
 url: /ja/java/conversion/from/eps 
 lang: ja
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging は、Java プラットフォームを使用して EPS から他のフォーマットに簡単に変換できます
+description: Aspose.Imaging は、Java プラットフォームを使用して EPS(カプセル化されたPostScript言語) から他のフォーマットに簡単に変換できます
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java を使用して EPS フォーマットから画像を変換します" h2="Java プラットフォームを使用して、EPS 画像形式から他の形式に変換します" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java を使用して EPS フォーマットから画像を変換します" h2="Java プラットフォームを使用して、EPS(カプセル化されたPostScript言語) 画像形式から他の形式に変換します" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java を使用して EPS 画像から変換できる幅広い画像フォーマット" %}}
-次を使用して、EPS 形式から他の使用可能な形式にプログラムで変換できます。
-Aspose.Imaging for Java。
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java を使用して EPS(カプセル化されたPostScript言語) 画像から変換できる幅広い画像フォーマット" %}}
+<p align=justify>次を使用して、EPS 形式から他の使用可能な形式にプログラムで変換できます。
+Aspose.Imaging for Java。 EPS拡張子の付いたファイルは、基本的に、単一ページの外観を記述するEncapsulatedPostScript言語プログラムを記述します。 「カプセル化」という名前は、別のPostScript言語ページの説明に含めるかカプセル化できるためです。このスクリプトベースのファイル形式には、テキスト、グラフィックス、および画像の任意の組み合わせを含めることができます。 EPSファイルには、そのようなファイルを開くことができるアプリケーションによる表示のために、内部にカプセル化されたビットマッププレビュー画像が含まれる場合があります。 EPSファイルは、さまざまなアプリケーションを使用して、JPG、PNG、TIFF、PDFなどの標準の画像形式に変換できます。 Adobe Illustrator、Photoshop、PaintShopPro。 EPSファイルのセキュリティの脆弱性のため、Office 2016、Office 2013、Office 2010、およびOffice 365は、EPSファイルをOfficeドキュメントに挿入する機能をオフにしました。</p>
 <br/>
 機内では次の変換があります。
 {{% /blocks/products/pf/feature-page-section %}}

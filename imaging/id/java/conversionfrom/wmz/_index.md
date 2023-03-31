@@ -1,20 +1,20 @@
 ﻿---
-title: Konversikan dari WMZ ke format lain yang didukung menggunakan Aspose.Imaging untuk Java 
+title: Konversikan dari WMZ(Kulit Windows Media Player Terkompresi) ke format lain yang didukung menggunakan Aspose.Imaging untuk Java API 
 weight: 3920
 url: /id/java/conversion/from/wmz 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging dapat dengan mudah mengonversi dari WMZ ke format lain menggunakan platform Java
+description: Aspose.Imaging dapat dengan mudah mengonversi dari WMZ(Kulit Windows Media Player Terkompresi) ke format lain menggunakan platform Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversikan gambar dari format WMZ menggunakan Aspose.Imaging untuk Java" h2="Konversi dari format gambar WMZ ke format lain menggunakan platform Java" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversikan gambar dari format WMZ menggunakan Aspose.Imaging untuk Java" h2="Konversi dari format gambar WMZ(Kulit Windows Media Player Terkompresi) ke format lain menggunakan platform Java" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Spektrum luas format gambar yang dapat dikonversi dari gambar WMZ menggunakan Aspose.Imaging untuk Java" %}}
-Anda dapat secara terprogram mengonversi dari format WMZ ke format lain yang tersedia menggunakan
-Aspose.Imaging untuk Java.
+{{% blocks/products/pf/feature-page-section  h2="Spektrum luas format gambar yang dapat dikonversi dari gambar WMZ(Kulit Windows Media Player Terkompresi) menggunakan Aspose.Imaging untuk Java" %}}
+<p align=justify>Anda dapat secara terprogram mengonversi dari format WMZ ke format lain yang tersedia menggunakan
+Aspose.Imaging untuk Java. WMZ adalah ekstensi file untuk format file kulit di/untuk/digunakan oleh Windows Media Player. File WMZ pada dasarnya adalah file WMF zip dalam XML.</p>
 <br/>
 Ada konversi berikut di pesawat:
 {{% /blocks/products/pf/feature-page-section %}}

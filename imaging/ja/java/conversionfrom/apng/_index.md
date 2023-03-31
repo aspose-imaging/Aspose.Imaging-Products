@@ -1,20 +1,20 @@
 ﻿---
-title: Aspose.Imaging for Java を使用して、APNG から他のサポートされている形式に変換します。 
+title: Aspose.Imaging for Java API を使用して、APNG(アニメーション化されたポータブルネットワークグラフィックス) から他のサポートされている形式に変換します。 
 weight: 3920
 url: /ja/java/conversion/from/apng 
 lang: ja
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging は、Java プラットフォームを使用して APNG から他のフォーマットに簡単に変換できます
+description: Aspose.Imaging は、Java プラットフォームを使用して APNG(アニメーション化されたポータブルネットワークグラフィックス) から他のフォーマットに簡単に変換できます
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java を使用して APNG フォーマットから画像を変換します" h2="Java プラットフォームを使用して、APNG 画像形式から他の形式に変換します" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java を使用して APNG フォーマットから画像を変換します" h2="Java プラットフォームを使用して、APNG(アニメーション化されたポータブルネットワークグラフィックス) 画像形式から他の形式に変換します" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java を使用して APNG 画像から変換できる幅広い画像フォーマット" %}}
-次を使用して、APNG 形式から他の使用可能な形式にプログラムで変換できます。
-Aspose.Imaging for Java。
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java を使用して APNG(アニメーション化されたポータブルネットワークグラフィックス) 画像から変換できる幅広い画像フォーマット" %}}
+<p align=justify>次を使用して、APNG 形式から他の使用可能な形式にプログラムで変換できます。
+Aspose.Imaging for Java。 拡張子が.apng（Animated Portable Network Graphics）のファイルは、ラスターグラフィック形式であり、Portable Network Graphic（PNG）の非公式な拡張子です。アニメーションシーケンスを表す複数のフレーム（各PNG画像）で構成されます。これにより、GIFファイルと同様の視覚化が可能になります。 APNGファイルは24ビット画像と8ビット透明度をサポートしています。 APNGは、アニメーション化されていないGIFファイルと下位互換性があります。 APNGファイルは同じ.png拡張子を使用し、Mozilla Firefox、APNGをサポートするChrome、iOS10用のiMessageアプリなどのアプリケーションで開くことができます。</p>
 <br/>
 機内では次の変換があります。
 {{% /blocks/products/pf/feature-page-section %}}

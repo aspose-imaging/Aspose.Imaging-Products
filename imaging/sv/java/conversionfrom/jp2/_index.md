@@ -1,20 +1,20 @@
 ﻿---
-title: Konvertera från JP2 till andra format som stöds med Aspose.Imaging för Java 
+title: Konvertera från JP2(JPEG 2000) till andra format som stöds med Aspose.Imaging för Java API 
 weight: 3920
 url: /sv/java/conversion/from/jp2 
 lang: sv
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging kan enkelt konvertera från JP2 till andra format med hjälp av Java-plattformen
+description: Aspose.Imaging kan enkelt konvertera från JP2(JPEG 2000) till andra format med hjälp av Java-plattformen
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertera bilder från formatet JP2 med Aspose.Imaging för Java" h2="Konvertera från JP2 bildformat till andra format med Java-plattformen" downloadText="Ladda ner" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertera bilder från formatet JP2 med Aspose.Imaging för Java" h2="Konvertera från JP2(JPEG 2000) bildformat till andra format med Java-plattformen" downloadText="Ladda ner" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Brett spektrum av bildformat som kan konverteras från JP2-bilder med Aspose.Imaging för Java" %}}
-Du kan programmatiskt konvertera från formatet JP2 till andra tillgängliga format med hjälp av
-Aspose.Imaging för Java.
+{{% blocks/products/pf/feature-page-section  h2="Brett spektrum av bildformat som kan konverteras från JP2(JPEG 2000)-bilder med Aspose.Imaging för Java" %}}
+<p align=justify>Du kan programmatiskt konvertera från formatet JP2 till andra tillgängliga format med hjälp av
+Aspose.Imaging för Java. JPEG 2000 (JP2) är ett bildkodningssystem och en toppmodern bildkomprimeringsstandard. Designad, med hjälp av wavelet-teknik JPEG 2000 kan koda förlustfritt innehåll i vilken kvalitet som helst på en gång. Dessutom har JPEG 2000, utan några betydande straff i kodningseffektivitet, förmågan att komma åt och avkoda samma innehåll effektivt till en mängd andra upplösningar och kvaliteter. Kodströmmarna i JPEG 2000 är avsevärt skalbara med områden av intresse som tillhandahåller möjligheten för rumslig direktåtkomst. Innehar upp till 16384 olika komponenter med dimensionerna i terapixels, och precision som kan vara hög som 38 bitar/prov.</p>
 <br/>
 Det finns följande konverteringar ombord:
 {{% /blocks/products/pf/feature-page-section %}}

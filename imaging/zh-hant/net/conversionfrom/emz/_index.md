@@ -1,21 +1,21 @@
 ﻿---
-title: 通過 .NET 從 EMZ 轉換為其他格式 
+title: 通過 .NET 圖像 API 從 EMZ(Windows 壓縮增強元文件) 轉換為其他格式 
 weight: 3920
 url: /zh-hant/net/conversion/from/emz 
 lang: zh-hant
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: 使用 Aspose.Imaging，您可以輕鬆地將 EMZ 轉換為其他格式
+description: 使用 Aspose.Imaging，您可以輕鬆地將 EMZ(Windows 壓縮增強元文件) 轉換為其他格式
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="通過 .NET 從 EMZ 轉換圖像文件" h2="從 EMZ 轉換為其他格式" downloadText="下載" >}}
+{{< blocks/products/pf/feature-page-header h1="通過 .NET 圖像 API 從 EMZ(Windows 壓縮增強元文件) 轉換圖像文件" h2="使用 Aspose.Imaging API 從 Windows 壓縮增強元文件 轉換為其他格式" downloadText="下載" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="要從 EMZ 轉換的所有支持的圖像格式" %}}
-Aspose.Imaging 允許在 .NET 平台上自動進行從 EMZ 到其他格式的大量轉換。
+{{% blocks/products/pf/feature-page-section  h2="從 EMZ(Windows 壓縮增強元文件) 轉換的所有支持的圖像格式" %}}
+<p align=justify>Aspose.Imaging 允許在 .NET 平台上自動進行從 EMZ 到其他格式的大量轉換。 具有 EMZ 文件擴展名的文件是壓縮圖像文件，更具體地稱為 Windows 壓縮增強元文件文件</p>
 <br/>
-支持的轉換的完整列表：
+EMZ 支持的轉換的完整列表：
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

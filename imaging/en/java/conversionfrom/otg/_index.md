@@ -1,20 +1,20 @@
 ﻿---
-title: Convert from OTG to other supported formats using Aspose.Imaging for Java 
+title: Convert from OTG(OpenDocument Standard) to other supported formats using Aspose.Imaging for Java API 
 weight: 3920
 url: /java/conversion/from/otg 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging can easily convert from OTG to other formats using Java platform
+description: Aspose.Imaging API can easily convert from OTG(OpenDocument Standard) to other formats using Java platform
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert images from OTG format using Aspose.Imaging for Java" h2="Convert from OTG image format to other formats using Java platform" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert images from OTG format using Aspose.Imaging for Java" h2="Convert from OTG(OpenDocument Standard) image format to other formats using Java platform" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wide spectrum of image formats that can be converted from OTG images using Aspose.Imaging for Java" %}}
-You can programmaticaly convert from OTG format to other available formats using 
-Aspose.Imaging for Java.
+{{% blocks/products/pf/feature-page-section  h2="Wide spectrum of image formats that can be converted from OTG(OpenDocument Standard) images using Aspose.Imaging for Java" %}}
+<p align=justify>You can programmaticaly convert from OTG format to other available formats using 
+Aspose.Imaging for Java. An OTG file is a drawing template that is created using the OpenDocument standard that follows the OASIS Office Applications 1.0 specification. It represents the default organization of drawing elements for a vector image that can be used to further enhance the contents of the file.</p>
 <br/>
 There are following conversions on board:
 {{% /blocks/products/pf/feature-page-section %}}

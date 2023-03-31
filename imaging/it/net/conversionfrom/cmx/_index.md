@@ -1,21 +1,21 @@
 ﻿---
-title: Converti da CMX in altri formati tramite .NET 
+title: Conversione da CMX(Immagine di scambio di Corel) ad altri formati tramite API immagine .NET 
 weight: 3920
 url: /it/net/conversion/from/cmx 
 lang: it
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging puoi facilmente convertire da CMX ad altri formati
+description: Usando Aspose.Imaging puoi facilmente convertire da CMX(Immagine di scambio di Corel) ad altri formati
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversione di file immagine da CMX tramite .NET" h2="Converti da CMX in altri formati" downloadText="Scarica" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversione di file immagine da CMX(Immagine di scambio di Corel) tramite l'API immagine .NET" h2="Converti da Immagine di scambio di Corel in altri formati utilizzando l'API Aspose.Imaging" downloadText="Scarica" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tutti i formati immagine supportati per la conversione da CMX" %}}
-Aspose.Imaging consente di automatizzare molte conversioni da CMX ad altri formati sulla piattaforma .NET.
+{{% blocks/products/pf/feature-page-section  h2="Tutti i formati immagine supportati per la conversione da CMX(Immagine di scambio di Corel)" %}}
+<p align=justify>Aspose.Imaging consente di automatizzare molte conversioni da CMX ad altri formati sulla piattaforma .NET. I file con estensione CMX sono un formato di file immagine di Corel Exchange utilizzato come presentazione dalle applicazioni CorelSuite. Contiene dati di immagine come grafica vettoriale e metadati che descrivono l'immagine. I file CMX possono essere aperti da CorelDraw, Corel Presentations, Paint Shop Pro e alcune versioni di Adobe Illustrator.</p>
 <br/>
-Elenco completo delle conversioni supportate:
+Elenco completo delle conversioni supportate da CMX:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

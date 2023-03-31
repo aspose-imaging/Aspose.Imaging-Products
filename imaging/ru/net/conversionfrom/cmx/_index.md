@@ -1,21 +1,21 @@
 ﻿---
-title: Конвертировать из CMX в другие форматы с помощью .NET 
+title: Преобразование из CMX(Обмен изображениями Corel) в другие форматы с помощью API изображений .NET 
 weight: 3920
 url: /ru/net/conversion/from/cmx 
 lang: ru
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Используя Aspose.Imaging, вы можете легко конвертировать из CMX в другие форматы.
+description: Используя Aspose.Imaging, вы можете легко конвертировать из CMX(Обмен изображениями Corel) в другие форматы.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование файлов изображений из CMX с помощью .NET" h2="Конвертировать из CMX в другие форматы" downloadText="Скачать" >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование файлов изображений из CMX(Обмен изображениями Corel) через .NET API изображений" h2="Преобразование из Обмен изображениями Corel в другие форматы с помощью Aspose.Imaging API" downloadText="Скачать" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Все поддерживаемые форматы изображений для преобразования из CMX" %}}
-Aspose.Imaging позволяет автоматизировать множество преобразований из CMX в другие форматы на платформе .NET.
+{{% blocks/products/pf/feature-page-section  h2="Все поддерживаемые форматы изображений для преобразования из CMX(Обмен изображениями Corel)" %}}
+<p align=justify>Aspose.Imaging позволяет автоматизировать множество преобразований из CMX в другие форматы на платформе .NET. Файлы с расширением CMX представляют собой формат файла изображения Corel Exchange, который используется в качестве представления приложениями CorelSuite. Он содержит данные изображения в виде векторной графики, а также метаданные, описывающие изображение. Файлы CMX можно открывать с помощью CorelDraw, Corel Presentations, Paint Shop Pro и некоторых версий Adobe Illustrator.</p>
 <br/>
-Полный список поддерживаемых преобразований:
+Полный список поддерживаемых преобразований из CMX:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

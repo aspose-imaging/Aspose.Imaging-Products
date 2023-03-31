@@ -1,20 +1,20 @@
 ﻿---
-title: 使用 Aspose.Imaging for Java 从 SVGZ 转换为其他支持的格式 
+title: 使用 Aspose.Imaging for Java API 从 SVGZ(可缩放矢量图形 (.SVG) 文件的压缩版本。) 转换为其他支持的格式 
 weight: 3920
 url: /zh-hans/java/conversion/from/svgz 
 lang: zh-hans
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging 可以使用 Java 平台轻松地将 SVGZ 转换为其他格式
+description: Aspose.Imaging 可以使用 Java 平台轻松地将 SVGZ(可缩放矢量图形 (.SVG) 文件的压缩版本。) 转换为其他格式
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="使用 Aspose.Imaging for Java 从 SVGZ 格式转换图像" h2="使用 Java 平台将 SVGZ 图像格式转换为其他格式" downloadText="下载" >}}
+{{< blocks/products/pf/feature-page-header h1="使用 Aspose.Imaging for Java 从 SVGZ 格式转换图像" h2="使用 Java 平台将 SVGZ(可缩放矢量图形 (.SVG) 文件的压缩版本。) 图像格式转换为其他格式" downloadText="下载" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="可以使用 Aspose.Imaging for Java 从 SVGZ 图像转换的各种图像格式" %}}
-您可以使用编程方式将 SVGZ 格式转换为其他可用格式
-用于 Java 的 Aspose.Imaging。
+{{% blocks/products/pf/feature-page-section  h2="可以使用 Aspose.Imaging for Java 从 SVGZ(可缩放矢量图形 (.SVG) 文件的压缩版本。) 图像转换的各种图像格式" %}}
+<p align=justify>您可以使用编程方式将 SVGZ 格式转换为其他可用格式
+用于 Java 的 Aspose.Imaging。 扩展名为 .svgz 的文件是可缩放矢量图形 (.SVG) 文件的压缩版本。它使用 gzip 压缩，包含 XML 格式的数据。 SVGZ 文件支持透明度、渐变、动画和过滤器。与默认的 SVG 文件相比，SVGZ 文件的大小更小，这种减小的文件大小有助于在线传输图形文件。图形设计师使用 Adob​​e Illustrator、Corel PaintShop Pro 等工具创建 SVGZ 文件。但是，可以通过在发送图像数据时在 Apache 服务器中启用 GZip 压缩来生成 SVGZ 文件。</p>
 <br/>
 船上有以下转换：
 {{% /blocks/products/pf/feature-page-section %}}

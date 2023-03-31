@@ -1,21 +1,21 @@
 ﻿---
-title: Konvertuoti iš TIFF į kitus formatus per .NET 
+title: Konvertuoti iš TIFF(Pažymėtas vaizdo formatas) į kitus formatus naudojant .NET vaizdo API 
 weight: 3920
 url: /lt/net/conversion/from/tiff 
 lang: lt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Naudodami Aspose.Imaging galite lengvai konvertuoti iš TIFF į kitus formatus
+description: Naudodami Aspose.Imaging galite lengvai konvertuoti iš TIFF(Pažymėtas vaizdo formatas) į kitus formatus
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas iš TIFF naudojant .NET" h2="Konvertuoti iš TIFF į kitus formatus" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas iš TIFF(Pažymėtas vaizdo formatas) naudojant .NET vaizdo API" h2="Konvertuokite iš Pažymėtas vaizdo formatas į kitus formatus naudodami Aspose.Imaging API" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai konvertuoti iš TIFF" %}}
-Aspose.Imaging leidžia automatizuoti daug konversijų iš TIFF į kitus formatus .NET platformoje.
+{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai, konvertuojami iš TIFF(Pažymėtas vaizdo formatas)" %}}
+<p align=justify>Aspose.Imaging leidžia automatizuoti daug konversijų iš TIFF į kitus formatus .NET platformoje. TIFF arba TIF, Tagged Image File Format, reiškia rastrinius vaizdus, ​​kurie yra skirti naudoti įvairiuose įrenginiuose, kurie atitinka šį failo formato standartą. Jis gali apibūdinti dviejų lygių, pilkų tonų, paletės spalvų ir pilnų spalvų vaizdo duomenis keliose spalvų erdvėse. Jis palaiko nuostolingo ir be nuostolių glaudinimo schemas, kad būtų galima pasirinkti tarp vietos ir laiko programoms, naudojančioms formatą. Formatas yra išplečiamas ir buvo keletą kartų peržiūrėtas, todėl galima įtraukti neribotą kiekį privačios ar specialios paskirties informacijos. Formatas nepriklauso nuo įrenginio ir nėra ribojamas, pvz., procesoriaus, operacinės sistemos ar failų sistemų.</p>
 <br/>
-Visas palaikomų konversijų sąrašas:
+Visas palaikomų konversijų iš TIFF sąrašas:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

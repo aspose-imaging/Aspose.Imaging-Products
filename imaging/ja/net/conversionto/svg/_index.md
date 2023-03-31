@@ -1,19 +1,19 @@
 ﻿---
-title: .NET プラットフォームを使用して、画像を他のサポートされている形式から SVG 画像形式に変換します 
+title: .NET プラットフォームを使用して、画像を他のサポートされている形式から SVG(スケーラブルベクターグラフィックス) 画像形式に変換します 
 weight: 3920
 url: /ja/net/conversion/to/svg 
 lang: ja
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging for .NET ライブラリを使用すると、サポートされている他の画像フォーマットから SVG に簡単に変換できます。
+description: Aspose.Imaging for .NET ライブラリを使用すると、サポートされている他の画像フォーマットから SVG(スケーラブルベクターグラフィックス) に簡単に変換できます。
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET プラットフォームを使用して、画像ファイルを SVG 画像形式に変換します" h2="Aspose.Imaging for .NET ライブラリを使用して、他のフォーマットから SVG フォーマットに変換します" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET プラットフォームを使用して、画像ファイルを SVG(スケーラブルベクターグラフィックス) 画像形式に変換します" h2="Aspose.Imaging for .NET ライブラリを使用して、他のフォーマットから スケーラブルベクターグラフィックス フォーマットに変換します" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for .NET ライブラリを使用した SVG 形式へのすべてのサポートされている変換" %}}
-Aspose.Imaging ライブラリを使用すると、さまざまな画像フォーマットをプログラムで SVG 画像に変換できます。
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for .NET ライブラリを使用した SVG(スケーラブルベクターグラフィックス) 形式へのすべてのサポートされている変換" %}}
+<p align=justify>Aspose.Imaging ライブラリを使用すると、さまざまな画像フォーマットをプログラムで SVG 画像に変換できます。 SVGファイルは、画像の外観を記述するためにXMLベースのテキスト形式を使用するScalable VectorGraphicsファイルです。スケーラブルという言葉は、SVGが品質を損なうことなくさまざまなサイズにスケーリングできるという事実を指します。このようなファイルのテキストベースの説明により、解像度に依存しなくなります。これは、スケーラビリティを実現するためにWebサイトや印刷グラフィックを構築するために最もよく使用される形式の1つです。ただし、この形式は2次元グラフィックスにのみ使用できます。 SVGファイルは、Chrome、Internet Explorer、Firefox、Safariを含むほとんどすべての最新のブラウザーで表示/開くことができます。</p>
 <br/>
 次の変換がサポートされています。
 {{% /blocks/products/pf/feature-page-section %}}

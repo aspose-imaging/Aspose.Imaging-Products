@@ -1,20 +1,20 @@
 ﻿---
-title: Aspose.Imaging for Java를 사용하여 TIF에서 지원되는 다른 형식으로 변환 
+title: Aspose.Imaging for Java API 를 사용하여 TIF(태그가 지정된 이미지 형식)에서 지원되는 다른 형식으로 변환 
 weight: 3920
 url: /ko/java/conversion/from/tif 
 lang: ko
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging은 Java 플랫폼을 사용하여 TIF에서 다른 형식으로 쉽게 변환할 수 있습니다.
+description: Aspose.Imaging은 Java 플랫폼을 사용하여 TIF(태그가 지정된 이미지 형식)에서 다른 형식으로 쉽게 변환할 수 있습니다.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java를 사용하여 TIF 형식에서 이미지 변환" h2="Java 플랫폼을 사용하여 TIF 이미지 형식에서 다른 형식으로 변환" downloadText="다운로드" >}}
+{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java를 사용하여 TIF 형식에서 이미지 변환" h2="Java 플랫폼을 사용하여 TIF(태그가 지정된 이미지 형식) 이미지 형식에서 다른 형식으로 변환" downloadText="다운로드" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java를 사용하여 TIF 이미지에서 변환할 수 있는 광범위한 이미지 형식" %}}
-다음을 사용하여 TIF 형식에서 사용 가능한 다른 형식으로 프로그래밍 방식으로 변환할 수 있습니다.
-Aspose.Imaging for Java.
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java를 사용하여 TIF(태그가 지정된 이미지 형식) 이미지에서 변환할 수 있는 광범위한 이미지 형식" %}}
+<p align=justify>다음을 사용하여 TIF 형식에서 사용 가능한 다른 형식으로 프로그래밍 방식으로 변환할 수 있습니다.
+Aspose.Imaging for Java. </p>
 <br/>
 보드에는 다음과 같은 변환이 있습니다.
 {{% /blocks/products/pf/feature-page-section %}}

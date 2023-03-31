@@ -1,21 +1,21 @@
 ﻿---
-title: Convertir de WMZ vers d'autres formats via .NET 
+title: Convertir de WMZ(Skin du lecteur Windows Media compressé) vers d'autres formats via l'API d'image .NET 
 weight: 3920
 url: /fr/net/conversion/from/wmz 
 lang: fr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: En utilisant Aspose.Imaging, vous pouvez facilement convertir de WMZ vers un autre format
+description: En utilisant Aspose.Imaging, vous pouvez facilement convertir de WMZ(Skin du lecteur Windows Media compressé) vers un autre format
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversion de fichiers image à partir de WMZ via .NET" h2="Convertir de WMZ vers un autre format" downloadText="Télécharger" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversion de fichiers image à partir de WMZ(Skin du lecteur Windows Media compressé) via l'API d'image .NET" h2="Convertir de Skin du lecteur Windows Media compressé vers d'autres formats à l'aide de l'API Aspose.Imaging" downloadText="Télécharger" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tous les formats d'image pris en charge pour convertir à partir de WMZ" %}}
-Aspose.Imaging permet d'automatiser de nombreuses conversions de WMZ vers d'autres formats sur la plate-forme .NET.
+{{% blocks/products/pf/feature-page-section  h2="Tous les formats d'image pris en charge pour convertir à partir de WMZ(Skin du lecteur Windows Media compressé)" %}}
+<p align=justify>Aspose.Imaging permet d'automatiser de nombreuses conversions de WMZ vers d'autres formats sur la plate-forme .NET. WMZ est une extension de fichier pour un format de fichier skin dans/pour/utilisé par Windows Media Player. Un fichier WMZ est essentiellement un fichier WMF compressé en XML.</p>
 <br/>
-Liste complète des conversions prises en charge :
+Liste complète des conversions prises en charge à partir de WMZ :
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

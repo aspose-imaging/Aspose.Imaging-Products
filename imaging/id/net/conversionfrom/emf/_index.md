@@ -1,21 +1,21 @@
 ﻿---
-title: Konversikan dari EMF ke format lain Melalui .NET 
+title: Konversikan dari EMF(Format Metafile yang Ditingkatkan) ke format lain Melalui API gambar .NET 
 weight: 3920
 url: /id/net/conversion/from/emf 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi dari EMF ke format lain
+description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi dari EMF(Format Metafile yang Ditingkatkan) ke format lain
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar dari EMF Melalui .NET" h2="Konversikan dari EMF ke format lain" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar dari EMF(Format Metafile yang Ditingkatkan) Melalui API gambar .NET" h2="Konversikan dari Format Metafile yang Ditingkatkan ke format lain menggunakan Aspose.Imaging API" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari EMF" %}}
-Aspose.Imaging memungkinkan mengotomatiskan banyak konversi dari EMF ke format lain di platform .NET.
+{{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari EMF(Format Metafile yang Ditingkatkan)" %}}
+<p align=justify>Aspose.Imaging memungkinkan mengotomatiskan banyak konversi dari EMF ke format lain di platform .NET. Enhanced metafile format (EMF) menyimpan gambar grafis secara mandiri. Metafile EMF terdiri dari catatan panjang variabel dalam urutan kronologis yang dapat membuat gambar yang disimpan setelah diurai pada perangkat output apa pun. Catatan panjang variabel ini dapat berupa definisi objek tertutup, perintah untuk menggambar, dan properti grafik yang penting untuk membuat gambar secara akurat. Saat perangkat membuka metafile EMF menggunakan lingkungan grafisnya sendiri, proporsi, dimensi, warna, dan properti grafis lainnya dari gambar asli tetap sama terlepas dari platform perangkat pembuka.</p>
 <br/>
-Daftar lengkap konversi yang didukung:
+Daftar lengkap konversi yang didukung dari EMF:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

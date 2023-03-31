@@ -1,19 +1,19 @@
 ﻿---
-title: Konwertuj obrazy do formatu obrazu EMZ z innych obsługiwanych formatów za pomocą platformy .NET 
+title: Konwertuj obrazy do formatu obrazu EMZ(Rozszerzony metaplik skompresowany w systemie Windows) z innych obsługiwanych formatów za pomocą platformy .NET 
 weight: 3920
 url: /pl/net/conversion/to/emz 
 lang: pl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Korzystając z biblioteki Aspose.Imaging dla .NET, można łatwo przekonwertować do formatu EMZ z innych obsługiwanych formatów obrazów
+description: Korzystając z biblioteki Aspose.Imaging dla .NET, można łatwo przekonwertować do formatu EMZ(Rozszerzony metaplik skompresowany w systemie Windows) z innych obsługiwanych formatów obrazów
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwertuj pliki obrazów do formatu obrazu EMZ za pomocą platformy .NET" h2="Konwertuj do formatu EMZ z innych formatów przy użyciu biblioteki Aspose.Imaging for .NET" downloadText="Pobierać" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj pliki obrazów do formatu obrazu EMZ(Rozszerzony metaplik skompresowany w systemie Windows) za pomocą platformy .NET" h2="Konwertuj do formatu Rozszerzony metaplik skompresowany w systemie Windows z innych formatów przy użyciu biblioteki Aspose.Imaging for .NET" downloadText="Pobierać" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane konwersje do formatu EMZ przy użyciu biblioteki Aspose.Imaging for .NET" %}}
-Korzystając z biblioteki Aspose.Imaging możesz programowo konwertować różne formaty obrazów na obraz EMZ.
+{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane konwersje do formatu EMZ(Rozszerzony metaplik skompresowany w systemie Windows) przy użyciu biblioteki Aspose.Imaging for .NET" %}}
+<p align=justify>Korzystając z biblioteki Aspose.Imaging możesz programowo konwertować różne formaty obrazów na obraz EMZ. Plik z rozszerzeniem EMZ to skompresowany plik obrazu, dokładniej nazywany plikiem Windows Compressed Enhanced Metafile</p>
 <br/>
 Obsługiwane są następujące konwersje:
 {{% /blocks/products/pf/feature-page-section %}}

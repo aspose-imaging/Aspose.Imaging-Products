@@ -1,19 +1,19 @@
 ﻿---
-title: Chuyển đổi hình ảnh sang định dạng hình ảnh WMF từ các định dạng được hỗ trợ khác bằng nền tảng .NET 
+title: Chuyển đổi hình ảnh sang định dạng hình ảnh WMF(Microsoft Windows Metafile) từ các định dạng được hỗ trợ khác bằng nền tảng .NET 
 weight: 3920
 url: /vi/net/conversion/to/wmf 
 lang: vi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Sử dụng Aspose.Imaging cho thư viện .NET, thật dễ dàng để chuyển đổi sang WMF từ các định dạng hình ảnh được hỗ trợ khác
+description: Sử dụng Aspose.Imaging cho thư viện .NET, thật dễ dàng để chuyển đổi sang WMF(Microsoft Windows Metafile) từ các định dạng hình ảnh được hỗ trợ khác
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Chuyển đổi tệp hình ảnh sang định dạng hình ảnh WMF bằng nền tảng .NET" h2="Chuyển đổi sang định dạng WMF từ các định dạng khác bằng thư viện Aspose.Imaging for .NET" downloadText="Tải xuống" >}}
+{{< blocks/products/pf/feature-page-header h1="Chuyển đổi tệp hình ảnh sang định dạng hình ảnh WMF(Microsoft Windows Metafile) bằng nền tảng .NET" h2="Chuyển đổi sang định dạng Microsoft Windows Metafile từ các định dạng khác bằng thư viện Aspose.Imaging for .NET" downloadText="Tải xuống" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tất cả các chuyển đổi được hỗ trợ sang định dạng WMF bằng thư viện Aspose.Imaging for .NET" %}}
-Sử dụng thư viện Aspose.Imaging, bạn có thể lập trình chuyển đổi các định dạng hình ảnh khác nhau thành hình ảnh WMF.
+{{% blocks/products/pf/feature-page-section  h2="Tất cả các chuyển đổi được hỗ trợ sang định dạng WMF(Microsoft Windows Metafile) bằng thư viện Aspose.Imaging for .NET" %}}
+<p align=justify>Sử dụng thư viện Aspose.Imaging, bạn có thể lập trình chuyển đổi các định dạng hình ảnh khác nhau thành hình ảnh WMF. Các tệp có phần mở rộng WMF đại diện cho Microsoft Windows Metafile (WMF) để lưu trữ dữ liệu hình ảnh dạng vector cũng như bitmap. Nói chính xác hơn, WMF thuộc thể loại định dạng tệp vectơ của các định dạng tệp Đồ họa độc lập với thiết bị. Giao diện thiết bị đồ họa Windows (GDI) sử dụng các chức năng được lưu trữ trong tệp WMF để hiển thị hình ảnh trên màn hình. Một phiên bản nâng cao hơn của WMF, được gọi là Tệp Meta Nâng cao (EMF), đã được xuất bản sau đó giúp định dạng có nhiều tính năng phong phú hơn. Thực tế, WMF tương tự như SVG.</p>
 <br/>
 chuyển đổi sau đây được hỗ trợ:
 {{% /blocks/products/pf/feature-page-section %}}

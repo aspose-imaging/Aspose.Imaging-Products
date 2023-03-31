@@ -1,20 +1,20 @@
 ﻿---
-title: Преобразование из TIF в другие поддерживаемые форматы с помощью Aspose.Imaging for Java 
+title: Преобразование из TIF(Формат изображения с тегами) в другие поддерживаемые форматы с помощью Aspose.Imaging for Java API 
 weight: 3920
 url: /ru/java/conversion/from/tif 
 lang: ru
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging может легко конвертировать из TIF в другие форматы с помощью платформы Java.
+description: Aspose.Imaging может легко конвертировать из TIF(Формат изображения с тегами) в другие форматы с помощью платформы Java.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование изображений из формата TIF с помощью Aspose.Imaging for Java" h2="Преобразование из формата изображения TIF в другие форматы с использованием платформы Java" downloadText="Скачать" >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование изображений из формата TIF с помощью Aspose.Imaging for Java" h2="Преобразование из формата изображения TIF(Формат изображения с тегами) в другие форматы с использованием платформы Java" downloadText="Скачать" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Спектр форматов изображений, которые можно преобразовать из изображений TIF с помощью Aspose.Imaging for Java." %}}
-Вы можете программно преобразовать формат TIF в другие доступные форматы, используя
-Aspose.Imaging for Java.
+{{% blocks/products/pf/feature-page-section  h2="Спектр форматов изображений, которые можно преобразовать из изображений TIF(Формат изображения с тегами) с помощью Aspose.Imaging for Java." %}}
+<p align=justify>Вы можете программно преобразовать формат TIF в другие доступные форматы, используя
+Aspose.Imaging for Java. </p>
 <br/>
 Представлены следующие трансформации:
 {{% /blocks/products/pf/feature-page-section %}}

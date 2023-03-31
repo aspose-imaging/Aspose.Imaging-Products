@@ -1,21 +1,21 @@
 ﻿---
-title: .NET Aracılığıyla OTG'ten diğer biçimlere dönüştürün 
+title: .NET görüntü API'sı aracılığıyla OTG(OpenDocument Standardı) biçimini diğer biçimlere dönüştürün 
 weight: 3920
 url: /tr/net/conversion/from/otg 
 lang: tr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging'i kullanarak OTG biçimini kolayca başka biçimlere dönüştürebilirsiniz
+description: Aspose.Imaging'i kullanarak OTG(OpenDocument Standardı) biçimini kolayca başka biçimlere dönüştürebilirsiniz
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET Yoluyla OTG'den Görüntü Dosyaları Dönüştürme" h2="OTG biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET image API aracılığıyla OTG(OpenDocument Standardı)'den Görüntü Dosyaları Dönüşümü" h2="Aspose.Imaging API kullanarak OpenDocument Standardı formatını diğer formatlara dönüştürün" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="OTG'den dönüştürülecek desteklenen tüm resim biçimleri" %}}
-Aspose.Imaging, .NET platformunda OTG'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir.
+{{% blocks/products/pf/feature-page-section  h2="OTG(OpenDocument Standardı) biçiminden dönüştürülecek desteklenen tüm resim biçimleri" %}}
+<p align=justify>Aspose.Imaging, .NET platformunda OTG'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir. Bir OTG dosyası, OASIS Office Applications 1.0 spesifikasyonunu izleyen OpenDocument standardı kullanılarak oluşturulan bir çizim şablonudur. Dosyanın içeriğini daha da geliştirmek için kullanılabilecek bir vektör görüntüsü için çizim öğelerinin varsayılan organizasyonunu temsil eder.</p>
 <br/>
-Desteklenen dönüşümlerin tam listesi:
+OTG tarafından desteklenen dönüşümlerin tam listesi:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

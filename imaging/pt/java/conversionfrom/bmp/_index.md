@@ -1,20 +1,20 @@
 ﻿---
-title: Converta de BMP para outros formatos suportados usando Aspose.Imaging for Java 
+title: Converta de BMP(Imagem de bitmap) para outros formatos suportados usando Aspose.Imaging for Java API 
 weight: 3920
 url: /pt/java/conversion/from/bmp 
 lang: pt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging pode converter facilmente de BMP para outros formatos usando a plataforma Java
+description: Aspose.Imaging pode converter facilmente de BMP(Imagem de bitmap) para outros formatos usando a plataforma Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converta imagens do formato BMP usando Aspose.Imaging para Java" h2="Converta do formato de imagem BMP para outros formatos usando a plataforma Java" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Converta imagens do formato BMP usando Aspose.Imaging para Java" h2="Converta do formato de imagem BMP(Imagem de bitmap) para outros formatos usando a plataforma Java" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Amplo espectro de formatos de imagem que podem ser convertidos de imagens BMP usando Aspose.Imaging para Java" %}}
-Você pode converter programaticamente do formato BMP para outros formatos disponíveis usando
-Aspose.Imaging para Java.
+{{% blocks/products/pf/feature-page-section  h2="Amplo espectro de formatos de imagem que podem ser convertidos de imagens BMP(Imagem de bitmap) usando Aspose.Imaging para Java" %}}
+<p align=justify>Você pode converter programaticamente do formato BMP para outros formatos disponíveis usando
+Aspose.Imaging para Java. Arquivos com extensão .BMP representam arquivos de imagem de bitmap que são usados ​​para armazenar imagens digitais de bitmap. Essas imagens são independentes do adaptador gráfico e também são chamadas de formato de arquivo de bitmap independente de dispositivo (DIB). Essa independência serve para abrir o arquivo em várias plataformas, como Microsoft Windows e Mac. O formato de arquivo BMP pode armazenar dados como imagens digitais bidimensionais em formato monocromático e colorido com várias profundidades de cor.</p>
 <br/>
 Existem as seguintes conversões a bordo:
 {{% /blocks/products/pf/feature-page-section %}}

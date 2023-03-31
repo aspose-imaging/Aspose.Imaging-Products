@@ -1,21 +1,21 @@
 ﻿---
-title: Konvertera från CDR till andra format via .NET 
+title: Konvertera från CDR(Vektor Ritning Bild) till andra format via .NET bild-API 
 weight: 3920
 url: /sv/net/conversion/from/cdr 
 lang: sv
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Med Aspose.Imaging kan du enkelt konvertera från CDR till ett annat format
+description: Med Aspose.Imaging kan du enkelt konvertera från CDR(Vektor Ritning Bild) till ett annat format
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertering av bildfiler från CDR via .NET" h2="Konvertera från CDR till ett annat format" downloadText="Ladda ner" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertering av bildfiler från CDR(Vektor Ritning Bild) via .NET bild-API" h2="Konvertera från Vektor Ritning Bild till andra format med Aspose.Imaging API" downloadText="Ladda ner" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alla bildformat som stöds för att konvertera från CDR" %}}
-Aspose.Imaging låter automatisera många konverteringar från CDR till andra format på .NET-plattformen.
+{{% blocks/products/pf/feature-page-section  h2="Alla bildformat som stöds att konvertera från CDR(Vektor Ritning Bild)" %}}
+<p align=justify>Aspose.Imaging låter automatisera många konverteringar från CDR till andra format på .NET-plattformen. En CDR-fil är en vektorritningsbildfil som skapas med CorelDRAW för att lagra digitala bilder kodade och komprimerade. En sådan ritfil innehåller text, linjer, former, bilder, färger och effekter för vektorrepresentation av bildinnehåll. CDR-filer kan öppnas med CorelDRAW som primärapplikation och kan även konverteras till andra format som PDF, JPG, PNG, BMP och AI. Den kan användas för representation av olika grafiska data som broschyrer, tabloider, kuvert och vykort. Förutom CorelDRAW kan andra Corel-produkter som Corel Paintshop Pro och CorelDRAW Graphics Suite också öppna CDR-filformaten.</p>
 <br/>
-Fullständig lista över omvandlingar som stöds:
+Fullständig lista över omvandlingar som stöds från CDR:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

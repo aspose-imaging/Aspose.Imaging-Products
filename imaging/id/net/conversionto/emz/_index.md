@@ -1,19 +1,19 @@
 ﻿---
-title: Konversi gambar ke format gambar EMZ dari format lain yang didukung menggunakan platform .NET 
+title: Konversi gambar ke format gambar EMZ(Metafile Terkompresi Windows yang Ditingkatkan) dari format lain yang didukung menggunakan platform .NET 
 weight: 3920
 url: /id/net/conversion/to/emz 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Menggunakan Aspose.Imaging untuk pustaka .NET, mudah untuk mengonversi ke EMZ dari format gambar lain yang didukung
+description: Menggunakan Aspose.Imaging untuk pustaka .NET, mudah untuk mengonversi ke EMZ(Metafile Terkompresi Windows yang Ditingkatkan) dari format gambar lain yang didukung
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar menjadi format gambar EMZ menggunakan platform .NET" h2="Konversikan ke format EMZ dari format lain menggunakan Aspose.Imaging untuk perpustakaan .NET" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar menjadi format gambar EMZ(Metafile Terkompresi Windows yang Ditingkatkan) menggunakan platform .NET" h2="Konversikan ke format Metafile Terkompresi Windows yang Ditingkatkan dari format lain menggunakan Aspose.Imaging untuk perpustakaan .NET" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Semua konversi yang didukung ke format EMZ menggunakan Aspose.Imaging untuk perpustakaan .NET" %}}
-Dengan menggunakan pustaka Aspose.Imaging, Anda dapat secara terprogram mengonversi berbagai format gambar menjadi gambar EMZ.
+{{% blocks/products/pf/feature-page-section  h2="Semua konversi yang didukung ke format EMZ(Metafile Terkompresi Windows yang Ditingkatkan) menggunakan Aspose.Imaging untuk perpustakaan .NET" %}}
+<p align=justify>Dengan menggunakan pustaka Aspose.Imaging, Anda dapat secara terprogram mengonversi berbagai format gambar menjadi gambar EMZ. File dengan ekstensi file EMZ adalah file gambar terkompresi, lebih khusus disebut sebagai file Metafile Windows Compressed Enhanced</p>
 <br/>
 Konversi berikut didukung :
 {{% /blocks/products/pf/feature-page-section %}}

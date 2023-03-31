@@ -1,20 +1,20 @@
 ﻿---
-title: Převeďte z TIFF do jiných podporovaných formátů pomocí Aspose.Imaging for Java 
+title: Převeďte z TIFF(Formát tagovaného obrázku) do jiných podporovaných formátů pomocí Aspose.Imaging for Java API 
 weight: 3920
 url: /cs/java/conversion/from/tiff 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging lze snadno převést z formátu TIFF do jiných formátů pomocí platformy Java
+description: Aspose.Imaging lze snadno převést z formátu TIFF(Formát tagovaného obrázku) do jiných formátů pomocí platformy Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převeďte obrázky z formátu TIFF pomocí Aspose.Imaging for Java" h2="Převeďte z formátu obrázku TIFF do jiných formátů pomocí platformy Java" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Převeďte obrázky z formátu TIFF pomocí Aspose.Imaging for Java" h2="Převeďte z formátu obrázku TIFF(Formát tagovaného obrázku) do jiných formátů pomocí platformy Java" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Široké spektrum obrazových formátů, které lze převést z obrázků TIFF pomocí Aspose.Imaging for Java" %}}
-Můžete programově převádět z formátu TIFF do jiných dostupných formátů pomocí
-Aspose.Imaging pro Javu.
+{{% blocks/products/pf/feature-page-section  h2="Široké spektrum obrazových formátů, které lze převést z obrázků TIFF(Formát tagovaného obrázku) pomocí Aspose.Imaging for Java" %}}
+<p align=justify>Můžete programově převádět z formátu TIFF do jiných dostupných formátů pomocí
+Aspose.Imaging pro Javu. TIFF nebo TIF, Tagged Image File Format, představuje rastrové obrázky, které jsou určeny pro použití na různých zařízeních, která vyhovují tomuto standardu formátu souboru. Je schopen popsat dvouúrovňová, šedá, paletová a plnobarevná obrazová data v několika barevných prostorech. Podporuje ztrátová i bezeztrátová kompresní schémata pro výběr mezi prostorem a časem pro aplikace používající formát. Formát je rozšiřitelný a prošel několika revizemi, které umožňují zahrnutí neomezeného množství soukromých nebo speciálních informací. Formát není závislý na počítači a je prostý omezení, jako je procesor, operační systém nebo systémy souborů.</p>
 <br/>
 Na palubě jsou následující konverze:
 {{% /blocks/products/pf/feature-page-section %}}

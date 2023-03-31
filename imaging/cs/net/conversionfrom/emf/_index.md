@@ -1,21 +1,21 @@
 ﻿---
-title: Převést z EMF do jiných formátů přes .NET 
+title: Převést z formátu EMF(Vylepšený formát metasouborů) do jiných formátů prostřednictvím rozhraní API pro obrázky .NET 
 weight: 3920
 url: /cs/net/conversion/from/emf 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Pomocí Aspose.Imaging můžete snadno převést z formátu EMF do jiných formátů
+description: Pomocí Aspose.Imaging můžete snadno převést z formátu EMF(Vylepšený formát metasouborů) do jiných formátů
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů z formátu EMF prostřednictvím .NET" h2="Převést z EMF do jiných formátů" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů z formátu EMF(Vylepšený formát metasouborů) prostřednictvím rozhraní API pro obrázky .NET" h2="Převeďte z Vylepšený formát metasouborů do jiných formátů pomocí Aspose.Imaging API" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu z formátu EMF" %}}
-Aspose.Imaging umožňuje automatizovat mnoho konverzí z EMF do jiných formátů na platformě .NET.
+{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu z formátu EMF (Vylepšený formát metasouborů)" %}}
+<p align=justify>Aspose.Imaging umožňuje automatizovat mnoho konverzí z EMF do jiných formátů na platformě .NET. Enhanced metafile format (EMF) ukládá grafické obrázky nezávisle na zařízení. Metasoubory EMF se skládají ze záznamů s proměnnou délkou v chronologickém pořadí, které mohou vykreslit uložený obraz po analýze na libovolném výstupním zařízení. Tyto záznamy s proměnnou délkou mohou být definice uzavřených objektů, příkazy pro kreslení a grafické vlastnosti, které jsou důležité pro přesné vykreslení obrazu. Když zařízení otevře metasoubor EMF pomocí vlastního grafického prostředí, proporce, rozměry, barvy a další grafické vlastnosti původního obrázku zůstanou stejné bez ohledu na platformu otevíracího zařízení.</p>
 <br/>
-Úplný seznam podporovaných konverzí:
+Úplný seznam podporovaných konverzí z EMF:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

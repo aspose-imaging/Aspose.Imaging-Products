@@ -1,21 +1,21 @@
 ﻿---
-title: .NET 経由で DIB から他の形式に変換します 
+title: .NET 画像 API を介して DIB(デバイスに依存しないビットマップ) から他の形式に変換する 
 weight: 3920
 url: /ja/net/conversion/from/dib 
 lang: ja
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging を使用すると、DIB から別のフォーマットに簡単に変換できます
+description: Aspose.Imaging を使用すると、DIB(デバイスに依存しないビットマップ) から別のフォーマットに簡単に変換できます
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET による DIB からの画像ファイルの変換" h2="DIB から別の形式に変換する" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET 画像 API を介した DIB(デバイスに依存しないビットマップ) からの画像ファイルの変換" h2="Aspose.Imaging API を使用して デバイスに依存しないビットマップ から他のフォーマットに変換" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="DIB から変換する、サポートされているすべての画像形式" %}}
-Aspose.Imaging を使用すると、DIB から .NET プラットフォーム上の他のフォーマットへの多くの変換を自動化できます。
+{{% blocks/products/pf/feature-page-section  h2="DIB(デバイスに依存しないビットマップ) から変換する、サポートされているすべての画像形式" %}}
+<p align=justify>Aspose.Imaging を使用すると、DIB から .NET プラットフォーム上の他のフォーマットへの多くの変換を自動化できます。 DIB（Device Independent Bitmap）ファイルは、標準のビットマップファイル（BMP）と構造が似ていますが、ヘッダーが異なるラスターイメージファイルです。これは、WindowsおよびmacOSで標準のBMPファイルを開くことができるほとんどすべてのアプリケーションで開くことができます。 DIBはバイナリファイルであり、BMPと同様の複雑なファイル形式を持っています。</p>
 <br/>
-サポートされている変換の完全なリスト:
+サポートされている DIB からの変換の完全なリスト:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

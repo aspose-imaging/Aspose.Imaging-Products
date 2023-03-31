@@ -1,19 +1,19 @@
 ﻿---
-title: Перетворіть зображення у формат PSD з інших підтримуваних форматів за допомогою платформи .NET 
+title: Перетворіть зображення у формат PSD(Документ Photoshop) з інших підтримуваних форматів за допомогою платформи .NET 
 weight: 3920
 url: /uk/net/conversion/to/psd 
 lang: uk
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: За допомогою бібліотеки Aspose.Imaging для .NET можна легко конвертувати в PSD інші підтримувані формати зображень
+description: За допомогою бібліотеки Aspose.Imaging для .NET можна легко конвертувати в PSD(Документ Photoshop) інші підтримувані формати зображень
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Перетворюйте файли зображень у формат зображення PSD за допомогою платформи .NET" h2="Перетворіть у формат PSD інші формати за допомогою бібліотеки Aspose.Imaging для .NET" downloadText="Завантажити" >}}
+{{< blocks/products/pf/feature-page-header h1="Перетворюйте файли зображень у формат зображення PSD(Документ Photoshop) за допомогою платформи .NET" h2="Перетворіть у формат Документ Photoshop інші формати за допомогою бібліотеки Aspose.Imaging для .NET" downloadText="Завантажити" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані перетворення у формат PSD за допомогою бібліотеки Aspose.Imaging для .NET" %}}
-Використовуючи бібліотеку Aspose.Imaging, ви можете програмно конвертувати різні формати зображень у зображення PSD.
+{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані перетворення у формат PSD(Документ Photoshop) за допомогою бібліотеки Aspose.Imaging для .NET" %}}
+<p align=justify>Використовуючи бібліотеку Aspose.Imaging, ви можете програмно конвертувати різні формати зображень у зображення PSD. PSD, Photoshop Document, представляє рідний формат файлу Adobe Photoshop, який використовується для проектування та розробки графіки. Файли PSD можуть містити шари зображень, шари коригування, маски шарів, анотації, інформацію про файли, ключові слова та інші специфічні для Photoshop елементи. </p>
 <br/>
 Підтримуються наступні перетворення:
 {{% /blocks/products/pf/feature-page-section %}}

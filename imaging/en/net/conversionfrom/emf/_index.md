@@ -1,21 +1,21 @@
 ﻿---
-title: Convert from EMF to other formats Via .NET 
+title: Convert from EMF(Enhanced Metafile Format) to other formats Via .NET image API 
 weight: 3920
 url: /net/conversion/from/emf 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Using Aspose.Imaging you can easily convert from EMF to other formats
+description: Using Aspose.Imaging for .NET you can easily convert from EMF(Enhanced Metafile Format) to other formats
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Image Files Conversion from EMF Via .NET" h2="Convert from EMF to other formats" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Image Files Conversion from EMF(Enhanced Metafile Format) Via .NET image API" h2="Convert from Enhanced Metafile Format to other formats using Aspose.Imaging API" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from EMF" %}}
-Aspose.Imaging allows automate a lot of conversions from EMF to other formats on .NET platform.
+{{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from EMF(Enhanced Metafile Format)" %}}
+<p align=justify>Aspose.Imaging allows automate a lot of conversions from EMF to other formats on .NET platform. Enhanced metafile format (EMF) stores graphical images device-independently. Metafiles of EMF comprises of variable-length records in chronological order that can render the stored image after parsing on any output device. These variable-length records can be definitions of enclosed objects, commands for drawing, and graphics properties critical to render the image accurately. When a device opens an EMF metafile using its own graphics environment, the proportions, dimensions, colors and other graphic properties of original image remains same regardless of the opening device platform.</p>
 <br/>
-Full list of supported conversions:
+Full list of supported conversions from EMF:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

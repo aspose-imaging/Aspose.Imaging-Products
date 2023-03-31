@@ -1,20 +1,20 @@
 ﻿---
-title: แปลงจาก DNG เป็นรูปแบบอื่นที่รองรับโดยใช้ Aspose.Imaging สำหรับ Java 
+title: แปลงจาก DNG(ภาพกล้องดิจิตอล) เป็นรูปแบบอื่นที่รองรับโดยใช้ Aspose.Imaging สำหรับ Java API 
 weight: 3920
 url: /th/java/conversion/from/dng 
 lang: th
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging สามารถแปลงจาก DNG เป็นรูปแบบอื่นได้อย่างง่ายดายโดยใช้แพลตฟอร์ม Java
+description: Aspose.Imaging สามารถแปลงจาก DNG(ภาพกล้องดิจิตอล) เป็นรูปแบบอื่นได้อย่างง่ายดายโดยใช้แพลตฟอร์ม Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="แปลงรูปภาพจากรูปแบบ DNG โดยใช้ Aspose.Imaging สำหรับ Java" h2="แปลงจากรูปแบบภาพ DNG เป็นรูปแบบอื่นโดยใช้แพลตฟอร์ม Java" downloadText="ดาวน์โหลด" >}}
+{{< blocks/products/pf/feature-page-header h1="แปลงรูปภาพจากรูปแบบ DNG โดยใช้ Aspose.Imaging สำหรับ Java" h2="แปลงจากรูปแบบภาพ DNG(ภาพกล้องดิจิตอล) เป็นรูปแบบอื่นโดยใช้แพลตฟอร์ม Java" downloadText="ดาวน์โหลด" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="รูปแบบรูปภาพที่หลากหลายที่สามารถแปลงจากรูปภาพ DNG โดยใช้ Aspose.Imaging สำหรับ Java" %}}
-คุณสามารถแปลงจากรูปแบบ DNG เป็นรูปแบบอื่นที่ใช้ได้โดยใช้โปรแกรม
-Aspose.Imaging สำหรับ Java
+{{% blocks/products/pf/feature-page-section  h2="รูปแบบรูปภาพที่หลากหลายที่สามารถแปลงจากรูปภาพ DNG(ภาพกล้องดิจิตอล) โดยใช้ Aspose.Imaging สำหรับ Java" %}}
+<p align=justify>คุณสามารถแปลงจากรูปแบบ DNG เป็นรูปแบบอื่นที่ใช้ได้โดยใช้โปรแกรม
+Aspose.Imaging สำหรับ Java DNG เป็นรูปแบบภาพของกล้องดิจิตอลที่ใช้สำหรับจัดเก็บไฟล์ดิบ ได้รับการพัฒนาโดย Adobe ในเดือนกันยายน 2547 โดยพื้นฐานแล้วได้รับการพัฒนาสำหรับการถ่ายภาพดิจิทัล DNG เป็นส่วนขยายของรูปแบบมาตรฐาน TIFF/EP และใช้ข้อมูลเมตาอย่างมาก เพื่อจัดการข้อมูลดิบจากกล้องดิจิทัลด้วยความยืดหยุ่นที่ง่ายดายและการควบคุมอย่างมีศิลปะ ช่างภาพจึงเลือกใช้ไฟล์ Raw ของกล้อง รูปแบบ JPEG และ TIFF จัดเก็บภาพที่ประมวลผลโดยกล้อง ดังนั้นจึงไม่มีที่ว่างสำหรับการแก้ไขในรูปแบบดังกล่าว</p>
 <br/>
 มีการแปลงต่อไปนี้บนกระดาน:
 {{% /blocks/products/pf/feature-page-section %}}

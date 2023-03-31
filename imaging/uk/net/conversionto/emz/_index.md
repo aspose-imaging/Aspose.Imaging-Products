@@ -1,19 +1,19 @@
 ﻿---
-title: Перетворіть зображення у формат EMZ з інших підтримуваних форматів за допомогою платформи .NET 
+title: Перетворіть зображення у формат EMZ(Windows Compressed Enhanced Metafile) з інших підтримуваних форматів за допомогою платформи .NET 
 weight: 3920
 url: /uk/net/conversion/to/emz 
 lang: uk
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: За допомогою бібліотеки Aspose.Imaging для .NET можна легко конвертувати в EMZ інші підтримувані формати зображень
+description: За допомогою бібліотеки Aspose.Imaging для .NET можна легко конвертувати в EMZ(Windows Compressed Enhanced Metafile) інші підтримувані формати зображень
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Перетворюйте файли зображень у формат зображення EMZ за допомогою платформи .NET" h2="Перетворіть у формат EMZ інші формати за допомогою бібліотеки Aspose.Imaging для .NET" downloadText="Завантажити" >}}
+{{< blocks/products/pf/feature-page-header h1="Перетворюйте файли зображень у формат зображення EMZ(Windows Compressed Enhanced Metafile) за допомогою платформи .NET" h2="Перетворіть у формат Windows Compressed Enhanced Metafile інші формати за допомогою бібліотеки Aspose.Imaging для .NET" downloadText="Завантажити" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані перетворення у формат EMZ за допомогою бібліотеки Aspose.Imaging для .NET" %}}
-Використовуючи бібліотеку Aspose.Imaging, ви можете програмно конвертувати різні формати зображень у зображення EMZ.
+{{% blocks/products/pf/feature-page-section  h2="Усі підтримувані перетворення у формат EMZ(Windows Compressed Enhanced Metafile) за допомогою бібліотеки Aspose.Imaging для .NET" %}}
+<p align=justify>Використовуючи бібліотеку Aspose.Imaging, ви можете програмно конвертувати різні формати зображень у зображення EMZ. Файл із розширенням EMZ — це файл стисненого зображення, який більш конкретно називається Windows Compressed Enhanced Metafile </p>
 <br/>
 Підтримуються наступні перетворення:
 {{% /blocks/products/pf/feature-page-section %}}

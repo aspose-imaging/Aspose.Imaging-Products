@@ -1,21 +1,21 @@
 ﻿---
-title: Konvertuoti iš DNG į kitus formatus per .NET 
+title: Konvertuoti iš DNG(Skaitmeninio fotoaparato vaizdas) į kitus formatus naudojant .NET vaizdo API 
 weight: 3920
 url: /lt/net/conversion/from/dng 
 lang: lt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Naudodami Aspose.Imaging galite lengvai konvertuoti iš DNG į kitus formatus
+description: Naudodami Aspose.Imaging galite lengvai konvertuoti iš DNG(Skaitmeninio fotoaparato vaizdas) į kitus formatus
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas iš DNG naudojant .NET" h2="Konvertuoti iš DNG į kitus formatus" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas iš DNG(Skaitmeninio fotoaparato vaizdas) naudojant .NET vaizdo API" h2="Konvertuokite iš Skaitmeninio fotoaparato vaizdas į kitus formatus naudodami Aspose.Imaging API" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai konvertuoti iš DNG" %}}
-Aspose.Imaging leidžia automatizuoti daug konversijų iš DNG į kitus formatus .NET platformoje.
+{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai, konvertuojami iš DNG(Skaitmeninio fotoaparato vaizdas)" %}}
+<p align=justify>Aspose.Imaging leidžia automatizuoti daug konversijų iš DNG į kitus formatus .NET platformoje. DNG yra skaitmeninio fotoaparato vaizdo formatas, naudojamas neapdorotiems failams saugoti. Ją 2004 m. rugsėjo mėn. sukūrė „Adobe“. Iš esmės jis buvo sukurtas skaitmeninei fotografijai. DNG yra TIFF/EP standartinio formato plėtinys ir daug naudoja metaduomenis. Siekdami lengvai lanksčiai ir meniškai valdyti neapdorotus skaitmeninių fotoaparatų duomenis, fotografai pasirenka neapdorotus fotoaparato failus. JPEG ir TIFF formatuose saugomi fotoaparato apdorojami vaizdai, todėl tokiuose formatuose nėra daug vietos keisti.</p>
 <br/>
-Visas palaikomų konversijų sąrašas:
+Visas palaikomų konversijų iš DNG sąrašas:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

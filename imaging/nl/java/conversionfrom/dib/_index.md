@@ -1,20 +1,20 @@
 ﻿---
-title: Converteer van DIB naar andere ondersteunde formaten met Aspose.Imaging voor Java 
+title: Converteer van DIB(Apparaatonafhankelijke bitmap) naar andere ondersteunde formaten met Aspose.Imaging voor Java API 
 weight: 3920
 url: /nl/java/conversion/from/dib 
 lang: nl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging kan eenvoudig converteren van DIB naar andere formaten met behulp van het Java-platform
+description: Aspose.Imaging kan eenvoudig converteren van DIB(Apparaatonafhankelijke bitmap) naar andere formaten met behulp van het Java-platform
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converteer afbeeldingen van DIB-indeling met Aspose.Imaging voor Java" h2="Converteer van DIB afbeeldingsformaat naar andere formaten met behulp van het Java-platform" downloadText="Downloaden" >}}
+{{< blocks/products/pf/feature-page-header h1="Converteer afbeeldingen van DIB-indeling met Aspose.Imaging voor Java" h2="Converteer van DIB(Apparaatonafhankelijke bitmap) afbeeldingsformaat naar andere formaten met behulp van het Java-platform" downloadText="Downloaden" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Breed spectrum aan afbeeldingsindelingen die kunnen worden geconverteerd van DIB-afbeeldingen met Aspose.Imaging voor Java" %}}
-U kunt programmatisch converteren van het DIB-formaat naar andere beschikbare formaten met behulp van
-Aspose.Imaging voor Java.
+{{% blocks/products/pf/feature-page-section  h2="Breed spectrum aan afbeeldingsindelingen die kunnen worden geconverteerd van DIB(Apparaatonafhankelijke bitmap)-afbeeldingen met Aspose.Imaging voor Java" %}}
+<p align=justify>U kunt programmatisch converteren van het DIB-formaat naar andere beschikbare formaten met behulp van
+Aspose.Imaging voor Java. Een DIB-bestand (Device Independent Bitmap) is een rasterafbeeldingsbestand dat qua structuur vergelijkbaar is met de standaard Bitmap-bestanden (BMP), maar een andere kop heeft. Het kan worden geopend met bijna alle toepassingen die een standaard BMP-bestand op Windows en macOS kunnen openen. DIB zijn binaire bestanden en hebben een complexe bestandsindeling die lijkt op BMP.</p>
 <br/>
 Er zijn de volgende verbouwingen aan boord:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,19 +1,19 @@
 ﻿---
-title: Konversi gambar ke format gambar ICO dari format lain yang didukung menggunakan platform .NET 
+title: Konversi gambar ke format gambar ICO(ikon Windows) dari format lain yang didukung menggunakan platform .NET 
 weight: 3920
 url: /id/net/conversion/to/ico 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Menggunakan Aspose.Imaging untuk pustaka .NET, mudah untuk mengonversi ke ICO dari format gambar lain yang didukung
+description: Menggunakan Aspose.Imaging untuk pustaka .NET, mudah untuk mengonversi ke ICO(ikon Windows) dari format gambar lain yang didukung
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar menjadi format gambar ICO menggunakan platform .NET" h2="Konversikan ke format ICO dari format lain menggunakan Aspose.Imaging untuk perpustakaan .NET" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar menjadi format gambar ICO(ikon Windows) menggunakan platform .NET" h2="Konversikan ke format ikon Windows dari format lain menggunakan Aspose.Imaging untuk perpustakaan .NET" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Semua konversi yang didukung ke format ICO menggunakan Aspose.Imaging untuk perpustakaan .NET" %}}
-Dengan menggunakan pustaka Aspose.Imaging, Anda dapat secara terprogram mengonversi berbagai format gambar menjadi gambar ICO.
+{{% blocks/products/pf/feature-page-section  h2="Semua konversi yang didukung ke format ICO(ikon Windows) menggunakan Aspose.Imaging untuk perpustakaan .NET" %}}
+<p align=justify>Dengan menggunakan pustaka Aspose.Imaging, Anda dapat secara terprogram mengonversi berbagai format gambar menjadi gambar ICO. Format file ICO adalah format file gambar untuk ikon komputer di Microsoft Windows. File ICO berisi satu atau lebih gambar kecil dengan berbagai ukuran dan kedalaman warna, sehingga dapat diskalakan dengan tepat. Di Windows, semua executable yang menampilkan ikon kepada pengguna, di desktop, di Start Menu, atau di Windows Explorer, harus membawa ikon dalam format ICO.</p>
 <br/>
 Konversi berikut didukung :
 {{% /blocks/products/pf/feature-page-section %}}

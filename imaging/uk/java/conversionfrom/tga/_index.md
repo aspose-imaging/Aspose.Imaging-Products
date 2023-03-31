@@ -1,20 +1,20 @@
 ﻿---
-title: Перетворюйте з TGA в інші підтримувані формати за допомогою Aspose.Imaging для Java 
+title: Перетворюйте з TGA(Targa Graphic) в інші підтримувані формати за допомогою Aspose.Imaging for Java API 
 weight: 3920
 url: /uk/java/conversion/from/tga 
 lang: uk
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging може легко конвертувати з TGA в інші формати за допомогою платформи Java
+description: Aspose.Imaging може легко конвертувати з TGA(Targa Graphic) в інші формати за допомогою платформи Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Перетворіть зображення з формату TGA за допомогою Aspose.Imaging for Java" h2="Перетворіть формат зображення TGA в інші формати за допомогою платформи Java" downloadText="Завантажити" >}}
+{{< blocks/products/pf/feature-page-header h1="Перетворіть зображення з формату TGA за допомогою Aspose.Imaging for Java" h2="Перетворіть формат зображення TGA(Targa Graphic) в інші формати за допомогою платформи Java" downloadText="Завантажити" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Спектр форматів зображень, які можна конвертувати з TGA зображень за допомогою Aspose.Imaging for Java" %}}
-Ви можете програмно конвертувати формат TGA в інші доступні формати за допомогою
-Aspose.Imaging for Java.
+{{% blocks/products/pf/feature-page-section  h2="Спектр форматів зображень, які можна конвертувати з TGA(Targa Graphic) зображень за допомогою Aspose.Imaging for Java" %}}
+<p align=justify>Ви можете програмно конвертувати формат TGA в інші доступні формати за допомогою
+Aspose.Imaging for Java. Truevision TGA, який часто називають TARGA, — це формат файлів растрової графіки, створений компанією Truevision Inc. (зараз є частиною Avid Technology). Це був рідний формат плат TARGA і VISTA, які були першими графічними картами для IBM-сумісних ПК, які підтримували відображення Highcolor/truecolor.</p>
 <br/>
 Наведено такі перетворення:
 {{% /blocks/products/pf/feature-page-section %}}

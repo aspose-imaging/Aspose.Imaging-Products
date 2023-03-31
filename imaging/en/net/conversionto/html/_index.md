@@ -1,19 +1,19 @@
 ﻿---
-title: Convert images to HTML image format from other supported formats using .NET platform 
+title: Convert images to HTML(HTML5 Canvas) image format from other supported formats using .NET platform 
 weight: 3920
 url: /net/conversion/to/html 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Using Aspose.Imaging for .NET library it is easy to convert to HTML from other supported image formats
+description: Using Aspose.Imaging for .NET library it is easy to convert to HTML(HTML5 Canvas) from other supported image formats
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert Image Files to HTML image format using .NET platform" h2="Convert to HTML format from other formats using Aspose.Imaging for .NET library" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert Image Files to HTML(HTML5 Canvas) image format using .NET platform" h2="Convert to HTML5 Canvas format from other formats using Aspose.Imaging for .NET library" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="All supported conversions to HTML format using Aspose.Imaging for .NET library" %}}
-Using Aspose.Imaging library you can programmatically convert various image formats to HTML image.
+{{% blocks/products/pf/feature-page-section  h2="All supported conversions to HTML(HTML5 Canvas) format using Aspose.Imaging for .NET library" %}}
+<p align=justify>Using Aspose.Imaging library you can programmatically convert various image formats to HTML image. HTML (Hyper Text Markup Language) is the extension for web pages created for display in browsers. Known as language of the web, HTML has evolved with requirements of new information requirements to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from server, where these are hosted, or can be loaded from local system as well. Each HTML page is made up of HTML elements such as forms, text, images, animations, links, etc. These elements are represented by tags such as img, a, p and several others where each tag has start and end. It can also embed applications written in scripting languages such as JavaScript and Style Sheets (CSS) for overall layout representation.</p>
 <br/>
 Following conversions are supported :
 {{% /blocks/products/pf/feature-page-section %}}

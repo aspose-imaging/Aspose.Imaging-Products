@@ -1,20 +1,20 @@
 ﻿---
-title: Konvertera från EMZ till andra format som stöds med Aspose.Imaging för Java 
+title: Konvertera från EMZ(Windows komprimerad förbättrad metafil) till andra format som stöds med Aspose.Imaging för Java API 
 weight: 3920
 url: /sv/java/conversion/from/emz 
 lang: sv
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging kan enkelt konvertera från EMZ till andra format med hjälp av Java-plattformen
+description: Aspose.Imaging kan enkelt konvertera från EMZ(Windows komprimerad förbättrad metafil) till andra format med hjälp av Java-plattformen
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertera bilder från formatet EMZ med Aspose.Imaging för Java" h2="Konvertera från EMZ bildformat till andra format med Java-plattformen" downloadText="Ladda ner" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertera bilder från formatet EMZ med Aspose.Imaging för Java" h2="Konvertera från EMZ(Windows komprimerad förbättrad metafil) bildformat till andra format med Java-plattformen" downloadText="Ladda ner" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Brett spektrum av bildformat som kan konverteras från EMZ-bilder med Aspose.Imaging för Java" %}}
-Du kan programmatiskt konvertera från formatet EMZ till andra tillgängliga format med hjälp av
-Aspose.Imaging för Java.
+{{% blocks/products/pf/feature-page-section  h2="Brett spektrum av bildformat som kan konverteras från EMZ(Windows komprimerad förbättrad metafil)-bilder med Aspose.Imaging för Java" %}}
+<p align=justify>Du kan programmatiskt konvertera från formatet EMZ till andra tillgängliga format med hjälp av
+Aspose.Imaging för Java. En fil med filtillägget EMZ är en komprimerad bildfil, mer specifikt kallad en Windows Compressed Enhanced Metafile-fil</p>
 <br/>
 Det finns följande konverteringar ombord:
 {{% /blocks/products/pf/feature-page-section %}}

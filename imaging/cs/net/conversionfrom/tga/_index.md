@@ -1,21 +1,21 @@
 ﻿---
-title: Převést z TGA do jiných formátů přes .NET 
+title: Převést z formátu TGA(Grafika Targa) do jiných formátů prostřednictvím rozhraní API pro obrázky .NET 
 weight: 3920
 url: /cs/net/conversion/from/tga 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Pomocí Aspose.Imaging můžete snadno převést z formátu TGA do jiných formátů
+description: Pomocí Aspose.Imaging můžete snadno převést z formátu TGA(Grafika Targa) do jiných formátů
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů z formátu TGA prostřednictvím .NET" h2="Převést z TGA do jiných formátů" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů z formátu TGA(Grafika Targa) prostřednictvím rozhraní API pro obrázky .NET" h2="Převeďte z Grafika Targa do jiných formátů pomocí Aspose.Imaging API" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu z formátu TGA" %}}
-Aspose.Imaging umožňuje automatizovat mnoho konverzí z TGA do jiných formátů na platformě .NET.
+{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu z formátu TGA (Grafika Targa)" %}}
+<p align=justify>Aspose.Imaging umožňuje automatizovat mnoho konverzí z TGA do jiných formátů na platformě .NET. Truevision TGA, často označovaný jako TARGA, je formát rastrového grafického souboru vytvořený společností Truevision Inc. (nyní součástí Avid Technology). Byl to nativní formát desek TARGA a VISTA, které byly prvními grafickými kartami pro počítače kompatibilní s IBM, které podporovaly zobrazení Highcolor/truecolor.</p>
 <br/>
-Úplný seznam podporovaných konverzí:
+Úplný seznam podporovaných konverzí z TGA:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

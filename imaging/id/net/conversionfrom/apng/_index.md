@@ -1,21 +1,21 @@
 ﻿---
-title: Konversikan dari APNG ke format lain Melalui .NET 
+title: Konversikan dari APNG(Grafik Jaringan Portabel Animasi) ke format lain Melalui API gambar .NET 
 weight: 3920
 url: /id/net/conversion/from/apng 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi dari APNG ke format lain
+description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi dari APNG(Grafik Jaringan Portabel Animasi) ke format lain
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar dari APNG Melalui .NET" h2="Konversikan dari APNG ke format lain" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar dari APNG(Grafik Jaringan Portabel Animasi) Melalui API gambar .NET" h2="Konversikan dari Grafik Jaringan Portabel Animasi ke format lain menggunakan Aspose.Imaging API" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari APNG" %}}
-Aspose.Imaging memungkinkan mengotomatiskan banyak konversi dari APNG ke format lain di platform .NET.
+{{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari APNG(Grafik Jaringan Portabel Animasi)" %}}
+<p align=justify>Aspose.Imaging memungkinkan mengotomatiskan banyak konversi dari APNG ke format lain di platform .NET. File dengan ekstensi .apng (Animated Portable Network Graphics) adalah format grafik raster dan merupakan ekstensi tidak resmi untuk Portable Network Graphic (PNG ). Ini terdiri dari beberapa frame (masing-masing gambar PNG) yang mewakili urutan animasi. Ini memberikan visualisasi yang mirip dengan file GIF. File APNG mendukung gambar 24-bit dan transparansi 8-bit. APNG kompatibel dengan file GIF non-animasi. File APNG menggunakan ekstensi .png yang sama dan dapat dibuka oleh aplikasi seperti Mozilla Firefox, Chrome dengan dukungan APNG, aplikasi iMessage untuk iOS 10.</p>
 <br/>
-Daftar lengkap konversi yang didukung:
+Daftar lengkap konversi yang didukung dari APNG:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

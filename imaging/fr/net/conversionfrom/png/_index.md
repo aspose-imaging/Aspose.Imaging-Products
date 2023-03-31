@@ -1,21 +1,21 @@
 ﻿---
-title: Convertir de PNG vers d'autres formats via .NET 
+title: Convertir de PNG(Portable Network Graphics) vers d'autres formats via l'API d'image .NET 
 weight: 3920
 url: /fr/net/conversion/from/png 
 lang: fr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: En utilisant Aspose.Imaging, vous pouvez facilement convertir de PNG vers un autre format
+description: En utilisant Aspose.Imaging, vous pouvez facilement convertir de PNG(Portable Network Graphics) vers un autre format
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversion de fichiers image à partir de PNG via .NET" h2="Convertir de PNG vers un autre format" downloadText="Télécharger" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversion de fichiers image à partir de PNG(Portable Network Graphics) via l'API d'image .NET" h2="Convertir de Portable Network Graphics vers d'autres formats à l'aide de l'API Aspose.Imaging" downloadText="Télécharger" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tous les formats d'image pris en charge pour convertir à partir de PNG" %}}
-Aspose.Imaging permet d'automatiser de nombreuses conversions de PNG vers d'autres formats sur la plate-forme .NET.
+{{% blocks/products/pf/feature-page-section  h2="Tous les formats d'image pris en charge pour convertir à partir de PNG(Portable Network Graphics)" %}}
+<p align=justify>Aspose.Imaging permet d'automatiser de nombreuses conversions de PNG vers d'autres formats sur la plate-forme .NET. PNG, Portable Network Graphics, fait référence à un type de format de fichier d'image raster qui utilise une compression sans perte. Ce format de fichier a été créé en remplacement du Graphics Interchange Format (GIF) et n'a aucune limitation de copyright. Cependant, le format de fichier PNG ne prend pas en charge les animations. Le format de fichier PNG prend en charge la compression d'image sans perte, ce qui le rend populaire parmi ses utilisateurs. Au fil du temps, PNG est devenu l'un des formats de fichier image les plus utilisés. Presque tous les systèmes d'exploitation prennent en charge l'ouverture des fichiers PNG. Par exemple, la visionneuse Microsoft Windows a la capacité d'ouvrir les fichiers PNG car le système d'exploitation dispose par défaut de la prise en charge disponible dans le cadre de l'installation.</p>
 <br/>
-Liste complète des conversions prises en charge :
+Liste complète des conversions prises en charge à partir de PNG :
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

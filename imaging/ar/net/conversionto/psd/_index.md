@@ -1,19 +1,19 @@
 ﻿---
-title: تحويل الصور إلى تنسيق صورة PSD من التنسيقات الأخرى المدعومة باستخدام منصة .NET 
+title: تحويل الصور إلى تنسيق صورة PSD(وثيقة فوتوشوب) من التنسيقات الأخرى المدعومة باستخدام منصة .NET 
 weight: 3920
 url: /ar/net/conversion/to/psd 
 lang: ar
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: باستخدام Aspose.Imaging لمكتبة .NET يسهل التحويل إلى PSD من تنسيقات الصور الأخرى المدعومة
+description: باستخدام Aspose.Imaging لمكتبة .NET يسهل التحويل إلى PSD(وثيقة فوتوشوب) من تنسيقات الصور الأخرى المدعومة
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل ملفات الصور إلى تنسيق صورة PSD باستخدام منصة .NET" h2="تحويل إلى تنسيق PSD من التنسيقات الأخرى باستخدام Aspose.Imaging لمكتبة .NET" downloadText="تحميل" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل ملفات الصور إلى تنسيق صورة PSD(وثيقة فوتوشوب) باستخدام منصة .NET" h2="تحويل إلى تنسيق وثيقة فوتوشوب من التنسيقات الأخرى باستخدام Aspose.Imaging لمكتبة .NET" downloadText="تحميل" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="جميع التحويلات المدعومة إلى تنسيق PSD باستخدام Aspose.Imaging for .NET library" %}}
-باستخدام مكتبة Aspose.Imaging ، يمكنك تحويل العديد من تنسيقات الصور إلى صورة PSD برمجيًا.
+{{% blocks/products/pf/feature-page-section  h2="جميع التحويلات المدعومة إلى تنسيق PSD(وثيقة فوتوشوب) باستخدام Aspose.Imaging for .NET library" %}}
+<p align=justify>باستخدام مكتبة Aspose.Imaging ، يمكنك تحويل العديد من تنسيقات الصور إلى صورة PSD برمجيًا. يمثل PSD ، Photoshop Document ، تنسيق ملف Adobe Photoshop الأصلي المستخدم لتصميم الرسومات وتطويرها. قد تتضمن ملفات PSD طبقات الصورة وطبقات الضبط وأقنعة الطبقة والتعليقات التوضيحية ومعلومات الملف والكلمات الأساسية والعناصر الأخرى الخاصة بـ Photoshop.</p>
 <br/>
 يتم دعم التحويلات التالية:
 {{% /blocks/products/pf/feature-page-section %}}

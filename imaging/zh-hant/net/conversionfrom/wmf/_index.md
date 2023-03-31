@@ -1,21 +1,21 @@
 ﻿---
-title: 通過 .NET 從 WMF 轉換為其他格式 
+title: 通過 .NET 圖像 API 從 WMF(微軟視窗元文件) 轉換為其他格式 
 weight: 3920
 url: /zh-hant/net/conversion/from/wmf 
 lang: zh-hant
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: 使用 Aspose.Imaging，您可以輕鬆地將 WMF 轉換為其他格式
+description: 使用 Aspose.Imaging，您可以輕鬆地將 WMF(微軟視窗元文件) 轉換為其他格式
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="通過 .NET 從 WMF 轉換圖像文件" h2="從 WMF 轉換為其他格式" downloadText="下載" >}}
+{{< blocks/products/pf/feature-page-header h1="通過 .NET 圖像 API 從 WMF(微軟視窗元文件) 轉換圖像文件" h2="使用 Aspose.Imaging API 從 微軟視窗元文件 轉換為其他格式" downloadText="下載" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="要從 WMF 轉換的所有支持的圖像格式" %}}
-Aspose.Imaging 允許在 .NET 平台上自動進行從 WMF 到其他格式的大量轉換。
+{{% blocks/products/pf/feature-page-section  h2="從 WMF(微軟視窗元文件) 轉換的所有支持的圖像格式" %}}
+<p align=justify>Aspose.Imaging 允許在 .NET 平台上自動進行從 WMF 到其他格式的大量轉換。 帶有 WMF 擴展名的文件代表 Microsoft Windows 元文件 (WMF)，用於存儲矢量以及位圖格式的圖像數據。更準確地說，WMF 屬於與設備無關的圖形文件格式的矢量文件格式類別。 Windows 圖形設備接口 (GDI) 使用存儲在 WMF 文件中的函數在屏幕上顯示圖像。後來發布了 WMF 的更增強版本，稱為增強元文件 (EMF)，使該格式的功能更加豐富。實際上，WMF 類似於 SVG。</p>
 <br/>
-支持的轉換的完整列表：
+WMF 支持的轉換的完整列表：
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

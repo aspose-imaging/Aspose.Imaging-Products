@@ -1,21 +1,21 @@
 ﻿---
-title: Převést z EPS do jiných formátů přes .NET 
+title: Převést z formátu EPS(Encapsulated PostScript Language) do jiných formátů prostřednictvím rozhraní API pro obrázky .NET 
 weight: 3920
 url: /cs/net/conversion/from/eps 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Pomocí Aspose.Imaging můžete snadno převést z formátu EPS do jiných formátů
+description: Pomocí Aspose.Imaging můžete snadno převést z formátu EPS(Encapsulated PostScript Language) do jiných formátů
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů z formátu EPS prostřednictvím .NET" h2="Převést z EPS do jiných formátů" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Konverze obrazových souborů z formátu EPS(Encapsulated PostScript Language) prostřednictvím rozhraní API pro obrázky .NET" h2="Převeďte z Encapsulated PostScript Language do jiných formátů pomocí Aspose.Imaging API" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu z formátu EPS" %}}
-Aspose.Imaging umožňuje automatizovat mnoho konverzí z EPS do jiných formátů na platformě .NET.
+{{% blocks/products/pf/feature-page-section  h2="Všechny podporované formáty obrázků k převodu z formátu EPS (Encapsulated PostScript Language)" %}}
+<p align=justify>Aspose.Imaging umožňuje automatizovat mnoho konverzí z EPS do jiných formátů na platformě .NET. Soubory s příponou EPS v podstatě popisují program jazyka Encapsulated PostScript, který popisuje vzhled jedné stránky. Název "Encapsulated", protože může být zahrnut nebo zapouzdřen v popisu stránky v jiném jazyce PostScript. Tento formát souboru založený na skriptech může obsahovat libovolnou kombinaci textu, grafiky a obrázků. Soubory EPS mohou obsahovat bitmapový náhledový obrázek zapouzdřený uvnitř pro zobrazení aplikacemi, které mohou takové soubory otevřít. Soubory EPS lze převést do standardních obrazových formátů, jako jsou JPG, PNG, TIFF a PDF pomocí různých aplikací, např. Adobe Illustrator, Photoshop a PaintShop Pro. Kvůli bezpečnostní chybě v souborech EPS vypnuly ​​Office 2016, Office 2013, Office 2010 a Office 365 možnost vkládat soubory EPS do dokumentů Office.</p>
 <br/>
-Úplný seznam podporovaných konverzí:
+Úplný seznam podporovaných konverzí z EPS:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

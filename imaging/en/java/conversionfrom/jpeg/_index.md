@@ -1,20 +1,20 @@
 ﻿---
-title: Convert from JPEG to other supported formats using Aspose.Imaging for Java 
+title: Convert from JPEG(Joint Photographic Experts Group) to other supported formats using Aspose.Imaging for Java API 
 weight: 3920
 url: /java/conversion/from/jpeg 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging can easily convert from JPEG to other formats using Java platform
+description: Aspose.Imaging API can easily convert from JPEG(Joint Photographic Experts Group) to other formats using Java platform
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert images from JPEG format using Aspose.Imaging for Java" h2="Convert from JPEG image format to other formats using Java platform" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert images from JPEG format using Aspose.Imaging for Java" h2="Convert from JPEG(Joint Photographic Experts Group) image format to other formats using Java platform" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wide spectrum of image formats that can be converted from JPEG images using Aspose.Imaging for Java" %}}
-You can programmaticaly convert from JPEG format to other available formats using 
-Aspose.Imaging for Java.
+{{% blocks/products/pf/feature-page-section  h2="Wide spectrum of image formats that can be converted from JPEG(Joint Photographic Experts Group) images using Aspose.Imaging for Java" %}}
+<p align=justify>You can programmaticaly convert from JPEG format to other available formats using 
+Aspose.Imaging for Java. A JPEG is a type of image format that is saved using the method of lossy compression. The output image, as result of compression, is a trade-off between storage size and image quality. Users can adjust the compression level to achieve the desired quality level while at the same time reduce the storage size. Image quality is negligibly affected if 10:1 compression is applied to the image. The higher the compression value, the higher the degradation in image quality.</p>
 <br/>
 There are following conversions on board:
 {{% /blocks/products/pf/feature-page-section %}}

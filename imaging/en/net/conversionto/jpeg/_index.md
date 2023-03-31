@@ -1,19 +1,19 @@
 ﻿---
-title: Convert images to JPEG image format from other supported formats using .NET platform 
+title: Convert images to JPEG(Joint Photographic Experts Group) image format from other supported formats using .NET platform 
 weight: 3920
 url: /net/conversion/to/jpeg 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Using Aspose.Imaging for .NET library it is easy to convert to JPEG from other supported image formats
+description: Using Aspose.Imaging for .NET library it is easy to convert to JPEG(Joint Photographic Experts Group) from other supported image formats
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert Image Files to JPEG image format using .NET platform" h2="Convert to JPEG format from other formats using Aspose.Imaging for .NET library" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert Image Files to JPEG(Joint Photographic Experts Group) image format using .NET platform" h2="Convert to Joint Photographic Experts Group format from other formats using Aspose.Imaging for .NET library" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="All supported conversions to JPEG format using Aspose.Imaging for .NET library" %}}
-Using Aspose.Imaging library you can programmatically convert various image formats to JPEG image.
+{{% blocks/products/pf/feature-page-section  h2="All supported conversions to JPEG(Joint Photographic Experts Group) format using Aspose.Imaging for .NET library" %}}
+<p align=justify>Using Aspose.Imaging library you can programmatically convert various image formats to JPEG image. A JPEG is a type of image format that is saved using the method of lossy compression. The output image, as result of compression, is a trade-off between storage size and image quality. Users can adjust the compression level to achieve the desired quality level while at the same time reduce the storage size. Image quality is negligibly affected if 10:1 compression is applied to the image. The higher the compression value, the higher the degradation in image quality.</p>
 <br/>
 Following conversions are supported :
 {{% /blocks/products/pf/feature-page-section %}}

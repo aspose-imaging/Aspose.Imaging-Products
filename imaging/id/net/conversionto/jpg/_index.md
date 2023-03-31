@@ -1,19 +1,19 @@
 ﻿---
-title: Konversi gambar ke format gambar JPG dari format lain yang didukung menggunakan platform .NET 
+title: Konversi gambar ke format gambar JPG(Kelompok Ahli Fotografi Bersama) dari format lain yang didukung menggunakan platform .NET 
 weight: 3920
 url: /id/net/conversion/to/jpg 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Menggunakan Aspose.Imaging untuk pustaka .NET, mudah untuk mengonversi ke JPG dari format gambar lain yang didukung
+description: Menggunakan Aspose.Imaging untuk pustaka .NET, mudah untuk mengonversi ke JPG(Kelompok Ahli Fotografi Bersama) dari format gambar lain yang didukung
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar menjadi format gambar JPG menggunakan platform .NET" h2="Konversikan ke format JPG dari format lain menggunakan Aspose.Imaging untuk perpustakaan .NET" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar menjadi format gambar JPG(Kelompok Ahli Fotografi Bersama) menggunakan platform .NET" h2="Konversikan ke format Kelompok Ahli Fotografi Bersama dari format lain menggunakan Aspose.Imaging untuk perpustakaan .NET" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Semua konversi yang didukung ke format JPG menggunakan Aspose.Imaging untuk perpustakaan .NET" %}}
-Dengan menggunakan pustaka Aspose.Imaging, Anda dapat secara terprogram mengonversi berbagai format gambar menjadi gambar JPG.
+{{% blocks/products/pf/feature-page-section  h2="Semua konversi yang didukung ke format JPG(Kelompok Ahli Fotografi Bersama) menggunakan Aspose.Imaging untuk perpustakaan .NET" %}}
+<p align=justify>Dengan menggunakan pustaka Aspose.Imaging, Anda dapat secara terprogram mengonversi berbagai format gambar menjadi gambar JPG. JPEG adalah jenis format gambar yang disimpan menggunakan metode kompresi lossy. Gambar keluaran, sebagai hasil kompresi, merupakan pertukaran antara ukuran penyimpanan dan kualitas gambar. Pengguna dapat menyesuaikan tingkat kompresi untuk mencapai tingkat kualitas yang diinginkan sekaligus mengurangi ukuran penyimpanan. Kualitas gambar tidak terlalu terpengaruh jika kompresi 10:1 diterapkan pada gambar. Semakin tinggi nilai kompresi, semakin tinggi penurunan kualitas gambar.</p>
 <br/>
 Konversi berikut didukung :
 {{% /blocks/products/pf/feature-page-section %}}

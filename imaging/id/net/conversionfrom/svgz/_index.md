@@ -1,21 +1,21 @@
 ﻿---
-title: Konversikan dari SVGZ ke format lain Melalui .NET 
+title: Konversikan dari SVGZ(Versi terkompresi dari file Scalable Vector Graphics (.SVG).) ke format lain Melalui API gambar .NET 
 weight: 3920
 url: /id/net/conversion/from/svgz 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi dari SVGZ ke format lain
+description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi dari SVGZ(Versi terkompresi dari file Scalable Vector Graphics (.SVG).) ke format lain
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar dari SVGZ Melalui .NET" h2="Konversikan dari SVGZ ke format lain" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar dari SVGZ(Versi terkompresi dari file Scalable Vector Graphics (.SVG).) Melalui API gambar .NET" h2="Konversikan dari Versi terkompresi dari file Scalable Vector Graphics (.SVG). ke format lain menggunakan Aspose.Imaging API" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari SVGZ" %}}
-Aspose.Imaging memungkinkan mengotomatiskan banyak konversi dari SVGZ ke format lain di platform .NET.
+{{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari SVGZ(Versi terkompresi dari file Scalable Vector Graphics (.SVG).)" %}}
+<p align=justify>Aspose.Imaging memungkinkan mengotomatiskan banyak konversi dari SVGZ ke format lain di platform .NET. File dengan ekstensi .svgz adalah versi terkompresi dari file Scalable Vector Graphics (.SVG). Itu dikompresi dengan kompresi gzip dan berisi data dalam format XML. File SVGZ mendukung transparansi, gradien, animasi, dan filter. File SVGZ berukuran lebih kecil dibandingkan dengan file SVG default dan ukuran file yang diperkecil ini membantu mentransfer file grafik secara online. Desainer grafis membuat file SVGZ menggunakan alat seperti Adobe Illustrator, Corel PaintShop Pro, dan lainnya. Namun, file SVGZ dapat dibuat dengan mengaktifkan kompresi GZip di Server Apache saat mengirimkan data gambar.</p>
 <br/>
-Daftar lengkap konversi yang didukung:
+Daftar lengkap konversi yang didukung dari SVGZ:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

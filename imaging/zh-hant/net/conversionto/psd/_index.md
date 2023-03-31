@@ -1,19 +1,19 @@
 ﻿---
-title: 使用 .NET 平台將圖像從其他支持的格式轉換為 PSD 圖像格式 
+title: 使用 .NET 平台將圖像從其他支持的格式轉換為 PSD(Photoshop 文檔) 圖像格式 
 weight: 3920
 url: /zh-hant/net/conversion/to/psd 
 lang: zh-hant
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: 使用 Aspose.Imaging for .NET 庫可以輕鬆地將其他支持的圖像格式轉換為 PSD
+description: 使用 Aspose.Imaging for .NET 庫可以輕鬆地將其他支持的圖像格式轉換為 PSD(Photoshop 文檔)
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="使用 .NET 平台將圖像文件轉換為 PSD 圖像格式" h2="使用 Aspose.Imaging for .NET 庫從其他格式轉換為 PSD 格式" downloadText="下載" >}}
+{{< blocks/products/pf/feature-page-header h1="使用 .NET 平台將圖像文件轉換為 PSD(Photoshop 文檔) 圖像格式" h2="使用 Aspose.Imaging for .NET 庫從其他格式轉換為 Photoshop 文檔 格式" downloadText="下載" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="所有支持使用 Aspose.Imaging for .NET 庫轉換為 PSD 格式" %}}
-使用 Aspose.Imaging 庫，您可以以編程方式將各種圖像格式轉換為 PSD 圖像。
+{{% blocks/products/pf/feature-page-section  h2="所有支持使用 Aspose.Imaging for .NET 庫轉換為 PSD(Photoshop 文檔) 格式" %}}
+<p align=justify>使用 Aspose.Imaging 庫，您可以以編程方式將各種圖像格式轉換為 PSD 圖像。 PSD，Photoshop 文檔，代表 Adob​​e Photoshop 用於圖形設計和開發的原生文件格式。 PSD 文件可能包括圖像圖層、調整圖層、圖層蒙版、註釋、文件信息、關鍵字和其他 Photoshop 特定元素。</p>
 <br/>
 支持以下轉換：
 {{% /blocks/products/pf/feature-page-section %}}

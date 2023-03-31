@@ -1,21 +1,21 @@
 ﻿---
-title: Конвертировать из DIB в другие форматы с помощью .NET 
+title: Преобразование из DIB(Независимое от устройства растровое изображение) в другие форматы с помощью API изображений .NET 
 weight: 3920
 url: /ru/net/conversion/from/dib 
 lang: ru
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Используя Aspose.Imaging, вы можете легко конвертировать из DIB в другие форматы.
+description: Используя Aspose.Imaging, вы можете легко конвертировать из DIB(Независимое от устройства растровое изображение) в другие форматы.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование файлов изображений из DIB с помощью .NET" h2="Конвертировать из DIB в другие форматы" downloadText="Скачать" >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование файлов изображений из DIB(Независимое от устройства растровое изображение) через .NET API изображений" h2="Преобразование из Независимое от устройства растровое изображение в другие форматы с помощью Aspose.Imaging API" downloadText="Скачать" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Все поддерживаемые форматы изображений для преобразования из DIB" %}}
-Aspose.Imaging позволяет автоматизировать множество преобразований из DIB в другие форматы на платформе .NET.
+{{% blocks/products/pf/feature-page-section  h2="Все поддерживаемые форматы изображений для преобразования из DIB(Независимое от устройства растровое изображение)" %}}
+<p align=justify>Aspose.Imaging позволяет автоматизировать множество преобразований из DIB в другие форматы на платформе .NET. Файл DIB (Device Independent Bitmap) — это файл растрового изображения, структура которого аналогична стандартным файлам Bitmap (BMP), но имеет другой заголовок. Его можно открыть практически всеми приложениями, которые могут открывать стандартный файл BMP как в Windows, так и в macOS. DIB являются двоичными файлами и имеют сложный формат файла, аналогичный BMP.</p>
 <br/>
-Полный список поддерживаемых преобразований:
+Полный список поддерживаемых преобразований из DIB:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

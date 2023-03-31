@@ -13,7 +13,7 @@ description: Naudodami Aspose.Imaging galite konvertuoti į JPEG2000 iš kitų f
 
 
 {{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai konvertuojami į JPEG2000 naudojant Aspose.Imaging for Java" %}}
-Naudodami Aspose.Imaging biblioteką galite programiškai konvertuoti į JPEG2000 iš kitų palaikomų vaizdo formatų naudodami Java platformą.
+<p align=justify>Naudodami Aspose.Imaging biblioteką galite programiškai konvertuoti į JPEG2000 iš kitų palaikomų vaizdo formatų naudodami Java platformą.</p>
 <br/>
 Palaikomos konversijos:
 {{% /blocks/products/pf/feature-page-section %}}

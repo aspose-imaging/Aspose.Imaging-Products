@@ -1,21 +1,21 @@
 ﻿---
-title: .NET के माध्यम से CMX से अन्य प्रारूपों में कनवर्ट करें 
+title: .NET इमेज एपीआई के ज़रिए CMX(कोरल एक्सचेंज इमेज) से दूसरे फ़ॉर्मैट में बदलें 
 weight: 3920
 url: /hi/net/conversion/from/cmx 
 lang: hi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging का उपयोग करके आप आसानी से CMX से अन्य स्वरूपों में परिवर्तित कर सकते हैं
+description: Aspose.Imaging का उपयोग करके आप आसानी से CMX(कोरल एक्सचेंज इमेज) से अन्य स्वरूपों में परिवर्तित कर सकते हैं
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET के माध्यम से CMX से छवि फ़ाइलों का रूपांतरण" h2="CMX से दूसरे फ़ॉर्मैट में बदलें" downloadText="डाउनलोड" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET छवि API के माध्यम से CMX(कोरल एक्सचेंज इमेज) से छवि फ़ाइलें रूपांतरण" h2="Aspose.Imaging API का उपयोग करके कोरल एक्सचेंज इमेज से अन्य प्रारूपों में कनवर्ट करें" downloadText="डाउनलोड" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="CMX से कनवर्ट करने के लिए सभी समर्थित छवि प्रारूप" %}}
-Aspose.Image .NET प्लेटफॉर्म पर CMX से अन्य प्रारूपों में बहुत से रूपांतरणों को स्वचालित करने की अनुमति देता है।
+{{% blocks/products/pf/feature-page-section  h2="CMX(कोरल एक्सचेंज इमेज) से कनवर्ट करने के लिए सभी समर्थित छवि प्रारूप" %}}
+<p align=justify>Aspose.Image .NET प्लेटफॉर्म पर CMX से अन्य प्रारूपों में बहुत से रूपांतरणों को स्वचालित करने की अनुमति देता है। CMX एक्सटेंशन वाली फ़ाइलें Corel Exchange छवि फ़ाइल स्वरूप हैं जिनका उपयोग CorelSuite अनुप्रयोगों द्वारा प्रस्तुतिकरण के रूप में किया जाता है। इसमें छवि डेटा वेक्टर ग्राफिक्स के साथ-साथ मेटाडेटा भी शामिल है जो छवि का वर्णन करता है। CMX फाइलें CorelDraw, Corel प्रस्तुतियों, पेंट शॉप प्रो और Adobe Illustrator के कुछ संस्करणों द्वारा खोली जा सकती हैं।</p>
 <br/>
-समर्थित रूपांतरणों की पूरी सूची:
+CMX से समर्थित रूपांतरणों की पूरी सूची:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

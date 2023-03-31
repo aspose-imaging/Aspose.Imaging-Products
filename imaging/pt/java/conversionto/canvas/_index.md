@@ -13,7 +13,7 @@ description: Usando Aspose.Imaging você pode converter para CANVAS de outros fo
 
 
 {{% blocks/products/pf/feature-page-section  h2="Todos os formatos de imagem compatíveis podem ser convertidos em CANVAS usando Aspose.Imaging para Java" %}}
-Usando a biblioteca Aspose.Imaging, você pode converter programaticamente para CANVAS de outros formatos de imagem suportados usando a plataforma Java.
+<p align=justify>Usando a biblioteca Aspose.Imaging, você pode converter programaticamente para CANVAS de outros formatos de imagem suportados usando a plataforma Java.</p>
 <br/>
 Conversões suportadas:
 {{% /blocks/products/pf/feature-page-section %}}

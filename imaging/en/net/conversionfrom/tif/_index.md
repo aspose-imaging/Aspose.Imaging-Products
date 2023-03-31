@@ -1,21 +1,21 @@
 ﻿---
-title: Convert from TIF to other formats Via .NET 
+title: Convert from TIF(Tagged Image Format) to other formats Via .NET image API 
 weight: 3920
 url: /net/conversion/from/tif 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Using Aspose.Imaging you can easily convert from TIF to other formats
+description: Using Aspose.Imaging for .NET you can easily convert from TIF(Tagged Image Format) to other formats
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Image Files Conversion from TIF Via .NET" h2="Convert from TIF to other formats" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Image Files Conversion from TIF(Tagged Image Format) Via .NET image API" h2="Convert from Tagged Image Format to other formats using Aspose.Imaging API" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from TIF" %}}
-Aspose.Imaging allows automate a lot of conversions from TIF to other formats on .NET platform.
+{{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from TIF(Tagged Image Format)" %}}
+<p align=justify>Aspose.Imaging allows automate a lot of conversions from TIF to other formats on .NET platform. </p>
 <br/>
-Full list of supported conversions:
+Full list of supported conversions from TIF:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

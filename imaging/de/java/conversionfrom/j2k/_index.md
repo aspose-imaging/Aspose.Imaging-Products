@@ -1,20 +1,20 @@
 ﻿---
-title: Konvertieren Sie mit Aspose.Imaging für Java von J2K in andere unterstützte Formate 
+title: Konvertieren Sie mit Aspose.Imaging für Java von J2K(Wavelet-komprimiertes Bild) in andere unterstützte Formate API 
 weight: 3920
 url: /de/java/conversion/from/j2k 
 lang: de
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging kann mithilfe der Java-Plattform problemlos von J2K in andere Formate konvertieren
+description: Aspose.Imaging kann mithilfe der Java-Plattform problemlos von J2K(Wavelet-komprimiertes Bild) in andere Formate konvertieren
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie Bilder aus dem J2K-Format mit Aspose.Imaging für Java" h2="Konvertieren Sie das Bildformat J2K mithilfe der Java-Plattform in andere Formate" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertieren Sie Bilder aus dem J2K-Format mit Aspose.Imaging für Java" h2="Konvertieren Sie das Bildformat J2K(Wavelet-komprimiertes Bild) mithilfe der Java-Plattform in andere Formate" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Breites Spektrum an Bildformaten, die mit Aspose.Imaging für Java aus J2K-Bildern konvertiert werden können" %}}
-Sie können das J2K-Format programmgesteuert in andere verfügbare Formate konvertieren, indem Sie verwenden
-Aspose.Imaging für Java.
+{{% blocks/products/pf/feature-page-section  h2="Breites Spektrum an Bildformaten, die mit Aspose.Imaging für Java aus J2K(Wavelet-komprimiertes Bild)-Bildern konvertiert werden können" %}}
+<p align=justify>Sie können das J2K-Format programmgesteuert in andere verfügbare Formate konvertieren, indem Sie verwenden
+Aspose.Imaging für Java. Eine J2K-Datei ist ein Bild, das mit der Wavelet-Komprimierung anstelle der DCT-Komprimierung komprimiert wird.</p>
 <br/>
 Folgende Umbauten sind an Bord:
 {{% /blocks/products/pf/feature-page-section %}}

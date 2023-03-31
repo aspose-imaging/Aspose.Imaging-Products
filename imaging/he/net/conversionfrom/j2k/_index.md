@@ -1,21 +1,21 @@
 ﻿---
-title: המר מ-J2K לפורמטים אחרים דרך .NET 
+title: המר מ-J2K(תמונה דחוסה של Wavelet) לפורמטים אחרים באמצעות API של תמונה של .NET 
 weight: 3920
 url: /he/net/conversion/from/j2k 
 lang: he
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: באמצעות Aspose.Imaging תוכל להמיר בקלות מ-J2K לפורמט אחר
+description: באמצעות Aspose.Imaging תוכל להמיר בקלות מ- J2K(תמונה דחוסה של Wavelet) לפורמט אחר
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה מ-J2K דרך .NET" h2="המר מ-J2K לפורמט אחר" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="המרת קבצי תמונה מ-J2K(תמונה דחוסה של Wavelet) באמצעות API של תמונה של .NET" h2="המר מ-תמונה דחוסה של Wavelet לפורמטים אחרים באמצעות Aspose.Imaging API" downloadText="הורד" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה מ-J2K" %}}
-Aspose.Imaging מאפשר לבצע אוטומציה של המרות רבות מ-J2K לפורמטים אחרים בפלטפורמת NET.
+{{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים להמרה מ-J2K(תמונה דחוסה של Wavelet)" %}}
+<p align=justify>Aspose.Imaging מאפשר לבצע אוטומציה של המרות רבות מ-J2K לפורמטים אחרים בפלטפורמת NET. קובץ J2K הוא תמונה שנדחסת באמצעות דחיסת wavelet במקום דחיסת DCT.</p>
 <br/>
-רשימה מלאה של המרות נתמכות:
+רשימה מלאה של המרות נתמכות מ-J2K:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

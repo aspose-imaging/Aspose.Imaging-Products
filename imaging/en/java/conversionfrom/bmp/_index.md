@@ -1,20 +1,20 @@
 ﻿---
-title: Convert from BMP to other supported formats using Aspose.Imaging for Java 
+title: Convert from BMP(Bitmap Picture) to other supported formats using Aspose.Imaging for Java API 
 weight: 3920
 url: /java/conversion/from/bmp 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging can easily convert from BMP to other formats using Java platform
+description: Aspose.Imaging API can easily convert from BMP(Bitmap Picture) to other formats using Java platform
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert images from BMP format using Aspose.Imaging for Java" h2="Convert from BMP image format to other formats using Java platform" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert images from BMP format using Aspose.Imaging for Java" h2="Convert from BMP(Bitmap Picture) image format to other formats using Java platform" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wide spectrum of image formats that can be converted from BMP images using Aspose.Imaging for Java" %}}
-You can programmaticaly convert from BMP format to other available formats using 
-Aspose.Imaging for Java.
+{{% blocks/products/pf/feature-page-section  h2="Wide spectrum of image formats that can be converted from BMP(Bitmap Picture) images using Aspose.Imaging for Java" %}}
+<p align=justify>You can programmaticaly convert from BMP format to other available formats using 
+Aspose.Imaging for Java. Files having extension .BMP represent Bitmap Image files that are used to store bitmap digital images. These images are independent of graphics adapter and are also called device independent bitmap (DIB) file format. This independency serves the purpose of opening the file on multiple platforms such as Microsoft Windows and Mac. The BMP file format can store data as two-dimensional digital images  in both monochrome as well as color format with various colour depths.</p>
 <br/>
 There are following conversions on board:
 {{% /blocks/products/pf/feature-page-section %}}

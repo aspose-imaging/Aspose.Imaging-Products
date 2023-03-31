@@ -1,20 +1,20 @@
 ﻿---
-title: Konvertera från DIB till andra format som stöds med Aspose.Imaging för Java 
+title: Konvertera från DIB(Enhetsoberoende bitmapp) till andra format som stöds med Aspose.Imaging för Java API 
 weight: 3920
 url: /sv/java/conversion/from/dib 
 lang: sv
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging kan enkelt konvertera från DIB till andra format med hjälp av Java-plattformen
+description: Aspose.Imaging kan enkelt konvertera från DIB(Enhetsoberoende bitmapp) till andra format med hjälp av Java-plattformen
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertera bilder från formatet DIB med Aspose.Imaging för Java" h2="Konvertera från DIB bildformat till andra format med Java-plattformen" downloadText="Ladda ner" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertera bilder från formatet DIB med Aspose.Imaging för Java" h2="Konvertera från DIB(Enhetsoberoende bitmapp) bildformat till andra format med Java-plattformen" downloadText="Ladda ner" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Brett spektrum av bildformat som kan konverteras från DIB-bilder med Aspose.Imaging för Java" %}}
-Du kan programmatiskt konvertera från formatet DIB till andra tillgängliga format med hjälp av
-Aspose.Imaging för Java.
+{{% blocks/products/pf/feature-page-section  h2="Brett spektrum av bildformat som kan konverteras från DIB(Enhetsoberoende bitmapp)-bilder med Aspose.Imaging för Java" %}}
+<p align=justify>Du kan programmatiskt konvertera från formatet DIB till andra tillgängliga format med hjälp av
+Aspose.Imaging för Java. En DIB-fil (Device Independent Bitmap) är en rasterbildsfil som i struktur liknar standardbitmappsfilerna (BMP) men har en annan rubrik. Den kan öppnas med nästan alla applikationer som kan öppna en standard BMP-fil på Windows såväl som macOS. DIB är binära filer och har ett komplext filformat som liknar BMP.</p>
 <br/>
 Det finns följande konverteringar ombord:
 {{% /blocks/products/pf/feature-page-section %}}

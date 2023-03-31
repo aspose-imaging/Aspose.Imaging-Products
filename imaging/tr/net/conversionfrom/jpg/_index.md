@@ -1,21 +1,21 @@
 ﻿---
-title: .NET Aracılığıyla JPG'ten diğer biçimlere dönüştürün 
+title: .NET görüntü API'sı aracılığıyla JPG(Birleşmiş Fotoğraf Uzmanları Grubu) biçimini diğer biçimlere dönüştürün 
 weight: 3920
 url: /tr/net/conversion/from/jpg 
 lang: tr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging'i kullanarak JPG biçimini kolayca başka biçimlere dönüştürebilirsiniz
+description: Aspose.Imaging'i kullanarak JPG(Birleşmiş Fotoğraf Uzmanları Grubu) biçimini kolayca başka biçimlere dönüştürebilirsiniz
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET Yoluyla JPG'den Görüntü Dosyaları Dönüştürme" h2="JPG biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET image API aracılığıyla JPG(Birleşmiş Fotoğraf Uzmanları Grubu)'den Görüntü Dosyaları Dönüşümü" h2="Aspose.Imaging API kullanarak Birleşmiş Fotoğraf Uzmanları Grubu formatını diğer formatlara dönüştürün" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="JPG'den dönüştürülecek desteklenen tüm resim biçimleri" %}}
-Aspose.Imaging, .NET platformunda JPG'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir.
+{{% blocks/products/pf/feature-page-section  h2="JPG(Birleşmiş Fotoğraf Uzmanları Grubu) biçiminden dönüştürülecek desteklenen tüm resim biçimleri" %}}
+<p align=justify>Aspose.Imaging, .NET platformunda JPG'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir. JPEG, kayıplı sıkıştırma yöntemi kullanılarak kaydedilen bir görüntü formatı türüdür. Sıkıştırmanın bir sonucu olarak çıktı görüntüsü, depolama boyutu ve görüntü kalitesi arasında bir dengedir. Kullanıcılar, istenen kalite seviyesine ulaşmak için sıkıştırma seviyesini ayarlayabilir ve aynı zamanda depolama boyutunu küçültebilir. Görüntüye 10:1 sıkıştırma uygulanırsa görüntü kalitesi ihmal edilebilir düzeyde etkilenir. Sıkıştırma değeri ne kadar yüksek olursa, görüntü kalitesindeki bozulma o kadar yüksek olur.</p>
 <br/>
-Desteklenen dönüşümlerin tam listesi:
+JPG tarafından desteklenen dönüşümlerin tam listesi:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

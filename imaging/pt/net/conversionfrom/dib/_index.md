@@ -1,21 +1,21 @@
 ﻿---
-title: Converta de DIB para outros formatos via .NET 
+title: Converta de DIB(Bitmap independente de dispositivo) para outros formatos por meio da API de imagem .NET 
 weight: 3920
 url: /pt/net/conversion/from/dib 
 lang: pt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging você pode facilmente converter de DIB para outros formatos
+description: Usando Aspose.Imaging você pode facilmente converter de DIB(Bitmap independente de dispositivo) para outros formatos
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversão de arquivos de imagem de DIB via .NET" h2="Converter de DIB para outros formatos" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversão de arquivos de imagem de DIB(Bitmap independente de dispositivo) por meio da API de imagem .NET" h2="Converta de Bitmap independente de dispositivo para outros formatos usando a API Aspose.Imaging" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos os formatos de imagem compatíveis para conversão de DIB" %}}
-Aspose.Imaging permite automatizar muitas conversões de DIB para outros formatos na plataforma .NET.
+{{% blocks/products/pf/feature-page-section  h2="Todos os formatos de imagem compatíveis para conversão de DIB(Bitmap independente de dispositivo)" %}}
+<p align=justify>Aspose.Imaging permite automatizar muitas conversões de DIB para outros formatos na plataforma .NET. Um arquivo DIB (Device Independent Bitmap) é um arquivo de imagem raster que é semelhante em estrutura aos arquivos Bitmap padrão (BMP), mas tem um cabeçalho diferente. Ele pode ser aberto com quase todos os aplicativos que podem abrir um arquivo BMP padrão no Windows e no macOS. DIB são arquivos binários e têm um formato de arquivo complexo semelhante ao BMP.</p>
 <br/>
-Lista completa de conversões suportadas:
+Lista completa de conversões suportadas de DIB:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -1,19 +1,19 @@
 ﻿---
-title: Преобразование изображений в формат изображения WMZ из других поддерживаемых форматов с использованием платформы .NET. 
+title: Преобразование изображений в формат изображения WMZ(Сжатая оболочка проигрывателя Windows Media) из других поддерживаемых форматов с использованием платформы .NET. 
 weight: 3920
 url: /ru/net/conversion/to/wmz 
 lang: ru
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Используя библиотеку Aspose.Imaging for .NET, можно легко преобразовать в WMZ другие поддерживаемые форматы изображений.
+description: Используя библиотеку Aspose.Imaging for .NET, можно легко преобразовать в WMZ(Сжатая оболочка проигрывателя Windows Media) другие поддерживаемые форматы изображений.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование файлов изображений в формат изображения WMZ с использованием платформы .NET." h2="Преобразование в формат WMZ из других форматов с помощью библиотеки Aspose.Imaging for .NET." downloadText="Скачать" >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование файлов изображений в формат изображения WMZ(Сжатая оболочка проигрывателя Windows Media) с использованием платформы .NET." h2="Преобразование в формат Сжатая оболочка проигрывателя Windows Media из других форматов с помощью библиотеки Aspose.Imaging for .NET." downloadText="Скачать" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Все поддерживаемые преобразования в формат WMZ с использованием библиотеки Aspose.Imaging for .NET" %}}
-Используя библиотеку Aspose.Imaging, вы можете программно преобразовывать различные форматы изображений в изображения WMZ.
+{{% blocks/products/pf/feature-page-section  h2="Все поддерживаемые преобразования в формат WMZ(Сжатая оболочка проигрывателя Windows Media) с использованием библиотеки Aspose.Imaging for .NET" %}}
+<p align=justify>Используя библиотеку Aspose.Imaging, вы можете программно преобразовывать различные форматы изображений в изображения WMZ. WMZ — это расширение файла для формата файла скина в/для/используемого проигрывателем Windows Media. Файл WMZ представляет собой заархивированный файл WMF в формате XML. </p>
 <br/>
 Поддерживаются следующие преобразования:
 {{% /blocks/products/pf/feature-page-section %}}

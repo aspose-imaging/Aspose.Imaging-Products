@@ -1,20 +1,20 @@
 ﻿---
-title: แปลงจาก APNG เป็นรูปแบบอื่นที่รองรับโดยใช้ Aspose.Imaging สำหรับ Java 
+title: แปลงจาก APNG(กราฟิกเครือข่ายแบบพกพาแบบเคลื่อนไหว) เป็นรูปแบบอื่นที่รองรับโดยใช้ Aspose.Imaging สำหรับ Java API 
 weight: 3920
 url: /th/java/conversion/from/apng 
 lang: th
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging สามารถแปลงจาก APNG เป็นรูปแบบอื่นได้อย่างง่ายดายโดยใช้แพลตฟอร์ม Java
+description: Aspose.Imaging สามารถแปลงจาก APNG(กราฟิกเครือข่ายแบบพกพาแบบเคลื่อนไหว) เป็นรูปแบบอื่นได้อย่างง่ายดายโดยใช้แพลตฟอร์ม Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="แปลงรูปภาพจากรูปแบบ APNG โดยใช้ Aspose.Imaging สำหรับ Java" h2="แปลงจากรูปแบบภาพ APNG เป็นรูปแบบอื่นโดยใช้แพลตฟอร์ม Java" downloadText="ดาวน์โหลด" >}}
+{{< blocks/products/pf/feature-page-header h1="แปลงรูปภาพจากรูปแบบ APNG โดยใช้ Aspose.Imaging สำหรับ Java" h2="แปลงจากรูปแบบภาพ APNG(กราฟิกเครือข่ายแบบพกพาแบบเคลื่อนไหว) เป็นรูปแบบอื่นโดยใช้แพลตฟอร์ม Java" downloadText="ดาวน์โหลด" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="รูปแบบรูปภาพที่หลากหลายที่สามารถแปลงจากรูปภาพ APNG โดยใช้ Aspose.Imaging สำหรับ Java" %}}
-คุณสามารถแปลงจากรูปแบบ APNG เป็นรูปแบบอื่นที่ใช้ได้โดยใช้โปรแกรม
-Aspose.Imaging สำหรับ Java
+{{% blocks/products/pf/feature-page-section  h2="รูปแบบรูปภาพที่หลากหลายที่สามารถแปลงจากรูปภาพ APNG(กราฟิกเครือข่ายแบบพกพาแบบเคลื่อนไหว) โดยใช้ Aspose.Imaging สำหรับ Java" %}}
+<p align=justify>คุณสามารถแปลงจากรูปแบบ APNG เป็นรูปแบบอื่นที่ใช้ได้โดยใช้โปรแกรม
+Aspose.Imaging สำหรับ Java ไฟล์ที่มีนามสกุล .apng (Animated Portable Network Graphics) เป็นรูปแบบกราฟิกแรสเตอร์และเป็นส่วนขยายที่ไม่เป็นทางการของ Portable Network Graphic (PNG ) ประกอบด้วยหลายเฟรม (แต่ละภาพ PNG) ที่แสดงลำดับภาพเคลื่อนไหว สิ่งนี้ให้การแสดงภาพที่คล้ายกับไฟล์ GIF ไฟล์ APNG รองรับภาพ 24 บิตและความโปร่งใส 8 บิต APNG เข้ากันได้กับไฟล์ GIF ที่ไม่ใช่ภาพเคลื่อนไหว ไฟล์ APNG ใช้นามสกุล .png เดียวกัน และสามารถเปิดได้โดยแอปพลิเคชันต่างๆ เช่น Mozilla Firefox, Chrome ที่รองรับ APNG, แอป iMessage สำหรับ iOS 10</p>
 <br/>
 มีการแปลงต่อไปนี้บนกระดาน:
 {{% /blocks/products/pf/feature-page-section %}}

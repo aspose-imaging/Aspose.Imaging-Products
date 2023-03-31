@@ -1,21 +1,21 @@
 ﻿---
-title: Chuyển đổi từ SVGZ sang các định dạng khác Qua .NET 
+title: Chuyển đổi từ SVGZ(Phiên bản nén của tệp Đồ họa Vectơ có thể mở rộng (.SVG).) sang các định dạng khác Qua API hình ảnh .NET 
 weight: 3920
 url: /vi/net/conversion/from/svgz 
 lang: vi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng chuyển đổi từ SVGZ sang các định dạng khác
+description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng chuyển đổi từ SVGZ(Phiên bản nén của tệp Đồ họa Vectơ có thể mở rộng (.SVG).) sang các định dạng khác
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Chuyển đổi tệp hình ảnh từ SVGZ qua .NET" h2="Chuyển đổi từ SVGZ sang định dạng khác" downloadText="Tải xuống" >}}
+{{< blocks/products/pf/feature-page-header h1="Chuyển đổi tệp hình ảnh từ SVGZ(Phiên bản nén của tệp Đồ họa Vectơ có thể mở rộng (.SVG).) qua API hình ảnh .NET" h2="Chuyển đổi từ Phiên bản nén của tệp Đồ họa Vectơ có thể mở rộng (.SVG). sang các định dạng khác bằng API Aspose.Imaging" downloadText="Tải xuống" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tất cả các định dạng hình ảnh được hỗ trợ để chuyển đổi từ SVGZ" %}}
-Aspose.Imaging cho phép tự động hóa rất nhiều chuyển đổi từ SVGZ sang các định dạng khác trên nền tảng .NET.
+{{% blocks/products/pf/feature-page-section  h2="Tất cả các định dạng hình ảnh được hỗ trợ để chuyển đổi từ SVGZ(Phiên bản nén của tệp Đồ họa Vectơ có thể mở rộng (.SVG).)" %}}
+<p align=justify>Aspose.Imaging cho phép tự động hóa rất nhiều chuyển đổi từ SVGZ sang các định dạng khác trên nền tảng .NET. Tệp có phần mở rộng .svgz là phiên bản nén của tệp Đồ họa Vectơ có thể mở rộng (.SVG). Nó được nén bằng nén gzip và chứa dữ liệu ở định dạng XML. Các tệp SVGZ hỗ trợ độ trong suốt, độ dốc, hoạt ảnh và bộ lọc. Các tệp SVGZ có kích thước nhỏ hơn so với các tệp SVG mặc định và kích thước tệp giảm này giúp chuyển các tệp đồ họa trực tuyến. Nhà thiết kế đồ họa tạo các tệp SVGZ bằng các công cụ như Adobe Illustrator, Corel PaintShop Pro và các công cụ khác. Tuy nhiên, tệp SVGZ có thể được tạo bằng cách bật tính năng nén GZip trong Máy chủ Apache trong khi gửi dữ liệu hình ảnh.</p>
 <br/>
-Danh sách đầy đủ các chuyển đổi được hỗ trợ:
+Danh sách đầy đủ các chuyển đổi được hỗ trợ từ SVGZ:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

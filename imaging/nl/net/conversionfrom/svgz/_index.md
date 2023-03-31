@@ -1,21 +1,21 @@
 ﻿---
-title: Converteren van SVGZ naar andere formaten Via .NET 
+title: Converteer van SVGZ(Gecomprimeerde versie van het Scalable Vector Graphics-bestand (.SVG).) naar andere formaten via de .NET afbeeldings-API 
 weight: 3920
 url: /nl/net/conversion/from/svgz 
 lang: nl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Met behulp van Aspose.Imaging kunt u eenvoudig converteren van SVGZ naar een ander formaat
+description: Met behulp van Aspose.Imaging kunt u eenvoudig converteren van SVGZ(Gecomprimeerde versie van het Scalable Vector Graphics-bestand (.SVG).) naar een ander formaat
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversie van afbeeldingsbestanden van SVGZ via .NET" h2="Converteer van SVGZ naar een ander formaat" downloadText="Downloaden" >}}
+{{< blocks/products/pf/feature-page-header h1="Afbeeldingsbestanden Conversie van SVGZ(Gecomprimeerde versie van het Scalable Vector Graphics-bestand (.SVG).) via .NET afbeeldings-API" h2="Converteer van Gecomprimeerde versie van het Scalable Vector Graphics-bestand (.SVG). naar andere formaten met behulp van de Aspose.Imaging API" downloadText="Downloaden" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde afbeeldingsindelingen om te converteren van SVGZ" %}}
-Aspose.Imaging maakt het mogelijk veel conversies van SVGZ naar andere formaten op het .NET-platform te automatiseren.
+{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde afbeeldingsindelingen om te converteren van SVGZ(Gecomprimeerde versie van het Scalable Vector Graphics-bestand (.SVG).)" %}}
+<p align=justify>Aspose.Imaging maakt het mogelijk veel conversies van SVGZ naar andere formaten op het .NET-platform te automatiseren. Een bestand met de extensie .svgz is een gecomprimeerde versie van het Scalable Vector Graphics-bestand (.SVG). Het is gecomprimeerd met gzip-compressie en bevat gegevens in XML-indeling. SVGZ-bestanden ondersteunen transparantie, verlopen, animaties en filters. SVGZ-bestanden zijn kleiner in vergelijking met de standaard SVG-bestanden en deze kleinere bestandsgrootte helpt de grafische bestanden online over te zetten. Grafisch ontwerper maakt SVGZ-bestanden met tools zoals Adobe Illustrator, Corel PaintShop Pro en andere. SVGZ-bestanden kunnen echter worden gegenereerd door GZip-compressie in de Apache-server in te schakelen terwijl de afbeeldingsgegevens worden verzonden.</p>
 <br/>
-Volledige lijst met ondersteunde conversies:
+Volledige lijst met ondersteunde conversies van SVGZ:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

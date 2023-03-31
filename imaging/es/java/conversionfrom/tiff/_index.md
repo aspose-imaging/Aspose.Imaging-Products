@@ -1,20 +1,20 @@
 ﻿---
-title: Convierta de TIFF a otros formatos admitidos usando Aspose.Imaging para Java 
+title: Convierta de TIFF(Formato de imagen etiquetada) a otros formatos admitidos usando Aspose.Imaging para Java API. 
 weight: 3920
 url: /es/java/conversion/from/tiff 
 lang: es
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging puede convertir fácilmente de TIFF a otros formatos usando la plataforma Java
+description: Aspose.Imaging puede convertir fácilmente de TIFF(Formato de imagen etiquetada) a otros formatos usando la plataforma Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convierta imágenes del formato TIFF usando Aspose.Imaging para Java" h2="Convierta del formato de imagen TIFF a otros formatos utilizando la plataforma Java" downloadText="Descargar" >}}
+{{< blocks/products/pf/feature-page-header h1="Convierta imágenes del formato TIFF usando Aspose.Imaging para Java" h2="Convierta del formato de imagen TIFF(Formato de imagen etiquetada) a otros formatos utilizando la plataforma Java" downloadText="Descargar" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Amplio espectro de formatos de imagen que se pueden convertir a partir de imágenes TIFF usando Aspose.Imaging para Java" %}}
-Puede convertir programáticamente del formato TIFF a otros formatos disponibles usando
-Aspose. Imaging para Java.
+{{% blocks/products/pf/feature-page-section  h2="Amplio espectro de formatos de imagen que se pueden convertir a partir de imágenes TIFF(Formato de imagen etiquetada) usando Aspose.Imaging para Java" %}}
+<p align=justify>Puede convertir programáticamente del formato TIFF a otros formatos disponibles usando
+Aspose. Imaging para Java. TIFF o TIF, formato de archivo de imagen etiquetada, representa imágenes de trama diseñadas para su uso en una variedad de dispositivos que cumplen con este estándar de formato de archivo. Es capaz de describir datos de imágenes de dos niveles, escala de grises, colores de paleta y a todo color en varios espacios de color. Admite esquemas de compresión con pérdida y sin pérdida para elegir entre el espacio y el tiempo para las aplicaciones que utilizan el formato. El formato es extensible y ha sufrido varias revisiones que permiten la inclusión de una cantidad ilimitada de información privada o de propósito especial. El formato no depende de la máquina y está libre de límites como el procesador, el sistema operativo o los sistemas de archivos.</p>
 <br/>
 Hay las siguientes conversiones a bordo:
 {{% /blocks/products/pf/feature-page-section %}}

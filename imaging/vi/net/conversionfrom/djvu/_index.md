@@ -1,21 +1,21 @@
 ﻿---
-title: Chuyển đổi từ DJVU sang các định dạng khác Qua .NET 
+title: Chuyển đổi từ DJVU(Định dạng đồ họa) sang các định dạng khác Qua API hình ảnh .NET 
 weight: 3920
 url: /vi/net/conversion/from/djvu 
 lang: vi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng chuyển đổi từ DJVU sang các định dạng khác
+description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng chuyển đổi từ DJVU(Định dạng đồ họa) sang các định dạng khác
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Chuyển đổi tệp hình ảnh từ DJVU qua .NET" h2="Chuyển đổi từ DJVU sang định dạng khác" downloadText="Tải xuống" >}}
+{{< blocks/products/pf/feature-page-header h1="Chuyển đổi tệp hình ảnh từ DJVU(Định dạng đồ họa) qua API hình ảnh .NET" h2="Chuyển đổi từ Định dạng đồ họa sang các định dạng khác bằng API Aspose.Imaging" downloadText="Tải xuống" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tất cả các định dạng hình ảnh được hỗ trợ để chuyển đổi từ DJVU" %}}
-Aspose.Imaging cho phép tự động hóa rất nhiều chuyển đổi từ DJVU sang các định dạng khác trên nền tảng .NET.
+{{% blocks/products/pf/feature-page-section  h2="Tất cả các định dạng hình ảnh được hỗ trợ để chuyển đổi từ DJVU(Định dạng đồ họa)" %}}
+<p align=justify>Aspose.Imaging cho phép tự động hóa rất nhiều chuyển đổi từ DJVU sang các định dạng khác trên nền tảng .NET. DjVu, được phát âm là DJVU, là một định dạng tệp đồ họa dành cho các tài liệu và sách được quét, đặc biệt là những tài liệu có chứa sự kết hợp của văn bản, bản vẽ, hình ảnh và ảnh chụp. Nó được phát triển bởi AT&T Labs. Nó sử dụng nhiều kỹ thuật như tách lớp hình ảnh của văn bản và hình ảnh nền, tải liên tục, mã hóa số học và nén mất dữ liệu cho hình ảnh bitonal. Vì tệp DJVU có thể chứa hình ảnh, ảnh, văn bản và bản vẽ màu được nén nhưng chất lượng cao và có thể được lưu trong ít dung lượng hơn, do đó, nó được sử dụng trên web dưới dạng sách điện tử, sách hướng dẫn, báo chí, tài liệu cổ, v.v.</p>
 <br/>
-Danh sách đầy đủ các chuyển đổi được hỗ trợ:
+Danh sách đầy đủ các chuyển đổi được hỗ trợ từ DJVU:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -1,21 +1,21 @@
 ﻿---
-title: .NET के माध्यम से TGA से अन्य प्रारूपों में कनवर्ट करें 
+title: .NET इमेज एपीआई के ज़रिए TGA(टार्गा ग्राफिक) से दूसरे फ़ॉर्मैट में बदलें 
 weight: 3920
 url: /hi/net/conversion/from/tga 
 lang: hi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging का उपयोग करके आप आसानी से TGA से अन्य स्वरूपों में परिवर्तित कर सकते हैं
+description: Aspose.Imaging का उपयोग करके आप आसानी से TGA(टार्गा ग्राफिक) से अन्य स्वरूपों में परिवर्तित कर सकते हैं
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET के माध्यम से TGA से छवि फ़ाइलों का रूपांतरण" h2="TGA से दूसरे फ़ॉर्मैट में बदलें" downloadText="डाउनलोड" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET छवि API के माध्यम से TGA(टार्गा ग्राफिक) से छवि फ़ाइलें रूपांतरण" h2="Aspose.Imaging API का उपयोग करके टार्गा ग्राफिक से अन्य प्रारूपों में कनवर्ट करें" downloadText="डाउनलोड" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="TGA से कनवर्ट करने के लिए सभी समर्थित छवि प्रारूप" %}}
-Aspose.Image .NET प्लेटफॉर्म पर TGA से अन्य प्रारूपों में बहुत से रूपांतरणों को स्वचालित करने की अनुमति देता है।
+{{% blocks/products/pf/feature-page-section  h2="TGA(टार्गा ग्राफिक) से कनवर्ट करने के लिए सभी समर्थित छवि प्रारूप" %}}
+<p align=justify>Aspose.Image .NET प्लेटफॉर्म पर TGA से अन्य प्रारूपों में बहुत से रूपांतरणों को स्वचालित करने की अनुमति देता है। Truevision TGA, जिसे अक्सर TARGA के रूप में जाना जाता है, Truevision Inc. (अब AVID टेक्नोलॉजी का हिस्सा) द्वारा बनाया गया एक रेखापुंज ग्राफिक्स फ़ाइल स्वरूप है। यह TARGA और VISTA बोर्डों का मूल स्वरूप था, जो IBM-संगत PC के लिए Highcolor/truecolor डिस्प्ले का समर्थन करने वाले पहले ग्राफिक कार्ड थे।</p>
 <br/>
-समर्थित रूपांतरणों की पूरी सूची:
+TGA से समर्थित रूपांतरणों की पूरी सूची:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

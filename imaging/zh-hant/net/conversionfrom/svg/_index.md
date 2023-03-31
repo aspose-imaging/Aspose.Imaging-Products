@@ -1,21 +1,21 @@
 ﻿---
-title: 通過 .NET 從 SVG 轉換為其他格式 
+title: 通過 .NET 圖像 API 從 SVG(可縮放矢量圖形) 轉換為其他格式 
 weight: 3920
 url: /zh-hant/net/conversion/from/svg 
 lang: zh-hant
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: 使用 Aspose.Imaging，您可以輕鬆地將 SVG 轉換為其他格式
+description: 使用 Aspose.Imaging，您可以輕鬆地將 SVG(可縮放矢量圖形) 轉換為其他格式
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="通過 .NET 從 SVG 轉換圖像文件" h2="從 SVG 轉換為其他格式" downloadText="下載" >}}
+{{< blocks/products/pf/feature-page-header h1="通過 .NET 圖像 API 從 SVG(可縮放矢量圖形) 轉換圖像文件" h2="使用 Aspose.Imaging API 從 可縮放矢量圖形 轉換為其他格式" downloadText="下載" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="要從 SVG 轉換的所有支持的圖像格式" %}}
-Aspose.Imaging 允許在 .NET 平台上自動進行從 SVG 到其他格式的大量轉換。
+{{% blocks/products/pf/feature-page-section  h2="從 SVG(可縮放矢量圖形) 轉換的所有支持的圖像格式" %}}
+<p align=justify>Aspose.Imaging 允許在 .NET 平台上自動進行從 SVG 到其他格式的大量轉換。 SVG 文件是使用基於 XML 的文本格式來描述圖像外觀的可縮放矢量圖形文件。 Scalable 這個詞指的是 SVG 可以縮放到不同的大小而不會損失任何質量。此類文件的基於文本的描述使它們獨立於分辨率。它是用於構建網站和打印圖形以實現可擴展性的最常用格式之一。該格式只能用於二維圖形。 SVG 文件可以在幾乎所有現代瀏覽器中查看/打開，包括 Chrome、Internet Explorer、Firefox 和 Safari。</p>
 <br/>
-支持的轉換的完整列表：
+SVG 支持的轉換的完整列表：
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

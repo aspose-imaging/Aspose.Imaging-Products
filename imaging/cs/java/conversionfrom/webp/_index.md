@@ -1,20 +1,20 @@
 ﻿---
-title: Převeďte z WEBP do jiných podporovaných formátů pomocí Aspose.Imaging for Java 
+title: Převeďte z WEBP(Rastrový webový obrázek) do jiných podporovaných formátů pomocí Aspose.Imaging for Java API 
 weight: 3920
 url: /cs/java/conversion/from/webp 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging lze snadno převést z formátu WEBP do jiných formátů pomocí platformy Java
+description: Aspose.Imaging lze snadno převést z formátu WEBP(Rastrový webový obrázek) do jiných formátů pomocí platformy Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převeďte obrázky z formátu WEBP pomocí Aspose.Imaging for Java" h2="Převeďte z formátu obrázku WEBP do jiných formátů pomocí platformy Java" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Převeďte obrázky z formátu WEBP pomocí Aspose.Imaging for Java" h2="Převeďte z formátu obrázku WEBP(Rastrový webový obrázek) do jiných formátů pomocí platformy Java" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Široké spektrum obrazových formátů, které lze převést z obrázků WEBP pomocí Aspose.Imaging for Java" %}}
-Můžete programově převádět z formátu WEBP do jiných dostupných formátů pomocí
-Aspose.Imaging pro Javu.
+{{% blocks/products/pf/feature-page-section  h2="Široké spektrum obrazových formátů, které lze převést z obrázků WEBP(Rastrový webový obrázek) pomocí Aspose.Imaging for Java" %}}
+<p align=justify>Můžete programově převádět z formátu WEBP do jiných dostupných formátů pomocí
+Aspose.Imaging pro Javu. WebP, představený společností Google, je moderní formát rastrových webových obrázků, který je založen na bezztrátové a ztrátové kompresi. Poskytuje stejnou kvalitu obrazu a výrazně snižuje velikost obrazu. Protože většina webových stránek používá obrázky jako efektivní reprezentaci dat, použití obrázků WebP na webových stránkách vede k rychlejšímu načítání webových stránek. Podle Google jsou bezztrátové obrázky WebP o 26 % menší ve srovnání s obrázky PNG, zatímco ztrátové obrázky WebP jsou o 25–34 % menší než srovnatelné obrázky JPEG. Obrázky jsou porovnávány na základě indexu strukturní podobnosti (SSIM) mezi WebP a jinými formáty souborů obrázků. WebP je sesterský projekt formátu multimediálních kontejnerů WebM.</p>
 <br/>
 Na palubě jsou následující konverze:
 {{% /blocks/products/pf/feature-page-section %}}

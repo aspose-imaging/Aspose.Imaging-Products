@@ -1,20 +1,20 @@
 ﻿---
-title: Converta de CDR para outros formatos suportados usando Aspose.Imaging for Java 
+title: Converta de CDR(Imagem de desenho vetorial) para outros formatos suportados usando Aspose.Imaging for Java API 
 weight: 3920
 url: /pt/java/conversion/from/cdr 
 lang: pt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging pode converter facilmente de CDR para outros formatos usando a plataforma Java
+description: Aspose.Imaging pode converter facilmente de CDR(Imagem de desenho vetorial) para outros formatos usando a plataforma Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converta imagens do formato CDR usando Aspose.Imaging para Java" h2="Converta do formato de imagem CDR para outros formatos usando a plataforma Java" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Converta imagens do formato CDR usando Aspose.Imaging para Java" h2="Converta do formato de imagem CDR(Imagem de desenho vetorial) para outros formatos usando a plataforma Java" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Amplo espectro de formatos de imagem que podem ser convertidos de imagens CDR usando Aspose.Imaging para Java" %}}
-Você pode converter programaticamente do formato CDR para outros formatos disponíveis usando
-Aspose.Imaging para Java.
+{{% blocks/products/pf/feature-page-section  h2="Amplo espectro de formatos de imagem que podem ser convertidos de imagens CDR(Imagem de desenho vetorial) usando Aspose.Imaging para Java" %}}
+<p align=justify>Você pode converter programaticamente do formato CDR para outros formatos disponíveis usando
+Aspose.Imaging para Java. Um arquivo CDR é um arquivo de imagem de desenho vetorial criado nativamente com o CorelDRAW para armazenar imagens digitais codificadas e compactadas. Esse arquivo de desenho contém texto, linhas, formas, imagens, cores e efeitos para representação vetorial do conteúdo da imagem. Os arquivos CDR podem ser abertos com o CorelDRAW como aplicativo principal e também podem ser convertidos para outros formatos, como PDF, JPG, PNG, BMP e AI. Ele pode ser usado para representação de vários dados gráficos, como brochuras, tablóides, envelopes e cartões postais. Além do CorelDRAW, outros produtos Corel, como o Corel Paintshop Pro e o CorelDRAW Graphics Suite, também podem abrir os formatos de arquivo CDR.</p>
 <br/>
 Existem as seguintes conversões a bordo:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,20 +1,20 @@
 ﻿---
-title: Converta de JPEG para outros formatos suportados usando Aspose.Imaging for Java 
+title: Converta de JPEG(Grupo Conjunto de Especialistas em Fotografia) para outros formatos suportados usando Aspose.Imaging for Java API 
 weight: 3920
 url: /pt/java/conversion/from/jpeg 
 lang: pt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging pode converter facilmente de JPEG para outros formatos usando a plataforma Java
+description: Aspose.Imaging pode converter facilmente de JPEG(Grupo Conjunto de Especialistas em Fotografia) para outros formatos usando a plataforma Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converta imagens do formato JPEG usando Aspose.Imaging para Java" h2="Converta do formato de imagem JPEG para outros formatos usando a plataforma Java" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Converta imagens do formato JPEG usando Aspose.Imaging para Java" h2="Converta do formato de imagem JPEG(Grupo Conjunto de Especialistas em Fotografia) para outros formatos usando a plataforma Java" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Amplo espectro de formatos de imagem que podem ser convertidos de imagens JPEG usando Aspose.Imaging para Java" %}}
-Você pode converter programaticamente do formato JPEG para outros formatos disponíveis usando
-Aspose.Imaging para Java.
+{{% blocks/products/pf/feature-page-section  h2="Amplo espectro de formatos de imagem que podem ser convertidos de imagens JPEG(Grupo Conjunto de Especialistas em Fotografia) usando Aspose.Imaging para Java" %}}
+<p align=justify>Você pode converter programaticamente do formato JPEG para outros formatos disponíveis usando
+Aspose.Imaging para Java. Um JPEG é um tipo de formato de imagem que é salvo usando o método de compactação com perdas. A imagem de saída, como resultado da compactação, é uma compensação entre o tamanho do armazenamento e a qualidade da imagem. Os usuários podem ajustar o nível de compactação para atingir o nível de qualidade desejado e, ao mesmo tempo, reduzir o tamanho do armazenamento. A qualidade da imagem é afetada de forma insignificante se a compressão 10:1 for aplicada à imagem. Quanto maior o valor de compactação, maior a degradação na qualidade da imagem.</p>
 <br/>
 Existem as seguintes conversões a bordo:
 {{% /blocks/products/pf/feature-page-section %}}

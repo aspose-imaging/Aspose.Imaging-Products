@@ -1,21 +1,21 @@
 ﻿---
-title: 通過 .NET 從 SVGZ 轉換為其他格式 
+title: 通過 .NET 圖像 API 從 SVGZ(可縮放矢量圖形 (.SVG) 文件的壓縮版本。) 轉換為其他格式 
 weight: 3920
 url: /zh-hant/net/conversion/from/svgz 
 lang: zh-hant
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: 使用 Aspose.Imaging，您可以輕鬆地將 SVGZ 轉換為其他格式
+description: 使用 Aspose.Imaging，您可以輕鬆地將 SVGZ(可縮放矢量圖形 (.SVG) 文件的壓縮版本。) 轉換為其他格式
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="通過 .NET 從 SVGZ 轉換圖像文件" h2="從 SVGZ 轉換為其他格式" downloadText="下載" >}}
+{{< blocks/products/pf/feature-page-header h1="通過 .NET 圖像 API 從 SVGZ(可縮放矢量圖形 (.SVG) 文件的壓縮版本。) 轉換圖像文件" h2="使用 Aspose.Imaging API 從 可縮放矢量圖形 (.SVG) 文件的壓縮版本。 轉換為其他格式" downloadText="下載" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="要從 SVGZ 轉換的所有支持的圖像格式" %}}
-Aspose.Imaging 允許在 .NET 平台上自動進行從 SVGZ 到其他格式的大量轉換。
+{{% blocks/products/pf/feature-page-section  h2="從 SVGZ(可縮放矢量圖形 (.SVG) 文件的壓縮版本。) 轉換的所有支持的圖像格式" %}}
+<p align=justify>Aspose.Imaging 允許在 .NET 平台上自動進行從 SVGZ 到其他格式的大量轉換。 擴展名為 .svgz 的文件是可縮放矢量圖形 (.SVG) 文件的壓縮版本。它使用 gzip 壓縮，包含 XML 格式的數據。 SVGZ 文件支持透明度、漸變、動畫和過濾器。與默認 SVG 文件相比，SVGZ 文件的大小更小，這種減小的文件大小有助於在線傳輸圖形文件。圖形設計師使用 Adob​​e Illustrator、Corel PaintShop Pro 等工具創建 SVGZ 文件。但是，可以通過在發送圖像數據時在 Apache 服務器中啟用 GZip 壓縮來生成 SVGZ 文件。</p>
 <br/>
-支持的轉換的完整列表：
+SVGZ 支持的轉換的完整列表：
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -1,21 +1,21 @@
 ﻿---
-title: .NET के माध्यम से TIF से अन्य प्रारूपों में कनवर्ट करें 
+title: .NET इमेज एपीआई के ज़रिए TIF(टैग की गई छवि प्रारूप) से दूसरे फ़ॉर्मैट में बदलें 
 weight: 3920
 url: /hi/net/conversion/from/tif 
 lang: hi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging का उपयोग करके आप आसानी से TIF से अन्य स्वरूपों में परिवर्तित कर सकते हैं
+description: Aspose.Imaging का उपयोग करके आप आसानी से TIF(टैग की गई छवि प्रारूप) से अन्य स्वरूपों में परिवर्तित कर सकते हैं
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET के माध्यम से TIF से छवि फ़ाइलों का रूपांतरण" h2="TIF से दूसरे फ़ॉर्मैट में बदलें" downloadText="डाउनलोड" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET छवि API के माध्यम से TIF(टैग की गई छवि प्रारूप) से छवि फ़ाइलें रूपांतरण" h2="Aspose.Imaging API का उपयोग करके टैग की गई छवि प्रारूप से अन्य प्रारूपों में कनवर्ट करें" downloadText="डाउनलोड" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="TIF से कनवर्ट करने के लिए सभी समर्थित छवि प्रारूप" %}}
-Aspose.Image .NET प्लेटफॉर्म पर TIF से अन्य प्रारूपों में बहुत से रूपांतरणों को स्वचालित करने की अनुमति देता है।
+{{% blocks/products/pf/feature-page-section  h2="TIF(टैग की गई छवि प्रारूप) से कनवर्ट करने के लिए सभी समर्थित छवि प्रारूप" %}}
+<p align=justify>Aspose.Image .NET प्लेटफॉर्म पर TIF से अन्य प्रारूपों में बहुत से रूपांतरणों को स्वचालित करने की अनुमति देता है। </p>
 <br/>
-समर्थित रूपांतरणों की पूरी सूची:
+TIF से समर्थित रूपांतरणों की पूरी सूची:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

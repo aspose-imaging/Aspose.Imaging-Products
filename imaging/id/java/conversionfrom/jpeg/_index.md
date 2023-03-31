@@ -1,20 +1,20 @@
 ﻿---
-title: Konversikan dari JPEG ke format lain yang didukung menggunakan Aspose.Imaging untuk Java 
+title: Konversikan dari JPEG(Kelompok Ahli Fotografi Bersama) ke format lain yang didukung menggunakan Aspose.Imaging untuk Java API 
 weight: 3920
 url: /id/java/conversion/from/jpeg 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging dapat dengan mudah mengonversi dari JPEG ke format lain menggunakan platform Java
+description: Aspose.Imaging dapat dengan mudah mengonversi dari JPEG(Kelompok Ahli Fotografi Bersama) ke format lain menggunakan platform Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversikan gambar dari format JPEG menggunakan Aspose.Imaging untuk Java" h2="Konversi dari format gambar JPEG ke format lain menggunakan platform Java" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversikan gambar dari format JPEG menggunakan Aspose.Imaging untuk Java" h2="Konversi dari format gambar JPEG(Kelompok Ahli Fotografi Bersama) ke format lain menggunakan platform Java" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Spektrum luas format gambar yang dapat dikonversi dari gambar JPEG menggunakan Aspose.Imaging untuk Java" %}}
-Anda dapat secara terprogram mengonversi dari format JPEG ke format lain yang tersedia menggunakan
-Aspose.Imaging untuk Java.
+{{% blocks/products/pf/feature-page-section  h2="Spektrum luas format gambar yang dapat dikonversi dari gambar JPEG(Kelompok Ahli Fotografi Bersama) menggunakan Aspose.Imaging untuk Java" %}}
+<p align=justify>Anda dapat secara terprogram mengonversi dari format JPEG ke format lain yang tersedia menggunakan
+Aspose.Imaging untuk Java. JPEG adalah jenis format gambar yang disimpan menggunakan metode kompresi lossy. Gambar keluaran, sebagai hasil kompresi, merupakan pertukaran antara ukuran penyimpanan dan kualitas gambar. Pengguna dapat menyesuaikan tingkat kompresi untuk mencapai tingkat kualitas yang diinginkan sekaligus mengurangi ukuran penyimpanan. Kualitas gambar tidak terlalu terpengaruh jika kompresi 10:1 diterapkan pada gambar. Semakin tinggi nilai kompresi, semakin tinggi penurunan kualitas gambar.</p>
 <br/>
 Ada konversi berikut di pesawat:
 {{% /blocks/products/pf/feature-page-section %}}

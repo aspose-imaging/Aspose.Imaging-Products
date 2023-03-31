@@ -1,21 +1,21 @@
 ﻿---
-title: .NET Aracılığıyla SVGZ'ten diğer biçimlere dönüştürün 
+title: .NET görüntü API'sı aracılığıyla SVGZ(Ölçeklenebilir Vektör Grafikleri (.SVG) dosyasının sıkıştırılmış sürümü.) biçimini diğer biçimlere dönüştürün 
 weight: 3920
 url: /tr/net/conversion/from/svgz 
 lang: tr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging'i kullanarak SVGZ biçimini kolayca başka biçimlere dönüştürebilirsiniz
+description: Aspose.Imaging'i kullanarak SVGZ(Ölçeklenebilir Vektör Grafikleri (.SVG) dosyasının sıkıştırılmış sürümü.) biçimini kolayca başka biçimlere dönüştürebilirsiniz
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET Yoluyla SVGZ'den Görüntü Dosyaları Dönüştürme" h2="SVGZ biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET image API aracılığıyla SVGZ(Ölçeklenebilir Vektör Grafikleri (.SVG) dosyasının sıkıştırılmış sürümü.)'den Görüntü Dosyaları Dönüşümü" h2="Aspose.Imaging API kullanarak Ölçeklenebilir Vektör Grafikleri (.SVG) dosyasının sıkıştırılmış sürümü. formatını diğer formatlara dönüştürün" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="SVGZ'den dönüştürülecek desteklenen tüm resim biçimleri" %}}
-Aspose.Imaging, .NET platformunda SVGZ'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir.
+{{% blocks/products/pf/feature-page-section  h2="SVGZ(Ölçeklenebilir Vektör Grafikleri (.SVG) dosyasının sıkıştırılmış sürümü.) biçiminden dönüştürülecek desteklenen tüm resim biçimleri" %}}
+<p align=justify>Aspose.Imaging, .NET platformunda SVGZ'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir. .svgz uzantılı bir dosya, Ölçeklenebilir Vektör Grafikleri (.SVG) dosyasının sıkıştırılmış bir sürümüdür. Gzip sıkıştırması ile sıkıştırılır ve XML formatında veri içerir. SVGZ dosyaları şeffaflığı, degradeleri, animasyonları ve filtreleri destekler. SVGZ dosyalarının boyutu, varsayılan SVG dosyalarına kıyasla daha küçüktür ve bu küçültülmüş dosya boyutu, grafik dosyalarının çevrimiçi olarak aktarılmasına yardımcı olur. Grafik tasarımcısı, Adobe Illustrator, Corel PaintShop Pro ve diğerleri gibi araçları kullanarak SVGZ dosyaları oluşturur. Ancak, görüntü verileri gönderilirken Apache Sunucusunda GZip sıkıştırması etkinleştirilerek SVGZ dosyaları oluşturulabilir.</p>
 <br/>
-Desteklenen dönüşümlerin tam listesi:
+SVGZ tarafından desteklenen dönüşümlerin tam listesi:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

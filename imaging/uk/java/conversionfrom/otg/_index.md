@@ -1,20 +1,20 @@
 ﻿---
-title: Перетворюйте з OTG в інші підтримувані формати за допомогою Aspose.Imaging для Java 
+title: Перетворюйте з OTG(Стандарт OpenDocument) в інші підтримувані формати за допомогою Aspose.Imaging for Java API 
 weight: 3920
 url: /uk/java/conversion/from/otg 
 lang: uk
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging може легко конвертувати з OTG в інші формати за допомогою платформи Java
+description: Aspose.Imaging може легко конвертувати з OTG(Стандарт OpenDocument) в інші формати за допомогою платформи Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Перетворіть зображення з формату OTG за допомогою Aspose.Imaging for Java" h2="Перетворіть формат зображення OTG в інші формати за допомогою платформи Java" downloadText="Завантажити" >}}
+{{< blocks/products/pf/feature-page-header h1="Перетворіть зображення з формату OTG за допомогою Aspose.Imaging for Java" h2="Перетворіть формат зображення OTG(Стандарт OpenDocument) в інші формати за допомогою платформи Java" downloadText="Завантажити" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Спектр форматів зображень, які можна конвертувати з OTG зображень за допомогою Aspose.Imaging for Java" %}}
-Ви можете програмно конвертувати формат OTG в інші доступні формати за допомогою
-Aspose.Imaging for Java.
+{{% blocks/products/pf/feature-page-section  h2="Спектр форматів зображень, які можна конвертувати з OTG(Стандарт OpenDocument) зображень за допомогою Aspose.Imaging for Java" %}}
+<p align=justify>Ви можете програмно конвертувати формат OTG в інші доступні формати за допомогою
+Aspose.Imaging for Java. Файл OTG — це шаблон малюнка, який створюється за допомогою стандарту OpenDocument, який відповідає специфікації OASIS Office Applications 1.0. Він представляє стандартну організацію елементів малюнка для векторного зображення, яке можна використовувати для подальшого вдосконалення вмісту файлу.</p>
 <br/>
 Наведено такі перетворення:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,21 +1,21 @@
 ﻿---
-title: Konvertera från ODG till andra format via .NET 
+title: Konvertera från ODG(Apache OpenOffice ritformat) till andra format via .NET bild-API 
 weight: 3920
 url: /sv/net/conversion/from/odg 
 lang: sv
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Med Aspose.Imaging kan du enkelt konvertera från ODG till ett annat format
+description: Med Aspose.Imaging kan du enkelt konvertera från ODG(Apache OpenOffice ritformat) till ett annat format
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertering av bildfiler från ODG via .NET" h2="Konvertera från ODG till ett annat format" downloadText="Ladda ner" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertering av bildfiler från ODG(Apache OpenOffice ritformat) via .NET bild-API" h2="Konvertera från Apache OpenOffice ritformat till andra format med Aspose.Imaging API" downloadText="Ladda ner" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alla bildformat som stöds för att konvertera från ODG" %}}
-Aspose.Imaging låter automatisera många konverteringar från ODG till andra format på .NET-plattformen.
+{{% blocks/products/pf/feature-page-section  h2="Alla bildformat som stöds att konvertera från ODG(Apache OpenOffice ritformat)" %}}
+<p align=justify>Aspose.Imaging låter automatisera många konverteringar från ODG till andra format på .NET-plattformen. ODG-filformatet används av Apache OpenOffices Draw-applikation för att lagra ritelement som en vektorbild. Den följer de XML-baserade filformatspecifikationerna som beskrivs av Advancement of Structural Information Standards (OASIS). ODG representerar ritningar som vektorbilder med hjälp av punkter, linjer och kurvor. Förutom OpenOffice ger LibreOffice och andra applikationer även stöd för att arbeta med ODG-filformat. Andra format som stöds av OpenOffice, till exempel, inkluderar ODT, ODF, ODP och ODS.</p>
 <br/>
-Fullständig lista över omvandlingar som stöds:
+Fullständig lista över omvandlingar som stöds från ODG:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -1,20 +1,20 @@
 ﻿---
-title: Konwertuj z OTG na inne obsługiwane formaty za pomocą Aspose.Imaging for Java 
+title: Konwertuj z OTG(Standard OpenDocument) na inne obsługiwane formaty za pomocą Aspose.Imaging for Java API 
 weight: 3920
 url: /pl/java/conversion/from/otg 
 lang: pl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging może łatwo konwertować z formatu OTG na inne formaty przy użyciu platformy Java
+description: Aspose.Imaging może łatwo konwertować z formatu OTG(Standard OpenDocument) na inne formaty przy użyciu platformy Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwertuj obrazy z formatu OTG za pomocą Aspose.Imaging for Java" h2="Konwertuj z formatu obrazu OTG na inne formaty za pomocą platformy Java" downloadText="Ściągnij" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj obrazy z formatu OTG za pomocą Aspose.Imaging for Java" h2="Konwertuj z formatu obrazu OTG(Standard OpenDocument) na inne formaty za pomocą platformy Java" downloadText="Ściągnij" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Szerokie spektrum formatów obrazów, które można konwertować z obrazów OTG przy użyciu Aspose.Imaging for Java" %}}
-Możesz programowo przekonwertować z formatu OTG na inne dostępne formaty za pomocą
-Aspose.Imaging dla Javy.
+{{% blocks/products/pf/feature-page-section  h2="Szerokie spektrum formatów obrazów, które można konwertować z obrazów OTG(Standard OpenDocument) przy użyciu Aspose.Imaging for Java" %}}
+<p align=justify>Możesz programowo przekonwertować z formatu OTG na inne dostępne formaty za pomocą
+Aspose.Imaging dla Javy. Plik OTG to szablon rysunku utworzony przy użyciu standardu OpenDocument zgodnego ze specyfikacją OASIS Office Applications 1.0. Reprezentuje domyślną organizację elementów rysunkowych dla obrazu wektorowego, która może być wykorzystana do dalszego ulepszania zawartości pliku.</p>
 <br/>
 Na pokładzie znajdują się następujące konwersje:
 {{% /blocks/products/pf/feature-page-section %}}

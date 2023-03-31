@@ -1,19 +1,19 @@
 ﻿---
-title: Konversi gambar ke format gambar PNG dari format lain yang didukung menggunakan platform .NET 
+title: Konversi gambar ke format gambar PNG(Grafik Jaringan Portabel) dari format lain yang didukung menggunakan platform .NET 
 weight: 3920
 url: /id/net/conversion/to/png 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Menggunakan Aspose.Imaging untuk pustaka .NET, mudah untuk mengonversi ke PNG dari format gambar lain yang didukung
+description: Menggunakan Aspose.Imaging untuk pustaka .NET, mudah untuk mengonversi ke PNG(Grafik Jaringan Portabel) dari format gambar lain yang didukung
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar menjadi format gambar PNG menggunakan platform .NET" h2="Konversikan ke format PNG dari format lain menggunakan Aspose.Imaging untuk perpustakaan .NET" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar menjadi format gambar PNG(Grafik Jaringan Portabel) menggunakan platform .NET" h2="Konversikan ke format Grafik Jaringan Portabel dari format lain menggunakan Aspose.Imaging untuk perpustakaan .NET" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Semua konversi yang didukung ke format PNG menggunakan Aspose.Imaging untuk perpustakaan .NET" %}}
-Dengan menggunakan pustaka Aspose.Imaging, Anda dapat secara terprogram mengonversi berbagai format gambar menjadi gambar PNG.
+{{% blocks/products/pf/feature-page-section  h2="Semua konversi yang didukung ke format PNG(Grafik Jaringan Portabel) menggunakan Aspose.Imaging untuk perpustakaan .NET" %}}
+<p align=justify>Dengan menggunakan pustaka Aspose.Imaging, Anda dapat secara terprogram mengonversi berbagai format gambar menjadi gambar PNG. PNG, Portable Network Graphics, mengacu pada jenis format file gambar raster yang menggunakan kompresi tanpa kehilangan. Format file ini dibuat sebagai pengganti Graphics Interchange Format (GIF) dan tidak memiliki batasan hak cipta. Namun, format file PNG tidak mendukung animasi. Format file PNG mendukung kompresi gambar tanpa kehilangan yang membuatnya populer di kalangan penggunanya. Dengan berlalunya waktu, PNG telah berkembang sebagai salah satu format file gambar yang paling banyak digunakan. Hampir semua Sistem Operasi memiliki dukungan untuk membuka file PNG. Misalnya, penampil Microsoft Windows memiliki kemampuan untuk membuka file PNG karena OS secara default memiliki dukungan yang tersedia sebagai bagian dari instalasi.</p>
 <br/>
 Konversi berikut didukung :
 {{% /blocks/products/pf/feature-page-section %}}

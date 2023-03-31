@@ -1,20 +1,20 @@
 ﻿---
-title: Konwertuj z DIB na inne obsługiwane formaty za pomocą Aspose.Imaging for Java 
+title: Konwertuj z DIB(Mapa bitowa niezależna od urządzenia) na inne obsługiwane formaty za pomocą Aspose.Imaging for Java API 
 weight: 3920
 url: /pl/java/conversion/from/dib 
 lang: pl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging może łatwo konwertować z formatu DIB na inne formaty przy użyciu platformy Java
+description: Aspose.Imaging może łatwo konwertować z formatu DIB(Mapa bitowa niezależna od urządzenia) na inne formaty przy użyciu platformy Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwertuj obrazy z formatu DIB za pomocą Aspose.Imaging for Java" h2="Konwertuj z formatu obrazu DIB na inne formaty za pomocą platformy Java" downloadText="Ściągnij" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj obrazy z formatu DIB za pomocą Aspose.Imaging for Java" h2="Konwertuj z formatu obrazu DIB(Mapa bitowa niezależna od urządzenia) na inne formaty za pomocą platformy Java" downloadText="Ściągnij" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Szerokie spektrum formatów obrazów, które można konwertować z obrazów DIB przy użyciu Aspose.Imaging for Java" %}}
-Możesz programowo przekonwertować z formatu DIB na inne dostępne formaty za pomocą
-Aspose.Imaging dla Javy.
+{{% blocks/products/pf/feature-page-section  h2="Szerokie spektrum formatów obrazów, które można konwertować z obrazów DIB(Mapa bitowa niezależna od urządzenia) przy użyciu Aspose.Imaging for Java" %}}
+<p align=justify>Możesz programowo przekonwertować z formatu DIB na inne dostępne formaty za pomocą
+Aspose.Imaging dla Javy. Plik DIB (Device Independent Bitmap) to plik obrazu rastrowego, który ma podobną strukturę do standardowych plików bitmapowych (BMP), ale ma inny nagłówek. Można go otworzyć za pomocą prawie wszystkich aplikacji, które mogą otwierać standardowy plik BMP w systemie Windows i macOS. DIB to pliki binarne i mają złożony format pliku podobny do BMP.</p>
 <br/>
 Na pokładzie znajdują się następujące konwersje:
 {{% /blocks/products/pf/feature-page-section %}}

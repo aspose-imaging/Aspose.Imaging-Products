@@ -1,19 +1,19 @@
 ﻿---
-title: .NET プラットフォームを使用して、画像を他のサポートされている形式から GIF 画像形式に変換します 
+title: .NET プラットフォームを使用して、画像を他のサポートされている形式から GIF(グラフィカルな交換形式) 画像形式に変換します 
 weight: 3920
 url: /ja/net/conversion/to/gif 
 lang: ja
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging for .NET ライブラリを使用すると、サポートされている他の画像フォーマットから GIF に簡単に変換できます。
+description: Aspose.Imaging for .NET ライブラリを使用すると、サポートされている他の画像フォーマットから GIF(グラフィカルな交換形式) に簡単に変換できます。
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET プラットフォームを使用して、画像ファイルを GIF 画像形式に変換します" h2="Aspose.Imaging for .NET ライブラリを使用して、他のフォーマットから GIF フォーマットに変換します" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET プラットフォームを使用して、画像ファイルを GIF(グラフィカルな交換形式) 画像形式に変換します" h2="Aspose.Imaging for .NET ライブラリを使用して、他のフォーマットから グラフィカルな交換形式 フォーマットに変換します" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for .NET ライブラリを使用した GIF 形式へのすべてのサポートされている変換" %}}
-Aspose.Imaging ライブラリを使用すると、さまざまな画像フォーマットをプログラムで GIF 画像に変換できます。
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for .NET ライブラリを使用した GIF(グラフィカルな交換形式) 形式へのすべてのサポートされている変換" %}}
+<p align=justify>Aspose.Imaging ライブラリを使用すると、さまざまな画像フォーマットをプログラムで GIF 画像に変換できます。 GIFまたはGraphicalInterchange Formatは、高度に圧縮された画像の一種です。 Unisysが所有するGIFは、画質を低下させないLZW圧縮アルゴリズムを使用します。画像ごとに、GIFは通常、ピクセルあたり最大8ビットを許可し、画像全体で最大256色を許可します。最大1600万色を表示でき、人間の目の限界にかなり触れるJPEG画像とは対照的です。インターネットが登場したとき、GIFは低帯域幅を必要とし、色の単色領域を消費するグラフィックスと互換性があるため、依然として最良の選択でした。アニメーションGIFは、多数の画像またはフレームを1つのファイルに結合し、それらを順番に表示して、アニメーションクリップまたは短いビデオを生成します。色の制限は、フレームごとに最大256であり、カラーグラデーションを使用して他の画像や写真を再現するのに最も適していない可能性があります。</p>
 <br/>
 次の変換がサポートされています。
 {{% /blocks/products/pf/feature-page-section %}}

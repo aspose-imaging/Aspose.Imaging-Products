@@ -1,20 +1,20 @@
 ﻿---
-title: Converti da JPEG in altri formati supportati utilizzando Aspose.Imaging per Java 
+title: Converti da JPEG(Gruppo congiunto di esperti fotografici) in altri formati supportati utilizzando Aspose.Imaging per Java API 
 weight: 3920
 url: /it/java/conversion/from/jpeg 
 lang: it
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging può facilmente convertire da JPEG ad altri formati utilizzando la piattaforma Java
+description: Aspose.Imaging può facilmente convertire da JPEG(Gruppo congiunto di esperti fotografici) ad altri formati utilizzando la piattaforma Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converti immagini dal formato JPEG utilizzando Aspose.Imaging per Java" h2="Converti dal formato immagine JPEG in altri formati utilizzando la piattaforma Java" downloadText="Scarica" >}}
+{{< blocks/products/pf/feature-page-header h1="Converti immagini dal formato JPEG utilizzando Aspose.Imaging per Java" h2="Converti dal formato immagine JPEG(Gruppo congiunto di esperti fotografici) in altri formati utilizzando la piattaforma Java" downloadText="Scarica" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Ampio spettro di formati immagine che possono essere convertiti da immagini JPEG utilizzando Aspose.Imaging per Java" %}}
-Puoi convertire in modo programmatico dal formato JPEG in altri formati disponibili utilizzando
-Aspose.Imaging per Java.
+{{% blocks/products/pf/feature-page-section  h2="Ampio spettro di formati immagine che possono essere convertiti da immagini JPEG(Gruppo congiunto di esperti fotografici) utilizzando Aspose.Imaging per Java" %}}
+<p align=justify>Puoi convertire in modo programmatico dal formato JPEG in altri formati disponibili utilizzando
+Aspose.Imaging per Java. Un JPEG è un tipo di formato immagine che viene salvato utilizzando il metodo di compressione con perdita di dati. L'immagine di output, come risultato della compressione, è un compromesso tra la dimensione della memoria e la qualità dell'immagine. Gli utenti possono regolare il livello di compressione per ottenere il livello di qualità desiderato riducendo allo stesso tempo le dimensioni dello storage. La qualità dell'immagine viene influenzata in modo trascurabile se all'immagine viene applicata la compressione 10:1. Maggiore è il valore di compressione, maggiore è il degrado della qualità dell'immagine.</p>
 <br/>
 Ci sono le seguenti conversioni a bordo:
 {{% /blocks/products/pf/feature-page-section %}}

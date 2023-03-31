@@ -1,20 +1,20 @@
 ﻿---
-title: Преобразование из SVGZ в другие поддерживаемые форматы с помощью Aspose.Imaging for Java 
+title: Преобразование из SVGZ(Сжатая версия файла масштабируемой векторной графики (.SVG).) в другие поддерживаемые форматы с помощью Aspose.Imaging for Java API 
 weight: 3920
 url: /ru/java/conversion/from/svgz 
 lang: ru
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging может легко конвертировать из SVGZ в другие форматы с помощью платформы Java.
+description: Aspose.Imaging может легко конвертировать из SVGZ(Сжатая версия файла масштабируемой векторной графики (.SVG).) в другие форматы с помощью платформы Java.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование изображений из формата SVGZ с помощью Aspose.Imaging for Java" h2="Преобразование из формата изображения SVGZ в другие форматы с использованием платформы Java" downloadText="Скачать" >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование изображений из формата SVGZ с помощью Aspose.Imaging for Java" h2="Преобразование из формата изображения SVGZ(Сжатая версия файла масштабируемой векторной графики (.SVG).) в другие форматы с использованием платформы Java" downloadText="Скачать" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Спектр форматов изображений, которые можно преобразовать из изображений SVGZ с помощью Aspose.Imaging for Java." %}}
-Вы можете программно преобразовать формат SVGZ в другие доступные форматы, используя
-Aspose.Imaging for Java.
+{{% blocks/products/pf/feature-page-section  h2="Спектр форматов изображений, которые можно преобразовать из изображений SVGZ(Сжатая версия файла масштабируемой векторной графики (.SVG).) с помощью Aspose.Imaging for Java." %}}
+<p align=justify>Вы можете программно преобразовать формат SVGZ в другие доступные форматы, используя
+Aspose.Imaging for Java. Файл с расширением .svgz представляет собой сжатую версию файла масштабируемой векторной графики (.SVG). Он сжат сжатием gzip и содержит данные в формате XML. Файлы SVGZ поддерживают прозрачность, градиенты, анимацию и фильтры. Файлы SVGZ меньше по размеру по сравнению с файлами SVG по умолчанию, и этот уменьшенный размер файла помогает передавать графические файлы онлайн. Графический дизайнер создает файлы SVGZ с помощью таких инструментов, как Adobe Illustrator, Corel PaintShop Pro и других. Однако файлы SVGZ можно создавать, включив сжатие GZip на сервере Apache при отправке данных изображения.</p>
 <br/>
 Представлены следующие трансформации:
 {{% /blocks/products/pf/feature-page-section %}}

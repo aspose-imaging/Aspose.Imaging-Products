@@ -1,21 +1,21 @@
 ﻿---
-title: Konvertuoti iš CMX į kitus formatus per .NET 
+title: Konvertuoti iš CMX(Corel Exchange vaizdas) į kitus formatus naudojant .NET vaizdo API 
 weight: 3920
 url: /lt/net/conversion/from/cmx 
 lang: lt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Naudodami Aspose.Imaging galite lengvai konvertuoti iš CMX į kitus formatus
+description: Naudodami Aspose.Imaging galite lengvai konvertuoti iš CMX(Corel Exchange vaizdas) į kitus formatus
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas iš CMX naudojant .NET" h2="Konvertuoti iš CMX į kitus formatus" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas iš CMX(Corel Exchange vaizdas) naudojant .NET vaizdo API" h2="Konvertuokite iš Corel Exchange vaizdas į kitus formatus naudodami Aspose.Imaging API" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai konvertuoti iš CMX" %}}
-Aspose.Imaging leidžia automatizuoti daug konversijų iš CMX į kitus formatus .NET platformoje.
+{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai, konvertuojami iš CMX(Corel Exchange vaizdas)" %}}
+<p align=justify>Aspose.Imaging leidžia automatizuoti daug konversijų iš CMX į kitus formatus .NET platformoje. Failai su CMX plėtiniu yra „Corel Exchange“ vaizdo failo formatas, naudojamas „CorelSuite“ programose kaip pristatymas. Jame yra vaizdo duomenys kaip vektorinė grafika, taip pat metaduomenys, apibūdinantys vaizdą. CMX failus galima atidaryti naudojant „CorelDraw“, „Corel Presentations“, „Paint Shop Pro“ ir kai kurias „Adobe Illustrator“ versijas.</p>
 <br/>
-Visas palaikomų konversijų sąrašas:
+Visas palaikomų konversijų iš CMX sąrašas:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

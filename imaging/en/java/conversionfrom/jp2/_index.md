@@ -1,20 +1,20 @@
 ﻿---
-title: Convert from JP2 to other supported formats using Aspose.Imaging for Java 
+title: Convert from JP2(JPEG 2000) to other supported formats using Aspose.Imaging for Java API 
 weight: 3920
 url: /java/conversion/from/jp2 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging can easily convert from JP2 to other formats using Java platform
+description: Aspose.Imaging API can easily convert from JP2(JPEG 2000) to other formats using Java platform
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert images from JP2 format using Aspose.Imaging for Java" h2="Convert from JP2 image format to other formats using Java platform" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert images from JP2 format using Aspose.Imaging for Java" h2="Convert from JP2(JPEG 2000) image format to other formats using Java platform" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wide spectrum of image formats that can be converted from JP2 images using Aspose.Imaging for Java" %}}
-You can programmaticaly convert from JP2 format to other available formats using 
-Aspose.Imaging for Java.
+{{% blocks/products/pf/feature-page-section  h2="Wide spectrum of image formats that can be converted from JP2(JPEG 2000) images using Aspose.Imaging for Java" %}}
+<p align=justify>You can programmaticaly convert from JP2 format to other available formats using 
+Aspose.Imaging for Java. JPEG 2000 (JP2) is an image coding system and state-of-the-art image compression standard. Designed, using wavelet technology JPEG 2000 can code lossless content in any quality at once. Moreover, without any substantial penalty in coding efficiency, JPEG 2000 have the capability to access and decode the same content efficaciously into a variety of other resolutions and qualities. The code streams in JPEG 2000 is significantly scalable having regions of interest that provide the facility for spatial random access. Possessing Up to 16384 diverse components with the dimensions in terapixels, and precision that can be high as 38 bits/sample.</p>
 <br/>
 There are following conversions on board:
 {{% /blocks/products/pf/feature-page-section %}}

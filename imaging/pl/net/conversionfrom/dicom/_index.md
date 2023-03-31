@@ -1,21 +1,21 @@
 ﻿---
-title: Konwertuj z DICOM na inne formaty przez .NET 
+title: Konwertuj z formatu DICOM(Obrazowanie cyfrowe i komunikacja) na inne formaty za pomocą interfejsu graficznego .NET 
 weight: 3920
 url: /pl/net/conversion/from/dicom 
 lang: pl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Za pomocą Aspose.Imaging możesz łatwo konwertować z DICOM na inne formaty
+description: Za pomocą Aspose.Imaging możesz łatwo konwertować z DICOM(Obrazowanie cyfrowe i komunikacja) na inne formaty
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwersja plików graficznych z DICOM przez .NET" h2="Konwertuj z DICOM na inne formaty" downloadText="Ściągnij" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwersja plików graficznych z formatu DICOM(Obrazowanie cyfrowe i komunikacja) za pośrednictwem interfejsu graficznego .NET" h2="Konwertuj z Obrazowanie cyfrowe i komunikacja na inne formaty za pomocą API Aspose.Imaging" downloadText="Ściągnij" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty obrazów do przekonwertowania z DICOM" %}}
-Aspose.Imaging pozwala zautomatyzować wiele konwersji z DICOM do innych formatów na platformie .NET.
+{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty obrazów do przekonwertowania z DICOM(Obrazowanie cyfrowe i komunikacja)" %}}
+<p align=justify>Aspose.Imaging pozwala zautomatyzować wiele konwersji z DICOM do innych formatów na platformie .NET. DICOM to skrót od Digital Imaging and Communications in Medicine i odnosi się do dziedziny informatyki medycznej. DICOM to połączenie definicji formatu pliku i protokołu komunikacji sieciowej. DICOM używa rozszerzenia .DCM. .DCM istnieje w dwóch różnych formatach, tj. formacie 1.xi 2.x. DCM Format 1.x jest ponadto dostępny w dwóch wersjach: normalnej i rozszerzonej. DICOM służy do integracji urządzeń do obrazowania medycznego, takich jak drukarki, serwery, skanery itp. od różnych dostawców, a także zawiera dane identyfikacyjne każdego pacjenta w celu uzyskania niepowtarzalności. Pliki DICOM mogą być udostępniane między dwiema stronami, jeśli są one w stanie odbierać dane obrazu w formacie DICOM. Część komunikacyjna DICOM jest protokołem warstwy aplikacji i wykorzystuje TCP/IP do komunikacji między podmiotami. Protokoły HTTP i HTTPS są używane w usługach internetowych DICOM. Wersje obsługiwane przez usługi sieciowe to 1.0, 1.1, 2 lub nowsze.</p>
 <br/>
-Pełna lista obsługiwanych konwersji:
+Pełna lista obsługiwanych konwersji z DICOM:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

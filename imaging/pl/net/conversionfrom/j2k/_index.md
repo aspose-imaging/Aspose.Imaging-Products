@@ -1,21 +1,21 @@
 ﻿---
-title: Konwertuj z J2K na inne formaty przez .NET 
+title: Konwertuj z formatu J2K(Skompresowany obraz falkowy) na inne formaty za pomocą interfejsu graficznego .NET 
 weight: 3920
 url: /pl/net/conversion/from/j2k 
 lang: pl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Za pomocą Aspose.Imaging możesz łatwo konwertować z J2K na inne formaty
+description: Za pomocą Aspose.Imaging możesz łatwo konwertować z J2K(Skompresowany obraz falkowy) na inne formaty
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwersja plików graficznych z J2K przez .NET" h2="Konwertuj z J2K na inne formaty" downloadText="Ściągnij" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwersja plików graficznych z formatu J2K(Skompresowany obraz falkowy) za pośrednictwem interfejsu graficznego .NET" h2="Konwertuj z Skompresowany obraz falkowy na inne formaty za pomocą API Aspose.Imaging" downloadText="Ściągnij" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty obrazów do przekonwertowania z J2K" %}}
-Aspose.Imaging pozwala zautomatyzować wiele konwersji z J2K do innych formatów na platformie .NET.
+{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty obrazów do przekonwertowania z J2K(Skompresowany obraz falkowy)" %}}
+<p align=justify>Aspose.Imaging pozwala zautomatyzować wiele konwersji z J2K do innych formatów na platformie .NET. Plik J2K to obraz skompresowany przy użyciu kompresji falkowej zamiast kompresji DCT.</p>
 <br/>
-Pełna lista obsługiwanych konwersji:
+Pełna lista obsługiwanych konwersji z J2K:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

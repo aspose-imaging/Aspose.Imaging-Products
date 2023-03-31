@@ -1,21 +1,21 @@
 ﻿---
-title: Konvertera från J2K till andra format via .NET 
+title: Konvertera från J2K(Wavelet komprimerad bild) till andra format via .NET bild-API 
 weight: 3920
 url: /sv/net/conversion/from/j2k 
 lang: sv
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Med Aspose.Imaging kan du enkelt konvertera från J2K till ett annat format
+description: Med Aspose.Imaging kan du enkelt konvertera från J2K(Wavelet komprimerad bild) till ett annat format
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertering av bildfiler från J2K via .NET" h2="Konvertera från J2K till ett annat format" downloadText="Ladda ner" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertering av bildfiler från J2K(Wavelet komprimerad bild) via .NET bild-API" h2="Konvertera från Wavelet komprimerad bild till andra format med Aspose.Imaging API" downloadText="Ladda ner" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alla bildformat som stöds för att konvertera från J2K" %}}
-Aspose.Imaging låter automatisera många konverteringar från J2K till andra format på .NET-plattformen.
+{{% blocks/products/pf/feature-page-section  h2="Alla bildformat som stöds att konvertera från J2K(Wavelet komprimerad bild)" %}}
+<p align=justify>Aspose.Imaging låter automatisera många konverteringar från J2K till andra format på .NET-plattformen. En J2K-fil är en bild som komprimeras med hjälp av wavelet-komprimering istället för DCT-komprimering.</p>
 <br/>
-Fullständig lista över omvandlingar som stöds:
+Fullständig lista över omvandlingar som stöds från J2K:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

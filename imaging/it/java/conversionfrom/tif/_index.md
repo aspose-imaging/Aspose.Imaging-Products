@@ -1,20 +1,20 @@
 ﻿---
-title: Converti da TIF in altri formati supportati utilizzando Aspose.Imaging per Java 
+title: Converti da TIF(Formato immagine contrassegnato) in altri formati supportati utilizzando Aspose.Imaging per Java API 
 weight: 3920
 url: /it/java/conversion/from/tif 
 lang: it
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging può facilmente convertire da TIF ad altri formati utilizzando la piattaforma Java
+description: Aspose.Imaging può facilmente convertire da TIF(Formato immagine contrassegnato) ad altri formati utilizzando la piattaforma Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Converti immagini dal formato TIF utilizzando Aspose.Imaging per Java" h2="Converti dal formato immagine TIF in altri formati utilizzando la piattaforma Java" downloadText="Scarica" >}}
+{{< blocks/products/pf/feature-page-header h1="Converti immagini dal formato TIF utilizzando Aspose.Imaging per Java" h2="Converti dal formato immagine TIF(Formato immagine contrassegnato) in altri formati utilizzando la piattaforma Java" downloadText="Scarica" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Ampio spettro di formati immagine che possono essere convertiti da immagini TIF utilizzando Aspose.Imaging per Java" %}}
-Puoi convertire in modo programmatico dal formato TIF in altri formati disponibili utilizzando
-Aspose.Imaging per Java.
+{{% blocks/products/pf/feature-page-section  h2="Ampio spettro di formati immagine che possono essere convertiti da immagini TIF(Formato immagine contrassegnato) utilizzando Aspose.Imaging per Java" %}}
+<p align=justify>Puoi convertire in modo programmatico dal formato TIF in altri formati disponibili utilizzando
+Aspose.Imaging per Java. </p>
 <br/>
 Ci sono le seguenti conversioni a bordo:
 {{% /blocks/products/pf/feature-page-section %}}

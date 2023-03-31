@@ -1,21 +1,21 @@
 ﻿---
-title: .NET 経由で EPS から他の形式に変換します 
+title: .NET 画像 API を介して EPS(カプセル化されたPostScript言語) から他の形式に変換する 
 weight: 3920
 url: /ja/net/conversion/from/eps 
 lang: ja
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging を使用すると、EPS から別のフォーマットに簡単に変換できます
+description: Aspose.Imaging を使用すると、EPS(カプセル化されたPostScript言語) から別のフォーマットに簡単に変換できます
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET による EPS からの画像ファイルの変換" h2="EPS から別の形式に変換する" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET 画像 API を介した EPS(カプセル化されたPostScript言語) からの画像ファイルの変換" h2="Aspose.Imaging API を使用して カプセル化されたPostScript言語 から他のフォーマットに変換" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="EPS から変換する、サポートされているすべての画像形式" %}}
-Aspose.Imaging を使用すると、EPS から .NET プラットフォーム上の他のフォーマットへの多くの変換を自動化できます。
+{{% blocks/products/pf/feature-page-section  h2="EPS(カプセル化されたPostScript言語) から変換する、サポートされているすべての画像形式" %}}
+<p align=justify>Aspose.Imaging を使用すると、EPS から .NET プラットフォーム上の他のフォーマットへの多くの変換を自動化できます。 EPS拡張子の付いたファイルは、基本的に、単一ページの外観を記述するEncapsulatedPostScript言語プログラムを記述します。 「カプセル化」という名前は、別のPostScript言語ページの説明に含めるかカプセル化できるためです。このスクリプトベースのファイル形式には、テキスト、グラフィックス、および画像の任意の組み合わせを含めることができます。 EPSファイルには、そのようなファイルを開くことができるアプリケーションによる表示のために、内部にカプセル化されたビットマッププレビュー画像が含まれる場合があります。 EPSファイルは、さまざまなアプリケーションを使用して、JPG、PNG、TIFF、PDFなどの標準の画像形式に変換できます。 Adobe Illustrator、Photoshop、PaintShopPro。 EPSファイルのセキュリティの脆弱性のため、Office 2016、Office 2013、Office 2010、およびOffice 365は、EPSファイルをOfficeドキュメントに挿入する機能をオフにしました。</p>
 <br/>
-サポートされている変換の完全なリスト:
+サポートされている EPS からの変換の完全なリスト:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

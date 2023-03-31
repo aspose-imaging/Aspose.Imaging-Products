@@ -1,21 +1,21 @@
 ﻿---
-title: Konvertera från ICO till andra format via .NET 
+title: Konvertera från ICO(Windows-ikonen) till andra format via .NET bild-API 
 weight: 3920
 url: /sv/net/conversion/from/ico 
 lang: sv
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Med Aspose.Imaging kan du enkelt konvertera från ICO till ett annat format
+description: Med Aspose.Imaging kan du enkelt konvertera från ICO(Windows-ikonen) till ett annat format
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konvertering av bildfiler från ICO via .NET" h2="Konvertera från ICO till ett annat format" downloadText="Ladda ner" >}}
+{{< blocks/products/pf/feature-page-header h1="Konvertering av bildfiler från ICO(Windows-ikonen) via .NET bild-API" h2="Konvertera från Windows-ikonen till andra format med Aspose.Imaging API" downloadText="Ladda ner" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alla bildformat som stöds för att konvertera från ICO" %}}
-Aspose.Imaging låter automatisera många konverteringar från ICO till andra format på .NET-plattformen.
+{{% blocks/products/pf/feature-page-section  h2="Alla bildformat som stöds att konvertera från ICO(Windows-ikonen)" %}}
+<p align=justify>Aspose.Imaging låter automatisera många konverteringar från ICO till andra format på .NET-plattformen. ICO-filformatet är ett bildfilformat för datorikoner i Microsoft Windows. ICO-filer innehåller en eller flera små bilder i flera storlekar och färgdjup, så att de kan skalas på lämpligt sätt. I Windows måste alla körbara filer som visar en ikon för användaren, på skrivbordet, i Start-menyn eller i Utforskaren i Windows, bära ikonen i ICO-format.</p>
 <br/>
-Fullständig lista över omvandlingar som stöds:
+Fullständig lista över omvandlingar som stöds från ICO:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

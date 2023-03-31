@@ -1,21 +1,21 @@
 ﻿---
-title: Convertir de ICO vers d'autres formats via .NET 
+title: Convertir de ICO(Icône Windows) vers d'autres formats via l'API d'image .NET 
 weight: 3920
 url: /fr/net/conversion/from/ico 
 lang: fr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: En utilisant Aspose.Imaging, vous pouvez facilement convertir de ICO vers un autre format
+description: En utilisant Aspose.Imaging, vous pouvez facilement convertir de ICO(Icône Windows) vers un autre format
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversion de fichiers image à partir de ICO via .NET" h2="Convertir de ICO vers un autre format" downloadText="Télécharger" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversion de fichiers image à partir de ICO(Icône Windows) via l'API d'image .NET" h2="Convertir de Icône Windows vers d'autres formats à l'aide de l'API Aspose.Imaging" downloadText="Télécharger" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tous les formats d'image pris en charge pour convertir à partir de ICO" %}}
-Aspose.Imaging permet d'automatiser de nombreuses conversions de ICO vers d'autres formats sur la plate-forme .NET.
+{{% blocks/products/pf/feature-page-section  h2="Tous les formats d'image pris en charge pour convertir à partir de ICO(Icône Windows)" %}}
+<p align=justify>Aspose.Imaging permet d'automatiser de nombreuses conversions de ICO vers d'autres formats sur la plate-forme .NET. Le format de fichier ICO est un format de fichier image pour les icônes d'ordinateur dans Microsoft Windows. Les fichiers ICO contiennent une ou plusieurs petites images à plusieurs tailles et profondeurs de couleur, de sorte qu'elles peuvent être mises à l'échelle de manière appropriée. Sous Windows, tous les exécutables qui affichent une icône à l'utilisateur, sur le bureau, dans le menu Démarrer ou dans l'Explorateur Windows, doivent porter l'icône au format ICO.</p>
 <br/>
-Liste complète des conversions prises en charge :
+Liste complète des conversions prises en charge à partir de ICO :
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

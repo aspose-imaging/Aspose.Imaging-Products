@@ -1,20 +1,20 @@
 ﻿---
-title: Aspose.Imaging for Java を使用して、JPEG から他のサポートされている形式に変換します。 
+title: Aspose.Imaging for Java API を使用して、JPEG(共同写真専門家グループ) から他のサポートされている形式に変換します。 
 weight: 3920
 url: /ja/java/conversion/from/jpeg 
 lang: ja
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging は、Java プラットフォームを使用して JPEG から他のフォーマットに簡単に変換できます
+description: Aspose.Imaging は、Java プラットフォームを使用して JPEG(共同写真専門家グループ) から他のフォーマットに簡単に変換できます
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java を使用して JPEG フォーマットから画像を変換します" h2="Java プラットフォームを使用して、JPEG 画像形式から他の形式に変換します" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging for Java を使用して JPEG フォーマットから画像を変換します" h2="Java プラットフォームを使用して、JPEG(共同写真専門家グループ) 画像形式から他の形式に変換します" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java を使用して JPEG 画像から変換できる幅広い画像フォーマット" %}}
-次を使用して、JPEG 形式から他の使用可能な形式にプログラムで変換できます。
-Aspose.Imaging for Java。
+{{% blocks/products/pf/feature-page-section  h2="Aspose.Imaging for Java を使用して JPEG(共同写真専門家グループ) 画像から変換できる幅広い画像フォーマット" %}}
+<p align=justify>次を使用して、JPEG 形式から他の使用可能な形式にプログラムで変換できます。
+Aspose.Imaging for Java。 JPEGは、非可逆圧縮方式を使用して保存される画像形式の一種です。圧縮の結果としての出力画像は、ストレージサイズと画質の間のトレードオフです。ユーザーは、圧縮レベルを調整して、必要な品質レベルを達成すると同時に、ストレージサイズを減らすことができます。 10：1の圧縮が画像に適用されている場合、画質への影響はごくわずかです。圧縮値が高いほど、画質の低下が大きくなります。</p>
 <br/>
 機内では次の変換があります。
 {{% /blocks/products/pf/feature-page-section %}}

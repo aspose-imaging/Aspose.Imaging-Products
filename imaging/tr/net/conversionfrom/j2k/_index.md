@@ -1,21 +1,21 @@
 ﻿---
-title: .NET Aracılığıyla J2K'ten diğer biçimlere dönüştürün 
+title: .NET görüntü API'sı aracılığıyla J2K(Dalgacık Sıkıştırılmış Görüntü) biçimini diğer biçimlere dönüştürün 
 weight: 3920
 url: /tr/net/conversion/from/j2k 
 lang: tr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging'i kullanarak J2K biçimini kolayca başka biçimlere dönüştürebilirsiniz
+description: Aspose.Imaging'i kullanarak J2K(Dalgacık Sıkıştırılmış Görüntü) biçimini kolayca başka biçimlere dönüştürebilirsiniz
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET Yoluyla J2K'den Görüntü Dosyaları Dönüştürme" h2="J2K biçimini başka biçimlere dönüştürün" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET image API aracılığıyla J2K(Dalgacık Sıkıştırılmış Görüntü)'den Görüntü Dosyaları Dönüşümü" h2="Aspose.Imaging API kullanarak Dalgacık Sıkıştırılmış Görüntü formatını diğer formatlara dönüştürün" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="J2K'den dönüştürülecek desteklenen tüm resim biçimleri" %}}
-Aspose.Imaging, .NET platformunda J2K'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir.
+{{% blocks/products/pf/feature-page-section  h2="J2K(Dalgacık Sıkıştırılmış Görüntü) biçiminden dönüştürülecek desteklenen tüm resim biçimleri" %}}
+<p align=justify>Aspose.Imaging, .NET platformunda J2K'ten diğer biçimlere birçok dönüşümün otomatikleştirilmesine izin verir. J2K dosyası, DCT sıkıştırması yerine dalgacık sıkıştırması kullanılarak sıkıştırılmış bir görüntüdür.</p>
 <br/>
-Desteklenen dönüşümlerin tam listesi:
+J2K tarafından desteklenen dönüşümlerin tam listesi:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

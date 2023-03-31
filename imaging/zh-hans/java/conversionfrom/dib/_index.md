@@ -1,20 +1,20 @@
 ﻿---
-title: 使用 Aspose.Imaging for Java 从 DIB 转换为其他支持的格式 
+title: 使用 Aspose.Imaging for Java API 从 DIB(设备无关位图) 转换为其他支持的格式 
 weight: 3920
 url: /zh-hans/java/conversion/from/dib 
 lang: zh-hans
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging 可以使用 Java 平台轻松地将 DIB 转换为其他格式
+description: Aspose.Imaging 可以使用 Java 平台轻松地将 DIB(设备无关位图) 转换为其他格式
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="使用 Aspose.Imaging for Java 从 DIB 格式转换图像" h2="使用 Java 平台将 DIB 图像格式转换为其他格式" downloadText="下载" >}}
+{{< blocks/products/pf/feature-page-header h1="使用 Aspose.Imaging for Java 从 DIB 格式转换图像" h2="使用 Java 平台将 DIB(设备无关位图) 图像格式转换为其他格式" downloadText="下载" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="可以使用 Aspose.Imaging for Java 从 DIB 图像转换的各种图像格式" %}}
-您可以使用编程方式将 DIB 格式转换为其他可用格式
-用于 Java 的 Aspose.Imaging。
+{{% blocks/products/pf/feature-page-section  h2="可以使用 Aspose.Imaging for Java 从 DIB(设备无关位图) 图像转换的各种图像格式" %}}
+<p align=justify>您可以使用编程方式将 DIB 格式转换为其他可用格式
+用于 Java 的 Aspose.Imaging。 DIB（设备独立位图）文件是一种光栅图像文件，其结构类似于标准位图文件 (BMP)，但具有不同的标题。几乎所有可以在 Windows 和 macOS 上打开标准 BMP 文件的应用程序都可以打开它。 DIB 是二进制文件，具有类似于 BMP 的复杂文件格式。</p>
 <br/>
 船上有以下转换：
 {{% /blocks/products/pf/feature-page-section %}}

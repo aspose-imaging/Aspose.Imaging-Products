@@ -1,21 +1,21 @@
 ﻿---
-title: Konvertuoti iš J2K į kitus formatus per .NET 
+title: Konvertuoti iš J2K(„Wavelet“ suspaustas vaizdas) į kitus formatus naudojant .NET vaizdo API 
 weight: 3920
 url: /lt/net/conversion/from/j2k 
 lang: lt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Naudodami Aspose.Imaging galite lengvai konvertuoti iš J2K į kitus formatus
+description: Naudodami Aspose.Imaging galite lengvai konvertuoti iš J2K(„Wavelet“ suspaustas vaizdas) į kitus formatus
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas iš J2K naudojant .NET" h2="Konvertuoti iš J2K į kitus formatus" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Vaizdo failų konvertavimas iš J2K(„Wavelet“ suspaustas vaizdas) naudojant .NET vaizdo API" h2="Konvertuokite iš „Wavelet“ suspaustas vaizdas į kitus formatus naudodami Aspose.Imaging API" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai konvertuoti iš J2K" %}}
-Aspose.Imaging leidžia automatizuoti daug konversijų iš J2K į kitus formatus .NET platformoje.
+{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi vaizdo formatai, konvertuojami iš J2K(„Wavelet“ suspaustas vaizdas)" %}}
+<p align=justify>Aspose.Imaging leidžia automatizuoti daug konversijų iš J2K į kitus formatus .NET platformoje. J2K failas yra vaizdas, suglaudintas naudojant banglečių glaudinimą, o ne DCT glaudinimą.</p>
 <br/>
-Visas palaikomų konversijų sąrašas:
+Visas palaikomų konversijų iš J2K sąrašas:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

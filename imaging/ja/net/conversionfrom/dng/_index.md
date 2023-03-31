@@ -1,21 +1,21 @@
 ﻿---
-title: .NET 経由で DNG から他の形式に変換します 
+title: .NET 画像 API を介して DNG(デジタルカメラ画像) から他の形式に変換する 
 weight: 3920
 url: /ja/net/conversion/from/dng 
 lang: ja
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging を使用すると、DNG から別のフォーマットに簡単に変換できます
+description: Aspose.Imaging を使用すると、DNG(デジタルカメラ画像) から別のフォーマットに簡単に変換できます
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1=".NET による DNG からの画像ファイルの変換" h2="DNG から別の形式に変換する" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1=".NET 画像 API を介した DNG(デジタルカメラ画像) からの画像ファイルの変換" h2="Aspose.Imaging API を使用して デジタルカメラ画像 から他のフォーマットに変換" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="DNG から変換する、サポートされているすべての画像形式" %}}
-Aspose.Imaging を使用すると、DNG から .NET プラットフォーム上の他のフォーマットへの多くの変換を自動化できます。
+{{% blocks/products/pf/feature-page-section  h2="DNG(デジタルカメラ画像) から変換する、サポートされているすべての画像形式" %}}
+<p align=justify>Aspose.Imaging を使用すると、DNG から .NET プラットフォーム上の他のフォーマットへの多くの変換を自動化できます。 DNGは、rawファイルの保存に使用されるデジタルカメラの画像形式です。 2004年9月にAdobeによって開発されました。基本的にデジタル写真用に開発されました。 DNGはTIFF / EP標準形式の拡張であり、メタデータを大幅に使用します。柔軟性と芸術的な制御を容易にしてデジタルカメラからの生データを操作するために、写真家はカメラ生ファイルを選択します。 JPEGおよびTIFF形式は、カメラによって処理される画像を保存するため、このような形式では変更の余地があまりありません。</p>
 <br/>
-サポートされている変換の完全なリスト:
+サポートされている DNG からの変換の完全なリスト:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

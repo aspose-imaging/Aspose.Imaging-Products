@@ -1,21 +1,21 @@
 ﻿---
-title: Convert from CDR to other formats Via .NET 
+title: Convert from CDR(Vector Drawing Image) to other formats Via .NET image API 
 weight: 3920
 url: /net/conversion/from/cdr 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Using Aspose.Imaging you can easily convert from CDR to other formats
+description: Using Aspose.Imaging for .NET you can easily convert from CDR(Vector Drawing Image) to other formats
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Image Files Conversion from CDR Via .NET" h2="Convert from CDR to other formats" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Image Files Conversion from CDR(Vector Drawing Image) Via .NET image API" h2="Convert from Vector Drawing Image to other formats using Aspose.Imaging API" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from CDR" %}}
-Aspose.Imaging allows automate a lot of conversions from CDR to other formats on .NET platform.
+{{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from CDR(Vector Drawing Image)" %}}
+<p align=justify>Aspose.Imaging allows automate a lot of conversions from CDR to other formats on .NET platform. A CDR file is a vector drawing image file that is natively created with CorelDRAW for storing digital image encoded and compressed. Such a drawing file contains text, lines, shapes, images, colours and effects for vector representation of image contents. CDR files can be opened with CorelDRAW as the primary application and can also be converted to other formats such as PDF, JPG, PNG, BMP and AI. It can be used for representation of various graphics data like brochures, tabloids, envelopes, and postcards. Besides CorelDRAW, other Corel products such as Corel Paintshop Pro and CorelDRAW Graphics suite can also open the CDR file formats.</p>
 <br/>
-Full list of supported conversions:
+Full list of supported conversions from CDR:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

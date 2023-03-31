@@ -1,20 +1,20 @@
 ﻿---
-title: Převeďte z JP2 do jiných podporovaných formátů pomocí Aspose.Imaging for Java 
+title: Převeďte z JP2(JPEG 2000) do jiných podporovaných formátů pomocí Aspose.Imaging for Java API 
 weight: 3920
 url: /cs/java/conversion/from/jp2 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging lze snadno převést z formátu JP2 do jiných formátů pomocí platformy Java
+description: Aspose.Imaging lze snadno převést z formátu JP2(JPEG 2000) do jiných formátů pomocí platformy Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převeďte obrázky z formátu JP2 pomocí Aspose.Imaging for Java" h2="Převeďte z formátu obrázku JP2 do jiných formátů pomocí platformy Java" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Převeďte obrázky z formátu JP2 pomocí Aspose.Imaging for Java" h2="Převeďte z formátu obrázku JP2(JPEG 2000) do jiných formátů pomocí platformy Java" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Široké spektrum obrazových formátů, které lze převést z obrázků JP2 pomocí Aspose.Imaging for Java" %}}
-Můžete programově převádět z formátu JP2 do jiných dostupných formátů pomocí
-Aspose.Imaging pro Javu.
+{{% blocks/products/pf/feature-page-section  h2="Široké spektrum obrazových formátů, které lze převést z obrázků JP2(JPEG 2000) pomocí Aspose.Imaging for Java" %}}
+<p align=justify>Můžete programově převádět z formátu JP2 do jiných dostupných formátů pomocí
+Aspose.Imaging pro Javu. JPEG 2000 (JP2) je systém kódování obrazu a nejmodernější standard komprese obrazu. JPEG 2000 navržený pomocí waveletové technologie dokáže kódovat bezeztrátový obsah v jakékoli kvalitě najednou. Navíc, bez jakékoli podstatné penalizace v účinnosti kódování, JPEG 2000 má schopnost přistupovat ke stejnému obsahu a účinně jej dekódovat do řady dalších rozlišení a kvalit. Toky kódu v JPEG 2000 jsou výrazně škálovatelné a mají oblasti zájmu, které poskytují možnost prostorového náhodného přístupu. Obsahuje až 16 384 různých komponent s rozměry v terapixelech a přesností, která může dosahovat až 38 bitů/vzorek.</p>
 <br/>
 Na palubě jsou následující konverze:
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,21 +1,21 @@
 ﻿---
-title: Convert from WMF to other formats Via .NET 
+title: Convert from WMF(Microsoft Windows Metafile) to other formats Via .NET image API 
 weight: 3920
 url: /net/conversion/from/wmf 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Using Aspose.Imaging you can easily convert from WMF to other formats
+description: Using Aspose.Imaging for .NET you can easily convert from WMF(Microsoft Windows Metafile) to other formats
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Image Files Conversion from WMF Via .NET" h2="Convert from WMF to other formats" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Image Files Conversion from WMF(Microsoft Windows Metafile) Via .NET image API" h2="Convert from Microsoft Windows Metafile to other formats using Aspose.Imaging API" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from WMF" %}}
-Aspose.Imaging allows automate a lot of conversions from WMF to other formats on .NET platform.
+{{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from WMF(Microsoft Windows Metafile)" %}}
+<p align=justify>Aspose.Imaging allows automate a lot of conversions from WMF to other formats on .NET platform. Files with WMF extension represent Microsoft Windows Metafile (WMF) for storing vector as well as bitmap-format images data. To be more accurate, WMF belongs to the vector file format category of Graphics file formats that is device independent. Windows Graphical Device Interface (GDI) uses the functions stored in a WMF file to display an image on the screen. A more enhanced version of WMF, known as Enhanced Meta Files (EMF), was published later that makes the format more feature rich. Practically, WMF are similar to SVG.</p>
 <br/>
-Full list of supported conversions:
+Full list of supported conversions from WMF:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

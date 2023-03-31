@@ -1,20 +1,20 @@
 ﻿---
-title: Převeďte z PNG do jiných podporovaných formátů pomocí Aspose.Imaging for Java 
+title: Převeďte z PNG(Přenosná síťová grafika) do jiných podporovaných formátů pomocí Aspose.Imaging for Java API 
 weight: 3920
 url: /cs/java/conversion/from/png 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging lze snadno převést z formátu PNG do jiných formátů pomocí platformy Java
+description: Aspose.Imaging lze snadno převést z formátu PNG(Přenosná síťová grafika) do jiných formátů pomocí platformy Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převeďte obrázky z formátu PNG pomocí Aspose.Imaging for Java" h2="Převeďte z formátu obrázku PNG do jiných formátů pomocí platformy Java" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Převeďte obrázky z formátu PNG pomocí Aspose.Imaging for Java" h2="Převeďte z formátu obrázku PNG(Přenosná síťová grafika) do jiných formátů pomocí platformy Java" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Široké spektrum obrazových formátů, které lze převést z obrázků PNG pomocí Aspose.Imaging for Java" %}}
-Můžete programově převádět z formátu PNG do jiných dostupných formátů pomocí
-Aspose.Imaging pro Javu.
+{{% blocks/products/pf/feature-page-section  h2="Široké spektrum obrazových formátů, které lze převést z obrázků PNG(Přenosná síťová grafika) pomocí Aspose.Imaging for Java" %}}
+<p align=justify>Můžete programově převádět z formátu PNG do jiných dostupných formátů pomocí
+Aspose.Imaging pro Javu. PNG, Portable Network Graphics, označuje typ formátu rastrového obrázku, který používá bezztrátovou kompresi. Tento formát souboru byl vytvořen jako náhrada za Graphics Interchange Format (GIF) a nemá žádná omezení autorských práv. Formát souboru PNG však animace nepodporuje. Formát souboru PNG podporuje bezztrátovou kompresi obrázků, díky čemuž je mezi uživateli oblíbený. Postupem času se PNG vyvinul jako jeden z nejčastěji používaných formátů obrazových souborů. Téměř všechny operační systémy podporují otevírání souborů PNG. Například prohlížeč Microsoft Windows má schopnost otevírat soubory PNG, protože OS má standardně podporu dostupnou jako součást instalace.</p>
 <br/>
 Na palubě jsou následující konverze:
 {{% /blocks/products/pf/feature-page-section %}}

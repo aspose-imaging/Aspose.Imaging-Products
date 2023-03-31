@@ -1,21 +1,21 @@
 ﻿---
-title: Convert from PNG to other formats Via .NET 
+title: Convert from PNG(Portable Network Graphics) to other formats Via .NET image API 
 weight: 3920
 url: /net/conversion/from/png 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Using Aspose.Imaging you can easily convert from PNG to other formats
+description: Using Aspose.Imaging for .NET you can easily convert from PNG(Portable Network Graphics) to other formats
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Image Files Conversion from PNG Via .NET" h2="Convert from PNG to other formats" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Image Files Conversion from PNG(Portable Network Graphics) Via .NET image API" h2="Convert from Portable Network Graphics to other formats using Aspose.Imaging API" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from PNG" %}}
-Aspose.Imaging allows automate a lot of conversions from PNG to other formats on .NET platform.
+{{% blocks/products/pf/feature-page-section  h2="All supported image formats to convert from PNG(Portable Network Graphics)" %}}
+<p align=justify>Aspose.Imaging allows automate a lot of conversions from PNG to other formats on .NET platform. PNG, Portable Network Graphics, refers to a type of raster image file format that use loseless compression. This file format was created as a replacement of Graphics Interchange Format (GIF) and has no copyright limitations. However, PNG file format does not support animations. PNG file format supports loseless image compression that makes it popular among its users. With the passage of time, PNG has evolved as one of the mostly used image file format. Almost all Operating Systems have support for opening PNG files. For example, Microsoft Windows viewer has the capability to open PNG files as the OS has by default the support available as part of installation.</p>
 <br/>
-Full list of supported conversions:
+Full list of supported conversions from PNG:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

@@ -1,20 +1,20 @@
 ﻿---
-title: Konwertuj z JPG na inne obsługiwane formaty za pomocą Aspose.Imaging for Java 
+title: Konwertuj z JPG(Wspólna Grupa Ekspertów Fotograficznych) na inne obsługiwane formaty za pomocą Aspose.Imaging for Java API 
 weight: 3920
 url: /pl/java/conversion/from/jpg 
 lang: pl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging może łatwo konwertować z formatu JPG na inne formaty przy użyciu platformy Java
+description: Aspose.Imaging może łatwo konwertować z formatu JPG(Wspólna Grupa Ekspertów Fotograficznych) na inne formaty przy użyciu platformy Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konwertuj obrazy z formatu JPG za pomocą Aspose.Imaging for Java" h2="Konwertuj z formatu obrazu JPG na inne formaty za pomocą platformy Java" downloadText="Ściągnij" >}}
+{{< blocks/products/pf/feature-page-header h1="Konwertuj obrazy z formatu JPG za pomocą Aspose.Imaging for Java" h2="Konwertuj z formatu obrazu JPG(Wspólna Grupa Ekspertów Fotograficznych) na inne formaty za pomocą platformy Java" downloadText="Ściągnij" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Szerokie spektrum formatów obrazów, które można konwertować z obrazów JPG przy użyciu Aspose.Imaging for Java" %}}
-Możesz programowo przekonwertować z formatu JPG na inne dostępne formaty za pomocą
-Aspose.Imaging dla Javy.
+{{% blocks/products/pf/feature-page-section  h2="Szerokie spektrum formatów obrazów, które można konwertować z obrazów JPG(Wspólna Grupa Ekspertów Fotograficznych) przy użyciu Aspose.Imaging for Java" %}}
+<p align=justify>Możesz programowo przekonwertować z formatu JPG na inne dostępne formaty za pomocą
+Aspose.Imaging dla Javy. JPEG to rodzaj formatu obrazu, który jest zapisywany przy użyciu metody kompresji stratnej. Obraz wyjściowy w wyniku kompresji jest kompromisem między rozmiarem pamięci a jakością obrazu. Użytkownicy mogą dostosować poziom kompresji, aby osiągnąć pożądany poziom jakości, jednocześnie zmniejszając rozmiar pamięci. Jakość obrazu ulega nieznacznemu pogorszeniu, jeśli do obrazu zostanie zastosowana kompresja 10:1. Im wyższa wartość kompresji, tym większa degradacja jakości obrazu.</p>
 <br/>
 Na pokładzie znajdują się następujące konwersje:
 {{% /blocks/products/pf/feature-page-section %}}

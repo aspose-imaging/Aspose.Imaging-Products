@@ -1,19 +1,19 @@
 ﻿---
-title: Convert images to BMP image format from other supported formats using .NET platform 
+title: Convert images to BMP(Bitmap Picture) image format from other supported formats using .NET platform 
 weight: 3920
 url: /net/conversion/to/bmp 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Using Aspose.Imaging for .NET library it is easy to convert to BMP from other supported image formats
+description: Using Aspose.Imaging for .NET library it is easy to convert to BMP(Bitmap Picture) from other supported image formats
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convert Image Files to BMP image format using .NET platform" h2="Convert to BMP format from other formats using Aspose.Imaging for .NET library" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Convert Image Files to BMP(Bitmap Picture) image format using .NET platform" h2="Convert to Bitmap Picture format from other formats using Aspose.Imaging for .NET library" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="All supported conversions to BMP format using Aspose.Imaging for .NET library" %}}
-Using Aspose.Imaging library you can programmatically convert various image formats to BMP image.
+{{% blocks/products/pf/feature-page-section  h2="All supported conversions to BMP(Bitmap Picture) format using Aspose.Imaging for .NET library" %}}
+<p align=justify>Using Aspose.Imaging library you can programmatically convert various image formats to BMP image. Files having extension .BMP represent Bitmap Image files that are used to store bitmap digital images. These images are independent of graphics adapter and are also called device independent bitmap (DIB) file format. This independency serves the purpose of opening the file on multiple platforms such as Microsoft Windows and Mac. The BMP file format can store data as two-dimensional digital images  in both monochrome as well as color format with various colour depths.</p>
 <br/>
 Following conversions are supported :
 {{% /blocks/products/pf/feature-page-section %}}

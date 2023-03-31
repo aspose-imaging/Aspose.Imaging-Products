@@ -1,21 +1,21 @@
 ﻿---
-title: Konversikan dari OTG ke format lain Melalui .NET 
+title: Konversikan dari OTG(Standar Dokumen Terbuka) ke format lain Melalui API gambar .NET 
 weight: 3920
 url: /id/net/conversion/from/otg 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi dari OTG ke format lain
+description: Menggunakan Aspose.Imaging Anda dapat dengan mudah mengonversi dari OTG(Standar Dokumen Terbuka) ke format lain
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar dari OTG Melalui .NET" h2="Konversikan dari OTG ke format lain" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Konversi File Gambar dari OTG(Standar Dokumen Terbuka) Melalui API gambar .NET" h2="Konversikan dari Standar Dokumen Terbuka ke format lain menggunakan Aspose.Imaging API" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari OTG" %}}
-Aspose.Imaging memungkinkan mengotomatiskan banyak konversi dari OTG ke format lain di platform .NET.
+{{% blocks/products/pf/feature-page-section  h2="Semua format gambar yang didukung untuk dikonversi dari OTG(Standar Dokumen Terbuka)" %}}
+<p align=justify>Aspose.Imaging memungkinkan mengotomatiskan banyak konversi dari OTG ke format lain di platform .NET. File OTG adalah template gambar yang dibuat menggunakan standar OpenDocument yang mengikuti spesifikasi OASIS Office Applications 1.0. Ini mewakili organisasi default elemen gambar untuk gambar vektor yang dapat digunakan untuk lebih menyempurnakan isi file.</p>
 <br/>
-Daftar lengkap konversi yang didukung:
+Daftar lengkap konversi yang didukung dari OTG:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

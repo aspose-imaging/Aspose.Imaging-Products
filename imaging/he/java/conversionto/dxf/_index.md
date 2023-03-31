@@ -13,7 +13,7 @@ description: באמצעות Aspose.Imaging ניתן להמיר ל-DXF מפורמ
 
 
 {{% blocks/products/pf/feature-page-section  h2="כל פורמטי התמונה הנתמכים ניתנים להמרה ל-DXF באמצעות Aspose.Imaging עבור Java" %}}
-באמצעות ספריית Aspose.Imaging אתה יכול להמיר באופן פרוגרמטי ל-DXF מפורמטים נתמכים אחרים של תמונה באמצעות פלטפורמת Java.
+<p align=justify>באמצעות ספריית Aspose.Imaging אתה יכול להמיר באופן פרוגרמטי ל-DXF מפורמטים נתמכים אחרים של תמונה באמצעות פלטפורמת Java.</p>
 <br/>
 המרות נתמכות:
 {{% /blocks/products/pf/feature-page-section %}}

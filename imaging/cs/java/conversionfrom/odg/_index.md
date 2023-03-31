@@ -1,20 +1,20 @@
 ﻿---
-title: Převeďte z ODG do jiných podporovaných formátů pomocí Aspose.Imaging for Java 
+title: Převeďte z ODG(Formát Apache OpenOffice Draw) do jiných podporovaných formátů pomocí Aspose.Imaging for Java API 
 weight: 3920
 url: /cs/java/conversion/from/odg 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging lze snadno převést z formátu ODG do jiných formátů pomocí platformy Java
+description: Aspose.Imaging lze snadno převést z formátu ODG(Formát Apache OpenOffice Draw) do jiných formátů pomocí platformy Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převeďte obrázky z formátu ODG pomocí Aspose.Imaging for Java" h2="Převeďte z formátu obrázku ODG do jiných formátů pomocí platformy Java" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Převeďte obrázky z formátu ODG pomocí Aspose.Imaging for Java" h2="Převeďte z formátu obrázku ODG(Formát Apache OpenOffice Draw) do jiných formátů pomocí platformy Java" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Široké spektrum obrazových formátů, které lze převést z obrázků ODG pomocí Aspose.Imaging for Java" %}}
-Můžete programově převádět z formátu ODG do jiných dostupných formátů pomocí
-Aspose.Imaging pro Javu.
+{{% blocks/products/pf/feature-page-section  h2="Široké spektrum obrazových formátů, které lze převést z obrázků ODG(Formát Apache OpenOffice Draw) pomocí Aspose.Imaging for Java" %}}
+<p align=justify>Můžete programově převádět z formátu ODG do jiných dostupných formátů pomocí
+Aspose.Imaging pro Javu. Formát souboru ODG používá aplikace Draw Apache OpenOffice k ukládání prvků výkresu jako vektorový obrázek. Řídí se specifikacemi formátu souborů založenými na XML, které jsou uvedeny v Advancement of Structural Information Standards (OASIS). ODG představuje kresby jako vektorové obrázky pomocí bodů, čar a křivek. Kromě OpenOffice, LibreOffice a další aplikace poskytují podporu pro práci se souborovým formátem ODG. Mezi další formáty podporované například OpenOffice patří ODT, ODF, ODP a ODS.</p>
 <br/>
 Na palubě jsou následující konverze:
 {{% /blocks/products/pf/feature-page-section %}}

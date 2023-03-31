@@ -1,20 +1,20 @@
 ﻿---
-title: قم بالتحويل من DNG إلى التنسيقات الأخرى المدعومة باستخدام Aspose.Imaging for Java 
+title: قم بالتحويل من DNG(صورة الكاميرا الرقمية) إلى التنسيقات الأخرى المدعومة باستخدام Aspose.Imaging for Java API 
 weight: 3920
 url: /ar/java/conversion/from/dng 
 lang: ar
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging يمكن تحويله بسهولة من DNG إلى تنسيقات أخرى باستخدام Java platform
+description: Aspose.Imaging يمكن تحويله بسهولة من DNG(صورة الكاميرا الرقمية) إلى تنسيقات أخرى باستخدام Java platform
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="تحويل الصور من تنسيق DNG باستخدام Aspose.Imaging for Java" h2="تحويل من تنسيق صورة DNG إلى تنسيقات أخرى باستخدام نظام Java الأساسي" downloadText="تحميل" >}}
+{{< blocks/products/pf/feature-page-header h1="تحويل الصور من تنسيق DNG باستخدام Aspose.Imaging for Java" h2="تحويل من تنسيق صورة DNG(صورة الكاميرا الرقمية) إلى تنسيقات أخرى باستخدام نظام Java الأساسي" downloadText="تحميل" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="مجموعة واسعة من تنسيقات الصور التي يمكن تحويلها من صور DNG باستخدام Aspose.Imaging for Java" %}}
-يمكنك تحويل برمجيًا من تنسيق DNG إلى تنسيقات أخرى متاحة باستخدام
-Aspose.Imaging لجافا.
+{{% blocks/products/pf/feature-page-section  h2="مجموعة واسعة من تنسيقات الصور التي يمكن تحويلها من صور DNG(صورة الكاميرا الرقمية) باستخدام Aspose.Imaging for Java" %}}
+<p align=justify>يمكنك تحويل برمجيًا من تنسيق DNG إلى تنسيقات أخرى متاحة باستخدام
+Aspose.Imaging لجافا. DNG هو تنسيق صورة كاميرا رقمية يستخدم لتخزين الملفات الأولية. تم تطويره بواسطة Adobe في سبتمبر 2004. تم تطويره بشكل أساسي للتصوير الرقمي. DNG هو امتداد لتنسيق TIFF / EP القياسي ويستخدم البيانات الوصفية بشكل كبير. من أجل معالجة البيانات الأولية من الكاميرات الرقمية بسهولة المرونة والتحكم الفني ، يختار المصورون الملفات الأولية للكاميرا. تخزن تنسيقات JPEG و TIFF الصور التي تتم معالجتها بواسطة الكاميرا ، وبالتالي لا يتوفر مجال كبير للتغيير في مثل هذه التنسيقات.</p>
 <br/>
 هناك التحويلات التالية على متن الطائرة:
 {{% /blocks/products/pf/feature-page-section %}}

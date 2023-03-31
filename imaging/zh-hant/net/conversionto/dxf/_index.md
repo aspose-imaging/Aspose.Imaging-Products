@@ -1,19 +1,19 @@
 ﻿---
-title: 使用 .NET 平台將圖像從其他支持的格式轉換為 DXF 圖像格式 
+title: 使用 .NET 平台將圖像從其他支持的格式轉換為 DXF(圖紙交換格式，或圖紙交換格式，) 圖像格式 
 weight: 3920
 url: /zh-hant/net/conversion/to/dxf 
 lang: zh-hant
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: 使用 Aspose.Imaging for .NET 庫可以輕鬆地將其他支持的圖像格式轉換為 DXF
+description: 使用 Aspose.Imaging for .NET 庫可以輕鬆地將其他支持的圖像格式轉換為 DXF(圖紙交換格式，或圖紙交換格式，)
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="使用 .NET 平台將圖像文件轉換為 DXF 圖像格式" h2="使用 Aspose.Imaging for .NET 庫從其他格式轉換為 DXF 格式" downloadText="下載" >}}
+{{< blocks/products/pf/feature-page-header h1="使用 .NET 平台將圖像文件轉換為 DXF(圖紙交換格式，或圖紙交換格式，) 圖像格式" h2="使用 Aspose.Imaging for .NET 庫從其他格式轉換為 圖紙交換格式，或圖紙交換格式， 格式" downloadText="下載" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="所有支持使用 Aspose.Imaging for .NET 庫轉換為 DXF 格式" %}}
-使用 Aspose.Imaging 庫，您可以以編程方式將各種圖像格式轉換為 DXF 圖像。
+{{% blocks/products/pf/feature-page-section  h2="所有支持使用 Aspose.Imaging for .NET 庫轉換為 DXF(圖紙交換格式，或圖紙交換格式，) 格式" %}}
+<p align=justify>使用 Aspose.Imaging 庫，您可以以編程方式將各種圖像格式轉換為 DXF 圖像。 DXF，即圖形交換格式，或圖形交換格式，是 AutoCAD 圖形文件的​​標記數據表示。文件中的每個元素都有一個前綴整數，稱為組代碼。該組代碼實際上表示後面的元素，並指示給定對像類型的數據元素的含義。 DXF 可以在圖形文件中表示幾乎所有用戶指定的信息。</p>
 <br/>
 支持以下轉換：
 {{% /blocks/products/pf/feature-page-section %}}

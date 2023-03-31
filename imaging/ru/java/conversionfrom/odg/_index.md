@@ -1,20 +1,20 @@
 ﻿---
-title: Преобразование из ODG в другие поддерживаемые форматы с помощью Aspose.Imaging for Java 
+title: Преобразование из ODG(Формат отрисовки Apache OpenOffice) в другие поддерживаемые форматы с помощью Aspose.Imaging for Java API 
 weight: 3920
 url: /ru/java/conversion/from/odg 
 lang: ru
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging может легко конвертировать из ODG в другие форматы с помощью платформы Java.
+description: Aspose.Imaging может легко конвертировать из ODG(Формат отрисовки Apache OpenOffice) в другие форматы с помощью платформы Java.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Преобразование изображений из формата ODG с помощью Aspose.Imaging for Java" h2="Преобразование из формата изображения ODG в другие форматы с использованием платформы Java" downloadText="Скачать" >}}
+{{< blocks/products/pf/feature-page-header h1="Преобразование изображений из формата ODG с помощью Aspose.Imaging for Java" h2="Преобразование из формата изображения ODG(Формат отрисовки Apache OpenOffice) в другие форматы с использованием платформы Java" downloadText="Скачать" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Спектр форматов изображений, которые можно преобразовать из изображений ODG с помощью Aspose.Imaging for Java." %}}
-Вы можете программно преобразовать формат ODG в другие доступные форматы, используя
-Aspose.Imaging for Java.
+{{% blocks/products/pf/feature-page-section  h2="Спектр форматов изображений, которые можно преобразовать из изображений ODG(Формат отрисовки Apache OpenOffice) с помощью Aspose.Imaging for Java." %}}
+<p align=justify>Вы можете программно преобразовать формат ODG в другие доступные форматы, используя
+Aspose.Imaging for Java. Формат файла ODG используется приложением Draw Apache OpenOffice для хранения элементов чертежа в виде векторного изображения. Он следует спецификациям формата файлов на основе XML, изложенным в Улучшении стандартов структурной информации (OASIS). ODG представляет рисунки в виде векторных изображений с использованием точек, линий и кривых. Помимо OpenOffice, LibreOffice и другие приложения также поддерживают работу с форматом файлов ODG. Другие форматы, поддерживаемые OpenOffice, например, включают ODT, ODF, ODP и ODS.</p>
 <br/>
 Представлены следующие трансформации:
 {{% /blocks/products/pf/feature-page-section %}}

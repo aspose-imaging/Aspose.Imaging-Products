@@ -1,21 +1,21 @@
 ﻿---
-title: Convertir de CDR vers d'autres formats via .NET 
+title: Convierta de CDR(Imagen de dibujo vectorial) a otros formatos a través de la API de imágenes .NET 
 weight: 3920
 url: /es/net/conversion/from/cdr 
 lang: es
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging puede convertir fácilmente de CDR a otros formatos
+description: Usando Aspose.Imaging puede convertir fácilmente de CDR(Imagen de dibujo vectorial) a otros formatos
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Conversión de archivos de imagen de CDR a través de .NET" h2="Convertir de CDR a otros formatos" downloadText="Descargar" >}}
+{{< blocks/products/pf/feature-page-header h1="Conversión de archivos de imagen de CDR(Imagen de dibujo vectorial) a través de la API de imagen .NET" h2="Convierta de Imagen de dibujo vectorial a otros formatos usando Aspose.Imaging API" downloadText="Descargar" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos los formatos de imagen admitidos para convertir desde CDR" %}}
-Aspose.Imaging permite automatizar muchas conversiones de CDR a otros formatos en la plataforma .NET.
+{{% blocks/products/pf/feature-page-section  h2="Todos los formatos de imagen admitidos para convertir desde CDR(Imagen de dibujo vectorial)" %}}
+<p align=justify>Aspose.Imaging permite automatizar muchas conversiones de CDR a otros formatos en la plataforma .NET. Un archivo CDR es un archivo de imagen de dibujo vectorial que se crea de forma nativa con CorelDRAW para almacenar imágenes digitales codificadas y comprimidas. Dicho archivo de dibujo contiene texto, líneas, formas, imágenes, colores y efectos para la representación vectorial del contenido de la imagen. Los archivos CDR se pueden abrir con CorelDRAW como aplicación principal y también se pueden convertir a otros formatos como PDF, JPG, PNG, BMP y AI. Se puede utilizar para la representación de varios datos gráficos como folletos, tabloides, sobres y postales. Además de CorelDRAW, otros productos de Corel como Corel Paintshop Pro y CorelDRAW Graphics Suite también pueden abrir los formatos de archivo CDR.</p>
 <br/>
-Lista completa de conversiones admitidas:
+Lista completa de conversiones admitidas de CDR:
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">

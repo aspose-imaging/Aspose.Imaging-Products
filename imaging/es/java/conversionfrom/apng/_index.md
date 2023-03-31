@@ -1,20 +1,20 @@
 ﻿---
-title: Convierta de APNG a otros formatos admitidos usando Aspose.Imaging para Java 
+title: Convierta de APNG(Gráficos de red portátiles animados) a otros formatos admitidos usando Aspose.Imaging para Java API. 
 weight: 3920
 url: /es/java/conversion/from/apng 
 lang: es
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging puede convertir fácilmente de APNG a otros formatos usando la plataforma Java
+description: Aspose.Imaging puede convertir fácilmente de APNG(Gráficos de red portátiles animados) a otros formatos usando la plataforma Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Convierta imágenes del formato APNG usando Aspose.Imaging para Java" h2="Convierta del formato de imagen APNG a otros formatos utilizando la plataforma Java" downloadText="Descargar" >}}
+{{< blocks/products/pf/feature-page-header h1="Convierta imágenes del formato APNG usando Aspose.Imaging para Java" h2="Convierta del formato de imagen APNG(Gráficos de red portátiles animados) a otros formatos utilizando la plataforma Java" downloadText="Descargar" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Amplio espectro de formatos de imagen que se pueden convertir a partir de imágenes APNG usando Aspose.Imaging para Java" %}}
-Puede convertir programáticamente del formato APNG a otros formatos disponibles usando
-Aspose. Imaging para Java.
+{{% blocks/products/pf/feature-page-section  h2="Amplio espectro de formatos de imagen que se pueden convertir a partir de imágenes APNG(Gráficos de red portátiles animados) usando Aspose.Imaging para Java" %}}
+<p align=justify>Puede convertir programáticamente del formato APNG a otros formatos disponibles usando
+Aspose. Imaging para Java. Un archivo con la extensión .apng (Animated Portable Network Graphics) es un formato gráfico de trama y es una extensión no oficial de Portable Network Graphic (PNG). Se compone de múltiples fotogramas (cada uno de imagen PNG) que representa una secuencia de animación. Esto proporciona una visualización similar a la de un archivo GIF. Los archivos APNG admiten imágenes de 24 bits y transparencia de 8 bits. APNG es compatible con versiones anteriores de archivos GIF no animados. Los archivos APNG usan la misma extensión .png y pueden abrirse con aplicaciones como Mozilla Firefox, Chrome con compatibilidad con APNG, aplicaciones de iMessage para iOS 10.</p>
 <br/>
 Hay las siguientes conversiones a bordo:
 {{% /blocks/products/pf/feature-page-section %}}

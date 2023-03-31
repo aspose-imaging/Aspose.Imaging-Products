@@ -1,20 +1,20 @@
 ﻿---
-title: Převeďte z DNG do jiných podporovaných formátů pomocí Aspose.Imaging for Java 
+title: Převeďte z DNG(Obrázek z digitálního fotoaparátu) do jiných podporovaných formátů pomocí Aspose.Imaging for Java API 
 weight: 3920
 url: /cs/java/conversion/from/dng 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging lze snadno převést z formátu DNG do jiných formátů pomocí platformy Java
+description: Aspose.Imaging lze snadno převést z formátu DNG(Obrázek z digitálního fotoaparátu) do jiných formátů pomocí platformy Java
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Převeďte obrázky z formátu DNG pomocí Aspose.Imaging for Java" h2="Převeďte z formátu obrázku DNG do jiných formátů pomocí platformy Java" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Převeďte obrázky z formátu DNG pomocí Aspose.Imaging for Java" h2="Převeďte z formátu obrázku DNG(Obrázek z digitálního fotoaparátu) do jiných formátů pomocí platformy Java" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Široké spektrum obrazových formátů, které lze převést z obrázků DNG pomocí Aspose.Imaging for Java" %}}
-Můžete programově převádět z formátu DNG do jiných dostupných formátů pomocí
-Aspose.Imaging pro Javu.
+{{% blocks/products/pf/feature-page-section  h2="Široké spektrum obrazových formátů, které lze převést z obrázků DNG(Obrázek z digitálního fotoaparátu) pomocí Aspose.Imaging for Java" %}}
+<p align=justify>Můžete programově převádět z formátu DNG do jiných dostupných formátů pomocí
+Aspose.Imaging pro Javu. DNG je obrazový formát digitálního fotoaparátu používaný pro ukládání nezpracovaných souborů. Byl vyvinut společností Adobe v září 2004. V podstatě byl vyvinut pro digitální fotografii. DNG je rozšířením standardního formátu TIFF/EP a významně využívá metadata. Aby mohli fotografové manipulovat s nezpracovanými daty z digitálních fotoaparátů se snadnou flexibilitou a uměleckým ovládáním, volí soubory camera raw. Formáty JPEG a TIFF ukládají snímky, které zpracovává fotoaparát, proto v těchto formátech není k dispozici mnoho prostoru pro úpravy.</p>
 <br/>
 Na palubě jsou následující konverze:
 {{% /blocks/products/pf/feature-page-section %}}
