@@ -1,6 +1,6 @@
 ﻿
 ---
-title: Перетворення форматів зображень C# | products.aspose.com 
+title: Перетворення форматів зображень C# 
 weight: 3920
 url: /uk/net/conversion 
 lang: uk
@@ -231,5 +231,4 @@ description: Перетворюйте популярні формати зобр
         </div>
     </div>
 </div>
-<br/>
 

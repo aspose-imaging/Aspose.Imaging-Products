@@ -231,5 +231,4 @@ Aşağıda, dönüştürebileceğiniz görüntü biçimlerinin tam listesi sunul
         </div>
     </div>
 </div>
-<br/>
 

@@ -1,6 +1,6 @@
 ﻿
 ---
-title: C# 圖像格式轉換 |產品.aspose.com 
+title: C# 圖像格式轉換 
 weight: 3920
 url: /zh-hant/net/conversion 
 lang: zh-hant
@@ -231,5 +231,4 @@ SVG的轉換過程是一樣的，加載SVG文件，使用相關的圖片保存�
         </div>
     </div>
 </div>
-<br/>
 

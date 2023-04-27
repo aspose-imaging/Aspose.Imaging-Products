@@ -231,5 +231,4 @@ Nedan presenteras en fullständig lista över bildformat som du kan konvertera f
         </div>
     </div>
 </div>
-<br/>
 

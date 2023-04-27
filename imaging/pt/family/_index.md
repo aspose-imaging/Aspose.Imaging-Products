@@ -30,6 +30,10 @@ Converta imagens no SharePoint Foundation ou Server.
 Exporte relatórios para vários formatos de imagem do JasperReports.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Imaging for" title="Python via .NET" imgSrc="/imaging/images/imaging/aspose_imaging-for-python-net.svg" productLink="/imaging/pt/python-net/" >}}
+Carregue, crie, salve e manipule diferentes formatos de arquivo de imagem usando Python.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

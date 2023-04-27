@@ -231,5 +231,4 @@ Níže je uveden úplný seznam obrazových formátů, ze kterých můžete pře
         </div>
     </div>
 </div>
-<br/>
 

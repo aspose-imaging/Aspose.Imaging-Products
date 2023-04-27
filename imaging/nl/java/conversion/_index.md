@@ -231,5 +231,4 @@ Hieronder vindt u een volledige lijst van de afbeeldingsindelingen waaruit u kun
         </div>
     </div>
 </div>
-<br/>
 

@@ -1,6 +1,6 @@
 ﻿
 ---
-title: Chuyển đổi định dạng hình ảnh C # | products.aspose.com 
+title: Chuyển đổi định dạng hình ảnh C # 
 weight: 3920
 url: /vi/net/conversion 
 lang: vi
@@ -231,5 +231,4 @@ Dưới đây là danh sách đầy đủ các định dạng hình ảnh mà b�
         </div>
     </div>
 </div>
-<br/>
 

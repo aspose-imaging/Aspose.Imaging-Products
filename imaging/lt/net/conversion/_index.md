@@ -1,6 +1,6 @@
 ﻿
 ---
-title: C# vaizdo formatų konvertavimas | products.aspose.com 
+title: C# vaizdo formatų konvertavimas 
 weight: 3920
 url: /lt/net/conversion 
 lang: lt
@@ -231,5 +231,4 @@ Tālāk ir parādīts pilns to attēlu formātu saraksts, kurus varat konvertēt
         </div>
     </div>
 </div>
-<br/>
 

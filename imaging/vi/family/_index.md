@@ -30,6 +30,10 @@ Chuyển đổi hình ảnh trong SharePoint Foundation hoặc Server.
 Xuất báo cáo sang nhiều định dạng hình ảnh từ JasperReports.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Imaging for" title="Python via .NET" imgSrc="/imaging/images/imaging/aspose_imaging-for-python-net.svg" productLink="/imaging/vi/python-net/" >}}
+Tải, tạo, lưu và thao tác với các định dạng tệp hình ảnh khác nhau bằng Python.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

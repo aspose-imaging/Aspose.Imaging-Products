@@ -30,6 +30,10 @@ description: Создавайте, управляйте и преобразов�
 Экспортируйте отчеты в различные форматы изображений из JasperReports.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Imaging for" title="Python via .NET" imgSrc="/imaging/images/imaging/aspose_imaging-for-python-net.svg" productLink="/imaging/ru/python-net/" >}}
+Загружайте, создавайте, сохраняйте и управляйте различными форматами файлов изображений с помощью Python.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

@@ -30,6 +30,10 @@ SharePoint Foundation veya Server'daki görüntüleri dönüştürün.
 Raporları JasperReports'tan birden çok görüntü formatına aktarın.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Imaging for" title="Python via .NET" imgSrc="/imaging/images/imaging/aspose_imaging-for-python-net.svg" productLink="/imaging/tr/python-net/" >}}
+Python kullanarak farklı görüntü dosya biçimlerini yükleyin, oluşturun, kaydedin ve değiştirin.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

@@ -30,6 +30,10 @@ description: 使用 .NET Java 和 SharePoint 应用程序中的相关库创建�
 从 JasperReports 将报告导出为多种图像格式。
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Imaging for" title="Python via .NET" imgSrc="/imaging/images/imaging/aspose_imaging-for-python-net.svg" productLink="/imaging/zh-hans/python-net/" >}}
+使用 Python 加载、创建、保存和操作不同的图像文件格式。
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

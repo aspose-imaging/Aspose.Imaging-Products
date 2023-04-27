@@ -1,6 +1,6 @@
 ﻿
 ---
-title: C# המרת פורמטים של תמונה | products.aspose.com 
+title: C# המרת פורמטים של תמונה 
 weight: 3920
 url: /he/net/conversion 
 lang: he
@@ -231,5 +231,4 @@ description: המר פורמטים פופולריים של תמונה, תמונ�
         </div>
     </div>
 </div>
-<br/>
 

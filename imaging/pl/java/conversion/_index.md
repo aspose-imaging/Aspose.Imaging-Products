@@ -231,5 +231,4 @@ Poniżej znajduje się pełna lista formatów graficznych, z których możesz do
         </div>
     </div>
 </div>
-<br/>
 

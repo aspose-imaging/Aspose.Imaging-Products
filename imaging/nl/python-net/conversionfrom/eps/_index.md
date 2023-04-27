@@ -1,0 +1,31 @@
+﻿---
+title: Gebruik Aspose.Imaging voor Python via .NET om van EPS naar verschillende andere toegestane formaten te converteren 
+weight: 3920
+url: /nl/python-net/conversion/from/eps 
+lang: nl
+langdirlevel: 2
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
+description: U kunt snel transformeren van EPS(Encapsulated PostScript-taal) naar verschillende formaten met behulp van Aspose.Imaging voor Python via .NET.
+---
+
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="Aspose.Imaging voor Python gebruiken via .NET om afbeeldingen van EPS te converteren" h2="Gebruik Python om afbeeldingen van EPS (Encapsulated PostScript-taal) naar verschillende formaten te converteren" downloadText="Downloaden" >}}
+
+
+{{% blocks/products/pf/feature-page-section  h2="Aspose kan EPS-afbeeldingen converteren naar een grote verscheidenheid aan afbeeldingsindelingen met behulp van Aspose.Imaging voor Python via .NET." %}}
+<p align=justify>Met Aspose kunt u automatisch transformeren tussen de EPS-indeling en andere meegeleverde indelingen met Aspose.Imaging voor Python via .NET. Bestanden met de extensie EPS beschrijven in wezen een Encapsulated PostScript-taalprogramma dat het uiterlijk van een enkele pagina beschrijft. De naam "Encapsulated" omdat deze kan worden opgenomen of ingekapseld in een paginabeschrijving van een andere PostScript-taal. Deze op scripts gebaseerde bestandsindeling kan elke combinatie van tekst, afbeeldingen en afbeeldingen bevatten. EPS-bestanden kunnen een voorbeeldafbeelding van een bitmap bevatten die is ingekapseld voor weergave door toepassingen die dergelijke bestanden kunnen openen. EPS-bestanden kunnen worden geconverteerd naar standaard afbeeldingsformaten zoals JPG, PNG, TIFF en PDF met behulp van verschillende toepassingen, b.v. Adobe Illustrator, Photoshop en PaintShop Pro. Vanwege een beveiligingsprobleem in EPS-bestanden hebben Office 2016, Office 2013, Office 2010 en Office 365 de mogelijkheid uitgeschakeld om EPS-bestanden in Office-documenten in te voegen.</p>
+<br/>
+Complete set van mogelijke conversies van EPS:
+{{% /blocks/products/pf/feature-page-section %}}
+<div class="container-fluid productfamilypage bg-gray">
+    <div class="convertypes bg-gray agp-content section">
+        <div class="container">
+		<hr style="margin-left:-20px;"/>
+		<div class="row other-converters">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/eps-to-bmp" >EPS tot BMP</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/eps-to-gif" >EPS tot GIF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/eps-to-dicom" >EPS tot DICOM</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/eps-to-emf" >EPS tot EMF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/eps-to-jpg" >EPS tot JPG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/eps-to-jpeg" >EPS tot JPEG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/eps-to-jp2" >EPS tot JP2</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/eps-to-j2k" >EPS tot J2K</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/eps-to-jpeg2000" >EPS tot JPEG2000</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/eps-to-png" >EPS tot PNG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/eps-to-apng" >EPS tot APNG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/eps-to-psd" >EPS tot PSD</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/eps-to-dxf" >EPS tot DXF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/eps-to-svg" >EPS tot SVG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/eps-to-tiff" >EPS tot TIFF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/eps-to-webp" >EPS tot WEBP</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/eps-to-wmf" >EPS tot WMF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/eps-to-pdf" >EPS tot PDF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/eps-to-html" >EPS tot HTML</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/eps-to-emz" >EPS tot EMZ</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/eps-to-wmz" >EPS tot WMZ</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/eps-to-tga" >EPS tot TGA</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/eps-to-svgz" >EPS tot SVGZ</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/eps-to-canvas" >EPS tot CANVAS</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/eps-to-ico" >EPS tot ICO</a></div>
+                </div>
+        </div>
+    </div>
+</div>
+<br/>
+

@@ -1,6 +1,6 @@
 ﻿
 ---
-title: Преобразование форматов изображений C# | products.aspose.com 
+title: Преобразование форматов изображений C# 
 weight: 3920
 url: /ru/net/conversion 
 lang: ru
@@ -231,5 +231,4 @@ description: Преобразование популярных форматов 
         </div>
     </div>
 </div>
-<br/>
 

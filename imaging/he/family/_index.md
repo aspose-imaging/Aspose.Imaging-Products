@@ -30,6 +30,10 @@ description: צור מניפולציות והמר תמונות באמצעות ס
 ייצוא דוחות למספר פורמטים של תמונות מ-JasperReports.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Imaging for" title="Python via .NET" imgSrc="/imaging/images/imaging/aspose_imaging-for-python-net.svg" productLink="/imaging/he/python-net/" >}}
+טען, צור, שמור ותפעל בפורמטים שונים של קבצי תמונה באמצעות Python.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

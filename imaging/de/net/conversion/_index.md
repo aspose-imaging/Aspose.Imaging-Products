@@ -1,6 +1,6 @@
 ﻿
 ---
-title: Konvertierung von C#-Bildformaten | products.aspose.com 
+title: Konvertierung von C#-Bildformaten 
 weight: 3920
 url: /de/net/conversion 
 lang: de
@@ -231,5 +231,4 @@ Nachfolgend finden Sie eine vollständige Liste der Bildformate, aus denen Sie k
         </div>
     </div>
 </div>
-<br/>
 
