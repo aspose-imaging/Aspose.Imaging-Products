@@ -1,0 +1,31 @@
+﻿---
+title: Utilisez Aspose.Imaging pour Python via .NET pour convertir de DNG vers divers formats supplémentaires autorisés 
+weight: 3920
+url: /fr/python-net/conversion/from/dng 
+lang: fr
+langdirlevel: 2
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
+description: Vous pouvez rapidement transformer de DNG(Image d'appareil photo numérique) en différents formats en utilisant Aspose.Imaging pour Python via .NET.
+---
+
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="Comment utiliser Aspose.Imaging pour Python via .NET pour convertir des images à partir de DNG" h2="Utilisez Python pour convertir des images de DNG (Image d'appareil photo numérique) vers différents formats" downloadText="Télécharger" >}}
+
+
+{{% blocks/products/pf/feature-page-section  h2="Aspose peut convertir des images DNG en une grande variété de formats d'image à l'aide d'Aspose.Imaging pour Python par .NET." %}}
+<p align=justify>À l'aide d'Aspose, vous pouvez effectuer automatiquement une transformation entre le format DNG et d'autres formats fournis à l'aide d'Aspose.Imaging pour Python via .NET. DNG est un format d'image d'appareil photo numérique utilisé pour le stockage de fichiers bruts. Il a été développé par Adobe en septembre 2004. Il a été essentiellement développé pour la photographie numérique. DNG est une extension du format standard TIFF/EP et utilise les métadonnées de manière significative. Afin de manipuler les données brutes des appareils photo numériques avec une grande souplesse et un contrôle artistique, les photographes optent pour les fichiers Camera Raw. Les formats JPEG et TIFF stockent des images qui sont traitées par l'appareil photo, donc peu de place pour la modification est disponible dans ces formats.</p>
+<br/>
+Ensemble complet de conversions possibles à partir de DNG :
+{{% /blocks/products/pf/feature-page-section %}}
+<div class="container-fluid productfamilypage bg-gray">
+    <div class="convertypes bg-gray agp-content section">
+        <div class="container">
+		<hr style="margin-left:-20px;"/>
+		<div class="row other-converters">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/dng-to-bmp" >DNG à BMP</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/dng-to-gif" >DNG à GIF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/dng-to-dicom" >DNG à DICOM</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/dng-to-emf" >DNG à EMF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/dng-to-jpg" >DNG à JPG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/dng-to-jpeg" >DNG à JPEG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/dng-to-jp2" >DNG à JP2</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/dng-to-j2k" >DNG à J2K</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/dng-to-jpeg2000" >DNG à JPEG2000</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/dng-to-png" >DNG à PNG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/dng-to-apng" >DNG à APNG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/dng-to-psd" >DNG à PSD</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/dng-to-dxf" >DNG à DXF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/dng-to-svg" >DNG à SVG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/dng-to-tiff" >DNG à TIFF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/dng-to-webp" >DNG à WEBP</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/dng-to-wmf" >DNG à WMF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/dng-to-pdf" >DNG à PDF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/dng-to-html" >DNG à HTML</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/dng-to-emz" >DNG à EMZ</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/dng-to-wmz" >DNG à WMZ</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/dng-to-tga" >DNG à TGA</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/dng-to-svgz" >DNG à SVGZ</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/dng-to-canvas" >DNG à CANVAS</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/dng-to-ico" >DNG à ICO</a></div>
+                </div>
+        </div>
+    </div>
+</div>
+<br/>
+

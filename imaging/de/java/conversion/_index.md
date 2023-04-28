@@ -231,5 +231,4 @@ Nachfolgend finden Sie eine vollständige Liste der Bildformate, aus denen Sie k
         </div>
     </div>
 </div>
-<br/>
 

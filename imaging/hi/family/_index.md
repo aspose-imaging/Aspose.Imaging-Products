@@ -30,6 +30,10 @@ description: .NET Java और SharePoint अनुप्रयोगों क�
 JasperReports से कई छवि प्रारूपों में रिपोर्ट निर्यात करें।
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Imaging for" title="Python via .NET" imgSrc="/imaging/images/imaging/aspose_imaging-for-python-net.svg" productLink="/imaging/hi/python-net/" >}}
+पायथन का उपयोग करके विभिन्न छवि फ़ाइल स्वरूपों को लोड, बनाएं, सहेजें और हेरफेर करें।
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

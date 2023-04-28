@@ -9,10 +9,10 @@ description: Java画像処理および操作ライブラリ。ロードビュー
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1="画像処理用のJavaライブラリとAPI" h2="画像エディタを必要とせずに、画像を作成、ロード、操作、または変換します。" downloadFreeTrialText="無料トライアルをダウンロード" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/headers/aspose_imaging-for-java.svg"  pfName="Aspose.Imaging" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/imaging/java" >}}
+{{< blocks/products/pf/upper-banner h1="画像処理用のJavaライブラリとAPI" h2="画像エディタを必要とせずに、画像を作成、ロード、操作、または変換します。" downloadFreeTrialText="無料トライアルをダウンロード" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-java.svg"  pfName="Aspose.Imaging" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/imaging/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Java" >}}
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" 
+{{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-java.svg" 
 liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://purchase.aspose.com/pricing/imaging/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/imaging/java" installationsDocsLink="https://docs.aspose.com/imaging/java/installation" mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-imaging/" directDownloadLink="https://downloads.aspose.com/imaging/java" liveDemosText="ライブデモ" overviewText="概要" featuresText="特徴" resourcesText="資力" pricingText="価格設定" downloadText="ダウンロード" learnText="学び" buyText="買う" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="で" carousel1Text2="一目" carousel2Text1="プラットホーム" carousel2Text2="独立" carousel3Text1="サポートされているファイル" carousel3Text2="フォーマット">}}
@@ -117,7 +117,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="画像JavaAPI" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg"/>
+  <img width="70" height="75" alt="画像JavaAPI" src="/imaging/images/imaging/aspose_imaging-for-java.svg"/>
   <header>
    Aspose.Imaging
   </header>
@@ -161,7 +161,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Java 画像処理API" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg"/>
+  <img width="70" height="75" alt="Java 画像処理API" src="/imaging/images/imaging/aspose_imaging-for-java.svg"/>
   <header>
    Aspose.Imaging
   </header>
@@ -193,7 +193,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
      <b>
       ラスター形式:
      </b>
-     JPEG2000, JPEG, BMP, TIFF, GIF, PNG, DICOM, TGA, ICO
+     JPEG2000, JPEG, BMP, TIFF, BIGTIFF, GIF, PNG, DICOM, TGA, ICO
     </li>
     <li>
      <b>
@@ -284,7 +284,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="画像プロセッサC＃写真の編集画像の編集" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg"/>
+  <img width="70" height="75" alt="画像プロセッサC＃写真の編集画像の編集" src="/imaging/images/imaging/aspose_imaging-for-java.svg"/>
   <header>
    Aspose.Imaging
   </header>
@@ -382,7 +382,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
     <em class="fa fa-road ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-    <a href="/imaging/ja/java/remove-background/">
+    <a href="/imaging/ja/java/remove-background/">    
      背景を削除
     </a>
     </p>
@@ -422,7 +422,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
     </em>
     <p class="col-lg-10">
      <a href="/imaging/ja/java/watermark/">
-     画像に透かしを追加する
+     画像に透かしを追加する     
      </a>
     </p>
    </div>
@@ -623,9 +623,9 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Imaging " description="Aspose.Imagingは、以下に示すように、他の一般的な開発環境向けに個別のイメージングAPIを提供します。" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/imaging/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" sdkName="Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/imaging/sharepoint/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg" sdkName="SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/imaging/jasperreports/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-jasperreports.svg" sdkName="JasperReports" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/java/" imgSrc="/imaging/images/imaging/aspose_imaging-for-java.svg" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/sharepoint/" imgSrc="/imaging/images/imaging/aspose_imaging-for-sharepoint.svg" sdkName="SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/jasperreports/" imgSrc="/imaging/images/imaging/aspose_imaging-for-jasperreports.svg" sdkName="JasperReports" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

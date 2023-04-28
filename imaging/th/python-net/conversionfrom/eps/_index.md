@@ -1,0 +1,31 @@
+﻿---
+title: ใช้ Aspose.Imaging สำหรับ Python ผ่าน .NET เพื่อแปลงจาก EPS เป็นรูปแบบเพิ่มเติมที่อนุญาต 
+weight: 3920
+url: /th/python-net/conversion/from/eps 
+lang: th
+langdirlevel: 2
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
+description: คุณสามารถแปลงจาก EPS(ภาษา PostScript ที่ห่อหุ้ม) เป็นรูปแบบต่างๆ ได้อย่างรวดเร็วโดยใช้ Aspose.Imaging สำหรับ Python ผ่าน .NET
+---
+
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="วิธีใช้ Aspose.Imaging สำหรับ Python ผ่าน .NET เพื่อแปลงรูปภาพจาก EPS" h2="ใช้ Python เพื่อแปลงรูปภาพจาก EPS (ภาษา PostScript ที่ห่อหุ้ม) เป็นรูปแบบต่างๆ" downloadText="ดาวน์โหลด" >}}
+
+
+{{% blocks/products/pf/feature-page-section  h2="Aspose สามารถแปลงรูปภาพ EPS เป็นรูปแบบรูปภาพที่หลากหลายโดยใช้ Aspose.Imaging สำหรับ Python ผ่าน .NET" %}}
+<p align=justify>เมื่อใช้ Aspose คุณจะแปลงระหว่างรูปแบบ EPS กับรูปแบบอื่นๆ ที่ให้มาโดยอัตโนมัติได้โดยใช้ Aspose.Imaging สำหรับ Python ผ่าน .NET ไฟล์ที่มีนามสกุล EPS จะอธิบายโปรแกรมภาษา PostScript แบบห่อหุ้มที่อธิบายลักษณะที่ปรากฏของหน้าเดียว ชื่อ "Encapsulated" เนื่องจากสามารถรวมหรือห่อหุ้มไว้ในคำอธิบายหน้าภาษา PostScript อื่นได้ รูปแบบไฟล์ที่ใช้สคริปต์นี้อาจมีข้อความ กราฟิก และรูปภาพผสมกัน ไฟล์ EPS อาจมีภาพตัวอย่างบิตแมปที่ห่อหุ้มไว้ด้านในเพื่อแสดงโดยแอปพลิเคชันที่สามารถเปิดไฟล์ดังกล่าวได้ ไฟล์ EPS สามารถแปลงเป็นรูปแบบภาพมาตรฐานได้ เช่น JPG, PNG, TIFF และ PDF โดยใช้แอปพลิเคชันต่างๆ เช่น Adobe Illustrator, Photoshop และ PaintShop Pro เนื่องจากช่องโหว่ด้านความปลอดภัยในไฟล์ EPS Office 2016, Office 2013, Office 2010 และ Office 365 ได้ปิดความสามารถในการแทรกไฟล์ EPS ลงในเอกสาร Office</p>
+<br/>
+ชุดที่เป็นไปได้ทั้งหมดจาก EPS Conversion:
+{{% /blocks/products/pf/feature-page-section %}}
+<div class="container-fluid productfamilypage bg-gray">
+    <div class="convertypes bg-gray agp-content section">
+        <div class="container">
+		<hr style="margin-left:-20px;"/>
+		<div class="row other-converters">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/eps-to-bmp" >EPS ถึง BMP</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/eps-to-gif" >EPS ถึง GIF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/eps-to-dicom" >EPS ถึง DICOM</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/eps-to-emf" >EPS ถึง EMF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/eps-to-jpg" >EPS ถึง JPG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/eps-to-jpeg" >EPS ถึง JPEG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/eps-to-jp2" >EPS ถึง JP2</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/eps-to-j2k" >EPS ถึง J2K</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/eps-to-jpeg2000" >EPS ถึง JPEG2000</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/eps-to-png" >EPS ถึง PNG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/eps-to-apng" >EPS ถึง APNG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/eps-to-psd" >EPS ถึง PSD</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/eps-to-dxf" >EPS ถึง DXF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/eps-to-svg" >EPS ถึง SVG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/eps-to-tiff" >EPS ถึง TIFF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/eps-to-webp" >EPS ถึง WEBP</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/eps-to-wmf" >EPS ถึง WMF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/eps-to-pdf" >EPS ถึง PDF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/eps-to-html" >EPS ถึง HTML</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/eps-to-emz" >EPS ถึง EMZ</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/eps-to-wmz" >EPS ถึง WMZ</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/eps-to-tga" >EPS ถึง TGA</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/eps-to-svgz" >EPS ถึง SVGZ</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/eps-to-canvas" >EPS ถึง CANVAS</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/eps-to-ico" >EPS ถึง ICO</a></div>
+                </div>
+        </div>
+    </div>
+</div>
+<br/>
+

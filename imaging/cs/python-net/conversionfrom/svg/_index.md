@@ -1,0 +1,31 @@
+﻿---
+title: Použijte Aspose.Imaging pro Python přes .NET k převodu z SVG na různé další povolené formáty 
+weight: 3920
+url: /cs/python-net/conversion/from/svg 
+lang: cs
+langdirlevel: 2
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
+description: Pomocí Aspose.Imaging pro Python přes .NET můžete rychle transformovat z SVG(Škálovatelná vektorová grafika) do různých formátů.
+---
+
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="Jak používat Aspose.Imaging pro Python přes .NET k převodu obrázků z SVG" h2="Použijte Python k převodu obrázků z SVG (Škálovatelná vektorová grafika) do různých různých formátů" downloadText="Stažení" >}}
+
+
+{{% blocks/products/pf/feature-page-section  h2="Aspose dokáže pomocí Aspose.Imaging pro Python převést obrázky ve formátu SVG do velkého množství obrazových formátů přes .NET." %}}
+<p align=justify>Pomocí Aspose můžete pomocí Aspose.Imaging pro Python přes .NET automaticky transformovat mezi formátem SVG a dalšími dodávanými formáty. Soubory SVG jsou soubory škálovatelné vektorové grafiky, které k popisu vzhledu obrázku používají textový formát založený na XML. Slovo Scalable odkazuje na skutečnost, že SVG lze škálovat na různé velikosti bez ztráty kvality. Textový popis těchto souborů je činí nezávislými na rozlišení. Je to jeden z nejčastěji používaných formátů pro tvorbu webových stránek a tiskové grafiky za účelem dosažení škálovatelnosti. Formát lze použít pouze pro dvourozměrnou grafiku. Soubory SVG lze prohlížet/otvírat téměř ve všech moderních prohlížečích včetně Chrome, Internet Explorer, Firefox a Safari.</p>
+<br/>
+Kompletní sada možných konverzí z SVG:
+{{% /blocks/products/pf/feature-page-section %}}
+<div class="container-fluid productfamilypage bg-gray">
+    <div class="convertypes bg-gray agp-content section">
+        <div class="container">
+		<hr style="margin-left:-20px;"/>
+		<div class="row other-converters">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/python-net/conversion/svg-to-bmp" >SVG na BMP</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/python-net/conversion/svg-to-gif" >SVG na GIF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/python-net/conversion/svg-to-dicom" >SVG na DICOM</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/python-net/conversion/svg-to-emf" >SVG na EMF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/python-net/conversion/svg-to-jpg" >SVG na JPG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/python-net/conversion/svg-to-jpeg" >SVG na JPEG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/python-net/conversion/svg-to-jp2" >SVG na JP2</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/python-net/conversion/svg-to-j2k" >SVG na J2K</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/python-net/conversion/svg-to-jpeg2000" >SVG na JPEG2000</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/python-net/conversion/svg-to-png" >SVG na PNG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/python-net/conversion/svg-to-apng" >SVG na APNG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/python-net/conversion/svg-to-psd" >SVG na PSD</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/python-net/conversion/svg-to-dxf" >SVG na DXF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/python-net/conversion/svg-to-tiff" >SVG na TIFF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/python-net/conversion/svg-to-webp" >SVG na WEBP</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/python-net/conversion/svg-to-wmf" >SVG na WMF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/python-net/conversion/svg-to-pdf" >SVG na PDF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/python-net/conversion/svg-to-html" >SVG na HTML</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/python-net/conversion/svg-to-emz" >SVG na EMZ</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/python-net/conversion/svg-to-wmz" >SVG na WMZ</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/python-net/conversion/svg-to-tga" >SVG na TGA</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/python-net/conversion/svg-to-svgz" >SVG na SVGZ</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/python-net/conversion/svg-to-canvas" >SVG na CANVAS</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/python-net/conversion/svg-to-svg" >SVG na SVG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/python-net/conversion/svg-to-ico" >SVG na ICO</a></div>
+                </div>
+        </div>
+    </div>
+</div>
+<br/>
+

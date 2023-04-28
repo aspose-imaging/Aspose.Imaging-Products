@@ -231,5 +231,4 @@ Vous trouverez ci-dessous la liste complète des formats d'image à partir desqu
         </div>
     </div>
 </div>
-<br/>
 

@@ -1,6 +1,6 @@
 ﻿
 ---
-title: C# Image Formats Conversion | products.aspose.com 
+title: C# Image Formats Conversion 
 weight: 3920
 url: /net/conversion 
 lang: en
@@ -231,5 +231,4 @@ Below is presented full list of the image formats, that you  can convert from:
         </div>
     </div>
 </div>
-<br/>
 

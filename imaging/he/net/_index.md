@@ -9,10 +9,10 @@ description: API של ספריית עיבוד תמונות ומניפולציה 
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1="ספריית .NET חוצת פלטפורמות - API לעיבוד תמונה" h2="צור, טען, עשה מניפולציות או המר תמונות ללא צורך בעורך תמונות." downloadFreeTrialText="הורד גרסת ניסיון בחינם" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/headers/aspose_imaging-for-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/imaging/net" >}}
+{{< blocks/products/pf/upper-banner h1="ספריית .NET חוצת פלטפורמות - API לעיבוד תמונה" h2="צור, טען, עשה מניפולציות או המר תמונות ללא צורך בעורך תמונות." downloadFreeTrialText="הורד גרסת ניסיון בחינם" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/imaging/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for .NET" >}}
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" 
+{{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-net.svg" 
 liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://purchase.aspose.com/pricing/imaging/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/imaging/net" installationsDocsLink="https://docs.aspose.com/imaging/net/installation" nugetLink="https://www.nuget.org/packages/aspose.imaging" nugetPackageName="Aspose.Imaging" directDownloadLink="https://downloads.aspose.com/imaging/net" liveDemosText="הדגמות חיות" overviewText="סקירה כללית" featuresText="תכונות" resourcesText="אֶמְצָעִי" pricingText="תמחור" downloadText="הורד" learnText="לִלמוֹד" buyText="לִקְנוֹת" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="בשעה א" carousel1Text2="מַבָּט" carousel2Text1="פּלַטפוֹרמָה" carousel2Text2="עצמאות" carousel3Text1="קובץ נתמך" carousel3Text2="פורמטים">}}
@@ -117,7 +117,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="תמונה .NET API" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg"/>
+  <img width="70" height="75" alt="תמונה .NET API" src="/imaging/images/imaging/aspose_imaging-for-net.svg"/>
   <header>
    Aspose.Imaging
   </header>
@@ -176,7 +176,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=".NET API לעיבוד תמונה" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg"/>
+  <img width="70" height="75" alt=".NET API לעיבוד תמונה" src="/imaging/images/imaging/aspose_imaging-for-net.svg"/>
   <header>
    Aspose.Imaging
   </header>
@@ -208,7 +208,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
      <b>
       פורמטים של רסטר:
      </b>
-     JPEG2000, JPEG, BMP, TIFF, GIF, PNG, DICOM, TGA, ICO
+     JPEG2000, JPEG, BMP, TIFF, BIGTIFF, GIF, PNG, DICOM, TGA, ICO
     </li>
     <li>
      <b>
@@ -299,7 +299,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="מעבד תמונה C# עריכת תמונה ערוך תמונה" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg"/>
+  <img width="70" height="75" alt="מעבד תמונה C# עריכת תמונה ערוך תמונה" src="/imaging/images/imaging/aspose_imaging-for-net.svg"/>
   <header>
    Aspose.Imaging
   </header>
@@ -397,7 +397,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
     <em class="fa fa-road ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-    <a href="/imaging/he/net/remove-background/">
+    <a href="/imaging/he/net/remove-background/">    
      הסר רקע
     </a>
     </p>
@@ -437,7 +437,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
     </em>
     <p class="col-lg-10">
      <a href="/imaging/he/net/watermark/">
-     הוסף סימן מים לתמונה
+     הוסף סימן מים לתמונה     
      </a>
     </p>
    </div>
@@ -638,9 +638,9 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Imaging " description="Aspose.Imaging מציעה ממשקי API של הדמיה בודדים עבור סביבות פיתוח פופולריות אחרות כמפורט להלן:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/imaging/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" sdkName="Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/imaging/sharepoint/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg" sdkName="SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/imaging/jasperreports/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-jasperreports.svg" sdkName="JasperReports" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/java/" imgSrc="/imaging/images/imaging/aspose_imaging-for-java.svg" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/sharepoint/" imgSrc="/imaging/images/imaging/aspose_imaging-for-sharepoint.svg" sdkName="SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/jasperreports/" imgSrc="/imaging/images/imaging/aspose_imaging-for-jasperreports.svg" sdkName="JasperReports" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

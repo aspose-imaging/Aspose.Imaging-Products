@@ -9,10 +9,10 @@ description: Bildbehandlings- och manipulationsbiblioteks API för att skapa red
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1=".NET plattformsoberoende bibliotek - API för bildbehandling" h2="Skapa, ladda, manipulera eller konvertera bilder utan att behöva någon bildredigerare." downloadFreeTrialText="Ladda ner gratis provversion" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/headers/aspose_imaging-for-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/imaging/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET plattformsoberoende bibliotek - API för bildbehandling" h2="Skapa, ladda, manipulera eller konvertera bilder utan att behöva någon bildredigerare." downloadFreeTrialText="Ladda ner gratis provversion" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/imaging/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for .NET" >}}
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg" 
+{{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-net.svg" 
 liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://purchase.aspose.com/pricing/imaging/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/imaging/net" installationsDocsLink="https://docs.aspose.com/imaging/net/installation" nugetLink="https://www.nuget.org/packages/aspose.imaging" nugetPackageName="Aspose.Imaging" directDownloadLink="https://downloads.aspose.com/imaging/net" liveDemosText="Livedemos" overviewText="Översikt" featuresText="Funktioner" resourcesText="Resurser" pricingText="Prissättning" downloadText="Ladda ner" learnText="Lära sig" buyText="köpa" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="Vid en" carousel1Text2="Blick" carousel2Text1="Plattform" carousel2Text2="Oberoende" carousel3Text1="Fil som stöds" carousel3Text2="Format">}}
@@ -117,7 +117,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Bild .NET API" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg"/>
+  <img width="70" height="75" alt="Bild .NET API" src="/imaging/images/imaging/aspose_imaging-for-net.svg"/>
   <header>
    Aspose.Imaging
   </header>
@@ -176,7 +176,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt=".NET Bildbehandlings-API" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg"/>
+  <img width="70" height="75" alt=".NET Bildbehandlings-API" src="/imaging/images/imaging/aspose_imaging-for-net.svg"/>
   <header>
    Aspose.Imaging
   </header>
@@ -208,7 +208,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
      <b>
       Rasterformat:
      </b>
-     JPEG2000, JPEG, BMP, TIFF, GIF, PNG, DICOM, TGA, ICO
+     JPEG2000, JPEG, BMP, TIFF, BIGTIFF, GIF, PNG, DICOM, TGA, ICO
     </li>
     <li>
      <b>
@@ -299,7 +299,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Bildprocessor C# Redigera foto Redigera bild" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-net.svg"/>
+  <img width="70" height="75" alt="Bildprocessor C# Redigera foto Redigera bild" src="/imaging/images/imaging/aspose_imaging-for-net.svg"/>
   <header>
    Aspose.Imaging
   </header>
@@ -397,7 +397,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
     <em class="fa fa-road ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-    <a href="/imaging/sv/net/remove-background/">
+    <a href="/imaging/sv/net/remove-background/">    
      Ta bort bakgrund
     </a>
     </p>
@@ -437,7 +437,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
     </em>
     <p class="col-lg-10">
      <a href="/imaging/sv/net/watermark/">
-     Lägg till vattenstämpel på bilden
+     Lägg till vattenstämpel på bilden     
      </a>
     </p>
    </div>
@@ -638,9 +638,9 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Imaging " description="Aspose.Imaging erbjuder individuella Imaging API:er för andra populära utvecklingsmiljöer enligt listan nedan:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/imaging/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" sdkName="Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/imaging/sharepoint/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg" sdkName="SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/imaging/jasperreports/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-jasperreports.svg" sdkName="JasperReports" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/java/" imgSrc="/imaging/images/imaging/aspose_imaging-for-java.svg" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/sharepoint/" imgSrc="/imaging/images/imaging/aspose_imaging-for-sharepoint.svg" sdkName="SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/jasperreports/" imgSrc="/imaging/images/imaging/aspose_imaging-for-jasperreports.svg" sdkName="JasperReports" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

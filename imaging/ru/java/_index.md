@@ -9,10 +9,10 @@ description: Библиотека обработки и обработки из�
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1="Библиотека Java и API для обработки изображений" h2="Создавайте, загружайте, манипулируйте или конвертируйте изображения, не требуя какого-либо редактора изображений." downloadFreeTrialText="Скачать бесплатную пробную версию" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/headers/aspose_imaging-for-java.svg"  pfName="Aspose.Imaging" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/imaging/java" >}}
+{{< blocks/products/pf/upper-banner h1="Библиотека Java и API для обработки изображений" h2="Создавайте, загружайте, манипулируйте или конвертируйте изображения, не требуя какого-либо редактора изображений." downloadFreeTrialText="Скачать бесплатную пробную версию" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-java.svg"  pfName="Aspose.Imaging" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/imaging/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Java" >}}
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" 
+{{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-java.svg" 
 liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://purchase.aspose.com/pricing/imaging/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/imaging/java" installationsDocsLink="https://docs.aspose.com/imaging/java/installation" mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-imaging/" directDownloadLink="https://downloads.aspose.com/imaging/java" liveDemosText="Online примеры" overviewText="Обзор" featuresText="Характеристики" resourcesText="Ресурсы" pricingText="Стоимость" downloadText="Скачать" learnText="Изучить" buyText="Купить" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="С одного" carousel1Text2="Взгляда" carousel2Text1="Независимость от" carousel2Text2="Платформы" carousel3Text1="Поддерживаемые форматы" carousel3Text2="Файлов">}}
@@ -117,7 +117,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Java-API изображений" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg"/>
+  <img width="70" height="75" alt="Java-API изображений" src="/imaging/images/imaging/aspose_imaging-for-java.svg"/>
   <header>
    Aspose.Imaging
   </header>
@@ -161,7 +161,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Java API обработки изображений" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg"/>
+  <img width="70" height="75" alt="Java API обработки изображений" src="/imaging/images/imaging/aspose_imaging-for-java.svg"/>
   <header>
    Aspose.Imaging
   </header>
@@ -193,7 +193,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
      <b>
       Растровые форматы:
      </b>
-     JPEG2000, JPEG, BMP, TIFF, GIF, PNG, DICOM, TGA, ICO
+     JPEG2000, JPEG, BMP, TIFF, BIGTIFF, GIF, PNG, DICOM, TGA, ICO
     </li>
     <li>
      <b>
@@ -284,7 +284,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Процессор изображений C# Редактировать фото Редактировать изображение" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg"/>
+  <img width="70" height="75" alt="Процессор изображений C# Редактировать фото Редактировать изображение" src="/imaging/images/imaging/aspose_imaging-for-java.svg"/>
   <header>
    Aspose.Imaging
   </header>
@@ -382,7 +382,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
     <em class="fa fa-road ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-    <a href="/imaging/ru/java/remove-background/">
+    <a href="/imaging/ru/java/remove-background/">    
      Удалить фон
     </a>
     </p>
@@ -422,7 +422,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
     </em>
     <p class="col-lg-10">
      <a href="/imaging/ru/java/watermark/">
-     Добавить водяной знак на изображение
+     Добавить водяной знак на изображение     
      </a>
     </p>
    </div>
@@ -623,9 +623,9 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Imaging " description="Aspose.Imaging предлагает отдельные API обработки изображений для других популярных сред разработки, перечисленных ниже:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/imaging/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" sdkName="Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/imaging/sharepoint/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg" sdkName="SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/imaging/jasperreports/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-jasperreports.svg" sdkName="JasperReports" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/java/" imgSrc="/imaging/images/imaging/aspose_imaging-for-java.svg" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/sharepoint/" imgSrc="/imaging/images/imaging/aspose_imaging-for-sharepoint.svg" sdkName="SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/jasperreports/" imgSrc="/imaging/images/imaging/aspose_imaging-for-jasperreports.svg" sdkName="JasperReports" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

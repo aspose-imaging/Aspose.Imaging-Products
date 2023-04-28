@@ -1,0 +1,31 @@
+﻿---
+title: Use Aspose.Imaging para Python via .NET para converter de OTG para vários formatos adicionais permitidos 
+weight: 3920
+url: /pt/python-net/conversion/from/otg 
+lang: pt
+langdirlevel: 2
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
+description: Você pode transformar rapidamente de OTG(Padrão OpenDocument) em vários formatos usando Aspose.Imaging para Python via .NET.
+---
+
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="Como usar o Aspose.Imaging para Python via .NET para converter imagens de OTG" h2="Use Python para converter imagens de OTG (Padrão OpenDocument) para vários formatos diferentes" downloadText="Download" >}}
+
+
+{{% blocks/products/pf/feature-page-section  h2="Aspose pode converter imagens OTG em uma grande variedade de formatos de imagem usando Aspose.Imaging for Python via .NET." %}}
+<p align=justify>Usando Aspose, você pode transformar automaticamente entre o formato OTG junto com outros formatos fornecidos usando Aspose.Imaging para Python via .NET. Um arquivo OTG é um modelo de desenho criado usando o padrão OpenDocument que segue a especificação OASIS Office Applications 1.0. Ele representa a organização padrão dos elementos de desenho para uma imagem vetorial que pode ser usada para aprimorar ainda mais o conteúdo do arquivo.</p>
+<br/>
+Conjunto completo de conversões possíveis de OTG:
+{{% /blocks/products/pf/feature-page-section %}}
+<div class="container-fluid productfamilypage bg-gray">
+    <div class="convertypes bg-gray agp-content section">
+        <div class="container">
+		<hr style="margin-left:-20px;"/>
+		<div class="row other-converters">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/otg-to-bmp" >OTG para BMP</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/otg-to-gif" >OTG para GIF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/otg-to-dicom" >OTG para DICOM</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/otg-to-emf" >OTG para EMF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/otg-to-jpg" >OTG para JPG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/otg-to-jpeg" >OTG para JPEG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/otg-to-jp2" >OTG para JP2</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/otg-to-j2k" >OTG para J2K</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/otg-to-jpeg2000" >OTG para JPEG2000</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/otg-to-png" >OTG para PNG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/otg-to-apng" >OTG para APNG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/otg-to-psd" >OTG para PSD</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/otg-to-dxf" >OTG para DXF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/otg-to-svg" >OTG para SVG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/otg-to-tiff" >OTG para TIFF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/otg-to-webp" >OTG para WEBP</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/otg-to-wmf" >OTG para WMF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/otg-to-pdf" >OTG para PDF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/otg-to-html" >OTG para HTML</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/otg-to-emz" >OTG para EMZ</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/otg-to-wmz" >OTG para WMZ</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/otg-to-tga" >OTG para TGA</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/otg-to-svgz" >OTG para SVGZ</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/otg-to-canvas" >OTG para CANVAS</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/otg-to-ico" >OTG para ICO</a></div>
+                </div>
+        </div>
+    </div>
+</div>
+<br/>
+

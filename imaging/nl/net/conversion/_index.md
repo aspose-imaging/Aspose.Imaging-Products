@@ -1,6 +1,6 @@
 ﻿
 ---
-title: C# Afbeeldingsindelingen Conversie | producten.aspose.com 
+title: C# Afbeeldingsindelingen Conversie 
 weight: 3920
 url: /nl/net/conversion 
 lang: nl
@@ -231,5 +231,4 @@ Hieronder vindt u een volledige lijst van de afbeeldingsindelingen waaruit u kun
         </div>
     </div>
 </div>
-<br/>
 

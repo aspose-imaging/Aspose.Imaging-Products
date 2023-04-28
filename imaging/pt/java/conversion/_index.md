@@ -231,5 +231,4 @@ Abaixo é apresentada a lista completa dos formatos de imagem, dos quais você p
         </div>
     </div>
 </div>
-<br/>
 

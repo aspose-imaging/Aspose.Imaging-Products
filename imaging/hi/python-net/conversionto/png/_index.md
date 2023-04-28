@@ -1,0 +1,58 @@
+﻿---
+title: कई प्रारूपों से चित्रों को PNG में बदलने के लिए .NET के माध्यम से Aspose.Imaging for Python का उपयोग करें 
+weight: 3920
+url: /hi/python-net/conversion/to/png 
+lang: hi
+langdirlevel: 2
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
+description: आप विभिन्न स्वरूपों से PNG में कनवर्ट करने के लिए .NET लाइब्रेरी के माध्यम से पायथन के लिए Aspose.Imaging का उपयोग कर सकते हैं
+---
+
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1=".NET लाइब्रेरी के माध्यम से पायथन के लिए Aspose.Imaging के साथ Aspose का उपयोग करके छवि दस्तावेज़ों को PNG में कनवर्ट करना" h2="विभिन्न छवि प्रारूपों का पायथन-आधारित रूपांतरण PNG में" downloadText="डाउनलोड" >}}
+
+
+{{% blocks/products/pf/feature-page-section  h2="Aspose का उपयोग करके, प्रत्येक समर्थित चित्र प्रारूपों को Aspose.Imaging for Python के माध्यम से .NET का उपयोग करके PNG में परिवर्तित किया जा सकता है" %}}
+<p align=justify>Aspose.Imaging API का उपयोग Python भाषा का उपयोग करके अन्य समर्थित छवि प्रारूपों को प्रोग्रामेटिक रूप से PNG में बदलने के लिए किया जा सकता है।</p>
+<br/>
+अगले उपलब्ध रूपांतरण हैं:
+{{% /blocks/products/pf/feature-page-section %}}
+<div class="container-fluid productfamilypage bg-gray">
+    <div class="convertypes bg-gray agp-content section">
+        <div class="container">
+		<hr style="margin-left:-20px;"/>
+		<div class="row other-converters">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/apng-to-png" >APNG को PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/bmp-to-png" >BMP को PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/dib-to-png" >DIB को PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/dicom-to-png" >DICOM को PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/djvu-to-png" >DJVU को PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/dng-to-png" >DNG को PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/emf-to-png" >EMF को PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/emz-to-png" >EMZ को PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/gif-to-png" >GIF को PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/jpeg2000-to-png" >JPEG2000 को PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/jp2-to-png" >JP2 को PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/j2k-to-png" >J2K को PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/jpg-to-png" >JPG को PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/jpeg-to-png" >JPEG को PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/tga-to-png" >TGA को PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/tif-to-png" >TIF को PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/tiff-to-png" >TIFF को PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/webp-to-png" >WEBP को PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/wmf-to-png" >WMF को PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/wmz-to-png" >WMZ को PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/svg-to-png" >SVG को PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/svgz-to-png" >SVGZ को PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/eps-to-png" >EPS को PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/cdr-to-png" >CDR को PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/cmx-to-png" >CMX को PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/otg-to-png" >OTG को PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/odg-to-png" >ODG को PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/ico-to-png" >ICO को PNG</a></div>
+                </div>
+        </div>
+    </div>
+</div>
+<br/>
+

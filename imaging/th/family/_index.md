@@ -30,6 +30,10 @@ Native Java API สำหรับเดสก์ท็อป เว็บ ห�
 ส่งออกรายงานเป็นรูปแบบรูปภาพหลายรูปแบบจาก JasperReports
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Imaging for" title="Python via .NET" imgSrc="/imaging/images/imaging/aspose_imaging-for-python-net.svg" productLink="/imaging/th/python-net/" >}}
+โหลด สร้าง บันทึก และจัดการรูปแบบไฟล์ภาพต่างๆ โดยใช้ Python
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

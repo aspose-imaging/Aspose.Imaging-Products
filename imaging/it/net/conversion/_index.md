@@ -1,6 +1,6 @@
 ﻿
 ---
-title: Conversione formati immagine C# | prodotti.aspose.com 
+title: Conversione formati immagine C# 
 weight: 3920
 url: /it/net/conversion 
 lang: it
@@ -231,5 +231,4 @@ Di seguito è presentato l'elenco completo dei formati di immagine da cui è pos
         </div>
     </div>
 </div>
-<br/>
 

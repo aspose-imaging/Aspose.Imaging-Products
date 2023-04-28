@@ -9,10 +9,10 @@ description: مكتبة معالجة ومعالجة الصور في Java. إنش
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1="مكتبة جافا و API لمعالجة الصور" h2="إنشاء الصور أو تحميلها أو معالجتها أو تحويلها دون الحاجة إلى أي محرر صور." downloadFreeTrialText="تحميل النسخة التجريبية المجانية" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/headers/aspose_imaging-for-java.svg"  pfName="Aspose.Imaging" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/imaging/java" >}}
+{{< blocks/products/pf/upper-banner h1="مكتبة جافا و API لمعالجة الصور" h2="إنشاء الصور أو تحميلها أو معالجتها أو تحويلها دون الحاجة إلى أي محرر صور." downloadFreeTrialText="تحميل النسخة التجريبية المجانية" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-java.svg"  pfName="Aspose.Imaging" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/imaging/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Java" >}}
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" 
+{{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-java.svg" 
 liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://purchase.aspose.com/pricing/imaging/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/imaging/java" installationsDocsLink="https://docs.aspose.com/imaging/java/installation" mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-imaging/" directDownloadLink="https://downloads.aspose.com/imaging/java" liveDemosText="العروض التوضيحية الحية" overviewText="ملخص" featuresText="سمات" resourcesText="موارد" pricingText="التسعير" downloadText="تحميل" learnText="يتعلم" buyText="يشتري" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="في" carousel1Text2="يلمح" carousel2Text1="برنامج" carousel2Text2="استقلال" carousel3Text1="الملف المدعوم" carousel3Text2="التنسيقات">}}
@@ -117,7 +117,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Image Java API" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg"/>
+  <img width="70" height="75" alt="Image Java API" src="/imaging/images/imaging/aspose_imaging-for-java.svg"/>
   <header>
    Aspose.Imaging
   </header>
@@ -161,7 +161,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Java واجهة برمجة تطبيقات معالجة الصور" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg"/>
+  <img width="70" height="75" alt="Java واجهة برمجة تطبيقات معالجة الصور" src="/imaging/images/imaging/aspose_imaging-for-java.svg"/>
   <header>
    Aspose.Imaging
   </header>
@@ -193,7 +193,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
      <b>
       تنسيقات البيانات النقطية:
      </b>
-     JPEG2000, JPEG, BMP, TIFF, GIF, PNG, DICOM, TGA, ICO
+     JPEG2000, JPEG, BMP, TIFF, BIGTIFF, GIF, PNG, DICOM, TGA, ICO
     </li>
     <li>
      <b>
@@ -284,7 +284,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="معالج الصور C # تحرير الصورة تحرير الصورة" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg"/>
+  <img width="70" height="75" alt="معالج الصور C # تحرير الصورة تحرير الصورة" src="/imaging/images/imaging/aspose_imaging-for-java.svg"/>
   <header>
    Aspose.Imaging
   </header>
@@ -382,7 +382,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
     <em class="fa fa-road ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-    <a href="/imaging/ar/java/remove-background/">
+    <a href="/imaging/ar/java/remove-background/">    
      إزالة الخلفية
     </a>
     </p>
@@ -422,7 +422,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
     </em>
     <p class="col-lg-10">
      <a href="/imaging/ar/java/watermark/">
-     أضف علامة مائية إلى الصورة
+     أضف علامة مائية إلى الصورة     
      </a>
     </p>
    </div>
@@ -623,9 +623,9 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Imaging " description="يقدم Aspose.Imaging واجهات برمجة تطبيقات تصوير فردية لبيئات التطوير الشائعة الأخرى كما هو موضح أدناه:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/imaging/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" sdkName="Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/imaging/sharepoint/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg" sdkName="SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/imaging/jasperreports/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-jasperreports.svg" sdkName="JasperReports" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/java/" imgSrc="/imaging/images/imaging/aspose_imaging-for-java.svg" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/sharepoint/" imgSrc="/imaging/images/imaging/aspose_imaging-for-sharepoint.svg" sdkName="SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/jasperreports/" imgSrc="/imaging/images/imaging/aspose_imaging-for-jasperreports.svg" sdkName="JasperReports" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

@@ -1,0 +1,31 @@
+﻿---
+title: 通過 .NET 使用 Aspose.Imaging for Python OTG 轉換為各種其他允許的格式 
+weight: 3920
+url: /zh-hant/python-net/conversion/from/otg 
+lang: zh-hant
+langdirlevel: 2
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
+description: 您可以通過 .NET 使用 Aspose.Imaging for Python 快速將 OTG(開放文檔標準) 轉換為各種格式。
+---
+
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="如何通過 .NET 使用 Aspose.Imaging for Python 轉換來自 OTG 的圖片" h2="使用 Python 將圖像從 OTG (開放文檔標準) 轉換為各種不同的格式" downloadText="下載" >}}
+
+
+{{% blocks/products/pf/feature-page-section  h2="Aspose 可以使用 Aspose.Imaging for Python 將 OTG 圖片轉換為多種圖像格式 通過.NET。" %}}
+<p align=justify>使用 Aspose，您可以通過 .NET 使用 Aspose.Imaging for Python 在 OTG 格式與其他提供的格式之間自動轉換。 OTG 文件是使用遵循 OASIS Office Applications 1.0 規範的 OpenDocument 標準創建的繪圖模板。它表示矢量圖像的繪圖元素的默認組織，可用於進一步增強文件的內容。</p>
+<br/>
+OTG 轉換的完整可能集合：
+{{% /blocks/products/pf/feature-page-section %}}
+<div class="container-fluid productfamilypage bg-gray">
+    <div class="convertypes bg-gray agp-content section">
+        <div class="container">
+		<hr style="margin-left:-20px;"/>
+		<div class="row other-converters">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/otg-to-bmp" >OTG 至 BMP</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/otg-to-gif" >OTG 至 GIF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/otg-to-dicom" >OTG 至 DICOM</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/otg-to-emf" >OTG 至 EMF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/otg-to-jpg" >OTG 至 JPG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/otg-to-jpeg" >OTG 至 JPEG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/otg-to-jp2" >OTG 至 JP2</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/otg-to-j2k" >OTG 至 J2K</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/otg-to-jpeg2000" >OTG 至 JPEG2000</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/otg-to-png" >OTG 至 PNG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/otg-to-apng" >OTG 至 APNG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/otg-to-psd" >OTG 至 PSD</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/otg-to-dxf" >OTG 至 DXF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/otg-to-svg" >OTG 至 SVG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/otg-to-tiff" >OTG 至 TIFF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/otg-to-webp" >OTG 至 WEBP</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/otg-to-wmf" >OTG 至 WMF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/otg-to-pdf" >OTG 至 PDF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/otg-to-html" >OTG 至 HTML</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/otg-to-emz" >OTG 至 EMZ</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/otg-to-wmz" >OTG 至 WMZ</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/otg-to-tga" >OTG 至 TGA</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/otg-to-svgz" >OTG 至 SVGZ</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/otg-to-canvas" >OTG 至 CANVAS</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/otg-to-ico" >OTG 至 ICO</a></div>
+                </div>
+        </div>
+    </div>
+</div>
+<br/>
+

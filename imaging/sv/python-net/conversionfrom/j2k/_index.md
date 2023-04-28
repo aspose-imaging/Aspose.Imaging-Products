@@ -1,0 +1,31 @@
+﻿---
+title: Använd Aspose.Imaging för Python via .NET för att konvertera från J2K till olika ytterligare tillåtna format 
+weight: 3920
+url: /sv/python-net/conversion/from/j2k 
+lang: sv
+langdirlevel: 2
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
+description: Du kan snabbt omvandla från J2K(Wavelet komprimerad bild) till olika format med Aspose.Imaging för Python via .NET.
+---
+
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="Hur man använder Aspose.Imaging för Python via .NET för att konvertera bilder från J2K" h2="Använd Python för att konvertera bilder från J2K (formatFullnamn) till olika format" downloadText="Ladda ner" >}}
+
+
+{{% blocks/products/pf/feature-page-section  h2="Aspose kan konvertera J2K-bilder till ett stort antal bildformat med Aspose.Imaging för Python via .NET." %}}
+<p align=justify>Med Aspose kan du automatiskt transformera mellan J2K-formatet tillsammans med andra medföljande format med Aspose.Imaging för Python via .NET. En J2K-fil är en bild som komprimeras med hjälp av wavelet-komprimering istället för DCT-komprimering.</p>
+<br/>
+Komplett uppsättning möjliga konverteringar från J2K:
+{{% /blocks/products/pf/feature-page-section %}}
+<div class="container-fluid productfamilypage bg-gray">
+    <div class="convertypes bg-gray agp-content section">
+        <div class="container">
+		<hr style="margin-left:-20px;"/>
+		<div class="row other-converters">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/j2k-to-bmp" >J2K till BMP</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/j2k-to-gif" >J2K till GIF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/j2k-to-dicom" >J2K till DICOM</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/j2k-to-emf" >J2K till EMF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/j2k-to-jpg" >J2K till JPG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/j2k-to-jpeg" >J2K till JPEG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/j2k-to-jp2" >J2K till JP2</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/j2k-to-jpeg2000" >J2K till JPEG2000</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/j2k-to-png" >J2K till PNG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/j2k-to-apng" >J2K till APNG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/j2k-to-psd" >J2K till PSD</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/j2k-to-dxf" >J2K till DXF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/j2k-to-svg" >J2K till SVG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/j2k-to-tiff" >J2K till TIFF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/j2k-to-webp" >J2K till WEBP</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/j2k-to-wmf" >J2K till WMF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/j2k-to-pdf" >J2K till PDF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/j2k-to-html" >J2K till HTML</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/j2k-to-emz" >J2K till EMZ</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/j2k-to-wmz" >J2K till WMZ</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/j2k-to-tga" >J2K till TGA</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/j2k-to-svgz" >J2K till SVGZ</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/j2k-to-canvas" >J2K till CANVAS</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/j2k-to-ico" >J2K till ICO</a></div>
+                </div>
+        </div>
+    </div>
+</div>
+<br/>
+

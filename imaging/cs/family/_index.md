@@ -30,6 +30,10 @@ Převeďte obrázky na SharePoint Foundation nebo Server.
 Export sestav do více obrazových formátů z JasperReports.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Imaging for" title="Python via .NET" imgSrc="/imaging/images/imaging/aspose_imaging-for-python-net.svg" productLink="/imaging/cs/python-net/" >}}
+Načtěte, vytvářejte, ukládejte a manipulujte s různými formáty obrazových souborů pomocí Pythonu.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

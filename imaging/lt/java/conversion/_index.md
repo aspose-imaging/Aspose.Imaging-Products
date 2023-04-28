@@ -231,5 +231,4 @@ Tālāk ir parādīts pilns to attēlu formātu saraksts, kurus varat konvertēt
         </div>
     </div>
 </div>
-<br/>
 

@@ -9,10 +9,10 @@ description: जावा इमेज प्रोसेसिंग और म
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1="इमेज प्रोसेसिंग के लिए जावा लाइब्रेरी और एपीआई" h2="किसी भी छवि संपादक की आवश्यकता के बिना छवियों को बनाएं, लोड करें, हेरफेर करें या परिवर्तित करें।" downloadFreeTrialText="नि: शुल्क परीक्षण डाउनलोड करें" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/headers/aspose_imaging-for-java.svg"  pfName="Aspose.Imaging" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/imaging/java" >}}
+{{< blocks/products/pf/upper-banner h1="इमेज प्रोसेसिंग के लिए जावा लाइब्रेरी और एपीआई" h2="किसी भी छवि संपादक की आवश्यकता के बिना छवियों को बनाएं, लोड करें, हेरफेर करें या परिवर्तित करें।" downloadFreeTrialText="नि: शुल्क परीक्षण डाउनलोड करें" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-java.svg"  pfName="Aspose.Imaging" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/imaging/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Java" >}}
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" 
+{{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-java.svg" 
 liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://purchase.aspose.com/pricing/imaging/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/imaging/java" installationsDocsLink="https://docs.aspose.com/imaging/java/installation" mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-imaging/" directDownloadLink="https://downloads.aspose.com/imaging/java" liveDemosText="लाइव डेमो" overviewText="अवलोकन" featuresText="विशेषताएँ" resourcesText="साधन" pricingText="मूल्य निर्धारण" downloadText="डाउनलोड" learnText="सीखना" buyText="खरीदना" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="एक पर" carousel1Text2="नज़र" carousel2Text1="प्लैटफ़ॉर्म" carousel2Text2="आजादी" carousel3Text1="समर्थित फ़ाइल" carousel3Text2="प्रारूप">}}
@@ -117,7 +117,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="छवि जावा एपीआई" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg"/>
+  <img width="70" height="75" alt="छवि जावा एपीआई" src="/imaging/images/imaging/aspose_imaging-for-java.svg"/>
   <header>
    Aspose.Imaging
   </header>
@@ -161,7 +161,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Java इमेज प्रोसेसिंग एपीआई" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg"/>
+  <img width="70" height="75" alt="Java इमेज प्रोसेसिंग एपीआई" src="/imaging/images/imaging/aspose_imaging-for-java.svg"/>
   <header>
    Aspose.Imaging
   </header>
@@ -193,7 +193,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
      <b>
       रेखापुंज प्रारूप:
      </b>
-     JPEG2000, JPEG, BMP, TIFF, GIF, PNG, DICOM, TGA, ICO
+     JPEG2000, JPEG, BMP, TIFF, BIGTIFF, GIF, PNG, DICOM, TGA, ICO
     </li>
     <li>
      <b>
@@ -284,7 +284,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="इमेज प्रोसेसर सी# फोटो संपादित करें छवि संपादित करें" src="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg"/>
+  <img width="70" height="75" alt="इमेज प्रोसेसर सी# फोटो संपादित करें छवि संपादित करें" src="/imaging/images/imaging/aspose_imaging-for-java.svg"/>
   <header>
    Aspose.Imaging
   </header>
@@ -382,7 +382,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
     <em class="fa fa-road ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-    <a href="/imaging/hi/java/remove-background/">
+    <a href="/imaging/hi/java/remove-background/">    
      पृष्ठभूमि निकालें
     </a>
     </p>
@@ -422,7 +422,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
     </em>
     <p class="col-lg-10">
      <a href="/imaging/hi/java/watermark/">
-     छवि में वॉटरमार्क जोड़ें
+     छवि में वॉटरमार्क जोड़ें     
      </a>
     </p>
    </div>
@@ -623,9 +623,9 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Imaging " description="Aspose.Imaging नीचे सूचीबद्ध अन्य लोकप्रिय विकास परिवेशों के लिए अलग-अलग इमेजिंग API प्रदान करता है:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/imaging/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" sdkName="Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/imaging/sharepoint/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg" sdkName="SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/imaging/jasperreports/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-jasperreports.svg" sdkName="JasperReports" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/java/" imgSrc="/imaging/images/imaging/aspose_imaging-for-java.svg" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/sharepoint/" imgSrc="/imaging/images/imaging/aspose_imaging-for-sharepoint.svg" sdkName="SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/imaging/jasperreports/" imgSrc="/imaging/images/imaging/aspose_imaging-for-jasperreports.svg" sdkName="JasperReports" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

@@ -1,6 +1,6 @@
 ﻿
 ---
-title: Conversion des formats d'images C# | produits.aspose.com 
+title: Conversion des formats d'images C# 
 weight: 3920
 url: /fr/net/conversion 
 lang: fr
@@ -231,5 +231,4 @@ Vous trouverez ci-dessous la liste complète des formats d'image à partir desqu
         </div>
     </div>
 </div>
-<br/>
 

@@ -30,6 +30,10 @@ SharePointFoundationまたはServerで画像を変換します。
 JasperReportsから複数の画像形式にレポートをエクスポートします。
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Imaging for" title="Python via .NET" imgSrc="/imaging/images/imaging/aspose_imaging-for-python-net.svg" productLink="/imaging/ja/python-net/" >}}
+Python を使用して、さまざまな画像ファイル形式を読み込み、作成、保存、操作します。
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

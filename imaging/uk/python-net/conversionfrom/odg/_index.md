@@ -1,0 +1,31 @@
+﻿---
+title: Використовуйте Aspose.Imaging for Python via .NET, щоб конвертувати ODG у різні додаткові формати 
+weight: 3920
+url: /uk/python-net/conversion/from/odg 
+lang: uk
+langdirlevel: 2
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
+description: Ви можете швидко трансформувати ODG(Формат Apache OpenOffice Draw) у різні формати за допомогою Aspose.Imaging для Python via .NET.
+---
+
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="Як використовувати Aspose.Imaging для Python через .NET для перетворення зображень із ODG" h2="Використовуйте Python для перетворення зображень із ODG (Формат Apache OpenOffice Draw) у різні формати" downloadText="Завантажити" >}}
+
+
+{{% blocks/products/pf/feature-page-section  h2="Aspose може конвертувати зображення ODG у величезну різноманітність форматів зображень за допомогою Aspose.Imaging для Python via .NET." %}}
+<p align=justify>Використовуючи Aspose, ви можете автоматично перетворювати формат ODG разом з іншими наданими форматами за допомогою Aspose.Imaging для Python via .NET. Формат файлу ODG використовується програмою Draw Apache OpenOffice для зберігання елементів малюнка у вигляді векторного зображення. Він відповідає специфікаціям формату файлів на основі XML, викладеним Стандартами вдосконалення структурної інформації (OASIS). ODG представляє малюнки як векторні зображення за допомогою точок, ліній і кривих. Крім OpenOffice, LibreOffice та інші програми також надають підтримку для роботи з форматом файлу ODG. Інші формати, які підтримує OpenOffice, наприклад, включають ODT, ODF, ODP і ODS.</p>
+<br/>
+Повний набір можливих перетворень із ODG:
+{{% /blocks/products/pf/feature-page-section %}}
+<div class="container-fluid productfamilypage bg-gray">
+    <div class="convertypes bg-gray agp-content section">
+        <div class="container">
+		<hr style="margin-left:-20px;"/>
+		<div class="row other-converters">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/odg-to-bmp" >ODG до BMP</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/odg-to-gif" >ODG до GIF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/odg-to-dicom" >ODG до DICOM</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/odg-to-emf" >ODG до EMF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/odg-to-jpg" >ODG до JPG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/odg-to-jpeg" >ODG до JPEG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/odg-to-jp2" >ODG до JP2</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/odg-to-j2k" >ODG до J2K</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/odg-to-jpeg2000" >ODG до JPEG2000</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/odg-to-png" >ODG до PNG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/odg-to-apng" >ODG до APNG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/odg-to-psd" >ODG до PSD</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/odg-to-dxf" >ODG до DXF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/odg-to-svg" >ODG до SVG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/odg-to-tiff" >ODG до TIFF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/odg-to-webp" >ODG до WEBP</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/odg-to-wmf" >ODG до WMF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/odg-to-pdf" >ODG до PDF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/odg-to-html" >ODG до HTML</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/odg-to-emz" >ODG до EMZ</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/odg-to-wmz" >ODG до WMZ</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/odg-to-tga" >ODG до TGA</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/odg-to-svgz" >ODG до SVGZ</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/odg-to-canvas" >ODG до CANVAS</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/odg-to-ico" >ODG до ICO</a></div>
+                </div>
+        </div>
+    </div>
+</div>
+<br/>
+

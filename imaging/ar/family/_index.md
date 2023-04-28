@@ -30,6 +30,10 @@ description: قم بإنشاء معالجة وتحويل الصور باستخد
 تصدير التقارير إلى تنسيقات صور متعددة من JasperReports.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName="Aspose.Imaging for" title="Python via .NET" imgSrc="/imaging/images/imaging/aspose_imaging-for-python-net.svg" productLink="/imaging/ar/python-net/" >}}
+قم بتحميل ، وإنشاء ، وحفظ ، ومعالجة تنسيقات ملفات الصور المختلفة باستخدام Python.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

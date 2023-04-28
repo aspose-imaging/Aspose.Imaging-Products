@@ -231,5 +231,4 @@ Below is presented full list of the image formats, that you  can convert from:
         </div>
     </div>
 </div>
-<br/>
 

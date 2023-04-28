@@ -1,0 +1,31 @@
+﻿---
+title: استخدم Aspose.Imaging for Python عبر .NET للتحويل من JPEG إلى العديد من التنسيقات الإضافية المسموح بها 
+weight: 3920
+url: /ar/python-net/conversion/from/jpeg 
+lang: ar
+langdirlevel: 2
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
+description: يمكنك التحويل بسرعة من JPEG (مجموعة خبراء التصوير المشتركة) إلى تنسيقات مختلفة باستخدام Aspose.Imaging for Python عبر .NET.
+---
+
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="كيفية استخدام Aspose.Imaging for Python عبر .NET لتحويل الصور من JPEG" h2="استخدم Python لتحويل الصور من JPEG (مجموعة خبراء التصوير المشتركة) إلى تنسيقات مختلفة مختلفة" downloadText="تحميل" >}}
+
+
+{{% blocks/products/pf/feature-page-section  h2="يمكن لـ Aspose تحويل صور JPEG إلى مجموعة كبيرة ومتنوعة من تنسيقات الصور باستخدام Aspose.Imaging for Python عبر .NET." %}}
+<p align=justify>باستخدام Aspose ، يمكنك التحويل تلقائيًا بين تنسيق JPEG إلى جانب التنسيقات الأخرى المتوفرة باستخدام Aspose.Imaging for Python عبر .NET. JPEG هو نوع من تنسيق الصور يتم حفظه باستخدام طريقة الضغط مع فقدان البيانات. الصورة الناتجة ، كنتيجة للضغط ، هي مقايضة بين حجم التخزين وجودة الصورة. يمكن للمستخدمين ضبط مستوى الضغط لتحقيق مستوى الجودة المطلوب مع تقليل حجم التخزين في نفس الوقت. تتأثر جودة الصورة بشكل ضئيل إذا تم تطبيق ضغط بنسبة 10: 1 على الصورة. كلما زادت قيمة الضغط ، زاد تدهور جودة الصورة.</p>
+<br/>
+مجموعة كاملة من التحويلات المحتملة من JPEG:
+{{% /blocks/products/pf/feature-page-section %}}
+<div class="container-fluid productfamilypage bg-gray">
+    <div class="convertypes bg-gray agp-content section">
+        <div class="container">
+		<hr style="margin-left:-20px;"/>
+		<div class="row other-converters">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/jpeg-to-bmp" >JPEG إلى BMP</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/jpeg-to-gif" >JPEG إلى GIF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/jpeg-to-dicom" >JPEG إلى DICOM</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/jpeg-to-emf" >JPEG إلى EMF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/jpeg-to-jp2" >JPEG إلى JP2</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/jpeg-to-j2k" >JPEG إلى J2K</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/jpeg-to-jpeg2000" >JPEG إلى JPEG2000</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/jpeg-to-png" >JPEG إلى PNG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/jpeg-to-apng" >JPEG إلى APNG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/jpeg-to-psd" >JPEG إلى PSD</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/jpeg-to-dxf" >JPEG إلى DXF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/jpeg-to-svg" >JPEG إلى SVG</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/jpeg-to-tiff" >JPEG إلى TIFF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/jpeg-to-webp" >JPEG إلى WEBP</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/jpeg-to-wmf" >JPEG إلى WMF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/jpeg-to-pdf" >JPEG إلى PDF</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/jpeg-to-html" >JPEG إلى HTML</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/jpeg-to-emz" >JPEG إلى EMZ</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/jpeg-to-wmz" >JPEG إلى WMZ</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/jpeg-to-tga" >JPEG إلى TGA</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/jpeg-to-svgz" >JPEG إلى SVGZ</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/jpeg-to-canvas" >JPEG إلى CANVAS</a></div><div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/jpeg-to-ico" >JPEG إلى ICO</a></div>
+                </div>
+        </div>
+    </div>
+</div>
+<br/>
+

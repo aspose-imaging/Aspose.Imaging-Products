@@ -1,0 +1,57 @@
+﻿---
+title: .NET 経由で Aspose.Imaging for Python を使用して、画像をさまざまな形式から JP2 に変換します。 
+weight: 3920
+url: /ja/python-net/conversion/to/jp2 
+lang: ja
+langdirlevel: 2
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
+description: .NET ライブラリ経由で Aspose.Imaging for Python を使用して、さまざまな形式から JP2 に変換できます。
+---
+
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="Aspose を使用して画像ドキュメントを JP2 に変換するには、.NET ライブラリ経由で Aspose.Imaging for Python を使用します" h2="さまざまな画像形式から JP2 への Python ベースの変換" downloadText="ダウンロード" >}}
+
+
+{{% blocks/products/pf/feature-page-section  h2="Aspose を使用すると、.NET 経由で Aspose.Imaging for Python を使用して、サポートされているすべての画像フォーマットを JP2 に変換できます。" %}}
+<p align=justify>Aspose.Imaging API を使用すると、サポートされている他の画像形式を Python 言語を使用してプログラムで JP2 に変換できます。</p>
+<br/>
+次に利用可能な変換があります。
+{{% /blocks/products/pf/feature-page-section %}}
+<div class="container-fluid productfamilypage bg-gray">
+    <div class="convertypes bg-gray agp-content section">
+        <div class="container">
+		<hr style="margin-left:-20px;"/>
+		<div class="row other-converters">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/apng-to-jp2" >APNG に JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/bmp-to-jp2" >BMP に JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/dib-to-jp2" >DIB に JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/dicom-to-jp2" >DICOM に JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/djvu-to-jp2" >DJVU に JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/dng-to-jp2" >DNG に JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/emf-to-jp2" >EMF に JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/emz-to-jp2" >EMZ に JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/gif-to-jp2" >GIF に JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/j2k-to-jp2" >J2K に JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/jpg-to-jp2" >JPG に JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/jpeg-to-jp2" >JPEG に JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/png-to-jp2" >PNG に JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/tga-to-jp2" >TGA に JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/tif-to-jp2" >TIF に JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/tiff-to-jp2" >TIFF に JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/webp-to-jp2" >WEBP に JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/wmf-to-jp2" >WMF に JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/wmz-to-jp2" >WMZ に JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/svg-to-jp2" >SVG に JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/svgz-to-jp2" >SVGZ に JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/eps-to-jp2" >EPS に JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/cdr-to-jp2" >CDR に JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/cmx-to-jp2" >CMX に JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/otg-to-jp2" >OTG に JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/odg-to-jp2" >ODG に JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/ico-to-jp2" >ICO に JP2</a></div>
+                </div>
+        </div>
+    </div>
+</div>
+<br/>
+

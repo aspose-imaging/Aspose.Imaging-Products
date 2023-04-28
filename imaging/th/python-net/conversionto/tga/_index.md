@@ -1,0 +1,58 @@
+﻿---
+title: ใช้ Aspose.Imaging สำหรับ Python ผ่าน .NET เพื่อแปลงรูปภาพจากหลายรูปแบบเป็น TGA 
+weight: 3920
+url: /th/python-net/conversion/to/tga 
+lang: th
+langdirlevel: 2
+locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
+description: คุณสามารถใช้ Aspose.Imaging สำหรับ Python ผ่านไลบรารี .NET เพื่อแปลงจากรูปแบบต่างๆ เป็น TGA
+---
+
+{{< blocks/products/pf/feature-page-wrap >}}
+{{< blocks/products/pf/feature-page-header h1="การแปลงเอกสารรูปภาพโดยใช้ Aspose เป็น TGA  ด้วย Aspose.Imaging สำหรับ Python ผ่านไลบรารี .NET" h2="การแปลงรูปแบบรูปภาพต่าง ๆ ที่ใช้ Python เป็น TGA" downloadText="ดาวน์โหลด" >}}
+
+
+{{% blocks/products/pf/feature-page-section  h2="การใช้ Aspose ทุกรูปแบบรูปภาพที่รองรับสามารถแปลงเป็น TGA โดยใช้ Aspose.Imaging สำหรับ Python ผ่าน .NET" %}}
+<p align=justify>สามารถใช้ Aspose.Imaging API เพื่อแปลงรูปแบบรูปภาพอื่นๆ ที่รองรับโดยทางโปรแกรมเป็น TGA โดยใช้ภาษา Python</p>
+<br/>
+มีการแปลงที่ใช้ได้ถัดไป:
+{{% /blocks/products/pf/feature-page-section %}}
+<div class="container-fluid productfamilypage bg-gray">
+    <div class="convertypes bg-gray agp-content section">
+        <div class="container">
+		<hr style="margin-left:-20px;"/>
+		<div class="row other-converters">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/apng-to-tga" >APNG ถึง TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/bmp-to-tga" >BMP ถึง TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/dib-to-tga" >DIB ถึง TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/dicom-to-tga" >DICOM ถึง TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/djvu-to-tga" >DJVU ถึง TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/dng-to-tga" >DNG ถึง TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/emf-to-tga" >EMF ถึง TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/emz-to-tga" >EMZ ถึง TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/gif-to-tga" >GIF ถึง TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/jpeg2000-to-tga" >JPEG2000 ถึง TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/jp2-to-tga" >JP2 ถึง TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/j2k-to-tga" >J2K ถึง TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/jpg-to-tga" >JPG ถึง TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/jpeg-to-tga" >JPEG ถึง TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/png-to-tga" >PNG ถึง TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/tif-to-tga" >TIF ถึง TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/tiff-to-tga" >TIFF ถึง TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/webp-to-tga" >WEBP ถึง TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/wmf-to-tga" >WMF ถึง TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/wmz-to-tga" >WMZ ถึง TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/svg-to-tga" >SVG ถึง TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/svgz-to-tga" >SVGZ ถึง TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/eps-to-tga" >EPS ถึง TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/cdr-to-tga" >CDR ถึง TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/cmx-to-tga" >CMX ถึง TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/otg-to-tga" >OTG ถึง TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/odg-to-tga" >ODG ถึง TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/ico-to-tga" >ICO ถึง TGA</a></div>
+                </div>
+        </div>
+    </div>
+</div>
+<br/>
+
