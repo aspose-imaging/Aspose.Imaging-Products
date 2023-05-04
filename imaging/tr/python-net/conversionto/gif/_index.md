@@ -21,35 +21,35 @@ Sonraki kullanılabilir dönüşümler var:
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/apng-to-gif" >APNG ile GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/bmp-to-gif" >BMP ile GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/dib-to-gif" >DIB ile GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/dicom-to-gif" >DICOM ile GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/djvu-to-gif" >DJVU ile GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/dng-to-gif" >DNG ile GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/emf-to-gif" >EMF ile GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/emz-to-gif" >EMZ ile GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/jpeg2000-to-gif" >JPEG2000 ile GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/jp2-to-gif" >JP2 ile GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/j2k-to-gif" >J2K ile GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/jpg-to-gif" >JPG ile GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/jpeg-to-gif" >JPEG ile GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/png-to-gif" >PNG ile GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/tga-to-gif" >TGA ile GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/tif-to-gif" >TIF ile GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/tiff-to-gif" >TIFF ile GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/webp-to-gif" >WEBP ile GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/wmf-to-gif" >WMF ile GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/wmz-to-gif" >WMZ ile GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/svg-to-gif" >SVG ile GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/svgz-to-gif" >SVGZ ile GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/eps-to-gif" >EPS ile GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/cdr-to-gif" >CDR ile GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/cmx-to-gif" >CMX ile GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/otg-to-gif" >OTG ile GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/odg-to-gif" >ODG ile GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/ico-to-gif" >ICO ile GIF</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/apng-to-gif" style="padding:15px;">APNG ile GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/bmp-to-gif" style="padding:15px;">BMP ile GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/dib-to-gif" style="padding:15px;">DIB ile GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/dicom-to-gif" style="padding:15px;">DICOM ile GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/djvu-to-gif" style="padding:15px;">DJVU ile GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/dng-to-gif" style="padding:15px;">DNG ile GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/emf-to-gif" style="padding:15px;">EMF ile GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/emz-to-gif" style="padding:15px;">EMZ ile GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/jpeg2000-to-gif" style="padding:15px;">JPEG2000 ile GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/jp2-to-gif" style="padding:15px;">JP2 ile GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/j2k-to-gif" style="padding:15px;">J2K ile GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/jpg-to-gif" style="padding:15px;">JPG ile GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/jpeg-to-gif" style="padding:15px;">JPEG ile GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/png-to-gif" style="padding:15px;">PNG ile GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/tga-to-gif" style="padding:15px;">TGA ile GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/tif-to-gif" style="padding:15px;">TIF ile GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/tiff-to-gif" style="padding:15px;">TIFF ile GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/webp-to-gif" style="padding:15px;">WEBP ile GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/wmf-to-gif" style="padding:15px;">WMF ile GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/wmz-to-gif" style="padding:15px;">WMZ ile GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/svg-to-gif" style="padding:15px;">SVG ile GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/svgz-to-gif" style="padding:15px;">SVGZ ile GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/eps-to-gif" style="padding:15px;">EPS ile GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/cdr-to-gif" style="padding:15px;">CDR ile GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/cmx-to-gif" style="padding:15px;">CMX ile GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/otg-to-gif" style="padding:15px;">OTG ile GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/odg-to-gif" style="padding:15px;">ODG ile GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/ico-to-gif" style="padding:15px;">ICO ile GIF</a></div>
                 </div>
         </div>
     </div>

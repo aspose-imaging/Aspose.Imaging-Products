@@ -21,35 +21,35 @@ description: 您可以通過 .NET 庫使用 Aspose.Imaging for Python 將各種�
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/apng-to-dicom" >APNG 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/bmp-to-dicom" >BMP 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/dib-to-dicom" >DIB 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/djvu-to-dicom" >DJVU 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/dng-to-dicom" >DNG 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/emf-to-dicom" >EMF 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/emz-to-dicom" >EMZ 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/gif-to-dicom" >GIF 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/jpeg2000-to-dicom" >JPEG2000 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/jp2-to-dicom" >JP2 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/j2k-to-dicom" >J2K 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/jpg-to-dicom" >JPG 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/jpeg-to-dicom" >JPEG 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/png-to-dicom" >PNG 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/tga-to-dicom" >TGA 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/tif-to-dicom" >TIF 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/tiff-to-dicom" >TIFF 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/webp-to-dicom" >WEBP 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/wmf-to-dicom" >WMF 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/wmz-to-dicom" >WMZ 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/svg-to-dicom" >SVG 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/svgz-to-dicom" >SVGZ 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/eps-to-dicom" >EPS 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/cdr-to-dicom" >CDR 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/cmx-to-dicom" >CMX 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/otg-to-dicom" >OTG 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/odg-to-dicom" >ODG 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/ico-to-dicom" >ICO 到 DICOM</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/apng-to-dicom" style="padding:15px;">APNG 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/bmp-to-dicom" style="padding:15px;">BMP 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/dib-to-dicom" style="padding:15px;">DIB 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/djvu-to-dicom" style="padding:15px;">DJVU 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/dng-to-dicom" style="padding:15px;">DNG 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/emf-to-dicom" style="padding:15px;">EMF 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/emz-to-dicom" style="padding:15px;">EMZ 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/gif-to-dicom" style="padding:15px;">GIF 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/jpeg2000-to-dicom" style="padding:15px;">JPEG2000 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/jp2-to-dicom" style="padding:15px;">JP2 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/j2k-to-dicom" style="padding:15px;">J2K 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/jpg-to-dicom" style="padding:15px;">JPG 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/jpeg-to-dicom" style="padding:15px;">JPEG 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/png-to-dicom" style="padding:15px;">PNG 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/tga-to-dicom" style="padding:15px;">TGA 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/tif-to-dicom" style="padding:15px;">TIF 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/tiff-to-dicom" style="padding:15px;">TIFF 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/webp-to-dicom" style="padding:15px;">WEBP 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/wmf-to-dicom" style="padding:15px;">WMF 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/wmz-to-dicom" style="padding:15px;">WMZ 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/svg-to-dicom" style="padding:15px;">SVG 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/svgz-to-dicom" style="padding:15px;">SVGZ 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/eps-to-dicom" style="padding:15px;">EPS 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/cdr-to-dicom" style="padding:15px;">CDR 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/cmx-to-dicom" style="padding:15px;">CMX 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/otg-to-dicom" style="padding:15px;">OTG 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/odg-to-dicom" style="padding:15px;">ODG 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/python-net/conversion/ico-to-dicom" style="padding:15px;">ICO 到 DICOM</a></div>
                 </div>
         </div>
     </div>

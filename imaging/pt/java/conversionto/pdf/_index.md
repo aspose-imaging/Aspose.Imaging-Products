@@ -21,36 +21,36 @@ Conversões suportadas:
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/apng-to-pdf" >APNG para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/bmp-to-pdf" >BMP para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/dib-to-pdf" >DIB para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/dicom-to-pdf" >DICOM para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/djvu-to-pdf" >DJVU para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/dng-to-pdf" >DNG para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/emf-to-pdf" >EMF para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/emz-to-pdf" >EMZ para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/gif-to-pdf" >GIF para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/jpeg2000-to-pdf" >JPEG2000 para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/jp2-to-pdf" >JP2 para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/j2k-to-pdf" >J2K para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/jpg-to-pdf" >JPG para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/jpeg-to-pdf" >JPEG para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/png-to-pdf" >PNG para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/tga-to-pdf" >TGA para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/tif-to-pdf" >TIF para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/tiff-to-pdf" >TIFF para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/webp-to-pdf" >WEBP para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/wmf-to-pdf" >WMF para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/wmz-to-pdf" >WMZ para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/svg-to-pdf" >SVG para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/svgz-to-pdf" >SVGZ para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/eps-to-pdf" >EPS para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/cdr-to-pdf" >CDR para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/cmx-to-pdf" >CMX para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/otg-to-pdf" >OTG para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/odg-to-pdf" >ODG para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/ico-to-pdf" >ICO para PDF</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/apng-to-pdf" style="padding:15px;">APNG para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/bmp-to-pdf" style="padding:15px;">BMP para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/dib-to-pdf" style="padding:15px;">DIB para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/dicom-to-pdf" style="padding:15px;">DICOM para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/djvu-to-pdf" style="padding:15px;">DJVU para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/dng-to-pdf" style="padding:15px;">DNG para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/emf-to-pdf" style="padding:15px;">EMF para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/emz-to-pdf" style="padding:15px;">EMZ para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/gif-to-pdf" style="padding:15px;">GIF para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/jpeg2000-to-pdf" style="padding:15px;">JPEG2000 para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/jp2-to-pdf" style="padding:15px;">JP2 para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/j2k-to-pdf" style="padding:15px;">J2K para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/jpg-to-pdf" style="padding:15px;">JPG para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/jpeg-to-pdf" style="padding:15px;">JPEG para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/png-to-pdf" style="padding:15px;">PNG para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/tga-to-pdf" style="padding:15px;">TGA para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/tif-to-pdf" style="padding:15px;">TIF para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/tiff-to-pdf" style="padding:15px;">TIFF para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/webp-to-pdf" style="padding:15px;">WEBP para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/wmf-to-pdf" style="padding:15px;">WMF para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/wmz-to-pdf" style="padding:15px;">WMZ para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/svg-to-pdf" style="padding:15px;">SVG para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/svgz-to-pdf" style="padding:15px;">SVGZ para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/eps-to-pdf" style="padding:15px;">EPS para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/cdr-to-pdf" style="padding:15px;">CDR para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/cmx-to-pdf" style="padding:15px;">CMX para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/otg-to-pdf" style="padding:15px;">OTG para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/odg-to-pdf" style="padding:15px;">ODG para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/ico-to-pdf" style="padding:15px;">ICO para PDF</a></div>
                 </div>
         </div>
     </div>

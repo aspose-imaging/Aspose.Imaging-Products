@@ -21,36 +21,36 @@ Se admiten las siguientes conversiones:
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/apng-to-canvas" >APNG a CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/bmp-to-canvas" >BMP a CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/dib-to-canvas" >DIB a CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/dicom-to-canvas" >DICOM a CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/djvu-to-canvas" >DJVU a CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/dng-to-canvas" >DNG a CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/emf-to-canvas" >EMF a CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/emz-to-canvas" >EMZ a CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/gif-to-canvas" >GIF a CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/jpeg2000-to-canvas" >JPEG2000 a CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/jp2-to-canvas" >JP2 a CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/j2k-to-canvas" >J2K a CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/jpg-to-canvas" >JPG a CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/jpeg-to-canvas" >JPEG a CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/png-to-canvas" >PNG a CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/tga-to-canvas" >TGA a CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/tif-to-canvas" >TIF a CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/tiff-to-canvas" >TIFF a CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/webp-to-canvas" >WEBP a CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/wmf-to-canvas" >WMF a CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/wmz-to-canvas" >WMZ a CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/svg-to-canvas" >SVG a CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/svgz-to-canvas" >SVGZ a CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/eps-to-canvas" >EPS a CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/cdr-to-canvas" >CDR a CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/cmx-to-canvas" >CMX a CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/otg-to-canvas" >OTG a CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/odg-to-canvas" >ODG a CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/ico-to-canvas" >ICO a CANVAS</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/apng-to-canvas" style="padding:15px;">APNG a CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/bmp-to-canvas" style="padding:15px;">BMP a CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/dib-to-canvas" style="padding:15px;">DIB a CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/dicom-to-canvas" style="padding:15px;">DICOM a CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/djvu-to-canvas" style="padding:15px;">DJVU a CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/dng-to-canvas" style="padding:15px;">DNG a CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/emf-to-canvas" style="padding:15px;">EMF a CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/emz-to-canvas" style="padding:15px;">EMZ a CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/gif-to-canvas" style="padding:15px;">GIF a CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/jpeg2000-to-canvas" style="padding:15px;">JPEG2000 a CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/jp2-to-canvas" style="padding:15px;">JP2 a CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/j2k-to-canvas" style="padding:15px;">J2K a CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/jpg-to-canvas" style="padding:15px;">JPG a CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/jpeg-to-canvas" style="padding:15px;">JPEG a CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/png-to-canvas" style="padding:15px;">PNG a CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/tga-to-canvas" style="padding:15px;">TGA a CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/tif-to-canvas" style="padding:15px;">TIF a CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/tiff-to-canvas" style="padding:15px;">TIFF a CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/webp-to-canvas" style="padding:15px;">WEBP a CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/wmf-to-canvas" style="padding:15px;">WMF a CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/wmz-to-canvas" style="padding:15px;">WMZ a CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/svg-to-canvas" style="padding:15px;">SVG a CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/svgz-to-canvas" style="padding:15px;">SVGZ a CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/eps-to-canvas" style="padding:15px;">EPS a CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/cdr-to-canvas" style="padding:15px;">CDR a CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/cmx-to-canvas" style="padding:15px;">CMX a CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/otg-to-canvas" style="padding:15px;">OTG a CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/odg-to-canvas" style="padding:15px;">ODG a CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/ico-to-canvas" style="padding:15px;">ICO a CANVAS</a></div>
                 </div>
         </div>
     </div>

@@ -21,35 +21,35 @@ description: आप विभिन्न स्वरूपों से TGA �
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/apng-to-tga" >APNG को TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/bmp-to-tga" >BMP को TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/dib-to-tga" >DIB को TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/dicom-to-tga" >DICOM को TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/djvu-to-tga" >DJVU को TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/dng-to-tga" >DNG को TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/emf-to-tga" >EMF को TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/emz-to-tga" >EMZ को TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/gif-to-tga" >GIF को TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/jpeg2000-to-tga" >JPEG2000 को TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/jp2-to-tga" >JP2 को TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/j2k-to-tga" >J2K को TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/jpg-to-tga" >JPG को TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/jpeg-to-tga" >JPEG को TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/png-to-tga" >PNG को TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/tif-to-tga" >TIF को TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/tiff-to-tga" >TIFF को TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/webp-to-tga" >WEBP को TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/wmf-to-tga" >WMF को TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/wmz-to-tga" >WMZ को TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/svg-to-tga" >SVG को TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/svgz-to-tga" >SVGZ को TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/eps-to-tga" >EPS को TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/cdr-to-tga" >CDR को TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/cmx-to-tga" >CMX को TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/otg-to-tga" >OTG को TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/odg-to-tga" >ODG को TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/ico-to-tga" >ICO को TGA</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/apng-to-tga" style="padding:15px;">APNG को TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/bmp-to-tga" style="padding:15px;">BMP को TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/dib-to-tga" style="padding:15px;">DIB को TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/dicom-to-tga" style="padding:15px;">DICOM को TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/djvu-to-tga" style="padding:15px;">DJVU को TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/dng-to-tga" style="padding:15px;">DNG को TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/emf-to-tga" style="padding:15px;">EMF को TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/emz-to-tga" style="padding:15px;">EMZ को TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/gif-to-tga" style="padding:15px;">GIF को TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/jpeg2000-to-tga" style="padding:15px;">JPEG2000 को TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/jp2-to-tga" style="padding:15px;">JP2 को TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/j2k-to-tga" style="padding:15px;">J2K को TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/jpg-to-tga" style="padding:15px;">JPG को TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/jpeg-to-tga" style="padding:15px;">JPEG को TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/png-to-tga" style="padding:15px;">PNG को TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/tif-to-tga" style="padding:15px;">TIF को TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/tiff-to-tga" style="padding:15px;">TIFF को TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/webp-to-tga" style="padding:15px;">WEBP को TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/wmf-to-tga" style="padding:15px;">WMF को TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/wmz-to-tga" style="padding:15px;">WMZ को TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/svg-to-tga" style="padding:15px;">SVG को TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/svgz-to-tga" style="padding:15px;">SVGZ को TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/eps-to-tga" style="padding:15px;">EPS को TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/cdr-to-tga" style="padding:15px;">CDR को TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/cmx-to-tga" style="padding:15px;">CMX को TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/otg-to-tga" style="padding:15px;">OTG को TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/odg-to-tga" style="padding:15px;">ODG को TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/ico-to-tga" style="padding:15px;">ICO को TGA</a></div>
                 </div>
         </div>
     </div>

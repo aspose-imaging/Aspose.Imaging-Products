@@ -21,35 +21,35 @@ Conversões suportadas:
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/apng-to-tga" >APNG para TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/bmp-to-tga" >BMP para TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/dib-to-tga" >DIB para TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/dicom-to-tga" >DICOM para TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/djvu-to-tga" >DJVU para TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/dng-to-tga" >DNG para TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/emf-to-tga" >EMF para TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/emz-to-tga" >EMZ para TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/gif-to-tga" >GIF para TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/jpeg2000-to-tga" >JPEG2000 para TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/jp2-to-tga" >JP2 para TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/j2k-to-tga" >J2K para TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/jpg-to-tga" >JPG para TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/jpeg-to-tga" >JPEG para TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/png-to-tga" >PNG para TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/tif-to-tga" >TIF para TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/tiff-to-tga" >TIFF para TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/webp-to-tga" >WEBP para TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/wmf-to-tga" >WMF para TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/wmz-to-tga" >WMZ para TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/svg-to-tga" >SVG para TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/svgz-to-tga" >SVGZ para TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/eps-to-tga" >EPS para TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/cdr-to-tga" >CDR para TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/cmx-to-tga" >CMX para TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/otg-to-tga" >OTG para TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/odg-to-tga" >ODG para TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/ico-to-tga" >ICO para TGA</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/apng-to-tga" style="padding:15px;">APNG para TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/bmp-to-tga" style="padding:15px;">BMP para TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/dib-to-tga" style="padding:15px;">DIB para TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/dicom-to-tga" style="padding:15px;">DICOM para TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/djvu-to-tga" style="padding:15px;">DJVU para TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/dng-to-tga" style="padding:15px;">DNG para TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/emf-to-tga" style="padding:15px;">EMF para TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/emz-to-tga" style="padding:15px;">EMZ para TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/gif-to-tga" style="padding:15px;">GIF para TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/jpeg2000-to-tga" style="padding:15px;">JPEG2000 para TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/jp2-to-tga" style="padding:15px;">JP2 para TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/j2k-to-tga" style="padding:15px;">J2K para TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/jpg-to-tga" style="padding:15px;">JPG para TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/jpeg-to-tga" style="padding:15px;">JPEG para TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/png-to-tga" style="padding:15px;">PNG para TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/tif-to-tga" style="padding:15px;">TIF para TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/tiff-to-tga" style="padding:15px;">TIFF para TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/webp-to-tga" style="padding:15px;">WEBP para TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/wmf-to-tga" style="padding:15px;">WMF para TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/wmz-to-tga" style="padding:15px;">WMZ para TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/svg-to-tga" style="padding:15px;">SVG para TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/svgz-to-tga" style="padding:15px;">SVGZ para TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/eps-to-tga" style="padding:15px;">EPS para TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/cdr-to-tga" style="padding:15px;">CDR para TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/cmx-to-tga" style="padding:15px;">CMX para TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/otg-to-tga" style="padding:15px;">OTG para TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/odg-to-tga" style="padding:15px;">ODG para TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/java/conversion/ico-to-tga" style="padding:15px;">ICO para TGA</a></div>
                 </div>
         </div>
     </div>

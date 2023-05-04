@@ -21,35 +21,35 @@ Obsługiwane są następujące konwersje:
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/apng-to-ico" >APNG do ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/bmp-to-ico" >BMP do ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/dib-to-ico" >DIB do ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/dicom-to-ico" >DICOM do ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/djvu-to-ico" >DJVU do ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/dng-to-ico" >DNG do ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/emf-to-ico" >EMF do ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/emz-to-ico" >EMZ do ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/gif-to-ico" >GIF do ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/jpeg2000-to-ico" >JPEG2000 do ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/jp2-to-ico" >JP2 do ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/j2k-to-ico" >J2K do ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/jpg-to-ico" >JPG do ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/jpeg-to-ico" >JPEG do ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/png-to-ico" >PNG do ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/tga-to-ico" >TGA do ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/tif-to-ico" >TIF do ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/tiff-to-ico" >TIFF do ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/webp-to-ico" >WEBP do ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/wmf-to-ico" >WMF do ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/wmz-to-ico" >WMZ do ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/svg-to-ico" >SVG do ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/svgz-to-ico" >SVGZ do ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/eps-to-ico" >EPS do ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/cdr-to-ico" >CDR do ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/cmx-to-ico" >CMX do ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/otg-to-ico" >OTG do ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/odg-to-ico" >ODG do ICO</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/apng-to-ico" style="padding:15px;">APNG do ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/bmp-to-ico" style="padding:15px;">BMP do ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/dib-to-ico" style="padding:15px;">DIB do ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/dicom-to-ico" style="padding:15px;">DICOM do ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/djvu-to-ico" style="padding:15px;">DJVU do ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/dng-to-ico" style="padding:15px;">DNG do ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/emf-to-ico" style="padding:15px;">EMF do ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/emz-to-ico" style="padding:15px;">EMZ do ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/gif-to-ico" style="padding:15px;">GIF do ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/jpeg2000-to-ico" style="padding:15px;">JPEG2000 do ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/jp2-to-ico" style="padding:15px;">JP2 do ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/j2k-to-ico" style="padding:15px;">J2K do ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/jpg-to-ico" style="padding:15px;">JPG do ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/jpeg-to-ico" style="padding:15px;">JPEG do ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/png-to-ico" style="padding:15px;">PNG do ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/tga-to-ico" style="padding:15px;">TGA do ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/tif-to-ico" style="padding:15px;">TIF do ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/tiff-to-ico" style="padding:15px;">TIFF do ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/webp-to-ico" style="padding:15px;">WEBP do ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/wmf-to-ico" style="padding:15px;">WMF do ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/wmz-to-ico" style="padding:15px;">WMZ do ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/svg-to-ico" style="padding:15px;">SVG do ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/svgz-to-ico" style="padding:15px;">SVGZ do ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/eps-to-ico" style="padding:15px;">EPS do ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/cdr-to-ico" style="padding:15px;">CDR do ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/cmx-to-ico" style="padding:15px;">CMX do ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/otg-to-ico" style="padding:15px;">OTG do ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/net/conversion/odg-to-ico" style="padding:15px;">ODG do ICO</a></div>
                 </div>
         </div>
     </div>

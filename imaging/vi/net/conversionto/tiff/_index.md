@@ -21,34 +21,34 @@ chuyển đổi sau đây được hỗ trợ:
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/apng-to-tiff" >APNG đến TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/bmp-to-tiff" >BMP đến TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/dib-to-tiff" >DIB đến TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/dicom-to-tiff" >DICOM đến TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/djvu-to-tiff" >DJVU đến TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/dng-to-tiff" >DNG đến TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/emf-to-tiff" >EMF đến TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/emz-to-tiff" >EMZ đến TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/gif-to-tiff" >GIF đến TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/jpeg2000-to-tiff" >JPEG2000 đến TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/jp2-to-tiff" >JP2 đến TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/j2k-to-tiff" >J2K đến TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/jpg-to-tiff" >JPG đến TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/jpeg-to-tiff" >JPEG đến TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/png-to-tiff" >PNG đến TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/tga-to-tiff" >TGA đến TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/webp-to-tiff" >WEBP đến TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/wmf-to-tiff" >WMF đến TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/wmz-to-tiff" >WMZ đến TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/svg-to-tiff" >SVG đến TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/svgz-to-tiff" >SVGZ đến TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/eps-to-tiff" >EPS đến TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/cdr-to-tiff" >CDR đến TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/cmx-to-tiff" >CMX đến TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/otg-to-tiff" >OTG đến TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/odg-to-tiff" >ODG đến TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/ico-to-tiff" >ICO đến TIFF</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/apng-to-tiff" style="padding:15px;">APNG đến TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/bmp-to-tiff" style="padding:15px;">BMP đến TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/dib-to-tiff" style="padding:15px;">DIB đến TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/dicom-to-tiff" style="padding:15px;">DICOM đến TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/djvu-to-tiff" style="padding:15px;">DJVU đến TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/dng-to-tiff" style="padding:15px;">DNG đến TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/emf-to-tiff" style="padding:15px;">EMF đến TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/emz-to-tiff" style="padding:15px;">EMZ đến TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/gif-to-tiff" style="padding:15px;">GIF đến TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/jpeg2000-to-tiff" style="padding:15px;">JPEG2000 đến TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/jp2-to-tiff" style="padding:15px;">JP2 đến TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/j2k-to-tiff" style="padding:15px;">J2K đến TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/jpg-to-tiff" style="padding:15px;">JPG đến TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/jpeg-to-tiff" style="padding:15px;">JPEG đến TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/png-to-tiff" style="padding:15px;">PNG đến TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/tga-to-tiff" style="padding:15px;">TGA đến TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/webp-to-tiff" style="padding:15px;">WEBP đến TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/wmf-to-tiff" style="padding:15px;">WMF đến TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/wmz-to-tiff" style="padding:15px;">WMZ đến TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/svg-to-tiff" style="padding:15px;">SVG đến TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/svgz-to-tiff" style="padding:15px;">SVGZ đến TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/eps-to-tiff" style="padding:15px;">EPS đến TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/cdr-to-tiff" style="padding:15px;">CDR đến TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/cmx-to-tiff" style="padding:15px;">CMX đến TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/otg-to-tiff" style="padding:15px;">OTG đến TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/odg-to-tiff" style="padding:15px;">ODG đến TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/ico-to-tiff" style="padding:15px;">ICO đến TIFF</a></div>
                 </div>
         </div>
     </div>

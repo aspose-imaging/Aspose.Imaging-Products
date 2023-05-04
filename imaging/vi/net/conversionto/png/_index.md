@@ -21,35 +21,35 @@ chuyển đổi sau đây được hỗ trợ:
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/apng-to-png" >APNG đến PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/bmp-to-png" >BMP đến PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/dib-to-png" >DIB đến PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/dicom-to-png" >DICOM đến PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/djvu-to-png" >DJVU đến PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/dng-to-png" >DNG đến PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/emf-to-png" >EMF đến PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/emz-to-png" >EMZ đến PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/gif-to-png" >GIF đến PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/jpeg2000-to-png" >JPEG2000 đến PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/jp2-to-png" >JP2 đến PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/j2k-to-png" >J2K đến PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/jpg-to-png" >JPG đến PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/jpeg-to-png" >JPEG đến PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/tga-to-png" >TGA đến PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/tif-to-png" >TIF đến PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/tiff-to-png" >TIFF đến PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/webp-to-png" >WEBP đến PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/wmf-to-png" >WMF đến PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/wmz-to-png" >WMZ đến PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/svg-to-png" >SVG đến PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/svgz-to-png" >SVGZ đến PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/eps-to-png" >EPS đến PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/cdr-to-png" >CDR đến PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/cmx-to-png" >CMX đến PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/otg-to-png" >OTG đến PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/odg-to-png" >ODG đến PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/ico-to-png" >ICO đến PNG</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/apng-to-png" style="padding:15px;">APNG đến PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/bmp-to-png" style="padding:15px;">BMP đến PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/dib-to-png" style="padding:15px;">DIB đến PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/dicom-to-png" style="padding:15px;">DICOM đến PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/djvu-to-png" style="padding:15px;">DJVU đến PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/dng-to-png" style="padding:15px;">DNG đến PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/emf-to-png" style="padding:15px;">EMF đến PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/emz-to-png" style="padding:15px;">EMZ đến PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/gif-to-png" style="padding:15px;">GIF đến PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/jpeg2000-to-png" style="padding:15px;">JPEG2000 đến PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/jp2-to-png" style="padding:15px;">JP2 đến PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/j2k-to-png" style="padding:15px;">J2K đến PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/jpg-to-png" style="padding:15px;">JPG đến PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/jpeg-to-png" style="padding:15px;">JPEG đến PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/tga-to-png" style="padding:15px;">TGA đến PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/tif-to-png" style="padding:15px;">TIF đến PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/tiff-to-png" style="padding:15px;">TIFF đến PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/webp-to-png" style="padding:15px;">WEBP đến PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/wmf-to-png" style="padding:15px;">WMF đến PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/wmz-to-png" style="padding:15px;">WMZ đến PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/svg-to-png" style="padding:15px;">SVG đến PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/svgz-to-png" style="padding:15px;">SVGZ đến PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/eps-to-png" style="padding:15px;">EPS đến PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/cdr-to-png" style="padding:15px;">CDR đến PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/cmx-to-png" style="padding:15px;">CMX đến PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/otg-to-png" style="padding:15px;">OTG đến PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/odg-to-png" style="padding:15px;">ODG đến PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/ico-to-png" style="padding:15px;">ICO đến PNG</a></div>
                 </div>
         </div>
     </div>

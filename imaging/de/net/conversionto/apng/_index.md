@@ -21,35 +21,35 @@ Folgende Konvertierungen werden unterstützt:
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/bmp-to-apng" >BMP zu APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/dib-to-apng" >DIB zu APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/dicom-to-apng" >DICOM zu APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/djvu-to-apng" >DJVU zu APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/dng-to-apng" >DNG zu APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/emf-to-apng" >EMF zu APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/emz-to-apng" >EMZ zu APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/gif-to-apng" >GIF zu APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/jpeg2000-to-apng" >JPEG2000 zu APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/jp2-to-apng" >JP2 zu APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/j2k-to-apng" >J2K zu APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/jpg-to-apng" >JPG zu APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/jpeg-to-apng" >JPEG zu APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/png-to-apng" >PNG zu APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/tga-to-apng" >TGA zu APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/tif-to-apng" >TIF zu APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/tiff-to-apng" >TIFF zu APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/webp-to-apng" >WEBP zu APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/wmf-to-apng" >WMF zu APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/wmz-to-apng" >WMZ zu APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/svg-to-apng" >SVG zu APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/svgz-to-apng" >SVGZ zu APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/eps-to-apng" >EPS zu APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/cdr-to-apng" >CDR zu APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/cmx-to-apng" >CMX zu APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/otg-to-apng" >OTG zu APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/odg-to-apng" >ODG zu APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/ico-to-apng" >ICO zu APNG</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/bmp-to-apng" style="padding:15px;">BMP zu APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/dib-to-apng" style="padding:15px;">DIB zu APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/dicom-to-apng" style="padding:15px;">DICOM zu APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/djvu-to-apng" style="padding:15px;">DJVU zu APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/dng-to-apng" style="padding:15px;">DNG zu APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/emf-to-apng" style="padding:15px;">EMF zu APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/emz-to-apng" style="padding:15px;">EMZ zu APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/gif-to-apng" style="padding:15px;">GIF zu APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/jpeg2000-to-apng" style="padding:15px;">JPEG2000 zu APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/jp2-to-apng" style="padding:15px;">JP2 zu APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/j2k-to-apng" style="padding:15px;">J2K zu APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/jpg-to-apng" style="padding:15px;">JPG zu APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/jpeg-to-apng" style="padding:15px;">JPEG zu APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/png-to-apng" style="padding:15px;">PNG zu APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/tga-to-apng" style="padding:15px;">TGA zu APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/tif-to-apng" style="padding:15px;">TIF zu APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/tiff-to-apng" style="padding:15px;">TIFF zu APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/webp-to-apng" style="padding:15px;">WEBP zu APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/wmf-to-apng" style="padding:15px;">WMF zu APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/wmz-to-apng" style="padding:15px;">WMZ zu APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/svg-to-apng" style="padding:15px;">SVG zu APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/svgz-to-apng" style="padding:15px;">SVGZ zu APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/eps-to-apng" style="padding:15px;">EPS zu APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/cdr-to-apng" style="padding:15px;">CDR zu APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/cmx-to-apng" style="padding:15px;">CMX zu APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/otg-to-apng" style="padding:15px;">OTG zu APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/odg-to-apng" style="padding:15px;">ODG zu APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/ico-to-apng" style="padding:15px;">ICO zu APNG</a></div>
                 </div>
         </div>
     </div>

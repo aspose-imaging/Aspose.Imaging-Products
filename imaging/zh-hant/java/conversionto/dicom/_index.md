@@ -21,35 +21,35 @@ description: 使用 Aspose.Imaging，您可以使用 Java 從其他格式轉換�
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/apng-to-dicom" >APNG 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/bmp-to-dicom" >BMP 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/dib-to-dicom" >DIB 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/djvu-to-dicom" >DJVU 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/dng-to-dicom" >DNG 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/emf-to-dicom" >EMF 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/emz-to-dicom" >EMZ 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/gif-to-dicom" >GIF 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/jpeg2000-to-dicom" >JPEG2000 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/jp2-to-dicom" >JP2 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/j2k-to-dicom" >J2K 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/jpg-to-dicom" >JPG 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/jpeg-to-dicom" >JPEG 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/png-to-dicom" >PNG 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/tga-to-dicom" >TGA 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/tif-to-dicom" >TIF 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/tiff-to-dicom" >TIFF 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/webp-to-dicom" >WEBP 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/wmf-to-dicom" >WMF 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/wmz-to-dicom" >WMZ 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/svg-to-dicom" >SVG 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/svgz-to-dicom" >SVGZ 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/eps-to-dicom" >EPS 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/cdr-to-dicom" >CDR 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/cmx-to-dicom" >CMX 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/otg-to-dicom" >OTG 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/odg-to-dicom" >ODG 到 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/ico-to-dicom" >ICO 到 DICOM</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/apng-to-dicom" style="padding:15px;">APNG 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/bmp-to-dicom" style="padding:15px;">BMP 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/dib-to-dicom" style="padding:15px;">DIB 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/djvu-to-dicom" style="padding:15px;">DJVU 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/dng-to-dicom" style="padding:15px;">DNG 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/emf-to-dicom" style="padding:15px;">EMF 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/emz-to-dicom" style="padding:15px;">EMZ 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/gif-to-dicom" style="padding:15px;">GIF 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/jpeg2000-to-dicom" style="padding:15px;">JPEG2000 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/jp2-to-dicom" style="padding:15px;">JP2 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/j2k-to-dicom" style="padding:15px;">J2K 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/jpg-to-dicom" style="padding:15px;">JPG 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/jpeg-to-dicom" style="padding:15px;">JPEG 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/png-to-dicom" style="padding:15px;">PNG 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/tga-to-dicom" style="padding:15px;">TGA 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/tif-to-dicom" style="padding:15px;">TIF 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/tiff-to-dicom" style="padding:15px;">TIFF 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/webp-to-dicom" style="padding:15px;">WEBP 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/wmf-to-dicom" style="padding:15px;">WMF 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/wmz-to-dicom" style="padding:15px;">WMZ 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/svg-to-dicom" style="padding:15px;">SVG 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/svgz-to-dicom" style="padding:15px;">SVGZ 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/eps-to-dicom" style="padding:15px;">EPS 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/cdr-to-dicom" style="padding:15px;">CDR 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/cmx-to-dicom" style="padding:15px;">CMX 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/otg-to-dicom" style="padding:15px;">OTG 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/odg-to-dicom" style="padding:15px;">ODG 到 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/java/conversion/ico-to-dicom" style="padding:15px;">ICO 到 DICOM</a></div>
                 </div>
         </div>
     </div>

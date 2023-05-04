@@ -21,35 +21,35 @@ Following conversions are supported :
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/apng-to-emz" >APNG to EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/bmp-to-emz" >BMP to EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/dib-to-emz" >DIB to EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/dicom-to-emz" >DICOM to EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/djvu-to-emz" >DJVU to EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/dng-to-emz" >DNG to EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/emf-to-emz" >EMF to EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/gif-to-emz" >GIF to EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/jpeg2000-to-emz" >JPEG2000 to EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/jp2-to-emz" >JP2 to EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/j2k-to-emz" >J2K to EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/jpg-to-emz" >JPG to EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/jpeg-to-emz" >JPEG to EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/png-to-emz" >PNG to EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/tga-to-emz" >TGA to EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/tif-to-emz" >TIF to EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/tiff-to-emz" >TIFF to EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/webp-to-emz" >WEBP to EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/wmf-to-emz" >WMF to EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/wmz-to-emz" >WMZ to EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/svg-to-emz" >SVG to EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/svgz-to-emz" >SVGZ to EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/eps-to-emz" >EPS to EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/cdr-to-emz" >CDR to EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/cmx-to-emz" >CMX to EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/otg-to-emz" >OTG to EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/odg-to-emz" >ODG to EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/ico-to-emz" >ICO to EMZ</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/apng-to-emz" style="padding:15px;">APNG to EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/bmp-to-emz" style="padding:15px;">BMP to EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/dib-to-emz" style="padding:15px;">DIB to EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/dicom-to-emz" style="padding:15px;">DICOM to EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/djvu-to-emz" style="padding:15px;">DJVU to EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/dng-to-emz" style="padding:15px;">DNG to EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/emf-to-emz" style="padding:15px;">EMF to EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/gif-to-emz" style="padding:15px;">GIF to EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/jpeg2000-to-emz" style="padding:15px;">JPEG2000 to EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/jp2-to-emz" style="padding:15px;">JP2 to EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/j2k-to-emz" style="padding:15px;">J2K to EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/jpg-to-emz" style="padding:15px;">JPG to EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/jpeg-to-emz" style="padding:15px;">JPEG to EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/png-to-emz" style="padding:15px;">PNG to EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/tga-to-emz" style="padding:15px;">TGA to EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/tif-to-emz" style="padding:15px;">TIF to EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/tiff-to-emz" style="padding:15px;">TIFF to EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/webp-to-emz" style="padding:15px;">WEBP to EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/wmf-to-emz" style="padding:15px;">WMF to EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/wmz-to-emz" style="padding:15px;">WMZ to EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/svg-to-emz" style="padding:15px;">SVG to EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/svgz-to-emz" style="padding:15px;">SVGZ to EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/eps-to-emz" style="padding:15px;">EPS to EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/cdr-to-emz" style="padding:15px;">CDR to EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/cmx-to-emz" style="padding:15px;">CMX to EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/otg-to-emz" style="padding:15px;">OTG to EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/odg-to-emz" style="padding:15px;">ODG to EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/ico-to-emz" style="padding:15px;">ICO to EMZ</a></div>
                 </div>
         </div>
     </div>

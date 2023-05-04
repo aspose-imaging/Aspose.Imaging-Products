@@ -21,36 +21,36 @@ Conversiones admitidas:
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/apng-to-dxf" >APNG a DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/bmp-to-dxf" >BMP a DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/dib-to-dxf" >DIB a DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/dicom-to-dxf" >DICOM a DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/djvu-to-dxf" >DJVU a DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/dng-to-dxf" >DNG a DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/emf-to-dxf" >EMF a DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/emz-to-dxf" >EMZ a DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/gif-to-dxf" >GIF a DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/jpeg2000-to-dxf" >JPEG2000 a DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/jp2-to-dxf" >JP2 a DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/j2k-to-dxf" >J2K a DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/jpg-to-dxf" >JPG a DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/jpeg-to-dxf" >JPEG a DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/png-to-dxf" >PNG a DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/tga-to-dxf" >TGA a DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/tif-to-dxf" >TIF a DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/tiff-to-dxf" >TIFF a DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/webp-to-dxf" >WEBP a DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/wmf-to-dxf" >WMF a DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/wmz-to-dxf" >WMZ a DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/svg-to-dxf" >SVG a DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/svgz-to-dxf" >SVGZ a DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/eps-to-dxf" >EPS a DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/cdr-to-dxf" >CDR a DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/cmx-to-dxf" >CMX a DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/otg-to-dxf" >OTG a DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/odg-to-dxf" >ODG a DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/ico-to-dxf" >ICO a DXF</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/apng-to-dxf" style="padding:15px;">APNG a DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/bmp-to-dxf" style="padding:15px;">BMP a DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/dib-to-dxf" style="padding:15px;">DIB a DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/dicom-to-dxf" style="padding:15px;">DICOM a DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/djvu-to-dxf" style="padding:15px;">DJVU a DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/dng-to-dxf" style="padding:15px;">DNG a DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/emf-to-dxf" style="padding:15px;">EMF a DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/emz-to-dxf" style="padding:15px;">EMZ a DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/gif-to-dxf" style="padding:15px;">GIF a DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/jpeg2000-to-dxf" style="padding:15px;">JPEG2000 a DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/jp2-to-dxf" style="padding:15px;">JP2 a DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/j2k-to-dxf" style="padding:15px;">J2K a DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/jpg-to-dxf" style="padding:15px;">JPG a DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/jpeg-to-dxf" style="padding:15px;">JPEG a DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/png-to-dxf" style="padding:15px;">PNG a DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/tga-to-dxf" style="padding:15px;">TGA a DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/tif-to-dxf" style="padding:15px;">TIF a DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/tiff-to-dxf" style="padding:15px;">TIFF a DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/webp-to-dxf" style="padding:15px;">WEBP a DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/wmf-to-dxf" style="padding:15px;">WMF a DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/wmz-to-dxf" style="padding:15px;">WMZ a DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/svg-to-dxf" style="padding:15px;">SVG a DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/svgz-to-dxf" style="padding:15px;">SVGZ a DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/eps-to-dxf" style="padding:15px;">EPS a DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/cdr-to-dxf" style="padding:15px;">CDR a DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/cmx-to-dxf" style="padding:15px;">CMX a DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/otg-to-dxf" style="padding:15px;">OTG a DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/odg-to-dxf" style="padding:15px;">ODG a DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/java/conversion/ico-to-dxf" style="padding:15px;">ICO a DXF</a></div>
                 </div>
         </div>
     </div>

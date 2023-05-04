@@ -21,34 +21,34 @@ description: Aspose.Imaging을 사용하면 Java를 사용하여 다른 형식�
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/apng-to-jpg" >APNG 에게 JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/bmp-to-jpg" >BMP 에게 JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/dib-to-jpg" >DIB 에게 JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/dicom-to-jpg" >DICOM 에게 JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/djvu-to-jpg" >DJVU 에게 JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/dng-to-jpg" >DNG 에게 JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/emf-to-jpg" >EMF 에게 JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/emz-to-jpg" >EMZ 에게 JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/gif-to-jpg" >GIF 에게 JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/jpeg2000-to-jpg" >JPEG2000 에게 JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/jp2-to-jpg" >JP2 에게 JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/j2k-to-jpg" >J2K 에게 JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/png-to-jpg" >PNG 에게 JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/tga-to-jpg" >TGA 에게 JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/tif-to-jpg" >TIF 에게 JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/tiff-to-jpg" >TIFF 에게 JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/webp-to-jpg" >WEBP 에게 JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/wmf-to-jpg" >WMF 에게 JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/wmz-to-jpg" >WMZ 에게 JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/svg-to-jpg" >SVG 에게 JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/svgz-to-jpg" >SVGZ 에게 JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/eps-to-jpg" >EPS 에게 JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/cdr-to-jpg" >CDR 에게 JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/cmx-to-jpg" >CMX 에게 JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/otg-to-jpg" >OTG 에게 JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/odg-to-jpg" >ODG 에게 JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/ico-to-jpg" >ICO 에게 JPG</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/apng-to-jpg" style="padding:15px;">APNG 에게 JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/bmp-to-jpg" style="padding:15px;">BMP 에게 JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/dib-to-jpg" style="padding:15px;">DIB 에게 JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/dicom-to-jpg" style="padding:15px;">DICOM 에게 JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/djvu-to-jpg" style="padding:15px;">DJVU 에게 JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/dng-to-jpg" style="padding:15px;">DNG 에게 JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/emf-to-jpg" style="padding:15px;">EMF 에게 JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/emz-to-jpg" style="padding:15px;">EMZ 에게 JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/gif-to-jpg" style="padding:15px;">GIF 에게 JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/jpeg2000-to-jpg" style="padding:15px;">JPEG2000 에게 JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/jp2-to-jpg" style="padding:15px;">JP2 에게 JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/j2k-to-jpg" style="padding:15px;">J2K 에게 JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/png-to-jpg" style="padding:15px;">PNG 에게 JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/tga-to-jpg" style="padding:15px;">TGA 에게 JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/tif-to-jpg" style="padding:15px;">TIF 에게 JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/tiff-to-jpg" style="padding:15px;">TIFF 에게 JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/webp-to-jpg" style="padding:15px;">WEBP 에게 JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/wmf-to-jpg" style="padding:15px;">WMF 에게 JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/wmz-to-jpg" style="padding:15px;">WMZ 에게 JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/svg-to-jpg" style="padding:15px;">SVG 에게 JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/svgz-to-jpg" style="padding:15px;">SVGZ 에게 JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/eps-to-jpg" style="padding:15px;">EPS 에게 JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/cdr-to-jpg" style="padding:15px;">CDR 에게 JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/cmx-to-jpg" style="padding:15px;">CMX 에게 JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/otg-to-jpg" style="padding:15px;">OTG 에게 JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/odg-to-jpg" style="padding:15px;">ODG 에게 JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/ico-to-jpg" style="padding:15px;">ICO 에게 JPG</a></div>
                 </div>
         </div>
     </div>

@@ -21,35 +21,35 @@ Palaikomos konversijos:
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/apng-to-emz" >APNG į EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/bmp-to-emz" >BMP į EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/dib-to-emz" >DIB į EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/dicom-to-emz" >DICOM į EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/djvu-to-emz" >DJVU į EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/dng-to-emz" >DNG į EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/emf-to-emz" >EMF į EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/gif-to-emz" >GIF į EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/jpeg2000-to-emz" >JPEG2000 į EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/jp2-to-emz" >JP2 į EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/j2k-to-emz" >J2K į EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/jpg-to-emz" >JPG į EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/jpeg-to-emz" >JPEG į EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/png-to-emz" >PNG į EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/tga-to-emz" >TGA į EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/tif-to-emz" >TIF į EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/tiff-to-emz" >TIFF į EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/webp-to-emz" >WEBP į EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/wmf-to-emz" >WMF į EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/wmz-to-emz" >WMZ į EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/svg-to-emz" >SVG į EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/svgz-to-emz" >SVGZ į EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/eps-to-emz" >EPS į EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/cdr-to-emz" >CDR į EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/cmx-to-emz" >CMX į EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/otg-to-emz" >OTG į EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/odg-to-emz" >ODG į EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/ico-to-emz" >ICO į EMZ</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/apng-to-emz" style="padding:15px;">APNG į EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/bmp-to-emz" style="padding:15px;">BMP į EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/dib-to-emz" style="padding:15px;">DIB į EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/dicom-to-emz" style="padding:15px;">DICOM į EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/djvu-to-emz" style="padding:15px;">DJVU į EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/dng-to-emz" style="padding:15px;">DNG į EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/emf-to-emz" style="padding:15px;">EMF į EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/gif-to-emz" style="padding:15px;">GIF į EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/jpeg2000-to-emz" style="padding:15px;">JPEG2000 į EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/jp2-to-emz" style="padding:15px;">JP2 į EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/j2k-to-emz" style="padding:15px;">J2K į EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/jpg-to-emz" style="padding:15px;">JPG į EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/jpeg-to-emz" style="padding:15px;">JPEG į EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/png-to-emz" style="padding:15px;">PNG į EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/tga-to-emz" style="padding:15px;">TGA į EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/tif-to-emz" style="padding:15px;">TIF į EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/tiff-to-emz" style="padding:15px;">TIFF į EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/webp-to-emz" style="padding:15px;">WEBP į EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/wmf-to-emz" style="padding:15px;">WMF į EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/wmz-to-emz" style="padding:15px;">WMZ į EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/svg-to-emz" style="padding:15px;">SVG į EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/svgz-to-emz" style="padding:15px;">SVGZ į EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/eps-to-emz" style="padding:15px;">EPS į EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/cdr-to-emz" style="padding:15px;">CDR į EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/cmx-to-emz" style="padding:15px;">CMX į EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/otg-to-emz" style="padding:15px;">OTG į EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/odg-to-emz" style="padding:15px;">ODG į EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/ico-to-emz" style="padding:15px;">ICO į EMZ</a></div>
                 </div>
         </div>
     </div>

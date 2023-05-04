@@ -21,34 +21,34 @@ Ci sono le prossime conversioni disponibili:
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/apng-to-jp2" >APNG A JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/bmp-to-jp2" >BMP A JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/dib-to-jp2" >DIB A JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/dicom-to-jp2" >DICOM A JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/djvu-to-jp2" >DJVU A JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/dng-to-jp2" >DNG A JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/emf-to-jp2" >EMF A JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/emz-to-jp2" >EMZ A JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/gif-to-jp2" >GIF A JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/j2k-to-jp2" >J2K A JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/jpg-to-jp2" >JPG A JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/jpeg-to-jp2" >JPEG A JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/png-to-jp2" >PNG A JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/tga-to-jp2" >TGA A JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/tif-to-jp2" >TIF A JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/tiff-to-jp2" >TIFF A JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/webp-to-jp2" >WEBP A JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/wmf-to-jp2" >WMF A JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/wmz-to-jp2" >WMZ A JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/svg-to-jp2" >SVG A JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/svgz-to-jp2" >SVGZ A JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/eps-to-jp2" >EPS A JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/cdr-to-jp2" >CDR A JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/cmx-to-jp2" >CMX A JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/otg-to-jp2" >OTG A JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/odg-to-jp2" >ODG A JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/ico-to-jp2" >ICO A JP2</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/apng-to-jp2" style="padding:15px;">APNG A JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/bmp-to-jp2" style="padding:15px;">BMP A JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/dib-to-jp2" style="padding:15px;">DIB A JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/dicom-to-jp2" style="padding:15px;">DICOM A JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/djvu-to-jp2" style="padding:15px;">DJVU A JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/dng-to-jp2" style="padding:15px;">DNG A JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/emf-to-jp2" style="padding:15px;">EMF A JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/emz-to-jp2" style="padding:15px;">EMZ A JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/gif-to-jp2" style="padding:15px;">GIF A JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/j2k-to-jp2" style="padding:15px;">J2K A JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/jpg-to-jp2" style="padding:15px;">JPG A JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/jpeg-to-jp2" style="padding:15px;">JPEG A JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/png-to-jp2" style="padding:15px;">PNG A JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/tga-to-jp2" style="padding:15px;">TGA A JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/tif-to-jp2" style="padding:15px;">TIF A JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/tiff-to-jp2" style="padding:15px;">TIFF A JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/webp-to-jp2" style="padding:15px;">WEBP A JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/wmf-to-jp2" style="padding:15px;">WMF A JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/wmz-to-jp2" style="padding:15px;">WMZ A JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/svg-to-jp2" style="padding:15px;">SVG A JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/svgz-to-jp2" style="padding:15px;">SVGZ A JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/eps-to-jp2" style="padding:15px;">EPS A JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/cdr-to-jp2" style="padding:15px;">CDR A JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/cmx-to-jp2" style="padding:15px;">CMX A JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/otg-to-jp2" style="padding:15px;">OTG A JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/odg-to-jp2" style="padding:15px;">ODG A JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/ico-to-jp2" style="padding:15px;">ICO A JP2</a></div>
                 </div>
         </div>
     </div>

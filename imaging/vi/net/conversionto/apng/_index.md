@@ -21,35 +21,35 @@ chuyển đổi sau đây được hỗ trợ:
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/bmp-to-apng" >BMP đến APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/dib-to-apng" >DIB đến APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/dicom-to-apng" >DICOM đến APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/djvu-to-apng" >DJVU đến APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/dng-to-apng" >DNG đến APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/emf-to-apng" >EMF đến APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/emz-to-apng" >EMZ đến APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/gif-to-apng" >GIF đến APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/jpeg2000-to-apng" >JPEG2000 đến APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/jp2-to-apng" >JP2 đến APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/j2k-to-apng" >J2K đến APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/jpg-to-apng" >JPG đến APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/jpeg-to-apng" >JPEG đến APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/png-to-apng" >PNG đến APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/tga-to-apng" >TGA đến APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/tif-to-apng" >TIF đến APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/tiff-to-apng" >TIFF đến APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/webp-to-apng" >WEBP đến APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/wmf-to-apng" >WMF đến APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/wmz-to-apng" >WMZ đến APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/svg-to-apng" >SVG đến APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/svgz-to-apng" >SVGZ đến APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/eps-to-apng" >EPS đến APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/cdr-to-apng" >CDR đến APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/cmx-to-apng" >CMX đến APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/otg-to-apng" >OTG đến APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/odg-to-apng" >ODG đến APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/ico-to-apng" >ICO đến APNG</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/bmp-to-apng" style="padding:15px;">BMP đến APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/dib-to-apng" style="padding:15px;">DIB đến APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/dicom-to-apng" style="padding:15px;">DICOM đến APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/djvu-to-apng" style="padding:15px;">DJVU đến APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/dng-to-apng" style="padding:15px;">DNG đến APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/emf-to-apng" style="padding:15px;">EMF đến APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/emz-to-apng" style="padding:15px;">EMZ đến APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/gif-to-apng" style="padding:15px;">GIF đến APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/jpeg2000-to-apng" style="padding:15px;">JPEG2000 đến APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/jp2-to-apng" style="padding:15px;">JP2 đến APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/j2k-to-apng" style="padding:15px;">J2K đến APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/jpg-to-apng" style="padding:15px;">JPG đến APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/jpeg-to-apng" style="padding:15px;">JPEG đến APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/png-to-apng" style="padding:15px;">PNG đến APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/tga-to-apng" style="padding:15px;">TGA đến APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/tif-to-apng" style="padding:15px;">TIF đến APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/tiff-to-apng" style="padding:15px;">TIFF đến APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/webp-to-apng" style="padding:15px;">WEBP đến APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/wmf-to-apng" style="padding:15px;">WMF đến APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/wmz-to-apng" style="padding:15px;">WMZ đến APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/svg-to-apng" style="padding:15px;">SVG đến APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/svgz-to-apng" style="padding:15px;">SVGZ đến APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/eps-to-apng" style="padding:15px;">EPS đến APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/cdr-to-apng" style="padding:15px;">CDR đến APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/cmx-to-apng" style="padding:15px;">CMX đến APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/otg-to-apng" style="padding:15px;">OTG đến APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/odg-to-apng" style="padding:15px;">ODG đến APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/ico-to-apng" style="padding:15px;">ICO đến APNG</a></div>
                 </div>
         </div>
     </div>

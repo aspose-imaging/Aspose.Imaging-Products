@@ -21,36 +21,36 @@ description: การใช้ Aspose.Imaging สำหรับไลบรา
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/apng-to-dxf" >APNG ถึง DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/bmp-to-dxf" >BMP ถึง DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/dib-to-dxf" >DIB ถึง DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/dicom-to-dxf" >DICOM ถึง DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/djvu-to-dxf" >DJVU ถึง DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/dng-to-dxf" >DNG ถึง DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/emf-to-dxf" >EMF ถึง DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/emz-to-dxf" >EMZ ถึง DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/gif-to-dxf" >GIF ถึง DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/jpeg2000-to-dxf" >JPEG2000 ถึง DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/jp2-to-dxf" >JP2 ถึง DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/j2k-to-dxf" >J2K ถึง DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/jpg-to-dxf" >JPG ถึง DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/jpeg-to-dxf" >JPEG ถึง DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/png-to-dxf" >PNG ถึง DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/tga-to-dxf" >TGA ถึง DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/tif-to-dxf" >TIF ถึง DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/tiff-to-dxf" >TIFF ถึง DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/webp-to-dxf" >WEBP ถึง DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/wmf-to-dxf" >WMF ถึง DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/wmz-to-dxf" >WMZ ถึง DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/svg-to-dxf" >SVG ถึง DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/svgz-to-dxf" >SVGZ ถึง DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/eps-to-dxf" >EPS ถึง DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/cdr-to-dxf" >CDR ถึง DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/cmx-to-dxf" >CMX ถึง DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/otg-to-dxf" >OTG ถึง DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/odg-to-dxf" >ODG ถึง DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/ico-to-dxf" >ICO ถึง DXF</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/apng-to-dxf" style="padding:15px;">APNG ถึง DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/bmp-to-dxf" style="padding:15px;">BMP ถึง DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/dib-to-dxf" style="padding:15px;">DIB ถึง DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/dicom-to-dxf" style="padding:15px;">DICOM ถึง DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/djvu-to-dxf" style="padding:15px;">DJVU ถึง DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/dng-to-dxf" style="padding:15px;">DNG ถึง DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/emf-to-dxf" style="padding:15px;">EMF ถึง DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/emz-to-dxf" style="padding:15px;">EMZ ถึง DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/gif-to-dxf" style="padding:15px;">GIF ถึง DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/jpeg2000-to-dxf" style="padding:15px;">JPEG2000 ถึง DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/jp2-to-dxf" style="padding:15px;">JP2 ถึง DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/j2k-to-dxf" style="padding:15px;">J2K ถึง DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/jpg-to-dxf" style="padding:15px;">JPG ถึง DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/jpeg-to-dxf" style="padding:15px;">JPEG ถึง DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/png-to-dxf" style="padding:15px;">PNG ถึง DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/tga-to-dxf" style="padding:15px;">TGA ถึง DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/tif-to-dxf" style="padding:15px;">TIF ถึง DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/tiff-to-dxf" style="padding:15px;">TIFF ถึง DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/webp-to-dxf" style="padding:15px;">WEBP ถึง DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/wmf-to-dxf" style="padding:15px;">WMF ถึง DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/wmz-to-dxf" style="padding:15px;">WMZ ถึง DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/svg-to-dxf" style="padding:15px;">SVG ถึง DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/svgz-to-dxf" style="padding:15px;">SVGZ ถึง DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/eps-to-dxf" style="padding:15px;">EPS ถึง DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/cdr-to-dxf" style="padding:15px;">CDR ถึง DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/cmx-to-dxf" style="padding:15px;">CMX ถึง DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/otg-to-dxf" style="padding:15px;">OTG ถึง DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/odg-to-dxf" style="padding:15px;">ODG ถึง DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/ico-to-dxf" style="padding:15px;">ICO ถึง DXF</a></div>
                 </div>
         </div>
     </div>

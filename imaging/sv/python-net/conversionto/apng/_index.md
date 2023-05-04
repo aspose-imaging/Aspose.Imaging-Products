@@ -21,35 +21,35 @@ Det finns nästa tillgängliga konverteringar:
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/bmp-to-apng" >BMP till APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/dib-to-apng" >DIB till APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/dicom-to-apng" >DICOM till APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/djvu-to-apng" >DJVU till APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/dng-to-apng" >DNG till APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/emf-to-apng" >EMF till APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/emz-to-apng" >EMZ till APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/gif-to-apng" >GIF till APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/jpeg2000-to-apng" >JPEG2000 till APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/jp2-to-apng" >JP2 till APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/j2k-to-apng" >J2K till APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/jpg-to-apng" >JPG till APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/jpeg-to-apng" >JPEG till APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/png-to-apng" >PNG till APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/tga-to-apng" >TGA till APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/tif-to-apng" >TIF till APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/tiff-to-apng" >TIFF till APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/webp-to-apng" >WEBP till APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/wmf-to-apng" >WMF till APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/wmz-to-apng" >WMZ till APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/svg-to-apng" >SVG till APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/svgz-to-apng" >SVGZ till APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/eps-to-apng" >EPS till APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/cdr-to-apng" >CDR till APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/cmx-to-apng" >CMX till APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/otg-to-apng" >OTG till APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/odg-to-apng" >ODG till APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/ico-to-apng" >ICO till APNG</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/bmp-to-apng" style="padding:15px;">BMP till APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/dib-to-apng" style="padding:15px;">DIB till APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/dicom-to-apng" style="padding:15px;">DICOM till APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/djvu-to-apng" style="padding:15px;">DJVU till APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/dng-to-apng" style="padding:15px;">DNG till APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/emf-to-apng" style="padding:15px;">EMF till APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/emz-to-apng" style="padding:15px;">EMZ till APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/gif-to-apng" style="padding:15px;">GIF till APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/jpeg2000-to-apng" style="padding:15px;">JPEG2000 till APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/jp2-to-apng" style="padding:15px;">JP2 till APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/j2k-to-apng" style="padding:15px;">J2K till APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/jpg-to-apng" style="padding:15px;">JPG till APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/jpeg-to-apng" style="padding:15px;">JPEG till APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/png-to-apng" style="padding:15px;">PNG till APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/tga-to-apng" style="padding:15px;">TGA till APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/tif-to-apng" style="padding:15px;">TIF till APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/tiff-to-apng" style="padding:15px;">TIFF till APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/webp-to-apng" style="padding:15px;">WEBP till APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/wmf-to-apng" style="padding:15px;">WMF till APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/wmz-to-apng" style="padding:15px;">WMZ till APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/svg-to-apng" style="padding:15px;">SVG till APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/svgz-to-apng" style="padding:15px;">SVGZ till APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/eps-to-apng" style="padding:15px;">EPS till APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/cdr-to-apng" style="padding:15px;">CDR till APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/cmx-to-apng" style="padding:15px;">CMX till APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/otg-to-apng" style="padding:15px;">OTG till APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/odg-to-apng" style="padding:15px;">ODG till APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/ico-to-apng" style="padding:15px;">ICO till APNG</a></div>
                 </div>
         </div>
     </div>

@@ -21,36 +21,36 @@ description: .NET 라이브러리를 통해 Python용 Aspose.Imaging을 사용�
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/apng-to-canvas" >APNG 에게 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/bmp-to-canvas" >BMP 에게 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/dib-to-canvas" >DIB 에게 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/dicom-to-canvas" >DICOM 에게 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/djvu-to-canvas" >DJVU 에게 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/dng-to-canvas" >DNG 에게 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/emf-to-canvas" >EMF 에게 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/emz-to-canvas" >EMZ 에게 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/gif-to-canvas" >GIF 에게 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/jpeg2000-to-canvas" >JPEG2000 에게 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/jp2-to-canvas" >JP2 에게 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/j2k-to-canvas" >J2K 에게 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/jpg-to-canvas" >JPG 에게 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/jpeg-to-canvas" >JPEG 에게 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/png-to-canvas" >PNG 에게 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/tga-to-canvas" >TGA 에게 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/tif-to-canvas" >TIF 에게 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/tiff-to-canvas" >TIFF 에게 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/webp-to-canvas" >WEBP 에게 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/wmf-to-canvas" >WMF 에게 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/wmz-to-canvas" >WMZ 에게 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/svg-to-canvas" >SVG 에게 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/svgz-to-canvas" >SVGZ 에게 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/eps-to-canvas" >EPS 에게 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/cdr-to-canvas" >CDR 에게 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/cmx-to-canvas" >CMX 에게 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/otg-to-canvas" >OTG 에게 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/odg-to-canvas" >ODG 에게 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/ico-to-canvas" >ICO 에게 CANVAS</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/apng-to-canvas" style="padding:15px;">APNG 에게 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/bmp-to-canvas" style="padding:15px;">BMP 에게 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/dib-to-canvas" style="padding:15px;">DIB 에게 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/dicom-to-canvas" style="padding:15px;">DICOM 에게 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/djvu-to-canvas" style="padding:15px;">DJVU 에게 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/dng-to-canvas" style="padding:15px;">DNG 에게 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/emf-to-canvas" style="padding:15px;">EMF 에게 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/emz-to-canvas" style="padding:15px;">EMZ 에게 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/gif-to-canvas" style="padding:15px;">GIF 에게 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/jpeg2000-to-canvas" style="padding:15px;">JPEG2000 에게 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/jp2-to-canvas" style="padding:15px;">JP2 에게 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/j2k-to-canvas" style="padding:15px;">J2K 에게 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/jpg-to-canvas" style="padding:15px;">JPG 에게 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/jpeg-to-canvas" style="padding:15px;">JPEG 에게 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/png-to-canvas" style="padding:15px;">PNG 에게 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/tga-to-canvas" style="padding:15px;">TGA 에게 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/tif-to-canvas" style="padding:15px;">TIF 에게 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/tiff-to-canvas" style="padding:15px;">TIFF 에게 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/webp-to-canvas" style="padding:15px;">WEBP 에게 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/wmf-to-canvas" style="padding:15px;">WMF 에게 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/wmz-to-canvas" style="padding:15px;">WMZ 에게 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/svg-to-canvas" style="padding:15px;">SVG 에게 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/svgz-to-canvas" style="padding:15px;">SVGZ 에게 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/eps-to-canvas" style="padding:15px;">EPS 에게 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/cdr-to-canvas" style="padding:15px;">CDR 에게 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/cmx-to-canvas" style="padding:15px;">CMX 에게 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/otg-to-canvas" style="padding:15px;">OTG 에게 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/odg-to-canvas" style="padding:15px;">ODG 에게 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/ico-to-canvas" style="padding:15px;">ICO 에게 CANVAS</a></div>
                 </div>
         </div>
     </div>

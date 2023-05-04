@@ -21,35 +21,35 @@ Có các chuyển đổi có sẵn tiếp theo:
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/apng-to-webp" >APNG ĐẾN WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/bmp-to-webp" >BMP ĐẾN WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/dib-to-webp" >DIB ĐẾN WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/dicom-to-webp" >DICOM ĐẾN WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/djvu-to-webp" >DJVU ĐẾN WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/dng-to-webp" >DNG ĐẾN WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/emf-to-webp" >EMF ĐẾN WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/emz-to-webp" >EMZ ĐẾN WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/gif-to-webp" >GIF ĐẾN WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/jpeg2000-to-webp" >JPEG2000 ĐẾN WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/jp2-to-webp" >JP2 ĐẾN WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/j2k-to-webp" >J2K ĐẾN WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/jpg-to-webp" >JPG ĐẾN WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/jpeg-to-webp" >JPEG ĐẾN WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/png-to-webp" >PNG ĐẾN WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/tga-to-webp" >TGA ĐẾN WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/tif-to-webp" >TIF ĐẾN WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/tiff-to-webp" >TIFF ĐẾN WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/wmf-to-webp" >WMF ĐẾN WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/wmz-to-webp" >WMZ ĐẾN WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/svg-to-webp" >SVG ĐẾN WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/svgz-to-webp" >SVGZ ĐẾN WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/eps-to-webp" >EPS ĐẾN WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/cdr-to-webp" >CDR ĐẾN WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/cmx-to-webp" >CMX ĐẾN WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/otg-to-webp" >OTG ĐẾN WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/odg-to-webp" >ODG ĐẾN WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/ico-to-webp" >ICO ĐẾN WEBP</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/apng-to-webp" style="padding:15px;">APNG ĐẾN WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/bmp-to-webp" style="padding:15px;">BMP ĐẾN WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/dib-to-webp" style="padding:15px;">DIB ĐẾN WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/dicom-to-webp" style="padding:15px;">DICOM ĐẾN WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/djvu-to-webp" style="padding:15px;">DJVU ĐẾN WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/dng-to-webp" style="padding:15px;">DNG ĐẾN WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/emf-to-webp" style="padding:15px;">EMF ĐẾN WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/emz-to-webp" style="padding:15px;">EMZ ĐẾN WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/gif-to-webp" style="padding:15px;">GIF ĐẾN WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/jpeg2000-to-webp" style="padding:15px;">JPEG2000 ĐẾN WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/jp2-to-webp" style="padding:15px;">JP2 ĐẾN WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/j2k-to-webp" style="padding:15px;">J2K ĐẾN WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/jpg-to-webp" style="padding:15px;">JPG ĐẾN WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/jpeg-to-webp" style="padding:15px;">JPEG ĐẾN WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/png-to-webp" style="padding:15px;">PNG ĐẾN WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/tga-to-webp" style="padding:15px;">TGA ĐẾN WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/tif-to-webp" style="padding:15px;">TIF ĐẾN WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/tiff-to-webp" style="padding:15px;">TIFF ĐẾN WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/wmf-to-webp" style="padding:15px;">WMF ĐẾN WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/wmz-to-webp" style="padding:15px;">WMZ ĐẾN WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/svg-to-webp" style="padding:15px;">SVG ĐẾN WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/svgz-to-webp" style="padding:15px;">SVGZ ĐẾN WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/eps-to-webp" style="padding:15px;">EPS ĐẾN WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/cdr-to-webp" style="padding:15px;">CDR ĐẾN WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/cmx-to-webp" style="padding:15px;">CMX ĐẾN WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/otg-to-webp" style="padding:15px;">OTG ĐẾN WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/odg-to-webp" style="padding:15px;">ODG ĐẾN WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/ico-to-webp" style="padding:15px;">ICO ĐẾN WEBP</a></div>
                 </div>
         </div>
     </div>

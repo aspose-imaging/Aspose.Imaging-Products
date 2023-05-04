@@ -21,35 +21,35 @@ Ada konversi yang tersedia berikutnya:
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/apng-to-emf" >APNG ke EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/bmp-to-emf" >BMP ke EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/dib-to-emf" >DIB ke EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/dicom-to-emf" >DICOM ke EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/djvu-to-emf" >DJVU ke EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/dng-to-emf" >DNG ke EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/emz-to-emf" >EMZ ke EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/gif-to-emf" >GIF ke EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/jpeg2000-to-emf" >JPEG2000 ke EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/jp2-to-emf" >JP2 ke EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/j2k-to-emf" >J2K ke EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/jpg-to-emf" >JPG ke EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/jpeg-to-emf" >JPEG ke EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/png-to-emf" >PNG ke EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/tga-to-emf" >TGA ke EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/tif-to-emf" >TIF ke EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/tiff-to-emf" >TIFF ke EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/webp-to-emf" >WEBP ke EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/wmf-to-emf" >WMF ke EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/wmz-to-emf" >WMZ ke EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/svg-to-emf" >SVG ke EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/svgz-to-emf" >SVGZ ke EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/eps-to-emf" >EPS ke EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/cdr-to-emf" >CDR ke EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/cmx-to-emf" >CMX ke EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/otg-to-emf" >OTG ke EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/odg-to-emf" >ODG ke EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/ico-to-emf" >ICO ke EMF</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/apng-to-emf" style="padding:15px;">APNG ke EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/bmp-to-emf" style="padding:15px;">BMP ke EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/dib-to-emf" style="padding:15px;">DIB ke EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/dicom-to-emf" style="padding:15px;">DICOM ke EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/djvu-to-emf" style="padding:15px;">DJVU ke EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/dng-to-emf" style="padding:15px;">DNG ke EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/emz-to-emf" style="padding:15px;">EMZ ke EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/gif-to-emf" style="padding:15px;">GIF ke EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/jpeg2000-to-emf" style="padding:15px;">JPEG2000 ke EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/jp2-to-emf" style="padding:15px;">JP2 ke EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/j2k-to-emf" style="padding:15px;">J2K ke EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/jpg-to-emf" style="padding:15px;">JPG ke EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/jpeg-to-emf" style="padding:15px;">JPEG ke EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/png-to-emf" style="padding:15px;">PNG ke EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/tga-to-emf" style="padding:15px;">TGA ke EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/tif-to-emf" style="padding:15px;">TIF ke EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/tiff-to-emf" style="padding:15px;">TIFF ke EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/webp-to-emf" style="padding:15px;">WEBP ke EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/wmf-to-emf" style="padding:15px;">WMF ke EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/wmz-to-emf" style="padding:15px;">WMZ ke EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/svg-to-emf" style="padding:15px;">SVG ke EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/svgz-to-emf" style="padding:15px;">SVGZ ke EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/eps-to-emf" style="padding:15px;">EPS ke EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/cdr-to-emf" style="padding:15px;">CDR ke EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/cmx-to-emf" style="padding:15px;">CMX ke EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/otg-to-emf" style="padding:15px;">OTG ke EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/odg-to-emf" style="padding:15px;">ODG ke EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/ico-to-emf" style="padding:15px;">ICO ke EMF</a></div>
                 </div>
         </div>
     </div>

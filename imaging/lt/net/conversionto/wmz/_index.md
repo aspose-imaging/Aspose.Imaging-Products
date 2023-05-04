@@ -21,35 +21,35 @@ Palaikomos šios konversijos:
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/apng-to-wmz" >APNG į WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/bmp-to-wmz" >BMP į WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/dib-to-wmz" >DIB į WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/dicom-to-wmz" >DICOM į WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/djvu-to-wmz" >DJVU į WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/dng-to-wmz" >DNG į WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/emf-to-wmz" >EMF į WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/emz-to-wmz" >EMZ į WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/gif-to-wmz" >GIF į WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/jpeg2000-to-wmz" >JPEG2000 į WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/jp2-to-wmz" >JP2 į WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/j2k-to-wmz" >J2K į WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/jpg-to-wmz" >JPG į WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/jpeg-to-wmz" >JPEG į WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/png-to-wmz" >PNG į WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/tga-to-wmz" >TGA į WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/tif-to-wmz" >TIF į WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/tiff-to-wmz" >TIFF į WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/webp-to-wmz" >WEBP į WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/wmf-to-wmz" >WMF į WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/svg-to-wmz" >SVG į WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/svgz-to-wmz" >SVGZ į WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/eps-to-wmz" >EPS į WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/cdr-to-wmz" >CDR į WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/cmx-to-wmz" >CMX į WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/otg-to-wmz" >OTG į WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/odg-to-wmz" >ODG į WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/ico-to-wmz" >ICO į WMZ</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/apng-to-wmz" style="padding:15px;">APNG į WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/bmp-to-wmz" style="padding:15px;">BMP į WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/dib-to-wmz" style="padding:15px;">DIB į WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/dicom-to-wmz" style="padding:15px;">DICOM į WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/djvu-to-wmz" style="padding:15px;">DJVU į WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/dng-to-wmz" style="padding:15px;">DNG į WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/emf-to-wmz" style="padding:15px;">EMF į WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/emz-to-wmz" style="padding:15px;">EMZ į WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/gif-to-wmz" style="padding:15px;">GIF į WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/jpeg2000-to-wmz" style="padding:15px;">JPEG2000 į WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/jp2-to-wmz" style="padding:15px;">JP2 į WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/j2k-to-wmz" style="padding:15px;">J2K į WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/jpg-to-wmz" style="padding:15px;">JPG į WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/jpeg-to-wmz" style="padding:15px;">JPEG į WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/png-to-wmz" style="padding:15px;">PNG į WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/tga-to-wmz" style="padding:15px;">TGA į WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/tif-to-wmz" style="padding:15px;">TIF į WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/tiff-to-wmz" style="padding:15px;">TIFF į WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/webp-to-wmz" style="padding:15px;">WEBP į WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/wmf-to-wmz" style="padding:15px;">WMF į WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/svg-to-wmz" style="padding:15px;">SVG į WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/svgz-to-wmz" style="padding:15px;">SVGZ į WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/eps-to-wmz" style="padding:15px;">EPS į WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/cdr-to-wmz" style="padding:15px;">CDR į WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/cmx-to-wmz" style="padding:15px;">CMX į WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/otg-to-wmz" style="padding:15px;">OTG į WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/odg-to-wmz" style="padding:15px;">ODG į WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/ico-to-wmz" style="padding:15px;">ICO į WMZ</a></div>
                 </div>
         </div>
     </div>

@@ -21,35 +21,35 @@ description: 使用 Aspose.Imaging，您可以使用 Java 从其他格式转换�
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/apng-to-tga" >APNG 到 TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/bmp-to-tga" >BMP 到 TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/dib-to-tga" >DIB 到 TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/dicom-to-tga" >DICOM 到 TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/djvu-to-tga" >DJVU 到 TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/dng-to-tga" >DNG 到 TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/emf-to-tga" >EMF 到 TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/emz-to-tga" >EMZ 到 TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/gif-to-tga" >GIF 到 TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/jpeg2000-to-tga" >JPEG2000 到 TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/jp2-to-tga" >JP2 到 TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/j2k-to-tga" >J2K 到 TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/jpg-to-tga" >JPG 到 TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/jpeg-to-tga" >JPEG 到 TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/png-to-tga" >PNG 到 TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/tif-to-tga" >TIF 到 TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/tiff-to-tga" >TIFF 到 TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/webp-to-tga" >WEBP 到 TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/wmf-to-tga" >WMF 到 TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/wmz-to-tga" >WMZ 到 TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/svg-to-tga" >SVG 到 TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/svgz-to-tga" >SVGZ 到 TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/eps-to-tga" >EPS 到 TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/cdr-to-tga" >CDR 到 TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/cmx-to-tga" >CMX 到 TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/otg-to-tga" >OTG 到 TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/odg-to-tga" >ODG 到 TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/ico-to-tga" >ICO 到 TGA</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/apng-to-tga" style="padding:15px;">APNG 到 TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/bmp-to-tga" style="padding:15px;">BMP 到 TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/dib-to-tga" style="padding:15px;">DIB 到 TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/dicom-to-tga" style="padding:15px;">DICOM 到 TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/djvu-to-tga" style="padding:15px;">DJVU 到 TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/dng-to-tga" style="padding:15px;">DNG 到 TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/emf-to-tga" style="padding:15px;">EMF 到 TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/emz-to-tga" style="padding:15px;">EMZ 到 TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/gif-to-tga" style="padding:15px;">GIF 到 TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/jpeg2000-to-tga" style="padding:15px;">JPEG2000 到 TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/jp2-to-tga" style="padding:15px;">JP2 到 TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/j2k-to-tga" style="padding:15px;">J2K 到 TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/jpg-to-tga" style="padding:15px;">JPG 到 TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/jpeg-to-tga" style="padding:15px;">JPEG 到 TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/png-to-tga" style="padding:15px;">PNG 到 TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/tif-to-tga" style="padding:15px;">TIF 到 TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/tiff-to-tga" style="padding:15px;">TIFF 到 TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/webp-to-tga" style="padding:15px;">WEBP 到 TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/wmf-to-tga" style="padding:15px;">WMF 到 TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/wmz-to-tga" style="padding:15px;">WMZ 到 TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/svg-to-tga" style="padding:15px;">SVG 到 TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/svgz-to-tga" style="padding:15px;">SVGZ 到 TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/eps-to-tga" style="padding:15px;">EPS 到 TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/cdr-to-tga" style="padding:15px;">CDR 到 TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/cmx-to-tga" style="padding:15px;">CMX 到 TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/otg-to-tga" style="padding:15px;">OTG 到 TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/odg-to-tga" style="padding:15px;">ODG 到 TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/java/conversion/ico-to-tga" style="padding:15px;">ICO 到 TGA</a></div>
                 </div>
         </div>
     </div>

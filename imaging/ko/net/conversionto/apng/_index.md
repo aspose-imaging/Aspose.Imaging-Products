@@ -21,35 +21,35 @@ description: .NET 라이브러리용 Aspose.Imaging을 사용하면 지원되는
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/bmp-to-apng" >BMP 에게 APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/dib-to-apng" >DIB 에게 APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/dicom-to-apng" >DICOM 에게 APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/djvu-to-apng" >DJVU 에게 APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/dng-to-apng" >DNG 에게 APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/emf-to-apng" >EMF 에게 APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/emz-to-apng" >EMZ 에게 APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/gif-to-apng" >GIF 에게 APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/jpeg2000-to-apng" >JPEG2000 에게 APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/jp2-to-apng" >JP2 에게 APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/j2k-to-apng" >J2K 에게 APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/jpg-to-apng" >JPG 에게 APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/jpeg-to-apng" >JPEG 에게 APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/png-to-apng" >PNG 에게 APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/tga-to-apng" >TGA 에게 APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/tif-to-apng" >TIF 에게 APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/tiff-to-apng" >TIFF 에게 APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/webp-to-apng" >WEBP 에게 APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/wmf-to-apng" >WMF 에게 APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/wmz-to-apng" >WMZ 에게 APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/svg-to-apng" >SVG 에게 APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/svgz-to-apng" >SVGZ 에게 APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/eps-to-apng" >EPS 에게 APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/cdr-to-apng" >CDR 에게 APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/cmx-to-apng" >CMX 에게 APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/otg-to-apng" >OTG 에게 APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/odg-to-apng" >ODG 에게 APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/ico-to-apng" >ICO 에게 APNG</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/bmp-to-apng" style="padding:15px;">BMP 에게 APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/dib-to-apng" style="padding:15px;">DIB 에게 APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/dicom-to-apng" style="padding:15px;">DICOM 에게 APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/djvu-to-apng" style="padding:15px;">DJVU 에게 APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/dng-to-apng" style="padding:15px;">DNG 에게 APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/emf-to-apng" style="padding:15px;">EMF 에게 APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/emz-to-apng" style="padding:15px;">EMZ 에게 APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/gif-to-apng" style="padding:15px;">GIF 에게 APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/jpeg2000-to-apng" style="padding:15px;">JPEG2000 에게 APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/jp2-to-apng" style="padding:15px;">JP2 에게 APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/j2k-to-apng" style="padding:15px;">J2K 에게 APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/jpg-to-apng" style="padding:15px;">JPG 에게 APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/jpeg-to-apng" style="padding:15px;">JPEG 에게 APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/png-to-apng" style="padding:15px;">PNG 에게 APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/tga-to-apng" style="padding:15px;">TGA 에게 APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/tif-to-apng" style="padding:15px;">TIF 에게 APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/tiff-to-apng" style="padding:15px;">TIFF 에게 APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/webp-to-apng" style="padding:15px;">WEBP 에게 APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/wmf-to-apng" style="padding:15px;">WMF 에게 APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/wmz-to-apng" style="padding:15px;">WMZ 에게 APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/svg-to-apng" style="padding:15px;">SVG 에게 APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/svgz-to-apng" style="padding:15px;">SVGZ 에게 APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/eps-to-apng" style="padding:15px;">EPS 에게 APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/cdr-to-apng" style="padding:15px;">CDR 에게 APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/cmx-to-apng" style="padding:15px;">CMX 에게 APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/otg-to-apng" style="padding:15px;">OTG 에게 APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/odg-to-apng" style="padding:15px;">ODG 에게 APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/ico-to-apng" style="padding:15px;">ICO 에게 APNG</a></div>
                 </div>
         </div>
     </div>

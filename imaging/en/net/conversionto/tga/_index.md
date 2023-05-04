@@ -21,35 +21,35 @@ Following conversions are supported :
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/apng-to-tga" >APNG to TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/bmp-to-tga" >BMP to TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/dib-to-tga" >DIB to TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/dicom-to-tga" >DICOM to TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/djvu-to-tga" >DJVU to TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/dng-to-tga" >DNG to TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/emf-to-tga" >EMF to TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/emz-to-tga" >EMZ to TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/gif-to-tga" >GIF to TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/jpeg2000-to-tga" >JPEG2000 to TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/jp2-to-tga" >JP2 to TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/j2k-to-tga" >J2K to TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/jpg-to-tga" >JPG to TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/jpeg-to-tga" >JPEG to TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/png-to-tga" >PNG to TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/tif-to-tga" >TIF to TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/tiff-to-tga" >TIFF to TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/webp-to-tga" >WEBP to TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/wmf-to-tga" >WMF to TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/wmz-to-tga" >WMZ to TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/svg-to-tga" >SVG to TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/svgz-to-tga" >SVGZ to TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/eps-to-tga" >EPS to TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/cdr-to-tga" >CDR to TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/cmx-to-tga" >CMX to TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/otg-to-tga" >OTG to TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/odg-to-tga" >ODG to TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/ico-to-tga" >ICO to TGA</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/apng-to-tga" style="padding:15px;">APNG to TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/bmp-to-tga" style="padding:15px;">BMP to TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/dib-to-tga" style="padding:15px;">DIB to TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/dicom-to-tga" style="padding:15px;">DICOM to TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/djvu-to-tga" style="padding:15px;">DJVU to TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/dng-to-tga" style="padding:15px;">DNG to TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/emf-to-tga" style="padding:15px;">EMF to TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/emz-to-tga" style="padding:15px;">EMZ to TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/gif-to-tga" style="padding:15px;">GIF to TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/jpeg2000-to-tga" style="padding:15px;">JPEG2000 to TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/jp2-to-tga" style="padding:15px;">JP2 to TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/j2k-to-tga" style="padding:15px;">J2K to TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/jpg-to-tga" style="padding:15px;">JPG to TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/jpeg-to-tga" style="padding:15px;">JPEG to TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/png-to-tga" style="padding:15px;">PNG to TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/tif-to-tga" style="padding:15px;">TIF to TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/tiff-to-tga" style="padding:15px;">TIFF to TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/webp-to-tga" style="padding:15px;">WEBP to TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/wmf-to-tga" style="padding:15px;">WMF to TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/wmz-to-tga" style="padding:15px;">WMZ to TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/svg-to-tga" style="padding:15px;">SVG to TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/svgz-to-tga" style="padding:15px;">SVGZ to TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/eps-to-tga" style="padding:15px;">EPS to TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/cdr-to-tga" style="padding:15px;">CDR to TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/cmx-to-tga" style="padding:15px;">CMX to TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/otg-to-tga" style="padding:15px;">OTG to TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/odg-to-tga" style="padding:15px;">ODG to TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/net/conversion/ico-to-tga" style="padding:15px;">ICO to TGA</a></div>
                 </div>
         </div>
     </div>

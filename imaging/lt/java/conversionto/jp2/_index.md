@@ -21,34 +21,34 @@ Palaikomos konversijos:
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/apng-to-jp2" >APNG į JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/bmp-to-jp2" >BMP į JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/dib-to-jp2" >DIB į JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/dicom-to-jp2" >DICOM į JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/djvu-to-jp2" >DJVU į JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/dng-to-jp2" >DNG į JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/emf-to-jp2" >EMF į JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/emz-to-jp2" >EMZ į JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/gif-to-jp2" >GIF į JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/j2k-to-jp2" >J2K į JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/jpg-to-jp2" >JPG į JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/jpeg-to-jp2" >JPEG į JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/png-to-jp2" >PNG į JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/tga-to-jp2" >TGA į JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/tif-to-jp2" >TIF į JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/tiff-to-jp2" >TIFF į JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/webp-to-jp2" >WEBP į JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/wmf-to-jp2" >WMF į JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/wmz-to-jp2" >WMZ į JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/svg-to-jp2" >SVG į JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/svgz-to-jp2" >SVGZ į JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/eps-to-jp2" >EPS į JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/cdr-to-jp2" >CDR į JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/cmx-to-jp2" >CMX į JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/otg-to-jp2" >OTG į JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/odg-to-jp2" >ODG į JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/ico-to-jp2" >ICO į JP2</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/apng-to-jp2" style="padding:15px;">APNG į JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/bmp-to-jp2" style="padding:15px;">BMP į JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/dib-to-jp2" style="padding:15px;">DIB į JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/dicom-to-jp2" style="padding:15px;">DICOM į JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/djvu-to-jp2" style="padding:15px;">DJVU į JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/dng-to-jp2" style="padding:15px;">DNG į JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/emf-to-jp2" style="padding:15px;">EMF į JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/emz-to-jp2" style="padding:15px;">EMZ į JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/gif-to-jp2" style="padding:15px;">GIF į JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/j2k-to-jp2" style="padding:15px;">J2K į JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/jpg-to-jp2" style="padding:15px;">JPG į JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/jpeg-to-jp2" style="padding:15px;">JPEG į JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/png-to-jp2" style="padding:15px;">PNG į JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/tga-to-jp2" style="padding:15px;">TGA į JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/tif-to-jp2" style="padding:15px;">TIF į JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/tiff-to-jp2" style="padding:15px;">TIFF į JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/webp-to-jp2" style="padding:15px;">WEBP į JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/wmf-to-jp2" style="padding:15px;">WMF į JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/wmz-to-jp2" style="padding:15px;">WMZ į JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/svg-to-jp2" style="padding:15px;">SVG į JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/svgz-to-jp2" style="padding:15px;">SVGZ į JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/eps-to-jp2" style="padding:15px;">EPS į JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/cdr-to-jp2" style="padding:15px;">CDR į JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/cmx-to-jp2" style="padding:15px;">CMX į JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/otg-to-jp2" style="padding:15px;">OTG į JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/odg-to-jp2" style="padding:15px;">ODG į JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/java/conversion/ico-to-jp2" style="padding:15px;">ICO į JP2</a></div>
                 </div>
         </div>
     </div>

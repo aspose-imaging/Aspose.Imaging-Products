@@ -21,35 +21,35 @@ description: .NET 라이브러리를 통해 Python용 Aspose.Imaging을 사용�
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/apng-to-wmz" >APNG 에게 WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/bmp-to-wmz" >BMP 에게 WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/dib-to-wmz" >DIB 에게 WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/dicom-to-wmz" >DICOM 에게 WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/djvu-to-wmz" >DJVU 에게 WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/dng-to-wmz" >DNG 에게 WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/emf-to-wmz" >EMF 에게 WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/emz-to-wmz" >EMZ 에게 WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/gif-to-wmz" >GIF 에게 WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/jpeg2000-to-wmz" >JPEG2000 에게 WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/jp2-to-wmz" >JP2 에게 WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/j2k-to-wmz" >J2K 에게 WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/jpg-to-wmz" >JPG 에게 WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/jpeg-to-wmz" >JPEG 에게 WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/png-to-wmz" >PNG 에게 WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/tga-to-wmz" >TGA 에게 WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/tif-to-wmz" >TIF 에게 WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/tiff-to-wmz" >TIFF 에게 WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/webp-to-wmz" >WEBP 에게 WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/wmf-to-wmz" >WMF 에게 WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/svg-to-wmz" >SVG 에게 WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/svgz-to-wmz" >SVGZ 에게 WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/eps-to-wmz" >EPS 에게 WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/cdr-to-wmz" >CDR 에게 WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/cmx-to-wmz" >CMX 에게 WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/otg-to-wmz" >OTG 에게 WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/odg-to-wmz" >ODG 에게 WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/ico-to-wmz" >ICO 에게 WMZ</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/apng-to-wmz" style="padding:15px;">APNG 에게 WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/bmp-to-wmz" style="padding:15px;">BMP 에게 WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/dib-to-wmz" style="padding:15px;">DIB 에게 WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/dicom-to-wmz" style="padding:15px;">DICOM 에게 WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/djvu-to-wmz" style="padding:15px;">DJVU 에게 WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/dng-to-wmz" style="padding:15px;">DNG 에게 WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/emf-to-wmz" style="padding:15px;">EMF 에게 WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/emz-to-wmz" style="padding:15px;">EMZ 에게 WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/gif-to-wmz" style="padding:15px;">GIF 에게 WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/jpeg2000-to-wmz" style="padding:15px;">JPEG2000 에게 WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/jp2-to-wmz" style="padding:15px;">JP2 에게 WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/j2k-to-wmz" style="padding:15px;">J2K 에게 WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/jpg-to-wmz" style="padding:15px;">JPG 에게 WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/jpeg-to-wmz" style="padding:15px;">JPEG 에게 WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/png-to-wmz" style="padding:15px;">PNG 에게 WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/tga-to-wmz" style="padding:15px;">TGA 에게 WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/tif-to-wmz" style="padding:15px;">TIF 에게 WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/tiff-to-wmz" style="padding:15px;">TIFF 에게 WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/webp-to-wmz" style="padding:15px;">WEBP 에게 WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/wmf-to-wmz" style="padding:15px;">WMF 에게 WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/svg-to-wmz" style="padding:15px;">SVG 에게 WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/svgz-to-wmz" style="padding:15px;">SVGZ 에게 WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/eps-to-wmz" style="padding:15px;">EPS 에게 WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/cdr-to-wmz" style="padding:15px;">CDR 에게 WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/cmx-to-wmz" style="padding:15px;">CMX 에게 WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/otg-to-wmz" style="padding:15px;">OTG 에게 WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/odg-to-wmz" style="padding:15px;">ODG 에게 WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/python-net/conversion/ico-to-wmz" style="padding:15px;">ICO 에게 WMZ</a></div>
                 </div>
         </div>
     </div>

@@ -21,35 +21,35 @@ Ada konversi yang tersedia berikutnya:
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/apng-to-webp" >APNG ke WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/bmp-to-webp" >BMP ke WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/dib-to-webp" >DIB ke WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/dicom-to-webp" >DICOM ke WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/djvu-to-webp" >DJVU ke WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/dng-to-webp" >DNG ke WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/emf-to-webp" >EMF ke WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/emz-to-webp" >EMZ ke WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/gif-to-webp" >GIF ke WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/jpeg2000-to-webp" >JPEG2000 ke WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/jp2-to-webp" >JP2 ke WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/j2k-to-webp" >J2K ke WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/jpg-to-webp" >JPG ke WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/jpeg-to-webp" >JPEG ke WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/png-to-webp" >PNG ke WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/tga-to-webp" >TGA ke WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/tif-to-webp" >TIF ke WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/tiff-to-webp" >TIFF ke WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/wmf-to-webp" >WMF ke WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/wmz-to-webp" >WMZ ke WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/svg-to-webp" >SVG ke WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/svgz-to-webp" >SVGZ ke WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/eps-to-webp" >EPS ke WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/cdr-to-webp" >CDR ke WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/cmx-to-webp" >CMX ke WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/otg-to-webp" >OTG ke WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/odg-to-webp" >ODG ke WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/ico-to-webp" >ICO ke WEBP</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/apng-to-webp" style="padding:15px;">APNG ke WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/bmp-to-webp" style="padding:15px;">BMP ke WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/dib-to-webp" style="padding:15px;">DIB ke WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/dicom-to-webp" style="padding:15px;">DICOM ke WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/djvu-to-webp" style="padding:15px;">DJVU ke WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/dng-to-webp" style="padding:15px;">DNG ke WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/emf-to-webp" style="padding:15px;">EMF ke WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/emz-to-webp" style="padding:15px;">EMZ ke WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/gif-to-webp" style="padding:15px;">GIF ke WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/jpeg2000-to-webp" style="padding:15px;">JPEG2000 ke WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/jp2-to-webp" style="padding:15px;">JP2 ke WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/j2k-to-webp" style="padding:15px;">J2K ke WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/jpg-to-webp" style="padding:15px;">JPG ke WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/jpeg-to-webp" style="padding:15px;">JPEG ke WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/png-to-webp" style="padding:15px;">PNG ke WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/tga-to-webp" style="padding:15px;">TGA ke WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/tif-to-webp" style="padding:15px;">TIF ke WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/tiff-to-webp" style="padding:15px;">TIFF ke WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/wmf-to-webp" style="padding:15px;">WMF ke WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/wmz-to-webp" style="padding:15px;">WMZ ke WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/svg-to-webp" style="padding:15px;">SVG ke WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/svgz-to-webp" style="padding:15px;">SVGZ ke WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/eps-to-webp" style="padding:15px;">EPS ke WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/cdr-to-webp" style="padding:15px;">CDR ke WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/cmx-to-webp" style="padding:15px;">CMX ke WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/otg-to-webp" style="padding:15px;">OTG ke WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/odg-to-webp" style="padding:15px;">ODG ke WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/ico-to-webp" style="padding:15px;">ICO ke WEBP</a></div>
                 </div>
         </div>
     </div>

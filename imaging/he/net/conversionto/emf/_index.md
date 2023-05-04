@@ -21,35 +21,35 @@ description: באמצעות Aspose.Imaging עבור ספריית NET קל להמ
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/apng-to-emf" >APNG ל EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/bmp-to-emf" >BMP ל EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/dib-to-emf" >DIB ל EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/dicom-to-emf" >DICOM ל EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/djvu-to-emf" >DJVU ל EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/dng-to-emf" >DNG ל EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/emz-to-emf" >EMZ ל EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/gif-to-emf" >GIF ל EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/jpeg2000-to-emf" >JPEG2000 ל EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/jp2-to-emf" >JP2 ל EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/j2k-to-emf" >J2K ל EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/jpg-to-emf" >JPG ל EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/jpeg-to-emf" >JPEG ל EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/png-to-emf" >PNG ל EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/tga-to-emf" >TGA ל EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/tif-to-emf" >TIF ל EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/tiff-to-emf" >TIFF ל EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/webp-to-emf" >WEBP ל EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/wmf-to-emf" >WMF ל EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/wmz-to-emf" >WMZ ל EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/svg-to-emf" >SVG ל EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/svgz-to-emf" >SVGZ ל EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/eps-to-emf" >EPS ל EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/cdr-to-emf" >CDR ל EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/cmx-to-emf" >CMX ל EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/otg-to-emf" >OTG ל EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/odg-to-emf" >ODG ל EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/ico-to-emf" >ICO ל EMF</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/apng-to-emf" style="padding:15px;">APNG ל EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/bmp-to-emf" style="padding:15px;">BMP ל EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/dib-to-emf" style="padding:15px;">DIB ל EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/dicom-to-emf" style="padding:15px;">DICOM ל EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/djvu-to-emf" style="padding:15px;">DJVU ל EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/dng-to-emf" style="padding:15px;">DNG ל EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/emz-to-emf" style="padding:15px;">EMZ ל EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/gif-to-emf" style="padding:15px;">GIF ל EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/jpeg2000-to-emf" style="padding:15px;">JPEG2000 ל EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/jp2-to-emf" style="padding:15px;">JP2 ל EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/j2k-to-emf" style="padding:15px;">J2K ל EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/jpg-to-emf" style="padding:15px;">JPG ל EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/jpeg-to-emf" style="padding:15px;">JPEG ל EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/png-to-emf" style="padding:15px;">PNG ל EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/tga-to-emf" style="padding:15px;">TGA ל EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/tif-to-emf" style="padding:15px;">TIF ל EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/tiff-to-emf" style="padding:15px;">TIFF ל EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/webp-to-emf" style="padding:15px;">WEBP ל EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/wmf-to-emf" style="padding:15px;">WMF ל EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/wmz-to-emf" style="padding:15px;">WMZ ל EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/svg-to-emf" style="padding:15px;">SVG ל EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/svgz-to-emf" style="padding:15px;">SVGZ ל EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/eps-to-emf" style="padding:15px;">EPS ל EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/cdr-to-emf" style="padding:15px;">CDR ל EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/cmx-to-emf" style="padding:15px;">CMX ל EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/otg-to-emf" style="padding:15px;">OTG ל EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/odg-to-emf" style="padding:15px;">ODG ל EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/ico-to-emf" style="padding:15px;">ICO ל EMF</a></div>
                 </div>
         </div>
     </div>

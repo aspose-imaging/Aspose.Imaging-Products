@@ -21,34 +21,34 @@ chuyển đổi sau đây được hỗ trợ:
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/apng-to-j2k" >APNG đến J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/bmp-to-j2k" >BMP đến J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/dib-to-j2k" >DIB đến J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/dicom-to-j2k" >DICOM đến J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/djvu-to-j2k" >DJVU đến J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/dng-to-j2k" >DNG đến J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/emf-to-j2k" >EMF đến J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/emz-to-j2k" >EMZ đến J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/gif-to-j2k" >GIF đến J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/jp2-to-j2k" >JP2 đến J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/jpg-to-j2k" >JPG đến J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/jpeg-to-j2k" >JPEG đến J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/png-to-j2k" >PNG đến J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/tga-to-j2k" >TGA đến J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/tif-to-j2k" >TIF đến J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/tiff-to-j2k" >TIFF đến J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/webp-to-j2k" >WEBP đến J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/wmf-to-j2k" >WMF đến J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/wmz-to-j2k" >WMZ đến J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/svg-to-j2k" >SVG đến J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/svgz-to-j2k" >SVGZ đến J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/eps-to-j2k" >EPS đến J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/cdr-to-j2k" >CDR đến J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/cmx-to-j2k" >CMX đến J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/otg-to-j2k" >OTG đến J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/odg-to-j2k" >ODG đến J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/ico-to-j2k" >ICO đến J2K</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/apng-to-j2k" style="padding:15px;">APNG đến J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/bmp-to-j2k" style="padding:15px;">BMP đến J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/dib-to-j2k" style="padding:15px;">DIB đến J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/dicom-to-j2k" style="padding:15px;">DICOM đến J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/djvu-to-j2k" style="padding:15px;">DJVU đến J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/dng-to-j2k" style="padding:15px;">DNG đến J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/emf-to-j2k" style="padding:15px;">EMF đến J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/emz-to-j2k" style="padding:15px;">EMZ đến J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/gif-to-j2k" style="padding:15px;">GIF đến J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/jp2-to-j2k" style="padding:15px;">JP2 đến J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/jpg-to-j2k" style="padding:15px;">JPG đến J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/jpeg-to-j2k" style="padding:15px;">JPEG đến J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/png-to-j2k" style="padding:15px;">PNG đến J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/tga-to-j2k" style="padding:15px;">TGA đến J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/tif-to-j2k" style="padding:15px;">TIF đến J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/tiff-to-j2k" style="padding:15px;">TIFF đến J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/webp-to-j2k" style="padding:15px;">WEBP đến J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/wmf-to-j2k" style="padding:15px;">WMF đến J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/wmz-to-j2k" style="padding:15px;">WMZ đến J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/svg-to-j2k" style="padding:15px;">SVG đến J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/svgz-to-j2k" style="padding:15px;">SVGZ đến J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/eps-to-j2k" style="padding:15px;">EPS đến J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/cdr-to-j2k" style="padding:15px;">CDR đến J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/cmx-to-j2k" style="padding:15px;">CMX đến J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/otg-to-j2k" style="padding:15px;">OTG đến J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/odg-to-j2k" style="padding:15px;">ODG đến J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/net/conversion/ico-to-j2k" style="padding:15px;">ICO đến J2K</a></div>
                 </div>
         </div>
     </div>

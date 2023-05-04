@@ -21,36 +21,36 @@ description: Aspose.Imaging का उपयोग करके आप जाव
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/apng-to-pdf" >APNG को PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/bmp-to-pdf" >BMP को PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/dib-to-pdf" >DIB को PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/dicom-to-pdf" >DICOM को PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/djvu-to-pdf" >DJVU को PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/dng-to-pdf" >DNG को PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/emf-to-pdf" >EMF को PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/emz-to-pdf" >EMZ को PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/gif-to-pdf" >GIF को PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/jpeg2000-to-pdf" >JPEG2000 को PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/jp2-to-pdf" >JP2 को PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/j2k-to-pdf" >J2K को PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/jpg-to-pdf" >JPG को PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/jpeg-to-pdf" >JPEG को PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/png-to-pdf" >PNG को PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/tga-to-pdf" >TGA को PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/tif-to-pdf" >TIF को PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/tiff-to-pdf" >TIFF को PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/webp-to-pdf" >WEBP को PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/wmf-to-pdf" >WMF को PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/wmz-to-pdf" >WMZ को PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/svg-to-pdf" >SVG को PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/svgz-to-pdf" >SVGZ को PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/eps-to-pdf" >EPS को PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/cdr-to-pdf" >CDR को PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/cmx-to-pdf" >CMX को PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/otg-to-pdf" >OTG को PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/odg-to-pdf" >ODG को PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/ico-to-pdf" >ICO को PDF</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/apng-to-pdf" style="padding:15px;">APNG को PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/bmp-to-pdf" style="padding:15px;">BMP को PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/dib-to-pdf" style="padding:15px;">DIB को PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/dicom-to-pdf" style="padding:15px;">DICOM को PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/djvu-to-pdf" style="padding:15px;">DJVU को PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/dng-to-pdf" style="padding:15px;">DNG को PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/emf-to-pdf" style="padding:15px;">EMF को PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/emz-to-pdf" style="padding:15px;">EMZ को PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/gif-to-pdf" style="padding:15px;">GIF को PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/jpeg2000-to-pdf" style="padding:15px;">JPEG2000 को PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/jp2-to-pdf" style="padding:15px;">JP2 को PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/j2k-to-pdf" style="padding:15px;">J2K को PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/jpg-to-pdf" style="padding:15px;">JPG को PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/jpeg-to-pdf" style="padding:15px;">JPEG को PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/png-to-pdf" style="padding:15px;">PNG को PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/tga-to-pdf" style="padding:15px;">TGA को PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/tif-to-pdf" style="padding:15px;">TIF को PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/tiff-to-pdf" style="padding:15px;">TIFF को PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/webp-to-pdf" style="padding:15px;">WEBP को PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/wmf-to-pdf" style="padding:15px;">WMF को PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/wmz-to-pdf" style="padding:15px;">WMZ को PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/svg-to-pdf" style="padding:15px;">SVG को PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/svgz-to-pdf" style="padding:15px;">SVGZ को PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/eps-to-pdf" style="padding:15px;">EPS को PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/cdr-to-pdf" style="padding:15px;">CDR को PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/cmx-to-pdf" style="padding:15px;">CMX को PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/otg-to-pdf" style="padding:15px;">OTG को PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/odg-to-pdf" style="padding:15px;">ODG को PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/ico-to-pdf" style="padding:15px;">ICO को PDF</a></div>
                 </div>
         </div>
     </div>

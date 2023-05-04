@@ -21,36 +21,36 @@ description: Aspose.Imaging을 사용하면 Java를 사용하여 다른 형식�
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/apng-to-psd" >APNG 에게 PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/bmp-to-psd" >BMP 에게 PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/dib-to-psd" >DIB 에게 PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/dicom-to-psd" >DICOM 에게 PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/djvu-to-psd" >DJVU 에게 PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/dng-to-psd" >DNG 에게 PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/emf-to-psd" >EMF 에게 PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/emz-to-psd" >EMZ 에게 PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/gif-to-psd" >GIF 에게 PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/jpeg2000-to-psd" >JPEG2000 에게 PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/jp2-to-psd" >JP2 에게 PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/j2k-to-psd" >J2K 에게 PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/jpg-to-psd" >JPG 에게 PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/jpeg-to-psd" >JPEG 에게 PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/png-to-psd" >PNG 에게 PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/tga-to-psd" >TGA 에게 PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/tif-to-psd" >TIF 에게 PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/tiff-to-psd" >TIFF 에게 PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/webp-to-psd" >WEBP 에게 PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/wmf-to-psd" >WMF 에게 PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/wmz-to-psd" >WMZ 에게 PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/svg-to-psd" >SVG 에게 PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/svgz-to-psd" >SVGZ 에게 PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/eps-to-psd" >EPS 에게 PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/cdr-to-psd" >CDR 에게 PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/cmx-to-psd" >CMX 에게 PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/otg-to-psd" >OTG 에게 PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/odg-to-psd" >ODG 에게 PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/ico-to-psd" >ICO 에게 PSD</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/apng-to-psd" style="padding:15px;">APNG 에게 PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/bmp-to-psd" style="padding:15px;">BMP 에게 PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/dib-to-psd" style="padding:15px;">DIB 에게 PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/dicom-to-psd" style="padding:15px;">DICOM 에게 PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/djvu-to-psd" style="padding:15px;">DJVU 에게 PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/dng-to-psd" style="padding:15px;">DNG 에게 PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/emf-to-psd" style="padding:15px;">EMF 에게 PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/emz-to-psd" style="padding:15px;">EMZ 에게 PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/gif-to-psd" style="padding:15px;">GIF 에게 PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/jpeg2000-to-psd" style="padding:15px;">JPEG2000 에게 PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/jp2-to-psd" style="padding:15px;">JP2 에게 PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/j2k-to-psd" style="padding:15px;">J2K 에게 PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/jpg-to-psd" style="padding:15px;">JPG 에게 PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/jpeg-to-psd" style="padding:15px;">JPEG 에게 PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/png-to-psd" style="padding:15px;">PNG 에게 PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/tga-to-psd" style="padding:15px;">TGA 에게 PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/tif-to-psd" style="padding:15px;">TIF 에게 PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/tiff-to-psd" style="padding:15px;">TIFF 에게 PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/webp-to-psd" style="padding:15px;">WEBP 에게 PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/wmf-to-psd" style="padding:15px;">WMF 에게 PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/wmz-to-psd" style="padding:15px;">WMZ 에게 PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/svg-to-psd" style="padding:15px;">SVG 에게 PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/svgz-to-psd" style="padding:15px;">SVGZ 에게 PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/eps-to-psd" style="padding:15px;">EPS 에게 PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/cdr-to-psd" style="padding:15px;">CDR 에게 PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/cmx-to-psd" style="padding:15px;">CMX 에게 PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/otg-to-psd" style="padding:15px;">OTG 에게 PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/odg-to-psd" style="padding:15px;">ODG 에게 PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/ico-to-psd" style="padding:15px;">ICO 에게 PSD</a></div>
                 </div>
         </div>
     </div>

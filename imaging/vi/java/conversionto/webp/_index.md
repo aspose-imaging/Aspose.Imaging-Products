@@ -21,35 +21,35 @@ Chuyển đổi được hỗ trợ:
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/apng-to-webp" >APNG đến WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/bmp-to-webp" >BMP đến WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/dib-to-webp" >DIB đến WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/dicom-to-webp" >DICOM đến WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/djvu-to-webp" >DJVU đến WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/dng-to-webp" >DNG đến WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/emf-to-webp" >EMF đến WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/emz-to-webp" >EMZ đến WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/gif-to-webp" >GIF đến WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/jpeg2000-to-webp" >JPEG2000 đến WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/jp2-to-webp" >JP2 đến WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/j2k-to-webp" >J2K đến WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/jpg-to-webp" >JPG đến WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/jpeg-to-webp" >JPEG đến WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/png-to-webp" >PNG đến WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/tga-to-webp" >TGA đến WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/tif-to-webp" >TIF đến WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/tiff-to-webp" >TIFF đến WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/wmf-to-webp" >WMF đến WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/wmz-to-webp" >WMZ đến WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/svg-to-webp" >SVG đến WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/svgz-to-webp" >SVGZ đến WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/eps-to-webp" >EPS đến WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/cdr-to-webp" >CDR đến WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/cmx-to-webp" >CMX đến WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/otg-to-webp" >OTG đến WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/odg-to-webp" >ODG đến WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/ico-to-webp" >ICO đến WEBP</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/apng-to-webp" style="padding:15px;">APNG đến WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/bmp-to-webp" style="padding:15px;">BMP đến WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/dib-to-webp" style="padding:15px;">DIB đến WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/dicom-to-webp" style="padding:15px;">DICOM đến WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/djvu-to-webp" style="padding:15px;">DJVU đến WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/dng-to-webp" style="padding:15px;">DNG đến WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/emf-to-webp" style="padding:15px;">EMF đến WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/emz-to-webp" style="padding:15px;">EMZ đến WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/gif-to-webp" style="padding:15px;">GIF đến WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/jpeg2000-to-webp" style="padding:15px;">JPEG2000 đến WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/jp2-to-webp" style="padding:15px;">JP2 đến WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/j2k-to-webp" style="padding:15px;">J2K đến WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/jpg-to-webp" style="padding:15px;">JPG đến WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/jpeg-to-webp" style="padding:15px;">JPEG đến WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/png-to-webp" style="padding:15px;">PNG đến WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/tga-to-webp" style="padding:15px;">TGA đến WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/tif-to-webp" style="padding:15px;">TIF đến WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/tiff-to-webp" style="padding:15px;">TIFF đến WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/wmf-to-webp" style="padding:15px;">WMF đến WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/wmz-to-webp" style="padding:15px;">WMZ đến WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/svg-to-webp" style="padding:15px;">SVG đến WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/svgz-to-webp" style="padding:15px;">SVGZ đến WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/eps-to-webp" style="padding:15px;">EPS đến WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/cdr-to-webp" style="padding:15px;">CDR đến WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/cmx-to-webp" style="padding:15px;">CMX đến WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/otg-to-webp" style="padding:15px;">OTG đến WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/odg-to-webp" style="padding:15px;">ODG đến WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/ico-to-webp" style="padding:15px;">ICO đến WEBP</a></div>
                 </div>
         </div>
     </div>

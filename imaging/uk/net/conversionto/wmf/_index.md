@@ -21,35 +21,35 @@ description: За допомогою бібліотеки Aspose.Imaging для 
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/apng-to-wmf" >APNG до WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/bmp-to-wmf" >BMP до WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/dib-to-wmf" >DIB до WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/dicom-to-wmf" >DICOM до WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/djvu-to-wmf" >DJVU до WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/dng-to-wmf" >DNG до WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/emf-to-wmf" >EMF до WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/emz-to-wmf" >EMZ до WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/gif-to-wmf" >GIF до WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/jpeg2000-to-wmf" >JPEG2000 до WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/jp2-to-wmf" >JP2 до WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/j2k-to-wmf" >J2K до WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/jpg-to-wmf" >JPG до WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/jpeg-to-wmf" >JPEG до WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/png-to-wmf" >PNG до WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/tga-to-wmf" >TGA до WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/tif-to-wmf" >TIF до WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/tiff-to-wmf" >TIFF до WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/webp-to-wmf" >WEBP до WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/wmz-to-wmf" >WMZ до WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/svg-to-wmf" >SVG до WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/svgz-to-wmf" >SVGZ до WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/eps-to-wmf" >EPS до WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/cdr-to-wmf" >CDR до WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/cmx-to-wmf" >CMX до WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/otg-to-wmf" >OTG до WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/odg-to-wmf" >ODG до WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/ico-to-wmf" >ICO до WMF</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/apng-to-wmf" style="padding:15px;">APNG до WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/bmp-to-wmf" style="padding:15px;">BMP до WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/dib-to-wmf" style="padding:15px;">DIB до WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/dicom-to-wmf" style="padding:15px;">DICOM до WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/djvu-to-wmf" style="padding:15px;">DJVU до WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/dng-to-wmf" style="padding:15px;">DNG до WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/emf-to-wmf" style="padding:15px;">EMF до WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/emz-to-wmf" style="padding:15px;">EMZ до WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/gif-to-wmf" style="padding:15px;">GIF до WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/jpeg2000-to-wmf" style="padding:15px;">JPEG2000 до WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/jp2-to-wmf" style="padding:15px;">JP2 до WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/j2k-to-wmf" style="padding:15px;">J2K до WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/jpg-to-wmf" style="padding:15px;">JPG до WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/jpeg-to-wmf" style="padding:15px;">JPEG до WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/png-to-wmf" style="padding:15px;">PNG до WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/tga-to-wmf" style="padding:15px;">TGA до WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/tif-to-wmf" style="padding:15px;">TIF до WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/tiff-to-wmf" style="padding:15px;">TIFF до WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/webp-to-wmf" style="padding:15px;">WEBP до WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/wmz-to-wmf" style="padding:15px;">WMZ до WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/svg-to-wmf" style="padding:15px;">SVG до WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/svgz-to-wmf" style="padding:15px;">SVGZ до WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/eps-to-wmf" style="padding:15px;">EPS до WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/cdr-to-wmf" style="padding:15px;">CDR до WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/cmx-to-wmf" style="padding:15px;">CMX до WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/otg-to-wmf" style="padding:15px;">OTG до WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/odg-to-wmf" style="padding:15px;">ODG до WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/ico-to-wmf" style="padding:15px;">ICO до WMF</a></div>
                 </div>
         </div>
     </div>

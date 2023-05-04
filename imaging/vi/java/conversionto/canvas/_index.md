@@ -21,36 +21,36 @@ Chuyển đổi được hỗ trợ:
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/apng-to-canvas" >APNG đến CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/bmp-to-canvas" >BMP đến CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/dib-to-canvas" >DIB đến CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/dicom-to-canvas" >DICOM đến CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/djvu-to-canvas" >DJVU đến CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/dng-to-canvas" >DNG đến CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/emf-to-canvas" >EMF đến CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/emz-to-canvas" >EMZ đến CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/gif-to-canvas" >GIF đến CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/jpeg2000-to-canvas" >JPEG2000 đến CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/jp2-to-canvas" >JP2 đến CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/j2k-to-canvas" >J2K đến CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/jpg-to-canvas" >JPG đến CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/jpeg-to-canvas" >JPEG đến CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/png-to-canvas" >PNG đến CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/tga-to-canvas" >TGA đến CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/tif-to-canvas" >TIF đến CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/tiff-to-canvas" >TIFF đến CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/webp-to-canvas" >WEBP đến CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/wmf-to-canvas" >WMF đến CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/wmz-to-canvas" >WMZ đến CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/svg-to-canvas" >SVG đến CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/svgz-to-canvas" >SVGZ đến CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/eps-to-canvas" >EPS đến CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/cdr-to-canvas" >CDR đến CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/cmx-to-canvas" >CMX đến CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/otg-to-canvas" >OTG đến CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/odg-to-canvas" >ODG đến CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/ico-to-canvas" >ICO đến CANVAS</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/apng-to-canvas" style="padding:15px;">APNG đến CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/bmp-to-canvas" style="padding:15px;">BMP đến CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/dib-to-canvas" style="padding:15px;">DIB đến CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/dicom-to-canvas" style="padding:15px;">DICOM đến CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/djvu-to-canvas" style="padding:15px;">DJVU đến CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/dng-to-canvas" style="padding:15px;">DNG đến CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/emf-to-canvas" style="padding:15px;">EMF đến CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/emz-to-canvas" style="padding:15px;">EMZ đến CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/gif-to-canvas" style="padding:15px;">GIF đến CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/jpeg2000-to-canvas" style="padding:15px;">JPEG2000 đến CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/jp2-to-canvas" style="padding:15px;">JP2 đến CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/j2k-to-canvas" style="padding:15px;">J2K đến CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/jpg-to-canvas" style="padding:15px;">JPG đến CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/jpeg-to-canvas" style="padding:15px;">JPEG đến CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/png-to-canvas" style="padding:15px;">PNG đến CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/tga-to-canvas" style="padding:15px;">TGA đến CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/tif-to-canvas" style="padding:15px;">TIF đến CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/tiff-to-canvas" style="padding:15px;">TIFF đến CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/webp-to-canvas" style="padding:15px;">WEBP đến CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/wmf-to-canvas" style="padding:15px;">WMF đến CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/wmz-to-canvas" style="padding:15px;">WMZ đến CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/svg-to-canvas" style="padding:15px;">SVG đến CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/svgz-to-canvas" style="padding:15px;">SVGZ đến CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/eps-to-canvas" style="padding:15px;">EPS đến CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/cdr-to-canvas" style="padding:15px;">CDR đến CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/cmx-to-canvas" style="padding:15px;">CMX đến CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/otg-to-canvas" style="padding:15px;">OTG đến CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/odg-to-canvas" style="padding:15px;">ODG đến CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/ico-to-canvas" style="padding:15px;">ICO đến CANVAS</a></div>
                 </div>
         </div>
     </div>

@@ -21,34 +21,34 @@ description: באמצעות Aspose.Imaging ניתן להמיר ל-J2K מפורמ
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/apng-to-j2k" >APNG ל J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/bmp-to-j2k" >BMP ל J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/dib-to-j2k" >DIB ל J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/dicom-to-j2k" >DICOM ל J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/djvu-to-j2k" >DJVU ל J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/dng-to-j2k" >DNG ל J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/emf-to-j2k" >EMF ל J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/emz-to-j2k" >EMZ ל J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/gif-to-j2k" >GIF ל J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/jp2-to-j2k" >JP2 ל J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/jpg-to-j2k" >JPG ל J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/jpeg-to-j2k" >JPEG ל J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/png-to-j2k" >PNG ל J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/tga-to-j2k" >TGA ל J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/tif-to-j2k" >TIF ל J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/tiff-to-j2k" >TIFF ל J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/webp-to-j2k" >WEBP ל J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/wmf-to-j2k" >WMF ל J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/wmz-to-j2k" >WMZ ל J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/svg-to-j2k" >SVG ל J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/svgz-to-j2k" >SVGZ ל J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/eps-to-j2k" >EPS ל J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/cdr-to-j2k" >CDR ל J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/cmx-to-j2k" >CMX ל J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/otg-to-j2k" >OTG ל J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/odg-to-j2k" >ODG ל J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/ico-to-j2k" >ICO ל J2K</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/apng-to-j2k" style="padding:15px;">APNG ל J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/bmp-to-j2k" style="padding:15px;">BMP ל J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/dib-to-j2k" style="padding:15px;">DIB ל J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/dicom-to-j2k" style="padding:15px;">DICOM ל J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/djvu-to-j2k" style="padding:15px;">DJVU ל J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/dng-to-j2k" style="padding:15px;">DNG ל J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/emf-to-j2k" style="padding:15px;">EMF ל J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/emz-to-j2k" style="padding:15px;">EMZ ל J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/gif-to-j2k" style="padding:15px;">GIF ל J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/jp2-to-j2k" style="padding:15px;">JP2 ל J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/jpg-to-j2k" style="padding:15px;">JPG ל J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/jpeg-to-j2k" style="padding:15px;">JPEG ל J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/png-to-j2k" style="padding:15px;">PNG ל J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/tga-to-j2k" style="padding:15px;">TGA ל J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/tif-to-j2k" style="padding:15px;">TIF ל J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/tiff-to-j2k" style="padding:15px;">TIFF ל J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/webp-to-j2k" style="padding:15px;">WEBP ל J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/wmf-to-j2k" style="padding:15px;">WMF ל J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/wmz-to-j2k" style="padding:15px;">WMZ ל J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/svg-to-j2k" style="padding:15px;">SVG ל J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/svgz-to-j2k" style="padding:15px;">SVGZ ל J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/eps-to-j2k" style="padding:15px;">EPS ל J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/cdr-to-j2k" style="padding:15px;">CDR ל J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/cmx-to-j2k" style="padding:15px;">CMX ל J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/otg-to-j2k" style="padding:15px;">OTG ל J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/odg-to-j2k" style="padding:15px;">ODG ל J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/ico-to-j2k" style="padding:15px;">ICO ל J2K</a></div>
                 </div>
         </div>
     </div>

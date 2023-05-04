@@ -21,36 +21,36 @@ description: Aspose.Imaging을 사용하면 Java를 사용하여 다른 형식�
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/apng-to-html" >APNG 에게 HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/bmp-to-html" >BMP 에게 HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/dib-to-html" >DIB 에게 HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/dicom-to-html" >DICOM 에게 HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/djvu-to-html" >DJVU 에게 HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/dng-to-html" >DNG 에게 HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/emf-to-html" >EMF 에게 HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/emz-to-html" >EMZ 에게 HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/gif-to-html" >GIF 에게 HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/jpeg2000-to-html" >JPEG2000 에게 HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/jp2-to-html" >JP2 에게 HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/j2k-to-html" >J2K 에게 HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/jpg-to-html" >JPG 에게 HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/jpeg-to-html" >JPEG 에게 HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/png-to-html" >PNG 에게 HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/tga-to-html" >TGA 에게 HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/tif-to-html" >TIF 에게 HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/tiff-to-html" >TIFF 에게 HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/webp-to-html" >WEBP 에게 HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/wmf-to-html" >WMF 에게 HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/wmz-to-html" >WMZ 에게 HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/svg-to-html" >SVG 에게 HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/svgz-to-html" >SVGZ 에게 HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/eps-to-html" >EPS 에게 HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/cdr-to-html" >CDR 에게 HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/cmx-to-html" >CMX 에게 HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/otg-to-html" >OTG 에게 HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/odg-to-html" >ODG 에게 HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/ico-to-html" >ICO 에게 HTML</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/apng-to-html" style="padding:15px;">APNG 에게 HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/bmp-to-html" style="padding:15px;">BMP 에게 HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/dib-to-html" style="padding:15px;">DIB 에게 HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/dicom-to-html" style="padding:15px;">DICOM 에게 HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/djvu-to-html" style="padding:15px;">DJVU 에게 HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/dng-to-html" style="padding:15px;">DNG 에게 HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/emf-to-html" style="padding:15px;">EMF 에게 HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/emz-to-html" style="padding:15px;">EMZ 에게 HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/gif-to-html" style="padding:15px;">GIF 에게 HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/jpeg2000-to-html" style="padding:15px;">JPEG2000 에게 HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/jp2-to-html" style="padding:15px;">JP2 에게 HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/j2k-to-html" style="padding:15px;">J2K 에게 HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/jpg-to-html" style="padding:15px;">JPG 에게 HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/jpeg-to-html" style="padding:15px;">JPEG 에게 HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/png-to-html" style="padding:15px;">PNG 에게 HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/tga-to-html" style="padding:15px;">TGA 에게 HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/tif-to-html" style="padding:15px;">TIF 에게 HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/tiff-to-html" style="padding:15px;">TIFF 에게 HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/webp-to-html" style="padding:15px;">WEBP 에게 HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/wmf-to-html" style="padding:15px;">WMF 에게 HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/wmz-to-html" style="padding:15px;">WMZ 에게 HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/svg-to-html" style="padding:15px;">SVG 에게 HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/svgz-to-html" style="padding:15px;">SVGZ 에게 HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/eps-to-html" style="padding:15px;">EPS 에게 HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/cdr-to-html" style="padding:15px;">CDR 에게 HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/cmx-to-html" style="padding:15px;">CMX 에게 HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/otg-to-html" style="padding:15px;">OTG 에게 HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/odg-to-html" style="padding:15px;">ODG 에게 HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/ico-to-html" style="padding:15px;">ICO 에게 HTML</a></div>
                 </div>
         </div>
     </div>

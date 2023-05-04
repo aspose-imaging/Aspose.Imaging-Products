@@ -21,35 +21,35 @@ description: باستخدام Aspose.Imaging لمكتبة .NET يسهل التح
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/apng-to-gif" >APNG ل GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/bmp-to-gif" >BMP ل GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/dib-to-gif" >DIB ل GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/dicom-to-gif" >DICOM ل GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/djvu-to-gif" >DJVU ل GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/dng-to-gif" >DNG ل GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/emf-to-gif" >EMF ل GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/emz-to-gif" >EMZ ل GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/jpeg2000-to-gif" >JPEG2000 ل GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/jp2-to-gif" >JP2 ل GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/j2k-to-gif" >J2K ل GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/jpg-to-gif" >JPG ل GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/jpeg-to-gif" >JPEG ل GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/png-to-gif" >PNG ل GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/tga-to-gif" >TGA ل GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/tif-to-gif" >TIF ل GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/tiff-to-gif" >TIFF ل GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/webp-to-gif" >WEBP ل GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/wmf-to-gif" >WMF ل GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/wmz-to-gif" >WMZ ل GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/svg-to-gif" >SVG ل GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/svgz-to-gif" >SVGZ ل GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/eps-to-gif" >EPS ل GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/cdr-to-gif" >CDR ل GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/cmx-to-gif" >CMX ل GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/otg-to-gif" >OTG ل GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/odg-to-gif" >ODG ل GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/ico-to-gif" >ICO ل GIF</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/apng-to-gif" style="padding:15px;">APNG ل GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/bmp-to-gif" style="padding:15px;">BMP ل GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/dib-to-gif" style="padding:15px;">DIB ل GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/dicom-to-gif" style="padding:15px;">DICOM ل GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/djvu-to-gif" style="padding:15px;">DJVU ل GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/dng-to-gif" style="padding:15px;">DNG ل GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/emf-to-gif" style="padding:15px;">EMF ل GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/emz-to-gif" style="padding:15px;">EMZ ل GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/jpeg2000-to-gif" style="padding:15px;">JPEG2000 ل GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/jp2-to-gif" style="padding:15px;">JP2 ل GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/j2k-to-gif" style="padding:15px;">J2K ل GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/jpg-to-gif" style="padding:15px;">JPG ل GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/jpeg-to-gif" style="padding:15px;">JPEG ل GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/png-to-gif" style="padding:15px;">PNG ل GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/tga-to-gif" style="padding:15px;">TGA ل GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/tif-to-gif" style="padding:15px;">TIF ل GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/tiff-to-gif" style="padding:15px;">TIFF ل GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/webp-to-gif" style="padding:15px;">WEBP ل GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/wmf-to-gif" style="padding:15px;">WMF ل GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/wmz-to-gif" style="padding:15px;">WMZ ل GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/svg-to-gif" style="padding:15px;">SVG ل GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/svgz-to-gif" style="padding:15px;">SVGZ ل GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/eps-to-gif" style="padding:15px;">EPS ل GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/cdr-to-gif" style="padding:15px;">CDR ل GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/cmx-to-gif" style="padding:15px;">CMX ل GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/otg-to-gif" style="padding:15px;">OTG ل GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/odg-to-gif" style="padding:15px;">ODG ل GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/ico-to-gif" style="padding:15px;">ICO ل GIF</a></div>
                 </div>
         </div>
     </div>

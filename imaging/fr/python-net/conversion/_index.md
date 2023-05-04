@@ -33,36 +33,36 @@ En utilisant Aspose.Imaging pour Python via l'API .NET, la conversion entre form
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
-		<div class="row other-converters">
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/fr/python-net/conversion/apng-to-bmp/">APNG pour BMP</a>
+		      <a href="/imaging/fr/python-net/conversion/apng-to-bmp/" style="padding:15px;">APNG pour BMP</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/fr/python-net/conversion/cdr-to-bmp/">CDR pour BMP</a>
+		      <a href="/imaging/fr/python-net/conversion/cdr-to-bmp/" style="padding:15px;">CDR pour BMP</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/fr/python-net/conversion/dib-to-bmp/">DIB pour BMP</a>
+		      <a href="/imaging/fr/python-net/conversion/dib-to-bmp/" style="padding:15px;">DIB pour BMP</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/fr/python-net/conversion/dicom-to-bmp/">DICOM pour BMP</a>
+		      <a href="/imaging/fr/python-net/conversion/dicom-to-bmp/" style="padding:15px;">DICOM pour BMP</a>
 		   </div>
  		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/fr/python-net/conversion/djvu-to-bmp/">DJVU pour BMP</a>
+		      <a href="/imaging/fr/python-net/conversion/djvu-to-bmp/" style="padding:15px;">DJVU pour BMP</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/fr/python-net/conversion/dng-to-bmp/">DNG pour BMP</a>
+		      <a href="/imaging/fr/python-net/conversion/dng-to-bmp/" style="padding:15px;">DNG pour BMP</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/fr/python-net/conversion/emf-to-bmp/">EMF pour BMP</a>
+		      <a href="/imaging/fr/python-net/conversion/emf-to-bmp/" style="padding:15px;">EMF pour BMP</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/fr/python-net/conversion/emz-to-bmp/">EMZ pour BMP</a>
+		      <a href="/imaging/fr/python-net/conversion/emz-to-bmp/" style="padding:15px;">EMZ pour BMP</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/fr/python-net/conversion/eps-to-bmp/">EPS pour BMP</a>
+		      <a href="/imaging/fr/python-net/conversion/eps-to-bmp/" style="padding:15px;">EPS pour BMP</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/fr/python-net/conversion/gif-to-bmp/">GIF pour BMP</a>
+		      <a href="/imaging/fr/python-net/conversion/gif-to-bmp/" style="padding:15px;">GIF pour BMP</a>
 		   </div>
 		</div>
 	</div>
@@ -84,36 +84,36 @@ Le processus de conversion des images raster en PDF est le même que celui de la
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
-		<div class="row other-converters">
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/fr/python-net/conversion/apng-to-PDF/">APNG pour PDF</a>
+		      <a href="/imaging/fr/python-net/conversion/apng-to-PDF/" style="padding:15px;">APNG pour PDF</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/fr/python-net/conversion/jpeg-to-PDF/">JPEG pour PDF</a>
+		      <a href="/imaging/fr/python-net/conversion/jpeg-to-PDF/" style="padding:15px;">JPEG pour PDF</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/fr/python-net/conversion/bmp-to-PDF/">BMP pour PDF</a>
+		      <a href="/imaging/fr/python-net/conversion/bmp-to-PDF/" style="padding:15px;">BMP pour PDF</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/fr/python-net/conversion/odg-to-PDF/">ODG pour PDF</a>
+		      <a href="/imaging/fr/python-net/conversion/odg-to-PDF/" style="padding:15px;">ODG pour PDF</a>
 		   </div>
  		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/fr/python-net/conversion/otg-to-PDF/">OTG pour PDF</a>
+		      <a href="/imaging/fr/python-net/conversion/otg-to-PDF/" style="padding:15px;">OTG pour PDF</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/fr/python-net/conversion/png-to-PDF/">PNG pour PDF</a>
+		      <a href="/imaging/fr/python-net/conversion/png-to-PDF/" style="padding:15px;">PNG pour PDF</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/fr/python-net/conversion/svg-to-PDF/">SVG pour PDF</a>
+		      <a href="/imaging/fr/python-net/conversion/svg-to-PDF/" style="padding:15px;">SVG pour PDF</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/fr/python-net/conversion/emz-to-PDF/">EMZ pour PDF</a>
+		      <a href="/imaging/fr/python-net/conversion/emz-to-PDF/" style="padding:15px;">EMZ pour PDF</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/fr/python-net/conversion/eps-to-PDF/">EPS pour PDF</a>
+		      <a href="/imaging/fr/python-net/conversion/eps-to-PDF/" style="padding:15px;">EPS pour PDF</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/fr/python-net/conversion/gif-to-PDF/">GIF pour PDF</a>
+		      <a href="/imaging/fr/python-net/conversion/gif-to-PDF/" style="padding:15px;">GIF pour PDF</a>
 		   </div>
 		</div>
 	</div>
@@ -135,15 +135,15 @@ La conversion de l'image SVG est la même, chargez l'image SVG, utilisez les opt
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
-		<div class="row other-converters">
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/fr/python-net/conversion/SVG-to-bmp/">SVG pour BMP</a>
+		      <a href="/imaging/fr/python-net/conversion/SVG-to-bmp/" style="padding:15px;">SVG pour BMP</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/fr/python-net/conversion/SVG-to-jpeg/">SVG pour JPEG</a>
+		      <a href="/imaging/fr/python-net/conversion/SVG-to-jpeg/" style="padding:15px;">SVG pour JPEG</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/fr/python-net/conversion/SVG-to-png/">SVG pour PNG</a>
+		      <a href="/imaging/fr/python-net/conversion/SVG-to-png/" style="padding:15px;">SVG pour PNG</a>
 		   </div>		   
 		</div>
 	</div>
@@ -158,36 +158,36 @@ Vous trouverez ci-dessous la liste complète des formats d'image vers lesquels v
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
                 <hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/apng" >Convertir à partir de APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/bmp" >Convertir à partir de BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/dib" >Convertir à partir de DIB</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/dicom" >Convertir à partir de DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/djvu" >Convertir à partir de DJVU</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/dng" >Convertir à partir de DNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/emf" >Convertir à partir de EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/emz" >Convertir à partir de EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/gif" >Convertir à partir de GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/jpeg2000" >Convertir à partir de JPEG2000</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/jp2" >Convertir à partir de JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/j2k" >Convertir à partir de J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/jpg" >Convertir à partir de JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/jpeg" >Convertir à partir de JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/png" >Convertir à partir de PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/tga" >Convertir à partir de TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/tif" >Convertir à partir de TIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/tiff" >Convertir à partir de TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/webp" >Convertir à partir de WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/wmf" >Convertir à partir de WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/wmz" >Convertir à partir de WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/svg" >Convertir à partir de SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/svgz" >Convertir à partir de SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/eps" >Convertir à partir de EPS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/cdr" >Convertir à partir de CDR</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/cmx" >Convertir à partir de CMX</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/otg" >Convertir à partir de OTG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/odg" >Convertir à partir de ODG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/ico" >Convertir à partir de ICO</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/apng" style="padding:15px;">Convertir à partir de APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/bmp" style="padding:15px;">Convertir à partir de BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/dib" style="padding:15px;">Convertir à partir de DIB</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/dicom" style="padding:15px;">Convertir à partir de DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/djvu" style="padding:15px;">Convertir à partir de DJVU</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/dng" style="padding:15px;">Convertir à partir de DNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/emf" style="padding:15px;">Convertir à partir de EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/emz" style="padding:15px;">Convertir à partir de EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/gif" style="padding:15px;">Convertir à partir de GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/jpeg2000" style="padding:15px;">Convertir à partir de JPEG2000</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/jp2" style="padding:15px;">Convertir à partir de JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/j2k" style="padding:15px;">Convertir à partir de J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/jpg" style="padding:15px;">Convertir à partir de JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/jpeg" style="padding:15px;">Convertir à partir de JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/png" style="padding:15px;">Convertir à partir de PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/tga" style="padding:15px;">Convertir à partir de TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/tif" style="padding:15px;">Convertir à partir de TIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/tiff" style="padding:15px;">Convertir à partir de TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/webp" style="padding:15px;">Convertir à partir de WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/wmf" style="padding:15px;">Convertir à partir de WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/wmz" style="padding:15px;">Convertir à partir de WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/svg" style="padding:15px;">Convertir à partir de SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/svgz" style="padding:15px;">Convertir à partir de SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/eps" style="padding:15px;">Convertir à partir de EPS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/cdr" style="padding:15px;">Convertir à partir de CDR</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/cmx" style="padding:15px;">Convertir à partir de CMX</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/otg" style="padding:15px;">Convertir à partir de OTG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/odg" style="padding:15px;">Convertir à partir de ODG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/from/ico" style="padding:15px;">Convertir à partir de ICO</a></div>
                 </div>
         </div>
     </div>
@@ -201,32 +201,32 @@ Vous trouverez ci-dessous la liste complète des formats d'image que vous pouvez
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 	        <hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/to/bmp" >Convertir en BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/to/gif" >Convertir en GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/to/dicom" >Convertir en DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/to/emf" >Convertir en EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/to/jpg" >Convertir en JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/to/jpeg" >Convertir en JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/to/jp2" >Convertir en JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/to/j2k" >Convertir en J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/to/jpeg2000" >Convertir en JPEG2000</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/to/png" >Convertir en PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/to/psd" >Convertir en PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/to/dxf" >Convertir en DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/to/svg" >Convertir en SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/to/tiff" >Convertir en TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/to/webp" >Convertir en WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/to/wmf" >Convertir en WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/to/pdf" >Convertir en PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/to/html" >Convertir en HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/to/emz" >Convertir en EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/to/wmz" >Convertir en WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/to/tga" >Convertir en TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/to/svgz" >Convertir en SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/to/canvas" >Convertir en CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/to/ico" >Convertir en ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/to/apng" >Convertir en APNG</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/to/bmp" style="padding:15px;">Convertir en BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/to/gif" style="padding:15px;">Convertir en GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/to/dicom" style="padding:15px;">Convertir en DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/to/emf" style="padding:15px;">Convertir en EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/to/jpg" style="padding:15px;">Convertir en JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/to/jpeg" style="padding:15px;">Convertir en JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/to/jp2" style="padding:15px;">Convertir en JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/to/j2k" style="padding:15px;">Convertir en J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/to/jpeg2000" style="padding:15px;">Convertir en JPEG2000</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/to/png" style="padding:15px;">Convertir en PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/to/psd" style="padding:15px;">Convertir en PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/to/dxf" style="padding:15px;">Convertir en DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/to/svg" style="padding:15px;">Convertir en SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/to/tiff" style="padding:15px;">Convertir en TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/to/webp" style="padding:15px;">Convertir en WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/to/wmf" style="padding:15px;">Convertir en WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/to/pdf" style="padding:15px;">Convertir en PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/to/html" style="padding:15px;">Convertir en HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/to/emz" style="padding:15px;">Convertir en EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/to/wmz" style="padding:15px;">Convertir en WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/to/tga" style="padding:15px;">Convertir en TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/to/svgz" style="padding:15px;">Convertir en SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/to/canvas" style="padding:15px;">Convertir en CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/to/ico" style="padding:15px;">Convertir en ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/python-net/conversion/to/apng" style="padding:15px;">Convertir en APNG</a></div>
                 </div>
         </div>
     </div>

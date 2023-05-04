@@ -21,35 +21,35 @@ description: Aspose.Imaging を使用すると、Java を使用して他のフ�
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/apng-to-tga" >APNG に TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/bmp-to-tga" >BMP に TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/dib-to-tga" >DIB に TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/dicom-to-tga" >DICOM に TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/djvu-to-tga" >DJVU に TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/dng-to-tga" >DNG に TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/emf-to-tga" >EMF に TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/emz-to-tga" >EMZ に TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/gif-to-tga" >GIF に TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/jpeg2000-to-tga" >JPEG2000 に TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/jp2-to-tga" >JP2 に TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/j2k-to-tga" >J2K に TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/jpg-to-tga" >JPG に TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/jpeg-to-tga" >JPEG に TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/png-to-tga" >PNG に TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/tif-to-tga" >TIF に TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/tiff-to-tga" >TIFF に TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/webp-to-tga" >WEBP に TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/wmf-to-tga" >WMF に TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/wmz-to-tga" >WMZ に TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/svg-to-tga" >SVG に TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/svgz-to-tga" >SVGZ に TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/eps-to-tga" >EPS に TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/cdr-to-tga" >CDR に TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/cmx-to-tga" >CMX に TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/otg-to-tga" >OTG に TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/odg-to-tga" >ODG に TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/ico-to-tga" >ICO に TGA</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/apng-to-tga" style="padding:15px;">APNG に TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/bmp-to-tga" style="padding:15px;">BMP に TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/dib-to-tga" style="padding:15px;">DIB に TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/dicom-to-tga" style="padding:15px;">DICOM に TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/djvu-to-tga" style="padding:15px;">DJVU に TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/dng-to-tga" style="padding:15px;">DNG に TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/emf-to-tga" style="padding:15px;">EMF に TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/emz-to-tga" style="padding:15px;">EMZ に TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/gif-to-tga" style="padding:15px;">GIF に TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/jpeg2000-to-tga" style="padding:15px;">JPEG2000 に TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/jp2-to-tga" style="padding:15px;">JP2 に TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/j2k-to-tga" style="padding:15px;">J2K に TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/jpg-to-tga" style="padding:15px;">JPG に TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/jpeg-to-tga" style="padding:15px;">JPEG に TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/png-to-tga" style="padding:15px;">PNG に TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/tif-to-tga" style="padding:15px;">TIF に TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/tiff-to-tga" style="padding:15px;">TIFF に TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/webp-to-tga" style="padding:15px;">WEBP に TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/wmf-to-tga" style="padding:15px;">WMF に TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/wmz-to-tga" style="padding:15px;">WMZ に TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/svg-to-tga" style="padding:15px;">SVG に TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/svgz-to-tga" style="padding:15px;">SVGZ に TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/eps-to-tga" style="padding:15px;">EPS に TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/cdr-to-tga" style="padding:15px;">CDR に TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/cmx-to-tga" style="padding:15px;">CMX に TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/otg-to-tga" style="padding:15px;">OTG に TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/odg-to-tga" style="padding:15px;">ODG に TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/ico-to-tga" style="padding:15px;">ICO に TGA</a></div>
                 </div>
         </div>
     </div>

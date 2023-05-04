@@ -21,36 +21,36 @@ description: .NET लाइब्रेरी के लिए Aspose.Imaging �
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/apng-to-svg" >APNG को SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/bmp-to-svg" >BMP को SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/dib-to-svg" >DIB को SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/dicom-to-svg" >DICOM को SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/djvu-to-svg" >DJVU को SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/dng-to-svg" >DNG को SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/emf-to-svg" >EMF को SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/emz-to-svg" >EMZ को SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/gif-to-svg" >GIF को SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/jpeg2000-to-svg" >JPEG2000 को SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/jp2-to-svg" >JP2 को SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/j2k-to-svg" >J2K को SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/jpg-to-svg" >JPG को SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/jpeg-to-svg" >JPEG को SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/png-to-svg" >PNG को SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/tga-to-svg" >TGA को SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/tif-to-svg" >TIF को SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/tiff-to-svg" >TIFF को SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/webp-to-svg" >WEBP को SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/wmf-to-svg" >WMF को SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/wmz-to-svg" >WMZ को SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/svg-to-svg" >SVG को SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/svgz-to-svg" >SVGZ को SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/eps-to-svg" >EPS को SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/cdr-to-svg" >CDR को SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/cmx-to-svg" >CMX को SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/otg-to-svg" >OTG को SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/odg-to-svg" >ODG को SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/ico-to-svg" >ICO को SVG</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/apng-to-svg" style="padding:15px;">APNG को SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/bmp-to-svg" style="padding:15px;">BMP को SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/dib-to-svg" style="padding:15px;">DIB को SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/dicom-to-svg" style="padding:15px;">DICOM को SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/djvu-to-svg" style="padding:15px;">DJVU को SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/dng-to-svg" style="padding:15px;">DNG को SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/emf-to-svg" style="padding:15px;">EMF को SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/emz-to-svg" style="padding:15px;">EMZ को SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/gif-to-svg" style="padding:15px;">GIF को SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/jpeg2000-to-svg" style="padding:15px;">JPEG2000 को SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/jp2-to-svg" style="padding:15px;">JP2 को SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/j2k-to-svg" style="padding:15px;">J2K को SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/jpg-to-svg" style="padding:15px;">JPG को SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/jpeg-to-svg" style="padding:15px;">JPEG को SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/png-to-svg" style="padding:15px;">PNG को SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/tga-to-svg" style="padding:15px;">TGA को SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/tif-to-svg" style="padding:15px;">TIF को SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/tiff-to-svg" style="padding:15px;">TIFF को SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/webp-to-svg" style="padding:15px;">WEBP को SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/wmf-to-svg" style="padding:15px;">WMF को SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/wmz-to-svg" style="padding:15px;">WMZ को SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/svg-to-svg" style="padding:15px;">SVG को SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/svgz-to-svg" style="padding:15px;">SVGZ को SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/eps-to-svg" style="padding:15px;">EPS को SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/cdr-to-svg" style="padding:15px;">CDR को SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/cmx-to-svg" style="padding:15px;">CMX को SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/otg-to-svg" style="padding:15px;">OTG को SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/odg-to-svg" style="padding:15px;">ODG को SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/ico-to-svg" style="padding:15px;">ICO को SVG</a></div>
                 </div>
         </div>
     </div>

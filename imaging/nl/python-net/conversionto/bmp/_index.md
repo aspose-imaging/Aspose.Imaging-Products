@@ -21,35 +21,35 @@ Er zijn de volgende beschikbare conversies:
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/apng-to-bmp" >APNG naar BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/dib-to-bmp" >DIB naar BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/dicom-to-bmp" >DICOM naar BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/djvu-to-bmp" >DJVU naar BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/dng-to-bmp" >DNG naar BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/emf-to-bmp" >EMF naar BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/emz-to-bmp" >EMZ naar BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/gif-to-bmp" >GIF naar BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/jpeg2000-to-bmp" >JPEG2000 naar BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/jp2-to-bmp" >JP2 naar BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/j2k-to-bmp" >J2K naar BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/jpg-to-bmp" >JPG naar BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/jpeg-to-bmp" >JPEG naar BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/png-to-bmp" >PNG naar BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/tga-to-bmp" >TGA naar BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/tif-to-bmp" >TIF naar BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/tiff-to-bmp" >TIFF naar BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/webp-to-bmp" >WEBP naar BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/wmf-to-bmp" >WMF naar BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/wmz-to-bmp" >WMZ naar BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/svg-to-bmp" >SVG naar BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/svgz-to-bmp" >SVGZ naar BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/eps-to-bmp" >EPS naar BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/cdr-to-bmp" >CDR naar BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/cmx-to-bmp" >CMX naar BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/otg-to-bmp" >OTG naar BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/odg-to-bmp" >ODG naar BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/ico-to-bmp" >ICO naar BMP</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/apng-to-bmp" style="padding:15px;">APNG naar BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/dib-to-bmp" style="padding:15px;">DIB naar BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/dicom-to-bmp" style="padding:15px;">DICOM naar BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/djvu-to-bmp" style="padding:15px;">DJVU naar BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/dng-to-bmp" style="padding:15px;">DNG naar BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/emf-to-bmp" style="padding:15px;">EMF naar BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/emz-to-bmp" style="padding:15px;">EMZ naar BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/gif-to-bmp" style="padding:15px;">GIF naar BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/jpeg2000-to-bmp" style="padding:15px;">JPEG2000 naar BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/jp2-to-bmp" style="padding:15px;">JP2 naar BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/j2k-to-bmp" style="padding:15px;">J2K naar BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/jpg-to-bmp" style="padding:15px;">JPG naar BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/jpeg-to-bmp" style="padding:15px;">JPEG naar BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/png-to-bmp" style="padding:15px;">PNG naar BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/tga-to-bmp" style="padding:15px;">TGA naar BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/tif-to-bmp" style="padding:15px;">TIF naar BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/tiff-to-bmp" style="padding:15px;">TIFF naar BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/webp-to-bmp" style="padding:15px;">WEBP naar BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/wmf-to-bmp" style="padding:15px;">WMF naar BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/wmz-to-bmp" style="padding:15px;">WMZ naar BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/svg-to-bmp" style="padding:15px;">SVG naar BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/svgz-to-bmp" style="padding:15px;">SVGZ naar BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/eps-to-bmp" style="padding:15px;">EPS naar BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/cdr-to-bmp" style="padding:15px;">CDR naar BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/cmx-to-bmp" style="padding:15px;">CMX naar BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/otg-to-bmp" style="padding:15px;">OTG naar BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/odg-to-bmp" style="padding:15px;">ODG naar BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/ico-to-bmp" style="padding:15px;">ICO naar BMP</a></div>
                 </div>
         </div>
     </div>

@@ -21,36 +21,36 @@ There are next available conversions:
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/apng-to-canvas" >APNG to CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/bmp-to-canvas" >BMP to CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/dib-to-canvas" >DIB to CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/dicom-to-canvas" >DICOM to CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/djvu-to-canvas" >DJVU to CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/dng-to-canvas" >DNG to CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/emf-to-canvas" >EMF to CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/emz-to-canvas" >EMZ to CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/gif-to-canvas" >GIF to CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/jpeg2000-to-canvas" >JPEG2000 to CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/jp2-to-canvas" >JP2 to CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/j2k-to-canvas" >J2K to CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/jpg-to-canvas" >JPG to CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/jpeg-to-canvas" >JPEG to CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/png-to-canvas" >PNG to CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/tga-to-canvas" >TGA to CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/tif-to-canvas" >TIF to CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/tiff-to-canvas" >TIFF to CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/webp-to-canvas" >WEBP to CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/wmf-to-canvas" >WMF to CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/wmz-to-canvas" >WMZ to CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/svg-to-canvas" >SVG to CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/svgz-to-canvas" >SVGZ to CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/eps-to-canvas" >EPS to CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/cdr-to-canvas" >CDR to CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/cmx-to-canvas" >CMX to CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/otg-to-canvas" >OTG to CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/odg-to-canvas" >ODG to CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/ico-to-canvas" >ICO to CANVAS</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/apng-to-canvas" style="padding:15px;">APNG to CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/bmp-to-canvas" style="padding:15px;">BMP to CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/dib-to-canvas" style="padding:15px;">DIB to CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/dicom-to-canvas" style="padding:15px;">DICOM to CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/djvu-to-canvas" style="padding:15px;">DJVU to CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/dng-to-canvas" style="padding:15px;">DNG to CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/emf-to-canvas" style="padding:15px;">EMF to CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/emz-to-canvas" style="padding:15px;">EMZ to CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/gif-to-canvas" style="padding:15px;">GIF to CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/jpeg2000-to-canvas" style="padding:15px;">JPEG2000 to CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/jp2-to-canvas" style="padding:15px;">JP2 to CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/j2k-to-canvas" style="padding:15px;">J2K to CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/jpg-to-canvas" style="padding:15px;">JPG to CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/jpeg-to-canvas" style="padding:15px;">JPEG to CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/png-to-canvas" style="padding:15px;">PNG to CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/tga-to-canvas" style="padding:15px;">TGA to CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/tif-to-canvas" style="padding:15px;">TIF to CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/tiff-to-canvas" style="padding:15px;">TIFF to CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/webp-to-canvas" style="padding:15px;">WEBP to CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/wmf-to-canvas" style="padding:15px;">WMF to CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/wmz-to-canvas" style="padding:15px;">WMZ to CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/svg-to-canvas" style="padding:15px;">SVG to CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/svgz-to-canvas" style="padding:15px;">SVGZ to CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/eps-to-canvas" style="padding:15px;">EPS to CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/cdr-to-canvas" style="padding:15px;">CDR to CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/cmx-to-canvas" style="padding:15px;">CMX to CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/otg-to-canvas" style="padding:15px;">OTG to CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/odg-to-canvas" style="padding:15px;">ODG to CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/ico-to-canvas" style="padding:15px;">ICO to CANVAS</a></div>
                 </div>
         </div>
     </div>

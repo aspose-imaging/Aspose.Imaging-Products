@@ -21,35 +21,35 @@ description: คุณสามารถใช้ Aspose.Imaging สำหรั
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/bmp-to-apng" >BMP ถึง APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/dib-to-apng" >DIB ถึง APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/dicom-to-apng" >DICOM ถึง APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/djvu-to-apng" >DJVU ถึง APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/dng-to-apng" >DNG ถึง APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/emf-to-apng" >EMF ถึง APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/emz-to-apng" >EMZ ถึง APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/gif-to-apng" >GIF ถึง APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/jpeg2000-to-apng" >JPEG2000 ถึง APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/jp2-to-apng" >JP2 ถึง APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/j2k-to-apng" >J2K ถึง APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/jpg-to-apng" >JPG ถึง APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/jpeg-to-apng" >JPEG ถึง APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/png-to-apng" >PNG ถึง APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/tga-to-apng" >TGA ถึง APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/tif-to-apng" >TIF ถึง APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/tiff-to-apng" >TIFF ถึง APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/webp-to-apng" >WEBP ถึง APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/wmf-to-apng" >WMF ถึง APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/wmz-to-apng" >WMZ ถึง APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/svg-to-apng" >SVG ถึง APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/svgz-to-apng" >SVGZ ถึง APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/eps-to-apng" >EPS ถึง APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/cdr-to-apng" >CDR ถึง APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/cmx-to-apng" >CMX ถึง APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/otg-to-apng" >OTG ถึง APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/odg-to-apng" >ODG ถึง APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/ico-to-apng" >ICO ถึง APNG</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/bmp-to-apng" style="padding:15px;">BMP ถึง APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/dib-to-apng" style="padding:15px;">DIB ถึง APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/dicom-to-apng" style="padding:15px;">DICOM ถึง APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/djvu-to-apng" style="padding:15px;">DJVU ถึง APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/dng-to-apng" style="padding:15px;">DNG ถึง APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/emf-to-apng" style="padding:15px;">EMF ถึง APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/emz-to-apng" style="padding:15px;">EMZ ถึง APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/gif-to-apng" style="padding:15px;">GIF ถึง APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/jpeg2000-to-apng" style="padding:15px;">JPEG2000 ถึง APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/jp2-to-apng" style="padding:15px;">JP2 ถึง APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/j2k-to-apng" style="padding:15px;">J2K ถึง APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/jpg-to-apng" style="padding:15px;">JPG ถึง APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/jpeg-to-apng" style="padding:15px;">JPEG ถึง APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/png-to-apng" style="padding:15px;">PNG ถึง APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/tga-to-apng" style="padding:15px;">TGA ถึง APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/tif-to-apng" style="padding:15px;">TIF ถึง APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/tiff-to-apng" style="padding:15px;">TIFF ถึง APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/webp-to-apng" style="padding:15px;">WEBP ถึง APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/wmf-to-apng" style="padding:15px;">WMF ถึง APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/wmz-to-apng" style="padding:15px;">WMZ ถึง APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/svg-to-apng" style="padding:15px;">SVG ถึง APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/svgz-to-apng" style="padding:15px;">SVGZ ถึง APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/eps-to-apng" style="padding:15px;">EPS ถึง APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/cdr-to-apng" style="padding:15px;">CDR ถึง APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/cmx-to-apng" style="padding:15px;">CMX ถึง APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/otg-to-apng" style="padding:15px;">OTG ถึง APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/odg-to-apng" style="padding:15px;">ODG ถึง APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/ico-to-apng" style="padding:15px;">ICO ถึง APNG</a></div>
                 </div>
         </div>
     </div>

@@ -21,35 +21,35 @@ Chuyển đổi được hỗ trợ:
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/apng-to-wmf" >APNG đến WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/bmp-to-wmf" >BMP đến WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/dib-to-wmf" >DIB đến WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/dicom-to-wmf" >DICOM đến WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/djvu-to-wmf" >DJVU đến WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/dng-to-wmf" >DNG đến WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/emf-to-wmf" >EMF đến WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/emz-to-wmf" >EMZ đến WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/gif-to-wmf" >GIF đến WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/jpeg2000-to-wmf" >JPEG2000 đến WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/jp2-to-wmf" >JP2 đến WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/j2k-to-wmf" >J2K đến WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/jpg-to-wmf" >JPG đến WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/jpeg-to-wmf" >JPEG đến WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/png-to-wmf" >PNG đến WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/tga-to-wmf" >TGA đến WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/tif-to-wmf" >TIF đến WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/tiff-to-wmf" >TIFF đến WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/webp-to-wmf" >WEBP đến WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/wmz-to-wmf" >WMZ đến WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/svg-to-wmf" >SVG đến WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/svgz-to-wmf" >SVGZ đến WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/eps-to-wmf" >EPS đến WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/cdr-to-wmf" >CDR đến WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/cmx-to-wmf" >CMX đến WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/otg-to-wmf" >OTG đến WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/odg-to-wmf" >ODG đến WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/ico-to-wmf" >ICO đến WMF</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/apng-to-wmf" style="padding:15px;">APNG đến WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/bmp-to-wmf" style="padding:15px;">BMP đến WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/dib-to-wmf" style="padding:15px;">DIB đến WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/dicom-to-wmf" style="padding:15px;">DICOM đến WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/djvu-to-wmf" style="padding:15px;">DJVU đến WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/dng-to-wmf" style="padding:15px;">DNG đến WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/emf-to-wmf" style="padding:15px;">EMF đến WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/emz-to-wmf" style="padding:15px;">EMZ đến WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/gif-to-wmf" style="padding:15px;">GIF đến WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/jpeg2000-to-wmf" style="padding:15px;">JPEG2000 đến WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/jp2-to-wmf" style="padding:15px;">JP2 đến WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/j2k-to-wmf" style="padding:15px;">J2K đến WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/jpg-to-wmf" style="padding:15px;">JPG đến WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/jpeg-to-wmf" style="padding:15px;">JPEG đến WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/png-to-wmf" style="padding:15px;">PNG đến WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/tga-to-wmf" style="padding:15px;">TGA đến WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/tif-to-wmf" style="padding:15px;">TIF đến WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/tiff-to-wmf" style="padding:15px;">TIFF đến WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/webp-to-wmf" style="padding:15px;">WEBP đến WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/wmz-to-wmf" style="padding:15px;">WMZ đến WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/svg-to-wmf" style="padding:15px;">SVG đến WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/svgz-to-wmf" style="padding:15px;">SVGZ đến WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/eps-to-wmf" style="padding:15px;">EPS đến WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/cdr-to-wmf" style="padding:15px;">CDR đến WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/cmx-to-wmf" style="padding:15px;">CMX đến WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/otg-to-wmf" style="padding:15px;">OTG đến WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/odg-to-wmf" style="padding:15px;">ODG đến WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/ico-to-wmf" style="padding:15px;">ICO đến WMF</a></div>
                 </div>
         </div>
     </div>

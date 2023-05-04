@@ -21,35 +21,35 @@ Ondersteunde conversies:
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/apng-to-emf" >APNG tot EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/bmp-to-emf" >BMP tot EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/dib-to-emf" >DIB tot EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/dicom-to-emf" >DICOM tot EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/djvu-to-emf" >DJVU tot EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/dng-to-emf" >DNG tot EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/emz-to-emf" >EMZ tot EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/gif-to-emf" >GIF tot EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/jpeg2000-to-emf" >JPEG2000 tot EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/jp2-to-emf" >JP2 tot EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/j2k-to-emf" >J2K tot EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/jpg-to-emf" >JPG tot EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/jpeg-to-emf" >JPEG tot EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/png-to-emf" >PNG tot EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/tga-to-emf" >TGA tot EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/tif-to-emf" >TIF tot EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/tiff-to-emf" >TIFF tot EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/webp-to-emf" >WEBP tot EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/wmf-to-emf" >WMF tot EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/wmz-to-emf" >WMZ tot EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/svg-to-emf" >SVG tot EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/svgz-to-emf" >SVGZ tot EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/eps-to-emf" >EPS tot EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/cdr-to-emf" >CDR tot EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/cmx-to-emf" >CMX tot EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/otg-to-emf" >OTG tot EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/odg-to-emf" >ODG tot EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/ico-to-emf" >ICO tot EMF</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/apng-to-emf" style="padding:15px;">APNG tot EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/bmp-to-emf" style="padding:15px;">BMP tot EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/dib-to-emf" style="padding:15px;">DIB tot EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/dicom-to-emf" style="padding:15px;">DICOM tot EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/djvu-to-emf" style="padding:15px;">DJVU tot EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/dng-to-emf" style="padding:15px;">DNG tot EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/emz-to-emf" style="padding:15px;">EMZ tot EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/gif-to-emf" style="padding:15px;">GIF tot EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/jpeg2000-to-emf" style="padding:15px;">JPEG2000 tot EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/jp2-to-emf" style="padding:15px;">JP2 tot EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/j2k-to-emf" style="padding:15px;">J2K tot EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/jpg-to-emf" style="padding:15px;">JPG tot EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/jpeg-to-emf" style="padding:15px;">JPEG tot EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/png-to-emf" style="padding:15px;">PNG tot EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/tga-to-emf" style="padding:15px;">TGA tot EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/tif-to-emf" style="padding:15px;">TIF tot EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/tiff-to-emf" style="padding:15px;">TIFF tot EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/webp-to-emf" style="padding:15px;">WEBP tot EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/wmf-to-emf" style="padding:15px;">WMF tot EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/wmz-to-emf" style="padding:15px;">WMZ tot EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/svg-to-emf" style="padding:15px;">SVG tot EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/svgz-to-emf" style="padding:15px;">SVGZ tot EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/eps-to-emf" style="padding:15px;">EPS tot EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/cdr-to-emf" style="padding:15px;">CDR tot EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/cmx-to-emf" style="padding:15px;">CMX tot EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/otg-to-emf" style="padding:15px;">OTG tot EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/odg-to-emf" style="padding:15px;">ODG tot EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/java/conversion/ico-to-emf" style="padding:15px;">ICO tot EMF</a></div>
                 </div>
         </div>
     </div>

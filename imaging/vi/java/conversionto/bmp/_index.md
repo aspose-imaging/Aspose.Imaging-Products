@@ -21,35 +21,35 @@ Chuyển đổi được hỗ trợ:
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/apng-to-bmp" >APNG đến BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/dib-to-bmp" >DIB đến BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/dicom-to-bmp" >DICOM đến BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/djvu-to-bmp" >DJVU đến BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/dng-to-bmp" >DNG đến BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/emf-to-bmp" >EMF đến BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/emz-to-bmp" >EMZ đến BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/gif-to-bmp" >GIF đến BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/jpeg2000-to-bmp" >JPEG2000 đến BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/jp2-to-bmp" >JP2 đến BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/j2k-to-bmp" >J2K đến BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/jpg-to-bmp" >JPG đến BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/jpeg-to-bmp" >JPEG đến BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/png-to-bmp" >PNG đến BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/tga-to-bmp" >TGA đến BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/tif-to-bmp" >TIF đến BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/tiff-to-bmp" >TIFF đến BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/webp-to-bmp" >WEBP đến BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/wmf-to-bmp" >WMF đến BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/wmz-to-bmp" >WMZ đến BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/svg-to-bmp" >SVG đến BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/svgz-to-bmp" >SVGZ đến BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/eps-to-bmp" >EPS đến BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/cdr-to-bmp" >CDR đến BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/cmx-to-bmp" >CMX đến BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/otg-to-bmp" >OTG đến BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/odg-to-bmp" >ODG đến BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/ico-to-bmp" >ICO đến BMP</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/apng-to-bmp" style="padding:15px;">APNG đến BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/dib-to-bmp" style="padding:15px;">DIB đến BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/dicom-to-bmp" style="padding:15px;">DICOM đến BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/djvu-to-bmp" style="padding:15px;">DJVU đến BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/dng-to-bmp" style="padding:15px;">DNG đến BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/emf-to-bmp" style="padding:15px;">EMF đến BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/emz-to-bmp" style="padding:15px;">EMZ đến BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/gif-to-bmp" style="padding:15px;">GIF đến BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/jpeg2000-to-bmp" style="padding:15px;">JPEG2000 đến BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/jp2-to-bmp" style="padding:15px;">JP2 đến BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/j2k-to-bmp" style="padding:15px;">J2K đến BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/jpg-to-bmp" style="padding:15px;">JPG đến BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/jpeg-to-bmp" style="padding:15px;">JPEG đến BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/png-to-bmp" style="padding:15px;">PNG đến BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/tga-to-bmp" style="padding:15px;">TGA đến BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/tif-to-bmp" style="padding:15px;">TIF đến BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/tiff-to-bmp" style="padding:15px;">TIFF đến BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/webp-to-bmp" style="padding:15px;">WEBP đến BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/wmf-to-bmp" style="padding:15px;">WMF đến BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/wmz-to-bmp" style="padding:15px;">WMZ đến BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/svg-to-bmp" style="padding:15px;">SVG đến BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/svgz-to-bmp" style="padding:15px;">SVGZ đến BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/eps-to-bmp" style="padding:15px;">EPS đến BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/cdr-to-bmp" style="padding:15px;">CDR đến BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/cmx-to-bmp" style="padding:15px;">CMX đến BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/otg-to-bmp" style="padding:15px;">OTG đến BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/odg-to-bmp" style="padding:15px;">ODG đến BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/java/conversion/ico-to-bmp" style="padding:15px;">ICO đến BMP</a></div>
                 </div>
         </div>
     </div>

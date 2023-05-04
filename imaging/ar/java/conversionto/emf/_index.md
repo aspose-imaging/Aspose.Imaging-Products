@@ -21,35 +21,35 @@ description: باستخدام Aspose.Imaging ، يمكنك التحويل إلى
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/apng-to-emf" >APNG ل EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/bmp-to-emf" >BMP ل EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/dib-to-emf" >DIB ل EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/dicom-to-emf" >DICOM ل EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/djvu-to-emf" >DJVU ل EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/dng-to-emf" >DNG ل EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/emz-to-emf" >EMZ ل EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/gif-to-emf" >GIF ل EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/jpeg2000-to-emf" >JPEG2000 ل EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/jp2-to-emf" >JP2 ل EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/j2k-to-emf" >J2K ل EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/jpg-to-emf" >JPG ل EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/jpeg-to-emf" >JPEG ل EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/png-to-emf" >PNG ل EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/tga-to-emf" >TGA ل EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/tif-to-emf" >TIF ل EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/tiff-to-emf" >TIFF ل EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/webp-to-emf" >WEBP ل EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/wmf-to-emf" >WMF ل EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/wmz-to-emf" >WMZ ل EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/svg-to-emf" >SVG ل EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/svgz-to-emf" >SVGZ ل EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/eps-to-emf" >EPS ل EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/cdr-to-emf" >CDR ل EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/cmx-to-emf" >CMX ل EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/otg-to-emf" >OTG ل EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/odg-to-emf" >ODG ل EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/ico-to-emf" >ICO ل EMF</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/apng-to-emf" style="padding:15px;">APNG ل EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/bmp-to-emf" style="padding:15px;">BMP ل EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/dib-to-emf" style="padding:15px;">DIB ل EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/dicom-to-emf" style="padding:15px;">DICOM ل EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/djvu-to-emf" style="padding:15px;">DJVU ل EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/dng-to-emf" style="padding:15px;">DNG ل EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/emz-to-emf" style="padding:15px;">EMZ ل EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/gif-to-emf" style="padding:15px;">GIF ل EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/jpeg2000-to-emf" style="padding:15px;">JPEG2000 ل EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/jp2-to-emf" style="padding:15px;">JP2 ل EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/j2k-to-emf" style="padding:15px;">J2K ل EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/jpg-to-emf" style="padding:15px;">JPG ل EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/jpeg-to-emf" style="padding:15px;">JPEG ل EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/png-to-emf" style="padding:15px;">PNG ل EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/tga-to-emf" style="padding:15px;">TGA ل EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/tif-to-emf" style="padding:15px;">TIF ل EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/tiff-to-emf" style="padding:15px;">TIFF ل EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/webp-to-emf" style="padding:15px;">WEBP ل EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/wmf-to-emf" style="padding:15px;">WMF ل EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/wmz-to-emf" style="padding:15px;">WMZ ل EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/svg-to-emf" style="padding:15px;">SVG ل EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/svgz-to-emf" style="padding:15px;">SVGZ ل EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/eps-to-emf" style="padding:15px;">EPS ل EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/cdr-to-emf" style="padding:15px;">CDR ل EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/cmx-to-emf" style="padding:15px;">CMX ل EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/otg-to-emf" style="padding:15px;">OTG ل EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/odg-to-emf" style="padding:15px;">ODG ل EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/ico-to-emf" style="padding:15px;">ICO ل EMF</a></div>
                 </div>
         </div>
     </div>

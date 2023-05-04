@@ -21,35 +21,35 @@ description: Aspose.Imaging を使用すると、Java を使用して他のフ�
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/apng-to-webp" >APNG に WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/bmp-to-webp" >BMP に WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/dib-to-webp" >DIB に WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/dicom-to-webp" >DICOM に WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/djvu-to-webp" >DJVU に WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/dng-to-webp" >DNG に WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/emf-to-webp" >EMF に WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/emz-to-webp" >EMZ に WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/gif-to-webp" >GIF に WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/jpeg2000-to-webp" >JPEG2000 に WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/jp2-to-webp" >JP2 に WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/j2k-to-webp" >J2K に WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/jpg-to-webp" >JPG に WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/jpeg-to-webp" >JPEG に WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/png-to-webp" >PNG に WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/tga-to-webp" >TGA に WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/tif-to-webp" >TIF に WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/tiff-to-webp" >TIFF に WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/wmf-to-webp" >WMF に WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/wmz-to-webp" >WMZ に WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/svg-to-webp" >SVG に WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/svgz-to-webp" >SVGZ に WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/eps-to-webp" >EPS に WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/cdr-to-webp" >CDR に WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/cmx-to-webp" >CMX に WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/otg-to-webp" >OTG に WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/odg-to-webp" >ODG に WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/ico-to-webp" >ICO に WEBP</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/apng-to-webp" style="padding:15px;">APNG に WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/bmp-to-webp" style="padding:15px;">BMP に WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/dib-to-webp" style="padding:15px;">DIB に WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/dicom-to-webp" style="padding:15px;">DICOM に WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/djvu-to-webp" style="padding:15px;">DJVU に WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/dng-to-webp" style="padding:15px;">DNG に WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/emf-to-webp" style="padding:15px;">EMF に WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/emz-to-webp" style="padding:15px;">EMZ に WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/gif-to-webp" style="padding:15px;">GIF に WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/jpeg2000-to-webp" style="padding:15px;">JPEG2000 に WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/jp2-to-webp" style="padding:15px;">JP2 に WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/j2k-to-webp" style="padding:15px;">J2K に WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/jpg-to-webp" style="padding:15px;">JPG に WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/jpeg-to-webp" style="padding:15px;">JPEG に WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/png-to-webp" style="padding:15px;">PNG に WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/tga-to-webp" style="padding:15px;">TGA に WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/tif-to-webp" style="padding:15px;">TIF に WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/tiff-to-webp" style="padding:15px;">TIFF に WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/wmf-to-webp" style="padding:15px;">WMF に WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/wmz-to-webp" style="padding:15px;">WMZ に WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/svg-to-webp" style="padding:15px;">SVG に WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/svgz-to-webp" style="padding:15px;">SVGZ に WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/eps-to-webp" style="padding:15px;">EPS に WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/cdr-to-webp" style="padding:15px;">CDR に WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/cmx-to-webp" style="padding:15px;">CMX に WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/otg-to-webp" style="padding:15px;">OTG に WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/odg-to-webp" style="padding:15px;">ODG に WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/ico-to-webp" style="padding:15px;">ICO に WEBP</a></div>
                 </div>
         </div>
     </div>

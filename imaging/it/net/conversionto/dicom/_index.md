@@ -21,35 +21,35 @@ Sono supportate le seguenti conversioni:
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/apng-to-dicom" >APNG a DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/bmp-to-dicom" >BMP a DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/dib-to-dicom" >DIB a DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/djvu-to-dicom" >DJVU a DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/dng-to-dicom" >DNG a DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/emf-to-dicom" >EMF a DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/emz-to-dicom" >EMZ a DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/gif-to-dicom" >GIF a DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/jpeg2000-to-dicom" >JPEG2000 a DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/jp2-to-dicom" >JP2 a DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/j2k-to-dicom" >J2K a DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/jpg-to-dicom" >JPG a DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/jpeg-to-dicom" >JPEG a DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/png-to-dicom" >PNG a DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/tga-to-dicom" >TGA a DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/tif-to-dicom" >TIF a DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/tiff-to-dicom" >TIFF a DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/webp-to-dicom" >WEBP a DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/wmf-to-dicom" >WMF a DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/wmz-to-dicom" >WMZ a DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/svg-to-dicom" >SVG a DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/svgz-to-dicom" >SVGZ a DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/eps-to-dicom" >EPS a DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/cdr-to-dicom" >CDR a DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/cmx-to-dicom" >CMX a DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/otg-to-dicom" >OTG a DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/odg-to-dicom" >ODG a DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/ico-to-dicom" >ICO a DICOM</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/apng-to-dicom" style="padding:15px;">APNG a DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/bmp-to-dicom" style="padding:15px;">BMP a DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/dib-to-dicom" style="padding:15px;">DIB a DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/djvu-to-dicom" style="padding:15px;">DJVU a DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/dng-to-dicom" style="padding:15px;">DNG a DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/emf-to-dicom" style="padding:15px;">EMF a DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/emz-to-dicom" style="padding:15px;">EMZ a DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/gif-to-dicom" style="padding:15px;">GIF a DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/jpeg2000-to-dicom" style="padding:15px;">JPEG2000 a DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/jp2-to-dicom" style="padding:15px;">JP2 a DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/j2k-to-dicom" style="padding:15px;">J2K a DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/jpg-to-dicom" style="padding:15px;">JPG a DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/jpeg-to-dicom" style="padding:15px;">JPEG a DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/png-to-dicom" style="padding:15px;">PNG a DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/tga-to-dicom" style="padding:15px;">TGA a DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/tif-to-dicom" style="padding:15px;">TIF a DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/tiff-to-dicom" style="padding:15px;">TIFF a DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/webp-to-dicom" style="padding:15px;">WEBP a DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/wmf-to-dicom" style="padding:15px;">WMF a DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/wmz-to-dicom" style="padding:15px;">WMZ a DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/svg-to-dicom" style="padding:15px;">SVG a DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/svgz-to-dicom" style="padding:15px;">SVGZ a DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/eps-to-dicom" style="padding:15px;">EPS a DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/cdr-to-dicom" style="padding:15px;">CDR a DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/cmx-to-dicom" style="padding:15px;">CMX a DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/otg-to-dicom" style="padding:15px;">OTG a DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/odg-to-dicom" style="padding:15px;">ODG a DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/net/conversion/ico-to-dicom" style="padding:15px;">ICO a DICOM</a></div>
                 </div>
         </div>
     </div>

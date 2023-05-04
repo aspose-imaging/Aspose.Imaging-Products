@@ -21,35 +21,35 @@ Palaikomos šios konversijos:
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/apng-to-gif" >APNG į GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/bmp-to-gif" >BMP į GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/dib-to-gif" >DIB į GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/dicom-to-gif" >DICOM į GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/djvu-to-gif" >DJVU į GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/dng-to-gif" >DNG į GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/emf-to-gif" >EMF į GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/emz-to-gif" >EMZ į GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/jpeg2000-to-gif" >JPEG2000 į GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/jp2-to-gif" >JP2 į GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/j2k-to-gif" >J2K į GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/jpg-to-gif" >JPG į GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/jpeg-to-gif" >JPEG į GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/png-to-gif" >PNG į GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/tga-to-gif" >TGA į GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/tif-to-gif" >TIF į GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/tiff-to-gif" >TIFF į GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/webp-to-gif" >WEBP į GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/wmf-to-gif" >WMF į GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/wmz-to-gif" >WMZ į GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/svg-to-gif" >SVG į GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/svgz-to-gif" >SVGZ į GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/eps-to-gif" >EPS į GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/cdr-to-gif" >CDR į GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/cmx-to-gif" >CMX į GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/otg-to-gif" >OTG į GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/odg-to-gif" >ODG į GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/ico-to-gif" >ICO į GIF</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/apng-to-gif" style="padding:15px;">APNG į GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/bmp-to-gif" style="padding:15px;">BMP į GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/dib-to-gif" style="padding:15px;">DIB į GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/dicom-to-gif" style="padding:15px;">DICOM į GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/djvu-to-gif" style="padding:15px;">DJVU į GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/dng-to-gif" style="padding:15px;">DNG į GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/emf-to-gif" style="padding:15px;">EMF į GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/emz-to-gif" style="padding:15px;">EMZ į GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/jpeg2000-to-gif" style="padding:15px;">JPEG2000 į GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/jp2-to-gif" style="padding:15px;">JP2 į GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/j2k-to-gif" style="padding:15px;">J2K į GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/jpg-to-gif" style="padding:15px;">JPG į GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/jpeg-to-gif" style="padding:15px;">JPEG į GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/png-to-gif" style="padding:15px;">PNG į GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/tga-to-gif" style="padding:15px;">TGA į GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/tif-to-gif" style="padding:15px;">TIF į GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/tiff-to-gif" style="padding:15px;">TIFF į GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/webp-to-gif" style="padding:15px;">WEBP į GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/wmf-to-gif" style="padding:15px;">WMF į GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/wmz-to-gif" style="padding:15px;">WMZ į GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/svg-to-gif" style="padding:15px;">SVG į GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/svgz-to-gif" style="padding:15px;">SVGZ į GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/eps-to-gif" style="padding:15px;">EPS į GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/cdr-to-gif" style="padding:15px;">CDR į GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/cmx-to-gif" style="padding:15px;">CMX į GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/otg-to-gif" style="padding:15px;">OTG į GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/odg-to-gif" style="padding:15px;">ODG į GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/ico-to-gif" style="padding:15px;">ICO į GIF</a></div>
                 </div>
         </div>
     </div>

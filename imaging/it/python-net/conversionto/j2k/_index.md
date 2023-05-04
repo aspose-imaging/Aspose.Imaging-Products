@@ -21,34 +21,34 @@ Ci sono le prossime conversioni disponibili:
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/apng-to-j2k" >APNG A J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/bmp-to-j2k" >BMP A J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/dib-to-j2k" >DIB A J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/dicom-to-j2k" >DICOM A J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/djvu-to-j2k" >DJVU A J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/dng-to-j2k" >DNG A J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/emf-to-j2k" >EMF A J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/emz-to-j2k" >EMZ A J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/gif-to-j2k" >GIF A J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/jp2-to-j2k" >JP2 A J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/jpg-to-j2k" >JPG A J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/jpeg-to-j2k" >JPEG A J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/png-to-j2k" >PNG A J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/tga-to-j2k" >TGA A J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/tif-to-j2k" >TIF A J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/tiff-to-j2k" >TIFF A J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/webp-to-j2k" >WEBP A J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/wmf-to-j2k" >WMF A J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/wmz-to-j2k" >WMZ A J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/svg-to-j2k" >SVG A J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/svgz-to-j2k" >SVGZ A J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/eps-to-j2k" >EPS A J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/cdr-to-j2k" >CDR A J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/cmx-to-j2k" >CMX A J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/otg-to-j2k" >OTG A J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/odg-to-j2k" >ODG A J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/ico-to-j2k" >ICO A J2K</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/apng-to-j2k" style="padding:15px;">APNG A J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/bmp-to-j2k" style="padding:15px;">BMP A J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/dib-to-j2k" style="padding:15px;">DIB A J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/dicom-to-j2k" style="padding:15px;">DICOM A J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/djvu-to-j2k" style="padding:15px;">DJVU A J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/dng-to-j2k" style="padding:15px;">DNG A J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/emf-to-j2k" style="padding:15px;">EMF A J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/emz-to-j2k" style="padding:15px;">EMZ A J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/gif-to-j2k" style="padding:15px;">GIF A J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/jp2-to-j2k" style="padding:15px;">JP2 A J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/jpg-to-j2k" style="padding:15px;">JPG A J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/jpeg-to-j2k" style="padding:15px;">JPEG A J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/png-to-j2k" style="padding:15px;">PNG A J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/tga-to-j2k" style="padding:15px;">TGA A J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/tif-to-j2k" style="padding:15px;">TIF A J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/tiff-to-j2k" style="padding:15px;">TIFF A J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/webp-to-j2k" style="padding:15px;">WEBP A J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/wmf-to-j2k" style="padding:15px;">WMF A J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/wmz-to-j2k" style="padding:15px;">WMZ A J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/svg-to-j2k" style="padding:15px;">SVG A J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/svgz-to-j2k" style="padding:15px;">SVGZ A J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/eps-to-j2k" style="padding:15px;">EPS A J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/cdr-to-j2k" style="padding:15px;">CDR A J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/cmx-to-j2k" style="padding:15px;">CMX A J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/otg-to-j2k" style="padding:15px;">OTG A J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/odg-to-j2k" style="padding:15px;">ODG A J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/python-net/conversion/ico-to-j2k" style="padding:15px;">ICO A J2K</a></div>
                 </div>
         </div>
     </div>

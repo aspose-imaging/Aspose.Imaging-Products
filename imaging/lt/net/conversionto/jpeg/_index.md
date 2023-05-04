@@ -21,34 +21,34 @@ Palaikomos šios konversijos:
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/apng-to-jpeg" >APNG į JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/bmp-to-jpeg" >BMP į JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/dib-to-jpeg" >DIB į JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/dicom-to-jpeg" >DICOM į JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/djvu-to-jpeg" >DJVU į JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/dng-to-jpeg" >DNG į JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/emf-to-jpeg" >EMF į JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/emz-to-jpeg" >EMZ į JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/gif-to-jpeg" >GIF į JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/jpeg2000-to-jpeg" >JPEG2000 į JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/jp2-to-jpeg" >JP2 į JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/j2k-to-jpeg" >J2K į JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/png-to-jpeg" >PNG į JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/tga-to-jpeg" >TGA į JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/tif-to-jpeg" >TIF į JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/tiff-to-jpeg" >TIFF į JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/webp-to-jpeg" >WEBP į JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/wmf-to-jpeg" >WMF į JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/wmz-to-jpeg" >WMZ į JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/svg-to-jpeg" >SVG į JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/svgz-to-jpeg" >SVGZ į JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/eps-to-jpeg" >EPS į JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/cdr-to-jpeg" >CDR į JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/cmx-to-jpeg" >CMX į JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/otg-to-jpeg" >OTG į JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/odg-to-jpeg" >ODG į JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/ico-to-jpeg" >ICO į JPEG</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/apng-to-jpeg" style="padding:15px;">APNG į JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/bmp-to-jpeg" style="padding:15px;">BMP į JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/dib-to-jpeg" style="padding:15px;">DIB į JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/dicom-to-jpeg" style="padding:15px;">DICOM į JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/djvu-to-jpeg" style="padding:15px;">DJVU į JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/dng-to-jpeg" style="padding:15px;">DNG į JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/emf-to-jpeg" style="padding:15px;">EMF į JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/emz-to-jpeg" style="padding:15px;">EMZ į JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/gif-to-jpeg" style="padding:15px;">GIF į JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/jpeg2000-to-jpeg" style="padding:15px;">JPEG2000 į JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/jp2-to-jpeg" style="padding:15px;">JP2 į JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/j2k-to-jpeg" style="padding:15px;">J2K į JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/png-to-jpeg" style="padding:15px;">PNG į JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/tga-to-jpeg" style="padding:15px;">TGA į JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/tif-to-jpeg" style="padding:15px;">TIF į JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/tiff-to-jpeg" style="padding:15px;">TIFF į JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/webp-to-jpeg" style="padding:15px;">WEBP į JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/wmf-to-jpeg" style="padding:15px;">WMF į JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/wmz-to-jpeg" style="padding:15px;">WMZ į JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/svg-to-jpeg" style="padding:15px;">SVG į JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/svgz-to-jpeg" style="padding:15px;">SVGZ į JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/eps-to-jpeg" style="padding:15px;">EPS į JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/cdr-to-jpeg" style="padding:15px;">CDR į JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/cmx-to-jpeg" style="padding:15px;">CMX į JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/otg-to-jpeg" style="padding:15px;">OTG į JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/odg-to-jpeg" style="padding:15px;">ODG į JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/ico-to-jpeg" style="padding:15px;">ICO į JPEG</a></div>
                 </div>
         </div>
     </div>

@@ -21,35 +21,35 @@ description: Aspose.Imaging を使用すると、Java を使用して他のフ�
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/apng-to-bmp" >APNG に BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/dib-to-bmp" >DIB に BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/dicom-to-bmp" >DICOM に BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/djvu-to-bmp" >DJVU に BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/dng-to-bmp" >DNG に BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/emf-to-bmp" >EMF に BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/emz-to-bmp" >EMZ に BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/gif-to-bmp" >GIF に BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/jpeg2000-to-bmp" >JPEG2000 に BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/jp2-to-bmp" >JP2 に BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/j2k-to-bmp" >J2K に BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/jpg-to-bmp" >JPG に BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/jpeg-to-bmp" >JPEG に BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/png-to-bmp" >PNG に BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/tga-to-bmp" >TGA に BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/tif-to-bmp" >TIF に BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/tiff-to-bmp" >TIFF に BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/webp-to-bmp" >WEBP に BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/wmf-to-bmp" >WMF に BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/wmz-to-bmp" >WMZ に BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/svg-to-bmp" >SVG に BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/svgz-to-bmp" >SVGZ に BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/eps-to-bmp" >EPS に BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/cdr-to-bmp" >CDR に BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/cmx-to-bmp" >CMX に BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/otg-to-bmp" >OTG に BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/odg-to-bmp" >ODG に BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/ico-to-bmp" >ICO に BMP</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/apng-to-bmp" style="padding:15px;">APNG に BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/dib-to-bmp" style="padding:15px;">DIB に BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/dicom-to-bmp" style="padding:15px;">DICOM に BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/djvu-to-bmp" style="padding:15px;">DJVU に BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/dng-to-bmp" style="padding:15px;">DNG に BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/emf-to-bmp" style="padding:15px;">EMF に BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/emz-to-bmp" style="padding:15px;">EMZ に BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/gif-to-bmp" style="padding:15px;">GIF に BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/jpeg2000-to-bmp" style="padding:15px;">JPEG2000 に BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/jp2-to-bmp" style="padding:15px;">JP2 に BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/j2k-to-bmp" style="padding:15px;">J2K に BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/jpg-to-bmp" style="padding:15px;">JPG に BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/jpeg-to-bmp" style="padding:15px;">JPEG に BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/png-to-bmp" style="padding:15px;">PNG に BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/tga-to-bmp" style="padding:15px;">TGA に BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/tif-to-bmp" style="padding:15px;">TIF に BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/tiff-to-bmp" style="padding:15px;">TIFF に BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/webp-to-bmp" style="padding:15px;">WEBP に BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/wmf-to-bmp" style="padding:15px;">WMF に BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/wmz-to-bmp" style="padding:15px;">WMZ に BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/svg-to-bmp" style="padding:15px;">SVG に BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/svgz-to-bmp" style="padding:15px;">SVGZ に BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/eps-to-bmp" style="padding:15px;">EPS に BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/cdr-to-bmp" style="padding:15px;">CDR に BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/cmx-to-bmp" style="padding:15px;">CMX に BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/otg-to-bmp" style="padding:15px;">OTG に BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/odg-to-bmp" style="padding:15px;">ODG に BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/ico-to-bmp" style="padding:15px;">ICO に BMP</a></div>
                 </div>
         </div>
     </div>

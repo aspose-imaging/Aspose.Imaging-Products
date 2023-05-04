@@ -21,36 +21,36 @@ Obsługiwane konwersje:
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/apng-to-html" >APNG do HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/bmp-to-html" >BMP do HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/dib-to-html" >DIB do HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/dicom-to-html" >DICOM do HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/djvu-to-html" >DJVU do HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/dng-to-html" >DNG do HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/emf-to-html" >EMF do HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/emz-to-html" >EMZ do HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/gif-to-html" >GIF do HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/jpeg2000-to-html" >JPEG2000 do HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/jp2-to-html" >JP2 do HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/j2k-to-html" >J2K do HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/jpg-to-html" >JPG do HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/jpeg-to-html" >JPEG do HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/png-to-html" >PNG do HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/tga-to-html" >TGA do HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/tif-to-html" >TIF do HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/tiff-to-html" >TIFF do HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/webp-to-html" >WEBP do HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/wmf-to-html" >WMF do HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/wmz-to-html" >WMZ do HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/svg-to-html" >SVG do HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/svgz-to-html" >SVGZ do HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/eps-to-html" >EPS do HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/cdr-to-html" >CDR do HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/cmx-to-html" >CMX do HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/otg-to-html" >OTG do HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/odg-to-html" >ODG do HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/ico-to-html" >ICO do HTML</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/apng-to-html" style="padding:15px;">APNG do HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/bmp-to-html" style="padding:15px;">BMP do HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/dib-to-html" style="padding:15px;">DIB do HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/dicom-to-html" style="padding:15px;">DICOM do HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/djvu-to-html" style="padding:15px;">DJVU do HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/dng-to-html" style="padding:15px;">DNG do HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/emf-to-html" style="padding:15px;">EMF do HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/emz-to-html" style="padding:15px;">EMZ do HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/gif-to-html" style="padding:15px;">GIF do HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/jpeg2000-to-html" style="padding:15px;">JPEG2000 do HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/jp2-to-html" style="padding:15px;">JP2 do HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/j2k-to-html" style="padding:15px;">J2K do HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/jpg-to-html" style="padding:15px;">JPG do HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/jpeg-to-html" style="padding:15px;">JPEG do HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/png-to-html" style="padding:15px;">PNG do HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/tga-to-html" style="padding:15px;">TGA do HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/tif-to-html" style="padding:15px;">TIF do HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/tiff-to-html" style="padding:15px;">TIFF do HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/webp-to-html" style="padding:15px;">WEBP do HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/wmf-to-html" style="padding:15px;">WMF do HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/wmz-to-html" style="padding:15px;">WMZ do HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/svg-to-html" style="padding:15px;">SVG do HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/svgz-to-html" style="padding:15px;">SVGZ do HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/eps-to-html" style="padding:15px;">EPS do HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/cdr-to-html" style="padding:15px;">CDR do HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/cmx-to-html" style="padding:15px;">CMX do HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/otg-to-html" style="padding:15px;">OTG do HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/odg-to-html" style="padding:15px;">ODG do HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/ico-to-html" style="padding:15px;">ICO do HTML</a></div>
                 </div>
         </div>
     </div>

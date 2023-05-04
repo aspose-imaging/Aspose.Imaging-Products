@@ -21,35 +21,35 @@ description: .NET लाइब्रेरी के लिए Aspose.Imaging �
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/apng-to-emz" >APNG को EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/bmp-to-emz" >BMP को EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/dib-to-emz" >DIB को EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/dicom-to-emz" >DICOM को EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/djvu-to-emz" >DJVU को EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/dng-to-emz" >DNG को EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/emf-to-emz" >EMF को EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/gif-to-emz" >GIF को EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/jpeg2000-to-emz" >JPEG2000 को EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/jp2-to-emz" >JP2 को EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/j2k-to-emz" >J2K को EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/jpg-to-emz" >JPG को EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/jpeg-to-emz" >JPEG को EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/png-to-emz" >PNG को EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/tga-to-emz" >TGA को EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/tif-to-emz" >TIF को EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/tiff-to-emz" >TIFF को EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/webp-to-emz" >WEBP को EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/wmf-to-emz" >WMF को EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/wmz-to-emz" >WMZ को EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/svg-to-emz" >SVG को EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/svgz-to-emz" >SVGZ को EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/eps-to-emz" >EPS को EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/cdr-to-emz" >CDR को EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/cmx-to-emz" >CMX को EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/otg-to-emz" >OTG को EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/odg-to-emz" >ODG को EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/ico-to-emz" >ICO को EMZ</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/apng-to-emz" style="padding:15px;">APNG को EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/bmp-to-emz" style="padding:15px;">BMP को EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/dib-to-emz" style="padding:15px;">DIB को EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/dicom-to-emz" style="padding:15px;">DICOM को EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/djvu-to-emz" style="padding:15px;">DJVU को EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/dng-to-emz" style="padding:15px;">DNG को EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/emf-to-emz" style="padding:15px;">EMF को EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/gif-to-emz" style="padding:15px;">GIF को EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/jpeg2000-to-emz" style="padding:15px;">JPEG2000 को EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/jp2-to-emz" style="padding:15px;">JP2 को EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/j2k-to-emz" style="padding:15px;">J2K को EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/jpg-to-emz" style="padding:15px;">JPG को EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/jpeg-to-emz" style="padding:15px;">JPEG को EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/png-to-emz" style="padding:15px;">PNG को EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/tga-to-emz" style="padding:15px;">TGA को EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/tif-to-emz" style="padding:15px;">TIF को EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/tiff-to-emz" style="padding:15px;">TIFF को EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/webp-to-emz" style="padding:15px;">WEBP को EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/wmf-to-emz" style="padding:15px;">WMF को EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/wmz-to-emz" style="padding:15px;">WMZ को EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/svg-to-emz" style="padding:15px;">SVG को EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/svgz-to-emz" style="padding:15px;">SVGZ को EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/eps-to-emz" style="padding:15px;">EPS को EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/cdr-to-emz" style="padding:15px;">CDR को EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/cmx-to-emz" style="padding:15px;">CMX को EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/otg-to-emz" style="padding:15px;">OTG को EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/odg-to-emz" style="padding:15px;">ODG को EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/ico-to-emz" style="padding:15px;">ICO को EMZ</a></div>
                 </div>
         </div>
     </div>

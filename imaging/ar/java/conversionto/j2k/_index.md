@@ -21,34 +21,34 @@ description: باستخدام Aspose.Imaging ، يمكنك التحويل إلى
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/apng-to-j2k" >APNG ل J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/bmp-to-j2k" >BMP ل J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/dib-to-j2k" >DIB ل J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/dicom-to-j2k" >DICOM ل J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/djvu-to-j2k" >DJVU ل J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/dng-to-j2k" >DNG ل J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/emf-to-j2k" >EMF ل J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/emz-to-j2k" >EMZ ل J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/gif-to-j2k" >GIF ل J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/jp2-to-j2k" >JP2 ل J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/jpg-to-j2k" >JPG ل J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/jpeg-to-j2k" >JPEG ل J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/png-to-j2k" >PNG ل J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/tga-to-j2k" >TGA ل J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/tif-to-j2k" >TIF ل J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/tiff-to-j2k" >TIFF ل J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/webp-to-j2k" >WEBP ل J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/wmf-to-j2k" >WMF ل J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/wmz-to-j2k" >WMZ ل J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/svg-to-j2k" >SVG ل J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/svgz-to-j2k" >SVGZ ل J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/eps-to-j2k" >EPS ل J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/cdr-to-j2k" >CDR ل J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/cmx-to-j2k" >CMX ل J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/otg-to-j2k" >OTG ل J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/odg-to-j2k" >ODG ل J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/ico-to-j2k" >ICO ل J2K</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/apng-to-j2k" style="padding:15px;">APNG ل J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/bmp-to-j2k" style="padding:15px;">BMP ل J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/dib-to-j2k" style="padding:15px;">DIB ل J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/dicom-to-j2k" style="padding:15px;">DICOM ل J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/djvu-to-j2k" style="padding:15px;">DJVU ل J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/dng-to-j2k" style="padding:15px;">DNG ل J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/emf-to-j2k" style="padding:15px;">EMF ل J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/emz-to-j2k" style="padding:15px;">EMZ ل J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/gif-to-j2k" style="padding:15px;">GIF ل J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/jp2-to-j2k" style="padding:15px;">JP2 ل J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/jpg-to-j2k" style="padding:15px;">JPG ل J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/jpeg-to-j2k" style="padding:15px;">JPEG ل J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/png-to-j2k" style="padding:15px;">PNG ل J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/tga-to-j2k" style="padding:15px;">TGA ل J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/tif-to-j2k" style="padding:15px;">TIF ل J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/tiff-to-j2k" style="padding:15px;">TIFF ل J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/webp-to-j2k" style="padding:15px;">WEBP ل J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/wmf-to-j2k" style="padding:15px;">WMF ل J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/wmz-to-j2k" style="padding:15px;">WMZ ل J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/svg-to-j2k" style="padding:15px;">SVG ل J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/svgz-to-j2k" style="padding:15px;">SVGZ ل J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/eps-to-j2k" style="padding:15px;">EPS ل J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/cdr-to-j2k" style="padding:15px;">CDR ل J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/cmx-to-j2k" style="padding:15px;">CMX ل J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/otg-to-j2k" style="padding:15px;">OTG ل J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/odg-to-j2k" style="padding:15px;">ODG ل J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/java/conversion/ico-to-j2k" style="padding:15px;">ICO ل J2K</a></div>
                 </div>
         </div>
     </div>

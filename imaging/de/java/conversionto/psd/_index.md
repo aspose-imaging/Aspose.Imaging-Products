@@ -21,36 +21,36 @@ Unterstützte Konvertierungen:
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/apng-to-psd" >APNG zu PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/bmp-to-psd" >BMP zu PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/dib-to-psd" >DIB zu PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/dicom-to-psd" >DICOM zu PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/djvu-to-psd" >DJVU zu PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/dng-to-psd" >DNG zu PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/emf-to-psd" >EMF zu PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/emz-to-psd" >EMZ zu PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/gif-to-psd" >GIF zu PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/jpeg2000-to-psd" >JPEG2000 zu PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/jp2-to-psd" >JP2 zu PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/j2k-to-psd" >J2K zu PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/jpg-to-psd" >JPG zu PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/jpeg-to-psd" >JPEG zu PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/png-to-psd" >PNG zu PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/tga-to-psd" >TGA zu PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/tif-to-psd" >TIF zu PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/tiff-to-psd" >TIFF zu PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/webp-to-psd" >WEBP zu PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/wmf-to-psd" >WMF zu PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/wmz-to-psd" >WMZ zu PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/svg-to-psd" >SVG zu PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/svgz-to-psd" >SVGZ zu PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/eps-to-psd" >EPS zu PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/cdr-to-psd" >CDR zu PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/cmx-to-psd" >CMX zu PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/otg-to-psd" >OTG zu PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/odg-to-psd" >ODG zu PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/ico-to-psd" >ICO zu PSD</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/apng-to-psd" style="padding:15px;">APNG zu PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/bmp-to-psd" style="padding:15px;">BMP zu PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/dib-to-psd" style="padding:15px;">DIB zu PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/dicom-to-psd" style="padding:15px;">DICOM zu PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/djvu-to-psd" style="padding:15px;">DJVU zu PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/dng-to-psd" style="padding:15px;">DNG zu PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/emf-to-psd" style="padding:15px;">EMF zu PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/emz-to-psd" style="padding:15px;">EMZ zu PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/gif-to-psd" style="padding:15px;">GIF zu PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/jpeg2000-to-psd" style="padding:15px;">JPEG2000 zu PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/jp2-to-psd" style="padding:15px;">JP2 zu PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/j2k-to-psd" style="padding:15px;">J2K zu PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/jpg-to-psd" style="padding:15px;">JPG zu PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/jpeg-to-psd" style="padding:15px;">JPEG zu PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/png-to-psd" style="padding:15px;">PNG zu PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/tga-to-psd" style="padding:15px;">TGA zu PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/tif-to-psd" style="padding:15px;">TIF zu PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/tiff-to-psd" style="padding:15px;">TIFF zu PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/webp-to-psd" style="padding:15px;">WEBP zu PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/wmf-to-psd" style="padding:15px;">WMF zu PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/wmz-to-psd" style="padding:15px;">WMZ zu PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/svg-to-psd" style="padding:15px;">SVG zu PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/svgz-to-psd" style="padding:15px;">SVGZ zu PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/eps-to-psd" style="padding:15px;">EPS zu PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/cdr-to-psd" style="padding:15px;">CDR zu PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/cmx-to-psd" style="padding:15px;">CMX zu PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/otg-to-psd" style="padding:15px;">OTG zu PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/odg-to-psd" style="padding:15px;">ODG zu PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/java/conversion/ico-to-psd" style="padding:15px;">ICO zu PSD</a></div>
                 </div>
         </div>
     </div>

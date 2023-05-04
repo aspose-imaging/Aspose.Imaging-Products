@@ -21,36 +21,36 @@ description: .NET ライブラリ経由で Aspose.Imaging for Python を使用�
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/apng-to-dxf" >APNG に DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/bmp-to-dxf" >BMP に DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/dib-to-dxf" >DIB に DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/dicom-to-dxf" >DICOM に DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/djvu-to-dxf" >DJVU に DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/dng-to-dxf" >DNG に DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/emf-to-dxf" >EMF に DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/emz-to-dxf" >EMZ に DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/gif-to-dxf" >GIF に DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/jpeg2000-to-dxf" >JPEG2000 に DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/jp2-to-dxf" >JP2 に DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/j2k-to-dxf" >J2K に DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/jpg-to-dxf" >JPG に DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/jpeg-to-dxf" >JPEG に DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/png-to-dxf" >PNG に DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/tga-to-dxf" >TGA に DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/tif-to-dxf" >TIF に DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/tiff-to-dxf" >TIFF に DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/webp-to-dxf" >WEBP に DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/wmf-to-dxf" >WMF に DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/wmz-to-dxf" >WMZ に DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/svg-to-dxf" >SVG に DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/svgz-to-dxf" >SVGZ に DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/eps-to-dxf" >EPS に DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/cdr-to-dxf" >CDR に DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/cmx-to-dxf" >CMX に DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/otg-to-dxf" >OTG に DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/odg-to-dxf" >ODG に DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/ico-to-dxf" >ICO に DXF</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/apng-to-dxf" style="padding:15px;">APNG に DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/bmp-to-dxf" style="padding:15px;">BMP に DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/dib-to-dxf" style="padding:15px;">DIB に DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/dicom-to-dxf" style="padding:15px;">DICOM に DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/djvu-to-dxf" style="padding:15px;">DJVU に DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/dng-to-dxf" style="padding:15px;">DNG に DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/emf-to-dxf" style="padding:15px;">EMF に DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/emz-to-dxf" style="padding:15px;">EMZ に DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/gif-to-dxf" style="padding:15px;">GIF に DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/jpeg2000-to-dxf" style="padding:15px;">JPEG2000 に DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/jp2-to-dxf" style="padding:15px;">JP2 に DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/j2k-to-dxf" style="padding:15px;">J2K に DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/jpg-to-dxf" style="padding:15px;">JPG に DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/jpeg-to-dxf" style="padding:15px;">JPEG に DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/png-to-dxf" style="padding:15px;">PNG に DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/tga-to-dxf" style="padding:15px;">TGA に DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/tif-to-dxf" style="padding:15px;">TIF に DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/tiff-to-dxf" style="padding:15px;">TIFF に DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/webp-to-dxf" style="padding:15px;">WEBP に DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/wmf-to-dxf" style="padding:15px;">WMF に DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/wmz-to-dxf" style="padding:15px;">WMZ に DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/svg-to-dxf" style="padding:15px;">SVG に DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/svgz-to-dxf" style="padding:15px;">SVGZ に DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/eps-to-dxf" style="padding:15px;">EPS に DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/cdr-to-dxf" style="padding:15px;">CDR に DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/cmx-to-dxf" style="padding:15px;">CMX に DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/otg-to-dxf" style="padding:15px;">OTG に DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/odg-to-dxf" style="padding:15px;">ODG に DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/python-net/conversion/ico-to-dxf" style="padding:15px;">ICO に DXF</a></div>
                 </div>
         </div>
     </div>

@@ -21,35 +21,35 @@ Obsługiwane konwersje:
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/apng-to-svgz" >APNG do SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/bmp-to-svgz" >BMP do SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/dib-to-svgz" >DIB do SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/dicom-to-svgz" >DICOM do SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/djvu-to-svgz" >DJVU do SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/dng-to-svgz" >DNG do SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/emf-to-svgz" >EMF do SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/emz-to-svgz" >EMZ do SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/gif-to-svgz" >GIF do SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/jpeg2000-to-svgz" >JPEG2000 do SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/jp2-to-svgz" >JP2 do SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/j2k-to-svgz" >J2K do SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/jpg-to-svgz" >JPG do SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/jpeg-to-svgz" >JPEG do SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/png-to-svgz" >PNG do SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/tga-to-svgz" >TGA do SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/tif-to-svgz" >TIF do SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/tiff-to-svgz" >TIFF do SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/webp-to-svgz" >WEBP do SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/wmf-to-svgz" >WMF do SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/wmz-to-svgz" >WMZ do SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/svg-to-svgz" >SVG do SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/eps-to-svgz" >EPS do SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/cdr-to-svgz" >CDR do SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/cmx-to-svgz" >CMX do SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/otg-to-svgz" >OTG do SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/odg-to-svgz" >ODG do SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/ico-to-svgz" >ICO do SVGZ</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/apng-to-svgz" style="padding:15px;">APNG do SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/bmp-to-svgz" style="padding:15px;">BMP do SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/dib-to-svgz" style="padding:15px;">DIB do SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/dicom-to-svgz" style="padding:15px;">DICOM do SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/djvu-to-svgz" style="padding:15px;">DJVU do SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/dng-to-svgz" style="padding:15px;">DNG do SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/emf-to-svgz" style="padding:15px;">EMF do SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/emz-to-svgz" style="padding:15px;">EMZ do SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/gif-to-svgz" style="padding:15px;">GIF do SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/jpeg2000-to-svgz" style="padding:15px;">JPEG2000 do SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/jp2-to-svgz" style="padding:15px;">JP2 do SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/j2k-to-svgz" style="padding:15px;">J2K do SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/jpg-to-svgz" style="padding:15px;">JPG do SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/jpeg-to-svgz" style="padding:15px;">JPEG do SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/png-to-svgz" style="padding:15px;">PNG do SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/tga-to-svgz" style="padding:15px;">TGA do SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/tif-to-svgz" style="padding:15px;">TIF do SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/tiff-to-svgz" style="padding:15px;">TIFF do SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/webp-to-svgz" style="padding:15px;">WEBP do SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/wmf-to-svgz" style="padding:15px;">WMF do SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/wmz-to-svgz" style="padding:15px;">WMZ do SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/svg-to-svgz" style="padding:15px;">SVG do SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/eps-to-svgz" style="padding:15px;">EPS do SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/cdr-to-svgz" style="padding:15px;">CDR do SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/cmx-to-svgz" style="padding:15px;">CMX do SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/otg-to-svgz" style="padding:15px;">OTG do SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/odg-to-svgz" style="padding:15px;">ODG do SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/ico-to-svgz" style="padding:15px;">ICO do SVGZ</a></div>
                 </div>
         </div>
     </div>

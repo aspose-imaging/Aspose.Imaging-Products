@@ -21,36 +21,36 @@ description: Aspose.Imaging을 사용하면 Java를 사용하여 다른 형식�
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/apng-to-dxf" >APNG 에게 DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/bmp-to-dxf" >BMP 에게 DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/dib-to-dxf" >DIB 에게 DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/dicom-to-dxf" >DICOM 에게 DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/djvu-to-dxf" >DJVU 에게 DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/dng-to-dxf" >DNG 에게 DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/emf-to-dxf" >EMF 에게 DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/emz-to-dxf" >EMZ 에게 DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/gif-to-dxf" >GIF 에게 DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/jpeg2000-to-dxf" >JPEG2000 에게 DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/jp2-to-dxf" >JP2 에게 DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/j2k-to-dxf" >J2K 에게 DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/jpg-to-dxf" >JPG 에게 DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/jpeg-to-dxf" >JPEG 에게 DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/png-to-dxf" >PNG 에게 DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/tga-to-dxf" >TGA 에게 DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/tif-to-dxf" >TIF 에게 DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/tiff-to-dxf" >TIFF 에게 DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/webp-to-dxf" >WEBP 에게 DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/wmf-to-dxf" >WMF 에게 DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/wmz-to-dxf" >WMZ 에게 DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/svg-to-dxf" >SVG 에게 DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/svgz-to-dxf" >SVGZ 에게 DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/eps-to-dxf" >EPS 에게 DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/cdr-to-dxf" >CDR 에게 DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/cmx-to-dxf" >CMX 에게 DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/otg-to-dxf" >OTG 에게 DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/odg-to-dxf" >ODG 에게 DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/ico-to-dxf" >ICO 에게 DXF</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/apng-to-dxf" style="padding:15px;">APNG 에게 DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/bmp-to-dxf" style="padding:15px;">BMP 에게 DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/dib-to-dxf" style="padding:15px;">DIB 에게 DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/dicom-to-dxf" style="padding:15px;">DICOM 에게 DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/djvu-to-dxf" style="padding:15px;">DJVU 에게 DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/dng-to-dxf" style="padding:15px;">DNG 에게 DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/emf-to-dxf" style="padding:15px;">EMF 에게 DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/emz-to-dxf" style="padding:15px;">EMZ 에게 DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/gif-to-dxf" style="padding:15px;">GIF 에게 DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/jpeg2000-to-dxf" style="padding:15px;">JPEG2000 에게 DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/jp2-to-dxf" style="padding:15px;">JP2 에게 DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/j2k-to-dxf" style="padding:15px;">J2K 에게 DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/jpg-to-dxf" style="padding:15px;">JPG 에게 DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/jpeg-to-dxf" style="padding:15px;">JPEG 에게 DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/png-to-dxf" style="padding:15px;">PNG 에게 DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/tga-to-dxf" style="padding:15px;">TGA 에게 DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/tif-to-dxf" style="padding:15px;">TIF 에게 DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/tiff-to-dxf" style="padding:15px;">TIFF 에게 DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/webp-to-dxf" style="padding:15px;">WEBP 에게 DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/wmf-to-dxf" style="padding:15px;">WMF 에게 DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/wmz-to-dxf" style="padding:15px;">WMZ 에게 DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/svg-to-dxf" style="padding:15px;">SVG 에게 DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/svgz-to-dxf" style="padding:15px;">SVGZ 에게 DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/eps-to-dxf" style="padding:15px;">EPS 에게 DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/cdr-to-dxf" style="padding:15px;">CDR 에게 DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/cmx-to-dxf" style="padding:15px;">CMX 에게 DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/otg-to-dxf" style="padding:15px;">OTG 에게 DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/odg-to-dxf" style="padding:15px;">ODG 에게 DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/ico-to-dxf" style="padding:15px;">ICO 에게 DXF</a></div>
                 </div>
         </div>
     </div>

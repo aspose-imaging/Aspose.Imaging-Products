@@ -21,36 +21,36 @@ Se admiten las siguientes conversiones:
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/apng-to-psd" >APNG a PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/bmp-to-psd" >BMP a PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/dib-to-psd" >DIB a PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/dicom-to-psd" >DICOM a PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/djvu-to-psd" >DJVU a PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/dng-to-psd" >DNG a PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/emf-to-psd" >EMF a PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/emz-to-psd" >EMZ a PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/gif-to-psd" >GIF a PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/jpeg2000-to-psd" >JPEG2000 a PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/jp2-to-psd" >JP2 a PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/j2k-to-psd" >J2K a PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/jpg-to-psd" >JPG a PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/jpeg-to-psd" >JPEG a PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/png-to-psd" >PNG a PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/tga-to-psd" >TGA a PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/tif-to-psd" >TIF a PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/tiff-to-psd" >TIFF a PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/webp-to-psd" >WEBP a PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/wmf-to-psd" >WMF a PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/wmz-to-psd" >WMZ a PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/svg-to-psd" >SVG a PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/svgz-to-psd" >SVGZ a PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/eps-to-psd" >EPS a PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/cdr-to-psd" >CDR a PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/cmx-to-psd" >CMX a PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/otg-to-psd" >OTG a PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/odg-to-psd" >ODG a PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/ico-to-psd" >ICO a PSD</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/apng-to-psd" style="padding:15px;">APNG a PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/bmp-to-psd" style="padding:15px;">BMP a PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/dib-to-psd" style="padding:15px;">DIB a PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/dicom-to-psd" style="padding:15px;">DICOM a PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/djvu-to-psd" style="padding:15px;">DJVU a PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/dng-to-psd" style="padding:15px;">DNG a PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/emf-to-psd" style="padding:15px;">EMF a PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/emz-to-psd" style="padding:15px;">EMZ a PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/gif-to-psd" style="padding:15px;">GIF a PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/jpeg2000-to-psd" style="padding:15px;">JPEG2000 a PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/jp2-to-psd" style="padding:15px;">JP2 a PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/j2k-to-psd" style="padding:15px;">J2K a PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/jpg-to-psd" style="padding:15px;">JPG a PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/jpeg-to-psd" style="padding:15px;">JPEG a PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/png-to-psd" style="padding:15px;">PNG a PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/tga-to-psd" style="padding:15px;">TGA a PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/tif-to-psd" style="padding:15px;">TIF a PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/tiff-to-psd" style="padding:15px;">TIFF a PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/webp-to-psd" style="padding:15px;">WEBP a PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/wmf-to-psd" style="padding:15px;">WMF a PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/wmz-to-psd" style="padding:15px;">WMZ a PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/svg-to-psd" style="padding:15px;">SVG a PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/svgz-to-psd" style="padding:15px;">SVGZ a PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/eps-to-psd" style="padding:15px;">EPS a PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/cdr-to-psd" style="padding:15px;">CDR a PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/cmx-to-psd" style="padding:15px;">CMX a PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/otg-to-psd" style="padding:15px;">OTG a PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/odg-to-psd" style="padding:15px;">ODG a PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/es/net/conversion/ico-to-psd" style="padding:15px;">ICO a PSD</a></div>
                 </div>
         </div>
     </div>

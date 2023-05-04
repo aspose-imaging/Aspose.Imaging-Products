@@ -21,35 +21,35 @@ description: באמצעות Aspose.Imaging עבור ספריית NET קל להמ
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/apng-to-png" >APNG ל PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/bmp-to-png" >BMP ל PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/dib-to-png" >DIB ל PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/dicom-to-png" >DICOM ל PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/djvu-to-png" >DJVU ל PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/dng-to-png" >DNG ל PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/emf-to-png" >EMF ל PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/emz-to-png" >EMZ ל PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/gif-to-png" >GIF ל PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/jpeg2000-to-png" >JPEG2000 ל PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/jp2-to-png" >JP2 ל PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/j2k-to-png" >J2K ל PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/jpg-to-png" >JPG ל PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/jpeg-to-png" >JPEG ל PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/tga-to-png" >TGA ל PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/tif-to-png" >TIF ל PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/tiff-to-png" >TIFF ל PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/webp-to-png" >WEBP ל PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/wmf-to-png" >WMF ל PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/wmz-to-png" >WMZ ל PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/svg-to-png" >SVG ל PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/svgz-to-png" >SVGZ ל PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/eps-to-png" >EPS ל PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/cdr-to-png" >CDR ל PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/cmx-to-png" >CMX ל PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/otg-to-png" >OTG ל PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/odg-to-png" >ODG ל PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/ico-to-png" >ICO ל PNG</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/apng-to-png" style="padding:15px;">APNG ל PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/bmp-to-png" style="padding:15px;">BMP ל PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/dib-to-png" style="padding:15px;">DIB ל PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/dicom-to-png" style="padding:15px;">DICOM ל PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/djvu-to-png" style="padding:15px;">DJVU ל PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/dng-to-png" style="padding:15px;">DNG ל PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/emf-to-png" style="padding:15px;">EMF ל PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/emz-to-png" style="padding:15px;">EMZ ל PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/gif-to-png" style="padding:15px;">GIF ל PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/jpeg2000-to-png" style="padding:15px;">JPEG2000 ל PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/jp2-to-png" style="padding:15px;">JP2 ל PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/j2k-to-png" style="padding:15px;">J2K ל PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/jpg-to-png" style="padding:15px;">JPG ל PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/jpeg-to-png" style="padding:15px;">JPEG ל PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/tga-to-png" style="padding:15px;">TGA ל PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/tif-to-png" style="padding:15px;">TIF ל PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/tiff-to-png" style="padding:15px;">TIFF ל PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/webp-to-png" style="padding:15px;">WEBP ל PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/wmf-to-png" style="padding:15px;">WMF ל PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/wmz-to-png" style="padding:15px;">WMZ ל PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/svg-to-png" style="padding:15px;">SVG ל PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/svgz-to-png" style="padding:15px;">SVGZ ל PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/eps-to-png" style="padding:15px;">EPS ל PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/cdr-to-png" style="padding:15px;">CDR ל PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/cmx-to-png" style="padding:15px;">CMX ל PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/otg-to-png" style="padding:15px;">OTG ל PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/odg-to-png" style="padding:15px;">ODG ל PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/ico-to-png" style="padding:15px;">ICO ל PNG</a></div>
                 </div>
         </div>
     </div>

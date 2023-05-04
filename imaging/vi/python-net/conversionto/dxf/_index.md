@@ -21,36 +21,36 @@ Có các chuyển đổi có sẵn tiếp theo:
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/apng-to-dxf" >APNG ĐẾN DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/bmp-to-dxf" >BMP ĐẾN DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/dib-to-dxf" >DIB ĐẾN DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/dicom-to-dxf" >DICOM ĐẾN DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/djvu-to-dxf" >DJVU ĐẾN DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/dng-to-dxf" >DNG ĐẾN DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/emf-to-dxf" >EMF ĐẾN DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/emz-to-dxf" >EMZ ĐẾN DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/gif-to-dxf" >GIF ĐẾN DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/jpeg2000-to-dxf" >JPEG2000 ĐẾN DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/jp2-to-dxf" >JP2 ĐẾN DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/j2k-to-dxf" >J2K ĐẾN DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/jpg-to-dxf" >JPG ĐẾN DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/jpeg-to-dxf" >JPEG ĐẾN DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/png-to-dxf" >PNG ĐẾN DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/tga-to-dxf" >TGA ĐẾN DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/tif-to-dxf" >TIF ĐẾN DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/tiff-to-dxf" >TIFF ĐẾN DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/webp-to-dxf" >WEBP ĐẾN DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/wmf-to-dxf" >WMF ĐẾN DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/wmz-to-dxf" >WMZ ĐẾN DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/svg-to-dxf" >SVG ĐẾN DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/svgz-to-dxf" >SVGZ ĐẾN DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/eps-to-dxf" >EPS ĐẾN DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/cdr-to-dxf" >CDR ĐẾN DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/cmx-to-dxf" >CMX ĐẾN DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/otg-to-dxf" >OTG ĐẾN DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/odg-to-dxf" >ODG ĐẾN DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/ico-to-dxf" >ICO ĐẾN DXF</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/apng-to-dxf" style="padding:15px;">APNG ĐẾN DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/bmp-to-dxf" style="padding:15px;">BMP ĐẾN DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/dib-to-dxf" style="padding:15px;">DIB ĐẾN DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/dicom-to-dxf" style="padding:15px;">DICOM ĐẾN DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/djvu-to-dxf" style="padding:15px;">DJVU ĐẾN DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/dng-to-dxf" style="padding:15px;">DNG ĐẾN DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/emf-to-dxf" style="padding:15px;">EMF ĐẾN DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/emz-to-dxf" style="padding:15px;">EMZ ĐẾN DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/gif-to-dxf" style="padding:15px;">GIF ĐẾN DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/jpeg2000-to-dxf" style="padding:15px;">JPEG2000 ĐẾN DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/jp2-to-dxf" style="padding:15px;">JP2 ĐẾN DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/j2k-to-dxf" style="padding:15px;">J2K ĐẾN DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/jpg-to-dxf" style="padding:15px;">JPG ĐẾN DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/jpeg-to-dxf" style="padding:15px;">JPEG ĐẾN DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/png-to-dxf" style="padding:15px;">PNG ĐẾN DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/tga-to-dxf" style="padding:15px;">TGA ĐẾN DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/tif-to-dxf" style="padding:15px;">TIF ĐẾN DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/tiff-to-dxf" style="padding:15px;">TIFF ĐẾN DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/webp-to-dxf" style="padding:15px;">WEBP ĐẾN DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/wmf-to-dxf" style="padding:15px;">WMF ĐẾN DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/wmz-to-dxf" style="padding:15px;">WMZ ĐẾN DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/svg-to-dxf" style="padding:15px;">SVG ĐẾN DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/svgz-to-dxf" style="padding:15px;">SVGZ ĐẾN DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/eps-to-dxf" style="padding:15px;">EPS ĐẾN DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/cdr-to-dxf" style="padding:15px;">CDR ĐẾN DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/cmx-to-dxf" style="padding:15px;">CMX ĐẾN DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/otg-to-dxf" style="padding:15px;">OTG ĐẾN DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/odg-to-dxf" style="padding:15px;">ODG ĐẾN DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/ico-to-dxf" style="padding:15px;">ICO ĐẾN DXF</a></div>
                 </div>
         </div>
     </div>

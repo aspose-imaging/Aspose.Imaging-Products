@@ -21,35 +21,35 @@ description: การใช้ Aspose.Imaging คุณสามารถแป
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/apng-to-png" >APNG ถึง PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/bmp-to-png" >BMP ถึง PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/dib-to-png" >DIB ถึง PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/dicom-to-png" >DICOM ถึง PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/djvu-to-png" >DJVU ถึง PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/dng-to-png" >DNG ถึง PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/emf-to-png" >EMF ถึง PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/emz-to-png" >EMZ ถึง PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/gif-to-png" >GIF ถึง PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/jpeg2000-to-png" >JPEG2000 ถึง PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/jp2-to-png" >JP2 ถึง PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/j2k-to-png" >J2K ถึง PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/jpg-to-png" >JPG ถึง PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/jpeg-to-png" >JPEG ถึง PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/tga-to-png" >TGA ถึง PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/tif-to-png" >TIF ถึง PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/tiff-to-png" >TIFF ถึง PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/webp-to-png" >WEBP ถึง PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/wmf-to-png" >WMF ถึง PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/wmz-to-png" >WMZ ถึง PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/svg-to-png" >SVG ถึง PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/svgz-to-png" >SVGZ ถึง PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/eps-to-png" >EPS ถึง PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/cdr-to-png" >CDR ถึง PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/cmx-to-png" >CMX ถึง PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/otg-to-png" >OTG ถึง PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/odg-to-png" >ODG ถึง PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/ico-to-png" >ICO ถึง PNG</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/apng-to-png" style="padding:15px;">APNG ถึง PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/bmp-to-png" style="padding:15px;">BMP ถึง PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/dib-to-png" style="padding:15px;">DIB ถึง PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/dicom-to-png" style="padding:15px;">DICOM ถึง PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/djvu-to-png" style="padding:15px;">DJVU ถึง PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/dng-to-png" style="padding:15px;">DNG ถึง PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/emf-to-png" style="padding:15px;">EMF ถึง PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/emz-to-png" style="padding:15px;">EMZ ถึง PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/gif-to-png" style="padding:15px;">GIF ถึง PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/jpeg2000-to-png" style="padding:15px;">JPEG2000 ถึง PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/jp2-to-png" style="padding:15px;">JP2 ถึง PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/j2k-to-png" style="padding:15px;">J2K ถึง PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/jpg-to-png" style="padding:15px;">JPG ถึง PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/jpeg-to-png" style="padding:15px;">JPEG ถึง PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/tga-to-png" style="padding:15px;">TGA ถึง PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/tif-to-png" style="padding:15px;">TIF ถึง PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/tiff-to-png" style="padding:15px;">TIFF ถึง PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/webp-to-png" style="padding:15px;">WEBP ถึง PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/wmf-to-png" style="padding:15px;">WMF ถึง PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/wmz-to-png" style="padding:15px;">WMZ ถึง PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/svg-to-png" style="padding:15px;">SVG ถึง PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/svgz-to-png" style="padding:15px;">SVGZ ถึง PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/eps-to-png" style="padding:15px;">EPS ถึง PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/cdr-to-png" style="padding:15px;">CDR ถึง PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/cmx-to-png" style="padding:15px;">CMX ถึง PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/otg-to-png" style="padding:15px;">OTG ถึง PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/odg-to-png" style="padding:15px;">ODG ถึง PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/java/conversion/ico-to-png" style="padding:15px;">ICO ถึง PNG</a></div>
                 </div>
         </div>
     </div>

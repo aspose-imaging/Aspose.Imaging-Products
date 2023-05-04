@@ -21,36 +21,36 @@ description: За допомогою Aspose.Imaging ви можете конве
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/apng-to-canvas" >APNG до CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/bmp-to-canvas" >BMP до CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/dib-to-canvas" >DIB до CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/dicom-to-canvas" >DICOM до CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/djvu-to-canvas" >DJVU до CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/dng-to-canvas" >DNG до CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/emf-to-canvas" >EMF до CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/emz-to-canvas" >EMZ до CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/gif-to-canvas" >GIF до CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/jpeg2000-to-canvas" >JPEG2000 до CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/jp2-to-canvas" >JP2 до CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/j2k-to-canvas" >J2K до CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/jpg-to-canvas" >JPG до CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/jpeg-to-canvas" >JPEG до CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/png-to-canvas" >PNG до CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/tga-to-canvas" >TGA до CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/tif-to-canvas" >TIF до CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/tiff-to-canvas" >TIFF до CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/webp-to-canvas" >WEBP до CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/wmf-to-canvas" >WMF до CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/wmz-to-canvas" >WMZ до CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/svg-to-canvas" >SVG до CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/svgz-to-canvas" >SVGZ до CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/eps-to-canvas" >EPS до CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/cdr-to-canvas" >CDR до CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/cmx-to-canvas" >CMX до CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/otg-to-canvas" >OTG до CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/odg-to-canvas" >ODG до CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/ico-to-canvas" >ICO до CANVAS</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/apng-to-canvas" style="padding:15px;">APNG до CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/bmp-to-canvas" style="padding:15px;">BMP до CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/dib-to-canvas" style="padding:15px;">DIB до CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/dicom-to-canvas" style="padding:15px;">DICOM до CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/djvu-to-canvas" style="padding:15px;">DJVU до CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/dng-to-canvas" style="padding:15px;">DNG до CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/emf-to-canvas" style="padding:15px;">EMF до CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/emz-to-canvas" style="padding:15px;">EMZ до CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/gif-to-canvas" style="padding:15px;">GIF до CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/jpeg2000-to-canvas" style="padding:15px;">JPEG2000 до CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/jp2-to-canvas" style="padding:15px;">JP2 до CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/j2k-to-canvas" style="padding:15px;">J2K до CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/jpg-to-canvas" style="padding:15px;">JPG до CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/jpeg-to-canvas" style="padding:15px;">JPEG до CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/png-to-canvas" style="padding:15px;">PNG до CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/tga-to-canvas" style="padding:15px;">TGA до CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/tif-to-canvas" style="padding:15px;">TIF до CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/tiff-to-canvas" style="padding:15px;">TIFF до CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/webp-to-canvas" style="padding:15px;">WEBP до CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/wmf-to-canvas" style="padding:15px;">WMF до CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/wmz-to-canvas" style="padding:15px;">WMZ до CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/svg-to-canvas" style="padding:15px;">SVG до CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/svgz-to-canvas" style="padding:15px;">SVGZ до CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/eps-to-canvas" style="padding:15px;">EPS до CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/cdr-to-canvas" style="padding:15px;">CDR до CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/cmx-to-canvas" style="padding:15px;">CMX до CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/otg-to-canvas" style="padding:15px;">OTG до CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/odg-to-canvas" style="padding:15px;">ODG до CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/ico-to-canvas" style="padding:15px;">ICO до CANVAS</a></div>
                 </div>
         </div>
     </div>

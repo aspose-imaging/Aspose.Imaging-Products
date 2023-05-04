@@ -21,36 +21,36 @@ Det finns nästa tillgängliga konverteringar:
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/apng-to-svg" >APNG till SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/bmp-to-svg" >BMP till SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/dib-to-svg" >DIB till SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/dicom-to-svg" >DICOM till SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/djvu-to-svg" >DJVU till SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/dng-to-svg" >DNG till SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/emf-to-svg" >EMF till SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/emz-to-svg" >EMZ till SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/gif-to-svg" >GIF till SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/jpeg2000-to-svg" >JPEG2000 till SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/jp2-to-svg" >JP2 till SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/j2k-to-svg" >J2K till SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/jpg-to-svg" >JPG till SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/jpeg-to-svg" >JPEG till SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/png-to-svg" >PNG till SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/tga-to-svg" >TGA till SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/tif-to-svg" >TIF till SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/tiff-to-svg" >TIFF till SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/webp-to-svg" >WEBP till SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/wmf-to-svg" >WMF till SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/wmz-to-svg" >WMZ till SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/svg-to-svg" >SVG till SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/svgz-to-svg" >SVGZ till SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/eps-to-svg" >EPS till SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/cdr-to-svg" >CDR till SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/cmx-to-svg" >CMX till SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/otg-to-svg" >OTG till SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/odg-to-svg" >ODG till SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/ico-to-svg" >ICO till SVG</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/apng-to-svg" style="padding:15px;">APNG till SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/bmp-to-svg" style="padding:15px;">BMP till SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/dib-to-svg" style="padding:15px;">DIB till SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/dicom-to-svg" style="padding:15px;">DICOM till SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/djvu-to-svg" style="padding:15px;">DJVU till SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/dng-to-svg" style="padding:15px;">DNG till SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/emf-to-svg" style="padding:15px;">EMF till SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/emz-to-svg" style="padding:15px;">EMZ till SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/gif-to-svg" style="padding:15px;">GIF till SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/jpeg2000-to-svg" style="padding:15px;">JPEG2000 till SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/jp2-to-svg" style="padding:15px;">JP2 till SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/j2k-to-svg" style="padding:15px;">J2K till SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/jpg-to-svg" style="padding:15px;">JPG till SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/jpeg-to-svg" style="padding:15px;">JPEG till SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/png-to-svg" style="padding:15px;">PNG till SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/tga-to-svg" style="padding:15px;">TGA till SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/tif-to-svg" style="padding:15px;">TIF till SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/tiff-to-svg" style="padding:15px;">TIFF till SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/webp-to-svg" style="padding:15px;">WEBP till SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/wmf-to-svg" style="padding:15px;">WMF till SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/wmz-to-svg" style="padding:15px;">WMZ till SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/svg-to-svg" style="padding:15px;">SVG till SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/svgz-to-svg" style="padding:15px;">SVGZ till SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/eps-to-svg" style="padding:15px;">EPS till SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/cdr-to-svg" style="padding:15px;">CDR till SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/cmx-to-svg" style="padding:15px;">CMX till SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/otg-to-svg" style="padding:15px;">OTG till SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/odg-to-svg" style="padding:15px;">ODG till SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/python-net/conversion/ico-to-svg" style="padding:15px;">ICO till SVG</a></div>
                 </div>
         </div>
     </div>

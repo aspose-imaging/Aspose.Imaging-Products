@@ -21,35 +21,35 @@ description: באמצעות Aspose.Imaging ניתן להמיר ל-ICO מפורמ
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/apng-to-ico" >APNG ל ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/bmp-to-ico" >BMP ל ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/dib-to-ico" >DIB ל ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/dicom-to-ico" >DICOM ל ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/djvu-to-ico" >DJVU ל ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/dng-to-ico" >DNG ל ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/emf-to-ico" >EMF ל ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/emz-to-ico" >EMZ ל ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/gif-to-ico" >GIF ל ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/jpeg2000-to-ico" >JPEG2000 ל ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/jp2-to-ico" >JP2 ל ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/j2k-to-ico" >J2K ל ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/jpg-to-ico" >JPG ל ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/jpeg-to-ico" >JPEG ל ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/png-to-ico" >PNG ל ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/tga-to-ico" >TGA ל ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/tif-to-ico" >TIF ל ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/tiff-to-ico" >TIFF ל ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/webp-to-ico" >WEBP ל ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/wmf-to-ico" >WMF ל ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/wmz-to-ico" >WMZ ל ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/svg-to-ico" >SVG ל ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/svgz-to-ico" >SVGZ ל ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/eps-to-ico" >EPS ל ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/cdr-to-ico" >CDR ל ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/cmx-to-ico" >CMX ל ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/otg-to-ico" >OTG ל ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/odg-to-ico" >ODG ל ICO</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/apng-to-ico" style="padding:15px;">APNG ל ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/bmp-to-ico" style="padding:15px;">BMP ל ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/dib-to-ico" style="padding:15px;">DIB ל ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/dicom-to-ico" style="padding:15px;">DICOM ל ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/djvu-to-ico" style="padding:15px;">DJVU ל ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/dng-to-ico" style="padding:15px;">DNG ל ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/emf-to-ico" style="padding:15px;">EMF ל ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/emz-to-ico" style="padding:15px;">EMZ ל ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/gif-to-ico" style="padding:15px;">GIF ל ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/jpeg2000-to-ico" style="padding:15px;">JPEG2000 ל ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/jp2-to-ico" style="padding:15px;">JP2 ל ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/j2k-to-ico" style="padding:15px;">J2K ל ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/jpg-to-ico" style="padding:15px;">JPG ל ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/jpeg-to-ico" style="padding:15px;">JPEG ל ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/png-to-ico" style="padding:15px;">PNG ל ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/tga-to-ico" style="padding:15px;">TGA ל ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/tif-to-ico" style="padding:15px;">TIF ל ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/tiff-to-ico" style="padding:15px;">TIFF ל ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/webp-to-ico" style="padding:15px;">WEBP ל ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/wmf-to-ico" style="padding:15px;">WMF ל ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/wmz-to-ico" style="padding:15px;">WMZ ל ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/svg-to-ico" style="padding:15px;">SVG ל ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/svgz-to-ico" style="padding:15px;">SVGZ ל ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/eps-to-ico" style="padding:15px;">EPS ל ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/cdr-to-ico" style="padding:15px;">CDR ל ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/cmx-to-ico" style="padding:15px;">CMX ל ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/otg-to-ico" style="padding:15px;">OTG ל ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/odg-to-ico" style="padding:15px;">ODG ל ICO</a></div>
                 </div>
         </div>
     </div>

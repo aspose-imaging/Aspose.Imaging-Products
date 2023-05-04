@@ -21,34 +21,34 @@ description: Aspose.Imaging を使用すると、Java を使用して他のフ�
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/apng-to-tiff" >APNG に TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/bmp-to-tiff" >BMP に TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/dib-to-tiff" >DIB に TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/dicom-to-tiff" >DICOM に TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/djvu-to-tiff" >DJVU に TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/dng-to-tiff" >DNG に TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/emf-to-tiff" >EMF に TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/emz-to-tiff" >EMZ に TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/gif-to-tiff" >GIF に TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/jpeg2000-to-tiff" >JPEG2000 に TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/jp2-to-tiff" >JP2 に TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/j2k-to-tiff" >J2K に TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/jpg-to-tiff" >JPG に TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/jpeg-to-tiff" >JPEG に TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/png-to-tiff" >PNG に TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/tga-to-tiff" >TGA に TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/webp-to-tiff" >WEBP に TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/wmf-to-tiff" >WMF に TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/wmz-to-tiff" >WMZ に TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/svg-to-tiff" >SVG に TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/svgz-to-tiff" >SVGZ に TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/eps-to-tiff" >EPS に TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/cdr-to-tiff" >CDR に TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/cmx-to-tiff" >CMX に TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/otg-to-tiff" >OTG に TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/odg-to-tiff" >ODG に TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/ico-to-tiff" >ICO に TIFF</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/apng-to-tiff" style="padding:15px;">APNG に TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/bmp-to-tiff" style="padding:15px;">BMP に TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/dib-to-tiff" style="padding:15px;">DIB に TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/dicom-to-tiff" style="padding:15px;">DICOM に TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/djvu-to-tiff" style="padding:15px;">DJVU に TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/dng-to-tiff" style="padding:15px;">DNG に TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/emf-to-tiff" style="padding:15px;">EMF に TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/emz-to-tiff" style="padding:15px;">EMZ に TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/gif-to-tiff" style="padding:15px;">GIF に TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/jpeg2000-to-tiff" style="padding:15px;">JPEG2000 に TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/jp2-to-tiff" style="padding:15px;">JP2 に TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/j2k-to-tiff" style="padding:15px;">J2K に TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/jpg-to-tiff" style="padding:15px;">JPG に TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/jpeg-to-tiff" style="padding:15px;">JPEG に TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/png-to-tiff" style="padding:15px;">PNG に TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/tga-to-tiff" style="padding:15px;">TGA に TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/webp-to-tiff" style="padding:15px;">WEBP に TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/wmf-to-tiff" style="padding:15px;">WMF に TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/wmz-to-tiff" style="padding:15px;">WMZ に TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/svg-to-tiff" style="padding:15px;">SVG に TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/svgz-to-tiff" style="padding:15px;">SVGZ に TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/eps-to-tiff" style="padding:15px;">EPS に TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/cdr-to-tiff" style="padding:15px;">CDR に TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/cmx-to-tiff" style="padding:15px;">CMX に TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/otg-to-tiff" style="padding:15px;">OTG に TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/odg-to-tiff" style="padding:15px;">ODG に TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/java/conversion/ico-to-tiff" style="padding:15px;">ICO に TIFF</a></div>
                 </div>
         </div>
     </div>

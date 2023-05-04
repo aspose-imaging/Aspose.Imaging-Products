@@ -21,35 +21,35 @@ description: באמצעות Aspose.Imaging ניתן להמיר ל-WMF מפורמ
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/apng-to-wmf" >APNG ל WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/bmp-to-wmf" >BMP ל WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/dib-to-wmf" >DIB ל WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/dicom-to-wmf" >DICOM ל WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/djvu-to-wmf" >DJVU ל WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/dng-to-wmf" >DNG ל WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/emf-to-wmf" >EMF ל WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/emz-to-wmf" >EMZ ל WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/gif-to-wmf" >GIF ל WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/jpeg2000-to-wmf" >JPEG2000 ל WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/jp2-to-wmf" >JP2 ל WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/j2k-to-wmf" >J2K ל WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/jpg-to-wmf" >JPG ל WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/jpeg-to-wmf" >JPEG ל WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/png-to-wmf" >PNG ל WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/tga-to-wmf" >TGA ל WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/tif-to-wmf" >TIF ל WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/tiff-to-wmf" >TIFF ל WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/webp-to-wmf" >WEBP ל WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/wmz-to-wmf" >WMZ ל WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/svg-to-wmf" >SVG ל WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/svgz-to-wmf" >SVGZ ל WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/eps-to-wmf" >EPS ל WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/cdr-to-wmf" >CDR ל WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/cmx-to-wmf" >CMX ל WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/otg-to-wmf" >OTG ל WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/odg-to-wmf" >ODG ל WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/ico-to-wmf" >ICO ל WMF</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/apng-to-wmf" style="padding:15px;">APNG ל WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/bmp-to-wmf" style="padding:15px;">BMP ל WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/dib-to-wmf" style="padding:15px;">DIB ל WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/dicom-to-wmf" style="padding:15px;">DICOM ל WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/djvu-to-wmf" style="padding:15px;">DJVU ל WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/dng-to-wmf" style="padding:15px;">DNG ל WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/emf-to-wmf" style="padding:15px;">EMF ל WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/emz-to-wmf" style="padding:15px;">EMZ ל WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/gif-to-wmf" style="padding:15px;">GIF ל WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/jpeg2000-to-wmf" style="padding:15px;">JPEG2000 ל WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/jp2-to-wmf" style="padding:15px;">JP2 ל WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/j2k-to-wmf" style="padding:15px;">J2K ל WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/jpg-to-wmf" style="padding:15px;">JPG ל WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/jpeg-to-wmf" style="padding:15px;">JPEG ל WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/png-to-wmf" style="padding:15px;">PNG ל WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/tga-to-wmf" style="padding:15px;">TGA ל WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/tif-to-wmf" style="padding:15px;">TIF ל WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/tiff-to-wmf" style="padding:15px;">TIFF ל WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/webp-to-wmf" style="padding:15px;">WEBP ל WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/wmz-to-wmf" style="padding:15px;">WMZ ל WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/svg-to-wmf" style="padding:15px;">SVG ל WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/svgz-to-wmf" style="padding:15px;">SVGZ ל WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/eps-to-wmf" style="padding:15px;">EPS ל WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/cdr-to-wmf" style="padding:15px;">CDR ל WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/cmx-to-wmf" style="padding:15px;">CMX ל WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/otg-to-wmf" style="padding:15px;">OTG ל WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/odg-to-wmf" style="padding:15px;">ODG ל WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/java/conversion/ico-to-wmf" style="padding:15px;">ICO ל WMF</a></div>
                 </div>
         </div>
     </div>

@@ -21,34 +21,34 @@ description: באמצעות Aspose.Imaging עבור ספריית NET קל להמ
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/apng-to-jpeg" >APNG ל JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/bmp-to-jpeg" >BMP ל JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/dib-to-jpeg" >DIB ל JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/dicom-to-jpeg" >DICOM ל JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/djvu-to-jpeg" >DJVU ל JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/dng-to-jpeg" >DNG ל JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/emf-to-jpeg" >EMF ל JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/emz-to-jpeg" >EMZ ל JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/gif-to-jpeg" >GIF ל JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/jpeg2000-to-jpeg" >JPEG2000 ל JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/jp2-to-jpeg" >JP2 ל JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/j2k-to-jpeg" >J2K ל JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/png-to-jpeg" >PNG ל JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/tga-to-jpeg" >TGA ל JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/tif-to-jpeg" >TIF ל JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/tiff-to-jpeg" >TIFF ל JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/webp-to-jpeg" >WEBP ל JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/wmf-to-jpeg" >WMF ל JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/wmz-to-jpeg" >WMZ ל JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/svg-to-jpeg" >SVG ל JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/svgz-to-jpeg" >SVGZ ל JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/eps-to-jpeg" >EPS ל JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/cdr-to-jpeg" >CDR ל JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/cmx-to-jpeg" >CMX ל JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/otg-to-jpeg" >OTG ל JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/odg-to-jpeg" >ODG ל JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/ico-to-jpeg" >ICO ל JPEG</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/apng-to-jpeg" style="padding:15px;">APNG ל JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/bmp-to-jpeg" style="padding:15px;">BMP ל JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/dib-to-jpeg" style="padding:15px;">DIB ל JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/dicom-to-jpeg" style="padding:15px;">DICOM ל JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/djvu-to-jpeg" style="padding:15px;">DJVU ל JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/dng-to-jpeg" style="padding:15px;">DNG ל JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/emf-to-jpeg" style="padding:15px;">EMF ל JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/emz-to-jpeg" style="padding:15px;">EMZ ל JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/gif-to-jpeg" style="padding:15px;">GIF ל JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/jpeg2000-to-jpeg" style="padding:15px;">JPEG2000 ל JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/jp2-to-jpeg" style="padding:15px;">JP2 ל JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/j2k-to-jpeg" style="padding:15px;">J2K ל JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/png-to-jpeg" style="padding:15px;">PNG ל JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/tga-to-jpeg" style="padding:15px;">TGA ל JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/tif-to-jpeg" style="padding:15px;">TIF ל JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/tiff-to-jpeg" style="padding:15px;">TIFF ל JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/webp-to-jpeg" style="padding:15px;">WEBP ל JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/wmf-to-jpeg" style="padding:15px;">WMF ל JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/wmz-to-jpeg" style="padding:15px;">WMZ ל JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/svg-to-jpeg" style="padding:15px;">SVG ל JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/svgz-to-jpeg" style="padding:15px;">SVGZ ל JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/eps-to-jpeg" style="padding:15px;">EPS ל JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/cdr-to-jpeg" style="padding:15px;">CDR ל JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/cmx-to-jpeg" style="padding:15px;">CMX ל JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/otg-to-jpeg" style="padding:15px;">OTG ל JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/odg-to-jpeg" style="padding:15px;">ODG ל JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/net/conversion/ico-to-jpeg" style="padding:15px;">ICO ל JPEG</a></div>
                 </div>
         </div>
     </div>

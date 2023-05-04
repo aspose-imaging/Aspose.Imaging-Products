@@ -21,36 +21,36 @@ Có các chuyển đổi có sẵn tiếp theo:
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/apng-to-pdf" >APNG ĐẾN PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/bmp-to-pdf" >BMP ĐẾN PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/dib-to-pdf" >DIB ĐẾN PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/dicom-to-pdf" >DICOM ĐẾN PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/djvu-to-pdf" >DJVU ĐẾN PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/dng-to-pdf" >DNG ĐẾN PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/emf-to-pdf" >EMF ĐẾN PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/emz-to-pdf" >EMZ ĐẾN PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/gif-to-pdf" >GIF ĐẾN PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/jpeg2000-to-pdf" >JPEG2000 ĐẾN PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/jp2-to-pdf" >JP2 ĐẾN PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/j2k-to-pdf" >J2K ĐẾN PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/jpg-to-pdf" >JPG ĐẾN PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/jpeg-to-pdf" >JPEG ĐẾN PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/png-to-pdf" >PNG ĐẾN PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/tga-to-pdf" >TGA ĐẾN PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/tif-to-pdf" >TIF ĐẾN PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/tiff-to-pdf" >TIFF ĐẾN PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/webp-to-pdf" >WEBP ĐẾN PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/wmf-to-pdf" >WMF ĐẾN PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/wmz-to-pdf" >WMZ ĐẾN PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/svg-to-pdf" >SVG ĐẾN PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/svgz-to-pdf" >SVGZ ĐẾN PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/eps-to-pdf" >EPS ĐẾN PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/cdr-to-pdf" >CDR ĐẾN PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/cmx-to-pdf" >CMX ĐẾN PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/otg-to-pdf" >OTG ĐẾN PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/odg-to-pdf" >ODG ĐẾN PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/ico-to-pdf" >ICO ĐẾN PDF</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/apng-to-pdf" style="padding:15px;">APNG ĐẾN PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/bmp-to-pdf" style="padding:15px;">BMP ĐẾN PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/dib-to-pdf" style="padding:15px;">DIB ĐẾN PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/dicom-to-pdf" style="padding:15px;">DICOM ĐẾN PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/djvu-to-pdf" style="padding:15px;">DJVU ĐẾN PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/dng-to-pdf" style="padding:15px;">DNG ĐẾN PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/emf-to-pdf" style="padding:15px;">EMF ĐẾN PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/emz-to-pdf" style="padding:15px;">EMZ ĐẾN PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/gif-to-pdf" style="padding:15px;">GIF ĐẾN PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/jpeg2000-to-pdf" style="padding:15px;">JPEG2000 ĐẾN PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/jp2-to-pdf" style="padding:15px;">JP2 ĐẾN PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/j2k-to-pdf" style="padding:15px;">J2K ĐẾN PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/jpg-to-pdf" style="padding:15px;">JPG ĐẾN PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/jpeg-to-pdf" style="padding:15px;">JPEG ĐẾN PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/png-to-pdf" style="padding:15px;">PNG ĐẾN PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/tga-to-pdf" style="padding:15px;">TGA ĐẾN PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/tif-to-pdf" style="padding:15px;">TIF ĐẾN PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/tiff-to-pdf" style="padding:15px;">TIFF ĐẾN PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/webp-to-pdf" style="padding:15px;">WEBP ĐẾN PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/wmf-to-pdf" style="padding:15px;">WMF ĐẾN PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/wmz-to-pdf" style="padding:15px;">WMZ ĐẾN PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/svg-to-pdf" style="padding:15px;">SVG ĐẾN PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/svgz-to-pdf" style="padding:15px;">SVGZ ĐẾN PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/eps-to-pdf" style="padding:15px;">EPS ĐẾN PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/cdr-to-pdf" style="padding:15px;">CDR ĐẾN PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/cmx-to-pdf" style="padding:15px;">CMX ĐẾN PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/otg-to-pdf" style="padding:15px;">OTG ĐẾN PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/odg-to-pdf" style="padding:15px;">ODG ĐẾN PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/ico-to-pdf" style="padding:15px;">ICO ĐẾN PDF</a></div>
                 </div>
         </div>
     </div>

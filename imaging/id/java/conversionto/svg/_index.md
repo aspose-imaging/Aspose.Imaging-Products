@@ -21,36 +21,36 @@ Konversi yang didukung:
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/apng-to-svg" >APNG ke SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/bmp-to-svg" >BMP ke SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/dib-to-svg" >DIB ke SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/dicom-to-svg" >DICOM ke SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/djvu-to-svg" >DJVU ke SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/dng-to-svg" >DNG ke SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/emf-to-svg" >EMF ke SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/emz-to-svg" >EMZ ke SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/gif-to-svg" >GIF ke SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/jpeg2000-to-svg" >JPEG2000 ke SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/jp2-to-svg" >JP2 ke SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/j2k-to-svg" >J2K ke SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/jpg-to-svg" >JPG ke SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/jpeg-to-svg" >JPEG ke SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/png-to-svg" >PNG ke SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/tga-to-svg" >TGA ke SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/tif-to-svg" >TIF ke SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/tiff-to-svg" >TIFF ke SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/webp-to-svg" >WEBP ke SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/wmf-to-svg" >WMF ke SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/wmz-to-svg" >WMZ ke SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/svg-to-svg" >SVG ke SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/svgz-to-svg" >SVGZ ke SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/eps-to-svg" >EPS ke SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/cdr-to-svg" >CDR ke SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/cmx-to-svg" >CMX ke SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/otg-to-svg" >OTG ke SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/odg-to-svg" >ODG ke SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/ico-to-svg" >ICO ke SVG</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/apng-to-svg" style="padding:15px;">APNG ke SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/bmp-to-svg" style="padding:15px;">BMP ke SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/dib-to-svg" style="padding:15px;">DIB ke SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/dicom-to-svg" style="padding:15px;">DICOM ke SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/djvu-to-svg" style="padding:15px;">DJVU ke SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/dng-to-svg" style="padding:15px;">DNG ke SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/emf-to-svg" style="padding:15px;">EMF ke SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/emz-to-svg" style="padding:15px;">EMZ ke SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/gif-to-svg" style="padding:15px;">GIF ke SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/jpeg2000-to-svg" style="padding:15px;">JPEG2000 ke SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/jp2-to-svg" style="padding:15px;">JP2 ke SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/j2k-to-svg" style="padding:15px;">J2K ke SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/jpg-to-svg" style="padding:15px;">JPG ke SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/jpeg-to-svg" style="padding:15px;">JPEG ke SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/png-to-svg" style="padding:15px;">PNG ke SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/tga-to-svg" style="padding:15px;">TGA ke SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/tif-to-svg" style="padding:15px;">TIF ke SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/tiff-to-svg" style="padding:15px;">TIFF ke SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/webp-to-svg" style="padding:15px;">WEBP ke SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/wmf-to-svg" style="padding:15px;">WMF ke SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/wmz-to-svg" style="padding:15px;">WMZ ke SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/svg-to-svg" style="padding:15px;">SVG ke SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/svgz-to-svg" style="padding:15px;">SVGZ ke SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/eps-to-svg" style="padding:15px;">EPS ke SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/cdr-to-svg" style="padding:15px;">CDR ke SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/cmx-to-svg" style="padding:15px;">CMX ke SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/otg-to-svg" style="padding:15px;">OTG ke SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/odg-to-svg" style="padding:15px;">ODG ke SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/java/conversion/ico-to-svg" style="padding:15px;">ICO ke SVG</a></div>
                 </div>
         </div>
     </div>

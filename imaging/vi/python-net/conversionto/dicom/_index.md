@@ -21,35 +21,35 @@ Có các chuyển đổi có sẵn tiếp theo:
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/apng-to-dicom" >APNG ĐẾN DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/bmp-to-dicom" >BMP ĐẾN DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/dib-to-dicom" >DIB ĐẾN DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/djvu-to-dicom" >DJVU ĐẾN DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/dng-to-dicom" >DNG ĐẾN DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/emf-to-dicom" >EMF ĐẾN DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/emz-to-dicom" >EMZ ĐẾN DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/gif-to-dicom" >GIF ĐẾN DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/jpeg2000-to-dicom" >JPEG2000 ĐẾN DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/jp2-to-dicom" >JP2 ĐẾN DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/j2k-to-dicom" >J2K ĐẾN DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/jpg-to-dicom" >JPG ĐẾN DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/jpeg-to-dicom" >JPEG ĐẾN DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/png-to-dicom" >PNG ĐẾN DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/tga-to-dicom" >TGA ĐẾN DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/tif-to-dicom" >TIF ĐẾN DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/tiff-to-dicom" >TIFF ĐẾN DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/webp-to-dicom" >WEBP ĐẾN DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/wmf-to-dicom" >WMF ĐẾN DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/wmz-to-dicom" >WMZ ĐẾN DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/svg-to-dicom" >SVG ĐẾN DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/svgz-to-dicom" >SVGZ ĐẾN DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/eps-to-dicom" >EPS ĐẾN DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/cdr-to-dicom" >CDR ĐẾN DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/cmx-to-dicom" >CMX ĐẾN DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/otg-to-dicom" >OTG ĐẾN DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/odg-to-dicom" >ODG ĐẾN DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/ico-to-dicom" >ICO ĐẾN DICOM</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/apng-to-dicom" style="padding:15px;">APNG ĐẾN DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/bmp-to-dicom" style="padding:15px;">BMP ĐẾN DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/dib-to-dicom" style="padding:15px;">DIB ĐẾN DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/djvu-to-dicom" style="padding:15px;">DJVU ĐẾN DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/dng-to-dicom" style="padding:15px;">DNG ĐẾN DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/emf-to-dicom" style="padding:15px;">EMF ĐẾN DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/emz-to-dicom" style="padding:15px;">EMZ ĐẾN DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/gif-to-dicom" style="padding:15px;">GIF ĐẾN DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/jpeg2000-to-dicom" style="padding:15px;">JPEG2000 ĐẾN DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/jp2-to-dicom" style="padding:15px;">JP2 ĐẾN DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/j2k-to-dicom" style="padding:15px;">J2K ĐẾN DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/jpg-to-dicom" style="padding:15px;">JPG ĐẾN DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/jpeg-to-dicom" style="padding:15px;">JPEG ĐẾN DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/png-to-dicom" style="padding:15px;">PNG ĐẾN DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/tga-to-dicom" style="padding:15px;">TGA ĐẾN DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/tif-to-dicom" style="padding:15px;">TIF ĐẾN DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/tiff-to-dicom" style="padding:15px;">TIFF ĐẾN DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/webp-to-dicom" style="padding:15px;">WEBP ĐẾN DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/wmf-to-dicom" style="padding:15px;">WMF ĐẾN DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/wmz-to-dicom" style="padding:15px;">WMZ ĐẾN DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/svg-to-dicom" style="padding:15px;">SVG ĐẾN DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/svgz-to-dicom" style="padding:15px;">SVGZ ĐẾN DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/eps-to-dicom" style="padding:15px;">EPS ĐẾN DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/cdr-to-dicom" style="padding:15px;">CDR ĐẾN DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/cmx-to-dicom" style="padding:15px;">CMX ĐẾN DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/otg-to-dicom" style="padding:15px;">OTG ĐẾN DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/odg-to-dicom" style="padding:15px;">ODG ĐẾN DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/ico-to-dicom" style="padding:15px;">ICO ĐẾN DICOM</a></div>
                 </div>
         </div>
     </div>

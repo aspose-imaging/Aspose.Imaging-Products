@@ -21,35 +21,35 @@ description: אתה יכול להשתמש ב-Aspose.Imaging עבור Python דר
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/apng-to-emz" >APNG ל EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/bmp-to-emz" >BMP ל EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/dib-to-emz" >DIB ל EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/dicom-to-emz" >DICOM ל EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/djvu-to-emz" >DJVU ל EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/dng-to-emz" >DNG ל EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/emf-to-emz" >EMF ל EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/gif-to-emz" >GIF ל EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/jpeg2000-to-emz" >JPEG2000 ל EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/jp2-to-emz" >JP2 ל EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/j2k-to-emz" >J2K ל EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/jpg-to-emz" >JPG ל EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/jpeg-to-emz" >JPEG ל EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/png-to-emz" >PNG ל EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/tga-to-emz" >TGA ל EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/tif-to-emz" >TIF ל EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/tiff-to-emz" >TIFF ל EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/webp-to-emz" >WEBP ל EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/wmf-to-emz" >WMF ל EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/wmz-to-emz" >WMZ ל EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/svg-to-emz" >SVG ל EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/svgz-to-emz" >SVGZ ל EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/eps-to-emz" >EPS ל EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/cdr-to-emz" >CDR ל EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/cmx-to-emz" >CMX ל EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/otg-to-emz" >OTG ל EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/odg-to-emz" >ODG ל EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/ico-to-emz" >ICO ל EMZ</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/apng-to-emz" style="padding:15px;">APNG ל EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/bmp-to-emz" style="padding:15px;">BMP ל EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/dib-to-emz" style="padding:15px;">DIB ל EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/dicom-to-emz" style="padding:15px;">DICOM ל EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/djvu-to-emz" style="padding:15px;">DJVU ל EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/dng-to-emz" style="padding:15px;">DNG ל EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/emf-to-emz" style="padding:15px;">EMF ל EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/gif-to-emz" style="padding:15px;">GIF ל EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/jpeg2000-to-emz" style="padding:15px;">JPEG2000 ל EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/jp2-to-emz" style="padding:15px;">JP2 ל EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/j2k-to-emz" style="padding:15px;">J2K ל EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/jpg-to-emz" style="padding:15px;">JPG ל EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/jpeg-to-emz" style="padding:15px;">JPEG ל EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/png-to-emz" style="padding:15px;">PNG ל EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/tga-to-emz" style="padding:15px;">TGA ל EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/tif-to-emz" style="padding:15px;">TIF ל EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/tiff-to-emz" style="padding:15px;">TIFF ל EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/webp-to-emz" style="padding:15px;">WEBP ל EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/wmf-to-emz" style="padding:15px;">WMF ל EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/wmz-to-emz" style="padding:15px;">WMZ ל EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/svg-to-emz" style="padding:15px;">SVG ל EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/svgz-to-emz" style="padding:15px;">SVGZ ל EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/eps-to-emz" style="padding:15px;">EPS ל EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/cdr-to-emz" style="padding:15px;">CDR ל EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/cmx-to-emz" style="padding:15px;">CMX ל EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/otg-to-emz" style="padding:15px;">OTG ל EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/odg-to-emz" style="padding:15px;">ODG ל EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/ico-to-emz" style="padding:15px;">ICO ל EMZ</a></div>
                 </div>
         </div>
     </div>

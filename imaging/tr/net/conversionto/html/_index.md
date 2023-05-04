@@ -21,36 +21,36 @@ Aşağıdaki dönüşümler desteklenir:
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/apng-to-html" >APNG ile HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/bmp-to-html" >BMP ile HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/dib-to-html" >DIB ile HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/dicom-to-html" >DICOM ile HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/djvu-to-html" >DJVU ile HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/dng-to-html" >DNG ile HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/emf-to-html" >EMF ile HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/emz-to-html" >EMZ ile HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/gif-to-html" >GIF ile HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/jpeg2000-to-html" >JPEG2000 ile HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/jp2-to-html" >JP2 ile HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/j2k-to-html" >J2K ile HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/jpg-to-html" >JPG ile HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/jpeg-to-html" >JPEG ile HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/png-to-html" >PNG ile HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/tga-to-html" >TGA ile HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/tif-to-html" >TIF ile HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/tiff-to-html" >TIFF ile HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/webp-to-html" >WEBP ile HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/wmf-to-html" >WMF ile HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/wmz-to-html" >WMZ ile HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/svg-to-html" >SVG ile HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/svgz-to-html" >SVGZ ile HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/eps-to-html" >EPS ile HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/cdr-to-html" >CDR ile HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/cmx-to-html" >CMX ile HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/otg-to-html" >OTG ile HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/odg-to-html" >ODG ile HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/ico-to-html" >ICO ile HTML</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/apng-to-html" style="padding:15px;">APNG ile HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/bmp-to-html" style="padding:15px;">BMP ile HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/dib-to-html" style="padding:15px;">DIB ile HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/dicom-to-html" style="padding:15px;">DICOM ile HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/djvu-to-html" style="padding:15px;">DJVU ile HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/dng-to-html" style="padding:15px;">DNG ile HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/emf-to-html" style="padding:15px;">EMF ile HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/emz-to-html" style="padding:15px;">EMZ ile HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/gif-to-html" style="padding:15px;">GIF ile HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/jpeg2000-to-html" style="padding:15px;">JPEG2000 ile HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/jp2-to-html" style="padding:15px;">JP2 ile HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/j2k-to-html" style="padding:15px;">J2K ile HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/jpg-to-html" style="padding:15px;">JPG ile HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/jpeg-to-html" style="padding:15px;">JPEG ile HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/png-to-html" style="padding:15px;">PNG ile HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/tga-to-html" style="padding:15px;">TGA ile HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/tif-to-html" style="padding:15px;">TIF ile HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/tiff-to-html" style="padding:15px;">TIFF ile HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/webp-to-html" style="padding:15px;">WEBP ile HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/wmf-to-html" style="padding:15px;">WMF ile HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/wmz-to-html" style="padding:15px;">WMZ ile HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/svg-to-html" style="padding:15px;">SVG ile HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/svgz-to-html" style="padding:15px;">SVGZ ile HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/eps-to-html" style="padding:15px;">EPS ile HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/cdr-to-html" style="padding:15px;">CDR ile HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/cmx-to-html" style="padding:15px;">CMX ile HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/otg-to-html" style="padding:15px;">OTG ile HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/odg-to-html" style="padding:15px;">ODG ile HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/net/conversion/ico-to-html" style="padding:15px;">ICO ile HTML</a></div>
                 </div>
         </div>
     </div>

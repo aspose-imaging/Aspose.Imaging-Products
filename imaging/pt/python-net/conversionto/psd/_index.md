@@ -21,36 +21,36 @@ Existem as próximas conversões disponíveis:
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/apng-to-psd" >APNG para PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/bmp-to-psd" >BMP para PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/dib-to-psd" >DIB para PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/dicom-to-psd" >DICOM para PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/djvu-to-psd" >DJVU para PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/dng-to-psd" >DNG para PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/emf-to-psd" >EMF para PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/emz-to-psd" >EMZ para PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/gif-to-psd" >GIF para PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/jpeg2000-to-psd" >JPEG2000 para PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/jp2-to-psd" >JP2 para PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/j2k-to-psd" >J2K para PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/jpg-to-psd" >JPG para PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/jpeg-to-psd" >JPEG para PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/png-to-psd" >PNG para PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/tga-to-psd" >TGA para PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/tif-to-psd" >TIF para PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/tiff-to-psd" >TIFF para PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/webp-to-psd" >WEBP para PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/wmf-to-psd" >WMF para PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/wmz-to-psd" >WMZ para PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/svg-to-psd" >SVG para PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/svgz-to-psd" >SVGZ para PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/eps-to-psd" >EPS para PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/cdr-to-psd" >CDR para PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/cmx-to-psd" >CMX para PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/otg-to-psd" >OTG para PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/odg-to-psd" >ODG para PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/ico-to-psd" >ICO para PSD</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/apng-to-psd" style="padding:15px;">APNG para PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/bmp-to-psd" style="padding:15px;">BMP para PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/dib-to-psd" style="padding:15px;">DIB para PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/dicom-to-psd" style="padding:15px;">DICOM para PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/djvu-to-psd" style="padding:15px;">DJVU para PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/dng-to-psd" style="padding:15px;">DNG para PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/emf-to-psd" style="padding:15px;">EMF para PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/emz-to-psd" style="padding:15px;">EMZ para PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/gif-to-psd" style="padding:15px;">GIF para PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/jpeg2000-to-psd" style="padding:15px;">JPEG2000 para PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/jp2-to-psd" style="padding:15px;">JP2 para PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/j2k-to-psd" style="padding:15px;">J2K para PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/jpg-to-psd" style="padding:15px;">JPG para PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/jpeg-to-psd" style="padding:15px;">JPEG para PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/png-to-psd" style="padding:15px;">PNG para PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/tga-to-psd" style="padding:15px;">TGA para PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/tif-to-psd" style="padding:15px;">TIF para PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/tiff-to-psd" style="padding:15px;">TIFF para PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/webp-to-psd" style="padding:15px;">WEBP para PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/wmf-to-psd" style="padding:15px;">WMF para PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/wmz-to-psd" style="padding:15px;">WMZ para PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/svg-to-psd" style="padding:15px;">SVG para PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/svgz-to-psd" style="padding:15px;">SVGZ para PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/eps-to-psd" style="padding:15px;">EPS para PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/cdr-to-psd" style="padding:15px;">CDR para PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/cmx-to-psd" style="padding:15px;">CMX para PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/otg-to-psd" style="padding:15px;">OTG para PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/odg-to-psd" style="padding:15px;">ODG para PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/python-net/conversion/ico-to-psd" style="padding:15px;">ICO para PSD</a></div>
                 </div>
         </div>
     </div>

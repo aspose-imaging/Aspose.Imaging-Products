@@ -21,35 +21,35 @@ description: Aspose.Imaging का उपयोग करके आप जाव
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/apng-to-ico" >APNG को ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/bmp-to-ico" >BMP को ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/dib-to-ico" >DIB को ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/dicom-to-ico" >DICOM को ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/djvu-to-ico" >DJVU को ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/dng-to-ico" >DNG को ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/emf-to-ico" >EMF को ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/emz-to-ico" >EMZ को ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/gif-to-ico" >GIF को ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/jpeg2000-to-ico" >JPEG2000 को ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/jp2-to-ico" >JP2 को ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/j2k-to-ico" >J2K को ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/jpg-to-ico" >JPG को ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/jpeg-to-ico" >JPEG को ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/png-to-ico" >PNG को ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/tga-to-ico" >TGA को ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/tif-to-ico" >TIF को ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/tiff-to-ico" >TIFF को ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/webp-to-ico" >WEBP को ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/wmf-to-ico" >WMF को ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/wmz-to-ico" >WMZ को ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/svg-to-ico" >SVG को ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/svgz-to-ico" >SVGZ को ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/eps-to-ico" >EPS को ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/cdr-to-ico" >CDR को ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/cmx-to-ico" >CMX को ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/otg-to-ico" >OTG को ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/odg-to-ico" >ODG को ICO</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/apng-to-ico" style="padding:15px;">APNG को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/bmp-to-ico" style="padding:15px;">BMP को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/dib-to-ico" style="padding:15px;">DIB को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/dicom-to-ico" style="padding:15px;">DICOM को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/djvu-to-ico" style="padding:15px;">DJVU को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/dng-to-ico" style="padding:15px;">DNG को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/emf-to-ico" style="padding:15px;">EMF को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/emz-to-ico" style="padding:15px;">EMZ को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/gif-to-ico" style="padding:15px;">GIF को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/jpeg2000-to-ico" style="padding:15px;">JPEG2000 को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/jp2-to-ico" style="padding:15px;">JP2 को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/j2k-to-ico" style="padding:15px;">J2K को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/jpg-to-ico" style="padding:15px;">JPG को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/jpeg-to-ico" style="padding:15px;">JPEG को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/png-to-ico" style="padding:15px;">PNG को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/tga-to-ico" style="padding:15px;">TGA को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/tif-to-ico" style="padding:15px;">TIF को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/tiff-to-ico" style="padding:15px;">TIFF को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/webp-to-ico" style="padding:15px;">WEBP को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/wmf-to-ico" style="padding:15px;">WMF को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/wmz-to-ico" style="padding:15px;">WMZ को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/svg-to-ico" style="padding:15px;">SVG को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/svgz-to-ico" style="padding:15px;">SVGZ को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/eps-to-ico" style="padding:15px;">EPS को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/cdr-to-ico" style="padding:15px;">CDR को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/cmx-to-ico" style="padding:15px;">CMX को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/otg-to-ico" style="padding:15px;">OTG को ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/java/conversion/odg-to-ico" style="padding:15px;">ODG को ICO</a></div>
                 </div>
         </div>
     </div>

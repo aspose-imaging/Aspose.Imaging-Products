@@ -21,36 +21,36 @@ description: يمكنك استخدام Aspose.Imaging for Python عبر مكتب
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/apng-to-dxf" >APNG ل DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/bmp-to-dxf" >BMP ل DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/dib-to-dxf" >DIB ل DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/dicom-to-dxf" >DICOM ل DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/djvu-to-dxf" >DJVU ل DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/dng-to-dxf" >DNG ل DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/emf-to-dxf" >EMF ل DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/emz-to-dxf" >EMZ ل DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/gif-to-dxf" >GIF ل DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/jpeg2000-to-dxf" >JPEG2000 ل DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/jp2-to-dxf" >JP2 ل DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/j2k-to-dxf" >J2K ل DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/jpg-to-dxf" >JPG ل DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/jpeg-to-dxf" >JPEG ل DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/png-to-dxf" >PNG ل DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/tga-to-dxf" >TGA ل DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/tif-to-dxf" >TIF ل DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/tiff-to-dxf" >TIFF ل DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/webp-to-dxf" >WEBP ل DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/wmf-to-dxf" >WMF ل DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/wmz-to-dxf" >WMZ ل DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/svg-to-dxf" >SVG ل DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/svgz-to-dxf" >SVGZ ل DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/eps-to-dxf" >EPS ل DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/cdr-to-dxf" >CDR ل DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/cmx-to-dxf" >CMX ل DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/otg-to-dxf" >OTG ل DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/odg-to-dxf" >ODG ل DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/ico-to-dxf" >ICO ل DXF</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/apng-to-dxf" style="padding:15px;">APNG ل DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/bmp-to-dxf" style="padding:15px;">BMP ل DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/dib-to-dxf" style="padding:15px;">DIB ل DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/dicom-to-dxf" style="padding:15px;">DICOM ل DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/djvu-to-dxf" style="padding:15px;">DJVU ل DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/dng-to-dxf" style="padding:15px;">DNG ل DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/emf-to-dxf" style="padding:15px;">EMF ل DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/emz-to-dxf" style="padding:15px;">EMZ ل DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/gif-to-dxf" style="padding:15px;">GIF ل DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/jpeg2000-to-dxf" style="padding:15px;">JPEG2000 ل DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/jp2-to-dxf" style="padding:15px;">JP2 ل DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/j2k-to-dxf" style="padding:15px;">J2K ل DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/jpg-to-dxf" style="padding:15px;">JPG ل DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/jpeg-to-dxf" style="padding:15px;">JPEG ل DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/png-to-dxf" style="padding:15px;">PNG ل DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/tga-to-dxf" style="padding:15px;">TGA ل DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/tif-to-dxf" style="padding:15px;">TIF ل DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/tiff-to-dxf" style="padding:15px;">TIFF ل DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/webp-to-dxf" style="padding:15px;">WEBP ل DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/wmf-to-dxf" style="padding:15px;">WMF ل DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/wmz-to-dxf" style="padding:15px;">WMZ ل DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/svg-to-dxf" style="padding:15px;">SVG ل DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/svgz-to-dxf" style="padding:15px;">SVGZ ل DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/eps-to-dxf" style="padding:15px;">EPS ل DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/cdr-to-dxf" style="padding:15px;">CDR ل DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/cmx-to-dxf" style="padding:15px;">CMX ل DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/otg-to-dxf" style="padding:15px;">OTG ل DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/odg-to-dxf" style="padding:15px;">ODG ل DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/python-net/conversion/ico-to-dxf" style="padding:15px;">ICO ل DXF</a></div>
                 </div>
         </div>
     </div>

@@ -21,35 +21,35 @@ Es gibt die nächsten verfügbaren Konvertierungen:
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/apng-to-tga" >APNG Zu TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/bmp-to-tga" >BMP Zu TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/dib-to-tga" >DIB Zu TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/dicom-to-tga" >DICOM Zu TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/djvu-to-tga" >DJVU Zu TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/dng-to-tga" >DNG Zu TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/emf-to-tga" >EMF Zu TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/emz-to-tga" >EMZ Zu TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/gif-to-tga" >GIF Zu TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/jpeg2000-to-tga" >JPEG2000 Zu TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/jp2-to-tga" >JP2 Zu TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/j2k-to-tga" >J2K Zu TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/jpg-to-tga" >JPG Zu TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/jpeg-to-tga" >JPEG Zu TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/png-to-tga" >PNG Zu TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/tif-to-tga" >TIF Zu TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/tiff-to-tga" >TIFF Zu TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/webp-to-tga" >WEBP Zu TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/wmf-to-tga" >WMF Zu TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/wmz-to-tga" >WMZ Zu TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/svg-to-tga" >SVG Zu TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/svgz-to-tga" >SVGZ Zu TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/eps-to-tga" >EPS Zu TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/cdr-to-tga" >CDR Zu TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/cmx-to-tga" >CMX Zu TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/otg-to-tga" >OTG Zu TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/odg-to-tga" >ODG Zu TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/ico-to-tga" >ICO Zu TGA</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/apng-to-tga" style="padding:15px;">APNG Zu TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/bmp-to-tga" style="padding:15px;">BMP Zu TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/dib-to-tga" style="padding:15px;">DIB Zu TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/dicom-to-tga" style="padding:15px;">DICOM Zu TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/djvu-to-tga" style="padding:15px;">DJVU Zu TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/dng-to-tga" style="padding:15px;">DNG Zu TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/emf-to-tga" style="padding:15px;">EMF Zu TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/emz-to-tga" style="padding:15px;">EMZ Zu TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/gif-to-tga" style="padding:15px;">GIF Zu TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/jpeg2000-to-tga" style="padding:15px;">JPEG2000 Zu TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/jp2-to-tga" style="padding:15px;">JP2 Zu TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/j2k-to-tga" style="padding:15px;">J2K Zu TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/jpg-to-tga" style="padding:15px;">JPG Zu TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/jpeg-to-tga" style="padding:15px;">JPEG Zu TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/png-to-tga" style="padding:15px;">PNG Zu TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/tif-to-tga" style="padding:15px;">TIF Zu TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/tiff-to-tga" style="padding:15px;">TIFF Zu TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/webp-to-tga" style="padding:15px;">WEBP Zu TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/wmf-to-tga" style="padding:15px;">WMF Zu TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/wmz-to-tga" style="padding:15px;">WMZ Zu TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/svg-to-tga" style="padding:15px;">SVG Zu TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/svgz-to-tga" style="padding:15px;">SVGZ Zu TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/eps-to-tga" style="padding:15px;">EPS Zu TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/cdr-to-tga" style="padding:15px;">CDR Zu TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/cmx-to-tga" style="padding:15px;">CMX Zu TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/otg-to-tga" style="padding:15px;">OTG Zu TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/odg-to-tga" style="padding:15px;">ODG Zu TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/python-net/conversion/ico-to-tga" style="padding:15px;">ICO Zu TGA</a></div>
                 </div>
         </div>
     </div>

@@ -21,34 +21,34 @@ Palaikomos šios konversijos:
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/apng-to-j2k" >APNG į J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/bmp-to-j2k" >BMP į J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/dib-to-j2k" >DIB į J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/dicom-to-j2k" >DICOM į J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/djvu-to-j2k" >DJVU į J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/dng-to-j2k" >DNG į J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/emf-to-j2k" >EMF į J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/emz-to-j2k" >EMZ į J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/gif-to-j2k" >GIF į J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/jp2-to-j2k" >JP2 į J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/jpg-to-j2k" >JPG į J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/jpeg-to-j2k" >JPEG į J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/png-to-j2k" >PNG į J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/tga-to-j2k" >TGA į J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/tif-to-j2k" >TIF į J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/tiff-to-j2k" >TIFF į J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/webp-to-j2k" >WEBP į J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/wmf-to-j2k" >WMF į J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/wmz-to-j2k" >WMZ į J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/svg-to-j2k" >SVG į J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/svgz-to-j2k" >SVGZ į J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/eps-to-j2k" >EPS į J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/cdr-to-j2k" >CDR į J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/cmx-to-j2k" >CMX į J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/otg-to-j2k" >OTG į J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/odg-to-j2k" >ODG į J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/ico-to-j2k" >ICO į J2K</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/apng-to-j2k" style="padding:15px;">APNG į J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/bmp-to-j2k" style="padding:15px;">BMP į J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/dib-to-j2k" style="padding:15px;">DIB į J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/dicom-to-j2k" style="padding:15px;">DICOM į J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/djvu-to-j2k" style="padding:15px;">DJVU į J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/dng-to-j2k" style="padding:15px;">DNG į J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/emf-to-j2k" style="padding:15px;">EMF į J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/emz-to-j2k" style="padding:15px;">EMZ į J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/gif-to-j2k" style="padding:15px;">GIF į J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/jp2-to-j2k" style="padding:15px;">JP2 į J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/jpg-to-j2k" style="padding:15px;">JPG į J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/jpeg-to-j2k" style="padding:15px;">JPEG į J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/png-to-j2k" style="padding:15px;">PNG į J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/tga-to-j2k" style="padding:15px;">TGA į J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/tif-to-j2k" style="padding:15px;">TIF į J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/tiff-to-j2k" style="padding:15px;">TIFF į J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/webp-to-j2k" style="padding:15px;">WEBP į J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/wmf-to-j2k" style="padding:15px;">WMF į J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/wmz-to-j2k" style="padding:15px;">WMZ į J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/svg-to-j2k" style="padding:15px;">SVG į J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/svgz-to-j2k" style="padding:15px;">SVGZ į J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/eps-to-j2k" style="padding:15px;">EPS į J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/cdr-to-j2k" style="padding:15px;">CDR į J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/cmx-to-j2k" style="padding:15px;">CMX į J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/otg-to-j2k" style="padding:15px;">OTG į J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/odg-to-j2k" style="padding:15px;">ODG į J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/ico-to-j2k" style="padding:15px;">ICO į J2K</a></div>
                 </div>
         </div>
     </div>

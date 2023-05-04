@@ -33,36 +33,36 @@ Aspose.Imaging для Python через .NET API містить різні фу�
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
-		<div class="row other-converters">
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/uk/python-net/conversion/apng-to-bmp/">APNG до BMP</a>
+		      <a href="/imaging/uk/python-net/conversion/apng-to-bmp/" style="padding:15px;">APNG до BMP</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/uk/python-net/conversion/cdr-to-bmp/">CDR до BMP</a>
+		      <a href="/imaging/uk/python-net/conversion/cdr-to-bmp/" style="padding:15px;">CDR до BMP</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/uk/python-net/conversion/dib-to-bmp/">DIB до BMP</a>
+		      <a href="/imaging/uk/python-net/conversion/dib-to-bmp/" style="padding:15px;">DIB до BMP</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/uk/python-net/conversion/dicom-to-bmp/">DICOM до BMP</a>
+		      <a href="/imaging/uk/python-net/conversion/dicom-to-bmp/" style="padding:15px;">DICOM до BMP</a>
 		   </div>
  		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/uk/python-net/conversion/djvu-to-bmp/">DJVU до BMP</a>
+		      <a href="/imaging/uk/python-net/conversion/djvu-to-bmp/" style="padding:15px;">DJVU до BMP</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/uk/python-net/conversion/dng-to-bmp/">DNG до BMP</a>
+		      <a href="/imaging/uk/python-net/conversion/dng-to-bmp/" style="padding:15px;">DNG до BMP</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/uk/python-net/conversion/emf-to-bmp/">EMF до BMP</a>
+		      <a href="/imaging/uk/python-net/conversion/emf-to-bmp/" style="padding:15px;">EMF до BMP</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/uk/python-net/conversion/emz-to-bmp/">EMZ до BMP</a>
+		      <a href="/imaging/uk/python-net/conversion/emz-to-bmp/" style="padding:15px;">EMZ до BMP</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/uk/python-net/conversion/eps-to-bmp/">EPS до BMP</a>
+		      <a href="/imaging/uk/python-net/conversion/eps-to-bmp/" style="padding:15px;">EPS до BMP</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/uk/python-net/conversion/gif-to-bmp/">GIF до BMP</a>
+		      <a href="/imaging/uk/python-net/conversion/gif-to-bmp/" style="padding:15px;">GIF до BMP</a>
 		   </div>
 		</div>
 	</div>
@@ -84,36 +84,36 @@ Aspose.Imaging для Python через .NET API містить різні фу�
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
-		<div class="row other-converters">
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/uk/python-net/conversion/apng-to-PDF/">APNG до PDF</a>
+		      <a href="/imaging/uk/python-net/conversion/apng-to-PDF/" style="padding:15px;">APNG до PDF</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/uk/python-net/conversion/jpeg-to-PDF/">JPEG до PDF</a>
+		      <a href="/imaging/uk/python-net/conversion/jpeg-to-PDF/" style="padding:15px;">JPEG до PDF</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/uk/python-net/conversion/bmp-to-PDF/">BMP до PDF</a>
+		      <a href="/imaging/uk/python-net/conversion/bmp-to-PDF/" style="padding:15px;">BMP до PDF</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/uk/python-net/conversion/odg-to-PDF/">ODG до PDF</a>
+		      <a href="/imaging/uk/python-net/conversion/odg-to-PDF/" style="padding:15px;">ODG до PDF</a>
 		   </div>
  		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/uk/python-net/conversion/otg-to-PDF/">OTG до PDF</a>
+		      <a href="/imaging/uk/python-net/conversion/otg-to-PDF/" style="padding:15px;">OTG до PDF</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/uk/python-net/conversion/png-to-PDF/">PNG до PDF</a>
+		      <a href="/imaging/uk/python-net/conversion/png-to-PDF/" style="padding:15px;">PNG до PDF</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/uk/python-net/conversion/svg-to-PDF/">SVG до PDF</a>
+		      <a href="/imaging/uk/python-net/conversion/svg-to-PDF/" style="padding:15px;">SVG до PDF</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/uk/python-net/conversion/emz-to-PDF/">EMZ до PDF</a>
+		      <a href="/imaging/uk/python-net/conversion/emz-to-PDF/" style="padding:15px;">EMZ до PDF</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/uk/python-net/conversion/eps-to-PDF/">EPS до PDF</a>
+		      <a href="/imaging/uk/python-net/conversion/eps-to-PDF/" style="padding:15px;">EPS до PDF</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/uk/python-net/conversion/gif-to-PDF/">GIF до PDF</a>
+		      <a href="/imaging/uk/python-net/conversion/gif-to-PDF/" style="padding:15px;">GIF до PDF</a>
 		   </div>
 		</div>
 	</div>
@@ -135,15 +135,15 @@ Aspose.Imaging для Python через .NET API містить різні фу�
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
-		<div class="row other-converters">
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/uk/python-net/conversion/SVG-to-bmp/">SVG до BMP</a>
+		      <a href="/imaging/uk/python-net/conversion/SVG-to-bmp/" style="padding:15px;">SVG до BMP</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/uk/python-net/conversion/SVG-to-jpeg/">SVG до JPEG</a>
+		      <a href="/imaging/uk/python-net/conversion/SVG-to-jpeg/" style="padding:15px;">SVG до JPEG</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/uk/python-net/conversion/SVG-to-png/">SVG до PNG</a>
+		      <a href="/imaging/uk/python-net/conversion/SVG-to-png/" style="padding:15px;">SVG до PNG</a>
 		   </div>		   
 		</div>
 	</div>
@@ -158,36 +158,36 @@ Aspose.Imaging для Python через .NET API містить різні фу�
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
                 <hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/apng" >Перетворити з APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/bmp" >Перетворити з BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/dib" >Перетворити з DIB</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/dicom" >Перетворити з DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/djvu" >Перетворити з DJVU</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/dng" >Перетворити з DNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/emf" >Перетворити з EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/emz" >Перетворити з EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/gif" >Перетворити з GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/jpeg2000" >Перетворити з JPEG2000</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/jp2" >Перетворити з JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/j2k" >Перетворити з J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/jpg" >Перетворити з JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/jpeg" >Перетворити з JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/png" >Перетворити з PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/tga" >Перетворити з TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/tif" >Перетворити з TIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/tiff" >Перетворити з TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/webp" >Перетворити з WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/wmf" >Перетворити з WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/wmz" >Перетворити з WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/svg" >Перетворити з SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/svgz" >Перетворити з SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/eps" >Перетворити з EPS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/cdr" >Перетворити з CDR</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/cmx" >Перетворити з CMX</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/otg" >Перетворити з OTG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/odg" >Перетворити з ODG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/ico" >Перетворити з ICO</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/apng" style="padding:15px;">Перетворити з APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/bmp" style="padding:15px;">Перетворити з BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/dib" style="padding:15px;">Перетворити з DIB</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/dicom" style="padding:15px;">Перетворити з DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/djvu" style="padding:15px;">Перетворити з DJVU</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/dng" style="padding:15px;">Перетворити з DNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/emf" style="padding:15px;">Перетворити з EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/emz" style="padding:15px;">Перетворити з EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/gif" style="padding:15px;">Перетворити з GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/jpeg2000" style="padding:15px;">Перетворити з JPEG2000</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/jp2" style="padding:15px;">Перетворити з JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/j2k" style="padding:15px;">Перетворити з J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/jpg" style="padding:15px;">Перетворити з JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/jpeg" style="padding:15px;">Перетворити з JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/png" style="padding:15px;">Перетворити з PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/tga" style="padding:15px;">Перетворити з TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/tif" style="padding:15px;">Перетворити з TIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/tiff" style="padding:15px;">Перетворити з TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/webp" style="padding:15px;">Перетворити з WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/wmf" style="padding:15px;">Перетворити з WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/wmz" style="padding:15px;">Перетворити з WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/svg" style="padding:15px;">Перетворити з SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/svgz" style="padding:15px;">Перетворити з SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/eps" style="padding:15px;">Перетворити з EPS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/cdr" style="padding:15px;">Перетворити з CDR</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/cmx" style="padding:15px;">Перетворити з CMX</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/otg" style="padding:15px;">Перетворити з OTG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/odg" style="padding:15px;">Перетворити з ODG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/from/ico" style="padding:15px;">Перетворити з ICO</a></div>
                 </div>
         </div>
     </div>
@@ -201,32 +201,32 @@ Aspose.Imaging для Python через .NET API містить різні фу�
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 	        <hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/to/bmp" >Перетворити в BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/to/gif" >Перетворити в GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/to/dicom" >Перетворити в DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/to/emf" >Перетворити в EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/to/jpg" >Перетворити в JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/to/jpeg" >Перетворити в JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/to/jp2" >Перетворити в JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/to/j2k" >Перетворити в J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/to/jpeg2000" >Перетворити в JPEG2000</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/to/png" >Перетворити в PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/to/psd" >Перетворити в PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/to/dxf" >Перетворити в DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/to/svg" >Перетворити в SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/to/tiff" >Перетворити в TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/to/webp" >Перетворити в WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/to/wmf" >Перетворити в WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/to/pdf" >Перетворити в PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/to/html" >Перетворити в HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/to/emz" >Перетворити в EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/to/wmz" >Перетворити в WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/to/tga" >Перетворити в TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/to/svgz" >Перетворити в SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/to/canvas" >Перетворити в CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/to/ico" >Перетворити в ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/to/apng" >Перетворити в APNG</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/to/bmp" style="padding:15px;">Перетворити в BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/to/gif" style="padding:15px;">Перетворити в GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/to/dicom" style="padding:15px;">Перетворити в DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/to/emf" style="padding:15px;">Перетворити в EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/to/jpg" style="padding:15px;">Перетворити в JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/to/jpeg" style="padding:15px;">Перетворити в JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/to/jp2" style="padding:15px;">Перетворити в JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/to/j2k" style="padding:15px;">Перетворити в J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/to/jpeg2000" style="padding:15px;">Перетворити в JPEG2000</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/to/png" style="padding:15px;">Перетворити в PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/to/psd" style="padding:15px;">Перетворити в PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/to/dxf" style="padding:15px;">Перетворити в DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/to/svg" style="padding:15px;">Перетворити в SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/to/tiff" style="padding:15px;">Перетворити в TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/to/webp" style="padding:15px;">Перетворити в WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/to/wmf" style="padding:15px;">Перетворити в WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/to/pdf" style="padding:15px;">Перетворити в PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/to/html" style="padding:15px;">Перетворити в HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/to/emz" style="padding:15px;">Перетворити в EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/to/wmz" style="padding:15px;">Перетворити в WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/to/tga" style="padding:15px;">Перетворити в TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/to/svgz" style="padding:15px;">Перетворити в SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/to/canvas" style="padding:15px;">Перетворити в CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/to/ico" style="padding:15px;">Перетворити в ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/python-net/conversion/to/apng" style="padding:15px;">Перетворити в APNG</a></div>
                 </div>
         </div>
     </div>

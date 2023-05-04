@@ -33,36 +33,36 @@ Aspose.Imaging สำหรับ Python ผ่าน .NET API มีคุณ�
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
-		<div class="row other-converters">
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/th/python-net/conversion/apng-to-bmp/">APNG ถึง BMP</a>
+		      <a href="/imaging/th/python-net/conversion/apng-to-bmp/" style="padding:15px;">APNG ถึง BMP</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/th/python-net/conversion/cdr-to-bmp/">CDR ถึง BMP</a>
+		      <a href="/imaging/th/python-net/conversion/cdr-to-bmp/" style="padding:15px;">CDR ถึง BMP</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/th/python-net/conversion/dib-to-bmp/">DIB ถึง BMP</a>
+		      <a href="/imaging/th/python-net/conversion/dib-to-bmp/" style="padding:15px;">DIB ถึง BMP</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/th/python-net/conversion/dicom-to-bmp/">DICOM ถึง BMP</a>
+		      <a href="/imaging/th/python-net/conversion/dicom-to-bmp/" style="padding:15px;">DICOM ถึง BMP</a>
 		   </div>
  		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/th/python-net/conversion/djvu-to-bmp/">DJVU ถึง BMP</a>
+		      <a href="/imaging/th/python-net/conversion/djvu-to-bmp/" style="padding:15px;">DJVU ถึง BMP</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/th/python-net/conversion/dng-to-bmp/">DNG ถึง BMP</a>
+		      <a href="/imaging/th/python-net/conversion/dng-to-bmp/" style="padding:15px;">DNG ถึง BMP</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/th/python-net/conversion/emf-to-bmp/">EMF ถึง BMP</a>
+		      <a href="/imaging/th/python-net/conversion/emf-to-bmp/" style="padding:15px;">EMF ถึง BMP</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/th/python-net/conversion/emz-to-bmp/">EMZ ถึง BMP</a>
+		      <a href="/imaging/th/python-net/conversion/emz-to-bmp/" style="padding:15px;">EMZ ถึง BMP</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/th/python-net/conversion/eps-to-bmp/">EPS ถึง BMP</a>
+		      <a href="/imaging/th/python-net/conversion/eps-to-bmp/" style="padding:15px;">EPS ถึง BMP</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/th/python-net/conversion/gif-to-bmp/">GIF ถึง BMP</a>
+		      <a href="/imaging/th/python-net/conversion/gif-to-bmp/" style="padding:15px;">GIF ถึง BMP</a>
 		   </div>
 		</div>
 	</div>
@@ -84,36 +84,36 @@ Aspose.Imaging สำหรับ Python ผ่าน .NET API มีคุณ�
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
-		<div class="row other-converters">
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/th/python-net/conversion/apng-to-ไฟล์ PDF/">APNG ถึง ไฟล์ PDF</a>
+		      <a href="/imaging/th/python-net/conversion/apng-to-ไฟล์ PDF/" style="padding:15px;">APNG ถึง ไฟล์ PDF</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/th/python-net/conversion/jpeg-to-ไฟล์ PDF/">JPEG ถึง ไฟล์ PDF</a>
+		      <a href="/imaging/th/python-net/conversion/jpeg-to-ไฟล์ PDF/" style="padding:15px;">JPEG ถึง ไฟล์ PDF</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/th/python-net/conversion/bmp-to-ไฟล์ PDF/">BMP ถึง ไฟล์ PDF</a>
+		      <a href="/imaging/th/python-net/conversion/bmp-to-ไฟล์ PDF/" style="padding:15px;">BMP ถึง ไฟล์ PDF</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/th/python-net/conversion/odg-to-ไฟล์ PDF/">ODG ถึง ไฟล์ PDF</a>
+		      <a href="/imaging/th/python-net/conversion/odg-to-ไฟล์ PDF/" style="padding:15px;">ODG ถึง ไฟล์ PDF</a>
 		   </div>
  		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/th/python-net/conversion/otg-to-ไฟล์ PDF/">OTG ถึง ไฟล์ PDF</a>
+		      <a href="/imaging/th/python-net/conversion/otg-to-ไฟล์ PDF/" style="padding:15px;">OTG ถึง ไฟล์ PDF</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/th/python-net/conversion/png-to-ไฟล์ PDF/">PNG ถึง ไฟล์ PDF</a>
+		      <a href="/imaging/th/python-net/conversion/png-to-ไฟล์ PDF/" style="padding:15px;">PNG ถึง ไฟล์ PDF</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/th/python-net/conversion/svg-to-ไฟล์ PDF/">SVG ถึง ไฟล์ PDF</a>
+		      <a href="/imaging/th/python-net/conversion/svg-to-ไฟล์ PDF/" style="padding:15px;">SVG ถึง ไฟล์ PDF</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/th/python-net/conversion/emz-to-ไฟล์ PDF/">EMZ ถึง ไฟล์ PDF</a>
+		      <a href="/imaging/th/python-net/conversion/emz-to-ไฟล์ PDF/" style="padding:15px;">EMZ ถึง ไฟล์ PDF</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/th/python-net/conversion/eps-to-ไฟล์ PDF/">EPS ถึง ไฟล์ PDF</a>
+		      <a href="/imaging/th/python-net/conversion/eps-to-ไฟล์ PDF/" style="padding:15px;">EPS ถึง ไฟล์ PDF</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/th/python-net/conversion/gif-to-ไฟล์ PDF/">GIF ถึง ไฟล์ PDF</a>
+		      <a href="/imaging/th/python-net/conversion/gif-to-ไฟล์ PDF/" style="padding:15px;">GIF ถึง ไฟล์ PDF</a>
 		   </div>
 		</div>
 	</div>
@@ -135,15 +135,15 @@ Aspose.Imaging สำหรับ Python ผ่าน .NET API มีคุณ�
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
-		<div class="row other-converters">
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/th/python-net/conversion/เอสวีจี-to-bmp/">เอสวีจี ถึง BMP</a>
+		      <a href="/imaging/th/python-net/conversion/เอสวีจี-to-bmp/" style="padding:15px;">เอสวีจี ถึง BMP</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/th/python-net/conversion/เอสวีจี-to-jpeg/">เอสวีจี ถึง JPEG</a>
+		      <a href="/imaging/th/python-net/conversion/เอสวีจี-to-jpeg/" style="padding:15px;">เอสวีจี ถึง JPEG</a>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/th/python-net/conversion/เอสวีจี-to-png/">เอสวีจี ถึง PNG</a>
+		      <a href="/imaging/th/python-net/conversion/เอสวีจี-to-png/" style="padding:15px;">เอสวีจี ถึง PNG</a>
 		   </div>		   
 		</div>
 	</div>
@@ -158,36 +158,36 @@ Aspose.Imaging สำหรับ Python ผ่าน .NET API มีคุณ�
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
                 <hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/apng" >แปลงจาก APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/bmp" >แปลงจาก BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/dib" >แปลงจาก DIB</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/dicom" >แปลงจาก DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/djvu" >แปลงจาก DJVU</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/dng" >แปลงจาก DNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/emf" >แปลงจาก EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/emz" >แปลงจาก EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/gif" >แปลงจาก GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/jpeg2000" >แปลงจาก JPEG2000</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/jp2" >แปลงจาก JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/j2k" >แปลงจาก J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/jpg" >แปลงจาก JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/jpeg" >แปลงจาก JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/png" >แปลงจาก PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/tga" >แปลงจาก TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/tif" >แปลงจาก TIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/tiff" >แปลงจาก TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/webp" >แปลงจาก WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/wmf" >แปลงจาก WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/wmz" >แปลงจาก WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/svg" >แปลงจาก SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/svgz" >แปลงจาก SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/eps" >แปลงจาก EPS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/cdr" >แปลงจาก CDR</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/cmx" >แปลงจาก CMX</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/otg" >แปลงจาก OTG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/odg" >แปลงจาก ODG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/ico" >แปลงจาก ICO</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/apng" style="padding:15px;">แปลงจาก APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/bmp" style="padding:15px;">แปลงจาก BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/dib" style="padding:15px;">แปลงจาก DIB</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/dicom" style="padding:15px;">แปลงจาก DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/djvu" style="padding:15px;">แปลงจาก DJVU</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/dng" style="padding:15px;">แปลงจาก DNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/emf" style="padding:15px;">แปลงจาก EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/emz" style="padding:15px;">แปลงจาก EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/gif" style="padding:15px;">แปลงจาก GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/jpeg2000" style="padding:15px;">แปลงจาก JPEG2000</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/jp2" style="padding:15px;">แปลงจาก JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/j2k" style="padding:15px;">แปลงจาก J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/jpg" style="padding:15px;">แปลงจาก JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/jpeg" style="padding:15px;">แปลงจาก JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/png" style="padding:15px;">แปลงจาก PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/tga" style="padding:15px;">แปลงจาก TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/tif" style="padding:15px;">แปลงจาก TIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/tiff" style="padding:15px;">แปลงจาก TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/webp" style="padding:15px;">แปลงจาก WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/wmf" style="padding:15px;">แปลงจาก WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/wmz" style="padding:15px;">แปลงจาก WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/svg" style="padding:15px;">แปลงจาก SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/svgz" style="padding:15px;">แปลงจาก SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/eps" style="padding:15px;">แปลงจาก EPS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/cdr" style="padding:15px;">แปลงจาก CDR</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/cmx" style="padding:15px;">แปลงจาก CMX</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/otg" style="padding:15px;">แปลงจาก OTG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/odg" style="padding:15px;">แปลงจาก ODG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/from/ico" style="padding:15px;">แปลงจาก ICO</a></div>
                 </div>
         </div>
     </div>
@@ -201,32 +201,32 @@ Aspose.Imaging สำหรับ Python ผ่าน .NET API มีคุณ�
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 	        <hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/to/bmp" >เปลี่ยนเป็น BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/to/gif" >เปลี่ยนเป็น GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/to/dicom" >เปลี่ยนเป็น DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/to/emf" >เปลี่ยนเป็น EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/to/jpg" >เปลี่ยนเป็น JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/to/jpeg" >เปลี่ยนเป็น JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/to/jp2" >เปลี่ยนเป็น JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/to/j2k" >เปลี่ยนเป็น J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/to/jpeg2000" >เปลี่ยนเป็น JPEG2000</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/to/png" >เปลี่ยนเป็น PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/to/psd" >เปลี่ยนเป็น PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/to/dxf" >เปลี่ยนเป็น DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/to/svg" >เปลี่ยนเป็น SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/to/tiff" >เปลี่ยนเป็น TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/to/webp" >เปลี่ยนเป็น WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/to/wmf" >เปลี่ยนเป็น WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/to/pdf" >เปลี่ยนเป็น PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/to/html" >เปลี่ยนเป็น HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/to/emz" >เปลี่ยนเป็น EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/to/wmz" >เปลี่ยนเป็น WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/to/tga" >เปลี่ยนเป็น TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/to/svgz" >เปลี่ยนเป็น SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/to/canvas" >เปลี่ยนเป็น CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/to/ico" >เปลี่ยนเป็น ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/to/apng" >เปลี่ยนเป็น APNG</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/to/bmp" style="padding:15px;">เปลี่ยนเป็น BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/to/gif" style="padding:15px;">เปลี่ยนเป็น GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/to/dicom" style="padding:15px;">เปลี่ยนเป็น DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/to/emf" style="padding:15px;">เปลี่ยนเป็น EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/to/jpg" style="padding:15px;">เปลี่ยนเป็น JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/to/jpeg" style="padding:15px;">เปลี่ยนเป็น JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/to/jp2" style="padding:15px;">เปลี่ยนเป็น JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/to/j2k" style="padding:15px;">เปลี่ยนเป็น J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/to/jpeg2000" style="padding:15px;">เปลี่ยนเป็น JPEG2000</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/to/png" style="padding:15px;">เปลี่ยนเป็น PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/to/psd" style="padding:15px;">เปลี่ยนเป็น PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/to/dxf" style="padding:15px;">เปลี่ยนเป็น DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/to/svg" style="padding:15px;">เปลี่ยนเป็น SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/to/tiff" style="padding:15px;">เปลี่ยนเป็น TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/to/webp" style="padding:15px;">เปลี่ยนเป็น WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/to/wmf" style="padding:15px;">เปลี่ยนเป็น WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/to/pdf" style="padding:15px;">เปลี่ยนเป็น PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/to/html" style="padding:15px;">เปลี่ยนเป็น HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/to/emz" style="padding:15px;">เปลี่ยนเป็น EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/to/wmz" style="padding:15px;">เปลี่ยนเป็น WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/to/tga" style="padding:15px;">เปลี่ยนเป็น TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/to/svgz" style="padding:15px;">เปลี่ยนเป็น SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/to/canvas" style="padding:15px;">เปลี่ยนเป็น CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/to/ico" style="padding:15px;">เปลี่ยนเป็น ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/python-net/conversion/to/apng" style="padding:15px;">เปลี่ยนเป็น APNG</a></div>
                 </div>
         </div>
     </div>
