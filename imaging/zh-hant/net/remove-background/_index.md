@@ -13,9 +13,15 @@ description: 使用 Aspose.Imaging 你可以輕鬆地通過 net 獲取 移除背
 
 
 {{% blocks/products/pf/feature-page-section  h2="移除背景 操作的所有支持格式 圖片" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+刪除背景是一種操作，可讓您輕鬆地從照片或圖像中刪除背景。作為去除背景的結果，您可以獲得透明背景並將前景置於另一個背景中。使用 Aspose.Imaging，您可以嘗試不同的去除背景算法，這些算法可能適合您對不同圖像的需求。
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 使用 Aspose.Imaging 您可以輕鬆地將 **移除背景** 應用於不同的圖像格式 以編程方式
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 按圖像格式支持的 移除背景 操作的完整列表：
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

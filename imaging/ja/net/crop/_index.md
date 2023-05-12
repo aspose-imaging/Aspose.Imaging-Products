@@ -13,9 +13,15 @@ description: Aspose.Imaging を使用すると、net 経由で簡単に 作物 �
 
 
 {{% blocks/products/pf/feature-page-section  h2="作物 操作でサポートされているすべての形式 画像" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+トリミングとは、写真やイラストから無関係な要素を取り除くプロセスです。この技術では通常、写真から無関係な視覚情報を除去したり、フレーミングを強化したり、アスペクト比を変更したり、被写体を周囲から強調したり分離したりするために、画像の周囲の一部を除去する必要があります。これは、画像編集ソフトウェアを利用してデジタル的に行うことも、用途に応じて実際のスナップショット、芸術作品、またはフィルム上で行うこともできます。写真、フィルム処理、放送、グラフィック デザイン、印刷業界はすべてクロップを使用しています。 Aspose.Imaging を使用すると、指定されたさまざまなパラメータで画像をトリミングできます。
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Aspose.Imaging を使用すると、さまざまな画像フォーマットに **作物** を簡単に適用できます プログラム的に
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 画像形式ごとにサポートされている 作物 操作の完全なリスト:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

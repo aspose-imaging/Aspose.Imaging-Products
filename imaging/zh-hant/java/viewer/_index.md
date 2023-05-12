@@ -13,9 +13,15 @@ description: 使用 Aspose.Imaging 你可以輕鬆地通過 java 獲取 看圖 �
 
 
 {{% blocks/products/pf/feature-page-section  h2="看圖 操作的所有支持格式 圖片" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+當您需要查看格式不廣泛的圖像或照片時，您可以輕鬆預覽轉換為流行格式的圖像。使用 Aspose.Imaging，您可以查看不同的圖像文件，而無需安裝特定於不同圖像格式的特殊程序。
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 使用 Aspose.Imaging 您可以輕鬆地將 **看圖** 應用於不同的圖像格式 以編程方式
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 按圖像格式支持的 看圖 操作的完整列表：
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

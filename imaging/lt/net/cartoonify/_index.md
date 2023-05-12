@@ -13,9 +13,15 @@ description: Naudodami Aspose.Imaging galite lengvai sukurti Karikatūrizuoti va
 
 
 {{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Karikatūrizuoti attēlus formatai" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Nuotraukos konvertavimas į animacinį filmuką yra viena iš įprastų daugelio menininkų atliekamų operacijų. Tai padeda gauti animacinę nuotrauką keliais paspaudimais neatliekant jokių dažymo darbų. Norite greitai standartinį vaizdą paversti animaciniu vaizdu? Tokiu atveju galite pabandyti, kaip tai veikia Aspose.Imaging bibliotekoje.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Naudodami Aspose.Imaging galite lengvai pritaikyti **Karikatūrizuoti** skirtingiems vaizdo formatams programmatiski
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Visas palaikomų operacijų Karikatūrizuoti sąrašas pagal vaizdo formatus:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

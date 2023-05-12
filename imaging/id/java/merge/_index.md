@@ -13,9 +13,15 @@ description: Menggunakan Aspose.Imaging Anda dapat dengan mudah Menggabungkan ga
 
 
 {{% blocks/products/pf/feature-page-section  h2="Semua gambar-gambar format yang didukung untuk operasi Menggabungkan" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Menggabungkan gambar operasi memungkinkan untuk menggabungkan 2 gambar atau lebih menjadi satu secara vertikal atau horizontal tanpa kehilangan kualitas. Kolase foto adalah pembuatan foto atau gambar baru dengan menggabungkan beberapa gambar, terkadang tidak terkait langsung satu sama lain. Efek yang diinginkan oleh fotografer dibuat dengan melapiskan satu gambar di atas yang lain atau dengan menggabungkan banyak (lebih dari 2) gambar menjadi satu kesatuan, terkadang dengan penggunaan gambar fotografi yang berbeda secara kacau (seperti teka-teki atau mozaik). Aspose.Imaging memungkinkan untuk membuat kolase yang berbeda menggunakan banyak format file.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Menggunakan Aspose.Imaging Anda dapat dengan mudah menerapkan **Menggabungkan** untuk berbagai format gambar secara terprogram
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Daftar lengkap operasi Menggabungkan yang didukung menurut format gambar:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

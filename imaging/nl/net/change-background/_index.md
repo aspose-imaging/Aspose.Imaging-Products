@@ -13,9 +13,15 @@ description: Met behulp van Aspose.Imaging kunt u eenvoudig Verander de achtergr
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde indelingen voor de bewerking afbeeldingen Verander de achtergrond" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Achtergrond wijzigen is een van de meest voorkomende bewerkingen die nodig zijn om uw foto's of afbeeldingen te verwerken. U kunt eenvoudig de achtergrond van een foto verwijderen en een object op de voorgrond op een andere plaatsen met Aspose.Imaging. Ook kunt u objecten op de voorgrond herkennen en indien nodig detecteren. Als gevolg hiervan kunt u een transparante achtergrond en proces krijgen zoals u nodig heeft.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Met Aspose.Imaging kunt u eenvoudig **Verander de achtergrond** toepassen voor verschillende afbeeldingsformaten programmatisch
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Volledige lijst met ondersteunde Verander de achtergrond-bewerkingen per afbeeldingsindeling:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

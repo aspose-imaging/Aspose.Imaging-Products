@@ -13,9 +13,16 @@ description: Usando Aspose.Imaging, você pode facilmente imagens Comprimir Via 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Todos os formatos suportados para a operação imagens Comprimir" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+A compactação de imagem é um tipo de compactação de dados usada para reduzir o custo de armazenamento ou transmissão de fotos digitais. Quando comparados com técnicas gerais de compressão de dados usadas para outros dados digitais, os algoritmos podem se beneficiar da percepção visual e das características estatísticas dos dados de imagem.
+Usando o Aspose.Imaging, você pode compactar diferentes tipos de imagem que podem atender a quase todas as suas necessidades.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Usando o Aspose.Imaging, você pode facilmente aplicar **Comprimir** para diferentes formatos de imagem programaticamente
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Lista completa de operações Comprimir suportadas por formatos de imagem:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

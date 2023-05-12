@@ -13,9 +13,15 @@ description: Using Aspose.Imaging you can easily Change background images Via ja
 
 
 {{% blocks/products/pf/feature-page-section  h2="All supported image formats for Change background operation" %}}
-Using Aspose.Imaging you can easily apply **Change background** for different image formats programmatically
-<br/>
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Change background is one of most common operations needed to process your photos or images. You can easily remove background from one your photo and put foreground object onto another using Aspose.Imaging. Also you can recognize foreground object and detect it if needed. As a result you may obtain transparent background and process as you need.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Using Aspose.Imaging you can easily apply <b>Change background</b> for different image formats programmatically
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Full list of supported Change background operations by image formats:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

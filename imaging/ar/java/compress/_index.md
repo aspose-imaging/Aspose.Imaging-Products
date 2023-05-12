@@ -13,9 +13,16 @@ description: باستخدام Aspose.Imaging يمكنك بسهولة ضغط ال
 
 
 {{% blocks/products/pf/feature-page-section  h2="جميع التنسيقا تالصور  المدعومة لعملية ضغط" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+ضغط الصور هو نوع من ضغط البيانات يستخدم لخفض تكلفة تخزين أو نقل الصور الرقمية. عند مقارنتها بتقنيات ضغط البيانات العامة المستخدمة في البيانات الرقمية الأخرى ، قد تستفيد الخوارزميات من الإدراك البصري والخصائص الإحصائية لبيانات الصورة.
+باستخدام Aspose: التصوير يمكنك ضغط أنواع مختلفة من الصور التي قد تناسب جميع احتياجاتك تقريبًا.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 باستخدام Aspose.Imaging ، يمكنك بسهولة تطبيق **ضغط** لتنسيقات الصور المختلفة برمجيا
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 القائمة الكاملة لعمليات ضغط المدعومة حسب تنسيقات الصور:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

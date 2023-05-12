@@ -13,9 +13,15 @@ description: Usando Aspose.Imaging, você pode facilmente imagens mesclar Via ne
 
 
 {{% blocks/products/pf/feature-page-section  h2="Todos os formatos suportados para a operação imagens mesclar" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+A operação de mesclagem de imagens permite combinar 2 ou mais imagens em uma vertical ou horizontalmente sem perder qualidade. A colagem de fotos é a criação de uma nova foto ou imagem combinando várias imagens, às vezes não diretamente relacionadas entre si. O efeito desejado pelo fotógrafo é criado pela sobreposição de uma imagem sobre a outra ou pela combinação de muitas (mais de 2) imagens em um único todo, às vezes com o uso caótico de diferentes imagens fotográficas (como um quebra-cabeça ou mosaico). Aspose.Imaging permite criar diferentes colagens usando uma grande quantidade de formatos de arquivo.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Usando o Aspose.Imaging, você pode facilmente aplicar **mesclar** para diferentes formatos de imagem programaticamente
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Lista completa de operações mesclar suportadas por formatos de imagem:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

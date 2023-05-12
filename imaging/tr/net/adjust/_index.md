@@ -13,9 +13,15 @@ description: Aspose.Imaging'i kullanarak, net Aracılığıyla kolayca Ayarlamak
 
 
 {{% blocks/products/pf/feature-page-section  h2="Ayarlamak işlemi Görüntüler için desteklenen tüm biçimler" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Görüntü kitaplıklarının çoğunun sunduğu temel özelliklerden biri, dijital fotoğraflar için renk düzeltmeleridir. Renk ayarlamaları aşağıdaki gibi birkaç kategori içerir: (1) Parlaklık terimi, bir tonun ne kadar açık veya koyu olduğunu tanımlar. Bir görüntüdeki tüm renkler, parlaklık artırıldığında aydınlatılır ve parlaklık azaltıldığında tüm renkler koyulaşır; (2) Bir görüntüde kontrast olduğunda, içindeki nesneler veya ayrıntılar daha fazla öne çıkar. Kontrast artırıldığında, aydınlık ve karanlık kısımlar arasındaki fark artarak, açık alanlar daha açık ve koyu bölümler daha koyu hale gelir. Daha açık ve daha koyu kısımlar, daha az kontrastla esasen aynı kalacaktır, ancak genel görüntü daha tekdüze görünecektir; (3) Gama, görüntüdeki bir nesneyi aydınlatan dolaylı aydınlatmanın parlaklığını ve kontrastını artırır. Aspose.Imaging, görüntülerin <b>Parlaklık</b>, <b>Gama</b> ve <b>Kontrast</b> ayarlarının yapılmasını destekler.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Aspose.Imaging'i kullanarak farklı görüntü formatları için **Ayarlamak** işlemini kolayca uygulayabilirsiniz programlı olarak
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Görüntü biçimlerine göre desteklenen {işlem adı} işlemlerinin tam listesi:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

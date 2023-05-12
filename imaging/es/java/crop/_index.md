@@ -13,9 +13,15 @@ description: Usando Aspose.Imaging puede fácilmente Cultivo imágenes a través
 
 
 {{% blocks/products/pf/feature-page-section  h2="Todos los imágenes formatos admitidos para la operación Cultivo" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Recortar es el proceso de eliminar elementos extraños de una fotografía o ilustración. La técnica generalmente implica la eliminación de una parte de la periferia de una imagen para eliminar información visual extraña de la fotografía, mejorar su encuadre, alterar la relación de aspecto o enfatizar o aislar al sujeto de su entorno. Esto se puede hacer digitalmente utilizando un software de edición de imágenes, o se puede hacer en una instantánea real, una obra de arte o una película, según la aplicación. Las industrias fotográfica, de procesamiento de películas, de radiodifusión, de diseño gráfico y de impresión utilizan el recorte. Aspose.Imaging le permite recortar imágenes con varios parámetros especificados.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Usando Aspose.Imaging puede aplicar fácilmente **Cultivo** para diferentes formatos de imagen programáticamente
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Lista completa de operaciones {nombre de operación} admitidas por formatos de imagen:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

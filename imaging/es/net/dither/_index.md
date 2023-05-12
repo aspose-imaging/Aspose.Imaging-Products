@@ -13,9 +13,15 @@ description: Usando Aspose.Imaging puede fácilmente Vacilar imágenes a través
 
 
 {{% blocks/products/pf/feature-page-section  h2="Todos los imágenes formatos admitidos para la operación Vacilar" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+En gráficos por computadora, el tramado se usa para dar la apariencia de profundidad de color en imágenes en sistemas con una paleta de colores restringida. Se utiliza una difusión de píxeles de colores de la paleta disponible en una imagen interpolada para aproximar los colores que no están presentes en la paleta. La difusión aparece al ojo humano como una mezcla de los colores que contiene. Las fotografías difuminadas suelen identificarse por un aspecto granuloso distintivo o moteado, especialmente cuando se utilizan paletas con pocos colores. El tramado agrega ruido o un patrón a una imagen, y el patrón suele ser obvio. Se ha demostrado que en estas condiciones, el dither producido por el ruido azul es el menos molesto y poco atractivo. Aspose.Imaging permite difuminar sus imágenes con algunos algoritmos que puede seleccionar según sus necesidades.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Usando Aspose.Imaging puede aplicar fácilmente **Vacilar** para diferentes formatos de imagen programáticamente
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Lista completa de operaciones {nombre de operación} admitidas por formatos de imagen:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

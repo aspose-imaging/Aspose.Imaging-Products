@@ -13,9 +13,15 @@ description: Med Aspose.Imaging kan du enkelt Ändra bakgrund bilder via java
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alla bilder format som stöds för operationen Ändra bakgrund" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Ändra bakgrund är en av de vanligaste operationerna som behövs för att bearbeta dina foton eller bilder. Du kan enkelt ta bort bakgrund från ett foto och placera förgrundsobjekt på ett annat med Aspose.Imaging. Du kan också känna igen förgrundsobjekt och upptäcka det om det behövs. Som ett resultat kan du få transparent bakgrund och process som du behöver.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Med Aspose.Imaging kan du enkelt använda **Ändra bakgrund** för olika bildformat programmatiskt
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Fullständig lista över Ändra bakgrund-operationer som stöds efter bildformat:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

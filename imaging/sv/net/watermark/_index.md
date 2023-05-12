@@ -13,9 +13,15 @@ description: Med Aspose.Imaging kan du enkelt Vattenstämpel bilder via net
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alla bilder format som stöds för operationen Vattenstämpel" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+En digital vattenstämpel är en typ av märkning som är subtilt inkorporerad i en signal som kan tolerera brus, som ljud-, video- eller bilddata. Det används ofta för att fastställa vem som äger upphovsrätten till en viss signal. Utövandet av vattenmärke involverar kodning av digital data till en bärsignal; den dolda datan bör, men behöver inte, relateras till bärvågssignalen. Bärsignalens legitimitet eller integritet kan bekräftas med hjälp av digitala vattenstämplar, och deras ägares identiteter kan också avslöjas. Det används ofta för sedelautentisering och för att spåra upphovsrättsintrång. Med Aspose.Imaging kan du enkelt lägga till din vattenstämpel till den valda bilden utan att behöva mycket kod.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Med Aspose.Imaging kan du enkelt använda **Vattenstämpel** för olika bildformat programmatiskt
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Fullständig lista över Vattenstämpel-operationer som stöds efter bildformat:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

@@ -13,9 +13,15 @@ description: En utilisant Aspose.Imaging, vous pouvez facilement Binariser image
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tous les images formats pris en charge pour l'opération Binariser" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Le premier plan et l'arrière-plan d'une image sont séparés à l'aide d'une technique appelée seuillage d'image. Ce procédé attribue les valeurs de pixel conformément aux valeurs de seuil données. Les images en niveaux de gris sont seuillées en vision par ordinateur. L'une des méthodes les plus connues est la binarisation par <b>Otsu</b> et par <b>Bradley</b>. Aspose.Imaging prend en charge les deux algorithmes. En utilisant ces algorithmes, vos images peuvent être converties en noir et blanc avec seuil.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 En utilisant Aspose.Imaging, vous pouvez facilement appliquer **Binariser** pour différents formats d'image par programmation
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Liste complète des opérations Binariser prises en charge par formats d'image :
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

@@ -13,9 +13,15 @@ description: Mit Aspose.Imaging können Sie ganz einfach Verschmelzen Bilder üb
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bilder Formate für den Vorgang Verschmelzen" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Mit der Funktion „Bilder zusammenführen“ können zwei oder mehr Bilder vertikal oder horizontal zu einem kombiniert werden, ohne dass die Qualität darunter leidet. Unter einer Fotocollage versteht man die Erstellung eines neuen Fotos oder Bildes durch die Kombination mehrerer Bilder, die manchmal nicht direkt miteinander in Zusammenhang stehen. Der vom Fotografen gewünschte Effekt entsteht durch die Überlagerung eines Bildes mit einem anderen oder durch die Kombination vieler (mehr als 2) Bilder zu einem Ganzen, manchmal unter chaotischer Verwendung verschiedener fotografischer Bilder (z. B. als Puzzle oder Mosaik). Aspose.Imaging ermöglicht die Erstellung verschiedener Collagen mit einer Vielzahl von Dateiformaten.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Mit Aspose.Imaging können Sie ganz einfach **Verschmelzen** für verschiedene Bildformate anwenden programmatisch
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Vollständige Liste der unterstützten Verschmelzen-Vorgänge nach Bildformaten:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

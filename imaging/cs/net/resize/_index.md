@@ -13,9 +13,15 @@ description: Pomocí Aspose.Imaging můžete snadno Změnit velikost obrázky p�
 
 
 {{% blocks/products/pf/feature-page-section  h2="Všechny podporované snímky formáty pro operaci Změnit velikost" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Můžete změnit velikost obrázku tak, aby byl větší nebo menší, aniž byste museli odstraňovat jakýkoli obsah. Rozměry obrázku se při změně velikosti změní, což má často vliv na velikost souboru a kvalitu obrázku. Zmenšení velikosti obrovských obrázků, aby bylo snazší je poslat e-mailem nebo sdílet online, je nejoblíbenějším důvodem pro zmenšování fotografií. Obrázky rastrové grafiky musí být zmenšeny vytvořením nového obrázku s více či méně pixely. Aspose.Imaging umožňuje uživatelům různé algoritmy pro změnu velikosti, které umožňují vybrat si potřebné.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Pomocí Aspose.Imaging můžete snadno použít **Změnit velikost** pro různé formáty obrázků programově
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Úplný seznam podporovaných operací Změnit velikost podle formátů obrázků:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

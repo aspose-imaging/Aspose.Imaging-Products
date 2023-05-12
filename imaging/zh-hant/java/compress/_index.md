@@ -13,9 +13,16 @@ description: 使用 Aspose.Imaging 你可以輕鬆地通過 java 獲取 壓縮 �
 
 
 {{% blocks/products/pf/feature-page-section  h2="壓縮 操作的所有支持格式 圖片" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+圖像壓縮是一種數據壓縮，用於降低存儲或傳輸數碼照片的成本。與用於其他數字數據的一般數據壓縮技術相比，算法可能受益於視覺感知和圖片數據的統計特性。
+使用 Aspose.Imaging，您可以壓縮幾乎可以滿足您所有需求的不同圖像類型。
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 使用 Aspose.Imaging 您可以輕鬆地將 **壓縮** 應用於不同的圖像格式 以編程方式
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 按圖像格式支持的 壓縮 操作的完整列表：
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

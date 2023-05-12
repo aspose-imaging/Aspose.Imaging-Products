@@ -13,9 +13,15 @@ description: Met behulp van Aspose.Imaging kunt u eenvoudig Binariseren afbeeldi
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde indelingen voor de bewerking afbeeldingen Binariseren" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+De voor- en achtergrond van een afbeelding worden gescheiden met behulp van een techniek die afbeeldingsdrempels wordt genoemd. Deze methode wijst de pixelwaarden toe in overeenstemming met de gegeven drempelwaarden. Afbeeldingen in grijswaarden worden gedrempeld in computervisie. Een van de meest bekende methoden is binarisatie door <b>Otsu</b> en door <b>Bradley</b>. Aspose.Imaging ondersteunt beide algoritmen. Met behulp van die algoritmen kunnen uw afbeeldingen worden geconverteerd naar zwart-wit met drempelwaarde.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Met Aspose.Imaging kunt u eenvoudig **Binariseren** toepassen voor verschillende afbeeldingsformaten programmatisch
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Volledige lijst met ondersteunde Binariseren-bewerkingen per afbeeldingsindeling:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

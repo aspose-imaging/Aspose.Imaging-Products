@@ -13,9 +13,15 @@ description: Med Aspose.Imaging kan du enkelt Sammanfoga bilder via java
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alla bilder format som stöds för operationen Sammanfoga" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Genom att slå samman bilder kan du kombinera 2 eller fler bilder till en vertikalt eller horisontellt utan att förlora kvalitet. Fotocollage är att skapa ett nytt foto eller bild genom att kombinera flera bilder, ibland inte direkt relaterade till varandras bilder. Den effekt som fotografen önskar skapas genom att lägga en bild på en annan eller genom att kombinera många (fler än 2) bilder till en enda helhet, ibland med kaotisk användning av olika fotografiska bilder (som ett pussel eller mosaik). Aspose.Imaging gör det möjligt att skapa olika collage med ett stort antal filformat.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Med Aspose.Imaging kan du enkelt använda **Sammanfoga** för olika bildformat programmatiskt
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Fullständig lista över Sammanfoga-operationer som stöds efter bildformat:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

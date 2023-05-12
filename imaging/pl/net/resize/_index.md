@@ -13,9 +13,15 @@ description: Używając Aspose.Imaging możesz łatwo Zmień rozmiar obrazy Via 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty operacji obrazy Zmień rozmiar" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Możesz zmienić rozmiar obrazu, aby był większy lub mniejszy, bez konieczności usuwania jakiejkolwiek zawartości. Wymiary obrazu zmieniają się podczas zmiany rozmiaru, co często ma wpływ na rozmiar pliku i jakość obrazu. Zmniejszanie rozmiaru dużych zdjęć w celu ułatwienia wysyłania ich pocztą e-mail lub udostępniania w Internecie to najpopularniejsze uzasadnienie zmniejszania zdjęć. Obrazy grafiki rastrowej należy skalować, tworząc nowy obraz z większą lub mniejszą liczbą pikseli. Aspose.Imaging pozwala użytkownikom na różne algorytmy zmiany rozmiaru, które pozwalają wybrać potrzebne.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Używając Aspose.Imaging możesz łatwo zastosować **Zmień rozmiar** dla różnych formatów obrazów programowo
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Pełna lista obsługiwanych operacji Zmień rozmiar według formatów obrazu:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

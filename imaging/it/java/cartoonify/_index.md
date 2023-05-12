@@ -13,9 +13,15 @@ description: Usando Aspose.Imaging puoi facilmente Cartoonizza immagini tramite 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tutti i immagini formati supportati per l'operazione Cartoonizza" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+La conversione di foto in cartoni animati è una delle operazioni comuni utilizzate da molti artisti. Aiuta a ottenere foto animate in pochi clic senza eseguire alcun lavoro di pittura. Vuoi trasformare rapidamente un'immagine standard in un'immagine a fumetti? In questo caso puoi provare come funziona nella libreria Aspose.Imaging.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Usando Aspose.Imaging puoi facilmente applicare **Cartoonizza** per diversi formati di immagine programmaticamente
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Elenco completo delle operazioni Cartoonizza supportate per formati immagine:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

@@ -13,9 +13,16 @@ description: Using Aspose.Imaging you can easily Compress images Via java
 
 
 {{% blocks/products/pf/feature-page-section  h2="All supported image formats for Compress operation" %}}
-Using Aspose.Imaging you can easily apply **Compress** for different image formats programmatically
-<br/>
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Image compression is a sort of data compression used to lower the cost of storing or transmitting digital photos. When compared to general data compression techniques used for other digital data, algorithms may benefit from visual perception and the statistical characteristics of picture data.
+Using Aspose.Imaging you can compress different image types that may suit almostly all of your needs.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Using Aspose.Imaging you can easily apply <b>Compress</b> for different image formats programmatically
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Full list of supported Compress operations by image formats:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

@@ -13,9 +13,15 @@ description: Aspose.Imaging を使用すると、net 経由で簡単に 背景�
 
 
 {{% blocks/products/pf/feature-page-section  h2="背景を変更 操作でサポートされているすべての形式 画像" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+背景の変更は、写真や画像を処理するために必要な最も一般的な操作の 1 つです。 Aspose.Imaging を使用すると、ある写真から背景を簡単に削除し、別の写真に前景オブジェクトを配置できます。また、前景のオブジェクトを認識し、必要に応じて検出することもできます。その結果、透明な背景が得られ、必要に応じて処理することができます。
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Aspose.Imaging を使用すると、さまざまな画像フォーマットに **背景を変更** を簡単に適用できます プログラム的に
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 画像形式ごとにサポートされている 背景を変更 操作の完全なリスト:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

@@ -13,9 +13,15 @@ description: Usando Aspose.Imaging puede fácilmente binarizar imágenes a trav�
 
 
 {{% blocks/products/pf/feature-page-section  h2="Todos los imágenes formatos admitidos para la operación binarizar" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+El primer plano y el fondo de una imagen se separan mediante una técnica denominada umbralización de imágenes. Este método asigna los valores de píxel de acuerdo con los valores de umbral dados. Las imágenes en escala de grises tienen un umbral en la visión artificial. Uno de los métodos más conocidos es la Binarización por <b>Otsu</b> y por <b>Bradley</b>. Aspose.Imaging admite ambos algoritmos. Usando esos algoritmos, sus imágenes se pueden convertir a blanco y negro con umbral.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Usando Aspose.Imaging puede aplicar fácilmente **binarizar** para diferentes formatos de imagen programáticamente
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Lista completa de operaciones {nombre de operación} admitidas por formatos de imagen:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

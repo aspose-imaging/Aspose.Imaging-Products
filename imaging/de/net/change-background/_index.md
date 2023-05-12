@@ -13,9 +13,15 @@ description: Mit Aspose.Imaging können Sie ganz einfach Hintergrund ändern Bil
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bilder Formate für den Vorgang Hintergrund ändern" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Das Ändern des Hintergrunds ist einer der häufigsten Vorgänge, die zum Bearbeiten Ihrer Fotos oder Bilder erforderlich sind. Mit Aspose.Imaging können Sie ganz einfach den Hintergrund von einem Ihrer Fotos entfernen und ein Vordergrundobjekt auf ein anderes setzen. Außerdem können Sie Vordergrundobjekte erkennen und bei Bedarf erkennen. Dadurch erhalten Sie einen transparenten Hintergrund und können ihn nach Bedarf verarbeiten.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Mit Aspose.Imaging können Sie ganz einfach **Hintergrund ändern** für verschiedene Bildformate anwenden programmatisch
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Vollständige Liste der unterstützten Hintergrund ändern-Vorgänge nach Bildformaten:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

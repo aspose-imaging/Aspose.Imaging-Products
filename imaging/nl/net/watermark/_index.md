@@ -13,9 +13,15 @@ description: Met behulp van Aspose.Imaging kunt u eenvoudig Watermerk afbeelding
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde indelingen voor de bewerking afbeeldingen Watermerk" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Een digitaal watermerk is een soort markering die subtiel is verwerkt in een signaal dat ruis kan verdragen, zoals audio-, video- of beeldgegevens. Het wordt vaak gebruikt om vast te stellen wie het auteursrecht op een bepaald signaal bezit. De praktijk van watermerken omvat het coderen van digitale gegevens in een draaggolfsignaal; de verborgen gegevens zouden, maar hoeven niet gerelateerd te zijn aan het draaggolfsignaal. De legitimiteit of integriteit van het draaggolfsignaal kan worden bevestigd met behulp van digitale watermerken en de identiteit van de eigenaren kan ook worden onthuld. Het wordt vaak gebruikt voor authenticatie van bankbiljetten en voor het opsporen van auteursrechtschendingen. Met Aspose.Imaging kunt u eenvoudig uw watermerk aan de geselecteerde afbeelding toevoegen zonder dat u veel code nodig heeft.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Met Aspose.Imaging kunt u eenvoudig **Watermerk** toepassen voor verschillende afbeeldingsformaten programmatisch
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Volledige lijst met ondersteunde Watermerk-bewerkingen per afbeeldingsindeling:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

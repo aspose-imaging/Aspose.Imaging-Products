@@ -13,9 +13,15 @@ description: Używając Aspose.Imaging możesz łatwo Łączyć obrazy Via java
 
 
 {{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty operacji obrazy Łączyć" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Operacja scalania obrazów umożliwia łączenie 2 lub więcej obrazów w jeden w pionie lub poziomie bez utraty jakości. Kolaż zdjęć to tworzenie nowego zdjęcia lub obrazu poprzez połączenie kilku zdjęć, czasami nie powiązanych bezpośrednio ze sobą. Pożądany przez fotografa efekt uzyskuje się poprzez nałożenie jednego obrazu na drugi lub połączenie wielu (więcej niż 2) obrazów w jedną całość, czasami z chaotycznym wykorzystaniem różnych obrazów fotograficznych (np. puzzli lub mozaiki). Aspose.Imaging umożliwia tworzenie różnych kolaży przy użyciu szerokiej gamy formatów plików.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Używając Aspose.Imaging możesz łatwo zastosować **Łączyć** dla różnych formatów obrazów programowo
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Pełna lista obsługiwanych operacji Łączyć według formatów obrazu:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

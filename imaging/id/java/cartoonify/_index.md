@@ -13,9 +13,15 @@ description: Menggunakan Aspose.Imaging Anda dapat dengan mudah Buat kartun gamb
 
 
 {{% blocks/products/pf/feature-page-section  h2="Semua gambar-gambar format yang didukung untuk operasi Buat kartun" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Konversi foto ke kartun adalah salah satu operasi umum yang digunakan oleh banyak seniman. Ini membantu untuk mendapatkan foto kartun dalam beberapa klik tanpa melakukan pekerjaan melukis apa pun. Ingin mengubah gambar standar menjadi gambar kartun dengan cepat? Dalam hal ini Anda dapat mencoba cara kerjanya di pustaka Aspose.Imaging.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Menggunakan Aspose.Imaging Anda dapat dengan mudah menerapkan **Buat kartun** untuk berbagai format gambar secara terprogram
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Daftar lengkap operasi Buat kartun yang didukung menurut format gambar:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

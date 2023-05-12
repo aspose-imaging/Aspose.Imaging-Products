@@ -13,9 +13,15 @@ description: Aspose.Imaging을 사용하면 net을 통해 쉽게 그레이스케
 
 
 {{% blocks/products/pf/feature-page-section  h2="그레이스케일 작업에 대해 지원되는 모든 형식 이미지" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+그레이스케일 이미지는 각 픽셀의 값이 빛의 양만을 나타내는 단일 샘플인 이미지입니다. 즉, 강도 정보만 전달합니다. 그레이스케일 이미지는 디지털 사진, 컴퓨터 생성 이미징 및 색채 측정에 사용됩니다. 회색 음영은 흑백 또는 회색 단색 유형인 회색 음영 이미지만 구성합니다. 검정은 대비가 가장 낮고 흰색은 대비가 가장 큽니다. 그레이스케일 이미지는 컴퓨터 이미징의 맥락에서 흑백(이중 레벨 또는 이진 이미지라고도 함)의 두 가지 색상만 있는 이미지인 1비트 이중 톤 흑백 이미지와 구별됩니다. 그레이 스케일 사진에는 그 사이에 수많은 회색 음영이 있습니다. Aspose.Imaging을 사용하면 다양한 형식의 이미지를 그레이스케일할 수 있습니다.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Aspose.Imaging을 사용하면 다양한 이미지 형식에 **그레이스케일** 을(를) 쉽게 적용할 수 있습니다 프로그래밍 방식으로. 
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 이미지 형식별로 지원되는 그레이스케일 작업의 전체 목록:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

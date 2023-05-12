@@ -13,9 +13,15 @@ description: Pomocí Aspose.Imaging můžete snadno Cartoonify obrázky přes ne
 
 
 {{% blocks/products/pf/feature-page-section  h2="Všechny podporované snímky formáty pro operaci Cartoonify" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Převod fotografie do karikatury je jednou z běžných operací mnoha umělců. Pomáhá získat kreslenou fotografii několika kliknutími, aniž byste museli provádět malování. Chcete rychle změnit standardní obrázek na kreslený obrázek? V tomto případě si můžete vyzkoušet, jak to funguje v knihovně Aspose.Imaging.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Pomocí Aspose.Imaging můžete snadno použít **Cartoonify** pro různé formáty obrázků programově
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Úplný seznam podporovaných operací Cartoonify podle formátů obrázků:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

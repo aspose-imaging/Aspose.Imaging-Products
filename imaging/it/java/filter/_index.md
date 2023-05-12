@@ -13,9 +13,15 @@ description: Usando Aspose.Imaging puoi facilmente Filtro immagini tramite java
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tutti i immagini formati supportati per l'operazione Filtro" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+In fotografia e cinematografia, un filtro è un accessorio della fotocamera costituito da un filtro ottico che può essere inserito nel percorso ottico. Il filtro può essere di forma quadrata o oblunga e montato in un accessorio di supporto o, più comunemente, un disco di vetro o plastica in un telaio ad anello di metallo o plastica, che può essere avvitato nella parte anteriore o agganciato all'obiettivo della fotocamera. I filtri alterano le immagini registrate. Sono utilizzati per alterare le fotografie a volte molto poco, altre volte sono assolutamente necessari per la creazione dell'immagine. Nella fotografia monocromatica, i filtri colorati modificano la luminosità relativa dei vari colori; il rossetto rosso potrebbe sembrare ovunque tra quasi bianco e quasi nero a seconda del filtro utilizzato. Altri regolano il bilanciamento del colore dell'immagine in modo che gli scatti effettuati con illuminazione a incandescenza mostrino i colori così come vengono percepiti anziché con una sfumatura rossastra. Esistono filtri che distorcono intenzionalmente l'immagine, aggiungendo un aspetto stellato a un'immagine altrimenti nitida, ecc. I riflessi obliqui da superfici non metalliche vengono ridotti utilizzando filtri polarizzatori lineari e circolari. Aspose.Imaging supporta filtri come Gaussian Blur, Sharpen, Median Filter, Motion Weiner e molti altri.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Usando Aspose.Imaging puoi facilmente applicare **Filtro** per diversi formati di immagine programmaticamente
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Elenco completo delle operazioni Filtro supportate per formati immagine:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

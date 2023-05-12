@@ -13,9 +13,15 @@ description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng nhị phân 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tất cả các hình ảnh định dạng được hỗ trợ cho thao tác nhị phân hóa" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Tiền cảnh và hậu cảnh của một hình ảnh được phân tách bằng một kỹ thuật gọi là tạo ngưỡng hình ảnh. Phương pháp này gán các giá trị pixel theo các giá trị ngưỡng đã cho. Hình ảnh thang độ xám được ngưỡng trong thị giác máy tính. Một trong những phương pháp được biết đến nhiều nhất là Binarization của <b>Otsu</b> và của <b>Bradley</b>. Aspose.Imaging hỗ trợ cả hai thuật toán. Sử dụng các thuật toán đó, hình ảnh của bạn có thể được chuyển đổi thành đen trắng với ngưỡng.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Sử dụng Aspose.Imaging, bạn có thể dễ dàng áp dụng **nhị phân hóa** cho các định dạng hình ảnh khác nhau lập trình
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Danh sách đầy đủ các thao tác nhị phân hóa được hỗ trợ theo định dạng hình ảnh:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

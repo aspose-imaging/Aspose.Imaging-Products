@@ -13,9 +13,15 @@ description: En utilisant Aspose.Imaging, vous pouvez facilement Voir l'image im
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tous les images formats pris en charge pour l'opération Voir l'image" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Lorsque vous avez besoin d'afficher votre image ou photo qui n'a pas un format très peuplé, vous pouvez facilement la prévisualiser convertie au format populaire. En utilisant Aspose.Imaging, vous pouvez afficher différents fichiers image sans installer de programmes spéciaux spécifiques à différents formats d'image.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 En utilisant Aspose.Imaging, vous pouvez facilement appliquer **Voir l'image** pour différents formats d'image par programmation
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Liste complète des opérations Voir l'image prises en charge par formats d'image :
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

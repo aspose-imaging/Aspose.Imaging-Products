@@ -13,9 +13,15 @@ description: เมื่อใช้ Aspose.Imaging คุณสามารถ
 
 
 {{% blocks/products/pf/feature-page-section  h2="รูปแบบที่รอ ภาพ งรับทั้งหมดสำหรับการดำเนินการ ดูภาพ" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+เมื่อคุณต้องการดูภาพหรือภาพถ่ายที่มีฟอร์แมตไม่กว้าง คุณสามารถดูตัวอย่างที่แปลงเป็นรูปแบบยอดนิยมได้อย่างง่ายดาย เมื่อใช้ Aspose.Imaging คุณสามารถดูไฟล์รูปภาพต่างๆ ได้โดยไม่ต้องติดตั้งโปรแกรมพิเศษเฉพาะสำหรับรูปแบบรูปภาพต่างๆ
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 เมื่อใช้ Aspose.Imaging คุณสามารถใช้ **ดูภาพ** สำหรับรูปแบบภาพต่างๆ ได้อย่างง่ายดาย โดยทางโปรแกรม
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 รายการทั้งหมดของการดำเนินการ ดูภาพ ที่รองรับตามรูปแบบอิมเมจ:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

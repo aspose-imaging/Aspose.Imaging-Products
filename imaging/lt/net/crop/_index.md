@@ -13,9 +13,15 @@ description: Naudodami Aspose.Imaging galite lengvai sukurti Apkarpyti vaizdus p
 
 
 {{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Apkarpyti attēlus formatai" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Apkarpymas yra pašalinių elementų pašalinimo iš nuotraukos ar iliustracijos procesas. Taikant šią techniką paprastai pašalinama dalis vaizdo periferijos, siekiant pašalinti pašalinę vaizdinę informaciją iš nuotraukos, pagerinti jos kadravimą, pakeisti kraštinių santykį arba pabrėžti ar atskirti objektą nuo jo aplinkos. Tai galima padaryti skaitmeniniu būdu, naudojant vaizdų redagavimo programinę įrangą, arba tai gali būti padaryta naudojant tikrą momentinę nuotrauką, meno kūrinį ar filmą, priklausomai nuo programos. Fotografijos, filmų apdorojimo, transliavimo, grafinio dizaino ir spausdinimo pramonė naudoja apkarpymą. Aspose.Imaging leidžia apkarpyti vaizdus su nurodytais įvairiais parametrais.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Naudodami Aspose.Imaging galite lengvai pritaikyti **Apkarpyti** skirtingiems vaizdo formatams programmatiski
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Visas palaikomų operacijų Apkarpyti sąrašas pagal vaizdo formatus:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

@@ -13,9 +13,16 @@ description: Mit Aspose.Imaging können Sie ganz einfach Kompresse Bilder über 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bilder Formate für den Vorgang Kompresse" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Bei der Bildkomprimierung handelt es sich um eine Art Datenkomprimierung, mit der die Kosten für die Speicherung oder Übertragung digitaler Fotos gesenkt werden. Im Vergleich zu allgemeinen Datenkomprimierungstechniken, die für andere digitale Daten verwendet werden, können Algorithmen von der visuellen Wahrnehmung und den statistischen Eigenschaften von Bilddaten profitieren.
+Mit Aspose.Imaging können Sie verschiedene Bildtypen komprimieren, die fast allen Ihren Anforderungen entsprechen.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Mit Aspose.Imaging können Sie ganz einfach **Kompresse** für verschiedene Bildformate anwenden programmatisch
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Vollständige Liste der unterstützten Kompresse-Vorgänge nach Bildformaten:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

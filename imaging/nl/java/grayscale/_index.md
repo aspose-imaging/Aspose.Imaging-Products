@@ -13,9 +13,15 @@ description: Met behulp van Aspose.Imaging kunt u eenvoudig Grijstinten afbeeldi
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde indelingen voor de bewerking afbeeldingen Grijstinten" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Een afbeelding in grijswaarden is een afbeelding waarin de waarde van elke pixel een enkel monster is dat alleen een hoeveelheid licht aangeeft; dat wil zeggen, het brengt alleen intensiteitsinformatie over. Afbeeldingen in grijswaarden worden gebruikt in digitale fotografie, computergegenereerde beeldvorming en colorimetrie. Grijstinten vormen alleen afbeeldingen in grijswaarden, een soort zwart-wit of grijs monochroom. Zwart heeft het laagste contrast terwijl wit het meeste contrast heeft. Afbeeldingen in grijstinten onderscheiden zich van één-bits tweekleurige zwart-witafbeeldingen, dit zijn afbeeldingen met slechts twee kleuren: zwart-wit (ook bekend als bilevel- of binaire afbeeldingen) in de context van computerbeeldvorming. Er zitten talloze grijstinten tussen in grijswaardenfoto's. Met Aspose.Imaging kunt u uw afbeeldingen in verschillende formaten grijstinten maken.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Met Aspose.Imaging kunt u eenvoudig **Grijstinten** toepassen voor verschillende afbeeldingsformaten programmatisch
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Volledige lijst met ondersteunde Grijstinten-bewerkingen per afbeeldingsindeling:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

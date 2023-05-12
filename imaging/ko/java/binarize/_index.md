@@ -13,9 +13,15 @@ description: Aspose.Imaging을 사용하면 java을 통해 쉽게 이진화 이�
 
 
 {{% blocks/products/pf/feature-page-section  h2="이진화 작업에 대해 지원되는 모든 형식 이미지" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+이미지의 전경과 배경은 이미지 임계값이라는 기술을 사용하여 분리됩니다. 이 방법은 주어진 임계값에 따라 픽셀 값을 할당합니다. 그레이스케일 이미지는 컴퓨터 비전에서 임계값으로 지정됩니다. 가장 잘 알려진 방법 중 하나는 <b>Otsu</b>와 <b>Bradley</b>의 이진화입니다. Aspose.Imaging은 두 알고리즘을 모두 지원합니다. 이러한 알고리즘을 사용하여 이미지를 임계값이 있는 흑백으로 변환할 수 있습니다.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Aspose.Imaging을 사용하면 다양한 이미지 형식에 **이진화** 을(를) 쉽게 적용할 수 있습니다 프로그래밍 방식으로. 
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 이미지 형식별로 지원되는 이진화 작업의 전체 목록:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

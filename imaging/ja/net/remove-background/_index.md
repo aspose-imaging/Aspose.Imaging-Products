@@ -13,9 +13,15 @@ description: Aspose.Imaging を使用すると、net 経由で簡単に 背景�
 
 
 {{% blocks/products/pf/feature-page-section  h2="背景を削除 操作でサポートされているすべての形式 画像" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+背景の削除は、写真や画像から背景を簡単に削除できる操作です。背景を削除した結果、透明な背景を取得し、前景を別の背景に配置することができます。 Aspose.Imaging を使用すると、さまざまな画像のニーズに合うさまざまな背景削除アルゴリズムを試すことができます。
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Aspose.Imaging を使用すると、さまざまな画像フォーマットに **背景を削除** を簡単に適用できます プログラム的に
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 画像形式ごとにサポートされている 背景を削除 操作の完全なリスト:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

@@ -13,9 +13,15 @@ description: Med Aspose.Imaging kan du enkelt Ta bort bakgrund bilder via net
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alla bilder format som stöds för operationen Ta bort bakgrund" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Ta bort bakgrund är en operation som gör att du enkelt kan ta bort bakgrund från dina foton eller bilder. Som ett resultat av bakgrundsborttagning kan du få genomskinlig bakgrund och sätta förgrunden till en annan bakgrund. Med Aspose.Imaging kan du prova olika algoritmer för borttagning av bakgrund som kan passa dina behov för olika bilder.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Med Aspose.Imaging kan du enkelt använda **Ta bort bakgrund** för olika bildformat programmatiskt
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Fullständig lista över Ta bort bakgrund-operationer som stöds efter bildformat:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

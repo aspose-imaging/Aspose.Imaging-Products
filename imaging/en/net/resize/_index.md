@@ -13,9 +13,15 @@ description: Using Aspose.Imaging you can easily Resize images Via net
 
 
 {{% blocks/products/pf/feature-page-section  h2="All supported image formats for Resize operation" %}}
-Using Aspose.Imaging you can easily apply **Resize** for different image formats programmatically
-<br/>
+<p align="justify" style="text-indent:2em;font-size:15px;">
+You can resize an image to make it bigger or smaller without having to remove any content. The image's dimensions are changed when it is resized, which often has an impact on the file size and image quality. Reducing the size of huge pictures to make them easier to email or share online is the most popular justification for shrinking photos. Raster graphics images must be scaled by creating a new image with more or less pixels. Aspose.Imaging allows for users different resize algorithms that allows to choose needed.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Using Aspose.Imaging you can easily apply <b>Resize</b> for different image formats programmatically
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Full list of supported Resize operations by image formats:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

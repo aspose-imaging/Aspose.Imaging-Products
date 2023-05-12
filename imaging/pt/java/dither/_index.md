@@ -13,9 +13,15 @@ description: Usando Aspose.Imaging, você pode facilmente imagens Dither Via jav
 
 
 {{% blocks/products/pf/feature-page-section  h2="Todos os formatos suportados para a operação imagens Dither" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Em computação gráfica, o pontilhamento é usado para dar a aparência de profundidade de cor em imagens em sistemas com uma paleta de cores restrita. Uma difusão de pixels coloridos da paleta disponível é usada em uma imagem pontilhada para aproximar as cores que não estão presentes na paleta. A difusão aparece ao olho humano como uma mistura das cores contidas nela. As fotografias pontilhadas são frequentemente identificáveis ​​por uma granulação distinta ou aparência salpicada, especialmente ao utilizar paletas com poucas cores. O pontilhamento adiciona ruído ou um padrão a uma imagem, e o padrão costuma ser óbvio. Foi demonstrado que, nessas condições, o dither produzido pelo ruído azul é o menos irritante e pouco atraente. Aspose.Imaging permite pontilhar suas imagens com alguns algoritmos que você pode selecionar necessários para sua necessidade.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Usando o Aspose.Imaging, você pode facilmente aplicar **Dither** para diferentes formatos de imagem programaticamente
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Lista completa de operações Dither suportadas por formatos de imagem:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

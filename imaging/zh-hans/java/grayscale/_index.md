@@ -13,9 +13,15 @@ description: 使用 Aspose.Imaging 你可以轻松地通过 java 获取 灰阶 �
 
 
 {{% blocks/products/pf/feature-page-section  h2="灰阶 操作的所有支持格式图片" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+灰度图像是这样一种图像，其中每个像素的值是单个样本，仅表示一定量的光；也就是说，它只传达强度信息。灰度图像用于数码摄影、计算机生成的成像和比色法。灰色阴影仅构成灰度图像，一种黑白或灰色单色。黑色的对比度最低，而白色的对比度最高。灰度图像不同于一位黑白图像，在计算机成像的上下文中，黑白图像是只有两种颜色的图像：黑色和白色（也称为二值或二值图像）。灰度照片之间有许多灰色阴影。使用 Aspose.Imaging 您可以对不同格式的图像进行灰度化。
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 使用 Aspose.Imaging 您可以轻松地将 **灰阶** 应用于不同的图像格式 以编程方式
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 按图像格式支持的 灰阶 操作的完整列表：
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

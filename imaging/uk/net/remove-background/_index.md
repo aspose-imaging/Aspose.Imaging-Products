@@ -13,9 +13,15 @@ description: Використовуючи Aspose.Imaging, ви можете ле
 
 
 {{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для операції Видалити фон" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Видалити фон — це операція, яка дозволяє легко видалити фон із фотографій або зображень. У результаті видалення фону можна отримати прозорий фон і поставити передній план на інший фон. Використовуючи Aspose.Imaging, ви можете спробувати різні алгоритми видалення фону, які можуть відповідати вашим потребам для різних зображень.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Використовуючи Aspose.Imaging, ви можете легко виконати операцiю **Видалити фон** для  зображень різних форматів програмно
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Повний список підтримуваних операцій Видалити фон за форматами зображень:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

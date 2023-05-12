@@ -13,9 +13,15 @@ description: 使用 Aspose.Imaging 你可以轻松地通过 java 获取 二值�
 
 
 {{% blocks/products/pf/feature-page-section  h2="二值化 操作的所有支持格式图片" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+使用称为图像阈值化的技术分离图像的前景和背景。该方法根据给定的阈值分配像素值。灰度图像在计算机视觉中被阈值化。最著名的方法之一是 <b>Otsu</b> 和 <b>Bradley</b> 提出的二值化方法。 Aspose.Imaging 支持这两种算法。使用这些算法，您的图像可以转换为具有阈值的黑白图像。
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 使用 Aspose.Imaging 您可以轻松地将 **二值化** 应用于不同的图像格式 以编程方式
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 按图像格式支持的 二值化 操作的完整列表：
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

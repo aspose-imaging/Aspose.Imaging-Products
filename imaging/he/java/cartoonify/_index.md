@@ -13,9 +13,15 @@ description: באמצעות Aspose.Imaging תוכל בקלות Cartoonify תמו
 
 
 {{% blocks/products/pf/feature-page-section  h2="כל הפורמטים  תמונות הנתמכים עבור פעולת Cartoonify" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+המרת תמונה לקריקטורה היא אחת הפעולות הנפוצות בשימוש על ידי הרבה אמנים. זה עוזר להשיג תמונה מצוירת בכמה קליקים מבלי לבצע שום עבודת צביעה. רוצה להפוך במהירות תמונה סטנדרטית לתמונה מצוירת? במקרה זה אתה יכול לנסות איך זה עובד בספריית Aspose.Imaging.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 באמצעות Aspose.Imaging אתה יכול בקלות להחיל את **Cartoonify** עבור פורמטים שונים של תמונה באופן תוכניתי
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 רשימה מלאה של פעולות Cartoonify נתמכות לפי פורמטים של תמונה:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

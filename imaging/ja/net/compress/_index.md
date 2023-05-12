@@ -13,9 +13,16 @@ description: Aspose.Imaging を使用すると、net 経由で簡単に 圧縮�
 
 
 {{% blocks/products/pf/feature-page-section  h2="圧縮する 操作でサポートされているすべての形式 画像" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+画像圧縮は、デジタル写真の保存または送信のコストを削減するために使用されるデータ圧縮の一種です。他のデジタル データに使用される一般的なデータ圧縮技術と比較すると、アルゴリズムは画像データの視覚的認識と統計的特性から恩恵を受ける可能性があります。
+Aspose.Imaging を使用すると、ほぼすべてのニーズを満たす可能性のあるさまざまな種類の画像を圧縮できます。
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Aspose.Imaging を使用すると、さまざまな画像フォーマットに **圧縮する** を簡単に適用できます プログラム的に
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 画像形式ごとにサポートされている 圧縮する 操作の完全なリスト:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

@@ -13,9 +13,15 @@ description: Aspose.Imaging を使用すると、java 経由で簡単に サイ�
 
 
 {{% blocks/products/pf/feature-page-section  h2="サイズ変更 操作でサポートされているすべての形式 画像" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+コンテンツを削除しなくても、画像のサイズを変更して大きくしたり小さくしたりできます。サイズを変更すると画像の寸法が変更されるため、多くの場合、ファイル サイズと画質に影響します。巨大な写真のサイズを小さくして、電子メールで送信したり、オンラインで共有したりしやすくすることが、写真を縮小する最も一般的な理由です。ラスター グラフィックス イメージは、多かれ少なかれピクセルを含む新しいイメージを作成してスケーリングする必要があります。 Aspose.Imaging を使用すると、ユーザーは必要に応じてさまざまなサイズ変更アルゴリズムを選択できます。
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Aspose.Imaging を使用すると、さまざまな画像フォーマットに **サイズ変更** を簡単に適用できます プログラム的に
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 画像形式ごとにサポートされている サイズ変更 操作の完全なリスト:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

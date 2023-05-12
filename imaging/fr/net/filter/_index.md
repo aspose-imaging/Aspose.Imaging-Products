@@ -13,9 +13,15 @@ description: En utilisant Aspose.Imaging, vous pouvez facilement Filtre images V
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tous les images formats pris en charge pour l'opération Filtre" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+En photographie et en cinématographie, un filtre est un accessoire d'appareil photo constitué d'un filtre optique pouvant être inséré dans le chemin optique. Le filtre peut être de forme carrée ou oblongue et monté dans un accessoire de support, ou, plus communément, un disque en verre ou en plastique dans un cadre annulaire en métal ou en plastique, qui peut être vissé à l'avant ou clipsé sur l'objectif de la caméra. Les filtres modifient les images enregistrées. Ils sont utilisés pour modifier les photographies parfois très peu, et d'autres fois ils sont tout à fait nécessaires à la création de l'image. En photographie monochrome, les filtres colorés modifient la luminosité relative des différentes couleurs ; le rouge à lèvres rouge peut sembler n'importe où entre presque blanc et presque noir selon le filtre utilisé. D'autres ajustent la balance des couleurs de l'image afin que les photos prises avec un éclairage incandescent affichent les couleurs telles qu'elles sont perçues plutôt qu'avec une teinte rougeâtre. Il existe des filtres qui déforment délibérément l'image, ajoutant un aspect étoilé à une image autrement nette, etc. Les réflexions obliques des surfaces non métalliques sont réduites à l'aide de filtres polarisants linéaires et circulaires. Aspose.Imaging prend en charge des filtres tels que Gaussian Blur, Sharpen, Median Filter, Motion Weiner et bien d'autres.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 En utilisant Aspose.Imaging, vous pouvez facilement appliquer **Filtre** pour différents formats d'image par programmation
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Liste complète des opérations Filtre prises en charge par formats d'image :
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

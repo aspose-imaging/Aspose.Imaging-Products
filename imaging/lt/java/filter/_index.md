@@ -13,9 +13,15 @@ description: Naudodami Aspose.Imaging galite lengvai sukurti Filtras vaizdus per
 
 
 {{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Filtras attēlus formatai" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Fotografijoje ir kinematografijoje filtras yra fotoaparato priedas, susidedantis iš optinio filtro, kurį galima įterpti į optinį kelią. Filtras gali būti kvadrato arba pailgos formos ir įmontuotas į laikiklio priedą arba, dažniau, stikliniame arba plastikiniame diske metaliniame arba plastikiniame žiediniame rėmelyje, kurį galima įsukti į priekinę kameros objektyvo dalį arba užsegti ant jo. Filtrai pakeičia įrašytus vaizdus. Jie naudojami fotografijoms keisti kartais labai mažai, o kartais jie yra visiškai reikalingi vaizdui sukurti. Vienspalvėje fotografijoje spalvoti filtrai keičia santykinį įvairių spalvų ryškumą; raudoni lūpų dažai gali atrodyti nuo beveik balto iki beveik juodo, priklausomai nuo naudojamo filtro. Kiti koreguoja vaizdo spalvų balansą taip, kad kadrai, nufotografuoti naudojant kaitinamąjį apšvietimą, spalvos būtų tokios, kokios jos suvokiamos, o ne su rausvu atspalviu. Yra filtrų, kurie tikslingai iškraipo vaizdą, kitaip ryškiam vaizdui suteikdami žvaigždėtą vaizdą ir pan. Įstrižiniai atspindžiai nuo nemetalinių paviršių sumažinami naudojant linijinius ir apskritus poliarizuojančius filtrus. Aspose.Imaging palaiko tokius filtrus kaip Gaussian Blur, Sharpen, Median Filter, Motion Weiner ir daugelis kitų.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Naudodami Aspose.Imaging galite lengvai pritaikyti **Filtras** skirtingiems vaizdo formatams programmatiski
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Visas palaikomų operacijų Filtras sąrašas pagal vaizdo formatus:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

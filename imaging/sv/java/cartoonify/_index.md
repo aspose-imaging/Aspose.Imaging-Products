@@ -13,9 +13,15 @@ description: Med Aspose.Imaging kan du enkelt Cartoonify bilder via java
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alla bilder format som stöds för operationen Cartoonify" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Konvertering av foto till tecknad film är en av de vanligaste operationerna som används av många konstnärer. Det hjälper att få tecknade bilder med några få klick utan att utföra något målningsarbete. Vill du snabbt förvandla en standardbild till en tecknad bild? I det här fallet kan du prova hur det fungerar i Aspose.Imaging-biblioteket.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Med Aspose.Imaging kan du enkelt använda **Cartoonify** för olika bildformat programmatiskt
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Fullständig lista över Cartoonify-operationer som stöds efter bildformat:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

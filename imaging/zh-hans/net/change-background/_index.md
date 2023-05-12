@@ -13,9 +13,15 @@ description: 使用 Aspose.Imaging 你可以轻松地通过 net 获取 换背景
 
 
 {{% blocks/products/pf/feature-page-section  h2="换背景 操作的所有支持格式图片" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+更改背景是处理照片或图像所需的最常见操作之一。您可以使用 Aspose.Imaging 轻松地从一张照片中删除背景并将前景对象放到另一张照片上。您还可以识别前景对象并在需要时进行检测。因此，您可以根据需要获得透明的背景和流程。
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 使用 Aspose.Imaging 您可以轻松地将 **换背景** 应用于不同的图像格式 以编程方式
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 按图像格式支持的 换背景 操作的完整列表：
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

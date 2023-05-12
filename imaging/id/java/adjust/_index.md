@@ -13,9 +13,15 @@ description: Menggunakan Aspose.Imaging Anda dapat dengan mudah Menyesuaikan gam
 
 
 {{% blocks/products/pf/feature-page-section  h2="Semua gambar-gambar format yang didukung untuk operasi Menyesuaikan" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Salah satu fitur utama yang ditawarkan oleh mayoritas perpustakaan pencitraan adalah koreksi warna untuk foto digital. Penyesuaian warna berisi beberapa kategori berikut sebagai (1) Istilah kecerahan menjelaskan seberapa terang atau gelap suatu rona. Semua warna dalam gambar akan menyala saat kecerahan dinaikkan, dan semua warna menjadi gelap saat kecerahan dikurangi; (2) Ketika sebuah gambar memiliki kontras, objek atau detail di dalamnya lebih menonjol. Ketika kontras ditingkatkan, perbedaan antara bagian yang terang dan gelap bertambah, membuat bagian yang terang menjadi lebih terang dan bagian yang gelap menjadi lebih gelap. Bagian yang lebih terang dan lebih gelap pada dasarnya akan tetap sama dengan sedikit kontras, tetapi keseluruhan gambar akan terlihat lebih seragam; (3) Gamma meningkatkan kecerahan dan kontras iluminasi tidak langsung yang menyinari objek dalam gambar. Aspose.Imaging mendukung penyesuaian <b>Kecerahan</b>, <b>Gamma</b> dan <b>Kontras</b> gambar.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Menggunakan Aspose.Imaging Anda dapat dengan mudah menerapkan **Menyesuaikan** untuk berbagai format gambar secara terprogram
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Daftar lengkap operasi Menyesuaikan yang didukung menurut format gambar:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

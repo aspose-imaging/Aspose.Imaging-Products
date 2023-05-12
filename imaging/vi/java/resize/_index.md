@@ -13,9 +13,15 @@ description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng Thay đổi 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tất cả các hình ảnh định dạng được hỗ trợ cho thao tác Thay đổi kích thước" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Bạn có thể thay đổi kích thước hình ảnh để làm cho nó lớn hơn hoặc nhỏ hơn mà không phải xóa bất kỳ nội dung nào. Kích thước của hình ảnh bị thay đổi khi được thay đổi kích thước, điều này thường ảnh hưởng đến kích thước tệp và chất lượng hình ảnh. Giảm kích thước của những bức ảnh lớn để dễ dàng gửi email hoặc chia sẻ trực tuyến hơn là lý do phổ biến nhất cho việc thu nhỏ ảnh. Hình ảnh đồ họa raster phải được thu nhỏ bằng cách tạo một hình ảnh mới có nhiều hoặc ít pixel hơn. Aspose.Imaging cho phép người dùng thay đổi kích thước thuật toán khác nhau cho phép lựa chọn cần thiết.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Sử dụng Aspose.Imaging, bạn có thể dễ dàng áp dụng **Thay đổi kích thước** cho các định dạng hình ảnh khác nhau lập trình
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Danh sách đầy đủ các thao tác Thay đổi kích thước được hỗ trợ theo định dạng hình ảnh:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

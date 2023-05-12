@@ -13,9 +13,15 @@ description: Usando Aspose.Imaging puede fácilmente Cambiar el fondo imágenes 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Todos los imágenes formatos admitidos para la operación Cambiar el fondo" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Cambiar el fondo es una de las operaciones más comunes necesarias para procesar sus fotos o imágenes. Puede eliminar fácilmente el fondo de una de sus fotos y poner un objeto de primer plano en otra usando Aspose.Imaging. También puede reconocer objetos en primer plano y detectarlos si es necesario. Como resultado, puede obtener un fondo transparente y procesar según sus necesidades.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Usando Aspose.Imaging puede aplicar fácilmente **Cambiar el fondo** para diferentes formatos de imagen programáticamente
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Lista completa de operaciones {nombre de operación} admitidas por formatos de imagen:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

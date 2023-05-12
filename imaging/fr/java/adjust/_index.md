@@ -13,9 +13,15 @@ description: En utilisant Aspose.Imaging, vous pouvez facilement Ajuster images 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tous les images formats pris en charge pour l'opération Ajuster" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+L'une des principales fonctionnalités offertes par la majorité des bibliothèques d'imagerie est la correction des couleurs pour les photos numériques. Les réglages de couleur contiennent plusieurs catégories comme (1) Le terme luminosité décrit à quel point une teinte est claire ou sombre. Toutes les couleurs d'une image sont illuminées lorsque la luminosité est augmentée et toutes les couleurs sont assombries lorsque la luminosité est réduite. (2) Lorsqu'une image est contrastée, les objets ou les détails qu'elle contient ressortent davantage. Lorsque le contraste est augmenté, la différence entre ses parties claires et sombres augmente, rendant les zones claires plus claires et les sections sombres plus sombres. Les parties plus claires et plus sombres resteront essentiellement les mêmes avec moins de contraste, mais l'image globale sera plus uniforme ; (3) Gamma améliore la luminosité et le contraste de l'éclairage indirect qui éclaire un objet dans l'image. Aspose.Imaging prend en charge le réglage de <b>Luminosité</b>, <b>Gamma</b> et <b>Contraste</b> des images.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 En utilisant Aspose.Imaging, vous pouvez facilement appliquer **Ajuster** pour différents formats d'image par programmation
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Liste complète des opérations Ajuster prises en charge par formats d'image :
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

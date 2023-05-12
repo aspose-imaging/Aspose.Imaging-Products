@@ -13,9 +13,15 @@ description: Usando Aspose.Imaging puede fácilmente caricatura imágenes a trav
 
 
 {{% blocks/products/pf/feature-page-section  h2="Todos los imágenes formatos admitidos para la operación caricatura" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+La conversión de fotos a dibujos animados es una de las operaciones comunes utilizadas por muchos artistas. Ayuda a obtener una foto de dibujos animados en unos pocos clics sin realizar ningún trabajo de pintura. ¿Quiere convertir rápidamente una imagen estándar en una imagen de dibujos animados? En este caso, puede probar cómo funciona en la biblioteca Aspose.Imaging.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Usando Aspose.Imaging puede aplicar fácilmente **caricatura** para diferentes formatos de imagen programáticamente
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Lista completa de operaciones {nombre de operación} admitidas por formatos de imagen:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

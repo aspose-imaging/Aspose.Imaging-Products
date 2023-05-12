@@ -13,9 +13,15 @@ description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng Gỡ bỏ n�
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tất cả các hình ảnh định dạng được hỗ trợ cho thao tác Gỡ bỏ nền" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Xóa nền là thao tác cho phép bạn dễ dàng xóa nền khỏi ảnh hoặc hình ảnh của mình. Do loại bỏ nền, bạn có thể có được nền trong suốt và đặt nền trước cho nền khác. Sử dụng Aspose.Imaging, bạn có thể thử các thuật toán xóa nền khác nhau có thể phù hợp với nhu cầu của bạn đối với các hình ảnh khác nhau.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Sử dụng Aspose.Imaging, bạn có thể dễ dàng áp dụng **Gỡ bỏ nền** cho các định dạng hình ảnh khác nhau lập trình
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Danh sách đầy đủ các thao tác Gỡ bỏ nền được hỗ trợ theo định dạng hình ảnh:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

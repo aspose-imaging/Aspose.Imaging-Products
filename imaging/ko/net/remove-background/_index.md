@@ -13,9 +13,15 @@ description: Aspose.Imaging을 사용하면 net을 통해 쉽게 배경 제거 �
 
 
 {{% blocks/products/pf/feature-page-section  h2="배경 제거 작업에 대해 지원되는 모든 형식 이미지" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+배경 제거는 사진이나 이미지에서 배경을 쉽게 제거할 수 있는 작업입니다. 배경 제거의 결과로 투명한 배경을 얻을 수 있고 전경을 다른 배경에 놓을 수 있습니다. Aspose.Imaging을 사용하면 다양한 이미지에 대한 요구 사항에 맞는 다양한 배경 제거 알고리즘을 시도할 수 있습니다.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Aspose.Imaging을 사용하면 다양한 이미지 형식에 **배경 제거** 을(를) 쉽게 적용할 수 있습니다 프로그래밍 방식으로. 
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 이미지 형식별로 지원되는 배경 제거 작업의 전체 목록:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

@@ -13,9 +13,15 @@ description: Med Aspose.Imaging kan du enkelt Filtrera bilder via net
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alla bilder format som stöds för operationen Filtrera" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Inom fotografering och kinematografi är ett filter ett kameratillbehör som består av ett optiskt filter som kan sättas in i den optiska banan. Filtret kan ha en fyrkantig eller avlång form och monteras i ett hållartillbehör, eller, mer vanligt, en glas- eller plastskiva i en metall- eller plastringram, som kan skruvas fast i framsidan av eller fästas på kameralinsen. Filter ändrar de inspelade bilderna. De används för att ändra fotografier ibland väldigt lite, och andra gånger är de helt nödvändiga för att skapa bilden. I monokrom fotografering ändrar färgade filter den relativa ljusstyrkan för olika färger; rött läppstift kan verka någonstans mellan nästan vitt och nästan svart beroende på vilket filter som används. Andra justerar bildens färgbalans så att bilder tagna i glödljus visar färger som de uppfattas snarare än med en rödaktig nyans. Det finns filter som målmedvetet förvränger bilden, ger en stjärnklar look till en annars skarp bild, etc. Snedreflektioner från icke-metalliska ytor reduceras med linjära och cirkulära polariserande filter. Aspose.Imaging stöder sådana filter som Gaussian Blur, Sharpen, Median Filter, Motion Weiner och många andra.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Med Aspose.Imaging kan du enkelt använda **Filtrera** för olika bildformat programmatiskt
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Fullständig lista över Filtrera-operationer som stöds efter bildformat:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

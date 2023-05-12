@@ -13,9 +13,16 @@ description: เมื่อใช้ Aspose.Imaging คุณสามารถ
 
 
 {{% blocks/products/pf/feature-page-section  h2="รูปแบบที่รอ ภาพ งรับทั้งหมดสำหรับการดำเนินการ บีบอัด" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+การบีบอัดรูปภาพเป็นการบีบอัดข้อมูลประเภทหนึ่งที่ใช้เพื่อลดต้นทุนในการจัดเก็บหรือส่งภาพถ่ายดิจิทัล เมื่อเปรียบเทียบกับเทคนิคการบีบอัดข้อมูลทั่วไปที่ใช้สำหรับข้อมูลดิจิทัลอื่นๆ อัลกอริทึมอาจได้รับประโยชน์จากการรับรู้ภาพและลักษณะทางสถิติของข้อมูลรูปภาพ
+การใช้ Aspose.Imaging คุณสามารถบีบอัดรูปภาพประเภทต่างๆ ที่อาจตรงกับความต้องการเกือบทั้งหมดของคุณ
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 เมื่อใช้ Aspose.Imaging คุณสามารถใช้ **บีบอัด** สำหรับรูปแบบภาพต่างๆ ได้อย่างง่ายดาย โดยทางโปรแกรม
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 รายการทั้งหมดของการดำเนินการ บีบอัด ที่รองรับตามรูปแบบอิมเมจ:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

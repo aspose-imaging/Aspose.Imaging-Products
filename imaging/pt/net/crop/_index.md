@@ -13,9 +13,15 @@ description: Usando Aspose.Imaging, você pode facilmente imagens Colheita Via n
 
 
 {{% blocks/products/pf/feature-page-section  h2="Todos os formatos suportados para a operação imagens Colheita" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Cortar é o processo de eliminar elementos estranhos de uma fotografia ou ilustração. A técnica normalmente envolve a remoção de uma parte da periferia de uma imagem para eliminar informações visuais estranhas da fotografia, aprimorar seu enquadramento, alterar a proporção ou enfatizar ou isolar o assunto de seus arredores. Isso pode ser feito digitalmente, utilizando um software de edição de imagem, ou pode ser feito em um instantâneo real, obra de arte ou pedaço de filme, dependendo do aplicativo. As indústrias fotográfica, de processamento de filmes, transmissão, design gráfico e impressão usam o corte. Aspose.Imaging permite cortar imagens com vários parâmetros especificados.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Usando o Aspose.Imaging, você pode facilmente aplicar **Colheita** para diferentes formatos de imagem programaticamente
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Lista completa de operações Colheita suportadas por formatos de imagem:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

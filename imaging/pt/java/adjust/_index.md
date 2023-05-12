@@ -13,9 +13,15 @@ description: Usando Aspose.Imaging, você pode facilmente imagens Ajustar Via ja
 
 
 {{% blocks/products/pf/feature-page-section  h2="Todos os formatos suportados para a operação imagens Ajustar" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Um dos principais recursos oferecidos pela maioria das bibliotecas de imagem é a correção de cores para fotos digitais. Os ajustes de cor contêm várias categorias como (1) O termo brilho descreve o quão claro ou escuro é um matiz. Todas as cores em uma imagem são iluminadas quando o brilho é aumentado e todas as cores são escurecidas quando o brilho é diminuído; (2) Quando uma imagem tem contraste, os objetos ou detalhes dentro dela se destacam mais. Quando o contraste é aumentado, a diferença entre suas partes claras e escuras aumenta, tornando as áreas claras mais claras e as escuras mais escuras. As partes mais claras e escuras permanecerão basicamente as mesmas com menos contraste, mas a imagem geral parecerá mais uniforme; (3) Gama aumenta o brilho e o contraste da iluminação indireta que ilumina um objeto na imagem. Aspose.Imaging suporta o ajuste de <b>Brilho</b>, <b>Gamma</b> e <b>Contraste</b> das imagens.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Usando o Aspose.Imaging, você pode facilmente aplicar **Ajustar** para diferentes formatos de imagem programaticamente
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Lista completa de operações Ajustar suportadas por formatos de imagem:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

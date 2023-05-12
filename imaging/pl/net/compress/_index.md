@@ -13,9 +13,16 @@ description: Używając Aspose.Imaging możesz łatwo Kompresja obrazy Via net
 
 
 {{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty operacji obrazy Kompresja" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Kompresja obrazu to rodzaj kompresji danych stosowany w celu obniżenia kosztów przechowywania lub przesyłania zdjęć cyfrowych. W porównaniu z ogólnymi technikami kompresji danych stosowanymi w przypadku innych danych cyfrowych, algorytmy mogą korzystać z percepcji wizualnej i charakterystyki statystycznej danych obrazowych.
+Za pomocą Aspose.Imaging możesz kompresować różne typy obrazów, które mogą odpowiadać prawie wszystkim Twoim potrzebom.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Używając Aspose.Imaging możesz łatwo zastosować **Kompresja** dla różnych formatów obrazów programowo
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Pełna lista obsługiwanych operacji Kompresja według formatów obrazu:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

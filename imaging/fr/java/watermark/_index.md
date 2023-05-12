@@ -13,9 +13,15 @@ description: En utilisant Aspose.Imaging, vous pouvez facilement Filigrane image
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tous les images formats pris en charge pour l'opération Filigrane" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Un filigrane numérique est un type de marquage qui est subtilement incorporé dans un signal qui peut tolérer du bruit, tel que des données audio, vidéo ou d'image. Il est souvent utilisé pour établir qui détient les droits d'auteur sur un certain signal. La pratique du « filigrane » consiste à coder des données numériques dans un signal porteur ; les données cachées devraient, mais pas nécessairement, être liées au signal porteur. La légitimité ou l'intégrité du signal porteur peut être confirmée à l'aide de filigranes numériques, et l'identité de leurs propriétaires peut également être révélée. Il est fréquemment utilisé pour l'authentification des billets de banque et pour le suivi des violations du droit d'auteur. En utilisant Aspose.Imaging, vous pouvez facilement ajouter votre filigrane à l'image sélectionnée sans avoir besoin de beaucoup de code.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 En utilisant Aspose.Imaging, vous pouvez facilement appliquer **Filigrane** pour différents formats d'image par programmation
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Liste complète des opérations Filigrane prises en charge par formats d'image :
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

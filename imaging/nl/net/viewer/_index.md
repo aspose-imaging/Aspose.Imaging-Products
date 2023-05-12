@@ -13,9 +13,15 @@ description: Met behulp van Aspose.Imaging kunt u eenvoudig Bekijk afbeelding af
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde indelingen voor de bewerking afbeeldingen Bekijk afbeelding" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Wanneer u uw afbeelding of foto moet bekijken die geen breed bevolkt formaat heeft, kunt u eenvoudig een voorbeeld bekijken van het geconverteerd naar een populair formaat. Met Aspose.Imaging kunt u verschillende afbeeldingsbestanden bekijken zonder speciale programma's te installeren die specifiek zijn voor verschillende afbeeldingsindelingen.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Met Aspose.Imaging kunt u eenvoudig **Bekijk afbeelding** toepassen voor verschillende afbeeldingsformaten programmatisch
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Volledige lijst met ondersteunde Bekijk afbeelding-bewerkingen per afbeeldingsindeling:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

@@ -13,9 +13,15 @@ description: 使用 Aspose.Imaging 你可以輕鬆地通過 net 獲取 調整大
 
 
 {{% blocks/products/pf/feature-page-section  h2="調整大小 操作的所有支持格式 圖片" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+您可以調整圖像大小以使其變大或變小，而無需刪除任何內容。調整大小時，圖像的尺寸會發生變化，這通常會對文件大小和圖像質量產生影響。縮小大圖片的尺寸以便於通過電子郵件發送或在線共享是縮小照片最流行的理由。必須通過創建具有更多或更少像素的新圖像來縮放光柵圖形圖像。 Aspose.Imaging 允許用戶選擇需要的不同調整大小算法。
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 使用 Aspose.Imaging 您可以輕鬆地將 **調整大小** 應用於不同的圖像格式 以編程方式
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 按圖像格式支持的 調整大小 操作的完整列表：
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

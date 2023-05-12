@@ -13,9 +13,15 @@ description: Usando Aspose.Imaging puoi facilmente Cambia sfondo immagini tramit
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tutti i immagini formati supportati per l'operazione Cambia sfondo" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Il cambio di sfondo è una delle operazioni più comuni necessarie per elaborare le tue foto o immagini. Puoi facilmente rimuovere lo sfondo da una tua foto e mettere l'oggetto in primo piano su un altro usando Aspose.Imaging. Inoltre puoi riconoscere l'oggetto in primo piano e rilevarlo se necessario. Di conseguenza è possibile ottenere uno sfondo e un processo trasparenti di cui si ha bisogno.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Usando Aspose.Imaging puoi facilmente applicare **Cambia sfondo** per diversi formati di immagine programmaticamente
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Elenco completo delle operazioni Cambia sfondo supportate per formati immagine:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

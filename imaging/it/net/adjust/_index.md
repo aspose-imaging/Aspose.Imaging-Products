@@ -13,9 +13,15 @@ description: Usando Aspose.Imaging puoi facilmente Regolare immagini tramite net
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tutti i immagini formati supportati per l'operazione Regolare" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Una delle funzionalità principali offerte dalla maggior parte delle librerie di immagini è la correzione del colore per le foto digitali. Le regolazioni del colore contengono le seguenti diverse categorie come (1) Il termine luminosità descrive quanto sia chiara o scura una tonalità. Tutti i colori di un'immagine vengono illuminati quando la luminosità viene aumentata e tutti i colori vengono scuriti quando la luminosità viene ridotta; (2) Quando un'immagine ha contrasto, gli oggetti o i dettagli al suo interno risaltano maggiormente. Quando si aumenta il contrasto, la differenza tra le parti chiare e quelle scure aumenta, rendendo le aree chiare più chiare e quelle scure più scure. Le parti più chiare e quelle più scure rimarranno essenzialmente le stesse con meno contrasto, ma l'immagine complessiva apparirà più uniforme; (3) Gamma migliora la luminosità e il contrasto dell'illuminazione indiretta che illumina un oggetto nell'immagine. Aspose.Imaging supporta la regolazione di <b>Luminosità</b>, <b>Gamma</b> e <b>Contrasto</b> delle immagini.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Usando Aspose.Imaging puoi facilmente applicare **Regolare** per diversi formati di immagine programmaticamente
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Elenco completo delle operazioni Regolare supportate per formati immagine:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

@@ -13,9 +13,15 @@ description: 使用 Aspose.Imaging 你可以轻松地通过 java 获取 合并 �
 
 
 {{% blocks/products/pf/feature-page-section  h2="合并 操作的所有支持格式图片" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+合并图像操作允许将 2 个或多个图像垂直或水平合并为一个，而不会降低质量。照片拼贴是通过组合多张图像来创建新照片或图像，有时这些图像彼此不直接相关。摄影师想要的效果是通过将一个图像叠加在另一个图像上或将许多（超过 2 个）图像组合成一个整体来创建的，有时会混乱地使用不同的摄影图像（例如拼图或马赛克）。 Aspose.Imaging 允许使用多种文件格式创建不同的拼贴画。
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 使用 Aspose.Imaging 您可以轻松地将 **合并** 应用于不同的图像格式 以编程方式
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 按图像格式支持的 合并 操作的完整列表：
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

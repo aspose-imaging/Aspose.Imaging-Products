@@ -13,9 +13,15 @@ description: Mit Aspose.Imaging können Sie ganz einfach Graustufen Bilder über
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bilder Formate für den Vorgang Graustufen" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Bei einem Graustufenbild handelt es sich um ein Bild, bei dem der Wert jedes Pixels ein einzelnes Muster ist, das nur eine Lichtmenge angibt; das heißt, es übermittelt nur Intensitätsinformationen. Graustufenbilder werden in der digitalen Fotografie, computergenerierten Bildgebung und Farbmetrik verwendet. Graustufen bilden nur Graustufenbilder, eine Art Schwarzweiß- oder Grau-Monochrombild. Schwarz hat den geringsten Kontrast, während Weiß den höchsten Kontrast aufweist. Graustufenbilder unterscheiden sich von bitonalen Ein-Bit-Schwarzweißbildern, bei denen es sich um Bilder mit nur zwei Farben handelt: Schwarzweiß (im Kontext der Computerbildgebung auch als Bilevel- oder Binärbilder bezeichnet). Bei Graustufenfotos gibt es zahlreiche Grauabstufungen dazwischen. Mit Aspose.Imaging können Sie Ihre Bilder in verschiedenen Formaten grauskalieren.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Mit Aspose.Imaging können Sie ganz einfach **Graustufen** für verschiedene Bildformate anwenden programmatisch
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Vollständige Liste der unterstützten Graustufen-Vorgänge nach Bildformaten:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

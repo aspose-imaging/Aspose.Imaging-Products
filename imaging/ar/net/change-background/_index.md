@@ -13,9 +13,15 @@ description: باستخدام Aspose.Imaging يمكنك بسهولة غير ال
 
 
 {{% blocks/products/pf/feature-page-section  h2="جميع التنسيقا تالصور  المدعومة لعملية غير الخلفية" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+يعد تغيير الخلفية أحد أكثر العمليات شيوعًا اللازمة لمعالجة صورك أو صورك. يمكنك بسهولة إزالة الخلفية من إحدى صورتك ووضع كائن أمامي على صورة أخرى باستخدام Aspose. كما يمكنك التعرف على الكائن الأمامي واكتشافه إذا لزم الأمر. نتيجة لذلك ، قد تحصل على خلفية شفافة وعملية حسب حاجتك.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 باستخدام Aspose.Imaging ، يمكنك بسهولة تطبيق **غير الخلفية** لتنسيقات الصور المختلفة برمجيا
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 القائمة الكاملة لعمليات غير الخلفية المدعومة حسب تنسيقات الصور:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

@@ -13,9 +13,15 @@ description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng Lọc hình 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tất cả các hình ảnh định dạng được hỗ trợ cho thao tác Lọc" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Trong nhiếp ảnh và quay phim, bộ lọc là một phụ kiện máy ảnh bao gồm một bộ lọc quang học có thể được lắp vào đường dẫn quang học. Bộ lọc có thể có hình vuông hoặc hình thuôn dài và được gắn trong phụ kiện giá đỡ, hoặc phổ biến hơn là đĩa thủy tinh hoặc nhựa trong khung vòng kim loại hoặc nhựa, có thể vặn vào mặt trước hoặc kẹp vào ống kính máy ảnh. Bộ lọc làm thay đổi hình ảnh đã ghi. Chúng được sử dụng để chỉnh sửa ảnh đôi khi rất ít và đôi khi chúng hoàn toàn cần thiết để tạo ảnh. Trong chụp ảnh đơn sắc, các bộ lọc màu thay đổi độ sáng tương đối của các màu khác nhau; son môi đỏ có thể xuất hiện ở bất kỳ đâu giữa gần như trắng và gần như đen tùy thuộc vào bộ lọc được sử dụng. Những người khác điều chỉnh cân bằng màu sắc của hình ảnh sao cho các bức ảnh được chụp trong điều kiện chiếu sáng nóng sáng hiển thị màu sắc khi chúng được cảm nhận thay vì có tông màu đỏ. Có những bộ lọc làm biến dạng hình ảnh một cách có chủ đích, thêm vẻ đầy sao cho một hình ảnh sắc nét khác, v.v. Phản xạ xiên từ các bề mặt phi kim loại được giảm bằng cách sử dụng các bộ lọc phân cực tròn và tuyến tính. Aspose.Imaging hỗ trợ các bộ lọc như Gaussian Blur, Sharpen, Median Filter, Motion Weiner và nhiều bộ lọc khác.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Sử dụng Aspose.Imaging, bạn có thể dễ dàng áp dụng **Lọc** cho các định dạng hình ảnh khác nhau lập trình
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Danh sách đầy đủ các thao tác Lọc được hỗ trợ theo định dạng hình ảnh:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

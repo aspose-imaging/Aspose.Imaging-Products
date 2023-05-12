@@ -13,9 +13,15 @@ description: Usando Aspose.Imaging puoi facilmente Binarizzare immagini tramite 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tutti i immagini formati supportati per l'operazione Binarizzare" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Il primo piano e lo sfondo di un'immagine vengono separati utilizzando una tecnica chiamata soglia dell'immagine. Questo metodo assegna i valori dei pixel in base ai valori di soglia indicati. Le immagini in scala di grigi sono soggette a soglia nella visione artificiale. Uno dei metodi più conosciuti è la binarizzazione di <b>Otsu</b> e di <b>Bradley</b>. Aspose.Imaging supporta entrambi gli algoritmi. Usando questi algoritmi le tue immagini possono essere convertite in bianco e nero con soglia.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Usando Aspose.Imaging puoi facilmente applicare **Binarizzare** per diversi formati di immagine programmaticamente
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Elenco completo delle operazioni Binarizzare supportate per formati immagine:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

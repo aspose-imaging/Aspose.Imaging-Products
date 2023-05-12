@@ -13,9 +13,15 @@ description: Aspose.Imaging を使用すると、java 経由で簡単に 透か�
 
 
 {{% blocks/products/pf/feature-page-section  h2="透かし 操作でサポートされているすべての形式 画像" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+電子透かしは、オーディオ、ビデオ、画像データなどのノイズを許容できる信号に微妙に組み込まれる一種のマーキングです。特定の信号の著作権を誰が所有しているかを確認するためによく使用されます。 「透かし」の実践には、デジタル データを搬送波信号にエンコードすることが含まれます。隠蔽データはキャリア信号に関連している必要がありますが、、その必要はありません。キャリア信号の正当性または完全性は、電子透かしを使用して確認される可能性があり、また、その所有者の身元が明らかにされる場合もあります。紙幣の認証や著作権違反の追跡によく使用されます。 Aspose.Imaging を使用すると、多くのコードを必要とせずに、選択した画像に透かしを簡単に追加できます。
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Aspose.Imaging を使用すると、さまざまな画像フォーマットに **透かし** を簡単に適用できます プログラム的に
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 画像形式ごとにサポートされている 透かし 操作の完全なリスト:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

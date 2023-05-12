@@ -13,9 +13,15 @@ description: Usando Aspose.Imaging, você pode facilmente imagens Cartoonify Via
 
 
 {{% blocks/products/pf/feature-page-section  h2="Todos os formatos suportados para a operação imagens Cartoonify" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+A conversão de foto em desenho animado é uma das operações comuns usadas por muitos artistas. Ajuda a obter fotos de desenhos animados em poucos cliques sem realizar nenhum trabalho de pintura. Quer transformar rapidamente uma imagem padrão em uma imagem de desenho animado? Neste caso, você pode tentar como funciona na biblioteca Aspose.Imaging.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Usando o Aspose.Imaging, você pode facilmente aplicar **Cartoonify** para diferentes formatos de imagem programaticamente
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Lista completa de operações Cartoonify suportadas por formatos de imagem:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

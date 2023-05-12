@@ -13,9 +13,15 @@ description: En utilisant Aspose.Imaging, vous pouvez facilement Supprimer l'arr
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tous les images formats pris en charge pour l'opération Supprimer l'arrière-plan" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Supprimer l'arrière-plan est une opération qui vous permet de supprimer facilement l'arrière-plan de vos photos ou images. À la suite de la suppression de l'arrière-plan, vous pouvez obtenir un arrière-plan transparent et mettre le premier plan sur un autre arrière-plan. En utilisant Aspose.Imaging, vous pouvez essayer différents algorithmes de suppression d'arrière-plan qui peuvent répondre à vos besoins pour différentes images.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 En utilisant Aspose.Imaging, vous pouvez facilement appliquer **Supprimer l'arrière-plan** pour différents formats d'image par programmation
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Liste complète des opérations Supprimer l'arrière-plan prises en charge par formats d'image :
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

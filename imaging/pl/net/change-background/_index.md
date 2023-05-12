@@ -13,9 +13,15 @@ description: Używając Aspose.Imaging możesz łatwo Zmień tło obrazy Via net
 
 
 {{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty operacji obrazy Zmień tło" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Zmiana tła to jedna z najczęstszych operacji potrzebnych do przetworzenia zdjęć lub obrazów. Możesz łatwo usunąć tło z jednego zdjęcia i umieścić obiekt pierwszego planu na innym za pomocą Aspose.Imaging. Możesz także rozpoznać obiekt pierwszego planu i wykryć go w razie potrzeby. W rezultacie możesz uzyskać przezroczyste tło i proces zgodnie z potrzebami.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Używając Aspose.Imaging możesz łatwo zastosować **Zmień tło** dla różnych formatów obrazów programowo
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Pełna lista obsługiwanych operacji Zmień tło według formatów obrazu:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

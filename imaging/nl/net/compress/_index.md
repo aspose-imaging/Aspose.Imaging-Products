@@ -13,9 +13,16 @@ description: Met behulp van Aspose.Imaging kunt u eenvoudig Samenpersen afbeeldi
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde indelingen voor de bewerking afbeeldingen Samenpersen" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Beeldcompressie is een soort gegevenscompressie die wordt gebruikt om de kosten voor het opslaan of verzenden van digitale foto's te verlagen. In vergelijking met algemene datacompressietechnieken die worden gebruikt voor andere digitale data, kunnen algoritmen baat hebben bij visuele perceptie en de statistische kenmerken van beelddata.
+Met Aspose.Imaging kunt u verschillende afbeeldingstypen comprimeren die aan bijna al uw behoeften kunnen voldoen.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Met Aspose.Imaging kunt u eenvoudig **Samenpersen** toepassen voor verschillende afbeeldingsformaten programmatisch
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Volledige lijst met ondersteunde Samenpersen-bewerkingen per afbeeldingsindeling:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

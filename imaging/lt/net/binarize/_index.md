@@ -13,9 +13,15 @@ description: Naudodami Aspose.Imaging galite lengvai sukurti Binarizuoti vaizdus
 
 
 {{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Binarizuoti attēlus formatai" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Vaizdo priekinis planas ir fonas atskiriami naudojant techniką, vadinamą vaizdo slenksčiu. Šis metodas priskiria pikselių reikšmes pagal nurodytas slenkstes. Pilkų atspalvių vaizdai yra apriboti kompiuteriniame regėjime. Vienas iš labiausiai žinomų metodų yra dvejetainis nustatymas naudojant <b>Otsu</b> ir <b>Bradley</b>. Aspose.Imaging palaiko abu algoritmus. Naudojant šiuos algoritmus, jūsų vaizdai gali būti konvertuojami į nespalvotus su slenksčiu.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Naudodami Aspose.Imaging galite lengvai pritaikyti **Binarizuoti** skirtingiems vaizdo formatams programmatiski
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Visas palaikomų operacijų Binarizuoti sąrašas pagal vaizdo formatus:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

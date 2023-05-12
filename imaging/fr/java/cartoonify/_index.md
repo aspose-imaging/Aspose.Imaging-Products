@@ -13,9 +13,15 @@ description: En utilisant Aspose.Imaging, vous pouvez facilement Caricaturer ima
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tous les images formats pris en charge pour l'opération Caricaturer" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+La conversion d'une photo en dessin animé est l'une des opérations courantes utilisées par de nombreux artistes. Il aide à obtenir une photo dessinée en quelques clics sans effectuer aucun travail de peinture. Vous voulez transformer rapidement une image standard en image de dessin animé ? Dans ce cas, vous pouvez essayer comment cela fonctionne dans la bibliothèque Aspose.Imaging.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 En utilisant Aspose.Imaging, vous pouvez facilement appliquer **Caricaturer** pour différents formats d'image par programmation
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Liste complète des opérations Caricaturer prises en charge par formats d'image :
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

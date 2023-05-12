@@ -13,9 +13,15 @@ description: Mit Aspose.Imaging können Sie ganz einfach Zittern Bilder über ja
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bilder Formate für den Vorgang Zittern" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+In der Computergrafik wird Dithering verwendet, um Bildern auf Systemen mit einer eingeschränkten Farbpalette den Eindruck von Farbtiefe zu verleihen. Eine Diffusion farbiger Pixel aus der verfügbaren Palette wird in einem geditherten Bild verwendet, um Farben anzunähern, die in der Palette nicht vorhanden sind.Für das menschliche Auge erscheint die Diffusion als eine Vermischung der darin enthaltenen Farben. Geditherte Fotos sind häufig an einer ausgeprägten Körnigkeit oder gesprenkelten Erscheinung zu erkennen, insbesondere wenn Paletten mit wenigen Farben verwendet werden. Durch Dithering wird einem Bild Rauschen oder ein Muster hinzugefügt, und das Muster ist häufig offensichtlich. Es hat sich gezeigt, dass unter diesen Bedingungen das durch blaues Rauschen verursachte Zittern am wenigsten störend und unattraktiv ist. Aspose.Imaging ermöglicht das Dithern Ihrer Bilder mit wenigen Algorithmen, die Sie nach Bedarf auswählen können.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Mit Aspose.Imaging können Sie ganz einfach **Zittern** für verschiedene Bildformate anwenden programmatisch
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Vollständige Liste der unterstützten Zittern-Vorgänge nach Bildformaten:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

@@ -13,9 +13,15 @@ description: Aspose.Imaging を使用すると、net 経由で簡単に 画像�
 
 
 {{% blocks/products/pf/feature-page-section  h2="画像を見る 操作でサポートされているすべての形式 画像" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+あまり普及していない形式の画像や写真を表示する必要がある場合は、一般的な形式に変換して簡単にプレビューできます。 Aspose.Imaging を使用すると、さまざまな画像形式に固有の特別なプログラムをインストールしなくても、さまざまな画像ファイルを表示できます。
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Aspose.Imaging を使用すると、さまざまな画像フォーマットに **画像を見る** を簡単に適用できます プログラム的に
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 画像形式ごとにサポートされている 画像を見る 操作の完全なリスト:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

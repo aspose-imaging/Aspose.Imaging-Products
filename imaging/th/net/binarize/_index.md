@@ -13,9 +13,15 @@ description: เมื่อใช้ Aspose.Imaging คุณสามารถ
 
 
 {{% blocks/products/pf/feature-page-section  h2="รูปแบบที่รอ ภาพ งรับทั้งหมดสำหรับการดำเนินการ ไบนาไรซ์" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+พื้นหน้าและพื้นหลังของภาพแยกจากกันโดยใช้เทคนิคที่เรียกว่า Image thresholding วิธีนี้กำหนดค่าพิกเซลตามค่าเกณฑ์ที่กำหนด ภาพระดับสีเทาเป็นเกณฑ์ในการมองเห็นของคอมพิวเตอร์ วิธีการหนึ่งที่รู้จักกันมากที่สุดคือการทำไบนาริเซชันโดย <b>Otsu</b> และโดย <b>Bradley</b> Aspose.Imaging รองรับทั้งอัลกอริทึม การใช้อัลกอริธึมเหล่านี้ทำให้รูปภาพของคุณสามารถแปลงเป็นขาวดำได้ด้วยเกณฑ์
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 เมื่อใช้ Aspose.Imaging คุณสามารถใช้ **ไบนาไรซ์** สำหรับรูปแบบภาพต่างๆ ได้อย่างง่ายดาย โดยทางโปรแกรม
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 รายการทั้งหมดของการดำเนินการ ไบนาไรซ์ ที่รองรับตามรูปแบบอิมเมจ:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

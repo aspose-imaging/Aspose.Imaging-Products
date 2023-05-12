@@ -13,9 +13,15 @@ description: באמצעות Aspose.Imaging תוכל בקלות הצג תמונה
 
 
 {{% blocks/products/pf/feature-page-section  h2="כל הפורמטים  תמונות הנתמכים עבור פעולת הצג תמונה" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+כאשר אתה צריך להציג את התמונה או התמונה שלך שאין להם פורמט מאוכלס רחב, אתה יכול בקלות לצפות בתצוגה מקדימה שלה המרה לפורמט פופולרי. באמצעות Aspose.Imaging ניתן להציג קבצי תמונה שונים מבלי להתקין תוכנות מיוחדות הספציפיות לפורמטים שונים של תמונה.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 באמצעות Aspose.Imaging אתה יכול בקלות להחיל את **הצג תמונה** עבור פורמטים שונים של תמונה באופן תוכניתי
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 רשימה מלאה של פעולות הצג תמונה נתמכות לפי פורמטים של תמונה:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

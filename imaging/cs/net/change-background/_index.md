@@ -13,9 +13,15 @@ description: Pomocí Aspose.Imaging můžete snadno Změnit pozadí obrázky př
 
 
 {{% blocks/products/pf/feature-page-section  h2="Všechny podporované snímky formáty pro operaci Změnit pozadí" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Změna pozadí je jednou z nejběžnějších operací potřebných ke zpracování vašich fotografií nebo obrázků. Pomocí Aspose.Imaging můžete snadno odstranit pozadí z jedné fotografie a umístit objekt v popředí na jinou. Můžete také rozpoznat objekt v popředí a v případě potřeby jej detekovat. V důsledku toho můžete získat průhledné pozadí a zpracovat, jak potřebujete.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Pomocí Aspose.Imaging můžete snadno použít **Změnit pozadí** pro různé formáty obrázků programově
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Úplný seznam podporovaných operací Změnit pozadí podle formátů obrázků:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

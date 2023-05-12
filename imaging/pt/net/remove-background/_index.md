@@ -13,9 +13,15 @@ description: Usando Aspose.Imaging, você pode facilmente imagens Remover imagem
 
 
 {{% blocks/products/pf/feature-page-section  h2="Todos os formatos suportados para a operação imagens Remover imagem de fundo" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Remover fundo é uma operação que permite remover facilmente o fundo de suas fotos ou imagens. Como resultado da remoção do plano de fundo, você pode obter um plano de fundo transparente e colocar o primeiro plano em outro plano de fundo. Usando o Aspose.Imaging, você pode experimentar diferentes algoritmos de remoção de fundo que podem atender às suas necessidades para diferentes imagens.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Usando o Aspose.Imaging, você pode facilmente aplicar **Remover imagem de fundo** para diferentes formatos de imagem programaticamente
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Lista completa de operações Remover imagem de fundo suportadas por formatos de imagem:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

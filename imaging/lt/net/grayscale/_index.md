@@ -13,9 +13,15 @@ description: Naudodami Aspose.Imaging galite lengvai sukurti Pilkos spalvos vaiz
 
 
 {{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Pilkos spalvos attēlus formatai" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Pilkos spalvos vaizdas yra vaizdas, kuriame kiekvieno pikselio reikšmė yra vienas pavyzdys, nurodantis tik šviesos kiekį; tai yra, ji perteikia tik intensyvumo informaciją. Pilkų atspalvių vaizdai naudojami skaitmeninėje fotografijoje, kompiuteriu sukurtame vaizdavime ir kolorimetrijoje. Pilkos spalvos atspalviai sudaro tik pilkų atspalvių vaizdus, ​​tai yra juodos ir baltos arba pilkos monochrominės spalvos. Juodos spalvos kontrastas yra mažiausias, o baltos spalvos kontrastas yra didžiausias. Pilkų atspalvių vaizdai skiriasi nuo vieno bito dvitonių nespalvotų vaizdų, kurie yra tik dviejų spalvų vaizdai: juoda ir balta (taip pat žinomi kaip dvipakopiai arba dvejetainiai vaizdai) kompiuterinio vaizdavimo kontekste. Pilkos spalvos nuotraukose yra daug pilkų atspalvių. Naudodami Aspose.Imaging galite pakeisti įvairių formatų vaizdus pilkais atspalviais.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Naudodami Aspose.Imaging galite lengvai pritaikyti **Pilkos spalvos** skirtingiems vaizdo formatams programmatiski
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Visas palaikomų operacijų Pilkos spalvos sąrašas pagal vaizdo formatus:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

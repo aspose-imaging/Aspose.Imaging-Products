@@ -13,9 +13,15 @@ description: Med Aspose.Imaging kan du enkelt Beskära bilder via net
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alla bilder format som stöds för operationen Beskära" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Beskärning är processen att eliminera främmande element från ett fotografi eller en illustration. Tekniken innebär vanligtvis att en del av en bilds periferi tas bort för att eliminera ovidkommande visuell information från fotografiet, förbättra dess inramning, ändra bildförhållandet eller framhäva eller isolera motivet från dess omgivning. Detta kan göras digitalt genom att använda bildredigeringsprogram, eller så kan det göras på en riktig ögonblicksbild, ett konstverk eller en film, beroende på applikationen. Fotografi-, filmbearbetnings-, sändnings-, grafisk design- och tryckeriindustrin använder alla beskärning. Aspose.Imaging låter dig beskära bilder med angivna olika parametrar.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Med Aspose.Imaging kan du enkelt använda **Beskära** för olika bildformat programmatiskt
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Fullständig lista över Beskära-operationer som stöds efter bildformat:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

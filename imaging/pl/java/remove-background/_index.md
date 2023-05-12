@@ -13,9 +13,15 @@ description: Używając Aspose.Imaging możesz łatwo Usuń tło obrazy Via java
 
 
 {{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty operacji obrazy Usuń tło" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Usuń tło to operacja, która pozwala łatwo usunąć tło ze zdjęć lub obrazów. W wyniku usunięcia tła można uzyskać przezroczyste tło i nałożyć pierwszy plan na inne tło. Korzystając z Aspose.Imaging, możesz wypróbować różne algorytmy usuwania tła, które mogą odpowiadać Twoim potrzebom dla różnych obrazów.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Używając Aspose.Imaging możesz łatwo zastosować **Usuń tło** dla różnych formatów obrazów programowo
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Pełna lista obsługiwanych operacji Usuń tło według formatów obrazu:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

@@ -13,9 +13,15 @@ description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng Hoạt hình
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tất cả các hình ảnh định dạng được hỗ trợ cho thao tác Hoạt hình hóa" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Chuyển đổi ảnh thành phim hoạt hình là một trong những thao tác phổ biến được sử dụng bởi rất nhiều nghệ sĩ. Nó giúp có được bức ảnh hoạt hình trong vài cú nhấp chuột mà không cần thực hiện bất kỳ công việc vẽ tranh nào. Bạn muốn nhanh chóng biến một hình ảnh tiêu chuẩn thành một hình ảnh hoạt hình? Trong trường hợp này, bạn có thể thử cách nó hoạt động trong thư viện Aspose.Imaging.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Sử dụng Aspose.Imaging, bạn có thể dễ dàng áp dụng **Hoạt hình hóa** cho các định dạng hình ảnh khác nhau lập trình
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Danh sách đầy đủ các thao tác Hoạt hình hóa được hỗ trợ theo định dạng hình ảnh:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

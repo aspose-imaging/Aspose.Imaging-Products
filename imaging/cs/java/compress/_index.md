@@ -13,9 +13,16 @@ description: Pomocí Aspose.Imaging můžete snadno Komprimovat obrázky přes j
 
 
 {{% blocks/products/pf/feature-page-section  h2="Všechny podporované snímky formáty pro operaci Komprimovat" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Komprese obrazu je druh komprese dat používaný ke snížení nákladů na ukládání nebo přenos digitálních fotografií. Ve srovnání s obecnými technikami komprese dat používanými pro jiná digitální data mohou algoritmy těžit z vizuálního vnímání a statistických charakteristik obrazových dat.
+Pomocí Aspose.Imaging můžete komprimovat různé typy obrázků, které mohou vyhovovat téměř všem vašim potřebám.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Pomocí Aspose.Imaging můžete snadno použít **Komprimovat** pro různé formáty obrázků programově
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Úplný seznam podporovaných operací Komprimovat podle formátů obrázků:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

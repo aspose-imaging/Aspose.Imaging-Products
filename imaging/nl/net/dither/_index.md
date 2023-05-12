@@ -13,9 +13,15 @@ description: Met behulp van Aspose.Imaging kunt u eenvoudig Dither afbeeldingen 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde indelingen voor de bewerking afbeeldingen Dither" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+In computergraphics wordt dithering gebruikt om de indruk te wekken van kleurdiepte in afbeeldingen op systemen met een beperkt kleurenpalet. Een diffusie van gekleurde pixels uit het beschikbare palet wordt gebruikt in een gerasterde afbeelding om kleuren te benaderen die niet aanwezig zijn in het palet. De diffusie verschijnt voor het menselijk oog als een vermenging van de kleuren die erin vervat zijn. Dithered foto's zijn vaak te herkennen aan een kenmerkende korreligheid of gespikkeld uiterlijk, vooral bij gebruik van paletten met weinig kleuren. Dithering voegt ruis of een patroon toe aan een afbeelding en het patroon is vaak duidelijk. Het is aangetoond dat onder deze omstandigheden de dithering van blauwe ruis het minst hinderlijk en onaantrekkelijk is. Met Aspose.Imaging kunt u uw afbeeldingen ditheren met een paar algoritmen die u onnodig kunt selecteren.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Met Aspose.Imaging kunt u eenvoudig **Dither** toepassen voor verschillende afbeeldingsformaten programmatisch
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Volledige lijst met ondersteunde Dither-bewerkingen per afbeeldingsindeling:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

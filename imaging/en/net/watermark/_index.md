@@ -13,9 +13,15 @@ description: Using Aspose.Imaging you can easily Watermark images Via net
 
 
 {{% blocks/products/pf/feature-page-section  h2="All supported image formats for Watermark operation" %}}
-Using Aspose.Imaging you can easily apply **Watermark** for different image formats programmatically
-<br/>
+<p align="justify" style="text-indent:2em;font-size:15px;">
+A digital watermark is a type of marking that is subtly incorporated into a signal that can tolerate noise, such as audio, video, or image data. It is often used to establish who owns the copyright to a certain signal. The practice of watermarking involves encoding digital data into a carrier signal; the concealed data should, but need not, be related to the carrier signal. The legitimacy or integrity of the carrier signal may be confirmed using digital watermarks, and their owners' identities may also be revealed. It is frequently used for banknote authentication and for tracking copyright violations. Using Aspose.Imaging you can easily add your watermark to selected image without need a lot of code.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Using Aspose.Imaging you can easily apply <b>Watermark</b> for different image formats programmatically
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Full list of supported Watermark operations by image formats:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

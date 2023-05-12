@@ -13,9 +13,15 @@ description: באמצעות Aspose.Imaging תוכל בקלות שנה גודל �
 
 
 {{% blocks/products/pf/feature-page-section  h2="כל הפורמטים  תמונות הנתמכים עבור פעולת שנה גודל" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+אתה יכול לשנות את גודל התמונה כדי להגדיל או להקטין אותה מבלי להסיר תוכן כלשהו. מידות התמונה משתנות כאשר היא משתנה, מה שלעתים קרובות משפיע על גודל הקובץ ואיכות התמונה. צמצום גודלן של תמונות ענק כדי להקל עליהן לשלוח בדוא"ל או לשתף אותן באינטרנט היא ההצדקה הפופולרית ביותר לכיווץ תמונות. יש לשנות את קנה המידה של תמונות גרפיות רסטר על ידי יצירת תמונה חדשה עם פחות או יותר פיקסלים. Aspose.Imaging מאפשר למשתמשים אלגוריתמים שונים לשינוי גודל המאפשרים לבחור את הצורך.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 באמצעות Aspose.Imaging אתה יכול בקלות להחיל את **שנה גודל** עבור פורמטים שונים של תמונה באופן תוכניתי
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 רשימה מלאה של פעולות שנה גודל נתמכות לפי פורמטים של תמונה:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

@@ -13,9 +13,15 @@ description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng Thay đổi 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tất cả các hình ảnh định dạng được hỗ trợ cho thao tác Thay đổi nền" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Thay đổi nền là một trong những thao tác phổ biến nhất cần thiết để xử lý ảnh hoặc hình ảnh của bạn. Bạn có thể dễ dàng xóa nền khỏi ảnh của mình và đặt đối tượng tiền cảnh lên một ảnh khác bằng cách sử dụng Aspose.Imaging. Ngoài ra, bạn có thể nhận ra đối tượng nền trước và phát hiện nó nếu cần. Kết quả là bạn có thể có được nền trong suốt và xử lý khi cần.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Sử dụng Aspose.Imaging, bạn có thể dễ dàng áp dụng **Thay đổi nền** cho các định dạng hình ảnh khác nhau lập trình
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Danh sách đầy đủ các thao tác Thay đổi nền được hỗ trợ theo định dạng hình ảnh:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

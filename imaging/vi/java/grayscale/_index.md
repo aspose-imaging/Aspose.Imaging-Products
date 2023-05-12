@@ -13,9 +13,15 @@ description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng thang độ 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tất cả các hình ảnh định dạng được hỗ trợ cho thao tác thang độ xám" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Ảnh thang độ xám là ảnh trong đó giá trị của mỗi pixel là một mẫu duy nhất chỉ biểu thị một lượng ánh sáng; nghĩa là nó chỉ truyền tải thông tin về cường độ. Hình ảnh thang độ xám được sử dụng trong nhiếp ảnh kỹ thuật số, hình ảnh do máy tính tạo ra và đo màu. Các sắc thái của màu xám chỉ tạo thành các hình ảnh thang độ xám, một loại đơn sắc đen trắng hoặc xám. Màu đen có độ tương phản thấp nhất trong khi màu trắng có độ tương phản cao nhất. Hình ảnh thang độ xám khác với hình ảnh đen trắng hai tông màu một bit, là hình ảnh chỉ có hai màu: đen và trắng (còn được gọi là hình ảnh hai mức hoặc nhị phân) trong bối cảnh hình ảnh máy tính. Có rất nhiều sắc thái xám ở giữa trong ảnh thang độ xám. Sử dụng Aspose.Imaging, bạn có thể chuyển đổi màu xám cho hình ảnh của mình ở các định dạng khác nhau.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Sử dụng Aspose.Imaging, bạn có thể dễ dàng áp dụng **thang độ xám** cho các định dạng hình ảnh khác nhau lập trình
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Danh sách đầy đủ các thao tác thang độ xám được hỗ trợ theo định dạng hình ảnh:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

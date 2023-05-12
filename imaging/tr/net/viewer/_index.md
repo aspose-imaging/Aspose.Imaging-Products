@@ -13,9 +13,15 @@ description: Aspose.Imaging'i kullanarak, net Aracılığıyla kolayca Görseli 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Görseli göster işlemi Görüntüler için desteklenen tüm biçimler" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Geniş formatta olmayan görüntünüzü veya fotoğrafınızı görüntülemeniz gerektiğinde, onu popüler formata dönüştürülmüş olarak kolayca önizleyebilirsiniz. Aspose.Imaging'i kullanarak, farklı görüntü formatlarına özel özel programlar yüklemeden farklı görüntü dosyalarını görüntüleyebilirsiniz.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Aspose.Imaging'i kullanarak farklı görüntü formatları için **Görseli göster** işlemini kolayca uygulayabilirsiniz programlı olarak
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Görüntü biçimlerine göre desteklenen {işlem adı} işlemlerinin tam listesi:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

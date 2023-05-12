@@ -13,9 +13,15 @@ description: Med Aspose.Imaging kan du enkelt Binarisera bilder via net
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alla bilder format som stöds för operationen Binarisera" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+En bilds förgrund och bakgrund separeras med en teknik som kallas bildtröskelvärde. Denna metod tilldelar pixelvärdena i enlighet med de givna tröskelvärdena. Gråskalebilder är tröskelvärda i datorseende. En av de mest kända metoderna är binarisering av <b>Otsu</b> och av <b>Bradley</b>. Aspose.Imaging stöder båda algoritmerna. Med hjälp av dessa algoritmer kan dina bilder konverteras till svartvitt med tröskelvärde.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Med Aspose.Imaging kan du enkelt använda **Binarisera** för olika bildformat programmatiskt
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Fullständig lista över Binarisera-operationer som stöds efter bildformat:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

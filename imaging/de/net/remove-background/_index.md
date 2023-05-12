@@ -13,9 +13,15 @@ description: Mit Aspose.Imaging können Sie ganz einfach Hintergrund entfernen B
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bilder Formate für den Vorgang Hintergrund entfernen" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+„Hintergrund entfernen“ ist ein Vorgang, mit dem Sie den Hintergrund einfach von Ihren Fotos oder Bildern entfernen können. Durch die Hintergrundentfernung können Sie einen transparenten Hintergrund erhalten und den Vordergrund auf einen anderen Hintergrund übertragen. Mit Aspose.Imaging können Sie verschiedene Algorithmen zum Entfernen des Hintergrunds ausprobieren, die möglicherweise Ihren Anforderungen für verschiedene Bilder entsprechen.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Mit Aspose.Imaging können Sie ganz einfach **Hintergrund entfernen** für verschiedene Bildformate anwenden programmatisch
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Vollständige Liste der unterstützten Hintergrund entfernen-Vorgänge nach Bildformaten:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

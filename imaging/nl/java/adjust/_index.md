@@ -13,9 +13,15 @@ description: Met behulp van Aspose.Imaging kunt u eenvoudig Aanpassen afbeelding
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde indelingen voor de bewerking afbeeldingen Aanpassen" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Een van de belangrijkste functies die door de meeste beeldbibliotheken worden aangeboden, zijn kleurcorrecties voor digitale foto's. Kleuraanpassingen bevatten de volgende categorieën, zoals (1) De term helderheid beschrijft hoe licht of donker een tint is. Alle kleuren in een afbeelding worden verlicht wanneer de helderheid wordt verhoogd en alle kleuren worden donkerder wanneer de helderheid wordt verlaagd; (2) Wanneer een afbeelding contrast heeft, vallen de objecten of details erin meer op. Wanneer het contrast wordt vergroot, wordt het verschil tussen de lichte en donkere delen groter, waardoor de lichte delen lichter worden en de donkere delen donkerder. Lichtere en donkere delen blijven in wezen hetzelfde met minder contrast, maar het algehele beeld ziet er uniformer uit; (3) Gamma verbetert de helderheid en het contrast van de indirecte verlichting die een object in het beeld verlicht. Aspose.Imaging ondersteunt het aanpassen van <b>Helderheid</b>, <b>Gamma</b> en <b>Contrast</b> van afbeeldingen.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Met Aspose.Imaging kunt u eenvoudig **Aanpassen** toepassen voor verschillende afbeeldingsformaten programmatisch
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Volledige lijst met ondersteunde Aanpassen-bewerkingen per afbeeldingsindeling:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

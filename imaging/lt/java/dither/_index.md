@@ -13,9 +13,15 @@ description: Naudodami Aspose.Imaging galite lengvai sukurti Dither vaizdus per 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Dither attēlus formatai" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Kompiuterinėje grafikoje suvaržymas naudojamas siekiant suteikti spalvų gylio vaizdą sistemose su ribota spalvų palete. Spalvotų pikselių iš turimos paletės sklaida naudojama suskaidytame vaizde, kad būtų apytikslės spalvos, kurių nėra paletėje. Sklaida žmogaus akiai atrodo kaip joje esančių spalvų susimaišymas. Dingusios nuotraukos dažnai atpažįstamos pagal išskirtinį grūdėtumą arba dėmėtą išvaizdą, ypač kai naudojamos nedaug spalvų paletės. Dygiavimas suteikia vaizdui triukšmo arba rašto, o modelis dažnai būna akivaizdus. Įrodyta, kad tokiomis sąlygomis mėlynojo triukšmo sukeliamas triukšmas yra mažiausiai erzinantis ir nepatrauklus. „Aspose.Imaging“ leidžia suskaidyti vaizdus naudojant kelis algoritmus, kuriuos galite pasirinkti reikalingus jūsų nereikalingam.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Naudodami Aspose.Imaging galite lengvai pritaikyti **Dither** skirtingiems vaizdo formatams programmatiski
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Visas palaikomų operacijų Dither sąrašas pagal vaizdo formatus:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

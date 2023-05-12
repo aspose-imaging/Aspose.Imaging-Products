@@ -13,9 +13,15 @@ description: Aspose.Imaging'i kullanarak, java Aracılığıyla kolayca yeniden 
 
 
 {{% blocks/products/pf/feature-page-section  h2="yeniden boyutlandır işlemi Görüntüler için desteklenen tüm biçimler" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Herhangi bir içeriği kaldırmak zorunda kalmadan görüntüyü büyütmek veya küçültmek için yeniden boyutlandırabilirsiniz. Resmin boyutları, yeniden boyutlandırıldığında değişir ve bu genellikle dosya boyutu ve resim kalitesi üzerinde etkili olur. E-postayla göndermeyi veya çevrimiçi paylaşmayı kolaylaştırmak için büyük resimlerin boyutunu küçültmek, fotoğrafları küçültmenin en popüler gerekçesidir. Raster grafik görüntüleri, daha fazla veya daha az piksel içeren yeni bir görüntü oluşturularak ölçeklendirilmelidir. Aspose.Imaging, kullanıcılara gerekli olanı seçme olanağı sağlayan farklı yeniden boyutlandırma algoritmalarına izin verir.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Aspose.Imaging'i kullanarak farklı görüntü formatları için **yeniden boyutlandır** işlemini kolayca uygulayabilirsiniz programlı olarak
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Görüntü biçimlerine göre desteklenen {işlem adı} işlemlerinin tam listesi:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

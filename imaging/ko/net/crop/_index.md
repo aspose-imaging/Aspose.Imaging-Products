@@ -13,9 +13,15 @@ description: Aspose.Imaging을 사용하면 net을 통해 쉽게 수확고 이�
 
 
 {{% blocks/products/pf/feature-page-section  h2="수확고 작업에 대해 지원되는 모든 형식 이미지" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+자르기는 사진이나 그림에서 불필요한 요소를 제거하는 과정입니다. 이 기술은 일반적으로 사진에서 불필요한 시각적 정보를 제거하고, 프레임을 강화하고, 종횡비를 변경하고, 피사체를 주변에서 강조하거나 분리하기 위해 이미지 주변부의 일부를 제거하는 것을 수반합니다. 이것은 이미지 편집 소프트웨어를 사용하여 디지털 방식으로 수행하거나 응용 프로그램에 따라 실제 스냅샷, 예술 작품 또는 필름에서 수행할 수 있습니다. 사진, 필름 처리, 방송, 그래픽 디자인 및 인쇄 산업은 모두 자르기를 사용합니다. Aspose.Imaging을 사용하면 지정된 다양한 매개변수로 이미지를 자를 수 있습니다.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Aspose.Imaging을 사용하면 다양한 이미지 형식에 **수확고** 을(를) 쉽게 적용할 수 있습니다 프로그래밍 방식으로. 
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 이미지 형식별로 지원되는 수확고 작업의 전체 목록:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

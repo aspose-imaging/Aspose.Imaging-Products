@@ -13,9 +13,15 @@ description: Using Aspose.Imaging you can easily Merge images Via java
 
 
 {{% blocks/products/pf/feature-page-section  h2="All supported image formats for Merge operation" %}}
-Using Aspose.Imaging you can easily apply **Merge** for different image formats programmatically
-<br/>
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Merge images operation allows to combine 2 or more images into one vertically or horizontally without loosing quality. Photo collage is creation of a new photo or image by combining several images, sometimes not directly related to each other photos. The effect desired by the photographer is created by superimposing one image on another or by combining many (more than 2) images into a single whole, sometimes with the chaotic use of different photographic images (such as a puzzle or mosaic). Aspose.Imaging allows to create different collages using wide amount of fileformats.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Using Aspose.Imaging you can easily apply <b>Merge</b> for different image formats programmatically
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Full list of supported Merge operations by image formats:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

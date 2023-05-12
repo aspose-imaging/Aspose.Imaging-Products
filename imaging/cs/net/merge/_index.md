@@ -13,9 +13,15 @@ description: Pomocí Aspose.Imaging můžete snadno Spojit obrázky přes net
 
 
 {{% blocks/products/pf/feature-page-section  h2="Všechny podporované snímky formáty pro operaci Spojit" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Operace sloučení obrázků umožňuje spojit 2 nebo více obrázků do jednoho vertikálně nebo horizontálně bez ztráty kvality. Fotokoláž je vytvoření nové fotografie nebo obrázku spojením několika obrázků, které spolu někdy přímo nesouvisí. Fotografem požadovaný efekt je vytvořen překrytím jednoho snímku na jiný nebo spojením mnoha (více než 2) snímků do jednoho celku, někdy s chaotickým použitím různých fotografických snímků (jako je puzzle nebo mozaika). Aspose.Imaging umožňuje vytvářet různé koláže s použitím velkého množství formátů souborů.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Pomocí Aspose.Imaging můžete snadno použít **Spojit** pro různé formáty obrázků programově
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Úplný seznam podporovaných operací Spojit podle formátů obrázků:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

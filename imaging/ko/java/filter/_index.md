@@ -13,9 +13,15 @@ description: Aspose.Imaging을 사용하면 java을 통해 쉽게 필터 이미�
 
 
 {{% blocks/products/pf/feature-page-section  h2="필터 작업에 대해 지원되는 모든 형식 이미지" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+사진 및 영화 촬영에서 필터는 광학 경로에 삽입할 수 있는 광학 필터로 구성된 카메라 액세서리입니다. 필터는 정사각형 또는 장방형일 수 있으며 홀더 액세서리 또는 보다 일반적으로 금속 또는 플라스틱 링 프레임의 유리 또는 플라스틱 디스크에 장착되어 카메라 렌즈 전면에 나사로 고정하거나 클립으로 고정할 수 있습니다. 필터는 기록된 이미지를 변경합니다. 그들은 때때로 사진을 아주 조금 변경하는 데 사용되며, 다른 경우에는 이미지 생성에 완전히 필요합니다. 흑백 사진에서 컬러 필터는 다양한 색상의 상대적인 밝기를 변경합니다. 빨간 립스틱은 사용된 필터에 따라 거의 흰색과 거의 검은색 사이로 보일 수 있습니다. 다른 사람들은 백열등 조명에서 촬영한 사진이 불그스름한 색조가 아닌 인식되는 대로 색상을 표시하도록 이미지의 색상 균형을 조정합니다. 의도적으로 이미지를 왜곡하여 선명한 이미지에 별 모양을 추가하는 등의 필터가 있습니다. 비금속 표면의 비스듬한 반사는 선형 및 원형 편광 필터를 사용하여 줄입니다. Aspose.Imaging은 Gaussian Blur, Sharpen, Median Filter, Motion Weiner 등의 필터를 지원합니다.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Aspose.Imaging을 사용하면 다양한 이미지 형식에 **필터** 을(를) 쉽게 적용할 수 있습니다 프로그래밍 방식으로. 
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 이미지 형식별로 지원되는 필터 작업의 전체 목록:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

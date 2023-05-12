@@ -13,9 +13,16 @@ description: Naudodami Aspose.Imaging galite lengvai sukurti Suspausti vaizdus p
 
 
 {{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Suspausti attēlus formatai" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Vaizdo glaudinimas yra tam tikras duomenų glaudinimas, naudojamas siekiant sumažinti skaitmeninių nuotraukų saugojimo ar perdavimo išlaidas. Lyginant su bendrais duomenų glaudinimo metodais, naudojamais kitiems skaitmeniniams duomenims, algoritmams gali būti naudingas vizualinis suvokimas ir statistinės vaizdo duomenų charakteristikos.
+Naudodami Aspose.Imaging galite suspausti įvairių tipų vaizdus, ​​kurie gali atitikti beveik visus jūsų poreikius.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Naudodami Aspose.Imaging galite lengvai pritaikyti **Suspausti** skirtingiems vaizdo formatams programmatiski
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Visas palaikomų operacijų Suspausti sąrašas pagal vaizdo formatus:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

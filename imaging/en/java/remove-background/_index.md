@@ -13,9 +13,15 @@ description: Using Aspose.Imaging you can easily Remove background images Via ja
 
 
 {{% blocks/products/pf/feature-page-section  h2="All supported image formats for Remove background operation" %}}
-Using Aspose.Imaging you can easily apply **Remove background** for different image formats programmatically
-<br/>
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Remove background is operation that allows you to easily remove background from your photos or images. As a result of background removal you can obtain transparent background and put foreground to another background. Using Aspose.Imaging you can try different remove background algorithms that may suite your needs for different images.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Using Aspose.Imaging you can easily apply <b>Remove background</b> for different image formats programmatically
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Full list of supported Remove background operations by image formats:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

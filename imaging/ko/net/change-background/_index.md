@@ -13,9 +13,15 @@ description: Aspose.Imaging을 사용하면 net을 통해 쉽게 배경을 바�
 
 
 {{% blocks/products/pf/feature-page-section  h2="배경을 바꾸다 작업에 대해 지원되는 모든 형식 이미지" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+배경 변경은 사진이나 이미지를 처리하는 데 필요한 가장 일반적인 작업 중 하나입니다. Aspose.Imaging을 사용하여 사진에서 배경을 쉽게 제거하고 전경 개체를 다른 사진에 넣을 수 있습니다. 또한 전경 개체를 인식하고 필요한 경우 감지할 수 있습니다. 결과적으로 투명한 배경을 얻을 수 있고 필요에 따라 처리할 수 있습니다.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Aspose.Imaging을 사용하면 다양한 이미지 형식에 **배경을 바꾸다** 을(를) 쉽게 적용할 수 있습니다 프로그래밍 방식으로. 
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 이미지 형식별로 지원되는 배경을 바꾸다 작업의 전체 목록:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

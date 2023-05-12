@@ -13,9 +13,15 @@ description: Usando Aspose.Imaging puede fácilmente Filigrana imágenes a trav�
 
 
 {{% blocks/products/pf/feature-page-section  h2="Todos los imágenes formatos admitidos para la operación Filigrana" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Una marca de agua digital es un tipo de marca que se incorpora sutilmente a una señal que puede tolerar ruido, como audio, video o datos de imagen. A menudo se utiliza para establecer quién posee los derechos de autor de una determinada señal. La práctica de la marca de agua implica la codificación de datos digitales en una señal portadora; los datos ocultos deberían, pero no necesariamente, estar relacionados con la señal portadora. La legitimidad o integridad de la señal del portador se puede confirmar mediante marcas de agua digitales y también se pueden revelar las identidades de sus propietarios. Se utiliza con frecuencia para la autenticación de billetes y para el seguimiento de violaciones de derechos de autor. Usando Aspose.Imaging puede agregar fácilmente su marca de agua a la imagen seleccionada sin necesidad de mucho código.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Usando Aspose.Imaging puede aplicar fácilmente **Filigrana** para diferentes formatos de imagen programáticamente
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Lista completa de operaciones {nombre de operación} admitidas por formatos de imagen:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

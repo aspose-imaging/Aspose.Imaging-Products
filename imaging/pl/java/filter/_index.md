@@ -13,9 +13,15 @@ description: Używając Aspose.Imaging możesz łatwo Filtr obrazy Via java
 
 
 {{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty operacji obrazy Filtr" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+W fotografii i kinematografii filtr jest akcesorium aparatu składającym się z filtra optycznego, który można włożyć do ścieżki optycznej. Filtr może mieć kwadratowy lub podłużny kształt i być montowany w akcesorium do uchwytu lub, częściej, w szklanym lub plastikowym dysku w metalowej lub plastikowej ramce pierścieniowej, który można wkręcić z przodu lub przypiąć do obiektywu aparatu. Filtry modyfikują zarejestrowane obrazy. Służą do zmiany zdjęć, czasami bardzo niewiele, a innym razem są całkowicie niezbędne do stworzenia obrazu. W fotografii monochromatycznej kolorowe filtry zmieniają względną jasność różnych kolorów; czerwona szminka może wydawać się gdzieś pomiędzy prawie białą a prawie czarną, w zależności od zastosowanego filtra. Inni dostosowują balans kolorów obrazu tak, aby zdjęcia zrobione przy oświetleniu żarowym wyświetlały kolory tak, jak są postrzegane, a nie z czerwonawym odcieniem. Istnieją filtry, które celowo zniekształcają obraz, dodając rozgwieżdżony wygląd do skądinąd ostrego obrazu itp. Ukośne odbicia od powierzchni niemetalicznych są redukowane za pomocą liniowych i kołowych filtrów polaryzacyjnych. Aspose.Imaging obsługuje takie filtry jak Gaussian Blur, Sharpen, Median Filter, Motion Weiner i wiele innych.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Używając Aspose.Imaging możesz łatwo zastosować **Filtr** dla różnych formatów obrazów programowo
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Pełna lista obsługiwanych operacji Filtr według formatów obrazu:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

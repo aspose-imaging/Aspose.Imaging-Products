@@ -13,9 +13,15 @@ description: Usando Aspose.Imaging puede fácilmente Filtrar imágenes a través
 
 
 {{% blocks/products/pf/feature-page-section  h2="Todos los imágenes formatos admitidos para la operación Filtrar" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+En fotografía y cinematografía, un filtro es un accesorio de cámara que consiste en un filtro óptico que se puede insertar en el camino óptico. El filtro puede tener forma cuadrada u oblonga y montarse en un accesorio de soporte o, más comúnmente, un disco de vidrio o plástico en un marco de anillo de metal o plástico, que se puede atornillar en la parte delantera o enganchar a la lente de la cámara. Los filtros alteran las imágenes grabadas. Se utilizan para alterar fotografías a veces muy poco, y otras veces son completamente necesarios para la creación de la imagen. En la fotografía monocromática, los filtros de colores cambian el brillo relativo de varios colores; el lápiz labial rojo puede parecer entre casi blanco y casi negro, según el filtro utilizado. Otros ajustan el balance de color de la imagen para que las fotografías tomadas con iluminación incandescente muestren los colores tal como se perciben en lugar de con un matiz rojizo. Hay filtros que distorsionan la imagen a propósito, agregando un aspecto estrellado a una imagen nítida, etc. Los reflejos oblicuos de las superficies no metálicas se reducen utilizando filtros polarizadores lineales y circulares. Aspose.Imaging admite filtros como Gaussian Blur, Sharpen, Median Filter, Motion Weiner y muchos otros.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Usando Aspose.Imaging puede aplicar fácilmente **Filtrar** para diferentes formatos de imagen programáticamente
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Lista completa de operaciones {nombre de operación} admitidas por formatos de imagen:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

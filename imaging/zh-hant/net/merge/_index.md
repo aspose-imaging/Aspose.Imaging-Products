@@ -13,9 +13,15 @@ description: 使用 Aspose.Imaging 你可以輕鬆地通過 net 獲取 合併 �
 
 
 {{% blocks/products/pf/feature-page-section  h2="合併 操作的所有支持格式 圖片" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+合併圖像操作允許將 2 個或多個圖像垂直或水平合併為一個，而不會降低質量。照片拼貼是通過組合多張圖像來創建新照片或圖像，有時這些圖像彼此不直接相關。攝影師想要的效果是通過將一個圖像疊加在另一個圖像上或將許多（超過 2 個）圖像組合成一個整體來創建的，有時會混亂地使用不同的攝影圖像（例如拼圖或馬賽克）。 Aspose.Imaging 允許使用多種文件格式創建不同的拼貼畫。
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 使用 Aspose.Imaging 您可以輕鬆地將 **合併** 應用於不同的圖像格式 以編程方式
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 按圖像格式支持的 合併 操作的完整列表：
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

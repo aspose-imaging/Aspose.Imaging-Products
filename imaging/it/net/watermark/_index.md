@@ -13,9 +13,15 @@ description: Usando Aspose.Imaging puoi facilmente Filigrana immagini tramite ne
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tutti i immagini formati supportati per l'operazione Filigrana" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Una filigrana digitale è un tipo di marcatura sottilmente incorporata in un segnale in grado di tollerare il rumore, ad esempio dati audio, video o immagine. Viene spesso utilizzato per stabilire chi detiene il copyright di un determinato segnale. La pratica del watermarking comporta la codifica dei dati digitali in un segnale portante; i dati nascosti dovrebbero, ma non è necessario, essere correlati al segnale portante. La legittimità o l'integrità del segnale portante può essere confermata utilizzando filigrane digitali e possono essere rivelate anche le identità dei loro proprietari. Viene spesso utilizzato per l'autenticazione delle banconote e per il monitoraggio delle violazioni del copyright. Usando Aspose.Imaging puoi facilmente aggiungere la tua filigrana all'immagine selezionata senza bisogno di molto codice.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Usando Aspose.Imaging puoi facilmente applicare **Filigrana** per diversi formati di immagine programmaticamente
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Elenco completo delle operazioni Filigrana supportate per formati immagine:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

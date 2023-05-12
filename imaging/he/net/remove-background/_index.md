@@ -13,9 +13,15 @@ description: באמצעות Aspose.Imaging תוכל בקלות הסר רקע ת�
 
 
 {{% blocks/products/pf/feature-page-section  h2="כל הפורמטים  תמונות הנתמכים עבור פעולת הסר רקע" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+הסרת רקע היא פעולה המאפשרת לך להסיר בקלות רקע מהתמונות או התמונות שלך. כתוצאה מהסרת רקע ניתן להשיג רקע שקוף ולשים קדמה לרקע אחר. באמצעות Aspose.Imaging אתה יכול לנסות אלגוריתמי רקע להסרה שונים שעשויים להתאים לצרכים שלך עבור תמונות שונות.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 באמצעות Aspose.Imaging אתה יכול בקלות להחיל את **הסר רקע** עבור פורמטים שונים של תמונה באופן תוכניתי
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 רשימה מלאה של פעולות הסר רקע נתמכות לפי פורמטים של תמונה:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

@@ -13,9 +13,15 @@ description: Met behulp van Aspose.Imaging kunt u eenvoudig Verwijder achtergron
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde indelingen voor de bewerking afbeeldingen Verwijder achtergrond" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Achtergrond verwijderen is een bewerking waarmee u eenvoudig de achtergrond van uw foto's of afbeeldingen kunt verwijderen. Als resultaat van het verwijderen van de achtergrond kunt u een transparante achtergrond verkrijgen en de voorgrond naar een andere achtergrond verplaatsen. Met behulp van Aspose.Imaging kunt u verschillende algoritmen voor het verwijderen van de achtergrond proberen die aan uw behoeften voor verschillende afbeeldingen kunnen voldoen.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Met Aspose.Imaging kunt u eenvoudig **Verwijder achtergrond** toepassen voor verschillende afbeeldingsformaten programmatisch
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Volledige lijst met ondersteunde Verwijder achtergrond-bewerkingen per afbeeldingsindeling:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

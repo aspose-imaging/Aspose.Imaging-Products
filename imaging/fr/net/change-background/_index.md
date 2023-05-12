@@ -13,9 +13,15 @@ description: En utilisant Aspose.Imaging, vous pouvez facilement Changement de f
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tous les images formats pris en charge pour l'opération Changement de fond" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Le changement d'arrière-plan est l'une des opérations les plus courantes nécessaires au traitement de vos photos ou images. Vous pouvez facilement supprimer l'arrière-plan d'une de vos photos et placer un objet de premier plan sur une autre à l'aide d'Aspose.Imaging. Vous pouvez également reconnaître l'objet de premier plan et le détecter si nécessaire. En conséquence, vous pouvez obtenir un arrière-plan transparent et traiter selon vos besoins.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 En utilisant Aspose.Imaging, vous pouvez facilement appliquer **Changement de fond** pour différents formats d'image par programmation
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Liste complète des opérations Changement de fond prises en charge par formats d'image :
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

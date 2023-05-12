@@ -13,9 +13,15 @@ description: เมื่อใช้ Aspose.Imaging คุณสามารถ
 
 
 {{% blocks/products/pf/feature-page-section  h2="รูปแบบที่รอ ภาพ งรับทั้งหมดสำหรับการดำเนินการ เปลี่ยนพื้นหลัง" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+เปลี่ยนพื้นหลังเป็นหนึ่งในการดำเนินการทั่วไปที่จำเป็นในการประมวลผลภาพถ่ายหรือรูปภาพของคุณ คุณสามารถลบพื้นหลังออกจากรูปภาพของคุณได้อย่างง่ายดาย และวางวัตถุเบื้องหน้าลงบนอีกรูปหนึ่งโดยใช้ Aspose.Imaging นอกจากนี้ คุณยังสามารถจดจำวัตถุเบื้องหน้าและตรวจจับได้หากจำเป็น ดังนั้นคุณอาจได้รับพื้นหลังและกระบวนการโปร่งใสตามที่คุณต้องการ
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 เมื่อใช้ Aspose.Imaging คุณสามารถใช้ **เปลี่ยนพื้นหลัง** สำหรับรูปแบบภาพต่างๆ ได้อย่างง่ายดาย โดยทางโปรแกรม
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 รายการทั้งหมดของการดำเนินการ เปลี่ยนพื้นหลัง ที่รองรับตามรูปแบบอิมเมจ:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

@@ -13,9 +13,15 @@ description: باستخدام Aspose.Imaging يمكنك بسهولة إزالة 
 
 
 {{% blocks/products/pf/feature-page-section  h2="جميع التنسيقا تالصور  المدعومة لعملية إزالة الخلفية" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+إزالة الخلفية هي عملية تسمح لك بإزالة الخلفية بسهولة من صورك أو صورك. نتيجة لإزالة الخلفية ، يمكنك الحصول على خلفية شفافة ووضع المقدمة لخلفية أخرى. باستخدام Aspose: التصوير ، يمكنك تجربة خوارزميات إزالة خلفية مختلفة قد تناسب احتياجاتك لصور مختلفة.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 باستخدام Aspose.Imaging ، يمكنك بسهولة تطبيق **إزالة الخلفية** لتنسيقات الصور المختلفة برمجيا
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 القائمة الكاملة لعمليات إزالة الخلفية المدعومة حسب تنسيقات الصور:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

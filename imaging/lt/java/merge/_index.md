@@ -13,9 +13,15 @@ description: Naudodami Aspose.Imaging galite lengvai sukurti Sujungti vaizdus pe
 
 
 {{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Sujungti attēlus formatai" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Vaizdų sujungimo funkcija leidžia sujungti 2 ar daugiau vaizdų į vieną vertikaliai arba horizontaliai neprarandant kokybės. Nuotraukų koliažas – tai naujos nuotraukos ar vaizdo kūrimas sujungiant kelis vaizdus, ​​kartais nesusijusius viena su kita nuotraukomis. Fotografo pageidaujamas efektas sukuriamas uždedant vieną vaizdą ant kito arba sujungiant daug (daugiau nei 2) vaizdų į vieną visumą, kartais chaotiškai naudojant skirtingus fotografinius vaizdus (pavyzdžiui, dėlionę ar mozaiką). Aspose.Imaging leidžia kurti įvairius koliažus naudojant daugybę failų formatų.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Naudodami Aspose.Imaging galite lengvai pritaikyti **Sujungti** skirtingiems vaizdo formatams programmatiski
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Visas palaikomų operacijų Sujungti sąrašas pagal vaizdo formatus:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

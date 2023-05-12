@@ -13,9 +13,15 @@ description: Mit Aspose.Imaging können Sie ganz einfach Bild ansehen Bilder üb
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bilder Formate für den Vorgang Bild ansehen" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Wenn Sie Ihr Bild oder Foto anzeigen müssen, das kein weit verbreitetes Format hat, können Sie es ganz einfach in der Vorschau in ein gängiges Format konvertieren. Mit Aspose.Imaging können Sie verschiedene Bilddateien anzeigen, ohne spezielle Programme installieren zu müssen, die für verschiedene Bildformate spezifisch sind.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Mit Aspose.Imaging können Sie ganz einfach **Bild ansehen** für verschiedene Bildformate anwenden programmatisch
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Vollständige Liste der unterstützten Bild ansehen-Vorgänge nach Bildformaten:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

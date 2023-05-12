@@ -13,9 +13,15 @@ description: Usando Aspose.Imaging, você pode facilmente imagens Binarizar Via 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Todos os formatos suportados para a operação imagens Binarizar" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+O primeiro plano e o plano de fundo de uma imagem são separados usando uma técnica chamada limiarização de imagem. Este método atribui os valores de pixel de acordo com os valores limite fornecidos. As imagens em tons de cinza são limitadas na visão computacional. Um dos métodos mais conhecidos é a Binarização por <b>Otsu</b> e por <b>Bradley</b>. Aspose.Imaging suporta ambos os algoritmos. Usando esses algoritmos, suas imagens podem ser convertidas em preto e branco com limite.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Usando o Aspose.Imaging, você pode facilmente aplicar **Binarizar** para diferentes formatos de imagem programaticamente
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Lista completa de operações Binarizar suportadas por formatos de imagem:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

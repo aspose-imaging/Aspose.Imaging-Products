@@ -13,9 +13,15 @@ description: Aspose.Imaging'i kullanarak, net Aracılığıyla kolayca Mahsul g�
 
 
 {{% blocks/products/pf/feature-page-section  h2="Mahsul işlemi Görüntüler için desteklenen tüm biçimler" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Kırpma, bir fotoğraftan veya illüstrasyondan gereksiz unsurları ortadan kaldırma işlemidir. Teknik, tipik olarak, fotoğraftaki yabancı görsel bilgileri ortadan kaldırmak, çerçevelemeyi geliştirmek, en boy oranını değiştirmek veya konuyu çevresinden vurgulamak veya izole etmek için bir görüntünün çevresinin bir kısmının çıkarılmasını gerektirir. Bu, görüntü düzenleme yazılımı kullanılarak dijital olarak yapılabilir veya uygulamaya bağlı olarak gerçek bir enstantane, sanat eseri veya film parçası üzerinde yapılabilir. Fotoğraf, film işleme, yayıncılık, grafik tasarım ve baskı endüstrilerinin tümü kırpmayı kullanır. Aspose.Imaging, görüntüleri belirtilen çeşitli parametrelerle kırpmanıza olanak tanır.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Aspose.Imaging'i kullanarak farklı görüntü formatları için **Mahsul** işlemini kolayca uygulayabilirsiniz programlı olarak
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Görüntü biçimlerine göre desteklenen {işlem adı} işlemlerinin tam listesi:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

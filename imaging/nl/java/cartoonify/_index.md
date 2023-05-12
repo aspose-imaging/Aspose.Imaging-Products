@@ -13,9 +13,15 @@ description: Met behulp van Aspose.Imaging kunt u eenvoudig Cartooniseren afbeel
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde indelingen voor de bewerking afbeeldingen Cartooniseren" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Het omzetten van een foto naar een tekenfilm is een van de meest voorkomende bewerkingen die door veel artiesten worden gebruikt. Het helpt om met een paar klikken een cartoonfoto te maken zonder schilderwerk uit te voeren. Snel een standaardafbeelding omzetten in een cartoonafbeelding? In dit geval kunt u proberen hoe het werkt in de Aspose.Imaging-bibliotheek.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Met Aspose.Imaging kunt u eenvoudig **Cartooniseren** toepassen voor verschillende afbeeldingsformaten programmatisch
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Volledige lijst met ondersteunde Cartooniseren-bewerkingen per afbeeldingsindeling:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

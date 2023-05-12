@@ -13,9 +13,15 @@ description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng hợp nhất
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tất cả các hình ảnh định dạng được hỗ trợ cho thao tác hợp nhất" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Thao tác ghép ảnh cho phép kết hợp 2 hoặc nhiều ảnh thành một ảnh theo chiều dọc hoặc chiều ngang mà không làm giảm chất lượng. Ghép ảnh là việc tạo ra một bức ảnh hoặc hình ảnh mới bằng cách kết hợp một số hình ảnh, đôi khi không liên quan trực tiếp đến các bức ảnh khác. Hiệu ứng mà nhiếp ảnh gia mong muốn được tạo ra bằng cách chồng một ảnh lên một ảnh khác hoặc bằng cách kết hợp nhiều (hơn 2) ảnh thành một tổng thể duy nhất, đôi khi với việc sử dụng hỗn loạn các ảnh chụp khác nhau (chẳng hạn như xếp hình hoặc tranh khảm). Aspose.Imaging cho phép tạo các ảnh ghép khác nhau bằng cách sử dụng nhiều định dạng tệp.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Sử dụng Aspose.Imaging, bạn có thể dễ dàng áp dụng **hợp nhất** cho các định dạng hình ảnh khác nhau lập trình
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Danh sách đầy đủ các thao tác hợp nhất được hỗ trợ theo định dạng hình ảnh:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

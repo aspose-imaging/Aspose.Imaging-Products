@@ -13,9 +13,15 @@ description: Aspose.Imaging'i kullanarak, net Aracılığıyla kolayca İkilile�
 
 
 {{% blocks/products/pf/feature-page-section  h2="İkilileştir işlemi Görüntüler için desteklenen tüm biçimler" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Bir görüntünün ön planı ve arka planı, görüntü eşikleme adı verilen bir teknik kullanılarak ayrılır. Bu yöntem, piksel değerlerini verilen eşik değerlerine göre atar. Gri tonlamalı görüntüler, bilgisayar görüşünde eşiklenir. En bilinen yöntemlerden biri, <b>Otsu</b> ve <b>Bradley</b> tarafından geliştirilen Binarizasyondur. Aspose.Imaging her iki algoritmayı da destekler. Bu algoritmaları kullanarak resimleriniz eşik ile siyah beyaza dönüştürülebilir.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Aspose.Imaging'i kullanarak farklı görüntü formatları için **İkilileştir** işlemini kolayca uygulayabilirsiniz programlı olarak
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Görüntü biçimlerine göre desteklenen {işlem adı} işlemlerinin tam listesi:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

@@ -13,9 +13,15 @@ description: Usando Aspose.Imaging puede fácilmente Quitar fondo imágenes a tr
 
 
 {{% blocks/products/pf/feature-page-section  h2="Todos los imágenes formatos admitidos para la operación Quitar fondo" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Eliminar fondo es una operación que le permite eliminar fácilmente el fondo de sus fotos o imágenes. Como resultado de la eliminación del fondo, puede obtener un fondo transparente y poner en primer plano otro fondo. Usando Aspose.Imaging puede probar diferentes algoritmos de eliminación de fondo que pueden satisfacer sus necesidades para diferentes imágenes.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Usando Aspose.Imaging puede aplicar fácilmente **Quitar fondo** para diferentes formatos de imagen programáticamente
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Lista completa de operaciones {nombre de operación} admitidas por formatos de imagen:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

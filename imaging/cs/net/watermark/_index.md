@@ -13,9 +13,15 @@ description: Pomocí Aspose.Imaging můžete snadno Vodoznak obrázky přes net
 
 
 {{% blocks/products/pf/feature-page-section  h2="Všechny podporované snímky formáty pro operaci Vodoznak" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Digitální vodoznak je typ označení, které je nenápadně začleněno do signálu, který dokáže tolerovat šum, jako jsou audio, video nebo obrazová data. Často se používá ke zjištění, kdo vlastní autorská práva k určitému signálu. Praxe vodoznaku zahrnuje kódování digitálních dat do nosného signálu; skrytá data by se měla, ale nemusí vztahovat k nosnému signálu. Legitimnost nebo integrita nosného signálu může být potvrzena pomocí digitálních vodoznaků a může být také odhalena identita jejich vlastníků. Často se používá pro ověřování pravosti bankovek a pro sledování porušování autorských práv. Pomocí Aspose.Imaging můžete snadno přidat vodoznak do vybraného obrázku, aniž byste potřebovali mnoho kódu.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Pomocí Aspose.Imaging můžete snadno použít **Vodoznak** pro různé formáty obrázků programově
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Úplný seznam podporovaných operací Vodoznak podle formátů obrázků:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

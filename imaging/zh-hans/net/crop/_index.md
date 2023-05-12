@@ -13,9 +13,15 @@ description: 使用 Aspose.Imaging 你可以轻松地通过 net 获取 庄稼 �
 
 
 {{% blocks/products/pf/feature-page-section  h2="庄稼 操作的所有支持格式图片" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+裁剪是从照片或插图中去除无关元素的过程。该技术通常需要去除图像外围的一部分，以便从照片中消除无关的视觉信息、增强其框架、改变纵横比，或者强调或隔离主题与周围环境。这可以通过使用图像编辑软件以数字方式完成，也可以根据应用程序在真实快照、艺术品或电影上完成。摄影、胶片处理、广播、图形设计和印刷行业都使用裁剪。 Aspose.Imaging 允许您使用指定的各种参数裁剪图像。
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 使用 Aspose.Imaging 您可以轻松地将 **庄稼** 应用于不同的图像格式 以编程方式
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 按图像格式支持的 庄稼 操作的完整列表：
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

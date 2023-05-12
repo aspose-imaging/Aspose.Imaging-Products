@@ -13,9 +13,15 @@ description: באמצעות Aspose.Imaging תוכל בקלות שנה רקע ת�
 
 
 {{% blocks/products/pf/feature-page-section  h2="כל הפורמטים  תמונות הנתמכים עבור פעולת שנה רקע" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+שינוי רקע היא אחת הפעולות הנפוצות ביותר הדרושות לעיבוד התמונות או התמונות שלך. אתה יכול בקלות להסיר רקע מתמונה אחת שלך ולשים אובייקט קדמי על אחר באמצעות Aspose.Imaging. כמו כן, אתה יכול לזהות אובייקט בחזית ולזהות אותו במידת הצורך. כתוצאה מכך אתה עשוי לקבל רקע שקוף ותהליך לפי הצורך.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 באמצעות Aspose.Imaging אתה יכול בקלות להחיל את **שנה רקע** עבור פורמטים שונים של תמונה באופן תוכניתי
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 רשימה מלאה של פעולות שנה רקע נתמכות לפי פורמטים של תמונה:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

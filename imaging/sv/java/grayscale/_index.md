@@ -13,9 +13,15 @@ description: Med Aspose.Imaging kan du enkelt Gråskala bilder via java
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alla bilder format som stöds för operationen Gråskala" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+En gråskalebild är en där värdet för varje pixel är ett enda prov som endast indikerar en mängd ljus; det vill säga, den förmedlar endast intensitetsinformation. Gråskalebilder används i digital fotografering, datorgenererad bildbehandling och kolorimetri. Nyanser av grått utgör endast gråskalebilder, en sorts svartvit eller grå monokrom. Svart har lägst kontrast medan vitt har mest kontrast. Gråskalebilder skiljer sig från enbits bi-tonala svartvita bilder, som är bilder med endast två färger: svart och vitt (även känd som bilevel- eller binära bilder) i samband med datoravbildning. Det finns många nyanser av grått däremellan i gråskalefoton. Med Aspose.Imaging kan du gråskala dina bilder i olika format.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Med Aspose.Imaging kan du enkelt använda **Gråskala** för olika bildformat programmatiskt
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Fullständig lista över Gråskala-operationer som stöds efter bildformat:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

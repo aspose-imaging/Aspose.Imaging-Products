@@ -13,9 +13,15 @@ description: Menggunakan Aspose.Imaging Anda dapat dengan mudah Ubah latar belak
 
 
 {{% blocks/products/pf/feature-page-section  h2="Semua gambar-gambar format yang didukung untuk operasi Ubah latar belakang" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Ubah latar belakang adalah salah satu operasi paling umum yang diperlukan untuk memproses foto atau gambar Anda. Anda dapat dengan mudah menghapus latar belakang dari satu foto Anda dan menempatkan objek latar depan ke yang lain menggunakan Aspose.Imaging. Anda juga dapat mengenali objek latar depan dan mendeteksinya jika diperlukan. Hasilnya, Anda dapat memperoleh latar belakang transparan dan proses sesuai kebutuhan.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Menggunakan Aspose.Imaging Anda dapat dengan mudah menerapkan **Ubah latar belakang** untuk berbagai format gambar secara terprogram
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Daftar lengkap operasi Ubah latar belakang yang didukung menurut format gambar:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

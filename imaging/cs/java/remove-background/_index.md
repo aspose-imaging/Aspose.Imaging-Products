@@ -13,9 +13,15 @@ description: Pomocí Aspose.Imaging můžete snadno Odstraňte pozadí obrázky 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Všechny podporované snímky formáty pro operaci Odstraňte pozadí" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Odebrat pozadí je operace, která vám umožňuje snadno odstranit pozadí z vašich fotografií nebo obrázků. V důsledku odstranění pozadí můžete získat průhledné pozadí a umístit popředí na jiné pozadí. Pomocí Aspose.Imaging můžete vyzkoušet různé algoritmy odstranění pozadí, které mohou vyhovovat vašim potřebám pro různé obrázky.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Pomocí Aspose.Imaging můžete snadno použít **Odstraňte pozadí** pro různé formáty obrázků programově
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Úplný seznam podporovaných operací Odstraňte pozadí podle formátů obrázků:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

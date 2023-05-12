@@ -13,9 +13,15 @@ description: Pomocí Aspose.Imaging můžete snadno Zobrazit obrázek obrázky p
 
 
 {{% blocks/products/pf/feature-page-section  h2="Všechny podporované snímky formáty pro operaci Zobrazit obrázek" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Potřebujete-li zobrazit obrázek nebo fotografii, která nemá široký formát, můžete si jej snadno prohlédnout převedený do oblíbeného formátu. Pomocí Aspose.Imaging můžete prohlížet různé soubory obrázků bez instalace speciálních programů, které jsou specifické pro různé formáty obrázků.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Pomocí Aspose.Imaging můžete snadno použít **Zobrazit obrázek** pro různé formáty obrázků programově
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Úplný seznam podporovaných operací Zobrazit obrázek podle formátů obrázků:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

@@ -13,9 +13,15 @@ description: เมื่อใช้ Aspose.Imaging คุณสามารถ
 
 
 {{% blocks/products/pf/feature-page-section  h2="รูปแบบที่รอ ภาพ งรับทั้งหมดสำหรับการดำเนินการ ลบพื้นหลัง" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+ลบพื้นหลังเป็นการดำเนินการที่ช่วยให้คุณลบพื้นหลังออกจากภาพถ่ายหรือรูปภาพของคุณได้อย่างง่ายดาย ผลจากการลบพื้นหลัง คุณจะได้พื้นหลังโปร่งใสและใส่พื้นหน้าให้กับพื้นหลังอื่น การใช้ Aspose.Imaging คุณสามารถลองใช้อัลกอริทึมลบพื้นหลังแบบต่างๆ ที่อาจตอบสนองความต้องการของคุณสำหรับรูปภาพต่างๆ
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 เมื่อใช้ Aspose.Imaging คุณสามารถใช้ **ลบพื้นหลัง** สำหรับรูปแบบภาพต่างๆ ได้อย่างง่ายดาย โดยทางโปรแกรม
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 รายการทั้งหมดของการดำเนินการ ลบพื้นหลัง ที่รองรับตามรูปแบบอิมเมจ:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

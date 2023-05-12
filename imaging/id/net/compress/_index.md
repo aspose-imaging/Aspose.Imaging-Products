@@ -13,9 +13,16 @@ description: Menggunakan Aspose.Imaging Anda dapat dengan mudah Kompres gambar V
 
 
 {{% blocks/products/pf/feature-page-section  h2="Semua gambar-gambar format yang didukung untuk operasi Kompres" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Kompresi gambar adalah sejenis kompresi data yang digunakan untuk menurunkan biaya penyimpanan atau pengiriman foto digital. Jika dibandingkan dengan teknik kompresi data umum yang digunakan untuk data digital lainnya, algoritme mungkin mendapat manfaat dari persepsi visual dan karakteristik statistik data gambar.
+Menggunakan Aspose.Imaging Anda dapat mengompres berbagai jenis gambar yang mungkin sesuai dengan hampir semua kebutuhan Anda.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Menggunakan Aspose.Imaging Anda dapat dengan mudah menerapkan **Kompres** untuk berbagai format gambar secara terprogram
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Daftar lengkap operasi Kompres yang didukung menurut format gambar:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

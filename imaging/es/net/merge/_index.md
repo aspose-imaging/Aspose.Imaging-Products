@@ -13,9 +13,15 @@ description: Usando Aspose.Imaging puede fácilmente Unir imágenes a través de
 
 
 {{% blocks/products/pf/feature-page-section  h2="Todos los imágenes formatos admitidos para la operación Unir" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+La operación de combinación de imágenes permite combinar 2 o más imágenes en una vertical u horizontalmente sin perder calidad. El collage de fotos es la creación de una nueva foto o imagen mediante la combinación de varias imágenes, a veces no relacionadas directamente entre sí. El efecto deseado por el fotógrafo se crea superponiendo una imagen sobre otra o combinando muchas (más de 2) imágenes en un solo todo, a veces con el uso caótico de diferentes imágenes fotográficas (como un rompecabezas o un mosaico). Aspose.Imaging permite crear diferentes collages utilizando una gran cantidad de formatos de archivo.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Usando Aspose.Imaging puede aplicar fácilmente **Unir** para diferentes formatos de imagen programáticamente
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Lista completa de operaciones {nombre de operación} admitidas por formatos de imagen:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

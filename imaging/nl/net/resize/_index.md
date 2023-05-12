@@ -13,9 +13,15 @@ description: Met behulp van Aspose.Imaging kunt u eenvoudig Formaat wijzigen afb
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde indelingen voor de bewerking afbeeldingen Formaat wijzigen" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+U kunt het formaat van een afbeelding wijzigen om deze groter of kleiner te maken zonder enige inhoud te hoeven verwijderen. De afmetingen van de afbeelding worden gewijzigd wanneer het formaat wordt gewijzigd, wat vaak van invloed is op de bestandsgrootte en de afbeeldingskwaliteit. Het verkleinen van enorme foto's om ze gemakkelijker te kunnen e-mailen of online te delen, is de meest populaire reden om foto's te verkleinen. Rasterafbeeldingen moeten worden geschaald door een nieuwe afbeelding met meer of minder pixels te maken. Aspose.Imaging biedt gebruikers verschillende algoritmen voor het wijzigen van de grootte waarmee ze kunnen kiezen wat nodig is.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Met Aspose.Imaging kunt u eenvoudig **Formaat wijzigen** toepassen voor verschillende afbeeldingsformaten programmatisch
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Volledige lijst met ondersteunde Formaat wijzigen-bewerkingen per afbeeldingsindeling:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

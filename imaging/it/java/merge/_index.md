@@ -13,9 +13,15 @@ description: Usando Aspose.Imaging puoi facilmente Unisci immagini tramite java
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tutti i immagini formati supportati per l'operazione Unisci" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+L'operazione di unione delle immagini consente di combinare 2 o più immagini in una verticalmente o orizzontalmente senza perdere qualità. Il collage di foto è la creazione di una nuova foto o immagine combinando diverse immagini, a volte non direttamente correlate tra loro. L'effetto desiderato dal fotografo viene creato sovrapponendo un'immagine all'altra o combinando molte (più di 2) immagini in un unico insieme, a volte con l'uso caotico di diverse immagini fotografiche (come un puzzle o un mosaico). Aspose.Imaging consente di creare diversi collage utilizzando un'ampia quantità di formati di file.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Usando Aspose.Imaging puoi facilmente applicare **Unisci** per diversi formati di immagine programmaticamente
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Elenco completo delle operazioni Unisci supportate per formati immagine:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

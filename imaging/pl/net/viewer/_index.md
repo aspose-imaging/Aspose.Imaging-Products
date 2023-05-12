@@ -13,9 +13,15 @@ description: Używając Aspose.Imaging możesz łatwo Zobacz obrazek obrazy Via 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty operacji obrazy Zobacz obrazek" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Gdy chcesz wyświetlić obraz lub zdjęcie, które nie ma szerokiego formatu, możesz łatwo wyświetlić podgląd przekonwertowany na popularny format. Korzystając z Aspose.Imaging, możesz przeglądać różne pliki obrazów bez instalowania specjalnych programów, które są specyficzne dla różnych formatów obrazów.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Używając Aspose.Imaging możesz łatwo zastosować **Zobacz obrazek** dla różnych formatów obrazów programowo
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Pełna lista obsługiwanych operacji Zobacz obrazek według formatów obrazu:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

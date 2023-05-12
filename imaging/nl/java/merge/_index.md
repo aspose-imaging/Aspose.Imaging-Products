@@ -13,9 +13,15 @@ description: Met behulp van Aspose.Imaging kunt u eenvoudig Samenvoegen afbeeldi
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde indelingen voor de bewerking afbeeldingen Samenvoegen" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+De functie voor het samenvoegen van afbeeldingen maakt het mogelijk om 2 of meer afbeeldingen verticaal of horizontaal tot één te combineren zonder kwaliteitsverlies. Fotocollage is het creëren van een nieuwe foto of afbeelding door meerdere afbeeldingen te combineren, soms niet direct gerelateerd aan elkaars foto's. Het door de fotograaf gewenste effect ontstaat door het ene beeld op het andere te leggen of door vele (meer dan 2) beelden tot één geheel te combineren, soms met chaotisch gebruik van verschillende fotografische beelden (zoals een puzzel of mozaïek). Aspose.Imaging maakt het mogelijk om verschillende collages te maken met behulp van een groot aantal bestandsformaten.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Met Aspose.Imaging kunt u eenvoudig **Samenvoegen** toepassen voor verschillende afbeeldingsformaten programmatisch
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Volledige lijst met ondersteunde Samenvoegen-bewerkingen per afbeeldingsindeling:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

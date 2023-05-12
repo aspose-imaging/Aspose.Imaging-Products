@@ -13,9 +13,15 @@ description: 使用 Aspose.Imaging 你可以輕鬆地通過 java 獲取 抖動 �
 
 
 {{% blocks/products/pf/feature-page-section  h2="抖動 操作的所有支持格式 圖片" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+在計算機圖形學中，抖動用於在具有受限調色板的系統上賦予圖像顏色深度的外觀。來自可用調色板的彩色像素的擴散用於抖動圖像中，以近似調色板中不存在的顏色。 漫射在人眼看來是其中包含的顏色的混合。抖動照片通常可以通過明顯的顆粒感或斑點外觀來識別，尤其是在使用顏色很少的調色板時。抖動會向圖像添加噪聲或圖案，並且圖案通常很明顯。已經證明，在這些條件下，由藍噪聲產生的抖動是最不煩人和沒有吸引力的。 Aspose.Imaging 允許使用一些您可以選擇不需要的算法來抖動您的圖像。
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 使用 Aspose.Imaging 您可以輕鬆地將 **抖動** 應用於不同的圖像格式 以編程方式
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 按圖像格式支持的 抖動 操作的完整列表：
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

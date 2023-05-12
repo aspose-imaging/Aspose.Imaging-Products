@@ -13,9 +13,15 @@ description: Using Aspose.Imaging you can easily Cartoonify images Via net
 
 
 {{% blocks/products/pf/feature-page-section  h2="All supported image formats for Cartoonify operation" %}}
-Using Aspose.Imaging you can easily apply **Cartoonify** for different image formats programmatically
-<br/>
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Conversion of photo to cartoon is one of common operations used by a lot of artists. It help to obtain cartooned photo in few clicks without performing any painting work. Want to rapidly turn a standard image into a cartoon image? In this case you can try how it works in Aspose.Imaging library.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Using Aspose.Imaging you can easily apply <b>Cartoonify</b> for different image formats programmatically
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Full list of supported Cartoonify operations by image formats:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

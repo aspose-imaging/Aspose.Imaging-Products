@@ -13,9 +13,15 @@ description: באמצעות Aspose.Imaging תוכל בקלות בינאריזה 
 
 
 {{% blocks/products/pf/feature-page-section  h2="כל הפורמטים  תמונות הנתמכים עבור פעולת בינאריזה" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+החזית והרקע של תמונה מופרדים באמצעות טכניקה הנקראת סף תמונה. שיטה זו מקצה את ערכי הפיקסלים בהתאם לערכי הסף הנתונים. תמונות בגווני אפור נמצאות בסף בראייה ממוחשבת. אחת השיטות הידועות ביותר הן בינאריזציה על ידי <b>Otsu</b> ועל ידי <b>Bradley</b>. Aspose.Imaging תומך בשני האלגוריתמים. באמצעות אלגוריתמים אלה ניתן להמיר את התמונות שלך לשחור ולבן עם סף.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 באמצעות Aspose.Imaging אתה יכול בקלות להחיל את **בינאריזה** עבור פורמטים שונים של תמונה באופן תוכניתי
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 רשימה מלאה של פעולות בינאריזה נתמכות לפי פורמטים של תמונה:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

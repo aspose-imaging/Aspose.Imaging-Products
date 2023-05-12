@@ -13,9 +13,15 @@ description: Використовуючи Aspose.Imaging, ви можете ле
 
 
 {{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для операції Мультиплiкувати" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Перетворення фотографії в мультфільм є однією з поширених операцій, яку використовують багато художників. Це допомагає отримати мультиплікаційну фотографію в кілька кліків без виконання будь-яких робіт з малювання. Хочете швидко перетворити стандартне зображення на мультиплікаційне? У цьому випадку ви можете спробувати, як це працює в бібліотеці Aspose.Imaging.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Використовуючи Aspose.Imaging, ви можете легко виконати операцiю **Мультиплiкувати** для  зображень різних форматів програмно
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Повний список підтримуваних операцій Мультиплiкувати за форматами зображень:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

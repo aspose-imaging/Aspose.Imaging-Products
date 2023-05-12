@@ -13,9 +13,15 @@ description: 使用 Aspose.Imaging 你可以轻松地通过 java 获取 卡通�
 
 
 {{% blocks/products/pf/feature-page-section  h2="卡通化 操作的所有支持格式图片" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+将照片转换为卡通是许多艺术家常用的操作之一。它有助于在不执行任何绘画工作的情况下单击几下即可获得卡通照片。想快速将标准图片变成卡通图片？在这种情况下，您可以尝试它在 Aspose.Imaging 库中的工作原理。
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 使用 Aspose.Imaging 您可以轻松地将 **卡通化** 应用于不同的图像格式 以编程方式
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 按图像格式支持的 卡通化 操作的完整列表：
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

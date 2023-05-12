@@ -13,9 +13,15 @@ description: Aspose.Imaging を使用すると、net 経由で簡単に ディ�
 
 
 {{% blocks/products/pf/feature-page-section  h2="ディザ 操作でサポートされているすべての形式 画像" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+コンピュータ グラフィックスでは、制限されたカラー パレットを持つシステム上の画像に色深度の外観を与えるためにディザリングが使用されます。利用可能なパレットからの色付きピクセルの拡散は、パレットに存在しない色を近似するためにディザリングされた画像で使用されます。人間の目には、拡散はその中に含まれる色の混合として見えます 。ディザリングされた写真は、特に色の少ないパレットを使用する場合、独特の粒状感や斑点のある外観によって識別できることがよくあります。ディザリングは画像にノイズやパターンを追加しますが、多くの場合、そのパターンは明らかです。このような条件下では、ブルー ノイズによって生成されるディザーが最も不快で魅力的ではないことが実証されています。 Aspose.Imaging を使用すると、必要に応じて選択できるいくつかのアルゴリズムを使用して画像をディザリングできます。
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Aspose.Imaging を使用すると、さまざまな画像フォーマットに **ディザ** を簡単に適用できます プログラム的に
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 画像形式ごとにサポートされている ディザ 操作の完全なリスト:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

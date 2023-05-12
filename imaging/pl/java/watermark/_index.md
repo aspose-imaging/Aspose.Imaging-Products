@@ -13,9 +13,15 @@ description: Używając Aspose.Imaging możesz łatwo znak wodny obrazy Via java
 
 
 {{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty operacji obrazy znak wodny" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Cyfrowy znak wodny to rodzaj oznaczenia, które jest subtelnie umieszczane w sygnale, który może tolerować szumy, takie jak dane audio, wideo lub obrazy. Jest często używany do ustalenia, kto jest właścicielem praw autorskich do określonego sygnału. Praktyka znakowania wodnego obejmuje kodowanie danych cyfrowych do sygnału nośnego; ukryte dane powinny, ale nie muszą, odnosić się do sygnału nośnego. Legalność lub integralność sygnału nośnika może zostać potwierdzona za pomocą cyfrowych znaków wodnych, a także może zostać ujawniona tożsamość ich właścicieli. Jest często używany do uwierzytelniania banknotów i śledzenia naruszeń praw autorskich. Za pomocą Aspose.Imaging możesz łatwo dodać swój znak wodny do wybranego obrazu bez potrzeby używania dużej ilości kodu.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Używając Aspose.Imaging możesz łatwo zastosować **znak wodny** dla różnych formatów obrazów programowo
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Pełna lista obsługiwanych operacji znak wodny według formatów obrazu:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

@@ -13,9 +13,15 @@ description: Naudodami Aspose.Imaging galite lengvai sukurti Keisti foną vaizdu
 
 
 {{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Keisti foną attēlus formatai" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Fono keitimas yra viena iš labiausiai paplitusių operacijų, kurių reikia norint apdoroti nuotraukas ar vaizdus. Naudodami Aspose.Imaging galite lengvai pašalinti vienos nuotraukos foną ir įdėti priekinio plano objektą ant kitos. Taip pat galite atpažinti priekinio plano objektą ir, jei reikia, jį aptikti. Dėl to galite gauti skaidrų foną ir apdoroti, kaip jums reikia.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Naudodami Aspose.Imaging galite lengvai pritaikyti **Keisti foną** skirtingiems vaizdo formatams programmatiski
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Visas palaikomų operacijų Keisti foną sąrašas pagal vaizdo formatus:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

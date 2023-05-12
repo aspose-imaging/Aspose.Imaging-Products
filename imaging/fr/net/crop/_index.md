@@ -13,9 +13,15 @@ description: En utilisant Aspose.Imaging, vous pouvez facilement Recadrer images
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tous les images formats pris en charge pour l'opération Recadrer" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Le recadrage est le processus d'élimination des éléments superflus d'une photographie ou d'une illustration. La technique implique généralement la suppression d'une partie de la périphérie d'une image afin d'éliminer les informations visuelles superflues de la photographie, d'améliorer son cadrage, de modifier le rapport hauteur / largeur ou de mettre en valeur ou d'isoler le sujet de son environnement. Cela peut être fait numériquement en utilisant un logiciel d'édition d'images, ou cela peut être fait sur un véritable instantané, une œuvre d'art ou un morceau de film, selon l'application. Les industries de la photographie, du traitement des films, de la diffusion, de la conception graphique et de l'impression utilisent toutes le recadrage. Aspose.Imaging vous permet de recadrer des images avec divers paramètres spécifiés.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 En utilisant Aspose.Imaging, vous pouvez facilement appliquer **Recadrer** pour différents formats d'image par programmation
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Liste complète des opérations Recadrer prises en charge par formats d'image :
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

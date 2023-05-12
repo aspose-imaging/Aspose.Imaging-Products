@@ -13,9 +13,15 @@ description: 使用 Aspose.Imaging 你可以輕鬆地通過 net 獲取 卡通化
 
 
 {{% blocks/products/pf/feature-page-section  h2="卡通化 操作的所有支持格式 圖片" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+將照片轉換為卡通是許多藝術家常用的操作之一。它有助於在不執行任何繪畫工作的情況下單擊幾下即可獲得卡通照片。想快速將標準圖片變成卡通圖片？在這種情況下，您可以嘗試它在 Aspose.Imaging 庫中的工作原理。
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 使用 Aspose.Imaging 您可以輕鬆地將 **卡通化** 應用於不同的圖像格式 以編程方式
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 按圖像格式支持的 卡通化 操作的完整列表：
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

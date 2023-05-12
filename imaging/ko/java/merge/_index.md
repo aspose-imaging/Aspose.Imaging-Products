@@ -13,9 +13,15 @@ description: Aspose.Imaging을 사용하면 java을 통해 쉽게 병합 이미�
 
 
 {{% blocks/products/pf/feature-page-section  h2="병합 작업에 대해 지원되는 모든 형식 이미지" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+이미지 병합 작업을 사용하면 품질 손실 없이 2개 이상의 이미지를 수직 또는 수평으로 하나로 결합할 수 있습니다. 사진 콜라주는 때로는 서로 직접 관련되지 않은 여러 이미지를 결합하여 새로운 사진이나 이미지를 만드는 것입니다. 사진가가 원하는 효과는 하나의 이미지를 다른 이미지에 중첩하거나 많은(2개 이상) 이미지를 단일 전체로 결합하여 만들어지며 때로는 서로 다른 사진 이미지(예: 퍼즐 또는 모자이크)를 혼란스럽게 사용합니다. Aspose.Imaging을 사용하면 다양한 파일 형식을 사용하여 다양한 콜라주를 만들 수 있습니다.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Aspose.Imaging을 사용하면 다양한 이미지 형식에 **병합** 을(를) 쉽게 적용할 수 있습니다 프로그래밍 방식으로. 
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 이미지 형식별로 지원되는 병합 작업의 전체 목록:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

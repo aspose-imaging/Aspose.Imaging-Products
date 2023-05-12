@@ -13,9 +13,15 @@ description: Using Aspose.Imaging you can easily Crop images Via net
 
 
 {{% blocks/products/pf/feature-page-section  h2="All supported image formats for Crop operation" %}}
-Using Aspose.Imaging you can easily apply **Crop** for different image formats programmatically
-<br/>
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Cropping is the process of eliminating extraneous elements from a photograph or illustration. The technique typically entails the removal of a portion of an image's periphery in order to eliminate extraneous visual information from the photograph, enhance its framing, alter the aspect ratio, or emphasize or isolate the subject from its surroundings. This can be done digitally by utilizing image editing software, or it can be done on a real snapshot, piece of art, or piece of film, depending on the application. The photographic, film processing, broadcasting, graphic design, and printing industries all use cropping. Aspose.Imaging allows you to crop images with specified various parameters.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Using Aspose.Imaging you can easily apply <b>Crop</b> for different image formats programmatically
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Full list of supported Crop operations by image formats:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

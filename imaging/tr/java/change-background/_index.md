@@ -13,9 +13,15 @@ description: Aspose.Imaging'i kullanarak, java Aracılığıyla kolayca Arka pla
 
 
 {{% blocks/products/pf/feature-page-section  h2="Arka planı değiştir işlemi Görüntüler için desteklenen tüm biçimler" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Arka planı değiştir, fotoğraflarınızı veya resimlerinizi işlemek için gereken en yaygın işlemlerden biridir. Aspose.Imaging'i kullanarak bir fotoğrafınızdan arka planı kolayca kaldırabilir ve ön plan nesnesini başka bir fotoğrafa koyabilirsiniz. Ayrıca ön plan nesnesini tanıyabilir ve gerekirse tespit edebilirsiniz. Sonuç olarak şeffaf bir arka plan elde edebilir ve ihtiyacınıza göre işlem yapabilirsiniz.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Aspose.Imaging'i kullanarak farklı görüntü formatları için **Arka planı değiştir** işlemini kolayca uygulayabilirsiniz programlı olarak
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Görüntü biçimlerine göre desteklenen {işlem adı} işlemlerinin tam listesi:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

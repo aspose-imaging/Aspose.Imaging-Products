@@ -13,9 +13,15 @@ description: Aspose.Imaging을 사용하면 java을 통해 쉽게 만화화하�
 
 
 {{% blocks/products/pf/feature-page-section  h2="만화화하다 작업에 대해 지원되는 모든 형식 이미지" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+사진을 만화로 변환하는 것은 많은 예술가들이 사용하는 일반적인 작업 중 하나입니다. 페인팅 작업을 수행하지 않고도 몇 번의 클릭만으로 만화 사진을 얻을 수 있습니다. 표준 이미지를 만화 이미지로 빠르게 바꾸고 싶습니까? 이 경우 Aspose.Imaging 라이브러리에서 어떻게 작동하는지 확인할 수 있습니다.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Aspose.Imaging을 사용하면 다양한 이미지 형식에 **만화화하다** 을(를) 쉽게 적용할 수 있습니다 프로그래밍 방식으로. 
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 이미지 형식별로 지원되는 만화화하다 작업의 전체 목록:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

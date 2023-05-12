@@ -13,9 +13,15 @@ description: Pomocí Aspose.Imaging můžete snadno Filtr obrázky přes net
 
 
 {{% blocks/products/pf/feature-page-section  h2="Všechny podporované snímky formáty pro operaci Filtr" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Ve fotografii a kinematografii je filtr příslušenstvím fotoaparátu sestávajícím z optického filtru, který lze vložit do optické dráhy. Filtr může mít čtvercový nebo podlouhlý tvar a je namontován v držáku, nebo častěji ve skleněném nebo plastovém kotouči v kovovém nebo plastovém prstencovém rámu, který lze našroubovat na přední část objektivu fotoaparátu nebo jej na něj připevnit. Filtry mění zaznamenané snímky. Používají se k úpravě fotografií někdy velmi málo a jindy jsou pro vytvoření obrazu zcela nezbytné. V monochromatické fotografii mění barevné filtry relativní jas různých barev; červená rtěnka se může zdát kdekoli mezi téměř bílou a téměř černou v závislosti na použitém filtru. Jiné upravují vyvážení barev obrazu tak, aby snímky pořízené v žárovkovém osvětlení zobrazovaly barvy tak, jak jsou vnímány, spíše než s načervenalým nádechem. Existují filtry, které záměrně zkreslují obraz, dodávají jinak ostrému obrazu hvězdný vzhled atd. Šikmé odrazy od nekovových ploch jsou redukovány pomocí lineárních a kruhových polarizačních filtrů. Aspose.Imaging podporuje takové filtry jako Gaussian Blur, Sharpen, Median Filter, Motion Weiner a mnoho dalších.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Pomocí Aspose.Imaging můžete snadno použít **Filtr** pro různé formáty obrázků programově
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Úplný seznam podporovaných operací Filtr podle formátů obrázků:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

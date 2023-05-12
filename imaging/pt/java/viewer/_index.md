@@ -13,9 +13,15 @@ description: Usando Aspose.Imaging, você pode facilmente imagens Ver imagem Via
 
 
 {{% blocks/products/pf/feature-page-section  h2="Todos os formatos suportados para a operação imagens Ver imagem" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Quando você precisar visualizar sua imagem ou foto que não possui um formato amplamente preenchido, você pode visualizá-la facilmente convertida para um formato popular. Usando o Aspose.Imaging, você pode visualizar diferentes arquivos de imagem sem instalar programas especiais específicos para diferentes formatos de imagem.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Usando o Aspose.Imaging, você pode facilmente aplicar **Ver imagem** para diferentes formatos de imagem programaticamente
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Lista completa de operações Ver imagem suportadas por formatos de imagem:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

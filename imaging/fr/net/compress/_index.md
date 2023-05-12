@@ -13,9 +13,16 @@ description: En utilisant Aspose.Imaging, vous pouvez facilement Compresse image
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tous les images formats pris en charge pour l'opération Compresse" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+La compression d'image est une sorte de compression de données utilisée pour réduire le coût de stockage ou de transmission des photos numériques. Par rapport aux techniques générales de compression de données utilisées pour d'autres données numériques, les algorithmes peuvent bénéficier de la perception visuelle et des caractéristiques statistiques des données d'image.
+En utilisant Aspose.Imaging, vous pouvez compresser différents types d'images qui peuvent répondre à presque tous vos besoins.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 En utilisant Aspose.Imaging, vous pouvez facilement appliquer **Compresse** pour différents formats d'image par programmation
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Liste complète des opérations Compresse prises en charge par formats d'image :
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

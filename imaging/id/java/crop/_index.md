@@ -13,9 +13,15 @@ description: Menggunakan Aspose.Imaging Anda dapat dengan mudah Tanaman gambar V
 
 
 {{% blocks/products/pf/feature-page-section  h2="Semua gambar-gambar format yang didukung untuk operasi Tanaman" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Pemotongan adalah proses menghilangkan elemen asing dari foto atau ilustrasi. Teknik ini biasanya memerlukan penghilangan sebagian pinggiran gambar untuk menghilangkan informasi visual asing dari foto, menyempurnakan pembingkaiannya, mengubah rasio aspek, atau menekankan atau mengisolasi subjek dari sekelilingnya. Ini dapat dilakukan secara digital dengan menggunakan perangkat lunak pengedit gambar, atau dapat dilakukan pada snapshot nyata, karya seni, atau film, tergantung pada aplikasinya. Industri fotografi, pemrosesan film, penyiaran, desain grafis, dan percetakan semuanya menggunakan pemotongan. Aspose.Imaging memungkinkan Anda memotong gambar dengan berbagai parameter tertentu.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Menggunakan Aspose.Imaging Anda dapat dengan mudah menerapkan **Tanaman** untuk berbagai format gambar secara terprogram
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Daftar lengkap operasi Tanaman yang didukung menurut format gambar:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

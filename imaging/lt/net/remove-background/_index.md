@@ -13,9 +13,15 @@ description: Naudodami Aspose.Imaging galite lengvai sukurti Pašalinti foną va
 
 
 {{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Pašalinti foną attēlus formatai" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Fono pašalinimas – tai operacija, leidžianti lengvai pašalinti foną iš nuotraukų ar vaizdų. Dėl fono pašalinimo galite gauti skaidrų foną ir perkelti į kitą foną. Naudodami Aspose.Imaging galite išbandyti skirtingus fono pašalinimo algoritmus, kurie gali atitikti jūsų poreikius skirtingiems vaizdams.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Naudodami Aspose.Imaging galite lengvai pritaikyti **Pašalinti foną** skirtingiems vaizdo formatams programmatiski
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Visas palaikomų operacijų Pašalinti foną sąrašas pagal vaizdo formatus:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

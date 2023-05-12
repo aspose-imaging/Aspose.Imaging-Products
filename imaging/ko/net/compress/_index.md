@@ -13,9 +13,16 @@ description: Aspose.Imaging을 사용하면 net을 통해 쉽게 압박 붕대 �
 
 
 {{% blocks/products/pf/feature-page-section  h2="압박 붕대 작업에 대해 지원되는 모든 형식 이미지" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+이미지 압축은 디지털 사진을 저장하거나 전송하는 비용을 낮추기 위해 사용되는 일종의 데이터 압축입니다. 다른 디지털 데이터에 사용되는 일반적인 데이터 압축 기술과 비교할 때 알고리즘은 시각적 인식과 그림 데이터의 통계적 특성에서 이점을 얻을 수 있습니다.
+Aspose.Imaging을 사용하면 거의 모든 필요에 맞는 다양한 이미지 유형을 압축할 수 있습니다.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Aspose.Imaging을 사용하면 다양한 이미지 형식에 **압박 붕대** 을(를) 쉽게 적용할 수 있습니다 프로그래밍 방식으로. 
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 이미지 형식별로 지원되는 압박 붕대 작업의 전체 목록:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

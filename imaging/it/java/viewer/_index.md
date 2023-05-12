@@ -13,9 +13,15 @@ description: Usando Aspose.Imaging puoi facilmente Guarda l'immagine immagini tr
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tutti i immagini formati supportati per l'operazione Guarda l'immagine" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Quando hai bisogno di visualizzare la tua immagine o foto che non ha un formato molto popolato, puoi facilmente visualizzarla in anteprima convertita in un formato popolare. Utilizzando Aspose.Imaging è possibile visualizzare diversi file di immagine senza installare programmi speciali specifici per diversi formati di immagine.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Usando Aspose.Imaging puoi facilmente applicare **Guarda l'immagine** per diversi formati di immagine programmaticamente
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Elenco completo delle operazioni Guarda l'immagine supportate per formati immagine:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

@@ -13,9 +13,15 @@ description: En utilisant Aspose.Imaging, vous pouvez facilement Fusionner image
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tous les images formats pris en charge pour l'opération Fusionner" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+L'opération de fusion d'images permet de combiner 2 images ou plus en une seule verticalement ou horizontalement sans perte de qualité. Le collage de photos est la création d'une nouvelle photo ou image en combinant plusieurs images, parfois non directement liées les unes aux autres photos. L'effet recherché par le photographe est créé en superposant une image sur une autre ou en combinant plusieurs (plus de 2) images en un seul ensemble, parfois avec l'utilisation chaotique de différentes images photographiques (comme un puzzle ou une mosaïque). Aspose.Imaging permet de créer différents collages en utilisant une grande quantité de formats de fichiers.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 En utilisant Aspose.Imaging, vous pouvez facilement appliquer **Fusionner** pour différents formats d'image par programmation
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Liste complète des opérations Fusionner prises en charge par formats d'image :
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

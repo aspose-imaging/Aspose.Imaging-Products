@@ -13,9 +13,15 @@ description: Używając Aspose.Imaging możesz łatwo Dostosować obrazy Via net
 
 
 {{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty operacji obrazy Dostosować" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Jedną z głównych funkcji oferowanych przez większość bibliotek obrazowania jest korekcja kolorów zdjęć cyfrowych. Regulacja kolorów zawiera następujące kategorie: (1) Termin jasność opisuje, jak jasna lub ciemna jest barwa. Wszystkie kolory na obrazie są podświetlane, gdy jasność jest zwiększona, a wszystkie kolory są przyciemniane, gdy jasność jest zmniejszana; (2) Gdy obraz ma kontrast, znajdujące się na nim obiekty lub szczegóły są bardziej widoczne. Wraz ze wzrostem kontrastu zwiększa się różnica między jasnymi i ciemnymi częściami, dzięki czemu jasne obszary stają się jaśniejsze, a ciemne ciemniejsze. Jaśniejsze i ciemniejsze części zasadniczo pozostaną takie same z mniejszym kontrastem, ale ogólny obraz będzie wyglądał bardziej jednolicie; (3) Gamma zwiększa jasność i kontrast pośredniego oświetlenia, które oświetla obiekt na obrazie. Aspose.Imaging obsługuje regulację <b>Jasności</b>, <b>Gammy</b> i <b>Kontrastu</b> obrazów.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Używając Aspose.Imaging możesz łatwo zastosować **Dostosować** dla różnych formatów obrazów programowo
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Pełna lista obsługiwanych operacji Dostosować według formatów obrazu:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

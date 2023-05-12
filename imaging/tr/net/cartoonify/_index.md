@@ -13,9 +13,15 @@ description: Aspose.Imaging'i kullanarak, net Aracılığıyla kolayca karikatü
 
 
 {{% blocks/products/pf/feature-page-section  h2="karikatürleştirmek işlemi Görüntüler için desteklenen tüm biçimler" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Fotoğrafın karikatüre dönüştürülmesi, birçok sanatçının kullandığı yaygın işlemlerden biridir. Herhangi bir boyama işlemi yapmadan birkaç tıklamayla çizgi film fotoğrafı elde etmeye yardımcı olur. Standart bir görüntüyü hızlı bir şekilde çizgi film görüntüsüne dönüştürmek ister misiniz? Bu durumda Aspose.Imaging kütüphanesinde nasıl çalıştığını deneyebilirsiniz.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Aspose.Imaging'i kullanarak farklı görüntü formatları için **karikatürleştirmek** işlemini kolayca uygulayabilirsiniz programlı olarak
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Görüntü biçimlerine göre desteklenen {işlem adı} işlemlerinin tam listesi:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

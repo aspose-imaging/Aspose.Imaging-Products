@@ -13,9 +13,15 @@ description: Usando Aspose.Imaging, você pode facilmente imagens Mude o fundo V
 
 
 {{% blocks/products/pf/feature-page-section  h2="Todos os formatos suportados para a operação imagens Mude o fundo" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Mudar fundo é uma das operações mais comuns necessárias para processar suas fotos ou imagens. Você pode facilmente remover o fundo de uma foto e colocar um objeto de primeiro plano em outra usando o Aspose.Imaging. Além disso, você pode reconhecer o objeto em primeiro plano e detectá-lo, se necessário. Como resultado, você pode obter fundo transparente e processar conforme necessário.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Usando o Aspose.Imaging, você pode facilmente aplicar **Mude o fundo** para diferentes formatos de imagem programaticamente
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Lista completa de operações Mude o fundo suportadas por formatos de imagem:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

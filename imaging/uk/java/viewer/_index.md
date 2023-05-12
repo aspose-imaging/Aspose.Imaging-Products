@@ -13,9 +13,15 @@ description: Використовуючи Aspose.Imaging, ви можете ле
 
 
 {{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для операції Переглянути" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Якщо вам потрібно переглянути зображення або фотографію, які не мають широкого формату, ви можете легко переглянути їх у конвертованому форматі. За допомогою Aspose.Imaging ви можете переглядати різні файли зображень, не встановлюючи спеціальних програм, які є специфічними для різних форматів зображень.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Використовуючи Aspose.Imaging, ви можете легко виконати операцiю **Переглянути** для  зображень різних форматів програмно
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Повний список підтримуваних операцій Переглянути за форматами зображень:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

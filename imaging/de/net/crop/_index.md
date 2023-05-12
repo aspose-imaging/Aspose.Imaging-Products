@@ -13,9 +13,15 @@ description: Mit Aspose.Imaging können Sie ganz einfach Ernte Bilder über net
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bilder Formate für den Vorgang Ernte" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Beim Zuschneiden werden überflüssige Elemente aus einem Foto oder einer Illustration entfernt. Bei dieser Technik wird typischerweise ein Teil der Bildperipherie entfernt, um überflüssige visuelle Informationen aus dem Foto zu entfernen, den Bildausschnitt zu verbessern, das Seitenverhältnis zu ändern oder das Motiv hervorzuheben oder von seiner Umgebung zu isolieren. Dies kann je nach Anwendung digital mithilfe einer Bildbearbeitungssoftware oder anhand eines echten Schnappschusses, Kunstwerks oder Films erfolgen. Die Foto-, Filmverarbeitungs-, Rundfunk-, Grafikdesign- und Druckindustrie nutzt das Zuschneiden. Mit Aspose.Imaging können Sie Bilder mit bestimmten verschiedenen Parametern zuschneiden.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Mit Aspose.Imaging können Sie ganz einfach **Ernte** für verschiedene Bildformate anwenden programmatisch
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Vollständige Liste der unterstützten Ernte-Vorgänge nach Bildformaten:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

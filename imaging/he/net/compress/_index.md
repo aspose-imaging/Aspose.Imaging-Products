@@ -13,9 +13,16 @@ description: באמצעות Aspose.Imaging תוכל בקלות לִדחוֹס ת
 
 
 {{% blocks/products/pf/feature-page-section  h2="כל הפורמטים  תמונות הנתמכים עבור פעולת לִדחוֹס" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+דחיסת תמונה היא מעין דחיסת נתונים המשמשת להורדת עלות האחסון או שידור התמונות הדיגיטליות. בהשוואה לטכניקות דחיסת נתונים כלליות המשמשות לנתונים דיגיטליים אחרים, אלגוריתמים עשויים להפיק תועלת מתפיסה חזותית ומהמאפיינים הסטטיסטיים של נתוני תמונה.
+באמצעות Aspose.Imaging אתה יכול לדחוס סוגי תמונות שונים שעשויים להתאים כמעט לכל הצרכים שלך.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 באמצעות Aspose.Imaging אתה יכול בקלות להחיל את **לִדחוֹס** עבור פורמטים שונים של תמונה באופן תוכניתי
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 רשימה מלאה של פעולות לִדחוֹס נתמכות לפי פורמטים של תמונה:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

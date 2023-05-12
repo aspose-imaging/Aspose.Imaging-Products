@@ -13,9 +13,15 @@ description: 使用 Aspose.Imaging 你可以輕鬆地通過 net 獲取 二值化
 
 
 {{% blocks/products/pf/feature-page-section  h2="二值化 操作的所有支持格式 圖片" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+使用稱為圖像閾值化的技術分離圖像的前景和背景。該方法根據給定的閾值分配像素值。灰度圖像在計算機視覺中被閾值化。最著名的方法之一是 <b>Otsu</b> 和 <b>Bradley</b> 提出的二值化方法。 Aspose.Imaging 支持這兩種算法。使用這些算法，您的圖像可以轉換為具有閾值的黑白圖像。
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 使用 Aspose.Imaging 您可以輕鬆地將 **二值化** 應用於不同的圖像格式 以編程方式
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 按圖像格式支持的 二值化 操作的完整列表：
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

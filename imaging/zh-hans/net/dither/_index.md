@@ -13,9 +13,15 @@ description: 使用 Aspose.Imaging 你可以轻松地通过 net 获取 抖动 �
 
 
 {{% blocks/products/pf/feature-page-section  h2="抖动 操作的所有支持格式图片" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+在计算机图形学中，抖动用于在具有受限调色板的系统上赋予图像颜色深度的外观。来自可用调色板的彩色像素的扩散用于抖动图像中，以近似调色板中不存在的颜色。 漫射在人眼看来是其中包含的颜色的混合。抖动照片通常可以通过明显的颗粒感或斑点外观来识别，尤其是在使用颜色很少的调色板时。抖动会向图像添加噪声或图案，并且图案通常很明显。已经证明，在这些条件下，由蓝噪声产生的抖动是最不烦人和没有吸引力的。 Aspose.Imaging 允许使用一些您可以选择不需要的算法来抖动您的图像。
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 使用 Aspose.Imaging 您可以轻松地将 **抖动** 应用于不同的图像格式 以编程方式
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 按图像格式支持的 抖动 操作的完整列表：
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

@@ -13,9 +13,15 @@ description: 使用 Aspose.Imaging 你可以轻松地通过 java 获取 移除�
 
 
 {{% blocks/products/pf/feature-page-section  h2="移除背景 操作的所有支持格式图片" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+删除背景是一种操作，可让您轻松地从照片或图像中删除背景。作为去除背景的结果，您可以获得透明背景并将前景置于另一个背景中。使用 Aspose.Imaging，您可以尝试不同的去除背景算法，这些算法可能适合您对不同图像的需求。
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 使用 Aspose.Imaging 您可以轻松地将 **移除背景** 应用于不同的图像格式 以编程方式
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 按图像格式支持的 移除背景 操作的完整列表：
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

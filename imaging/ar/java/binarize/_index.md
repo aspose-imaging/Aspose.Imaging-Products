@@ -13,9 +13,15 @@ description: باستخدام Aspose.Imaging يمكنك بسهولة ثنائي 
 
 
 {{% blocks/products/pf/feature-page-section  h2="جميع التنسيقا تالصور  المدعومة لعملية ثنائي" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+يتم فصل مقدمة وخلفية الصورة باستخدام تقنية تسمى عتبة الصورة. تقوم هذه الطريقة بتعيين قيم البكسل وفقًا لقيم الحد المحددة. يتم تحديد الصور ذات التدرج الرمادي في رؤية الكمبيوتر. إحدى الطرق الأكثر شهرة هي الطريقة الثنائية بواسطة <b> Otsu </b> وبواسطة <b> Bradley </b>. Aspose.imaging يدعم كلا الخوارزميات. باستخدام هذه الخوارزميات ، يمكن تحويل صورك إلى أبيض وأسود بحد أدنى.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 باستخدام Aspose.Imaging ، يمكنك بسهولة تطبيق **ثنائي** لتنسيقات الصور المختلفة برمجيا
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 القائمة الكاملة لعمليات ثنائي المدعومة حسب تنسيقات الصور:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

@@ -13,9 +13,15 @@ description: Naudodami Aspose.Imaging galite lengvai sukurti Pakeisti dydį vaiz
 
 
 {{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Pakeisti dydį attēlus formatai" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Galite pakeisti vaizdo dydį, kad jis būtų didesnis arba mažesnis, nepašalindami jokio turinio. Vaizdo matmenys keičiami, kai keičiamas jo dydis, o tai dažnai turi įtakos failo dydžiui ir vaizdo kokybei. Didžiulių nuotraukų dydžio sumažinimas, kad jas būtų lengviau išsiųsti el. paštu ar bendrinti internete, yra populiariausias nuotraukų susitraukimo pateisinimas. Rastrinės grafikos vaizdai turi būti keičiami sukuriant naują vaizdą su daugiau ar mažiau pikselių. Aspose.Imaging leidžia vartotojams skirtingus dydžio keitimo algoritmus, kurie leidžia pasirinkti reikiamą.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Naudodami Aspose.Imaging galite lengvai pritaikyti **Pakeisti dydį** skirtingiems vaizdo formatams programmatiski
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Visas palaikomų operacijų Pakeisti dydį sąrašas pagal vaizdo formatus:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

@@ -13,9 +13,15 @@ description: Używając Aspose.Imaging możesz łatwo Binaryzuj obrazy Via java
 
 
 {{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty operacji obrazy Binaryzuj" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Pierwszy plan i tło obrazu są rozdzielane za pomocą techniki zwanej progowaniem obrazu. Ta metoda przypisuje wartości pikseli zgodnie z zadanymi wartościami progowymi. Obrazy w skali szarości są progowane w wizji komputerowej. Jedną z najbardziej znanych metod jest Binaryzacja autorstwa <b>Otsu</b> i <b>Bradleya</b>. Aspose.Imaging obsługuje oba algorytmy. Korzystając z tych algorytmów, Twoje obrazy mogą zostać przekonwertowane na czarno-białe z progiem.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Używając Aspose.Imaging możesz łatwo zastosować **Binaryzuj** dla różnych formatów obrazów programowo
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Pełna lista obsługiwanych operacji Binaryzuj według formatów obrazu:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

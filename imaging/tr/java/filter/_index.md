@@ -13,9 +13,15 @@ description: Aspose.Imaging'i kullanarak, java Aracılığıyla kolayca filtre g
 
 
 {{% blocks/products/pf/feature-page-section  h2="filtre işlemi Görüntüler için desteklenen tüm biçimler" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Fotoğrafçılıkta ve sinematografide filtre, optik yola yerleştirilebilen bir optik filtreden oluşan bir kamera aksesuarıdır. Filtre, kare veya dikdörtgen şeklinde olabilir ve bir tutucu aksesuara veya daha yaygın olarak, kamera merceğinin önüne vidalanabilen veya klipslenebilen metal veya plastik halka çerçevedeki bir cam veya plastik diske monte edilebilir. Filtreler kaydedilen görüntüleri değiştirir. Fotoğrafları bazen çok az değiştirmek için kullanılırlar ve bazen görüntünün oluşturulması için tamamen gereklidirler. Tek renkli fotoğrafçılıkta, renkli filtreler çeşitli renklerin göreli parlaklığını değiştirir; kırmızı ruj, kullanılan filtreye bağlı olarak neredeyse beyaz ile neredeyse siyah arasında herhangi bir yerde görünebilir. Diğerleri, akkor aydınlatmada çekilen çekimlerin renkleri kırmızımsı bir tonla değil, algılandıkları gibi göstermesi için görüntünün renk dengesini ayarlar. Görüntüyü kasıtlı olarak bozan, keskin bir görüntüye parlak bir görünüm veren vs. filtreler vardır. Metalik olmayan yüzeylerden gelen eğik yansımalar, doğrusal ve dairesel polarizasyon filtreleri kullanılarak azaltılır. Aspose.Imaging, Gaussian Blur, Sharpen, Median Filter, Motion Weiner ve diğerleri gibi filtreleri destekler.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Aspose.Imaging'i kullanarak farklı görüntü formatları için **filtre** işlemini kolayca uygulayabilirsiniz programlı olarak
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Görüntü biçimlerine göre desteklenen {işlem adı} işlemlerinin tam listesi:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

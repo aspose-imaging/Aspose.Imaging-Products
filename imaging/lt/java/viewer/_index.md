@@ -13,9 +13,15 @@ description: Naudodami Aspose.Imaging galite lengvai sukurti Peržiūrėti Nuotr
 
 
 {{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Peržiūrėti Nuotrauka attēlus formatai" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Kai jums reikia peržiūrėti vaizdą ar nuotrauką, kurios formatas nėra plačiai naudojamas, galite lengvai peržiūrėti konvertuotą į populiarų formatą. Naudodami Aspose.Imaging galite peržiūrėti skirtingus vaizdo failus neįdiegę specialių programų, skirtų skirtingiems vaizdo formatams.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Naudodami Aspose.Imaging galite lengvai pritaikyti **Peržiūrėti Nuotrauka** skirtingiems vaizdo formatams programmatiski
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Visas palaikomų operacijų Peržiūrėti Nuotrauka sąrašas pagal vaizdo formatus:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

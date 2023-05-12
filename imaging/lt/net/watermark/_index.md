@@ -13,9 +13,15 @@ description: Naudodami Aspose.Imaging galite lengvai sukurti Vandens ženklas va
 
 
 {{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Vandens ženklas attēlus formatai" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Skaitmeninis vandens ženklas yra žymėjimo tipas, kuris yra subtiliai įtrauktas į signalą, kuris gali toleruoti triukšmą, pvz., garso, vaizdo ar vaizdo duomenis. Jis dažnai naudojamas norint nustatyti, kam priklauso autorių teisės į tam tikrą signalą. Vandenženklio praktika apima skaitmeninių duomenų kodavimą į nešiklio signalą; paslėpti duomenys turėtų, bet nebūtinai, būti susiję su nešlio signalu. Nešančiojo signalo teisėtumas arba vientisumas gali būti patvirtintas naudojant skaitmeninius vandens ženklus, taip pat gali būti atskleista jų savininkų tapatybė. Jis dažnai naudojamas banknotų autentifikavimui ir autorių teisių pažeidimams sekti. Naudodami Aspose.Imaging galite lengvai pridėti vandenženklį prie pasirinkto vaizdo, nenaudodami daug kodo.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Naudodami Aspose.Imaging galite lengvai pritaikyti **Vandens ženklas** skirtingiems vaizdo formatams programmatiski
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Visas palaikomų operacijų Vandens ženklas sąrašas pagal vaizdo formatus:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

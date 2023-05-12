@@ -13,9 +13,15 @@ description: Menggunakan Aspose.Imaging Anda dapat dengan mudah Lihat gambar gam
 
 
 {{% blocks/products/pf/feature-page-section  h2="Semua gambar-gambar format yang didukung untuk operasi Lihat gambar" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Saat Anda perlu melihat gambar atau foto Anda yang formatnya tidak banyak, Anda dapat dengan mudah mempratinjaunya dikonversi ke format populer. Menggunakan Aspose.Imaging Anda dapat melihat file gambar yang berbeda tanpa menginstal program khusus yang khusus untuk format gambar yang berbeda.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Menggunakan Aspose.Imaging Anda dapat dengan mudah menerapkan **Lihat gambar** untuk berbagai format gambar secara terprogram
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Daftar lengkap operasi Lihat gambar yang didukung menurut format gambar:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

@@ -13,9 +13,15 @@ description: En utilisant Aspose.Imaging, vous pouvez facilement Niveaux de gris
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tous les images formats pris en charge pour l'opération Niveaux de gris" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Une image en niveaux de gris est une image dans laquelle la valeur de chaque pixel est un échantillon unique indiquant uniquement une quantité de lumière ; c'est-à-dire qu'il ne transmet que des informations d'intensité. Les images en niveaux de gris sont utilisées dans la photographie numérique, l'imagerie générée par ordinateur et la colorimétrie. Les nuances de gris ne constituent que des images en niveaux de gris, un type de monochrome noir et blanc ou gris. Le noir a le contraste le plus faible tandis que le blanc a le plus de contraste. Les images en niveaux de gris sont distinctes des images en noir et blanc bitonales à un bit, qui sont des images avec seulement deux couleurs : noir et blanc (également appelées images à deux niveaux ou binaires) dans le contexte de l'imagerie informatique. Il existe de nombreuses nuances de gris entre les photos en niveaux de gris. En utilisant Aspose.Imaging, vous pouvez mettre en niveaux de gris vos images de différents formats.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 En utilisant Aspose.Imaging, vous pouvez facilement appliquer **Niveaux de gris** pour différents formats d'image par programmation
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Liste complète des opérations Niveaux de gris prises en charge par formats d'image :
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

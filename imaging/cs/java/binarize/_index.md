@@ -13,9 +13,15 @@ description: Pomocí Aspose.Imaging můžete snadno Binarizovat obrázky přes j
 
 
 {{% blocks/products/pf/feature-page-section  h2="Všechny podporované snímky formáty pro operaci Binarizovat" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Popředí a pozadí obrázku jsou odděleny pomocí techniky zvané prahování obrázku. Tato metoda přiřazuje hodnoty pixelů v souladu s danými prahovými hodnotami. Obrazy ve stupních šedi jsou v počítačovém vidění omezeny. Jednou z nejznámějších metod je binarizace od <b>Otsu</b> a od <b>Bradley</b>. Aspose.Imaging podporuje oba algoritmy. Pomocí těchto algoritmů lze vaše obrázky převést na černobílé s prahem.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Pomocí Aspose.Imaging můžete snadno použít **Binarizovat** pro různé formáty obrázků programově
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Úplný seznam podporovaných operací Binarizovat podle formátů obrázků:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

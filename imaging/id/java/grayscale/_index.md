@@ -13,9 +13,15 @@ description: Menggunakan Aspose.Imaging Anda dapat dengan mudah Skala abu-abu ga
 
 
 {{% blocks/products/pf/feature-page-section  h2="Semua gambar-gambar format yang didukung untuk operasi Skala abu-abu" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Gambar skala abu-abu adalah gambar di mana nilai setiap piksel adalah sampel tunggal yang hanya menunjukkan kuantitas cahaya; artinya, hanya menyampaikan informasi intensitas. Gambar skala abu-abu digunakan dalam fotografi digital, pencitraan yang dihasilkan komputer, dan kolorimetri. Nuansa abu-abu hanya membentuk gambar skala abu-abu, sejenis monokrom hitam-putih atau abu-abu. Hitam memiliki kontras terendah sedangkan putih memiliki kontras paling tinggi. Gambar skala abu-abu berbeda dari gambar hitam-putih bi-tonal satu-bit, yang merupakan gambar dengan hanya dua warna: hitam dan putih (juga dikenal sebagai gambar bilevel atau biner) dalam konteks pencitraan komputer. Ada banyak nuansa abu-abu di antaranya dalam foto skala abu-abu. Menggunakan Aspose.Imaging Anda dapat mengubah skala gambar Anda dari berbagai format.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Menggunakan Aspose.Imaging Anda dapat dengan mudah menerapkan **Skala abu-abu** untuk berbagai format gambar secara terprogram
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Daftar lengkap operasi Skala abu-abu yang didukung menurut format gambar:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

@@ -13,9 +13,16 @@ description: Aspose.Imaging'i kullanarak, java Aracılığıyla kolayca Kompres 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Kompres işlemi Görüntüler için desteklenen tüm biçimler" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Görüntü sıkıştırma, dijital fotoğrafları saklama veya iletme maliyetini düşürmek için kullanılan bir tür veri sıkıştırmadır. Diğer dijital veriler için kullanılan genel veri sıkıştırma teknikleriyle karşılaştırıldığında, algoritmalar görsel algıdan ve resim verilerinin istatistiksel özelliklerinden yararlanabilir.
+Aspose.Imaging'i kullanarak, neredeyse tüm ihtiyaçlarınıza uygun farklı görüntü türlerini sıkıştırabilirsiniz.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Aspose.Imaging'i kullanarak farklı görüntü formatları için **Kompres** işlemini kolayca uygulayabilirsiniz programlı olarak
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Görüntü biçimlerine göre desteklenen {işlem adı} işlemlerinin tam listesi:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

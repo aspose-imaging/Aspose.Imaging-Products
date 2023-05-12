@@ -13,9 +13,16 @@ description: Med Aspose.Imaging kan du enkelt Komprimera bilder via net
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alla bilder format som stöds för operationen Komprimera" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Bildkomprimering är en sorts datakomprimering som används för att sänka kostnaderna för att lagra eller överföra digitala bilder. Jämfört med allmänna datakomprimeringstekniker som används för andra digitala data, kan algoritmer dra nytta av visuell perception och de statistiska egenskaperna hos bilddata.
+Med Aspose.Imaging kan du komprimera olika bildtyper som kan passa nästan alla dina behov.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Med Aspose.Imaging kan du enkelt använda **Komprimera** för olika bildformat programmatiskt
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Fullständig lista över Komprimera-operationer som stöds efter bildformat:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

@@ -13,9 +13,15 @@ description: Mit Aspose.Imaging können Sie ganz einfach Wasserzeichen Bilder ü
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bilder Formate für den Vorgang Wasserzeichen" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Ein digitales Wasserzeichen ist eine Art Markierung, die subtil in ein Signal integriert wird, das Rauschen verträgt, beispielsweise Audio-, Video- oder Bilddaten. Es wird häufig verwendet, um festzustellen, wer das Urheberrecht an einem bestimmten Signal besitzt. Bei der Praxis des Wasserzeichens geht es darum, digitale Daten in ein Trägersignal zu kodieren; Die verborgenen Daten sollten, müssen sich aber nicht auf das Trägersignal beziehen. Mithilfe digitaler Wasserzeichen kann die Legitimität oder Integrität des Trägersignals bestätigt und auch die Identität ihrer Besitzer preisgegeben werden. Es wird häufig zur Echtheitsprüfung von Banknoten und zur Verfolgung von Urheberrechtsverletzungen eingesetzt. Mit Aspose.Imaging können Sie Ihr Wasserzeichen ganz einfach zu einem ausgewählten Bild hinzufügen, ohne viel Code zu benötigen.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Mit Aspose.Imaging können Sie ganz einfach **Wasserzeichen** für verschiedene Bildformate anwenden programmatisch
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Vollständige Liste der unterstützten Wasserzeichen-Vorgänge nach Bildformaten:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

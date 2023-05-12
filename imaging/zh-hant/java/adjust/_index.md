@@ -13,9 +13,15 @@ description: 使用 Aspose.Imaging 你可以輕鬆地通過 java 獲取 調整 �
 
 
 {{% blocks/products/pf/feature-page-section  h2="調整 操作的所有支持格式 圖片" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+大多數圖像庫提供的主要功能之一是數碼照片的色彩校正。顏色調整包含以下幾個類別： (1) 術語亮度描述色調的明暗程度。當亮度增加時，圖像中的所有顏色都會變亮，當亮度降低時，所有顏色都會變暗； (2) 當圖像有反差時，圖像中的物體或細節更突出。當對比度增加時，其亮部和暗部之間的差異會增加，使亮部更亮，暗部更暗。較亮和較暗的部分基本上保持不變，對比度較低，但整體圖像看起來更均勻； (3) Gamma 增強圖像中物體的間接照明的亮度和對比度。 Aspose.Imaging支持調整圖像的<b>Brightness</b>、<b>Gamma</b>和<b>Contrast</b>。
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 使用 Aspose.Imaging 您可以輕鬆地將 **調整** 應用於不同的圖像格式 以編程方式
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 按圖像格式支持的 調整 操作的完整列表：
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

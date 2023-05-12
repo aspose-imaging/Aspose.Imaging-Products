@@ -13,9 +13,15 @@ description: Using Aspose.Imaging you can easily View image images Via net
 
 
 {{% blocks/products/pf/feature-page-section  h2="All supported image formats for View image operation" %}}
-Using Aspose.Imaging you can easily apply **View image** for different image formats programmatically
-<br/>
+<p align="justify" style="text-indent:2em;font-size:15px;">
+When you need to view your image or photo that has not wide populated format, you can easily preview it converted to popular format. Using Aspose.Imaging you can view different image files without installing special programs that are specific for different image formats.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Using Aspose.Imaging you can easily apply <b>View image</b> for different image formats programmatically
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Full list of supported View image operations by image formats:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

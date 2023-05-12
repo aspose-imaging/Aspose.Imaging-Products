@@ -13,9 +13,15 @@ description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng Điều ch�
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tất cả các hình ảnh định dạng được hỗ trợ cho thao tác Điều chỉnh" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Một trong những tính năng chính được cung cấp bởi phần lớn các thư viện hình ảnh là hiệu chỉnh màu sắc cho ảnh kỹ thuật số. Điều chỉnh màu bao gồm một số danh mục sau như (1) Thuật ngữ độ sáng mô tả mức độ sáng hoặc tối của màu sắc. Tất cả các màu trong ảnh được chiếu sáng khi tăng độ sáng và tất cả các màu bị tối đi khi giảm độ sáng; (2) Khi một hình ảnh có độ tương phản, các đối tượng hoặc chi tiết bên trong nó sẽ nổi bật hơn. Khi độ tương phản tăng lên, sự khác biệt giữa phần sáng và tối tăng lên, làm cho vùng sáng sáng hơn và vùng tối tối hơn. Các phần sáng hơn và tối hơn về cơ bản sẽ giữ nguyên với độ tương phản ít hơn, nhưng hình ảnh tổng thể sẽ trông đồng nhất hơn; (3) Gamma tăng cường độ sáng và độ tương phản của ánh sáng gián tiếp chiếu sáng một đối tượng trong ảnh. Aspose.Imaging hỗ trợ điều chỉnh <b>Độ sáng</b>, <b>Gamma</b> và <b>Độ tương phản</b> của hình ảnh.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Sử dụng Aspose.Imaging, bạn có thể dễ dàng áp dụng **Điều chỉnh** cho các định dạng hình ảnh khác nhau lập trình
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Danh sách đầy đủ các thao tác Điều chỉnh được hỗ trợ theo định dạng hình ảnh:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

@@ -13,9 +13,16 @@ description: 使用 Aspose.Imaging 你可以轻松地通过 java 获取 压缩 �
 
 
 {{% blocks/products/pf/feature-page-section  h2="压缩 操作的所有支持格式图片" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+图像压缩是一种数据压缩，用于降低存储或传输数码照片的成本。与用于其他数字数据的一般数据压缩技术相比，算法可能受益于视觉感知和图片数据的统计特性。
+使用 Aspose.Imaging，您可以压缩几乎可以满足您所有需求的不同图像类型。
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 使用 Aspose.Imaging 您可以轻松地将 **压缩** 应用于不同的图像格式 以编程方式
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 按图像格式支持的 压缩 操作的完整列表：
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

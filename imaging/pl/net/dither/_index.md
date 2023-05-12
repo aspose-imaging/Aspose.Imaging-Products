@@ -13,9 +13,15 @@ description: Używając Aspose.Imaging możesz łatwo Dygotać obrazy Via net
 
 
 {{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty operacji obrazy Dygotać" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+W grafice komputerowej dithering jest używany do nadania obrazom głębi kolorów w systemach z ograniczoną paletą kolorów. Rozproszenie kolorowych pikseli z dostępnej palety jest używane w rozmytym obrazie w celu przybliżenia kolorów, których nie ma w palecie. Rozproszenie wydaje się ludzkiemu oku jako mieszanie zawartych w nim kolorów. Rozproszone fotografie często można rozpoznać po charakterystycznej ziarnistości lub plamkach, zwłaszcza w przypadku korzystania z palet o niewielkiej liczbie kolorów. Roztrząsanie dodaje do obrazu szum lub wzór, który często jest oczywisty. Wykazano, że w tych warunkach dither wywołany niebieskim szumem jest najmniej irytujący i nieatrakcyjny. Aspose.Imaging pozwala na ditherowanie obrazów za pomocą kilku algorytmów, które możesz wybrać według potrzeb.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Używając Aspose.Imaging możesz łatwo zastosować **Dygotać** dla różnych formatów obrazów programowo
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Pełna lista obsługiwanych operacji Dygotać według formatów obrazu:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

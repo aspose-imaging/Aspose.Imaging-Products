@@ -13,9 +13,15 @@ description: 使用 Aspose.Imaging 你可以輕鬆地通過 java 獲取 篩選 �
 
 
 {{% blocks/products/pf/feature-page-section  h2="篩選 操作的所有支持格式 圖片" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+在攝影和電影攝影中，濾鏡是一種相機配件，由可插入光路的光學濾鏡組成。濾鏡可以是方形或長方形，並安裝在支架附件中，或者更常見的是，金屬或塑料環形框架中的玻璃或塑料圓盤，可以擰入相機鏡頭的前部或夾在相機鏡頭上。過濾器會改變記錄的圖像。它們有時被用來對照片進行很小的改動，而有時它們對於創建圖像是完全必要的。在單色攝影中，彩色濾鏡改變各種顏色的相對亮度；根據使用的過濾器，紅色唇膏可能看起來介於近乎白色和近乎黑色之間。其他人調整圖像的色彩平衡，使在白熾燈照明下拍攝的照片顯示出人們所感知的顏色，而不是偏紅的色調。有些濾鏡會故意扭曲圖像，為原本清晰的圖像添加星空效果等。使用線性和圓偏振濾鏡可以減少非金屬表面的傾斜反射。 Aspose.Imaging 支持 Gaussian Blur、Sharpen、Median Filter、Motion Weiner 等濾鏡。
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 使用 Aspose.Imaging 您可以輕鬆地將 **篩選** 應用於不同的圖像格式 以編程方式
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 按圖像格式支持的 篩選 操作的完整列表：
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

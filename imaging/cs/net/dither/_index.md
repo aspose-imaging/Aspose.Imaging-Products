@@ -13,9 +13,15 @@ description: Pomocí Aspose.Imaging můžete snadno Váhat obrázky přes net
 
 
 {{% blocks/products/pf/feature-page-section  h2="Všechny podporované snímky formáty pro operaci Váhat" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+V počítačové grafice se dithering používá k vytvoření vzhledu barevné hloubky v obrazech v systémech s omezenou paletou barev. Rozptýlení barevných pixelů z dostupné palety se používá v tónovaném obrázku k aproximaci barev, které nejsou přítomny v paletě.Difúze se lidskému oku jeví jako mísení barev v něm obsažených. Tónované fotografie jsou často rozpoznatelné podle výrazné zrnitosti nebo skvrnitého vzhledu, zejména při použití palet s malým počtem barev. Rozklad přidává do obrazu šum nebo vzor a vzor je často zřejmý. Bylo prokázáno, že za těchto podmínek je dither produkovaný modrým šumem nejméně obtěžující a neatraktivní. Aspose.Imaging umožňuje rozložit vaše obrázky pomocí několika algoritmů, které si můžete vybrat, které potřebujete.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Pomocí Aspose.Imaging můžete snadno použít **Váhat** pro různé formáty obrázků programově
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Úplný seznam podporovaných operací Váhat podle formátů obrázků:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

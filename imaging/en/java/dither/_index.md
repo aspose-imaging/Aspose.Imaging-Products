@@ -13,9 +13,15 @@ description: Using Aspose.Imaging you can easily Dither images Via java
 
 
 {{% blocks/products/pf/feature-page-section  h2="All supported image formats for Dither operation" %}}
-Using Aspose.Imaging you can easily apply **Dither** for different image formats programmatically
-<br/>
+<p align="justify" style="text-indent:2em;font-size:15px;">
+In computer graphics, dithering is used to give the appearance of color depth in images on systems with a constrained color palette. A diffusion of colored pixels from the available palette is used in a dithered image to approximate colors that are not present in the palette. The diffusion appears to the human eye as a mingling of the colors contained within it. Dithered photographs are frequently identifiable by a distinctive graininess or speckled appearance, especially when utilizing palettes with few colors. Dithering adds noise or a pattern to an image, and the pattern is frequently obvious. It has been demonstrated that under these conditions, dither produced by blue noise is the least annoying and unattractive. Aspose.Imaging allows to dither your images with few algorithms that you can select needed by your needless.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Using Aspose.Imaging you can easily apply <b>Dither</b> for different image formats programmatically
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Full list of supported Dither operations by image formats:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

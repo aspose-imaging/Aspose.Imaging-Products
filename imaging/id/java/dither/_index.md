@@ -13,9 +13,15 @@ description: Menggunakan Aspose.Imaging Anda dapat dengan mudah Gentar gambar Vi
 
 
 {{% blocks/products/pf/feature-page-section  h2="Semua gambar-gambar format yang didukung untuk operasi Gentar" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Dalam grafik komputer, dithering digunakan untuk memberikan tampilan kedalaman warna pada gambar pada sistem dengan palet warna yang dibatasi. Difusi piksel berwarna dari palet yang tersedia digunakan dalam gambar yang ragu-ragu untuk memperkirakan warna yang tidak ada dalam palet. Difusi tampak oleh mata manusia sebagai percampuran warna yang terkandung di dalamnya. Foto-foto yang dithered sering dapat dikenali dari bintik-bintik yang khas atau tampilan berbintik-bintik, terutama saat menggunakan palet dengan sedikit warna. Dithering menambahkan noise atau pola pada gambar, dan polanya seringkali terlihat jelas. Telah dibuktikan bahwa dalam kondisi ini, gentar yang dihasilkan oleh derau biru adalah yang paling tidak mengganggu dan tidak menarik. Aspose.Imaging memungkinkan untuk mengubah gambar Anda dengan beberapa algoritme yang dapat Anda pilih sesuai kebutuhan Anda.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Menggunakan Aspose.Imaging Anda dapat dengan mudah menerapkan **Gentar** untuk berbagai format gambar secara terprogram
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Daftar lengkap operasi Gentar yang didukung menurut format gambar:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

@@ -13,9 +13,15 @@ description: Naudodami Aspose.Imaging galite lengvai sukurti Sureguliuoti vaizdu
 
 
 {{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Sureguliuoti attēlus formatai" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Viena iš pagrindinių daugelio vaizdų bibliotekų siūlomų funkcijų yra skaitmeninių nuotraukų spalvų korekcija. Spalvų koregavimas apima kelias kategorijas: (1) Terminas ryškumas apibūdina atspalvio šviesumą ar tamsumą. Padidinus ryškumą visos vaizdo spalvos apšviečiamos, o sumažinus ryškumą visos spalvos patamsėja; (2) Kai vaizdas turi kontrastą, jame esantys objektai ar detalės išsiskiria labiau. Padidinus kontrastą, didėja skirtumas tarp šviesių ir tamsių dalių, todėl šviesios sritys tampa šviesesnės, o tamsios – tamsesnės. Šviesesnės ir tamsesnės dalys iš esmės išliks tokios pačios su mažesniu kontrastu, tačiau bendras vaizdas atrodys vienodesnis; (3) Gama padidina netiesioginio apšvietimo, kuris apšviečia objektą vaizde, ryškumą ir kontrastą. „Aspose.Imaging“ palaiko vaizdų <b>ryškumo</b>, <b>gama</b> ir <b>kontrasto</b> reguliavimą.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Naudodami Aspose.Imaging galite lengvai pritaikyti **Sureguliuoti** skirtingiems vaizdo formatams programmatiski
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Visas palaikomų operacijų Sureguliuoti sąrašas pagal vaizdo formatus:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

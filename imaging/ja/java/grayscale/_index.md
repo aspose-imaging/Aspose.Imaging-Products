@@ -13,9 +13,15 @@ description: Aspose.Imaging を使用すると、java 経由で簡単に グレ�
 
 
 {{% blocks/products/pf/feature-page-section  h2="グレースケール 操作でサポートされているすべての形式 画像" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+グレースケール画像は、各ピクセルの値が光の量のみを示す単一のサンプルである画像です。つまり、強度情報のみを伝えます。グレースケール画像は、デジタル写真、コンピューター生成のイメージング、および測色で使用されます。グレーの陰影は、白黒またはグレーのモノクロの一種であるグレースケール画像のみを構成します。黒のコントラストが最も低く、白のコントラストが最も高くなります。グレースケール イメージは、コンピューター イメージングの文脈で黒と白の 2 色のみからなるイメージ (バイレベルまたはバイナリ イメージとも呼ばれます) である 1 ビットの二階調白黒イメージとは異なります。グレースケール写真には、その間に無数のグレーの階調が存在します。 Aspose.Imaging を使用すると、さまざまな形式の画像をグレースケール化できます。
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Aspose.Imaging を使用すると、さまざまな画像フォーマットに **グレースケール** を簡単に適用できます プログラム的に
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 画像形式ごとにサポートされている グレースケール 操作の完全なリスト:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

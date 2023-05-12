@@ -13,9 +13,15 @@ description: Aspose.Imaging을 사용하면 net을 통해 쉽게 이미지 보�
 
 
 {{% blocks/products/pf/feature-page-section  h2="이미지 보기 작업에 대해 지원되는 모든 형식 이미지" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+널리 사용되는 형식이 아닌 이미지나 사진을 볼 필요가 있을 때 널리 사용되는 형식으로 변환된 것을 쉽게 미리 볼 수 있습니다. Aspose.Imaging을 사용하면 다양한 이미지 형식에 특화된 특수 프로그램을 설치하지 않고도 다양한 이미지 파일을 볼 수 있습니다.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Aspose.Imaging을 사용하면 다양한 이미지 형식에 **이미지 보기** 을(를) 쉽게 적용할 수 있습니다 프로그래밍 방식으로. 
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 이미지 형식별로 지원되는 이미지 보기 작업의 전체 목록:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

@@ -13,9 +13,15 @@ description: Використовуючи Aspose.Imaging, ви можете ле
 
 
 {{% blocks/products/pf/feature-page-section  h2="Усі підтримувані формати зображень для операції Змінити фон" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Зміна фону є однією з найпоширеніших операцій, необхідних для обробки фотографій або зображень. Ви можете легко видалити фон з однієї вашої фотографії та помістити об’єкт переднього плану на іншу за допомогою Aspose.Imaging. Також ви можете розпізнати об'єкт переднього плану та виявити його, якщо це необхідно. В результаті ви можете отримати прозорий фон і обробляти так, як вам потрібно.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Використовуючи Aspose.Imaging, ви можете легко виконати операцiю **Змінити фон** для  зображень різних форматів програмно
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Повний список підтримуваних операцій Змінити фон за форматами зображень:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

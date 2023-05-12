@@ -13,9 +13,15 @@ description: Pomocí Aspose.Imaging můžete snadno Stupně šedi obrázky přes
 
 
 {{% blocks/products/pf/feature-page-section  h2="Všechny podporované snímky formáty pro operaci Stupně šedi" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Obraz ve stupních šedi je obraz, ve kterém je hodnota každého pixelu jeden vzorek indikující pouze množství světla; to znamená, že předává pouze informaci o intenzitě. Obrázky ve stupních šedi se používají v digitální fotografii, počítačově generovaném zobrazování a kolorimetrii. Odstíny šedé tvoří pouze obrázky ve stupních šedi, což je typ černobílého nebo šedého monochromatického. Černá má nejnižší kontrast, zatímco bílá má největší kontrast. Obrázky ve stupních šedi se liší od jednobitových dvoutónových černobílých obrázků, což jsou obrázky pouze se dvěma barvami: černou a bílou (také známé jako dvouúrovňové nebo binární obrázky) v kontextu počítačového zobrazování. Na fotografiích ve stupních šedi je mezi nimi mnoho odstínů šedé. Pomocí Aspose.Imaging můžete ve stupních šedi obrázky různých formátů.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Pomocí Aspose.Imaging můžete snadno použít **Stupně šedi** pro různé formáty obrázků programově
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Úplný seznam podporovaných operací Stupně šedi podle formátů obrázků:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

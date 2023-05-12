@@ -13,9 +13,15 @@ description: En utilisant Aspose.Imaging, vous pouvez facilement Tremblement ima
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tous les images formats pris en charge pour l'opération Tremblement" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+En infographie , le tramage est utilisé pour donner l'apparence de la profondeur de couleur dans les images sur des systèmes avec une palette de couleurs contrainte. Une diffusion de pixels colorés à partir de la palette disponible est utilisée dans une image tramée pour approximer les couleurs qui ne sont pas présentes dans la palette.La diffusion apparaît à l'œil humain comme un mélange des couleurs qu'il contient. Les photographies tramées sont souvent identifiables par un grain distinctif ou un aspect moucheté, en particulier lors de l'utilisation de palettes avec peu de couleurs. Le tramage ajoute du bruit ou un motif à une image, et le motif est souvent évident. Il a été démontré que dans ces conditions, le tramage produit par le bruit bleu est le moins gênant et inesthétique. Aspose.Imaging permet de tramer vos images avec quelques algorithmes que vous pouvez sélectionner selon vos besoins.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 En utilisant Aspose.Imaging, vous pouvez facilement appliquer **Tremblement** pour différents formats d'image par programmation
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Liste complète des opérations Tremblement prises en charge par formats d'image :
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

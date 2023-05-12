@@ -13,9 +13,15 @@ description: Med Aspose.Imaging kan du enkelt Dither bilder via java
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alla bilder format som stöds för operationen Dither" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+I datorgrafik används vibrering för att ge ett utseende av färgdjup i bilder på system med en begränsad färgpalett. En spridning av färgade pixlar från den tillgängliga paletten används i en vibrerad bild för att uppskatta färger som inte finns i paletten. Diffusionen framstår för det mänskliga ögat som en blandning av färgerna som finns i det. Riktade fotografier kan ofta identifieras genom en distinkt kornighet eller spräcklig utseende, särskilt när man använder paletter med få färger. Rastrering lägger till brus eller ett mönster till en bild, och mönstret är ofta uppenbart. Det har visat sig att under dessa förhållanden är vibration som produceras av blått brus det minst irriterande och oattraktiva. Aspose.Imaging gör det möjligt att vibrera dina bilder med några få algoritmer som du kan välja behövs av din onödiga.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Med Aspose.Imaging kan du enkelt använda **Dither** för olika bildformat programmatiskt
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Fullständig lista över Dither-operationer som stöds efter bildformat:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

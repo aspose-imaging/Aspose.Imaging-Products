@@ -13,9 +13,15 @@ description: Met behulp van Aspose.Imaging kunt u eenvoudig Bijsnijden afbeeldin
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde indelingen voor de bewerking afbeeldingen Bijsnijden" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Bijsnijden is het proces waarbij vreemde elementen uit een foto of illustratie worden verwijderd. De techniek omvat meestal het verwijderen van een deel van de omtrek van een afbeelding om externe visuele informatie van de foto te verwijderen, de kadrering te verbeteren, de beeldverhouding te wijzigen of het onderwerp te benadrukken of te isoleren van zijn omgeving. Dit kan digitaal worden gedaan door gebruik te maken van beeldbewerkingssoftware, of het kan worden gedaan op een echte foto, een kunstwerk of een film, afhankelijk van de toepassing. De fotografie-, filmverwerkings-, omroep-, grafische ontwerp- en grafische industrie gebruiken allemaal bijsnijden. Met Aspose.Imaging kunt u afbeeldingen bijsnijden met gespecificeerde verschillende parameters.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Met Aspose.Imaging kunt u eenvoudig **Bijsnijden** toepassen voor verschillende afbeeldingsformaten programmatisch
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Volledige lijst met ondersteunde Bijsnijden-bewerkingen per afbeeldingsindeling:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

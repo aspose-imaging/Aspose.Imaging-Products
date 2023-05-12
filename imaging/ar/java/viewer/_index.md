@@ -13,9 +13,15 @@ description: باستخدام Aspose.Imaging يمكنك بسهولة عرض ال
 
 
 {{% blocks/products/pf/feature-page-section  h2="جميع التنسيقا تالصور  المدعومة لعملية عرض الصورة" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+عندما تحتاج إلى عرض صورتك أو صورتك التي لا تحتوي على تنسيق واسع ، يمكنك بسهولة معاينتها وتحويلها إلى تنسيق شائع. باستخدام Aspose.Imaging يمكنك عرض ملفات صور مختلفة دون تثبيت برامج خاصة خاصة بتنسيقات الصور المختلفة.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 باستخدام Aspose.Imaging ، يمكنك بسهولة تطبيق **عرض الصورة** لتنسيقات الصور المختلفة برمجيا
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 القائمة الكاملة لعمليات عرض الصورة المدعومة حسب تنسيقات الصور:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

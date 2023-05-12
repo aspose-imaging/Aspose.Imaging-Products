@@ -13,9 +13,15 @@ description: Używając Aspose.Imaging możesz łatwo Przyciąć obrazy Via net
 
 
 {{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty operacji obrazy Przyciąć" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Przycinanie to proces usuwania zbędnych elementów ze zdjęcia lub ilustracji. Technika ta zwykle polega na usunięciu części obrzeża obrazu w celu wyeliminowania z niego dodatkowych informacji wizualnych, poprawienia jego kadrowania, zmiany proporcji lub podkreślenia lub odizolowania obiektu od otoczenia. Można to zrobić cyfrowo, korzystając z oprogramowania do edycji obrazu, lub można to zrobić na prawdziwej migawce, dziele sztuki lub fragmencie filmu, w zależności od zastosowania. Branża fotograficzna, obróbka filmów, nadawanie, projektowanie graficzne i poligrafia wykorzystują kadrowanie. Aspose.Imaging umożliwia przycinanie obrazów o określonych różnych parametrach.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Używając Aspose.Imaging możesz łatwo zastosować **Przyciąć** dla różnych formatów obrazów programowo
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Pełna lista obsługiwanych operacji Przyciąć według formatów obrazu:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

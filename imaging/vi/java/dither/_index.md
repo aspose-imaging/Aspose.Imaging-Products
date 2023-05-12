@@ -13,9 +13,15 @@ description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng Run lên hì
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tất cả các hình ảnh định dạng được hỗ trợ cho thao tác Run lên" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Trong đồ họa máy tính, phối màu được sử dụng để tạo độ sâu màu trong hình ảnh trên các hệ thống có bảng màu hạn chế. Sự khuếch tán của các điểm ảnh màu từ bảng màu có sẵn được sử dụng trong một hình ảnh phối màu để ước tính các màu không có trong bảng màu. Sự khuếch tán xuất hiện đối với mắt người dưới dạng sự pha trộn của các màu chứa bên trong nó. Các bức ảnh được phối màu thường có thể được xác định bằng vẻ ngoài nổi hạt hoặc lốm đốm đặc biệt, đặc biệt là khi sử dụng các bảng màu có ít màu. Phối màu thêm nhiễu hoặc mẫu vào hình ảnh và mẫu này thường rõ ràng. Người ta đã chứng minh rằng trong những điều kiện này, độ hòa sắc do tiếng ồn xanh tạo ra là ít gây khó chịu và kém hấp dẫn nhất. Aspose.Imaging cho phép hòa sắc hình ảnh của bạn bằng một số thuật toán mà bạn có thể chọn khi không cần thiết.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Sử dụng Aspose.Imaging, bạn có thể dễ dàng áp dụng **Run lên** cho các định dạng hình ảnh khác nhau lập trình
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Danh sách đầy đủ các thao tác Run lên được hỗ trợ theo định dạng hình ảnh:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

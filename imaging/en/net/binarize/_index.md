@@ -13,9 +13,15 @@ description: Using Aspose.Imaging you can easily Binarize images Via net
 
 
 {{% blocks/products/pf/feature-page-section  h2="All supported image formats for Binarize operation" %}}
-Using Aspose.Imaging you can easily apply **Binarize** for different image formats programmatically
-<br/>
+<p align="justify" style="text-indent:2em;font-size:15px;">
+The foreground and background of an image are separated using a technique called image thresholding. This method assigns the pixel values in accordance with the given threshold values. Grayscale images are thresholded in computer vision. One of the most known methods are Binarization by <b>Otsu</b> and by <b>Bradley</b>. Aspose.Imaging supports both algorithms. Using those algorithms your images can be converted to black and white with threshold.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Using Aspose.Imaging you can easily apply <b>Binarize</b> for different image formats programmatically
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Full list of supported Binarize operations by image formats:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

@@ -13,9 +13,15 @@ description: Using Aspose.Imaging you can easily Adjust images Via net
 
 
 {{% blocks/products/pf/feature-page-section  h2="All supported image formats for Adjust operation" %}}
-Using Aspose.Imaging you can easily apply **Adjust** for different image formats programmatically
-<br/>
+<p align="justify" style="text-indent:2em;font-size:15px;">
+One of the main features offered by the majority of imaging libraries is color corrections for digital photos.  Color adjustments contains following several categories as (1) The term brightness describes how light or dark a hue is. All colors in an image are illuminated when the brightness is increased, and all colors are darkened when the brightness is decreased; (2) When an image has contrast, the objects or details within it stand out more. When contrast is increased, the difference between its light and dark portions grows, making the light areas lighter and the dark sections darker. Lighter and darker parts will essentially remain the same with less contrast, but the overall image will look more uniform; (3) Gamma enhances the brightness and contrast of the indirect illumination that illuminates an object in the image. Aspose.Imaging supports adjusting of <b>Brightness</b>, <b>Gamma</b> and <b>Contrast</b> of images.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Using Aspose.Imaging you can easily apply <b>Adjust</b> for different image formats programmatically
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Full list of supported Adjust operations by image formats:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

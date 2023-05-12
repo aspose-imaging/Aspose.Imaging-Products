@@ -13,9 +13,15 @@ description: Aspose.Imaging'i kullanarak, net Aracılığıyla kolayca Titreşim
 
 
 {{% blocks/products/pf/feature-page-section  h2="Titreşim işlemi Görüntüler için desteklenen tüm biçimler" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Bilgisayar grafiklerinde, kısıtlı renk paletine sahip sistemlerde görüntülerde renk derinliği görünümü vermek için renk taklidi kullanılır. Palette bulunmayan renklere yaklaşmak için, taklidi yapılan bir görüntüde, mevcut paletteki renkli piksellerin dağılımı kullanılır. Yayılma, insan gözüne, içinde bulunan renklerin bir karışımı olarak görünür. Titreşimli fotoğraflar, özellikle az renk içeren paletler kullanılırken, genellikle ayırt edici bir grenlilik veya benekli görünüm ile tanımlanabilir. Titreşim bir görüntüye gürültü veya desen ekler ve model sıklıkla belirgindir. Bu koşullar altında, mavi gürültünün ürettiği titremenin en az rahatsız edici ve itici olduğu kanıtlanmıştır. Aspose.Imaging, ihtiyacınıza göre seçebileceğiniz birkaç algoritma ile görüntülerinizi titretmenize olanak tanır.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Aspose.Imaging'i kullanarak farklı görüntü formatları için **Titreşim** işlemini kolayca uygulayabilirsiniz programlı olarak
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Görüntü biçimlerine göre desteklenen {işlem adı} işlemlerinin tam listesi:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

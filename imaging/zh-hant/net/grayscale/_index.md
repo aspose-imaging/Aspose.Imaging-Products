@@ -13,9 +13,15 @@ description: 使用 Aspose.Imaging 你可以輕鬆地通過 net 獲取 灰階 �
 
 
 {{% blocks/products/pf/feature-page-section  h2="灰階 操作的所有支持格式 圖片" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+灰度圖像是這樣一種圖像，其中每個像素的值是單個樣本，僅表示一定量的光；也就是說，它只傳達強度信息。灰度圖像用於數碼攝影、計算機生成的成像和比色法。灰色陰影僅構成灰度圖像，一種黑白或灰色單色。黑色的對比度最低，而白色的對比度最高。灰度圖像不同於一位黑白圖像，在計算機成像的上下文中，黑白圖像是只有兩種顏色的圖像：黑色和白色（也稱為二值或二值圖像）。灰度照片之間有許多灰色陰影。使用 Aspose.Imaging 您可以對不同格式的圖像進行灰度化。
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 使用 Aspose.Imaging 您可以輕鬆地將 **灰階** 應用於不同的圖像格式 以編程方式
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 按圖像格式支持的 灰階 操作的完整列表：
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

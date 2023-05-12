@@ -13,9 +13,15 @@ description: Pomocí Aspose.Imaging můžete snadno Upravit obrázky přes net
 
 
 {{% blocks/products/pf/feature-page-section  h2="Všechny podporované snímky formáty pro operaci Upravit" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Jednou z hlavních funkcí nabízených většinou obrazových knihoven jsou barevné korekce pro digitální fotografie. Úpravy barev obsahuje několik kategorií jako (1) Termín jas popisuje, jak světlý nebo tmavý je odstín. Všechny barvy v obraze se rozsvítí, když se jas zvýší, a všechny barvy ztmavnou, když se jas sníží; (2) Když je obraz kontrastní, objekty nebo detaily v něm vyniknou více. Když se kontrast zvýší, rozdíl mezi jeho světlými a tmavými částmi roste, takže světlé oblasti jsou světlejší a tmavé části tmavší. Světlejší a tmavší části zůstanou v podstatě stejné s menším kontrastem, ale celkový obraz bude působit jednotněji; (3) Gamma zvyšuje jas a kontrast nepřímého osvětlení, které osvětluje objekt na snímku. Aspose.Imaging podporuje úpravu <b>Jasu</b>, <b>Gamma</b> a <b>Kontrastu</b> obrázků.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Pomocí Aspose.Imaging můžete snadno použít **Upravit** pro různé formáty obrázků programově
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Úplný seznam podporovaných operací Upravit podle formátů obrázků:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

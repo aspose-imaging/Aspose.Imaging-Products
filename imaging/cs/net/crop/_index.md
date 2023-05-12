@@ -13,9 +13,15 @@ description: Pomocí Aspose.Imaging můžete snadno Oříznutí obrázky přes n
 
 
 {{% blocks/products/pf/feature-page-section  h2="Všechny podporované snímky formáty pro operaci Oříznutí" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Oříznutí je proces odstranění cizích prvků z fotografie nebo ilustrace. Tato technika typicky zahrnuje odstranění části okraje obrazu za účelem eliminace vnějších vizuálních informací z fotografie, vylepšení jejího rámování, změny poměru stran nebo zdůraznění či izolace předmětu od jeho okolí. To lze provést digitálně pomocí softwaru pro úpravu obrázků nebo to lze provést na skutečném snímku, uměleckém díle nebo filmu, v závislosti na aplikaci. Fotografický průmysl, zpracování filmů, vysílání, grafický design a tiskařský průmysl používají ořezávání. Aspose.Imaging vám umožňuje oříznout obrázky se zadanými různými parametry.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Pomocí Aspose.Imaging můžete snadno použít **Oříznutí** pro různé formáty obrázků programově
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Úplný seznam podporovaných operací Oříznutí podle formátů obrázků:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

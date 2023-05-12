@@ -13,9 +13,15 @@ description: באמצעות Aspose.Imaging תוכל בקלות לְמַזֵג ת
 
 
 {{% blocks/products/pf/feature-page-section  h2="כל הפורמטים  תמונות הנתמכים עבור פעולת לְמַזֵג" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+פעולת מיזוג תמונות מאפשרת לשלב 2 תמונות או יותר לאחת אנכית או אופקית מבלי לאבד איכות. קולאז' תמונות הוא יצירה של תמונה או תמונה חדשה על ידי שילוב של מספר תמונות, לפעמים לא קשורות ישירות זו לתמונות. האפקט הרצוי על ידי הצלם נוצר על ידי הנחת תמונה אחת על אחרת או על ידי שילוב של תמונות רבות (יותר מ-2) למכלול אחד, לעיתים תוך שימוש כאוטי בתמונות צילום שונות (כגון פאזל או פסיפס). Aspose.Imaging מאפשר ליצור קולאז'ים שונים תוך שימוש בכמות רחבה של פורמטים של קבצים.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 באמצעות Aspose.Imaging אתה יכול בקלות להחיל את **לְמַזֵג** עבור פורמטים שונים של תמונה באופן תוכניתי
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 רשימה מלאה של פעולות לְמַזֵג נתמכות לפי פורמטים של תמונה:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

@@ -13,9 +13,15 @@ description: Mit Aspose.Imaging können Sie ganz einfach Karikaturisieren Bilder
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bilder Formate für den Vorgang Karikaturisieren" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Die Konvertierung von Fotos in Cartoons ist eine der häufigsten Operationen, die von vielen Künstlern durchgeführt werden. Es hilft, mit wenigen Klicks ein Cartoon-Foto zu erhalten, ohne Malarbeiten durchführen zu müssen. Möchten Sie ein Standardbild schnell in ein Cartoon-Bild umwandeln? In diesem Fall können Sie ausprobieren, wie es in der Aspose.Imaging-Bibliothek funktioniert.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Mit Aspose.Imaging können Sie ganz einfach **Karikaturisieren** für verschiedene Bildformate anwenden programmatisch
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Vollständige Liste der unterstützten Karikaturisieren-Vorgänge nach Bildformaten:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

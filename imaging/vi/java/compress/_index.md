@@ -13,9 +13,16 @@ description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng Nén hình �
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tất cả các hình ảnh định dạng được hỗ trợ cho thao tác Nén" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Nén hình ảnh là một loại nén dữ liệu được sử dụng để giảm chi phí lưu trữ hoặc truyền ảnh kỹ thuật số. Khi so sánh với các kỹ thuật nén dữ liệu chung được sử dụng cho các dữ liệu kỹ thuật số khác, các thuật toán có thể được hưởng lợi từ nhận thức trực quan và các đặc điểm thống kê của dữ liệu hình ảnh.
+Sử dụng Aspose.Imaging, bạn có thể nén các loại hình ảnh khác nhau có thể phù hợp với hầu hết mọi nhu cầu của bạn.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Sử dụng Aspose.Imaging, bạn có thể dễ dàng áp dụng **Nén** cho các định dạng hình ảnh khác nhau lập trình
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Danh sách đầy đủ các thao tác Nén được hỗ trợ theo định dạng hình ảnh:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

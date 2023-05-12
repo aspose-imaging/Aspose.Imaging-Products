@@ -13,9 +13,15 @@ description: Aspose.Imaging'i kullanarak, java Aracılığıyla kolayca gri tonl
 
 
 {{% blocks/products/pf/feature-page-section  h2="gri tonlama işlemi Görüntüler için desteklenen tüm biçimler" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Gri tonlamalı bir görüntü, her pikselin değerinin yalnızca bir ışık miktarını gösteren tek bir örnek olduğu görüntüdür; yani, yalnızca yoğunluk bilgisini iletir. Gri tonlamalı görüntüler, dijital fotoğrafçılıkta, bilgisayar tarafından oluşturulan görüntülemede ve kolorimetride kullanılır. Grinin gölgeleri yalnızca gri tonlamalı görüntüleri, bir tür siyah beyaz veya gri monokromu oluşturur. Siyah en düşük kontrasta sahipken, beyaz en fazla kontrasta sahiptir. Gri tonlamalı görüntüler, yalnızca iki renkli görüntüler olan bir bitlik iki tonlu siyah beyaz görüntülerden farklıdır: bilgisayar görüntüleme bağlamında siyah ve beyaz (iki seviyeli veya ikili görüntüler olarak da bilinir). Gri tonlamalı fotoğraflarda arada çok sayıda gri ton vardır. Aspose.Imaging'i kullanarak farklı formatlardaki resimlerinizin gri tonlamalarını yapabilirsiniz.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Aspose.Imaging'i kullanarak farklı görüntü formatları için **gri tonlama** işlemini kolayca uygulayabilirsiniz programlı olarak
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Görüntü biçimlerine göre desteklenen {işlem adı} işlemlerinin tam listesi:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

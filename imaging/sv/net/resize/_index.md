@@ -13,9 +13,15 @@ description: Med Aspose.Imaging kan du enkelt Ändra storlek bilder via net
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alla bilder format som stöds för operationen Ändra storlek" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Du kan ändra storlek på en bild för att göra den större eller mindre utan att behöva ta bort något innehåll. Bildens mått ändras när den ändras, vilket ofta påverkar filstorleken och bildkvaliteten. Att minska storleken på enorma bilder för att göra dem enklare att skicka e-post eller dela online är den mest populära motiveringen för att krympa bilder. Rastergrafikbilder måste skalas genom att skapa en ny bild med fler eller färre pixlar. Aspose.Imaging tillåter användare olika storleksändringar algoritmer som gör det möjligt att välja behövs.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Med Aspose.Imaging kan du enkelt använda **Ändra storlek** för olika bildformat programmatiskt
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Fullständig lista över Ändra storlek-operationer som stöds efter bildformat:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

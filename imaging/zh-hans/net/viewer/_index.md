@@ -13,9 +13,15 @@ description: 使用 Aspose.Imaging 你可以轻松地通过 net 获取 看图 �
 
 
 {{% blocks/products/pf/feature-page-section  h2="看图 操作的所有支持格式图片" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+当您需要查看格式不广泛的图像或照片时，您可以轻松预览转换为流行格式的图像。使用 Aspose.Imaging，您可以查看不同的图像文件，而无需安装特定于不同图像格式的特殊程序。
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 使用 Aspose.Imaging 您可以轻松地将 **看图** 应用于不同的图像格式 以编程方式
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 按图像格式支持的 看图 操作的完整列表：
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

@@ -13,9 +13,15 @@ description: Aspose.Imaging を使用すると、net 経由で簡単に マー�
 
 
 {{% blocks/products/pf/feature-page-section  h2="マージ 操作でサポートされているすべての形式 画像" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+画像の結合操作を使用すると、品質を損なうことなく、2 つ以上の画像を垂直方向または水平方向に 1 つに結合できます。フォトコラージュとは、複数の画像を組み合わせて新しい写真や画像を作成することです。場合によっては、それぞれの写真に直接関連性がない場合もあります。写真家が望む効果は、ある画像を別の画像に重ねたり、多くの（2 つ以上の）画像を組み合わせて 1 つの全体にすることによって作成されます。また、場合によっては、さまざまな写真画像 (パズルやモザイクなど) を無秩序に使用します。 Aspose.Imaging を使用すると、さまざまなファイル形式を使用してさまざまなコラージュを作成できます。
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Aspose.Imaging を使用すると、さまざまな画像フォーマットに **マージ** を簡単に適用できます プログラム的に
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 画像形式ごとにサポートされている マージ 操作の完全なリスト:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

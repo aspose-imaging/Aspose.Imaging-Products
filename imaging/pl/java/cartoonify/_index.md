@@ -13,9 +13,15 @@ description: Używając Aspose.Imaging możesz łatwo Kreskówka obrazy Via java
 
 
 {{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty operacji obrazy Kreskówka" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Konwersja zdjęcia do kreskówki to jedna z częstych operacji wykonywanych przez wielu artystów. Pomaga uzyskać rysowane zdjęcie za pomocą kilku kliknięć bez wykonywania jakichkolwiek prac malarskich. Chcesz szybko zamienić standardowy obraz w obraz animowany? W takim przypadku możesz spróbować jak to działa w bibliotece Aspose.Imaging.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Używając Aspose.Imaging możesz łatwo zastosować **Kreskówka** dla różnych formatów obrazów programowo
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Pełna lista obsługiwanych operacji Kreskówka według formatów obrazu:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

@@ -13,9 +13,15 @@ description: Mit Aspose.Imaging können Sie ganz einfach Binarisieren Bilder üb
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bilder Formate für den Vorgang Binarisieren" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Vorder- und Hintergrund eines Bildes werden mithilfe einer Technik namens Bildschwellenwertbildung getrennt. Bei dieser Methode werden die Pixelwerte entsprechend den vorgegebenen Schwellenwerten zugewiesen. Graustufenbilder werden in der Computer Vision mit einem Schwellenwert versehen. Eine der bekanntesten Methoden ist die Binarisierung von <b>Otsu</b> und von <b>Bradley</b>. Aspose.Imaging unterstützt beide Algorithmen. Mithilfe dieser Algorithmen können Ihre Bilder mit Schwellenwert in Schwarzweißbilder umgewandelt werden.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Mit Aspose.Imaging können Sie ganz einfach **Binarisieren** für verschiedene Bildformate anwenden programmatisch
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Vollständige Liste der unterstützten Binarisieren-Vorgänge nach Bildformaten:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

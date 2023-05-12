@@ -13,9 +13,15 @@ description: Usando Aspose.Imaging, você pode facilmente imagens Escala de cinz
 
 
 {{% blocks/products/pf/feature-page-section  h2="Todos os formatos suportados para a operação imagens Escala de cinza" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Uma imagem em tons de cinza é aquela em que o valor de cada pixel é uma única amostra indicando apenas uma quantidade de luz; ou seja, transmite apenas informações de intensidade. As imagens em tons de cinza são usadas em fotografia digital, imagens geradas por computador e colorimetria. Tons de cinza compõem apenas imagens em tons de cinza, uma espécie de preto e branco ou cinza monocromático. O preto tem o menor contraste, enquanto o branco tem o maior contraste. As imagens em tons de cinza são diferentes das imagens em preto e branco bitonais de um bit, que são imagens com apenas duas cores: preto e branco (também conhecidas como imagens de dois níveis ou binárias) no contexto de imagens de computador. Existem vários tons de cinza intermediários nas fotos em tons de cinza. Usando Aspose.Imaging, você pode escalar em tons de cinza suas imagens de diferentes formatos.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Usando o Aspose.Imaging, você pode facilmente aplicar **Escala de cinza** para diferentes formatos de imagem programaticamente
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Lista completa de operações Escala de cinza suportadas por formatos de imagem:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

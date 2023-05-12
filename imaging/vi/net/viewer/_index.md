@@ -13,9 +13,15 @@ description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng Xem hình �
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tất cả các hình ảnh định dạng được hỗ trợ cho thao tác Xem hình ảnh" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Khi bạn cần xem ảnh của mình hoặc ảnh không có định dạng phổ biến, bạn có thể dễ dàng xem trước nó được chuyển đổi sang định dạng phổ biến. Sử dụng Aspose.Imaging, bạn có thể xem các tệp hình ảnh khác nhau mà không cần cài đặt các chương trình đặc biệt dành riêng cho các định dạng hình ảnh khác nhau.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Sử dụng Aspose.Imaging, bạn có thể dễ dàng áp dụng **Xem hình ảnh** cho các định dạng hình ảnh khác nhau lập trình
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Danh sách đầy đủ các thao tác Xem hình ảnh được hỗ trợ theo định dạng hình ảnh:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

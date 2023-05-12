@@ -13,9 +13,15 @@ description: Usando Aspose.Imaging puede fácilmente Ajustar imágenes a través
 
 
 {{% blocks/products/pf/feature-page-section  h2="Todos los imágenes formatos admitidos para la operación Ajustar" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Una de las principales características que ofrece la mayoría de las bibliotecas de imágenes son las correcciones de color para fotografías digitales. Los ajustes de color contienen las siguientes categorías como (1) El término brillo describe qué tan claro u oscuro es un tono. Todos los colores de una imagen se iluminan cuando aumenta el brillo y todos los colores se oscurecen cuando disminuye el brillo; (2) Cuando una imagen tiene contraste, los objetos o detalles dentro de ella se destacan más. Cuando se aumenta el contraste, la diferencia entre sus partes claras y oscuras crece, haciendo que las áreas claras sean más claras y las oscuras más oscuras. Las partes más claras y más oscuras permanecerán esencialmente iguales con menos contraste, pero la imagen general se verá más uniforme; (3) Gamma mejora el brillo y el contraste de la iluminación indirecta que ilumina un objeto en la imagen. Aspose.Imaging admite el ajuste de <b>Brillo</b>, <b>Gamma</b> y <b>Contraste</b> de las imágenes.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Usando Aspose.Imaging puede aplicar fácilmente **Ajustar** para diferentes formatos de imagen programáticamente
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Lista completa de operaciones {nombre de operación} admitidas por formatos de imagen:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

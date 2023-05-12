@@ -13,9 +13,15 @@ description: Mit Aspose.Imaging können Sie ganz einfach Anpassen Bilder über j
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bilder Formate für den Vorgang Anpassen" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Eine der Hauptfunktionen, die die meisten Bildbibliotheken bieten, sind Farbkorrekturen für digitale Fotos. Farbanpassungen umfassen folgende Kategorien: (1) Der Begriff Helligkeit beschreibt, wie hell oder dunkel ein Farbton ist. Alle Farben in einem Bild werden beleuchtet, wenn die Helligkeit erhöht wird, und alle Farben werden abgedunkelt, wenn die Helligkeit verringert wird. (2) Wenn ein Bild kontrastreich ist, stechen die darin enthaltenen Objekte oder Details stärker hervor. Wenn der Kontrast erhöht wird, vergrößert sich der Unterschied zwischen den hellen und dunklen Bereichen, wodurch die hellen Bereiche heller und die dunklen Bereiche dunkler werden. Hellere und dunklere Teile bleiben im Wesentlichen gleich und weisen einen geringeren Kontrast auf, das Gesamtbild wirkt jedoch gleichmäßiger. (3) Gamma verstärkt die Helligkeit und den Kontrast der indirekten Beleuchtung, die ein Objekt im Bild beleuchtet. Aspose.Imaging unterstützt die Anpassung von <b>Helligkeit</b>, <b>Gamma</b> und <b>Kontrast</b> von Bildern.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Mit Aspose.Imaging können Sie ganz einfach **Anpassen** für verschiedene Bildformate anwenden programmatisch
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Vollständige Liste der unterstützten Anpassen-Vorgänge nach Bildformaten:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

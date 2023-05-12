@@ -13,9 +13,15 @@ description: Met behulp van Aspose.Imaging kunt u eenvoudig Filter afbeeldingen 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde indelingen voor de bewerking afbeeldingen Filter" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+In fotografie en cinematografie is een filter een camera-accessoire dat bestaat uit een optisch filter dat in het optische pad kan worden geplaatst. Het filter kan een vierkante of langwerpige vorm hebben en in een houderaccessoire worden gemonteerd, of, vaker, een glazen of plastic schijf in een metalen of plastic ringframe, dat in de voorkant van de cameralens kan worden geschroefd of op de cameralens kan worden geklikt. Filters veranderen de opgenomen beelden. Ze worden gebruikt om foto's soms heel weinig te veranderen, en soms zijn ze absoluut noodzakelijk voor het maken van de afbeelding. Bij zwart-witfotografie veranderen gekleurde filters de relatieve helderheid van verschillende kleuren; rode lippenstift kan ergens tussen bijna wit en bijna zwart lijken, afhankelijk van het gebruikte filter. Anderen passen de kleurbalans van het beeld aan, zodat opnamen die bij gloeilamplicht zijn gemaakt, kleuren weergeven zoals ze worden waargenomen in plaats van met een roodachtige tint. Er zijn filters die het beeld doelbewust vervormen, een sterachtige uitstraling toevoegen aan een anders scherp beeld, enz. Schuine reflecties van niet-metalen oppervlakken worden verminderd met behulp van lineaire en circulaire polarisatiefilters. Aspose.Imaging ondersteunt filters als Gaussian Blur, Sharpen, Median Filter, Motion Weiner en vele anderen.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Met Aspose.Imaging kunt u eenvoudig **Filter** toepassen voor verschillende afbeeldingsformaten programmatisch
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Volledige lijst met ondersteunde Filter-bewerkingen per afbeeldingsindeling:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

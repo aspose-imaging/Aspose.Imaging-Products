@@ -13,9 +13,15 @@ description: En utilisant Aspose.Imaging, vous pouvez facilement Redimensionner 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tous les images formats pris en charge pour l'opération Redimensionner" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Vous pouvez redimensionner une image pour l'agrandir ou la réduire sans avoir à supprimer de contenu. Les dimensions de l'image sont modifiées lorsqu'elle est redimensionnée, ce qui a souvent un impact sur la taille du fichier et la qualité de l'image. La réduction de la taille des images volumineuses pour les rendre plus faciles à envoyer par e-mail ou à partager en ligne est la justification la plus populaire pour réduire les photos. Les images graphiques raster doivent être mises à l'échelle en créant une nouvelle image avec plus ou moins de pixels. Aspose.Imaging permet aux utilisateurs différents algorithmes de redimensionnement qui permettent de choisir les besoins.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 En utilisant Aspose.Imaging, vous pouvez facilement appliquer **Redimensionner** pour différents formats d'image par programmation
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Liste complète des opérations Redimensionner prises en charge par formats d'image :
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

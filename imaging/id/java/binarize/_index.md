@@ -13,9 +13,15 @@ description: Menggunakan Aspose.Imaging Anda dapat dengan mudah Binarisasi gamba
 
 
 {{% blocks/products/pf/feature-page-section  h2="Semua gambar-gambar format yang didukung untuk operasi Binarisasi" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Foreground dan background dari suatu gambar dipisahkan menggunakan teknik yang disebut image thresholding. Metode ini memberikan nilai piksel sesuai dengan nilai threshold yang diberikan. Gambar skala abu-abu dibatasi dalam visi komputer. Salah satu metode yang paling dikenal adalah Binarisasi oleh <b>Otsu</b> dan oleh <b>Bradley</b>. Aspose.Imaging mendukung kedua algoritme. Dengan menggunakan algoritme tersebut, gambar Anda dapat dikonversi menjadi hitam putih dengan ambang batas.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Menggunakan Aspose.Imaging Anda dapat dengan mudah menerapkan **Binarisasi** untuk berbagai format gambar secara terprogram
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Daftar lengkap operasi Binarisasi yang didukung menurut format gambar:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

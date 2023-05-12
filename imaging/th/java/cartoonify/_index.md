@@ -13,9 +13,15 @@ description: เมื่อใช้ Aspose.Imaging คุณสามารถ
 
 
 {{% blocks/products/pf/feature-page-section  h2="รูปแบบที่รอ ภาพ งรับทั้งหมดสำหรับการดำเนินการ การ์ตูน" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+การแปลงภาพถ่ายเป็นการ์ตูนเป็นหนึ่งในการดำเนินการทั่วไปที่ศิลปินจำนวนมากใช้ ช่วยในการรับภาพการ์ตูนด้วยการคลิกเพียงไม่กี่ครั้งโดยไม่ต้องทำการวาดภาพใด ๆ ต้องการเปลี่ยนภาพมาตรฐานเป็นภาพการ์ตูนอย่างรวดเร็วหรือไม่? ในกรณีนี้ คุณสามารถลองใช้วิธีการทำงานในไลบรารี Aspose.Imaging
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 เมื่อใช้ Aspose.Imaging คุณสามารถใช้ **การ์ตูน** สำหรับรูปแบบภาพต่างๆ ได้อย่างง่ายดาย โดยทางโปรแกรม
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 รายการทั้งหมดของการดำเนินการ การ์ตูน ที่รองรับตามรูปแบบอิมเมจ:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

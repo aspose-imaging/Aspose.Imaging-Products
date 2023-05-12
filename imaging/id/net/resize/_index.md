@@ -13,9 +13,15 @@ description: Menggunakan Aspose.Imaging Anda dapat dengan mudah Ubah ukuran gamb
 
 
 {{% blocks/products/pf/feature-page-section  h2="Semua gambar-gambar format yang didukung untuk operasi Ubah ukuran" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Anda dapat mengubah ukuran gambar menjadi lebih besar atau lebih kecil tanpa harus menghapus konten apa pun. Dimensi gambar diubah saat diubah ukurannya, yang sering berdampak pada ukuran file dan kualitas gambar. Mengurangi ukuran gambar besar agar lebih mudah dikirim melalui email atau dibagikan secara online adalah pembenaran paling populer untuk mengecilkan foto. Gambar grafik raster harus diskalakan dengan membuat gambar baru dengan lebih banyak atau lebih sedikit piksel. Aspose.Imaging memungkinkan pengguna mengubah ukuran algoritme yang berbeda yang memungkinkan untuk memilih yang diperlukan.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Menggunakan Aspose.Imaging Anda dapat dengan mudah menerapkan **Ubah ukuran** untuk berbagai format gambar secara terprogram
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Daftar lengkap operasi Ubah ukuran yang didukung menurut format gambar:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

@@ -13,9 +13,15 @@ description: Menggunakan Aspose.Imaging Anda dapat dengan mudah Tanda air gambar
 
 
 {{% blocks/products/pf/feature-page-section  h2="Semua gambar-gambar format yang didukung untuk operasi Tanda air" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Watermark digital adalah jenis penandaan yang secara halus dimasukkan ke dalam sinyal yang dapat mentolerir noise, seperti data audio, video, atau gambar. Ini sering digunakan untuk menetapkan siapa yang memiliki hak cipta atas sinyal tertentu. Praktek watermarking melibatkan penyandian data digital menjadi sinyal pembawa; data yang disembunyikan harus, tetapi tidak perlu, terkait dengan sinyal pembawa. Keabsahan atau integritas sinyal pembawa dapat dikonfirmasi menggunakan tanda air digital, dan identitas pemiliknya juga dapat diungkapkan. Ini sering digunakan untuk otentikasi uang kertas dan untuk melacak pelanggaran hak cipta. Menggunakan Aspose.Imaging Anda dapat dengan mudah menambahkan tanda air ke gambar yang dipilih tanpa memerlukan banyak kode.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Menggunakan Aspose.Imaging Anda dapat dengan mudah menerapkan **Tanda air** untuk berbagai format gambar secara terprogram
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Daftar lengkap operasi Tanda air yang didukung menurut format gambar:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

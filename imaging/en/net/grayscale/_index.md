@@ -13,9 +13,15 @@ description: Using Aspose.Imaging you can easily Grayscale images Via net
 
 
 {{% blocks/products/pf/feature-page-section  h2="All supported image formats for Grayscale operation" %}}
-Using Aspose.Imaging you can easily apply **Grayscale** for different image formats programmatically
-<br/>
+<p align="justify" style="text-indent:2em;font-size:15px;">
+A grayscale image is one in which the value of each pixel is a single sample indicating only a quantity of light; that is, it conveys only intensity information. Grayscale images are used in digital photography, computer-generated imaging, and colorimetry. Shades of gray make up only grayscale images, a type of black-and-white or gray monochrome. Black has the lowest contrast whereas white has the most contrast. Grayscale images are distinct from one-bit bi-tonal black-and-white images, which are images with only two colors: black and white (also known as bilevel or binary images) in the context of computer imaging. There are numerous shades of gray in between in grayscale photos. Using Aspose.Imaging you can grayscale your images of different formats.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Using Aspose.Imaging you can easily apply <b>Grayscale</b> for different image formats programmatically
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Full list of supported Grayscale operations by image formats:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

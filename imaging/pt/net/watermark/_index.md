@@ -13,9 +13,15 @@ description: Usando Aspose.Imaging, você pode facilmente imagens Marca d'água 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Todos os formatos suportados para a operação imagens Marca d'água" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Uma marca d'água digital é um tipo de marcação sutilmente incorporada a um sinal que pode tolerar ruído, como dados de áudio, vídeo ou imagem. Geralmente é usado para estabelecer quem possui os direitos autorais de um determinado sinal. A prática de marca d'água envolve a codificação de dados digitais em um sinal de portadora; os dados ocultos devem, mas não precisam, estar relacionados ao sinal da portadora. A legitimidade ou integridade do sinal da operadora pode ser confirmada por meio de marcas d'água digitais, e as identidades de seus proprietários também podem ser reveladas. É freqüentemente usado para autenticação de notas e para rastrear violações de direitos autorais. Usando o Aspose.Imaging, você pode adicionar facilmente sua marca d'água à imagem selecionada sem precisar de muito código.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Usando o Aspose.Imaging, você pode facilmente aplicar **Marca d'água** para diferentes formatos de imagem programaticamente
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Lista completa de operações Marca d'água suportadas por formatos de imagem:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

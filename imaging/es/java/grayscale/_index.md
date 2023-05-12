@@ -13,9 +13,15 @@ description: Usando Aspose.Imaging puede fácilmente escala de grises imágenes 
 
 
 {{% blocks/products/pf/feature-page-section  h2="Todos los imágenes formatos admitidos para la operación escala de grises" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Una imagen en escala de grises es aquella en la que el valor de cada píxel es una sola muestra que indica solo una cantidad de luz; es decir, transmite solo información de intensidad. Las imágenes en escala de grises se utilizan en fotografía digital, imágenes generadas por computadora y colorimetría. Los tonos de gris forman solo imágenes en escala de grises, un tipo de monocromo en blanco y negro o gris. El negro tiene el contraste más bajo mientras que el blanco tiene el mayor contraste. Las imágenes en escala de grises son distintas de las imágenes bitonales en blanco y negro de un bit, que son imágenes con solo dos colores: blanco y negro (también conocidas como imágenes binarias o de dos niveles) en el contexto de las imágenes por computadora. Hay numerosos tonos de gris en el medio de las fotos en escala de grises. Con Aspose.Imaging puede escalar en gris sus imágenes de diferentes formatos.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Usando Aspose.Imaging puede aplicar fácilmente **escala de grises** para diferentes formatos de imagen programáticamente
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Lista completa de operaciones {nombre de operación} admitidas por formatos de imagen:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

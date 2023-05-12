@@ -13,9 +13,15 @@ description: Aspose.Imaging を使用すると、net 経由で簡単に 漫画�
 
 
 {{% blocks/products/pf/feature-page-section  h2="漫画化 操作でサポートされているすべての形式 画像" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+写真から漫画への変換は、多くのアーティストが使用する一般的な操作の 1 つです。ペイント作業を行わずに、数回クリックするだけで漫画のような写真を取得できます。標準画像を漫画画像にすばやく変換したいですか?この場合、Aspose.Imaging ライブラリでどのように動作するかを試すことができます。
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Aspose.Imaging を使用すると、さまざまな画像フォーマットに **漫画化** を簡単に適用できます プログラム的に
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 画像形式ごとにサポートされている 漫画化 操作の完全なリスト:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

@@ -13,9 +13,15 @@ description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng Trồng tr�
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tất cả các hình ảnh định dạng được hỗ trợ cho thao tác Trồng trọt" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Cắt xén là quá trình loại bỏ các yếu tố không liên quan khỏi ảnh hoặc hình minh họa. Kỹ thuật này thường đòi hỏi phải loại bỏ một phần ngoại vi của hình ảnh để loại bỏ thông tin hình ảnh không liên quan khỏi ảnh, nâng cao khung hình, thay đổi tỷ lệ khung hình hoặc nhấn mạnh hoặc cô lập đối tượng khỏi môi trường xung quanh. Điều này có thể được thực hiện bằng kỹ thuật số bằng cách sử dụng phần mềm chỉnh sửa hình ảnh hoặc có thể được thực hiện trên ảnh chụp nhanh, tác phẩm nghệ thuật hoặc đoạn phim thực, tùy thuộc vào ứng dụng. Các ngành công nghiệp nhiếp ảnh, xử lý phim, phát sóng, thiết kế đồ họa và in ấn đều sử dụng phương pháp cắt xén. Aspose.Imaging cho phép bạn cắt hình ảnh với các thông số khác nhau được chỉ định.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Sử dụng Aspose.Imaging, bạn có thể dễ dàng áp dụng **Trồng trọt** cho các định dạng hình ảnh khác nhau lập trình
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Danh sách đầy đủ các thao tác Trồng trọt được hỗ trợ theo định dạng hình ảnh:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

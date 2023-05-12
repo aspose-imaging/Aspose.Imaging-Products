@@ -13,9 +13,15 @@ description: Using Aspose.Imaging you can easily Filter images Via java
 
 
 {{% blocks/products/pf/feature-page-section  h2="All supported image formats for Filter operation" %}}
-Using Aspose.Imaging you can easily apply **Filter** for different image formats programmatically
-<br/>
+<p align="justify" style="text-indent:2em;font-size:15px;">
+In photography and cinematography, a filter is a camera accessory consisting of an optical filter that can be inserted into the optical path. The filter can be of a square or oblong shape and mounted in a holder accessory, or, more commonly, a glass or plastic disk in a metal or plastic ring frame, which can be screwed into the front of or clipped onto the camera lens. Filters alter the recorded images. They are utilized to alter photographs sometimes very little, and other times they are completely necessary for the creation of the image. In monochrome photography, colored filters change the relative brightness of various colors; red lipstick might seem anywhere between nearly white and nearly black depending on the filter used. Others adjust the image's color balance so that shots taken in incandescent illumination display colors as they are perceived rather than with a reddish tinge. There are filters that purposefully distort the image, adding a starry look to an otherwise sharp image, etc. Oblique reflections from non-metallic surfaces are reduced using linear and circular polarizing filters. Aspose.Imaging supports such filters as Gaussian Blur, Sharpen, Median Filter, Motion Weiner and many others.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Using Aspose.Imaging you can easily apply <b>Filter</b> for different image formats programmatically
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Full list of supported Filter operations by image formats:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

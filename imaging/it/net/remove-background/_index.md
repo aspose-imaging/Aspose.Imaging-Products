@@ -13,9 +13,15 @@ description: Usando Aspose.Imaging puoi facilmente Rimuovi lo sfondo immagini tr
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tutti i immagini formati supportati per l'operazione Rimuovi lo sfondo" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Rimuovi sfondo è un'operazione che ti consente di rimuovere facilmente lo sfondo dalle tue foto o immagini. Come risultato della rimozione dello sfondo è possibile ottenere uno sfondo trasparente e mettere in primo piano un altro sfondo. Usando Aspose.Imaging puoi provare diversi algoritmi di rimozione dello sfondo che potrebbero soddisfare le tue esigenze per immagini diverse.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Usando Aspose.Imaging puoi facilmente applicare **Rimuovi lo sfondo** per diversi formati di immagine programmaticamente
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Elenco completo delle operazioni Rimuovi lo sfondo supportate per formati immagine:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

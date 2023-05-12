@@ -13,9 +13,15 @@ description: Menggunakan Aspose.Imaging Anda dapat dengan mudah Saring gambar Vi
 
 
 {{% blocks/products/pf/feature-page-section  h2="Semua gambar-gambar format yang didukung untuk operasi Saring" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Dalam fotografi dan sinematografi, filter adalah aksesori kamera yang terdiri dari filter optik yang dapat dimasukkan ke dalam jalur optik. Filter dapat berbentuk persegi atau lonjong dan dipasang di aksesori dudukan, atau, lebih umum, piringan kaca atau plastik dalam bingkai cincin logam atau plastik, yang dapat disekrup ke bagian depan atau dijepitkan ke lensa kamera. Filter mengubah gambar yang direkam. Mereka digunakan untuk mengubah foto terkadang sangat sedikit, dan terkadang sangat diperlukan untuk pembuatan gambar. Dalam fotografi monokrom, filter berwarna mengubah kecerahan relatif berbagai warna; lipstik merah mungkin terlihat antara hampir putih dan hampir hitam tergantung pada filter yang digunakan. Lainnya menyesuaikan keseimbangan warna gambar sehingga bidikan yang diambil dalam iluminasi lampu pijar menampilkan warna seperti yang dirasakan, bukan dengan semburat kemerahan. Ada filter yang sengaja mendistorsi gambar, menambahkan tampilan berbintang ke gambar yang tajam, dll. Refleksi miring dari permukaan non-logam dikurangi menggunakan filter polarisasi linier dan melingkar. Aspose.Imaging mendukung filter seperti Gaussian Blur, Sharpen, Median Filter, Motion Weiner dan banyak lainnya.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Menggunakan Aspose.Imaging Anda dapat dengan mudah menerapkan **Saring** untuk berbagai format gambar secara terprogram
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Daftar lengkap operasi Saring yang didukung menurut format gambar:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

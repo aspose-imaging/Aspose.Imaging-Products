@@ -13,9 +13,15 @@ description: Aspose.Imaging'i kullanarak, net Aracılığıyla kolayca Birleşti
 
 
 {{% blocks/products/pf/feature-page-section  h2="Birleştirmek işlemi Görüntüler için desteklenen tüm biçimler" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Görüntüleri birleştirme işlemi, 2 veya daha fazla görüntüyü kaliteden ödün vermeden dikey veya yatay olarak birleştirmeyi sağlar. Fotoğraf kolajı, bazen birbiriyle doğrudan ilişkili olmayan birkaç görüntüyü birleştirerek yeni bir fotoğraf veya görüntünün oluşturulmasıdır. Fotoğrafçının istediği etki, bir görüntünün diğerinin üzerine bindirilmesiyle veya çok sayıda (2'den fazla) görüntünün tek bir bütün halinde birleştirilmesiyle, bazen farklı fotoğrafik görüntülerin kaotik kullanımıyla (bulmaca veya mozaik gibi) yaratılır. Aspose.Imaging, çok sayıda dosya biçimi kullanarak farklı kolajlar oluşturmaya olanak tanır.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Aspose.Imaging'i kullanarak farklı görüntü formatları için **Birleştirmek** işlemini kolayca uygulayabilirsiniz programlı olarak
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Görüntü biçimlerine göre desteklenen {işlem adı} işlemlerinin tam listesi:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

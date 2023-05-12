@@ -13,9 +13,15 @@ description: Usando Aspose.Imaging puoi facilmente Dithering immagini tramite ne
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tutti i immagini formati supportati per l'operazione Dithering" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Nella computer grafica, il dithering viene utilizzato per dare l'impressione della profondità del colore nelle immagini su sistemi con una tavolozza di colori limitata. Una diffusione di pixel colorati dalla tavolozza disponibile viene utilizzata in un'immagine retinata per approssimare i colori che non sono presenti nella tavolozza. La diffusione appare all'occhio umano come una mescolanza dei colori in essa contenuti. Le fotografie retinate sono spesso identificabili da una granulosità distintiva o da un aspetto maculato, specialmente quando si utilizzano tavolozze con pochi colori. Il dithering aggiunge rumore o un motivo a un'immagine e il motivo è spesso evidente. È stato dimostrato che in queste condizioni il dithering prodotto dal rumore blu è il meno fastidioso e poco attraente. Aspose.Imaging consente di ditherare le tue immagini con pochi algoritmi che puoi selezionare necessari per il tuo inutile.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Usando Aspose.Imaging puoi facilmente applicare **Dithering** per diversi formati di immagine programmaticamente
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Elenco completo delle operazioni Dithering supportate per formati immagine:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

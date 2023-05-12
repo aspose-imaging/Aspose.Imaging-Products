@@ -13,9 +13,15 @@ description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng Chữ ký �
 
 
 {{% blocks/products/pf/feature-page-section  h2="Tất cả các hình ảnh định dạng được hỗ trợ cho thao tác Chữ ký ảnh" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Hình mờ kỹ thuật số là một loại đánh dấu được kết hợp một cách tinh vi vào tín hiệu có thể chịu được nhiễu, chẳng hạn như dữ liệu âm thanh, video hoặc hình ảnh. Nó thường được sử dụng để thiết lập ai sở hữu bản quyền đối với một tín hiệu nhất định. Việc thực hành watermarking liên quan đến việc mã hóa dữ liệu kỹ thuật số thành tín hiệu sóng mang; dữ liệu được che giấu, nhưng không nhất thiết phải liên quan đến tín hiệu sóng mang. Tính hợp pháp hoặc tính toàn vẹn của tín hiệu sóng mang có thể được xác nhận bằng cách sử dụng hình mờ kỹ thuật số và danh tính của chủ sở hữu cũng có thể bị tiết lộ. Nó thường được sử dụng để xác thực tiền giấy và theo dõi vi phạm bản quyền. Sử dụng Aspose.Imaging, bạn có thể dễ dàng thêm hình mờ của mình vào hình ảnh đã chọn mà không cần nhiều mã.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Sử dụng Aspose.Imaging, bạn có thể dễ dàng áp dụng **Chữ ký ảnh** cho các định dạng hình ảnh khác nhau lập trình
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Danh sách đầy đủ các thao tác Chữ ký ảnh được hỗ trợ theo định dạng hình ảnh:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

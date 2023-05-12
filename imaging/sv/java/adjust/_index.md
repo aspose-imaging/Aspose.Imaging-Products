@@ -13,9 +13,15 @@ description: Med Aspose.Imaging kan du enkelt Justera bilder via java
 
 
 {{% blocks/products/pf/feature-page-section  h2="Alla bilder format som stöds för operationen Justera" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+En av huvudfunktionerna som erbjuds av de flesta bildbibliotek är färgkorrigeringar för digitala foton. Färgjusteringar innehåller följande kategorier som (1) Termen ljusstyrka beskriver hur ljus eller mörk en nyans är. Alla färger i en bild är upplysta när ljusstyrkan ökas, och alla färger mörknar när ljusstyrkan minskas; (2) När en bild har kontrast framträder objekten eller detaljerna i den mer. När kontrasten ökas ökar skillnaden mellan dess ljusa och mörka delar, vilket gör de ljusa områdena ljusare och de mörka delarna mörkare. Ljusare och mörkare delar kommer i princip att förbli desamma med mindre kontrast, men den övergripande bilden kommer att se mer enhetlig ut; (3) Gamma förbättrar ljusstyrkan och kontrasten för den indirekta belysningen som belyser ett objekt i bilden. Aspose.Imaging stöder justering av <b>Ljusstyrka</b>, <b>Gamma</b> och <b>Kontrast</b> för bilder.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Med Aspose.Imaging kan du enkelt använda **Justera** för olika bildformat programmatiskt
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Fullständig lista över Justera-operationer som stöds efter bildformat:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">

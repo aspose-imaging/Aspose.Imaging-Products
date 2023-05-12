@@ -13,9 +13,15 @@ description: Używając Aspose.Imaging możesz łatwo Skala szarości obrazy Via
 
 
 {{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty operacji obrazy Skala szarości" %}}
+<p align="justify" style="text-indent:2em;font-size:15px;">
+Obraz w skali szarości to taki, w którym wartość każdego piksela jest pojedynczą próbką wskazującą tylko ilość światła; to znaczy przekazuje tylko informacje o intensywności. Obrazy w skali szarości są używane w fotografii cyfrowej, obrazowaniu generowanym komputerowo i kolorymetrii. Odcienie szarości tworzą tylko obrazy w skali szarości, rodzaj czarno-białego lub szarego monochromatycznego. Czarny ma najniższy kontrast, podczas gdy biały ma największy kontrast. Obrazy w skali szarości różnią się od jednobitowych dwutonowych obrazów czarno-białych, które są obrazami zawierającymi tylko dwa kolory: czarno-biały (znany również jako obrazy dwupoziomowe lub binarne) w kontekście obrazowania komputerowego. Na zdjęciach w skali szarości występuje wiele odcieni szarości pomiędzy. Za pomocą Aspose.Imaging możesz skalować obrazy w różnych formatach w skali szarości.
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Używając Aspose.Imaging możesz łatwo zastosować **Skala szarości** dla różnych formatów obrazów programowo
-<br/>
+</p>
+<p align="justify" style="text-indent:2em;font-size:15px;">
 Pełna lista obsługiwanych operacji Skala szarości według formatów obrazu:
+</p>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
