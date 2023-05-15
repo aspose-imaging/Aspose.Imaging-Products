@@ -1,7 +1,7 @@
 ﻿---
 title: Soluzione di elaborazione delle immagini in sede, basata su cloud e app 
 weight: 4270
-url: /it 
+url: /it/ 
 lang: it
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he

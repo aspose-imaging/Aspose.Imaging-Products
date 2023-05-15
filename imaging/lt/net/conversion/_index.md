@@ -2,7 +2,7 @@
 ---
 title: C# vaizdo formatų konvertavimas 
 weight: 3920
-url: /lt/net/conversion 
+url: /lt/net/conversion/ 
 lang: lt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -159,35 +159,35 @@ Tālāk ir parādīts pilns to attēlu formātu saraksts, kurus varat konvertēt
         <div class="container">
                 <hr style="margin-left:-20px;"/>
 		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/apng" style="padding:15px;">Konvertuoti iš APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/bmp" style="padding:15px;">Konvertuoti iš BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/dib" style="padding:15px;">Konvertuoti iš DIB</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/dicom" style="padding:15px;">Konvertuoti iš DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/djvu" style="padding:15px;">Konvertuoti iš DJVU</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/dng" style="padding:15px;">Konvertuoti iš DNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/emf" style="padding:15px;">Konvertuoti iš EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/emz" style="padding:15px;">Konvertuoti iš EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/gif" style="padding:15px;">Konvertuoti iš GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/jpeg2000" style="padding:15px;">Konvertuoti iš JPEG2000</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/jp2" style="padding:15px;">Konvertuoti iš JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/j2k" style="padding:15px;">Konvertuoti iš J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/jpg" style="padding:15px;">Konvertuoti iš JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/jpeg" style="padding:15px;">Konvertuoti iš JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/png" style="padding:15px;">Konvertuoti iš PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/tga" style="padding:15px;">Konvertuoti iš TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/tif" style="padding:15px;">Konvertuoti iš TIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/tiff" style="padding:15px;">Konvertuoti iš TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/webp" style="padding:15px;">Konvertuoti iš WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/wmf" style="padding:15px;">Konvertuoti iš WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/wmz" style="padding:15px;">Konvertuoti iš WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/svg" style="padding:15px;">Konvertuoti iš SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/svgz" style="padding:15px;">Konvertuoti iš SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/eps" style="padding:15px;">Konvertuoti iš EPS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/cdr" style="padding:15px;">Konvertuoti iš CDR</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/cmx" style="padding:15px;">Konvertuoti iš CMX</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/otg" style="padding:15px;">Konvertuoti iš OTG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/odg" style="padding:15px;">Konvertuoti iš ODG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/ico" style="padding:15px;">Konvertuoti iš ICO</a></div>
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/apng/" style="padding:15px;">Konvertuoti iš APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/bmp/" style="padding:15px;">Konvertuoti iš BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/dib/" style="padding:15px;">Konvertuoti iš DIB</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/dicom/" style="padding:15px;">Konvertuoti iš DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/djvu/" style="padding:15px;">Konvertuoti iš DJVU</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/dng/" style="padding:15px;">Konvertuoti iš DNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/emf/" style="padding:15px;">Konvertuoti iš EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/emz/" style="padding:15px;">Konvertuoti iš EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/gif/" style="padding:15px;">Konvertuoti iš GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/jpeg2000/" style="padding:15px;">Konvertuoti iš JPEG2000</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/jp2/" style="padding:15px;">Konvertuoti iš JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/j2k/" style="padding:15px;">Konvertuoti iš J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/jpg/" style="padding:15px;">Konvertuoti iš JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/jpeg/" style="padding:15px;">Konvertuoti iš JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/png/" style="padding:15px;">Konvertuoti iš PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/tga/" style="padding:15px;">Konvertuoti iš TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/tif/" style="padding:15px;">Konvertuoti iš TIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/tiff/" style="padding:15px;">Konvertuoti iš TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/webp/" style="padding:15px;">Konvertuoti iš WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/wmf/" style="padding:15px;">Konvertuoti iš WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/wmz/" style="padding:15px;">Konvertuoti iš WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/svg/" style="padding:15px;">Konvertuoti iš SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/svgz/" style="padding:15px;">Konvertuoti iš SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/eps/" style="padding:15px;">Konvertuoti iš EPS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/cdr/" style="padding:15px;">Konvertuoti iš CDR</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/cmx/" style="padding:15px;">Konvertuoti iš CMX</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/otg/" style="padding:15px;">Konvertuoti iš OTG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/odg/" style="padding:15px;">Konvertuoti iš ODG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/from/ico/" style="padding:15px;">Konvertuoti iš ICO</a></div>
                 </div>
         </div>
     </div>
@@ -202,31 +202,31 @@ Tālāk ir parādīts pilns to attēlu formātu saraksts, kurus varat konvertēt
         <div class="container">
 	        <hr style="margin-left:-20px;"/>
 		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/to/bmp" style="padding:15px;">Konvertuoti į BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/to/gif" style="padding:15px;">Konvertuoti į GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/to/dicom" style="padding:15px;">Konvertuoti į DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/to/emf" style="padding:15px;">Konvertuoti į EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/to/jpg" style="padding:15px;">Konvertuoti į JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/to/jpeg" style="padding:15px;">Konvertuoti į JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/to/jp2" style="padding:15px;">Konvertuoti į JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/to/j2k" style="padding:15px;">Konvertuoti į J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/to/jpeg2000" style="padding:15px;">Konvertuoti į JPEG2000</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/to/png" style="padding:15px;">Konvertuoti į PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/to/psd" style="padding:15px;">Konvertuoti į PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/to/dxf" style="padding:15px;">Konvertuoti į DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/to/svg" style="padding:15px;">Konvertuoti į SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/to/tiff" style="padding:15px;">Konvertuoti į TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/to/webp" style="padding:15px;">Konvertuoti į WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/to/wmf" style="padding:15px;">Konvertuoti į WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/to/pdf" style="padding:15px;">Konvertuoti į PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/to/html" style="padding:15px;">Konvertuoti į HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/to/emz" style="padding:15px;">Konvertuoti į EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/to/wmz" style="padding:15px;">Konvertuoti į WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/to/tga" style="padding:15px;">Konvertuoti į TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/to/svgz" style="padding:15px;">Konvertuoti į SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/to/canvas" style="padding:15px;">Konvertuoti į CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/to/ico" style="padding:15px;">Konvertuoti į ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/to/apng" style="padding:15px;">Konvertuoti į APNG</a></div>
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/to/bmp/" style="padding:15px;">Konvertuoti į BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/to/gif/" style="padding:15px;">Konvertuoti į GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/to/dicom/" style="padding:15px;">Konvertuoti į DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/to/emf/" style="padding:15px;">Konvertuoti į EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/to/jpg/" style="padding:15px;">Konvertuoti į JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/to/jpeg/" style="padding:15px;">Konvertuoti į JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/to/jp2/" style="padding:15px;">Konvertuoti į JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/to/j2k/" style="padding:15px;">Konvertuoti į J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/to/jpeg2000/" style="padding:15px;">Konvertuoti į JPEG2000</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/to/png/" style="padding:15px;">Konvertuoti į PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/to/psd/" style="padding:15px;">Konvertuoti į PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/to/dxf/" style="padding:15px;">Konvertuoti į DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/to/svg/" style="padding:15px;">Konvertuoti į SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/to/tiff/" style="padding:15px;">Konvertuoti į TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/to/webp/" style="padding:15px;">Konvertuoti į WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/to/wmf/" style="padding:15px;">Konvertuoti į WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/to/pdf/" style="padding:15px;">Konvertuoti į PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/to/html/" style="padding:15px;">Konvertuoti į HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/to/emz/" style="padding:15px;">Konvertuoti į EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/to/wmz/" style="padding:15px;">Konvertuoti į WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/to/tga/" style="padding:15px;">Konvertuoti į TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/to/svgz/" style="padding:15px;">Konvertuoti į SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/to/canvas/" style="padding:15px;">Konvertuoti į CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/to/ico/" style="padding:15px;">Konvertuoti į ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/to/apng/" style="padding:15px;">Konvertuoti į APNG</a></div>
                 </div>
         </div>
     </div>

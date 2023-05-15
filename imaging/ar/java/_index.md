@@ -1,7 +1,7 @@
 ﻿---
 title: Java Imaging API | رسم التلاعب وتحويل الصور 
 weight: 960
-url: /ar/java 
+url: /ar/java/ 
 lang: ar
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -9,11 +9,11 @@ description: مكتبة معالجة ومعالجة الصور في Java. إنش
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1="مكتبة جافا و API لمعالجة الصور" h2="إنشاء الصور أو تحميلها أو معالجتها أو تحويلها دون الحاجة إلى أي محرر صور." downloadFreeTrialText="تحميل النسخة التجريبية المجانية" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-java.svg"  pfName="Aspose.Imaging" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/imaging/java" >}}
+{{< blocks/products/pf/upper-banner h1="مكتبة جافا و API لمعالجة الصور" h2="إنشاء الصور أو تحميلها أو معالجتها أو تحويلها دون الحاجة إلى أي محرر صور." downloadFreeTrialText="تحميل النسخة التجريبية المجانية" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-java.svg"  pfName="Aspose.Imaging" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/imaging/java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Java" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-java.svg" 
-liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://purchase.aspose.com/pricing/imaging/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/imaging/java" installationsDocsLink="https://docs.aspose.com/imaging/java/installation" mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-imaging/" directDownloadLink="https://downloads.aspose.com/imaging/java" liveDemosText="العروض التوضيحية الحية" overviewText="ملخص" featuresText="سمات" resourcesText="موارد" pricingText="التسعير" downloadText="تحميل" learnText="يتعلم" buyText="يشتري" >}}
+liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/java/" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/java/" installationsDocsLink="https://docs.aspose.com/imaging/java/installation/" mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-imaging/" directDownloadLink="https://downloads.aspose.com/imaging/java/" liveDemosText="العروض التوضيحية الحية" overviewText="ملخص" featuresText="سمات" resourcesText="موارد" pricingText="التسعير" downloadText="تحميل" learnText="يتعلم" buyText="يشتري" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="في" carousel1Text2="يلمح" carousel2Text1="برنامج" carousel2Text2="استقلال" carousel3Text1="الملف المدعوم" carousel3Text2="التنسيقات">}}
 <p align="justify">
@@ -599,27 +599,27 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
 
 {{< blocks/products/pf/support-learning-resources supportAndLearningResourcesText="مصادر الدعم والتعلم">}}
 {{< blocks/products/pf/slr-tab tabTitle="مصادر التعلم" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="توثيق" href="https://docs.aspose.com/imaging/java" >}}
+{{< blocks/products/pf/slr-element name="توثيق" href="https://docs.aspose.com/imaging/java/" >}}
 {{< blocks/products/pf/slr-element name="مصدر الرمز" href="https://github.com/aspose-imaging/Aspose.Imaging-for-Java" >}}
-{{< blocks/products/pf/slr-element name="مراجع API" href="https://apireference.aspose.com/java/imaging" >}}
-{{< blocks/products/pf/slr-element name="مقاطع فيديو تعليمية" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="مراجع API" href="https://apireference.aspose.com/java/imaging/" >}}
+{{< blocks/products/pf/slr-element name="مقاطع فيديو تعليمية" href="https://www.youtube.com/user/asposevideo/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="دعم المنتج" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="دعم مجاني" href="https://forum.aspose.com/c/imaging" >}}
+{{< blocks/products/pf/slr-element name="دعم مجاني" href="https://forum.aspose.com/c/imaging/" >}}
 {{< blocks/products/pf/slr-element name="دعم مدفوع" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="مقالات" href="https://blog.aspose.com/category/imaging/" >}}
 {{< blocks/products/pf/slr-element name="ملاحظات الإصدار" href="https://docs.aspose.com/imaging/java/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="لماذا Aspose Java" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="قائمة العملاء" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="قائمة العملاء" href="https://company.aspose.com/customers/" >}}
 {{< blocks/products/pf/slr-element name="قصص نجاح" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/imaging/java" downloadFreeTrialText="تحميل النسخة التجريبية المجانية" pricingInformationText="معلومات التسعير" pricingInformationLink="https://purchase.aspose.com/pricing/imaging/java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/imaging/java/" downloadFreeTrialText="تحميل النسخة التجريبية المجانية" pricingInformationText="معلومات التسعير" pricingInformationLink="https://purchase.aspose.com/pricing/imaging/java/" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Imaging " description="يقدم Aspose.Imaging واجهات برمجة تطبيقات تصوير فردية لبيئات التطوير الشائعة الأخرى كما هو موضح أدناه:" >}}
 

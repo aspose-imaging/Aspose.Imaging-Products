@@ -1,7 +1,7 @@
 ﻿---
 title: C# .NET 跨平台图像库 API - Aspose 
 weight: 960
-url: /zh-hans/net 
+url: /zh-hans/net/ 
 lang: zh-hans
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -9,11 +9,11 @@ description: 图像处理和操作库 API，用于在 C# ASP.NET VB.NET 应用�
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1=".NET 跨平台库 - 图像处理 API" h2="无需任何图像编辑器即可创建、加载、操作或转换图像。" downloadFreeTrialText="下载免费试用版" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/imaging/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET 跨平台库 - 图像处理 API" h2="无需任何图像编辑器即可创建、加载、操作或转换图像。" downloadFreeTrialText="下载免费试用版" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/imaging/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for .NET" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-net.svg" 
-liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://purchase.aspose.com/pricing/imaging/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/imaging/net" installationsDocsLink="https://docs.aspose.com/imaging/net/installation" nugetLink="https://www.nuget.org/packages/aspose.imaging" nugetPackageName="Aspose.Imaging" directDownloadLink="https://downloads.aspose.com/imaging/net" liveDemosText="现场演示" overviewText="概述" featuresText="特征" resourcesText="资源" pricingText="价钱" downloadText="下载" learnText="学习" buyText="买" >}}
+liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/net/" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/net/" installationsDocsLink="https://docs.aspose.com/imaging/net/installation/" nugetLink="https://www.nuget.org/packages/aspose.imaging" nugetPackageName="Aspose.Imaging" directDownloadLink="https://downloads.aspose.com/imaging/net/" liveDemosText="现场演示" overviewText="概述" featuresText="特征" resourcesText="资源" pricingText="价钱" downloadText="下载" learnText="学习" buyText="买" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="在一个" carousel1Text2="一目了然" carousel2Text1="平台" carousel2Text2="独立" carousel3Text1="支持的文件" carousel3Text2="格式">}}
 <p align="justify">
@@ -614,27 +614,27 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
 
 {{< blocks/products/pf/support-learning-resources supportAndLearningResourcesText="支持和学习资源">}}
 {{< blocks/products/pf/slr-tab tabTitle="学习资源" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="文档" href="https://docs.aspose.com/imaging/net" >}}
+{{< blocks/products/pf/slr-element name="文档" href="https://docs.aspose.com/imaging/net/" >}}
 {{< blocks/products/pf/slr-element name="源代码" href="https://github.com/aspose-imaging/Aspose.Imaging-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="API 参考" href="https://apireference.aspose.com/net/imaging" >}}
-{{< blocks/products/pf/slr-element name="教程视频" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="API 参考" href="https://apireference.aspose.com/net/imaging/" >}}
+{{< blocks/products/pf/slr-element name="教程视频" href="https://www.youtube.com/user/asposevideo/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="产品支持" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="免费支持" href="https://forum.aspose.com/c/imaging" >}}
+{{< blocks/products/pf/slr-element name="免费支持" href="https://forum.aspose.com/c/imaging/" >}}
 {{< blocks/products/pf/slr-element name="付费支持" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="博客" href="https://blog.aspose.com/category/imaging/" >}}
 {{< blocks/products/pf/slr-element name="发行说明" href="https://docs.aspose.com/imaging/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="为什么 Aspose.Imaging 用于 .NET" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="客户名单" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="客户名单" href="https://company.aspose.com/customers/" >}}
 {{< blocks/products/pf/slr-element name="成功的故事" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/imaging/net" downloadFreeTrialText="下载免费试用版" pricingInformationText="定价信息" pricingInformationLink="https://purchase.aspose.com/pricing/imaging/net" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/imaging/net/" downloadFreeTrialText="下载免费试用版" pricingInformationText="定价信息" pricingInformationLink="https://purchase.aspose.com/pricing/imaging/net/" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Imaging " description="Aspose.Imaging 为其他流行的开发环境提供单独的 Imaging API，如下所列：" >}}
 

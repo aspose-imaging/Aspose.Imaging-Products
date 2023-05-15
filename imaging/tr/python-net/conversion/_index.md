@@ -2,7 +2,7 @@
 ---
 title: Python Görüntü Formatları Dönüştürme 
 weight: 3920
-url: /tr/python-net/conversion 
+url: /tr/python-net/conversion/ 
 lang: tr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -159,35 +159,35 @@ Aşağıda, dönüştürebileceğiniz görüntü biçimlerinin tam listesi sunul
         <div class="container">
                 <hr style="margin-left:-20px;"/>
 		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/apng" style="padding:15px;">Şuradan Dönüştür APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/bmp" style="padding:15px;">Şuradan Dönüştür BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/dib" style="padding:15px;">Şuradan Dönüştür DIB</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/dicom" style="padding:15px;">Şuradan Dönüştür DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/djvu" style="padding:15px;">Şuradan Dönüştür DJVU</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/dng" style="padding:15px;">Şuradan Dönüştür DNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/emf" style="padding:15px;">Şuradan Dönüştür EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/emz" style="padding:15px;">Şuradan Dönüştür EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/gif" style="padding:15px;">Şuradan Dönüştür GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/jpeg2000" style="padding:15px;">Şuradan Dönüştür JPEG2000</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/jp2" style="padding:15px;">Şuradan Dönüştür JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/j2k" style="padding:15px;">Şuradan Dönüştür J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/jpg" style="padding:15px;">Şuradan Dönüştür JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/jpeg" style="padding:15px;">Şuradan Dönüştür JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/png" style="padding:15px;">Şuradan Dönüştür PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/tga" style="padding:15px;">Şuradan Dönüştür TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/tif" style="padding:15px;">Şuradan Dönüştür TIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/tiff" style="padding:15px;">Şuradan Dönüştür TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/webp" style="padding:15px;">Şuradan Dönüştür WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/wmf" style="padding:15px;">Şuradan Dönüştür WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/wmz" style="padding:15px;">Şuradan Dönüştür WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/svg" style="padding:15px;">Şuradan Dönüştür SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/svgz" style="padding:15px;">Şuradan Dönüştür SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/eps" style="padding:15px;">Şuradan Dönüştür EPS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/cdr" style="padding:15px;">Şuradan Dönüştür CDR</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/cmx" style="padding:15px;">Şuradan Dönüştür CMX</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/otg" style="padding:15px;">Şuradan Dönüştür OTG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/odg" style="padding:15px;">Şuradan Dönüştür ODG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/ico" style="padding:15px;">Şuradan Dönüştür ICO</a></div>
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/apng/" style="padding:15px;">Şuradan Dönüştür APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/bmp/" style="padding:15px;">Şuradan Dönüştür BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/dib/" style="padding:15px;">Şuradan Dönüştür DIB</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/dicom/" style="padding:15px;">Şuradan Dönüştür DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/djvu/" style="padding:15px;">Şuradan Dönüştür DJVU</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/dng/" style="padding:15px;">Şuradan Dönüştür DNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/emf/" style="padding:15px;">Şuradan Dönüştür EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/emz/" style="padding:15px;">Şuradan Dönüştür EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/gif/" style="padding:15px;">Şuradan Dönüştür GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/jpeg2000/" style="padding:15px;">Şuradan Dönüştür JPEG2000</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/jp2/" style="padding:15px;">Şuradan Dönüştür JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/j2k/" style="padding:15px;">Şuradan Dönüştür J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/jpg/" style="padding:15px;">Şuradan Dönüştür JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/jpeg/" style="padding:15px;">Şuradan Dönüştür JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/png/" style="padding:15px;">Şuradan Dönüştür PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/tga/" style="padding:15px;">Şuradan Dönüştür TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/tif/" style="padding:15px;">Şuradan Dönüştür TIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/tiff/" style="padding:15px;">Şuradan Dönüştür TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/webp/" style="padding:15px;">Şuradan Dönüştür WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/wmf/" style="padding:15px;">Şuradan Dönüştür WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/wmz/" style="padding:15px;">Şuradan Dönüştür WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/svg/" style="padding:15px;">Şuradan Dönüştür SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/svgz/" style="padding:15px;">Şuradan Dönüştür SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/eps/" style="padding:15px;">Şuradan Dönüştür EPS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/cdr/" style="padding:15px;">Şuradan Dönüştür CDR</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/cmx/" style="padding:15px;">Şuradan Dönüştür CMX</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/otg/" style="padding:15px;">Şuradan Dönüştür OTG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/odg/" style="padding:15px;">Şuradan Dönüştür ODG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/from/ico/" style="padding:15px;">Şuradan Dönüştür ICO</a></div>
                 </div>
         </div>
     </div>
@@ -202,31 +202,31 @@ Aspose.Imaging for Python kullanarak .NET yoluyla dönüştürebileceğiniz gör
         <div class="container">
 	        <hr style="margin-left:-20px;"/>
 		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/to/bmp" style="padding:15px;">E dönüşmek BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/to/gif" style="padding:15px;">E dönüşmek GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/to/dicom" style="padding:15px;">E dönüşmek DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/to/emf" style="padding:15px;">E dönüşmek EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/to/jpg" style="padding:15px;">E dönüşmek JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/to/jpeg" style="padding:15px;">E dönüşmek JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/to/jp2" style="padding:15px;">E dönüşmek JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/to/j2k" style="padding:15px;">E dönüşmek J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/to/jpeg2000" style="padding:15px;">E dönüşmek JPEG2000</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/to/png" style="padding:15px;">E dönüşmek PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/to/psd" style="padding:15px;">E dönüşmek PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/to/dxf" style="padding:15px;">E dönüşmek DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/to/svg" style="padding:15px;">E dönüşmek SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/to/tiff" style="padding:15px;">E dönüşmek TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/to/webp" style="padding:15px;">E dönüşmek WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/to/wmf" style="padding:15px;">E dönüşmek WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/to/pdf" style="padding:15px;">E dönüşmek PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/to/html" style="padding:15px;">E dönüşmek HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/to/emz" style="padding:15px;">E dönüşmek EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/to/wmz" style="padding:15px;">E dönüşmek WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/to/tga" style="padding:15px;">E dönüşmek TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/to/svgz" style="padding:15px;">E dönüşmek SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/to/canvas" style="padding:15px;">E dönüşmek CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/to/ico" style="padding:15px;">E dönüşmek ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/to/apng" style="padding:15px;">E dönüşmek APNG</a></div>
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/to/bmp/" style="padding:15px;">E dönüşmek BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/to/gif/" style="padding:15px;">E dönüşmek GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/to/dicom/" style="padding:15px;">E dönüşmek DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/to/emf/" style="padding:15px;">E dönüşmek EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/to/jpg/" style="padding:15px;">E dönüşmek JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/to/jpeg/" style="padding:15px;">E dönüşmek JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/to/jp2/" style="padding:15px;">E dönüşmek JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/to/j2k/" style="padding:15px;">E dönüşmek J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/to/jpeg2000/" style="padding:15px;">E dönüşmek JPEG2000</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/to/png/" style="padding:15px;">E dönüşmek PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/to/psd/" style="padding:15px;">E dönüşmek PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/to/dxf/" style="padding:15px;">E dönüşmek DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/to/svg/" style="padding:15px;">E dönüşmek SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/to/tiff/" style="padding:15px;">E dönüşmek TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/to/webp/" style="padding:15px;">E dönüşmek WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/to/wmf/" style="padding:15px;">E dönüşmek WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/to/pdf/" style="padding:15px;">E dönüşmek PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/to/html/" style="padding:15px;">E dönüşmek HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/to/emz/" style="padding:15px;">E dönüşmek EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/to/wmz/" style="padding:15px;">E dönüşmek WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/to/tga/" style="padding:15px;">E dönüşmek TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/to/svgz/" style="padding:15px;">E dönüşmek SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/to/canvas/" style="padding:15px;">E dönüşmek CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/to/ico/" style="padding:15px;">E dönüşmek ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/tr/python-net/conversion/to/apng/" style="padding:15px;">E dönüşmek APNG</a></div>
                 </div>
         </div>
     </div>

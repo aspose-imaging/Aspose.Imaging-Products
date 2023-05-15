@@ -1,7 +1,7 @@
 ﻿---
 title: .NET Java ir SharePoint vaizdo manipuliavimo ir piešimo API 
 weight: 10
-url: /lt/family 
+url: /lt/family/ 
 lang: lt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -9,7 +9,7 @@ description: Kurkite manipuliuoti ir konvertuoti vaizdus naudodami atitinkamą b
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Vaizdo API, skirtos kelių platformų kūrimui" h2="Savosios API, skirtos piešti, manipuliuoti, transformuoti ir konvertuoti vaizdus." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging.svg" pfName="Aspose.Imaging" downloadUrl="https://downloads.aspose.com/imaging" tryOnlineUrl="" downloadFreeTrialText="Atsisiųskite nemokamą bandomąją versiją">}}
+{{< blocks/products/pf/upper-banner h1="Vaizdo API, skirtos kelių platformų kūrimui" h2="Savosios API, skirtos piešti, manipuliuoti, transformuoti ir konvertuoti vaizdus." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging.svg" pfName="Aspose.Imaging" downloadUrl="https://downloads.aspose.com/imaging/" tryOnlineUrl="" downloadFreeTrialText="Atsisiųskite nemokamą bandomąją versiją">}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Imaging Aukšto kodo API apima" >}}
@@ -42,22 +42,22 @@ Eksportuokite ataskaitas į kelis vaizdo formatus iš JasperReports.
 {{< blocks/products/pf/slr-element name="Dokumentacija" href="https://docs.aspose.com/imaging/" >}}
 {{< blocks/products/pf/slr-element name="Pirminis kodas" href="https://github.com/aspose-imaging?tab=repositories" >}}
 {{< blocks/products/pf/slr-element name="API nuorodos" href="https://apireference.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="Mokomieji vaizdo įrašai" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Mokomieji vaizdo įrašai" href="https://www.youtube.com/user/asposevideo/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Produkto palaikymas" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Nemokamas palaikymas" href="https://forum.aspose.com/c/imaging" >}}
+{{< blocks/products/pf/slr-element name="Nemokamas palaikymas" href="https://forum.aspose.com/c/imaging/" >}}
 {{< blocks/products/pf/slr-element name="Mokama parama" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Dienoraštis" href="https://blog.aspose.com/category/imaging/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Kodėl Aspose.Imaging produktų šeima?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Klientų sąrašas" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Klientų sąrašas" href="https://company.aspose.com/customers/" >}}
 {{< blocks/products/pf/slr-element name="Sėkmės istorijos" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/imaging" pricingInformationLink="https://purchase.aspose.com/pricing/imaging/family" downloadFreeTrialText="Atsisiųskite nemokamą bandomąją versiją" pricingInformationText="Informacija apie kainas">}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/imaging/" pricingInformationLink="https://purchase.aspose.com/pricing/imaging/family/" downloadFreeTrialText="Atsisiųskite nemokamą bandomąją versiją" pricingInformationText="Informacija apie kainas">}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

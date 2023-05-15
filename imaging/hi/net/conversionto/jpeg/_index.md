@@ -1,7 +1,7 @@
 ﻿---
 title: .NET प्लेटफॉर्म का उपयोग करके छवियों को अन्य समर्थित स्वरूपों से JPEG(फ़ोटोग्राफ़ी संबंधी विशेषज्ञों का संयुक्त समूह) छवि प्रारूप में कनवर्ट करें 
 weight: 3920
-url: /hi/net/conversion/to/jpeg 
+url: /hi/net/conversion/to/jpeg/ 
 lang: hi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -22,33 +22,33 @@ description: .NET लाइब्रेरी के लिए Aspose.Imaging �
         <div class="container">
 		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/apng-to-jpeg" style="padding:15px;">APNG को JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/bmp-to-jpeg" style="padding:15px;">BMP को JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/dib-to-jpeg" style="padding:15px;">DIB को JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/dicom-to-jpeg" style="padding:15px;">DICOM को JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/djvu-to-jpeg" style="padding:15px;">DJVU को JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/dng-to-jpeg" style="padding:15px;">DNG को JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/emf-to-jpeg" style="padding:15px;">EMF को JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/emz-to-jpeg" style="padding:15px;">EMZ को JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/gif-to-jpeg" style="padding:15px;">GIF को JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/jpeg2000-to-jpeg" style="padding:15px;">JPEG2000 को JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/jp2-to-jpeg" style="padding:15px;">JP2 को JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/j2k-to-jpeg" style="padding:15px;">J2K को JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/png-to-jpeg" style="padding:15px;">PNG को JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/tga-to-jpeg" style="padding:15px;">TGA को JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/tif-to-jpeg" style="padding:15px;">TIF को JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/tiff-to-jpeg" style="padding:15px;">TIFF को JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/webp-to-jpeg" style="padding:15px;">WEBP को JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/wmf-to-jpeg" style="padding:15px;">WMF को JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/wmz-to-jpeg" style="padding:15px;">WMZ को JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/svg-to-jpeg" style="padding:15px;">SVG को JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/svgz-to-jpeg" style="padding:15px;">SVGZ को JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/eps-to-jpeg" style="padding:15px;">EPS को JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/cdr-to-jpeg" style="padding:15px;">CDR को JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/cmx-to-jpeg" style="padding:15px;">CMX को JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/otg-to-jpeg" style="padding:15px;">OTG को JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/odg-to-jpeg" style="padding:15px;">ODG को JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/ico-to-jpeg" style="padding:15px;">ICO को JPEG</a></div>
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/apng-to-jpeg/" style="padding:15px;">APNG को JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/bmp-to-jpeg/" style="padding:15px;">BMP को JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/dib-to-jpeg/" style="padding:15px;">DIB को JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/dicom-to-jpeg/" style="padding:15px;">DICOM को JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/djvu-to-jpeg/" style="padding:15px;">DJVU को JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/dng-to-jpeg/" style="padding:15px;">DNG को JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/emf-to-jpeg/" style="padding:15px;">EMF को JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/emz-to-jpeg/" style="padding:15px;">EMZ को JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/gif-to-jpeg/" style="padding:15px;">GIF को JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/jpeg2000-to-jpeg/" style="padding:15px;">JPEG2000 को JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/jp2-to-jpeg/" style="padding:15px;">JP2 को JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/j2k-to-jpeg/" style="padding:15px;">J2K को JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/png-to-jpeg/" style="padding:15px;">PNG को JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/tga-to-jpeg/" style="padding:15px;">TGA को JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/tif-to-jpeg/" style="padding:15px;">TIF को JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/tiff-to-jpeg/" style="padding:15px;">TIFF को JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/webp-to-jpeg/" style="padding:15px;">WEBP को JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/wmf-to-jpeg/" style="padding:15px;">WMF को JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/wmz-to-jpeg/" style="padding:15px;">WMZ को JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/svg-to-jpeg/" style="padding:15px;">SVG को JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/svgz-to-jpeg/" style="padding:15px;">SVGZ को JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/eps-to-jpeg/" style="padding:15px;">EPS को JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/cdr-to-jpeg/" style="padding:15px;">CDR को JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/cmx-to-jpeg/" style="padding:15px;">CMX को JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/otg-to-jpeg/" style="padding:15px;">OTG को JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/odg-to-jpeg/" style="padding:15px;">ODG को JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/ico-to-jpeg/" style="padding:15px;">ICO को JPEG</a></div>
                 </div>
         </div>
     </div>

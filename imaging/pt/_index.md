@@ -1,7 +1,7 @@
 ﻿---
 title: Solução de processamento de imagem baseada em aplicativos, nuvem e local 
 weight: 4270
-url: /pt 
+url: /pt/ 
 lang: pt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he

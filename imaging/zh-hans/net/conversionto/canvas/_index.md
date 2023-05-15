@@ -1,7 +1,7 @@
 ﻿---
 title: 使用 .NET 平台将图像从其他支持的格式转换为 CANVAS(HTML5 画布) 图像格式 
 weight: 3920
-url: /zh-hans/net/conversion/to/canvas 
+url: /zh-hans/net/conversion/to/canvas/ 
 lang: zh-hans
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -22,35 +22,35 @@ description: 使用 Aspose.Imaging for .NET 库可以轻松地将其他支持的
         <div class="container">
 		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/apng-to-canvas" style="padding:15px;">APNG 到 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/bmp-to-canvas" style="padding:15px;">BMP 到 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/dib-to-canvas" style="padding:15px;">DIB 到 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/dicom-to-canvas" style="padding:15px;">DICOM 到 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/djvu-to-canvas" style="padding:15px;">DJVU 到 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/dng-to-canvas" style="padding:15px;">DNG 到 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/emf-to-canvas" style="padding:15px;">EMF 到 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/emz-to-canvas" style="padding:15px;">EMZ 到 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/gif-to-canvas" style="padding:15px;">GIF 到 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/jpeg2000-to-canvas" style="padding:15px;">JPEG2000 到 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/jp2-to-canvas" style="padding:15px;">JP2 到 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/j2k-to-canvas" style="padding:15px;">J2K 到 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/jpg-to-canvas" style="padding:15px;">JPG 到 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/jpeg-to-canvas" style="padding:15px;">JPEG 到 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/png-to-canvas" style="padding:15px;">PNG 到 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/tga-to-canvas" style="padding:15px;">TGA 到 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/tif-to-canvas" style="padding:15px;">TIF 到 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/tiff-to-canvas" style="padding:15px;">TIFF 到 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/webp-to-canvas" style="padding:15px;">WEBP 到 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/wmf-to-canvas" style="padding:15px;">WMF 到 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/wmz-to-canvas" style="padding:15px;">WMZ 到 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/svg-to-canvas" style="padding:15px;">SVG 到 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/svgz-to-canvas" style="padding:15px;">SVGZ 到 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/eps-to-canvas" style="padding:15px;">EPS 到 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/cdr-to-canvas" style="padding:15px;">CDR 到 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/cmx-to-canvas" style="padding:15px;">CMX 到 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/otg-to-canvas" style="padding:15px;">OTG 到 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/odg-to-canvas" style="padding:15px;">ODG 到 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/ico-to-canvas" style="padding:15px;">ICO 到 CANVAS</a></div>
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/apng-to-canvas/" style="padding:15px;">APNG 到 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/bmp-to-canvas/" style="padding:15px;">BMP 到 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/dib-to-canvas/" style="padding:15px;">DIB 到 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/dicom-to-canvas/" style="padding:15px;">DICOM 到 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/djvu-to-canvas/" style="padding:15px;">DJVU 到 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/dng-to-canvas/" style="padding:15px;">DNG 到 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/emf-to-canvas/" style="padding:15px;">EMF 到 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/emz-to-canvas/" style="padding:15px;">EMZ 到 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/gif-to-canvas/" style="padding:15px;">GIF 到 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/jpeg2000-to-canvas/" style="padding:15px;">JPEG2000 到 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/jp2-to-canvas/" style="padding:15px;">JP2 到 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/j2k-to-canvas/" style="padding:15px;">J2K 到 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/jpg-to-canvas/" style="padding:15px;">JPG 到 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/jpeg-to-canvas/" style="padding:15px;">JPEG 到 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/png-to-canvas/" style="padding:15px;">PNG 到 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/tga-to-canvas/" style="padding:15px;">TGA 到 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/tif-to-canvas/" style="padding:15px;">TIF 到 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/tiff-to-canvas/" style="padding:15px;">TIFF 到 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/webp-to-canvas/" style="padding:15px;">WEBP 到 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/wmf-to-canvas/" style="padding:15px;">WMF 到 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/wmz-to-canvas/" style="padding:15px;">WMZ 到 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/svg-to-canvas/" style="padding:15px;">SVG 到 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/svgz-to-canvas/" style="padding:15px;">SVGZ 到 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/eps-to-canvas/" style="padding:15px;">EPS 到 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/cdr-to-canvas/" style="padding:15px;">CDR 到 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/cmx-to-canvas/" style="padding:15px;">CMX 到 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/otg-to-canvas/" style="padding:15px;">OTG 到 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/odg-to-canvas/" style="padding:15px;">ODG 到 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/ico-to-canvas/" style="padding:15px;">ICO 到 CANVAS</a></div>
                 </div>
         </div>
     </div>

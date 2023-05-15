@@ -1,7 +1,7 @@
 ﻿---
 title: API hình ảnh Java | Vẽ thao tác và chuyển đổi hình ảnh 
 weight: 960
-url: /vi/java 
+url: /vi/java/ 
 lang: vi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -9,11 +9,11 @@ description: Thư viện thao tác và xử lý ảnh Java. Tạo chế độ xe
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1="Thư viện Java và API để xử lý hình ảnh" h2="Tạo, tải, thao tác hoặc chuyển đổi hình ảnh mà không yêu cầu bất kỳ trình chỉnh sửa hình ảnh nào." downloadFreeTrialText="Tải xuống bản dùng thử miễn phí" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-java.svg"  pfName="Aspose.Imaging" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/imaging/java" >}}
+{{< blocks/products/pf/upper-banner h1="Thư viện Java và API để xử lý hình ảnh" h2="Tạo, tải, thao tác hoặc chuyển đổi hình ảnh mà không yêu cầu bất kỳ trình chỉnh sửa hình ảnh nào." downloadFreeTrialText="Tải xuống bản dùng thử miễn phí" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-java.svg"  pfName="Aspose.Imaging" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/imaging/java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Java" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-java.svg" 
-liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://purchase.aspose.com/pricing/imaging/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/imaging/java" installationsDocsLink="https://docs.aspose.com/imaging/java/installation" mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-imaging/" directDownloadLink="https://downloads.aspose.com/imaging/java" liveDemosText="Bản trình diễn trực tiếp" overviewText="Tổng quat" featuresText="Đặc trưng" resourcesText="Tài nguyên" pricingText="Định giá" downloadText="Tải xuống" learnText="Học" buyText="Mua" >}}
+liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/java/" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/java/" installationsDocsLink="https://docs.aspose.com/imaging/java/installation/" mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-imaging/" directDownloadLink="https://downloads.aspose.com/imaging/java/" liveDemosText="Bản trình diễn trực tiếp" overviewText="Tổng quat" featuresText="Đặc trưng" resourcesText="Tài nguyên" pricingText="Định giá" downloadText="Tải xuống" learnText="Học" buyText="Mua" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="Tại một" carousel1Text2="Liếc nhìn" carousel2Text1="Nền tảng" carousel2Text2="Sự độc lập" carousel3Text1="Tệp được hỗ trợ" carousel3Text2="Định dạng">}}
 <p align="justify">
@@ -599,27 +599,27 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
 
 {{< blocks/products/pf/support-learning-resources supportAndLearningResourcesText="Tài nguyên Hỗ trợ và Học tập">}}
 {{< blocks/products/pf/slr-tab tabTitle="Tài nguyên học tập" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Tài liệu" href="https://docs.aspose.com/imaging/java" >}}
+{{< blocks/products/pf/slr-element name="Tài liệu" href="https://docs.aspose.com/imaging/java/" >}}
 {{< blocks/products/pf/slr-element name="Mã nguồn" href="https://github.com/aspose-imaging/Aspose.Imaging-for-Java" >}}
-{{< blocks/products/pf/slr-element name="Tham chiếu API" href="https://apireference.aspose.com/java/imaging" >}}
-{{< blocks/products/pf/slr-element name="Video hướng dẫn" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Tham chiếu API" href="https://apireference.aspose.com/java/imaging/" >}}
+{{< blocks/products/pf/slr-element name="Video hướng dẫn" href="https://www.youtube.com/user/asposevideo/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Hỗ trợ sản phẩm" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Hỗ trợ miễn phí" href="https://forum.aspose.com/c/imaging" >}}
+{{< blocks/products/pf/slr-element name="Hỗ trợ miễn phí" href="https://forum.aspose.com/c/imaging/" >}}
 {{< blocks/products/pf/slr-element name="Hỗ trợ trả phí" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/imaging/" >}}
 {{< blocks/products/pf/slr-element name="Ghi chú phát hành" href="https://docs.aspose.com/imaging/java/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Tại sao lại sử dụng Aspose. Java" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Danh sách khách hàng" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Danh sách khách hàng" href="https://company.aspose.com/customers/" >}}
 {{< blocks/products/pf/slr-element name="Câu chuyện thành công" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/imaging/java" downloadFreeTrialText="Tải xuống bản dùng thử miễn phí" pricingInformationText="Thông tin giá cả" pricingInformationLink="https://purchase.aspose.com/pricing/imaging/java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/imaging/java/" downloadFreeTrialText="Tải xuống bản dùng thử miễn phí" pricingInformationText="Thông tin giá cả" pricingInformationLink="https://purchase.aspose.com/pricing/imaging/java/" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Imaging " description="Aspose.Imaging cung cấp các API hình ảnh riêng lẻ cho các môi trường phát triển phổ biến khác như được liệt kê bên dưới:" >}}
 

@@ -1,7 +1,7 @@
 ﻿---
 title: Solution de traitement d'images sur site, basée sur le cloud et sur application 
 weight: 4270
-url: /fr 
+url: /fr/ 
 lang: fr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he

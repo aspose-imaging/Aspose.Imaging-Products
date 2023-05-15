@@ -2,7 +2,7 @@
 ---
 title: Konvertering av Java-bildformat 
 weight: 3920
-url: /sv/java/conversion 
+url: /sv/java/conversion/ 
 lang: sv
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -159,35 +159,35 @@ Nedan presenteras en fullständig lista över bildformat som du kan konvertera t
         <div class="container">
                 <hr style="margin-left:-20px;"/>
 		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/apng" style="padding:15px;">Konvertera från APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/bmp" style="padding:15px;">Konvertera från BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/dib" style="padding:15px;">Konvertera från DIB</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/dicom" style="padding:15px;">Konvertera från DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/djvu" style="padding:15px;">Konvertera från DJVU</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/dng" style="padding:15px;">Konvertera från DNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/emf" style="padding:15px;">Konvertera från EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/emz" style="padding:15px;">Konvertera från EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/gif" style="padding:15px;">Konvertera från GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/jpeg2000" style="padding:15px;">Konvertera från JPEG2000</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/jp2" style="padding:15px;">Konvertera från JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/j2k" style="padding:15px;">Konvertera från J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/jpg" style="padding:15px;">Konvertera från JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/jpeg" style="padding:15px;">Konvertera från JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/png" style="padding:15px;">Konvertera från PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/tga" style="padding:15px;">Konvertera från TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/tif" style="padding:15px;">Konvertera från TIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/tiff" style="padding:15px;">Konvertera från TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/webp" style="padding:15px;">Konvertera från WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/wmf" style="padding:15px;">Konvertera från WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/wmz" style="padding:15px;">Konvertera från WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/svg" style="padding:15px;">Konvertera från SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/svgz" style="padding:15px;">Konvertera från SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/eps" style="padding:15px;">Konvertera från EPS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/cdr" style="padding:15px;">Konvertera från CDR</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/cmx" style="padding:15px;">Konvertera från CMX</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/otg" style="padding:15px;">Konvertera från OTG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/odg" style="padding:15px;">Konvertera från ODG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/ico" style="padding:15px;">Konvertera från ICO</a></div>
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/apng/" style="padding:15px;">Konvertera från APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/bmp/" style="padding:15px;">Konvertera från BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/dib/" style="padding:15px;">Konvertera från DIB</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/dicom/" style="padding:15px;">Konvertera från DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/djvu/" style="padding:15px;">Konvertera från DJVU</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/dng/" style="padding:15px;">Konvertera från DNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/emf/" style="padding:15px;">Konvertera från EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/emz/" style="padding:15px;">Konvertera från EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/gif/" style="padding:15px;">Konvertera från GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/jpeg2000/" style="padding:15px;">Konvertera från JPEG2000</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/jp2/" style="padding:15px;">Konvertera från JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/j2k/" style="padding:15px;">Konvertera från J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/jpg/" style="padding:15px;">Konvertera från JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/jpeg/" style="padding:15px;">Konvertera från JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/png/" style="padding:15px;">Konvertera från PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/tga/" style="padding:15px;">Konvertera från TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/tif/" style="padding:15px;">Konvertera från TIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/tiff/" style="padding:15px;">Konvertera från TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/webp/" style="padding:15px;">Konvertera från WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/wmf/" style="padding:15px;">Konvertera från WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/wmz/" style="padding:15px;">Konvertera från WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/svg/" style="padding:15px;">Konvertera från SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/svgz/" style="padding:15px;">Konvertera från SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/eps/" style="padding:15px;">Konvertera från EPS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/cdr/" style="padding:15px;">Konvertera från CDR</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/cmx/" style="padding:15px;">Konvertera från CMX</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/otg/" style="padding:15px;">Konvertera från OTG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/odg/" style="padding:15px;">Konvertera från ODG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/from/ico/" style="padding:15px;">Konvertera från ICO</a></div>
                 </div>
         </div>
     </div>
@@ -202,31 +202,31 @@ Nedan presenteras en fullständig lista över bildformat som du kan konvertera f
         <div class="container">
 	        <hr style="margin-left:-20px;"/>
 		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/to/bmp" style="padding:15px;">Konvertera till BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/to/gif" style="padding:15px;">Konvertera till GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/to/dicom" style="padding:15px;">Konvertera till DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/to/emf" style="padding:15px;">Konvertera till EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/to/jpg" style="padding:15px;">Konvertera till JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/to/jpeg" style="padding:15px;">Konvertera till JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/to/jp2" style="padding:15px;">Konvertera till JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/to/j2k" style="padding:15px;">Konvertera till J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/to/jpeg2000" style="padding:15px;">Konvertera till JPEG2000</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/to/png" style="padding:15px;">Konvertera till PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/to/psd" style="padding:15px;">Konvertera till PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/to/dxf" style="padding:15px;">Konvertera till DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/to/svg" style="padding:15px;">Konvertera till SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/to/tiff" style="padding:15px;">Konvertera till TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/to/webp" style="padding:15px;">Konvertera till WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/to/wmf" style="padding:15px;">Konvertera till WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/to/pdf" style="padding:15px;">Konvertera till PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/to/html" style="padding:15px;">Konvertera till HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/to/emz" style="padding:15px;">Konvertera till EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/to/wmz" style="padding:15px;">Konvertera till WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/to/tga" style="padding:15px;">Konvertera till TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/to/svgz" style="padding:15px;">Konvertera till SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/to/canvas" style="padding:15px;">Konvertera till CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/to/ico" style="padding:15px;">Konvertera till ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/to/apng" style="padding:15px;">Konvertera till APNG</a></div>
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/to/bmp/" style="padding:15px;">Konvertera till BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/to/gif/" style="padding:15px;">Konvertera till GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/to/dicom/" style="padding:15px;">Konvertera till DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/to/emf/" style="padding:15px;">Konvertera till EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/to/jpg/" style="padding:15px;">Konvertera till JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/to/jpeg/" style="padding:15px;">Konvertera till JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/to/jp2/" style="padding:15px;">Konvertera till JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/to/j2k/" style="padding:15px;">Konvertera till J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/to/jpeg2000/" style="padding:15px;">Konvertera till JPEG2000</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/to/png/" style="padding:15px;">Konvertera till PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/to/psd/" style="padding:15px;">Konvertera till PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/to/dxf/" style="padding:15px;">Konvertera till DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/to/svg/" style="padding:15px;">Konvertera till SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/to/tiff/" style="padding:15px;">Konvertera till TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/to/webp/" style="padding:15px;">Konvertera till WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/to/wmf/" style="padding:15px;">Konvertera till WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/to/pdf/" style="padding:15px;">Konvertera till PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/to/html/" style="padding:15px;">Konvertera till HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/to/emz/" style="padding:15px;">Konvertera till EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/to/wmz/" style="padding:15px;">Konvertera till WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/to/tga/" style="padding:15px;">Konvertera till TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/to/svgz/" style="padding:15px;">Konvertera till SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/to/canvas/" style="padding:15px;">Konvertera till CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/to/ico/" style="padding:15px;">Konvertera till ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/sv/java/conversion/to/apng/" style="padding:15px;">Konvertera till APNG</a></div>
                 </div>
         </div>
     </div>

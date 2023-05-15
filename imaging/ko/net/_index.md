@@ -1,7 +1,7 @@
 ﻿---
 title: C# .NET 플랫폼 간 이미지 라이브러리 API - Aspose 
 weight: 960
-url: /ko/net 
+url: /ko/net/ 
 lang: ko
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -9,11 +9,11 @@ description: C# ASP.NET VB.NET 응용 프로그램 내에서 PSD BMP JPEG PNG TI
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1=".NET 플랫폼 간 라이브러리 - 이미지 처리용 API" h2="이미지 편집기 없이 이미지를 생성, 로드, 조작 또는 변환할 수 있습니다." downloadFreeTrialText="무료 평가판 다운로드" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/imaging/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET 플랫폼 간 라이브러리 - 이미지 처리용 API" h2="이미지 편집기 없이 이미지를 생성, 로드, 조작 또는 변환할 수 있습니다." downloadFreeTrialText="무료 평가판 다운로드" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/imaging/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for .NET" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-net.svg" 
-liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://purchase.aspose.com/pricing/imaging/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/imaging/net" installationsDocsLink="https://docs.aspose.com/imaging/net/installation" nugetLink="https://www.nuget.org/packages/aspose.imaging" nugetPackageName="Aspose.Imaging" directDownloadLink="https://downloads.aspose.com/imaging/net" liveDemosText="라이브 데모" overviewText="개요" featuresText="특징" resourcesText="자원" pricingText="가격" downloadText="다운로드" learnText="배우다" buyText="구입하다" >}}
+liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/net/" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/net/" installationsDocsLink="https://docs.aspose.com/imaging/net/installation/" nugetLink="https://www.nuget.org/packages/aspose.imaging" nugetPackageName="Aspose.Imaging" directDownloadLink="https://downloads.aspose.com/imaging/net/" liveDemosText="라이브 데모" overviewText="개요" featuresText="특징" resourcesText="자원" pricingText="가격" downloadText="다운로드" learnText="배우다" buyText="구입하다" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="에" carousel1Text2="섬광" carousel2Text1="플랫폼" carousel2Text2="독립" carousel3Text1="지원 파일" carousel3Text2="형식">}}
 <p align="justify">
@@ -614,27 +614,27 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
 
 {{< blocks/products/pf/support-learning-resources supportAndLearningResourcesText="지원 및 학습 리소스">}}
 {{< blocks/products/pf/slr-tab tabTitle="학습 자료" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="선적 서류 비치" href="https://docs.aspose.com/imaging/net" >}}
+{{< blocks/products/pf/slr-element name="선적 서류 비치" href="https://docs.aspose.com/imaging/net/" >}}
 {{< blocks/products/pf/slr-element name="소스 코드" href="https://github.com/aspose-imaging/Aspose.Imaging-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="API 참조" href="https://apireference.aspose.com/net/imaging" >}}
-{{< blocks/products/pf/slr-element name="튜토리얼 비디오" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="API 참조" href="https://apireference.aspose.com/net/imaging/" >}}
+{{< blocks/products/pf/slr-element name="튜토리얼 비디오" href="https://www.youtube.com/user/asposevideo/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="제품 지원" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="무료 지원" href="https://forum.aspose.com/c/imaging" >}}
+{{< blocks/products/pf/slr-element name="무료 지원" href="https://forum.aspose.com/c/imaging/" >}}
 {{< blocks/products/pf/slr-element name="유료 지원" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="블로그" href="https://blog.aspose.com/category/imaging/" >}}
 {{< blocks/products/pf/slr-element name="릴리즈 노트" href="https://docs.aspose.com/imaging/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Aspose.Imaging을 사용해야 하는 이유 .NET" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="고객 목록" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="고객 목록" href="https://company.aspose.com/customers/" >}}
 {{< blocks/products/pf/slr-element name="성공 사례" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/imaging/net" downloadFreeTrialText="무료 평가판 다운로드" pricingInformationText="가격 정보" pricingInformationLink="https://purchase.aspose.com/pricing/imaging/net" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/imaging/net/" downloadFreeTrialText="무료 평가판 다운로드" pricingInformationText="가격 정보" pricingInformationLink="https://purchase.aspose.com/pricing/imaging/net/" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Imaging " description="Aspose.Imaging은 아래 나열된 다른 인기 있는 개발 환경을 위한 개별 이미징 API를 제공합니다." >}}
 

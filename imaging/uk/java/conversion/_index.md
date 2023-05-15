@@ -2,7 +2,7 @@
 ---
 title: Перетворення форматів зображень Java 
 weight: 3920
-url: /uk/java/conversion 
+url: /uk/java/conversion/ 
 lang: uk
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -159,35 +159,35 @@ description: Конвертуйте популярні файли зображе
         <div class="container">
                 <hr style="margin-left:-20px;"/>
 		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/apng" style="padding:15px;">Перетворити з APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/bmp" style="padding:15px;">Перетворити з BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/dib" style="padding:15px;">Перетворити з DIB</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/dicom" style="padding:15px;">Перетворити з DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/djvu" style="padding:15px;">Перетворити з DJVU</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/dng" style="padding:15px;">Перетворити з DNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/emf" style="padding:15px;">Перетворити з EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/emz" style="padding:15px;">Перетворити з EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/gif" style="padding:15px;">Перетворити з GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/jpeg2000" style="padding:15px;">Перетворити з JPEG2000</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/jp2" style="padding:15px;">Перетворити з JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/j2k" style="padding:15px;">Перетворити з J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/jpg" style="padding:15px;">Перетворити з JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/jpeg" style="padding:15px;">Перетворити з JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/png" style="padding:15px;">Перетворити з PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/tga" style="padding:15px;">Перетворити з TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/tif" style="padding:15px;">Перетворити з TIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/tiff" style="padding:15px;">Перетворити з TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/webp" style="padding:15px;">Перетворити з WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/wmf" style="padding:15px;">Перетворити з WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/wmz" style="padding:15px;">Перетворити з WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/svg" style="padding:15px;">Перетворити з SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/svgz" style="padding:15px;">Перетворити з SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/eps" style="padding:15px;">Перетворити з EPS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/cdr" style="padding:15px;">Перетворити з CDR</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/cmx" style="padding:15px;">Перетворити з CMX</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/otg" style="padding:15px;">Перетворити з OTG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/odg" style="padding:15px;">Перетворити з ODG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/ico" style="padding:15px;">Перетворити з ICO</a></div>
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/apng/" style="padding:15px;">Перетворити з APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/bmp/" style="padding:15px;">Перетворити з BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/dib/" style="padding:15px;">Перетворити з DIB</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/dicom/" style="padding:15px;">Перетворити з DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/djvu/" style="padding:15px;">Перетворити з DJVU</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/dng/" style="padding:15px;">Перетворити з DNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/emf/" style="padding:15px;">Перетворити з EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/emz/" style="padding:15px;">Перетворити з EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/gif/" style="padding:15px;">Перетворити з GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/jpeg2000/" style="padding:15px;">Перетворити з JPEG2000</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/jp2/" style="padding:15px;">Перетворити з JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/j2k/" style="padding:15px;">Перетворити з J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/jpg/" style="padding:15px;">Перетворити з JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/jpeg/" style="padding:15px;">Перетворити з JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/png/" style="padding:15px;">Перетворити з PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/tga/" style="padding:15px;">Перетворити з TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/tif/" style="padding:15px;">Перетворити з TIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/tiff/" style="padding:15px;">Перетворити з TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/webp/" style="padding:15px;">Перетворити з WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/wmf/" style="padding:15px;">Перетворити з WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/wmz/" style="padding:15px;">Перетворити з WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/svg/" style="padding:15px;">Перетворити з SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/svgz/" style="padding:15px;">Перетворити з SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/eps/" style="padding:15px;">Перетворити з EPS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/cdr/" style="padding:15px;">Перетворити з CDR</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/cmx/" style="padding:15px;">Перетворити з CMX</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/otg/" style="padding:15px;">Перетворити з OTG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/odg/" style="padding:15px;">Перетворити з ODG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/from/ico/" style="padding:15px;">Перетворити з ICO</a></div>
                 </div>
         </div>
     </div>
@@ -202,31 +202,31 @@ description: Конвертуйте популярні файли зображе
         <div class="container">
 	        <hr style="margin-left:-20px;"/>
 		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/bmp" style="padding:15px;">Перетворити в BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/gif" style="padding:15px;">Перетворити в GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/dicom" style="padding:15px;">Перетворити в DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/emf" style="padding:15px;">Перетворити в EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/jpg" style="padding:15px;">Перетворити в JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/jpeg" style="padding:15px;">Перетворити в JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/jp2" style="padding:15px;">Перетворити в JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/j2k" style="padding:15px;">Перетворити в J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/jpeg2000" style="padding:15px;">Перетворити в JPEG2000</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/png" style="padding:15px;">Перетворити в PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/psd" style="padding:15px;">Перетворити в PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/dxf" style="padding:15px;">Перетворити в DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/svg" style="padding:15px;">Перетворити в SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/tiff" style="padding:15px;">Перетворити в TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/webp" style="padding:15px;">Перетворити в WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/wmf" style="padding:15px;">Перетворити в WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/pdf" style="padding:15px;">Перетворити в PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/html" style="padding:15px;">Перетворити в HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/emz" style="padding:15px;">Перетворити в EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/wmz" style="padding:15px;">Перетворити в WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/tga" style="padding:15px;">Перетворити в TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/svgz" style="padding:15px;">Перетворити в SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/canvas" style="padding:15px;">Перетворити в CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/ico" style="padding:15px;">Перетворити в ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/apng" style="padding:15px;">Перетворити в APNG</a></div>
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/bmp/" style="padding:15px;">Перетворити в BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/gif/" style="padding:15px;">Перетворити в GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/dicom/" style="padding:15px;">Перетворити в DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/emf/" style="padding:15px;">Перетворити в EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/jpg/" style="padding:15px;">Перетворити в JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/jpeg/" style="padding:15px;">Перетворити в JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/jp2/" style="padding:15px;">Перетворити в JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/j2k/" style="padding:15px;">Перетворити в J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/jpeg2000/" style="padding:15px;">Перетворити в JPEG2000</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/png/" style="padding:15px;">Перетворити в PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/psd/" style="padding:15px;">Перетворити в PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/dxf/" style="padding:15px;">Перетворити в DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/svg/" style="padding:15px;">Перетворити в SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/tiff/" style="padding:15px;">Перетворити в TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/webp/" style="padding:15px;">Перетворити в WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/wmf/" style="padding:15px;">Перетворити в WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/pdf/" style="padding:15px;">Перетворити в PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/html/" style="padding:15px;">Перетворити в HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/emz/" style="padding:15px;">Перетворити в EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/wmz/" style="padding:15px;">Перетворити в WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/tga/" style="padding:15px;">Перетворити в TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/svgz/" style="padding:15px;">Перетворити в SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/canvas/" style="padding:15px;">Перетворити в CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/ico/" style="padding:15px;">Перетворити в ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/to/apng/" style="padding:15px;">Перетворити в APNG</a></div>
                 </div>
         </div>
     </div>

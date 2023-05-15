@@ -1,7 +1,7 @@
 ﻿---
 title: Перетворіть зображення у формат SVGZ(Стиснута версія файлу масштабованої векторної графіки (.SVG).) з інших підтримуваних форматів за допомогою платформи .NET 
 weight: 3920
-url: /uk/net/conversion/to/svgz 
+url: /uk/net/conversion/to/svgz/ 
 lang: uk
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -22,34 +22,34 @@ description: За допомогою бібліотеки Aspose.Imaging для 
         <div class="container">
 		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/apng-to-svgz" style="padding:15px;">APNG до SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/bmp-to-svgz" style="padding:15px;">BMP до SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/dib-to-svgz" style="padding:15px;">DIB до SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/dicom-to-svgz" style="padding:15px;">DICOM до SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/djvu-to-svgz" style="padding:15px;">DJVU до SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/dng-to-svgz" style="padding:15px;">DNG до SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/emf-to-svgz" style="padding:15px;">EMF до SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/emz-to-svgz" style="padding:15px;">EMZ до SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/gif-to-svgz" style="padding:15px;">GIF до SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/jpeg2000-to-svgz" style="padding:15px;">JPEG2000 до SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/jp2-to-svgz" style="padding:15px;">JP2 до SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/j2k-to-svgz" style="padding:15px;">J2K до SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/jpg-to-svgz" style="padding:15px;">JPG до SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/jpeg-to-svgz" style="padding:15px;">JPEG до SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/png-to-svgz" style="padding:15px;">PNG до SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/tga-to-svgz" style="padding:15px;">TGA до SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/tif-to-svgz" style="padding:15px;">TIF до SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/tiff-to-svgz" style="padding:15px;">TIFF до SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/webp-to-svgz" style="padding:15px;">WEBP до SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/wmf-to-svgz" style="padding:15px;">WMF до SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/wmz-to-svgz" style="padding:15px;">WMZ до SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/svg-to-svgz" style="padding:15px;">SVG до SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/eps-to-svgz" style="padding:15px;">EPS до SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/cdr-to-svgz" style="padding:15px;">CDR до SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/cmx-to-svgz" style="padding:15px;">CMX до SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/otg-to-svgz" style="padding:15px;">OTG до SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/odg-to-svgz" style="padding:15px;">ODG до SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/ico-to-svgz" style="padding:15px;">ICO до SVGZ</a></div>
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/apng-to-svgz/" style="padding:15px;">APNG до SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/bmp-to-svgz/" style="padding:15px;">BMP до SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/dib-to-svgz/" style="padding:15px;">DIB до SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/dicom-to-svgz/" style="padding:15px;">DICOM до SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/djvu-to-svgz/" style="padding:15px;">DJVU до SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/dng-to-svgz/" style="padding:15px;">DNG до SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/emf-to-svgz/" style="padding:15px;">EMF до SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/emz-to-svgz/" style="padding:15px;">EMZ до SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/gif-to-svgz/" style="padding:15px;">GIF до SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/jpeg2000-to-svgz/" style="padding:15px;">JPEG2000 до SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/jp2-to-svgz/" style="padding:15px;">JP2 до SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/j2k-to-svgz/" style="padding:15px;">J2K до SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/jpg-to-svgz/" style="padding:15px;">JPG до SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/jpeg-to-svgz/" style="padding:15px;">JPEG до SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/png-to-svgz/" style="padding:15px;">PNG до SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/tga-to-svgz/" style="padding:15px;">TGA до SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/tif-to-svgz/" style="padding:15px;">TIF до SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/tiff-to-svgz/" style="padding:15px;">TIFF до SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/webp-to-svgz/" style="padding:15px;">WEBP до SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/wmf-to-svgz/" style="padding:15px;">WMF до SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/wmz-to-svgz/" style="padding:15px;">WMZ до SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/svg-to-svgz/" style="padding:15px;">SVG до SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/eps-to-svgz/" style="padding:15px;">EPS до SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/cdr-to-svgz/" style="padding:15px;">CDR до SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/cmx-to-svgz/" style="padding:15px;">CMX до SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/otg-to-svgz/" style="padding:15px;">OTG до SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/odg-to-svgz/" style="padding:15px;">ODG до SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/ico-to-svgz/" style="padding:15px;">ICO до SVGZ</a></div>
                 </div>
         </div>
     </div>

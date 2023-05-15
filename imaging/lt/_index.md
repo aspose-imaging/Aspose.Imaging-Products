@@ -1,7 +1,7 @@
 ﻿---
 title: „On Premise“, debesimis ir programomis pagrįstas vaizdo apdorojimo sprendimas 
 weight: 4270
-url: /lt 
+url: /lt/ 
 lang: lt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he

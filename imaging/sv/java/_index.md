@@ -1,7 +1,7 @@
 ﻿---
 title: Java Imaging API | Rita manipulera och transformera bilder 
 weight: 960
-url: /sv/java 
+url: /sv/java/ 
 lang: sv
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -9,11 +9,11 @@ description: Java Bildbehandlings- och manipulationsbibliotek. Skapa laddningsvy
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1="Java-bibliotek och API för bildbehandling" h2="Skapa, ladda, manipulera eller konvertera bilder utan att behöva någon bildredigerare." downloadFreeTrialText="Ladda ner gratis provversion" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-java.svg"  pfName="Aspose.Imaging" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/imaging/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java-bibliotek och API för bildbehandling" h2="Skapa, ladda, manipulera eller konvertera bilder utan att behöva någon bildredigerare." downloadFreeTrialText="Ladda ner gratis provversion" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-java.svg"  pfName="Aspose.Imaging" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/imaging/java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Java" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-java.svg" 
-liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://purchase.aspose.com/pricing/imaging/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/imaging/java" installationsDocsLink="https://docs.aspose.com/imaging/java/installation" mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-imaging/" directDownloadLink="https://downloads.aspose.com/imaging/java" liveDemosText="Livedemos" overviewText="Översikt" featuresText="Funktioner" resourcesText="Resurser" pricingText="Prissättning" downloadText="Ladda ner" learnText="Lära sig" buyText="köpa" >}}
+liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/java/" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/java/" installationsDocsLink="https://docs.aspose.com/imaging/java/installation/" mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-imaging/" directDownloadLink="https://downloads.aspose.com/imaging/java/" liveDemosText="Livedemos" overviewText="Översikt" featuresText="Funktioner" resourcesText="Resurser" pricingText="Prissättning" downloadText="Ladda ner" learnText="Lära sig" buyText="köpa" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="Vid en" carousel1Text2="Blick" carousel2Text1="Plattform" carousel2Text2="Oberoende" carousel3Text1="Fil som stöds" carousel3Text2="Format">}}
 <p align="justify">
@@ -599,27 +599,27 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
 
 {{< blocks/products/pf/support-learning-resources supportAndLearningResourcesText="Support- och lärresurser">}}
 {{< blocks/products/pf/slr-tab tabTitle="Lärresurser" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Dokumentation" href="https://docs.aspose.com/imaging/java" >}}
+{{< blocks/products/pf/slr-element name="Dokumentation" href="https://docs.aspose.com/imaging/java/" >}}
 {{< blocks/products/pf/slr-element name="Källkod" href="https://github.com/aspose-imaging/Aspose.Imaging-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API-referenser" href="https://apireference.aspose.com/java/imaging" >}}
-{{< blocks/products/pf/slr-element name="Handledningsvideor" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="API-referenser" href="https://apireference.aspose.com/java/imaging/" >}}
+{{< blocks/products/pf/slr-element name="Handledningsvideor" href="https://www.youtube.com/user/asposevideo/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Produktsupport" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Gratis support" href="https://forum.aspose.com/c/imaging" >}}
+{{< blocks/products/pf/slr-element name="Gratis support" href="https://forum.aspose.com/c/imaging/" >}}
 {{< blocks/products/pf/slr-element name="Betald support" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blogg" href="https://blog.aspose.com/category/imaging/" >}}
 {{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/imaging/java/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Varför Aspose.Imaging för Java" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Kundlista" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Kundlista" href="https://company.aspose.com/customers/" >}}
 {{< blocks/products/pf/slr-element name="Framgångsberättelser" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/imaging/java" downloadFreeTrialText="Ladda ner gratis provversion" pricingInformationText="Prisinformation" pricingInformationLink="https://purchase.aspose.com/pricing/imaging/java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/imaging/java/" downloadFreeTrialText="Ladda ner gratis provversion" pricingInformationText="Prisinformation" pricingInformationLink="https://purchase.aspose.com/pricing/imaging/java/" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Imaging " description="Aspose.Imaging erbjuder individuella Imaging API:er för andra populära utvecklingsmiljöer enligt listan nedan:" >}}
 

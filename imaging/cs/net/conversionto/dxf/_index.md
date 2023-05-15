@@ -1,7 +1,7 @@
 ﻿---
 title: Převeďte obrázky do formátu obrázku DXF(Výměnný formát výkresů nebo formát výměny výkresů,) z jiných podporovaných formátů pomocí platformy .NET 
 weight: 3920
-url: /cs/net/conversion/to/dxf 
+url: /cs/net/conversion/to/dxf/ 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -22,35 +22,35 @@ Podporovány jsou následující převody:
         <div class="container">
 		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/apng-to-dxf" style="padding:15px;">APNG na DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/bmp-to-dxf" style="padding:15px;">BMP na DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/dib-to-dxf" style="padding:15px;">DIB na DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/dicom-to-dxf" style="padding:15px;">DICOM na DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/djvu-to-dxf" style="padding:15px;">DJVU na DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/dng-to-dxf" style="padding:15px;">DNG na DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/emf-to-dxf" style="padding:15px;">EMF na DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/emz-to-dxf" style="padding:15px;">EMZ na DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/gif-to-dxf" style="padding:15px;">GIF na DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/jpeg2000-to-dxf" style="padding:15px;">JPEG2000 na DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/jp2-to-dxf" style="padding:15px;">JP2 na DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/j2k-to-dxf" style="padding:15px;">J2K na DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/jpg-to-dxf" style="padding:15px;">JPG na DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/jpeg-to-dxf" style="padding:15px;">JPEG na DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/png-to-dxf" style="padding:15px;">PNG na DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/tga-to-dxf" style="padding:15px;">TGA na DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/tif-to-dxf" style="padding:15px;">TIF na DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/tiff-to-dxf" style="padding:15px;">TIFF na DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/webp-to-dxf" style="padding:15px;">WEBP na DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/wmf-to-dxf" style="padding:15px;">WMF na DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/wmz-to-dxf" style="padding:15px;">WMZ na DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/svg-to-dxf" style="padding:15px;">SVG na DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/svgz-to-dxf" style="padding:15px;">SVGZ na DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/eps-to-dxf" style="padding:15px;">EPS na DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/cdr-to-dxf" style="padding:15px;">CDR na DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/cmx-to-dxf" style="padding:15px;">CMX na DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/otg-to-dxf" style="padding:15px;">OTG na DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/odg-to-dxf" style="padding:15px;">ODG na DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/ico-to-dxf" style="padding:15px;">ICO na DXF</a></div>
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/apng-to-dxf/" style="padding:15px;">APNG na DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/bmp-to-dxf/" style="padding:15px;">BMP na DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/dib-to-dxf/" style="padding:15px;">DIB na DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/dicom-to-dxf/" style="padding:15px;">DICOM na DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/djvu-to-dxf/" style="padding:15px;">DJVU na DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/dng-to-dxf/" style="padding:15px;">DNG na DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/emf-to-dxf/" style="padding:15px;">EMF na DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/emz-to-dxf/" style="padding:15px;">EMZ na DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/gif-to-dxf/" style="padding:15px;">GIF na DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/jpeg2000-to-dxf/" style="padding:15px;">JPEG2000 na DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/jp2-to-dxf/" style="padding:15px;">JP2 na DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/j2k-to-dxf/" style="padding:15px;">J2K na DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/jpg-to-dxf/" style="padding:15px;">JPG na DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/jpeg-to-dxf/" style="padding:15px;">JPEG na DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/png-to-dxf/" style="padding:15px;">PNG na DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/tga-to-dxf/" style="padding:15px;">TGA na DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/tif-to-dxf/" style="padding:15px;">TIF na DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/tiff-to-dxf/" style="padding:15px;">TIFF na DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/webp-to-dxf/" style="padding:15px;">WEBP na DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/wmf-to-dxf/" style="padding:15px;">WMF na DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/wmz-to-dxf/" style="padding:15px;">WMZ na DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/svg-to-dxf/" style="padding:15px;">SVG na DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/svgz-to-dxf/" style="padding:15px;">SVGZ na DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/eps-to-dxf/" style="padding:15px;">EPS na DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/cdr-to-dxf/" style="padding:15px;">CDR na DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/cmx-to-dxf/" style="padding:15px;">CMX na DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/otg-to-dxf/" style="padding:15px;">OTG na DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/odg-to-dxf/" style="padding:15px;">ODG na DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/cs/net/conversion/ico-to-dxf/" style="padding:15px;">ICO na DXF</a></div>
                 </div>
         </div>
     </div>

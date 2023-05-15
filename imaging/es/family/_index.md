@@ -1,7 +1,7 @@
 ﻿---
 title: API de dibujo y manipulación de imágenes de .NET Java y SharePoint 
 weight: 10
-url: /es/family 
+url: /es/family/ 
 lang: es
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -9,7 +9,7 @@ description: Cree, manipule y convierta imágenes usando la biblioteca relevante
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="API de imágenes para el desarrollo multiplataforma" h2="API nativas para dibujar, manipular, transformar y convertir imágenes." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging.svg" pfName="Aspose.Imaging" downloadUrl="https://downloads.aspose.com/imaging" tryOnlineUrl="" downloadFreeTrialText="Descargue prueba gratis">}}
+{{< blocks/products/pf/upper-banner h1="API de imágenes para el desarrollo multiplataforma" h2="API nativas para dibujar, manipular, transformar y convertir imágenes." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging.svg" pfName="Aspose.Imaging" downloadUrl="https://downloads.aspose.com/imaging/" tryOnlineUrl="" downloadFreeTrialText="Descargue prueba gratis">}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Imaging Las API de alto código incluyen" >}}
@@ -42,22 +42,22 @@ Cargue, cree, guarde y manipule diferentes formatos de archivo de imagen usando 
 {{< blocks/products/pf/slr-element name="Documentación" href="https://docs.aspose.com/imaging/" >}}
 {{< blocks/products/pf/slr-element name="Código fuente" href="https://github.com/aspose-imaging?tab=repositories" >}}
 {{< blocks/products/pf/slr-element name="Referencias de API" href="https://apireference.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="Vídeos tutoriales" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Vídeos tutoriales" href="https://www.youtube.com/user/asposevideo/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Soporte de producto" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Soporte gratuito" href="https://forum.aspose.com/c/imaging" >}}
+{{< blocks/products/pf/slr-element name="Soporte gratuito" href="https://forum.aspose.com/c/imaging/" >}}
 {{< blocks/products/pf/slr-element name="Soporte pagado" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/imaging/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="¿Por qué elegir la familia de productos Aspose.Imaging?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Lista de clientes" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Lista de clientes" href="https://company.aspose.com/customers/" >}}
 {{< blocks/products/pf/slr-element name="Historias de éxito" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/imaging" pricingInformationLink="https://purchase.aspose.com/pricing/imaging/family" downloadFreeTrialText="Descargue prueba gratis" pricingInformationText="Información de precio">}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/imaging/" pricingInformationLink="https://purchase.aspose.com/pricing/imaging/family/" downloadFreeTrialText="Descargue prueba gratis" pricingInformationText="Información de precio">}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

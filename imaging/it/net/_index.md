@@ -1,7 +1,7 @@
 ﻿---
 title: API della libreria di immagini multipiattaforma C# .NET - Aspose 
 weight: 960
-url: /it/net 
+url: /it/net/ 
 lang: it
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -9,11 +9,11 @@ description: API della libreria di elaborazione e manipolazione delle immagini p
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1="Libreria multipiattaforma .NET - API per l'elaborazione delle immagini" h2="Crea, carica, manipola o converti immagini senza richiedere alcun editor di immagini." downloadFreeTrialText="Scarica la prova gratuita" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/imaging/net" >}}
+{{< blocks/products/pf/upper-banner h1="Libreria multipiattaforma .NET - API per l'elaborazione delle immagini" h2="Crea, carica, manipola o converti immagini senza richiedere alcun editor di immagini." downloadFreeTrialText="Scarica la prova gratuita" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/imaging/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for .NET" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-net.svg" 
-liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://purchase.aspose.com/pricing/imaging/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/imaging/net" installationsDocsLink="https://docs.aspose.com/imaging/net/installation" nugetLink="https://www.nuget.org/packages/aspose.imaging" nugetPackageName="Aspose.Imaging" directDownloadLink="https://downloads.aspose.com/imaging/net" liveDemosText="Dimostrazioni dal vivo" overviewText="Panoramica" featuresText="Caratteristiche" resourcesText="Risorse" pricingText="Prezzo" downloadText="Scarica" learnText="Imparare" buyText="Acquistare" >}}
+liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/net/" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/net/" installationsDocsLink="https://docs.aspose.com/imaging/net/installation/" nugetLink="https://www.nuget.org/packages/aspose.imaging" nugetPackageName="Aspose.Imaging" directDownloadLink="https://downloads.aspose.com/imaging/net/" liveDemosText="Dimostrazioni dal vivo" overviewText="Panoramica" featuresText="Caratteristiche" resourcesText="Risorse" pricingText="Prezzo" downloadText="Scarica" learnText="Imparare" buyText="Acquistare" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="All'a" carousel1Text2="Colpo d'occhio" carousel2Text1="piattaforma" carousel2Text2="Indipendenza" carousel3Text1="File supportato" carousel3Text2="Formati">}}
 <p align="justify">
@@ -614,27 +614,27 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
 
 {{< blocks/products/pf/support-learning-resources supportAndLearningResourcesText="Supporto e risorse per l'apprendimento">}}
 {{< blocks/products/pf/slr-tab tabTitle="Risorse di apprendimento" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Documentazione" href="https://docs.aspose.com/imaging/net" >}}
+{{< blocks/products/pf/slr-element name="Documentazione" href="https://docs.aspose.com/imaging/net/" >}}
 {{< blocks/products/pf/slr-element name="Codice sorgente" href="https://github.com/aspose-imaging/Aspose.Imaging-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="Riferimenti API" href="https://apireference.aspose.com/net/imaging" >}}
-{{< blocks/products/pf/slr-element name="Video tutorial" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Riferimenti API" href="https://apireference.aspose.com/net/imaging/" >}}
+{{< blocks/products/pf/slr-element name="Video tutorial" href="https://www.youtube.com/user/asposevideo/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Supporto al prodotto" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Supporto gratuito" href="https://forum.aspose.com/c/imaging" >}}
+{{< blocks/products/pf/slr-element name="Supporto gratuito" href="https://forum.aspose.com/c/imaging/" >}}
 {{< blocks/products/pf/slr-element name="Supporto a pagamento" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/imaging/" >}}
 {{< blocks/products/pf/slr-element name="Note di rilascio" href="https://docs.aspose.com/imaging/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Perché Aspose.Imaging per .NET" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Elenco clienti" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Elenco clienti" href="https://company.aspose.com/customers/" >}}
 {{< blocks/products/pf/slr-element name="Storie di successo" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/imaging/net" downloadFreeTrialText="Scarica la prova gratuita" pricingInformationText="Informazioni sui prezzi" pricingInformationLink="https://purchase.aspose.com/pricing/imaging/net" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/imaging/net/" downloadFreeTrialText="Scarica la prova gratuita" pricingInformationText="Informazioni sui prezzi" pricingInformationLink="https://purchase.aspose.com/pricing/imaging/net/" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Imaging " description="Aspose.Imaging offre API di imaging individuali per altri ambienti di sviluppo popolari, come elencato di seguito:" >}}
 

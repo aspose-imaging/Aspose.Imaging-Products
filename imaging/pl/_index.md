@@ -1,7 +1,7 @@
 ﻿---
 title: Rozwiązanie do przetwarzania obrazu na miejscu, w chmurze i aplikacji 
 weight: 4270
-url: /pl 
+url: /pl/ 
 lang: pl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he

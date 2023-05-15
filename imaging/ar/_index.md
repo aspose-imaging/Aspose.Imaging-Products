@@ -1,7 +1,7 @@
 ﻿---
 title: حل معالجة الصور في أماكن العمل والسحابة والتطبيق 
 weight: 4270
-url: /ar 
+url: /ar/ 
 lang: ar
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he

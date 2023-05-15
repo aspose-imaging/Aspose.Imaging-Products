@@ -1,7 +1,7 @@
 ﻿---
 title: Перетворіть зображення у формат JPEG(Об’єднана експертна група з фотографій) з інших підтримуваних форматів за допомогою платформи .NET 
 weight: 3920
-url: /uk/net/conversion/to/jpeg 
+url: /uk/net/conversion/to/jpeg/ 
 lang: uk
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -22,33 +22,33 @@ description: За допомогою бібліотеки Aspose.Imaging для 
         <div class="container">
 		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/apng-to-jpeg" style="padding:15px;">APNG до JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/bmp-to-jpeg" style="padding:15px;">BMP до JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/dib-to-jpeg" style="padding:15px;">DIB до JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/dicom-to-jpeg" style="padding:15px;">DICOM до JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/djvu-to-jpeg" style="padding:15px;">DJVU до JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/dng-to-jpeg" style="padding:15px;">DNG до JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/emf-to-jpeg" style="padding:15px;">EMF до JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/emz-to-jpeg" style="padding:15px;">EMZ до JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/gif-to-jpeg" style="padding:15px;">GIF до JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/jpeg2000-to-jpeg" style="padding:15px;">JPEG2000 до JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/jp2-to-jpeg" style="padding:15px;">JP2 до JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/j2k-to-jpeg" style="padding:15px;">J2K до JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/png-to-jpeg" style="padding:15px;">PNG до JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/tga-to-jpeg" style="padding:15px;">TGA до JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/tif-to-jpeg" style="padding:15px;">TIF до JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/tiff-to-jpeg" style="padding:15px;">TIFF до JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/webp-to-jpeg" style="padding:15px;">WEBP до JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/wmf-to-jpeg" style="padding:15px;">WMF до JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/wmz-to-jpeg" style="padding:15px;">WMZ до JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/svg-to-jpeg" style="padding:15px;">SVG до JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/svgz-to-jpeg" style="padding:15px;">SVGZ до JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/eps-to-jpeg" style="padding:15px;">EPS до JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/cdr-to-jpeg" style="padding:15px;">CDR до JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/cmx-to-jpeg" style="padding:15px;">CMX до JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/otg-to-jpeg" style="padding:15px;">OTG до JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/odg-to-jpeg" style="padding:15px;">ODG до JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/ico-to-jpeg" style="padding:15px;">ICO до JPEG</a></div>
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/apng-to-jpeg/" style="padding:15px;">APNG до JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/bmp-to-jpeg/" style="padding:15px;">BMP до JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/dib-to-jpeg/" style="padding:15px;">DIB до JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/dicom-to-jpeg/" style="padding:15px;">DICOM до JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/djvu-to-jpeg/" style="padding:15px;">DJVU до JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/dng-to-jpeg/" style="padding:15px;">DNG до JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/emf-to-jpeg/" style="padding:15px;">EMF до JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/emz-to-jpeg/" style="padding:15px;">EMZ до JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/gif-to-jpeg/" style="padding:15px;">GIF до JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/jpeg2000-to-jpeg/" style="padding:15px;">JPEG2000 до JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/jp2-to-jpeg/" style="padding:15px;">JP2 до JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/j2k-to-jpeg/" style="padding:15px;">J2K до JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/png-to-jpeg/" style="padding:15px;">PNG до JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/tga-to-jpeg/" style="padding:15px;">TGA до JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/tif-to-jpeg/" style="padding:15px;">TIF до JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/tiff-to-jpeg/" style="padding:15px;">TIFF до JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/webp-to-jpeg/" style="padding:15px;">WEBP до JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/wmf-to-jpeg/" style="padding:15px;">WMF до JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/wmz-to-jpeg/" style="padding:15px;">WMZ до JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/svg-to-jpeg/" style="padding:15px;">SVG до JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/svgz-to-jpeg/" style="padding:15px;">SVGZ до JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/eps-to-jpeg/" style="padding:15px;">EPS до JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/cdr-to-jpeg/" style="padding:15px;">CDR до JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/cmx-to-jpeg/" style="padding:15px;">CMX до JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/otg-to-jpeg/" style="padding:15px;">OTG до JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/odg-to-jpeg/" style="padding:15px;">ODG до JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/net/conversion/ico-to-jpeg/" style="padding:15px;">ICO до JPEG</a></div>
                 </div>
         </div>
     </div>

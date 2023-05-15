@@ -1,7 +1,7 @@
 ﻿---
 title: Konwertuj do formatu DICOM z innych formatów przy użyciu biblioteki Aspose.Imaging for Java 
 weight: 3920
-url: /pl/java/conversion/to/dicom 
+url: /pl/java/conversion/to/dicom/ 
 lang: pl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -22,34 +22,34 @@ Obsługiwane konwersje:
         <div class="container">
 		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/apng-to-dicom" style="padding:15px;">APNG do DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/bmp-to-dicom" style="padding:15px;">BMP do DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/dib-to-dicom" style="padding:15px;">DIB do DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/djvu-to-dicom" style="padding:15px;">DJVU do DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/dng-to-dicom" style="padding:15px;">DNG do DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/emf-to-dicom" style="padding:15px;">EMF do DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/emz-to-dicom" style="padding:15px;">EMZ do DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/gif-to-dicom" style="padding:15px;">GIF do DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/jpeg2000-to-dicom" style="padding:15px;">JPEG2000 do DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/jp2-to-dicom" style="padding:15px;">JP2 do DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/j2k-to-dicom" style="padding:15px;">J2K do DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/jpg-to-dicom" style="padding:15px;">JPG do DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/jpeg-to-dicom" style="padding:15px;">JPEG do DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/png-to-dicom" style="padding:15px;">PNG do DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/tga-to-dicom" style="padding:15px;">TGA do DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/tif-to-dicom" style="padding:15px;">TIF do DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/tiff-to-dicom" style="padding:15px;">TIFF do DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/webp-to-dicom" style="padding:15px;">WEBP do DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/wmf-to-dicom" style="padding:15px;">WMF do DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/wmz-to-dicom" style="padding:15px;">WMZ do DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/svg-to-dicom" style="padding:15px;">SVG do DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/svgz-to-dicom" style="padding:15px;">SVGZ do DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/eps-to-dicom" style="padding:15px;">EPS do DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/cdr-to-dicom" style="padding:15px;">CDR do DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/cmx-to-dicom" style="padding:15px;">CMX do DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/otg-to-dicom" style="padding:15px;">OTG do DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/odg-to-dicom" style="padding:15px;">ODG do DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/ico-to-dicom" style="padding:15px;">ICO do DICOM</a></div>
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/apng-to-dicom/" style="padding:15px;">APNG do DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/bmp-to-dicom/" style="padding:15px;">BMP do DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/dib-to-dicom/" style="padding:15px;">DIB do DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/djvu-to-dicom/" style="padding:15px;">DJVU do DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/dng-to-dicom/" style="padding:15px;">DNG do DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/emf-to-dicom/" style="padding:15px;">EMF do DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/emz-to-dicom/" style="padding:15px;">EMZ do DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/gif-to-dicom/" style="padding:15px;">GIF do DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/jpeg2000-to-dicom/" style="padding:15px;">JPEG2000 do DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/jp2-to-dicom/" style="padding:15px;">JP2 do DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/j2k-to-dicom/" style="padding:15px;">J2K do DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/jpg-to-dicom/" style="padding:15px;">JPG do DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/jpeg-to-dicom/" style="padding:15px;">JPEG do DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/png-to-dicom/" style="padding:15px;">PNG do DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/tga-to-dicom/" style="padding:15px;">TGA do DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/tif-to-dicom/" style="padding:15px;">TIF do DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/tiff-to-dicom/" style="padding:15px;">TIFF do DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/webp-to-dicom/" style="padding:15px;">WEBP do DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/wmf-to-dicom/" style="padding:15px;">WMF do DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/wmz-to-dicom/" style="padding:15px;">WMZ do DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/svg-to-dicom/" style="padding:15px;">SVG do DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/svgz-to-dicom/" style="padding:15px;">SVGZ do DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/eps-to-dicom/" style="padding:15px;">EPS do DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/cdr-to-dicom/" style="padding:15px;">CDR do DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/cmx-to-dicom/" style="padding:15px;">CMX do DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/otg-to-dicom/" style="padding:15px;">OTG do DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/odg-to-dicom/" style="padding:15px;">ODG do DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/ico-to-dicom/" style="padding:15px;">ICO do DICOM</a></div>
                 </div>
         </div>
     </div>

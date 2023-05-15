@@ -1,7 +1,7 @@
 ﻿---
 title: On Premise, Cloud och App-baserad bildbehandlingslösning 
 weight: 4270
-url: /sv 
+url: /sv/ 
 lang: sv
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he

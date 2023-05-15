@@ -1,7 +1,7 @@
 ﻿---
 title: Перетворюйте в SVG інші формати за допомогою бібліотеки Aspose.Imaging для Java 
 weight: 3920
-url: /uk/java/conversion/to/svg 
+url: /uk/java/conversion/to/svg/ 
 lang: uk
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -22,35 +22,35 @@ description: За допомогою Aspose.Imaging ви можете конве
         <div class="container">
 		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/apng-to-svg" style="padding:15px;">APNG до SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/bmp-to-svg" style="padding:15px;">BMP до SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/dib-to-svg" style="padding:15px;">DIB до SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/dicom-to-svg" style="padding:15px;">DICOM до SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/djvu-to-svg" style="padding:15px;">DJVU до SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/dng-to-svg" style="padding:15px;">DNG до SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/emf-to-svg" style="padding:15px;">EMF до SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/emz-to-svg" style="padding:15px;">EMZ до SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/gif-to-svg" style="padding:15px;">GIF до SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/jpeg2000-to-svg" style="padding:15px;">JPEG2000 до SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/jp2-to-svg" style="padding:15px;">JP2 до SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/j2k-to-svg" style="padding:15px;">J2K до SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/jpg-to-svg" style="padding:15px;">JPG до SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/jpeg-to-svg" style="padding:15px;">JPEG до SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/png-to-svg" style="padding:15px;">PNG до SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/tga-to-svg" style="padding:15px;">TGA до SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/tif-to-svg" style="padding:15px;">TIF до SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/tiff-to-svg" style="padding:15px;">TIFF до SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/webp-to-svg" style="padding:15px;">WEBP до SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/wmf-to-svg" style="padding:15px;">WMF до SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/wmz-to-svg" style="padding:15px;">WMZ до SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/svg-to-svg" style="padding:15px;">SVG до SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/svgz-to-svg" style="padding:15px;">SVGZ до SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/eps-to-svg" style="padding:15px;">EPS до SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/cdr-to-svg" style="padding:15px;">CDR до SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/cmx-to-svg" style="padding:15px;">CMX до SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/otg-to-svg" style="padding:15px;">OTG до SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/odg-to-svg" style="padding:15px;">ODG до SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/ico-to-svg" style="padding:15px;">ICO до SVG</a></div>
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/apng-to-svg/" style="padding:15px;">APNG до SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/bmp-to-svg/" style="padding:15px;">BMP до SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/dib-to-svg/" style="padding:15px;">DIB до SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/dicom-to-svg/" style="padding:15px;">DICOM до SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/djvu-to-svg/" style="padding:15px;">DJVU до SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/dng-to-svg/" style="padding:15px;">DNG до SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/emf-to-svg/" style="padding:15px;">EMF до SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/emz-to-svg/" style="padding:15px;">EMZ до SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/gif-to-svg/" style="padding:15px;">GIF до SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/jpeg2000-to-svg/" style="padding:15px;">JPEG2000 до SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/jp2-to-svg/" style="padding:15px;">JP2 до SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/j2k-to-svg/" style="padding:15px;">J2K до SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/jpg-to-svg/" style="padding:15px;">JPG до SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/jpeg-to-svg/" style="padding:15px;">JPEG до SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/png-to-svg/" style="padding:15px;">PNG до SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/tga-to-svg/" style="padding:15px;">TGA до SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/tif-to-svg/" style="padding:15px;">TIF до SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/tiff-to-svg/" style="padding:15px;">TIFF до SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/webp-to-svg/" style="padding:15px;">WEBP до SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/wmf-to-svg/" style="padding:15px;">WMF до SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/wmz-to-svg/" style="padding:15px;">WMZ до SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/svg-to-svg/" style="padding:15px;">SVG до SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/svgz-to-svg/" style="padding:15px;">SVGZ до SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/eps-to-svg/" style="padding:15px;">EPS до SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/cdr-to-svg/" style="padding:15px;">CDR до SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/cmx-to-svg/" style="padding:15px;">CMX до SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/otg-to-svg/" style="padding:15px;">OTG до SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/odg-to-svg/" style="padding:15px;">ODG до SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/uk/java/conversion/ico-to-svg/" style="padding:15px;">ICO до SVG</a></div>
                 </div>
         </div>
     </div>

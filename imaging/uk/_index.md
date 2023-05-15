@@ -1,7 +1,7 @@
 ﻿---
 title: Рішення для локальної обробки зображень, у хмарі та на основі додатків 
 weight: 4270
-url: /uk 
+url: /uk/ 
 lang: uk
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he

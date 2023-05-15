@@ -2,7 +2,7 @@
 ---
 title: C # تحويل تنسيقات الصور 
 weight: 3920
-url: /ar/net/conversion 
+url: /ar/net/conversion/ 
 lang: ar
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -159,35 +159,35 @@ description: قم بتحويل تنسيقات الصور والصور والصو
         <div class="container">
                 <hr style="margin-left:-20px;"/>
 		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/apng" style="padding:15px;">تحويل من APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/bmp" style="padding:15px;">تحويل من BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/dib" style="padding:15px;">تحويل من DIB</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/dicom" style="padding:15px;">تحويل من DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/djvu" style="padding:15px;">تحويل من DJVU</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/dng" style="padding:15px;">تحويل من DNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/emf" style="padding:15px;">تحويل من EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/emz" style="padding:15px;">تحويل من EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/gif" style="padding:15px;">تحويل من GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/jpeg2000" style="padding:15px;">تحويل من JPEG2000</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/jp2" style="padding:15px;">تحويل من JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/j2k" style="padding:15px;">تحويل من J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/jpg" style="padding:15px;">تحويل من JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/jpeg" style="padding:15px;">تحويل من JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/png" style="padding:15px;">تحويل من PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/tga" style="padding:15px;">تحويل من TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/tif" style="padding:15px;">تحويل من TIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/tiff" style="padding:15px;">تحويل من TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/webp" style="padding:15px;">تحويل من WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/wmf" style="padding:15px;">تحويل من WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/wmz" style="padding:15px;">تحويل من WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/svg" style="padding:15px;">تحويل من SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/svgz" style="padding:15px;">تحويل من SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/eps" style="padding:15px;">تحويل من EPS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/cdr" style="padding:15px;">تحويل من CDR</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/cmx" style="padding:15px;">تحويل من CMX</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/otg" style="padding:15px;">تحويل من OTG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/odg" style="padding:15px;">تحويل من ODG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/ico" style="padding:15px;">تحويل من ICO</a></div>
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/apng/" style="padding:15px;">تحويل من APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/bmp/" style="padding:15px;">تحويل من BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/dib/" style="padding:15px;">تحويل من DIB</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/dicom/" style="padding:15px;">تحويل من DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/djvu/" style="padding:15px;">تحويل من DJVU</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/dng/" style="padding:15px;">تحويل من DNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/emf/" style="padding:15px;">تحويل من EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/emz/" style="padding:15px;">تحويل من EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/gif/" style="padding:15px;">تحويل من GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/jpeg2000/" style="padding:15px;">تحويل من JPEG2000</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/jp2/" style="padding:15px;">تحويل من JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/j2k/" style="padding:15px;">تحويل من J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/jpg/" style="padding:15px;">تحويل من JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/jpeg/" style="padding:15px;">تحويل من JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/png/" style="padding:15px;">تحويل من PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/tga/" style="padding:15px;">تحويل من TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/tif/" style="padding:15px;">تحويل من TIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/tiff/" style="padding:15px;">تحويل من TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/webp/" style="padding:15px;">تحويل من WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/wmf/" style="padding:15px;">تحويل من WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/wmz/" style="padding:15px;">تحويل من WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/svg/" style="padding:15px;">تحويل من SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/svgz/" style="padding:15px;">تحويل من SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/eps/" style="padding:15px;">تحويل من EPS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/cdr/" style="padding:15px;">تحويل من CDR</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/cmx/" style="padding:15px;">تحويل من CMX</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/otg/" style="padding:15px;">تحويل من OTG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/odg/" style="padding:15px;">تحويل من ODG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/from/ico/" style="padding:15px;">تحويل من ICO</a></div>
                 </div>
         </div>
     </div>
@@ -202,31 +202,31 @@ description: قم بتحويل تنسيقات الصور والصور والصو
         <div class="container">
 	        <hr style="margin-left:-20px;"/>
 		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/to/bmp" style="padding:15px;">حول الى BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/to/gif" style="padding:15px;">حول الى GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/to/dicom" style="padding:15px;">حول الى DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/to/emf" style="padding:15px;">حول الى EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/to/jpg" style="padding:15px;">حول الى JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/to/jpeg" style="padding:15px;">حول الى JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/to/jp2" style="padding:15px;">حول الى JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/to/j2k" style="padding:15px;">حول الى J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/to/jpeg2000" style="padding:15px;">حول الى JPEG2000</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/to/png" style="padding:15px;">حول الى PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/to/psd" style="padding:15px;">حول الى PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/to/dxf" style="padding:15px;">حول الى DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/to/svg" style="padding:15px;">حول الى SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/to/tiff" style="padding:15px;">حول الى TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/to/webp" style="padding:15px;">حول الى WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/to/wmf" style="padding:15px;">حول الى WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/to/pdf" style="padding:15px;">حول الى PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/to/html" style="padding:15px;">حول الى HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/to/emz" style="padding:15px;">حول الى EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/to/wmz" style="padding:15px;">حول الى WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/to/tga" style="padding:15px;">حول الى TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/to/svgz" style="padding:15px;">حول الى SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/to/canvas" style="padding:15px;">حول الى CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/to/ico" style="padding:15px;">حول الى ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/to/apng" style="padding:15px;">حول الى APNG</a></div>
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/to/bmp/" style="padding:15px;">حول الى BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/to/gif/" style="padding:15px;">حول الى GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/to/dicom/" style="padding:15px;">حول الى DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/to/emf/" style="padding:15px;">حول الى EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/to/jpg/" style="padding:15px;">حول الى JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/to/jpeg/" style="padding:15px;">حول الى JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/to/jp2/" style="padding:15px;">حول الى JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/to/j2k/" style="padding:15px;">حول الى J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/to/jpeg2000/" style="padding:15px;">حول الى JPEG2000</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/to/png/" style="padding:15px;">حول الى PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/to/psd/" style="padding:15px;">حول الى PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/to/dxf/" style="padding:15px;">حول الى DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/to/svg/" style="padding:15px;">حول الى SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/to/tiff/" style="padding:15px;">حول الى TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/to/webp/" style="padding:15px;">حول الى WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/to/wmf/" style="padding:15px;">حول الى WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/to/pdf/" style="padding:15px;">حول الى PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/to/html/" style="padding:15px;">حول الى HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/to/emz/" style="padding:15px;">حول الى EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/to/wmz/" style="padding:15px;">حول الى WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/to/tga/" style="padding:15px;">حول الى TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/to/svgz/" style="padding:15px;">حول الى SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/to/canvas/" style="padding:15px;">حول الى CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/to/ico/" style="padding:15px;">حول الى ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ar/net/conversion/to/apng/" style="padding:15px;">حول الى APNG</a></div>
                 </div>
         </div>
     </div>

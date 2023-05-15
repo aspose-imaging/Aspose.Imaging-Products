@@ -1,7 +1,7 @@
 ﻿---
 title: .NET プラットフォームを使用して、画像を他のサポートされている形式から APNG(アニメーション化されたポータブルネットワークグラフィックス) 画像形式に変換します 
 weight: 3920
-url: /ja/net/conversion/to/apng 
+url: /ja/net/conversion/to/apng/ 
 lang: ja
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -22,34 +22,34 @@ description: Aspose.Imaging for .NET ライブラリを使用すると、サポ�
         <div class="container">
 		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/bmp-to-apng" style="padding:15px;">BMP に APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/dib-to-apng" style="padding:15px;">DIB に APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/dicom-to-apng" style="padding:15px;">DICOM に APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/djvu-to-apng" style="padding:15px;">DJVU に APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/dng-to-apng" style="padding:15px;">DNG に APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/emf-to-apng" style="padding:15px;">EMF に APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/emz-to-apng" style="padding:15px;">EMZ に APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/gif-to-apng" style="padding:15px;">GIF に APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/jpeg2000-to-apng" style="padding:15px;">JPEG2000 に APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/jp2-to-apng" style="padding:15px;">JP2 に APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/j2k-to-apng" style="padding:15px;">J2K に APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/jpg-to-apng" style="padding:15px;">JPG に APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/jpeg-to-apng" style="padding:15px;">JPEG に APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/png-to-apng" style="padding:15px;">PNG に APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/tga-to-apng" style="padding:15px;">TGA に APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/tif-to-apng" style="padding:15px;">TIF に APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/tiff-to-apng" style="padding:15px;">TIFF に APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/webp-to-apng" style="padding:15px;">WEBP に APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/wmf-to-apng" style="padding:15px;">WMF に APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/wmz-to-apng" style="padding:15px;">WMZ に APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/svg-to-apng" style="padding:15px;">SVG に APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/svgz-to-apng" style="padding:15px;">SVGZ に APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/eps-to-apng" style="padding:15px;">EPS に APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/cdr-to-apng" style="padding:15px;">CDR に APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/cmx-to-apng" style="padding:15px;">CMX に APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/otg-to-apng" style="padding:15px;">OTG に APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/odg-to-apng" style="padding:15px;">ODG に APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/ico-to-apng" style="padding:15px;">ICO に APNG</a></div>
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/bmp-to-apng/" style="padding:15px;">BMP に APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/dib-to-apng/" style="padding:15px;">DIB に APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/dicom-to-apng/" style="padding:15px;">DICOM に APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/djvu-to-apng/" style="padding:15px;">DJVU に APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/dng-to-apng/" style="padding:15px;">DNG に APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/emf-to-apng/" style="padding:15px;">EMF に APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/emz-to-apng/" style="padding:15px;">EMZ に APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/gif-to-apng/" style="padding:15px;">GIF に APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/jpeg2000-to-apng/" style="padding:15px;">JPEG2000 に APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/jp2-to-apng/" style="padding:15px;">JP2 に APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/j2k-to-apng/" style="padding:15px;">J2K に APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/jpg-to-apng/" style="padding:15px;">JPG に APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/jpeg-to-apng/" style="padding:15px;">JPEG に APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/png-to-apng/" style="padding:15px;">PNG に APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/tga-to-apng/" style="padding:15px;">TGA に APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/tif-to-apng/" style="padding:15px;">TIF に APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/tiff-to-apng/" style="padding:15px;">TIFF に APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/webp-to-apng/" style="padding:15px;">WEBP に APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/wmf-to-apng/" style="padding:15px;">WMF に APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/wmz-to-apng/" style="padding:15px;">WMZ に APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/svg-to-apng/" style="padding:15px;">SVG に APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/svgz-to-apng/" style="padding:15px;">SVGZ に APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/eps-to-apng/" style="padding:15px;">EPS に APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/cdr-to-apng/" style="padding:15px;">CDR に APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/cmx-to-apng/" style="padding:15px;">CMX に APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/otg-to-apng/" style="padding:15px;">OTG に APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/odg-to-apng/" style="padding:15px;">ODG に APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ja/net/conversion/ico-to-apng/" style="padding:15px;">ICO に APNG</a></div>
                 </div>
         </div>
     </div>

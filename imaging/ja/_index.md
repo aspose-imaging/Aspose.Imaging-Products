@@ -1,7 +1,7 @@
 ﻿---
 title: オンプレミス、クラウド、アプリベースの画像処理ソリューション 
 weight: 4270
-url: /ja 
+url: /ja/ 
 lang: ja
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he

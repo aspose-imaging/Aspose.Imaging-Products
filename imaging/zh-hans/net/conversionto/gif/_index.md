@@ -1,7 +1,7 @@
 ﻿---
 title: 使用 .NET 平台将图像从其他支持的格式转换为 GIF(图形交换格式) 图像格式 
 weight: 3920
-url: /zh-hans/net/conversion/to/gif 
+url: /zh-hans/net/conversion/to/gif/ 
 lang: zh-hans
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -22,34 +22,34 @@ description: 使用 Aspose.Imaging for .NET 库可以轻松地将其他支持的
         <div class="container">
 		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/apng-to-gif" style="padding:15px;">APNG 到 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/bmp-to-gif" style="padding:15px;">BMP 到 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/dib-to-gif" style="padding:15px;">DIB 到 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/dicom-to-gif" style="padding:15px;">DICOM 到 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/djvu-to-gif" style="padding:15px;">DJVU 到 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/dng-to-gif" style="padding:15px;">DNG 到 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/emf-to-gif" style="padding:15px;">EMF 到 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/emz-to-gif" style="padding:15px;">EMZ 到 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/jpeg2000-to-gif" style="padding:15px;">JPEG2000 到 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/jp2-to-gif" style="padding:15px;">JP2 到 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/j2k-to-gif" style="padding:15px;">J2K 到 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/jpg-to-gif" style="padding:15px;">JPG 到 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/jpeg-to-gif" style="padding:15px;">JPEG 到 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/png-to-gif" style="padding:15px;">PNG 到 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/tga-to-gif" style="padding:15px;">TGA 到 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/tif-to-gif" style="padding:15px;">TIF 到 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/tiff-to-gif" style="padding:15px;">TIFF 到 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/webp-to-gif" style="padding:15px;">WEBP 到 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/wmf-to-gif" style="padding:15px;">WMF 到 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/wmz-to-gif" style="padding:15px;">WMZ 到 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/svg-to-gif" style="padding:15px;">SVG 到 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/svgz-to-gif" style="padding:15px;">SVGZ 到 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/eps-to-gif" style="padding:15px;">EPS 到 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/cdr-to-gif" style="padding:15px;">CDR 到 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/cmx-to-gif" style="padding:15px;">CMX 到 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/otg-to-gif" style="padding:15px;">OTG 到 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/odg-to-gif" style="padding:15px;">ODG 到 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/ico-to-gif" style="padding:15px;">ICO 到 GIF</a></div>
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/apng-to-gif/" style="padding:15px;">APNG 到 GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/bmp-to-gif/" style="padding:15px;">BMP 到 GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/dib-to-gif/" style="padding:15px;">DIB 到 GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/dicom-to-gif/" style="padding:15px;">DICOM 到 GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/djvu-to-gif/" style="padding:15px;">DJVU 到 GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/dng-to-gif/" style="padding:15px;">DNG 到 GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/emf-to-gif/" style="padding:15px;">EMF 到 GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/emz-to-gif/" style="padding:15px;">EMZ 到 GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/jpeg2000-to-gif/" style="padding:15px;">JPEG2000 到 GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/jp2-to-gif/" style="padding:15px;">JP2 到 GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/j2k-to-gif/" style="padding:15px;">J2K 到 GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/jpg-to-gif/" style="padding:15px;">JPG 到 GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/jpeg-to-gif/" style="padding:15px;">JPEG 到 GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/png-to-gif/" style="padding:15px;">PNG 到 GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/tga-to-gif/" style="padding:15px;">TGA 到 GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/tif-to-gif/" style="padding:15px;">TIF 到 GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/tiff-to-gif/" style="padding:15px;">TIFF 到 GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/webp-to-gif/" style="padding:15px;">WEBP 到 GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/wmf-to-gif/" style="padding:15px;">WMF 到 GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/wmz-to-gif/" style="padding:15px;">WMZ 到 GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/svg-to-gif/" style="padding:15px;">SVG 到 GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/svgz-to-gif/" style="padding:15px;">SVGZ 到 GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/eps-to-gif/" style="padding:15px;">EPS 到 GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/cdr-to-gif/" style="padding:15px;">CDR 到 GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/cmx-to-gif/" style="padding:15px;">CMX 到 GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/otg-to-gif/" style="padding:15px;">OTG 到 GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/odg-to-gif/" style="padding:15px;">ODG 到 GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/net/conversion/ico-to-gif/" style="padding:15px;">ICO 到 GIF</a></div>
                 </div>
         </div>
     </div>

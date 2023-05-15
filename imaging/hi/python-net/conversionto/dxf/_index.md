@@ -1,7 +1,7 @@
 ﻿---
 title: कई प्रारूपों से चित्रों को DXF में बदलने के लिए .NET के माध्यम से Aspose.Imaging for Python का उपयोग करें 
 weight: 3920
-url: /hi/python-net/conversion/to/dxf 
+url: /hi/python-net/conversion/to/dxf/ 
 lang: hi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -22,35 +22,35 @@ description: आप विभिन्न स्वरूपों से DXF �
         <div class="container">
 		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/apng-to-dxf" style="padding:15px;">APNG को DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/bmp-to-dxf" style="padding:15px;">BMP को DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/dib-to-dxf" style="padding:15px;">DIB को DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/dicom-to-dxf" style="padding:15px;">DICOM को DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/djvu-to-dxf" style="padding:15px;">DJVU को DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/dng-to-dxf" style="padding:15px;">DNG को DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/emf-to-dxf" style="padding:15px;">EMF को DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/emz-to-dxf" style="padding:15px;">EMZ को DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/gif-to-dxf" style="padding:15px;">GIF को DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/jpeg2000-to-dxf" style="padding:15px;">JPEG2000 को DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/jp2-to-dxf" style="padding:15px;">JP2 को DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/j2k-to-dxf" style="padding:15px;">J2K को DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/jpg-to-dxf" style="padding:15px;">JPG को DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/jpeg-to-dxf" style="padding:15px;">JPEG को DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/png-to-dxf" style="padding:15px;">PNG को DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/tga-to-dxf" style="padding:15px;">TGA को DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/tif-to-dxf" style="padding:15px;">TIF को DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/tiff-to-dxf" style="padding:15px;">TIFF को DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/webp-to-dxf" style="padding:15px;">WEBP को DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/wmf-to-dxf" style="padding:15px;">WMF को DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/wmz-to-dxf" style="padding:15px;">WMZ को DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/svg-to-dxf" style="padding:15px;">SVG को DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/svgz-to-dxf" style="padding:15px;">SVGZ को DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/eps-to-dxf" style="padding:15px;">EPS को DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/cdr-to-dxf" style="padding:15px;">CDR को DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/cmx-to-dxf" style="padding:15px;">CMX को DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/otg-to-dxf" style="padding:15px;">OTG को DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/odg-to-dxf" style="padding:15px;">ODG को DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/ico-to-dxf" style="padding:15px;">ICO को DXF</a></div>
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/apng-to-dxf/" style="padding:15px;">APNG को DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/bmp-to-dxf/" style="padding:15px;">BMP को DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/dib-to-dxf/" style="padding:15px;">DIB को DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/dicom-to-dxf/" style="padding:15px;">DICOM को DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/djvu-to-dxf/" style="padding:15px;">DJVU को DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/dng-to-dxf/" style="padding:15px;">DNG को DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/emf-to-dxf/" style="padding:15px;">EMF को DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/emz-to-dxf/" style="padding:15px;">EMZ को DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/gif-to-dxf/" style="padding:15px;">GIF को DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/jpeg2000-to-dxf/" style="padding:15px;">JPEG2000 को DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/jp2-to-dxf/" style="padding:15px;">JP2 को DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/j2k-to-dxf/" style="padding:15px;">J2K को DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/jpg-to-dxf/" style="padding:15px;">JPG को DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/jpeg-to-dxf/" style="padding:15px;">JPEG को DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/png-to-dxf/" style="padding:15px;">PNG को DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/tga-to-dxf/" style="padding:15px;">TGA को DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/tif-to-dxf/" style="padding:15px;">TIF को DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/tiff-to-dxf/" style="padding:15px;">TIFF को DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/webp-to-dxf/" style="padding:15px;">WEBP को DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/wmf-to-dxf/" style="padding:15px;">WMF को DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/wmz-to-dxf/" style="padding:15px;">WMZ को DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/svg-to-dxf/" style="padding:15px;">SVG को DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/svgz-to-dxf/" style="padding:15px;">SVGZ को DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/eps-to-dxf/" style="padding:15px;">EPS को DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/cdr-to-dxf/" style="padding:15px;">CDR को DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/cmx-to-dxf/" style="padding:15px;">CMX को DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/otg-to-dxf/" style="padding:15px;">OTG को DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/odg-to-dxf/" style="padding:15px;">ODG को DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/ico-to-dxf/" style="padding:15px;">ICO को DXF</a></div>
                 </div>
         </div>
     </div>

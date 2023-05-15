@@ -1,7 +1,7 @@
 ﻿---
 title: Konvertieren Sie Bilder aus anderen unterstützten Formaten mithilfe der .NET-Plattform in das Bildformat WEBP(Raster-Webbild) 
 weight: 3920
-url: /de/net/conversion/to/webp 
+url: /de/net/conversion/to/webp/ 
 lang: de
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -22,34 +22,34 @@ Folgende Konvertierungen werden unterstützt:
         <div class="container">
 		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/apng-to-webp" style="padding:15px;">APNG zu WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/bmp-to-webp" style="padding:15px;">BMP zu WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/dib-to-webp" style="padding:15px;">DIB zu WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/dicom-to-webp" style="padding:15px;">DICOM zu WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/djvu-to-webp" style="padding:15px;">DJVU zu WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/dng-to-webp" style="padding:15px;">DNG zu WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/emf-to-webp" style="padding:15px;">EMF zu WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/emz-to-webp" style="padding:15px;">EMZ zu WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/gif-to-webp" style="padding:15px;">GIF zu WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/jpeg2000-to-webp" style="padding:15px;">JPEG2000 zu WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/jp2-to-webp" style="padding:15px;">JP2 zu WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/j2k-to-webp" style="padding:15px;">J2K zu WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/jpg-to-webp" style="padding:15px;">JPG zu WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/jpeg-to-webp" style="padding:15px;">JPEG zu WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/png-to-webp" style="padding:15px;">PNG zu WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/tga-to-webp" style="padding:15px;">TGA zu WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/tif-to-webp" style="padding:15px;">TIF zu WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/tiff-to-webp" style="padding:15px;">TIFF zu WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/wmf-to-webp" style="padding:15px;">WMF zu WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/wmz-to-webp" style="padding:15px;">WMZ zu WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/svg-to-webp" style="padding:15px;">SVG zu WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/svgz-to-webp" style="padding:15px;">SVGZ zu WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/eps-to-webp" style="padding:15px;">EPS zu WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/cdr-to-webp" style="padding:15px;">CDR zu WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/cmx-to-webp" style="padding:15px;">CMX zu WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/otg-to-webp" style="padding:15px;">OTG zu WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/odg-to-webp" style="padding:15px;">ODG zu WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/ico-to-webp" style="padding:15px;">ICO zu WEBP</a></div>
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/apng-to-webp/" style="padding:15px;">APNG zu WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/bmp-to-webp/" style="padding:15px;">BMP zu WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/dib-to-webp/" style="padding:15px;">DIB zu WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/dicom-to-webp/" style="padding:15px;">DICOM zu WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/djvu-to-webp/" style="padding:15px;">DJVU zu WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/dng-to-webp/" style="padding:15px;">DNG zu WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/emf-to-webp/" style="padding:15px;">EMF zu WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/emz-to-webp/" style="padding:15px;">EMZ zu WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/gif-to-webp/" style="padding:15px;">GIF zu WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/jpeg2000-to-webp/" style="padding:15px;">JPEG2000 zu WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/jp2-to-webp/" style="padding:15px;">JP2 zu WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/j2k-to-webp/" style="padding:15px;">J2K zu WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/jpg-to-webp/" style="padding:15px;">JPG zu WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/jpeg-to-webp/" style="padding:15px;">JPEG zu WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/png-to-webp/" style="padding:15px;">PNG zu WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/tga-to-webp/" style="padding:15px;">TGA zu WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/tif-to-webp/" style="padding:15px;">TIF zu WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/tiff-to-webp/" style="padding:15px;">TIFF zu WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/wmf-to-webp/" style="padding:15px;">WMF zu WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/wmz-to-webp/" style="padding:15px;">WMZ zu WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/svg-to-webp/" style="padding:15px;">SVG zu WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/svgz-to-webp/" style="padding:15px;">SVGZ zu WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/eps-to-webp/" style="padding:15px;">EPS zu WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/cdr-to-webp/" style="padding:15px;">CDR zu WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/cmx-to-webp/" style="padding:15px;">CMX zu WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/otg-to-webp/" style="padding:15px;">OTG zu WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/odg-to-webp/" style="padding:15px;">ODG zu WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/ico-to-webp/" style="padding:15px;">ICO zu WEBP</a></div>
                 </div>
         </div>
     </div>

@@ -1,7 +1,7 @@
 ﻿---
 title: API обработки изображений Python | Aspose.Imaging for Python через .NET — рисование, управление и преобразование изображений 
 weight: 960
-url: /ru/python-net 
+url: /ru/python-net/ 
 lang: ru
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -9,11 +9,11 @@ description: Библиотека обработки и обработки из�
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1="Aspose.Imaging для Python via .NET и API для обработки изображений" h2="Создавайте, загружайте, манипулируйте или конвертируйте изображения, не требуя какого-либо редактора изображений." downloadFreeTrialText="Скачать бесплатную пробную версию" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-python-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/imaging/python-net" >}}
+{{< blocks/products/pf/upper-banner h1="Aspose.Imaging для Python via .NET и API для обработки изображений" h2="Создавайте, загружайте, манипулируйте или конвертируйте изображения, не требуя какого-либо редактора изображений." downloadFreeTrialText="Скачать бесплатную пробную версию" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-python-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/imaging/python-net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Python" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-python-net.svg" 
-liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://purchase.aspose.com/pricing/imaging/python-net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/imaging/python-net" installationsDocsLink="https://docs.aspose.com/imaging/python-net/installation" pipLink="https://test.pypi.org/project/aspose.imaging/" directDownloadLink="https://downloads.aspose.com/imaging/python-net" liveDemosText="Online примеры" overviewText="Обзор" featuresText="Характеристики" resourcesText="Ресурсы" pricingText="Стоимость" downloadText="Скачать" learnText="Изучить" buyText="Купить" >}}
+liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/python-net/" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/python-net/" installationsDocsLink="https://docs.aspose.com/imaging/python-net/installation/" pipLink="https://test.pypi.org/project/aspose.imaging/" directDownloadLink="https://downloads.aspose.com/imaging/python-net/" liveDemosText="Online примеры" overviewText="Обзор" featuresText="Характеристики" resourcesText="Ресурсы" pricingText="Стоимость" downloadText="Скачать" learnText="Изучить" buyText="Купить" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="С одного" carousel1Text2="Взгляда" carousel2Text1="Независимость от" carousel2Text2="Платформы" carousel3Text1="Поддерживаемые форматы" carousel3Text2="Файлов">}}
 <p align="justify">
@@ -591,27 +591,27 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
 
 {{< blocks/products/pf/support-learning-resources supportAndLearningResourcesText="Поддержка и Обучающие Ресурсы">}}
 {{< blocks/products/pf/slr-tab tabTitle="Образовательные ресурсы" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Документация" href="https://docs.aspose.com/imaging/python-net" >}}
+{{< blocks/products/pf/slr-element name="Документация" href="https://docs.aspose.com/imaging/python-net/" >}}
 {{< blocks/products/pf/slr-element name="Исходный код" href="https://github.com/aspose-imaging/Aspose.Imaging-for-Python-через-.NET" >}}
-{{< blocks/products/pf/slr-element name="Ссылки на API" href="https://apireference.aspose.com/python-net/imaging" >}}
-{{< blocks/products/pf/slr-element name="Учебные видео" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Ссылки на API" href="https://apireference.aspose.com/python-net/imaging/" >}}
+{{< blocks/products/pf/slr-element name="Учебные видео" href="https://www.youtube.com/user/asposevideo/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Поддержка продукта" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Бесплатная поддержка" href="https://forum.aspose.com/c/imaging" >}}
+{{< blocks/products/pf/slr-element name="Бесплатная поддержка" href="https://forum.aspose.com/c/imaging/" >}}
 {{< blocks/products/pf/slr-element name="Платная поддержка" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Блог" href="https://blog.aspose.com/category/imaging/" >}}
 {{< blocks/products/pf/slr-element name="Примечания к выпуску" href="https://docs.aspose.com/imaging/python-net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Почему Aspose.Imaging для Python" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Список клиентов" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Список клиентов" href="https://company.aspose.com/customers/" >}}
 {{< blocks/products/pf/slr-element name="Истории успеха" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/imaging/python-net" downloadFreeTrialText="Скачать бесплатную пробную версию" pricingInformationText="Информация о стоимости" pricingInformationLink="https://purchase.aspose.com/pricing/imaging/python-net" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/imaging/python-net/" downloadFreeTrialText="Скачать бесплатную пробную версию" pricingInformationText="Информация о стоимости" pricingInformationLink="https://purchase.aspose.com/pricing/imaging/python-net/" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Imaging " description="Aspose.Imaging предлагает отдельные API обработки изображений для других популярных сред разработки, перечисленных ниже:" >}}
 

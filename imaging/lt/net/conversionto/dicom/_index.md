@@ -1,7 +1,7 @@
 ﻿---
 title: Konvertuokite vaizdus į DICOM(Skaitmeninis vaizdas ir ryšiai) vaizdo formatą iš kitų palaikomų formatų naudodami .NET platformą 
 weight: 3920
-url: /lt/net/conversion/to/dicom 
+url: /lt/net/conversion/to/dicom/ 
 lang: lt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -22,34 +22,34 @@ Palaikomos šios konversijos:
         <div class="container">
 		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/apng-to-dicom" style="padding:15px;">APNG į DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/bmp-to-dicom" style="padding:15px;">BMP į DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/dib-to-dicom" style="padding:15px;">DIB į DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/djvu-to-dicom" style="padding:15px;">DJVU į DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/dng-to-dicom" style="padding:15px;">DNG į DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/emf-to-dicom" style="padding:15px;">EMF į DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/emz-to-dicom" style="padding:15px;">EMZ į DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/gif-to-dicom" style="padding:15px;">GIF į DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/jpeg2000-to-dicom" style="padding:15px;">JPEG2000 į DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/jp2-to-dicom" style="padding:15px;">JP2 į DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/j2k-to-dicom" style="padding:15px;">J2K į DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/jpg-to-dicom" style="padding:15px;">JPG į DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/jpeg-to-dicom" style="padding:15px;">JPEG į DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/png-to-dicom" style="padding:15px;">PNG į DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/tga-to-dicom" style="padding:15px;">TGA į DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/tif-to-dicom" style="padding:15px;">TIF į DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/tiff-to-dicom" style="padding:15px;">TIFF į DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/webp-to-dicom" style="padding:15px;">WEBP į DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/wmf-to-dicom" style="padding:15px;">WMF į DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/wmz-to-dicom" style="padding:15px;">WMZ į DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/svg-to-dicom" style="padding:15px;">SVG į DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/svgz-to-dicom" style="padding:15px;">SVGZ į DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/eps-to-dicom" style="padding:15px;">EPS į DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/cdr-to-dicom" style="padding:15px;">CDR į DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/cmx-to-dicom" style="padding:15px;">CMX į DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/otg-to-dicom" style="padding:15px;">OTG į DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/odg-to-dicom" style="padding:15px;">ODG į DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/ico-to-dicom" style="padding:15px;">ICO į DICOM</a></div>
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/apng-to-dicom/" style="padding:15px;">APNG į DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/bmp-to-dicom/" style="padding:15px;">BMP į DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/dib-to-dicom/" style="padding:15px;">DIB į DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/djvu-to-dicom/" style="padding:15px;">DJVU į DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/dng-to-dicom/" style="padding:15px;">DNG į DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/emf-to-dicom/" style="padding:15px;">EMF į DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/emz-to-dicom/" style="padding:15px;">EMZ į DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/gif-to-dicom/" style="padding:15px;">GIF į DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/jpeg2000-to-dicom/" style="padding:15px;">JPEG2000 į DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/jp2-to-dicom/" style="padding:15px;">JP2 į DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/j2k-to-dicom/" style="padding:15px;">J2K į DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/jpg-to-dicom/" style="padding:15px;">JPG į DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/jpeg-to-dicom/" style="padding:15px;">JPEG į DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/png-to-dicom/" style="padding:15px;">PNG į DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/tga-to-dicom/" style="padding:15px;">TGA į DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/tif-to-dicom/" style="padding:15px;">TIF į DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/tiff-to-dicom/" style="padding:15px;">TIFF į DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/webp-to-dicom/" style="padding:15px;">WEBP į DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/wmf-to-dicom/" style="padding:15px;">WMF į DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/wmz-to-dicom/" style="padding:15px;">WMZ į DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/svg-to-dicom/" style="padding:15px;">SVG į DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/svgz-to-dicom/" style="padding:15px;">SVGZ į DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/eps-to-dicom/" style="padding:15px;">EPS į DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/cdr-to-dicom/" style="padding:15px;">CDR į DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/cmx-to-dicom/" style="padding:15px;">CMX į DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/otg-to-dicom/" style="padding:15px;">OTG į DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/odg-to-dicom/" style="padding:15px;">ODG į DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/net/conversion/ico-to-dicom/" style="padding:15px;">ICO į DICOM</a></div>
                 </div>
         </div>
     </div>

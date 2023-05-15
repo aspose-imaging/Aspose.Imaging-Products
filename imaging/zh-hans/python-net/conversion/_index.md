@@ -2,7 +2,7 @@
 ---
 title: Python 图像格式转换 
 weight: 3920
-url: /zh-hans/python-net/conversion 
+url: /zh-hans/python-net/conversion/ 
 lang: zh-hans
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -159,35 +159,35 @@ SVG 图像的转换是一样的，加载 SVG 图像，使用所需的图像保�
         <div class="container">
                 <hr style="margin-left:-20px;"/>
 		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/apng" style="padding:15px;">转换自 APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/bmp" style="padding:15px;">转换自 BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/dib" style="padding:15px;">转换自 DIB</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/dicom" style="padding:15px;">转换自 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/djvu" style="padding:15px;">转换自 DJVU</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/dng" style="padding:15px;">转换自 DNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/emf" style="padding:15px;">转换自 EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/emz" style="padding:15px;">转换自 EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/gif" style="padding:15px;">转换自 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/jpeg2000" style="padding:15px;">转换自 JPEG2000</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/jp2" style="padding:15px;">转换自 JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/j2k" style="padding:15px;">转换自 J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/jpg" style="padding:15px;">转换自 JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/jpeg" style="padding:15px;">转换自 JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/png" style="padding:15px;">转换自 PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/tga" style="padding:15px;">转换自 TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/tif" style="padding:15px;">转换自 TIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/tiff" style="padding:15px;">转换自 TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/webp" style="padding:15px;">转换自 WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/wmf" style="padding:15px;">转换自 WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/wmz" style="padding:15px;">转换自 WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/svg" style="padding:15px;">转换自 SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/svgz" style="padding:15px;">转换自 SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/eps" style="padding:15px;">转换自 EPS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/cdr" style="padding:15px;">转换自 CDR</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/cmx" style="padding:15px;">转换自 CMX</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/otg" style="padding:15px;">转换自 OTG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/odg" style="padding:15px;">转换自 ODG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/ico" style="padding:15px;">转换自 ICO</a></div>
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/apng/" style="padding:15px;">转换自 APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/bmp/" style="padding:15px;">转换自 BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/dib/" style="padding:15px;">转换自 DIB</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/dicom/" style="padding:15px;">转换自 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/djvu/" style="padding:15px;">转换自 DJVU</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/dng/" style="padding:15px;">转换自 DNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/emf/" style="padding:15px;">转换自 EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/emz/" style="padding:15px;">转换自 EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/gif/" style="padding:15px;">转换自 GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/jpeg2000/" style="padding:15px;">转换自 JPEG2000</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/jp2/" style="padding:15px;">转换自 JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/j2k/" style="padding:15px;">转换自 J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/jpg/" style="padding:15px;">转换自 JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/jpeg/" style="padding:15px;">转换自 JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/png/" style="padding:15px;">转换自 PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/tga/" style="padding:15px;">转换自 TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/tif/" style="padding:15px;">转换自 TIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/tiff/" style="padding:15px;">转换自 TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/webp/" style="padding:15px;">转换自 WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/wmf/" style="padding:15px;">转换自 WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/wmz/" style="padding:15px;">转换自 WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/svg/" style="padding:15px;">转换自 SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/svgz/" style="padding:15px;">转换自 SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/eps/" style="padding:15px;">转换自 EPS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/cdr/" style="padding:15px;">转换自 CDR</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/cmx/" style="padding:15px;">转换自 CMX</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/otg/" style="padding:15px;">转换自 OTG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/odg/" style="padding:15px;">转换自 ODG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/from/ico/" style="padding:15px;">转换自 ICO</a></div>
                 </div>
         </div>
     </div>
@@ -202,31 +202,31 @@ SVG 图像的转换是一样的，加载 SVG 图像，使用所需的图像保�
         <div class="container">
 	        <hr style="margin-left:-20px;"/>
 		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/to/bmp" style="padding:15px;">转换成 BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/to/gif" style="padding:15px;">转换成 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/to/dicom" style="padding:15px;">转换成 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/to/emf" style="padding:15px;">转换成 EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/to/jpg" style="padding:15px;">转换成 JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/to/jpeg" style="padding:15px;">转换成 JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/to/jp2" style="padding:15px;">转换成 JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/to/j2k" style="padding:15px;">转换成 J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/to/jpeg2000" style="padding:15px;">转换成 JPEG2000</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/to/png" style="padding:15px;">转换成 PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/to/psd" style="padding:15px;">转换成 PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/to/dxf" style="padding:15px;">转换成 DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/to/svg" style="padding:15px;">转换成 SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/to/tiff" style="padding:15px;">转换成 TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/to/webp" style="padding:15px;">转换成 WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/to/wmf" style="padding:15px;">转换成 WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/to/pdf" style="padding:15px;">转换成 PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/to/html" style="padding:15px;">转换成 HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/to/emz" style="padding:15px;">转换成 EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/to/wmz" style="padding:15px;">转换成 WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/to/tga" style="padding:15px;">转换成 TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/to/svgz" style="padding:15px;">转换成 SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/to/canvas" style="padding:15px;">转换成 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/to/ico" style="padding:15px;">转换成 ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/to/apng" style="padding:15px;">转换成 APNG</a></div>
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/to/bmp/" style="padding:15px;">转换成 BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/to/gif/" style="padding:15px;">转换成 GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/to/dicom/" style="padding:15px;">转换成 DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/to/emf/" style="padding:15px;">转换成 EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/to/jpg/" style="padding:15px;">转换成 JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/to/jpeg/" style="padding:15px;">转换成 JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/to/jp2/" style="padding:15px;">转换成 JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/to/j2k/" style="padding:15px;">转换成 J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/to/jpeg2000/" style="padding:15px;">转换成 JPEG2000</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/to/png/" style="padding:15px;">转换成 PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/to/psd/" style="padding:15px;">转换成 PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/to/dxf/" style="padding:15px;">转换成 DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/to/svg/" style="padding:15px;">转换成 SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/to/tiff/" style="padding:15px;">转换成 TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/to/webp/" style="padding:15px;">转换成 WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/to/wmf/" style="padding:15px;">转换成 WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/to/pdf/" style="padding:15px;">转换成 PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/to/html/" style="padding:15px;">转换成 HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/to/emz/" style="padding:15px;">转换成 EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/to/wmz/" style="padding:15px;">转换成 WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/to/tga/" style="padding:15px;">转换成 TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/to/svgz/" style="padding:15px;">转换成 SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/to/canvas/" style="padding:15px;">转换成 CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/to/ico/" style="padding:15px;">转换成 ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/python-net/conversion/to/apng/" style="padding:15px;">转换成 APNG</a></div>
                 </div>
         </div>
     </div>

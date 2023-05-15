@@ -1,7 +1,7 @@
 ﻿---
 title: Convertir en J2K à partir d'autres formats à l'aide de la bibliothèque Aspose.Imaging pour Java 
 weight: 3920
-url: /fr/java/conversion/to/j2k 
+url: /fr/java/conversion/to/j2k/ 
 lang: fr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -22,33 +22,33 @@ Conversions prises en charge :
         <div class="container">
 		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/apng-to-j2k" style="padding:15px;">APNG pour J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/bmp-to-j2k" style="padding:15px;">BMP pour J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/dib-to-j2k" style="padding:15px;">DIB pour J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/dicom-to-j2k" style="padding:15px;">DICOM pour J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/djvu-to-j2k" style="padding:15px;">DJVU pour J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/dng-to-j2k" style="padding:15px;">DNG pour J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/emf-to-j2k" style="padding:15px;">EMF pour J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/emz-to-j2k" style="padding:15px;">EMZ pour J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/gif-to-j2k" style="padding:15px;">GIF pour J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/jp2-to-j2k" style="padding:15px;">JP2 pour J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/jpg-to-j2k" style="padding:15px;">JPG pour J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/jpeg-to-j2k" style="padding:15px;">JPEG pour J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/png-to-j2k" style="padding:15px;">PNG pour J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/tga-to-j2k" style="padding:15px;">TGA pour J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/tif-to-j2k" style="padding:15px;">TIF pour J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/tiff-to-j2k" style="padding:15px;">TIFF pour J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/webp-to-j2k" style="padding:15px;">WEBP pour J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/wmf-to-j2k" style="padding:15px;">WMF pour J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/wmz-to-j2k" style="padding:15px;">WMZ pour J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/svg-to-j2k" style="padding:15px;">SVG pour J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/svgz-to-j2k" style="padding:15px;">SVGZ pour J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/eps-to-j2k" style="padding:15px;">EPS pour J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/cdr-to-j2k" style="padding:15px;">CDR pour J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/cmx-to-j2k" style="padding:15px;">CMX pour J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/otg-to-j2k" style="padding:15px;">OTG pour J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/odg-to-j2k" style="padding:15px;">ODG pour J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/ico-to-j2k" style="padding:15px;">ICO pour J2K</a></div>
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/apng-to-j2k/" style="padding:15px;">APNG pour J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/bmp-to-j2k/" style="padding:15px;">BMP pour J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/dib-to-j2k/" style="padding:15px;">DIB pour J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/dicom-to-j2k/" style="padding:15px;">DICOM pour J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/djvu-to-j2k/" style="padding:15px;">DJVU pour J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/dng-to-j2k/" style="padding:15px;">DNG pour J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/emf-to-j2k/" style="padding:15px;">EMF pour J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/emz-to-j2k/" style="padding:15px;">EMZ pour J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/gif-to-j2k/" style="padding:15px;">GIF pour J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/jp2-to-j2k/" style="padding:15px;">JP2 pour J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/jpg-to-j2k/" style="padding:15px;">JPG pour J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/jpeg-to-j2k/" style="padding:15px;">JPEG pour J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/png-to-j2k/" style="padding:15px;">PNG pour J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/tga-to-j2k/" style="padding:15px;">TGA pour J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/tif-to-j2k/" style="padding:15px;">TIF pour J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/tiff-to-j2k/" style="padding:15px;">TIFF pour J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/webp-to-j2k/" style="padding:15px;">WEBP pour J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/wmf-to-j2k/" style="padding:15px;">WMF pour J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/wmz-to-j2k/" style="padding:15px;">WMZ pour J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/svg-to-j2k/" style="padding:15px;">SVG pour J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/svgz-to-j2k/" style="padding:15px;">SVGZ pour J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/eps-to-j2k/" style="padding:15px;">EPS pour J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/cdr-to-j2k/" style="padding:15px;">CDR pour J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/cmx-to-j2k/" style="padding:15px;">CMX pour J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/otg-to-j2k/" style="padding:15px;">OTG pour J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/odg-to-j2k/" style="padding:15px;">ODG pour J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/fr/java/conversion/ico-to-j2k/" style="padding:15px;">ICO pour J2K</a></div>
                 </div>
         </div>
     </div>

@@ -1,7 +1,7 @@
 ﻿---
 title: 基於本地、雲和應用程序的圖像處理解決方案 
 weight: 4270
-url: /zh-hant 
+url: /zh-hant/ 
 lang: zh-hant
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he

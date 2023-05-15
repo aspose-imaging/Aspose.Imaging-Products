@@ -1,7 +1,7 @@
 ﻿---
 title: Konvertieren Sie Bilder aus anderen unterstützten Formaten mithilfe der .NET-Plattform in das Bildformat HTML(HTML5-Leinwand) 
 weight: 3920
-url: /de/net/conversion/to/html 
+url: /de/net/conversion/to/html/ 
 lang: de
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -22,35 +22,35 @@ Folgende Konvertierungen werden unterstützt:
         <div class="container">
 		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/apng-to-html" style="padding:15px;">APNG zu HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/bmp-to-html" style="padding:15px;">BMP zu HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/dib-to-html" style="padding:15px;">DIB zu HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/dicom-to-html" style="padding:15px;">DICOM zu HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/djvu-to-html" style="padding:15px;">DJVU zu HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/dng-to-html" style="padding:15px;">DNG zu HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/emf-to-html" style="padding:15px;">EMF zu HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/emz-to-html" style="padding:15px;">EMZ zu HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/gif-to-html" style="padding:15px;">GIF zu HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/jpeg2000-to-html" style="padding:15px;">JPEG2000 zu HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/jp2-to-html" style="padding:15px;">JP2 zu HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/j2k-to-html" style="padding:15px;">J2K zu HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/jpg-to-html" style="padding:15px;">JPG zu HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/jpeg-to-html" style="padding:15px;">JPEG zu HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/png-to-html" style="padding:15px;">PNG zu HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/tga-to-html" style="padding:15px;">TGA zu HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/tif-to-html" style="padding:15px;">TIF zu HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/tiff-to-html" style="padding:15px;">TIFF zu HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/webp-to-html" style="padding:15px;">WEBP zu HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/wmf-to-html" style="padding:15px;">WMF zu HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/wmz-to-html" style="padding:15px;">WMZ zu HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/svg-to-html" style="padding:15px;">SVG zu HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/svgz-to-html" style="padding:15px;">SVGZ zu HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/eps-to-html" style="padding:15px;">EPS zu HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/cdr-to-html" style="padding:15px;">CDR zu HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/cmx-to-html" style="padding:15px;">CMX zu HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/otg-to-html" style="padding:15px;">OTG zu HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/odg-to-html" style="padding:15px;">ODG zu HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/ico-to-html" style="padding:15px;">ICO zu HTML</a></div>
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/apng-to-html/" style="padding:15px;">APNG zu HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/bmp-to-html/" style="padding:15px;">BMP zu HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/dib-to-html/" style="padding:15px;">DIB zu HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/dicom-to-html/" style="padding:15px;">DICOM zu HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/djvu-to-html/" style="padding:15px;">DJVU zu HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/dng-to-html/" style="padding:15px;">DNG zu HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/emf-to-html/" style="padding:15px;">EMF zu HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/emz-to-html/" style="padding:15px;">EMZ zu HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/gif-to-html/" style="padding:15px;">GIF zu HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/jpeg2000-to-html/" style="padding:15px;">JPEG2000 zu HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/jp2-to-html/" style="padding:15px;">JP2 zu HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/j2k-to-html/" style="padding:15px;">J2K zu HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/jpg-to-html/" style="padding:15px;">JPG zu HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/jpeg-to-html/" style="padding:15px;">JPEG zu HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/png-to-html/" style="padding:15px;">PNG zu HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/tga-to-html/" style="padding:15px;">TGA zu HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/tif-to-html/" style="padding:15px;">TIF zu HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/tiff-to-html/" style="padding:15px;">TIFF zu HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/webp-to-html/" style="padding:15px;">WEBP zu HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/wmf-to-html/" style="padding:15px;">WMF zu HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/wmz-to-html/" style="padding:15px;">WMZ zu HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/svg-to-html/" style="padding:15px;">SVG zu HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/svgz-to-html/" style="padding:15px;">SVGZ zu HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/eps-to-html/" style="padding:15px;">EPS zu HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/cdr-to-html/" style="padding:15px;">CDR zu HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/cmx-to-html/" style="padding:15px;">CMX zu HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/otg-to-html/" style="padding:15px;">OTG zu HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/odg-to-html/" style="padding:15px;">ODG zu HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/de/net/conversion/ico-to-html/" style="padding:15px;">ICO zu HTML</a></div>
                 </div>
         </div>
     </div>

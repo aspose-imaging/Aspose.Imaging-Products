@@ -1,7 +1,7 @@
 ﻿---
 title: Converta imagens para o formato de imagem PDF(Formato de Documento Portátil (PDF)) de outros formatos suportados usando a plataforma .NET 
 weight: 3920
-url: /pt/net/conversion/to/pdf 
+url: /pt/net/conversion/to/pdf/ 
 lang: pt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -22,35 +22,35 @@ As seguintes conversões são suportadas:
         <div class="container">
 		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/apng-to-pdf" style="padding:15px;">APNG para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/bmp-to-pdf" style="padding:15px;">BMP para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/dib-to-pdf" style="padding:15px;">DIB para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/dicom-to-pdf" style="padding:15px;">DICOM para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/djvu-to-pdf" style="padding:15px;">DJVU para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/dng-to-pdf" style="padding:15px;">DNG para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/emf-to-pdf" style="padding:15px;">EMF para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/emz-to-pdf" style="padding:15px;">EMZ para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/gif-to-pdf" style="padding:15px;">GIF para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/jpeg2000-to-pdf" style="padding:15px;">JPEG2000 para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/jp2-to-pdf" style="padding:15px;">JP2 para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/j2k-to-pdf" style="padding:15px;">J2K para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/jpg-to-pdf" style="padding:15px;">JPG para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/jpeg-to-pdf" style="padding:15px;">JPEG para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/png-to-pdf" style="padding:15px;">PNG para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/tga-to-pdf" style="padding:15px;">TGA para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/tif-to-pdf" style="padding:15px;">TIF para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/tiff-to-pdf" style="padding:15px;">TIFF para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/webp-to-pdf" style="padding:15px;">WEBP para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/wmf-to-pdf" style="padding:15px;">WMF para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/wmz-to-pdf" style="padding:15px;">WMZ para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/svg-to-pdf" style="padding:15px;">SVG para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/svgz-to-pdf" style="padding:15px;">SVGZ para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/eps-to-pdf" style="padding:15px;">EPS para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/cdr-to-pdf" style="padding:15px;">CDR para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/cmx-to-pdf" style="padding:15px;">CMX para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/otg-to-pdf" style="padding:15px;">OTG para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/odg-to-pdf" style="padding:15px;">ODG para PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/ico-to-pdf" style="padding:15px;">ICO para PDF</a></div>
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/apng-to-pdf/" style="padding:15px;">APNG para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/bmp-to-pdf/" style="padding:15px;">BMP para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/dib-to-pdf/" style="padding:15px;">DIB para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/dicom-to-pdf/" style="padding:15px;">DICOM para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/djvu-to-pdf/" style="padding:15px;">DJVU para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/dng-to-pdf/" style="padding:15px;">DNG para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/emf-to-pdf/" style="padding:15px;">EMF para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/emz-to-pdf/" style="padding:15px;">EMZ para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/gif-to-pdf/" style="padding:15px;">GIF para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/jpeg2000-to-pdf/" style="padding:15px;">JPEG2000 para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/jp2-to-pdf/" style="padding:15px;">JP2 para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/j2k-to-pdf/" style="padding:15px;">J2K para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/jpg-to-pdf/" style="padding:15px;">JPG para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/jpeg-to-pdf/" style="padding:15px;">JPEG para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/png-to-pdf/" style="padding:15px;">PNG para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/tga-to-pdf/" style="padding:15px;">TGA para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/tif-to-pdf/" style="padding:15px;">TIF para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/tiff-to-pdf/" style="padding:15px;">TIFF para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/webp-to-pdf/" style="padding:15px;">WEBP para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/wmf-to-pdf/" style="padding:15px;">WMF para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/wmz-to-pdf/" style="padding:15px;">WMZ para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/svg-to-pdf/" style="padding:15px;">SVG para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/svgz-to-pdf/" style="padding:15px;">SVGZ para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/eps-to-pdf/" style="padding:15px;">EPS para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/cdr-to-pdf/" style="padding:15px;">CDR para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/cmx-to-pdf/" style="padding:15px;">CMX para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/otg-to-pdf/" style="padding:15px;">OTG para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/odg-to-pdf/" style="padding:15px;">ODG para PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pt/net/conversion/ico-to-pdf/" style="padding:15px;">ICO para PDF</a></div>
                 </div>
         </div>
     </div>

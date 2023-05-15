@@ -1,7 +1,7 @@
 ﻿---
 title: .NET जावा और शेयरपॉइंट इमेज मैनिपुलेशन और ड्रॉइंग एपीआई 
 weight: 10
-url: /hi/family 
+url: /hi/family/ 
 lang: hi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -9,7 +9,7 @@ description: .NET Java और SharePoint अनुप्रयोगों क�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="क्रॉस प्लेटफार्म विकास के लिए इमेजिंग एपीआई" h2="छवियों को खींचने, हेरफेर करने, बदलने और परिवर्तित करने के लिए मूल एपीआई।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging.svg" pfName="Aspose.Imaging" downloadUrl="https://downloads.aspose.com/imaging" tryOnlineUrl="" downloadFreeTrialText="नि: शुल्क परीक्षण डाउनलोड करें">}}
+{{< blocks/products/pf/upper-banner h1="क्रॉस प्लेटफार्म विकास के लिए इमेजिंग एपीआई" h2="छवियों को खींचने, हेरफेर करने, बदलने और परिवर्तित करने के लिए मूल एपीआई।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging.svg" pfName="Aspose.Imaging" downloadUrl="https://downloads.aspose.com/imaging/" tryOnlineUrl="" downloadFreeTrialText="नि: शुल्क परीक्षण डाउनलोड करें">}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Imaging हाई कोड एपीआई शामिल हैं" >}}
@@ -42,22 +42,22 @@ JasperReports से कई छवि प्रारूपों में र�
 {{< blocks/products/pf/slr-element name="प्रलेखन" href="https://docs.aspose.com/imaging/" >}}
 {{< blocks/products/pf/slr-element name="सोर्स कोड" href="https://github.com/aspose-imaging?tab=repositories" >}}
 {{< blocks/products/pf/slr-element name="एपीआई संदर्भ" href="https://apireference.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="ट्यूटोरियल वीडियो" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="ट्यूटोरियल वीडियो" href="https://www.youtube.com/user/asposevideo/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="उत्पाद समर्थन" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="मुफ्त समर्थन" href="https://forum.aspose.com/c/imaging" >}}
+{{< blocks/products/pf/slr-element name="मुफ्त समर्थन" href="https://forum.aspose.com/c/imaging/" >}}
 {{< blocks/products/pf/slr-element name="भुगतान समर्थन" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="ब्लॉग" href="https://blog.aspose.com/category/imaging/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="क्यों Aspose.इमेजिंग उत्पाद परिवार?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="ग्राहकों की सूची" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="ग्राहकों की सूची" href="https://company.aspose.com/customers/" >}}
 {{< blocks/products/pf/slr-element name="सफलता की कहानियां" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/imaging" pricingInformationLink="https://purchase.aspose.com/pricing/imaging/family" downloadFreeTrialText="नि: शुल्क परीक्षण डाउनलोड करें" pricingInformationText="लागत - निर्धारण संबंधी जानकारी">}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/imaging/" pricingInformationLink="https://purchase.aspose.com/pricing/imaging/family/" downloadFreeTrialText="नि: शुल्क परीक्षण डाउनलोड करें" pricingInformationText="लागत - निर्धारण संबंधी जानकारी">}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

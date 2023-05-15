@@ -1,7 +1,7 @@
 ﻿---
 title: Python Görüntüleme API'sı | Aspose.Imaging for Python via .NET - Çizim Yapın ve Resimleri Dönüştürün 
 weight: 960
-url: /tr/python-net 
+url: /tr/python-net/ 
 lang: tr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -9,11 +9,11 @@ description: Python Görüntü işleme ve işleme kitaplığı. .NET aracılığ
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1="Aspose.Imaging for Python via .NET library ve API for Image Processing" h2="Herhangi bir görüntü düzenleyici gerektirmeden görüntüler oluşturun, yükleyin, değiştirin veya dönüştürün." downloadFreeTrialText="Ücretsiz deneme sürümünü indirin" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-python-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/imaging/python-net" >}}
+{{< blocks/products/pf/upper-banner h1="Aspose.Imaging for Python via .NET library ve API for Image Processing" h2="Herhangi bir görüntü düzenleyici gerektirmeden görüntüler oluşturun, yükleyin, değiştirin veya dönüştürün." downloadFreeTrialText="Ücretsiz deneme sürümünü indirin" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-python-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/imaging/python-net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Python" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-python-net.svg" 
-liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://purchase.aspose.com/pricing/imaging/python-net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/imaging/python-net" installationsDocsLink="https://docs.aspose.com/imaging/python-net/installation" pipLink="https://test.pypi.org/project/aspose.imaging/" directDownloadLink="https://downloads.aspose.com/imaging/python-net" liveDemosText="Canlı Demolar" overviewText="genel bakış" featuresText="Özellikler" resourcesText="Kaynaklar" pricingText="fiyatlandırma" downloadText="İndirmek" learnText="Öğrenmek" buyText="Satın almak" >}}
+liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/python-net/" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/python-net/" installationsDocsLink="https://docs.aspose.com/imaging/python-net/installation/" pipLink="https://test.pypi.org/project/aspose.imaging/" directDownloadLink="https://downloads.aspose.com/imaging/python-net/" liveDemosText="Canlı Demolar" overviewText="genel bakış" featuresText="Özellikler" resourcesText="Kaynaklar" pricingText="fiyatlandırma" downloadText="İndirmek" learnText="Öğrenmek" buyText="Satın almak" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="bir" carousel1Text2="Bakış atmak" carousel2Text1="platformu" carousel2Text2="Bağımsızlık" carousel3Text1="Desteklenen Dosya" carousel3Text2="Formatlar">}}
 <p align="justify">
@@ -591,27 +591,27 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
 
 {{< blocks/products/pf/support-learning-resources supportAndLearningResourcesText="Destek ve Öğrenme Kaynakları">}}
 {{< blocks/products/pf/slr-tab tabTitle="Öğrenme Kaynakları" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="belgeler" href="https://docs.aspose.com/imaging/python-net" >}}
+{{< blocks/products/pf/slr-element name="belgeler" href="https://docs.aspose.com/imaging/python-net/" >}}
 {{< blocks/products/pf/slr-element name="Kaynak kodu" href="https://github.com/aspose-imaging/Aspose.Imaging-for-Python-net" >}}
-{{< blocks/products/pf/slr-element name="API Referansları" href="https://apireference.aspose.com/python-net/imaging" >}}
-{{< blocks/products/pf/slr-element name="Eğitim Videoları" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="API Referansları" href="https://apireference.aspose.com/python-net/imaging/" >}}
+{{< blocks/products/pf/slr-element name="Eğitim Videoları" href="https://www.youtube.com/user/asposevideo/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Ürün desteği" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Ücretsiz Destek" href="https://forum.aspose.com/c/imaging" >}}
+{{< blocks/products/pf/slr-element name="Ücretsiz Destek" href="https://forum.aspose.com/c/imaging/" >}}
 {{< blocks/products/pf/slr-element name="Ücretli Destek" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/imaging/" >}}
 {{< blocks/products/pf/slr-element name="Sürüm notları" href="https://docs.aspose.com/imaging/python-net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Neden Aspose.Imaging için Python" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Müşteri Listesi" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Müşteri Listesi" href="https://company.aspose.com/customers/" >}}
 {{< blocks/products/pf/slr-element name="Başarı Öyküleri" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/imaging/python-net" downloadFreeTrialText="Ücretsiz deneme sürümünü indirin" pricingInformationText="Fiyatlandırma bilgisi" pricingInformationLink="https://purchase.aspose.com/pricing/imaging/python-net" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/imaging/python-net/" downloadFreeTrialText="Ücretsiz deneme sürümünü indirin" pricingInformationText="Fiyatlandırma bilgisi" pricingInformationLink="https://purchase.aspose.com/pricing/imaging/python-net/" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Imaging " description="Aspose.Imaging, aşağıda listelenen diğer popüler geliştirme ortamları için ayrı Imaging API'leri sunar:" >}}
 

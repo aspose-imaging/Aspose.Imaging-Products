@@ -2,7 +2,7 @@
 ---
 title: Conversie van Python-afbeeldingsindelingen 
 weight: 3920
-url: /nl/python-net/conversion 
+url: /nl/python-net/conversion/ 
 lang: nl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -159,35 +159,35 @@ Hieronder vindt u een volledige lijst van de afbeeldingsindelingen waarnaar u ku
         <div class="container">
                 <hr style="margin-left:-20px;"/>
 		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/apng" style="padding:15px;">Converteren van APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/bmp" style="padding:15px;">Converteren van BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/dib" style="padding:15px;">Converteren van DIB</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/dicom" style="padding:15px;">Converteren van DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/djvu" style="padding:15px;">Converteren van DJVU</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/dng" style="padding:15px;">Converteren van DNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/emf" style="padding:15px;">Converteren van EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/emz" style="padding:15px;">Converteren van EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/gif" style="padding:15px;">Converteren van GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/jpeg2000" style="padding:15px;">Converteren van JPEG2000</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/jp2" style="padding:15px;">Converteren van JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/j2k" style="padding:15px;">Converteren van J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/jpg" style="padding:15px;">Converteren van JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/jpeg" style="padding:15px;">Converteren van JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/png" style="padding:15px;">Converteren van PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/tga" style="padding:15px;">Converteren van TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/tif" style="padding:15px;">Converteren van TIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/tiff" style="padding:15px;">Converteren van TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/webp" style="padding:15px;">Converteren van WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/wmf" style="padding:15px;">Converteren van WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/wmz" style="padding:15px;">Converteren van WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/svg" style="padding:15px;">Converteren van SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/svgz" style="padding:15px;">Converteren van SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/eps" style="padding:15px;">Converteren van EPS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/cdr" style="padding:15px;">Converteren van CDR</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/cmx" style="padding:15px;">Converteren van CMX</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/otg" style="padding:15px;">Converteren van OTG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/odg" style="padding:15px;">Converteren van ODG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/ico" style="padding:15px;">Converteren van ICO</a></div>
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/apng/" style="padding:15px;">Converteren van APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/bmp/" style="padding:15px;">Converteren van BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/dib/" style="padding:15px;">Converteren van DIB</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/dicom/" style="padding:15px;">Converteren van DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/djvu/" style="padding:15px;">Converteren van DJVU</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/dng/" style="padding:15px;">Converteren van DNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/emf/" style="padding:15px;">Converteren van EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/emz/" style="padding:15px;">Converteren van EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/gif/" style="padding:15px;">Converteren van GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/jpeg2000/" style="padding:15px;">Converteren van JPEG2000</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/jp2/" style="padding:15px;">Converteren van JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/j2k/" style="padding:15px;">Converteren van J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/jpg/" style="padding:15px;">Converteren van JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/jpeg/" style="padding:15px;">Converteren van JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/png/" style="padding:15px;">Converteren van PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/tga/" style="padding:15px;">Converteren van TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/tif/" style="padding:15px;">Converteren van TIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/tiff/" style="padding:15px;">Converteren van TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/webp/" style="padding:15px;">Converteren van WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/wmf/" style="padding:15px;">Converteren van WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/wmz/" style="padding:15px;">Converteren van WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/svg/" style="padding:15px;">Converteren van SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/svgz/" style="padding:15px;">Converteren van SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/eps/" style="padding:15px;">Converteren van EPS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/cdr/" style="padding:15px;">Converteren van CDR</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/cmx/" style="padding:15px;">Converteren van CMX</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/otg/" style="padding:15px;">Converteren van OTG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/odg/" style="padding:15px;">Converteren van ODG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/from/ico/" style="padding:15px;">Converteren van ICO</a></div>
                 </div>
         </div>
     </div>
@@ -202,31 +202,31 @@ Hieronder vindt u een volledige lijst van de afbeeldingsindelingen die u kunt co
         <div class="container">
 	        <hr style="margin-left:-20px;"/>
 		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/to/bmp" style="padding:15px;">Omzetten naar BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/to/gif" style="padding:15px;">Omzetten naar GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/to/dicom" style="padding:15px;">Omzetten naar DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/to/emf" style="padding:15px;">Omzetten naar EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/to/jpg" style="padding:15px;">Omzetten naar JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/to/jpeg" style="padding:15px;">Omzetten naar JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/to/jp2" style="padding:15px;">Omzetten naar JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/to/j2k" style="padding:15px;">Omzetten naar J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/to/jpeg2000" style="padding:15px;">Omzetten naar JPEG2000</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/to/png" style="padding:15px;">Omzetten naar PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/to/psd" style="padding:15px;">Omzetten naar PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/to/dxf" style="padding:15px;">Omzetten naar DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/to/svg" style="padding:15px;">Omzetten naar SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/to/tiff" style="padding:15px;">Omzetten naar TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/to/webp" style="padding:15px;">Omzetten naar WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/to/wmf" style="padding:15px;">Omzetten naar WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/to/pdf" style="padding:15px;">Omzetten naar PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/to/html" style="padding:15px;">Omzetten naar HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/to/emz" style="padding:15px;">Omzetten naar EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/to/wmz" style="padding:15px;">Omzetten naar WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/to/tga" style="padding:15px;">Omzetten naar TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/to/svgz" style="padding:15px;">Omzetten naar SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/to/canvas" style="padding:15px;">Omzetten naar CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/to/ico" style="padding:15px;">Omzetten naar ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/to/apng" style="padding:15px;">Omzetten naar APNG</a></div>
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/to/bmp/" style="padding:15px;">Omzetten naar BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/to/gif/" style="padding:15px;">Omzetten naar GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/to/dicom/" style="padding:15px;">Omzetten naar DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/to/emf/" style="padding:15px;">Omzetten naar EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/to/jpg/" style="padding:15px;">Omzetten naar JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/to/jpeg/" style="padding:15px;">Omzetten naar JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/to/jp2/" style="padding:15px;">Omzetten naar JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/to/j2k/" style="padding:15px;">Omzetten naar J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/to/jpeg2000/" style="padding:15px;">Omzetten naar JPEG2000</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/to/png/" style="padding:15px;">Omzetten naar PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/to/psd/" style="padding:15px;">Omzetten naar PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/to/dxf/" style="padding:15px;">Omzetten naar DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/to/svg/" style="padding:15px;">Omzetten naar SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/to/tiff/" style="padding:15px;">Omzetten naar TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/to/webp/" style="padding:15px;">Omzetten naar WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/to/wmf/" style="padding:15px;">Omzetten naar WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/to/pdf/" style="padding:15px;">Omzetten naar PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/to/html/" style="padding:15px;">Omzetten naar HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/to/emz/" style="padding:15px;">Omzetten naar EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/to/wmz/" style="padding:15px;">Omzetten naar WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/to/tga/" style="padding:15px;">Omzetten naar TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/to/svgz/" style="padding:15px;">Omzetten naar SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/to/canvas/" style="padding:15px;">Omzetten naar CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/to/ico/" style="padding:15px;">Omzetten naar ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/python-net/conversion/to/apng/" style="padding:15px;">Omzetten naar APNG</a></div>
                 </div>
         </div>
     </div>

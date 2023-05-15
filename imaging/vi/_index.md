@@ -1,7 +1,7 @@
 ﻿---
 title: Giải pháp xử lý hình ảnh dựa trên ứng dụng, đám mây và trên cơ sở 
 weight: 4270
-url: /vi 
+url: /vi/ 
 lang: vi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he

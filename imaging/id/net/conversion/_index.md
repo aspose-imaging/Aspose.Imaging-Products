@@ -2,7 +2,7 @@
 ---
 title: Konversi Format Gambar C# 
 weight: 3920
-url: /id/net/conversion 
+url: /id/net/conversion/ 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -159,35 +159,35 @@ Di bawah ini disajikan daftar lengkap format gambar, yang dapat Anda ubah menjad
         <div class="container">
                 <hr style="margin-left:-20px;"/>
 		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/apng" style="padding:15px;">Konversi Dari APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/bmp" style="padding:15px;">Konversi Dari BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/dib" style="padding:15px;">Konversi Dari DIB</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/dicom" style="padding:15px;">Konversi Dari DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/djvu" style="padding:15px;">Konversi Dari DJVU</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/dng" style="padding:15px;">Konversi Dari DNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/emf" style="padding:15px;">Konversi Dari EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/emz" style="padding:15px;">Konversi Dari EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/gif" style="padding:15px;">Konversi Dari GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/jpeg2000" style="padding:15px;">Konversi Dari JPEG2000</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/jp2" style="padding:15px;">Konversi Dari JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/j2k" style="padding:15px;">Konversi Dari J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/jpg" style="padding:15px;">Konversi Dari JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/jpeg" style="padding:15px;">Konversi Dari JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/png" style="padding:15px;">Konversi Dari PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/tga" style="padding:15px;">Konversi Dari TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/tif" style="padding:15px;">Konversi Dari TIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/tiff" style="padding:15px;">Konversi Dari TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/webp" style="padding:15px;">Konversi Dari WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/wmf" style="padding:15px;">Konversi Dari WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/wmz" style="padding:15px;">Konversi Dari WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/svg" style="padding:15px;">Konversi Dari SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/svgz" style="padding:15px;">Konversi Dari SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/eps" style="padding:15px;">Konversi Dari EPS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/cdr" style="padding:15px;">Konversi Dari CDR</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/cmx" style="padding:15px;">Konversi Dari CMX</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/otg" style="padding:15px;">Konversi Dari OTG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/odg" style="padding:15px;">Konversi Dari ODG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/ico" style="padding:15px;">Konversi Dari ICO</a></div>
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/apng/" style="padding:15px;">Konversi Dari APNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/bmp/" style="padding:15px;">Konversi Dari BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/dib/" style="padding:15px;">Konversi Dari DIB</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/dicom/" style="padding:15px;">Konversi Dari DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/djvu/" style="padding:15px;">Konversi Dari DJVU</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/dng/" style="padding:15px;">Konversi Dari DNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/emf/" style="padding:15px;">Konversi Dari EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/emz/" style="padding:15px;">Konversi Dari EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/gif/" style="padding:15px;">Konversi Dari GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/jpeg2000/" style="padding:15px;">Konversi Dari JPEG2000</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/jp2/" style="padding:15px;">Konversi Dari JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/j2k/" style="padding:15px;">Konversi Dari J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/jpg/" style="padding:15px;">Konversi Dari JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/jpeg/" style="padding:15px;">Konversi Dari JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/png/" style="padding:15px;">Konversi Dari PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/tga/" style="padding:15px;">Konversi Dari TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/tif/" style="padding:15px;">Konversi Dari TIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/tiff/" style="padding:15px;">Konversi Dari TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/webp/" style="padding:15px;">Konversi Dari WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/wmf/" style="padding:15px;">Konversi Dari WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/wmz/" style="padding:15px;">Konversi Dari WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/svg/" style="padding:15px;">Konversi Dari SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/svgz/" style="padding:15px;">Konversi Dari SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/eps/" style="padding:15px;">Konversi Dari EPS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/cdr/" style="padding:15px;">Konversi Dari CDR</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/cmx/" style="padding:15px;">Konversi Dari CMX</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/otg/" style="padding:15px;">Konversi Dari OTG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/odg/" style="padding:15px;">Konversi Dari ODG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/from/ico/" style="padding:15px;">Konversi Dari ICO</a></div>
                 </div>
         </div>
     </div>
@@ -202,31 +202,31 @@ Di bawah ini disajikan daftar lengkap format gambar, yang dapat Anda konversi da
         <div class="container">
 	        <hr style="margin-left:-20px;"/>
 		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/bmp" style="padding:15px;">Ubah ke BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/gif" style="padding:15px;">Ubah ke GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/dicom" style="padding:15px;">Ubah ke DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/emf" style="padding:15px;">Ubah ke EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/jpg" style="padding:15px;">Ubah ke JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/jpeg" style="padding:15px;">Ubah ke JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/jp2" style="padding:15px;">Ubah ke JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/j2k" style="padding:15px;">Ubah ke J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/jpeg2000" style="padding:15px;">Ubah ke JPEG2000</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/png" style="padding:15px;">Ubah ke PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/psd" style="padding:15px;">Ubah ke PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/dxf" style="padding:15px;">Ubah ke DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/svg" style="padding:15px;">Ubah ke SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/tiff" style="padding:15px;">Ubah ke TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/webp" style="padding:15px;">Ubah ke WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/wmf" style="padding:15px;">Ubah ke WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/pdf" style="padding:15px;">Ubah ke PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/html" style="padding:15px;">Ubah ke HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/emz" style="padding:15px;">Ubah ke EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/wmz" style="padding:15px;">Ubah ke WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/tga" style="padding:15px;">Ubah ke TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/svgz" style="padding:15px;">Ubah ke SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/canvas" style="padding:15px;">Ubah ke CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/ico" style="padding:15px;">Ubah ke ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/apng" style="padding:15px;">Ubah ke APNG</a></div>
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/bmp/" style="padding:15px;">Ubah ke BMP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/gif/" style="padding:15px;">Ubah ke GIF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/dicom/" style="padding:15px;">Ubah ke DICOM</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/emf/" style="padding:15px;">Ubah ke EMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/jpg/" style="padding:15px;">Ubah ke JPG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/jpeg/" style="padding:15px;">Ubah ke JPEG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/jp2/" style="padding:15px;">Ubah ke JP2</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/j2k/" style="padding:15px;">Ubah ke J2K</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/jpeg2000/" style="padding:15px;">Ubah ke JPEG2000</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/png/" style="padding:15px;">Ubah ke PNG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/psd/" style="padding:15px;">Ubah ke PSD</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/dxf/" style="padding:15px;">Ubah ke DXF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/svg/" style="padding:15px;">Ubah ke SVG</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/tiff/" style="padding:15px;">Ubah ke TIFF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/webp/" style="padding:15px;">Ubah ke WEBP</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/wmf/" style="padding:15px;">Ubah ke WMF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/pdf/" style="padding:15px;">Ubah ke PDF</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/html/" style="padding:15px;">Ubah ke HTML</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/emz/" style="padding:15px;">Ubah ke EMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/wmz/" style="padding:15px;">Ubah ke WMZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/tga/" style="padding:15px;">Ubah ke TGA</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/svgz/" style="padding:15px;">Ubah ke SVGZ</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/canvas/" style="padding:15px;">Ubah ke CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/ico/" style="padding:15px;">Ubah ke ICO</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/net/conversion/to/apng/" style="padding:15px;">Ubah ke APNG</a></div>
                 </div>
         </div>
     </div>

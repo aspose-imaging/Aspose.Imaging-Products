@@ -1,7 +1,7 @@
 ﻿---
 title: C# .NET ไลบรารีรูปภาพข้ามแพลตฟอร์ม API - Aspose 
 weight: 960
-url: /th/net 
+url: /th/net/ 
 lang: th
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -9,11 +9,11 @@ description: API การประมวลผลภาพและการจ
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1=".NET ข้ามแพลตฟอร์มไลบรารี - API สำหรับการประมวลผลภาพ" h2="สร้าง โหลด จัดการ หรือแปลงรูปภาพโดยไม่ต้องใช้โปรแกรมแก้ไขรูปภาพ" downloadFreeTrialText="ดาวน์โหลด ทดลองใช้ฟรี" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/imaging/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET ข้ามแพลตฟอร์มไลบรารี - API สำหรับการประมวลผลภาพ" h2="สร้าง โหลด จัดการ หรือแปลงรูปภาพโดยไม่ต้องใช้โปรแกรมแก้ไขรูปภาพ" downloadFreeTrialText="ดาวน์โหลด ทดลองใช้ฟรี" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/imaging/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for .NET" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-net.svg" 
-liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://purchase.aspose.com/pricing/imaging/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/imaging/net" installationsDocsLink="https://docs.aspose.com/imaging/net/installation" nugetLink="https://www.nuget.org/packages/aspose.imaging" nugetPackageName="Aspose.Imaging" directDownloadLink="https://downloads.aspose.com/imaging/net" liveDemosText="การสาธิตสด" overviewText="ภาพรวม" featuresText="คุณสมบัติ" resourcesText="ทรัพยากร" pricingText="ราคา" downloadText="ดาวน์โหลด" learnText="เรียนรู้" buyText="ซื้อ" >}}
+liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/net/" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/net/" installationsDocsLink="https://docs.aspose.com/imaging/net/installation/" nugetLink="https://www.nuget.org/packages/aspose.imaging" nugetPackageName="Aspose.Imaging" directDownloadLink="https://downloads.aspose.com/imaging/net/" liveDemosText="การสาธิตสด" overviewText="ภาพรวม" featuresText="คุณสมบัติ" resourcesText="ทรัพยากร" pricingText="ราคา" downloadText="ดาวน์โหลด" learnText="เรียนรู้" buyText="ซื้อ" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="ที่อา" carousel1Text2="ชำเลือง" carousel2Text1="แพลตฟอร์ม" carousel2Text2="อิสรภาพ" carousel3Text1="ไฟล์ที่รองรับ" carousel3Text2="รูปแบบ">}}
 <p align="justify">
@@ -614,27 +614,27 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
 
 {{< blocks/products/pf/support-learning-resources supportAndLearningResourcesText="แหล่งสนับสนุนและการเรียนรู้">}}
 {{< blocks/products/pf/slr-tab tabTitle="แหล่งเรียนรู้" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="เอกสาร" href="https://docs.aspose.com/imaging/net" >}}
+{{< blocks/products/pf/slr-element name="เอกสาร" href="https://docs.aspose.com/imaging/net/" >}}
 {{< blocks/products/pf/slr-element name="รหัสแหล่งที่มา" href="https://github.com/aspose-imaging/Aspose.Imaging-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="การอ้างอิง API" href="https://apireference.aspose.com/net/imaging" >}}
-{{< blocks/products/pf/slr-element name="วิดีโอสอน" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="การอ้างอิง API" href="https://apireference.aspose.com/net/imaging/" >}}
+{{< blocks/products/pf/slr-element name="วิดีโอสอน" href="https://www.youtube.com/user/asposevideo/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="การสนับสนุนผลิตภัณฑ์" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="การสนับสนุนฟรี" href="https://forum.aspose.com/c/imaging" >}}
+{{< blocks/products/pf/slr-element name="การสนับสนุนฟรี" href="https://forum.aspose.com/c/imaging/" >}}
 {{< blocks/products/pf/slr-element name="การสนับสนุนแบบชำระเงิน" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="บล็อก" href="https://blog.aspose.com/category/imaging/" >}}
 {{< blocks/products/pf/slr-element name="บันทึกประจำรุ่น" href="https://docs.aspose.com/imaging/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="ทำไมต้อง Aspose.Imaging สำหรับ .NET" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="รายชื่อลูกค้า" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="รายชื่อลูกค้า" href="https://company.aspose.com/customers/" >}}
 {{< blocks/products/pf/slr-element name="เรื่องราวความสำเร็จ" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/imaging/net" downloadFreeTrialText="ดาวน์โหลด ทดลองใช้ฟรี" pricingInformationText="ข้อมูลราคา" pricingInformationLink="https://purchase.aspose.com/pricing/imaging/net" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/imaging/net/" downloadFreeTrialText="ดาวน์โหลด ทดลองใช้ฟรี" pricingInformationText="ข้อมูลราคา" pricingInformationLink="https://purchase.aspose.com/pricing/imaging/net/" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Imaging " description="Aspose.Imaging นำเสนอ Imaging API แต่ละรายการสำหรับสภาพแวดล้อมการพัฒนายอดนิยมอื่นๆ ตามรายการด้านล่าง:" >}}
 

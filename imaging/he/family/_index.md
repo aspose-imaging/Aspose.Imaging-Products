@@ -1,7 +1,7 @@
 ﻿---
 title: ממשקי API לעיבוד תמונות וציור של .NET Java ו-SharePoint 
 weight: 10
-url: /he/family 
+url: /he/family/ 
 lang: he
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -9,7 +9,7 @@ description: צור מניפולציות והמר תמונות באמצעות ס
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="ממשקי API של הדמיה לפיתוח חוצה פלטפורמות" h2="ממשקי API מקוריים לציור, מניפולציה, שינוי והמרת תמונות." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging.svg" pfName="Aspose.Imaging" downloadUrl="https://downloads.aspose.com/imaging" tryOnlineUrl="" downloadFreeTrialText="הורד גרסת ניסיון בחינם">}}
+{{< blocks/products/pf/upper-banner h1="ממשקי API של הדמיה לפיתוח חוצה פלטפורמות" h2="ממשקי API מקוריים לציור, מניפולציה, שינוי והמרת תמונות." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging.svg" pfName="Aspose.Imaging" downloadUrl="https://downloads.aspose.com/imaging/" tryOnlineUrl="" downloadFreeTrialText="הורד גרסת ניסיון בחינם">}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Imaging High Code APIs כוללים" >}}
@@ -42,22 +42,22 @@ description: צור מניפולציות והמר תמונות באמצעות ס
 {{< blocks/products/pf/slr-element name="תיעוד" href="https://docs.aspose.com/imaging/" >}}
 {{< blocks/products/pf/slr-element name="קוד מקור" href="https://github.com/aspose-imaging?tab=repositories" >}}
 {{< blocks/products/pf/slr-element name="הפניות API" href="https://apireference.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="סרטוני הדרכה" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="סרטוני הדרכה" href="https://www.youtube.com/user/asposevideo/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="תמיכת מוצר" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="תמיכה חינם" href="https://forum.aspose.com/c/imaging" >}}
+{{< blocks/products/pf/slr-element name="תמיכה חינם" href="https://forum.aspose.com/c/imaging/" >}}
 {{< blocks/products/pf/slr-element name="תמיכה בתשלום" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="בלוג" href="https://blog.aspose.com/category/imaging/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="למה משפחת מוצרי Aspose.Imaging?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="רשימת לקוחות" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="רשימת לקוחות" href="https://company.aspose.com/customers/" >}}
 {{< blocks/products/pf/slr-element name="סיפורי הצלחה" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/imaging" pricingInformationLink="https://purchase.aspose.com/pricing/imaging/family" downloadFreeTrialText="הורד גרסת ניסיון בחינם" pricingInformationText="מידע בנוגע למחיר">}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/imaging/" pricingInformationLink="https://purchase.aspose.com/pricing/imaging/family/" downloadFreeTrialText="הורד גרסת ניסיון בחינם" pricingInformationText="מידע בנוגע למחיר">}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -1,7 +1,7 @@
 ﻿---
 title: แปลงรูปภาพเป็นรูปแบบ CANVAS(ผ้าใบ HTML5) จากรูปแบบอื่นที่รองรับโดยใช้แพลตฟอร์ม .NET 
 weight: 3920
-url: /th/net/conversion/to/canvas 
+url: /th/net/conversion/to/canvas/ 
 lang: th
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -22,35 +22,35 @@ description: การใช้ Aspose.Imaging สำหรับไลบรา
         <div class="container">
 		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/apng-to-canvas" style="padding:15px;">APNG ถึง CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/bmp-to-canvas" style="padding:15px;">BMP ถึง CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/dib-to-canvas" style="padding:15px;">DIB ถึง CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/dicom-to-canvas" style="padding:15px;">DICOM ถึง CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/djvu-to-canvas" style="padding:15px;">DJVU ถึง CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/dng-to-canvas" style="padding:15px;">DNG ถึง CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/emf-to-canvas" style="padding:15px;">EMF ถึง CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/emz-to-canvas" style="padding:15px;">EMZ ถึง CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/gif-to-canvas" style="padding:15px;">GIF ถึง CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/jpeg2000-to-canvas" style="padding:15px;">JPEG2000 ถึง CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/jp2-to-canvas" style="padding:15px;">JP2 ถึง CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/j2k-to-canvas" style="padding:15px;">J2K ถึง CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/jpg-to-canvas" style="padding:15px;">JPG ถึง CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/jpeg-to-canvas" style="padding:15px;">JPEG ถึง CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/png-to-canvas" style="padding:15px;">PNG ถึง CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/tga-to-canvas" style="padding:15px;">TGA ถึง CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/tif-to-canvas" style="padding:15px;">TIF ถึง CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/tiff-to-canvas" style="padding:15px;">TIFF ถึง CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/webp-to-canvas" style="padding:15px;">WEBP ถึง CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/wmf-to-canvas" style="padding:15px;">WMF ถึง CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/wmz-to-canvas" style="padding:15px;">WMZ ถึง CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/svg-to-canvas" style="padding:15px;">SVG ถึง CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/svgz-to-canvas" style="padding:15px;">SVGZ ถึง CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/eps-to-canvas" style="padding:15px;">EPS ถึง CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/cdr-to-canvas" style="padding:15px;">CDR ถึง CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/cmx-to-canvas" style="padding:15px;">CMX ถึง CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/otg-to-canvas" style="padding:15px;">OTG ถึง CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/odg-to-canvas" style="padding:15px;">ODG ถึง CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/ico-to-canvas" style="padding:15px;">ICO ถึง CANVAS</a></div>
+		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/apng-to-canvas/" style="padding:15px;">APNG ถึง CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/bmp-to-canvas/" style="padding:15px;">BMP ถึง CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/dib-to-canvas/" style="padding:15px;">DIB ถึง CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/dicom-to-canvas/" style="padding:15px;">DICOM ถึง CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/djvu-to-canvas/" style="padding:15px;">DJVU ถึง CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/dng-to-canvas/" style="padding:15px;">DNG ถึง CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/emf-to-canvas/" style="padding:15px;">EMF ถึง CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/emz-to-canvas/" style="padding:15px;">EMZ ถึง CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/gif-to-canvas/" style="padding:15px;">GIF ถึง CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/jpeg2000-to-canvas/" style="padding:15px;">JPEG2000 ถึง CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/jp2-to-canvas/" style="padding:15px;">JP2 ถึง CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/j2k-to-canvas/" style="padding:15px;">J2K ถึง CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/jpg-to-canvas/" style="padding:15px;">JPG ถึง CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/jpeg-to-canvas/" style="padding:15px;">JPEG ถึง CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/png-to-canvas/" style="padding:15px;">PNG ถึง CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/tga-to-canvas/" style="padding:15px;">TGA ถึง CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/tif-to-canvas/" style="padding:15px;">TIF ถึง CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/tiff-to-canvas/" style="padding:15px;">TIFF ถึง CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/webp-to-canvas/" style="padding:15px;">WEBP ถึง CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/wmf-to-canvas/" style="padding:15px;">WMF ถึง CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/wmz-to-canvas/" style="padding:15px;">WMZ ถึง CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/svg-to-canvas/" style="padding:15px;">SVG ถึง CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/svgz-to-canvas/" style="padding:15px;">SVGZ ถึง CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/eps-to-canvas/" style="padding:15px;">EPS ถึง CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/cdr-to-canvas/" style="padding:15px;">CDR ถึง CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/cmx-to-canvas/" style="padding:15px;">CMX ถึง CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/otg-to-canvas/" style="padding:15px;">OTG ถึง CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/odg-to-canvas/" style="padding:15px;">ODG ถึง CANVAS</a></div>
+<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/th/net/conversion/ico-to-canvas/" style="padding:15px;">ICO ถึง CANVAS</a></div>
                 </div>
         </div>
     </div>

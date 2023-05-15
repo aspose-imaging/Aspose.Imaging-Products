@@ -1,7 +1,7 @@
 ﻿---
 title: 온프레미스, 클라우드 및 앱 기반 이미지 처리 솔루션 
 weight: 4270
-url: /ko 
+url: /ko/ 
 lang: ko
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he

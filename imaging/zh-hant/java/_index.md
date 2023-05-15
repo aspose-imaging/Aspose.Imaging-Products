@@ -1,7 +1,7 @@
 ﻿---
 title: Java 成像 API |繪製操縱和變換圖像 
 weight: 960
-url: /zh-hant/java 
+url: /zh-hant/java/ 
 lang: zh-hant
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -9,11 +9,11 @@ description: Java 圖像處理和操作庫。無需任何圖像編輯器即可�
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1="用於圖像處理的 Java 庫和 API" h2="無需任何圖像編輯器即可創建、加載、操作或轉換圖像。" downloadFreeTrialText="下載免費試用版" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-java.svg"  pfName="Aspose.Imaging" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/imaging/java" >}}
+{{< blocks/products/pf/upper-banner h1="用於圖像處理的 Java 庫和 API" h2="無需任何圖像編輯器即可創建、加載、操作或轉換圖像。" downloadFreeTrialText="下載免費試用版" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-java.svg"  pfName="Aspose.Imaging" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/imaging/java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Java" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-java.svg" 
-liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://purchase.aspose.com/pricing/imaging/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/imaging/java" installationsDocsLink="https://docs.aspose.com/imaging/java/installation" mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-imaging/" directDownloadLink="https://downloads.aspose.com/imaging/java" liveDemosText="現場演示" overviewText="概述" featuresText="特徵" resourcesText="資源" pricingText="價錢" downloadText="下載" learnText="學習" buyText="買" >}}
+liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/java/" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/java/" installationsDocsLink="https://docs.aspose.com/imaging/java/installation/" mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-imaging/" directDownloadLink="https://downloads.aspose.com/imaging/java/" liveDemosText="現場演示" overviewText="概述" featuresText="特徵" resourcesText="資源" pricingText="價錢" downloadText="下載" learnText="學習" buyText="買" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="在一個" carousel1Text2="一目了然" carousel2Text1="平台" carousel2Text2="獨立" carousel3Text1="支持的文件" carousel3Text2="格式">}}
 <p align="justify">
@@ -599,27 +599,27 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
 
 {{< blocks/products/pf/support-learning-resources supportAndLearningResourcesText="支持和學習資源">}}
 {{< blocks/products/pf/slr-tab tabTitle="學習資源" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="文檔" href="https://docs.aspose.com/imaging/java" >}}
+{{< blocks/products/pf/slr-element name="文檔" href="https://docs.aspose.com/imaging/java/" >}}
 {{< blocks/products/pf/slr-element name="源代碼" href="https://github.com/aspose-imaging/Aspose.Imaging-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API 參考" href="https://apireference.aspose.com/java/imaging" >}}
-{{< blocks/products/pf/slr-element name="教程視頻" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="API 參考" href="https://apireference.aspose.com/java/imaging/" >}}
+{{< blocks/products/pf/slr-element name="教程視頻" href="https://www.youtube.com/user/asposevideo/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="產品支持" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="免費支持" href="https://forum.aspose.com/c/imaging" >}}
+{{< blocks/products/pf/slr-element name="免費支持" href="https://forum.aspose.com/c/imaging/" >}}
 {{< blocks/products/pf/slr-element name="付費支持" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="博客" href="https://blog.aspose.com/category/imaging/" >}}
 {{< blocks/products/pf/slr-element name="發行說明" href="https://docs.aspose.com/imaging/java/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="為什麼 Aspose.Imaging 用於 Java" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="客戶名單" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="客戶名單" href="https://company.aspose.com/customers/" >}}
 {{< blocks/products/pf/slr-element name="成功的故事" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/imaging/java" downloadFreeTrialText="下載免費試用版" pricingInformationText="定價信息" pricingInformationLink="https://purchase.aspose.com/pricing/imaging/java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/imaging/java/" downloadFreeTrialText="下載免費試用版" pricingInformationText="定價信息" pricingInformationLink="https://purchase.aspose.com/pricing/imaging/java/" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Imaging " description="Aspose.Imaging 為其他流行的開發環境提供單獨的 Imaging API，如下所列：" >}}
 

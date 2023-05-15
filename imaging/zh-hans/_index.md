@@ -1,7 +1,7 @@
 ﻿---
 title: 基于本地、云和应用程序的图像处理解决方案 
 weight: 4270
-url: /zh-hans 
+url: /zh-hans/ 
 lang: zh-hans
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
