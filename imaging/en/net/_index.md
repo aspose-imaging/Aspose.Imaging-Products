@@ -615,7 +615,7 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
 {{< blocks/products/pf/support-learning-resources supportAndLearningResourcesText="Support and Learning Resources">}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/imaging/net/" >}}
-{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-imaging/Aspose.Imaging-for-.NET" >}}
+{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-imaging/Aspose.Imaging-for-.NET/" >}}
 {{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/net/imaging/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo/" >}}
 {{< /blocks/products/pf/slr-tab >}}

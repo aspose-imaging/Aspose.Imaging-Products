@@ -592,7 +592,7 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
 {{< blocks/products/pf/support-learning-resources supportAndLearningResourcesText="Dukungan dan Sumber Belajar">}}
 {{< blocks/products/pf/slr-tab tabTitle="Sumber Belajar" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentasi" href="https://docs.aspose.com/imaging/python-net/" >}}
-{{< blocks/products/pf/slr-element name="Kode sumber" href="https://github.com/aspose-imaging/Aspose.Imaging-for-Python-net" >}}
+{{< blocks/products/pf/slr-element name="Kode sumber" href="https://github.com/aspose-imaging/Aspose.Imaging-for-Python-net/" >}}
 {{< blocks/products/pf/slr-element name="Referensi API" href="https://apireference.aspose.com/python-net/imaging/" >}}
 {{< blocks/products/pf/slr-element name="Video Tutorial" href="https://www.youtube.com/user/asposevideo/" >}}
 {{< /blocks/products/pf/slr-tab >}}

@@ -600,7 +600,7 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
 {{< blocks/products/pf/support-learning-resources supportAndLearningResourcesText="Destek ve Öğrenme Kaynakları">}}
 {{< blocks/products/pf/slr-tab tabTitle="Öğrenme Kaynakları" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="belgeler" href="https://docs.aspose.com/imaging/java/" >}}
-{{< blocks/products/pf/slr-element name="Kaynak kodu" href="https://github.com/aspose-imaging/Aspose.Imaging-for-Java" >}}
+{{< blocks/products/pf/slr-element name="Kaynak kodu" href="https://github.com/aspose-imaging/Aspose.Imaging-for-Java/" >}}
 {{< blocks/products/pf/slr-element name="API Referansları" href="https://apireference.aspose.com/java/imaging/" >}}
 {{< blocks/products/pf/slr-element name="Eğitim Videoları" href="https://www.youtube.com/user/asposevideo/" >}}
 {{< /blocks/products/pf/slr-tab >}}

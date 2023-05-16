@@ -592,7 +592,7 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
 {{< blocks/products/pf/support-learning-resources supportAndLearningResourcesText="Podpora a výukové zdroje">}}
 {{< blocks/products/pf/slr-tab tabTitle="Výukové zdroje" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentace" href="https://docs.aspose.com/imaging/python-net/" >}}
-{{< blocks/products/pf/slr-element name="Zdrojový kód" href="https://github.com/aspose-imaging/Aspose.Imaging-for-Python-net" >}}
+{{< blocks/products/pf/slr-element name="Zdrojový kód" href="https://github.com/aspose-imaging/Aspose.Imaging-for-Python-net/" >}}
 {{< blocks/products/pf/slr-element name="Reference API" href="https://apireference.aspose.com/python-net/imaging/" >}}
 {{< blocks/products/pf/slr-element name="Výuková videa" href="https://www.youtube.com/user/asposevideo/" >}}
 {{< /blocks/products/pf/slr-tab >}}

@@ -615,7 +615,7 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
 {{< blocks/products/pf/support-learning-resources supportAndLearningResourcesText="Pagalba ir mokymosi ištekliai">}}
 {{< blocks/products/pf/slr-tab tabTitle="Mokymosi ištekliai" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Dokumentacija" href="https://docs.aspose.com/imaging/net/" >}}
-{{< blocks/products/pf/slr-element name="Pirminis kodas" href="https://github.com/aspose-imaging/Aspose.Imaging-for-.NET" >}}
+{{< blocks/products/pf/slr-element name="Pirminis kodas" href="https://github.com/aspose-imaging/Aspose.Imaging-for-.NET/" >}}
 {{< blocks/products/pf/slr-element name="API nuorodos" href="https://apireference.aspose.com/net/imaging/" >}}
 {{< blocks/products/pf/slr-element name="Mokomieji vaizdo įrašai" href="https://www.youtube.com/user/asposevideo/" >}}
 {{< /blocks/products/pf/slr-tab >}}

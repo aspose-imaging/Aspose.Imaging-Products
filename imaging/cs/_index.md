@@ -18,11 +18,11 @@ description: Vyvíjejte aplikace pro manipulaci s obrázky pomocí rozhraní On 
 High Code API pro cílové platformy .NET Framework a .NET Core pro vývoj řešení pro manipulaci s obrázky.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" productLink="/imaging/cs/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" productLink="/imaging/cs/java/" >}}
 Java API pro vytváření, manipulaci nebo konverzi obrázků různých formátů v jakékoli aplikaci založené na Java SE nebo EE.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging for " title="SharePoint" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg" productLink="/imaging/sharepoint" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging for " title="SharePoint" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg" productLink="/imaging/sharepoint/" >}}
 Umožňuje uživatelům převádět obrázky do jiných obrazových formátů včetně PNG, JPEG, BMP, GIF, TIFF a dalších z Microsoft SharePoint.
 {{< /blocks/products/pf/product >}}
 
@@ -32,15 +32,15 @@ Umožňuje uživatelům převádět obrázky do jiných obrazových formátů v�
 
 {{< blocks/products/pf/product-card-row title="Aspose.Imaging Low Code API zahrnují" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud for cURL" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-curl.png" productLink="https://products.aspose.cloud/imaging/curl" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud for cURL" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-curl.png" productLink="https://products.aspose.cloud/imaging/curl/" >}}
 REST API pro zpracování obrázků pro změnu velikosti, oříznutí, otočení, měřítko, převrácení, vyhledávání, export a konverzi obrázků prostřednictvím jakéhokoli zařízení schopného provádět příkazy cURL.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud SDK for .NET" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-net.png" productLink="https://products.aspose.cloud/imaging/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud SDK for .NET" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-net.png" productLink="https://products.aspose.cloud/imaging/net/" >}}
 Open source SDK navržený pro možnosti manipulace s obrázky, které usnadňují programátorům .NET používat Aspose.Imaging RESTFul API.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud SDK for Java" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-java.png" productLink="https://products.aspose.cloud/imaging/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud SDK for Java" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-java.png" productLink="https://products.aspose.cloud/imaging/java/" >}}
 Snadné použití Java SDK pro komunikaci s Aspose.Imaging Cloud API pro manipulaci a zpracování obrázků.
 {{< /blocks/products/pf/product >}}
 
@@ -50,19 +50,19 @@ Snadné použití Java SDK pro komunikaci s Aspose.Imaging Cloud API pro manipul
 
 {{< blocks/products/pf/product-card-row title="Aspose.Imaging Žádné aplikace kódu nezahrnují" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Conversion" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/imaging/cs/conversion" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Conversion" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/imaging/cs/conversion/" >}}
 Snadno převádějte obrázky do formátů PDF, PSD a rastrových obrázků, aniž byste opustili svůj oblíbený prohlížeč.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Watermark" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_watermark-app.png" productLink="https://products.aspose.app/imaging/cs/watermark" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Watermark" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_watermark-app.png" productLink="https://products.aspose.app/imaging/cs/watermark/" >}}
 Stačí nahrát soubory obrázků a přidat vodoznak z libovolného prohlížeče. Nevyžaduje instalaci ani další nástroje. 
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Reverse" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_reverse-app.png" productLink="https://products.aspose.app/imaging/cs/image-search" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Reverse" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_reverse-app.png" productLink="https://products.aspose.app/imaging/cs/image-search/" >}}
 Proveďte zpětné vyhledávání obrázků a najděte konkrétní obrázek na zadané webové stránce odkudkoli.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.app/imaging/family" innerText="Zobrazit všechny aplikace bez kódu" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.app/imaging/family/" innerText="Zobrazit všechny aplikace bez kódu" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

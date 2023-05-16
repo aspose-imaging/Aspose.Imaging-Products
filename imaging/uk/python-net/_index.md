@@ -592,7 +592,7 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
 {{< blocks/products/pf/support-learning-resources supportAndLearningResourcesText="Підтримка та навчальні ресурси">}}
 {{< blocks/products/pf/slr-tab tabTitle="Навчальні ресурси" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Документація" href="https://docs.aspose.com/imaging/python-net/" >}}
-{{< blocks/products/pf/slr-element name="Вихідний код" href="https://github.com/aspose-imaging/Aspose.Imaging-for-Python-net" >}}
+{{< blocks/products/pf/slr-element name="Вихідний код" href="https://github.com/aspose-imaging/Aspose.Imaging-for-Python-net/" >}}
 {{< blocks/products/pf/slr-element name="Посилання на API" href="https://apireference.aspose.com/python-net/imaging/" >}}
 {{< blocks/products/pf/slr-element name="Навчальні відео" href="https://www.youtube.com/user/asposevideo/" >}}
 {{< /blocks/products/pf/slr-tab >}}

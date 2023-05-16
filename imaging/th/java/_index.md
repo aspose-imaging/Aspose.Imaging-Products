@@ -600,7 +600,7 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
 {{< blocks/products/pf/support-learning-resources supportAndLearningResourcesText="แหล่งสนับสนุนและการเรียนรู้">}}
 {{< blocks/products/pf/slr-tab tabTitle="แหล่งเรียนรู้" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="เอกสาร" href="https://docs.aspose.com/imaging/java/" >}}
-{{< blocks/products/pf/slr-element name="รหัสแหล่งที่มา" href="https://github.com/aspose-imaging/Aspose.Imaging-for-Java" >}}
+{{< blocks/products/pf/slr-element name="รหัสแหล่งที่มา" href="https://github.com/aspose-imaging/Aspose.Imaging-for-Java/" >}}
 {{< blocks/products/pf/slr-element name="การอ้างอิง API" href="https://apireference.aspose.com/java/imaging/" >}}
 {{< blocks/products/pf/slr-element name="วิดีโอสอน" href="https://www.youtube.com/user/asposevideo/" >}}
 {{< /blocks/products/pf/slr-tab >}}

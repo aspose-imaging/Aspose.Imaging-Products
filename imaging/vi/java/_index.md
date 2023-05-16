@@ -600,7 +600,7 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
 {{< blocks/products/pf/support-learning-resources supportAndLearningResourcesText="Tài nguyên Hỗ trợ và Học tập">}}
 {{< blocks/products/pf/slr-tab tabTitle="Tài nguyên học tập" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Tài liệu" href="https://docs.aspose.com/imaging/java/" >}}
-{{< blocks/products/pf/slr-element name="Mã nguồn" href="https://github.com/aspose-imaging/Aspose.Imaging-for-Java" >}}
+{{< blocks/products/pf/slr-element name="Mã nguồn" href="https://github.com/aspose-imaging/Aspose.Imaging-for-Java/" >}}
 {{< blocks/products/pf/slr-element name="Tham chiếu API" href="https://apireference.aspose.com/java/imaging/" >}}
 {{< blocks/products/pf/slr-element name="Video hướng dẫn" href="https://www.youtube.com/user/asposevideo/" >}}
 {{< /blocks/products/pf/slr-tab >}}

@@ -615,7 +615,7 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
 {{< blocks/products/pf/support-learning-resources supportAndLearningResourcesText="משאבי תמיכה ולמידה">}}
 {{< blocks/products/pf/slr-tab tabTitle="משאבי למידה" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="תיעוד" href="https://docs.aspose.com/imaging/net/" >}}
-{{< blocks/products/pf/slr-element name="קוד מקור" href="https://github.com/aspose-imaging/Aspose.Imaging-for-.NET" >}}
+{{< blocks/products/pf/slr-element name="קוד מקור" href="https://github.com/aspose-imaging/Aspose.Imaging-for-.NET/" >}}
 {{< blocks/products/pf/slr-element name="הפניות API" href="https://apireference.aspose.com/net/imaging/" >}}
 {{< blocks/products/pf/slr-element name="סרטוני הדרכה" href="https://www.youtube.com/user/asposevideo/" >}}
 {{< /blocks/products/pf/slr-tab >}}
