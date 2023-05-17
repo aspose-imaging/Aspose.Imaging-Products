@@ -14,43 +14,44 @@ description: Вы можете использовать Aspose.Imaging for Pytho
 
 {{% blocks/products/pf/feature-page-section  h2="Используя Aspose, все поддерживаемые форматы изображений можно преобразовать в HTML с помощью Aspose.Imaging для Python через .NET." %}}
 <p align=justify>Aspose.Imaging API можно использовать для программного преобразования других поддерживаемых форматов изображений в формат HTML с использованием языка Python.</p>
-<br/>
+<h3 style="margin-top:16px;">
 Доступны следующие преобразования:
+</h3>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/apng-to-html/" style="padding:15px;">APNG к HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/bmp-to-html/" style="padding:15px;">BMP к HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/dib-to-html/" style="padding:15px;">DIB к HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/dicom-to-html/" style="padding:15px;">DICOM к HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/djvu-to-html/" style="padding:15px;">DJVU к HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/dng-to-html/" style="padding:15px;">DNG к HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/emf-to-html/" style="padding:15px;">EMF к HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/emz-to-html/" style="padding:15px;">EMZ к HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/gif-to-html/" style="padding:15px;">GIF к HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/jpeg2000-to-html/" style="padding:15px;">JPEG2000 к HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/jp2-to-html/" style="padding:15px;">JP2 к HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/j2k-to-html/" style="padding:15px;">J2K к HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/jpg-to-html/" style="padding:15px;">JPG к HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/jpeg-to-html/" style="padding:15px;">JPEG к HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/png-to-html/" style="padding:15px;">PNG к HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/tga-to-html/" style="padding:15px;">TGA к HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/tif-to-html/" style="padding:15px;">TIF к HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/tiff-to-html/" style="padding:15px;">TIFF к HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/webp-to-html/" style="padding:15px;">WEBP к HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/wmf-to-html/" style="padding:15px;">WMF к HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/wmz-to-html/" style="padding:15px;">WMZ к HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/svg-to-html/" style="padding:15px;">SVG к HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/svgz-to-html/" style="padding:15px;">SVGZ к HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/eps-to-html/" style="padding:15px;">EPS к HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/cdr-to-html/" style="padding:15px;">CDR к HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/cmx-to-html/" style="padding:15px;">CMX к HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/otg-to-html/" style="padding:15px;">OTG к HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/odg-to-html/" style="padding:15px;">ODG к HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/ico-to-html/" style="padding:15px;">ICO к HTML</a></div>
+		    <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/apng-to-html/" style="padding:15px;">APNG к HTML</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/bmp-to-html/" style="padding:15px;">BMP к HTML</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/dib-to-html/" style="padding:15px;">DIB к HTML</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/dicom-to-html/" style="padding:15px;">DICOM к HTML</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/djvu-to-html/" style="padding:15px;">DJVU к HTML</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/dng-to-html/" style="padding:15px;">DNG к HTML</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/emf-to-html/" style="padding:15px;">EMF к HTML</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/emz-to-html/" style="padding:15px;">EMZ к HTML</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/gif-to-html/" style="padding:15px;">GIF к HTML</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/jpeg2000-to-html/" style="padding:15px;">JPEG2000 к HTML</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/jp2-to-html/" style="padding:15px;">JP2 к HTML</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/j2k-to-html/" style="padding:15px;">J2K к HTML</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/jpg-to-html/" style="padding:15px;">JPG к HTML</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/jpeg-to-html/" style="padding:15px;">JPEG к HTML</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/png-to-html/" style="padding:15px;">PNG к HTML</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/tga-to-html/" style="padding:15px;">TGA к HTML</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/tif-to-html/" style="padding:15px;">TIF к HTML</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/tiff-to-html/" style="padding:15px;">TIFF к HTML</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/webp-to-html/" style="padding:15px;">WEBP к HTML</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/wmf-to-html/" style="padding:15px;">WMF к HTML</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/wmz-to-html/" style="padding:15px;">WMZ к HTML</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/svg-to-html/" style="padding:15px;">SVG к HTML</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/svgz-to-html/" style="padding:15px;">SVGZ к HTML</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/eps-to-html/" style="padding:15px;">EPS к HTML</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/cdr-to-html/" style="padding:15px;">CDR к HTML</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/cmx-to-html/" style="padding:15px;">CMX к HTML</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/otg-to-html/" style="padding:15px;">OTG к HTML</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/odg-to-html/" style="padding:15px;">ODG к HTML</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ru/python-net/conversion/ico-to-html/" style="padding:15px;">ICO к HTML</a></div>
                 </div>
         </div>
     </div>

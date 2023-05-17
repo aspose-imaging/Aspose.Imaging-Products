@@ -14,42 +14,43 @@ description: Za pomocą Aspose.Imaging możesz konwertować do BMP z innych form
 
 {{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty obrazów konwertowalne do BMP przy użyciu Aspose.Imaging for Java" %}}
 <p align=justify>Korzystając z biblioteki Aspose.Imaging możesz programowo konwertować do BMP z innych obsługiwanych formatów obrazów przy użyciu platformy Java.</p>
-<br/>
+<h3 style="margin-top:16px;">
 Obsługiwane konwersje:
+</h3>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/apng-to-bmp/" style="padding:15px;">APNG do BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/dib-to-bmp/" style="padding:15px;">DIB do BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/dicom-to-bmp/" style="padding:15px;">DICOM do BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/djvu-to-bmp/" style="padding:15px;">DJVU do BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/dng-to-bmp/" style="padding:15px;">DNG do BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/emf-to-bmp/" style="padding:15px;">EMF do BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/emz-to-bmp/" style="padding:15px;">EMZ do BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/gif-to-bmp/" style="padding:15px;">GIF do BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/jpeg2000-to-bmp/" style="padding:15px;">JPEG2000 do BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/jp2-to-bmp/" style="padding:15px;">JP2 do BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/j2k-to-bmp/" style="padding:15px;">J2K do BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/jpg-to-bmp/" style="padding:15px;">JPG do BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/jpeg-to-bmp/" style="padding:15px;">JPEG do BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/png-to-bmp/" style="padding:15px;">PNG do BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/tga-to-bmp/" style="padding:15px;">TGA do BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/tif-to-bmp/" style="padding:15px;">TIF do BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/tiff-to-bmp/" style="padding:15px;">TIFF do BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/webp-to-bmp/" style="padding:15px;">WEBP do BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/wmf-to-bmp/" style="padding:15px;">WMF do BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/wmz-to-bmp/" style="padding:15px;">WMZ do BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/svg-to-bmp/" style="padding:15px;">SVG do BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/svgz-to-bmp/" style="padding:15px;">SVGZ do BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/eps-to-bmp/" style="padding:15px;">EPS do BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/cdr-to-bmp/" style="padding:15px;">CDR do BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/cmx-to-bmp/" style="padding:15px;">CMX do BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/otg-to-bmp/" style="padding:15px;">OTG do BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/odg-to-bmp/" style="padding:15px;">ODG do BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/ico-to-bmp/" style="padding:15px;">ICO do BMP</a></div>
+		    <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/apng-to-bmp/" style="padding:15px;">APNG do BMP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/dib-to-bmp/" style="padding:15px;">DIB do BMP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/dicom-to-bmp/" style="padding:15px;">DICOM do BMP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/djvu-to-bmp/" style="padding:15px;">DJVU do BMP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/dng-to-bmp/" style="padding:15px;">DNG do BMP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/emf-to-bmp/" style="padding:15px;">EMF do BMP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/emz-to-bmp/" style="padding:15px;">EMZ do BMP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/gif-to-bmp/" style="padding:15px;">GIF do BMP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/jpeg2000-to-bmp/" style="padding:15px;">JPEG2000 do BMP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/jp2-to-bmp/" style="padding:15px;">JP2 do BMP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/j2k-to-bmp/" style="padding:15px;">J2K do BMP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/jpg-to-bmp/" style="padding:15px;">JPG do BMP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/jpeg-to-bmp/" style="padding:15px;">JPEG do BMP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/png-to-bmp/" style="padding:15px;">PNG do BMP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/tga-to-bmp/" style="padding:15px;">TGA do BMP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/tif-to-bmp/" style="padding:15px;">TIF do BMP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/tiff-to-bmp/" style="padding:15px;">TIFF do BMP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/webp-to-bmp/" style="padding:15px;">WEBP do BMP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/wmf-to-bmp/" style="padding:15px;">WMF do BMP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/wmz-to-bmp/" style="padding:15px;">WMZ do BMP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/svg-to-bmp/" style="padding:15px;">SVG do BMP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/svgz-to-bmp/" style="padding:15px;">SVGZ do BMP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/eps-to-bmp/" style="padding:15px;">EPS do BMP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/cdr-to-bmp/" style="padding:15px;">CDR do BMP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/cmx-to-bmp/" style="padding:15px;">CMX do BMP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/otg-to-bmp/" style="padding:15px;">OTG do BMP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/odg-to-bmp/" style="padding:15px;">ODG do BMP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/pl/java/conversion/ico-to-bmp/" style="padding:15px;">ICO do BMP</a></div>
                 </div>
         </div>
     </div>

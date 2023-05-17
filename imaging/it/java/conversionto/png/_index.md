@@ -14,42 +14,43 @@ description: Usando Aspose.Imaging puoi convertire in PNG da altri formati usand
 
 {{% blocks/products/pf/feature-page-section  h2="Tutti i formati immagine supportati sono convertibili in PNG utilizzando Aspose.Imaging per Java" %}}
 <p align=justify>Utilizzando la libreria Aspose.Imaging è possibile convertire in modo programmatico in PNG da altri formati di immagine supportati utilizzando la piattaforma Java.</p>
-<br/>
+<h3 style="margin-top:16px;">
 Conversioni supportate:
+</h3>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/apng-to-png/" style="padding:15px;">APNG a PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/bmp-to-png/" style="padding:15px;">BMP a PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/dib-to-png/" style="padding:15px;">DIB a PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/dicom-to-png/" style="padding:15px;">DICOM a PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/djvu-to-png/" style="padding:15px;">DJVU a PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/dng-to-png/" style="padding:15px;">DNG a PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/emf-to-png/" style="padding:15px;">EMF a PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/emz-to-png/" style="padding:15px;">EMZ a PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/gif-to-png/" style="padding:15px;">GIF a PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/jpeg2000-to-png/" style="padding:15px;">JPEG2000 a PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/jp2-to-png/" style="padding:15px;">JP2 a PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/j2k-to-png/" style="padding:15px;">J2K a PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/jpg-to-png/" style="padding:15px;">JPG a PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/jpeg-to-png/" style="padding:15px;">JPEG a PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/tga-to-png/" style="padding:15px;">TGA a PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/tif-to-png/" style="padding:15px;">TIF a PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/tiff-to-png/" style="padding:15px;">TIFF a PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/webp-to-png/" style="padding:15px;">WEBP a PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/wmf-to-png/" style="padding:15px;">WMF a PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/wmz-to-png/" style="padding:15px;">WMZ a PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/svg-to-png/" style="padding:15px;">SVG a PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/svgz-to-png/" style="padding:15px;">SVGZ a PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/eps-to-png/" style="padding:15px;">EPS a PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/cdr-to-png/" style="padding:15px;">CDR a PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/cmx-to-png/" style="padding:15px;">CMX a PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/otg-to-png/" style="padding:15px;">OTG a PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/odg-to-png/" style="padding:15px;">ODG a PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/ico-to-png/" style="padding:15px;">ICO a PNG</a></div>
+		    <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/apng-to-png/" style="padding:15px;">APNG a PNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/bmp-to-png/" style="padding:15px;">BMP a PNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/dib-to-png/" style="padding:15px;">DIB a PNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/dicom-to-png/" style="padding:15px;">DICOM a PNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/djvu-to-png/" style="padding:15px;">DJVU a PNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/dng-to-png/" style="padding:15px;">DNG a PNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/emf-to-png/" style="padding:15px;">EMF a PNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/emz-to-png/" style="padding:15px;">EMZ a PNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/gif-to-png/" style="padding:15px;">GIF a PNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/jpeg2000-to-png/" style="padding:15px;">JPEG2000 a PNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/jp2-to-png/" style="padding:15px;">JP2 a PNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/j2k-to-png/" style="padding:15px;">J2K a PNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/jpg-to-png/" style="padding:15px;">JPG a PNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/jpeg-to-png/" style="padding:15px;">JPEG a PNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/tga-to-png/" style="padding:15px;">TGA a PNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/tif-to-png/" style="padding:15px;">TIF a PNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/tiff-to-png/" style="padding:15px;">TIFF a PNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/webp-to-png/" style="padding:15px;">WEBP a PNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/wmf-to-png/" style="padding:15px;">WMF a PNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/wmz-to-png/" style="padding:15px;">WMZ a PNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/svg-to-png/" style="padding:15px;">SVG a PNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/svgz-to-png/" style="padding:15px;">SVGZ a PNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/eps-to-png/" style="padding:15px;">EPS a PNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/cdr-to-png/" style="padding:15px;">CDR a PNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/cmx-to-png/" style="padding:15px;">CMX a PNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/otg-to-png/" style="padding:15px;">OTG a PNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/odg-to-png/" style="padding:15px;">ODG a PNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/it/java/conversion/ico-to-png/" style="padding:15px;">ICO a PNG</a></div>
                 </div>
         </div>
     </div>

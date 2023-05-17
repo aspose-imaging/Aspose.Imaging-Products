@@ -14,42 +14,43 @@ description: You can use Aspose.Imaging for Python via .NET library to convert f
 
 {{% blocks/products/pf/feature-page-section  h2="Using Aspose, every supported picture formats can be converted to WMZ using Aspose.Imaging for Python via .NET" %}}
 <p align=justify>Aspose.Imaging API can be used   to programmatically convert other supported image formats to WMZ using Python language.</p>
-<br/>
+<h3 style="margin-top:16px;">
 There are next available conversions:
+</h3>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/apng-to-wmz/" style="padding:15px;">APNG to WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/bmp-to-wmz/" style="padding:15px;">BMP to WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/dib-to-wmz/" style="padding:15px;">DIB to WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/dicom-to-wmz/" style="padding:15px;">DICOM to WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/djvu-to-wmz/" style="padding:15px;">DJVU to WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/dng-to-wmz/" style="padding:15px;">DNG to WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/emf-to-wmz/" style="padding:15px;">EMF to WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/emz-to-wmz/" style="padding:15px;">EMZ to WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/gif-to-wmz/" style="padding:15px;">GIF to WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/jpeg2000-to-wmz/" style="padding:15px;">JPEG2000 to WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/jp2-to-wmz/" style="padding:15px;">JP2 to WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/j2k-to-wmz/" style="padding:15px;">J2K to WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/jpg-to-wmz/" style="padding:15px;">JPG to WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/jpeg-to-wmz/" style="padding:15px;">JPEG to WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/png-to-wmz/" style="padding:15px;">PNG to WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/tga-to-wmz/" style="padding:15px;">TGA to WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/tif-to-wmz/" style="padding:15px;">TIF to WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/tiff-to-wmz/" style="padding:15px;">TIFF to WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/webp-to-wmz/" style="padding:15px;">WEBP to WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/wmf-to-wmz/" style="padding:15px;">WMF to WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/svg-to-wmz/" style="padding:15px;">SVG to WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/svgz-to-wmz/" style="padding:15px;">SVGZ to WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/eps-to-wmz/" style="padding:15px;">EPS to WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/cdr-to-wmz/" style="padding:15px;">CDR to WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/cmx-to-wmz/" style="padding:15px;">CMX to WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/otg-to-wmz/" style="padding:15px;">OTG to WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/odg-to-wmz/" style="padding:15px;">ODG to WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/ico-to-wmz/" style="padding:15px;">ICO to WMZ</a></div>
+		    <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/apng-to-wmz/" style="padding:15px;">APNG to WMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/bmp-to-wmz/" style="padding:15px;">BMP to WMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/dib-to-wmz/" style="padding:15px;">DIB to WMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/dicom-to-wmz/" style="padding:15px;">DICOM to WMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/djvu-to-wmz/" style="padding:15px;">DJVU to WMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/dng-to-wmz/" style="padding:15px;">DNG to WMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/emf-to-wmz/" style="padding:15px;">EMF to WMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/emz-to-wmz/" style="padding:15px;">EMZ to WMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/gif-to-wmz/" style="padding:15px;">GIF to WMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/jpeg2000-to-wmz/" style="padding:15px;">JPEG2000 to WMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/jp2-to-wmz/" style="padding:15px;">JP2 to WMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/j2k-to-wmz/" style="padding:15px;">J2K to WMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/jpg-to-wmz/" style="padding:15px;">JPG to WMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/jpeg-to-wmz/" style="padding:15px;">JPEG to WMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/png-to-wmz/" style="padding:15px;">PNG to WMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/tga-to-wmz/" style="padding:15px;">TGA to WMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/tif-to-wmz/" style="padding:15px;">TIF to WMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/tiff-to-wmz/" style="padding:15px;">TIFF to WMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/webp-to-wmz/" style="padding:15px;">WEBP to WMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/wmf-to-wmz/" style="padding:15px;">WMF to WMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/svg-to-wmz/" style="padding:15px;">SVG to WMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/svgz-to-wmz/" style="padding:15px;">SVGZ to WMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/eps-to-wmz/" style="padding:15px;">EPS to WMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/cdr-to-wmz/" style="padding:15px;">CDR to WMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/cmx-to-wmz/" style="padding:15px;">CMX to WMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/otg-to-wmz/" style="padding:15px;">OTG to WMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/odg-to-wmz/" style="padding:15px;">ODG to WMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/python-net/conversion/ico-to-wmz/" style="padding:15px;">ICO to WMZ</a></div>
                 </div>
         </div>
     </div>

@@ -14,43 +14,44 @@ description: आप विभिन्न स्वरूपों से PSD �
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose का उपयोग करके, प्रत्येक समर्थित चित्र प्रारूपों को Aspose.Imaging for Python के माध्यम से .NET का उपयोग करके PSD में परिवर्तित किया जा सकता है" %}}
 <p align=justify>Aspose.Imaging API का उपयोग Python भाषा का उपयोग करके अन्य समर्थित छवि प्रारूपों को प्रोग्रामेटिक रूप से PSD में बदलने के लिए किया जा सकता है।</p>
-<br/>
+<h3 style="margin-top:16px;">
 अगले उपलब्ध रूपांतरण हैं:
+</h3>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/apng-to-psd/" style="padding:15px;">APNG को PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/bmp-to-psd/" style="padding:15px;">BMP को PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/dib-to-psd/" style="padding:15px;">DIB को PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/dicom-to-psd/" style="padding:15px;">DICOM को PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/djvu-to-psd/" style="padding:15px;">DJVU को PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/dng-to-psd/" style="padding:15px;">DNG को PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/emf-to-psd/" style="padding:15px;">EMF को PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/emz-to-psd/" style="padding:15px;">EMZ को PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/gif-to-psd/" style="padding:15px;">GIF को PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/jpeg2000-to-psd/" style="padding:15px;">JPEG2000 को PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/jp2-to-psd/" style="padding:15px;">JP2 को PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/j2k-to-psd/" style="padding:15px;">J2K को PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/jpg-to-psd/" style="padding:15px;">JPG को PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/jpeg-to-psd/" style="padding:15px;">JPEG को PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/png-to-psd/" style="padding:15px;">PNG को PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/tga-to-psd/" style="padding:15px;">TGA को PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/tif-to-psd/" style="padding:15px;">TIF को PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/tiff-to-psd/" style="padding:15px;">TIFF को PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/webp-to-psd/" style="padding:15px;">WEBP को PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/wmf-to-psd/" style="padding:15px;">WMF को PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/wmz-to-psd/" style="padding:15px;">WMZ को PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/svg-to-psd/" style="padding:15px;">SVG को PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/svgz-to-psd/" style="padding:15px;">SVGZ को PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/eps-to-psd/" style="padding:15px;">EPS को PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/cdr-to-psd/" style="padding:15px;">CDR को PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/cmx-to-psd/" style="padding:15px;">CMX को PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/otg-to-psd/" style="padding:15px;">OTG को PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/odg-to-psd/" style="padding:15px;">ODG को PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/ico-to-psd/" style="padding:15px;">ICO को PSD</a></div>
+		    <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/apng-to-psd/" style="padding:15px;">APNG को PSD</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/bmp-to-psd/" style="padding:15px;">BMP को PSD</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/dib-to-psd/" style="padding:15px;">DIB को PSD</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/dicom-to-psd/" style="padding:15px;">DICOM को PSD</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/djvu-to-psd/" style="padding:15px;">DJVU को PSD</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/dng-to-psd/" style="padding:15px;">DNG को PSD</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/emf-to-psd/" style="padding:15px;">EMF को PSD</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/emz-to-psd/" style="padding:15px;">EMZ को PSD</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/gif-to-psd/" style="padding:15px;">GIF को PSD</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/jpeg2000-to-psd/" style="padding:15px;">JPEG2000 को PSD</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/jp2-to-psd/" style="padding:15px;">JP2 को PSD</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/j2k-to-psd/" style="padding:15px;">J2K को PSD</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/jpg-to-psd/" style="padding:15px;">JPG को PSD</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/jpeg-to-psd/" style="padding:15px;">JPEG को PSD</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/png-to-psd/" style="padding:15px;">PNG को PSD</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/tga-to-psd/" style="padding:15px;">TGA को PSD</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/tif-to-psd/" style="padding:15px;">TIF को PSD</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/tiff-to-psd/" style="padding:15px;">TIFF को PSD</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/webp-to-psd/" style="padding:15px;">WEBP को PSD</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/wmf-to-psd/" style="padding:15px;">WMF को PSD</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/wmz-to-psd/" style="padding:15px;">WMZ को PSD</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/svg-to-psd/" style="padding:15px;">SVG को PSD</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/svgz-to-psd/" style="padding:15px;">SVGZ को PSD</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/eps-to-psd/" style="padding:15px;">EPS को PSD</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/cdr-to-psd/" style="padding:15px;">CDR को PSD</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/cmx-to-psd/" style="padding:15px;">CMX को PSD</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/otg-to-psd/" style="padding:15px;">OTG को PSD</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/odg-to-psd/" style="padding:15px;">ODG को PSD</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/ico-to-psd/" style="padding:15px;">ICO को PSD</a></div>
                 </div>
         </div>
     </div>

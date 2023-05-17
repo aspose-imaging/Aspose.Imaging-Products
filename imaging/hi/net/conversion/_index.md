@@ -35,34 +35,34 @@ description: लोकप्रिय छवि, फोटो, चित्र �
         <div class="container">
 		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/hi/net/conversion/apng-to-bmp/" style="padding:15px;">APNG प्रति BMP</a>
+		      <p><a href="/imaging/hi/net/conversion/apng-to-bmp/" style="padding:15px;">APNG प्रति BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/hi/net/conversion/cdr-to-bmp/" style="padding:15px;">CDR प्रति BMP</a>
+		      <p><a href="/imaging/hi/net/conversion/cdr-to-bmp/" style="padding:15px;">CDR प्रति BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/hi/net/conversion/dib-to-bmp/" style="padding:15px;">DIB प्रति BMP</a>
+		      <p><a href="/imaging/hi/net/conversion/dib-to-bmp/" style="padding:15px;">DIB प्रति BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/hi/net/conversion/dicom-to-bmp/" style="padding:15px;">DICOM प्रति BMP</a>
+		      <p><a href="/imaging/hi/net/conversion/dicom-to-bmp/" style="padding:15px;">DICOM प्रति BMP</a></p>
 		   </div>
  		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/hi/net/conversion/djvu-to-bmp/" style="padding:15px;">DJVU प्रति BMP</a>
+		      <p><a href="/imaging/hi/net/conversion/djvu-to-bmp/" style="padding:15px;">DJVU प्रति BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/hi/net/conversion/dng-to-bmp/" style="padding:15px;">DNG प्रति BMP</a>
+		      <p><a href="/imaging/hi/net/conversion/dng-to-bmp/" style="padding:15px;">DNG प्रति BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/hi/net/conversion/emf-to-bmp/" style="padding:15px;">EMF प्रति BMP</a>
+		      <p><a href="/imaging/hi/net/conversion/emf-to-bmp/" style="padding:15px;">EMF प्रति BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/hi/net/conversion/emz-to-bmp/" style="padding:15px;">EMZ प्रति BMP</a>
+		      <p><a href="/imaging/hi/net/conversion/emz-to-bmp/" style="padding:15px;">EMZ प्रति BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/hi/net/conversion/eps-to-bmp/" style="padding:15px;">EPS प्रति BMP</a>
+		      <p><a href="/imaging/hi/net/conversion/eps-to-bmp/" style="padding:15px;">EPS प्रति BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/hi/net/conversion/gif-to-bmp/" style="padding:15px;">GIF प्रति BMP</a>
+		      <p><a href="/imaging/hi/net/conversion/gif-to-bmp/" style="padding:15px;">GIF प्रति BMP</a></p>
 		   </div>
 		</div>
 	</div>
@@ -86,34 +86,34 @@ description: लोकप्रिय छवि, फोटो, चित्र �
         <div class="container">
 		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/hi/net/conversion/apng-to-PDF/" style="padding:15px;">APNG प्रति PDF</a>
+		      <p><a href="/imaging/hi/net/conversion/apng-to-PDF/" style="padding:15px;">APNG प्रति PDF</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/hi/net/conversion/jpeg-to-PDF/" style="padding:15px;">JPEG प्रति PDF</a>
+		      <p><a href="/imaging/hi/net/conversion/jpeg-to-PDF/" style="padding:15px;">JPEG प्रति PDF</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/hi/net/conversion/bmp-to-PDF/" style="padding:15px;">BMP प्रति PDF</a>
+		      <p><a href="/imaging/hi/net/conversion/bmp-to-PDF/" style="padding:15px;">BMP प्रति PDF</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/hi/net/conversion/odg-to-PDF/" style="padding:15px;">ODG प्रति PDF</a>
+		      <p><a href="/imaging/hi/net/conversion/odg-to-PDF/" style="padding:15px;">ODG प्रति PDF</a></p>
 		   </div>
  		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/hi/net/conversion/otg-to-PDF/" style="padding:15px;">OTG प्रति PDF</a>
+		      <p><a href="/imaging/hi/net/conversion/otg-to-PDF/" style="padding:15px;">OTG प्रति PDF</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/hi/net/conversion/png-to-PDF/" style="padding:15px;">PNG प्रति PDF</a>
+		      <p><a href="/imaging/hi/net/conversion/png-to-PDF/" style="padding:15px;">PNG प्रति PDF</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/hi/net/conversion/svg-to-PDF/" style="padding:15px;">SVG प्रति PDF</a>
+		      <p><a href="/imaging/hi/net/conversion/svg-to-PDF/" style="padding:15px;">SVG प्रति PDF</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/hi/net/conversion/emz-to-PDF/" style="padding:15px;">EMZ प्रति PDF</a>
+		      <p><a href="/imaging/hi/net/conversion/emz-to-PDF/" style="padding:15px;">EMZ प्रति PDF</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/hi/net/conversion/eps-to-PDF/" style="padding:15px;">EPS प्रति PDF</a>
+		      <p><a href="/imaging/hi/net/conversion/eps-to-PDF/" style="padding:15px;">EPS प्रति PDF</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/hi/net/conversion/gif-to-PDF/" style="padding:15px;">GIF प्रति PDF</a>
+		      <p><a href="/imaging/hi/net/conversion/gif-to-PDF/" style="padding:15px;">GIF प्रति PDF</a></p>
 		   </div>
 		</div>
 	</div>
@@ -137,13 +137,13 @@ description: लोकप्रिय छवि, फोटो, चित्र �
         <div class="container">
 		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/hi/net/conversion/SVG-to-bmp/" style="padding:15px;">SVG प्रति BMP</a>
+		      <p><a href="/imaging/hi/net/conversion/SVG-to-bmp/" style="padding:15px;">SVG प्रति BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/hi/net/conversion/SVG-to-jpeg/" style="padding:15px;">SVG प्रति JPEG</a>
+		      <p><a href="/imaging/hi/net/conversion/SVG-to-jpeg/" style="padding:15px;">SVG प्रति JPEG</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/hi/net/conversion/SVG-to-png/" style="padding:15px;">SVG प्रति PNG</a>
+		      <p><a href="/imaging/hi/net/conversion/SVG-to-png/" style="padding:15px;">SVG प्रति PNG</a></p>
 		   </div>		   
 		</div>
 	</div>
@@ -159,35 +159,35 @@ description: लोकप्रिय छवि, फोटो, चित्र �
         <div class="container">
                 <hr style="margin-left:-20px;"/>
 		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/apng/" style="padding:15px;">से कनवर्ट करें APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/bmp/" style="padding:15px;">से कनवर्ट करें BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/dib/" style="padding:15px;">से कनवर्ट करें DIB</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/dicom/" style="padding:15px;">से कनवर्ट करें DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/djvu/" style="padding:15px;">से कनवर्ट करें DJVU</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/dng/" style="padding:15px;">से कनवर्ट करें DNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/emf/" style="padding:15px;">से कनवर्ट करें EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/emz/" style="padding:15px;">से कनवर्ट करें EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/gif/" style="padding:15px;">से कनवर्ट करें GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/jpeg2000/" style="padding:15px;">से कनवर्ट करें JPEG2000</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/jp2/" style="padding:15px;">से कनवर्ट करें JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/j2k/" style="padding:15px;">से कनवर्ट करें J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/jpg/" style="padding:15px;">से कनवर्ट करें JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/jpeg/" style="padding:15px;">से कनवर्ट करें JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/png/" style="padding:15px;">से कनवर्ट करें PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/tga/" style="padding:15px;">से कनवर्ट करें TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/tif/" style="padding:15px;">से कनवर्ट करें TIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/tiff/" style="padding:15px;">से कनवर्ट करें TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/webp/" style="padding:15px;">से कनवर्ट करें WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/wmf/" style="padding:15px;">से कनवर्ट करें WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/wmz/" style="padding:15px;">से कनवर्ट करें WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/svg/" style="padding:15px;">से कनवर्ट करें SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/svgz/" style="padding:15px;">से कनवर्ट करें SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/eps/" style="padding:15px;">से कनवर्ट करें EPS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/cdr/" style="padding:15px;">से कनवर्ट करें CDR</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/cmx/" style="padding:15px;">से कनवर्ट करें CMX</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/otg/" style="padding:15px;">से कनवर्ट करें OTG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/odg/" style="padding:15px;">से कनवर्ट करें ODG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/ico/" style="padding:15px;">से कनवर्ट करें ICO</a></div>
+		    <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/apng/" style="padding:15px;">से कनवर्ट करें APNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/bmp/" style="padding:15px;">से कनवर्ट करें BMP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/dib/" style="padding:15px;">से कनवर्ट करें DIB</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/dicom/" style="padding:15px;">से कनवर्ट करें DICOM</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/djvu/" style="padding:15px;">से कनवर्ट करें DJVU</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/dng/" style="padding:15px;">से कनवर्ट करें DNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/emf/" style="padding:15px;">से कनवर्ट करें EMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/emz/" style="padding:15px;">से कनवर्ट करें EMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/gif/" style="padding:15px;">से कनवर्ट करें GIF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/jpeg2000/" style="padding:15px;">से कनवर्ट करें JPEG2000</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/jp2/" style="padding:15px;">से कनवर्ट करें JP2</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/j2k/" style="padding:15px;">से कनवर्ट करें J2K</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/jpg/" style="padding:15px;">से कनवर्ट करें JPG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/jpeg/" style="padding:15px;">से कनवर्ट करें JPEG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/png/" style="padding:15px;">से कनवर्ट करें PNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/tga/" style="padding:15px;">से कनवर्ट करें TGA</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/tif/" style="padding:15px;">से कनवर्ट करें TIF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/tiff/" style="padding:15px;">से कनवर्ट करें TIFF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/webp/" style="padding:15px;">से कनवर्ट करें WEBP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/wmf/" style="padding:15px;">से कनवर्ट करें WMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/wmz/" style="padding:15px;">से कनवर्ट करें WMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/svg/" style="padding:15px;">से कनवर्ट करें SVG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/svgz/" style="padding:15px;">से कनवर्ट करें SVGZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/eps/" style="padding:15px;">से कनवर्ट करें EPS</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/cdr/" style="padding:15px;">से कनवर्ट करें CDR</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/cmx/" style="padding:15px;">से कनवर्ट करें CMX</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/otg/" style="padding:15px;">से कनवर्ट करें OTG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/odg/" style="padding:15px;">से कनवर्ट करें ODG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/from/ico/" style="padding:15px;">से कनवर्ट करें ICO</a></div>
                 </div>
         </div>
     </div>
@@ -202,31 +202,31 @@ description: लोकप्रिय छवि, फोटो, चित्र �
         <div class="container">
 	        <hr style="margin-left:-20px;"/>
 		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/to/bmp/" style="padding:15px;">में बदलो BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/to/gif/" style="padding:15px;">में बदलो GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/to/dicom/" style="padding:15px;">में बदलो DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/to/emf/" style="padding:15px;">में बदलो EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/to/jpg/" style="padding:15px;">में बदलो JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/to/jpeg/" style="padding:15px;">में बदलो JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/to/jp2/" style="padding:15px;">में बदलो JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/to/j2k/" style="padding:15px;">में बदलो J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/to/jpeg2000/" style="padding:15px;">में बदलो JPEG2000</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/to/png/" style="padding:15px;">में बदलो PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/to/psd/" style="padding:15px;">में बदलो PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/to/dxf/" style="padding:15px;">में बदलो DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/to/svg/" style="padding:15px;">में बदलो SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/to/tiff/" style="padding:15px;">में बदलो TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/to/webp/" style="padding:15px;">में बदलो WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/to/wmf/" style="padding:15px;">में बदलो WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/to/pdf/" style="padding:15px;">में बदलो PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/to/html/" style="padding:15px;">में बदलो HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/to/emz/" style="padding:15px;">में बदलो EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/to/wmz/" style="padding:15px;">में बदलो WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/to/tga/" style="padding:15px;">में बदलो TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/to/svgz/" style="padding:15px;">में बदलो SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/to/canvas/" style="padding:15px;">में बदलो CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/to/ico/" style="padding:15px;">में बदलो ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/to/apng/" style="padding:15px;">में बदलो APNG</a></div>
+		    <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/to/bmp/" style="padding:15px;">में बदलो BMP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/to/gif/" style="padding:15px;">में बदलो GIF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/to/dicom/" style="padding:15px;">में बदलो DICOM</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/to/emf/" style="padding:15px;">में बदलो EMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/to/jpg/" style="padding:15px;">में बदलो JPG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/to/jpeg/" style="padding:15px;">में बदलो JPEG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/to/jp2/" style="padding:15px;">में बदलो JP2</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/to/j2k/" style="padding:15px;">में बदलो J2K</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/to/jpeg2000/" style="padding:15px;">में बदलो JPEG2000</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/to/png/" style="padding:15px;">में बदलो PNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/to/psd/" style="padding:15px;">में बदलो PSD</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/to/dxf/" style="padding:15px;">में बदलो DXF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/to/svg/" style="padding:15px;">में बदलो SVG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/to/tiff/" style="padding:15px;">में बदलो TIFF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/to/webp/" style="padding:15px;">में बदलो WEBP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/to/wmf/" style="padding:15px;">में बदलो WMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/to/pdf/" style="padding:15px;">में बदलो PDF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/to/html/" style="padding:15px;">में बदलो HTML</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/to/emz/" style="padding:15px;">में बदलो EMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/to/wmz/" style="padding:15px;">में बदलो WMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/to/tga/" style="padding:15px;">में बदलो TGA</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/to/svgz/" style="padding:15px;">में बदलो SVGZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/to/canvas/" style="padding:15px;">में बदलो CANVAS</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/to/ico/" style="padding:15px;">में बदलो ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/net/conversion/to/apng/" style="padding:15px;">में बदलो APNG</a></div>
                 </div>
         </div>
     </div>

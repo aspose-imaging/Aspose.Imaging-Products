@@ -14,42 +14,43 @@ description: .NET 라이브러리용 Aspose.Imaging을 사용하면 지원되는
 
 {{% blocks/products/pf/feature-page-section  h2=".NET 라이브러리용 Aspose.Imaging을 사용하여 GIF(그래픽 교환 형식) 형식으로 지원되는 모든 변환" %}}
 <p align=justify>Aspose.Imaging 라이브러리를 사용하면 프로그래밍 방식으로 다양한 이미지 형식을 GIF 이미지로 변환할 수 있습니다. GIF 또는 그래픽 교환 형식은 고도로 압축된 이미지 유형입니다. Unisys가 소유한 GIF는 이미지 품질을 저하시키지 않는 LZW 압축 알고리즘을 사용합니다. 각 이미지에 대해 GIF는 일반적으로 픽셀당 최대 8비트를 허용하고 이미지 전체에 최대 256가지 색상을 허용합니다. 최대 1600만 색상을 표시할 수 있고 인간의 눈의 한계에 상당히 닿는 JPEG 이미지와 대조적입니다. 인터넷이 등장했을 때 GIF는 낮은 대역폭이 필요하고 단색 영역을 소비하는 그래픽과 호환되기 때문에 최고의 선택으로 남아 있었습니다. 애니메이션 GIF는 수많은 이미지 또는 프레임을 단일 파일로 결합하고 이를 시퀀스로 표시하여 애니메이션 클립 또는 짧은 비디오를 생성합니다. 색상 제한은 각 프레임에 대해 최대 256개이며 색상 그라디언트가 있는 다른 이미지 및 사진을 재생하는 데 가장 적합하지 않을 수 있습니다.</p>
-<br/>
+<h3 style="margin-top:16px;">
 다음 변환이 지원됩니다.
+</h3>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/apng-to-gif/" style="padding:15px;">APNG 에게 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/bmp-to-gif/" style="padding:15px;">BMP 에게 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/dib-to-gif/" style="padding:15px;">DIB 에게 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/dicom-to-gif/" style="padding:15px;">DICOM 에게 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/djvu-to-gif/" style="padding:15px;">DJVU 에게 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/dng-to-gif/" style="padding:15px;">DNG 에게 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/emf-to-gif/" style="padding:15px;">EMF 에게 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/emz-to-gif/" style="padding:15px;">EMZ 에게 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/jpeg2000-to-gif/" style="padding:15px;">JPEG2000 에게 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/jp2-to-gif/" style="padding:15px;">JP2 에게 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/j2k-to-gif/" style="padding:15px;">J2K 에게 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/jpg-to-gif/" style="padding:15px;">JPG 에게 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/jpeg-to-gif/" style="padding:15px;">JPEG 에게 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/png-to-gif/" style="padding:15px;">PNG 에게 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/tga-to-gif/" style="padding:15px;">TGA 에게 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/tif-to-gif/" style="padding:15px;">TIF 에게 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/tiff-to-gif/" style="padding:15px;">TIFF 에게 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/webp-to-gif/" style="padding:15px;">WEBP 에게 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/wmf-to-gif/" style="padding:15px;">WMF 에게 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/wmz-to-gif/" style="padding:15px;">WMZ 에게 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/svg-to-gif/" style="padding:15px;">SVG 에게 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/svgz-to-gif/" style="padding:15px;">SVGZ 에게 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/eps-to-gif/" style="padding:15px;">EPS 에게 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/cdr-to-gif/" style="padding:15px;">CDR 에게 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/cmx-to-gif/" style="padding:15px;">CMX 에게 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/otg-to-gif/" style="padding:15px;">OTG 에게 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/odg-to-gif/" style="padding:15px;">ODG 에게 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/ico-to-gif/" style="padding:15px;">ICO 에게 GIF</a></div>
+		    <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/apng-to-gif/" style="padding:15px;">APNG 에게 GIF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/bmp-to-gif/" style="padding:15px;">BMP 에게 GIF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/dib-to-gif/" style="padding:15px;">DIB 에게 GIF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/dicom-to-gif/" style="padding:15px;">DICOM 에게 GIF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/djvu-to-gif/" style="padding:15px;">DJVU 에게 GIF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/dng-to-gif/" style="padding:15px;">DNG 에게 GIF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/emf-to-gif/" style="padding:15px;">EMF 에게 GIF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/emz-to-gif/" style="padding:15px;">EMZ 에게 GIF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/jpeg2000-to-gif/" style="padding:15px;">JPEG2000 에게 GIF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/jp2-to-gif/" style="padding:15px;">JP2 에게 GIF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/j2k-to-gif/" style="padding:15px;">J2K 에게 GIF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/jpg-to-gif/" style="padding:15px;">JPG 에게 GIF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/jpeg-to-gif/" style="padding:15px;">JPEG 에게 GIF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/png-to-gif/" style="padding:15px;">PNG 에게 GIF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/tga-to-gif/" style="padding:15px;">TGA 에게 GIF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/tif-to-gif/" style="padding:15px;">TIF 에게 GIF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/tiff-to-gif/" style="padding:15px;">TIFF 에게 GIF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/webp-to-gif/" style="padding:15px;">WEBP 에게 GIF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/wmf-to-gif/" style="padding:15px;">WMF 에게 GIF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/wmz-to-gif/" style="padding:15px;">WMZ 에게 GIF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/svg-to-gif/" style="padding:15px;">SVG 에게 GIF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/svgz-to-gif/" style="padding:15px;">SVGZ 에게 GIF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/eps-to-gif/" style="padding:15px;">EPS 에게 GIF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/cdr-to-gif/" style="padding:15px;">CDR 에게 GIF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/cmx-to-gif/" style="padding:15px;">CMX 에게 GIF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/otg-to-gif/" style="padding:15px;">OTG 에게 GIF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/odg-to-gif/" style="padding:15px;">ODG 에게 GIF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/ico-to-gif/" style="padding:15px;">ICO 에게 GIF</a></div>
                 </div>
         </div>
     </div>

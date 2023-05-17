@@ -14,42 +14,43 @@ description: .NET 라이브러리용 Aspose.Imaging을 사용하면 지원되는
 
 {{% blocks/products/pf/feature-page-section  h2=".NET 라이브러리용 Aspose.Imaging을 사용하여 EMZ(Windows 압축 확장 메타파일) 형식으로 지원되는 모든 변환" %}}
 <p align=justify>Aspose.Imaging 라이브러리를 사용하면 프로그래밍 방식으로 다양한 이미지 형식을 EMZ 이미지로 변환할 수 있습니다. EMZ 파일 확장자를 가진 파일은 압축된 이미지 파일이며, 보다 구체적으로 Windows Compressed Enhanced Metafile 파일이라고 합니다.</p>
-<br/>
+<h3 style="margin-top:16px;">
 다음 변환이 지원됩니다.
+</h3>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/apng-to-emz/" style="padding:15px;">APNG 에게 EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/bmp-to-emz/" style="padding:15px;">BMP 에게 EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/dib-to-emz/" style="padding:15px;">DIB 에게 EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/dicom-to-emz/" style="padding:15px;">DICOM 에게 EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/djvu-to-emz/" style="padding:15px;">DJVU 에게 EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/dng-to-emz/" style="padding:15px;">DNG 에게 EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/emf-to-emz/" style="padding:15px;">EMF 에게 EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/gif-to-emz/" style="padding:15px;">GIF 에게 EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/jpeg2000-to-emz/" style="padding:15px;">JPEG2000 에게 EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/jp2-to-emz/" style="padding:15px;">JP2 에게 EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/j2k-to-emz/" style="padding:15px;">J2K 에게 EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/jpg-to-emz/" style="padding:15px;">JPG 에게 EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/jpeg-to-emz/" style="padding:15px;">JPEG 에게 EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/png-to-emz/" style="padding:15px;">PNG 에게 EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/tga-to-emz/" style="padding:15px;">TGA 에게 EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/tif-to-emz/" style="padding:15px;">TIF 에게 EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/tiff-to-emz/" style="padding:15px;">TIFF 에게 EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/webp-to-emz/" style="padding:15px;">WEBP 에게 EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/wmf-to-emz/" style="padding:15px;">WMF 에게 EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/wmz-to-emz/" style="padding:15px;">WMZ 에게 EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/svg-to-emz/" style="padding:15px;">SVG 에게 EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/svgz-to-emz/" style="padding:15px;">SVGZ 에게 EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/eps-to-emz/" style="padding:15px;">EPS 에게 EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/cdr-to-emz/" style="padding:15px;">CDR 에게 EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/cmx-to-emz/" style="padding:15px;">CMX 에게 EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/otg-to-emz/" style="padding:15px;">OTG 에게 EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/odg-to-emz/" style="padding:15px;">ODG 에게 EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/ico-to-emz/" style="padding:15px;">ICO 에게 EMZ</a></div>
+		    <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/apng-to-emz/" style="padding:15px;">APNG 에게 EMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/bmp-to-emz/" style="padding:15px;">BMP 에게 EMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/dib-to-emz/" style="padding:15px;">DIB 에게 EMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/dicom-to-emz/" style="padding:15px;">DICOM 에게 EMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/djvu-to-emz/" style="padding:15px;">DJVU 에게 EMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/dng-to-emz/" style="padding:15px;">DNG 에게 EMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/emf-to-emz/" style="padding:15px;">EMF 에게 EMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/gif-to-emz/" style="padding:15px;">GIF 에게 EMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/jpeg2000-to-emz/" style="padding:15px;">JPEG2000 에게 EMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/jp2-to-emz/" style="padding:15px;">JP2 에게 EMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/j2k-to-emz/" style="padding:15px;">J2K 에게 EMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/jpg-to-emz/" style="padding:15px;">JPG 에게 EMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/jpeg-to-emz/" style="padding:15px;">JPEG 에게 EMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/png-to-emz/" style="padding:15px;">PNG 에게 EMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/tga-to-emz/" style="padding:15px;">TGA 에게 EMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/tif-to-emz/" style="padding:15px;">TIF 에게 EMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/tiff-to-emz/" style="padding:15px;">TIFF 에게 EMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/webp-to-emz/" style="padding:15px;">WEBP 에게 EMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/wmf-to-emz/" style="padding:15px;">WMF 에게 EMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/wmz-to-emz/" style="padding:15px;">WMZ 에게 EMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/svg-to-emz/" style="padding:15px;">SVG 에게 EMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/svgz-to-emz/" style="padding:15px;">SVGZ 에게 EMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/eps-to-emz/" style="padding:15px;">EPS 에게 EMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/cdr-to-emz/" style="padding:15px;">CDR 에게 EMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/cmx-to-emz/" style="padding:15px;">CMX 에게 EMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/otg-to-emz/" style="padding:15px;">OTG 에게 EMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/odg-to-emz/" style="padding:15px;">ODG 에게 EMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/ico-to-emz/" style="padding:15px;">ICO 에게 EMZ</a></div>
                 </div>
         </div>
     </div>

@@ -14,41 +14,42 @@ description: .NET 라이브러리용 Aspose.Imaging을 사용하면 지원되는
 
 {{% blocks/products/pf/feature-page-section  h2=".NET 라이브러리용 Aspose.Imaging을 사용하여 J2K(웨이블릿 압축 이미지) 형식으로 지원되는 모든 변환" %}}
 <p align=justify>Aspose.Imaging 라이브러리를 사용하면 프로그래밍 방식으로 다양한 이미지 형식을 J2K 이미지로 변환할 수 있습니다. J2K 파일은 DCT 압축 대신 웨이블릿 압축을 사용하여 압축한 이미지입니다.</p>
-<br/>
+<h3 style="margin-top:16px;">
 다음 변환이 지원됩니다.
+</h3>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/apng-to-j2k/" style="padding:15px;">APNG 에게 J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/bmp-to-j2k/" style="padding:15px;">BMP 에게 J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/dib-to-j2k/" style="padding:15px;">DIB 에게 J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/dicom-to-j2k/" style="padding:15px;">DICOM 에게 J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/djvu-to-j2k/" style="padding:15px;">DJVU 에게 J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/dng-to-j2k/" style="padding:15px;">DNG 에게 J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/emf-to-j2k/" style="padding:15px;">EMF 에게 J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/emz-to-j2k/" style="padding:15px;">EMZ 에게 J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/gif-to-j2k/" style="padding:15px;">GIF 에게 J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/jp2-to-j2k/" style="padding:15px;">JP2 에게 J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/jpg-to-j2k/" style="padding:15px;">JPG 에게 J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/jpeg-to-j2k/" style="padding:15px;">JPEG 에게 J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/png-to-j2k/" style="padding:15px;">PNG 에게 J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/tga-to-j2k/" style="padding:15px;">TGA 에게 J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/tif-to-j2k/" style="padding:15px;">TIF 에게 J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/tiff-to-j2k/" style="padding:15px;">TIFF 에게 J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/webp-to-j2k/" style="padding:15px;">WEBP 에게 J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/wmf-to-j2k/" style="padding:15px;">WMF 에게 J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/wmz-to-j2k/" style="padding:15px;">WMZ 에게 J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/svg-to-j2k/" style="padding:15px;">SVG 에게 J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/svgz-to-j2k/" style="padding:15px;">SVGZ 에게 J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/eps-to-j2k/" style="padding:15px;">EPS 에게 J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/cdr-to-j2k/" style="padding:15px;">CDR 에게 J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/cmx-to-j2k/" style="padding:15px;">CMX 에게 J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/otg-to-j2k/" style="padding:15px;">OTG 에게 J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/odg-to-j2k/" style="padding:15px;">ODG 에게 J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/ico-to-j2k/" style="padding:15px;">ICO 에게 J2K</a></div>
+		    <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/apng-to-j2k/" style="padding:15px;">APNG 에게 J2K</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/bmp-to-j2k/" style="padding:15px;">BMP 에게 J2K</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/dib-to-j2k/" style="padding:15px;">DIB 에게 J2K</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/dicom-to-j2k/" style="padding:15px;">DICOM 에게 J2K</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/djvu-to-j2k/" style="padding:15px;">DJVU 에게 J2K</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/dng-to-j2k/" style="padding:15px;">DNG 에게 J2K</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/emf-to-j2k/" style="padding:15px;">EMF 에게 J2K</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/emz-to-j2k/" style="padding:15px;">EMZ 에게 J2K</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/gif-to-j2k/" style="padding:15px;">GIF 에게 J2K</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/jp2-to-j2k/" style="padding:15px;">JP2 에게 J2K</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/jpg-to-j2k/" style="padding:15px;">JPG 에게 J2K</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/jpeg-to-j2k/" style="padding:15px;">JPEG 에게 J2K</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/png-to-j2k/" style="padding:15px;">PNG 에게 J2K</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/tga-to-j2k/" style="padding:15px;">TGA 에게 J2K</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/tif-to-j2k/" style="padding:15px;">TIF 에게 J2K</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/tiff-to-j2k/" style="padding:15px;">TIFF 에게 J2K</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/webp-to-j2k/" style="padding:15px;">WEBP 에게 J2K</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/wmf-to-j2k/" style="padding:15px;">WMF 에게 J2K</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/wmz-to-j2k/" style="padding:15px;">WMZ 에게 J2K</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/svg-to-j2k/" style="padding:15px;">SVG 에게 J2K</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/svgz-to-j2k/" style="padding:15px;">SVGZ 에게 J2K</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/eps-to-j2k/" style="padding:15px;">EPS 에게 J2K</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/cdr-to-j2k/" style="padding:15px;">CDR 에게 J2K</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/cmx-to-j2k/" style="padding:15px;">CMX 에게 J2K</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/otg-to-j2k/" style="padding:15px;">OTG 에게 J2K</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/odg-to-j2k/" style="padding:15px;">ODG 에게 J2K</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/net/conversion/ico-to-j2k/" style="padding:15px;">ICO 에게 J2K</a></div>
                 </div>
         </div>
     </div>

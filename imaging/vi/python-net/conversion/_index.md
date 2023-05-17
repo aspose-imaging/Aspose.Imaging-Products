@@ -35,34 +35,34 @@ Sử dụng Aspose.Imaging cho Python qua .NET API, quá trình chuyển đổi 
         <div class="container">
 		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/vi/python-net/conversion/apng-to-bmp/" style="padding:15px;">APNG ĐẾN BMP</a>
+		      <p><a href="/imaging/vi/python-net/conversion/apng-to-bmp/" style="padding:15px;">APNG ĐẾN BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/vi/python-net/conversion/cdr-to-bmp/" style="padding:15px;">CDR ĐẾN BMP</a>
+		      <p><a href="/imaging/vi/python-net/conversion/cdr-to-bmp/" style="padding:15px;">CDR ĐẾN BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/vi/python-net/conversion/dib-to-bmp/" style="padding:15px;">DIB ĐẾN BMP</a>
+		      <p><a href="/imaging/vi/python-net/conversion/dib-to-bmp/" style="padding:15px;">DIB ĐẾN BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/vi/python-net/conversion/dicom-to-bmp/" style="padding:15px;">DICOM ĐẾN BMP</a>
+		      <p><a href="/imaging/vi/python-net/conversion/dicom-to-bmp/" style="padding:15px;">DICOM ĐẾN BMP</a></p>
 		   </div>
  		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/vi/python-net/conversion/djvu-to-bmp/" style="padding:15px;">DJVU ĐẾN BMP</a>
+		      <p><a href="/imaging/vi/python-net/conversion/djvu-to-bmp/" style="padding:15px;">DJVU ĐẾN BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/vi/python-net/conversion/dng-to-bmp/" style="padding:15px;">DNG ĐẾN BMP</a>
+		      <p><a href="/imaging/vi/python-net/conversion/dng-to-bmp/" style="padding:15px;">DNG ĐẾN BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/vi/python-net/conversion/emf-to-bmp/" style="padding:15px;">EMF ĐẾN BMP</a>
+		      <p><a href="/imaging/vi/python-net/conversion/emf-to-bmp/" style="padding:15px;">EMF ĐẾN BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/vi/python-net/conversion/emz-to-bmp/" style="padding:15px;">EMZ ĐẾN BMP</a>
+		      <p><a href="/imaging/vi/python-net/conversion/emz-to-bmp/" style="padding:15px;">EMZ ĐẾN BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/vi/python-net/conversion/eps-to-bmp/" style="padding:15px;">EPS ĐẾN BMP</a>
+		      <p><a href="/imaging/vi/python-net/conversion/eps-to-bmp/" style="padding:15px;">EPS ĐẾN BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/vi/python-net/conversion/gif-to-bmp/" style="padding:15px;">GIF ĐẾN BMP</a>
+		      <p><a href="/imaging/vi/python-net/conversion/gif-to-bmp/" style="padding:15px;">GIF ĐẾN BMP</a></p>
 		   </div>
 		</div>
 	</div>
@@ -86,34 +86,34 @@ Quá trình chuyển đổi hình ảnh raster sang PDF cũng giống như quá 
         <div class="container">
 		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/vi/python-net/conversion/apng-to-PDF/" style="padding:15px;">APNG ĐẾN PDF</a>
+		      <p><a href="/imaging/vi/python-net/conversion/apng-to-PDF/" style="padding:15px;">APNG ĐẾN PDF</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/vi/python-net/conversion/jpeg-to-PDF/" style="padding:15px;">JPEG ĐẾN PDF</a>
+		      <p><a href="/imaging/vi/python-net/conversion/jpeg-to-PDF/" style="padding:15px;">JPEG ĐẾN PDF</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/vi/python-net/conversion/bmp-to-PDF/" style="padding:15px;">BMP ĐẾN PDF</a>
+		      <p><a href="/imaging/vi/python-net/conversion/bmp-to-PDF/" style="padding:15px;">BMP ĐẾN PDF</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/vi/python-net/conversion/odg-to-PDF/" style="padding:15px;">ODG ĐẾN PDF</a>
+		      <p><a href="/imaging/vi/python-net/conversion/odg-to-PDF/" style="padding:15px;">ODG ĐẾN PDF</a></p>
 		   </div>
  		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/vi/python-net/conversion/otg-to-PDF/" style="padding:15px;">OTG ĐẾN PDF</a>
+		      <p><a href="/imaging/vi/python-net/conversion/otg-to-PDF/" style="padding:15px;">OTG ĐẾN PDF</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/vi/python-net/conversion/png-to-PDF/" style="padding:15px;">PNG ĐẾN PDF</a>
+		      <p><a href="/imaging/vi/python-net/conversion/png-to-PDF/" style="padding:15px;">PNG ĐẾN PDF</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/vi/python-net/conversion/svg-to-PDF/" style="padding:15px;">SVG ĐẾN PDF</a>
+		      <p><a href="/imaging/vi/python-net/conversion/svg-to-PDF/" style="padding:15px;">SVG ĐẾN PDF</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/vi/python-net/conversion/emz-to-PDF/" style="padding:15px;">EMZ ĐẾN PDF</a>
+		      <p><a href="/imaging/vi/python-net/conversion/emz-to-PDF/" style="padding:15px;">EMZ ĐẾN PDF</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/vi/python-net/conversion/eps-to-PDF/" style="padding:15px;">EPS ĐẾN PDF</a>
+		      <p><a href="/imaging/vi/python-net/conversion/eps-to-PDF/" style="padding:15px;">EPS ĐẾN PDF</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/vi/python-net/conversion/gif-to-PDF/" style="padding:15px;">GIF ĐẾN PDF</a>
+		      <p><a href="/imaging/vi/python-net/conversion/gif-to-PDF/" style="padding:15px;">GIF ĐẾN PDF</a></p>
 		   </div>
 		</div>
 	</div>
@@ -137,13 +137,13 @@ Chuyển đổi hình ảnh SVG giống nhau, Tải hình ảnh SVG, Sử dụng
         <div class="container">
 		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/vi/python-net/conversion/SVG-to-bmp/" style="padding:15px;">SVG ĐẾN BMP</a>
+		      <p><a href="/imaging/vi/python-net/conversion/SVG-to-bmp/" style="padding:15px;">SVG ĐẾN BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/vi/python-net/conversion/SVG-to-jpeg/" style="padding:15px;">SVG ĐẾN JPEG</a>
+		      <p><a href="/imaging/vi/python-net/conversion/SVG-to-jpeg/" style="padding:15px;">SVG ĐẾN JPEG</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/vi/python-net/conversion/SVG-to-png/" style="padding:15px;">SVG ĐẾN PNG</a>
+		      <p><a href="/imaging/vi/python-net/conversion/SVG-to-png/" style="padding:15px;">SVG ĐẾN PNG</a></p>
 		   </div>		   
 		</div>
 	</div>
@@ -159,35 +159,35 @@ Dưới đây là danh sách đầy đủ các định dạng hình ảnh mà b�
         <div class="container">
                 <hr style="margin-left:-20px;"/>
 		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/apng/" style="padding:15px;">chuyển đổi từ APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/bmp/" style="padding:15px;">chuyển đổi từ BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/dib/" style="padding:15px;">chuyển đổi từ DIB</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/dicom/" style="padding:15px;">chuyển đổi từ DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/djvu/" style="padding:15px;">chuyển đổi từ DJVU</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/dng/" style="padding:15px;">chuyển đổi từ DNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/emf/" style="padding:15px;">chuyển đổi từ EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/emz/" style="padding:15px;">chuyển đổi từ EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/gif/" style="padding:15px;">chuyển đổi từ GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/jpeg2000/" style="padding:15px;">chuyển đổi từ JPEG2000</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/jp2/" style="padding:15px;">chuyển đổi từ JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/j2k/" style="padding:15px;">chuyển đổi từ J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/jpg/" style="padding:15px;">chuyển đổi từ JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/jpeg/" style="padding:15px;">chuyển đổi từ JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/png/" style="padding:15px;">chuyển đổi từ PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/tga/" style="padding:15px;">chuyển đổi từ TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/tif/" style="padding:15px;">chuyển đổi từ TIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/tiff/" style="padding:15px;">chuyển đổi từ TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/webp/" style="padding:15px;">chuyển đổi từ WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/wmf/" style="padding:15px;">chuyển đổi từ WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/wmz/" style="padding:15px;">chuyển đổi từ WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/svg/" style="padding:15px;">chuyển đổi từ SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/svgz/" style="padding:15px;">chuyển đổi từ SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/eps/" style="padding:15px;">chuyển đổi từ EPS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/cdr/" style="padding:15px;">chuyển đổi từ CDR</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/cmx/" style="padding:15px;">chuyển đổi từ CMX</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/otg/" style="padding:15px;">chuyển đổi từ OTG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/odg/" style="padding:15px;">chuyển đổi từ ODG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/ico/" style="padding:15px;">chuyển đổi từ ICO</a></div>
+		    <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/apng/" style="padding:15px;">chuyển đổi từ APNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/bmp/" style="padding:15px;">chuyển đổi từ BMP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/dib/" style="padding:15px;">chuyển đổi từ DIB</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/dicom/" style="padding:15px;">chuyển đổi từ DICOM</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/djvu/" style="padding:15px;">chuyển đổi từ DJVU</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/dng/" style="padding:15px;">chuyển đổi từ DNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/emf/" style="padding:15px;">chuyển đổi từ EMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/emz/" style="padding:15px;">chuyển đổi từ EMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/gif/" style="padding:15px;">chuyển đổi từ GIF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/jpeg2000/" style="padding:15px;">chuyển đổi từ JPEG2000</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/jp2/" style="padding:15px;">chuyển đổi từ JP2</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/j2k/" style="padding:15px;">chuyển đổi từ J2K</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/jpg/" style="padding:15px;">chuyển đổi từ JPG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/jpeg/" style="padding:15px;">chuyển đổi từ JPEG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/png/" style="padding:15px;">chuyển đổi từ PNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/tga/" style="padding:15px;">chuyển đổi từ TGA</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/tif/" style="padding:15px;">chuyển đổi từ TIF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/tiff/" style="padding:15px;">chuyển đổi từ TIFF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/webp/" style="padding:15px;">chuyển đổi từ WEBP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/wmf/" style="padding:15px;">chuyển đổi từ WMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/wmz/" style="padding:15px;">chuyển đổi từ WMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/svg/" style="padding:15px;">chuyển đổi từ SVG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/svgz/" style="padding:15px;">chuyển đổi từ SVGZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/eps/" style="padding:15px;">chuyển đổi từ EPS</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/cdr/" style="padding:15px;">chuyển đổi từ CDR</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/cmx/" style="padding:15px;">chuyển đổi từ CMX</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/otg/" style="padding:15px;">chuyển đổi từ OTG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/odg/" style="padding:15px;">chuyển đổi từ ODG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/from/ico/" style="padding:15px;">chuyển đổi từ ICO</a></div>
                 </div>
         </div>
     </div>
@@ -202,31 +202,31 @@ Dưới đây là danh sách đầy đủ các định dạng hình ảnh mà b�
         <div class="container">
 	        <hr style="margin-left:-20px;"/>
 		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/to/bmp/" style="padding:15px;">Chuyển đổi sang BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/to/gif/" style="padding:15px;">Chuyển đổi sang GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/to/dicom/" style="padding:15px;">Chuyển đổi sang DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/to/emf/" style="padding:15px;">Chuyển đổi sang EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/to/jpg/" style="padding:15px;">Chuyển đổi sang JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/to/jpeg/" style="padding:15px;">Chuyển đổi sang JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/to/jp2/" style="padding:15px;">Chuyển đổi sang JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/to/j2k/" style="padding:15px;">Chuyển đổi sang J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/to/jpeg2000/" style="padding:15px;">Chuyển đổi sang JPEG2000</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/to/png/" style="padding:15px;">Chuyển đổi sang PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/to/psd/" style="padding:15px;">Chuyển đổi sang PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/to/dxf/" style="padding:15px;">Chuyển đổi sang DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/to/svg/" style="padding:15px;">Chuyển đổi sang SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/to/tiff/" style="padding:15px;">Chuyển đổi sang TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/to/webp/" style="padding:15px;">Chuyển đổi sang WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/to/wmf/" style="padding:15px;">Chuyển đổi sang WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/to/pdf/" style="padding:15px;">Chuyển đổi sang PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/to/html/" style="padding:15px;">Chuyển đổi sang HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/to/emz/" style="padding:15px;">Chuyển đổi sang EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/to/wmz/" style="padding:15px;">Chuyển đổi sang WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/to/tga/" style="padding:15px;">Chuyển đổi sang TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/to/svgz/" style="padding:15px;">Chuyển đổi sang SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/to/canvas/" style="padding:15px;">Chuyển đổi sang CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/to/ico/" style="padding:15px;">Chuyển đổi sang ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/to/apng/" style="padding:15px;">Chuyển đổi sang APNG</a></div>
+		    <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/to/bmp/" style="padding:15px;">Chuyển đổi sang BMP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/to/gif/" style="padding:15px;">Chuyển đổi sang GIF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/to/dicom/" style="padding:15px;">Chuyển đổi sang DICOM</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/to/emf/" style="padding:15px;">Chuyển đổi sang EMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/to/jpg/" style="padding:15px;">Chuyển đổi sang JPG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/to/jpeg/" style="padding:15px;">Chuyển đổi sang JPEG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/to/jp2/" style="padding:15px;">Chuyển đổi sang JP2</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/to/j2k/" style="padding:15px;">Chuyển đổi sang J2K</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/to/jpeg2000/" style="padding:15px;">Chuyển đổi sang JPEG2000</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/to/png/" style="padding:15px;">Chuyển đổi sang PNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/to/psd/" style="padding:15px;">Chuyển đổi sang PSD</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/to/dxf/" style="padding:15px;">Chuyển đổi sang DXF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/to/svg/" style="padding:15px;">Chuyển đổi sang SVG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/to/tiff/" style="padding:15px;">Chuyển đổi sang TIFF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/to/webp/" style="padding:15px;">Chuyển đổi sang WEBP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/to/wmf/" style="padding:15px;">Chuyển đổi sang WMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/to/pdf/" style="padding:15px;">Chuyển đổi sang PDF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/to/html/" style="padding:15px;">Chuyển đổi sang HTML</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/to/emz/" style="padding:15px;">Chuyển đổi sang EMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/to/wmz/" style="padding:15px;">Chuyển đổi sang WMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/to/tga/" style="padding:15px;">Chuyển đổi sang TGA</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/to/svgz/" style="padding:15px;">Chuyển đổi sang SVGZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/to/canvas/" style="padding:15px;">Chuyển đổi sang CANVAS</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/to/ico/" style="padding:15px;">Chuyển đổi sang ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/vi/python-net/conversion/to/apng/" style="padding:15px;">Chuyển đổi sang APNG</a></div>
                 </div>
         </div>
     </div>

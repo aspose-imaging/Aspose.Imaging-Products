@@ -14,41 +14,42 @@ description: आप विभिन्न स्वरूपों से JP2 �
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose का उपयोग करके, प्रत्येक समर्थित चित्र प्रारूपों को Aspose.Imaging for Python के माध्यम से .NET का उपयोग करके JP2 में परिवर्तित किया जा सकता है" %}}
 <p align=justify>Aspose.Imaging API का उपयोग Python भाषा का उपयोग करके अन्य समर्थित छवि प्रारूपों को प्रोग्रामेटिक रूप से JP2 में बदलने के लिए किया जा सकता है।</p>
-<br/>
+<h3 style="margin-top:16px;">
 अगले उपलब्ध रूपांतरण हैं:
+</h3>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
 		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/apng-to-jp2/" style="padding:15px;">APNG को JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/bmp-to-jp2/" style="padding:15px;">BMP को JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/dib-to-jp2/" style="padding:15px;">DIB को JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/dicom-to-jp2/" style="padding:15px;">DICOM को JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/djvu-to-jp2/" style="padding:15px;">DJVU को JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/dng-to-jp2/" style="padding:15px;">DNG को JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/emf-to-jp2/" style="padding:15px;">EMF को JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/emz-to-jp2/" style="padding:15px;">EMZ को JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/gif-to-jp2/" style="padding:15px;">GIF को JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/j2k-to-jp2/" style="padding:15px;">J2K को JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/jpg-to-jp2/" style="padding:15px;">JPG को JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/jpeg-to-jp2/" style="padding:15px;">JPEG को JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/png-to-jp2/" style="padding:15px;">PNG को JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/tga-to-jp2/" style="padding:15px;">TGA को JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/tif-to-jp2/" style="padding:15px;">TIF को JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/tiff-to-jp2/" style="padding:15px;">TIFF को JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/webp-to-jp2/" style="padding:15px;">WEBP को JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/wmf-to-jp2/" style="padding:15px;">WMF को JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/wmz-to-jp2/" style="padding:15px;">WMZ को JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/svg-to-jp2/" style="padding:15px;">SVG को JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/svgz-to-jp2/" style="padding:15px;">SVGZ को JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/eps-to-jp2/" style="padding:15px;">EPS को JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/cdr-to-jp2/" style="padding:15px;">CDR को JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/cmx-to-jp2/" style="padding:15px;">CMX को JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/otg-to-jp2/" style="padding:15px;">OTG को JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/odg-to-jp2/" style="padding:15px;">ODG को JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/ico-to-jp2/" style="padding:15px;">ICO को JP2</a></div>
+		    <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/apng-to-jp2/" style="padding:15px;">APNG को JP2</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/bmp-to-jp2/" style="padding:15px;">BMP को JP2</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/dib-to-jp2/" style="padding:15px;">DIB को JP2</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/dicom-to-jp2/" style="padding:15px;">DICOM को JP2</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/djvu-to-jp2/" style="padding:15px;">DJVU को JP2</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/dng-to-jp2/" style="padding:15px;">DNG को JP2</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/emf-to-jp2/" style="padding:15px;">EMF को JP2</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/emz-to-jp2/" style="padding:15px;">EMZ को JP2</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/gif-to-jp2/" style="padding:15px;">GIF को JP2</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/j2k-to-jp2/" style="padding:15px;">J2K को JP2</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/jpg-to-jp2/" style="padding:15px;">JPG को JP2</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/jpeg-to-jp2/" style="padding:15px;">JPEG को JP2</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/png-to-jp2/" style="padding:15px;">PNG को JP2</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/tga-to-jp2/" style="padding:15px;">TGA को JP2</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/tif-to-jp2/" style="padding:15px;">TIF को JP2</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/tiff-to-jp2/" style="padding:15px;">TIFF को JP2</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/webp-to-jp2/" style="padding:15px;">WEBP को JP2</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/wmf-to-jp2/" style="padding:15px;">WMF को JP2</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/wmz-to-jp2/" style="padding:15px;">WMZ को JP2</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/svg-to-jp2/" style="padding:15px;">SVG को JP2</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/svgz-to-jp2/" style="padding:15px;">SVGZ को JP2</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/eps-to-jp2/" style="padding:15px;">EPS को JP2</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/cdr-to-jp2/" style="padding:15px;">CDR को JP2</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/cmx-to-jp2/" style="padding:15px;">CMX को JP2</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/otg-to-jp2/" style="padding:15px;">OTG को JP2</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/odg-to-jp2/" style="padding:15px;">ODG को JP2</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/ico-to-jp2/" style="padding:15px;">ICO को JP2</a></div>
                 </div>
         </div>
     </div>
