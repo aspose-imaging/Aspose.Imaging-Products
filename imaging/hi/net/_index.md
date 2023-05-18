@@ -1,7 +1,7 @@
 ﻿---
 title: C# .NET क्रॉस-प्लेटफ़ॉर्म इमेज लाइब्रेरी API - Aspose 
 weight: 960
-url: /hi/net 
+url: /hi/net/ 
 lang: hi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -9,11 +9,11 @@ description: इमेज प्रोसेसिंग और मैनिप�
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1=".NET क्रॉस-प्लेटफ़ॉर्म लाइब्रेरी - इमेज प्रोसेसिंग के लिए एपीआई" h2="किसी भी छवि संपादक की आवश्यकता के बिना छवियों को बनाएं, लोड करें, हेरफेर करें या परिवर्तित करें।" downloadFreeTrialText="नि: शुल्क परीक्षण डाउनलोड करें" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/imaging/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET क्रॉस-प्लेटफ़ॉर्म लाइब्रेरी - इमेज प्रोसेसिंग के लिए एपीआई" h2="किसी भी छवि संपादक की आवश्यकता के बिना छवियों को बनाएं, लोड करें, हेरफेर करें या परिवर्तित करें।" downloadFreeTrialText="नि: शुल्क परीक्षण डाउनलोड करें" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/imaging/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for .NET" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-net.svg" 
-liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://purchase.aspose.com/pricing/imaging/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/imaging/net" installationsDocsLink="https://docs.aspose.com/imaging/net/installation" nugetLink="https://www.nuget.org/packages/aspose.imaging" nugetPackageName="Aspose.Imaging" directDownloadLink="https://downloads.aspose.com/imaging/net" liveDemosText="लाइव डेमो" overviewText="अवलोकन" featuresText="विशेषताएँ" resourcesText="साधन" pricingText="मूल्य निर्धारण" downloadText="डाउनलोड" learnText="सीखना" buyText="खरीदना" >}}
+liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/net/" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/net/" installationsDocsLink="https://docs.aspose.com/imaging/net/installation/" nugetLink="https://www.nuget.org/packages/aspose.imaging" nugetPackageName="Aspose.Imaging" directDownloadLink="https://downloads.aspose.com/imaging/net/" liveDemosText="लाइव डेमो" overviewText="अवलोकन" featuresText="विशेषताएँ" resourcesText="साधन" pricingText="मूल्य निर्धारण" downloadText="डाउनलोड" learnText="सीखना" buyText="खरीदना" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="एक पर" carousel1Text2="नज़र" carousel2Text1="प्लैटफ़ॉर्म" carousel2Text2="आजादी" carousel3Text1="समर्थित फ़ाइल" carousel3Text2="प्रारूप">}}
 <p align="justify">
@@ -322,7 +322,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
 
 <!--Feature-section Start-->
 <div class="container-fluid features-section bg-gray singleproduct">
- <a class="anchor" id="features" name="features">
+ <a class="anchor" href="#" id="features" name="features">
  </a>
  <div class="row">
   <div class="container">
@@ -614,27 +614,27 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
 
 {{< blocks/products/pf/support-learning-resources supportAndLearningResourcesText="समर्थन और सीखने के संसाधन">}}
 {{< blocks/products/pf/slr-tab tabTitle="सीखने के संसाधन" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="प्रलेखन" href="https://docs.aspose.com/imaging/net" >}}
-{{< blocks/products/pf/slr-element name="सोर्स कोड" href="https://github.com/aspose-imaging/Aspose.Imaging-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="एपीआई संदर्भ" href="https://apireference.aspose.com/net/imaging" >}}
-{{< blocks/products/pf/slr-element name="ट्यूटोरियल वीडियो" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="प्रलेखन" href="https://docs.aspose.com/imaging/net/" >}}
+{{< blocks/products/pf/slr-element name="सोर्स कोड" href="https://github.com/aspose-imaging/Aspose.Imaging-for-.NET/" >}}
+{{< blocks/products/pf/slr-element name="एपीआई संदर्भ" href="https://apireference.aspose.com/net/imaging/" >}}
+{{< blocks/products/pf/slr-element name="ट्यूटोरियल वीडियो" href="https://www.youtube.com/user/asposevideo/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="उत्पाद समर्थन" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="मुफ्त समर्थन" href="https://forum.aspose.com/c/imaging" >}}
+{{< blocks/products/pf/slr-element name="मुफ्त समर्थन" href="https://forum.aspose.com/c/imaging/" >}}
 {{< blocks/products/pf/slr-element name="भुगतान समर्थन" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="ब्लॉग" href="https://blog.aspose.com/category/imaging/" >}}
 {{< blocks/products/pf/slr-element name="रिलीज नोट्स" href="https://docs.aspose.com/imaging/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="क्यों Aspose.इमेजिंग के लिए .NET" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="ग्राहकों की सूची" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="ग्राहकों की सूची" href="https://company.aspose.com/customers/" >}}
 {{< blocks/products/pf/slr-element name="सफलता की कहानियां" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/imaging/net" downloadFreeTrialText="नि: शुल्क परीक्षण डाउनलोड करें" pricingInformationText="लागत - निर्धारण संबंधी जानकारी" pricingInformationLink="https://purchase.aspose.com/pricing/imaging/net" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/imaging/net/" downloadFreeTrialText="नि: शुल्क परीक्षण डाउनलोड करें" pricingInformationText="लागत - निर्धारण संबंधी जानकारी" pricingInformationLink="https://purchase.aspose.com/pricing/imaging/net/" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Imaging " description="Aspose.Imaging नीचे सूचीबद्ध अन्य लोकप्रिय विकास परिवेशों के लिए अलग-अलग इमेजिंग API प्रदान करता है:" >}}
 

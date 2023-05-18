@@ -2,7 +2,7 @@
 ---
 title: המרת פורמטים של פייתון 
 weight: 3920
-url: /he/python-net/conversion 
+url: /he/python-net/conversion/ 
 lang: he
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -33,36 +33,36 @@ Aspose.Imaging עבור Python באמצעות .NET API מכיל תכונות ש�
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
-		<div class="row other-converters">
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/he/python-net/conversion/apng-to-bmp/">APNG ל BMP</a>
+		      <p><a href="/imaging/he/python-net/conversion/apng-to-bmp/" style="padding:15px;">APNG ל BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/he/python-net/conversion/cdr-to-bmp/">CDR ל BMP</a>
+		      <p><a href="/imaging/he/python-net/conversion/cdr-to-bmp/" style="padding:15px;">CDR ל BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/he/python-net/conversion/dib-to-bmp/">DIB ל BMP</a>
+		      <p><a href="/imaging/he/python-net/conversion/dib-to-bmp/" style="padding:15px;">DIB ל BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/he/python-net/conversion/dicom-to-bmp/">DICOM ל BMP</a>
+		      <p><a href="/imaging/he/python-net/conversion/dicom-to-bmp/" style="padding:15px;">DICOM ל BMP</a></p>
 		   </div>
  		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/he/python-net/conversion/djvu-to-bmp/">DJVU ל BMP</a>
+		      <p><a href="/imaging/he/python-net/conversion/djvu-to-bmp/" style="padding:15px;">DJVU ל BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/he/python-net/conversion/dng-to-bmp/">DNG ל BMP</a>
+		      <p><a href="/imaging/he/python-net/conversion/dng-to-bmp/" style="padding:15px;">DNG ל BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/he/python-net/conversion/emf-to-bmp/">EMF ל BMP</a>
+		      <p><a href="/imaging/he/python-net/conversion/emf-to-bmp/" style="padding:15px;">EMF ל BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/he/python-net/conversion/emz-to-bmp/">EMZ ל BMP</a>
+		      <p><a href="/imaging/he/python-net/conversion/emz-to-bmp/" style="padding:15px;">EMZ ל BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/he/python-net/conversion/eps-to-bmp/">EPS ל BMP</a>
+		      <p><a href="/imaging/he/python-net/conversion/eps-to-bmp/" style="padding:15px;">EPS ל BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/he/python-net/conversion/gif-to-bmp/">GIF ל BMP</a>
+		      <p><a href="/imaging/he/python-net/conversion/gif-to-bmp/" style="padding:15px;">GIF ל BMP</a></p>
 		   </div>
 		</div>
 	</div>
@@ -84,36 +84,36 @@ Aspose.Imaging עבור Python באמצעות .NET API מכיל תכונות ש�
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
-		<div class="row other-converters">
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/he/python-net/conversion/apng-to-PDF/">APNG ל PDF</a>
+		      <p><a href="/imaging/he/python-net/conversion/apng-to-PDF/" style="padding:15px;">APNG ל PDF</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/he/python-net/conversion/jpeg-to-PDF/">JPEG ל PDF</a>
+		      <p><a href="/imaging/he/python-net/conversion/jpeg-to-PDF/" style="padding:15px;">JPEG ל PDF</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/he/python-net/conversion/bmp-to-PDF/">BMP ל PDF</a>
+		      <p><a href="/imaging/he/python-net/conversion/bmp-to-PDF/" style="padding:15px;">BMP ל PDF</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/he/python-net/conversion/odg-to-PDF/">ODG ל PDF</a>
+		      <p><a href="/imaging/he/python-net/conversion/odg-to-PDF/" style="padding:15px;">ODG ל PDF</a></p>
 		   </div>
  		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/he/python-net/conversion/otg-to-PDF/">OTG ל PDF</a>
+		      <p><a href="/imaging/he/python-net/conversion/otg-to-PDF/" style="padding:15px;">OTG ל PDF</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/he/python-net/conversion/png-to-PDF/">PNG ל PDF</a>
+		      <p><a href="/imaging/he/python-net/conversion/png-to-PDF/" style="padding:15px;">PNG ל PDF</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/he/python-net/conversion/svg-to-PDF/">SVG ל PDF</a>
+		      <p><a href="/imaging/he/python-net/conversion/svg-to-PDF/" style="padding:15px;">SVG ל PDF</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/he/python-net/conversion/emz-to-PDF/">EMZ ל PDF</a>
+		      <p><a href="/imaging/he/python-net/conversion/emz-to-PDF/" style="padding:15px;">EMZ ל PDF</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/he/python-net/conversion/eps-to-PDF/">EPS ל PDF</a>
+		      <p><a href="/imaging/he/python-net/conversion/eps-to-PDF/" style="padding:15px;">EPS ל PDF</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/he/python-net/conversion/gif-to-PDF/">GIF ל PDF</a>
+		      <p><a href="/imaging/he/python-net/conversion/gif-to-PDF/" style="padding:15px;">GIF ל PDF</a></p>
 		   </div>
 		</div>
 	</div>
@@ -135,15 +135,15 @@ Aspose.Imaging עבור Python באמצעות .NET API מכיל תכונות ש�
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
-		<div class="row other-converters">
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/he/python-net/conversion/SVG-to-bmp/">SVG ל BMP</a>
+		      <p><a href="/imaging/he/python-net/conversion/SVG-to-bmp/" style="padding:15px;">SVG ל BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/he/python-net/conversion/SVG-to-jpeg/">SVG ל JPEG</a>
+		      <p><a href="/imaging/he/python-net/conversion/SVG-to-jpeg/" style="padding:15px;">SVG ל JPEG</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/he/python-net/conversion/SVG-to-png/">SVG ל PNG</a>
+		      <p><a href="/imaging/he/python-net/conversion/SVG-to-png/" style="padding:15px;">SVG ל PNG</a></p>
 		   </div>		   
 		</div>
 	</div>
@@ -158,36 +158,36 @@ Aspose.Imaging עבור Python באמצעות .NET API מכיל תכונות ש�
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
                 <hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/apng" >המר מ APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/bmp" >המר מ BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/dib" >המר מ DIB</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/dicom" >המר מ DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/djvu" >המר מ DJVU</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/dng" >המר מ DNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/emf" >המר מ EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/emz" >המר מ EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/gif" >המר מ GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/jpeg2000" >המר מ JPEG2000</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/jp2" >המר מ JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/j2k" >המר מ J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/jpg" >המר מ JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/jpeg" >המר מ JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/png" >המר מ PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/tga" >המר מ TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/tif" >המר מ TIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/tiff" >המר מ TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/webp" >המר מ WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/wmf" >המר מ WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/wmz" >המר מ WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/svg" >המר מ SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/svgz" >המר מ SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/eps" >המר מ EPS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/cdr" >המר מ CDR</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/cmx" >המר מ CMX</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/otg" >המר מ OTG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/odg" >המר מ ODG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/ico" >המר מ ICO</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/apng/" style="padding:15px;">המר מ APNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/bmp/" style="padding:15px;">המר מ BMP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/dib/" style="padding:15px;">המר מ DIB</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/dicom/" style="padding:15px;">המר מ DICOM</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/djvu/" style="padding:15px;">המר מ DJVU</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/dng/" style="padding:15px;">המר מ DNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/emf/" style="padding:15px;">המר מ EMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/emz/" style="padding:15px;">המר מ EMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/gif/" style="padding:15px;">המר מ GIF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/jpeg2000/" style="padding:15px;">המר מ JPEG2000</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/jp2/" style="padding:15px;">המר מ JP2</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/j2k/" style="padding:15px;">המר מ J2K</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/jpg/" style="padding:15px;">המר מ JPG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/jpeg/" style="padding:15px;">המר מ JPEG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/png/" style="padding:15px;">המר מ PNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/tga/" style="padding:15px;">המר מ TGA</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/tif/" style="padding:15px;">המר מ TIF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/tiff/" style="padding:15px;">המר מ TIFF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/webp/" style="padding:15px;">המר מ WEBP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/wmf/" style="padding:15px;">המר מ WMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/wmz/" style="padding:15px;">המר מ WMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/svg/" style="padding:15px;">המר מ SVG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/svgz/" style="padding:15px;">המר מ SVGZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/eps/" style="padding:15px;">המר מ EPS</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/cdr/" style="padding:15px;">המר מ CDR</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/cmx/" style="padding:15px;">המר מ CMX</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/otg/" style="padding:15px;">המר מ OTG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/odg/" style="padding:15px;">המר מ ODG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/from/ico/" style="padding:15px;">המר מ ICO</a></div>
                 </div>
         </div>
     </div>
@@ -201,32 +201,32 @@ Aspose.Imaging עבור Python באמצעות .NET API מכיל תכונות ש�
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 	        <hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/to/bmp" >להמיר ל BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/to/gif" >להמיר ל GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/to/dicom" >להמיר ל DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/to/emf" >להמיר ל EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/to/jpg" >להמיר ל JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/to/jpeg" >להמיר ל JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/to/jp2" >להמיר ל JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/to/j2k" >להמיר ל J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/to/jpeg2000" >להמיר ל JPEG2000</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/to/png" >להמיר ל PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/to/psd" >להמיר ל PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/to/dxf" >להמיר ל DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/to/svg" >להמיר ל SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/to/tiff" >להמיר ל TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/to/webp" >להמיר ל WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/to/wmf" >להמיר ל WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/to/pdf" >להמיר ל PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/to/html" >להמיר ל HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/to/emz" >להמיר ל EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/to/wmz" >להמיר ל WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/to/tga" >להמיר ל TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/to/svgz" >להמיר ל SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/to/canvas" >להמיר ל CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/to/ico" >להמיר ל ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/to/apng" >להמיר ל APNG</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/to/bmp/" style="padding:15px;">להמיר ל BMP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/to/gif/" style="padding:15px;">להמיר ל GIF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/to/dicom/" style="padding:15px;">להמיר ל DICOM</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/to/emf/" style="padding:15px;">להמיר ל EMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/to/jpg/" style="padding:15px;">להמיר ל JPG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/to/jpeg/" style="padding:15px;">להמיר ל JPEG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/to/jp2/" style="padding:15px;">להמיר ל JP2</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/to/j2k/" style="padding:15px;">להמיר ל J2K</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/to/jpeg2000/" style="padding:15px;">להמיר ל JPEG2000</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/to/png/" style="padding:15px;">להמיר ל PNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/to/psd/" style="padding:15px;">להמיר ל PSD</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/to/dxf/" style="padding:15px;">להמיר ל DXF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/to/svg/" style="padding:15px;">להמיר ל SVG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/to/tiff/" style="padding:15px;">להמיר ל TIFF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/to/webp/" style="padding:15px;">להמיר ל WEBP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/to/wmf/" style="padding:15px;">להמיר ל WMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/to/pdf/" style="padding:15px;">להמיר ל PDF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/to/html/" style="padding:15px;">להמיר ל HTML</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/to/emz/" style="padding:15px;">להמיר ל EMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/to/wmz/" style="padding:15px;">להמיר ל WMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/to/tga/" style="padding:15px;">להמיר ל TGA</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/to/svgz/" style="padding:15px;">להמיר ל SVGZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/to/canvas/" style="padding:15px;">להמיר ל CANVAS</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/to/ico/" style="padding:15px;">להמיר ל ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/he/python-net/conversion/to/apng/" style="padding:15px;">להמיר ל APNG</a></div>
                 </div>
         </div>
     </div>

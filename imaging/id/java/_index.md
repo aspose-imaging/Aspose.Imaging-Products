@@ -1,7 +1,7 @@
 ﻿---
 title: API Pencitraan Java | Menggambar Memanipulasi dan Mengubah Gambar 
 weight: 960
-url: /id/java 
+url: /id/java/ 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -9,11 +9,11 @@ description: Pustaka pemrosesan dan manipulasi gambar Java. Buat tampilan muat, 
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1="Pustaka Java dan API untuk Pemrosesan Gambar" h2="Buat, muat, manipulasi, atau konversi gambar tanpa memerlukan editor gambar apa pun." downloadFreeTrialText="Unduh Uji Coba Gratis" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-java.svg"  pfName="Aspose.Imaging" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/imaging/java" >}}
+{{< blocks/products/pf/upper-banner h1="Pustaka Java dan API untuk Pemrosesan Gambar" h2="Buat, muat, manipulasi, atau konversi gambar tanpa memerlukan editor gambar apa pun." downloadFreeTrialText="Unduh Uji Coba Gratis" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-java.svg"  pfName="Aspose.Imaging" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/imaging/java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Java" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-java.svg" 
-liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://purchase.aspose.com/pricing/imaging/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/imaging/java" installationsDocsLink="https://docs.aspose.com/imaging/java/installation" mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-imaging/" directDownloadLink="https://downloads.aspose.com/imaging/java" liveDemosText="Demo Langsung" overviewText="Ringkasan" featuresText="Fitur" resourcesText="Sumber daya" pricingText="harga" downloadText="Unduh" learnText="Mempelajari" buyText="Membeli" >}}
+liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/java/" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/java/" installationsDocsLink="https://docs.aspose.com/imaging/java/installation/" mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-imaging/" directDownloadLink="https://downloads.aspose.com/imaging/java/" liveDemosText="Demo Langsung" overviewText="Ringkasan" featuresText="Fitur" resourcesText="Sumber daya" pricingText="harga" downloadText="Unduh" learnText="Mempelajari" buyText="Membeli" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="di" carousel1Text2="Lirikan" carousel2Text1="Platform" carousel2Text2="Kemerdekaan" carousel3Text1="File yang Didukung" carousel3Text2="format">}}
 <p align="justify">
@@ -307,7 +307,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
 
 <!--Feature-section Start-->
 <div class="container-fluid features-section bg-gray singleproduct">
- <a class="anchor" id="features" name="features">
+ <a class="anchor" href="#" id="features" name="features">
  </a>
  <div class="row">
   <div class="container">
@@ -599,27 +599,27 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
 
 {{< blocks/products/pf/support-learning-resources supportAndLearningResourcesText="Dukungan dan Sumber Belajar">}}
 {{< blocks/products/pf/slr-tab tabTitle="Sumber Belajar" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Dokumentasi" href="https://docs.aspose.com/imaging/java" >}}
-{{< blocks/products/pf/slr-element name="Kode sumber" href="https://github.com/aspose-imaging/Aspose.Imaging-for-Java" >}}
-{{< blocks/products/pf/slr-element name="Referensi API" href="https://apireference.aspose.com/java/imaging" >}}
-{{< blocks/products/pf/slr-element name="Video Tutorial" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Dokumentasi" href="https://docs.aspose.com/imaging/java/" >}}
+{{< blocks/products/pf/slr-element name="Kode sumber" href="https://github.com/aspose-imaging/Aspose.Imaging-for-Java/" >}}
+{{< blocks/products/pf/slr-element name="Referensi API" href="https://apireference.aspose.com/java/imaging/" >}}
+{{< blocks/products/pf/slr-element name="Video Tutorial" href="https://www.youtube.com/user/asposevideo/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Dukungan Produk" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Dukungan Gratis" href="https://forum.aspose.com/c/imaging" >}}
+{{< blocks/products/pf/slr-element name="Dukungan Gratis" href="https://forum.aspose.com/c/imaging/" >}}
 {{< blocks/products/pf/slr-element name="Dukungan Berbayar" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/imaging/" >}}
 {{< blocks/products/pf/slr-element name="Catatan Rilis" href="https://docs.aspose.com/imaging/java/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Mengapa Aspose.Imaging for Java" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Daftar Pelanggan" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Daftar Pelanggan" href="https://company.aspose.com/customers/" >}}
 {{< blocks/products/pf/slr-element name="Cerita-cerita sukses" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/imaging/java" downloadFreeTrialText="Unduh Uji Coba Gratis" pricingInformationText="Informasi Harga" pricingInformationLink="https://purchase.aspose.com/pricing/imaging/java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/imaging/java/" downloadFreeTrialText="Unduh Uji Coba Gratis" pricingInformationText="Informasi Harga" pricingInformationLink="https://purchase.aspose.com/pricing/imaging/java/" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Imaging " description="Aspose.Imaging menawarkan API Pencitraan individual untuk lingkungan pengembangan populer lainnya seperti yang tercantum di bawah ini:" >}}
 

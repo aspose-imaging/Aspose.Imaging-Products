@@ -1,7 +1,7 @@
 ﻿---
 title: โซลูชันการประมวลผลภาพบนระบบคลาวด์และแอป 
 weight: 4270
-url: /th 
+url: /th/ 
 lang: th
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -18,11 +18,11 @@ description: พัฒนาแอปพลิเคชันการจัด�
 รหัสสูง API เพื่อกำหนดเป้าหมายแพลตฟอร์ม .NET Framework และ .NET Core เพื่อพัฒนาโซลูชันการจัดการรูปภาพ
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" productLink="/imaging/th/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" productLink="/imaging/th/java/" >}}
 Java APIs เพื่อสร้าง จัดการ หรือแปลงรูปภาพรูปแบบต่างๆ ในแอปพลิเคชันใดๆ ตาม Java SE หรือ EE
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging for " title="SharePoint" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg" productLink="/imaging/sharepoint" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging for " title="SharePoint" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg" productLink="/imaging/sharepoint/" >}}
 อนุญาตให้ผู้ใช้แปลงภาพเป็นรูปแบบภาพอื่นๆ รวมทั้ง PNG, JPEG, BMP, GIF, TIFF และอื่นๆ จากภายใน Microsoft SharePoint
 {{< /blocks/products/pf/product >}}
 
@@ -32,15 +32,15 @@ Java APIs เพื่อสร้าง จัดการ หรือแป�
 
 {{< blocks/products/pf/product-card-row title="Aspose.Imaging รวม APIs โค้ดต่ำ" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud for cURL" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-curl.png" productLink="https://products.aspose.cloud/imaging/curl" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud for cURL" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-curl.png" productLink="https://products.aspose.cloud/imaging/curl/" >}}
 การประมวลผลรูปภาพ REST API เพื่อปรับขนาด ครอบตัด หมุน ปรับขนาด พลิก ค้นหา ส่งออก และแปลงรูปภาพผ่านอุปกรณ์ใดๆ ก็ตามที่สามารถดำเนินการคำสั่ง cURL
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud SDK for .NET" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-net.png" productLink="https://products.aspose.cloud/imaging/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud SDK for .NET" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-net.png" productLink="https://products.aspose.cloud/imaging/net/" >}}
 SDK โอเพ่นซอร์สที่ออกแบบมาสำหรับความสามารถในการจัดการรูปภาพเพื่ออำนวยความสะดวกให้โปรแกรมเมอร์ .NET ใช้ Aspose.Imaging RESTFul API
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud SDK for Java" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-java.png" productLink="https://products.aspose.cloud/imaging/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud SDK for Java" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-java.png" productLink="https://products.aspose.cloud/imaging/java/" >}}
 Java SDK ที่ใช้งานง่ายเพื่อสื่อสารกับ Aspose.Imaging Cloud API สำหรับการจัดการและประมวลผลภาพ
 {{< /blocks/products/pf/product >}}
 
@@ -50,19 +50,19 @@ Java SDK ที่ใช้งานง่ายเพื่อสื่อส�
 
 {{< blocks/products/pf/product-card-row title="Aspose.Imaging ไม่มีโปรแกรมรหัสรวม" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Conversion" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/imaging/th/conversion" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Conversion" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/imaging/th/conversion/" >}}
 แปลงรูปภาพเป็นรูปแบบรูปภาพ PDF, PSD และ Raster ได้อย่างง่ายดายโดยไม่ต้องออกจากเบราว์เซอร์ที่คุณชื่นชอบ
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Watermark" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_watermark-app.png" productLink="https://products.aspose.app/imaging/th/watermark" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Watermark" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_watermark-app.png" productLink="https://products.aspose.app/imaging/th/watermark/" >}}
 เพียงอัปโหลดไฟล์รูปภาพของคุณเพื่อเพิ่มลายน้ำจากเบราว์เซอร์ใดก็ได้ ไม่จำเป็นต้องติดตั้งหรือเครื่องมือเพิ่มเติม 
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Reverse" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_reverse-app.png" productLink="https://products.aspose.app/imaging/th/image-search" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Reverse" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_reverse-app.png" productLink="https://products.aspose.app/imaging/th/image-search/" >}}
 ทำการค้นหาภาพย้อนกลับเพื่อค้นหาภาพเฉพาะบนเว็บไซต์ที่ระบุได้จากทุกที่
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.app/imaging/family" innerText="ดูทั้งหมด ไม่มีโปรแกรมรหัส" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.app/imaging/family/" innerText="ดูทั้งหมด ไม่มีโปรแกรมรหัส" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

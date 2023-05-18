@@ -2,7 +2,7 @@
 ---
 title: Python vaizdo formatų konvertavimas 
 weight: 3920
-url: /lt/python-net/conversion 
+url: /lt/python-net/conversion/ 
 lang: lt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -33,36 +33,36 @@ Naudojant Aspose.Imaging for Python per .NET API, kelių formatų konvertavimas 
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
-		<div class="row other-converters">
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/lt/python-net/conversion/apng-to-bmp/">APNG į BMP</a>
+		      <p><a href="/imaging/lt/python-net/conversion/apng-to-bmp/" style="padding:15px;">APNG į BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/lt/python-net/conversion/cdr-to-bmp/">CDR į BMP</a>
+		      <p><a href="/imaging/lt/python-net/conversion/cdr-to-bmp/" style="padding:15px;">CDR į BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/lt/python-net/conversion/dib-to-bmp/">DIB į BMP</a>
+		      <p><a href="/imaging/lt/python-net/conversion/dib-to-bmp/" style="padding:15px;">DIB į BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/lt/python-net/conversion/dicom-to-bmp/">DICOM į BMP</a>
+		      <p><a href="/imaging/lt/python-net/conversion/dicom-to-bmp/" style="padding:15px;">DICOM į BMP</a></p>
 		   </div>
  		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/lt/python-net/conversion/djvu-to-bmp/">DJVU į BMP</a>
+		      <p><a href="/imaging/lt/python-net/conversion/djvu-to-bmp/" style="padding:15px;">DJVU į BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/lt/python-net/conversion/dng-to-bmp/">DNG į BMP</a>
+		      <p><a href="/imaging/lt/python-net/conversion/dng-to-bmp/" style="padding:15px;">DNG į BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/lt/python-net/conversion/emf-to-bmp/">EMF į BMP</a>
+		      <p><a href="/imaging/lt/python-net/conversion/emf-to-bmp/" style="padding:15px;">EMF į BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/lt/python-net/conversion/emz-to-bmp/">EMZ į BMP</a>
+		      <p><a href="/imaging/lt/python-net/conversion/emz-to-bmp/" style="padding:15px;">EMZ į BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/lt/python-net/conversion/eps-to-bmp/">EPS į BMP</a>
+		      <p><a href="/imaging/lt/python-net/conversion/eps-to-bmp/" style="padding:15px;">EPS į BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/lt/python-net/conversion/gif-to-bmp/">GIF į BMP</a>
+		      <p><a href="/imaging/lt/python-net/conversion/gif-to-bmp/" style="padding:15px;">GIF į BMP</a></p>
 		   </div>
 		</div>
 	</div>
@@ -84,36 +84,36 @@ Rastrinių vaizdų konvertavimo į PDF procesas yra toks pat kaip ir kryžminio 
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
-		<div class="row other-converters">
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/lt/python-net/conversion/apng-to-PDF/">APNG į PDF</a>
+		      <p><a href="/imaging/lt/python-net/conversion/apng-to-PDF/" style="padding:15px;">APNG į PDF</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/lt/python-net/conversion/jpeg-to-PDF/">JPEG į PDF</a>
+		      <p><a href="/imaging/lt/python-net/conversion/jpeg-to-PDF/" style="padding:15px;">JPEG į PDF</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/lt/python-net/conversion/bmp-to-PDF/">BMP į PDF</a>
+		      <p><a href="/imaging/lt/python-net/conversion/bmp-to-PDF/" style="padding:15px;">BMP į PDF</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/lt/python-net/conversion/odg-to-PDF/">ODG į PDF</a>
+		      <p><a href="/imaging/lt/python-net/conversion/odg-to-PDF/" style="padding:15px;">ODG į PDF</a></p>
 		   </div>
  		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/lt/python-net/conversion/otg-to-PDF/">OTG į PDF</a>
+		      <p><a href="/imaging/lt/python-net/conversion/otg-to-PDF/" style="padding:15px;">OTG į PDF</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/lt/python-net/conversion/png-to-PDF/">PNG į PDF</a>
+		      <p><a href="/imaging/lt/python-net/conversion/png-to-PDF/" style="padding:15px;">PNG į PDF</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/lt/python-net/conversion/svg-to-PDF/">SVG į PDF</a>
+		      <p><a href="/imaging/lt/python-net/conversion/svg-to-PDF/" style="padding:15px;">SVG į PDF</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/lt/python-net/conversion/emz-to-PDF/">EMZ į PDF</a>
+		      <p><a href="/imaging/lt/python-net/conversion/emz-to-PDF/" style="padding:15px;">EMZ į PDF</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/lt/python-net/conversion/eps-to-PDF/">EPS į PDF</a>
+		      <p><a href="/imaging/lt/python-net/conversion/eps-to-PDF/" style="padding:15px;">EPS į PDF</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/lt/python-net/conversion/gif-to-PDF/">GIF į PDF</a>
+		      <p><a href="/imaging/lt/python-net/conversion/gif-to-PDF/" style="padding:15px;">GIF į PDF</a></p>
 		   </div>
 		</div>
 	</div>
@@ -135,15 +135,15 @@ SVG vaizdo konvertavimas yra tas pats, įkelti SVG vaizdą, naudoti reikiamas va
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
-		<div class="row other-converters">
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/lt/python-net/conversion/SVG-to-bmp/">SVG į BMP</a>
+		      <p><a href="/imaging/lt/python-net/conversion/SVG-to-bmp/" style="padding:15px;">SVG į BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/lt/python-net/conversion/SVG-to-jpeg/">SVG į JPEG</a>
+		      <p><a href="/imaging/lt/python-net/conversion/SVG-to-jpeg/" style="padding:15px;">SVG į JPEG</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/lt/python-net/conversion/SVG-to-png/">SVG į PNG</a>
+		      <p><a href="/imaging/lt/python-net/conversion/SVG-to-png/" style="padding:15px;">SVG į PNG</a></p>
 		   </div>		   
 		</div>
 	</div>
@@ -158,36 +158,36 @@ SVG vaizdo konvertavimas yra tas pats, įkelti SVG vaizdą, naudoti reikiamas va
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
                 <hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/apng" >Konvertuoti iš APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/bmp" >Konvertuoti iš BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/dib" >Konvertuoti iš DIB</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/dicom" >Konvertuoti iš DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/djvu" >Konvertuoti iš DJVU</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/dng" >Konvertuoti iš DNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/emf" >Konvertuoti iš EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/emz" >Konvertuoti iš EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/gif" >Konvertuoti iš GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/jpeg2000" >Konvertuoti iš JPEG2000</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/jp2" >Konvertuoti iš JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/j2k" >Konvertuoti iš J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/jpg" >Konvertuoti iš JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/jpeg" >Konvertuoti iš JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/png" >Konvertuoti iš PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/tga" >Konvertuoti iš TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/tif" >Konvertuoti iš TIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/tiff" >Konvertuoti iš TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/webp" >Konvertuoti iš WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/wmf" >Konvertuoti iš WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/wmz" >Konvertuoti iš WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/svg" >Konvertuoti iš SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/svgz" >Konvertuoti iš SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/eps" >Konvertuoti iš EPS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/cdr" >Konvertuoti iš CDR</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/cmx" >Konvertuoti iš CMX</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/otg" >Konvertuoti iš OTG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/odg" >Konvertuoti iš ODG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/ico" >Konvertuoti iš ICO</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/apng/" style="padding:15px;">Konvertuoti iš APNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/bmp/" style="padding:15px;">Konvertuoti iš BMP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/dib/" style="padding:15px;">Konvertuoti iš DIB</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/dicom/" style="padding:15px;">Konvertuoti iš DICOM</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/djvu/" style="padding:15px;">Konvertuoti iš DJVU</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/dng/" style="padding:15px;">Konvertuoti iš DNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/emf/" style="padding:15px;">Konvertuoti iš EMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/emz/" style="padding:15px;">Konvertuoti iš EMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/gif/" style="padding:15px;">Konvertuoti iš GIF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/jpeg2000/" style="padding:15px;">Konvertuoti iš JPEG2000</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/jp2/" style="padding:15px;">Konvertuoti iš JP2</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/j2k/" style="padding:15px;">Konvertuoti iš J2K</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/jpg/" style="padding:15px;">Konvertuoti iš JPG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/jpeg/" style="padding:15px;">Konvertuoti iš JPEG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/png/" style="padding:15px;">Konvertuoti iš PNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/tga/" style="padding:15px;">Konvertuoti iš TGA</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/tif/" style="padding:15px;">Konvertuoti iš TIF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/tiff/" style="padding:15px;">Konvertuoti iš TIFF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/webp/" style="padding:15px;">Konvertuoti iš WEBP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/wmf/" style="padding:15px;">Konvertuoti iš WMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/wmz/" style="padding:15px;">Konvertuoti iš WMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/svg/" style="padding:15px;">Konvertuoti iš SVG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/svgz/" style="padding:15px;">Konvertuoti iš SVGZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/eps/" style="padding:15px;">Konvertuoti iš EPS</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/cdr/" style="padding:15px;">Konvertuoti iš CDR</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/cmx/" style="padding:15px;">Konvertuoti iš CMX</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/otg/" style="padding:15px;">Konvertuoti iš OTG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/odg/" style="padding:15px;">Konvertuoti iš ODG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/from/ico/" style="padding:15px;">Konvertuoti iš ICO</a></div>
                 </div>
         </div>
     </div>
@@ -201,32 +201,32 @@ SVG vaizdo konvertavimas yra tas pats, įkelti SVG vaizdą, naudoti reikiamas va
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 	        <hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/to/bmp" >Konvertuoti į BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/to/gif" >Konvertuoti į GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/to/dicom" >Konvertuoti į DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/to/emf" >Konvertuoti į EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/to/jpg" >Konvertuoti į JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/to/jpeg" >Konvertuoti į JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/to/jp2" >Konvertuoti į JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/to/j2k" >Konvertuoti į J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/to/jpeg2000" >Konvertuoti į JPEG2000</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/to/png" >Konvertuoti į PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/to/psd" >Konvertuoti į PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/to/dxf" >Konvertuoti į DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/to/svg" >Konvertuoti į SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/to/tiff" >Konvertuoti į TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/to/webp" >Konvertuoti į WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/to/wmf" >Konvertuoti į WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/to/pdf" >Konvertuoti į PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/to/html" >Konvertuoti į HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/to/emz" >Konvertuoti į EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/to/wmz" >Konvertuoti į WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/to/tga" >Konvertuoti į TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/to/svgz" >Konvertuoti į SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/to/canvas" >Konvertuoti į CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/to/ico" >Konvertuoti į ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/to/apng" >Konvertuoti į APNG</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/to/bmp/" style="padding:15px;">Konvertuoti į BMP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/to/gif/" style="padding:15px;">Konvertuoti į GIF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/to/dicom/" style="padding:15px;">Konvertuoti į DICOM</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/to/emf/" style="padding:15px;">Konvertuoti į EMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/to/jpg/" style="padding:15px;">Konvertuoti į JPG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/to/jpeg/" style="padding:15px;">Konvertuoti į JPEG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/to/jp2/" style="padding:15px;">Konvertuoti į JP2</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/to/j2k/" style="padding:15px;">Konvertuoti į J2K</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/to/jpeg2000/" style="padding:15px;">Konvertuoti į JPEG2000</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/to/png/" style="padding:15px;">Konvertuoti į PNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/to/psd/" style="padding:15px;">Konvertuoti į PSD</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/to/dxf/" style="padding:15px;">Konvertuoti į DXF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/to/svg/" style="padding:15px;">Konvertuoti į SVG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/to/tiff/" style="padding:15px;">Konvertuoti į TIFF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/to/webp/" style="padding:15px;">Konvertuoti į WEBP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/to/wmf/" style="padding:15px;">Konvertuoti į WMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/to/pdf/" style="padding:15px;">Konvertuoti į PDF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/to/html/" style="padding:15px;">Konvertuoti į HTML</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/to/emz/" style="padding:15px;">Konvertuoti į EMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/to/wmz/" style="padding:15px;">Konvertuoti į WMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/to/tga/" style="padding:15px;">Konvertuoti į TGA</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/to/svgz/" style="padding:15px;">Konvertuoti į SVGZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/to/canvas/" style="padding:15px;">Konvertuoti į CANVAS</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/to/ico/" style="padding:15px;">Konvertuoti į ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/lt/python-net/conversion/to/apng/" style="padding:15px;">Konvertuoti į APNG</a></div>
                 </div>
         </div>
     </div>

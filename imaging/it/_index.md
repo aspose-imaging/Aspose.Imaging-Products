@@ -1,7 +1,7 @@
 ﻿---
 title: Soluzione di elaborazione delle immagini in sede, basata su cloud e app 
 weight: 4270
-url: /it 
+url: /it/ 
 lang: it
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -18,11 +18,11 @@ description: Sviluppa applicazioni di manipolazione delle immagini utilizzando l
 API High Code destinate alle piattaforme .NET Framework e .NET Core per lo sviluppo di soluzioni di manipolazione delle immagini.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" productLink="/imaging/it/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" productLink="/imaging/it/java/" >}}
 API Java per creare, manipolare o convertire immagini di formato diverso in qualsiasi applicazione basata su Java SE o EE.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging for " title="SharePoint" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg" productLink="/imaging/sharepoint" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging for " title="SharePoint" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg" productLink="/imaging/sharepoint/" >}}
 Consente agli utenti di convertire le immagini in altri formati di immagine tra cui PNG, JPEG, BMP, GIF, TIFF e altro dall'interno di Microsoft SharePoint.
 {{< /blocks/products/pf/product >}}
 
@@ -32,15 +32,15 @@ Consente agli utenti di convertire le immagini in altri formati di immagine tra 
 
 {{< blocks/products/pf/product-card-row title="Aspose.Imaging Le API a basso codice includono" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud for cURL" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-curl.png" productLink="https://products.aspose.cloud/imaging/curl" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud for cURL" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-curl.png" productLink="https://products.aspose.cloud/imaging/curl/" >}}
 API REST di elaborazione delle immagini per ridimensionare, ritagliare, ruotare, ridimensionare, capovolgere, cercare, esportare e convertire immagini tramite qualsiasi dispositivo in grado di eseguire comandi cURL.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud SDK for .NET" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-net.png" productLink="https://products.aspose.cloud/imaging/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud SDK for .NET" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-net.png" productLink="https://products.aspose.cloud/imaging/net/" >}}
 SDK open source progettato per funzionalità di manipolazione delle immagini per facilitare ai programmatori .NET l'uso delle API RESTFul Aspose.Imaging.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud SDK for Java" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-java.png" productLink="https://products.aspose.cloud/imaging/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud SDK for Java" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-java.png" productLink="https://products.aspose.cloud/imaging/java/" >}}
 SDK Java facile da usare per comunicare con le API Aspose.Imaging Cloud per la manipolazione e l'elaborazione delle immagini.
 {{< /blocks/products/pf/product >}}
 
@@ -50,19 +50,19 @@ SDK Java facile da usare per comunicare con le API Aspose.Imaging Cloud per la m
 
 {{< blocks/products/pf/product-card-row title="Aspose.Imaging Nessuna applicazione di codice include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Conversion" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/imaging/it/conversion" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Conversion" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/imaging/it/conversion/" >}}
 Converti facilmente le immagini in formati di immagine PDF, PSD e raster senza uscire dal tuo browser preferito.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Watermark" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_watermark-app.png" productLink="https://products.aspose.app/imaging/it/watermark" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Watermark" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_watermark-app.png" productLink="https://products.aspose.app/imaging/it/watermark/" >}}
 Basta caricare i file immagine per aggiungere filigrana da qualsiasi browser. Nessuna installazione o strumenti aggiuntivi richiesti. 
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Reverse" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_reverse-app.png" productLink="https://products.aspose.app/imaging/it/image-search" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Reverse" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_reverse-app.png" productLink="https://products.aspose.app/imaging/it/image-search/" >}}
 Esegui la ricerca inversa delle immagini per trovare un'immagine particolare sul sito Web specificato da qualsiasi luogo.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.app/imaging/family" innerText="Visualizza tutte le applicazioni senza codice" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.app/imaging/family/" innerText="Visualizza tutte le applicazioni senza codice" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

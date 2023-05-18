@@ -1,7 +1,7 @@
 ﻿---
 title: Python Imaging API | Aspose.Imaging pro Python přes .NET - Draw Manipulate and Transform Images 
 weight: 960
-url: /cs/python-net 
+url: /cs/python-net/ 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -9,11 +9,11 @@ description: Python Knihovna pro zpracování a manipulaci s obrázky. Aspose.Im
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1="Aspose.Imaging pro Python prostřednictvím knihovny .NET a API pro zpracování obrázků" h2="Vytvářejte, načtěte, upravujte nebo převádějte obrázky bez nutnosti jakéhokoli editoru obrázků." downloadFreeTrialText="Stáhněte si zkušební verzi zdarma" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-python-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/imaging/python-net" >}}
+{{< blocks/products/pf/upper-banner h1="Aspose.Imaging pro Python prostřednictvím knihovny .NET a API pro zpracování obrázků" h2="Vytvářejte, načtěte, upravujte nebo převádějte obrázky bez nutnosti jakéhokoli editoru obrázků." downloadFreeTrialText="Stáhněte si zkušební verzi zdarma" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-python-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/imaging/python-net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Python" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-python-net.svg" 
-liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://purchase.aspose.com/pricing/imaging/python-net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/imaging/python-net" installationsDocsLink="https://docs.aspose.com/imaging/python-net/installation" pipLink="https://test.pypi.org/project/aspose.imaging/" directDownloadLink="https://downloads.aspose.com/imaging/python-net" liveDemosText="Živá ukázka" overviewText="Přehled" featuresText="Funkce" resourcesText="Zdroje" pricingText="Ceny" downloadText="Stažení" learnText="Učit se" buyText="Koupit" >}}
+liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/python-net/" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/python-net/" installationsDocsLink="https://docs.aspose.com/imaging/python-net/installation/" pipLink="https://test.pypi.org/project/aspose.imaging/" directDownloadLink="https://downloads.aspose.com/imaging/python-net/" liveDemosText="Živá ukázka" overviewText="Přehled" featuresText="Funkce" resourcesText="Zdroje" pricingText="Ceny" downloadText="Stažení" learnText="Učit se" buyText="Koupit" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="V a" carousel1Text2="Pohled" carousel2Text1="Plošina" carousel2Text2="Nezávislost" carousel3Text1="Podporovaný soubor" carousel3Text2="Formáty">}}
 <p align="justify">
@@ -299,7 +299,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
 
 <!--Feature-section Start-->
 <div class="container-fluid features-section bg-gray singleproduct">
- <a class="anchor" id="features" name="features">
+ <a class="anchor" href="#" id="features" name="features">
  </a>
  <div class="row">
   <div class="container">
@@ -591,27 +591,27 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
 
 {{< blocks/products/pf/support-learning-resources supportAndLearningResourcesText="Podpora a výukové zdroje">}}
 {{< blocks/products/pf/slr-tab tabTitle="Výukové zdroje" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Dokumentace" href="https://docs.aspose.com/imaging/python-net" >}}
-{{< blocks/products/pf/slr-element name="Zdrojový kód" href="https://github.com/aspose-imaging/Aspose.Imaging-for-Python-net" >}}
-{{< blocks/products/pf/slr-element name="Reference API" href="https://apireference.aspose.com/python-net/imaging" >}}
-{{< blocks/products/pf/slr-element name="Výuková videa" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Dokumentace" href="https://docs.aspose.com/imaging/python-net/" >}}
+{{< blocks/products/pf/slr-element name="Zdrojový kód" href="https://github.com/aspose-imaging/Aspose.Imaging-for-Python-net/" >}}
+{{< blocks/products/pf/slr-element name="Reference API" href="https://apireference.aspose.com/python-net/imaging/" >}}
+{{< blocks/products/pf/slr-element name="Výuková videa" href="https://www.youtube.com/user/asposevideo/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Podpora produktu" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Bezplatná podpora" href="https://forum.aspose.com/c/imaging" >}}
+{{< blocks/products/pf/slr-element name="Bezplatná podpora" href="https://forum.aspose.com/c/imaging/" >}}
 {{< blocks/products/pf/slr-element name="Placená podpora" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/imaging/" >}}
 {{< blocks/products/pf/slr-element name="Poznámky k vydání" href="https://docs.aspose.com/imaging/python-net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Proč Aspose.Imaging pro Python" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Seznam zákazníků" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Seznam zákazníků" href="https://company.aspose.com/customers/" >}}
 {{< blocks/products/pf/slr-element name="Příběhy úspěchu" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/imaging/python-net" downloadFreeTrialText="Stáhněte si zkušební verzi zdarma" pricingInformationText="Informace o cenách" pricingInformationLink="https://purchase.aspose.com/pricing/imaging/python-net" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/imaging/python-net/" downloadFreeTrialText="Stáhněte si zkušební verzi zdarma" pricingInformationText="Informace o cenách" pricingInformationLink="https://purchase.aspose.com/pricing/imaging/python-net/" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Imaging " description="Aspose.Imaging nabízí jednotlivá Imaging API pro další populární vývojová prostředí, jak je uvedeno níže:" >}}
 

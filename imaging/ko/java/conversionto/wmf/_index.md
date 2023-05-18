@@ -1,7 +1,7 @@
 ﻿---
 title: Aspose.Imaging for Java 라이브러리를 사용하여 다른 형식에서 WMF로 변환 
 weight: 3920
-url: /ko/java/conversion/to/wmf 
+url: /ko/java/conversion/to/wmf/ 
 lang: ko
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -14,42 +14,43 @@ description: Aspose.Imaging을 사용하면 Java를 사용하여 다른 형식�
 
 {{% blocks/products/pf/feature-page-section  h2="지원되는 모든 이미지 형식은 Aspose.Imaging for Java를 사용하여 WMF로 변환할 수 있습니다." %}}
 <p align=justify>Aspose.Imaging 라이브러리를 사용하면 Java 플랫폼을 사용하여 지원되는 다른 이미지 형식에서 프로그래밍 방식으로 WMF로 변환할 수 있습니다.</p>
-<br/>
+<h3 style="margin-top:16px;">
 지원되는 변환:
+</h3>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/apng-to-wmf" >APNG 에게 WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/bmp-to-wmf" >BMP 에게 WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/dib-to-wmf" >DIB 에게 WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/dicom-to-wmf" >DICOM 에게 WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/djvu-to-wmf" >DJVU 에게 WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/dng-to-wmf" >DNG 에게 WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/emf-to-wmf" >EMF 에게 WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/emz-to-wmf" >EMZ 에게 WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/gif-to-wmf" >GIF 에게 WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/jpeg2000-to-wmf" >JPEG2000 에게 WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/jp2-to-wmf" >JP2 에게 WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/j2k-to-wmf" >J2K 에게 WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/jpg-to-wmf" >JPG 에게 WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/jpeg-to-wmf" >JPEG 에게 WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/png-to-wmf" >PNG 에게 WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/tga-to-wmf" >TGA 에게 WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/tif-to-wmf" >TIF 에게 WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/tiff-to-wmf" >TIFF 에게 WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/webp-to-wmf" >WEBP 에게 WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/wmz-to-wmf" >WMZ 에게 WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/svg-to-wmf" >SVG 에게 WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/svgz-to-wmf" >SVGZ 에게 WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/eps-to-wmf" >EPS 에게 WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/cdr-to-wmf" >CDR 에게 WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/cmx-to-wmf" >CMX 에게 WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/otg-to-wmf" >OTG 에게 WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/odg-to-wmf" >ODG 에게 WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/ico-to-wmf" >ICO 에게 WMF</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/apng-to-wmf/" style="padding:15px;">APNG 에게 WMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/bmp-to-wmf/" style="padding:15px;">BMP 에게 WMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/dib-to-wmf/" style="padding:15px;">DIB 에게 WMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/dicom-to-wmf/" style="padding:15px;">DICOM 에게 WMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/djvu-to-wmf/" style="padding:15px;">DJVU 에게 WMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/dng-to-wmf/" style="padding:15px;">DNG 에게 WMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/emf-to-wmf/" style="padding:15px;">EMF 에게 WMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/emz-to-wmf/" style="padding:15px;">EMZ 에게 WMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/gif-to-wmf/" style="padding:15px;">GIF 에게 WMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/jpeg2000-to-wmf/" style="padding:15px;">JPEG2000 에게 WMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/jp2-to-wmf/" style="padding:15px;">JP2 에게 WMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/j2k-to-wmf/" style="padding:15px;">J2K 에게 WMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/jpg-to-wmf/" style="padding:15px;">JPG 에게 WMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/jpeg-to-wmf/" style="padding:15px;">JPEG 에게 WMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/png-to-wmf/" style="padding:15px;">PNG 에게 WMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/tga-to-wmf/" style="padding:15px;">TGA 에게 WMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/tif-to-wmf/" style="padding:15px;">TIF 에게 WMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/tiff-to-wmf/" style="padding:15px;">TIFF 에게 WMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/webp-to-wmf/" style="padding:15px;">WEBP 에게 WMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/wmz-to-wmf/" style="padding:15px;">WMZ 에게 WMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/svg-to-wmf/" style="padding:15px;">SVG 에게 WMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/svgz-to-wmf/" style="padding:15px;">SVGZ 에게 WMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/eps-to-wmf/" style="padding:15px;">EPS 에게 WMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/cdr-to-wmf/" style="padding:15px;">CDR 에게 WMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/cmx-to-wmf/" style="padding:15px;">CMX 에게 WMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/otg-to-wmf/" style="padding:15px;">OTG 에게 WMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/odg-to-wmf/" style="padding:15px;">ODG 에게 WMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/ico-to-wmf/" style="padding:15px;">ICO 에게 WMF</a></div>
                 </div>
         </div>
     </div>

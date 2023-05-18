@@ -1,7 +1,7 @@
 ﻿---
 title: Java Imaging API | צייר מניפולציה ושינוי תמונות 
 weight: 960
-url: /he/java 
+url: /he/java/ 
 lang: he
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -9,11 +9,11 @@ description: ספריית עיבוד תמונה ומניפולציה של Java. 
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1="ספריית Java וממשק API לעיבוד תמונה" h2="צור, טען, עשה מניפולציות או המר תמונות ללא צורך בעורך תמונות." downloadFreeTrialText="הורד גרסת ניסיון בחינם" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-java.svg"  pfName="Aspose.Imaging" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/imaging/java" >}}
+{{< blocks/products/pf/upper-banner h1="ספריית Java וממשק API לעיבוד תמונה" h2="צור, טען, עשה מניפולציות או המר תמונות ללא צורך בעורך תמונות." downloadFreeTrialText="הורד גרסת ניסיון בחינם" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-java.svg"  pfName="Aspose.Imaging" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/imaging/java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Java" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-java.svg" 
-liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://purchase.aspose.com/pricing/imaging/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/imaging/java" installationsDocsLink="https://docs.aspose.com/imaging/java/installation" mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-imaging/" directDownloadLink="https://downloads.aspose.com/imaging/java" liveDemosText="הדגמות חיות" overviewText="סקירה כללית" featuresText="תכונות" resourcesText="אֶמְצָעִי" pricingText="תמחור" downloadText="הורד" learnText="לִלמוֹד" buyText="לִקְנוֹת" >}}
+liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/java/" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/java/" installationsDocsLink="https://docs.aspose.com/imaging/java/installation/" mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-imaging/" directDownloadLink="https://downloads.aspose.com/imaging/java/" liveDemosText="הדגמות חיות" overviewText="סקירה כללית" featuresText="תכונות" resourcesText="אֶמְצָעִי" pricingText="תמחור" downloadText="הורד" learnText="לִלמוֹד" buyText="לִקְנוֹת" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="בשעה א" carousel1Text2="מַבָּט" carousel2Text1="פּלַטפוֹרמָה" carousel2Text2="עצמאות" carousel3Text1="קובץ נתמך" carousel3Text2="פורמטים">}}
 <p align="justify">
@@ -307,7 +307,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
 
 <!--Feature-section Start-->
 <div class="container-fluid features-section bg-gray singleproduct">
- <a class="anchor" id="features" name="features">
+ <a class="anchor" href="#" id="features" name="features">
  </a>
  <div class="row">
   <div class="container">
@@ -599,27 +599,27 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
 
 {{< blocks/products/pf/support-learning-resources supportAndLearningResourcesText="משאבי תמיכה ולמידה">}}
 {{< blocks/products/pf/slr-tab tabTitle="משאבי למידה" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="תיעוד" href="https://docs.aspose.com/imaging/java" >}}
-{{< blocks/products/pf/slr-element name="קוד מקור" href="https://github.com/aspose-imaging/Aspose.Imaging-for-Java" >}}
-{{< blocks/products/pf/slr-element name="הפניות API" href="https://apireference.aspose.com/java/imaging" >}}
-{{< blocks/products/pf/slr-element name="סרטוני הדרכה" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="תיעוד" href="https://docs.aspose.com/imaging/java/" >}}
+{{< blocks/products/pf/slr-element name="קוד מקור" href="https://github.com/aspose-imaging/Aspose.Imaging-for-Java/" >}}
+{{< blocks/products/pf/slr-element name="הפניות API" href="https://apireference.aspose.com/java/imaging/" >}}
+{{< blocks/products/pf/slr-element name="סרטוני הדרכה" href="https://www.youtube.com/user/asposevideo/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="תמיכת מוצר" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="תמיכה חינם" href="https://forum.aspose.com/c/imaging" >}}
+{{< blocks/products/pf/slr-element name="תמיכה חינם" href="https://forum.aspose.com/c/imaging/" >}}
 {{< blocks/products/pf/slr-element name="תמיכה בתשלום" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="בלוג" href="https://blog.aspose.com/category/imaging/" >}}
 {{< blocks/products/pf/slr-element name="מכתבי שחרור" href="https://docs.aspose.com/imaging/java/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="למה Aspose.Imaging עבור Java" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="רשימת לקוחות" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="רשימת לקוחות" href="https://company.aspose.com/customers/" >}}
 {{< blocks/products/pf/slr-element name="סיפורי הצלחה" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/imaging/java" downloadFreeTrialText="הורד גרסת ניסיון בחינם" pricingInformationText="מידע בנוגע למחיר" pricingInformationLink="https://purchase.aspose.com/pricing/imaging/java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/imaging/java/" downloadFreeTrialText="הורד גרסת ניסיון בחינם" pricingInformationText="מידע בנוגע למחיר" pricingInformationLink="https://purchase.aspose.com/pricing/imaging/java/" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Imaging " description="Aspose.Imaging מציעה ממשקי API של הדמיה בודדים עבור סביבות פיתוח פופולריות אחרות כמפורט להלן:" >}}
 

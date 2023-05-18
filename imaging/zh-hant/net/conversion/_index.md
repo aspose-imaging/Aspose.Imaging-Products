@@ -2,7 +2,7 @@
 ---
 title: C# 圖像格式轉換 
 weight: 3920
-url: /zh-hant/net/conversion 
+url: /zh-hant/net/conversion/ 
 lang: zh-hant
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -33,36 +33,36 @@ description: 通過 .NET 庫轉換流行的圖像、照片、圖片格式。只�
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
-		<div class="row other-converters">
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/zh-hant/net/conversion/apng-to-bmp/">APNG 至 BMP</a>
+		      <p><a href="/imaging/zh-hant/net/conversion/apng-to-bmp/" style="padding:15px;">APNG 至 BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/zh-hant/net/conversion/cdr-to-bmp/">CDR 至 BMP</a>
+		      <p><a href="/imaging/zh-hant/net/conversion/cdr-to-bmp/" style="padding:15px;">CDR 至 BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/zh-hant/net/conversion/dib-to-bmp/">DIB 至 BMP</a>
+		      <p><a href="/imaging/zh-hant/net/conversion/dib-to-bmp/" style="padding:15px;">DIB 至 BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/zh-hant/net/conversion/dicom-to-bmp/">DICOM 至 BMP</a>
+		      <p><a href="/imaging/zh-hant/net/conversion/dicom-to-bmp/" style="padding:15px;">DICOM 至 BMP</a></p>
 		   </div>
  		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/zh-hant/net/conversion/djvu-to-bmp/">DJVU 至 BMP</a>
+		      <p><a href="/imaging/zh-hant/net/conversion/djvu-to-bmp/" style="padding:15px;">DJVU 至 BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/zh-hant/net/conversion/dng-to-bmp/">DNG 至 BMP</a>
+		      <p><a href="/imaging/zh-hant/net/conversion/dng-to-bmp/" style="padding:15px;">DNG 至 BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/zh-hant/net/conversion/emf-to-bmp/">EMF 至 BMP</a>
+		      <p><a href="/imaging/zh-hant/net/conversion/emf-to-bmp/" style="padding:15px;">EMF 至 BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/zh-hant/net/conversion/emz-to-bmp/">EMZ 至 BMP</a>
+		      <p><a href="/imaging/zh-hant/net/conversion/emz-to-bmp/" style="padding:15px;">EMZ 至 BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/zh-hant/net/conversion/eps-to-bmp/">EPS 至 BMP</a>
+		      <p><a href="/imaging/zh-hant/net/conversion/eps-to-bmp/" style="padding:15px;">EPS 至 BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/zh-hant/net/conversion/gif-to-bmp/">GIF 至 BMP</a>
+		      <p><a href="/imaging/zh-hant/net/conversion/gif-to-bmp/" style="padding:15px;">GIF 至 BMP</a></p>
 		   </div>
 		</div>
 	</div>
@@ -84,36 +84,36 @@ description: 通過 .NET 庫轉換流行的圖像、照片、圖片格式。只�
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
-		<div class="row other-converters">
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/zh-hant/net/conversion/apng-to-PDF/">APNG 至 PDF</a>
+		      <p><a href="/imaging/zh-hant/net/conversion/apng-to-PDF/" style="padding:15px;">APNG 至 PDF</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/zh-hant/net/conversion/jpeg-to-PDF/">JPEG 至 PDF</a>
+		      <p><a href="/imaging/zh-hant/net/conversion/jpeg-to-PDF/" style="padding:15px;">JPEG 至 PDF</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/zh-hant/net/conversion/bmp-to-PDF/">BMP 至 PDF</a>
+		      <p><a href="/imaging/zh-hant/net/conversion/bmp-to-PDF/" style="padding:15px;">BMP 至 PDF</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/zh-hant/net/conversion/odg-to-PDF/">ODG 至 PDF</a>
+		      <p><a href="/imaging/zh-hant/net/conversion/odg-to-PDF/" style="padding:15px;">ODG 至 PDF</a></p>
 		   </div>
  		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/zh-hant/net/conversion/otg-to-PDF/">OTG 至 PDF</a>
+		      <p><a href="/imaging/zh-hant/net/conversion/otg-to-PDF/" style="padding:15px;">OTG 至 PDF</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/zh-hant/net/conversion/png-to-PDF/">PNG 至 PDF</a>
+		      <p><a href="/imaging/zh-hant/net/conversion/png-to-PDF/" style="padding:15px;">PNG 至 PDF</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/zh-hant/net/conversion/svg-to-PDF/">SVG 至 PDF</a>
+		      <p><a href="/imaging/zh-hant/net/conversion/svg-to-PDF/" style="padding:15px;">SVG 至 PDF</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/zh-hant/net/conversion/emz-to-PDF/">EMZ 至 PDF</a>
+		      <p><a href="/imaging/zh-hant/net/conversion/emz-to-PDF/" style="padding:15px;">EMZ 至 PDF</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/zh-hant/net/conversion/eps-to-PDF/">EPS 至 PDF</a>
+		      <p><a href="/imaging/zh-hant/net/conversion/eps-to-PDF/" style="padding:15px;">EPS 至 PDF</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/zh-hant/net/conversion/gif-to-PDF/">GIF 至 PDF</a>
+		      <p><a href="/imaging/zh-hant/net/conversion/gif-to-PDF/" style="padding:15px;">GIF 至 PDF</a></p>
 		   </div>
 		</div>
 	</div>
@@ -135,15 +135,15 @@ SVG的轉換過程是一樣的，加載SVG文件，使用相關的圖片保存�
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
-		<div class="row other-converters">
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/zh-hant/net/conversion/SVG-to-bmp/">SVG 至 BMP</a>
+		      <p><a href="/imaging/zh-hant/net/conversion/SVG-to-bmp/" style="padding:15px;">SVG 至 BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/zh-hant/net/conversion/SVG-to-jpeg/">SVG 至 JPEG</a>
+		      <p><a href="/imaging/zh-hant/net/conversion/SVG-to-jpeg/" style="padding:15px;">SVG 至 JPEG</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/zh-hant/net/conversion/SVG-to-png/">SVG 至 PNG</a>
+		      <p><a href="/imaging/zh-hant/net/conversion/SVG-to-png/" style="padding:15px;">SVG 至 PNG</a></p>
 		   </div>		   
 		</div>
 	</div>
@@ -158,36 +158,36 @@ SVG的轉換過程是一樣的，加載SVG文件，使用相關的圖片保存�
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
                 <hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/apng" >轉換自 APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/bmp" >轉換自 BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/dib" >轉換自 DIB</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/dicom" >轉換自 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/djvu" >轉換自 DJVU</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/dng" >轉換自 DNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/emf" >轉換自 EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/emz" >轉換自 EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/gif" >轉換自 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/jpeg2000" >轉換自 JPEG2000</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/jp2" >轉換自 JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/j2k" >轉換自 J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/jpg" >轉換自 JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/jpeg" >轉換自 JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/png" >轉換自 PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/tga" >轉換自 TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/tif" >轉換自 TIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/tiff" >轉換自 TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/webp" >轉換自 WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/wmf" >轉換自 WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/wmz" >轉換自 WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/svg" >轉換自 SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/svgz" >轉換自 SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/eps" >轉換自 EPS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/cdr" >轉換自 CDR</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/cmx" >轉換自 CMX</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/otg" >轉換自 OTG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/odg" >轉換自 ODG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/ico" >轉換自 ICO</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/apng/" style="padding:15px;">轉換自 APNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/bmp/" style="padding:15px;">轉換自 BMP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/dib/" style="padding:15px;">轉換自 DIB</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/dicom/" style="padding:15px;">轉換自 DICOM</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/djvu/" style="padding:15px;">轉換自 DJVU</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/dng/" style="padding:15px;">轉換自 DNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/emf/" style="padding:15px;">轉換自 EMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/emz/" style="padding:15px;">轉換自 EMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/gif/" style="padding:15px;">轉換自 GIF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/jpeg2000/" style="padding:15px;">轉換自 JPEG2000</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/jp2/" style="padding:15px;">轉換自 JP2</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/j2k/" style="padding:15px;">轉換自 J2K</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/jpg/" style="padding:15px;">轉換自 JPG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/jpeg/" style="padding:15px;">轉換自 JPEG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/png/" style="padding:15px;">轉換自 PNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/tga/" style="padding:15px;">轉換自 TGA</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/tif/" style="padding:15px;">轉換自 TIF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/tiff/" style="padding:15px;">轉換自 TIFF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/webp/" style="padding:15px;">轉換自 WEBP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/wmf/" style="padding:15px;">轉換自 WMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/wmz/" style="padding:15px;">轉換自 WMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/svg/" style="padding:15px;">轉換自 SVG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/svgz/" style="padding:15px;">轉換自 SVGZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/eps/" style="padding:15px;">轉換自 EPS</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/cdr/" style="padding:15px;">轉換自 CDR</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/cmx/" style="padding:15px;">轉換自 CMX</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/otg/" style="padding:15px;">轉換自 OTG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/odg/" style="padding:15px;">轉換自 ODG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/from/ico/" style="padding:15px;">轉換自 ICO</a></div>
                 </div>
         </div>
     </div>
@@ -201,32 +201,32 @@ SVG的轉換過程是一樣的，加載SVG文件，使用相關的圖片保存�
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 	        <hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/bmp" >轉換成 BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/gif" >轉換成 GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/dicom" >轉換成 DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/emf" >轉換成 EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/jpg" >轉換成 JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/jpeg" >轉換成 JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/jp2" >轉換成 JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/j2k" >轉換成 J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/jpeg2000" >轉換成 JPEG2000</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/png" >轉換成 PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/psd" >轉換成 PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/dxf" >轉換成 DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/svg" >轉換成 SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/tiff" >轉換成 TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/webp" >轉換成 WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/wmf" >轉換成 WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/pdf" >轉換成 PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/html" >轉換成 HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/emz" >轉換成 EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/wmz" >轉換成 WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/tga" >轉換成 TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/svgz" >轉換成 SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/canvas" >轉換成 CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/ico" >轉換成 ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/apng" >轉換成 APNG</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/bmp/" style="padding:15px;">轉換成 BMP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/gif/" style="padding:15px;">轉換成 GIF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/dicom/" style="padding:15px;">轉換成 DICOM</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/emf/" style="padding:15px;">轉換成 EMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/jpg/" style="padding:15px;">轉換成 JPG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/jpeg/" style="padding:15px;">轉換成 JPEG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/jp2/" style="padding:15px;">轉換成 JP2</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/j2k/" style="padding:15px;">轉換成 J2K</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/jpeg2000/" style="padding:15px;">轉換成 JPEG2000</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/png/" style="padding:15px;">轉換成 PNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/psd/" style="padding:15px;">轉換成 PSD</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/dxf/" style="padding:15px;">轉換成 DXF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/svg/" style="padding:15px;">轉換成 SVG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/tiff/" style="padding:15px;">轉換成 TIFF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/webp/" style="padding:15px;">轉換成 WEBP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/wmf/" style="padding:15px;">轉換成 WMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/pdf/" style="padding:15px;">轉換成 PDF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/html/" style="padding:15px;">轉換成 HTML</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/emz/" style="padding:15px;">轉換成 EMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/wmz/" style="padding:15px;">轉換成 WMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/tga/" style="padding:15px;">轉換成 TGA</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/svgz/" style="padding:15px;">轉換成 SVGZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/canvas/" style="padding:15px;">轉換成 CANVAS</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/ico/" style="padding:15px;">轉換成 ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hant/net/conversion/to/apng/" style="padding:15px;">轉換成 APNG</a></div>
                 </div>
         </div>
     </div>

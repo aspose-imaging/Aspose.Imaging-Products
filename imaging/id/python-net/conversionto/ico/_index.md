@@ -1,7 +1,7 @@
 ﻿---
 title: Manfaatkan Aspose.Imaging untuk Python melalui .NET untuk mengonversi gambar dari berbagai format ke ICO 
 weight: 3920
-url: /id/python-net/conversion/to/ico 
+url: /id/python-net/conversion/to/ico/ 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -14,42 +14,43 @@ description: Anda dapat menggunakan Aspose.Imaging untuk Python melalui pustaka 
 
 {{% blocks/products/pf/feature-page-section  h2="Menggunakan Aspose, setiap format gambar yang didukung dapat dikonversi menjadi ICO menggunakan Aspose.Imaging untuk Python melalui .NET" %}}
 <p align=justify>Aspose.Imaging API dapat digunakan   untuk mengonversi secara terprogram format gambar lain yang didukung ke ICO menggunakan bahasa Python.</p>
-<br/>
+<h3 style="margin-top:16px;">
 Ada konversi yang tersedia berikutnya:
+</h3>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/apng-to-ico" >APNG ke ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/bmp-to-ico" >BMP ke ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/dib-to-ico" >DIB ke ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/dicom-to-ico" >DICOM ke ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/djvu-to-ico" >DJVU ke ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/dng-to-ico" >DNG ke ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/emf-to-ico" >EMF ke ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/emz-to-ico" >EMZ ke ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/gif-to-ico" >GIF ke ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/jpeg2000-to-ico" >JPEG2000 ke ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/jp2-to-ico" >JP2 ke ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/j2k-to-ico" >J2K ke ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/jpg-to-ico" >JPG ke ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/jpeg-to-ico" >JPEG ke ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/png-to-ico" >PNG ke ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/tga-to-ico" >TGA ke ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/tif-to-ico" >TIF ke ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/tiff-to-ico" >TIFF ke ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/webp-to-ico" >WEBP ke ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/wmf-to-ico" >WMF ke ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/wmz-to-ico" >WMZ ke ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/svg-to-ico" >SVG ke ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/svgz-to-ico" >SVGZ ke ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/eps-to-ico" >EPS ke ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/cdr-to-ico" >CDR ke ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/cmx-to-ico" >CMX ke ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/otg-to-ico" >OTG ke ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/odg-to-ico" >ODG ke ICO</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/apng-to-ico/" style="padding:15px;">APNG ke ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/bmp-to-ico/" style="padding:15px;">BMP ke ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/dib-to-ico/" style="padding:15px;">DIB ke ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/dicom-to-ico/" style="padding:15px;">DICOM ke ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/djvu-to-ico/" style="padding:15px;">DJVU ke ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/dng-to-ico/" style="padding:15px;">DNG ke ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/emf-to-ico/" style="padding:15px;">EMF ke ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/emz-to-ico/" style="padding:15px;">EMZ ke ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/gif-to-ico/" style="padding:15px;">GIF ke ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/jpeg2000-to-ico/" style="padding:15px;">JPEG2000 ke ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/jp2-to-ico/" style="padding:15px;">JP2 ke ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/j2k-to-ico/" style="padding:15px;">J2K ke ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/jpg-to-ico/" style="padding:15px;">JPG ke ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/jpeg-to-ico/" style="padding:15px;">JPEG ke ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/png-to-ico/" style="padding:15px;">PNG ke ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/tga-to-ico/" style="padding:15px;">TGA ke ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/tif-to-ico/" style="padding:15px;">TIF ke ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/tiff-to-ico/" style="padding:15px;">TIFF ke ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/webp-to-ico/" style="padding:15px;">WEBP ke ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/wmf-to-ico/" style="padding:15px;">WMF ke ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/wmz-to-ico/" style="padding:15px;">WMZ ke ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/svg-to-ico/" style="padding:15px;">SVG ke ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/svgz-to-ico/" style="padding:15px;">SVGZ ke ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/eps-to-ico/" style="padding:15px;">EPS ke ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/cdr-to-ico/" style="padding:15px;">CDR ke ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/cmx-to-ico/" style="padding:15px;">CMX ke ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/otg-to-ico/" style="padding:15px;">OTG ke ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/id/python-net/conversion/odg-to-ico/" style="padding:15px;">ODG ke ICO</a></div>
                 </div>
         </div>
     </div>

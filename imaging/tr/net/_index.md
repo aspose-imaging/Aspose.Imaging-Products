@@ -1,7 +1,7 @@
 ﻿---
 title: C# .NET Platformlar Arası Görüntü Kitaplığı API'si - Aspose 
 weight: 960
-url: /tr/net 
+url: /tr/net/ 
 lang: tr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -9,11 +9,11 @@ description: C# ASP.NET VB.NET uygulamalarında düzenleme çizimi oluşturmak v
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1=".NET çapraz platform kitaplığı - Görüntü İşleme için API" h2="Herhangi bir görüntü düzenleyiciye ihtiyaç duymadan görüntüleri oluşturun, yükleyin, değiştirin veya dönüştürün." downloadFreeTrialText="Ücretsiz deneme sürümünü indirin" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/imaging/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET çapraz platform kitaplığı - Görüntü İşleme için API" h2="Herhangi bir görüntü düzenleyiciye ihtiyaç duymadan görüntüleri oluşturun, yükleyin, değiştirin veya dönüştürün." downloadFreeTrialText="Ücretsiz deneme sürümünü indirin" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/imaging/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for .NET" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-net.svg" 
-liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://purchase.aspose.com/pricing/imaging/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/imaging/net" installationsDocsLink="https://docs.aspose.com/imaging/net/installation" nugetLink="https://www.nuget.org/packages/aspose.imaging" nugetPackageName="Aspose.Imaging" directDownloadLink="https://downloads.aspose.com/imaging/net" liveDemosText="Canlı Demolar" overviewText="genel bakış" featuresText="Özellikler" resourcesText="Kaynaklar" pricingText="fiyatlandırma" downloadText="İndirmek" learnText="Öğrenmek" buyText="Satın almak" >}}
+liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/net/" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/net/" installationsDocsLink="https://docs.aspose.com/imaging/net/installation/" nugetLink="https://www.nuget.org/packages/aspose.imaging" nugetPackageName="Aspose.Imaging" directDownloadLink="https://downloads.aspose.com/imaging/net/" liveDemosText="Canlı Demolar" overviewText="genel bakış" featuresText="Özellikler" resourcesText="Kaynaklar" pricingText="fiyatlandırma" downloadText="İndirmek" learnText="Öğrenmek" buyText="Satın almak" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="bir" carousel1Text2="Bakış atmak" carousel2Text1="platformu" carousel2Text2="Bağımsızlık" carousel3Text1="Desteklenen Dosya" carousel3Text2="Formatlar">}}
 <p align="justify">
@@ -322,7 +322,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
 
 <!--Feature-section Start-->
 <div class="container-fluid features-section bg-gray singleproduct">
- <a class="anchor" id="features" name="features">
+ <a class="anchor" href="#" id="features" name="features">
  </a>
  <div class="row">
   <div class="container">
@@ -614,27 +614,27 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
 
 {{< blocks/products/pf/support-learning-resources supportAndLearningResourcesText="Destek ve Öğrenme Kaynakları">}}
 {{< blocks/products/pf/slr-tab tabTitle="Öğrenme Kaynakları" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="belgeler" href="https://docs.aspose.com/imaging/net" >}}
-{{< blocks/products/pf/slr-element name="Kaynak kodu" href="https://github.com/aspose-imaging/Aspose.Imaging-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="API Referansları" href="https://apireference.aspose.com/net/imaging" >}}
-{{< blocks/products/pf/slr-element name="Eğitim Videoları" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="belgeler" href="https://docs.aspose.com/imaging/net/" >}}
+{{< blocks/products/pf/slr-element name="Kaynak kodu" href="https://github.com/aspose-imaging/Aspose.Imaging-for-.NET/" >}}
+{{< blocks/products/pf/slr-element name="API Referansları" href="https://apireference.aspose.com/net/imaging/" >}}
+{{< blocks/products/pf/slr-element name="Eğitim Videoları" href="https://www.youtube.com/user/asposevideo/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Ürün desteği" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Ücretsiz Destek" href="https://forum.aspose.com/c/imaging" >}}
+{{< blocks/products/pf/slr-element name="Ücretsiz Destek" href="https://forum.aspose.com/c/imaging/" >}}
 {{< blocks/products/pf/slr-element name="Ücretli Destek" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/imaging/" >}}
 {{< blocks/products/pf/slr-element name="Sürüm notları" href="https://docs.aspose.com/imaging/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Neden Aspose.Imaging için .NET" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Müşteri Listesi" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Müşteri Listesi" href="https://company.aspose.com/customers/" >}}
 {{< blocks/products/pf/slr-element name="Başarı Öyküleri" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/imaging/net" downloadFreeTrialText="Ücretsiz deneme sürümünü indirin" pricingInformationText="Fiyatlandırma bilgisi" pricingInformationLink="https://purchase.aspose.com/pricing/imaging/net" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/imaging/net/" downloadFreeTrialText="Ücretsiz deneme sürümünü indirin" pricingInformationText="Fiyatlandırma bilgisi" pricingInformationLink="https://purchase.aspose.com/pricing/imaging/net/" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Imaging " description="Aspose.Imaging, aşağıda listelenen diğer popüler geliştirme ortamları için ayrı Imaging API'leri sunar:" >}}
 

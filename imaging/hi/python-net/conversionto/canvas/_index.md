@@ -1,7 +1,7 @@
 ﻿---
 title: कई प्रारूपों से चित्रों को CANVAS में बदलने के लिए .NET के माध्यम से Aspose.Imaging for Python का उपयोग करें 
 weight: 3920
-url: /hi/python-net/conversion/to/canvas 
+url: /hi/python-net/conversion/to/canvas/ 
 lang: hi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -14,43 +14,44 @@ description: आप विभिन्न स्वरूपों से CANVAS
 
 {{% blocks/products/pf/feature-page-section  h2="Aspose का उपयोग करके, प्रत्येक समर्थित चित्र प्रारूपों को Aspose.Imaging for Python के माध्यम से .NET का उपयोग करके CANVAS में परिवर्तित किया जा सकता है" %}}
 <p align=justify>Aspose.Imaging API का उपयोग Python भाषा का उपयोग करके अन्य समर्थित छवि प्रारूपों को प्रोग्रामेटिक रूप से CANVAS में बदलने के लिए किया जा सकता है।</p>
-<br/>
+<h3 style="margin-top:16px;">
 अगले उपलब्ध रूपांतरण हैं:
+</h3>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/apng-to-canvas" >APNG को CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/bmp-to-canvas" >BMP को CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/dib-to-canvas" >DIB को CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/dicom-to-canvas" >DICOM को CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/djvu-to-canvas" >DJVU को CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/dng-to-canvas" >DNG को CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/emf-to-canvas" >EMF को CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/emz-to-canvas" >EMZ को CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/gif-to-canvas" >GIF को CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/jpeg2000-to-canvas" >JPEG2000 को CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/jp2-to-canvas" >JP2 को CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/j2k-to-canvas" >J2K को CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/jpg-to-canvas" >JPG को CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/jpeg-to-canvas" >JPEG को CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/png-to-canvas" >PNG को CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/tga-to-canvas" >TGA को CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/tif-to-canvas" >TIF को CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/tiff-to-canvas" >TIFF को CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/webp-to-canvas" >WEBP को CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/wmf-to-canvas" >WMF को CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/wmz-to-canvas" >WMZ को CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/svg-to-canvas" >SVG को CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/svgz-to-canvas" >SVGZ को CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/eps-to-canvas" >EPS को CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/cdr-to-canvas" >CDR को CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/cmx-to-canvas" >CMX को CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/otg-to-canvas" >OTG को CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/odg-to-canvas" >ODG को CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/ico-to-canvas" >ICO को CANVAS</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/apng-to-canvas/" style="padding:15px;">APNG को CANVAS</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/bmp-to-canvas/" style="padding:15px;">BMP को CANVAS</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/dib-to-canvas/" style="padding:15px;">DIB को CANVAS</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/dicom-to-canvas/" style="padding:15px;">DICOM को CANVAS</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/djvu-to-canvas/" style="padding:15px;">DJVU को CANVAS</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/dng-to-canvas/" style="padding:15px;">DNG को CANVAS</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/emf-to-canvas/" style="padding:15px;">EMF को CANVAS</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/emz-to-canvas/" style="padding:15px;">EMZ को CANVAS</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/gif-to-canvas/" style="padding:15px;">GIF को CANVAS</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/jpeg2000-to-canvas/" style="padding:15px;">JPEG2000 को CANVAS</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/jp2-to-canvas/" style="padding:15px;">JP2 को CANVAS</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/j2k-to-canvas/" style="padding:15px;">J2K को CANVAS</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/jpg-to-canvas/" style="padding:15px;">JPG को CANVAS</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/jpeg-to-canvas/" style="padding:15px;">JPEG को CANVAS</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/png-to-canvas/" style="padding:15px;">PNG को CANVAS</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/tga-to-canvas/" style="padding:15px;">TGA को CANVAS</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/tif-to-canvas/" style="padding:15px;">TIF को CANVAS</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/tiff-to-canvas/" style="padding:15px;">TIFF को CANVAS</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/webp-to-canvas/" style="padding:15px;">WEBP को CANVAS</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/wmf-to-canvas/" style="padding:15px;">WMF को CANVAS</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/wmz-to-canvas/" style="padding:15px;">WMZ को CANVAS</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/svg-to-canvas/" style="padding:15px;">SVG को CANVAS</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/svgz-to-canvas/" style="padding:15px;">SVGZ को CANVAS</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/eps-to-canvas/" style="padding:15px;">EPS को CANVAS</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/cdr-to-canvas/" style="padding:15px;">CDR को CANVAS</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/cmx-to-canvas/" style="padding:15px;">CMX को CANVAS</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/otg-to-canvas/" style="padding:15px;">OTG को CANVAS</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/odg-to-canvas/" style="padding:15px;">ODG को CANVAS</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/hi/python-net/conversion/ico-to-canvas/" style="padding:15px;">ICO को CANVAS</a></div>
                 </div>
         </div>
     </div>

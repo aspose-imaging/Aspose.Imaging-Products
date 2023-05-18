@@ -2,7 +2,7 @@
 ---
 title: C# Afbeeldingsindelingen Conversie 
 weight: 3920
-url: /nl/net/conversion 
+url: /nl/net/conversion/ 
 lang: nl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -33,36 +33,36 @@ Met behulp van C# Image API is het converteren van Inter-formaat net zo eenvoudi
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
-		<div class="row other-converters">
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/nl/net/conversion/apng-to-bmp/">APNG tot BMP</a>
+		      <p><a href="/imaging/nl/net/conversion/apng-to-bmp/" style="padding:15px;">APNG tot BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/nl/net/conversion/cdr-to-bmp/">CDR tot BMP</a>
+		      <p><a href="/imaging/nl/net/conversion/cdr-to-bmp/" style="padding:15px;">CDR tot BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/nl/net/conversion/dib-to-bmp/">DIB tot BMP</a>
+		      <p><a href="/imaging/nl/net/conversion/dib-to-bmp/" style="padding:15px;">DIB tot BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/nl/net/conversion/dicom-to-bmp/">DICOM tot BMP</a>
+		      <p><a href="/imaging/nl/net/conversion/dicom-to-bmp/" style="padding:15px;">DICOM tot BMP</a></p>
 		   </div>
  		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/nl/net/conversion/djvu-to-bmp/">DJVU tot BMP</a>
+		      <p><a href="/imaging/nl/net/conversion/djvu-to-bmp/" style="padding:15px;">DJVU tot BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/nl/net/conversion/dng-to-bmp/">DNG tot BMP</a>
+		      <p><a href="/imaging/nl/net/conversion/dng-to-bmp/" style="padding:15px;">DNG tot BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/nl/net/conversion/emf-to-bmp/">EMF tot BMP</a>
+		      <p><a href="/imaging/nl/net/conversion/emf-to-bmp/" style="padding:15px;">EMF tot BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/nl/net/conversion/emz-to-bmp/">EMZ tot BMP</a>
+		      <p><a href="/imaging/nl/net/conversion/emz-to-bmp/" style="padding:15px;">EMZ tot BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/nl/net/conversion/eps-to-bmp/">EPS tot BMP</a>
+		      <p><a href="/imaging/nl/net/conversion/eps-to-bmp/" style="padding:15px;">EPS tot BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/nl/net/conversion/gif-to-bmp/">GIF tot BMP</a>
+		      <p><a href="/imaging/nl/net/conversion/gif-to-bmp/" style="padding:15px;">GIF tot BMP</a></p>
 		   </div>
 		</div>
 	</div>
@@ -84,36 +84,36 @@ Proces voor het converteren van rasterafbeeldingen naar PDF is hetzelfde als voo
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
-		<div class="row other-converters">
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/nl/net/conversion/apng-to-PDF/">APNG tot PDF</a>
+		      <p><a href="/imaging/nl/net/conversion/apng-to-PDF/" style="padding:15px;">APNG tot PDF</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/nl/net/conversion/jpeg-to-PDF/">JPEG tot PDF</a>
+		      <p><a href="/imaging/nl/net/conversion/jpeg-to-PDF/" style="padding:15px;">JPEG tot PDF</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/nl/net/conversion/bmp-to-PDF/">BMP tot PDF</a>
+		      <p><a href="/imaging/nl/net/conversion/bmp-to-PDF/" style="padding:15px;">BMP tot PDF</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/nl/net/conversion/odg-to-PDF/">ODG tot PDF</a>
+		      <p><a href="/imaging/nl/net/conversion/odg-to-PDF/" style="padding:15px;">ODG tot PDF</a></p>
 		   </div>
  		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/nl/net/conversion/otg-to-PDF/">OTG tot PDF</a>
+		      <p><a href="/imaging/nl/net/conversion/otg-to-PDF/" style="padding:15px;">OTG tot PDF</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/nl/net/conversion/png-to-PDF/">PNG tot PDF</a>
+		      <p><a href="/imaging/nl/net/conversion/png-to-PDF/" style="padding:15px;">PNG tot PDF</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/nl/net/conversion/svg-to-PDF/">SVG tot PDF</a>
+		      <p><a href="/imaging/nl/net/conversion/svg-to-PDF/" style="padding:15px;">SVG tot PDF</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/nl/net/conversion/emz-to-PDF/">EMZ tot PDF</a>
+		      <p><a href="/imaging/nl/net/conversion/emz-to-PDF/" style="padding:15px;">EMZ tot PDF</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/nl/net/conversion/eps-to-PDF/">EPS tot PDF</a>
+		      <p><a href="/imaging/nl/net/conversion/eps-to-PDF/" style="padding:15px;">EPS tot PDF</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/nl/net/conversion/gif-to-PDF/">GIF tot PDF</a>
+		      <p><a href="/imaging/nl/net/conversion/gif-to-PDF/" style="padding:15px;">GIF tot PDF</a></p>
 		   </div>
 		</div>
 	</div>
@@ -135,15 +135,15 @@ Conversieproces van SVG is hetzelfde, SVG-bestand laden, relevante opties voor h
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
-		<div class="row other-converters">
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/nl/net/conversion/SVG-to-bmp/">SVG tot BMP</a>
+		      <p><a href="/imaging/nl/net/conversion/SVG-to-bmp/" style="padding:15px;">SVG tot BMP</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/nl/net/conversion/SVG-to-jpeg/">SVG tot JPEG</a>
+		      <p><a href="/imaging/nl/net/conversion/SVG-to-jpeg/" style="padding:15px;">SVG tot JPEG</a></p>
 		   </div>
 		   <div class="col-md-2 other-converter remove-lp remove-rp">
-		      <a href="/imaging/nl/net/conversion/SVG-to-png/">SVG tot PNG</a>
+		      <p><a href="/imaging/nl/net/conversion/SVG-to-png/" style="padding:15px;">SVG tot PNG</a></p>
 		   </div>		   
 		</div>
 	</div>
@@ -158,36 +158,36 @@ Hieronder vindt u een volledige lijst van de afbeeldingsindelingen waarnaar u ku
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
                 <hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/apng" >Converteren van APNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/bmp" >Converteren van BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/dib" >Converteren van DIB</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/dicom" >Converteren van DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/djvu" >Converteren van DJVU</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/dng" >Converteren van DNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/emf" >Converteren van EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/emz" >Converteren van EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/gif" >Converteren van GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/jpeg2000" >Converteren van JPEG2000</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/jp2" >Converteren van JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/j2k" >Converteren van J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/jpg" >Converteren van JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/jpeg" >Converteren van JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/png" >Converteren van PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/tga" >Converteren van TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/tif" >Converteren van TIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/tiff" >Converteren van TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/webp" >Converteren van WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/wmf" >Converteren van WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/wmz" >Converteren van WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/svg" >Converteren van SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/svgz" >Converteren van SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/eps" >Converteren van EPS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/cdr" >Converteren van CDR</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/cmx" >Converteren van CMX</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/otg" >Converteren van OTG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/odg" >Converteren van ODG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/ico" >Converteren van ICO</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/apng/" style="padding:15px;">Converteren van APNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/bmp/" style="padding:15px;">Converteren van BMP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/dib/" style="padding:15px;">Converteren van DIB</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/dicom/" style="padding:15px;">Converteren van DICOM</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/djvu/" style="padding:15px;">Converteren van DJVU</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/dng/" style="padding:15px;">Converteren van DNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/emf/" style="padding:15px;">Converteren van EMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/emz/" style="padding:15px;">Converteren van EMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/gif/" style="padding:15px;">Converteren van GIF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/jpeg2000/" style="padding:15px;">Converteren van JPEG2000</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/jp2/" style="padding:15px;">Converteren van JP2</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/j2k/" style="padding:15px;">Converteren van J2K</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/jpg/" style="padding:15px;">Converteren van JPG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/jpeg/" style="padding:15px;">Converteren van JPEG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/png/" style="padding:15px;">Converteren van PNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/tga/" style="padding:15px;">Converteren van TGA</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/tif/" style="padding:15px;">Converteren van TIF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/tiff/" style="padding:15px;">Converteren van TIFF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/webp/" style="padding:15px;">Converteren van WEBP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/wmf/" style="padding:15px;">Converteren van WMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/wmz/" style="padding:15px;">Converteren van WMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/svg/" style="padding:15px;">Converteren van SVG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/svgz/" style="padding:15px;">Converteren van SVGZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/eps/" style="padding:15px;">Converteren van EPS</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/cdr/" style="padding:15px;">Converteren van CDR</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/cmx/" style="padding:15px;">Converteren van CMX</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/otg/" style="padding:15px;">Converteren van OTG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/odg/" style="padding:15px;">Converteren van ODG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/from/ico/" style="padding:15px;">Converteren van ICO</a></div>
                 </div>
         </div>
     </div>
@@ -201,32 +201,32 @@ Hieronder vindt u een volledige lijst van de afbeeldingsindelingen waaruit u kun
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 	        <hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/to/bmp" >Omzetten naar BMP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/to/gif" >Omzetten naar GIF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/to/dicom" >Omzetten naar DICOM</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/to/emf" >Omzetten naar EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/to/jpg" >Omzetten naar JPG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/to/jpeg" >Omzetten naar JPEG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/to/jp2" >Omzetten naar JP2</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/to/j2k" >Omzetten naar J2K</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/to/jpeg2000" >Omzetten naar JPEG2000</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/to/png" >Omzetten naar PNG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/to/psd" >Omzetten naar PSD</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/to/dxf" >Omzetten naar DXF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/to/svg" >Omzetten naar SVG</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/to/tiff" >Omzetten naar TIFF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/to/webp" >Omzetten naar WEBP</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/to/wmf" >Omzetten naar WMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/to/pdf" >Omzetten naar PDF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/to/html" >Omzetten naar HTML</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/to/emz" >Omzetten naar EMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/to/wmz" >Omzetten naar WMZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/to/tga" >Omzetten naar TGA</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/to/svgz" >Omzetten naar SVGZ</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/to/canvas" >Omzetten naar CANVAS</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/to/ico" >Omzetten naar ICO</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/to/apng" >Omzetten naar APNG</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/to/bmp/" style="padding:15px;">Omzetten naar BMP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/to/gif/" style="padding:15px;">Omzetten naar GIF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/to/dicom/" style="padding:15px;">Omzetten naar DICOM</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/to/emf/" style="padding:15px;">Omzetten naar EMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/to/jpg/" style="padding:15px;">Omzetten naar JPG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/to/jpeg/" style="padding:15px;">Omzetten naar JPEG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/to/jp2/" style="padding:15px;">Omzetten naar JP2</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/to/j2k/" style="padding:15px;">Omzetten naar J2K</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/to/jpeg2000/" style="padding:15px;">Omzetten naar JPEG2000</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/to/png/" style="padding:15px;">Omzetten naar PNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/to/psd/" style="padding:15px;">Omzetten naar PSD</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/to/dxf/" style="padding:15px;">Omzetten naar DXF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/to/svg/" style="padding:15px;">Omzetten naar SVG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/to/tiff/" style="padding:15px;">Omzetten naar TIFF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/to/webp/" style="padding:15px;">Omzetten naar WEBP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/to/wmf/" style="padding:15px;">Omzetten naar WMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/to/pdf/" style="padding:15px;">Omzetten naar PDF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/to/html/" style="padding:15px;">Omzetten naar HTML</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/to/emz/" style="padding:15px;">Omzetten naar EMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/to/wmz/" style="padding:15px;">Omzetten naar WMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/to/tga/" style="padding:15px;">Omzetten naar TGA</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/to/svgz/" style="padding:15px;">Omzetten naar SVGZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/to/canvas/" style="padding:15px;">Omzetten naar CANVAS</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/to/ico/" style="padding:15px;">Omzetten naar ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/nl/net/conversion/to/apng/" style="padding:15px;">Omzetten naar APNG</a></div>
                 </div>
         </div>
     </div>

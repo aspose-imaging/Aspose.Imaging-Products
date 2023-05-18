@@ -1,7 +1,7 @@
 ﻿---
 title: Локальное, облачное и мобильное решение для обработки изображений 
 weight: 4270
-url: /ru 
+url: /ru/ 
 lang: ru
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -18,11 +18,11 @@ description: Разрабатывайте приложения для обраб
 API High Code для платформ .NET Framework и .NET Core для разработки решения для обработки изображений.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" productLink="/imaging/ru/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" productLink="/imaging/ru/java/" >}}
 API-интерфейсы Java для создания, управления или преобразования изображений различных форматов в любом приложении на основе Java SE или EE.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging for " title="SharePoint" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg" productLink="/imaging/sharepoint" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging for " title="SharePoint" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg" productLink="/imaging/sharepoint/" >}}
 Позволяет пользователям преобразовывать изображения в другие форматы изображений, включая PNG, JPEG, BMP, GIF, TIFF и другие, из Microsoft SharePoint.
 {{< /blocks/products/pf/product >}}
 
@@ -32,15 +32,15 @@ API-интерфейсы Java для создания, управления ил
 
 {{< blocks/products/pf/product-card-row title="Aspose.Imaging низкоуровневое API включает" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud for cURL" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-curl.png" productLink="https://products.aspose.cloud/imaging/curl" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud for cURL" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-curl.png" productLink="https://products.aspose.cloud/imaging/curl/" >}}
 REST API обработки изображений для изменения размера, обрезки, поворота, масштабирования, отражения, поиска, экспорта и преобразования изображений с помощью любого устройства, способного выполнять команды cURL.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud SDK for .NET" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-net.png" productLink="https://products.aspose.cloud/imaging/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud SDK for .NET" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-net.png" productLink="https://products.aspose.cloud/imaging/net/" >}}
 SDK с открытым исходным кодом, разработанный для возможностей обработки изображений, чтобы облегчить программистам .NET использование Aspose.Imaging RESTFul API.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud SDK for Java" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-java.png" productLink="https://products.aspose.cloud/imaging/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud SDK for Java" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-java.png" productLink="https://products.aspose.cloud/imaging/java/" >}}
 Простой в использовании Java SDK для связи с Aspose.Imaging Cloud API для обработки изображений.
 {{< /blocks/products/pf/product >}}
 
@@ -50,19 +50,19 @@ SDK с открытым исходным кодом, разработанный 
 
 {{< blocks/products/pf/product-card-row title="Aspose.Imaging Приложения без кода включают" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Conversion" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/imaging/ru/conversion" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Conversion" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/imaging/ru/conversion/" >}}
 Легко конвертируйте изображения в форматы PDF, PSD и растровые изображения, не выходя из своего любимого браузера.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Watermark" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_watermark-app.png" productLink="https://products.aspose.app/imaging/ru/watermark" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Watermark" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_watermark-app.png" productLink="https://products.aspose.app/imaging/ru/watermark/" >}}
 Просто загрузите файлы изображений, чтобы добавить водяной знак из любого браузера. Не требует установки или дополнительных инструментов. 
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Reverse" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_reverse-app.png" productLink="https://products.aspose.app/imaging/ru/image-search" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Reverse" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_reverse-app.png" productLink="https://products.aspose.app/imaging/ru/image-search/" >}}
 Выполните обратный поиск изображения, чтобы найти конкретное изображение на указанном веб-сайте из любого места.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.app/imaging/family" innerText="Просмотреть все приложения без кода" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.app/imaging/family/" innerText="Просмотреть все приложения без кода" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

@@ -1,7 +1,7 @@
 ﻿---
 title: 온프레미스, 클라우드 및 앱 기반 이미지 처리 솔루션 
 weight: 4270
-url: /ko 
+url: /ko/ 
 lang: ko
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -18,11 +18,11 @@ description: On Premise 또는 Cloud API를 사용하여 이미지 조작 애플
 이미지 조작 솔루션을 개발하기 위해 .NET Framework 및 .NET Core 플랫폼을 대상으로 하는 High Code API.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" productLink="/imaging/ko/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" productLink="/imaging/ko/java/" >}}
 Java SE 또는 EE를 기반으로 하는 모든 애플리케이션에서 다양한 형식의 이미지를 생성, 조작 또는 변환하는 Java API.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging for " title="SharePoint" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg" productLink="/imaging/sharepoint" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging for " title="SharePoint" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg" productLink="/imaging/sharepoint/" >}}
 사용자가 Microsoft SharePoint 내에서 PNG, JPEG, BMP, GIF, TIFF 등을 포함한 다른 이미지 형식으로 이미지를 변환할 수 있습니다.
 {{< /blocks/products/pf/product >}}
 
@@ -32,15 +32,15 @@ Java SE 또는 EE를 기반으로 하는 모든 애플리케이션에서 다양�
 
 {{< blocks/products/pf/product-card-row title="Aspose.Imaging 로우 코드 API 포함" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud for cURL" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-curl.png" productLink="https://products.aspose.cloud/imaging/curl" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud for cURL" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-curl.png" productLink="https://products.aspose.cloud/imaging/curl/" >}}
 cURL 명령을 실행할 수 있는 모든 장치를 통해 이미지 크기 조정, 자르기, 회전, 크기 조정, 뒤집기, 검색, 내보내기 및 변환을 수행하는 이미지 처리 REST API.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud SDK for .NET" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-net.png" productLink="https://products.aspose.cloud/imaging/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud SDK for .NET" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-net.png" productLink="https://products.aspose.cloud/imaging/net/" >}}
 .NET 프로그래머가 Aspose.Imaging RESTFul API를 쉽게 사용할 수 있도록 이미지 조작 기능을 위해 설계된 오픈 소스 SDK입니다.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud SDK for Java" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-java.png" productLink="https://products.aspose.cloud/imaging/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud SDK for Java" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-java.png" productLink="https://products.aspose.cloud/imaging/java/" >}}
 Java SDK를 사용하여 이미지 조작 및 처리를 위해 Aspose.Imaging Cloud API와 통신하기 쉽습니다.
 {{< /blocks/products/pf/product >}}
 
@@ -50,19 +50,19 @@ Java SDK를 사용하여 이미지 조작 및 처리를 위해 Aspose.Imaging Cl
 
 {{< blocks/products/pf/product-card-row title="Aspose.Imaging 코드 애플리케이션 포함 없음" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Conversion" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/imaging/ko/conversion" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Conversion" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/imaging/ko/conversion/" >}}
 즐겨 사용하는 브라우저를 종료하지 않고도 이미지를 PDF, PSD 및 래스터 이미지 형식으로 쉽게 변환할 수 있습니다.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Watermark" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_watermark-app.png" productLink="https://products.aspose.app/imaging/ko/watermark" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Watermark" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_watermark-app.png" productLink="https://products.aspose.app/imaging/ko/watermark/" >}}
 이미지 파일을 업로드하기만 하면 모든 브라우저에서 워터마크를 추가할 수 있습니다. 설치 또는 추가 도구가 필요하지 않습니다. 
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Reverse" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_reverse-app.png" productLink="https://products.aspose.app/imaging/ko/image-search" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Reverse" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_reverse-app.png" productLink="https://products.aspose.app/imaging/ko/image-search/" >}}
 역 이미지 검색을 수행하여 어디에서나 지정된 웹사이트의 특정 이미지를 찾습니다.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.app/imaging/family" innerText="코드 없음 애플리케이션 모두 보기" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.app/imaging/family/" innerText="코드 없음 애플리케이션 모두 보기" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

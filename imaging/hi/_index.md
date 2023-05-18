@@ -1,7 +1,7 @@
 ﻿---
 title: ऑन-प्रिमाइसेस, क्लाउड और ऐप आधारित इमेज प्रोसेसिंग समाधान 
 weight: 4270
-url: /hi 
+url: /hi/ 
 lang: hi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -18,11 +18,11 @@ description: ऑन-प्रिमाइसेस या क्लाउड ए
 छवि हेरफेर समाधान विकसित करने के लिए .NET फ्रेमवर्क और .NET कोर प्लेटफॉर्म को लक्षित करने के लिए हाई कोड एपीआई।
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" productLink="/imaging/hi/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" productLink="/imaging/hi/java/" >}}
 जावा एसई या ईई के आधार पर किसी भी एप्लिकेशन में विभिन्न प्रारूप छवियों को बनाने, हेरफेर करने या परिवर्तित करने के लिए जावा एपीआई।
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging for " title="SharePoint" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg" productLink="/imaging/sharepoint" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging for " title="SharePoint" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg" productLink="/imaging/sharepoint/" >}}
 उपयोगकर्ताओं को माइक्रोसॉफ्ट शेयरपॉइंट के भीतर से पीएनजी, जेपीईजी, बीएमपी, जीआईएफ, टीआईएफएफ और अन्य सहित छवियों को अन्य छवि प्रारूपों में परिवर्तित करने की अनुमति देता है।
 {{< /blocks/products/pf/product >}}
 
@@ -32,15 +32,15 @@ description: ऑन-प्रिमाइसेस या क्लाउड ए
 
 {{< blocks/products/pf/product-card-row title="Aspose.Imaging निम्न कोड API शामिल करें" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud for cURL" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-curl.png" productLink="https://products.aspose.cloud/imaging/curl" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud for cURL" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-curl.png" productLink="https://products.aspose.cloud/imaging/curl/" >}}
 इमेज प्रोसेसिंग REST APIs को कर्ल कमांड को निष्पादित करने में सक्षम किसी भी डिवाइस के माध्यम से आकार बदलने, क्रॉप करने, घुमाने, स्केल करने, फ्लिप करने, खोजने, निर्यात करने और छवियों को परिवर्तित करने के लिए।
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud SDK for .NET" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-net.png" productLink="https://products.aspose.cloud/imaging/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud SDK for .NET" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-net.png" productLink="https://products.aspose.cloud/imaging/net/" >}}
 ओपन सोर्स एसडीके को इमेज मैनिपुलेशन क्षमताओं के लिए डिज़ाइन किया गया है ताकि .NET प्रोग्रामर को Aspose.Imaging RESTFul APIs का उपयोग करने में सुविधा हो।
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud SDK for Java" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-java.png" productLink="https://products.aspose.cloud/imaging/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud SDK for Java" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-java.png" productLink="https://products.aspose.cloud/imaging/java/" >}}
 छवि हेरफेर और प्रसंस्करण के लिए Aspose.Imaging Cloud APIs के साथ संवाद करने के लिए Java SDK का उपयोग करना आसान है।
 {{< /blocks/products/pf/product >}}
 
@@ -50,19 +50,19 @@ description: ऑन-प्रिमाइसेस या क्लाउड ए
 
 {{< blocks/products/pf/product-card-row title="Aspose.Imaging कोई कोड आवेदन शामिल नहीं है" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Conversion" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/imaging/hi/conversion" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Conversion" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/imaging/hi/conversion/" >}}
 अपने पसंदीदा ब्राउज़र को छोड़े बिना आसानी से छवियों को पीडीएफ, पीएसडी और रेखापुंज छवि प्रारूपों में परिवर्तित करें।
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Watermark" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_watermark-app.png" productLink="https://products.aspose.app/imaging/hi/watermark" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Watermark" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_watermark-app.png" productLink="https://products.aspose.app/imaging/hi/watermark/" >}}
 किसी भी ब्राउज़र से वॉटरमार्क जोड़ने के लिए बस अपनी छवि फ़ाइलें अपलोड करें। कोई स्थापना या अतिरिक्त उपकरण की आवश्यकता नहीं है। 
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Reverse" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_reverse-app.png" productLink="https://products.aspose.app/imaging/hi/image-search" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Reverse" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_reverse-app.png" productLink="https://products.aspose.app/imaging/hi/image-search/" >}}
 कहीं से भी निर्दिष्ट वेबसाइट पर विशेष छवि खोजने के लिए रिवर्स इमेज सर्च करें।
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.app/imaging/family" innerText="सभी देखें कोई कोड आवेदन नहीं" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.app/imaging/family/" innerText="सभी देखें कोई कोड आवेदन नहीं" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

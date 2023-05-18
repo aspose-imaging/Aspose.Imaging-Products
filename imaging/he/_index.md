@@ -1,7 +1,7 @@
 ﻿---
 title: פתרון עיבוד תמונה מבוסס-על, ענן ואפליקציות 
 weight: 4270
-url: /he 
+url: /he/ 
 lang: he
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -18,11 +18,11 @@ description: פתח יישומי מניפולציה של תמונות באמצע
 High Code APIs למיקוד .NET Framework ו-.NET Core פלטפורמות לפיתוח פתרון מניפולציה של תמונות.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" productLink="/imaging/he/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" productLink="/imaging/he/java/" >}}
 ממשקי API של Java ליצירה, מניפולציה או המרת תמונות בפורמט שונה בכל יישום המבוסס על Java SE או EE.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging for " title="SharePoint" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg" productLink="/imaging/sharepoint" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging for " title="SharePoint" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg" productLink="/imaging/sharepoint/" >}}
 מאפשר למשתמשים להמיר תמונות לפורמטים אחרים של תמונה כולל PNG, JPEG, BMP, GIF, TIFF ועוד מתוך Microsoft SharePoint.
 {{< /blocks/products/pf/product >}}
 
@@ -32,15 +32,15 @@ High Code APIs למיקוד .NET Framework ו-.NET Core פלטפורמות לפ�
 
 {{< blocks/products/pf/product-card-row title="Aspose.Imaging ממשקי API של קוד נמוך כוללים" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud for cURL" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-curl.png" productLink="https://products.aspose.cloud/imaging/curl" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud for cURL" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-curl.png" productLink="https://products.aspose.cloud/imaging/curl/" >}}
 עיבוד תמונה REST APIs לשינוי גודל, חיתוך, סיבוב, קנה מידה, הפוך, חיפוש, ייצוא והמרה של תמונות באמצעות כל מכשיר המסוגל לבצע פקודות cURL.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud SDK for .NET" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-net.png" productLink="https://products.aspose.cloud/imaging/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud SDK for .NET" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-net.png" productLink="https://products.aspose.cloud/imaging/net/" >}}
 SDK בקוד פתוח המיועד ליכולות מניפולציה של תמונות כדי להקל על מתכנתי NET להשתמש בממשקי API של Aspose.Imaging RESTFul.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud SDK for Java" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-java.png" productLink="https://products.aspose.cloud/imaging/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud SDK for Java" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-java.png" productLink="https://products.aspose.cloud/imaging/java/" >}}
 קל לשימוש Java SDK כדי לתקשר עם Aspose.Imaging Cloud APIs עבור מניפולציה ועיבוד תמונה.
 {{< /blocks/products/pf/product >}}
 
@@ -50,19 +50,19 @@ SDK בקוד פתוח המיועד ליכולות מניפולציה של תמו
 
 {{< blocks/products/pf/product-card-row title="Aspose.Imaging לא כולל יישומי קוד" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Conversion" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/imaging/he/conversion" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Conversion" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/imaging/he/conversion/" >}}
 המר בקלות תמונות לפורמטים של תמונות PDF, PSD ו-Raster מבלי לעזוב את הדפדפן המועדף עליך.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Watermark" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_watermark-app.png" productLink="https://products.aspose.app/imaging/he/watermark" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Watermark" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_watermark-app.png" productLink="https://products.aspose.app/imaging/he/watermark/" >}}
 פשוט העלה את קובצי התמונה שלך כדי להוסיף סימן מים מכל דפדפן. אין צורך בהתקנה או בכלים נוספים. 
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Reverse" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_reverse-app.png" productLink="https://products.aspose.app/imaging/he/image-search" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Reverse" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_reverse-app.png" productLink="https://products.aspose.app/imaging/he/image-search/" >}}
 בצע חיפוש תמונות הפוך כדי למצוא תמונה מסוימת באתר שצוין מכל מקום.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.app/imaging/family" innerText="הצג את כל יישומי ללא קוד" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.app/imaging/family/" innerText="הצג את כל יישומי ללא קוד" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

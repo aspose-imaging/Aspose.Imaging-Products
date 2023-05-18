@@ -1,7 +1,7 @@
 ﻿---
 title: Java Imaging API | Nubrėžkite manipuliuoti ir transformuoti vaizdus 
 weight: 960
-url: /lt/java 
+url: /lt/java/ 
 lang: lt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -9,11 +9,11 @@ description: Java vaizdų apdorojimo ir manipuliavimo biblioteka. Kurkite apkrov
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1="Java biblioteka ir API vaizdo apdorojimui" h2="Kurkite, įkelkite, manipuliuokite arba konvertuokite vaizdus nereikalaujant jokios vaizdų rengyklės." downloadFreeTrialText="Atsisiųskite nemokamą bandomąją versiją" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-java.svg"  pfName="Aspose.Imaging" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/imaging/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java biblioteka ir API vaizdo apdorojimui" h2="Kurkite, įkelkite, manipuliuokite arba konvertuokite vaizdus nereikalaujant jokios vaizdų rengyklės." downloadFreeTrialText="Atsisiųskite nemokamą bandomąją versiją" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-java.svg"  pfName="Aspose.Imaging" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/imaging/java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Java" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-java.svg" 
-liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://purchase.aspose.com/pricing/imaging/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/imaging/java" installationsDocsLink="https://docs.aspose.com/imaging/java/installation" mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-imaging/" directDownloadLink="https://downloads.aspose.com/imaging/java" liveDemosText="Tiesioginės demonstracinės versijos" overviewText="Apžvalga" featuresText="funkcijos" resourcesText="Ištekliai" pricingText="Kainodara" downloadText="parsisiųsti" learnText="Mokytis" buyText="Pirkti" >}}
+liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/java/" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/java/" installationsDocsLink="https://docs.aspose.com/imaging/java/installation/" mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-imaging/" directDownloadLink="https://downloads.aspose.com/imaging/java/" liveDemosText="Tiesioginės demonstracinės versijos" overviewText="Apžvalga" featuresText="funkcijos" resourcesText="Ištekliai" pricingText="Kainodara" downloadText="parsisiųsti" learnText="Mokytis" buyText="Pirkti" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="Prie a" carousel1Text2="Žvilgsnis" carousel2Text1="Platforma" carousel2Text2="Nepriklausomybė" carousel3Text1="Palaikomas failas" carousel3Text2="Formatai">}}
 <p align="justify">
@@ -307,7 +307,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
 
 <!--Feature-section Start-->
 <div class="container-fluid features-section bg-gray singleproduct">
- <a class="anchor" id="features" name="features">
+ <a class="anchor" href="#" id="features" name="features">
  </a>
  <div class="row">
   <div class="container">
@@ -599,27 +599,27 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
 
 {{< blocks/products/pf/support-learning-resources supportAndLearningResourcesText="Pagalba ir mokymosi ištekliai">}}
 {{< blocks/products/pf/slr-tab tabTitle="Mokymosi ištekliai" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Dokumentacija" href="https://docs.aspose.com/imaging/java" >}}
-{{< blocks/products/pf/slr-element name="Pirminis kodas" href="https://github.com/aspose-imaging/Aspose.Imaging-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API nuorodos" href="https://apireference.aspose.com/java/imaging" >}}
-{{< blocks/products/pf/slr-element name="Mokomieji vaizdo įrašai" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Dokumentacija" href="https://docs.aspose.com/imaging/java/" >}}
+{{< blocks/products/pf/slr-element name="Pirminis kodas" href="https://github.com/aspose-imaging/Aspose.Imaging-for-Java/" >}}
+{{< blocks/products/pf/slr-element name="API nuorodos" href="https://apireference.aspose.com/java/imaging/" >}}
+{{< blocks/products/pf/slr-element name="Mokomieji vaizdo įrašai" href="https://www.youtube.com/user/asposevideo/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Produkto palaikymas" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Nemokamas palaikymas" href="https://forum.aspose.com/c/imaging" >}}
+{{< blocks/products/pf/slr-element name="Nemokamas palaikymas" href="https://forum.aspose.com/c/imaging/" >}}
 {{< blocks/products/pf/slr-element name="Mokama parama" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Dienoraštis" href="https://blog.aspose.com/category/imaging/" >}}
 {{< blocks/products/pf/slr-element name="Išleidimo pastabos" href="https://docs.aspose.com/imaging/java/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Kodėl Aspose.Imaging for Java" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Klientų sąrašas" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Klientų sąrašas" href="https://company.aspose.com/customers/" >}}
 {{< blocks/products/pf/slr-element name="Sėkmės istorijos" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/imaging/java" downloadFreeTrialText="Atsisiųskite nemokamą bandomąją versiją" pricingInformationText="Informacija apie kainas" pricingInformationLink="https://purchase.aspose.com/pricing/imaging/java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/imaging/java/" downloadFreeTrialText="Atsisiųskite nemokamą bandomąją versiją" pricingInformationText="Informacija apie kainas" pricingInformationLink="https://purchase.aspose.com/pricing/imaging/java/" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Imaging " description="Aspose.Imaging siūlo atskiras vaizdo gavimo API kitoms populiarioms kūrimo aplinkoms, kaip nurodyta toliau:" >}}
 

@@ -1,7 +1,7 @@
 ﻿---
 title: API thư viện hình ảnh đa nền tảng C # .NET - Aspose 
 weight: 960
-url: /vi/net 
+url: /vi/net/ 
 lang: vi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -9,11 +9,11 @@ description: API thư viện xử lý và thao tác hình ảnh để tạo ch�
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1="Thư viện đa nền tảng .NET - API để xử lý hình ảnh" h2="Tạo, tải, thao tác hoặc chuyển đổi hình ảnh mà không yêu cầu bất kỳ trình chỉnh sửa hình ảnh nào." downloadFreeTrialText="Tải xuống bản dùng thử miễn phí" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/imaging/net" >}}
+{{< blocks/products/pf/upper-banner h1="Thư viện đa nền tảng .NET - API để xử lý hình ảnh" h2="Tạo, tải, thao tác hoặc chuyển đổi hình ảnh mà không yêu cầu bất kỳ trình chỉnh sửa hình ảnh nào." downloadFreeTrialText="Tải xuống bản dùng thử miễn phí" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/imaging/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for .NET" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-net.svg" 
-liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://purchase.aspose.com/pricing/imaging/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/imaging/net" installationsDocsLink="https://docs.aspose.com/imaging/net/installation" nugetLink="https://www.nuget.org/packages/aspose.imaging" nugetPackageName="Aspose.Imaging" directDownloadLink="https://downloads.aspose.com/imaging/net" liveDemosText="Bản trình diễn trực tiếp" overviewText="Tổng quat" featuresText="Đặc trưng" resourcesText="Tài nguyên" pricingText="Định giá" downloadText="Tải xuống" learnText="Học" buyText="Mua" >}}
+liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/net/" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/net/" installationsDocsLink="https://docs.aspose.com/imaging/net/installation/" nugetLink="https://www.nuget.org/packages/aspose.imaging" nugetPackageName="Aspose.Imaging" directDownloadLink="https://downloads.aspose.com/imaging/net/" liveDemosText="Bản trình diễn trực tiếp" overviewText="Tổng quat" featuresText="Đặc trưng" resourcesText="Tài nguyên" pricingText="Định giá" downloadText="Tải xuống" learnText="Học" buyText="Mua" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="Tại một" carousel1Text2="Liếc nhìn" carousel2Text1="Nền tảng" carousel2Text2="Sự độc lập" carousel3Text1="Tệp được hỗ trợ" carousel3Text2="Định dạng">}}
 <p align="justify">
@@ -322,7 +322,7 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
 
 <!--Feature-section Start-->
 <div class="container-fluid features-section bg-gray singleproduct">
- <a class="anchor" id="features" name="features">
+ <a class="anchor" href="#" id="features" name="features">
  </a>
  <div class="row">
   <div class="container">
@@ -614,27 +614,27 @@ liveDemosLink="https://products.aspose.app/imaging/family" PricingLink="https://
 
 {{< blocks/products/pf/support-learning-resources supportAndLearningResourcesText="Tài nguyên Hỗ trợ và Học tập">}}
 {{< blocks/products/pf/slr-tab tabTitle="Tài nguyên học tập" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Tài liệu" href="https://docs.aspose.com/imaging/net" >}}
-{{< blocks/products/pf/slr-element name="Mã nguồn" href="https://github.com/aspose-imaging/Aspose.Imaging-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="Tham chiếu API" href="https://apireference.aspose.com/net/imaging" >}}
-{{< blocks/products/pf/slr-element name="Video hướng dẫn" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Tài liệu" href="https://docs.aspose.com/imaging/net/" >}}
+{{< blocks/products/pf/slr-element name="Mã nguồn" href="https://github.com/aspose-imaging/Aspose.Imaging-for-.NET/" >}}
+{{< blocks/products/pf/slr-element name="Tham chiếu API" href="https://apireference.aspose.com/net/imaging/" >}}
+{{< blocks/products/pf/slr-element name="Video hướng dẫn" href="https://www.youtube.com/user/asposevideo/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Hỗ trợ sản phẩm" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Hỗ trợ miễn phí" href="https://forum.aspose.com/c/imaging" >}}
+{{< blocks/products/pf/slr-element name="Hỗ trợ miễn phí" href="https://forum.aspose.com/c/imaging/" >}}
 {{< blocks/products/pf/slr-element name="Hỗ trợ trả phí" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/imaging/" >}}
 {{< blocks/products/pf/slr-element name="Ghi chú phát hành" href="https://docs.aspose.com/imaging/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Tại sao lại sử dụng Aspose. .NET" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Danh sách khách hàng" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="Danh sách khách hàng" href="https://company.aspose.com/customers/" >}}
 {{< blocks/products/pf/slr-element name="Câu chuyện thành công" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/imaging/net" downloadFreeTrialText="Tải xuống bản dùng thử miễn phí" pricingInformationText="Thông tin giá cả" pricingInformationLink="https://purchase.aspose.com/pricing/imaging/net" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/imaging/net/" downloadFreeTrialText="Tải xuống bản dùng thử miễn phí" pricingInformationText="Thông tin giá cả" pricingInformationLink="https://purchase.aspose.com/pricing/imaging/net/" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Imaging " description="Aspose.Imaging cung cấp các API hình ảnh riêng lẻ cho các môi trường phát triển phổ biến khác như được liệt kê bên dưới:" >}}
 

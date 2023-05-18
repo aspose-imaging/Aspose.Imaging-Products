@@ -1,7 +1,7 @@
 ﻿---
 title: Solusi Pemrosesan Gambar Berbasis Lokal, Cloud, dan Aplikasi 
 weight: 4270
-url: /id 
+url: /id/ 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -18,11 +18,11 @@ description: Kembangkan aplikasi manipulasi Gambar menggunakan On Premise atau C
 API Kode Tinggi untuk menargetkan platform .NET Framework dan .NET Core untuk mengembangkan solusi manipulasi gambar.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" productLink="/imaging/id/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" productLink="/imaging/id/java/" >}}
 Java API untuk membuat, memanipulasi, atau mengonversi gambar dengan format berbeda dalam aplikasi apa pun berdasarkan Java SE atau EE.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging for " title="SharePoint" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg" productLink="/imaging/sharepoint" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging for " title="SharePoint" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg" productLink="/imaging/sharepoint/" >}}
 Memungkinkan pengguna mengonversi gambar ke format gambar lain termasuk PNG, JPEG, BMP, GIF, TIFF, dan lainnya dari dalam Microsoft SharePoint.
 {{< /blocks/products/pf/product >}}
 
@@ -32,15 +32,15 @@ Memungkinkan pengguna mengonversi gambar ke format gambar lain termasuk PNG, JPE
 
 {{< blocks/products/pf/product-card-row title="Aspose.Imaging API Kode Rendah Termasuk" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud for cURL" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-curl.png" productLink="https://products.aspose.cloud/imaging/curl" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud for cURL" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-curl.png" productLink="https://products.aspose.cloud/imaging/curl/" >}}
 Pemrosesan gambar REST API untuk mengubah ukuran, memotong, memutar, menskalakan, membalik, mencari, mengekspor, dan mengonversi gambar melalui perangkat apa pun yang mampu menjalankan perintah cURL.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud SDK for .NET" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-net.png" productLink="https://products.aspose.cloud/imaging/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud SDK for .NET" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-net.png" productLink="https://products.aspose.cloud/imaging/net/" >}}
 SDK sumber terbuka yang dirancang untuk kemampuan manipulasi gambar guna memfasilitasi pemrogram .NET untuk menggunakan Aspose.Imaging RESTFul API.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud SDK for Java" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-java.png" productLink="https://products.aspose.cloud/imaging/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud SDK for Java" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-java.png" productLink="https://products.aspose.cloud/imaging/java/" >}}
 Java SDK yang mudah digunakan untuk berkomunikasi dengan Aspose.Imaging Cloud APIs untuk manipulasi dan pemrosesan gambar.
 {{< /blocks/products/pf/product >}}
 
@@ -50,19 +50,19 @@ Java SDK yang mudah digunakan untuk berkomunikasi dengan Aspose.Imaging Cloud AP
 
 {{< blocks/products/pf/product-card-row title="Aspose.Imaging Tidak Ada Aplikasi Kode Termasuk" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Conversion" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/imaging/id/conversion" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Conversion" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/imaging/id/conversion/" >}}
 Konversi Gambar dengan mudah ke format gambar PDF, PSD, dan Raster tanpa meninggalkan browser favorit Anda.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Watermark" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_watermark-app.png" productLink="https://products.aspose.app/imaging/id/watermark" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Watermark" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_watermark-app.png" productLink="https://products.aspose.app/imaging/id/watermark/" >}}
 Cukup unggah file gambar Anda untuk menambahkan tanda air dari browser apa pun. Tidak ada instalasi atau alat tambahan yang diperlukan. 
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Reverse" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_reverse-app.png" productLink="https://products.aspose.app/imaging/id/image-search" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Reverse" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_reverse-app.png" productLink="https://products.aspose.app/imaging/id/image-search/" >}}
 Lakukan pencarian gambar terbalik untuk menemukan gambar tertentu di situs web tertentu dari mana saja.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.app/imaging/family" innerText="Lihat Semua Aplikasi Tanpa Kode" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.app/imaging/family/" innerText="Lihat Semua Aplikasi Tanpa Kode" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

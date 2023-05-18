@@ -1,7 +1,7 @@
 ﻿---
 title: 基於本地、雲和應用程序的圖像處理解決方案 
 weight: 4270
-url: /zh-hant 
+url: /zh-hant/ 
 lang: zh-hant
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -18,11 +18,11 @@ description: 使用 On Premise 或 Cloud API 開發圖像處理應用程序，�
 面向 .NET Framework 和 .NET Core 平台的高代碼 API 以開發圖像處理解決方案。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" productLink="/imaging/zh-hant/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-java.svg" productLink="/imaging/zh-hant/java/" >}}
 Java API 用於在任何基於 Java SE 或 EE 的應用程序中創建、操作或轉換不同格式的圖像。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging for " title="SharePoint" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg" productLink="/imaging/sharepoint" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging for " title="SharePoint" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/imaging/aspose_imaging-for-sharepoint.svg" productLink="/imaging/sharepoint/" >}}
 允許用戶在 Microsoft SharePoint 中將圖像轉換為其他圖像格式，包括 PNG、JPEG、BMP、GIF、TIFF 等。
 {{< /blocks/products/pf/product >}}
 
@@ -32,15 +32,15 @@ Java API 用於在任何基於 Java SE 或 EE 的應用程序中創建、操作�
 
 {{< blocks/products/pf/product-card-row title="Aspose.Imaging 低代碼 API 包括" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud for cURL" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-curl.png" productLink="https://products.aspose.cloud/imaging/curl" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud for cURL" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-curl.png" productLink="https://products.aspose.cloud/imaging/curl/" >}}
 圖像處理 REST API 可通過任何能夠執行 cURL 命令的設備調整大小、裁剪、旋轉、縮放、翻轉、搜索、導出和轉換圖像。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud SDK for .NET" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-net.png" productLink="https://products.aspose.cloud/imaging/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud SDK for .NET" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-net.png" productLink="https://products.aspose.cloud/imaging/net/" >}}
 為圖像處理功能而設計的開源 SDK，以方便 .NET 程序員使用 Aspose.Imaging RESTFul API。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud SDK for Java" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-java.png" productLink="https://products.aspose.cloud/imaging/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging" title="Cloud SDK for Java" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_imaging-for-java.png" productLink="https://products.aspose.cloud/imaging/java/" >}}
 易於使用 Java SDK 與 Aspose.Imaging Cloud API 進行通信以進行圖像操作和處理。
 {{< /blocks/products/pf/product >}}
 
@@ -50,19 +50,19 @@ Java API 用於在任何基於 Java SE 或 EE 的應用程序中創建、操作�
 
 {{< blocks/products/pf/product-card-row title="Aspose.Imaging 無代碼應用程序包括" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Conversion" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/imaging/zh-hant/conversion" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Conversion" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/imaging/zh-hant/conversion/" >}}
 無需離開您喜歡的瀏覽器即可輕鬆將圖像轉換為 PDF、PSD 和光柵圖像格式。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Watermark" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_watermark-app.png" productLink="https://products.aspose.app/imaging/zh-hant/watermark" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Watermark" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_watermark-app.png" productLink="https://products.aspose.app/imaging/zh-hant/watermark/" >}}
 只需上傳您的圖像文件即可從任何瀏覽器添加水印。無需安裝或其他工具。 
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Reverse" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_reverse-app.png" productLink="https://products.aspose.app/imaging/zh-hant/image-search" >}}
+{{< blocks/products/pf/product pfName="Aspose.Imaging " title="Reverse" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_reverse-app.png" productLink="https://products.aspose.app/imaging/zh-hant/image-search/" >}}
 執行反向圖像搜索以從任何地方查找指定網站上的特定圖像。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.app/imaging/family" innerText="查看所有無代碼應用程序" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.app/imaging/family/" innerText="查看所有無代碼應用程序" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 

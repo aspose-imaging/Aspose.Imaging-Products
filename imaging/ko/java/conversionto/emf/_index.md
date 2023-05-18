@@ -1,7 +1,7 @@
 ﻿---
 title: Aspose.Imaging for Java 라이브러리를 사용하여 다른 형식에서 EMF로 변환 
 weight: 3920
-url: /ko/java/conversion/to/emf 
+url: /ko/java/conversion/to/emf/ 
 lang: ko
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
@@ -14,42 +14,43 @@ description: Aspose.Imaging을 사용하면 Java를 사용하여 다른 형식�
 
 {{% blocks/products/pf/feature-page-section  h2="지원되는 모든 이미지 형식은 Aspose.Imaging for Java를 사용하여 EMF로 변환할 수 있습니다." %}}
 <p align=justify>Aspose.Imaging 라이브러리를 사용하면 Java 플랫폼을 사용하여 지원되는 다른 이미지 형식에서 프로그래밍 방식으로 EMF로 변환할 수 있습니다.</p>
-<br/>
+<h3 style="margin-top:16px;">
 지원되는 변환:
+</h3>
 {{% /blocks/products/pf/feature-page-section %}}
 <div class="container-fluid productfamilypage bg-gray">
     <div class="convertypes bg-gray agp-content section">
         <div class="container">
 		<hr style="margin-left:-20px;"/>
-		<div class="row other-converters">
-		    <div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/apng-to-emf" >APNG 에게 EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/bmp-to-emf" >BMP 에게 EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/dib-to-emf" >DIB 에게 EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/dicom-to-emf" >DICOM 에게 EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/djvu-to-emf" >DJVU 에게 EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/dng-to-emf" >DNG 에게 EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/emz-to-emf" >EMZ 에게 EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/gif-to-emf" >GIF 에게 EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/jpeg2000-to-emf" >JPEG2000 에게 EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/jp2-to-emf" >JP2 에게 EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/j2k-to-emf" >J2K 에게 EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/jpg-to-emf" >JPG 에게 EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/jpeg-to-emf" >JPEG 에게 EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/png-to-emf" >PNG 에게 EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/tga-to-emf" >TGA 에게 EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/tif-to-emf" >TIF 에게 EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/tiff-to-emf" >TIFF 에게 EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/webp-to-emf" >WEBP 에게 EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/wmf-to-emf" >WMF 에게 EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/wmz-to-emf" >WMZ 에게 EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/svg-to-emf" >SVG 에게 EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/svgz-to-emf" >SVGZ 에게 EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/eps-to-emf" >EPS 에게 EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/cdr-to-emf" >CDR 에게 EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/cmx-to-emf" >CMX 에게 EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/otg-to-emf" >OTG 에게 EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/odg-to-emf" >ODG 에게 EMF</a></div>
-<div class='col-md-2 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/ico-to-emf" >ICO 에게 EMF</a></div>
+		<div class="row other-converters" style="gap: 10px;font-size: 19px;text-align:center;">
+		    <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/apng-to-emf/" style="padding:15px;">APNG 에게 EMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/bmp-to-emf/" style="padding:15px;">BMP 에게 EMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/dib-to-emf/" style="padding:15px;">DIB 에게 EMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/dicom-to-emf/" style="padding:15px;">DICOM 에게 EMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/djvu-to-emf/" style="padding:15px;">DJVU 에게 EMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/dng-to-emf/" style="padding:15px;">DNG 에게 EMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/emz-to-emf/" style="padding:15px;">EMZ 에게 EMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/gif-to-emf/" style="padding:15px;">GIF 에게 EMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/jpeg2000-to-emf/" style="padding:15px;">JPEG2000 에게 EMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/jp2-to-emf/" style="padding:15px;">JP2 에게 EMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/j2k-to-emf/" style="padding:15px;">J2K 에게 EMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/jpg-to-emf/" style="padding:15px;">JPG 에게 EMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/jpeg-to-emf/" style="padding:15px;">JPEG 에게 EMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/png-to-emf/" style="padding:15px;">PNG 에게 EMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/tga-to-emf/" style="padding:15px;">TGA 에게 EMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/tif-to-emf/" style="padding:15px;">TIF 에게 EMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/tiff-to-emf/" style="padding:15px;">TIFF 에게 EMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/webp-to-emf/" style="padding:15px;">WEBP 에게 EMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/wmf-to-emf/" style="padding:15px;">WMF 에게 EMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/wmz-to-emf/" style="padding:15px;">WMZ 에게 EMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/svg-to-emf/" style="padding:15px;">SVG 에게 EMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/svgz-to-emf/" style="padding:15px;">SVGZ 에게 EMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/eps-to-emf/" style="padding:15px;">EPS 에게 EMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/cdr-to-emf/" style="padding:15px;">CDR 에게 EMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/cmx-to-emf/" style="padding:15px;">CMX 에게 EMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/otg-to-emf/" style="padding:15px;">OTG 에게 EMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/odg-to-emf/" style="padding:15px;">ODG 에게 EMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/java/conversion/ico-to-emf/" style="padding:15px;">ICO 에게 EMF</a></div>
                 </div>
         </div>
     </div>
