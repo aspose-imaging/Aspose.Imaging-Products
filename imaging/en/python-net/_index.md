@@ -13,7 +13,7 @@ description: Python Image processing and manipulation library. Aspose.Imaging fo
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Python" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-python-net.svg" 
-liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/python-net/" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/python-net/" installationsDocsLink="https://docs.aspose.com/imaging/python-net/installation/" pipLink="https://test.pypi.org/project/aspose.imaging/" directDownloadLink="https://downloads.aspose.com/imaging/python-net/" liveDemosText="Live Demos" overviewText="Overview" featuresText="Features" resourcesText="Resources" pricingText="Pricing" downloadText="Download" learnText="Learn" buyText="Buy" >}}
+liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/python-net/" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/python-net/" installationsDocsLink="https://docs.aspose.com/imaging/python-net/installation/" pipLink="https://pypi.org/project/aspose-imaging-python-net/" directDownloadLink="https://downloads.aspose.com/imaging/python-net/" liveDemosText="Live Demos" overviewText="Overview" featuresText="Features" resourcesText="Resources" pricingText="Pricing" downloadText="Download" learnText="Learn" buyText="Buy" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="At a" carousel1Text2="Glance" carousel2Text1="Platform" carousel2Text2="Independence" carousel3Text1="Supported File" carousel3Text2="Formats">}}
 <p align="justify">
@@ -440,7 +440,7 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-link ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/en/python-net/merge/">
      Merge
      
     </p>

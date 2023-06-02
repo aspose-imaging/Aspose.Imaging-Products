@@ -13,7 +13,7 @@ description: Bibliothek zur Bildverarbeitung und -bearbeitung in Python. Aspose.
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Python" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-python-net.svg" 
-liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/python-net/" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/python-net/" installationsDocsLink="https://docs.aspose.com/imaging/python-net/installation/" pipLink="https://test.pypi.org/project/aspose.imaging/" directDownloadLink="https://downloads.aspose.com/imaging/python-net/" liveDemosText="Live-Demos" overviewText="Überblick" featuresText="Merkmale" resourcesText="Ressourcen" pricingText="Preisgestaltung" downloadText="Download" learnText="Lernen" buyText="Besorgen" >}}
+liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/python-net/" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/python-net/" installationsDocsLink="https://docs.aspose.com/imaging/python-net/installation/" pipLink="https://pypi.org/project/aspose-imaging-python-net/" directDownloadLink="https://downloads.aspose.com/imaging/python-net/" liveDemosText="Live-Demos" overviewText="Überblick" featuresText="Merkmale" resourcesText="Ressourcen" pricingText="Preisgestaltung" downloadText="Download" learnText="Lernen" buyText="Besorgen" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="An einer" carousel1Text2="Blick" carousel2Text1="Plattform" carousel2Text2="Unabhängigkeit" carousel3Text1="Unterstützte Datei" carousel3Text2="Formate">}}
 <p align="justify">
@@ -440,7 +440,7 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-link ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/de/python-net/merge/">
      Verschmelzen
      
     </p>
