@@ -13,7 +13,7 @@ description: Python 圖像處理和操作庫。 Aspose.Imaging for Python via .N
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Python" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-python-net.svg" 
-liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/python-net/" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/python-net/" installationsDocsLink="https://docs.aspose.com/imaging/python-net/installation/" pipLink="https://test.pypi.org/project/aspose.imaging/" directDownloadLink="https://downloads.aspose.com/imaging/python-net/" liveDemosText="現場演示" overviewText="概述" featuresText="特徵" resourcesText="資源" pricingText="價錢" downloadText="下載" learnText="學習" buyText="買" >}}
+liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/python-net/" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/python-net/" installationsDocsLink="https://docs.aspose.com/imaging/python-net/installation/" pipLink="https://pypi.org/project/aspose-imaging-python-net/" directDownloadLink="https://downloads.aspose.com/imaging/python-net/" liveDemosText="現場演示" overviewText="概述" featuresText="特徵" resourcesText="資源" pricingText="價錢" downloadText="下載" learnText="學習" buyText="買" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="在一個" carousel1Text2="一目了然" carousel2Text1="平台" carousel2Text2="獨立" carousel3Text1="支持的文件" carousel3Text2="格式">}}
 <p align="justify">
@@ -440,7 +440,7 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-link ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/zh-hant/python-net/merge/">
      合併
      
     </p>

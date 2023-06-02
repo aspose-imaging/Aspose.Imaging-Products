@@ -13,7 +13,7 @@ description: Biblioteca de procesamiento y manipulación de imágenes de Python.
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Python" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-python-net.svg" 
-liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/python-net/" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/python-net/" installationsDocsLink="https://docs.aspose.com/imaging/python-net/installation/" pipLink="https://test.pypi.org/project/aspose.imaging/" directDownloadLink="https://downloads.aspose.com/imaging/python-net/" liveDemosText="demostraciones en vivo" overviewText="Visión de conjunto" featuresText="Características" resourcesText="Recursos" pricingText="Precios" downloadText="Descargar" learnText="Aprender" buyText="Comprar" >}}
+liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/python-net/" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/python-net/" installationsDocsLink="https://docs.aspose.com/imaging/python-net/installation/" pipLink="https://pypi.org/project/aspose-imaging-python-net/" directDownloadLink="https://downloads.aspose.com/imaging/python-net/" liveDemosText="demostraciones en vivo" overviewText="Visión de conjunto" featuresText="Características" resourcesText="Recursos" pricingText="Precios" downloadText="Descargar" learnText="Aprender" buyText="Comprar" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="en un" carousel1Text2="Mirada" carousel2Text1="Plataforma" carousel2Text2="Independencia" carousel3Text1="Archivo compatible" carousel3Text2="Formatos">}}
 <p align="justify">
@@ -440,7 +440,7 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-link ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/es/python-net/merge/">
      Unir
      
     </p>

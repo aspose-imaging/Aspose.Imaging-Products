@@ -13,7 +13,7 @@ description: Python Görüntü işleme ve işleme kitaplığı. .NET aracılığ
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Python" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-python-net.svg" 
-liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/python-net/" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/python-net/" installationsDocsLink="https://docs.aspose.com/imaging/python-net/installation/" pipLink="https://test.pypi.org/project/aspose.imaging/" directDownloadLink="https://downloads.aspose.com/imaging/python-net/" liveDemosText="Canlı Demolar" overviewText="genel bakış" featuresText="Özellikler" resourcesText="Kaynaklar" pricingText="fiyatlandırma" downloadText="İndirmek" learnText="Öğrenmek" buyText="Satın almak" >}}
+liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/python-net/" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/python-net/" installationsDocsLink="https://docs.aspose.com/imaging/python-net/installation/" pipLink="https://pypi.org/project/aspose-imaging-python-net/" directDownloadLink="https://downloads.aspose.com/imaging/python-net/" liveDemosText="Canlı Demolar" overviewText="genel bakış" featuresText="Özellikler" resourcesText="Kaynaklar" pricingText="fiyatlandırma" downloadText="İndirmek" learnText="Öğrenmek" buyText="Satın almak" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="bir" carousel1Text2="Bakış atmak" carousel2Text1="platformu" carousel2Text2="Bağımsızlık" carousel3Text1="Desteklenen Dosya" carousel3Text2="Formatlar">}}
 <p align="justify">
@@ -440,7 +440,7 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-link ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/tr/python-net/merge/">
      Birleştirmek
      
     </p>
