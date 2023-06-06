@@ -4,7 +4,7 @@ weight: 410
 url: /ru/sharepoint/ 
 lang: ru
 langdirlevel: 2
-locales: ru,zh-hant
+locales: ru,zh-hant,zh-hans
 description: Приложение для обработки изображений SharePoint для редактирования и преобразования изображений в форматы PSD, BMP, JPEG, PNG, TIFF и GIF. Также измените размер кадрирования, поверните и переверните изображения.
 ---
 

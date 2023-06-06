@@ -4,7 +4,7 @@ weight: 4330
 url: /zh-hant/jasperreports/ 
 lang: zh-hant
 langdirlevel: 2
-locales: ru,zh-hant
+locales: ru,zh-hant,zh-hans
 description: 圖像處理庫 API，用於在 JasperReports 應用程序中編輯、繪製或將圖像導出為 PSD、BMP、JPEG、PNG、TIFF、GIF 格式。
 ---
 
