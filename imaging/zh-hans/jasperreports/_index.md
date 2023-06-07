@@ -30,7 +30,7 @@ description: 图像处理和操作库 API，用于在 JasperReports 应用程序
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
-    <i class="fa fa-cog">
+    <i class="fa fa-cog"> 
     </i>
     轻量级部署
    </header>
