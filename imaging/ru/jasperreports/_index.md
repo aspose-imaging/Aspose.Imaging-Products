@@ -4,7 +4,7 @@ weight: 4330
 url: /ru/jasperreports/ 
 lang: ru
 langdirlevel: 2
-locales: ru,zh-hant
+locales: ru,zh-hant,zh-hans
 description: API библиотеки обработки и обработки изображений для редактирования, рисования или экспорта изображений в формат PSD, BMP, JPEG, PNG, TIFF, GIF в приложениях JasperReports.
 ---
 

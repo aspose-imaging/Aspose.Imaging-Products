@@ -4,7 +4,7 @@ weight: 410
 url: /zh-hant/sharepoint/ 
 lang: zh-hant
 langdirlevel: 2
-locales: ru,zh-hant
+locales: ru,zh-hant,zh-hans
 description: SharePoint 圖像處理應用程序，用於創建編輯圖像並將其轉換為 PSD BMP JPEG PNG TIFF 和 GIF 格式。 同時調整作物旋轉和翻轉圖像
 ---
 
