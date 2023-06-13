@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="แปลง J2K เป็น WMF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="แอปฟรีเพื่อแปลง J2K เป็น WMF"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/J2K-to-WMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="แปลง J2K เป็น WMF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | J2K">}}
 ไฟล์ J2K คือภาพที่บีบอัดโดยใช้การบีบอัดเวฟเล็ตแทนการบีบอัด DCT
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | WMF">}}
 ไฟล์ที่มีนามสกุล WMF แสดงถึง Microsoft Windows Metafile (WMF) สำหรับการจัดเก็บข้อมูลเวกเตอร์และรูปแบบบิตแมป เพื่อให้แม่นยำยิ่งขึ้น WMF อยู่ในหมวดหมู่รูปแบบไฟล์เวกเตอร์ของรูปแบบไฟล์กราฟิกที่ไม่ขึ้นกับอุปกรณ์ Windows Graphical Device Interface (GDI) ใช้ฟังก์ชันที่จัดเก็บไว้ในไฟล์ WMF เพื่อแสดงภาพบนหน้าจอ WMF เวอร์ชันที่ได้รับการปรับปรุงมากขึ้น หรือที่เรียกว่า Enhanced Meta Files (EMF) ได้รับการเผยแพร่ในภายหลัง ซึ่งทำให้รูปแบบมีคุณลักษณะที่สมบูรณ์ยิ่งขึ้น ในทางปฏิบัติ WMF จะคล้ายกับ SVG
         {{< /blocks/products/pf/agp/about-file-text >}}
 

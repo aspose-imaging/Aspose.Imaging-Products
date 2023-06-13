@@ -75,16 +75,6 @@ OTG को TGA में बदलने के लिए, हम उपयो�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="OTG को TGA में बदलें - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="OTG को TGA में बदलने के लिए नि:शुल्‍क ऐप"
         appName="Conversion"
@@ -96,13 +86,21 @@ OTG को TGA में बदलने के लिए, हम उपयो�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/OTG-to-TGA)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="OTG को TGA में बदलें - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | OTG">}}
 OTG फाइल एक ड्राइंग टेम्प्लेट है जो OASIS ऑफिस एप्लिकेशन 1.0 विनिर्देश का पालन करने वाले OpenDocument मानक का उपयोग करके बनाया गया है। यह एक वेक्टर छवि के लिए ड्राइंग तत्वों के डिफ़ॉल्ट संगठन का प्रतिनिधित्व करता है जिसका उपयोग फ़ाइल की सामग्री को और बढ़ाने के लिए किया जा सकता है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | TGA">}}
 Truevision TGA, जिसे अक्सर TARGA के रूप में जाना जाता है, Truevision Inc. (अब AVID टेक्नोलॉजी का हिस्सा) द्वारा बनाया गया एक रेखापुंज ग्राफिक्स फ़ाइल स्वरूप है। यह TARGA और VISTA बोर्डों का मूल स्वरूप था, जो IBM-संगत PC के लिए Highcolor/truecolor डिस्प्ले का समर्थन करने वाले पहले ग्राफिक कार्ड थे।
         {{< /blocks/products/pf/agp/about-file-text >}}
 

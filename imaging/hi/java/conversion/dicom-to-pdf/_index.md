@@ -75,16 +75,6 @@ DICOM को PDF में बदलने के लिए, हम उपयो
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="DICOM को PDF में बदलें - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="DICOM को PDF में बदलने के लिए नि:शुल्‍क ऐप"
         appName="Conversion"
@@ -96,13 +86,21 @@ DICOM को PDF में बदलने के लिए, हम उपयो
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DICOM-to-PDF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="DICOM को PDF में बदलें - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | DICOM">}}
 DICOM चिकित्सा में डिजिटल इमेजिंग और संचार के लिए संक्षिप्त है और चिकित्सा सूचना विज्ञान के क्षेत्र से संबंधित है। DICOM फ़ाइल स्वरूप परिभाषा और एक नेटवर्क संचार प्रोटोकॉल का संयोजन है। DICOM .DCM एक्सटेंशन का उपयोग करता है। .DCM दो अलग-अलग स्वरूपों में मौजूद है अर्थात स्वरूप 1.x और स्वरूप 2.x। DCM प्रारूप 1.x आगे सामान्य और विस्तारित दो संस्करणों में उपलब्ध है। DICOM का उपयोग विभिन्न विक्रेताओं से चिकित्सा इमेजिंग उपकरणों जैसे प्रिंटर, सर्वर, स्कैनर आदि के एकीकरण के लिए किया जाता है और इसमें विशिष्टता के लिए प्रत्येक रोगी का पहचान डेटा भी होता है। DICOM फ़ाइलें दो पक्षों के बीच साझा की जा सकती हैं यदि वे DICOM प्रारूप में छवि डेटा प्राप्त करने में सक्षम हैं। DICOM का संचार भाग अनुप्रयोग परत प्रोटोकॉल है और संस्थाओं के बीच संचार के लिए TCP/IP का उपयोग करता है। DICOM की वेब सेवाओं के लिए HTTP और HTTPS प्रोटोकॉल का उपयोग किया जाता है। वेब सेवाओं द्वारा समर्थित संस्करण 1.0, 1.1, 2 या बाद के संस्करण हैं।
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | PDF">}}
 पोर्टेबल डॉक्यूमेंट फॉर्मेट (पीडीएफ) 1990 के दशक में एडोब द्वारा बनाया गया एक प्रकार का दस्तावेज है। इस फाइल फॉर्मेट का उद्देश्य दस्तावेजों और अन्य संदर्भ सामग्री के प्रतिनिधित्व के लिए एक मानक को एक प्रारूप में पेश करना था जो एप्लिकेशन सॉफ्टवेयर, हार्डवेयर और साथ ही ऑपरेटिंग सिस्टम से स्वतंत्र हो। पीडीएफ फाइल फॉर्मेट में टेक्स्ट, इमेज, हाइपरलिंक्स, फॉर्म-फील्ड्स, रिच मीडिया, डिजिटल सिग्नेचर, अटैचमेंट, मेटाडेटा, जियोस्पेशियल फीचर्स और 3 डी ऑब्जेक्ट जैसी जानकारी शामिल करने की पूरी क्षमता है जो सोर्स डॉक्यूमेंट के हिस्से के रूप में बन सकती हैं।
         {{< /blocks/products/pf/agp/about-file-text >}}
 

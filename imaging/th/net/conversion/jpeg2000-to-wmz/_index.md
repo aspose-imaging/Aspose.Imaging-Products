@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="แปลง JPEG2000 เป็น WMZ - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="แอปฟรีเพื่อแปลง JPEG2000 เป็น WMZ"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/JPEG2000-to-WMZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="แปลง JPEG2000 เป็น WMZ - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | JPEG2000">}}
 JPEG 2000 (JP2) คือระบบเข้ารหัสรูปภาพและมาตรฐานการบีบอัดภาพที่ทันสมัย ได้รับการออกแบบโดยใช้เทคโนโลยีเวฟเล็ต JPEG 2000 สามารถเข้ารหัสเนื้อหาแบบไม่สูญเสียคุณภาพใดๆ ได้ในคราวเดียว นอกจากนี้ โดยไม่มีบทลงโทษที่สำคัญในประสิทธิภาพการเข้ารหัส JPEG 2000 มีความสามารถในการเข้าถึงและถอดรหัสเนื้อหาเดียวกันได้อย่างมีประสิทธิภาพในความละเอียดและคุณภาพอื่นๆ ที่หลากหลาย รหัสสตรีมใน JPEG 2000 สามารถปรับขนาดได้อย่างมีนัยสำคัญโดยมีภูมิภาคที่น่าสนใจซึ่งอำนวยความสะดวกสำหรับการเข้าถึงแบบสุ่มเชิงพื้นที่ มีส่วนประกอบที่หลากหลายมากถึง 16384 ตัวด้วยขนาดเป็นเทราพิกเซล และความแม่นยำที่สูงถึง 38 บิต/ตัวอย่าง
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | WMZ">}}
 WMZ เป็นนามสกุลไฟล์สำหรับรูปแบบไฟล์สกินใน/สำหรับ/ใช้โดย Windows Media Player ไฟล์ WMZ นั้นเป็นไฟล์ WMF ที่บีบอัดในรูปแบบ XML
         {{< /blocks/products/pf/agp/about-file-text >}}
 

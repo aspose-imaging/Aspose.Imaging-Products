@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="ODG को WMF में बदलें - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="ODG को WMF में बदलने के लिए नि:शुल्‍क ऐप"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/ODG-to-WMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="ODG को WMF में बदलें - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | ODG">}}
 ODG फ़ाइल स्वरूप का उपयोग Apache OpenOffice के Draw एप्लिकेशन द्वारा ड्राइंग तत्वों को वेक्टर छवि के रूप में संग्रहीत करने के लिए किया जाता है। यह एडवांसमेंट ऑफ स्ट्रक्चरल इंफॉर्मेशन स्टैंडर्ड्स (OASIS) द्वारा उल्लिखित XML आधारित फाइल फॉर्मेट विनिर्देशों का अनुसरण करता है। ODG बिंदुओं, रेखाओं और वक्रों का उपयोग करके सदिश छवियों के रूप में आरेखण का प्रतिनिधित्व करता है। ओपनऑफिस के अलावा, लिब्रे ऑफिस और अन्य एप्लिकेशन भी ओडीजी फाइल फॉर्मेट के साथ काम करने के लिए सहायता प्रदान करते हैं। ओपनऑफिस द्वारा समर्थित अन्य प्रारूप, उदाहरण के लिए, ओडीटी, ओडीएफ, ओडीपी और ओडीएस शामिल हैं।
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | WMF">}}
 WMF एक्सटेंशन वाली फाइलें वेक्टर के साथ-साथ बिटमैप-फॉर्मेट इमेज डेटा को स्टोर करने के लिए माइक्रोसॉफ्ट विंडोज मेटाफाइल (WMF) का प्रतिनिधित्व करती हैं। अधिक सटीक होने के लिए, WMF ग्राफ़िक्स फ़ाइल स्वरूपों की वेक्टर फ़ाइल स्वरूप श्रेणी से संबंधित है जो डिवाइस स्वतंत्र है। विंडोज ग्राफिकल डिवाइस इंटरफेस (जीडीआई) स्क्रीन पर एक छवि प्रदर्शित करने के लिए डब्लूएमएफ फाइल में संग्रहीत कार्यों का उपयोग करता है। WMF का एक अधिक उन्नत संस्करण, जिसे एन्हांस्ड मेटा फाइल्स (EMF) के रूप में जाना जाता है, बाद में प्रकाशित किया गया था जो प्रारूप को अधिक सुविधा संपन्न बनाता है। व्यावहारिक रूप से, WMF SVG के समान हैं।
         {{< /blocks/products/pf/agp/about-file-text >}}
 

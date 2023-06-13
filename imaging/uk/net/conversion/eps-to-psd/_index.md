@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити EPS на PSD - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення EPS у PSD"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/EPS-to-PSD)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити EPS на PSD - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | EPS">}}
 Файли з розширенням EPS по суті описують програму на мові Encapsulated PostScript, яка описує зовнішній вигляд однієї сторінки. Назва «Інкапсульований», оскільки її можна включити або інкапсулювати в опис сторінки іншою мовою PostScript. Цей формат файлу на основі сценарію може містити будь-яку комбінацію тексту, графіки та зображень. Файли EPS можуть містити растрове зображення попереднього перегляду, інкапсульоване всередину для відображення програмами, які можуть відкривати такі файли. Файли EPS можна конвертувати в стандартні формати зображень, такі як JPG, PNG, TIFF і PDF, за допомогою різних програм, напр. Adobe Illustrator, Photoshop і PaintShop Pro. Через вразливість у безпеці файлів EPS Office 2016, Office 2013, Office 2010 і Office 365 вимкнули можливість вставляти файли EPS у документи Office.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | PSD">}}
 PSD, Photoshop Document, представляє рідний формат файлу Adobe Photoshop, який використовується для проектування та розробки графіки. Файли PSD можуть містити шари зображень, шари коригування, маски шарів, анотації, інформацію про файли, ключові слова та інші специфічні для Photoshop елементи.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

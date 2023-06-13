@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити DNG на SVG - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення DNG у SVG"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DNG-to-SVG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити DNG на SVG - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | DNG">}}
 DNG — це формат зображення цифрової камери, який використовується для зберігання необроблених файлів. Він був розроблений Adobe у вересні 2004 року. В основному він був розроблений для цифрової фотографії. DNG є розширенням стандартного формату TIFF/EP і значно використовує метадані. Щоб маніпулювати необробленими даними з цифрових камер із легкою гнучкістю та художнім контролем, фотографи вибирають файли Camera Raw. У форматах JPEG і TIFF зберігаються зображення, оброблені камерою, тому в таких форматах мало місця для змін.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | SVG">}}
 Файли SVG — це файли масштабованої векторної графіки, які використовують текстовий формат на основі XML для опису зовнішнього вигляду зображення. Слово «масштабований» означає, що SVG можна масштабувати до різних розмірів без втрати якості. Текстовий опис таких файлів робить їх незалежними від роздільної здатності. Це один із найбільш використовуваних форматів для створення веб-сайтів і друку графіки з метою досягнення масштабованості. Формат можна використовувати лише для двовимірної графіки. Файли SVG можна переглядати/відкривати майже в усіх сучасних браузерах, включаючи Chrome, Internet Explorer, Firefox і Safari.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

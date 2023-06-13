@@ -62,16 +62,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="將 EPS 轉換為 WMF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="將 EPS 轉換為 WMF 的免費應用程序"
         appName="Conversion"
@@ -83,13 +73,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hant/conversion/EPS-to-WMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="將 EPS 轉換為 WMF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | EPS">}}
 帶有 EPS 擴展名的文件本質上描述了一個封裝的 PostScript 語言程序，該程序描述了單個頁面的外觀。名稱“封裝”是因為它可以包含或封裝在另一種 PostScript 語言頁面描述中。這種基於腳本的文件格式可能包含文本、圖形和圖像的任意組合。 EPS 文件可能包含封裝在內部的位圖預覽圖像，以供可以打開此類文件的應用程序顯示。可以使用不同的應用程序將 EPS 文件轉換為標準圖像格式，例如 JPG、PNG、TIFF 和 PDF。 Adobe Illustrator、Photoshop 和 PaintShop Pro。由於 EPS 文件中存在安全漏洞，Office 2016、Office 2013、Office 2010 和 Office 365 已關閉將 EPS 文件插入 Office 文檔的功能。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | WMF">}}
 帶有 WMF 擴展名的文件代表 Microsoft Windows 元文件 (WMF)，用於存儲矢量以及位圖格式的圖像數據。更準確地說，WMF 屬於與設備無關的圖形文件格式的矢量文件格式類別。 Windows 圖形設備接口 (GDI) 使用存儲在 WMF 文件中的函數在屏幕上顯示圖像。後來發布了 WMF 的更增強版本，稱為增強元文件 (EMF)，使該格式的功能更加豐富。實際上，WMF 類似於 SVG。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

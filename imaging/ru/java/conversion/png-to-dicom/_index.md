@@ -75,16 +75,6 @@ description: Пример кода для преобразования PNG в DI
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Преобразование PNG в DICOM - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Бесплатное приложение для конвертации PNG в DICOM"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Пример кода для преобразования PNG в DI
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ru/conversion/PNG-to-DICOM)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Преобразование PNG в DICOM - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее | PNG">}}
 PNG, переносимая сетевая графика, относится к типу формата файла растрового изображения, в котором используется сжатие без потерь. Этот формат файла был создан в качестве замены формата обмена графикой (GIF) и не имеет ограничений авторского права. Однако формат файла PNG не поддерживает анимацию. Формат файлов PNG поддерживает сжатие изображений без потерь, что делает его популярным среди пользователей. С течением времени PNG превратился в один из наиболее часто используемых форматов файлов изображений. Почти все операционные системы поддерживают открытие файлов PNG. Например, средство просмотра Microsoft Windows имеет возможность открывать файлы PNG, так как ОС по умолчанию имеет поддержку, доступную как часть установки.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее | DICOM">}}
 DICOM — это аббревиатура от Digital Imaging and Communications in Medicine, относящаяся к области медицинской информатики. DICOM — это комбинация определения формата файла и сетевого протокола связи. DICOM использует расширение .DCM. .DCM существует в двух разных форматах, то есть в формате 1.x и формате 2.x. Формат DCM 1.x также доступен в двух версиях: нормальной и расширенной. DICOM используется для интеграции медицинских устройств визуализации, таких как принтеры, серверы, сканеры и т. д., от различных поставщиков, а также содержит идентификационные данные каждого пациента для обеспечения уникальности. Файлы DICOM могут совместно использоваться двумя сторонами, если они способны получать данные изображения в формате DICOM. Коммуникационная часть DICOM представляет собой протокол прикладного уровня и использует TCP/IP для связи между объектами. Протоколы HTTP и HTTPS используются для веб-служб DICOM. Версии, поддерживаемые веб-службами: 1.0, 1.1, 2 или более поздние версии.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

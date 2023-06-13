@@ -75,16 +75,6 @@ description: Зразок коду для перетворення TIFF у BMP J
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити TIFF на BMP - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення TIFF у BMP"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Зразок коду для перетворення TIFF у BMP J
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/TIFF-to-BMP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити TIFF на BMP - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | TIFF">}}
 TIFF або TIF, Tagged Image File Format, представляє растрові зображення, які призначені для використання на різних пристроях, які відповідають цьому стандарту формату файлів. Він здатний описувати дані дворівневого зображення, відтінків сірого, кольору палітри та повнокольорового зображення в кількох колірних просторах. Він підтримує схеми стиснення як із втратами, так і без втрат, щоб вибрати між простором і часом для програм, які використовують формат. Формат є розширюваним і зазнав кілька переглядів, що дозволяє включати необмежену кількість приватної або спеціальної інформації. Формат не залежить від машини та не залежить від процесора, операційної системи чи файлових систем.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | BMP">}}
 Файли з розширенням .BMP представляють файли Bitmap Image, які використовуються для зберігання растрових цифрових зображень. Ці зображення не залежать від графічного адаптера, а також називаються форматом файлу растрового зображення, незалежного від пристрою (DIB). Ця незалежність служить для відкриття файлу на кількох платформах, таких як Microsoft Windows і Mac. Формат файлу BMP може зберігати дані як двовимірні цифрові зображення як у монохромному, так і в кольоровому форматі з різною глибиною кольору.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

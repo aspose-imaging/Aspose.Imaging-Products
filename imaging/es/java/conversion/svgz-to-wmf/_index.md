@@ -75,16 +75,6 @@ Antes de ejecutar el código de ejemplo de conversión, asegúrese de tener los 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convertir SVGZ a WMF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Aplicación gratuita para convertir SVGZ a WMF"
         appName="Conversion"
@@ -96,13 +86,21 @@ Antes de ejecutar el código de ejemplo de conversión, asegúrese de tener los 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/es/conversion/SVGZ-to-WMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Convertir SVGZ a WMF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más | SVGZ">}}
 Un archivo con la extensión .svgz es una versión comprimida del archivo Scalable Vector Graphics (.SVG). Está comprimido con compresión gzip y contiene datos en formato XML. Los archivos SVGZ admiten transparencia, degradados, animaciones y filtros. Los archivos SVGZ son más pequeños en comparación con los archivos SVG predeterminados y este tamaño de archivo reducido ayuda a transferir los archivos gráficos en línea. El diseñador de gráficos crea archivos SVGZ utilizando herramientas como Adobe Illustrator, Corel PaintShop Pro y otras. Sin embargo, los archivos SVGZ se pueden generar habilitando la compresión GZip en el servidor Apache mientras se envían los datos de la imagen.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más | WMF">}}
 Los archivos con la extensión WMF representan el metarchivo de Microsoft Windows (WMF) para almacenar datos de imágenes vectoriales y de formato de mapa de bits. Para ser más precisos, WMF pertenece a la categoría de formato de archivo vectorial de formatos de archivo de gráficos que es independiente del dispositivo. La interfaz de dispositivo gráfico de Windows (GDI) utiliza las funciones almacenadas en un archivo WMF para mostrar una imagen en la pantalla. Más tarde se publicó una versión más mejorada de WMF, conocida como Enhanced Meta Files (EMF), que hace que el formato tenga más funciones. Prácticamente, WMF son similares a SVG.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -75,16 +75,6 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="DNG öğesini HTML - Java biçimine dönüştürün" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="DNG'i HTML'e Dönüştürmek için Ücretsiz Uygulama"
         appName="Conversion"
@@ -96,13 +86,21 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/tr/conversion/DNG-to-HTML)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="DNG öğesini HTML - Java biçimine dönüştürün" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | DNG">}}
 DNG, ham dosyaların depolanması için kullanılan bir dijital kamera görüntü formatıdır. Adobe tarafından Eylül 2004'te geliştirilmiştir. Temelde dijital fotoğrafçılık için geliştirilmiştir. DNG, TIFF/EP standart biçiminin bir uzantısıdır ve önemli ölçüde meta verileri kullanır. Dijital kameralardan gelen ham verileri esneklik ve sanatsal kontrol kolaylığı ile işlemek için fotoğrafçılar camera raw dosyalarını tercih eder. JPEG ve TIFF formatları, kamera tarafından işlenen görüntüleri saklar, bu nedenle bu formatlarda değişiklik için fazla yer yoktur.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | HTML">}}
 HTML (Hyper Text Markup Language), tarayıcılarda görüntülenmek üzere oluşturulmuş web sayfalarının uzantısıdır. Web'in dili olarak bilinen HTML, web sayfalarının bir parçası olarak görüntülenecek yeni bilgi gereksinimlerinin gereksinimleriyle gelişmiştir. En son varyant, dille çalışmak için çok fazla esneklik sağlayan HTML 5 olarak bilinir. HTML sayfaları, barındırıldığı sunucudan alınır veya yerel sistemden de yüklenebilir. Her HTML sayfası, formlar, metinler, resimler, animasyonlar, bağlantılar vb. gibi HTML öğelerinden oluşur. Bu öğeler, img, a, p gibi etiketlerle ve her etiketin başladığı ve bittiği diğer birkaç etiketle temsil edilir. Ayrıca, genel düzen gösterimi için JavaScript ve Stil Sayfaları (CSS) gibi komut dosyası dillerinde yazılmış uygulamaları da gömebilir.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

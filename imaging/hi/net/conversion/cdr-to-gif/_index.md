@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="CDR को GIF में बदलें - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="CDR को GIF में बदलने के लिए नि:शुल्‍क ऐप"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/CDR-to-GIF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="CDR को GIF में बदलें - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | CDR">}}
 CDR फ़ाइल एक वेक्टर ड्राइंग इमेज फ़ाइल है जो मूल रूप से CorelDRAW के साथ डिजिटल छवि एन्कोडेड और संपीड़ित को संग्रहीत करने के लिए बनाई गई है। इस तरह की एक ड्राइंग फ़ाइल में छवि सामग्री के वेक्टर प्रतिनिधित्व के लिए पाठ, रेखाएं, आकार, चित्र, रंग और प्रभाव होते हैं। CDR फाइलें प्राथमिक एप्लिकेशन के रूप में CorelDRAW के साथ खोली जा सकती हैं और अन्य प्रारूपों जैसे PDF, JPG, PNG, BMP और AI में भी परिवर्तित की जा सकती हैं। इसका उपयोग ब्रोशर, टैब्लॉयड, लिफाफे और पोस्टकार्ड जैसे विभिन्न ग्राफिक्स डेटा के प्रतिनिधित्व के लिए किया जा सकता है। CorelDRAW के अलावा, Corel पेंटशॉप प्रो और CorelDRAW ग्राफ़िक्स सूट जैसे अन्य Corel उत्पाद भी CDR फ़ाइल स्वरूपों को खोल सकते हैं।
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | GIF">}}
 जीआईएफ या ग्राफिकल इंटरचेंज फॉर्मेट एक प्रकार की अत्यधिक संकुचित छवि है। यूनिसिस के स्वामित्व में, GIF LZW कम्प्रेशन एल्गोरिथम का उपयोग करता है जो छवि गुणवत्ता को कम नहीं करता है। प्रत्येक छवि के लिए GIF आमतौर पर प्रति पिक्सेल 8 बिट तक और छवि में 256 रंगों तक की अनुमति देता है। एक जेपीईजी छवि के विपरीत, जो 16 मिलियन रंगों तक प्रदर्शित कर सकती है और मानव आंख की सीमाओं को काफी हद तक छूती है। वापस जब इंटरनेट उभरा, जीआईएफ सबसे अच्छा विकल्प बना रहा क्योंकि उन्हें कम बैंडविड्थ की आवश्यकता थी और ग्राफिक्स के लिए संगत जो रंग के ठोस क्षेत्रों का उपभोग करते थे। एक एनिमेटेड जीआईएफ कई छवियों या फ़्रेमों को एक फ़ाइल में जोड़ता है और एक एनिमेटेड क्लिप या एक लघु वीडियो बनाने के लिए उन्हें एक क्रम में प्रदर्शित करता है। प्रत्येक फ्रेम के लिए रंग सीमाएं 256 तक हैं और रंग ढाल के साथ अन्य छवियों और तस्वीरों को पुन: प्रस्तुत करने के लिए कम से कम उपयुक्त होने की संभावना है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -62,16 +62,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="將 WEBP 轉換為 CANVAS - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="將 WEBP 轉換為 CANVAS 的免費應用程序"
         appName="Conversion"
@@ -83,13 +73,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hant/conversion/WEBP-to-CANVAS)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="將 WEBP 轉換為 CANVAS - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | WEBP">}}
 WebP 是 Google 推出的一種現代光柵 Web 圖像文件格式，它基於無損和有損壓縮。它提供相同的圖像質量，同時大大減小了圖像尺寸。由於大多數網頁使用圖像作為數據的有效表示，因此在網頁中使用 WebP 圖像會導致網頁加載速度更快。根據谷歌的說法，WebP 無損圖像的大小比 PNG 小 26%，而 WebP 有損圖像比同類 JPEG 圖像小 25-34%。基於 WebP 和其他圖像文件格式之間的結構相似性 (SSIM) 索引比較圖像。 WebP 是 WebM 多媒體容器格式的姊妹項目。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CANVAS" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CANVAS" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | CANVAS">}}
 HTML（超文本標記語言）是為在瀏覽器中顯示而創建的網頁的擴展。 HTML被稱為網絡語言，隨著新信息要求的要求而發展，要求將其顯示為網頁的一部分。最新的變體被稱為 HTML 5，它為使用該語言提供了很大的靈活性。 HTML 頁面要么從託管這些頁面的服務器接收，要么也可以從本地系統加載。每個 HTML 頁面都由 HTML 元素組成，例如表單、文本、圖像、動畫、鏈接等。這些元素由諸如 img、a、p 和其他幾個標籤表示，其中每個標籤都有開始和結束。它還可以嵌入以 JavaScript 和样式表 (CSS) 等腳本語言編寫的應用程序，以實現整體佈局表示。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

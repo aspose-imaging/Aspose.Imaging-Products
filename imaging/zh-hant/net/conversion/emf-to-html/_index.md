@@ -62,16 +62,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="將 EMF 轉換為 HTML - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="將 EMF 轉換為 HTML 的免費應用程序"
         appName="Conversion"
@@ -83,13 +73,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hant/conversion/EMF-to-HTML)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="將 EMF 轉換為 HTML - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | EMF">}}
 增強型元文件格式 (EMF) 獨立於設備存儲圖形圖像。 EMF 的元文件由按時間順序排列的可變長度記錄組成，可以在任何輸出設備上解析後呈現存儲的圖像。這些可變長度記錄可以是封閉對象的定義、繪圖命令和對準確渲染圖像至關重要的圖形屬性。當設備使用自己的圖形環境打開 EMF 圖元文件時，無論打開設備平台如何，原始圖像的比例、尺寸、顏色和其他圖形屬性都保持不變。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | HTML">}}
 HTML（超文本標記語言）是為在瀏覽器中顯示而創建的網頁的擴展。 HTML被稱為網絡語言，隨著新信息要求的要求而發展，要求將其顯示為網頁的一部分。最新的變體被稱為 HTML 5，它為使用該語言提供了很大的靈活性。 HTML 頁面要么從託管這些頁面的服務器接收，要么也可以從本地系統加載。每個 HTML 頁面都由 HTML 元素組成，例如表單、文本、圖像、動畫、鏈接等。這些元素由諸如 img、a、p 和其他幾個標籤表示，其中每個標籤都有開始和結束。它還可以嵌入以 JavaScript 和样式表 (CSS) 等腳本語言編寫的應用程序，以實現整體佈局表示。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

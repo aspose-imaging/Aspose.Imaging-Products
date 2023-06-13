@@ -62,16 +62,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="將 JP2 轉換為 PDF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="將 JP2 轉換為 PDF 的免費應用程序"
         appName="Conversion"
@@ -83,13 +73,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hant/conversion/JP2-to-PDF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="將 JP2 轉換為 PDF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | JP2">}}
 JPEG 2000 (JP2) 是一種圖像編碼系統和最先進的圖像壓縮標準。設計，使用小波技術 JPEG 2000 可以一次編碼任何質量的無損內容。此外，在編碼效率沒有任何實質性損失的情況下，JPEG 2000 能夠有效地訪問相同的內容並將其解碼為各種其他分辨率和質量。 JPEG 2000 中的碼流具有顯著的可擴展性，具有為空間隨機訪問提供便利的感興趣區域。擁有多達 16384 個不同的組件，尺寸以萬億像素為單位，精度可高達 38 位/樣本。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | PDF">}}
 可移植文檔格式 (PDF) 是 Adob​​e 在 1990 年代創建的一種文檔。這種文件格式的目的是引入一種標準，用於以獨立於應用軟件、硬件和操作系統的格式來表示文檔和其他參考資料。 PDF 文件格式具有包含文本、圖像、超鏈接、表單域、富媒體、數字簽名、附件、元數據、地理空間特徵和 3D 對像等信息的全部功能，這些信息可以成為源文檔的一部分。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

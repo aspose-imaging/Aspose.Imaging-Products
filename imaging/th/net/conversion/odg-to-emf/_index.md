@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="แปลง ODG เป็น EMF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="แอปฟรีเพื่อแปลง ODG เป็น EMF"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/ODG-to-EMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="แปลง ODG เป็น EMF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | ODG">}}
 รูปแบบไฟล์ ODG ถูกใช้โดยแอปพลิเคชัน Draw ของ Apache OpenOffice เพื่อจัดเก็บองค์ประกอบการวาดเป็นภาพเวกเตอร์ เป็นไปตามข้อกำหนดรูปแบบไฟล์ XML ที่ร่างโดย Advancement of Structural Information Standards (OASIS) ODG แสดงภาพวาดเป็นภาพเวกเตอร์โดยใช้จุด เส้น และเส้นโค้ง นอกจาก OpenOffice แล้ว LibreOffice และแอปพลิเคชั่นอื่น ๆ ยังรองรับการทำงานกับรูปแบบไฟล์ ODG รูปแบบอื่นๆ ที่ OpenOffice รองรับ เช่น ODT, ODF, ODP และ ODS
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | EMF">}}
 รูปแบบเมตาไฟล์ที่ปรับปรุงแล้ว (EMF) จัดเก็บภาพกราฟิกแบบแยกจากอุปกรณ์ Metafiles ของ EMF ประกอบด้วยเร็กคอร์ดความยาวผันแปรตามลำดับเวลาซึ่งสามารถแสดงภาพที่เก็บไว้หลังจากแยกวิเคราะห์บนอุปกรณ์ส่งออกใด ๆ เร็กคอร์ดความยาวผันแปรเหล่านี้สามารถเป็นคำจำกัดความของออบเจ็กต์ที่ล้อมรอบ คำสั่งสำหรับการวาดภาพ และคุณสมบัติกราฟิกที่สำคัญอย่างยิ่งต่อการแสดงภาพอย่างถูกต้อง เมื่ออุปกรณ์เปิดเมตาไฟล์ EMF โดยใช้สภาพแวดล้อมกราฟิกของตัวเอง สัดส่วน ขนาด สี และคุณสมบัติกราฟิกอื่นๆ ของภาพต้นฉบับจะยังคงเหมือนเดิมโดยไม่คำนึงถึงแพลตฟอร์มอุปกรณ์ที่เปิดอยู่
         {{< /blocks/products/pf/agp/about-file-text >}}
 

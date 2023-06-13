@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="แปลง ICO เป็น JP2 - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="แอปฟรีเพื่อแปลง ICO เป็น JP2"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/ICO-to-JP2)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="แปลง ICO เป็น JP2 - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | ICO">}}
 รูปแบบไฟล์ ICO เป็นรูปแบบไฟล์รูปภาพสำหรับไอคอนคอมพิวเตอร์ใน Microsoft Windows ไฟล์ ICO มีรูปภาพขนาดเล็กตั้งแต่หนึ่งภาพขึ้นไปที่หลายขนาดและความลึกของสี เพื่อให้สามารถปรับขนาดได้อย่างเหมาะสม ใน Windows โปรแกรมเรียกทำงานทั้งหมดที่แสดงไอคอนแก่ผู้ใช้ บนเดสก์ท็อป ในเมนูเริ่ม หรือใน Windows Explorer ต้องมีไอคอนในรูปแบบ ICO
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | JP2">}}
 JPEG 2000 (JP2) คือระบบเข้ารหัสรูปภาพและมาตรฐานการบีบอัดภาพที่ทันสมัย ได้รับการออกแบบโดยใช้เทคโนโลยีเวฟเล็ต JPEG 2000 สามารถเข้ารหัสเนื้อหาแบบไม่สูญเสียคุณภาพใดๆ ได้ในคราวเดียว นอกจากนี้ โดยไม่มีบทลงโทษที่สำคัญในประสิทธิภาพการเข้ารหัส JPEG 2000 มีความสามารถในการเข้าถึงและถอดรหัสเนื้อหาเดียวกันได้อย่างมีประสิทธิภาพในความละเอียดและคุณภาพอื่นๆ ที่หลากหลาย รหัสสตรีมใน JPEG 2000 สามารถปรับขนาดได้อย่างมีนัยสำคัญโดยมีภูมิภาคที่น่าสนใจซึ่งอำนวยความสะดวกสำหรับการเข้าถึงแบบสุ่มเชิงพื้นที่ มีส่วนประกอบที่หลากหลายมากถึง 16384 ตัวด้วยขนาดเป็นเทราพิกเซล และความแม่นยำที่สูงถึง 38 บิต/ตัวอย่าง
         {{< /blocks/products/pf/agp/about-file-text >}}
 

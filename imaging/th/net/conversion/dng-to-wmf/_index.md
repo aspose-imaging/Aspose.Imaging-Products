@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="แปลง DNG เป็น WMF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="แอปฟรีเพื่อแปลง DNG เป็น WMF"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DNG-to-WMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="แปลง DNG เป็น WMF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | DNG">}}
 DNG เป็นรูปแบบภาพของกล้องดิจิตอลที่ใช้สำหรับจัดเก็บไฟล์ดิบ ได้รับการพัฒนาโดย Adobe ในเดือนกันยายน 2547 โดยพื้นฐานแล้วได้รับการพัฒนาสำหรับการถ่ายภาพดิจิทัล DNG เป็นส่วนขยายของรูปแบบมาตรฐาน TIFF/EP และใช้ข้อมูลเมตาอย่างมาก เพื่อจัดการข้อมูลดิบจากกล้องดิจิทัลด้วยความยืดหยุ่นที่ง่ายดายและการควบคุมอย่างมีศิลปะ ช่างภาพจึงเลือกใช้ไฟล์ Raw ของกล้อง รูปแบบ JPEG และ TIFF จัดเก็บภาพที่ประมวลผลโดยกล้อง ดังนั้นจึงไม่มีที่ว่างสำหรับการแก้ไขในรูปแบบดังกล่าว
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | WMF">}}
 ไฟล์ที่มีนามสกุล WMF แสดงถึง Microsoft Windows Metafile (WMF) สำหรับการจัดเก็บข้อมูลเวกเตอร์และรูปแบบบิตแมป เพื่อให้แม่นยำยิ่งขึ้น WMF อยู่ในหมวดหมู่รูปแบบไฟล์เวกเตอร์ของรูปแบบไฟล์กราฟิกที่ไม่ขึ้นกับอุปกรณ์ Windows Graphical Device Interface (GDI) ใช้ฟังก์ชันที่จัดเก็บไว้ในไฟล์ WMF เพื่อแสดงภาพบนหน้าจอ WMF เวอร์ชันที่ได้รับการปรับปรุงมากขึ้น หรือที่เรียกว่า Enhanced Meta Files (EMF) ได้รับการเผยแพร่ในภายหลัง ซึ่งทำให้รูปแบบมีคุณลักษณะที่สมบูรณ์ยิ่งขึ้น ในทางปฏิบัติ WMF จะคล้ายกับ SVG
         {{< /blocks/products/pf/agp/about-file-text >}}
 

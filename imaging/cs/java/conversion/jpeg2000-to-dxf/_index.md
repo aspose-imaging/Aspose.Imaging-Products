@@ -75,16 +75,6 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Převést JPEG2000 na DXF – Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Bezplatná aplikace pro převod JPEG2000 na DXF"
         appName="Conversion"
@@ -96,13 +86,21 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/JPEG2000-to-DXF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Převést JPEG2000 na DXF – Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více | JPEG2000">}}
 JPEG 2000 (JP2) je systém kódování obrazu a nejmodernější standard komprese obrazu. JPEG 2000 navržený pomocí waveletové technologie dokáže kódovat bezeztrátový obsah v jakékoli kvalitě najednou. Navíc, bez jakékoli podstatné penalizace v účinnosti kódování, JPEG 2000 má schopnost přistupovat ke stejnému obsahu a účinně jej dekódovat do řady dalších rozlišení a kvalit. Toky kódu v JPEG 2000 jsou výrazně škálovatelné a mají oblasti zájmu, které poskytují možnost prostorového náhodného přístupu. Obsahuje až 16 384 různých komponent s rozměry v terapixelech a přesností, která může dosahovat až 38 bitů/vzorek.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více | DXF">}}
 DXF, Drawing Interchange Format nebo Drawing Exchange Format, je reprezentace tagovaných dat výkresového souboru AutoCADu. Každý prvek v souboru má předponu celé číslo nazývané kód skupiny. Tento skupinový kód ve skutečnosti představuje prvek, který následuje, a označuje význam datového prvku pro daný typ objektu. DXF umožňuje reprezentovat téměř všechny uživatelem specifikované informace ve výkresovém souboru.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

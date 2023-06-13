@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="แปลง TGA เป็น PSD - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="แอปฟรีเพื่อแปลง TGA เป็น PSD"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/TGA-to-PSD)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="แปลง TGA เป็น PSD - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | TGA">}}
 Truevision TGA ซึ่งมักเรียกกันว่า TARGA เป็นรูปแบบไฟล์กราฟิกแรสเตอร์ที่สร้างโดย Truevision Inc. (ปัจจุบันเป็นส่วนหนึ่งของ Avid Technology) เป็นรูปแบบดั้งเดิมของบอร์ด TARGA และ VISTA ซึ่งเป็นกราฟิกการ์ดรุ่นแรกสำหรับพีซีที่เข้ากันได้กับ IBM เพื่อรองรับการแสดงผล Highcolor/truecolor
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | PSD">}}
 PSD หรือ Photoshop Document แสดงถึงรูปแบบไฟล์ดั้งเดิมของ Adobe Photoshop ที่ใช้สำหรับการออกแบบและพัฒนากราฟิก ไฟล์ PSD อาจรวมถึงเลเยอร์รูปภาพ เลเยอร์การปรับแต่ง เลเยอร์มาสก์ คำอธิบายประกอบ ข้อมูลไฟล์ คำสำคัญ และองค์ประกอบเฉพาะ Photoshop อื่นๆ
         {{< /blocks/products/pf/agp/about-file-text >}}
 

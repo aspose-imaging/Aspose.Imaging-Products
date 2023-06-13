@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити PNG на HTML - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення PNG у HTML"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/PNG-to-HTML)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити PNG на HTML - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | PNG">}}
 PNG, Portable Network Graphics, відноситься до типу формату растрового зображення, який використовує стиснення без втрат. Цей формат файлу було створено як заміну формату Graphics Interchange Format (GIF) і не має обмежень щодо авторських прав. Однак формат файлу PNG не підтримує анімацію. Формат файлу PNG підтримує стиснення зображень без втрат, що робить його популярним серед користувачів. З плином часу PNG перетворився на один із найбільш використовуваних форматів файлів зображень. Майже всі операційні системи підтримують відкриття файлів PNG. Наприклад, засіб перегляду Microsoft Windows має можливість відкривати файли PNG, оскільки ОС за замовчуванням підтримує підтримку, доступну як частину встановлення.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | HTML">}}
 HTML (Hyper Text Markup Language) — це розширення для веб-сторінок, створених для відображення в браузерах. HTML, відомий як мова Інтернету, розвивався разом із вимогами щодо нових вимог до інформації, яка має відображатися як частина веб-сторінок. Останній варіант відомий як HTML 5, який надає велику гнучкість для роботи з мовою. Сторінки HTML або отримуються з сервера, де вони розміщені, або також можуть бути завантажені з локальної системи. Кожна HTML-сторінка складається з таких елементів HTML, як форми, текст, зображення, анімація, посилання тощо. Ці елементи представлені такими тегами, як img, a, p та декількома іншими, де кожен тег має початок і кінець. Він також може вбудовувати програми, написані мовами сценаріїв, такими як JavaScript і таблиці стилів (CSS), для загального представлення макета.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

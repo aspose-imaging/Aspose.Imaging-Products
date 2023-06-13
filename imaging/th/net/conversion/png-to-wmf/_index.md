@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="แปลง PNG เป็น WMF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="แอปฟรีเพื่อแปลง PNG เป็น WMF"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/PNG-to-WMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="แปลง PNG เป็น WMF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | PNG">}}
 PNG หรือ Portable Network Graphics หมายถึงรูปแบบไฟล์ภาพแรสเตอร์ชนิดหนึ่งที่ใช้การบีบอัดแบบไม่สูญเสียข้อมูล รูปแบบไฟล์นี้สร้างขึ้นแทน Graphics Interchange Format (GIF) และไม่มีข้อจำกัดด้านลิขสิทธิ์ อย่างไรก็ตาม รูปแบบไฟล์ PNG ไม่รองรับภาพเคลื่อนไหว รูปแบบไฟล์ PNG รองรับการบีบอัดภาพแบบไม่สูญเสียซึ่งทำให้เป็นที่นิยมในหมู่ผู้ใช้ เมื่อเวลาผ่านไป PNG ได้พัฒนาให้เป็นหนึ่งในรูปแบบไฟล์รูปภาพที่ใช้เป็นส่วนใหญ่ ระบบปฏิบัติการเกือบทั้งหมดรองรับการเปิดไฟล์ PNG ตัวอย่างเช่น โปรแกรมแสดง Microsoft Windows มีความสามารถในการเปิดไฟล์ PNG เนื่องจากระบบปฏิบัติการมีการสนับสนุนโดยค่าเริ่มต้นซึ่งเป็นส่วนหนึ่งของการติดตั้ง
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | WMF">}}
 ไฟล์ที่มีนามสกุล WMF แสดงถึง Microsoft Windows Metafile (WMF) สำหรับการจัดเก็บข้อมูลเวกเตอร์และรูปแบบบิตแมป เพื่อให้แม่นยำยิ่งขึ้น WMF อยู่ในหมวดหมู่รูปแบบไฟล์เวกเตอร์ของรูปแบบไฟล์กราฟิกที่ไม่ขึ้นกับอุปกรณ์ Windows Graphical Device Interface (GDI) ใช้ฟังก์ชันที่จัดเก็บไว้ในไฟล์ WMF เพื่อแสดงภาพบนหน้าจอ WMF เวอร์ชันที่ได้รับการปรับปรุงมากขึ้น หรือที่เรียกว่า Enhanced Meta Files (EMF) ได้รับการเผยแพร่ในภายหลัง ซึ่งทำให้รูปแบบมีคุณลักษณะที่สมบูรณ์ยิ่งขึ้น ในทางปฏิบัติ WMF จะคล้ายกับ SVG
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -75,16 +75,6 @@ description: SVGZ 到 EMF Java 轉換的示例代碼。使用 API 示例代碼�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="將 SVGZ 轉換為 EMF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="將 SVGZ 轉換為 EMF 的免費應用程序"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: SVGZ 到 EMF Java 轉換的示例代碼。使用 API 示例代碼�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hant/conversion/SVGZ-to-EMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="將 SVGZ 轉換為 EMF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | SVGZ">}}
 擴展名為 .svgz 的文件是可縮放矢量圖形 (.SVG) 文件的壓縮版本。它使用 gzip 壓縮，包含 XML 格式的數據。 SVGZ 文件支持透明度、漸變、動畫和過濾器。與默認 SVG 文件相比，SVGZ 文件的大小更小，這種減小的文件大小有助於在線傳輸圖形文件。圖形設計師使用 Adob​​e Illustrator、Corel PaintShop Pro 等工具創建 SVGZ 文件。但是，可以通過在發送圖像數據時在 Apache 服務器中啟用 GZip 壓縮來生成 SVGZ 文件。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | EMF">}}
 增強型元文件格式 (EMF) 獨立於設備存儲圖形圖像。 EMF 的元文件由按時間順序排列的可變長度記錄組成，可以在任何輸出設備上解析後呈現存儲的圖像。這些可變長度記錄可以是封閉對象的定義、繪圖命令和對準確渲染圖像至關重要的圖形屬性。當設備使用自己的圖形環境打開 EMF 圖元文件時，無論打開設備平台如何，原始圖像的比例、尺寸、顏色和其他圖形屬性都保持不變。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

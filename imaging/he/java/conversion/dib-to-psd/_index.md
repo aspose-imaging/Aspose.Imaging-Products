@@ -75,16 +75,6 @@ description: קוד לדוגמה עבור המרת Java מ-DIB ל-PSD. השתמ�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="המר את DIB ל-PSD - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="אפליקציה חינמית להמרת DIB ל-PSD"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: קוד לדוגמה עבור המרת Java מ-DIB ל-PSD. השתמ�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DIB-to-PSD)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="המר את DIB ל-PSD - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | DIB">}}
 קובץ DIB (Device Independent Bitmap) הוא קובץ תמונת רסטר הדומה במבנהו לקובצי Bitmap הסטנדרטיים (BMP) אך בעל כותרת שונה. ניתן לפתוח אותו כמעט עם כל היישומים שיכולים לפתוח קובץ BMP סטנדרטי ב-Windows כמו גם ב-macOS. DIB הם קבצים בינאריים ובעלי פורמט קובץ מורכב הדומה ל-BMP.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | PSD">}}
 PSD, Photoshop Document, מייצג את פורמט הקובץ המקורי של Adobe Photoshop המשמש לעיצוב ופיתוח גרפיקה. קובצי PSD עשויים לכלול שכבות תמונה, שכבות התאמה, מסכות שכבות, הערות, מידע על קבצים, מילות מפתח ואלמנטים אחרים הספציפיים לפוטושופ.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

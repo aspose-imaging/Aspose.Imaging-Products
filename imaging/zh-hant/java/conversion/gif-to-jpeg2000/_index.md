@@ -75,16 +75,6 @@ description: GIF 到 JPEG2000 Java 轉換的示例代碼。使用 API 示例代�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="將 GIF 轉換為 JPEG2000 - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="將 GIF 轉換為 JPEG2000 的免費應用程序"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: GIF 到 JPEG2000 Java 轉換的示例代碼。使用 API 示例代�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hant/conversion/GIF-to-JPEG2000)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="將 GIF 轉換為 JPEG2000 - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | GIF">}}
 GIF 或圖形交換格式是一種高度壓縮的圖像。 GIF 由 Unisys 擁有，使用不會降低圖像質量的 LZW 壓縮算法。對於每個圖像，GIF 通常允許每個像素最多 8 位，並且整個圖像最多允許 256 種顏色。與 JPEG 圖像相比，JPEG 圖像可以顯示多達 1600 萬種顏色，並且相當接近人眼的極限。早在互聯網出現時，GIF 仍然是最佳選擇，因為它們需要低帶寬並且與消耗純色區域的圖形兼容。動畫 GIF 將大量圖像或幀組合到一個文件中，並按順序顯示它們以生成動畫剪輯或短視頻。每幀的顏色限制最多為 256 種，並且可能最不適合再現具有顏色漸變的其他圖像和照片。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | JPEG2000">}}
 JPEG 2000 (JP2) 是一種圖像編碼系統和最先進的圖像壓縮標準。設計，使用小波技術 JPEG 2000 可以一次編碼任何質量的無損內容。此外，在編碼效率沒有任何實質性損失的情況下，JPEG 2000 能夠有效地訪問相同的內容並將其解碼為各種其他分辨率和質量。 JPEG 2000 中的碼流具有顯著的可擴展性，具有為空間隨機訪問提供便利的感興趣區域。擁有多達 16384 個不同的組件，尺寸以萬億像素為單位，精度可高達 38 位/樣本。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

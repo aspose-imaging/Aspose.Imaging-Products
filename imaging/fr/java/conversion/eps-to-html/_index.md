@@ -75,16 +75,6 @@ Avant d'exécuter l'exemple de code de conversion, assurez-vous que vous dispose
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convertir EPS en HTML - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Application gratuite pour convertir EPS en HTML"
         appName="Conversion"
@@ -96,13 +86,21 @@ Avant d'exécuter l'exemple de code de conversion, assurez-vous que vous dispose
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/fr/conversion/EPS-to-HTML)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Convertir EPS en HTML - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite | EPS">}}
 Les fichiers avec l'extension EPS décrivent essentiellement un programme de langage PostScript encapsulé qui décrit l'apparence d'une seule page. Le nom "Encapsulé" car il peut être inclus ou encapsulé dans une autre description de page en langage PostScript. Ce format de fichier basé sur un script peut contenir n'importe quelle combinaison de texte, de graphiques et d'images. Les fichiers EPS peuvent inclure une image d'aperçu bitmap encapsulée à l'intérieur pour être affichée par des applications pouvant ouvrir de tels fichiers. Les fichiers EPS peuvent être convertis en formats d'image standard tels que JPG, PNG, TIFF et PDF à l'aide de différentes applications, par ex. Adobe Illustrator, Photoshop et PaintShop Pro. En raison d'une faille de sécurité dans les fichiers EPS, Office 2016, Office 2013, Office 2010 et Office 365 ont désactivé la possibilité d'insérer des fichiers EPS dans des documents Office.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite | HTML">}}
 HTML (Hyper Text Markup Language) est l'extension des pages Web créées pour être affichées dans les navigateurs. Connu sous le nom de langage du Web, HTML a évolué avec les exigences de nouvelles exigences d'information à afficher dans le cadre des pages Web. La dernière variante est connue sous le nom de HTML 5 qui offre une grande flexibilité pour travailler avec le langage. Les pages HTML sont soit reçues du serveur, où elles sont hébergées, soit peuvent également être chargées à partir du système local. Chaque page HTML est composée d'éléments HTML tels que des formulaires, du texte, des images, des animations, des liens, etc. Ces éléments sont représentés par des balises telles que img, a, p et plusieurs autres où chaque balise a un début et une fin. Il peut également intégrer des applications écrites dans des langages de script tels que JavaScript et les feuilles de style (CSS) pour la représentation globale de la mise en page.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

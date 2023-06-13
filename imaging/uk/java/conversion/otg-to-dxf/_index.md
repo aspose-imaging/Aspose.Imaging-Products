@@ -75,16 +75,6 @@ description: Зразок коду для перетворення OTG у DXF Ja
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити OTG на DXF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення OTG у DXF"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Зразок коду для перетворення OTG у DXF Ja
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/OTG-to-DXF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити OTG на DXF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | OTG">}}
 Файл OTG — це шаблон малюнка, який створюється за допомогою стандарту OpenDocument, який відповідає специфікації OASIS Office Applications 1.0. Він представляє стандартну організацію елементів малюнка для векторного зображення, яке можна використовувати для подальшого вдосконалення вмісту файлу.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | DXF">}}
 DXF, формат обміну кресленнями або формат обміну кресленнями, — це теговане представлення даних файлу креслення AutoCAD. Кожен елемент у файлі має префіксне ціле число, яке називається кодом групи. Цей груповий код фактично представляє наступний елемент і вказує на значення елемента даних для певного типу об’єкта. DXF дає змогу представити майже всю інформацію, визначену користувачем, у файлі креслення.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

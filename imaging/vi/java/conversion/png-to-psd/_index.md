@@ -75,16 +75,6 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Chuyển đổi PNG thành PSD - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Ứng dụng miễn phí để chuyển đổi PNG thành PSD"
         appName="Conversion"
@@ -96,13 +86,21 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/vi/conversion/PNG-to-PSD)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Chuyển đổi PNG thành PSD - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm | PNG">}}
 PNG, Đồ họa mạng di động, đề cập đến một loại định dạng tệp hình ảnh raster sử dụng tính năng nén không có lỗ. Định dạng tệp này được tạo để thay thế cho Định dạng trao đổi đồ họa (GIF) và không có giới hạn bản quyền. Tuy nhiên, định dạng tệp PNG không hỗ trợ hình ảnh động. Định dạng tệp PNG hỗ trợ nén hình ảnh vô tận khiến nó trở nên phổ biến đối với người dùng. Theo thời gian, PNG đã phát triển như một trong những định dạng tệp hình ảnh được sử dụng nhiều nhất. Hầu hết tất cả các Hệ điều hành đều có hỗ trợ mở tệp PNG. Ví dụ, trình xem Microsoft Windows có khả năng mở tệp PNG vì theo mặc định, hệ điều hành có hỗ trợ sẵn có như một phần của quá trình cài đặt.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm | PSD">}}
 PSD, Tài liệu Photoshop, đại diện cho định dạng tệp gốc của Adobe Photoshop được sử dụng để thiết kế và phát triển đồ họa. Tệp PSD có thể bao gồm các lớp hình ảnh, lớp điều chỉnh, mặt nạ lớp, chú thích, thông tin tệp, từ khóa và các yếu tố cụ thể khác của Photoshop.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

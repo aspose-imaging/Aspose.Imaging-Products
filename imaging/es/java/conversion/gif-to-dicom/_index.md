@@ -75,16 +75,6 @@ Antes de ejecutar el código de ejemplo de conversión, asegúrese de tener los 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convertir GIF a DICOM - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Aplicación gratuita para convertir GIF a DICOM"
         appName="Conversion"
@@ -96,13 +86,21 @@ Antes de ejecutar el código de ejemplo de conversión, asegúrese de tener los 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/es/conversion/GIF-to-DICOM)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Convertir GIF a DICOM - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más | GIF">}}
 Un GIF o formato de intercambio gráfico es un tipo de imagen altamente comprimida. GIF, propiedad de Unisys, utiliza el algoritmo de compresión LZW que no degrada la calidad de la imagen. Para cada imagen, el GIF generalmente permite hasta 8 bits por píxel y hasta 256 colores en la imagen. A diferencia de una imagen JPEG, que puede mostrar hasta 16 millones de colores y toca bastante los límites del ojo humano. Cuando surgió Internet, los GIF seguían siendo la mejor opción porque requerían un ancho de banda bajo y eran compatibles con los gráficos que consumen áreas sólidas de color. Un GIF animado combina numerosas imágenes o marcos en un solo archivo y los muestra en una secuencia para generar un clip animado o un video corto. Las limitaciones de color son de hasta 256 para cada fotograma y es probable que sean las menos adecuadas para reproducir otras imágenes y fotografías con degradado de color.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más | DICOM">}}
 DICOM es el acrónimo de Digital Imaging and Communications in Medicine y pertenece al campo de la informática médica. DICOM es la combinación de definición de formato de archivo y un protocolo de comunicaciones de red. DICOM utiliza la extensión .DCM. .DCM existe en dos formatos diferentes, es decir, formato 1.x y formato 2.x. DCM Format 1.x también está disponible en dos versiones normal y extendida. DICOM se utiliza para la integración de dispositivos de imágenes médicas como impresoras, servidores, escáneres, etc. de varios proveedores y también contiene datos de identificación de cada paciente para que sean únicos. Los archivos DICOM se pueden compartir entre dos partes si son capaces de recibir datos de imagen en formato DICOM. La parte de comunicación de DICOM es un protocolo de capa de aplicación y utiliza TCP/IP para comunicarse entre entidades. Los protocolos HTTP y HTTPS se utilizan para los servicios web de DICOM. Las versiones compatibles con los servicios web son 1.0, 1.1, 2 o posteriores.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

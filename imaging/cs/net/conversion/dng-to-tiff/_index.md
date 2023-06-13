@@ -63,16 +63,6 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Převést DNG na TIFF – .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Bezplatná aplikace pro převod DNG na TIFF"
         appName="Conversion"
@@ -84,13 +74,21 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DNG-to-TIFF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Převést DNG na TIFF – .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více | DNG">}}
 DNG je obrazový formát digitálního fotoaparátu používaný pro ukládání nezpracovaných souborů. Byl vyvinut společností Adobe v září 2004. V podstatě byl vyvinut pro digitální fotografii. DNG je rozšířením standardního formátu TIFF/EP a významně využívá metadata. Aby mohli fotografové manipulovat s nezpracovanými daty z digitálních fotoaparátů se snadnou flexibilitou a uměleckým ovládáním, volí soubory camera raw. Formáty JPEG a TIFF ukládají snímky, které zpracovává fotoaparát, proto v těchto formátech není k dispozici mnoho prostoru pro úpravy.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více | TIFF">}}
 TIFF nebo TIF, Tagged Image File Format, představuje rastrové obrázky, které jsou určeny pro použití na různých zařízeních, která vyhovují tomuto standardu formátu souboru. Je schopen popsat dvouúrovňová, šedá, paletová a plnobarevná obrazová data v několika barevných prostorech. Podporuje ztrátová i bezeztrátová kompresní schémata pro výběr mezi prostorem a časem pro aplikace používající formát. Formát je rozšiřitelný a prošel několika revizemi, které umožňují zahrnutí neomezeného množství soukromých nebo speciálních informací. Formát není závislý na počítači a je prostý omezení, jako je procesor, operační systém nebo systémy souborů.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

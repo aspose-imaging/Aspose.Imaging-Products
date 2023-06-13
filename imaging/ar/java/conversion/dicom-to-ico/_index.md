@@ -75,16 +75,6 @@ description: نموذج رمز لـ DICOM إلى ICO تحويل Java. استخد
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="تحويل DICOM إلى ICO - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="تطبيق مجاني لتحويل DICOM إلى ICO"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: نموذج رمز لـ DICOM إلى ICO تحويل Java. استخد
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DICOM-to-ICO)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="تحويل DICOM إلى ICO - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | DICOM">}}
 DICOM هو اختصار للتصوير الرقمي والاتصالات في الطب ويتعلق بمجال المعلوماتية الطبية. DICOM هو مزيج من تعريف تنسيق الملف وبروتوكول اتصالات الشبكة. يستخدم DICOM الملحق .DCM. يوجد DCM بتنسيقين مختلفين ، أي الشكل 1.x والصيغة 2.x. يتوفر تنسيق DCM 1.x أيضًا في نسختين عاديتين وممتدتين. يستخدم DICOM لدمج أجهزة التصوير الطبي مثل الطابعات والخوادم والماسحات الضوئية وغيرها من البائعين المختلفين ويحتوي أيضًا على بيانات تعريف لكل مريض من أجل التفرد. يمكن مشاركة ملفات DICOM بين طرفين إذا كانا قادرين على استقبال بيانات الصورة بتنسيق DICOM. جزء الاتصال في DICOM هو بروتوكول طبقة التطبيق ويستخدم TCP / IP للتواصل بين الكيانات. يتم استخدام بروتوكولات HTTP و HTTPS لخدمات الويب الخاصة بـ DICOM. الإصدارات التي تدعمها خدمات الويب هي 1.0 أو 1.1 أو 2 أو أحدث.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | ICO">}}
 تنسيق ملف ICO هو تنسيق ملف صورة لأيقونات الكمبيوتر في Microsoft Windows. تحتوي ملفات ICO على صورة صغيرة واحدة أو أكثر بأحجام وأعماق ألوان متعددة ، بحيث يمكن قياسها بشكل مناسب. في Windows ، يجب أن تحمل جميع الملفات التنفيذية التي تعرض رمزًا للمستخدم أو على سطح المكتب أو في قائمة ابدأ أو في مستكشف Windows الرمز بتنسيق ICO.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

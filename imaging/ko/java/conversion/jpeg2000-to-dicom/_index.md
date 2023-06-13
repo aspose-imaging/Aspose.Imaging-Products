@@ -75,16 +75,6 @@ JPEG2000을 DICOM로 변환하려면 다음을 사용합니다. [자바용 Aspos
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="JPEG2000을 DICOM로 변환 - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="JPEG2000을 DICOM로 변환하는 무료 앱"
         appName="Conversion"
@@ -96,13 +86,21 @@ JPEG2000을 DICOM로 변환하려면 다음을 사용합니다. [자바용 Aspos
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ko/conversion/JPEG2000-to-DICOM)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="JPEG2000을 DICOM로 변환 - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | JPEG2000">}}
 JPEG 2000(JP2)은 이미지 코딩 시스템이자 최첨단 이미지 압축 표준입니다. 웨이블릿 기술을 사용하여 설계된 JPEG 2000은 한 번에 모든 품질의 무손실 콘텐츠를 코딩할 수 있습니다. 게다가 JPEG 2000은 코딩 효율성에 있어 실질적인 불이익 없이 동일한 콘텐츠에 액세스하고 다양한 다른 해상도와 품질로 효과적으로 디코딩할 수 있는 기능을 가지고 있습니다. JPEG 2000의 코드 스트림은 공간 랜덤 액세스를 위한 기능을 제공하는 관심 영역을 갖도록 확장할 수 있습니다. 최대 16384개의 다양한 구성 요소를 테라픽셀 단위의 치수와 38비트/샘플의 정밀도까지 보유합니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | DICOM">}}
 DICOM은 Digital Imaging and Communications in Medicine의 약자로 의료 정보학 분야와 관련이 있습니다. DICOM은 파일 형식 정의와 네트워크 통신 프로토콜의 조합입니다. DICOM은 .DCM 확장자를 사용합니다. .DCM은 형식 1.x와 형식 2.x의 두 가지 형식으로 존재합니다. DCM 형식 1.x는 일반 및 확장의 두 가지 버전으로 추가로 제공됩니다. DICOM은 다양한 공급업체의 프린터, 서버, 스캐너 등과 같은 의료 영상 장치의 통합에 사용되며 고유성을 위해 각 환자의 식별 데이터도 포함합니다. DICOM 파일은 DICOM 형식의 이미지 데이터를 수신할 수 있는 경우 두 당사자 간에 공유할 수 있습니다. DICOM의 통신 부분은 응용 계층 프로토콜이며 TCP/IP를 사용하여 엔터티 간에 통신합니다. HTTP 및 HTTPS 프로토콜은 DICOM의 웹 서비스에 사용됩니다. 웹 서비스에서 지원하는 버전은 1.0, 1.1, 2 이상입니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

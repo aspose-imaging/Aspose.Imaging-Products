@@ -75,16 +75,6 @@ CMX को PSD में बदलने के लिए, हम उपयो�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="CMX को PSD में बदलें - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="CMX को PSD में बदलने के लिए नि:शुल्‍क ऐप"
         appName="Conversion"
@@ -96,13 +86,21 @@ CMX को PSD में बदलने के लिए, हम उपयो�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/CMX-to-PSD)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="CMX को PSD में बदलें - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | CMX">}}
 CMX एक्सटेंशन वाली फ़ाइलें Corel Exchange छवि फ़ाइल स्वरूप हैं जिनका उपयोग CorelSuite अनुप्रयोगों द्वारा प्रस्तुतिकरण के रूप में किया जाता है। इसमें छवि डेटा वेक्टर ग्राफिक्स के साथ-साथ मेटाडेटा भी शामिल है जो छवि का वर्णन करता है। CMX फाइलें CorelDraw, Corel प्रस्तुतियों, पेंट शॉप प्रो और Adobe Illustrator के कुछ संस्करणों द्वारा खोली जा सकती हैं।
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | PSD">}}
 PSD, Photoshop Document, Adobe Photoshop के मूल फ़ाइल स्वरूप का प्रतिनिधित्व करता है जिसका उपयोग ग्राफिक्स डिजाइनिंग और विकास के लिए किया जाता है। PSD फ़ाइलों में छवि परतें, समायोजन परतें, परत मास्क, एनोटेशन, फ़ाइल जानकारी, कीवर्ड और अन्य फ़ोटोशॉप-विशिष्ट तत्व शामिल हो सकते हैं।
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -75,16 +75,6 @@ description: โค้ดตัวอย่างสำหรับการแ�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="แปลง BMP เป็น ICO - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="แอปฟรีเพื่อแปลง BMP เป็น ICO"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: โค้ดตัวอย่างสำหรับการแ�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/BMP-to-ICO)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="แปลง BMP เป็น ICO - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | BMP">}}
 ไฟล์ที่มีนามสกุล .BMP แสดงถึงไฟล์ภาพบิตแมปที่ใช้เก็บภาพดิจิทัลบิตแมป รูปภาพเหล่านี้ไม่ขึ้นกับการ์ดจอและเรียกอีกอย่างว่ารูปแบบไฟล์บิตแมปที่ไม่ขึ้นกับอุปกรณ์ (DIB) ความเป็นอิสระนี้มีจุดประสงค์ในการเปิดไฟล์บนหลายแพลตฟอร์ม เช่น Microsoft Windows และ Mac รูปแบบไฟล์ BMP สามารถจัดเก็บข้อมูลเป็นภาพดิจิทัลสองมิติทั้งในรูปแบบขาวดำและรูปแบบสีที่มีความลึกของสีต่างๆ
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | ICO">}}
 รูปแบบไฟล์ ICO เป็นรูปแบบไฟล์รูปภาพสำหรับไอคอนคอมพิวเตอร์ใน Microsoft Windows ไฟล์ ICO มีรูปภาพขนาดเล็กตั้งแต่หนึ่งภาพขึ้นไปที่หลายขนาดและความลึกของสี เพื่อให้สามารถปรับขนาดได้อย่างเหมาะสม ใน Windows โปรแกรมเรียกทำงานทั้งหมดที่แสดงไอคอนแก่ผู้ใช้ บนเดสก์ท็อป ในเมนูเริ่ม หรือใน Windows Explorer ต้องมีไอคอนในรูปแบบ ICO
         {{< /blocks/products/pf/agp/about-file-text >}}
 

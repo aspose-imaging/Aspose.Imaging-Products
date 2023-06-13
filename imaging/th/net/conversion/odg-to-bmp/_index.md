@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="แปลง ODG เป็น BMP - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="แอปฟรีเพื่อแปลง ODG เป็น BMP"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/ODG-to-BMP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="แปลง ODG เป็น BMP - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | ODG">}}
 รูปแบบไฟล์ ODG ถูกใช้โดยแอปพลิเคชัน Draw ของ Apache OpenOffice เพื่อจัดเก็บองค์ประกอบการวาดเป็นภาพเวกเตอร์ เป็นไปตามข้อกำหนดรูปแบบไฟล์ XML ที่ร่างโดย Advancement of Structural Information Standards (OASIS) ODG แสดงภาพวาดเป็นภาพเวกเตอร์โดยใช้จุด เส้น และเส้นโค้ง นอกจาก OpenOffice แล้ว LibreOffice และแอปพลิเคชั่นอื่น ๆ ยังรองรับการทำงานกับรูปแบบไฟล์ ODG รูปแบบอื่นๆ ที่ OpenOffice รองรับ เช่น ODT, ODF, ODP และ ODS
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | BMP">}}
 ไฟล์ที่มีนามสกุล .BMP แสดงถึงไฟล์ภาพบิตแมปที่ใช้เก็บภาพดิจิทัลบิตแมป รูปภาพเหล่านี้ไม่ขึ้นกับการ์ดจอและเรียกอีกอย่างว่ารูปแบบไฟล์บิตแมปที่ไม่ขึ้นกับอุปกรณ์ (DIB) ความเป็นอิสระนี้มีจุดประสงค์ในการเปิดไฟล์บนหลายแพลตฟอร์ม เช่น Microsoft Windows และ Mac รูปแบบไฟล์ BMP สามารถจัดเก็บข้อมูลเป็นภาพดิจิทัลสองมิติทั้งในรูปแบบขาวดำและรูปแบบสีที่มีความลึกของสีต่างๆ
         {{< /blocks/products/pf/agp/about-file-text >}}
 

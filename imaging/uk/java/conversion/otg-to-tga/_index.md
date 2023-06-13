@@ -75,16 +75,6 @@ description: Зразок коду для перетворення OTG у TGA Ja
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити OTG на TGA - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення OTG у TGA"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Зразок коду для перетворення OTG у TGA Ja
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/OTG-to-TGA)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити OTG на TGA - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | OTG">}}
 Файл OTG — це шаблон малюнка, який створюється за допомогою стандарту OpenDocument, який відповідає специфікації OASIS Office Applications 1.0. Він представляє стандартну організацію елементів малюнка для векторного зображення, яке можна використовувати для подальшого вдосконалення вмісту файлу.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | TGA">}}
 Truevision TGA, який часто називають TARGA, — це формат файлів растрової графіки, створений компанією Truevision Inc. (зараз є частиною Avid Technology). Це був рідний формат плат TARGA і VISTA, які були першими графічними картами для IBM-сумісних ПК, які підтримували відображення Highcolor/truecolor.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

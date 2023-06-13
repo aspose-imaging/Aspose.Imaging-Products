@@ -75,16 +75,6 @@ J2K को APNG में बदलने के लिए, हम उपयो�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="J2K को APNG में बदलें - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="J2K को APNG में बदलने के लिए नि:शुल्‍क ऐप"
         appName="Conversion"
@@ -96,13 +86,21 @@ J2K को APNG में बदलने के लिए, हम उपयो�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/J2K-to-APNG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="J2K को APNG में बदलें - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | J2K">}}
 J2K फ़ाइल एक ऐसी छवि है जिसे DCT संपीड़न के बजाय तरंगिका संपीड़न का उपयोग करके संपीड़ित किया जाता है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | APNG">}}
 .apng (एनिमेटेड पोर्टेबल नेटवर्क ग्राफिक्स) एक्सटेंशन वाली फाइल एक रैस्टर ग्राफिक फॉर्मेट है और पोर्टेबल नेटवर्क ग्राफिक (पीएनजी) के लिए एक अनौपचारिक एक्सटेंशन है। इसमें कई फ्रेम शामिल हैं (प्रत्येक पीएनजी छवि) जो एक एनीमेशन अनुक्रम का प्रतिनिधित्व करता है। यह GIF फ़ाइल के समान विज़ुअलाइज़ेशन देता है। एपीएनजी फाइलें 24-बिट छवियों और 8-बिट पारदर्शिता का समर्थन करती हैं। APNG गैर-एनिमेटेड GIF फ़ाइलों के साथ पिछड़ा संगत है। APNG फ़ाइलें समान .png एक्सटेंशन का उपयोग करती हैं और Mozilla Firefox, APNG समर्थन वाले Chrome, iOS 10 के लिए iMessage ऐप्स जैसे एप्लिकेशन द्वारा खोली जा सकती हैं।
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -75,16 +75,6 @@ description: Зразок коду для перетворення ICO у DXF Ja
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити ICO на DXF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення ICO у DXF"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Зразок коду для перетворення ICO у DXF Ja
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/ICO-to-DXF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити ICO на DXF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | ICO">}}
 Формат файлу ICO — це формат файлу зображення для комп’ютерних значків у Microsoft Windows. Файли ICO містять одне або кілька невеликих зображень різних розмірів і глибини кольору, щоб їх можна було відповідно масштабувати. У Windows усі виконувані файли, які відображають піктограму для користувача на робочому столі, у меню «Пуск» або в Провіднику Windows, повинні мати піктограму у форматі ICO.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | DXF">}}
 DXF, формат обміну кресленнями або формат обміну кресленнями, — це теговане представлення даних файлу креслення AutoCAD. Кожен елемент у файлі має префіксне ціле число, яке називається кодом групи. Цей груповий код фактично представляє наступний елемент і вказує на значення елемента даних для певного типу об’єкта. DXF дає змогу представити майже всю інформацію, визначену користувачем, у файлі креслення.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

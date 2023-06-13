@@ -75,16 +75,6 @@ description: קוד לדוגמה עבור המרת Java מ-OTG ל-PSD. השתמ�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="המר את OTG ל-PSD - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="אפליקציה חינמית להמרת OTG ל-PSD"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: קוד לדוגמה עבור המרת Java מ-OTG ל-PSD. השתמ�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/OTG-to-PSD)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="המר את OTG ל-PSD - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | OTG">}}
 קובץ OTG הוא תבנית ציור שנוצרת באמצעות תקן OpenDocument העוקב אחר מפרט OASIS Office Applications 1.0. הוא מייצג את ארגון ברירת המחדל של רכיבי ציור עבור תמונה וקטורית שניתן להשתמש בהם כדי לשפר עוד יותר את תוכן הקובץ.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | PSD">}}
 PSD, Photoshop Document, מייצג את פורמט הקובץ המקורי של Adobe Photoshop המשמש לעיצוב ופיתוח גרפיקה. קובצי PSD עשויים לכלול שכבות תמונה, שכבות התאמה, מסכות שכבות, הערות, מידע על קבצים, מילות מפתח ואלמנטים אחרים הספציפיים לפוטושופ.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

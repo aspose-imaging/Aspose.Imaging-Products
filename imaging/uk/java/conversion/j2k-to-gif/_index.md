@@ -75,16 +75,6 @@ description: Зразок коду для перетворення J2K у GIF Ja
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити J2K на GIF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення J2K у GIF"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Зразок коду для перетворення J2K у GIF Ja
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/J2K-to-GIF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити J2K на GIF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | J2K">}}
 Файл J2K — це зображення, яке стискається за допомогою вейвлет-стиснення замість стиснення DCT.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | GIF">}}
 GIF або Graphical Interchange Format — це тип сильно стиснутого зображення. GIF, що належить Unisys, використовує алгоритм стиснення LZW, який не погіршує якість зображення. Для кожного зображення GIF зазвичай допускається до 8 біт на піксель і до 256 кольорів на зображенні. На відміну від зображення у форматі JPEG, яке може відображати до 16 мільйонів кольорів і доторкається до меж людського ока. Коли з’явився Інтернет, GIF-файли залишалися найкращим вибором, оскільки вони потребували низької пропускної здатності та були сумісні з графікою, яка споживає суцільні кольорові ділянки. Анімований GIF поєднує численні зображення або кадри в один файл і відображає їх у послідовності для створення анімованого кліпу або короткого відео. Кольорові обмеження становлять до 256 для кожного кадру, і вони, імовірно, найменше підходять для відтворення інших зображень і фотографій із градієнтом кольорів.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

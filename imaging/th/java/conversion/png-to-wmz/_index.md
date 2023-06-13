@@ -75,16 +75,6 @@ description: โค้ดตัวอย่างสำหรับการแ�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="แปลง PNG เป็น WMZ - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="แอปฟรีเพื่อแปลง PNG เป็น WMZ"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: โค้ดตัวอย่างสำหรับการแ�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/PNG-to-WMZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="แปลง PNG เป็น WMZ - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | PNG">}}
 PNG หรือ Portable Network Graphics หมายถึงรูปแบบไฟล์ภาพแรสเตอร์ชนิดหนึ่งที่ใช้การบีบอัดแบบไม่สูญเสียข้อมูล รูปแบบไฟล์นี้สร้างขึ้นแทน Graphics Interchange Format (GIF) และไม่มีข้อจำกัดด้านลิขสิทธิ์ อย่างไรก็ตาม รูปแบบไฟล์ PNG ไม่รองรับภาพเคลื่อนไหว รูปแบบไฟล์ PNG รองรับการบีบอัดภาพแบบไม่สูญเสียซึ่งทำให้เป็นที่นิยมในหมู่ผู้ใช้ เมื่อเวลาผ่านไป PNG ได้พัฒนาให้เป็นหนึ่งในรูปแบบไฟล์รูปภาพที่ใช้เป็นส่วนใหญ่ ระบบปฏิบัติการเกือบทั้งหมดรองรับการเปิดไฟล์ PNG ตัวอย่างเช่น โปรแกรมแสดง Microsoft Windows มีความสามารถในการเปิดไฟล์ PNG เนื่องจากระบบปฏิบัติการมีการสนับสนุนโดยค่าเริ่มต้นซึ่งเป็นส่วนหนึ่งของการติดตั้ง
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | WMZ">}}
 WMZ เป็นนามสกุลไฟล์สำหรับรูปแบบไฟล์สกินใน/สำหรับ/ใช้โดย Windows Media Player ไฟล์ WMZ นั้นเป็นไฟล์ WMF ที่บีบอัดในรูปแบบ XML
         {{< /blocks/products/pf/agp/about-file-text >}}
 

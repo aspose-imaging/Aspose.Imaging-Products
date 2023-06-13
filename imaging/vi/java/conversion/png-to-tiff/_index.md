@@ -75,16 +75,6 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Chuyển đổi PNG thành TIFF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Ứng dụng miễn phí để chuyển đổi PNG thành TIFF"
         appName="Conversion"
@@ -96,13 +86,21 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/vi/conversion/PNG-to-TIFF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Chuyển đổi PNG thành TIFF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm | PNG">}}
 PNG, Đồ họa mạng di động, đề cập đến một loại định dạng tệp hình ảnh raster sử dụng tính năng nén không có lỗ. Định dạng tệp này được tạo để thay thế cho Định dạng trao đổi đồ họa (GIF) và không có giới hạn bản quyền. Tuy nhiên, định dạng tệp PNG không hỗ trợ hình ảnh động. Định dạng tệp PNG hỗ trợ nén hình ảnh vô tận khiến nó trở nên phổ biến đối với người dùng. Theo thời gian, PNG đã phát triển như một trong những định dạng tệp hình ảnh được sử dụng nhiều nhất. Hầu hết tất cả các Hệ điều hành đều có hỗ trợ mở tệp PNG. Ví dụ, trình xem Microsoft Windows có khả năng mở tệp PNG vì theo mặc định, hệ điều hành có hỗ trợ sẵn có như một phần của quá trình cài đặt.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm | TIFF">}}
 TIFF hoặc TIF, Định dạng tệp hình ảnh được gắn thẻ, đại diện cho hình ảnh raster được sử dụng trên nhiều thiết bị tuân thủ tiêu chuẩn định dạng tệp này. Nó có khả năng mô tả dữ liệu hình ảnh mức độ mật, thang độ xám, bảng màu và dữ liệu hình ảnh đầy đủ màu sắc trong một số không gian màu. Nó hỗ trợ các lược đồ nén mất dữ liệu cũng như không mất dữ liệu để lựa chọn giữa không gian và thời gian cho các ứng dụng sử dụng định dạng. Định dạng này có thể mở rộng và đã trải qua một số sửa đổi cho phép đưa vào một lượng thông tin cá nhân hoặc mục đích đặc biệt không giới hạn. Định dạng không phụ thuộc vào máy và không bị giới hạn như bộ xử lý, hệ điều hành hoặc hệ thống tệp.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

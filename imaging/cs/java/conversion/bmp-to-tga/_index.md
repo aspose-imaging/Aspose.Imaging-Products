@@ -75,16 +75,6 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Převést BMP na TGA – Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Bezplatná aplikace pro převod BMP na TGA"
         appName="Conversion"
@@ -96,13 +86,21 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/BMP-to-TGA)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Převést BMP na TGA – Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více | BMP">}}
 Soubory s příponou .BMP představují soubory bitmapových obrázků, které se používají k ukládání bitmapových digitálních obrázků. Tyto obrázky jsou nezávislé na grafickém adaptéru a nazývají se také formát souboru bitmap nezávislý na zařízení (DIB). Tato nezávislost slouží k otevření souboru na více platformách, jako jsou Microsoft Windows a Mac. Souborový formát BMP může ukládat data jako dvourozměrné digitální obrázky v monochromatickém i barevném formátu s různými barevnými hloubkami.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více | TGA">}}
 Truevision TGA, často označovaný jako TARGA, je formát rastrového grafického souboru vytvořený společností Truevision Inc. (nyní součástí Avid Technology). Byl to nativní formát desek TARGA a VISTA, které byly prvními grafickými kartami pro počítače kompatibilní s IBM, které podporovaly zobrazení Highcolor/truecolor.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

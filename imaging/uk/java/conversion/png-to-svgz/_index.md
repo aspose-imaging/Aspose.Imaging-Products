@@ -75,16 +75,6 @@ description: Зразок коду для перетворення PNG у SVGZ J
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити PNG на SVGZ - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення PNG у SVGZ"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Зразок коду для перетворення PNG у SVGZ J
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/PNG-to-SVGZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити PNG на SVGZ - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | PNG">}}
 PNG, Portable Network Graphics, відноситься до типу формату растрового зображення, який використовує стиснення без втрат. Цей формат файлу було створено як заміну формату Graphics Interchange Format (GIF) і не має обмежень щодо авторських прав. Однак формат файлу PNG не підтримує анімацію. Формат файлу PNG підтримує стиснення зображень без втрат, що робить його популярним серед користувачів. З плином часу PNG перетворився на один із найбільш використовуваних форматів файлів зображень. Майже всі операційні системи підтримують відкриття файлів PNG. Наприклад, засіб перегляду Microsoft Windows має можливість відкривати файли PNG, оскільки ОС за замовчуванням підтримує підтримку, доступну як частину встановлення.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | SVGZ">}}
 Файл із розширенням .svgz є стиснутою версією файлу масштабованої векторної графіки (.SVG). Він стискається за допомогою стиснення gzip і містить дані у форматі XML. Файли SVGZ підтримують прозорість, градієнти, анімацію та фільтри. Файли SVGZ мають менший розмір порівняно з файлами SVG за замовчуванням, і цей зменшений розмір файлу допомагає передавати графічні файли онлайн. Графічний дизайнер створює файли SVGZ за допомогою таких інструментів, як Adobe Illustrator, Corel PaintShop Pro та інших. Однак файли SVGZ можна створити, увімкнувши стиснення GZip на сервері Apache під час надсилання даних зображення.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

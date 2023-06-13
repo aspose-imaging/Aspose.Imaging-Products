@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити DNG на PDF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення DNG у PDF"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DNG-to-PDF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити DNG на PDF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | DNG">}}
 DNG — це формат зображення цифрової камери, який використовується для зберігання необроблених файлів. Він був розроблений Adobe у вересні 2004 року. В основному він був розроблений для цифрової фотографії. DNG є розширенням стандартного формату TIFF/EP і значно використовує метадані. Щоб маніпулювати необробленими даними з цифрових камер із легкою гнучкістю та художнім контролем, фотографи вибирають файли Camera Raw. У форматах JPEG і TIFF зберігаються зображення, оброблені камерою, тому в таких форматах мало місця для змін.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | PDF">}}
 Portable Document Format (PDF) — це тип документа, створений Adobe ще в 1990-х роках. Метою цього формату файлів було запровадження стандарту для представлення документів та інших довідкових матеріалів у форматі, незалежному від прикладного програмного забезпечення, апаратного забезпечення, а також операційної системи. Формат файлу PDF має повну можливість містити таку інформацію, як текст, зображення, гіперпосилання, поля форм, мультимедіа, цифрові підписи, вкладення, метадані, геопросторові об’єкти та 3D-об’єкти, які можуть стати частиною вихідного документа.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="แปลง ODG เป็น PSD - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="แอปฟรีเพื่อแปลง ODG เป็น PSD"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/ODG-to-PSD)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="แปลง ODG เป็น PSD - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | ODG">}}
 รูปแบบไฟล์ ODG ถูกใช้โดยแอปพลิเคชัน Draw ของ Apache OpenOffice เพื่อจัดเก็บองค์ประกอบการวาดเป็นภาพเวกเตอร์ เป็นไปตามข้อกำหนดรูปแบบไฟล์ XML ที่ร่างโดย Advancement of Structural Information Standards (OASIS) ODG แสดงภาพวาดเป็นภาพเวกเตอร์โดยใช้จุด เส้น และเส้นโค้ง นอกจาก OpenOffice แล้ว LibreOffice และแอปพลิเคชั่นอื่น ๆ ยังรองรับการทำงานกับรูปแบบไฟล์ ODG รูปแบบอื่นๆ ที่ OpenOffice รองรับ เช่น ODT, ODF, ODP และ ODS
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | PSD">}}
 PSD หรือ Photoshop Document แสดงถึงรูปแบบไฟล์ดั้งเดิมของ Adobe Photoshop ที่ใช้สำหรับการออกแบบและพัฒนากราฟิก ไฟล์ PSD อาจรวมถึงเลเยอร์รูปภาพ เลเยอร์การปรับแต่ง เลเยอร์มาสก์ คำอธิบายประกอบ ข้อมูลไฟล์ คำสำคัญ และองค์ประกอบเฉพาะ Photoshop อื่นๆ
         {{< /blocks/products/pf/agp/about-file-text >}}
 

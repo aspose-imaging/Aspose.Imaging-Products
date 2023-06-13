@@ -75,16 +75,6 @@ description: Зразок коду для перетворення APNG у ICO J
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити APNG на ICO - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення APNG у ICO"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Зразок коду для перетворення APNG у ICO J
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/APNG-to-ICO)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити APNG на ICO - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | APNG">}}
 Файл із розширенням .apng (Animated Portable Network Graphic) — це растровий графічний формат і є неофіційним розширенням Portable Network Graphic (PNG). Він складається з кількох кадрів (кожен із зображень PNG), які представляють послідовність анімації. Це дає візуалізацію, подібну до файлу GIF. Файли APNG підтримують 24-бітні зображення та 8-бітну прозорість. APNG має зворотну сумісність із файлами GIF без анімації. Файли APNG використовують те саме розширення .png і можуть відкриватися такими програмами, як Mozilla Firefox, Chrome із підтримкою APNG, програмами iMessage для iOS 10.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | ICO">}}
 Формат файлу ICO — це формат файлу зображення для комп’ютерних значків у Microsoft Windows. Файли ICO містять одне або кілька невеликих зображень різних розмірів і глибини кольору, щоб їх можна було відповідно масштабувати. У Windows усі виконувані файли, які відображають піктограму для користувача на робочому столі, у меню «Пуск» або в Провіднику Windows, повинні мати піктограму у форматі ICO.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

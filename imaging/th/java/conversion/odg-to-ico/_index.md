@@ -75,16 +75,6 @@ description: โค้ดตัวอย่างสำหรับการแ�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="แปลง ODG เป็น ICO - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="แอปฟรีเพื่อแปลง ODG เป็น ICO"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: โค้ดตัวอย่างสำหรับการแ�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/ODG-to-ICO)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="แปลง ODG เป็น ICO - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | ODG">}}
 รูปแบบไฟล์ ODG ถูกใช้โดยแอปพลิเคชัน Draw ของ Apache OpenOffice เพื่อจัดเก็บองค์ประกอบการวาดเป็นภาพเวกเตอร์ เป็นไปตามข้อกำหนดรูปแบบไฟล์ XML ที่ร่างโดย Advancement of Structural Information Standards (OASIS) ODG แสดงภาพวาดเป็นภาพเวกเตอร์โดยใช้จุด เส้น และเส้นโค้ง นอกจาก OpenOffice แล้ว LibreOffice และแอปพลิเคชั่นอื่น ๆ ยังรองรับการทำงานกับรูปแบบไฟล์ ODG รูปแบบอื่นๆ ที่ OpenOffice รองรับ เช่น ODT, ODF, ODP และ ODS
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | ICO">}}
 รูปแบบไฟล์ ICO เป็นรูปแบบไฟล์รูปภาพสำหรับไอคอนคอมพิวเตอร์ใน Microsoft Windows ไฟล์ ICO มีรูปภาพขนาดเล็กตั้งแต่หนึ่งภาพขึ้นไปที่หลายขนาดและความลึกของสี เพื่อให้สามารถปรับขนาดได้อย่างเหมาะสม ใน Windows โปรแกรมเรียกทำงานทั้งหมดที่แสดงไอคอนแก่ผู้ใช้ บนเดสก์ท็อป ในเมนูเริ่ม หรือใน Windows Explorer ต้องมีไอคอนในรูปแบบ ICO
         {{< /blocks/products/pf/agp/about-file-text >}}
 

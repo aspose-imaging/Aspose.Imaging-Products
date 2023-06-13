@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="CDR को SVGZ में बदलें - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="CDR को SVGZ में बदलने के लिए नि:शुल्‍क ऐप"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/CDR-to-SVGZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="CDR को SVGZ में बदलें - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | CDR">}}
 CDR फ़ाइल एक वेक्टर ड्राइंग इमेज फ़ाइल है जो मूल रूप से CorelDRAW के साथ डिजिटल छवि एन्कोडेड और संपीड़ित को संग्रहीत करने के लिए बनाई गई है। इस तरह की एक ड्राइंग फ़ाइल में छवि सामग्री के वेक्टर प्रतिनिधित्व के लिए पाठ, रेखाएं, आकार, चित्र, रंग और प्रभाव होते हैं। CDR फाइलें प्राथमिक एप्लिकेशन के रूप में CorelDRAW के साथ खोली जा सकती हैं और अन्य प्रारूपों जैसे PDF, JPG, PNG, BMP और AI में भी परिवर्तित की जा सकती हैं। इसका उपयोग ब्रोशर, टैब्लॉयड, लिफाफे और पोस्टकार्ड जैसे विभिन्न ग्राफिक्स डेटा के प्रतिनिधित्व के लिए किया जा सकता है। CorelDRAW के अलावा, Corel पेंटशॉप प्रो और CorelDRAW ग्राफ़िक्स सूट जैसे अन्य Corel उत्पाद भी CDR फ़ाइल स्वरूपों को खोल सकते हैं।
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | SVGZ">}}
 .svgz एक्सटेंशन वाली फाइल स्केलेबल वेक्टर ग्राफिक्स (.SVG) फाइल का कंप्रेस्ड वर्जन है। यह gzip कम्प्रेशन के साथ कंप्रेस्ड है और इसमें XML फॉर्मेट में डेटा होता है। SVGZ फाइलें पारदर्शिता, ग्रेडिएंट, एनिमेशन और फिल्टर का समर्थन करती हैं। एसवीजीजेड फाइलें डिफ़ॉल्ट एसवीजी फाइलों की तुलना में आकार में छोटी होती हैं और यह कम फाइल आकार ग्राफिक्स फाइलों को ऑनलाइन स्थानांतरित करने में मदद करता है। ग्राफिक्स डिजाइनर एडोब इलस्ट्रेटर, कोरल पेंटशॉप प्रो और अन्य जैसे टूल का उपयोग करके एसवीजीजेड फाइलें बनाते हैं। हालांकि, छवि डेटा भेजते समय अपाचे सर्वर में GZip संपीड़न को सक्षम करके एसवीजीजेड फाइलें उत्पन्न की जा सकती हैं।
         {{< /blocks/products/pf/agp/about-file-text >}}
 

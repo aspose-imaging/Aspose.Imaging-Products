@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="BMP को WEBP में बदलें - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="BMP को WEBP में बदलने के लिए नि:शुल्‍क ऐप"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/BMP-to-WEBP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="BMP को WEBP में बदलें - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | BMP">}}
 एक्सटेंशन वाली फ़ाइलें .BMP बिटमैप छवि फ़ाइलों का प्रतिनिधित्व करती हैं जिनका उपयोग बिटमैप डिजिटल छवियों को संग्रहीत करने के लिए किया जाता है। ये चित्र ग्राफिक्स एडेप्टर से स्वतंत्र हैं और इन्हें डिवाइस इंडिपेंडेंट बिटमैप (DIB) फ़ाइल स्वरूप भी कहा जाता है। यह स्वतंत्रता माइक्रोसॉफ्ट विंडोज और मैक जैसे कई प्लेटफार्मों पर फ़ाइल खोलने के उद्देश्य से कार्य करती है। बीएमपी फ़ाइल प्रारूप डेटा को दो-आयामी डिजिटल छवियों के रूप में मोनोक्रोम के साथ-साथ विभिन्न रंग गहराई के साथ रंग प्रारूप में संग्रहीत कर सकता है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | WEBP">}}
 वेबपी, गूगल द्वारा पेश किया गया, एक आधुनिक रास्टर वेब छवि फ़ाइल स्वरूप है जो दोषरहित और हानिपूर्ण संपीड़न पर आधारित है। यह छवि आकार को काफी कम करते हुए समान छवि गुणवत्ता प्रदान करता है। चूंकि अधिकांश वेब पेज छवियों को डेटा के प्रभावी प्रतिनिधित्व के रूप में उपयोग करते हैं, वेब पेजों में वेबपी छवियों के उपयोग से वेब पेजों का तेजी से लोड होता है। Google के अनुसार, PNGs की तुलना में WebP दोषरहित छवियां आकार में 26% छोटी होती हैं, जबकि WebP हानिपूर्ण छवियां तुलनीय JPEG छवियों की तुलना में 25-34% छोटी होती हैं। छवियों की तुलना वेबपी और अन्य छवि फ़ाइल स्वरूपों के बीच संरचनात्मक समानता (एसएसआईएम) सूचकांक के आधार पर की जाती है। वेबपी वेबएम मल्टीमीडिया कंटेनर प्रारूप की एक सहयोगी परियोजना है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 

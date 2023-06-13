@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="המר את TIFF ל-EMZ - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="אפליקציה חינמית להמרת TIFF ל-EMZ"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/TIFF-to-EMZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="המר את TIFF ל-EMZ - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | TIFF">}}
 TIFF או TIF, Tagged Image File Format, מייצגים תמונות רסטר המיועדות לשימוש במגוון מכשירים התואמים לתקן פורמט קובץ זה. הוא מסוגל לתאר נתוני תמונה דו-שכבתיים, גווני אפור, צבעי לוח וצבע מלא במספר מרחבי צבע. הוא תומך בסכימות דחיסה חסרות אובדן לבחירה בין מקום וזמן עבור יישומים המשתמשים בפורמט. הפורמט ניתן להרחבה ועבר מספר תיקונים המאפשרים הכללת כמות בלתי מוגבלת של מידע פרטי או למטרות מיוחדות. הפורמט אינו תלוי במכונה והוא נקי מגבולות כמו מעבד, מערכת הפעלה או מערכות קבצים.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | EMZ">}}
 קובץ עם סיומת הקובץ EMZ הוא קובץ תמונה דחוס, המכונה באופן ספציפי יותר קובץ Windows Compressed Enhanced Metafile
         {{< /blocks/products/pf/agp/about-file-text >}}
 

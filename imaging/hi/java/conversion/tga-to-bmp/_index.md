@@ -75,16 +75,6 @@ TGA को BMP में बदलने के लिए, हम उपयो�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="TGA को BMP में बदलें - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="TGA को BMP में बदलने के लिए नि:शुल्‍क ऐप"
         appName="Conversion"
@@ -96,13 +86,21 @@ TGA को BMP में बदलने के लिए, हम उपयो�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/TGA-to-BMP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="TGA को BMP में बदलें - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | TGA">}}
 Truevision TGA, जिसे अक्सर TARGA के रूप में जाना जाता है, Truevision Inc. (अब AVID टेक्नोलॉजी का हिस्सा) द्वारा बनाया गया एक रेखापुंज ग्राफिक्स फ़ाइल स्वरूप है। यह TARGA और VISTA बोर्डों का मूल स्वरूप था, जो IBM-संगत PC के लिए Highcolor/truecolor डिस्प्ले का समर्थन करने वाले पहले ग्राफिक कार्ड थे।
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | BMP">}}
 एक्सटेंशन वाली फ़ाइलें .BMP बिटमैप छवि फ़ाइलों का प्रतिनिधित्व करती हैं जिनका उपयोग बिटमैप डिजिटल छवियों को संग्रहीत करने के लिए किया जाता है। ये चित्र ग्राफिक्स एडेप्टर से स्वतंत्र हैं और इन्हें डिवाइस इंडिपेंडेंट बिटमैप (DIB) फ़ाइल स्वरूप भी कहा जाता है। यह स्वतंत्रता माइक्रोसॉफ्ट विंडोज और मैक जैसे कई प्लेटफार्मों पर फ़ाइल खोलने के उद्देश्य से कार्य करती है। बीएमपी फ़ाइल प्रारूप डेटा को दो-आयामी डिजिटल छवियों के रूप में मोनोक्रोम के साथ-साथ विभिन्न रंग गहराई के साथ रंग प्रारूप में संग्रहीत कर सकता है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 

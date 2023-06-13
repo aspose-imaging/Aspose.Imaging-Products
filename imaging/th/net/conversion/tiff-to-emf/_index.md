@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="แปลง TIFF เป็น EMF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="แอปฟรีเพื่อแปลง TIFF เป็น EMF"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/TIFF-to-EMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="แปลง TIFF เป็น EMF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | TIFF">}}
 TIFF หรือ TIF ซึ่งเป็นรูปแบบไฟล์ภาพที่ติดแท็ก แสดงถึงภาพแรสเตอร์ที่มีไว้สำหรับการใช้งานบนอุปกรณ์ต่างๆ ที่สอดคล้องกับมาตรฐานรูปแบบไฟล์นี้ สามารถอธิบายข้อมูลภาพสองระดับ ระดับสีเทา สีจานสี และสีเต็มในพื้นที่สีต่างๆ รองรับรูปแบบการบีบอัดแบบ lossy และ lossless เพื่อเลือกระหว่างพื้นที่และเวลาสำหรับแอปพลิเคชันที่ใช้รูปแบบ รูปแบบนี้ขยายได้และมีการแก้ไขหลายครั้งที่อนุญาตให้รวมข้อมูลส่วนตัวหรือข้อมูลวัตถุประสงค์พิเศษได้ไม่จำกัดจำนวน รูปแบบไม่ขึ้นกับเครื่องและปราศจากขอบเขต เช่น โปรเซสเซอร์ ระบบปฏิบัติการ หรือระบบไฟล์
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | EMF">}}
 รูปแบบเมตาไฟล์ที่ปรับปรุงแล้ว (EMF) จัดเก็บภาพกราฟิกแบบแยกจากอุปกรณ์ Metafiles ของ EMF ประกอบด้วยเร็กคอร์ดความยาวผันแปรตามลำดับเวลาซึ่งสามารถแสดงภาพที่เก็บไว้หลังจากแยกวิเคราะห์บนอุปกรณ์ส่งออกใด ๆ เร็กคอร์ดความยาวผันแปรเหล่านี้สามารถเป็นคำจำกัดความของออบเจ็กต์ที่ล้อมรอบ คำสั่งสำหรับการวาดภาพ และคุณสมบัติกราฟิกที่สำคัญอย่างยิ่งต่อการแสดงภาพอย่างถูกต้อง เมื่ออุปกรณ์เปิดเมตาไฟล์ EMF โดยใช้สภาพแวดล้อมกราฟิกของตัวเอง สัดส่วน ขนาด สี และคุณสมบัติกราฟิกอื่นๆ ของภาพต้นฉบับจะยังคงเหมือนเดิมโดยไม่คำนึงถึงแพลตฟอร์มอุปกรณ์ที่เปิดอยู่
         {{< /blocks/products/pf/agp/about-file-text >}}
 

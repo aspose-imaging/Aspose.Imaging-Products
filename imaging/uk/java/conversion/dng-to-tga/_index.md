@@ -75,16 +75,6 @@ description: Зразок коду для перетворення DNG у TGA Ja
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити DNG на TGA - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення DNG у TGA"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Зразок коду для перетворення DNG у TGA Ja
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DNG-to-TGA)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити DNG на TGA - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | DNG">}}
 DNG — це формат зображення цифрової камери, який використовується для зберігання необроблених файлів. Він був розроблений Adobe у вересні 2004 року. В основному він був розроблений для цифрової фотографії. DNG є розширенням стандартного формату TIFF/EP і значно використовує метадані. Щоб маніпулювати необробленими даними з цифрових камер із легкою гнучкістю та художнім контролем, фотографи вибирають файли Camera Raw. У форматах JPEG і TIFF зберігаються зображення, оброблені камерою, тому в таких форматах мало місця для змін.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | TGA">}}
 Truevision TGA, який часто називають TARGA, — це формат файлів растрової графіки, створений компанією Truevision Inc. (зараз є частиною Avid Technology). Це був рідний формат плат TARGA і VISTA, які були першими графічними картами для IBM-сумісних ПК, які підтримували відображення Highcolor/truecolor.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

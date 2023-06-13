@@ -75,16 +75,6 @@ description: نموذج رمز لـ WMZ إلى DXF تحويل Java. استخدم
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="تحويل WMZ إلى DXF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="تطبيق مجاني لتحويل WMZ إلى DXF"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: نموذج رمز لـ WMZ إلى DXF تحويل Java. استخدم
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/WMZ-to-DXF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="تحويل WMZ إلى DXF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | WMZ">}}
 WMZ هو امتداد ملف لتنسيق ملف السطح في / من أجل / يستخدم بواسطة Windows Media Player. ملف WMZ هو في الأساس ملف WMF مضغوط بتنسيق XML.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | DXF">}}
 DXF ، أو تنسيق تبادل الرسم ، أو تنسيق تبادل الرسم ، هو تمثيل بيانات ذو علامات لملف رسم AutoCAD. يحتوي كل عنصر في الملف على رقم بادئة صحيح يسمى رمز المجموعة. يمثل رمز المجموعة هذا العنصر الذي يليه ويشير إلى معنى عنصر البيانات لنوع كائن معين. يتيح DXF تمثيل جميع المعلومات المحددة من قبل المستخدم تقريبًا في ملف الرسم.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

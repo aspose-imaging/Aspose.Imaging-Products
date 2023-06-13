@@ -63,16 +63,6 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Převést WEBP na APNG – .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Bezplatná aplikace pro převod WEBP na APNG"
         appName="Conversion"
@@ -84,13 +74,21 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/WEBP-to-APNG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Převést WEBP na APNG – .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více | WEBP">}}
 WebP, představený společností Google, je moderní formát rastrových webových obrázků, který je založen na bezztrátové a ztrátové kompresi. Poskytuje stejnou kvalitu obrazu a výrazně snižuje velikost obrazu. Protože většina webových stránek používá obrázky jako efektivní reprezentaci dat, použití obrázků WebP na webových stránkách vede k rychlejšímu načítání webových stránek. Podle Google jsou bezztrátové obrázky WebP o 26 % menší ve srovnání s obrázky PNG, zatímco ztrátové obrázky WebP jsou o 25–34 % menší než srovnatelné obrázky JPEG. Obrázky jsou porovnávány na základě indexu strukturní podobnosti (SSIM) mezi WebP a jinými formáty souborů obrázků. WebP je sesterský projekt formátu multimediálních kontejnerů WebM.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více | APNG">}}
 Soubor s příponou .apng (Animated Portable Network Graphics) je rastrový grafický formát a je neoficiálním rozšířením Portable Network Graphic (PNG). Skládá se z několika snímků (každý z obrázku PNG), které představují sekvenci animace. To poskytuje podobnou vizualizaci jako soubor GIF. Soubory APNG podporují 24bitové obrázky a 8bitovou průhlednost. APNG je zpětně kompatibilní s neanimovanými soubory GIF. Soubory APNG používají stejnou příponu .png a lze je otevřít aplikacemi, jako je Mozilla Firefox, Chrome s podporou APNG, aplikace iMessage pro iOS 10.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

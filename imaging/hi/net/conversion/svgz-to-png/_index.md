@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="SVGZ को PNG में बदलें - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="SVGZ को PNG में बदलने के लिए नि:शुल्‍क ऐप"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/SVGZ-to-PNG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="SVGZ को PNG में बदलें - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | SVGZ">}}
 .svgz एक्सटेंशन वाली फाइल स्केलेबल वेक्टर ग्राफिक्स (.SVG) फाइल का कंप्रेस्ड वर्जन है। यह gzip कम्प्रेशन के साथ कंप्रेस्ड है और इसमें XML फॉर्मेट में डेटा होता है। SVGZ फाइलें पारदर्शिता, ग्रेडिएंट, एनिमेशन और फिल्टर का समर्थन करती हैं। एसवीजीजेड फाइलें डिफ़ॉल्ट एसवीजी फाइलों की तुलना में आकार में छोटी होती हैं और यह कम फाइल आकार ग्राफिक्स फाइलों को ऑनलाइन स्थानांतरित करने में मदद करता है। ग्राफिक्स डिजाइनर एडोब इलस्ट्रेटर, कोरल पेंटशॉप प्रो और अन्य जैसे टूल का उपयोग करके एसवीजीजेड फाइलें बनाते हैं। हालांकि, छवि डेटा भेजते समय अपाचे सर्वर में GZip संपीड़न को सक्षम करके एसवीजीजेड फाइलें उत्पन्न की जा सकती हैं।
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | PNG">}}
 पीएनजी, पोर्टेबल नेटवर्क ग्राफिक्स, एक प्रकार के रेखापुंज छवि फ़ाइल स्वरूप को संदर्भित करता है जो दोषरहित संपीड़न का उपयोग करता है। यह फ़ाइल स्वरूप ग्राफ़िक्स इंटरचेंज फ़ॉर्मेट (GIF) के प्रतिस्थापन के रूप में बनाया गया था और इसकी कोई कॉपीराइट सीमा नहीं है। हालाँकि, PNG फ़ाइल स्वरूप एनिमेशन का समर्थन नहीं करता है। पीएनजी फ़ाइल स्वरूप दोषरहित छवि संपीड़न का समर्थन करता है जो इसे अपने उपयोगकर्ताओं के बीच लोकप्रिय बनाता है। समय बीतने के साथ, पीएनजी ज्यादातर उपयोग की जाने वाली छवि फ़ाइल प्रारूप में से एक के रूप में विकसित हुआ है। लगभग सभी ऑपरेटिंग सिस्टम में पीएनजी फाइलें खोलने के लिए सपोर्ट होता है। उदाहरण के लिए, माइक्रोसॉफ्ट विंडोज व्यूअर में पीएनजी फाइलों को खोलने की क्षमता है क्योंकि ओएस के पास डिफ़ॉल्ट रूप से इंस्टॉलेशन के हिस्से के रूप में उपलब्ध समर्थन है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 

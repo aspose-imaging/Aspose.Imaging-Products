@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="GIF को JPG में बदलें - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="GIF को JPG में बदलने के लिए नि:शुल्‍क ऐप"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/GIF-to-JPG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="GIF को JPG में बदलें - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | GIF">}}
 जीआईएफ या ग्राफिकल इंटरचेंज फॉर्मेट एक प्रकार की अत्यधिक संकुचित छवि है। यूनिसिस के स्वामित्व में, GIF LZW कम्प्रेशन एल्गोरिथम का उपयोग करता है जो छवि गुणवत्ता को कम नहीं करता है। प्रत्येक छवि के लिए GIF आमतौर पर प्रति पिक्सेल 8 बिट तक और छवि में 256 रंगों तक की अनुमति देता है। एक जेपीईजी छवि के विपरीत, जो 16 मिलियन रंगों तक प्रदर्शित कर सकती है और मानव आंख की सीमाओं को काफी हद तक छूती है। वापस जब इंटरनेट उभरा, जीआईएफ सबसे अच्छा विकल्प बना रहा क्योंकि उन्हें कम बैंडविड्थ की आवश्यकता थी और ग्राफिक्स के लिए संगत जो रंग के ठोस क्षेत्रों का उपभोग करते थे। एक एनिमेटेड जीआईएफ कई छवियों या फ़्रेमों को एक फ़ाइल में जोड़ता है और एक एनिमेटेड क्लिप या एक लघु वीडियो बनाने के लिए उन्हें एक क्रम में प्रदर्शित करता है। प्रत्येक फ्रेम के लिए रंग सीमाएं 256 तक हैं और रंग ढाल के साथ अन्य छवियों और तस्वीरों को पुन: प्रस्तुत करने के लिए कम से कम उपयुक्त होने की संभावना है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | JPG">}}
 JPEG एक प्रकार का छवि प्रारूप है जिसे हानिपूर्ण संपीड़न की विधि का उपयोग करके सहेजा जाता है। संपीड़न के परिणामस्वरूप आउटपुट छवि, भंडारण आकार और छवि गुणवत्ता के बीच एक व्यापार-बंद है। उपयोगकर्ता वांछित गुणवत्ता स्तर प्राप्त करने के लिए संपीड़न स्तर को समायोजित कर सकते हैं जबकि साथ ही भंडारण आकार को कम कर सकते हैं। यदि छवि पर 10:1 संपीड़न लागू किया जाता है, तो छवि गुणवत्ता नगण्य रूप से प्रभावित होती है। संपीड़न मूल्य जितना अधिक होगा, छवि गुणवत्ता में गिरावट उतनी ही अधिक होगी।
         {{< /blocks/products/pf/agp/about-file-text >}}
 

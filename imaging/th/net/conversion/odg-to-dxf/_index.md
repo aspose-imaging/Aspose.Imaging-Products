@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="แปลง ODG เป็น DXF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="แอปฟรีเพื่อแปลง ODG เป็น DXF"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/ODG-to-DXF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="แปลง ODG เป็น DXF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | ODG">}}
 รูปแบบไฟล์ ODG ถูกใช้โดยแอปพลิเคชัน Draw ของ Apache OpenOffice เพื่อจัดเก็บองค์ประกอบการวาดเป็นภาพเวกเตอร์ เป็นไปตามข้อกำหนดรูปแบบไฟล์ XML ที่ร่างโดย Advancement of Structural Information Standards (OASIS) ODG แสดงภาพวาดเป็นภาพเวกเตอร์โดยใช้จุด เส้น และเส้นโค้ง นอกจาก OpenOffice แล้ว LibreOffice และแอปพลิเคชั่นอื่น ๆ ยังรองรับการทำงานกับรูปแบบไฟล์ ODG รูปแบบอื่นๆ ที่ OpenOffice รองรับ เช่น ODT, ODF, ODP และ ODS
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | DXF">}}
 DXF, Drawing Interchange Format หรือ Drawing Exchange Format คือการแสดงข้อมูลที่ติดแท็กของไฟล์รูปวาด AutoCAD แต่ละองค์ประกอบในไฟล์มีเลขจำนวนเต็มนำหน้าที่เรียกว่ารหัสกลุ่ม รหัสกลุ่มนี้จริง ๆ แล้วแสดงถึงองค์ประกอบที่ตามมาและระบุความหมายขององค์ประกอบข้อมูลสำหรับประเภทวัตถุที่กำหนด DXF ทำให้สามารถแสดงข้อมูลเกือบทั้งหมดที่ผู้ใช้ระบุในไฟล์รูปวาดได้
         {{< /blocks/products/pf/agp/about-file-text >}}
 

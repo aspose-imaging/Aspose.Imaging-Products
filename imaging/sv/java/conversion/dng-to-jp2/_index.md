@@ -75,16 +75,6 @@ Innan du kör koden för konverteringsexempel, se till att du har följande för
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertera DNG till JP2 - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Gratis app för att konvertera DNG till JP2"
         appName="Conversion"
@@ -96,13 +86,21 @@ Innan du kör koden för konverteringsexempel, se till att du har följande för
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DNG-to-JP2)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertera DNG till JP2 - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer | DNG">}}
 DNG är ett digitalkamerabildformat som används för lagring av råfiler. Den har utvecklats av Adobe i september 2004. Den utvecklades i princip för digital fotografering. DNG är en förlängning av TIFF/EP standardformat och använder metadata avsevärt. För att manipulera rådata från digitalkameror med enkel flexibilitet och konstnärlig kontroll väljer fotografer Camera Raw-filer. JPEG- och TIFF-format lagrar bilder som bearbetas av kameran, därför finns det inte mycket utrymme för ändringar i sådana format.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer | JP2">}}
 JPEG 2000 (JP2) är ett bildkodningssystem och en toppmodern bildkomprimeringsstandard. Designad, med hjälp av wavelet-teknik JPEG 2000 kan koda förlustfritt innehåll i vilken kvalitet som helst på en gång. Dessutom har JPEG 2000, utan några betydande straff i kodningseffektivitet, förmågan att komma åt och avkoda samma innehåll effektivt till en mängd andra upplösningar och kvaliteter. Kodströmmarna i JPEG 2000 är avsevärt skalbara med områden av intresse som tillhandahåller möjligheten för rumslig direktåtkomst. Innehar upp till 16384 olika komponenter med dimensionerna i terapixels, och precision som kan vara hög som 38 bitar/prov.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

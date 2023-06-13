@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="JPEG2000 को GIF में बदलें - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="JPEG2000 को GIF में बदलने के लिए नि:शुल्‍क ऐप"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/JPEG2000-to-GIF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="JPEG2000 को GIF में बदलें - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | JPEG2000">}}
 JPEG 2000 (JP2) एक छवि कोडिंग प्रणाली और अत्याधुनिक छवि संपीड़न मानक है। वेवलेट तकनीक का उपयोग करके डिज़ाइन किया गया JPEG 2000 दोषरहित सामग्री को किसी भी गुणवत्ता में एक ही बार में कोडित कर सकता है। इसके अलावा, कोडिंग दक्षता में किसी भी पर्याप्त दंड के बिना, जेपीईजी 2000 में एक ही सामग्री को विभिन्न अन्य प्रस्तावों और गुणों में प्रभावशाली ढंग से एक्सेस और डीकोड करने की क्षमता है। JPEG 2000 में कोड स्ट्रीम काफी स्केलेबल है जिसमें रुचि के क्षेत्र हैं जो स्थानिक यादृच्छिक अभिगम की सुविधा प्रदान करते हैं। टेरापिक्सल में आयामों के साथ 16384 विविध घटकों तक, और सटीकता जो 38 बिट्स/नमूना के रूप में उच्च हो सकती है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | GIF">}}
 जीआईएफ या ग्राफिकल इंटरचेंज फॉर्मेट एक प्रकार की अत्यधिक संकुचित छवि है। यूनिसिस के स्वामित्व में, GIF LZW कम्प्रेशन एल्गोरिथम का उपयोग करता है जो छवि गुणवत्ता को कम नहीं करता है। प्रत्येक छवि के लिए GIF आमतौर पर प्रति पिक्सेल 8 बिट तक और छवि में 256 रंगों तक की अनुमति देता है। एक जेपीईजी छवि के विपरीत, जो 16 मिलियन रंगों तक प्रदर्शित कर सकती है और मानव आंख की सीमाओं को काफी हद तक छूती है। वापस जब इंटरनेट उभरा, जीआईएफ सबसे अच्छा विकल्प बना रहा क्योंकि उन्हें कम बैंडविड्थ की आवश्यकता थी और ग्राफिक्स के लिए संगत जो रंग के ठोस क्षेत्रों का उपभोग करते थे। एक एनिमेटेड जीआईएफ कई छवियों या फ़्रेमों को एक फ़ाइल में जोड़ता है और एक एनिमेटेड क्लिप या एक लघु वीडियो बनाने के लिए उन्हें एक क्रम में प्रदर्शित करता है। प्रत्येक फ्रेम के लिए रंग सीमाएं 256 तक हैं और रंग ढाल के साथ अन्य छवियों और तस्वीरों को पुन: प्रस्तुत करने के लिए कम से कम उपयुक्त होने की संभावना है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 

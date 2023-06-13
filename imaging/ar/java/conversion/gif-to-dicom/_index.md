@@ -75,16 +75,6 @@ description: نموذج رمز لـ GIF إلى DICOM تحويل Java. استخد
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="تحويل GIF إلى DICOM - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="تطبيق مجاني لتحويل GIF إلى DICOM"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: نموذج رمز لـ GIF إلى DICOM تحويل Java. استخد
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/GIF-to-DICOM)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="تحويل GIF إلى DICOM - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | GIF">}}
 تنسيق GIF أو تنسيق التبادل الرسومي هو نوع من الصور المضغوطة بشدة. يستخدم GIF ، المملوك من قبل Unisys ، خوارزمية ضغط LZW التي لا تقلل من جودة الصورة. لكل صورة ، يسمح GIF عادةً بما يصل إلى 8 بت لكل بكسل وما يصل إلى 256 لونًا مسموح به عبر الصورة. على عكس صورة JPEG ، التي يمكنها عرض ما يصل إلى 16 مليون لون وتلامس إلى حد ما حدود العين البشرية. عندما ظهر الإنترنت ، ظلت ملفات GIF هي الخيار الأفضل لأنها تتطلب نطاقًا تردديًا منخفضًا ومتوافقة مع الرسومات التي تستهلك مناطق صلبة من الألوان. تجمع صورة GIF المتحركة العديد من الصور أو الإطارات في ملف واحد وتعرضها في تسلسل لإنشاء مقطع متحرك أو مقطع فيديو قصير. تصل حدود اللون إلى 256 لكل إطار ومن المحتمل أن تكون الأقل ملاءمة لإعادة إنتاج الصور والصور الفوتوغرافية الأخرى ذات التدرج اللوني.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | DICOM">}}
 DICOM هو اختصار للتصوير الرقمي والاتصالات في الطب ويتعلق بمجال المعلوماتية الطبية. DICOM هو مزيج من تعريف تنسيق الملف وبروتوكول اتصالات الشبكة. يستخدم DICOM الملحق .DCM. يوجد DCM بتنسيقين مختلفين ، أي الشكل 1.x والصيغة 2.x. يتوفر تنسيق DCM 1.x أيضًا في نسختين عاديتين وممتدتين. يستخدم DICOM لدمج أجهزة التصوير الطبي مثل الطابعات والخوادم والماسحات الضوئية وغيرها من البائعين المختلفين ويحتوي أيضًا على بيانات تعريف لكل مريض من أجل التفرد. يمكن مشاركة ملفات DICOM بين طرفين إذا كانا قادرين على استقبال بيانات الصورة بتنسيق DICOM. جزء الاتصال في DICOM هو بروتوكول طبقة التطبيق ويستخدم TCP / IP للتواصل بين الكيانات. يتم استخدام بروتوكولات HTTP و HTTPS لخدمات الويب الخاصة بـ DICOM. الإصدارات التي تدعمها خدمات الويب هي 1.0 أو 1.1 أو 2 أو أحدث.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

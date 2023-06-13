@@ -75,16 +75,6 @@ description: نموذج رمز لـ JPEG2000 إلى EMZ تحويل Java. است�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="تحويل JPEG2000 إلى EMZ - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="تطبيق مجاني لتحويل JPEG2000 إلى EMZ"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: نموذج رمز لـ JPEG2000 إلى EMZ تحويل Java. است�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/JPEG2000-to-EMZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="تحويل JPEG2000 إلى EMZ - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | JPEG2000">}}
 JPEG 2000 (JP2) هو نظام ترميز للصور وأحدث معايير ضغط الصور. تم تصميمه باستخدام تقنية wavelet ويمكن لـ JPEG 2000 ترميز المحتوى غير المفقود بأي جودة في وقت واحد. علاوة على ذلك ، بدون أي عقوبة كبيرة في كفاءة التشفير ، فإن JPEG 2000 لديها القدرة على الوصول وفك تشفير نفس المحتوى بشكل فعال إلى مجموعة متنوعة من القرارات والصفات الأخرى. تدفقات الشفرة في JPEG 2000 قابلة للتطوير بشكل كبير ولها مناطق اهتمام توفر تسهيلات للوصول العشوائي المكاني. امتلاك ما يصل إلى 16384 مكونًا متنوعًا بأبعاد تيرابكسل ودقة يمكن أن تصل إلى 38 بت / عينة.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | EMZ">}}
 الملف بامتداد ملف EMZ هو ملف صورة مضغوط ، يشار إليه بشكل أكثر تحديدًا باسم ملف Windows Compressed Enhanced Metafile
         {{< /blocks/products/pf/agp/about-file-text >}}
 

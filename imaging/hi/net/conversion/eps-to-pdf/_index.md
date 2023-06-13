@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="EPS को PDF में बदलें - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="EPS को PDF में बदलने के लिए नि:शुल्‍क ऐप"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/EPS-to-PDF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="EPS को PDF में बदलें - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | EPS">}}
 ईपीएस एक्सटेंशन वाली फाइलें अनिवार्य रूप से एक एनकैप्सुलेटेड पोस्टस्क्रिप्ट भाषा प्रोग्राम का वर्णन करती हैं जो एक पृष्ठ की उपस्थिति का वर्णन करती है। नाम "एनकैप्सुलेटेड" क्योंकि इसे किसी अन्य पोस्टस्क्रिप्ट भाषा पृष्ठ विवरण में शामिल या इनकैप्सुलेट किया जा सकता है। इस स्क्रिप्ट आधारित फ़ाइल स्वरूप में टेक्स्ट, ग्राफिक्स और छवियों का कोई भी संयोजन हो सकता है। ईपीएस फाइलों में एक बिटमैप पूर्वावलोकन छवि शामिल हो सकती है जो ऐसी फाइलों को खोलने वाले अनुप्रयोगों द्वारा प्रदर्शित करने के लिए अंदर समझाया गया है। ईपीएस फाइलों को विभिन्न अनुप्रयोगों का उपयोग करके मानक छवि प्रारूपों जैसे जेपीजी, पीएनजी, टीआईएफएफ और पीडीएफ में परिवर्तित किया जा सकता है। एडोब इलस्ट्रेटर, फोटोशॉप और पेंटशॉप प्रो। EPS फ़ाइलों में सुरक्षा भेद्यता के कारण, Office 2016, Office 2013, Office 2010 और Office 365 ने EPS फ़ाइलों को Office दस्तावेज़ों में सम्मिलित करने की क्षमता को बंद कर दिया है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | PDF">}}
 पोर्टेबल डॉक्यूमेंट फॉर्मेट (पीडीएफ) 1990 के दशक में एडोब द्वारा बनाया गया एक प्रकार का दस्तावेज है। इस फाइल फॉर्मेट का उद्देश्य दस्तावेजों और अन्य संदर्भ सामग्री के प्रतिनिधित्व के लिए एक मानक को एक प्रारूप में पेश करना था जो एप्लिकेशन सॉफ्टवेयर, हार्डवेयर और साथ ही ऑपरेटिंग सिस्टम से स्वतंत्र हो। पीडीएफ फाइल फॉर्मेट में टेक्स्ट, इमेज, हाइपरलिंक्स, फॉर्म-फील्ड्स, रिच मीडिया, डिजिटल सिग्नेचर, अटैचमेंट, मेटाडेटा, जियोस्पेशियल फीचर्स और 3 डी ऑब्जेक्ट जैसी जानकारी शामिल करने की पूरी क्षमता है जो सोर्स डॉक्यूमेंट के हिस्से के रूप में बन सकती हैं।
         {{< /blocks/products/pf/agp/about-file-text >}}
 

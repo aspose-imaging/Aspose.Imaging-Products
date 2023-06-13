@@ -75,16 +75,6 @@ GIF को DICOM में बदलने के लिए, हम उपयो
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="GIF को DICOM में बदलें - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="GIF को DICOM में बदलने के लिए नि:शुल्‍क ऐप"
         appName="Conversion"
@@ -96,13 +86,21 @@ GIF को DICOM में बदलने के लिए, हम उपयो
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/GIF-to-DICOM)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="GIF को DICOM में बदलें - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | GIF">}}
 जीआईएफ या ग्राफिकल इंटरचेंज फॉर्मेट एक प्रकार की अत्यधिक संकुचित छवि है। यूनिसिस के स्वामित्व में, GIF LZW कम्प्रेशन एल्गोरिथम का उपयोग करता है जो छवि गुणवत्ता को कम नहीं करता है। प्रत्येक छवि के लिए GIF आमतौर पर प्रति पिक्सेल 8 बिट तक और छवि में 256 रंगों तक की अनुमति देता है। एक जेपीईजी छवि के विपरीत, जो 16 मिलियन रंगों तक प्रदर्शित कर सकती है और मानव आंख की सीमाओं को काफी हद तक छूती है। वापस जब इंटरनेट उभरा, जीआईएफ सबसे अच्छा विकल्प बना रहा क्योंकि उन्हें कम बैंडविड्थ की आवश्यकता थी और ग्राफिक्स के लिए संगत जो रंग के ठोस क्षेत्रों का उपभोग करते थे। एक एनिमेटेड जीआईएफ कई छवियों या फ़्रेमों को एक फ़ाइल में जोड़ता है और एक एनिमेटेड क्लिप या एक लघु वीडियो बनाने के लिए उन्हें एक क्रम में प्रदर्शित करता है। प्रत्येक फ्रेम के लिए रंग सीमाएं 256 तक हैं और रंग ढाल के साथ अन्य छवियों और तस्वीरों को पुन: प्रस्तुत करने के लिए कम से कम उपयुक्त होने की संभावना है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | DICOM">}}
 DICOM चिकित्सा में डिजिटल इमेजिंग और संचार के लिए संक्षिप्त है और चिकित्सा सूचना विज्ञान के क्षेत्र से संबंधित है। DICOM फ़ाइल स्वरूप परिभाषा और एक नेटवर्क संचार प्रोटोकॉल का संयोजन है। DICOM .DCM एक्सटेंशन का उपयोग करता है। .DCM दो अलग-अलग स्वरूपों में मौजूद है अर्थात स्वरूप 1.x और स्वरूप 2.x। DCM प्रारूप 1.x आगे सामान्य और विस्तारित दो संस्करणों में उपलब्ध है। DICOM का उपयोग विभिन्न विक्रेताओं से चिकित्सा इमेजिंग उपकरणों जैसे प्रिंटर, सर्वर, स्कैनर आदि के एकीकरण के लिए किया जाता है और इसमें विशिष्टता के लिए प्रत्येक रोगी का पहचान डेटा भी होता है। DICOM फ़ाइलें दो पक्षों के बीच साझा की जा सकती हैं यदि वे DICOM प्रारूप में छवि डेटा प्राप्त करने में सक्षम हैं। DICOM का संचार भाग अनुप्रयोग परत प्रोटोकॉल है और संस्थाओं के बीच संचार के लिए TCP/IP का उपयोग करता है। DICOM की वेब सेवाओं के लिए HTTP और HTTPS प्रोटोकॉल का उपयोग किया जाता है। वेब सेवाओं द्वारा समर्थित संस्करण 1.0, 1.1, 2 या बाद के संस्करण हैं।
         {{< /blocks/products/pf/agp/about-file-text >}}
 

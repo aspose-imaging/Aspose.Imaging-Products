@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="DJVU को EMF में बदलें - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="DJVU को EMF में बदलने के लिए नि:शुल्‍क ऐप"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DJVU-to-EMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="DJVU को EMF में बदलें - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | DJVU">}}
 DjVu, जिसे DJVU के रूप में उच्चारित किया जाता है, एक ग्राफिक्स फ़ाइल स्वरूप है जो स्कैन किए गए दस्तावेज़ों और पुस्तकों के लिए अभिप्रेत है, विशेष रूप से वे जिनमें पाठ, चित्र, चित्र और तस्वीरों का संयोजन होता है। इसे एटी एंड टी लैब्स द्वारा विकसित किया गया था। यह पाठ और पृष्ठभूमि छवियों की छवि परत पृथक्करण, प्रगतिशील लोडिंग, अंकगणितीय कोडिंग और बिटोनल छवियों के लिए हानिपूर्ण संपीड़न जैसी कई तकनीकों का उपयोग करता है। चूंकि डीजेवीयू फाइल में कंप्रेस्ड अभी तक उच्च गुणवत्ता वाली रंगीन छवियां, फोटोग्राफ, टेक्स्ट और ड्रॉइंग हो सकती हैं और इसे कम जगह में सहेजा जा सकता है, इसलिए इसका उपयोग वेब पर ईबुक, मैनुअल, समाचार पत्र, प्राचीन दस्तावेज आदि के रूप में किया जाता है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | EMF">}}
 एन्हांस्ड मेटाफाइल फॉर्मेट (EMF) ग्राफिकल इमेज को डिवाइस-स्वतंत्र रूप से स्टोर करता है। ईएमएफ के मेटाफाइल में कालानुक्रमिक क्रम में चर-लंबाई के रिकॉर्ड शामिल होते हैं जो किसी भी आउटपुट डिवाइस पर पार्स करने के बाद संग्रहीत छवि को प्रस्तुत कर सकते हैं। ये चर-लंबाई के रिकॉर्ड संलग्न वस्तुओं की परिभाषा, ड्राइंग के लिए कमांड और छवि को सटीक रूप से प्रस्तुत करने के लिए महत्वपूर्ण ग्राफिक्स गुण हो सकते हैं। जब कोई उपकरण अपने स्वयं के ग्राफिक्स वातावरण का उपयोग करके एक EMF मेटाफ़ाइल खोलता है, तो मूल छवि के अनुपात, आयाम, रंग और अन्य ग्राफिक गुण समान रहते हैं, भले ही शुरुआती डिवाइस प्लेटफ़ॉर्म कुछ भी हो।
         {{< /blocks/products/pf/agp/about-file-text >}}
 

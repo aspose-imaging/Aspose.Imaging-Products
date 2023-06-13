@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="DICOM को PSD में बदलें - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="DICOM को PSD में बदलने के लिए नि:शुल्‍क ऐप"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DICOM-to-PSD)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="DICOM को PSD में बदलें - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | DICOM">}}
 DICOM चिकित्सा में डिजिटल इमेजिंग और संचार के लिए संक्षिप्त है और चिकित्सा सूचना विज्ञान के क्षेत्र से संबंधित है। DICOM फ़ाइल स्वरूप परिभाषा और एक नेटवर्क संचार प्रोटोकॉल का संयोजन है। DICOM .DCM एक्सटेंशन का उपयोग करता है। .DCM दो अलग-अलग स्वरूपों में मौजूद है अर्थात स्वरूप 1.x और स्वरूप 2.x। DCM प्रारूप 1.x आगे सामान्य और विस्तारित दो संस्करणों में उपलब्ध है। DICOM का उपयोग विभिन्न विक्रेताओं से चिकित्सा इमेजिंग उपकरणों जैसे प्रिंटर, सर्वर, स्कैनर आदि के एकीकरण के लिए किया जाता है और इसमें विशिष्टता के लिए प्रत्येक रोगी का पहचान डेटा भी होता है। DICOM फ़ाइलें दो पक्षों के बीच साझा की जा सकती हैं यदि वे DICOM प्रारूप में छवि डेटा प्राप्त करने में सक्षम हैं। DICOM का संचार भाग अनुप्रयोग परत प्रोटोकॉल है और संस्थाओं के बीच संचार के लिए TCP/IP का उपयोग करता है। DICOM की वेब सेवाओं के लिए HTTP और HTTPS प्रोटोकॉल का उपयोग किया जाता है। वेब सेवाओं द्वारा समर्थित संस्करण 1.0, 1.1, 2 या बाद के संस्करण हैं।
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | PSD">}}
 PSD, Photoshop Document, Adobe Photoshop के मूल फ़ाइल स्वरूप का प्रतिनिधित्व करता है जिसका उपयोग ग्राफिक्स डिजाइनिंग और विकास के लिए किया जाता है। PSD फ़ाइलों में छवि परतें, समायोजन परतें, परत मास्क, एनोटेशन, फ़ाइल जानकारी, कीवर्ड और अन्य फ़ोटोशॉप-विशिष्ट तत्व शामिल हो सकते हैं।
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -75,16 +75,6 @@ CMX को WMZ में बदलने के लिए, हम उपयो�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="CMX को WMZ में बदलें - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="CMX को WMZ में बदलने के लिए नि:शुल्‍क ऐप"
         appName="Conversion"
@@ -96,13 +86,21 @@ CMX को WMZ में बदलने के लिए, हम उपयो�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/CMX-to-WMZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="CMX को WMZ में बदलें - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | CMX">}}
 CMX एक्सटेंशन वाली फ़ाइलें Corel Exchange छवि फ़ाइल स्वरूप हैं जिनका उपयोग CorelSuite अनुप्रयोगों द्वारा प्रस्तुतिकरण के रूप में किया जाता है। इसमें छवि डेटा वेक्टर ग्राफिक्स के साथ-साथ मेटाडेटा भी शामिल है जो छवि का वर्णन करता है। CMX फाइलें CorelDraw, Corel प्रस्तुतियों, पेंट शॉप प्रो और Adobe Illustrator के कुछ संस्करणों द्वारा खोली जा सकती हैं।
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | WMZ">}}
 WMZ विंडोज मीडिया प्लेयर में/के लिए/इस्तेमाल किए जाने वाले स्किन फाइल फॉर्मेट के लिए एक फाइल एक्सटेंशन है। WMZ फ़ाइल मूल रूप से XML में ज़िप की गई WMF फ़ाइल है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 

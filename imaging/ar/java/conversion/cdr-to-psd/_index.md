@@ -75,16 +75,6 @@ description: نموذج رمز لـ CDR إلى PSD تحويل Java. استخدم
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="تحويل CDR إلى PSD - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="تطبيق مجاني لتحويل CDR إلى PSD"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: نموذج رمز لـ CDR إلى PSD تحويل Java. استخدم
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/CDR-to-PSD)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="تحويل CDR إلى PSD - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | CDR">}}
 ملف CDR هو ملف صورة رسم متجه تم إنشاؤه أصلاً باستخدام CorelDRAW لتخزين الصورة الرقمية المشفرة والمضغوطة. يحتوي ملف الرسم هذا على نص وخطوط وأشكال وصور وألوان وتأثيرات للتمثيل المتجه لمحتويات الصورة. يمكن فتح ملفات CDR باستخدام CorelDRAW باعتباره التطبيق الأساسي ويمكن أيضًا تحويلها إلى تنسيقات أخرى مثل PDF و JPG و PNG و BMP و AI. يمكن استخدامه لتمثيل بيانات الرسومات المختلفة مثل الكتيبات والصحف والمغلفات والبطاقات البريدية. إلى جانب CorelDRAW ، يمكن لمنتجات Corel الأخرى مثل Corel Paintshop Pro ومجموعة CorelDRAW Graphics أيضًا فتح تنسيقات ملفات CDR.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | PSD">}}
 يمثل PSD ، Photoshop Document ، تنسيق ملف Adobe Photoshop الأصلي المستخدم لتصميم الرسومات وتطويرها. قد تتضمن ملفات PSD طبقات الصورة وطبقات الضبط وأقنعة الطبقة والتعليقات التوضيحية ومعلومات الملف والكلمات الأساسية والعناصر الأخرى الخاصة بـ Photoshop.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

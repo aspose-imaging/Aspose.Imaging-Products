@@ -75,16 +75,6 @@ description: Зразок коду для перетворення WMZ у DXF Ja
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити WMZ на DXF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення WMZ у DXF"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Зразок коду для перетворення WMZ у DXF Ja
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/WMZ-to-DXF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити WMZ на DXF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | WMZ">}}
 WMZ — це розширення файлу для формату файлу оболонки, який/для/використовується медіапрогравачем Windows. WMZ-файл – це в основному заархівований файл WMF у форматі XML.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | DXF">}}
 DXF, формат обміну кресленнями або формат обміну кресленнями, — це теговане представлення даних файлу креслення AutoCAD. Кожен елемент у файлі має префіксне ціле число, яке називається кодом групи. Цей груповий код фактично представляє наступний елемент і вказує на значення елемента даних для певного типу об’єкта. DXF дає змогу представити майже всю інформацію, визначену користувачем, у файлі креслення.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

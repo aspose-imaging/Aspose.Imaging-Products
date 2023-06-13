@@ -75,16 +75,6 @@ Innan du kör koden för konverteringsexempel, se till att du har följande för
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertera SVGZ till ICO - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Gratis app för att konvertera SVGZ till ICO"
         appName="Conversion"
@@ -96,13 +86,21 @@ Innan du kör koden för konverteringsexempel, se till att du har följande för
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/SVGZ-to-ICO)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertera SVGZ till ICO - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer | SVGZ">}}
 En fil med filtillägget .svgz är en komprimerad version av filen Scalable Vector Graphics (.SVG). Den är komprimerad med gzip-komprimering och innehåller data i XML-format. SVGZ-filer stöder transparens, gradienter, animationer och filter. SVGZ-filer är mindre i storlek jämfört med standard SVG-filer och denna reducerade filstorlek hjälper till att överföra grafikfilerna online. Grafikdesigner skapar SVGZ-filer med hjälp av verktyg som Adobe Illustrator, Corel PaintShop Pro och andra. SVGZ-filer kan dock genereras genom att aktivera GZip-komprimering i Apache-servern medan bilddata skickas ut.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer | ICO">}}
 ICO-filformatet är ett bildfilformat för datorikoner i Microsoft Windows. ICO-filer innehåller en eller flera små bilder i flera storlekar och färgdjup, så att de kan skalas på lämpligt sätt. I Windows måste alla körbara filer som visar en ikon för användaren, på skrivbordet, i Start-menyn eller i Utforskaren i Windows, bära ikonen i ICO-format.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

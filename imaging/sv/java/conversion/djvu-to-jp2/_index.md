@@ -75,16 +75,6 @@ Innan du kör koden för konverteringsexempel, se till att du har följande för
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertera DJVU till JP2 - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Gratis app för att konvertera DJVU till JP2"
         appName="Conversion"
@@ -96,13 +86,21 @@ Innan du kör koden för konverteringsexempel, se till att du har följande för
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DJVU-to-JP2)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertera DJVU till JP2 - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer | DJVU">}}
 DjVu, uttalas som DJVU, är ett grafikfilformat avsett för skannade dokument och böcker, särskilt de som innehåller en kombination av text, teckningar, bilder och fotografier. Det utvecklades av AT&T Labs. Den använder flera tekniker som bildlagerseparering av text och bakgrundsbilder, progressiv laddning, aritmetisk kodning och förlustkomprimering för bitonala bilder. Eftersom DJVU-filen kan innehålla komprimerade men ändå högkvalitativa färgbilder, fotografier, text och teckningar och kan sparas på mindre utrymme, används den på webben som e-böcker, manualer, tidningar, gamla dokument, etc.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer | JP2">}}
 JPEG 2000 (JP2) är ett bildkodningssystem och en toppmodern bildkomprimeringsstandard. Designad, med hjälp av wavelet-teknik JPEG 2000 kan koda förlustfritt innehåll i vilken kvalitet som helst på en gång. Dessutom har JPEG 2000, utan några betydande straff i kodningseffektivitet, förmågan att komma åt och avkoda samma innehåll effektivt till en mängd andra upplösningar och kvaliteter. Kodströmmarna i JPEG 2000 är avsevärt skalbara med områden av intresse som tillhandahåller möjligheten för rumslig direktåtkomst. Innehar upp till 16384 olika komponenter med dimensionerna i terapixels, och precision som kan vara hög som 38 bitar/prov.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

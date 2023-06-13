@@ -61,16 +61,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="تحويل DIB إلى JP2 - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="تطبيق مجاني لتحويل DIB إلى JP2"
         appName="Conversion"
@@ -82,13 +72,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DIB-to-JP2)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="تحويل DIB إلى JP2 - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | DIB">}}
 ملف DIB (صورة نقطية مستقلة عن الجهاز) هو ملف صورة نقطية مشابه في هيكله لملفات الصور النقطية القياسية (BMP) ولكن له رأس مختلف. يمكن فتحه مع جميع التطبيقات تقريبًا التي يمكنها فتح ملف BMP قياسي على نظام Windows بالإضافة إلى macOS. DIB هي ملفات ثنائية ولها تنسيق ملف معقد مشابه لـ BMP.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | JP2">}}
 JPEG 2000 (JP2) هو نظام ترميز للصور وأحدث معايير ضغط الصور. تم تصميمه باستخدام تقنية wavelet ويمكن لـ JPEG 2000 ترميز المحتوى غير المفقود بأي جودة في وقت واحد. علاوة على ذلك ، بدون أي عقوبة كبيرة في كفاءة التشفير ، فإن JPEG 2000 لديها القدرة على الوصول وفك تشفير نفس المحتوى بشكل فعال إلى مجموعة متنوعة من القرارات والصفات الأخرى. تدفقات الشفرة في JPEG 2000 قابلة للتطوير بشكل كبير ولها مناطق اهتمام توفر تسهيلات للوصول العشوائي المكاني. امتلاك ما يصل إلى 16384 مكونًا متنوعًا بأبعاد تيرابكسل ودقة يمكن أن تصل إلى 38 بت / عينة.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

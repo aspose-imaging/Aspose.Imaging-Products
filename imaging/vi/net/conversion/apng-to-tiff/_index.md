@@ -62,16 +62,6 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Chuyển đổi APNG thành TIFF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Ứng dụng miễn phí để chuyển đổi APNG thành TIFF"
         appName="Conversion"
@@ -83,13 +73,21 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/vi/conversion/APNG-to-TIFF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Chuyển đổi APNG thành TIFF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm | APNG">}}
 Tệp có phần mở rộng .apng (Animated Portable Network Graphics) là định dạng đồ họa raster và là phần mở rộng không chính thức của Đồ họa Mạng Di động (PNG). Nó bao gồm nhiều khung hình (mỗi hình ảnh PNG) đại diện cho một chuỗi hoạt ảnh. Điều này mang lại hình ảnh tương tự như một tệp GIF. Các tệp APNG hỗ trợ hình ảnh 24 bit và độ trong suốt 8 bit. APNG tương thích ngược với các tệp GIF không động. Các tệp APNG sử dụng cùng một phần mở rộng .png và có thể được mở bằng các ứng dụng như Mozilla Firefox, Chrome có hỗ trợ APNG, ứng dụng iMessage dành cho iOS 10.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm | TIFF">}}
 TIFF hoặc TIF, Định dạng tệp hình ảnh được gắn thẻ, đại diện cho hình ảnh raster được sử dụng trên nhiều thiết bị tuân thủ tiêu chuẩn định dạng tệp này. Nó có khả năng mô tả dữ liệu hình ảnh mức độ mật, thang độ xám, bảng màu và dữ liệu hình ảnh đầy đủ màu sắc trong một số không gian màu. Nó hỗ trợ các lược đồ nén mất dữ liệu cũng như không mất dữ liệu để lựa chọn giữa không gian và thời gian cho các ứng dụng sử dụng định dạng. Định dạng này có thể mở rộng và đã trải qua một số sửa đổi cho phép đưa vào một lượng thông tin cá nhân hoặc mục đích đặc biệt không giới hạn. Định dạng không phụ thuộc vào máy và không bị giới hạn như bộ xử lý, hệ điều hành hoặc hệ thống tệp.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

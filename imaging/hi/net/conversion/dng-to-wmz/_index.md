@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="DNG को WMZ में बदलें - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="DNG को WMZ में बदलने के लिए नि:शुल्‍क ऐप"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DNG-to-WMZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="DNG को WMZ में बदलें - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | DNG">}}
 डीएनजी एक डिजिटल कैमरा छवि प्रारूप है जिसका उपयोग कच्ची फाइलों के भंडारण के लिए किया जाता है। इसे सितंबर 2004 में Adobe द्वारा विकसित किया गया है। इसे मूल रूप से डिजिटल फोटोग्राफी के लिए विकसित किया गया था। डीएनजी टीआईएफएफ/ईपी मानक प्रारूप का विस्तार है और मेटाडेटा का महत्वपूर्ण रूप से उपयोग करता है। लचीलेपन और कलात्मक नियंत्रण में आसानी के साथ डिजिटल कैमरों से कच्चे डेटा में हेरफेर करने के लिए, फोटोग्राफर कैमरा कच्ची फाइलों को चुनते हैं। जेपीईजी और टीआईएफएफ प्रारूप उन छवियों को संग्रहीत करते हैं जो कैमरे द्वारा संसाधित की जाती हैं, इसलिए ऐसे प्रारूपों में परिवर्तन के लिए ज्यादा जगह उपलब्ध नहीं है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | WMZ">}}
 WMZ विंडोज मीडिया प्लेयर में/के लिए/इस्तेमाल किए जाने वाले स्किन फाइल फॉर्मेट के लिए एक फाइल एक्सटेंशन है। WMZ फ़ाइल मूल रूप से XML में ज़िप की गई WMF फ़ाइल है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 

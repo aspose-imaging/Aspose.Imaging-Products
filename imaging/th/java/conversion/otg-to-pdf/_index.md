@@ -75,16 +75,6 @@ description: โค้ดตัวอย่างสำหรับการแ�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="แปลง OTG เป็น PDF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="แอปฟรีเพื่อแปลง OTG เป็น PDF"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: โค้ดตัวอย่างสำหรับการแ�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/OTG-to-PDF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="แปลง OTG เป็น PDF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | OTG">}}
 ไฟล์ OTG เป็นเทมเพลตการวาดที่สร้างขึ้นโดยใช้มาตรฐาน OpenDocument ที่เป็นไปตามข้อกำหนด OASIS Office Applications 1.0 มันแสดงถึงองค์กรเริ่มต้นขององค์ประกอบการวาดภาพสำหรับภาพเวกเตอร์ที่สามารถใช้เพื่อปรับปรุงเนื้อหาของไฟล์เพิ่มเติม
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | PDF">}}
 Portable Document Format (PDF) เป็นเอกสารประเภทหนึ่งที่ Adobe สร้างขึ้นในปี 1990 จุดประสงค์ของรูปแบบไฟล์นี้คือการแนะนำมาตรฐานสำหรับการนำเสนอเอกสารและเอกสารอ้างอิงอื่นๆ ในรูปแบบที่ไม่ขึ้นอยู่กับแอพพลิเคชั่นซอฟต์แวร์ ฮาร์ดแวร์ และระบบปฏิบัติการ รูปแบบไฟล์ PDF มีความสามารถเต็มรูปแบบในการใส่ข้อมูล เช่น ข้อความ รูปภาพ ไฮเปอร์ลิงก์ ฟิลด์แบบฟอร์ม สื่อสมบูรณ์ ลายเซ็นดิจิทัล ไฟล์แนบ ข้อมูลเมตา คุณลักษณะเชิงพื้นที่ และวัตถุ 3 มิติในไฟล์ ซึ่งสามารถเป็นส่วนหนึ่งของเอกสารต้นทางได้
         {{< /blocks/products/pf/agp/about-file-text >}}
 

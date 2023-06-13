@@ -75,16 +75,6 @@ description: קוד לדוגמה עבור המרת Java מ-EMF ל-GIF. השתמ�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="המר את EMF ל-GIF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="אפליקציה חינמית להמרת EMF ל-GIF"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: קוד לדוגמה עבור המרת Java מ-EMF ל-GIF. השתמ�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/EMF-to-GIF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="המר את EMF ל-GIF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | EMF">}}
 פורמט מטא-קובץ משופר (EMF) מאחסן תמונות גרפיות באופן עצמאי. Metafiles של EMF מורכבים מרשומות באורך משתנה לפי סדר כרונולוגי שיכולים לעבד את התמונה המאוחסנת לאחר ניתוח בכל התקן פלט. רשומות אלה באורך משתנה יכולות להיות הגדרות של אובייקטים סגורים, פקודות לציור ומאפיינים גרפיים קריטיים לעיבוד התמונה במדויק. כאשר מכשיר פותח מטא-קובץ EMF באמצעות סביבת גרפיקה משלו, הפרופורציות, הממדים, הצבעים ושאר המאפיינים הגרפיים של התמונה המקורית נשארים זהים ללא קשר לפלטפורמת המכשיר הנפתח.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | GIF">}}
 GIF או Graphical Interchange Format הוא סוג של תמונה דחוסה מאוד. בבעלות Unisys, GIF משתמש באלגוריתם הדחיסה LZW שאינו פוגע באיכות התמונה. עבור כל תמונה GIF בדרך כלל מאפשר עד 8 סיביות לפיקסל ועד 256 צבעים מותרים על פני התמונה. בניגוד לתמונת JPEG, שיכולה להציג עד 16 מיליון צבעים ונוגעת למדי בגבולות העין האנושית. כשהאינטרנט הופיע, קובצי GIF נותרו הבחירה הטובה ביותר מכיוון שהם דרשו רוחב פס נמוך ותואם לגרפיקה שצורכת אזורי צבע מוצקים. GIF מונפש משלב מספר רב של תמונות או פריימים לקובץ אחד ומציג אותם ברצף ליצירת קליפ מונפש או סרטון וידאו קצר. מגבלות הצבע הן עד 256 עבור כל פריים וסביר להניח שהן יהיו הפחות מתאימות לשחזור תמונות ותצלומים אחרים עם מעבר צבע.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
