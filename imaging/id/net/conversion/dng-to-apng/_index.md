@@ -62,16 +62,6 @@ Sebelum menjalankan kode contoh konversi, pastikan Anda memiliki prasyarat berik
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konversi DNG ke APNG - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Aplikasi Gratis untuk Mengonversi DNG ke APNG"
         appName="Conversion"
@@ -83,13 +73,21 @@ Sebelum menjalankan kode contoh konversi, pastikan Anda memiliki prasyarat berik
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/id/conversion/DNG-to-APNG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konversi DNG ke APNG - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya | DNG">}}
 DNG adalah format gambar kamera digital yang digunakan untuk penyimpanan file mentah. Ini telah dikembangkan oleh Adobe pada bulan September 2004. Ini pada dasarnya dikembangkan untuk fotografi digital. DNG adalah perpanjangan dari format standar TIFF/EP dan menggunakan metadata secara signifikan. Untuk memanipulasi data mentah dari kamera digital dengan fleksibilitas dan kontrol artistik yang mudah, fotografer memilih file mentah kamera. Format JPEG dan TIFF menyimpan gambar yang diproses oleh kamera, oleh karena itu tidak banyak ruang untuk perubahan yang tersedia dalam format tersebut.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya | APNG">}}
 File dengan ekstensi .apng (Animated Portable Network Graphics) adalah format grafik raster dan merupakan ekstensi tidak resmi untuk Portable Network Graphic (PNG ). Ini terdiri dari beberapa frame (masing-masing gambar PNG) yang mewakili urutan animasi. Ini memberikan visualisasi yang mirip dengan file GIF. File APNG mendukung gambar 24-bit dan transparansi 8-bit. APNG kompatibel dengan file GIF non-animasi. File APNG menggunakan ekstensi .png yang sama dan dapat dibuka oleh aplikasi seperti Mozilla Firefox, Chrome dengan dukungan APNG, aplikasi iMessage untuk iOS 10.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

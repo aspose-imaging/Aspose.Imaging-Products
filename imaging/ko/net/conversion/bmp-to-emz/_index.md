@@ -64,16 +64,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="BMP을 EMZ로 변환 - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="BMP을 EMZ로 변환하는 무료 앱"
         appName="Conversion"
@@ -85,13 +75,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ko/conversion/BMP-to-EMZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="BMP을 EMZ로 변환 - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | BMP">}}
 확장자가 .BMP인 파일은 비트맵 디지털 이미지를 저장하는 데 사용되는 비트맵 이미지 파일을 나타냅니다. 이러한 이미지는 그래픽 어댑터와 무관하며 DIB(장치 독립 비트맵) 파일 형식이라고도 합니다. 이 독립성은 Microsoft Windows 및 Mac과 같은 여러 플랫폼에서 파일을 여는 목적을 제공합니다. BMP 파일 형식은 데이터를 흑백 및 다양한 색상 깊이의 색상 형식으로 2차원 디지털 이미지로 저장할 수 있습니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | EMZ">}}
 EMZ 파일 확장자를 가진 파일은 압축된 이미지 파일이며, 보다 구체적으로 Windows Compressed Enhanced Metafile 파일이라고 합니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

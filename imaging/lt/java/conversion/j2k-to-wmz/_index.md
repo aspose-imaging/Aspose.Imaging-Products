@@ -75,16 +75,6 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertuoti J2K į WMZ – Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Nemokama programa konvertuoti J2K į WMZ"
         appName="Conversion"
@@ -96,13 +86,21 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/lt/conversion/J2K-to-WMZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertuoti J2K į WMZ – Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau | J2K">}}
 J2K failas yra vaizdas, suglaudintas naudojant banglečių glaudinimą, o ne DCT glaudinimą.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau | WMZ">}}
 WMZ yra „Windows Media Player“ / „Windows Media Player“ naudojamo odos failo formato failo plėtinys. WMZ failas iš esmės yra suglaudintas WMF failas XML formatu.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

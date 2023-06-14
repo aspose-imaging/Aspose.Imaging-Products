@@ -64,16 +64,6 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Converti EPS in GIF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="App gratuita per convertire EPS in GIF"
         appName="Conversion"
@@ -85,13 +75,21 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/it/conversion/EPS-to-GIF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Converti EPS in GIF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più | EPS">}}
 I file con estensione EPS descrivono essenzialmente un programma in linguaggio Encapsulated PostScript che descrive l'aspetto di una singola pagina. Il nome "Encapsulated" perché può essere incluso o incapsulato nella descrizione della pagina di un altro linguaggio PostScript. Questo formato di file basato su script può contenere qualsiasi combinazione di testo, grafica e immagini. I file EPS possono includere un'immagine di anteprima bitmap incapsulata all'interno per la visualizzazione da parte di applicazioni in grado di aprire tali file. I file EPS possono essere convertiti in formati immagine standard come JPG, PNG, TIFF e PDF utilizzando diverse applicazioni, ad es. Adobe Illustrator, Photoshop e PaintShop Pro. A causa di una vulnerabilità di sicurezza nei file EPS, Office 2016, Office 2013, Office 2010 e Office 365 hanno disattivato la possibilità di inserire file EPS nei documenti di Office.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più | GIF">}}
 Un formato GIF o Graphical Interchange Format è un tipo di immagine altamente compressa. Di proprietà di Unisys, GIF utilizza l'algoritmo di compressione LZW che non degrada la qualità dell'immagine. Per ogni immagine GIF in genere consentono fino a 8 bit per pixel e sono consentiti fino a 256 colori nell'immagine. In contrasto con un'immagine JPEG, che può visualizzare fino a 16 milioni di colori e tocca abbastanza i limiti dell'occhio umano. Quando è emerso Internet, le GIF sono rimaste la scelta migliore perché richiedevano una larghezza di banda ridotta e compatibili per la grafica che consuma aree di colore solide. Una GIF animata combina numerose immagini o fotogrammi in un unico file e le visualizza in sequenza per generare una clip animata o un breve video. I limiti di colore sono fino a 256 per ogni fotogramma e sono probabilmente i meno adatti per riprodurre altre immagini e fotografie con gradiente di colore.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

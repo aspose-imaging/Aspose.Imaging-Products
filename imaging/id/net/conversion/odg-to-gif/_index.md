@@ -62,16 +62,6 @@ Sebelum menjalankan kode contoh konversi, pastikan Anda memiliki prasyarat berik
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konversi ODG ke GIF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Aplikasi Gratis untuk Mengonversi ODG ke GIF"
         appName="Conversion"
@@ -83,13 +73,21 @@ Sebelum menjalankan kode contoh konversi, pastikan Anda memiliki prasyarat berik
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/id/conversion/ODG-to-GIF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konversi ODG ke GIF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya | ODG">}}
 Format file ODG digunakan oleh aplikasi Draw Apache OpenOffice untuk menyimpan elemen gambar sebagai gambar vektor. Ini mengikuti spesifikasi format file berbasis XML yang digariskan oleh Kemajuan Standar Informasi Struktural (OASIS). ODG mewakili gambar sebagai gambar vektor menggunakan titik, garis, dan kurva. Selain OpenOffice, LibreOffice dan aplikasi lain juga menyediakan dukungan untuk bekerja dengan format file ODG. Format lain yang didukung oleh OpenOffice, misalnya, termasuk ODT, ODF, ODP dan ODS.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya | GIF">}}
 GIF atau Graphical Interchange Format adalah jenis gambar yang sangat terkompresi. Dimiliki oleh Unisys, GIF menggunakan algoritma kompresi LZW yang tidak menurunkan kualitas gambar. Untuk setiap gambar, GIF biasanya mengizinkan hingga 8 bit per piksel dan hingga 256 warna diizinkan di seluruh gambar. Berbeda dengan gambar JPEG, yang mampu menampilkan hingga 16 juta warna dan terbilang menyentuh batas mata manusia. Kembali ketika internet muncul, GIF tetap menjadi pilihan terbaik karena membutuhkan bandwidth rendah dan kompatibel untuk grafik yang menggunakan area warna solid. GIF animasi menggabungkan banyak gambar atau bingkai ke dalam satu file dan menampilkannya secara berurutan untuk menghasilkan klip animasi atau video pendek. Batasan warna hingga 256 untuk setiap bingkai dan kemungkinan paling tidak cocok untuk mereproduksi gambar dan foto lain dengan gradien warna.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

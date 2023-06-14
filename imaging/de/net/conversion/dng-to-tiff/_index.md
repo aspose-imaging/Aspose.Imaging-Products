@@ -63,16 +63,6 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertiere DNG in TIFF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Kostenlose App zum Konvertieren von DNG in TIFF"
         appName="Conversion"
@@ -84,13 +74,21 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/de/conversion/DNG-to-TIFF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertiere DNG in TIFF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen | DNG">}}
 DNG ist ein Bildformat für Digitalkameras, das zum Speichern von Rohdateien verwendet wird. Es wurde von Adobe im September 2004 entwickelt. Es wurde im Wesentlichen für die digitale Fotografie entwickelt. DNG ist eine Erweiterung des TIFF/EP-Standardformats und verwendet in erheblichem Umfang Metadaten. Um Rohdaten von Digitalkameras mit einfacher Flexibilität und künstlerischer Kontrolle zu bearbeiten, entscheiden sich Fotografen für Kamera-Rohdateien. JPEG- und TIFF-Formate speichern Bilder, die von der Kamera verarbeitet werden, daher ist in solchen Formaten nicht viel Spielraum für Änderungen vorhanden.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen | TIFF">}}
 TIFF oder TIF, Tagged Image File Format, stellt Rasterbilder dar, die für die Verwendung auf einer Vielzahl von Geräten gedacht sind, die diesem Dateiformatstandard entsprechen. Es ist in der Lage, Bilevel-, Graustufen-, Palettenfarben- und Vollfarben-Bilddaten in mehreren Farbräumen zu beschreiben. Es unterstützt sowohl verlustbehaftete als auch verlustfreie Komprimierungsschemata, um zwischen Speicherplatz und Zeit für Anwendungen zu wählen, die das Format verwenden. Das Format ist erweiterbar und wurde mehrfach überarbeitet, was die Aufnahme einer unbegrenzten Menge an privaten oder speziellen Informationen ermöglicht. Das Format ist nicht maschinenabhängig und frei von Grenzen wie Prozessor, Betriebssystem oder Dateisystem.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

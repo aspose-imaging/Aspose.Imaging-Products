@@ -62,16 +62,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="CDRをWMZに変換します-.NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="CDRをWMZに変換する無料アプリ"
         appName="Conversion"
@@ -83,13 +73,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ja/conversion/CDR-to-WMZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="CDRをWMZに変換します-.NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | CDR">}}
 CDRファイルは、エンコードおよび圧縮されたデジタル画像を保存するためにCorelDRAWでネイティブに作成されたベクター描画画像ファイルです。このような描画ファイルには、画像コンテンツのベクトル表現のためのテキスト、線、形状、画像、色、および効果が含まれています。 CDRファイルは、CorelDRAWをプライマリアプリケーションとして使用して開くことができ、PDF、JPG、PNG、BMP、AIなどの他の形式に変換することもできます。パンフレット、タブロイド紙、封筒、はがきなどのさまざまなグラフィックデータの表現に使用できます。 CorelDRAWに加えて、Corel PaintshopProやCorelDRAWGraphicsスイートなどの他のCorel製品もCDRファイル形式を開くことができます。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | WMZ">}}
 WMZは、Windows MediaPlayerで使用される/使用される/使用されるスキンファイル形式のファイル拡張子です。 WMZファイルは、基本的にXML形式のzip形式のWMFファイルです。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -64,16 +64,6 @@ Antes de executar o código de exemplo de conversão, verifique se você tem os 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Converter {Formato1} para {Formato2} - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Aplicativo gratuito para converter WEBP para HTML"
         appName="Conversion"
@@ -85,13 +75,21 @@ Antes de executar o código de exemplo de conversão, verifique se você tem os 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/pt/conversion/WEBP-to-HTML)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Converter {Formato1} para {Formato2} - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação | WEBP">}}
 O WebP, introduzido pelo Google, é um formato de arquivo de imagem da Web raster moderno baseado em compactação sem perdas e com perdas. Ele fornece a mesma qualidade de imagem enquanto reduz consideravelmente o tamanho da imagem. Como a maioria das páginas da web usa imagens como representação efetiva de dados, o uso de imagens WebP em páginas da web resulta em carregamento mais rápido das páginas da web. De acordo com o Google, as imagens sem perdas do WebP são 26% menores em tamanho em comparação com os PNGs, enquanto as imagens com perdas do WebP são 25-34% menores do que as imagens JPEG comparáveis. As imagens são comparadas com base no índice de semelhança estrutural (SSIM) entre o WebP e outros formatos de arquivo de imagem. WebP é um projeto irmão do formato de contêiner multimídia WebM.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação | HTML">}}
 HTML (Hyper Text Markup Language) é a extensão para páginas da web criadas para exibição em navegadores. Conhecido como linguagem da web, o HTML evoluiu com novas exigências de informações para serem exibidas como parte das páginas da web. A última variante é conhecida como HTML 5, que oferece muita flexibilidade para trabalhar com a linguagem. As páginas HTML são recebidas do servidor, onde estão hospedadas, ou também podem ser carregadas do sistema local. Cada página HTML é composta por elementos HTML como formulários, texto, imagens, animações, links, etc. Esses elementos são representados por tags como img, a, pe várias outras onde cada tag tem início e fim. Ele também pode incorporar aplicativos escritos em linguagens de script, como JavaScript e Folhas de Estilo (CSS) para representação geral do layout.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

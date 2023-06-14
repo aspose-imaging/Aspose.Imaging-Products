@@ -75,16 +75,6 @@ description: קוד לדוגמה עבור המרת Java מ-WMF ל-PNG. השתמ�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="המר את WMF ל-PNG - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="אפליקציה חינמית להמרת WMF ל-PNG"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: קוד לדוגמה עבור המרת Java מ-WMF ל-PNG. השתמ�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/WMF-to-PNG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="המר את WMF ל-PNG - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | WMF">}}
 קבצים עם סיומת WMF מייצגים את Microsoft Windows Metafile (WMF) לאחסון נתוני תמונות וקטורים כמו גם בפורמט סיביות. ליתר דיוק, WMF שייך לקטגוריית פורמט קבצים וקטור של פורמטים של קבצי גרפיקה שאינה תלויה במכשיר. ממשק התקן גרפי של Windows (GDI) משתמש בפונקציות המאוחסנות בקובץ WMF כדי להציג תמונה על המסך. מאוחר יותר פורסמה גרסה משופרת יותר של WMF, הידועה בשם Enhanced Meta Files (EMF), שהופכת את הפורמט לעשיר יותר בתכונות. למעשה, WMF דומים ל-SVG.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | PNG">}}
 PNG, Portable Network Graphics, מתייחס לסוג של פורמט קובץ תמונת רסטר המשתמש בדחיסה ללא הפסדים. פורמט קובץ זה נוצר כתחליף ל-Graphics Interchange Format (GIF) ואין לו מגבלות זכויות יוצרים. עם זאת, פורמט קובץ PNG אינו תומך בהנפשות. פורמט קובץ PNG תומך בדחיסת תמונה ללא הפסדים שהופך אותו לפופולרי בקרב המשתמשים שלו. עם חלוף הזמן, PNG התפתח כאחד מפורמטי קבצי התמונה הנפוצים ביותר. כמעט לכל מערכות ההפעלה יש תמיכה בפתיחת קבצי PNG. לדוגמה, ל-Microsoft Windows Viewer יש את היכולת לפתוח קבצי PNG מכיוון שלמערכת ההפעלה יש כברירת מחדל את התמיכה הזמינה כחלק מההתקנה.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

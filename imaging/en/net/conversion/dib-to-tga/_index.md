@@ -63,16 +63,6 @@ Before running the conversion example code, make sure that you have the followin
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convert DIB to TGA - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Free App to Convert DIB to TGA"
         appName="Conversion"
@@ -84,13 +74,21 @@ Before running the conversion example code, make sure that you have the followin
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DIB-to-TGA)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Convert DIB to TGA - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="What is" whatIsFormat2="File Format" readMoreFormat="Read More">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="What is" whatIsFormat2="File Format" readMoreFormat="Read More | DIB">}}
 A DIB (Device Independent Bitmap) file is a raster image file that is similar in structure to the standard Bitmap files (BMP) but has a different header. It can be opened with almost all applications that can open a standard BMP file on Windows as well as macOS. DIB are binary files and have a complex file format similar to BMP.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="What is" whatIsFormat2="File Format" readMoreFormat="Read More">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="What is" whatIsFormat2="File Format" readMoreFormat="Read More | TGA">}}
 Truevision TGA, often referred to as TARGA, is a raster graphics file format created by Truevision Inc. (now part of Avid Technology). It was the native format of TARGA and VISTA boards, which were the first graphic cards for IBM-compatible PCs to support Highcolor/truecolor display.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -75,16 +75,6 @@ description: โค้ดตัวอย่างสำหรับการแ�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="แปลง CDR เป็น WMZ - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="แอปฟรีเพื่อแปลง CDR เป็น WMZ"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: โค้ดตัวอย่างสำหรับการแ�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/CDR-to-WMZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="แปลง CDR เป็น WMZ - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | CDR">}}
 ไฟล์ CDR เป็นไฟล์ภาพวาดเวกเตอร์ที่สร้างขึ้นด้วย CorelDRAW สำหรับจัดเก็บภาพดิจิทัลที่เข้ารหัสและบีบอัด ไฟล์รูปวาดดังกล่าวประกอบด้วยข้อความ เส้น รูปร่าง รูปภาพ สี และเอฟเฟกต์สำหรับการแสดงเนื้อหารูปภาพแบบเวกเตอร์ ไฟล์ CDR สามารถเปิดได้ด้วย CorelDRAW เป็นแอปพลิเคชันหลักและยังสามารถแปลงเป็นรูปแบบอื่น ๆ เช่น PDF, JPG, PNG, BMP และ AI ใช้สำหรับแสดงข้อมูลกราฟิกต่างๆ เช่น โบรชัวร์ แท็บลอยด์ ซองจดหมาย และไปรษณียบัตร นอกจาก CorelDRAW แล้ว ผลิตภัณฑ์ Corel อื่นๆ เช่น Corel Paintshop Pro และชุดกราฟิก CorelDRAW ยังสามารถเปิดรูปแบบไฟล์ CDR ได้อีกด้วย
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | WMZ">}}
 WMZ เป็นนามสกุลไฟล์สำหรับรูปแบบไฟล์สกินใน/สำหรับ/ใช้โดย Windows Media Player ไฟล์ WMZ นั้นเป็นไฟล์ WMF ที่บีบอัดในรูปแบบ XML
         {{< /blocks/products/pf/agp/about-file-text >}}
 

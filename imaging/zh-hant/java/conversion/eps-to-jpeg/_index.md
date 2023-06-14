@@ -75,16 +75,6 @@ description: EPS 到 JPEG Java 轉換的示例代碼。使用 API 示例代碼�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="將 EPS 轉換為 JPEG - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="將 EPS 轉換為 JPEG 的免費應用程序"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: EPS 到 JPEG Java 轉換的示例代碼。使用 API 示例代碼�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hant/conversion/EPS-to-JPEG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="將 EPS 轉換為 JPEG - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | EPS">}}
 帶有 EPS 擴展名的文件本質上描述了一個封裝的 PostScript 語言程序，該程序描述了單個頁面的外觀。名稱“封裝”是因為它可以包含或封裝在另一種 PostScript 語言頁面描述中。這種基於腳本的文件格式可能包含文本、圖形和圖像的任意組合。 EPS 文件可能包含封裝在內部的位圖預覽圖像，以供可以打開此類文件的應用程序顯示。可以使用不同的應用程序將 EPS 文件轉換為標準圖像格式，例如 JPG、PNG、TIFF 和 PDF。 Adobe Illustrator、Photoshop 和 PaintShop Pro。由於 EPS 文件中存在安全漏洞，Office 2016、Office 2013、Office 2010 和 Office 365 已關閉將 EPS 文件插入 Office 文檔的功能。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | JPEG">}}
 JPEG 是一種使用有損壓縮方法保存的圖像格式。作為壓縮的結果，輸出圖像是存儲大小和圖像質量之間的權衡。用戶可以調整壓縮級別以達到所需的質量級別，同時減小存儲大小。如果對圖像應用 10:1 壓縮，則對圖像質量的影響可以忽略不計。壓縮值越高，圖像質量的劣化程度越高。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

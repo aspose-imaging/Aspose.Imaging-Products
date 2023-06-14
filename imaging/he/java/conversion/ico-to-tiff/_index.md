@@ -75,16 +75,6 @@ description: קוד לדוגמה עבור המרת Java מ-ICO ל-TIFF. השתמ
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="המר את ICO ל-TIFF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="אפליקציה חינמית להמרת ICO ל-TIFF"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: קוד לדוגמה עבור המרת Java מ-ICO ל-TIFF. השתמ
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/ICO-to-TIFF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="המר את ICO ל-TIFF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | ICO">}}
 פורמט קובץ ICO הוא פורמט קובץ תמונה עבור סמלי מחשב ב-Microsoft Windows. קובצי ICO מכילים תמונה קטנה אחת או יותר בגדלים ובעומקי צבע מרובים, כך שניתן לשנות את קנה המידה שלהם כראוי. ב-Windows, כל קובצי ההפעלה שמציגים סמל למשתמש, בשולחן העבודה, בתפריט התחל או בסייר Windows, חייבים לשאת את הסמל בפורמט ICO.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | TIFF">}}
 TIFF או TIF, Tagged Image File Format, מייצגים תמונות רסטר המיועדות לשימוש במגוון מכשירים התואמים לתקן פורמט קובץ זה. הוא מסוגל לתאר נתוני תמונה דו-שכבתיים, גווני אפור, צבעי לוח וצבע מלא במספר מרחבי צבע. הוא תומך בסכימות דחיסה חסרות אובדן לבחירה בין מקום וזמן עבור יישומים המשתמשים בפורמט. הפורמט ניתן להרחבה ועבר מספר תיקונים המאפשרים הכללת כמות בלתי מוגבלת של מידע פרטי או למטרות מיוחדות. הפורמט אינו תלוי במכונה והוא נקי מגבולות כמו מעבד, מערכת הפעלה או מערכות קבצים.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

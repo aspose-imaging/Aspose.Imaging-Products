@@ -62,16 +62,6 @@ Sebelum menjalankan kode contoh konversi, pastikan Anda memiliki prasyarat berik
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konversi EMF ke DXF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Aplikasi Gratis untuk Mengonversi EMF ke DXF"
         appName="Conversion"
@@ -83,13 +73,21 @@ Sebelum menjalankan kode contoh konversi, pastikan Anda memiliki prasyarat berik
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/id/conversion/EMF-to-DXF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konversi EMF ke DXF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya | EMF">}}
 Enhanced metafile format (EMF) menyimpan gambar grafis secara mandiri. Metafile EMF terdiri dari catatan panjang variabel dalam urutan kronologis yang dapat membuat gambar yang disimpan setelah diurai pada perangkat output apa pun. Catatan panjang variabel ini dapat berupa definisi objek tertutup, perintah untuk menggambar, dan properti grafik yang penting untuk membuat gambar secara akurat. Saat perangkat membuka metafile EMF menggunakan lingkungan grafisnya sendiri, proporsi, dimensi, warna, dan properti grafis lainnya dari gambar asli tetap sama terlepas dari platform perangkat pembuka.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya | DXF">}}
 DXF, Drawing Interchange Format, atau Drawing Exchange Format, adalah representasi data yang ditandai dari file gambar AutoCAD. Setiap elemen dalam file memiliki nomor integer awalan yang disebut kode grup. Kode grup ini sebenarnya mewakili elemen yang mengikuti dan menunjukkan arti dari elemen data untuk tipe objek tertentu. DXF memungkinkan untuk mewakili hampir semua informasi yang ditentukan pengguna dalam file gambar.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

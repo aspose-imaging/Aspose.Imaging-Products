@@ -75,16 +75,6 @@ Przed uruchomieniem przykładowego kodu konwersji upewnij się, że masz następ
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konwertuj CDR na JPG - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Darmowa aplikacja do konwersji CDR na JPG"
         appName="Conversion"
@@ -96,13 +86,21 @@ Przed uruchomieniem przykładowego kodu konwersji upewnij się, że masz następ
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/pl/conversion/CDR-to-JPG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konwertuj CDR na JPG - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej | CDR">}}
 Plik CDR to plik obrazu rysunku wektorowego, który jest natywnie tworzony w programie CorelDRAW do przechowywania zakodowanych i skompresowanych obrazów cyfrowych. Taki plik rysunku zawiera tekst, linie, kształty, obrazy, kolory i efekty dla wektorowej reprezentacji treści obrazu. Pliki CDR można otwierać za pomocą programu CorelDRAW jako głównej aplikacji, a także konwertować na inne formaty, takie jak PDF, JPG, PNG, BMP i AI. Może być używany do przedstawiania różnych danych graficznych, takich jak broszury, tabloidy, koperty i pocztówki. Oprócz pakietu CorelDRAW inne produkty firmy Corel, takie jak Corel Paintshop Pro i pakiet CorelDRAW Graphics, mogą również otwierać formaty plików CDR.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej | JPG">}}
 JPEG to rodzaj formatu obrazu, który jest zapisywany przy użyciu metody kompresji stratnej. Obraz wyjściowy w wyniku kompresji jest kompromisem między rozmiarem pamięci a jakością obrazu. Użytkownicy mogą dostosować poziom kompresji, aby osiągnąć pożądany poziom jakości, jednocześnie zmniejszając rozmiar pamięci. Jakość obrazu ulega nieznacznemu pogorszeniu, jeśli do obrazu zostanie zastosowana kompresja 10:1. Im wyższa wartość kompresji, tym większa degradacja jakości obrazu.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

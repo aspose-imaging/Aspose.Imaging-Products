@@ -62,16 +62,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="将 SVG 转换为 BMP - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="将 SVG 转换为 BMP 的免费应用程序"
         appName="Conversion"
@@ -83,13 +73,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hans/conversion/SVG-to-BMP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="将 SVG 转换为 BMP - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | SVG">}}
 SVG 文件是使用基于 XML 的文本格式来描述图像外观的可缩放矢量图形文件。 Scalable 这个词指的是 SVG 可以缩放到不同的大小而不会损失任何质量。此类文件的基于文本的描述使它们独立于分辨率。它是用于构建网站和打印图形以实现可扩展性的最常用格式之一。该格式只能用于二维图形。 SVG 文件可以在几乎所有现代浏览器中查看/打开，包括 Chrome、Internet Explorer、Firefox 和 Safari。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | BMP">}}
 扩展名为 .BMP 的文件表示用于存储位图数字图像的位图图像文件。这些图像独立于图形适配器，也称为设备独立位图 (DIB) 文件格式。这种独立性的目的是在 Microsoft Windows 和 Mac 等多个平台上打开文件。 BMP 文件格式可以将数据存储为单色和具有各种颜色深度的彩色格式的二维数字图像。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

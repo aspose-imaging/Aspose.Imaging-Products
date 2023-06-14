@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити DJVU на BMP - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення DJVU у BMP"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DJVU-to-BMP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити DJVU на BMP - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | DJVU">}}
 DjVu, що вимовляється як дежавю, — це формат графічних файлів, призначений для відсканованих документів і книг, особливо тих, які містять поєднання тексту, малюнків, зображень і фотографій. Він був розроблений AT&T Labs. Він використовує кілька методів, як-от поділ тексту та фонових зображень шаром зображення, прогресивне завантаження, арифметичне кодування та стиснення з втратами для бітональних зображень. Оскільки файл DJVU може містити стиснуті, але високоякісні кольорові зображення, фотографії, текст і малюнки та може бути збережений у меншому місці, він використовується в Інтернеті як електронні книги, посібники, газети, старовинні документи тощо.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | BMP">}}
 Файли з розширенням .BMP представляють файли Bitmap Image, які використовуються для зберігання растрових цифрових зображень. Ці зображення не залежать від графічного адаптера, а також називаються форматом файлу растрового зображення, незалежного від пристрою (DIB). Ця незалежність служить для відкриття файлу на кількох платформах, таких як Microsoft Windows і Mac. Формат файлу BMP може зберігати дані як двовимірні цифрові зображення як у монохромному, так і в кольоровому форматі з різною глибиною кольору.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

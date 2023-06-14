@@ -75,16 +75,6 @@ description: Зразок коду для перетворення DJVU у WEBP 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити DJVU на WEBP - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення DJVU у WEBP"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Зразок коду для перетворення DJVU у WEBP 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DJVU-to-WEBP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити DJVU на WEBP - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | DJVU">}}
 DjVu, що вимовляється як дежавю, — це формат графічних файлів, призначений для відсканованих документів і книг, особливо тих, які містять поєднання тексту, малюнків, зображень і фотографій. Він був розроблений AT&T Labs. Він використовує кілька методів, як-от поділ тексту та фонових зображень шаром зображення, прогресивне завантаження, арифметичне кодування та стиснення з втратами для бітональних зображень. Оскільки файл DJVU може містити стиснуті, але високоякісні кольорові зображення, фотографії, текст і малюнки та може бути збережений у меншому місці, він використовується в Інтернеті як електронні книги, посібники, газети, старовинні документи тощо.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | WEBP">}}
 WebP, представлений компанією Google, — це сучасний растровий формат файлів веб-зображень, який базується на стисненні без втрат і з втратами. Він забезпечує таку саму якість зображення при значному зменшенні розміру зображення. Оскільки більшість веб-сторінок використовують зображення як ефективне представлення даних, використання зображень WebP на веб-сторінках призводить до швидшого завантаження веб-сторінок. За даними Google, зображення WebP без втрат на 26% менші за розмір порівняно з PNG, а зображення WebP із втратами на 25-34% менші за порівняльні зображення JPEG. Зображення порівнюються на основі індексу структурної подібності (SSIM) між WebP та іншими форматами файлів зображень. WebP є дочірнім проектом формату мультимедійного контейнера WebM.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

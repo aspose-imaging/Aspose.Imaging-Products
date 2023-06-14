@@ -64,16 +64,6 @@ Przed uruchomieniem przykładowego kodu konwersji upewnij się, że masz następ
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konwertuj DJVU na EMZ - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Darmowa aplikacja do konwersji DJVU na EMZ"
         appName="Conversion"
@@ -85,13 +75,21 @@ Przed uruchomieniem przykładowego kodu konwersji upewnij się, że masz następ
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/pl/conversion/DJVU-to-EMZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konwertuj DJVU na EMZ - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej | DJVU">}}
 DjVu, wymawiane jako DJVU, to format plików graficznych przeznaczony dla zeskanowanych dokumentów i książek, zwłaszcza zawierających kombinację tekstu, rysunków, obrazów i fotografii. Został opracowany przez AT&T Labs. Wykorzystuje wiele technik, takich jak separacja warstw obrazu tekstu i obrazów tła, ładowanie progresywne, kodowanie arytmetyczne i kompresja stratna dla obrazów dwukolorowych. Ponieważ plik DJVU może zawierać skompresowane, ale wysokiej jakości kolorowe obrazy, zdjęcia, tekst i rysunki, i może być zapisany na mniejszej przestrzeni, dlatego jest używany w Internecie jako e-booki, podręczniki, gazety, starożytne dokumenty itp.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej | EMZ">}}
 Plik z rozszerzeniem EMZ to skompresowany plik obrazu, dokładniej nazywany plikiem Windows Compressed Enhanced Metafile
         {{< /blocks/products/pf/agp/about-file-text >}}
 

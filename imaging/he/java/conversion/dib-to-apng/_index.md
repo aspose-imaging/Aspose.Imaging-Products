@@ -75,16 +75,6 @@ description: קוד לדוגמה עבור המרת Java מ-DIB ל-APNG. השתמ
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="המר את DIB ל-APNG - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="אפליקציה חינמית להמרת DIB ל-APNG"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: קוד לדוגמה עבור המרת Java מ-DIB ל-APNG. השתמ
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DIB-to-APNG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="המר את DIB ל-APNG - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | DIB">}}
 קובץ DIB (Device Independent Bitmap) הוא קובץ תמונת רסטר הדומה במבנהו לקובצי Bitmap הסטנדרטיים (BMP) אך בעל כותרת שונה. ניתן לפתוח אותו כמעט עם כל היישומים שיכולים לפתוח קובץ BMP סטנדרטי ב-Windows כמו גם ב-macOS. DIB הם קבצים בינאריים ובעלי פורמט קובץ מורכב הדומה ל-BMP.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | APNG">}}
 קובץ עם סיומת .apng (Animated Portable Network Graphics) הוא פורמט גרפי רסטר והוא הרחבה לא רשמית ל-Portable Network Graphic (PNG). הוא מורכב ממספר פריימים (כל אחת מתמונת PNG) המייצגת רצף אנימציה. זה נותן הדמיה דומה לקובץ GIF. קובצי APNG תומכים בתמונות של 24 סיביות ושקיפות של 8 סיביות. APNG תואם לאחור עם קבצי GIF שאינם מונפשים. קובצי APNG משתמשים באותה סיומת .png וניתן לפתוח אותם על ידי יישומים כגון Mozilla Firefox, Chrome עם תמיכה בAPNG, אפליקציות iMessage עבור iOS 10.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

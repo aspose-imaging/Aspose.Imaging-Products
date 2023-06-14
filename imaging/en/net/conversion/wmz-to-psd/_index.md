@@ -63,16 +63,6 @@ Before running the conversion example code, make sure that you have the followin
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convert WMZ to PSD - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Free App to Convert WMZ to PSD"
         appName="Conversion"
@@ -84,13 +74,21 @@ Before running the conversion example code, make sure that you have the followin
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/WMZ-to-PSD)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Convert WMZ to PSD - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="What is" whatIsFormat2="File Format" readMoreFormat="Read More">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="What is" whatIsFormat2="File Format" readMoreFormat="Read More | WMZ">}}
 WMZ is a file extension for a skin file format in/for/used by Windows Media Player. A WMZ file is basically a zipped WMF file in XML.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="What is" whatIsFormat2="File Format" readMoreFormat="Read More">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="What is" whatIsFormat2="File Format" readMoreFormat="Read More | PSD">}}
 PSD, Photoshop Document, represents Adobe Photoshop’s native file format used for graphics designing and development. PSD files may include image layers, adjustment layers, layer masks, annotations, file information, keywords and other Photoshop-specific elements.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

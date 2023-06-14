@@ -75,16 +75,6 @@ Avant d'exécuter l'exemple de code de conversion, assurez-vous que vous dispose
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convertir PNG en PDF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Application gratuite pour convertir PNG en PDF"
         appName="Conversion"
@@ -96,13 +86,21 @@ Avant d'exécuter l'exemple de code de conversion, assurez-vous que vous dispose
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/fr/conversion/PNG-to-PDF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Convertir PNG en PDF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite | PNG">}}
 PNG, Portable Network Graphics, fait référence à un type de format de fichier d'image raster qui utilise une compression sans perte. Ce format de fichier a été créé en remplacement du Graphics Interchange Format (GIF) et n'a aucune limitation de copyright. Cependant, le format de fichier PNG ne prend pas en charge les animations. Le format de fichier PNG prend en charge la compression d'image sans perte, ce qui le rend populaire parmi ses utilisateurs. Au fil du temps, PNG est devenu l'un des formats de fichier image les plus utilisés. Presque tous les systèmes d'exploitation prennent en charge l'ouverture des fichiers PNG. Par exemple, la visionneuse Microsoft Windows a la capacité d'ouvrir les fichiers PNG car le système d'exploitation dispose par défaut de la prise en charge disponible dans le cadre de l'installation.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite | PDF">}}
 Portable Document Format (PDF) est un type de document créé par Adobe dans les années 1990. Le but de ce format de fichier était d'introduire une norme pour la représentation des documents et autres documents de référence dans un format indépendant du logiciel d'application, du matériel ainsi que du système d'exploitation. Le format de fichier PDF a la pleine capacité de contenir des informations telles que du texte, des images, des hyperliens, des champs de formulaire, des médias enrichis, des signatures numériques, des pièces jointes, des métadonnées, des fonctionnalités géospatiales et des objets 3D qui peuvent faire partie du document source.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

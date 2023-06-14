@@ -64,16 +64,6 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Converti JPEG2000 in EMF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="App gratuita per convertire JPEG2000 in EMF"
         appName="Conversion"
@@ -85,13 +75,21 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/it/conversion/JPEG2000-to-EMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Converti JPEG2000 in EMF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più | JPEG2000">}}
 JPEG 2000 (JP2) è un sistema di codifica delle immagini e uno standard di compressione delle immagini all'avanguardia. Progettato, utilizzando la tecnologia wavelet, JPEG 2000 può codificare contenuti senza perdita di qualità in qualsiasi qualità contemporaneamente. Inoltre, senza alcuna penalizzazione sostanziale nell'efficienza della codifica, JPEG 2000 ha la capacità di accedere e decodificare efficacemente lo stesso contenuto in una varietà di altre risoluzioni e qualità. I flussi di codice in JPEG 2000 sono significativamente scalabili con regioni di interesse che forniscono la struttura per l'accesso casuale spaziale. Possedendo fino a 16384 diversi componenti con le dimensioni in terapixel e una precisione che può arrivare fino a 38 bit/campione.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più | EMF">}}
 Il formato metafile avanzato (EMF) memorizza le immagini grafiche indipendentemente dal dispositivo. I metafile di EMF comprendono record di lunghezza variabile in ordine cronologico che possono eseguire il rendering dell'immagine archiviata dopo l'analisi su qualsiasi dispositivo di output. Questi record a lunghezza variabile possono essere definizioni di oggetti racchiusi, comandi per il disegno e proprietà grafiche fondamentali per il rendering accurato dell'immagine. Quando un dispositivo apre un metafile EMF utilizzando il proprio ambiente grafico, le proporzioni, le dimensioni, i colori e altre proprietà grafiche dell'immagine originale rimangono le stesse indipendentemente dalla piattaforma del dispositivo di apertura.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

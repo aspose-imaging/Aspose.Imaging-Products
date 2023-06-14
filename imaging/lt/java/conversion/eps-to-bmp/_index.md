@@ -75,16 +75,6 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertuoti EPS į BMP – Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Nemokama programa konvertuoti EPS į BMP"
         appName="Conversion"
@@ -96,13 +86,21 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/lt/conversion/EPS-to-BMP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertuoti EPS į BMP – Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau | EPS">}}
 Failai su EPS plėtiniu iš esmės apibūdina Encapsulated PostScript kalbos programą, kuri apibūdina vieno puslapio išvaizdą. Pavadinimas „Inkapsuliuotas“, nes jis gali būti įtrauktas arba įdėtas į kitą „PostScript“ kalbos puslapio aprašą. Šis scenarijus pagrįstas failo formatas gali turėti bet kokį teksto, grafikos ir vaizdų derinį. EPS failuose gali būti bitmap peržiūros vaizdas, įdėtas į vidų, kad būtų rodomas programos, galinčios atidaryti tokius failus. EPS failus galima konvertuoti į standartinius vaizdo formatus, tokius kaip JPG, PNG, TIFF ir PDF, naudojant įvairias programas, pvz. „Adobe Illustrator“, „Photoshop“ ir „PaintShop Pro“. Dėl EPS failų saugos pažeidžiamumo „Office 2016“, „Office 2013“, „Office 2010“ ir „Office 365“ išjungė galimybę įterpti EPS failus į „Office“ dokumentus.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau | BMP">}}
 Failai, kurių plėtinys yra .BMP, yra taškinio vaizdo failai, naudojami taškinio formato skaitmeniniams vaizdams saugoti. Šie vaizdai nepriklauso nuo grafikos adapterio ir taip pat vadinami nepriklausomu bitmap (DIB) failo formatu. Ši nepriklausomybė skirta atidaryti failą keliose platformose, pvz., „Microsoft Windows“ ir „Mac“. BMP failo formatas gali saugoti duomenis kaip dvimačius skaitmeninius vaizdus tiek nespalvotu, tiek spalvotu formatu su įvairiu spalvų gyliu.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

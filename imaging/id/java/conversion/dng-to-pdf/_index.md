@@ -75,16 +75,6 @@ Sebelum menjalankan kode contoh konversi, pastikan Anda memiliki prasyarat berik
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konversi DNG ke PDF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Aplikasi Gratis untuk Mengonversi DNG ke PDF"
         appName="Conversion"
@@ -96,13 +86,21 @@ Sebelum menjalankan kode contoh konversi, pastikan Anda memiliki prasyarat berik
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/id/conversion/DNG-to-PDF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konversi DNG ke PDF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya | DNG">}}
 DNG adalah format gambar kamera digital yang digunakan untuk penyimpanan file mentah. Ini telah dikembangkan oleh Adobe pada bulan September 2004. Ini pada dasarnya dikembangkan untuk fotografi digital. DNG adalah perpanjangan dari format standar TIFF/EP dan menggunakan metadata secara signifikan. Untuk memanipulasi data mentah dari kamera digital dengan fleksibilitas dan kontrol artistik yang mudah, fotografer memilih file mentah kamera. Format JPEG dan TIFF menyimpan gambar yang diproses oleh kamera, oleh karena itu tidak banyak ruang untuk perubahan yang tersedia dalam format tersebut.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya | PDF">}}
 Portable Document Format (PDF) adalah jenis dokumen yang dibuat oleh Adobe pada tahun 1990-an. Tujuan dari format file ini adalah untuk memperkenalkan standar representasi dokumen dan bahan referensi lainnya dalam format yang independen dari perangkat lunak aplikasi, perangkat keras, serta Sistem Operasi. Format file PDF memiliki kemampuan penuh untuk memuat informasi seperti teks, gambar, hyperlink, form-fields, media kaya, tanda tangan digital, lampiran, metadata, fitur Geospasial dan objek 3D di dalamnya yang dapat menjadi bagian dari dokumen sumber.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

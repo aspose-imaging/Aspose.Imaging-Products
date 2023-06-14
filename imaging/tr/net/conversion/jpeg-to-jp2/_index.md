@@ -62,16 +62,6 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="JPEG öğesini JP2 - .NET biçimine dönüştürün" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="JPEG'i JP2'e Dönüştürmek için Ücretsiz Uygulama"
         appName="Conversion"
@@ -83,13 +73,21 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/tr/conversion/JPEG-to-JP2)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="JPEG öğesini JP2 - .NET biçimine dönüştürün" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | JPEG">}}
 JPEG, kayıplı sıkıştırma yöntemi kullanılarak kaydedilen bir görüntü formatı türüdür. Sıkıştırmanın bir sonucu olarak çıktı görüntüsü, depolama boyutu ve görüntü kalitesi arasında bir dengedir. Kullanıcılar, istenen kalite seviyesine ulaşmak için sıkıştırma seviyesini ayarlayabilir ve aynı zamanda depolama boyutunu küçültebilir. Görüntüye 10:1 sıkıştırma uygulanırsa görüntü kalitesi ihmal edilebilir düzeyde etkilenir. Sıkıştırma değeri ne kadar yüksek olursa, görüntü kalitesindeki bozulma o kadar yüksek olur.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | JP2">}}
 JPEG 2000 (JP2), bir görüntü kodlama sistemi ve son teknoloji görüntü sıkıştırma standardıdır. Dalgacık teknolojisi kullanılarak tasarlanan JPEG 2000, kayıpsız içeriği herhangi bir kalitede bir kerede kodlayabilir. Ayrıca, kodlama verimliliğinde önemli bir ceza olmaksızın, JPEG 2000, aynı içeriğe etkili bir şekilde çeşitli diğer çözünürlük ve niteliklere erişme ve kodunu çözme yeteneğine sahiptir. JPEG 2000'deki kod akışları, uzamsal rasgele erişim olanağı sağlayan ilgi bölgelerine sahip olarak önemli ölçüde ölçeklenebilir. Terapixels'deki boyutları ve 38 bit/numune kadar yüksek hassasiyete sahip 16384'e kadar farklı bileşene sahip olma.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -75,16 +75,6 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="TIFF öğesini PDF - Java biçimine dönüştürün" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="TIFF'i PDF'e Dönüştürmek için Ücretsiz Uygulama"
         appName="Conversion"
@@ -96,13 +86,21 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/tr/conversion/TIFF-to-PDF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="TIFF öğesini PDF - Java biçimine dönüştürün" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | TIFF">}}
 TIFF veya TIF, Etiketli Görüntü Dosyası Biçimi, bu dosya biçimi standardına uyan çeşitli aygıtlarda kullanılması amaçlanan taramalı görüntüleri temsil eder. Çeşitli renk uzaylarında çift düzeyli, gri tonlamalı, palet renkli ve tam renkli görüntü verilerini tanımlama yeteneğine sahiptir. Formatı kullanan uygulamalar için alan ve zaman arasında seçim yapmak için kayıplı ve kayıpsız sıkıştırma şemalarını destekler. Format genişletilebilir ve sınırsız miktarda özel veya özel amaçlı bilginin dahil edilmesine izin veren birkaç revizyondan geçmiştir. Biçim makineye bağımlı değildir ve işlemci, işletim sistemi veya dosya sistemleri gibi sınırlardan muaftır.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | PDF">}}
 Taşınabilir Belge Formatı (PDF), Adobe tarafından 1990'larda oluşturulmuş bir belge türüdür. Bu dosya biçiminin amacı, belgelerin ve diğer başvuru malzemelerinin uygulama yazılımı, donanım ve İşletim Sisteminden bağımsız bir biçimde temsil edilmesi için bir standart getirmekti. PDF dosya formatı, kaynak belgenin bir parçası haline gelebilecek metin, resimler, köprüler, form alanları, zengin medya, dijital imzalar, ekler, meta veriler, Jeo-uzaysal özellikler ve 3B nesneler gibi bilgileri içerme konusunda tam kapasiteye sahiptir.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

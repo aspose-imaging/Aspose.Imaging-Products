@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="המר את ODG ל-ICO - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="אפליקציה חינמית להמרת ODG ל-ICO"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/ODG-to-ICO)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="המר את ODG ל-ICO - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | ODG">}}
 פורמט הקובץ ODG משמש את יישום Draw של Apache OpenOffice לאחסון רכיבי ציור כתמונה וקטורית. הוא עוקב אחר מפרטי פורמט הקובץ מבוסס XML המתוארים על ידי Advancement of Structural Information Standards (OASIS). ODG מייצג שרטוטים כתמונות וקטוריות באמצעות נקודות, קווים ועיקולים. מלבד OpenOffice, LibreOffice ויישומים אחרים מספקים גם תמיכה לעבודה עם פורמט קובץ ODG. פורמטים אחרים הנתמכים על ידי OpenOffice, למשל, כוללים ODT, ODF, ODP ו-ODS.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | ICO">}}
 פורמט קובץ ICO הוא פורמט קובץ תמונה עבור סמלי מחשב ב-Microsoft Windows. קובצי ICO מכילים תמונה קטנה אחת או יותר בגדלים ובעומקי צבע מרובים, כך שניתן לשנות את קנה המידה שלהם כראוי. ב-Windows, כל קובצי ההפעלה שמציגים סמל למשתמש, בשולחן העבודה, בתפריט התחל או בסייר Windows, חייבים לשאת את הסמל בפורמט ICO.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -75,16 +75,6 @@ description: โค้ดตัวอย่างสำหรับการแ�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="แปลง DJVU เป็น WMZ - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="แอปฟรีเพื่อแปลง DJVU เป็น WMZ"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: โค้ดตัวอย่างสำหรับการแ�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DJVU-to-WMZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="แปลง DJVU เป็น WMZ - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | DJVU">}}
 DjVu ออกเสียงว่า DJVU รูปแบบไฟล์กราฟิกที่ใช้สำหรับสแกนเอกสารและหนังสือ โดยเฉพาะไฟล์ที่มีข้อความ ภาพวาด รูปภาพ และรูปถ่ายผสมกัน ได้รับการพัฒนาโดย AT&T Labs มันใช้เทคนิคหลายอย่าง เช่น การแยกเลเยอร์รูปภาพของข้อความและรูปภาพพื้นหลัง การโหลดแบบโปรเกรสซีฟ การเข้ารหัสเลขคณิต และการบีบอัดแบบไม่สูญเสียสำหรับรูปภาพ bitonal เนื่องจากไฟล์ DJVU สามารถมีรูปภาพสี ข้อความ และภาพวาดที่บีบอัดแต่คุณภาพสูง และสามารถบันทึกได้ในพื้นที่น้อยลง ดังนั้นจึงใช้บนเว็บเป็น eBook คู่มือ หนังสือพิมพ์ เอกสารโบราณ ฯลฯ
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | WMZ">}}
 WMZ เป็นนามสกุลไฟล์สำหรับรูปแบบไฟล์สกินใน/สำหรับ/ใช้โดย Windows Media Player ไฟล์ WMZ นั้นเป็นไฟล์ WMF ที่บีบอัดในรูปแบบ XML
         {{< /blocks/products/pf/agp/about-file-text >}}
 

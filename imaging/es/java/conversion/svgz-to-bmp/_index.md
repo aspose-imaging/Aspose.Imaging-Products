@@ -75,16 +75,6 @@ Antes de ejecutar el código de ejemplo de conversión, asegúrese de tener los 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convertir SVGZ a BMP - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Aplicación gratuita para convertir SVGZ a BMP"
         appName="Conversion"
@@ -96,13 +86,21 @@ Antes de ejecutar el código de ejemplo de conversión, asegúrese de tener los 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/es/conversion/SVGZ-to-BMP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Convertir SVGZ a BMP - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más | SVGZ">}}
 Un archivo con la extensión .svgz es una versión comprimida del archivo Scalable Vector Graphics (.SVG). Está comprimido con compresión gzip y contiene datos en formato XML. Los archivos SVGZ admiten transparencia, degradados, animaciones y filtros. Los archivos SVGZ son más pequeños en comparación con los archivos SVG predeterminados y este tamaño de archivo reducido ayuda a transferir los archivos gráficos en línea. El diseñador de gráficos crea archivos SVGZ utilizando herramientas como Adobe Illustrator, Corel PaintShop Pro y otras. Sin embargo, los archivos SVGZ se pueden generar habilitando la compresión GZip en el servidor Apache mientras se envían los datos de la imagen.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más | BMP">}}
 Los archivos que tienen la extensión .BMP representan archivos de imagen de mapa de bits que se utilizan para almacenar imágenes digitales de mapa de bits. Estas imágenes son independientes del adaptador de gráficos y también se denominan formato de archivo de mapa de bits independiente del dispositivo (DIB). Esta independencia sirve para abrir el archivo en múltiples plataformas, como Microsoft Windows y Mac. El formato de archivo BMP puede almacenar datos como imágenes digitales bidimensionales tanto en formato monocromático como en color con varias profundidades de color.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

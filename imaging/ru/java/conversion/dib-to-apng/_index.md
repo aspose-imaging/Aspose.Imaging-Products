@@ -75,16 +75,6 @@ description: Пример кода для преобразования DIB в AP
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Преобразование DIB в APNG - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Бесплатное приложение для конвертации DIB в APNG"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Пример кода для преобразования DIB в AP
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ru/conversion/DIB-to-APNG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Преобразование DIB в APNG - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее | DIB">}}
 Файл DIB (Device Independent Bitmap) — это файл растрового изображения, структура которого аналогична стандартным файлам Bitmap (BMP), но имеет другой заголовок. Его можно открыть практически всеми приложениями, которые могут открывать стандартный файл BMP как в Windows, так и в macOS. DIB являются двоичными файлами и имеют сложный формат файла, аналогичный BMP.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее | APNG">}}
 Файл с расширением .apng (Animated Portable Network Graphics) представляет собой растровый графический формат и является неофициальным расширением Portable Network Graphics (PNG). Он состоит из нескольких кадров (каждый из изображений PNG), которые представляют последовательность анимации. Это дает визуализацию, аналогичную файлу GIF. Файлы APNG поддерживают 24-битные изображения и 8-битную прозрачность. APNG обратно совместим с неанимированными файлами GIF. Файлы APNG используют то же расширение .png и могут открываться такими приложениями, как Mozilla Firefox, Chrome с поддержкой APNG, приложениями iMessage для iOS 10.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

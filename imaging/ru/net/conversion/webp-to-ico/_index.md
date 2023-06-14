@@ -64,16 +64,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Преобразование WEBP в ICO - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Бесплатное приложение для конвертации WEBP в ICO"
         appName="Conversion"
@@ -85,13 +75,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ru/conversion/WEBP-to-ICO)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Преобразование WEBP в ICO - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее | WEBP">}}
 WebP, представленный Google, представляет собой современный формат файлов растровых веб-изображений, основанный на сжатии без потерь и с потерями. Он обеспечивает такое же качество изображения при значительном уменьшении размера изображения. Поскольку большинство веб-страниц используют изображения в качестве эффективного представления данных, использование изображений WebP на веб-страницах приводит к более быстрой загрузке веб-страниц. По данным Google, изображения WebP без потерь на 26% меньше по размеру по сравнению с PNG, а изображения WebP с потерями на 25-34% меньше, чем сопоставимые изображения JPEG. Изображения сравниваются на основе индекса структурного сходства (SSIM) между WebP и другими форматами файлов изображений. WebP — это родственный проект формата мультимедийных контейнеров WebM.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее | ICO">}}
 Формат файла ICO — это формат файла изображения для компьютерных значков в Microsoft Windows. Файлы ICO содержат одно или несколько небольших изображений разного размера и глубины цвета, чтобы их можно было соответствующим образом масштабировать. В Windows все исполняемые файлы, отображающие значок для пользователя на рабочем столе, в меню «Пуск» или в проводнике Windows, должны иметь значок в формате ICO.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

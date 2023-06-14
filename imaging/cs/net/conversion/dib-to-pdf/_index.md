@@ -63,16 +63,6 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Převést DIB na PDF – .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Bezplatná aplikace pro převod DIB na PDF"
         appName="Conversion"
@@ -84,13 +74,21 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DIB-to-PDF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Převést DIB na PDF – .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více | DIB">}}
 Soubor DIB (Device Independent Bitmap) je soubor rastrového obrázku, který má podobnou strukturu jako standardní bitmapové soubory (BMP), ale má jiné záhlaví. Lze jej otevřít téměř všemi aplikacemi, které dokážou otevřít standardní soubor BMP ve Windows i macOS. DIB jsou binární soubory a mají složitý formát souborů podobný BMP.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více | PDF">}}
 Portable Document Format (PDF) je typ dokumentu vytvořený společností Adobe již v 90. letech minulého století. Účelem tohoto formátu souboru bylo zavést standard pro reprezentaci dokumentů a dalších referenčních materiálů ve formátu, který je nezávislý na aplikačním softwaru, hardwaru i operačním systému. Formát souboru PDF má plnou schopnost obsahovat informace jako text, obrázky, hypertextové odkazy, pole formuláře, multimédia, digitální podpisy, přílohy, metadata, geoprostorové prvky a 3D objekty, které se mohou stát součástí zdrojového dokumentu.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -75,16 +75,6 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertiere DJVU in J2K - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Kostenlose App zum Konvertieren von DJVU in J2K"
         appName="Conversion"
@@ -96,13 +86,21 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/de/conversion/DJVU-to-J2K)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertiere DJVU in J2K - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen | DJVU">}}
 DjVu, ausgesprochen als DJVU, ist ein Grafikdateiformat, das für gescannte Dokumente und Bücher gedacht ist, insbesondere für solche, die eine Kombination aus Text, Zeichnungen, Bildern und Fotos enthalten. Es wurde von AT&T Labs entwickelt. Es verwendet mehrere Techniken wie Bildebenentrennung von Text und Hintergrundbildern, progressives Laden, arithmetische Codierung und verlustbehaftete Komprimierung für bitonale Bilder. Da die DJVU-Datei komprimierte, aber qualitativ hochwertige Farbbilder, Fotos, Texte und Zeichnungen enthalten kann und daher auf weniger Platz gespeichert werden kann, wird sie im Internet als eBooks, Handbücher, Zeitungen, alte Dokumente usw. verwendet.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen | J2K">}}
 Eine J2K-Datei ist ein Bild, das mit der Wavelet-Komprimierung anstelle der DCT-Komprimierung komprimiert wird.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

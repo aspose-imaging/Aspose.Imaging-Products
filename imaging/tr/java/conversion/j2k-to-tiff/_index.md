@@ -75,16 +75,6 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="J2K öğesini TIFF - Java biçimine dönüştürün" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="J2K'i TIFF'e Dönüştürmek için Ücretsiz Uygulama"
         appName="Conversion"
@@ -96,13 +86,21 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/tr/conversion/J2K-to-TIFF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="J2K öğesini TIFF - Java biçimine dönüştürün" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | J2K">}}
 J2K dosyası, DCT sıkıştırması yerine dalgacık sıkıştırması kullanılarak sıkıştırılmış bir görüntüdür.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | TIFF">}}
 TIFF veya TIF, Etiketli Görüntü Dosyası Biçimi, bu dosya biçimi standardına uyan çeşitli aygıtlarda kullanılması amaçlanan taramalı görüntüleri temsil eder. Çeşitli renk uzaylarında çift düzeyli, gri tonlamalı, palet renkli ve tam renkli görüntü verilerini tanımlama yeteneğine sahiptir. Formatı kullanan uygulamalar için alan ve zaman arasında seçim yapmak için kayıplı ve kayıpsız sıkıştırma şemalarını destekler. Format genişletilebilir ve sınırsız miktarda özel veya özel amaçlı bilginin dahil edilmesine izin veren birkaç revizyondan geçmiştir. Biçim makineye bağımlı değildir ve işlemci, işletim sistemi veya dosya sistemleri gibi sınırlardan muaftır.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

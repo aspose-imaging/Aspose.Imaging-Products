@@ -75,16 +75,6 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Chuyển đổi J2K thành EMF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Ứng dụng miễn phí để chuyển đổi J2K thành EMF"
         appName="Conversion"
@@ -96,13 +86,21 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/vi/conversion/J2K-to-EMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Chuyển đổi J2K thành EMF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm | J2K">}}
 Tệp J2K là hình ảnh được nén bằng cách sử dụng nén wavelet thay vì nén DCT.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm | EMF">}}
 Định dạng metafile nâng cao (EMF) lưu trữ hình ảnh đồ họa độc lập với thiết bị. Siêu tệp EMF bao gồm các bản ghi có độ dài thay đổi theo thứ tự thời gian có thể hiển thị hình ảnh được lưu trữ sau khi phân tích cú pháp trên bất kỳ thiết bị đầu ra nào. Các bản ghi có độ dài thay đổi này có thể là định nghĩa của các đối tượng kèm theo, các lệnh để vẽ và các thuộc tính đồ họa quan trọng để hiển thị hình ảnh một cách chính xác. Khi một thiết bị mở siêu tệp EMF bằng cách sử dụng môi trường đồ họa của riêng nó, tỷ lệ, kích thước, màu sắc và các thuộc tính đồ họa khác của hình ảnh gốc vẫn giữ nguyên bất kể nền tảng thiết bị đang mở.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

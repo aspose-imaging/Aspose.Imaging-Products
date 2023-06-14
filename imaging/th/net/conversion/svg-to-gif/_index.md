@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="แปลง SVG เป็น GIF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="แอปฟรีเพื่อแปลง SVG เป็น GIF"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/SVG-to-GIF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="แปลง SVG เป็น GIF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | SVG">}}
 ไฟล์ SVG เป็นไฟล์กราฟิกแบบเวกเตอร์ที่ปรับขนาดได้ซึ่งใช้รูปแบบข้อความแบบ XML เพื่ออธิบายลักษณะที่ปรากฏของรูปภาพ คำว่า Scalable หมายถึงความจริงที่ว่า SVG สามารถปรับขนาดเป็นขนาดต่างๆ ได้โดยไม่สูญเสียคุณภาพใดๆ คำอธิบายตามข้อความของไฟล์ดังกล่าวทำให้ไม่ขึ้นกับความละเอียด เป็นรูปแบบหนึ่งที่ใช้กันมากที่สุดในการสร้างเว็บไซต์และพิมพ์กราฟิกเพื่อให้ได้ความสามารถในการปรับขนาด รูปแบบสามารถใช้ได้กับกราฟิกสองมิติเท่านั้น ไฟล์ SVG สามารถดู/เปิดได้ในเบราว์เซอร์สมัยใหม่เกือบทั้งหมด รวมถึง Chrome, Internet Explorer, Firefox และ Safari
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | GIF">}}
 รูปแบบ GIF หรือ Graphical Interchange เป็นประเภทรูปภาพที่มีการบีบอัดสูง Unisys เป็นเจ้าของ GIF ใช้อัลกอริธึมการบีบอัด LZW ที่ไม่ลดคุณภาพของภาพ สำหรับแต่ละภาพ โดยทั่วไปแล้ว GIF อนุญาตให้ใช้ได้ถึง 8 บิตต่อพิกเซล และอนุญาตให้ใช้สีได้สูงสุด 256 สีทั่วทั้งภาพ ตรงกันข้ามกับภาพ JPEG ที่สามารถแสดงสีได้มากถึง 16 ล้านสีและสัมผัสได้ถึงขีดจำกัดของสายตามนุษย์ ย้อนกลับไปเมื่ออินเทอร์เน็ตปรากฏขึ้น GIF ยังคงเป็นตัวเลือกที่ดีที่สุด เนื่องจากต้องใช้แบนด์วิดท์ต่ำและเข้ากันได้กับกราฟิกที่ใช้พื้นที่สีทึบ GIF แบบเคลื่อนไหวจะรวมรูปภาพหรือเฟรมจำนวนมากเป็นไฟล์เดียว และแสดงตามลำดับเพื่อสร้างคลิปภาพเคลื่อนไหวหรือวิดีโอสั้น ข้อจำกัดสีสูงสุด 256 สำหรับแต่ละเฟรม และมีแนวโน้มว่าจะเหมาะสมน้อยที่สุดสำหรับการสร้างภาพอื่นๆ และภาพถ่ายที่มีการไล่ระดับสี
         {{< /blocks/products/pf/agp/about-file-text >}}
 

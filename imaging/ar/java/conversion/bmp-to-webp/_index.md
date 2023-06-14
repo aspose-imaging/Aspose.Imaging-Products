@@ -75,16 +75,6 @@ description: نموذج رمز لـ BMP إلى WEBP تحويل Java. استخد�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="تحويل BMP إلى WEBP - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="تطبيق مجاني لتحويل BMP إلى WEBP"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: نموذج رمز لـ BMP إلى WEBP تحويل Java. استخد�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/BMP-to-WEBP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="تحويل BMP إلى WEBP - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | BMP">}}
 الملفات ذات الامتداد .BMP تمثل ملفات الصور النقطية المستخدمة لتخزين الصور الرقمية للصور النقطية. هذه الصور مستقلة عن محول الرسومات وتسمى أيضًا تنسيق ملف الصورة النقطية المستقلة عن الجهاز (DIB). يخدم هذا الاستقلال غرض فتح الملف على منصات متعددة مثل Microsoft Windows و Mac. يمكن لملف BMP تخزين البيانات كصور رقمية ثنائية الأبعاد بتنسيق أحادي اللون بالإضافة إلى تنسيق الألوان بأعماق ألوان مختلفة.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | WEBP">}}
 WebP ، الذي قدمته Google ، هو تنسيق حديث لملف صور الويب النقطية يعتمد على ضغط بدون فقد وفقدان. إنه يوفر نفس جودة الصورة مع تقليل حجم الصورة بشكل كبير. نظرًا لأن معظم صفحات الويب تستخدم الصور كتمثيل فعال للبيانات ، فإن استخدام صور WebP في صفحات الويب ينتج عنه تحميل أسرع لصفحات الويب. وفقًا لـ Google ، تكون صور WebP غير المفقودة أصغر حجمًا بنسبة 26٪ مقارنة بصور PNG ، في حين أن صور WebP المفقودة أصغر بنسبة 25-34٪ من صور JPEG المماثلة. تتم مقارنة الصور بناءً على فهرس التشابه الهيكلي (SSIM) بين WebP وتنسيقات ملفات الصور الأخرى. يعد WebP مشروعًا شقيقًا لتنسيق حاوية الوسائط المتعددة WebM.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

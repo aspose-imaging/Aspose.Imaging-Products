@@ -75,16 +75,6 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Převést DIB na WMZ – Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Bezplatná aplikace pro převod DIB na WMZ"
         appName="Conversion"
@@ -96,13 +86,21 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DIB-to-WMZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Převést DIB na WMZ – Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více | DIB">}}
 Soubor DIB (Device Independent Bitmap) je soubor rastrového obrázku, který má podobnou strukturu jako standardní bitmapové soubory (BMP), ale má jiné záhlaví. Lze jej otevřít téměř všemi aplikacemi, které dokážou otevřít standardní soubor BMP ve Windows i macOS. DIB jsou binární soubory a mají složitý formát souborů podobný BMP.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více | WMZ">}}
 WMZ je přípona souboru pro formát souboru skinu v/pro/používaný Windows Media Player. Soubor WMZ je v podstatě zazipovaný soubor WMF ve formátu XML.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

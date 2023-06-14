@@ -62,16 +62,6 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Chuyển đổi ODG thành CANVAS - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Ứng dụng miễn phí để chuyển đổi ODG thành CANVAS"
         appName="Conversion"
@@ -83,13 +73,21 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/vi/conversion/ODG-to-CANVAS)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Chuyển đổi ODG thành CANVAS - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm | ODG">}}
 Định dạng tệp ODG được ứng dụng Draw của Apache OpenOffice sử dụng để lưu trữ các phần tử bản vẽ dưới dạng hình ảnh vectơ. Nó tuân theo các đặc tả định dạng tệp dựa trên XML được nêu ra bởi Sự Tiến bộ của Tiêu chuẩn Thông tin Cấu trúc (OASIS). ODG biểu diễn bản vẽ dưới dạng hình ảnh vectơ sử dụng các điểm, đường thẳng và đường cong. Bên cạnh OpenOffice, LibreOffice và các ứng dụng khác cũng cung cấp hỗ trợ làm việc với định dạng tệp ODG. Các định dạng khác được OpenOffice hỗ trợ, chẳng hạn, bao gồm ODT, ODF, ODP và ODS.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CANVAS" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CANVAS" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm | CANVAS">}}
 HTML (Hyper Text Markup Language) là phần mở rộng cho các trang web được tạo để hiển thị trong trình duyệt. Được biết đến như là ngôn ngữ của web, HTML đã phát triển với các yêu cầu về yêu cầu thông tin mới để được hiển thị như một phần của các trang web. Biến thể mới nhất được gọi là HTML 5 mang lại nhiều sự linh hoạt cho việc làm việc với ngôn ngữ này. Các trang HTML hoặc được nhận từ máy chủ, nơi chúng được lưu trữ hoặc cũng có thể được tải từ hệ thống cục bộ. Mỗi trang HTML được tạo thành từ các phần tử HTML như biểu mẫu, văn bản, hình ảnh, hoạt ảnh, liên kết, v.v. Những phần tử này được biểu thị bằng các thẻ như img, a, p và một số thẻ khác trong đó mỗi thẻ có bắt đầu và kết thúc. Nó cũng có thể nhúng các ứng dụng được viết bằng ngôn ngữ script như JavaScript và Style Sheets (CSS) để trình bày bố cục tổng thể.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

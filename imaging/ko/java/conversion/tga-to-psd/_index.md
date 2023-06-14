@@ -75,16 +75,6 @@ TGA을 PSD로 변환하려면 다음을 사용합니다. [자바용 Aspose.Imagi
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="TGA을 PSD로 변환 - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="TGA을 PSD로 변환하는 무료 앱"
         appName="Conversion"
@@ -96,13 +86,21 @@ TGA을 PSD로 변환하려면 다음을 사용합니다. [자바용 Aspose.Imagi
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ko/conversion/TGA-to-PSD)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="TGA을 PSD로 변환 - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | TGA">}}
 TARGA라고도 하는 Truevision TGA는 Truevision Inc.(현재 Avid Technology의 일부)에서 만든 래스터 그래픽 파일 형식입니다. TARGA 및 VISTA 보드의 기본 형식으로, IBM 호환 PC용으로 Highcolor/truecolor 디스플레이를 지원하는 최초의 그래픽 카드였습니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | PSD">}}
 PSD, Photoshop Document는 그래픽 디자인 및 개발에 사용되는 Adobe Photoshop의 기본 파일 형식을 나타냅니다. PSD 파일에는 이미지 레이어, 조정 레이어, 레이어 마스크, 주석, 파일 정보, 키워드 및 기타 Photoshop 관련 요소가 포함될 수 있습니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

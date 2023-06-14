@@ -75,16 +75,6 @@ description: Пример кода для преобразования WMZ в J2
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Преобразование WMZ в J2K - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Бесплатное приложение для конвертации WMZ в J2K"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Пример кода для преобразования WMZ в J2
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ru/conversion/WMZ-to-J2K)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Преобразование WMZ в J2K - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее | WMZ">}}
 WMZ — это расширение файла для формата файла скина в/для/используемого проигрывателем Windows Media. Файл WMZ представляет собой заархивированный файл WMF в формате XML.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее | J2K">}}
 Файл J2K представляет собой изображение, сжатое с использованием вейвлет-сжатия вместо сжатия DCT.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

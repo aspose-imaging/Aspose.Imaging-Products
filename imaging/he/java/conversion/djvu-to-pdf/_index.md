@@ -75,16 +75,6 @@ description: קוד לדוגמה עבור המרת Java מ-DJVU ל-PDF. השתמ
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="המר את DJVU ל-PDF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="אפליקציה חינמית להמרת DJVU ל-PDF"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: קוד לדוגמה עבור המרת Java מ-DJVU ל-PDF. השתמ
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DJVU-to-PDF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="המר את DJVU ל-PDF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | DJVU">}}
 DjVu, מבוטא בשם DJVU, הוא פורמט קובץ גרפי המיועד למסמכים וספרים סרוקים במיוחד אלה המכילים שילוב של טקסט, ציורים, תמונות ותצלומים. זה פותח על ידי AT&T Labs. הוא משתמש בטכניקות מרובות כמו הפרדת שכבות תמונה של תמונות טקסט ותמונות רקע, טעינה מתקדמת, קידוד אריתמטי ודחיסה מאבדת עבור תמונות ביטונליות. מכיוון שקובץ DJVU יכול להכיל תמונות צבעוניות דחוסות אך באיכות גבוהה, תצלומים, טקסט וציורים וניתן לשמור אותו בפחות מקום ולכן, הוא משמש באינטרנט כספרים אלקטרוניים, מדריכים, עיתונים, מסמכים עתיקים וכו'.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | PDF">}}
 פורמט מסמכים ניידים (PDF) הוא סוג של מסמך שנוצר על ידי Adobe עוד בשנות ה-90. מטרת פורמט קובץ זה הייתה להציג תקן לייצוג של מסמכים וחומרי עזר אחרים בפורמט שאינו תלוי בתוכנת יישום, חומרה ומערכת הפעלה. לפורמט קובץ ה-PDF יש יכולת מלאה להכיל מידע כמו טקסט, תמונות, היפר-קישורים, שדות טופס, מדיה עשירה, חתימות דיגיטליות, קבצים מצורפים, מטא נתונים, תכונות גיאו-מרחביות ואובייקטים תלת-ממדיים, שיכולים להפוך לחלק ממסמך המקור.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

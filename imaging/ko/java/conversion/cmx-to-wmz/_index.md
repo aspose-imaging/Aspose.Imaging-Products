@@ -75,16 +75,6 @@ CMX을 WMZ로 변환하려면 다음을 사용합니다. [자바용 Aspose.Imagi
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="CMX을 WMZ로 변환 - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="CMX을 WMZ로 변환하는 무료 앱"
         appName="Conversion"
@@ -96,13 +86,21 @@ CMX을 WMZ로 변환하려면 다음을 사용합니다. [자바용 Aspose.Imagi
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ko/conversion/CMX-to-WMZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="CMX을 WMZ로 변환 - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | CMX">}}
 CMX 확장자를 가진 파일은 CorelSuite 응용 프로그램에서 프레젠테이션으로 사용되는 Corel Exchange 이미지 파일 형식입니다. 여기에는 이미지를 설명하는 메타데이터뿐만 아니라 벡터 그래픽으로 이미지 데이터가 포함됩니다. CMX 파일은 CorelDraw, Corel Presentations, Paint Shop Pro 및 일부 Adobe Illustrator 버전에서 열 수 있습니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | WMZ">}}
 WMZ는 Windows Media Player에서 사용되는 스킨 파일 형식의 파일 확장자입니다. WMZ 파일은 기본적으로 XML로 압축된 WMF 파일입니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -75,16 +75,6 @@ description: קוד לדוגמה עבור המרת Java מ-J2K ל-TGA. השתמ�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="המר את J2K ל-TGA - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="אפליקציה חינמית להמרת J2K ל-TGA"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: קוד לדוגמה עבור המרת Java מ-J2K ל-TGA. השתמ�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/J2K-to-TGA)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="המר את J2K ל-TGA - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | J2K">}}
 קובץ J2K הוא תמונה שנדחסת באמצעות דחיסת wavelet במקום דחיסת DCT.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | TGA">}}
 Truevision TGA, המכונה לעתים קרובות TARGA, הוא פורמט קובץ גרפי רסטר שנוצר על ידי Truevision Inc. (כיום חלק מ-Avid Technology). זה היה הפורמט המקורי של לוחות TARGA ו-VISTA, שהיו הכרטיסים הגרפיים הראשונים למחשבים תואמי IBM שתמכו בתצוגה Highcolor/Truecolor.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

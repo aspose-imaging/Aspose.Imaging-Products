@@ -64,16 +64,6 @@ Avant d'exécuter l'exemple de code de conversion, assurez-vous que vous dispose
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convertir CMX en PNG - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Application gratuite pour convertir CMX en PNG"
         appName="Conversion"
@@ -85,13 +75,21 @@ Avant d'exécuter l'exemple de code de conversion, assurez-vous que vous dispose
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/fr/conversion/CMX-to-PNG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Convertir CMX en PNG - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite | CMX">}}
 Les fichiers avec l'extension CMX sont au format de fichier image Corel Exchange utilisé comme présentation par les applications CorelSuite. Il contient des données d'image sous forme de graphiques vectoriels ainsi que des métadonnées qui décrivent l'image. Les fichiers CMX peuvent être ouverts par CorelDraw, Corel Presentations, Paint Shop Pro et certaines versions d'Adobe Illustrator.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite | PNG">}}
 PNG, Portable Network Graphics, fait référence à un type de format de fichier d'image raster qui utilise une compression sans perte. Ce format de fichier a été créé en remplacement du Graphics Interchange Format (GIF) et n'a aucune limitation de copyright. Cependant, le format de fichier PNG ne prend pas en charge les animations. Le format de fichier PNG prend en charge la compression d'image sans perte, ce qui le rend populaire parmi ses utilisateurs. Au fil du temps, PNG est devenu l'un des formats de fichier image les plus utilisés. Presque tous les systèmes d'exploitation prennent en charge l'ouverture des fichiers PNG. Par exemple, la visionneuse Microsoft Windows a la capacité d'ouvrir les fichiers PNG car le système d'exploitation dispose par défaut de la prise en charge disponible dans le cadre de l'installation.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="แปลง EPS เป็น PNG - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="แอปฟรีเพื่อแปลง EPS เป็น PNG"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/EPS-to-PNG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="แปลง EPS เป็น PNG - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | EPS">}}
 ไฟล์ที่มีนามสกุล EPS จะอธิบายโปรแกรมภาษา PostScript แบบห่อหุ้มที่อธิบายลักษณะที่ปรากฏของหน้าเดียว ชื่อ "Encapsulated" เนื่องจากสามารถรวมหรือห่อหุ้มไว้ในคำอธิบายหน้าภาษา PostScript อื่นได้ รูปแบบไฟล์ที่ใช้สคริปต์นี้อาจมีข้อความ กราฟิก และรูปภาพผสมกัน ไฟล์ EPS อาจมีภาพตัวอย่างบิตแมปที่ห่อหุ้มไว้ด้านในเพื่อแสดงโดยแอปพลิเคชันที่สามารถเปิดไฟล์ดังกล่าวได้ ไฟล์ EPS สามารถแปลงเป็นรูปแบบภาพมาตรฐานได้ เช่น JPG, PNG, TIFF และ PDF โดยใช้แอปพลิเคชันต่างๆ เช่น Adobe Illustrator, Photoshop และ PaintShop Pro เนื่องจากช่องโหว่ด้านความปลอดภัยในไฟล์ EPS Office 2016, Office 2013, Office 2010 และ Office 365 ได้ปิดความสามารถในการแทรกไฟล์ EPS ลงในเอกสาร Office
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | PNG">}}
 PNG หรือ Portable Network Graphics หมายถึงรูปแบบไฟล์ภาพแรสเตอร์ชนิดหนึ่งที่ใช้การบีบอัดแบบไม่สูญเสียข้อมูล รูปแบบไฟล์นี้สร้างขึ้นแทน Graphics Interchange Format (GIF) และไม่มีข้อจำกัดด้านลิขสิทธิ์ อย่างไรก็ตาม รูปแบบไฟล์ PNG ไม่รองรับภาพเคลื่อนไหว รูปแบบไฟล์ PNG รองรับการบีบอัดภาพแบบไม่สูญเสียซึ่งทำให้เป็นที่นิยมในหมู่ผู้ใช้ เมื่อเวลาผ่านไป PNG ได้พัฒนาให้เป็นหนึ่งในรูปแบบไฟล์รูปภาพที่ใช้เป็นส่วนใหญ่ ระบบปฏิบัติการเกือบทั้งหมดรองรับการเปิดไฟล์ PNG ตัวอย่างเช่น โปรแกรมแสดง Microsoft Windows มีความสามารถในการเปิดไฟล์ PNG เนื่องจากระบบปฏิบัติการมีการสนับสนุนโดยค่าเริ่มต้นซึ่งเป็นส่วนหนึ่งของการติดตั้ง
         {{< /blocks/products/pf/agp/about-file-text >}}
 

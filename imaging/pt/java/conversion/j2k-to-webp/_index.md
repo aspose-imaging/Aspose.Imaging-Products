@@ -75,16 +75,6 @@ Antes de executar o código de exemplo de conversão, verifique se você tem os 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Converter {Formato1} para {Formato2} - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Aplicativo gratuito para converter J2K para WEBP"
         appName="Conversion"
@@ -96,13 +86,21 @@ Antes de executar o código de exemplo de conversão, verifique se você tem os 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/pt/conversion/J2K-to-WEBP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Converter {Formato1} para {Formato2} - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação | J2K">}}
 Um arquivo J2K é uma imagem compactada usando a compactação wavelet em vez da compactação DCT.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação | WEBP">}}
 O WebP, introduzido pelo Google, é um formato de arquivo de imagem da Web raster moderno baseado em compactação sem perdas e com perdas. Ele fornece a mesma qualidade de imagem enquanto reduz consideravelmente o tamanho da imagem. Como a maioria das páginas da web usa imagens como representação efetiva de dados, o uso de imagens WebP em páginas da web resulta em carregamento mais rápido das páginas da web. De acordo com o Google, as imagens sem perdas do WebP são 26% menores em tamanho em comparação com os PNGs, enquanto as imagens com perdas do WebP são 25-34% menores do que as imagens JPEG comparáveis. As imagens são comparadas com base no índice de semelhança estrutural (SSIM) entre o WebP e outros formatos de arquivo de imagem. WebP é um projeto irmão do formato de contêiner multimídia WebM.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

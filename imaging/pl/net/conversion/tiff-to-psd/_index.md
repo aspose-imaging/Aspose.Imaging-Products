@@ -64,16 +64,6 @@ Przed uruchomieniem przykładowego kodu konwersji upewnij się, że masz następ
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konwertuj TIFF na PSD - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Darmowa aplikacja do konwersji TIFF na PSD"
         appName="Conversion"
@@ -85,13 +75,21 @@ Przed uruchomieniem przykładowego kodu konwersji upewnij się, że masz następ
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/pl/conversion/TIFF-to-PSD)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konwertuj TIFF na PSD - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej | TIFF">}}
 TIFF lub TIF, Tagged Image File Format, reprezentuje obrazy rastrowe przeznaczone do użytku na różnych urządzeniach zgodnych z tym standardem formatu plików. Jest w stanie opisać dane obrazu dwupoziomowego, w skali szarości, w palecie kolorów i w pełnym kolorze w kilku przestrzeniach kolorów. Obsługuje stratne i bezstratne schematy kompresji, aby wybrać między przestrzenią a czasem dla aplikacji korzystających z formatu. Format jest rozszerzalny i przeszedł kilka zmian, które umożliwiają włączenie nieograniczonej ilości informacji prywatnych lub informacji specjalnego przeznaczenia. Format nie jest zależny od komputera i nie zawiera ograniczeń, takich jak procesor, system operacyjny lub systemy plików.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej | PSD">}}
 PSD, Photoshop Document, reprezentuje natywny format plików Adobe Photoshop używany do projektowania i tworzenia grafiki. Pliki PSD mogą zawierać warstwy obrazu, warstwy dopasowania, maski warstw, adnotacje, informacje o plikach, słowa kluczowe i inne elementy charakterystyczne dla programu Photoshop.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

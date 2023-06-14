@@ -75,16 +75,6 @@ description: Пример кода для преобразования WEBP в A
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Преобразование WEBP в APNG - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Бесплатное приложение для конвертации WEBP в APNG"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Пример кода для преобразования WEBP в A
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ru/conversion/WEBP-to-APNG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Преобразование WEBP в APNG - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее | WEBP">}}
 WebP, представленный Google, представляет собой современный формат файлов растровых веб-изображений, основанный на сжатии без потерь и с потерями. Он обеспечивает такое же качество изображения при значительном уменьшении размера изображения. Поскольку большинство веб-страниц используют изображения в качестве эффективного представления данных, использование изображений WebP на веб-страницах приводит к более быстрой загрузке веб-страниц. По данным Google, изображения WebP без потерь на 26% меньше по размеру по сравнению с PNG, а изображения WebP с потерями на 25-34% меньше, чем сопоставимые изображения JPEG. Изображения сравниваются на основе индекса структурного сходства (SSIM) между WebP и другими форматами файлов изображений. WebP — это родственный проект формата мультимедийных контейнеров WebM.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее | APNG">}}
 Файл с расширением .apng (Animated Portable Network Graphics) представляет собой растровый графический формат и является неофициальным расширением Portable Network Graphics (PNG). Он состоит из нескольких кадров (каждый из изображений PNG), которые представляют последовательность анимации. Это дает визуализацию, аналогичную файлу GIF. Файлы APNG поддерживают 24-битные изображения и 8-битную прозрачность. APNG обратно совместим с неанимированными файлами GIF. Файлы APNG используют то же расширение .png и могут открываться такими приложениями, как Mozilla Firefox, Chrome с поддержкой APNG, приложениями iMessage для iOS 10.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

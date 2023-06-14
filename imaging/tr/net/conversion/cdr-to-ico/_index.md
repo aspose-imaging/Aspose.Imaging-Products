@@ -62,16 +62,6 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="CDR öğesini ICO - .NET biçimine dönüştürün" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="CDR'i ICO'e Dönüştürmek için Ücretsiz Uygulama"
         appName="Conversion"
@@ -83,13 +73,21 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/tr/conversion/CDR-to-ICO)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="CDR öğesini ICO - .NET biçimine dönüştürün" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | CDR">}}
 CDR dosyası, kodlanmış ve sıkıştırılmış dijital görüntüyü depolamak için CorelDRAW ile yerel olarak oluşturulan bir vektör çizim görüntü dosyasıdır. Böyle bir çizim dosyası, görüntü içeriğinin vektör temsili için metin, çizgiler, şekiller, görüntüler, renkler ve efektler içerir. CDR dosyaları birincil uygulama olarak CorelDRAW ile açılabilir ve ayrıca PDF, JPG, PNG, BMP ve AI gibi diğer biçimlere dönüştürülebilir. Broşürler, magazin dergileri, zarflar ve kartpostallar gibi çeşitli grafik verilerinin gösterimi için kullanılabilir. CorelDRAW'ın yanı sıra Corel Paintshop Pro ve CorelDRAW Graphics paketi gibi diğer Corel ürünleri de CDR dosya biçimlerini açabilir.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | ICO">}}
 ICO dosya biçimi, Microsoft Windows'taki bilgisayar simgeleri için bir görüntü dosyası biçimidir. ICO dosyaları, uygun şekilde ölçeklendirilebilmeleri için birden fazla boyutta ve renk derinliğinde bir veya daha fazla küçük resim içerir. Windows'ta, masaüstünde, Başlat Menüsü'nde veya Windows Gezgini'nde kullanıcıya bir simge görüntüleyen tüm yürütülebilir dosyalar, simgeyi ICO biçiminde taşımalıdır.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -62,16 +62,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="將 TGA 轉換為 DXF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="將 TGA 轉換為 DXF 的免費應用程序"
         appName="Conversion"
@@ -83,13 +73,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hant/conversion/TGA-to-DXF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="將 TGA 轉換為 DXF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | TGA">}}
 Truevision TGA，通常稱為 TARGA，是由 Truevision Inc.（現為 Avid Technology 的一部分）創建的光柵圖形文件格式。它是 TARGA 和 VISTA 板的原生格式，它們是 IBM 兼容 PC 上第一款支持高彩/真彩顯示的顯卡。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | DXF">}}
 DXF，即圖形交換格式，或圖形交換格式，是 AutoCAD 圖形文件的​​標記數據表示。文件中的每個元素都有一個前綴整數，稱為組代碼。該組代碼實際上表示後面的元素，並指示給定對像類型的數據元素的含義。 DXF 可以在圖形文件中表示幾乎所有用戶指定的信息。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

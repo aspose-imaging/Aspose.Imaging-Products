@@ -63,16 +63,6 @@ Innan du kör koden för konverteringsexempel, se till att du har följande för
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertera TGA till TIFF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Gratis app för att konvertera TGA till TIFF"
         appName="Conversion"
@@ -84,13 +74,21 @@ Innan du kör koden för konverteringsexempel, se till att du har följande för
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/TGA-to-TIFF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertera TGA till TIFF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer | TGA">}}
 Truevision TGA, ofta kallad TARGA, är ett rastergrafikfilformat skapat av Truevision Inc. (nu en del av Avid Technology). Det var det ursprungliga formatet för TARGA- och VISTA-kort, som var de första grafikkorten för IBM-kompatibla datorer som stödde Highcolor/Truecolor-skärm.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer | TIFF">}}
 TIFF eller TIF, Tagged Image File Format, representerar rasterbilder som är avsedda för användning på en mängd olika enheter som överensstämmer med denna filformatstandard. Den kan beskriva bilevel-, gråskala-, palett-färg- och fullfärgsbilddata i flera färgrymder. Den stöder såväl förlustfria som förlustfria komprimeringssystem för att välja mellan utrymme och tid för applikationer som använder formatet. Formatet är utbyggbart och har genomgått flera revisioner som gör det möjligt att inkludera en obegränsad mängd privat eller specialinformation. Formatet är inte maskinberoende och är fritt från gränser som processor, operativsystem eller filsystem.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -75,16 +75,6 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Převést SVG na ICO – Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Bezplatná aplikace pro převod SVG na ICO"
         appName="Conversion"
@@ -96,13 +86,21 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/SVG-to-ICO)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Převést SVG na ICO – Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více | SVG">}}
 Soubory SVG jsou soubory škálovatelné vektorové grafiky, které k popisu vzhledu obrázku používají textový formát založený na XML. Slovo Scalable odkazuje na skutečnost, že SVG lze škálovat na různé velikosti bez ztráty kvality. Textový popis těchto souborů je činí nezávislými na rozlišení. Je to jeden z nejčastěji používaných formátů pro tvorbu webových stránek a tiskové grafiky za účelem dosažení škálovatelnosti. Formát lze použít pouze pro dvourozměrnou grafiku. Soubory SVG lze prohlížet/otvírat téměř ve všech moderních prohlížečích včetně Chrome, Internet Explorer, Firefox a Safari.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více | ICO">}}
 Formát souboru ICO je formát souboru obrázků pro počítačové ikony v systému Microsoft Windows. Soubory ICO obsahují jeden nebo více malých obrázků v různých velikostech a barevných hloubkách, takže je lze vhodně škálovat. Ve Windows musí všechny spustitelné soubory, které uživateli zobrazují ikonu, na ploše, v nabídce Start nebo v Průzkumníku Windows, nést ikonu ve formátu ICO.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

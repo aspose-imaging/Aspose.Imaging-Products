@@ -62,16 +62,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="將 JPG 轉換為 TGA - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="將 JPG 轉換為 TGA 的免費應用程序"
         appName="Conversion"
@@ -83,13 +73,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hant/conversion/JPG-to-TGA)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="將 JPG 轉換為 TGA - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | JPG">}}
 JPEG 是一種使用有損壓縮方法保存的圖像格式。作為壓縮的結果，輸出圖像是存儲大小和圖像質量之間的權衡。用戶可以調整壓縮級別以達到所需的質量級別，同時減小存儲大小。如果對圖像應用 10:1 壓縮，則對圖像質量的影響可以忽略不計。壓縮值越高，圖像質量的劣化程度越高。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | TGA">}}
 Truevision TGA，通常稱為 TARGA，是由 Truevision Inc.（現為 Avid Technology 的一部分）創建的光柵圖形文件格式。它是 TARGA 和 VISTA 板的原生格式，它們是 IBM 兼容 PC 上第一款支持高彩/真彩顯示的顯卡。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

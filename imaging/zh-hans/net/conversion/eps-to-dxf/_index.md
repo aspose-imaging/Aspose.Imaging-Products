@@ -62,16 +62,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="将 EPS 转换为 DXF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="将 EPS 转换为 DXF 的免费应用程序"
         appName="Conversion"
@@ -83,13 +73,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hans/conversion/EPS-to-DXF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="将 EPS 转换为 DXF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | EPS">}}
 带有 EPS 扩展名的文件本质上描述了一个封装的 PostScript 语言程序，该程序描述了单个页面的外观。名称“封装”是因为它可以包含或封装在另一种 PostScript 语言页面描述中。这种基于脚本的文件格式可能包含文本、图形和图像的任意组合。 EPS 文件可能包含封装在内部的位图预览图像，以供可以打开此类文件的应用程序显示。可以使用不同的应用程序将 EPS 文件转换为标准图像格式，例如 JPG、PNG、TIFF 和 PDF。 Adobe Illustrator、Photoshop 和 PaintShop Pro。由于 EPS 文件中存在安全漏洞，Office 2016、Office 2013、Office 2010 和 Office 365 已关闭将 EPS 文件插入 Office 文档的功能。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | DXF">}}
 DXF，即图形交换格式，或图形交换格式，是 AutoCAD 图形文件的标记数据表示。文件中的每个元素都有一个前缀整数，称为组码。该组代码实际上表示后面的元素，并指示给定对象类型的数据元素的含义。 DXF 可以在图形文件中表示几乎所有用户指定的信息。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

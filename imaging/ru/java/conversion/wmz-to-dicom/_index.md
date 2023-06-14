@@ -75,16 +75,6 @@ description: Пример кода для преобразования WMZ в DI
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Преобразование WMZ в DICOM - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Бесплатное приложение для конвертации WMZ в DICOM"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Пример кода для преобразования WMZ в DI
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ru/conversion/WMZ-to-DICOM)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Преобразование WMZ в DICOM - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее | WMZ">}}
 WMZ — это расширение файла для формата файла скина в/для/используемого проигрывателем Windows Media. Файл WMZ представляет собой заархивированный файл WMF в формате XML.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее | DICOM">}}
 DICOM — это аббревиатура от Digital Imaging and Communications in Medicine, относящаяся к области медицинской информатики. DICOM — это комбинация определения формата файла и сетевого протокола связи. DICOM использует расширение .DCM. .DCM существует в двух разных форматах, то есть в формате 1.x и формате 2.x. Формат DCM 1.x также доступен в двух версиях: нормальной и расширенной. DICOM используется для интеграции медицинских устройств визуализации, таких как принтеры, серверы, сканеры и т. д., от различных поставщиков, а также содержит идентификационные данные каждого пациента для обеспечения уникальности. Файлы DICOM могут совместно использоваться двумя сторонами, если они способны получать данные изображения в формате DICOM. Коммуникационная часть DICOM представляет собой протокол прикладного уровня и использует TCP/IP для связи между объектами. Протоколы HTTP и HTTPS используются для веб-служб DICOM. Версии, поддерживаемые веб-службами: 1.0, 1.1, 2 или более поздние версии.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

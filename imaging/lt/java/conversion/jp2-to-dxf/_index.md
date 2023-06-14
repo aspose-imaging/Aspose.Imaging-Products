@@ -75,16 +75,6 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertuoti JP2 į DXF – Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Nemokama programa konvertuoti JP2 į DXF"
         appName="Conversion"
@@ -96,13 +86,21 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/lt/conversion/JP2-to-DXF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertuoti JP2 į DXF – Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau | JP2">}}
 JPEG 2000 (JP2) yra vaizdo kodavimo sistema ir pažangiausias vaizdo glaudinimo standartas. Sukurtas, naudojant banglečių technologiją, JPEG 2000 gali iš karto užkoduoti bet kokios kokybės turinį be nuostolių. Be to, be jokios didelės nuobaudos dėl kodavimo efektyvumo, JPEG 2000 turi galimybę pasiekti ir efektyviai iššifruoti tą patį turinį į daugybę kitų skiriamųjų gebų ir savybių. JPEG 2000 kodo srautai yra labai keičiami, nes yra dominančių regionų, kurie suteikia galimybę atsitiktinei erdvinei prieigai. Turi iki 16384 įvairių komponentų, kurių matmenys yra terapikseliais, o tikslumas gali siekti 38 bitus/pavyzdį.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau | DXF">}}
 DXF, Drawing Interchange Format arba Drawing Exchange Format, yra pažymėtas AutoCAD piešinio failo duomenų atvaizdas. Kiekvienas failo elementas turi sveikojo skaičiaus priešdėlį, vadinamą grupės kodu. Šis grupės kodas iš tikrųjų reiškia elementą, kuris seka ir nurodo duomenų elemento reikšmę tam tikram objekto tipui. DXF suteikia galimybę brėžinio faile pateikti beveik visą vartotojo nurodytą informaciją.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

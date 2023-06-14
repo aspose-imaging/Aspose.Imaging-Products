@@ -75,16 +75,6 @@ Innan du kör koden för konverteringsexempel, se till att du har följande för
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertera WEBP till SVGZ - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Gratis app för att konvertera WEBP till SVGZ"
         appName="Conversion"
@@ -96,13 +86,21 @@ Innan du kör koden för konverteringsexempel, se till att du har följande för
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/WEBP-to-SVGZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertera WEBP till SVGZ - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer | WEBP">}}
 WebP, introducerat av Google, är ett modernt rasterwebbbildsfilformat som är baserat på förlustfri och förlustfri komprimering. Den ger samma bildkvalitet samtidigt som den minskar bildstorleken avsevärt. Eftersom de flesta webbsidor använder bilder som effektiv representation av data, resulterar användningen av WebP-bilder på webbsidor i snabbare inläsning av webbsidor. Enligt Google är WebP-förlustfria bilder 26 % mindre i storlek jämfört med PNG-bilder, medan WebP-förlustfria bilder är 25-34 % mindre än jämförbara JPEG-bilder. Bilder jämförs baserat på SSIM-indexet (Structural Similarity) mellan WebP och andra bildfilformat. WebP är ett systerprojekt av WebM multimediacontainerformat.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer | SVGZ">}}
 En fil med filtillägget .svgz är en komprimerad version av filen Scalable Vector Graphics (.SVG). Den är komprimerad med gzip-komprimering och innehåller data i XML-format. SVGZ-filer stöder transparens, gradienter, animationer och filter. SVGZ-filer är mindre i storlek jämfört med standard SVG-filer och denna reducerade filstorlek hjälper till att överföra grafikfilerna online. Grafikdesigner skapar SVGZ-filer med hjälp av verktyg som Adobe Illustrator, Corel PaintShop Pro och andra. SVGZ-filer kan dock genereras genom att aktivera GZip-komprimering i Apache-servern medan bilddata skickas ut.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

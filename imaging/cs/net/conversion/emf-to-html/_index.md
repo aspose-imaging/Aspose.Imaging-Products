@@ -63,16 +63,6 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Převést EMF na HTML – .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Bezplatná aplikace pro převod EMF na HTML"
         appName="Conversion"
@@ -84,13 +74,21 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/EMF-to-HTML)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Převést EMF na HTML – .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více | EMF">}}
 Enhanced metafile format (EMF) ukládá grafické obrázky nezávisle na zařízení. Metasoubory EMF se skládají ze záznamů s proměnnou délkou v chronologickém pořadí, které mohou vykreslit uložený obraz po analýze na libovolném výstupním zařízení. Tyto záznamy s proměnnou délkou mohou být definice uzavřených objektů, příkazy pro kreslení a grafické vlastnosti, které jsou důležité pro přesné vykreslení obrazu. Když zařízení otevře metasoubor EMF pomocí vlastního grafického prostředí, proporce, rozměry, barvy a další grafické vlastnosti původního obrázku zůstanou stejné bez ohledu na platformu otevíracího zařízení.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více | HTML">}}
 HTML (Hyper Text Markup Language) je rozšíření pro webové stránky vytvořené pro zobrazení v prohlížečích. HTML, známé jako jazyk webu, se vyvinulo s požadavky na nové informace, které mají být zobrazeny jako součást webových stránek. Nejnovější varianta je známá jako HTML 5, která poskytuje velkou flexibilitu pro práci s jazykem. HTML stránky jsou buď přijímány ze serveru, kde jsou umístěny, nebo mohou být načteny z lokálního systému. Každá stránka HTML se skládá z prvků HTML, jako jsou formuláře, text, obrázky, animace, odkazy atd. Tyto prvky jsou reprezentovány značkami jako img, a, p a několika dalšími, kde každá značka má začátek a konec. Může také vkládat aplikace napsané ve skriptovacích jazycích, jako je JavaScript a styly (CSS), pro celkovou reprezentaci rozvržení.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

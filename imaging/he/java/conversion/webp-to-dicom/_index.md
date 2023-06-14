@@ -75,16 +75,6 @@ description: קוד לדוגמה עבור המרת Java מ-WEBP ל-DICOM. השת
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="המר את WEBP ל-DICOM - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="אפליקציה חינמית להמרת WEBP ל-DICOM"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: קוד לדוגמה עבור המרת Java מ-WEBP ל-DICOM. השת
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/WEBP-to-DICOM)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="המר את WEBP ל-DICOM - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | WEBP">}}
 WebP, שהוצגה על ידי גוגל, הוא פורמט קובץ תמונה אינטרנטי רסטר מודרני המבוסס על דחיסה נטולת אובדן והפסד. זה מספק את אותה איכות תמונה תוך הקטנה ניכרת של גודל התמונה. מכיוון שרוב דפי האינטרנט משתמשים בתמונות כייצוג יעיל של נתונים, השימוש בתמונות WebP בדפי אינטרנט מביא לטעינה מהירה יותר של דפי אינטרנט. לפי גוגל, תמונות ללא אובדן WebP קטנות ב-26% בהשוואה ל-PNG, בעוד שתמונות עם אובדן WebP קטנות ב-25-34% מתמונות JPEG דומות. השוואת התמונות מבוססת על אינדקס הדמיון המבני (SSIM) בין WebP לפורמטים אחרים של קבצי תמונה. WebP הוא פרויקט אחות של פורמט מיכל מולטימדיה של WebM.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | DICOM">}}
 DICOM הוא ראשי התיבות של Digital Imaging and Communications in Medicine ונוגע לתחום האינפורמטיקה הרפואית. DICOM הוא השילוב של הגדרת פורמט קובץ ופרוטוקול תקשורת רשת. DICOM משתמש בסיומת .DCM. .DCM קיים בשני פורמטים שונים, כלומר פורמט 1.x ופורמט 2.x. DCM Format 1.x זמין עוד בשתי גרסאות רגילות ומורחבות. DICOM משמש לשילוב של מכשירי הדמיה רפואיים כמו מדפסות, שרתים, סורקים וכו' של ספקים שונים ומכיל גם נתוני זיהוי של כל מטופל לייחודיות. ניתן לשתף קובצי DICOM בין שני צדדים אם הם מסוגלים לקבל נתוני תמונה בפורמט DICOM. חלק התקשורת של DICOM הוא פרוטוקול שכבת יישומים ומשתמש ב-TCP/IP כדי לתקשר בין ישויות. פרוטוקולי HTTP ו-HTTPS משמשים עבור שירותי האינטרנט של DICOM. גרסאות הנתמכות על ידי שירותי אינטרנט הן 1.0, 1.1, 2 ואילך.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

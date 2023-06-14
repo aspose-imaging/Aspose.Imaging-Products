@@ -75,16 +75,6 @@ SVGをEMZに変換するには、 [Aspose.Imaging for Java](https://products.asp
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="SVGをEMZに変換します-Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="SVGをEMZに変換する無料アプリ"
         appName="Conversion"
@@ -96,13 +86,21 @@ SVGをEMZに変換するには、 [Aspose.Imaging for Java](https://products.asp
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ja/conversion/SVG-to-EMZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="SVGをEMZに変換します-Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | SVG">}}
 SVGファイルは、画像の外観を記述するためにXMLベースのテキスト形式を使用するScalable VectorGraphicsファイルです。スケーラブルという言葉は、SVGが品質を損なうことなくさまざまなサイズにスケーリングできるという事実を指します。このようなファイルのテキストベースの説明により、解像度に依存しなくなります。これは、スケーラビリティを実現するためにWebサイトや印刷グラフィックを構築するために最もよく使用される形式の1つです。ただし、この形式は2次元グラフィックスにのみ使用できます。 SVGファイルは、Chrome、Internet Explorer、Firefox、Safariを含むほとんどすべての最新のブラウザーで表示/開くことができます。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | EMZ">}}
 EMZファイル拡張子の付いたファイルは、圧縮イメージファイルであり、より具体的にはWindows圧縮拡張メタファイルファイルと呼ばれます。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

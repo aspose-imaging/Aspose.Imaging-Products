@@ -75,16 +75,6 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Converti ODG in JPG - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="App gratuita per convertire ODG in JPG"
         appName="Conversion"
@@ -96,13 +86,21 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/it/conversion/ODG-to-JPG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Converti ODG in JPG - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più | ODG">}}
 Il formato di file ODG viene utilizzato dall'applicazione Draw di Apache OpenOffice per memorizzare gli elementi di disegno come immagine vettoriale. Segue le specifiche del formato file basato su XML delineate da Advancement of Structural Information Standards (OASIS). ODG rappresenta i disegni come immagini vettoriali utilizzando punti, linee e curve. Oltre a OpenOffice, LibreOffice e altre applicazioni forniscono anche supporto per lavorare con il formato di file ODG. Altri formati supportati da OpenOffice, ad esempio, includono ODT, ODF, ODP e ODS.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più | JPG">}}
 Un JPEG è un tipo di formato immagine che viene salvato utilizzando il metodo di compressione con perdita di dati. L'immagine di output, come risultato della compressione, è un compromesso tra la dimensione della memoria e la qualità dell'immagine. Gli utenti possono regolare il livello di compressione per ottenere il livello di qualità desiderato riducendo allo stesso tempo le dimensioni dello storage. La qualità dell'immagine viene influenzata in modo trascurabile se all'immagine viene applicata la compressione 10:1. Maggiore è il valore di compressione, maggiore è il degrado della qualità dell'immagine.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

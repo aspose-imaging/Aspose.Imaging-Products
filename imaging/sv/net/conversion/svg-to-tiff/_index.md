@@ -63,16 +63,6 @@ Innan du kör koden för konverteringsexempel, se till att du har följande för
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertera SVG till TIFF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Gratis app för att konvertera SVG till TIFF"
         appName="Conversion"
@@ -84,13 +74,21 @@ Innan du kör koden för konverteringsexempel, se till att du har följande för
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/SVG-to-TIFF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertera SVG till TIFF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer | SVG">}}
 SVG-filer är skalbara vektorgrafikfiler som använder XML-baserat textformat för att beskriva bildens utseende. Ordet Scalable syftar på det faktum att SVG kan skalas till olika storlekar utan att förlora någon kvalitet. Textbaserad beskrivning av sådana filer gör dem oberoende av upplösning. Det är ett av de mest använda formaten för att bygga webbplatser och skriva ut grafik för att uppnå skalbarhet. Formatet kan dock endast användas för tvådimensionell grafik. SVG-filer kan ses/öppnas i nästan alla moderna webbläsare inklusive Chrome, Internet Explorer, Firefox och Safari.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer | TIFF">}}
 TIFF eller TIF, Tagged Image File Format, representerar rasterbilder som är avsedda för användning på en mängd olika enheter som överensstämmer med denna filformatstandard. Den kan beskriva bilevel-, gråskala-, palett-färg- och fullfärgsbilddata i flera färgrymder. Den stöder såväl förlustfria som förlustfria komprimeringssystem för att välja mellan utrymme och tid för applikationer som använder formatet. Formatet är utbyggbart och har genomgått flera revisioner som gör det möjligt att inkludera en obegränsad mängd privat eller specialinformation. Formatet är inte maskinberoende och är fritt från gränser som processor, operativsystem eller filsystem.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -63,16 +63,6 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Převést EMZ na ICO – .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Bezplatná aplikace pro převod EMZ na ICO"
         appName="Conversion"
@@ -84,13 +74,21 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/EMZ-to-ICO)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Převést EMZ na ICO – .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více | EMZ">}}
 Soubor s příponou EMZ je komprimovaný soubor obrázku, konkrétněji označovaný jako soubor Windows Compressed Enhanced Metafile.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více | ICO">}}
 Formát souboru ICO je formát souboru obrázků pro počítačové ikony v systému Microsoft Windows. Soubory ICO obsahují jeden nebo více malých obrázků v různých velikostech a barevných hloubkách, takže je lze vhodně škálovat. Ve Windows musí všechny spustitelné soubory, které uživateli zobrazují ikonu, na ploše, v nabídce Start nebo v Průzkumníku Windows, nést ikonu ve formátu ICO.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

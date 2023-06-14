@@ -75,16 +75,6 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertiere SVGZ in JP2 - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Kostenlose App zum Konvertieren von SVGZ in JP2"
         appName="Conversion"
@@ -96,13 +86,21 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/de/conversion/SVGZ-to-JP2)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertiere SVGZ in JP2 - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen | SVGZ">}}
 Eine Datei mit der Erweiterung .svgz ist eine komprimierte Version der Datei Scalable Vector Graphics (.SVG). Es ist mit gzip-Komprimierung komprimiert und enthält Daten im XML-Format. SVGZ-Dateien unterstützen Transparenz, Farbverläufe, Animationen und Filter. SVGZ-Dateien sind im Vergleich zu den Standard-SVG-Dateien kleiner und diese reduzierte Dateigröße hilft, die Grafikdateien online zu übertragen. Grafikdesigner erstellen SVGZ-Dateien mit Tools wie Adobe Illustrator, Corel PaintShop Pro und anderen. SVGZ-Dateien können jedoch generiert werden, indem die GZip-Komprimierung im Apache-Server aktiviert wird, während die Bilddaten gesendet werden.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen | JP2">}}
 JPEG 2000 (JP2) ist ein Bildcodierungssystem und ein hochmoderner Bildkomprimierungsstandard. JPEG 2000 wurde unter Verwendung der Wavelet-Technologie entwickelt und kann verlustfreie Inhalte in jeder Qualität gleichzeitig kodieren. Darüber hinaus hat JPEG 2000 ohne wesentliche Einbußen bei der Codierungseffizienz die Fähigkeit, auf denselben Inhalt zuzugreifen und ihn effizient in eine Vielzahl anderer Auflösungen und Qualitäten zu decodieren. Die Codeströme in JPEG 2000 sind erheblich skalierbar, da sie interessierende Regionen aufweisen, die die Möglichkeit für einen räumlichen Direktzugriff bereitstellen. Besitzt bis zu 16384 verschiedene Komponenten mit Abmessungen in Terapixel und einer Genauigkeit, die bis zu 38 Bit/Sample betragen kann.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

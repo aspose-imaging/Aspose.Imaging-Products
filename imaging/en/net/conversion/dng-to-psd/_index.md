@@ -63,16 +63,6 @@ Before running the conversion example code, make sure that you have the followin
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convert DNG to PSD - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Free App to Convert DNG to PSD"
         appName="Conversion"
@@ -84,13 +74,21 @@ Before running the conversion example code, make sure that you have the followin
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DNG-to-PSD)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Convert DNG to PSD - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="What is" whatIsFormat2="File Format" readMoreFormat="Read More">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="What is" whatIsFormat2="File Format" readMoreFormat="Read More | DNG">}}
 DNG is a digital camera image format used for the storage of raw files. It has been developed by Adobe in September 2004. It was basically developed for digital photography. DNG is an extension of TIFF/EP standard format and uses metadata significantly. In order to manipulate raw data from digital cameras with ease of flexibility and artistic control, photographers opt camera raw files. JPEG and TIFF formats store images that are processed by the camera, therefore not much room for alteration is available in such formats.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="What is" whatIsFormat2="File Format" readMoreFormat="Read More">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="What is" whatIsFormat2="File Format" readMoreFormat="Read More | PSD">}}
 PSD, Photoshop Document, represents Adobe Photoshop’s native file format used for graphics designing and development. PSD files may include image layers, adjustment layers, layer masks, annotations, file information, keywords and other Photoshop-specific elements.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

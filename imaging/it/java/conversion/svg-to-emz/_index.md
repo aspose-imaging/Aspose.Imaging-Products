@@ -75,16 +75,6 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Converti SVG in EMZ - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="App gratuita per convertire SVG in EMZ"
         appName="Conversion"
@@ -96,13 +86,21 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/it/conversion/SVG-to-EMZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Converti SVG in EMZ - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più | SVG">}}
 I file SVG sono file di grafica vettoriale scalabili che utilizzano un formato di testo basato su XML per descrivere l'aspetto dell'immagine. La parola scalabile si riferisce al fatto che l'SVG può essere ridimensionato a diverse dimensioni senza perdere qualità. La descrizione testuale di tali file li rende indipendenti dalla risoluzione. È uno dei formati più utilizzati per la creazione di siti Web e grafica stampata al fine di ottenere scalabilità. Tuttavia, il formato può essere utilizzato solo per la grafica bidimensionale. I file SVG possono essere visualizzati/aperti in quasi tutti i browser moderni, inclusi Chrome, Internet Explorer, Firefox e Safari.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più | EMZ">}}
 Un file con estensione EMZ è un file di immagine compresso, più specificamente denominato file di metafile avanzato compresso di Windows
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -63,16 +63,6 @@ Innan du kör koden för konverteringsexempel, se till att du har följande för
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertera DICOM till DXF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Gratis app för att konvertera DICOM till DXF"
         appName="Conversion"
@@ -84,13 +74,21 @@ Innan du kör koden för konverteringsexempel, se till att du har följande för
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DICOM-to-DXF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertera DICOM till DXF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer | DICOM">}}
 DICOM är akronymen för Digital Imaging and Communications in Medicine och hänför sig till området medicinsk informatik. DICOM är kombinationen av filformatsdefinition och ett nätverkskommunikationsprotokoll. DICOM använder tillägget .DCM. .DCM finns i två olika format, dvs format 1.x och format 2.x. DCM Format 1.x finns dessutom i två versioner normal och utökad. DICOM används för integrering av medicinska bildbehandlingsenheter som skrivare, servrar, skannrar etc från olika leverantörer och innehåller även identifieringsdata för varje patient för att vara unik. DICOM-filer kan delas mellan två parter om de kan ta emot bilddata i DICOM-format. Kommunikationsdelen av DICOM är applikationslagerprotokoll och använder TCP/IP för att kommunicera mellan enheter. HTTP- och HTTPS-protokollen används för DICOMs webbtjänster. Versioner som stöds av webbtjänster är 1.0, 1.1, 2 eller senare.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer | DXF">}}
 DXF, Drawing Interchange Format eller Drawing Exchange Format, är en märkt datarepresentation av AutoCAD-ritningsfil. Varje element i filen har ett prefix heltal som kallas en gruppkod. Denna gruppkod representerar faktiskt elementet som följer och indikerar betydelsen av ett dataelement för en given objekttyp. DXF gör det möjligt att representera nästan all användarspecificerad information i en ritningsfil.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

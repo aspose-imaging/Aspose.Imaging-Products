@@ -75,16 +75,6 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="EPS öğesini DICOM - Java biçimine dönüştürün" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="EPS'i DICOM'e Dönüştürmek için Ücretsiz Uygulama"
         appName="Conversion"
@@ -96,13 +86,21 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/tr/conversion/EPS-to-DICOM)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="EPS öğesini DICOM - Java biçimine dönüştürün" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | EPS">}}
 EPS uzantılı dosyalar, esas olarak, tek bir sayfanın görünümünü tanımlayan Encapsulated PostScript dil programını tanımlar. Başka bir PostScript dili sayfası açıklamasına dahil edilebildiği veya kapsüllenebildiği için "Encapsulated" adı. Bu komut dosyası tabanlı dosya formatı, metin, grafik ve görüntülerin herhangi bir kombinasyonunu içerebilir. EPS dosyaları, bu tür dosyaları açabilen uygulamalar tarafından görüntülenmek üzere içeride kapsüllenmiş bir bitmap önizleme görüntüsü içerebilir. EPS dosyaları, örneğin farklı uygulamalar kullanılarak JPG, PNG, TIFF ve PDF gibi standart görüntü biçimlerine dönüştürülebilir. Adobe Illustrator, Photoshop ve PaintShop Pro. EPS dosyalarındaki bir güvenlik açığı nedeniyle, Office 2016, Office 2013, Office 2010 ve Office 365, EPS dosyalarını Office belgelerine ekleme özelliğini kapatmıştır.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | DICOM">}}
 DICOM, Tıpta Dijital Görüntüleme ve İletişimin kısaltmasıdır ve Tıp Bilişimi alanıyla ilgilidir. DICOM, dosya formatı tanımı ve bir ağ iletişim protokolünün birleşimidir. DICOM, .DCM uzantısını kullanır. .DCM, 1.x biçimi ve 2.x biçimi olmak üzere iki farklı biçimde bulunur. DCM Format 1.x ayrıca normal ve genişletilmiş iki versiyonda mevcuttur. DICOM, çeşitli satıcılara ait yazıcılar, sunucular, tarayıcılar vb. tıbbi görüntüleme cihazlarının entegrasyonu için kullanılır ve ayrıca benzersizlik için her hastanın kimlik verilerini içerir. DICOM dosyaları, DICOM formatında görüntü verilerini alabiliyorlarsa, iki taraf arasında paylaşılabilir. DICOM'un iletişim kısmı, uygulama katmanı protokolüdür ve varlıklar arasında iletişim kurmak için TCP/IP kullanır. DICOM'un web hizmetleri için HTTP ve HTTPS protokolleri kullanılır. Web servisleri tarafından desteklenen sürümler 1.0, 1.1, 2 veya üstüdür.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

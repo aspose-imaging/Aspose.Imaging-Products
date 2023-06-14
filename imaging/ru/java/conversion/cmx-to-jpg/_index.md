@@ -75,16 +75,6 @@ description: Пример кода для преобразования CMX в JP
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Преобразование CMX в JPG - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Бесплатное приложение для конвертации CMX в JPG"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Пример кода для преобразования CMX в JP
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ru/conversion/CMX-to-JPG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Преобразование CMX в JPG - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее | CMX">}}
 Файлы с расширением CMX представляют собой формат файла изображения Corel Exchange, который используется в качестве представления приложениями CorelSuite. Он содержит данные изображения в виде векторной графики, а также метаданные, описывающие изображение. Файлы CMX можно открывать с помощью CorelDraw, Corel Presentations, Paint Shop Pro и некоторых версий Adobe Illustrator.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее | JPG">}}
 JPEG — это тип формата изображения, который сохраняется с использованием метода сжатия с потерями. Выходное изображение в результате сжатия представляет собой компромисс между размером хранилища и качеством изображения. Пользователи могут настроить уровень сжатия для достижения желаемого уровня качества и в то же время уменьшить размер хранилища. Качество изображения незначительно ухудшается, если к изображению применяется сжатие 10:1. Чем выше значение сжатия, тем выше ухудшение качества изображения.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

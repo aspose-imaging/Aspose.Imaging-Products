@@ -62,16 +62,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="将 CDR 转换为 APNG - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="将 CDR 转换为 APNG 的免费应用程序"
         appName="Conversion"
@@ -83,13 +73,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hans/conversion/CDR-to-APNG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="将 CDR 转换为 APNG - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | CDR">}}
 CDR 文件是使用 CorelDRAW 本地创建的矢量绘图图像文件，用于存储编码和压缩的数字图像。这样的绘图文件包含文本、线条、形状、图像、颜色和效果，用于图像内容的矢量表示。 CDR 文件可以使用 CorelDRAW 作为主要应用程序打开，也可以转换为其他格式，例如 PDF、JPG、PNG、BMP 和 AI。它可用于表示各种图形数据，如小册子、小报、信封和明信片。除了 CorelDRAW，Corel Paintshop Pro 和 CorelDRAW Graphics Suite 等其他 Corel 产品也可以打开 CDR 文件格式。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | APNG">}}
 具有 .apng（动画便携式网络图形）扩展名的文件是一种光栅图形格式，是便携式网络图形 (PNG) 的非官方扩展名。它由表示动画序列的多个帧（每个 PNG 图像）组成。这提供了与 GIF 文件类似的可视化效果。 APNG 文件支持 24 位图像和 8 位透明度。 APNG 向后兼容非动画 GIF 文件。 APNG 文件使用相同的 .png 扩展名，可以由 Mozilla Firefox、支持 APNG 的 Chrome、iOS 10 的 iMessage 应用程序等应用程序打开。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

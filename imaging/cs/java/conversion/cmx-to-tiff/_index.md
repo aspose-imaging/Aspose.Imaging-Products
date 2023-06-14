@@ -75,16 +75,6 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Převést CMX na TIFF – Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Bezplatná aplikace pro převod CMX na TIFF"
         appName="Conversion"
@@ -96,13 +86,21 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/CMX-to-TIFF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Převést CMX na TIFF – Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více | CMX">}}
 Soubory s příponou CMX jsou formát souboru obrázků Corel Exchange, který používají aplikace CorelSuite jako prezentaci. Obsahuje obrazová data jako vektorovou grafiku i metadata, která obrázek popisují. Soubory CMX lze otevřít pomocí aplikací CorelDraw, Corel Presentations, Paint Shop Pro a některých verzí aplikace Adobe Illustrator.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více | TIFF">}}
 TIFF nebo TIF, Tagged Image File Format, představuje rastrové obrázky, které jsou určeny pro použití na různých zařízeních, která vyhovují tomuto standardu formátu souboru. Je schopen popsat dvouúrovňová, šedá, paletová a plnobarevná obrazová data v několika barevných prostorech. Podporuje ztrátová i bezeztrátová kompresní schémata pro výběr mezi prostorem a časem pro aplikace používající formát. Formát je rozšiřitelný a prošel několika revizemi, které umožňují zahrnutí neomezeného množství soukromých nebo speciálních informací. Formát není závislý na počítači a je prostý omezení, jako je procesor, operační systém nebo systémy souborů.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

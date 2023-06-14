@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="แปลง GIF เป็น WEBP - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="แอปฟรีเพื่อแปลง GIF เป็น WEBP"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/GIF-to-WEBP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="แปลง GIF เป็น WEBP - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | GIF">}}
 รูปแบบ GIF หรือ Graphical Interchange เป็นประเภทรูปภาพที่มีการบีบอัดสูง Unisys เป็นเจ้าของ GIF ใช้อัลกอริธึมการบีบอัด LZW ที่ไม่ลดคุณภาพของภาพ สำหรับแต่ละภาพ โดยทั่วไปแล้ว GIF อนุญาตให้ใช้ได้ถึง 8 บิตต่อพิกเซล และอนุญาตให้ใช้สีได้สูงสุด 256 สีทั่วทั้งภาพ ตรงกันข้ามกับภาพ JPEG ที่สามารถแสดงสีได้มากถึง 16 ล้านสีและสัมผัสได้ถึงขีดจำกัดของสายตามนุษย์ ย้อนกลับไปเมื่ออินเทอร์เน็ตปรากฏขึ้น GIF ยังคงเป็นตัวเลือกที่ดีที่สุด เนื่องจากต้องใช้แบนด์วิดท์ต่ำและเข้ากันได้กับกราฟิกที่ใช้พื้นที่สีทึบ GIF แบบเคลื่อนไหวจะรวมรูปภาพหรือเฟรมจำนวนมากเป็นไฟล์เดียว และแสดงตามลำดับเพื่อสร้างคลิปภาพเคลื่อนไหวหรือวิดีโอสั้น ข้อจำกัดสีสูงสุด 256 สำหรับแต่ละเฟรม และมีแนวโน้มว่าจะเหมาะสมน้อยที่สุดสำหรับการสร้างภาพอื่นๆ และภาพถ่ายที่มีการไล่ระดับสี
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | WEBP">}}
 WebP ซึ่งเปิดตัวโดย Google เป็นรูปแบบไฟล์ภาพเว็บแรสเตอร์ที่ทันสมัยซึ่งใช้การบีบอัดแบบไม่สูญเสียข้อมูลและการสูญเสียข้อมูล ให้คุณภาพของภาพเท่าเดิมในขณะที่ลดขนาดภาพลงอย่างมาก เนื่องจากหน้าเว็บส่วนใหญ่ใช้รูปภาพเป็นตัวแทนข้อมูลที่มีประสิทธิภาพ การใช้รูปภาพ WebP ในหน้าเว็บส่งผลให้โหลดหน้าเว็บเร็วขึ้น ตาม Google รูปภาพที่ไม่สูญเสียของ WebP มีขนาดเล็กกว่า 26% เมื่อเทียบกับ PNG ในขณะที่รูปภาพที่สูญเสียของ WebP นั้นเล็กกว่าภาพ JPEG ที่เปรียบเทียบได้ 25-34% รูปภาพจะถูกเปรียบเทียบโดยอิงตามดัชนีความคล้ายคลึงกันของโครงสร้าง (SSIM) ระหว่าง WebP และรูปแบบไฟล์รูปภาพอื่นๆ WebP เป็นโครงการน้องสาวของรูปแบบคอนเทนเนอร์มัลติมีเดียของ WebM
         {{< /blocks/products/pf/agp/about-file-text >}}
 

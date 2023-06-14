@@ -63,16 +63,6 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Převést WMF na JP2 – .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Bezplatná aplikace pro převod WMF na JP2"
         appName="Conversion"
@@ -84,13 +74,21 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/WMF-to-JP2)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Převést WMF na JP2 – .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více | WMF">}}
 Soubory s příponou WMF představují Microsoft Windows Metafile (WMF) pro ukládání dat vektorových i bitmapových obrázků. Abychom byli přesnější, WMF patří do kategorie formátů vektorových souborů grafických formátů souborů, které jsou nezávislé na zařízení. Windows Graphical Device Interface (GDI) používá funkce uložené v souboru WMF k zobrazení obrázku na obrazovce. Později byla publikována vylepšená verze WMF, známá jako Enhanced Meta Files (EMF), díky níž je formát bohatší na funkce. Prakticky jsou WMF podobné SVG.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více | JP2">}}
 JPEG 2000 (JP2) je systém kódování obrazu a nejmodernější standard komprese obrazu. JPEG 2000 navržený pomocí waveletové technologie dokáže kódovat bezeztrátový obsah v jakékoli kvalitě najednou. Navíc, bez jakékoli podstatné penalizace v účinnosti kódování, JPEG 2000 má schopnost přistupovat ke stejnému obsahu a účinně jej dekódovat do řady dalších rozlišení a kvalit. Toky kódu v JPEG 2000 jsou výrazně škálovatelné a mají oblasti zájmu, které poskytují možnost prostorového náhodného přístupu. Obsahuje až 16 384 různých komponent s rozměry v terapixelech a přesností, která může dosahovat až 38 bitů/vzorek.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

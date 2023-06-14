@@ -75,16 +75,6 @@ Voordat u de conversievoorbeeldcode uitvoert, moet u ervoor zorgen dat u aan de 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Converteer SVG naar JP2 - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Gratis app om SVG naar JP2 te converteren"
         appName="Conversion"
@@ -96,13 +86,21 @@ Voordat u de conversievoorbeeldcode uitvoert, moet u ervoor zorgen dat u aan de 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/nl/conversion/SVG-to-JP2)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Converteer SVG naar JP2 - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder | SVG">}}
 SVG-bestanden zijn schaalbare vectorafbeeldingsbestanden die op XML gebaseerde tekstindeling gebruiken om het uiterlijk van de afbeelding te beschrijven. Het woord Scalable verwijst naar het feit dat de SVG kan worden geschaald naar verschillende formaten zonder kwaliteitsverlies. Op tekst gebaseerde beschrijving van dergelijke bestanden maakt ze onafhankelijk van resolutie. Het is een van de meest gebruikte formaten voor het bouwen van website- en printafbeeldingen om schaalbaarheid te bereiken. Het formaat kan echter alleen worden gebruikt voor tweedimensionale afbeeldingen. SVG-bestanden kunnen worden bekeken/geopend in bijna alle moderne browsers, waaronder Chrome, Internet Explorer, Firefox en Safari.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder | JP2">}}
 JPEG 2000 (JP2) is een beeldcoderingssysteem en de modernste beeldcompressiestandaard. Ontworpen, met behulp van wavelet-technologie, kan JPEG 2000 verliesvrije inhoud in elke kwaliteit tegelijk coderen. Bovendien heeft JPEG 2000, zonder enige substantiële schade aan de coderingsefficiëntie, de mogelijkheid om dezelfde inhoud op doeltreffende wijze te openen en te decoderen in een verscheidenheid aan andere resoluties en kwaliteiten. De codestromen in JPEG 2000 zijn aanzienlijk schaalbaar met interessegebieden die de mogelijkheid bieden voor ruimtelijke willekeurige toegang. Met tot 16384 verschillende componenten met afmetingen in terapixels en een precisie die kan oplopen tot 38 bits/sample.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

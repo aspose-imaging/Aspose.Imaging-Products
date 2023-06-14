@@ -76,16 +76,6 @@ description: EMZ 到 DXF Java 转换的示例代码。在任何基于 Web 或桌
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="将 EMZ 转换为 DXF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="将 EMZ 转换为 DXF 的免费应用程序"
         appName="Conversion"
@@ -97,13 +87,21 @@ description: EMZ 到 DXF Java 转换的示例代码。在任何基于 Web 或桌
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hans/conversion/EMZ-to-DXF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="将 EMZ 转换为 DXF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | EMZ">}}
 具有 EMZ 文件扩展名的文件是压缩图像文件，更具体地称为 Windows 压缩增强元文件文件
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | DXF">}}
 DXF，即图形交换格式，或图形交换格式，是 AutoCAD 图形文件的标记数据表示。文件中的每个元素都有一个前缀整数，称为组码。该组代码实际上表示后面的元素，并指示给定对象类型的数据元素的含义。 DXF 可以在图形文件中表示几乎所有用户指定的信息。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -64,16 +64,6 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Converti ODG in TGA - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="App gratuita per convertire ODG in TGA"
         appName="Conversion"
@@ -85,13 +75,21 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/it/conversion/ODG-to-TGA)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Converti ODG in TGA - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più | ODG">}}
 Il formato di file ODG viene utilizzato dall'applicazione Draw di Apache OpenOffice per memorizzare gli elementi di disegno come immagine vettoriale. Segue le specifiche del formato file basato su XML delineate da Advancement of Structural Information Standards (OASIS). ODG rappresenta i disegni come immagini vettoriali utilizzando punti, linee e curve. Oltre a OpenOffice, LibreOffice e altre applicazioni forniscono anche supporto per lavorare con il formato di file ODG. Altri formati supportati da OpenOffice, ad esempio, includono ODT, ODF, ODP e ODS.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più | TGA">}}
 Truevision TGA, spesso indicato come TARGA, è un formato di file di grafica raster creato da Truevision Inc. (ora parte di Avid Technology). Era il formato nativo delle schede TARGA e VISTA, le prime schede grafiche per PC compatibili con IBM a supportare la visualizzazione Highcolor/truecolor.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

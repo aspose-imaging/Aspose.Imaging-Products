@@ -75,16 +75,6 @@ EPSをEMFに変換するには、 [Aspose.Imaging for Java](https://products.asp
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="EPSをEMFに変換します-Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="EPSをEMFに変換する無料アプリ"
         appName="Conversion"
@@ -96,13 +86,21 @@ EPSをEMFに変換するには、 [Aspose.Imaging for Java](https://products.asp
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ja/conversion/EPS-to-EMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="EPSをEMFに変換します-Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | EPS">}}
 EPS拡張子の付いたファイルは、基本的に、単一ページの外観を記述するEncapsulatedPostScript言語プログラムを記述します。 「カプセル化」という名前は、別のPostScript言語ページの説明に含めるかカプセル化できるためです。このスクリプトベースのファイル形式には、テキスト、グラフィックス、および画像の任意の組み合わせを含めることができます。 EPSファイルには、そのようなファイルを開くことができるアプリケーションによる表示のために、内部にカプセル化されたビットマッププレビュー画像が含まれる場合があります。 EPSファイルは、さまざまなアプリケーションを使用して、JPG、PNG、TIFF、PDFなどの標準の画像形式に変換できます。 Adobe Illustrator、Photoshop、PaintShopPro。 EPSファイルのセキュリティの脆弱性のため、Office 2016、Office 2013、Office 2010、およびOffice 365は、EPSファイルをOfficeドキュメントに挿入する機能をオフにしました。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | EMF">}}
 拡張メタファイル形式（EMF）は、グラフィック画像をデバイスに依存せずに保存します。 EMFのメタファイルは、任意の出力デバイスで解析した後、保存された画像をレンダリングできる時系列の可変長レコードで構成されます。これらの可変長レコードは、囲まれたオブジェクトの定義、描画用のコマンド、および画像を正確にレンダリングするために重要なグラフィックスプロパティにすることができます。デバイスが独自のグラフィックス環境を使用してEMFメタファイルを開くと、開いているデバイスプラットフォームに関係なく、元の画像の比率、寸法、色、およびその他のグラフィックプロパティは同じままです。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

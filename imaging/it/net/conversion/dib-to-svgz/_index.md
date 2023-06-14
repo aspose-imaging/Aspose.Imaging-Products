@@ -64,16 +64,6 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Converti DIB in SVGZ - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="App gratuita per convertire DIB in SVGZ"
         appName="Conversion"
@@ -85,13 +75,21 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/it/conversion/DIB-to-SVGZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Converti DIB in SVGZ - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più | DIB">}}
 Un file DIB (Device Independent Bitmap) è un file di immagine raster che ha una struttura simile ai file Bitmap standard (BMP), ma ha un'intestazione diversa. Può essere aperto con quasi tutte le applicazioni in grado di aprire un file BMP standard su Windows e macOS. DIB sono file binari e hanno un formato di file complesso simile a BMP.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più | SVGZ">}}
 Un file con estensione .svgz è una versione compressa del file Scalable Vector Graphics (.SVG). È compresso con compressione gzip e contiene dati in formato XML. I file SVGZ supportano trasparenza, gradienti, animazioni e filtri. I file SVGZ sono di dimensioni inferiori rispetto ai file SVG predefiniti e questa dimensione ridotta del file aiuta a trasferire i file grafici online. Il designer grafico crea file SVGZ utilizzando strumenti come Adobe Illustrator, Corel PaintShop Pro e altri. Tuttavia, i file SVGZ possono essere generati abilitando la compressione GZip nel server Apache durante l'invio dei dati dell'immagine.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

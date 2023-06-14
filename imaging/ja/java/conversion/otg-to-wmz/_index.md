@@ -75,16 +75,6 @@ OTGをWMZに変換するには、 [Aspose.Imaging for Java](https://products.asp
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="OTGをWMZに変換します-Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="OTGをWMZに変換する無料アプリ"
         appName="Conversion"
@@ -96,13 +86,21 @@ OTGをWMZに変換するには、 [Aspose.Imaging for Java](https://products.asp
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ja/conversion/OTG-to-WMZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="OTGをWMZに変換します-Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | OTG">}}
 OTGファイルは、OASIS Office Applications1.0仕様に準拠したOpenDocument標準を使用して作成された図面テンプレートです。これは、ファイルの内容をさらに強化するために使用できるベクター画像の描画要素のデフォルトの構成を表します。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | WMZ">}}
 WMZは、Windows MediaPlayerで使用される/使用される/使用されるスキンファイル形式のファイル拡張子です。 WMZファイルは、基本的にXML形式のzip形式のWMFファイルです。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

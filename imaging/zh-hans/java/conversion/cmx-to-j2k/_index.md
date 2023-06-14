@@ -76,16 +76,6 @@ description: CMX 到 J2K Java 转换的示例代码。在任何基于 Web 或桌
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="将 CMX 转换为 J2K - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="将 CMX 转换为 J2K 的免费应用程序"
         appName="Conversion"
@@ -97,13 +87,21 @@ description: CMX 到 J2K Java 转换的示例代码。在任何基于 Web 或桌
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hans/conversion/CMX-to-J2K)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="将 CMX 转换为 J2K - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | CMX">}}
 带有 CMX 扩展名的文件是 Corel Exchange 图像文件格式，CorelSuite 应用程序用作演示文稿。它包含作为矢量图形的图像数据以及描述图像的元数据。 CMX 文件可由 CorelDraw、Corel Presentations、Paint Shop Pro 和某些版本的 Adob​​e Illustrator 打开。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | J2K">}}
 J2K 文件是使用小波压缩而不是 DCT 压缩压缩的图像。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

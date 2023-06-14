@@ -75,16 +75,6 @@ description: Зразок коду для перетворення ODG у GIF Ja
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити ODG на GIF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення ODG у GIF"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Зразок коду для перетворення ODG у GIF Ja
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/ODG-to-GIF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити ODG на GIF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | ODG">}}
 Формат файлу ODG використовується програмою Draw Apache OpenOffice для зберігання елементів малюнка у вигляді векторного зображення. Він відповідає специфікаціям формату файлів на основі XML, викладеним Стандартами вдосконалення структурної інформації (OASIS). ODG представляє малюнки як векторні зображення за допомогою точок, ліній і кривих. Крім OpenOffice, LibreOffice та інші програми також надають підтримку для роботи з форматом файлу ODG. Інші формати, які підтримує OpenOffice, наприклад, включають ODT, ODF, ODP і ODS.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | GIF">}}
 GIF або Graphical Interchange Format — це тип сильно стиснутого зображення. GIF, що належить Unisys, використовує алгоритм стиснення LZW, який не погіршує якість зображення. Для кожного зображення GIF зазвичай допускається до 8 біт на піксель і до 256 кольорів на зображенні. На відміну від зображення у форматі JPEG, яке може відображати до 16 мільйонів кольорів і доторкається до меж людського ока. Коли з’явився Інтернет, GIF-файли залишалися найкращим вибором, оскільки вони потребували низької пропускної здатності та були сумісні з графікою, яка споживає суцільні кольорові ділянки. Анімований GIF поєднує численні зображення або кадри в один файл і відображає їх у послідовності для створення анімованого кліпу або короткого відео. Кольорові обмеження становлять до 256 для кожного кадру, і вони, імовірно, найменше підходять для відтворення інших зображень і фотографій із градієнтом кольорів.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

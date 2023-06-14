@@ -75,16 +75,6 @@ Antes de ejecutar el código de ejemplo de conversión, asegúrese de tener los 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convertir DNG a DXF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Aplicación gratuita para convertir DNG a DXF"
         appName="Conversion"
@@ -96,13 +86,21 @@ Antes de ejecutar el código de ejemplo de conversión, asegúrese de tener los 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/es/conversion/DNG-to-DXF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Convertir DNG a DXF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más | DNG">}}
 DNG es un formato de imagen de cámara digital utilizado para el almacenamiento de archivos sin formato. Ha sido desarrollado por Adobe en septiembre de 2004. Fue desarrollado básicamente para fotografía digital. DNG es una extensión del formato estándar TIFF/EP y utiliza metadatos de manera significativa. Para manipular los datos sin procesar de las cámaras digitales con facilidad de flexibilidad y control artístico, los fotógrafos optan por los archivos sin formato de cámara. Los formatos JPEG y TIFF almacenan imágenes que son procesadas por la cámara, por lo tanto, no hay mucho espacio para la alteración disponible en dichos formatos.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más | DXF">}}
 DXF, formato de intercambio de dibujos o formato de intercambio de dibujos, es una representación de datos etiquetados del archivo de dibujo de AutoCAD. Cada elemento del archivo tiene un número entero de prefijo denominado código de grupo. Este código de grupo en realidad representa el elemento que sigue e indica el significado de un elemento de datos para un tipo de objeto dado. DXF permite representar casi toda la información especificada por el usuario en un archivo de dibujo.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

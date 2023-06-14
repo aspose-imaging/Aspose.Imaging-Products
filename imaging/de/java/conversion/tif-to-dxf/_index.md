@@ -75,16 +75,6 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertiere TIF in DXF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Kostenlose App zum Konvertieren von TIF in DXF"
         appName="Conversion"
@@ -96,13 +86,21 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/de/conversion/TIF-to-DXF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertiere TIF in DXF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIF" readMoreLink="https://docs.fileformat.com/image/tif/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIF" readMoreLink="https://docs.fileformat.com/image/tif/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen | TIF">}}
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen | DXF">}}
 DXF, Drawing Interchange Format oder Drawing Exchange Format, ist eine getaggte Datendarstellung der AutoCAD-Zeichnungsdatei. Jedes Element in der Datei hat eine Präfix-Ganzzahl, die als Gruppencode bezeichnet wird. Dieser Gruppencode stellt tatsächlich das folgende Element dar und gibt die Bedeutung eines Datenelements für einen bestimmten Objekttyp an. DXF ermöglicht es, nahezu alle benutzerspezifischen Informationen in einer Zeichnungsdatei darzustellen.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

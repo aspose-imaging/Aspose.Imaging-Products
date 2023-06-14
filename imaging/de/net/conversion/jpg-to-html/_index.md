@@ -63,16 +63,6 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertiere JPG in HTML - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Kostenlose App zum Konvertieren von JPG in HTML"
         appName="Conversion"
@@ -84,13 +74,21 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/de/conversion/JPG-to-HTML)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertiere JPG in HTML - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen | JPG">}}
 Ein JPEG ist ein Bildformat, das mit der Methode der verlustbehafteten Komprimierung gespeichert wird. Das Ausgabebild ist als Ergebnis der Komprimierung ein Kompromiss zwischen Speichergröße und Bildqualität. Benutzer können die Komprimierungsstufe anpassen, um die gewünschte Qualitätsstufe zu erreichen, während gleichzeitig die Speichergröße reduziert wird. Die Bildqualität wird vernachlässigbar beeinträchtigt, wenn eine 10:1-Komprimierung auf das Bild angewendet wird. Je höher der Komprimierungswert, desto stärker die Verschlechterung der Bildqualität.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen | HTML">}}
 HTML (Hyper Text Markup Language) ist die Erweiterung für Webseiten, die für die Anzeige in Browsern erstellt wurden. Bekannt als Sprache des Webs, hat sich HTML mit Anforderungen an neue Informationsanforderungen entwickelt, die als Teil von Webseiten angezeigt werden müssen. Die neueste Variante ist als HTML 5 bekannt und bietet viel Flexibilität für die Arbeit mit der Sprache. HTML-Seiten werden entweder vom Server empfangen, auf dem diese gehostet werden, oder können auch vom lokalen System geladen werden. Jede HTML-Seite besteht aus HTML-Elementen wie Formularen, Text, Bildern, Animationen, Links usw. Diese Elemente werden durch Tags wie img, a, p und mehrere andere dargestellt, wobei jedes Tag einen Anfang und ein Ende hat. Es kann auch Anwendungen einbetten, die in Skriptsprachen wie JavaScript und Style Sheets (CSS) geschrieben sind, um das Gesamtlayout darzustellen.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

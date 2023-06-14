@@ -64,16 +64,6 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Converti PNG in APNG - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="App gratuita per convertire PNG in APNG"
         appName="Conversion"
@@ -85,13 +75,21 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/it/conversion/PNG-to-APNG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Converti PNG in APNG - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più | PNG">}}
 PNG, Portable Network Graphics, si riferisce a un tipo di formato di file di immagine raster che utilizza la compressione senza perdita di dati. Questo formato di file è stato creato in sostituzione di Graphics Interchange Format (GIF) e non ha limitazioni di copyright. Tuttavia, il formato di file PNG non supporta le animazioni. Il formato di file PNG supporta la compressione delle immagini senza perdita di dati che lo rende popolare tra i suoi utenti. Con il passare del tempo, PNG si è evoluto come uno dei formati di file immagine più utilizzati. Quasi tutti i sistemi operativi supportano l'apertura di file PNG. Ad esempio, il visualizzatore di Microsoft Windows ha la capacità di aprire file PNG poiché il sistema operativo ha per impostazione predefinita il supporto disponibile come parte dell'installazione.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più | APNG">}}
 Un file con estensione .apng (Animated Portable Network Graphics) è un formato grafico raster ed è un'estensione non ufficiale di Portable Network Graphic (PNG). Comprende più fotogrammi (ciascuno di un'immagine PNG) che rappresenta una sequenza di animazione. Ciò fornisce una visualizzazione simile a quella di un file GIF. I file APNG supportano immagini a 24 bit e trasparenza a 8 bit. APNG è compatibile con le versioni precedenti di file GIF non animati. I file APNG utilizzano la stessa estensione .png e possono essere aperti da applicazioni come Mozilla Firefox, Chrome con supporto APNG, app iMessage per iOS 10.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

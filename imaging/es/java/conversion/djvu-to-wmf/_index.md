@@ -75,16 +75,6 @@ Antes de ejecutar el código de ejemplo de conversión, asegúrese de tener los 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convertir DJVU a WMF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Aplicación gratuita para convertir DJVU a WMF"
         appName="Conversion"
@@ -96,13 +86,21 @@ Antes de ejecutar el código de ejemplo de conversión, asegúrese de tener los 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/es/conversion/DJVU-to-WMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Convertir DJVU a WMF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más | DJVU">}}
 DjVu, pronunciado como DJVU, es un formato de archivo de gráficos destinado a documentos escaneados y libros, especialmente aquellos que contienen una combinación de texto, dibujos, imágenes y fotografías. Fue desarrollado por AT&T Labs. Utiliza múltiples técnicas como la separación de capas de imágenes de texto e imágenes de fondo, carga progresiva, codificación aritmética y compresión con pérdida para imágenes bitonales. Dado que el archivo DJVU puede contener imágenes en color, fotografías, texto y dibujos comprimidos pero de alta calidad y se puede guardar en menos espacio, por lo tanto, se usa en la web como libros electrónicos, manuales, periódicos, documentos antiguos, etc.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más | WMF">}}
 Los archivos con la extensión WMF representan el metarchivo de Microsoft Windows (WMF) para almacenar datos de imágenes vectoriales y de formato de mapa de bits. Para ser más precisos, WMF pertenece a la categoría de formato de archivo vectorial de formatos de archivo de gráficos que es independiente del dispositivo. La interfaz de dispositivo gráfico de Windows (GDI) utiliza las funciones almacenadas en un archivo WMF para mostrar una imagen en la pantalla. Más tarde se publicó una versión más mejorada de WMF, conocida como Enhanced Meta Files (EMF), que hace que el formato tenga más funciones. Prácticamente, WMF son similares a SVG.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

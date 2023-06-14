@@ -75,16 +75,6 @@ DJVU को SVGZ में बदलने के लिए, हम उपयो
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="DJVU को SVGZ में बदलें - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="DJVU को SVGZ में बदलने के लिए नि:शुल्‍क ऐप"
         appName="Conversion"
@@ -96,13 +86,21 @@ DJVU को SVGZ में बदलने के लिए, हम उपयो
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DJVU-to-SVGZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="DJVU को SVGZ में बदलें - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | DJVU">}}
 DjVu, जिसे DJVU के रूप में उच्चारित किया जाता है, एक ग्राफिक्स फ़ाइल स्वरूप है जो स्कैन किए गए दस्तावेज़ों और पुस्तकों के लिए अभिप्रेत है, विशेष रूप से वे जिनमें पाठ, चित्र, चित्र और तस्वीरों का संयोजन होता है। इसे एटी एंड टी लैब्स द्वारा विकसित किया गया था। यह पाठ और पृष्ठभूमि छवियों की छवि परत पृथक्करण, प्रगतिशील लोडिंग, अंकगणितीय कोडिंग और बिटोनल छवियों के लिए हानिपूर्ण संपीड़न जैसी कई तकनीकों का उपयोग करता है। चूंकि डीजेवीयू फाइल में कंप्रेस्ड अभी तक उच्च गुणवत्ता वाली रंगीन छवियां, फोटोग्राफ, टेक्स्ट और ड्रॉइंग हो सकती हैं और इसे कम जगह में सहेजा जा सकता है, इसलिए इसका उपयोग वेब पर ईबुक, मैनुअल, समाचार पत्र, प्राचीन दस्तावेज आदि के रूप में किया जाता है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | SVGZ">}}
 .svgz एक्सटेंशन वाली फाइल स्केलेबल वेक्टर ग्राफिक्स (.SVG) फाइल का कंप्रेस्ड वर्जन है। यह gzip कम्प्रेशन के साथ कंप्रेस्ड है और इसमें XML फॉर्मेट में डेटा होता है। SVGZ फाइलें पारदर्शिता, ग्रेडिएंट, एनिमेशन और फिल्टर का समर्थन करती हैं। एसवीजीजेड फाइलें डिफ़ॉल्ट एसवीजी फाइलों की तुलना में आकार में छोटी होती हैं और यह कम फाइल आकार ग्राफिक्स फाइलों को ऑनलाइन स्थानांतरित करने में मदद करता है। ग्राफिक्स डिजाइनर एडोब इलस्ट्रेटर, कोरल पेंटशॉप प्रो और अन्य जैसे टूल का उपयोग करके एसवीजीजेड फाइलें बनाते हैं। हालांकि, छवि डेटा भेजते समय अपाचे सर्वर में GZip संपीड़न को सक्षम करके एसवीजीजेड फाइलें उत्पन्न की जा सकती हैं।
         {{< /blocks/products/pf/agp/about-file-text >}}
 

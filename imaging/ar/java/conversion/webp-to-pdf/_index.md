@@ -75,16 +75,6 @@ description: نموذج رمز لـ WEBP إلى PDF تحويل Java. استخد�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="تحويل WEBP إلى PDF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="تطبيق مجاني لتحويل WEBP إلى PDF"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: نموذج رمز لـ WEBP إلى PDF تحويل Java. استخد�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/WEBP-to-PDF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="تحويل WEBP إلى PDF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | WEBP">}}
 WebP ، الذي قدمته Google ، هو تنسيق حديث لملف صور الويب النقطية يعتمد على ضغط بدون فقد وفقدان. إنه يوفر نفس جودة الصورة مع تقليل حجم الصورة بشكل كبير. نظرًا لأن معظم صفحات الويب تستخدم الصور كتمثيل فعال للبيانات ، فإن استخدام صور WebP في صفحات الويب ينتج عنه تحميل أسرع لصفحات الويب. وفقًا لـ Google ، تكون صور WebP غير المفقودة أصغر حجمًا بنسبة 26٪ مقارنة بصور PNG ، في حين أن صور WebP المفقودة أصغر بنسبة 25-34٪ من صور JPEG المماثلة. تتم مقارنة الصور بناءً على فهرس التشابه الهيكلي (SSIM) بين WebP وتنسيقات ملفات الصور الأخرى. يعد WebP مشروعًا شقيقًا لتنسيق حاوية الوسائط المتعددة WebM.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | PDF">}}
 تنسيق المستندات المحمولة (PDF) هو نوع من المستندات التي أنشأتها Adobe في التسعينيات. كان الغرض من تنسيق الملف هذا هو تقديم معيار لتمثيل المستندات والمواد المرجعية الأخرى بتنسيق مستقل عن برامج التطبيقات والأجهزة وكذلك نظام التشغيل. يتمتع تنسيق ملف PDF بالقدرة الكاملة على احتواء معلومات مثل النصوص والصور والارتباطات التشعبية وحقول النموذج والوسائط الغنية والتوقيعات الرقمية والمرفقات والبيانات الوصفية والميزات الجغرافية المكانية والكائنات ثلاثية الأبعاد الموجودة فيه والتي يمكن أن تصبح جزءًا من المستند المصدر.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

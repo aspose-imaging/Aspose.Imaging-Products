@@ -62,16 +62,6 @@ Sebelum menjalankan kode contoh konversi, pastikan Anda memiliki prasyarat berik
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konversi ODG ke PSD - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Aplikasi Gratis untuk Mengonversi ODG ke PSD"
         appName="Conversion"
@@ -83,13 +73,21 @@ Sebelum menjalankan kode contoh konversi, pastikan Anda memiliki prasyarat berik
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/id/conversion/ODG-to-PSD)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konversi ODG ke PSD - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya | ODG">}}
 Format file ODG digunakan oleh aplikasi Draw Apache OpenOffice untuk menyimpan elemen gambar sebagai gambar vektor. Ini mengikuti spesifikasi format file berbasis XML yang digariskan oleh Kemajuan Standar Informasi Struktural (OASIS). ODG mewakili gambar sebagai gambar vektor menggunakan titik, garis, dan kurva. Selain OpenOffice, LibreOffice dan aplikasi lain juga menyediakan dukungan untuk bekerja dengan format file ODG. Format lain yang didukung oleh OpenOffice, misalnya, termasuk ODT, ODF, ODP dan ODS.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya | PSD">}}
 PSD, Dokumen Photoshop, mewakili format file asli Adobe Photoshop yang digunakan untuk perancangan dan pengembangan grafis. File PSD dapat mencakup lapisan gambar, lapisan penyesuaian, topeng lapisan, anotasi, informasi file, kata kunci, dan elemen khusus Photoshop lainnya.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

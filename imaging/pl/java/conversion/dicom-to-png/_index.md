@@ -75,16 +75,6 @@ Przed uruchomieniem przykładowego kodu konwersji upewnij się, że masz następ
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konwertuj DICOM na PNG - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Darmowa aplikacja do konwersji DICOM na PNG"
         appName="Conversion"
@@ -96,13 +86,21 @@ Przed uruchomieniem przykładowego kodu konwersji upewnij się, że masz następ
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/pl/conversion/DICOM-to-PNG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konwertuj DICOM na PNG - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej | DICOM">}}
 DICOM to skrót od Digital Imaging and Communications in Medicine i odnosi się do dziedziny informatyki medycznej. DICOM to połączenie definicji formatu pliku i protokołu komunikacji sieciowej. DICOM używa rozszerzenia .DCM. .DCM istnieje w dwóch różnych formatach, tj. formacie 1.xi 2.x. DCM Format 1.x jest ponadto dostępny w dwóch wersjach: normalnej i rozszerzonej. DICOM służy do integracji urządzeń do obrazowania medycznego, takich jak drukarki, serwery, skanery itp. od różnych dostawców, a także zawiera dane identyfikacyjne każdego pacjenta w celu uzyskania niepowtarzalności. Pliki DICOM mogą być udostępniane między dwiema stronami, jeśli są one w stanie odbierać dane obrazu w formacie DICOM. Część komunikacyjna DICOM jest protokołem warstwy aplikacji i wykorzystuje TCP/IP do komunikacji między podmiotami. Protokoły HTTP i HTTPS są używane w usługach internetowych DICOM. Wersje obsługiwane przez usługi sieciowe to 1.0, 1.1, 2 lub nowsze.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej | PNG">}}
 PNG, Portable Network Graphics, odnosi się do formatu pliku obrazu rastrowego, który wykorzystuje kompresję bezstratną. Ten format pliku został utworzony jako zamiennik formatu Graphics Interchange Format (GIF) i nie ma ograniczeń dotyczących praw autorskich. Jednak format pliku PNG nie obsługuje animacji. Format plików PNG obsługuje bezstratną kompresję obrazu, dzięki czemu jest popularny wśród użytkowników. Z biegiem czasu PNG stał się jednym z najczęściej używanych formatów plików graficznych. Prawie wszystkie systemy operacyjne obsługują otwieranie plików PNG. Na przykład przeglądarka Microsoft Windows ma możliwość otwierania plików PNG, ponieważ system operacyjny domyślnie obsługuje wsparcie dostępne w ramach instalacji.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

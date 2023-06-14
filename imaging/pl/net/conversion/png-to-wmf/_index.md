@@ -64,16 +64,6 @@ Przed uruchomieniem przykładowego kodu konwersji upewnij się, że masz następ
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konwertuj PNG na WMF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Darmowa aplikacja do konwersji PNG na WMF"
         appName="Conversion"
@@ -85,13 +75,21 @@ Przed uruchomieniem przykładowego kodu konwersji upewnij się, że masz następ
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/pl/conversion/PNG-to-WMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konwertuj PNG na WMF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej | PNG">}}
 PNG, Portable Network Graphics, odnosi się do formatu pliku obrazu rastrowego, który wykorzystuje kompresję bezstratną. Ten format pliku został utworzony jako zamiennik formatu Graphics Interchange Format (GIF) i nie ma ograniczeń dotyczących praw autorskich. Jednak format pliku PNG nie obsługuje animacji. Format plików PNG obsługuje bezstratną kompresję obrazu, dzięki czemu jest popularny wśród użytkowników. Z biegiem czasu PNG stał się jednym z najczęściej używanych formatów plików graficznych. Prawie wszystkie systemy operacyjne obsługują otwieranie plików PNG. Na przykład przeglądarka Microsoft Windows ma możliwość otwierania plików PNG, ponieważ system operacyjny domyślnie obsługuje wsparcie dostępne w ramach instalacji.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej | WMF">}}
 Pliki z rozszerzeniem WMF reprezentują Microsoft Windows Metafile (WMF) do przechowywania danych obrazów wektorowych i bitmapowych. Aby być bardziej dokładnym, WMF należy do kategorii formatów plików wektorowych w formatach plików graficznych, które są niezależne od urządzeń. Windows Graphical Device Interface (GDI) używa funkcji zapisanych w pliku WMF do wyświetlania obrazu na ekranie. Bardziej rozszerzona wersja WMF, znana jako Enhanced Meta Files (EMF), została opublikowana później, dzięki czemu format jest bogatszy w funkcje. Praktycznie WMF są podobne do SVG.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

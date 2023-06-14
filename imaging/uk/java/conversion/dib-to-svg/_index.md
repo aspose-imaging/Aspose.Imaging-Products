@@ -75,16 +75,6 @@ description: Зразок коду для перетворення DIB у SVG Ja
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити DIB на SVG - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення DIB у SVG"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Зразок коду для перетворення DIB у SVG Ja
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DIB-to-SVG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити DIB на SVG - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | DIB">}}
 Файл DIB (Device Independent Bitmap) — це файл растрового зображення, подібний за структурою до стандартних файлів Bitmap (BMP), але має інший заголовок. Його можна відкрити майже за допомогою всіх програм, які можуть відкрити стандартний файл BMP у Windows, а також у macOS. DIB є двійковими файлами та мають складний формат файлів, подібний до BMP.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | SVG">}}
 Файли SVG — це файли масштабованої векторної графіки, які використовують текстовий формат на основі XML для опису зовнішнього вигляду зображення. Слово «масштабований» означає, що SVG можна масштабувати до різних розмірів без втрати якості. Текстовий опис таких файлів робить їх незалежними від роздільної здатності. Це один із найбільш використовуваних форматів для створення веб-сайтів і друку графіки з метою досягнення масштабованості. Формат можна використовувати лише для двовимірної графіки. Файли SVG можна переглядати/відкривати майже в усіх сучасних браузерах, включаючи Chrome, Internet Explorer, Firefox і Safari.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

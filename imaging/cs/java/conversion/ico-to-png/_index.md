@@ -75,16 +75,6 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Převést ICO na PNG – Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Bezplatná aplikace pro převod ICO na PNG"
         appName="Conversion"
@@ -96,13 +86,21 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/ICO-to-PNG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Převést ICO na PNG – Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více | ICO">}}
 Formát souboru ICO je formát souboru obrázků pro počítačové ikony v systému Microsoft Windows. Soubory ICO obsahují jeden nebo více malých obrázků v různých velikostech a barevných hloubkách, takže je lze vhodně škálovat. Ve Windows musí všechny spustitelné soubory, které uživateli zobrazují ikonu, na ploše, v nabídce Start nebo v Průzkumníku Windows, nést ikonu ve formátu ICO.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více | PNG">}}
 PNG, Portable Network Graphics, označuje typ formátu rastrového obrázku, který používá bezztrátovou kompresi. Tento formát souboru byl vytvořen jako náhrada za Graphics Interchange Format (GIF) a nemá žádná omezení autorských práv. Formát souboru PNG však animace nepodporuje. Formát souboru PNG podporuje bezztrátovou kompresi obrázků, díky čemuž je mezi uživateli oblíbený. Postupem času se PNG vyvinul jako jeden z nejčastěji používaných formátů obrazových souborů. Téměř všechny operační systémy podporují otevírání souborů PNG. Například prohlížeč Microsoft Windows má schopnost otevírat soubory PNG, protože OS má standardně podporu dostupnou jako součást instalace.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

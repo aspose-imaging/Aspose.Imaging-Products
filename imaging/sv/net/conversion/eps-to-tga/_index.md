@@ -63,16 +63,6 @@ Innan du kör koden för konverteringsexempel, se till att du har följande för
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertera EPS till TGA - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Gratis app för att konvertera EPS till TGA"
         appName="Conversion"
@@ -84,13 +74,21 @@ Innan du kör koden för konverteringsexempel, se till att du har följande för
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/EPS-to-TGA)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertera EPS till TGA - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer | EPS">}}
 Filer med EPS-tillägg beskriver i huvudsak ett Encapsulated PostScript-språkprogram som beskriver utseendet på en enda sida. Namnet "Encapsulated" eftersom det kan inkluderas eller inkapslas i en annan PostScript-språksidbeskrivning. Detta skriptbaserade filformat kan innehålla valfri kombination av text, grafik och bilder. EPS-filer kan innehålla en bitmappsförhandsvisningsbild inkapslad inuti för visning av program som kan öppna sådana filer. EPS-filer kan konverteras till standardbildformat som JPG, PNG, TIFF och PDF med hjälp av olika applikationer t.ex. Adobe Illustrator, Photoshop och PaintShop Pro. På grund av en säkerhetsrisk i EPS-filer har Office 2016, Office 2013, Office 2010 och Office 365 stängt av möjligheten att infoga EPS-filer i Office-dokument.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer | TGA">}}
 Truevision TGA, ofta kallad TARGA, är ett rastergrafikfilformat skapat av Truevision Inc. (nu en del av Avid Technology). Det var det ursprungliga formatet för TARGA- och VISTA-kort, som var de första grafikkorten för IBM-kompatibla datorer som stödde Highcolor/Truecolor-skärm.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

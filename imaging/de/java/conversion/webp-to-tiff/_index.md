@@ -75,16 +75,6 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertiere WEBP in TIFF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Kostenlose App zum Konvertieren von WEBP in TIFF"
         appName="Conversion"
@@ -96,13 +86,21 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/de/conversion/WEBP-to-TIFF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertiere WEBP in TIFF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen | WEBP">}}
 WebP, eingeführt von Google, ist ein modernes Raster-Webbild-Dateiformat, das auf verlustfreier und verlustbehafteter Komprimierung basiert. Es bietet die gleiche Bildqualität, während die Bildgröße erheblich reduziert wird. Da die meisten Webseiten Bilder als effektive Darstellung von Daten verwenden, führt die Verwendung von WebP-Bildern auf Webseiten zu einem schnelleren Laden von Webseiten. Laut Google sind verlustfreie WebP-Bilder im Vergleich zu PNGs 26 % kleiner, während verlustbehaftete WebP-Bilder 25–34 % kleiner sind als vergleichbare JPEG-Bilder. Bilder werden basierend auf dem Index der strukturellen Ähnlichkeit (SSIM) zwischen WebP und anderen Bilddateiformaten verglichen. WebP ist ein Schwesterprojekt des Multimedia-Containerformats WebM.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen | TIFF">}}
 TIFF oder TIF, Tagged Image File Format, stellt Rasterbilder dar, die für die Verwendung auf einer Vielzahl von Geräten gedacht sind, die diesem Dateiformatstandard entsprechen. Es ist in der Lage, Bilevel-, Graustufen-, Palettenfarben- und Vollfarben-Bilddaten in mehreren Farbräumen zu beschreiben. Es unterstützt sowohl verlustbehaftete als auch verlustfreie Komprimierungsschemata, um zwischen Speicherplatz und Zeit für Anwendungen zu wählen, die das Format verwenden. Das Format ist erweiterbar und wurde mehrfach überarbeitet, was die Aufnahme einer unbegrenzten Menge an privaten oder speziellen Informationen ermöglicht. Das Format ist nicht maschinenabhängig und frei von Grenzen wie Prozessor, Betriebssystem oder Dateisystem.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

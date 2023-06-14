@@ -75,16 +75,6 @@ Avant d'exécuter l'exemple de code de conversion, assurez-vous que vous dispose
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convertir SVG en GIF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Application gratuite pour convertir SVG en GIF"
         appName="Conversion"
@@ -96,13 +86,21 @@ Avant d'exécuter l'exemple de code de conversion, assurez-vous que vous dispose
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/fr/conversion/SVG-to-GIF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Convertir SVG en GIF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite | SVG">}}
 Les fichiers SVG sont des fichiers graphiques vectoriels évolutifs qui utilisent un format de texte basé sur XML pour décrire l'apparence de l'image. Le mot Scalable fait référence au fait que le SVG peut être mis à l'échelle à différentes tailles sans perte de qualité. La description textuelle de ces fichiers les rend indépendants de la résolution. C'est l'un des formats les plus utilisés pour créer des sites Web et des graphiques d'impression afin d'atteindre l'évolutivité. Le format ne peut cependant être utilisé que pour les graphiques en deux dimensions. Les fichiers SVG peuvent être visualisés/ouverts dans presque tous les navigateurs modernes, y compris Chrome, Internet Explorer, Firefox et Safari.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite | GIF">}}
 Un format GIF ou Graphical Interchange est un type d'image hautement compressée. Propriété d'Unisys, GIF utilise l'algorithme de compression LZW qui ne dégrade pas la qualité de l'image. Pour chaque image, le GIF autorise généralement jusqu'à 8 bits par pixel et jusqu'à 256 couleurs sont autorisées sur l'image. Contrairement à une image JPEG, qui peut afficher jusqu'à 16 millions de couleurs et touche assez les limites de l'œil humain. À l'époque de l'émergence d'Internet, les GIF restaient le meilleur choix car ils nécessitaient une faible bande passante et étaient compatibles avec les graphiques qui consommaient des zones de couleur unies. Un GIF animé combine de nombreuses images ou cadres dans un seul fichier et les affiche dans une séquence pour générer un clip animé ou une courte vidéo. Les limitations de couleur vont jusqu'à 256 pour chaque image et sont probablement les moins appropriées pour reproduire d'autres images et photographies avec un dégradé de couleurs.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

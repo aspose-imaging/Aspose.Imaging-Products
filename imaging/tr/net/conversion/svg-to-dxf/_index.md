@@ -62,16 +62,6 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="SVG öğesini DXF - .NET biçimine dönüştürün" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="SVG'i DXF'e Dönüştürmek için Ücretsiz Uygulama"
         appName="Conversion"
@@ -83,13 +73,21 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/tr/conversion/SVG-to-DXF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="SVG öğesini DXF - .NET biçimine dönüştürün" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | SVG">}}
 SVG dosyaları, görüntünün görünümünü açıklamak için XML tabanlı metin biçimini kullanan Ölçeklenebilir Vektör Grafik Dosyalarıdır. Ölçeklenebilir kelimesi, SVG'nin kaliteden ödün vermeden farklı boyutlara ölçeklenebilmesini ifade eder. Bu tür dosyaların metin tabanlı açıklaması, onları çözünürlükten bağımsız kılar. Ölçeklenebilirlik sağlamak için web sitesi oluşturmak ve grafik yazdırmak için en çok kullanılan formatlardan biridir. Format ancak iki boyutlu grafikler için kullanılabilir. SVG dosyaları, Chrome, Internet Explorer, Firefox ve Safari dahil olmak üzere neredeyse tüm modern tarayıcılarda görüntülenebilir/açılabilir.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | DXF">}}
 DXF, Drawing Interchange Format veya Drawing Exchange Format, AutoCAD çizim dosyasının etiketli bir veri gösterimidir. Dosyadaki her öğenin, grup kodu adı verilen bir ön ek tamsayı numarası vardır. Bu grup kodu aslında takip eden öğeyi temsil eder ve belirli bir nesne türü için bir veri öğesinin anlamını belirtir. DXF, bir çizim dosyasında hemen hemen tüm kullanıcı tanımlı bilgileri temsil etmeyi mümkün kılar.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

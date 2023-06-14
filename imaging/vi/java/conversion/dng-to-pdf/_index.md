@@ -75,16 +75,6 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Chuyển đổi DNG thành PDF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Ứng dụng miễn phí để chuyển đổi DNG thành PDF"
         appName="Conversion"
@@ -96,13 +86,21 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/vi/conversion/DNG-to-PDF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Chuyển đổi DNG thành PDF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm | DNG">}}
 DNG là một định dạng hình ảnh máy ảnh kỹ thuật số được sử dụng để lưu trữ các tệp thô. Nó đã được phát triển bởi Adobe vào tháng 9 năm 2004. Về cơ bản nó được phát triển cho nhiếp ảnh kỹ thuật số. DNG là phần mở rộng của định dạng tiêu chuẩn TIFF / EP và sử dụng siêu dữ liệu đáng kể. Để xử lý dữ liệu thô từ máy ảnh kỹ thuật số một cách dễ dàng linh hoạt và khả năng kiểm soát nghệ thuật, các nhiếp ảnh gia chọn tệp thô của máy ảnh. Các định dạng JPEG và TIFF lưu trữ hình ảnh được xử lý bởi máy ảnh, do đó không có nhiều chỗ để thay đổi ở các định dạng như vậy.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm | PDF">}}
 Định dạng tài liệu di động (PDF) là một loại tài liệu được tạo bởi Adobe vào những năm 1990. Mục đích của định dạng tệp này là giới thiệu một tiêu chuẩn để trình bày tài liệu và tài liệu tham khảo khác ở định dạng độc lập với phần mềm ứng dụng, phần cứng cũng như Hệ điều hành. Định dạng tệp PDF có đầy đủ khả năng chứa thông tin như văn bản, hình ảnh, siêu liên kết, trường biểu mẫu, đa phương tiện, chữ ký số, tệp đính kèm, siêu dữ liệu, các tính năng không gian địa lý và các đối tượng 3D trong đó có thể trở thành một phần của tài liệu nguồn.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -75,16 +75,6 @@ description: Зразок коду для перетворення ICO у J2K Ja
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити ICO на J2K - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення ICO у J2K"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Зразок коду для перетворення ICO у J2K Ja
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/ICO-to-J2K)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити ICO на J2K - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | ICO">}}
 Формат файлу ICO — це формат файлу зображення для комп’ютерних значків у Microsoft Windows. Файли ICO містять одне або кілька невеликих зображень різних розмірів і глибини кольору, щоб їх можна було відповідно масштабувати. У Windows усі виконувані файли, які відображають піктограму для користувача на робочому столі, у меню «Пуск» або в Провіднику Windows, повинні мати піктограму у форматі ICO.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | J2K">}}
 Файл J2K — це зображення, яке стискається за допомогою вейвлет-стиснення замість стиснення DCT.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

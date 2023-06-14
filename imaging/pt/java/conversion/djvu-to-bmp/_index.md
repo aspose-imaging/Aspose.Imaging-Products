@@ -75,16 +75,6 @@ Antes de executar o código de exemplo de conversão, verifique se você tem os 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Converter {Formato1} para {Formato2} - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Aplicativo gratuito para converter DJVU para BMP"
         appName="Conversion"
@@ -96,13 +86,21 @@ Antes de executar o código de exemplo de conversão, verifique se você tem os 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/pt/conversion/DJVU-to-BMP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Converter {Formato1} para {Formato2} - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação | DJVU">}}
 DjVu, pronunciado como DJVU, é um formato de arquivo gráfico destinado a documentos e livros digitalizados, especialmente aqueles que contêm a combinação de texto, desenhos, imagens e fotografias. Foi desenvolvido pela AT&T Labs. Ele usa várias técnicas, como separação de camadas de imagem de texto e imagens de fundo, carregamento progressivo, codificação aritmética e compactação com perdas para imagens bitonais. Como o arquivo DJVU pode conter imagens coloridas, fotografias, texto e desenhos compactados e de alta qualidade e pode ser salvo em menos espaço, portanto, é usado na web como eBooks, manuais, jornais, documentos antigos etc.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação | BMP">}}
 Arquivos com extensão .BMP representam arquivos de imagem de bitmap que são usados ​​para armazenar imagens digitais de bitmap. Essas imagens são independentes do adaptador gráfico e também são chamadas de formato de arquivo de bitmap independente de dispositivo (DIB). Essa independência serve para abrir o arquivo em várias plataformas, como Microsoft Windows e Mac. O formato de arquivo BMP pode armazenar dados como imagens digitais bidimensionais em formato monocromático e colorido com várias profundidades de cor.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

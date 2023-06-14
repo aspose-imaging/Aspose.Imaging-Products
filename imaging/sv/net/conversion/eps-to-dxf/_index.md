@@ -63,16 +63,6 @@ Innan du kör koden för konverteringsexempel, se till att du har följande för
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertera EPS till DXF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Gratis app för att konvertera EPS till DXF"
         appName="Conversion"
@@ -84,13 +74,21 @@ Innan du kör koden för konverteringsexempel, se till att du har följande för
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/EPS-to-DXF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertera EPS till DXF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer | EPS">}}
 Filer med EPS-tillägg beskriver i huvudsak ett Encapsulated PostScript-språkprogram som beskriver utseendet på en enda sida. Namnet "Encapsulated" eftersom det kan inkluderas eller inkapslas i en annan PostScript-språksidbeskrivning. Detta skriptbaserade filformat kan innehålla valfri kombination av text, grafik och bilder. EPS-filer kan innehålla en bitmappsförhandsvisningsbild inkapslad inuti för visning av program som kan öppna sådana filer. EPS-filer kan konverteras till standardbildformat som JPG, PNG, TIFF och PDF med hjälp av olika applikationer t.ex. Adobe Illustrator, Photoshop och PaintShop Pro. På grund av en säkerhetsrisk i EPS-filer har Office 2016, Office 2013, Office 2010 och Office 365 stängt av möjligheten att infoga EPS-filer i Office-dokument.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer | DXF">}}
 DXF, Drawing Interchange Format eller Drawing Exchange Format, är en märkt datarepresentation av AutoCAD-ritningsfil. Varje element i filen har ett prefix heltal som kallas en gruppkod. Denna gruppkod representerar faktiskt elementet som följer och indikerar betydelsen av ett dataelement för en given objekttyp. DXF gör det möjligt att representera nästan all användarspecificerad information i en ritningsfil.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

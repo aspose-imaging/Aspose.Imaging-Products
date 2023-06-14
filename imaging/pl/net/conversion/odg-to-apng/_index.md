@@ -64,16 +64,6 @@ Przed uruchomieniem przykładowego kodu konwersji upewnij się, że masz następ
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konwertuj ODG na APNG - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Darmowa aplikacja do konwersji ODG na APNG"
         appName="Conversion"
@@ -85,13 +75,21 @@ Przed uruchomieniem przykładowego kodu konwersji upewnij się, że masz następ
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/pl/conversion/ODG-to-APNG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konwertuj ODG na APNG - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej | ODG">}}
 Format pliku ODG jest używany przez aplikację Draw Apache OpenOffice do przechowywania elementów rysunkowych jako obrazu wektorowego. Jest zgodny ze specyfikacjami formatu plików opartymi na XML, określonymi przez Advancement of Structural Information Standards (OASIS). ODG przedstawia rysunki jako obrazy wektorowe za pomocą punktów, linii i krzywych. Oprócz OpenOffice, LibreOffice i inne aplikacje zapewniają również obsługę pracy z formatem plików ODG. Inne formaty obsługiwane przez OpenOffice to na przykład ODT, ODF, ODP i ODS.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej | APNG">}}
 Plik z rozszerzeniem .apng (Animated Portable Network Graphics) jest rastrowym formatem graficznym i jest nieoficjalnym rozszerzeniem Portable Network Graphics (PNG ). Składa się z wielu ramek (każda z obrazu PNG), które reprezentują sekwencję animacji. Daje to podobną wizualizację jak plik GIF. Pliki APNG obsługują obrazy 24-bitowe i przezroczystość 8-bitową. APNG jest wstecznie kompatybilny z nieanimowanymi plikami GIF. Pliki APNG używają tego samego rozszerzenia .png i mogą być otwierane przez aplikacje takie jak Mozilla Firefox, Chrome z obsługą APNG, aplikacje iMessage na iOS 10.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

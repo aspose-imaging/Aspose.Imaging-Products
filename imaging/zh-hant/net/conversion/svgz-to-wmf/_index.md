@@ -62,16 +62,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="將 SVGZ 轉換為 WMF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="將 SVGZ 轉換為 WMF 的免費應用程序"
         appName="Conversion"
@@ -83,13 +73,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hant/conversion/SVGZ-to-WMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="將 SVGZ 轉換為 WMF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | SVGZ">}}
 擴展名為 .svgz 的文件是可縮放矢量圖形 (.SVG) 文件的壓縮版本。它使用 gzip 壓縮，包含 XML 格式的數據。 SVGZ 文件支持透明度、漸變、動畫和過濾器。與默認 SVG 文件相比，SVGZ 文件的大小更小，這種減小的文件大小有助於在線傳輸圖形文件。圖形設計師使用 Adob​​e Illustrator、Corel PaintShop Pro 等工具創建 SVGZ 文件。但是，可以通過在發送圖像數據時在 Apache 服務器中啟用 GZip 壓縮來生成 SVGZ 文件。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | WMF">}}
 帶有 WMF 擴展名的文件代表 Microsoft Windows 元文件 (WMF)，用於存儲矢量以及位圖格式的圖像數據。更準確地說，WMF 屬於與設備無關的圖形文件格式的矢量文件格式類別。 Windows 圖形設備接口 (GDI) 使用存儲在 WMF 文件中的函數在屏幕上顯示圖像。後來發布了 WMF 的更增強版本，稱為增強元文件 (EMF)，使該格式的功能更加豐富。實際上，WMF 類似於 SVG。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

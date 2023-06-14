@@ -75,16 +75,6 @@ description: Зразок коду для перетворення EPS у DICOM 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити EPS на DICOM - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення EPS у DICOM"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Зразок коду для перетворення EPS у DICOM 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/EPS-to-DICOM)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити EPS на DICOM - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | EPS">}}
 Файли з розширенням EPS по суті описують програму на мові Encapsulated PostScript, яка описує зовнішній вигляд однієї сторінки. Назва «Інкапсульований», оскільки її можна включити або інкапсулювати в опис сторінки іншою мовою PostScript. Цей формат файлу на основі сценарію може містити будь-яку комбінацію тексту, графіки та зображень. Файли EPS можуть містити растрове зображення попереднього перегляду, інкапсульоване всередину для відображення програмами, які можуть відкривати такі файли. Файли EPS можна конвертувати в стандартні формати зображень, такі як JPG, PNG, TIFF і PDF, за допомогою різних програм, напр. Adobe Illustrator, Photoshop і PaintShop Pro. Через вразливість у безпеці файлів EPS Office 2016, Office 2013, Office 2010 і Office 365 вимкнули можливість вставляти файли EPS у документи Office.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | DICOM">}}
 DICOM — це абревіатура від Digital Imaging and Communications in Medicine і відноситься до галузі медичної інформатики. DICOM — це поєднання визначення формату файлу та протоколу мережевого зв’язку. DICOM використовує розширення .DCM. .DCM існує у двох різних форматах, тобто форматі 1.x і форматі 2.x. Формат DCM 1.x також доступний у двох версіях: звичайній і розширеній. DICOM використовується для інтеграції медичних пристроїв візуалізації, таких як принтери, сервери, сканери тощо від різних постачальників, а також містить ідентифікаційні дані кожного пацієнта для унікальності. Файли DICOM можуть використовуватися між двома сторонами, якщо вони здатні отримувати дані зображення у форматі DICOM. Комунікаційна частина DICOM є протоколом прикладного рівня та використовує TCP/IP для зв’язку між об’єктами. Для веб-служб DICOM використовуються протоколи HTTP і HTTPS. Веб-службами підтримуються версії 1.0, 1.1, 2 або новіші.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

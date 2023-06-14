@@ -75,16 +75,6 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertuoti GIF į APNG – Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Nemokama programa konvertuoti GIF į APNG"
         appName="Conversion"
@@ -96,13 +86,21 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/lt/conversion/GIF-to-APNG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertuoti GIF į APNG – Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau | GIF">}}
 GIF arba grafinis mainų formatas yra labai suspausto vaizdo tipas. „Unisys“ priklausantis GIF naudoja LZW glaudinimo algoritmą, kuris nepablogina vaizdo kokybės. Kiekvienam vaizdui GIF paprastai leidžia iki 8 bitų viename pikselyje ir iki 256 spalvų visame vaizde. Priešingai nei JPEG vaizdas, kuris gali rodyti iki 16 milijonų spalvų ir gana paliečia žmogaus akies ribas. Kai atsirado internetas, GIF išliko geriausiu pasirinkimu, nes jiems reikėjo mažo pralaidumo ir jie buvo suderinami su grafika, kuri naudoja vientisas spalvų sritis. Animacinis GIF sujungia daugybę vaizdų arba kadrų į vieną failą ir pateikia juos seka, kad būtų sukurtas animacinis klipas arba trumpas vaizdo įrašas. Spalvų apribojimai yra iki 256 kiekvienam kadrui ir greičiausiai bus mažiausiai tinkami kitiems vaizdams ir nuotraukoms su spalvų gradientu atkurti.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau | APNG">}}
 Failas su plėtiniu .apng (Animated Portable Network Graphics) yra rastrinis grafinis formatas ir yra neoficialus nešiojamojo tinklo grafikos (PNG) plėtinys. Jį sudaro keli kadrai (kiekvienas PNG vaizdas), vaizduojantis animacijos seką. Tai suteikia panašią vizualizaciją kaip GIF failas. APNG failai palaiko 24 bitų vaizdus ir 8 bitų skaidrumą. APNG yra suderinamas su neanimuotais GIF failais. APNG failuose naudojamas tas pats .png plėtinys ir juos gali atidaryti tokios programos kaip „Mozilla Firefox“, „Chrome“ su APNG palaikymu, „iMessage“ programos, skirtos „iOS 10“.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

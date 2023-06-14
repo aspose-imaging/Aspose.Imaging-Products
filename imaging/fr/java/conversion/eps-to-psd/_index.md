@@ -75,16 +75,6 @@ Avant d'exécuter l'exemple de code de conversion, assurez-vous que vous dispose
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convertir EPS en PSD - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Application gratuite pour convertir EPS en PSD"
         appName="Conversion"
@@ -96,13 +86,21 @@ Avant d'exécuter l'exemple de code de conversion, assurez-vous que vous dispose
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/fr/conversion/EPS-to-PSD)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Convertir EPS en PSD - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite | EPS">}}
 Les fichiers avec l'extension EPS décrivent essentiellement un programme de langage PostScript encapsulé qui décrit l'apparence d'une seule page. Le nom "Encapsulé" car il peut être inclus ou encapsulé dans une autre description de page en langage PostScript. Ce format de fichier basé sur un script peut contenir n'importe quelle combinaison de texte, de graphiques et d'images. Les fichiers EPS peuvent inclure une image d'aperçu bitmap encapsulée à l'intérieur pour être affichée par des applications pouvant ouvrir de tels fichiers. Les fichiers EPS peuvent être convertis en formats d'image standard tels que JPG, PNG, TIFF et PDF à l'aide de différentes applications, par ex. Adobe Illustrator, Photoshop et PaintShop Pro. En raison d'une faille de sécurité dans les fichiers EPS, Office 2016, Office 2013, Office 2010 et Office 365 ont désactivé la possibilité d'insérer des fichiers EPS dans des documents Office.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite | PSD">}}
 PSD, Photoshop Document, représente le format de fichier natif d'Adobe Photoshop utilisé pour la conception et le développement graphiques. Les fichiers PSD peuvent inclure des calques d'image, des calques de réglage, des masques de calque, des annotations, des informations sur les fichiers, des mots-clés et d'autres éléments spécifiques à Photoshop.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -75,16 +75,6 @@ description: โค้ดตัวอย่างสำหรับการแ�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="แปลง DIB เป็น PDF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="แอปฟรีเพื่อแปลง DIB เป็น PDF"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: โค้ดตัวอย่างสำหรับการแ�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DIB-to-PDF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="แปลง DIB เป็น PDF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | DIB">}}
 ไฟล์ DIB (Device Independent Bitmap) เป็นไฟล์ภาพแรสเตอร์ที่มีโครงสร้างคล้ายกับไฟล์ Bitmap มาตรฐาน (BMP) แต่มีส่วนหัวต่างกัน สามารถเปิดได้ด้วยแอพพลิเคชั่นเกือบทั้งหมดที่สามารถเปิดไฟล์ BMP มาตรฐานบน Windows เช่นเดียวกับ macOS DIB เป็นไฟล์ไบนารีและมีรูปแบบไฟล์ที่ซับซ้อนคล้ายกับ BMP
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | PDF">}}
 Portable Document Format (PDF) เป็นเอกสารประเภทหนึ่งที่ Adobe สร้างขึ้นในปี 1990 จุดประสงค์ของรูปแบบไฟล์นี้คือการแนะนำมาตรฐานสำหรับการนำเสนอเอกสารและเอกสารอ้างอิงอื่นๆ ในรูปแบบที่ไม่ขึ้นอยู่กับแอพพลิเคชั่นซอฟต์แวร์ ฮาร์ดแวร์ และระบบปฏิบัติการ รูปแบบไฟล์ PDF มีความสามารถเต็มรูปแบบในการใส่ข้อมูล เช่น ข้อความ รูปภาพ ไฮเปอร์ลิงก์ ฟิลด์แบบฟอร์ม สื่อสมบูรณ์ ลายเซ็นดิจิทัล ไฟล์แนบ ข้อมูลเมตา คุณลักษณะเชิงพื้นที่ และวัตถุ 3 มิติในไฟล์ ซึ่งสามารถเป็นส่วนหนึ่งของเอกสารต้นทางได้
         {{< /blocks/products/pf/agp/about-file-text >}}
 

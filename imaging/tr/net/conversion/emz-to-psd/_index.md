@@ -62,16 +62,6 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="EMZ öğesini PSD - .NET biçimine dönüştürün" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="EMZ'i PSD'e Dönüştürmek için Ücretsiz Uygulama"
         appName="Conversion"
@@ -83,13 +73,21 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/tr/conversion/EMZ-to-PSD)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="EMZ öğesini PSD - .NET biçimine dönüştürün" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | EMZ">}}
 EMZ dosya uzantısına sahip bir dosya, daha özel olarak Windows Sıkıştırılmış Gelişmiş Meta Dosyası dosyası olarak adlandırılan sıkıştırılmış bir görüntü dosyasıdır.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | PSD">}}
 PSD, Photoshop Document, Adobe Photoshop'un grafik tasarımı ve geliştirme için kullanılan yerel dosya biçimini temsil eder. PSD dosyaları, görüntü katmanlarını, ayarlama katmanlarını, katman maskelerini, açıklamaları, dosya bilgilerini, anahtar kelimeleri ve Photoshop'a özgü diğer öğeleri içerebilir.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

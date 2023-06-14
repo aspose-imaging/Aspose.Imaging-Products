@@ -75,16 +75,6 @@ description: קוד לדוגמה עבור המרת Java מ-DICOM ל-CANVAS. הש
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="המר את DICOM ל-CANVAS - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="אפליקציה חינמית להמרת DICOM ל-CANVAS"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: קוד לדוגמה עבור המרת Java מ-DICOM ל-CANVAS. הש
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DICOM-to-CANVAS)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="המר את DICOM ל-CANVAS - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | DICOM">}}
 DICOM הוא ראשי התיבות של Digital Imaging and Communications in Medicine ונוגע לתחום האינפורמטיקה הרפואית. DICOM הוא השילוב של הגדרת פורמט קובץ ופרוטוקול תקשורת רשת. DICOM משתמש בסיומת .DCM. .DCM קיים בשני פורמטים שונים, כלומר פורמט 1.x ופורמט 2.x. DCM Format 1.x זמין עוד בשתי גרסאות רגילות ומורחבות. DICOM משמש לשילוב של מכשירי הדמיה רפואיים כמו מדפסות, שרתים, סורקים וכו' של ספקים שונים ומכיל גם נתוני זיהוי של כל מטופל לייחודיות. ניתן לשתף קובצי DICOM בין שני צדדים אם הם מסוגלים לקבל נתוני תמונה בפורמט DICOM. חלק התקשורת של DICOM הוא פרוטוקול שכבת יישומים ומשתמש ב-TCP/IP כדי לתקשר בין ישויות. פרוטוקולי HTTP ו-HTTPS משמשים עבור שירותי האינטרנט של DICOM. גרסאות הנתמכות על ידי שירותי אינטרנט הן 1.0, 1.1, 2 ואילך.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CANVAS" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CANVAS" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | CANVAS">}}
 HTML (Hyper Text Markup Language) היא התוסף לדפי אינטרנט שנוצרו לתצוגה בדפדפנים. HTML, הידועה כשפת האינטרנט, התפתחה עם דרישות מידע חדשות שיוצגו כחלק מדפי אינטרנט. הגרסה האחרונה ידועה בשם HTML 5 המעניקה גמישות רבה לעבודה עם השפה. דפי HTML מתקבלים מהשרת, שבו הם מתארחים, או שניתן לטעון אותם גם מהמערכת המקומית. כל דף HTML מורכב מאלמנטים של HTML כגון טפסים, טקסט, תמונות, אנימציות, קישורים וכו'. אלמנטים אלו מיוצגים על ידי תגיות כגון img, a, p ועוד כמה אחרים כאשר לכל תג יש התחלה וסוף. זה יכול גם להטמיע יישומים שנכתבו בשפות סקריפטים כגון JavaScript ו- Style Sheets (CSS) לייצוג פריסה כולל.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

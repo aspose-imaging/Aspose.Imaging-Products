@@ -61,16 +61,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="تحويل EPS إلى TGA - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="تطبيق مجاني لتحويل EPS إلى TGA"
         appName="Conversion"
@@ -82,13 +72,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/EPS-to-TGA)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="تحويل EPS إلى TGA - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | EPS">}}
 تصف الملفات ذات امتداد EPS بشكل أساسي برنامج لغة Encapsulated PostScript يصف مظهر صفحة واحدة. الاسم "مغلف" لأنه يمكن تضمينه أو تغليفه في وصف صفحة أخرى بلغة PostScript. قد يحتوي تنسيق الملف المستند إلى البرنامج النصي على أي مجموعة من النصوص والرسومات والصور. قد تتضمن ملفات EPS صورة معاينة نقطية مغلفة بالداخل لعرضها بواسطة التطبيقات التي يمكنها فتح مثل هذه الملفات. يمكن تحويل ملفات EPS إلى تنسيقات صور قياسية مثل JPG و PNG و TIFF و PDF باستخدام تطبيقات مختلفة مثل Adobe Illustrator و Photoshop و PaintShop Pro. نظرًا لوجود ثغرة أمنية في ملفات EPS ، فقد أوقف Office 2016 و Office 2013 و Office 2010 و Office 365 القدرة على إدراج ملفات EPS في مستندات Office.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | TGA">}}
 Truevision TGA ، الذي يشار إليه غالبًا باسم TARGA ، هو تنسيق ملف رسومات نقطية تم إنشاؤه بواسطة Truevision Inc. (الآن جزء من Avid Technology). كان هذا هو التنسيق الأصلي للوحات TARGA و VISTA ، والتي كانت أول بطاقات رسومية لأجهزة الكمبيوتر المتوافقة مع IBM لدعم عرض Highcolor / truecolor.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

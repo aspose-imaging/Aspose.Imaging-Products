@@ -75,16 +75,6 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertiere WEBP in APNG - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Kostenlose App zum Konvertieren von WEBP in APNG"
         appName="Conversion"
@@ -96,13 +86,21 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/de/conversion/WEBP-to-APNG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertiere WEBP in APNG - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen | WEBP">}}
 WebP, eingeführt von Google, ist ein modernes Raster-Webbild-Dateiformat, das auf verlustfreier und verlustbehafteter Komprimierung basiert. Es bietet die gleiche Bildqualität, während die Bildgröße erheblich reduziert wird. Da die meisten Webseiten Bilder als effektive Darstellung von Daten verwenden, führt die Verwendung von WebP-Bildern auf Webseiten zu einem schnelleren Laden von Webseiten. Laut Google sind verlustfreie WebP-Bilder im Vergleich zu PNGs 26 % kleiner, während verlustbehaftete WebP-Bilder 25–34 % kleiner sind als vergleichbare JPEG-Bilder. Bilder werden basierend auf dem Index der strukturellen Ähnlichkeit (SSIM) zwischen WebP und anderen Bilddateiformaten verglichen. WebP ist ein Schwesterprojekt des Multimedia-Containerformats WebM.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen | APNG">}}
 Eine Datei mit der Erweiterung .apng (Animated Portable Network Graphics) ist ein Rastergrafikformat und eine inoffizielle Erweiterung von Portable Network Graphic (PNG). Es besteht aus mehreren Frames (jeweils ein PNG-Bild), die eine Animationssequenz darstellen. Dies ergibt eine ähnliche Visualisierung wie eine GIF-Datei. APNG-Dateien unterstützen 24-Bit-Bilder und 8-Bit-Transparenz. APNG ist abwärtskompatibel mit nicht animierten GIF-Dateien. APNG-Dateien verwenden dieselbe .png-Erweiterung und können von Anwendungen wie Mozilla Firefox, Chrome mit APNG-Unterstützung und iMessage-Apps für iOS 10 geöffnet werden.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

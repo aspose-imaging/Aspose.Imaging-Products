@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="המר את EMF ל-WEBP - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="אפליקציה חינמית להמרת EMF ל-WEBP"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/EMF-to-WEBP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="המר את EMF ל-WEBP - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | EMF">}}
 פורמט מטא-קובץ משופר (EMF) מאחסן תמונות גרפיות באופן עצמאי. Metafiles של EMF מורכבים מרשומות באורך משתנה לפי סדר כרונולוגי שיכולים לעבד את התמונה המאוחסנת לאחר ניתוח בכל התקן פלט. רשומות אלה באורך משתנה יכולות להיות הגדרות של אובייקטים סגורים, פקודות לציור ומאפיינים גרפיים קריטיים לעיבוד התמונה במדויק. כאשר מכשיר פותח מטא-קובץ EMF באמצעות סביבת גרפיקה משלו, הפרופורציות, הממדים, הצבעים ושאר המאפיינים הגרפיים של התמונה המקורית נשארים זהים ללא קשר לפלטפורמת המכשיר הנפתח.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | WEBP">}}
 WebP, שהוצגה על ידי גוגל, הוא פורמט קובץ תמונה אינטרנטי רסטר מודרני המבוסס על דחיסה נטולת אובדן והפסד. זה מספק את אותה איכות תמונה תוך הקטנה ניכרת של גודל התמונה. מכיוון שרוב דפי האינטרנט משתמשים בתמונות כייצוג יעיל של נתונים, השימוש בתמונות WebP בדפי אינטרנט מביא לטעינה מהירה יותר של דפי אינטרנט. לפי גוגל, תמונות ללא אובדן WebP קטנות ב-26% בהשוואה ל-PNG, בעוד שתמונות עם אובדן WebP קטנות ב-25-34% מתמונות JPEG דומות. השוואת התמונות מבוססת על אינדקס הדמיון המבני (SSIM) בין WebP לפורמטים אחרים של קבצי תמונה. WebP הוא פרויקט אחות של פורמט מיכל מולטימדיה של WebM.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

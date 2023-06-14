@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="DICOM को HTML में बदलें - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="DICOM को HTML में बदलने के लिए नि:शुल्‍क ऐप"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DICOM-to-HTML)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="DICOM को HTML में बदलें - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | DICOM">}}
 DICOM चिकित्सा में डिजिटल इमेजिंग और संचार के लिए संक्षिप्त है और चिकित्सा सूचना विज्ञान के क्षेत्र से संबंधित है। DICOM फ़ाइल स्वरूप परिभाषा और एक नेटवर्क संचार प्रोटोकॉल का संयोजन है। DICOM .DCM एक्सटेंशन का उपयोग करता है। .DCM दो अलग-अलग स्वरूपों में मौजूद है अर्थात स्वरूप 1.x और स्वरूप 2.x। DCM प्रारूप 1.x आगे सामान्य और विस्तारित दो संस्करणों में उपलब्ध है। DICOM का उपयोग विभिन्न विक्रेताओं से चिकित्सा इमेजिंग उपकरणों जैसे प्रिंटर, सर्वर, स्कैनर आदि के एकीकरण के लिए किया जाता है और इसमें विशिष्टता के लिए प्रत्येक रोगी का पहचान डेटा भी होता है। DICOM फ़ाइलें दो पक्षों के बीच साझा की जा सकती हैं यदि वे DICOM प्रारूप में छवि डेटा प्राप्त करने में सक्षम हैं। DICOM का संचार भाग अनुप्रयोग परत प्रोटोकॉल है और संस्थाओं के बीच संचार के लिए TCP/IP का उपयोग करता है। DICOM की वेब सेवाओं के लिए HTTP और HTTPS प्रोटोकॉल का उपयोग किया जाता है। वेब सेवाओं द्वारा समर्थित संस्करण 1.0, 1.1, 2 या बाद के संस्करण हैं।
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | HTML">}}
 HTML (हाइपर टेक्स्ट मार्कअप लैंग्वेज) ब्राउज़र में प्रदर्शन के लिए बनाए गए वेब पेजों का एक्सटेंशन है। वेब की भाषा के रूप में जाना जाता है, एचटीएमएल वेब पेजों के हिस्से के रूप में प्रदर्शित होने वाली नई सूचना आवश्यकताओं की आवश्यकताओं के साथ विकसित हुआ है। नवीनतम संस्करण को HTML 5 के रूप में जाना जाता है जो भाषा के साथ काम करने के लिए बहुत अधिक लचीलापन देता है। HTML पृष्ठ या तो सर्वर से प्राप्त होते हैं, जहां इन्हें होस्ट किया जाता है, या स्थानीय सिस्टम से भी लोड किया जा सकता है। प्रत्येक HTML पृष्ठ HTML तत्वों से बना होता है जैसे कि फॉर्म, टेक्स्ट, इमेज, एनिमेशन, लिंक आदि। इन तत्वों को टैग द्वारा दर्शाया जाता है जैसे कि img, a, p और कई अन्य जहां प्रत्येक टैग का प्रारंभ और अंत होता है। यह समग्र लेआउट प्रतिनिधित्व के लिए स्क्रिप्टिंग भाषाओं जैसे जावास्क्रिप्ट और स्टाइल शीट्स (सीएसएस) में लिखे गए अनुप्रयोगों को भी एम्बेड कर सकता है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -64,16 +64,6 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Converti EPS in DICOM - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="App gratuita per convertire EPS in DICOM"
         appName="Conversion"
@@ -85,13 +75,21 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/it/conversion/EPS-to-DICOM)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Converti EPS in DICOM - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più | EPS">}}
 I file con estensione EPS descrivono essenzialmente un programma in linguaggio Encapsulated PostScript che descrive l'aspetto di una singola pagina. Il nome "Encapsulated" perché può essere incluso o incapsulato nella descrizione della pagina di un altro linguaggio PostScript. Questo formato di file basato su script può contenere qualsiasi combinazione di testo, grafica e immagini. I file EPS possono includere un'immagine di anteprima bitmap incapsulata all'interno per la visualizzazione da parte di applicazioni in grado di aprire tali file. I file EPS possono essere convertiti in formati immagine standard come JPG, PNG, TIFF e PDF utilizzando diverse applicazioni, ad es. Adobe Illustrator, Photoshop e PaintShop Pro. A causa di una vulnerabilità di sicurezza nei file EPS, Office 2016, Office 2013, Office 2010 e Office 365 hanno disattivato la possibilità di inserire file EPS nei documenti di Office.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più | DICOM">}}
 DICOM è l'acronimo di Digital Imaging and Communications in Medicine e appartiene al campo dell'informatica medica. DICOM è la combinazione di definizione del formato file e protocollo di comunicazione di rete. DICOM utilizza l'estensione .DCM. .DCM esiste in due diversi formati, ovvero il formato 1.x e il formato 2.x. DCM Format 1.x è inoltre disponibile in due versioni normale ed estesa. DICOM viene utilizzato per l'integrazione di dispositivi di imaging medico come stampanti, server, scanner, ecc. di vari fornitori e contiene anche i dati di identificazione di ciascun paziente per l'unicità. I file DICOM possono essere condivisi tra due parti se sono in grado di ricevere dati di immagine in formato DICOM. La parte di comunicazione di DICOM è il protocollo del livello dell'applicazione e utilizza TCP/IP per comunicare tra entità. I protocolli HTTP e HTTPS vengono utilizzati per i servizi Web di DICOM. Le versioni supportate dai servizi Web sono 1.0, 1.1, 2 o successive.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

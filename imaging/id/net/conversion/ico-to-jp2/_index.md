@@ -62,16 +62,6 @@ Sebelum menjalankan kode contoh konversi, pastikan Anda memiliki prasyarat berik
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konversi ICO ke JP2 - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Aplikasi Gratis untuk Mengonversi ICO ke JP2"
         appName="Conversion"
@@ -83,13 +73,21 @@ Sebelum menjalankan kode contoh konversi, pastikan Anda memiliki prasyarat berik
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/id/conversion/ICO-to-JP2)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konversi ICO ke JP2 - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya | ICO">}}
 Format file ICO adalah format file gambar untuk ikon komputer di Microsoft Windows. File ICO berisi satu atau lebih gambar kecil dengan berbagai ukuran dan kedalaman warna, sehingga dapat diskalakan dengan tepat. Di Windows, semua executable yang menampilkan ikon kepada pengguna, di desktop, di Start Menu, atau di Windows Explorer, harus membawa ikon dalam format ICO.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya | JP2">}}
 JPEG 2000 (JP2) adalah sistem pengkodean gambar dan standar kompresi gambar mutakhir. Dirancang, menggunakan teknologi wavelet JPEG 2000 dapat mengkodekan konten lossless dalam kualitas apa pun sekaligus. Selain itu, tanpa penalti substansial dalam efisiensi pengkodean, JPEG 2000 memiliki kemampuan untuk mengakses dan mendekode konten yang sama secara efektif ke dalam berbagai resolusi dan kualitas lainnya. Aliran kode dalam JPEG 2000 secara signifikan dapat diskalakan memiliki wilayah yang menarik yang menyediakan fasilitas untuk akses acak spasial. Memiliki hingga 16384 komponen yang beragam dengan dimensi dalam terapixels, dan presisi yang dapat setinggi 38 bit/sampel.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

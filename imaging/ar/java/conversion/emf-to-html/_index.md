@@ -75,16 +75,6 @@ description: نموذج رمز لـ EMF إلى HTML تحويل Java. استخد�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="تحويل EMF إلى HTML - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="تطبيق مجاني لتحويل EMF إلى HTML"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: نموذج رمز لـ EMF إلى HTML تحويل Java. استخد�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/EMF-to-HTML)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="تحويل EMF إلى HTML - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | EMF">}}
 يخزن تنسيق ملف التعريف المحسن (EMF) الصور الرسومية بشكل مستقل عن الجهاز. تتكون ملفات تعريف EMF من سجلات متغيرة الطول بترتيب زمني يمكن أن تعرض الصورة المخزنة بعد التحليل على أي جهاز إخراج. يمكن أن تكون هذه السجلات ذات الطول المتغير تعريفات للكائنات المغلقة وأوامر للرسم وخصائص للرسومات ضرورية لتقديم الصورة بدقة. عندما يفتح جهاز ملف تعريف EMF باستخدام بيئة الرسومات الخاصة به ، تظل النسب والأبعاد والألوان وخصائص الرسوم الأخرى للصورة الأصلية كما هي بغض النظر عن النظام الأساسي للجهاز المفتوح.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | HTML">}}
 HTML (Hyper Text Markup Language) هو امتداد لصفحات الويب التي تم إنشاؤها للعرض في المتصفحات. تُعرف لغة HTML بلغة الويب ، وقد تطورت مع متطلبات متطلبات المعلومات الجديدة ليتم عرضها كجزء من صفحات الويب. يُعرف المتغير الأخير باسم HTML 5 الذي يوفر قدرًا كبيرًا من المرونة للعمل مع اللغة. يتم استلام صفحات HTML إما من الخادم ، حيث يتم استضافتها ، أو يمكن تحميلها من النظام المحلي أيضًا. تتكون كل صفحة HTML من عناصر HTML مثل النماذج والنصوص والصور والرسوم المتحركة والروابط وما إلى ذلك. يتم تمثيل هذه العناصر بعلامات مثل img و a و p والعديد من العناصر الأخرى حيث تبدأ كل علامة ونهايتها. يمكنه أيضًا تضمين التطبيقات المكتوبة بلغات البرمجة النصية مثل JavaScript و Style Sheets (CSS) لتمثيل التخطيط العام.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

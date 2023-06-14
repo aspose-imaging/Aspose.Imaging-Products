@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="แปลง JPEG2000 เป็น GIF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="แอปฟรีเพื่อแปลง JPEG2000 เป็น GIF"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/JPEG2000-to-GIF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="แปลง JPEG2000 เป็น GIF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | JPEG2000">}}
 JPEG 2000 (JP2) คือระบบเข้ารหัสรูปภาพและมาตรฐานการบีบอัดภาพที่ทันสมัย ได้รับการออกแบบโดยใช้เทคโนโลยีเวฟเล็ต JPEG 2000 สามารถเข้ารหัสเนื้อหาแบบไม่สูญเสียคุณภาพใดๆ ได้ในคราวเดียว นอกจากนี้ โดยไม่มีบทลงโทษที่สำคัญในประสิทธิภาพการเข้ารหัส JPEG 2000 มีความสามารถในการเข้าถึงและถอดรหัสเนื้อหาเดียวกันได้อย่างมีประสิทธิภาพในความละเอียดและคุณภาพอื่นๆ ที่หลากหลาย รหัสสตรีมใน JPEG 2000 สามารถปรับขนาดได้อย่างมีนัยสำคัญโดยมีภูมิภาคที่น่าสนใจซึ่งอำนวยความสะดวกสำหรับการเข้าถึงแบบสุ่มเชิงพื้นที่ มีส่วนประกอบที่หลากหลายมากถึง 16384 ตัวด้วยขนาดเป็นเทราพิกเซล และความแม่นยำที่สูงถึง 38 บิต/ตัวอย่าง
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | GIF">}}
 รูปแบบ GIF หรือ Graphical Interchange เป็นประเภทรูปภาพที่มีการบีบอัดสูง Unisys เป็นเจ้าของ GIF ใช้อัลกอริธึมการบีบอัด LZW ที่ไม่ลดคุณภาพของภาพ สำหรับแต่ละภาพ โดยทั่วไปแล้ว GIF อนุญาตให้ใช้ได้ถึง 8 บิตต่อพิกเซล และอนุญาตให้ใช้สีได้สูงสุด 256 สีทั่วทั้งภาพ ตรงกันข้ามกับภาพ JPEG ที่สามารถแสดงสีได้มากถึง 16 ล้านสีและสัมผัสได้ถึงขีดจำกัดของสายตามนุษย์ ย้อนกลับไปเมื่ออินเทอร์เน็ตปรากฏขึ้น GIF ยังคงเป็นตัวเลือกที่ดีที่สุด เนื่องจากต้องใช้แบนด์วิดท์ต่ำและเข้ากันได้กับกราฟิกที่ใช้พื้นที่สีทึบ GIF แบบเคลื่อนไหวจะรวมรูปภาพหรือเฟรมจำนวนมากเป็นไฟล์เดียว และแสดงตามลำดับเพื่อสร้างคลิปภาพเคลื่อนไหวหรือวิดีโอสั้น ข้อจำกัดสีสูงสุด 256 สำหรับแต่ละเฟรม และมีแนวโน้มว่าจะเหมาะสมน้อยที่สุดสำหรับการสร้างภาพอื่นๆ และภาพถ่ายที่มีการไล่ระดับสี
         {{< /blocks/products/pf/agp/about-file-text >}}
 

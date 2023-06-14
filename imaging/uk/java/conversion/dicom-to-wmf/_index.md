@@ -75,16 +75,6 @@ description: Зразок коду для перетворення DICOM у WMF 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити DICOM на WMF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення DICOM у WMF"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Зразок коду для перетворення DICOM у WMF 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DICOM-to-WMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити DICOM на WMF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | DICOM">}}
 DICOM — це абревіатура від Digital Imaging and Communications in Medicine і відноситься до галузі медичної інформатики. DICOM — це поєднання визначення формату файлу та протоколу мережевого зв’язку. DICOM використовує розширення .DCM. .DCM існує у двох різних форматах, тобто форматі 1.x і форматі 2.x. Формат DCM 1.x також доступний у двох версіях: звичайній і розширеній. DICOM використовується для інтеграції медичних пристроїв візуалізації, таких як принтери, сервери, сканери тощо від різних постачальників, а також містить ідентифікаційні дані кожного пацієнта для унікальності. Файли DICOM можуть використовуватися між двома сторонами, якщо вони здатні отримувати дані зображення у форматі DICOM. Комунікаційна частина DICOM є протоколом прикладного рівня та використовує TCP/IP для зв’язку між об’єктами. Для веб-служб DICOM використовуються протоколи HTTP і HTTPS. Веб-службами підтримуються версії 1.0, 1.1, 2 або новіші.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | WMF">}}
 Файли з розширенням WMF представляють метафайл Microsoft Windows (WMF) для зберігання векторних і растрових зображень. Щоб бути більш точним, WMF належить до категорії форматів векторних файлів графічних форматів, які не залежать від пристрою. Інтерфейс графічного пристрою Windows (GDI) використовує функції, збережені у файлі WMF, для відображення зображення на екрані. Пізніше було опубліковано розширену версію WMF, відому як Enhanced Meta Files (EMF), яка робить формат більш багатим на функції. Практично WMF схожі на SVG.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

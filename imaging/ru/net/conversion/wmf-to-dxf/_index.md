@@ -64,16 +64,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Преобразование WMF в DXF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Бесплатное приложение для конвертации WMF в DXF"
         appName="Conversion"
@@ -85,13 +75,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ru/conversion/WMF-to-DXF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Преобразование WMF в DXF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее | WMF">}}
 Файлы с расширением WMF представляют собой метафайл Microsoft Windows (WMF) для хранения данных векторных и растровых изображений. Чтобы быть более точным, WMF принадлежит к категории форматов векторных файлов форматов графических файлов, которые не зависят от устройства. Интерфейс графических устройств Windows (GDI) использует функции, хранящиеся в файле WMF, для отображения изображения на экране. Более расширенная версия WMF, известная как Enhanced Meta Files (EMF), была опубликована позже, что делает формат более многофункциональным. Практически WMF похож на SVG.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее | DXF">}}
 DXF, формат обмена чертежами или формат обмена чертежами — это теговое представление данных файла чертежа AutoCAD. Каждый элемент в файле имеет префикс целого числа, называемый групповым кодом. Этот групповой код фактически представляет следующий за ним элемент и указывает значение элемента данных для данного типа объекта. DXF позволяет представить почти всю указанную пользователем информацию в файле чертежа.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

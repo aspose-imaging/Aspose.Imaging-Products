@@ -75,16 +75,6 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Převést TIFF na GIF – Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Bezplatná aplikace pro převod TIFF na GIF"
         appName="Conversion"
@@ -96,13 +86,21 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/TIFF-to-GIF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Převést TIFF na GIF – Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více | TIFF">}}
 TIFF nebo TIF, Tagged Image File Format, představuje rastrové obrázky, které jsou určeny pro použití na různých zařízeních, která vyhovují tomuto standardu formátu souboru. Je schopen popsat dvouúrovňová, šedá, paletová a plnobarevná obrazová data v několika barevných prostorech. Podporuje ztrátová i bezeztrátová kompresní schémata pro výběr mezi prostorem a časem pro aplikace používající formát. Formát je rozšiřitelný a prošel několika revizemi, které umožňují zahrnutí neomezeného množství soukromých nebo speciálních informací. Formát není závislý na počítači a je prostý omezení, jako je procesor, operační systém nebo systémy souborů.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více | GIF">}}
 Formát GIF nebo Graphical Interchange Format je typ vysoce komprimovaného obrázku. GIF, vlastněný Unisysem, používá kompresní algoritmus LZW, který nesnižuje kvalitu obrazu. Pro každý obrázek GIF obvykle povoluje až 8 bitů na pixel a v celém obrázku je povoleno až 256 barev. Na rozdíl od obrázku JPEG, který dokáže zobrazit až 16 milionů barev a slušně zasahuje hranice lidského oka. Když se objevil internet, zůstaly GIFy nejlepší volbou, protože vyžadovaly malou šířku pásma a byly kompatibilní s grafikou, která spotřebovává plné barevné plochy. Animovaný GIF kombinuje četné obrázky nebo snímky do jednoho souboru a zobrazuje je v sekvenci, aby vytvořil animovaný klip nebo krátké video. Omezení barev jsou až 256 pro každý snímek a pravděpodobně budou nejméně vhodná pro reprodukci jiných obrázků a fotografií s barevným přechodem.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

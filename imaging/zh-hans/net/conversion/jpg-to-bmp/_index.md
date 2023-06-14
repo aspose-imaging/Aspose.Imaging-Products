@@ -62,16 +62,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="将 JPG 转换为 BMP - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="将 JPG 转换为 BMP 的免费应用程序"
         appName="Conversion"
@@ -83,13 +73,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hans/conversion/JPG-to-BMP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="将 JPG 转换为 BMP - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | JPG">}}
 JPEG 是一种使用有损压缩方法保存的图像格式。作为压缩的结果，输出图像是存储大小和图像质量之间的权衡。用户可以调整压缩级别以达到所需的质量级别，同时减小存储大小。如果对图像应用 10:1 压缩，则对图像质量的影响可以忽略不计。压缩值越高，图像质量的劣化程度越高。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | BMP">}}
 扩展名为 .BMP 的文件表示用于存储位图数字图像的位图图像文件。这些图像独立于图形适配器，也称为设备独立位图 (DIB) 文件格式。这种独立性的目的是在 Microsoft Windows 和 Mac 等多个平台上打开文件。 BMP 文件格式可以将数据存储为单色和具有各种颜色深度的彩色格式的二维数字图像。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

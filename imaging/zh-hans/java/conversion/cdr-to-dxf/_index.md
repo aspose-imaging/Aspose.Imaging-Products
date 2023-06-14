@@ -76,16 +76,6 @@ description: CDR 到 DXF Java 转换的示例代码。在任何基于 Web 或桌
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="将 CDR 转换为 DXF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="将 CDR 转换为 DXF 的免费应用程序"
         appName="Conversion"
@@ -97,13 +87,21 @@ description: CDR 到 DXF Java 转换的示例代码。在任何基于 Web 或桌
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hans/conversion/CDR-to-DXF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="将 CDR 转换为 DXF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | CDR">}}
 CDR 文件是使用 CorelDRAW 本地创建的矢量绘图图像文件，用于存储编码和压缩的数字图像。这样的绘图文件包含文本、线条、形状、图像、颜色和效果，用于图像内容的矢量表示。 CDR 文件可以使用 CorelDRAW 作为主要应用程序打开，也可以转换为其他格式，例如 PDF、JPG、PNG、BMP 和 AI。它可用于表示各种图形数据，如小册子、小报、信封和明信片。除了 CorelDRAW，Corel Paintshop Pro 和 CorelDRAW Graphics Suite 等其他 Corel 产品也可以打开 CDR 文件格式。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | DXF">}}
 DXF，即图形交换格式，或图形交换格式，是 AutoCAD 图形文件的标记数据表示。文件中的每个元素都有一个前缀整数，称为组码。该组代码实际上表示后面的元素，并指示给定对象类型的数据元素的含义。 DXF 可以在图形文件中表示几乎所有用户指定的信息。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

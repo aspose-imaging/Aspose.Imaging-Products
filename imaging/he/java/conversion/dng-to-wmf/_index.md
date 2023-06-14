@@ -75,16 +75,6 @@ description: קוד לדוגמה עבור המרת Java מ-DNG ל-WMF. השתמ�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="המר את DNG ל-WMF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="אפליקציה חינמית להמרת DNG ל-WMF"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: קוד לדוגמה עבור המרת Java מ-DNG ל-WMF. השתמ�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DNG-to-WMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="המר את DNG ל-WMF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | DNG">}}
 DNG הוא פורמט תמונה של מצלמה דיגיטלית המשמש לאחסון קבצי גלם. הוא פותח על ידי אדובי בספטמבר 2004. הוא פותח בעיקרו עבור צילום דיגיטלי. DNG הוא הרחבה של פורמט תקן TIFF/EP ומשתמש במטא נתונים באופן משמעותי. על מנת לתפעל נתונים גולמיים ממצלמות דיגיטליות בקלות גמישות ושליטה אמנותית, צלמים בוחרים בקבצי מצלמה גולמיים. פורמטים JPEG ו-TIFF מאחסנים תמונות המעובדות על ידי המצלמה, ולכן אין הרבה מקום לשינויים בפורמטים כאלה.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | WMF">}}
 קבצים עם סיומת WMF מייצגים את Microsoft Windows Metafile (WMF) לאחסון נתוני תמונות וקטורים כמו גם בפורמט סיביות. ליתר דיוק, WMF שייך לקטגוריית פורמט קבצים וקטור של פורמטים של קבצי גרפיקה שאינה תלויה במכשיר. ממשק התקן גרפי של Windows (GDI) משתמש בפונקציות המאוחסנות בקובץ WMF כדי להציג תמונה על המסך. מאוחר יותר פורסמה גרסה משופרת יותר של WMF, הידועה בשם Enhanced Meta Files (EMF), שהופכת את הפורמט לעשיר יותר בתכונות. למעשה, WMF דומים ל-SVG.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -64,16 +64,6 @@ Avant d'exécuter l'exemple de code de conversion, assurez-vous que vous dispose
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convertir APNG en SVGZ - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Application gratuite pour convertir APNG en SVGZ"
         appName="Conversion"
@@ -85,13 +75,21 @@ Avant d'exécuter l'exemple de code de conversion, assurez-vous que vous dispose
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/fr/conversion/APNG-to-SVGZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Convertir APNG en SVGZ - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite | APNG">}}
 Un fichier avec l'extension .apng (Animated Portable Network Graphics) est un format graphique raster et est une extension non officielle du Portable Network Graphic (PNG). Il comprend plusieurs cadres (chacun d'une image PNG) qui représente une séquence d'animation. Cela donne une visualisation similaire à un fichier GIF. Les fichiers APNG prennent en charge les images 24 bits et la transparence 8 bits. APNG est rétrocompatible avec les fichiers GIF non animés. Les fichiers APNG utilisent la même extension .png et peuvent être ouverts par des applications telles que Mozilla Firefox, Chrome avec prise en charge APNG, les applications iMessage pour iOS 10.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite | SVGZ">}}
 Un fichier avec l'extension .svgz est une version compressée du fichier Scalable Vector Graphics (.SVG). Il est compressé avec la compression gzip et contient des données au format XML. Les fichiers SVGZ prennent en charge la transparence, les dégradés, les animations et les filtres. Les fichiers SVGZ sont plus petits que les fichiers SVG par défaut et cette taille de fichier réduite permet de transférer les fichiers graphiques en ligne. Le graphiste crée des fichiers SVGZ à l'aide d'outils tels qu'Adobe Illustrator, Corel PaintShop Pro et autres. Cependant, les fichiers SVGZ peuvent être générés en activant la compression GZip dans le serveur Apache lors de l'envoi des données d'image.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

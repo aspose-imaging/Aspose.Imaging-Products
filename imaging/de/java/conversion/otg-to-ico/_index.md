@@ -75,16 +75,6 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertiere OTG in ICO - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Kostenlose App zum Konvertieren von OTG in ICO"
         appName="Conversion"
@@ -96,13 +86,21 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/de/conversion/OTG-to-ICO)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertiere OTG in ICO - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen | OTG">}}
 Eine OTG-Datei ist eine Zeichnungsvorlage, die mit dem OpenDocument-Standard erstellt wird, der der OASIS Office Applications 1.0-Spezifikation folgt. Es stellt die Standardorganisation von Zeichnungselementen für ein Vektorbild dar, das verwendet werden kann, um den Inhalt der Datei weiter zu verbessern.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen | ICO">}}
 Das ICO-Dateiformat ist ein Bilddateiformat für Computersymbole in Microsoft Windows. ICO-Dateien enthalten ein oder mehrere kleine Bilder in mehreren Größen und Farbtiefen, sodass sie entsprechend skaliert werden können. In Windows müssen alle ausführbaren Dateien, die dem Benutzer auf dem Desktop, im Startmenü oder im Windows Explorer ein Symbol anzeigen, das Symbol im ICO-Format enthalten.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

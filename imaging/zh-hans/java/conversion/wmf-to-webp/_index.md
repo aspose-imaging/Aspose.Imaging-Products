@@ -76,16 +76,6 @@ description: WMF 到 WEBP Java 转换的示例代码。在任何基于 Web 或�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="将 WMF 转换为 WEBP - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="将 WMF 转换为 WEBP 的免费应用程序"
         appName="Conversion"
@@ -97,13 +87,21 @@ description: WMF 到 WEBP Java 转换的示例代码。在任何基于 Web 或�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hans/conversion/WMF-to-WEBP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="将 WMF 转换为 WEBP - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | WMF">}}
 带有 WMF 扩展名的文件代表 Microsoft Windows 元文件 (WMF)，用于存储矢量以及位图格式的图像数据。更准确地说，WMF 属于与设备无关的图形文件格式的矢量文件格式类别。 Windows 图形设备接口 (GDI) 使用存储在 WMF 文件中的函数在屏幕上显示图像。后来发布了 WMF 的更增强版本，称为增强元文件 (EMF)，使该格式的功能更加丰富。实际上，WMF 类似于 SVG。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | WEBP">}}
 WebP 是 Google 推出的一种现代光栅 Web 图像文件格式，它基于无损和有损压缩。它提供相同的图像质量，同时大大减小了图像尺寸。由于大多数网页使用图像作为数据的有效表示，因此在网页中使用 WebP 图像会导致网页加载速度更快。根据谷歌的说法，WebP 无损图像的大小比 PNG 小 26%，而 WebP 有损图像比同类 JPEG 图像小 25-34%。基于 WebP 和其他图像文件格式之间的结构相似性 (SSIM) 索引比较图像。 WebP 是 WebM 多媒体容器格式的姊妹项目。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

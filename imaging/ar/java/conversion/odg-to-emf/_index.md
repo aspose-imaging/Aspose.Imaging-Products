@@ -75,16 +75,6 @@ description: نموذج رمز لـ ODG إلى EMF تحويل Java. استخدم
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="تحويل ODG إلى EMF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="تطبيق مجاني لتحويل ODG إلى EMF"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: نموذج رمز لـ ODG إلى EMF تحويل Java. استخدم
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/ODG-to-EMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="تحويل ODG إلى EMF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | ODG">}}
 يتم استخدام تنسيق ملف ODG بواسطة تطبيق رسم Apache OpenOffice لتخزين عناصر الرسم كصورة متجهة. وهو يتبع مواصفات تنسيق الملفات المستندة إلى XML الموضحة من قبل تطوير معايير المعلومات الهيكلية (OASIS). يمثل ODG الرسومات كصور متجهة باستخدام النقاط والخطوط والمنحنيات. إلى جانب OpenOffice ، توفر LibreOffice والتطبيقات الأخرى أيضًا دعمًا للعمل مع تنسيق ملف ODG. تشمل التنسيقات الأخرى التي يدعمها OpenOffice ، على سبيل المثال ، ODT و ODF و ODP و ODS.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | EMF">}}
 يخزن تنسيق ملف التعريف المحسن (EMF) الصور الرسومية بشكل مستقل عن الجهاز. تتكون ملفات تعريف EMF من سجلات متغيرة الطول بترتيب زمني يمكن أن تعرض الصورة المخزنة بعد التحليل على أي جهاز إخراج. يمكن أن تكون هذه السجلات ذات الطول المتغير تعريفات للكائنات المغلقة وأوامر للرسم وخصائص للرسومات ضرورية لتقديم الصورة بدقة. عندما يفتح جهاز ملف تعريف EMF باستخدام بيئة الرسومات الخاصة به ، تظل النسب والأبعاد والألوان وخصائص الرسوم الأخرى للصورة الأصلية كما هي بغض النظر عن النظام الأساسي للجهاز المفتوح.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

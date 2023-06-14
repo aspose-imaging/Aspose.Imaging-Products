@@ -76,16 +76,6 @@ description: EPS 到 WEBP Java 转换的示例代码。在任何基于 Web 或�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="将 EPS 转换为 WEBP - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="将 EPS 转换为 WEBP 的免费应用程序"
         appName="Conversion"
@@ -97,13 +87,21 @@ description: EPS 到 WEBP Java 转换的示例代码。在任何基于 Web 或�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hans/conversion/EPS-to-WEBP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="将 EPS 转换为 WEBP - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | EPS">}}
 带有 EPS 扩展名的文件本质上描述了一个封装的 PostScript 语言程序，该程序描述了单个页面的外观。名称“封装”是因为它可以包含或封装在另一种 PostScript 语言页面描述中。这种基于脚本的文件格式可能包含文本、图形和图像的任意组合。 EPS 文件可能包含封装在内部的位图预览图像，以供可以打开此类文件的应用程序显示。可以使用不同的应用程序将 EPS 文件转换为标准图像格式，例如 JPG、PNG、TIFF 和 PDF。 Adobe Illustrator、Photoshop 和 PaintShop Pro。由于 EPS 文件中存在安全漏洞，Office 2016、Office 2013、Office 2010 和 Office 365 已关闭将 EPS 文件插入 Office 文档的功能。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | WEBP">}}
 WebP 是 Google 推出的一种现代光栅 Web 图像文件格式，它基于无损和有损压缩。它提供相同的图像质量，同时大大减小了图像尺寸。由于大多数网页使用图像作为数据的有效表示，因此在网页中使用 WebP 图像会导致网页加载速度更快。根据谷歌的说法，WebP 无损图像的大小比 PNG 小 26%，而 WebP 有损图像比同类 JPEG 图像小 25-34%。基于 WebP 和其他图像文件格式之间的结构相似性 (SSIM) 索引比较图像。 WebP 是 WebM 多媒体容器格式的姊妹项目。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

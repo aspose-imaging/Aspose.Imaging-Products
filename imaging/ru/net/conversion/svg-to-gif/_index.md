@@ -64,16 +64,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Преобразование SVG в GIF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Бесплатное приложение для конвертации SVG в GIF"
         appName="Conversion"
@@ -85,13 +75,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ru/conversion/SVG-to-GIF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Преобразование SVG в GIF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее | SVG">}}
 Файлы SVG представляют собой файлы масштабируемой векторной графики, которые используют текстовый формат на основе XML для описания внешнего вида изображения. Слово «масштабируемый» относится к тому факту, что SVG можно масштабировать до разных размеров без потери качества. Текстовое описание таких файлов делает их независимыми от разрешения. Это один из наиболее часто используемых форматов для создания веб-сайтов и печатной графики для достижения масштабируемости. Однако этот формат можно использовать только для двумерной графики. Файлы SVG можно просматривать/открывать практически во всех современных браузерах, включая Chrome, Internet Explorer, Firefox и Safari.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее | GIF">}}
 Формат GIF или Graphical Interchange Format представляет собой тип сильно сжатого изображения. Принадлежащий Unisys, GIF использует алгоритм сжатия LZW, который не ухудшает качество изображения. Для каждого изображения в формате GIF обычно допускается до 8 бит на пиксель, а в изображении допускается до 256 цветов. В отличие от изображения в формате JPEG, которое может отображать до 16 миллионов цветов и довольно далеко выходит за пределы возможностей человеческого глаза. Когда появился Интернет, GIF-файлы оставались лучшим выбором, потому что они требовали низкой пропускной способности и были совместимы с графикой, которая использует сплошные области цвета. Анимированный GIF объединяет многочисленные изображения или кадры в один файл и отображает их в последовательности для создания анимированного клипа или короткого видео. Ограничения по цвету составляют до 256 для каждого кадра и, вероятно, будут наименее подходящими для воспроизведения других изображений и фотографий с цветовым градиентом.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

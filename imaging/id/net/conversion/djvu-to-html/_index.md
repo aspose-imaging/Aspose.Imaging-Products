@@ -62,16 +62,6 @@ Sebelum menjalankan kode contoh konversi, pastikan Anda memiliki prasyarat berik
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konversi DJVU ke HTML - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Aplikasi Gratis untuk Mengonversi DJVU ke HTML"
         appName="Conversion"
@@ -83,13 +73,21 @@ Sebelum menjalankan kode contoh konversi, pastikan Anda memiliki prasyarat berik
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/id/conversion/DJVU-to-HTML)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konversi DJVU ke HTML - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya | DJVU">}}
 DjVu, diucapkan sebagai DJVU, adalah format file grafik yang ditujukan untuk dokumen dan buku yang dipindai terutama yang berisi kombinasi teks, gambar, gambar, dan foto. Ini dikembangkan oleh AT&T Labs. Ini menggunakan beberapa teknik seperti pemisahan lapisan gambar teks dan gambar latar belakang, pemuatan progresif, pengkodean aritmatika dan kompresi lossy untuk gambar bitonal. Karena file DJVU dapat berisi gambar, foto, teks, dan gambar berwarna yang terkompresi namun berkualitas tinggi dan dapat disimpan dalam ruang yang lebih sedikit, oleh karena itu, file ini digunakan di web sebagai eBuku, manual, surat kabar, dokumen kuno, dll.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya | HTML">}}
 HTML (Hyper Text Markup Language) adalah ekstensi untuk halaman web yang dibuat untuk ditampilkan di browser. Dikenal sebagai bahasa web, HTML telah berkembang dengan persyaratan persyaratan informasi baru untuk ditampilkan sebagai bagian dari halaman web. Varian terbaru dikenal sebagai HTML 5 yang memberikan banyak fleksibilitas untuk bekerja dengan bahasa tersebut. Halaman HTML diterima dari server, di mana ini di-host, atau dapat dimuat dari sistem lokal juga. Setiap halaman HTML terdiri dari elemen HTML seperti formulir, teks, gambar, animasi, tautan, dll. Elemen-elemen ini diwakili oleh tag seperti img, a, p dan beberapa lainnya di mana setiap tag memiliki awal dan akhir. Itu juga dapat menyematkan aplikasi yang ditulis dalam bahasa skrip seperti JavaScript dan Style Sheets (CSS) untuk representasi tata letak keseluruhan.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

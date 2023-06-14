@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="แปลง TGA เป็น JPEG - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="แอปฟรีเพื่อแปลง TGA เป็น JPEG"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/TGA-to-JPEG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="แปลง TGA เป็น JPEG - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | TGA">}}
 Truevision TGA ซึ่งมักเรียกกันว่า TARGA เป็นรูปแบบไฟล์กราฟิกแรสเตอร์ที่สร้างโดย Truevision Inc. (ปัจจุบันเป็นส่วนหนึ่งของ Avid Technology) เป็นรูปแบบดั้งเดิมของบอร์ด TARGA และ VISTA ซึ่งเป็นกราฟิกการ์ดรุ่นแรกสำหรับพีซีที่เข้ากันได้กับ IBM เพื่อรองรับการแสดงผล Highcolor/truecolor
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | JPEG">}}
 JPEG เป็นรูปแบบรูปภาพประเภทหนึ่งที่บันทึกโดยใช้วิธีการบีบอัดแบบสูญเสียข้อมูล ภาพที่ส่งออกซึ่งเป็นผลมาจากการบีบอัด เป็นการแลกเปลี่ยนระหว่างขนาดพื้นที่จัดเก็บและคุณภาพของภาพ ผู้ใช้สามารถปรับระดับการบีบอัดเพื่อให้ได้ระดับคุณภาพที่ต้องการ ในขณะเดียวกันก็ลดขนาดการจัดเก็บลง คุณภาพของรูปภาพจะได้รับผลกระทบเล็กน้อยหากใช้การบีบอัด 10:1 กับรูปภาพ ยิ่งค่าการบีบอัดสูง คุณภาพของภาพก็จะยิ่งลดลง
         {{< /blocks/products/pf/agp/about-file-text >}}
 

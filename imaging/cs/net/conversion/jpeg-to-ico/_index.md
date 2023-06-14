@@ -63,16 +63,6 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Převést JPEG na ICO – .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Bezplatná aplikace pro převod JPEG na ICO"
         appName="Conversion"
@@ -84,13 +74,21 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/JPEG-to-ICO)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Převést JPEG na ICO – .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více | JPEG">}}
 JPEG je typ obrazového formátu, který se ukládá pomocí metody ztrátové komprese. Výstupní obraz, jako výsledek komprese, je kompromisem mezi velikostí úložiště a kvalitou obrazu. Uživatelé mohou upravit úroveň komprese tak, aby dosáhli požadované úrovně kvality a zároveň snížili velikost úložiště. Kvalita obrazu je zanedbatelně ovlivněna, pokud je na obraz aplikována komprese 10:1. Čím vyšší je hodnota komprese, tím vyšší je zhoršení kvality obrazu.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více | ICO">}}
 Formát souboru ICO je formát souboru obrázků pro počítačové ikony v systému Microsoft Windows. Soubory ICO obsahují jeden nebo více malých obrázků v různých velikostech a barevných hloubkách, takže je lze vhodně škálovat. Ve Windows musí všechny spustitelné soubory, které uživateli zobrazují ikonu, na ploše, v nabídce Start nebo v Průzkumníku Windows, nést ikonu ve formátu ICO.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

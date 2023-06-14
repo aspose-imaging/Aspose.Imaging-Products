@@ -75,16 +75,6 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="BMP öğesini GIF - Java biçimine dönüştürün" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="BMP'i GIF'e Dönüştürmek için Ücretsiz Uygulama"
         appName="Conversion"
@@ -96,13 +86,21 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/tr/conversion/BMP-to-GIF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="BMP öğesini GIF - Java biçimine dönüştürün" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | BMP">}}
 .BMP uzantısına sahip dosyalar, bitmap dijital görüntüleri depolamak için kullanılan Bitmap Görüntü dosyalarını temsil eder. Bu görüntüler grafik bağdaştırıcısından bağımsızdır ve aygıttan bağımsız bit eşlem (DIB) dosya biçimi olarak da adlandırılır. Bu bağımsızlık, dosyayı Microsoft Windows ve Mac gibi birden çok platformda açma amacına hizmet eder. BMP dosya formatı, verileri hem monokrom hem de çeşitli renk derinliklerine sahip renkli formatta iki boyutlu dijital görüntüler olarak saklayabilir.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | GIF">}}
 GIF veya Grafik Değişim Biçimi, yüksek oranda sıkıştırılmış bir görüntü türüdür. Unisys'e ait olan GIF, görüntü kalitesini düşürmeyen LZW sıkıştırma algoritmasını kullanır. Her görüntü için GIF tipik olarak piksel başına 8 bite kadar izin verir ve görüntü genelinde 256 renge kadar izin verilir. 16 milyona kadar renk gösterebilen ve insan gözünün sınırlarına oldukça dokunan bir JPEG görüntüsünün aksine. İnternet ortaya çıktığında, GIF'ler düşük bant genişliği gerektirdiğinden ve düz renkli alanlar tüketen grafiklerle uyumlu olduğundan en iyi seçenek olarak kaldı. Animasyonlu bir GIF, çok sayıda görüntüyü veya çerçeveyi tek bir dosyada birleştirir ve hareketli bir klip veya kısa bir video oluşturmak için bunları bir sırayla görüntüler. Renk sınırlamaları her kare için 256'ya kadardır ve renk gradyanlı diğer görüntülerin ve fotoğrafların çoğaltılması için en az uygun olanlardır.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

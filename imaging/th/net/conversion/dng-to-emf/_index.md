@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="แปลง DNG เป็น EMF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="แอปฟรีเพื่อแปลง DNG เป็น EMF"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DNG-to-EMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="แปลง DNG เป็น EMF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | DNG">}}
 DNG เป็นรูปแบบภาพของกล้องดิจิตอลที่ใช้สำหรับจัดเก็บไฟล์ดิบ ได้รับการพัฒนาโดย Adobe ในเดือนกันยายน 2547 โดยพื้นฐานแล้วได้รับการพัฒนาสำหรับการถ่ายภาพดิจิทัล DNG เป็นส่วนขยายของรูปแบบมาตรฐาน TIFF/EP และใช้ข้อมูลเมตาอย่างมาก เพื่อจัดการข้อมูลดิบจากกล้องดิจิทัลด้วยความยืดหยุ่นที่ง่ายดายและการควบคุมอย่างมีศิลปะ ช่างภาพจึงเลือกใช้ไฟล์ Raw ของกล้อง รูปแบบ JPEG และ TIFF จัดเก็บภาพที่ประมวลผลโดยกล้อง ดังนั้นจึงไม่มีที่ว่างสำหรับการแก้ไขในรูปแบบดังกล่าว
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | EMF">}}
 รูปแบบเมตาไฟล์ที่ปรับปรุงแล้ว (EMF) จัดเก็บภาพกราฟิกแบบแยกจากอุปกรณ์ Metafiles ของ EMF ประกอบด้วยเร็กคอร์ดความยาวผันแปรตามลำดับเวลาซึ่งสามารถแสดงภาพที่เก็บไว้หลังจากแยกวิเคราะห์บนอุปกรณ์ส่งออกใด ๆ เร็กคอร์ดความยาวผันแปรเหล่านี้สามารถเป็นคำจำกัดความของออบเจ็กต์ที่ล้อมรอบ คำสั่งสำหรับการวาดภาพ และคุณสมบัติกราฟิกที่สำคัญอย่างยิ่งต่อการแสดงภาพอย่างถูกต้อง เมื่ออุปกรณ์เปิดเมตาไฟล์ EMF โดยใช้สภาพแวดล้อมกราฟิกของตัวเอง สัดส่วน ขนาด สี และคุณสมบัติกราฟิกอื่นๆ ของภาพต้นฉบับจะยังคงเหมือนเดิมโดยไม่คำนึงถึงแพลตฟอร์มอุปกรณ์ที่เปิดอยู่
         {{< /blocks/products/pf/agp/about-file-text >}}
 

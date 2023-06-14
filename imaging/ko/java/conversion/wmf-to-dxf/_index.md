@@ -75,16 +75,6 @@ WMF을 DXF로 변환하려면 다음을 사용합니다. [자바용 Aspose.Imagi
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="WMF을 DXF로 변환 - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="WMF을 DXF로 변환하는 무료 앱"
         appName="Conversion"
@@ -96,13 +86,21 @@ WMF을 DXF로 변환하려면 다음을 사용합니다. [자바용 Aspose.Imagi
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ko/conversion/WMF-to-DXF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="WMF을 DXF로 변환 - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | WMF">}}
 WMF 확장자를 가진 파일은 벡터 및 비트맵 형식 이미지 데이터를 저장하기 위한 Microsoft WMF(Windows 메타파일)를 나타냅니다. 더 정확하게 말하면 WMF는 장치 독립적인 그래픽 파일 형식의 벡터 파일 형식 범주에 속합니다. Windows GDI(그래픽 장치 인터페이스)는 WMF 파일에 저장된 기능을 사용하여 화면에 이미지를 표시합니다. EMF(Enhanced Meta Files)로 알려진 보다 향상된 WMF 버전이 나중에 게시되어 형식을 더욱 풍부하게 만들었습니다. 실제로 WMF는 SVG와 유사합니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | DXF">}}
 DXF, 도면 교환 형식 또는 도면 교환 형식은 AutoCAD 도면 파일의 태그가 지정된 데이터 표현입니다. 파일의 각 요소에는 그룹 코드라는 접두어 정수 번호가 있습니다. 이 그룹 코드는 실제로 뒤에 오는 요소를 나타내고 주어진 개체 유형에 대한 데이터 요소의 의미를 나타냅니다. DXF를 사용하면 도면 파일에서 거의 모든 사용자 지정 정보를 표현할 수 있습니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

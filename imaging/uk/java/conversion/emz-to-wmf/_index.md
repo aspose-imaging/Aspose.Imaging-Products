@@ -75,16 +75,6 @@ description: Зразок коду для перетворення EMZ у WMF Ja
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити EMZ на WMF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення EMZ у WMF"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Зразок коду для перетворення EMZ у WMF Ja
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/EMZ-to-WMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити EMZ на WMF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | EMZ">}}
 Файл із розширенням EMZ — це файл стисненого зображення, який більш конкретно називається Windows Compressed Enhanced Metafile
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | WMF">}}
 Файли з розширенням WMF представляють метафайл Microsoft Windows (WMF) для зберігання векторних і растрових зображень. Щоб бути більш точним, WMF належить до категорії форматів векторних файлів графічних форматів, які не залежать від пристрою. Інтерфейс графічного пристрою Windows (GDI) використовує функції, збережені у файлі WMF, для відображення зображення на екрані. Пізніше було опубліковано розширену версію WMF, відому як Enhanced Meta Files (EMF), яка робить формат більш багатим на функції. Практично WMF схожі на SVG.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

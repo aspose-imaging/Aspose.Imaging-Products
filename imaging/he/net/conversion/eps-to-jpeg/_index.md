@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="המר את EPS ל-JPEG - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="אפליקציה חינמית להמרת EPS ל-JPEG"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/EPS-to-JPEG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="המר את EPS ל-JPEG - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | EPS">}}
 קבצים עם סיומת EPS מתארים בעצם תוכנית שפת Encapsulated PostScript שמתארת ​​את המראה של עמוד בודד. השם "Encapsulated" מכיוון שניתן לכלול אותו או לכלול אותו בתיאור עמוד אחר בשפת PostScript. פורמט קובץ זה מבוסס סקריפט עשוי להכיל כל שילוב של טקסט, גרפיקה ותמונות. קובצי EPS עשויים לכלול תמונת תצוגה מקדימה של מפת סיביות מכוסה בפנים לתצוגה על ידי יישומים שיכולים לפתוח קבצים כאלה. ניתן להמיר קבצי EPS לפורמטים סטנדרטיים של תמונה כגון JPG, PNG, TIFF ו-PDF באמצעות יישומים שונים, למשל. Adobe Illustrator, Photoshop ו-PaintShop Pro. בגלל פגיעות אבטחה בקובצי EPS, Office 2016, Office 2013, Office 2010 ו-Office 365 ביטלו את היכולת להכניס קובצי EPS למסמכי Office.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | JPEG">}}
 JPEG הוא סוג של פורמט תמונה שנשמר בשיטת הדחיסה המאבדת. תמונת הפלט, כתוצאה מדחיסה, היא פשרה בין גודל האחסון ואיכות התמונה. משתמשים יכולים להתאים את רמת הדחיסה כדי להשיג את רמת האיכות הרצויה ובו בזמן להקטין את גודל האחסון. איכות התמונה מושפעת באופן זניח אם מוחלת דחיסה של 10:1 על התמונה. ככל שערך הדחיסה גבוה יותר, כך הירידה באיכות התמונה גבוהה יותר.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

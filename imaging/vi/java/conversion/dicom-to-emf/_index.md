@@ -75,16 +75,6 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Chuyển đổi DICOM thành EMF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Ứng dụng miễn phí để chuyển đổi DICOM thành EMF"
         appName="Conversion"
@@ -96,13 +86,21 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/vi/conversion/DICOM-to-EMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Chuyển đổi DICOM thành EMF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm | DICOM">}}
 DICOM là từ viết tắt của Digital Imaging and Communications in Medicine, liên quan đến lĩnh vực Tin học Y tế. DICOM là sự kết hợp giữa định nghĩa định dạng tệp và một giao thức truyền thông mạng. DICOM sử dụng phần mở rộng .DCM. .DCM tồn tại ở hai định dạng khác nhau, tức là định dạng 1.x và định dạng 2.x. Định dạng DCM 1.x còn có sẵn trong hai phiên bản bình thường và mở rộng. DICOM được sử dụng để tích hợp các thiết bị hình ảnh y tế như máy in, máy chủ, máy quét, v.v. từ các nhà cung cấp khác nhau và cũng chứa dữ liệu nhận dạng của từng bệnh nhân để tạo tính duy nhất. Các tệp DICOM có thể được chia sẻ giữa hai bên nếu họ có khả năng nhận dữ liệu hình ảnh ở định dạng DICOM. Phần giao tiếp của DICOM là giao thức lớp ứng dụng và sử dụng TCP / IP để giao tiếp giữa các thực thể. Các giao thức HTTP và HTTPS được sử dụng cho các dịch vụ web của DICOM. Các phiên bản được hỗ trợ bởi các dịch vụ web là 1.0, 1.1, 2 hoặc mới hơn.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm | EMF">}}
 Định dạng metafile nâng cao (EMF) lưu trữ hình ảnh đồ họa độc lập với thiết bị. Siêu tệp EMF bao gồm các bản ghi có độ dài thay đổi theo thứ tự thời gian có thể hiển thị hình ảnh được lưu trữ sau khi phân tích cú pháp trên bất kỳ thiết bị đầu ra nào. Các bản ghi có độ dài thay đổi này có thể là định nghĩa của các đối tượng kèm theo, các lệnh để vẽ và các thuộc tính đồ họa quan trọng để hiển thị hình ảnh một cách chính xác. Khi một thiết bị mở siêu tệp EMF bằng cách sử dụng môi trường đồ họa của riêng nó, tỷ lệ, kích thước, màu sắc và các thuộc tính đồ họa khác của hình ảnh gốc vẫn giữ nguyên bất kể nền tảng thiết bị đang mở.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

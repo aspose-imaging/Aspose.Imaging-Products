@@ -62,16 +62,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="TIFFをDXFに変換します-.NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="TIFFをDXFに変換する無料アプリ"
         appName="Conversion"
@@ -83,13 +73,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ja/conversion/TIFF-to-DXF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="TIFFをDXFに変換します-.NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | TIFF">}}
 TIFFまたはTIF（タグ付き画像ファイル形式）は、このファイル形式標準に準拠するさまざまなデバイスでの使用を目的としたラスター画像を表します。いくつかの色空間で、バイレベル、グレースケール、パレットカラー、およびフルカラーの画像データを記述することができます。この形式を使用するアプリケーションのスペースと時間のどちらかを選択するための非可逆圧縮方式と可逆圧縮方式をサポートしています。このフォーマットは拡張可能であり、無制限の量の個人情報または特別目的情報を含めることができるようにいくつかの改訂が行われています。この形式はマシンに依存せず、プロセッサ、オペレーティングシステム、ファイルシステムなどの境界がありません。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | DXF">}}
 DXF、Drawing Interchange Format、またはDrawing Exchange Formatは、AutoCAD図面ファイルのタグ付きデータ表現です。ファイル内の各要素には、グループコードと呼ばれるプレフィックス整数があります。このグループコードは、実際には後続の要素を表し、特定のオブジェクトタイプのデータ要素の意味を示します。 DXFを使用すると、ユーザーが指定したほとんどすべての情報を図面ファイルで表すことができます。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

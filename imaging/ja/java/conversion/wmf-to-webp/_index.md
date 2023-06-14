@@ -75,16 +75,6 @@ WMFをWEBPに変換するには、 [Aspose.Imaging for Java](https://products.as
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="WMFをWEBPに変換します-Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="WMFをWEBPに変換する無料アプリ"
         appName="Conversion"
@@ -96,13 +86,21 @@ WMFをWEBPに変換するには、 [Aspose.Imaging for Java](https://products.as
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ja/conversion/WMF-to-WEBP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="WMFをWEBPに変換します-Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | WMF">}}
 WMF拡張子の付いたファイルは、ベクターおよびビットマップ形式の画像データを格納するためのMicrosoft Windowsメタファイル（WMF）を表します。より正確に言うと、WMFは、デバイスに依存しないグラフィックファイル形式のベクターファイル形式カテゴリに属しています。 Windowsグラフィックデバイスインターフェイス（GDI）は、WMFファイルに格納されている関数を使用して、画面に画像を表示します。拡張メタファイル（EMF）として知られるWMFのより拡張されたバージョンは、フォーマットをより豊富な機能にするために後で公開されました。実際には、WMFはSVGに似ています。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | WEBP">}}
 Googleによって導入されたWebPは、可逆および非可逆圧縮に基づく最新のラスターWeb画像ファイル形式です。画像サイズを大幅に縮小しながら、同じ画質を提供します。ほとんどのWebページはデータの効果的な表現として画像を使用するため、WebページでWebP画像を使用すると、Webページの読み込みが速くなります。 Googleによると、WebPの損失のない画像はPNGと比較してサイズが26％小さく、WebPの損失のある画像は同等のJPEG画像よりも25〜34％小さくなっています。画像は、WebPと他の画像ファイル形式の間の構造的類似性（SSIM）インデックスに基づいて比較されます。 WebPは、WebMマルチメディアコンテナ形式の姉妹プロジェクトです。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

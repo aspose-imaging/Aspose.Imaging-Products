@@ -75,16 +75,6 @@ description: Зразок коду для перетворення EMF у TIFF J
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити EMF на TIFF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення EMF у TIFF"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Зразок коду для перетворення EMF у TIFF J
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/EMF-to-TIFF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити EMF на TIFF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | EMF">}}
 Розширений формат метафайлів (EMF) зберігає графічні зображення незалежно від пристрою. Метафайли EMF складаються із записів змінної довжини в хронологічному порядку, які можуть відтворити збережене зображення після аналізу на будь-якому пристрої виводу. Ці записи змінної довжини можуть бути визначеннями закритих об’єктів, командами для малювання та властивостями графіки, критичними для точного відтворення зображення. Коли пристрій відкриває метафайл EMF за допомогою власного графічного середовища, пропорції, розміри, кольори та інші графічні властивості оригінального зображення залишаються незмінними незалежно від платформи пристрою, що відкривається.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | TIFF">}}
 TIFF або TIF, Tagged Image File Format, представляє растрові зображення, які призначені для використання на різних пристроях, які відповідають цьому стандарту формату файлів. Він здатний описувати дані дворівневого зображення, відтінків сірого, кольору палітри та повнокольорового зображення в кількох колірних просторах. Він підтримує схеми стиснення як із втратами, так і без втрат, щоб вибрати між простором і часом для програм, які використовують формат. Формат є розширюваним і зазнав кілька переглядів, що дозволяє включати необмежену кількість приватної або спеціальної інформації. Формат не залежить від машини та не залежить від процесора, операційної системи чи файлових систем.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

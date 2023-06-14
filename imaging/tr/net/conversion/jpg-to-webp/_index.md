@@ -62,16 +62,6 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="JPG öğesini WEBP - .NET biçimine dönüştürün" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="JPG'i WEBP'e Dönüştürmek için Ücretsiz Uygulama"
         appName="Conversion"
@@ -83,13 +73,21 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/tr/conversion/JPG-to-WEBP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="JPG öğesini WEBP - .NET biçimine dönüştürün" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | JPG">}}
 JPEG, kayıplı sıkıştırma yöntemi kullanılarak kaydedilen bir görüntü formatı türüdür. Sıkıştırmanın bir sonucu olarak çıktı görüntüsü, depolama boyutu ve görüntü kalitesi arasında bir dengedir. Kullanıcılar, istenen kalite seviyesine ulaşmak için sıkıştırma seviyesini ayarlayabilir ve aynı zamanda depolama boyutunu küçültebilir. Görüntüye 10:1 sıkıştırma uygulanırsa görüntü kalitesi ihmal edilebilir düzeyde etkilenir. Sıkıştırma değeri ne kadar yüksek olursa, görüntü kalitesindeki bozulma o kadar yüksek olur.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | WEBP">}}
 Google tarafından tanıtılan WebP, kayıpsız ve kayıplı sıkıştırmaya dayanan modern bir raster web görüntü dosyası biçimidir. Görüntü boyutunu önemli ölçüde azaltırken aynı görüntü kalitesini sağlar. Web sayfalarının çoğu, verileri etkin bir şekilde temsil etmek için görüntüleri kullandığından, WebP görüntülerinin web sayfalarında kullanılması web sayfalarının daha hızlı yüklenmesine neden olur. Google'a göre, WebP kayıpsız görseller PNG'lere kıyasla %26 daha küçükken, WebP kayıplı görseller karşılaştırılabilir JPEG görsellerinden %25-34 daha küçüktür. Görüntüler, WebP ve diğer görüntü dosyası biçimleri arasındaki Yapısal Benzerlik (SSIM) endeksine dayalı olarak karşılaştırılır. WebP, WebM multimedya konteyner formatının kardeş projesidir.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

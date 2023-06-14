@@ -63,16 +63,6 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Převést APNG na SVG – .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Bezplatná aplikace pro převod APNG na SVG"
         appName="Conversion"
@@ -84,13 +74,21 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/APNG-to-SVG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Převést APNG na SVG – .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více | APNG">}}
 Soubor s příponou .apng (Animated Portable Network Graphics) je rastrový grafický formát a je neoficiálním rozšířením Portable Network Graphic (PNG). Skládá se z několika snímků (každý z obrázku PNG), které představují sekvenci animace. To poskytuje podobnou vizualizaci jako soubor GIF. Soubory APNG podporují 24bitové obrázky a 8bitovou průhlednost. APNG je zpětně kompatibilní s neanimovanými soubory GIF. Soubory APNG používají stejnou příponu .png a lze je otevřít aplikacemi, jako je Mozilla Firefox, Chrome s podporou APNG, aplikace iMessage pro iOS 10.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více | SVG">}}
 Soubory SVG jsou soubory škálovatelné vektorové grafiky, které k popisu vzhledu obrázku používají textový formát založený na XML. Slovo Scalable odkazuje na skutečnost, že SVG lze škálovat na různé velikosti bez ztráty kvality. Textový popis těchto souborů je činí nezávislými na rozlišení. Je to jeden z nejčastěji používaných formátů pro tvorbu webových stránek a tiskové grafiky za účelem dosažení škálovatelnosti. Formát lze použít pouze pro dvourozměrnou grafiku. Soubory SVG lze prohlížet/otvírat téměř ve všech moderních prohlížečích včetně Chrome, Internet Explorer, Firefox a Safari.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

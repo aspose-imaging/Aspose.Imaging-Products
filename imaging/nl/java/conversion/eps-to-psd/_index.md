@@ -75,16 +75,6 @@ Voordat u de conversievoorbeeldcode uitvoert, moet u ervoor zorgen dat u aan de 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Converteer EPS naar PSD - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Gratis app om EPS naar PSD te converteren"
         appName="Conversion"
@@ -96,13 +86,21 @@ Voordat u de conversievoorbeeldcode uitvoert, moet u ervoor zorgen dat u aan de 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/nl/conversion/EPS-to-PSD)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Converteer EPS naar PSD - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder | EPS">}}
 Bestanden met de extensie EPS beschrijven in wezen een Encapsulated PostScript-taalprogramma dat het uiterlijk van een enkele pagina beschrijft. De naam "Encapsulated" omdat deze kan worden opgenomen of ingekapseld in een paginabeschrijving van een andere PostScript-taal. Deze op scripts gebaseerde bestandsindeling kan elke combinatie van tekst, afbeeldingen en afbeeldingen bevatten. EPS-bestanden kunnen een voorbeeldafbeelding van een bitmap bevatten die is ingekapseld voor weergave door toepassingen die dergelijke bestanden kunnen openen. EPS-bestanden kunnen worden geconverteerd naar standaard afbeeldingsformaten zoals JPG, PNG, TIFF en PDF met behulp van verschillende toepassingen, b.v. Adobe Illustrator, Photoshop en PaintShop Pro. Vanwege een beveiligingsprobleem in EPS-bestanden hebben Office 2016, Office 2013, Office 2010 en Office 365 de mogelijkheid uitgeschakeld om EPS-bestanden in Office-documenten in te voegen.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder | PSD">}}
 PSD, Photoshop Document, vertegenwoordigt het oorspronkelijke bestandsformaat van Adobe Photoshop dat wordt gebruikt voor het ontwerpen en ontwikkelen van afbeeldingen. PSD-bestanden kunnen afbeeldingslagen, aanpassingslagen, laagmaskers, annotaties, bestandsinformatie, trefwoorden en andere Photoshop-specifieke elementen bevatten.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

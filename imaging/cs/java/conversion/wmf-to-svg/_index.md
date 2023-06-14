@@ -75,16 +75,6 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Převést WMF na SVG – Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Bezplatná aplikace pro převod WMF na SVG"
         appName="Conversion"
@@ -96,13 +86,21 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/WMF-to-SVG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Převést WMF na SVG – Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více | WMF">}}
 Soubory s příponou WMF představují Microsoft Windows Metafile (WMF) pro ukládání dat vektorových i bitmapových obrázků. Abychom byli přesnější, WMF patří do kategorie formátů vektorových souborů grafických formátů souborů, které jsou nezávislé na zařízení. Windows Graphical Device Interface (GDI) používá funkce uložené v souboru WMF k zobrazení obrázku na obrazovce. Později byla publikována vylepšená verze WMF, známá jako Enhanced Meta Files (EMF), díky níž je formát bohatší na funkce. Prakticky jsou WMF podobné SVG.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více | SVG">}}
 Soubory SVG jsou soubory škálovatelné vektorové grafiky, které k popisu vzhledu obrázku používají textový formát založený na XML. Slovo Scalable odkazuje na skutečnost, že SVG lze škálovat na různé velikosti bez ztráty kvality. Textový popis těchto souborů je činí nezávislými na rozlišení. Je to jeden z nejčastěji používaných formátů pro tvorbu webových stránek a tiskové grafiky za účelem dosažení škálovatelnosti. Formát lze použít pouze pro dvourozměrnou grafiku. Soubory SVG lze prohlížet/otvírat téměř ve všech moderních prohlížečích včetně Chrome, Internet Explorer, Firefox a Safari.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

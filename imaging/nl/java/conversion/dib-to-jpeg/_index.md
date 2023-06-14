@@ -75,16 +75,6 @@ Voordat u de conversievoorbeeldcode uitvoert, moet u ervoor zorgen dat u aan de 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Converteer DIB naar JPEG - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Gratis app om DIB naar JPEG te converteren"
         appName="Conversion"
@@ -96,13 +86,21 @@ Voordat u de conversievoorbeeldcode uitvoert, moet u ervoor zorgen dat u aan de 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/nl/conversion/DIB-to-JPEG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Converteer DIB naar JPEG - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder | DIB">}}
 Een DIB-bestand (Device Independent Bitmap) is een rasterafbeeldingsbestand dat qua structuur vergelijkbaar is met de standaard Bitmap-bestanden (BMP), maar een andere kop heeft. Het kan worden geopend met bijna alle toepassingen die een standaard BMP-bestand op Windows en macOS kunnen openen. DIB zijn binaire bestanden en hebben een complexe bestandsindeling die lijkt op BMP.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder | JPEG">}}
 Een JPEG is een type afbeeldingsformaat dat wordt opgeslagen met de methode van compressie met verlies. Het uitvoerbeeld, als resultaat van compressie, is een afweging tussen opslaggrootte en beeldkwaliteit. Gebruikers kunnen het compressieniveau aanpassen om het gewenste kwaliteitsniveau te bereiken en tegelijkertijd de opslagruimte verkleinen. De beeldkwaliteit wordt verwaarloosbaar beïnvloed als 10:1 compressie op de afbeelding wordt toegepast. Hoe hoger de compressiewaarde, hoe groter de verslechtering van de beeldkwaliteit.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

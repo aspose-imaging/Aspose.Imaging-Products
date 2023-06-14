@@ -75,16 +75,6 @@ description: ICO 到 J2K Java 轉換的示例代碼。使用 API 示例代碼在
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="將 ICO 轉換為 J2K - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="將 ICO 轉換為 J2K 的免費應用程序"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: ICO 到 J2K Java 轉換的示例代碼。使用 API 示例代碼在
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hant/conversion/ICO-to-J2K)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="將 ICO 轉換為 J2K - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | ICO">}}
 ICO 文件格式是 Microsoft Windows 中計算機圖標的圖像文件格式。 ICO 文件包含一個或多個具有多種尺寸和顏色深度的小圖像，以便它們可以適當地縮放。在 Windows 中，在桌面、開始菜單或 Windows 資源管理器中向用戶顯示圖標的所有可執行文件都必須帶有 ICO 格式的圖標。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | J2K">}}
 J2K 文件是使用小波壓縮而不是 DCT 壓縮壓縮的圖像。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

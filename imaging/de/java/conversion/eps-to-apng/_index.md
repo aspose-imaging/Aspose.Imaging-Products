@@ -75,16 +75,6 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertiere EPS in APNG - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Kostenlose App zum Konvertieren von EPS in APNG"
         appName="Conversion"
@@ -96,13 +86,21 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/de/conversion/EPS-to-APNG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertiere EPS in APNG - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen | EPS">}}
 Dateien mit der Erweiterung EPS beschreiben im Wesentlichen ein Encapsulated PostScript-Sprachprogramm, das das Erscheinungsbild einer einzelnen Seite beschreibt. Der Name "Encapsulated", weil er in eine Seitenbeschreibung einer anderen PostScript-Sprache eingeschlossen oder eingekapselt werden kann. Dieses skriptbasierte Dateiformat kann eine beliebige Kombination aus Text, Grafiken und Bildern enthalten. EPS-Dateien können ein eingekapseltes Bitmap-Vorschaubild enthalten, das von Anwendungen angezeigt werden kann, die solche Dateien öffnen können. EPS-Dateien können mit verschiedenen Anwendungen in Standard-Bildformate wie JPG, PNG, TIFF und PDF konvertiert werden, z. Adobe Illustrator, Photoshop und Paint Shop Pro. Aufgrund einer Sicherheitslücke in EPS-Dateien haben Office 2016, Office 2013, Office 2010 und Office 365 die Möglichkeit zum Einfügen von EPS-Dateien in Office-Dokumente deaktiviert.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen | APNG">}}
 Eine Datei mit der Erweiterung .apng (Animated Portable Network Graphics) ist ein Rastergrafikformat und eine inoffizielle Erweiterung von Portable Network Graphic (PNG). Es besteht aus mehreren Frames (jeweils ein PNG-Bild), die eine Animationssequenz darstellen. Dies ergibt eine ähnliche Visualisierung wie eine GIF-Datei. APNG-Dateien unterstützen 24-Bit-Bilder und 8-Bit-Transparenz. APNG ist abwärtskompatibel mit nicht animierten GIF-Dateien. APNG-Dateien verwenden dieselbe .png-Erweiterung und können von Anwendungen wie Mozilla Firefox, Chrome mit APNG-Unterstützung und iMessage-Apps für iOS 10 geöffnet werden.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

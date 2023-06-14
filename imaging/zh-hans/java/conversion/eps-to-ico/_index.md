@@ -76,16 +76,6 @@ description: EPS 到 ICO Java 转换的示例代码。在任何基于 Web 或桌
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="将 EPS 转换为 ICO - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="将 EPS 转换为 ICO 的免费应用程序"
         appName="Conversion"
@@ -97,13 +87,21 @@ description: EPS 到 ICO Java 转换的示例代码。在任何基于 Web 或桌
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hans/conversion/EPS-to-ICO)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="将 EPS 转换为 ICO - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | EPS">}}
 带有 EPS 扩展名的文件本质上描述了一个封装的 PostScript 语言程序，该程序描述了单个页面的外观。名称“封装”是因为它可以包含或封装在另一种 PostScript 语言页面描述中。这种基于脚本的文件格式可能包含文本、图形和图像的任意组合。 EPS 文件可能包含封装在内部的位图预览图像，以供可以打开此类文件的应用程序显示。可以使用不同的应用程序将 EPS 文件转换为标准图像格式，例如 JPG、PNG、TIFF 和 PDF。 Adobe Illustrator、Photoshop 和 PaintShop Pro。由于 EPS 文件中存在安全漏洞，Office 2016、Office 2013、Office 2010 和 Office 365 已关闭将 EPS 文件插入 Office 文档的功能。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | ICO">}}
 ICO 文件格式是 Microsoft Windows 中计算机图标的图像文件格式。 ICO 文件包含一个或多个具有多种尺寸和颜色深度的小图像，以便它们可以适当地缩放。在 Windows 中，在桌面、开始菜单或 Windows 资源管理器中向用户显示图标的所有可执行文件都必须带有 ICO 格式的图标。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

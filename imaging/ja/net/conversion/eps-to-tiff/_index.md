@@ -62,16 +62,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="EPSをTIFFに変換します-.NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="EPSをTIFFに変換する無料アプリ"
         appName="Conversion"
@@ -83,13 +73,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ja/conversion/EPS-to-TIFF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="EPSをTIFFに変換します-.NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | EPS">}}
 EPS拡張子の付いたファイルは、基本的に、単一ページの外観を記述するEncapsulatedPostScript言語プログラムを記述します。 「カプセル化」という名前は、別のPostScript言語ページの説明に含めるかカプセル化できるためです。このスクリプトベースのファイル形式には、テキスト、グラフィックス、および画像の任意の組み合わせを含めることができます。 EPSファイルには、そのようなファイルを開くことができるアプリケーションによる表示のために、内部にカプセル化されたビットマッププレビュー画像が含まれる場合があります。 EPSファイルは、さまざまなアプリケーションを使用して、JPG、PNG、TIFF、PDFなどの標準の画像形式に変換できます。 Adobe Illustrator、Photoshop、PaintShopPro。 EPSファイルのセキュリティの脆弱性のため、Office 2016、Office 2013、Office 2010、およびOffice 365は、EPSファイルをOfficeドキュメントに挿入する機能をオフにしました。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | TIFF">}}
 TIFFまたはTIF（タグ付き画像ファイル形式）は、このファイル形式標準に準拠するさまざまなデバイスでの使用を目的としたラスター画像を表します。いくつかの色空間で、バイレベル、グレースケール、パレットカラー、およびフルカラーの画像データを記述することができます。この形式を使用するアプリケーションのスペースと時間のどちらかを選択するための非可逆圧縮方式と可逆圧縮方式をサポートしています。このフォーマットは拡張可能であり、無制限の量の個人情報または特別目的情報を含めることができるようにいくつかの改訂が行われています。この形式はマシンに依存せず、プロセッサ、オペレーティングシステム、ファイルシステムなどの境界がありません。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

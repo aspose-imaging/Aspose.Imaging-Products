@@ -63,16 +63,6 @@ Innan du kör koden för konverteringsexempel, se till att du har följande för
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertera CDR till WMF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Gratis app för att konvertera CDR till WMF"
         appName="Conversion"
@@ -84,13 +74,21 @@ Innan du kör koden för konverteringsexempel, se till att du har följande för
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/CDR-to-WMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertera CDR till WMF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer | CDR">}}
 En CDR-fil är en vektorritningsbildfil som skapas med CorelDRAW för att lagra digitala bilder kodade och komprimerade. En sådan ritfil innehåller text, linjer, former, bilder, färger och effekter för vektorrepresentation av bildinnehåll. CDR-filer kan öppnas med CorelDRAW som primärapplikation och kan även konverteras till andra format som PDF, JPG, PNG, BMP och AI. Den kan användas för representation av olika grafiska data som broschyrer, tabloider, kuvert och vykort. Förutom CorelDRAW kan andra Corel-produkter som Corel Paintshop Pro och CorelDRAW Graphics Suite också öppna CDR-filformaten.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer | WMF">}}
 Filer med WMF-tillägg representerar Microsoft Windows Metafile (WMF) för lagring av vektor- och bitmappsformat bilddata. För att vara mer exakt tillhör WMF kategorin vektorfilformat för grafikfilformat som är enhetsoberoende. Windows Graphical Device Interface (GDI) använder funktionerna som är lagrade i en WMF-fil för att visa en bild på skärmen. En mer förbättrad version av WMF, känd som Enhanced Meta Files (EMF), publicerades senare som gör formatet mer funktionsrikt. Praktiskt taget liknar WMF SVG.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

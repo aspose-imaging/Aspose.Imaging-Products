@@ -75,16 +75,6 @@ description: نموذج رمز لـ J2K إلى JPG تحويل Java. استخدم
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="تحويل J2K إلى JPG - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="تطبيق مجاني لتحويل J2K إلى JPG"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: نموذج رمز لـ J2K إلى JPG تحويل Java. استخدم
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/J2K-to-JPG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="تحويل J2K إلى JPG - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | J2K">}}
 ملف J2K هو صورة يتم ضغطها باستخدام ضغط الموجة بدلاً من ضغط DCT.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | JPG">}}
 JPEG هو نوع من تنسيق الصور يتم حفظه باستخدام طريقة الضغط مع فقدان البيانات. الصورة الناتجة ، كنتيجة للضغط ، هي مقايضة بين حجم التخزين وجودة الصورة. يمكن للمستخدمين ضبط مستوى الضغط لتحقيق مستوى الجودة المطلوب مع تقليل حجم التخزين في نفس الوقت. تتأثر جودة الصورة بشكل ضئيل إذا تم تطبيق ضغط بنسبة 10: 1 على الصورة. كلما زادت قيمة الضغط ، زاد تدهور جودة الصورة.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

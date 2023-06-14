@@ -64,16 +64,6 @@ Antes de executar o código de exemplo de conversão, verifique se você tem os 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Converter {Formato1} para {Formato2} - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Aplicativo gratuito para converter OTG para EMZ"
         appName="Conversion"
@@ -85,13 +75,21 @@ Antes de executar o código de exemplo de conversão, verifique se você tem os 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/pt/conversion/OTG-to-EMZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Converter {Formato1} para {Formato2} - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação | OTG">}}
 Um arquivo OTG é um modelo de desenho criado usando o padrão OpenDocument que segue a especificação OASIS Office Applications 1.0. Ele representa a organização padrão dos elementos de desenho para uma imagem vetorial que pode ser usada para aprimorar ainda mais o conteúdo do arquivo.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação | EMZ">}}
 Um arquivo com a extensão de arquivo EMZ é um arquivo de imagem compactado, mais especificamente chamado de arquivo Windows Compressed Enhanced Metafile
         {{< /blocks/products/pf/agp/about-file-text >}}
 

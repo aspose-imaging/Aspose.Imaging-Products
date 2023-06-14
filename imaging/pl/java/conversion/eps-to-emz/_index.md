@@ -75,16 +75,6 @@ Przed uruchomieniem przykładowego kodu konwersji upewnij się, że masz następ
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konwertuj EPS na EMZ - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Darmowa aplikacja do konwersji EPS na EMZ"
         appName="Conversion"
@@ -96,13 +86,21 @@ Przed uruchomieniem przykładowego kodu konwersji upewnij się, że masz następ
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/pl/conversion/EPS-to-EMZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konwertuj EPS na EMZ - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej | EPS">}}
 Pliki z rozszerzeniem EPS zasadniczo opisują program w języku Encapsulated PostScript, który opisuje wygląd pojedynczej strony. Nazwa „Enkapsulowana”, ponieważ może być zawarta lub zawarta w innym opisie strony w języku PostScript. Ten format pliku oparty na skrypcie może zawierać dowolną kombinację tekstu, grafiki i obrazów. Pliki EPS mogą zawierać obraz podglądu mapy bitowej zamknięty w środku do wyświetlania przez aplikacje, które mogą otwierać takie pliki. Pliki EPS można konwertować do standardowych formatów graficznych, takich jak JPG, PNG, TIFF i PDF przy użyciu różnych aplikacji, m.in. Adobe Illustrator, Photoshop i PaintShop Pro. Ze względu na lukę w zabezpieczeniach plików EPS pakiety Office 2016, Office 2013, Office 2010 i Office 365 wyłączyły możliwość wstawiania plików EPS do dokumentów pakietu Office.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej | EMZ">}}
 Plik z rozszerzeniem EMZ to skompresowany plik obrazu, dokładniej nazywany plikiem Windows Compressed Enhanced Metafile
         {{< /blocks/products/pf/agp/about-file-text >}}
 

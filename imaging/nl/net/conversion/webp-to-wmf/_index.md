@@ -62,16 +62,6 @@ Voordat u de conversievoorbeeldcode uitvoert, moet u ervoor zorgen dat u aan de 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Converteer WEBP naar WMF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Gratis app om WEBP naar WMF te converteren"
         appName="Conversion"
@@ -83,13 +73,21 @@ Voordat u de conversievoorbeeldcode uitvoert, moet u ervoor zorgen dat u aan de 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/nl/conversion/WEBP-to-WMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Converteer WEBP naar WMF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder | WEBP">}}
 WebP, geïntroduceerd door Google, is een modern rasterwebafbeeldingsbestandsformaat dat is gebaseerd op lossless en lossy compressie. Het biedt dezelfde beeldkwaliteit terwijl het beeldformaat aanzienlijk wordt verkleind. Aangezien de meeste webpagina's afbeeldingen gebruiken als effectieve weergave van gegevens, resulteert het gebruik van WebP-afbeeldingen in webpagina's in sneller laden van webpagina's. Volgens Google zijn WebP-afbeeldingen zonder verlies 26% kleiner in vergelijking met PNG's, terwijl WebP-afbeeldingen met verlies 25-34% kleiner zijn dan vergelijkbare JPEG-afbeeldingen. Afbeeldingen worden vergeleken op basis van de structurele gelijkenis (SSIM) -index tussen WebP en andere afbeeldingsbestandsindelingen. WebP is een zusterproject van het WebM multimedia containerformaat.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder | WMF">}}
 Bestanden met de WMF-extensie vertegenwoordigen Microsoft Windows Metafile (WMF) voor het opslaan van zowel vector- als bitmap-afbeeldingsgegevens. Om nauwkeuriger te zijn, WMF behoort tot de vectorbestandsindelingscategorie van Grafische bestandsindelingen die apparaatonafhankelijk is. Windows Graphical Device Interface (GDI) gebruikt de functies die zijn opgeslagen in een WMF-bestand om een ​​afbeelding op het scherm weer te geven. Een meer verbeterde versie van WMF, bekend als Enhanced Meta Files (EMF), werd later gepubliceerd, waardoor het formaat meer functies heeft. In de praktijk is WMF vergelijkbaar met SVG.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

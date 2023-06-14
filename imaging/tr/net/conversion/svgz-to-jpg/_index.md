@@ -62,16 +62,6 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="SVGZ öğesini JPG - .NET biçimine dönüştürün" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="SVGZ'i JPG'e Dönüştürmek için Ücretsiz Uygulama"
         appName="Conversion"
@@ -83,13 +73,21 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/tr/conversion/SVGZ-to-JPG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="SVGZ öğesini JPG - .NET biçimine dönüştürün" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | SVGZ">}}
 .svgz uzantılı bir dosya, Ölçeklenebilir Vektör Grafikleri (.SVG) dosyasının sıkıştırılmış bir sürümüdür. Gzip sıkıştırması ile sıkıştırılır ve XML formatında veri içerir. SVGZ dosyaları şeffaflığı, degradeleri, animasyonları ve filtreleri destekler. SVGZ dosyalarının boyutu, varsayılan SVG dosyalarına kıyasla daha küçüktür ve bu küçültülmüş dosya boyutu, grafik dosyalarının çevrimiçi olarak aktarılmasına yardımcı olur. Grafik tasarımcısı, Adobe Illustrator, Corel PaintShop Pro ve diğerleri gibi araçları kullanarak SVGZ dosyaları oluşturur. Ancak, görüntü verileri gönderilirken Apache Sunucusunda GZip sıkıştırması etkinleştirilerek SVGZ dosyaları oluşturulabilir.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | JPG">}}
 JPEG, kayıplı sıkıştırma yöntemi kullanılarak kaydedilen bir görüntü formatı türüdür. Sıkıştırmanın bir sonucu olarak çıktı görüntüsü, depolama boyutu ve görüntü kalitesi arasında bir dengedir. Kullanıcılar, istenen kalite seviyesine ulaşmak için sıkıştırma seviyesini ayarlayabilir ve aynı zamanda depolama boyutunu küçültebilir. Görüntüye 10:1 sıkıştırma uygulanırsa görüntü kalitesi ihmal edilebilir düzeyde etkilenir. Sıkıştırma değeri ne kadar yüksek olursa, görüntü kalitesindeki bozulma o kadar yüksek olur.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

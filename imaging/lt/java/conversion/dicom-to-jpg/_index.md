@@ -75,16 +75,6 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertuoti DICOM į JPG – Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Nemokama programa konvertuoti DICOM į JPG"
         appName="Conversion"
@@ -96,13 +86,21 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/lt/conversion/DICOM-to-JPG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertuoti DICOM į JPG – Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau | DICOM">}}
 DICOM yra skaitmeninio vaizdo gavimo ir ryšių medicinos akronimas ir yra susijęs su medicinos informatikos sritimi. DICOM yra failo formato apibrėžimo ir tinklo ryšio protokolo derinys. DICOM naudoja .DCM plėtinį. .DCM yra dviem skirtingais formatais, ty 1.x formatu ir 2.x formatu. DCM formatas 1.x taip pat galimas dviem versijomis: normalia ir išplėstine. DICOM naudojamas įvairių tiekėjų medicininiams vaizdo gavimo įrenginiams, pvz., spausdintuvams, serveriams, skaitytuvams ir tt, integruoti. Be to, jame yra kiekvieno paciento identifikavimo duomenys, siekiant unikalumo. DICOM failus galima dalytis tarp dviejų šalių, jei jos gali priimti vaizdo duomenis DICOM formatu. DICOM komunikacijos dalis yra taikomojo lygmens protokolas ir naudoja TCP/IP ryšį tarp objektų. DICOM žiniatinklio paslaugoms naudojami HTTP ir HTTPS protokolai. Žiniatinklio paslaugų palaikomos versijos yra 1.0, 1.1, 2 arba naujesnės.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau | JPG">}}
 JPEG yra vaizdo formatas, kuris išsaugomas naudojant nuostolingo glaudinimo metodą. Išvesties vaizdas dėl suspaudimo yra kompromisas tarp saugojimo dydžio ir vaizdo kokybės. Vartotojai gali reguliuoti suspaudimo lygį, kad pasiektų norimą kokybės lygį, tuo pačiu sumažindami saugyklos dydį. Vaizdo kokybei nežymiai pakenks, jei vaizdui taikomas glaudinimas 10:1. Kuo didesnė suspaudimo vertė, tuo didesnis vaizdo kokybės pablogėjimas.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -62,16 +62,6 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="WMF öğesini DXF - .NET biçimine dönüştürün" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="WMF'i DXF'e Dönüştürmek için Ücretsiz Uygulama"
         appName="Conversion"
@@ -83,13 +73,21 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/tr/conversion/WMF-to-DXF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="WMF öğesini DXF - .NET biçimine dönüştürün" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | WMF">}}
 WMF uzantılı dosyalar, vektörün yanı sıra bitmap formatındaki görüntü verilerini depolamak için Microsoft Windows Meta Dosyasını (WMF) temsil eder. Daha doğru olmak gerekirse, WMF, aygıttan bağımsız Grafik dosya biçimlerinin vektör dosya biçimi kategorisine aittir. Windows Grafik Aygıt Arabirimi (GDI), bir görüntüyü ekranda görüntülemek için bir WMF dosyasında depolanan işlevleri kullanır. Gelişmiş Meta Dosyaları (EMF) olarak bilinen WMF'nin daha gelişmiş bir sürümü daha sonra yayımlandı ve bu, biçimi daha zengin özelliklere sahip hale getirdi. Pratik olarak WMF, SVG'ye benzer.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | DXF">}}
 DXF, Drawing Interchange Format veya Drawing Exchange Format, AutoCAD çizim dosyasının etiketli bir veri gösterimidir. Dosyadaki her öğenin, grup kodu adı verilen bir ön ek tamsayı numarası vardır. Bu grup kodu aslında takip eden öğeyi temsil eder ve belirli bir nesne türü için bir veri öğesinin anlamını belirtir. DXF, bir çizim dosyasında hemen hemen tüm kullanıcı tanımlı bilgileri temsil etmeyi mümkün kılar.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

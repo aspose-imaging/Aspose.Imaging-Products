@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="המר את WMF ל-SVGZ - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="אפליקציה חינמית להמרת WMF ל-SVGZ"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/WMF-to-SVGZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="המר את WMF ל-SVGZ - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | WMF">}}
 קבצים עם סיומת WMF מייצגים את Microsoft Windows Metafile (WMF) לאחסון נתוני תמונות וקטורים כמו גם בפורמט סיביות. ליתר דיוק, WMF שייך לקטגוריית פורמט קבצים וקטור של פורמטים של קבצי גרפיקה שאינה תלויה במכשיר. ממשק התקן גרפי של Windows (GDI) משתמש בפונקציות המאוחסנות בקובץ WMF כדי להציג תמונה על המסך. מאוחר יותר פורסמה גרסה משופרת יותר של WMF, הידועה בשם Enhanced Meta Files (EMF), שהופכת את הפורמט לעשיר יותר בתכונות. למעשה, WMF דומים ל-SVG.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | SVGZ">}}
 קובץ עם סיומת .svgz הוא גרסה דחוסה של קובץ Scalable Vector Graphics (.SVG). הוא דחוס עם דחיסת gzip ומכיל נתונים בפורמט XML. קובצי SVGZ תומכים בשקיפות, מעברי צבע, אנימציות ומסננים. קבצי SVGZ קטנים יותר בהשוואה לקובצי SVG ברירת המחדל וגודל הקובץ המופחת הזה עוזר להעביר את קבצי הגרפיקה באופן מקוון. מעצב גרפי יוצר קובצי SVGZ באמצעות כלים כמו Adobe Illustrator, Corel PaintShop Pro ואחרים. עם זאת, ניתן ליצור קבצי SVGZ על ידי הפעלת דחיסת GZip בשרת ה-Apache בזמן שליחת נתוני התמונה.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

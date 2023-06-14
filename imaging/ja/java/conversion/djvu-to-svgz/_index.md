@@ -75,16 +75,6 @@ DJVUをSVGZに変換するには、 [Aspose.Imaging for Java](https://products.a
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="DJVUをSVGZに変換します-Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="DJVUをSVGZに変換する無料アプリ"
         appName="Conversion"
@@ -96,13 +86,21 @@ DJVUをSVGZに変換するには、 [Aspose.Imaging for Java](https://products.a
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ja/conversion/DJVU-to-SVGZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="DJVUをSVGZに変換します-Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | DJVU">}}
 DJVU と発音されるDjVuは、スキャンされたドキュメントや書籍、特にテキスト、図面、画像、写真の組み合わせを含むものを対象としたグラフィックファイル形式です。 AT＆T研究所によって開発されました。テキストと背景画像の画像レイヤー分離、プログレッシブローディング、算術符号化、非可逆圧縮などの複数の手法を使用します。 DJVUファイルには、圧縮された高品質のカラー画像、写真、テキスト、および図面を含めることができ、より少ないスペースで保存できるため、電子書籍、マニュアル、新聞、古代の文書などとしてWebで使用されます。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | SVGZ">}}
 拡張子が.svgzのファイルは、Scalable Vector Graphics（.SVG）ファイルの圧縮バージョンです。 gzip圧縮で圧縮され、XML形式のデータが含まれています。 SVGZファイルは、透明度、グラデーション、アニメーション、およびフィルターをサポートします。 SVGZファイルはデフォルトのSVGファイルと比較してサイズが小さく、この縮小されたファイルサイズはグラフィックファイルをオンラインで転送するのに役立ちます。グラフィックデザイナーは、Adobe Illustrator、Corel PaintShopProなどのツールを使用してSVGZファイルを作成します。ただし、SVGZファイルは、画像データの送信中にApacheサーバーでGZip圧縮を有効にすることで生成できます。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

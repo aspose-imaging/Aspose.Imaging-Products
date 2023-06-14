@@ -62,16 +62,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="將 JPEG2000 轉換為 WEBP - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="將 JPEG2000 轉換為 WEBP 的免費應用程序"
         appName="Conversion"
@@ -83,13 +73,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hant/conversion/JPEG2000-to-WEBP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="將 JPEG2000 轉換為 WEBP - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | JPEG2000">}}
 JPEG 2000 (JP2) 是一種圖像編碼系統和最先進的圖像壓縮標準。設計，使用小波技術 JPEG 2000 可以一次編碼任何質量的無損內容。此外，在編碼效率沒有任何實質性損失的情況下，JPEG 2000 能夠有效地訪問相同的內容並將其解碼為各種其他分辨率和質量。 JPEG 2000 中的碼流具有顯著的可擴展性，具有為空間隨機訪問提供便利的感興趣區域。擁有多達 16384 個不同的組件，尺寸以萬億像素為單位，精度可高達 38 位/樣本。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | WEBP">}}
 WebP 是 Google 推出的一種現代光柵 Web 圖像文件格式，它基於無損和有損壓縮。它提供相同的圖像質量，同時大大減小了圖像尺寸。由於大多數網頁使用圖像作為數據的有效表示，因此在網頁中使用 WebP 圖像會導致網頁加載速度更快。根據谷歌的說法，WebP 無損圖像的大小比 PNG 小 26%，而 WebP 有損圖像比同類 JPEG 圖像小 25-34%。基於 WebP 和其他圖像文件格式之間的結構相似性 (SSIM) 索引比較圖像。 WebP 是 WebM 多媒體容器格式的姊妹項目。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -62,16 +62,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="將 EMF 轉換為 ICO - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="將 EMF 轉換為 ICO 的免費應用程序"
         appName="Conversion"
@@ -83,13 +73,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hant/conversion/EMF-to-ICO)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="將 EMF 轉換為 ICO - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | EMF">}}
 增強型元文件格式 (EMF) 獨立於設備存儲圖形圖像。 EMF 的元文件由按時間順序排列的可變長度記錄組成，可以在任何輸出設備上解析後呈現存儲的圖像。這些可變長度記錄可以是封閉對象的定義、繪圖命令和對準確渲染圖像至關重要的圖形屬性。當設備使用自己的圖形環境打開 EMF 圖元文件時，無論打開設備平台如何，原始圖像的比例、尺寸、顏色和其他圖形屬性都保持不變。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | ICO">}}
 ICO 文件格式是 Microsoft Windows 中計算機圖標的圖像文件格式。 ICO 文件包含一個或多個具有多種尺寸和顏色深度的小圖像，以便它們可以適當地縮放。在 Windows 中，在桌面、開始菜單或 Windows 資源管理器中向用戶顯示圖標的所有可執行文件都必須帶有 ICO 格式的圖標。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

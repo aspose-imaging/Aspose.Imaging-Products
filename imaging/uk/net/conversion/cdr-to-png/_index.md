@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити CDR на PNG - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення CDR у PNG"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/CDR-to-PNG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити CDR на PNG - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | CDR">}}
 Файл CDR — це файл векторного зображення, створений за допомогою CorelDRAW для зберігання цифрових зображень у кодованому та стисненому вигляді. Такий файл малюнка містить текст, лінії, форми, зображення, кольори та ефекти для векторного представлення вмісту зображення. Файли CDR можна відкривати за допомогою CorelDRAW як основної програми, а також конвертувати в інші формати, такі як PDF, JPG, PNG, BMP і AI. Його можна використовувати для представлення різноманітних графічних даних, таких як брошури, таблоїди, конверти та листівки. Крім CorelDRAW, інші продукти Corel, такі як Corel Paintshop Pro і CorelDRAW Graphics suite, також можуть відкривати формати файлів CDR.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | PNG">}}
 PNG, Portable Network Graphics, відноситься до типу формату растрового зображення, який використовує стиснення без втрат. Цей формат файлу було створено як заміну формату Graphics Interchange Format (GIF) і не має обмежень щодо авторських прав. Однак формат файлу PNG не підтримує анімацію. Формат файлу PNG підтримує стиснення зображень без втрат, що робить його популярним серед користувачів. З плином часу PNG перетворився на один із найбільш використовуваних форматів файлів зображень. Майже всі операційні системи підтримують відкриття файлів PNG. Наприклад, засіб перегляду Microsoft Windows має можливість відкривати файли PNG, оскільки ОС за замовчуванням підтримує підтримку, доступну як частину встановлення.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

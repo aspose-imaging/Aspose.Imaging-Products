@@ -64,16 +64,6 @@ Avant d'exécuter l'exemple de code de conversion, assurez-vous que vous dispose
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convertir JPEG2000 en SVG - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Application gratuite pour convertir JPEG2000 en SVG"
         appName="Conversion"
@@ -85,13 +75,21 @@ Avant d'exécuter l'exemple de code de conversion, assurez-vous que vous dispose
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/fr/conversion/JPEG2000-to-SVG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Convertir JPEG2000 en SVG - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite | JPEG2000">}}
 JPEG 2000 (JP2) est un système de codage d'image et une norme de compression d'image de pointe. Conçu en utilisant la technologie des ondelettes JPEG 2000 peut coder du contenu sans perte dans n'importe quelle qualité à la fois. De plus, sans aucune pénalité substantielle dans l'efficacité du codage, JPEG 2000 a la capacité d'accéder et de décoder efficacement le même contenu dans une variété d'autres résolutions et qualités. Les flux de code dans JPEG 2000 sont considérablement évolutifs, ayant des régions d'intérêt qui fournissent la possibilité d'un accès spatial aléatoire. Possédant jusqu'à 16384 composants divers avec des dimensions en térapixels, et une précision pouvant atteindre 38 bits/échantillon.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite | SVG">}}
 Les fichiers SVG sont des fichiers graphiques vectoriels évolutifs qui utilisent un format de texte basé sur XML pour décrire l'apparence de l'image. Le mot Scalable fait référence au fait que le SVG peut être mis à l'échelle à différentes tailles sans perte de qualité. La description textuelle de ces fichiers les rend indépendants de la résolution. C'est l'un des formats les plus utilisés pour créer des sites Web et des graphiques d'impression afin d'atteindre l'évolutivité. Le format ne peut cependant être utilisé que pour les graphiques en deux dimensions. Les fichiers SVG peuvent être visualisés/ouverts dans presque tous les navigateurs modernes, y compris Chrome, Internet Explorer, Firefox et Safari.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

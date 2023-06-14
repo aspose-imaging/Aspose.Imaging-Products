@@ -75,16 +75,6 @@ DICOMをSVGZに変換するには、 [Aspose.Imaging for Java](https://products.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="DICOMをSVGZに変換します-Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="DICOMをSVGZに変換する無料アプリ"
         appName="Conversion"
@@ -96,13 +86,21 @@ DICOMをSVGZに変換するには、 [Aspose.Imaging for Java](https://products.
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ja/conversion/DICOM-to-SVGZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="DICOMをSVGZに変換します-Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | DICOM">}}
 DICOMは、Medical Imaging and Communications in Medicineの頭字語であり、医療情報学の分野に関係しています。 DICOMは、ファイル形式の定義とネットワーク通信プロトコルを組み合わせたものです。 DICOMは.DCM拡張子を使用します。 .DCMは、フォーマット1.xとフォーマット2.xの2つの異なるフォーマットで存在します。 DCMフォーマット1.xは、通常と拡張の2つのバージョンでさらに利用できます。 DICOMは、さまざまなベンダーのプリンター、サーバー、スキャナーなどの医用画像装置の統合に使用され、一意性のために各患者の識別データも含まれています。 DICOMファイルは、DICOM形式の画像データを受信できる場合、2者間で共有できます。 DICOMの通信部分はアプリケーション層プロトコルであり、TCP / IPを使用してエンティティ間で通信します。 HTTPおよびHTTPSプロトコルは、DICOMのWebサービスに使用されます。 Webサービスでサポートされているバージョンは、1.0、1.1、2以降です。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | SVGZ">}}
 拡張子が.svgzのファイルは、Scalable Vector Graphics（.SVG）ファイルの圧縮バージョンです。 gzip圧縮で圧縮され、XML形式のデータが含まれています。 SVGZファイルは、透明度、グラデーション、アニメーション、およびフィルターをサポートします。 SVGZファイルはデフォルトのSVGファイルと比較してサイズが小さく、この縮小されたファイルサイズはグラフィックファイルをオンラインで転送するのに役立ちます。グラフィックデザイナーは、Adobe Illustrator、Corel PaintShopProなどのツールを使用してSVGZファイルを作成します。ただし、SVGZファイルは、画像データの送信中にApacheサーバーでGZip圧縮を有効にすることで生成できます。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

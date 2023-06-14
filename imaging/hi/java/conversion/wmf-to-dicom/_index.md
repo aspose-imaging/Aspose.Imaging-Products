@@ -75,16 +75,6 @@ WMF को DICOM में बदलने के लिए, हम उपयो
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="WMF को DICOM में बदलें - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="WMF को DICOM में बदलने के लिए नि:शुल्‍क ऐप"
         appName="Conversion"
@@ -96,13 +86,21 @@ WMF को DICOM में बदलने के लिए, हम उपयो
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/WMF-to-DICOM)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="WMF को DICOM में बदलें - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | WMF">}}
 WMF एक्सटेंशन वाली फाइलें वेक्टर के साथ-साथ बिटमैप-फॉर्मेट इमेज डेटा को स्टोर करने के लिए माइक्रोसॉफ्ट विंडोज मेटाफाइल (WMF) का प्रतिनिधित्व करती हैं। अधिक सटीक होने के लिए, WMF ग्राफ़िक्स फ़ाइल स्वरूपों की वेक्टर फ़ाइल स्वरूप श्रेणी से संबंधित है जो डिवाइस स्वतंत्र है। विंडोज ग्राफिकल डिवाइस इंटरफेस (जीडीआई) स्क्रीन पर एक छवि प्रदर्शित करने के लिए डब्लूएमएफ फाइल में संग्रहीत कार्यों का उपयोग करता है। WMF का एक अधिक उन्नत संस्करण, जिसे एन्हांस्ड मेटा फाइल्स (EMF) के रूप में जाना जाता है, बाद में प्रकाशित किया गया था जो प्रारूप को अधिक सुविधा संपन्न बनाता है। व्यावहारिक रूप से, WMF SVG के समान हैं।
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | DICOM">}}
 DICOM चिकित्सा में डिजिटल इमेजिंग और संचार के लिए संक्षिप्त है और चिकित्सा सूचना विज्ञान के क्षेत्र से संबंधित है। DICOM फ़ाइल स्वरूप परिभाषा और एक नेटवर्क संचार प्रोटोकॉल का संयोजन है। DICOM .DCM एक्सटेंशन का उपयोग करता है। .DCM दो अलग-अलग स्वरूपों में मौजूद है अर्थात स्वरूप 1.x और स्वरूप 2.x। DCM प्रारूप 1.x आगे सामान्य और विस्तारित दो संस्करणों में उपलब्ध है। DICOM का उपयोग विभिन्न विक्रेताओं से चिकित्सा इमेजिंग उपकरणों जैसे प्रिंटर, सर्वर, स्कैनर आदि के एकीकरण के लिए किया जाता है और इसमें विशिष्टता के लिए प्रत्येक रोगी का पहचान डेटा भी होता है। DICOM फ़ाइलें दो पक्षों के बीच साझा की जा सकती हैं यदि वे DICOM प्रारूप में छवि डेटा प्राप्त करने में सक्षम हैं। DICOM का संचार भाग अनुप्रयोग परत प्रोटोकॉल है और संस्थाओं के बीच संचार के लिए TCP/IP का उपयोग करता है। DICOM की वेब सेवाओं के लिए HTTP और HTTPS प्रोटोकॉल का उपयोग किया जाता है। वेब सेवाओं द्वारा समर्थित संस्करण 1.0, 1.1, 2 या बाद के संस्करण हैं।
         {{< /blocks/products/pf/agp/about-file-text >}}
 

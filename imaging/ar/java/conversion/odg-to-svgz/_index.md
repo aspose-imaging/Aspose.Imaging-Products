@@ -75,16 +75,6 @@ description: نموذج رمز لـ ODG إلى SVGZ تحويل Java. استخد�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="تحويل ODG إلى SVGZ - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="تطبيق مجاني لتحويل ODG إلى SVGZ"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: نموذج رمز لـ ODG إلى SVGZ تحويل Java. استخد�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/ODG-to-SVGZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="تحويل ODG إلى SVGZ - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | ODG">}}
 يتم استخدام تنسيق ملف ODG بواسطة تطبيق رسم Apache OpenOffice لتخزين عناصر الرسم كصورة متجهة. وهو يتبع مواصفات تنسيق الملفات المستندة إلى XML الموضحة من قبل تطوير معايير المعلومات الهيكلية (OASIS). يمثل ODG الرسومات كصور متجهة باستخدام النقاط والخطوط والمنحنيات. إلى جانب OpenOffice ، توفر LibreOffice والتطبيقات الأخرى أيضًا دعمًا للعمل مع تنسيق ملف ODG. تشمل التنسيقات الأخرى التي يدعمها OpenOffice ، على سبيل المثال ، ODT و ODF و ODP و ODS.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | SVGZ">}}
 الملف بامتداد .svgz هو نسخة مضغوطة من ملف Scalable Vector Graphics (.SVG). يتم ضغطه بضغط gzip ويحتوي على بيانات بتنسيق XML. تدعم ملفات SVGZ الشفافية والتدرجات والرسوم المتحركة والمرشحات. تكون ملفات SVGZ أصغر حجمًا مقارنة بملفات SVG الافتراضية ويساعد حجم الملف المنخفض هذا في نقل ملفات الرسومات عبر الإنترنت. يقوم مصمم الرسومات بإنشاء ملفات SVGZ باستخدام أدوات مثل Adobe Illustrator و Corel PaintShop Pro وغيرها. ومع ذلك ، يمكن إنشاء ملفات SVGZ عن طريق تمكين ضغط GZip في خادم Apache أثناء إرسال بيانات الصورة.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

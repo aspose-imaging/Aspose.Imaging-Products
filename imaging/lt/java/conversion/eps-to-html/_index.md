@@ -75,16 +75,6 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertuoti EPS į HTML – Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Nemokama programa konvertuoti EPS į HTML"
         appName="Conversion"
@@ -96,13 +86,21 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/lt/conversion/EPS-to-HTML)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertuoti EPS į HTML – Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau | EPS">}}
 Failai su EPS plėtiniu iš esmės apibūdina Encapsulated PostScript kalbos programą, kuri apibūdina vieno puslapio išvaizdą. Pavadinimas „Inkapsuliuotas“, nes jis gali būti įtrauktas arba įdėtas į kitą „PostScript“ kalbos puslapio aprašą. Šis scenarijus pagrįstas failo formatas gali turėti bet kokį teksto, grafikos ir vaizdų derinį. EPS failuose gali būti bitmap peržiūros vaizdas, įdėtas į vidų, kad būtų rodomas programos, galinčios atidaryti tokius failus. EPS failus galima konvertuoti į standartinius vaizdo formatus, tokius kaip JPG, PNG, TIFF ir PDF, naudojant įvairias programas, pvz. „Adobe Illustrator“, „Photoshop“ ir „PaintShop Pro“. Dėl EPS failų saugos pažeidžiamumo „Office 2016“, „Office 2013“, „Office 2010“ ir „Office 365“ išjungė galimybę įterpti EPS failus į „Office“ dokumentus.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau | HTML">}}
 HTML (Hyper Text Markup Language) yra tinklalapių plėtinys, sukurtas rodyti naršyklėse. Žinomas kaip žiniatinklio kalba, HTML išsivystė atsižvelgiant į naujus informacijos reikalavimus, kurie turi būti rodomi kaip tinklalapių dalis. Naujausias variantas žinomas kaip HTML 5, suteikiantis daug lankstumo dirbant su kalba. HTML puslapiai gaunami iš serverio, kuriame jie yra talpinami, arba gali būti įkeliami ir iš vietinės sistemos. Kiekvienas HTML puslapis yra sudarytas iš HTML elementų, tokių kaip formos, tekstas, vaizdai, animacija, nuorodos ir tt Šie elementai vaizduojami tokiomis žymomis kaip img, a, p ir keletas kitų, kur kiekviena žyma turi pradžią ir pabaigą. Jis taip pat gali įterpti programas, parašytas skriptų kalbomis, pvz., JavaScript ir Style Sheets (CSS), kad būtų galima pateikti bendrą išdėstymą.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -75,16 +75,6 @@ description: WMZ 到 TGA Java 轉換的示例代碼。使用 API 示例代碼在
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="將 WMZ 轉換為 TGA - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="將 WMZ 轉換為 TGA 的免費應用程序"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: WMZ 到 TGA Java 轉換的示例代碼。使用 API 示例代碼在
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hant/conversion/WMZ-to-TGA)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="將 WMZ 轉換為 TGA - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | WMZ">}}
 WMZ 是 Windows Media Player 中/用於/使用的皮膚文件格式的文件擴展名。 WMZ 文件基本上是 XML 格式的壓縮 WMF 文件。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | TGA">}}
 Truevision TGA，通常稱為 TARGA，是由 Truevision Inc.（現為 Avid Technology 的一部分）創建的光柵圖形文件格式。它是 TARGA 和 VISTA 板的原生格式，它們是 IBM 兼容 PC 上第一款支持高彩/真彩顯示的顯卡。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

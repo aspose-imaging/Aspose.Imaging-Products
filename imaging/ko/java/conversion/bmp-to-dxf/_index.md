@@ -75,16 +75,6 @@ BMP을 DXF로 변환하려면 다음을 사용합니다. [자바용 Aspose.Imagi
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="BMP을 DXF로 변환 - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="BMP을 DXF로 변환하는 무료 앱"
         appName="Conversion"
@@ -96,13 +86,21 @@ BMP을 DXF로 변환하려면 다음을 사용합니다. [자바용 Aspose.Imagi
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ko/conversion/BMP-to-DXF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="BMP을 DXF로 변환 - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | BMP">}}
 확장자가 .BMP인 파일은 비트맵 디지털 이미지를 저장하는 데 사용되는 비트맵 이미지 파일을 나타냅니다. 이러한 이미지는 그래픽 어댑터와 무관하며 DIB(장치 독립 비트맵) 파일 형식이라고도 합니다. 이 독립성은 Microsoft Windows 및 Mac과 같은 여러 플랫폼에서 파일을 여는 목적을 제공합니다. BMP 파일 형식은 데이터를 흑백 및 다양한 색상 깊이의 색상 형식으로 2차원 디지털 이미지로 저장할 수 있습니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | DXF">}}
 DXF, 도면 교환 형식 또는 도면 교환 형식은 AutoCAD 도면 파일의 태그가 지정된 데이터 표현입니다. 파일의 각 요소에는 그룹 코드라는 접두어 정수 번호가 있습니다. 이 그룹 코드는 실제로 뒤에 오는 요소를 나타내고 주어진 개체 유형에 대한 데이터 요소의 의미를 나타냅니다. DXF를 사용하면 도면 파일에서 거의 모든 사용자 지정 정보를 표현할 수 있습니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

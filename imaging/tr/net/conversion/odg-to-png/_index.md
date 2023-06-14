@@ -62,16 +62,6 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="ODG öğesini PNG - .NET biçimine dönüştürün" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="ODG'i PNG'e Dönüştürmek için Ücretsiz Uygulama"
         appName="Conversion"
@@ -83,13 +73,21 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/tr/conversion/ODG-to-PNG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="ODG öğesini PNG - .NET biçimine dönüştürün" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | ODG">}}
 ODG dosya formatı, çizim öğelerini bir vektör görüntüsü olarak depolamak için Apache OpenOffice'in Draw uygulaması tarafından kullanılır. Yapısal Bilgi Standartlarının Geliştirilmesi (OASIS) tarafından özetlenen XML tabanlı dosya formatı özelliklerini takip eder. ODG, çizimleri noktalar, çizgiler ve eğriler kullanarak vektör görüntüleri olarak temsil eder. OpenOffice'in yanı sıra, LibreOffice ve diğer uygulamalar da ODG dosya formatı ile çalışmak için destek sağlar. Örneğin OpenOffice tarafından desteklenen diğer biçimler arasında ODT, ODF, ODP ve ODS bulunur.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | PNG">}}
 PNG, Taşınabilir Ağ Grafikleri, kayıpsız sıkıştırma kullanan bir tür raster görüntü dosyası biçimini ifade eder. Bu dosya biçimi, Grafik Değişim Biçimi'nin (GIF) yerini almak üzere oluşturulmuştur ve herhangi bir telif hakkı sınırlaması yoktur. Ancak PNG dosya formatı animasyonları desteklemez. PNG dosya formatı, onu kullanıcıları arasında popüler kılan kayıpsız görüntü sıkıştırmayı destekler. Zaman geçtikçe PNG, en çok kullanılan resim dosyası formatlarından biri olarak gelişti. Hemen hemen tüm İşletim Sistemleri PNG dosyalarını açma desteğine sahiptir. Örneğin, işletim sisteminin varsayılan olarak kurulumun bir parçası olarak sunulan desteğe sahip olduğu gibi, Microsoft Windows görüntüleyici PNG dosyalarını açma özelliğine sahiptir.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

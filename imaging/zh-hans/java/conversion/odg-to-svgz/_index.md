@@ -76,16 +76,6 @@ description: ODG 到 SVGZ Java 转换的示例代码。在任何基于 Web 或�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="将 ODG 转换为 SVGZ - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="将 ODG 转换为 SVGZ 的免费应用程序"
         appName="Conversion"
@@ -97,13 +87,21 @@ description: ODG 到 SVGZ Java 转换的示例代码。在任何基于 Web 或�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hans/conversion/ODG-to-SVGZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="将 ODG 转换为 SVGZ - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | ODG">}}
 Apache OpenOffice 的 Draw 应用程序使用 ODG 文件格式将绘图元素存储为矢量图像。它遵循结构信息标准推进 (OASIS) 概述的基于 XML 的文件格式规范。 ODG 将绘图表示为使用点、线和曲线的矢量图像。除了 OpenOffice，LibreOffice 和其他应用程序还提供对 ODG 文件格式的支持。例如，OpenOffice 支持的其他格式包括 ODT、ODF、ODP 和 ODS。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | SVGZ">}}
 扩展名为 .svgz 的文件是可缩放矢量图形 (.SVG) 文件的压缩版本。它使用 gzip 压缩，包含 XML 格式的数据。 SVGZ 文件支持透明度、渐变、动画和过滤器。与默认的 SVG 文件相比，SVGZ 文件的大小更小，这种减小的文件大小有助于在线传输图形文件。图形设计师使用 Adob​​e Illustrator、Corel PaintShop Pro 等工具创建 SVGZ 文件。但是，可以通过在发送图像数据时在 Apache 服务器中启用 GZip 压缩来生成 SVGZ 文件。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

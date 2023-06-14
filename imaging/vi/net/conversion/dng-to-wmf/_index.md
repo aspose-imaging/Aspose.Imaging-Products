@@ -62,16 +62,6 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Chuyển đổi DNG thành WMF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Ứng dụng miễn phí để chuyển đổi DNG thành WMF"
         appName="Conversion"
@@ -83,13 +73,21 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/vi/conversion/DNG-to-WMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Chuyển đổi DNG thành WMF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm | DNG">}}
 DNG là một định dạng hình ảnh máy ảnh kỹ thuật số được sử dụng để lưu trữ các tệp thô. Nó đã được phát triển bởi Adobe vào tháng 9 năm 2004. Về cơ bản nó được phát triển cho nhiếp ảnh kỹ thuật số. DNG là phần mở rộng của định dạng tiêu chuẩn TIFF / EP và sử dụng siêu dữ liệu đáng kể. Để xử lý dữ liệu thô từ máy ảnh kỹ thuật số một cách dễ dàng linh hoạt và khả năng kiểm soát nghệ thuật, các nhiếp ảnh gia chọn tệp thô của máy ảnh. Các định dạng JPEG và TIFF lưu trữ hình ảnh được xử lý bởi máy ảnh, do đó không có nhiều chỗ để thay đổi ở các định dạng như vậy.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm | WMF">}}
 Các tệp có phần mở rộng WMF đại diện cho Microsoft Windows Metafile (WMF) để lưu trữ dữ liệu hình ảnh dạng vector cũng như bitmap. Nói chính xác hơn, WMF thuộc thể loại định dạng tệp vectơ của các định dạng tệp Đồ họa độc lập với thiết bị. Giao diện thiết bị đồ họa Windows (GDI) sử dụng các chức năng được lưu trữ trong tệp WMF để hiển thị hình ảnh trên màn hình. Một phiên bản nâng cao hơn của WMF, được gọi là Tệp Meta Nâng cao (EMF), đã được xuất bản sau đó giúp định dạng có nhiều tính năng phong phú hơn. Thực tế, WMF tương tự như SVG.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

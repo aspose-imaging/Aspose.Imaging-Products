@@ -62,16 +62,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="将 EMZ 转换为 SVG - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="将 EMZ 转换为 SVG 的免费应用程序"
         appName="Conversion"
@@ -83,13 +73,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hans/conversion/EMZ-to-SVG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="将 EMZ 转换为 SVG - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | EMZ">}}
 具有 EMZ 文件扩展名的文件是压缩图像文件，更具体地称为 Windows 压缩增强元文件文件
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | SVG">}}
 SVG 文件是使用基于 XML 的文本格式来描述图像外观的可缩放矢量图形文件。 Scalable 这个词指的是 SVG 可以缩放到不同的大小而不会损失任何质量。此类文件的基于文本的描述使它们独立于分辨率。它是用于构建网站和打印图形以实现可扩展性的最常用格式之一。该格式只能用于二维图形。 SVG 文件可以在几乎所有现代浏览器中查看/打开，包括 Chrome、Internet Explorer、Firefox 和 Safari。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

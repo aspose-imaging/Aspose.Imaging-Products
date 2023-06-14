@@ -75,16 +75,6 @@ description: نموذج رمز لـ OTG إلى ICO تحويل Java. استخدم
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="تحويل OTG إلى ICO - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="تطبيق مجاني لتحويل OTG إلى ICO"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: نموذج رمز لـ OTG إلى ICO تحويل Java. استخدم
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/OTG-to-ICO)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="تحويل OTG إلى ICO - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | OTG">}}
 ملف OTG هو قالب رسم تم إنشاؤه باستخدام معيار OpenDocument الذي يتبع مواصفات OASIS Office Applications 1.0. إنه يمثل التنظيم الافتراضي لعناصر الرسم لصورة متجهة يمكن استخدامها لزيادة تحسين محتويات الملف.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | ICO">}}
 تنسيق ملف ICO هو تنسيق ملف صورة لأيقونات الكمبيوتر في Microsoft Windows. تحتوي ملفات ICO على صورة صغيرة واحدة أو أكثر بأحجام وأعماق ألوان متعددة ، بحيث يمكن قياسها بشكل مناسب. في Windows ، يجب أن تحمل جميع الملفات التنفيذية التي تعرض رمزًا للمستخدم أو على سطح المكتب أو في قائمة ابدأ أو في مستكشف Windows الرمز بتنسيق ICO.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

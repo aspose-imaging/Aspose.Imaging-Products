@@ -75,16 +75,6 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertuoti APNG į SVG – Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Nemokama programa konvertuoti APNG į SVG"
         appName="Conversion"
@@ -96,13 +86,21 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/lt/conversion/APNG-to-SVG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertuoti APNG į SVG – Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau | APNG">}}
 Failas su plėtiniu .apng (Animated Portable Network Graphics) yra rastrinis grafinis formatas ir yra neoficialus nešiojamojo tinklo grafikos (PNG) plėtinys. Jį sudaro keli kadrai (kiekvienas PNG vaizdas), vaizduojantis animacijos seką. Tai suteikia panašią vizualizaciją kaip GIF failas. APNG failai palaiko 24 bitų vaizdus ir 8 bitų skaidrumą. APNG yra suderinamas su neanimuotais GIF failais. APNG failuose naudojamas tas pats .png plėtinys ir juos gali atidaryti tokios programos kaip „Mozilla Firefox“, „Chrome“ su APNG palaikymu, „iMessage“ programos, skirtos „iOS 10“.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau | SVG">}}
 SVG failai yra keičiamo dydžio vektorinės grafikos failai, kurie naudoja XML pagrįstą teksto formatą vaizdo išvaizdai apibūdinti. Žodis Scalable reiškia faktą, kad SVG galima keisti iki skirtingų dydžių neprarandant kokybės. Tekstinis tokių failų aprašymas daro juos nepriklausomus nuo skiriamosios gebos. Tai vienas iš dažniausiai naudojamų interneto svetainių kūrimo ir spausdinimo grafikos formatų, siekiant mastelio. Tačiau formatą galima naudoti tik dvimatei grafikai. SVG failus galima peržiūrėti / atidaryti beveik visose šiuolaikinėse naršyklėse, įskaitant Chrome, Internet Explorer, Firefox ir Safari.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

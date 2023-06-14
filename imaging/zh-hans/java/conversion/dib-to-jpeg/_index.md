@@ -76,16 +76,6 @@ description: DIB 到 JPEG Java 转换的示例代码。在任何基于 Web 或�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="将 DIB 转换为 JPEG - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="将 DIB 转换为 JPEG 的免费应用程序"
         appName="Conversion"
@@ -97,13 +87,21 @@ description: DIB 到 JPEG Java 转换的示例代码。在任何基于 Web 或�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hans/conversion/DIB-to-JPEG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="将 DIB 转换为 JPEG - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | DIB">}}
 DIB（设备独立位图）文件是一种光栅图像文件，其结构类似于标准位图文件 (BMP)，但具有不同的标题。几乎所有可以在 Windows 和 macOS 上打开标准 BMP 文件的应用程序都可以打开它。 DIB 是二进制文件，具有类似于 BMP 的复杂文件格式。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | JPEG">}}
 JPEG 是一种使用有损压缩方法保存的图像格式。作为压缩的结果，输出图像是存储大小和图像质量之间的权衡。用户可以调整压缩级别以达到所需的质量级别，同时减小存储大小。如果对图像应用 10:1 压缩，则对图像质量的影响可以忽略不计。压缩值越高，图像质量的劣化程度越高。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

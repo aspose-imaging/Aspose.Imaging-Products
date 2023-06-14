@@ -75,16 +75,6 @@ OTGをTIFFに変換するには、 [Aspose.Imaging for Java](https://products.as
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="OTGをTIFFに変換します-Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="OTGをTIFFに変換する無料アプリ"
         appName="Conversion"
@@ -96,13 +86,21 @@ OTGをTIFFに変換するには、 [Aspose.Imaging for Java](https://products.as
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ja/conversion/OTG-to-TIFF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="OTGをTIFFに変換します-Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | OTG">}}
 OTGファイルは、OASIS Office Applications1.0仕様に準拠したOpenDocument標準を使用して作成された図面テンプレートです。これは、ファイルの内容をさらに強化するために使用できるベクター画像の描画要素のデフォルトの構成を表します。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | TIFF">}}
 TIFFまたはTIF（タグ付き画像ファイル形式）は、このファイル形式標準に準拠するさまざまなデバイスでの使用を目的としたラスター画像を表します。いくつかの色空間で、バイレベル、グレースケール、パレットカラー、およびフルカラーの画像データを記述することができます。この形式を使用するアプリケーションのスペースと時間のどちらかを選択するための非可逆圧縮方式と可逆圧縮方式をサポートしています。このフォーマットは拡張可能であり、無制限の量の個人情報または特別目的情報を含めることができるようにいくつかの改訂が行われています。この形式はマシンに依存せず、プロセッサ、オペレーティングシステム、ファイルシステムなどの境界がありません。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

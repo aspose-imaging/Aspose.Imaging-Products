@@ -75,16 +75,6 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertiere JPEG2000 in PDF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Kostenlose App zum Konvertieren von JPEG2000 in PDF"
         appName="Conversion"
@@ -96,13 +86,21 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/de/conversion/JPEG2000-to-PDF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertiere JPEG2000 in PDF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen | JPEG2000">}}
 JPEG 2000 (JP2) ist ein Bildcodierungssystem und ein hochmoderner Bildkomprimierungsstandard. JPEG 2000 wurde unter Verwendung der Wavelet-Technologie entwickelt und kann verlustfreie Inhalte in jeder Qualität gleichzeitig kodieren. Darüber hinaus hat JPEG 2000 ohne wesentliche Einbußen bei der Codierungseffizienz die Fähigkeit, auf denselben Inhalt zuzugreifen und ihn effizient in eine Vielzahl anderer Auflösungen und Qualitäten zu decodieren. Die Codeströme in JPEG 2000 sind erheblich skalierbar, da sie interessierende Regionen aufweisen, die die Möglichkeit für einen räumlichen Direktzugriff bereitstellen. Besitzt bis zu 16384 verschiedene Komponenten mit Abmessungen in Terapixel und einer Genauigkeit, die bis zu 38 Bit/Sample betragen kann.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen | PDF">}}
 Portable Document Format (PDF) ist ein Dokumenttyp, der von Adobe in den 1990er Jahren erstellt wurde. Der Zweck dieses Dateiformats bestand darin, einen Standard für die Darstellung von Dokumenten und anderem Referenzmaterial in einem Format einzuführen, das unabhängig von Anwendungssoftware, Hardware und Betriebssystem ist. Das PDF-Dateiformat kann Informationen wie Text, Bilder, Hyperlinks, Formularfelder, Rich Media, digitale Signaturen, Anhänge, Metadaten, Geodaten und 3D-Objekte enthalten, die Teil des Quelldokuments werden können.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

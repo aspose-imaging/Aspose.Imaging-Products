@@ -75,16 +75,6 @@ Avant d'exécuter l'exemple de code de conversion, assurez-vous que vous dispose
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convertir EMF en TIFF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Application gratuite pour convertir EMF en TIFF"
         appName="Conversion"
@@ -96,13 +86,21 @@ Avant d'exécuter l'exemple de code de conversion, assurez-vous que vous dispose
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/fr/conversion/EMF-to-TIFF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Convertir EMF en TIFF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite | EMF">}}
 Le format de métafichier amélioré (EMF) stocke les images graphiques indépendamment du périphérique. Les métafichiers d'EMF comprennent des enregistrements de longueur variable dans l'ordre chronologique qui peuvent restituer l'image stockée après analyse sur n'importe quel périphérique de sortie. Ces enregistrements de longueur variable peuvent être des définitions d'objets fermés, des commandes de dessin et des propriétés graphiques essentielles pour restituer l'image avec précision. Lorsqu'un appareil ouvre un métafichier EMF à l'aide de son propre environnement graphique, les proportions, dimensions, couleurs et autres propriétés graphiques de l'image d'origine restent les mêmes quelle que soit la plate-forme de l'appareil d'ouverture.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite | TIFF">}}
 TIFF ou TIF, Tagged Image File Format, représente des images raster destinées à être utilisées sur une variété d'appareils conformes à cette norme de format de fichier. Il est capable de décrire des données d'image à deux niveaux, en niveaux de gris, en couleurs de palette et en couleurs dans plusieurs espaces colorimétriques. Il prend en charge les schémas de compression avec perte et sans perte pour choisir entre l'espace et le temps pour les applications utilisant le format. Le format est extensible et a subi plusieurs révisions qui permettent l'inclusion d'une quantité illimitée d'informations privées ou à usage spécial. Le format ne dépend pas de la machine et est exempt de limites telles que le processeur, le système d'exploitation ou les systèmes de fichiers.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

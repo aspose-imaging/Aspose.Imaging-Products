@@ -64,16 +64,6 @@ Antes de executar o código de exemplo de conversão, verifique se você tem os 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Converter {Formato1} para {Formato2} - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Aplicativo gratuito para converter DJVU para DXF"
         appName="Conversion"
@@ -85,13 +75,21 @@ Antes de executar o código de exemplo de conversão, verifique se você tem os 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/pt/conversion/DJVU-to-DXF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Converter {Formato1} para {Formato2} - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação | DJVU">}}
 DjVu, pronunciado como DJVU, é um formato de arquivo gráfico destinado a documentos e livros digitalizados, especialmente aqueles que contêm a combinação de texto, desenhos, imagens e fotografias. Foi desenvolvido pela AT&T Labs. Ele usa várias técnicas, como separação de camadas de imagem de texto e imagens de fundo, carregamento progressivo, codificação aritmética e compactação com perdas para imagens bitonais. Como o arquivo DJVU pode conter imagens coloridas, fotografias, texto e desenhos compactados e de alta qualidade e pode ser salvo em menos espaço, portanto, é usado na web como eBooks, manuais, jornais, documentos antigos etc.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação | DXF">}}
 DXF, Drawing Interchange Format ou Drawing Exchange Format, é uma representação de dados marcados do arquivo de desenho do AutoCAD. Cada elemento no arquivo tem um número inteiro de prefixo chamado código de grupo. Esse código de grupo na verdade representa o elemento que segue e indica o significado de um elemento de dados para um determinado tipo de objeto. O DXF torna possível representar quase todas as informações especificadas pelo usuário em um arquivo de desenho.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

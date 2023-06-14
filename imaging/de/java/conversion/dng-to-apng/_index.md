@@ -75,16 +75,6 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertiere DNG in APNG - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Kostenlose App zum Konvertieren von DNG in APNG"
         appName="Conversion"
@@ -96,13 +86,21 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/de/conversion/DNG-to-APNG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertiere DNG in APNG - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen | DNG">}}
 DNG ist ein Bildformat für Digitalkameras, das zum Speichern von Rohdateien verwendet wird. Es wurde von Adobe im September 2004 entwickelt. Es wurde im Wesentlichen für die digitale Fotografie entwickelt. DNG ist eine Erweiterung des TIFF/EP-Standardformats und verwendet in erheblichem Umfang Metadaten. Um Rohdaten von Digitalkameras mit einfacher Flexibilität und künstlerischer Kontrolle zu bearbeiten, entscheiden sich Fotografen für Kamera-Rohdateien. JPEG- und TIFF-Formate speichern Bilder, die von der Kamera verarbeitet werden, daher ist in solchen Formaten nicht viel Spielraum für Änderungen vorhanden.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen | APNG">}}
 Eine Datei mit der Erweiterung .apng (Animated Portable Network Graphics) ist ein Rastergrafikformat und eine inoffizielle Erweiterung von Portable Network Graphic (PNG). Es besteht aus mehreren Frames (jeweils ein PNG-Bild), die eine Animationssequenz darstellen. Dies ergibt eine ähnliche Visualisierung wie eine GIF-Datei. APNG-Dateien unterstützen 24-Bit-Bilder und 8-Bit-Transparenz. APNG ist abwärtskompatibel mit nicht animierten GIF-Dateien. APNG-Dateien verwenden dieselbe .png-Erweiterung und können von Anwendungen wie Mozilla Firefox, Chrome mit APNG-Unterstützung und iMessage-Apps für iOS 10 geöffnet werden.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -76,16 +76,6 @@ description: WMF 到 SVG Java 转换的示例代码。在任何基于 Web 或桌
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="将 WMF 转换为 SVG - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="将 WMF 转换为 SVG 的免费应用程序"
         appName="Conversion"
@@ -97,13 +87,21 @@ description: WMF 到 SVG Java 转换的示例代码。在任何基于 Web 或桌
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hans/conversion/WMF-to-SVG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="将 WMF 转换为 SVG - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | WMF">}}
 带有 WMF 扩展名的文件代表 Microsoft Windows 元文件 (WMF)，用于存储矢量以及位图格式的图像数据。更准确地说，WMF 属于与设备无关的图形文件格式的矢量文件格式类别。 Windows 图形设备接口 (GDI) 使用存储在 WMF 文件中的函数在屏幕上显示图像。后来发布了 WMF 的更增强版本，称为增强元文件 (EMF)，使该格式的功能更加丰富。实际上，WMF 类似于 SVG。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | SVG">}}
 SVG 文件是使用基于 XML 的文本格式来描述图像外观的可缩放矢量图形文件。 Scalable 这个词指的是 SVG 可以缩放到不同的大小而不会损失任何质量。此类文件的基于文本的描述使它们独立于分辨率。它是用于构建网站和打印图形以实现可扩展性的最常用格式之一。该格式只能用于二维图形。 SVG 文件可以在几乎所有现代浏览器中查看/打开，包括 Chrome、Internet Explorer、Firefox 和 Safari。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

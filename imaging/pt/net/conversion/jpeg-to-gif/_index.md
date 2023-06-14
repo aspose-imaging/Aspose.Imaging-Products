@@ -64,16 +64,6 @@ Antes de executar o código de exemplo de conversão, verifique se você tem os 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Converter {Formato1} para {Formato2} - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Aplicativo gratuito para converter JPEG para GIF"
         appName="Conversion"
@@ -85,13 +75,21 @@ Antes de executar o código de exemplo de conversão, verifique se você tem os 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/pt/conversion/JPEG-to-GIF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Converter {Formato1} para {Formato2} - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação | JPEG">}}
 Um JPEG é um tipo de formato de imagem que é salvo usando o método de compactação com perdas. A imagem de saída, como resultado da compactação, é uma compensação entre o tamanho do armazenamento e a qualidade da imagem. Os usuários podem ajustar o nível de compactação para atingir o nível de qualidade desejado e, ao mesmo tempo, reduzir o tamanho do armazenamento. A qualidade da imagem é afetada de forma insignificante se a compressão 10:1 for aplicada à imagem. Quanto maior o valor de compactação, maior a degradação na qualidade da imagem.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação | GIF">}}
 Um GIF ou Graphical Interchange Format é um tipo de imagem altamente compactada. De propriedade da Unisys, o GIF usa o algoritmo de compactação LZW que não degrada a qualidade da imagem. Para cada imagem, o GIF normalmente permite até 8 bits por pixel e até 256 cores são permitidas na imagem. Em contraste com uma imagem JPEG, que pode exibir até 16 milhões de cores e toca bastante os limites do olho humano. Quando a internet surgiu, os GIFs continuaram sendo a melhor escolha porque exigiam baixa largura de banda e compatível com os gráficos que consomem áreas sólidas de cor. Um GIF animado combina várias imagens ou quadros em um único arquivo e os exibe em uma sequência para gerar um clipe animado ou um vídeo curto. As limitações de cores são de até 256 para cada quadro e provavelmente serão as menos adequadas para reproduzir outras imagens e fotografias com gradiente de cores.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

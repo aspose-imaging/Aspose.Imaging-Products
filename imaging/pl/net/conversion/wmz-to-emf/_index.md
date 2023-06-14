@@ -64,16 +64,6 @@ Przed uruchomieniem przykładowego kodu konwersji upewnij się, że masz następ
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konwertuj WMZ na EMF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Darmowa aplikacja do konwersji WMZ na EMF"
         appName="Conversion"
@@ -85,13 +75,21 @@ Przed uruchomieniem przykładowego kodu konwersji upewnij się, że masz następ
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/pl/conversion/WMZ-to-EMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konwertuj WMZ na EMF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej | WMZ">}}
 WMZ to rozszerzenie pliku dla formatu pliku skóry w/dla/używanego przez Windows Media Player. Plik WMZ to w zasadzie spakowany plik WMF w formacie XML.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej | EMF">}}
 Ulepszony format metapliku (EMF) przechowuje obrazy graficzne niezależnie od urządzenia. Metapliki EMF składają się z rekordów o zmiennej długości w porządku chronologicznym, które mogą renderować przechowywany obraz po przeanalizowaniu na dowolnym urządzeniu wyjściowym. Te rekordy o zmiennej długości mogą być definicjami zamkniętych obiektów, poleceniami do rysowania i właściwościami graficznymi krytycznymi dla dokładnego renderowania obrazu. Gdy urządzenie otwiera metaplik EMF przy użyciu własnego środowiska graficznego, proporcje, wymiary, kolory i inne właściwości graficzne oryginalnego obrazu pozostają takie same niezależnie od platformy urządzenia otwierającego.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

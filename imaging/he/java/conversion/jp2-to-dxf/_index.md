@@ -75,16 +75,6 @@ description: קוד לדוגמה עבור המרת Java מ-JP2 ל-DXF. השתמ�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="המר את JP2 ל-DXF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="אפליקציה חינמית להמרת JP2 ל-DXF"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: קוד לדוגמה עבור המרת Java מ-JP2 ל-DXF. השתמ�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/JP2-to-DXF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="המר את JP2 ל-DXF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | JP2">}}
 JPEG 2000 (JP2) היא מערכת קידוד תמונה ותקן דחיסת תמונה מתקדם. עוצב, תוך שימוש בטכנולוגיית wavelet JPEG 2000 יכול לקודד תוכן ללא אובדן בכל איכות בבת אחת. יתרה מכך, ללא כל עונש משמעותי ביעילות הקידוד, ל-JPEG 2000 יש את היכולת לגשת ולפענח את אותו תוכן בצורה יעילה למגוון רזולוציות ואיכויות אחרות. זרמי הקוד ב-JPEG 2000 ניתנים להרחבה באופן משמעותי עם אזורי עניין המספקים את המתקן לגישה אקראית מרחבית. בעל עד 16384 רכיבים מגוונים עם המידות ב-terapixels, ודיוק שיכול להגיע ל-38 סיביות/דגימה.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | DXF">}}
 DXF, Drawing Interchange Format, או Drawing Exchange Format, הוא ייצוג נתונים מתויג של קובץ ציור AutoCAD. לכל רכיב בקובץ יש קידומת מספר שלם הנקרא קוד קבוצה. קוד קבוצה זה מייצג למעשה את האלמנט שאחריו ומציין את המשמעות של אלמנט נתונים עבור סוג אובייקט נתון. DXF מאפשר לייצג כמעט את כל המידע שצוין על ידי המשתמש בקובץ ציור.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

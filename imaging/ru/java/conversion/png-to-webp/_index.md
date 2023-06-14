@@ -75,16 +75,6 @@ description: Пример кода для преобразования PNG в WE
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Преобразование PNG в WEBP - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Бесплатное приложение для конвертации PNG в WEBP"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Пример кода для преобразования PNG в WE
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ru/conversion/PNG-to-WEBP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Преобразование PNG в WEBP - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее | PNG">}}
 PNG, переносимая сетевая графика, относится к типу формата файла растрового изображения, в котором используется сжатие без потерь. Этот формат файла был создан в качестве замены формата обмена графикой (GIF) и не имеет ограничений авторского права. Однако формат файла PNG не поддерживает анимацию. Формат файлов PNG поддерживает сжатие изображений без потерь, что делает его популярным среди пользователей. С течением времени PNG превратился в один из наиболее часто используемых форматов файлов изображений. Почти все операционные системы поддерживают открытие файлов PNG. Например, средство просмотра Microsoft Windows имеет возможность открывать файлы PNG, так как ОС по умолчанию имеет поддержку, доступную как часть установки.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее | WEBP">}}
 WebP, представленный Google, представляет собой современный формат файлов растровых веб-изображений, основанный на сжатии без потерь и с потерями. Он обеспечивает такое же качество изображения при значительном уменьшении размера изображения. Поскольку большинство веб-страниц используют изображения в качестве эффективного представления данных, использование изображений WebP на веб-страницах приводит к более быстрой загрузке веб-страниц. По данным Google, изображения WebP без потерь на 26% меньше по размеру по сравнению с PNG, а изображения WebP с потерями на 25-34% меньше, чем сопоставимые изображения JPEG. Изображения сравниваются на основе индекса структурного сходства (SSIM) между WebP и другими форматами файлов изображений. WebP — это родственный проект формата мультимедийных контейнеров WebM.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

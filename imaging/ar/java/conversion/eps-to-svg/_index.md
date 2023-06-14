@@ -75,16 +75,6 @@ description: نموذج رمز لـ EPS إلى SVG تحويل Java. استخدم
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="تحويل EPS إلى SVG - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="تطبيق مجاني لتحويل EPS إلى SVG"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: نموذج رمز لـ EPS إلى SVG تحويل Java. استخدم
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/EPS-to-SVG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="تحويل EPS إلى SVG - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | EPS">}}
 تصف الملفات ذات امتداد EPS بشكل أساسي برنامج لغة Encapsulated PostScript يصف مظهر صفحة واحدة. الاسم "مغلف" لأنه يمكن تضمينه أو تغليفه في وصف صفحة أخرى بلغة PostScript. قد يحتوي تنسيق الملف المستند إلى البرنامج النصي على أي مجموعة من النصوص والرسومات والصور. قد تتضمن ملفات EPS صورة معاينة نقطية مغلفة بالداخل لعرضها بواسطة التطبيقات التي يمكنها فتح مثل هذه الملفات. يمكن تحويل ملفات EPS إلى تنسيقات صور قياسية مثل JPG و PNG و TIFF و PDF باستخدام تطبيقات مختلفة مثل Adobe Illustrator و Photoshop و PaintShop Pro. نظرًا لوجود ثغرة أمنية في ملفات EPS ، فقد أوقف Office 2016 و Office 2013 و Office 2010 و Office 365 القدرة على إدراج ملفات EPS في مستندات Office.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | SVG">}}
 ملفات SVG هي ملفات رسومات متجهة قابلة للتطوير تستخدم تنسيقًا نصيًا يستند إلى XML لوصف مظهر الصورة. تشير كلمة Scalable إلى حقيقة أنه يمكن تحجيم SVG إلى أحجام مختلفة دون فقدان أي جودة. الوصف المستند إلى النص لمثل هذه الملفات يجعلها مستقلة عن الدقة. إنه أحد التنسيقات الأكثر استخدامًا لبناء مواقع الويب والرسومات المطبوعة من أجل تحقيق قابلية التوسع. لا يمكن استخدام التنسيق إلا للرسومات ثنائية الأبعاد. يمكن عرض / فتح ملفات SVG في جميع المتصفحات الحديثة تقريبًا بما في ذلك Chrome و Internet Explorer و Firefox و Safari.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

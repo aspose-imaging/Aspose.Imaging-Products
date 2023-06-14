@@ -64,16 +64,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Преобразование APNG в GIF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Бесплатное приложение для конвертации APNG в GIF"
         appName="Conversion"
@@ -85,13 +75,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ru/conversion/APNG-to-GIF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Преобразование APNG в GIF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее | APNG">}}
 Файл с расширением .apng (Animated Portable Network Graphics) представляет собой растровый графический формат и является неофициальным расширением Portable Network Graphics (PNG). Он состоит из нескольких кадров (каждый из изображений PNG), которые представляют последовательность анимации. Это дает визуализацию, аналогичную файлу GIF. Файлы APNG поддерживают 24-битные изображения и 8-битную прозрачность. APNG обратно совместим с неанимированными файлами GIF. Файлы APNG используют то же расширение .png и могут открываться такими приложениями, как Mozilla Firefox, Chrome с поддержкой APNG, приложениями iMessage для iOS 10.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее | GIF">}}
 Формат GIF или Graphical Interchange Format представляет собой тип сильно сжатого изображения. Принадлежащий Unisys, GIF использует алгоритм сжатия LZW, который не ухудшает качество изображения. Для каждого изображения в формате GIF обычно допускается до 8 бит на пиксель, а в изображении допускается до 256 цветов. В отличие от изображения в формате JPEG, которое может отображать до 16 миллионов цветов и довольно далеко выходит за пределы возможностей человеческого глаза. Когда появился Интернет, GIF-файлы оставались лучшим выбором, потому что они требовали низкой пропускной способности и были совместимы с графикой, которая использует сплошные области цвета. Анимированный GIF объединяет многочисленные изображения или кадры в один файл и отображает их в последовательности для создания анимированного клипа или короткого видео. Ограничения по цвету составляют до 256 для каждого кадра и, вероятно, будут наименее подходящими для воспроизведения других изображений и фотографий с цветовым градиентом.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

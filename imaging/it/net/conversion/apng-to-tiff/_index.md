@@ -64,16 +64,6 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Converti APNG in TIFF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="App gratuita per convertire APNG in TIFF"
         appName="Conversion"
@@ -85,13 +75,21 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/it/conversion/APNG-to-TIFF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Converti APNG in TIFF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più | APNG">}}
 Un file con estensione .apng (Animated Portable Network Graphics) è un formato grafico raster ed è un'estensione non ufficiale di Portable Network Graphic (PNG). Comprende più fotogrammi (ciascuno di un'immagine PNG) che rappresenta una sequenza di animazione. Ciò fornisce una visualizzazione simile a quella di un file GIF. I file APNG supportano immagini a 24 bit e trasparenza a 8 bit. APNG è compatibile con le versioni precedenti di file GIF non animati. I file APNG utilizzano la stessa estensione .png e possono essere aperti da applicazioni come Mozilla Firefox, Chrome con supporto APNG, app iMessage per iOS 10.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più | TIFF">}}
 TIFF o TIF, Tagged Image File Format, rappresenta immagini raster destinate all'uso su una varietà di dispositivi conformi a questo standard di formato file. È in grado di descrivere dati di immagini a due livelli, in scala di grigi, a colori ea colori in diversi spazi colore. Supporta schemi di compressione lossy e lossless per scegliere tra spazio e tempo per le applicazioni che utilizzano il formato. Il formato è estensibile e ha subito diverse revisioni che consentono l'inclusione di una quantità illimitata di informazioni private o per scopi speciali. Il formato non dipende dalla macchina ed è libero da limiti come processore, sistema operativo o file system.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -75,16 +75,6 @@ description: קוד לדוגמה עבור המרת Java מ-EMF ל-APNG. השתמ
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="המר את EMF ל-APNG - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="אפליקציה חינמית להמרת EMF ל-APNG"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: קוד לדוגמה עבור המרת Java מ-EMF ל-APNG. השתמ
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/EMF-to-APNG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="המר את EMF ל-APNG - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | EMF">}}
 פורמט מטא-קובץ משופר (EMF) מאחסן תמונות גרפיות באופן עצמאי. Metafiles של EMF מורכבים מרשומות באורך משתנה לפי סדר כרונולוגי שיכולים לעבד את התמונה המאוחסנת לאחר ניתוח בכל התקן פלט. רשומות אלה באורך משתנה יכולות להיות הגדרות של אובייקטים סגורים, פקודות לציור ומאפיינים גרפיים קריטיים לעיבוד התמונה במדויק. כאשר מכשיר פותח מטא-קובץ EMF באמצעות סביבת גרפיקה משלו, הפרופורציות, הממדים, הצבעים ושאר המאפיינים הגרפיים של התמונה המקורית נשארים זהים ללא קשר לפלטפורמת המכשיר הנפתח.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | APNG">}}
 קובץ עם סיומת .apng (Animated Portable Network Graphics) הוא פורמט גרפי רסטר והוא הרחבה לא רשמית ל-Portable Network Graphic (PNG). הוא מורכב ממספר פריימים (כל אחת מתמונת PNG) המייצגת רצף אנימציה. זה נותן הדמיה דומה לקובץ GIF. קובצי APNG תומכים בתמונות של 24 סיביות ושקיפות של 8 סיביות. APNG תואם לאחור עם קבצי GIF שאינם מונפשים. קובצי APNG משתמשים באותה סיומת .png וניתן לפתוח אותם על ידי יישומים כגון Mozilla Firefox, Chrome עם תמיכה בAPNG, אפליקציות iMessage עבור iOS 10.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -75,16 +75,6 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Převést CDR na JPG – Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Bezplatná aplikace pro převod CDR na JPG"
         appName="Conversion"
@@ -96,13 +86,21 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/CDR-to-JPG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Převést CDR na JPG – Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více | CDR">}}
 Soubor CDR je soubor s obrázkem vektorové kresby, který je nativně vytvořen pomocí aplikace CorelDRAW pro ukládání kódovaných a komprimovaných digitálních obrázků. Takový výkresový soubor obsahuje text, čáry, tvary, obrázky, barvy a efekty pro vektorovou reprezentaci obsahu obrázku. Soubory CDR lze otevřít pomocí CorelDRAW jako primární aplikace a lze je také převést do jiných formátů, jako jsou PDF, JPG, PNG, BMP a AI. Lze jej použít pro reprezentaci různých grafických dat, jako jsou brožury, bulvární tiskoviny, obálky a pohlednice. Kromě aplikace CorelDRAW mohou formáty souborů CDR otevřít také další produkty Corel, jako je Corel Paintshop Pro a CorelDRAW Graphics Suite.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více | JPG">}}
 JPEG je typ obrazového formátu, který se ukládá pomocí metody ztrátové komprese. Výstupní obraz, jako výsledek komprese, je kompromisem mezi velikostí úložiště a kvalitou obrazu. Uživatelé mohou upravit úroveň komprese tak, aby dosáhli požadované úrovně kvality a zároveň snížili velikost úložiště. Kvalita obrazu je zanedbatelně ovlivněna, pokud je na obraz aplikována komprese 10:1. Čím vyšší je hodnota komprese, tím vyšší je zhoršení kvality obrazu.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="SVG को DXF में बदलें - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="SVG को DXF में बदलने के लिए नि:शुल्‍क ऐप"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/SVG-to-DXF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="SVG को DXF में बदलें - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | SVG">}}
 एसवीजी फाइलें स्केलेबल वेक्टर ग्राफिक्स फाइलें हैं जो छवि की उपस्थिति का वर्णन करने के लिए एक्सएमएल आधारित टेक्स्ट प्रारूप का उपयोग करती हैं। स्केलेबल शब्द इस तथ्य को संदर्भित करता है कि एसवीजी को बिना किसी गुणवत्ता को खोए विभिन्न आकारों में बढ़ाया जा सकता है। ऐसी फाइलों का पाठ आधारित विवरण उन्हें संकल्प से स्वतंत्र बनाता है। यह स्केलेबिलिटी प्राप्त करने के लिए वेबसाइट और प्रिंट ग्राफिक्स के निर्माण के लिए सबसे अधिक उपयोग किए जाने वाले प्रारूप में से एक है। प्रारूप का उपयोग केवल द्वि-आयामी ग्राफिक्स के लिए किया जा सकता है। SVG फाइलें क्रोम, इंटरनेट एक्सप्लोरर, फायरफॉक्स और सफारी सहित लगभग सभी आधुनिक ब्राउज़रों में देखी/खोली जा सकती हैं।
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | DXF">}}
 डीएक्सएफ, ड्रॉइंग इंटरचेंज फॉर्मेट या ड्रॉइंग एक्सचेंज फॉर्मेट, ऑटोकैड ड्राइंग फाइल का एक टैग किया गया डेटा प्रतिनिधित्व है। फ़ाइल में प्रत्येक तत्व में एक उपसर्ग पूर्णांक संख्या होती है जिसे समूह कोड कहा जाता है। यह समूह कोड वास्तव में उस तत्व का प्रतिनिधित्व करता है जो किसी दिए गए ऑब्जेक्ट प्रकार के लिए डेटा तत्व के अर्थ का अनुसरण करता है और इंगित करता है। डीएक्सएफ ड्राइंग फ़ाइल में लगभग सभी उपयोगकर्ता-निर्दिष्ट जानकारी का प्रतिनिधित्व करना संभव बनाता है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 

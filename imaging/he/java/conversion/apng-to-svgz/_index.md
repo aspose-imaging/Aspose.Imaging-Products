@@ -75,16 +75,6 @@ description: קוד לדוגמה עבור המרת Java מ-APNG ל-SVGZ. השת�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="המר את APNG ל-SVGZ - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="אפליקציה חינמית להמרת APNG ל-SVGZ"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: קוד לדוגמה עבור המרת Java מ-APNG ל-SVGZ. השת�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/APNG-to-SVGZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="המר את APNG ל-SVGZ - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | APNG">}}
 קובץ עם סיומת .apng (Animated Portable Network Graphics) הוא פורמט גרפי רסטר והוא הרחבה לא רשמית ל-Portable Network Graphic (PNG). הוא מורכב ממספר פריימים (כל אחת מתמונת PNG) המייצגת רצף אנימציה. זה נותן הדמיה דומה לקובץ GIF. קובצי APNG תומכים בתמונות של 24 סיביות ושקיפות של 8 סיביות. APNG תואם לאחור עם קבצי GIF שאינם מונפשים. קובצי APNG משתמשים באותה סיומת .png וניתן לפתוח אותם על ידי יישומים כגון Mozilla Firefox, Chrome עם תמיכה בAPNG, אפליקציות iMessage עבור iOS 10.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | SVGZ">}}
 קובץ עם סיומת .svgz הוא גרסה דחוסה של קובץ Scalable Vector Graphics (.SVG). הוא דחוס עם דחיסת gzip ומכיל נתונים בפורמט XML. קובצי SVGZ תומכים בשקיפות, מעברי צבע, אנימציות ומסננים. קבצי SVGZ קטנים יותר בהשוואה לקובצי SVG ברירת המחדל וגודל הקובץ המופחת הזה עוזר להעביר את קבצי הגרפיקה באופן מקוון. מעצב גרפי יוצר קובצי SVGZ באמצעות כלים כמו Adobe Illustrator, Corel PaintShop Pro ואחרים. עם זאת, ניתן ליצור קבצי SVGZ על ידי הפעלת דחיסת GZip בשרת ה-Apache בזמן שליחת נתוני התמונה.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

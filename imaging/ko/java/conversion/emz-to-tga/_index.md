@@ -75,16 +75,6 @@ EMZ을 TGA로 변환하려면 다음을 사용합니다. [자바용 Aspose.Imagi
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="EMZ을 TGA로 변환 - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="EMZ을 TGA로 변환하는 무료 앱"
         appName="Conversion"
@@ -96,13 +86,21 @@ EMZ을 TGA로 변환하려면 다음을 사용합니다. [자바용 Aspose.Imagi
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ko/conversion/EMZ-to-TGA)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="EMZ을 TGA로 변환 - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | EMZ">}}
 EMZ 파일 확장자를 가진 파일은 압축된 이미지 파일이며, 보다 구체적으로 Windows Compressed Enhanced Metafile 파일이라고 합니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | TGA">}}
 TARGA라고도 하는 Truevision TGA는 Truevision Inc.(현재 Avid Technology의 일부)에서 만든 래스터 그래픽 파일 형식입니다. TARGA 및 VISTA 보드의 기본 형식으로, IBM 호환 PC용으로 Highcolor/truecolor 디스플레이를 지원하는 최초의 그래픽 카드였습니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

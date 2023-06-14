@@ -75,16 +75,6 @@ description: קוד לדוגמה עבור המרת Java מ-ICO ל-PDF. השתמ�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="המר את ICO ל-PDF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="אפליקציה חינמית להמרת ICO ל-PDF"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: קוד לדוגמה עבור המרת Java מ-ICO ל-PDF. השתמ�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/ICO-to-PDF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="המר את ICO ל-PDF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | ICO">}}
 פורמט קובץ ICO הוא פורמט קובץ תמונה עבור סמלי מחשב ב-Microsoft Windows. קובצי ICO מכילים תמונה קטנה אחת או יותר בגדלים ובעומקי צבע מרובים, כך שניתן לשנות את קנה המידה שלהם כראוי. ב-Windows, כל קובצי ההפעלה שמציגים סמל למשתמש, בשולחן העבודה, בתפריט התחל או בסייר Windows, חייבים לשאת את הסמל בפורמט ICO.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | PDF">}}
 פורמט מסמכים ניידים (PDF) הוא סוג של מסמך שנוצר על ידי Adobe עוד בשנות ה-90. מטרת פורמט קובץ זה הייתה להציג תקן לייצוג של מסמכים וחומרי עזר אחרים בפורמט שאינו תלוי בתוכנת יישום, חומרה ומערכת הפעלה. לפורמט קובץ ה-PDF יש יכולת מלאה להכיל מידע כמו טקסט, תמונות, היפר-קישורים, שדות טופס, מדיה עשירה, חתימות דיגיטליות, קבצים מצורפים, מטא נתונים, תכונות גיאו-מרחביות ואובייקטים תלת-ממדיים, שיכולים להפוך לחלק ממסמך המקור.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -64,16 +64,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="DICOM을 GIF로 변환 - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="DICOM을 GIF로 변환하는 무료 앱"
         appName="Conversion"
@@ -85,13 +75,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ko/conversion/DICOM-to-GIF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="DICOM을 GIF로 변환 - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | DICOM">}}
 DICOM은 Digital Imaging and Communications in Medicine의 약자로 의료 정보학 분야와 관련이 있습니다. DICOM은 파일 형식 정의와 네트워크 통신 프로토콜의 조합입니다. DICOM은 .DCM 확장자를 사용합니다. .DCM은 형식 1.x와 형식 2.x의 두 가지 형식으로 존재합니다. DCM 형식 1.x는 일반 및 확장의 두 가지 버전으로 추가로 제공됩니다. DICOM은 다양한 공급업체의 프린터, 서버, 스캐너 등과 같은 의료 영상 장치의 통합에 사용되며 고유성을 위해 각 환자의 식별 데이터도 포함합니다. DICOM 파일은 DICOM 형식의 이미지 데이터를 수신할 수 있는 경우 두 당사자 간에 공유할 수 있습니다. DICOM의 통신 부분은 응용 계층 프로토콜이며 TCP/IP를 사용하여 엔터티 간에 통신합니다. HTTP 및 HTTPS 프로토콜은 DICOM의 웹 서비스에 사용됩니다. 웹 서비스에서 지원하는 버전은 1.0, 1.1, 2 이상입니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | GIF">}}
 GIF 또는 그래픽 교환 형식은 고도로 압축된 이미지 유형입니다. Unisys가 소유한 GIF는 이미지 품질을 저하시키지 않는 LZW 압축 알고리즘을 사용합니다. 각 이미지에 대해 GIF는 일반적으로 픽셀당 최대 8비트를 허용하고 이미지 전체에 최대 256가지 색상을 허용합니다. 최대 1600만 색상을 표시할 수 있고 인간의 눈의 한계에 상당히 닿는 JPEG 이미지와 대조적입니다. 인터넷이 등장했을 때 GIF는 낮은 대역폭이 필요하고 단색 영역을 소비하는 그래픽과 호환되기 때문에 최고의 선택으로 남아 있었습니다. 애니메이션 GIF는 수많은 이미지 또는 프레임을 단일 파일로 결합하고 이를 시퀀스로 표시하여 애니메이션 클립 또는 짧은 비디오를 생성합니다. 색상 제한은 각 프레임에 대해 최대 256개이며 색상 그라디언트가 있는 다른 이미지 및 사진을 재생하는 데 가장 적합하지 않을 수 있습니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -62,16 +62,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="将 GIF 转换为 PDF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="将 GIF 转换为 PDF 的免费应用程序"
         appName="Conversion"
@@ -83,13 +73,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hans/conversion/GIF-to-PDF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="将 GIF 转换为 PDF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | GIF">}}
 GIF 或图形交换格式是一种高度压缩的图像。 GIF 由 Unisys 拥有，使用不会降低图像质量的 LZW 压缩算法。对于每个图像，GIF 通常允许每个像素最多 8 位，并且整个图像最多允许 256 种颜色。与 JPEG 图像相比，JPEG 图像可以显示多达 1600 万种颜色，并且相当接近人眼的极限。早在互联网出现时，GIF 仍然是最佳选择，因为它们需要低带宽并且与消耗纯色区域的图形兼容。动画 GIF 将大量图像或帧组合到一个文件中，并按顺序显示它们以生成动画剪辑或短视频。每帧的颜色限制最多为 256 种，并且可能最不适合再现具有颜色渐变的其他图像和照片。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | PDF">}}
 可移植文档格式 (PDF) 是 Adob​​e 在 1990 年代创建的一种文档。这种文件格式的目的是引入一种标准，用于以独立于应用软件、硬件和操作系统的格式来表示文档和其他参考资料。 PDF 文件格式具有包含文本、图像、超链接、表单域、富媒体、数字签名、附件、元数据、地理空间特征和 3D 对象等信息的全部功能，这些信息可以成为源文档的一部分。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

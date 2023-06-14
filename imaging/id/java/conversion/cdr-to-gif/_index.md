@@ -75,16 +75,6 @@ Sebelum menjalankan kode contoh konversi, pastikan Anda memiliki prasyarat berik
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konversi CDR ke GIF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Aplikasi Gratis untuk Mengonversi CDR ke GIF"
         appName="Conversion"
@@ -96,13 +86,21 @@ Sebelum menjalankan kode contoh konversi, pastikan Anda memiliki prasyarat berik
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/id/conversion/CDR-to-GIF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konversi CDR ke GIF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya | CDR">}}
 File CDR adalah file gambar gambar vektor yang dibuat secara native dengan CorelDRAW untuk menyimpan gambar digital yang dikodekan dan dikompresi. File gambar seperti itu berisi teks, garis, bentuk, gambar, warna, dan efek untuk representasi vektor dari konten gambar. File CDR dapat dibuka dengan CorelDRAW sebagai aplikasi utama dan juga dapat dikonversi ke format lain seperti PDF, JPG, PNG, BMP dan AI. Ini dapat digunakan untuk representasi berbagai data grafik seperti brosur, tabloid, amplop, dan kartu pos. Selain CorelDRAW, produk Corel lainnya seperti Corel Paintshop Pro dan CorelDRAW Graphics suite juga dapat membuka format file CDR.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya | GIF">}}
 GIF atau Graphical Interchange Format adalah jenis gambar yang sangat terkompresi. Dimiliki oleh Unisys, GIF menggunakan algoritma kompresi LZW yang tidak menurunkan kualitas gambar. Untuk setiap gambar, GIF biasanya mengizinkan hingga 8 bit per piksel dan hingga 256 warna diizinkan di seluruh gambar. Berbeda dengan gambar JPEG, yang mampu menampilkan hingga 16 juta warna dan terbilang menyentuh batas mata manusia. Kembali ketika internet muncul, GIF tetap menjadi pilihan terbaik karena membutuhkan bandwidth rendah dan kompatibel untuk grafik yang menggunakan area warna solid. GIF animasi menggabungkan banyak gambar atau bingkai ke dalam satu file dan menampilkannya secara berurutan untuk menghasilkan klip animasi atau video pendek. Batasan warna hingga 256 untuk setiap bingkai dan kemungkinan paling tidak cocok untuk mereproduksi gambar dan foto lain dengan gradien warna.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

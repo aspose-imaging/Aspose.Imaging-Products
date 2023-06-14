@@ -75,16 +75,6 @@ DICOM을 SVG로 변환하려면 다음을 사용합니다. [자바용 Aspose.Ima
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="DICOM을 SVG로 변환 - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="DICOM을 SVG로 변환하는 무료 앱"
         appName="Conversion"
@@ -96,13 +86,21 @@ DICOM을 SVG로 변환하려면 다음을 사용합니다. [자바용 Aspose.Ima
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ko/conversion/DICOM-to-SVG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="DICOM을 SVG로 변환 - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | DICOM">}}
 DICOM은 Digital Imaging and Communications in Medicine의 약자로 의료 정보학 분야와 관련이 있습니다. DICOM은 파일 형식 정의와 네트워크 통신 프로토콜의 조합입니다. DICOM은 .DCM 확장자를 사용합니다. .DCM은 형식 1.x와 형식 2.x의 두 가지 형식으로 존재합니다. DCM 형식 1.x는 일반 및 확장의 두 가지 버전으로 추가로 제공됩니다. DICOM은 다양한 공급업체의 프린터, 서버, 스캐너 등과 같은 의료 영상 장치의 통합에 사용되며 고유성을 위해 각 환자의 식별 데이터도 포함합니다. DICOM 파일은 DICOM 형식의 이미지 데이터를 수신할 수 있는 경우 두 당사자 간에 공유할 수 있습니다. DICOM의 통신 부분은 응용 계층 프로토콜이며 TCP/IP를 사용하여 엔터티 간에 통신합니다. HTTP 및 HTTPS 프로토콜은 DICOM의 웹 서비스에 사용됩니다. 웹 서비스에서 지원하는 버전은 1.0, 1.1, 2 이상입니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | SVG">}}
 SVG 파일은 이미지의 모양을 설명하기 위해 XML 기반 텍스트 형식을 사용하는 확장 가능한 벡터 그래픽 파일입니다. Scalable이라는 단어는 SVG가 품질을 잃지 않고 다양한 크기로 확장될 수 있다는 사실을 나타냅니다. 이러한 파일에 대한 텍스트 기반 설명은 파일을 해상도와 무관하게 만듭니다. 확장성을 확보하기 위해 웹사이트를 구축하고 그래픽을 인쇄할 때 가장 많이 사용되는 형식 중 하나입니다. 형식은 2차원 그래픽에만 사용할 수 있습니다. SVG 파일은 Chrome, Internet Explorer, Firefox 및 Safari를 포함한 거의 모든 최신 브라우저에서 보거나 열 수 있습니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -75,16 +75,6 @@ description: نموذج رمز لـ DNG إلى WMF تحويل Java. استخدم
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="تحويل DNG إلى WMF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="تطبيق مجاني لتحويل DNG إلى WMF"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: نموذج رمز لـ DNG إلى WMF تحويل Java. استخدم
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DNG-to-WMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="تحويل DNG إلى WMF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | DNG">}}
 DNG هو تنسيق صورة كاميرا رقمية يستخدم لتخزين الملفات الأولية. تم تطويره بواسطة Adobe في سبتمبر 2004. تم تطويره بشكل أساسي للتصوير الرقمي. DNG هو امتداد لتنسيق TIFF / EP القياسي ويستخدم البيانات الوصفية بشكل كبير. من أجل معالجة البيانات الأولية من الكاميرات الرقمية بسهولة المرونة والتحكم الفني ، يختار المصورون الملفات الأولية للكاميرا. تخزن تنسيقات JPEG و TIFF الصور التي تتم معالجتها بواسطة الكاميرا ، وبالتالي لا يتوفر مجال كبير للتغيير في مثل هذه التنسيقات.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | WMF">}}
 تمثل الملفات ذات الامتداد WMF Microsoft Windows Metafile (WMF) لتخزين بيانات الصور المتجهة وكذلك الصور النقطية. لكي تكون أكثر دقة ، تنتمي WMF إلى فئة تنسيق ملف متجه لتنسيقات ملفات الرسومات المستقلة عن الجهاز. تستخدم واجهة جهاز Windows الرسومية (GDI) الوظائف المخزنة في ملف WMF لعرض صورة على الشاشة. تم نشر إصدار محسن أكثر من WMF ، والمعروف باسم Enhanced Meta Files (EMF) ، في وقت لاحق مما يجعل التنسيق أكثر ثراءً بالميزات. من الناحية العملية ، تشبه WMF SVG.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

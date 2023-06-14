@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="แปลง CMX เป็น PNG - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="แอปฟรีเพื่อแปลง CMX เป็น PNG"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/CMX-to-PNG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="แปลง CMX เป็น PNG - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | CMX">}}
 ไฟล์ที่มีนามสกุล CMX คือรูปแบบไฟล์รูปภาพ Corel Exchange ที่ใช้เป็นการนำเสนอโดยแอปพลิเคชัน CorelSuite ประกอบด้วยข้อมูลภาพเป็นกราฟิกแบบเวกเตอร์รวมทั้งข้อมูลเมตาที่อธิบายภาพ ไฟล์ CMX สามารถเปิดได้โดย CorelDraw, Corel Presentations, Paint Shop Pro และ Adobe Illustrator บางรุ่น
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | PNG">}}
 PNG หรือ Portable Network Graphics หมายถึงรูปแบบไฟล์ภาพแรสเตอร์ชนิดหนึ่งที่ใช้การบีบอัดแบบไม่สูญเสียข้อมูล รูปแบบไฟล์นี้สร้างขึ้นแทน Graphics Interchange Format (GIF) และไม่มีข้อจำกัดด้านลิขสิทธิ์ อย่างไรก็ตาม รูปแบบไฟล์ PNG ไม่รองรับภาพเคลื่อนไหว รูปแบบไฟล์ PNG รองรับการบีบอัดภาพแบบไม่สูญเสียซึ่งทำให้เป็นที่นิยมในหมู่ผู้ใช้ เมื่อเวลาผ่านไป PNG ได้พัฒนาให้เป็นหนึ่งในรูปแบบไฟล์รูปภาพที่ใช้เป็นส่วนใหญ่ ระบบปฏิบัติการเกือบทั้งหมดรองรับการเปิดไฟล์ PNG ตัวอย่างเช่น โปรแกรมแสดง Microsoft Windows มีความสามารถในการเปิดไฟล์ PNG เนื่องจากระบบปฏิบัติการมีการสนับสนุนโดยค่าเริ่มต้นซึ่งเป็นส่วนหนึ่งของการติดตั้ง
         {{< /blocks/products/pf/agp/about-file-text >}}
 

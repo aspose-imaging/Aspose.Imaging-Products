@@ -75,16 +75,6 @@ description: DJVU 到 BMP Java 轉換的示例代碼。使用 API 示例代碼�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="將 DJVU 轉換為 BMP - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="將 DJVU 轉換為 BMP 的免費應用程序"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: DJVU 到 BMP Java 轉換的示例代碼。使用 API 示例代碼�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hant/conversion/DJVU-to-BMP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="將 DJVU 轉換為 BMP - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | DJVU">}}
 DjVu，發音為 DJVU，是一種圖形文件格式，用於掃描文檔和書籍，尤其是包含文本、繪圖、圖像和照片組合的文檔和書籍。它是由 AT&T 實驗室開發的。它使用多種技術，例如文本和背景圖像的圖像層分離、漸進式加載、算術編碼和雙色調圖像的有損壓縮。由於 DJVU 文件可以包含壓縮但高質量的彩色圖像、照片、文本和繪圖，因此可以保存在更小的空間中，因此它在網絡上用作電子書、手冊、報紙、古代文件等。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | BMP">}}
 擴展名為 .BMP 的文件表示用於存儲位圖數字圖像的位圖圖像文件。這些圖像獨立於圖形適配器，也稱為設備獨立位圖 (DIB) 文件格式。這種獨立性的目的是在 Microsoft Windows 和 Mac 等多個平台上打開文件。 BMP 文件格式可以將數據存儲為單色和具有各種顏色深度的彩色格式的二維數字圖像。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

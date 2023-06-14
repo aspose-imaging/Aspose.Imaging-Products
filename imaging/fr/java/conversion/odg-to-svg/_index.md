@@ -75,16 +75,6 @@ Avant d'exécuter l'exemple de code de conversion, assurez-vous que vous dispose
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convertir ODG en SVG - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Application gratuite pour convertir ODG en SVG"
         appName="Conversion"
@@ -96,13 +86,21 @@ Avant d'exécuter l'exemple de code de conversion, assurez-vous que vous dispose
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/fr/conversion/ODG-to-SVG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Convertir ODG en SVG - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite | ODG">}}
 Le format de fichier ODG est utilisé par l'application Draw d'Apache OpenOffice pour stocker les éléments de dessin sous forme d'image vectorielle. Il suit les spécifications de format de fichier basées sur XML décrites par Advancement of Structural Information Standards (OASIS). ODG représente les dessins sous forme d'images vectorielles à l'aide de points, de lignes et de courbes. Outre OpenOffice, LibreOffice et d'autres applications prennent également en charge le travail avec le format de fichier ODG. Les autres formats pris en charge par OpenOffice, par exemple, incluent ODT, ODF, ODP et ODS.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite | SVG">}}
 Les fichiers SVG sont des fichiers graphiques vectoriels évolutifs qui utilisent un format de texte basé sur XML pour décrire l'apparence de l'image. Le mot Scalable fait référence au fait que le SVG peut être mis à l'échelle à différentes tailles sans perte de qualité. La description textuelle de ces fichiers les rend indépendants de la résolution. C'est l'un des formats les plus utilisés pour créer des sites Web et des graphiques d'impression afin d'atteindre l'évolutivité. Le format ne peut cependant être utilisé que pour les graphiques en deux dimensions. Les fichiers SVG peuvent être visualisés/ouverts dans presque tous les navigateurs modernes, y compris Chrome, Internet Explorer, Firefox et Safari.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

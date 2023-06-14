@@ -75,16 +75,6 @@ description: Зразок коду для перетворення CDR у JP2 Ja
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити CDR на JP2 - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення CDR у JP2"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Зразок коду для перетворення CDR у JP2 Ja
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/CDR-to-JP2)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити CDR на JP2 - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | CDR">}}
 Файл CDR — це файл векторного зображення, створений за допомогою CorelDRAW для зберігання цифрових зображень у кодованому та стисненому вигляді. Такий файл малюнка містить текст, лінії, форми, зображення, кольори та ефекти для векторного представлення вмісту зображення. Файли CDR можна відкривати за допомогою CorelDRAW як основної програми, а також конвертувати в інші формати, такі як PDF, JPG, PNG, BMP і AI. Його можна використовувати для представлення різноманітних графічних даних, таких як брошури, таблоїди, конверти та листівки. Крім CorelDRAW, інші продукти Corel, такі як Corel Paintshop Pro і CorelDRAW Graphics suite, також можуть відкривати формати файлів CDR.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | JP2">}}
 JPEG 2000 (JP2) — це система кодування зображень і сучасний стандарт стиснення зображень. Розроблений із використанням вейвлет-технології JPEG 2000 може кодувати вміст без втрат у будь-якій якості одночасно. Крім того, без суттєвого зниження ефективності кодування JPEG 2000 має можливість отримувати доступ і ефективно декодувати той самий вміст у різні інші роздільності та якості. Потоки коду в JPEG 2000 є значно масштабованими, маючи області інтересу, які забезпечують можливість просторового довільного доступу. Має до 16384 різноманітних компонентів із розмірами в терапікселях і точністю до 38 біт/зразок.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

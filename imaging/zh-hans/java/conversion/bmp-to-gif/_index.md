@@ -76,16 +76,6 @@ description: BMP 到 GIF Java 转换的示例代码。在任何基于 Web 或桌
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="将 BMP 转换为 GIF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="将 BMP 转换为 GIF 的免费应用程序"
         appName="Conversion"
@@ -97,13 +87,21 @@ description: BMP 到 GIF Java 转换的示例代码。在任何基于 Web 或桌
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hans/conversion/BMP-to-GIF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="将 BMP 转换为 GIF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | BMP">}}
 扩展名为 .BMP 的文件表示用于存储位图数字图像的位图图像文件。这些图像独立于图形适配器，也称为设备独立位图 (DIB) 文件格式。这种独立性的目的是在 Microsoft Windows 和 Mac 等多个平台上打开文件。 BMP 文件格式可以将数据存储为单色和具有各种颜色深度的彩色格式的二维数字图像。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | GIF">}}
 GIF 或图形交换格式是一种高度压缩的图像。 GIF 由 Unisys 拥有，使用不会降低图像质量的 LZW 压缩算法。对于每个图像，GIF 通常允许每个像素最多 8 位，并且整个图像最多允许 256 种颜色。与 JPEG 图像相比，JPEG 图像可以显示多达 1600 万种颜色，并且相当接近人眼的极限。早在互联网出现时，GIF 仍然是最佳选择，因为它们需要低带宽并且与消耗纯色区域的图形兼容。动画 GIF 将大量图像或帧组合到一个文件中，并按顺序显示它们以生成动画剪辑或短视频。每帧的颜色限制最多为 256 种，并且可能最不适合再现具有颜色渐变的其他图像和照片。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -75,16 +75,6 @@ description: نموذج رمز لـ DJVU إلى TIFF تحويل Java. استخد
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="تحويل DJVU إلى TIFF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="تطبيق مجاني لتحويل DJVU إلى TIFF"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: نموذج رمز لـ DJVU إلى TIFF تحويل Java. استخد
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DJVU-to-TIFF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="تحويل DJVU إلى TIFF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | DJVU">}}
 يُنطق DjVu باسم DJVU ، وهو تنسيق ملف رسومي مخصص للوثائق والكتب الممسوحة ضوئيًا وخاصة تلك التي تحتوي على مزيج من النصوص والرسومات والصور والصور الفوتوغرافية. تم تطويره بواسطة AT&T Labs. يستخدم تقنيات متعددة مثل فصل طبقة الصور للنص وصور الخلفية ، والتحميل التدريجي ، والتشفير الحسابي والضغط المفقود للصور البتونية. نظرًا لأن ملف DJVU يمكن أن يحتوي على صور ملونة وصور فوتوغرافية ونصوص ورسومات مضغوطة وعالية الجودة ويمكن حفظها في مساحة أقل ، يتم استخدامه على الويب ككتب إلكترونية وكتيبات وصحف ومستندات قديمة وما إلى ذلك.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | TIFF">}}
 TIFF أو TIF ، تنسيق ملف الصورة ذي العلامات ، يمثل صورًا نقطية مخصصة للاستخدام على مجموعة متنوعة من الأجهزة التي تتوافق مع معيار تنسيق الملف هذا. إنه قادر على وصف بيانات الصورة ذات المستوى الثنائي ، والرمادي ، واللون الملون ، وبيانات الصور كاملة الألوان في العديد من مساحات الألوان. وهو يدعم أنظمة الضغط التي يتم فقدانها وكذلك بدون فقدان البيانات للاختيار بين المكان والزمان للتطبيقات التي تستخدم التنسيق. التنسيق قابل للتوسيع وخضع لعدة مراجعات تسمح بإدراج كمية غير محدودة من المعلومات الخاصة أو ذات الأغراض الخاصة. لا يعتمد التنسيق على الجهاز وخالي من الحدود مثل المعالج أو نظام التشغيل أو أنظمة الملفات.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

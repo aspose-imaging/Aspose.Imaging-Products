@@ -62,16 +62,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="將 DJVU 轉換為 DICOM - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="將 DJVU 轉換為 DICOM 的免費應用程序"
         appName="Conversion"
@@ -83,13 +73,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hant/conversion/DJVU-to-DICOM)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="將 DJVU 轉換為 DICOM - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | DJVU">}}
 DjVu，發音為 DJVU，是一種圖形文件格式，用於掃描文檔和書籍，尤其是包含文本、繪圖、圖像和照片組合的文檔和書籍。它是由 AT&T 實驗室開發的。它使用多種技術，例如文本和背景圖像的圖像層分離、漸進式加載、算術編碼和雙色調圖像的有損壓縮。由於 DJVU 文件可以包含壓縮但高質量的彩色圖像、照片、文本和繪圖，因此可以保存在更小的空間中，因此它在網絡上用作電子書、手冊、報紙、古代文件等。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | DICOM">}}
 DICOM 是 Digital Imaging and Communications in Medicine 的首字母縮寫詞，屬於醫學信息學領域。 DICOM 是文件格式定義和網絡通信協議的結合。 DICOM 使用 .DCM 擴展名。 .DCM 以兩種不同的格式存在，即格式 1.x 和格式 2.x。 DCM Format 1.x 還提供兩個普通版本和擴展版本。 DICOM 用於集成來自不同供應商的打印機、服務器、掃描儀等醫療成像設備，還包含每個患者的唯一識別數據。如果 DICOM 文件能夠接收 DICOM 格式的圖像數據，則它們可以在兩方之間共享。 DICOM的通信部分是應用層協議，實體之間使用TCP/IP進行通信。 HTTP 和 HTTPS 協議用於 DICOM 的 Web 服務。 Web 服務支持的版本是 1.0、1.1、2 或更高版本。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

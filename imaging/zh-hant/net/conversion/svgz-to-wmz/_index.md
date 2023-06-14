@@ -62,16 +62,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="將 SVGZ 轉換為 WMZ - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="將 SVGZ 轉換為 WMZ 的免費應用程序"
         appName="Conversion"
@@ -83,13 +73,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hant/conversion/SVGZ-to-WMZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="將 SVGZ 轉換為 WMZ - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | SVGZ">}}
 擴展名為 .svgz 的文件是可縮放矢量圖形 (.SVG) 文件的壓縮版本。它使用 gzip 壓縮，包含 XML 格式的數據。 SVGZ 文件支持透明度、漸變、動畫和過濾器。與默認 SVG 文件相比，SVGZ 文件的大小更小，這種減小的文件大小有助於在線傳輸圖形文件。圖形設計師使用 Adob​​e Illustrator、Corel PaintShop Pro 等工具創建 SVGZ 文件。但是，可以通過在發送圖像數據時在 Apache 服務器中啟用 GZip 壓縮來生成 SVGZ 文件。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | WMZ">}}
 WMZ 是 Windows Media Player 中/用於/使用的皮膚文件格式的文件擴展名。 WMZ 文件基本上是 XML 格式的壓縮 WMF 文件。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

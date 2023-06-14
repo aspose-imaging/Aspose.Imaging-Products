@@ -75,16 +75,6 @@ description: Пример кода для преобразования DNG в WM
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Преобразование DNG в WMF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Бесплатное приложение для конвертации DNG в WMF"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Пример кода для преобразования DNG в WM
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ru/conversion/DNG-to-WMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Преобразование DNG в WMF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее | DNG">}}
 DNG — это формат изображения цифровой камеры, используемый для хранения необработанных файлов. Он был разработан Adobe в сентябре 2004 года. Он был в основном разработан для цифровой фотографии. DNG является расширением стандартного формата TIFF/EP и значительно использует метаданные. Чтобы манипулировать необработанными данными с цифровых камер с легкостью и художественным контролем, фотографы выбирают необработанные файлы камеры. В форматах JPEG и TIFF хранятся изображения, обработанные камерой, поэтому в таких форматах не так много возможностей для изменения.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее | WMF">}}
 Файлы с расширением WMF представляют собой метафайл Microsoft Windows (WMF) для хранения данных векторных и растровых изображений. Чтобы быть более точным, WMF принадлежит к категории форматов векторных файлов форматов графических файлов, которые не зависят от устройства. Интерфейс графических устройств Windows (GDI) использует функции, хранящиеся в файле WMF, для отображения изображения на экране. Более расширенная версия WMF, известная как Enhanced Meta Files (EMF), была опубликована позже, что делает формат более многофункциональным. Практически WMF похож на SVG.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

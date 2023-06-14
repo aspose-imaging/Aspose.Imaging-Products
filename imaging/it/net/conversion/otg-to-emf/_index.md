@@ -64,16 +64,6 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Converti OTG in EMF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="App gratuita per convertire OTG in EMF"
         appName="Conversion"
@@ -85,13 +75,21 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/it/conversion/OTG-to-EMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Converti OTG in EMF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più | OTG">}}
 Un file OTG è un modello di disegno creato utilizzando lo standard OpenDocument che segue la specifica OASIS Office Applications 1.0. Rappresenta l'organizzazione predefinita degli elementi di disegno per un'immagine vettoriale che può essere utilizzata per migliorare ulteriormente il contenuto del file.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più | EMF">}}
 Il formato metafile avanzato (EMF) memorizza le immagini grafiche indipendentemente dal dispositivo. I metafile di EMF comprendono record di lunghezza variabile in ordine cronologico che possono eseguire il rendering dell'immagine archiviata dopo l'analisi su qualsiasi dispositivo di output. Questi record a lunghezza variabile possono essere definizioni di oggetti racchiusi, comandi per il disegno e proprietà grafiche fondamentali per il rendering accurato dell'immagine. Quando un dispositivo apre un metafile EMF utilizzando il proprio ambiente grafico, le proporzioni, le dimensioni, i colori e altre proprietà grafiche dell'immagine originale rimangono le stesse indipendentemente dalla piattaforma del dispositivo di apertura.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

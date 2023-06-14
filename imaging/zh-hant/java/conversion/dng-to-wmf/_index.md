@@ -75,16 +75,6 @@ description: DNG 到 WMF Java 轉換的示例代碼。使用 API 示例代碼在
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="將 DNG 轉換為 WMF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="將 DNG 轉換為 WMF 的免費應用程序"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: DNG 到 WMF Java 轉換的示例代碼。使用 API 示例代碼在
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hant/conversion/DNG-to-WMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="將 DNG 轉換為 WMF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | DNG">}}
 DNG 是一種用於存儲原始文件的數碼相機圖像格式。它是由 Adob​​e 於 2004 年 9 月開發的。它基本上是為數碼攝影而開發的。 DNG 是 TIFF/EP 標準格式的擴展，大量使用元數據。為了輕鬆靈活地處理來自數碼相機的原始數據和藝術控制，攝影師選擇相機原始文件。 JPEG 和 TIFF 格式存儲由相機處理的圖像，因此在這些格式中沒有太大的更改空間。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | WMF">}}
 帶有 WMF 擴展名的文件代表 Microsoft Windows 元文件 (WMF)，用於存儲矢量以及位圖格式的圖像數據。更準確地說，WMF 屬於與設備無關的圖形文件格式的矢量文件格式類別。 Windows 圖形設備接口 (GDI) 使用存儲在 WMF 文件中的函數在屏幕上顯示圖像。後來發布了 WMF 的更增強版本，稱為增強元文件 (EMF)，使該格式的功能更加豐富。實際上，WMF 類似於 SVG。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

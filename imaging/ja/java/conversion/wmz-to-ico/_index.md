@@ -75,16 +75,6 @@ WMZをICOに変換するには、 [Aspose.Imaging for Java](https://products.asp
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="WMZをICOに変換します-Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="WMZをICOに変換する無料アプリ"
         appName="Conversion"
@@ -96,13 +86,21 @@ WMZをICOに変換するには、 [Aspose.Imaging for Java](https://products.asp
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ja/conversion/WMZ-to-ICO)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="WMZをICOに変換します-Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | WMZ">}}
 WMZは、Windows MediaPlayerで使用される/使用される/使用されるスキンファイル形式のファイル拡張子です。 WMZファイルは、基本的にXML形式のzip形式のWMFファイルです。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | ICO">}}
 ICO ファイル形式は、Microsoft Windows のコンピューター アイコンのイメージ ファイル形式です。 ICO ファイルには、適切にスケーリングできるように、複数のサイズと色深度の 1 つまたは複数の小さな画像が含まれています。 Windows では、ユーザー、デスクトップ、スタート メニュー、または Windows エクスプローラーにアイコンを表示するすべての実行可能ファイルは、アイコンを ICO 形式で保持する必要があります。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

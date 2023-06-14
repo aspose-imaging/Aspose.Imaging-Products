@@ -75,16 +75,6 @@ description: Зразок коду для перетворення EMZ у TGA Ja
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити EMZ на TGA - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення EMZ у TGA"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Зразок коду для перетворення EMZ у TGA Ja
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/EMZ-to-TGA)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити EMZ на TGA - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | EMZ">}}
 Файл із розширенням EMZ — це файл стисненого зображення, який більш конкретно називається Windows Compressed Enhanced Metafile
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | TGA">}}
 Truevision TGA, який часто називають TARGA, — це формат файлів растрової графіки, створений компанією Truevision Inc. (зараз є частиною Avid Technology). Це був рідний формат плат TARGA і VISTA, які були першими графічними картами для IBM-сумісних ПК, які підтримували відображення Highcolor/truecolor.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

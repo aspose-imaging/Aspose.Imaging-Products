@@ -62,16 +62,6 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="PNG öğesini APNG - .NET biçimine dönüştürün" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="PNG'i APNG'e Dönüştürmek için Ücretsiz Uygulama"
         appName="Conversion"
@@ -83,13 +73,21 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/tr/conversion/PNG-to-APNG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="PNG öğesini APNG - .NET biçimine dönüştürün" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | PNG">}}
 PNG, Taşınabilir Ağ Grafikleri, kayıpsız sıkıştırma kullanan bir tür raster görüntü dosyası biçimini ifade eder. Bu dosya biçimi, Grafik Değişim Biçimi'nin (GIF) yerini almak üzere oluşturulmuştur ve herhangi bir telif hakkı sınırlaması yoktur. Ancak PNG dosya formatı animasyonları desteklemez. PNG dosya formatı, onu kullanıcıları arasında popüler kılan kayıpsız görüntü sıkıştırmayı destekler. Zaman geçtikçe PNG, en çok kullanılan resim dosyası formatlarından biri olarak gelişti. Hemen hemen tüm İşletim Sistemleri PNG dosyalarını açma desteğine sahiptir. Örneğin, işletim sisteminin varsayılan olarak kurulumun bir parçası olarak sunulan desteğe sahip olduğu gibi, Microsoft Windows görüntüleyici PNG dosyalarını açma özelliğine sahiptir.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | APNG">}}
 .apng (Animasyonlu Taşınabilir Ağ Grafikleri) uzantılı bir dosya, bir raster grafik biçimidir ve Taşınabilir Ağ Grafiğinin (PNG) resmi olmayan bir uzantısıdır. Bir animasyon dizisini temsil eden birden çok kareden (PNG görüntüsünün her biri) oluşur. Bu, bir GIF dosyasına benzer görselleştirme sağlar. APNG dosyaları 24 bit görüntüleri ve 8 bit şeffaflığı destekler. APNG, animasyonsuz GIF dosyalarıyla geriye dönük olarak uyumludur. APNG dosyaları aynı .png uzantısını kullanır ve Mozilla Firefox, APNG destekli Chrome, iOS 10 için iMessage uygulamaları gibi uygulamalar tarafından açılabilir.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

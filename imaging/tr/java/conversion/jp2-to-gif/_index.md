@@ -75,16 +75,6 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="JP2 öğesini GIF - Java biçimine dönüştürün" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="JP2'i GIF'e Dönüştürmek için Ücretsiz Uygulama"
         appName="Conversion"
@@ -96,13 +86,21 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/tr/conversion/JP2-to-GIF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="JP2 öğesini GIF - Java biçimine dönüştürün" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | JP2">}}
 JPEG 2000 (JP2), bir görüntü kodlama sistemi ve son teknoloji görüntü sıkıştırma standardıdır. Dalgacık teknolojisi kullanılarak tasarlanan JPEG 2000, kayıpsız içeriği herhangi bir kalitede bir kerede kodlayabilir. Ayrıca, kodlama verimliliğinde önemli bir ceza olmaksızın, JPEG 2000, aynı içeriğe etkili bir şekilde çeşitli diğer çözünürlük ve niteliklere erişme ve kodunu çözme yeteneğine sahiptir. JPEG 2000'deki kod akışları, uzamsal rasgele erişim olanağı sağlayan ilgi bölgelerine sahip olarak önemli ölçüde ölçeklenebilir. Terapixels'deki boyutları ve 38 bit/numune kadar yüksek hassasiyete sahip 16384'e kadar farklı bileşene sahip olma.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | GIF">}}
 GIF veya Grafik Değişim Biçimi, yüksek oranda sıkıştırılmış bir görüntü türüdür. Unisys'e ait olan GIF, görüntü kalitesini düşürmeyen LZW sıkıştırma algoritmasını kullanır. Her görüntü için GIF tipik olarak piksel başına 8 bite kadar izin verir ve görüntü genelinde 256 renge kadar izin verilir. 16 milyona kadar renk gösterebilen ve insan gözünün sınırlarına oldukça dokunan bir JPEG görüntüsünün aksine. İnternet ortaya çıktığında, GIF'ler düşük bant genişliği gerektirdiğinden ve düz renkli alanlar tüketen grafiklerle uyumlu olduğundan en iyi seçenek olarak kaldı. Animasyonlu bir GIF, çok sayıda görüntüyü veya çerçeveyi tek bir dosyada birleştirir ve hareketli bir klip veya kısa bir video oluşturmak için bunları bir sırayla görüntüler. Renk sınırlamaları her kare için 256'ya kadardır ve renk gradyanlı diğer görüntülerin ve fotoğrafların çoğaltılması için en az uygun olanlardır.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

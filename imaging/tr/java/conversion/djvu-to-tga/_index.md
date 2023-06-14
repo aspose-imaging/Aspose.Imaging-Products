@@ -75,16 +75,6 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="DJVU öğesini TGA - Java biçimine dönüştürün" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="DJVU'i TGA'e Dönüştürmek için Ücretsiz Uygulama"
         appName="Conversion"
@@ -96,13 +86,21 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/tr/conversion/DJVU-to-TGA)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="DJVU öğesini TGA - Java biçimine dönüştürün" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | DJVU">}}
 DjVu, DJVU olarak telaffuz edilir, özellikle metin, çizim, resim ve fotoğrafların birleşimini içeren taranmış belgeler ve kitaplar için tasarlanmış bir grafik dosya formatıdır. AT&T Labs tarafından geliştirilmiştir. Metin ve arka plan görüntülerinin görüntü katmanı ayrımı, aşamalı yükleme, aritmetik kodlama ve iki tonlu görüntüler için kayıplı sıkıştırma gibi birden çok teknik kullanır. DJVU dosyası sıkıştırılmış ancak yüksek kaliteli renkli görüntüler, fotoğraflar, metinler ve çizimler içerebildiğinden ve daha az alana kaydedilebildiğinden, web'de e-Kitaplar, kılavuzlar, gazeteler, eski belgeler vb. olarak kullanılır.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | TGA">}}
 Genellikle TARGA olarak adlandırılan Truevision TGA, Truevision Inc. (şimdi Avid Technology'nin bir parçası) tarafından oluşturulan bir raster grafik dosyası formatıdır. IBM uyumlu PC'ler için Highcolor/truecolor ekranı destekleyen ilk grafik kartları olan TARGA ve VISTA kartlarının yerel formatıydı.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

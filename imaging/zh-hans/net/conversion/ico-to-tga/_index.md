@@ -62,16 +62,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="将 ICO 转换为 TGA - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="将 ICO 转换为 TGA 的免费应用程序"
         appName="Conversion"
@@ -83,13 +73,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hans/conversion/ICO-to-TGA)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="将 ICO 转换为 TGA - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | ICO">}}
 ICO 文件格式是 Microsoft Windows 中计算机图标的图像文件格式。 ICO 文件包含一个或多个具有多种尺寸和颜色深度的小图像，以便它们可以适当地缩放。在 Windows 中，在桌面、开始菜单或 Windows 资源管理器中向用户显示图标的所有可执行文件都必须带有 ICO 格式的图标。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | TGA">}}
 Truevision TGA，通常称为 TARGA，是由 Truevision Inc.（现为 Avid Technology 的一部分）创建的光栅图形文件格式。它是 TARGA 和 VISTA 板的原生格式，它们是 IBM 兼容 PC 上第一款支持高彩/真彩显示的显卡。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

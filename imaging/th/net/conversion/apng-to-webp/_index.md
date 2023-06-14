@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="แปลง APNG เป็น WEBP - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="แอปฟรีเพื่อแปลง APNG เป็น WEBP"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/APNG-to-WEBP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="แปลง APNG เป็น WEBP - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | APNG">}}
 ไฟล์ที่มีนามสกุล .apng (Animated Portable Network Graphics) เป็นรูปแบบกราฟิกแรสเตอร์และเป็นส่วนขยายที่ไม่เป็นทางการของ Portable Network Graphic (PNG ) ประกอบด้วยหลายเฟรม (แต่ละภาพ PNG) ที่แสดงลำดับภาพเคลื่อนไหว สิ่งนี้ให้การแสดงภาพที่คล้ายกับไฟล์ GIF ไฟล์ APNG รองรับภาพ 24 บิตและความโปร่งใส 8 บิต APNG เข้ากันได้กับไฟล์ GIF ที่ไม่ใช่ภาพเคลื่อนไหว ไฟล์ APNG ใช้นามสกุล .png เดียวกัน และสามารถเปิดได้โดยแอปพลิเคชันต่างๆ เช่น Mozilla Firefox, Chrome ที่รองรับ APNG, แอป iMessage สำหรับ iOS 10
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | WEBP">}}
 WebP ซึ่งเปิดตัวโดย Google เป็นรูปแบบไฟล์ภาพเว็บแรสเตอร์ที่ทันสมัยซึ่งใช้การบีบอัดแบบไม่สูญเสียข้อมูลและการสูญเสียข้อมูล ให้คุณภาพของภาพเท่าเดิมในขณะที่ลดขนาดภาพลงอย่างมาก เนื่องจากหน้าเว็บส่วนใหญ่ใช้รูปภาพเป็นตัวแทนข้อมูลที่มีประสิทธิภาพ การใช้รูปภาพ WebP ในหน้าเว็บส่งผลให้โหลดหน้าเว็บเร็วขึ้น ตาม Google รูปภาพที่ไม่สูญเสียของ WebP มีขนาดเล็กกว่า 26% เมื่อเทียบกับ PNG ในขณะที่รูปภาพที่สูญเสียของ WebP นั้นเล็กกว่าภาพ JPEG ที่เปรียบเทียบได้ 25-34% รูปภาพจะถูกเปรียบเทียบโดยอิงตามดัชนีความคล้ายคลึงกันของโครงสร้าง (SSIM) ระหว่าง WebP และรูปแบบไฟล์รูปภาพอื่นๆ WebP เป็นโครงการน้องสาวของรูปแบบคอนเทนเนอร์มัลติมีเดียของ WebM
         {{< /blocks/products/pf/agp/about-file-text >}}
 

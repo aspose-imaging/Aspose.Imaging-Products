@@ -62,16 +62,6 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="OTG öğesini ICO - .NET biçimine dönüştürün" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="OTG'i ICO'e Dönüştürmek için Ücretsiz Uygulama"
         appName="Conversion"
@@ -83,13 +73,21 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/tr/conversion/OTG-to-ICO)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="OTG öğesini ICO - .NET biçimine dönüştürün" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | OTG">}}
 Bir OTG dosyası, OASIS Office Applications 1.0 spesifikasyonunu izleyen OpenDocument standardı kullanılarak oluşturulan bir çizim şablonudur. Dosyanın içeriğini daha da geliştirmek için kullanılabilecek bir vektör görüntüsü için çizim öğelerinin varsayılan organizasyonunu temsil eder.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | ICO">}}
 ICO dosya biçimi, Microsoft Windows'taki bilgisayar simgeleri için bir görüntü dosyası biçimidir. ICO dosyaları, uygun şekilde ölçeklendirilebilmeleri için birden fazla boyutta ve renk derinliğinde bir veya daha fazla küçük resim içerir. Windows'ta, masaüstünde, Başlat Menüsü'nde veya Windows Gezgini'nde kullanıcıya bir simge görüntüleyen tüm yürütülebilir dosyalar, simgeyi ICO biçiminde taşımalıdır.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

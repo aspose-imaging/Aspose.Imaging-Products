@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="แปลง EPS เป็น DICOM - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="แอปฟรีเพื่อแปลง EPS เป็น DICOM"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/EPS-to-DICOM)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="แปลง EPS เป็น DICOM - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | EPS">}}
 ไฟล์ที่มีนามสกุล EPS จะอธิบายโปรแกรมภาษา PostScript แบบห่อหุ้มที่อธิบายลักษณะที่ปรากฏของหน้าเดียว ชื่อ "Encapsulated" เนื่องจากสามารถรวมหรือห่อหุ้มไว้ในคำอธิบายหน้าภาษา PostScript อื่นได้ รูปแบบไฟล์ที่ใช้สคริปต์นี้อาจมีข้อความ กราฟิก และรูปภาพผสมกัน ไฟล์ EPS อาจมีภาพตัวอย่างบิตแมปที่ห่อหุ้มไว้ด้านในเพื่อแสดงโดยแอปพลิเคชันที่สามารถเปิดไฟล์ดังกล่าวได้ ไฟล์ EPS สามารถแปลงเป็นรูปแบบภาพมาตรฐานได้ เช่น JPG, PNG, TIFF และ PDF โดยใช้แอปพลิเคชันต่างๆ เช่น Adobe Illustrator, Photoshop และ PaintShop Pro เนื่องจากช่องโหว่ด้านความปลอดภัยในไฟล์ EPS Office 2016, Office 2013, Office 2010 และ Office 365 ได้ปิดความสามารถในการแทรกไฟล์ EPS ลงในเอกสาร Office
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | DICOM">}}
 DICOM ย่อมาจาก Digital Imaging and Communications in Medicine และเกี่ยวข้องกับสาขาสารสนเทศทางการแพทย์ DICOM คือการรวมกันของคำจำกัดความรูปแบบไฟล์และโปรโตคอลการสื่อสารเครือข่าย DICOM ใช้ส่วนขยาย .DCM .DCM มีอยู่ในรูปแบบที่แตกต่างกันสองรูปแบบ ได้แก่ รูปแบบ 1.x และรูปแบบ 2.x รูปแบบ DCM 1.x มีให้ใช้งานเพิ่มเติมในสองเวอร์ชันปกติและแบบขยาย DICOM ใช้สำหรับการรวมอุปกรณ์ภาพทางการแพทย์ เช่น เครื่องพิมพ์ เซิร์ฟเวอร์ สแกนเนอร์ ฯลฯ จากผู้จำหน่ายต่างๆ และยังมีข้อมูลประจำตัวของผู้ป่วยแต่ละรายเพื่อความเป็นเอกลักษณ์ ไฟล์ DICOM สามารถแชร์ระหว่างสองฝ่ายได้หากสามารถรับข้อมูลภาพในรูปแบบ DICOM ได้ ส่วนการสื่อสารของ DICOM คือโปรโตคอลเลเยอร์แอปพลิเคชัน และใช้ TCP/IP เพื่อสื่อสารระหว่างเอนทิตี โปรโตคอล HTTP และ HTTPS ใช้สำหรับบริการเว็บของ DICOM เวอร์ชันที่รองรับโดยบริการเว็บคือ 1.0, 1.1, 2 หรือใหม่กว่า
         {{< /blocks/products/pf/agp/about-file-text >}}
 

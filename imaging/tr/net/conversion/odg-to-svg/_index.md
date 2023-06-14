@@ -62,16 +62,6 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="ODG öğesini SVG - .NET biçimine dönüştürün" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="ODG'i SVG'e Dönüştürmek için Ücretsiz Uygulama"
         appName="Conversion"
@@ -83,13 +73,21 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/tr/conversion/ODG-to-SVG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="ODG öğesini SVG - .NET biçimine dönüştürün" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | ODG">}}
 ODG dosya formatı, çizim öğelerini bir vektör görüntüsü olarak depolamak için Apache OpenOffice'in Draw uygulaması tarafından kullanılır. Yapısal Bilgi Standartlarının Geliştirilmesi (OASIS) tarafından özetlenen XML tabanlı dosya formatı özelliklerini takip eder. ODG, çizimleri noktalar, çizgiler ve eğriler kullanarak vektör görüntüleri olarak temsil eder. OpenOffice'in yanı sıra, LibreOffice ve diğer uygulamalar da ODG dosya formatı ile çalışmak için destek sağlar. Örneğin OpenOffice tarafından desteklenen diğer biçimler arasında ODT, ODF, ODP ve ODS bulunur.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | SVG">}}
 SVG dosyaları, görüntünün görünümünü açıklamak için XML tabanlı metin biçimini kullanan Ölçeklenebilir Vektör Grafik Dosyalarıdır. Ölçeklenebilir kelimesi, SVG'nin kaliteden ödün vermeden farklı boyutlara ölçeklenebilmesini ifade eder. Bu tür dosyaların metin tabanlı açıklaması, onları çözünürlükten bağımsız kılar. Ölçeklenebilirlik sağlamak için web sitesi oluşturmak ve grafik yazdırmak için en çok kullanılan formatlardan biridir. Format ancak iki boyutlu grafikler için kullanılabilir. SVG dosyaları, Chrome, Internet Explorer, Firefox ve Safari dahil olmak üzere neredeyse tüm modern tarayıcılarda görüntülenebilir/açılabilir.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

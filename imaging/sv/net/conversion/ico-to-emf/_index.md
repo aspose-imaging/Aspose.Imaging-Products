@@ -63,16 +63,6 @@ Innan du kör koden för konverteringsexempel, se till att du har följande för
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertera ICO till EMF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Gratis app för att konvertera ICO till EMF"
         appName="Conversion"
@@ -84,13 +74,21 @@ Innan du kör koden för konverteringsexempel, se till att du har följande för
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/ICO-to-EMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertera ICO till EMF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer | ICO">}}
 ICO-filformatet är ett bildfilformat för datorikoner i Microsoft Windows. ICO-filer innehåller en eller flera små bilder i flera storlekar och färgdjup, så att de kan skalas på lämpligt sätt. I Windows måste alla körbara filer som visar en ikon för användaren, på skrivbordet, i Start-menyn eller i Utforskaren i Windows, bära ikonen i ICO-format.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer | EMF">}}
 Enhanced metafile format (EMF) lagrar grafiska bilder enhetsoberoende. Metafiler av EMF består av poster med variabel längd i kronologisk ordning som kan återge den lagrade bilden efter analys på valfri utenhet. Dessa poster med variabel längd kan vara definitioner av inneslutna objekt, kommandon för ritning och grafikegenskaper som är viktiga för att återge bilden korrekt. När en enhet öppnar en EMF-metafil med sin egen grafikmiljö förblir proportionerna, dimensionerna, färgerna och andra grafiska egenskaper för originalbilden desamma oavsett vilken enhetsplattform som öppnas.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

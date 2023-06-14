@@ -76,16 +76,6 @@ description: DJVU 到 PNG Java 转换的示例代码。在任何基于 Web 或�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="将 DJVU 转换为 PNG - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="将 DJVU 转换为 PNG 的免费应用程序"
         appName="Conversion"
@@ -97,13 +87,21 @@ description: DJVU 到 PNG Java 转换的示例代码。在任何基于 Web 或�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hans/conversion/DJVU-to-PNG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="将 DJVU 转换为 PNG - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | DJVU">}}
 DjVu，发音为 DJVU ，是一种图形文件格式，用于扫描文档和书籍，尤其是包含文本、绘图、图像和照片组合的文档和书籍。它是由 AT&T 实验室开发的。它使用多种技术，例如文本和背景图像的图像层分离、渐进式加载、算术编码和双色调图像的有损压缩。由于 DJVU 文件可以包含压缩但高质量的彩色图像、照片、文本和绘图，因此可以保存在更小的空间中，因此它在网络上用作电子书、手册、报纸、古代文件等。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | PNG">}}
 PNG，便携式网络图形，是指一种使用无损压缩的光栅图像文件格式。此文件格式是作为图形交换格式 (GIF) 的替代品而创建的，没有版权限制。但是，PNG 文件格式不支持动画。 PNG文件格式支持无损图像压缩，使其在用户中很受欢迎。随着时间的推移，PNG 已经发展成为最常用的图像文件格式之一。几乎所有操作系统都支持打开 PNG 文件。例如，Microsoft Windows 查看器能够打开 PNG 文件，因为操作系统默认支持作为安装的一部分。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

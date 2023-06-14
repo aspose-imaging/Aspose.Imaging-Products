@@ -62,16 +62,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="将 CDR 转换为 ICO - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="将 CDR 转换为 ICO 的免费应用程序"
         appName="Conversion"
@@ -83,13 +73,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hans/conversion/CDR-to-ICO)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="将 CDR 转换为 ICO - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | CDR">}}
 CDR 文件是使用 CorelDRAW 本地创建的矢量绘图图像文件，用于存储编码和压缩的数字图像。这样的绘图文件包含文本、线条、形状、图像、颜色和效果，用于图像内容的矢量表示。 CDR 文件可以使用 CorelDRAW 作为主要应用程序打开，也可以转换为其他格式，例如 PDF、JPG、PNG、BMP 和 AI。它可用于表示各种图形数据，如小册子、小报、信封和明信片。除了 CorelDRAW，Corel Paintshop Pro 和 CorelDRAW Graphics Suite 等其他 Corel 产品也可以打开 CDR 文件格式。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | ICO">}}
 ICO 文件格式是 Microsoft Windows 中计算机图标的图像文件格式。 ICO 文件包含一个或多个具有多种尺寸和颜色深度的小图像，以便它们可以适当地缩放。在 Windows 中，在桌面、开始菜单或 Windows 资源管理器中向用户显示图标的所有可执行文件都必须带有 ICO 格式的图标。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

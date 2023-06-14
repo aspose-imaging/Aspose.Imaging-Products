@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="แปลง EMF เป็น JPEG2000 - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="แอปฟรีเพื่อแปลง EMF เป็น JPEG2000"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/EMF-to-JPEG2000)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="แปลง EMF เป็น JPEG2000 - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | EMF">}}
 รูปแบบเมตาไฟล์ที่ปรับปรุงแล้ว (EMF) จัดเก็บภาพกราฟิกแบบแยกจากอุปกรณ์ Metafiles ของ EMF ประกอบด้วยเร็กคอร์ดความยาวผันแปรตามลำดับเวลาซึ่งสามารถแสดงภาพที่เก็บไว้หลังจากแยกวิเคราะห์บนอุปกรณ์ส่งออกใด ๆ เร็กคอร์ดความยาวผันแปรเหล่านี้สามารถเป็นคำจำกัดความของออบเจ็กต์ที่ล้อมรอบ คำสั่งสำหรับการวาดภาพ และคุณสมบัติกราฟิกที่สำคัญอย่างยิ่งต่อการแสดงภาพอย่างถูกต้อง เมื่ออุปกรณ์เปิดเมตาไฟล์ EMF โดยใช้สภาพแวดล้อมกราฟิกของตัวเอง สัดส่วน ขนาด สี และคุณสมบัติกราฟิกอื่นๆ ของภาพต้นฉบับจะยังคงเหมือนเดิมโดยไม่คำนึงถึงแพลตฟอร์มอุปกรณ์ที่เปิดอยู่
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | JPEG2000">}}
 JPEG 2000 (JP2) คือระบบเข้ารหัสรูปภาพและมาตรฐานการบีบอัดภาพที่ทันสมัย ได้รับการออกแบบโดยใช้เทคโนโลยีเวฟเล็ต JPEG 2000 สามารถเข้ารหัสเนื้อหาแบบไม่สูญเสียคุณภาพใดๆ ได้ในคราวเดียว นอกจากนี้ โดยไม่มีบทลงโทษที่สำคัญในประสิทธิภาพการเข้ารหัส JPEG 2000 มีความสามารถในการเข้าถึงและถอดรหัสเนื้อหาเดียวกันได้อย่างมีประสิทธิภาพในความละเอียดและคุณภาพอื่นๆ ที่หลากหลาย รหัสสตรีมใน JPEG 2000 สามารถปรับขนาดได้อย่างมีนัยสำคัญโดยมีภูมิภาคที่น่าสนใจซึ่งอำนวยความสะดวกสำหรับการเข้าถึงแบบสุ่มเชิงพื้นที่ มีส่วนประกอบที่หลากหลายมากถึง 16384 ตัวด้วยขนาดเป็นเทราพิกเซล และความแม่นยำที่สูงถึง 38 บิต/ตัวอย่าง
         {{< /blocks/products/pf/agp/about-file-text >}}
 

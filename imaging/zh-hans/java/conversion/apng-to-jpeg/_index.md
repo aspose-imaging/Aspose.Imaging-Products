@@ -76,16 +76,6 @@ description: APNG 到 JPEG Java 转换的示例代码。在任何基于 Web 或�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="将 APNG 转换为 JPEG - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="将 APNG 转换为 JPEG 的免费应用程序"
         appName="Conversion"
@@ -97,13 +87,21 @@ description: APNG 到 JPEG Java 转换的示例代码。在任何基于 Web 或�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hans/conversion/APNG-to-JPEG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="将 APNG 转换为 JPEG - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | APNG">}}
 具有 .apng（动画便携式网络图形）扩展名的文件是一种光栅图形格式，是便携式网络图形 (PNG) 的非官方扩展名。它由表示动画序列的多个帧（每个 PNG 图像）组成。这提供了与 GIF 文件类似的可视化效果。 APNG 文件支持 24 位图像和 8 位透明度。 APNG 向后兼容非动画 GIF 文件。 APNG 文件使用相同的 .png 扩展名，可以由 Mozilla Firefox、支持 APNG 的 Chrome、iOS 10 的 iMessage 应用程序等应用程序打开。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | JPEG">}}
 JPEG 是一种使用有损压缩方法保存的图像格式。作为压缩的结果，输出图像是存储大小和图像质量之间的权衡。用户可以调整压缩级别以达到所需的质量级别，同时减小存储大小。如果对图像应用 10:1 压缩，则对图像质量的影响可以忽略不计。压缩值越高，图像质量的劣化程度越高。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

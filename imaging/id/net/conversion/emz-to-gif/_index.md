@@ -62,16 +62,6 @@ Sebelum menjalankan kode contoh konversi, pastikan Anda memiliki prasyarat berik
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konversi EMZ ke GIF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Aplikasi Gratis untuk Mengonversi EMZ ke GIF"
         appName="Conversion"
@@ -83,13 +73,21 @@ Sebelum menjalankan kode contoh konversi, pastikan Anda memiliki prasyarat berik
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/id/conversion/EMZ-to-GIF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konversi EMZ ke GIF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya | EMZ">}}
 File dengan ekstensi file EMZ adalah file gambar terkompresi, lebih khusus disebut sebagai file Metafile Windows Compressed Enhanced
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya | GIF">}}
 GIF atau Graphical Interchange Format adalah jenis gambar yang sangat terkompresi. Dimiliki oleh Unisys, GIF menggunakan algoritma kompresi LZW yang tidak menurunkan kualitas gambar. Untuk setiap gambar, GIF biasanya mengizinkan hingga 8 bit per piksel dan hingga 256 warna diizinkan di seluruh gambar. Berbeda dengan gambar JPEG, yang mampu menampilkan hingga 16 juta warna dan terbilang menyentuh batas mata manusia. Kembali ketika internet muncul, GIF tetap menjadi pilihan terbaik karena membutuhkan bandwidth rendah dan kompatibel untuk grafik yang menggunakan area warna solid. GIF animasi menggabungkan banyak gambar atau bingkai ke dalam satu file dan menampilkannya secara berurutan untuk menghasilkan klip animasi atau video pendek. Batasan warna hingga 256 untuk setiap bingkai dan kemungkinan paling tidak cocok untuk mereproduksi gambar dan foto lain dengan gradien warna.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

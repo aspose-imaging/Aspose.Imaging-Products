@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="JPEG को JPEG2000 में बदलें - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="JPEG को JPEG2000 में बदलने के लिए नि:शुल्‍क ऐप"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/JPEG-to-JPEG2000)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="JPEG को JPEG2000 में बदलें - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | JPEG">}}
 JPEG एक प्रकार का छवि प्रारूप है जिसे हानिपूर्ण संपीड़न की विधि का उपयोग करके सहेजा जाता है। संपीड़न के परिणामस्वरूप आउटपुट छवि, भंडारण आकार और छवि गुणवत्ता के बीच एक व्यापार-बंद है। उपयोगकर्ता वांछित गुणवत्ता स्तर प्राप्त करने के लिए संपीड़न स्तर को समायोजित कर सकते हैं जबकि साथ ही भंडारण आकार को कम कर सकते हैं। यदि छवि पर 10:1 संपीड़न लागू किया जाता है, तो छवि गुणवत्ता नगण्य रूप से प्रभावित होती है। संपीड़न मूल्य जितना अधिक होगा, छवि गुणवत्ता में गिरावट उतनी ही अधिक होगी।
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | JPEG2000">}}
 JPEG 2000 (JP2) एक छवि कोडिंग प्रणाली और अत्याधुनिक छवि संपीड़न मानक है। वेवलेट तकनीक का उपयोग करके डिज़ाइन किया गया JPEG 2000 दोषरहित सामग्री को किसी भी गुणवत्ता में एक ही बार में कोडित कर सकता है। इसके अलावा, कोडिंग दक्षता में किसी भी पर्याप्त दंड के बिना, जेपीईजी 2000 में एक ही सामग्री को विभिन्न अन्य प्रस्तावों और गुणों में प्रभावशाली ढंग से एक्सेस और डीकोड करने की क्षमता है। JPEG 2000 में कोड स्ट्रीम काफी स्केलेबल है जिसमें रुचि के क्षेत्र हैं जो स्थानिक यादृच्छिक अभिगम की सुविधा प्रदान करते हैं। टेरापिक्सल में आयामों के साथ 16384 विविध घटकों तक, और सटीकता जो 38 बिट्स/नमूना के रूप में उच्च हो सकती है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 

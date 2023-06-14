@@ -75,16 +75,6 @@ Przed uruchomieniem przykładowego kodu konwersji upewnij się, że masz następ
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konwertuj APNG na EMF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Darmowa aplikacja do konwersji APNG na EMF"
         appName="Conversion"
@@ -96,13 +86,21 @@ Przed uruchomieniem przykładowego kodu konwersji upewnij się, że masz następ
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/pl/conversion/APNG-to-EMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konwertuj APNG na EMF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej | APNG">}}
 Plik z rozszerzeniem .apng (Animated Portable Network Graphics) jest rastrowym formatem graficznym i jest nieoficjalnym rozszerzeniem Portable Network Graphics (PNG ). Składa się z wielu ramek (każda z obrazu PNG), które reprezentują sekwencję animacji. Daje to podobną wizualizację jak plik GIF. Pliki APNG obsługują obrazy 24-bitowe i przezroczystość 8-bitową. APNG jest wstecznie kompatybilny z nieanimowanymi plikami GIF. Pliki APNG używają tego samego rozszerzenia .png i mogą być otwierane przez aplikacje takie jak Mozilla Firefox, Chrome z obsługą APNG, aplikacje iMessage na iOS 10.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej | EMF">}}
 Ulepszony format metapliku (EMF) przechowuje obrazy graficzne niezależnie od urządzenia. Metapliki EMF składają się z rekordów o zmiennej długości w porządku chronologicznym, które mogą renderować przechowywany obraz po przeanalizowaniu na dowolnym urządzeniu wyjściowym. Te rekordy o zmiennej długości mogą być definicjami zamkniętych obiektów, poleceniami do rysowania i właściwościami graficznymi krytycznymi dla dokładnego renderowania obrazu. Gdy urządzenie otwiera metaplik EMF przy użyciu własnego środowiska graficznego, proporcje, wymiary, kolory i inne właściwości graficzne oryginalnego obrazu pozostają takie same niezależnie od platformy urządzenia otwierającego.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

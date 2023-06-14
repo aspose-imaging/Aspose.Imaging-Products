@@ -75,16 +75,6 @@ Voordat u de conversievoorbeeldcode uitvoert, moet u ervoor zorgen dat u aan de 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Converteer WMZ naar APNG - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Gratis app om WMZ naar APNG te converteren"
         appName="Conversion"
@@ -96,13 +86,21 @@ Voordat u de conversievoorbeeldcode uitvoert, moet u ervoor zorgen dat u aan de 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/nl/conversion/WMZ-to-APNG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Converteer WMZ naar APNG - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder | WMZ">}}
 WMZ is een bestandsextensie voor een skin-bestandsformaat in/voor/gebruikt door Windows Media Player. Een WMZ-bestand is in feite een gecomprimeerd WMF-bestand in XML.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder | APNG">}}
 Een bestand met de extensie .apng (Animated Portable Network Graphics) is een grafische rasterindeling en is een niet-officiële extensie van Portable Network Graphic (PNG). Het bestaat uit meerdere frames (elk PNG-afbeelding) die een animatiereeks vertegenwoordigt. Dit geeft een vergelijkbare visualisatie als een GIF-bestand. APNG-bestanden ondersteunen 24-bits afbeeldingen en 8-bits transparantie. APNG is achterwaarts compatibel met niet-geanimeerde GIF-bestanden. APNG-bestanden gebruiken dezelfde .png-extensie en kunnen worden geopend door toepassingen zoals Mozilla Firefox, Chrome met APNG-ondersteuning, iMessage-apps voor iOS 10.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -75,16 +75,6 @@ description: โค้ดตัวอย่างสำหรับการแ�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="แปลง CMX เป็น TIFF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="แอปฟรีเพื่อแปลง CMX เป็น TIFF"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: โค้ดตัวอย่างสำหรับการแ�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/CMX-to-TIFF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="แปลง CMX เป็น TIFF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | CMX">}}
 ไฟล์ที่มีนามสกุล CMX คือรูปแบบไฟล์รูปภาพ Corel Exchange ที่ใช้เป็นการนำเสนอโดยแอปพลิเคชัน CorelSuite ประกอบด้วยข้อมูลภาพเป็นกราฟิกแบบเวกเตอร์รวมทั้งข้อมูลเมตาที่อธิบายภาพ ไฟล์ CMX สามารถเปิดได้โดย CorelDraw, Corel Presentations, Paint Shop Pro และ Adobe Illustrator บางรุ่น
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | TIFF">}}
 TIFF หรือ TIF ซึ่งเป็นรูปแบบไฟล์ภาพที่ติดแท็ก แสดงถึงภาพแรสเตอร์ที่มีไว้สำหรับการใช้งานบนอุปกรณ์ต่างๆ ที่สอดคล้องกับมาตรฐานรูปแบบไฟล์นี้ สามารถอธิบายข้อมูลภาพสองระดับ ระดับสีเทา สีจานสี และสีเต็มในพื้นที่สีต่างๆ รองรับรูปแบบการบีบอัดแบบ lossy และ lossless เพื่อเลือกระหว่างพื้นที่และเวลาสำหรับแอปพลิเคชันที่ใช้รูปแบบ รูปแบบนี้ขยายได้และมีการแก้ไขหลายครั้งที่อนุญาตให้รวมข้อมูลส่วนตัวหรือข้อมูลวัตถุประสงค์พิเศษได้ไม่จำกัดจำนวน รูปแบบไม่ขึ้นกับเครื่องและปราศจากขอบเขต เช่น โปรเซสเซอร์ ระบบปฏิบัติการ หรือระบบไฟล์
         {{< /blocks/products/pf/agp/about-file-text >}}
 

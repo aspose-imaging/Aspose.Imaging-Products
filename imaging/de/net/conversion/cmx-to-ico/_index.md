@@ -63,16 +63,6 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertiere CMX in ICO - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Kostenlose App zum Konvertieren von CMX in ICO"
         appName="Conversion"
@@ -84,13 +74,21 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/de/conversion/CMX-to-ICO)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertiere CMX in ICO - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen | CMX">}}
 Dateien mit der Erweiterung CMX sind Corel Exchange-Bilddateiformate, die von CorelSuite-Anwendungen als Präsentation verwendet werden. Sie enthält Bilddaten als Vektorgrafik sowie Metadaten, die das Bild beschreiben. CMX-Dateien können mit CorelDraw, Corel Presentations, Paint Shop Pro und einigen Versionen von Adobe Illustrator geöffnet werden.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen | ICO">}}
 Das ICO-Dateiformat ist ein Bilddateiformat für Computersymbole in Microsoft Windows. ICO-Dateien enthalten ein oder mehrere kleine Bilder in mehreren Größen und Farbtiefen, sodass sie entsprechend skaliert werden können. In Windows müssen alle ausführbaren Dateien, die dem Benutzer auf dem Desktop, im Startmenü oder im Windows Explorer ein Symbol anzeigen, das Symbol im ICO-Format enthalten.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

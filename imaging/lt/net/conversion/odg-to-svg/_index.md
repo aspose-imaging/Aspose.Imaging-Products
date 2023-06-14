@@ -62,16 +62,6 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertuoti ODG į SVG – .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Nemokama programa konvertuoti ODG į SVG"
         appName="Conversion"
@@ -83,13 +73,21 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/lt/conversion/ODG-to-SVG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertuoti ODG į SVG – .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau | ODG">}}
 ODG failo formatą naudoja „Apache OpenOffice“ programa „Draw“, kad išsaugotų piešimo elementus kaip vektorinį vaizdą. Ji atitinka XML failo formato specifikacijas, nurodytas Struktūrinės informacijos standartų pažangos (OASIS). ODG vaizduoja brėžinius kaip vektorinius vaizdus naudojant taškus, linijas ir kreives. Be OpenOffice, LibreOffice ir kitos programos taip pat palaiko darbą su ODG failo formatu. Pavyzdžiui, kiti „OpenOffice“ palaikomi formatai apima ODT, ODF, ODP ir ODS.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau | SVG">}}
 SVG failai yra keičiamo dydžio vektorinės grafikos failai, kurie naudoja XML pagrįstą teksto formatą vaizdo išvaizdai apibūdinti. Žodis Scalable reiškia faktą, kad SVG galima keisti iki skirtingų dydžių neprarandant kokybės. Tekstinis tokių failų aprašymas daro juos nepriklausomus nuo skiriamosios gebos. Tai vienas iš dažniausiai naudojamų interneto svetainių kūrimo ir spausdinimo grafikos formatų, siekiant mastelio. Tačiau formatą galima naudoti tik dvimatei grafikai. SVG failus galima peržiūrėti / atidaryti beveik visose šiuolaikinėse naršyklėse, įskaitant Chrome, Internet Explorer, Firefox ir Safari.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

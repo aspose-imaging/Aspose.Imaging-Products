@@ -75,16 +75,6 @@ DIBをHTMLに変換するには、 [Aspose.Imaging for Java](https://products.as
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="DIBをHTMLに変換します-Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="DIBをHTMLに変換する無料アプリ"
         appName="Conversion"
@@ -96,13 +86,21 @@ DIBをHTMLに変換するには、 [Aspose.Imaging for Java](https://products.as
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ja/conversion/DIB-to-HTML)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="DIBをHTMLに変換します-Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | DIB">}}
 DIB（Device Independent Bitmap）ファイルは、標準のビットマップファイル（BMP）と構造が似ていますが、ヘッダーが異なるラスターイメージファイルです。これは、WindowsおよびmacOSで標準のBMPファイルを開くことができるほとんどすべてのアプリケーションで開くことができます。 DIBはバイナリファイルであり、BMPと同様の複雑なファイル形式を持っています。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | HTML">}}
 HTML（ハイパーテキストマークアップ言語）は、ブラウザで表示するために作成されたWebページの拡張機能です。 Webの言語として知られるHTMLは、Webページの一部として表示される新しい情報要件の要件とともに進化してきました。最新のバリアントはHTML5として知られており、言語を操作するための多くの柔軟性を提供します。 HTMLページは、ホストされているサーバーから受信するか、ローカルシステムからロードすることもできます。各HTMLページは、フォーム、テキスト、画像、アニメーション、リンクなどのHTML要素で構成されています。これらの要素は、img、a、pなどのタグで表され、各タグには開始と終了があります。また、JavaScriptやスタイルシート（CSS）などのスクリプト言語で記述されたアプリケーションを埋め込んで、全体的なレイアウトを表現することもできます。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

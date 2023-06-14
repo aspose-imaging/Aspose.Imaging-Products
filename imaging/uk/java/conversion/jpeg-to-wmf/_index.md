@@ -75,16 +75,6 @@ description: Зразок коду для перетворення JPEG у WMF J
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити JPEG на WMF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення JPEG у WMF"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Зразок коду для перетворення JPEG у WMF J
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/JPEG-to-WMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити JPEG на WMF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | JPEG">}}
 JPEG — це тип формату зображення, який зберігається за допомогою методу стиснення з втратами. Вихідне зображення, як результат стиснення, є компромісом між розміром пам’яті та якістю зображення. Користувачі можуть регулювати рівень стиснення, щоб досягти бажаного рівня якості, одночасно зменшуючи розмір пам’яті. Якщо до зображення застосувати стиснення 10:1, на якість зображення вплине незначно. Чим вище значення стиснення, тим більше погіршується якість зображення.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | WMF">}}
 Файли з розширенням WMF представляють метафайл Microsoft Windows (WMF) для зберігання векторних і растрових зображень. Щоб бути більш точним, WMF належить до категорії форматів векторних файлів графічних форматів, які не залежать від пристрою. Інтерфейс графічного пристрою Windows (GDI) використовує функції, збережені у файлі WMF, для відображення зображення на екрані. Пізніше було опубліковано розширену версію WMF, відому як Enhanced Meta Files (EMF), яка робить формат більш багатим на функції. Практично WMF схожі на SVG.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

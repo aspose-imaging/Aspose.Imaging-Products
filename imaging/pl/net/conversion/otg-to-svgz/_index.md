@@ -64,16 +64,6 @@ Przed uruchomieniem przykładowego kodu konwersji upewnij się, że masz następ
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konwertuj OTG na SVGZ - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Darmowa aplikacja do konwersji OTG na SVGZ"
         appName="Conversion"
@@ -85,13 +75,21 @@ Przed uruchomieniem przykładowego kodu konwersji upewnij się, że masz następ
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/pl/conversion/OTG-to-SVGZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konwertuj OTG na SVGZ - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej | OTG">}}
 Plik OTG to szablon rysunku utworzony przy użyciu standardu OpenDocument zgodnego ze specyfikacją OASIS Office Applications 1.0. Reprezentuje domyślną organizację elementów rysunkowych dla obrazu wektorowego, która może być wykorzystana do dalszego ulepszania zawartości pliku.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej | SVGZ">}}
 Plik z rozszerzeniem .svgz to skompresowana wersja pliku Scalable Vector Graphics (.SVG). Jest skompresowany za pomocą kompresji gzip i zawiera dane w formacie XML. Pliki SVGZ obsługują przezroczystość, gradienty, animacje i filtry. Pliki SVGZ mają mniejszy rozmiar w porównaniu z domyślnymi plikami SVG, a ten zmniejszony rozmiar pliku pomaga przesyłać pliki graficzne online. Projektant graficzny tworzy pliki SVGZ za pomocą narzędzi takich jak Adobe Illustrator, Corel PaintShop Pro i innych. Jednak pliki SVGZ można generować, włączając kompresję GZip na serwerze Apache podczas wysyłania danych obrazu.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

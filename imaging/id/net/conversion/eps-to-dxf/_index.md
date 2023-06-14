@@ -62,16 +62,6 @@ Sebelum menjalankan kode contoh konversi, pastikan Anda memiliki prasyarat berik
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konversi EPS ke DXF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Aplikasi Gratis untuk Mengonversi EPS ke DXF"
         appName="Conversion"
@@ -83,13 +73,21 @@ Sebelum menjalankan kode contoh konversi, pastikan Anda memiliki prasyarat berik
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/id/conversion/EPS-to-DXF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konversi EPS ke DXF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya | EPS">}}
 File dengan ekstensi EPS pada dasarnya menggambarkan program bahasa Encapsulated PostScript yang menggambarkan tampilan satu halaman. Nama "Encapsulated" karena dapat dimasukkan atau dienkapsulasi dalam deskripsi halaman bahasa PostScript lain. Format file berbasis skrip ini dapat berisi kombinasi teks, grafik, dan gambar. File EPS dapat menyertakan gambar pratinjau bitmap yang dienkapsulasi di dalam untuk ditampilkan oleh aplikasi yang dapat membuka file tersebut. File EPS dapat dikonversi ke format gambar standar seperti JPG, PNG, TIFF dan PDF menggunakan aplikasi yang berbeda mis. Adobe Ilustrator, Photoshop dan PaintShop Pro. Karena kerentanan keamanan dalam file EPS, Office 2016, Office 2013, Office 2010, dan Office 365 telah menonaktifkan kemampuan untuk menyisipkan file EPS ke dalam dokumen Office.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya | DXF">}}
 DXF, Drawing Interchange Format, atau Drawing Exchange Format, adalah representasi data yang ditandai dari file gambar AutoCAD. Setiap elemen dalam file memiliki nomor integer awalan yang disebut kode grup. Kode grup ini sebenarnya mewakili elemen yang mengikuti dan menunjukkan arti dari elemen data untuk tipe objek tertentu. DXF memungkinkan untuk mewakili hampir semua informasi yang ditentukan pengguna dalam file gambar.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

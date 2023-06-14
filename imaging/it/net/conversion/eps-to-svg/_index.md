@@ -64,16 +64,6 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Converti EPS in SVG - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="App gratuita per convertire EPS in SVG"
         appName="Conversion"
@@ -85,13 +75,21 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/it/conversion/EPS-to-SVG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Converti EPS in SVG - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più | EPS">}}
 I file con estensione EPS descrivono essenzialmente un programma in linguaggio Encapsulated PostScript che descrive l'aspetto di una singola pagina. Il nome "Encapsulated" perché può essere incluso o incapsulato nella descrizione della pagina di un altro linguaggio PostScript. Questo formato di file basato su script può contenere qualsiasi combinazione di testo, grafica e immagini. I file EPS possono includere un'immagine di anteprima bitmap incapsulata all'interno per la visualizzazione da parte di applicazioni in grado di aprire tali file. I file EPS possono essere convertiti in formati immagine standard come JPG, PNG, TIFF e PDF utilizzando diverse applicazioni, ad es. Adobe Illustrator, Photoshop e PaintShop Pro. A causa di una vulnerabilità di sicurezza nei file EPS, Office 2016, Office 2013, Office 2010 e Office 365 hanno disattivato la possibilità di inserire file EPS nei documenti di Office.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più | SVG">}}
 I file SVG sono file di grafica vettoriale scalabili che utilizzano un formato di testo basato su XML per descrivere l'aspetto dell'immagine. La parola scalabile si riferisce al fatto che l'SVG può essere ridimensionato a diverse dimensioni senza perdere qualità. La descrizione testuale di tali file li rende indipendenti dalla risoluzione. È uno dei formati più utilizzati per la creazione di siti Web e grafica stampata al fine di ottenere scalabilità. Tuttavia, il formato può essere utilizzato solo per la grafica bidimensionale. I file SVG possono essere visualizzati/aperti in quasi tutti i browser moderni, inclusi Chrome, Internet Explorer, Firefox e Safari.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

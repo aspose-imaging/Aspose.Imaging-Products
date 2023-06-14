@@ -75,16 +75,6 @@ Innan du kör koden för konverteringsexempel, se till att du har följande för
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertera JPG till APNG - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Gratis app för att konvertera JPG till APNG"
         appName="Conversion"
@@ -96,13 +86,21 @@ Innan du kör koden för konverteringsexempel, se till att du har följande för
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/JPG-to-APNG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertera JPG till APNG - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer | JPG">}}
 En JPEG är en typ av bildformat som sparas med metoden för förlustkomprimering. Utdatabilden, som ett resultat av komprimering, är en kompromiss mellan lagringsstorlek och bildkvalitet. Användare kan justera komprimeringsnivån för att uppnå önskad kvalitetsnivå samtidigt som lagringsstorleken minskas. Bildkvaliteten påverkas försumbart om 10:1-komprimering tillämpas på bilden. Ju högre komprimeringsvärde, desto högre försämring i bildkvalitet.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer | APNG">}}
 En fil med tillägget .apng (Animated Portable Network Graphics) är ett rastergrafikformat och är ett inofficiellt tillägg till Portable Network Graphic (PNG ). Den består av flera bildrutor (var och en av PNG-bilder) som representerar en animationssekvens. Detta ger liknande visualisering som en GIF-fil. APNG-filer stöder 24-bitars bilder och 8-bitars transparens. APNG är bakåtkompatibel med icke-animerade GIF-filer. APNG-filer använder samma .png-tillägg och kan öppnas av applikationer som Mozilla Firefox, Chrome med APNG-stöd, iMessage-appar för iOS 10.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

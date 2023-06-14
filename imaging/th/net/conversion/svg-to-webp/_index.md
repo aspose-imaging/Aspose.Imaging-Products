@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="แปลง SVG เป็น WEBP - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="แอปฟรีเพื่อแปลง SVG เป็น WEBP"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/SVG-to-WEBP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="แปลง SVG เป็น WEBP - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | SVG">}}
 ไฟล์ SVG เป็นไฟล์กราฟิกแบบเวกเตอร์ที่ปรับขนาดได้ซึ่งใช้รูปแบบข้อความแบบ XML เพื่ออธิบายลักษณะที่ปรากฏของรูปภาพ คำว่า Scalable หมายถึงความจริงที่ว่า SVG สามารถปรับขนาดเป็นขนาดต่างๆ ได้โดยไม่สูญเสียคุณภาพใดๆ คำอธิบายตามข้อความของไฟล์ดังกล่าวทำให้ไม่ขึ้นกับความละเอียด เป็นรูปแบบหนึ่งที่ใช้กันมากที่สุดในการสร้างเว็บไซต์และพิมพ์กราฟิกเพื่อให้ได้ความสามารถในการปรับขนาด รูปแบบสามารถใช้ได้กับกราฟิกสองมิติเท่านั้น ไฟล์ SVG สามารถดู/เปิดได้ในเบราว์เซอร์สมัยใหม่เกือบทั้งหมด รวมถึง Chrome, Internet Explorer, Firefox และ Safari
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | WEBP">}}
 WebP ซึ่งเปิดตัวโดย Google เป็นรูปแบบไฟล์ภาพเว็บแรสเตอร์ที่ทันสมัยซึ่งใช้การบีบอัดแบบไม่สูญเสียข้อมูลและการสูญเสียข้อมูล ให้คุณภาพของภาพเท่าเดิมในขณะที่ลดขนาดภาพลงอย่างมาก เนื่องจากหน้าเว็บส่วนใหญ่ใช้รูปภาพเป็นตัวแทนข้อมูลที่มีประสิทธิภาพ การใช้รูปภาพ WebP ในหน้าเว็บส่งผลให้โหลดหน้าเว็บเร็วขึ้น ตาม Google รูปภาพที่ไม่สูญเสียของ WebP มีขนาดเล็กกว่า 26% เมื่อเทียบกับ PNG ในขณะที่รูปภาพที่สูญเสียของ WebP นั้นเล็กกว่าภาพ JPEG ที่เปรียบเทียบได้ 25-34% รูปภาพจะถูกเปรียบเทียบโดยอิงตามดัชนีความคล้ายคลึงกันของโครงสร้าง (SSIM) ระหว่าง WebP และรูปแบบไฟล์รูปภาพอื่นๆ WebP เป็นโครงการน้องสาวของรูปแบบคอนเทนเนอร์มัลติมีเดียของ WebM
         {{< /blocks/products/pf/agp/about-file-text >}}
 

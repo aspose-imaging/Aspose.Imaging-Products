@@ -62,16 +62,6 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Chuyển đổi CDR thành SVGZ - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Ứng dụng miễn phí để chuyển đổi CDR thành SVGZ"
         appName="Conversion"
@@ -83,13 +73,21 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/vi/conversion/CDR-to-SVGZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Chuyển đổi CDR thành SVGZ - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm | CDR">}}
 Tệp CDR là tệp hình ảnh bản vẽ vectơ được tạo nguyên bản bằng CorelDRAW để lưu trữ hình ảnh kỹ thuật số được mã hóa và nén. Một tệp bản vẽ như vậy có chứa văn bản, đường thẳng, hình dạng, hình ảnh, màu sắc và các hiệu ứng để biểu diễn vector của nội dung hình ảnh. Các tệp CDR có thể được mở bằng CorelDRAW làm ứng dụng chính và cũng có thể được chuyển đổi sang các định dạng khác như PDF, JPG, PNG, BMP và AI. Nó có thể được sử dụng để biểu diễn các dữ liệu đồ họa khác nhau như tài liệu quảng cáo, báo lá cải, phong bì và bưu thiếp. Bên cạnh CorelDRAW, các sản phẩm Corel khác như Corel Paintshop Pro và CorelDRAW Graphics suite cũng có thể mở các định dạng tệp CDR.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm | SVGZ">}}
 Tệp có phần mở rộng .svgz là phiên bản nén của tệp Đồ họa Vectơ có thể mở rộng (.SVG). Nó được nén bằng nén gzip và chứa dữ liệu ở định dạng XML. Các tệp SVGZ hỗ trợ độ trong suốt, độ dốc, hoạt ảnh và bộ lọc. Các tệp SVGZ có kích thước nhỏ hơn so với các tệp SVG mặc định và kích thước tệp giảm này giúp chuyển các tệp đồ họa trực tuyến. Nhà thiết kế đồ họa tạo các tệp SVGZ bằng các công cụ như Adobe Illustrator, Corel PaintShop Pro và các công cụ khác. Tuy nhiên, tệp SVGZ có thể được tạo bằng cách bật tính năng nén GZip trong Máy chủ Apache trong khi gửi dữ liệu hình ảnh.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

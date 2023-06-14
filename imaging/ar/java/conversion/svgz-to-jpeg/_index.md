@@ -75,16 +75,6 @@ description: نموذج رمز لـ SVGZ إلى JPEG تحويل Java. استخد
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="تحويل SVGZ إلى JPEG - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="تطبيق مجاني لتحويل SVGZ إلى JPEG"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: نموذج رمز لـ SVGZ إلى JPEG تحويل Java. استخد
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/SVGZ-to-JPEG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="تحويل SVGZ إلى JPEG - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | SVGZ">}}
 الملف بامتداد .svgz هو نسخة مضغوطة من ملف Scalable Vector Graphics (.SVG). يتم ضغطه بضغط gzip ويحتوي على بيانات بتنسيق XML. تدعم ملفات SVGZ الشفافية والتدرجات والرسوم المتحركة والمرشحات. تكون ملفات SVGZ أصغر حجمًا مقارنة بملفات SVG الافتراضية ويساعد حجم الملف المنخفض هذا في نقل ملفات الرسومات عبر الإنترنت. يقوم مصمم الرسومات بإنشاء ملفات SVGZ باستخدام أدوات مثل Adobe Illustrator و Corel PaintShop Pro وغيرها. ومع ذلك ، يمكن إنشاء ملفات SVGZ عن طريق تمكين ضغط GZip في خادم Apache أثناء إرسال بيانات الصورة.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | JPEG">}}
 JPEG هو نوع من تنسيق الصور يتم حفظه باستخدام طريقة الضغط مع فقدان البيانات. الصورة الناتجة ، كنتيجة للضغط ، هي مقايضة بين حجم التخزين وجودة الصورة. يمكن للمستخدمين ضبط مستوى الضغط لتحقيق مستوى الجودة المطلوب مع تقليل حجم التخزين في نفس الوقت. تتأثر جودة الصورة بشكل ضئيل إذا تم تطبيق ضغط بنسبة 10: 1 على الصورة. كلما زادت قيمة الضغط ، زاد تدهور جودة الصورة.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

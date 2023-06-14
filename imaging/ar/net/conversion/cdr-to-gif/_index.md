@@ -61,16 +61,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="تحويل CDR إلى GIF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="تطبيق مجاني لتحويل CDR إلى GIF"
         appName="Conversion"
@@ -82,13 +72,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/CDR-to-GIF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="تحويل CDR إلى GIF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | CDR">}}
 ملف CDR هو ملف صورة رسم متجه تم إنشاؤه أصلاً باستخدام CorelDRAW لتخزين الصورة الرقمية المشفرة والمضغوطة. يحتوي ملف الرسم هذا على نص وخطوط وأشكال وصور وألوان وتأثيرات للتمثيل المتجه لمحتويات الصورة. يمكن فتح ملفات CDR باستخدام CorelDRAW باعتباره التطبيق الأساسي ويمكن أيضًا تحويلها إلى تنسيقات أخرى مثل PDF و JPG و PNG و BMP و AI. يمكن استخدامه لتمثيل بيانات الرسومات المختلفة مثل الكتيبات والصحف والمغلفات والبطاقات البريدية. إلى جانب CorelDRAW ، يمكن لمنتجات Corel الأخرى مثل Corel Paintshop Pro ومجموعة CorelDRAW Graphics أيضًا فتح تنسيقات ملفات CDR.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | GIF">}}
 تنسيق GIF أو تنسيق التبادل الرسومي هو نوع من الصور المضغوطة بشدة. يستخدم GIF ، المملوك من قبل Unisys ، خوارزمية ضغط LZW التي لا تقلل من جودة الصورة. لكل صورة ، يسمح GIF عادةً بما يصل إلى 8 بت لكل بكسل وما يصل إلى 256 لونًا مسموح به عبر الصورة. على عكس صورة JPEG ، التي يمكنها عرض ما يصل إلى 16 مليون لون وتلامس إلى حد ما حدود العين البشرية. عندما ظهر الإنترنت ، ظلت ملفات GIF هي الخيار الأفضل لأنها تتطلب نطاقًا تردديًا منخفضًا ومتوافقة مع الرسومات التي تستهلك مناطق صلبة من الألوان. تجمع صورة GIF المتحركة العديد من الصور أو الإطارات في ملف واحد وتعرضها في تسلسل لإنشاء مقطع متحرك أو مقطع فيديو قصير. تصل حدود اللون إلى 256 لكل إطار ومن المحتمل أن تكون الأقل ملاءمة لإعادة إنتاج الصور والصور الفوتوغرافية الأخرى ذات التدرج اللوني.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -62,16 +62,6 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertuoti DNG į WMZ – .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Nemokama programa konvertuoti DNG į WMZ"
         appName="Conversion"
@@ -83,13 +73,21 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/lt/conversion/DNG-to-WMZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertuoti DNG į WMZ – .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau | DNG">}}
 DNG yra skaitmeninio fotoaparato vaizdo formatas, naudojamas neapdorotiems failams saugoti. Ją 2004 m. rugsėjo mėn. sukūrė „Adobe“. Iš esmės jis buvo sukurtas skaitmeninei fotografijai. DNG yra TIFF/EP standartinio formato plėtinys ir daug naudoja metaduomenis. Siekdami lengvai lanksčiai ir meniškai valdyti neapdorotus skaitmeninių fotoaparatų duomenis, fotografai pasirenka neapdorotus fotoaparato failus. JPEG ir TIFF formatuose saugomi fotoaparato apdorojami vaizdai, todėl tokiuose formatuose nėra daug vietos keisti.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau | WMZ">}}
 WMZ yra „Windows Media Player“ / „Windows Media Player“ naudojamo odos failo formato failo plėtinys. WMZ failas iš esmės yra suglaudintas WMF failas XML formatu.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

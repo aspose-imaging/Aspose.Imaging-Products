@@ -75,16 +75,6 @@ Innan du kör koden för konverteringsexempel, se till att du har följande för
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertera ODG till APNG - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Gratis app för att konvertera ODG till APNG"
         appName="Conversion"
@@ -96,13 +86,21 @@ Innan du kör koden för konverteringsexempel, se till att du har följande för
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/ODG-to-APNG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertera ODG till APNG - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer | ODG">}}
 ODG-filformatet används av Apache OpenOffices Draw-applikation för att lagra ritelement som en vektorbild. Den följer de XML-baserade filformatspecifikationerna som beskrivs av Advancement of Structural Information Standards (OASIS). ODG representerar ritningar som vektorbilder med hjälp av punkter, linjer och kurvor. Förutom OpenOffice ger LibreOffice och andra applikationer även stöd för att arbeta med ODG-filformat. Andra format som stöds av OpenOffice, till exempel, inkluderar ODT, ODF, ODP och ODS.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer | APNG">}}
 En fil med tillägget .apng (Animated Portable Network Graphics) är ett rastergrafikformat och är ett inofficiellt tillägg till Portable Network Graphic (PNG ). Den består av flera bildrutor (var och en av PNG-bilder) som representerar en animationssekvens. Detta ger liknande visualisering som en GIF-fil. APNG-filer stöder 24-bitars bilder och 8-bitars transparens. APNG är bakåtkompatibel med icke-animerade GIF-filer. APNG-filer använder samma .png-tillägg och kan öppnas av applikationer som Mozilla Firefox, Chrome med APNG-stöd, iMessage-appar för iOS 10.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

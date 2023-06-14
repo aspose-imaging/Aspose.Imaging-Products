@@ -75,16 +75,6 @@ Przed uruchomieniem przykładowego kodu konwersji upewnij się, że masz następ
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konwertuj EMF na WEBP - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Darmowa aplikacja do konwersji EMF na WEBP"
         appName="Conversion"
@@ -96,13 +86,21 @@ Przed uruchomieniem przykładowego kodu konwersji upewnij się, że masz następ
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/pl/conversion/EMF-to-WEBP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konwertuj EMF na WEBP - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej | EMF">}}
 Ulepszony format metapliku (EMF) przechowuje obrazy graficzne niezależnie od urządzenia. Metapliki EMF składają się z rekordów o zmiennej długości w porządku chronologicznym, które mogą renderować przechowywany obraz po przeanalizowaniu na dowolnym urządzeniu wyjściowym. Te rekordy o zmiennej długości mogą być definicjami zamkniętych obiektów, poleceniami do rysowania i właściwościami graficznymi krytycznymi dla dokładnego renderowania obrazu. Gdy urządzenie otwiera metaplik EMF przy użyciu własnego środowiska graficznego, proporcje, wymiary, kolory i inne właściwości graficzne oryginalnego obrazu pozostają takie same niezależnie od platformy urządzenia otwierającego.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej | WEBP">}}
 WebP, wprowadzony przez Google, to nowoczesny rastrowy format plików obrazów internetowych, oparty na bezstratnej i stratnej kompresji. Zapewnia tę samą jakość obrazu, jednocześnie znacznie zmniejszając rozmiar obrazu. Ponieważ większość stron internetowych wykorzystuje obrazy jako efektywną reprezentację danych, użycie obrazów WebP na stronach internetowych powoduje szybsze ładowanie stron internetowych. Według Google, bezstratne obrazy WebP są o 26% mniejsze w porównaniu do plików PNG, podczas gdy stratne obrazy WebP są o 25-34% mniejsze niż porównywalne obrazy JPEG. Obrazy są porównywane na podstawie indeksu podobieństwa strukturalnego (SSIM) między WebP a innymi formatami plików graficznych. WebP to siostrzany projekt formatu kontenera multimedialnego WebM.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

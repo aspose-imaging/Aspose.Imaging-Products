@@ -75,16 +75,6 @@ description: Пример кода для преобразования EMZ в J2
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Преобразование EMZ в J2K - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Бесплатное приложение для конвертации EMZ в J2K"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Пример кода для преобразования EMZ в J2
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ru/conversion/EMZ-to-J2K)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Преобразование EMZ в J2K - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее | EMZ">}}
 Файл с расширением EMZ представляет собой сжатый файл изображения, более конкретно называемый файлом сжатого расширенного метафайла Windows.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее | J2K">}}
 Файл J2K представляет собой изображение, сжатое с использованием вейвлет-сжатия вместо сжатия DCT.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

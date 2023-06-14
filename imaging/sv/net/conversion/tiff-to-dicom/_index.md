@@ -63,16 +63,6 @@ Innan du kör koden för konverteringsexempel, se till att du har följande för
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertera TIFF till DICOM - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Gratis app för att konvertera TIFF till DICOM"
         appName="Conversion"
@@ -84,13 +74,21 @@ Innan du kör koden för konverteringsexempel, se till att du har följande för
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/TIFF-to-DICOM)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertera TIFF till DICOM - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer | TIFF">}}
 TIFF eller TIF, Tagged Image File Format, representerar rasterbilder som är avsedda för användning på en mängd olika enheter som överensstämmer med denna filformatstandard. Den kan beskriva bilevel-, gråskala-, palett-färg- och fullfärgsbilddata i flera färgrymder. Den stöder såväl förlustfria som förlustfria komprimeringssystem för att välja mellan utrymme och tid för applikationer som använder formatet. Formatet är utbyggbart och har genomgått flera revisioner som gör det möjligt att inkludera en obegränsad mängd privat eller specialinformation. Formatet är inte maskinberoende och är fritt från gränser som processor, operativsystem eller filsystem.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer | DICOM">}}
 DICOM är akronymen för Digital Imaging and Communications in Medicine och hänför sig till området medicinsk informatik. DICOM är kombinationen av filformatsdefinition och ett nätverkskommunikationsprotokoll. DICOM använder tillägget .DCM. .DCM finns i två olika format, dvs format 1.x och format 2.x. DCM Format 1.x finns dessutom i två versioner normal och utökad. DICOM används för integrering av medicinska bildbehandlingsenheter som skrivare, servrar, skannrar etc från olika leverantörer och innehåller även identifieringsdata för varje patient för att vara unik. DICOM-filer kan delas mellan två parter om de kan ta emot bilddata i DICOM-format. Kommunikationsdelen av DICOM är applikationslagerprotokoll och använder TCP/IP för att kommunicera mellan enheter. HTTP- och HTTPS-protokollen används för DICOMs webbtjänster. Versioner som stöds av webbtjänster är 1.0, 1.1, 2 eller senare.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -75,16 +75,6 @@ ICOをTGAに変換するには、 [Aspose.Imaging for Java](https://products.asp
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="ICOをTGAに変換します-Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="ICOをTGAに変換する無料アプリ"
         appName="Conversion"
@@ -96,13 +86,21 @@ ICOをTGAに変換するには、 [Aspose.Imaging for Java](https://products.asp
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ja/conversion/ICO-to-TGA)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="ICOをTGAに変換します-Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | ICO">}}
 ICO ファイル形式は、Microsoft Windows のコンピューター アイコンのイメージ ファイル形式です。 ICO ファイルには、適切にスケーリングできるように、複数のサイズと色深度の 1 つまたは複数の小さな画像が含まれています。 Windows では、ユーザー、デスクトップ、スタート メニュー、または Windows エクスプローラーにアイコンを表示するすべての実行可能ファイルは、アイコンを ICO 形式で保持する必要があります。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | TGA">}}
 Truevision TGAは、TARGAとも呼ばれ、Truevision Inc.（現在はAvid Technologyの一部）によって作成されたラスターグラフィックファイル形式です。これは、ハイカラー/トゥルーカラー表示をサポートするIBM互換PC用の最初のグラフィックカードであるTARGAおよびVISTAボードのネイティブフォーマットでした。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

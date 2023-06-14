@@ -62,16 +62,6 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertuoti SVGZ į J2K – .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Nemokama programa konvertuoti SVGZ į J2K"
         appName="Conversion"
@@ -83,13 +73,21 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/lt/conversion/SVGZ-to-J2K)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertuoti SVGZ į J2K – .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau | SVGZ">}}
 Failas su plėtiniu .svgz yra suglaudinta Scalable Vector Graphics (.SVG) failo versija. Jis suglaudintas gzip glaudinimu ir jame yra duomenys XML formatu. SVGZ failai palaiko skaidrumą, gradientus, animaciją ir filtrus. SVGZ failai yra mažesni, palyginti su numatytaisiais SVG failais, ir šis sumažintas failo dydis padeda perkelti grafikos failus į internetą. Grafikos dizaineris kuria SVGZ failus naudodamas tokius įrankius kaip „Adobe Illustrator“, „Corel PaintShop Pro“ ir kt. Tačiau SVGZ failus galima sugeneruoti įjungus GZip glaudinimą „Apache“ serveryje, siunčiant vaizdo duomenis.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau | J2K">}}
 J2K failas yra vaizdas, suglaudintas naudojant banglečių glaudinimą, o ne DCT glaudinimą.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -75,16 +75,6 @@ Sebelum menjalankan kode contoh konversi, pastikan Anda memiliki prasyarat berik
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konversi SVGZ ke PSD - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Aplikasi Gratis untuk Mengonversi SVGZ ke PSD"
         appName="Conversion"
@@ -96,13 +86,21 @@ Sebelum menjalankan kode contoh konversi, pastikan Anda memiliki prasyarat berik
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/id/conversion/SVGZ-to-PSD)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konversi SVGZ ke PSD - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya | SVGZ">}}
 File dengan ekstensi .svgz adalah versi terkompresi dari file Scalable Vector Graphics (.SVG). Itu dikompresi dengan kompresi gzip dan berisi data dalam format XML. File SVGZ mendukung transparansi, gradien, animasi, dan filter. File SVGZ berukuran lebih kecil dibandingkan dengan file SVG default dan ukuran file yang diperkecil ini membantu mentransfer file grafik secara online. Desainer grafis membuat file SVGZ menggunakan alat seperti Adobe Illustrator, Corel PaintShop Pro, dan lainnya. Namun, file SVGZ dapat dibuat dengan mengaktifkan kompresi GZip di Server Apache saat mengirimkan data gambar.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya | PSD">}}
 PSD, Dokumen Photoshop, mewakili format file asli Adobe Photoshop yang digunakan untuk perancangan dan pengembangan grafis. File PSD dapat mencakup lapisan gambar, lapisan penyesuaian, topeng lapisan, anotasi, informasi file, kata kunci, dan elemen khusus Photoshop lainnya.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

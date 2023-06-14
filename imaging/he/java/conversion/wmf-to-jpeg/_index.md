@@ -75,16 +75,6 @@ description: קוד לדוגמה עבור המרת Java מ-WMF ל-JPEG. השתמ
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="המר את WMF ל-JPEG - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="אפליקציה חינמית להמרת WMF ל-JPEG"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: קוד לדוגמה עבור המרת Java מ-WMF ל-JPEG. השתמ
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/WMF-to-JPEG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="המר את WMF ל-JPEG - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | WMF">}}
 קבצים עם סיומת WMF מייצגים את Microsoft Windows Metafile (WMF) לאחסון נתוני תמונות וקטורים כמו גם בפורמט סיביות. ליתר דיוק, WMF שייך לקטגוריית פורמט קבצים וקטור של פורמטים של קבצי גרפיקה שאינה תלויה במכשיר. ממשק התקן גרפי של Windows (GDI) משתמש בפונקציות המאוחסנות בקובץ WMF כדי להציג תמונה על המסך. מאוחר יותר פורסמה גרסה משופרת יותר של WMF, הידועה בשם Enhanced Meta Files (EMF), שהופכת את הפורמט לעשיר יותר בתכונות. למעשה, WMF דומים ל-SVG.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | JPEG">}}
 JPEG הוא סוג של פורמט תמונה שנשמר בשיטת הדחיסה המאבדת. תמונת הפלט, כתוצאה מדחיסה, היא פשרה בין גודל האחסון ואיכות התמונה. משתמשים יכולים להתאים את רמת הדחיסה כדי להשיג את רמת האיכות הרצויה ובו בזמן להקטין את גודל האחסון. איכות התמונה מושפעת באופן זניח אם מוחלת דחיסה של 10:1 על התמונה. ככל שערך הדחיסה גבוה יותר, כך הירידה באיכות התמונה גבוהה יותר.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

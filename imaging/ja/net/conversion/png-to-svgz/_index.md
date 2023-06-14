@@ -62,16 +62,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="PNGをSVGZに変換します-.NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="PNGをSVGZに変換する無料アプリ"
         appName="Conversion"
@@ -83,13 +73,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ja/conversion/PNG-to-SVGZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="PNGをSVGZに変換します-.NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | PNG">}}
 PNG（Portable Network Graphics）は、ロスレス圧縮を使用するラスターイメージファイル形式の一種を指します。このファイル形式は、Graphics Interchange Format（GIF）の代わりとして作成されたものであり、著作権の制限はありません。ただし、PNGファイル形式はアニメーションをサポートしていません。 PNGファイル形式は、ユーザーの間で人気のあるロスレス画像圧縮をサポートしています。時間の経過とともに、PNGは最もよく使用される画像ファイル形式の1つとして進化してきました。ほとんどすべてのオペレーティングシステムは、PNGファイルを開くことをサポートしています。たとえば、Microsoft Windowsビューアには、OSがデフォルトでインストールの一部として利用可能なサポートを備えているため、PNGファイルを開く機能があります。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | SVGZ">}}
 拡張子が.svgzのファイルは、Scalable Vector Graphics（.SVG）ファイルの圧縮バージョンです。 gzip圧縮で圧縮され、XML形式のデータが含まれています。 SVGZファイルは、透明度、グラデーション、アニメーション、およびフィルターをサポートします。 SVGZファイルはデフォルトのSVGファイルと比較してサイズが小さく、この縮小されたファイルサイズはグラフィックファイルをオンラインで転送するのに役立ちます。グラフィックデザイナーは、Adobe Illustrator、Corel PaintShopProなどのツールを使用してSVGZファイルを作成します。ただし、SVGZファイルは、画像データの送信中にApacheサーバーでGZip圧縮を有効にすることで生成できます。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

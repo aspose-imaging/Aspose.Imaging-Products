@@ -76,16 +76,6 @@ description: ODG 到 TGA Java 转换的示例代码。在任何基于 Web 或桌
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="将 ODG 转换为 TGA - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="将 ODG 转换为 TGA 的免费应用程序"
         appName="Conversion"
@@ -97,13 +87,21 @@ description: ODG 到 TGA Java 转换的示例代码。在任何基于 Web 或桌
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hans/conversion/ODG-to-TGA)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="将 ODG 转换为 TGA - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | ODG">}}
 Apache OpenOffice 的 Draw 应用程序使用 ODG 文件格式将绘图元素存储为矢量图像。它遵循结构信息标准推进 (OASIS) 概述的基于 XML 的文件格式规范。 ODG 将绘图表示为使用点、线和曲线的矢量图像。除了 OpenOffice，LibreOffice 和其他应用程序还提供对 ODG 文件格式的支持。例如，OpenOffice 支持的其他格式包括 ODT、ODF、ODP 和 ODS。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | TGA">}}
 Truevision TGA，通常称为 TARGA，是由 Truevision Inc.（现为 Avid Technology 的一部分）创建的光栅图形文件格式。它是 TARGA 和 VISTA 板的原生格式，它们是 IBM 兼容 PC 上第一款支持高彩/真彩显示的显卡。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

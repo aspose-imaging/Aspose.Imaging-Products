@@ -75,16 +75,6 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertuoti CMX į TIFF – Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Nemokama programa konvertuoti CMX į TIFF"
         appName="Conversion"
@@ -96,13 +86,21 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/lt/conversion/CMX-to-TIFF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertuoti CMX į TIFF – Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau | CMX">}}
 Failai su CMX plėtiniu yra „Corel Exchange“ vaizdo failo formatas, naudojamas „CorelSuite“ programose kaip pristatymas. Jame yra vaizdo duomenys kaip vektorinė grafika, taip pat metaduomenys, apibūdinantys vaizdą. CMX failus galima atidaryti naudojant „CorelDraw“, „Corel Presentations“, „Paint Shop Pro“ ir kai kurias „Adobe Illustrator“ versijas.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau | TIFF">}}
 TIFF arba TIF, Tagged Image File Format, reiškia rastrinius vaizdus, ​​kurie yra skirti naudoti įvairiuose įrenginiuose, kurie atitinka šį failo formato standartą. Jis gali apibūdinti dviejų lygių, pilkų tonų, paletės spalvų ir pilnų spalvų vaizdo duomenis keliose spalvų erdvėse. Jis palaiko nuostolingo ir be nuostolių glaudinimo schemas, kad būtų galima pasirinkti tarp vietos ir laiko programoms, naudojančioms formatą. Formatas yra išplečiamas ir buvo keletą kartų peržiūrėtas, todėl galima įtraukti neribotą kiekį privačios ar specialios paskirties informacijos. Formatas nepriklauso nuo įrenginio ir nėra ribojamas, pvz., procesoriaus, operacinės sistemos ar failų sistemų.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

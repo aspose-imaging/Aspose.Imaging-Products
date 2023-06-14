@@ -62,16 +62,6 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Chuyển đổi ODG thành BMP - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Ứng dụng miễn phí để chuyển đổi ODG thành BMP"
         appName="Conversion"
@@ -83,13 +73,21 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/vi/conversion/ODG-to-BMP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Chuyển đổi ODG thành BMP - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm | ODG">}}
 Định dạng tệp ODG được ứng dụng Draw của Apache OpenOffice sử dụng để lưu trữ các phần tử bản vẽ dưới dạng hình ảnh vectơ. Nó tuân theo các đặc tả định dạng tệp dựa trên XML được nêu ra bởi Sự Tiến bộ của Tiêu chuẩn Thông tin Cấu trúc (OASIS). ODG biểu diễn bản vẽ dưới dạng hình ảnh vectơ sử dụng các điểm, đường thẳng và đường cong. Bên cạnh OpenOffice, LibreOffice và các ứng dụng khác cũng cung cấp hỗ trợ làm việc với định dạng tệp ODG. Các định dạng khác được OpenOffice hỗ trợ, chẳng hạn, bao gồm ODT, ODF, ODP và ODS.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm | BMP">}}
 Các tệp có phần mở rộng .BMP đại diện cho các tệp Hình ảnh Bitmap được sử dụng để lưu trữ hình ảnh kỹ thuật số bitmap. Những hình ảnh này độc lập với bộ điều hợp đồ họa và còn được gọi là định dạng tệp bitmap (DIB) độc lập với thiết bị. Tính độc lập này phục vụ mục đích mở tệp trên nhiều nền tảng như Microsoft Windows và Mac. Định dạng tệp BMP có thể lưu trữ dữ liệu dưới dạng hình ảnh kỹ thuật số hai chiều ở cả định dạng đơn sắc và màu với nhiều độ sâu màu khác nhau.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

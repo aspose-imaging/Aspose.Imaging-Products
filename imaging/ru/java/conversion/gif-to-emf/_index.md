@@ -75,16 +75,6 @@ description: Пример кода для преобразования GIF в EM
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Преобразование GIF в EMF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Бесплатное приложение для конвертации GIF в EMF"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Пример кода для преобразования GIF в EM
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ru/conversion/GIF-to-EMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Преобразование GIF в EMF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее | GIF">}}
 Формат GIF или Graphical Interchange Format представляет собой тип сильно сжатого изображения. Принадлежащий Unisys, GIF использует алгоритм сжатия LZW, который не ухудшает качество изображения. Для каждого изображения в формате GIF обычно допускается до 8 бит на пиксель, а в изображении допускается до 256 цветов. В отличие от изображения в формате JPEG, которое может отображать до 16 миллионов цветов и довольно далеко выходит за пределы возможностей человеческого глаза. Когда появился Интернет, GIF-файлы оставались лучшим выбором, потому что они требовали низкой пропускной способности и были совместимы с графикой, которая использует сплошные области цвета. Анимированный GIF объединяет многочисленные изображения или кадры в один файл и отображает их в последовательности для создания анимированного клипа или короткого видео. Ограничения по цвету составляют до 256 для каждого кадра и, вероятно, будут наименее подходящими для воспроизведения других изображений и фотографий с цветовым градиентом.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее | EMF">}}
 Расширенный формат метафайла (EMF) хранит графические изображения независимо от устройства. Метафайлы EMF состоят из записей переменной длины в хронологическом порядке, которые могут отображать сохраненное изображение после анализа на любом устройстве вывода. Эти записи переменной длины могут быть определениями вложенных объектов, команд для рисования и графических свойств, важных для точного воспроизведения изображения. Когда устройство открывает метафайл EMF, используя собственную графическую среду, пропорции, размеры, цвета и другие графические свойства исходного изображения остаются неизменными независимо от платформы открывающего устройства.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

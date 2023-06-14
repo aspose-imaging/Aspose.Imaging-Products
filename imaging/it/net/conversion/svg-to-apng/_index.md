@@ -64,16 +64,6 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Converti SVG in APNG - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="App gratuita per convertire SVG in APNG"
         appName="Conversion"
@@ -85,13 +75,21 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/it/conversion/SVG-to-APNG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Converti SVG in APNG - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più | SVG">}}
 I file SVG sono file di grafica vettoriale scalabili che utilizzano un formato di testo basato su XML per descrivere l'aspetto dell'immagine. La parola scalabile si riferisce al fatto che l'SVG può essere ridimensionato a diverse dimensioni senza perdere qualità. La descrizione testuale di tali file li rende indipendenti dalla risoluzione. È uno dei formati più utilizzati per la creazione di siti Web e grafica stampata al fine di ottenere scalabilità. Tuttavia, il formato può essere utilizzato solo per la grafica bidimensionale. I file SVG possono essere visualizzati/aperti in quasi tutti i browser moderni, inclusi Chrome, Internet Explorer, Firefox e Safari.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più | APNG">}}
 Un file con estensione .apng (Animated Portable Network Graphics) è un formato grafico raster ed è un'estensione non ufficiale di Portable Network Graphic (PNG). Comprende più fotogrammi (ciascuno di un'immagine PNG) che rappresenta una sequenza di animazione. Ciò fornisce una visualizzazione simile a quella di un file GIF. I file APNG supportano immagini a 24 bit e trasparenza a 8 bit. APNG è compatibile con le versioni precedenti di file GIF non animati. I file APNG utilizzano la stessa estensione .png e possono essere aperti da applicazioni come Mozilla Firefox, Chrome con supporto APNG, app iMessage per iOS 10.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

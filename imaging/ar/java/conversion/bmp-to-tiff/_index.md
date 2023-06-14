@@ -75,16 +75,6 @@ description: نموذج رمز لـ BMP إلى TIFF تحويل Java. استخد�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="تحويل BMP إلى TIFF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="تطبيق مجاني لتحويل BMP إلى TIFF"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: نموذج رمز لـ BMP إلى TIFF تحويل Java. استخد�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/BMP-to-TIFF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="تحويل BMP إلى TIFF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | BMP">}}
 الملفات ذات الامتداد .BMP تمثل ملفات الصور النقطية المستخدمة لتخزين الصور الرقمية للصور النقطية. هذه الصور مستقلة عن محول الرسومات وتسمى أيضًا تنسيق ملف الصورة النقطية المستقلة عن الجهاز (DIB). يخدم هذا الاستقلال غرض فتح الملف على منصات متعددة مثل Microsoft Windows و Mac. يمكن لملف BMP تخزين البيانات كصور رقمية ثنائية الأبعاد بتنسيق أحادي اللون بالإضافة إلى تنسيق الألوان بأعماق ألوان مختلفة.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | TIFF">}}
 TIFF أو TIF ، تنسيق ملف الصورة ذي العلامات ، يمثل صورًا نقطية مخصصة للاستخدام على مجموعة متنوعة من الأجهزة التي تتوافق مع معيار تنسيق الملف هذا. إنه قادر على وصف بيانات الصورة ذات المستوى الثنائي ، والرمادي ، واللون الملون ، وبيانات الصور كاملة الألوان في العديد من مساحات الألوان. وهو يدعم أنظمة الضغط التي يتم فقدانها وكذلك بدون فقدان البيانات للاختيار بين المكان والزمان للتطبيقات التي تستخدم التنسيق. التنسيق قابل للتوسيع وخضع لعدة مراجعات تسمح بإدراج كمية غير محدودة من المعلومات الخاصة أو ذات الأغراض الخاصة. لا يعتمد التنسيق على الجهاز وخالي من الحدود مثل المعالج أو نظام التشغيل أو أنظمة الملفات.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

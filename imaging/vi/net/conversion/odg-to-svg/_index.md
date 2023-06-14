@@ -62,16 +62,6 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Chuyển đổi ODG thành SVG - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Ứng dụng miễn phí để chuyển đổi ODG thành SVG"
         appName="Conversion"
@@ -83,13 +73,21 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/vi/conversion/ODG-to-SVG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Chuyển đổi ODG thành SVG - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm | ODG">}}
 Định dạng tệp ODG được ứng dụng Draw của Apache OpenOffice sử dụng để lưu trữ các phần tử bản vẽ dưới dạng hình ảnh vectơ. Nó tuân theo các đặc tả định dạng tệp dựa trên XML được nêu ra bởi Sự Tiến bộ của Tiêu chuẩn Thông tin Cấu trúc (OASIS). ODG biểu diễn bản vẽ dưới dạng hình ảnh vectơ sử dụng các điểm, đường thẳng và đường cong. Bên cạnh OpenOffice, LibreOffice và các ứng dụng khác cũng cung cấp hỗ trợ làm việc với định dạng tệp ODG. Các định dạng khác được OpenOffice hỗ trợ, chẳng hạn, bao gồm ODT, ODF, ODP và ODS.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm | SVG">}}
 Tệp SVG là Tệp Đồ họa Vectơ có thể mở rộng sử dụng định dạng văn bản dựa trên XML để mô tả sự xuất hiện của hình ảnh. Từ Scalable đề cập đến thực tế là SVG có thể được thu nhỏ thành các kích thước khác nhau mà không làm giảm chất lượng. Mô tả dựa trên văn bản của các tệp như vậy làm cho chúng độc lập với độ phân giải. Nó là một trong những định dạng được sử dụng nhiều nhất để xây dựng trang web và đồ họa in nhằm đạt được khả năng mở rộng. Tuy nhiên, định dạng này chỉ có thể được sử dụng cho đồ họa hai chiều. Các tệp SVG có thể được xem / mở trong hầu hết các trình duyệt hiện đại bao gồm Chrome, Internet Explorer, Firefox và Safari.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

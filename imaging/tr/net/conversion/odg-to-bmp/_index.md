@@ -62,16 +62,6 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="ODG öğesini BMP - .NET biçimine dönüştürün" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="ODG'i BMP'e Dönüştürmek için Ücretsiz Uygulama"
         appName="Conversion"
@@ -83,13 +73,21 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/tr/conversion/ODG-to-BMP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="ODG öğesini BMP - .NET biçimine dönüştürün" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | ODG">}}
 ODG dosya formatı, çizim öğelerini bir vektör görüntüsü olarak depolamak için Apache OpenOffice'in Draw uygulaması tarafından kullanılır. Yapısal Bilgi Standartlarının Geliştirilmesi (OASIS) tarafından özetlenen XML tabanlı dosya formatı özelliklerini takip eder. ODG, çizimleri noktalar, çizgiler ve eğriler kullanarak vektör görüntüleri olarak temsil eder. OpenOffice'in yanı sıra, LibreOffice ve diğer uygulamalar da ODG dosya formatı ile çalışmak için destek sağlar. Örneğin OpenOffice tarafından desteklenen diğer biçimler arasında ODT, ODF, ODP ve ODS bulunur.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | BMP">}}
 .BMP uzantısına sahip dosyalar, bitmap dijital görüntüleri depolamak için kullanılan Bitmap Görüntü dosyalarını temsil eder. Bu görüntüler grafik bağdaştırıcısından bağımsızdır ve aygıttan bağımsız bit eşlem (DIB) dosya biçimi olarak da adlandırılır. Bu bağımsızlık, dosyayı Microsoft Windows ve Mac gibi birden çok platformda açma amacına hizmet eder. BMP dosya formatı, verileri hem monokrom hem de çeşitli renk derinliklerine sahip renkli formatta iki boyutlu dijital görüntüler olarak saklayabilir.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

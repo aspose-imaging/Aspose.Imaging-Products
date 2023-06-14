@@ -64,16 +64,6 @@ Przed uruchomieniem przykładowego kodu konwersji upewnij się, że masz następ
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konwertuj DNG na WMF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Darmowa aplikacja do konwersji DNG na WMF"
         appName="Conversion"
@@ -85,13 +75,21 @@ Przed uruchomieniem przykładowego kodu konwersji upewnij się, że masz następ
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/pl/conversion/DNG-to-WMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konwertuj DNG na WMF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej | DNG">}}
 DNG to format obrazu aparatu cyfrowego używany do przechowywania plików RAW. Został opracowany przez firmę Adobe we wrześniu 2004 roku. Został zasadniczo opracowany z myślą o fotografii cyfrowej. DNG jest rozszerzeniem standardowego formatu TIFF/EP i w znacznym stopniu wykorzystuje metadane. Aby manipulować nieprzetworzonymi danymi z aparatów cyfrowych z łatwością i elastycznością i artystyczną kontrolą, fotografowie wybierają nieprzetworzone pliki aparatu. Formaty JPEG i TIFF przechowują obrazy przetwarzane przez aparat, dlatego w takich formatach nie ma zbyt wiele miejsca na zmiany.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej | WMF">}}
 Pliki z rozszerzeniem WMF reprezentują Microsoft Windows Metafile (WMF) do przechowywania danych obrazów wektorowych i bitmapowych. Aby być bardziej dokładnym, WMF należy do kategorii formatów plików wektorowych w formatach plików graficznych, które są niezależne od urządzeń. Windows Graphical Device Interface (GDI) używa funkcji zapisanych w pliku WMF do wyświetlania obrazu na ekranie. Bardziej rozszerzona wersja WMF, znana jako Enhanced Meta Files (EMF), została opublikowana później, dzięki czemu format jest bogatszy w funkcje. Praktycznie WMF są podobne do SVG.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

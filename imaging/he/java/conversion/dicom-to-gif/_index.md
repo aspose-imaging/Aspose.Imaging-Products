@@ -75,16 +75,6 @@ description: קוד לדוגמה עבור המרת Java מ-DICOM ל-GIF. השת�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="המר את DICOM ל-GIF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="אפליקציה חינמית להמרת DICOM ל-GIF"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: קוד לדוגמה עבור המרת Java מ-DICOM ל-GIF. השת�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DICOM-to-GIF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="המר את DICOM ל-GIF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | DICOM">}}
 DICOM הוא ראשי התיבות של Digital Imaging and Communications in Medicine ונוגע לתחום האינפורמטיקה הרפואית. DICOM הוא השילוב של הגדרת פורמט קובץ ופרוטוקול תקשורת רשת. DICOM משתמש בסיומת .DCM. .DCM קיים בשני פורמטים שונים, כלומר פורמט 1.x ופורמט 2.x. DCM Format 1.x זמין עוד בשתי גרסאות רגילות ומורחבות. DICOM משמש לשילוב של מכשירי הדמיה רפואיים כמו מדפסות, שרתים, סורקים וכו' של ספקים שונים ומכיל גם נתוני זיהוי של כל מטופל לייחודיות. ניתן לשתף קובצי DICOM בין שני צדדים אם הם מסוגלים לקבל נתוני תמונה בפורמט DICOM. חלק התקשורת של DICOM הוא פרוטוקול שכבת יישומים ומשתמש ב-TCP/IP כדי לתקשר בין ישויות. פרוטוקולי HTTP ו-HTTPS משמשים עבור שירותי האינטרנט של DICOM. גרסאות הנתמכות על ידי שירותי אינטרנט הן 1.0, 1.1, 2 ואילך.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | GIF">}}
 GIF או Graphical Interchange Format הוא סוג של תמונה דחוסה מאוד. בבעלות Unisys, GIF משתמש באלגוריתם הדחיסה LZW שאינו פוגע באיכות התמונה. עבור כל תמונה GIF בדרך כלל מאפשר עד 8 סיביות לפיקסל ועד 256 צבעים מותרים על פני התמונה. בניגוד לתמונת JPEG, שיכולה להציג עד 16 מיליון צבעים ונוגעת למדי בגבולות העין האנושית. כשהאינטרנט הופיע, קובצי GIF נותרו הבחירה הטובה ביותר מכיוון שהם דרשו רוחב פס נמוך ותואם לגרפיקה שצורכת אזורי צבע מוצקים. GIF מונפש משלב מספר רב של תמונות או פריימים לקובץ אחד ומציג אותם ברצף ליצירת קליפ מונפש או סרטון וידאו קצר. מגבלות הצבע הן עד 256 עבור כל פריים וסביר להניח שהן יהיו הפחות מתאימות לשחזור תמונות ותצלומים אחרים עם מעבר צבע.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

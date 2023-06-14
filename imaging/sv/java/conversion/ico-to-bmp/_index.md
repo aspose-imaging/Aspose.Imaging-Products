@@ -75,16 +75,6 @@ Innan du kör koden för konverteringsexempel, se till att du har följande för
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertera ICO till BMP - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Gratis app för att konvertera ICO till BMP"
         appName="Conversion"
@@ -96,13 +86,21 @@ Innan du kör koden för konverteringsexempel, se till att du har följande för
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/ICO-to-BMP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertera ICO till BMP - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer | ICO">}}
 ICO-filformatet är ett bildfilformat för datorikoner i Microsoft Windows. ICO-filer innehåller en eller flera små bilder i flera storlekar och färgdjup, så att de kan skalas på lämpligt sätt. I Windows måste alla körbara filer som visar en ikon för användaren, på skrivbordet, i Start-menyn eller i Utforskaren i Windows, bära ikonen i ICO-format.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer | BMP">}}
 Filer med tillägget .BMP representerar bitmappsbildfiler som används för att lagra digitala bitmappsbilder. Dessa bilder är oberoende av grafikkort och kallas även enhetsoberoende bitmappsfilformat (DIB). Detta oberoende tjänar syftet att öppna filen på flera plattformar som Microsoft Windows och Mac. BMP-filformatet kan lagra data som tvådimensionella digitala bilder i både svartvitt och färgformat med olika färgdjup.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -63,16 +63,6 @@ Innan du kör koden för konverteringsexempel, se till att du har följande för
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertera JPG till SVG - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Gratis app för att konvertera JPG till SVG"
         appName="Conversion"
@@ -84,13 +74,21 @@ Innan du kör koden för konverteringsexempel, se till att du har följande för
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/JPG-to-SVG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertera JPG till SVG - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer | JPG">}}
 En JPEG är en typ av bildformat som sparas med metoden för förlustkomprimering. Utdatabilden, som ett resultat av komprimering, är en kompromiss mellan lagringsstorlek och bildkvalitet. Användare kan justera komprimeringsnivån för att uppnå önskad kvalitetsnivå samtidigt som lagringsstorleken minskas. Bildkvaliteten påverkas försumbart om 10:1-komprimering tillämpas på bilden. Ju högre komprimeringsvärde, desto högre försämring i bildkvalitet.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer | SVG">}}
 SVG-filer är skalbara vektorgrafikfiler som använder XML-baserat textformat för att beskriva bildens utseende. Ordet Scalable syftar på det faktum att SVG kan skalas till olika storlekar utan att förlora någon kvalitet. Textbaserad beskrivning av sådana filer gör dem oberoende av upplösning. Det är ett av de mest använda formaten för att bygga webbplatser och skriva ut grafik för att uppnå skalbarhet. Formatet kan dock endast användas för tvådimensionell grafik. SVG-filer kan ses/öppnas i nästan alla moderna webbläsare inklusive Chrome, Internet Explorer, Firefox och Safari.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

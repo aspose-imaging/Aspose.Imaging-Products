@@ -75,16 +75,6 @@ description: Зразок коду для перетворення GIF у CANVAS
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити GIF на CANVAS - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення GIF у CANVAS"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Зразок коду для перетворення GIF у CANVAS
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/GIF-to-CANVAS)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити GIF на CANVAS - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | GIF">}}
 GIF або Graphical Interchange Format — це тип сильно стиснутого зображення. GIF, що належить Unisys, використовує алгоритм стиснення LZW, який не погіршує якість зображення. Для кожного зображення GIF зазвичай допускається до 8 біт на піксель і до 256 кольорів на зображенні. На відміну від зображення у форматі JPEG, яке може відображати до 16 мільйонів кольорів і доторкається до меж людського ока. Коли з’явився Інтернет, GIF-файли залишалися найкращим вибором, оскільки вони потребували низької пропускної здатності та були сумісні з графікою, яка споживає суцільні кольорові ділянки. Анімований GIF поєднує численні зображення або кадри в один файл і відображає їх у послідовності для створення анімованого кліпу або короткого відео. Кольорові обмеження становлять до 256 для кожного кадру, і вони, імовірно, найменше підходять для відтворення інших зображень і фотографій із градієнтом кольорів.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CANVAS" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CANVAS" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | CANVAS">}}
 HTML (Hyper Text Markup Language) — це розширення для веб-сторінок, створених для відображення в браузерах. HTML, відомий як мова Інтернету, розвивався разом із вимогами щодо нових вимог до інформації, яка має відображатися як частина веб-сторінок. Останній варіант відомий як HTML 5, який надає велику гнучкість для роботи з мовою. Сторінки HTML або отримуються з сервера, де вони розміщені, або також можуть бути завантажені з локальної системи. Кожна HTML-сторінка складається з таких елементів HTML, як форми, текст, зображення, анімація, посилання тощо. Ці елементи представлені такими тегами, як img, a, p та декількома іншими, де кожен тег має початок і кінець. Він також може вбудовувати програми, написані мовами сценаріїв, такими як JavaScript і таблиці стилів (CSS), для загального представлення макета.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

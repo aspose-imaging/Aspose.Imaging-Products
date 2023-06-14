@@ -75,16 +75,6 @@ description: קוד לדוגמה עבור המרת Java מ-CMX ל-SVGZ. השתמ
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="המר את CMX ל-SVGZ - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="אפליקציה חינמית להמרת CMX ל-SVGZ"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: קוד לדוגמה עבור המרת Java מ-CMX ל-SVGZ. השתמ
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/CMX-to-SVGZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="המר את CMX ל-SVGZ - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | CMX">}}
 קבצים עם סיומת CMX הם פורמט קובץ תמונה של Corel Exchange המשמש כמצגת על ידי יישומי CorelSuite. הוא מכיל נתוני תמונה כגרפיקה וקטורית וכן מטא נתונים המתארים את התמונה. ניתן לפתוח קבצי CMX על ידי CorelDraw, Corel Presentations, Paint Shop Pro וגרסאות מסוימות של Adobe Illustrator.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | SVGZ">}}
 קובץ עם סיומת .svgz הוא גרסה דחוסה של קובץ Scalable Vector Graphics (.SVG). הוא דחוס עם דחיסת gzip ומכיל נתונים בפורמט XML. קובצי SVGZ תומכים בשקיפות, מעברי צבע, אנימציות ומסננים. קבצי SVGZ קטנים יותר בהשוואה לקובצי SVG ברירת המחדל וגודל הקובץ המופחת הזה עוזר להעביר את קבצי הגרפיקה באופן מקוון. מעצב גרפי יוצר קובצי SVGZ באמצעות כלים כמו Adobe Illustrator, Corel PaintShop Pro ואחרים. עם זאת, ניתן ליצור קבצי SVGZ על ידי הפעלת דחיסת GZip בשרת ה-Apache בזמן שליחת נתוני התמונה.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -64,16 +64,6 @@ Przed uruchomieniem przykładowego kodu konwersji upewnij się, że masz następ
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konwertuj SVG na JPEG2000 - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Darmowa aplikacja do konwersji SVG na JPEG2000"
         appName="Conversion"
@@ -85,13 +75,21 @@ Przed uruchomieniem przykładowego kodu konwersji upewnij się, że masz następ
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/pl/conversion/SVG-to-JPEG2000)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konwertuj SVG na JPEG2000 - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej | SVG">}}
 Pliki SVG to skalowalne pliki grafiki wektorowej, które wykorzystują format tekstowy oparty na XML do opisywania wyglądu obrazu. Słowo Skalowalny odnosi się do faktu, że SVG można skalować do różnych rozmiarów bez utraty jakości. Opis tekstowy takich plików czyni je niezależnymi od rozdzielczości. Jest to jeden z najczęściej używanych formatów do budowy stron internetowych i grafiki drukowanej w celu uzyskania skalowalności. Format ten może być jednak używany tylko do grafiki dwuwymiarowej. Pliki SVG można przeglądać/otwierać w prawie wszystkich nowoczesnych przeglądarkach, w tym Chrome, Internet Explorer, Firefox i Safari.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej | JPEG2000">}}
 JPEG 2000 (JP2) to system kodowania obrazu i najnowocześniejszy standard kompresji obrazu. Zaprojektowany przy użyciu technologii wavelet JPEG 2000 może kodować bezstratne treści w dowolnej jakości na raz. Co więcej, bez znaczącej utraty wydajności kodowania, JPEG 2000 ma możliwość dostępu i efektywnego dekodowania tej samej treści w różnych innych rozdzielczościach i jakościach. Strumienie kodu w JPEG 2000 są znacznie skalowalne, posiadając obszary zainteresowania, które zapewniają możliwość przestrzennego dostępu losowego. Posiada do 16384 różnych komponentów o wymiarach w terapikselach i precyzji, która może sięgać nawet 38 bitów na próbkę.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

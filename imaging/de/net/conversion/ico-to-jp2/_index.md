@@ -63,16 +63,6 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertiere ICO in JP2 - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Kostenlose App zum Konvertieren von ICO in JP2"
         appName="Conversion"
@@ -84,13 +74,21 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/de/conversion/ICO-to-JP2)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertiere ICO in JP2 - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen | ICO">}}
 Das ICO-Dateiformat ist ein Bilddateiformat für Computersymbole in Microsoft Windows. ICO-Dateien enthalten ein oder mehrere kleine Bilder in mehreren Größen und Farbtiefen, sodass sie entsprechend skaliert werden können. In Windows müssen alle ausführbaren Dateien, die dem Benutzer auf dem Desktop, im Startmenü oder im Windows Explorer ein Symbol anzeigen, das Symbol im ICO-Format enthalten.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen | JP2">}}
 JPEG 2000 (JP2) ist ein Bildcodierungssystem und ein hochmoderner Bildkomprimierungsstandard. JPEG 2000 wurde unter Verwendung der Wavelet-Technologie entwickelt und kann verlustfreie Inhalte in jeder Qualität gleichzeitig kodieren. Darüber hinaus hat JPEG 2000 ohne wesentliche Einbußen bei der Codierungseffizienz die Fähigkeit, auf denselben Inhalt zuzugreifen und ihn effizient in eine Vielzahl anderer Auflösungen und Qualitäten zu decodieren. Die Codeströme in JPEG 2000 sind erheblich skalierbar, da sie interessierende Regionen aufweisen, die die Möglichkeit für einen räumlichen Direktzugriff bereitstellen. Besitzt bis zu 16384 verschiedene Komponenten mit Abmessungen in Terapixel und einer Genauigkeit, die bis zu 38 Bit/Sample betragen kann.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

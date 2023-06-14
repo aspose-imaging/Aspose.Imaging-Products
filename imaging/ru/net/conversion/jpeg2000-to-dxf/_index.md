@@ -64,16 +64,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Преобразование JPEG2000 в DXF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Бесплатное приложение для конвертации JPEG2000 в DXF"
         appName="Conversion"
@@ -85,13 +75,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ru/conversion/JPEG2000-to-DXF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Преобразование JPEG2000 в DXF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее | JPEG2000">}}
 JPEG 2000 (JP2) — это система кодирования изображений и современный стандарт сжатия изображений. Разработанный с использованием вейвлет-технологии JPEG 2000 может кодировать контент без потерь сразу в любом качестве. Более того, без существенного снижения эффективности кодирования, JPEG 2000 имеет возможность доступа и эффективного декодирования одного и того же контента во множество других разрешений и качеств. Потоки кода в JPEG 2000 значительно масштабируемы, имея интересующие области, которые обеспечивают возможность пространственного произвольного доступа. Обладая до 16384 различных компонентов с размерами в терапикселях и точностью, которая может достигать 38 бит/выборка.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее | DXF">}}
 DXF, формат обмена чертежами или формат обмена чертежами — это теговое представление данных файла чертежа AutoCAD. Каждый элемент в файле имеет префикс целого числа, называемый групповым кодом. Этот групповой код фактически представляет следующий за ним элемент и указывает значение элемента данных для данного типа объекта. DXF позволяет представить почти всю указанную пользователем информацию в файле чертежа.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -76,16 +76,6 @@ description: BMP 到 CANVAS Java 转换的示例代码。在任何基于 Web 或
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="将 BMP 转换为 CANVAS - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="将 BMP 转换为 CANVAS 的免费应用程序"
         appName="Conversion"
@@ -97,13 +87,21 @@ description: BMP 到 CANVAS Java 转换的示例代码。在任何基于 Web 或
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hans/conversion/BMP-to-CANVAS)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="将 BMP 转换为 CANVAS - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | BMP">}}
 扩展名为 .BMP 的文件表示用于存储位图数字图像的位图图像文件。这些图像独立于图形适配器，也称为设备独立位图 (DIB) 文件格式。这种独立性的目的是在 Microsoft Windows 和 Mac 等多个平台上打开文件。 BMP 文件格式可以将数据存储为单色和具有各种颜色深度的彩色格式的二维数字图像。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CANVAS" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CANVAS" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | CANVAS">}}
 HTML（超文本标记语言）是为在浏览器中显示而创建的网页的扩展。 HTML被称为网络语言，随着新信息要求的要求而发展，要求将其显示为网页的一部分。最新的变体被称为 HTML 5，它为使用该语言提供了很大的灵活性。 HTML 页面要么从托管这些页面的服务器接收，要么也可以从本地系统加载。每个 HTML 页面都由 HTML 元素组成，例如表单、文本、图像、动画、链接等。这些元素由诸如 img、a、p 和其他几个标签表示，其中每个标签都有开始和结束。它还可以嵌入以 JavaScript 和样式表 (CSS) 等脚本语言编写的应用程序，以实现整体布局表示。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

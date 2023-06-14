@@ -75,16 +75,6 @@ JP2을 EMF로 변환하려면 다음을 사용합니다. [자바용 Aspose.Imagi
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="JP2을 EMF로 변환 - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="JP2을 EMF로 변환하는 무료 앱"
         appName="Conversion"
@@ -96,13 +86,21 @@ JP2을 EMF로 변환하려면 다음을 사용합니다. [자바용 Aspose.Imagi
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ko/conversion/JP2-to-EMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="JP2을 EMF로 변환 - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | JP2">}}
 JPEG 2000(JP2)은 이미지 코딩 시스템이자 최첨단 이미지 압축 표준입니다. 웨이블릿 기술을 사용하여 설계된 JPEG 2000은 한 번에 모든 품질의 무손실 콘텐츠를 코딩할 수 있습니다. 게다가 JPEG 2000은 코딩 효율성에 있어 실질적인 불이익 없이 동일한 콘텐츠에 액세스하고 다양한 다른 해상도와 품질로 효과적으로 디코딩할 수 있는 기능을 가지고 있습니다. JPEG 2000의 코드 스트림은 공간 랜덤 액세스를 위한 기능을 제공하는 관심 영역을 갖도록 확장할 수 있습니다. 최대 16384개의 다양한 구성 요소를 테라픽셀 단위의 치수와 38비트/샘플의 정밀도까지 보유합니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | EMF">}}
 EMF(Enhanced Metafile Format)는 그래픽 이미지를 장치에 독립적으로 저장합니다. EMF의 메타파일은 모든 출력 장치에서 구문 분석한 후 저장된 이미지를 렌더링할 수 있는 시간순의 가변 길이 레코드로 구성됩니다. 이러한 가변 길이 레코드는 포함된 개체의 정의, 그리기 명령 및 이미지를 정확하게 렌더링하는 데 중요한 그래픽 속성이 될 수 있습니다. 장치가 자체 그래픽 환경을 사용하여 EMF 메타파일을 열 때 원본 이미지의 비율, 치수, 색상 및 기타 그래픽 속성은 여는 장치 플랫폼에 관계없이 동일하게 유지됩니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

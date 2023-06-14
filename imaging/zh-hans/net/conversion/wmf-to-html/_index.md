@@ -62,16 +62,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="将 WMF 转换为 HTML - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="将 WMF 转换为 HTML 的免费应用程序"
         appName="Conversion"
@@ -83,13 +73,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hans/conversion/WMF-to-HTML)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="将 WMF 转换为 HTML - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | WMF">}}
 带有 WMF 扩展名的文件代表 Microsoft Windows 元文件 (WMF)，用于存储矢量以及位图格式的图像数据。更准确地说，WMF 属于与设备无关的图形文件格式的矢量文件格式类别。 Windows 图形设备接口 (GDI) 使用存储在 WMF 文件中的函数在屏幕上显示图像。后来发布了 WMF 的更增强版本，称为增强元文件 (EMF)，使该格式的功能更加丰富。实际上，WMF 类似于 SVG。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | HTML">}}
 HTML（超文本标记语言）是为在浏览器中显示而创建的网页的扩展。 HTML被称为网络语言，随着新信息要求的要求而发展，要求将其显示为网页的一部分。最新的变体被称为 HTML 5，它为使用该语言提供了很大的灵活性。 HTML 页面要么从托管这些页面的服务器接收，要么也可以从本地系统加载。每个 HTML 页面都由 HTML 元素组成，例如表单、文本、图像、动画、链接等。这些元素由诸如 img、a、p 和其他几个标签表示，其中每个标签都有开始和结束。它还可以嵌入以 JavaScript 和样式表 (CSS) 等脚本语言编写的应用程序，以实现整体布局表示。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

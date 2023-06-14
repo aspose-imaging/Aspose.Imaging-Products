@@ -75,16 +75,6 @@ Voordat u de conversievoorbeeldcode uitvoert, moet u ervoor zorgen dat u aan de 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Converteer OTG naar TIFF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Gratis app om OTG naar TIFF te converteren"
         appName="Conversion"
@@ -96,13 +86,21 @@ Voordat u de conversievoorbeeldcode uitvoert, moet u ervoor zorgen dat u aan de 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/nl/conversion/OTG-to-TIFF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Converteer OTG naar TIFF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder | OTG">}}
 Een OTG-bestand is een tekeningsjabloon die is gemaakt met behulp van de OpenDocument-standaard die de OASIS Office Applications 1.0-specificatie volgt. Het vertegenwoordigt de standaardorganisatie van tekenelementen voor een vectorafbeelding die kan worden gebruikt om de inhoud van het bestand verder te verbeteren.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder | TIFF">}}
 TIFF of TIF, Tagged Image File Format, staat voor rasterafbeeldingen die bedoeld zijn voor gebruik op verschillende apparaten die voldoen aan deze standaard voor bestandsindelingen. Het is in staat om bilevel-, grijswaarden-, paletkleur- en full-color afbeeldingsgegevens in verschillende kleurruimten te beschrijven. Het ondersteunt zowel lossy als lossless compressieschema's om te kiezen tussen ruimte en tijd voor toepassingen die het formaat gebruiken. Het formaat is uitbreidbaar en heeft verschillende revisies ondergaan waardoor een onbeperkte hoeveelheid persoonlijke of speciale informatie kan worden opgenomen. Het formaat is niet machine-afhankelijk en is vrij van beperkingen zoals processor, besturingssysteem of bestandssystemen.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

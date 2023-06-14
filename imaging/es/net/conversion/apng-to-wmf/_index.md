@@ -65,16 +65,6 @@ Antes de ejecutar el código de ejemplo de conversión, asegúrese de tener los 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convertir APNG a WMF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Aplicación gratuita para convertir APNG a WMF"
         appName="Conversion"
@@ -86,13 +76,21 @@ Antes de ejecutar el código de ejemplo de conversión, asegúrese de tener los 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/es/conversion/APNG-to-WMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Convertir APNG a WMF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más | APNG">}}
 Un archivo con la extensión .apng (Animated Portable Network Graphics) es un formato gráfico de trama y es una extensión no oficial de Portable Network Graphic (PNG). Se compone de múltiples fotogramas (cada uno de imagen PNG) que representa una secuencia de animación. Esto proporciona una visualización similar a la de un archivo GIF. Los archivos APNG admiten imágenes de 24 bits y transparencia de 8 bits. APNG es compatible con versiones anteriores de archivos GIF no animados. Los archivos APNG usan la misma extensión .png y pueden abrirse con aplicaciones como Mozilla Firefox, Chrome con compatibilidad con APNG, aplicaciones de iMessage para iOS 10.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más | WMF">}}
 Los archivos con la extensión WMF representan el metarchivo de Microsoft Windows (WMF) para almacenar datos de imágenes vectoriales y de formato de mapa de bits. Para ser más precisos, WMF pertenece a la categoría de formato de archivo vectorial de formatos de archivo de gráficos que es independiente del dispositivo. La interfaz de dispositivo gráfico de Windows (GDI) utiliza las funciones almacenadas en un archivo WMF para mostrar una imagen en la pantalla. Más tarde se publicó una versión más mejorada de WMF, conocida como Enhanced Meta Files (EMF), que hace que el formato tenga más funciones. Prácticamente, WMF son similares a SVG.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

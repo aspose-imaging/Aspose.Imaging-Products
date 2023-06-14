@@ -62,16 +62,6 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Chuyển đổi DIB thành TIFF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Ứng dụng miễn phí để chuyển đổi DIB thành TIFF"
         appName="Conversion"
@@ -83,13 +73,21 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/vi/conversion/DIB-to-TIFF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Chuyển đổi DIB thành TIFF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm | DIB">}}
 Tệp DIB (Bitmap độc lập với thiết bị) là một tệp hình ảnh raster có cấu trúc tương tự như các tệp Bitmap tiêu chuẩn (BMP) nhưng có tiêu đề khác. Nó có thể được mở bằng hầu hết các ứng dụng có thể mở tệp BMP tiêu chuẩn trên Windows cũng như macOS. DIB là các tệp nhị phân và có định dạng tệp phức tạp tương tự như BMP.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm | TIFF">}}
 TIFF hoặc TIF, Định dạng tệp hình ảnh được gắn thẻ, đại diện cho hình ảnh raster được sử dụng trên nhiều thiết bị tuân thủ tiêu chuẩn định dạng tệp này. Nó có khả năng mô tả dữ liệu hình ảnh mức độ mật, thang độ xám, bảng màu và dữ liệu hình ảnh đầy đủ màu sắc trong một số không gian màu. Nó hỗ trợ các lược đồ nén mất dữ liệu cũng như không mất dữ liệu để lựa chọn giữa không gian và thời gian cho các ứng dụng sử dụng định dạng. Định dạng này có thể mở rộng và đã trải qua một số sửa đổi cho phép đưa vào một lượng thông tin cá nhân hoặc mục đích đặc biệt không giới hạn. Định dạng không phụ thuộc vào máy và không bị giới hạn như bộ xử lý, hệ điều hành hoặc hệ thống tệp.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

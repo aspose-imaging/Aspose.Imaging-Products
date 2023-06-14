@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити EPS на HTML - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення EPS у HTML"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/EPS-to-HTML)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити EPS на HTML - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | EPS">}}
 Файли з розширенням EPS по суті описують програму на мові Encapsulated PostScript, яка описує зовнішній вигляд однієї сторінки. Назва «Інкапсульований», оскільки її можна включити або інкапсулювати в опис сторінки іншою мовою PostScript. Цей формат файлу на основі сценарію може містити будь-яку комбінацію тексту, графіки та зображень. Файли EPS можуть містити растрове зображення попереднього перегляду, інкапсульоване всередину для відображення програмами, які можуть відкривати такі файли. Файли EPS можна конвертувати в стандартні формати зображень, такі як JPG, PNG, TIFF і PDF, за допомогою різних програм, напр. Adobe Illustrator, Photoshop і PaintShop Pro. Через вразливість у безпеці файлів EPS Office 2016, Office 2013, Office 2010 і Office 365 вимкнули можливість вставляти файли EPS у документи Office.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | HTML">}}
 HTML (Hyper Text Markup Language) — це розширення для веб-сторінок, створених для відображення в браузерах. HTML, відомий як мова Інтернету, розвивався разом із вимогами щодо нових вимог до інформації, яка має відображатися як частина веб-сторінок. Останній варіант відомий як HTML 5, який надає велику гнучкість для роботи з мовою. Сторінки HTML або отримуються з сервера, де вони розміщені, або також можуть бути завантажені з локальної системи. Кожна HTML-сторінка складається з таких елементів HTML, як форми, текст, зображення, анімація, посилання тощо. Ці елементи представлені такими тегами, як img, a, p та декількома іншими, де кожен тег має початок і кінець. Він також може вбудовувати програми, написані мовами сценаріїв, такими як JavaScript і таблиці стилів (CSS), для загального представлення макета.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

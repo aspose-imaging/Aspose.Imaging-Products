@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="DIB को DXF में बदलें - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="DIB को DXF में बदलने के लिए नि:शुल्‍क ऐप"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DIB-to-DXF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="DIB को DXF में बदलें - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | DIB">}}
 एक डीआईबी (डिवाइस इंडिपेंडेंट बिटमैप) फ़ाइल एक रास्टर छवि फ़ाइल है जो मानक बिटमैप फ़ाइलों (बीएमपी) की संरचना में समान है लेकिन एक अलग हेडर है। इसे लगभग सभी अनुप्रयोगों के साथ खोला जा सकता है जो विंडोज़ के साथ-साथ मैकोज़ पर एक मानक बीएमपी फ़ाइल खोल सकते हैं। DIB बाइनरी फ़ाइलें हैं और BMP के समान एक जटिल फ़ाइल स्वरूप है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | DXF">}}
 डीएक्सएफ, ड्रॉइंग इंटरचेंज फॉर्मेट या ड्रॉइंग एक्सचेंज फॉर्मेट, ऑटोकैड ड्राइंग फाइल का एक टैग किया गया डेटा प्रतिनिधित्व है। फ़ाइल में प्रत्येक तत्व में एक उपसर्ग पूर्णांक संख्या होती है जिसे समूह कोड कहा जाता है। यह समूह कोड वास्तव में उस तत्व का प्रतिनिधित्व करता है जो किसी दिए गए ऑब्जेक्ट प्रकार के लिए डेटा तत्व के अर्थ का अनुसरण करता है और इंगित करता है। डीएक्सएफ ड्राइंग फ़ाइल में लगभग सभी उपयोगकर्ता-निर्दिष्ट जानकारी का प्रतिनिधित्व करना संभव बनाता है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 

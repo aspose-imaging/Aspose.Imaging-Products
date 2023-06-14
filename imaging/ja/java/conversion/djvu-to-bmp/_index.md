@@ -75,16 +75,6 @@ DJVUをBMPに変換するには、 [Aspose.Imaging for Java](https://products.as
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="DJVUをBMPに変換します-Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="DJVUをBMPに変換する無料アプリ"
         appName="Conversion"
@@ -96,13 +86,21 @@ DJVUをBMPに変換するには、 [Aspose.Imaging for Java](https://products.as
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ja/conversion/DJVU-to-BMP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="DJVUをBMPに変換します-Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | DJVU">}}
 DJVU と発音されるDjVuは、スキャンされたドキュメントや書籍、特にテキスト、図面、画像、写真の組み合わせを含むものを対象としたグラフィックファイル形式です。 AT＆T研究所によって開発されました。テキストと背景画像の画像レイヤー分離、プログレッシブローディング、算術符号化、非可逆圧縮などの複数の手法を使用します。 DJVUファイルには、圧縮された高品質のカラー画像、写真、テキスト、および図面を含めることができ、より少ないスペースで保存できるため、電子書籍、マニュアル、新聞、古代の文書などとしてWebで使用されます。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | BMP">}}
 拡張子が.BMPのファイルは、ビットマップデジタル画像の保存に使用されるビットマップ画像ファイルを表します。これらの画像はグラフィックアダプタから独立しており、デバイスに依存しないビットマップ（DIB）ファイル形式とも呼ばれます。この独立性は、MicrosoftWindowsやMacなどの複数のプラットフォームでファイルを開くという目的を果たします。 BMPファイル形式では、データを2次元デジタル画像として、モノクロとさまざまな色深度のカラー形式の両方で保存できます。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

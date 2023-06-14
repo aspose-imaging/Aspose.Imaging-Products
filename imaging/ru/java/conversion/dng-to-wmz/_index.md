@@ -75,16 +75,6 @@ description: Пример кода для преобразования DNG в WM
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Преобразование DNG в WMZ - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Бесплатное приложение для конвертации DNG в WMZ"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Пример кода для преобразования DNG в WM
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ru/conversion/DNG-to-WMZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Преобразование DNG в WMZ - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее | DNG">}}
 DNG — это формат изображения цифровой камеры, используемый для хранения необработанных файлов. Он был разработан Adobe в сентябре 2004 года. Он был в основном разработан для цифровой фотографии. DNG является расширением стандартного формата TIFF/EP и значительно использует метаданные. Чтобы манипулировать необработанными данными с цифровых камер с легкостью и художественным контролем, фотографы выбирают необработанные файлы камеры. В форматах JPEG и TIFF хранятся изображения, обработанные камерой, поэтому в таких форматах не так много возможностей для изменения.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее | WMZ">}}
 WMZ — это расширение файла для формата файла скина в/для/используемого проигрывателем Windows Media. Файл WMZ представляет собой заархивированный файл WMF в формате XML.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

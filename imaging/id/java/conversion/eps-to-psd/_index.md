@@ -75,16 +75,6 @@ Sebelum menjalankan kode contoh konversi, pastikan Anda memiliki prasyarat berik
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konversi EPS ke PSD - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Aplikasi Gratis untuk Mengonversi EPS ke PSD"
         appName="Conversion"
@@ -96,13 +86,21 @@ Sebelum menjalankan kode contoh konversi, pastikan Anda memiliki prasyarat berik
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/id/conversion/EPS-to-PSD)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konversi EPS ke PSD - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya | EPS">}}
 File dengan ekstensi EPS pada dasarnya menggambarkan program bahasa Encapsulated PostScript yang menggambarkan tampilan satu halaman. Nama "Encapsulated" karena dapat dimasukkan atau dienkapsulasi dalam deskripsi halaman bahasa PostScript lain. Format file berbasis skrip ini dapat berisi kombinasi teks, grafik, dan gambar. File EPS dapat menyertakan gambar pratinjau bitmap yang dienkapsulasi di dalam untuk ditampilkan oleh aplikasi yang dapat membuka file tersebut. File EPS dapat dikonversi ke format gambar standar seperti JPG, PNG, TIFF dan PDF menggunakan aplikasi yang berbeda mis. Adobe Ilustrator, Photoshop dan PaintShop Pro. Karena kerentanan keamanan dalam file EPS, Office 2016, Office 2013, Office 2010, dan Office 365 telah menonaktifkan kemampuan untuk menyisipkan file EPS ke dalam dokumen Office.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya | PSD">}}
 PSD, Dokumen Photoshop, mewakili format file asli Adobe Photoshop yang digunakan untuk perancangan dan pengembangan grafis. File PSD dapat mencakup lapisan gambar, lapisan penyesuaian, topeng lapisan, anotasi, informasi file, kata kunci, dan elemen khusus Photoshop lainnya.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

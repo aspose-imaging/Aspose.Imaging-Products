@@ -75,16 +75,6 @@ description: نموذج رمز لـ DICOM إلى APNG تحويل Java. استخ�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="تحويل DICOM إلى APNG - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="تطبيق مجاني لتحويل DICOM إلى APNG"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: نموذج رمز لـ DICOM إلى APNG تحويل Java. استخ�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DICOM-to-APNG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="تحويل DICOM إلى APNG - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | DICOM">}}
 DICOM هو اختصار للتصوير الرقمي والاتصالات في الطب ويتعلق بمجال المعلوماتية الطبية. DICOM هو مزيج من تعريف تنسيق الملف وبروتوكول اتصالات الشبكة. يستخدم DICOM الملحق .DCM. يوجد DCM بتنسيقين مختلفين ، أي الشكل 1.x والصيغة 2.x. يتوفر تنسيق DCM 1.x أيضًا في نسختين عاديتين وممتدتين. يستخدم DICOM لدمج أجهزة التصوير الطبي مثل الطابعات والخوادم والماسحات الضوئية وغيرها من البائعين المختلفين ويحتوي أيضًا على بيانات تعريف لكل مريض من أجل التفرد. يمكن مشاركة ملفات DICOM بين طرفين إذا كانا قادرين على استقبال بيانات الصورة بتنسيق DICOM. جزء الاتصال في DICOM هو بروتوكول طبقة التطبيق ويستخدم TCP / IP للتواصل بين الكيانات. يتم استخدام بروتوكولات HTTP و HTTPS لخدمات الويب الخاصة بـ DICOM. الإصدارات التي تدعمها خدمات الويب هي 1.0 أو 1.1 أو 2 أو أحدث.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | APNG">}}
 الملف ذو الامتداد .apng (الرسوم المتحركة للشبكة المحمولة) هو تنسيق رسومي نقطي وهو امتداد غير رسمي لـ Portable Network Graphic (PNG). وهي تتألف من إطارات متعددة (كل صورة من صورة PNG) تمثل تسلسلًا للرسوم المتحركة. هذا يعطي تصورًا مشابهًا لملف GIF. تدعم ملفات APNG صور 24 بت وشفافية 8 بت. APNG متوافق مع الإصدارات السابقة مع ملفات GIF غير المتحركة. تستخدم ملفات APNG نفس امتداد .png ويمكن فتحها بواسطة تطبيقات مثل Mozilla Firefox و Chrome مع دعم APNG وتطبيقات iMessage لنظام التشغيل iOS 10.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -75,16 +75,6 @@ Antes de executar o código de exemplo de conversão, verifique se você tem os 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Converter {Formato1} para {Formato2} - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Aplicativo gratuito para converter DJVU para SVGZ"
         appName="Conversion"
@@ -96,13 +86,21 @@ Antes de executar o código de exemplo de conversão, verifique se você tem os 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/pt/conversion/DJVU-to-SVGZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Converter {Formato1} para {Formato2} - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação | DJVU">}}
 DjVu, pronunciado como DJVU, é um formato de arquivo gráfico destinado a documentos e livros digitalizados, especialmente aqueles que contêm a combinação de texto, desenhos, imagens e fotografias. Foi desenvolvido pela AT&T Labs. Ele usa várias técnicas, como separação de camadas de imagem de texto e imagens de fundo, carregamento progressivo, codificação aritmética e compactação com perdas para imagens bitonais. Como o arquivo DJVU pode conter imagens coloridas, fotografias, texto e desenhos compactados e de alta qualidade e pode ser salvo em menos espaço, portanto, é usado na web como eBooks, manuais, jornais, documentos antigos etc.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação | SVGZ">}}
 Um arquivo com extensão .svgz é uma versão compactada do arquivo Scalable Vector Graphics (.SVG). Ele é compactado com compactação gzip e contém dados em formato XML. Os arquivos SVGZ suportam transparência, gradientes, animações e filtros. Os arquivos SVGZ são menores em tamanho em comparação com os arquivos SVG padrão e esse tamanho de arquivo reduzido ajuda a transferir os arquivos gráficos online. O designer gráfico cria arquivos SVGZ usando ferramentas como Adobe Illustrator, Corel PaintShop Pro e outras. No entanto, os arquivos SVGZ podem ser gerados ativando a compactação GZip no Apache Server ao enviar os dados da imagem.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

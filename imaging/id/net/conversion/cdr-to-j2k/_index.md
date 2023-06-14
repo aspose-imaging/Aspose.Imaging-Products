@@ -62,16 +62,6 @@ Sebelum menjalankan kode contoh konversi, pastikan Anda memiliki prasyarat berik
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konversi CDR ke J2K - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Aplikasi Gratis untuk Mengonversi CDR ke J2K"
         appName="Conversion"
@@ -83,13 +73,21 @@ Sebelum menjalankan kode contoh konversi, pastikan Anda memiliki prasyarat berik
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/id/conversion/CDR-to-J2K)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konversi CDR ke J2K - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya | CDR">}}
 File CDR adalah file gambar gambar vektor yang dibuat secara native dengan CorelDRAW untuk menyimpan gambar digital yang dikodekan dan dikompresi. File gambar seperti itu berisi teks, garis, bentuk, gambar, warna, dan efek untuk representasi vektor dari konten gambar. File CDR dapat dibuka dengan CorelDRAW sebagai aplikasi utama dan juga dapat dikonversi ke format lain seperti PDF, JPG, PNG, BMP dan AI. Ini dapat digunakan untuk representasi berbagai data grafik seperti brosur, tabloid, amplop, dan kartu pos. Selain CorelDRAW, produk Corel lainnya seperti Corel Paintshop Pro dan CorelDRAW Graphics suite juga dapat membuka format file CDR.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya | J2K">}}
 File J2K adalah gambar yang dikompres menggunakan kompresi wavelet, bukan kompresi DCT.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

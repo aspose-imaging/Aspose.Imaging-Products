@@ -75,16 +75,6 @@ DNGをDXFに変換するには、 [Aspose.Imaging for Java](https://products.asp
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="DNGをDXFに変換します-Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="DNGをDXFに変換する無料アプリ"
         appName="Conversion"
@@ -96,13 +86,21 @@ DNGをDXFに変換するには、 [Aspose.Imaging for Java](https://products.asp
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ja/conversion/DNG-to-DXF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="DNGをDXFに変換します-Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | DNG">}}
 DNGは、rawファイルの保存に使用されるデジタルカメラの画像形式です。 2004年9月にAdobeによって開発されました。基本的にデジタル写真用に開発されました。 DNGはTIFF / EP標準形式の拡張であり、メタデータを大幅に使用します。柔軟性と芸術的な制御を容易にしてデジタルカメラからの生データを操作するために、写真家はカメラ生ファイルを選択します。 JPEGおよびTIFF形式は、カメラによって処理される画像を保存するため、このような形式では変更の余地があまりありません。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | DXF">}}
 DXF、Drawing Interchange Format、またはDrawing Exchange Formatは、AutoCAD図面ファイルのタグ付きデータ表現です。ファイル内の各要素には、グループコードと呼ばれるプレフィックス整数があります。このグループコードは、実際には後続の要素を表し、特定のオブジェクトタイプのデータ要素の意味を示します。 DXFを使用すると、ユーザーが指定したほとんどすべての情報を図面ファイルで表すことができます。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

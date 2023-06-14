@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="המר את CDR ל-PDF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="אפליקציה חינמית להמרת CDR ל-PDF"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/CDR-to-PDF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="המר את CDR ל-PDF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | CDR">}}
 קובץ CDR הוא קובץ תמונת ציור וקטור שנוצר באופן מקורי עם CorelDRAW לאחסון תמונה דיגיטלית מקודדת ודחוסה. קובץ ציור כזה מכיל טקסט, קווים, צורות, תמונות, צבעים ואפקטים לייצוג וקטור של תוכן התמונה. ניתן לפתוח קבצי CDR עם CorelDRAW כיישום הראשי וניתן להמיר אותם גם לפורמטים אחרים כגון PDF, JPG, PNG, BMP ו-AI. זה יכול לשמש לייצוג של נתונים גרפיים שונים כמו חוברות, צהובונים, מעטפות וגלויות. מלבד CorelDRAW, מוצרי Corel אחרים כגון Corel Paintshop Pro ו- CorelDRAW Graphics Suite יכולים גם הם לפתוח את תבניות הקובץ CDR.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | PDF">}}
 פורמט מסמכים ניידים (PDF) הוא סוג של מסמך שנוצר על ידי Adobe עוד בשנות ה-90. מטרת פורמט קובץ זה הייתה להציג תקן לייצוג של מסמכים וחומרי עזר אחרים בפורמט שאינו תלוי בתוכנת יישום, חומרה ומערכת הפעלה. לפורמט קובץ ה-PDF יש יכולת מלאה להכיל מידע כמו טקסט, תמונות, היפר-קישורים, שדות טופס, מדיה עשירה, חתימות דיגיטליות, קבצים מצורפים, מטא נתונים, תכונות גיאו-מרחביות ואובייקטים תלת-ממדיים, שיכולים להפוך לחלק ממסמך המקור.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

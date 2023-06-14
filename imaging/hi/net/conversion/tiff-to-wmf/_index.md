@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="TIFF को WMF में बदलें - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="TIFF को WMF में बदलने के लिए नि:शुल्‍क ऐप"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/TIFF-to-WMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="TIFF को WMF में बदलें - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | TIFF">}}
 TIFF या TIF, टैग की गई छवि फ़ाइल स्वरूप, रेखापुंज छवियों का प्रतिनिधित्व करता है जो इस फ़ाइल प्रारूप मानक का अनुपालन करने वाले विभिन्न उपकरणों पर उपयोग के लिए हैं। यह कई रंग स्थानों में द्विस्तरीय, ग्रेस्केल, पैलेट-रंग और पूर्ण-रंग छवि डेटा का वर्णन करने में सक्षम है। यह प्रारूप का उपयोग करने वाले अनुप्रयोगों के लिए स्थान और समय के बीच चयन करने के लिए हानिपूर्ण और साथ ही दोषरहित संपीड़न योजनाओं का समर्थन करता है। प्रारूप एक्स्टेंसिबल है और इसमें कई संशोधन हुए हैं जो असीमित मात्रा में निजी या विशेष प्रयोजन की जानकारी को शामिल करने की अनुमति देता है। प्रारूप मशीन पर निर्भर नहीं है और प्रोसेसर, ऑपरेटिंग सिस्टम या फाइल सिस्टम जैसी सीमाओं से मुक्त है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | WMF">}}
 WMF एक्सटेंशन वाली फाइलें वेक्टर के साथ-साथ बिटमैप-फॉर्मेट इमेज डेटा को स्टोर करने के लिए माइक्रोसॉफ्ट विंडोज मेटाफाइल (WMF) का प्रतिनिधित्व करती हैं। अधिक सटीक होने के लिए, WMF ग्राफ़िक्स फ़ाइल स्वरूपों की वेक्टर फ़ाइल स्वरूप श्रेणी से संबंधित है जो डिवाइस स्वतंत्र है। विंडोज ग्राफिकल डिवाइस इंटरफेस (जीडीआई) स्क्रीन पर एक छवि प्रदर्शित करने के लिए डब्लूएमएफ फाइल में संग्रहीत कार्यों का उपयोग करता है। WMF का एक अधिक उन्नत संस्करण, जिसे एन्हांस्ड मेटा फाइल्स (EMF) के रूप में जाना जाता है, बाद में प्रकाशित किया गया था जो प्रारूप को अधिक सुविधा संपन्न बनाता है। व्यावहारिक रूप से, WMF SVG के समान हैं।
         {{< /blocks/products/pf/agp/about-file-text >}}
 

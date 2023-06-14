@@ -75,16 +75,6 @@ description: Пример кода для преобразования JPEG в J
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Преобразование JPEG в JPEG2000 - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Бесплатное приложение для конвертации JPEG в JPEG2000"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Пример кода для преобразования JPEG в J
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ru/conversion/JPEG-to-JPEG2000)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Преобразование JPEG в JPEG2000 - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее | JPEG">}}
 JPEG — это тип формата изображения, который сохраняется с использованием метода сжатия с потерями. Выходное изображение в результате сжатия представляет собой компромисс между размером хранилища и качеством изображения. Пользователи могут настроить уровень сжатия для достижения желаемого уровня качества и в то же время уменьшить размер хранилища. Качество изображения незначительно ухудшается, если к изображению применяется сжатие 10:1. Чем выше значение сжатия, тем выше ухудшение качества изображения.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее | JPEG2000">}}
 JPEG 2000 (JP2) — это система кодирования изображений и современный стандарт сжатия изображений. Разработанный с использованием вейвлет-технологии JPEG 2000 может кодировать контент без потерь сразу в любом качестве. Более того, без существенного снижения эффективности кодирования, JPEG 2000 имеет возможность доступа и эффективного декодирования одного и того же контента во множество других разрешений и качеств. Потоки кода в JPEG 2000 значительно масштабируемы, имея интересующие области, которые обеспечивают возможность пространственного произвольного доступа. Обладая до 16384 различных компонентов с размерами в терапикселях и точностью, которая может достигать 38 бит/выборка.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

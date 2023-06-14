@@ -75,16 +75,6 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertuoti DNG į SVGZ – Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Nemokama programa konvertuoti DNG į SVGZ"
         appName="Conversion"
@@ -96,13 +86,21 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/lt/conversion/DNG-to-SVGZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertuoti DNG į SVGZ – Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau | DNG">}}
 DNG yra skaitmeninio fotoaparato vaizdo formatas, naudojamas neapdorotiems failams saugoti. Ją 2004 m. rugsėjo mėn. sukūrė „Adobe“. Iš esmės jis buvo sukurtas skaitmeninei fotografijai. DNG yra TIFF/EP standartinio formato plėtinys ir daug naudoja metaduomenis. Siekdami lengvai lanksčiai ir meniškai valdyti neapdorotus skaitmeninių fotoaparatų duomenis, fotografai pasirenka neapdorotus fotoaparato failus. JPEG ir TIFF formatuose saugomi fotoaparato apdorojami vaizdai, todėl tokiuose formatuose nėra daug vietos keisti.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau | SVGZ">}}
 Failas su plėtiniu .svgz yra suglaudinta Scalable Vector Graphics (.SVG) failo versija. Jis suglaudintas gzip glaudinimu ir jame yra duomenys XML formatu. SVGZ failai palaiko skaidrumą, gradientus, animaciją ir filtrus. SVGZ failai yra mažesni, palyginti su numatytaisiais SVG failais, ir šis sumažintas failo dydis padeda perkelti grafikos failus į internetą. Grafikos dizaineris kuria SVGZ failus naudodamas tokius įrankius kaip „Adobe Illustrator“, „Corel PaintShop Pro“ ir kt. Tačiau SVGZ failus galima sugeneruoti įjungus GZip glaudinimą „Apache“ serveryje, siunčiant vaizdo duomenis.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

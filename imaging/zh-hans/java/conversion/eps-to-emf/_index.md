@@ -76,16 +76,6 @@ description: EPS 到 EMF Java 转换的示例代码。在任何基于 Web 或桌
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="将 EPS 转换为 EMF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="将 EPS 转换为 EMF 的免费应用程序"
         appName="Conversion"
@@ -97,13 +87,21 @@ description: EPS 到 EMF Java 转换的示例代码。在任何基于 Web 或桌
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hans/conversion/EPS-to-EMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="将 EPS 转换为 EMF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | EPS">}}
 带有 EPS 扩展名的文件本质上描述了一个封装的 PostScript 语言程序，该程序描述了单个页面的外观。名称“封装”是因为它可以包含或封装在另一种 PostScript 语言页面描述中。这种基于脚本的文件格式可能包含文本、图形和图像的任意组合。 EPS 文件可能包含封装在内部的位图预览图像，以供可以打开此类文件的应用程序显示。可以使用不同的应用程序将 EPS 文件转换为标准图像格式，例如 JPG、PNG、TIFF 和 PDF。 Adobe Illustrator、Photoshop 和 PaintShop Pro。由于 EPS 文件中存在安全漏洞，Office 2016、Office 2013、Office 2010 和 Office 365 已关闭将 EPS 文件插入 Office 文档的功能。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | EMF">}}
 增强型元文件格式 (EMF) 独立于设备存储图形图像。 EMF 的元文件由按时间顺序排列的可变长度记录组成，可以在任何输出设备上解析后呈现存储的图像。这些可变长度记录可以是封闭对象的定义、绘图命令和对准确渲染图像至关重要的图形属性。当设备使用自己的图形环境打开 EMF 图元文件时，无论打开设备平台如何，原始图像的比例、尺寸、颜色和其他图形属性都保持不变。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

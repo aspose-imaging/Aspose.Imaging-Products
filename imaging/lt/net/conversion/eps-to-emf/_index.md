@@ -62,16 +62,6 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertuoti EPS į EMF – .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Nemokama programa konvertuoti EPS į EMF"
         appName="Conversion"
@@ -83,13 +73,21 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/lt/conversion/EPS-to-EMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertuoti EPS į EMF – .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau | EPS">}}
 Failai su EPS plėtiniu iš esmės apibūdina Encapsulated PostScript kalbos programą, kuri apibūdina vieno puslapio išvaizdą. Pavadinimas „Inkapsuliuotas“, nes jis gali būti įtrauktas arba įdėtas į kitą „PostScript“ kalbos puslapio aprašą. Šis scenarijus pagrįstas failo formatas gali turėti bet kokį teksto, grafikos ir vaizdų derinį. EPS failuose gali būti bitmap peržiūros vaizdas, įdėtas į vidų, kad būtų rodomas programos, galinčios atidaryti tokius failus. EPS failus galima konvertuoti į standartinius vaizdo formatus, tokius kaip JPG, PNG, TIFF ir PDF, naudojant įvairias programas, pvz. „Adobe Illustrator“, „Photoshop“ ir „PaintShop Pro“. Dėl EPS failų saugos pažeidžiamumo „Office 2016“, „Office 2013“, „Office 2010“ ir „Office 365“ išjungė galimybę įterpti EPS failus į „Office“ dokumentus.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau | EMF">}}
 Patobulintas metafailo formatas (EMF) išsaugo grafinius vaizdus nepriklausomai nuo įrenginio. EMF metafailus sudaro kintamo ilgio įrašai chronologine tvarka, kurie gali pateikti saugomą vaizdą, išanalizuoti bet kuriame išvesties įrenginyje. Šie kintamo ilgio įrašai gali būti uždarų objektų apibrėžimai, piešimo komandos ir grafinės savybės, būtinos norint tiksliai atvaizduoti vaizdą. Kai įrenginys atidaro EMF metafailą naudodamas savo grafinę aplinką, pradinio vaizdo proporcijos, matmenys, spalvos ir kitos grafinės savybės išlieka tos pačios, neatsižvelgiant į atidarymo įrenginio platformą.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

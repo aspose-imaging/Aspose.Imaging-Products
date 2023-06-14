@@ -75,16 +75,6 @@ WEBP को HTML में बदलने के लिए, हम उपयो
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="WEBP को HTML में बदलें - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="WEBP को HTML में बदलने के लिए नि:शुल्‍क ऐप"
         appName="Conversion"
@@ -96,13 +86,21 @@ WEBP को HTML में बदलने के लिए, हम उपयो
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/WEBP-to-HTML)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="WEBP को HTML में बदलें - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | WEBP">}}
 वेबपी, गूगल द्वारा पेश किया गया, एक आधुनिक रास्टर वेब छवि फ़ाइल स्वरूप है जो दोषरहित और हानिपूर्ण संपीड़न पर आधारित है। यह छवि आकार को काफी कम करते हुए समान छवि गुणवत्ता प्रदान करता है। चूंकि अधिकांश वेब पेज छवियों को डेटा के प्रभावी प्रतिनिधित्व के रूप में उपयोग करते हैं, वेब पेजों में वेबपी छवियों के उपयोग से वेब पेजों का तेजी से लोड होता है। Google के अनुसार, PNGs की तुलना में WebP दोषरहित छवियां आकार में 26% छोटी होती हैं, जबकि WebP हानिपूर्ण छवियां तुलनीय JPEG छवियों की तुलना में 25-34% छोटी होती हैं। छवियों की तुलना वेबपी और अन्य छवि फ़ाइल स्वरूपों के बीच संरचनात्मक समानता (एसएसआईएम) सूचकांक के आधार पर की जाती है। वेबपी वेबएम मल्टीमीडिया कंटेनर प्रारूप की एक सहयोगी परियोजना है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | HTML">}}
 HTML (हाइपर टेक्स्ट मार्कअप लैंग्वेज) ब्राउज़र में प्रदर्शन के लिए बनाए गए वेब पेजों का एक्सटेंशन है। वेब की भाषा के रूप में जाना जाता है, एचटीएमएल वेब पेजों के हिस्से के रूप में प्रदर्शित होने वाली नई सूचना आवश्यकताओं की आवश्यकताओं के साथ विकसित हुआ है। नवीनतम संस्करण को HTML 5 के रूप में जाना जाता है जो भाषा के साथ काम करने के लिए बहुत अधिक लचीलापन देता है। HTML पृष्ठ या तो सर्वर से प्राप्त होते हैं, जहां इन्हें होस्ट किया जाता है, या स्थानीय सिस्टम से भी लोड किया जा सकता है। प्रत्येक HTML पृष्ठ HTML तत्वों से बना होता है जैसे कि फॉर्म, टेक्स्ट, इमेज, एनिमेशन, लिंक आदि। इन तत्वों को टैग द्वारा दर्शाया जाता है जैसे कि img, a, p और कई अन्य जहां प्रत्येक टैग का प्रारंभ और अंत होता है। यह समग्र लेआउट प्रतिनिधित्व के लिए स्क्रिप्टिंग भाषाओं जैसे जावास्क्रिप्ट और स्टाइल शीट्स (सीएसएस) में लिखे गए अनुप्रयोगों को भी एम्बेड कर सकता है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 

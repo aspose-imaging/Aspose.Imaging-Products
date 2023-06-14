@@ -75,16 +75,6 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertuoti DICOM į DXF – Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Nemokama programa konvertuoti DICOM į DXF"
         appName="Conversion"
@@ -96,13 +86,21 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/lt/conversion/DICOM-to-DXF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertuoti DICOM į DXF – Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau | DICOM">}}
 DICOM yra skaitmeninio vaizdo gavimo ir ryšių medicinos akronimas ir yra susijęs su medicinos informatikos sritimi. DICOM yra failo formato apibrėžimo ir tinklo ryšio protokolo derinys. DICOM naudoja .DCM plėtinį. .DCM yra dviem skirtingais formatais, ty 1.x formatu ir 2.x formatu. DCM formatas 1.x taip pat galimas dviem versijomis: normalia ir išplėstine. DICOM naudojamas įvairių tiekėjų medicininiams vaizdo gavimo įrenginiams, pvz., spausdintuvams, serveriams, skaitytuvams ir tt, integruoti. Be to, jame yra kiekvieno paciento identifikavimo duomenys, siekiant unikalumo. DICOM failus galima dalytis tarp dviejų šalių, jei jos gali priimti vaizdo duomenis DICOM formatu. DICOM komunikacijos dalis yra taikomojo lygmens protokolas ir naudoja TCP/IP ryšį tarp objektų. DICOM žiniatinklio paslaugoms naudojami HTTP ir HTTPS protokolai. Žiniatinklio paslaugų palaikomos versijos yra 1.0, 1.1, 2 arba naujesnės.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau | DXF">}}
 DXF, Drawing Interchange Format arba Drawing Exchange Format, yra pažymėtas AutoCAD piešinio failo duomenų atvaizdas. Kiekvienas failo elementas turi sveikojo skaičiaus priešdėlį, vadinamą grupės kodu. Šis grupės kodas iš tikrųjų reiškia elementą, kuris seka ir nurodo duomenų elemento reikšmę tam tikram objekto tipui. DXF suteikia galimybę brėžinio faile pateikti beveik visą vartotojo nurodytą informaciją.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

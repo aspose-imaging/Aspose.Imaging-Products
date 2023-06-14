@@ -75,16 +75,6 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Převést JP2 na SVGZ – Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Bezplatná aplikace pro převod JP2 na SVGZ"
         appName="Conversion"
@@ -96,13 +86,21 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/JP2-to-SVGZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Převést JP2 na SVGZ – Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více | JP2">}}
 JPEG 2000 (JP2) je systém kódování obrazu a nejmodernější standard komprese obrazu. JPEG 2000 navržený pomocí waveletové technologie dokáže kódovat bezeztrátový obsah v jakékoli kvalitě najednou. Navíc, bez jakékoli podstatné penalizace v účinnosti kódování, JPEG 2000 má schopnost přistupovat ke stejnému obsahu a účinně jej dekódovat do řady dalších rozlišení a kvalit. Toky kódu v JPEG 2000 jsou výrazně škálovatelné a mají oblasti zájmu, které poskytují možnost prostorového náhodného přístupu. Obsahuje až 16 384 různých komponent s rozměry v terapixelech a přesností, která může dosahovat až 38 bitů/vzorek.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více | SVGZ">}}
 Soubor s příponou .svgz je komprimovaná verze souboru Scalable Vector Graphics (.SVG). Je komprimován kompresí gzip a obsahuje data ve formátu XML. Soubory SVGZ podporují průhlednost, přechody, animace a filtry. Soubory SVGZ jsou menší ve srovnání s výchozími soubory SVG a tato zmenšená velikost souboru pomáhá přenášet grafické soubory online. Grafický návrhář vytváří soubory SVGZ pomocí nástrojů jako Adobe Illustrator, Corel PaintShop Pro a další. Soubory SVGZ však lze generovat povolením komprese GZip na serveru Apache při odesílání obrazových dat.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

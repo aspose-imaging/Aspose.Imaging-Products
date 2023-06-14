@@ -64,16 +64,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="CDR을 GIF로 변환 - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="CDR을 GIF로 변환하는 무료 앱"
         appName="Conversion"
@@ -85,13 +75,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ko/conversion/CDR-to-GIF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="CDR을 GIF로 변환 - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | CDR">}}
 CDR 파일은 인코딩 및 압축된 디지털 이미지를 저장하기 위해 CorelDRAW로 기본 생성되는 벡터 드로잉 이미지 파일입니다. 이러한 도면 파일에는 이미지 내용의 벡터 표현을 위한 텍스트, 선, 모양, 이미지, 색상 및 효과가 포함됩니다. CDR 파일은 CorelDRAW를 기본 응용 프로그램으로 사용하여 열 수 있으며 PDF, JPG, PNG, BMP 및 AI와 같은 다른 형식으로 변환할 수도 있습니다. 브로셔, 타블로이드, 봉투, 엽서 등 다양한 그래픽 데이터의 표현에 사용할 수 있습니다. CorelDRAW 외에도 Corel Paintshop Pro 및 CorelDRAW Graphics 제품군과 같은 다른 Corel 제품도 CDR 파일 형식을 열 수 있습니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | GIF">}}
 GIF 또는 그래픽 교환 형식은 고도로 압축된 이미지 유형입니다. Unisys가 소유한 GIF는 이미지 품질을 저하시키지 않는 LZW 압축 알고리즘을 사용합니다. 각 이미지에 대해 GIF는 일반적으로 픽셀당 최대 8비트를 허용하고 이미지 전체에 최대 256가지 색상을 허용합니다. 최대 1600만 색상을 표시할 수 있고 인간의 눈의 한계에 상당히 닿는 JPEG 이미지와 대조적입니다. 인터넷이 등장했을 때 GIF는 낮은 대역폭이 필요하고 단색 영역을 소비하는 그래픽과 호환되기 때문에 최고의 선택으로 남아 있었습니다. 애니메이션 GIF는 수많은 이미지 또는 프레임을 단일 파일로 결합하고 이를 시퀀스로 표시하여 애니메이션 클립 또는 짧은 비디오를 생성합니다. 색상 제한은 각 프레임에 대해 최대 256개이며 색상 그라디언트가 있는 다른 이미지 및 사진을 재생하는 데 가장 적합하지 않을 수 있습니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

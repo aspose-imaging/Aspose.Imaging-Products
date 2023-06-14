@@ -75,16 +75,6 @@ description: DJVU 到 TGA Java 轉換的示例代碼。使用 API 示例代碼�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="將 DJVU 轉換為 TGA - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="將 DJVU 轉換為 TGA 的免費應用程序"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: DJVU 到 TGA Java 轉換的示例代碼。使用 API 示例代碼�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hant/conversion/DJVU-to-TGA)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="將 DJVU 轉換為 TGA - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | DJVU">}}
 DjVu，發音為 DJVU，是一種圖形文件格式，用於掃描文檔和書籍，尤其是包含文本、繪圖、圖像和照片組合的文檔和書籍。它是由 AT&T 實驗室開發的。它使用多種技術，例如文本和背景圖像的圖像層分離、漸進式加載、算術編碼和雙色調圖像的有損壓縮。由於 DJVU 文件可以包含壓縮但高質量的彩色圖像、照片、文本和繪圖，因此可以保存在更小的空間中，因此它在網絡上用作電子書、手冊、報紙、古代文件等。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | TGA">}}
 Truevision TGA，通常稱為 TARGA，是由 Truevision Inc.（現為 Avid Technology 的一部分）創建的光柵圖形文件格式。它是 TARGA 和 VISTA 板的原生格式，它們是 IBM 兼容 PC 上第一款支持高彩/真彩顯示的顯卡。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

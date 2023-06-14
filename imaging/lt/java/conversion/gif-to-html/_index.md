@@ -75,16 +75,6 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertuoti GIF į HTML – Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Nemokama programa konvertuoti GIF į HTML"
         appName="Conversion"
@@ -96,13 +86,21 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/lt/conversion/GIF-to-HTML)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertuoti GIF į HTML – Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau | GIF">}}
 GIF arba grafinis mainų formatas yra labai suspausto vaizdo tipas. „Unisys“ priklausantis GIF naudoja LZW glaudinimo algoritmą, kuris nepablogina vaizdo kokybės. Kiekvienam vaizdui GIF paprastai leidžia iki 8 bitų viename pikselyje ir iki 256 spalvų visame vaizde. Priešingai nei JPEG vaizdas, kuris gali rodyti iki 16 milijonų spalvų ir gana paliečia žmogaus akies ribas. Kai atsirado internetas, GIF išliko geriausiu pasirinkimu, nes jiems reikėjo mažo pralaidumo ir jie buvo suderinami su grafika, kuri naudoja vientisas spalvų sritis. Animacinis GIF sujungia daugybę vaizdų arba kadrų į vieną failą ir pateikia juos seka, kad būtų sukurtas animacinis klipas arba trumpas vaizdo įrašas. Spalvų apribojimai yra iki 256 kiekvienam kadrui ir greičiausiai bus mažiausiai tinkami kitiems vaizdams ir nuotraukoms su spalvų gradientu atkurti.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau | HTML">}}
 HTML (Hyper Text Markup Language) yra tinklalapių plėtinys, sukurtas rodyti naršyklėse. Žinomas kaip žiniatinklio kalba, HTML išsivystė atsižvelgiant į naujus informacijos reikalavimus, kurie turi būti rodomi kaip tinklalapių dalis. Naujausias variantas žinomas kaip HTML 5, suteikiantis daug lankstumo dirbant su kalba. HTML puslapiai gaunami iš serverio, kuriame jie yra talpinami, arba gali būti įkeliami ir iš vietinės sistemos. Kiekvienas HTML puslapis yra sudarytas iš HTML elementų, tokių kaip formos, tekstas, vaizdai, animacija, nuorodos ir tt Šie elementai vaizduojami tokiomis žymomis kaip img, a, p ir keletas kitų, kur kiekviena žyma turi pradžią ir pabaigą. Jis taip pat gali įterpti programas, parašytas skriptų kalbomis, pvz., JavaScript ir Style Sheets (CSS), kad būtų galima pateikti bendrą išdėstymą.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

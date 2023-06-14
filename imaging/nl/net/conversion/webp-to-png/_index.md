@@ -62,16 +62,6 @@ Voordat u de conversievoorbeeldcode uitvoert, moet u ervoor zorgen dat u aan de 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Converteer WEBP naar PNG - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Gratis app om WEBP naar PNG te converteren"
         appName="Conversion"
@@ -83,13 +73,21 @@ Voordat u de conversievoorbeeldcode uitvoert, moet u ervoor zorgen dat u aan de 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/nl/conversion/WEBP-to-PNG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Converteer WEBP naar PNG - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder | WEBP">}}
 WebP, geïntroduceerd door Google, is een modern rasterwebafbeeldingsbestandsformaat dat is gebaseerd op lossless en lossy compressie. Het biedt dezelfde beeldkwaliteit terwijl het beeldformaat aanzienlijk wordt verkleind. Aangezien de meeste webpagina's afbeeldingen gebruiken als effectieve weergave van gegevens, resulteert het gebruik van WebP-afbeeldingen in webpagina's in sneller laden van webpagina's. Volgens Google zijn WebP-afbeeldingen zonder verlies 26% kleiner in vergelijking met PNG's, terwijl WebP-afbeeldingen met verlies 25-34% kleiner zijn dan vergelijkbare JPEG-afbeeldingen. Afbeeldingen worden vergeleken op basis van de structurele gelijkenis (SSIM) -index tussen WebP en andere afbeeldingsbestandsindelingen. WebP is een zusterproject van het WebM multimedia containerformaat.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder | PNG">}}
 PNG, Portable Network Graphics, verwijst naar een type rasterafbeeldingsbestandsindeling die lossless compressie gebruikt. Dit bestandsformaat is gemaakt als vervanging van Graphics Interchange Format (GIF) en heeft geen copyrightbeperkingen. Het PNG-bestandsformaat ondersteunt echter geen animaties. Het PNG-bestandsformaat ondersteunt lossless beeldcompressie waardoor het populair is onder zijn gebruikers. Met het verstrijken van de tijd is PNG geëvolueerd als een van de meest gebruikte afbeeldingsbestandsindelingen. Bijna alle besturingssystemen hebben ondersteuning voor het openen van PNG-bestanden. Microsoft Windows-viewer heeft bijvoorbeeld de mogelijkheid om PNG-bestanden te openen, aangezien het besturingssysteem standaard de ondersteuning heeft die beschikbaar is als onderdeel van de installatie.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

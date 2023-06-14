@@ -75,16 +75,6 @@ description: Зразок коду для перетворення SVGZ у ICO J
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити SVGZ на ICO - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення SVGZ у ICO"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Зразок коду для перетворення SVGZ у ICO J
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/SVGZ-to-ICO)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити SVGZ на ICO - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | SVGZ">}}
 Файл із розширенням .svgz є стиснутою версією файлу масштабованої векторної графіки (.SVG). Він стискається за допомогою стиснення gzip і містить дані у форматі XML. Файли SVGZ підтримують прозорість, градієнти, анімацію та фільтри. Файли SVGZ мають менший розмір порівняно з файлами SVG за замовчуванням, і цей зменшений розмір файлу допомагає передавати графічні файли онлайн. Графічний дизайнер створює файли SVGZ за допомогою таких інструментів, як Adobe Illustrator, Corel PaintShop Pro та інших. Однак файли SVGZ можна створити, увімкнувши стиснення GZip на сервері Apache під час надсилання даних зображення.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | ICO">}}
 Формат файлу ICO — це формат файлу зображення для комп’ютерних значків у Microsoft Windows. Файли ICO містять одне або кілька невеликих зображень різних розмірів і глибини кольору, щоб їх можна було відповідно масштабувати. У Windows усі виконувані файли, які відображають піктограму для користувача на робочому столі, у меню «Пуск» або в Провіднику Windows, повинні мати піктограму у форматі ICO.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

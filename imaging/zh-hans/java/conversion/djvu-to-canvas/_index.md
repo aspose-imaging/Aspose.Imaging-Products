@@ -76,16 +76,6 @@ description: DJVU 到 CANVAS Java 转换的示例代码。在任何基于 Web �
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="将 DJVU 转换为 CANVAS - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="将 DJVU 转换为 CANVAS 的免费应用程序"
         appName="Conversion"
@@ -97,13 +87,21 @@ description: DJVU 到 CANVAS Java 转换的示例代码。在任何基于 Web �
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hans/conversion/DJVU-to-CANVAS)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="将 DJVU 转换为 CANVAS - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | DJVU">}}
 DjVu，发音为 DJVU ，是一种图形文件格式，用于扫描文档和书籍，尤其是包含文本、绘图、图像和照片组合的文档和书籍。它是由 AT&T 实验室开发的。它使用多种技术，例如文本和背景图像的图像层分离、渐进式加载、算术编码和双色调图像的有损压缩。由于 DJVU 文件可以包含压缩但高质量的彩色图像、照片、文本和绘图，因此可以保存在更小的空间中，因此它在网络上用作电子书、手册、报纸、古代文件等。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CANVAS" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CANVAS" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | CANVAS">}}
 HTML（超文本标记语言）是为在浏览器中显示而创建的网页的扩展。 HTML被称为网络语言，随着新信息要求的要求而发展，要求将其显示为网页的一部分。最新的变体被称为 HTML 5，它为使用该语言提供了很大的灵活性。 HTML 页面要么从托管这些页面的服务器接收，要么也可以从本地系统加载。每个 HTML 页面都由 HTML 元素组成，例如表单、文本、图像、动画、链接等。这些元素由诸如 img、a、p 和其他几个标签表示，其中每个标签都有开始和结束。它还可以嵌入以 JavaScript 和样式表 (CSS) 等脚本语言编写的应用程序，以实现整体布局表示。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

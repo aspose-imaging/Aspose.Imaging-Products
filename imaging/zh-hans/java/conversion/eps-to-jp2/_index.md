@@ -76,16 +76,6 @@ description: EPS 到 JP2 Java 转换的示例代码。在任何基于 Web 或桌
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="将 EPS 转换为 JP2 - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="将 EPS 转换为 JP2 的免费应用程序"
         appName="Conversion"
@@ -97,13 +87,21 @@ description: EPS 到 JP2 Java 转换的示例代码。在任何基于 Web 或桌
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hans/conversion/EPS-to-JP2)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="将 EPS 转换为 JP2 - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | EPS">}}
 带有 EPS 扩展名的文件本质上描述了一个封装的 PostScript 语言程序，该程序描述了单个页面的外观。名称“封装”是因为它可以包含或封装在另一种 PostScript 语言页面描述中。这种基于脚本的文件格式可能包含文本、图形和图像的任意组合。 EPS 文件可能包含封装在内部的位图预览图像，以供可以打开此类文件的应用程序显示。可以使用不同的应用程序将 EPS 文件转换为标准图像格式，例如 JPG、PNG、TIFF 和 PDF。 Adobe Illustrator、Photoshop 和 PaintShop Pro。由于 EPS 文件中存在安全漏洞，Office 2016、Office 2013、Office 2010 和 Office 365 已关闭将 EPS 文件插入 Office 文档的功能。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | JP2">}}
 JPEG 2000 (JP2) 是一种图像编码系统和最先进的图像压缩标准。设计，使用小波技术 JPEG 2000 可以一次编码任何质量的无损内容。此外，在编码效率没有任何实质性损失的情况下，JPEG 2000 能够有效地访问相同的内容并将其解码为各种其他分辨率和质量。 JPEG 2000 中的码流具有显着的可扩展性，具有为空间随机访问提供便利的感兴趣区域。拥有多达 16384 个不同的组件，尺寸以万亿像素为单位，精度可高达 38 位/样本。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

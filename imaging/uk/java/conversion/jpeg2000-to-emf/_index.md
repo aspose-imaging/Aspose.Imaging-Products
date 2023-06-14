@@ -75,16 +75,6 @@ description: Зразок коду для перетворення JPEG2000 у E
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити JPEG2000 на EMF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення JPEG2000 у EMF"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Зразок коду для перетворення JPEG2000 у E
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/JPEG2000-to-EMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити JPEG2000 на EMF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | JPEG2000">}}
 JPEG 2000 (JP2) — це система кодування зображень і сучасний стандарт стиснення зображень. Розроблений із використанням вейвлет-технології JPEG 2000 може кодувати вміст без втрат у будь-якій якості одночасно. Крім того, без суттєвого зниження ефективності кодування JPEG 2000 має можливість отримувати доступ і ефективно декодувати той самий вміст у різні інші роздільності та якості. Потоки коду в JPEG 2000 є значно масштабованими, маючи області інтересу, які забезпечують можливість просторового довільного доступу. Має до 16384 різноманітних компонентів із розмірами в терапікселях і точністю до 38 біт/зразок.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | EMF">}}
 Розширений формат метафайлів (EMF) зберігає графічні зображення незалежно від пристрою. Метафайли EMF складаються із записів змінної довжини в хронологічному порядку, які можуть відтворити збережене зображення після аналізу на будь-якому пристрої виводу. Ці записи змінної довжини можуть бути визначеннями закритих об’єктів, командами для малювання та властивостями графіки, критичними для точного відтворення зображення. Коли пристрій відкриває метафайл EMF за допомогою власного графічного середовища, пропорції, розміри, кольори та інші графічні властивості оригінального зображення залишаються незмінними незалежно від платформи пристрою, що відкривається.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

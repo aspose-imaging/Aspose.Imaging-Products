@@ -75,16 +75,6 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertuoti TIFF į APNG – Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Nemokama programa konvertuoti TIFF į APNG"
         appName="Conversion"
@@ -96,13 +86,21 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/lt/conversion/TIFF-to-APNG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertuoti TIFF į APNG – Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau | TIFF">}}
 TIFF arba TIF, Tagged Image File Format, reiškia rastrinius vaizdus, ​​kurie yra skirti naudoti įvairiuose įrenginiuose, kurie atitinka šį failo formato standartą. Jis gali apibūdinti dviejų lygių, pilkų tonų, paletės spalvų ir pilnų spalvų vaizdo duomenis keliose spalvų erdvėse. Jis palaiko nuostolingo ir be nuostolių glaudinimo schemas, kad būtų galima pasirinkti tarp vietos ir laiko programoms, naudojančioms formatą. Formatas yra išplečiamas ir buvo keletą kartų peržiūrėtas, todėl galima įtraukti neribotą kiekį privačios ar specialios paskirties informacijos. Formatas nepriklauso nuo įrenginio ir nėra ribojamas, pvz., procesoriaus, operacinės sistemos ar failų sistemų.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau | APNG">}}
 Failas su plėtiniu .apng (Animated Portable Network Graphics) yra rastrinis grafinis formatas ir yra neoficialus nešiojamojo tinklo grafikos (PNG) plėtinys. Jį sudaro keli kadrai (kiekvienas PNG vaizdas), vaizduojantis animacijos seką. Tai suteikia panašią vizualizaciją kaip GIF failas. APNG failai palaiko 24 bitų vaizdus ir 8 bitų skaidrumą. APNG yra suderinamas su neanimuotais GIF failais. APNG failuose naudojamas tas pats .png plėtinys ir juos gali atidaryti tokios programos kaip „Mozilla Firefox“, „Chrome“ su APNG palaikymu, „iMessage“ programos, skirtos „iOS 10“.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

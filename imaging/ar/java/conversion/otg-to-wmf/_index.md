@@ -75,16 +75,6 @@ description: نموذج رمز لـ OTG إلى WMF تحويل Java. استخدم
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="تحويل OTG إلى WMF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="تطبيق مجاني لتحويل OTG إلى WMF"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: نموذج رمز لـ OTG إلى WMF تحويل Java. استخدم
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/OTG-to-WMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="تحويل OTG إلى WMF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | OTG">}}
 ملف OTG هو قالب رسم تم إنشاؤه باستخدام معيار OpenDocument الذي يتبع مواصفات OASIS Office Applications 1.0. إنه يمثل التنظيم الافتراضي لعناصر الرسم لصورة متجهة يمكن استخدامها لزيادة تحسين محتويات الملف.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | WMF">}}
 تمثل الملفات ذات الامتداد WMF Microsoft Windows Metafile (WMF) لتخزين بيانات الصور المتجهة وكذلك الصور النقطية. لكي تكون أكثر دقة ، تنتمي WMF إلى فئة تنسيق ملف متجه لتنسيقات ملفات الرسومات المستقلة عن الجهاز. تستخدم واجهة جهاز Windows الرسومية (GDI) الوظائف المخزنة في ملف WMF لعرض صورة على الشاشة. تم نشر إصدار محسن أكثر من WMF ، والمعروف باسم Enhanced Meta Files (EMF) ، في وقت لاحق مما يجعل التنسيق أكثر ثراءً بالميزات. من الناحية العملية ، تشبه WMF SVG.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

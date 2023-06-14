@@ -75,16 +75,6 @@ Avant d'exécuter l'exemple de code de conversion, assurez-vous que vous dispose
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convertir ICO en EMF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Application gratuite pour convertir ICO en EMF"
         appName="Conversion"
@@ -96,13 +86,21 @@ Avant d'exécuter l'exemple de code de conversion, assurez-vous que vous dispose
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/fr/conversion/ICO-to-EMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Convertir ICO en EMF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite | ICO">}}
 Le format de fichier ICO est un format de fichier image pour les icônes d'ordinateur dans Microsoft Windows. Les fichiers ICO contiennent une ou plusieurs petites images à plusieurs tailles et profondeurs de couleur, de sorte qu'elles peuvent être mises à l'échelle de manière appropriée. Sous Windows, tous les exécutables qui affichent une icône à l'utilisateur, sur le bureau, dans le menu Démarrer ou dans l'Explorateur Windows, doivent porter l'icône au format ICO.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite | EMF">}}
 Le format de métafichier amélioré (EMF) stocke les images graphiques indépendamment du périphérique. Les métafichiers d'EMF comprennent des enregistrements de longueur variable dans l'ordre chronologique qui peuvent restituer l'image stockée après analyse sur n'importe quel périphérique de sortie. Ces enregistrements de longueur variable peuvent être des définitions d'objets fermés, des commandes de dessin et des propriétés graphiques essentielles pour restituer l'image avec précision. Lorsqu'un appareil ouvre un métafichier EMF à l'aide de son propre environnement graphique, les proportions, dimensions, couleurs et autres propriétés graphiques de l'image d'origine restent les mêmes quelle que soit la plate-forme de l'appareil d'ouverture.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

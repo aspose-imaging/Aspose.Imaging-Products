@@ -75,16 +75,6 @@ description: Зразок коду для перетворення DIB у EMZ Ja
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити DIB на EMZ - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення DIB у EMZ"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Зразок коду для перетворення DIB у EMZ Ja
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DIB-to-EMZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити DIB на EMZ - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | DIB">}}
 Файл DIB (Device Independent Bitmap) — це файл растрового зображення, подібний за структурою до стандартних файлів Bitmap (BMP), але має інший заголовок. Його можна відкрити майже за допомогою всіх програм, які можуть відкрити стандартний файл BMP у Windows, а також у macOS. DIB є двійковими файлами та мають складний формат файлів, подібний до BMP.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | EMZ">}}
 Файл із розширенням EMZ — це файл стисненого зображення, який більш конкретно називається Windows Compressed Enhanced Metafile
         {{< /blocks/products/pf/agp/about-file-text >}}
 

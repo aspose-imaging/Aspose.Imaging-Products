@@ -75,16 +75,6 @@ Avant d'exécuter l'exemple de code de conversion, assurez-vous que vous dispose
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convertir JPEG2000 en CANVAS - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Application gratuite pour convertir JPEG2000 en CANVAS"
         appName="Conversion"
@@ -96,13 +86,21 @@ Avant d'exécuter l'exemple de code de conversion, assurez-vous que vous dispose
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/fr/conversion/JPEG2000-to-CANVAS)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Convertir JPEG2000 en CANVAS - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite | JPEG2000">}}
 JPEG 2000 (JP2) est un système de codage d'image et une norme de compression d'image de pointe. Conçu en utilisant la technologie des ondelettes JPEG 2000 peut coder du contenu sans perte dans n'importe quelle qualité à la fois. De plus, sans aucune pénalité substantielle dans l'efficacité du codage, JPEG 2000 a la capacité d'accéder et de décoder efficacement le même contenu dans une variété d'autres résolutions et qualités. Les flux de code dans JPEG 2000 sont considérablement évolutifs, ayant des régions d'intérêt qui fournissent la possibilité d'un accès spatial aléatoire. Possédant jusqu'à 16384 composants divers avec des dimensions en térapixels, et une précision pouvant atteindre 38 bits/échantillon.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CANVAS" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CANVAS" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite | CANVAS">}}
 HTML (Hyper Text Markup Language) est l'extension des pages Web créées pour être affichées dans les navigateurs. Connu sous le nom de langage du Web, HTML a évolué avec les exigences de nouvelles exigences d'information à afficher dans le cadre des pages Web. La dernière variante est connue sous le nom de HTML 5 qui offre une grande flexibilité pour travailler avec le langage. Les pages HTML sont soit reçues du serveur, où elles sont hébergées, soit peuvent également être chargées à partir du système local. Chaque page HTML est composée d'éléments HTML tels que des formulaires, du texte, des images, des animations, des liens, etc. Ces éléments sont représentés par des balises telles que img, a, p et plusieurs autres où chaque balise a un début et une fin. Il peut également intégrer des applications écrites dans des langages de script tels que JavaScript et les feuilles de style (CSS) pour la représentation globale de la mise en page.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

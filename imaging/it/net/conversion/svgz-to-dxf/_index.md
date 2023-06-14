@@ -64,16 +64,6 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Converti SVGZ in DXF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="App gratuita per convertire SVGZ in DXF"
         appName="Conversion"
@@ -85,13 +75,21 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/it/conversion/SVGZ-to-DXF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Converti SVGZ in DXF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più | SVGZ">}}
 Un file con estensione .svgz è una versione compressa del file Scalable Vector Graphics (.SVG). È compresso con compressione gzip e contiene dati in formato XML. I file SVGZ supportano trasparenza, gradienti, animazioni e filtri. I file SVGZ sono di dimensioni inferiori rispetto ai file SVG predefiniti e questa dimensione ridotta del file aiuta a trasferire i file grafici online. Il designer grafico crea file SVGZ utilizzando strumenti come Adobe Illustrator, Corel PaintShop Pro e altri. Tuttavia, i file SVGZ possono essere generati abilitando la compressione GZip nel server Apache durante l'invio dei dati dell'immagine.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più | DXF">}}
 DXF, Drawing Interchange Format, o Drawing Exchange Format, è una rappresentazione di dati con tag del file di disegno di AutoCAD. Ogni elemento nel file ha un numero intero di prefisso chiamato codice di gruppo. Questo codice di gruppo rappresenta effettivamente l'elemento che segue e indica il significato di un elemento di dati per un determinato tipo di oggetto. DXF consente di rappresentare quasi tutte le informazioni specificate dall'utente in un file di disegno.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

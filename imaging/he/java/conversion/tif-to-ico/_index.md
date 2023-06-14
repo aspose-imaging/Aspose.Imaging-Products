@@ -75,16 +75,6 @@ description: קוד לדוגמה עבור המרת Java מ-TIF ל-ICO. השתמ�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="המר את TIF ל-ICO - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="אפליקציה חינמית להמרת TIF ל-ICO"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: קוד לדוגמה עבור המרת Java מ-TIF ל-ICO. השתמ�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/TIF-to-ICO)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="המר את TIF ל-ICO - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIF" readMoreLink="https://docs.fileformat.com/image/tif/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIF" readMoreLink="https://docs.fileformat.com/image/tif/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | TIF">}}
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | ICO">}}
 פורמט קובץ ICO הוא פורמט קובץ תמונה עבור סמלי מחשב ב-Microsoft Windows. קובצי ICO מכילים תמונה קטנה אחת או יותר בגדלים ובעומקי צבע מרובים, כך שניתן לשנות את קנה המידה שלהם כראוי. ב-Windows, כל קובצי ההפעלה שמציגים סמל למשתמש, בשולחן העבודה, בתפריט התחל או בסייר Windows, חייבים לשאת את הסמל בפורמט ICO.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

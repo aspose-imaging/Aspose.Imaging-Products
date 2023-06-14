@@ -75,16 +75,6 @@ J2K को JPG में बदलने के लिए, हम उपयो�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="J2K को JPG में बदलें - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="J2K को JPG में बदलने के लिए नि:शुल्‍क ऐप"
         appName="Conversion"
@@ -96,13 +86,21 @@ J2K को JPG में बदलने के लिए, हम उपयो�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/J2K-to-JPG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="J2K को JPG में बदलें - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | J2K">}}
 J2K फ़ाइल एक ऐसी छवि है जिसे DCT संपीड़न के बजाय तरंगिका संपीड़न का उपयोग करके संपीड़ित किया जाता है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | JPG">}}
 JPEG एक प्रकार का छवि प्रारूप है जिसे हानिपूर्ण संपीड़न की विधि का उपयोग करके सहेजा जाता है। संपीड़न के परिणामस्वरूप आउटपुट छवि, भंडारण आकार और छवि गुणवत्ता के बीच एक व्यापार-बंद है। उपयोगकर्ता वांछित गुणवत्ता स्तर प्राप्त करने के लिए संपीड़न स्तर को समायोजित कर सकते हैं जबकि साथ ही भंडारण आकार को कम कर सकते हैं। यदि छवि पर 10:1 संपीड़न लागू किया जाता है, तो छवि गुणवत्ता नगण्य रूप से प्रभावित होती है। संपीड़न मूल्य जितना अधिक होगा, छवि गुणवत्ता में गिरावट उतनी ही अधिक होगी।
         {{< /blocks/products/pf/agp/about-file-text >}}
 

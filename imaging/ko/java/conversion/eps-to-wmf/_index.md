@@ -75,16 +75,6 @@ EPS을 WMF로 변환하려면 다음을 사용합니다. [자바용 Aspose.Imagi
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="EPS을 WMF로 변환 - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="EPS을 WMF로 변환하는 무료 앱"
         appName="Conversion"
@@ -96,13 +86,21 @@ EPS을 WMF로 변환하려면 다음을 사용합니다. [자바용 Aspose.Imagi
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ko/conversion/EPS-to-WMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="EPS을 WMF로 변환 - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | EPS">}}
 EPS 확장자가 있는 파일은 기본적으로 단일 페이지의 모양을 설명하는 캡슐화된 포스트스크립트 언어 프로그램을 설명합니다.  Encapsulated 라는 이름은 다른 PostScript 언어 페이지 설명에 포함되거나 캡슐화될 수 있기 때문입니다. 이 스크립트 기반 파일 형식은 텍스트, 그래픽 및 이미지의 조합을 포함할 수 있습니다. EPS 파일에는 이러한 파일을 열 수 있는 응용 프로그램에서 표시할 수 있도록 내부에 캡슐화된 비트맵 미리 보기 이미지가 포함될 수 있습니다. EPS 파일은 다른 응용 프로그램을 사용하여 JPG, PNG, TIFF 및 PDF와 같은 표준 이미지 형식으로 변환할 수 있습니다. Adobe Illustrator, Photoshop 및 PaintShop Pro. EPS 파일의 보안 취약점으로 인해 Office 2016, Office 2013, Office 2010 및 Office 365는 EPS 파일을 Office 문서에 삽입하는 기능을 해제했습니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | WMF">}}
 WMF 확장자를 가진 파일은 벡터 및 비트맵 형식 이미지 데이터를 저장하기 위한 Microsoft WMF(Windows 메타파일)를 나타냅니다. 더 정확하게 말하면 WMF는 장치 독립적인 그래픽 파일 형식의 벡터 파일 형식 범주에 속합니다. Windows GDI(그래픽 장치 인터페이스)는 WMF 파일에 저장된 기능을 사용하여 화면에 이미지를 표시합니다. EMF(Enhanced Meta Files)로 알려진 보다 향상된 WMF 버전이 나중에 게시되어 형식을 더욱 풍부하게 만들었습니다. 실제로 WMF는 SVG와 유사합니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

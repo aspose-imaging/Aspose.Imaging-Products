@@ -75,16 +75,6 @@ CDRをTGAに変換するには、 [Aspose.Imaging for Java](https://products.asp
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="CDRをTGAに変換します-Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="CDRをTGAに変換する無料アプリ"
         appName="Conversion"
@@ -96,13 +86,21 @@ CDRをTGAに変換するには、 [Aspose.Imaging for Java](https://products.asp
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ja/conversion/CDR-to-TGA)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="CDRをTGAに変換します-Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | CDR">}}
 CDRファイルは、エンコードおよび圧縮されたデジタル画像を保存するためにCorelDRAWでネイティブに作成されたベクター描画画像ファイルです。このような描画ファイルには、画像コンテンツのベクトル表現のためのテキスト、線、形状、画像、色、および効果が含まれています。 CDRファイルは、CorelDRAWをプライマリアプリケーションとして使用して開くことができ、PDF、JPG、PNG、BMP、AIなどの他の形式に変換することもできます。パンフレット、タブロイド紙、封筒、はがきなどのさまざまなグラフィックデータの表現に使用できます。 CorelDRAWに加えて、Corel PaintshopProやCorelDRAWGraphicsスイートなどの他のCorel製品もCDRファイル形式を開くことができます。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | TGA">}}
 Truevision TGAは、TARGAとも呼ばれ、Truevision Inc.（現在はAvid Technologyの一部）によって作成されたラスターグラフィックファイル形式です。これは、ハイカラー/トゥルーカラー表示をサポートするIBM互換PC用の最初のグラフィックカードであるTARGAおよびVISTAボードのネイティブフォーマットでした。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

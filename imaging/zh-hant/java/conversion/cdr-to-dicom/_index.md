@@ -75,16 +75,6 @@ description: CDR 到 DICOM Java 轉換的示例代碼。使用 API 示例代碼�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="將 CDR 轉換為 DICOM - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="將 CDR 轉換為 DICOM 的免費應用程序"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: CDR 到 DICOM Java 轉換的示例代碼。使用 API 示例代碼�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hant/conversion/CDR-to-DICOM)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="將 CDR 轉換為 DICOM - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | CDR">}}
 CDR 文件是使用 CorelDRAW 本地創建的矢量繪圖圖像文件，用於存儲編碼和壓縮的數字圖像。這樣的繪圖文件包含文本、線條、形狀、圖像、顏色和效果，用於圖像內容的矢量表示。 CDR 文件可以使用 CorelDRAW 作為主要應用程序打開，也可以轉換為其他格式，例如 PDF、JPG、PNG、BMP 和 AI。它可用於表示各種圖形數據，如小冊子、小報、信封和明信片。除了 CorelDRAW，Corel Paintshop Pro 和 CorelDRAW Graphics Suite 等其他 Corel 產品也可以打開 CDR 文件格式。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | DICOM">}}
 DICOM 是 Digital Imaging and Communications in Medicine 的首字母縮寫詞，屬於醫學信息學領域。 DICOM 是文件格式定義和網絡通信協議的結合。 DICOM 使用 .DCM 擴展名。 .DCM 以兩種不同的格式存在，即格式 1.x 和格式 2.x。 DCM Format 1.x 還提供兩個普通版本和擴展版本。 DICOM 用於集成來自不同供應商的打印機、服務器、掃描儀等醫療成像設備，還包含每個患者的唯一識別數據。如果 DICOM 文件能夠接收 DICOM 格式的圖像數據，則它們可以在兩方之間共享。 DICOM的通信部分是應用層協議，實體之間使用TCP/IP進行通信。 HTTP 和 HTTPS 協議用於 DICOM 的 Web 服務。 Web 服務支持的版本是 1.0、1.1、2 或更高版本。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

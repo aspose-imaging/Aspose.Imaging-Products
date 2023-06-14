@@ -62,16 +62,6 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertuoti DJVU į PSD – .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Nemokama programa konvertuoti DJVU į PSD"
         appName="Conversion"
@@ -83,13 +73,21 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/lt/conversion/DJVU-to-PSD)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertuoti DJVU į PSD – .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau | DJVU">}}
 DjVu, tariamas kaip DJVU, yra grafinis failo formatas, skirtas nuskaitytiems dokumentams ir knygoms, ypač tiems, kuriuose yra teksto, piešinių, vaizdų ir nuotraukų derinys. Jį sukūrė AT&T Labs. Jame naudojami keli būdai, pvz., teksto ir fono vaizdų atskyrimas vaizdo sluoksniais, laipsniškas įkėlimas, aritmetinis kodavimas ir nuostolingas bitoninių vaizdų glaudinimas. Kadangi DJVU faile gali būti suspaustų, tačiau aukštos kokybės spalvotų vaizdų, nuotraukų, teksto ir piešinių, todėl jį galima išsaugoti mažiau vietos, jis naudojamas žiniatinklyje kaip el. knygos, žinynai, laikraščiai, senoviniai dokumentai ir kt.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau | PSD">}}
 PSD, „Photoshop“ dokumentas, yra „Adobe Photoshop“ vietinis failo formatas, naudojamas grafikos projektavimui ir plėtrai. PSD failuose gali būti vaizdo sluoksnių, reguliavimo sluoksnių, sluoksnių kaukių, komentarų, failo informacijos, raktinių žodžių ir kitų „Photoshop“ būdingų elementų.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

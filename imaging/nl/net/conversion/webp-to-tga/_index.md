@@ -62,16 +62,6 @@ Voordat u de conversievoorbeeldcode uitvoert, moet u ervoor zorgen dat u aan de 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Converteer WEBP naar TGA - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Gratis app om WEBP naar TGA te converteren"
         appName="Conversion"
@@ -83,13 +73,21 @@ Voordat u de conversievoorbeeldcode uitvoert, moet u ervoor zorgen dat u aan de 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/nl/conversion/WEBP-to-TGA)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Converteer WEBP naar TGA - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder | WEBP">}}
 WebP, geïntroduceerd door Google, is een modern rasterwebafbeeldingsbestandsformaat dat is gebaseerd op lossless en lossy compressie. Het biedt dezelfde beeldkwaliteit terwijl het beeldformaat aanzienlijk wordt verkleind. Aangezien de meeste webpagina's afbeeldingen gebruiken als effectieve weergave van gegevens, resulteert het gebruik van WebP-afbeeldingen in webpagina's in sneller laden van webpagina's. Volgens Google zijn WebP-afbeeldingen zonder verlies 26% kleiner in vergelijking met PNG's, terwijl WebP-afbeeldingen met verlies 25-34% kleiner zijn dan vergelijkbare JPEG-afbeeldingen. Afbeeldingen worden vergeleken op basis van de structurele gelijkenis (SSIM) -index tussen WebP en andere afbeeldingsbestandsindelingen. WebP is een zusterproject van het WebM multimedia containerformaat.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder | TGA">}}
 Truevision TGA, vaak TARGA genoemd, is een bestandsindeling voor rasterafbeeldingen die is gemaakt door Truevision Inc. (nu onderdeel van Avid Technology). Het was het oorspronkelijke formaat van TARGA- en VISTA-kaarten, de eerste grafische kaarten voor IBM-compatibele pc's die Highcolor/truecolor-weergave ondersteunen.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

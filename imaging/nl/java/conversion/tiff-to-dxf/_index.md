@@ -75,16 +75,6 @@ Voordat u de conversievoorbeeldcode uitvoert, moet u ervoor zorgen dat u aan de 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Converteer TIFF naar DXF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Gratis app om TIFF naar DXF te converteren"
         appName="Conversion"
@@ -96,13 +86,21 @@ Voordat u de conversievoorbeeldcode uitvoert, moet u ervoor zorgen dat u aan de 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/nl/conversion/TIFF-to-DXF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Converteer TIFF naar DXF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder | TIFF">}}
 TIFF of TIF, Tagged Image File Format, staat voor rasterafbeeldingen die bedoeld zijn voor gebruik op verschillende apparaten die voldoen aan deze standaard voor bestandsindelingen. Het is in staat om bilevel-, grijswaarden-, paletkleur- en full-color afbeeldingsgegevens in verschillende kleurruimten te beschrijven. Het ondersteunt zowel lossy als lossless compressieschema's om te kiezen tussen ruimte en tijd voor toepassingen die het formaat gebruiken. Het formaat is uitbreidbaar en heeft verschillende revisies ondergaan waardoor een onbeperkte hoeveelheid persoonlijke of speciale informatie kan worden opgenomen. Het formaat is niet machine-afhankelijk en is vrij van beperkingen zoals processor, besturingssysteem of bestandssystemen.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder | DXF">}}
 DXF, Drawing Interchange Format, of Drawing Exchange Format, is een gelabelde gegevensweergave van een AutoCAD-tekeningbestand. Elk element in het bestand heeft een prefix geheel getal dat een groepscode wordt genoemd. Deze groepscode vertegenwoordigt eigenlijk het element dat volgt en geeft de betekenis aan van een data-element voor een bepaald objecttype. DXF maakt het mogelijk om bijna alle door de gebruiker gespecificeerde informatie in een tekeningbestand weer te geven.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

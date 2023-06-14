@@ -75,16 +75,6 @@ JPEG2000을 SVGZ로 변환하려면 다음을 사용합니다. [자바용 Aspose
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="JPEG2000을 SVGZ로 변환 - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="JPEG2000을 SVGZ로 변환하는 무료 앱"
         appName="Conversion"
@@ -96,13 +86,21 @@ JPEG2000을 SVGZ로 변환하려면 다음을 사용합니다. [자바용 Aspose
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ko/conversion/JPEG2000-to-SVGZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="JPEG2000을 SVGZ로 변환 - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | JPEG2000">}}
 JPEG 2000(JP2)은 이미지 코딩 시스템이자 최첨단 이미지 압축 표준입니다. 웨이블릿 기술을 사용하여 설계된 JPEG 2000은 한 번에 모든 품질의 무손실 콘텐츠를 코딩할 수 있습니다. 게다가 JPEG 2000은 코딩 효율성에 있어 실질적인 불이익 없이 동일한 콘텐츠에 액세스하고 다양한 다른 해상도와 품질로 효과적으로 디코딩할 수 있는 기능을 가지고 있습니다. JPEG 2000의 코드 스트림은 공간 랜덤 액세스를 위한 기능을 제공하는 관심 영역을 갖도록 확장할 수 있습니다. 최대 16384개의 다양한 구성 요소를 테라픽셀 단위의 치수와 38비트/샘플의 정밀도까지 보유합니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | SVGZ">}}
 확장자가 .svgz인 파일은 .SVG(Scalable Vector Graphics) 파일의 압축 버전입니다. gzip 압축으로 압축되며 XML 형식의 데이터를 포함합니다. SVGZ 파일은 투명도, 그라디언트, 애니메이션 및 필터를 지원합니다. SVGZ 파일은 기본 SVG 파일에 비해 크기가 더 작으며 이 축소된 파일 크기는 그래픽 파일을 온라인으로 전송하는 데 도움이 됩니다. 그래픽 디자이너는 Adobe Illustrator, Corel PaintShop Pro 등과 같은 도구를 사용하여 SVGZ 파일을 만듭니다. 그러나 SVGZ 파일은 이미지 데이터를 보내는 동안 Apache Server에서 GZip 압축을 활성화하여 생성할 수 있습니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

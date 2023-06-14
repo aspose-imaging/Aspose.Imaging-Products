@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="המר את BMP ל-HTML - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="אפליקציה חינמית להמרת BMP ל-HTML"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/BMP-to-HTML)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="המר את BMP ל-HTML - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | BMP">}}
 קבצים בעלי סיומת .BMP מייצגים קובצי Bitmap Image המשמשים לאחסון תמונות דיגיטליות של Bitmap. תמונות אלו אינן תלויות במתאם הגרפי והן נקראות גם פורמט קובץ מפת סיביות עצמאית של מכשירים (DIB). עצמאות זו משרתת את המטרה של פתיחת הקובץ בפלטפורמות מרובות כגון Microsoft Windows ו-Mac. פורמט הקובץ BMP יכול לאחסן נתונים כתמונות דיגיטליות דו מימדיות בפורמט מונוכרום וגם בפורמט צבעוני עם עומקי צבע שונים.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | HTML">}}
 HTML (Hyper Text Markup Language) היא התוסף לדפי אינטרנט שנוצרו לתצוגה בדפדפנים. HTML, הידועה כשפת האינטרנט, התפתחה עם דרישות מידע חדשות שיוצגו כחלק מדפי אינטרנט. הגרסה האחרונה ידועה בשם HTML 5 המעניקה גמישות רבה לעבודה עם השפה. דפי HTML מתקבלים מהשרת, שבו הם מתארחים, או שניתן לטעון אותם גם מהמערכת המקומית. כל דף HTML מורכב מאלמנטים של HTML כגון טפסים, טקסט, תמונות, אנימציות, קישורים וכו'. אלמנטים אלו מיוצגים על ידי תגיות כגון img, a, p ועוד כמה אחרים כאשר לכל תג יש התחלה וסוף. זה יכול גם להטמיע יישומים שנכתבו בשפות סקריפטים כגון JavaScript ו- Style Sheets (CSS) לייצוג פריסה כולל.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

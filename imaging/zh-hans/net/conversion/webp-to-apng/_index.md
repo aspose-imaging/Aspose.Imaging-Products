@@ -62,16 +62,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="将 WEBP 转换为 APNG - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="将 WEBP 转换为 APNG 的免费应用程序"
         appName="Conversion"
@@ -83,13 +73,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hans/conversion/WEBP-to-APNG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="将 WEBP 转换为 APNG - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | WEBP">}}
 WebP 是 Google 推出的一种现代光栅 Web 图像文件格式，它基于无损和有损压缩。它提供相同的图像质量，同时大大减小了图像尺寸。由于大多数网页使用图像作为数据的有效表示，因此在网页中使用 WebP 图像会导致网页加载速度更快。根据谷歌的说法，WebP 无损图像的大小比 PNG 小 26%，而 WebP 有损图像比同类 JPEG 图像小 25-34%。基于 WebP 和其他图像文件格式之间的结构相似性 (SSIM) 索引比较图像。 WebP 是 WebM 多媒体容器格式的姊妹项目。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | APNG">}}
 具有 .apng（动画便携式网络图形）扩展名的文件是一种光栅图形格式，是便携式网络图形 (PNG) 的非官方扩展名。它由表示动画序列的多个帧（每个 PNG 图像）组成。这提供了与 GIF 文件类似的可视化效果。 APNG 文件支持 24 位图像和 8 位透明度。 APNG 向后兼容非动画 GIF 文件。 APNG 文件使用相同的 .png 扩展名，可以由 Mozilla Firefox、支持 APNG 的 Chrome、iOS 10 的 iMessage 应用程序等应用程序打开。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

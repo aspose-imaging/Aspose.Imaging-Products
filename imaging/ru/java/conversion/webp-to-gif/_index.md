@@ -75,16 +75,6 @@ description: Пример кода для преобразования WEBP в G
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Преобразование WEBP в GIF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Бесплатное приложение для конвертации WEBP в GIF"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Пример кода для преобразования WEBP в G
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ru/conversion/WEBP-to-GIF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Преобразование WEBP в GIF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее | WEBP">}}
 WebP, представленный Google, представляет собой современный формат файлов растровых веб-изображений, основанный на сжатии без потерь и с потерями. Он обеспечивает такое же качество изображения при значительном уменьшении размера изображения. Поскольку большинство веб-страниц используют изображения в качестве эффективного представления данных, использование изображений WebP на веб-страницах приводит к более быстрой загрузке веб-страниц. По данным Google, изображения WebP без потерь на 26% меньше по размеру по сравнению с PNG, а изображения WebP с потерями на 25-34% меньше, чем сопоставимые изображения JPEG. Изображения сравниваются на основе индекса структурного сходства (SSIM) между WebP и другими форматами файлов изображений. WebP — это родственный проект формата мультимедийных контейнеров WebM.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее | GIF">}}
 Формат GIF или Graphical Interchange Format представляет собой тип сильно сжатого изображения. Принадлежащий Unisys, GIF использует алгоритм сжатия LZW, который не ухудшает качество изображения. Для каждого изображения в формате GIF обычно допускается до 8 бит на пиксель, а в изображении допускается до 256 цветов. В отличие от изображения в формате JPEG, которое может отображать до 16 миллионов цветов и довольно далеко выходит за пределы возможностей человеческого глаза. Когда появился Интернет, GIF-файлы оставались лучшим выбором, потому что они требовали низкой пропускной способности и были совместимы с графикой, которая использует сплошные области цвета. Анимированный GIF объединяет многочисленные изображения или кадры в один файл и отображает их в последовательности для создания анимированного клипа или короткого видео. Ограничения по цвету составляют до 256 для каждого кадра и, вероятно, будут наименее подходящими для воспроизведения других изображений и фотографий с цветовым градиентом.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

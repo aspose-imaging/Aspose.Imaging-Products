@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="แปลง TIF เป็น SVG - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="แอปฟรีเพื่อแปลง TIF เป็น SVG"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/TIF-to-SVG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="แปลง TIF เป็น SVG - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIF" readMoreLink="https://docs.fileformat.com/image/tif/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIF" readMoreLink="https://docs.fileformat.com/image/tif/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | TIF">}}
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | SVG">}}
 ไฟล์ SVG เป็นไฟล์กราฟิกแบบเวกเตอร์ที่ปรับขนาดได้ซึ่งใช้รูปแบบข้อความแบบ XML เพื่ออธิบายลักษณะที่ปรากฏของรูปภาพ คำว่า Scalable หมายถึงความจริงที่ว่า SVG สามารถปรับขนาดเป็นขนาดต่างๆ ได้โดยไม่สูญเสียคุณภาพใดๆ คำอธิบายตามข้อความของไฟล์ดังกล่าวทำให้ไม่ขึ้นกับความละเอียด เป็นรูปแบบหนึ่งที่ใช้กันมากที่สุดในการสร้างเว็บไซต์และพิมพ์กราฟิกเพื่อให้ได้ความสามารถในการปรับขนาด รูปแบบสามารถใช้ได้กับกราฟิกสองมิติเท่านั้น ไฟล์ SVG สามารถดู/เปิดได้ในเบราว์เซอร์สมัยใหม่เกือบทั้งหมด รวมถึง Chrome, Internet Explorer, Firefox และ Safari
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити DIB на PSD - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення DIB у PSD"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DIB-to-PSD)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити DIB на PSD - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | DIB">}}
 Файл DIB (Device Independent Bitmap) — це файл растрового зображення, подібний за структурою до стандартних файлів Bitmap (BMP), але має інший заголовок. Його можна відкрити майже за допомогою всіх програм, які можуть відкрити стандартний файл BMP у Windows, а також у macOS. DIB є двійковими файлами та мають складний формат файлів, подібний до BMP.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | PSD">}}
 PSD, Photoshop Document, представляє рідний формат файлу Adobe Photoshop, який використовується для проектування та розробки графіки. Файли PSD можуть містити шари зображень, шари коригування, маски шарів, анотації, інформацію про файли, ключові слова та інші специфічні для Photoshop елементи.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

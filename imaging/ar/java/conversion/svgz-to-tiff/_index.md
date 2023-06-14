@@ -75,16 +75,6 @@ description: نموذج رمز لـ SVGZ إلى TIFF تحويل Java. استخد
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="تحويل SVGZ إلى TIFF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="تطبيق مجاني لتحويل SVGZ إلى TIFF"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: نموذج رمز لـ SVGZ إلى TIFF تحويل Java. استخد
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/SVGZ-to-TIFF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="تحويل SVGZ إلى TIFF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | SVGZ">}}
 الملف بامتداد .svgz هو نسخة مضغوطة من ملف Scalable Vector Graphics (.SVG). يتم ضغطه بضغط gzip ويحتوي على بيانات بتنسيق XML. تدعم ملفات SVGZ الشفافية والتدرجات والرسوم المتحركة والمرشحات. تكون ملفات SVGZ أصغر حجمًا مقارنة بملفات SVG الافتراضية ويساعد حجم الملف المنخفض هذا في نقل ملفات الرسومات عبر الإنترنت. يقوم مصمم الرسومات بإنشاء ملفات SVGZ باستخدام أدوات مثل Adobe Illustrator و Corel PaintShop Pro وغيرها. ومع ذلك ، يمكن إنشاء ملفات SVGZ عن طريق تمكين ضغط GZip في خادم Apache أثناء إرسال بيانات الصورة.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | TIFF">}}
 TIFF أو TIF ، تنسيق ملف الصورة ذي العلامات ، يمثل صورًا نقطية مخصصة للاستخدام على مجموعة متنوعة من الأجهزة التي تتوافق مع معيار تنسيق الملف هذا. إنه قادر على وصف بيانات الصورة ذات المستوى الثنائي ، والرمادي ، واللون الملون ، وبيانات الصور كاملة الألوان في العديد من مساحات الألوان. وهو يدعم أنظمة الضغط التي يتم فقدانها وكذلك بدون فقدان البيانات للاختيار بين المكان والزمان للتطبيقات التي تستخدم التنسيق. التنسيق قابل للتوسيع وخضع لعدة مراجعات تسمح بإدراج كمية غير محدودة من المعلومات الخاصة أو ذات الأغراض الخاصة. لا يعتمد التنسيق على الجهاز وخالي من الحدود مثل المعالج أو نظام التشغيل أو أنظمة الملفات.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

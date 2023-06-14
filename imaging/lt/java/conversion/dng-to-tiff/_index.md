@@ -75,16 +75,6 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertuoti DNG į TIFF – Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Nemokama programa konvertuoti DNG į TIFF"
         appName="Conversion"
@@ -96,13 +86,21 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/lt/conversion/DNG-to-TIFF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertuoti DNG į TIFF – Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau | DNG">}}
 DNG yra skaitmeninio fotoaparato vaizdo formatas, naudojamas neapdorotiems failams saugoti. Ją 2004 m. rugsėjo mėn. sukūrė „Adobe“. Iš esmės jis buvo sukurtas skaitmeninei fotografijai. DNG yra TIFF/EP standartinio formato plėtinys ir daug naudoja metaduomenis. Siekdami lengvai lanksčiai ir meniškai valdyti neapdorotus skaitmeninių fotoaparatų duomenis, fotografai pasirenka neapdorotus fotoaparato failus. JPEG ir TIFF formatuose saugomi fotoaparato apdorojami vaizdai, todėl tokiuose formatuose nėra daug vietos keisti.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau | TIFF">}}
 TIFF arba TIF, Tagged Image File Format, reiškia rastrinius vaizdus, ​​kurie yra skirti naudoti įvairiuose įrenginiuose, kurie atitinka šį failo formato standartą. Jis gali apibūdinti dviejų lygių, pilkų tonų, paletės spalvų ir pilnų spalvų vaizdo duomenis keliose spalvų erdvėse. Jis palaiko nuostolingo ir be nuostolių glaudinimo schemas, kad būtų galima pasirinkti tarp vietos ir laiko programoms, naudojančioms formatą. Formatas yra išplečiamas ir buvo keletą kartų peržiūrėtas, todėl galima įtraukti neribotą kiekį privačios ar specialios paskirties informacijos. Formatas nepriklauso nuo įrenginio ir nėra ribojamas, pvz., procesoriaus, operacinės sistemos ar failų sistemų.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

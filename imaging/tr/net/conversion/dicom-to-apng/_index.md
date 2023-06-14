@@ -62,16 +62,6 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="DICOM öğesini APNG - .NET biçimine dönüştürün" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="DICOM'i APNG'e Dönüştürmek için Ücretsiz Uygulama"
         appName="Conversion"
@@ -83,13 +73,21 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/tr/conversion/DICOM-to-APNG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="DICOM öğesini APNG - .NET biçimine dönüştürün" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | DICOM">}}
 DICOM, Tıpta Dijital Görüntüleme ve İletişimin kısaltmasıdır ve Tıp Bilişimi alanıyla ilgilidir. DICOM, dosya formatı tanımı ve bir ağ iletişim protokolünün birleşimidir. DICOM, .DCM uzantısını kullanır. .DCM, 1.x biçimi ve 2.x biçimi olmak üzere iki farklı biçimde bulunur. DCM Format 1.x ayrıca normal ve genişletilmiş iki versiyonda mevcuttur. DICOM, çeşitli satıcılara ait yazıcılar, sunucular, tarayıcılar vb. tıbbi görüntüleme cihazlarının entegrasyonu için kullanılır ve ayrıca benzersizlik için her hastanın kimlik verilerini içerir. DICOM dosyaları, DICOM formatında görüntü verilerini alabiliyorlarsa, iki taraf arasında paylaşılabilir. DICOM'un iletişim kısmı, uygulama katmanı protokolüdür ve varlıklar arasında iletişim kurmak için TCP/IP kullanır. DICOM'un web hizmetleri için HTTP ve HTTPS protokolleri kullanılır. Web servisleri tarafından desteklenen sürümler 1.0, 1.1, 2 veya üstüdür.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | APNG">}}
 .apng (Animasyonlu Taşınabilir Ağ Grafikleri) uzantılı bir dosya, bir raster grafik biçimidir ve Taşınabilir Ağ Grafiğinin (PNG) resmi olmayan bir uzantısıdır. Bir animasyon dizisini temsil eden birden çok kareden (PNG görüntüsünün her biri) oluşur. Bu, bir GIF dosyasına benzer görselleştirme sağlar. APNG dosyaları 24 bit görüntüleri ve 8 bit şeffaflığı destekler. APNG, animasyonsuz GIF dosyalarıyla geriye dönük olarak uyumludur. APNG dosyaları aynı .png uzantısını kullanır ve Mozilla Firefox, APNG destekli Chrome, iOS 10 için iMessage uygulamaları gibi uygulamalar tarafından açılabilir.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

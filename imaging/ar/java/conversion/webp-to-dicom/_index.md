@@ -75,16 +75,6 @@ description: نموذج رمز لـ WEBP إلى DICOM تحويل Java. استخ�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="تحويل WEBP إلى DICOM - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="تطبيق مجاني لتحويل WEBP إلى DICOM"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: نموذج رمز لـ WEBP إلى DICOM تحويل Java. استخ�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/WEBP-to-DICOM)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="تحويل WEBP إلى DICOM - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | WEBP">}}
 WebP ، الذي قدمته Google ، هو تنسيق حديث لملف صور الويب النقطية يعتمد على ضغط بدون فقد وفقدان. إنه يوفر نفس جودة الصورة مع تقليل حجم الصورة بشكل كبير. نظرًا لأن معظم صفحات الويب تستخدم الصور كتمثيل فعال للبيانات ، فإن استخدام صور WebP في صفحات الويب ينتج عنه تحميل أسرع لصفحات الويب. وفقًا لـ Google ، تكون صور WebP غير المفقودة أصغر حجمًا بنسبة 26٪ مقارنة بصور PNG ، في حين أن صور WebP المفقودة أصغر بنسبة 25-34٪ من صور JPEG المماثلة. تتم مقارنة الصور بناءً على فهرس التشابه الهيكلي (SSIM) بين WebP وتنسيقات ملفات الصور الأخرى. يعد WebP مشروعًا شقيقًا لتنسيق حاوية الوسائط المتعددة WebM.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | DICOM">}}
 DICOM هو اختصار للتصوير الرقمي والاتصالات في الطب ويتعلق بمجال المعلوماتية الطبية. DICOM هو مزيج من تعريف تنسيق الملف وبروتوكول اتصالات الشبكة. يستخدم DICOM الملحق .DCM. يوجد DCM بتنسيقين مختلفين ، أي الشكل 1.x والصيغة 2.x. يتوفر تنسيق DCM 1.x أيضًا في نسختين عاديتين وممتدتين. يستخدم DICOM لدمج أجهزة التصوير الطبي مثل الطابعات والخوادم والماسحات الضوئية وغيرها من البائعين المختلفين ويحتوي أيضًا على بيانات تعريف لكل مريض من أجل التفرد. يمكن مشاركة ملفات DICOM بين طرفين إذا كانا قادرين على استقبال بيانات الصورة بتنسيق DICOM. جزء الاتصال في DICOM هو بروتوكول طبقة التطبيق ويستخدم TCP / IP للتواصل بين الكيانات. يتم استخدام بروتوكولات HTTP و HTTPS لخدمات الويب الخاصة بـ DICOM. الإصدارات التي تدعمها خدمات الويب هي 1.0 أو 1.1 أو 2 أو أحدث.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

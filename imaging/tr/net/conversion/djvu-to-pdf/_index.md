@@ -62,16 +62,6 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="DJVU öğesini PDF - .NET biçimine dönüştürün" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="DJVU'i PDF'e Dönüştürmek için Ücretsiz Uygulama"
         appName="Conversion"
@@ -83,13 +73,21 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/tr/conversion/DJVU-to-PDF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="DJVU öğesini PDF - .NET biçimine dönüştürün" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | DJVU">}}
 DjVu, DJVU olarak telaffuz edilir, özellikle metin, çizim, resim ve fotoğrafların birleşimini içeren taranmış belgeler ve kitaplar için tasarlanmış bir grafik dosya formatıdır. AT&T Labs tarafından geliştirilmiştir. Metin ve arka plan görüntülerinin görüntü katmanı ayrımı, aşamalı yükleme, aritmetik kodlama ve iki tonlu görüntüler için kayıplı sıkıştırma gibi birden çok teknik kullanır. DJVU dosyası sıkıştırılmış ancak yüksek kaliteli renkli görüntüler, fotoğraflar, metinler ve çizimler içerebildiğinden ve daha az alana kaydedilebildiğinden, web'de e-Kitaplar, kılavuzlar, gazeteler, eski belgeler vb. olarak kullanılır.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | PDF">}}
 Taşınabilir Belge Formatı (PDF), Adobe tarafından 1990'larda oluşturulmuş bir belge türüdür. Bu dosya biçiminin amacı, belgelerin ve diğer başvuru malzemelerinin uygulama yazılımı, donanım ve İşletim Sisteminden bağımsız bir biçimde temsil edilmesi için bir standart getirmekti. PDF dosya formatı, kaynak belgenin bir parçası haline gelebilecek metin, resimler, köprüler, form alanları, zengin medya, dijital imzalar, ekler, meta veriler, Jeo-uzaysal özellikler ve 3B nesneler gibi bilgileri içerme konusunda tam kapasiteye sahiptir.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

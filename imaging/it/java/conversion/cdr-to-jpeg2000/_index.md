@@ -75,16 +75,6 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Converti CDR in JPEG2000 - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="App gratuita per convertire CDR in JPEG2000"
         appName="Conversion"
@@ -96,13 +86,21 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/it/conversion/CDR-to-JPEG2000)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Converti CDR in JPEG2000 - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più | CDR">}}
 Un file CDR è un file immagine di disegno vettoriale creato in modo nativo con CorelDRAW per la memorizzazione di immagini digitali codificate e compresse. Tale file di disegno contiene testo, linee, forme, immagini, colori ed effetti per la rappresentazione vettoriale del contenuto dell'immagine. I file CDR possono essere aperti con CorelDRAW come applicazione principale e possono anche essere convertiti in altri formati come PDF, JPG, PNG, BMP e AI. Può essere utilizzato per la rappresentazione di vari dati grafici come brochure, tabloid, buste e cartoline. Oltre a CorelDRAW, anche altri prodotti Corel come Corel Paintshop Pro e CorelDRAW Graphics Suite possono aprire i formati di file CDR.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più | JPEG2000">}}
 JPEG 2000 (JP2) è un sistema di codifica delle immagini e uno standard di compressione delle immagini all'avanguardia. Progettato, utilizzando la tecnologia wavelet, JPEG 2000 può codificare contenuti senza perdita di qualità in qualsiasi qualità contemporaneamente. Inoltre, senza alcuna penalizzazione sostanziale nell'efficienza della codifica, JPEG 2000 ha la capacità di accedere e decodificare efficacemente lo stesso contenuto in una varietà di altre risoluzioni e qualità. I flussi di codice in JPEG 2000 sono significativamente scalabili con regioni di interesse che forniscono la struttura per l'accesso casuale spaziale. Possedendo fino a 16384 diversi componenti con le dimensioni in terapixel e una precisione che può arrivare fino a 38 bit/campione.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

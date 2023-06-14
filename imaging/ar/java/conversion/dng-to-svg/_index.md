@@ -75,16 +75,6 @@ description: نموذج رمز لـ DNG إلى SVG تحويل Java. استخدم
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="تحويل DNG إلى SVG - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="تطبيق مجاني لتحويل DNG إلى SVG"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: نموذج رمز لـ DNG إلى SVG تحويل Java. استخدم
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DNG-to-SVG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="تحويل DNG إلى SVG - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | DNG">}}
 DNG هو تنسيق صورة كاميرا رقمية يستخدم لتخزين الملفات الأولية. تم تطويره بواسطة Adobe في سبتمبر 2004. تم تطويره بشكل أساسي للتصوير الرقمي. DNG هو امتداد لتنسيق TIFF / EP القياسي ويستخدم البيانات الوصفية بشكل كبير. من أجل معالجة البيانات الأولية من الكاميرات الرقمية بسهولة المرونة والتحكم الفني ، يختار المصورون الملفات الأولية للكاميرا. تخزن تنسيقات JPEG و TIFF الصور التي تتم معالجتها بواسطة الكاميرا ، وبالتالي لا يتوفر مجال كبير للتغيير في مثل هذه التنسيقات.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | SVG">}}
 ملفات SVG هي ملفات رسومات متجهة قابلة للتطوير تستخدم تنسيقًا نصيًا يستند إلى XML لوصف مظهر الصورة. تشير كلمة Scalable إلى حقيقة أنه يمكن تحجيم SVG إلى أحجام مختلفة دون فقدان أي جودة. الوصف المستند إلى النص لمثل هذه الملفات يجعلها مستقلة عن الدقة. إنه أحد التنسيقات الأكثر استخدامًا لبناء مواقع الويب والرسومات المطبوعة من أجل تحقيق قابلية التوسع. لا يمكن استخدام التنسيق إلا للرسومات ثنائية الأبعاد. يمكن عرض / فتح ملفات SVG في جميع المتصفحات الحديثة تقريبًا بما في ذلك Chrome و Internet Explorer و Firefox و Safari.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

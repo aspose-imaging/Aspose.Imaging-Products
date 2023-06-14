@@ -75,16 +75,6 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertiere JPG in JP2 - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Kostenlose App zum Konvertieren von JPG in JP2"
         appName="Conversion"
@@ -96,13 +86,21 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/de/conversion/JPG-to-JP2)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertiere JPG in JP2 - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen | JPG">}}
 Ein JPEG ist ein Bildformat, das mit der Methode der verlustbehafteten Komprimierung gespeichert wird. Das Ausgabebild ist als Ergebnis der Komprimierung ein Kompromiss zwischen Speichergröße und Bildqualität. Benutzer können die Komprimierungsstufe anpassen, um die gewünschte Qualitätsstufe zu erreichen, während gleichzeitig die Speichergröße reduziert wird. Die Bildqualität wird vernachlässigbar beeinträchtigt, wenn eine 10:1-Komprimierung auf das Bild angewendet wird. Je höher der Komprimierungswert, desto stärker die Verschlechterung der Bildqualität.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen | JP2">}}
 JPEG 2000 (JP2) ist ein Bildcodierungssystem und ein hochmoderner Bildkomprimierungsstandard. JPEG 2000 wurde unter Verwendung der Wavelet-Technologie entwickelt und kann verlustfreie Inhalte in jeder Qualität gleichzeitig kodieren. Darüber hinaus hat JPEG 2000 ohne wesentliche Einbußen bei der Codierungseffizienz die Fähigkeit, auf denselben Inhalt zuzugreifen und ihn effizient in eine Vielzahl anderer Auflösungen und Qualitäten zu decodieren. Die Codeströme in JPEG 2000 sind erheblich skalierbar, da sie interessierende Regionen aufweisen, die die Möglichkeit für einen räumlichen Direktzugriff bereitstellen. Besitzt bis zu 16384 verschiedene Komponenten mit Abmessungen in Terapixel und einer Genauigkeit, die bis zu 38 Bit/Sample betragen kann.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

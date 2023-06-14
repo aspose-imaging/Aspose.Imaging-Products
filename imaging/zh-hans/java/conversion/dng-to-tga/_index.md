@@ -76,16 +76,6 @@ description: DNG 到 TGA Java 转换的示例代码。在任何基于 Web 或桌
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="将 DNG 转换为 TGA - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="将 DNG 转换为 TGA 的免费应用程序"
         appName="Conversion"
@@ -97,13 +87,21 @@ description: DNG 到 TGA Java 转换的示例代码。在任何基于 Web 或桌
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hans/conversion/DNG-to-TGA)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="将 DNG 转换为 TGA - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | DNG">}}
 DNG 是一种用于存储原始文件的数码相机图像格式。它是由 Adob​​e 于 2004 年 9 月开发的。它基本上是为数码摄影而开发的。 DNG 是 TIFF/EP 标准格式的扩展，大量使用元数据。为了轻松灵活地处理来自数码相机的原始数据和艺术控制，摄影师选择相机原始文件。 JPEG 和 TIFF 格式存储由相机处理的图像，因此在这些格式中没有太大的更改空间。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | TGA">}}
 Truevision TGA，通常称为 TARGA，是由 Truevision Inc.（现为 Avid Technology 的一部分）创建的光栅图形文件格式。它是 TARGA 和 VISTA 板的原生格式，它们是 IBM 兼容 PC 上第一款支持高彩/真彩显示的显卡。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

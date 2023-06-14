@@ -75,16 +75,6 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Převést ODG na BMP – Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Bezplatná aplikace pro převod ODG na BMP"
         appName="Conversion"
@@ -96,13 +86,21 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/ODG-to-BMP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Převést ODG na BMP – Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více | ODG">}}
 Formát souboru ODG používá aplikace Draw Apache OpenOffice k ukládání prvků výkresu jako vektorový obrázek. Řídí se specifikacemi formátu souborů založenými na XML, které jsou uvedeny v Advancement of Structural Information Standards (OASIS). ODG představuje kresby jako vektorové obrázky pomocí bodů, čar a křivek. Kromě OpenOffice, LibreOffice a další aplikace poskytují podporu pro práci se souborovým formátem ODG. Mezi další formáty podporované například OpenOffice patří ODT, ODF, ODP a ODS.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více | BMP">}}
 Soubory s příponou .BMP představují soubory bitmapových obrázků, které se používají k ukládání bitmapových digitálních obrázků. Tyto obrázky jsou nezávislé na grafickém adaptéru a nazývají se také formát souboru bitmap nezávislý na zařízení (DIB). Tato nezávislost slouží k otevření souboru na více platformách, jako jsou Microsoft Windows a Mac. Souborový formát BMP může ukládat data jako dvourozměrné digitální obrázky v monochromatickém i barevném formátu s různými barevnými hloubkami.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

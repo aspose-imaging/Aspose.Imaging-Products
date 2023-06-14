@@ -62,16 +62,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="DJVUをICOに変換します-.NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="DJVUをICOに変換する無料アプリ"
         appName="Conversion"
@@ -83,13 +73,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ja/conversion/DJVU-to-ICO)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="DJVUをICOに変換します-.NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | DJVU">}}
 DJVU と発音されるDjVuは、スキャンされたドキュメントや書籍、特にテキスト、図面、画像、写真の組み合わせを含むものを対象としたグラフィックファイル形式です。 AT＆T研究所によって開発されました。テキストと背景画像の画像レイヤー分離、プログレッシブローディング、算術符号化、非可逆圧縮などの複数の手法を使用します。 DJVUファイルには、圧縮された高品質のカラー画像、写真、テキスト、および図面を含めることができ、より少ないスペースで保存できるため、電子書籍、マニュアル、新聞、古代の文書などとしてWebで使用されます。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | ICO">}}
 ICO ファイル形式は、Microsoft Windows のコンピューター アイコンのイメージ ファイル形式です。 ICO ファイルには、適切にスケーリングできるように、複数のサイズと色深度の 1 つまたは複数の小さな画像が含まれています。 Windows では、ユーザー、デスクトップ、スタート メニュー、または Windows エクスプローラーにアイコンを表示するすべての実行可能ファイルは、アイコンを ICO 形式で保持する必要があります。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

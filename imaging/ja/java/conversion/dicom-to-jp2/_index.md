@@ -75,16 +75,6 @@ DICOMをJP2に変換するには、 [Aspose.Imaging for Java](https://products.a
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="DICOMをJP2に変換します-Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="DICOMをJP2に変換する無料アプリ"
         appName="Conversion"
@@ -96,13 +86,21 @@ DICOMをJP2に変換するには、 [Aspose.Imaging for Java](https://products.a
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ja/conversion/DICOM-to-JP2)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="DICOMをJP2に変換します-Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | DICOM">}}
 DICOMは、Medical Imaging and Communications in Medicineの頭字語であり、医療情報学の分野に関係しています。 DICOMは、ファイル形式の定義とネットワーク通信プロトコルを組み合わせたものです。 DICOMは.DCM拡張子を使用します。 .DCMは、フォーマット1.xとフォーマット2.xの2つの異なるフォーマットで存在します。 DCMフォーマット1.xは、通常と拡張の2つのバージョンでさらに利用できます。 DICOMは、さまざまなベンダーのプリンター、サーバー、スキャナーなどの医用画像装置の統合に使用され、一意性のために各患者の識別データも含まれています。 DICOMファイルは、DICOM形式の画像データを受信できる場合、2者間で共有できます。 DICOMの通信部分はアプリケーション層プロトコルであり、TCP / IPを使用してエンティティ間で通信します。 HTTPおよびHTTPSプロトコルは、DICOMのWebサービスに使用されます。 Webサービスでサポートされているバージョンは、1.0、1.1、2以降です。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | JP2">}}
 JPEG 2000（JP2）は、画像コーディングシステムであり、最先端の画像圧縮規格です。ウェーブレットテクノロジーを使用して設計されたJPEG2000は、ロスレスコンテンツを任意の品質で一度にコーディングできます。さらに、コーディング効率に実質的なペナルティを課すことなく、JPEG 2000には、同じコンテンツに効果的にアクセスしてデコードし、他のさまざまな解像度や品質に変換する機能があります。 JPEG 2000のコードストリームは非常にスケーラブルであり、空間ランダムアクセスの機能を提供する関心領域があります。テラピクセル単位の寸法と38ビット/サンプルの高精度を備えた最大16384の多様なコンポーネントを備えています。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

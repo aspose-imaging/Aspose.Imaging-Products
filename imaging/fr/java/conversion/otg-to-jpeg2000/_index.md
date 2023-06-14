@@ -75,16 +75,6 @@ Avant d'exécuter l'exemple de code de conversion, assurez-vous que vous dispose
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convertir OTG en JPEG2000 - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Application gratuite pour convertir OTG en JPEG2000"
         appName="Conversion"
@@ -96,13 +86,21 @@ Avant d'exécuter l'exemple de code de conversion, assurez-vous que vous dispose
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/fr/conversion/OTG-to-JPEG2000)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Convertir OTG en JPEG2000 - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite | OTG">}}
 Un fichier OTG est un modèle de dessin créé à l'aide de la norme OpenDocument qui suit la spécification OASIS Office Applications 1.0. Il représente l'organisation par défaut des éléments de dessin pour une image vectorielle qui peut être utilisée pour améliorer davantage le contenu du fichier.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite | JPEG2000">}}
 JPEG 2000 (JP2) est un système de codage d'image et une norme de compression d'image de pointe. Conçu en utilisant la technologie des ondelettes JPEG 2000 peut coder du contenu sans perte dans n'importe quelle qualité à la fois. De plus, sans aucune pénalité substantielle dans l'efficacité du codage, JPEG 2000 a la capacité d'accéder et de décoder efficacement le même contenu dans une variété d'autres résolutions et qualités. Les flux de code dans JPEG 2000 sont considérablement évolutifs, ayant des régions d'intérêt qui fournissent la possibilité d'un accès spatial aléatoire. Possédant jusqu'à 16384 composants divers avec des dimensions en térapixels, et une précision pouvant atteindre 38 bits/échantillon.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

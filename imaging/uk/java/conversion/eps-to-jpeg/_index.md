@@ -75,16 +75,6 @@ description: Зразок коду для перетворення EPS у JPEG J
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити EPS на JPEG - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення EPS у JPEG"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Зразок коду для перетворення EPS у JPEG J
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/EPS-to-JPEG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити EPS на JPEG - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | EPS">}}
 Файли з розширенням EPS по суті описують програму на мові Encapsulated PostScript, яка описує зовнішній вигляд однієї сторінки. Назва «Інкапсульований», оскільки її можна включити або інкапсулювати в опис сторінки іншою мовою PostScript. Цей формат файлу на основі сценарію може містити будь-яку комбінацію тексту, графіки та зображень. Файли EPS можуть містити растрове зображення попереднього перегляду, інкапсульоване всередину для відображення програмами, які можуть відкривати такі файли. Файли EPS можна конвертувати в стандартні формати зображень, такі як JPG, PNG, TIFF і PDF, за допомогою різних програм, напр. Adobe Illustrator, Photoshop і PaintShop Pro. Через вразливість у безпеці файлів EPS Office 2016, Office 2013, Office 2010 і Office 365 вимкнули можливість вставляти файли EPS у документи Office.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | JPEG">}}
 JPEG — це тип формату зображення, який зберігається за допомогою методу стиснення з втратами. Вихідне зображення, як результат стиснення, є компромісом між розміром пам’яті та якістю зображення. Користувачі можуть регулювати рівень стиснення, щоб досягти бажаного рівня якості, одночасно зменшуючи розмір пам’яті. Якщо до зображення застосувати стиснення 10:1, на якість зображення вплине незначно. Чим вище значення стиснення, тим більше погіршується якість зображення.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

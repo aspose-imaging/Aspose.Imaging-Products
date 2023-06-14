@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити CMX на SVGZ - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення CMX у SVGZ"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/CMX-to-SVGZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити CMX на SVGZ - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | CMX">}}
 Файли з розширенням CMX — це формат файлу зображень Corel Exchange, який використовується як презентація програмами CorelSuite. Він містить дані зображення як векторну графіку, а також метадані, які описують зображення. Файли CMX можна відкривати за допомогою CorelDraw, Corel Presentations, Paint Shop Pro та деяких версій Adobe Illustrator.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | SVGZ">}}
 Файл із розширенням .svgz є стиснутою версією файлу масштабованої векторної графіки (.SVG). Він стискається за допомогою стиснення gzip і містить дані у форматі XML. Файли SVGZ підтримують прозорість, градієнти, анімацію та фільтри. Файли SVGZ мають менший розмір порівняно з файлами SVG за замовчуванням, і цей зменшений розмір файлу допомагає передавати графічні файли онлайн. Графічний дизайнер створює файли SVGZ за допомогою таких інструментів, як Adobe Illustrator, Corel PaintShop Pro та інших. Однак файли SVGZ можна створити, увімкнувши стиснення GZip на сервері Apache під час надсилання даних зображення.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

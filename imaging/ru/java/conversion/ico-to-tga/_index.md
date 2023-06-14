@@ -75,16 +75,6 @@ description: Пример кода для преобразования ICO в TG
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Преобразование ICO в TGA - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Бесплатное приложение для конвертации ICO в TGA"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Пример кода для преобразования ICO в TG
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ru/conversion/ICO-to-TGA)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Преобразование ICO в TGA - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее | ICO">}}
 Формат файла ICO — это формат файла изображения для компьютерных значков в Microsoft Windows. Файлы ICO содержат одно или несколько небольших изображений разного размера и глубины цвета, чтобы их можно было соответствующим образом масштабировать. В Windows все исполняемые файлы, отображающие значок для пользователя на рабочем столе, в меню «Пуск» или в проводнике Windows, должны иметь значок в формате ICO.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее | TGA">}}
 Truevision TGA, часто называемый TARGA, представляет собой формат файла растровой графики, созданный Truevision Inc. (теперь часть Avid Technology). Это был собственный формат плат TARGA и VISTA, которые были первыми графическими картами для IBM-совместимых ПК с поддержкой отображения Highcolor/truecolor.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -76,16 +76,6 @@ description: TIFF 到 GIF Java 转换的示例代码。在任何基于 Web 或�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="将 TIFF 转换为 GIF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="将 TIFF 转换为 GIF 的免费应用程序"
         appName="Conversion"
@@ -97,13 +87,21 @@ description: TIFF 到 GIF Java 转换的示例代码。在任何基于 Web 或�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hans/conversion/TIFF-to-GIF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="将 TIFF 转换为 GIF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | TIFF">}}
 TIFF 或 TIF，标记图像文件格式，表示用于在符合此文件格式标准的各种设备上使用的光栅图像。它能够在多个颜色空间中描述双层、灰度、调色板颜色和全彩色图像数据。它支持有损和无损压缩方案，以便为使用该格式的应用程序在空间和时间之间进行选择。该格式是可扩展的，并且经过多次修改，允许包含无限量的私人或特殊用途信息。该格式不依赖于机器，并且不受处理器、操作系统或文件系统等限制。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | GIF">}}
 GIF 或图形交换格式是一种高度压缩的图像。 GIF 由 Unisys 拥有，使用不会降低图像质量的 LZW 压缩算法。对于每个图像，GIF 通常允许每个像素最多 8 位，并且整个图像最多允许 256 种颜色。与 JPEG 图像相比，JPEG 图像可以显示多达 1600 万种颜色，并且相当接近人眼的极限。早在互联网出现时，GIF 仍然是最佳选择，因为它们需要低带宽并且与消耗纯色区域的图形兼容。动画 GIF 将大量图像或帧组合到一个文件中，并按顺序显示它们以生成动画剪辑或短视频。每帧的颜色限制最多为 256 种，并且可能最不适合再现具有颜色渐变的其他图像和照片。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

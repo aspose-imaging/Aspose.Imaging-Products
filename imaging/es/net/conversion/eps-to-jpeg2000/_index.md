@@ -65,16 +65,6 @@ Antes de ejecutar el código de ejemplo de conversión, asegúrese de tener los 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convertir EPS a JPEG2000 - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Aplicación gratuita para convertir EPS a JPEG2000"
         appName="Conversion"
@@ -86,13 +76,21 @@ Antes de ejecutar el código de ejemplo de conversión, asegúrese de tener los 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/es/conversion/EPS-to-JPEG2000)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Convertir EPS a JPEG2000 - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más | EPS">}}
 Los archivos con extensión EPS esencialmente describen un programa de lenguaje PostScript encapsulado que describe la apariencia de una sola página. El nombre "Encapsulado" porque se puede incluir o encapsular en otra descripción de página en lenguaje PostScript. Este formato de archivo basado en secuencias de comandos puede contener cualquier combinación de texto, gráficos e imágenes. Los archivos EPS pueden incluir una imagen de vista previa de mapa de bits encapsulada en el interior para que la muestren las aplicaciones que pueden abrir dichos archivos. Los archivos EPS se pueden convertir a formatos de imagen estándar como JPG, PNG, TIFF y PDF utilizando diferentes aplicaciones, p. Adobe Illustrator, Photoshop y PaintShop Pro. Debido a una vulnerabilidad de seguridad en los archivos EPS, Office 2016, Office 2013, Office 2010 y Office 365 han desactivado la capacidad de insertar archivos EPS en documentos de Office.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más | JPEG2000">}}
 JPEG 2000 (JP2) es un sistema de codificación de imágenes y un estándar de compresión de imágenes de última generación. Diseñado, utilizando la tecnología wavelet, JPEG 2000 puede codificar contenido sin pérdidas en cualquier calidad a la vez. Además, sin ninguna penalización sustancial en la eficiencia de la codificación, JPEG 2000 tiene la capacidad de acceder y decodificar el mismo contenido de manera eficaz en una variedad de otras resoluciones y calidades. Los flujos de código en JPEG 2000 son significativamente escalables y tienen regiones de interés que brindan la posibilidad de acceso espacial aleatorio. Posee hasta 16384 componentes diversos con las dimensiones en terapixels y una precisión que puede llegar a 38 bits/muestra.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

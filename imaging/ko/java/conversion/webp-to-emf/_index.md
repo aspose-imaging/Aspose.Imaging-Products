@@ -75,16 +75,6 @@ WEBP을 EMF로 변환하려면 다음을 사용합니다. [자바용 Aspose.Imag
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="WEBP을 EMF로 변환 - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="WEBP을 EMF로 변환하는 무료 앱"
         appName="Conversion"
@@ -96,13 +86,21 @@ WEBP을 EMF로 변환하려면 다음을 사용합니다. [자바용 Aspose.Imag
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ko/conversion/WEBP-to-EMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="WEBP을 EMF로 변환 - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | WEBP">}}
 Google에서 소개한 WebP는 무손실 및 손실 압축을 기반으로 하는 최신 래스터 웹 이미지 파일 형식입니다. 이미지 크기를 크게 줄이면서 동일한 이미지 품질을 제공합니다. 대부분의 웹 페이지는 데이터의 효과적인 표현으로 이미지를 사용하기 때문에 웹 페이지에서 WebP 이미지를 사용하면 웹 페이지를 더 빠르게 로드할 수 있습니다. Google에 따르면 WebP 무손실 이미지는 PNG에 비해 크기가 26% 작으며 WebP 손실 이미지는 유사한 JPEG 이미지보다 25-34% 작습니다. WebP와 다른 이미지 파일 형식 간의 SSIM(구조적 유사성) 인덱스를 기반으로 이미지가 비교됩니다. WebP는 WebM 멀티미디어 컨테이너 형식의 자매 프로젝트입니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | EMF">}}
 EMF(Enhanced Metafile Format)는 그래픽 이미지를 장치에 독립적으로 저장합니다. EMF의 메타파일은 모든 출력 장치에서 구문 분석한 후 저장된 이미지를 렌더링할 수 있는 시간순의 가변 길이 레코드로 구성됩니다. 이러한 가변 길이 레코드는 포함된 개체의 정의, 그리기 명령 및 이미지를 정확하게 렌더링하는 데 중요한 그래픽 속성이 될 수 있습니다. 장치가 자체 그래픽 환경을 사용하여 EMF 메타파일을 열 때 원본 이미지의 비율, 치수, 색상 및 기타 그래픽 속성은 여는 장치 플랫폼에 관계없이 동일하게 유지됩니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

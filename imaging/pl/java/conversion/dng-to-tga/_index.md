@@ -75,16 +75,6 @@ Przed uruchomieniem przykładowego kodu konwersji upewnij się, że masz następ
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konwertuj DNG na TGA - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Darmowa aplikacja do konwersji DNG na TGA"
         appName="Conversion"
@@ -96,13 +86,21 @@ Przed uruchomieniem przykładowego kodu konwersji upewnij się, że masz następ
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/pl/conversion/DNG-to-TGA)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konwertuj DNG na TGA - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej | DNG">}}
 DNG to format obrazu aparatu cyfrowego używany do przechowywania plików RAW. Został opracowany przez firmę Adobe we wrześniu 2004 roku. Został zasadniczo opracowany z myślą o fotografii cyfrowej. DNG jest rozszerzeniem standardowego formatu TIFF/EP i w znacznym stopniu wykorzystuje metadane. Aby manipulować nieprzetworzonymi danymi z aparatów cyfrowych z łatwością i elastycznością i artystyczną kontrolą, fotografowie wybierają nieprzetworzone pliki aparatu. Formaty JPEG i TIFF przechowują obrazy przetwarzane przez aparat, dlatego w takich formatach nie ma zbyt wiele miejsca na zmiany.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej | TGA">}}
 Truevision TGA, często określany jako TARGA, to rastrowy format plików graficznych stworzony przez Truevision Inc. (obecnie część Avid Technology). Był to natywny format płyt TARGA i VISTA, które były pierwszymi kartami graficznymi dla komputerów zgodnych z IBM obsługującymi wyświetlacz Highcolor/truecolor.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

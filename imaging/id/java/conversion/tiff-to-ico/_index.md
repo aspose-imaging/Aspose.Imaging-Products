@@ -75,16 +75,6 @@ Sebelum menjalankan kode contoh konversi, pastikan Anda memiliki prasyarat berik
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konversi TIFF ke ICO - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Aplikasi Gratis untuk Mengonversi TIFF ke ICO"
         appName="Conversion"
@@ -96,13 +86,21 @@ Sebelum menjalankan kode contoh konversi, pastikan Anda memiliki prasyarat berik
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/id/conversion/TIFF-to-ICO)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konversi TIFF ke ICO - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya | TIFF">}}
 TIFF atau TIF, Tagged Image File Format, mewakili gambar raster yang dimaksudkan untuk digunakan pada berbagai perangkat yang memenuhi standar format file ini. Ia mampu menggambarkan data gambar bilevel, grayscale, palette-color dan full-color dalam beberapa ruang warna. Ini mendukung skema kompresi lossy serta lossless untuk memilih antara ruang dan waktu untuk aplikasi yang menggunakan format. Formatnya dapat diperluas dan telah mengalami beberapa revisi yang memungkinkan dimasukkannya informasi pribadi atau tujuan khusus dalam jumlah yang tidak terbatas. Formatnya tidak bergantung pada mesin dan bebas dari batasan seperti prosesor, sistem operasi, atau sistem file.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya | ICO">}}
 Format file ICO adalah format file gambar untuk ikon komputer di Microsoft Windows. File ICO berisi satu atau lebih gambar kecil dengan berbagai ukuran dan kedalaman warna, sehingga dapat diskalakan dengan tepat. Di Windows, semua executable yang menampilkan ikon kepada pengguna, di desktop, di Start Menu, atau di Windows Explorer, harus membawa ikon dalam format ICO.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -75,16 +75,6 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Converti JPG in DICOM - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="App gratuita per convertire JPG in DICOM"
         appName="Conversion"
@@ -96,13 +86,21 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/it/conversion/JPG-to-DICOM)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Converti JPG in DICOM - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più | JPG">}}
 Un JPEG è un tipo di formato immagine che viene salvato utilizzando il metodo di compressione con perdita di dati. L'immagine di output, come risultato della compressione, è un compromesso tra la dimensione della memoria e la qualità dell'immagine. Gli utenti possono regolare il livello di compressione per ottenere il livello di qualità desiderato riducendo allo stesso tempo le dimensioni dello storage. La qualità dell'immagine viene influenzata in modo trascurabile se all'immagine viene applicata la compressione 10:1. Maggiore è il valore di compressione, maggiore è il degrado della qualità dell'immagine.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più | DICOM">}}
 DICOM è l'acronimo di Digital Imaging and Communications in Medicine e appartiene al campo dell'informatica medica. DICOM è la combinazione di definizione del formato file e protocollo di comunicazione di rete. DICOM utilizza l'estensione .DCM. .DCM esiste in due diversi formati, ovvero il formato 1.x e il formato 2.x. DCM Format 1.x è inoltre disponibile in due versioni normale ed estesa. DICOM viene utilizzato per l'integrazione di dispositivi di imaging medico come stampanti, server, scanner, ecc. di vari fornitori e contiene anche i dati di identificazione di ciascun paziente per l'unicità. I file DICOM possono essere condivisi tra due parti se sono in grado di ricevere dati di immagine in formato DICOM. La parte di comunicazione di DICOM è il protocollo del livello dell'applicazione e utilizza TCP/IP per comunicare tra entità. I protocolli HTTP e HTTPS vengono utilizzati per i servizi Web di DICOM. Le versioni supportate dai servizi Web sono 1.0, 1.1, 2 o successive.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

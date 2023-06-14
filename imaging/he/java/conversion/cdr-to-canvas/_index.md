@@ -75,16 +75,6 @@ description: קוד לדוגמה עבור המרת Java מ-CDR ל-CANVAS. השת
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="המר את CDR ל-CANVAS - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="אפליקציה חינמית להמרת CDR ל-CANVAS"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: קוד לדוגמה עבור המרת Java מ-CDR ל-CANVAS. השת
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/CDR-to-CANVAS)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="המר את CDR ל-CANVAS - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | CDR">}}
 קובץ CDR הוא קובץ תמונת ציור וקטור שנוצר באופן מקורי עם CorelDRAW לאחסון תמונה דיגיטלית מקודדת ודחוסה. קובץ ציור כזה מכיל טקסט, קווים, צורות, תמונות, צבעים ואפקטים לייצוג וקטור של תוכן התמונה. ניתן לפתוח קבצי CDR עם CorelDRAW כיישום הראשי וניתן להמיר אותם גם לפורמטים אחרים כגון PDF, JPG, PNG, BMP ו-AI. זה יכול לשמש לייצוג של נתונים גרפיים שונים כמו חוברות, צהובונים, מעטפות וגלויות. מלבד CorelDRAW, מוצרי Corel אחרים כגון Corel Paintshop Pro ו- CorelDRAW Graphics Suite יכולים גם הם לפתוח את תבניות הקובץ CDR.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CANVAS" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CANVAS" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | CANVAS">}}
 HTML (Hyper Text Markup Language) היא התוסף לדפי אינטרנט שנוצרו לתצוגה בדפדפנים. HTML, הידועה כשפת האינטרנט, התפתחה עם דרישות מידע חדשות שיוצגו כחלק מדפי אינטרנט. הגרסה האחרונה ידועה בשם HTML 5 המעניקה גמישות רבה לעבודה עם השפה. דפי HTML מתקבלים מהשרת, שבו הם מתארחים, או שניתן לטעון אותם גם מהמערכת המקומית. כל דף HTML מורכב מאלמנטים של HTML כגון טפסים, טקסט, תמונות, אנימציות, קישורים וכו'. אלמנטים אלו מיוצגים על ידי תגיות כגון img, a, p ועוד כמה אחרים כאשר לכל תג יש התחלה וסוף. זה יכול גם להטמיע יישומים שנכתבו בשפות סקריפטים כגון JavaScript ו- Style Sheets (CSS) לייצוג פריסה כולל.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

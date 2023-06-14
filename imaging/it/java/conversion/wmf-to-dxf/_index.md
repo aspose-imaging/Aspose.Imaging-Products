@@ -75,16 +75,6 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Converti WMF in DXF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="App gratuita per convertire WMF in DXF"
         appName="Conversion"
@@ -96,13 +86,21 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/it/conversion/WMF-to-DXF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Converti WMF in DXF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più | WMF">}}
 I file con estensione WMF rappresentano il metafile di Microsoft Windows (WMF) per la memorizzazione di dati di immagini in formato bitmap e vettoriali. Per essere più precisi, WMF appartiene alla categoria del formato di file vettoriale dei formati di file grafici che è indipendente dal dispositivo. Windows Graphical Device Interface (GDI) utilizza le funzioni memorizzate in un file WMF per visualizzare un'immagine sullo schermo. Successivamente è stata pubblicata una versione più avanzata di WMF, nota come Enhanced Meta Files (EMF), che rende il formato più ricco di funzionalità. In pratica, WMF sono simili a SVG.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più | DXF">}}
 DXF, Drawing Interchange Format, o Drawing Exchange Format, è una rappresentazione di dati con tag del file di disegno di AutoCAD. Ogni elemento nel file ha un numero intero di prefisso chiamato codice di gruppo. Questo codice di gruppo rappresenta effettivamente l'elemento che segue e indica il significato di un elemento di dati per un determinato tipo di oggetto. DXF consente di rappresentare quasi tutte le informazioni specificate dall'utente in un file di disegno.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

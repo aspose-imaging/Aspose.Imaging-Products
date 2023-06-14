@@ -65,16 +65,6 @@ Antes de ejecutar el código de ejemplo de conversión, asegúrese de tener los 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convertir TIFF a WEBP - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Aplicación gratuita para convertir TIFF a WEBP"
         appName="Conversion"
@@ -86,13 +76,21 @@ Antes de ejecutar el código de ejemplo de conversión, asegúrese de tener los 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/es/conversion/TIFF-to-WEBP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Convertir TIFF a WEBP - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más | TIFF">}}
 TIFF o TIF, formato de archivo de imagen etiquetada, representa imágenes de trama diseñadas para su uso en una variedad de dispositivos que cumplen con este estándar de formato de archivo. Es capaz de describir datos de imágenes de dos niveles, escala de grises, colores de paleta y a todo color en varios espacios de color. Admite esquemas de compresión con pérdida y sin pérdida para elegir entre el espacio y el tiempo para las aplicaciones que utilizan el formato. El formato es extensible y ha sufrido varias revisiones que permiten la inclusión de una cantidad ilimitada de información privada o de propósito especial. El formato no depende de la máquina y está libre de límites como el procesador, el sistema operativo o los sistemas de archivos.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más | WEBP">}}
 WebP, presentado por Google, es un formato de archivo de imagen web rasterizado moderno que se basa en la compresión sin pérdida y con pérdida. Proporciona la misma calidad de imagen mientras reduce considerablemente el tamaño de la imagen. Dado que la mayoría de las páginas web utilizan imágenes como representación efectiva de los datos, el uso de imágenes WebP en las páginas web da como resultado una carga más rápida de las páginas web. Según Google, las imágenes sin pérdida de WebP son un 26 % más pequeñas en comparación con los PNG, mientras que las imágenes con pérdida de WebP son un 25-34 % más pequeñas que las imágenes JPEG comparables. Las imágenes se comparan según el índice de similitud estructural (SSIM) entre WebP y otros formatos de archivo de imagen. WebP es un proyecto hermano del formato de contenedor multimedia WebM.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

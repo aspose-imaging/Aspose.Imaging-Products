@@ -75,16 +75,6 @@ DJVU को TIFF में बदलने के लिए, हम उपयो
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="DJVU को TIFF में बदलें - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="DJVU को TIFF में बदलने के लिए नि:शुल्‍क ऐप"
         appName="Conversion"
@@ -96,13 +86,21 @@ DJVU को TIFF में बदलने के लिए, हम उपयो
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DJVU-to-TIFF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="DJVU को TIFF में बदलें - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | DJVU">}}
 DjVu, जिसे DJVU के रूप में उच्चारित किया जाता है, एक ग्राफिक्स फ़ाइल स्वरूप है जो स्कैन किए गए दस्तावेज़ों और पुस्तकों के लिए अभिप्रेत है, विशेष रूप से वे जिनमें पाठ, चित्र, चित्र और तस्वीरों का संयोजन होता है। इसे एटी एंड टी लैब्स द्वारा विकसित किया गया था। यह पाठ और पृष्ठभूमि छवियों की छवि परत पृथक्करण, प्रगतिशील लोडिंग, अंकगणितीय कोडिंग और बिटोनल छवियों के लिए हानिपूर्ण संपीड़न जैसी कई तकनीकों का उपयोग करता है। चूंकि डीजेवीयू फाइल में कंप्रेस्ड अभी तक उच्च गुणवत्ता वाली रंगीन छवियां, फोटोग्राफ, टेक्स्ट और ड्रॉइंग हो सकती हैं और इसे कम जगह में सहेजा जा सकता है, इसलिए इसका उपयोग वेब पर ईबुक, मैनुअल, समाचार पत्र, प्राचीन दस्तावेज आदि के रूप में किया जाता है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | TIFF">}}
 TIFF या TIF, टैग की गई छवि फ़ाइल स्वरूप, रेखापुंज छवियों का प्रतिनिधित्व करता है जो इस फ़ाइल प्रारूप मानक का अनुपालन करने वाले विभिन्न उपकरणों पर उपयोग के लिए हैं। यह कई रंग स्थानों में द्विस्तरीय, ग्रेस्केल, पैलेट-रंग और पूर्ण-रंग छवि डेटा का वर्णन करने में सक्षम है। यह प्रारूप का उपयोग करने वाले अनुप्रयोगों के लिए स्थान और समय के बीच चयन करने के लिए हानिपूर्ण और साथ ही दोषरहित संपीड़न योजनाओं का समर्थन करता है। प्रारूप एक्स्टेंसिबल है और इसमें कई संशोधन हुए हैं जो असीमित मात्रा में निजी या विशेष प्रयोजन की जानकारी को शामिल करने की अनुमति देता है। प्रारूप मशीन पर निर्भर नहीं है और प्रोसेसर, ऑपरेटिंग सिस्टम या फाइल सिस्टम जैसी सीमाओं से मुक्त है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 

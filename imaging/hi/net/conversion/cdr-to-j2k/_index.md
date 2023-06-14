@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="CDR को J2K में बदलें - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="CDR को J2K में बदलने के लिए नि:शुल्‍क ऐप"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/CDR-to-J2K)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="CDR को J2K में बदलें - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | CDR">}}
 CDR फ़ाइल एक वेक्टर ड्राइंग इमेज फ़ाइल है जो मूल रूप से CorelDRAW के साथ डिजिटल छवि एन्कोडेड और संपीड़ित को संग्रहीत करने के लिए बनाई गई है। इस तरह की एक ड्राइंग फ़ाइल में छवि सामग्री के वेक्टर प्रतिनिधित्व के लिए पाठ, रेखाएं, आकार, चित्र, रंग और प्रभाव होते हैं। CDR फाइलें प्राथमिक एप्लिकेशन के रूप में CorelDRAW के साथ खोली जा सकती हैं और अन्य प्रारूपों जैसे PDF, JPG, PNG, BMP और AI में भी परिवर्तित की जा सकती हैं। इसका उपयोग ब्रोशर, टैब्लॉयड, लिफाफे और पोस्टकार्ड जैसे विभिन्न ग्राफिक्स डेटा के प्रतिनिधित्व के लिए किया जा सकता है। CorelDRAW के अलावा, Corel पेंटशॉप प्रो और CorelDRAW ग्राफ़िक्स सूट जैसे अन्य Corel उत्पाद भी CDR फ़ाइल स्वरूपों को खोल सकते हैं।
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | J2K">}}
 J2K फ़ाइल एक ऐसी छवि है जिसे DCT संपीड़न के बजाय तरंगिका संपीड़न का उपयोग करके संपीड़ित किया जाता है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 

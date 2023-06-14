@@ -75,16 +75,6 @@ SVGZ을 DXF로 변환하려면 다음을 사용합니다. [자바용 Aspose.Imag
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="SVGZ을 DXF로 변환 - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="SVGZ을 DXF로 변환하는 무료 앱"
         appName="Conversion"
@@ -96,13 +86,21 @@ SVGZ을 DXF로 변환하려면 다음을 사용합니다. [자바용 Aspose.Imag
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ko/conversion/SVGZ-to-DXF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="SVGZ을 DXF로 변환 - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | SVGZ">}}
 확장자가 .svgz인 파일은 .SVG(Scalable Vector Graphics) 파일의 압축 버전입니다. gzip 압축으로 압축되며 XML 형식의 데이터를 포함합니다. SVGZ 파일은 투명도, 그라디언트, 애니메이션 및 필터를 지원합니다. SVGZ 파일은 기본 SVG 파일에 비해 크기가 더 작으며 이 축소된 파일 크기는 그래픽 파일을 온라인으로 전송하는 데 도움이 됩니다. 그래픽 디자이너는 Adobe Illustrator, Corel PaintShop Pro 등과 같은 도구를 사용하여 SVGZ 파일을 만듭니다. 그러나 SVGZ 파일은 이미지 데이터를 보내는 동안 Apache Server에서 GZip 압축을 활성화하여 생성할 수 있습니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | DXF">}}
 DXF, 도면 교환 형식 또는 도면 교환 형식은 AutoCAD 도면 파일의 태그가 지정된 데이터 표현입니다. 파일의 각 요소에는 그룹 코드라는 접두어 정수 번호가 있습니다. 이 그룹 코드는 실제로 뒤에 오는 요소를 나타내고 주어진 개체 유형에 대한 데이터 요소의 의미를 나타냅니다. DXF를 사용하면 도면 파일에서 거의 모든 사용자 지정 정보를 표현할 수 있습니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

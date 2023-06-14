@@ -75,16 +75,6 @@ description: نموذج رمز لـ TIFF إلى DICOM تحويل Java. استخ�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="تحويل TIFF إلى DICOM - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="تطبيق مجاني لتحويل TIFF إلى DICOM"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: نموذج رمز لـ TIFF إلى DICOM تحويل Java. استخ�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/TIFF-to-DICOM)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="تحويل TIFF إلى DICOM - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | TIFF">}}
 TIFF أو TIF ، تنسيق ملف الصورة ذي العلامات ، يمثل صورًا نقطية مخصصة للاستخدام على مجموعة متنوعة من الأجهزة التي تتوافق مع معيار تنسيق الملف هذا. إنه قادر على وصف بيانات الصورة ذات المستوى الثنائي ، والرمادي ، واللون الملون ، وبيانات الصور كاملة الألوان في العديد من مساحات الألوان. وهو يدعم أنظمة الضغط التي يتم فقدانها وكذلك بدون فقدان البيانات للاختيار بين المكان والزمان للتطبيقات التي تستخدم التنسيق. التنسيق قابل للتوسيع وخضع لعدة مراجعات تسمح بإدراج كمية غير محدودة من المعلومات الخاصة أو ذات الأغراض الخاصة. لا يعتمد التنسيق على الجهاز وخالي من الحدود مثل المعالج أو نظام التشغيل أو أنظمة الملفات.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | DICOM">}}
 DICOM هو اختصار للتصوير الرقمي والاتصالات في الطب ويتعلق بمجال المعلوماتية الطبية. DICOM هو مزيج من تعريف تنسيق الملف وبروتوكول اتصالات الشبكة. يستخدم DICOM الملحق .DCM. يوجد DCM بتنسيقين مختلفين ، أي الشكل 1.x والصيغة 2.x. يتوفر تنسيق DCM 1.x أيضًا في نسختين عاديتين وممتدتين. يستخدم DICOM لدمج أجهزة التصوير الطبي مثل الطابعات والخوادم والماسحات الضوئية وغيرها من البائعين المختلفين ويحتوي أيضًا على بيانات تعريف لكل مريض من أجل التفرد. يمكن مشاركة ملفات DICOM بين طرفين إذا كانا قادرين على استقبال بيانات الصورة بتنسيق DICOM. جزء الاتصال في DICOM هو بروتوكول طبقة التطبيق ويستخدم TCP / IP للتواصل بين الكيانات. يتم استخدام بروتوكولات HTTP و HTTPS لخدمات الويب الخاصة بـ DICOM. الإصدارات التي تدعمها خدمات الويب هي 1.0 أو 1.1 أو 2 أو أحدث.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

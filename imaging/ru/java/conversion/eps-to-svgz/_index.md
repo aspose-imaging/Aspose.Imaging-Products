@@ -75,16 +75,6 @@ description: Пример кода для преобразования EPS в SV
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Преобразование EPS в SVGZ - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Бесплатное приложение для конвертации EPS в SVGZ"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Пример кода для преобразования EPS в SV
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ru/conversion/EPS-to-SVGZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Преобразование EPS в SVGZ - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее | EPS">}}
 Файлы с расширением EPS, по существу, описывают языковую программу Encapsulated PostScript, описывающую внешний вид отдельной страницы. Имя «Инкапсулированный», потому что оно может быть включено или инкапсулировано в описание страницы на другом языке PostScript. Этот формат файла на основе сценария может содержать любую комбинацию текста, графики и изображений. Файлы EPS могут включать растровое изображение предварительного просмотра, инкапсулированное внутри для отображения приложениями, которые могут открывать такие файлы. Файлы EPS могут быть преобразованы в стандартные форматы изображений, такие как JPG, PNG, TIFF и PDF, с использованием различных приложений, например. Adobe Illustrator, Photoshop и PaintShop Pro. Из-за уязвимости в файлах EPS в Office 2016, Office 2013, Office 2010 и Office 365 отключена возможность вставки файлов EPS в документы Office.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее | SVGZ">}}
 Файл с расширением .svgz представляет собой сжатую версию файла масштабируемой векторной графики (.SVG). Он сжат сжатием gzip и содержит данные в формате XML. Файлы SVGZ поддерживают прозрачность, градиенты, анимацию и фильтры. Файлы SVGZ меньше по размеру по сравнению с файлами SVG по умолчанию, и этот уменьшенный размер файла помогает передавать графические файлы онлайн. Графический дизайнер создает файлы SVGZ с помощью таких инструментов, как Adobe Illustrator, Corel PaintShop Pro и других. Однако файлы SVGZ можно создавать, включив сжатие GZip на сервере Apache при отправке данных изображения.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

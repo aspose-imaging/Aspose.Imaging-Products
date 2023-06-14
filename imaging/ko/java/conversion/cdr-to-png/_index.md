@@ -75,16 +75,6 @@ CDR을 PNG로 변환하려면 다음을 사용합니다. [자바용 Aspose.Imagi
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="CDR을 PNG로 변환 - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="CDR을 PNG로 변환하는 무료 앱"
         appName="Conversion"
@@ -96,13 +86,21 @@ CDR을 PNG로 변환하려면 다음을 사용합니다. [자바용 Aspose.Imagi
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ko/conversion/CDR-to-PNG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="CDR을 PNG로 변환 - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | CDR">}}
 CDR 파일은 인코딩 및 압축된 디지털 이미지를 저장하기 위해 CorelDRAW로 기본 생성되는 벡터 드로잉 이미지 파일입니다. 이러한 도면 파일에는 이미지 내용의 벡터 표현을 위한 텍스트, 선, 모양, 이미지, 색상 및 효과가 포함됩니다. CDR 파일은 CorelDRAW를 기본 응용 프로그램으로 사용하여 열 수 있으며 PDF, JPG, PNG, BMP 및 AI와 같은 다른 형식으로 변환할 수도 있습니다. 브로셔, 타블로이드, 봉투, 엽서 등 다양한 그래픽 데이터의 표현에 사용할 수 있습니다. CorelDRAW 외에도 Corel Paintshop Pro 및 CorelDRAW Graphics 제품군과 같은 다른 Corel 제품도 CDR 파일 형식을 열 수 있습니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | PNG">}}
 PNG(Portable Network Graphics)는 무손실 압축을 사용하는 래스터 이미지 파일 형식 유형을 나타냅니다. 이 파일 형식은 GIF(Graphics Interchange Format)를 대체하기 위해 만들어졌으며 저작권 제한이 없습니다. 그러나 PNG 파일 형식은 애니메이션을 지원하지 않습니다. PNG 파일 형식은 무손실 이미지 압축을 지원하므로 사용자들에게 인기가 있습니다. 시간이 지남에 따라 PNG는 가장 많이 사용되는 이미지 파일 형식 중 하나로 발전했습니다. 거의 모든 운영 체제는 PNG 파일 열기를 지원합니다. 예를 들어, Microsoft Windows 뷰어에는 OS가 기본적으로 설치의 일부로 지원을 제공하므로 PNG 파일을 열 수 있는 기능이 있습니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

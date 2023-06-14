@@ -62,16 +62,6 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Chuyển đổi BMP thành SVGZ - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Ứng dụng miễn phí để chuyển đổi BMP thành SVGZ"
         appName="Conversion"
@@ -83,13 +73,21 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/vi/conversion/BMP-to-SVGZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Chuyển đổi BMP thành SVGZ - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm | BMP">}}
 Các tệp có phần mở rộng .BMP đại diện cho các tệp Hình ảnh Bitmap được sử dụng để lưu trữ hình ảnh kỹ thuật số bitmap. Những hình ảnh này độc lập với bộ điều hợp đồ họa và còn được gọi là định dạng tệp bitmap (DIB) độc lập với thiết bị. Tính độc lập này phục vụ mục đích mở tệp trên nhiều nền tảng như Microsoft Windows và Mac. Định dạng tệp BMP có thể lưu trữ dữ liệu dưới dạng hình ảnh kỹ thuật số hai chiều ở cả định dạng đơn sắc và màu với nhiều độ sâu màu khác nhau.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm | SVGZ">}}
 Tệp có phần mở rộng .svgz là phiên bản nén của tệp Đồ họa Vectơ có thể mở rộng (.SVG). Nó được nén bằng nén gzip và chứa dữ liệu ở định dạng XML. Các tệp SVGZ hỗ trợ độ trong suốt, độ dốc, hoạt ảnh và bộ lọc. Các tệp SVGZ có kích thước nhỏ hơn so với các tệp SVG mặc định và kích thước tệp giảm này giúp chuyển các tệp đồ họa trực tuyến. Nhà thiết kế đồ họa tạo các tệp SVGZ bằng các công cụ như Adobe Illustrator, Corel PaintShop Pro và các công cụ khác. Tuy nhiên, tệp SVGZ có thể được tạo bằng cách bật tính năng nén GZip trong Máy chủ Apache trong khi gửi dữ liệu hình ảnh.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

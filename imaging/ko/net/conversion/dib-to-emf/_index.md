@@ -64,16 +64,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="DIB을 EMF로 변환 - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="DIB을 EMF로 변환하는 무료 앱"
         appName="Conversion"
@@ -85,13 +75,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ko/conversion/DIB-to-EMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="DIB을 EMF로 변환 - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | DIB">}}
 DIB(장치 독립 비트맵) 파일은 표준 비트맵 파일(BMP)과 구조가 유사하지만 헤더가 다른 래스터 이미지 파일입니다. Windows 및 macOS에서 표준 BMP 파일을 열 수 있는 거의 모든 응용 프로그램에서 열 수 있습니다. DIB는 바이너리 파일이며 BMP와 유사한 복잡한 파일 형식을 가지고 있습니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | EMF">}}
 EMF(Enhanced Metafile Format)는 그래픽 이미지를 장치에 독립적으로 저장합니다. EMF의 메타파일은 모든 출력 장치에서 구문 분석한 후 저장된 이미지를 렌더링할 수 있는 시간순의 가변 길이 레코드로 구성됩니다. 이러한 가변 길이 레코드는 포함된 개체의 정의, 그리기 명령 및 이미지를 정확하게 렌더링하는 데 중요한 그래픽 속성이 될 수 있습니다. 장치가 자체 그래픽 환경을 사용하여 EMF 메타파일을 열 때 원본 이미지의 비율, 치수, 색상 및 기타 그래픽 속성은 여는 장치 플랫폼에 관계없이 동일하게 유지됩니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

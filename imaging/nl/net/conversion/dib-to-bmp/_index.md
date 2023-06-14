@@ -62,16 +62,6 @@ Voordat u de conversievoorbeeldcode uitvoert, moet u ervoor zorgen dat u aan de 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Converteer DIB naar BMP - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Gratis app om DIB naar BMP te converteren"
         appName="Conversion"
@@ -83,13 +73,21 @@ Voordat u de conversievoorbeeldcode uitvoert, moet u ervoor zorgen dat u aan de 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/nl/conversion/DIB-to-BMP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Converteer DIB naar BMP - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder | DIB">}}
 Een DIB-bestand (Device Independent Bitmap) is een rasterafbeeldingsbestand dat qua structuur vergelijkbaar is met de standaard Bitmap-bestanden (BMP), maar een andere kop heeft. Het kan worden geopend met bijna alle toepassingen die een standaard BMP-bestand op Windows en macOS kunnen openen. DIB zijn binaire bestanden en hebben een complexe bestandsindeling die lijkt op BMP.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder | BMP">}}
 Bestanden met de extensie .BMP vertegenwoordigen Bitmap Image-bestanden die worden gebruikt om digitale bitmapafbeeldingen op te slaan. Deze afbeeldingen zijn onafhankelijk van de grafische adapter en worden ook wel apparaatonafhankelijke bitmap (DIB)-bestandsindeling genoemd. Deze onafhankelijkheid dient om het bestand op meerdere platforms te openen, zoals Microsoft Windows en Mac. Het BMP-bestandsformaat kan gegevens opslaan als tweedimensionale digitale afbeeldingen in zowel zwart-wit als kleurformaat met verschillende kleurdiepten.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

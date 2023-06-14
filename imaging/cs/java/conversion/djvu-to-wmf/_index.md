@@ -75,16 +75,6 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Převést DJVU na WMF – Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Bezplatná aplikace pro převod DJVU na WMF"
         appName="Conversion"
@@ -96,13 +86,21 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DJVU-to-WMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Převést DJVU na WMF – Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více | DJVU">}}
 DjVu, vyslovováno jako DJVU, je formát grafického souboru určený pro naskenované dokumenty a knihy, zejména ty, které obsahují kombinaci textu, kreseb, obrázků a fotografií. Byl vyvinut společností AT&T Labs. Využívá různé techniky, jako je separace obrazových vrstev textu a obrázků na pozadí, progresivní načítání, aritmetické kódování a ztrátová komprese pro bitonální obrázky. Protože soubor DJVU může obsahovat komprimované, ale vysoce kvalitní barevné obrázky, fotografie, text a kresby a lze jej uložit na méně místa, používá se na webu jako e-knihy, manuály, noviny, staré dokumenty atd.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více | WMF">}}
 Soubory s příponou WMF představují Microsoft Windows Metafile (WMF) pro ukládání dat vektorových i bitmapových obrázků. Abychom byli přesnější, WMF patří do kategorie formátů vektorových souborů grafických formátů souborů, které jsou nezávislé na zařízení. Windows Graphical Device Interface (GDI) používá funkce uložené v souboru WMF k zobrazení obrázku na obrazovce. Později byla publikována vylepšená verze WMF, známá jako Enhanced Meta Files (EMF), díky níž je formát bohatší na funkce. Prakticky jsou WMF podobné SVG.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

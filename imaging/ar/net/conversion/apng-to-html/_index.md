@@ -61,16 +61,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="تحويل APNG إلى HTML - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="تطبيق مجاني لتحويل APNG إلى HTML"
         appName="Conversion"
@@ -82,13 +72,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/APNG-to-HTML)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="تحويل APNG إلى HTML - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | APNG">}}
 الملف ذو الامتداد .apng (الرسوم المتحركة للشبكة المحمولة) هو تنسيق رسومي نقطي وهو امتداد غير رسمي لـ Portable Network Graphic (PNG). وهي تتألف من إطارات متعددة (كل صورة من صورة PNG) تمثل تسلسلًا للرسوم المتحركة. هذا يعطي تصورًا مشابهًا لملف GIF. تدعم ملفات APNG صور 24 بت وشفافية 8 بت. APNG متوافق مع الإصدارات السابقة مع ملفات GIF غير المتحركة. تستخدم ملفات APNG نفس امتداد .png ويمكن فتحها بواسطة تطبيقات مثل Mozilla Firefox و Chrome مع دعم APNG وتطبيقات iMessage لنظام التشغيل iOS 10.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | HTML">}}
 HTML (Hyper Text Markup Language) هو امتداد لصفحات الويب التي تم إنشاؤها للعرض في المتصفحات. تُعرف لغة HTML بلغة الويب ، وقد تطورت مع متطلبات متطلبات المعلومات الجديدة ليتم عرضها كجزء من صفحات الويب. يُعرف المتغير الأخير باسم HTML 5 الذي يوفر قدرًا كبيرًا من المرونة للعمل مع اللغة. يتم استلام صفحات HTML إما من الخادم ، حيث يتم استضافتها ، أو يمكن تحميلها من النظام المحلي أيضًا. تتكون كل صفحة HTML من عناصر HTML مثل النماذج والنصوص والصور والرسوم المتحركة والروابط وما إلى ذلك. يتم تمثيل هذه العناصر بعلامات مثل img و a و p والعديد من العناصر الأخرى حيث تبدأ كل علامة ونهايتها. يمكنه أيضًا تضمين التطبيقات المكتوبة بلغات البرمجة النصية مثل JavaScript و Style Sheets (CSS) لتمثيل التخطيط العام.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

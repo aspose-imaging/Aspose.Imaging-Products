@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="APNG को BMP में बदलें - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="APNG को BMP में बदलने के लिए नि:शुल्‍क ऐप"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/APNG-to-BMP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="APNG को BMP में बदलें - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | APNG">}}
 .apng (एनिमेटेड पोर्टेबल नेटवर्क ग्राफिक्स) एक्सटेंशन वाली फाइल एक रैस्टर ग्राफिक फॉर्मेट है और पोर्टेबल नेटवर्क ग्राफिक (पीएनजी) के लिए एक अनौपचारिक एक्सटेंशन है। इसमें कई फ्रेम शामिल हैं (प्रत्येक पीएनजी छवि) जो एक एनीमेशन अनुक्रम का प्रतिनिधित्व करता है। यह GIF फ़ाइल के समान विज़ुअलाइज़ेशन देता है। एपीएनजी फाइलें 24-बिट छवियों और 8-बिट पारदर्शिता का समर्थन करती हैं। APNG गैर-एनिमेटेड GIF फ़ाइलों के साथ पिछड़ा संगत है। APNG फ़ाइलें समान .png एक्सटेंशन का उपयोग करती हैं और Mozilla Firefox, APNG समर्थन वाले Chrome, iOS 10 के लिए iMessage ऐप्स जैसे एप्लिकेशन द्वारा खोली जा सकती हैं।
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | BMP">}}
 एक्सटेंशन वाली फ़ाइलें .BMP बिटमैप छवि फ़ाइलों का प्रतिनिधित्व करती हैं जिनका उपयोग बिटमैप डिजिटल छवियों को संग्रहीत करने के लिए किया जाता है। ये चित्र ग्राफिक्स एडेप्टर से स्वतंत्र हैं और इन्हें डिवाइस इंडिपेंडेंट बिटमैप (DIB) फ़ाइल स्वरूप भी कहा जाता है। यह स्वतंत्रता माइक्रोसॉफ्ट विंडोज और मैक जैसे कई प्लेटफार्मों पर फ़ाइल खोलने के उद्देश्य से कार्य करती है। बीएमपी फ़ाइल प्रारूप डेटा को दो-आयामी डिजिटल छवियों के रूप में मोनोक्रोम के साथ-साथ विभिन्न रंग गहराई के साथ रंग प्रारूप में संग्रहीत कर सकता है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 

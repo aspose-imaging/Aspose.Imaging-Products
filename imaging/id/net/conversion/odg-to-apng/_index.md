@@ -62,16 +62,6 @@ Sebelum menjalankan kode contoh konversi, pastikan Anda memiliki prasyarat berik
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konversi ODG ke APNG - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Aplikasi Gratis untuk Mengonversi ODG ke APNG"
         appName="Conversion"
@@ -83,13 +73,21 @@ Sebelum menjalankan kode contoh konversi, pastikan Anda memiliki prasyarat berik
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/id/conversion/ODG-to-APNG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konversi ODG ke APNG - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya | ODG">}}
 Format file ODG digunakan oleh aplikasi Draw Apache OpenOffice untuk menyimpan elemen gambar sebagai gambar vektor. Ini mengikuti spesifikasi format file berbasis XML yang digariskan oleh Kemajuan Standar Informasi Struktural (OASIS). ODG mewakili gambar sebagai gambar vektor menggunakan titik, garis, dan kurva. Selain OpenOffice, LibreOffice dan aplikasi lain juga menyediakan dukungan untuk bekerja dengan format file ODG. Format lain yang didukung oleh OpenOffice, misalnya, termasuk ODT, ODF, ODP dan ODS.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya | APNG">}}
 File dengan ekstensi .apng (Animated Portable Network Graphics) adalah format grafik raster dan merupakan ekstensi tidak resmi untuk Portable Network Graphic (PNG ). Ini terdiri dari beberapa frame (masing-masing gambar PNG) yang mewakili urutan animasi. Ini memberikan visualisasi yang mirip dengan file GIF. File APNG mendukung gambar 24-bit dan transparansi 8-bit. APNG kompatibel dengan file GIF non-animasi. File APNG menggunakan ekstensi .png yang sama dan dapat dibuka oleh aplikasi seperti Mozilla Firefox, Chrome dengan dukungan APNG, aplikasi iMessage untuk iOS 10.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

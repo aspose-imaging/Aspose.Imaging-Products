@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити GIF на TIFF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення GIF у TIFF"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/GIF-to-TIFF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити GIF на TIFF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | GIF">}}
 GIF або Graphical Interchange Format — це тип сильно стиснутого зображення. GIF, що належить Unisys, використовує алгоритм стиснення LZW, який не погіршує якість зображення. Для кожного зображення GIF зазвичай допускається до 8 біт на піксель і до 256 кольорів на зображенні. На відміну від зображення у форматі JPEG, яке може відображати до 16 мільйонів кольорів і доторкається до меж людського ока. Коли з’явився Інтернет, GIF-файли залишалися найкращим вибором, оскільки вони потребували низької пропускної здатності та були сумісні з графікою, яка споживає суцільні кольорові ділянки. Анімований GIF поєднує численні зображення або кадри в один файл і відображає їх у послідовності для створення анімованого кліпу або короткого відео. Кольорові обмеження становлять до 256 для кожного кадру, і вони, імовірно, найменше підходять для відтворення інших зображень і фотографій із градієнтом кольорів.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | TIFF">}}
 TIFF або TIF, Tagged Image File Format, представляє растрові зображення, які призначені для використання на різних пристроях, які відповідають цьому стандарту формату файлів. Він здатний описувати дані дворівневого зображення, відтінків сірого, кольору палітри та повнокольорового зображення в кількох колірних просторах. Він підтримує схеми стиснення як із втратами, так і без втрат, щоб вибрати між простором і часом для програм, які використовують формат. Формат є розширюваним і зазнав кілька переглядів, що дозволяє включати необмежену кількість приватної або спеціальної інформації. Формат не залежить від машини та не залежить від процесора, операційної системи чи файлових систем.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

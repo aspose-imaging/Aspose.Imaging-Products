@@ -63,16 +63,6 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertiere CDR in SVGZ - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Kostenlose App zum Konvertieren von CDR in SVGZ"
         appName="Conversion"
@@ -84,13 +74,21 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/de/conversion/CDR-to-SVGZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertiere CDR in SVGZ - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen | CDR">}}
 Eine CDR-Datei ist eine Vektorzeichnungsbilddatei, die nativ mit CorelDRAW zum Speichern digitaler Bilder kodiert und komprimiert erstellt wird. Eine solche Zeichnungsdatei enthält Texte, Linien, Formen, Bilder, Farben und Effekte zur vektoriellen Darstellung von Bildinhalten. CDR-Dateien können mit CorelDRAW als Hauptanwendung geöffnet und auch in andere Formate wie PDF, JPG, PNG, BMP und AI konvertiert werden. Es kann zur Darstellung verschiedener Grafikdaten wie Broschüren, Boulevardzeitungen, Umschläge und Postkarten verwendet werden. Neben CorelDRAW können auch andere Corel-Produkte wie Corel Paintshop Pro und CorelDRAW Graphics Suite die CDR-Dateiformate öffnen.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen | SVGZ">}}
 Eine Datei mit der Erweiterung .svgz ist eine komprimierte Version der Datei Scalable Vector Graphics (.SVG). Es ist mit gzip-Komprimierung komprimiert und enthält Daten im XML-Format. SVGZ-Dateien unterstützen Transparenz, Farbverläufe, Animationen und Filter. SVGZ-Dateien sind im Vergleich zu den Standard-SVG-Dateien kleiner und diese reduzierte Dateigröße hilft, die Grafikdateien online zu übertragen. Grafikdesigner erstellen SVGZ-Dateien mit Tools wie Adobe Illustrator, Corel PaintShop Pro und anderen. SVGZ-Dateien können jedoch generiert werden, indem die GZip-Komprimierung im Apache-Server aktiviert wird, während die Bilddaten gesendet werden.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

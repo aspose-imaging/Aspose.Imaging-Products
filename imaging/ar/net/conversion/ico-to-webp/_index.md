@@ -61,16 +61,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="تحويل ICO إلى WEBP - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="تطبيق مجاني لتحويل ICO إلى WEBP"
         appName="Conversion"
@@ -82,13 +72,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/ICO-to-WEBP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="تحويل ICO إلى WEBP - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | ICO">}}
 تنسيق ملف ICO هو تنسيق ملف صورة لأيقونات الكمبيوتر في Microsoft Windows. تحتوي ملفات ICO على صورة صغيرة واحدة أو أكثر بأحجام وأعماق ألوان متعددة ، بحيث يمكن قياسها بشكل مناسب. في Windows ، يجب أن تحمل جميع الملفات التنفيذية التي تعرض رمزًا للمستخدم أو على سطح المكتب أو في قائمة ابدأ أو في مستكشف Windows الرمز بتنسيق ICO.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | WEBP">}}
 WebP ، الذي قدمته Google ، هو تنسيق حديث لملف صور الويب النقطية يعتمد على ضغط بدون فقد وفقدان. إنه يوفر نفس جودة الصورة مع تقليل حجم الصورة بشكل كبير. نظرًا لأن معظم صفحات الويب تستخدم الصور كتمثيل فعال للبيانات ، فإن استخدام صور WebP في صفحات الويب ينتج عنه تحميل أسرع لصفحات الويب. وفقًا لـ Google ، تكون صور WebP غير المفقودة أصغر حجمًا بنسبة 26٪ مقارنة بصور PNG ، في حين أن صور WebP المفقودة أصغر بنسبة 25-34٪ من صور JPEG المماثلة. تتم مقارنة الصور بناءً على فهرس التشابه الهيكلي (SSIM) بين WebP وتنسيقات ملفات الصور الأخرى. يعد WebP مشروعًا شقيقًا لتنسيق حاوية الوسائط المتعددة WebM.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

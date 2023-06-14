@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="DJVU को PSD में बदलें - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="DJVU को PSD में बदलने के लिए नि:शुल्‍क ऐप"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DJVU-to-PSD)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="DJVU को PSD में बदलें - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | DJVU">}}
 DjVu, जिसे DJVU के रूप में उच्चारित किया जाता है, एक ग्राफिक्स फ़ाइल स्वरूप है जो स्कैन किए गए दस्तावेज़ों और पुस्तकों के लिए अभिप्रेत है, विशेष रूप से वे जिनमें पाठ, चित्र, चित्र और तस्वीरों का संयोजन होता है। इसे एटी एंड टी लैब्स द्वारा विकसित किया गया था। यह पाठ और पृष्ठभूमि छवियों की छवि परत पृथक्करण, प्रगतिशील लोडिंग, अंकगणितीय कोडिंग और बिटोनल छवियों के लिए हानिपूर्ण संपीड़न जैसी कई तकनीकों का उपयोग करता है। चूंकि डीजेवीयू फाइल में कंप्रेस्ड अभी तक उच्च गुणवत्ता वाली रंगीन छवियां, फोटोग्राफ, टेक्स्ट और ड्रॉइंग हो सकती हैं और इसे कम जगह में सहेजा जा सकता है, इसलिए इसका उपयोग वेब पर ईबुक, मैनुअल, समाचार पत्र, प्राचीन दस्तावेज आदि के रूप में किया जाता है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | PSD">}}
 PSD, Photoshop Document, Adobe Photoshop के मूल फ़ाइल स्वरूप का प्रतिनिधित्व करता है जिसका उपयोग ग्राफिक्स डिजाइनिंग और विकास के लिए किया जाता है। PSD फ़ाइलों में छवि परतें, समायोजन परतें, परत मास्क, एनोटेशन, फ़ाइल जानकारी, कीवर्ड और अन्य फ़ोटोशॉप-विशिष्ट तत्व शामिल हो सकते हैं।
         {{< /blocks/products/pf/agp/about-file-text >}}
 

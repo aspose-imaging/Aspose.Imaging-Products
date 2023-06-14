@@ -75,16 +75,6 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="APNG öğesini TGA - Java biçimine dönüştürün" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="APNG'i TGA'e Dönüştürmek için Ücretsiz Uygulama"
         appName="Conversion"
@@ -96,13 +86,21 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/tr/conversion/APNG-to-TGA)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="APNG öğesini TGA - Java biçimine dönüştürün" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | APNG">}}
 .apng (Animasyonlu Taşınabilir Ağ Grafikleri) uzantılı bir dosya, bir raster grafik biçimidir ve Taşınabilir Ağ Grafiğinin (PNG) resmi olmayan bir uzantısıdır. Bir animasyon dizisini temsil eden birden çok kareden (PNG görüntüsünün her biri) oluşur. Bu, bir GIF dosyasına benzer görselleştirme sağlar. APNG dosyaları 24 bit görüntüleri ve 8 bit şeffaflığı destekler. APNG, animasyonsuz GIF dosyalarıyla geriye dönük olarak uyumludur. APNG dosyaları aynı .png uzantısını kullanır ve Mozilla Firefox, APNG destekli Chrome, iOS 10 için iMessage uygulamaları gibi uygulamalar tarafından açılabilir.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | TGA">}}
 Genellikle TARGA olarak adlandırılan Truevision TGA, Truevision Inc. (şimdi Avid Technology'nin bir parçası) tarafından oluşturulan bir raster grafik dosyası formatıdır. IBM uyumlu PC'ler için Highcolor/truecolor ekranı destekleyen ilk grafik kartları olan TARGA ve VISTA kartlarının yerel formatıydı.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -64,16 +64,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="ODG을 WMF로 변환 - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="ODG을 WMF로 변환하는 무료 앱"
         appName="Conversion"
@@ -85,13 +75,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ko/conversion/ODG-to-WMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="ODG을 WMF로 변환 - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | ODG">}}
 ODG 파일 형식은 Apache OpenOffice의 그리기 응용 프로그램에서 그리기 요소를 벡터 이미지로 저장하는 데 사용됩니다. OASIS(구조 정보 표준의 발전)에서 설명한 XML 기반 파일 형식 사양을 따릅니다. ODG는 점, 선 및 곡선을 사용하여 도면을 벡터 이미지로 나타냅니다. OpenOffice 외에도 LibreOffice 및 기타 응용 프로그램은 ODG 파일 형식 작업을 지원합니다. 예를 들어 OpenOffice에서 지원하는 다른 형식에는 ODT, ODF, ODP 및 ODS가 있습니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | WMF">}}
 WMF 확장자를 가진 파일은 벡터 및 비트맵 형식 이미지 데이터를 저장하기 위한 Microsoft WMF(Windows 메타파일)를 나타냅니다. 더 정확하게 말하면 WMF는 장치 독립적인 그래픽 파일 형식의 벡터 파일 형식 범주에 속합니다. Windows GDI(그래픽 장치 인터페이스)는 WMF 파일에 저장된 기능을 사용하여 화면에 이미지를 표시합니다. EMF(Enhanced Meta Files)로 알려진 보다 향상된 WMF 버전이 나중에 게시되어 형식을 더욱 풍부하게 만들었습니다. 실제로 WMF는 SVG와 유사합니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

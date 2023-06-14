@@ -75,16 +75,6 @@ Antes de ejecutar el código de ejemplo de conversión, asegúrese de tener los 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convertir SVG a DXF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Aplicación gratuita para convertir SVG a DXF"
         appName="Conversion"
@@ -96,13 +86,21 @@ Antes de ejecutar el código de ejemplo de conversión, asegúrese de tener los 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/es/conversion/SVG-to-DXF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Convertir SVG a DXF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más | SVG">}}
 Los archivos SVG son archivos de gráficos vectoriales escalables que utilizan un formato de texto basado en XML para describir la apariencia de la imagen. La palabra escalable se refiere al hecho de que el SVG se puede escalar a diferentes tamaños sin perder calidad. La descripción basada en texto de dichos archivos los hace independientes de la resolución. Es uno de los formatos más utilizados para crear sitios web e imprimir gráficos para lograr escalabilidad. Sin embargo, el formato solo se puede usar para gráficos bidimensionales. Los archivos SVG se pueden ver/abrir en casi todos los navegadores modernos, incluidos Chrome, Internet Explorer, Firefox y Safari.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más | DXF">}}
 DXF, formato de intercambio de dibujos o formato de intercambio de dibujos, es una representación de datos etiquetados del archivo de dibujo de AutoCAD. Cada elemento del archivo tiene un número entero de prefijo denominado código de grupo. Este código de grupo en realidad representa el elemento que sigue e indica el significado de un elemento de datos para un tipo de objeto dado. DXF permite representar casi toda la información especificada por el usuario en un archivo de dibujo.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

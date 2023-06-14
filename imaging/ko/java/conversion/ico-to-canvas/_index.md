@@ -75,16 +75,6 @@ ICO을 CANVAS로 변환하려면 다음을 사용합니다. [자바용 Aspose.Im
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="ICO을 CANVAS로 변환 - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="ICO을 CANVAS로 변환하는 무료 앱"
         appName="Conversion"
@@ -96,13 +86,21 @@ ICO을 CANVAS로 변환하려면 다음을 사용합니다. [자바용 Aspose.Im
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ko/conversion/ICO-to-CANVAS)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="ICO을 CANVAS로 변환 - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | ICO">}}
 ICO 파일 형식은 Microsoft Windows의 컴퓨터 아이콘에 대한 이미지 파일 형식입니다. ICO 파일에는 적절하게 크기를 조정할 수 있도록 여러 크기와 색상 깊이의 하나 이상의 작은 이미지가 포함되어 있습니다. Windows에서 바탕 화면, 시작 메뉴 또는 Windows 탐색기에서 사용자에게 아이콘을 표시하는 모든 실행 파일에는 ICO 형식의 아이콘이 있어야 합니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CANVAS" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CANVAS" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | CANVAS">}}
 HTML(Hyper Text Markup Language)은 브라우저에 표시하기 위해 생성된 웹 페이지의 확장입니다. 웹 언어로 알려진 HTML은 웹 페이지의 일부로 표시되어야 하는 새로운 정보 요구 사항과 함께 발전했습니다. 최신 변형은 HTML 5로 알려져 있으며 언어 작업에 많은 유연성을 제공합니다. HTML 페이지는 호스팅되는 서버에서 수신하거나 로컬 시스템에서도 로드할 수 있습니다. 각 HTML 페이지는 양식, 텍스트, 이미지, 애니메이션, 링크 등과 같은 HTML 요소로 구성됩니다. 이러한 요소는 img, a, p 및 각 태그에 시작과 끝이 있는 여러 태그와 같은 태그로 표시됩니다. 또한 전체 레이아웃 표현을 위해 JavaScript 및 CSS(스타일 시트)와 같은 스크립팅 언어로 작성된 응용 프로그램을 포함할 수 있습니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

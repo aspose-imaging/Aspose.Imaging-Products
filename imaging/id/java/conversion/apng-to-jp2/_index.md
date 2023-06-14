@@ -75,16 +75,6 @@ Sebelum menjalankan kode contoh konversi, pastikan Anda memiliki prasyarat berik
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konversi APNG ke JP2 - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Aplikasi Gratis untuk Mengonversi APNG ke JP2"
         appName="Conversion"
@@ -96,13 +86,21 @@ Sebelum menjalankan kode contoh konversi, pastikan Anda memiliki prasyarat berik
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/id/conversion/APNG-to-JP2)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konversi APNG ke JP2 - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya | APNG">}}
 File dengan ekstensi .apng (Animated Portable Network Graphics) adalah format grafik raster dan merupakan ekstensi tidak resmi untuk Portable Network Graphic (PNG ). Ini terdiri dari beberapa frame (masing-masing gambar PNG) yang mewakili urutan animasi. Ini memberikan visualisasi yang mirip dengan file GIF. File APNG mendukung gambar 24-bit dan transparansi 8-bit. APNG kompatibel dengan file GIF non-animasi. File APNG menggunakan ekstensi .png yang sama dan dapat dibuka oleh aplikasi seperti Mozilla Firefox, Chrome dengan dukungan APNG, aplikasi iMessage untuk iOS 10.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya | JP2">}}
 JPEG 2000 (JP2) adalah sistem pengkodean gambar dan standar kompresi gambar mutakhir. Dirancang, menggunakan teknologi wavelet JPEG 2000 dapat mengkodekan konten lossless dalam kualitas apa pun sekaligus. Selain itu, tanpa penalti substansial dalam efisiensi pengkodean, JPEG 2000 memiliki kemampuan untuk mengakses dan mendekode konten yang sama secara efektif ke dalam berbagai resolusi dan kualitas lainnya. Aliran kode dalam JPEG 2000 secara signifikan dapat diskalakan memiliki wilayah yang menarik yang menyediakan fasilitas untuk akses acak spasial. Memiliki hingga 16384 komponen yang beragam dengan dimensi dalam terapixels, dan presisi yang dapat setinggi 38 bit/sampel.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -75,16 +75,6 @@ description: Зразок коду для перетворення WMZ у SVGZ J
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити WMZ на SVGZ - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення WMZ у SVGZ"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Зразок коду для перетворення WMZ у SVGZ J
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/WMZ-to-SVGZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити WMZ на SVGZ - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | WMZ">}}
 WMZ — це розширення файлу для формату файлу оболонки, який/для/використовується медіапрогравачем Windows. WMZ-файл – це в основному заархівований файл WMF у форматі XML.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | SVGZ">}}
 Файл із розширенням .svgz є стиснутою версією файлу масштабованої векторної графіки (.SVG). Він стискається за допомогою стиснення gzip і містить дані у форматі XML. Файли SVGZ підтримують прозорість, градієнти, анімацію та фільтри. Файли SVGZ мають менший розмір порівняно з файлами SVG за замовчуванням, і цей зменшений розмір файлу допомагає передавати графічні файли онлайн. Графічний дизайнер створює файли SVGZ за допомогою таких інструментів, як Adobe Illustrator, Corel PaintShop Pro та інших. Однак файли SVGZ можна створити, увімкнувши стиснення GZip на сервері Apache під час надсилання даних зображення.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

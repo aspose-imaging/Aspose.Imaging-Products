@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="แปลง WEBP เป็น HTML - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="แอปฟรีเพื่อแปลง WEBP เป็น HTML"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/WEBP-to-HTML)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="แปลง WEBP เป็น HTML - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | WEBP">}}
 WebP ซึ่งเปิดตัวโดย Google เป็นรูปแบบไฟล์ภาพเว็บแรสเตอร์ที่ทันสมัยซึ่งใช้การบีบอัดแบบไม่สูญเสียข้อมูลและการสูญเสียข้อมูล ให้คุณภาพของภาพเท่าเดิมในขณะที่ลดขนาดภาพลงอย่างมาก เนื่องจากหน้าเว็บส่วนใหญ่ใช้รูปภาพเป็นตัวแทนข้อมูลที่มีประสิทธิภาพ การใช้รูปภาพ WebP ในหน้าเว็บส่งผลให้โหลดหน้าเว็บเร็วขึ้น ตาม Google รูปภาพที่ไม่สูญเสียของ WebP มีขนาดเล็กกว่า 26% เมื่อเทียบกับ PNG ในขณะที่รูปภาพที่สูญเสียของ WebP นั้นเล็กกว่าภาพ JPEG ที่เปรียบเทียบได้ 25-34% รูปภาพจะถูกเปรียบเทียบโดยอิงตามดัชนีความคล้ายคลึงกันของโครงสร้าง (SSIM) ระหว่าง WebP และรูปแบบไฟล์รูปภาพอื่นๆ WebP เป็นโครงการน้องสาวของรูปแบบคอนเทนเนอร์มัลติมีเดียของ WebM
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | HTML">}}
 HTML (Hyper Text Markup Language) เป็นส่วนขยายสำหรับหน้าเว็บที่สร้างขึ้นสำหรับแสดงในเบราว์เซอร์ รู้จักกันในชื่อภาษาของเว็บ HTML ได้พัฒนาด้วยข้อกำหนดของข้อกำหนดข้อมูลใหม่เพื่อแสดงเป็นส่วนหนึ่งของหน้าเว็บ ตัวแปรล่าสุดเรียกว่า HTML 5 ซึ่งให้ความยืดหยุ่นอย่างมากในการทำงานกับภาษา หน้า HTML จะได้รับจากเซิร์ฟเวอร์ซึ่งโฮสต์เหล่านี้หรือสามารถโหลดจากระบบภายในได้เช่นกัน หน้า HTML แต่ละหน้าประกอบด้วยองค์ประกอบ HTML เช่น แบบฟอร์ม ข้อความ รูปภาพ แอนิเมชั่น ลิงก์ ฯลฯ องค์ประกอบเหล่านี้แสดงโดยแท็ก เช่น img, a, p และอื่นๆ อีกหลายอย่างซึ่งแต่ละแท็กมีจุดเริ่มต้นและจุดสิ้นสุด นอกจากนี้ยังสามารถฝังแอปพลิเคชันที่เขียนด้วยภาษาสคริปต์ เช่น JavaScript และสไตล์ชีต (CSS) สำหรับการแสดงเค้าโครงโดยรวม
         {{< /blocks/products/pf/agp/about-file-text >}}
 

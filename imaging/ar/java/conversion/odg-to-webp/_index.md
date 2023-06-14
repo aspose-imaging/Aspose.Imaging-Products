@@ -75,16 +75,6 @@ description: نموذج رمز لـ ODG إلى WEBP تحويل Java. استخد�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="تحويل ODG إلى WEBP - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="تطبيق مجاني لتحويل ODG إلى WEBP"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: نموذج رمز لـ ODG إلى WEBP تحويل Java. استخد�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/ODG-to-WEBP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="تحويل ODG إلى WEBP - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | ODG">}}
 يتم استخدام تنسيق ملف ODG بواسطة تطبيق رسم Apache OpenOffice لتخزين عناصر الرسم كصورة متجهة. وهو يتبع مواصفات تنسيق الملفات المستندة إلى XML الموضحة من قبل تطوير معايير المعلومات الهيكلية (OASIS). يمثل ODG الرسومات كصور متجهة باستخدام النقاط والخطوط والمنحنيات. إلى جانب OpenOffice ، توفر LibreOffice والتطبيقات الأخرى أيضًا دعمًا للعمل مع تنسيق ملف ODG. تشمل التنسيقات الأخرى التي يدعمها OpenOffice ، على سبيل المثال ، ODT و ODF و ODP و ODS.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | WEBP">}}
 WebP ، الذي قدمته Google ، هو تنسيق حديث لملف صور الويب النقطية يعتمد على ضغط بدون فقد وفقدان. إنه يوفر نفس جودة الصورة مع تقليل حجم الصورة بشكل كبير. نظرًا لأن معظم صفحات الويب تستخدم الصور كتمثيل فعال للبيانات ، فإن استخدام صور WebP في صفحات الويب ينتج عنه تحميل أسرع لصفحات الويب. وفقًا لـ Google ، تكون صور WebP غير المفقودة أصغر حجمًا بنسبة 26٪ مقارنة بصور PNG ، في حين أن صور WebP المفقودة أصغر بنسبة 25-34٪ من صور JPEG المماثلة. تتم مقارنة الصور بناءً على فهرس التشابه الهيكلي (SSIM) بين WebP وتنسيقات ملفات الصور الأخرى. يعد WebP مشروعًا شقيقًا لتنسيق حاوية الوسائط المتعددة WebM.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

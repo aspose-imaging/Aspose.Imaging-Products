@@ -75,16 +75,6 @@ description: קוד לדוגמה עבור המרת Java מ-EPS ל-ICO. השתמ�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="המר את EPS ל-ICO - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="אפליקציה חינמית להמרת EPS ל-ICO"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: קוד לדוגמה עבור המרת Java מ-EPS ל-ICO. השתמ�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/EPS-to-ICO)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="המר את EPS ל-ICO - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | EPS">}}
 קבצים עם סיומת EPS מתארים בעצם תוכנית שפת Encapsulated PostScript שמתארת ​​את המראה של עמוד בודד. השם "Encapsulated" מכיוון שניתן לכלול אותו או לכלול אותו בתיאור עמוד אחר בשפת PostScript. פורמט קובץ זה מבוסס סקריפט עשוי להכיל כל שילוב של טקסט, גרפיקה ותמונות. קובצי EPS עשויים לכלול תמונת תצוגה מקדימה של מפת סיביות מכוסה בפנים לתצוגה על ידי יישומים שיכולים לפתוח קבצים כאלה. ניתן להמיר קבצי EPS לפורמטים סטנדרטיים של תמונה כגון JPG, PNG, TIFF ו-PDF באמצעות יישומים שונים, למשל. Adobe Illustrator, Photoshop ו-PaintShop Pro. בגלל פגיעות אבטחה בקובצי EPS, Office 2016, Office 2013, Office 2010 ו-Office 365 ביטלו את היכולת להכניס קובצי EPS למסמכי Office.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | ICO">}}
 פורמט קובץ ICO הוא פורמט קובץ תמונה עבור סמלי מחשב ב-Microsoft Windows. קובצי ICO מכילים תמונה קטנה אחת או יותר בגדלים ובעומקי צבע מרובים, כך שניתן לשנות את קנה המידה שלהם כראוי. ב-Windows, כל קובצי ההפעלה שמציגים סמל למשתמש, בשולחן העבודה, בתפריט התחל או בסייר Windows, חייבים לשאת את הסמל בפורמט ICO.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -75,16 +75,6 @@ description: نموذج رمز لـ EPS إلى BMP تحويل Java. استخدم
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="تحويل EPS إلى BMP - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="تطبيق مجاني لتحويل EPS إلى BMP"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: نموذج رمز لـ EPS إلى BMP تحويل Java. استخدم
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/EPS-to-BMP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="تحويل EPS إلى BMP - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | EPS">}}
 تصف الملفات ذات امتداد EPS بشكل أساسي برنامج لغة Encapsulated PostScript يصف مظهر صفحة واحدة. الاسم "مغلف" لأنه يمكن تضمينه أو تغليفه في وصف صفحة أخرى بلغة PostScript. قد يحتوي تنسيق الملف المستند إلى البرنامج النصي على أي مجموعة من النصوص والرسومات والصور. قد تتضمن ملفات EPS صورة معاينة نقطية مغلفة بالداخل لعرضها بواسطة التطبيقات التي يمكنها فتح مثل هذه الملفات. يمكن تحويل ملفات EPS إلى تنسيقات صور قياسية مثل JPG و PNG و TIFF و PDF باستخدام تطبيقات مختلفة مثل Adobe Illustrator و Photoshop و PaintShop Pro. نظرًا لوجود ثغرة أمنية في ملفات EPS ، فقد أوقف Office 2016 و Office 2013 و Office 2010 و Office 365 القدرة على إدراج ملفات EPS في مستندات Office.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | BMP">}}
 الملفات ذات الامتداد .BMP تمثل ملفات الصور النقطية المستخدمة لتخزين الصور الرقمية للصور النقطية. هذه الصور مستقلة عن محول الرسومات وتسمى أيضًا تنسيق ملف الصورة النقطية المستقلة عن الجهاز (DIB). يخدم هذا الاستقلال غرض فتح الملف على منصات متعددة مثل Microsoft Windows و Mac. يمكن لملف BMP تخزين البيانات كصور رقمية ثنائية الأبعاد بتنسيق أحادي اللون بالإضافة إلى تنسيق الألوان بأعماق ألوان مختلفة.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

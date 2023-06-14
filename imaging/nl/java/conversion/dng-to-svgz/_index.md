@@ -75,16 +75,6 @@ Voordat u de conversievoorbeeldcode uitvoert, moet u ervoor zorgen dat u aan de 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Converteer DNG naar SVGZ - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Gratis app om DNG naar SVGZ te converteren"
         appName="Conversion"
@@ -96,13 +86,21 @@ Voordat u de conversievoorbeeldcode uitvoert, moet u ervoor zorgen dat u aan de 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/nl/conversion/DNG-to-SVGZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Converteer DNG naar SVGZ - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder | DNG">}}
 DNG is een beeldformaat voor digitale camera's dat wordt gebruikt voor de opslag van onbewerkte bestanden. Het is in september 2004 door Adobe ontwikkeld. Het is in feite ontwikkeld voor digitale fotografie. DNG is een uitbreiding van het TIFF/EP-standaardformaat en maakt veel gebruik van metadata. Om onbewerkte gegevens van digitale camera's met gemak van flexibiliteit en artistieke controle te manipuleren, kiezen fotografen voor Camera Raw-bestanden. JPEG- en TIFF-formaten slaan afbeeldingen op die door de camera worden verwerkt, daarom is er niet veel ruimte voor wijziging in dergelijke formaten.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder | SVGZ">}}
 Een bestand met de extensie .svgz is een gecomprimeerde versie van het Scalable Vector Graphics-bestand (.SVG). Het is gecomprimeerd met gzip-compressie en bevat gegevens in XML-indeling. SVGZ-bestanden ondersteunen transparantie, verlopen, animaties en filters. SVGZ-bestanden zijn kleiner in vergelijking met de standaard SVG-bestanden en deze kleinere bestandsgrootte helpt de grafische bestanden online over te zetten. Grafisch ontwerper maakt SVGZ-bestanden met tools zoals Adobe Illustrator, Corel PaintShop Pro en andere. SVGZ-bestanden kunnen echter worden gegenereerd door GZip-compressie in de Apache-server in te schakelen terwijl de afbeeldingsgegevens worden verzonden.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

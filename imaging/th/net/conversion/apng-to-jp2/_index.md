@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="แปลง APNG เป็น JP2 - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="แอปฟรีเพื่อแปลง APNG เป็น JP2"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/APNG-to-JP2)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="แปลง APNG เป็น JP2 - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | APNG">}}
 ไฟล์ที่มีนามสกุล .apng (Animated Portable Network Graphics) เป็นรูปแบบกราฟิกแรสเตอร์และเป็นส่วนขยายที่ไม่เป็นทางการของ Portable Network Graphic (PNG ) ประกอบด้วยหลายเฟรม (แต่ละภาพ PNG) ที่แสดงลำดับภาพเคลื่อนไหว สิ่งนี้ให้การแสดงภาพที่คล้ายกับไฟล์ GIF ไฟล์ APNG รองรับภาพ 24 บิตและความโปร่งใส 8 บิต APNG เข้ากันได้กับไฟล์ GIF ที่ไม่ใช่ภาพเคลื่อนไหว ไฟล์ APNG ใช้นามสกุล .png เดียวกัน และสามารถเปิดได้โดยแอปพลิเคชันต่างๆ เช่น Mozilla Firefox, Chrome ที่รองรับ APNG, แอป iMessage สำหรับ iOS 10
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | JP2">}}
 JPEG 2000 (JP2) คือระบบเข้ารหัสรูปภาพและมาตรฐานการบีบอัดภาพที่ทันสมัย ได้รับการออกแบบโดยใช้เทคโนโลยีเวฟเล็ต JPEG 2000 สามารถเข้ารหัสเนื้อหาแบบไม่สูญเสียคุณภาพใดๆ ได้ในคราวเดียว นอกจากนี้ โดยไม่มีบทลงโทษที่สำคัญในประสิทธิภาพการเข้ารหัส JPEG 2000 มีความสามารถในการเข้าถึงและถอดรหัสเนื้อหาเดียวกันได้อย่างมีประสิทธิภาพในความละเอียดและคุณภาพอื่นๆ ที่หลากหลาย รหัสสตรีมใน JPEG 2000 สามารถปรับขนาดได้อย่างมีนัยสำคัญโดยมีภูมิภาคที่น่าสนใจซึ่งอำนวยความสะดวกสำหรับการเข้าถึงแบบสุ่มเชิงพื้นที่ มีส่วนประกอบที่หลากหลายมากถึง 16384 ตัวด้วยขนาดเป็นเทราพิกเซล และความแม่นยำที่สูงถึง 38 บิต/ตัวอย่าง
         {{< /blocks/products/pf/agp/about-file-text >}}
 

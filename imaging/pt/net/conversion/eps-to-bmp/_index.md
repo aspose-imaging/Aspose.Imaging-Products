@@ -64,16 +64,6 @@ Antes de executar o código de exemplo de conversão, verifique se você tem os 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Converter {Formato1} para {Formato2} - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Aplicativo gratuito para converter EPS para BMP"
         appName="Conversion"
@@ -85,13 +75,21 @@ Antes de executar o código de exemplo de conversão, verifique se você tem os 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/pt/conversion/EPS-to-BMP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Converter {Formato1} para {Formato2} - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação | EPS">}}
 Arquivos com extensão EPS descrevem essencialmente um programa de linguagem PostScript encapsulado que descreve a aparência de uma única página. O nome "Encapsulated" porque pode ser incluído ou encapsulado em outra descrição de página de linguagem PostScript. Este formato de arquivo baseado em script pode conter qualquer combinação de texto, gráficos e imagens. Os arquivos EPS podem incluir uma imagem de visualização de bitmap encapsulada para exibição por aplicativos que podem abrir esses arquivos. Os arquivos EPS podem ser convertidos em formatos de imagem padrão, como JPG, PNG, TIFF e PDF usando diferentes aplicativos, por exemplo. Adobe Illustrator, Photoshop e PaintShop Pro. Devido a uma vulnerabilidade de segurança em arquivos EPS, o Office 2016, Office 2013, Office 2010 e Office 365 desativaram a capacidade de inserir arquivos EPS em documentos do Office.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação | BMP">}}
 Arquivos com extensão .BMP representam arquivos de imagem de bitmap que são usados ​​para armazenar imagens digitais de bitmap. Essas imagens são independentes do adaptador gráfico e também são chamadas de formato de arquivo de bitmap independente de dispositivo (DIB). Essa independência serve para abrir o arquivo em várias plataformas, como Microsoft Windows e Mac. O formato de arquivo BMP pode armazenar dados como imagens digitais bidimensionais em formato monocromático e colorido com várias profundidades de cor.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -75,16 +75,6 @@ description: โค้ดตัวอย่างสำหรับการแ�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="แปลง CDR เป็น APNG - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="แอปฟรีเพื่อแปลง CDR เป็น APNG"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: โค้ดตัวอย่างสำหรับการแ�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/CDR-to-APNG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="แปลง CDR เป็น APNG - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | CDR">}}
 ไฟล์ CDR เป็นไฟล์ภาพวาดเวกเตอร์ที่สร้างขึ้นด้วย CorelDRAW สำหรับจัดเก็บภาพดิจิทัลที่เข้ารหัสและบีบอัด ไฟล์รูปวาดดังกล่าวประกอบด้วยข้อความ เส้น รูปร่าง รูปภาพ สี และเอฟเฟกต์สำหรับการแสดงเนื้อหารูปภาพแบบเวกเตอร์ ไฟล์ CDR สามารถเปิดได้ด้วย CorelDRAW เป็นแอปพลิเคชันหลักและยังสามารถแปลงเป็นรูปแบบอื่น ๆ เช่น PDF, JPG, PNG, BMP และ AI ใช้สำหรับแสดงข้อมูลกราฟิกต่างๆ เช่น โบรชัวร์ แท็บลอยด์ ซองจดหมาย และไปรษณียบัตร นอกจาก CorelDRAW แล้ว ผลิตภัณฑ์ Corel อื่นๆ เช่น Corel Paintshop Pro และชุดกราฟิก CorelDRAW ยังสามารถเปิดรูปแบบไฟล์ CDR ได้อีกด้วย
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | APNG">}}
 ไฟล์ที่มีนามสกุล .apng (Animated Portable Network Graphics) เป็นรูปแบบกราฟิกแรสเตอร์และเป็นส่วนขยายที่ไม่เป็นทางการของ Portable Network Graphic (PNG ) ประกอบด้วยหลายเฟรม (แต่ละภาพ PNG) ที่แสดงลำดับภาพเคลื่อนไหว สิ่งนี้ให้การแสดงภาพที่คล้ายกับไฟล์ GIF ไฟล์ APNG รองรับภาพ 24 บิตและความโปร่งใส 8 บิต APNG เข้ากันได้กับไฟล์ GIF ที่ไม่ใช่ภาพเคลื่อนไหว ไฟล์ APNG ใช้นามสกุล .png เดียวกัน และสามารถเปิดได้โดยแอปพลิเคชันต่างๆ เช่น Mozilla Firefox, Chrome ที่รองรับ APNG, แอป iMessage สำหรับ iOS 10
         {{< /blocks/products/pf/agp/about-file-text >}}
 

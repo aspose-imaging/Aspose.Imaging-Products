@@ -75,16 +75,6 @@ Innan du kör koden för konverteringsexempel, se till att du har följande för
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertera TGA till DICOM - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Gratis app för att konvertera TGA till DICOM"
         appName="Conversion"
@@ -96,13 +86,21 @@ Innan du kör koden för konverteringsexempel, se till att du har följande för
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/TGA-to-DICOM)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertera TGA till DICOM - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer | TGA">}}
 Truevision TGA, ofta kallad TARGA, är ett rastergrafikfilformat skapat av Truevision Inc. (nu en del av Avid Technology). Det var det ursprungliga formatet för TARGA- och VISTA-kort, som var de första grafikkorten för IBM-kompatibla datorer som stödde Highcolor/Truecolor-skärm.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer | DICOM">}}
 DICOM är akronymen för Digital Imaging and Communications in Medicine och hänför sig till området medicinsk informatik. DICOM är kombinationen av filformatsdefinition och ett nätverkskommunikationsprotokoll. DICOM använder tillägget .DCM. .DCM finns i två olika format, dvs format 1.x och format 2.x. DCM Format 1.x finns dessutom i två versioner normal och utökad. DICOM används för integrering av medicinska bildbehandlingsenheter som skrivare, servrar, skannrar etc från olika leverantörer och innehåller även identifieringsdata för varje patient för att vara unik. DICOM-filer kan delas mellan två parter om de kan ta emot bilddata i DICOM-format. Kommunikationsdelen av DICOM är applikationslagerprotokoll och använder TCP/IP för att kommunicera mellan enheter. HTTP- och HTTPS-protokollen används för DICOMs webbtjänster. Versioner som stöds av webbtjänster är 1.0, 1.1, 2 eller senare.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

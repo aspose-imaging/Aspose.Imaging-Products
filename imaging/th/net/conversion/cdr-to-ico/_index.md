@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="แปลง CDR เป็น ICO - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="แอปฟรีเพื่อแปลง CDR เป็น ICO"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/CDR-to-ICO)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="แปลง CDR เป็น ICO - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | CDR">}}
 ไฟล์ CDR เป็นไฟล์ภาพวาดเวกเตอร์ที่สร้างขึ้นด้วย CorelDRAW สำหรับจัดเก็บภาพดิจิทัลที่เข้ารหัสและบีบอัด ไฟล์รูปวาดดังกล่าวประกอบด้วยข้อความ เส้น รูปร่าง รูปภาพ สี และเอฟเฟกต์สำหรับการแสดงเนื้อหารูปภาพแบบเวกเตอร์ ไฟล์ CDR สามารถเปิดได้ด้วย CorelDRAW เป็นแอปพลิเคชันหลักและยังสามารถแปลงเป็นรูปแบบอื่น ๆ เช่น PDF, JPG, PNG, BMP และ AI ใช้สำหรับแสดงข้อมูลกราฟิกต่างๆ เช่น โบรชัวร์ แท็บลอยด์ ซองจดหมาย และไปรษณียบัตร นอกจาก CorelDRAW แล้ว ผลิตภัณฑ์ Corel อื่นๆ เช่น Corel Paintshop Pro และชุดกราฟิก CorelDRAW ยังสามารถเปิดรูปแบบไฟล์ CDR ได้อีกด้วย
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | ICO">}}
 รูปแบบไฟล์ ICO เป็นรูปแบบไฟล์รูปภาพสำหรับไอคอนคอมพิวเตอร์ใน Microsoft Windows ไฟล์ ICO มีรูปภาพขนาดเล็กตั้งแต่หนึ่งภาพขึ้นไปที่หลายขนาดและความลึกของสี เพื่อให้สามารถปรับขนาดได้อย่างเหมาะสม ใน Windows โปรแกรมเรียกทำงานทั้งหมดที่แสดงไอคอนแก่ผู้ใช้ บนเดสก์ท็อป ในเมนูเริ่ม หรือใน Windows Explorer ต้องมีไอคอนในรูปแบบ ICO
         {{< /blocks/products/pf/agp/about-file-text >}}
 

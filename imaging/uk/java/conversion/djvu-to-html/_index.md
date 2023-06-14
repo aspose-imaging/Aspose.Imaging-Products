@@ -75,16 +75,6 @@ description: Зразок коду для перетворення DJVU у HTML 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити DJVU на HTML - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення DJVU у HTML"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Зразок коду для перетворення DJVU у HTML 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DJVU-to-HTML)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити DJVU на HTML - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | DJVU">}}
 DjVu, що вимовляється як дежавю, — це формат графічних файлів, призначений для відсканованих документів і книг, особливо тих, які містять поєднання тексту, малюнків, зображень і фотографій. Він був розроблений AT&T Labs. Він використовує кілька методів, як-от поділ тексту та фонових зображень шаром зображення, прогресивне завантаження, арифметичне кодування та стиснення з втратами для бітональних зображень. Оскільки файл DJVU може містити стиснуті, але високоякісні кольорові зображення, фотографії, текст і малюнки та може бути збережений у меншому місці, він використовується в Інтернеті як електронні книги, посібники, газети, старовинні документи тощо.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | HTML">}}
 HTML (Hyper Text Markup Language) — це розширення для веб-сторінок, створених для відображення в браузерах. HTML, відомий як мова Інтернету, розвивався разом із вимогами щодо нових вимог до інформації, яка має відображатися як частина веб-сторінок. Останній варіант відомий як HTML 5, який надає велику гнучкість для роботи з мовою. Сторінки HTML або отримуються з сервера, де вони розміщені, або також можуть бути завантажені з локальної системи. Кожна HTML-сторінка складається з таких елементів HTML, як форми, текст, зображення, анімація, посилання тощо. Ці елементи представлені такими тегами, як img, a, p та декількома іншими, де кожен тег має початок і кінець. Він також може вбудовувати програми, написані мовами сценаріїв, такими як JavaScript і таблиці стилів (CSS), для загального представлення макета.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

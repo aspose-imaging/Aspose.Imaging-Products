@@ -75,16 +75,6 @@ Antes de ejecutar el código de ejemplo de conversión, asegúrese de tener los 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convertir EPS a WEBP - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Aplicación gratuita para convertir EPS a WEBP"
         appName="Conversion"
@@ -96,13 +86,21 @@ Antes de ejecutar el código de ejemplo de conversión, asegúrese de tener los 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/es/conversion/EPS-to-WEBP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Convertir EPS a WEBP - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más | EPS">}}
 Los archivos con extensión EPS esencialmente describen un programa de lenguaje PostScript encapsulado que describe la apariencia de una sola página. El nombre "Encapsulado" porque se puede incluir o encapsular en otra descripción de página en lenguaje PostScript. Este formato de archivo basado en secuencias de comandos puede contener cualquier combinación de texto, gráficos e imágenes. Los archivos EPS pueden incluir una imagen de vista previa de mapa de bits encapsulada en el interior para que la muestren las aplicaciones que pueden abrir dichos archivos. Los archivos EPS se pueden convertir a formatos de imagen estándar como JPG, PNG, TIFF y PDF utilizando diferentes aplicaciones, p. Adobe Illustrator, Photoshop y PaintShop Pro. Debido a una vulnerabilidad de seguridad en los archivos EPS, Office 2016, Office 2013, Office 2010 y Office 365 han desactivado la capacidad de insertar archivos EPS en documentos de Office.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más | WEBP">}}
 WebP, presentado por Google, es un formato de archivo de imagen web rasterizado moderno que se basa en la compresión sin pérdida y con pérdida. Proporciona la misma calidad de imagen mientras reduce considerablemente el tamaño de la imagen. Dado que la mayoría de las páginas web utilizan imágenes como representación efectiva de los datos, el uso de imágenes WebP en las páginas web da como resultado una carga más rápida de las páginas web. Según Google, las imágenes sin pérdida de WebP son un 26 % más pequeñas en comparación con los PNG, mientras que las imágenes con pérdida de WebP son un 25-34 % más pequeñas que las imágenes JPEG comparables. Las imágenes se comparan según el índice de similitud estructural (SSIM) entre WebP y otros formatos de archivo de imagen. WebP es un proyecto hermano del formato de contenedor multimedia WebM.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -75,16 +75,6 @@ description: نموذج رمز لـ JP2 إلى J2K تحويل Java. استخدم
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="تحويل JP2 إلى J2K - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="تطبيق مجاني لتحويل JP2 إلى J2K"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: نموذج رمز لـ JP2 إلى J2K تحويل Java. استخدم
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/JP2-to-J2K)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="تحويل JP2 إلى J2K - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | JP2">}}
 JPEG 2000 (JP2) هو نظام ترميز للصور وأحدث معايير ضغط الصور. تم تصميمه باستخدام تقنية wavelet ويمكن لـ JPEG 2000 ترميز المحتوى غير المفقود بأي جودة في وقت واحد. علاوة على ذلك ، بدون أي عقوبة كبيرة في كفاءة التشفير ، فإن JPEG 2000 لديها القدرة على الوصول وفك تشفير نفس المحتوى بشكل فعال إلى مجموعة متنوعة من القرارات والصفات الأخرى. تدفقات الشفرة في JPEG 2000 قابلة للتطوير بشكل كبير ولها مناطق اهتمام توفر تسهيلات للوصول العشوائي المكاني. امتلاك ما يصل إلى 16384 مكونًا متنوعًا بأبعاد تيرابكسل ودقة يمكن أن تصل إلى 38 بت / عينة.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | J2K">}}
 ملف J2K هو صورة يتم ضغطها باستخدام ضغط الموجة بدلاً من ضغط DCT.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

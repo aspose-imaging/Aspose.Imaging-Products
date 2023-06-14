@@ -75,16 +75,6 @@ description: קוד לדוגמה עבור המרת Java מ-CDR ל-GIF. השתמ�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="המר את CDR ל-GIF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="אפליקציה חינמית להמרת CDR ל-GIF"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: קוד לדוגמה עבור המרת Java מ-CDR ל-GIF. השתמ�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/CDR-to-GIF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="המר את CDR ל-GIF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | CDR">}}
 קובץ CDR הוא קובץ תמונת ציור וקטור שנוצר באופן מקורי עם CorelDRAW לאחסון תמונה דיגיטלית מקודדת ודחוסה. קובץ ציור כזה מכיל טקסט, קווים, צורות, תמונות, צבעים ואפקטים לייצוג וקטור של תוכן התמונה. ניתן לפתוח קבצי CDR עם CorelDRAW כיישום הראשי וניתן להמיר אותם גם לפורמטים אחרים כגון PDF, JPG, PNG, BMP ו-AI. זה יכול לשמש לייצוג של נתונים גרפיים שונים כמו חוברות, צהובונים, מעטפות וגלויות. מלבד CorelDRAW, מוצרי Corel אחרים כגון Corel Paintshop Pro ו- CorelDRAW Graphics Suite יכולים גם הם לפתוח את תבניות הקובץ CDR.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | GIF">}}
 GIF או Graphical Interchange Format הוא סוג של תמונה דחוסה מאוד. בבעלות Unisys, GIF משתמש באלגוריתם הדחיסה LZW שאינו פוגע באיכות התמונה. עבור כל תמונה GIF בדרך כלל מאפשר עד 8 סיביות לפיקסל ועד 256 צבעים מותרים על פני התמונה. בניגוד לתמונת JPEG, שיכולה להציג עד 16 מיליון צבעים ונוגעת למדי בגבולות העין האנושית. כשהאינטרנט הופיע, קובצי GIF נותרו הבחירה הטובה ביותר מכיוון שהם דרשו רוחב פס נמוך ותואם לגרפיקה שצורכת אזורי צבע מוצקים. GIF מונפש משלב מספר רב של תמונות או פריימים לקובץ אחד ומציג אותם ברצף ליצירת קליפ מונפש או סרטון וידאו קצר. מגבלות הצבע הן עד 256 עבור כל פריים וסביר להניח שהן יהיו הפחות מתאימות לשחזור תמונות ותצלומים אחרים עם מעבר צבע.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

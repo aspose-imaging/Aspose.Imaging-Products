@@ -75,16 +75,6 @@ description: OTG 到 ICO Java 轉換的示例代碼。使用 API 示例代碼在
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="將 OTG 轉換為 ICO - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="將 OTG 轉換為 ICO 的免費應用程序"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: OTG 到 ICO Java 轉換的示例代碼。使用 API 示例代碼在
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hant/conversion/OTG-to-ICO)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="將 OTG 轉換為 ICO - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | OTG">}}
 OTG 文件是使用遵循 OASIS Office Applications 1.0 規範的 OpenDocument 標準創建的繪圖模板。它表示矢量圖像的繪圖元素的默認組織，可用於進一步增強文件的內容。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | ICO">}}
 ICO 文件格式是 Microsoft Windows 中計算機圖標的圖像文件格式。 ICO 文件包含一個或多個具有多種尺寸和顏色深度的小圖像，以便它們可以適當地縮放。在 Windows 中，在桌面、開始菜單或 Windows 資源管理器中向用戶顯示圖標的所有可執行文件都必須帶有 ICO 格式的圖標。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

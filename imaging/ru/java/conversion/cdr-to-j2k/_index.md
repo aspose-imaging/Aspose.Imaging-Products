@@ -75,16 +75,6 @@ description: Пример кода для преобразования CDR в J2
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Преобразование CDR в J2K - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Бесплатное приложение для конвертации CDR в J2K"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Пример кода для преобразования CDR в J2
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ru/conversion/CDR-to-J2K)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Преобразование CDR в J2K - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее | CDR">}}
 Файл CDR — это файл изображения векторного рисунка, изначально созданный с помощью CorelDRAW для хранения закодированного и сжатого цифрового изображения. Такой файл чертежа содержит текст, линии, формы, изображения, цвета и эффекты для векторного представления содержимого изображения. Файлы CDR можно открывать в CorelDRAW в качестве основного приложения, а также преобразовывать в другие форматы, такие как PDF, JPG, PNG, BMP и AI. Его можно использовать для представления различных графических данных, таких как брошюры, таблоиды, конверты и открытки. Помимо CorelDRAW, другие продукты Corel, такие как Corel Paintshop Pro и CorelDRAW Graphics Suite, также могут открывать форматы файлов CDR.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее | J2K">}}
 Файл J2K представляет собой изображение, сжатое с использованием вейвлет-сжатия вместо сжатия DCT.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

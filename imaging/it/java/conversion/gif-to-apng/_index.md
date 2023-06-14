@@ -75,16 +75,6 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Converti GIF in APNG - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="App gratuita per convertire GIF in APNG"
         appName="Conversion"
@@ -96,13 +86,21 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/it/conversion/GIF-to-APNG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Converti GIF in APNG - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più | GIF">}}
 Un formato GIF o Graphical Interchange Format è un tipo di immagine altamente compressa. Di proprietà di Unisys, GIF utilizza l'algoritmo di compressione LZW che non degrada la qualità dell'immagine. Per ogni immagine GIF in genere consentono fino a 8 bit per pixel e sono consentiti fino a 256 colori nell'immagine. In contrasto con un'immagine JPEG, che può visualizzare fino a 16 milioni di colori e tocca abbastanza i limiti dell'occhio umano. Quando è emerso Internet, le GIF sono rimaste la scelta migliore perché richiedevano una larghezza di banda ridotta e compatibili per la grafica che consuma aree di colore solide. Una GIF animata combina numerose immagini o fotogrammi in un unico file e le visualizza in sequenza per generare una clip animata o un breve video. I limiti di colore sono fino a 256 per ogni fotogramma e sono probabilmente i meno adatti per riprodurre altre immagini e fotografie con gradiente di colore.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più | APNG">}}
 Un file con estensione .apng (Animated Portable Network Graphics) è un formato grafico raster ed è un'estensione non ufficiale di Portable Network Graphic (PNG). Comprende più fotogrammi (ciascuno di un'immagine PNG) che rappresenta una sequenza di animazione. Ciò fornisce una visualizzazione simile a quella di un file GIF. I file APNG supportano immagini a 24 bit e trasparenza a 8 bit. APNG è compatibile con le versioni precedenti di file GIF non animati. I file APNG utilizzano la stessa estensione .png e possono essere aperti da applicazioni come Mozilla Firefox, Chrome con supporto APNG, app iMessage per iOS 10.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

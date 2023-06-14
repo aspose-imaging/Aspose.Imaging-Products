@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="EMF को SVGZ में बदलें - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="EMF को SVGZ में बदलने के लिए नि:शुल्‍क ऐप"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/EMF-to-SVGZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="EMF को SVGZ में बदलें - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | EMF">}}
 एन्हांस्ड मेटाफाइल फॉर्मेट (EMF) ग्राफिकल इमेज को डिवाइस-स्वतंत्र रूप से स्टोर करता है। ईएमएफ के मेटाफाइल में कालानुक्रमिक क्रम में चर-लंबाई के रिकॉर्ड शामिल होते हैं जो किसी भी आउटपुट डिवाइस पर पार्स करने के बाद संग्रहीत छवि को प्रस्तुत कर सकते हैं। ये चर-लंबाई के रिकॉर्ड संलग्न वस्तुओं की परिभाषा, ड्राइंग के लिए कमांड और छवि को सटीक रूप से प्रस्तुत करने के लिए महत्वपूर्ण ग्राफिक्स गुण हो सकते हैं। जब कोई उपकरण अपने स्वयं के ग्राफिक्स वातावरण का उपयोग करके एक EMF मेटाफ़ाइल खोलता है, तो मूल छवि के अनुपात, आयाम, रंग और अन्य ग्राफिक गुण समान रहते हैं, भले ही शुरुआती डिवाइस प्लेटफ़ॉर्म कुछ भी हो।
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | SVGZ">}}
 .svgz एक्सटेंशन वाली फाइल स्केलेबल वेक्टर ग्राफिक्स (.SVG) फाइल का कंप्रेस्ड वर्जन है। यह gzip कम्प्रेशन के साथ कंप्रेस्ड है और इसमें XML फॉर्मेट में डेटा होता है। SVGZ फाइलें पारदर्शिता, ग्रेडिएंट, एनिमेशन और फिल्टर का समर्थन करती हैं। एसवीजीजेड फाइलें डिफ़ॉल्ट एसवीजी फाइलों की तुलना में आकार में छोटी होती हैं और यह कम फाइल आकार ग्राफिक्स फाइलों को ऑनलाइन स्थानांतरित करने में मदद करता है। ग्राफिक्स डिजाइनर एडोब इलस्ट्रेटर, कोरल पेंटशॉप प्रो और अन्य जैसे टूल का उपयोग करके एसवीजीजेड फाइलें बनाते हैं। हालांकि, छवि डेटा भेजते समय अपाचे सर्वर में GZip संपीड़न को सक्षम करके एसवीजीजेड फाइलें उत्पन्न की जा सकती हैं।
         {{< /blocks/products/pf/agp/about-file-text >}}
 

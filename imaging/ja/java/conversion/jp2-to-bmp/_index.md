@@ -75,16 +75,6 @@ JP2をBMPに変換するには、 [Aspose.Imaging for Java](https://products.asp
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="JP2をBMPに変換します-Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="JP2をBMPに変換する無料アプリ"
         appName="Conversion"
@@ -96,13 +86,21 @@ JP2をBMPに変換するには、 [Aspose.Imaging for Java](https://products.asp
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ja/conversion/JP2-to-BMP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="JP2をBMPに変換します-Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | JP2">}}
 JPEG 2000（JP2）は、画像コーディングシステムであり、最先端の画像圧縮規格です。ウェーブレットテクノロジーを使用して設計されたJPEG2000は、ロスレスコンテンツを任意の品質で一度にコーディングできます。さらに、コーディング効率に実質的なペナルティを課すことなく、JPEG 2000には、同じコンテンツに効果的にアクセスしてデコードし、他のさまざまな解像度や品質に変換する機能があります。 JPEG 2000のコードストリームは非常にスケーラブルであり、空間ランダムアクセスの機能を提供する関心領域があります。テラピクセル単位の寸法と38ビット/サンプルの高精度を備えた最大16384の多様なコンポーネントを備えています。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | BMP">}}
 拡張子が.BMPのファイルは、ビットマップデジタル画像の保存に使用されるビットマップ画像ファイルを表します。これらの画像はグラフィックアダプタから独立しており、デバイスに依存しないビットマップ（DIB）ファイル形式とも呼ばれます。この独立性は、MicrosoftWindowsやMacなどの複数のプラットフォームでファイルを開くという目的を果たします。 BMPファイル形式では、データを2次元デジタル画像として、モノクロとさまざまな色深度のカラー形式の両方で保存できます。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -64,16 +64,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="APNG을 SVGZ로 변환 - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="APNG을 SVGZ로 변환하는 무료 앱"
         appName="Conversion"
@@ -85,13 +75,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ko/conversion/APNG-to-SVGZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="APNG을 SVGZ로 변환 - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | APNG">}}
 .apng(Animated Portable Network Graphics) 확장자를 가진 파일은 래스터 그래픽 형식이며 PNG(Portable Network Graphic)의 비공식 확장자입니다. 애니메이션 시퀀스를 나타내는 여러 프레임(각각 PNG 이미지)으로 구성됩니다. 이것은 GIF 파일과 유사한 시각화를 제공합니다. APNG 파일은 24비트 이미지와 8비트 투명도를 지원합니다. APNG는 애니메이션이 아닌 GIF 파일과 역호환됩니다. APNG 파일은 동일한 .png 확장자를 사용하며 Mozilla Firefox, APNG 지원 Chrome, iOS 10용 iMessage 앱과 같은 응용 프로그램에서 열 수 있습니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | SVGZ">}}
 확장자가 .svgz인 파일은 .SVG(Scalable Vector Graphics) 파일의 압축 버전입니다. gzip 압축으로 압축되며 XML 형식의 데이터를 포함합니다. SVGZ 파일은 투명도, 그라디언트, 애니메이션 및 필터를 지원합니다. SVGZ 파일은 기본 SVG 파일에 비해 크기가 더 작으며 이 축소된 파일 크기는 그래픽 파일을 온라인으로 전송하는 데 도움이 됩니다. 그래픽 디자이너는 Adobe Illustrator, Corel PaintShop Pro 등과 같은 도구를 사용하여 SVGZ 파일을 만듭니다. 그러나 SVGZ 파일은 이미지 데이터를 보내는 동안 Apache Server에서 GZip 압축을 활성화하여 생성할 수 있습니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

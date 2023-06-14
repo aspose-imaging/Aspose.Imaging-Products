@@ -75,16 +75,6 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertiere TIFF in HTML - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Kostenlose App zum Konvertieren von TIFF in HTML"
         appName="Conversion"
@@ -96,13 +86,21 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/de/conversion/TIFF-to-HTML)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertiere TIFF in HTML - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen | TIFF">}}
 TIFF oder TIF, Tagged Image File Format, stellt Rasterbilder dar, die für die Verwendung auf einer Vielzahl von Geräten gedacht sind, die diesem Dateiformatstandard entsprechen. Es ist in der Lage, Bilevel-, Graustufen-, Palettenfarben- und Vollfarben-Bilddaten in mehreren Farbräumen zu beschreiben. Es unterstützt sowohl verlustbehaftete als auch verlustfreie Komprimierungsschemata, um zwischen Speicherplatz und Zeit für Anwendungen zu wählen, die das Format verwenden. Das Format ist erweiterbar und wurde mehrfach überarbeitet, was die Aufnahme einer unbegrenzten Menge an privaten oder speziellen Informationen ermöglicht. Das Format ist nicht maschinenabhängig und frei von Grenzen wie Prozessor, Betriebssystem oder Dateisystem.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen | HTML">}}
 HTML (Hyper Text Markup Language) ist die Erweiterung für Webseiten, die für die Anzeige in Browsern erstellt wurden. Bekannt als Sprache des Webs, hat sich HTML mit Anforderungen an neue Informationsanforderungen entwickelt, die als Teil von Webseiten angezeigt werden müssen. Die neueste Variante ist als HTML 5 bekannt und bietet viel Flexibilität für die Arbeit mit der Sprache. HTML-Seiten werden entweder vom Server empfangen, auf dem diese gehostet werden, oder können auch vom lokalen System geladen werden. Jede HTML-Seite besteht aus HTML-Elementen wie Formularen, Text, Bildern, Animationen, Links usw. Diese Elemente werden durch Tags wie img, a, p und mehrere andere dargestellt, wobei jedes Tag einen Anfang und ein Ende hat. Es kann auch Anwendungen einbetten, die in Skriptsprachen wie JavaScript und Style Sheets (CSS) geschrieben sind, um das Gesamtlayout darzustellen.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

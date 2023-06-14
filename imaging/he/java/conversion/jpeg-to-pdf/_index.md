@@ -75,16 +75,6 @@ description: קוד לדוגמה עבור המרת Java מ-JPEG ל-PDF. השתמ
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="המר את JPEG ל-PDF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="אפליקציה חינמית להמרת JPEG ל-PDF"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: קוד לדוגמה עבור המרת Java מ-JPEG ל-PDF. השתמ
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/JPEG-to-PDF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="המר את JPEG ל-PDF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | JPEG">}}
 JPEG הוא סוג של פורמט תמונה שנשמר בשיטת הדחיסה המאבדת. תמונת הפלט, כתוצאה מדחיסה, היא פשרה בין גודל האחסון ואיכות התמונה. משתמשים יכולים להתאים את רמת הדחיסה כדי להשיג את רמת האיכות הרצויה ובו בזמן להקטין את גודל האחסון. איכות התמונה מושפעת באופן זניח אם מוחלת דחיסה של 10:1 על התמונה. ככל שערך הדחיסה גבוה יותר, כך הירידה באיכות התמונה גבוהה יותר.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | PDF">}}
 פורמט מסמכים ניידים (PDF) הוא סוג של מסמך שנוצר על ידי Adobe עוד בשנות ה-90. מטרת פורמט קובץ זה הייתה להציג תקן לייצוג של מסמכים וחומרי עזר אחרים בפורמט שאינו תלוי בתוכנת יישום, חומרה ומערכת הפעלה. לפורמט קובץ ה-PDF יש יכולת מלאה להכיל מידע כמו טקסט, תמונות, היפר-קישורים, שדות טופס, מדיה עשירה, חתימות דיגיטליות, קבצים מצורפים, מטא נתונים, תכונות גיאו-מרחביות ואובייקטים תלת-ממדיים, שיכולים להפוך לחלק ממסמך המקור.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -63,16 +63,6 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertiere EPS in JPEG - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Kostenlose App zum Konvertieren von EPS in JPEG"
         appName="Conversion"
@@ -84,13 +74,21 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/de/conversion/EPS-to-JPEG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertiere EPS in JPEG - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen | EPS">}}
 Dateien mit der Erweiterung EPS beschreiben im Wesentlichen ein Encapsulated PostScript-Sprachprogramm, das das Erscheinungsbild einer einzelnen Seite beschreibt. Der Name "Encapsulated", weil er in eine Seitenbeschreibung einer anderen PostScript-Sprache eingeschlossen oder eingekapselt werden kann. Dieses skriptbasierte Dateiformat kann eine beliebige Kombination aus Text, Grafiken und Bildern enthalten. EPS-Dateien können ein eingekapseltes Bitmap-Vorschaubild enthalten, das von Anwendungen angezeigt werden kann, die solche Dateien öffnen können. EPS-Dateien können mit verschiedenen Anwendungen in Standard-Bildformate wie JPG, PNG, TIFF und PDF konvertiert werden, z. Adobe Illustrator, Photoshop und Paint Shop Pro. Aufgrund einer Sicherheitslücke in EPS-Dateien haben Office 2016, Office 2013, Office 2010 und Office 365 die Möglichkeit zum Einfügen von EPS-Dateien in Office-Dokumente deaktiviert.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen | JPEG">}}
 Ein JPEG ist ein Bildformat, das mit der Methode der verlustbehafteten Komprimierung gespeichert wird. Das Ausgabebild ist als Ergebnis der Komprimierung ein Kompromiss zwischen Speichergröße und Bildqualität. Benutzer können die Komprimierungsstufe anpassen, um die gewünschte Qualitätsstufe zu erreichen, während gleichzeitig die Speichergröße reduziert wird. Die Bildqualität wird vernachlässigbar beeinträchtigt, wenn eine 10:1-Komprimierung auf das Bild angewendet wird. Je höher der Komprimierungswert, desto stärker die Verschlechterung der Bildqualität.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

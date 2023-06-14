@@ -62,16 +62,6 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertuoti DIB į PDF – .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Nemokama programa konvertuoti DIB į PDF"
         appName="Conversion"
@@ -83,13 +73,21 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/lt/conversion/DIB-to-PDF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertuoti DIB į PDF – .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau | DIB">}}
 DIB (nuo įrenginio nepriklausomo taškinės schemos) failas yra rastrinio vaizdo failas, kurio struktūra yra panaši į standartinius taškinės schemos failus (BMP), bet turi skirtingą antraštę. Jį galima atidaryti su beveik visomis programomis, kurios gali atidaryti standartinį BMP failą sistemoje „Windows“ ir „MacOS“. DIB yra dvejetainiai failai ir turi sudėtingą failo formatą, panašų į BMP.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau | PDF">}}
 Portable Document Format (PDF) yra dokumento tipas, kurį „Adobe“ sukūrė 1990 m. Šio failo formato tikslas buvo įdiegti standartą, skirtą dokumentų ir kitos informacinės medžiagos vaizdavimui tokiu formatu, kuris nepriklauso nuo taikomosios programinės įrangos, aparatinės įrangos ir operacinės sistemos. PDF failo formatas turi visas galimybes talpinti informaciją, pvz., tekstą, vaizdus, ​​hipersaitus, formos laukus, raiškiąją mediją, skaitmeninius parašus, priedus, metaduomenis, geografines ypatybes ir 3D objektus, kurie gali tapti šaltinio dokumento dalimi.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

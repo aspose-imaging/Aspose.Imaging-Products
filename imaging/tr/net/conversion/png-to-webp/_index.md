@@ -62,16 +62,6 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="PNG öğesini WEBP - .NET biçimine dönüştürün" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="PNG'i WEBP'e Dönüştürmek için Ücretsiz Uygulama"
         appName="Conversion"
@@ -83,13 +73,21 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/tr/conversion/PNG-to-WEBP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="PNG öğesini WEBP - .NET biçimine dönüştürün" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | PNG">}}
 PNG, Taşınabilir Ağ Grafikleri, kayıpsız sıkıştırma kullanan bir tür raster görüntü dosyası biçimini ifade eder. Bu dosya biçimi, Grafik Değişim Biçimi'nin (GIF) yerini almak üzere oluşturulmuştur ve herhangi bir telif hakkı sınırlaması yoktur. Ancak PNG dosya formatı animasyonları desteklemez. PNG dosya formatı, onu kullanıcıları arasında popüler kılan kayıpsız görüntü sıkıştırmayı destekler. Zaman geçtikçe PNG, en çok kullanılan resim dosyası formatlarından biri olarak gelişti. Hemen hemen tüm İşletim Sistemleri PNG dosyalarını açma desteğine sahiptir. Örneğin, işletim sisteminin varsayılan olarak kurulumun bir parçası olarak sunulan desteğe sahip olduğu gibi, Microsoft Windows görüntüleyici PNG dosyalarını açma özelliğine sahiptir.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | WEBP">}}
 Google tarafından tanıtılan WebP, kayıpsız ve kayıplı sıkıştırmaya dayanan modern bir raster web görüntü dosyası biçimidir. Görüntü boyutunu önemli ölçüde azaltırken aynı görüntü kalitesini sağlar. Web sayfalarının çoğu, verileri etkin bir şekilde temsil etmek için görüntüleri kullandığından, WebP görüntülerinin web sayfalarında kullanılması web sayfalarının daha hızlı yüklenmesine neden olur. Google'a göre, WebP kayıpsız görseller PNG'lere kıyasla %26 daha küçükken, WebP kayıplı görseller karşılaştırılabilir JPEG görsellerinden %25-34 daha küçüktür. Görüntüler, WebP ve diğer görüntü dosyası biçimleri arasındaki Yapısal Benzerlik (SSIM) endeksine dayalı olarak karşılaştırılır. WebP, WebM multimedya konteyner formatının kardeş projesidir.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

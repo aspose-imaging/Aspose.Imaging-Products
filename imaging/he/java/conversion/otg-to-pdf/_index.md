@@ -75,16 +75,6 @@ description: קוד לדוגמה עבור המרת Java מ-OTG ל-PDF. השתמ�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="המר את OTG ל-PDF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="אפליקציה חינמית להמרת OTG ל-PDF"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: קוד לדוגמה עבור המרת Java מ-OTG ל-PDF. השתמ�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/OTG-to-PDF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="המר את OTG ל-PDF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | OTG">}}
 קובץ OTG הוא תבנית ציור שנוצרת באמצעות תקן OpenDocument העוקב אחר מפרט OASIS Office Applications 1.0. הוא מייצג את ארגון ברירת המחדל של רכיבי ציור עבור תמונה וקטורית שניתן להשתמש בהם כדי לשפר עוד יותר את תוכן הקובץ.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | PDF">}}
 פורמט מסמכים ניידים (PDF) הוא סוג של מסמך שנוצר על ידי Adobe עוד בשנות ה-90. מטרת פורמט קובץ זה הייתה להציג תקן לייצוג של מסמכים וחומרי עזר אחרים בפורמט שאינו תלוי בתוכנת יישום, חומרה ומערכת הפעלה. לפורמט קובץ ה-PDF יש יכולת מלאה להכיל מידע כמו טקסט, תמונות, היפר-קישורים, שדות טופס, מדיה עשירה, חתימות דיגיטליות, קבצים מצורפים, מטא נתונים, תכונות גיאו-מרחביות ואובייקטים תלת-ממדיים, שיכולים להפוך לחלק ממסמך המקור.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -75,16 +75,6 @@ description: קוד לדוגמה עבור המרת Java מ-EMZ ל-SVG. השתמ�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="המר את EMZ ל-SVG - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="אפליקציה חינמית להמרת EMZ ל-SVG"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: קוד לדוגמה עבור המרת Java מ-EMZ ל-SVG. השתמ�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/EMZ-to-SVG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="המר את EMZ ל-SVG - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | EMZ">}}
 קובץ עם סיומת הקובץ EMZ הוא קובץ תמונה דחוס, המכונה באופן ספציפי יותר קובץ Windows Compressed Enhanced Metafile
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | SVG">}}
 קובצי SVG הם קבצי גרפיקה וקטורית ניתנים להרחבה המשתמשים בפורמט טקסט מבוסס XML לתיאור מראה התמונה. המילה Scalable מתייחסת לעובדה שניתן להגדיל את ה-SVG לגדלים שונים מבלי לאבד כל איכות. תיאור מבוסס טקסט של קבצים כאלה הופך אותם לבלתי תלויים ברזולוציה. זהו אחד הפורמטים הנפוצים ביותר לבניית אתרים וגרפיקה להדפסה על מנת להשיג מדרגיות. עם זאת, הפורמט יכול לשמש רק עבור גרפיקה דו מימדית. ניתן להציג/לפתוח קבצי SVG כמעט בכל הדפדפנים המודרניים כולל Chrome, Internet Explorer, Firefox ו-Safari.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

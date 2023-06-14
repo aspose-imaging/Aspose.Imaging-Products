@@ -75,16 +75,6 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertiere CMX in PSD - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Kostenlose App zum Konvertieren von CMX in PSD"
         appName="Conversion"
@@ -96,13 +86,21 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/de/conversion/CMX-to-PSD)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertiere CMX in PSD - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen | CMX">}}
 Dateien mit der Erweiterung CMX sind Corel Exchange-Bilddateiformate, die von CorelSuite-Anwendungen als Präsentation verwendet werden. Sie enthält Bilddaten als Vektorgrafik sowie Metadaten, die das Bild beschreiben. CMX-Dateien können mit CorelDraw, Corel Presentations, Paint Shop Pro und einigen Versionen von Adobe Illustrator geöffnet werden.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen | PSD">}}
 PSD, Photoshop Document, stellt das native Dateiformat von Adobe Photoshop dar, das für Grafikdesign und -entwicklung verwendet wird. PSD-Dateien können Bildebenen, Anpassungsebenen, Ebenenmasken, Anmerkungen, Dateiinformationen, Schlüsselwörter und andere Photoshop-spezifische Elemente enthalten.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

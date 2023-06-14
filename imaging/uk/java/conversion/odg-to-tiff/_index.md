@@ -75,16 +75,6 @@ description: Зразок коду для перетворення ODG у TIFF J
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити ODG на TIFF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення ODG у TIFF"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Зразок коду для перетворення ODG у TIFF J
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/ODG-to-TIFF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити ODG на TIFF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | ODG">}}
 Формат файлу ODG використовується програмою Draw Apache OpenOffice для зберігання елементів малюнка у вигляді векторного зображення. Він відповідає специфікаціям формату файлів на основі XML, викладеним Стандартами вдосконалення структурної інформації (OASIS). ODG представляє малюнки як векторні зображення за допомогою точок, ліній і кривих. Крім OpenOffice, LibreOffice та інші програми також надають підтримку для роботи з форматом файлу ODG. Інші формати, які підтримує OpenOffice, наприклад, включають ODT, ODF, ODP і ODS.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | TIFF">}}
 TIFF або TIF, Tagged Image File Format, представляє растрові зображення, які призначені для використання на різних пристроях, які відповідають цьому стандарту формату файлів. Він здатний описувати дані дворівневого зображення, відтінків сірого, кольору палітри та повнокольорового зображення в кількох колірних просторах. Він підтримує схеми стиснення як із втратами, так і без втрат, щоб вибрати між простором і часом для програм, які використовують формат. Формат є розширюваним і зазнав кілька переглядів, що дозволяє включати необмежену кількість приватної або спеціальної інформації. Формат не залежить від машини та не залежить від процесора, операційної системи чи файлових систем.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

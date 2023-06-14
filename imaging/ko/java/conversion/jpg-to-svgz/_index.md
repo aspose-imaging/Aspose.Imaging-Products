@@ -75,16 +75,6 @@ JPG을 SVGZ로 변환하려면 다음을 사용합니다. [자바용 Aspose.Imag
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="JPG을 SVGZ로 변환 - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="JPG을 SVGZ로 변환하는 무료 앱"
         appName="Conversion"
@@ -96,13 +86,21 @@ JPG을 SVGZ로 변환하려면 다음을 사용합니다. [자바용 Aspose.Imag
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ko/conversion/JPG-to-SVGZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="JPG을 SVGZ로 변환 - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | JPG">}}
 JPEG는 손실 압축 방법을 사용하여 저장되는 이미지 형식 유형입니다. 압축의 결과로 출력 이미지는 저장 크기와 이미지 품질 사이의 절충안입니다. 사용자는 압축 수준을 조정하여 원하는 품질 수준을 달성하는 동시에 저장 크기를 줄일 수 있습니다. 이미지에 10:1 압축을 적용하면 이미지 품질에 거의 영향을 미치지 않습니다. 압축 값이 높을수록 화질 저하가 커집니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | SVGZ">}}
 확장자가 .svgz인 파일은 .SVG(Scalable Vector Graphics) 파일의 압축 버전입니다. gzip 압축으로 압축되며 XML 형식의 데이터를 포함합니다. SVGZ 파일은 투명도, 그라디언트, 애니메이션 및 필터를 지원합니다. SVGZ 파일은 기본 SVG 파일에 비해 크기가 더 작으며 이 축소된 파일 크기는 그래픽 파일을 온라인으로 전송하는 데 도움이 됩니다. 그래픽 디자이너는 Adobe Illustrator, Corel PaintShop Pro 등과 같은 도구를 사용하여 SVGZ 파일을 만듭니다. 그러나 SVGZ 파일은 이미지 데이터를 보내는 동안 Apache Server에서 GZip 압축을 활성화하여 생성할 수 있습니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

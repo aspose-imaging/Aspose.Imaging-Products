@@ -75,16 +75,6 @@ description: Зразок коду для перетворення CMX у EMF Ja
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити CMX на EMF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення CMX у EMF"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Зразок коду для перетворення CMX у EMF Ja
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/CMX-to-EMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити CMX на EMF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | CMX">}}
 Файли з розширенням CMX — це формат файлу зображень Corel Exchange, який використовується як презентація програмами CorelSuite. Він містить дані зображення як векторну графіку, а також метадані, які описують зображення. Файли CMX можна відкривати за допомогою CorelDraw, Corel Presentations, Paint Shop Pro та деяких версій Adobe Illustrator.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | EMF">}}
 Розширений формат метафайлів (EMF) зберігає графічні зображення незалежно від пристрою. Метафайли EMF складаються із записів змінної довжини в хронологічному порядку, які можуть відтворити збережене зображення після аналізу на будь-якому пристрої виводу. Ці записи змінної довжини можуть бути визначеннями закритих об’єктів, командами для малювання та властивостями графіки, критичними для точного відтворення зображення. Коли пристрій відкриває метафайл EMF за допомогою власного графічного середовища, пропорції, розміри, кольори та інші графічні властивості оригінального зображення залишаються незмінними незалежно від платформи пристрою, що відкривається.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

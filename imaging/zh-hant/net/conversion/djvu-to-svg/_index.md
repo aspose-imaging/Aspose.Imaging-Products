@@ -62,16 +62,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="將 DJVU 轉換為 SVG - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="將 DJVU 轉換為 SVG 的免費應用程序"
         appName="Conversion"
@@ -83,13 +73,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hant/conversion/DJVU-to-SVG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="將 DJVU 轉換為 SVG - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | DJVU">}}
 DjVu，發音為 DJVU，是一種圖形文件格式，用於掃描文檔和書籍，尤其是包含文本、繪圖、圖像和照片組合的文檔和書籍。它是由 AT&T 實驗室開發的。它使用多種技術，例如文本和背景圖像的圖像層分離、漸進式加載、算術編碼和雙色調圖像的有損壓縮。由於 DJVU 文件可以包含壓縮但高質量的彩色圖像、照片、文本和繪圖，因此可以保存在更小的空間中，因此它在網絡上用作電子書、手冊、報紙、古代文件等。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | SVG">}}
 SVG 文件是使用基於 XML 的文本格式來描述圖像外觀的可縮放矢量圖形文件。 Scalable 這個詞指的是 SVG 可以縮放到不同的大小而不會損失任何質量。此類文件的基於文本的描述使它們獨立於分辨率。它是用於構建網站和打印圖形以實現可擴展性的最常用格式之一。該格式只能用於二維圖形。 SVG 文件可以在幾乎所有現代瀏覽器中查看/打開，包括 Chrome、Internet Explorer、Firefox 和 Safari。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

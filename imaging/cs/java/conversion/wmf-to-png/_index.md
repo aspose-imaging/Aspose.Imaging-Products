@@ -75,16 +75,6 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Převést WMF na PNG – Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Bezplatná aplikace pro převod WMF na PNG"
         appName="Conversion"
@@ -96,13 +86,21 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/WMF-to-PNG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Převést WMF na PNG – Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více | WMF">}}
 Soubory s příponou WMF představují Microsoft Windows Metafile (WMF) pro ukládání dat vektorových i bitmapových obrázků. Abychom byli přesnější, WMF patří do kategorie formátů vektorových souborů grafických formátů souborů, které jsou nezávislé na zařízení. Windows Graphical Device Interface (GDI) používá funkce uložené v souboru WMF k zobrazení obrázku na obrazovce. Později byla publikována vylepšená verze WMF, známá jako Enhanced Meta Files (EMF), díky níž je formát bohatší na funkce. Prakticky jsou WMF podobné SVG.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více | PNG">}}
 PNG, Portable Network Graphics, označuje typ formátu rastrového obrázku, který používá bezztrátovou kompresi. Tento formát souboru byl vytvořen jako náhrada za Graphics Interchange Format (GIF) a nemá žádná omezení autorských práv. Formát souboru PNG však animace nepodporuje. Formát souboru PNG podporuje bezztrátovou kompresi obrázků, díky čemuž je mezi uživateli oblíbený. Postupem času se PNG vyvinul jako jeden z nejčastěji používaných formátů obrazových souborů. Téměř všechny operační systémy podporují otevírání souborů PNG. Například prohlížeč Microsoft Windows má schopnost otevírat soubory PNG, protože OS má standardně podporu dostupnou jako součást instalace.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

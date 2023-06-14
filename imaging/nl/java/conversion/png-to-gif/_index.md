@@ -75,16 +75,6 @@ Voordat u de conversievoorbeeldcode uitvoert, moet u ervoor zorgen dat u aan de 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Converteer PNG naar GIF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Gratis app om PNG naar GIF te converteren"
         appName="Conversion"
@@ -96,13 +86,21 @@ Voordat u de conversievoorbeeldcode uitvoert, moet u ervoor zorgen dat u aan de 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/nl/conversion/PNG-to-GIF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Converteer PNG naar GIF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder | PNG">}}
 PNG, Portable Network Graphics, verwijst naar een type rasterafbeeldingsbestandsindeling die lossless compressie gebruikt. Dit bestandsformaat is gemaakt als vervanging van Graphics Interchange Format (GIF) en heeft geen copyrightbeperkingen. Het PNG-bestandsformaat ondersteunt echter geen animaties. Het PNG-bestandsformaat ondersteunt lossless beeldcompressie waardoor het populair is onder zijn gebruikers. Met het verstrijken van de tijd is PNG geëvolueerd als een van de meest gebruikte afbeeldingsbestandsindelingen. Bijna alle besturingssystemen hebben ondersteuning voor het openen van PNG-bestanden. Microsoft Windows-viewer heeft bijvoorbeeld de mogelijkheid om PNG-bestanden te openen, aangezien het besturingssysteem standaard de ondersteuning heeft die beschikbaar is als onderdeel van de installatie.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder | GIF">}}
 Een GIF of Graphical Interchange Format is een type sterk gecomprimeerde afbeelding. GIF, eigendom van Unisys, gebruikt het LZW-compressie-algoritme dat de beeldkwaliteit niet verslechtert. Voor elke afbeelding staat GIF doorgaans tot 8 bits per pixel toe en tot 256 kleuren over de afbeelding. In tegenstelling tot een JPEG-afbeelding, die tot 16 miljoen kleuren kan weergeven en redelijk de grenzen van het menselijk oog raakt. Toen het internet opkwam, bleven GIF's de beste keuze omdat ze een lage bandbreedte nodig hadden en compatibel waren voor de afbeeldingen die effen kleurvlakken verbruiken. Een geanimeerde GIF combineert een groot aantal afbeeldingen of frames in een enkel bestand en geeft ze in een volgorde weer om een ​​geanimeerde clip of een korte video te genereren. De kleurbeperkingen zijn tot 256 voor elk frame en zijn waarschijnlijk het minst geschikt voor het reproduceren van andere afbeeldingen en foto's met kleurverloop.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

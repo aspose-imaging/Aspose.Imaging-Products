@@ -62,16 +62,6 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertuoti PNG į DXF – .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Nemokama programa konvertuoti PNG į DXF"
         appName="Conversion"
@@ -83,13 +73,21 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/lt/conversion/PNG-to-DXF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertuoti PNG į DXF – .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau | PNG">}}
 PNG, Portable Network Graphics, reiškia rastrinio vaizdo failo formato tipą, kuriame naudojamas nepralaidus glaudinimas. Šis failo formatas buvo sukurtas kaip grafinio mainų formato (GIF) pakaitalas ir neturi jokių autorių teisių apribojimų. Tačiau PNG failo formatas nepalaiko animacijų. PNG failo formatas palaiko nenutrūkstamą vaizdo glaudinimą, todėl jis yra populiarus tarp vartotojų. Laikui bėgant, PNG tapo vienu iš dažniausiai naudojamų vaizdo failų formatų. Beveik visos operacinės sistemos palaiko PNG failų atidarymą. Pavyzdžiui, „Microsoft Windows Viewer“ turi galimybę atidaryti PNG failus, nes OS pagal numatytuosius nustatymus palaiko diegimo dalį.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau | DXF">}}
 DXF, Drawing Interchange Format arba Drawing Exchange Format, yra pažymėtas AutoCAD piešinio failo duomenų atvaizdas. Kiekvienas failo elementas turi sveikojo skaičiaus priešdėlį, vadinamą grupės kodu. Šis grupės kodas iš tikrųjų reiškia elementą, kuris seka ir nurodo duomenų elemento reikšmę tam tikram objekto tipui. DXF suteikia galimybę brėžinio faile pateikti beveik visą vartotojo nurodytą informaciją.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

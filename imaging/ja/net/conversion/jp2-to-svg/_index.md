@@ -62,16 +62,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="JP2をSVGに変換します-.NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="JP2をSVGに変換する無料アプリ"
         appName="Conversion"
@@ -83,13 +73,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ja/conversion/JP2-to-SVG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="JP2をSVGに変換します-.NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | JP2">}}
 JPEG 2000（JP2）は、画像コーディングシステムであり、最先端の画像圧縮規格です。ウェーブレットテクノロジーを使用して設計されたJPEG2000は、ロスレスコンテンツを任意の品質で一度にコーディングできます。さらに、コーディング効率に実質的なペナルティを課すことなく、JPEG 2000には、同じコンテンツに効果的にアクセスしてデコードし、他のさまざまな解像度や品質に変換する機能があります。 JPEG 2000のコードストリームは非常にスケーラブルであり、空間ランダムアクセスの機能を提供する関心領域があります。テラピクセル単位の寸法と38ビット/サンプルの高精度を備えた最大16384の多様なコンポーネントを備えています。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | SVG">}}
 SVGファイルは、画像の外観を記述するためにXMLベースのテキスト形式を使用するScalable VectorGraphicsファイルです。スケーラブルという言葉は、SVGが品質を損なうことなくさまざまなサイズにスケーリングできるという事実を指します。このようなファイルのテキストベースの説明により、解像度に依存しなくなります。これは、スケーラビリティを実現するためにWebサイトや印刷グラフィックを構築するために最もよく使用される形式の1つです。ただし、この形式は2次元グラフィックスにのみ使用できます。 SVGファイルは、Chrome、Internet Explorer、Firefox、Safariを含むほとんどすべての最新のブラウザーで表示/開くことができます。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

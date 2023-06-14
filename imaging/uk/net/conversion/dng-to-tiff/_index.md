@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити DNG на TIFF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення DNG у TIFF"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DNG-to-TIFF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити DNG на TIFF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | DNG">}}
 DNG — це формат зображення цифрової камери, який використовується для зберігання необроблених файлів. Він був розроблений Adobe у вересні 2004 року. В основному він був розроблений для цифрової фотографії. DNG є розширенням стандартного формату TIFF/EP і значно використовує метадані. Щоб маніпулювати необробленими даними з цифрових камер із легкою гнучкістю та художнім контролем, фотографи вибирають файли Camera Raw. У форматах JPEG і TIFF зберігаються зображення, оброблені камерою, тому в таких форматах мало місця для змін.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | TIFF">}}
 TIFF або TIF, Tagged Image File Format, представляє растрові зображення, які призначені для використання на різних пристроях, які відповідають цьому стандарту формату файлів. Він здатний описувати дані дворівневого зображення, відтінків сірого, кольору палітри та повнокольорового зображення в кількох колірних просторах. Він підтримує схеми стиснення як із втратами, так і без втрат, щоб вибрати між простором і часом для програм, які використовують формат. Формат є розширюваним і зазнав кілька переглядів, що дозволяє включати необмежену кількість приватної або спеціальної інформації. Формат не залежить від машини та не залежить від процесора, операційної системи чи файлових систем.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

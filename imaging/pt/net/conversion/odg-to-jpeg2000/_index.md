@@ -64,16 +64,6 @@ Antes de executar o código de exemplo de conversão, verifique se você tem os 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Converter {Formato1} para {Formato2} - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Aplicativo gratuito para converter ODG para JPEG2000"
         appName="Conversion"
@@ -85,13 +75,21 @@ Antes de executar o código de exemplo de conversão, verifique se você tem os 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/pt/conversion/ODG-to-JPEG2000)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Converter {Formato1} para {Formato2} - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação | ODG">}}
 O formato de arquivo ODG é usado pelo aplicativo Draw do Apache OpenOffice para armazenar elementos de desenho como uma imagem vetorial. Ele segue as especificações de formato de arquivo baseado em XML descritas pelo Advancement of Structural Information Standards (OASIS). ODG representa desenhos como imagens vetoriais usando pontos, linhas e curvas. Além do OpenOffice, o LibreOffice e outros aplicativos também oferecem suporte para trabalhar com o formato de arquivo ODG. Outros formatos suportados pelo OpenOffice, por exemplo, incluem ODT, ODF, ODP e ODS.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação | JPEG2000">}}
 JPEG 2000 (JP2) é um sistema de codificação de imagem e padrão de compressão de imagem de última geração. Projetado, usando a tecnologia wavelet JPEG 2000 pode codificar conteúdo sem perdas em qualquer qualidade de uma só vez. Além disso, sem nenhuma penalidade substancial na eficiência de codificação, o JPEG 2000 tem a capacidade de acessar e decodificar o mesmo conteúdo de forma eficaz em uma variedade de outras resoluções e qualidades. Os fluxos de código em JPEG 2000 são significativamente escaláveis ​​com regiões de interesse que fornecem a facilidade de acesso espacial aleatório. Possuindo até 16384 componentes diversos com as dimensões em terapixels, e precisão que pode chegar a 38 bits/amostra.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

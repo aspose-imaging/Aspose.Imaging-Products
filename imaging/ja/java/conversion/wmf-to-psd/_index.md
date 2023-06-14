@@ -75,16 +75,6 @@ WMFをPSDに変換するには、 [Aspose.Imaging for Java](https://products.asp
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="WMFをPSDに変換します-Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="WMFをPSDに変換する無料アプリ"
         appName="Conversion"
@@ -96,13 +86,21 @@ WMFをPSDに変換するには、 [Aspose.Imaging for Java](https://products.asp
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ja/conversion/WMF-to-PSD)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="WMFをPSDに変換します-Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | WMF">}}
 WMF拡張子の付いたファイルは、ベクターおよびビットマップ形式の画像データを格納するためのMicrosoft Windowsメタファイル（WMF）を表します。より正確に言うと、WMFは、デバイスに依存しないグラフィックファイル形式のベクターファイル形式カテゴリに属しています。 Windowsグラフィックデバイスインターフェイス（GDI）は、WMFファイルに格納されている関数を使用して、画面に画像を表示します。拡張メタファイル（EMF）として知られるWMFのより拡張されたバージョンは、フォーマットをより豊富な機能にするために後で公開されました。実際には、WMFはSVGに似ています。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | PSD">}}
 PSD、Photoshop Documentは、グラフィックデザインと開発に使用されるAdobePhotoshopのネイティブファイル形式を表します。 PSDファイルには、画像レイヤー、調整レイヤー、レイヤーマスク、注釈、ファイル情報、キーワード、その他のPhotoshop固有の要素が含まれる場合があります。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

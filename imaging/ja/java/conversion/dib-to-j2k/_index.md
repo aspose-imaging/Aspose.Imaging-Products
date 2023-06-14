@@ -75,16 +75,6 @@ DIBをJ2Kに変換するには、 [Aspose.Imaging for Java](https://products.asp
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="DIBをJ2Kに変換します-Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="DIBをJ2Kに変換する無料アプリ"
         appName="Conversion"
@@ -96,13 +86,21 @@ DIBをJ2Kに変換するには、 [Aspose.Imaging for Java](https://products.asp
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ja/conversion/DIB-to-J2K)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="DIBをJ2Kに変換します-Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | DIB">}}
 DIB（Device Independent Bitmap）ファイルは、標準のビットマップファイル（BMP）と構造が似ていますが、ヘッダーが異なるラスターイメージファイルです。これは、WindowsおよびmacOSで標準のBMPファイルを開くことができるほとんどすべてのアプリケーションで開くことができます。 DIBはバイナリファイルであり、BMPと同様の複雑なファイル形式を持っています。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | J2K">}}
 J2Kファイルは、DCT圧縮の代わりにウェーブレット圧縮を使用して圧縮された画像です。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

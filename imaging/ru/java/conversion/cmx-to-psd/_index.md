@@ -75,16 +75,6 @@ description: Пример кода для преобразования CMX в PS
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Преобразование CMX в PSD - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Бесплатное приложение для конвертации CMX в PSD"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Пример кода для преобразования CMX в PS
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ru/conversion/CMX-to-PSD)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Преобразование CMX в PSD - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее | CMX">}}
 Файлы с расширением CMX представляют собой формат файла изображения Corel Exchange, который используется в качестве представления приложениями CorelSuite. Он содержит данные изображения в виде векторной графики, а также метаданные, описывающие изображение. Файлы CMX можно открывать с помощью CorelDraw, Corel Presentations, Paint Shop Pro и некоторых версий Adobe Illustrator.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее | PSD">}}
 PSD, документ Photoshop, представляет собой собственный формат файлов Adobe Photoshop, используемый для графического дизайна и разработки. Файлы PSD могут включать в себя слои изображений, корректирующие слои, маски слоев, аннотации, информацию о файле, ключевые слова и другие элементы, характерные для Photoshop.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

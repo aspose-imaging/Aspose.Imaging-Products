@@ -75,16 +75,6 @@ SVGZをHTMLに変換するには、 [Aspose.Imaging for Java](https://products.a
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="SVGZをHTMLに変換します-Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="SVGZをHTMLに変換する無料アプリ"
         appName="Conversion"
@@ -96,13 +86,21 @@ SVGZをHTMLに変換するには、 [Aspose.Imaging for Java](https://products.a
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ja/conversion/SVGZ-to-HTML)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="SVGZをHTMLに変換します-Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | SVGZ">}}
 拡張子が.svgzのファイルは、Scalable Vector Graphics（.SVG）ファイルの圧縮バージョンです。 gzip圧縮で圧縮され、XML形式のデータが含まれています。 SVGZファイルは、透明度、グラデーション、アニメーション、およびフィルターをサポートします。 SVGZファイルはデフォルトのSVGファイルと比較してサイズが小さく、この縮小されたファイルサイズはグラフィックファイルをオンラインで転送するのに役立ちます。グラフィックデザイナーは、Adobe Illustrator、Corel PaintShopProなどのツールを使用してSVGZファイルを作成します。ただし、SVGZファイルは、画像データの送信中にApacheサーバーでGZip圧縮を有効にすることで生成できます。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | HTML">}}
 HTML（ハイパーテキストマークアップ言語）は、ブラウザで表示するために作成されたWebページの拡張機能です。 Webの言語として知られるHTMLは、Webページの一部として表示される新しい情報要件の要件とともに進化してきました。最新のバリアントはHTML5として知られており、言語を操作するための多くの柔軟性を提供します。 HTMLページは、ホストされているサーバーから受信するか、ローカルシステムからロードすることもできます。各HTMLページは、フォーム、テキスト、画像、アニメーション、リンクなどのHTML要素で構成されています。これらの要素は、img、a、pなどのタグで表され、各タグには開始と終了があります。また、JavaScriptやスタイルシート（CSS）などのスクリプト言語で記述されたアプリケーションを埋め込んで、全体的なレイアウトを表現することもできます。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

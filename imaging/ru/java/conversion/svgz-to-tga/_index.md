@@ -75,16 +75,6 @@ description: Пример кода для преобразования SVGZ в T
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Преобразование SVGZ в TGA - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Бесплатное приложение для конвертации SVGZ в TGA"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Пример кода для преобразования SVGZ в T
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ru/conversion/SVGZ-to-TGA)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Преобразование SVGZ в TGA - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее | SVGZ">}}
 Файл с расширением .svgz представляет собой сжатую версию файла масштабируемой векторной графики (.SVG). Он сжат сжатием gzip и содержит данные в формате XML. Файлы SVGZ поддерживают прозрачность, градиенты, анимацию и фильтры. Файлы SVGZ меньше по размеру по сравнению с файлами SVG по умолчанию, и этот уменьшенный размер файла помогает передавать графические файлы онлайн. Графический дизайнер создает файлы SVGZ с помощью таких инструментов, как Adobe Illustrator, Corel PaintShop Pro и других. Однако файлы SVGZ можно создавать, включив сжатие GZip на сервере Apache при отправке данных изображения.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее | TGA">}}
 Truevision TGA, часто называемый TARGA, представляет собой формат файла растровой графики, созданный Truevision Inc. (теперь часть Avid Technology). Это был собственный формат плат TARGA и VISTA, которые были первыми графическими картами для IBM-совместимых ПК с поддержкой отображения Highcolor/truecolor.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

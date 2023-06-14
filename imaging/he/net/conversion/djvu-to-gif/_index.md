@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="המר את DJVU ל-GIF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="אפליקציה חינמית להמרת DJVU ל-GIF"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DJVU-to-GIF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="המר את DJVU ל-GIF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | DJVU">}}
 DjVu, מבוטא בשם DJVU, הוא פורמט קובץ גרפי המיועד למסמכים וספרים סרוקים במיוחד אלה המכילים שילוב של טקסט, ציורים, תמונות ותצלומים. זה פותח על ידי AT&T Labs. הוא משתמש בטכניקות מרובות כמו הפרדת שכבות תמונה של תמונות טקסט ותמונות רקע, טעינה מתקדמת, קידוד אריתמטי ודחיסה מאבדת עבור תמונות ביטונליות. מכיוון שקובץ DJVU יכול להכיל תמונות צבעוניות דחוסות אך באיכות גבוהה, תצלומים, טקסט וציורים וניתן לשמור אותו בפחות מקום ולכן, הוא משמש באינטרנט כספרים אלקטרוניים, מדריכים, עיתונים, מסמכים עתיקים וכו'.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | GIF">}}
 GIF או Graphical Interchange Format הוא סוג של תמונה דחוסה מאוד. בבעלות Unisys, GIF משתמש באלגוריתם הדחיסה LZW שאינו פוגע באיכות התמונה. עבור כל תמונה GIF בדרך כלל מאפשר עד 8 סיביות לפיקסל ועד 256 צבעים מותרים על פני התמונה. בניגוד לתמונת JPEG, שיכולה להציג עד 16 מיליון צבעים ונוגעת למדי בגבולות העין האנושית. כשהאינטרנט הופיע, קובצי GIF נותרו הבחירה הטובה ביותר מכיוון שהם דרשו רוחב פס נמוך ותואם לגרפיקה שצורכת אזורי צבע מוצקים. GIF מונפש משלב מספר רב של תמונות או פריימים לקובץ אחד ומציג אותם ברצף ליצירת קליפ מונפש או סרטון וידאו קצר. מגבלות הצבע הן עד 256 עבור כל פריים וסביר להניח שהן יהיו הפחות מתאימות לשחזור תמונות ותצלומים אחרים עם מעבר צבע.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

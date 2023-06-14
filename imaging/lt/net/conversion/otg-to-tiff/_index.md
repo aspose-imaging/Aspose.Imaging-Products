@@ -62,16 +62,6 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertuoti OTG į TIFF – .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Nemokama programa konvertuoti OTG į TIFF"
         appName="Conversion"
@@ -83,13 +73,21 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/lt/conversion/OTG-to-TIFF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertuoti OTG į TIFF – .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau | OTG">}}
 OTG failas yra piešimo šablonas, sukurtas naudojant OpenDocument standartą, atitinkantį OASIS Office Applications 1.0 specifikaciją. Tai yra numatytasis vektorinio vaizdo piešimo elementų organizavimas, kurį galima naudoti toliau tobulinant failo turinį.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau | TIFF">}}
 TIFF arba TIF, Tagged Image File Format, reiškia rastrinius vaizdus, ​​kurie yra skirti naudoti įvairiuose įrenginiuose, kurie atitinka šį failo formato standartą. Jis gali apibūdinti dviejų lygių, pilkų tonų, paletės spalvų ir pilnų spalvų vaizdo duomenis keliose spalvų erdvėse. Jis palaiko nuostolingo ir be nuostolių glaudinimo schemas, kad būtų galima pasirinkti tarp vietos ir laiko programoms, naudojančioms formatą. Formatas yra išplečiamas ir buvo keletą kartų peržiūrėtas, todėl galima įtraukti neribotą kiekį privačios ar specialios paskirties informacijos. Formatas nepriklauso nuo įrenginio ir nėra ribojamas, pvz., procesoriaus, operacinės sistemos ar failų sistemų.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

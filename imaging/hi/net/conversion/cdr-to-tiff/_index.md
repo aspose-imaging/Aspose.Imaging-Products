@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="CDR को TIFF में बदलें - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="CDR को TIFF में बदलने के लिए नि:शुल्‍क ऐप"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/CDR-to-TIFF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="CDR को TIFF में बदलें - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | CDR">}}
 CDR फ़ाइल एक वेक्टर ड्राइंग इमेज फ़ाइल है जो मूल रूप से CorelDRAW के साथ डिजिटल छवि एन्कोडेड और संपीड़ित को संग्रहीत करने के लिए बनाई गई है। इस तरह की एक ड्राइंग फ़ाइल में छवि सामग्री के वेक्टर प्रतिनिधित्व के लिए पाठ, रेखाएं, आकार, चित्र, रंग और प्रभाव होते हैं। CDR फाइलें प्राथमिक एप्लिकेशन के रूप में CorelDRAW के साथ खोली जा सकती हैं और अन्य प्रारूपों जैसे PDF, JPG, PNG, BMP और AI में भी परिवर्तित की जा सकती हैं। इसका उपयोग ब्रोशर, टैब्लॉयड, लिफाफे और पोस्टकार्ड जैसे विभिन्न ग्राफिक्स डेटा के प्रतिनिधित्व के लिए किया जा सकता है। CorelDRAW के अलावा, Corel पेंटशॉप प्रो और CorelDRAW ग्राफ़िक्स सूट जैसे अन्य Corel उत्पाद भी CDR फ़ाइल स्वरूपों को खोल सकते हैं।
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | TIFF">}}
 TIFF या TIF, टैग की गई छवि फ़ाइल स्वरूप, रेखापुंज छवियों का प्रतिनिधित्व करता है जो इस फ़ाइल प्रारूप मानक का अनुपालन करने वाले विभिन्न उपकरणों पर उपयोग के लिए हैं। यह कई रंग स्थानों में द्विस्तरीय, ग्रेस्केल, पैलेट-रंग और पूर्ण-रंग छवि डेटा का वर्णन करने में सक्षम है। यह प्रारूप का उपयोग करने वाले अनुप्रयोगों के लिए स्थान और समय के बीच चयन करने के लिए हानिपूर्ण और साथ ही दोषरहित संपीड़न योजनाओं का समर्थन करता है। प्रारूप एक्स्टेंसिबल है और इसमें कई संशोधन हुए हैं जो असीमित मात्रा में निजी या विशेष प्रयोजन की जानकारी को शामिल करने की अनुमति देता है। प्रारूप मशीन पर निर्भर नहीं है और प्रोसेसर, ऑपरेटिंग सिस्टम या फाइल सिस्टम जैसी सीमाओं से मुक्त है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 

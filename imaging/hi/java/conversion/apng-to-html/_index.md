@@ -75,16 +75,6 @@ APNG को HTML में बदलने के लिए, हम उपयो
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="APNG को HTML में बदलें - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="APNG को HTML में बदलने के लिए नि:शुल्‍क ऐप"
         appName="Conversion"
@@ -96,13 +86,21 @@ APNG को HTML में बदलने के लिए, हम उपयो
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/APNG-to-HTML)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="APNG को HTML में बदलें - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | APNG">}}
 .apng (एनिमेटेड पोर्टेबल नेटवर्क ग्राफिक्स) एक्सटेंशन वाली फाइल एक रैस्टर ग्राफिक फॉर्मेट है और पोर्टेबल नेटवर्क ग्राफिक (पीएनजी) के लिए एक अनौपचारिक एक्सटेंशन है। इसमें कई फ्रेम शामिल हैं (प्रत्येक पीएनजी छवि) जो एक एनीमेशन अनुक्रम का प्रतिनिधित्व करता है। यह GIF फ़ाइल के समान विज़ुअलाइज़ेशन देता है। एपीएनजी फाइलें 24-बिट छवियों और 8-बिट पारदर्शिता का समर्थन करती हैं। APNG गैर-एनिमेटेड GIF फ़ाइलों के साथ पिछड़ा संगत है। APNG फ़ाइलें समान .png एक्सटेंशन का उपयोग करती हैं और Mozilla Firefox, APNG समर्थन वाले Chrome, iOS 10 के लिए iMessage ऐप्स जैसे एप्लिकेशन द्वारा खोली जा सकती हैं।
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | HTML">}}
 HTML (हाइपर टेक्स्ट मार्कअप लैंग्वेज) ब्राउज़र में प्रदर्शन के लिए बनाए गए वेब पेजों का एक्सटेंशन है। वेब की भाषा के रूप में जाना जाता है, एचटीएमएल वेब पेजों के हिस्से के रूप में प्रदर्शित होने वाली नई सूचना आवश्यकताओं की आवश्यकताओं के साथ विकसित हुआ है। नवीनतम संस्करण को HTML 5 के रूप में जाना जाता है जो भाषा के साथ काम करने के लिए बहुत अधिक लचीलापन देता है। HTML पृष्ठ या तो सर्वर से प्राप्त होते हैं, जहां इन्हें होस्ट किया जाता है, या स्थानीय सिस्टम से भी लोड किया जा सकता है। प्रत्येक HTML पृष्ठ HTML तत्वों से बना होता है जैसे कि फॉर्म, टेक्स्ट, इमेज, एनिमेशन, लिंक आदि। इन तत्वों को टैग द्वारा दर्शाया जाता है जैसे कि img, a, p और कई अन्य जहां प्रत्येक टैग का प्रारंभ और अंत होता है। यह समग्र लेआउट प्रतिनिधित्व के लिए स्क्रिप्टिंग भाषाओं जैसे जावास्क्रिप्ट और स्टाइल शीट्स (सीएसएस) में लिखे गए अनुप्रयोगों को भी एम्बेड कर सकता है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 

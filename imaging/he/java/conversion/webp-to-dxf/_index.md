@@ -75,16 +75,6 @@ description: קוד לדוגמה עבור המרת Java מ-WEBP ל-DXF. השתמ
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="המר את WEBP ל-DXF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="אפליקציה חינמית להמרת WEBP ל-DXF"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: קוד לדוגמה עבור המרת Java מ-WEBP ל-DXF. השתמ
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/WEBP-to-DXF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="המר את WEBP ל-DXF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | WEBP">}}
 WebP, שהוצגה על ידי גוגל, הוא פורמט קובץ תמונה אינטרנטי רסטר מודרני המבוסס על דחיסה נטולת אובדן והפסד. זה מספק את אותה איכות תמונה תוך הקטנה ניכרת של גודל התמונה. מכיוון שרוב דפי האינטרנט משתמשים בתמונות כייצוג יעיל של נתונים, השימוש בתמונות WebP בדפי אינטרנט מביא לטעינה מהירה יותר של דפי אינטרנט. לפי גוגל, תמונות ללא אובדן WebP קטנות ב-26% בהשוואה ל-PNG, בעוד שתמונות עם אובדן WebP קטנות ב-25-34% מתמונות JPEG דומות. השוואת התמונות מבוססת על אינדקס הדמיון המבני (SSIM) בין WebP לפורמטים אחרים של קבצי תמונה. WebP הוא פרויקט אחות של פורמט מיכל מולטימדיה של WebM.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | DXF">}}
 DXF, Drawing Interchange Format, או Drawing Exchange Format, הוא ייצוג נתונים מתויג של קובץ ציור AutoCAD. לכל רכיב בקובץ יש קידומת מספר שלם הנקרא קוד קבוצה. קוד קבוצה זה מייצג למעשה את האלמנט שאחריו ומציין את המשמעות של אלמנט נתונים עבור סוג אובייקט נתון. DXF מאפשר לייצג כמעט את כל המידע שצוין על ידי המשתמש בקובץ ציור.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

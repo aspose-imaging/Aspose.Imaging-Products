@@ -75,16 +75,6 @@ Antes de executar o código de exemplo de conversão, verifique se você tem os 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Converter {Formato1} para {Formato2} - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Aplicativo gratuito para converter SVGZ para PDF"
         appName="Conversion"
@@ -96,13 +86,21 @@ Antes de executar o código de exemplo de conversão, verifique se você tem os 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/pt/conversion/SVGZ-to-PDF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Converter {Formato1} para {Formato2} - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação | SVGZ">}}
 Um arquivo com extensão .svgz é uma versão compactada do arquivo Scalable Vector Graphics (.SVG). Ele é compactado com compactação gzip e contém dados em formato XML. Os arquivos SVGZ suportam transparência, gradientes, animações e filtros. Os arquivos SVGZ são menores em tamanho em comparação com os arquivos SVG padrão e esse tamanho de arquivo reduzido ajuda a transferir os arquivos gráficos online. O designer gráfico cria arquivos SVGZ usando ferramentas como Adobe Illustrator, Corel PaintShop Pro e outras. No entanto, os arquivos SVGZ podem ser gerados ativando a compactação GZip no Apache Server ao enviar os dados da imagem.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação | PDF">}}
 Portable Document Format (PDF) é um tipo de documento criado pela Adobe na década de 1990. O objetivo deste formato de arquivo foi introduzir um padrão para representação de documentos e outros materiais de referência em um formato independente do software aplicativo, hardware e sistema operacional. O formato de arquivo PDF tem capacidade total para conter informações como texto, imagens, hiperlinks, campos de formulário, rich media, assinaturas digitais, anexos, metadados, recursos geoespaciais e objetos 3D que podem se tornar parte do documento de origem.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

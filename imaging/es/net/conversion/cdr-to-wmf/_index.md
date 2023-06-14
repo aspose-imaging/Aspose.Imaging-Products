@@ -65,16 +65,6 @@ Antes de ejecutar el código de ejemplo de conversión, asegúrese de tener los 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convertir CDR a WMF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Aplicación gratuita para convertir CDR a WMF"
         appName="Conversion"
@@ -86,13 +76,21 @@ Antes de ejecutar el código de ejemplo de conversión, asegúrese de tener los 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/es/conversion/CDR-to-WMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Convertir CDR a WMF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más | CDR">}}
 Un archivo CDR es un archivo de imagen de dibujo vectorial que se crea de forma nativa con CorelDRAW para almacenar imágenes digitales codificadas y comprimidas. Dicho archivo de dibujo contiene texto, líneas, formas, imágenes, colores y efectos para la representación vectorial del contenido de la imagen. Los archivos CDR se pueden abrir con CorelDRAW como aplicación principal y también se pueden convertir a otros formatos como PDF, JPG, PNG, BMP y AI. Se puede utilizar para la representación de varios datos gráficos como folletos, tabloides, sobres y postales. Además de CorelDRAW, otros productos de Corel como Corel Paintshop Pro y CorelDRAW Graphics Suite también pueden abrir los formatos de archivo CDR.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más | WMF">}}
 Los archivos con la extensión WMF representan el metarchivo de Microsoft Windows (WMF) para almacenar datos de imágenes vectoriales y de formato de mapa de bits. Para ser más precisos, WMF pertenece a la categoría de formato de archivo vectorial de formatos de archivo de gráficos que es independiente del dispositivo. La interfaz de dispositivo gráfico de Windows (GDI) utiliza las funciones almacenadas en un archivo WMF para mostrar una imagen en la pantalla. Más tarde se publicó una versión más mejorada de WMF, conocida como Enhanced Meta Files (EMF), que hace que el formato tenga más funciones. Prácticamente, WMF son similares a SVG.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

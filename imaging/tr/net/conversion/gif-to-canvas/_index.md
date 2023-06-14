@@ -62,16 +62,6 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="GIF öğesini CANVAS - .NET biçimine dönüştürün" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="GIF'i CANVAS'e Dönüştürmek için Ücretsiz Uygulama"
         appName="Conversion"
@@ -83,13 +73,21 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/tr/conversion/GIF-to-CANVAS)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="GIF öğesini CANVAS - .NET biçimine dönüştürün" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | GIF">}}
 GIF veya Grafik Değişim Biçimi, yüksek oranda sıkıştırılmış bir görüntü türüdür. Unisys'e ait olan GIF, görüntü kalitesini düşürmeyen LZW sıkıştırma algoritmasını kullanır. Her görüntü için GIF tipik olarak piksel başına 8 bite kadar izin verir ve görüntü genelinde 256 renge kadar izin verilir. 16 milyona kadar renk gösterebilen ve insan gözünün sınırlarına oldukça dokunan bir JPEG görüntüsünün aksine. İnternet ortaya çıktığında, GIF'ler düşük bant genişliği gerektirdiğinden ve düz renkli alanlar tüketen grafiklerle uyumlu olduğundan en iyi seçenek olarak kaldı. Animasyonlu bir GIF, çok sayıda görüntüyü veya çerçeveyi tek bir dosyada birleştirir ve hareketli bir klip veya kısa bir video oluşturmak için bunları bir sırayla görüntüler. Renk sınırlamaları her kare için 256'ya kadardır ve renk gradyanlı diğer görüntülerin ve fotoğrafların çoğaltılması için en az uygun olanlardır.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CANVAS" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CANVAS" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | CANVAS">}}
 HTML (Hyper Text Markup Language), tarayıcılarda görüntülenmek üzere oluşturulmuş web sayfalarının uzantısıdır. Web'in dili olarak bilinen HTML, web sayfalarının bir parçası olarak görüntülenecek yeni bilgi gereksinimlerinin gereksinimleriyle gelişmiştir. En son varyant, dille çalışmak için çok fazla esneklik sağlayan HTML 5 olarak bilinir. HTML sayfaları, barındırıldığı sunucudan alınır veya yerel sistemden de yüklenebilir. Her HTML sayfası, formlar, metinler, resimler, animasyonlar, bağlantılar vb. gibi HTML öğelerinden oluşur. Bu öğeler, img, a, p gibi etiketlerle ve her etiketin başladığı ve bittiği diğer birkaç etiketle temsil edilir. Ayrıca, genel düzen gösterimi için JavaScript ve Stil Sayfaları (CSS) gibi komut dosyası dillerinde yazılmış uygulamaları da gömebilir.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

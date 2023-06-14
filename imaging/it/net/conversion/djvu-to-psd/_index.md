@@ -64,16 +64,6 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Converti DJVU in PSD - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="App gratuita per convertire DJVU in PSD"
         appName="Conversion"
@@ -85,13 +75,21 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/it/conversion/DJVU-to-PSD)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Converti DJVU in PSD - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più | DJVU">}}
 DjVu, pronunciato come DJVU, è un formato di file grafico destinato a documenti e libri scansionati, in particolare quelli che contengono la combinazione di testo, disegni, immagini e fotografie. È stato sviluppato da AT&T Labs. Utilizza più tecniche come la separazione del livello dell'immagine del testo e delle immagini di sfondo, il caricamento progressivo, la codifica aritmetica e la compressione con perdita di dati per le immagini bitonali. Poiché il file DJVU può contenere immagini a colori, fotografie, testo e disegni compressi ma di alta qualità e può essere salvato in meno spazio, quindi viene utilizzato sul Web come eBook, manuali, giornali, documenti antichi, ecc.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più | PSD">}}
 PSD, Photoshop Document, rappresenta il formato di file nativo di Adobe Photoshop utilizzato per la progettazione e lo sviluppo della grafica. I file PSD possono includere livelli di immagine, livelli di regolazione, maschere di livello, annotazioni, informazioni sui file, parole chiave e altri elementi specifici di Photoshop.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

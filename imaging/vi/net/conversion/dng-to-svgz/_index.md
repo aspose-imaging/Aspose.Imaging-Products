@@ -62,16 +62,6 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Chuyển đổi DNG thành SVGZ - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Ứng dụng miễn phí để chuyển đổi DNG thành SVGZ"
         appName="Conversion"
@@ -83,13 +73,21 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/vi/conversion/DNG-to-SVGZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Chuyển đổi DNG thành SVGZ - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm | DNG">}}
 DNG là một định dạng hình ảnh máy ảnh kỹ thuật số được sử dụng để lưu trữ các tệp thô. Nó đã được phát triển bởi Adobe vào tháng 9 năm 2004. Về cơ bản nó được phát triển cho nhiếp ảnh kỹ thuật số. DNG là phần mở rộng của định dạng tiêu chuẩn TIFF / EP và sử dụng siêu dữ liệu đáng kể. Để xử lý dữ liệu thô từ máy ảnh kỹ thuật số một cách dễ dàng linh hoạt và khả năng kiểm soát nghệ thuật, các nhiếp ảnh gia chọn tệp thô của máy ảnh. Các định dạng JPEG và TIFF lưu trữ hình ảnh được xử lý bởi máy ảnh, do đó không có nhiều chỗ để thay đổi ở các định dạng như vậy.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm | SVGZ">}}
 Tệp có phần mở rộng .svgz là phiên bản nén của tệp Đồ họa Vectơ có thể mở rộng (.SVG). Nó được nén bằng nén gzip và chứa dữ liệu ở định dạng XML. Các tệp SVGZ hỗ trợ độ trong suốt, độ dốc, hoạt ảnh và bộ lọc. Các tệp SVGZ có kích thước nhỏ hơn so với các tệp SVG mặc định và kích thước tệp giảm này giúp chuyển các tệp đồ họa trực tuyến. Nhà thiết kế đồ họa tạo các tệp SVGZ bằng các công cụ như Adobe Illustrator, Corel PaintShop Pro và các công cụ khác. Tuy nhiên, tệp SVGZ có thể được tạo bằng cách bật tính năng nén GZip trong Máy chủ Apache trong khi gửi dữ liệu hình ảnh.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="CDR को DXF में बदलें - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="CDR को DXF में बदलने के लिए नि:शुल्‍क ऐप"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/CDR-to-DXF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="CDR को DXF में बदलें - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | CDR">}}
 CDR फ़ाइल एक वेक्टर ड्राइंग इमेज फ़ाइल है जो मूल रूप से CorelDRAW के साथ डिजिटल छवि एन्कोडेड और संपीड़ित को संग्रहीत करने के लिए बनाई गई है। इस तरह की एक ड्राइंग फ़ाइल में छवि सामग्री के वेक्टर प्रतिनिधित्व के लिए पाठ, रेखाएं, आकार, चित्र, रंग और प्रभाव होते हैं। CDR फाइलें प्राथमिक एप्लिकेशन के रूप में CorelDRAW के साथ खोली जा सकती हैं और अन्य प्रारूपों जैसे PDF, JPG, PNG, BMP और AI में भी परिवर्तित की जा सकती हैं। इसका उपयोग ब्रोशर, टैब्लॉयड, लिफाफे और पोस्टकार्ड जैसे विभिन्न ग्राफिक्स डेटा के प्रतिनिधित्व के लिए किया जा सकता है। CorelDRAW के अलावा, Corel पेंटशॉप प्रो और CorelDRAW ग्राफ़िक्स सूट जैसे अन्य Corel उत्पाद भी CDR फ़ाइल स्वरूपों को खोल सकते हैं।
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | DXF">}}
 डीएक्सएफ, ड्रॉइंग इंटरचेंज फॉर्मेट या ड्रॉइंग एक्सचेंज फॉर्मेट, ऑटोकैड ड्राइंग फाइल का एक टैग किया गया डेटा प्रतिनिधित्व है। फ़ाइल में प्रत्येक तत्व में एक उपसर्ग पूर्णांक संख्या होती है जिसे समूह कोड कहा जाता है। यह समूह कोड वास्तव में उस तत्व का प्रतिनिधित्व करता है जो किसी दिए गए ऑब्जेक्ट प्रकार के लिए डेटा तत्व के अर्थ का अनुसरण करता है और इंगित करता है। डीएक्सएफ ड्राइंग फ़ाइल में लगभग सभी उपयोगकर्ता-निर्दिष्ट जानकारी का प्रतिनिधित्व करना संभव बनाता है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 

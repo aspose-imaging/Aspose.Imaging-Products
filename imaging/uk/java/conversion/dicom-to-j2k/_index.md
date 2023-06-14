@@ -75,16 +75,6 @@ description: Зразок коду для перетворення DICOM у J2K 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити DICOM на J2K - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення DICOM у J2K"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Зразок коду для перетворення DICOM у J2K 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DICOM-to-J2K)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити DICOM на J2K - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | DICOM">}}
 DICOM — це абревіатура від Digital Imaging and Communications in Medicine і відноситься до галузі медичної інформатики. DICOM — це поєднання визначення формату файлу та протоколу мережевого зв’язку. DICOM використовує розширення .DCM. .DCM існує у двох різних форматах, тобто форматі 1.x і форматі 2.x. Формат DCM 1.x також доступний у двох версіях: звичайній і розширеній. DICOM використовується для інтеграції медичних пристроїв візуалізації, таких як принтери, сервери, сканери тощо від різних постачальників, а також містить ідентифікаційні дані кожного пацієнта для унікальності. Файли DICOM можуть використовуватися між двома сторонами, якщо вони здатні отримувати дані зображення у форматі DICOM. Комунікаційна частина DICOM є протоколом прикладного рівня та використовує TCP/IP для зв’язку між об’єктами. Для веб-служб DICOM використовуються протоколи HTTP і HTTPS. Веб-службами підтримуються версії 1.0, 1.1, 2 або новіші.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | J2K">}}
 Файл J2K — це зображення, яке стискається за допомогою вейвлет-стиснення замість стиснення DCT.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

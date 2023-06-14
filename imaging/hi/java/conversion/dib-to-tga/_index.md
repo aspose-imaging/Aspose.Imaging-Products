@@ -75,16 +75,6 @@ DIB को TGA में बदलने के लिए, हम उपयो�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="DIB को TGA में बदलें - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="DIB को TGA में बदलने के लिए नि:शुल्‍क ऐप"
         appName="Conversion"
@@ -96,13 +86,21 @@ DIB को TGA में बदलने के लिए, हम उपयो�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DIB-to-TGA)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="DIB को TGA में बदलें - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | DIB">}}
 एक डीआईबी (डिवाइस इंडिपेंडेंट बिटमैप) फ़ाइल एक रास्टर छवि फ़ाइल है जो मानक बिटमैप फ़ाइलों (बीएमपी) की संरचना में समान है लेकिन एक अलग हेडर है। इसे लगभग सभी अनुप्रयोगों के साथ खोला जा सकता है जो विंडोज़ के साथ-साथ मैकोज़ पर एक मानक बीएमपी फ़ाइल खोल सकते हैं। DIB बाइनरी फ़ाइलें हैं और BMP के समान एक जटिल फ़ाइल स्वरूप है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | TGA">}}
 Truevision TGA, जिसे अक्सर TARGA के रूप में जाना जाता है, Truevision Inc. (अब AVID टेक्नोलॉजी का हिस्सा) द्वारा बनाया गया एक रेखापुंज ग्राफिक्स फ़ाइल स्वरूप है। यह TARGA और VISTA बोर्डों का मूल स्वरूप था, जो IBM-संगत PC के लिए Highcolor/truecolor डिस्प्ले का समर्थन करने वाले पहले ग्राफिक कार्ड थे।
         {{< /blocks/products/pf/agp/about-file-text >}}
 

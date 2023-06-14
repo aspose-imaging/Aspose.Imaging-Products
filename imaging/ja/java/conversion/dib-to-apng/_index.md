@@ -75,16 +75,6 @@ DIBをAPNGに変換するには、 [Aspose.Imaging for Java](https://products.as
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="DIBをAPNGに変換します-Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="DIBをAPNGに変換する無料アプリ"
         appName="Conversion"
@@ -96,13 +86,21 @@ DIBをAPNGに変換するには、 [Aspose.Imaging for Java](https://products.as
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ja/conversion/DIB-to-APNG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="DIBをAPNGに変換します-Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | DIB">}}
 DIB（Device Independent Bitmap）ファイルは、標準のビットマップファイル（BMP）と構造が似ていますが、ヘッダーが異なるラスターイメージファイルです。これは、WindowsおよびmacOSで標準のBMPファイルを開くことができるほとんどすべてのアプリケーションで開くことができます。 DIBはバイナリファイルであり、BMPと同様の複雑なファイル形式を持っています。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | APNG">}}
 拡張子が.apng（Animated Portable Network Graphics）のファイルは、ラスターグラフィック形式であり、Portable Network Graphic（PNG）の非公式な拡張子です。アニメーションシーケンスを表す複数のフレーム（各PNG画像）で構成されます。これにより、GIFファイルと同様の視覚化が可能になります。 APNGファイルは24ビット画像と8ビット透明度をサポートしています。 APNGは、アニメーション化されていないGIFファイルと下位互換性があります。 APNGファイルは同じ.png拡張子を使用し、Mozilla Firefox、APNGをサポートするChrome、iOS10用のiMessageアプリなどのアプリケーションで開くことができます。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

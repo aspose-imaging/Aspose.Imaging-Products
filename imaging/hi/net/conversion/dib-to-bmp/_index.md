@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="DIB को BMP में बदलें - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="DIB को BMP में बदलने के लिए नि:शुल्‍क ऐप"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DIB-to-BMP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="DIB को BMP में बदलें - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | DIB">}}
 एक डीआईबी (डिवाइस इंडिपेंडेंट बिटमैप) फ़ाइल एक रास्टर छवि फ़ाइल है जो मानक बिटमैप फ़ाइलों (बीएमपी) की संरचना में समान है लेकिन एक अलग हेडर है। इसे लगभग सभी अनुप्रयोगों के साथ खोला जा सकता है जो विंडोज़ के साथ-साथ मैकोज़ पर एक मानक बीएमपी फ़ाइल खोल सकते हैं। DIB बाइनरी फ़ाइलें हैं और BMP के समान एक जटिल फ़ाइल स्वरूप है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | BMP">}}
 एक्सटेंशन वाली फ़ाइलें .BMP बिटमैप छवि फ़ाइलों का प्रतिनिधित्व करती हैं जिनका उपयोग बिटमैप डिजिटल छवियों को संग्रहीत करने के लिए किया जाता है। ये चित्र ग्राफिक्स एडेप्टर से स्वतंत्र हैं और इन्हें डिवाइस इंडिपेंडेंट बिटमैप (DIB) फ़ाइल स्वरूप भी कहा जाता है। यह स्वतंत्रता माइक्रोसॉफ्ट विंडोज और मैक जैसे कई प्लेटफार्मों पर फ़ाइल खोलने के उद्देश्य से कार्य करती है। बीएमपी फ़ाइल प्रारूप डेटा को दो-आयामी डिजिटल छवियों के रूप में मोनोक्रोम के साथ-साथ विभिन्न रंग गहराई के साथ रंग प्रारूप में संग्रहीत कर सकता है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 

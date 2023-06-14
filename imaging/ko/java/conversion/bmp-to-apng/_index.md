@@ -75,16 +75,6 @@ BMP을 APNG로 변환하려면 다음을 사용합니다. [자바용 Aspose.Imag
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="BMP을 APNG로 변환 - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="BMP을 APNG로 변환하는 무료 앱"
         appName="Conversion"
@@ -96,13 +86,21 @@ BMP을 APNG로 변환하려면 다음을 사용합니다. [자바용 Aspose.Imag
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ko/conversion/BMP-to-APNG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="BMP을 APNG로 변환 - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | BMP">}}
 확장자가 .BMP인 파일은 비트맵 디지털 이미지를 저장하는 데 사용되는 비트맵 이미지 파일을 나타냅니다. 이러한 이미지는 그래픽 어댑터와 무관하며 DIB(장치 독립 비트맵) 파일 형식이라고도 합니다. 이 독립성은 Microsoft Windows 및 Mac과 같은 여러 플랫폼에서 파일을 여는 목적을 제공합니다. BMP 파일 형식은 데이터를 흑백 및 다양한 색상 깊이의 색상 형식으로 2차원 디지털 이미지로 저장할 수 있습니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | APNG">}}
 .apng(Animated Portable Network Graphics) 확장자를 가진 파일은 래스터 그래픽 형식이며 PNG(Portable Network Graphic)의 비공식 확장자입니다. 애니메이션 시퀀스를 나타내는 여러 프레임(각각 PNG 이미지)으로 구성됩니다. 이것은 GIF 파일과 유사한 시각화를 제공합니다. APNG 파일은 24비트 이미지와 8비트 투명도를 지원합니다. APNG는 애니메이션이 아닌 GIF 파일과 역호환됩니다. APNG 파일은 동일한 .png 확장자를 사용하며 Mozilla Firefox, APNG 지원 Chrome, iOS 10용 iMessage 앱과 같은 응용 프로그램에서 열 수 있습니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

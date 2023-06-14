@@ -75,16 +75,6 @@ description: Зразок коду для перетворення PNG у BMP Ja
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити PNG на BMP - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення PNG у BMP"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Зразок коду для перетворення PNG у BMP Ja
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/PNG-to-BMP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити PNG на BMP - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | PNG">}}
 PNG, Portable Network Graphics, відноситься до типу формату растрового зображення, який використовує стиснення без втрат. Цей формат файлу було створено як заміну формату Graphics Interchange Format (GIF) і не має обмежень щодо авторських прав. Однак формат файлу PNG не підтримує анімацію. Формат файлу PNG підтримує стиснення зображень без втрат, що робить його популярним серед користувачів. З плином часу PNG перетворився на один із найбільш використовуваних форматів файлів зображень. Майже всі операційні системи підтримують відкриття файлів PNG. Наприклад, засіб перегляду Microsoft Windows має можливість відкривати файли PNG, оскільки ОС за замовчуванням підтримує підтримку, доступну як частину встановлення.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | BMP">}}
 Файли з розширенням .BMP представляють файли Bitmap Image, які використовуються для зберігання растрових цифрових зображень. Ці зображення не залежать від графічного адаптера, а також називаються форматом файлу растрового зображення, незалежного від пристрою (DIB). Ця незалежність служить для відкриття файлу на кількох платформах, таких як Microsoft Windows і Mac. Формат файлу BMP може зберігати дані як двовимірні цифрові зображення як у монохромному, так і в кольоровому форматі з різною глибиною кольору.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

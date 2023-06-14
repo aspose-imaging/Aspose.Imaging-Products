@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="ODG को JP2 में बदलें - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="ODG को JP2 में बदलने के लिए नि:शुल्‍क ऐप"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/ODG-to-JP2)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="ODG को JP2 में बदलें - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | ODG">}}
 ODG फ़ाइल स्वरूप का उपयोग Apache OpenOffice के Draw एप्लिकेशन द्वारा ड्राइंग तत्वों को वेक्टर छवि के रूप में संग्रहीत करने के लिए किया जाता है। यह एडवांसमेंट ऑफ स्ट्रक्चरल इंफॉर्मेशन स्टैंडर्ड्स (OASIS) द्वारा उल्लिखित XML आधारित फाइल फॉर्मेट विनिर्देशों का अनुसरण करता है। ODG बिंदुओं, रेखाओं और वक्रों का उपयोग करके सदिश छवियों के रूप में आरेखण का प्रतिनिधित्व करता है। ओपनऑफिस के अलावा, लिब्रे ऑफिस और अन्य एप्लिकेशन भी ओडीजी फाइल फॉर्मेट के साथ काम करने के लिए सहायता प्रदान करते हैं। ओपनऑफिस द्वारा समर्थित अन्य प्रारूप, उदाहरण के लिए, ओडीटी, ओडीएफ, ओडीपी और ओडीएस शामिल हैं।
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | JP2">}}
 JPEG 2000 (JP2) एक छवि कोडिंग प्रणाली और अत्याधुनिक छवि संपीड़न मानक है। वेवलेट तकनीक का उपयोग करके डिज़ाइन किया गया JPEG 2000 दोषरहित सामग्री को किसी भी गुणवत्ता में एक ही बार में कोडित कर सकता है। इसके अलावा, कोडिंग दक्षता में किसी भी पर्याप्त दंड के बिना, जेपीईजी 2000 में एक ही सामग्री को विभिन्न अन्य प्रस्तावों और गुणों में प्रभावशाली ढंग से एक्सेस और डीकोड करने की क्षमता है। JPEG 2000 में कोड स्ट्रीम काफी स्केलेबल है जिसमें रुचि के क्षेत्र हैं जो स्थानिक यादृच्छिक अभिगम की सुविधा प्रदान करते हैं। टेरापिक्सल में आयामों के साथ 16384 विविध घटकों तक, और सटीकता जो 38 बिट्स/नमूना के रूप में उच्च हो सकती है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 

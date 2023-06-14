@@ -76,16 +76,6 @@ description: PNG 到 WMZ Java 转换的示例代码。在任何基于 Web 或桌
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="将 PNG 转换为 WMZ - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="将 PNG 转换为 WMZ 的免费应用程序"
         appName="Conversion"
@@ -97,13 +87,21 @@ description: PNG 到 WMZ Java 转换的示例代码。在任何基于 Web 或桌
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hans/conversion/PNG-to-WMZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="将 PNG 转换为 WMZ - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | PNG">}}
 PNG，便携式网络图形，是指一种使用无损压缩的光栅图像文件格式。此文件格式是作为图形交换格式 (GIF) 的替代品而创建的，没有版权限制。但是，PNG 文件格式不支持动画。 PNG文件格式支持无损图像压缩，使其在用户中很受欢迎。随着时间的推移，PNG 已经发展成为最常用的图像文件格式之一。几乎所有操作系统都支持打开 PNG 文件。例如，Microsoft Windows 查看器能够打开 PNG 文件，因为操作系统默认支持作为安装的一部分。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | WMZ">}}
 WMZ 是 Windows Media Player 中/用于/使用的皮肤文件格式的文件扩展名。 WMZ 文件基本上是 XML 格式的压缩 WMF 文件。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

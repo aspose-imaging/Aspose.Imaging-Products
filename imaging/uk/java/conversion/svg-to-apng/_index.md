@@ -75,16 +75,6 @@ description: Зразок коду для перетворення SVG у APNG J
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити SVG на APNG - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення SVG у APNG"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Зразок коду для перетворення SVG у APNG J
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/SVG-to-APNG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити SVG на APNG - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | SVG">}}
 Файли SVG — це файли масштабованої векторної графіки, які використовують текстовий формат на основі XML для опису зовнішнього вигляду зображення. Слово «масштабований» означає, що SVG можна масштабувати до різних розмірів без втрати якості. Текстовий опис таких файлів робить їх незалежними від роздільної здатності. Це один із найбільш використовуваних форматів для створення веб-сайтів і друку графіки з метою досягнення масштабованості. Формат можна використовувати лише для двовимірної графіки. Файли SVG можна переглядати/відкривати майже в усіх сучасних браузерах, включаючи Chrome, Internet Explorer, Firefox і Safari.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | APNG">}}
 Файл із розширенням .apng (Animated Portable Network Graphic) — це растровий графічний формат і є неофіційним розширенням Portable Network Graphic (PNG). Він складається з кількох кадрів (кожен із зображень PNG), які представляють послідовність анімації. Це дає візуалізацію, подібну до файлу GIF. Файли APNG підтримують 24-бітні зображення та 8-бітну прозорість. APNG має зворотну сумісність із файлами GIF без анімації. Файли APNG використовують те саме розширення .png і можуть відкриватися такими програмами, як Mozilla Firefox, Chrome із підтримкою APNG, програмами iMessage для iOS 10.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

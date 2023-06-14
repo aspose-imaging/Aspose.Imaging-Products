@@ -75,16 +75,6 @@ description: GIF 到 CANVAS Java 轉換的示例代碼。使用 API 示例代碼
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="將 GIF 轉換為 CANVAS - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="將 GIF 轉換為 CANVAS 的免費應用程序"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: GIF 到 CANVAS Java 轉換的示例代碼。使用 API 示例代碼
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hant/conversion/GIF-to-CANVAS)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="將 GIF 轉換為 CANVAS - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | GIF">}}
 GIF 或圖形交換格式是一種高度壓縮的圖像。 GIF 由 Unisys 擁有，使用不會降低圖像質量的 LZW 壓縮算法。對於每個圖像，GIF 通常允許每個像素最多 8 位，並且整個圖像最多允許 256 種顏色。與 JPEG 圖像相比，JPEG 圖像可以顯示多達 1600 萬種顏色，並且相當接近人眼的極限。早在互聯網出現時，GIF 仍然是最佳選擇，因為它們需要低帶寬並且與消耗純色區域的圖形兼容。動畫 GIF 將大量圖像或幀組合到一個文件中，並按順序顯示它們以生成動畫剪輯或短視頻。每幀的顏色限制最多為 256 種，並且可能最不適合再現具有顏色漸變的其他圖像和照片。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CANVAS" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CANVAS" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | CANVAS">}}
 HTML（超文本標記語言）是為在瀏覽器中顯示而創建的網頁的擴展。 HTML被稱為網絡語言，隨著新信息要求的要求而發展，要求將其顯示為網頁的一部分。最新的變體被稱為 HTML 5，它為使用該語言提供了很大的靈活性。 HTML 頁面要么從託管這些頁面的服務器接收，要么也可以從本地系統加載。每個 HTML 頁面都由 HTML 元素組成，例如表單、文本、圖像、動畫、鏈接等。這些元素由諸如 img、a、p 和其他幾個標籤表示，其中每個標籤都有開始和結束。它還可以嵌入以 JavaScript 和样式表 (CSS) 等腳本語言編寫的應用程序，以實現整體佈局表示。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

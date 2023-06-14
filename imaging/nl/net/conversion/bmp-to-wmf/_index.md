@@ -62,16 +62,6 @@ Voordat u de conversievoorbeeldcode uitvoert, moet u ervoor zorgen dat u aan de 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Converteer BMP naar WMF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Gratis app om BMP naar WMF te converteren"
         appName="Conversion"
@@ -83,13 +73,21 @@ Voordat u de conversievoorbeeldcode uitvoert, moet u ervoor zorgen dat u aan de 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/nl/conversion/BMP-to-WMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Converteer BMP naar WMF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder | BMP">}}
 Bestanden met de extensie .BMP vertegenwoordigen Bitmap Image-bestanden die worden gebruikt om digitale bitmapafbeeldingen op te slaan. Deze afbeeldingen zijn onafhankelijk van de grafische adapter en worden ook wel apparaatonafhankelijke bitmap (DIB)-bestandsindeling genoemd. Deze onafhankelijkheid dient om het bestand op meerdere platforms te openen, zoals Microsoft Windows en Mac. Het BMP-bestandsformaat kan gegevens opslaan als tweedimensionale digitale afbeeldingen in zowel zwart-wit als kleurformaat met verschillende kleurdiepten.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder | WMF">}}
 Bestanden met de WMF-extensie vertegenwoordigen Microsoft Windows Metafile (WMF) voor het opslaan van zowel vector- als bitmap-afbeeldingsgegevens. Om nauwkeuriger te zijn, WMF behoort tot de vectorbestandsindelingscategorie van Grafische bestandsindelingen die apparaatonafhankelijk is. Windows Graphical Device Interface (GDI) gebruikt de functies die zijn opgeslagen in een WMF-bestand om een ​​afbeelding op het scherm weer te geven. Een meer verbeterde versie van WMF, bekend als Enhanced Meta Files (EMF), werd later gepubliceerd, waardoor het formaat meer functies heeft. In de praktijk is WMF vergelijkbaar met SVG.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

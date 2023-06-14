@@ -75,16 +75,6 @@ Antes de executar o código de exemplo de conversão, verifique se você tem os 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Converter {Formato1} para {Formato2} - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Aplicativo gratuito para converter SVGZ para CANVAS"
         appName="Conversion"
@@ -96,13 +86,21 @@ Antes de executar o código de exemplo de conversão, verifique se você tem os 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/pt/conversion/SVGZ-to-CANVAS)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Converter {Formato1} para {Formato2} - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação | SVGZ">}}
 Um arquivo com extensão .svgz é uma versão compactada do arquivo Scalable Vector Graphics (.SVG). Ele é compactado com compactação gzip e contém dados em formato XML. Os arquivos SVGZ suportam transparência, gradientes, animações e filtros. Os arquivos SVGZ são menores em tamanho em comparação com os arquivos SVG padrão e esse tamanho de arquivo reduzido ajuda a transferir os arquivos gráficos online. O designer gráfico cria arquivos SVGZ usando ferramentas como Adobe Illustrator, Corel PaintShop Pro e outras. No entanto, os arquivos SVGZ podem ser gerados ativando a compactação GZip no Apache Server ao enviar os dados da imagem.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CANVAS" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CANVAS" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação | CANVAS">}}
 HTML (Hyper Text Markup Language) é a extensão para páginas da web criadas para exibição em navegadores. Conhecido como linguagem da web, o HTML evoluiu com novas exigências de informações para serem exibidas como parte das páginas da web. A última variante é conhecida como HTML 5, que oferece muita flexibilidade para trabalhar com a linguagem. As páginas HTML são recebidas do servidor, onde estão hospedadas, ou também podem ser carregadas do sistema local. Cada página HTML é composta por elementos HTML como formulários, texto, imagens, animações, links, etc. Esses elementos são representados por tags como img, a, pe várias outras onde cada tag tem início e fim. Ele também pode incorporar aplicativos escritos em linguagens de script, como JavaScript e Folhas de Estilo (CSS) para representação geral do layout.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

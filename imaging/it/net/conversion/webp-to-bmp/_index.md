@@ -64,16 +64,6 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Converti WEBP in BMP - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="App gratuita per convertire WEBP in BMP"
         appName="Conversion"
@@ -85,13 +75,21 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/it/conversion/WEBP-to-BMP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Converti WEBP in BMP - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più | WEBP">}}
 WebP, introdotto da Google, è un moderno formato di file di immagini web raster basato sulla compressione lossless e lossy. Fornisce la stessa qualità dell'immagine riducendo notevolmente le dimensioni dell'immagine. Poiché la maggior parte delle pagine Web utilizza le immagini come rappresentazione efficace dei dati, l'utilizzo di immagini WebP nelle pagine Web determina un caricamento più rapido delle pagine Web. Secondo Google, le immagini con perdita di dati WebP sono di dimensioni inferiori del 26% rispetto ai PNG, mentre le immagini con perdita di dati WebP sono più piccole del 25-34% rispetto alle immagini JPEG comparabili. Le immagini vengono confrontate in base all'indice di somiglianza strutturale (SSIM) tra WebP e altri formati di file immagine. WebP è un progetto gemello del formato contenitore multimediale WebM.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più | BMP">}}
 I file con estensione .BMP rappresentano file di immagine bitmap che vengono utilizzati per memorizzare immagini digitali bitmap. Queste immagini sono indipendenti dalla scheda grafica e sono anche chiamate formato file DIB (Device Independent Bitmap). Questa indipendenza serve allo scopo di aprire il file su più piattaforme come Microsoft Windows e Mac. Il formato file BMP può memorizzare dati come immagini digitali bidimensionali sia in formato monocromatico che a colori con varie profondità di colore.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

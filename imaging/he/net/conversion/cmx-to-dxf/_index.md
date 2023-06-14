@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="המר את CMX ל-DXF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="אפליקציה חינמית להמרת CMX ל-DXF"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/CMX-to-DXF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="המר את CMX ל-DXF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | CMX">}}
 קבצים עם סיומת CMX הם פורמט קובץ תמונה של Corel Exchange המשמש כמצגת על ידי יישומי CorelSuite. הוא מכיל נתוני תמונה כגרפיקה וקטורית וכן מטא נתונים המתארים את התמונה. ניתן לפתוח קבצי CMX על ידי CorelDraw, Corel Presentations, Paint Shop Pro וגרסאות מסוימות של Adobe Illustrator.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | DXF">}}
 DXF, Drawing Interchange Format, או Drawing Exchange Format, הוא ייצוג נתונים מתויג של קובץ ציור AutoCAD. לכל רכיב בקובץ יש קידומת מספר שלם הנקרא קוד קבוצה. קוד קבוצה זה מייצג למעשה את האלמנט שאחריו ומציין את המשמעות של אלמנט נתונים עבור סוג אובייקט נתון. DXF מאפשר לייצג כמעט את כל המידע שצוין על ידי המשתמש בקובץ ציור.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

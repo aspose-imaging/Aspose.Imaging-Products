@@ -64,16 +64,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Преобразование SVGZ в BMP - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Бесплатное приложение для конвертации SVGZ в BMP"
         appName="Conversion"
@@ -85,13 +75,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ru/conversion/SVGZ-to-BMP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Преобразование SVGZ в BMP - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее | SVGZ">}}
 Файл с расширением .svgz представляет собой сжатую версию файла масштабируемой векторной графики (.SVG). Он сжат сжатием gzip и содержит данные в формате XML. Файлы SVGZ поддерживают прозрачность, градиенты, анимацию и фильтры. Файлы SVGZ меньше по размеру по сравнению с файлами SVG по умолчанию, и этот уменьшенный размер файла помогает передавать графические файлы онлайн. Графический дизайнер создает файлы SVGZ с помощью таких инструментов, как Adobe Illustrator, Corel PaintShop Pro и других. Однако файлы SVGZ можно создавать, включив сжатие GZip на сервере Apache при отправке данных изображения.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее | BMP">}}
 Файлы с расширением .BMP представляют файлы растровых изображений, которые используются для хранения растровых цифровых изображений. Эти изображения не зависят от графического адаптера и также называются форматом файла независимого от устройства растрового изображения (DIB). Эта независимость служит цели открытия файла на нескольких платформах, таких как Microsoft Windows и Mac. Формат файла BMP может хранить данные в виде двумерных цифровых изображений как в монохромном, так и в цветном формате с различной глубиной цвета.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

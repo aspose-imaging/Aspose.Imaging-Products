@@ -76,16 +76,6 @@ description: DICOM 到 ICO Java 转换的示例代码。在任何基于 Web 或�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="将 DICOM 转换为 ICO - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="将 DICOM 转换为 ICO 的免费应用程序"
         appName="Conversion"
@@ -97,13 +87,21 @@ description: DICOM 到 ICO Java 转换的示例代码。在任何基于 Web 或�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hans/conversion/DICOM-to-ICO)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="将 DICOM 转换为 ICO - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | DICOM">}}
 DICOM 是 Digital Imaging and Communications in Medicine 的首字母缩写词，属于医学信息学领域。 DICOM 是文件格式定义和网络通信协议的结合。 DICOM 使用 .DCM 扩展名。 .DCM 以两种不同的格式存在，即格式 1.x 和格式 2.x。 DCM Format 1.x 还提供了两个普通版本和扩展版本。 DICOM 用于集成来自不同供应商的打印机、服务器、扫描仪等医疗成像设备，还包含每个患者的唯一识别数据。如果 DICOM 文件能够接收 DICOM 格式的图像数据，则它们可以在两方之间共享。 DICOM的通信部分是应用层协议，实体之间使用TCP/IP进行通信。 HTTP 和 HTTPS 协议用于 DICOM 的 Web 服务。 Web 服务支持的版本是 1.0、1.1、2 或更高版本。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | ICO">}}
 ICO 文件格式是 Microsoft Windows 中计算机图标的图像文件格式。 ICO 文件包含一个或多个具有多种尺寸和颜色深度的小图像，以便它们可以适当地缩放。在 Windows 中，在桌面、开始菜单或 Windows 资源管理器中向用户显示图标的所有可执行文件都必须带有 ICO 格式的图标。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

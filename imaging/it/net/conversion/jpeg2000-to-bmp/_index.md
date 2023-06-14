@@ -64,16 +64,6 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Converti JPEG2000 in BMP - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="App gratuita per convertire JPEG2000 in BMP"
         appName="Conversion"
@@ -85,13 +75,21 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/it/conversion/JPEG2000-to-BMP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Converti JPEG2000 in BMP - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più | JPEG2000">}}
 JPEG 2000 (JP2) è un sistema di codifica delle immagini e uno standard di compressione delle immagini all'avanguardia. Progettato, utilizzando la tecnologia wavelet, JPEG 2000 può codificare contenuti senza perdita di qualità in qualsiasi qualità contemporaneamente. Inoltre, senza alcuna penalizzazione sostanziale nell'efficienza della codifica, JPEG 2000 ha la capacità di accedere e decodificare efficacemente lo stesso contenuto in una varietà di altre risoluzioni e qualità. I flussi di codice in JPEG 2000 sono significativamente scalabili con regioni di interesse che forniscono la struttura per l'accesso casuale spaziale. Possedendo fino a 16384 diversi componenti con le dimensioni in terapixel e una precisione che può arrivare fino a 38 bit/campione.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più | BMP">}}
 I file con estensione .BMP rappresentano file di immagine bitmap che vengono utilizzati per memorizzare immagini digitali bitmap. Queste immagini sono indipendenti dalla scheda grafica e sono anche chiamate formato file DIB (Device Independent Bitmap). Questa indipendenza serve allo scopo di aprire il file su più piattaforme come Microsoft Windows e Mac. Il formato file BMP può memorizzare dati come immagini digitali bidimensionali sia in formato monocromatico che a colori con varie profondità di colore.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

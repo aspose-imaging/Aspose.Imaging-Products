@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="המר את PNG ל-TGA - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="אפליקציה חינמית להמרת PNG ל-TGA"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/PNG-to-TGA)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="המר את PNG ל-TGA - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | PNG">}}
 PNG, Portable Network Graphics, מתייחס לסוג של פורמט קובץ תמונת רסטר המשתמש בדחיסה ללא הפסדים. פורמט קובץ זה נוצר כתחליף ל-Graphics Interchange Format (GIF) ואין לו מגבלות זכויות יוצרים. עם זאת, פורמט קובץ PNG אינו תומך בהנפשות. פורמט קובץ PNG תומך בדחיסת תמונה ללא הפסדים שהופך אותו לפופולרי בקרב המשתמשים שלו. עם חלוף הזמן, PNG התפתח כאחד מפורמטי קבצי התמונה הנפוצים ביותר. כמעט לכל מערכות ההפעלה יש תמיכה בפתיחת קבצי PNG. לדוגמה, ל-Microsoft Windows Viewer יש את היכולת לפתוח קבצי PNG מכיוון שלמערכת ההפעלה יש כברירת מחדל את התמיכה הזמינה כחלק מההתקנה.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | TGA">}}
 Truevision TGA, המכונה לעתים קרובות TARGA, הוא פורמט קובץ גרפי רסטר שנוצר על ידי Truevision Inc. (כיום חלק מ-Avid Technology). זה היה הפורמט המקורי של לוחות TARGA ו-VISTA, שהיו הכרטיסים הגרפיים הראשונים למחשבים תואמי IBM שתמכו בתצוגה Highcolor/Truecolor.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

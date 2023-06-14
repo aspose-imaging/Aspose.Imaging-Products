@@ -62,16 +62,6 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertuoti JPEG2000 į TGA – .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Nemokama programa konvertuoti JPEG2000 į TGA"
         appName="Conversion"
@@ -83,13 +73,21 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/lt/conversion/JPEG2000-to-TGA)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertuoti JPEG2000 į TGA – .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau | JPEG2000">}}
 JPEG 2000 (JP2) yra vaizdo kodavimo sistema ir pažangiausias vaizdo glaudinimo standartas. Sukurtas, naudojant banglečių technologiją, JPEG 2000 gali iš karto užkoduoti bet kokios kokybės turinį be nuostolių. Be to, be jokios didelės nuobaudos dėl kodavimo efektyvumo, JPEG 2000 turi galimybę pasiekti ir efektyviai iššifruoti tą patį turinį į daugybę kitų skiriamųjų gebų ir savybių. JPEG 2000 kodo srautai yra labai keičiami, nes yra dominančių regionų, kurie suteikia galimybę atsitiktinei erdvinei prieigai. Turi iki 16384 įvairių komponentų, kurių matmenys yra terapikseliais, o tikslumas gali siekti 38 bitus/pavyzdį.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau | TGA">}}
 Truevision TGA, dažnai vadinamas TARGA, yra rastrinės grafikos failo formatas, sukurtas Truevision Inc. (dabar Avid Technology dalis). Tai buvo vietinis TARGA ir VISTA plokščių formatas, kurios buvo pirmosios su IBM suderinamų kompiuterių grafinės plokštės, palaikančios Highcolor/truecolor ekraną.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

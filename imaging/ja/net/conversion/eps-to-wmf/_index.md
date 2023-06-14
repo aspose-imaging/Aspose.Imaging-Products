@@ -62,16 +62,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="EPSをWMFに変換します-.NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="EPSをWMFに変換する無料アプリ"
         appName="Conversion"
@@ -83,13 +73,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ja/conversion/EPS-to-WMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="EPSをWMFに変換します-.NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | EPS">}}
 EPS拡張子の付いたファイルは、基本的に、単一ページの外観を記述するEncapsulatedPostScript言語プログラムを記述します。 「カプセル化」という名前は、別のPostScript言語ページの説明に含めるかカプセル化できるためです。このスクリプトベースのファイル形式には、テキスト、グラフィックス、および画像の任意の組み合わせを含めることができます。 EPSファイルには、そのようなファイルを開くことができるアプリケーションによる表示のために、内部にカプセル化されたビットマッププレビュー画像が含まれる場合があります。 EPSファイルは、さまざまなアプリケーションを使用して、JPG、PNG、TIFF、PDFなどの標準の画像形式に変換できます。 Adobe Illustrator、Photoshop、PaintShopPro。 EPSファイルのセキュリティの脆弱性のため、Office 2016、Office 2013、Office 2010、およびOffice 365は、EPSファイルをOfficeドキュメントに挿入する機能をオフにしました。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | WMF">}}
 WMF拡張子の付いたファイルは、ベクターおよびビットマップ形式の画像データを格納するためのMicrosoft Windowsメタファイル（WMF）を表します。より正確に言うと、WMFは、デバイスに依存しないグラフィックファイル形式のベクターファイル形式カテゴリに属しています。 Windowsグラフィックデバイスインターフェイス（GDI）は、WMFファイルに格納されている関数を使用して、画面に画像を表示します。拡張メタファイル（EMF）として知られるWMFのより拡張されたバージョンは、フォーマットをより豊富な機能にするために後で公開されました。実際には、WMFはSVGに似ています。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

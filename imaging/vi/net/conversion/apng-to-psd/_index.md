@@ -62,16 +62,6 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Chuyển đổi APNG thành PSD - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Ứng dụng miễn phí để chuyển đổi APNG thành PSD"
         appName="Conversion"
@@ -83,13 +73,21 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/vi/conversion/APNG-to-PSD)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Chuyển đổi APNG thành PSD - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm | APNG">}}
 Tệp có phần mở rộng .apng (Animated Portable Network Graphics) là định dạng đồ họa raster và là phần mở rộng không chính thức của Đồ họa Mạng Di động (PNG). Nó bao gồm nhiều khung hình (mỗi hình ảnh PNG) đại diện cho một chuỗi hoạt ảnh. Điều này mang lại hình ảnh tương tự như một tệp GIF. Các tệp APNG hỗ trợ hình ảnh 24 bit và độ trong suốt 8 bit. APNG tương thích ngược với các tệp GIF không động. Các tệp APNG sử dụng cùng một phần mở rộng .png và có thể được mở bằng các ứng dụng như Mozilla Firefox, Chrome có hỗ trợ APNG, ứng dụng iMessage dành cho iOS 10.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm | PSD">}}
 PSD, Tài liệu Photoshop, đại diện cho định dạng tệp gốc của Adobe Photoshop được sử dụng để thiết kế và phát triển đồ họa. Tệp PSD có thể bao gồm các lớp hình ảnh, lớp điều chỉnh, mặt nạ lớp, chú thích, thông tin tệp, từ khóa và các yếu tố cụ thể khác của Photoshop.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

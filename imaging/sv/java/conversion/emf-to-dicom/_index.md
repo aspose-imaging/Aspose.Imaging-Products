@@ -75,16 +75,6 @@ Innan du kör koden för konverteringsexempel, se till att du har följande för
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertera EMF till DICOM - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Gratis app för att konvertera EMF till DICOM"
         appName="Conversion"
@@ -96,13 +86,21 @@ Innan du kör koden för konverteringsexempel, se till att du har följande för
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/EMF-to-DICOM)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertera EMF till DICOM - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer | EMF">}}
 Enhanced metafile format (EMF) lagrar grafiska bilder enhetsoberoende. Metafiler av EMF består av poster med variabel längd i kronologisk ordning som kan återge den lagrade bilden efter analys på valfri utenhet. Dessa poster med variabel längd kan vara definitioner av inneslutna objekt, kommandon för ritning och grafikegenskaper som är viktiga för att återge bilden korrekt. När en enhet öppnar en EMF-metafil med sin egen grafikmiljö förblir proportionerna, dimensionerna, färgerna och andra grafiska egenskaper för originalbilden desamma oavsett vilken enhetsplattform som öppnas.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer | DICOM">}}
 DICOM är akronymen för Digital Imaging and Communications in Medicine och hänför sig till området medicinsk informatik. DICOM är kombinationen av filformatsdefinition och ett nätverkskommunikationsprotokoll. DICOM använder tillägget .DCM. .DCM finns i två olika format, dvs format 1.x och format 2.x. DCM Format 1.x finns dessutom i två versioner normal och utökad. DICOM används för integrering av medicinska bildbehandlingsenheter som skrivare, servrar, skannrar etc från olika leverantörer och innehåller även identifieringsdata för varje patient för att vara unik. DICOM-filer kan delas mellan två parter om de kan ta emot bilddata i DICOM-format. Kommunikationsdelen av DICOM är applikationslagerprotokoll och använder TCP/IP för att kommunicera mellan enheter. HTTP- och HTTPS-protokollen används för DICOMs webbtjänster. Versioner som stöds av webbtjänster är 1.0, 1.1, 2 eller senare.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

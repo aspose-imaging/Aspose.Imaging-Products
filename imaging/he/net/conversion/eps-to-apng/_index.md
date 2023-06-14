@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="המר את EPS ל-APNG - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="אפליקציה חינמית להמרת EPS ל-APNG"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/EPS-to-APNG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="המר את EPS ל-APNG - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | EPS">}}
 קבצים עם סיומת EPS מתארים בעצם תוכנית שפת Encapsulated PostScript שמתארת ​​את המראה של עמוד בודד. השם "Encapsulated" מכיוון שניתן לכלול אותו או לכלול אותו בתיאור עמוד אחר בשפת PostScript. פורמט קובץ זה מבוסס סקריפט עשוי להכיל כל שילוב של טקסט, גרפיקה ותמונות. קובצי EPS עשויים לכלול תמונת תצוגה מקדימה של מפת סיביות מכוסה בפנים לתצוגה על ידי יישומים שיכולים לפתוח קבצים כאלה. ניתן להמיר קבצי EPS לפורמטים סטנדרטיים של תמונה כגון JPG, PNG, TIFF ו-PDF באמצעות יישומים שונים, למשל. Adobe Illustrator, Photoshop ו-PaintShop Pro. בגלל פגיעות אבטחה בקובצי EPS, Office 2016, Office 2013, Office 2010 ו-Office 365 ביטלו את היכולת להכניס קובצי EPS למסמכי Office.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | APNG">}}
 קובץ עם סיומת .apng (Animated Portable Network Graphics) הוא פורמט גרפי רסטר והוא הרחבה לא רשמית ל-Portable Network Graphic (PNG). הוא מורכב ממספר פריימים (כל אחת מתמונת PNG) המייצגת רצף אנימציה. זה נותן הדמיה דומה לקובץ GIF. קובצי APNG תומכים בתמונות של 24 סיביות ושקיפות של 8 סיביות. APNG תואם לאחור עם קבצי GIF שאינם מונפשים. קובצי APNG משתמשים באותה סיומת .png וניתן לפתוח אותם על ידי יישומים כגון Mozilla Firefox, Chrome עם תמיכה בAPNG, אפליקציות iMessage עבור iOS 10.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

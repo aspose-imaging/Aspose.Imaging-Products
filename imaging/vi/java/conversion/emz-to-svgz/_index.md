@@ -75,16 +75,6 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Chuyển đổi EMZ thành SVGZ - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Ứng dụng miễn phí để chuyển đổi EMZ thành SVGZ"
         appName="Conversion"
@@ -96,13 +86,21 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/vi/conversion/EMZ-to-SVGZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Chuyển đổi EMZ thành SVGZ - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm | EMZ">}}
 Tệp có phần mở rộng tệp EMZ là tệp hình ảnh nén, được gọi cụ thể hơn là tệp Siêu tệp tin nâng cao được nén trong Windows
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm | SVGZ">}}
 Tệp có phần mở rộng .svgz là phiên bản nén của tệp Đồ họa Vectơ có thể mở rộng (.SVG). Nó được nén bằng nén gzip và chứa dữ liệu ở định dạng XML. Các tệp SVGZ hỗ trợ độ trong suốt, độ dốc, hoạt ảnh và bộ lọc. Các tệp SVGZ có kích thước nhỏ hơn so với các tệp SVG mặc định và kích thước tệp giảm này giúp chuyển các tệp đồ họa trực tuyến. Nhà thiết kế đồ họa tạo các tệp SVGZ bằng các công cụ như Adobe Illustrator, Corel PaintShop Pro và các công cụ khác. Tuy nhiên, tệp SVGZ có thể được tạo bằng cách bật tính năng nén GZip trong Máy chủ Apache trong khi gửi dữ liệu hình ảnh.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

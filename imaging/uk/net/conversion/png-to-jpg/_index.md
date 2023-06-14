@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити PNG на JPG - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення PNG у JPG"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/PNG-to-JPG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити PNG на JPG - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | PNG">}}
 PNG, Portable Network Graphics, відноситься до типу формату растрового зображення, який використовує стиснення без втрат. Цей формат файлу було створено як заміну формату Graphics Interchange Format (GIF) і не має обмежень щодо авторських прав. Однак формат файлу PNG не підтримує анімацію. Формат файлу PNG підтримує стиснення зображень без втрат, що робить його популярним серед користувачів. З плином часу PNG перетворився на один із найбільш використовуваних форматів файлів зображень. Майже всі операційні системи підтримують відкриття файлів PNG. Наприклад, засіб перегляду Microsoft Windows має можливість відкривати файли PNG, оскільки ОС за замовчуванням підтримує підтримку, доступну як частину встановлення.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | JPG">}}
 JPEG — це тип формату зображення, який зберігається за допомогою методу стиснення з втратами. Вихідне зображення, як результат стиснення, є компромісом між розміром пам’яті та якістю зображення. Користувачі можуть регулювати рівень стиснення, щоб досягти бажаного рівня якості, одночасно зменшуючи розмір пам’яті. Якщо до зображення застосувати стиснення 10:1, на якість зображення вплине незначно. Чим вище значення стиснення, тим більше погіршується якість зображення.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

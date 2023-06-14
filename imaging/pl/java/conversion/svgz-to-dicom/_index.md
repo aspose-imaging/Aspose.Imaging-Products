@@ -75,16 +75,6 @@ Przed uruchomieniem przykładowego kodu konwersji upewnij się, że masz następ
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konwertuj SVGZ na DICOM - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Darmowa aplikacja do konwersji SVGZ na DICOM"
         appName="Conversion"
@@ -96,13 +86,21 @@ Przed uruchomieniem przykładowego kodu konwersji upewnij się, że masz następ
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/pl/conversion/SVGZ-to-DICOM)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konwertuj SVGZ na DICOM - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej | SVGZ">}}
 Plik z rozszerzeniem .svgz to skompresowana wersja pliku Scalable Vector Graphics (.SVG). Jest skompresowany za pomocą kompresji gzip i zawiera dane w formacie XML. Pliki SVGZ obsługują przezroczystość, gradienty, animacje i filtry. Pliki SVGZ mają mniejszy rozmiar w porównaniu z domyślnymi plikami SVG, a ten zmniejszony rozmiar pliku pomaga przesyłać pliki graficzne online. Projektant graficzny tworzy pliki SVGZ za pomocą narzędzi takich jak Adobe Illustrator, Corel PaintShop Pro i innych. Jednak pliki SVGZ można generować, włączając kompresję GZip na serwerze Apache podczas wysyłania danych obrazu.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej | DICOM">}}
 DICOM to skrót od Digital Imaging and Communications in Medicine i odnosi się do dziedziny informatyki medycznej. DICOM to połączenie definicji formatu pliku i protokołu komunikacji sieciowej. DICOM używa rozszerzenia .DCM. .DCM istnieje w dwóch różnych formatach, tj. formacie 1.xi 2.x. DCM Format 1.x jest ponadto dostępny w dwóch wersjach: normalnej i rozszerzonej. DICOM służy do integracji urządzeń do obrazowania medycznego, takich jak drukarki, serwery, skanery itp. od różnych dostawców, a także zawiera dane identyfikacyjne każdego pacjenta w celu uzyskania niepowtarzalności. Pliki DICOM mogą być udostępniane między dwiema stronami, jeśli są one w stanie odbierać dane obrazu w formacie DICOM. Część komunikacyjna DICOM jest protokołem warstwy aplikacji i wykorzystuje TCP/IP do komunikacji między podmiotami. Protokoły HTTP i HTTPS są używane w usługach internetowych DICOM. Wersje obsługiwane przez usługi sieciowe to 1.0, 1.1, 2 lub nowsze.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

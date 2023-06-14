@@ -75,16 +75,6 @@ description: GIF 到 WEBP Java 轉換的示例代碼。使用 API 示例代碼�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="將 GIF 轉換為 WEBP - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="將 GIF 轉換為 WEBP 的免費應用程序"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: GIF 到 WEBP Java 轉換的示例代碼。使用 API 示例代碼�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hant/conversion/GIF-to-WEBP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="將 GIF 轉換為 WEBP - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | GIF">}}
 GIF 或圖形交換格式是一種高度壓縮的圖像。 GIF 由 Unisys 擁有，使用不會降低圖像質量的 LZW 壓縮算法。對於每個圖像，GIF 通常允許每個像素最多 8 位，並且整個圖像最多允許 256 種顏色。與 JPEG 圖像相比，JPEG 圖像可以顯示多達 1600 萬種顏色，並且相當接近人眼的極限。早在互聯網出現時，GIF 仍然是最佳選擇，因為它們需要低帶寬並且與消耗純色區域的圖形兼容。動畫 GIF 將大量圖像或幀組合到一個文件中，並按順序顯示它們以生成動畫剪輯或短視頻。每幀的顏色限制最多為 256 種，並且可能最不適合再現具有顏色漸變的其他圖像和照片。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | WEBP">}}
 WebP 是 Google 推出的一種現代光柵 Web 圖像文件格式，它基於無損和有損壓縮。它提供相同的圖像質量，同時大大減小了圖像尺寸。由於大多數網頁使用圖像作為數據的有效表示，因此在網頁中使用 WebP 圖像會導致網頁加載速度更快。根據谷歌的說法，WebP 無損圖像的大小比 PNG 小 26%，而 WebP 有損圖像比同類 JPEG 圖像小 25-34%。基於 WebP 和其他圖像文件格式之間的結構相似性 (SSIM) 索引比較圖像。 WebP 是 WebM 多媒體容器格式的姊妹項目。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

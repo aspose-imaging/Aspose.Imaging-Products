@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="OTG को DXF में बदलें - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="OTG को DXF में बदलने के लिए नि:शुल्‍क ऐप"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/OTG-to-DXF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="OTG को DXF में बदलें - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | OTG">}}
 OTG फाइल एक ड्राइंग टेम्प्लेट है जो OASIS ऑफिस एप्लिकेशन 1.0 विनिर्देश का पालन करने वाले OpenDocument मानक का उपयोग करके बनाया गया है। यह एक वेक्टर छवि के लिए ड्राइंग तत्वों के डिफ़ॉल्ट संगठन का प्रतिनिधित्व करता है जिसका उपयोग फ़ाइल की सामग्री को और बढ़ाने के लिए किया जा सकता है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | DXF">}}
 डीएक्सएफ, ड्रॉइंग इंटरचेंज फॉर्मेट या ड्रॉइंग एक्सचेंज फॉर्मेट, ऑटोकैड ड्राइंग फाइल का एक टैग किया गया डेटा प्रतिनिधित्व है। फ़ाइल में प्रत्येक तत्व में एक उपसर्ग पूर्णांक संख्या होती है जिसे समूह कोड कहा जाता है। यह समूह कोड वास्तव में उस तत्व का प्रतिनिधित्व करता है जो किसी दिए गए ऑब्जेक्ट प्रकार के लिए डेटा तत्व के अर्थ का अनुसरण करता है और इंगित करता है। डीएक्सएफ ड्राइंग फ़ाइल में लगभग सभी उपयोगकर्ता-निर्दिष्ट जानकारी का प्रतिनिधित्व करना संभव बनाता है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 

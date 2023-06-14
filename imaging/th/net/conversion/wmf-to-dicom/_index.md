@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="แปลง WMF เป็น DICOM - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="แอปฟรีเพื่อแปลง WMF เป็น DICOM"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/WMF-to-DICOM)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="แปลง WMF เป็น DICOM - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | WMF">}}
 ไฟล์ที่มีนามสกุล WMF แสดงถึง Microsoft Windows Metafile (WMF) สำหรับการจัดเก็บข้อมูลเวกเตอร์และรูปแบบบิตแมป เพื่อให้แม่นยำยิ่งขึ้น WMF อยู่ในหมวดหมู่รูปแบบไฟล์เวกเตอร์ของรูปแบบไฟล์กราฟิกที่ไม่ขึ้นกับอุปกรณ์ Windows Graphical Device Interface (GDI) ใช้ฟังก์ชันที่จัดเก็บไว้ในไฟล์ WMF เพื่อแสดงภาพบนหน้าจอ WMF เวอร์ชันที่ได้รับการปรับปรุงมากขึ้น หรือที่เรียกว่า Enhanced Meta Files (EMF) ได้รับการเผยแพร่ในภายหลัง ซึ่งทำให้รูปแบบมีคุณลักษณะที่สมบูรณ์ยิ่งขึ้น ในทางปฏิบัติ WMF จะคล้ายกับ SVG
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | DICOM">}}
 DICOM ย่อมาจาก Digital Imaging and Communications in Medicine และเกี่ยวข้องกับสาขาสารสนเทศทางการแพทย์ DICOM คือการรวมกันของคำจำกัดความรูปแบบไฟล์และโปรโตคอลการสื่อสารเครือข่าย DICOM ใช้ส่วนขยาย .DCM .DCM มีอยู่ในรูปแบบที่แตกต่างกันสองรูปแบบ ได้แก่ รูปแบบ 1.x และรูปแบบ 2.x รูปแบบ DCM 1.x มีให้ใช้งานเพิ่มเติมในสองเวอร์ชันปกติและแบบขยาย DICOM ใช้สำหรับการรวมอุปกรณ์ภาพทางการแพทย์ เช่น เครื่องพิมพ์ เซิร์ฟเวอร์ สแกนเนอร์ ฯลฯ จากผู้จำหน่ายต่างๆ และยังมีข้อมูลประจำตัวของผู้ป่วยแต่ละรายเพื่อความเป็นเอกลักษณ์ ไฟล์ DICOM สามารถแชร์ระหว่างสองฝ่ายได้หากสามารถรับข้อมูลภาพในรูปแบบ DICOM ได้ ส่วนการสื่อสารของ DICOM คือโปรโตคอลเลเยอร์แอปพลิเคชัน และใช้ TCP/IP เพื่อสื่อสารระหว่างเอนทิตี โปรโตคอล HTTP และ HTTPS ใช้สำหรับบริการเว็บของ DICOM เวอร์ชันที่รองรับโดยบริการเว็บคือ 1.0, 1.1, 2 หรือใหม่กว่า
         {{< /blocks/products/pf/agp/about-file-text >}}
 

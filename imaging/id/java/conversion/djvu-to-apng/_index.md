@@ -75,16 +75,6 @@ Sebelum menjalankan kode contoh konversi, pastikan Anda memiliki prasyarat berik
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konversi DJVU ke APNG - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Aplikasi Gratis untuk Mengonversi DJVU ke APNG"
         appName="Conversion"
@@ -96,13 +86,21 @@ Sebelum menjalankan kode contoh konversi, pastikan Anda memiliki prasyarat berik
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/id/conversion/DJVU-to-APNG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konversi DJVU ke APNG - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya | DJVU">}}
 DjVu, diucapkan sebagai DJVU, adalah format file grafik yang ditujukan untuk dokumen dan buku yang dipindai terutama yang berisi kombinasi teks, gambar, gambar, dan foto. Ini dikembangkan oleh AT&T Labs. Ini menggunakan beberapa teknik seperti pemisahan lapisan gambar teks dan gambar latar belakang, pemuatan progresif, pengkodean aritmatika dan kompresi lossy untuk gambar bitonal. Karena file DJVU dapat berisi gambar, foto, teks, dan gambar berwarna yang terkompresi namun berkualitas tinggi dan dapat disimpan dalam ruang yang lebih sedikit, oleh karena itu, file ini digunakan di web sebagai eBuku, manual, surat kabar, dokumen kuno, dll.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya | APNG">}}
 File dengan ekstensi .apng (Animated Portable Network Graphics) adalah format grafik raster dan merupakan ekstensi tidak resmi untuk Portable Network Graphic (PNG ). Ini terdiri dari beberapa frame (masing-masing gambar PNG) yang mewakili urutan animasi. Ini memberikan visualisasi yang mirip dengan file GIF. File APNG mendukung gambar 24-bit dan transparansi 8-bit. APNG kompatibel dengan file GIF non-animasi. File APNG menggunakan ekstensi .png yang sama dan dapat dibuka oleh aplikasi seperti Mozilla Firefox, Chrome dengan dukungan APNG, aplikasi iMessage untuk iOS 10.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

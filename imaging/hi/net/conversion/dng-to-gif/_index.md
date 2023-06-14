@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="DNG को GIF में बदलें - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="DNG को GIF में बदलने के लिए नि:शुल्‍क ऐप"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DNG-to-GIF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="DNG को GIF में बदलें - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | DNG">}}
 डीएनजी एक डिजिटल कैमरा छवि प्रारूप है जिसका उपयोग कच्ची फाइलों के भंडारण के लिए किया जाता है। इसे सितंबर 2004 में Adobe द्वारा विकसित किया गया है। इसे मूल रूप से डिजिटल फोटोग्राफी के लिए विकसित किया गया था। डीएनजी टीआईएफएफ/ईपी मानक प्रारूप का विस्तार है और मेटाडेटा का महत्वपूर्ण रूप से उपयोग करता है। लचीलेपन और कलात्मक नियंत्रण में आसानी के साथ डिजिटल कैमरों से कच्चे डेटा में हेरफेर करने के लिए, फोटोग्राफर कैमरा कच्ची फाइलों को चुनते हैं। जेपीईजी और टीआईएफएफ प्रारूप उन छवियों को संग्रहीत करते हैं जो कैमरे द्वारा संसाधित की जाती हैं, इसलिए ऐसे प्रारूपों में परिवर्तन के लिए ज्यादा जगह उपलब्ध नहीं है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | GIF">}}
 जीआईएफ या ग्राफिकल इंटरचेंज फॉर्मेट एक प्रकार की अत्यधिक संकुचित छवि है। यूनिसिस के स्वामित्व में, GIF LZW कम्प्रेशन एल्गोरिथम का उपयोग करता है जो छवि गुणवत्ता को कम नहीं करता है। प्रत्येक छवि के लिए GIF आमतौर पर प्रति पिक्सेल 8 बिट तक और छवि में 256 रंगों तक की अनुमति देता है। एक जेपीईजी छवि के विपरीत, जो 16 मिलियन रंगों तक प्रदर्शित कर सकती है और मानव आंख की सीमाओं को काफी हद तक छूती है। वापस जब इंटरनेट उभरा, जीआईएफ सबसे अच्छा विकल्प बना रहा क्योंकि उन्हें कम बैंडविड्थ की आवश्यकता थी और ग्राफिक्स के लिए संगत जो रंग के ठोस क्षेत्रों का उपभोग करते थे। एक एनिमेटेड जीआईएफ कई छवियों या फ़्रेमों को एक फ़ाइल में जोड़ता है और एक एनिमेटेड क्लिप या एक लघु वीडियो बनाने के लिए उन्हें एक क्रम में प्रदर्शित करता है। प्रत्येक फ्रेम के लिए रंग सीमाएं 256 तक हैं और रंग ढाल के साथ अन्य छवियों और तस्वीरों को पुन: प्रस्तुत करने के लिए कम से कम उपयुक्त होने की संभावना है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 

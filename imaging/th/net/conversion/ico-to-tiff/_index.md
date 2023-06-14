@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="แปลง ICO เป็น TIFF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="แอปฟรีเพื่อแปลง ICO เป็น TIFF"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/ICO-to-TIFF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="แปลง ICO เป็น TIFF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | ICO">}}
 รูปแบบไฟล์ ICO เป็นรูปแบบไฟล์รูปภาพสำหรับไอคอนคอมพิวเตอร์ใน Microsoft Windows ไฟล์ ICO มีรูปภาพขนาดเล็กตั้งแต่หนึ่งภาพขึ้นไปที่หลายขนาดและความลึกของสี เพื่อให้สามารถปรับขนาดได้อย่างเหมาะสม ใน Windows โปรแกรมเรียกทำงานทั้งหมดที่แสดงไอคอนแก่ผู้ใช้ บนเดสก์ท็อป ในเมนูเริ่ม หรือใน Windows Explorer ต้องมีไอคอนในรูปแบบ ICO
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | TIFF">}}
 TIFF หรือ TIF ซึ่งเป็นรูปแบบไฟล์ภาพที่ติดแท็ก แสดงถึงภาพแรสเตอร์ที่มีไว้สำหรับการใช้งานบนอุปกรณ์ต่างๆ ที่สอดคล้องกับมาตรฐานรูปแบบไฟล์นี้ สามารถอธิบายข้อมูลภาพสองระดับ ระดับสีเทา สีจานสี และสีเต็มในพื้นที่สีต่างๆ รองรับรูปแบบการบีบอัดแบบ lossy และ lossless เพื่อเลือกระหว่างพื้นที่และเวลาสำหรับแอปพลิเคชันที่ใช้รูปแบบ รูปแบบนี้ขยายได้และมีการแก้ไขหลายครั้งที่อนุญาตให้รวมข้อมูลส่วนตัวหรือข้อมูลวัตถุประสงค์พิเศษได้ไม่จำกัดจำนวน รูปแบบไม่ขึ้นกับเครื่องและปราศจากขอบเขต เช่น โปรเซสเซอร์ ระบบปฏิบัติการ หรือระบบไฟล์
         {{< /blocks/products/pf/agp/about-file-text >}}
 

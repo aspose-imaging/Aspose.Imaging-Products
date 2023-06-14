@@ -75,16 +75,6 @@ J2KをTGAに変換するには、 [Aspose.Imaging for Java](https://products.asp
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="J2KをTGAに変換します-Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="J2KをTGAに変換する無料アプリ"
         appName="Conversion"
@@ -96,13 +86,21 @@ J2KをTGAに変換するには、 [Aspose.Imaging for Java](https://products.asp
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ja/conversion/J2K-to-TGA)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="J2KをTGAに変換します-Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | J2K">}}
 J2Kファイルは、DCT圧縮の代わりにウェーブレット圧縮を使用して圧縮された画像です。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | TGA">}}
 Truevision TGAは、TARGAとも呼ばれ、Truevision Inc.（現在はAvid Technologyの一部）によって作成されたラスターグラフィックファイル形式です。これは、ハイカラー/トゥルーカラー表示をサポートするIBM互換PC用の最初のグラフィックカードであるTARGAおよびVISTAボードのネイティブフォーマットでした。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

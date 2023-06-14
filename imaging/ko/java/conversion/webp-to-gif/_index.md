@@ -75,16 +75,6 @@ WEBP을 GIF로 변환하려면 다음을 사용합니다. [자바용 Aspose.Imag
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="WEBP을 GIF로 변환 - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="WEBP을 GIF로 변환하는 무료 앱"
         appName="Conversion"
@@ -96,13 +86,21 @@ WEBP을 GIF로 변환하려면 다음을 사용합니다. [자바용 Aspose.Imag
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ko/conversion/WEBP-to-GIF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="WEBP을 GIF로 변환 - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | WEBP">}}
 Google에서 소개한 WebP는 무손실 및 손실 압축을 기반으로 하는 최신 래스터 웹 이미지 파일 형식입니다. 이미지 크기를 크게 줄이면서 동일한 이미지 품질을 제공합니다. 대부분의 웹 페이지는 데이터의 효과적인 표현으로 이미지를 사용하기 때문에 웹 페이지에서 WebP 이미지를 사용하면 웹 페이지를 더 빠르게 로드할 수 있습니다. Google에 따르면 WebP 무손실 이미지는 PNG에 비해 크기가 26% 작으며 WebP 손실 이미지는 유사한 JPEG 이미지보다 25-34% 작습니다. WebP와 다른 이미지 파일 형식 간의 SSIM(구조적 유사성) 인덱스를 기반으로 이미지가 비교됩니다. WebP는 WebM 멀티미디어 컨테이너 형식의 자매 프로젝트입니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | GIF">}}
 GIF 또는 그래픽 교환 형식은 고도로 압축된 이미지 유형입니다. Unisys가 소유한 GIF는 이미지 품질을 저하시키지 않는 LZW 압축 알고리즘을 사용합니다. 각 이미지에 대해 GIF는 일반적으로 픽셀당 최대 8비트를 허용하고 이미지 전체에 최대 256가지 색상을 허용합니다. 최대 1600만 색상을 표시할 수 있고 인간의 눈의 한계에 상당히 닿는 JPEG 이미지와 대조적입니다. 인터넷이 등장했을 때 GIF는 낮은 대역폭이 필요하고 단색 영역을 소비하는 그래픽과 호환되기 때문에 최고의 선택으로 남아 있었습니다. 애니메이션 GIF는 수많은 이미지 또는 프레임을 단일 파일로 결합하고 이를 시퀀스로 표시하여 애니메이션 클립 또는 짧은 비디오를 생성합니다. 색상 제한은 각 프레임에 대해 최대 256개이며 색상 그라디언트가 있는 다른 이미지 및 사진을 재생하는 데 가장 적합하지 않을 수 있습니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

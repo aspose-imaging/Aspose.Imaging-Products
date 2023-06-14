@@ -62,16 +62,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="EPSをHTMLに変換します-.NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="EPSをHTMLに変換する無料アプリ"
         appName="Conversion"
@@ -83,13 +73,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ja/conversion/EPS-to-HTML)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="EPSをHTMLに変換します-.NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | EPS">}}
 EPS拡張子の付いたファイルは、基本的に、単一ページの外観を記述するEncapsulatedPostScript言語プログラムを記述します。 「カプセル化」という名前は、別のPostScript言語ページの説明に含めるかカプセル化できるためです。このスクリプトベースのファイル形式には、テキスト、グラフィックス、および画像の任意の組み合わせを含めることができます。 EPSファイルには、そのようなファイルを開くことができるアプリケーションによる表示のために、内部にカプセル化されたビットマッププレビュー画像が含まれる場合があります。 EPSファイルは、さまざまなアプリケーションを使用して、JPG、PNG、TIFF、PDFなどの標準の画像形式に変換できます。 Adobe Illustrator、Photoshop、PaintShopPro。 EPSファイルのセキュリティの脆弱性のため、Office 2016、Office 2013、Office 2010、およびOffice 365は、EPSファイルをOfficeドキュメントに挿入する機能をオフにしました。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | HTML">}}
 HTML（ハイパーテキストマークアップ言語）は、ブラウザで表示するために作成されたWebページの拡張機能です。 Webの言語として知られるHTMLは、Webページの一部として表示される新しい情報要件の要件とともに進化してきました。最新のバリアントはHTML5として知られており、言語を操作するための多くの柔軟性を提供します。 HTMLページは、ホストされているサーバーから受信するか、ローカルシステムからロードすることもできます。各HTMLページは、フォーム、テキスト、画像、アニメーション、リンクなどのHTML要素で構成されています。これらの要素は、img、a、pなどのタグで表され、各タグには開始と終了があります。また、JavaScriptやスタイルシート（CSS）などのスクリプト言語で記述されたアプリケーションを埋め込んで、全体的なレイアウトを表現することもできます。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

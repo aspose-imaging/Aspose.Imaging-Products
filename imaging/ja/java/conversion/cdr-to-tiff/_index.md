@@ -75,16 +75,6 @@ CDRをTIFFに変換するには、 [Aspose.Imaging for Java](https://products.as
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="CDRをTIFFに変換します-Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="CDRをTIFFに変換する無料アプリ"
         appName="Conversion"
@@ -96,13 +86,21 @@ CDRをTIFFに変換するには、 [Aspose.Imaging for Java](https://products.as
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ja/conversion/CDR-to-TIFF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="CDRをTIFFに変換します-Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | CDR">}}
 CDRファイルは、エンコードおよび圧縮されたデジタル画像を保存するためにCorelDRAWでネイティブに作成されたベクター描画画像ファイルです。このような描画ファイルには、画像コンテンツのベクトル表現のためのテキスト、線、形状、画像、色、および効果が含まれています。 CDRファイルは、CorelDRAWをプライマリアプリケーションとして使用して開くことができ、PDF、JPG、PNG、BMP、AIなどの他の形式に変換することもできます。パンフレット、タブロイド紙、封筒、はがきなどのさまざまなグラフィックデータの表現に使用できます。 CorelDRAWに加えて、Corel PaintshopProやCorelDRAWGraphicsスイートなどの他のCorel製品もCDRファイル形式を開くことができます。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | TIFF">}}
 TIFFまたはTIF（タグ付き画像ファイル形式）は、このファイル形式標準に準拠するさまざまなデバイスでの使用を目的としたラスター画像を表します。いくつかの色空間で、バイレベル、グレースケール、パレットカラー、およびフルカラーの画像データを記述することができます。この形式を使用するアプリケーションのスペースと時間のどちらかを選択するための非可逆圧縮方式と可逆圧縮方式をサポートしています。このフォーマットは拡張可能であり、無制限の量の個人情報または特別目的情報を含めることができるようにいくつかの改訂が行われています。この形式はマシンに依存せず、プロセッサ、オペレーティングシステム、ファイルシステムなどの境界がありません。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="ICO को WEBP में बदलें - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="ICO को WEBP में बदलने के लिए नि:शुल्‍क ऐप"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/ICO-to-WEBP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="ICO को WEBP में बदलें - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | ICO">}}
 ICO फ़ाइल स्वरूप Microsoft Windows में कंप्यूटर आइकन के लिए एक छवि फ़ाइल स्वरूप है। ICO फाइलों में एक या एक से अधिक छोटी छवियां कई आकारों और रंग गहराई में होती हैं, जैसे कि उन्हें उचित रूप से बढ़ाया जा सकता है। विंडोज़ में, सभी निष्पादन योग्य जो उपयोगकर्ता को एक आइकन प्रदर्शित करते हैं, डेस्कटॉप पर, स्टार्ट मेनू में, या विंडोज एक्सप्लोरर में, आईसीओ प्रारूप में आइकन ले जाना चाहिए।
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | WEBP">}}
 वेबपी, गूगल द्वारा पेश किया गया, एक आधुनिक रास्टर वेब छवि फ़ाइल स्वरूप है जो दोषरहित और हानिपूर्ण संपीड़न पर आधारित है। यह छवि आकार को काफी कम करते हुए समान छवि गुणवत्ता प्रदान करता है। चूंकि अधिकांश वेब पेज छवियों को डेटा के प्रभावी प्रतिनिधित्व के रूप में उपयोग करते हैं, वेब पेजों में वेबपी छवियों के उपयोग से वेब पेजों का तेजी से लोड होता है। Google के अनुसार, PNGs की तुलना में WebP दोषरहित छवियां आकार में 26% छोटी होती हैं, जबकि WebP हानिपूर्ण छवियां तुलनीय JPEG छवियों की तुलना में 25-34% छोटी होती हैं। छवियों की तुलना वेबपी और अन्य छवि फ़ाइल स्वरूपों के बीच संरचनात्मक समानता (एसएसआईएम) सूचकांक के आधार पर की जाती है। वेबपी वेबएम मल्टीमीडिया कंटेनर प्रारूप की एक सहयोगी परियोजना है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="DIB को PNG में बदलें - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="DIB को PNG में बदलने के लिए नि:शुल्‍क ऐप"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DIB-to-PNG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="DIB को PNG में बदलें - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | DIB">}}
 एक डीआईबी (डिवाइस इंडिपेंडेंट बिटमैप) फ़ाइल एक रास्टर छवि फ़ाइल है जो मानक बिटमैप फ़ाइलों (बीएमपी) की संरचना में समान है लेकिन एक अलग हेडर है। इसे लगभग सभी अनुप्रयोगों के साथ खोला जा सकता है जो विंडोज़ के साथ-साथ मैकोज़ पर एक मानक बीएमपी फ़ाइल खोल सकते हैं। DIB बाइनरी फ़ाइलें हैं और BMP के समान एक जटिल फ़ाइल स्वरूप है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | PNG">}}
 पीएनजी, पोर्टेबल नेटवर्क ग्राफिक्स, एक प्रकार के रेखापुंज छवि फ़ाइल स्वरूप को संदर्भित करता है जो दोषरहित संपीड़न का उपयोग करता है। यह फ़ाइल स्वरूप ग्राफ़िक्स इंटरचेंज फ़ॉर्मेट (GIF) के प्रतिस्थापन के रूप में बनाया गया था और इसकी कोई कॉपीराइट सीमा नहीं है। हालाँकि, PNG फ़ाइल स्वरूप एनिमेशन का समर्थन नहीं करता है। पीएनजी फ़ाइल स्वरूप दोषरहित छवि संपीड़न का समर्थन करता है जो इसे अपने उपयोगकर्ताओं के बीच लोकप्रिय बनाता है। समय बीतने के साथ, पीएनजी ज्यादातर उपयोग की जाने वाली छवि फ़ाइल प्रारूप में से एक के रूप में विकसित हुआ है। लगभग सभी ऑपरेटिंग सिस्टम में पीएनजी फाइलें खोलने के लिए सपोर्ट होता है। उदाहरण के लिए, माइक्रोसॉफ्ट विंडोज व्यूअर में पीएनजी फाइलों को खोलने की क्षमता है क्योंकि ओएस के पास डिफ़ॉल्ट रूप से इंस्टॉलेशन के हिस्से के रूप में उपलब्ध समर्थन है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 

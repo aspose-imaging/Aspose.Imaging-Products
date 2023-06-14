@@ -75,16 +75,6 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertuoti CMX į JPEG – Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Nemokama programa konvertuoti CMX į JPEG"
         appName="Conversion"
@@ -96,13 +86,21 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/lt/conversion/CMX-to-JPEG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertuoti CMX į JPEG – Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau | CMX">}}
 Failai su CMX plėtiniu yra „Corel Exchange“ vaizdo failo formatas, naudojamas „CorelSuite“ programose kaip pristatymas. Jame yra vaizdo duomenys kaip vektorinė grafika, taip pat metaduomenys, apibūdinantys vaizdą. CMX failus galima atidaryti naudojant „CorelDraw“, „Corel Presentations“, „Paint Shop Pro“ ir kai kurias „Adobe Illustrator“ versijas.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau | JPEG">}}
 JPEG yra vaizdo formatas, kuris išsaugomas naudojant nuostolingo glaudinimo metodą. Išvesties vaizdas dėl suspaudimo yra kompromisas tarp saugojimo dydžio ir vaizdo kokybės. Vartotojai gali reguliuoti suspaudimo lygį, kad pasiektų norimą kokybės lygį, tuo pačiu sumažindami saugyklos dydį. Vaizdo kokybei nežymiai pakenks, jei vaizdui taikomas glaudinimas 10:1. Kuo didesnė suspaudimo vertė, tuo didesnis vaizdo kokybės pablogėjimas.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

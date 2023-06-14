@@ -75,16 +75,6 @@ description: Зразок коду для перетворення APNG у PSD J
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити APNG на PSD - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення APNG у PSD"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Зразок коду для перетворення APNG у PSD J
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/APNG-to-PSD)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити APNG на PSD - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | APNG">}}
 Файл із розширенням .apng (Animated Portable Network Graphic) — це растровий графічний формат і є неофіційним розширенням Portable Network Graphic (PNG). Він складається з кількох кадрів (кожен із зображень PNG), які представляють послідовність анімації. Це дає візуалізацію, подібну до файлу GIF. Файли APNG підтримують 24-бітні зображення та 8-бітну прозорість. APNG має зворотну сумісність із файлами GIF без анімації. Файли APNG використовують те саме розширення .png і можуть відкриватися такими програмами, як Mozilla Firefox, Chrome із підтримкою APNG, програмами iMessage для iOS 10.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | PSD">}}
 PSD, Photoshop Document, представляє рідний формат файлу Adobe Photoshop, який використовується для проектування та розробки графіки. Файли PSD можуть містити шари зображень, шари коригування, маски шарів, анотації, інформацію про файли, ключові слова та інші специфічні для Photoshop елементи.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

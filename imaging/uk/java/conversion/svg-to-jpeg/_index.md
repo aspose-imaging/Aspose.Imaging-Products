@@ -75,16 +75,6 @@ description: Зразок коду для перетворення SVG у JPEG J
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити SVG на JPEG - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення SVG у JPEG"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Зразок коду для перетворення SVG у JPEG J
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/SVG-to-JPEG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити SVG на JPEG - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | SVG">}}
 Файли SVG — це файли масштабованої векторної графіки, які використовують текстовий формат на основі XML для опису зовнішнього вигляду зображення. Слово «масштабований» означає, що SVG можна масштабувати до різних розмірів без втрати якості. Текстовий опис таких файлів робить їх незалежними від роздільної здатності. Це один із найбільш використовуваних форматів для створення веб-сайтів і друку графіки з метою досягнення масштабованості. Формат можна використовувати лише для двовимірної графіки. Файли SVG можна переглядати/відкривати майже в усіх сучасних браузерах, включаючи Chrome, Internet Explorer, Firefox і Safari.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | JPEG">}}
 JPEG — це тип формату зображення, який зберігається за допомогою методу стиснення з втратами. Вихідне зображення, як результат стиснення, є компромісом між розміром пам’яті та якістю зображення. Користувачі можуть регулювати рівень стиснення, щоб досягти бажаного рівня якості, одночасно зменшуючи розмір пам’яті. Якщо до зображення застосувати стиснення 10:1, на якість зображення вплине незначно. Чим вище значення стиснення, тим більше погіршується якість зображення.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

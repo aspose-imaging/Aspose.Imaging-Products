@@ -62,16 +62,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="将 APNG 转换为 PSD - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="将 APNG 转换为 PSD 的免费应用程序"
         appName="Conversion"
@@ -83,13 +73,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hans/conversion/APNG-to-PSD)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="将 APNG 转换为 PSD - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | APNG">}}
 具有 .apng（动画便携式网络图形）扩展名的文件是一种光栅图形格式，是便携式网络图形 (PNG) 的非官方扩展名。它由表示动画序列的多个帧（每个 PNG 图像）组成。这提供了与 GIF 文件类似的可视化效果。 APNG 文件支持 24 位图像和 8 位透明度。 APNG 向后兼容非动画 GIF 文件。 APNG 文件使用相同的 .png 扩展名，可以由 Mozilla Firefox、支持 APNG 的 Chrome、iOS 10 的 iMessage 应用程序等应用程序打开。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | PSD">}}
 PSD，Photoshop 文档，代表 Adob​​e Photoshop 用于图形设计和开发的原生文件格式。 PSD 文件可能包括图像图层、调整图层、图层蒙版、注释、文件信息、关键字和其他 Photoshop 特定元素。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

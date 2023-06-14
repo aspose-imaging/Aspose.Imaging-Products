@@ -75,16 +75,6 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Převést APNG na DXF – Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Bezplatná aplikace pro převod APNG na DXF"
         appName="Conversion"
@@ -96,13 +86,21 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/APNG-to-DXF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Převést APNG na DXF – Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více | APNG">}}
 Soubor s příponou .apng (Animated Portable Network Graphics) je rastrový grafický formát a je neoficiálním rozšířením Portable Network Graphic (PNG). Skládá se z několika snímků (každý z obrázku PNG), které představují sekvenci animace. To poskytuje podobnou vizualizaci jako soubor GIF. Soubory APNG podporují 24bitové obrázky a 8bitovou průhlednost. APNG je zpětně kompatibilní s neanimovanými soubory GIF. Soubory APNG používají stejnou příponu .png a lze je otevřít aplikacemi, jako je Mozilla Firefox, Chrome s podporou APNG, aplikace iMessage pro iOS 10.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více | DXF">}}
 DXF, Drawing Interchange Format nebo Drawing Exchange Format, je reprezentace tagovaných dat výkresového souboru AutoCADu. Každý prvek v souboru má předponu celé číslo nazývané kód skupiny. Tento skupinový kód ve skutečnosti představuje prvek, který následuje, a označuje význam datového prvku pro daný typ objektu. DXF umožňuje reprezentovat téměř všechny uživatelem specifikované informace ve výkresovém souboru.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

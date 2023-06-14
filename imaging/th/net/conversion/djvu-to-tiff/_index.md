@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="แปลง DJVU เป็น TIFF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="แอปฟรีเพื่อแปลง DJVU เป็น TIFF"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DJVU-to-TIFF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="แปลง DJVU เป็น TIFF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | DJVU">}}
 DjVu ออกเสียงว่า DJVU รูปแบบไฟล์กราฟิกที่ใช้สำหรับสแกนเอกสารและหนังสือ โดยเฉพาะไฟล์ที่มีข้อความ ภาพวาด รูปภาพ และรูปถ่ายผสมกัน ได้รับการพัฒนาโดย AT&T Labs มันใช้เทคนิคหลายอย่าง เช่น การแยกเลเยอร์รูปภาพของข้อความและรูปภาพพื้นหลัง การโหลดแบบโปรเกรสซีฟ การเข้ารหัสเลขคณิต และการบีบอัดแบบไม่สูญเสียสำหรับรูปภาพ bitonal เนื่องจากไฟล์ DJVU สามารถมีรูปภาพสี ข้อความ และภาพวาดที่บีบอัดแต่คุณภาพสูง และสามารถบันทึกได้ในพื้นที่น้อยลง ดังนั้นจึงใช้บนเว็บเป็น eBook คู่มือ หนังสือพิมพ์ เอกสารโบราณ ฯลฯ
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | TIFF">}}
 TIFF หรือ TIF ซึ่งเป็นรูปแบบไฟล์ภาพที่ติดแท็ก แสดงถึงภาพแรสเตอร์ที่มีไว้สำหรับการใช้งานบนอุปกรณ์ต่างๆ ที่สอดคล้องกับมาตรฐานรูปแบบไฟล์นี้ สามารถอธิบายข้อมูลภาพสองระดับ ระดับสีเทา สีจานสี และสีเต็มในพื้นที่สีต่างๆ รองรับรูปแบบการบีบอัดแบบ lossy และ lossless เพื่อเลือกระหว่างพื้นที่และเวลาสำหรับแอปพลิเคชันที่ใช้รูปแบบ รูปแบบนี้ขยายได้และมีการแก้ไขหลายครั้งที่อนุญาตให้รวมข้อมูลส่วนตัวหรือข้อมูลวัตถุประสงค์พิเศษได้ไม่จำกัดจำนวน รูปแบบไม่ขึ้นกับเครื่องและปราศจากขอบเขต เช่น โปรเซสเซอร์ ระบบปฏิบัติการ หรือระบบไฟล์
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -65,16 +65,6 @@ Antes de ejecutar el código de ejemplo de conversión, asegúrese de tener los 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convertir DICOM a TGA - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Aplicación gratuita para convertir DICOM a TGA"
         appName="Conversion"
@@ -86,13 +76,21 @@ Antes de ejecutar el código de ejemplo de conversión, asegúrese de tener los 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/es/conversion/DICOM-to-TGA)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Convertir DICOM a TGA - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más | DICOM">}}
 DICOM es el acrónimo de Digital Imaging and Communications in Medicine y pertenece al campo de la informática médica. DICOM es la combinación de definición de formato de archivo y un protocolo de comunicaciones de red. DICOM utiliza la extensión .DCM. .DCM existe en dos formatos diferentes, es decir, formato 1.x y formato 2.x. DCM Format 1.x también está disponible en dos versiones normal y extendida. DICOM se utiliza para la integración de dispositivos de imágenes médicas como impresoras, servidores, escáneres, etc. de varios proveedores y también contiene datos de identificación de cada paciente para que sean únicos. Los archivos DICOM se pueden compartir entre dos partes si son capaces de recibir datos de imagen en formato DICOM. La parte de comunicación de DICOM es un protocolo de capa de aplicación y utiliza TCP/IP para comunicarse entre entidades. Los protocolos HTTP y HTTPS se utilizan para los servicios web de DICOM. Las versiones compatibles con los servicios web son 1.0, 1.1, 2 o posteriores.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más | TGA">}}
 Truevision TGA, a menudo denominado TARGA, es un formato de archivo de gráficos de trama creado por Truevision Inc. (ahora parte de Avid Technology). Era el formato nativo de las placas TARGA y VISTA, que fueron las primeras tarjetas gráficas para PC compatibles con IBM que admitían pantallas Highcolor/truecolor.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

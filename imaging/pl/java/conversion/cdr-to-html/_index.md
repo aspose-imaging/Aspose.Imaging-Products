@@ -75,16 +75,6 @@ Przed uruchomieniem przykładowego kodu konwersji upewnij się, że masz następ
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konwertuj CDR na HTML - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Darmowa aplikacja do konwersji CDR na HTML"
         appName="Conversion"
@@ -96,13 +86,21 @@ Przed uruchomieniem przykładowego kodu konwersji upewnij się, że masz następ
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/pl/conversion/CDR-to-HTML)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konwertuj CDR na HTML - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej | CDR">}}
 Plik CDR to plik obrazu rysunku wektorowego, który jest natywnie tworzony w programie CorelDRAW do przechowywania zakodowanych i skompresowanych obrazów cyfrowych. Taki plik rysunku zawiera tekst, linie, kształty, obrazy, kolory i efekty dla wektorowej reprezentacji treści obrazu. Pliki CDR można otwierać za pomocą programu CorelDRAW jako głównej aplikacji, a także konwertować na inne formaty, takie jak PDF, JPG, PNG, BMP i AI. Może być używany do przedstawiania różnych danych graficznych, takich jak broszury, tabloidy, koperty i pocztówki. Oprócz pakietu CorelDRAW inne produkty firmy Corel, takie jak Corel Paintshop Pro i pakiet CorelDRAW Graphics, mogą również otwierać formaty plików CDR.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej | HTML">}}
 HTML (Hyper Text Markup Language) to rozszerzenie dla stron internetowych tworzonych do wyświetlania w przeglądarkach. Znany jako język sieci, HTML ewoluował wraz z wymaganiami nowych wymagań dotyczących informacji, które mają być wyświetlane jako część stron internetowych. Najnowszy wariant znany jest jako HTML 5, który daje dużą elastyczność w pracy z językiem. Strony HTML są albo odbierane z serwera, na którym są hostowane, albo mogą być również ładowane z systemu lokalnego. Każda strona HTML składa się z elementów HTML, takich jak formularze, tekst, obrazy, animacje, łącza itp. Elementy te są reprezentowane przez znaczniki, takie jak img, a, p i kilka innych, gdzie każdy znacznik ma początek i koniec. Może również osadzać aplikacje napisane w językach skryptowych, takich jak JavaScript i Arkusze stylów (CSS), w celu ogólnej reprezentacji układu.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

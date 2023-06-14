@@ -63,16 +63,6 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertiere APNG in DICOM - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Kostenlose App zum Konvertieren von APNG in DICOM"
         appName="Conversion"
@@ -84,13 +74,21 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/de/conversion/APNG-to-DICOM)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertiere APNG in DICOM - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen | APNG">}}
 Eine Datei mit der Erweiterung .apng (Animated Portable Network Graphics) ist ein Rastergrafikformat und eine inoffizielle Erweiterung von Portable Network Graphic (PNG). Es besteht aus mehreren Frames (jeweils ein PNG-Bild), die eine Animationssequenz darstellen. Dies ergibt eine ähnliche Visualisierung wie eine GIF-Datei. APNG-Dateien unterstützen 24-Bit-Bilder und 8-Bit-Transparenz. APNG ist abwärtskompatibel mit nicht animierten GIF-Dateien. APNG-Dateien verwenden dieselbe .png-Erweiterung und können von Anwendungen wie Mozilla Firefox, Chrome mit APNG-Unterstützung und iMessage-Apps für iOS 10 geöffnet werden.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen | DICOM">}}
 DICOM ist die Abkürzung für Digital Imaging and Communications in Medicine und gehört zum Gebiet der Medizinischen Informatik. DICOM ist die Kombination aus Dateiformatdefinition und einem Netzwerkkommunikationsprotokoll. DICOM verwendet die Erweiterung .DCM. .DCM gibt es in zwei verschiedenen Formaten, nämlich Format 1.x und Format 2.x. Das DCM-Format 1.x ist weiterhin in zwei Versionen normal und erweitert verfügbar. DICOM wird für die Integration von medizinischen Bildgebungsgeräten wie Druckern, Servern, Scannern usw. verschiedener Anbieter verwendet und enthält auch Identifikationsdaten jedes Patienten zur Eindeutigkeit. DICOM-Dateien können zwischen zwei Parteien geteilt werden, wenn sie in der Lage sind, Bilddaten im DICOM-Format zu empfangen. Der Kommunikationsteil von DICOM ist ein Anwendungsschichtprotokoll und verwendet TCP/IP zur Kommunikation zwischen Entitäten. Für die Webdienste von DICOM werden HTTP- und HTTPS-Protokolle verwendet. Von Webdiensten unterstützte Versionen sind 1.0, 1.1, 2 oder höher.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

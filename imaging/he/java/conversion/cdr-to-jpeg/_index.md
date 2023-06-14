@@ -75,16 +75,6 @@ description: קוד לדוגמה עבור המרת Java מ-CDR ל-JPEG. השתמ
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="המר את CDR ל-JPEG - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="אפליקציה חינמית להמרת CDR ל-JPEG"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: קוד לדוגמה עבור המרת Java מ-CDR ל-JPEG. השתמ
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/CDR-to-JPEG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="המר את CDR ל-JPEG - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | CDR">}}
 קובץ CDR הוא קובץ תמונת ציור וקטור שנוצר באופן מקורי עם CorelDRAW לאחסון תמונה דיגיטלית מקודדת ודחוסה. קובץ ציור כזה מכיל טקסט, קווים, צורות, תמונות, צבעים ואפקטים לייצוג וקטור של תוכן התמונה. ניתן לפתוח קבצי CDR עם CorelDRAW כיישום הראשי וניתן להמיר אותם גם לפורמטים אחרים כגון PDF, JPG, PNG, BMP ו-AI. זה יכול לשמש לייצוג של נתונים גרפיים שונים כמו חוברות, צהובונים, מעטפות וגלויות. מלבד CorelDRAW, מוצרי Corel אחרים כגון Corel Paintshop Pro ו- CorelDRAW Graphics Suite יכולים גם הם לפתוח את תבניות הקובץ CDR.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | JPEG">}}
 JPEG הוא סוג של פורמט תמונה שנשמר בשיטת הדחיסה המאבדת. תמונת הפלט, כתוצאה מדחיסה, היא פשרה בין גודל האחסון ואיכות התמונה. משתמשים יכולים להתאים את רמת הדחיסה כדי להשיג את רמת האיכות הרצויה ובו בזמן להקטין את גודל האחסון. איכות התמונה מושפעת באופן זניח אם מוחלת דחיסה של 10:1 על התמונה. ככל שערך הדחיסה גבוה יותר, כך הירידה באיכות התמונה גבוהה יותר.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

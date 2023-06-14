@@ -75,16 +75,6 @@ EPSをSVGZに変換するには、 [Aspose.Imaging for Java](https://products.as
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="EPSをSVGZに変換します-Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="EPSをSVGZに変換する無料アプリ"
         appName="Conversion"
@@ -96,13 +86,21 @@ EPSをSVGZに変換するには、 [Aspose.Imaging for Java](https://products.as
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ja/conversion/EPS-to-SVGZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="EPSをSVGZに変換します-Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | EPS">}}
 EPS拡張子の付いたファイルは、基本的に、単一ページの外観を記述するEncapsulatedPostScript言語プログラムを記述します。 「カプセル化」という名前は、別のPostScript言語ページの説明に含めるかカプセル化できるためです。このスクリプトベースのファイル形式には、テキスト、グラフィックス、および画像の任意の組み合わせを含めることができます。 EPSファイルには、そのようなファイルを開くことができるアプリケーションによる表示のために、内部にカプセル化されたビットマッププレビュー画像が含まれる場合があります。 EPSファイルは、さまざまなアプリケーションを使用して、JPG、PNG、TIFF、PDFなどの標準の画像形式に変換できます。 Adobe Illustrator、Photoshop、PaintShopPro。 EPSファイルのセキュリティの脆弱性のため、Office 2016、Office 2013、Office 2010、およびOffice 365は、EPSファイルをOfficeドキュメントに挿入する機能をオフにしました。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | SVGZ">}}
 拡張子が.svgzのファイルは、Scalable Vector Graphics（.SVG）ファイルの圧縮バージョンです。 gzip圧縮で圧縮され、XML形式のデータが含まれています。 SVGZファイルは、透明度、グラデーション、アニメーション、およびフィルターをサポートします。 SVGZファイルはデフォルトのSVGファイルと比較してサイズが小さく、この縮小されたファイルサイズはグラフィックファイルをオンラインで転送するのに役立ちます。グラフィックデザイナーは、Adobe Illustrator、Corel PaintShopProなどのツールを使用してSVGZファイルを作成します。ただし、SVGZファイルは、画像データの送信中にApacheサーバーでGZip圧縮を有効にすることで生成できます。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

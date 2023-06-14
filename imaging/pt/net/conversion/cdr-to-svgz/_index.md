@@ -64,16 +64,6 @@ Antes de executar o código de exemplo de conversão, verifique se você tem os 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Converter {Formato1} para {Formato2} - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Aplicativo gratuito para converter CDR para SVGZ"
         appName="Conversion"
@@ -85,13 +75,21 @@ Antes de executar o código de exemplo de conversão, verifique se você tem os 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/pt/conversion/CDR-to-SVGZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Converter {Formato1} para {Formato2} - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação | CDR">}}
 Um arquivo CDR é um arquivo de imagem de desenho vetorial criado nativamente com o CorelDRAW para armazenar imagens digitais codificadas e compactadas. Esse arquivo de desenho contém texto, linhas, formas, imagens, cores e efeitos para representação vetorial do conteúdo da imagem. Os arquivos CDR podem ser abertos com o CorelDRAW como aplicativo principal e também podem ser convertidos para outros formatos, como PDF, JPG, PNG, BMP e AI. Ele pode ser usado para representação de vários dados gráficos, como brochuras, tablóides, envelopes e cartões postais. Além do CorelDRAW, outros produtos Corel, como o Corel Paintshop Pro e o CorelDRAW Graphics Suite, também podem abrir os formatos de arquivo CDR.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação | SVGZ">}}
 Um arquivo com extensão .svgz é uma versão compactada do arquivo Scalable Vector Graphics (.SVG). Ele é compactado com compactação gzip e contém dados em formato XML. Os arquivos SVGZ suportam transparência, gradientes, animações e filtros. Os arquivos SVGZ são menores em tamanho em comparação com os arquivos SVG padrão e esse tamanho de arquivo reduzido ajuda a transferir os arquivos gráficos online. O designer gráfico cria arquivos SVGZ usando ferramentas como Adobe Illustrator, Corel PaintShop Pro e outras. No entanto, os arquivos SVGZ podem ser gerados ativando a compactação GZip no Apache Server ao enviar os dados da imagem.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

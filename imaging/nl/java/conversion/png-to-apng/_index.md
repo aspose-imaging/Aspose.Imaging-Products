@@ -75,16 +75,6 @@ Voordat u de conversievoorbeeldcode uitvoert, moet u ervoor zorgen dat u aan de 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Converteer PNG naar APNG - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Gratis app om PNG naar APNG te converteren"
         appName="Conversion"
@@ -96,13 +86,21 @@ Voordat u de conversievoorbeeldcode uitvoert, moet u ervoor zorgen dat u aan de 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/nl/conversion/PNG-to-APNG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Converteer PNG naar APNG - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder | PNG">}}
 PNG, Portable Network Graphics, verwijst naar een type rasterafbeeldingsbestandsindeling die lossless compressie gebruikt. Dit bestandsformaat is gemaakt als vervanging van Graphics Interchange Format (GIF) en heeft geen copyrightbeperkingen. Het PNG-bestandsformaat ondersteunt echter geen animaties. Het PNG-bestandsformaat ondersteunt lossless beeldcompressie waardoor het populair is onder zijn gebruikers. Met het verstrijken van de tijd is PNG geëvolueerd als een van de meest gebruikte afbeeldingsbestandsindelingen. Bijna alle besturingssystemen hebben ondersteuning voor het openen van PNG-bestanden. Microsoft Windows-viewer heeft bijvoorbeeld de mogelijkheid om PNG-bestanden te openen, aangezien het besturingssysteem standaard de ondersteuning heeft die beschikbaar is als onderdeel van de installatie.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder | APNG">}}
 Een bestand met de extensie .apng (Animated Portable Network Graphics) is een grafische rasterindeling en is een niet-officiële extensie van Portable Network Graphic (PNG). Het bestaat uit meerdere frames (elk PNG-afbeelding) die een animatiereeks vertegenwoordigt. Dit geeft een vergelijkbare visualisatie als een GIF-bestand. APNG-bestanden ondersteunen 24-bits afbeeldingen en 8-bits transparantie. APNG is achterwaarts compatibel met niet-geanimeerde GIF-bestanden. APNG-bestanden gebruiken dezelfde .png-extensie en kunnen worden geopend door toepassingen zoals Mozilla Firefox, Chrome met APNG-ondersteuning, iMessage-apps voor iOS 10.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

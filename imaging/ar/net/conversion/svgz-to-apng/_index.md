@@ -61,16 +61,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="تحويل SVGZ إلى APNG - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="تطبيق مجاني لتحويل SVGZ إلى APNG"
         appName="Conversion"
@@ -82,13 +72,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/SVGZ-to-APNG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="تحويل SVGZ إلى APNG - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | SVGZ">}}
 الملف بامتداد .svgz هو نسخة مضغوطة من ملف Scalable Vector Graphics (.SVG). يتم ضغطه بضغط gzip ويحتوي على بيانات بتنسيق XML. تدعم ملفات SVGZ الشفافية والتدرجات والرسوم المتحركة والمرشحات. تكون ملفات SVGZ أصغر حجمًا مقارنة بملفات SVG الافتراضية ويساعد حجم الملف المنخفض هذا في نقل ملفات الرسومات عبر الإنترنت. يقوم مصمم الرسومات بإنشاء ملفات SVGZ باستخدام أدوات مثل Adobe Illustrator و Corel PaintShop Pro وغيرها. ومع ذلك ، يمكن إنشاء ملفات SVGZ عن طريق تمكين ضغط GZip في خادم Apache أثناء إرسال بيانات الصورة.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | APNG">}}
 الملف ذو الامتداد .apng (الرسوم المتحركة للشبكة المحمولة) هو تنسيق رسومي نقطي وهو امتداد غير رسمي لـ Portable Network Graphic (PNG). وهي تتألف من إطارات متعددة (كل صورة من صورة PNG) تمثل تسلسلًا للرسوم المتحركة. هذا يعطي تصورًا مشابهًا لملف GIF. تدعم ملفات APNG صور 24 بت وشفافية 8 بت. APNG متوافق مع الإصدارات السابقة مع ملفات GIF غير المتحركة. تستخدم ملفات APNG نفس امتداد .png ويمكن فتحها بواسطة تطبيقات مثل Mozilla Firefox و Chrome مع دعم APNG وتطبيقات iMessage لنظام التشغيل iOS 10.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -64,16 +64,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="CMX을 ICO로 변환 - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="CMX을 ICO로 변환하는 무료 앱"
         appName="Conversion"
@@ -85,13 +75,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ko/conversion/CMX-to-ICO)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="CMX을 ICO로 변환 - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | CMX">}}
 CMX 확장자를 가진 파일은 CorelSuite 응용 프로그램에서 프레젠테이션으로 사용되는 Corel Exchange 이미지 파일 형식입니다. 여기에는 이미지를 설명하는 메타데이터뿐만 아니라 벡터 그래픽으로 이미지 데이터가 포함됩니다. CMX 파일은 CorelDraw, Corel Presentations, Paint Shop Pro 및 일부 Adobe Illustrator 버전에서 열 수 있습니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | ICO">}}
 ICO 파일 형식은 Microsoft Windows의 컴퓨터 아이콘에 대한 이미지 파일 형식입니다. ICO 파일에는 적절하게 크기를 조정할 수 있도록 여러 크기와 색상 깊이의 하나 이상의 작은 이미지가 포함되어 있습니다. Windows에서 바탕 화면, 시작 메뉴 또는 Windows 탐색기에서 사용자에게 아이콘을 표시하는 모든 실행 파일에는 ICO 형식의 아이콘이 있어야 합니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

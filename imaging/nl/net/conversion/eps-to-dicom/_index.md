@@ -62,16 +62,6 @@ Voordat u de conversievoorbeeldcode uitvoert, moet u ervoor zorgen dat u aan de 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Converteer EPS naar DICOM - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Gratis app om EPS naar DICOM te converteren"
         appName="Conversion"
@@ -83,13 +73,21 @@ Voordat u de conversievoorbeeldcode uitvoert, moet u ervoor zorgen dat u aan de 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/nl/conversion/EPS-to-DICOM)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Converteer EPS naar DICOM - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder | EPS">}}
 Bestanden met de extensie EPS beschrijven in wezen een Encapsulated PostScript-taalprogramma dat het uiterlijk van een enkele pagina beschrijft. De naam "Encapsulated" omdat deze kan worden opgenomen of ingekapseld in een paginabeschrijving van een andere PostScript-taal. Deze op scripts gebaseerde bestandsindeling kan elke combinatie van tekst, afbeeldingen en afbeeldingen bevatten. EPS-bestanden kunnen een voorbeeldafbeelding van een bitmap bevatten die is ingekapseld voor weergave door toepassingen die dergelijke bestanden kunnen openen. EPS-bestanden kunnen worden geconverteerd naar standaard afbeeldingsformaten zoals JPG, PNG, TIFF en PDF met behulp van verschillende toepassingen, b.v. Adobe Illustrator, Photoshop en PaintShop Pro. Vanwege een beveiligingsprobleem in EPS-bestanden hebben Office 2016, Office 2013, Office 2010 en Office 365 de mogelijkheid uitgeschakeld om EPS-bestanden in Office-documenten in te voegen.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder | DICOM">}}
 DICOM is de afkorting voor Digital Imaging and Communications in Medicine en heeft betrekking op het vakgebied Medische Informatica. DICOM is de combinatie van bestandsformaatdefinitie en een netwerkcommunicatieprotocol. DICOM gebruikt de .DCM-extensie. .DCM bestaat in twee verschillende formaten, namelijk formaat 1.x en formaat 2.x. DCM Format 1.x is verder beschikbaar in twee versies normaal en uitgebreid. DICOM wordt gebruikt voor de integratie van medische beeldvormingsapparatuur zoals printers, servers, scanners enz. van verschillende leveranciers en bevat ook identificatiegegevens van elke patiënt voor uniekheid. DICOM-bestanden kunnen tussen twee partijen worden gedeeld als ze beeldgegevens in DICOM-indeling kunnen ontvangen. Het communicatiegedeelte van DICOM is een applicatielaagprotocol en gebruikt TCP/IP om te communiceren tussen entiteiten. Voor de webservices van DICOM worden HTTP- en HTTPS-protocollen gebruikt. Door webservices ondersteunde versies zijn 1.0, 1.1, 2 of hoger.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

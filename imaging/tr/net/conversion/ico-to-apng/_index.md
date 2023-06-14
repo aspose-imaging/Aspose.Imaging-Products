@@ -62,16 +62,6 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="ICO öğesini APNG - .NET biçimine dönüştürün" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="ICO'i APNG'e Dönüştürmek için Ücretsiz Uygulama"
         appName="Conversion"
@@ -83,13 +73,21 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/tr/conversion/ICO-to-APNG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="ICO öğesini APNG - .NET biçimine dönüştürün" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | ICO">}}
 ICO dosya biçimi, Microsoft Windows'taki bilgisayar simgeleri için bir görüntü dosyası biçimidir. ICO dosyaları, uygun şekilde ölçeklendirilebilmeleri için birden fazla boyutta ve renk derinliğinde bir veya daha fazla küçük resim içerir. Windows'ta, masaüstünde, Başlat Menüsü'nde veya Windows Gezgini'nde kullanıcıya bir simge görüntüleyen tüm yürütülebilir dosyalar, simgeyi ICO biçiminde taşımalıdır.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | APNG">}}
 .apng (Animasyonlu Taşınabilir Ağ Grafikleri) uzantılı bir dosya, bir raster grafik biçimidir ve Taşınabilir Ağ Grafiğinin (PNG) resmi olmayan bir uzantısıdır. Bir animasyon dizisini temsil eden birden çok kareden (PNG görüntüsünün her biri) oluşur. Bu, bir GIF dosyasına benzer görselleştirme sağlar. APNG dosyaları 24 bit görüntüleri ve 8 bit şeffaflığı destekler. APNG, animasyonsuz GIF dosyalarıyla geriye dönük olarak uyumludur. APNG dosyaları aynı .png uzantısını kullanır ve Mozilla Firefox, APNG destekli Chrome, iOS 10 için iMessage uygulamaları gibi uygulamalar tarafından açılabilir.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

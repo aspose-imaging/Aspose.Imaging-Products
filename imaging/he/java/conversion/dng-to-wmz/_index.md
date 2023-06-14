@@ -75,16 +75,6 @@ description: קוד לדוגמה עבור המרת Java מ-DNG ל-WMZ. השתמ�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="המר את DNG ל-WMZ - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="אפליקציה חינמית להמרת DNG ל-WMZ"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: קוד לדוגמה עבור המרת Java מ-DNG ל-WMZ. השתמ�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DNG-to-WMZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="המר את DNG ל-WMZ - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | DNG">}}
 DNG הוא פורמט תמונה של מצלמה דיגיטלית המשמש לאחסון קבצי גלם. הוא פותח על ידי אדובי בספטמבר 2004. הוא פותח בעיקרו עבור צילום דיגיטלי. DNG הוא הרחבה של פורמט תקן TIFF/EP ומשתמש במטא נתונים באופן משמעותי. על מנת לתפעל נתונים גולמיים ממצלמות דיגיטליות בקלות גמישות ושליטה אמנותית, צלמים בוחרים בקבצי מצלמה גולמיים. פורמטים JPEG ו-TIFF מאחסנים תמונות המעובדות על ידי המצלמה, ולכן אין הרבה מקום לשינויים בפורמטים כאלה.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | WMZ">}}
 WMZ היא סיומת קובץ עבור פורמט קובץ סקין ב/עבור/בשימוש על ידי Windows Media Player. קובץ WMZ הוא בעצם קובץ WMF דחוס ב-XML.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

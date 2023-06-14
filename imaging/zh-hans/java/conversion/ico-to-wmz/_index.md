@@ -76,16 +76,6 @@ description: ICO 到 WMZ Java 转换的示例代码。在任何基于 Web 或桌
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="将 ICO 转换为 WMZ - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="将 ICO 转换为 WMZ 的免费应用程序"
         appName="Conversion"
@@ -97,13 +87,21 @@ description: ICO 到 WMZ Java 转换的示例代码。在任何基于 Web 或桌
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hans/conversion/ICO-to-WMZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="将 ICO 转换为 WMZ - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | ICO">}}
 ICO 文件格式是 Microsoft Windows 中计算机图标的图像文件格式。 ICO 文件包含一个或多个具有多种尺寸和颜色深度的小图像，以便它们可以适当地缩放。在 Windows 中，在桌面、开始菜单或 Windows 资源管理器中向用户显示图标的所有可执行文件都必须带有 ICO 格式的图标。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | WMZ">}}
 WMZ 是 Windows Media Player 中/用于/使用的皮肤文件格式的文件扩展名。 WMZ 文件基本上是 XML 格式的压缩 WMF 文件。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

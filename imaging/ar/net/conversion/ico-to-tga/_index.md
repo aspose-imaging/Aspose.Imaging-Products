@@ -61,16 +61,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="تحويل ICO إلى TGA - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="تطبيق مجاني لتحويل ICO إلى TGA"
         appName="Conversion"
@@ -82,13 +72,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/ICO-to-TGA)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="تحويل ICO إلى TGA - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | ICO">}}
 تنسيق ملف ICO هو تنسيق ملف صورة لأيقونات الكمبيوتر في Microsoft Windows. تحتوي ملفات ICO على صورة صغيرة واحدة أو أكثر بأحجام وأعماق ألوان متعددة ، بحيث يمكن قياسها بشكل مناسب. في Windows ، يجب أن تحمل جميع الملفات التنفيذية التي تعرض رمزًا للمستخدم أو على سطح المكتب أو في قائمة ابدأ أو في مستكشف Windows الرمز بتنسيق ICO.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | TGA">}}
 Truevision TGA ، الذي يشار إليه غالبًا باسم TARGA ، هو تنسيق ملف رسومات نقطية تم إنشاؤه بواسطة Truevision Inc. (الآن جزء من Avid Technology). كان هذا هو التنسيق الأصلي للوحات TARGA و VISTA ، والتي كانت أول بطاقات رسومية لأجهزة الكمبيوتر المتوافقة مع IBM لدعم عرض Highcolor / truecolor.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

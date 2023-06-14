@@ -75,16 +75,6 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertiere CMX in GIF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Kostenlose App zum Konvertieren von CMX in GIF"
         appName="Conversion"
@@ -96,13 +86,21 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/de/conversion/CMX-to-GIF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertiere CMX in GIF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen | CMX">}}
 Dateien mit der Erweiterung CMX sind Corel Exchange-Bilddateiformate, die von CorelSuite-Anwendungen als Präsentation verwendet werden. Sie enthält Bilddaten als Vektorgrafik sowie Metadaten, die das Bild beschreiben. CMX-Dateien können mit CorelDraw, Corel Presentations, Paint Shop Pro und einigen Versionen von Adobe Illustrator geöffnet werden.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen | GIF">}}
 Ein GIF oder Graphical Interchange Format ist eine Art stark komprimiertes Bild. GIF gehört Unisys und verwendet den LZW-Komprimierungsalgorithmus, der die Bildqualität nicht beeinträchtigt. Für jedes Bild sind in GIF normalerweise bis zu 8 Bit pro Pixel und bis zu 256 Farben im gesamten Bild zulässig. Im Gegensatz zu einem JPEG-Bild, das bis zu 16 Millionen Farben darstellen kann und ziemlich an die Grenzen des menschlichen Auges stößt. Als das Internet aufkam, blieben GIFs die beste Wahl, da sie eine geringe Bandbreite erforderten und für die Grafiken kompatibel waren, die Volltonbereiche verbrauchen. Ein animiertes GIF kombiniert zahlreiche Bilder oder Frames in einer einzigen Datei und zeigt sie in einer Sequenz an, um einen animierten Clip oder ein kurzes Video zu erstellen. Die Farbbeschränkungen betragen bis zu 256 für jedes Bild und sind wahrscheinlich am wenigsten geeignet, um andere Bilder und Fotos mit Farbverlauf zu reproduzieren.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

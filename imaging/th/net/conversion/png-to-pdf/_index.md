@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="แปลง PNG เป็น PDF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="แอปฟรีเพื่อแปลง PNG เป็น PDF"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/PNG-to-PDF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="แปลง PNG เป็น PDF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | PNG">}}
 PNG หรือ Portable Network Graphics หมายถึงรูปแบบไฟล์ภาพแรสเตอร์ชนิดหนึ่งที่ใช้การบีบอัดแบบไม่สูญเสียข้อมูล รูปแบบไฟล์นี้สร้างขึ้นแทน Graphics Interchange Format (GIF) และไม่มีข้อจำกัดด้านลิขสิทธิ์ อย่างไรก็ตาม รูปแบบไฟล์ PNG ไม่รองรับภาพเคลื่อนไหว รูปแบบไฟล์ PNG รองรับการบีบอัดภาพแบบไม่สูญเสียซึ่งทำให้เป็นที่นิยมในหมู่ผู้ใช้ เมื่อเวลาผ่านไป PNG ได้พัฒนาให้เป็นหนึ่งในรูปแบบไฟล์รูปภาพที่ใช้เป็นส่วนใหญ่ ระบบปฏิบัติการเกือบทั้งหมดรองรับการเปิดไฟล์ PNG ตัวอย่างเช่น โปรแกรมแสดง Microsoft Windows มีความสามารถในการเปิดไฟล์ PNG เนื่องจากระบบปฏิบัติการมีการสนับสนุนโดยค่าเริ่มต้นซึ่งเป็นส่วนหนึ่งของการติดตั้ง
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | PDF">}}
 Portable Document Format (PDF) เป็นเอกสารประเภทหนึ่งที่ Adobe สร้างขึ้นในปี 1990 จุดประสงค์ของรูปแบบไฟล์นี้คือการแนะนำมาตรฐานสำหรับการนำเสนอเอกสารและเอกสารอ้างอิงอื่นๆ ในรูปแบบที่ไม่ขึ้นอยู่กับแอพพลิเคชั่นซอฟต์แวร์ ฮาร์ดแวร์ และระบบปฏิบัติการ รูปแบบไฟล์ PDF มีความสามารถเต็มรูปแบบในการใส่ข้อมูล เช่น ข้อความ รูปภาพ ไฮเปอร์ลิงก์ ฟิลด์แบบฟอร์ม สื่อสมบูรณ์ ลายเซ็นดิจิทัล ไฟล์แนบ ข้อมูลเมตา คุณลักษณะเชิงพื้นที่ และวัตถุ 3 มิติในไฟล์ ซึ่งสามารถเป็นส่วนหนึ่งของเอกสารต้นทางได้
         {{< /blocks/products/pf/agp/about-file-text >}}
 

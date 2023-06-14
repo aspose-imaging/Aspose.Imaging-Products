@@ -64,16 +64,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="WEBP을 SVGZ로 변환 - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="WEBP을 SVGZ로 변환하는 무료 앱"
         appName="Conversion"
@@ -85,13 +75,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ko/conversion/WEBP-to-SVGZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="WEBP을 SVGZ로 변환 - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | WEBP">}}
 Google에서 소개한 WebP는 무손실 및 손실 압축을 기반으로 하는 최신 래스터 웹 이미지 파일 형식입니다. 이미지 크기를 크게 줄이면서 동일한 이미지 품질을 제공합니다. 대부분의 웹 페이지는 데이터의 효과적인 표현으로 이미지를 사용하기 때문에 웹 페이지에서 WebP 이미지를 사용하면 웹 페이지를 더 빠르게 로드할 수 있습니다. Google에 따르면 WebP 무손실 이미지는 PNG에 비해 크기가 26% 작으며 WebP 손실 이미지는 유사한 JPEG 이미지보다 25-34% 작습니다. WebP와 다른 이미지 파일 형식 간의 SSIM(구조적 유사성) 인덱스를 기반으로 이미지가 비교됩니다. WebP는 WebM 멀티미디어 컨테이너 형식의 자매 프로젝트입니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | SVGZ">}}
 확장자가 .svgz인 파일은 .SVG(Scalable Vector Graphics) 파일의 압축 버전입니다. gzip 압축으로 압축되며 XML 형식의 데이터를 포함합니다. SVGZ 파일은 투명도, 그라디언트, 애니메이션 및 필터를 지원합니다. SVGZ 파일은 기본 SVG 파일에 비해 크기가 더 작으며 이 축소된 파일 크기는 그래픽 파일을 온라인으로 전송하는 데 도움이 됩니다. 그래픽 디자이너는 Adobe Illustrator, Corel PaintShop Pro 등과 같은 도구를 사용하여 SVGZ 파일을 만듭니다. 그러나 SVGZ 파일은 이미지 데이터를 보내는 동안 Apache Server에서 GZip 압축을 활성화하여 생성할 수 있습니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

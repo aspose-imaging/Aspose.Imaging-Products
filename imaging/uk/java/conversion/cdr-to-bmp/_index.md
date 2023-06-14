@@ -75,16 +75,6 @@ description: Зразок коду для перетворення CDR у BMP Ja
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити CDR на BMP - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення CDR у BMP"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Зразок коду для перетворення CDR у BMP Ja
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/CDR-to-BMP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити CDR на BMP - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | CDR">}}
 Файл CDR — це файл векторного зображення, створений за допомогою CorelDRAW для зберігання цифрових зображень у кодованому та стисненому вигляді. Такий файл малюнка містить текст, лінії, форми, зображення, кольори та ефекти для векторного представлення вмісту зображення. Файли CDR можна відкривати за допомогою CorelDRAW як основної програми, а також конвертувати в інші формати, такі як PDF, JPG, PNG, BMP і AI. Його можна використовувати для представлення різноманітних графічних даних, таких як брошури, таблоїди, конверти та листівки. Крім CorelDRAW, інші продукти Corel, такі як Corel Paintshop Pro і CorelDRAW Graphics suite, також можуть відкривати формати файлів CDR.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | BMP">}}
 Файли з розширенням .BMP представляють файли Bitmap Image, які використовуються для зберігання растрових цифрових зображень. Ці зображення не залежать від графічного адаптера, а також називаються форматом файлу растрового зображення, незалежного від пристрою (DIB). Ця незалежність служить для відкриття файлу на кількох платформах, таких як Microsoft Windows і Mac. Формат файлу BMP може зберігати дані як двовимірні цифрові зображення як у монохромному, так і в кольоровому форматі з різною глибиною кольору.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -75,16 +75,6 @@ description: קוד לדוגמה עבור המרת Java מ-DJVU ל-WEBP. השת�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="המר את DJVU ל-WEBP - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="אפליקציה חינמית להמרת DJVU ל-WEBP"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: קוד לדוגמה עבור המרת Java מ-DJVU ל-WEBP. השת�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DJVU-to-WEBP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="המר את DJVU ל-WEBP - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | DJVU">}}
 DjVu, מבוטא בשם DJVU, הוא פורמט קובץ גרפי המיועד למסמכים וספרים סרוקים במיוחד אלה המכילים שילוב של טקסט, ציורים, תמונות ותצלומים. זה פותח על ידי AT&T Labs. הוא משתמש בטכניקות מרובות כמו הפרדת שכבות תמונה של תמונות טקסט ותמונות רקע, טעינה מתקדמת, קידוד אריתמטי ודחיסה מאבדת עבור תמונות ביטונליות. מכיוון שקובץ DJVU יכול להכיל תמונות צבעוניות דחוסות אך באיכות גבוהה, תצלומים, טקסט וציורים וניתן לשמור אותו בפחות מקום ולכן, הוא משמש באינטרנט כספרים אלקטרוניים, מדריכים, עיתונים, מסמכים עתיקים וכו'.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | WEBP">}}
 WebP, שהוצגה על ידי גוגל, הוא פורמט קובץ תמונה אינטרנטי רסטר מודרני המבוסס על דחיסה נטולת אובדן והפסד. זה מספק את אותה איכות תמונה תוך הקטנה ניכרת של גודל התמונה. מכיוון שרוב דפי האינטרנט משתמשים בתמונות כייצוג יעיל של נתונים, השימוש בתמונות WebP בדפי אינטרנט מביא לטעינה מהירה יותר של דפי אינטרנט. לפי גוגל, תמונות ללא אובדן WebP קטנות ב-26% בהשוואה ל-PNG, בעוד שתמונות עם אובדן WebP קטנות ב-25-34% מתמונות JPEG דומות. השוואת התמונות מבוססת על אינדקס הדמיון המבני (SSIM) בין WebP לפורמטים אחרים של קבצי תמונה. WebP הוא פרויקט אחות של פורמט מיכל מולטימדיה של WebM.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -75,16 +75,6 @@ description: نموذج رمز لـ ODG إلى PSD تحويل Java. استخدم
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="تحويل ODG إلى PSD - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="تطبيق مجاني لتحويل ODG إلى PSD"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: نموذج رمز لـ ODG إلى PSD تحويل Java. استخدم
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/ODG-to-PSD)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="تحويل ODG إلى PSD - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | ODG">}}
 يتم استخدام تنسيق ملف ODG بواسطة تطبيق رسم Apache OpenOffice لتخزين عناصر الرسم كصورة متجهة. وهو يتبع مواصفات تنسيق الملفات المستندة إلى XML الموضحة من قبل تطوير معايير المعلومات الهيكلية (OASIS). يمثل ODG الرسومات كصور متجهة باستخدام النقاط والخطوط والمنحنيات. إلى جانب OpenOffice ، توفر LibreOffice والتطبيقات الأخرى أيضًا دعمًا للعمل مع تنسيق ملف ODG. تشمل التنسيقات الأخرى التي يدعمها OpenOffice ، على سبيل المثال ، ODT و ODF و ODP و ODS.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | PSD">}}
 يمثل PSD ، Photoshop Document ، تنسيق ملف Adobe Photoshop الأصلي المستخدم لتصميم الرسومات وتطويرها. قد تتضمن ملفات PSD طبقات الصورة وطبقات الضبط وأقنعة الطبقة والتعليقات التوضيحية ومعلومات الملف والكلمات الأساسية والعناصر الأخرى الخاصة بـ Photoshop.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

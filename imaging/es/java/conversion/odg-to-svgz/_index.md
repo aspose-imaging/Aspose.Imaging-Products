@@ -75,16 +75,6 @@ Antes de ejecutar el código de ejemplo de conversión, asegúrese de tener los 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convertir ODG a SVGZ - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Aplicación gratuita para convertir ODG a SVGZ"
         appName="Conversion"
@@ -96,13 +86,21 @@ Antes de ejecutar el código de ejemplo de conversión, asegúrese de tener los 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/es/conversion/ODG-to-SVGZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Convertir ODG a SVGZ - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más | ODG">}}
 El formato de archivo ODG es utilizado por la aplicación Draw de Apache OpenOffice para almacenar elementos de dibujo como una imagen vectorial. Sigue las especificaciones de formato de archivo basadas en XML descritas por Advancement of Structural Information Standards (OASIS). ODG representa dibujos como imágenes vectoriales utilizando puntos, líneas y curvas. Además de OpenOffice, LibreOffice y otras aplicaciones también brindan soporte para trabajar con el formato de archivo ODG. Otros formatos compatibles con OpenOffice, por ejemplo, incluyen ODT, ODF, ODP y ODS.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más | SVGZ">}}
 Un archivo con la extensión .svgz es una versión comprimida del archivo Scalable Vector Graphics (.SVG). Está comprimido con compresión gzip y contiene datos en formato XML. Los archivos SVGZ admiten transparencia, degradados, animaciones y filtros. Los archivos SVGZ son más pequeños en comparación con los archivos SVG predeterminados y este tamaño de archivo reducido ayuda a transferir los archivos gráficos en línea. El diseñador de gráficos crea archivos SVGZ utilizando herramientas como Adobe Illustrator, Corel PaintShop Pro y otras. Sin embargo, los archivos SVGZ se pueden generar habilitando la compresión GZip en el servidor Apache mientras se envían los datos de la imagen.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

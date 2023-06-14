@@ -75,16 +75,6 @@ description: Зразок коду для перетворення DJVU у EMZ J
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити DJVU на EMZ - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення DJVU у EMZ"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Зразок коду для перетворення DJVU у EMZ J
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DJVU-to-EMZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити DJVU на EMZ - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | DJVU">}}
 DjVu, що вимовляється як дежавю, — це формат графічних файлів, призначений для відсканованих документів і книг, особливо тих, які містять поєднання тексту, малюнків, зображень і фотографій. Він був розроблений AT&T Labs. Він використовує кілька методів, як-от поділ тексту та фонових зображень шаром зображення, прогресивне завантаження, арифметичне кодування та стиснення з втратами для бітональних зображень. Оскільки файл DJVU може містити стиснуті, але високоякісні кольорові зображення, фотографії, текст і малюнки та може бути збережений у меншому місці, він використовується в Інтернеті як електронні книги, посібники, газети, старовинні документи тощо.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | EMZ">}}
 Файл із розширенням EMZ — це файл стисненого зображення, який більш конкретно називається Windows Compressed Enhanced Metafile
         {{< /blocks/products/pf/agp/about-file-text >}}
 

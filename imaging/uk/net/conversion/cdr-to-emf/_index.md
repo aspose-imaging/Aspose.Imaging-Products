@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити CDR на EMF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення CDR у EMF"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/CDR-to-EMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити CDR на EMF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | CDR">}}
 Файл CDR — це файл векторного зображення, створений за допомогою CorelDRAW для зберігання цифрових зображень у кодованому та стисненому вигляді. Такий файл малюнка містить текст, лінії, форми, зображення, кольори та ефекти для векторного представлення вмісту зображення. Файли CDR можна відкривати за допомогою CorelDRAW як основної програми, а також конвертувати в інші формати, такі як PDF, JPG, PNG, BMP і AI. Його можна використовувати для представлення різноманітних графічних даних, таких як брошури, таблоїди, конверти та листівки. Крім CorelDRAW, інші продукти Corel, такі як Corel Paintshop Pro і CorelDRAW Graphics suite, також можуть відкривати формати файлів CDR.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | EMF">}}
 Розширений формат метафайлів (EMF) зберігає графічні зображення незалежно від пристрою. Метафайли EMF складаються із записів змінної довжини в хронологічному порядку, які можуть відтворити збережене зображення після аналізу на будь-якому пристрої виводу. Ці записи змінної довжини можуть бути визначеннями закритих об’єктів, командами для малювання та властивостями графіки, критичними для точного відтворення зображення. Коли пристрій відкриває метафайл EMF за допомогою власного графічного середовища, пропорції, розміри, кольори та інші графічні властивості оригінального зображення залишаються незмінними незалежно від платформи пристрою, що відкривається.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -63,16 +63,6 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Převést CDR na GIF – .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Bezplatná aplikace pro převod CDR na GIF"
         appName="Conversion"
@@ -84,13 +74,21 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/CDR-to-GIF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Převést CDR na GIF – .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více | CDR">}}
 Soubor CDR je soubor s obrázkem vektorové kresby, který je nativně vytvořen pomocí aplikace CorelDRAW pro ukládání kódovaných a komprimovaných digitálních obrázků. Takový výkresový soubor obsahuje text, čáry, tvary, obrázky, barvy a efekty pro vektorovou reprezentaci obsahu obrázku. Soubory CDR lze otevřít pomocí CorelDRAW jako primární aplikace a lze je také převést do jiných formátů, jako jsou PDF, JPG, PNG, BMP a AI. Lze jej použít pro reprezentaci různých grafických dat, jako jsou brožury, bulvární tiskoviny, obálky a pohlednice. Kromě aplikace CorelDRAW mohou formáty souborů CDR otevřít také další produkty Corel, jako je Corel Paintshop Pro a CorelDRAW Graphics Suite.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více | GIF">}}
 Formát GIF nebo Graphical Interchange Format je typ vysoce komprimovaného obrázku. GIF, vlastněný Unisysem, používá kompresní algoritmus LZW, který nesnižuje kvalitu obrazu. Pro každý obrázek GIF obvykle povoluje až 8 bitů na pixel a v celém obrázku je povoleno až 256 barev. Na rozdíl od obrázku JPEG, který dokáže zobrazit až 16 milionů barev a slušně zasahuje hranice lidského oka. Když se objevil internet, zůstaly GIFy nejlepší volbou, protože vyžadovaly malou šířku pásma a byly kompatibilní s grafikou, která spotřebovává plné barevné plochy. Animovaný GIF kombinuje četné obrázky nebo snímky do jednoho souboru a zobrazuje je v sekvenci, aby vytvořil animovaný klip nebo krátké video. Omezení barev jsou až 256 pro každý snímek a pravděpodobně budou nejméně vhodná pro reprodukci jiných obrázků a fotografií s barevným přechodem.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -75,16 +75,6 @@ ICO को PSD में बदलने के लिए, हम उपयो�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="ICO को PSD में बदलें - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="ICO को PSD में बदलने के लिए नि:शुल्‍क ऐप"
         appName="Conversion"
@@ -96,13 +86,21 @@ ICO को PSD में बदलने के लिए, हम उपयो�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/ICO-to-PSD)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="ICO को PSD में बदलें - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | ICO">}}
 ICO फ़ाइल स्वरूप Microsoft Windows में कंप्यूटर आइकन के लिए एक छवि फ़ाइल स्वरूप है। ICO फाइलों में एक या एक से अधिक छोटी छवियां कई आकारों और रंग गहराई में होती हैं, जैसे कि उन्हें उचित रूप से बढ़ाया जा सकता है। विंडोज़ में, सभी निष्पादन योग्य जो उपयोगकर्ता को एक आइकन प्रदर्शित करते हैं, डेस्कटॉप पर, स्टार्ट मेनू में, या विंडोज एक्सप्लोरर में, आईसीओ प्रारूप में आइकन ले जाना चाहिए।
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | PSD">}}
 PSD, Photoshop Document, Adobe Photoshop के मूल फ़ाइल स्वरूप का प्रतिनिधित्व करता है जिसका उपयोग ग्राफिक्स डिजाइनिंग और विकास के लिए किया जाता है। PSD फ़ाइलों में छवि परतें, समायोजन परतें, परत मास्क, एनोटेशन, फ़ाइल जानकारी, कीवर्ड और अन्य फ़ोटोशॉप-विशिष्ट तत्व शामिल हो सकते हैं।
         {{< /blocks/products/pf/agp/about-file-text >}}
 

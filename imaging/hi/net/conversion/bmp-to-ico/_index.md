@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="BMP को ICO में बदलें - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="BMP को ICO में बदलने के लिए नि:शुल्‍क ऐप"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/BMP-to-ICO)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="BMP को ICO में बदलें - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | BMP">}}
 एक्सटेंशन वाली फ़ाइलें .BMP बिटमैप छवि फ़ाइलों का प्रतिनिधित्व करती हैं जिनका उपयोग बिटमैप डिजिटल छवियों को संग्रहीत करने के लिए किया जाता है। ये चित्र ग्राफिक्स एडेप्टर से स्वतंत्र हैं और इन्हें डिवाइस इंडिपेंडेंट बिटमैप (DIB) फ़ाइल स्वरूप भी कहा जाता है। यह स्वतंत्रता माइक्रोसॉफ्ट विंडोज और मैक जैसे कई प्लेटफार्मों पर फ़ाइल खोलने के उद्देश्य से कार्य करती है। बीएमपी फ़ाइल प्रारूप डेटा को दो-आयामी डिजिटल छवियों के रूप में मोनोक्रोम के साथ-साथ विभिन्न रंग गहराई के साथ रंग प्रारूप में संग्रहीत कर सकता है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | ICO">}}
 ICO फ़ाइल स्वरूप Microsoft Windows में कंप्यूटर आइकन के लिए एक छवि फ़ाइल स्वरूप है। ICO फाइलों में एक या एक से अधिक छोटी छवियां कई आकारों और रंग गहराई में होती हैं, जैसे कि उन्हें उचित रूप से बढ़ाया जा सकता है। विंडोज़ में, सभी निष्पादन योग्य जो उपयोगकर्ता को एक आइकन प्रदर्शित करते हैं, डेस्कटॉप पर, स्टार्ट मेनू में, या विंडोज एक्सप्लोरर में, आईसीओ प्रारूप में आइकन ले जाना चाहिए।
         {{< /blocks/products/pf/agp/about-file-text >}}
 

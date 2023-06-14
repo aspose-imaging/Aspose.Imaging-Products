@@ -75,16 +75,6 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Chuyển đổi ODG thành WMZ - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Ứng dụng miễn phí để chuyển đổi ODG thành WMZ"
         appName="Conversion"
@@ -96,13 +86,21 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/vi/conversion/ODG-to-WMZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Chuyển đổi ODG thành WMZ - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm | ODG">}}
 Định dạng tệp ODG được ứng dụng Draw của Apache OpenOffice sử dụng để lưu trữ các phần tử bản vẽ dưới dạng hình ảnh vectơ. Nó tuân theo các đặc tả định dạng tệp dựa trên XML được nêu ra bởi Sự Tiến bộ của Tiêu chuẩn Thông tin Cấu trúc (OASIS). ODG biểu diễn bản vẽ dưới dạng hình ảnh vectơ sử dụng các điểm, đường thẳng và đường cong. Bên cạnh OpenOffice, LibreOffice và các ứng dụng khác cũng cung cấp hỗ trợ làm việc với định dạng tệp ODG. Các định dạng khác được OpenOffice hỗ trợ, chẳng hạn, bao gồm ODT, ODF, ODP và ODS.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm | WMZ">}}
 WMZ là một phần mở rộng tệp cho định dạng tệp da trong / cho / được sử dụng bởi Windows Media Player. Tệp WMZ về cơ bản là một tệp WMF được nén trong XML.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

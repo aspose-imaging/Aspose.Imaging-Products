@@ -75,16 +75,6 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertiere DICOM in J2K - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Kostenlose App zum Konvertieren von DICOM in J2K"
         appName="Conversion"
@@ -96,13 +86,21 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/de/conversion/DICOM-to-J2K)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertiere DICOM in J2K - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen | DICOM">}}
 DICOM ist die Abkürzung für Digital Imaging and Communications in Medicine und gehört zum Gebiet der Medizinischen Informatik. DICOM ist die Kombination aus Dateiformatdefinition und einem Netzwerkkommunikationsprotokoll. DICOM verwendet die Erweiterung .DCM. .DCM gibt es in zwei verschiedenen Formaten, nämlich Format 1.x und Format 2.x. Das DCM-Format 1.x ist weiterhin in zwei Versionen normal und erweitert verfügbar. DICOM wird für die Integration von medizinischen Bildgebungsgeräten wie Druckern, Servern, Scannern usw. verschiedener Anbieter verwendet und enthält auch Identifikationsdaten jedes Patienten zur Eindeutigkeit. DICOM-Dateien können zwischen zwei Parteien geteilt werden, wenn sie in der Lage sind, Bilddaten im DICOM-Format zu empfangen. Der Kommunikationsteil von DICOM ist ein Anwendungsschichtprotokoll und verwendet TCP/IP zur Kommunikation zwischen Entitäten. Für die Webdienste von DICOM werden HTTP- und HTTPS-Protokolle verwendet. Von Webdiensten unterstützte Versionen sind 1.0, 1.1, 2 oder höher.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen | J2K">}}
 Eine J2K-Datei ist ein Bild, das mit der Wavelet-Komprimierung anstelle der DCT-Komprimierung komprimiert wird.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

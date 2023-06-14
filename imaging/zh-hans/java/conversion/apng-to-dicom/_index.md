@@ -76,16 +76,6 @@ description: APNG 到 DICOM Java 转换的示例代码。在任何基于 Web 或
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="将 APNG 转换为 DICOM - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="将 APNG 转换为 DICOM 的免费应用程序"
         appName="Conversion"
@@ -97,13 +87,21 @@ description: APNG 到 DICOM Java 转换的示例代码。在任何基于 Web 或
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hans/conversion/APNG-to-DICOM)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="将 APNG 转换为 DICOM - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | APNG">}}
 具有 .apng（动画便携式网络图形）扩展名的文件是一种光栅图形格式，是便携式网络图形 (PNG) 的非官方扩展名。它由表示动画序列的多个帧（每个 PNG 图像）组成。这提供了与 GIF 文件类似的可视化效果。 APNG 文件支持 24 位图像和 8 位透明度。 APNG 向后兼容非动画 GIF 文件。 APNG 文件使用相同的 .png 扩展名，可以由 Mozilla Firefox、支持 APNG 的 Chrome、iOS 10 的 iMessage 应用程序等应用程序打开。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | DICOM">}}
 DICOM 是 Digital Imaging and Communications in Medicine 的首字母缩写词，属于医学信息学领域。 DICOM 是文件格式定义和网络通信协议的结合。 DICOM 使用 .DCM 扩展名。 .DCM 以两种不同的格式存在，即格式 1.x 和格式 2.x。 DCM Format 1.x 还提供了两个普通版本和扩展版本。 DICOM 用于集成来自不同供应商的打印机、服务器、扫描仪等医疗成像设备，还包含每个患者的唯一识别数据。如果 DICOM 文件能够接收 DICOM 格式的图像数据，则它们可以在两方之间共享。 DICOM的通信部分是应用层协议，实体之间使用TCP/IP进行通信。 HTTP 和 HTTPS 协议用于 DICOM 的 Web 服务。 Web 服务支持的版本是 1.0、1.1、2 或更高版本。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

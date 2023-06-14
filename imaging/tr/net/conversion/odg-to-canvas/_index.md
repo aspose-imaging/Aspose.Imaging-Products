@@ -62,16 +62,6 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="ODG öğesini CANVAS - .NET biçimine dönüştürün" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="ODG'i CANVAS'e Dönüştürmek için Ücretsiz Uygulama"
         appName="Conversion"
@@ -83,13 +73,21 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/tr/conversion/ODG-to-CANVAS)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="ODG öğesini CANVAS - .NET biçimine dönüştürün" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | ODG">}}
 ODG dosya formatı, çizim öğelerini bir vektör görüntüsü olarak depolamak için Apache OpenOffice'in Draw uygulaması tarafından kullanılır. Yapısal Bilgi Standartlarının Geliştirilmesi (OASIS) tarafından özetlenen XML tabanlı dosya formatı özelliklerini takip eder. ODG, çizimleri noktalar, çizgiler ve eğriler kullanarak vektör görüntüleri olarak temsil eder. OpenOffice'in yanı sıra, LibreOffice ve diğer uygulamalar da ODG dosya formatı ile çalışmak için destek sağlar. Örneğin OpenOffice tarafından desteklenen diğer biçimler arasında ODT, ODF, ODP ve ODS bulunur.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CANVAS" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CANVAS" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | CANVAS">}}
 HTML (Hyper Text Markup Language), tarayıcılarda görüntülenmek üzere oluşturulmuş web sayfalarının uzantısıdır. Web'in dili olarak bilinen HTML, web sayfalarının bir parçası olarak görüntülenecek yeni bilgi gereksinimlerinin gereksinimleriyle gelişmiştir. En son varyant, dille çalışmak için çok fazla esneklik sağlayan HTML 5 olarak bilinir. HTML sayfaları, barındırıldığı sunucudan alınır veya yerel sistemden de yüklenebilir. Her HTML sayfası, formlar, metinler, resimler, animasyonlar, bağlantılar vb. gibi HTML öğelerinden oluşur. Bu öğeler, img, a, p gibi etiketlerle ve her etiketin başladığı ve bittiği diğer birkaç etiketle temsil edilir. Ayrıca, genel düzen gösterimi için JavaScript ve Stil Sayfaları (CSS) gibi komut dosyası dillerinde yazılmış uygulamaları da gömebilir.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

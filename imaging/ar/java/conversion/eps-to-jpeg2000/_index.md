@@ -75,16 +75,6 @@ description: نموذج رمز لـ EPS إلى JPEG2000 تحويل Java. است�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="تحويل EPS إلى JPEG2000 - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="تطبيق مجاني لتحويل EPS إلى JPEG2000"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: نموذج رمز لـ EPS إلى JPEG2000 تحويل Java. است�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/EPS-to-JPEG2000)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="تحويل EPS إلى JPEG2000 - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | EPS">}}
 تصف الملفات ذات امتداد EPS بشكل أساسي برنامج لغة Encapsulated PostScript يصف مظهر صفحة واحدة. الاسم "مغلف" لأنه يمكن تضمينه أو تغليفه في وصف صفحة أخرى بلغة PostScript. قد يحتوي تنسيق الملف المستند إلى البرنامج النصي على أي مجموعة من النصوص والرسومات والصور. قد تتضمن ملفات EPS صورة معاينة نقطية مغلفة بالداخل لعرضها بواسطة التطبيقات التي يمكنها فتح مثل هذه الملفات. يمكن تحويل ملفات EPS إلى تنسيقات صور قياسية مثل JPG و PNG و TIFF و PDF باستخدام تطبيقات مختلفة مثل Adobe Illustrator و Photoshop و PaintShop Pro. نظرًا لوجود ثغرة أمنية في ملفات EPS ، فقد أوقف Office 2016 و Office 2013 و Office 2010 و Office 365 القدرة على إدراج ملفات EPS في مستندات Office.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | JPEG2000">}}
 JPEG 2000 (JP2) هو نظام ترميز للصور وأحدث معايير ضغط الصور. تم تصميمه باستخدام تقنية wavelet ويمكن لـ JPEG 2000 ترميز المحتوى غير المفقود بأي جودة في وقت واحد. علاوة على ذلك ، بدون أي عقوبة كبيرة في كفاءة التشفير ، فإن JPEG 2000 لديها القدرة على الوصول وفك تشفير نفس المحتوى بشكل فعال إلى مجموعة متنوعة من القرارات والصفات الأخرى. تدفقات الشفرة في JPEG 2000 قابلة للتطوير بشكل كبير ولها مناطق اهتمام توفر تسهيلات للوصول العشوائي المكاني. امتلاك ما يصل إلى 16384 مكونًا متنوعًا بأبعاد تيرابكسل ودقة يمكن أن تصل إلى 38 بت / عينة.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

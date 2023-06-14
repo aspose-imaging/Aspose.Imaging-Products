@@ -75,16 +75,6 @@ description: نموذج رمز لـ DNG إلى DXF تحويل Java. استخدم
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="تحويل DNG إلى DXF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="تطبيق مجاني لتحويل DNG إلى DXF"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: نموذج رمز لـ DNG إلى DXF تحويل Java. استخدم
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DNG-to-DXF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="تحويل DNG إلى DXF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | DNG">}}
 DNG هو تنسيق صورة كاميرا رقمية يستخدم لتخزين الملفات الأولية. تم تطويره بواسطة Adobe في سبتمبر 2004. تم تطويره بشكل أساسي للتصوير الرقمي. DNG هو امتداد لتنسيق TIFF / EP القياسي ويستخدم البيانات الوصفية بشكل كبير. من أجل معالجة البيانات الأولية من الكاميرات الرقمية بسهولة المرونة والتحكم الفني ، يختار المصورون الملفات الأولية للكاميرا. تخزن تنسيقات JPEG و TIFF الصور التي تتم معالجتها بواسطة الكاميرا ، وبالتالي لا يتوفر مجال كبير للتغيير في مثل هذه التنسيقات.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | DXF">}}
 DXF ، أو تنسيق تبادل الرسم ، أو تنسيق تبادل الرسم ، هو تمثيل بيانات ذو علامات لملف رسم AutoCAD. يحتوي كل عنصر في الملف على رقم بادئة صحيح يسمى رمز المجموعة. يمثل رمز المجموعة هذا العنصر الذي يليه ويشير إلى معنى عنصر البيانات لنوع كائن معين. يتيح DXF تمثيل جميع المعلومات المحددة من قبل المستخدم تقريبًا في ملف الرسم.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

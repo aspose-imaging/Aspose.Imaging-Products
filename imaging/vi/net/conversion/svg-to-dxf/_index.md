@@ -62,16 +62,6 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Chuyển đổi SVG thành DXF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Ứng dụng miễn phí để chuyển đổi SVG thành DXF"
         appName="Conversion"
@@ -83,13 +73,21 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/vi/conversion/SVG-to-DXF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Chuyển đổi SVG thành DXF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm | SVG">}}
 Tệp SVG là Tệp Đồ họa Vectơ có thể mở rộng sử dụng định dạng văn bản dựa trên XML để mô tả sự xuất hiện của hình ảnh. Từ Scalable đề cập đến thực tế là SVG có thể được thu nhỏ thành các kích thước khác nhau mà không làm giảm chất lượng. Mô tả dựa trên văn bản của các tệp như vậy làm cho chúng độc lập với độ phân giải. Nó là một trong những định dạng được sử dụng nhiều nhất để xây dựng trang web và đồ họa in nhằm đạt được khả năng mở rộng. Tuy nhiên, định dạng này chỉ có thể được sử dụng cho đồ họa hai chiều. Các tệp SVG có thể được xem / mở trong hầu hết các trình duyệt hiện đại bao gồm Chrome, Internet Explorer, Firefox và Safari.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm | DXF">}}
 DXF, Định dạng Trao đổi Bản vẽ, hoặc Định dạng Trao đổi Bản vẽ, là một biểu diễn dữ liệu được gắn thẻ của tệp bản vẽ AutoCAD. Mỗi phần tử trong tệp có một số nguyên tiền tố được gọi là mã nhóm. Mã nhóm này thực sự đại diện cho phần tử theo sau và cho biết ý nghĩa của phần tử dữ liệu đối với một kiểu đối tượng nhất định. DXF làm cho nó có thể biểu diễn hầu hết tất cả thông tin do người dùng chỉ định trong một tệp bản vẽ.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

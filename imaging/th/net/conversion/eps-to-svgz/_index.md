@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="แปลง EPS เป็น SVGZ - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="แอปฟรีเพื่อแปลง EPS เป็น SVGZ"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/EPS-to-SVGZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="แปลง EPS เป็น SVGZ - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | EPS">}}
 ไฟล์ที่มีนามสกุล EPS จะอธิบายโปรแกรมภาษา PostScript แบบห่อหุ้มที่อธิบายลักษณะที่ปรากฏของหน้าเดียว ชื่อ "Encapsulated" เนื่องจากสามารถรวมหรือห่อหุ้มไว้ในคำอธิบายหน้าภาษา PostScript อื่นได้ รูปแบบไฟล์ที่ใช้สคริปต์นี้อาจมีข้อความ กราฟิก และรูปภาพผสมกัน ไฟล์ EPS อาจมีภาพตัวอย่างบิตแมปที่ห่อหุ้มไว้ด้านในเพื่อแสดงโดยแอปพลิเคชันที่สามารถเปิดไฟล์ดังกล่าวได้ ไฟล์ EPS สามารถแปลงเป็นรูปแบบภาพมาตรฐานได้ เช่น JPG, PNG, TIFF และ PDF โดยใช้แอปพลิเคชันต่างๆ เช่น Adobe Illustrator, Photoshop และ PaintShop Pro เนื่องจากช่องโหว่ด้านความปลอดภัยในไฟล์ EPS Office 2016, Office 2013, Office 2010 และ Office 365 ได้ปิดความสามารถในการแทรกไฟล์ EPS ลงในเอกสาร Office
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | SVGZ">}}
 ไฟล์ที่มีนามสกุล .svgz คือไฟล์ Scalable Vector Graphics (.SVG) เวอร์ชันบีบอัด มันถูกบีบอัดด้วยการบีบอัด gzip และมีข้อมูลในรูปแบบ XML ไฟล์ SVGZ รองรับความโปร่งใส การไล่ระดับสี ภาพเคลื่อนไหว และตัวกรอง ไฟล์ SVGZ มีขนาดเล็กกว่าเมื่อเปรียบเทียบกับไฟล์ SVG เริ่มต้น และขนาดไฟล์ที่ลดลงนี้ช่วยโอนไฟล์กราฟิกออนไลน์ นักออกแบบกราฟิกสร้างไฟล์ SVGZ โดยใช้เครื่องมือต่างๆ เช่น Adobe Illustrator, Corel PaintShop Pro และอื่นๆ อย่างไรก็ตาม ไฟล์ SVGZ สามารถสร้างได้ด้วยการเปิดใช้งานการบีบอัด GZip ในเซิร์ฟเวอร์ Apache ในขณะที่ส่งข้อมูลภาพออกไป
         {{< /blocks/products/pf/agp/about-file-text >}}
 

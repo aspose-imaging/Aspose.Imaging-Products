@@ -63,16 +63,6 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertiere OTG in PNG - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Kostenlose App zum Konvertieren von OTG in PNG"
         appName="Conversion"
@@ -84,13 +74,21 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/de/conversion/OTG-to-PNG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertiere OTG in PNG - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen | OTG">}}
 Eine OTG-Datei ist eine Zeichnungsvorlage, die mit dem OpenDocument-Standard erstellt wird, der der OASIS Office Applications 1.0-Spezifikation folgt. Es stellt die Standardorganisation von Zeichnungselementen für ein Vektorbild dar, das verwendet werden kann, um den Inhalt der Datei weiter zu verbessern.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen | PNG">}}
 PNG, Portable Network Graphics, bezieht sich auf eine Art Rasterbilddateiformat, das verlustfreie Komprimierung verwendet. Dieses Dateiformat wurde als Ersatz für das Graphics Interchange Format (GIF) erstellt und unterliegt keinen Urheberrechtsbeschränkungen. Das PNG-Dateiformat unterstützt jedoch keine Animationen. Das PNG-Dateiformat unterstützt die verlustfreie Bildkomprimierung, was es bei seinen Benutzern beliebt macht. Im Laufe der Zeit hat sich PNG zu einem der am häufigsten verwendeten Bilddateiformate entwickelt. Fast alle Betriebssysteme unterstützen das Öffnen von PNG-Dateien. Zum Beispiel hat der Microsoft Windows-Viewer die Fähigkeit, PNG-Dateien zu öffnen, da das Betriebssystem standardmäßig die Unterstützung bietet, die als Teil der Installation verfügbar ist.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

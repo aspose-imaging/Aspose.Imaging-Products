@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="WMZ को EMF में बदलें - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="WMZ को EMF में बदलने के लिए नि:शुल्‍क ऐप"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/WMZ-to-EMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="WMZ को EMF में बदलें - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | WMZ">}}
 WMZ विंडोज मीडिया प्लेयर में/के लिए/इस्तेमाल किए जाने वाले स्किन फाइल फॉर्मेट के लिए एक फाइल एक्सटेंशन है। WMZ फ़ाइल मूल रूप से XML में ज़िप की गई WMF फ़ाइल है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | EMF">}}
 एन्हांस्ड मेटाफाइल फॉर्मेट (EMF) ग्राफिकल इमेज को डिवाइस-स्वतंत्र रूप से स्टोर करता है। ईएमएफ के मेटाफाइल में कालानुक्रमिक क्रम में चर-लंबाई के रिकॉर्ड शामिल होते हैं जो किसी भी आउटपुट डिवाइस पर पार्स करने के बाद संग्रहीत छवि को प्रस्तुत कर सकते हैं। ये चर-लंबाई के रिकॉर्ड संलग्न वस्तुओं की परिभाषा, ड्राइंग के लिए कमांड और छवि को सटीक रूप से प्रस्तुत करने के लिए महत्वपूर्ण ग्राफिक्स गुण हो सकते हैं। जब कोई उपकरण अपने स्वयं के ग्राफिक्स वातावरण का उपयोग करके एक EMF मेटाफ़ाइल खोलता है, तो मूल छवि के अनुपात, आयाम, रंग और अन्य ग्राफिक गुण समान रहते हैं, भले ही शुरुआती डिवाइस प्लेटफ़ॉर्म कुछ भी हो।
         {{< /blocks/products/pf/agp/about-file-text >}}
 

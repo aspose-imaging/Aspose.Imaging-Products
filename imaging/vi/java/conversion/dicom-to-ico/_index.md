@@ -75,16 +75,6 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Chuyển đổi DICOM thành ICO - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Ứng dụng miễn phí để chuyển đổi DICOM thành ICO"
         appName="Conversion"
@@ -96,13 +86,21 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/vi/conversion/DICOM-to-ICO)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Chuyển đổi DICOM thành ICO - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm | DICOM">}}
 DICOM là từ viết tắt của Digital Imaging and Communications in Medicine, liên quan đến lĩnh vực Tin học Y tế. DICOM là sự kết hợp giữa định nghĩa định dạng tệp và một giao thức truyền thông mạng. DICOM sử dụng phần mở rộng .DCM. .DCM tồn tại ở hai định dạng khác nhau, tức là định dạng 1.x và định dạng 2.x. Định dạng DCM 1.x còn có sẵn trong hai phiên bản bình thường và mở rộng. DICOM được sử dụng để tích hợp các thiết bị hình ảnh y tế như máy in, máy chủ, máy quét, v.v. từ các nhà cung cấp khác nhau và cũng chứa dữ liệu nhận dạng của từng bệnh nhân để tạo tính duy nhất. Các tệp DICOM có thể được chia sẻ giữa hai bên nếu họ có khả năng nhận dữ liệu hình ảnh ở định dạng DICOM. Phần giao tiếp của DICOM là giao thức lớp ứng dụng và sử dụng TCP / IP để giao tiếp giữa các thực thể. Các giao thức HTTP và HTTPS được sử dụng cho các dịch vụ web của DICOM. Các phiên bản được hỗ trợ bởi các dịch vụ web là 1.0, 1.1, 2 hoặc mới hơn.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm | ICO">}}
 Định dạng tệp ICO là định dạng tệp hình ảnh cho các biểu tượng máy tính trong Microsoft Windows. Các tệp ICO chứa một hoặc nhiều hình ảnh nhỏ ở nhiều kích thước và độ sâu màu, để chúng có thể được chia tỷ lệ thích hợp. Trong Windows, tất cả các tệp thực thi hiển thị biểu tượng cho người dùng, trên màn hình nền, trong Menu Bắt đầu hoặc trong Windows Explorer, phải mang biểu tượng ở định dạng ICO.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

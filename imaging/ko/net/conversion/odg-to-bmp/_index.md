@@ -64,16 +64,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="ODG을 BMP로 변환 - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="ODG을 BMP로 변환하는 무료 앱"
         appName="Conversion"
@@ -85,13 +75,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ko/conversion/ODG-to-BMP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="ODG을 BMP로 변환 - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | ODG">}}
 ODG 파일 형식은 Apache OpenOffice의 그리기 응용 프로그램에서 그리기 요소를 벡터 이미지로 저장하는 데 사용됩니다. OASIS(구조 정보 표준의 발전)에서 설명한 XML 기반 파일 형식 사양을 따릅니다. ODG는 점, 선 및 곡선을 사용하여 도면을 벡터 이미지로 나타냅니다. OpenOffice 외에도 LibreOffice 및 기타 응용 프로그램은 ODG 파일 형식 작업을 지원합니다. 예를 들어 OpenOffice에서 지원하는 다른 형식에는 ODT, ODF, ODP 및 ODS가 있습니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | BMP">}}
 확장자가 .BMP인 파일은 비트맵 디지털 이미지를 저장하는 데 사용되는 비트맵 이미지 파일을 나타냅니다. 이러한 이미지는 그래픽 어댑터와 무관하며 DIB(장치 독립 비트맵) 파일 형식이라고도 합니다. 이 독립성은 Microsoft Windows 및 Mac과 같은 여러 플랫폼에서 파일을 여는 목적을 제공합니다. BMP 파일 형식은 데이터를 흑백 및 다양한 색상 깊이의 색상 형식으로 2차원 디지털 이미지로 저장할 수 있습니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

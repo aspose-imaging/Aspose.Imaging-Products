@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити ODG на JPEG2000 - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення ODG у JPEG2000"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/ODG-to-JPEG2000)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити ODG на JPEG2000 - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | ODG">}}
 Формат файлу ODG використовується програмою Draw Apache OpenOffice для зберігання елементів малюнка у вигляді векторного зображення. Він відповідає специфікаціям формату файлів на основі XML, викладеним Стандартами вдосконалення структурної інформації (OASIS). ODG представляє малюнки як векторні зображення за допомогою точок, ліній і кривих. Крім OpenOffice, LibreOffice та інші програми також надають підтримку для роботи з форматом файлу ODG. Інші формати, які підтримує OpenOffice, наприклад, включають ODT, ODF, ODP і ODS.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | JPEG2000">}}
 JPEG 2000 (JP2) — це система кодування зображень і сучасний стандарт стиснення зображень. Розроблений із використанням вейвлет-технології JPEG 2000 може кодувати вміст без втрат у будь-якій якості одночасно. Крім того, без суттєвого зниження ефективності кодування JPEG 2000 має можливість отримувати доступ і ефективно декодувати той самий вміст у різні інші роздільності та якості. Потоки коду в JPEG 2000 є значно масштабованими, маючи області інтересу, які забезпечують можливість просторового довільного доступу. Має до 16384 різноманітних компонентів із розмірами в терапікселях і точністю до 38 біт/зразок.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

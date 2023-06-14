@@ -75,16 +75,6 @@ WMF को J2K में बदलने के लिए, हम उपयो�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="WMF को J2K में बदलें - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="WMF को J2K में बदलने के लिए नि:शुल्‍क ऐप"
         appName="Conversion"
@@ -96,13 +86,21 @@ WMF को J2K में बदलने के लिए, हम उपयो�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/WMF-to-J2K)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="WMF को J2K में बदलें - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | WMF">}}
 WMF एक्सटेंशन वाली फाइलें वेक्टर के साथ-साथ बिटमैप-फॉर्मेट इमेज डेटा को स्टोर करने के लिए माइक्रोसॉफ्ट विंडोज मेटाफाइल (WMF) का प्रतिनिधित्व करती हैं। अधिक सटीक होने के लिए, WMF ग्राफ़िक्स फ़ाइल स्वरूपों की वेक्टर फ़ाइल स्वरूप श्रेणी से संबंधित है जो डिवाइस स्वतंत्र है। विंडोज ग्राफिकल डिवाइस इंटरफेस (जीडीआई) स्क्रीन पर एक छवि प्रदर्शित करने के लिए डब्लूएमएफ फाइल में संग्रहीत कार्यों का उपयोग करता है। WMF का एक अधिक उन्नत संस्करण, जिसे एन्हांस्ड मेटा फाइल्स (EMF) के रूप में जाना जाता है, बाद में प्रकाशित किया गया था जो प्रारूप को अधिक सुविधा संपन्न बनाता है। व्यावहारिक रूप से, WMF SVG के समान हैं।
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | J2K">}}
 J2K फ़ाइल एक ऐसी छवि है जिसे DCT संपीड़न के बजाय तरंगिका संपीड़न का उपयोग करके संपीड़ित किया जाता है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -64,16 +64,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="ICO을 JPG로 변환 - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="ICO을 JPG로 변환하는 무료 앱"
         appName="Conversion"
@@ -85,13 +75,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ko/conversion/ICO-to-JPG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="ICO을 JPG로 변환 - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | ICO">}}
 ICO 파일 형식은 Microsoft Windows의 컴퓨터 아이콘에 대한 이미지 파일 형식입니다. ICO 파일에는 적절하게 크기를 조정할 수 있도록 여러 크기와 색상 깊이의 하나 이상의 작은 이미지가 포함되어 있습니다. Windows에서 바탕 화면, 시작 메뉴 또는 Windows 탐색기에서 사용자에게 아이콘을 표시하는 모든 실행 파일에는 ICO 형식의 아이콘이 있어야 합니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | JPG">}}
 JPEG는 손실 압축 방법을 사용하여 저장되는 이미지 형식 유형입니다. 압축의 결과로 출력 이미지는 저장 크기와 이미지 품질 사이의 절충안입니다. 사용자는 압축 수준을 조정하여 원하는 품질 수준을 달성하는 동시에 저장 크기를 줄일 수 있습니다. 이미지에 10:1 압축을 적용하면 이미지 품질에 거의 영향을 미치지 않습니다. 압축 값이 높을수록 화질 저하가 커집니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

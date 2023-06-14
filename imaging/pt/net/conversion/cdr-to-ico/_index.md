@@ -64,16 +64,6 @@ Antes de executar o código de exemplo de conversão, verifique se você tem os 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Converter {Formato1} para {Formato2} - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Aplicativo gratuito para converter CDR para ICO"
         appName="Conversion"
@@ -85,13 +75,21 @@ Antes de executar o código de exemplo de conversão, verifique se você tem os 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/pt/conversion/CDR-to-ICO)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Converter {Formato1} para {Formato2} - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação | CDR">}}
 Um arquivo CDR é um arquivo de imagem de desenho vetorial criado nativamente com o CorelDRAW para armazenar imagens digitais codificadas e compactadas. Esse arquivo de desenho contém texto, linhas, formas, imagens, cores e efeitos para representação vetorial do conteúdo da imagem. Os arquivos CDR podem ser abertos com o CorelDRAW como aplicativo principal e também podem ser convertidos para outros formatos, como PDF, JPG, PNG, BMP e AI. Ele pode ser usado para representação de vários dados gráficos, como brochuras, tablóides, envelopes e cartões postais. Além do CorelDRAW, outros produtos Corel, como o Corel Paintshop Pro e o CorelDRAW Graphics Suite, também podem abrir os formatos de arquivo CDR.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação | ICO">}}
 O formato de arquivo ICO é um formato de arquivo de imagem para ícones de computador no Microsoft Windows. Os arquivos ICO contêm uma ou mais imagens pequenas em vários tamanhos e profundidades de cor, para que possam ser dimensionadas adequadamente. No Windows, todos os executáveis ​​que exibem um ícone para o usuário, na área de trabalho, no menu Iniciar ou no Windows Explorer, devem carregar o ícone no formato ICO.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

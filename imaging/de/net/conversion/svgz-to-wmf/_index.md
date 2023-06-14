@@ -63,16 +63,6 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertiere SVGZ in WMF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Kostenlose App zum Konvertieren von SVGZ in WMF"
         appName="Conversion"
@@ -84,13 +74,21 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/de/conversion/SVGZ-to-WMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertiere SVGZ in WMF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen | SVGZ">}}
 Eine Datei mit der Erweiterung .svgz ist eine komprimierte Version der Datei Scalable Vector Graphics (.SVG). Es ist mit gzip-Komprimierung komprimiert und enthält Daten im XML-Format. SVGZ-Dateien unterstützen Transparenz, Farbverläufe, Animationen und Filter. SVGZ-Dateien sind im Vergleich zu den Standard-SVG-Dateien kleiner und diese reduzierte Dateigröße hilft, die Grafikdateien online zu übertragen. Grafikdesigner erstellen SVGZ-Dateien mit Tools wie Adobe Illustrator, Corel PaintShop Pro und anderen. SVGZ-Dateien können jedoch generiert werden, indem die GZip-Komprimierung im Apache-Server aktiviert wird, während die Bilddaten gesendet werden.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen | WMF">}}
 Dateien mit der Erweiterung WMF stellen Microsoft Windows Metafile (WMF) zum Speichern von Bilddaten im Vektor- und Bitmap-Format dar. Genauer gesagt gehört WMF zur Kategorie der Vektordateiformate der Grafikdateiformate, die geräteunabhängig ist. Windows Graphical Device Interface (GDI) verwendet die in einer WMF-Datei gespeicherten Funktionen, um ein Bild auf dem Bildschirm anzuzeigen. Eine erweiterte Version von WMF, bekannt als Enhanced Meta Files (EMF), wurde später veröffentlicht, wodurch das Format funktionsreicher wird. In der Praxis ähneln WMF SVG.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

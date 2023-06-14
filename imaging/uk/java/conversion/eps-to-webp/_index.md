@@ -75,16 +75,6 @@ description: Зразок коду для перетворення EPS у WEBP J
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити EPS на WEBP - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення EPS у WEBP"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Зразок коду для перетворення EPS у WEBP J
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/EPS-to-WEBP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити EPS на WEBP - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | EPS">}}
 Файли з розширенням EPS по суті описують програму на мові Encapsulated PostScript, яка описує зовнішній вигляд однієї сторінки. Назва «Інкапсульований», оскільки її можна включити або інкапсулювати в опис сторінки іншою мовою PostScript. Цей формат файлу на основі сценарію може містити будь-яку комбінацію тексту, графіки та зображень. Файли EPS можуть містити растрове зображення попереднього перегляду, інкапсульоване всередину для відображення програмами, які можуть відкривати такі файли. Файли EPS можна конвертувати в стандартні формати зображень, такі як JPG, PNG, TIFF і PDF, за допомогою різних програм, напр. Adobe Illustrator, Photoshop і PaintShop Pro. Через вразливість у безпеці файлів EPS Office 2016, Office 2013, Office 2010 і Office 365 вимкнули можливість вставляти файли EPS у документи Office.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | WEBP">}}
 WebP, представлений компанією Google, — це сучасний растровий формат файлів веб-зображень, який базується на стисненні без втрат і з втратами. Він забезпечує таку саму якість зображення при значному зменшенні розміру зображення. Оскільки більшість веб-сторінок використовують зображення як ефективне представлення даних, використання зображень WebP на веб-сторінках призводить до швидшого завантаження веб-сторінок. За даними Google, зображення WebP без втрат на 26% менші за розмір порівняно з PNG, а зображення WebP із втратами на 25-34% менші за порівняльні зображення JPEG. Зображення порівнюються на основі індексу структурної подібності (SSIM) між WebP та іншими форматами файлів зображень. WebP є дочірнім проектом формату мультимедійного контейнера WebM.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

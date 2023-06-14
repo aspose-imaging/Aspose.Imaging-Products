@@ -62,16 +62,6 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="EMF öğesini ICO - .NET biçimine dönüştürün" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="EMF'i ICO'e Dönüştürmek için Ücretsiz Uygulama"
         appName="Conversion"
@@ -83,13 +73,21 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/tr/conversion/EMF-to-ICO)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="EMF öğesini ICO - .NET biçimine dönüştürün" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | EMF">}}
 Gelişmiş meta dosya biçimi (EMF), grafik görüntüleri aygıttan bağımsız olarak depolar. EMF'nin meta dosyaları, herhangi bir çıktı aygıtında ayrıştırıldıktan sonra saklanan görüntüyü oluşturabilen, kronolojik sırayla değişken uzunluktaki kayıtlardan oluşur. Bu değişken uzunluklu kayıtlar, kapalı nesnelerin tanımları, çizim komutları ve görüntüyü doğru bir şekilde oluşturmak için kritik olan grafik özellikleri olabilir. Bir cihaz kendi grafik ortamını kullanarak bir EMF meta dosyasını açtığında, orijinal görüntünün oranları, boyutları, renkleri ve diğer grafik özellikleri, açılış cihazı platformundan bağımsız olarak aynı kalır.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku | ICO">}}
 ICO dosya biçimi, Microsoft Windows'taki bilgisayar simgeleri için bir görüntü dosyası biçimidir. ICO dosyaları, uygun şekilde ölçeklendirilebilmeleri için birden fazla boyutta ve renk derinliğinde bir veya daha fazla küçük resim içerir. Windows'ta, masaüstünde, Başlat Menüsü'nde veya Windows Gezgini'nde kullanıcıya bir simge görüntüleyen tüm yürütülebilir dosyalar, simgeyi ICO biçiminde taşımalıdır.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

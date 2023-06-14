@@ -75,16 +75,6 @@ description: Пример кода для преобразования EPS в IC
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Преобразование EPS в ICO - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Бесплатное приложение для конвертации EPS в ICO"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Пример кода для преобразования EPS в IC
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ru/conversion/EPS-to-ICO)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Преобразование EPS в ICO - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее | EPS">}}
 Файлы с расширением EPS, по существу, описывают языковую программу Encapsulated PostScript, описывающую внешний вид отдельной страницы. Имя «Инкапсулированный», потому что оно может быть включено или инкапсулировано в описание страницы на другом языке PostScript. Этот формат файла на основе сценария может содержать любую комбинацию текста, графики и изображений. Файлы EPS могут включать растровое изображение предварительного просмотра, инкапсулированное внутри для отображения приложениями, которые могут открывать такие файлы. Файлы EPS могут быть преобразованы в стандартные форматы изображений, такие как JPG, PNG, TIFF и PDF, с использованием различных приложений, например. Adobe Illustrator, Photoshop и PaintShop Pro. Из-за уязвимости в файлах EPS в Office 2016, Office 2013, Office 2010 и Office 365 отключена возможность вставки файлов EPS в документы Office.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее | ICO">}}
 Формат файла ICO — это формат файла изображения для компьютерных значков в Microsoft Windows. Файлы ICO содержат одно или несколько небольших изображений разного размера и глубины цвета, чтобы их можно было соответствующим образом масштабировать. В Windows все исполняемые файлы, отображающие значок для пользователя на рабочем столе, в меню «Пуск» или в проводнике Windows, должны иметь значок в формате ICO.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

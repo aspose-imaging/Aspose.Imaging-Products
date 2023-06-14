@@ -62,16 +62,6 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertuoti WMZ į WEBP – .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Nemokama programa konvertuoti WMZ į WEBP"
         appName="Conversion"
@@ -83,13 +73,21 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/lt/conversion/WMZ-to-WEBP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertuoti WMZ į WEBP – .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau | WMZ">}}
 WMZ yra „Windows Media Player“ / „Windows Media Player“ naudojamo odos failo formato failo plėtinys. WMZ failas iš esmės yra suglaudintas WMF failas XML formatu.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau | WEBP">}}
 „WebP“, kurį pristatė „Google“, yra modernus rastrinis žiniatinklio vaizdo failo formatas, pagrįstas nenuostolingu ir nuostolingu glaudinimu. Tai užtikrina tą pačią vaizdo kokybę ir žymiai sumažina vaizdo dydį. Kadangi dauguma tinklalapių naudoja vaizdus kaip efektyvų duomenų atvaizdavimą, WebP vaizdų naudojimas tinklalapiuose leidžia greičiau įkelti tinklalapius. „Google“ teigimu, „WebP“ vaizdai be nuostolių yra 26 % mažesnio dydžio, palyginti su PNG, o „WebP“ vaizdai yra 25–34 % mažesni nei panašūs JPEG vaizdai. Vaizdai lyginami pagal struktūrinio panašumo (SSIM) indeksą tarp WebP ir kitų vaizdo failų formatų. „WebP“ yra „WebM“ daugialypės terpės konteinerio formato seserinis projektas.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

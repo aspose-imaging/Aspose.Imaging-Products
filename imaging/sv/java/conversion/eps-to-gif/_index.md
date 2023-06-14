@@ -75,16 +75,6 @@ Innan du kör koden för konverteringsexempel, se till att du har följande för
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertera EPS till GIF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Gratis app för att konvertera EPS till GIF"
         appName="Conversion"
@@ -96,13 +86,21 @@ Innan du kör koden för konverteringsexempel, se till att du har följande för
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/EPS-to-GIF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertera EPS till GIF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer | EPS">}}
 Filer med EPS-tillägg beskriver i huvudsak ett Encapsulated PostScript-språkprogram som beskriver utseendet på en enda sida. Namnet "Encapsulated" eftersom det kan inkluderas eller inkapslas i en annan PostScript-språksidbeskrivning. Detta skriptbaserade filformat kan innehålla valfri kombination av text, grafik och bilder. EPS-filer kan innehålla en bitmappsförhandsvisningsbild inkapslad inuti för visning av program som kan öppna sådana filer. EPS-filer kan konverteras till standardbildformat som JPG, PNG, TIFF och PDF med hjälp av olika applikationer t.ex. Adobe Illustrator, Photoshop och PaintShop Pro. På grund av en säkerhetsrisk i EPS-filer har Office 2016, Office 2013, Office 2010 och Office 365 stängt av möjligheten att infoga EPS-filer i Office-dokument.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer | GIF">}}
 En GIF eller Graphical Interchange Format är en typ av mycket komprimerad bild. Ägs av Unisys, GIF använder LZW-komprimeringsalgoritmen som inte försämrar bildkvaliteten. För varje bild tillåter GIF vanligtvis upp till 8 bitar per pixel och upp till 256 färger är tillåtna över hela bilden. I motsats till en JPEG-bild, som kan visa upp till 16 miljoner färger och ganska tangerar gränserna för det mänskliga ögat. När internet dök upp förblev GIF det bästa valet eftersom de krävde låg bandbredd och kompatibla för grafiken som konsumerar solida färgområden. En animerad GIF kombinerar många bilder eller ramar till en enda fil och visar dem i en sekvens för att generera ett animerat klipp eller en kort video. Färgbegränsningarna är upp till 256 för varje bildruta och är sannolikt den minst lämpade för att återge andra bilder och fotografier med färggradient.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

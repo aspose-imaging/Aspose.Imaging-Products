@@ -75,16 +75,6 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Chuyển đổi SVGZ thành DICOM - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Ứng dụng miễn phí để chuyển đổi SVGZ thành DICOM"
         appName="Conversion"
@@ -96,13 +86,21 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/vi/conversion/SVGZ-to-DICOM)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Chuyển đổi SVGZ thành DICOM - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm | SVGZ">}}
 Tệp có phần mở rộng .svgz là phiên bản nén của tệp Đồ họa Vectơ có thể mở rộng (.SVG). Nó được nén bằng nén gzip và chứa dữ liệu ở định dạng XML. Các tệp SVGZ hỗ trợ độ trong suốt, độ dốc, hoạt ảnh và bộ lọc. Các tệp SVGZ có kích thước nhỏ hơn so với các tệp SVG mặc định và kích thước tệp giảm này giúp chuyển các tệp đồ họa trực tuyến. Nhà thiết kế đồ họa tạo các tệp SVGZ bằng các công cụ như Adobe Illustrator, Corel PaintShop Pro và các công cụ khác. Tuy nhiên, tệp SVGZ có thể được tạo bằng cách bật tính năng nén GZip trong Máy chủ Apache trong khi gửi dữ liệu hình ảnh.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm | DICOM">}}
 DICOM là từ viết tắt của Digital Imaging and Communications in Medicine, liên quan đến lĩnh vực Tin học Y tế. DICOM là sự kết hợp giữa định nghĩa định dạng tệp và một giao thức truyền thông mạng. DICOM sử dụng phần mở rộng .DCM. .DCM tồn tại ở hai định dạng khác nhau, tức là định dạng 1.x và định dạng 2.x. Định dạng DCM 1.x còn có sẵn trong hai phiên bản bình thường và mở rộng. DICOM được sử dụng để tích hợp các thiết bị hình ảnh y tế như máy in, máy chủ, máy quét, v.v. từ các nhà cung cấp khác nhau và cũng chứa dữ liệu nhận dạng của từng bệnh nhân để tạo tính duy nhất. Các tệp DICOM có thể được chia sẻ giữa hai bên nếu họ có khả năng nhận dữ liệu hình ảnh ở định dạng DICOM. Phần giao tiếp của DICOM là giao thức lớp ứng dụng và sử dụng TCP / IP để giao tiếp giữa các thực thể. Các giao thức HTTP và HTTPS được sử dụng cho các dịch vụ web của DICOM. Các phiên bản được hỗ trợ bởi các dịch vụ web là 1.0, 1.1, 2 hoặc mới hơn.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

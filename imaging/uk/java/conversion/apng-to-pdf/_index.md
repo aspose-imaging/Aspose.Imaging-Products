@@ -75,16 +75,6 @@ description: Зразок коду для перетворення APNG у PDF J
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити APNG на PDF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення APNG у PDF"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: Зразок коду для перетворення APNG у PDF J
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/APNG-to-PDF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити APNG на PDF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | APNG">}}
 Файл із розширенням .apng (Animated Portable Network Graphic) — це растровий графічний формат і є неофіційним розширенням Portable Network Graphic (PNG). Він складається з кількох кадрів (кожен із зображень PNG), які представляють послідовність анімації. Це дає візуалізацію, подібну до файлу GIF. Файли APNG підтримують 24-бітні зображення та 8-бітну прозорість. APNG має зворотну сумісність із файлами GIF без анімації. Файли APNG використовують те саме розширення .png і можуть відкриватися такими програмами, як Mozilla Firefox, Chrome із підтримкою APNG, програмами iMessage для iOS 10.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | PDF">}}
 Portable Document Format (PDF) — це тип документа, створений Adobe ще в 1990-х роках. Метою цього формату файлів було запровадження стандарту для представлення документів та інших довідкових матеріалів у форматі, незалежному від прикладного програмного забезпечення, апаратного забезпечення, а також операційної системи. Формат файлу PDF має повну можливість містити таку інформацію, як текст, зображення, гіперпосилання, поля форм, мультимедіа, цифрові підписи, вкладення, метадані, геопросторові об’єкти та 3D-об’єкти, які можуть стати частиною вихідного документа.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

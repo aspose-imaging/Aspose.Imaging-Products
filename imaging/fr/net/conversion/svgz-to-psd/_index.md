@@ -64,16 +64,6 @@ Avant d'exécuter l'exemple de code de conversion, assurez-vous que vous dispose
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convertir SVGZ en PSD - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Application gratuite pour convertir SVGZ en PSD"
         appName="Conversion"
@@ -85,13 +75,21 @@ Avant d'exécuter l'exemple de code de conversion, assurez-vous que vous dispose
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/fr/conversion/SVGZ-to-PSD)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Convertir SVGZ en PSD - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite | SVGZ">}}
 Un fichier avec l'extension .svgz est une version compressée du fichier Scalable Vector Graphics (.SVG). Il est compressé avec la compression gzip et contient des données au format XML. Les fichiers SVGZ prennent en charge la transparence, les dégradés, les animations et les filtres. Les fichiers SVGZ sont plus petits que les fichiers SVG par défaut et cette taille de fichier réduite permet de transférer les fichiers graphiques en ligne. Le graphiste crée des fichiers SVGZ à l'aide d'outils tels qu'Adobe Illustrator, Corel PaintShop Pro et autres. Cependant, les fichiers SVGZ peuvent être générés en activant la compression GZip dans le serveur Apache lors de l'envoi des données d'image.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite | PSD">}}
 PSD, Photoshop Document, représente le format de fichier natif d'Adobe Photoshop utilisé pour la conception et le développement graphiques. Les fichiers PSD peuvent inclure des calques d'image, des calques de réglage, des masques de calque, des annotations, des informations sur les fichiers, des mots-clés et d'autres éléments spécifiques à Photoshop.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

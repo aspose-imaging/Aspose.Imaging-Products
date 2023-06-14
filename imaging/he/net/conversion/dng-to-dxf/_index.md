@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="המר את DNG ל-DXF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="אפליקציה חינמית להמרת DNG ל-DXF"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DNG-to-DXF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="המר את DNG ל-DXF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | DNG">}}
 DNG הוא פורמט תמונה של מצלמה דיגיטלית המשמש לאחסון קבצי גלם. הוא פותח על ידי אדובי בספטמבר 2004. הוא פותח בעיקרו עבור צילום דיגיטלי. DNG הוא הרחבה של פורמט תקן TIFF/EP ומשתמש במטא נתונים באופן משמעותי. על מנת לתפעל נתונים גולמיים ממצלמות דיגיטליות בקלות גמישות ושליטה אמנותית, צלמים בוחרים בקבצי מצלמה גולמיים. פורמטים JPEG ו-TIFF מאחסנים תמונות המעובדות על ידי המצלמה, ולכן אין הרבה מקום לשינויים בפורמטים כאלה.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | DXF">}}
 DXF, Drawing Interchange Format, או Drawing Exchange Format, הוא ייצוג נתונים מתויג של קובץ ציור AutoCAD. לכל רכיב בקובץ יש קידומת מספר שלם הנקרא קוד קבוצה. קוד קבוצה זה מייצג למעשה את האלמנט שאחריו ומציין את המשמעות של אלמנט נתונים עבור סוג אובייקט נתון. DXF מאפשר לייצג כמעט את כל המידע שצוין על ידי המשתמש בקובץ ציור.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

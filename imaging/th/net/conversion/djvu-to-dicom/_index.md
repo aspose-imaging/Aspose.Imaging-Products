@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="แปลง DJVU เป็น DICOM - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="แอปฟรีเพื่อแปลง DJVU เป็น DICOM"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DJVU-to-DICOM)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="แปลง DJVU เป็น DICOM - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | DJVU">}}
 DjVu ออกเสียงว่า DJVU รูปแบบไฟล์กราฟิกที่ใช้สำหรับสแกนเอกสารและหนังสือ โดยเฉพาะไฟล์ที่มีข้อความ ภาพวาด รูปภาพ และรูปถ่ายผสมกัน ได้รับการพัฒนาโดย AT&T Labs มันใช้เทคนิคหลายอย่าง เช่น การแยกเลเยอร์รูปภาพของข้อความและรูปภาพพื้นหลัง การโหลดแบบโปรเกรสซีฟ การเข้ารหัสเลขคณิต และการบีบอัดแบบไม่สูญเสียสำหรับรูปภาพ bitonal เนื่องจากไฟล์ DJVU สามารถมีรูปภาพสี ข้อความ และภาพวาดที่บีบอัดแต่คุณภาพสูง และสามารถบันทึกได้ในพื้นที่น้อยลง ดังนั้นจึงใช้บนเว็บเป็น eBook คู่มือ หนังสือพิมพ์ เอกสารโบราณ ฯลฯ
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | DICOM">}}
 DICOM ย่อมาจาก Digital Imaging and Communications in Medicine และเกี่ยวข้องกับสาขาสารสนเทศทางการแพทย์ DICOM คือการรวมกันของคำจำกัดความรูปแบบไฟล์และโปรโตคอลการสื่อสารเครือข่าย DICOM ใช้ส่วนขยาย .DCM .DCM มีอยู่ในรูปแบบที่แตกต่างกันสองรูปแบบ ได้แก่ รูปแบบ 1.x และรูปแบบ 2.x รูปแบบ DCM 1.x มีให้ใช้งานเพิ่มเติมในสองเวอร์ชันปกติและแบบขยาย DICOM ใช้สำหรับการรวมอุปกรณ์ภาพทางการแพทย์ เช่น เครื่องพิมพ์ เซิร์ฟเวอร์ สแกนเนอร์ ฯลฯ จากผู้จำหน่ายต่างๆ และยังมีข้อมูลประจำตัวของผู้ป่วยแต่ละรายเพื่อความเป็นเอกลักษณ์ ไฟล์ DICOM สามารถแชร์ระหว่างสองฝ่ายได้หากสามารถรับข้อมูลภาพในรูปแบบ DICOM ได้ ส่วนการสื่อสารของ DICOM คือโปรโตคอลเลเยอร์แอปพลิเคชัน และใช้ TCP/IP เพื่อสื่อสารระหว่างเอนทิตี โปรโตคอล HTTP และ HTTPS ใช้สำหรับบริการเว็บของ DICOM เวอร์ชันที่รองรับโดยบริการเว็บคือ 1.0, 1.1, 2 หรือใหม่กว่า
         {{< /blocks/products/pf/agp/about-file-text >}}
 

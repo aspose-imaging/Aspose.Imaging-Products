@@ -64,16 +64,6 @@ Przed uruchomieniem przykładowego kodu konwersji upewnij się, że masz następ
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konwertuj CDR na TGA - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Darmowa aplikacja do konwersji CDR na TGA"
         appName="Conversion"
@@ -85,13 +75,21 @@ Przed uruchomieniem przykładowego kodu konwersji upewnij się, że masz następ
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/pl/conversion/CDR-to-TGA)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konwertuj CDR na TGA - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej | CDR">}}
 Plik CDR to plik obrazu rysunku wektorowego, który jest natywnie tworzony w programie CorelDRAW do przechowywania zakodowanych i skompresowanych obrazów cyfrowych. Taki plik rysunku zawiera tekst, linie, kształty, obrazy, kolory i efekty dla wektorowej reprezentacji treści obrazu. Pliki CDR można otwierać za pomocą programu CorelDRAW jako głównej aplikacji, a także konwertować na inne formaty, takie jak PDF, JPG, PNG, BMP i AI. Może być używany do przedstawiania różnych danych graficznych, takich jak broszury, tabloidy, koperty i pocztówki. Oprócz pakietu CorelDRAW inne produkty firmy Corel, takie jak Corel Paintshop Pro i pakiet CorelDRAW Graphics, mogą również otwierać formaty plików CDR.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej | TGA">}}
 Truevision TGA, często określany jako TARGA, to rastrowy format plików graficznych stworzony przez Truevision Inc. (obecnie część Avid Technology). Był to natywny format płyt TARGA i VISTA, które były pierwszymi kartami graficznymi dla komputerów zgodnych z IBM obsługującymi wyświetlacz Highcolor/truecolor.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

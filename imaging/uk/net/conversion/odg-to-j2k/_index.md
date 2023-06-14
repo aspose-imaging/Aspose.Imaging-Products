@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити ODG на J2K - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення ODG у J2K"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/ODG-to-J2K)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити ODG на J2K - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | ODG">}}
 Формат файлу ODG використовується програмою Draw Apache OpenOffice для зберігання елементів малюнка у вигляді векторного зображення. Він відповідає специфікаціям формату файлів на основі XML, викладеним Стандартами вдосконалення структурної інформації (OASIS). ODG представляє малюнки як векторні зображення за допомогою точок, ліній і кривих. Крім OpenOffice, LibreOffice та інші програми також надають підтримку для роботи з форматом файлу ODG. Інші формати, які підтримує OpenOffice, наприклад, включають ODT, ODF, ODP і ODS.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | J2K">}}
 Файл J2K — це зображення, яке стискається за допомогою вейвлет-стиснення замість стиснення DCT.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

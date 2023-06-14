@@ -75,16 +75,6 @@ EPS को JPEG2000 में बदलने के लिए, हम उपय
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="EPS को JPEG2000 में बदलें - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="EPS को JPEG2000 में बदलने के लिए नि:शुल्‍क ऐप"
         appName="Conversion"
@@ -96,13 +86,21 @@ EPS को JPEG2000 में बदलने के लिए, हम उपय
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/EPS-to-JPEG2000)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="EPS को JPEG2000 में बदलें - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | EPS">}}
 ईपीएस एक्सटेंशन वाली फाइलें अनिवार्य रूप से एक एनकैप्सुलेटेड पोस्टस्क्रिप्ट भाषा प्रोग्राम का वर्णन करती हैं जो एक पृष्ठ की उपस्थिति का वर्णन करती है। नाम "एनकैप्सुलेटेड" क्योंकि इसे किसी अन्य पोस्टस्क्रिप्ट भाषा पृष्ठ विवरण में शामिल या इनकैप्सुलेट किया जा सकता है। इस स्क्रिप्ट आधारित फ़ाइल स्वरूप में टेक्स्ट, ग्राफिक्स और छवियों का कोई भी संयोजन हो सकता है। ईपीएस फाइलों में एक बिटमैप पूर्वावलोकन छवि शामिल हो सकती है जो ऐसी फाइलों को खोलने वाले अनुप्रयोगों द्वारा प्रदर्शित करने के लिए अंदर समझाया गया है। ईपीएस फाइलों को विभिन्न अनुप्रयोगों का उपयोग करके मानक छवि प्रारूपों जैसे जेपीजी, पीएनजी, टीआईएफएफ और पीडीएफ में परिवर्तित किया जा सकता है। एडोब इलस्ट्रेटर, फोटोशॉप और पेंटशॉप प्रो। EPS फ़ाइलों में सुरक्षा भेद्यता के कारण, Office 2016, Office 2013, Office 2010 और Office 365 ने EPS फ़ाइलों को Office दस्तावेज़ों में सम्मिलित करने की क्षमता को बंद कर दिया है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | JPEG2000">}}
 JPEG 2000 (JP2) एक छवि कोडिंग प्रणाली और अत्याधुनिक छवि संपीड़न मानक है। वेवलेट तकनीक का उपयोग करके डिज़ाइन किया गया JPEG 2000 दोषरहित सामग्री को किसी भी गुणवत्ता में एक ही बार में कोडित कर सकता है। इसके अलावा, कोडिंग दक्षता में किसी भी पर्याप्त दंड के बिना, जेपीईजी 2000 में एक ही सामग्री को विभिन्न अन्य प्रस्तावों और गुणों में प्रभावशाली ढंग से एक्सेस और डीकोड करने की क्षमता है। JPEG 2000 में कोड स्ट्रीम काफी स्केलेबल है जिसमें रुचि के क्षेत्र हैं जो स्थानिक यादृच्छिक अभिगम की सुविधा प्रदान करते हैं। टेरापिक्सल में आयामों के साथ 16384 विविध घटकों तक, और सटीकता जो 38 बिट्स/नमूना के रूप में उच्च हो सकती है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 

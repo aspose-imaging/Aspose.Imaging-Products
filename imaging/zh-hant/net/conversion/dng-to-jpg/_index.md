@@ -62,16 +62,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="將 DNG 轉換為 JPG - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="將 DNG 轉換為 JPG 的免費應用程序"
         appName="Conversion"
@@ -83,13 +73,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hant/conversion/DNG-to-JPG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="將 DNG 轉換為 JPG - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | DNG">}}
 DNG 是一種用於存儲原始文件的數碼相機圖像格式。它是由 Adob​​e 於 2004 年 9 月開發的。它基本上是為數碼攝影而開發的。 DNG 是 TIFF/EP 標準格式的擴展，大量使用元數據。為了輕鬆靈活地處理來自數碼相機的原始數據和藝術控制，攝影師選擇相機原始文件。 JPEG 和 TIFF 格式存儲由相機處理的圖像，因此在這些格式中沒有太大的更改空間。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | JPG">}}
 JPEG 是一種使用有損壓縮方法保存的圖像格式。作為壓縮的結果，輸出圖像是存儲大小和圖像質量之間的權衡。用戶可以調整壓縮級別以達到所需的質量級別，同時減小存儲大小。如果對圖像應用 10:1 壓縮，則對圖像質量的影響可以忽略不計。壓縮值越高，圖像質量的劣化程度越高。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

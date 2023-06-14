@@ -61,16 +61,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="تحويل WMF إلى J2K - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="تطبيق مجاني لتحويل WMF إلى J2K"
         appName="Conversion"
@@ -82,13 +72,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/WMF-to-J2K)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="تحويل WMF إلى J2K - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | WMF">}}
 تمثل الملفات ذات الامتداد WMF Microsoft Windows Metafile (WMF) لتخزين بيانات الصور المتجهة وكذلك الصور النقطية. لكي تكون أكثر دقة ، تنتمي WMF إلى فئة تنسيق ملف متجه لتنسيقات ملفات الرسومات المستقلة عن الجهاز. تستخدم واجهة جهاز Windows الرسومية (GDI) الوظائف المخزنة في ملف WMF لعرض صورة على الشاشة. تم نشر إصدار محسن أكثر من WMF ، والمعروف باسم Enhanced Meta Files (EMF) ، في وقت لاحق مما يجعل التنسيق أكثر ثراءً بالميزات. من الناحية العملية ، تشبه WMF SVG.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر | J2K">}}
 ملف J2K هو صورة يتم ضغطها باستخدام ضغط الموجة بدلاً من ضغط DCT.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

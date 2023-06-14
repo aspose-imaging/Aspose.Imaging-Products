@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити JP2 на PSD - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення JP2 у PSD"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/JP2-to-PSD)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити JP2 на PSD - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | JP2">}}
 JPEG 2000 (JP2) — це система кодування зображень і сучасний стандарт стиснення зображень. Розроблений із використанням вейвлет-технології JPEG 2000 може кодувати вміст без втрат у будь-якій якості одночасно. Крім того, без суттєвого зниження ефективності кодування JPEG 2000 має можливість отримувати доступ і ефективно декодувати той самий вміст у різні інші роздільності та якості. Потоки коду в JPEG 2000 є значно масштабованими, маючи області інтересу, які забезпечують можливість просторового довільного доступу. Має до 16384 різноманітних компонентів із розмірами в терапікселях і точністю до 38 біт/зразок.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | PSD">}}
 PSD, Photoshop Document, представляє рідний формат файлу Adobe Photoshop, який використовується для проектування та розробки графіки. Файли PSD можуть містити шари зображень, шари коригування, маски шарів, анотації, інформацію про файли, ключові слова та інші специфічні для Photoshop елементи.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

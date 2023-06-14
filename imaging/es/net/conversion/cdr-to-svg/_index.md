@@ -65,16 +65,6 @@ Antes de ejecutar el código de ejemplo de conversión, asegúrese de tener los 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convertir CDR a SVG - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Aplicación gratuita para convertir CDR a SVG"
         appName="Conversion"
@@ -86,13 +76,21 @@ Antes de ejecutar el código de ejemplo de conversión, asegúrese de tener los 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/es/conversion/CDR-to-SVG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Convertir CDR a SVG - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más | CDR">}}
 Un archivo CDR es un archivo de imagen de dibujo vectorial que se crea de forma nativa con CorelDRAW para almacenar imágenes digitales codificadas y comprimidas. Dicho archivo de dibujo contiene texto, líneas, formas, imágenes, colores y efectos para la representación vectorial del contenido de la imagen. Los archivos CDR se pueden abrir con CorelDRAW como aplicación principal y también se pueden convertir a otros formatos como PDF, JPG, PNG, BMP y AI. Se puede utilizar para la representación de varios datos gráficos como folletos, tabloides, sobres y postales. Además de CorelDRAW, otros productos de Corel como Corel Paintshop Pro y CorelDRAW Graphics Suite también pueden abrir los formatos de archivo CDR.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más | SVG">}}
 Los archivos SVG son archivos de gráficos vectoriales escalables que utilizan un formato de texto basado en XML para describir la apariencia de la imagen. La palabra escalable se refiere al hecho de que el SVG se puede escalar a diferentes tamaños sin perder calidad. La descripción basada en texto de dichos archivos los hace independientes de la resolución. Es uno de los formatos más utilizados para crear sitios web e imprimir gráficos para lograr escalabilidad. Sin embargo, el formato solo se puede usar para gráficos bidimensionales. Los archivos SVG se pueden ver/abrir en casi todos los navegadores modernos, incluidos Chrome, Internet Explorer, Firefox y Safari.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

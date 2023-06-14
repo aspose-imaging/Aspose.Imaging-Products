@@ -64,16 +64,6 @@ Przed uruchomieniem przykładowego kodu konwersji upewnij się, że masz następ
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konwertuj APNG na WEBP - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Darmowa aplikacja do konwersji APNG na WEBP"
         appName="Conversion"
@@ -85,13 +75,21 @@ Przed uruchomieniem przykładowego kodu konwersji upewnij się, że masz następ
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/pl/conversion/APNG-to-WEBP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konwertuj APNG na WEBP - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej | APNG">}}
 Plik z rozszerzeniem .apng (Animated Portable Network Graphics) jest rastrowym formatem graficznym i jest nieoficjalnym rozszerzeniem Portable Network Graphics (PNG ). Składa się z wielu ramek (każda z obrazu PNG), które reprezentują sekwencję animacji. Daje to podobną wizualizację jak plik GIF. Pliki APNG obsługują obrazy 24-bitowe i przezroczystość 8-bitową. APNG jest wstecznie kompatybilny z nieanimowanymi plikami GIF. Pliki APNG używają tego samego rozszerzenia .png i mogą być otwierane przez aplikacje takie jak Mozilla Firefox, Chrome z obsługą APNG, aplikacje iMessage na iOS 10.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej | WEBP">}}
 WebP, wprowadzony przez Google, to nowoczesny rastrowy format plików obrazów internetowych, oparty na bezstratnej i stratnej kompresji. Zapewnia tę samą jakość obrazu, jednocześnie znacznie zmniejszając rozmiar obrazu. Ponieważ większość stron internetowych wykorzystuje obrazy jako efektywną reprezentację danych, użycie obrazów WebP na stronach internetowych powoduje szybsze ładowanie stron internetowych. Według Google, bezstratne obrazy WebP są o 26% mniejsze w porównaniu do plików PNG, podczas gdy stratne obrazy WebP są o 25-34% mniejsze niż porównywalne obrazy JPEG. Obrazy są porównywane na podstawie indeksu podobieństwa strukturalnego (SSIM) między WebP a innymi formatami plików graficznych. WebP to siostrzany projekt formatu kontenera multimedialnego WebM.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

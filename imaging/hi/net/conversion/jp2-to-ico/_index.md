@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="JP2 को ICO में बदलें - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="JP2 को ICO में बदलने के लिए नि:शुल्‍क ऐप"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/JP2-to-ICO)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="JP2 को ICO में बदलें - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | JP2">}}
 JPEG 2000 (JP2) एक छवि कोडिंग प्रणाली और अत्याधुनिक छवि संपीड़न मानक है। वेवलेट तकनीक का उपयोग करके डिज़ाइन किया गया JPEG 2000 दोषरहित सामग्री को किसी भी गुणवत्ता में एक ही बार में कोडित कर सकता है। इसके अलावा, कोडिंग दक्षता में किसी भी पर्याप्त दंड के बिना, जेपीईजी 2000 में एक ही सामग्री को विभिन्न अन्य प्रस्तावों और गुणों में प्रभावशाली ढंग से एक्सेस और डीकोड करने की क्षमता है। JPEG 2000 में कोड स्ट्रीम काफी स्केलेबल है जिसमें रुचि के क्षेत्र हैं जो स्थानिक यादृच्छिक अभिगम की सुविधा प्रदान करते हैं। टेरापिक्सल में आयामों के साथ 16384 विविध घटकों तक, और सटीकता जो 38 बिट्स/नमूना के रूप में उच्च हो सकती है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | ICO">}}
 ICO फ़ाइल स्वरूप Microsoft Windows में कंप्यूटर आइकन के लिए एक छवि फ़ाइल स्वरूप है। ICO फाइलों में एक या एक से अधिक छोटी छवियां कई आकारों और रंग गहराई में होती हैं, जैसे कि उन्हें उचित रूप से बढ़ाया जा सकता है। विंडोज़ में, सभी निष्पादन योग्य जो उपयोगकर्ता को एक आइकन प्रदर्शित करते हैं, डेस्कटॉप पर, स्टार्ट मेनू में, या विंडोज एक्सप्लोरर में, आईसीओ प्रारूप में आइकन ले जाना चाहिए।
         {{< /blocks/products/pf/agp/about-file-text >}}
 

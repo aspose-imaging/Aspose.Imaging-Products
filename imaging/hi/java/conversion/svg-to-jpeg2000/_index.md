@@ -75,16 +75,6 @@ SVG को JPEG2000 में बदलने के लिए, हम उपय
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="SVG को JPEG2000 में बदलें - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="SVG को JPEG2000 में बदलने के लिए नि:शुल्‍क ऐप"
         appName="Conversion"
@@ -96,13 +86,21 @@ SVG को JPEG2000 में बदलने के लिए, हम उपय
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/SVG-to-JPEG2000)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="SVG को JPEG2000 में बदलें - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | SVG">}}
 एसवीजी फाइलें स्केलेबल वेक्टर ग्राफिक्स फाइलें हैं जो छवि की उपस्थिति का वर्णन करने के लिए एक्सएमएल आधारित टेक्स्ट प्रारूप का उपयोग करती हैं। स्केलेबल शब्द इस तथ्य को संदर्भित करता है कि एसवीजी को बिना किसी गुणवत्ता को खोए विभिन्न आकारों में बढ़ाया जा सकता है। ऐसी फाइलों का पाठ आधारित विवरण उन्हें संकल्प से स्वतंत्र बनाता है। यह स्केलेबिलिटी प्राप्त करने के लिए वेबसाइट और प्रिंट ग्राफिक्स के निर्माण के लिए सबसे अधिक उपयोग किए जाने वाले प्रारूप में से एक है। प्रारूप का उपयोग केवल द्वि-आयामी ग्राफिक्स के लिए किया जा सकता है। SVG फाइलें क्रोम, इंटरनेट एक्सप्लोरर, फायरफॉक्स और सफारी सहित लगभग सभी आधुनिक ब्राउज़रों में देखी/खोली जा सकती हैं।
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | JPEG2000">}}
 JPEG 2000 (JP2) एक छवि कोडिंग प्रणाली और अत्याधुनिक छवि संपीड़न मानक है। वेवलेट तकनीक का उपयोग करके डिज़ाइन किया गया JPEG 2000 दोषरहित सामग्री को किसी भी गुणवत्ता में एक ही बार में कोडित कर सकता है। इसके अलावा, कोडिंग दक्षता में किसी भी पर्याप्त दंड के बिना, जेपीईजी 2000 में एक ही सामग्री को विभिन्न अन्य प्रस्तावों और गुणों में प्रभावशाली ढंग से एक्सेस और डीकोड करने की क्षमता है। JPEG 2000 में कोड स्ट्रीम काफी स्केलेबल है जिसमें रुचि के क्षेत्र हैं जो स्थानिक यादृच्छिक अभिगम की सुविधा प्रदान करते हैं। टेरापिक्सल में आयामों के साथ 16384 विविध घटकों तक, और सटीकता जो 38 बिट्स/नमूना के रूप में उच्च हो सकती है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -75,16 +75,6 @@ description: DNG 到 SVG Java 轉換的示例代碼。使用 API 示例代碼在
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="將 DNG 轉換為 SVG - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="將 DNG 轉換為 SVG 的免費應用程序"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: DNG 到 SVG Java 轉換的示例代碼。使用 API 示例代碼在
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hant/conversion/DNG-to-SVG)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="將 DNG 轉換為 SVG - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | DNG">}}
 DNG 是一種用於存儲原始文件的數碼相機圖像格式。它是由 Adob​​e 於 2004 年 9 月開發的。它基本上是為數碼攝影而開發的。 DNG 是 TIFF/EP 標準格式的擴展，大量使用元數據。為了輕鬆靈活地處理來自數碼相機的原始數據和藝術控制，攝影師選擇相機原始文件。 JPEG 和 TIFF 格式存儲由相機處理的圖像，因此在這些格式中沒有太大的更改空間。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | SVG">}}
 SVG 文件是使用基於 XML 的文本格式來描述圖像外觀的可縮放矢量圖形文件。 Scalable 這個詞指的是 SVG 可以縮放到不同的大小而不會損失任何質量。此類文件的基於文本的描述使它們獨立於分辨率。它是用於構建網站和打印圖形以實現可擴展性的最常用格式之一。該格式只能用於二維圖形。 SVG 文件可以在幾乎所有現代瀏覽器中查看/打開，包括 Chrome、Internet Explorer、Firefox 和 Safari。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

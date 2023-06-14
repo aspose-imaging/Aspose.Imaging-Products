@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="ICO को TIFF में बदलें - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="ICO को TIFF में बदलने के लिए नि:शुल्‍क ऐप"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/ICO-to-TIFF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="ICO को TIFF में बदलें - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | ICO">}}
 ICO फ़ाइल स्वरूप Microsoft Windows में कंप्यूटर आइकन के लिए एक छवि फ़ाइल स्वरूप है। ICO फाइलों में एक या एक से अधिक छोटी छवियां कई आकारों और रंग गहराई में होती हैं, जैसे कि उन्हें उचित रूप से बढ़ाया जा सकता है। विंडोज़ में, सभी निष्पादन योग्य जो उपयोगकर्ता को एक आइकन प्रदर्शित करते हैं, डेस्कटॉप पर, स्टार्ट मेनू में, या विंडोज एक्सप्लोरर में, आईसीओ प्रारूप में आइकन ले जाना चाहिए।
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें | TIFF">}}
 TIFF या TIF, टैग की गई छवि फ़ाइल स्वरूप, रेखापुंज छवियों का प्रतिनिधित्व करता है जो इस फ़ाइल प्रारूप मानक का अनुपालन करने वाले विभिन्न उपकरणों पर उपयोग के लिए हैं। यह कई रंग स्थानों में द्विस्तरीय, ग्रेस्केल, पैलेट-रंग और पूर्ण-रंग छवि डेटा का वर्णन करने में सक्षम है। यह प्रारूप का उपयोग करने वाले अनुप्रयोगों के लिए स्थान और समय के बीच चयन करने के लिए हानिपूर्ण और साथ ही दोषरहित संपीड़न योजनाओं का समर्थन करता है। प्रारूप एक्स्टेंसिबल है और इसमें कई संशोधन हुए हैं जो असीमित मात्रा में निजी या विशेष प्रयोजन की जानकारी को शामिल करने की अनुमति देता है। प्रारूप मशीन पर निर्भर नहीं है और प्रोसेसर, ऑपरेटिंग सिस्टम या फाइल सिस्टम जैसी सीमाओं से मुक्त है।
         {{< /blocks/products/pf/agp/about-file-text >}}
 

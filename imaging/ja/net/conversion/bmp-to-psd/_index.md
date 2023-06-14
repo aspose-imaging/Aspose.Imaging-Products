@@ -62,16 +62,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="BMPをPSDに変換します-.NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="BMPをPSDに変換する無料アプリ"
         appName="Conversion"
@@ -83,13 +73,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ja/conversion/BMP-to-PSD)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="BMPをPSDに変換します-.NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | BMP">}}
 拡張子が.BMPのファイルは、ビットマップデジタル画像の保存に使用されるビットマップ画像ファイルを表します。これらの画像はグラフィックアダプタから独立しており、デバイスに依存しないビットマップ（DIB）ファイル形式とも呼ばれます。この独立性は、MicrosoftWindowsやMacなどの複数のプラットフォームでファイルを開くという目的を果たします。 BMPファイル形式では、データを2次元デジタル画像として、モノクロとさまざまな色深度のカラー形式の両方で保存できます。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | PSD">}}
 PSD、Photoshop Documentは、グラフィックデザインと開発に使用されるAdobePhotoshopのネイティブファイル形式を表します。 PSDファイルには、画像レイヤー、調整レイヤー、レイヤーマスク、注釈、ファイル情報、キーワード、その他のPhotoshop固有の要素が含まれる場合があります。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

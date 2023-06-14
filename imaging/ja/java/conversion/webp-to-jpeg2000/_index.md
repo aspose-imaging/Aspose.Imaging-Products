@@ -75,16 +75,6 @@ WEBPをJPEG2000に変換するには、 [Aspose.Imaging for Java](https://produc
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="WEBPをJPEG2000に変換します-Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="WEBPをJPEG2000に変換する無料アプリ"
         appName="Conversion"
@@ -96,13 +86,21 @@ WEBPをJPEG2000に変換するには、 [Aspose.Imaging for Java](https://produc
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ja/conversion/WEBP-to-JPEG2000)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="WEBPをJPEG2000に変換します-Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | WEBP">}}
 Googleによって導入されたWebPは、可逆および非可逆圧縮に基づく最新のラスターWeb画像ファイル形式です。画像サイズを大幅に縮小しながら、同じ画質を提供します。ほとんどのWebページはデータの効果的な表現として画像を使用するため、WebページでWebP画像を使用すると、Webページの読み込みが速くなります。 Googleによると、WebPの損失のない画像はPNGと比較してサイズが26％小さく、WebPの損失のある画像は同等のJPEG画像よりも25〜34％小さくなっています。画像は、WebPと他の画像ファイル形式の間の構造的類似性（SSIM）インデックスに基づいて比較されます。 WebPは、WebMマルチメディアコンテナ形式の姉妹プロジェクトです。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む | JPEG2000">}}
 JPEG 2000（JP2）は、画像コーディングシステムであり、最先端の画像圧縮規格です。ウェーブレットテクノロジーを使用して設計されたJPEG2000は、ロスレスコンテンツを任意の品質で一度にコーディングできます。さらに、コーディング効率に実質的なペナルティを課すことなく、JPEG 2000には、同じコンテンツに効果的にアクセスしてデコードし、他のさまざまな解像度や品質に変換する機能があります。 JPEG 2000のコードストリームは非常にスケーラブルであり、空間ランダムアクセスの機能を提供する関心領域があります。テラピクセル単位の寸法と38ビット/サンプルの高精度を備えた最大16384の多様なコンポーネントを備えています。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

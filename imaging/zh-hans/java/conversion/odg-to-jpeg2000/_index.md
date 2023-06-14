@@ -76,16 +76,6 @@ description: ODG 到 JPEG2000 Java 转换的示例代码。在任何基于 Web �
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="将 ODG 转换为 JPEG2000 - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="将 ODG 转换为 JPEG2000 的免费应用程序"
         appName="Conversion"
@@ -97,13 +87,21 @@ description: ODG 到 JPEG2000 Java 转换的示例代码。在任何基于 Web �
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hans/conversion/ODG-to-JPEG2000)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="将 ODG 转换为 JPEG2000 - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | ODG">}}
 Apache OpenOffice 的 Draw 应用程序使用 ODG 文件格式将绘图元素存储为矢量图像。它遵循结构信息标准推进 (OASIS) 概述的基于 XML 的文件格式规范。 ODG 将绘图表示为使用点、线和曲线的矢量图像。除了 OpenOffice，LibreOffice 和其他应用程序还提供对 ODG 文件格式的支持。例如，OpenOffice 支持的其他格式包括 ODT、ODF、ODP 和 ODS。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | JPEG2000">}}
 JPEG 2000 (JP2) 是一种图像编码系统和最先进的图像压缩标准。设计，使用小波技术 JPEG 2000 可以一次编码任何质量的无损内容。此外，在编码效率没有任何实质性损失的情况下，JPEG 2000 能够有效地访问相同的内容并将其解码为各种其他分辨率和质量。 JPEG 2000 中的码流具有显着的可扩展性，具有为空间随机访问提供便利的感兴趣区域。拥有多达 16384 个不同的组件，尺寸以万亿像素为单位，精度可高达 38 位/样本。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

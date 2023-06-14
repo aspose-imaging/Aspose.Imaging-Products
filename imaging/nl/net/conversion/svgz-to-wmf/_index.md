@@ -62,16 +62,6 @@ Voordat u de conversievoorbeeldcode uitvoert, moet u ervoor zorgen dat u aan de 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Converteer SVGZ naar WMF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Gratis app om SVGZ naar WMF te converteren"
         appName="Conversion"
@@ -83,13 +73,21 @@ Voordat u de conversievoorbeeldcode uitvoert, moet u ervoor zorgen dat u aan de 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/nl/conversion/SVGZ-to-WMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Converteer SVGZ naar WMF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder | SVGZ">}}
 Een bestand met de extensie .svgz is een gecomprimeerde versie van het Scalable Vector Graphics-bestand (.SVG). Het is gecomprimeerd met gzip-compressie en bevat gegevens in XML-indeling. SVGZ-bestanden ondersteunen transparantie, verlopen, animaties en filters. SVGZ-bestanden zijn kleiner in vergelijking met de standaard SVG-bestanden en deze kleinere bestandsgrootte helpt de grafische bestanden online over te zetten. Grafisch ontwerper maakt SVGZ-bestanden met tools zoals Adobe Illustrator, Corel PaintShop Pro en andere. SVGZ-bestanden kunnen echter worden gegenereerd door GZip-compressie in de Apache-server in te schakelen terwijl de afbeeldingsgegevens worden verzonden.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder | WMF">}}
 Bestanden met de WMF-extensie vertegenwoordigen Microsoft Windows Metafile (WMF) voor het opslaan van zowel vector- als bitmap-afbeeldingsgegevens. Om nauwkeuriger te zijn, WMF behoort tot de vectorbestandsindelingscategorie van Grafische bestandsindelingen die apparaatonafhankelijk is. Windows Graphical Device Interface (GDI) gebruikt de functies die zijn opgeslagen in een WMF-bestand om een ​​afbeelding op het scherm weer te geven. Een meer verbeterde versie van WMF, bekend als Enhanced Meta Files (EMF), werd later gepubliceerd, waardoor het formaat meer functies heeft. In de praktijk is WMF vergelijkbaar met SVG.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -75,16 +75,6 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Chuyển đổi ICO thành JPEG2000 - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Ứng dụng miễn phí để chuyển đổi ICO thành JPEG2000"
         appName="Conversion"
@@ -96,13 +86,21 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/vi/conversion/ICO-to-JPEG2000)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Chuyển đổi ICO thành JPEG2000 - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm | ICO">}}
 Định dạng tệp ICO là định dạng tệp hình ảnh cho các biểu tượng máy tính trong Microsoft Windows. Các tệp ICO chứa một hoặc nhiều hình ảnh nhỏ ở nhiều kích thước và độ sâu màu, để chúng có thể được chia tỷ lệ thích hợp. Trong Windows, tất cả các tệp thực thi hiển thị biểu tượng cho người dùng, trên màn hình nền, trong Menu Bắt đầu hoặc trong Windows Explorer, phải mang biểu tượng ở định dạng ICO.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG2000" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm | JPEG2000">}}
 JPEG 2000 (JP2) là một hệ thống mã hóa hình ảnh và tiêu chuẩn nén hình ảnh hiện đại nhất. Được thiết kế, sử dụng công nghệ wavelet JPEG 2000 có thể mã hóa nội dung không mất dữ liệu ở bất kỳ chất lượng nào cùng một lúc. Hơn nữa, không có bất kỳ hình phạt đáng kể nào về hiệu quả mã hóa, JPEG 2000 có khả năng truy cập và giải mã hiệu quả cùng một nội dung thành nhiều độ phân giải và chất lượng khác. Các dòng mã trong JPEG 2000 có khả năng mở rộng đáng kể khi có các vùng quan tâm cung cấp cơ sở cho việc truy cập ngẫu nhiên theo không gian. Sở hữu tới 16384 linh kiện đa dạng với kích thước tính bằng terapixel và độ chính xác có thể cao tới 38 bit / mẫu.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -64,16 +64,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="APNG을 WEBP로 변환 - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="APNG을 WEBP로 변환하는 무료 앱"
         appName="Conversion"
@@ -85,13 +75,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ko/conversion/APNG-to-WEBP)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="APNG을 WEBP로 변환 - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | APNG">}}
 .apng(Animated Portable Network Graphics) 확장자를 가진 파일은 래스터 그래픽 형식이며 PNG(Portable Network Graphic)의 비공식 확장자입니다. 애니메이션 시퀀스를 나타내는 여러 프레임(각각 PNG 이미지)으로 구성됩니다. 이것은 GIF 파일과 유사한 시각화를 제공합니다. APNG 파일은 24비트 이미지와 8비트 투명도를 지원합니다. APNG는 애니메이션이 아닌 GIF 파일과 역호환됩니다. APNG 파일은 동일한 .png 확장자를 사용하며 Mozilla Firefox, APNG 지원 Chrome, iOS 10용 iMessage 앱과 같은 응용 프로그램에서 열 수 있습니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기 | WEBP">}}
 Google에서 소개한 WebP는 무손실 및 손실 압축을 기반으로 하는 최신 래스터 웹 이미지 파일 형식입니다. 이미지 크기를 크게 줄이면서 동일한 이미지 품질을 제공합니다. 대부분의 웹 페이지는 데이터의 효과적인 표현으로 이미지를 사용하기 때문에 웹 페이지에서 WebP 이미지를 사용하면 웹 페이지를 더 빠르게 로드할 수 있습니다. Google에 따르면 WebP 무손실 이미지는 PNG에 비해 크기가 26% 작으며 WebP 손실 이미지는 유사한 JPEG 이미지보다 25-34% 작습니다. WebP와 다른 이미지 파일 형식 간의 SSIM(구조적 유사성) 인덱스를 기반으로 이미지가 비교됩니다. WebP는 WebM 멀티미디어 컨테이너 형식의 자매 프로젝트입니다.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -62,16 +62,6 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Chuyển đổi WEBP thành WMF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Ứng dụng miễn phí để chuyển đổi WEBP thành WMF"
         appName="Conversion"
@@ -83,13 +73,21 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/vi/conversion/WEBP-to-WMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Chuyển đổi WEBP thành WMF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm | WEBP">}}
 WebP, được giới thiệu bởi Google, là một định dạng tệp hình ảnh web raster hiện đại dựa trên nén không mất dữ liệu và mất dữ liệu. Nó cung cấp chất lượng hình ảnh tương tự trong khi giảm đáng kể kích thước hình ảnh. Vì hầu hết các trang web đều sử dụng hình ảnh làm đại diện dữ liệu hiệu quả, việc sử dụng hình ảnh WebP trong các trang web dẫn đến tải trang web nhanh hơn. Theo Google, hình ảnh không mất dữ liệu WebP có kích thước nhỏ hơn 26% so với PNG, trong khi hình ảnh mất dữ liệu WebP nhỏ hơn 25-34% so với hình ảnh JPEG tương đương. Hình ảnh được so sánh dựa trên chỉ số Độ tương đồng về cấu trúc (SSIM) giữa WebP và các định dạng tệp hình ảnh khác. WebP là một dự án chị em của định dạng vùng chứa đa phương tiện WebM.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm | WMF">}}
 Các tệp có phần mở rộng WMF đại diện cho Microsoft Windows Metafile (WMF) để lưu trữ dữ liệu hình ảnh dạng vector cũng như bitmap. Nói chính xác hơn, WMF thuộc thể loại định dạng tệp vectơ của các định dạng tệp Đồ họa độc lập với thiết bị. Giao diện thiết bị đồ họa Windows (GDI) sử dụng các chức năng được lưu trữ trong tệp WMF để hiển thị hình ảnh trên màn hình. Một phiên bản nâng cao hơn của WMF, được gọi là Tệp Meta Nâng cao (EMF), đã được xuất bản sau đó giúp định dạng có nhiều tính năng phong phú hơn. Thực tế, WMF tương tự như SVG.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

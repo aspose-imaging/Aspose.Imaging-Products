@@ -64,16 +64,6 @@ Avant d'exécuter l'exemple de code de conversion, assurez-vous que vous dispose
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convertir EMF en HTML - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Application gratuite pour convertir EMF en HTML"
         appName="Conversion"
@@ -85,13 +75,21 @@ Avant d'exécuter l'exemple de code de conversion, assurez-vous que vous dispose
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/fr/conversion/EMF-to-HTML)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Convertir EMF en HTML - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite | EMF">}}
 Le format de métafichier amélioré (EMF) stocke les images graphiques indépendamment du périphérique. Les métafichiers d'EMF comprennent des enregistrements de longueur variable dans l'ordre chronologique qui peuvent restituer l'image stockée après analyse sur n'importe quel périphérique de sortie. Ces enregistrements de longueur variable peuvent être des définitions d'objets fermés, des commandes de dessin et des propriétés graphiques essentielles pour restituer l'image avec précision. Lorsqu'un appareil ouvre un métafichier EMF à l'aide de son propre environnement graphique, les proportions, dimensions, couleurs et autres propriétés graphiques de l'image d'origine restent les mêmes quelle que soit la plate-forme de l'appareil d'ouverture.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite | HTML">}}
 HTML (Hyper Text Markup Language) est l'extension des pages Web créées pour être affichées dans les navigateurs. Connu sous le nom de langage du Web, HTML a évolué avec les exigences de nouvelles exigences d'information à afficher dans le cadre des pages Web. La dernière variante est connue sous le nom de HTML 5 qui offre une grande flexibilité pour travailler avec le langage. Les pages HTML sont soit reçues du serveur, où elles sont hébergées, soit peuvent également être chargées à partir du système local. Chaque page HTML est composée d'éléments HTML tels que des formulaires, du texte, des images, des animations, des liens, etc. Ces éléments sont représentés par des balises telles que img, a, p et plusieurs autres où chaque balise a un début et une fin. Il peut également intégrer des applications écrites dans des langages de script tels que JavaScript et les feuilles de style (CSS) pour la représentation globale de la mise en page.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

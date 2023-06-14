@@ -75,16 +75,6 @@ description: CMX 到 DXF Java 轉換的示例代碼。使用 API 示例代碼在
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="將 CMX 轉換為 DXF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="將 CMX 轉換為 DXF 的免費應用程序"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: CMX 到 DXF Java 轉換的示例代碼。使用 API 示例代碼在
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hant/conversion/CMX-to-DXF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="將 CMX 轉換為 DXF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | CMX">}}
 帶有 CMX 擴展名的文件是 Corel Exchange 圖像文件格式，CorelSuite 應用程序用作演示文稿。它包含作為矢量圖形的圖像數據以及描述圖像的元數據。 CMX 文件可由 CorelDraw、Corel Presentations、Paint Shop Pro 和某些版本的 Adob​​e Illustrator 打開。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多 | DXF">}}
 DXF，即圖形交換格式，或圖形交換格式，是 AutoCAD 圖形文件的​​標記數據表示。文件中的每個元素都有一個前綴整數，稱為組代碼。該組代碼實際上表示後面的元素，並指示給定對像類型的數據元素的含義。 DXF 可以在圖形文件中表示幾乎所有用戶指定的信息。
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="המר את DNG ל-SVGZ - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="אפליקציה חינמית להמרת DNG ל-SVGZ"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/DNG-to-SVGZ)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="המר את DNG ל-SVGZ - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | DNG">}}
 DNG הוא פורמט תמונה של מצלמה דיגיטלית המשמש לאחסון קבצי גלם. הוא פותח על ידי אדובי בספטמבר 2004. הוא פותח בעיקרו עבור צילום דיגיטלי. DNG הוא הרחבה של פורמט תקן TIFF/EP ומשתמש במטא נתונים באופן משמעותי. על מנת לתפעל נתונים גולמיים ממצלמות דיגיטליות בקלות גמישות ושליטה אמנותית, צלמים בוחרים בקבצי מצלמה גולמיים. פורמטים JPEG ו-TIFF מאחסנים תמונות המעובדות על ידי המצלמה, ולכן אין הרבה מקום לשינויים בפורמטים כאלה.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד | SVGZ">}}
 קובץ עם סיומת .svgz הוא גרסה דחוסה של קובץ Scalable Vector Graphics (.SVG). הוא דחוס עם דחיסת gzip ומכיל נתונים בפורמט XML. קובצי SVGZ תומכים בשקיפות, מעברי צבע, אנימציות ומסננים. קבצי SVGZ קטנים יותר בהשוואה לקובצי SVG ברירת המחדל וגודל הקובץ המופחת הזה עוזר להעביר את קבצי הגרפיקה באופן מקוון. מעצב גרפי יוצר קובצי SVGZ באמצעות כלים כמו Adobe Illustrator, Corel PaintShop Pro ואחרים. עם זאת, ניתן ליצור קבצי SVGZ על ידי הפעלת דחיסת GZip בשרת ה-Apache בזמן שליחת נתוני התמונה.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

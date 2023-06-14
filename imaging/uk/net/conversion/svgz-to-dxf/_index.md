@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити SVGZ на DXF - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення SVGZ у DXF"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/SVGZ-to-DXF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити SVGZ на DXF - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | SVGZ">}}
 Файл із розширенням .svgz є стиснутою версією файлу масштабованої векторної графіки (.SVG). Він стискається за допомогою стиснення gzip і містить дані у форматі XML. Файли SVGZ підтримують прозорість, градієнти, анімацію та фільтри. Файли SVGZ мають менший розмір порівняно з файлами SVG за замовчуванням, і цей зменшений розмір файлу допомагає передавати графічні файли онлайн. Графічний дизайнер створює файли SVGZ за допомогою таких інструментів, як Adobe Illustrator, Corel PaintShop Pro та інших. Однак файли SVGZ можна створити, увімкнувши стиснення GZip на сервері Apache під час надсилання даних зображення.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="DXF" readMoreLink="https://docs.fileformat.com/cad/dxf/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | DXF">}}
 DXF, формат обміну кресленнями або формат обміну кресленнями, — це теговане представлення даних файлу креслення AutoCAD. Кожен елемент у файлі має префіксне ціле число, яке називається кодом групи. Цей груповий код фактично представляє наступний елемент і вказує на значення елемента даних для певного типу об’єкта. DXF дає змогу представити майже всю інформацію, визначену користувачем, у файлі креслення.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

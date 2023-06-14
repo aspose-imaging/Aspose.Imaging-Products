@@ -63,16 +63,6 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Перетворити ODG на CANVAS - .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Безкоштовна програма для перетворення ODG у CANVAS"
         appName="Conversion"
@@ -84,13 +74,21 @@ PM> Install-Package Aspose.Imaging
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/ODG-to-CANVAS)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Перетворити ODG на CANVAS - .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | ODG">}}
 Формат файлу ODG використовується програмою Draw Apache OpenOffice для зберігання елементів малюнка у вигляді векторного зображення. Він відповідає специфікаціям формату файлів на основі XML, викладеним Стандартами вдосконалення структурної інформації (OASIS). ODG представляє малюнки як векторні зображення за допомогою точок, ліній і кривих. Крім OpenOffice, LibreOffice та інші програми також надають підтримку для роботи з форматом файлу ODG. Інші формати, які підтримує OpenOffice, наприклад, включають ODT, ODF, ODP і ODS.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="CANVAS" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="CANVAS" readMoreLink="https://docs.fileformat.com/web/html/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше | CANVAS">}}
 HTML (Hyper Text Markup Language) — це розширення для веб-сторінок, створених для відображення в браузерах. HTML, відомий як мова Інтернету, розвивався разом із вимогами щодо нових вимог до інформації, яка має відображатися як частина веб-сторінок. Останній варіант відомий як HTML 5, який надає велику гнучкість для роботи з мовою. Сторінки HTML або отримуються з сервера, де вони розміщені, або також можуть бути завантажені з локальної системи. Кожна HTML-сторінка складається з таких елементів HTML, як форми, текст, зображення, анімація, посилання тощо. Ці елементи представлені такими тегами, як img, a, p та декількома іншими, де кожен тег має початок і кінець. Він також може вбудовувати програми, написані мовами сценаріїв, такими як JavaScript і таблиці стилів (CSS), для загального представлення макета.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -75,16 +75,6 @@ description: โค้ดตัวอย่างสำหรับการแ�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="แปลง SVGZ เป็น PSD - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="แอปฟรีเพื่อแปลง SVGZ เป็น PSD"
         appName="Conversion"
@@ -96,13 +86,21 @@ description: โค้ดตัวอย่างสำหรับการแ�
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/conversion/SVGZ-to-PSD)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="แปลง SVGZ เป็น PSD - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="SVGZ" readMoreLink="https://docs.fileformat.com/image/svgz/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | SVGZ">}}
 ไฟล์ที่มีนามสกุล .svgz คือไฟล์ Scalable Vector Graphics (.SVG) เวอร์ชันบีบอัด มันถูกบีบอัดด้วยการบีบอัด gzip และมีข้อมูลในรูปแบบ XML ไฟล์ SVGZ รองรับความโปร่งใส การไล่ระดับสี ภาพเคลื่อนไหว และตัวกรอง ไฟล์ SVGZ มีขนาดเล็กกว่าเมื่อเปรียบเทียบกับไฟล์ SVG เริ่มต้น และขนาดไฟล์ที่ลดลงนี้ช่วยโอนไฟล์กราฟิกออนไลน์ นักออกแบบกราฟิกสร้างไฟล์ SVGZ โดยใช้เครื่องมือต่างๆ เช่น Adobe Illustrator, Corel PaintShop Pro และอื่นๆ อย่างไรก็ตาม ไฟล์ SVGZ สามารถสร้างได้ด้วยการเปิดใช้งานการบีบอัด GZip ในเซิร์ฟเวอร์ Apache ในขณะที่ส่งข้อมูลภาพออกไป
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PSD" readMoreLink="https://docs.fileformat.com/image/psd/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม | PSD">}}
 PSD หรือ Photoshop Document แสดงถึงรูปแบบไฟล์ดั้งเดิมของ Adobe Photoshop ที่ใช้สำหรับการออกแบบและพัฒนากราฟิก ไฟล์ PSD อาจรวมถึงเลเยอร์รูปภาพ เลเยอร์การปรับแต่ง เลเยอร์มาสก์ คำอธิบายประกอบ ข้อมูลไฟล์ คำสำคัญ และองค์ประกอบเฉพาะ Photoshop อื่นๆ
         {{< /blocks/products/pf/agp/about-file-text >}}
 

@@ -62,16 +62,6 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Konvertuoti WMF į TGA – .NET" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="Nemokama programa konvertuoti WMF į TGA"
         appName="Conversion"
@@ -83,13 +73,21 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/lt/conversion/WMF-to-TGA)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="Konvertuoti WMF į TGA – .NET" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau | WMF">}}
 Failai su WMF plėtiniu yra „Microsoft Windows“ metafailas (WMF), skirtas vektorinių ir bitmap formato vaizdų duomenims saugoti. Tiksliau, WMF priklauso grafinių failų formatų vektorinių failų formatų kategorijai, kuri nepriklauso nuo įrenginio. „Windows“ grafinio įrenginio sąsaja (GDI) vaizdui ekrane rodyti naudoja WMF faile saugomas funkcijas. Vėliau buvo paskelbta labiau patobulinta WMF versija, žinoma kaip patobulinti meta failai (EMF), todėl formatas tapo turtingesnis. Praktiškai WMF yra panašūs į SVG.
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau | TGA">}}
 Truevision TGA, dažnai vadinamas TARGA, yra rastrinės grafikos failo formatas, sukurtas Truevision Inc. (dabar Avid Technology dalis). Tai buvo vietinis TARGA ir VISTA plokščių formatas, kurios buvo pirmosios su IBM suderinamų kompiuterių grafinės plokštės, palaikančios Highcolor/truecolor ekraną.
         {{< /blocks/products/pf/agp/about-file-text >}}
 

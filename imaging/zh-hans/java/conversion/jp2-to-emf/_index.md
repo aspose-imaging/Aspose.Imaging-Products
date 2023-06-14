@@ -76,16 +76,6 @@ description: JP2 到 EMF Java 转换的示例代码。在任何基于 Web 或桌
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="将 JP2 转换为 EMF - Java" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
 {{< blocks/imaging-app-widget
         sectionTitle="将 JP2 转换为 EMF 的免费应用程序"
         appName="Conversion"
@@ -97,13 +87,21 @@ description: JP2 到 EMF Java 转换的示例代码。在任何基于 Web 或桌
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/zh-hans/conversion/JP2-to-EMF)"
         showPreview="true">}}
 
+{{% blocks/products/pf/agp/code-block title="将 JP2 转换为 EMF - Java" offSpacer="true" %}}
+
+{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-image-to-other-format.java" >}}
+
+{{% /blocks/products/pf/agp/code-block %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
+
     {{< blocks/products/pf/agp/about-file-section >}}
        
-        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | JP2">}}
 JPEG 2000 (JP2) 是一种图像编码系统和最先进的图像压缩标准。设计，使用小波技术 JPEG 2000 可以一次编码任何质量的无损内容。此外，在编码效率没有任何实质性损失的情况下，JPEG 2000 能够有效地访问相同的内容并将其解码为各种其他分辨率和质量。 JPEG 2000 中的码流具有显着的可扩展性，具有为空间随机访问提供便利的感兴趣区域。拥有多达 16384 个不同的组件，尺寸以万亿像素为单位，精度可高达 38 位/样本。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多">}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多 | EMF">}}
 增强型元文件格式 (EMF) 独立于设备存储图形图像。 EMF 的元文件由按时间顺序排列的可变长度记录组成，可以在任何输出设备上解析后呈现存储的图像。这些可变长度记录可以是封闭对象的定义、绘图命令和对准确渲染图像至关重要的图形属性。当设备使用自己的图形环境打开 EMF 图元文件时，无论打开设备平台如何，原始图像的比例、尺寸、颜色和其他图形属性都保持不变。
         {{< /blocks/products/pf/agp/about-file-text >}}
 
