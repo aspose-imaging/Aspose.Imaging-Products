@@ -73,9 +73,17 @@ Aspose.Imaging สำหรับ Java ได้รับการสนับ�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="แอปดูฟรี EMZ" 
+        appName="Viewer" 
+        extension="EMZ"
+        label1="เลือกหรือลากและวาง EMZ ภาพ" 
+        label2="รูปภาพจะถูกอัปโหลดและแสดงโดยอัตโนมัติ" 
+        checkFreeAppLabel="ตรวจสอบ [การสาธิตสดเพื่อดู EMZ](https://products.aspose.app/imaging/th/image-view/EMZ)">}}
+
 {{% blocks/products/pf/agp/code-block title="ดูภาพ EMZ - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "339fb6f6f36b878e48c3cf057f895589" "convert-images-to-png-format.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -95,14 +103,6 @@ Aspose.Imaging API เป็นโซลูชันการประมวล�
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="แอปดูฟรี EMZ" 
-        appName="Viewer" 
-        extension="EMZ"
-        label1="เลือกหรือลากและวาง EMZ ภาพ" 
-        label2="รูปภาพจะถูกอัปโหลดและแสดงโดยอัตโนมัติ" 
-        checkFreeAppLabel="ตรวจสอบ [การสาธิตสดเพื่อดู EMZ](https://products.aspose.app/imaging/th/image-view/EMZ)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม" >}}

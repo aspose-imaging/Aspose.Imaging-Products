@@ -75,7 +75,7 @@ Voordat u de conversievoorbeeldcode uitvoert, moet u ervoor zorgen dat u aan de 
 
 {{% blocks/products/pf/agp/code-block title="Converteer PNG naar TGA - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "6013edc0c1b050c2c0bc2e34da7f3263" "convert-png-to-tga.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

@@ -73,9 +73,17 @@ Aspose.Imaging för Java stöds på alla större operativsystem. Se bara till at
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Gratis app att visa TGA" 
+        appName="Viewer" 
+        extension="TGA"
+        label1="Välj eller dra och släpp en TGA-bild" 
+        label2="Bilden kommer automatiskt att laddas upp och visas" 
+        checkFreeAppLabel="Kolla in våra [live-demos för att se TGA](https://products.aspose.app/imaging/sv/image-view/TGA)">}}
+
 {{% blocks/products/pf/agp/code-block title="Visa TGA-bilder - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "7ea8d36893e41a713493a85f89a7bbc7" "convert-images-to-png-format.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -95,14 +103,6 @@ Aspose.Imaging API är en bildbehandlingslösning för att skapa, modifiera, rit
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Gratis app att visa TGA" 
-        appName="Viewer" 
-        extension="TGA"
-        label1="Välj eller dra och släpp en TGA-bild" 
-        label2="Bilden kommer automatiskt att laddas upp och visas" 
-        checkFreeAppLabel="Kolla in våra [live-demos för att se TGA](https://products.aspose.app/imaging/sv/image-view/TGA)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer" >}}

@@ -78,7 +78,7 @@ Antes de ejecutar el código de ejemplo de conversión, asegúrese de tener los 
 
 {{% blocks/products/pf/agp/code-block title="Convertir TIFF a WMF - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "a0918ab26b50f4aaa25213f37eb2e95b" "convert-tiff-to-wmf.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

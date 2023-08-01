@@ -13,7 +13,7 @@ description: Python 이미지 처리 및 조작 라이브러리. Aspose.Imaging 
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Python" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-python-net.svg" 
-liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/python-net/" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/python-net/" installationsDocsLink="https://docs.aspose.com/imaging/python-net/installation/" pipLink="https://pypi.org/project/aspose-imaging-python-net/" directDownloadLink="https://downloads.aspose.com/imaging/python-net/" liveDemosText="라이브 데모" overviewText="개요" featuresText="특징" resourcesText="자원" pricingText="가격" downloadText="다운로드" learnText="배우다" buyText="구입하다" >}}
+liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/python-net" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/python-net/" installationsDocsLink="https://docs.aspose.com/imaging/python-net/installation/" pipLink="https://pypi.org/project/aspose-imaging-python-net/" directDownloadLink="https://downloads.aspose.com/imaging/python-net/" liveDemosText="라이브 데모" overviewText="개요" featuresText="특징" resourcesText="자원" pricingText="가격" downloadText="다운로드" learnText="배우다" buyText="구입하다" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="에" carousel1Text2="섬광" carousel2Text1="플랫폼" carousel2Text2="독립" carousel3Text1="지원 파일" carousel3Text2="형식">}}
 <p align="justify">

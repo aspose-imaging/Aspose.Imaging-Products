@@ -61,9 +61,17 @@ Aspose.Imaging עבור .NET נתמך בכל מערכות ההפעלה העיק�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="אפליקציה בחינם לצפייה JPG" 
+        appName="Viewer" 
+        extension="JPG"
+        label1="בחר או גרור ושחרר תמונה JPG" 
+        label2="התמונה תועלה ותוצג באופן אוטומטי" 
+        checkFreeAppLabel="בדוק את [הדגמות החיים שלנו לצפייה ב-JPG](https://products.aspose.app/imaging/he/image-view/JPG)">}}
+
 {{% blocks/products/pf/agp/code-block title="הצג תמונות של JPG - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-images-to-png-format.cs" >}}
+{{< gist "aspose-com-gists" "5df13c606b80d0d08b0f19fac967995c" "convert-jpg-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -83,14 +91,6 @@ Aspose.Imaging API הוא פתרון לעיבוד תמונה ליצירה, שי�
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="אפליקציה בחינם לצפייה JPG" 
-        appName="Viewer" 
-        extension="JPG"
-        label1="בחר או גרור ושחרר תמונה JPG" 
-        label2="התמונה תועלה ותוצג באופן אוטומטי" 
-        checkFreeAppLabel="בדוק את [הדגמות החיים שלנו לצפייה ב-JPG](https://products.aspose.app/imaging/he/image-view/JPG)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד" >}}

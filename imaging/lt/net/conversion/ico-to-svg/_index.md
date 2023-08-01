@@ -75,7 +75,7 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
 
 {{% blocks/products/pf/agp/code-block title="Konvertuoti ICO į SVG – .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "f8341ff403180df3101ad95318d7954e" "convert-ico-to-svg.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

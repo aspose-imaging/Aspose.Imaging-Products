@@ -61,9 +61,17 @@ Aspose.Imaging för .NET stöds på alla större operativsystem. Se bara till at
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Gratis app att visa WMF" 
+        appName="Viewer" 
+        extension="WMF"
+        label1="Välj eller dra och släpp en WMF-bild" 
+        label2="Bilden kommer automatiskt att laddas upp och visas" 
+        checkFreeAppLabel="Kolla in våra [live-demos för att se WMF](https://products.aspose.app/imaging/sv/image-view/WMF)">}}
+
 {{% blocks/products/pf/agp/code-block title="Visa WMF-bilder - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-images-to-png-format.cs" >}}
+{{< gist "aspose-com-gists" "1bf18dd9bd143c0f8c4f8c47e2b51978" "convert-wmf-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -83,14 +91,6 @@ Aspose.Imaging API är en bildbehandlingslösning för att skapa, modifiera, rit
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Gratis app att visa WMF" 
-        appName="Viewer" 
-        extension="WMF"
-        label1="Välj eller dra och släpp en WMF-bild" 
-        label2="Bilden kommer automatiskt att laddas upp och visas" 
-        checkFreeAppLabel="Kolla in våra [live-demos för att se WMF](https://products.aspose.app/imaging/sv/image-view/WMF)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer" >}}

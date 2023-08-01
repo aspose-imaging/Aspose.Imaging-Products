@@ -60,9 +60,17 @@ Aspose.Imaging for .NETは、すべての主要なオペレーティングシス
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="表示する無料アプリEMZ" 
+        appName="Viewer" 
+        extension="EMZ"
+        label1="EMZ画像を選択またはドラッグアンドドロップします" 
+        label2="画像は自動的にアップロードされて表示されます" 
+        checkFreeAppLabel="[を表示するためのライブデモ] EMZ](https://products.aspose.app/imaging/ja/image-view/EMZ) を確認してください">}}
+
 {{% blocks/products/pf/agp/code-block title="EMZ画像を表示-.NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-images-to-png-format.cs" >}}
+{{< gist "aspose-com-gists" "339fb6f6f36b878e48c3cf057f895589" "convert-emz-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -82,14 +90,6 @@ Aspose.Imaging APIは、アプリケーション内で画像（写真）を作�
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="表示する無料アプリEMZ" 
-        appName="Viewer" 
-        extension="EMZ"
-        label1="EMZ画像を選択またはドラッグアンドドロップします" 
-        label2="画像は自動的にアップロードされて表示されます" 
-        checkFreeAppLabel="[を表示するためのライブデモ] EMZ](https://products.aspose.app/imaging/ja/image-view/EMZ) を確認してください">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む" >}}

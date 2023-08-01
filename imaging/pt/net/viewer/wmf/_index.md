@@ -62,9 +62,17 @@ Aspose.Imaging para .NET é compatível com todos os principais sistemas operaci
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Aplicativo gratuito para visualização WMF" 
+        appName="Viewer" 
+        extension="WMF"
+        label1="Selecione ou arraste e solte uma imagem WMF" 
+        label2="A imagem será carregada e mostrada automaticamente" 
+        checkFreeAppLabel="Confira nossas [demonstrações ao vivo para ver WMF](https://products.aspose.app/imaging/pt/image-view/WMF)">}}
+
 {{% blocks/products/pf/agp/code-block title="Ver imagens de WMF - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-images-to-png-format.cs" >}}
+{{< gist "aspose-com-gists" "1bf18dd9bd143c0f8c4f8c47e2b51978" "convert-wmf-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -84,14 +92,6 @@ Aspose.Imaging API é uma solução de processamento de imagens para criar, modi
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Aplicativo gratuito para visualização WMF" 
-        appName="Viewer" 
-        extension="WMF"
-        label1="Selecione ou arraste e solte uma imagem WMF" 
-        label2="A imagem será carregada e mostrada automaticamente" 
-        checkFreeAppLabel="Confira nossas [demonstrações ao vivo para ver WMF](https://products.aspose.app/imaging/pt/image-view/WMF)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação" >}}

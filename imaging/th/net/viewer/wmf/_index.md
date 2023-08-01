@@ -61,9 +61,17 @@ Aspose.Imaging สำหรับ .NET ได้รับการสนับ�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="แอปดูฟรี WMF" 
+        appName="Viewer" 
+        extension="WMF"
+        label1="เลือกหรือลากและวาง WMF ภาพ" 
+        label2="รูปภาพจะถูกอัปโหลดและแสดงโดยอัตโนมัติ" 
+        checkFreeAppLabel="ตรวจสอบ [การสาธิตสดเพื่อดู WMF](https://products.aspose.app/imaging/th/image-view/WMF)">}}
+
 {{% blocks/products/pf/agp/code-block title="ดูภาพ WMF - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-images-to-png-format.cs" >}}
+{{< gist "aspose-com-gists" "1bf18dd9bd143c0f8c4f8c47e2b51978" "convert-wmf-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -83,14 +91,6 @@ Aspose.Imaging API เป็นโซลูชันการประมวล�
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="แอปดูฟรี WMF" 
-        appName="Viewer" 
-        extension="WMF"
-        label1="เลือกหรือลากและวาง WMF ภาพ" 
-        label2="รูปภาพจะถูกอัปโหลดและแสดงโดยอัตโนมัติ" 
-        checkFreeAppLabel="ตรวจสอบ [การสาธิตสดเพื่อดู WMF](https://products.aspose.app/imaging/th/image-view/WMF)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม" >}}

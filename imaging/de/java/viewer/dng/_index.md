@@ -73,9 +73,17 @@ Aspose.Imaging für Java wird auf allen wichtigen Betriebssystemen unterstützt.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Kostenlose App zum Anzeigen von DNG" 
+        appName="Viewer" 
+        extension="DNG"
+        label1="Wählen Sie ein DNG-Bild aus oder ziehen Sie es per Drag-and-Drop" 
+        label2="Das Bild wird automatisch hochgeladen und angezeigt" 
+        checkFreeAppLabel="Sehen Sie sich unsere [Live-Demos zum Anzeigen von DNG](https://products.aspose.app/imaging/de/image-view/DNG)">}}
+
 {{% blocks/products/pf/agp/code-block title="DNG-Bilder anzeigen - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "61a66808ddf0e2e9ba60c4e6e8c576c2" "convert-images-to-png-format.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -95,14 +103,6 @@ Aspose.Imaging API ist eine Bildverarbeitungslösung zum Erstellen, Ändern, Zei
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Kostenlose App zum Anzeigen von DNG" 
-        appName="Viewer" 
-        extension="DNG"
-        label1="Wählen Sie ein DNG-Bild aus oder ziehen Sie es per Drag-and-Drop" 
-        label2="Das Bild wird automatisch hochgeladen und angezeigt" 
-        checkFreeAppLabel="Sehen Sie sich unsere [Live-Demos zum Anzeigen von DNG](https://products.aspose.app/imaging/de/image-view/DNG)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen" >}}

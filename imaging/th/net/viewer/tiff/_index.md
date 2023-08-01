@@ -61,9 +61,17 @@ Aspose.Imaging สำหรับ .NET ได้รับการสนับ�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="แอปดูฟรี TIFF" 
+        appName="Viewer" 
+        extension="TIFF"
+        label1="เลือกหรือลากและวาง TIFF ภาพ" 
+        label2="รูปภาพจะถูกอัปโหลดและแสดงโดยอัตโนมัติ" 
+        checkFreeAppLabel="ตรวจสอบ [การสาธิตสดเพื่อดู TIFF](https://products.aspose.app/imaging/th/image-view/TIFF)">}}
+
 {{% blocks/products/pf/agp/code-block title="ดูภาพ TIFF - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-images-to-png-format.cs" >}}
+{{< gist "aspose-com-gists" "a0918ab26b50f4aaa25213f37eb2e95b" "convert-tiff-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -83,14 +91,6 @@ Aspose.Imaging API เป็นโซลูชันการประมวล�
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="แอปดูฟรี TIFF" 
-        appName="Viewer" 
-        extension="TIFF"
-        label1="เลือกหรือลากและวาง TIFF ภาพ" 
-        label2="รูปภาพจะถูกอัปโหลดและแสดงโดยอัตโนมัติ" 
-        checkFreeAppLabel="ตรวจสอบ [การสาธิตสดเพื่อดู TIFF](https://products.aspose.app/imaging/th/image-view/TIFF)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม" >}}

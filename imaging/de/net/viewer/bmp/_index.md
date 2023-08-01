@@ -61,9 +61,17 @@ Aspose.Imaging für .NET wird auf allen wichtigen Betriebssystemen unterstützt.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Kostenlose App zum Anzeigen von BMP" 
+        appName="Viewer" 
+        extension="BMP"
+        label1="Wählen Sie ein BMP-Bild aus oder ziehen Sie es per Drag-and-Drop" 
+        label2="Das Bild wird automatisch hochgeladen und angezeigt" 
+        checkFreeAppLabel="Sehen Sie sich unsere [Live-Demos zum Anzeigen von BMP](https://products.aspose.app/imaging/de/image-view/BMP)">}}
+
 {{% blocks/products/pf/agp/code-block title="BMP-Bilder anzeigen - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-images-to-png-format.cs" >}}
+{{< gist "aspose-com-gists" "6ec855304907234b26961df70f13afb0" "convert-bmp-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -83,14 +91,6 @@ Aspose.Imaging API ist eine Bildverarbeitungslösung zum Erstellen, Ändern, Zei
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Kostenlose App zum Anzeigen von BMP" 
-        appName="Viewer" 
-        extension="BMP"
-        label1="Wählen Sie ein BMP-Bild aus oder ziehen Sie es per Drag-and-Drop" 
-        label2="Das Bild wird automatisch hochgeladen und angezeigt" 
-        checkFreeAppLabel="Sehen Sie sich unsere [Live-Demos zum Anzeigen von BMP](https://products.aspose.app/imaging/de/image-view/BMP)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen" >}}

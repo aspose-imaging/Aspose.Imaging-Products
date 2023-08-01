@@ -61,9 +61,17 @@ Aspose.Imaging pro .NET je podporován ve všech hlavních operačních systéme
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Bezplatná aplikace k zobrazení APNG" 
+        appName="Viewer" 
+        extension="APNG"
+        label1="Vyberte nebo přetáhněte obrázek APNG" 
+        label2="Obrázek se automaticky nahraje a zobrazí" 
+        checkFreeAppLabel="Podívejte se na naše [živé ukázky k zobrazení APNG](https://products.aspose.app/imaging/cs/image-view/APNG)">}}
+
 {{% blocks/products/pf/agp/code-block title="Zobrazit obrázky ve formátu APNG – .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-images-to-png-format.cs" >}}
+{{< gist "aspose-com-gists" "e6756e10d2c1e793c74b42a091958ece" "convert-apng-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -83,14 +91,6 @@ Aspose.Imaging API je řešení pro zpracování obrázků pro vytváření, úp
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Bezplatná aplikace k zobrazení APNG" 
-        appName="Viewer" 
-        extension="APNG"
-        label1="Vyberte nebo přetáhněte obrázek APNG" 
-        label2="Obrázek se automaticky nahraje a zobrazí" 
-        checkFreeAppLabel="Podívejte se na naše [živé ukázky k zobrazení APNG](https://products.aspose.app/imaging/cs/image-view/APNG)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více" >}}

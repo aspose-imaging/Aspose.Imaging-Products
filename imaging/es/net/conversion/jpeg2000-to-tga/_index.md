@@ -78,7 +78,7 @@ Antes de ejecutar el código de ejemplo de conversión, asegúrese de tener los 
 
 {{% blocks/products/pf/agp/code-block title="Convertir JPEG2000 a TGA - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "fd6e093454ec07a78c6573ee70c51a2c" "convert-jpeg2000-to-tga.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

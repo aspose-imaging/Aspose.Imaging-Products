@@ -76,7 +76,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/code-block title="J2K को ICO में बदलें - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "edfe5302b3a0d2d40140d608bf13a799" "convert-j2k-to-ico.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

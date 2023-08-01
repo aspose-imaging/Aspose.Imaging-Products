@@ -75,7 +75,7 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
 
 {{% blocks/products/pf/agp/code-block title="Konvertuoti WMZ į TGA – .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "69c0f75a96aeef906238823f6e345845" "convert-wmz-to-tga.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

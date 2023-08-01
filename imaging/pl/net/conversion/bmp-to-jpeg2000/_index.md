@@ -77,7 +77,7 @@ Przed uruchomieniem przykładowego kodu konwersji upewnij się, że masz następ
 
 {{% blocks/products/pf/agp/code-block title="Konwertuj BMP na JPEG2000 - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "6ec855304907234b26961df70f13afb0" "convert-bmp-to-jpeg2000.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

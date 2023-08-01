@@ -75,7 +75,7 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
 
 {{% blocks/products/pf/agp/code-block title="Konvertuoti SVG į BMP – .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "0d1b88d7ec3f1fc9af01ac8a836869a1" "convert-svg-to-bmp.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

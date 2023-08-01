@@ -76,7 +76,7 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
 
 {{% blocks/products/pf/agp/code-block title="Převést ODG na ICO – .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "9cb710068cd36fa27e64a3e2c8dece30" "convert-odg-to-ico.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

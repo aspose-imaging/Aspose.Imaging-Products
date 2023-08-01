@@ -75,7 +75,7 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
 
 {{% blocks/products/pf/agp/code-block title="WMF öğesini WMZ - .NET biçimine dönüştürün" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "1bf18dd9bd143c0f8c4f8c47e2b51978" "convert-wmf-to-wmz.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

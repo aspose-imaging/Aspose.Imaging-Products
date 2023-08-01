@@ -75,7 +75,7 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
 
 {{% blocks/products/pf/agp/code-block title="Chuyển đổi JP2 thành TIFF - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "d167f0c1dd15b076686df701892e6b1a" "convert-jp2-to-tiff.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

@@ -73,9 +73,17 @@ Aspose.Imaging cho Java được hỗ trợ trên tất cả các hệ điều h
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Ứng dụng miễn phí để xem CMX" 
+        appName="Viewer" 
+        extension="CMX"
+        label1="Chọn hoặc kéo và thả hình ảnh CMX" 
+        label2="Hình ảnh sẽ tự động được tải lên và hiển thị" 
+        checkFreeAppLabel="Kiểm tra [bản trình diễn trực tiếp để xem CMX](https://products.aspose.app/imaging/vi/image-view/CMX)">}}
+
 {{% blocks/products/pf/agp/code-block title="Xem hình ảnh CMX - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "71185958cb05d74f34ef9960f8dda4dd" "convert-images-to-png-format.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -95,14 +103,6 @@ Aspose.Imaging API là một giải pháp xử lý hình ảnh để tạo, sử
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Ứng dụng miễn phí để xem CMX" 
-        appName="Viewer" 
-        extension="CMX"
-        label1="Chọn hoặc kéo và thả hình ảnh CMX" 
-        label2="Hình ảnh sẽ tự động được tải lên và hiển thị" 
-        checkFreeAppLabel="Kiểm tra [bản trình diễn trực tiếp để xem CMX](https://products.aspose.app/imaging/vi/image-view/CMX)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm" >}}

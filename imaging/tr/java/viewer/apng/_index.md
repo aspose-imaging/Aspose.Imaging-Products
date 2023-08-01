@@ -73,9 +73,17 @@ Aspose.Imaging for Java tüm büyük işletim sistemlerinde desteklenir. Sadece 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Görüntülemek için Ücretsiz Uygulama APNG" 
+        appName="Viewer" 
+        extension="APNG"
+        label1="Bir APNG görüntüsünü seçin veya sürükleyip bırakın" 
+        label2="Resim otomatik olarak yüklenecek ve gösterilecektir" 
+        checkFreeAppLabel="[yi görüntülemek için canlı APNG](https://products.aspose.app/imaging/tr/image-view/APNG)">}}
+
 {{% blocks/products/pf/agp/code-block title="APNG resimleri görüntüleyin - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "e6756e10d2c1e793c74b42a091958ece" "convert-images-to-png-format.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -95,14 +103,6 @@ Aspose.Imaging API, uygulamalar içinde görüntüleri (fotoğrafları) oluştur
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Görüntülemek için Ücretsiz Uygulama APNG" 
-        appName="Viewer" 
-        extension="APNG"
-        label1="Bir APNG görüntüsünü seçin veya sürükleyip bırakın" 
-        label2="Resim otomatik olarak yüklenecek ve gösterilecektir" 
-        checkFreeAppLabel="[yi görüntülemek için canlı APNG](https://products.aspose.app/imaging/tr/image-view/APNG)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku" >}}

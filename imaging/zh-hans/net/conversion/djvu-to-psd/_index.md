@@ -75,7 +75,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/code-block title="将 DJVU 转换为 PSD - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "7cd7d94813fb73fe141054272437f6ae" "convert-djvu-to-psd.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

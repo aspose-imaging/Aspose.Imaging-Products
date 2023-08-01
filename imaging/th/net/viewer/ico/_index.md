@@ -61,9 +61,17 @@ Aspose.Imaging สำหรับ .NET ได้รับการสนับ�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="แอปดูฟรี ICO" 
+        appName="Viewer" 
+        extension="ICO"
+        label1="เลือกหรือลากและวาง ICO ภาพ" 
+        label2="รูปภาพจะถูกอัปโหลดและแสดงโดยอัตโนมัติ" 
+        checkFreeAppLabel="ตรวจสอบ [การสาธิตสดเพื่อดู ICO](https://products.aspose.app/imaging/th/image-view/ICO)">}}
+
 {{% blocks/products/pf/agp/code-block title="ดูภาพ ICO - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-images-to-png-format.cs" >}}
+{{< gist "aspose-com-gists" "f8341ff403180df3101ad95318d7954e" "convert-ico-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -83,14 +91,6 @@ Aspose.Imaging API เป็นโซลูชันการประมวล�
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="แอปดูฟรี ICO" 
-        appName="Viewer" 
-        extension="ICO"
-        label1="เลือกหรือลากและวาง ICO ภาพ" 
-        label2="รูปภาพจะถูกอัปโหลดและแสดงโดยอัตโนมัติ" 
-        checkFreeAppLabel="ตรวจสอบ [การสาธิตสดเพื่อดู ICO](https://products.aspose.app/imaging/th/image-view/ICO)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม" >}}

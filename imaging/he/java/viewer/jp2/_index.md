@@ -73,9 +73,17 @@ Aspose.Imaging עבור Java נתמך בכל מערכות ההפעלה העיק�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="אפליקציה בחינם לצפייה JP2" 
+        appName="Viewer" 
+        extension="JP2"
+        label1="בחר או גרור ושחרר תמונה JP2" 
+        label2="התמונה תועלה ותוצג באופן אוטומטי" 
+        checkFreeAppLabel="בדוק את [הדגמות החיים שלנו לצפייה ב-JP2](https://products.aspose.app/imaging/he/image-view/JP2)">}}
+
 {{% blocks/products/pf/agp/code-block title="הצג תמונות של JP2 - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "d167f0c1dd15b076686df701892e6b1a" "convert-images-to-png-format.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -95,14 +103,6 @@ Aspose.Imaging API הוא פתרון לעיבוד תמונה ליצירה, שי�
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="אפליקציה בחינם לצפייה JP2" 
-        appName="Viewer" 
-        extension="JP2"
-        label1="בחר או גרור ושחרר תמונה JP2" 
-        label2="התמונה תועלה ותוצג באופן אוטומטי" 
-        checkFreeAppLabel="בדוק את [הדגמות החיים שלנו לצפייה ב-JP2](https://products.aspose.app/imaging/he/image-view/JP2)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד" >}}

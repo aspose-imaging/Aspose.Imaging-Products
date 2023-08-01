@@ -13,7 +13,7 @@ description: Thư viện thao tác và xử lý ảnh Java. Tạo chế độ xe
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Java" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-java.svg" 
-liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/java/" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/java/" installationsDocsLink="https://docs.aspose.com/imaging/java/installation/" mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-imaging/" directDownloadLink="https://downloads.aspose.com/imaging/java/" liveDemosText="Bản trình diễn trực tiếp" overviewText="Tổng quat" featuresText="Đặc trưng" resourcesText="Tài nguyên" pricingText="Định giá" downloadText="Tải xuống" learnText="Học" buyText="Mua" >}}
+liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/java" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/java/" installationsDocsLink="https://docs.aspose.com/imaging/java/installation/" mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-imaging/" directDownloadLink="https://downloads.aspose.com/imaging/java/" liveDemosText="Bản trình diễn trực tiếp" overviewText="Tổng quat" featuresText="Đặc trưng" resourcesText="Tài nguyên" pricingText="Định giá" downloadText="Tải xuống" learnText="Học" buyText="Mua" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="Tại một" carousel1Text2="Liếc nhìn" carousel2Text1="Nền tảng" carousel2Text2="Sự độc lập" carousel3Text1="Tệp được hỗ trợ" carousel3Text2="Định dạng">}}
 <p align="justify">

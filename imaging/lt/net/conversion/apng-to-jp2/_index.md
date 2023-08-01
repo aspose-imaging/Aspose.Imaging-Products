@@ -75,7 +75,7 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
 
 {{% blocks/products/pf/agp/code-block title="Konvertuoti APNG į JP2 – .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "e6756e10d2c1e793c74b42a091958ece" "convert-apng-to-jp2.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

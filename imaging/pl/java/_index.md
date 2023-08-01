@@ -13,7 +13,7 @@ description: Biblioteka przetwarzania i manipulacji obrazami Java. Twórz widok 
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Java" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-java.svg" 
-liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/java/" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/java/" installationsDocsLink="https://docs.aspose.com/imaging/java/installation/" mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-imaging/" directDownloadLink="https://downloads.aspose.com/imaging/java/" liveDemosText="Prezentacje na żywo" overviewText="Przegląd" featuresText="Cechy" resourcesText="Zasoby" pricingText="cennik" downloadText="Pobierać" learnText="Uczyć się" buyText="Kupić" >}}
+liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/java" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/java/" installationsDocsLink="https://docs.aspose.com/imaging/java/installation/" mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-imaging/" directDownloadLink="https://downloads.aspose.com/imaging/java/" liveDemosText="Prezentacje na żywo" overviewText="Przegląd" featuresText="Cechy" resourcesText="Zasoby" pricingText="cennik" downloadText="Pobierać" learnText="Uczyć się" buyText="Kupić" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="O godz" carousel1Text2="Zerknąć" carousel2Text1="Platforma" carousel2Text2="Niezależność" carousel3Text1="Obsługiwany plik" carousel3Text2="Formaty">}}
 <p align="justify">

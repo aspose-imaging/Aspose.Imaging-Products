@@ -75,7 +75,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/code-block title="将 JPG 转换为 JP2 - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "5df13c606b80d0d08b0f19fac967995c" "convert-jpg-to-jp2.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

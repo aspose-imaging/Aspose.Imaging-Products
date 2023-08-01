@@ -77,7 +77,7 @@ Avant d'exécuter l'exemple de code de conversion, assurez-vous que vous dispose
 
 {{% blocks/products/pf/agp/code-block title="Convertir TIFF en WEBP - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "a0918ab26b50f4aaa25213f37eb2e95b" "convert-tiff-to-webp.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

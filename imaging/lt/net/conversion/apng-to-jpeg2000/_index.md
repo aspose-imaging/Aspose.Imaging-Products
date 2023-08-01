@@ -75,7 +75,7 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
 
 {{% blocks/products/pf/agp/code-block title="Konvertuoti APNG į JPEG2000 – .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "e6756e10d2c1e793c74b42a091958ece" "convert-apng-to-jpeg2000.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

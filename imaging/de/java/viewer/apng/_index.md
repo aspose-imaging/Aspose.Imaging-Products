@@ -73,9 +73,17 @@ Aspose.Imaging für Java wird auf allen wichtigen Betriebssystemen unterstützt.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Kostenlose App zum Anzeigen von APNG" 
+        appName="Viewer" 
+        extension="APNG"
+        label1="Wählen Sie ein APNG-Bild aus oder ziehen Sie es per Drag-and-Drop" 
+        label2="Das Bild wird automatisch hochgeladen und angezeigt" 
+        checkFreeAppLabel="Sehen Sie sich unsere [Live-Demos zum Anzeigen von APNG](https://products.aspose.app/imaging/de/image-view/APNG)">}}
+
 {{% blocks/products/pf/agp/code-block title="APNG-Bilder anzeigen - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "e6756e10d2c1e793c74b42a091958ece" "convert-images-to-png-format.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -95,14 +103,6 @@ Aspose.Imaging API ist eine Bildverarbeitungslösung zum Erstellen, Ändern, Zei
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Kostenlose App zum Anzeigen von APNG" 
-        appName="Viewer" 
-        extension="APNG"
-        label1="Wählen Sie ein APNG-Bild aus oder ziehen Sie es per Drag-and-Drop" 
-        label2="Das Bild wird automatisch hochgeladen und angezeigt" 
-        checkFreeAppLabel="Sehen Sie sich unsere [Live-Demos zum Anzeigen von APNG](https://products.aspose.app/imaging/de/image-view/APNG)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen" >}}

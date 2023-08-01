@@ -73,9 +73,17 @@ Aspose.Imaging for Java is supported on all major operating systems. Just make s
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Free App to View ICO" 
+        appName="Viewer" 
+        extension="ICO"
+        label1="Select or drag and drop an ICO image" 
+        label2="Image will be automatically uploaded and shown" 
+        checkFreeAppLabel="Check our [live demos to view ICO](https://products.aspose.app/imaging/en/image-view/ICO)">}}
+
 {{% blocks/products/pf/agp/code-block title="View ICO images - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "f8341ff403180df3101ad95318d7954e" "convert-images-to-png-format.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -95,14 +103,6 @@ Aspose.Imaging API is an image processing solution to create, modify, draw or co
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Free App to View ICO" 
-        appName="Viewer" 
-        extension="ICO"
-        label1="Select or drag and drop an ICO image" 
-        label2="Image will be automatically uploaded and shown" 
-        checkFreeAppLabel="Check our [live demos to view ICO](https://products.aspose.app/imaging/en/image-view/ICO)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="What is" whatIsFormat2="File Format" readMoreFormat="Read More" >}}

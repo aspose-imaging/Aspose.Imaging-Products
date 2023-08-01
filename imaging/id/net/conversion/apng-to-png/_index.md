@@ -75,7 +75,7 @@ Sebelum menjalankan kode contoh konversi, pastikan Anda memiliki prasyarat berik
 
 {{% blocks/products/pf/agp/code-block title="Konversi APNG ke PNG - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "e6756e10d2c1e793c74b42a091958ece" "convert-apng-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

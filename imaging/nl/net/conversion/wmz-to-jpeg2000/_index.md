@@ -75,7 +75,7 @@ Voordat u de conversievoorbeeldcode uitvoert, moet u ervoor zorgen dat u aan de 
 
 {{% blocks/products/pf/agp/code-block title="Converteer WMZ naar JPEG2000 - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "69c0f75a96aeef906238823f6e345845" "convert-wmz-to-jpeg2000.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

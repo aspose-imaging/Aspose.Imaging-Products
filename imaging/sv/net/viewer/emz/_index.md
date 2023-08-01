@@ -61,9 +61,17 @@ Aspose.Imaging för .NET stöds på alla större operativsystem. Se bara till at
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Gratis app att visa EMZ" 
+        appName="Viewer" 
+        extension="EMZ"
+        label1="Välj eller dra och släpp en EMZ-bild" 
+        label2="Bilden kommer automatiskt att laddas upp och visas" 
+        checkFreeAppLabel="Kolla in våra [live-demos för att se EMZ](https://products.aspose.app/imaging/sv/image-view/EMZ)">}}
+
 {{% blocks/products/pf/agp/code-block title="Visa EMZ-bilder - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-images-to-png-format.cs" >}}
+{{< gist "aspose-com-gists" "339fb6f6f36b878e48c3cf057f895589" "convert-emz-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -83,14 +91,6 @@ Aspose.Imaging API är en bildbehandlingslösning för att skapa, modifiera, rit
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Gratis app att visa EMZ" 
-        appName="Viewer" 
-        extension="EMZ"
-        label1="Välj eller dra och släpp en EMZ-bild" 
-        label2="Bilden kommer automatiskt att laddas upp och visas" 
-        checkFreeAppLabel="Kolla in våra [live-demos för att se EMZ](https://products.aspose.app/imaging/sv/image-view/EMZ)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer" >}}

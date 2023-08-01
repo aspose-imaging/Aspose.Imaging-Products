@@ -61,9 +61,17 @@ Aspose.Imaging for .NET is supported on all major operating systems. Just make s
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Free App to View WMZ" 
+        appName="Viewer" 
+        extension="WMZ"
+        label1="Select or drag and drop an WMZ image" 
+        label2="Image will be automatically uploaded and shown" 
+        checkFreeAppLabel="Check our [live demos to view WMZ](https://products.aspose.app/imaging/en/image-view/WMZ)">}}
+
 {{% blocks/products/pf/agp/code-block title="View WMZ images - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-images-to-png-format.cs" >}}
+{{< gist "aspose-com-gists" "69c0f75a96aeef906238823f6e345845" "convert-wmz-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -83,14 +91,6 @@ Aspose.Imaging API is an image processing solution to create, modify, draw or co
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Free App to View WMZ" 
-        appName="Viewer" 
-        extension="WMZ"
-        label1="Select or drag and drop an WMZ image" 
-        label2="Image will be automatically uploaded and shown" 
-        checkFreeAppLabel="Check our [live demos to view WMZ](https://products.aspose.app/imaging/en/image-view/WMZ)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="What is" whatIsFormat2="File Format" readMoreFormat="Read More" >}}

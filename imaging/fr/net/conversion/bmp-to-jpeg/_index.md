@@ -77,7 +77,7 @@ Avant d'exécuter l'exemple de code de conversion, assurez-vous que vous dispose
 
 {{% blocks/products/pf/agp/code-block title="Convertir BMP en JPEG - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "6ec855304907234b26961df70f13afb0" "convert-bmp-to-jpeg.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

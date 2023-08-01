@@ -74,7 +74,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/code-block title="تحويل JPEG2000 إلى JPG - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "fd6e093454ec07a78c6573ee70c51a2c" "convert-jpeg2000-to-jpg.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

@@ -77,7 +77,7 @@ Avant d'exécuter l'exemple de code de conversion, assurez-vous que vous dispose
 
 {{% blocks/products/pf/agp/code-block title="Convertir SVGZ en JP2 - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "ae12c4da49ebc08ae79f7e9fc2839bbb" "convert-svgz-to-jp2.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

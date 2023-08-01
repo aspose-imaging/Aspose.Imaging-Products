@@ -73,9 +73,17 @@ Aspose.Imaging for Java is supported on all major operating systems. Just make s
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Free App to View JPEG" 
+        appName="Viewer" 
+        extension="JPEG"
+        label1="Select or drag and drop an JPEG image" 
+        label2="Image will be automatically uploaded and shown" 
+        checkFreeAppLabel="Check our [live demos to view JPEG](https://products.aspose.app/imaging/en/image-view/JPEG)">}}
+
 {{% blocks/products/pf/agp/code-block title="View JPEG images - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "cfe5a5e567a33d1bd815485a06f09677" "convert-images-to-png-format.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -95,14 +103,6 @@ Aspose.Imaging API is an image processing solution to create, modify, draw or co
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Free App to View JPEG" 
-        appName="Viewer" 
-        extension="JPEG"
-        label1="Select or drag and drop an JPEG image" 
-        label2="Image will be automatically uploaded and shown" 
-        checkFreeAppLabel="Check our [live demos to view JPEG](https://products.aspose.app/imaging/en/image-view/JPEG)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="What is" whatIsFormat2="File Format" readMoreFormat="Read More" >}}

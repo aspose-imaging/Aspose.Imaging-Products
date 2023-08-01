@@ -61,9 +61,17 @@ Aspose.Imaging for .NET सभी प्रमुख ऑपरेटिंग �
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="देखने के लिए मुफ़्त ऐप WMZ" 
+        appName="Viewer" 
+        extension="WMZ"
+        label1="एक WMZ छवि चुनें या खींचें और छोड़ें" 
+        label2="छवि स्वचालित रूप से अपलोड और दिखाई जाएगी" 
+        checkFreeAppLabel="WMZ देखने के लिए हमारे [लाइव डेमो देखें](https://products.aspose.app/imaging/hi/image-view/WMZ)">}}
+
 {{% blocks/products/pf/agp/code-block title="WMZ इमेज देखें - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-images-to-png-format.cs" >}}
+{{< gist "aspose-com-gists" "69c0f75a96aeef906238823f6e345845" "convert-wmz-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -83,14 +91,6 @@ Aspose.Imaging API अनुप्रयोगों के भीतर छव�
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="देखने के लिए मुफ़्त ऐप WMZ" 
-        appName="Viewer" 
-        extension="WMZ"
-        label1="एक WMZ छवि चुनें या खींचें और छोड़ें" 
-        label2="छवि स्वचालित रूप से अपलोड और दिखाई जाएगी" 
-        checkFreeAppLabel="WMZ देखने के लिए हमारे [लाइव डेमो देखें](https://products.aspose.app/imaging/hi/image-view/WMZ)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें" >}}

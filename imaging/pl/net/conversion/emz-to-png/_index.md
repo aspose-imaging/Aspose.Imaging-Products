@@ -77,7 +77,7 @@ Przed uruchomieniem przykładowego kodu konwersji upewnij się, że masz następ
 
 {{% blocks/products/pf/agp/code-block title="Konwertuj EMZ na PNG - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "339fb6f6f36b878e48c3cf057f895589" "convert-emz-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

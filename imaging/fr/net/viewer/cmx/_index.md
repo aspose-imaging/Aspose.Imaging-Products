@@ -62,9 +62,17 @@ Aspose.Imaging pour .NET est pris en charge sur tous les principaux systèmes d'
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Application gratuite pour afficher CMX" 
+        appName="Viewer" 
+        extension="CMX"
+        label1="Sélectionnez ou faites glisser et déposez une image CMX" 
+        label2="L'image sera automatiquement téléchargée et affichée" 
+        checkFreeAppLabel="Consultez nos [démos en direct pour voir CMX](https://products.aspose.app/imaging/fr/image-view/CMX)">}}
+
 {{% blocks/products/pf/agp/code-block title="Afficher les images CMX - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-images-to-png-format.cs" >}}
+{{< gist "aspose-com-gists" "71185958cb05d74f34ef9960f8dda4dd" "convert-cmx-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -84,14 +92,6 @@ Aspose.Imaging API est une solution de traitement d'images pour créer, modifier
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Application gratuite pour afficher CMX" 
-        appName="Viewer" 
-        extension="CMX"
-        label1="Sélectionnez ou faites glisser et déposez une image CMX" 
-        label2="L'image sera automatiquement téléchargée et affichée" 
-        checkFreeAppLabel="Consultez nos [démos en direct pour voir CMX](https://products.aspose.app/imaging/fr/image-view/CMX)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite" >}}

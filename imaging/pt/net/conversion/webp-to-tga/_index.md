@@ -77,7 +77,7 @@ Antes de executar o código de exemplo de conversão, verifique se você tem os 
 
 {{% blocks/products/pf/agp/code-block title="Converter {Formato1} para {Formato2} - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "693590fa27d4fe2d795cc7fbcf5cbd64" "convert-webp-to-tga.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

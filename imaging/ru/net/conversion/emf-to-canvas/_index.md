@@ -77,7 +77,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/code-block title="Преобразование EMF в CANVAS - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "6886c18d67fa6c7970d9cf260b077988" "convert-emf-to-canvas.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

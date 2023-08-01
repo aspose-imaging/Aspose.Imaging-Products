@@ -78,7 +78,7 @@ Antes de ejecutar el código de ejemplo de conversión, asegúrese de tener los 
 
 {{% blocks/products/pf/agp/code-block title="Convertir DNG a JPEG - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "61a66808ddf0e2e9ba60c4e6e8c576c2" "convert-dng-to-jpeg.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

@@ -63,9 +63,17 @@ Aspose.Imaging para .NET es compatible con todos los principales sistemas operat
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Aplicación gratuita para ver EMF" 
+        appName="Viewer" 
+        extension="EMF"
+        label1="Seleccione o arrastre y suelte una imagen EMF" 
+        label2="La imagen se cargará y se mostrará automáticamente." 
+        checkFreeAppLabel="Consulte nuestras [demostraciones en vivo para ver EMF](https://products.aspose.app/imaging/es/image-view/EMF)">}}
+
 {{% blocks/products/pf/agp/code-block title="Ver imágenes EMF - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-images-to-png-format.cs" >}}
+{{< gist "aspose-com-gists" "6886c18d67fa6c7970d9cf260b077988" "convert-emf-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -85,14 +93,6 @@ Aspose.Imaging API es una solución de procesamiento de imágenes para crear, mo
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Aplicación gratuita para ver EMF" 
-        appName="Viewer" 
-        extension="EMF"
-        label1="Seleccione o arrastre y suelte una imagen EMF" 
-        label2="La imagen se cargará y se mostrará automáticamente." 
-        checkFreeAppLabel="Consulte nuestras [demostraciones en vivo para ver EMF](https://products.aspose.app/imaging/es/image-view/EMF)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más" >}}

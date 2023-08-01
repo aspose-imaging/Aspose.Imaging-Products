@@ -73,9 +73,17 @@ Jums reikia [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imag
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Nemokama programa, skirta peržiūrėti PNG" 
+        appName="Viewer" 
+        extension="PNG"
+        label1="Pasirinkite arba vilkite ir numeskite PNG vaizdą" 
+        label2="Vaizdas bus automatiškai įkeltas ir parodytas" 
+        checkFreeAppLabel="Peržiūrėkite mūsų [tiesiogines demonstracines versijas, kad galėtumėte peržiūrėti PNG](https://products.aspose.app/imaging/lt/image-view/PNG)">}}
+
 {{% blocks/products/pf/agp/code-block title="Peržiūrėti PNG vaizdus – Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "6013edc0c1b050c2c0bc2e34da7f3263" "convert-images-to-png-format.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -95,14 +103,6 @@ Aspose.Imaging API yra vaizdo apdorojimo sprendimas, skirtas kurti, modifikuoti,
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Nemokama programa, skirta peržiūrėti PNG" 
-        appName="Viewer" 
-        extension="PNG"
-        label1="Pasirinkite arba vilkite ir numeskite PNG vaizdą" 
-        label2="Vaizdas bus automatiškai įkeltas ir parodytas" 
-        checkFreeAppLabel="Peržiūrėkite mūsų [tiesiogines demonstracines versijas, kad galėtumėte peržiūrėti PNG](https://products.aspose.app/imaging/lt/image-view/PNG)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau" >}}

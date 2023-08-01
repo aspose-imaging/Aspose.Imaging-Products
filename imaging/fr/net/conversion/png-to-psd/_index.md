@@ -77,7 +77,7 @@ Avant d'exécuter l'exemple de code de conversion, assurez-vous que vous dispose
 
 {{% blocks/products/pf/agp/code-block title="Convertir PNG en PSD - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "6013edc0c1b050c2c0bc2e34da7f3263" "convert-png-to-psd.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

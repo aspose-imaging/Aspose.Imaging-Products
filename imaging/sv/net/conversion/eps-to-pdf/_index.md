@@ -76,7 +76,7 @@ Innan du kör koden för konverteringsexempel, se till att du har följande för
 
 {{% blocks/products/pf/agp/code-block title="Konvertera EPS till PDF - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "7accc5c9da8ca6e7ba395aa038174d5e" "convert-eps-to-pdf.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

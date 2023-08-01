@@ -73,9 +73,17 @@ Jums reikia [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imag
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Nemokama programa, skirta peržiūrėti TIF" 
+        appName="Viewer" 
+        extension="TIF"
+        label1="Pasirinkite arba vilkite ir numeskite TIF vaizdą" 
+        label2="Vaizdas bus automatiškai įkeltas ir parodytas" 
+        checkFreeAppLabel="Peržiūrėkite mūsų [tiesiogines demonstracines versijas, kad galėtumėte peržiūrėti TIF](https://products.aspose.app/imaging/lt/image-view/TIF)">}}
+
 {{% blocks/products/pf/agp/code-block title="Peržiūrėti TIF vaizdus – Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "7541e333aba1f137d31c8f0b15a4519f" "convert-images-to-png-format.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -95,14 +103,6 @@ Aspose.Imaging API yra vaizdo apdorojimo sprendimas, skirtas kurti, modifikuoti,
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Nemokama programa, skirta peržiūrėti TIF" 
-        appName="Viewer" 
-        extension="TIF"
-        label1="Pasirinkite arba vilkite ir numeskite TIF vaizdą" 
-        label2="Vaizdas bus automatiškai įkeltas ir parodytas" 
-        checkFreeAppLabel="Peržiūrėkite mūsų [tiesiogines demonstracines versijas, kad galėtumėte peržiūrėti TIF](https://products.aspose.app/imaging/lt/image-view/TIF)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="TIF" readMoreLink="https://docs.fileformat.com/image/tif/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau" >}}

@@ -73,9 +73,17 @@ Aspose.Imaging para Java é compatível com todos os principais sistemas operaci
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Aplicativo gratuito para visualização J2K" 
+        appName="Viewer" 
+        extension="J2K"
+        label1="Selecione ou arraste e solte uma imagem J2K" 
+        label2="A imagem será carregada e mostrada automaticamente" 
+        checkFreeAppLabel="Confira nossas [demonstrações ao vivo para ver J2K](https://products.aspose.app/imaging/pt/image-view/J2K)">}}
+
 {{% blocks/products/pf/agp/code-block title="Ver imagens de J2K - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "edfe5302b3a0d2d40140d608bf13a799" "convert-images-to-png-format.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -95,14 +103,6 @@ Aspose.Imaging API é uma solução de processamento de imagens para criar, modi
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Aplicativo gratuito para visualização J2K" 
-        appName="Viewer" 
-        extension="J2K"
-        label1="Selecione ou arraste e solte uma imagem J2K" 
-        label2="A imagem será carregada e mostrada automaticamente" 
-        checkFreeAppLabel="Confira nossas [demonstrações ao vivo para ver J2K](https://products.aspose.app/imaging/pt/image-view/J2K)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação" >}}

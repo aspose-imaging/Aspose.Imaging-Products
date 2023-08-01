@@ -73,9 +73,17 @@ Aspose.Imaging pour Java est pris en charge sur tous les principaux systèmes d'
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Application gratuite pour afficher DIB" 
+        appName="Viewer" 
+        extension="DIB"
+        label1="Sélectionnez ou faites glisser et déposez une image DIB" 
+        label2="L'image sera automatiquement téléchargée et affichée" 
+        checkFreeAppLabel="Consultez nos [démos en direct pour voir DIB](https://products.aspose.app/imaging/fr/image-view/DIB)">}}
+
 {{% blocks/products/pf/agp/code-block title="Afficher les images DIB - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "c105a05d95529e2551aa29cd9dc8d8e8" "convert-images-to-png-format.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -95,14 +103,6 @@ Aspose.Imaging API est une solution de traitement d'images pour créer, modifier
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Application gratuite pour afficher DIB" 
-        appName="Viewer" 
-        extension="DIB"
-        label1="Sélectionnez ou faites glisser et déposez une image DIB" 
-        label2="L'image sera automatiquement téléchargée et affichée" 
-        checkFreeAppLabel="Consultez nos [démos en direct pour voir DIB](https://products.aspose.app/imaging/fr/image-view/DIB)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite" >}}

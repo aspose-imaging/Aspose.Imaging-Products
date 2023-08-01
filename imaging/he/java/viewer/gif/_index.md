@@ -73,9 +73,17 @@ Aspose.Imaging עבור Java נתמך בכל מערכות ההפעלה העיק�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="אפליקציה בחינם לצפייה GIF" 
+        appName="Viewer" 
+        extension="GIF"
+        label1="בחר או גרור ושחרר תמונה GIF" 
+        label2="התמונה תועלה ותוצג באופן אוטומטי" 
+        checkFreeAppLabel="בדוק את [הדגמות החיים שלנו לצפייה ב-GIF](https://products.aspose.app/imaging/he/image-view/GIF)">}}
+
 {{% blocks/products/pf/agp/code-block title="הצג תמונות של GIF - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "0dfac1d679fe6125d696d1a66d991346" "convert-images-to-png-format.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -95,14 +103,6 @@ Aspose.Imaging API הוא פתרון לעיבוד תמונה ליצירה, שי�
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="אפליקציה בחינם לצפייה GIF" 
-        appName="Viewer" 
-        extension="GIF"
-        label1="בחר או גרור ושחרר תמונה GIF" 
-        label2="התמונה תועלה ותוצג באופן אוטומטי" 
-        checkFreeAppLabel="בדוק את [הדגמות החיים שלנו לצפייה ב-GIF](https://products.aspose.app/imaging/he/image-view/GIF)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד" >}}

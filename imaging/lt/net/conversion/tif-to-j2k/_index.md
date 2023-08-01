@@ -75,7 +75,7 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
 
 {{% blocks/products/pf/agp/code-block title="Konvertuoti TIF į J2K – .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "7541e333aba1f137d31c8f0b15a4519f" "convert-tif-to-j2k.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

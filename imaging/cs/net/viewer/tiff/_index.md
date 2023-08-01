@@ -61,9 +61,17 @@ Aspose.Imaging pro .NET je podporován ve všech hlavních operačních systéme
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Bezplatná aplikace k zobrazení TIFF" 
+        appName="Viewer" 
+        extension="TIFF"
+        label1="Vyberte nebo přetáhněte obrázek TIFF" 
+        label2="Obrázek se automaticky nahraje a zobrazí" 
+        checkFreeAppLabel="Podívejte se na naše [živé ukázky k zobrazení TIFF](https://products.aspose.app/imaging/cs/image-view/TIFF)">}}
+
 {{% blocks/products/pf/agp/code-block title="Zobrazit obrázky ve formátu TIFF – .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-images-to-png-format.cs" >}}
+{{< gist "aspose-com-gists" "a0918ab26b50f4aaa25213f37eb2e95b" "convert-tiff-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -83,14 +91,6 @@ Aspose.Imaging API je řešení pro zpracování obrázků pro vytváření, úp
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Bezplatná aplikace k zobrazení TIFF" 
-        appName="Viewer" 
-        extension="TIFF"
-        label1="Vyberte nebo přetáhněte obrázek TIFF" 
-        label2="Obrázek se automaticky nahraje a zobrazí" 
-        checkFreeAppLabel="Podívejte se na naše [živé ukázky k zobrazení TIFF](https://products.aspose.app/imaging/cs/image-view/TIFF)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více" >}}

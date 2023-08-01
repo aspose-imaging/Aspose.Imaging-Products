@@ -73,9 +73,17 @@ Aspose.Imaging for Java tüm büyük işletim sistemlerinde desteklenir. Sadece 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Görüntülemek için Ücretsiz Uygulama WMZ" 
+        appName="Viewer" 
+        extension="WMZ"
+        label1="Bir WMZ görüntüsünü seçin veya sürükleyip bırakın" 
+        label2="Resim otomatik olarak yüklenecek ve gösterilecektir" 
+        checkFreeAppLabel="[yi görüntülemek için canlı WMZ](https://products.aspose.app/imaging/tr/image-view/WMZ)">}}
+
 {{% blocks/products/pf/agp/code-block title="WMZ resimleri görüntüleyin - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "69c0f75a96aeef906238823f6e345845" "convert-images-to-png-format.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -95,14 +103,6 @@ Aspose.Imaging API, uygulamalar içinde görüntüleri (fotoğrafları) oluştur
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Görüntülemek için Ücretsiz Uygulama WMZ" 
-        appName="Viewer" 
-        extension="WMZ"
-        label1="Bir WMZ görüntüsünü seçin veya sürükleyip bırakın" 
-        label2="Resim otomatik olarak yüklenecek ve gösterilecektir" 
-        checkFreeAppLabel="[yi görüntülemek için canlı WMZ](https://products.aspose.app/imaging/tr/image-view/WMZ)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku" >}}

@@ -61,9 +61,17 @@ Aspose.Imaging pro .NET je podporován ve všech hlavních operačních systéme
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Bezplatná aplikace k zobrazení ODG" 
+        appName="Viewer" 
+        extension="ODG"
+        label1="Vyberte nebo přetáhněte obrázek ODG" 
+        label2="Obrázek se automaticky nahraje a zobrazí" 
+        checkFreeAppLabel="Podívejte se na naše [živé ukázky k zobrazení ODG](https://products.aspose.app/imaging/cs/image-view/ODG)">}}
+
 {{% blocks/products/pf/agp/code-block title="Zobrazit obrázky ve formátu ODG – .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-images-to-png-format.cs" >}}
+{{< gist "aspose-com-gists" "9cb710068cd36fa27e64a3e2c8dece30" "convert-odg-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -83,14 +91,6 @@ Aspose.Imaging API je řešení pro zpracování obrázků pro vytváření, úp
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Bezplatná aplikace k zobrazení ODG" 
-        appName="Viewer" 
-        extension="ODG"
-        label1="Vyberte nebo přetáhněte obrázek ODG" 
-        label2="Obrázek se automaticky nahraje a zobrazí" 
-        checkFreeAppLabel="Podívejte se na naše [živé ukázky k zobrazení ODG](https://products.aspose.app/imaging/cs/image-view/ODG)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více" >}}

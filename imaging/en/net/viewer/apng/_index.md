@@ -61,9 +61,17 @@ Aspose.Imaging for .NET is supported on all major operating systems. Just make s
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Free App to View APNG" 
+        appName="Viewer" 
+        extension="APNG"
+        label1="Select or drag and drop an APNG image" 
+        label2="Image will be automatically uploaded and shown" 
+        checkFreeAppLabel="Check our [live demos to view APNG](https://products.aspose.app/imaging/en/image-view/APNG)">}}
+
 {{% blocks/products/pf/agp/code-block title="View APNG images - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-images-to-png-format.cs" >}}
+{{< gist "aspose-com-gists" "e6756e10d2c1e793c74b42a091958ece" "convert-apng-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -83,14 +91,6 @@ Aspose.Imaging API is an image processing solution to create, modify, draw or co
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Free App to View APNG" 
-        appName="Viewer" 
-        extension="APNG"
-        label1="Select or drag and drop an APNG image" 
-        label2="Image will be automatically uploaded and shown" 
-        checkFreeAppLabel="Check our [live demos to view APNG](https://products.aspose.app/imaging/en/image-view/APNG)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="What is" whatIsFormat2="File Format" readMoreFormat="Read More" >}}

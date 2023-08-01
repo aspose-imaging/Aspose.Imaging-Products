@@ -75,7 +75,7 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
 
 {{% blocks/products/pf/agp/code-block title="Chuyển đổi CMX thành JP2 - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "71185958cb05d74f34ef9960f8dda4dd" "convert-cmx-to-jp2.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

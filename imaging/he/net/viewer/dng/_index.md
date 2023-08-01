@@ -61,9 +61,17 @@ Aspose.Imaging עבור .NET נתמך בכל מערכות ההפעלה העיק�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="אפליקציה בחינם לצפייה DNG" 
+        appName="Viewer" 
+        extension="DNG"
+        label1="בחר או גרור ושחרר תמונה DNG" 
+        label2="התמונה תועלה ותוצג באופן אוטומטי" 
+        checkFreeAppLabel="בדוק את [הדגמות החיים שלנו לצפייה ב-DNG](https://products.aspose.app/imaging/he/image-view/DNG)">}}
+
 {{% blocks/products/pf/agp/code-block title="הצג תמונות של DNG - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-images-to-png-format.cs" >}}
+{{< gist "aspose-com-gists" "61a66808ddf0e2e9ba60c4e6e8c576c2" "convert-dng-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -83,14 +91,6 @@ Aspose.Imaging API הוא פתרון לעיבוד תמונה ליצירה, שי�
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="אפליקציה בחינם לצפייה DNG" 
-        appName="Viewer" 
-        extension="DNG"
-        label1="בחר או גרור ושחרר תמונה DNG" 
-        label2="התמונה תועלה ותוצג באופן אוטומטי" 
-        checkFreeAppLabel="בדוק את [הדגמות החיים שלנו לצפייה ב-DNG](https://products.aspose.app/imaging/he/image-view/DNG)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד" >}}

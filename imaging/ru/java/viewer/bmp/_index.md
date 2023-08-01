@@ -73,9 +73,17 @@ Aspose.Imaging для Java поддерживается во всех основ
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Бесплатное приложение для просмотра BMP" 
+        appName="Viewer" 
+        extension="BMP"
+        label1="Выберите или перетащите изображение BMP" 
+        label2="Изображение будет автоматически загружено и показано" 
+        checkFreeAppLabel="Проверьте наши [живые демонстрации для просмотра BMP](https://products.aspose.app/imaging/ru/image-view/BMP)">}}
+
 {{% blocks/products/pf/agp/code-block title="Просмотр изображений BMP - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "6ec855304907234b26961df70f13afb0" "convert-images-to-png-format.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -95,14 +103,6 @@ Aspose.Imaging API — это решение для обработки изоб�
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Бесплатное приложение для просмотра BMP" 
-        appName="Viewer" 
-        extension="BMP"
-        label1="Выберите или перетащите изображение BMP" 
-        label2="Изображение будет автоматически загружено и показано" 
-        checkFreeAppLabel="Проверьте наши [живые демонстрации для просмотра BMP](https://products.aspose.app/imaging/ru/image-view/BMP)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее" >}}

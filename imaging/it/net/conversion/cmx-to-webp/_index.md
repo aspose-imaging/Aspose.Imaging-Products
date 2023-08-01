@@ -77,7 +77,7 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
 
 {{% blocks/products/pf/agp/code-block title="Converti CMX in WEBP - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "71185958cb05d74f34ef9960f8dda4dd" "convert-cmx-to-webp.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

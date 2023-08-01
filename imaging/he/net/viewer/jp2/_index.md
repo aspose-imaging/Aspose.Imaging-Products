@@ -61,9 +61,17 @@ Aspose.Imaging עבור .NET נתמך בכל מערכות ההפעלה העיק�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="אפליקציה בחינם לצפייה JP2" 
+        appName="Viewer" 
+        extension="JP2"
+        label1="בחר או גרור ושחרר תמונה JP2" 
+        label2="התמונה תועלה ותוצג באופן אוטומטי" 
+        checkFreeAppLabel="בדוק את [הדגמות החיים שלנו לצפייה ב-JP2](https://products.aspose.app/imaging/he/image-view/JP2)">}}
+
 {{% blocks/products/pf/agp/code-block title="הצג תמונות של JP2 - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-images-to-png-format.cs" >}}
+{{< gist "aspose-com-gists" "d167f0c1dd15b076686df701892e6b1a" "convert-jp2-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -83,14 +91,6 @@ Aspose.Imaging API הוא פתרון לעיבוד תמונה ליצירה, שי�
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="אפליקציה בחינם לצפייה JP2" 
-        appName="Viewer" 
-        extension="JP2"
-        label1="בחר או גרור ושחרר תמונה JP2" 
-        label2="התמונה תועלה ותוצג באופן אוטומטי" 
-        checkFreeAppLabel="בדוק את [הדגמות החיים שלנו לצפייה ב-JP2](https://products.aspose.app/imaging/he/image-view/JP2)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד" >}}

@@ -61,9 +61,17 @@ Aspose.Imaging för .NET stöds på alla större operativsystem. Se bara till at
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Gratis app att visa J2K" 
+        appName="Viewer" 
+        extension="J2K"
+        label1="Välj eller dra och släpp en J2K-bild" 
+        label2="Bilden kommer automatiskt att laddas upp och visas" 
+        checkFreeAppLabel="Kolla in våra [live-demos för att se J2K](https://products.aspose.app/imaging/sv/image-view/J2K)">}}
+
 {{% blocks/products/pf/agp/code-block title="Visa J2K-bilder - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-images-to-png-format.cs" >}}
+{{< gist "aspose-com-gists" "edfe5302b3a0d2d40140d608bf13a799" "convert-j2k-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -83,14 +91,6 @@ Aspose.Imaging API är en bildbehandlingslösning för att skapa, modifiera, rit
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Gratis app att visa J2K" 
-        appName="Viewer" 
-        extension="J2K"
-        label1="Välj eller dra och släpp en J2K-bild" 
-        label2="Bilden kommer automatiskt att laddas upp och visas" 
-        checkFreeAppLabel="Kolla in våra [live-demos för att se J2K](https://products.aspose.app/imaging/sv/image-view/J2K)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer" >}}

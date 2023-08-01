@@ -62,9 +62,17 @@ Aspose.Imaging для .NET поддерживается во всех основ
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Бесплатное приложение для просмотра APNG" 
+        appName="Viewer" 
+        extension="APNG"
+        label1="Выберите или перетащите изображение APNG" 
+        label2="Изображение будет автоматически загружено и показано" 
+        checkFreeAppLabel="Проверьте наши [живые демонстрации для просмотра APNG](https://products.aspose.app/imaging/ru/image-view/APNG)">}}
+
 {{% blocks/products/pf/agp/code-block title="Просмотр изображений APNG - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-images-to-png-format.cs" >}}
+{{< gist "aspose-com-gists" "e6756e10d2c1e793c74b42a091958ece" "convert-apng-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -84,14 +92,6 @@ Aspose.Imaging API — это решение для обработки изоб�
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Бесплатное приложение для просмотра APNG" 
-        appName="Viewer" 
-        extension="APNG"
-        label1="Выберите или перетащите изображение APNG" 
-        label2="Изображение будет автоматически загружено и показано" 
-        checkFreeAppLabel="Проверьте наши [живые демонстрации для просмотра APNG](https://products.aspose.app/imaging/ru/image-view/APNG)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="APNG" readMoreLink="https://docs.fileformat.com/image/apng/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее" >}}

@@ -61,9 +61,17 @@ Aspose.Imaging for .NET is supported on all major operating systems. Just make s
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Free App to View TIFF" 
+        appName="Viewer" 
+        extension="TIFF"
+        label1="Select or drag and drop an TIFF image" 
+        label2="Image will be automatically uploaded and shown" 
+        checkFreeAppLabel="Check our [live demos to view TIFF](https://products.aspose.app/imaging/en/image-view/TIFF)">}}
+
 {{% blocks/products/pf/agp/code-block title="View TIFF images - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-images-to-png-format.cs" >}}
+{{< gist "aspose-com-gists" "a0918ab26b50f4aaa25213f37eb2e95b" "convert-tiff-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -83,14 +91,6 @@ Aspose.Imaging API is an image processing solution to create, modify, draw or co
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Free App to View TIFF" 
-        appName="Viewer" 
-        extension="TIFF"
-        label1="Select or drag and drop an TIFF image" 
-        label2="Image will be automatically uploaded and shown" 
-        checkFreeAppLabel="Check our [live demos to view TIFF](https://products.aspose.app/imaging/en/image-view/TIFF)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="What is" whatIsFormat2="File Format" readMoreFormat="Read More" >}}

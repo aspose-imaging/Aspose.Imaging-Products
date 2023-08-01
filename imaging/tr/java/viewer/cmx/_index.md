@@ -73,9 +73,17 @@ Aspose.Imaging for Java tüm büyük işletim sistemlerinde desteklenir. Sadece 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Görüntülemek için Ücretsiz Uygulama CMX" 
+        appName="Viewer" 
+        extension="CMX"
+        label1="Bir CMX görüntüsünü seçin veya sürükleyip bırakın" 
+        label2="Resim otomatik olarak yüklenecek ve gösterilecektir" 
+        checkFreeAppLabel="[yi görüntülemek için canlı CMX](https://products.aspose.app/imaging/tr/image-view/CMX)">}}
+
 {{% blocks/products/pf/agp/code-block title="CMX resimleri görüntüleyin - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "71185958cb05d74f34ef9960f8dda4dd" "convert-images-to-png-format.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -95,14 +103,6 @@ Aspose.Imaging API, uygulamalar içinde görüntüleri (fotoğrafları) oluştur
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Görüntülemek için Ücretsiz Uygulama CMX" 
-        appName="Viewer" 
-        extension="CMX"
-        label1="Bir CMX görüntüsünü seçin veya sürükleyip bırakın" 
-        label2="Resim otomatik olarak yüklenecek ve gösterilecektir" 
-        checkFreeAppLabel="[yi görüntülemek için canlı CMX](https://products.aspose.app/imaging/tr/image-view/CMX)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="CMX" readMoreLink="https://docs.fileformat.com/image/cmx/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku" >}}

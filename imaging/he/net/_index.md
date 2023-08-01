@@ -13,7 +13,7 @@ description: API של ספריית עיבוד תמונות ומניפולציה 
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for .NET" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-net.svg" 
-liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/net/" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/net/" installationsDocsLink="https://docs.aspose.com/imaging/net/installation/" nugetLink="https://www.nuget.org/packages/aspose.imaging" nugetPackageName="Aspose.Imaging" directDownloadLink="https://downloads.aspose.com/imaging/net/" liveDemosText="הדגמות חיות" overviewText="סקירה כללית" featuresText="תכונות" resourcesText="אֶמְצָעִי" pricingText="תמחור" downloadText="הורד" learnText="לִלמוֹד" buyText="לִקְנוֹת" >}}
+liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/net" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/net/" installationsDocsLink="https://docs.aspose.com/imaging/net/installation/" nugetLink="https://www.nuget.org/packages/aspose.imaging" nugetPackageName="Aspose.Imaging" directDownloadLink="https://downloads.aspose.com/imaging/net/" liveDemosText="הדגמות חיות" overviewText="סקירה כללית" featuresText="תכונות" resourcesText="אֶמְצָעִי" pricingText="תמחור" downloadText="הורד" learnText="לִלמוֹד" buyText="לִקְנוֹת" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="בשעה א" carousel1Text2="מַבָּט" carousel2Text1="פּלַטפוֹרמָה" carousel2Text2="עצמאות" carousel3Text1="קובץ נתמך" carousel3Text2="פורמטים">}}
 <p align="justify">

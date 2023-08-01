@@ -76,7 +76,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/code-block title="แปลง SVG เป็น JPEG2000 - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "0d1b88d7ec3f1fc9af01ac8a836869a1" "convert-svg-to-jpeg2000.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

@@ -61,9 +61,17 @@ Aspose.Imaging für .NET wird auf allen wichtigen Betriebssystemen unterstützt.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Kostenlose App zum Anzeigen von JPEG" 
+        appName="Viewer" 
+        extension="JPEG"
+        label1="Wählen Sie ein JPEG-Bild aus oder ziehen Sie es per Drag-and-Drop" 
+        label2="Das Bild wird automatisch hochgeladen und angezeigt" 
+        checkFreeAppLabel="Sehen Sie sich unsere [Live-Demos zum Anzeigen von JPEG](https://products.aspose.app/imaging/de/image-view/JPEG)">}}
+
 {{% blocks/products/pf/agp/code-block title="JPEG-Bilder anzeigen - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-images-to-png-format.cs" >}}
+{{< gist "aspose-com-gists" "cfe5a5e567a33d1bd815485a06f09677" "convert-jpeg-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -83,14 +91,6 @@ Aspose.Imaging API ist eine Bildverarbeitungslösung zum Erstellen, Ändern, Zei
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Kostenlose App zum Anzeigen von JPEG" 
-        appName="Viewer" 
-        extension="JPEG"
-        label1="Wählen Sie ein JPEG-Bild aus oder ziehen Sie es per Drag-and-Drop" 
-        label2="Das Bild wird automatisch hochgeladen und angezeigt" 
-        checkFreeAppLabel="Sehen Sie sich unsere [Live-Demos zum Anzeigen von JPEG](https://products.aspose.app/imaging/de/image-view/JPEG)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen" >}}

@@ -62,9 +62,17 @@ Aspose.Imaging pour .NET est pris en charge sur tous les principaux systèmes d'
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Application gratuite pour afficher TGA" 
+        appName="Viewer" 
+        extension="TGA"
+        label1="Sélectionnez ou faites glisser et déposez une image TGA" 
+        label2="L'image sera automatiquement téléchargée et affichée" 
+        checkFreeAppLabel="Consultez nos [démos en direct pour voir TGA](https://products.aspose.app/imaging/fr/image-view/TGA)">}}
+
 {{% blocks/products/pf/agp/code-block title="Afficher les images TGA - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-images-to-png-format.cs" >}}
+{{< gist "aspose-com-gists" "7ea8d36893e41a713493a85f89a7bbc7" "convert-tga-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -84,14 +92,6 @@ Aspose.Imaging API est une solution de traitement d'images pour créer, modifier
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Application gratuite pour afficher TGA" 
-        appName="Viewer" 
-        extension="TGA"
-        label1="Sélectionnez ou faites glisser et déposez une image TGA" 
-        label2="L'image sera automatiquement téléchargée et affichée" 
-        checkFreeAppLabel="Consultez nos [démos en direct pour voir TGA](https://products.aspose.app/imaging/fr/image-view/TGA)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="TGA" readMoreLink="https://docs.fileformat.com/image/tga/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite" >}}

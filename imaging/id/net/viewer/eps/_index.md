@@ -60,9 +60,17 @@ Aspose.Imaging untuk .NET didukung di semua sistem operasi utama. Pastikan saja 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Aplikasi Gratis untuk Melihat EPS" 
+        appName="Viewer" 
+        extension="EPS"
+        label1="Pilih atau seret dan lepas gambar EPS" 
+        label2="Gambar akan secara otomatis diunggah dan ditampilkan" 
+        checkFreeAppLabel="Lihat [demo langsung kami untuk melihat EPS](https://products.aspose.app/imaging/id/image-view/EPS)">}}
+
 {{% blocks/products/pf/agp/code-block title="Lihat gambar EPS - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-images-to-png-format.cs" >}}
+{{< gist "aspose-com-gists" "7accc5c9da8ca6e7ba395aa038174d5e" "convert-eps-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -82,14 +90,6 @@ Aspose.Imaging API adalah solusi pemrosesan gambar untuk membuat, memodifikasi, 
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Aplikasi Gratis untuk Melihat EPS" 
-        appName="Viewer" 
-        extension="EPS"
-        label1="Pilih atau seret dan lepas gambar EPS" 
-        label2="Gambar akan secara otomatis diunggah dan ditampilkan" 
-        checkFreeAppLabel="Lihat [demo langsung kami untuk melihat EPS](https://products.aspose.app/imaging/id/image-view/EPS)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya" >}}

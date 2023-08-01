@@ -62,9 +62,17 @@ Aspose.Imaging pour .NET est pris en charge sur tous les principaux systèmes d'
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Application gratuite pour afficher TIFF" 
+        appName="Viewer" 
+        extension="TIFF"
+        label1="Sélectionnez ou faites glisser et déposez une image TIFF" 
+        label2="L'image sera automatiquement téléchargée et affichée" 
+        checkFreeAppLabel="Consultez nos [démos en direct pour voir TIFF](https://products.aspose.app/imaging/fr/image-view/TIFF)">}}
+
 {{% blocks/products/pf/agp/code-block title="Afficher les images TIFF - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-images-to-png-format.cs" >}}
+{{< gist "aspose-com-gists" "a0918ab26b50f4aaa25213f37eb2e95b" "convert-tiff-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -84,14 +92,6 @@ Aspose.Imaging API est une solution de traitement d'images pour créer, modifier
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Application gratuite pour afficher TIFF" 
-        appName="Viewer" 
-        extension="TIFF"
-        label1="Sélectionnez ou faites glisser et déposez une image TIFF" 
-        label2="L'image sera automatiquement téléchargée et affichée" 
-        checkFreeAppLabel="Consultez nos [démos en direct pour voir TIFF](https://products.aspose.app/imaging/fr/image-view/TIFF)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Qu'est-ce que" whatIsFormat2="Format de fichier" readMoreFormat="Lire la suite" >}}

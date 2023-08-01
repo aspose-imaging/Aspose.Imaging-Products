@@ -73,9 +73,17 @@ Aspose.Imaging สำหรับ Java ได้รับการสนับ�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="แอปดูฟรี DNG" 
+        appName="Viewer" 
+        extension="DNG"
+        label1="เลือกหรือลากและวาง DNG ภาพ" 
+        label2="รูปภาพจะถูกอัปโหลดและแสดงโดยอัตโนมัติ" 
+        checkFreeAppLabel="ตรวจสอบ [การสาธิตสดเพื่อดู DNG](https://products.aspose.app/imaging/th/image-view/DNG)">}}
+
 {{% blocks/products/pf/agp/code-block title="ดูภาพ DNG - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "61a66808ddf0e2e9ba60c4e6e8c576c2" "convert-images-to-png-format.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -95,14 +103,6 @@ Aspose.Imaging API เป็นโซลูชันการประมวล�
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="แอปดูฟรี DNG" 
-        appName="Viewer" 
-        extension="DNG"
-        label1="เลือกหรือลากและวาง DNG ภาพ" 
-        label2="รูปภาพจะถูกอัปโหลดและแสดงโดยอัตโนมัติ" 
-        checkFreeAppLabel="ตรวจสอบ [การสาธิตสดเพื่อดู DNG](https://products.aspose.app/imaging/th/image-view/DNG)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="คืออะไร" whatIsFormat2="รูปแบบไฟล์" readMoreFormat="อ่านเพิ่มเติม" >}}

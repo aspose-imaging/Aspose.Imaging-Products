@@ -62,9 +62,17 @@ Aspose.Imaging para .NET é compatível com todos os principais sistemas operaci
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Aplicativo gratuito para visualização GIF" 
+        appName="Viewer" 
+        extension="GIF"
+        label1="Selecione ou arraste e solte uma imagem GIF" 
+        label2="A imagem será carregada e mostrada automaticamente" 
+        checkFreeAppLabel="Confira nossas [demonstrações ao vivo para ver GIF](https://products.aspose.app/imaging/pt/image-view/GIF)">}}
+
 {{% blocks/products/pf/agp/code-block title="Ver imagens de GIF - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-images-to-png-format.cs" >}}
+{{< gist "aspose-com-gists" "0dfac1d679fe6125d696d1a66d991346" "convert-gif-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -84,14 +92,6 @@ Aspose.Imaging API é uma solução de processamento de imagens para criar, modi
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Aplicativo gratuito para visualização GIF" 
-        appName="Viewer" 
-        extension="GIF"
-        label1="Selecione ou arraste e solte uma imagem GIF" 
-        label2="A imagem será carregada e mostrada automaticamente" 
-        checkFreeAppLabel="Confira nossas [demonstrações ao vivo para ver GIF](https://products.aspose.app/imaging/pt/image-view/GIF)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação" >}}

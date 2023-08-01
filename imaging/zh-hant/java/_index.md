@@ -13,7 +13,7 @@ description: Java 圖像處理和操作庫。無需任何圖像編輯器即可�
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Java" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-java.svg" 
-liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/java/" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/java/" installationsDocsLink="https://docs.aspose.com/imaging/java/installation/" mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-imaging/" directDownloadLink="https://downloads.aspose.com/imaging/java/" liveDemosText="現場演示" overviewText="概述" featuresText="特徵" resourcesText="資源" pricingText="價錢" downloadText="下載" learnText="學習" buyText="買" >}}
+liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/java" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/java/" installationsDocsLink="https://docs.aspose.com/imaging/java/installation/" mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-imaging/" directDownloadLink="https://downloads.aspose.com/imaging/java/" liveDemosText="現場演示" overviewText="概述" featuresText="特徵" resourcesText="資源" pricingText="價錢" downloadText="下載" learnText="學習" buyText="買" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="在一個" carousel1Text2="一目了然" carousel2Text1="平台" carousel2Text2="獨立" carousel3Text1="支持的文件" carousel3Text2="格式">}}
 <p align="justify">

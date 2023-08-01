@@ -60,9 +60,17 @@ Aspose.Imaging for .NETは、すべての主要なオペレーティングシス
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="表示する無料アプリTIF" 
+        appName="Viewer" 
+        extension="TIF"
+        label1="TIF画像を選択またはドラッグアンドドロップします" 
+        label2="画像は自動的にアップロードされて表示されます" 
+        checkFreeAppLabel="[を表示するためのライブデモ] TIF](https://products.aspose.app/imaging/ja/image-view/TIF) を確認してください">}}
+
 {{% blocks/products/pf/agp/code-block title="TIF画像を表示-.NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-images-to-png-format.cs" >}}
+{{< gist "aspose-com-gists" "7541e333aba1f137d31c8f0b15a4519f" "convert-tif-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -82,14 +90,6 @@ Aspose.Imaging APIは、アプリケーション内で画像（写真）を作�
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="表示する無料アプリTIF" 
-        appName="Viewer" 
-        extension="TIF"
-        label1="TIF画像を選択またはドラッグアンドドロップします" 
-        label2="画像は自動的にアップロードされて表示されます" 
-        checkFreeAppLabel="[を表示するためのライブデモ] TIF](https://products.aspose.app/imaging/ja/image-view/TIF) を確認してください">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="TIF" readMoreLink="https://docs.fileformat.com/image/tif/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む" >}}

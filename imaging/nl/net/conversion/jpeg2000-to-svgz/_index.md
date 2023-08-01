@@ -75,7 +75,7 @@ Voordat u de conversievoorbeeldcode uitvoert, moet u ervoor zorgen dat u aan de 
 
 {{% blocks/products/pf/agp/code-block title="Converteer JPEG2000 naar SVGZ - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "fd6e093454ec07a78c6573ee70c51a2c" "convert-jpeg2000-to-svgz.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

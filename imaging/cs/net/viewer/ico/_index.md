@@ -61,9 +61,17 @@ Aspose.Imaging pro .NET je podporován ve všech hlavních operačních systéme
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Bezplatná aplikace k zobrazení ICO" 
+        appName="Viewer" 
+        extension="ICO"
+        label1="Vyberte nebo přetáhněte obrázek ICO" 
+        label2="Obrázek se automaticky nahraje a zobrazí" 
+        checkFreeAppLabel="Podívejte se na naše [živé ukázky k zobrazení ICO](https://products.aspose.app/imaging/cs/image-view/ICO)">}}
+
 {{% blocks/products/pf/agp/code-block title="Zobrazit obrázky ve formátu ICO – .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-images-to-png-format.cs" >}}
+{{< gist "aspose-com-gists" "f8341ff403180df3101ad95318d7954e" "convert-ico-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -83,14 +91,6 @@ Aspose.Imaging API je řešení pro zpracování obrázků pro vytváření, úp
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Bezplatná aplikace k zobrazení ICO" 
-        appName="Viewer" 
-        extension="ICO"
-        label1="Vyberte nebo přetáhněte obrázek ICO" 
-        label2="Obrázek se automaticky nahraje a zobrazí" 
-        checkFreeAppLabel="Podívejte se na naše [živé ukázky k zobrazení ICO](https://products.aspose.app/imaging/cs/image-view/ICO)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="ICO" readMoreLink="https://docs.fileformat.com/image/ico/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více" >}}

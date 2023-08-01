@@ -77,7 +77,7 @@ Przed uruchomieniem przykładowego kodu konwersji upewnij się, że masz następ
 
 {{% blocks/products/pf/agp/code-block title="Konwertuj DJVU na ICO - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "7cd7d94813fb73fe141054272437f6ae" "convert-djvu-to-ico.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

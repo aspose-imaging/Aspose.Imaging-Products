@@ -73,9 +73,17 @@ Aspose.Imaging cho Java được hỗ trợ trên tất cả các hệ điều h
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Ứng dụng miễn phí để xem WMZ" 
+        appName="Viewer" 
+        extension="WMZ"
+        label1="Chọn hoặc kéo và thả hình ảnh WMZ" 
+        label2="Hình ảnh sẽ tự động được tải lên và hiển thị" 
+        checkFreeAppLabel="Kiểm tra [bản trình diễn trực tiếp để xem WMZ](https://products.aspose.app/imaging/vi/image-view/WMZ)">}}
+
 {{% blocks/products/pf/agp/code-block title="Xem hình ảnh WMZ - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "69c0f75a96aeef906238823f6e345845" "convert-images-to-png-format.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -95,14 +103,6 @@ Aspose.Imaging API là một giải pháp xử lý hình ảnh để tạo, sử
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Ứng dụng miễn phí để xem WMZ" 
-        appName="Viewer" 
-        extension="WMZ"
-        label1="Chọn hoặc kéo và thả hình ảnh WMZ" 
-        label2="Hình ảnh sẽ tự động được tải lên và hiển thị" 
-        checkFreeAppLabel="Kiểm tra [bản trình diễn trực tiếp để xem WMZ](https://products.aspose.app/imaging/vi/image-view/WMZ)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="WMZ" readMoreLink="https://docs.fileformat.com/image/wmz/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm" >}}

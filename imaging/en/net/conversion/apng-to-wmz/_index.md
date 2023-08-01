@@ -76,7 +76,7 @@ Before running the conversion example code, make sure that you have the followin
 
 {{% blocks/products/pf/agp/code-block title="Convert APNG to WMZ - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "e6756e10d2c1e793c74b42a091958ece" "convert-apng-to-wmz.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

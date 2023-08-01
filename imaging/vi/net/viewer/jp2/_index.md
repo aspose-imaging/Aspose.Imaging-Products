@@ -62,9 +62,17 @@ Aspose.Imaging cho .NET được hỗ trợ trên tất cả các hệ điều h
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Ứng dụng miễn phí để xem JP2" 
+        appName="Viewer" 
+        extension="JP2"
+        label1="Chọn hoặc kéo và thả hình ảnh JP2" 
+        label2="Hình ảnh sẽ tự động được tải lên và hiển thị" 
+        checkFreeAppLabel="Kiểm tra [bản trình diễn trực tiếp để xem JP2](https://products.aspose.app/imaging/vi/image-view/JP2)">}}
+
 {{% blocks/products/pf/agp/code-block title="Xem hình ảnh JP2 - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-images-to-png-format.cs" >}}
+{{< gist "aspose-com-gists" "d167f0c1dd15b076686df701892e6b1a" "convert-jp2-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -84,14 +92,6 @@ Aspose.Imaging API là một giải pháp xử lý hình ảnh để tạo, sử
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Ứng dụng miễn phí để xem JP2" 
-        appName="Viewer" 
-        extension="JP2"
-        label1="Chọn hoặc kéo và thả hình ảnh JP2" 
-        label2="Hình ảnh sẽ tự động được tải lên và hiển thị" 
-        checkFreeAppLabel="Kiểm tra [bản trình diễn trực tiếp để xem JP2](https://products.aspose.app/imaging/vi/image-view/JP2)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Những gì là" whatIsFormat2="Định dạng tệp" readMoreFormat="Đọc thêm" >}}

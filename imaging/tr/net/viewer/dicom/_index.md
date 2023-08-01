@@ -60,9 +60,17 @@ Aspose.Imaging for .NET tüm büyük işletim sistemlerinde desteklenir. Sadece 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Görüntülemek için Ücretsiz Uygulama DICOM" 
+        appName="Viewer" 
+        extension="DICOM"
+        label1="Bir DICOM görüntüsünü seçin veya sürükleyip bırakın" 
+        label2="Resim otomatik olarak yüklenecek ve gösterilecektir" 
+        checkFreeAppLabel="[yi görüntülemek için canlı DICOM](https://products.aspose.app/imaging/tr/image-view/DICOM)">}}
+
 {{% blocks/products/pf/agp/code-block title="DICOM resimleri görüntüleyin - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-images-to-png-format.cs" >}}
+{{< gist "aspose-com-gists" "d2556ab69aeedafc6cf8c7c569c46075" "convert-dicom-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -82,14 +90,6 @@ Aspose.Imaging API, uygulamalar içinde görüntüleri (fotoğrafları) oluştur
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Görüntülemek için Ücretsiz Uygulama DICOM" 
-        appName="Viewer" 
-        extension="DICOM"
-        label1="Bir DICOM görüntüsünü seçin veya sürükleyip bırakın" 
-        label2="Resim otomatik olarak yüklenecek ve gösterilecektir" 
-        checkFreeAppLabel="[yi görüntülemek için canlı DICOM](https://products.aspose.app/imaging/tr/image-view/DICOM)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku" >}}

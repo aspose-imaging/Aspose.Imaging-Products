@@ -73,9 +73,17 @@ Aspose.Imaging per Java è supportato su tutti i principali sistemi operativi. A
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="App gratuita da visualizzare JP2" 
+        appName="Viewer" 
+        extension="JP2"
+        label1="Seleziona o trascina e rilascia un'immagine JP2" 
+        label2="L'immagine verrà caricata e mostrata automaticamente" 
+        checkFreeAppLabel="Controlla le nostre [dimostrazioni dal vivo per visualizzare JP2](https://products.aspose.app/imaging/it/image-view/JP2)">}}
+
 {{% blocks/products/pf/agp/code-block title="Visualizza le immagini di JP2 - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "d167f0c1dd15b076686df701892e6b1a" "convert-images-to-png-format.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -95,14 +103,6 @@ Aspose.Imaging API è una soluzione di elaborazione delle immagini per creare, m
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="App gratuita da visualizzare JP2" 
-        appName="Viewer" 
-        extension="JP2"
-        label1="Seleziona o trascina e rilascia un'immagine JP2" 
-        label2="L'immagine verrà caricata e mostrata automaticamente" 
-        checkFreeAppLabel="Controlla le nostre [dimostrazioni dal vivo per visualizzare JP2](https://products.aspose.app/imaging/it/image-view/JP2)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più" >}}

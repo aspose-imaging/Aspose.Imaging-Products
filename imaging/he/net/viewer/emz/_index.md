@@ -61,9 +61,17 @@ Aspose.Imaging עבור .NET נתמך בכל מערכות ההפעלה העיק�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="אפליקציה בחינם לצפייה EMZ" 
+        appName="Viewer" 
+        extension="EMZ"
+        label1="בחר או גרור ושחרר תמונה EMZ" 
+        label2="התמונה תועלה ותוצג באופן אוטומטי" 
+        checkFreeAppLabel="בדוק את [הדגמות החיים שלנו לצפייה ב-EMZ](https://products.aspose.app/imaging/he/image-view/EMZ)">}}
+
 {{% blocks/products/pf/agp/code-block title="הצג תמונות של EMZ - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-images-to-png-format.cs" >}}
+{{< gist "aspose-com-gists" "339fb6f6f36b878e48c3cf057f895589" "convert-emz-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -83,14 +91,6 @@ Aspose.Imaging API הוא פתרון לעיבוד תמונה ליצירה, שי�
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="אפליקציה בחינם לצפייה EMZ" 
-        appName="Viewer" 
-        extension="EMZ"
-        label1="בחר או גרור ושחרר תמונה EMZ" 
-        label2="התמונה תועלה ותוצג באופן אוטומטי" 
-        checkFreeAppLabel="בדוק את [הדגמות החיים שלנו לצפייה ב-EMZ](https://products.aspose.app/imaging/he/image-view/EMZ)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="EMZ" readMoreLink="https://docs.fileformat.com/image/emz/" whatIsFormat1="מה זה" whatIsFormat2="פורמט קובץ" readMoreFormat="קרא עוד" >}}

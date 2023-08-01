@@ -60,9 +60,17 @@ Aspose.Imaging for .NET tüm büyük işletim sistemlerinde desteklenir. Sadece 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Görüntülemek için Ücretsiz Uygulama BMP" 
+        appName="Viewer" 
+        extension="BMP"
+        label1="Bir BMP görüntüsünü seçin veya sürükleyip bırakın" 
+        label2="Resim otomatik olarak yüklenecek ve gösterilecektir" 
+        checkFreeAppLabel="[yi görüntülemek için canlı BMP](https://products.aspose.app/imaging/tr/image-view/BMP)">}}
+
 {{% blocks/products/pf/agp/code-block title="BMP resimleri görüntüleyin - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-images-to-png-format.cs" >}}
+{{< gist "aspose-com-gists" "6ec855304907234b26961df70f13afb0" "convert-bmp-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -82,14 +90,6 @@ Aspose.Imaging API, uygulamalar içinde görüntüleri (fotoğrafları) oluştur
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Görüntülemek için Ücretsiz Uygulama BMP" 
-        appName="Viewer" 
-        extension="BMP"
-        label1="Bir BMP görüntüsünü seçin veya sürükleyip bırakın" 
-        label2="Resim otomatik olarak yüklenecek ve gösterilecektir" 
-        checkFreeAppLabel="[yi görüntülemek için canlı BMP](https://products.aspose.app/imaging/tr/image-view/BMP)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="Nedir" whatIsFormat2="Dosya formatı" readMoreFormat="Daha fazla oku" >}}

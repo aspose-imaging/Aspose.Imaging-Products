@@ -75,7 +75,7 @@ Voordat u de conversievoorbeeldcode uitvoert, moet u ervoor zorgen dat u aan de 
 
 {{% blocks/products/pf/agp/code-block title="Converteer WMF naar SVGZ - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "1bf18dd9bd143c0f8c4f8c47e2b51978" "convert-wmf-to-svgz.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

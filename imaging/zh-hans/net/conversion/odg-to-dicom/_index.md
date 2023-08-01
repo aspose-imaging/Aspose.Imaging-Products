@@ -75,7 +75,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/code-block title="将 ODG 转换为 DICOM - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "9cb710068cd36fa27e64a3e2c8dece30" "convert-odg-to-dicom.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

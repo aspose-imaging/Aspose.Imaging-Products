@@ -61,9 +61,17 @@ Aspose.Imaging for .NET सभी प्रमुख ऑपरेटिंग �
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="देखने के लिए मुफ़्त ऐप SVG" 
+        appName="Viewer" 
+        extension="SVG"
+        label1="एक SVG छवि चुनें या खींचें और छोड़ें" 
+        label2="छवि स्वचालित रूप से अपलोड और दिखाई जाएगी" 
+        checkFreeAppLabel="SVG देखने के लिए हमारे [लाइव डेमो देखें](https://products.aspose.app/imaging/hi/image-view/SVG)">}}
+
 {{% blocks/products/pf/agp/code-block title="SVG इमेज देखें - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-images-to-png-format.cs" >}}
+{{< gist "aspose-com-gists" "0d1b88d7ec3f1fc9af01ac8a836869a1" "convert-svg-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -83,14 +91,6 @@ Aspose.Imaging API अनुप्रयोगों के भीतर छव�
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="देखने के लिए मुफ़्त ऐप SVG" 
-        appName="Viewer" 
-        extension="SVG"
-        label1="एक SVG छवि चुनें या खींचें और छोड़ें" 
-        label2="छवि स्वचालित रूप से अपलोड और दिखाई जाएगी" 
-        checkFreeAppLabel="SVG देखने के लिए हमारे [लाइव डेमो देखें](https://products.aspose.app/imaging/hi/image-view/SVG)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="SVG" readMoreLink="https://docs.fileformat.com/image/svg/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें" >}}

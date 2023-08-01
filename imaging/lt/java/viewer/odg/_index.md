@@ -73,9 +73,17 @@ Jums reikia [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imag
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Nemokama programa, skirta peržiūrėti ODG" 
+        appName="Viewer" 
+        extension="ODG"
+        label1="Pasirinkite arba vilkite ir numeskite ODG vaizdą" 
+        label2="Vaizdas bus automatiškai įkeltas ir parodytas" 
+        checkFreeAppLabel="Peržiūrėkite mūsų [tiesiogines demonstracines versijas, kad galėtumėte peržiūrėti ODG](https://products.aspose.app/imaging/lt/image-view/ODG)">}}
+
 {{% blocks/products/pf/agp/code-block title="Peržiūrėti ODG vaizdus – Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "9cb710068cd36fa27e64a3e2c8dece30" "convert-images-to-png-format.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -95,14 +103,6 @@ Aspose.Imaging API yra vaizdo apdorojimo sprendimas, skirtas kurti, modifikuoti,
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Nemokama programa, skirta peržiūrėti ODG" 
-        appName="Viewer" 
-        extension="ODG"
-        label1="Pasirinkite arba vilkite ir numeskite ODG vaizdą" 
-        label2="Vaizdas bus automatiškai įkeltas ir parodytas" 
-        checkFreeAppLabel="Peržiūrėkite mūsų [tiesiogines demonstracines versijas, kad galėtumėte peržiūrėti ODG](https://products.aspose.app/imaging/lt/image-view/ODG)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau" >}}

@@ -13,7 +13,7 @@ description: C＃ASP.NETVB.NETアプリケーション内で編集描画また�
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for .NET" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-net.svg" 
-liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/net/" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/net/" installationsDocsLink="https://docs.aspose.com/imaging/net/installation/" nugetLink="https://www.nuget.org/packages/aspose.imaging" nugetPackageName="Aspose.Imaging" directDownloadLink="https://downloads.aspose.com/imaging/net/" liveDemosText="ライブデモ" overviewText="概要" featuresText="特徴" resourcesText="資力" pricingText="価格設定" downloadText="ダウンロード" learnText="学び" buyText="買う" >}}
+liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/net" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/net/" installationsDocsLink="https://docs.aspose.com/imaging/net/installation/" nugetLink="https://www.nuget.org/packages/aspose.imaging" nugetPackageName="Aspose.Imaging" directDownloadLink="https://downloads.aspose.com/imaging/net/" liveDemosText="ライブデモ" overviewText="概要" featuresText="特徴" resourcesText="資力" pricingText="価格設定" downloadText="ダウンロード" learnText="学び" buyText="買う" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="で" carousel1Text2="一目" carousel2Text1="プラットホーム" carousel2Text2="独立" carousel3Text1="サポートされているファイル" carousel3Text2="フォーマット">}}
 <p align="justify">

@@ -77,7 +77,7 @@ Avant d'exécuter l'exemple de code de conversion, assurez-vous que vous dispose
 
 {{% blocks/products/pf/agp/code-block title="Convertir DNG en TGA - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "61a66808ddf0e2e9ba60c4e6e8c576c2" "convert-dng-to-tga.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

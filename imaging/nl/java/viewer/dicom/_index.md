@@ -73,9 +73,17 @@ Aspose.Imaging voor Java wordt ondersteund op alle belangrijke besturingssysteme
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Gratis app om DICOM te bekijken" 
+        appName="Viewer" 
+        extension="DICOM"
+        label1="Selecteer of sleep een DICOM afbeelding" 
+        label2="Afbeelding wordt automatisch geüpload en weergegeven" 
+        checkFreeAppLabel="Bekijk onze [live demo's om DICOM](https://products.aspose.app/imaging/nl/image-view/DICOM)">}}
+
 {{% blocks/products/pf/agp/code-block title="Bekijk DICOM afbeeldingen - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "d2556ab69aeedafc6cf8c7c569c46075" "convert-images-to-png-format.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -95,14 +103,6 @@ Aspose.Imaging API is een beeldverwerkingsoplossing voor het maken, wijzigen, te
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Gratis app om DICOM te bekijken" 
-        appName="Viewer" 
-        extension="DICOM"
-        label1="Selecteer of sleep een DICOM afbeelding" 
-        label2="Afbeelding wordt automatisch geüpload en weergegeven" 
-        checkFreeAppLabel="Bekijk onze [live demo's om DICOM](https://products.aspose.app/imaging/nl/image-view/DICOM)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder" >}}

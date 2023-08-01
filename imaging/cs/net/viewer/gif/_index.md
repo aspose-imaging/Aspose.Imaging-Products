@@ -61,9 +61,17 @@ Aspose.Imaging pro .NET je podporován ve všech hlavních operačních systéme
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Bezplatná aplikace k zobrazení GIF" 
+        appName="Viewer" 
+        extension="GIF"
+        label1="Vyberte nebo přetáhněte obrázek GIF" 
+        label2="Obrázek se automaticky nahraje a zobrazí" 
+        checkFreeAppLabel="Podívejte se na naše [živé ukázky k zobrazení GIF](https://products.aspose.app/imaging/cs/image-view/GIF)">}}
+
 {{% blocks/products/pf/agp/code-block title="Zobrazit obrázky ve formátu GIF – .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-images-to-png-format.cs" >}}
+{{< gist "aspose-com-gists" "0dfac1d679fe6125d696d1a66d991346" "convert-gif-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -83,14 +91,6 @@ Aspose.Imaging API je řešení pro zpracování obrázků pro vytváření, úp
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Bezplatná aplikace k zobrazení GIF" 
-        appName="Viewer" 
-        extension="GIF"
-        label1="Vyberte nebo přetáhněte obrázek GIF" 
-        label2="Obrázek se automaticky nahraje a zobrazí" 
-        checkFreeAppLabel="Podívejte se na naše [živé ukázky k zobrazení GIF](https://products.aspose.app/imaging/cs/image-view/GIF)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více" >}}

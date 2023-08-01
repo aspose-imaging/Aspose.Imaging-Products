@@ -75,7 +75,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/code-block title="将 WMZ 转换为 WMF - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "69c0f75a96aeef906238823f6e345845" "convert-wmz-to-wmf.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

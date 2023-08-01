@@ -76,7 +76,7 @@ Innan du kör koden för konverteringsexempel, se till att du har följande för
 
 {{% blocks/products/pf/agp/code-block title="Konvertera J2K till JPEG - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "edfe5302b3a0d2d40140d608bf13a799" "convert-j2k-to-jpeg.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

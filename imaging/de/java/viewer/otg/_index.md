@@ -73,9 +73,17 @@ Aspose.Imaging für Java wird auf allen wichtigen Betriebssystemen unterstützt.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Kostenlose App zum Anzeigen von OTG" 
+        appName="Viewer" 
+        extension="OTG"
+        label1="Wählen Sie ein OTG-Bild aus oder ziehen Sie es per Drag-and-Drop" 
+        label2="Das Bild wird automatisch hochgeladen und angezeigt" 
+        checkFreeAppLabel="Sehen Sie sich unsere [Live-Demos zum Anzeigen von OTG](https://products.aspose.app/imaging/de/image-view/OTG)">}}
+
 {{% blocks/products/pf/agp/code-block title="OTG-Bilder anzeigen - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "591ab204772afbc5e31c9168fbe0284c" "convert-images-to-png-format.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -95,14 +103,6 @@ Aspose.Imaging API ist eine Bildverarbeitungslösung zum Erstellen, Ändern, Zei
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Kostenlose App zum Anzeigen von OTG" 
-        appName="Viewer" 
-        extension="OTG"
-        label1="Wählen Sie ein OTG-Bild aus oder ziehen Sie es per Drag-and-Drop" 
-        label2="Das Bild wird automatisch hochgeladen und angezeigt" 
-        checkFreeAppLabel="Sehen Sie sich unsere [Live-Demos zum Anzeigen von OTG](https://products.aspose.app/imaging/de/image-view/OTG)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="Was ist" whatIsFormat2="Datei Format" readMoreFormat="Wesen" >}}

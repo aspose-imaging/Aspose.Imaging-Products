@@ -73,9 +73,17 @@ Aspose.Imaging para Java es compatible con todos los principales sistemas operat
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Aplicación gratuita para ver TIFF" 
+        appName="Viewer" 
+        extension="TIFF"
+        label1="Seleccione o arrastre y suelte una imagen TIFF" 
+        label2="La imagen se cargará y se mostrará automáticamente." 
+        checkFreeAppLabel="Consulte nuestras [demostraciones en vivo para ver TIFF](https://products.aspose.app/imaging/es/image-view/TIFF)">}}
+
 {{% blocks/products/pf/agp/code-block title="Ver imágenes TIFF - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "a0918ab26b50f4aaa25213f37eb2e95b" "convert-images-to-png-format.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -95,14 +103,6 @@ Aspose.Imaging API es una solución de procesamiento de imágenes para crear, mo
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Aplicación gratuita para ver TIFF" 
-        appName="Viewer" 
-        extension="TIFF"
-        label1="Seleccione o arrastre y suelte una imagen TIFF" 
-        label2="La imagen se cargará y se mostrará automáticamente." 
-        checkFreeAppLabel="Consulte nuestras [demostraciones en vivo para ver TIFF](https://products.aspose.app/imaging/es/image-view/TIFF)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más" >}}

@@ -73,9 +73,17 @@ Java용 Aspose.Imaging은 모든 주요 운영 체제에서 지원됩니다. 다
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="DIB을(를) 볼 수 있는 무료 앱" 
+        appName="Viewer" 
+        extension="DIB"
+        label1="DIB 이미지 선택 또는 드래그 앤 드롭" 
+        label2="이미지가 자동으로 업로드되어 표시됩니다." 
+        checkFreeAppLabel="[를 보려면 라이브 데모] DIB](https://products.aspose.app/imaging/ko/image-view/DIB) 를 확인하세요.">}}
+
 {{% blocks/products/pf/agp/code-block title="DIB 이미지 보기 - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "c105a05d95529e2551aa29cd9dc8d8e8" "convert-images-to-png-format.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -95,14 +103,6 @@ Aspose.Imaging API는 애플리케이션 내에서 이미지(사진)를 생성, 
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="DIB을(를) 볼 수 있는 무료 앱" 
-        appName="Viewer" 
-        extension="DIB"
-        label1="DIB 이미지 선택 또는 드래그 앤 드롭" 
-        label2="이미지가 자동으로 업로드되어 표시됩니다." 
-        checkFreeAppLabel="[를 보려면 라이브 데모] DIB](https://products.aspose.app/imaging/ko/image-view/DIB) 를 확인하세요.">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기" >}}

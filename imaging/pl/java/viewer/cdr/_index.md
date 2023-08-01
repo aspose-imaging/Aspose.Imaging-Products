@@ -73,9 +73,17 @@ Aspose.Imaging dla Java jest obsługiwane we wszystkich głównych systemach ope
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Darmowa aplikacja do przeglądania CDR" 
+        appName="Viewer" 
+        extension="CDR"
+        label1="Wybierz lub przeciągnij i upuść obraz CDR" 
+        label2="Obraz zostanie automatycznie przesłany i wyświetlony" 
+        checkFreeAppLabel="Sprawdź nasze [dema na żywo, aby wyświetlić CDR](https://products.aspose.app/imaging/pl/image-view/CDR)">}}
+
 {{% blocks/products/pf/agp/code-block title="Wyświetl obrazy w formacie CDR – Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "8b870aa054949d3119547e4fc0696b64" "convert-images-to-png-format.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -95,14 +103,6 @@ Aspose.Imaging API to rozwiązanie do przetwarzania obrazów do tworzenia, modyf
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Darmowa aplikacja do przeglądania CDR" 
-        appName="Viewer" 
-        extension="CDR"
-        label1="Wybierz lub przeciągnij i upuść obraz CDR" 
-        label2="Obraz zostanie automatycznie przesłany i wyświetlony" 
-        checkFreeAppLabel="Sprawdź nasze [dema na żywo, aby wyświetlić CDR](https://products.aspose.app/imaging/pl/image-view/CDR)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Co jest" whatIsFormat2="Format pliku" readMoreFormat="Czytaj więcej" >}}

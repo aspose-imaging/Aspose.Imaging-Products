@@ -76,7 +76,7 @@ Before running the conversion example code, make sure that you have the followin
 
 {{% blocks/products/pf/agp/code-block title="Convert DJVU to BMP - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "7cd7d94813fb73fe141054272437f6ae" "convert-djvu-to-bmp.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

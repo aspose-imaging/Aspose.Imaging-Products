@@ -76,7 +76,7 @@ Innan du kör koden för konverteringsexempel, se till att du har följande för
 
 {{% blocks/products/pf/agp/code-block title="Konvertera DICOM till WEBP - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "d2556ab69aeedafc6cf8c7c569c46075" "convert-dicom-to-webp.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

@@ -13,7 +13,7 @@ description: C# ASP.NET VB.NET 응용 프로그램 내에서 PSD BMP JPEG PNG TI
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for .NET" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-net.svg" 
-liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/net/" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/net/" installationsDocsLink="https://docs.aspose.com/imaging/net/installation/" nugetLink="https://www.nuget.org/packages/aspose.imaging" nugetPackageName="Aspose.Imaging" directDownloadLink="https://downloads.aspose.com/imaging/net/" liveDemosText="라이브 데모" overviewText="개요" featuresText="특징" resourcesText="자원" pricingText="가격" downloadText="다운로드" learnText="배우다" buyText="구입하다" >}}
+liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/net" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/net/" installationsDocsLink="https://docs.aspose.com/imaging/net/installation/" nugetLink="https://www.nuget.org/packages/aspose.imaging" nugetPackageName="Aspose.Imaging" directDownloadLink="https://downloads.aspose.com/imaging/net/" liveDemosText="라이브 데모" overviewText="개요" featuresText="특징" resourcesText="자원" pricingText="가격" downloadText="다운로드" learnText="배우다" buyText="구입하다" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="에" carousel1Text2="섬광" carousel2Text1="플랫폼" carousel2Text2="독립" carousel3Text1="지원 파일" carousel3Text2="형식">}}
 <p align="justify">

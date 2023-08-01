@@ -60,9 +60,17 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="免费应用程序查看 JPG" 
+        appName="Viewer" 
+        extension="JPG"
+        label1="选择或拖放 JPG 图像" 
+        label2="图片将自动上传并显示" 
+        checkFreeAppLabel="查看我们的 [现场演示以查看 JPG](https://products.aspose.app/imaging/zh-hans/image-view/JPG)">}}
+
 {{% blocks/products/pf/agp/code-block title="查看 JPG 图像 - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-images-to-png-format.cs" >}}
+{{< gist "aspose-com-gists" "5df13c606b80d0d08b0f19fac967995c" "convert-jpg-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -82,14 +90,6 @@ Aspose.Imaging API 是一种图像处理解决方案，用于在应用程序中�
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="免费应用程序查看 JPG" 
-        appName="Viewer" 
-        extension="JPG"
-        label1="选择或拖放 JPG 图像" 
-        label2="图片将自动上传并显示" 
-        checkFreeAppLabel="查看我们的 [现场演示以查看 JPG](https://products.aspose.app/imaging/zh-hans/image-view/JPG)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多" >}}

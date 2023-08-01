@@ -76,7 +76,7 @@ Before running the conversion example code, make sure that you have the followin
 
 {{% blocks/products/pf/agp/code-block title="Convert EPS to JP2 - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "7accc5c9da8ca6e7ba395aa038174d5e" "convert-eps-to-jp2.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

@@ -76,7 +76,7 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
 
 {{% blocks/products/pf/agp/code-block title="Konvertiere CMX in CANVAS - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "71185958cb05d74f34ef9960f8dda4dd" "convert-cmx-to-canvas.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

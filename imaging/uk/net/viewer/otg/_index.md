@@ -61,9 +61,17 @@ Aspose.Imaging для .NET підтримується в усіх основни
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Безкоштовний додаток для перегляду OTG" 
+        appName="Viewer" 
+        extension="OTG"
+        label1="Виберіть або перетягніть зображення OTG" 
+        label2="Зображення буде автоматично завантажено та показано" 
+        checkFreeAppLabel="Перегляньте наші [демонстрації в реальному часі, щоб переглянути OTG](https://products.aspose.app/imaging/uk/image-view/OTG)">}}
+
 {{% blocks/products/pf/agp/code-block title="Переглянути зображення OTG - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-images-to-png-format.cs" >}}
+{{< gist "aspose-com-gists" "591ab204772afbc5e31c9168fbe0284c" "convert-otg-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -83,14 +91,6 @@ API Aspose.Imaging — це рішення для обробки зображе�
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Безкоштовний додаток для перегляду OTG" 
-        appName="Viewer" 
-        extension="OTG"
-        label1="Виберіть або перетягніть зображення OTG" 
-        label2="Зображення буде автоматично завантажено та показано" 
-        checkFreeAppLabel="Перегляньте наші [демонстрації в реальному часі, щоб переглянути OTG](https://products.aspose.app/imaging/uk/image-view/OTG)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="OTG" readMoreLink="https://docs.fileformat.com/image/otg/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше" >}}

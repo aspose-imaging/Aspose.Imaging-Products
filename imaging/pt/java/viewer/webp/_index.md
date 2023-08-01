@@ -73,9 +73,17 @@ Aspose.Imaging para Java é compatível com todos os principais sistemas operaci
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Aplicativo gratuito para visualização WEBP" 
+        appName="Viewer" 
+        extension="WEBP"
+        label1="Selecione ou arraste e solte uma imagem WEBP" 
+        label2="A imagem será carregada e mostrada automaticamente" 
+        checkFreeAppLabel="Confira nossas [demonstrações ao vivo para ver WEBP](https://products.aspose.app/imaging/pt/image-view/WEBP)">}}
+
 {{% blocks/products/pf/agp/code-block title="Ver imagens de WEBP - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "693590fa27d4fe2d795cc7fbcf5cbd64" "convert-images-to-png-format.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -95,14 +103,6 @@ Aspose.Imaging API é uma solução de processamento de imagens para criar, modi
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Aplicativo gratuito para visualização WEBP" 
-        appName="Viewer" 
-        extension="WEBP"
-        label1="Selecione ou arraste e solte uma imagem WEBP" 
-        label2="A imagem será carregada e mostrada automaticamente" 
-        checkFreeAppLabel="Confira nossas [demonstrações ao vivo para ver WEBP](https://products.aspose.app/imaging/pt/image-view/WEBP)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="O que é" whatIsFormat2="Formato de arquivo" readMoreFormat="consulte Mais informação" >}}

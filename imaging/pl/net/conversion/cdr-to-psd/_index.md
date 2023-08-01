@@ -77,7 +77,7 @@ Przed uruchomieniem przykładowego kodu konwersji upewnij się, że masz następ
 
 {{% blocks/products/pf/agp/code-block title="Konwertuj CDR na PSD - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "8b870aa054949d3119547e4fc0696b64" "convert-cdr-to-psd.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

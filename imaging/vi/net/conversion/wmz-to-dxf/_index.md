@@ -75,7 +75,7 @@ Trước khi chạy mã ví dụ chuyển đổi, hãy đảm bảo rằng bạn
 
 {{% blocks/products/pf/agp/code-block title="Chuyển đổi WMZ thành DXF - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "69c0f75a96aeef906238823f6e345845" "convert-wmz-to-dxf.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

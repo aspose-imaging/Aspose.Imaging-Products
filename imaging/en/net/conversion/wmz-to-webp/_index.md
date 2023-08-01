@@ -76,7 +76,7 @@ Before running the conversion example code, make sure that you have the followin
 
 {{% blocks/products/pf/agp/code-block title="Convert WMZ to WEBP - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "69c0f75a96aeef906238823f6e345845" "convert-wmz-to-webp.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

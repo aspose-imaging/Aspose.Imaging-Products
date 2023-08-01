@@ -76,7 +76,7 @@ Stellen Sie vor dem Ausführen des Konvertierungsbeispielcodes sicher, dass die 
 
 {{% blocks/products/pf/agp/code-block title="Konvertiere EMF in PDF - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "6886c18d67fa6c7970d9cf260b077988" "convert-emf-to-pdf.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

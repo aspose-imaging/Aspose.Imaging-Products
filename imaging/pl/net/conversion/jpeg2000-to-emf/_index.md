@@ -77,7 +77,7 @@ Przed uruchomieniem przykładowego kodu konwersji upewnij się, że masz następ
 
 {{% blocks/products/pf/agp/code-block title="Konwertuj JPEG2000 na EMF - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "fd6e093454ec07a78c6573ee70c51a2c" "convert-jpeg2000-to-emf.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

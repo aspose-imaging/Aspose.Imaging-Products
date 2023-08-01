@@ -75,7 +75,7 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
 
 {{% blocks/products/pf/agp/code-block title="PNG öğesini WMF - .NET biçimine dönüştürün" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "6013edc0c1b050c2c0bc2e34da7f3263" "convert-png-to-wmf.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

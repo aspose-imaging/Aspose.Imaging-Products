@@ -75,7 +75,7 @@ Sebelum menjalankan kode contoh konversi, pastikan Anda memiliki prasyarat berik
 
 {{% blocks/products/pf/agp/code-block title="Konversi JPEG2000 ke DXF - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "fd6e093454ec07a78c6573ee70c51a2c" "convert-jpeg2000-to-dxf.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

@@ -76,7 +76,7 @@ Innan du kör koden för konverteringsexempel, se till att du har följande för
 
 {{% blocks/products/pf/agp/code-block title="Konvertera JPG till JPEG2000 - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "5df13c606b80d0d08b0f19fac967995c" "convert-jpg-to-jpeg2000.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

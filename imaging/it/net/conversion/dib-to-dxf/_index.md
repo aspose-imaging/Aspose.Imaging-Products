@@ -77,7 +77,7 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
 
 {{% blocks/products/pf/agp/code-block title="Converti DIB in DXF - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "c105a05d95529e2551aa29cd9dc8d8e8" "convert-dib-to-dxf.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
