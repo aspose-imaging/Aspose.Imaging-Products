@@ -73,9 +73,17 @@ Aspose.Imaging pro Java je podporován ve všech hlavních operačních systéme
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Bezplatná aplikace k zobrazení DJVU" 
+        appName="Viewer" 
+        extension="DJVU"
+        label1="Vyberte nebo přetáhněte obrázek DJVU" 
+        label2="Obrázek se automaticky nahraje a zobrazí" 
+        checkFreeAppLabel="Podívejte se na naše [živé ukázky k zobrazení DJVU](https://products.aspose.app/imaging/cs/image-view/DJVU)">}}
+
 {{% blocks/products/pf/agp/code-block title="Zobrazit obrázky ve formátu DJVU – Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "7cd7d94813fb73fe141054272437f6ae" "convert-images-to-png-format.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -95,14 +103,6 @@ Aspose.Imaging API je řešení pro zpracování obrázků pro vytváření, úp
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Bezplatná aplikace k zobrazení DJVU" 
-        appName="Viewer" 
-        extension="DJVU"
-        label1="Vyberte nebo přetáhněte obrázek DJVU" 
-        label2="Obrázek se automaticky nahraje a zobrazí" 
-        checkFreeAppLabel="Podívejte se na naše [živé ukázky k zobrazení DJVU](https://products.aspose.app/imaging/cs/image-view/DJVU)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více" >}}

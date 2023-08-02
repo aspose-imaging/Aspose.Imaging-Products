@@ -73,9 +73,17 @@ Aspose.Imaging pro Java je podporován ve všech hlavních operačních systéme
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Bezplatná aplikace k zobrazení EPS" 
+        appName="Viewer" 
+        extension="EPS"
+        label1="Vyberte nebo přetáhněte obrázek EPS" 
+        label2="Obrázek se automaticky nahraje a zobrazí" 
+        checkFreeAppLabel="Podívejte se na naše [živé ukázky k zobrazení EPS](https://products.aspose.app/imaging/cs/image-view/EPS)">}}
+
 {{% blocks/products/pf/agp/code-block title="Zobrazit obrázky ve formátu EPS – Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "7accc5c9da8ca6e7ba395aa038174d5e" "convert-images-to-png-format.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -95,14 +103,6 @@ Aspose.Imaging API je řešení pro zpracování obrázků pro vytváření, úp
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Bezplatná aplikace k zobrazení EPS" 
-        appName="Viewer" 
-        extension="EPS"
-        label1="Vyberte nebo přetáhněte obrázek EPS" 
-        label2="Obrázek se automaticky nahraje a zobrazí" 
-        checkFreeAppLabel="Podívejte se na naše [živé ukázky k zobrazení EPS](https://products.aspose.app/imaging/cs/image-view/EPS)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více" >}}

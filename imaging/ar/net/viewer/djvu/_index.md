@@ -59,9 +59,17 @@ Aspose.Imaging for .NET مدعوم على جميع أنظمة التشغيل ا�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="تطبيق مجاني لعرض DJVU" 
+        appName="Viewer" 
+        extension="DJVU"
+        label1="حدد أو اسحب وأفلت صورة DJVU" 
+        label2="سيتم تحميل الصورة وعرضها تلقائيًا" 
+        checkFreeAppLabel="تحقق من [العروض التوضيحية المباشرة لعرض DJVU](https://products.aspose.app/imaging/ar/image-view/DJVU)">}}
+
 {{% blocks/products/pf/agp/code-block title="عرض صور DJVU - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-images-to-png-format.cs" >}}
+{{< gist "aspose-com-gists" "7cd7d94813fb73fe141054272437f6ae" "convert-djvu-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -81,14 +89,6 @@ Aspose.Imaging API هو حل لمعالجة الصور لإنشاء أو تعد�
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="تطبيق مجاني لعرض DJVU" 
-        appName="Viewer" 
-        extension="DJVU"
-        label1="حدد أو اسحب وأفلت صورة DJVU" 
-        label2="سيتم تحميل الصورة وعرضها تلقائيًا" 
-        checkFreeAppLabel="تحقق من [العروض التوضيحية المباشرة لعرض DJVU](https://products.aspose.app/imaging/ar/image-view/DJVU)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر" >}}

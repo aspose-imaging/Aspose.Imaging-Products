@@ -73,9 +73,17 @@ Aspose.Imaging for Javaは、すべての主要なオペレーティングシス
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="表示する無料アプリWEBP" 
+        appName="Viewer" 
+        extension="WEBP"
+        label1="WEBP画像を選択またはドラッグアンドドロップします" 
+        label2="画像は自動的にアップロードされて表示されます" 
+        checkFreeAppLabel="[を表示するためのライブデモ] WEBP](https://products.aspose.app/imaging/ja/image-view/WEBP) を確認してください">}}
+
 {{% blocks/products/pf/agp/code-block title="WEBP画像を表示-Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "693590fa27d4fe2d795cc7fbcf5cbd64" "convert-images-to-png-format.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -95,14 +103,6 @@ Aspose.Imaging APIは、アプリケーション内で画像（写真）を作�
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="表示する無料アプリWEBP" 
-        appName="Viewer" 
-        extension="WEBP"
-        label1="WEBP画像を選択またはドラッグアンドドロップします" 
-        label2="画像は自動的にアップロードされて表示されます" 
-        checkFreeAppLabel="[を表示するためのライブデモ] WEBP](https://products.aspose.app/imaging/ja/image-view/WEBP) を確認してください">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="WEBP" readMoreLink="https://docs.fileformat.com/image/webp/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む" >}}

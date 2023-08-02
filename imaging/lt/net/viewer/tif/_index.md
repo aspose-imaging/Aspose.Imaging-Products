@@ -60,9 +60,17 @@ Jums reikia [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) norė
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Nemokama programa, skirta peržiūrėti TIF" 
+        appName="Viewer" 
+        extension="TIF"
+        label1="Pasirinkite arba vilkite ir numeskite TIF vaizdą" 
+        label2="Vaizdas bus automatiškai įkeltas ir parodytas" 
+        checkFreeAppLabel="Peržiūrėkite mūsų [tiesiogines demonstracines versijas, kad galėtumėte peržiūrėti TIF](https://products.aspose.app/imaging/lt/image-view/TIF)">}}
+
 {{% blocks/products/pf/agp/code-block title="Peržiūrėti TIF vaizdus – .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-images-to-png-format.cs" >}}
+{{< gist "aspose-com-gists" "7541e333aba1f137d31c8f0b15a4519f" "convert-tif-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -82,14 +90,6 @@ Aspose.Imaging API yra vaizdo apdorojimo sprendimas, skirtas kurti, modifikuoti,
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Nemokama programa, skirta peržiūrėti TIF" 
-        appName="Viewer" 
-        extension="TIF"
-        label1="Pasirinkite arba vilkite ir numeskite TIF vaizdą" 
-        label2="Vaizdas bus automatiškai įkeltas ir parodytas" 
-        checkFreeAppLabel="Peržiūrėkite mūsų [tiesiogines demonstracines versijas, kad galėtumėte peržiūrėti TIF](https://products.aspose.app/imaging/lt/image-view/TIF)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="TIF" readMoreLink="https://docs.fileformat.com/image/tif/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau" >}}

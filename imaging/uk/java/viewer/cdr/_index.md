@@ -73,9 +73,17 @@ Aspose.Imaging для Java підтримується в усіх основни
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Безкоштовний додаток для перегляду CDR" 
+        appName="Viewer" 
+        extension="CDR"
+        label1="Виберіть або перетягніть зображення CDR" 
+        label2="Зображення буде автоматично завантажено та показано" 
+        checkFreeAppLabel="Перегляньте наші [демонстрації в реальному часі, щоб переглянути CDR](https://products.aspose.app/imaging/uk/image-view/CDR)">}}
+
 {{% blocks/products/pf/agp/code-block title="Переглянути зображення CDR - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "8b870aa054949d3119547e4fc0696b64" "convert-images-to-png-format.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -95,14 +103,6 @@ API Aspose.Imaging — це рішення для обробки зображе�
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Безкоштовний додаток для перегляду CDR" 
-        appName="Viewer" 
-        extension="CDR"
-        label1="Виберіть або перетягніть зображення CDR" 
-        label2="Зображення буде автоматично завантажено та показано" 
-        checkFreeAppLabel="Перегляньте наші [демонстрації в реальному часі, щоб переглянути CDR](https://products.aspose.app/imaging/uk/image-view/CDR)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше" >}}

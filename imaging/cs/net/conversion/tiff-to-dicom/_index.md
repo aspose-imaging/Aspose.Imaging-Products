@@ -76,7 +76,7 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
 
 {{% blocks/products/pf/agp/code-block title="Převést TIFF na DICOM – .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "a0918ab26b50f4aaa25213f37eb2e95b" "convert-tiff-to-dicom.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

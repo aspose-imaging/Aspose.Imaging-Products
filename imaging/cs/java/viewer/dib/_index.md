@@ -73,9 +73,17 @@ Aspose.Imaging pro Java je podporován ve všech hlavních operačních systéme
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Bezplatná aplikace k zobrazení DIB" 
+        appName="Viewer" 
+        extension="DIB"
+        label1="Vyberte nebo přetáhněte obrázek DIB" 
+        label2="Obrázek se automaticky nahraje a zobrazí" 
+        checkFreeAppLabel="Podívejte se na naše [živé ukázky k zobrazení DIB](https://products.aspose.app/imaging/cs/image-view/DIB)">}}
+
 {{% blocks/products/pf/agp/code-block title="Zobrazit obrázky ve formátu DIB – Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "c105a05d95529e2551aa29cd9dc8d8e8" "convert-images-to-png-format.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -95,14 +103,6 @@ Aspose.Imaging API je řešení pro zpracování obrázků pro vytváření, úp
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Bezplatná aplikace k zobrazení DIB" 
-        appName="Viewer" 
-        extension="DIB"
-        label1="Vyberte nebo přetáhněte obrázek DIB" 
-        label2="Obrázek se automaticky nahraje a zobrazí" 
-        checkFreeAppLabel="Podívejte se na naše [živé ukázky k zobrazení DIB](https://products.aspose.app/imaging/cs/image-view/DIB)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="co je" whatIsFormat2="Formát souboru" readMoreFormat="Přečtěte si více" >}}

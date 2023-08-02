@@ -74,9 +74,17 @@ description: 尝试使用我们的本地文档 API 来查看 .NET Framework、.N
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="免费应用程序查看 EPS" 
+        appName="Viewer" 
+        extension="EPS"
+        label1="选择或拖放 EPS 图像" 
+        label2="图片将自动上传并显示" 
+        checkFreeAppLabel="查看我们的 [现场演示以查看 EPS](https://products.aspose.app/imaging/zh-hans/image-view/EPS)">}}
+
 {{% blocks/products/pf/agp/code-block title="查看 EPS 图像 - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "7accc5c9da8ca6e7ba395aa038174d5e" "convert-images-to-png-format.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -96,14 +104,6 @@ Aspose.Imaging API 是一种图像处理解决方案，用于在应用程序中�
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="免费应用程序查看 EPS" 
-        appName="Viewer" 
-        extension="EPS"
-        label1="选择或拖放 EPS 图像" 
-        label2="图片将自动上传并显示" 
-        checkFreeAppLabel="查看我们的 [现场演示以查看 EPS](https://products.aspose.app/imaging/zh-hans/image-view/EPS)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多" >}}

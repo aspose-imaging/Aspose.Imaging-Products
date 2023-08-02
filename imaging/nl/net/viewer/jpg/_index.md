@@ -60,9 +60,17 @@ Aspose.Imaging voor .NET wordt ondersteund op alle belangrijke besturingssysteme
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Gratis app om JPG te bekijken" 
+        appName="Viewer" 
+        extension="JPG"
+        label1="Selecteer of sleep een JPG afbeelding" 
+        label2="Afbeelding wordt automatisch geüpload en weergegeven" 
+        checkFreeAppLabel="Bekijk onze [live demo's om JPG](https://products.aspose.app/imaging/nl/image-view/JPG)">}}
+
 {{% blocks/products/pf/agp/code-block title="Bekijk JPG afbeeldingen - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-images-to-png-format.cs" >}}
+{{< gist "aspose-com-gists" "5df13c606b80d0d08b0f19fac967995c" "convert-jpg-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -82,14 +90,6 @@ Aspose.Imaging API is een beeldverwerkingsoplossing voor het maken, wijzigen, te
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Gratis app om JPG te bekijken" 
-        appName="Viewer" 
-        extension="JPG"
-        label1="Selecteer of sleep een JPG afbeelding" 
-        label2="Afbeelding wordt automatisch geüpload en weergegeven" 
-        checkFreeAppLabel="Bekijk onze [live demo's om JPG](https://products.aspose.app/imaging/nl/image-view/JPG)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="JPG" readMoreLink="https://docs.fileformat.com/image/jpg/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder" >}}

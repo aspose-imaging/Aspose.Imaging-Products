@@ -13,7 +13,7 @@ description: Knihovna API pro zpracování a manipulaci s obrázky pro vytváře
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for .NET" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-net.svg" 
-liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/net/" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/net/" installationsDocsLink="https://docs.aspose.com/imaging/net/installation/" nugetLink="https://www.nuget.org/packages/aspose.imaging" nugetPackageName="Aspose.Imaging" directDownloadLink="https://downloads.aspose.com/imaging/net/" liveDemosText="Živá ukázka" overviewText="Přehled" featuresText="Funkce" resourcesText="Zdroje" pricingText="Ceny" downloadText="Stažení" learnText="Učit se" buyText="Koupit" >}}
+liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/net" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/net/" installationsDocsLink="https://docs.aspose.com/imaging/net/installation/" nugetLink="https://www.nuget.org/packages/aspose.imaging" nugetPackageName="Aspose.Imaging" directDownloadLink="https://downloads.aspose.com/imaging/net/" liveDemosText="Živá ukázka" overviewText="Přehled" featuresText="Funkce" resourcesText="Zdroje" pricingText="Ceny" downloadText="Stažení" learnText="Učit se" buyText="Koupit" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="V a" carousel1Text2="Pohled" carousel2Text1="Plošina" carousel2Text2="Nezávislost" carousel3Text1="Podporovaný soubor" carousel3Text2="Formáty">}}
 <p align="justify">

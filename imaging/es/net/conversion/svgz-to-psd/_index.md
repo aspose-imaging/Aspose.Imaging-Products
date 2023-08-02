@@ -78,7 +78,7 @@ Antes de ejecutar el código de ejemplo de conversión, asegúrese de tener los 
 
 {{% blocks/products/pf/agp/code-block title="Convertir SVGZ a PSD - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "ae12c4da49ebc08ae79f7e9fc2839bbb" "convert-svgz-to-psd.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

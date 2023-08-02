@@ -75,7 +75,7 @@ Voordat u de conversievoorbeeldcode uitvoert, moet u ervoor zorgen dat u aan de 
 
 {{% blocks/products/pf/agp/code-block title="Converteer EMZ naar WEBP - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "339fb6f6f36b878e48c3cf057f895589" "convert-emz-to-webp.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

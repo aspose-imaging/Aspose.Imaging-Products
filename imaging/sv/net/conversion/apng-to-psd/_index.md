@@ -76,7 +76,7 @@ Innan du kör koden för konverteringsexempel, se till att du har följande för
 
 {{% blocks/products/pf/agp/code-block title="Konvertera APNG till PSD - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "e6756e10d2c1e793c74b42a091958ece" "convert-apng-to-psd.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

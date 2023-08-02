@@ -73,9 +73,17 @@ Aspose.Imaging voor Java wordt ondersteund op alle belangrijke besturingssysteme
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Gratis app om EMF te bekijken" 
+        appName="Viewer" 
+        extension="EMF"
+        label1="Selecteer of sleep een EMF afbeelding" 
+        label2="Afbeelding wordt automatisch geüpload en weergegeven" 
+        checkFreeAppLabel="Bekijk onze [live demo's om EMF](https://products.aspose.app/imaging/nl/image-view/EMF)">}}
+
 {{% blocks/products/pf/agp/code-block title="Bekijk EMF afbeeldingen - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "6886c18d67fa6c7970d9cf260b077988" "convert-images-to-png-format.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -95,14 +103,6 @@ Aspose.Imaging API is een beeldverwerkingsoplossing voor het maken, wijzigen, te
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Gratis app om EMF te bekijken" 
-        appName="Viewer" 
-        extension="EMF"
-        label1="Selecteer of sleep een EMF afbeelding" 
-        label2="Afbeelding wordt automatisch geüpload en weergegeven" 
-        checkFreeAppLabel="Bekijk onze [live demo's om EMF](https://products.aspose.app/imaging/nl/image-view/EMF)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="EMF" readMoreLink="https://docs.fileformat.com/image/emf/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder" >}}

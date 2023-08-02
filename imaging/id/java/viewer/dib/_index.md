@@ -73,9 +73,17 @@ Aspose.Imaging untuk Java didukung di semua sistem operasi utama. Pastikan saja 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Aplikasi Gratis untuk Melihat DIB" 
+        appName="Viewer" 
+        extension="DIB"
+        label1="Pilih atau seret dan lepas gambar DIB" 
+        label2="Gambar akan secara otomatis diunggah dan ditampilkan" 
+        checkFreeAppLabel="Lihat [demo langsung kami untuk melihat DIB](https://products.aspose.app/imaging/id/image-view/DIB)">}}
+
 {{% blocks/products/pf/agp/code-block title="Lihat gambar DIB - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "c105a05d95529e2551aa29cd9dc8d8e8" "convert-images-to-png-format.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -95,14 +103,6 @@ Aspose.Imaging API adalah solusi pemrosesan gambar untuk membuat, memodifikasi, 
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Aplikasi Gratis untuk Melihat DIB" 
-        appName="Viewer" 
-        extension="DIB"
-        label1="Pilih atau seret dan lepas gambar DIB" 
-        label2="Gambar akan secara otomatis diunggah dan ditampilkan" 
-        checkFreeAppLabel="Lihat [demo langsung kami untuk melihat DIB](https://products.aspose.app/imaging/id/image-view/DIB)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="DIB" readMoreLink="https://docs.fileformat.com/image/dib/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya" >}}

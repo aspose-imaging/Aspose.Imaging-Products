@@ -60,9 +60,17 @@ Jums reikia [aspose.imaging.dll](https://downloads.aspose.com/imaging/net) norė
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Nemokama programa, skirta peržiūrėti CDR" 
+        appName="Viewer" 
+        extension="CDR"
+        label1="Pasirinkite arba vilkite ir numeskite CDR vaizdą" 
+        label2="Vaizdas bus automatiškai įkeltas ir parodytas" 
+        checkFreeAppLabel="Peržiūrėkite mūsų [tiesiogines demonstracines versijas, kad galėtumėte peržiūrėti CDR](https://products.aspose.app/imaging/lt/image-view/CDR)">}}
+
 {{% blocks/products/pf/agp/code-block title="Peržiūrėti CDR vaizdus – .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-images-to-png-format.cs" >}}
+{{< gist "aspose-com-gists" "8b870aa054949d3119547e4fc0696b64" "convert-cdr-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -82,14 +90,6 @@ Aspose.Imaging API yra vaizdo apdorojimo sprendimas, skirtas kurti, modifikuoti,
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Nemokama programa, skirta peržiūrėti CDR" 
-        appName="Viewer" 
-        extension="CDR"
-        label1="Pasirinkite arba vilkite ir numeskite CDR vaizdą" 
-        label2="Vaizdas bus automatiškai įkeltas ir parodytas" 
-        checkFreeAppLabel="Peržiūrėkite mūsų [tiesiogines demonstracines versijas, kad galėtumėte peržiūrėti CDR](https://products.aspose.app/imaging/lt/image-view/CDR)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Kas yra" whatIsFormat2="Failo formatas" readMoreFormat="Skaityti daugiau" >}}

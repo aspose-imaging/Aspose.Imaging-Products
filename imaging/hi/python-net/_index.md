@@ -13,7 +13,7 @@ description: पायथन इमेज प्रोसेसिंग और 
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Python" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-python-net.svg" 
-liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/python-net/" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/python-net/" installationsDocsLink="https://docs.aspose.com/imaging/python-net/installation/" pipLink="https://pypi.org/project/aspose-imaging-python-net/" directDownloadLink="https://downloads.aspose.com/imaging/python-net/" liveDemosText="लाइव डेमो" overviewText="अवलोकन" featuresText="विशेषताएँ" resourcesText="साधन" pricingText="मूल्य निर्धारण" downloadText="डाउनलोड" learnText="सीखना" buyText="खरीदना" >}}
+liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/python-net" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/python-net/" installationsDocsLink="https://docs.aspose.com/imaging/python-net/installation/" pipLink="https://pypi.org/project/aspose-imaging-python-net/" directDownloadLink="https://downloads.aspose.com/imaging/python-net/" liveDemosText="लाइव डेमो" overviewText="अवलोकन" featuresText="विशेषताएँ" resourcesText="साधन" pricingText="मूल्य निर्धारण" downloadText="डाउनलोड" learnText="सीखना" buyText="खरीदना" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="एक पर" carousel1Text2="नज़र" carousel2Text1="प्लैटफ़ॉर्म" carousel2Text2="आजादी" carousel3Text1="समर्थित फ़ाइल" carousel3Text2="प्रारूप">}}
 <p align="justify">

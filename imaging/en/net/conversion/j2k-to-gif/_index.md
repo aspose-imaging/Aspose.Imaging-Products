@@ -76,7 +76,7 @@ Before running the conversion example code, make sure that you have the followin
 
 {{% blocks/products/pf/agp/code-block title="Convert J2K to GIF - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "edfe5302b3a0d2d40140d608bf13a799" "convert-j2k-to-gif.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

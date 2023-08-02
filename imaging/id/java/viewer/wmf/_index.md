@@ -73,9 +73,17 @@ Aspose.Imaging untuk Java didukung di semua sistem operasi utama. Pastikan saja 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Aplikasi Gratis untuk Melihat WMF" 
+        appName="Viewer" 
+        extension="WMF"
+        label1="Pilih atau seret dan lepas gambar WMF" 
+        label2="Gambar akan secara otomatis diunggah dan ditampilkan" 
+        checkFreeAppLabel="Lihat [demo langsung kami untuk melihat WMF](https://products.aspose.app/imaging/id/image-view/WMF)">}}
+
 {{% blocks/products/pf/agp/code-block title="Lihat gambar WMF - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "1bf18dd9bd143c0f8c4f8c47e2b51978" "convert-images-to-png-format.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -95,14 +103,6 @@ Aspose.Imaging API adalah solusi pemrosesan gambar untuk membuat, memodifikasi, 
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Aplikasi Gratis untuk Melihat WMF" 
-        appName="Viewer" 
-        extension="WMF"
-        label1="Pilih atau seret dan lepas gambar WMF" 
-        label2="Gambar akan secara otomatis diunggah dan ditampilkan" 
-        checkFreeAppLabel="Lihat [demo langsung kami untuk melihat WMF](https://products.aspose.app/imaging/id/image-view/WMF)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya" >}}

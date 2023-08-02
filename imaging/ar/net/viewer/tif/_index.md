@@ -59,9 +59,17 @@ Aspose.Imaging for .NET مدعوم على جميع أنظمة التشغيل ا�
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="تطبيق مجاني لعرض TIF" 
+        appName="Viewer" 
+        extension="TIF"
+        label1="حدد أو اسحب وأفلت صورة TIF" 
+        label2="سيتم تحميل الصورة وعرضها تلقائيًا" 
+        checkFreeAppLabel="تحقق من [العروض التوضيحية المباشرة لعرض TIF](https://products.aspose.app/imaging/ar/image-view/TIF)">}}
+
 {{% blocks/products/pf/agp/code-block title="عرض صور TIF - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-images-to-png-format.cs" >}}
+{{< gist "aspose-com-gists" "7541e333aba1f137d31c8f0b15a4519f" "convert-tif-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -81,14 +89,6 @@ Aspose.Imaging API هو حل لمعالجة الصور لإنشاء أو تعد�
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="تطبيق مجاني لعرض TIF" 
-        appName="Viewer" 
-        extension="TIF"
-        label1="حدد أو اسحب وأفلت صورة TIF" 
-        label2="سيتم تحميل الصورة وعرضها تلقائيًا" 
-        checkFreeAppLabel="تحقق من [العروض التوضيحية المباشرة لعرض TIF](https://products.aspose.app/imaging/ar/image-view/TIF)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="TIF" readMoreLink="https://docs.fileformat.com/image/tif/" whatIsFormat1="ما هو" whatIsFormat2="تنسيق الملف" readMoreFormat="اقرأ أكثر" >}}

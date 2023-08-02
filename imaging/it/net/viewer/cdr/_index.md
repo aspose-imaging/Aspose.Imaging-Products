@@ -62,9 +62,17 @@ Aspose.Imaging per .NET è supportato su tutti i principali sistemi operativi. A
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="App gratuita da visualizzare CDR" 
+        appName="Viewer" 
+        extension="CDR"
+        label1="Seleziona o trascina e rilascia un'immagine CDR" 
+        label2="L'immagine verrà caricata e mostrata automaticamente" 
+        checkFreeAppLabel="Controlla le nostre [dimostrazioni dal vivo per visualizzare CDR](https://products.aspose.app/imaging/it/image-view/CDR)">}}
+
 {{% blocks/products/pf/agp/code-block title="Visualizza le immagini di CDR - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-images-to-png-format.cs" >}}
+{{< gist "aspose-com-gists" "8b870aa054949d3119547e4fc0696b64" "convert-cdr-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -84,14 +92,6 @@ Aspose.Imaging API è una soluzione di elaborazione delle immagini per creare, m
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="App gratuita da visualizzare CDR" 
-        appName="Viewer" 
-        extension="CDR"
-        label1="Seleziona o trascina e rilascia un'immagine CDR" 
-        label2="L'immagine verrà caricata e mostrata automaticamente" 
-        checkFreeAppLabel="Controlla le nostre [dimostrazioni dal vivo per visualizzare CDR](https://products.aspose.app/imaging/it/image-view/CDR)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="CDR" readMoreLink="https://docs.fileformat.com/image/cdr/" whatIsFormat1="Cos'è" whatIsFormat2="Formato del file" readMoreFormat="Per saperne di più" >}}

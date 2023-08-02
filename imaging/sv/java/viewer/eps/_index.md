@@ -73,9 +73,17 @@ Aspose.Imaging för Java stöds på alla större operativsystem. Se bara till at
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Gratis app att visa EPS" 
+        appName="Viewer" 
+        extension="EPS"
+        label1="Välj eller dra och släpp en EPS-bild" 
+        label2="Bilden kommer automatiskt att laddas upp och visas" 
+        checkFreeAppLabel="Kolla in våra [live-demos för att se EPS](https://products.aspose.app/imaging/sv/image-view/EPS)">}}
+
 {{% blocks/products/pf/agp/code-block title="Visa EPS-bilder - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "7accc5c9da8ca6e7ba395aa038174d5e" "convert-images-to-png-format.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -95,14 +103,6 @@ Aspose.Imaging API är en bildbehandlingslösning för att skapa, modifiera, rit
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Gratis app att visa EPS" 
-        appName="Viewer" 
-        extension="EPS"
-        label1="Välj eller dra och släpp en EPS-bild" 
-        label2="Bilden kommer automatiskt att laddas upp och visas" 
-        checkFreeAppLabel="Kolla in våra [live-demos för att se EPS](https://products.aspose.app/imaging/sv/image-view/EPS)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="EPS" readMoreLink="https://docs.fileformat.com/image/eps/" whatIsFormat1="Vad är" whatIsFormat2="Filformat" readMoreFormat="Läs mer" >}}

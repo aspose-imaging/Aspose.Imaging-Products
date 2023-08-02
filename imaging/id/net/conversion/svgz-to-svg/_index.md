@@ -75,7 +75,7 @@ Sebelum menjalankan kode contoh konversi, pastikan Anda memiliki prasyarat berik
 
 {{% blocks/products/pf/agp/code-block title="Konversi SVGZ ke SVG - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "ae12c4da49ebc08ae79f7e9fc2839bbb" "convert-svgz-to-svg.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

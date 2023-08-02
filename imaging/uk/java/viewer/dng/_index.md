@@ -73,9 +73,17 @@ Aspose.Imaging для Java підтримується в усіх основни
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Безкоштовний додаток для перегляду DNG" 
+        appName="Viewer" 
+        extension="DNG"
+        label1="Виберіть або перетягніть зображення DNG" 
+        label2="Зображення буде автоматично завантажено та показано" 
+        checkFreeAppLabel="Перегляньте наші [демонстрації в реальному часі, щоб переглянути DNG](https://products.aspose.app/imaging/uk/image-view/DNG)">}}
+
 {{% blocks/products/pf/agp/code-block title="Переглянути зображення DNG - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "61a66808ddf0e2e9ba60c4e6e8c576c2" "convert-images-to-png-format.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -95,14 +103,6 @@ API Aspose.Imaging — це рішення для обробки зображе�
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Безкоштовний додаток для перегляду DNG" 
-        appName="Viewer" 
-        extension="DNG"
-        label1="Виберіть або перетягніть зображення DNG" 
-        label2="Зображення буде автоматично завантажено та показано" 
-        checkFreeAppLabel="Перегляньте наші [демонстрації в реальному часі, щоб переглянути DNG](https://products.aspose.app/imaging/uk/image-view/DNG)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="Що таке" whatIsFormat2="формат" readMoreFormat="Детальніше" >}}

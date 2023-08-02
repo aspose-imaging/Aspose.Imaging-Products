@@ -73,9 +73,17 @@ Aspose.Imaging voor Java wordt ondersteund op alle belangrijke besturingssysteme
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Gratis app om JP2 te bekijken" 
+        appName="Viewer" 
+        extension="JP2"
+        label1="Selecteer of sleep een JP2 afbeelding" 
+        label2="Afbeelding wordt automatisch geüpload en weergegeven" 
+        checkFreeAppLabel="Bekijk onze [live demo's om JP2](https://products.aspose.app/imaging/nl/image-view/JP2)">}}
+
 {{% blocks/products/pf/agp/code-block title="Bekijk JP2 afbeeldingen - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "d167f0c1dd15b076686df701892e6b1a" "convert-images-to-png-format.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -95,14 +103,6 @@ Aspose.Imaging API is een beeldverwerkingsoplossing voor het maken, wijzigen, te
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Gratis app om JP2 te bekijken" 
-        appName="Viewer" 
-        extension="JP2"
-        label1="Selecteer of sleep een JP2 afbeelding" 
-        label2="Afbeelding wordt automatisch geüpload en weergegeven" 
-        checkFreeAppLabel="Bekijk onze [live demo's om JP2](https://products.aspose.app/imaging/nl/image-view/JP2)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="JP2" readMoreLink="https://docs.fileformat.com/image/jp2/" whatIsFormat1="Wat is" whatIsFormat2="Bestandsformaat" readMoreFormat="Lees verder" >}}

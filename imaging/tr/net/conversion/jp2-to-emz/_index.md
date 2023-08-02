@@ -75,7 +75,7 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
 
 {{% blocks/products/pf/agp/code-block title="JP2 öğesini EMZ - .NET biçimine dönüştürün" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "d167f0c1dd15b076686df701892e6b1a" "convert-jp2-to-emz.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

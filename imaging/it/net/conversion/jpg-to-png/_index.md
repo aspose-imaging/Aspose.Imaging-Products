@@ -77,7 +77,7 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
 
 {{% blocks/products/pf/agp/code-block title="Converti JPG in PNG - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "5df13c606b80d0d08b0f19fac967995c" "convert-jpg-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

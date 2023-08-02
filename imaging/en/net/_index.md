@@ -13,7 +13,7 @@ description: Image processing and manipulation library API  to create edit draw 
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for .NET" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-net.svg" 
-liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/net/" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/net/" installationsDocsLink="https://docs.aspose.com/imaging/net/installation/" nugetLink="https://www.nuget.org/packages/aspose.imaging" nugetPackageName="Aspose.Imaging" directDownloadLink="https://downloads.aspose.com/imaging/net/" liveDemosText="Live Demos" overviewText="Overview" featuresText="Features" resourcesText="Resources" pricingText="Pricing" downloadText="Download" learnText="Learn" buyText="Buy" >}}
+liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/net" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/net/" installationsDocsLink="https://docs.aspose.com/imaging/net/installation/" nugetLink="https://www.nuget.org/packages/aspose.imaging" nugetPackageName="Aspose.Imaging" directDownloadLink="https://downloads.aspose.com/imaging/net/" liveDemosText="Live Demos" overviewText="Overview" featuresText="Features" resourcesText="Resources" pricingText="Pricing" downloadText="Download" learnText="Learn" buyText="Buy" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="At a" carousel1Text2="Glance" carousel2Text1="Platform" carousel2Text2="Independence" carousel3Text1="Supported File" carousel3Text2="Formats">}}
 <p align="justify">

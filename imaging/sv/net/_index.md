@@ -13,7 +13,7 @@ description: Bildbehandlings- och manipulationsbiblioteks API för att skapa red
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for .NET" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-net.svg" 
-liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/net/" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/net/" installationsDocsLink="https://docs.aspose.com/imaging/net/installation/" nugetLink="https://www.nuget.org/packages/aspose.imaging" nugetPackageName="Aspose.Imaging" directDownloadLink="https://downloads.aspose.com/imaging/net/" liveDemosText="Livedemos" overviewText="Översikt" featuresText="Funktioner" resourcesText="Resurser" pricingText="Prissättning" downloadText="Ladda ner" learnText="Lära sig" buyText="köpa" >}}
+liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/net" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/net/" installationsDocsLink="https://docs.aspose.com/imaging/net/installation/" nugetLink="https://www.nuget.org/packages/aspose.imaging" nugetPackageName="Aspose.Imaging" directDownloadLink="https://downloads.aspose.com/imaging/net/" liveDemosText="Livedemos" overviewText="Översikt" featuresText="Funktioner" resourcesText="Resurser" pricingText="Prissättning" downloadText="Ladda ner" learnText="Lära sig" buyText="köpa" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="Vid en" carousel1Text2="Blick" carousel2Text1="Plattform" carousel2Text2="Oberoende" carousel3Text1="Fil som stöds" carousel3Text2="Format">}}
 <p align="justify">

@@ -73,9 +73,17 @@ Aspose.Imaging untuk Java didukung di semua sistem operasi utama. Pastikan saja 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Aplikasi Gratis untuk Melihat DJVU" 
+        appName="Viewer" 
+        extension="DJVU"
+        label1="Pilih atau seret dan lepas gambar DJVU" 
+        label2="Gambar akan secara otomatis diunggah dan ditampilkan" 
+        checkFreeAppLabel="Lihat [demo langsung kami untuk melihat DJVU](https://products.aspose.app/imaging/id/image-view/DJVU)">}}
+
 {{% blocks/products/pf/agp/code-block title="Lihat gambar DJVU - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "7cd7d94813fb73fe141054272437f6ae" "convert-images-to-png-format.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -95,14 +103,6 @@ Aspose.Imaging API adalah solusi pemrosesan gambar untuk membuat, memodifikasi, 
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Aplikasi Gratis untuk Melihat DJVU" 
-        appName="Viewer" 
-        extension="DJVU"
-        label1="Pilih atau seret dan lepas gambar DJVU" 
-        label2="Gambar akan secara otomatis diunggah dan ditampilkan" 
-        checkFreeAppLabel="Lihat [demo langsung kami untuk melihat DJVU](https://products.aspose.app/imaging/id/image-view/DJVU)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="DJVU" readMoreLink="https://docs.fileformat.com/image/djvu/" whatIsFormat1="Apa" whatIsFormat2="Format Berkas" readMoreFormat="Baca selengkapnya" >}}

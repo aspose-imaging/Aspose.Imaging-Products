@@ -75,7 +75,7 @@ Prieš paleisdami konversijos pavyzdžio kodą, įsitikinkite, kad turite šias 
 
 {{% blocks/products/pf/agp/code-block title="Konvertuoti SVGZ į WMF – .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "ae12c4da49ebc08ae79f7e9fc2839bbb" "convert-svgz-to-wmf.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

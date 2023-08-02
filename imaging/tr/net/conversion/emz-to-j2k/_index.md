@@ -75,7 +75,7 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
 
 {{% blocks/products/pf/agp/code-block title="EMZ öğesini J2K - .NET biçimine dönüştürün" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "339fb6f6f36b878e48c3cf057f895589" "convert-emz-to-j2k.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

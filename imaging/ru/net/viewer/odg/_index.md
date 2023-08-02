@@ -62,9 +62,17 @@ Aspose.Imaging для .NET поддерживается во всех основ
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Бесплатное приложение для просмотра ODG" 
+        appName="Viewer" 
+        extension="ODG"
+        label1="Выберите или перетащите изображение ODG" 
+        label2="Изображение будет автоматически загружено и показано" 
+        checkFreeAppLabel="Проверьте наши [живые демонстрации для просмотра ODG](https://products.aspose.app/imaging/ru/image-view/ODG)">}}
+
 {{% blocks/products/pf/agp/code-block title="Просмотр изображений ODG - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-images-to-png-format.cs" >}}
+{{< gist "aspose-com-gists" "9cb710068cd36fa27e64a3e2c8dece30" "convert-odg-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -84,14 +92,6 @@ Aspose.Imaging API — это решение для обработки изоб�
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Бесплатное приложение для просмотра ODG" 
-        appName="Viewer" 
-        extension="ODG"
-        label1="Выберите или перетащите изображение ODG" 
-        label2="Изображение будет автоматически загружено и показано" 
-        checkFreeAppLabel="Проверьте наши [живые демонстрации для просмотра ODG](https://products.aspose.app/imaging/ru/image-view/ODG)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="ODG" readMoreLink="https://docs.fileformat.com/image/odg/" whatIsFormat1="Чем является" whatIsFormat2="формат" readMoreFormat="Читать далее" >}}

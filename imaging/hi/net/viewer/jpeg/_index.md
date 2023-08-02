@@ -61,9 +61,17 @@ Aspose.Imaging for .NET सभी प्रमुख ऑपरेटिंग �
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="देखने के लिए मुफ़्त ऐप JPEG" 
+        appName="Viewer" 
+        extension="JPEG"
+        label1="एक JPEG छवि चुनें या खींचें और छोड़ें" 
+        label2="छवि स्वचालित रूप से अपलोड और दिखाई जाएगी" 
+        checkFreeAppLabel="JPEG देखने के लिए हमारे [लाइव डेमो देखें](https://products.aspose.app/imaging/hi/image-view/JPEG)">}}
+
 {{% blocks/products/pf/agp/code-block title="JPEG इमेज देखें - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-images-to-png-format.cs" >}}
+{{< gist "aspose-com-gists" "cfe5a5e567a33d1bd815485a06f09677" "convert-jpeg-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -83,14 +91,6 @@ Aspose.Imaging API अनुप्रयोगों के भीतर छव�
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="देखने के लिए मुफ़्त ऐप JPEG" 
-        appName="Viewer" 
-        extension="JPEG"
-        label1="एक JPEG छवि चुनें या खींचें और छोड़ें" 
-        label2="छवि स्वचालित रूप से अपलोड और दिखाई जाएगी" 
-        checkFreeAppLabel="JPEG देखने के लिए हमारे [लाइव डेमो देखें](https://products.aspose.app/imaging/hi/image-view/JPEG)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें" >}}

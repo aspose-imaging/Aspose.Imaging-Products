@@ -60,9 +60,17 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="免費應用程序查看 WMF" 
+        appName="Viewer" 
+        extension="WMF"
+        label1="選擇或拖放 WMF 圖像" 
+        label2="圖片將自動上傳並顯示" 
+        checkFreeAppLabel="[查看我們的 [現場演示以查看 WMF](https://products.aspose.app/imaging/zh-hant/image-view/WMF)">}}
+
 {{% blocks/products/pf/agp/code-block title="查看 WMF 圖像 - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-images-to-png-format.cs" >}}
+{{< gist "aspose-com-gists" "1bf18dd9bd143c0f8c4f8c47e2b51978" "convert-wmf-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -82,14 +90,6 @@ Aspose.Imaging API 是一種圖像處理解決方案，用於在應用程序中�
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="免費應用程序查看 WMF" 
-        appName="Viewer" 
-        extension="WMF"
-        label1="選擇或拖放 WMF 圖像" 
-        label2="圖片將自動上傳並顯示" 
-        checkFreeAppLabel="[查看我們的 [現場演示以查看 WMF](https://products.aspose.app/imaging/zh-hant/image-view/WMF)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="WMF" readMoreLink="https://docs.fileformat.com/image/wmf/" whatIsFormat1="什麼是" whatIsFormat2="文件格式" readMoreFormat="閱讀更多" >}}

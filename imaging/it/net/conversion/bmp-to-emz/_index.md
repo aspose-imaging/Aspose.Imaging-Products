@@ -77,7 +77,7 @@ Prima di eseguire il codice di esempio di conversione, assicurati di disporre de
 
 {{% blocks/products/pf/agp/code-block title="Converti BMP in EMZ - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "6ec855304907234b26961df70f13afb0" "convert-bmp-to-emz.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

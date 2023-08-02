@@ -76,7 +76,7 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
 
 {{% blocks/products/pf/agp/code-block title="Převést WMZ na SVG – .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "69c0f75a96aeef906238823f6e345845" "convert-wmz-to-svg.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

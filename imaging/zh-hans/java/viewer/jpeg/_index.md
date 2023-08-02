@@ -74,9 +74,17 @@ description: 尝试使用我们的本地文档 API 来查看 .NET Framework、.N
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="免费应用程序查看 JPEG" 
+        appName="Viewer" 
+        extension="JPEG"
+        label1="选择或拖放 JPEG 图像" 
+        label2="图片将自动上传并显示" 
+        checkFreeAppLabel="查看我们的 [现场演示以查看 JPEG](https://products.aspose.app/imaging/zh-hans/image-view/JPEG)">}}
+
 {{% blocks/products/pf/agp/code-block title="查看 JPEG 图像 - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "cfe5a5e567a33d1bd815485a06f09677" "convert-images-to-png-format.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -96,14 +104,6 @@ Aspose.Imaging API 是一种图像处理解决方案，用于在应用程序中�
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="免费应用程序查看 JPEG" 
-        appName="Viewer" 
-        extension="JPEG"
-        label1="选择或拖放 JPEG 图像" 
-        label2="图片将自动上传并显示" 
-        checkFreeAppLabel="查看我们的 [现场演示以查看 JPEG](https://products.aspose.app/imaging/zh-hans/image-view/JPEG)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="JPEG" readMoreLink="https://docs.fileformat.com/image/jpeg/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多" >}}

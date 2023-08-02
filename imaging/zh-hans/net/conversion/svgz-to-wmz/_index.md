@@ -75,7 +75,7 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/code-block title="将 SVGZ 转换为 WMZ - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "ae12c4da49ebc08ae79f7e9fc2839bbb" "convert-svgz-to-wmz.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

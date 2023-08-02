@@ -75,7 +75,7 @@ Dönüştürme örneği kodunu çalıştırmadan önce aşağıdaki ön koşulla
 
 {{% blocks/products/pf/agp/code-block title="DIB öğesini TGA - .NET biçimine dönüştürün" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "c105a05d95529e2551aa29cd9dc8d8e8" "convert-dib-to-tga.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

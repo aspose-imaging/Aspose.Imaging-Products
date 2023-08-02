@@ -63,9 +63,17 @@ Aspose.Imaging para .NET es compatible con todos los principales sistemas operat
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="Aplicación gratuita para ver DICOM" 
+        appName="Viewer" 
+        extension="DICOM"
+        label1="Seleccione o arrastre y suelte una imagen DICOM" 
+        label2="La imagen se cargará y se mostrará automáticamente." 
+        checkFreeAppLabel="Consulte nuestras [demostraciones en vivo para ver DICOM](https://products.aspose.app/imaging/es/image-view/DICOM)">}}
+
 {{% blocks/products/pf/agp/code-block title="Ver imágenes DICOM - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-images-to-png-format.cs" >}}
+{{< gist "aspose-com-gists" "d2556ab69aeedafc6cf8c7c569c46075" "convert-dicom-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -85,14 +93,6 @@ Aspose.Imaging API es una solución de procesamiento de imágenes para crear, mo
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="Aplicación gratuita para ver DICOM" 
-        appName="Viewer" 
-        extension="DICOM"
-        label1="Seleccione o arrastre y suelte una imagen DICOM" 
-        label2="La imagen se cargará y se mostrará automáticamente." 
-        checkFreeAppLabel="Consulte nuestras [demostraciones en vivo para ver DICOM](https://products.aspose.app/imaging/es/image-view/DICOM)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="DICOM" readMoreLink="https://docs.fileformat.com/image/dicom/" whatIsFormat1="Qué es" whatIsFormat2="Formato de archivo" readMoreFormat="Leer más" >}}

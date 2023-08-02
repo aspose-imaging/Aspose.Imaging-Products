@@ -76,7 +76,7 @@ Před spuštěním ukázkového kódu konverze se ujistěte, že máte následuj
 
 {{% blocks/products/pf/agp/code-block title="Převést JP2 na DICOM – .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "d167f0c1dd15b076686df701892e6b1a" "convert-jp2-to-dicom.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

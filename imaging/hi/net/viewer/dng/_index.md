@@ -61,9 +61,17 @@ Aspose.Imaging for .NET सभी प्रमुख ऑपरेटिंग �
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="देखने के लिए मुफ़्त ऐप DNG" 
+        appName="Viewer" 
+        extension="DNG"
+        label1="एक DNG छवि चुनें या खींचें और छोड़ें" 
+        label2="छवि स्वचालित रूप से अपलोड और दिखाई जाएगी" 
+        checkFreeAppLabel="DNG देखने के लिए हमारे [लाइव डेमो देखें](https://products.aspose.app/imaging/hi/image-view/DNG)">}}
+
 {{% blocks/products/pf/agp/code-block title="DNG इमेज देखें - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-images-to-png-format.cs" >}}
+{{< gist "aspose-com-gists" "61a66808ddf0e2e9ba60c4e6e8c576c2" "convert-dng-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -83,14 +91,6 @@ Aspose.Imaging API अनुप्रयोगों के भीतर छव�
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="देखने के लिए मुफ़्त ऐप DNG" 
-        appName="Viewer" 
-        extension="DNG"
-        label1="एक DNG छवि चुनें या खींचें और छोड़ें" 
-        label2="छवि स्वचालित रूप से अपलोड और दिखाई जाएगी" 
-        checkFreeAppLabel="DNG देखने के लिए हमारे [लाइव डेमो देखें](https://products.aspose.app/imaging/hi/image-view/DNG)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="DNG" readMoreLink="https://docs.fileformat.com/image/dng/" whatIsFormat1="क्या है" whatIsFormat2="फाइल का प्रारूप" readMoreFormat="अधिक पढ़ें" >}}

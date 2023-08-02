@@ -75,7 +75,7 @@ Sebelum menjalankan kode contoh konversi, pastikan Anda memiliki prasyarat berik
 
 {{% blocks/products/pf/agp/code-block title="Konversi CDR ke HTML - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "8b870aa054949d3119547e4fc0696b64" "convert-cdr-to-html.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

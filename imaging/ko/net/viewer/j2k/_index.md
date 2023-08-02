@@ -62,9 +62,17 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="J2K을(를) 볼 수 있는 무료 앱" 
+        appName="Viewer" 
+        extension="J2K"
+        label1="J2K 이미지 선택 또는 드래그 앤 드롭" 
+        label2="이미지가 자동으로 업로드되어 표시됩니다." 
+        checkFreeAppLabel="[를 보려면 라이브 데모] J2K](https://products.aspose.app/imaging/ko/image-view/J2K) 를 확인하세요.">}}
+
 {{% blocks/products/pf/agp/code-block title="J2K 이미지 보기 - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-images-to-png-format.cs" >}}
+{{< gist "aspose-com-gists" "edfe5302b3a0d2d40140d608bf13a799" "convert-j2k-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -84,14 +92,6 @@ Aspose.Imaging API는 애플리케이션 내에서 이미지(사진)를 생성, 
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="J2K을(를) 볼 수 있는 무료 앱" 
-        appName="Viewer" 
-        extension="J2K"
-        label1="J2K 이미지 선택 또는 드래그 앤 드롭" 
-        label2="이미지가 자동으로 업로드되어 표시됩니다." 
-        checkFreeAppLabel="[를 보려면 라이브 데모] J2K](https://products.aspose.app/imaging/ko/image-view/J2K) 를 확인하세요.">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="J2K" readMoreLink="https://docs.fileformat.com/image/j2k/" whatIsFormat1="뭐가" whatIsFormat2="파일 형식" readMoreFormat="더 읽어보기" >}}

@@ -13,7 +13,7 @@ description: Python Image การประมวลผลและไลบร
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Python" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-python-net.svg" 
-liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/python-net/" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/python-net/" installationsDocsLink="https://docs.aspose.com/imaging/python-net/installation/" pipLink="https://pypi.org/project/aspose-imaging-python-net/" directDownloadLink="https://downloads.aspose.com/imaging/python-net/" liveDemosText="การสาธิตสด" overviewText="ภาพรวม" featuresText="คุณสมบัติ" resourcesText="ทรัพยากร" pricingText="ราคา" downloadText="ดาวน์โหลด" learnText="เรียนรู้" buyText="ซื้อ" >}}
+liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/python-net" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/python-net/" installationsDocsLink="https://docs.aspose.com/imaging/python-net/installation/" pipLink="https://pypi.org/project/aspose-imaging-python-net/" directDownloadLink="https://downloads.aspose.com/imaging/python-net/" liveDemosText="การสาธิตสด" overviewText="ภาพรวม" featuresText="คุณสมบัติ" resourcesText="ทรัพยากร" pricingText="ราคา" downloadText="ดาวน์โหลด" learnText="เรียนรู้" buyText="ซื้อ" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="ที่อา" carousel1Text2="ชำเลือง" carousel2Text1="แพลตฟอร์ม" carousel2Text2="อิสรภาพ" carousel3Text1="ไฟล์ที่รองรับ" carousel3Text2="รูปแบบ">}}
 <p align="justify">

@@ -73,9 +73,17 @@ Aspose.Imaging for Javaは、すべての主要なオペレーティングシス
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="表示する無料アプリTIFF" 
+        appName="Viewer" 
+        extension="TIFF"
+        label1="TIFF画像を選択またはドラッグアンドドロップします" 
+        label2="画像は自動的にアップロードされて表示されます" 
+        checkFreeAppLabel="[を表示するためのライブデモ] TIFF](https://products.aspose.app/imaging/ja/image-view/TIFF) を確認してください">}}
+
 {{% blocks/products/pf/agp/code-block title="TIFF画像を表示-Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "a0918ab26b50f4aaa25213f37eb2e95b" "convert-images-to-png-format.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -95,14 +103,6 @@ Aspose.Imaging APIは、アプリケーション内で画像（写真）を作�
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="表示する無料アプリTIFF" 
-        appName="Viewer" 
-        extension="TIFF"
-        label1="TIFF画像を選択またはドラッグアンドドロップします" 
-        label2="画像は自動的にアップロードされて表示されます" 
-        checkFreeAppLabel="[を表示するためのライブデモ] TIFF](https://products.aspose.app/imaging/ja/image-view/TIFF) を確認してください">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" whatIsFormat1="とは" whatIsFormat2="ファイル形式" readMoreFormat="続きを読む" >}}

@@ -75,7 +75,7 @@ Sebelum menjalankan kode contoh konversi, pastikan Anda memiliki prasyarat berik
 
 {{% blocks/products/pf/agp/code-block title="Konversi OTG ke EMF - .NET" offSpacer="true" %}}
 
-{{< gist "aspose-com-gists" "4f45746500932351190aa24726cc4544" "convert-image-to-other-format.cs" >}}
+{{< gist "aspose-com-gists" "591ab204772afbc5e31c9168fbe0284c" "convert-otg-to-emf.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

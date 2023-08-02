@@ -74,9 +74,17 @@ description: 尝试使用我们的本地文档 API 来查看 .NET Framework、.N
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
+{{< blocks/imaging-app-widget
+        sectionTitle="免费应用程序查看 BMP" 
+        appName="Viewer" 
+        extension="BMP"
+        label1="选择或拖放 BMP 图像" 
+        label2="图片将自动上传并显示" 
+        checkFreeAppLabel="查看我们的 [现场演示以查看 BMP](https://products.aspose.app/imaging/zh-hans/image-view/BMP)">}}
+
 {{% blocks/products/pf/agp/code-block title="查看 BMP 图像 - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "74b9cf26c193cd103f69194c2bbe0984" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "6ec855304907234b26961df70f13afb0" "convert-images-to-png-format.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
@@ -96,14 +104,6 @@ Aspose.Imaging API 是一种图像处理解决方案，用于在应用程序中�
     {{% /blocks/products/pf/agp/content %}}
 
     {{< blocks/products/pf/agp/about-file-section >}}        
-
-{{< blocks/imaging-app-widget
-        sectionTitle="免费应用程序查看 BMP" 
-        appName="Viewer" 
-        extension="BMP"
-        label1="选择或拖放 BMP 图像" 
-        label2="图片将自动上传并显示" 
-        checkFreeAppLabel="查看我们的 [现场演示以查看 BMP](https://products.aspose.app/imaging/zh-hans/image-view/BMP)">}}
 
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" whatIsFormat1="什么是" whatIsFormat2="文件格式" readMoreFormat="阅读更多" >}}
