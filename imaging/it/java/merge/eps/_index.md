@@ -75,7 +75,7 @@ Aspose.Imaging per Java è supportato su tutti i principali sistemi operativi. A
 
 {{% blocks/products/pf/agp/code-block title="Unisci immagini EPS - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "d8c86be526ab92ccc5eaafd1eaa1320b" "Combine-Vector-To-Pdf.java" >}}
+{{< gist "aspose-com-gists" "d8c86be526ab92ccc5eaafd1eaa1320b" "combine-vector-to-pdf.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

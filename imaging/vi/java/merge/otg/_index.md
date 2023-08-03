@@ -75,7 +75,7 @@ Aspose.Imaging cho Java được hỗ trợ trên tất cả các hệ điều h
 
 {{% blocks/products/pf/agp/code-block title="Hợp nhất hình ảnh OTG - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "d8c86be526ab92ccc5eaafd1eaa1320b" "Combine-Vector-To-Pdf.java" >}}
+{{< gist "aspose-com-gists" "d8c86be526ab92ccc5eaafd1eaa1320b" "combine-vector-to-pdf.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

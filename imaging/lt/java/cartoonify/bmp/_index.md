@@ -96,7 +96,7 @@ Aspose.Imaging API yra vaizdo apdorojimo sprendimas, skirtas kurti, modifikuoti,
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Cartoonify BMP per internetinę programą" sectionDescription="Karikatūrizuokite BMP dokumentus apsilankę [tiesioginės demonstracinės versijos svetainėje] (https://products.aspose.app/imaging/image-Cartoonify). Tiesioginė demonstracinė versija turi šiuos privalumus" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Cartoonify BMP per internetinę programą" sectionDescription="Karikatūrizuokite BMP dokumentus apsilankę [tiesioginės demonstracinės versijos svetainėje](https://products.aspose.app/imaging/image-Cartoonify). Tiesioginė demonstracinė versija turi šiuos privalumus" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Nereikia nieko atsisiųsti ar nustatyti" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Nereikia rašyti jokio kodo" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Tiesiog įkelkite savo BMP failus ir paspauskite mygtuką \"Cartoonify now\"." >}}

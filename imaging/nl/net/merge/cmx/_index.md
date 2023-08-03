@@ -62,7 +62,7 @@ Aspose.Imaging voor .NET wordt ondersteund op alle belangrijke besturingssysteme
 
 {{% blocks/products/pf/agp/code-block title="CMX afbeeldingen samenvoegen - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "c3b1f39eaf550446e244e071b29d5191" "Combine-Vector-To-Pdf.cs" >}}
+{{< gist "aspose-com-gists" "c3b1f39eaf550446e244e071b29d5191" "combine-vector-to-pdf.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
