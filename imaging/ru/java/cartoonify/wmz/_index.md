@@ -96,7 +96,7 @@ Aspose.Imaging API — это решение для обработки изоб�
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Cartoonify WMZ через онлайн-приложение" sectionDescription="Оживите документы WMZ, посетив наш [веб-сайт Live Demos] (https://products.aspose.app/imaging/image-Cartoonify). Online примеры имеют следующие преимущества" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Cartoonify WMZ через онлайн-приложение" sectionDescription="Оживите документы WMZ, посетив наш [веб-сайт Live Demos](https://products.aspose.app/imaging/image-Cartoonify). Online примеры имеют следующие преимущества" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Не нужно ничего скачивать или настраивать" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Нет необходимости писать какой-либо код" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Просто загрузите свои файлы WMZ и нажмите кнопку \"Cartoonify now\"." >}}

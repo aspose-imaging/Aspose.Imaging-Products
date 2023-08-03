@@ -75,7 +75,7 @@ Aspose.Imaging pour Java est pris en charge sur tous les principaux systèmes d'
 
 {{% blocks/products/pf/agp/code-block title="Fusionner les images ODG - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "d8c86be526ab92ccc5eaafd1eaa1320b" "Combine-Vector-To-Pdf.java" >}}
+{{< gist "aspose-com-gists" "d8c86be526ab92ccc5eaafd1eaa1320b" "combine-vector-to-pdf.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

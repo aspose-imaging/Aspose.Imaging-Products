@@ -75,7 +75,7 @@ Aspose.Imaging для Java підтримується в усіх основни
 
 {{% blocks/products/pf/agp/code-block title="Об’єднати зображення CDR – Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "d8c86be526ab92ccc5eaafd1eaa1320b" "Combine-Vector-To-Pdf.java" >}}
+{{< gist "aspose-com-gists" "d8c86be526ab92ccc5eaafd1eaa1320b" "combine-vector-to-pdf.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

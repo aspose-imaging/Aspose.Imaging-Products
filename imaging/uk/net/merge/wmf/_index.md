@@ -63,7 +63,7 @@ Aspose.Imaging для .NET підтримується в усіх основни
 
 {{% blocks/products/pf/agp/code-block title="Об’єднати зображення WMF – .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "c3b1f39eaf550446e244e071b29d5191" "Combine-Vector-To-Pdf.cs" >}}
+{{< gist "aspose-com-gists" "c3b1f39eaf550446e244e071b29d5191" "combine-vector-to-pdf.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

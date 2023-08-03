@@ -75,7 +75,7 @@ Java용 Aspose.Imaging은 모든 주요 운영 체제에서 지원됩니다. 다
 
 {{% blocks/products/pf/agp/code-block title="ODG 이미지 병합 - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "d8c86be526ab92ccc5eaafd1eaa1320b" "Combine-Vector-To-Pdf.java" >}}
+{{< gist "aspose-com-gists" "d8c86be526ab92ccc5eaafd1eaa1320b" "combine-vector-to-pdf.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

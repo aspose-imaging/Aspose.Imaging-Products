@@ -96,7 +96,7 @@ Aspose.Imaging API yra vaizdo apdorojimo sprendimas, skirtas kurti, modifikuoti,
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Pilkos spalvos WMF naudojant internetinę programą" sectionDescription="Pilkos spalvos WMF dokumentus apsilankę [tiesioginės demonstracinės versijos svetainėje] (https://products.aspose.app/imaging/image-grayscale). Tiesioginė demonstracinė versija turi šiuos privalumus" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Pilkos spalvos WMF naudojant internetinę programą" sectionDescription="Pilkos spalvos WMF dokumentus apsilankę [tiesioginės demonstracinės versijos svetainėje](https://products.aspose.app/imaging/image-grayscale). Tiesioginė demonstracinė versija turi šiuos privalumus" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text="Nereikia nieko atsisiųsti ar nustatyti" >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text="Nereikia rašyti jokio kodo" >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text="Tiesiog įkelkite WMF failus ir paspauskite mygtuką \"Pilkos spalvos dabar\"." >}}

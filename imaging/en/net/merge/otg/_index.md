@@ -63,7 +63,7 @@ Aspose.Imaging for .NET is supported on all major operating systems. Just make s
 
 {{% blocks/products/pf/agp/code-block title="Merge OTG images - .NET" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "c3b1f39eaf550446e244e071b29d5191" "Combine-Vector-To-Pdf.cs" >}}
+{{< gist "aspose-com-gists" "c3b1f39eaf550446e244e071b29d5191" "combine-vector-to-pdf.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
