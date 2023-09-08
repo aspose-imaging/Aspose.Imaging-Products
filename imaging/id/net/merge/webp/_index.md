@@ -16,7 +16,7 @@ description: Coba API dokumen Lokal kami untuk menggabungkan file WEBP di .NET F
 
 {{% blocks/products/pf/agp/content h2="Cara Menggabungkan WEBP File Menggunakan C#" %}}
 
-Untuk menggabungkan file WEBP, kami akan menggunakan [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API yang kaya fitur, kuat, dan mudah digunakan manipulasi gambar dan konversi API untuk platform C#. Membuka [NuGet](https://www.nuget.org/packages/aspose.imaging) manajer paket, cari **Aspose.Imaging** dan menginstal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
+Jika Anda ingin kreativitas Anda menjadi liar, inilah saatnya menggunakan kolase gambar. Fungsi ini memungkinkan Anda menggabungkan foto dan gambar meskipun file sumber memiliki format berbeda. Cara terbaik untuk menarik perhatian ke portofolio Anda adalah dengan menggunakan wallpaper foto dengan gambar atau pola yang berulang. Dalam hal ini, gambar dapat digabungkan baik dalam arah horizontal maupun vertikal. Jika Anda ingin mendemonstrasikan hasil pemrosesan file, Anda dapat dengan mudah menggabungkan dua gambar: sebelum dan sesudah menerapkan efek foto. Untuk menggabungkan file WEBP, kami akan menggunakan [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API yang kaya fitur, kuat, dan mudah digunakan manipulasi gambar dan konversi API untuk platform C#. Membuka [NuGet](https://www.nuget.org/packages/aspose.imaging) manajer paket, cari **Aspose.Imaging** dan menginstal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Perintah Konsol Manajer Paket" offSpacer="true" %}}
 

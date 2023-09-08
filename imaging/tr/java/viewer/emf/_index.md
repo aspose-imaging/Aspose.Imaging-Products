@@ -16,7 +16,7 @@ description: EMF dosyalarını .NET Framework, .NET Core, Windows Uygulaması, A
 
 {{% blocks/products/pf/agp/content h2="Java Kullanarak EMF görüntüleri Nasıl İzlenir" %}}
 
-EMF dosyalarını görüntülemek için kullanacağız [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) Java platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. En son sürümünü doğrudan adresinden indirebilirsiniz. [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) ve pom.xml dosyasına aşağıdaki konfigürasyonları ekleyerek Maven tabanlı projenize kurun.
+Kaynak materyal olarak sıklıkla daha az yaygın formatlardaki görselleri alıyoruz. Bu tür görüntülerin daha sonra görüntülenmesi için özel programlar gereklidir. Bu sorun hakkında düşünmemek ve sorunu çözmek için gereken zamanı daha yaratıcı görevlerde kullanmak için Java grafik kütüphanesinin işlevlerini kullanın. Bu tür görselleri daha popüler formatlardaki dosyalara dönüştürerek bunları platformunuzun standart görsel görüntüleme programında açabilirsiniz. EMF dosyalarını görüntülemek için şunu kullanacağız: [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) Java platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. En son sürümünü doğrudan adresinden indirebilirsiniz. [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) ve pom.xml dosyasına aşağıdaki konfigürasyonları ekleyerek Maven tabanlı projenize kurun.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 

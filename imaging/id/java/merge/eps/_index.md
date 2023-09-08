@@ -16,7 +16,7 @@ description: Coba API dokumen Lokal kami untuk menggabungkan file EPS di Aplikas
 
 {{% blocks/products/pf/agp/content h2="Cara Menggabungkan EPS File Menggunakan Java" %}}
 
-Untuk menggabungkan file EPS, kami akan menggunakan [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API yang kaya fitur, kuat dan mudah digunakan manipulasi gambar dan konversi API untuk platform Java. Anda dapat mengunduh versi terbarunya langsung dari [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
+Jika Anda ingin kreativitas Anda menjadi liar, inilah saatnya menggunakan kolase gambar. Fungsi ini memungkinkan Anda menggabungkan foto dan gambar meskipun file sumber memiliki format berbeda. Cara terbaik untuk menarik perhatian ke portofolio Anda adalah dengan menggunakan wallpaper foto dengan gambar atau pola yang berulang. Dalam hal ini, gambar dapat digabungkan baik dalam arah horizontal maupun vertikal. Jika Anda ingin mendemonstrasikan hasil pemrosesan file, Anda dapat dengan mudah menggabungkan dua gambar: sebelum dan sesudah menerapkan efek foto. Untuk menggabungkan file EPS, kami akan menggunakan [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API yang kaya fitur, kuat dan mudah digunakan manipulasi gambar dan konversi API untuk platform Java. Anda dapat mengunduh versi terbarunya langsung dari [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 

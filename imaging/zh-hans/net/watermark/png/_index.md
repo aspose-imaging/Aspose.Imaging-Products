@@ -16,7 +16,7 @@ description: 尝试使用我们的本地文档 API 为 .NET Framework、.NET Cor
 
 {{% blocks/products/pf/agp/content h2="如何使用 C# 为 PNG 文件添加水印" %}}
 
-为了给 PNG 文件加水印，我们将使用 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一个功能丰富、功能强大 易于使用的 C# 平台图像处理和转换 API。打开 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 并安装。您还可以从包管理器控制台使用以下命令。
+水印是作者寻求最大程度地在互联网上展示其作品的重要工具。在图像上放置水印不仅可以识别其来源或版权所有者，还可以宣传其创作者。这是因为包含作者姓名或互联网资源名称的签名与图像的数字副本一起分发。水印可以采用具有多种字体的文本形式，并且可以放置在图像的边缘。当水印是透明的时，它不会干扰观看。然而，如果作者或版权所有者希望强调他们的名字，水印可能会与图像部分重叠。为了给 PNG 图像文件加水印，我们将使用 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一个功能丰富、功能强大 易于使用的 C# 平台图像处理和转换 API。打开 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 并安装。您还可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 

@@ -16,7 +16,7 @@ description: 嘗試使用我們的本地文檔 API 在 .NET Framework、.NET Cor
 
 {{% blocks/products/pf/agp/content h2="如何使用 Java 抖動 GIF 文件" %}}
 
-為了抖動 GIF 文件，我們將使用 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一個功能豐富、功能強大 易於使用的 Java 平台圖像處理和轉換 API。您可以直接從 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 並通過將以下配置添加到 pom.xml 將其安裝在基於 Maven 的項目中。
+有效優化網頁放置圖像對於確保流暢的用戶體驗至關重要。這種優化的一種方法涉及減少圖像的調色板，從而減小其文件大小並縮短頁面加載時間。然而，為了防止平滑顏色梯度被破壞以及單色區域中出現尖銳邊界，必須採用圖像平滑功能（稱為抖動）。該技術允許您向圖像或照片引入控制量的“噪點”，從而通過平滑色域內的過渡並增強圖像的整體視覺吸引力來產生積極的效果。為了抖動 GIF 文件，我們將使用 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一個功能豐富、功能強大 易於使用的 Java 平台圖像處理和轉換 API。您可以直接從 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 並通過將以下配置添加到 pom.xml 將其安裝在基於 Maven 的項目中。
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 

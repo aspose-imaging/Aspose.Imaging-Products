@@ -16,7 +16,7 @@ description: 尝试使用我们的本地文档 API 更改 Java 应用程序上 W
 
 {{% blocks/products/pf/agp/content h2="如何使用 Java 更改 WEBP 文件中的背景" %}}
 
-为了改变 WEBP 文件的背景，我们将使用 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一个功能丰富、功能强大 易于使用的 Java 平台图像处理和转换 API。您可以直接从 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
+通常，要获得理想的图像需要更改背景。为了获得所需的WEBP格式图像效果，前景物体必须与图片的其余部分隔离。如果背景均匀，则可以自动检测物体。如果照片的背景不均匀或物体分离具有挑战性，建议对图像进行预先标记。这涉及识别照片中预期对象所在的矩形区域并指定其类型。这可以手动完成，也可以通过 Cloud API 的对象识别功能自动完成。选择对象并删除原始背景后，可以应用新背景或实现透明度。为了更改 WEBP 文件中的背景，我们将使用 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一个功能丰富、功能强大 易于使用的 Java 平台图像处理和转换 API。您可以直接从 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
 并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}

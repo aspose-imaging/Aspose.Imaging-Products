@@ -16,7 +16,7 @@ description: Probieren Sie unsere On-Premise-Dokument-APIs aus, um OTG-Dateien i
 
 {{% blocks/products/pf/agp/content h2="OTG-Dateien mit C# in Graustufen umwandeln" %}}
 
-Um OTG-Dateien in Graustufen umzuwandeln, verwenden wir [Aspose.Imaging für .NET](https://products.aspose.com/imaging/net) API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Bildbearbeitungs- und Konvertierungs-API für die C#-Plattform ist. Offen [NuGet](https://www.nuget.org/packages/aspose.imaging) Paketmanager, suche nach
+Helligkeit und Mehrfarbigkeit sind die Begleiter schöner Bilder. Farbdruck ist jedoch nicht immer möglich. In solchen Fällen ist die Konvertierung eines Fotos in Graustufen erforderlich. Darüber hinaus kann diese Funktion als eigenständiger künstlerischer Ansatz genutzt werden und so die Attraktivität Ihrer Website steigern. Anstatt den Verlust von Farbinformationen während dieses Übergangs zu beklagen, der möglicherweise die Wahrnehmung behindern könnte, nutzen Sie ihn zu Ihrem Vorteil. Konzentrieren Sie sich auf die Details des Bildes, die Oberflächentexturen und das Zusammenspiel von hellen und dunklen Bereichen, um ein unverwechselbares visuelles Erlebnis zu schaffen. Zum Graustufen von OTG-Dateien verwenden wir [Aspose.Imaging für .NET](https://products.aspose.com/imaging/net) API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Bildbearbeitungs- und Konvertierungs-API für die C#-Plattform ist. Offen [NuGet](https://www.nuget.org/packages/aspose.imaging) Paketmanager, suche nach
  **Aspose.Imaging** und installieren. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}

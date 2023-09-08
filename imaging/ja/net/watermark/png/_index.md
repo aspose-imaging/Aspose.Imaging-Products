@@ -16,7 +16,7 @@ description: オンプレミスドキュメントAPIを試して、.NET Framewor
 
 {{% blocks/products/pf/agp/content h2="C#を使用してPNGファイルに透かしを入れる方法" %}}
 
-PNGファイルに透かしを入れるために、 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) 機能が豊富で強力で使いやすいC＃プラットフォーム用の画像操作および変換APIであるAPI。開ける [NuGet](https://www.nuget.org/packages/aspose.imaging) パッケージマネージャー、検索 ** Aspose.Imaging ** とインストールします。パッケージマネージャーコンソールから次のコマンドを使用することもできます。
+ウォーターマークは、インターネット上で自分の作品を最大限に露出させたいと考えている著者にとって不可欠なツールです。画像に透かしを入れることは、その出典または著作権者を特定するだけでなく、その作成者を宣伝することにも役立ちます。これは、作成者の名前またはインターネット リソースの名前を含む署名が、画像のデジタル コピーと一緒に配布されるためです。透かしは、さまざまなフォントを使用したテキストの形式をとることができ、画像の端に配置できます。透かしが透明であれば、視聴を妨げることはありません。ただし、作者または著作権者が自分の名前を強調したい場合は、透かしが画像の一部に重なることがあります。 PNG 画像ファイルに透かしを入れるには、次を使用します。 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) 機能が豊富で強力で使いやすいC＃プラットフォーム用の画像操作および変換APIであるAPI。開ける [NuGet](https://www.nuget.org/packages/aspose.imaging) パッケージマネージャー、検索 ** Aspose.Imaging ** とインストールします。パッケージマネージャーコンソールから次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title ="パッケージマネージャーコンソールコマンド" offSpacer = "true"%}}
 

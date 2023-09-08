@@ -16,7 +16,7 @@ description: Coba API dokumen Lokal kami untuk memotong fileJP2 di .NET Framewor
 
 {{% blocks/products/pf/agp/content h2="Cara Memotong File JP2 Menggunakan C#" %}}
 
-Untuk memotong file JP2, kami akan menggunakan [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API yang kaya fitur, kuat, dan mudah digunakan manipulasi gambar dan konversi API untuk platform C#. Membuka [NuGet](https://www.nuget.org/packages/aspose.imaging) manajer paket, cari **Aspose.Imaging** dan menginstal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
+Untuk langsung memikat pengguna yang mengunjungi halaman web Anda, posisikan elemen yang menarik perhatian di tengah gambar. Terkadang, lebih efektif menghilangkan seluruh elemen yang tidak perlu yang mengganggu tema utama foto. Untuk mencapai hal ini, manfaatkan fungsi pemotongan gambar yang disediakan oleh perpustakaan C#. Anda dapat mencapai hal ini dengan menentukan koordinat area persegi panjang yang meliputi titik fokus atau dengan menunjukkan pergeseran dari tepi foto untuk memilih bagian penting dari gambar. Dengan cara ini, melalui pemangkasan gambar, kami menghilangkan elemen yang tidak relevan dan menekankan subjek utama. Untuk memotong file JP2, kami akan menggunakan [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API yang kaya fitur, kuat, dan mudah digunakan manipulasi gambar dan konversi API untuk platform C#. Membuka [NuGet](https://www.nuget.org/packages/aspose.imaging) manajer paket, cari **Aspose.Imaging** dan menginstal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Perintah Konsol Manajer Paket" offSpacer="true" %}}
 

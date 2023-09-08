@@ -16,7 +16,7 @@ description: נסה את ממשקי ה-API של מסמכים מקומיים כד
 
 {{% blocks/products/pf/agp/content h2="כיצד לחתוך קבצים CMX באמצעות Java" %}}
 
-כדי לחתוך קבצים CMX, נשתמש [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API שהוא עשיר בתכונות, חזק וקל לשימוש למניפולציה והמרה של תמונות עבור פלטפורמת Java. אתה יכול להוריד את הגרסה האחרונה שלו ישירות מ-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) ולהתקין אותה בתוך ה-Maven שלך פרויקט מבוסס על ידי הוספת התצורות הבאות לקובץ pom.xml.
+כדי לרתק באופן מיידי משתמש המבקר בדף האינטרנט שלך, מקם אלמנטים מושכי תשומת לב במרכז התמונות. לפעמים, יעיל יותר לחסל לחלוטין כל אלמנט מיותר שמסיח את הדעת מהנושא הראשי של התמונה. כדי להשיג זאת, השתמש בפונקציית חיתוך התמונה המסופקת על ידי ספריית Java. אתה יכול להשיג זאת על ידי ציון הקואורדינטות של אזור מלבני המקיף את נקודת המוקד או על ידי ציון תזוזות מקצוות התמונה כדי לבחור את החלק החיוני של התמונה. בדרך זו, באמצעות חיתוך התמונה, אנו מבטלים אלמנטים לא רלוונטיים ומדגישים את הנושא המרכזי. כדי לחתוך קבצים CMX, נשתמש [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API שהוא עשיר בתכונות, חזק וקל לשימוש למניפולציה והמרה של תמונות עבור פלטפורמת Java. אתה יכול להוריד את הגרסה האחרונה שלו ישירות מ-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) ולהתקין אותה בתוך ה-Maven שלך פרויקט מבוסס על ידי הוספת התצורות הבאות לקובץ pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="מאגר" offSpacer="true" %}}
 

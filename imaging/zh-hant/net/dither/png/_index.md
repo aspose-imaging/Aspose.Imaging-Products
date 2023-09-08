@@ -16,7 +16,7 @@ description: 嘗試使用我們的本地文檔 API 在 .NET Framework、.NET Cor
 
 {{% blocks/products/pf/agp/content h2="如何使用 C# 抖動 PNG 文件" %}}
 
-為了抖動 PNG 文件，我們將使用 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一個功能豐富、功能強大且易於使用的 C# 平台圖像處理和轉換 API。打開 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 並安裝。您也可以從包管理器控制台使用以下命令。
+有效優化網頁放置圖像對於確保流暢的用戶體驗至關重要。這種優化的一種方法涉及減少圖像的調色板，從而減小其文件大小並縮短頁面加載時間。然而，為了防止平滑顏色梯度被破壞以及單色區域中出現尖銳邊界，必須採用圖像平滑功能（稱為抖動）。該技術允許您向圖像或照片引入控制量的“噪點”，從而通過平滑色域內的過渡並增強圖像的整體視覺吸引力來產生積極的效果。為了抖動 PNG 文件，我們將使用 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一個功能豐富、功能強大且易於使用的 C# 平台圖像處理和轉換 API。打開 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 並安裝。您也可以從包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 

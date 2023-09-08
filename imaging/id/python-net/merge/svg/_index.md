@@ -16,7 +16,7 @@ description: Coba API dokumen Lokal kami untuk menggabungkan file SVG di .NET Fr
 
 {{% blocks/products/pf/agp/content h2="Cara Menggabungkan SVG File Menggunakan Python" %}}
 
-Untuk menggabungkan file SVG, kami akan menggunakan [Aspose.Imaging for Python via .NET](/imaging/id/python-net) API yang merupakan API konversi dan manipulasi gambar yang kaya fitur, kuat, dan mudah digunakan untuk platform Python. Anda dapat menginstalnya menggunakan perintah berikut dari perintah sistem Anda.
+Jika Anda ingin kreativitas Anda menjadi liar, inilah saatnya menggunakan kolase gambar. Fungsi ini memungkinkan Anda menggabungkan foto dan gambar meskipun file sumber memiliki format berbeda. Cara terbaik untuk menarik perhatian ke portofolio Anda adalah dengan menggunakan wallpaper foto dengan gambar atau pola yang berulang. Dalam hal ini, gambar dapat digabungkan baik dalam arah horizontal maupun vertikal. Jika Anda ingin mendemonstrasikan hasil pemrosesan file, Anda dapat dengan mudah menggabungkan dua gambar: sebelum dan sesudah menerapkan efek foto. Untuk menggabungkan file SVG, kami akan menggunakan [Aspose.Imaging for Python via .NET](/imaging/id/python-net) API yang merupakan API konversi dan manipulasi gambar yang kaya fitur, kuat, dan mudah digunakan untuk platform Python. Anda dapat menginstalnya menggunakan perintah berikut dari perintah sistem Anda.
 
 {{% blocks/products/pf/agp/code-block title="Baris perintah sistem" offSpacer="benar" %}}
 

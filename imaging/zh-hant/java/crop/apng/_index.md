@@ -16,7 +16,7 @@ description: 試試我們的 On-Premise 文檔 API 來裁剪 Java 應用程序�
 
 {{% blocks/products/pf/agp/content h2="如何使用 Java 裁剪 APNG 文件" %}}
 
-為了裁剪 APNG 文件，我們將使用 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一個功能豐富、功能強大 易於使用的 Java 平台圖像處理和轉換 API。您可以直接從 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 並通過將以下配置添加到 pom.xml 將其安裝在基於 Maven 的項目中。
+要立即吸引訪問您網頁的用戶，請將引人注目的元素放置在圖像的中心。有時，完全消除任何分散照片主要主題的不必要元素會更有效。為此，請利用 Java 庫提供的圖像裁剪功能。您可以通過指定包含焦點的矩形區域的坐標或通過指示從照片邊緣的偏移來選擇圖像的基本部分來實現此目的。這樣，通過裁剪圖像，我們消除了不相關的元素，突出了主要主題。為了裁剪 APNG 文件，我們將使用 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一個功能豐富、功能強大 易於使用的 Java 平台圖像處理和轉換 API。您可以直接從 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 並通過將以下配置添加到 pom.xml 將其安裝在基於 Maven 的項目中。
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 

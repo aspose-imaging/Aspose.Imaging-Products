@@ -16,7 +16,7 @@ description: Java 애플리케이션의 JPG 파일에서 배경을 변경하려�
 
 {{% blocks/products/pf/agp/content h2="Java을 사용하여 JPG 파일에서 배경을 제거하는 방법" %}}
 
-JPG 파일에서 배경을 제거하기 위해 다음을 사용합니다. [자바용 Aspose.Imaging](https://products.aspose.com/imaging/java) 기능이 풍부하고 강력하며 사용하기쉬운 Java 플랫폼용 이미지 조작 및 변환 API인 API입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.[메이븐(https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 다음 구성을 pom.xml에 추가하여 Maven 기반 프로젝트 내에 설치합니다.
+이미지에서 배경을 제거하려면 전경 개체를 분리해야 하며, 이 작업에는 개체 인식이 필요합니다. JPG 형식의 사진 내 개체를 식별하기 위한 여러 가지 접근 방식이 있습니다. 균일한 색상 배경을 갖춘 단순한 이미지의 경우 자동 방법으로 충분합니다. 그러나 여러 개의 그림 또는 부분적으로 병합된 그림이 있는 사진의 경우 사전 마킹 개체가 필요합니다. 여기에는 제거할 직사각형 영역 및 객체 유형을 지정하는 작업이 포함됩니다. 복잡한 경우 Cloud API를 사용하면 자동 객체 감지가 가능합니다. Cloud API는 배경 제거를 위해 결과 윤곽을 활용하여 사진 내의 개체를 인식할 수 있는 클라우드 애플리케이션을 제공합니다. 제거 후 그림 뒤에 남겨진 가장자리를 부드럽게 처리하여 이미지 품질을 향상할 수 있습니다. JPG 파일에서 배경을 제거하기 위해 다음을 사용합니다. [자바용 Aspose.Imaging](https://products.aspose.com/imaging/java) 기능이 풍부하고 강력하며 사용하기쉬운 Java 플랫폼용 이미지 조작 및 변환 API인 API입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.[메이븐(https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 다음 구성을 pom.xml에 추가하여 Maven 기반 프로젝트 내에 설치합니다.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 

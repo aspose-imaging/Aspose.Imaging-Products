@@ -16,7 +16,7 @@ description: オンプレミスドキュメントAPIを試して、.NET Framewor
 
 {{% blocks/products/pf/agp/content h2="Javaを使用してDICOMファイルをフィルタリングする方法" %}}
 
-DICOMファイルをフィルタリングするために、 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) 機能豊富で強力で使いやすいJava ラットフォーム用の画像操作および変換APIであるAPI。最新バージョンはから直接ダウンロードできます[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 次の構成をpom.xmlに追加して、Mavenベースのプロジェクトにインストールします。
+最も完璧な画像であっても、さらに強化したり、まったく異なるユニークな芸術作品に変換したりすることができます。フィルターを適用して、さまざまな画像効果を実現します。たとえば、画像を鮮明にしたり、逆に、ぼかしを追加したり、滑らかにしたり、色のノイズを除去したりできます。フィルターは、画像に独自性を与えたい場合にも非常に役立ちます。これを実現するには、目的のエフェクトを適用するか、さまざまなエフェクトを組み合わせます。このアプローチにより、色のグラデーションを調整し、ノイズを除去し、同時に写真内のオブジェクトのエッジの鮮明さを高めることができます。 DICOM ファイルをフィルタリングするには、次を使用します。 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) 機能豊富で強力で使いやすいJava ラットフォーム用の画像操作および変換APIであるAPI。最新バージョンはから直接ダウンロードできます[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 次の構成をpom.xmlに追加して、Mavenベースのプロジェクトにインストールします。
 
 {{% blocks/products/pf/agp/code-block title = "Repository" offSpacer = "true"%}}
 

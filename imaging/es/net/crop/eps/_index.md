@@ -16,7 +16,7 @@ description: Pruebe nuestras API de documentos locales para recortar archivos EP
 
 {{% blocks/products/pf/agp/content h2="Cómo recortar archivos EPS usando C#" %}}
 
-Para recortar archivos EPS, usaremos [Aspose.Imaging para .NET](https://products.aspose.com/imaging/net) API, que es una API de conversión y manipulación de imágenes rica en funciones, potente y fácil de usar para la plataforma C#. Abierto[NuGet](https://www.nuget.org/packages/aspose.imaging) administrador de paquetes, busque
+Para cautivar instantáneamente a un usuario que visita su página web, coloque elementos que llamen la atención en el centro de las imágenes. A veces, es más eficaz eliminar por completo cualquier elemento innecesario que distraiga del tema principal de la foto. Para lograr esto, utilice la función de recorte de imágenes proporcionada por la biblioteca C#. Puede lograr esto especificando las coordenadas de un área rectangular que rodea el punto focal o indicando cambios desde los bordes de la foto para seleccionar la parte esencial de la imagen. De esta forma, al recortar la imagen, eliminamos elementos irrelevantes y enfatizamos el tema principal. Para recortar archivos EPS, usaremos [Aspose.Imaging para .NET](https://products.aspose.com/imaging/net) API, que es una API de conversión y manipulación de imágenes rica en funciones, potente y fácil de usar para la plataforma C#. Abierto[NuGet](https://www.nuget.org/packages/aspose.imaging) administrador de paquetes, busque
  **Aspose.Imágenes** e instalar También puede usar el siguiente comando desde la Consola del administrador de paquetes.
 
 {{% blocks/products/pf/agp/code-block title="Comando de consola del administrador de paquetes" offSpacer="true" %}}

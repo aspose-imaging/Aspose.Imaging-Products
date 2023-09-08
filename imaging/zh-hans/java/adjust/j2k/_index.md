@@ -16,7 +16,7 @@ description: 尝试使用我们的本地文档 API 来调整 .NET Framework、.N
 
 {{% blocks/products/pf/agp/content h2="如何使用 Java 调整 J2K 文件" %}}
 
-为了调整 J2K 文件，我们将使用 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一个功能丰富、功能强大 易于使用的 Java 平台图像处理和转换 API。您可以直接从 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
+即使是最有经验的摄影师也可能在拍摄过程中犯错误或遇到不利的照明条件。这种情况可能会导致图像缺陷，但即使是糟糕的照片也有可能出现。借助 Java 库，您可以通过调整亮度、对比度和颜色伽玛以编程方式纠正这些问题。如果照片太暗，增加亮度会照亮黑暗区域，使之前隐藏的细节变得可见。调整对比度会增加明暗区域之间的差异，扩大亮度范围以改善图像。如果您在人造照明下拍摄的照片导致出现不需要的色调，请利用颜色伽玛调整来校正白平衡。为了调整 J2K 文件，我们将使用 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一个功能丰富、功能强大 易于使用的 Java 平台图像处理和转换 API。您可以直接从 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
 并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}

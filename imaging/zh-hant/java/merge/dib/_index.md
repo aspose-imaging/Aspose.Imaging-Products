@@ -16,7 +16,7 @@ description: 試試我們的 On-Premise 文檔 API 來合併 Java 應用程序�
 
 {{% blocks/products/pf/agp/content h2="如何使用 Java 合併 DIB 文件" %}}
 
-為了合併 DIB 文件，我們將使用 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一個功能豐富、功能強大 易於使用的 Java 平台圖像處理和轉換 API。您可以直接從 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 並通過將以下配置添加到 pom.xml 將其安裝在基於 Maven 的項目中。
+如果您想讓您的創造力盡情發揮，那麼現在就是使用圖像拼貼的時候了。即使源文件格式不同，此功能也允許您合併照片和圖像。吸引人們注意您的作品集的一個好方法是使用帶有重複圖像或圖案的照片壁紙。在這種情況下，可以在水平和垂直方向上組合圖像。如果您需要演示處理文件的結果，您可以輕鬆合併兩個圖像：應用照片效果之前和之後。為了合併 DIB 文件，我們將使用 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一個功能豐富、功能強大 易於使用的 Java 平台圖像處理和轉換 API。您可以直接從 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 並通過將以下配置添加到 pom.xml 將其安裝在基於 Maven 的項目中。
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 

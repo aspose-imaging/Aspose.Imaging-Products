@@ -16,7 +16,7 @@ description: Išbandykite „On-Premise“ dokumentų API, kad apkarpytumėte AP
 
 {{% blocks/products/pf/agp/content h2="Kaip apkarpyti APNG failus naudojant C#" %}}
 
-Norėdami apkarpyti APNG failus, naudosime [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta C# platformai. Atviras [NuGet](https://www.nuget.org/packages/aspose.imaging) paketų tvarkyklė, ieškokite **Aspose.Imaging** ir įdiegti. Taip pat galite naudoti šią komandą iš paketų tvarkyklės konsolės.
+Norėdami akimirksniu sužavėti jūsų tinklalapyje apsilankiusį vartotoją, vaizdų centre pastatykite dėmesį patraukiančius elementus. Kartais efektyviau visiškai pašalinti visus nereikalingus elementus, kurie atitraukia dėmesį nuo pagrindinės nuotraukos temos. Norėdami tai padaryti, naudokite vaizdo apkarpymo funkciją, kurią teikia C# biblioteka. Tai galite pasiekti nurodydami stačiakampio ploto, apimančio židinio tašką, koordinates arba nurodydami poslinkius nuo nuotraukos kraštų, kad pasirinktumėte esminę vaizdo dalį. Tokiu būdu apkarpydami vaizdą pašaliname nereikšmingus elementus ir pabrėžiame pagrindinį objektą. Norėdami apkarpyti APNG failus, naudosime [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta C# platformai. Atviras [NuGet](https://www.nuget.org/packages/aspose.imaging) paketų tvarkyklė, ieškokite **Aspose.Imaging** ir įdiegti. Taip pat galite naudoti šią komandą iš paketų tvarkyklės konsolės.
 
 {{% blocks/products/pf/agp/code-block title="Paketų tvarkytuvės konsolės komanda" offSpacer="true" %}}
 

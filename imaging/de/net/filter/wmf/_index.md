@@ -16,7 +16,7 @@ description: Testen Sie unsere On-Premise-Dokument-APIs zum Filtern von WMF-Date
 
 {{% blocks/products/pf/agp/content h2="So filtern Sie WMF-Dateien mit C#" %}}
 
-Um WMF-Dateien zu filtern, verwenden wir [Aspose.Imaging für .NET](https://products.aspose.com/imaging/net) API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Bildbearbeitungs- und Konvertierungs-API für die C#-Plattform ist. Offen [NuGet](https://www.nuget.org/packages/aspose.imaging) Paketmanager, suche nach
+Selbst das perfekteste Bild kann weiter verbessert oder in ein völlig anderes und einzigartiges Kunstwerk verwandelt werden. Wenden Sie Filter an, um vielfältige Bildeffekte zu erzielen. Sie können beispielsweise ein Bild schärfer machen oder umgekehrt eine Unschärfe hinzufügen, es glätten oder Farbrauschen beseitigen. Filter sind auch dann von unschätzbarem Wert, wenn Sie Ihrem Bild Einzigartigkeit verleihen möchten. Um dies zu erreichen, wenden Sie den gewünschten Effekt an oder kombinieren Sie verschiedene Effekte. Mit diesem Ansatz können Sie Farbverläufe verfeinern, Rauschen eliminieren und gleichzeitig die Schärfe der Kanten von Objekten im Foto verbessern. Um WMF-Dateien zu filtern, verwenden wir [Aspose.Imaging für .NET](https://products.aspose.com/imaging/net) API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Bildbearbeitungs- und Konvertierungs-API für die C#-Plattform ist. Offen [NuGet](https://www.nuget.org/packages/aspose.imaging) Paketmanager, suche nach
  **Aspose.Imaging** und installieren. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}

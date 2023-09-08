@@ -16,7 +16,7 @@ description: オンプレミスドキュメントAPIを試して、Javaアプリ
 
 {{% blocks/products/pf/agp/content h2="Javaを使用してAPNGファイルの背景を削除する方法" %}}
 
-APNGファイルの背景を削除するために、 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) 機能豊富で強力で使いやすいJava ラットフォーム用の画像操作および変換APIであるAPI。最新バージョンはから直接ダウンロードできます[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 次の構成をpom.xmlに追加して、Mavenベースのプロジェクトにインストールします。
+画像から背景を除去するには、前景のオブジェクトを分離する必要があり、これにはオブジェクトの認識が必要です。 APNG 形式の写真内のオブジェクトを識別するには、複数のアプローチが存在します。均一な色の背景を特徴とする単純な画像の場合は、自動方法で十分です。ただし、複数の図形または部分的に結合された図形を含む写真の場合は、オブジェクトを事前にマーキングする必要があります。これには、削除する長方形の領域とオブジェクト タイプを指定することが含まれます。複雑なケースでは、クラウド API を使用して自動オブジェクト検出が可能になります。 Cloud API は、写真内のオブジェクトを認識し、結果として得られる輪郭を背景の除去に利用できるクラウド アプリケーションを提供します。削除後、フィギュアによって残されたエッジを滑らかにして画質を向上させることができます。 APNG ファイルの背景を削除するには、次を使用します。 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) 機能豊富で強力で使いやすいJava ラットフォーム用の画像操作および変換APIであるAPI。最新バージョンはから直接ダウンロードできます[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 次の構成をpom.xmlに追加して、Mavenベースのプロジェクトにインストールします。
 
 {{% blocks/products/pf/agp/code-block title = "Repository" offSpacer = "true"%}}
 

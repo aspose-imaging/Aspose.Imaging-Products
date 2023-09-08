@@ -16,7 +16,7 @@ description: Experimente nossas APIs de documentos no local para filtrar arquivo
 
 {{% blocks/products/pf/agp/content h2="Como filtrar arquivos BMP usando C#" %}}
 
-Para filtrar arquivos BMP, usaremos [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir [NuGet](https://www.nuget.org/packages/aspose.imaging) gerenciador de pacotes, procure por **Aspose.Imagem** e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
+Mesmo a imagem mais perfeita pode ser melhorada ou transformada numa obra de arte completamente diferente e única. Aplique filtros para obter uma ampla gama de efeitos de imagem. Por exemplo, você pode aumentar a nitidez de uma imagem ou, inversamente, adicionar um desfoque, suavizá-la ou eliminar o ruído de cor. Os filtros também são inestimáveis ​​quando você deseja conferir exclusividade à sua imagem. Para conseguir isso, aplique o efeito desejado ou combine diferentes efeitos. Essa abordagem permite refinar gradientes de cores, eliminar ruídos e, ao mesmo tempo, aprimorar a nitidez das bordas dos objetos na foto. Para filtrar arquivos BMP, usaremos [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir [NuGet](https://www.nuget.org/packages/aspose.imaging) gerenciador de pacotes, procure por **Aspose.Imagem** e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
 
 {{% blocks/products/pf/agp/code-block title="Comando do Console do Gerenciador de Pacotes" offSpacer="true" %}}
 

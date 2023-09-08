@@ -16,7 +16,7 @@ description: Hãy thử các API tài liệu On-Premise của chúng tôi để 
 
 {{% blocks/products/pf/agp/content h2="Cách hợp nhất các tệp CMX bằng C#" %}}
 
-Để hợp nhất các tệp CMX, chúng tôi sẽ sử dụng [Aspose.Imaging cho .NET] (https://products.aspose.com/imaging/net) API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C #. Mở [NuGet] (https://www.nuget.org/packages/aspose.imaging) quản lý gói, tìm kiếm ** Aspose.Imaging ** và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển Trình quản lý Gói.
+Nếu bạn muốn thỏa sức sáng tạo thì đây là lúc sử dụng tính năng ghép ảnh. Chức năng này sẽ cho phép bạn hợp nhất ảnh và hình ảnh ngay cả khi các tệp nguồn có định dạng khác nhau. Một cách tuyệt vời để thu hút sự chú ý vào danh mục đầu tư của bạn là sử dụng hình nền ảnh có hình ảnh hoặc hoa văn lặp lại. Trong trường hợp này, hình ảnh có thể được kết hợp theo cả hướng ngang và dọc. Trong trường hợp bạn cần chứng minh kết quả xử lý tệp, bạn có thể dễ dàng hợp nhất hai hình ảnh: trước và sau khi áp dụng hiệu ứng ảnh. Để hợp nhất các tệp CMX, chúng tôi sẽ sử dụng [Aspose.Imaging cho .NET] (https://products.aspose.com/imaging/net) API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C #. Mở [NuGet] (https://www.nuget.org/packages/aspose.imaging) quản lý gói, tìm kiếm ** Aspose.Imaging ** và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển Trình quản lý Gói.
 
 {{% blocks/products/pf/agp/code-block title = "Lệnh Bảng điều khiển Trình quản lý Gói" offSpacer = "true"%}}
 

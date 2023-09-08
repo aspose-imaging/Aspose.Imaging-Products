@@ -16,7 +16,7 @@ description: Wypróbuj nasze lokalne interfejsy API dokumentów, aby wyświetla�
 
 {{% blocks/products/pf/agp/content h2="Jak przeglądać obrazy ODG za pomocą C#" %}}
 
-Aby wyświetlić pliki ODG, użyjemy [Aspose.Imaging dla .NET](https://products.aspose.com/imaging/net) API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do obróbki i konwersji obrazów dla platformy C#. Otwarty [NuGet](https://www.nuget.org/packages/aspose.imaging) menedżer pakietów, szukaj **Aspose.Obrazowanie** i zainstaluj. Możesz również użyć następującego polecenia z konsoli Menedżera pakietów.
+Jako materiały źródłowe często otrzymujemy obrazy w mniej popularnych formatach. Do późniejszego oglądania takich obrazów wymagane są specjalne programy. Aby nie myśleć o tym problemie i wykorzystać czas na jego rozwiązanie na bardziej kreatywne zadania, skorzystaj z funkcji biblioteki graficznej C#. Konwertując takie obrazy do plików w bardziej popularnych formatach, możesz je otworzyć w standardowym programie do przeglądania obrazów dla Twojej platformy. Aby wyświetlić pliki w formacie ODG, użyjemy [Aspose.Imaging dla .NET](https://products.aspose.com/imaging/net) API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do obróbki i konwersji obrazów dla platformy C#. Otwarty [NuGet](https://www.nuget.org/packages/aspose.imaging) menedżer pakietów, szukaj **Aspose.Obrazowanie** i zainstaluj. Możesz również użyć następującego polecenia z konsoli Menedżera pakietów.
 
 {{% blocks/products/pf/agp/code-block title="Polecenie konsoli menedżera pakietów" offSpacer="true" %}}
 

@@ -16,7 +16,7 @@ description: Vyzkoušejte naše On-Premise API pro dokumenty ke změně pozadí 
 
 {{% blocks/products/pf/agp/content h2="Jak změnit pozadí v souborech DJVU pomocí C#" %}}
 
-Ke změně pozadí v souborech DJVU použijeme [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API, které je funkčně bohaté, výkonné a snadno použitelné rozhraní API pro manipulaci a konverzi obrázků pro platformu C#. Otevřete správce balíčků [NuGet](https://www.nuget.org/packages/aspose.imaging), vyhledejte
+Dosažení ideálního obrazu často vyžaduje změnu pozadí. Chcete-li dosáhnout požadovaného efektu obrázku ve formátu DJVU, musí být objekty v popředí izolovány od zbytku obrázku. Automatická detekce objektu je možná, pokud je pozadí jednotné. Pokud je pozadí fotografie nerovnoměrné nebo je oddělení objektů náročné, doporučuje se obrázek předem označit. To zahrnuje identifikaci obdélníkových oblastí na fotografii, kde se nacházejí zamýšlené objekty, a určení jejich typů. To lze provést ručně nebo automaticky prostřednictvím funkce rozpoznávání objektů Cloud API. Po výběru objektu a odstranění původního pozadí lze použít nové pozadí nebo implementovat průhlednost. Ke změně pozadí v souborech DJVU použijeme [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API, které je funkčně bohaté, výkonné a snadno použitelné rozhraní API pro manipulaci a konverzi obrázků pro platformu C#. Otevřete správce balíčků [NuGet](https://www.nuget.org/packages/aspose.imaging), vyhledejte
  **Aspose.Imaging** a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz konzole Správce balíčků" offSpacer="true" %}}

@@ -16,7 +16,7 @@ description: 온프레미스 문서 API를 사용해 .NET Framework, .NET Core, 
 
 {{% blocks/products/pf/agp/content h2="C#을 사용하여 BMP 파일을 압축하는 방법" %}}
 
-BMP 파일을 압축하기 위해 다음을 사용합니다. [.NET용 Aspose.Imaging](https://products.aspose.com/imaging/net) 기능이 풍부하고 강력하며 사용하기 쉬운 C# 플랫폼용 이미지 조작 및 변환 API인 API입니다. 열려있는 [누겟](https://www.nuget.org/packages/aspose.imaging) 패키지 관리자, 검색 **아포즈.이미징** 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
+게시할 이미지를 준비하는 데에는 파일 압축을 비롯한 창의적 측면과 기술적 측면이 모두 포함됩니다. 고해상도 이미지는 인쇄 또는 옥외 광고에 매우 중요하지만 파일 크기가 크기 때문에 웹 성능이 저하될 수 있습니다. 적절한 이미지 압축 기술은 목적과 출판 플랫폼에 따라 다릅니다. 대용량 파일은 특히 모바일 연결에서 로딩 시간을 지연시켜 사용자 경험을 저하시킬 수 있습니다. 사용자는 로드하는 데 시간이 너무 오래 걸리는 사이트를 포기하고 더 빠른 대안을 찾을 수도 있습니다. 반대로, 과도한 이미지 압축은 흐릿함과 픽셀화를 초래하여 시청 환경을 저하시킬 수 있습니다. 파일 크기와 이미지 품질 사이의 균형을 맞추려면 압축 알고리즘과 비율을 올바르게 선택하는 것이 중요합니다. BMP 파일을 압축하기 위해 다음을 사용합니다. [.NET용 Aspose.Imaging](https://products.aspose.com/imaging/net) 기능이 풍부하고 강력하며 사용하기 쉬운 C# 플랫폼용 이미지 조작 및 변환 API인 API입니다. 열려있는 [누겟](https://www.nuget.org/packages/aspose.imaging) 패키지 관리자, 검색 **아포즈.이미징** 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
 
 {{% blocks/products/pf/agp/code-block title="패키지 관리자 콘솔 명령" offSpacer="true" %}}
 

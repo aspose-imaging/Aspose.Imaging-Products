@@ -16,7 +16,7 @@ description: Hãy thử các API tài liệu On-Premise của chúng tôi để 
 
 {{% blocks/products/pf/agp/content h2="Cách lọc tệp J2K bằng C#" %}}
 
-Để lọc các tệp J2K, chúng tôi sẽ sử dụng [Aspose.Imaging cho .NET] (https://products.aspose.com/imaging/net) API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C #. Mở [NuGet] (https://www.nuget.org/packages/aspose.imaging) quản lý gói, tìm kiếm ** Aspose.Imaging ** và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển Trình quản lý Gói.
+Ngay cả hình ảnh hoàn hảo nhất cũng có thể được nâng cao hơn nữa hoặc biến thành một tác phẩm nghệ thuật hoàn toàn khác biệt và độc đáo. Áp dụng các bộ lọc để đạt được nhiều hiệu ứng hình ảnh. Ví dụ: bạn có thể làm sắc nét hình ảnh hoặc ngược lại, thêm độ mờ, làm mịn hoặc loại bỏ nhiễu màu. Bộ lọc cũng vô giá khi bạn muốn mang lại sự độc đáo cho hình ảnh của mình. Để đạt được điều này, hãy áp dụng hiệu ứng mong muốn hoặc kết hợp các hiệu ứng khác nhau. Cách tiếp cận này cho phép bạn tinh chỉnh độ chuyển màu, loại bỏ nhiễu và đồng thời nâng cao độ sắc nét của các cạnh của vật thể trong ảnh. Để lọc các tệp J2K, chúng tôi sẽ sử dụng [Aspose.Imaging cho .NET] (https://products.aspose.com/imaging/net) API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C #. Mở [NuGet] (https://www.nuget.org/packages/aspose.imaging) quản lý gói, tìm kiếm ** Aspose.Imaging ** và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển Trình quản lý Gói.
 
 {{% blocks/products/pf/agp/code-block title = "Lệnh Bảng điều khiển Trình quản lý Gói" offSpacer = "true"%}}
 

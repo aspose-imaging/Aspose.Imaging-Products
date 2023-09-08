@@ -16,7 +16,7 @@ description: 尝试使用我们的本地文档 API 对 .NET Framework、.NET Cor
 
 {{% blocks/products/pf/agp/content h2="如何使用 C# 二进制化 APNG 文件" %}}
 
-为了二进制化 APNG 文件，我们将使用 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一个功能丰富、功能强大 易于使用的 C# 平台图像处理和转换 API。打开 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 并安装。您还可以从包管理器控制台使用以下命令。
+彩色胶片的发明标志着摄影领域的一个重要里程碑。然而，古典摄影本质上与黑白图像有关。尽管相机具有广泛的技术能力来捕捉全光谱的颜色，但许多人选择单色，将他们的照片变成黑白。在这种情况下，二值化函数发挥作用，将所有像素转换为二进制值：“0”表示白色，“1”表示黑色。在其他情况下，这种转换不是由艺术选择驱动的，而是由实际选择驱动的，例如准备用于在书籍或报纸上印刷的黑白插图。使用 C# 图形库，您可以指定像素亮度阈值。亮度值低于该阈值的像素将变为黑色，而高于该阈值的像素将变为白色。或者，您可以采用自适应二值化方法来考虑周围区域的像素值。这种方法可以使生成的黑白图像中颜色边界之间的过渡更加平滑。为了二值化 APNG 文件，我们将使用 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一个功能丰富、功能强大 易于使用的 C# 平台图像处理和转换 API。打开 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 并安装。您还可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 

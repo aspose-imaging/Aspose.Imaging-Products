@@ -16,7 +16,7 @@ description: Prova le nostre API di documenti locali per visualizzare i file EMZ
 
 {{% blocks/products/pf/agp/content h2="Come visualizzare le immagini in EMZ utilizzando Java" %}}
 
-Per visualizzare i file EMZ, utilizzeremo [Aspose.Imaging per Java](https://products.aspose.com/imaging/java) API che è un'API di conversione e manipolazione delle immagini ricca di funzionalità, potente e facile da usare per la piattaforma Java. Puoi scaricare la sua ultima versione direttamente da [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
+Spesso riceviamo immagini in formati meno comuni come materiale originale. Per la successiva visualizzazione di tali immagini sono necessari programmi speciali. Per non pensare a questo problema e sfruttare il tempo per risolverlo per attività più creative, utilizza le funzioni della libreria grafica Java. Convertendo tali immagini in file dei formati più diffusi, puoi aprirle nel programma di visualizzazione immagini standard per la tua piattaforma. Per visualizzare i file EMZ, utilizzeremo [Aspose.Imaging per Java](https://products.aspose.com/imaging/java) API che è un'API di conversione e manipolazione delle immagini ricca di funzionalità, potente e facile da usare per la piattaforma Java. Puoi scaricare la sua ultima versione direttamente da [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguenti configurazioni a pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 

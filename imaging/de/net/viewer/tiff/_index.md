@@ -16,7 +16,7 @@ description: Testen Sie unsere On-Premise-Dokument-APIs zum Anzeigen von TIFF-Da
 
 {{% blocks/products/pf/agp/content h2="Anzeigen von TIFF-Bildern mit C#" %}}
 
-Um TIFF-Dateien anzuzeigen, verwenden wir [Aspose.Imaging für .NET](https://products.aspose.com/imaging/net) API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Bildbearbeitungs- und Konvertierungs-API für die C#-Plattform ist. Offen [NuGet](https://www.nuget.org/packages/aspose.imaging) Paketmanager, suche nach
+Als Ausgangsmaterialien erhalten wir oft Bilder in weniger gängigen Formaten. Für die spätere Betrachtung solcher Bilder sind spezielle Programme erforderlich. Um nicht über dieses Problem nachzudenken und die Zeit zur Lösung des Problems für kreativere Aufgaben zu nutzen, nutzen Sie die Funktionen der Grafikbibliothek C#. Durch die Konvertierung solcher Bilder in Dateien gängigerer Formate können Sie sie im Standard-Bildbetrachtungsprogramm für Ihre Plattform öffnen. Um TIFF-Dateien anzuzeigen, verwenden wir [Aspose.Imaging für .NET](https://products.aspose.com/imaging/net) API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Bildbearbeitungs- und Konvertierungs-API für die C#-Plattform ist. Offen [NuGet](https://www.nuget.org/packages/aspose.imaging) Paketmanager, suche nach
  **Aspose.Imaging** und installieren. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}

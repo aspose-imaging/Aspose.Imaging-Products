@@ -16,7 +16,7 @@ description: Java 애플리케이션에서 WMF 파일을 병합하려면 온프�
 
 {{% blocks/products/pf/agp/content h2="Java을 사용하여 WMF 파일의 크기를 조정하는 방법" %}}
 
-WMF 파일의 크기를 조정하기 위해 [자바용 Aspose.Imaging](https://products.aspose.com/imaging/java) 기능이 풍부하고 강력하며 사용하기쉬운 Java 플랫폼용 이미지 조작 및 변환 API인 API입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.[메이븐(https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 다음 구성을 pom.xml에 추가하여 Maven 기반 프로젝트 내에 설치합니다.
+웹 사이트를 구축하는 것은 각 요소가 의미를 갖는 복잡한 노력입니다. 웹 페이지를 채우는 과정에서 중요한 측면은 이미지 크기 조정과 관련됩니다. 치수 크기를 조정하고 다양한 해상도로 이미지나 사진을 준비해야 하는 경우가 종종 있습니다. 예를 들어, 미리보기가 포함된 이미지 갤러리가 포함된 페이지에는 작은 축소판 파일이 필요한 반면, 기본 이미지를 표시하는 페이지에는 고해상도 버전이 필요합니다. 큰 파일의 경우 크기 조정은 총 픽셀 수를 줄이는 데 필수적이므로 이미지 품질을 크게 저하시키지 않으면서 파일 크기를 줄일 수 있습니다. 이미지 크기를 조정하는 동안 데이터 압축 정도를 선택하여 이미지 크기와 품질 간의 균형을 유지할 수도 있습니다. 이미지 크기가 줄어들면 인터넷에서 로딩 시간이 더 빨라지고 웹사이트에서의 사용자 탐색 경험이 향상됩니다. [자바용 Aspose.Imaging](https://products.aspose.com/imaging/java) 기능이 풍부하고 강력하며 사용하기쉬운 Java 플랫폼용 이미지 조작 및 변환 API인 API입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.[메이븐(https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 다음 구성을 pom.xml에 추가하여 Maven 기반 프로젝트 내에 설치합니다.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 

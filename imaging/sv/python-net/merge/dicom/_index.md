@@ -16,7 +16,7 @@ description: Prova våra lokala dokument-API:er för att slå samman DICOM-filer
 
 {{% blocks/products/pf/agp/content h2="Hur man slår ihop DICOM-filer med Python" %}}
 
-För att slå samman DICOM-filer kommer vi att använda [Aspose.Imaging for Python via .NET](/imaging/sv/python-net) API som är ett funktionsrikt, kraftfullt och lättanvänt API för bildmanipulation och konvertering för Python-plattformen. Du kan installera det med följande kommando från ditt systemkommando.
+Om du vill låta din kreativitet flöda är det här dags att använda ett bildcollage. Denna funktion låter dig slå samman foton och bilder även om källfilerna har olika format. Ett bra sätt att uppmärksamma din portfölj är att använda fototapeter med återkommande bilder eller mönster. I det här fallet kan bilder kombineras både i horisontella och vertikala riktningar. I händelse av att du behöver demonstrera resultatet av att bearbeta en fil kan du enkelt slå samman två bilder: före och efter applicering av fotoeffekten. För att slå samman DICOM-filer kommer vi att använda [Aspose.Imaging for Python via .NET](/imaging/sv/python-net) API som är ett funktionsrikt, kraftfullt och lättanvänt API för bildmanipulation och konvertering för Python-plattformen. Du kan installera det med följande kommando från ditt systemkommando.
 
 {{% blocks/products/pf/agp/code-block title="Systemets kommandorad" offSpacer="true" %}}
 

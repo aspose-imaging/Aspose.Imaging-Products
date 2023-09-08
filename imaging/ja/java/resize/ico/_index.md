@@ -16,7 +16,7 @@ description: オンプレミスドキュメントAPIを試して、Javaアプリ
 
 {{% blocks/products/pf/agp/content h2="Javaを使用してICOファイルのサイズを変更する方法" %}}
 
-ICOファイルのサイズを変更するには、 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) 機能豊富で強力で使いやすいJava ラットフォーム用の画像操作および変換APIであるAPI。最新バージョンはから直接ダウンロードできます[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 次の構成をpom.xmlに追加して、Mavenベースのプロジェクトにインストールします。
+ウェブサイトの構築は、それぞれの要素が重要な意味を持つ複雑な作業です。 Web ページを作成するプロセスにおける重要な側面は、画像のサイズ変更を中心に展開します。多くの場合、サイズを変更し、さまざまな解像度で画像や写真を準備する必要が生じます。たとえば、プレビュー付きの画像ギャラリーを掲載するページには小さなサムネイル ファイルが必要ですが、メイン画像を紹介するページには高解像度バージョンが必要です。大きなファイルの場合は、総ピクセル数を減らすためにサイズ変更が不可欠であり、これにより画質を大幅に損なうことなくファイル サイズを縮小できます。画像のサイズ変更中に、画像サイズと品質のバランスをとるためにデータ圧縮の程度を選択することもできます。画像サイズを小さくすると、インターネットからの読み込み時間が短縮され、Web サイトでのユーザーの閲覧エクスペリエンスが向上します。 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) 機能豊富で強力で使いやすいJava ラットフォーム用の画像操作および変換APIであるAPI。最新バージョンはから直接ダウンロードできます[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 次の構成をpom.xmlに追加して、Mavenベースのプロジェクトにインストールします。
 
 {{% blocks/products/pf/agp/code-block title = "Repository" offSpacer = "true"%}}
 

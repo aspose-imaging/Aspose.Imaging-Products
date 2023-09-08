@@ -16,7 +16,7 @@ description: Prova våra lokala dokument-API:er för att Cartoonify DICOM-filer 
 
 {{% blocks/products/pf/agp/content h2="Hur man tecknar DICOM-filer med C#" %}}
 
-För att Cartoonify DICOM-filer kommer vi att använda [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API som är ett funktionsrikt, kraftfullt och lättanvänt API för bildmanipulation och konvertering för C#-plattformen. Öppna [NuGet](https://www.nuget.org/packages/aspose.imaging) pakethanteraren, sök efter
+Tecknade effekter har en inneboende dragningskraft och väcker ofta nostalgiska barndomsminnen. Nästan varje grafisk designartikel integrerar tecknade bilder som ett viktigt element. Att teckna porträtt, finjustera belysning, konvertera till svart och vitt, experimentera med färger, blanda olika redigeringstekniker och skapa sofistikerade bildeffekter är alla möjliga att uppnå med bildfilter som AdjustBrightness, BinarizeFixed, Filter, ReplaceColor och ApplyMask. Dessa filter kan tillämpas på de originalladdade fotona. Oavsett ämnet för din webbsida visar sig bilder i tecknad stil vara lämpliga för illustrationsändamål. En vetenskaplig artikel får liv, medan mångsidigt innehåll blir mer lockande för användarna, vilket ökar webbplatstrafiken. För att Cartoonify DICOM-filer kommer vi att använda [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API som är ett funktionsrikt, kraftfullt och lättanvänt API för bildmanipulation och konvertering för C#-plattformen. Öppna [NuGet](https://www.nuget.org/packages/aspose.imaging) pakethanteraren, sök efter
  **Aspose.Imaging** och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Pakethanterarens konsolkommando" offSpacer="true" %}}

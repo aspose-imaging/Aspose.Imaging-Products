@@ -16,7 +16,7 @@ description: Prova våra lokala dokument-API:er för att visa APNG-filer på .NE
 
 {{% blocks/products/pf/agp/content h2="Så här visar du APNG-bilder med Java" %}}
 
-För att visa APNG-filer använder vi [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API som är ett funktionsrikt, kraftfullt och lättanvänt API för bildmanipulation och konvertering för Java-plattformen. Du kan ladda ner den senaste versionen direkt från [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) och installera den i din Maven -baserat projekt genom att lägga till följande konfigurationer till pom.xml.
+Vi får ofta bilder i mindre vanliga format som källmaterial. För efterföljande visning av sådana bilder krävs speciella program. För att inte tänka på det här problemet och använda tiden för att lösa problemet för mer kreativa uppgifter, använd funktionerna i det grafiska biblioteket Java. Genom att konvertera sådana bilder till filer av mer populära format kan du öppna dem i standardbildvisningsprogrammet för din plattform. För att visa APNG-filer kommer vi att använda [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API som är ett funktionsrikt, kraftfullt och lättanvänt API för bildmanipulation och konvertering för Java-plattformen. Du kan ladda ner den senaste versionen direkt från [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) och installera den i din Maven -baserat projekt genom att lägga till följande konfigurationer till pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 

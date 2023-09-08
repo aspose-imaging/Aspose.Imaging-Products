@@ -16,7 +16,7 @@ description: Probeer onze On-Premise document-API's om WMF-bestanden samen te vo
 
 {{% blocks/products/pf/agp/content h2="Hoe WMF-bestanden samen te voegen met Python" %}}
 
-Om WMF-bestanden samen te voegen, gebruiken we [Aspose.Imaging for Python via .NET](/imaging/nl/python-net) API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het Python-platform. U kunt het installeren met behulp van de volgende opdracht van uw systeemopdracht.
+Als u uw creativiteit de vrije loop wilt laten, dan is dit het moment om een ​​beeldcollage te gebruiken. Met deze functie kunt u foto's en afbeeldingen samenvoegen, zelfs als de bronbestanden verschillende formaten hebben. Een geweldige manier om de aandacht op uw portfolio te vestigen, is door fotobehang te gebruiken met herhalende afbeeldingen of patronen. In dit geval kunnen afbeeldingen zowel in horizontale als verticale richting worden gecombineerd. In het geval dat u het resultaat van de verwerking van een bestand moet demonstreren, kunt u eenvoudig twee afbeeldingen samenvoegen: voor en na het toepassen van het foto-effect. Om WMF-bestanden samen te voegen, gebruiken we [Aspose.Imaging for Python via .NET](/imaging/nl/python-net) API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het Python-platform. U kunt het installeren met behulp van de volgende opdracht van uw systeemopdracht.
 
 {{% blocks/products/pf/agp/code-block title="De systeemopdrachtregel" offSpacer="true" %}}
 

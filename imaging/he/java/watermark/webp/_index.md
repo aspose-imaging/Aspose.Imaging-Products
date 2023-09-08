@@ -16,7 +16,7 @@ description: קוד המרת Java לדוגמה עבור פורמט WEBP לקוב
 
 {{% blocks/products/pf/agp/content h2="כיצד לסמן מים בקובץ WEBP באמצעות Java" %}}
 
-כדי לסמן מים בקובץ WEBP, נשתמש [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API שהוא עשיר בתכונות, חזק וקל לשימוש למניפולציה והמרה של תמונות עבור פלטפורמת Java. אתה יכול להוריד את הגרסה האחרונה שלו ישירות מ-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) ולהתקין אותה בתוך ה-Maven שלך פרויקט מבוסס על ידי הוספת התצורות הבאות לקובץ pom.xml.
+סימן מים הוא כלי חיוני לסופרים המחפשים חשיפה מקסימלית לעבודתם באינטרנט. הצבת סימן מים על תמונה משמשת לא רק לזיהוי המקור או בעל זכויות היוצרים שלה אלא גם לקידום היוצר שלה. הסיבה לכך היא שהחתימה המכילה את שם המחבר או את שם המשאב האינטרנטי מופצת לצד עותק דיגיטלי של התמונה. סימני מים יכולים ללבוש צורה של טקסט עם מגוון רחב של גופנים וניתן למקם אותם בקצה התמונה. כאשר סימן המים שקוף, הוא אינו משבש את הצפייה. עם זאת, אם המחבר או בעל זכויות היוצרים מעוניינים להדגיש את שמם, סימן המים עלול לחפוף חלקית לתמונה. כדי לסמן מים בקובץ התמונה WEBP, נשתמש [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API שהוא עשיר בתכונות, חזק וקל לשימוש למניפולציה והמרה של תמונות עבור פלטפורמת Java. אתה יכול להוריד את הגרסה האחרונה שלו ישירות מ-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) ולהתקין אותה בתוך ה-Maven שלך פרויקט מבוסס על ידי הוספת התצורות הבאות לקובץ pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="מאגר" offSpacer="true" %}}
 

@@ -16,7 +16,7 @@ description: Išbandykite mūsų „On-Premise“ dokumentų API, kad skirtumėt
 
 {{% blocks/products/pf/agp/content h2="Kaip suskaidyti BMP failus naudojant C#" %}}
 
-Norėdami pakeisti BMP failus, naudosime [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta C# platformai. Atviras [NuGet](https://www.nuget.org/packages/aspose.imaging) paketų tvarkyklė, ieškokite **Aspose.Imaging** ir įdiegti. Taip pat galite naudoti šią komandą iš paketų tvarkyklės konsolės.
+Norint užtikrinti sklandžią naudotojo patirtį, labai svarbu efektyviai optimizuoti vaizdus, ​​​​kad jie būtų patalpinti žiniatinklyje. Vienas iš tokio optimizavimo būdų apima vaizdo spalvų paletės sumažinimą, taip sumažinant jo failo dydį ir pagerinant puslapio įkėlimo laiką. Tačiau norint išvengti sklandžių spalvų gradientų trikdžių ir ryškių ribų atsiradimo monochromatinėse srityse, būtina naudoti vaizdo išlyginimo funkciją, vadinamą ryškumu. Ši technika leidžia į vaizdą ar nuotrauką įtraukti kontroliuojamą \"triukšmo\" kiekį, o tai, savo ruožtu, turi teigiamą poveikį, nes išlygina perėjimus spalvų lauke ir pagerina bendrą vaizdo patrauklumą. Norėdami pakeisti BMP failus, naudosime [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta C# platformai. Atviras [NuGet](https://www.nuget.org/packages/aspose.imaging) paketų tvarkyklė, ieškokite **Aspose.Imaging** ir įdiegti. Taip pat galite naudoti šią komandą iš paketų tvarkyklės konsolės.
 
 {{% blocks/products/pf/agp/code-block title="Paketų tvarkytuvės konsolės komanda" offSpacer="true" %}}
 

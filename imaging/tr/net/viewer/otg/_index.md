@@ -16,7 +16,7 @@ description: OTG dosyalarını .NET Framework, .NET Core, Windows Uygulaması, A
 
 {{% blocks/products/pf/agp/content h2="C# Kullanarak OTG görüntüleri Nasıl İzlenir" %}}
 
-OTG dosyalarını görüntülemek için kullanacağız [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. Açık [NuGet](https://www.nuget.org/packages/aspose.imaging) paket yöneticisi, ara **Aspose.Görüntüleme** ve yükleyin. Paket Yöneticisi Konsolundan aşağıdaki komutu da kullanabilirsiniz.
+Kaynak materyal olarak sıklıkla daha az yaygın formatlardaki görselleri alıyoruz. Bu tür görüntülerin daha sonra görüntülenmesi için özel programlar gereklidir. Bu sorun hakkında düşünmemek ve sorunu çözmek için gereken zamanı daha yaratıcı görevlerde kullanmak için C# grafik kütüphanesinin işlevlerini kullanın. Bu tür görselleri daha popüler formatlardaki dosyalara dönüştürerek bunları platformunuzun standart görsel görüntüleme programında açabilirsiniz. OTG dosyalarını görüntülemek için şunu kullanacağız: [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. Açık [NuGet](https://www.nuget.org/packages/aspose.imaging) paket yöneticisi, ara **Aspose.Görüntüleme** ve yükleyin. Paket Yöneticisi Konsolundan aşağıdaki komutu da kullanabilirsiniz.
 
 {{%blocks/products/pf/agp/code-block title="Paket Yöneticisi Konsol Komutu" offSpacer="true" %}}
 

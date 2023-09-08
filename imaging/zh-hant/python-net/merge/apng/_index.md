@@ -16,7 +16,7 @@ description: 嘗試使用我們的本地文檔 API 來合併 .NET Framework、.N
 
 {{% blocks/products/pf/agp/content h2="如何使用 Python 合併 APNG 文件" %}}
 
-為了合併 APNG 文件，我們將使用 [Aspose.Imaging for Python via .NET](/imaging/zh-hant/python-net) API 是一個功能豐富、功能強大且易於使用的圖像處理和轉換 API，適用於 Python 平台。您可以使用系統命令中的以下命令安裝它。
+如果您想讓您的創造力盡情發揮，那麼現在就是使用圖像拼貼的時候了。即使源文件格式不同，此功能也允許您合併照片和圖像。吸引人們注意您的作品集的一個好方法是使用帶有重複圖像或圖案的照片壁紙。在這種情況下，可以在水平和垂直方向上組合圖像。如果您需要演示處理文件的結果，您可以輕鬆合併兩個圖像：應用照片效果之前和之後。為了合併 APNG 文件，我們將使用 [Aspose.Imaging for Python via .NET](/imaging/zh-hant/python-net) API 是一個功能豐富、功能強大且易於使用的圖像處理和轉換 API，適用於 Python 平台。您可以使用系統命令中的以下命令安裝它。
 
 {{% blocks/products/pf/agp/code-block title="系統命令行" offSpacer="true" %}}
 

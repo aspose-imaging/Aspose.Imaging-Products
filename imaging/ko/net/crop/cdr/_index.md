@@ -16,7 +16,7 @@ description: .NET Framework, .NET Core, Windows 애플리케이션, ASP.NET 웹 
 
 {{% blocks/products/pf/agp/content h2="C#을 사용하여 CDR 파일을 자르는 방법" %}}
 
-CDR 파일을 자르기 위해 다음을 사용합니다. [.NET용 Aspose.Imaging](https://products.aspose.com/imaging/net) 기능이 풍부하고 강력하며 사용하기 쉬운 C# 플랫폼용 이미지 조작 및 변환 API인 API입니다. 열려있는 [누겟](https://www.nuget.org/packages/aspose.imaging) 패키지 관리자, 검색 **아포즈.이미징** 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
+웹페이지를 방문하는 사용자의 관심을 즉시 사로잡으려면 관심을 끄는 요소를 이미지 중앙에 배치하세요. 때로는 사진의 기본 주제를 방해하는 불필요한 요소를 완전히 제거하는 것이 더 효과적일 때도 있습니다. 이를 위해서는 C# 라이브러리에서 제공하는 이미지 자르기 기능을 활용하세요. 초점을 둘러싸는 직사각형 영역의 좌표를 지정하거나 사진 가장자리의 이동을 표시하여 이미지의 필수 부분을 선택함으로써 이를 수행할 수 있습니다. 이러한 방식으로 이미지 자르기를 통해 관련 없는 요소를 제거하고 주요 피사체를 강조합니다. CDR 파일을 자르기 위해 다음을 사용하겠습니다. [.NET용 Aspose.Imaging](https://products.aspose.com/imaging/net) 기능이 풍부하고 강력하며 사용하기 쉬운 C# 플랫폼용 이미지 조작 및 변환 API인 API입니다. 열려있는 [누겟](https://www.nuget.org/packages/aspose.imaging) 패키지 관리자, 검색 **아포즈.이미징** 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
 
 {{% blocks/products/pf/agp/code-block title="패키지 관리자 콘솔 명령" offSpacer="true" %}}
 

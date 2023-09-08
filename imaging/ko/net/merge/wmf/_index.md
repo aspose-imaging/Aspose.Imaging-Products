@@ -16,7 +16,7 @@ description: 온프레미스 문서 API를 사용해 .NET Framework, .NET Core, 
 
 {{% blocks/products/pf/agp/content h2="C#을 사용하여 WMF 파일을 병합하는 방법" %}}
 
-WMF 파일을 병합하기 위해 다음을 사용합니다. [.NET용 Aspose.Imaging](https://products.aspose.com/imaging/net) 기능이 풍부하고 강력하며 사용하기 쉬운 C# 플랫폼용 이미지 조작 및 변환 API인 API입니다. 열려있는 [누겟](https://www.nuget.org/packages/aspose.imaging) 패키지 관리자, 검색 **아포즈.이미징** 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
+창의력을 마음껏 발휘하고 싶다면 이미지 콜라주를 사용해 보세요. 이 기능을 사용하면 원본 파일의 형식이 다르더라도 사진과 이미지를 병합할 수 있습니다. 포트폴리오에 관심을 집중시키는 가장 좋은 방법은 반복되는 이미지나 패턴이 있는 사진 배경화면을 사용하는 것입니다. 이 경우 이미지는 수평 및 수직 방향으로 결합될 수 있습니다. 파일 처리 결과를 보여줘야 하는 경우 사진 효과 적용 전과 후의 두 이미지를 쉽게 병합할 수 있습니다. WMF 파일을 병합하기 위해 다음을 사용합니다. [.NET용 Aspose.Imaging](https://products.aspose.com/imaging/net) 기능이 풍부하고 강력하며 사용하기 쉬운 C# 플랫폼용 이미지 조작 및 변환 API인 API입니다. 열려있는 [누겟](https://www.nuget.org/packages/aspose.imaging) 패키지 관리자, 검색 **아포즈.이미징** 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
 
 {{% blocks/products/pf/agp/code-block title="패키지 관리자 콘솔 명령" offSpacer="true" %}}
 

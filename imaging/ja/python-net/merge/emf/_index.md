@@ -16,7 +16,7 @@ description: オンプレミスドキュメントAPIを試して、.NET Framewor
 
 {{% blocks/products/pf/agp/content h2="Pythonを使用してEMFファイルをマージする方法" %}}
 
-EMFファイルをマージするために、 [.NET 経由の Python 用 Aspose.Imaging](/imaging/ja/python-net) API は、Python プラットフォーム用の機能が豊富で強力で使いやすい画像操作および変換 API です。システムコマンドから次のコマンドを使用してインストールできます。
+創造力を発揮したい場合は、画像コラージュを使用してください。この機能を使用すると、ソース ファイルの形式が異なる場合でも、写真と画像を結合できます。ポートフォリオに注目を集めるための優れた方法は、繰り返しの画像やパターンを含む写真の壁紙を使用することです。この場合、画像は水平方向と垂直方向の両方で結合できます。ファイルの処理結果をデモする必要がある場合は、写真効果の適用前と適用後の 2 つの画像を簡単に結合できます。 EMF ファイルをマージするには、次を使用します。 [.NET 経由の Python 用 Aspose.Imaging](/imaging/ja/python-net) API は、Python プラットフォーム用の機能が豊富で強力で使いやすい画像操作および変換 API です。システムコマンドから次のコマンドを使用してインストールできます。
 
 {{% blocks/products/pf/agp/code-block title="システム コマンド ライン" offSpacer="true" %}}
 

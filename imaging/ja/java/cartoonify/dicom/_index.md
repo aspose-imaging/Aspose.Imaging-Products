@@ -16,7 +16,7 @@ description: オンプレミスドキュメントAPIを試して、.NET Framewor
 
 {{% blocks/products/pf/agp/content h2="Javaを使用してDICOMファイルを漫画化する方法" %}}
 
-DICOMファイルを漫画化するために、 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) 機能豊富で強力で使いやすいJava ラットフォーム用の画像操作および変換APIであるAPI。最新バージョンはから直接ダウンロードできます[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 次の構成をpom.xmlに追加して、Mavenベースのプロジェクトにインストールします。
+漫画の効果には固有の魅力があり、しばしば懐かしい子供時代の記憶を呼び起こします。ほぼすべてのグラフィック デザイン記事には、漫画の画像が重要な要素として組み込まれています。ポートレートの漫画化、照明の微調整、白黒への変換、色の実験、さまざまな編集テクニックの混合、洗練された画像効果の作成はすべて、AdjustBrightness、BinarizeFixed、Filter、ReplaceColor、ApplyMask などの画像フィルタを通じて実現できます。これらのフィルターは、読み込まれた元の写真に適用できます。 Web ページの主題に関係なく、漫画スタイルの画像はイラストの目的に適していることがわかります。科学記事の活気が増すと同時に、多様なコンテンツがユーザーの興味を引き付けるようになり、Web サイトのトラフィックが増加します。 DICOM ファイルを漫画化するには、次を使用します [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) 機能豊富で強力で使いやすいJava ラットフォーム用の画像操作および変換APIであるAPI。最新バージョンはから直接ダウンロードできます[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 次の構成をpom.xmlに追加して、Mavenベースのプロジェクトにインストールします。
 
 {{% blocks/products/pf/agp/code-block title = "Repository" offSpacer = "true"%}}
 

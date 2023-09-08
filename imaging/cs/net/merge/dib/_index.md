@@ -16,7 +16,7 @@ description: Vyzkoušejte naše On-Premise API pro dokumenty ke sloučení soubo
 
 {{% blocks/products/pf/agp/content h2="Jak sloučit soubory DIB pomocí C#" %}}
 
-Ke sloučení souborů DIB použijeme [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API, které je funkčně bohaté, výkonné a snadno použitelné rozhraní API pro manipulaci a konverzi obrázků pro platformu C#. Otevřete správce balíčků [NuGet](https://www.nuget.org/packages/aspose.imaging), vyhledejte
+Pokud chcete popustit uzdu své kreativitě, pak je čas použít obrázkovou koláž. Tato funkce vám umožní sloučit fotografie a obrázky, i když jsou zdrojové soubory různých formátů. Skvělým způsobem, jak upozornit na své portfolio, je použití fototapet s opakujícími se obrázky nebo vzory. V tomto případě lze obrázky kombinovat v horizontálním i vertikálním směru. V případě, že potřebujete předvést výsledek zpracování souboru, můžete snadno sloučit dva obrázky: před a po aplikaci fotografického efektu. Za účelem sloučení souborů DIB použijeme [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API, které je funkčně bohaté, výkonné a snadno použitelné rozhraní API pro manipulaci a konverzi obrázků pro platformu C#. Otevřete správce balíčků [NuGet](https://www.nuget.org/packages/aspose.imaging), vyhledejte
  **Aspose.Imaging** a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz konzole Správce balíčků" offSpacer="true" %}}

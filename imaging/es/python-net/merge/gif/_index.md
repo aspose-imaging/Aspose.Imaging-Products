@@ -16,7 +16,7 @@ description: Pruebe nuestras API de documentos locales para fusionar archivos GI
 
 {{% blocks/products/pf/agp/content h2="Cómo fusionar archivos GIF usando Python" %}}
 
-Para fusionar archivos GIF, usaremos [Aspose.Imaging for Python via .NET](/imaging/es/python-net) API que es una API de conversión y manipulación de imágenes rica en funciones, potente y fácil de usar para la plataforma Python. Puede instalarlo usando el siguiente comando desde el comando de su sistema.
+Si quieres dejar volar tu creatividad, este es el momento de utilizar un collage de imágenes. Esta función le permitirá fusionar fotografías e imágenes incluso si los archivos de origen son de diferentes formatos. Una excelente manera de llamar la atención sobre su portafolio es utilizar fondos de pantalla fotográficos con imágenes o patrones repetidos. En este caso, las imágenes se pueden combinar tanto en dirección horizontal como vertical. En caso de que necesite demostrar el resultado del procesamiento de un archivo, puede combinar fácilmente dos imágenes: antes y después de aplicar el efecto fotográfico. Para fusionar archivos GIF, usaremos [Aspose.Imaging for Python via .NET](/imaging/es/python-net) API que es una API de conversión y manipulación de imágenes rica en funciones, potente y fácil de usar para la plataforma Python. Puede instalarlo usando el siguiente comando desde el comando de su sistema.
 
 {{% blocks/products/pf/agp/code-block title="La línea de comando del sistema" offSpacer="true" %}}
 

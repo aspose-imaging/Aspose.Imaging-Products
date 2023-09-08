@@ -16,7 +16,7 @@ description: ICO 형식을  파일로 변환하는 샘플 Java 변환 코드입�
 
 {{% blocks/products/pf/agp/content h2="Java을 사용하여 ICO 파일에 워터마크를 지정하는 방법" %}}
 
-ICO 파일을 워터마크하려면 다음을 사용합니다. [자바용 Aspose.Imaging](https://products.aspose.com/imaging/java) 기능이 풍부하고 강력하며 사용하기쉬운 Java 플랫폼용 이미지 조작 및 변환 API인 API입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.[메이븐(https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 다음 구성을 pom.xml에 추가하여 Maven 기반 프로젝트 내에 설치합니다.
+워터마크는 자신의 작품이 인터넷에 최대한 노출되기를 원하는 작가에게 필수적인 도구입니다. 이미지에 워터마크를 삽입하면 해당 이미지의 출처나 저작권자를 식별할 수 있을 뿐만 아니라 해당 작성자를 홍보할 수도 있습니다. 이는 작성자 이름이나 인터넷 리소스 이름이 포함된 서명이 이미지의 디지털 사본과 함께 배포되기 때문입니다. 워터마크는 다양한 글꼴이 포함된 텍스트 형식을 취할 수 있으며 이미지 가장자리에 위치할 수 있습니다. 워터마크가 투명하면 시청을 방해하지 않습니다. 다만, 저작자나 저작권자가 자신의 이름을 강조하고자 하는 경우에는 워터마크가 이미지와 부분적으로 겹칠 수 있습니다. ICO 이미지 파일을 워터마킹하기 위해 다음을 사용하겠습니다. [자바용 Aspose.Imaging](https://products.aspose.com/imaging/java) 기능이 풍부하고 강력하며 사용하기쉬운 Java 플랫폼용 이미지 조작 및 변환 API인 API입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.[메이븐(https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 다음 구성을 pom.xml에 추가하여 Maven 기반 프로젝트 내에 설치합니다.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 

@@ -16,7 +16,7 @@ description: 嘗試使用我們的本地文檔 API 在 .NET Framework、.NET Cor
 
 {{% blocks/products/pf/agp/content h2="如何使用 Java 將 DICOM 文件卡通化" %}}
 
-為了卡通化 DICOM 文件，我們將使用 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一個功能豐富、功能強大 易於使用的 Java 平台圖像處理和轉換 API。您可以直接從 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 並通過將以下配置添加到 pom.xml 將其安裝在基於 Maven 的項目中。
+卡通效果具有固有的吸引力，常常喚起懷舊的童年記憶。幾乎每一篇平面設計文章都將卡通圖像作為基本元素。卡通化肖像、微調燈光、轉換為黑白、嘗試顏色、混合各種編輯技術以及製作複雜的圖像效果都可以通過圖像濾鏡（例如AdjustBrightness、BinarizeFixed、Filter、ReplaceColor 和ApplyMask）來實現。這些濾鏡可以應用於原始加載的照片。無論您的網頁主題是什麼，卡通風格的圖像都適合用於插圖目的。科學文章變得充滿活力，而多樣化的內容對用戶更具吸引力，從而提高網站流量。為了卡通化 DICOM 文件，我們將使用 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一個功能豐富、功能強大 易於使用的 Java 平台圖像處理和轉換 API。您可以直接從 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 並通過將以下配置添加到 pom.xml 將其安裝在基於 Maven 的項目中。
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 

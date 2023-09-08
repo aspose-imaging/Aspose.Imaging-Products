@@ -16,7 +16,7 @@ description: Pruebe nuestras API de documentos locales para archivos CMX en esca
 
 {{% blocks/products/pf/agp/content h2="Cómo convertir archivos en escala de grises CMX usando C#" %}}
 
-Para escalar los archivos CMX en escala de grises, usaremos [Aspose.Imaging para .NET](https://products.aspose.com/imaging/net) API, que es una API de conversión y manipulación de imágenes rica en funciones, potente y fácil de usar para la plataforma C#. Abierto[NuGet](https://www.nuget.org/packages/aspose.imaging) administrador de paquetes, busque
+El brillo y el multicolor son los compañeros de bellas imágenes. Sin embargo, la impresión en color no siempre es factible. En tales casos, resulta necesario convertir una fotografía a escala de grises. Además, esta función se puede utilizar como un enfoque artístico independiente, mejorando el atractivo de su sitio web. En lugar de lamentarse por la pérdida de información de color durante esta transición, que potencialmente podría obstruir la percepción, aprovéchela a su favor. Concéntrese en los detalles de la imagen, las texturas de las superficies y la interacción de áreas claras y oscuras para crear una experiencia visual distintiva. Para escalar archivos CMX en escala de grises, usaremos [Aspose.Imaging para .NET](https://products.aspose.com/imaging/net) API, que es una API de conversión y manipulación de imágenes rica en funciones, potente y fácil de usar para la plataforma C#. Abierto[NuGet](https://www.nuget.org/packages/aspose.imaging) administrador de paquetes, busque
  **Aspose.Imágenes** e instalar También puede usar el siguiente comando desde la Consola del administrador de paquetes.
 
 {{% blocks/products/pf/agp/code-block title="Comando de consola del administrador de paquetes" offSpacer="true" %}}

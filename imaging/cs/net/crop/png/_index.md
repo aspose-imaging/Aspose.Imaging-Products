@@ -16,7 +16,7 @@ description: Vyzkoušejte naše On-Premise API pro dokumenty k oříznutíPNG so
 
 {{% blocks/products/pf/agp/content h2="Jak oříznout soubory PNG pomocí C#" %}}
 
-K oříznutí souborů PNG použijeme [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API, které je funkčně bohaté, výkonné a snadno použitelné rozhraní API pro manipulaci a konverzi obrázků pro platformu C#. Otevřete správce balíčků [NuGet](https://www.nuget.org/packages/aspose.imaging), vyhledejte
+Chcete-li uživatele při návštěvě vaší webové stránky okamžitě zaujmout, umístěte do středu obrázků prvky, které přitahují pozornost. Někdy je efektivnější zcela odstranit všechny zbytečné prvky, které odvádějí pozornost od primárního tématu fotografie. Chcete-li toho dosáhnout, použijte funkci oříznutí obrázku, kterou poskytuje knihovna C#. Toho můžete dosáhnout zadáním souřadnic obdélníkové oblasti obklopující ohnisko nebo vyznačením posunů od okrajů fotografie, abyste vybrali podstatnou část obrázku. Tímto způsobem oříznutím obrázku odstraníme nepodstatné prvky a zdůrazníme hlavní objekt. K oříznutí souborů PNG použijeme [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API, které je funkčně bohaté, výkonné a snadno použitelné rozhraní API pro manipulaci a konverzi obrázků pro platformu C#. Otevřete správce balíčků [NuGet](https://www.nuget.org/packages/aspose.imaging), vyhledejte
  **Aspose.Imaging** a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz konzole Správce balíčků" offSpacer="true" %}}

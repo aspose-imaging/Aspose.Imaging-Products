@@ -16,7 +16,7 @@ description: Experimente nossas APIs de documentos no local para mesclar arquivo
 
 {{% blocks/products/pf/agp/content h2="Como mesclar arquivos DJVU usando C#" %}}
 
-Para mesclar arquivos DJVU, usaremos [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir [NuGet](https://www.nuget.org/packages/aspose.imaging) gerenciador de pacotes, procure por **Aspose.Imagem** e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
+Se você quiser dar asas à sua criatividade, então é hora de usar uma colagem de imagens. Esta função permitirá mesclar fotos e imagens mesmo que os arquivos de origem sejam de formatos diferentes. Uma ótima maneira de chamar a atenção para o seu portfólio é usar papéis de parede fotográficos com imagens ou padrões repetidos. Neste caso, as imagens podem ser combinadas tanto na direção horizontal quanto na vertical. Caso precise demonstrar o resultado do processamento de um arquivo, você pode facilmente mesclar duas imagens: antes e depois da aplicação do efeito fotográfico. Para mesclar arquivos DJVU, usaremos [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir [NuGet](https://www.nuget.org/packages/aspose.imaging) gerenciador de pacotes, procure por **Aspose.Imagem** e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
 
 {{% blocks/products/pf/agp/code-block title="Comando do Console do Gerenciador de Pacotes" offSpacer="true" %}}
 

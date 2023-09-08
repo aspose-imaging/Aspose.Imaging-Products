@@ -16,7 +16,7 @@ description: Java 애플리케이션에서 EPS 파일을 병합하려면 온프�
 
 {{% blocks/products/pf/agp/content h2="Java을 사용하여 EPS 파일을 병합하는 방법" %}}
 
-EPS 파일을 병합하기 위해 다음을 사용합니다. [자바용 Aspose.Imaging](https://products.aspose.com/imaging/java) 기능이 풍부하고 강력하며 사용하기쉬운 Java 플랫폼용 이미지 조작 및 변환 API인 API입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.[메이븐(https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 다음 구성을 pom.xml에 추가하여 Maven 기반 프로젝트 내에 설치합니다.
+창의력을 마음껏 발휘하고 싶다면 이미지 콜라주를 사용해 보세요. 이 기능을 사용하면 원본 파일의 형식이 다르더라도 사진과 이미지를 병합할 수 있습니다. 포트폴리오에 관심을 집중시키는 가장 좋은 방법은 반복되는 이미지나 패턴이 있는 사진 배경화면을 사용하는 것입니다. 이 경우 이미지는 수평 및 수직 방향으로 결합될 수 있습니다. 파일 처리 결과를 보여줘야 하는 경우 사진 효과 적용 전과 후의 두 이미지를 쉽게 병합할 수 있습니다. EPS 파일을 병합하기 위해 다음을 사용합니다. [자바용 Aspose.Imaging](https://products.aspose.com/imaging/java) 기능이 풍부하고 강력하며 사용하기쉬운 Java 플랫폼용 이미지 조작 및 변환 API인 API입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.[메이븐(https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 다음 구성을 pom.xml에 추가하여 Maven 기반 프로젝트 내에 설치합니다.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 

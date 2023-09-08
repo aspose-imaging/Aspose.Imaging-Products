@@ -16,7 +16,7 @@ description: Pruebe nuestras API de documentos locales para ver archivos BMP en 
 
 {{% blocks/products/pf/agp/content h2="Cómo ver imágenes BMP usando C#" %}}
 
-Para ver los archivos BMP, usaremos [Aspose.Imaging para .NET](https://products.aspose.com/imaging/net) API, que es una API de conversión y manipulación de imágenes rica en funciones, potente y fácil de usar para la plataforma C#. Abierto[NuGet](https://www.nuget.org/packages/aspose.imaging) administrador de paquetes, busque
+A menudo recibimos imágenes en formatos menos comunes como material fuente. Para la visualización posterior de dichas imágenes, se requieren programas especiales. Para no pensar en este problema y aprovechar el tiempo para resolver el problema para tareas más creativas, utilice las funciones de la biblioteca gráfica C#. Al convertir dichas imágenes a archivos de formatos más populares, puede abrirlas en el programa de visualización de imágenes estándar para su plataforma. Para ver archivos BMP, usaremos [Aspose.Imaging para .NET](https://products.aspose.com/imaging/net) API, que es una API de conversión y manipulación de imágenes rica en funciones, potente y fácil de usar para la plataforma C#. Abierto[NuGet](https://www.nuget.org/packages/aspose.imaging) administrador de paquetes, busque
  **Aspose.Imágenes** e instalar También puede usar el siguiente comando desde la Consola del administrador de paquetes.
 
 {{% blocks/products/pf/agp/code-block title="Comando de consola del administrador de paquetes" offSpacer="true" %}}

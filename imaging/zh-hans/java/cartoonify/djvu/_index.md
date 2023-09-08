@@ -16,7 +16,7 @@ description: 尝试使用我们的本地文档 API 在 .NET Framework、.NET Cor
 
 {{% blocks/products/pf/agp/content h2="如何使用 Java 将 DJVU 文件卡通化" %}}
 
-为了卡通化 DJVU 文件，我们将使用 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一个功能丰富、功能强大 易于使用的 Java 平台图像处理和转换 API。您可以直接从 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
+卡通效果具有固有的吸引力，常常唤起怀旧的童年记忆。几乎每一篇平面设计文章都将卡通图像作为基本元素。卡通化肖像、微调灯光、转换为黑白、尝试颜色、混合各种编辑技术以及制作复杂的图像效果都可以通过图像滤镜（例如AdjustBrightness、BinarizeFixed、Filter、ReplaceColor 和ApplyMask）来实现。这些滤镜可以应用于原始加载的照片。无论您的网页主题是什么，卡通风格的图像都适合用于插图目的。科学文章变得充满活力，而多样化的内容对用户更具吸引力，从而提高网站流量。为了卡通化 DJVU 文件，我们将使用 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一个功能丰富、功能强大 易于使用的 Java 平台图像处理和转换 API。您可以直接从 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
 并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}

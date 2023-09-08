@@ -16,7 +16,7 @@ description: 嘗試使用我們的本地文檔 API 來過濾 .NET Framework、.N
 
 {{% blocks/products/pf/agp/content h2="如何使用 Java 過濾 SVG 文件" %}}
 
-為了過濾 SVG 文件，我們將使用 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一個功能豐富、功能強大 易於使用的 Java 平台圖像處理和轉換 API。您可以直接從 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 並通過將以下配置添加到 pom.xml 將其安裝在基於 Maven 的項目中。
+即使是最完美的圖像也可以進一步增強或轉化為完全不同且獨特的藝術作品。應用濾鏡來實現各種圖像效果。例如，您可以銳化圖像，或者相反，添加模糊、平滑圖像或消除顏色噪聲。當您希望賦予圖像獨特性時，濾鏡也非常有用。為此，請應用所需的效果或組合不同的效果。這種方法允許您細化顏色漸變、消除噪點，同時增強照片中對象邊緣的清晰度。為了過濾 SVG 文件，我們將使用 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一個功能豐富、功能強大 易於使用的 Java 平台圖像處理和轉換 API。您可以直接從 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 並通過將以下配置添加到 pom.xml 將其安裝在基於 Maven 的項目中。
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 

@@ -16,7 +16,7 @@ description: Išbandykite mūsų „On-Premise“ dokumentų API, kad filtruotum
 
 {{% blocks/products/pf/agp/content h2="Kaip filtruoti WMF failus naudojant C#" %}}
 
-Norėdami filtruoti WMF failus, naudosime [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta C# platformai. Atviras [NuGet](https://www.nuget.org/packages/aspose.imaging) paketų tvarkyklė, ieškokite **Aspose.Imaging** ir įdiegti. Taip pat galite naudoti šią komandą iš paketų tvarkyklės konsolės.
+Net tobuliausias vaizdas gali būti dar labiau patobulintas arba paverstas visiškai kitokiu ir unikaliu meno kūriniu. Taikykite filtrus, kad gautumėte platų vaizdo efektų spektrą. Pavyzdžiui, galite paryškinti vaizdą arba, atvirkščiai, pridėti suliejimo, išlyginti jį arba pašalinti spalvų triukšmą. Filtrai taip pat yra neįkainojami, kai norite savo įvaizdžiui suteikti unikalumo. Norėdami tai pasiekti, pritaikykite norimą efektą arba derinkite skirtingus efektus. Šis metodas leidžia patobulinti spalvų gradientus, pašalinti triukšmą ir kartu padidinti nuotraukos objektų kraštų ryškumą. Norėdami filtruoti WMF failus, naudosime [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta C# platformai. Atviras [NuGet](https://www.nuget.org/packages/aspose.imaging) paketų tvarkyklė, ieškokite **Aspose.Imaging** ir įdiegti. Taip pat galite naudoti šią komandą iš paketų tvarkyklės konsolės.
 
 {{% blocks/products/pf/agp/code-block title="Paketų tvarkytuvės konsolės komanda" offSpacer="true" %}}
 

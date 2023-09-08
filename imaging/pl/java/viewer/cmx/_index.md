@@ -16,7 +16,7 @@ description: Wypróbuj nasze lokalne interfejsy API dokumentów, aby wyświetla�
 
 {{% blocks/products/pf/agp/content h2="Jak przeglądać obrazy CMX za pomocą Java" %}}
 
-Aby wyświetlić pliki CMX, użyjemy [Aspose.Imaging dla Javy](https://products.aspose.com/imaging/java) API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do obróbki i konwersji obrazów dla platformy Java. Możesz pobrać jego najnowszą wersję bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) i zainstaluj go w swoim projekcie opartym na Maven, dodając następujące konfiguracje do pom.xml.
+Jako materiały źródłowe często otrzymujemy obrazy w mniej popularnych formatach. Do późniejszego oglądania takich obrazów wymagane są specjalne programy. Aby nie myśleć o tym problemie i wykorzystać czas na jego rozwiązanie na bardziej kreatywne zadania, skorzystaj z funkcji biblioteki graficznej Java. Konwertując takie obrazy do plików w bardziej popularnych formatach, możesz je otworzyć w standardowym programie do przeglądania obrazów dla Twojej platformy. Aby wyświetlić pliki w formacie CMX, użyjemy [Aspose.Imaging dla Javy](https://products.aspose.com/imaging/java) API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do obróbki i konwersji obrazów dla platformy Java. Możesz pobrać jego najnowszą wersję bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) i zainstaluj go w swoim projekcie opartym na Maven, dodając następujące konfiguracje do pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repozytorium" offSpacer="true" %}}
 

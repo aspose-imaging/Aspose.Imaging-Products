@@ -16,7 +16,7 @@ description: Coba API dokumen Lokal kami untuk Melihat file BMP di .NET Framewor
 
 {{% blocks/products/pf/agp/content h2="Cara Melihat gambar BMP Menggunakan Java" %}}
 
-Untuk melihat file BMP, kami akan menggunakan [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API yang kaya fitur, kuat dan mudah digunakan manipulasi gambar dan konversi API untuk platform Java. Anda dapat mengunduh versi terbarunya langsung dari [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
+Kami sering menerima gambar dalam format yang kurang umum sebagai bahan sumber. Untuk melihat gambar tersebut selanjutnya, diperlukan program khusus. Agar tidak memikirkan masalah ini dan menggunakan waktu untuk menyelesaikan masalah untuk tugas yang lebih kreatif, gunakan fungsi perpustakaan grafis Java. Dengan mengonversi gambar tersebut ke file dengan format yang lebih populer, Anda dapat membukanya di program tampilan gambar standar untuk platform Anda. Untuk melihat file BMP, kami akan menggunakan [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API yang kaya fitur, kuat dan mudah digunakan manipulasi gambar dan konversi API untuk platform Java. Anda dapat mengunduh versi terbarunya langsung dari [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) dan instal dalam proyek berbasis Maven Anda dengan menambahkan konfigurasi berikut ke pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 

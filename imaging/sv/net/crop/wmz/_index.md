@@ -16,7 +16,7 @@ description: Prova våra lokala dokument-API:er för att beskäraWMZ-filer på .
 
 {{% blocks/products/pf/agp/content h2="Hur man beskär WMZ-filer med C#" %}}
 
-För att beskära WMZ-filer kommer vi att använda [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API som är ett funktionsrikt, kraftfullt och lättanvänt API för bildmanipulation och konvertering för C#-plattformen. Öppna [NuGet](https://www.nuget.org/packages/aspose.imaging) pakethanteraren, sök efter
+För att omedelbart fängsla en användare som besöker din webbsida, placera uppmärksamhetsfångande element i mitten av bilderna. Ibland är det mer effektivt att helt och hållet eliminera alla onödiga element som distraherar från bildens primära tema. För att åstadkomma detta, använd bildbeskärningsfunktionen som tillhandahålls av C#-biblioteket. Du kan uppnå detta genom att ange koordinaterna för ett rektangulärt område som omfattar brännpunkten eller genom att indikera förskjutningar från fotots kanter för att välja den väsentliga delen av bilden. På så sätt, genom att beskära bilden, eliminerar vi irrelevanta element och betonar huvudmotivet. För att beskära WMZ-filer kommer vi att använda [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API som är ett funktionsrikt, kraftfullt och lättanvänt API för bildmanipulation och konvertering för C#-plattformen. Öppna [NuGet](https://www.nuget.org/packages/aspose.imaging) pakethanteraren, sök efter
  **Aspose.Imaging** och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Pakethanterarens konsolkommando" offSpacer="true" %}}

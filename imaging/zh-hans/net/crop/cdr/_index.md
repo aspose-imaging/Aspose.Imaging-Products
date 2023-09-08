@@ -16,7 +16,7 @@ description: 尝试使用我们的本地文档 API 来裁剪 .NET Framework、.N
 
 {{% blocks/products/pf/agp/content h2="如何使用 C# 裁剪 CDR 文件" %}}
 
-为了裁剪 CDR 文件，我们将使用 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一个功能丰富、功能强大 易于使用的 C# 平台图像处理和转换 API。打开 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 并安装。您还可以从包管理器控制台使用以下命令。
+要立即吸引访问您网页的用户，请将引人注目的元素放置在图像的中心。有时，完全消除任何分散照片主要主题的不必要元素会更有效。为此，请利用 C# 库提供的图像裁剪功能。您可以通过指定包含焦点的矩形区域的坐标或通过指示从照片边缘的偏移来选择图像的基本部分来实现此目的。这样，通过裁剪图像，我们消除了不相关的元素，突出了主要主题。为了裁剪 CDR 文件，我们将使用 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一个功能丰富、功能强大 易于使用的 C# 平台图像处理和转换 API。打开 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 并安装。您还可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 

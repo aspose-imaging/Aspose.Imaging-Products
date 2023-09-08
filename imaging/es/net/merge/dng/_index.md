@@ -16,7 +16,7 @@ description: Pruebe nuestras API de documentos locales para fusionar archivos DN
 
 {{% blocks/products/pf/agp/content h2="Cómo fusionar archivos DNG usando C#" %}}
 
-Para fusionar archivos DNG, usaremos [Aspose.Imaging para .NET](https://products.aspose.com/imaging/net) API, que es una API de conversión y manipulación de imágenes rica en funciones, potente y fácil de usar para la plataforma C#. Abierto[NuGet](https://www.nuget.org/packages/aspose.imaging) administrador de paquetes, busque
+Si quieres dejar volar tu creatividad, este es el momento de utilizar un collage de imágenes. Esta función le permitirá fusionar fotografías e imágenes incluso si los archivos de origen son de diferentes formatos. Una excelente manera de llamar la atención sobre su portafolio es utilizar fondos de pantalla fotográficos con imágenes o patrones repetidos. En este caso, las imágenes se pueden combinar tanto en dirección horizontal como vertical. En caso de que necesite demostrar el resultado del procesamiento de un archivo, puede combinar fácilmente dos imágenes: antes y después de aplicar el efecto fotográfico. Para fusionar archivos DNG, usaremos [Aspose.Imaging para .NET](https://products.aspose.com/imaging/net) API, que es una API de conversión y manipulación de imágenes rica en funciones, potente y fácil de usar para la plataforma C#. Abierto[NuGet](https://www.nuget.org/packages/aspose.imaging) administrador de paquetes, busque
  **Aspose.Imágenes** e instalar También puede usar el siguiente comando desde la Consola del administrador de paquetes.
 
 {{% blocks/products/pf/agp/code-block title="Comando de consola del administrador de paquetes" offSpacer="true" %}}

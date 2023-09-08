@@ -16,7 +16,7 @@ description: Išbandykite „On-Premise“ dokumentų API, kad sujungtumėte ICO
 
 {{% blocks/products/pf/agp/content h2="Kaip sujungti ICO failus naudojant C#" %}}
 
-Norėdami sujungti ICO failus, naudosime [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta C# platformai. Atviras [NuGet](https://www.nuget.org/packages/aspose.imaging) paketų tvarkyklė, ieškokite **Aspose.Imaging** ir įdiegti. Taip pat galite naudoti šią komandą iš paketų tvarkyklės konsolės.
+Jei norite paleisti savo kūrybiškumą, pats laikas naudoti vaizdo koliažą. Ši funkcija leis sujungti nuotraukas ir vaizdus, ​​net jei šaltinio failai yra skirtingų formatų. Puikus būdas atkreipti dėmesį į savo portfolio – naudoti fototapetus su pasikartojančiais vaizdais ar raštais. Tokiu atveju vaizdus galima derinti tiek horizontalia, tiek vertikalia kryptimis. Jei jums reikia parodyti failo apdorojimo rezultatą, galite lengvai sujungti du vaizdus: prieš ir po to, kai pritaikysite nuotraukos efektą. Norėdami sujungti ICO failus, naudosime [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta C# platformai. Atviras [NuGet](https://www.nuget.org/packages/aspose.imaging) paketų tvarkyklė, ieškokite **Aspose.Imaging** ir įdiegti. Taip pat galite naudoti šią komandą iš paketų tvarkyklės konsolės.
 
 {{% blocks/products/pf/agp/code-block title="Paketų tvarkytuvės konsolės komanda" offSpacer="true" %}}
 

@@ -16,7 +16,7 @@ description: 尝试使用我们的本地文档 API 来调整 .NET Framework、.N
 
 {{% blocks/products/pf/agp/content h2="如何使用 C# 调整 ODG 文件的大小" %}}
 
-为了调整 ODG 文件的大小，我们将使用 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一个功能丰富、功能强大 易于使用的 C# 平台图像处理和转换 API。打开 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 并安装。您还可以从包管理器控制台使用以下命令。
+构建网站是一项复杂的工作，每个元素都具有重要意义。填充网页过程中的一个关键方面是调整图像大小。通常，需要调整其尺寸并准备不同分辨率的图像或照片。例如，具有预览功能的图像库的页面需要小缩略图文件，而展示主图像的页面则需要高分辨率版本。对于较大的文件，调整大小对于减少总像素数至关重要，从而在不显着影响图像质量的情况下减小文件大小。在调整图像大小时，您还可以选择数据压缩程度，以在图像大小和质量之间取得平衡。减小图像尺寸可以缩短互联网的加载时间，从而增强网站上的用户浏览体验。 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一个功能丰富、功能强大 易于使用的 C# 平台图像处理和转换 API。打开 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 并安装。您还可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 

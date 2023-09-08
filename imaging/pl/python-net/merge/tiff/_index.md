@@ -16,7 +16,7 @@ description: Wypróbuj nasze lokalne interfejsy API dokumentów, aby scalić pli
 
 {{% blocks/products/pf/agp/content h2="Jak scalić pliki TIFF za pomocą Python" %}}
 
-Aby scalić pliki TIFF, użyjemy [Aspose.Imaging for Python via .NET](/imaging/pl/python-net) API, które jest bogatym w funkcje, potężnym i łatwym w użyciu interfejsem API do manipulacji i konwersji obrazów dla platformy Python. Możesz go zainstalować za pomocą następującego polecenia z polecenia systemowego.
+Jeśli chcesz puścić wodze fantazji, nadszedł czas, aby skorzystać z kolażu obrazów. Ta funkcja umożliwia łączenie zdjęć i obrazów, nawet jeśli pliki źródłowe mają różne formaty. Świetnym sposobem na zwrócenie uwagi na swoje portfolio jest zastosowanie fototapet z powtarzającymi się obrazami lub wzorami. W takim przypadku obrazy można łączyć zarówno w kierunku poziomym, jak i pionowym. Jeśli chcesz zademonstrować wynik obróbki pliku, możesz łatwo połączyć dwa obrazy: przed i po zastosowaniu efektu fotograficznego. Aby połączyć pliki TIFF, użyjemy [Aspose.Imaging for Python via .NET](/imaging/pl/python-net) API, które jest bogatym w funkcje, potężnym i łatwym w użyciu interfejsem API do manipulacji i konwersji obrazów dla platformy Python. Możesz go zainstalować za pomocą następującego polecenia z polecenia systemowego.
 
 {{%blocks/products/pf/agp/code-block title="Systemowy wiersz poleceń" offSpacer="true" %}}
 

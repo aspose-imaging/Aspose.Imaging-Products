@@ -16,7 +16,7 @@ description: Išbandykite „On-Premise“ dokumentų API, kad sujungtumėte APN
 
 {{% blocks/products/pf/agp/content h2="Kaip sujungti APNG failus naudojant Java" %}}
 
-Norėdami sujungti APNG failus, naudosime [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo manipuliavimo ir konvertavimo API, skirta Java platformai. Naujausią jos versiją galite atsisiųsti tiesiai iš [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) ir įdiekite jį savo Maven pagrįstame projekte, pridėdami toliau nurodytas konfigūracijas prie pom.xml.
+Jei norite paleisti savo kūrybiškumą, pats laikas naudoti vaizdo koliažą. Ši funkcija leis sujungti nuotraukas ir vaizdus, ​​net jei šaltinio failai yra skirtingų formatų. Puikus būdas atkreipti dėmesį į savo portfolio – naudoti fototapetus su pasikartojančiais vaizdais ar raštais. Tokiu atveju vaizdus galima derinti tiek horizontalia, tiek vertikalia kryptimis. Jei jums reikia parodyti failo apdorojimo rezultatą, galite lengvai sujungti du vaizdus: prieš ir po to, kai pritaikysite nuotraukos efektą. Norėdami sujungti APNG failus, naudosime [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo manipuliavimo ir konvertavimo API, skirta Java platformai. Naujausią jos versiją galite atsisiųsti tiesiai iš [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) ir įdiekite jį savo Maven pagrįstame projekte, pridėdami toliau nurodytas konfigūracijas prie pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 

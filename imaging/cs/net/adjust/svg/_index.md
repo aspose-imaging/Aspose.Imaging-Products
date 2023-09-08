@@ -16,7 +16,7 @@ description: Vyzkoušejte naše On-Premise API pro dokumenty k úpravě souborů
 
 {{% blocks/products/pf/agp/content h2="Jak upravit soubory SVG pomocí C#" %}}
 
-K úpravě souborů SVG použijeme [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API, které je funkčně bohaté, výkonné a snadno použitelné rozhraní API pro manipulaci a konverzi obrázků pro platformu C#. Otevřete správce balíčků [NuGet](https://www.nuget.org/packages/aspose.imaging), vyhledejte
+I ti nejzkušenější fotografové se mohou při focení mýlit nebo se setkat s nepříznivými světelnými podmínkami. Takové situace mohou vést k obrazovým vadám, ale i špatná fotografie má šanci. Pomocí knihovny C# můžete tyto problémy programově opravit úpravou jasu, kontrastu a barevné gama. Pokud je fotografie příliš tmavá, zvýšení jasu zesvětlí tmavé oblasti a zviditelní dříve skryté detaily. Úprava kontrastu zvyšuje rozdíl mezi světlými a tmavými oblastmi a rozšiřuje rozsah jasu pro lepší obraz. Pokud jste pořídili fotografii při umělém osvětlení, což má za následek nežádoucí barevný odstín, použijte úpravu gama barev pro korekci vyvážení bílé. K úpravě souborů SVG použijeme [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API, které je funkčně bohaté, výkonné a snadno použitelné rozhraní API pro manipulaci a konverzi obrázků pro platformu C#. Otevřete správce balíčků [NuGet](https://www.nuget.org/packages/aspose.imaging), vyhledejte
  **Aspose.Imaging** a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz konzole Správce balíčků" offSpacer="true" %}}

@@ -16,7 +16,7 @@ description: Coba API dokumen Lokal kami untuk Memfilter file WEBP di .NET Frame
 
 {{% blocks/products/pf/agp/content h2="Cara Memfilter File WEBP Menggunakan C#" %}}
 
-Untuk memfilter file WEBP, kami akan menggunakan [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API yang kaya fitur, kuat, dan mudah digunakan manipulasi gambar dan konversi API untuk platform C#. Membuka [NuGet](https://www.nuget.org/packages/aspose.imaging) manajer paket, cari **Aspose.Imaging** dan menginstal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
+Bahkan gambar yang paling sempurna pun dapat ditingkatkan lebih lanjut atau diubah menjadi karya seni yang benar-benar berbeda dan unik. Terapkan filter untuk mendapatkan berbagai efek gambar. Misalnya, Anda dapat mempertajam gambar atau, sebaliknya, menambahkan keburaman, menghaluskannya, atau menghilangkan noise warna. Filter juga sangat berharga bila Anda ingin memberikan keunikan pada gambar Anda. Untuk mencapai hal ini, terapkan efek yang diinginkan atau gabungkan efek yang berbeda. Pendekatan ini memungkinkan Anda memperhalus gradien warna, menghilangkan noise, dan sekaligus meningkatkan ketajaman tepi objek dalam foto. Untuk memfilter file WEBP, kami akan menggunakan [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API yang kaya fitur, kuat, dan mudah digunakan manipulasi gambar dan konversi API untuk platform C#. Membuka [NuGet](https://www.nuget.org/packages/aspose.imaging) manajer paket, cari **Aspose.Imaging** dan menginstal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Perintah Konsol Manajer Paket" offSpacer="true" %}}
 

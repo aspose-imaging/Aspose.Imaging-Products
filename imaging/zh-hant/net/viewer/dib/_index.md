@@ -16,7 +16,7 @@ description: 嘗試使用我們的本地文檔 API 來查看 .NET Framework、.N
 
 {{% blocks/products/pf/agp/content h2="如何使用 C# 查看 DIB 圖像" %}}
 
-為了查看 DIB 文件，我們將使用 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一個功能豐富、功能強大且易於使用的 C# 平台圖像處理和轉換 API。打開 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 並安裝。您也可以從包管理器控制台使用以下命令。
+我們經常收到不太常見格式的圖像作為源材料。為了隨後查看此類圖像，需要特殊的程序。為了不去思考這個問題，而將時間用於解決更具創造性的任務，請使用 C# 圖形庫的功能。通過將此類圖像轉換為更流行的格式的文件，您可以在適合您平台的標準圖像查看程序中打開它們。為了查看 DIB 文件，我們將使用 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一個功能豐富、功能強大且易於使用的 C# 平台圖像處理和轉換 API。打開 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 並安裝。您也可以從包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 

@@ -16,7 +16,7 @@ description: Prova le nostre API di documenti locali per visualizzare i file TIF
 
 {{% blocks/products/pf/agp/content h2="Come visualizzare le immagini in TIF utilizzando C#" %}}
 
-Per visualizzare i file TIF, utilizzeremo [Aspose.Imaging per .NET](https://products.aspose.com/imaging/net) API che è un'API di conversione e manipolazione delle immagini ricca di funzionalità, potente e facile da usare per la piattaforma C#. Aprire [NuGet](https://www.nuget.org/packages/aspose.imaging) gestore pacchetti, cerca **Aspose.Imaging** e installa. È inoltre possibile utilizzare il seguente comando dalla Console di gestione pacchetti.
+Spesso riceviamo immagini in formati meno comuni come materiale originale. Per la successiva visualizzazione di tali immagini sono necessari programmi speciali. Per non pensare a questo problema e sfruttare il tempo per risolverlo per attività più creative, utilizza le funzioni della libreria grafica C#. Convertendo tali immagini in file dei formati più diffusi, puoi aprirle nel programma di visualizzazione immagini standard per la tua piattaforma. Per visualizzare i file TIF, utilizzeremo [Aspose.Imaging per .NET](https://products.aspose.com/imaging/net) API che è un'API di conversione e manipolazione delle immagini ricca di funzionalità, potente e facile da usare per la piattaforma C#. Aprire [NuGet](https://www.nuget.org/packages/aspose.imaging) gestore pacchetti, cerca **Aspose.Imaging** e installa. È inoltre possibile utilizzare il seguente comando dalla Console di gestione pacchetti.
 
 {{% blocks/products/pf/agp/code-block title="Comando della console di Package Manager" offSpacer="true" %}}
 

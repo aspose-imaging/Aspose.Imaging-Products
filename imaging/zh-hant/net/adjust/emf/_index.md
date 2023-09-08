@@ -16,7 +16,7 @@ description: 嘗試使用我們的本地文檔 API 來調整 .NET Framework、.N
 
 {{% blocks/products/pf/agp/content h2="如何使用 C# 調整 EMF 文件" %}}
 
-為了調整 EMF 文件，我們將使用 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一個功能豐富、功能強大且易於使用的 C# 平台圖像處理和轉換 API。打開 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 並安裝。您也可以從包管理器控制台使用以下命令。
+即使是最有經驗的攝影師也可能在拍攝過程中犯錯誤或遇到不利的照明條件。這種情況可能會導致圖像缺陷，但即使是糟糕的照片也有可能出現。借助 C# 庫，您可以通過調整亮度、對比度和顏色伽瑪以編程方式糾正這些問題。如果照片太暗，增加亮度會照亮黑暗區域，使之前隱藏的細節變得可見。調整對比度會增加明暗區域之間的差異，擴大亮度範圍以改善圖像。如果您在人造照明下拍攝的照片導致出現不需要的色調，請利用顏色伽瑪調整來校正白平衡。為了調整 EMF 文件，我們將使用 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一個功能豐富、功能強大且易於使用的 C# 平台圖像處理和轉換 API。打開 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 並安裝。您也可以從包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 

@@ -16,7 +16,7 @@ description: Prova våra lokala dokument-API:er för att justera PNG-filer på .
 
 {{% blocks/products/pf/agp/content h2="Hur man justerar PNG-filer med C#" %}}
 
-För att justera PNG-filer kommer vi att använda [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API som är ett funktionsrikt, kraftfullt och lättanvänt API för bildmanipulation och konvertering för C#-plattformen. Öppna [NuGet](https://www.nuget.org/packages/aspose.imaging) pakethanteraren, sök efter
+Även de mest erfarna fotograferna kan göra misstag eller stöta på ogynnsamma ljusförhållanden under en fotografering. Sådana situationer kan leda till bilddefekter, men även ett dåligt foto har en chans. Med C#-biblioteket kan du programmässigt korrigera dessa problem genom att justera ljusstyrka, kontrast och färggamma. Om ett foto blir för mörkt kommer en ökning av ljusstyrkan att göra de mörka områdena ljusare, vilket gör tidigare dolda detaljer synliga. Justering av kontrasten ökar skillnaden mellan ljusa och mörka områden, vilket utökar ljusstyrkan för en förbättrad bild. Om du har tagit ett foto under artificiell belysning som resulterar i en oönskad färgnyans, använd färggammajusteringen för att korrigera vitbalansen. För att justera PNG-filer kommer vi att använda [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API som är ett funktionsrikt, kraftfullt och lättanvänt API för bildmanipulation och konvertering för C#-plattformen. Öppna [NuGet](https://www.nuget.org/packages/aspose.imaging) pakethanteraren, sök efter
  **Aspose.Imaging** och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Pakethanterarens konsolkommando" offSpacer="true" %}}

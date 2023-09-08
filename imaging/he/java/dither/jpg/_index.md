@@ -16,7 +16,7 @@ description: נסה את ממשקי ה-API של המסמכים המקומיים 
 
 {{% blocks/products/pf/agp/content h2="כיצד לנפות קבצים ב-JPG באמצעות Java" %}}
 
-על מנת לסלף קבצים JPG, נשתמש [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API שהוא עשיר בתכונות, חזק וקל לשימוש למניפולציה והמרה של תמונות עבור פלטפורמת Java. אתה יכול להוריד את הגרסה האחרונה שלו ישירות מ-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) ולהתקין אותה בתוך ה-Maven שלך פרויקט מבוסס על ידי הוספת התצורות הבאות לקובץ pom.xml.
+אופטימיזציה יעילה של תמונות למיקום באינטרנט היא חיונית להבטחת חווית משתמש חלקה. גישה אחת לאופטימיזציה כזו כוללת הפחתת פלטת הצבעים של התמונה, ובכך להקטין את גודל הקובץ שלה ולשפר את זמני הטעינה של הדפים. עם זאת, כדי למנוע את ההפרעה של מעברי צבע חלקים והופעת גבולות חדים באזורים מונוכרומטיים, חיוני להשתמש בפונקציית החלקת התמונה, הידועה בשם דיבור. טכניקה זו מאפשרת לך להכניס כמות מבוקרת של \"רעש\" לתמונה או לצילום, אשר, בתורו, משפיע לטובה על ידי החלקת מעברים בתוך שדה הצבע ושיפור המשיכה החזותית הכוללת של התמונה. על מנת לסלף קבצים JPG, נשתמש [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API שהוא עשיר בתכונות, חזק וקל לשימוש למניפולציה והמרה של תמונות עבור פלטפורמת Java. אתה יכול להוריד את הגרסה האחרונה שלו ישירות מ-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) ולהתקין אותה בתוך ה-Maven שלך פרויקט מבוסס על ידי הוספת התצורות הבאות לקובץ pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="מאגר" offSpacer="true" %}}
 

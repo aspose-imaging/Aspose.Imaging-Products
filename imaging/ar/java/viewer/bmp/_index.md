@@ -16,7 +16,7 @@ description: جرب واجهات برمجة تطبيقات المستندات ا
 
 {{% blocks/products/pf/agp/content h2="كيفية عرض الصور BMP باستخدام Java" %}}
 
-من أجل عرض ملفات BMP ، سنستخدم ملفات [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API وهي واجهة برمجة تطبيقات لمعالجة الصور وتحويلها غنية بالميزات وقوية وسهلة الاستخدام لمنصة Java الأساسية. يمكنك تنزيل أحدث إصدار له مباشرةً من [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) وتثبيته داخل Maven الخاص بك مشروع قائم على أساس إضافة التكوينات التالية إلى ملف pom.xml.
+غالبًا ما نتلقى صورًا بتنسيقات أقل شيوعًا كمواد مصدر. للعرض اللاحق لهذه الصور، هناك حاجة إلى برامج خاصة. لكي لا تفكر في هذه المشكلة وتستغل الوقت لحل المشكلة لمزيد من المهام الإبداعية، استخدم وظائف المكتبة الرسومية Java. ومن خلال تحويل هذه الصور إلى ملفات ذات تنسيقات أكثر شيوعًا، يمكنك فتحها في برنامج عرض الصور القياسي لنظامك الأساسي. لعرض ملفات BMP، سنستخدم [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API وهي واجهة برمجة تطبيقات لمعالجة الصور وتحويلها غنية بالميزات وقوية وسهلة الاستخدام لمنصة Java الأساسية. يمكنك تنزيل أحدث إصدار له مباشرةً من [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) وتثبيته داخل Maven الخاص بك مشروع قائم على أساس إضافة التكوينات التالية إلى ملف pom.xml.
 
 {{%blocks/products/pf/agp/code-block title ="Repository" offSpacer = "true" %}}
 

@@ -16,7 +16,7 @@ description: オンプレミスドキュメントAPIを試して、.NET Framewor
 
 {{% blocks/products/pf/agp/content h2="C#を使用してPNGファイルを切り抜く方法" %}}
 
-PNGファイルを切り抜くために、 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) 機能が豊富で強力で使いやすいC＃プラットフォーム用の画像操作および変換APIであるAPI。開ける [NuGet](https://www.nuget.org/packages/aspose.imaging) パッケージマネージャー、検索 ** Aspose.Imaging ** とインストールします。パッケージマネージャーコンソールから次のコマンドを使用することもできます。
+Web ページにアクセスしたユーザーを瞬時に魅了するには、注目を集める要素を画像の中央に配置します。場合によっては、写真の主要なテーマから気をそらす不必要な要素を完全に削除する方が効果的である場合があります。これを実現するには、C# ライブラリが提供する画像トリミング機能を利用します。これを実現するには、焦点を囲む長方形の領域の座標を指定するか、写真の端からの移動を指定して画像の重要な部分を選択します。このように、画像をトリミングすることで、不要な要素を排除し、主要な被写体を強調します。 PNG ファイルをトリミングするには、次を使用します。 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) 機能が豊富で強力で使いやすいC＃プラットフォーム用の画像操作および変換APIであるAPI。開ける [NuGet](https://www.nuget.org/packages/aspose.imaging) パッケージマネージャー、検索 ** Aspose.Imaging ** とインストールします。パッケージマネージャーコンソールから次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title ="パッケージマネージャーコンソールコマンド" offSpacer = "true"%}}
 

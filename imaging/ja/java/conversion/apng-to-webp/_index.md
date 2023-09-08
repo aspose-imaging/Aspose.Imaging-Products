@@ -17,7 +17,7 @@ description: APNGからWEBPへのJava変換のサンプルコード。 Webまた
 
 {{% blocks/products/pf/agp/content h2="Javaを使用してAPNGをWEBPに変換する方法" %}}
 
-APNGをWEBPに変換するには、 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) 機能豊富で強力で使いやすいJava ラットフォーム用の画像操作および変換APIであるAPI。最新バージョンはから直接ダウンロードできます[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 次の構成をpom.xmlに追加して、Mavenベースのプロジェクトにインストールします。
+ファイル形式の変換は、グラフィック デザイナーにとって日常的な作業のように思えるかもしれません。しかし、その重要性を過小評価するのは間違いです。あなたの仕事の評価は、このタスクにどれだけ迅速かつ効果的に取り組むかによって決まるかもしれません。通常、元の画像は、印刷またはオンライン公開に適した形式に変換する必要があります。元の画像がグラフィック エディターから作成された場合は、ベクター形式である可能性があります。このシナリオでは、公開のためにラスター化してラスター形式に変換する必要があります。最適な品質を得るために画像を非圧縮形式で保存するか、ファイル サイズを削減するために可逆圧縮形式に変換するかを選択できます。 Web パブリッシングなどの特定の状況では、非可逆圧縮形式を選択できます。画像データ圧縮用に特別に設計されたアルゴリズムにより、許容可能な画質を維持しながらファイル サイズを大幅に削減できます。これにより、インターネットからの画像ファイルの高速ダウンロードが容易になります。 APNG を WEBP に変換するには、次を使用します。 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) 機能豊富で強力で使いやすいJava ラットフォーム用の画像操作および変換APIであるAPI。最新バージョンはから直接ダウンロードできます[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 次の構成をpom.xmlに追加して、Mavenベースのプロジェクトにインストールします。
 
 {{% blocks/products/pf/agp/code-block title = "Repository" offSpacer = "true"%}}
 

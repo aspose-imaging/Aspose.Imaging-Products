@@ -16,7 +16,7 @@ description: .NET Framework, .NET Core, Windows Uygulaması, ASP.NET Web Uygulam
 
 {{% blocks/products/pf/agp/content h2="C# Kullanarak DNG Dosyalarını Filtreleme" %}}
 
-DNG dosyalarını filtrelemek için kullanacağız [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. Açık [NuGet](https://www.nuget.org/packages/aspose.imaging) paket yöneticisi, ara **Aspose.Görüntüleme** ve yükleyin. Paket Yöneticisi Konsolundan aşağıdaki komutu da kullanabilirsiniz.
+En mükemmel görüntü bile daha da geliştirilebilir veya bambaşka, eşsiz bir sanat eserine dönüştürülebilir. Çok çeşitli görüntü efektleri elde etmek için filtreler uygulayın. Örneğin, bir görüntüyü keskinleştirebilir veya tam tersine bulanıklık ekleyebilir, yumuşatabilir veya renk parazitini ortadan kaldırabilirsiniz. Görüntünüze benzersizlik kazandırmak istediğinizde filtreler de çok değerlidir. Bunu başarmak için istediğiniz efekti uygulayın veya farklı efektleri birleştirin. Bu yaklaşım, renk gradyanlarını iyileştirmenize, gürültüyü ortadan kaldırmanıza ve aynı zamanda fotoğraftaki nesnelerin kenarlarının keskinliğini artırmanıza olanak tanır. DNG dosyalarını filtrelemek için şunu kullanacağız: [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. Açık [NuGet](https://www.nuget.org/packages/aspose.imaging) paket yöneticisi, ara **Aspose.Görüntüleme** ve yükleyin. Paket Yöneticisi Konsolundan aşağıdaki komutu da kullanabilirsiniz.
 
 {{%blocks/products/pf/agp/code-block title="Paket Yöneticisi Konsol Komutu" offSpacer="true" %}}
 

@@ -16,7 +16,7 @@ description: DIB 格式到  文件的示例 Java 轉換代碼。使用此示例�
 
 {{% blocks/products/pf/agp/content h2="如何使用 Java 為 DIB 文件添加水印" %}}
 
-為了給 DIB 文件加水印，我們將使用 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一個功能豐富、功能強大 易於使用的 Java 平台圖像處理和轉換 API。您可以直接從 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 並通過將以下配置添加到 pom.xml 將其安裝在基於 Maven 的項目中。
+水印是作者尋求最大程度地在互聯網上展示其作品的重要工具。在圖像上放置水印不僅可以識別其來源或版權所有者，還可以宣傳其創作者。這是因為包含作者姓名或互聯網資源名稱的簽名與圖像的數字副本一起分發。水印可以採用具有多種字體的文本形式，並且可以放置在圖像的邊緣。當水印是透明的時，它不會干擾觀看。然而，如果作者或版權所有者希望強調他們的名字，水印可能會與圖像部分重疊。為了給 DIB 圖像文件加水印，我們將使用 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一個功能豐富、功能強大 易於使用的 Java 平台圖像處理和轉換 API。您可以直接從 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 並通過將以下配置添加到 pom.xml 將其安裝在基於 Maven 的項目中。
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 

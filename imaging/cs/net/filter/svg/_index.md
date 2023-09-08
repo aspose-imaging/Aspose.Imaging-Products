@@ -16,7 +16,7 @@ description: Vyzkoušejte naše On-Premise API pro dokumenty k filtrování soub
 
 {{% blocks/products/pf/agp/content h2="Jak filtrovat soubory SVG pomocí C#" %}}
 
-K filtrování souborů ve formátu SVG použijeme [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API, které je funkčně bohaté, výkonné a snadno použitelné rozhraní API pro manipulaci a konverzi obrázků pro platformu C#. Otevřete správce balíčků [NuGet](https://www.nuget.org/packages/aspose.imaging), vyhledejte
+I ten nejdokonalejší obraz lze dále vylepšit nebo proměnit ve zcela jiné a jedinečné umělecké dílo. Použijte filtry pro dosažení široké škály obrazových efektů. Můžete například zostřit obrázek nebo naopak přidat rozostření, vyhladit jej nebo odstranit barevný šum. Filtry jsou také neocenitelné, když chcete svému obrazu dodat jedinečnost. Chcete-li toho dosáhnout, použijte požadovaný efekt nebo zkombinujte různé efekty. Tento přístup umožňuje vylepšit barevné přechody, eliminovat šum a současně zvýšit ostrost okrajů objektů na fotografii. K filtrování souborů ve formátu SVG použijeme [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API, které je funkčně bohaté, výkonné a snadno použitelné rozhraní API pro manipulaci a konverzi obrázků pro platformu C#. Otevřete správce balíčků [NuGet](https://www.nuget.org/packages/aspose.imaging), vyhledejte
  **Aspose.Imaging** a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz konzole Správce balíčků" offSpacer="true" %}}

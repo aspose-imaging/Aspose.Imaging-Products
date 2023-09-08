@@ -16,7 +16,7 @@ description: Essayez nos API de document sur site pour fusionner des fichiers WM
 
 {{% blocks/products/pf/agp/content h2="Comment fusionner des fichiers WMF à l'aide de Python" %}}
 
-Afin de fusionner les fichiers WMF, nous utiliserons [Aspose.Imaging for Python via .NET](/imaging/fr/python-net) API qui est une API de manipulation et de conversion d'images riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme Python. Vous pouvez l'installer en utilisant la commande suivante à partir de votre commande système.
+Si vous souhaitez laisser libre cours à votre créativité, c'est le moment d'utiliser un collage d'images. Cette fonction vous permettra de fusionner des photos et des images même si les fichiers sources sont de formats différents. Un excellent moyen d’attirer l’attention sur votre portfolio est d’utiliser des papiers peints photo avec des images ou des motifs répétitifs. Dans ce cas, les images peuvent être combinées dans les directions horizontale et verticale. Dans le cas où vous avez besoin de démontrer le résultat du traitement d'un fichier, vous pouvez facilement fusionner deux images : avant et après l'application de l'effet photo. Afin de fusionner des fichiers WMF, nous utiliserons [Aspose.Imaging for Python via .NET](/imaging/fr/python-net) API qui est une API de manipulation et de conversion d'images riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme Python. Vous pouvez l'installer en utilisant la commande suivante à partir de votre commande système.
 
 {{% blocks/products/pf/agp/code-block title="La ligne de commande système" offSpacer="true" %}}
 

@@ -16,7 +16,7 @@ description: Java 애플리케이션에서 APNG 파일을 자르려면 온프레
 
 {{% blocks/products/pf/agp/content h2="Java을 사용하여 APNG 파일을 자르는 방법" %}}
 
-APNG 파일을 자르기 위해 다음을 사용합니다. [자바용 Aspose.Imaging](https://products.aspose.com/imaging/java) 기능이 풍부하고 강력하며 사용하기쉬운 Java 플랫폼용 이미지 조작 및 변환 API인 API입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.[메이븐(https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 다음 구성을 pom.xml에 추가하여 Maven 기반 프로젝트 내에 설치합니다.
+웹페이지를 방문하는 사용자의 관심을 즉시 사로잡으려면 관심을 끄는 요소를 이미지 중앙에 배치하세요. 때로는 사진의 기본 주제를 방해하는 불필요한 요소를 완전히 제거하는 것이 더 효과적일 때도 있습니다. 이를 위해서는 Java 라이브러리에서 제공하는 이미지 자르기 기능을 활용하세요. 초점을 둘러싸는 직사각형 영역의 좌표를 지정하거나 사진 가장자리의 이동을 표시하여 이미지의 필수 부분을 선택함으로써 이를 수행할 수 있습니다. 이러한 방식으로 이미지 자르기를 통해 관련 없는 요소를 제거하고 주요 피사체를 강조합니다. APNG 파일을 자르기 위해 다음을 사용하겠습니다. [자바용 Aspose.Imaging](https://products.aspose.com/imaging/java) 기능이 풍부하고 강력하며 사용하기쉬운 Java 플랫폼용 이미지 조작 및 변환 API인 API입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.[메이븐(https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 다음 구성을 pom.xml에 추가하여 Maven 기반 프로젝트 내에 설치합니다.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 

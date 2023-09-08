@@ -16,7 +16,7 @@ description: Coba API dokumen Lokal kami untuk Melihat file EMF di .NET Framewor
 
 {{% blocks/products/pf/agp/content h2="Cara Melihat gambar EMF Menggunakan C#" %}}
 
-Untuk melihat file EMF, kami akan menggunakan [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API yang kaya fitur, kuat, dan mudah digunakan manipulasi gambar dan konversi API untuk platform C#. Membuka [NuGet](https://www.nuget.org/packages/aspose.imaging) manajer paket, cari **Aspose.Imaging** dan menginstal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
+Kami sering menerima gambar dalam format yang kurang umum sebagai bahan sumber. Untuk melihat gambar tersebut selanjutnya, diperlukan program khusus. Agar tidak memikirkan masalah ini dan menggunakan waktu untuk menyelesaikan masalah untuk tugas yang lebih kreatif, gunakan fungsi perpustakaan grafis C#. Dengan mengonversi gambar tersebut ke file dengan format yang lebih populer, Anda dapat membukanya di program tampilan gambar standar untuk platform Anda. Untuk melihat file EMF, kami akan menggunakan [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API yang kaya fitur, kuat, dan mudah digunakan manipulasi gambar dan konversi API untuk platform C#. Membuka [NuGet](https://www.nuget.org/packages/aspose.imaging) manajer paket, cari **Aspose.Imaging** dan menginstal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Perintah Konsol Manajer Paket" offSpacer="true" %}}
 

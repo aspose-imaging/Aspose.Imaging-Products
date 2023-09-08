@@ -16,7 +16,7 @@ description: Wypróbuj nasze lokalne interfejsy API dokumentów, aby scalić pli
 
 {{% blocks/products/pf/agp/content h2="Jak scalić pliki JPG za pomocą C#" %}}
 
-Aby scalić pliki JPG, użyjemy [Aspose.Imaging dla .NET](https://products.aspose.com/imaging/net) API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do obróbki i konwersji obrazów dla platformy C#. Otwarty [NuGet](https://www.nuget.org/packages/aspose.imaging) menedżer pakietów, szukaj **Aspose.Obrazowanie** i zainstaluj. Możesz również użyć następującego polecenia z konsoli Menedżera pakietów.
+Jeśli chcesz puścić wodze fantazji, nadszedł czas, aby skorzystać z kolażu obrazów. Ta funkcja umożliwia łączenie zdjęć i obrazów, nawet jeśli pliki źródłowe mają różne formaty. Świetnym sposobem na zwrócenie uwagi na swoje portfolio jest zastosowanie fototapet z powtarzającymi się obrazami lub wzorami. W takim przypadku obrazy można łączyć zarówno w kierunku poziomym, jak i pionowym. Jeśli chcesz zademonstrować wynik obróbki pliku, możesz łatwo połączyć dwa obrazy: przed i po zastosowaniu efektu fotograficznego. Aby połączyć pliki JPG, użyjemy [Aspose.Imaging dla .NET](https://products.aspose.com/imaging/net) API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do obróbki i konwersji obrazów dla platformy C#. Otwarty [NuGet](https://www.nuget.org/packages/aspose.imaging) menedżer pakietów, szukaj **Aspose.Obrazowanie** i zainstaluj. Możesz również użyć następującego polecenia z konsoli Menedżera pakietów.
 
 {{% blocks/products/pf/agp/code-block title="Polecenie konsoli menedżera pakietów" offSpacer="true" %}}
 

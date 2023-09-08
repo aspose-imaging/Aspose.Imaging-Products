@@ -16,7 +16,7 @@ description: オンプレミスドキュメントAPIを試して、.NET Framewor
 
 {{% blocks/products/pf/agp/content h2="C#を使用してDJVUファイルをマージする方法" %}}
 
-DJVUファイルをマージするために、 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) 機能が豊富で強力で使いやすいC＃プラットフォーム用の画像操作および変換APIであるAPI。開ける [NuGet](https://www.nuget.org/packages/aspose.imaging) パッケージマネージャー、検索 ** Aspose.Imaging ** とインストールします。パッケージマネージャーコンソールから次のコマンドを使用することもできます。
+創造力を発揮したい場合は、画像コラージュを使用してください。この機能を使用すると、ソース ファイルの形式が異なる場合でも、写真と画像を結合できます。ポートフォリオに注目を集めるための優れた方法は、繰り返しの画像やパターンを含む写真の壁紙を使用することです。この場合、画像は水平方向と垂直方向の両方で結合できます。ファイルの処理結果をデモする必要がある場合は、写真効果の適用前と適用後の 2 つの画像を簡単に結合できます。 DJVU ファイルをマージするには、次を使用します。 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) 機能が豊富で強力で使いやすいC＃プラットフォーム用の画像操作および変換APIであるAPI。開ける [NuGet](https://www.nuget.org/packages/aspose.imaging) パッケージマネージャー、検索 ** Aspose.Imaging ** とインストールします。パッケージマネージャーコンソールから次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title ="パッケージマネージャーコンソールコマンド" offSpacer = "true"%}}
 

@@ -16,7 +16,7 @@ description: Išbandykite mūsų „On-Premise“ dokumentų API, kad peržiūr�
 
 {{% blocks/products/pf/agp/content h2="Kaip peržiūrėti WMF vaizdus naudojant Java" %}}
 
-Norėdami peržiūrėti WMF failus, naudosime [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo manipuliavimo ir konvertavimo API, skirta Java platformai. Naujausią jos versiją galite atsisiųsti tiesiai iš [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) ir įdiekite jį savo Maven pagrįstame projekte, pridėdami toliau nurodytas konfigūracijas prie pom.xml.
+Kaip šaltinio medžiagą dažnai gauname mažiau paplitusių formatų vaizdus. Norint vėliau peržiūrėti tokius vaizdus, ​​reikia specialių programų. Kad negalvotumėte apie šią problemą ir išnaudotumėte laiką problemos sprendimui kūrybiškesnėms užduotims, naudokite Java grafinės bibliotekos funkcijas. Konvertuodami tokius vaizdus į populiaresnių formatų failus, galite juos atidaryti standartinėje jūsų platformai skirtoje vaizdų peržiūros programoje. Norėdami peržiūrėti WMF failus, naudosime [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo manipuliavimo ir konvertavimo API, skirta Java platformai. Naujausią jos versiją galite atsisiųsti tiesiai iš [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) ir įdiekite jį savo Maven pagrįstame projekte, pridėdami toliau nurodytas konfigūracijas prie pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 

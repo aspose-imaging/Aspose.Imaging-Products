@@ -16,7 +16,7 @@ description: .NET Framework, .NET Core, Windows 애플리케이션, ASP.NET 웹 
 
 {{% blocks/products/pf/agp/content h2="Java을 사용하여 PNG 파일을 조정하는 방법" %}}
 
-PNG 파일을 조정하기 위해 다음을 사용합니다. [자바용 Aspose.Imaging](https://products.aspose.com/imaging/java) 기능이 풍부하고 강력하며 사용하기쉬운 Java 플랫폼용 이미지 조작 및 변환 API인 API입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.[메이븐(https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 다음 구성을 pom.xml에 추가하여 Maven 기반 프로젝트 내에 설치합니다.
+경험이 가장 많은 사진작가라도 촬영 중에 실수를 하거나 불리한 조명 조건에 직면할 수 있습니다. 이러한 상황은 이미지 결함으로 이어질 수 있지만, 나쁜 사진에도 기회가 있습니다. Java 라이브러리를 사용하면 밝기, 대비 및 색상 감마를 조정하여 이러한 문제를 프로그래밍 방식으로 수정할 수 있습니다. 사진이 너무 어두워지면 밝기를 높이면 어두운 부분이 밝아지고 이전에 숨겨진 세부 사항이 표시됩니다. 대비를 조정하면 밝은 부분과 어두운 부분의 차이가 증가하여 밝기 범위가 확장되어 향상된 이미지를 얻을 수 있습니다. 인공 조명 아래에서 사진을 촬영하여 원치 않는 색조가 나온 경우 색상 감마 조정을 활용하여 화이트 밸런스를 수정하세요. PNG 파일을 조정하기 위해 다음을 사용하겠습니다. [자바용 Aspose.Imaging](https://products.aspose.com/imaging/java) 기능이 풍부하고 강력하며 사용하기쉬운 Java 플랫폼용 이미지 조작 및 변환 API인 API입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.[메이븐(https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 다음 구성을 pom.xml에 추가하여 Maven 기반 프로젝트 내에 설치합니다.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 

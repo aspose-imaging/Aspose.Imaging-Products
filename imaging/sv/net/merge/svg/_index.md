@@ -16,7 +16,7 @@ description: Prova våra lokala dokument-API:er för att slå samman SVG-filer p
 
 {{% blocks/products/pf/agp/content h2="Hur man slår ihop SVG-filer med C#" %}}
 
-För att slå samman SVG-filer kommer vi att använda [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API som är ett funktionsrikt, kraftfullt och lättanvänt API för bildmanipulation och konvertering för C#-plattformen. Öppna [NuGet](https://www.nuget.org/packages/aspose.imaging) pakethanteraren, sök efter
+Om du vill låta din kreativitet flöda är det här dags att använda ett bildcollage. Denna funktion låter dig slå samman foton och bilder även om källfilerna har olika format. Ett bra sätt att uppmärksamma din portfölj är att använda fototapeter med återkommande bilder eller mönster. I det här fallet kan bilder kombineras både i horisontella och vertikala riktningar. I händelse av att du behöver demonstrera resultatet av att bearbeta en fil kan du enkelt slå samman två bilder: före och efter applicering av fotoeffekten. För att slå samman SVG-filer kommer vi att använda [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API som är ett funktionsrikt, kraftfullt och lättanvänt API för bildmanipulation och konvertering för C#-plattformen. Öppna [NuGet](https://www.nuget.org/packages/aspose.imaging) pakethanteraren, sök efter
  **Aspose.Imaging** och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Pakethanterarens konsolkommando" offSpacer="true" %}}

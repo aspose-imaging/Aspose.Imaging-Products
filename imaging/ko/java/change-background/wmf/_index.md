@@ -16,7 +16,7 @@ description: Java 애플리케이션의 WMF 파일에서 배경을 변경하려�
 
 {{% blocks/products/pf/agp/content h2="Java을 사용하여 WMF 파일의 배경을 변경하는 방법" %}}
 
-WMF 파일의 배경을 변경하려면 다음을 사용합니다. [자바용 Aspose.Imaging](https://products.aspose.com/imaging/java) 기능이 풍부하고 강력하며 사용하기쉬운 Java 플랫폼용 이미지 조작 및 변환 API인 API입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.[메이븐(https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 다음 구성을 pom.xml에 추가하여 Maven 기반 프로젝트 내에 설치합니다.
+이상적인 이미지를 얻으려면 배경을 변경해야 하는 경우가 많습니다. 원하는 WMF 형식 이미지 효과를 얻으려면 전경 개체를 그림의 나머지 부분에서 격리해야 합니다. 배경이 균일하면 자동 물체 감지가 가능합니다. 사진의 배경이 고르지 않거나 물체 분리가 어려운 경우 이미지에 사전 마킹을 하는 것이 좋습니다. 여기에는 의도한 개체가 있는 사진 내 직사각형 영역을 식별하고 해당 유형을 지정하는 작업이 포함됩니다. 이는 수동으로 수행하거나 Cloud API의 객체 인식 기능을 통해 자동으로 수행할 수 있습니다. 객체 선택 및 원본 배경 제거 후 새로운 배경을 적용하거나 투명도를 구현할 수 있습니다. WMF 파일의 배경을 변경하기 위해 다음을 사용합니다. [자바용 Aspose.Imaging](https://products.aspose.com/imaging/java) 기능이 풍부하고 강력하며 사용하기쉬운 Java 플랫폼용 이미지 조작 및 변환 API인 API입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.[메이븐(https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 다음 구성을 pom.xml에 추가하여 Maven 기반 프로젝트 내에 설치합니다.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
