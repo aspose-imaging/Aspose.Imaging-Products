@@ -16,7 +16,7 @@ description: Išbandykite „On-Premise“ dokumentų API, kad sujungtumėte ODG
 
 {{% blocks/products/pf/agp/content h2="Kaip sujungti ODG failus naudojant Python" %}}
 
-Norėdami sujungti ODG failus, naudosime [Aspose.Imaging for Python per .NET](/imaging/lt/python-net) API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta Python platformai. Jį galite įdiegti naudodami šią komandą iš savo sistemos komandos.
+Jei norite paleisti savo kūrybiškumą, pats laikas naudoti vaizdo koliažą. Ši funkcija leis sujungti nuotraukas ir vaizdus, ​​net jei šaltinio failai yra skirtingų formatų. Puikus būdas atkreipti dėmesį į savo portfolio – naudoti fototapetus su pasikartojančiais vaizdais ar raštais. Tokiu atveju vaizdus galima derinti tiek horizontalia, tiek vertikalia kryptimis. Jei jums reikia parodyti failo apdorojimo rezultatą, galite lengvai sujungti du vaizdus: prieš ir po to, kai pritaikysite nuotraukos efektą. Norėdami sujungti ODG failus, naudosime [Aspose.Imaging for Python per .NET](/imaging/lt/python-net) API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta Python platformai. Jį galite įdiegti naudodami šią komandą iš savo sistemos komandos.
 
 {{% blocks/products/pf/agp/code-block title="Sistemos komandų eilutė" offSpacer="true" %}}
 

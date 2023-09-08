@@ -16,7 +16,7 @@ description: Pruebe nuestras API de documentos locales para ver archivos CDR en 
 
 {{% blocks/products/pf/agp/content h2="Cómo ver imágenes CDR usando Java" %}}
 
-Para ver los archivos CDR, usaremos [Aspose.Imaging para Java](https://products.aspose.com/imaging/java) API que es una API de conversióny manipulación de imágenes rica en funciones, potente y fácil de usar para la plataforma Java. Puedes descargar su última versión directamente desde [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) e instálelo dentro de su proyecto basado en Maven agregando las siguientes configuraciones al pom.xml.
+A menudo recibimos imágenes en formatos menos comunes como material fuente. Para la visualización posterior de dichas imágenes, se requieren programas especiales. Para no pensar en este problema y aprovechar el tiempo para resolver el problema para tareas más creativas, utilice las funciones de la biblioteca gráfica Java. Al convertir dichas imágenes a archivos de formatos más populares, puede abrirlas en el programa de visualización de imágenes estándar para su plataforma. Para ver archivos CDR, usaremos [Aspose.Imaging para Java](https://products.aspose.com/imaging/java) API que es una API de conversióny manipulación de imágenes rica en funciones, potente y fácil de usar para la plataforma Java. Puedes descargar su última versión directamente desde [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) e instálelo dentro de su proyecto basado en Maven agregando las siguientes configuraciones al pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repositorio" offSpacer="true" %}}
 

@@ -16,7 +16,7 @@ description: 尝试使用我们的本地文档 API 更改 Java 应用程序上 D
 
 {{% blocks/products/pf/agp/content h2="如何使用 Java 删除 DICOM 文件中的背景" %}}
 
-为了去除 DICOM 文件中的背景，我们将使用 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一个功能丰富、功能强大 易于使用的 Java 平台图像处理和转换 API。您可以直接从 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
+从图像中去除背景涉及隔离前景对象，这是一项需要对象识别的任务。存在多种方法来识别 DICOM 格式照片中的对象。对于具有统一颜色背景的简单图像，自动方法就足够了。然而，对于具有多个或部分合并人物的照片，预先标记对象就变得必要。这涉及指定要删除的矩形区域和对象类型。在复杂的情况下，Cloud API 可以实现自动对象检测。 Cloud API 提供了一个云应用程序，能够识别照片中的对象，利用生成的轮廓来去除背景。去除后，可以平滑图形留下的边缘以提高图像质量。为了删除 DICOM 文件中的背景，我们将使用 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一个功能丰富、功能强大 易于使用的 Java 平台图像处理和转换 API。您可以直接从 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
 并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}

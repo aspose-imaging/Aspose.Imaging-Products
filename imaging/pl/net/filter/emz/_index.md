@@ -16,7 +16,7 @@ description: Wypróbuj nasze lokalne interfejsy API dokumentów, aby filtrować 
 
 {{% blocks/products/pf/agp/content h2="Jak filtrować pliki EMZ za pomocą C#" %}}
 
-Aby filtrować pliki EMZ, użyjemy [Aspose.Imaging dla .NET](https://products.aspose.com/imaging/net) API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do obróbki i konwersji obrazów dla platformy C#. Otwarty [NuGet](https://www.nuget.org/packages/aspose.imaging) menedżer pakietów, szukaj **Aspose.Obrazowanie** i zainstaluj. Możesz również użyć następującego polecenia z konsoli Menedżera pakietów.
+Nawet najdoskonalszy obraz można jeszcze bardziej ulepszyć lub przekształcić w zupełnie inne i niepowtarzalne dzieło sztuki. Zastosuj filtry, aby uzyskać szeroką gamę efektów graficznych. Można na przykład wyostrzyć obraz lub odwrotnie, dodać rozmycie, wygładzić go lub wyeliminować szum kolorów. Filtry są również nieocenione, gdy chcesz nadać swojemu obrazowi wyjątkowości. Aby to osiągnąć, zastosuj pożądany efekt lub połącz różne efekty. Takie podejście pozwala udoskonalić przejścia kolorów, wyeliminować szumy, a jednocześnie poprawić ostrość krawędzi obiektów na zdjęciu. Aby filtrować pliki w formacie EMZ, użyjemy [Aspose.Imaging dla .NET](https://products.aspose.com/imaging/net) API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do obróbki i konwersji obrazów dla platformy C#. Otwarty [NuGet](https://www.nuget.org/packages/aspose.imaging) menedżer pakietów, szukaj **Aspose.Obrazowanie** i zainstaluj. Możesz również użyć następującego polecenia z konsoli Menedżera pakietów.
 
 {{% blocks/products/pf/agp/code-block title="Polecenie konsoli menedżera pakietów" offSpacer="true" %}}
 

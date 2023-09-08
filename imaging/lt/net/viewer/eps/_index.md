@@ -16,7 +16,7 @@ description: Išbandykite mūsų „On-Premise“ dokumentų API, kad peržiūr�
 
 {{% blocks/products/pf/agp/content h2="Kaip peržiūrėti EPS vaizdus naudojant C#" %}}
 
-Norėdami peržiūrėti EPS failus, naudosime [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta C# platformai. Atviras [NuGet](https://www.nuget.org/packages/aspose.imaging) paketų tvarkyklė, ieškokite **Aspose.Imaging** ir įdiegti. Taip pat galite naudoti šią komandą iš paketų tvarkyklės konsolės.
+Kaip šaltinio medžiagą dažnai gauname mažiau paplitusių formatų vaizdus. Norint vėliau peržiūrėti tokius vaizdus, ​​reikia specialių programų. Kad negalvotumėte apie šią problemą ir išnaudotumėte laiką problemos sprendimui kūrybiškesnėms užduotims, naudokite C# grafinės bibliotekos funkcijas. Konvertuodami tokius vaizdus į populiaresnių formatų failus, galite juos atidaryti standartinėje jūsų platformai skirtoje vaizdų peržiūros programoje. Norėdami peržiūrėti EPS failus, naudosime [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta C# platformai. Atviras [NuGet](https://www.nuget.org/packages/aspose.imaging) paketų tvarkyklė, ieškokite **Aspose.Imaging** ir įdiegti. Taip pat galite naudoti šią komandą iš paketų tvarkyklės konsolės.
 
 {{% blocks/products/pf/agp/code-block title="Paketų tvarkytuvės konsolės komanda" offSpacer="true" %}}
 

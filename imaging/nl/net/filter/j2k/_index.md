@@ -16,7 +16,7 @@ description: Probeer onze On-Premise document-API's om J2K-bestanden te filteren
 
 {{% blocks/products/pf/agp/content h2="Hoe J2K-bestanden te filteren met C#" %}}
 
-Om J2K-bestanden te filteren, gebruiken we [Aspose.Imaging voor .NET](https://products.aspose.com/imaging/net) API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het C#-platform. Open [NuGet](https://www.nuget.org/packages/aspose.imaging) pakketbeheerder, zoek naar **Aspose.Imaging** en installeren. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
+Zelfs het meest perfecte beeld kan verder worden verbeterd of getransformeerd in een heel ander en uniek kunstwerk. Pas filters toe om een ​​breed scala aan beeldeffecten te bereiken. U kunt bijvoorbeeld een afbeelding scherper maken of juist vervagen, gladder maken of kleurruis elimineren. Filters zijn ook van onschatbare waarde als u uw afbeelding uniek wilt maken. Om dit te bereiken, past u het gewenste effect toe of combineert u verschillende effecten. Met deze aanpak kunt u kleurovergangen verfijnen, ruis elimineren en tegelijkertijd de scherpte van de randen van objecten in de foto verbeteren. Om J2K-bestanden te filteren, gebruiken we [Aspose.Imaging voor .NET](https://products.aspose.com/imaging/net) API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het C#-platform. Open [NuGet](https://www.nuget.org/packages/aspose.imaging) pakketbeheerder, zoek naar **Aspose.Imaging** en installeren. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 

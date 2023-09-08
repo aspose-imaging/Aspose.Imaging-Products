@@ -16,7 +16,7 @@ description: オンプレミスドキュメントAPIを試して、Javaアプリ
 
 {{% blocks/products/pf/agp/content h2="Javaを使用してODGファイルを切り抜く方法" %}}
 
-ODGファイルを切り抜くために、 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) 機能豊富で強力で使いやすいJava ラットフォーム用の画像操作および変換APIであるAPI。最新バージョンはから直接ダウンロードできます[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 次の構成をpom.xmlに追加して、Mavenベースのプロジェクトにインストールします。
+Web ページにアクセスしたユーザーを瞬時に魅了するには、注目を集める要素を画像の中央に配置します。場合によっては、写真の主要なテーマから気をそらす不必要な要素を完全に削除する方が効果的である場合があります。これを実現するには、Java ライブラリが提供する画像トリミング機能を利用します。これを実現するには、焦点を囲む長方形の領域の座標を指定するか、写真の端からの移動を指定して画像の重要な部分を選択します。このように、画像をトリミングすることで、不要な要素を排除し、主要な被写体を強調します。 ODG ファイルをトリミングするには、次を使用します。 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) 機能豊富で強力で使いやすいJava ラットフォーム用の画像操作および変換APIであるAPI。最新バージョンはから直接ダウンロードできます[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 次の構成をpom.xmlに追加して、Mavenベースのプロジェクトにインストールします。
 
 {{% blocks/products/pf/agp/code-block title = "Repository" offSpacer = "true"%}}
 

@@ -16,7 +16,7 @@ description: Išbandykite „On-Premise“ dokumentų API, kad galėtumėte naud
 
 {{% blocks/products/pf/agp/content h2="Kaip pilkos spalvos DNG failus naudojant C#" %}}
 
-Norėdami pilkos spalvos DNG failus naudoti, naudosime [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta C# platformai. Atviras [NuGet](https://www.nuget.org/packages/aspose.imaging) paketų tvarkyklė, ieškokite **Aspose.Imaging** ir įdiegti. Taip pat galite naudoti šią komandą iš paketų tvarkyklės konsolės.
+Ryškumas ir daugiaspalvis yra gražių vaizdų palydovai. Tačiau spalvotas spausdinimas ne visada įmanomas. Tokiais atvejais reikia konvertuoti nuotrauką į pilkos spalvos tonus. Be to, ši funkcija gali būti naudojama kaip nepriklausomas meninis metodas, padidinantis jūsų svetainės patrauklumą. Užuot apgailestaudami, kad per šį perėjimą prarandama spalvų informacija, kuri gali trukdyti suvokimui, naudokite ją savo naudai. Susikoncentruokite į vaizdo detales, paviršiaus tekstūras ir šviesių bei tamsių sričių sąveiką, kad sukurtumėte išskirtinę vizualinę patirtį. Norėdami pilkos spalvos DNG failus naudoti, naudosime [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta C# platformai. Atviras [NuGet](https://www.nuget.org/packages/aspose.imaging) paketų tvarkyklė, ieškokite **Aspose.Imaging** ir įdiegti. Taip pat galite naudoti šią komandą iš paketų tvarkyklės konsolės.
 
 {{% blocks/products/pf/agp/code-block title="Paketų tvarkytuvės konsolės komanda" offSpacer="true" %}}
 

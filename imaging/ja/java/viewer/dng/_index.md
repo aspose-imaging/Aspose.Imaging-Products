@@ -16,7 +16,7 @@ description: オンプレミスドキュメントAPIを試して、.NET Framewor
 
 {{% blocks/products/pf/agp/content h2="Javaを使用してDNG画像を表示する方法" %}}
 
-DNGファイルを表示するには、 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) 機能豊富で強力で使いやすいJava ラットフォーム用の画像操作および変換APIであるAPI。最新バージョンはから直接ダウンロードできます[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 次の構成をpom.xmlに追加して、Mavenベースのプロジェクトにインストールします。
+私たちはソース素材としてあまり一般的でない形式の画像を受け取ることがよくあります。このような画像を後で見るには、特別なプログラムが必要です。この問題について考えずに、問題を解決する時間をより創造的なタスクに費やすには、Java グラフィック ライブラリの関数を使用します。このような画像をより一般的な形式のファイルに変換すると、プラットフォームの標準の画像表示プログラムで開くことができます。 DNG ファイルを表示するには、次を使用します。 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) 機能豊富で強力で使いやすいJava ラットフォーム用の画像操作および変換APIであるAPI。最新バージョンはから直接ダウンロードできます[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 次の構成をpom.xmlに追加して、Mavenベースのプロジェクトにインストールします。
 
 {{% blocks/products/pf/agp/code-block title = "Repository" offSpacer = "true"%}}
 

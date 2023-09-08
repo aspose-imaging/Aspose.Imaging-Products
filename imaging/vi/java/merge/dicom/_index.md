@@ -16,7 +16,7 @@ description: Hãy thử các API tài liệu On-Premise của chúng tôi để 
 
 {{% blocks/products/pf/agp/content h2="Cách hợp nhất các tệp DICOM bằng Java" %}}
 
-Để hợp nhất các tệp DICOM, chúng tôi sẽ sử dụng [Aspose.Imaging cho Java] (https://products.aspose.com/imaging/java) API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng Java. Bạn có thể tải xuống phiên bản mới nhất của nó trực tiếp từ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) và cài đặt nó trong dự án dựa trên Maven của bạn bằng cách thêm các cấu hình sau vào pom.xml.
+Nếu bạn muốn thỏa sức sáng tạo thì đây là lúc sử dụng tính năng ghép ảnh. Chức năng này sẽ cho phép bạn hợp nhất ảnh và hình ảnh ngay cả khi các tệp nguồn có định dạng khác nhau. Một cách tuyệt vời để thu hút sự chú ý vào danh mục đầu tư của bạn là sử dụng hình nền ảnh có hình ảnh hoặc hoa văn lặp lại. Trong trường hợp này, hình ảnh có thể được kết hợp theo cả hướng ngang và dọc. Trong trường hợp bạn cần chứng minh kết quả xử lý tệp, bạn có thể dễ dàng hợp nhất hai hình ảnh: trước và sau khi áp dụng hiệu ứng ảnh. Để hợp nhất các tệp DICOM, chúng tôi sẽ sử dụng [Aspose.Imaging cho Java] (https://products.aspose.com/imaging/java) API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng Java. Bạn có thể tải xuống phiên bản mới nhất của nó trực tiếp từ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) và cài đặt nó trong dự án dựa trên Maven của bạn bằng cách thêm các cấu hình sau vào pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Kho" offSpacer="true"%}}
 

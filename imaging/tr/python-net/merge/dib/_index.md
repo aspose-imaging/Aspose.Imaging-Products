@@ -16,7 +16,7 @@ description: .NET Framework, .NET Core, Windows Uygulaması, ASP.NET Web Uygulam
 
 {{% blocks/products/pf/agp/content h2="Python Kullanarak DIB Dosyalarını Birleştirme" %}}
 
-DIB dosyalarını birleştirmek için kullanacağız Python platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan [Aspose.Imaging for Python via .NET](/imaging/tr/python-net) API. Sistem komutunuzdan aşağıdaki komutu kullanarak kurabilirsiniz.
+Yaratıcılığınızın çılgına dönmesine izin vermek istiyorsanız, o zaman resim kolajı kullanmanın tam zamanı. Bu işlev, kaynak dosyalar farklı formatlarda olsa bile fotoğrafları ve görüntüleri birleştirmenize olanak tanır. Portföyünüze dikkat çekmenin harika bir yolu, yinelenen resim veya desenlere sahip fotoğraf duvar kağıtları kullanmaktır. Bu durumda görüntüler hem yatay hem de dikey yönde birleştirilebilir. Bir dosyanın işlenmesinin sonucunu göstermeniz gerekiyorsa, iki görüntüyü kolayca birleştirebilirsiniz: fotoğraf efektini uygulamadan önce ve sonra. DIB dosyalarını birleştirmek için şunu kullanacağız: Python platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan [Aspose.Imaging for Python via .NET](/imaging/tr/python-net) API. Sistem komutunuzdan aşağıdaki komutu kullanarak kurabilirsiniz.
 
 {{%blocks/products/pf/agp/code-block title="Sistem komut satırı" offSpacer="true" %}}
 

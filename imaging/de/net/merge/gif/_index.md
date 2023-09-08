@@ -16,7 +16,7 @@ description: Probieren Sie unsere On-Premise-Dokument-APIs aus, um GIF-Dateien i
 
 {{% blocks/products/pf/agp/content h2="So führen Sie GIF-Dateien mit C# zusammen" %}}
 
-Um GIF-Dateien zusammenzuführen, verwenden wir [Aspose.Imaging für .NET](https://products.aspose.com/imaging/net) API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Bildbearbeitungs- und Konvertierungs-API für die C#-Plattform ist. Offen [NuGet](https://www.nuget.org/packages/aspose.imaging) Paketmanager, suche nach
+Wenn Sie Ihrer Kreativität freien Lauf lassen möchten, ist jetzt der richtige Zeitpunkt für eine Bildcollage. Mit dieser Funktion können Sie Fotos und Bilder zusammenführen, auch wenn die Quelldateien unterschiedliche Formate haben. Eine tolle Möglichkeit, die Aufmerksamkeit auf Ihr Portfolio zu lenken, ist der Einsatz von Fototapeten mit sich wiederholenden Bildern oder Mustern. In diesem Fall können Bilder sowohl in horizontaler als auch in vertikaler Richtung kombiniert werden. Für den Fall, dass Sie das Ergebnis der Verarbeitung einer Datei demonstrieren müssen, können Sie ganz einfach zwei Bilder zusammenführen: vor und nach der Anwendung des Fotoeffekts. Um GIF-Dateien zusammenzuführen, verwenden wir [Aspose.Imaging für .NET](https://products.aspose.com/imaging/net) API, die eine funktionsreiche, leistungsstarke und einfach zu verwendende Bildbearbeitungs- und Konvertierungs-API für die C#-Plattform ist. Offen [NuGet](https://www.nuget.org/packages/aspose.imaging) Paketmanager, suche nach
  **Aspose.Imaging** und installieren. Sie können auch den folgenden Befehl in der Paket-Manager-Konsole verwenden.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}

@@ -16,7 +16,7 @@ description: 嘗試使用我們的本地文檔 API 來合併 .NET Framework、.N
 
 {{% blocks/products/pf/agp/content h2="如何使用 C# 合併 OTG 文件" %}}
 
-為了合併 OTG 文件，我們將使用 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一個功能豐富、功能強大且易於使用的 C# 平台圖像處理和轉換 API。打開 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 並安裝。您也可以從包管理器控制台使用以下命令。
+如果您想讓您的創造力盡情發揮，那麼現在就是使用圖像拼貼的時候了。即使源文件格式不同，此功能也允許您合併照片和圖像。吸引人們注意您的作品集的一個好方法是使用帶有重複圖像或圖案的照片壁紙。在這種情況下，可以在水平和垂直方向上組合圖像。如果您需要演示處理文件的結果，您可以輕鬆合併兩個圖像：應用照片效果之前和之後。為了合併 OTG 文件，我們將使用 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一個功能豐富、功能強大且易於使用的 C# 平台圖像處理和轉換 API。打開 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 並安裝。您也可以從包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 

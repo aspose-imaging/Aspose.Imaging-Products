@@ -16,7 +16,7 @@ description: 嘗試使用我們的本地文檔 API 來查看 .NET Framework、.N
 
 {{% blocks/products/pf/agp/content h2="如何使用 Java 查看 DNG 圖像" %}}
 
-為了查看 DNG 文件，我們將使用 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一個功能豐富、功能強大 易於使用的 Java 平台圖像處理和轉換 API。您可以直接從 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 並通過將以下配置添加到 pom.xml 將其安裝在基於 Maven 的項目中。
+我們經常收到不太常見格式的圖像作為源材料。為了隨後查看此類圖像，需要特殊的程序。為了不去思考這個問題，而將時間用於解決更具創造性的任務，請使用 Java 圖形庫的功能。通過將此類圖像轉換為更流行的格式的文件，您可以在適合您平台的標準圖像查看程序中打開它們。為了查看 DNG 文件，我們將使用 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一個功能豐富、功能強大 易於使用的 Java 平台圖像處理和轉換 API。您可以直接從 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 並通過將以下配置添加到 pom.xml 將其安裝在基於 Maven 的項目中。
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 

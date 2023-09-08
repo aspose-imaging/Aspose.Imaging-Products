@@ -16,7 +16,7 @@ description: 尝试使用我们的本地文档 API 来查看 .NET Framework、.N
 
 {{% blocks/products/pf/agp/content h2="如何使用 C# 查看 DICOM 图像" %}}
 
-为了查看 DICOM 文件，我们将使用 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一个功能丰富、功能强大 易于使用的 C# 平台图像处理和转换 API。打开 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 并安装。您还可以从包管理器控制台使用以下命令。
+我们经常收到不太常见格式的图像作为源材料。为了随后查看此类图像，需要特殊的程序。为了不去思考这个问题，而将时间用于解决更具创造性的任务，请使用 C# 图形库的功能。通过将此类图像转换为更流行的格式的文件，您可以在适合您平台的标准图像查看程序中打开它们。为了查看 DICOM 文件，我们将使用 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一个功能丰富、功能强大 易于使用的 C# 平台图像处理和转换 API。打开 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 并安装。您还可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 

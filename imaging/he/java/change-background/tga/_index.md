@@ -16,7 +16,7 @@ description: נסה את ממשקי ה-API של מסמכים מקומיים כד
 
 {{% blocks/products/pf/agp/content h2="כיצד לשנות רקע בקבצים TGA באמצעות Java" %}}
 
-כדי לשנות רקע בקבצי TGA, נשתמש [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API שהוא עשיר בתכונות, חזק וקל לשימוש למניפולציה והמרה של תמונות עבור פלטפורמת Java. אתה יכול להוריד את הגרסה האחרונה שלו ישירות מ-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) ולהתקין אותה בתוך ה-Maven שלך פרויקט מבוסס על ידי הוספת התצורות הבאות לקובץ pom.xml.
+לעתים קרובות, השגת התמונה האידיאלית דורשת שינוי הרקע. כדי להשיג את אפקט התמונה הרצוי בפורמט TGA, יש לבודד אובייקטים בחזית משאר התמונה. זיהוי אובייקטים אוטומטי אפשרי אם הרקע אחיד. אם הרקע של התמונה אינו אחיד או הפרדת אובייקטים מאתגרת, מומלץ לסמן מראש את התמונה. זה כרוך בזיהוי אזורים מלבניים בתוך התמונה שבהם שוכנים האובייקטים המיועדים וציון סוגיהם. ניתן לעשות זאת באופן ידני או אוטומטי באמצעות תכונת זיהוי האובייקטים של Cloud API. לאחר בחירת אובייקט והסרת רקע מקורי, ניתן להחיל רקע חדש או ליישם שקיפות. כדי לשנות רקע בקבצים TGA, נשתמש [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API שהוא עשיר בתכונות, חזק וקל לשימוש למניפולציה והמרה של תמונות עבור פלטפורמת Java. אתה יכול להוריד את הגרסה האחרונה שלו ישירות מ-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) ולהתקין אותה בתוך ה-Maven שלך פרויקט מבוסס על ידי הוספת התצורות הבאות לקובץ pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="מאגר" offSpacer="true" %}}
 

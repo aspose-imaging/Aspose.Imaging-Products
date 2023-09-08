@@ -16,7 +16,7 @@ description: Vyzkoušejte naše On-Premise API pro dokumenty k zobrazení soubor
 
 {{% blocks/products/pf/agp/content h2="Jak zobrazit obrázky JPG pomocí C#" %}}
 
-K zobrazení souborů JPG použijeme [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API, které je funkčně bohaté, výkonné a snadno použitelné rozhraní API pro manipulaci a konverzi obrázků pro platformu C#. Otevřete správce balíčků [NuGet](https://www.nuget.org/packages/aspose.imaging), vyhledejte
+Jako podklady často dostáváme obrázky v méně obvyklých formátech. Pro následné prohlížení takových obrázků jsou zapotřebí speciální programy. Abyste na tento problém nemysleli a čas na řešení problému využili pro kreativnější úkoly, využijte funkcí grafické knihovny C#. Převedením takových obrázků na soubory populárnějších formátů je můžete otevřít ve standardním programu pro prohlížení obrázků pro vaši platformu. K zobrazení souborů JPG použijeme [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API, které je funkčně bohaté, výkonné a snadno použitelné rozhraní API pro manipulaci a konverzi obrázků pro platformu C#. Otevřete správce balíčků [NuGet](https://www.nuget.org/packages/aspose.imaging), vyhledejte
  **Aspose.Imaging** a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz konzole Správce balíčků" offSpacer="true" %}}

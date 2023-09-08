@@ -16,7 +16,7 @@ description: オンプレミスドキュメントAPIを試して、Javaアプリ
 
 {{% blocks/products/pf/agp/content h2="Javaを使用してICOファイルをマージする方法" %}}
 
-ICOファイルをマージするために、 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) 機能豊富で強力で使いやすいJava ラットフォーム用の画像操作および変換APIであるAPI。最新バージョンはから直接ダウンロードできます[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 次の構成をpom.xmlに追加して、Mavenベースのプロジェクトにインストールします。
+創造力を発揮したい場合は、画像コラージュを使用してください。この機能を使用すると、ソース ファイルの形式が異なる場合でも、写真と画像を結合できます。ポートフォリオに注目を集めるための優れた方法は、繰り返しの画像やパターンを含む写真の壁紙を使用することです。この場合、画像は水平方向と垂直方向の両方で結合できます。ファイルの処理結果をデモする必要がある場合は、写真効果の適用前と適用後の 2 つの画像を簡単に結合できます。 ICO ファイルをマージするには、次を使用します。 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) 機能豊富で強力で使いやすいJava ラットフォーム用の画像操作および変換APIであるAPI。最新バージョンはから直接ダウンロードできます[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 次の構成をpom.xmlに追加して、Mavenベースのプロジェクトにインストールします。
 
 {{% blocks/products/pf/agp/code-block title = "Repository" offSpacer = "true"%}}
 

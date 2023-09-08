@@ -16,7 +16,7 @@ description: נסה את ממשקי ה-API של מסמכים מקומיים כד
 
 {{% blocks/products/pf/agp/content h2="כיצד להציג תמונות PNG באמצעות Java" %}}
 
-על מנת לצפות בקבצי PNG, נשתמש [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API שהוא עשיר בתכונות, חזק וקל לשימוש למניפולציה והמרה של תמונות עבור פלטפורמת Java. אתה יכול להוריד את הגרסה האחרונה שלו ישירות מ-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) ולהתקין אותה בתוך ה-Maven שלך פרויקט מבוסס על ידי הוספת התצורות הבאות לקובץ pom.xml.
+לעתים קרובות אנו מקבלים תמונות בפורמטים פחות נפוצים כחומרי מקור. לצפייה מאוחרת בתמונות כאלה, נדרשות תוכניות מיוחדות. כדי לא לחשוב על בעיה זו ולנצל את הזמן כדי לפתור את הבעיה למשימות יצירתיות יותר, השתמש בפונקציות של הספרייה הגרפית Java. על ידי המרת תמונות כאלה לקבצים בפורמטים פופולריים יותר, אתה יכול לפתוח אותם בתוכנית צפייה בתמונות הסטנדרטית עבור הפלטפורמה שלך. על מנת לצפות בקבצי PNG, נשתמש [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API שהוא עשיר בתכונות, חזק וקל לשימוש למניפולציה והמרה של תמונות עבור פלטפורמת Java. אתה יכול להוריד את הגרסה האחרונה שלו ישירות מ-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) ולהתקין אותה בתוך ה-Maven שלך פרויקט מבוסס על ידי הוספת התצורות הבאות לקובץ pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="מאגר" offSpacer="true" %}}
 

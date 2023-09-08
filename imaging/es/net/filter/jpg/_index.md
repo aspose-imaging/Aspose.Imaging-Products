@@ -16,7 +16,7 @@ description: Pruebe nuestras API de documentos locales para filtrar archivos JPG
 
 {{% blocks/products/pf/agp/content h2="Cómo filtrar archivos JPG usando C#" %}}
 
-Para filtrar archivos JPG, usaremos [Aspose.Imaging para .NET](https://products.aspose.com/imaging/net) API, que es una API de conversión y manipulación de imágenes rica en funciones, potente y fácil de usar para la plataforma C#. Abierto[NuGet](https://www.nuget.org/packages/aspose.imaging) administrador de paquetes, busque
+Incluso la imagen más perfecta se puede mejorar aún más o transformar en una obra de arte completamente diferente y única. Aplique filtros para lograr una amplia gama de efectos de imagen. Por ejemplo, puede enfocar una imagen o, por el contrario, agregarle desenfoque, suavizarla o eliminar el ruido de color. Los filtros también son invaluables cuando deseas darle singularidad a tu imagen. Para lograrlo, aplique el efecto deseado o combine diferentes efectos. Este enfoque le permite refinar los degradados de color, eliminar el ruido y, simultáneamente, mejorar la nitidez de los bordes de los objetos en la foto. Para filtrar archivos JPG, usaremos [Aspose.Imaging para .NET](https://products.aspose.com/imaging/net) API, que es una API de conversión y manipulación de imágenes rica en funciones, potente y fácil de usar para la plataforma C#. Abierto[NuGet](https://www.nuget.org/packages/aspose.imaging) administrador de paquetes, busque
  **Aspose.Imágenes** e instalar También puede usar el siguiente comando desde la Consola del administrador de paquetes.
 
 {{% blocks/products/pf/agp/code-block title="Comando de consola del administrador de paquetes" offSpacer="true" %}}

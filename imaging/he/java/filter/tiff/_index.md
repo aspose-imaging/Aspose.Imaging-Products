@@ -16,7 +16,7 @@ description: נסה את ממשקי ה-API של מסמכים מקומיים כד
 
 {{% blocks/products/pf/agp/content h2="כיצד לסנן קבצים ב-TIFF באמצעות Java" %}}
 
-כדי לסנן קבצים TIFF, נשתמש [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API שהוא עשיר בתכונות, חזק וקל לשימוש למניפולציה והמרה של תמונות עבור פלטפורמת Java. אתה יכול להוריד את הגרסה האחרונה שלו ישירות מ-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) ולהתקין אותה בתוך ה-Maven שלך פרויקט מבוסס על ידי הוספת התצורות הבאות לקובץ pom.xml.
+אפילו את התמונה המושלמת ביותר ניתן לשפר עוד יותר או להפוך ליצירת אמנות שונה וייחודית לחלוטין. החל מסננים כדי להשיג מגוון רחב של אפקטים של תמונה. לדוגמה, אתה יכול לחדד תמונה או להיפך, להוסיף טשטוש, להחליק אותה או לבטל רעשי צבע. מסננים הם גם יקרי ערך כאשר אתה רוצה להקנות ייחודיות לתמונה שלך. כדי להשיג זאת, החל את האפקט הרצוי או שלבו אפקטים שונים. גישה זו מאפשרת לך לחדד את מעברי הצבע, לחסל רעש, ובו זמנית לשפר את החדות של קצוות האובייקטים בתמונה. כדי לסנן קבצים TIFF, נשתמש [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API שהוא עשיר בתכונות, חזק וקל לשימוש למניפולציה והמרה של תמונות עבור פלטפורמת Java. אתה יכול להוריד את הגרסה האחרונה שלו ישירות מ-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) ולהתקין אותה בתוך ה-Maven שלך פרויקט מבוסס על ידי הוספת התצורות הבאות לקובץ pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="מאגר" offSpacer="true" %}}
 

@@ -16,7 +16,7 @@ description: Probeer onze On-Premise document-API's om DNG-bestanden samen te vo
 
 {{% blocks/products/pf/agp/content h2="Hoe DNG-bestanden samen te voegen met C#" %}}
 
-Om DNG-bestanden samen te voegen, gebruiken we [Aspose.Imaging voor .NET](https://products.aspose.com/imaging/net) API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het C#-platform. Open [NuGet](https://www.nuget.org/packages/aspose.imaging) pakketbeheerder, zoek naar **Aspose.Imaging** en installeren. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
+Als u uw creativiteit de vrije loop wilt laten, dan is dit het moment om een ​​beeldcollage te gebruiken. Met deze functie kunt u foto's en afbeeldingen samenvoegen, zelfs als de bronbestanden verschillende formaten hebben. Een geweldige manier om de aandacht op uw portfolio te vestigen, is door fotobehang te gebruiken met herhalende afbeeldingen of patronen. In dit geval kunnen afbeeldingen zowel in horizontale als verticale richting worden gecombineerd. In het geval dat u het resultaat van de verwerking van een bestand moet demonstreren, kunt u eenvoudig twee afbeeldingen samenvoegen: voor en na het toepassen van het foto-effect. Om DNG-bestanden samen te voegen, gebruiken we [Aspose.Imaging voor .NET](https://products.aspose.com/imaging/net) API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het C#-platform. Open [NuGet](https://www.nuget.org/packages/aspose.imaging) pakketbeheerder, zoek naar **Aspose.Imaging** en installeren. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 

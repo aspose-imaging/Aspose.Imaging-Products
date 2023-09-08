@@ -16,7 +16,7 @@ description: Experimente nossas APIs de documentos no local para cortar arquivos
 
 {{% blocks/products/pf/agp/content h2="Como cortar arquivos CMX usando C#" %}}
 
-Para cortar arquivos CMX, usaremos [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir [NuGet](https://www.nuget.org/packages/aspose.imaging) gerenciador de pacotes, procure por **Aspose.Imagem** e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
+Para cativar instantaneamente um usuário que visita sua página da web, posicione elementos que chamam a atenção no centro das imagens. Às vezes, é mais eficaz eliminar totalmente quaisquer elementos desnecessários que desviem o tema principal da foto. Para fazer isso, utilize a função de corte de imagem fornecida pela biblioteca C#. Você pode conseguir isso especificando as coordenadas de uma área retangular que abrange o ponto focal ou indicando mudanças nas bordas da foto para selecionar a parte essencial da imagem. Desta forma, através do recorte da imagem, eliminamos elementos irrelevantes e enfatizamos o assunto principal. Para cortar arquivos CMX, usaremos [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir [NuGet](https://www.nuget.org/packages/aspose.imaging) gerenciador de pacotes, procure por **Aspose.Imagem** e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
 
 {{% blocks/products/pf/agp/code-block title="Comando do Console do Gerenciador de Pacotes" offSpacer="true" %}}
 

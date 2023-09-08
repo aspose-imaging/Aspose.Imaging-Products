@@ -16,7 +16,7 @@ description: Experimente nossas APIs de documentos no local para exibir arquivos
 
 {{% blocks/products/pf/agp/content h2="Como visualizar imagens WEBP usando C#" %}}
 
-Para visualizar arquivos WEBP, usaremos [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir [NuGet](https://www.nuget.org/packages/aspose.imaging) gerenciador de pacotes, procure por **Aspose.Imagem** e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
+Freqüentemente recebemos imagens em formatos menos comuns como materiais de origem. Para visualização posterior de tais imagens, são necessários programas especiais. Para não pensar neste problema e aproveitar o tempo para resolvê-lo para tarefas mais criativas, utilize as funções da biblioteca gráfica C#. Ao converter essas imagens em arquivos de formatos mais populares, você pode abri-las no programa de visualização de imagens padrão para sua plataforma. Para visualizar arquivos WEBP, usaremos [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir [NuGet](https://www.nuget.org/packages/aspose.imaging) gerenciador de pacotes, procure por **Aspose.Imagem** e instalar. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
 
 {{% blocks/products/pf/agp/code-block title="Comando do Console do Gerenciador de Pacotes" offSpacer="true" %}}
 

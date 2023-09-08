@@ -16,7 +16,7 @@ description: 試試我們的 On-Premise 文檔 API 來壓縮 Java 應用程序�
 
 {{% blocks/products/pf/agp/content h2="如何使用 Java 壓縮 DICOM 文件" %}}
 
-為了壓縮 DICOM 文件，我們將使用 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一個功能豐富、功能強大 易於使用的 Java 平台圖像處理和轉換 API。您可以直接從 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 並通過將以下配置添加到 pom.xml 將其安裝在基於 Maven 的項目中。
+準備發布圖像涉及創意和技術方面，包括文件壓縮。雖然高分辨率圖像對於印刷或戶外廣告至關重要，但由於文件大小較大，它們可能會降低網絡性能。適當的圖像壓縮技術因目的和發布平台而異。大文件會減慢加載時間，尤其是在移動連接上，從而導致糟糕的用戶體驗。用戶可能會放棄加載時間過長的網站並尋求更快的替代方案。相反，過度的圖像壓縮會導致模糊和像素化，從而降低觀看體驗。正確選擇壓縮算法和比率對於在文件大小和圖像質量之間取得平衡至關重要。為了壓縮 DICOM 文件，我們將使用 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一個功能豐富、功能強大 易於使用的 Java 平台圖像處理和轉換 API。您可以直接從 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 並通過將以下配置添加到 pom.xml 將其安裝在基於 Maven 的項目中。
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 

@@ -16,7 +16,7 @@ description: JP2形式からファイルへのサンプルJava変換コード。
 
 {{% blocks/products/pf/agp/content h2="Javaを使用してJP2ファイルに透かしを入れる方法" %}}
 
-JP2ファイルに透かしを入れるために、 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) 機能豊富で強力で使いやすいJava ラットフォーム用の画像操作および変換APIであるAPI。最新バージョンはから直接ダウンロードできます[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 次の構成をpom.xmlに追加して、Mavenベースのプロジェクトにインストールします。
+ウォーターマークは、インターネット上で自分の作品を最大限に露出させたいと考えている著者にとって不可欠なツールです。画像に透かしを入れることは、その出典または著作権者を特定するだけでなく、その作成者を宣伝することにも役立ちます。これは、作成者の名前またはインターネット リソースの名前を含む署名が、画像のデジタル コピーと一緒に配布されるためです。透かしは、さまざまなフォントを使用したテキストの形式をとることができ、画像の端に配置できます。透かしが透明であれば、視聴を妨げることはありません。ただし、作者または著作権者が自分の名前を強調したい場合は、透かしが画像の一部に重なることがあります。 JP2 画像ファイルに透かしを入れるには、次を使用します。 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) 機能豊富で強力で使いやすいJava ラットフォーム用の画像操作および変換APIであるAPI。最新バージョンはから直接ダウンロードできます[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 次の構成をpom.xmlに追加して、Mavenベースのプロジェクトにインストールします。
 
 {{% blocks/products/pf/agp/code-block title = "Repository" offSpacer = "true"%}}
 

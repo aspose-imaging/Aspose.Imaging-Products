@@ -16,7 +16,7 @@ description: Hãy thử các API tài liệu On-Premise của chúng tôi để 
 
 {{% blocks/products/pf/agp/content h2="Cách xem hình ảnh ICO bằng C#" %}}
 
-Để xem các tệp ICO, chúng tôi sẽ sử dụng [Aspose.Imaging cho .NET] (https://products.aspose.com/imaging/net) API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C #. Mở [NuGet] (https://www.nuget.org/packages/aspose.imaging) quản lý gói, tìm kiếm ** Aspose.Imaging ** và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển Trình quản lý Gói.
+Chúng tôi thường nhận được hình ảnh ở các định dạng ít phổ biến hơn dưới dạng tài liệu nguồn. Để xem những hình ảnh như vậy sau này, cần có các chương trình đặc biệt. Để không phải suy nghĩ về vấn đề này và dành thời gian giải quyết vấn đề cho những nhiệm vụ sáng tạo hơn, hãy sử dụng các chức năng của thư viện đồ họa C#. Bằng cách chuyển đổi những hình ảnh đó thành các tệp có định dạng phổ biến hơn, bạn có thể mở chúng trong chương trình xem hình ảnh tiêu chuẩn dành cho nền tảng của mình. Để xem các tệp ICO, chúng tôi sẽ sử dụng [Aspose.Imaging cho .NET] (https://products.aspose.com/imaging/net) API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C #. Mở [NuGet] (https://www.nuget.org/packages/aspose.imaging) quản lý gói, tìm kiếm ** Aspose.Imaging ** và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển Trình quản lý Gói.
 
 {{% blocks/products/pf/agp/code-block title = "Lệnh Bảng điều khiển Trình quản lý Gói" offSpacer = "true"%}}
 

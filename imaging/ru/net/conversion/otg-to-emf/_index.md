@@ -1,15 +1,15 @@
 ﻿---
-title: Преобразование OTG в EMF с помощью C# 
+title: Преобразование изображений OTG в EMF с помощью C# 
 weight: 3920
 url: /ru/net/conversion/otg-to-emf/ 
 lang: ru
 langdirlevel: 2
 locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
-description: Пример кода для преобразования OTG в EMF C#. Используйте пример кода API для пакетного преобразования файлов OTG в EMF в VB.NET, Asp.NET или любом приложении на основе .NET.
+description: Пример кода для преобразования изображений OTG в EMF C#. Используйте пример кода API для пакетного преобразования файлов OTG в EMF в VB.NET, Asp.NET или любом приложении на основе .NET.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
-{{< blocks/products/pf/upper-banner h1="Преобразование OTG в EMF с помощью C#" h2="Преобразуйте OTG в EMF с помощью собственных API-интерфейсов .NET, не прибегая к редактору изображений или сторонним библиотекам." logoImageSrc="/imaging/images/imaging/aspose_imaging-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="EMF" pfName="Aspose.Imaging" subTitlepfName="для .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="APNG" >}}
+{{< blocks/products/pf/upper-banner h1="Преобразование изображений OTG в EMF с помощью C#" h2="Преобразуйте OTG в EMF с помощью собственных API-интерфейсов .NET, не прибегая к редактору изображений или сторонним библиотекам" logoImageSrc="/imaging/images/imaging/aspose_imaging-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="EMF" pfName="Aspose.Imaging" subTitlepfName="для .NET" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="APNG" >}}
 
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="для .NET" >}}
@@ -17,7 +17,7 @@ description: Пример кода для преобразования OTG в EM
 
 {{% blocks/products/pf/agp/content h2="Как преобразовать OTG в EMF с помощью C#" %}}
 
-Чтобы преобразовать OTG в EMF, мы будем использовать [Aspose.Imaging для .NET](https://products.aspose.com/imaging/net) API, который представляет собой многофункциональный, мощный и простой в использовании API для обработки и преобразования изображений для платформы C#. Открытым [NuGet](https://www.nuget.org/packages/aspose.imaging) менеджер пакетов, поиск **Aspose.Imaging** и установить. Вы также можете использовать следующую команду из консоли диспетчера пакетов.
+Казалось бы, преобразование форматов файлов — обыденная задача, с которой сталкивается каждый графический дизайнер. Однако не стоит пренебрегать важностью ее решения. От того, насколько быстро и качественно вы ее решите, может зависеть оценка вашей работы. Для полученных исходных изображений, как правило, требуется их конвертация в другие форматы — более подходящие для целей печати или публикации в Интернете. Исходное изображение, подготовленное в графическом редакторе, может быть также в векторном формате. В этом случае для публикации его нужно растеризовать и конвертировать в растровый формат. Сохранить изображение можно в формате без сжатия для наилучшего качества или преобразовать его в формат со сжатием без потерь, чтобы уменьшить размер файла. Для некоторых целей, например, публикации на интернет-сайте, доступна конвертация в форматы со сжатием с потерями. Специально разработанные алгоритмы сжатия данных для изображений позволяют (при сохранении приемлемого качества изображения) значительно уменьшать размер файла, что обеспечивает быструю загрузку файлов изображений из Интернета. Чтобы преобразовать OTG в EMF, мы будем использовать [Aspose.Imaging для .NET](https://products.aspose.com/imaging/net) API, который представляет собой многофункциональный, мощный и простой в использовании API для обработки и преобразования изображений для платформы C#. Откройте менеджер пакетов [NuGet](https://www.nuget.org/packages/aspose.imaging), найдите через поиск пакет **Aspose.Imaging** и установите его. Вы также можете использовать следующую команду из консоли диспетчера пакетов.
 
 {{% blocks/products/pf/agp/code-block title="Команда консоли диспетчера пакетов" offSpacer="true" %}}
 
@@ -43,10 +43,10 @@ PM> Install-Package Aspose.Imaging
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Загрузить файл OTG методом Image.Load
-+ Создайте и установите экземпляр требуемого подкласса ImageOptionsBase (например, BmpOptions, PngOptions и т. д.)
-+ Вызвать метод Image.Save
-+ Передать путь к файлу с расширением EMF и объектом класса ImageOptionsBase
++ загрузите файл OTG методом Image.Load;
++ создайте и установите экземпляр требуемого подкласса ImageOptionsBase (например, BmpOptions, PngOptions и т. д.);
++ вызовите метод Image.Save;
++ передайте путь к файлу с расширением EMF и объект класса ImageOptionsBase.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -54,23 +54,23 @@ PM> Install-Package Aspose.Imaging
 
 {{% blocks/products/pf/agp/text %}}
 
-Прежде чем запускать код примера преобразования, убедитесь, что выполнены следующие предварительные условия.
+Прежде чем запускать код примера преобразования, убедитесь, что выполнены следующие предварительные условия:
 
 {{% /blocks/products/pf/agp/text %}}
 
-- Microsoft Windows или совместимая ОС с .NET Framework, .NET Core, приложением Windows, веб-приложением ASP.NET.
-- Среда разработки, такая как Microsoft Visual Studio.
+- Microsoft Windows или совместимая ОС с .NET Framework, .NET Core, приложением Windows, веб-приложением ASP.NET;
+- среда разработки, такая как Microsoft Visual Studio;
 - Aspose.Imaging для .NET упоминается в вашем проекте.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{< blocks/imaging-app-widget
-        sectionTitle="Бесплатное приложение для конвертации OTG в EMF"
+        sectionTitle="Бесплатное приложение для конвертации изображений OTG в EMF"
         appName="Conversion"
         extension="OTG-to-EMF"
         label1="Выберите или перетащите мышью изображение формата OTG"
-        label2="Выберите формат и нажмите кнопку Конвертировать"
-        label3="Нажмите кнопку Скачать для скачивания EMF изображения"
+        label2="Выберите формат и нажмите кнопку `Конвертировать`"
+        label3="Нажмите кнопку `Скачать` для скачивания EMF изображения"
         checkFreeAppLabel="Посмотрите наши [примеры для конвертации OTG в EMF]"
         checkFreeAppLabelUrl="(https://products.aspose.app/imaging/ru/conversion/OTG-to-EMF)"
         showPreview="true">}}
@@ -97,7 +97,7 @@ PM> Install-Package Aspose.Imaging
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые преобразования" subTitle="Используя C#, можно легко конвертировать различные форматы, в том числе." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Другие поддерживаемые преобразования" subTitle="Используя C#, можно легко конвертировать различные форматы, в том числе:" >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/conversion/otg-to-bmp/" name="BMP" description="Растровое изображение" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="/imaging/ru/net/conversion/otg-to-gif/" name="GIF" description="Графический формат обмена" >}}

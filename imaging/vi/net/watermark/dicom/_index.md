@@ -16,7 +16,7 @@ description: Hãy thử các API tài liệu On-Premise của chúng tôi để 
 
 {{% blocks/products/pf/agp/content h2="Cách tạo hình mờ tệp DICOM bằng C#" %}}
 
-Để làm mờ tệp DICOM, chúng tôi sẽ sử dụng [Aspose.Imaging cho .NET] (https://products.aspose.com/imaging/net) API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C #. Mở [NuGet] (https://www.nuget.org/packages/aspose.imaging) quản lý gói, tìm kiếm ** Aspose.Imaging ** và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển Trình quản lý Gói.
+Hình mờ là một công cụ thiết yếu dành cho các tác giả muốn tác phẩm của họ được hiển thị tối đa trên internet. Việc đặt hình mờ trên hình ảnh không chỉ nhằm xác định nguồn gốc hoặc người giữ bản quyền mà còn để quảng bá cho người tạo ra hình ảnh đó. Điều này là do chữ ký chứa tên tác giả hoặc tên nguồn internet được phân phối cùng với bản sao kỹ thuật số của hình ảnh. Hình mờ có thể ở dạng văn bản với nhiều loại phông chữ và có thể được đặt ở cạnh của hình ảnh. Khi hình mờ trong suốt, nó không làm gián đoạn việc xem. Tuy nhiên, nếu tác giả hoặc người giữ bản quyền muốn nhấn mạnh tên của họ, hình mờ có thể chồng lên một phần hình ảnh. Để tạo hình mờ cho tệp hình ảnh DICOM, chúng tôi sẽ sử dụng [Aspose.Imaging cho .NET] (https://products.aspose.com/imaging/net) API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C #. Mở [NuGet] (https://www.nuget.org/packages/aspose.imaging) quản lý gói, tìm kiếm ** Aspose.Imaging ** và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển Trình quản lý Gói.
 
 {{% blocks/products/pf/agp/code-block title = "Lệnh Bảng điều khiển Trình quản lý Gói" offSpacer = "true"%}}
 

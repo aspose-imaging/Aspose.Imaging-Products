@@ -16,7 +16,7 @@ description: 试试我们的 On-Premise 文档 API 来合并 Java 应用程序�
 
 {{% blocks/products/pf/agp/content h2="如何使用 Java 调整 CMX 文件的大小" %}}
 
-为了调整 CMX 文件的大小，我们将使用 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一个功能丰富、功能强大 易于使用的 Java 平台图像处理和转换 API。您可以直接从 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
+构建网站是一项复杂的工作，每个元素都具有重要意义。填充网页过程中的一个关键方面是调整图像大小。通常，需要调整其尺寸并准备不同分辨率的图像或照片。例如，具有预览功能的图像库的页面需要小缩略图文件，而展示主图像的页面则需要高分辨率版本。对于较大的文件，调整大小对于减少总像素数至关重要，从而在不显着影响图像质量的情况下减小文件大小。在调整图像大小时，您还可以选择数据压缩程度，以在图像大小和质量之间取得平衡。减小图像尺寸可以缩短互联网的加载时间，从而增强网站上的用户浏览体验。 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一个功能丰富、功能强大 易于使用的 Java 平台图像处理和转换 API。您可以直接从 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
 并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}

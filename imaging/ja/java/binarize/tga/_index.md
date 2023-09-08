@@ -16,7 +16,7 @@ description: オンプレミスドキュメントAPIを試して、.NET Framewor
 
 {{% blocks/products/pf/agp/content h2="Javaを使用してTGAファイルを2値化する方法" %}}
 
-TGAファイルを2値化するために、 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) 機能豊富で強力で使いやすいJava ラットフォーム用の画像操作および変換APIであるAPI。最新バージョンはから直接ダウンロードできます[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 次の構成をpom.xmlに追加して、Mavenベースのプロジェクトにインストールします。
+カラーフィルムの発明は、写真の分野における重要なマイルストーンとなりました。しかし、古典的な写真は本質的に白黒の画像と結びついています。カメラには全色を捉える広範な技術的能力があるにもかかわらず、多くの人はモノクロを選択し、写真を白黒に変換します。このような場合、二値化関数が機能し、すべてのピクセルを二値値 (白は「0」、黒は「1」) に変換します。他のシナリオでは、この変換は芸術的な選択によって行われるのではなく、本や新聞に印刷するために白黒のイラストを準備するなど、実用的な選択によって行われます。 Java グラフィック ライブラリを使用すると、ピクセルの明るさのしきい値を指定できます。このしきい値を下回る輝度値を持つピクセルは黒になり、それを超えるピクセルは白になります。あるいは、周囲のピクセル値を考慮した適応型二値化手法を採用することもできます。このアプローチにより、結果として得られる白黒画像の色の境界間の移行がよりスムーズになります。 TGA ファイルをバイナリ化するには、次を使用します [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) 機能豊富で強力で使いやすいJava ラットフォーム用の画像操作および変換APIであるAPI。最新バージョンはから直接ダウンロードできます[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 次の構成をpom.xmlに追加して、Mavenベースのプロジェクトにインストールします。
 
 {{% blocks/products/pf/agp/code-block title = "Repository" offSpacer = "true"%}}
 

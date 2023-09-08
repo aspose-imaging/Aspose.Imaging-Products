@@ -16,7 +16,7 @@ description: .NET Framework, .NET Core, Windows 애플리케이션, ASP.NET 웹 
 
 {{% blocks/products/pf/agp/content h2="C#을 사용하여 ODG 이미지를 보는 방법" %}}
 
-ODG 파일을 보기 위해 다음을 사용합니다. [.NET용 Aspose.Imaging](https://products.aspose.com/imaging/net) 기능이 풍부하고 강력하며 사용하기 쉬운 C# 플랫폼용 이미지 조작 및 변환 API인 API입니다. 열려있는 [누겟](https://www.nuget.org/packages/aspose.imaging) 패키지 관리자, 검색 **아포즈.이미징** 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
+우리는 종종 덜 일반적인 형식의 이미지를 소스 자료로 받습니다. 이러한 이미지를 나중에 보려면 특별한 프로그램이 필요합니다. 이 문제에 대해 생각하지 않고 더 창의적인 작업을 위해 문제를 해결하는 데 시간을 사용하려면 C# 그래픽 라이브러리의 기능을 사용하십시오. 이러한 이미지를 보다 널리 사용되는 형식의 파일로 변환하면 해당 플랫폼에 맞는 표준 이미지 보기 프로그램에서 해당 이미지를 열 수 있습니다. ODG 파일을 보려면 다음을 사용합니다. [.NET용 Aspose.Imaging](https://products.aspose.com/imaging/net) 기능이 풍부하고 강력하며 사용하기 쉬운 C# 플랫폼용 이미지 조작 및 변환 API인 API입니다. 열려있는 [누겟](https://www.nuget.org/packages/aspose.imaging) 패키지 관리자, 검색 **아포즈.이미징** 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
 
 {{% blocks/products/pf/agp/code-block title="패키지 관리자 콘솔 명령" offSpacer="true" %}}
 

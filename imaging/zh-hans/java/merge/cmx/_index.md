@@ -16,7 +16,7 @@ description: 试试我们的 On-Premise 文档 API 来合并 Java 应用程序�
 
 {{% blocks/products/pf/agp/content h2="如何使用 Java 合并 CMX 文件" %}}
 
-为了合并 CMX 文件，我们将使用 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一个功能丰富、功能强大 易于使用的 Java 平台图像处理和转换 API。您可以直接从 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
+如果您想让您的创造力尽情发挥，那么现在就是使用图像拼贴的时候了。即使源文件格式不同，此功能也允许您合并照片和图像。吸引人们注意您的作品集的一个好方法是使用带有重复图像或图案的照片壁纸。在这种情况下，可以在水平和垂直方向上组合图像。如果您需要演示处理文件的结果，您可以轻松合并两个图像：应用照片效果之前和之后。为了合并 CMX 文件，我们将使用 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一个功能丰富、功能强大 易于使用的 Java 平台图像处理和转换 API。您可以直接从 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging)
 并通过将以下配置添加到 pom.xml 将其安装在基于 Maven 的项目中。
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}

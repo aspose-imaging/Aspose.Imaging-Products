@@ -16,7 +16,7 @@ description: .NET Framework, .NET Core, Windows 애플리케이션, ASP.NET 웹 
 
 {{% blocks/products/pf/agp/content h2="Java을 사용하여 JPG 파일을 만화화하는 방법" %}}
 
-JPG 파일을 만화화하기 위해 다음을 사용합니다. [자바용 Aspose.Imaging](https://products.aspose.com/imaging/java) 기능이 풍부하고 강력하며 사용하기쉬운 Java 플랫폼용 이미지 조작 및 변환 API인 API입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.[메이븐(https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 다음 구성을 pom.xml에 추가하여 Maven 기반 프로젝트 내에 설치합니다.
+만화 효과에는 고유한 매력이 있어 어린 시절의 향수를 불러일으키는 경우가 많습니다. 거의 모든 그래픽 디자인 기사에는 만화 이미지가 필수 요소로 통합되어 있습니다. 인물 사진 만화화, 조명 미세 조정, 흑백으로 변환, 색상 실험, 다양한 편집 기술 혼합, 정교한 이미지 효과 제작 등은 모두 AdjustBrightness, BinarizeFixed, Filter, RecreColor 및 ApplyMask와 같은 이미지 필터를 통해 달성할 수 있습니다. 이 필터는 로드된 원본 사진에 적용할 수 있습니다. 웹페이지 주제에 관계없이 만화 스타일 이미지는 일러스트레이션 목적으로 적합합니다. 과학 논문이 활기를 띠고 다양한 콘텐츠가 사용자의 관심을 끌게 되어 웹 사이트 트래픽이 증가합니다. JPG 파일을 만화화하기 위해 다음을 사용하겠습니다. [자바용 Aspose.Imaging](https://products.aspose.com/imaging/java) 기능이 풍부하고 강력하며 사용하기쉬운 Java 플랫폼용 이미지 조작 및 변환 API인 API입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.[메이븐(https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 다음 구성을 pom.xml에 추가하여 Maven 기반 프로젝트 내에 설치합니다.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 

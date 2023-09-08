@@ -16,7 +16,7 @@ description: 嘗試使用我們的本地文檔 API 更改 .NET Framework、.NET 
 
 {{% blocks/products/pf/agp/content h2="如何使用 C# 更改 TIFF 文件中的背景" %}}
 
-為了改變 TIFF 文件的背景，我們將使用 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一個功能豐富、功能強大且易於使用的 C# 平台圖像處理和轉換 API。打開 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 並安裝。您也可以從包管理器控制台使用以下命令。
+通常，要獲得理想的圖像需要更改背景。為了獲得所需的TIFF格式圖像效果，前景物體必須與圖片的其餘部分隔離。如果背景均勻，則可以自動檢測物體。如果照片的背景不均勻或物體分離具有挑戰性，建議對圖像進行預先標記。這涉及識別照片中預期對象所在的矩形區域並指定其類型。這可以手動完成，也可以通過 Cloud API 的對象識別功能自動完成。選擇對象並刪除原始背景後，可以應用新背景或實現透明度。為了更改 TIFF 文件中的背景，我們將使用 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一個功能豐富、功能強大且易於使用的 C# 平台圖像處理和轉換 API。打開 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 並安裝。您也可以從包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 

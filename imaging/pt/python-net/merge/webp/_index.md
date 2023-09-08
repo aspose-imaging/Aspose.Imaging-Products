@@ -16,7 +16,7 @@ description: Experimente nossas APIs de documentos no local para mesclar arquivo
 
 {{% blocks/products/pf/agp/content h2="Como mesclar arquivos WEBP usando Python" %}}
 
-Para mesclar arquivos WEBP, usaremos [Aspose.Imaging para Python via .NET](/imaging/pt/python-net) API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para a plataforma Python. Você pode instalá-lo usando o seguinte comando do comando do sistema.
+Se você quiser dar asas à sua criatividade, então é hora de usar uma colagem de imagens. Esta função permitirá mesclar fotos e imagens mesmo que os arquivos de origem sejam de formatos diferentes. Uma ótima maneira de chamar a atenção para o seu portfólio é usar papéis de parede fotográficos com imagens ou padrões repetidos. Neste caso, as imagens podem ser combinadas tanto na direção horizontal quanto na vertical. Caso precise demonstrar o resultado do processamento de um arquivo, você pode facilmente mesclar duas imagens: antes e depois da aplicação do efeito fotográfico. Para mesclar arquivos WEBP, usaremos [Aspose.Imaging para Python via .NET](/imaging/pt/python-net) API que é uma API de manipulação e conversão de imagens rica em recursos, poderosa e fácil de usar para a plataforma Python. Você pode instalá-lo usando o seguinte comando do comando do sistema.
 
 {{% blocks/products/pf/agp/code-block title="A linha de comando do sistema" offSpacer="true" %}}
 

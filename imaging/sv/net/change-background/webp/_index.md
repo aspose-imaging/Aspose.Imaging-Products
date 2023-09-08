@@ -16,7 +16,7 @@ description: Prova våra lokala dokument-API:er för att ändra bakgrund från W
 
 {{% blocks/products/pf/agp/content h2="Så här ändrar du bakgrund i WEBP-filer med C#" %}}
 
-För att ändra bakgrund i WEBP-filer kommer vi att använda [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API som är ett funktionsrikt, kraftfullt och lättanvänt API för bildmanipulation och konvertering för C#-plattformen. Öppna [NuGet](https://www.nuget.org/packages/aspose.imaging) pakethanteraren, sök efter
+För att uppnå den perfekta bilden krävs ofta att bakgrunden ändras. För att uppnå önskad bildeffekt i formatet WEBP måste förgrundsobjekt isoleras från resten av bilden. Automatisk objektdetektering är möjlig om bakgrunden är enhetlig. Om bildens bakgrund är ojämn eller objektseparationen är utmanande, rekommenderas att förmarkera bilden. Detta innebär att identifiera rektangulära områden inom fotot där avsedda objekt finns och specificera deras typer. Detta kan göras manuellt eller automatiskt genom Cloud API:s objektigenkänningsfunktion. Efter objektval och borttagning av originalbakgrund kan en ny bakgrund appliceras eller genomskinlighet implementeras. För att ändra bakgrund i WEBP-filer kommer vi att använda [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API som är ett funktionsrikt, kraftfullt och lättanvänt API för bildmanipulation och konvertering för C#-plattformen. Öppna [NuGet](https://www.nuget.org/packages/aspose.imaging) pakethanteraren, sök efter
  **Aspose.Imaging** och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Pakethanterarens konsolkommando" offSpacer="true" %}}

@@ -16,7 +16,7 @@ description: Vyzkoušejte naše On-Premise API pro dokumenty k zobrazení soubor
 
 {{% blocks/products/pf/agp/content h2="Jak zobrazit obrázky JPEG pomocí Java" %}}
 
-K zobrazení souborů JPEG použijeme [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API, které je funkčně bohaté, výkonné a snadno použitelné rozhraní API pro manipulaci a konverzi obrázků pro platformu Java. Jeho nejnovější verzi si můžete stáhnout přímo z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) a nainstalovat do svého Maven -založený projekt přidáním následujících konfigurací do souboru pom.xml.
+Jako podklady často dostáváme obrázky v méně obvyklých formátech. Pro následné prohlížení takových obrázků jsou zapotřebí speciální programy. Abyste na tento problém nemysleli a čas na řešení problému využili pro kreativnější úkoly, využijte funkcí grafické knihovny Java. Převedením takových obrázků na soubory populárnějších formátů je můžete otevřít ve standardním programu pro prohlížení obrázků pro vaši platformu. K zobrazení souborů JPEG použijeme [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API, které je funkčně bohaté, výkonné a snadno použitelné rozhraní API pro manipulaci a konverzi obrázků pro platformu Java. Jeho nejnovější verzi si můžete stáhnout přímo z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) a nainstalovat do svého Maven -založený projekt přidáním následujících konfigurací do souboru pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Úložiště" offSpacer="true" %}}
 

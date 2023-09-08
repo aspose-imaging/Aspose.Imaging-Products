@@ -16,7 +16,7 @@ description: Prova våra lokala dokument-API:er för att vattenmärka WEBP-filen
 
 {{% blocks/products/pf/agp/content h2="Hur man vattenstämplar filen WEBP med C#" %}}
 
-För att vattenstämpla filen WEBP använder vi [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API som är ett funktionsrikt, kraftfullt och lättanvänt API för bildmanipulation och konvertering för C#-plattformen. Öppna [NuGet](https://www.nuget.org/packages/aspose.imaging) pakethanteraren, sök efter
+En vattenstämpel är ett viktigt verktyg för författare som söker maximal exponering för sitt arbete på internet. Att placera en vattenstämpel på en bild tjänar inte bara till att identifiera dess källa eller upphovsrättsinnehavare utan också för att främja dess skapare. Detta beror på att signaturen som innehåller författarens namn eller internetresursens namn distribueras tillsammans med en digital kopia av bilden. Vattenstämplar kan ha formen av text med ett brett utbud av typsnitt och kan placeras vid bildens kant. När vattenstämpeln är genomskinlig stör den inte visningen. Men om författaren eller upphovsrättsinnehavaren vill framhäva sitt namn kan vattenstämpeln delvis överlappa bilden. För att vattenmärka WEBP bildfil, kommer vi att använda [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API som är ett funktionsrikt, kraftfullt och lättanvänt API för bildmanipulation och konvertering för C#-plattformen. Öppna [NuGet](https://www.nuget.org/packages/aspose.imaging) pakethanteraren, sök efter
  **Aspose.Imaging** och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Pakethanterarens konsolkommando" offSpacer="true" %}}

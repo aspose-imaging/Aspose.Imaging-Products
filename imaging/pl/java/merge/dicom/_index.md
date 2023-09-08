@@ -16,7 +16,7 @@ description: Wypróbuj nasze lokalne interfejsy API dokumentów, aby scalić pli
 
 {{% blocks/products/pf/agp/content h2="Jak scalić pliki DICOM za pomocą Java" %}}
 
-Aby scalić pliki DICOM, użyjemy [Aspose.Imaging dla Javy](https://products.aspose.com/imaging/java) API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do obróbki i konwersji obrazów dla platformy Java. Możesz pobrać jego najnowszą wersję bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) i zainstaluj go w swoim projekcie opartym na Maven, dodając następujące konfiguracje do pom.xml.
+Jeśli chcesz puścić wodze fantazji, nadszedł czas, aby skorzystać z kolażu obrazów. Ta funkcja umożliwia łączenie zdjęć i obrazów, nawet jeśli pliki źródłowe mają różne formaty. Świetnym sposobem na zwrócenie uwagi na swoje portfolio jest zastosowanie fototapet z powtarzającymi się obrazami lub wzorami. W takim przypadku obrazy można łączyć zarówno w kierunku poziomym, jak i pionowym. Jeśli chcesz zademonstrować wynik obróbki pliku, możesz łatwo połączyć dwa obrazy: przed i po zastosowaniu efektu fotograficznego. Aby połączyć pliki DICOM, użyjemy [Aspose.Imaging dla Javy](https://products.aspose.com/imaging/java) API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do obróbki i konwersji obrazów dla platformy Java. Możesz pobrać jego najnowszą wersję bezpośrednio z [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) i zainstaluj go w swoim projekcie opartym na Maven, dodając następujące konfiguracje do pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repozytorium" offSpacer="true" %}}
 

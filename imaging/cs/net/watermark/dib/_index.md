@@ -16,7 +16,7 @@ description: Vyzkoušejte naše On-Premise API pro dokumenty k vodoznaku souboru
 
 {{% blocks/products/pf/agp/content h2="Jak vložit vodoznak do souboru DIB pomocí C#" %}}
 
-K vodoznaku souboru DIB použijeme [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API, které je funkčně bohaté, výkonné a snadno použitelné rozhraní API pro manipulaci a konverzi obrázků pro platformu C#. Otevřete správce balíčků [NuGet](https://www.nuget.org/packages/aspose.imaging), vyhledejte
+Vodoznak je základním nástrojem pro autory, kteří hledají maximální zviditelnění své práce na internetu. Umístění vodoznaku na obrázek slouží nejen k identifikaci jeho zdroje nebo držitele autorských práv, ale také k propagaci jeho tvůrce. Důvodem je, že podpis obsahující jméno autora nebo název internetového zdroje je distribuován spolu s digitální kopií obrázku. Vodoznaky mohou mít formu textu s širokou škálou písem a lze je umístit na okraj obrázku. Když je vodoznak průhledný, neruší zobrazení. Pokud si však autor nebo držitel autorských práv přeje zdůraznit své jméno, může vodoznak částečně překrývat obrázek. K vytvoření vodoznaku souboru obrázku DIB použijeme [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API, které je funkčně bohaté, výkonné a snadno použitelné rozhraní API pro manipulaci a konverzi obrázků pro platformu C#. Otevřete správce balíčků [NuGet](https://www.nuget.org/packages/aspose.imaging), vyhledejte
  **Aspose.Imaging** a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz konzole Správce balíčků" offSpacer="true" %}}

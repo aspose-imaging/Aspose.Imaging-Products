@@ -16,7 +16,7 @@ description: 嘗試使用我們的本地文檔 API 為 .NET Framework、.NET Cor
 
 {{% blocks/products/pf/agp/content h2="如何使用 C# 為 WMF 文件添加水印" %}}
 
-為了給 WMF 文件加水印，我們將使用 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一個功能豐富、功能強大且易於使用的 C# 平台圖像處理和轉換 API。打開 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 並安裝。您也可以從包管理器控制台使用以下命令。
+水印是作者尋求最大程度地在互聯網上展示其作品的重要工具。在圖像上放置水印不僅可以識別其來源或版權所有者，還可以宣傳其創作者。這是因為包含作者姓名或互聯網資源名稱的簽名與圖像的數字副本一起分發。水印可以採用具有多種字體的文本形式，並且可以放置在圖像的邊緣。當水印是透明的時，它不會干擾觀看。然而，如果作者或版權所有者希望強調他們的名字，水印可能會與圖像部分重疊。為了給 WMF 圖像文件加水印，我們將使用 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一個功能豐富、功能強大且易於使用的 C# 平台圖像處理和轉換 API。打開 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 並安裝。您也可以從包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 

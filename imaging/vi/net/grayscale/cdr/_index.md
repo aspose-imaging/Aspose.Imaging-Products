@@ -16,7 +16,7 @@ description: Hãy thử các API tài liệu On-Premise của chúng tôi để 
 
 {{% blocks/products/pf/agp/content h2="Cách tạo thang độ xám cho tệp CDR bằng C#" %}}
 
-Để chuyển sang thang độ xám các tệp CDR, chúng tôi sẽ sử dụng [Aspose.Imaging cho .NET] (https://products.aspose.com/imaging/net) API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C #. Mở [NuGet] (https://www.nuget.org/packages/aspose.imaging) quản lý gói, tìm kiếm ** Aspose.Imaging ** và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển Trình quản lý Gói.
+Độ sáng và nhiều màu sắc là bạn đồng hành của những hình ảnh đẹp. Tuy nhiên, in màu không phải lúc nào cũng khả thi. Trong những trường hợp như vậy, việc chuyển đổi ảnh sang thang độ xám là cần thiết. Ngoài ra, chức năng này có thể được sử dụng như một cách tiếp cận nghệ thuật độc lập, nâng cao sức hấp dẫn cho trang web của bạn. Thay vì than thở về việc mất thông tin màu sắc trong quá trình chuyển đổi này, điều này có thể cản trở nhận thức, hãy tận dụng nó để làm lợi thế cho bạn. Tập trung vào các chi tiết, kết cấu bề mặt của hình ảnh và sự tương tác giữa các vùng sáng và tối để tạo ra trải nghiệm hình ảnh đặc biệt. Để chuyển các tệp CDR sang thang độ xám, chúng tôi sẽ sử dụng [Aspose.Imaging cho .NET] (https://products.aspose.com/imaging/net) API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C #. Mở [NuGet] (https://www.nuget.org/packages/aspose.imaging) quản lý gói, tìm kiếm ** Aspose.Imaging ** và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển Trình quản lý Gói.
 
 {{% blocks/products/pf/agp/code-block title = "Lệnh Bảng điều khiển Trình quản lý Gói" offSpacer = "true"%}}
 

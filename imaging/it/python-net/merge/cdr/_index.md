@@ -16,7 +16,7 @@ description: Prova le nostre API di documenti locali per unire file CDR su .NET 
 
 {{% blocks/products/pf/agp/content h2="Come unire file CDR utilizzando Python" %}}
 
-Per unire i file CDR, useremo [Aspose.Imaging per Python tramite .NET](/imaging/it/python-net) API che è un'API di manipolazione e conversione delle immagini ricca di funzionalità, potente e facile da usare per la piattaforma Python. Puoi installarlo usando il seguente comando dal tuo comando di sistema.
+Se vuoi dare libero sfogo alla tua creatività, allora questo è il momento di utilizzare un collage di immagini. Questa funzione ti consentirà di unire foto e immagini anche se i file sorgente sono di formati diversi. Un ottimo modo per attirare l'attenzione sul tuo portfolio è utilizzare gli sfondi fotografici con immagini o motivi ripetuti. In questo caso, le immagini possono essere combinate sia in direzione orizzontale che verticale. Nel caso in cui desideri dimostrare il risultato dell'elaborazione di un file, puoi facilmente unire due immagini: prima e dopo l'applicazione dell'effetto foto. Per unire i file CDR, utilizzeremo [Aspose.Imaging per Python tramite .NET](/imaging/it/python-net) API che è un'API di manipolazione e conversione delle immagini ricca di funzionalità, potente e facile da usare per la piattaforma Python. Puoi installarlo usando il seguente comando dal tuo comando di sistema.
 
 {{% blocks/products/pf/agp/code-block title="La riga di comando del sistema" offSpacer="true" %}}
 

@@ -16,7 +16,7 @@ description: נסה את ממשקי ה-API של מסמכים מקומיים לק
 
 {{% blocks/products/pf/agp/content h2="כיצד לבצע קבצים בגווני אפור CDR באמצעות Java" %}}
 
-כדי לבצע קבצים בגווני אפור CDR, נשתמש [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API שהוא עשיר בתכונות, חזק וקל לשימוש למניפולציה והמרה של תמונות עבור פלטפורמת Java. אתה יכול להוריד את הגרסה האחרונה שלו ישירות מ-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) ולהתקין אותה בתוך ה-Maven שלך פרויקט מבוסס על ידי הוספת התצורות הבאות לקובץ pom.xml.
+בהירות וצבעוניות הם בני לוויה של תמונות יפות. עם זאת, הדפסה צבעונית לא תמיד אפשרית. במקרים כאלה, המרת תמונה לגווני אפור הופכת הכרחית. בנוסף, ניתן להשתמש בפונקציה זו כגישה אמנותית עצמאית, המשפרת את המשיכה של האתר שלך. במקום לבכות על אובדן מידע צבע במהלך המעבר הזה, שעלול לחסום את התפיסה, מנף אותו לטובתך. התרכז בפרטי התמונה, במרקמי פני השטח ובמשחק הגומלין של אזורים בהירים וכהים כדי ליצור חוויה ויזואלית ייחודית. כדי לבצע קבצים בגווני אפור CDR, נשתמש [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API שהוא עשיר בתכונות, חזק וקל לשימוש למניפולציה והמרה של תמונות עבור פלטפורמת Java. אתה יכול להוריד את הגרסה האחרונה שלו ישירות מ-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) ולהתקין אותה בתוך ה-Maven שלך פרויקט מבוסס על ידי הוספת התצורות הבאות לקובץ pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="מאגר" offSpacer="true" %}}
 

@@ -16,7 +16,7 @@ description: Hãy thử các API tài liệu On-Premise của chúng tôi để 
 
 {{% blocks/products/pf/agp/content h2="Cách cắt tệp DICOM bằng C#" %}}
 
-Để cắt các tệp DICOM, chúng tôi sẽ sử dụng [Aspose.Imaging cho .NET] (https://products.aspose.com/imaging/net) API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C #. Mở [NuGet] (https://www.nuget.org/packages/aspose.imaging) quản lý gói, tìm kiếm ** Aspose.Imaging ** và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển Trình quản lý Gói.
+Để thu hút ngay lập tức người dùng truy cập trang web của bạn, hãy đặt các yếu tố thu hút sự chú ý ở giữa hình ảnh. Đôi khi, sẽ hiệu quả hơn nếu loại bỏ hoàn toàn mọi yếu tố không cần thiết làm xao lãng chủ đề chính của bức ảnh. Để thực hiện điều này, hãy sử dụng chức năng cắt ảnh do thư viện C# cung cấp. Bạn có thể đạt được điều này bằng cách chỉ định tọa độ của khu vực hình chữ nhật bao quanh tiêu điểm hoặc bằng cách chỉ ra sự dịch chuyển từ các cạnh của ảnh để chọn phần thiết yếu của ảnh. Bằng cách này, thông qua việc cắt xén hình ảnh, chúng tôi loại bỏ các yếu tố không liên quan và nhấn mạnh chủ đề chính. Để cắt các tệp DICOM, chúng tôi sẽ sử dụng [Aspose.Imaging cho .NET] (https://products.aspose.com/imaging/net) API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C #. Mở [NuGet] (https://www.nuget.org/packages/aspose.imaging) quản lý gói, tìm kiếm ** Aspose.Imaging ** và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển Trình quản lý Gói.
 
 {{% blocks/products/pf/agp/code-block title = "Lệnh Bảng điều khiển Trình quản lý Gói" offSpacer = "true"%}}
 

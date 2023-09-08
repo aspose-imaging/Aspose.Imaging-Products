@@ -16,7 +16,7 @@ description: Prova våra lokala dokument-API:er för att filtrera EPS-filer på 
 
 {{% blocks/products/pf/agp/content h2="Hur man filtrerar EPS-filer med C#" %}}
 
-För att filtrera EPS-filer använder vi [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API som är ett funktionsrikt, kraftfullt och lättanvänt API för bildmanipulation och konvertering för C#-plattformen. Öppna [NuGet](https://www.nuget.org/packages/aspose.imaging) pakethanteraren, sök efter
+Även den mest perfekta bilden kan förstärkas ytterligare eller förvandlas till ett helt annat och unikt konstverk. Använd filter för att uppnå ett brett utbud av bildeffekter. Du kan till exempel skärpa en bild eller, omvänt, lägga till en oskärpa, jämna ut den eller eliminera färgbrus. Filter är också ovärderliga när du vill förmedla unika till din bild. För att uppnå detta, applicera önskad effekt eller kombinera olika effekter. Detta tillvägagångssätt låter dig förfina färggradienter, eliminera brus och samtidigt förbättra skärpan på objektens kanter i fotot. För att filtrera EPS-filer kommer vi att använda [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API som är ett funktionsrikt, kraftfullt och lättanvänt API för bildmanipulation och konvertering för C#-plattformen. Öppna [NuGet](https://www.nuget.org/packages/aspose.imaging) pakethanteraren, sök efter
  **Aspose.Imaging** och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Pakethanterarens konsolkommando" offSpacer="true" %}}

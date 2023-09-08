@@ -16,7 +16,7 @@ description: オンプレミスドキュメントAPIを試して、.NET Framewor
 
 {{% blocks/products/pf/agp/content h2="C#を使用してICO画像を表示する方法" %}}
 
-ICOファイルを表示するには、 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) 機能が豊富で強力で使いやすいC＃プラットフォーム用の画像操作および変換APIであるAPI。開ける [NuGet](https://www.nuget.org/packages/aspose.imaging) パッケージマネージャー、検索 ** Aspose.Imaging ** とインストールします。パッケージマネージャーコンソールから次のコマンドを使用することもできます。
+私たちはソース素材としてあまり一般的でない形式の画像を受け取ることがよくあります。このような画像を後で見るには、特別なプログラムが必要です。この問題について考えずに、問題を解決する時間をより創造的なタスクに費やすには、C# グラフィック ライブラリの関数を使用します。このような画像をより一般的な形式のファイルに変換すると、プラットフォームの標準の画像表示プログラムで開くことができます。 ICO ファイルを表示するには、次を使用します。 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) 機能が豊富で強力で使いやすいC＃プラットフォーム用の画像操作および変換APIであるAPI。開ける [NuGet](https://www.nuget.org/packages/aspose.imaging) パッケージマネージャー、検索 ** Aspose.Imaging ** とインストールします。パッケージマネージャーコンソールから次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title ="パッケージマネージャーコンソールコマンド" offSpacer = "true"%}}
 

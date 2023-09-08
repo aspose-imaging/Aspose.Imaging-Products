@@ -16,7 +16,7 @@ description: Probeer onze On-Premise document-API's om DNG-bestanden te bekijken
 
 {{% blocks/products/pf/agp/content h2="DNG afbeeldingen bekijken met C#" %}}
 
-Om DNG-bestanden te bekijken, gebruiken we [Aspose.Imaging voor .NET](https://products.aspose.com/imaging/net) API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het C#-platform. Open [NuGet](https://www.nuget.org/packages/aspose.imaging) pakketbeheerder, zoek naar **Aspose.Imaging** en installeren. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
+We ontvangen vaak afbeeldingen in minder gebruikelijke formaten als bronmateriaal. Voor het later bekijken van dergelijke afbeeldingen zijn speciale programma's vereist. Om niet over dit probleem na te denken en de tijd te gebruiken om het probleem op te lossen voor creatievere taken, gebruikt u de functies van de grafische bibliotheek C#. Door dergelijke afbeeldingen te converteren naar bestanden met meer populaire formaten, kunt u ze openen in het standaardprogramma voor het bekijken van afbeeldingen voor uw platform. Om DNG-bestanden te bekijken, gebruiken we [Aspose.Imaging voor .NET](https://products.aspose.com/imaging/net) API, een veelzijdige, krachtige en gebruiksvriendelijke API voor beeldmanipulatie en conversie voor het C#-platform. Open [NuGet](https://www.nuget.org/packages/aspose.imaging) pakketbeheerder, zoek naar **Aspose.Imaging** en installeren. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 

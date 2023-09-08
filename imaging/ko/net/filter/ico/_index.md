@@ -16,7 +16,7 @@ description: .NET Framework, .NET Core, Windows 애플리케이션, ASP.NET 웹 
 
 {{% blocks/products/pf/agp/content h2="C#을 사용하여 ICO 파일을 필터링하는 방법" %}}
 
-ICO 파일을 필터링하기 위해 다음을 사용합니다. [.NET용 Aspose.Imaging](https://products.aspose.com/imaging/net) 기능이 풍부하고 강력하며 사용하기 쉬운 C# 플랫폼용 이미지 조작 및 변환 API인 API입니다. 열려있는 [누겟](https://www.nuget.org/packages/aspose.imaging) 패키지 관리자, 검색 **아포즈.이미징** 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
+가장 완벽한 이미지라도 더욱 향상되거나 완전히 다르고 독특한 예술 작품으로 변형될 수 있습니다. 다양한 이미지 효과를 얻으려면 필터를 적용하세요. 예를 들어, 이미지를 선명하게 하거나 반대로 흐림 효과를 추가하거나 부드럽게 하거나 색상 노이즈를 제거할 수 있습니다. 필터는 이미지에 고유성을 부여하려는 경우에도 매우 중요합니다. 이를 달성하려면 원하는 효과를 적용하거나 다양한 효과를 결합하십시오. 이 접근 방식을 사용하면 색상 그라데이션을 개선하고 노이즈를 제거하는 동시에 사진에서 개체 가장자리의 선명도를 향상시킬 수 있습니다. ICO 파일을 필터링하기 위해 다음을 사용합니다. [.NET용 Aspose.Imaging](https://products.aspose.com/imaging/net) 기능이 풍부하고 강력하며 사용하기 쉬운 C# 플랫폼용 이미지 조작 및 변환 API인 API입니다. 열려있는 [누겟](https://www.nuget.org/packages/aspose.imaging) 패키지 관리자, 검색 **아포즈.이미징** 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
 
 {{% blocks/products/pf/agp/code-block title="패키지 관리자 콘솔 명령" offSpacer="true" %}}
 

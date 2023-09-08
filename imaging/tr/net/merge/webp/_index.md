@@ -16,7 +16,7 @@ description: .NET Framework, .NET Core, Windows Uygulaması, ASP.NET Web Uygulam
 
 {{% blocks/products/pf/agp/content h2="C# Kullanarak WEBP Dosyalarını Birleştirme" %}}
 
-WEBP dosyalarını birleştirmek için kullanacağız [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. Açık [NuGet](https://www.nuget.org/packages/aspose.imaging) paket yöneticisi, ara **Aspose.Görüntüleme** ve yükleyin. Paket Yöneticisi Konsolundan aşağıdaki komutu da kullanabilirsiniz.
+Yaratıcılığınızın çılgına dönmesine izin vermek istiyorsanız, o zaman resim kolajı kullanmanın tam zamanı. Bu işlev, kaynak dosyalar farklı formatlarda olsa bile fotoğrafları ve görüntüleri birleştirmenize olanak tanır. Portföyünüze dikkat çekmenin harika bir yolu, yinelenen resim veya desenlere sahip fotoğraf duvar kağıtları kullanmaktır. Bu durumda görüntüler hem yatay hem de dikey yönde birleştirilebilir. Bir dosyanın işlenmesinin sonucunu göstermeniz gerekiyorsa, iki görüntüyü kolayca birleştirebilirsiniz: fotoğraf efektini uygulamadan önce ve sonra. WEBP dosyalarını birleştirmek için şunu kullanacağız: [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. Açık [NuGet](https://www.nuget.org/packages/aspose.imaging) paket yöneticisi, ara **Aspose.Görüntüleme** ve yükleyin. Paket Yöneticisi Konsolundan aşağıdaki komutu da kullanabilirsiniz.
 
 {{%blocks/products/pf/agp/code-block title="Paket Yöneticisi Konsol Komutu" offSpacer="true" %}}
 

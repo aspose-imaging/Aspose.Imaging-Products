@@ -16,7 +16,7 @@ description: 尝试使用我们的本地文档 API 来压缩 .NET Framework、.N
 
 {{% blocks/products/pf/agp/content h2="如何使用 C# 压缩 SVG 文件" %}}
 
-为了压缩 SVG 文件，我们将使用 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一个功能丰富、功能强大 易于使用的 C# 平台图像处理和转换 API。打开 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 并安装。您还可以从包管理器控制台使用以下命令。
+准备发布图像涉及创意和技术方面，包括文件压缩。虽然高分辨率图像对于印刷或户外广告至关重要，但由于文件大小较大，它们可能会降低网络性能。适当的图像压缩技术因目的和发布平台而异。大文件会减慢加载时间，尤其是在移动连接上，从而导致糟糕的用户体验。用户可能会放弃加载时间过长的网站并寻求更快的替代方案。相反，过度的图像压缩会导致模糊和像素化，从而降低观看体验。正确选择压缩算法和比率对于在文件大小和图像质量之间取得平衡至关重要。为了压缩 SVG 文件，我们将使用 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一个功能丰富、功能强大 易于使用的 C# 平台图像处理和转换 API。打开 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 并安装。您还可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 

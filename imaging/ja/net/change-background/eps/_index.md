@@ -16,7 +16,7 @@ description: オンプレミスドキュメントAPIを試して、.NET Framewor
 
 {{% blocks/products/pf/agp/content h2="C#を使用してEPSファイルの背景を変更する方法" %}}
 
-EPSファイルの背景を変更するには、 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) 機能が豊富で強力で使いやすいC＃プラットフォーム用の画像操作および変換APIであるAPI。開ける [NuGet](https://www.nuget.org/packages/aspose.imaging) パッケージマネージャー、検索 ** Aspose.Imaging ** とインストールします。パッケージマネージャーコンソールから次のコマンドを使用することもできます。
+多くの場合、理想的な画像を実現するには、背景を変更する必要があります。目的の EPS 形式の画像効果を得るには、前景オブジェクトを画像の残りの部分から分離する必要があります。背景が均一であれば自動物体検出が可能です。写真の背景が不均一である場合、またはオブジェクトの分離が難しい場合は、画像に事前にマークを付けることをお勧めします。これには、目的のオブジェクトが存在する写真内の長方形領域を特定し、そのタイプを指定することが含まれます。これは手動で行うことも、Cloud API のオブジェクト認識機能を使用して自動的に行うこともできます。オブジェクトの選択と元の背景の削除に続いて、新しい背景を適用したり、透明度を実装したりできます。 EPS ファイルの背景を変更するには、次を使用します。 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) 機能が豊富で強力で使いやすいC＃プラットフォーム用の画像操作および変換APIであるAPI。開ける [NuGet](https://www.nuget.org/packages/aspose.imaging) パッケージマネージャー、検索 ** Aspose.Imaging ** とインストールします。パッケージマネージャーコンソールから次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title ="パッケージマネージャーコンソールコマンド" offSpacer = "true"%}}
 

@@ -16,7 +16,7 @@ description: 嘗試使用我們的本地文檔 API 更改 Java 應用程序上 A
 
 {{% blocks/products/pf/agp/content h2="如何使用 Java 更改 APNG 文件中的背景" %}}
 
-為了改變 APNG 文件的背景，我們將使用 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一個功能豐富、功能強大 易於使用的 Java 平台圖像處理和轉換 API。您可以直接從 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 並通過將以下配置添加到 pom.xml 將其安裝在基於 Maven 的項目中。
+通常，要獲得理想的圖像需要更改背景。為了獲得所需的APNG格式圖像效果，前景物體必須與圖片的其餘部分隔離。如果背景均勻，則可以自動檢測物體。如果照片的背景不均勻或物體分離具有挑戰性，建議對圖像進行預先標記。這涉及識別照片中預期對象所在的矩形區域並指定其類型。這可以手動完成，也可以通過 Cloud API 的對象識別功能自動完成。選擇對象並刪除原始背景後，可以應用新背景或實現透明度。為了更改 APNG 文件中的背景，我們將使用 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一個功能豐富、功能強大 易於使用的 Java 平台圖像處理和轉換 API。您可以直接從 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 並通過將以下配置添加到 pom.xml 將其安裝在基於 Maven 的項目中。
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 

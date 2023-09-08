@@ -16,7 +16,7 @@ description: .NET Framework, .NET Core, Windows 애플리케이션, ASP.NET 웹 
 
 {{% blocks/products/pf/agp/content h2="C#을 사용하여 APNG 파일을 그레이스케일하는 방법" %}}
 
-APNG 파일을 그레이스케일하려면 다음을 사용합니다. [.NET용 Aspose.Imaging](https://products.aspose.com/imaging/net) 기능이 풍부하고 강력하며 사용하기 쉬운 C# 플랫폼용 이미지 조작 및 변환 API인 API입니다. 열려있는 [누겟](https://www.nuget.org/packages/aspose.imaging) 패키지 관리자, 검색 **아포즈.이미징** 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
+밝기와 다색은 아름다운 이미지의 동반자입니다. 그러나 컬러 인쇄가 항상 가능한 것은 아닙니다. 이러한 경우 사진을 회색조로 변환해야 합니다. 또한 이 기능은 독립적인 예술적 접근 방식으로 활용되어 웹사이트의 매력을 높일 수 있습니다. 잠재적으로 인식을 방해할 수 있는 전환 중 색상 정보의 손실을 한탄하는 대신 이를 활용하십시오. 이미지의 세부 묘사, 표면 질감, 밝은 영역과 어두운 영역의 상호 작용에 집중하여 독특한 시각적 경험을 만들어보세요. 회색조 APNG 파일을 사용하려면 다음을 사용합니다. [.NET용 Aspose.Imaging](https://products.aspose.com/imaging/net) 기능이 풍부하고 강력하며 사용하기 쉬운 C# 플랫폼용 이미지 조작 및 변환 API인 API입니다. 열려있는 [누겟](https://www.nuget.org/packages/aspose.imaging) 패키지 관리자, 검색 **아포즈.이미징** 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
 
 {{% blocks/products/pf/agp/code-block title="패키지 관리자 콘솔 명령" offSpacer="true" %}}
 

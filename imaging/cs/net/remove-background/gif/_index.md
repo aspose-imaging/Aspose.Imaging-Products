@@ -16,7 +16,7 @@ description: Vyzkoušejte naše On-Premise API pro dokumenty k odstranění poza
 
 {{% blocks/products/pf/agp/content h2="Jak odstranit pozadí v souborech GIF pomocí C#" %}}
 
-K odstranění pozadí v souborech GIF použijeme [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API, které je funkčně bohaté, výkonné a snadno použitelné rozhraní API pro manipulaci a konverzi obrázků pro platformu C#. Otevřete správce balíčků [NuGet](https://www.nuget.org/packages/aspose.imaging), vyhledejte
+Odstranění pozadí z obrázku zahrnuje izolaci objektů v popředí, což je úkol, který vyžaduje rozpoznání objektu. Existuje několik přístupů k identifikaci objektů na fotografii ve formátu GIF. Pro jednoduché obrázky s jednotným barevným pozadím postačí automatická metoda. U fotografií s více nebo částečně sloučenými postavami je však nutné předem označit objekty. To zahrnuje specifikaci obdélníkových oblastí a typů objektů pro odstranění. Ve složitých případech umožňuje Cloud API automatickou detekci objektů. Cloud API poskytuje cloudovou aplikaci schopnou rozpoznávat objekty na fotografiích a využívat výsledné obrysy pro odstranění pozadí. Po odstranění lze okraje zanechané postavami vyhlazovat, aby se zvýšila kvalita obrazu. K odstranění pozadí v souborech GIF použijeme [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API, které je funkčně bohaté, výkonné a snadno použitelné rozhraní API pro manipulaci a konverzi obrázků pro platformu C#. Otevřete správce balíčků [NuGet](https://www.nuget.org/packages/aspose.imaging), vyhledejte
  **Aspose.Imaging** a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz konzole Správce balíčků" offSpacer="true" %}}

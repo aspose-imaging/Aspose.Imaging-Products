@@ -16,7 +16,7 @@ description: Prova våra lokala dokument-API:er för att rasta PNG-filer på .NE
 
 {{% blocks/products/pf/agp/content h2="Hur man ditherar PNG-filer med C#" %}}
 
-För att dithera PNG-filer kommer vi att använda [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API som är ett funktionsrikt, kraftfullt och lättanvänt API för bildmanipulation och konvertering för C#-plattformen. Öppna [NuGet](https://www.nuget.org/packages/aspose.imaging) pakethanteraren, sök efter
+Effektiv optimering av bilder för webbplacering är avgörande för att säkerställa en smidig användarupplevelse. Ett tillvägagångssätt för sådan optimering innebär att minska bildens färgpalett, och därigenom minska dess filstorlek och förbättra sidladdningstiderna. Men för att förhindra störningar av jämna färggradienter och uppkomsten av skarpa gränser i monokromatiska områden är det viktigt att använda den bildutjämnande funktionen, känd som vibrering. Denna teknik låter dig introducera en kontrollerad mängd \"brus\" till en bild eller ett fotografi, vilket i sin tur har en positiv effekt genom att jämna ut övergångar inom färgfältet och förstärka bildens övergripande visuella attraktionskraft. För att dithera PNG-filer kommer vi att använda [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API som är ett funktionsrikt, kraftfullt och lättanvänt API för bildmanipulation och konvertering för C#-plattformen. Öppna [NuGet](https://www.nuget.org/packages/aspose.imaging) pakethanteraren, sök efter
  **Aspose.Imaging** och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Pakethanterarens konsolkommando" offSpacer="true" %}}

@@ -16,7 +16,7 @@ description: .NET Framework、.NET Core、Windowsアプリケーション、ASP.
 
 {{% blocks/products/pf/agp/content h2="Javaを使用してJP2ファイルをディザリングする方法" %}}
 
-JP2ファイルをディザリングするために、 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) 機能豊富で強力で使いやすいJava ラットフォーム用の画像操作および変換APIであるAPI。最新バージョンはから直接ダウンロードできます[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 次の構成をpom.xmlに追加して、Mavenベースのプロジェクトにインストールします。
+スムーズなユーザー エクスペリエンスを確保するには、Web 配置用に画像を効率的に最適化することが重要です。このような最適化への 1 つのアプローチには、画像のカラー パレットを減らすことが含まれます。これにより、ファイル サイズが減少し、ページの読み込み時間が短縮されます。ただし、滑らかなカラー グラデーションが崩れたり、単色領域に鮮明な境界が現れたりするのを防ぐには、ディザリングとして知られる画像平滑化機能を使用することが不可欠です。この技術を使用すると、画像や写真に制御された量の「ノイズ」を導入することができます。これにより、カラー フィールド内の遷移が滑らかになり、画像全体の視覚的な魅力が向上するというプラスの効果が得られます。 JP2 ファイルをディザリングするには、次を使用します。 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) 機能豊富で強力で使いやすいJava ラットフォーム用の画像操作および変換APIであるAPI。最新バージョンはから直接ダウンロードできます[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 次の構成をpom.xmlに追加して、Mavenベースのプロジェクトにインストールします。
 
 {{% blocks/products/pf/agp/code-block title = "Repository" offSpacer = "true"%}}
 

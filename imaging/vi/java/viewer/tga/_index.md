@@ -16,7 +16,7 @@ description: Hãy thử các API tài liệu On-Premise của chúng tôi để 
 
 {{% blocks/products/pf/agp/content h2="Cách xem hình ảnh TGA bằng Java" %}}
 
-Để xem các tệp TGA, chúng tôi sẽ sử dụng [Aspose.Imaging cho Java] (https://products.aspose.com/imaging/java) API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng Java. Bạn có thể tải xuống phiên bản mới nhất của nó trực tiếp từ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) và cài đặt nó trong dự án dựa trên Maven của bạn bằng cách thêm các cấu hình sau vào pom.xml.
+Chúng tôi thường nhận được hình ảnh ở các định dạng ít phổ biến hơn dưới dạng tài liệu nguồn. Để xem những hình ảnh như vậy sau này, cần có các chương trình đặc biệt. Để không phải suy nghĩ về vấn đề này và dành thời gian giải quyết vấn đề cho những nhiệm vụ sáng tạo hơn, hãy sử dụng các chức năng của thư viện đồ họa Java. Bằng cách chuyển đổi những hình ảnh đó thành các tệp có định dạng phổ biến hơn, bạn có thể mở chúng trong chương trình xem hình ảnh tiêu chuẩn dành cho nền tảng của mình. Để xem các tệp TGA, chúng tôi sẽ sử dụng [Aspose.Imaging cho Java] (https://products.aspose.com/imaging/java) API là một API chuyển đổi và thao tác hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng Java. Bạn có thể tải xuống phiên bản mới nhất của nó trực tiếp từ [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) và cài đặt nó trong dự án dựa trên Maven của bạn bằng cách thêm các cấu hình sau vào pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Kho" offSpacer="true"%}}
 

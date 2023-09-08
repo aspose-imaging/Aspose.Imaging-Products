@@ -16,7 +16,7 @@ description: 尝试使用我们的本地文档 API 在 .NET Framework、.NET Cor
 
 {{% blocks/products/pf/agp/content h2="如何使用 C# 将 JPG 文件卡通化" %}}
 
-为了卡通化 JPG 文件，我们将使用 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一个功能丰富、功能强大 易于使用的 C# 平台图像处理和转换 API。打开 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 并安装。您还可以从包管理器控制台使用以下命令。
+卡通效果具有固有的吸引力，常常唤起怀旧的童年记忆。几乎每一篇平面设计文章都将卡通图像作为基本元素。卡通化肖像、微调灯光、转换为黑白、尝试颜色、混合各种编辑技术以及制作复杂的图像效果都可以通过图像滤镜（例如AdjustBrightness、BinarizeFixed、Filter、ReplaceColor 和ApplyMask）来实现。这些滤镜可以应用于原始加载的照片。无论您的网页主题是什么，卡通风格的图像都适合用于插图目的。科学文章变得充满活力，而多样化的内容对用户更具吸引力，从而提高网站流量。为了卡通化 JPG 文件，我们将使用 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一个功能丰富、功能强大 易于使用的 C# 平台图像处理和转换 API。打开 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 并安装。您还可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 

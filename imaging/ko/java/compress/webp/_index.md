@@ -16,7 +16,7 @@ description: Java 애플리케이션에서 WEBP 파일을 압축하려면 온프
 
 {{% blocks/products/pf/agp/content h2="Java을 사용하여 WEBP 파일을 압축하는 방법" %}}
 
-WEBP 파일을 압축하기 위해 다음을 사용합니다. [자바용 Aspose.Imaging](https://products.aspose.com/imaging/java) 기능이 풍부하고 강력하며 사용하기쉬운 Java 플랫폼용 이미지 조작 및 변환 API인 API입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.[메이븐(https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 다음 구성을 pom.xml에 추가하여 Maven 기반 프로젝트 내에 설치합니다.
+게시할 이미지를 준비하는 데에는 파일 압축을 비롯한 창의적 측면과 기술적 측면이 모두 포함됩니다. 고해상도 이미지는 인쇄 또는 옥외 광고에 매우 중요하지만 파일 크기가 크기 때문에 웹 성능이 저하될 수 있습니다. 적절한 이미지 압축 기술은 목적과 출판 플랫폼에 따라 다릅니다. 대용량 파일은 특히 모바일 연결에서 로딩 시간을 지연시켜 사용자 경험을 저하시킬 수 있습니다. 사용자는 로드하는 데 시간이 너무 오래 걸리는 사이트를 포기하고 더 빠른 대안을 찾을 수도 있습니다. 반대로, 과도한 이미지 압축은 흐릿함과 픽셀화를 초래하여 시청 환경을 저하시킬 수 있습니다. 파일 크기와 이미지 품질 사이의 균형을 맞추려면 압축 알고리즘과 비율을 올바르게 선택하는 것이 중요합니다. WEBP 파일을 압축하기 위해 다음을 사용합니다. [자바용 Aspose.Imaging](https://products.aspose.com/imaging/java) 기능이 풍부하고 강력하며 사용하기쉬운 Java 플랫폼용 이미지 조작 및 변환 API인 API입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.[메이븐(https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 다음 구성을 pom.xml에 추가하여 Maven 기반 프로젝트 내에 설치합니다.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 

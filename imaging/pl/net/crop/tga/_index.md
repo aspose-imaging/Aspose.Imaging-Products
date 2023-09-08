@@ -16,7 +16,7 @@ description: Wypróbuj nasze lokalne interfejsy API dokumentów, aby przycinać 
 
 {{% blocks/products/pf/agp/content h2="Jak przyciąć pliki TGA za pomocą C#" %}}
 
-Aby przyciąć pliki TGA, użyjemy [Aspose.Imaging dla .NET](https://products.aspose.com/imaging/net) API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do obróbki i konwersji obrazów dla platformy C#. Otwarty [NuGet](https://www.nuget.org/packages/aspose.imaging) menedżer pakietów, szukaj **Aspose.Obrazowanie** i zainstaluj. Możesz również użyć następującego polecenia z konsoli Menedżera pakietów.
+Aby natychmiast przykuć uwagę użytkownika odwiedzającego Twoją stronę, umieść przyciągające uwagę elementy na środku obrazów. Czasami skuteczniejsze jest całkowite wyeliminowanie niepotrzebnych elementów, które odwracają uwagę od głównego tematu zdjęcia. Aby to osiągnąć, użyj funkcji przycinania obrazu dostępnej w bibliotece C#. Można to osiągnąć podając współrzędne prostokątnego obszaru obejmującego punkt ogniskowy lub wskazując przesunięcia od krawędzi zdjęcia w celu wybrania istotnej części obrazu. W ten sposób poprzez kadrowanie obrazu eliminujemy nieistotne elementy i podkreślamy główny temat. Aby przyciąć pliki TGA, użyjemy [Aspose.Imaging dla .NET](https://products.aspose.com/imaging/net) API, który jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do obróbki i konwersji obrazów dla platformy C#. Otwarty [NuGet](https://www.nuget.org/packages/aspose.imaging) menedżer pakietów, szukaj **Aspose.Obrazowanie** i zainstaluj. Możesz również użyć następującego polecenia z konsoli Menedżera pakietów.
 
 {{% blocks/products/pf/agp/code-block title="Polecenie konsoli menedżera pakietów" offSpacer="true" %}}
 

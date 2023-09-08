@@ -16,7 +16,7 @@ description: オンプレミスドキュメントAPIを試して、Javaアプリ
 
 {{% blocks/products/pf/agp/content h2="Javaを使用してDIBファイルを圧縮する方法" %}}
 
-DIBファイルを圧縮するために、 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) 機能豊富で強力で使いやすいJava ラットフォーム用の画像操作および変換APIであるAPI。最新バージョンはから直接ダウンロードできます[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 次の構成をpom.xmlに追加して、Mavenベースのプロジェクトにインストールします。
+公開用の画像の準備には、クリエイティブな側面とファイル圧縮などの技術的な側面の両方が必要です。高解像度の画像は印刷物や屋外広告には不可欠ですが、ファイル サイズが大きいため、Web パフォーマンスが低下する可能性があります。適切な画像圧縮技術は、目的と公開プラットフォームによって異なります。ファイルが大きいと、特にモバイル接続で読み込み時間が遅くなり、ユーザー エクスペリエンスが低下する可能性があります。ユーザーは、読み込みに時間がかかりすぎるサイトを放棄し、より高速な代替サイトを探す可能性があります。逆に、過剰な画像圧縮はぼやけやピクセル化を引き起こし、視聴体験を低下させる可能性があります。ファイル サイズと画質のバランスをとるには、圧縮アルゴリズムと圧縮率を適切に選択することが不可欠です。 DIB ファイルを圧縮するには、次を使用します。 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) 機能豊富で強力で使いやすいJava ラットフォーム用の画像操作および変換APIであるAPI。最新バージョンはから直接ダウンロードできます[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 次の構成をpom.xmlに追加して、Mavenベースのプロジェクトにインストールします。
 
 {{% blocks/products/pf/agp/code-block title = "Repository" offSpacer = "true"%}}
 

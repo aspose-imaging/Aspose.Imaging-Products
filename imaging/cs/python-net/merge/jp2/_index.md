@@ -16,7 +16,7 @@ description: Vyzkoušejte naše On-Premise API pro dokumenty ke sloučení soubo
 
 {{% blocks/products/pf/agp/content h2="Jak sloučit soubory JP2 pomocí Python" %}}
 
-Ke sloučení souborů JP2 použijeme [Aspose.Imaging pro Python přes .NET](/imaging/cs/python-net) API, které je funkčně bohaté, výkonné a snadno použitelné rozhraní API pro manipulaci a konverzi obrázků pro platformu Python. Můžete jej nainstalovat pomocí následujícího příkazu ze systémového příkazu.
+Pokud chcete popustit uzdu své kreativitě, pak je čas použít obrázkovou koláž. Tato funkce vám umožní sloučit fotografie a obrázky, i když jsou zdrojové soubory různých formátů. Skvělým způsobem, jak upozornit na své portfolio, je použití fototapet s opakujícími se obrázky nebo vzory. V tomto případě lze obrázky kombinovat v horizontálním i vertikálním směru. V případě, že potřebujete předvést výsledek zpracování souboru, můžete snadno sloučit dva obrázky: před a po aplikaci fotografického efektu. Za účelem sloučení souborů JP2 použijeme [Aspose.Imaging pro Python přes .NET](/imaging/cs/python-net) API, které je funkčně bohaté, výkonné a snadno použitelné rozhraní API pro manipulaci a konverzi obrázků pro platformu Python. Můžete jej nainstalovat pomocí následujícího příkazu ze systémového příkazu.
 
 {{% blocks/products/pf/agp/code-block title="Příkazový řádek systému" offSpacer="true" %}}
 

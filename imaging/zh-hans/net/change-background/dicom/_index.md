@@ -16,7 +16,7 @@ description: 尝试使用我们的本地文档 API 更改 .NET Framework、.NET 
 
 {{% blocks/products/pf/agp/content h2="如何使用 C# 更改 DICOM 文件中的背景" %}}
 
-为了改变 DICOM 文件的背景，我们将使用 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一个功能丰富、功能强大 易于使用的 C# 平台图像处理和转换 API。打开 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 并安装。您还可以从包管理器控制台使用以下命令。
+通常，要获得理想的图像需要更改背景。为了获得所需的DICOM格式图像效果，前景物体必须与图片的其余部分隔离。如果背景均匀，则可以自动检测物体。如果照片的背景不均匀或物体分离具有挑战性，建议对图像进行预先标记。这涉及识别照片中预期对象所在的矩形区域并指定其类型。这可以手动完成，也可以通过 Cloud API 的对象识别功能自动完成。选择对象并删除原始背景后，可以应用新背景或实现透明度。为了更改 DICOM 文件中的背景，我们将使用 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一个功能丰富、功能强大 易于使用的 C# 平台图像处理和转换 API。打开 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 并安装。您还可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 

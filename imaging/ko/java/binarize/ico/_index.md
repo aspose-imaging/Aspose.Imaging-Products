@@ -16,7 +16,7 @@ description: .NET Framework, .NET Core, Windows 애플리케이션, ASP.NET 웹 
 
 {{% blocks/products/pf/agp/content h2="Java을 사용하여 ICO 파일을 이진화하는 방법" %}}
 
-ICO 파일을 이진화하려면 다음을 사용합니다. [자바용 Aspose.Imaging](https://products.aspose.com/imaging/java) 기능이 풍부하고 강력하며 사용하기쉬운 Java 플랫폼용 이미지 조작 및 변환 API인 API입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.[메이븐(https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 다음 구성을 pom.xml에 추가하여 Maven 기반 프로젝트 내에 설치합니다.
+컬러 필름의 발명은 사진 분야에서 중요한 이정표를 세웠습니다. 그러나 고전 사진은 본질적으로 흑백 이미지와 연결되어 있습니다. 전체 색상 스펙트럼을 캡처할 수 있는 카메라의 광범위한 기술적 기능에도 불구하고 많은 사람들은 흑백을 선택하여 사진을 흑백으로 변환합니다. 이러한 경우 이진화 기능이 작동하여 모든 픽셀을 이진 값(흰색은 \"0\", 검은색은 \"1\")으로 변환합니다. 다른 시나리오에서는 이러한 전환이 예술적 선택이 아니라 책이나 신문에 인쇄하기 위한 흑백 삽화를 준비하는 것과 같은 실용적인 선택에 의해 주도됩니다. Java 그래픽 라이브러리를 사용하면 픽셀 밝기 임계값을 지정할 수 있습니다. 이 임계값보다 낮은 밝기 값을 갖는 픽셀은 검은색으로 변하고, 그보다 높은 픽셀은 흰색으로 변합니다. 또는 주변 영역의 픽셀 값을 고려하는 적응형 이진화 방법을 사용할 수 있습니다. 이 접근 방식을 사용하면 결과 흑백 이미지의 색상 경계 간 전환이 더 부드러워집니다. ICO 파일을 이진화하기 위해 다음을 사용합니다. [자바용 Aspose.Imaging](https://products.aspose.com/imaging/java) 기능이 풍부하고 강력하며 사용하기쉬운 Java 플랫폼용 이미지 조작 및 변환 API인 API입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.[메이븐(https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 다음 구성을 pom.xml에 추가하여 Maven 기반 프로젝트 내에 설치합니다.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 

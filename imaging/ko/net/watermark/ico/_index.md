@@ -16,7 +16,7 @@ description: .NET Framework, .NET Core, Windows 애플리케이션, ASP.NET 웹 
 
 {{% blocks/products/pf/agp/content h2="C#을 사용하여 ICO 파일에 워터마크를 지정하는 방법" %}}
 
-ICO 파일을 워터마크하려면 다음을 사용합니다. [.NET용 Aspose.Imaging](https://products.aspose.com/imaging/net) 기능이 풍부하고 강력하며 사용하기 쉬운 C# 플랫폼용 이미지 조작 및 변환 API인 API입니다. 열려있는 [누겟](https://www.nuget.org/packages/aspose.imaging) 패키지 관리자, 검색 **아포즈.이미징** 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
+워터마크는 자신의 작품이 인터넷에 최대한 노출되기를 원하는 작가에게 필수적인 도구입니다. 이미지에 워터마크를 삽입하면 해당 이미지의 출처나 저작권자를 식별할 수 있을 뿐만 아니라 해당 작성자를 홍보할 수도 있습니다. 이는 작성자 이름이나 인터넷 리소스 이름이 포함된 서명이 이미지의 디지털 사본과 함께 배포되기 때문입니다. 워터마크는 다양한 글꼴이 포함된 텍스트 형식을 취할 수 있으며 이미지 가장자리에 위치할 수 있습니다. 워터마크가 투명하면 시청을 방해하지 않습니다. 다만, 저작자나 저작권자가 자신의 이름을 강조하고자 하는 경우에는 워터마크가 이미지와 부분적으로 겹칠 수 있습니다. ICO 이미지 파일을 워터마킹하기 위해 다음을 사용하겠습니다. [.NET용 Aspose.Imaging](https://products.aspose.com/imaging/net) 기능이 풍부하고 강력하며 사용하기 쉬운 C# 플랫폼용 이미지 조작 및 변환 API인 API입니다. 열려있는 [누겟](https://www.nuget.org/packages/aspose.imaging) 패키지 관리자, 검색 **아포즈.이미징** 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
 
 {{% blocks/products/pf/agp/code-block title="패키지 관리자 콘솔 명령" offSpacer="true" %}}
 

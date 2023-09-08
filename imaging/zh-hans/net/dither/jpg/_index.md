@@ -16,7 +16,7 @@ description: 尝试使用我们的本地文档 API 在 .NET Framework、.NET Cor
 
 {{% blocks/products/pf/agp/content h2="如何使用 C# 抖动 JPG 文件" %}}
 
-为了抖动 JPG 文件，我们将使用 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一个功能丰富、功能强大 易于使用的 C# 平台图像处理和转换 API。打开 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 并安装。您还可以从包管理器控制台使用以下命令。
+有效优化网页放置图像对于确保流畅的用户体验至关重要。这种优化的一种方法涉及减少图像的调色板，从而减小其文件大小并缩短页面加载时间。然而，为了防止平滑颜色梯度被破坏以及单色区域中出现尖锐边界，必须采用图像平滑功能（称为抖动）。该技术允许您向图像或照片引入控制量的“噪点”，从而通过平滑色域内的过渡并增强图像的整体视觉吸引力来产生积极的效果。为了抖动 JPG 文件，我们将使用 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一个功能丰富、功能强大 易于使用的 C# 平台图像处理和转换 API。打开 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 并安装。您还可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 

@@ -16,7 +16,7 @@ description: Probieren Sie unsere On-Premise-Dokument-APIs aus, um WEBP-Dateien 
 
 {{% blocks/products/pf/agp/content h2="So führen Sie WEBP-Dateien mit Python zusammen" %}}
 
-Um WEBP-Dateien zusammenzuführen, verwenden wir [Aspose.Imaging for Python via .NET](/imaging/de/python-net) API, eine funktionsreiche, leistungsstarke und benutzerfreundliche Bildbearbeitungs- und Konvertierungs-API für die Python-Plattform. Sie können es mit dem folgenden Befehl aus Ihrem Systembefehl installieren.
+Wenn Sie Ihrer Kreativität freien Lauf lassen möchten, ist jetzt der richtige Zeitpunkt für eine Bildcollage. Mit dieser Funktion können Sie Fotos und Bilder zusammenführen, auch wenn die Quelldateien unterschiedliche Formate haben. Eine tolle Möglichkeit, die Aufmerksamkeit auf Ihr Portfolio zu lenken, ist der Einsatz von Fototapeten mit sich wiederholenden Bildern oder Mustern. In diesem Fall können Bilder sowohl in horizontaler als auch in vertikaler Richtung kombiniert werden. Für den Fall, dass Sie das Ergebnis der Verarbeitung einer Datei demonstrieren müssen, können Sie ganz einfach zwei Bilder zusammenführen: vor und nach der Anwendung des Fotoeffekts. Um WEBP-Dateien zusammenzuführen, verwenden wir [Aspose.Imaging for Python via .NET](/imaging/de/python-net) API, eine funktionsreiche, leistungsstarke und benutzerfreundliche Bildbearbeitungs- und Konvertierungs-API für die Python-Plattform. Sie können es mit dem folgenden Befehl aus Ihrem Systembefehl installieren.
 
 {{% blocks/products/pf/agp/code-block title="Die Systembefehlszeile" offSpacer="true" %}}
 

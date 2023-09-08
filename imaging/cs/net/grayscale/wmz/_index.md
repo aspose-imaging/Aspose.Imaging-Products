@@ -16,7 +16,7 @@ description: Vyzkoušejte naše On-Premise API pro dokumenty pro soubory WMZ ve 
 
 {{% blocks/products/pf/agp/content h2="Jak soubory ve stupních šedi WMZ pomocí C#" %}}
 
-Abychom mohli soubory WMZ ve stupních šedi, použijeme [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API, které je funkčně bohaté, výkonné a snadno použitelné rozhraní API pro manipulaci a konverzi obrázků pro platformu C#. Otevřete správce balíčků [NuGet](https://www.nuget.org/packages/aspose.imaging), vyhledejte
+Jas a vícebarevnost jsou společníky krásných obrázků. Barevný tisk však není vždy možný. V takových případech je nutné převést fotografii do stupňů šedi. Tuto funkci lze navíc využít jako nezávislý umělecký přístup, který zvýší přitažlivost vašeho webu. Místo lamentování nad ztrátou barevných informací během tohoto přechodu, které by mohly potenciálně bránit vnímání, využijte to ve svůj prospěch. Soustřeďte se na detaily obrazu, povrchové textury a souhru světlých a tmavých oblastí, abyste vytvořili osobitý vizuální zážitek. Abychom mohli soubory WMZ ve stupních šedi, použijeme [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API, které je funkčně bohaté, výkonné a snadno použitelné rozhraní API pro manipulaci a konverzi obrázků pro platformu C#. Otevřete správce balíčků [NuGet](https://www.nuget.org/packages/aspose.imaging), vyhledejte
  **Aspose.Imaging** a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.
 
 {{% blocks/products/pf/agp/code-block title="Příkaz konzole Správce balíčků" offSpacer="true" %}}

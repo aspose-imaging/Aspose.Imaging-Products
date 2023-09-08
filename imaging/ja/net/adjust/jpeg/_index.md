@@ -16,7 +16,7 @@ description: オンプレミスドキュメントAPIを試して、.NET Framewor
 
 {{% blocks/products/pf/agp/content h2="C#を使用してJPEGファイルを調整する方法" %}}
 
-JPEGファイルを調整するために、 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) 機能が豊富で強力で使いやすいC＃プラットフォーム用の画像操作および変換APIであるAPI。開ける [NuGet](https://www.nuget.org/packages/aspose.imaging) パッケージマネージャー、検索 ** Aspose.Imaging ** とインストールします。パッケージマネージャーコンソールから次のコマンドを使用することもできます。
+最も経験豊富な写真家でも、撮影中にミスをしたり、不利な照明条件に遭遇したりすることがあります。このような状況は画像の欠陥につながる可能性がありますが、悪い写真であっても可能性はあります。 C# ライブラリを使用すると、明るさ、コントラスト、カラー ガンマを調整することで、これらの問題をプログラムで修正できます。写真が暗すぎる場合は、明るさを増やすと暗い部分が明るくなり、以前は隠れていた細部が見えるようになります。コントラストを調整すると、明るい部分と暗い部分の差が大きくなり、明るさの範囲が広がり、画像が改善されます。人工照明の下で写真を撮影した結果、望ましくない色相が生じた場合は、カラー ガンマ調整を利用してホワイト バランスを修正します。 JPEG ファイルを調整するには、次を使用します。 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) 機能が豊富で強力で使いやすいC＃プラットフォーム用の画像操作および変換APIであるAPI。開ける [NuGet](https://www.nuget.org/packages/aspose.imaging) パッケージマネージャー、検索 ** Aspose.Imaging ** とインストールします。パッケージマネージャーコンソールから次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title ="パッケージマネージャーコンソールコマンド" offSpacer = "true"%}}
 

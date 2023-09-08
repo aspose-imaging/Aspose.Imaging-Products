@@ -16,7 +16,7 @@ description: .NET Framework, .NET Core, Windows 애플리케이션, ASP.NET 웹 
 
 {{% blocks/products/pf/agp/content h2="C#을 사용하여 EMZ 파일을 디더링하는 방법" %}}
 
-EMZ 파일을 디더링하려면 다음을 사용합니다. [.NET용 Aspose.Imaging](https://products.aspose.com/imaging/net) 기능이 풍부하고 강력하며 사용하기 쉬운 C# 플랫폼용 이미지 조작 및 변환 API인 API입니다. 열려있는 [누겟](https://www.nuget.org/packages/aspose.imaging) 패키지 관리자, 검색 **아포즈.이미징** 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
+원활한 사용자 경험을 보장하려면 웹 배치를 위해 이미지를 효율적으로 최적화하는 것이 중요합니다. 이러한 최적화에 대한 한 가지 접근 방식은 이미지의 색상 팔레트를 줄여 파일 크기를 줄이고 페이지 로드 시간을 향상시키는 것입니다. 그러나 부드러운 색상 그라데이션이 중단되고 단색 영역에서 선명한 경계가 나타나는 것을 방지하려면 디더링이라는 이미지 스무딩 기능을 사용하는 것이 필수적입니다. 이 기술을 사용하면 이미지나 사진에 제어된 양의 \"노이즈\"를 도입할 수 있으며, 결과적으로 색상 필드 내 전환을 부드럽게 하고 이미지의 전반적인 시각적 매력을 향상시켜 긍정적인 효과를 얻을 수 있습니다. EMZ 파일을 디더링하기 위해 다음을 사용하겠습니다. [.NET용 Aspose.Imaging](https://products.aspose.com/imaging/net) 기능이 풍부하고 강력하며 사용하기 쉬운 C# 플랫폼용 이미지 조작 및 변환 API인 API입니다. 열려있는 [누겟](https://www.nuget.org/packages/aspose.imaging) 패키지 관리자, 검색 **아포즈.이미징** 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
 
 {{% blocks/products/pf/agp/code-block title="패키지 관리자 콘솔 명령" offSpacer="true" %}}
 

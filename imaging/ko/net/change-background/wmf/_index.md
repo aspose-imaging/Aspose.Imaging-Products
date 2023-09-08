@@ -16,7 +16,7 @@ description: .NET Framework, .NET Core, Windows 애플리케이션, ASP.NET 웹 
 
 {{% blocks/products/pf/agp/content h2="C#을 사용하여 WMF 파일의 배경을 변경하는 방법" %}}
 
-WMF 파일의 배경을 변경하려면 다음을 사용합니다. [.NET용 Aspose.Imaging](https://products.aspose.com/imaging/net) 기능이 풍부하고 강력하며 사용하기 쉬운 C# 플랫폼용 이미지 조작 및 변환 API인 API입니다. 열려있는 [누겟](https://www.nuget.org/packages/aspose.imaging) 패키지 관리자, 검색 **아포즈.이미징** 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
+이상적인 이미지를 얻으려면 배경을 변경해야 하는 경우가 많습니다. 원하는 WMF 형식 이미지 효과를 얻으려면 전경 개체를 그림의 나머지 부분에서 격리해야 합니다. 배경이 균일하면 자동 물체 감지가 가능합니다. 사진의 배경이 고르지 않거나 물체 분리가 어려운 경우 이미지에 사전 마킹을 하는 것이 좋습니다. 여기에는 의도한 개체가 있는 사진 내 직사각형 영역을 식별하고 해당 유형을 지정하는 작업이 포함됩니다. 이는 수동으로 수행하거나 Cloud API의 객체 인식 기능을 통해 자동으로 수행할 수 있습니다. 객체 선택 및 원본 배경 제거 후 새로운 배경을 적용하거나 투명도를 구현할 수 있습니다. WMF 파일의 배경을 변경하기 위해 다음을 사용합니다. [.NET용 Aspose.Imaging](https://products.aspose.com/imaging/net) 기능이 풍부하고 강력하며 사용하기 쉬운 C# 플랫폼용 이미지 조작 및 변환 API인 API입니다. 열려있는 [누겟](https://www.nuget.org/packages/aspose.imaging) 패키지 관리자, 검색 **아포즈.이미징** 설치합니다. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.
 
 {{% blocks/products/pf/agp/code-block title="패키지 관리자 콘솔 명령" offSpacer="true" %}}
 

@@ -16,7 +16,7 @@ description: Prova våra lokala dokument-API:er för att visa BMP-filer på .NET
 
 {{% blocks/products/pf/agp/content h2="Så här visar du BMP-bilder med C#" %}}
 
-För att visa BMP-filer använder vi [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API som är ett funktionsrikt, kraftfullt och lättanvänt API för bildmanipulation och konvertering för C#-plattformen. Öppna [NuGet](https://www.nuget.org/packages/aspose.imaging) pakethanteraren, sök efter
+Vi får ofta bilder i mindre vanliga format som källmaterial. För efterföljande visning av sådana bilder krävs speciella program. För att inte tänka på det här problemet och använda tiden för att lösa problemet för mer kreativa uppgifter, använd funktionerna i det grafiska biblioteket C#. Genom att konvertera sådana bilder till filer av mer populära format kan du öppna dem i standardbildvisningsprogrammet för din plattform. För att visa BMP-filer kommer vi att använda [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API som är ett funktionsrikt, kraftfullt och lättanvänt API för bildmanipulation och konvertering för C#-plattformen. Öppna [NuGet](https://www.nuget.org/packages/aspose.imaging) pakethanteraren, sök efter
  **Aspose.Imaging** och installera. Du kan också använda följande kommando från Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Pakethanterarens konsolkommando" offSpacer="true" %}}

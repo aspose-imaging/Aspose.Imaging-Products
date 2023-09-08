@@ -17,7 +17,7 @@ description: WMZ에서 EMF로의 Java 변환을 위한 샘플 코드입니다. �
 
 {{% blocks/products/pf/agp/content h2="Java을 사용하여 WMZ을 EMF로 변환하는 방법" %}}
 
-WMZ을 EMF로 변환하려면 다음을 사용합니다. [자바용 Aspose.Imaging](https://products.aspose.com/imaging/java) 기능이 풍부하고 강력하며 사용하기쉬운 Java 플랫폼용 이미지 조작 및 변환 API인 API입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.[메이븐(https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 다음 구성을 pom.xml에 추가하여 Maven 기반 프로젝트 내에 설치합니다.
+파일 형식 변환은 그래픽 디자이너가 겪는 일상적인 작업처럼 보일 수 있습니다. 하지만 그 중요성을 과소평가하는 것은 실수입니다. 귀하의 작업에 대한 평가는 이 작업을 얼마나 신속하고 효과적으로 처리하는지에 따라 달라질 수 있습니다. 일반적으로 원본 이미지는 인쇄나 온라인 출판에 더 적합한 형식으로 변환해야 합니다. 원본 이미지가 그래픽 편집기에서 가져온 경우 벡터 형식일 수 있습니다. 이 시나리오에서는 게시 목적으로 래스터화하고 래스터 형식으로 변환해야 합니다. 최적의 품질을 위해 이미지를 압축되지 않은 형식으로 저장하거나 파일 크기를 줄이기 위해 무손실 압축 형식으로 변환할 수 있습니다. 웹 게시와 같은 특정 상황에서는 손실이 있는 압축 형식을 선택할 수 있습니다. 이미지 데이터 압축을 위해 특별히 설계된 알고리즘을 사용하면 허용 가능한 이미지 품질을 유지하면서 파일 크기를 크게 줄일 수 있습니다. 이를 통해 인터넷에서 이미지 파일을 빠르게 다운로드할 수 있습니다. WMZ을 EMF로 변환하기 위해 다음을 사용합니다. [자바용 Aspose.Imaging](https://products.aspose.com/imaging/java) 기능이 풍부하고 강력하며 사용하기쉬운 Java 플랫폼용 이미지 조작 및 변환 API인 API입니다. 에서 직접 최신 버전을 다운로드할 수 있습니다.[메이븐(https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 다음 구성을 pom.xml에 추가하여 Maven 기반 프로젝트 내에 설치합니다.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 

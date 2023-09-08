@@ -17,7 +17,7 @@ description: DICOM 到 EMF C# 转换的示例代码。使用 API 示例代码在
 
 {{% blocks/products/pf/agp/content h2="如何使用 C# 将 DICOM 转换为 EMF" %}}
 
-为了将 DICOM 转换为 EMF，我们将使用 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一个功能丰富、功能强大 易于使用的 C# 平台图像处理和转换 API。打开 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 并安装。您还可以从包管理器控制台使用以下命令。
+转换文件格式似乎是图形设计师遇到的例行任务。然而，低估其重要性将是一个错误。对您工作的评估可能取决于您处理这项任务的速度和效率。通常，原始图像需要转换为更适合打印或在线出版的格式。如果原始图像来自图形编辑器，则它可能是矢量格式。在这种情况下，必须对其进行栅格化并转换为栅格格式以用于发布目的。您可以选择以未压缩格式保存图像以获得最佳质量，或将其转换为无损压缩格式以减小文件大小。在某些情况下，例如网络发布，您可以选择有损压缩格式。专门设计的图像数据压缩算法可以显着减小文件大小，同时保持可接受的图像质量。这有利于从互联网上快速下载图像文件。为了将 DICOM 转换为 EMF，我们将使用 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一个功能丰富、功能强大 易于使用的 C# 平台图像处理和转换 API。打开 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 并安装。您还可以从包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 

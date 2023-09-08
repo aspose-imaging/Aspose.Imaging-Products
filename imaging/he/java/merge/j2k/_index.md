@@ -16,7 +16,7 @@ description: נסה את ממשקי ה-API של מסמכים מקומיים כד
 
 {{% blocks/products/pf/agp/content h2="כיצד למזג קבצים J2K באמצעות Java" %}}
 
-על מנת למזג קבצים J2K, נשתמש [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API שהוא עשיר בתכונות, חזק וקל לשימוש למניפולציה והמרה של תמונות עבור פלטפורמת Java. אתה יכול להוריד את הגרסה האחרונה שלו ישירות מ-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) ולהתקין אותה בתוך ה-Maven שלך פרויקט מבוסס על ידי הוספת התצורות הבאות לקובץ pom.xml.
+אם אתה רוצה לתת ליצירתיות שלך להשתולל, זה הזמן להשתמש בקולאז' תמונות. פונקציה זו תאפשר לך למזג תמונות ותמונות גם אם קבצי המקור הם בפורמטים שונים. דרך מצוינת למשוך תשומת לב לתיק העבודות שלך היא להשתמש בטפטים לתמונות עם תמונות או דפוסים חוזרים. במקרה זה, ניתן לשלב תמונות בכיוונים אופקיים ואנכיים. במקרה שאתה צריך להדגים את התוצאה של עיבוד קובץ, אתה יכול בקלות למזג שתי תמונות: לפני ואחרי החלת אפקט הצילום. על מנת למזג קבצים J2K, אנו נשתמש [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API שהוא עשיר בתכונות, חזק וקל לשימוש למניפולציה והמרה של תמונות עבור פלטפורמת Java. אתה יכול להוריד את הגרסה האחרונה שלו ישירות מ-[Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) ולהתקין אותה בתוך ה-Maven שלך פרויקט מבוסס על ידי הוספת התצורות הבאות לקובץ pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="מאגר" offSpacer="true" %}}
 

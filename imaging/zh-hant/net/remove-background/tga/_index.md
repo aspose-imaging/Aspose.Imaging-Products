@@ -16,7 +16,7 @@ description: 嘗試使用我們的本地文檔 API 來刪除 .NET Framework、.N
 
 {{% blocks/products/pf/agp/content h2="如何使用 C# 刪除 TGA 文件中的背景" %}}
 
-為了去除 TGA 文件中的背景，我們將使用 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一個功能豐富、功能強大且易於使用的 C# 平台圖像處理和轉換 API。打開 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 並安裝。您也可以從包管理器控制台使用以下命令。
+從圖像中去除背景涉及隔離前景對象，這是一項需要對象識別的任務。存在多種方法來識別 TGA 格式照片中的對象。對於具有統一顏色背景的簡單圖像，自動方法就足夠了。然而，對於具有多個或部分合併人物的照片，預先標記對象就變得必要。這涉及指定要刪除的矩形區域和對像類型。在復雜的情況下，Cloud API 可以實現自動對象檢測。 Cloud API 提供了一個雲應用程序，能夠識別照片中的對象，利用生成的輪廓來去除背景。去除後，可以平滑圖形留下的邊緣以提高圖像質量。為了刪除 TGA 文件中的背景，我們將使用 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一個功能豐富、功能強大且易於使用的 C# 平台圖像處理和轉換 API。打開 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 並安裝。您也可以從包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 

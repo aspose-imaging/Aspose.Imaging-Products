@@ -16,7 +16,7 @@ description: オンプレミスドキュメントAPIを試して、.NET Framewor
 
 {{% blocks/products/pf/agp/content h2="C#を使用してDICOMファイルの背景を削除する方法" %}}
 
-DICOMファイルの背景を削除するために、 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) 機能が豊富で強力で使いやすいC＃プラットフォーム用の画像操作および変換APIであるAPI。開ける [NuGet](https://www.nuget.org/packages/aspose.imaging) パッケージマネージャー、検索 ** Aspose.Imaging ** とインストールします。パッケージマネージャーコンソールから次のコマンドを使用することもできます。
+画像から背景を除去するには、前景のオブジェクトを分離する必要があり、これにはオブジェクトの認識が必要です。 DICOM 形式の写真内のオブジェクトを識別するには、複数のアプローチが存在します。均一な色の背景を特徴とする単純な画像の場合は、自動方法で十分です。ただし、複数の図形または部分的に結合された図形を含む写真の場合は、オブジェクトを事前にマーキングする必要があります。これには、削除する長方形の領域とオブジェクト タイプを指定することが含まれます。複雑なケースでは、クラウド API を使用して自動オブジェクト検出が可能になります。 Cloud API は、写真内のオブジェクトを認識し、結果として得られる輪郭を背景の除去に利用できるクラウド アプリケーションを提供します。削除後、フィギュアによって残されたエッジを滑らかにして画質を向上させることができます。 DICOM ファイルの背景を削除するには、次を使用します。 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) 機能が豊富で強力で使いやすいC＃プラットフォーム用の画像操作および変換APIであるAPI。開ける [NuGet](https://www.nuget.org/packages/aspose.imaging) パッケージマネージャー、検索 ** Aspose.Imaging ** とインストールします。パッケージマネージャーコンソールから次のコマンドを使用することもできます。
 
 {{% blocks/products/pf/agp/code-block title ="パッケージマネージャーコンソールコマンド" offSpacer = "true"%}}
 

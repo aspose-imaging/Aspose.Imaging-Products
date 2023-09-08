@@ -16,7 +16,7 @@ description: .NET Framework, .NET Core, Windows Uygulaması, ASP.NET Web Uygulam
 
 {{% blocks/products/pf/agp/content h2="C# Kullanarak DNG Dosyaları Nasıl Kırpılır" %}}
 
-DNG dosyalarını kırpmak için kullanacağız [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. Açık [NuGet](https://www.nuget.org/packages/aspose.imaging) paket yöneticisi, ara **Aspose.Görüntüleme** ve yükleyin. Paket Yöneticisi Konsolundan aşağıdaki komutu da kullanabilirsiniz.
+Web sayfanızı ziyaret eden bir kullanıcıyı anında cezbetmek için dikkat çekici öğeleri görsellerin merkezine yerleştirin. Bazen fotoğrafın ana temasından uzaklaştıran gereksiz unsurları tamamen ortadan kaldırmak daha etkili olabilir. Bunu başarmak için C# kitaplığı tarafından sağlanan görüntü kırpma işlevini kullanın. Bunu, odak noktasını çevreleyen dikdörtgen bir alanın koordinatlarını belirterek veya görüntünün önemli kısmını seçmek için fotoğrafın kenarlarındaki kaymaları belirterek başarabilirsiniz. Bu sayede görüntüyü kırparak ilgisiz unsurları ortadan kaldırıyor ve ana konuyu vurguluyoruz. DNG dosyalarını kırpmak için şunu kullanacağız: [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. Açık [NuGet](https://www.nuget.org/packages/aspose.imaging) paket yöneticisi, ara **Aspose.Görüntüleme** ve yükleyin. Paket Yöneticisi Konsolundan aşağıdaki komutu da kullanabilirsiniz.
 
 {{%blocks/products/pf/agp/code-block title="Paket Yöneticisi Konsol Komutu" offSpacer="true" %}}
 

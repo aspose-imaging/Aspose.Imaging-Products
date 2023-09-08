@@ -16,7 +16,7 @@ description: 嘗試使用我們的本地文檔 API 來合併 Java 應用程序�
 
 {{% blocks/products/pf/agp/content h2="如何使用 Java 調整 APNG 文件的大小" %}}
 
-為了調整 APNG 文件的大小，我們將使用 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一個功能豐富、功能強大 易於使用的 Java 平台圖像處理和轉換 API。您可以直接從 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 並通過將以下配置添加到 pom.xml 將其安裝在基於 Maven 的項目中。
+構建網站是一項複雜的工作，每個元素都具有重要意義。填充網頁過程中的一個關鍵方面是調整圖像大小。通常，需要調整其尺寸並準備不同分辨率的圖像或照片。例如，具有預覽功能的圖像庫的頁面需要小縮略圖文件，而展示主圖像的頁面則需要高分辨率版本。對於較大的文件，調整大小對於減少總像素數至關重要，從而在不顯著影響圖像質量的情況下減小文件大小。在調整圖像大小時，您還可以選擇數據壓縮程度，以在圖像大小和質量之間取得平衡。減小圖像尺寸可以縮短互聯網的加載時間，從而增強網站上的用戶瀏覽體驗。 [Aspose.Imaging for Java](https://products.aspose.com/imaging/java) API 是一個功能豐富、功能強大 易於使用的 Java 平台圖像處理和轉換 API。您可以直接從 [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-imaging) 並通過將以下配置添加到 pom.xml 將其安裝在基於 Maven 的項目中。
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 

@@ -16,7 +16,7 @@ description: 嘗試使用我們的本地文檔 API 對 .NET Framework、.NET Cor
 
 {{% blocks/products/pf/agp/content h2="如何使用 C# 二進制化 WMZ 文件" %}}
 
-為了二進制化 WMZ 文件，我們將使用 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一個功能豐富、功能強大且易於使用的 C# 平台圖像處理和轉換 API。打開 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 並安裝。您也可以從包管理器控制台使用以下命令。
+彩色膠片的發明標誌著攝影領域的一個重要里程碑。然而，古典攝影本質上與黑白圖像有關。儘管相機具有廣泛的技術能力來捕捉全光譜的顏色，但許多人選擇單色，將他們的照片變成黑白。在這種情況下，二值化函數發揮作用，將所有像素轉換為二進制值：“0”表示白色，“1”表示黑色。在其他情況下，這種轉換不是由藝術選擇驅動的，而是由實際選擇驅動的，例如準備用於在書籍或報紙上印刷的黑白插圖。使用 C# 圖形庫，您可以指定像素亮度閾值。亮度值低於該閾值的像素將變為黑色，而高於該閾值的像素將變為白色。或者，您可以採用自適應二值化方法來考慮周圍區域的像素值。這種方法可以使生成的黑白圖像中顏色邊界之間的過渡更加平滑。為了二值化 WMZ 文件，我們將使用 [Aspose.Imaging for .NET](https://products.aspose.com/imaging/net) API 是一個功能豐富、功能強大且易於使用的 C# 平台圖像處理和轉換 API。打開 [NuGet](https://www.nuget.org/packages/aspose.imaging) 包管理器，搜索 **Aspose.Imaging** 並安裝。您也可以從包管理器控制台使用以下命令。
 
 {{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 
