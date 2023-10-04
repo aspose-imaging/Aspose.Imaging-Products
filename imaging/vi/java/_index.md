@@ -609,7 +609,7 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
 {{< blocks/products/pf/slr-element name="Hỗ trợ miễn phí" href="https://forum.aspose.com/c/imaging/" >}}
 {{< blocks/products/pf/slr-element name="Hỗ trợ trả phí" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/imaging/" >}}
-{{< blocks/products/pf/slr-element name="Ghi chú phát hành" href="https://docs.aspose.com/imaging/java/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Ghi chú phát hành" href="https://releases.aspose.com/imaging/java/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Tại sao lại sử dụng Aspose. Java" tabId="success-stories" >}}

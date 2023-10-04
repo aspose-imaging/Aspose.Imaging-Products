@@ -624,7 +624,7 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
 {{< blocks/products/pf/slr-element name="Kostenlose Unterstützung" href="https://forum.aspose.com/c/imaging/" >}}
 {{< blocks/products/pf/slr-element name="Bezahlte Unterstützung" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Bloggen" href="https://blog.aspose.com/category/imaging/" >}}
-{{< blocks/products/pf/slr-element name="Versionshinweise" href="https://docs.aspose.com/imaging/net/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Versionshinweise" href="https://releases.aspose.com/imaging/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Warum Aspose.Imaging für .NET" tabId="success-stories" >}}

@@ -609,7 +609,7 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
 {{< blocks/products/pf/slr-element name="Ücretsiz Destek" href="https://forum.aspose.com/c/imaging/" >}}
 {{< blocks/products/pf/slr-element name="Ücretli Destek" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/imaging/" >}}
-{{< blocks/products/pf/slr-element name="Sürüm notları" href="https://docs.aspose.com/imaging/java/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Sürüm notları" href="https://releases.aspose.com/imaging/java/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Neden Aspose.Imaging için Java" tabId="success-stories" >}}

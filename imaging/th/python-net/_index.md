@@ -601,7 +601,7 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
 {{< blocks/products/pf/slr-element name="การสนับสนุนฟรี" href="https://forum.aspose.com/c/imaging/" >}}
 {{< blocks/products/pf/slr-element name="การสนับสนุนแบบชำระเงิน" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="บล็อก" href="https://blog.aspose.com/category/imaging/" >}}
-{{< blocks/products/pf/slr-element name="บันทึกประจำรุ่น" href="https://docs.aspose.com/imaging/python-net/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="บันทึกประจำรุ่น" href="https://releases.aspose.com/imaging/python-net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="ทำไมต้อง Aspose.Imaging สำหรับ Python" tabId="success-stories" >}}

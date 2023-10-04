@@ -601,7 +601,7 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
 {{< blocks/products/pf/slr-element name="Bezplatná podpora" href="https://forum.aspose.com/c/imaging/" >}}
 {{< blocks/products/pf/slr-element name="Placená podpora" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/imaging/" >}}
-{{< blocks/products/pf/slr-element name="Poznámky k vydání" href="https://docs.aspose.com/imaging/python-net/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Poznámky k vydání" href="https://releases.aspose.com/imaging/python-net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Proč Aspose.Imaging pro Python" tabId="success-stories" >}}

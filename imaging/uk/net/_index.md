@@ -624,7 +624,7 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
 {{< blocks/products/pf/slr-element name="Безкоштовна підтримка" href="https://forum.aspose.com/c/imaging/" >}}
 {{< blocks/products/pf/slr-element name="Платна підтримка" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Блог" href="https://blog.aspose.com/category/imaging/" >}}
-{{< blocks/products/pf/slr-element name="Примітки до випуску" href="https://docs.aspose.com/imaging/net/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Примітки до випуску" href="https://releases.aspose.com/imaging/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Для чого Aspose.Imaging .NET" tabId="success-stories" >}}

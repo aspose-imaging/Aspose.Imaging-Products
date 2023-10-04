@@ -624,7 +624,7 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
 {{< blocks/products/pf/slr-element name="תמיכה חינם" href="https://forum.aspose.com/c/imaging/" >}}
 {{< blocks/products/pf/slr-element name="תמיכה בתשלום" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="בלוג" href="https://blog.aspose.com/category/imaging/" >}}
-{{< blocks/products/pf/slr-element name="מכתבי שחרור" href="https://docs.aspose.com/imaging/net/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="מכתבי שחרור" href="https://releases.aspose.com/imaging/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="למה Aspose.Imaging עבור .NET" tabId="success-stories" >}}
