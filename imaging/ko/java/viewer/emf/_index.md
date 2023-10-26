@@ -83,7 +83,7 @@ Java용 Aspose.Imaging은 모든 주요 운영 체제에서 지원됩니다. 다
 
 {{% blocks/products/pf/agp/code-block title="EMF 이미지 보기 - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "6886c18d67fa6c7970d9cf260b077988" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "7573984073baac0442285e30eec8474a" "convert-emf-to-png.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

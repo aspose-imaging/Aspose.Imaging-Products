@@ -83,7 +83,7 @@ Aspose.Imaging dla Java jest obsługiwane we wszystkich głównych systemach ope
 
 {{% blocks/products/pf/agp/code-block title="Wyświetl obrazy w formacie DICOM – Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "d2556ab69aeedafc6cf8c7c569c46075" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "25eac852f2514877f6fbde811a0d0ece" "convert-dicom-to-png.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

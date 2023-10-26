@@ -83,7 +83,7 @@ Java용 Aspose.Imaging은 모든 주요 운영 체제에서 지원됩니다. 다
 
 {{% blocks/products/pf/agp/code-block title="EMZ 이미지 보기 - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "339fb6f6f36b878e48c3cf057f895589" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "fa7aea6cdf57cdfb057b80a344c3ea2c" "convert-emz-to-png.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

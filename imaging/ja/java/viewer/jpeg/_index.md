@@ -83,7 +83,7 @@ Aspose.Imaging for Javaは、すべての主要なオペレーティングシス
 
 {{% blocks/products/pf/agp/code-block title="JPEG画像を表示-Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "cfe5a5e567a33d1bd815485a06f09677" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "d0d1035660cbebbb44d4d89dabc29f7e" "convert-jpeg-to-png.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

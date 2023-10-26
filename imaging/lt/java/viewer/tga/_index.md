@@ -83,7 +83,7 @@ Jums reikia [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imag
 
 {{% blocks/products/pf/agp/code-block title="Peržiūrėti TGA vaizdus – Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "7ea8d36893e41a713493a85f89a7bbc7" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "4348ea20efe85236fb631ec9a4fcb1d6" "convert-tga-to-png.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

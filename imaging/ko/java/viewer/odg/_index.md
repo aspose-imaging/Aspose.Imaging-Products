@@ -83,7 +83,7 @@ Java용 Aspose.Imaging은 모든 주요 운영 체제에서 지원됩니다. 다
 
 {{% blocks/products/pf/agp/code-block title="ODG 이미지 보기 - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "9cb710068cd36fa27e64a3e2c8dece30" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "c3da84df2c05d47d107da8b9c31f2cf0" "convert-odg-to-png.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

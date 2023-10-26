@@ -83,7 +83,7 @@ description: 嘗試使用我們的本地文檔 API 來查看 .NET Framework、.N
 
 {{% blocks/products/pf/agp/code-block title="查看 BMP 圖像 - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "6ec855304907234b26961df70f13afb0" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "b5f2fbf9e4a8a5aa6094ef695a2f7e2a" "convert-bmp-to-png.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

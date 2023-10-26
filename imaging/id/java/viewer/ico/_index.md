@@ -83,7 +83,7 @@ Aspose.Imaging untuk Java didukung di semua sistem operasi utama. Pastikan saja 
 
 {{% blocks/products/pf/agp/code-block title="Lihat gambar ICO - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "f8341ff403180df3101ad95318d7954e" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "d038efb903779c7f599e136f789a9732" "convert-ico-to-png.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

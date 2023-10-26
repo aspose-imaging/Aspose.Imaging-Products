@@ -84,7 +84,7 @@ description: 尝试使用我们的本地文档 API 来查看 .NET Framework、.N
 
 {{% blocks/products/pf/agp/code-block title="查看 DICOM 图像 - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "d2556ab69aeedafc6cf8c7c569c46075" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "25eac852f2514877f6fbde811a0d0ece" "convert-dicom-to-png.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

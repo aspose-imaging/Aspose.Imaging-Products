@@ -83,7 +83,7 @@ Aspose.Imaging pour Java est pris en charge sur tous les principaux systèmes d'
 
 {{% blocks/products/pf/agp/code-block title="Afficher les images WMF - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "1bf18dd9bd143c0f8c4f8c47e2b51978" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "b47fe38ff3b1ec670e1452cbd327b627" "convert-wmf-to-png.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

@@ -83,7 +83,7 @@ Aspose.Imaging for Java مدعوم على جميع أنظمة التشغيل ا�
 
 {{% blocks/products/pf/agp/code-block title="عرض صور DNG - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "61a66808ddf0e2e9ba60c4e6e8c576c2" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "c98162de21b2c201e4eaabb5180ddb62" "convert-dng-to-png.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
