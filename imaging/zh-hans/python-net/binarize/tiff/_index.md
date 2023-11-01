@@ -59,7 +59,7 @@ description: Try our On-Premise document APIs to Binarize TIFF image files using
 
 {{% blocks/products/pf/agp/code-block title="二值化 TIFF 图像 - Python" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "3fa6b0222e82664ed1216a1a2f5d3663" "cartoonify-images.py" >}}
+{{< gist "aspose-com-gists" "3fa6b0222e82664ed1216a1a2f5d3663" "binarize-images.py" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

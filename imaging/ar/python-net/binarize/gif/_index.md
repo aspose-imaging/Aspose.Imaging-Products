@@ -59,7 +59,7 @@ Aspose.Imaging for Python مدعوم على جميع أنظمة التشغيل �
 
 {{% blocks/products/pf/agp/code-block title="ثنائية GIF الصور - Python" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "3fa6b0222e82664ed1216a1a2f5d3663" "cartoonify-images.py" >}}
+{{< gist "aspose-com-gists" "3fa6b0222e82664ed1216a1a2f5d3663" "binarize-images.py" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

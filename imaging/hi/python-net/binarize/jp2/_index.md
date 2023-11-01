@@ -59,7 +59,7 @@ Aspose.Imaging for Python सभी प्रमुख ऑपरेटिंग 
 
 {{% blocks/products/pf/agp/code-block title="JP2 छवियों को बिनराइज़ करें - Python" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "3fa6b0222e82664ed1216a1a2f5d3663" "cartoonify-images.py" >}}
+{{< gist "aspose-com-gists" "3fa6b0222e82664ed1216a1a2f5d3663" "binarize-images.py" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

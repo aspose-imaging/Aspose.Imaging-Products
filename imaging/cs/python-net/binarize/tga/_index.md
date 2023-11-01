@@ -59,7 +59,7 @@ Aspose.Imaging pro Python je podporován ve všech hlavních operačních systé
 
 {{% blocks/products/pf/agp/code-block title="Binarizace obrázků TGA – Python" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "3fa6b0222e82664ed1216a1a2f5d3663" "cartoonify-images.py" >}}
+{{< gist "aspose-com-gists" "3fa6b0222e82664ed1216a1a2f5d3663" "binarize-images.py" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

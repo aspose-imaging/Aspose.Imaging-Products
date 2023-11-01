@@ -59,7 +59,7 @@ Aspose.Imaging untuk Python didukung di semua sistem operasi utama. Pastikan saj
 
 {{% blocks/products/pf/agp/code-block title="Binarisasi gambar BMP - Python" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "3fa6b0222e82664ed1216a1a2f5d3663" "cartoonify-images.py" >}}
+{{< gist "aspose-com-gists" "3fa6b0222e82664ed1216a1a2f5d3663" "binarize-images.py" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
