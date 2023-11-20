@@ -83,7 +83,7 @@ Aspose.Imaging per Java è supportato su tutti i principali sistemi operativi. A
 
 {{% blocks/products/pf/agp/code-block title="Visualizza le immagini di WMZ - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "69c0f75a96aeef906238823f6e345845" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "76d27d5023ad437bb805109869e11cc2" "convert-wmz-to-png.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

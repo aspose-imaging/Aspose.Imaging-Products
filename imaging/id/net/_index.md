@@ -16,13 +16,58 @@ description: Pemrosesan gambar dan manipulasi perpustakaan API untuk membuat edi
 liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/net" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/net/" installationsDocsLink="https://docs.aspose.com/imaging/net/installation/" nugetLink="https://www.nuget.org/packages/aspose.imaging" nugetPackageName="Aspose.Imaging" directDownloadLink="https://downloads.aspose.com/imaging/net/" liveDemosText="Demo Langsung" overviewText="Ringkasan" featuresText="Fitur" resourcesText="Sumber daya" pricingText="harga" downloadText="Unduh" learnText="Mempelajari" buyText="Membeli" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="di" carousel1Text2="Lirikan" carousel2Text1="Platform" carousel2Text2="Kemerdekaan" carousel3Text1="File yang Didukung" carousel3Text2="format">}}
-<p align="justify">
- Aspose.Imaging for .NET adalah perpustakaan yang menawarkan fitur pemrosesan gambar tingkat lanjut. Anda dapat dengan mudah membuat, memuat, memanipulasi, mengonversi, mengompresi gambar atau foto menggunakan API ini. Juga Asumsi. Pustaka pencitraan mendukung menggambar dan bekerja dengan grafik primitif. Ekspor dan konversi gambar (termasuk pemrosesan gambar multi-halaman yang seragam) adalah salah satu fitur inti API bersama dengan transformasi gambar (mengubah ukuran, memotong, membalik&memutar, binarisasi, skala abu-abu, menyesuaikan), fitur manipulasi gambar lanjutan (pemfilteran, dithering, masking, deskewing ) dan strategi pengoptimalan memori.
-</p>
 
-<p align="justify">
- Aspose.Imaging for .NET adalah API yang fleksibel, stabil dan kuat, mampu memproses format yang paling umum digunakan bersama dengan beberapa format khusus seperti DjVu, DICOM, WebP & DNG. Selain itu, ini memperluas dukungan asli untuk format gambar & fungsi pemrosesan untuk .NET dan .NET Core. Aspose.Imaging adalah pustaka lintas platform, kompatibel dengan Windows dan Linux.
-</p>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Buka Potensi Penuh Pemrosesan Gambar dengan Aspose.Imaging untuk .NET
+    </h2>
+    <p align="justify">
+     Aspose.Imaging untuk .NET adalah perpustakaan ramah pengguna yang memberdayakan Anda dengan kemampuan pemrosesan gambar tingkat lanjut. Dengan API serbaguna ini, Anda dapat dengan mudah membuat, memuat, memanipulasi, mengonversi, dan mengompresi gambar atau foto, mengaktifkan berbagai fitur pemrosesan gambar, semuanya tanpa memerlukan editor gambar khusus.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Temukan Fitur Utama:
+    </h2>
+    <p>
+     <ul>
+       <li>
+       Transformasi Gambar: Ubah ukuran, potong, balik, putar, binerisasi, skala abu-abu, deskewing, dan sesuaikan gambar dengan mudah.
+       </li>
+       <li>
+       Manipulasi Tingkat Lanjut: Terapkan filter, pencampuran alfa, alat tongkat ajaib, hapus tanda air, hapus latar belakang, dithering, dan masking untuk mengendalikan tugas pemrosesan gambar Anda.
+       </li>
+       <li>
+       Pengoptimalan Memori yang Efisien: Nikmati strategi pengoptimalan memori yang memastikan pemrosesan gambar lancar dan efisien.
+       </li>
+       <li>
+       Menggambar dan Primitif Grafis: Manfaatkan kekuatan alat menggambar dan bekerja dengan primitif grafis untuk menyempurnakan proyek Anda.
+       </li>
+       <li>
+       Ekspor dan Konversi: Ekspor dan konversi gambar dengan lancar, termasuk pemrosesan gambar multi-halaman yang seragam.
+       </li>
+     </ul>
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Kompatibilitas Format
+    </h2>
+    <p align="justify">
+     Aspose.Imaging untuk .NET tidak hanya fleksibel dan stabil tetapi juga serbaguna. Ini mendukung format gambar yang paling umum digunakan, dan melangkah lebih jauh dengan menyediakan dukungan untuk format khusus seperti DjVu, DICOM, WebP, EPS, dan DNG. Dukungan format ekstensif ini menjadikannya solusi tepat untuk berbagai tugas pemrosesan gambar.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Kompatibilitas Lintas Platform
+    </h2>
+    <p align="justify">
+     Aspose.Imaging adalah perpustakaan lintas platform, memastikan kompatibilitas dengan lingkungan Windows dan Linux. Baik Anda bekerja pada sistem Windows atau Linux, Anda dapat mengandalkan Aspose.Imaging untuk menghadirkan kemampuan pemrosesan gambar yang konsisten dan berkualitas tinggi.
+    </p>
+    <p align="justify">
+     Tingkatkan proyek pemrosesan gambar Anda ke tingkat yang lebih tinggi dengan Aspose.Imaging untuk .NET. Rasakan fleksibilitas, stabilitas, dan kekuatan API kami sekarang.
+    </p>
+   </div>
 
 {{< /blocks/products/pf/tab-content >}}
 

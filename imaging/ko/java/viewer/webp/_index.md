@@ -83,7 +83,7 @@ Java용 Aspose.Imaging은 모든 주요 운영 체제에서 지원됩니다. 다
 
 {{% blocks/products/pf/agp/code-block title="WEBP 이미지 보기 - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "693590fa27d4fe2d795cc7fbcf5cbd64" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "b5ae14ac978fa1304901a8c7f49b5137" "convert-webp-to-png.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

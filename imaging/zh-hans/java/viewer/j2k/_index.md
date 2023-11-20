@@ -84,7 +84,7 @@ description: 尝试使用我们的本地文档 API 来查看 .NET Framework、.N
 
 {{% blocks/products/pf/agp/code-block title="查看 J2K 图像 - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "edfe5302b3a0d2d40140d608bf13a799" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "ceaefc1656df207ad91467516e63f287" "convert-j2k-to-png.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

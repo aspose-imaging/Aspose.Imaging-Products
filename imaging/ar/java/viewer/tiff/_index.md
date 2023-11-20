@@ -83,7 +83,7 @@ Aspose.Imaging for Java مدعوم على جميع أنظمة التشغيل ا�
 
 {{% blocks/products/pf/agp/code-block title="عرض صور TIFF - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "a0918ab26b50f4aaa25213f37eb2e95b" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "3d47ffb21a520c5ff9be971b72b0a9b9" "convert-tiff-to-png.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

@@ -83,7 +83,7 @@ Java용 Aspose.Imaging은 모든 주요 운영 체제에서 지원됩니다. 다
 
 {{% blocks/products/pf/agp/code-block title="TGA 이미지 보기 - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "7ea8d36893e41a713493a85f89a7bbc7" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "4348ea20efe85236fb631ec9a4fcb1d6" "convert-tga-to-png.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

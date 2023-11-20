@@ -16,13 +16,58 @@ description: Python Image การประมวลผลและไลบร
 liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/python-net" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/python-net/" installationsDocsLink="https://docs.aspose.com/imaging/python-net/installation/" pipLink="https://pypi.org/project/aspose-imaging-python-net/" directDownloadLink="https://downloads.aspose.com/imaging/python-net/" liveDemosText="การสาธิตสด" overviewText="ภาพรวม" featuresText="คุณสมบัติ" resourcesText="ทรัพยากร" pricingText="ราคา" downloadText="ดาวน์โหลด" learnText="เรียนรู้" buyText="ซื้อ" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="ที่อา" carousel1Text2="ชำเลือง" carousel2Text1="แพลตฟอร์ม" carousel2Text2="อิสรภาพ" carousel3Text1="ไฟล์ที่รองรับ" carousel3Text2="รูปแบบ">}}
-<p align="justify">
- Aspose.Imaging สำหรับ Python ผ่าน .NET เป็นไลบรารีที่นำเสนอคุณสมบัติการประมวลผลภาพขั้นสูง คุณสามารถสร้าง โหลด จัดการ แปลง หรือบีบอัดภาพโดยใช้ API นี้ นอกจากนี้ Aspose.Imaging สำหรับ Python ผ่าน .NET ยังรองรับการวาดและทำงานกับกราฟิกดั้งเดิม การส่งออกและการแปลงรูปภาพ - หนึ่งในคุณสมบัติหลักของ API พร้อมกับการแปลงรูปภาพ (ปรับขนาด, ครอบตัด, พลิก&หมุน, ไบนาไรเซชัน, ระดับสีเทา, ปรับแต่ง), คุณสมบัติการจัดการรูปภาพขั้นสูง (การกรอง, การรวมภาพ, การปิดบัง, การเลื่อนโต๊ะ)
-</p>
 
-<p align="justify">
- Aspose.Imaging สำหรับ Python ผ่าน .NET เป็น API ที่สามารถประมวลผลรูปแบบรูปภาพที่ใช้กันทั่วไป และรองรับรูปแบบพิเศษบางอย่าง เช่น DjVu, DICOM, WebP และ DNG
-</p>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     ปลดล็อกศักยภาพเต็มรูปแบบของการประมวลผลภาพด้วย Aspose.Imaging สำหรับ Python
+    </h2>
+    <p align="justify">
+     Aspose.Imaging สำหรับ Python เป็นไลบรารีที่ใช้งานง่ายซึ่งเพิ่มศักยภาพให้กับคุณด้วยความสามารถในการประมวลผลภาพขั้นสูง ด้วย API อเนกประสงค์นี้ คุณสามารถสร้าง โหลด จัดการ แปลง และบีบอัดรูปภาพหรือภาพถ่ายได้อย่างง่ายดาย ทำให้ใช้ฟีเจอร์การประมวลผลรูปภาพที่หลากหลายได้โดยไม่ต้องใช้โปรแกรมแก้ไขรูปภาพเฉพาะ
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     ค้นพบคุณสมบัติที่สำคัญ:
+    </h2>
+    <p>
+     <ul>
+       <li>
+       การแปลงภาพ: ปรับขนาด ครอบตัด พลิก หมุน ไบนารี ระดับสีเทา ปรับโต๊ะ และปรับภาพได้อย่างง่ายดาย
+       </li>
+       <li>
+       การจัดการขั้นสูง: ใช้ฟิลเตอร์, การผสมอัลฟ่า, เครื่องมือไม้กายสิทธิ์, ลบลายน้ำ, ลบพื้นหลัง, การปรับสีและการมาสก์เพื่อควบคุมงานการประมวลผลภาพของคุณ
+       </li>
+       <li>
+       การเพิ่มประสิทธิภาพหน่วยความจำอย่างมีประสิทธิภาพ: เพลิดเพลินไปกับกลยุทธ์การเพิ่มประสิทธิภาพหน่วยความจำที่ช่วยให้การประมวลผลภาพที่ราบรื่นและมีประสิทธิภาพ
+       </li>
+       <li>
+       การวาดและกราฟิกดั้งเดิม: ควบคุมพลังของเครื่องมือวาดภาพและทำงานกับกราฟิกดั้งเดิมเพื่อปรับปรุงโครงการของคุณ
+       </li>
+       <li>
+       ส่งออกและแปลง: ส่งออกและแปลงรูปภาพได้อย่างราบรื่น รวมถึงการประมวลผลรูปภาพหลายหน้าแบบเดียวกัน
+       </li>
+     </ul>
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     ความเข้ากันได้ของรูปแบบ
+    </h2>
+    <p align="justify">
+     Aspose.Imaging สำหรับ Python ไม่เพียงแต่มีความยืดหยุ่นและเสถียรเท่านั้น แต่ยังมีความอเนกประสงค์อีกด้วย รองรับรูปแบบภาพที่ใช้บ่อยที่สุด และก้าวไปอีกขั้นด้วยการรองรับรูปแบบพิเศษ เช่น DjVu, DICOM, WebP, EPS และ DNG การสนับสนุนรูปแบบที่กว้างขวางนี้ทำให้เป็นโซลูชันที่เหมาะกับงานการประมวลผลภาพที่หลากหลาย
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     ความเข้ากันได้ข้ามแพลตฟอร์ม
+    </h2>
+    <p align="justify">
+     Aspose.Imaging เป็นไลบรารีข้ามแพลตฟอร์ม ซึ่งรับประกันความเข้ากันได้กับทั้งสภาพแวดล้อม Windows และ Linux ไม่ว่าคุณจะทำงานบนระบบ Windows หรือ Linux คุณสามารถไว้วางใจ Aspose.Imaging เพื่อมอบความสามารถในการประมวลผลภาพที่สม่ำเสมอและมีคุณภาพสูง
+    </p>
+    <p align="justify">
+     ยกระดับโปรเจ็กต์การประมวลผลภาพของคุณไปสู่อีกระดับด้วย Aspose.Imaging สำหรับ Python สัมผัสประสบการณ์ความยืดหยุ่น ความเสถียร และประสิทธิภาพของ API ของเราได้แล้ววันนี้
+    </p>
+   </div>
 
 {{< /blocks/products/pf/tab-content >}}
 
@@ -328,18 +373,18 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-    
+    <a href="/imaging/th/python-net/crop/">
      ครอบตัด
-    
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-    
+    <a href="/imaging/th/python-net/resize/">
      ปรับขนาด
-    
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -374,9 +419,9 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-road ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-        
+    <a href="/imaging/th/python-net/remove-background/">    
      ลบพื้นหลัง
-    
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -404,36 +449,36 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-road ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/th/python-net/change-background/">
      เปลี่ยนพื้นหลัง
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-wordpress ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/th/python-net/watermark/">
      เพิ่มลายน้ำให้กับภาพ     
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-search ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/th/python-net/viewer/">
      ดูภาพ
-     
+     </a>
     </p>
    </div>   
    <div class="col-lg-4">
     <em class="fa fa-compress ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/th/python-net/compress/">
      บีบอัด
-     
+     </a>
     </p>
    </div>
 <div class="col-lg-4">
@@ -442,7 +487,7 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <p class="col-lg-10">
      <a href="/imaging/th/python-net/merge/">
      ผสาน
-     
+     </a>
     </p>
    </div>
 <div class="col-lg-12">
@@ -452,9 +497,9 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-compass ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/th/python-net/dither/">
      สองจิตสองใจ
-     
+     </a>
     </p>
    </div>
 
@@ -462,9 +507,9 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-black-tie ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/th/python-net/grayscale/">
      ระดับสีเทา
-     
+     </a>
     </p>
    </div>
    
@@ -472,36 +517,36 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/th/python-net/filter/">
      กรอง
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-television ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/th/python-net/cartoonify/">
      การ์ตูน
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/th/python-net/binarize/">
      ไบนาไรซ์
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-adjust ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/th/python-net/adjust/">
      ปรับ
-     
+     </a>
     </p>
    </div>
 

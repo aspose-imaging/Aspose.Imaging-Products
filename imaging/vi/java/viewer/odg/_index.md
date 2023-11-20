@@ -83,7 +83,7 @@ Aspose.Imaging cho Java được hỗ trợ trên tất cả các hệ điều h
 
 {{% blocks/products/pf/agp/code-block title="Xem hình ảnh ODG - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "9cb710068cd36fa27e64a3e2c8dece30" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "c3da84df2c05d47d107da8b9c31f2cf0" "convert-odg-to-png.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

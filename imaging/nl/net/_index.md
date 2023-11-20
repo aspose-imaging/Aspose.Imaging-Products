@@ -16,13 +16,58 @@ description: Bibliotheek-API voor beeldverwerking en manipulatie om afbeeldingen
 liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/net" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/net/" installationsDocsLink="https://docs.aspose.com/imaging/net/installation/" nugetLink="https://www.nuget.org/packages/aspose.imaging" nugetPackageName="Aspose.Imaging" directDownloadLink="https://downloads.aspose.com/imaging/net/" liveDemosText="Live demo's" overviewText="Overzicht" featuresText="Functies" resourcesText="Bronnen" pricingText="Prijzen" downloadText="Downloaden" learnText="Leren" buyText="Kopen" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="bij een" carousel1Text2="Oogopslag" carousel2Text1="Platform" carousel2Text2="Onafhankelijkheid" carousel3Text1="Ondersteund bestand" carousel3Text2="formaten">}}
-<p align="justify">
- opleggen. Imaging for.NET is een bibliotheek die geavanceerde functies voor beeldverwerking biedt. Met deze API kunt u eenvoudig afbeeldingen of foto's maken, laden, manipuleren, converteren, comprimeren. Ook Asponeren. De beeldbibliotheek ondersteunt tekenen en werken met grafische primitieven. Het exporteren en converteren van afbeeldingen (inclusief uniforme beeldverwerking van meerdere pagina's) is een van de API-kernfuncties, samen met afbeeldingstransformaties (formaat wijzigen, bijsnijden, spiegelen en roteren, binarisatie, grijswaarden, aanpassen), geavanceerde functies voor beeldmanipulatie (filteren, dithering, maskeren, rechtzetten ) en geheugenoptimalisatiestrategieën.
-</p>
 
-<p align="justify">
- Aspose.Imaging for .NET is een flexibele, stabiele en krachtige API die de meest gebruikte formaten kan verwerken, samen met enkele speciale formaten zoals DjVu, DICOM, WebP & DNG. Bovendien breidt het de native ondersteuning voor beeldformaten en verwerkingsfuncties voor .NET en .NET Core uit. Aspose.Imaging is een platformonafhankelijke bibliotheek, het is compatibel met Windows en Linux.
-</p>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Ontgrendel het volledige potentieel van beeldverwerking met Aspose.Imaging voor .NET
+    </h2>
+    <p align="justify">
+     Aspose.Imaging voor .NET is een gebruiksvriendelijke bibliotheek die u geavanceerde beeldverwerkingsmogelijkheden biedt. Met deze veelzijdige API kunt u moeiteloos afbeeldingen of foto's maken, laden, manipuleren, converteren en comprimeren, waardoor een breed scala aan beeldverwerkingsfuncties mogelijk wordt gemaakt, allemaal zonder dat u een speciale afbeeldingseditor nodig heeft.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Ontdek de belangrijkste kenmerken:
+    </h2>
+    <p>
+     <ul>
+       <li>
+       Beeldtransformatie: het formaat wijzigen, bijsnijden, spiegelen, roteren, binariseren, grijstinten, rechtzetten en afbeeldingen eenvoudig aanpassen.
+       </li>
+       <li>
+       Geavanceerde manipulatie: pas filters, alpha-blending, toverstaftool toe, verwijder watermerk, verwijder achtergrond, dithering en maskering om de controle over uw beeldverwerkingstaken over te nemen.
+       </li>
+       <li>
+       Efficiënte geheugenoptimalisatie: Geniet van geheugenoptimalisatiestrategieën die zorgen voor een soepele en efficiënte beeldverwerking.
+       </li>
+       <li>
+       Teken- en grafische primitieven: benut de kracht van tekengereedschappen en werk met grafische primitieven om uw projecten te verbeteren.
+       </li>
+       <li>
+       Exporteren en converteren: Afbeeldingen naadloos exporteren en converteren, inclusief uniforme beeldverwerking van meerdere pagina's.
+       </li>
+     </ul>
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Formaatcompatibiliteit
+    </h2>
+    <p align="justify">
+     Aspose.Imaging voor .NET is niet alleen flexibel en stabiel, maar ook veelzijdig. Het ondersteunt de meest gebruikte beeldformaten en gaat nog een stap verder door ondersteuning te bieden voor speciale formaten zoals DjVu, DICOM, WebP, EPS en DNG. Dankzij deze uitgebreide formaatondersteuning is dit uw ideale oplossing voor een breed scala aan beeldverwerkingstaken.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Compatibiliteit tussen platforms
+    </h2>
+    <p align="justify">
+     Aspose.Imaging is een platformonafhankelijke bibliotheek die compatibiliteit met zowel Windows- als Linux-omgevingen garandeert. Of u nu op een Windows- of Linux-systeem werkt, u kunt erop vertrouwen dat Aspose.Imaging consistente, hoogwaardige beeldverwerkingsmogelijkheden levert.
+    </p>
+    <p align="justify">
+     Til uw beeldverwerkingsprojecten naar nieuwe hoogten met Aspose.Imaging voor .NET. Ervaar vandaag nog de flexibiliteit, stabiliteit en kracht van onze API.
+    </p>
+   </div>
 
 {{< /blocks/products/pf/tab-content >}}
 

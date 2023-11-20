@@ -83,7 +83,7 @@ Aspose.Imaging for Java सभी प्रमुख ऑपरेटिंग �
 
 {{% blocks/products/pf/agp/code-block title="TIF इमेज देखें - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "7541e333aba1f137d31c8f0b15a4519f" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "4692bb0a11165a68859b6d36c30f4be1" "convert-tif-to-png.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

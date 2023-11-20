@@ -16,13 +16,58 @@ description: API de biblioteca de procesamiento y manipulación de imágenes par
 liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/net" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/net/" installationsDocsLink="https://docs.aspose.com/imaging/net/installation/" nugetLink="https://www.nuget.org/packages/aspose.imaging" nugetPackageName="Aspose.Imaging" directDownloadLink="https://downloads.aspose.com/imaging/net/" liveDemosText="demostraciones en vivo" overviewText="Visión de conjunto" featuresText="Características" resourcesText="Recursos" pricingText="Precios" downloadText="Descargar" learnText="Aprender" buyText="Comprar" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="en un" carousel1Text2="Mirada" carousel2Text1="Plataforma" carousel2Text2="Independencia" carousel3Text1="Archivo compatible" carousel3Text2="Formatos">}}
-<p align="justify">
- Aspose.Imaging for .NET es una biblioteca que ofrece funciones avanzadas de procesamiento de imágenes. Puede crear, cargar, manipular, convertir, comprimir imágenes o fotos fácilmente con esta API. También Aspose. La biblioteca de imágenes admite el dibujo y el trabajo con primitivas gráficas. La exportación y conversión de imágenes (incluido el procesamiento uniforme de imágenes de varias páginas) es una de las funciones principales de la API junto con las transformaciones de imágenes (redimensionar, recortar, voltear y rotar, binarización, escala de grises, ajustar), funciones avanzadas de manipulación de imágenes (filtrado, tramado, enmascaramiento, enderezamiento ) y estrategias de optimización de memoria.
-</p>
 
-<p align="justify">
- Aspose.Imaging for .NET es una API flexible, estable y potente, capaz de procesar los formatos más utilizados junto con algunos formatos especiales como DjVu, DICOM, WebP y DNG. Además, amplía el soporte nativo para formatos de imagen y funciones de procesamiento para .NET y .NET Core. Aspose.Imaging es una biblioteca multiplataforma, es compatible con Windows y Linux.
-</p>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Libere todo el potencial del procesamiento de imágenes con Aspose.Imaging para .NET
+    </h2>
+    <p align="justify">
+     Aspose.Imaging para .NET es una biblioteca fácil de usar que le brinda capacidades avanzadas de procesamiento de imágenes. Con esta API versátil, puede crear, cargar, manipular, convertir y comprimir imágenes o fotografías sin esfuerzo, lo que permite una amplia gama de funciones de procesamiento de imágenes, todo sin necesidad de un editor de imágenes dedicado.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Descubra las características clave:
+    </h2>
+    <p>
+     <ul>
+       <li>
+       Transformación de imágenes: cambie el tamaño, recorte, voltee, rote, binarice, ajuste la escala de grises, enderece y ajuste imágenes con facilidad.
+       </li>
+       <li>
+       Manipulación avanzada: aplique filtros, combinación alfa, herramienta de varita mágica, elimine marcas de agua, elimine fondos, tramados y enmascaramientos para tomar el control de sus tareas de procesamiento de imágenes.
+       </li>
+       <li>
+       Optimización eficiente de la memoria: disfrute de estrategias de optimización de la memoria que garantizan un procesamiento de imágenes fluido y eficiente.
+       </li>
+       <li>
+       Primitivas gráficas y de dibujo: aproveche el poder de las herramientas de dibujo y trabaje con primitivas gráficas para mejorar sus proyectos.
+       </li>
+       <li>
+       Exportación y conversión: Exporte y convierta imágenes sin problemas, incluido el procesamiento uniforme de imágenes de varias páginas.
+       </li>
+     </ul>
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Compatibilidad de formatos
+    </h2>
+    <p align="justify">
+     Aspose.Imaging para .NET no solo es flexible y estable sino también versátil. Admite los formatos de imagen más utilizados y va un paso más allá al brindar soporte para formatos especiales como DjVu, DICOM, WebP, EPS y DNG. Esta amplia compatibilidad con formatos lo convierte en su solución ideal para una amplia gama de tareas de procesamiento de imágenes.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Compatibilidad multiplataforma
+    </h2>
+    <p align="justify">
+     Aspose.Imaging es una biblioteca multiplataforma que garantiza la compatibilidad con entornos Windows y Linux. Ya sea que esté trabajando en un sistema Windows o Linux, puede confiar en Aspose.Imaging para ofrecer capacidades de procesamiento de imágenes consistentes y de alta calidad.
+    </p>
+    <p align="justify">
+     Eleve sus proyectos de procesamiento de imágenes a nuevas alturas con Aspose.Imaging para .NET. Experimente la flexibilidad, la estabilidad y el poder de nuestra API hoy.
+    </p>
+   </div>
 
 {{< /blocks/products/pf/tab-content >}}
 

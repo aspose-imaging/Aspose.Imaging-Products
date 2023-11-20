@@ -16,13 +16,58 @@ description: Java vaizdų apdorojimo ir manipuliavimo biblioteka. Kurkite apkrov
 liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/java" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/java/" installationsDocsLink="https://docs.aspose.com/imaging/java/installation/" mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-imaging/" directDownloadLink="https://downloads.aspose.com/imaging/java/" liveDemosText="Tiesioginės demonstracinės versijos" overviewText="Apžvalga" featuresText="funkcijos" resourcesText="Ištekliai" pricingText="Kainodara" downloadText="parsisiųsti" learnText="Mokytis" buyText="Pirkti" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="Prie a" carousel1Text2="Žvilgsnis" carousel2Text1="Platforma" carousel2Text2="Nepriklausomybė" carousel3Text1="Palaikomas failas" carousel3Text2="Formatai">}}
-<p align="justify">
- Aspose.Imaging for Java yra biblioteka, siūlanti pažangias vaizdo apdorojimo funkcijas. Naudodami šią API galite lengvai kurti, įkelti, manipuliuoti, konvertuoti, suspausti vaizdus ar nuotraukas. Taip pat Aspose. Vaizdo biblioteka palaiko piešimą ir darbą su grafiniais primityvais. Vaizdo eksportavimas ir konvertavimas (įskaitant vienodą kelių puslapių vaizdo apdorojimą) yra viena iš pagrindinių API funkcijų kartu su vaizdo transformacijomis (dydžio keitimu, apkarpymu, apvertimu ir pasukimu, dvejetainiu, pilkos spalvos tonu, koregavimu), pažangiomis vaizdo manipuliavimo funkcijomis (filtravimu, keitimu, maskavimu, iškraipymu). ) ir atminties optimizavimo strategijas.
-</p>
 
-<p align="justify">
- Aspose.Imaging for Java yra lanksti, stabili ir galinga API, galinti apdoroti dažniausiai naudojamus formatus kartu su kai kuriais specialiais formatais, tokiais kaip DjVu, DICOM, WebP ir DNG.
-</p>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Išnaudokite visas vaizdo apdorojimo galimybes naudodami „Aspose.Imaging“, skirtą Java
+    </h2>
+    <p align="justify">
+     „Aspose.Imaging“, skirta Java, yra patogi biblioteka, suteikianti pažangias vaizdo apdorojimo galimybes. Naudodami šią universalią API galite be vargo kurti, įkelti, manipuliuoti, konvertuoti ir suspausti vaizdus ar nuotraukas, įgalindami platų vaizdo apdorojimo funkcijų spektrą, nenaudodami specialios vaizdų rengyklės.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Atraskite pagrindines savybes:
+    </h2>
+    <p>
+     <ul>
+       <li>
+       Vaizdo transformavimas: lengvai keiskite, apkarpykite, apverskite, pasukite, sudėliokite dvejetainius, pilkos spalvos tonus, iškraipykite ir koreguokite vaizdus.
+       </li>
+       <li>
+       Išplėstinė manipuliacija: taikykite filtrus, alfa maišymą, stebuklingos lazdelės įrankį, pašalinkite vandens ženklą, pašalinkite foną, keiskite ir maskuokite, kad galėtumėte valdyti vaizdo apdorojimo užduotis.
+       </li>
+       <li>
+       Efektyvus atminties optimizavimas: Mėgaukitės atminties optimizavimo strategijomis, kurios užtikrina sklandų ir efektyvų vaizdo apdorojimą.
+       </li>
+       <li>
+       Piešimo ir grafiniai primityvai: išnaudokite piešimo įrankių galią ir dirbkite su grafiniais primityvais, kad pagerintumėte savo projektus.
+       </li>
+       <li>
+       Eksportavimas ir konvertavimas: sklandžiai eksportuokite ir konvertuokite vaizdus, ​​įskaitant vienodą kelių puslapių vaizdo apdorojimą.
+       </li>
+     </ul>
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Formato suderinamumas
+    </h2>
+    <p align="justify">
+     Aspose.Imaging, skirtas Java, yra ne tik lankstus ir stabilus, bet ir universalus. Jis palaiko dažniausiai naudojamus vaizdo formatus ir žengia dar vieną žingsnį palaikydamas specialius formatus, tokius kaip DjVu, DICOM, WebP, EPS ir DNG. Dėl šio plataus formato palaikymo tai yra puikus sprendimas atliekant įvairias vaizdo apdorojimo užduotis.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Suderinamumas su keliomis platformomis
+    </h2>
+    <p align="justify">
+     Aspose.Imaging yra kelių platformų biblioteka, užtikrinanti suderinamumą su Windows ir Linux aplinkomis. Nesvarbu, ar dirbate su „Windows“, ar „Linux“ sistema, galite pasikliauti „Aspose.Imaging“, kad užtikrintumėte nuoseklias, aukštos kokybės vaizdo apdorojimo galimybes.
+    </p>
+    <p align="justify">
+     Pakelkite savo vaizdo apdorojimo projektus į naujas aukštumas naudodami Aspose.Imaging, skirtą Java. Patirkite mūsų API lankstumą, stabilumą ir galią šiandien.
+    </p>
+   </div>
 
 {{< /blocks/products/pf/tab-content >}}
 

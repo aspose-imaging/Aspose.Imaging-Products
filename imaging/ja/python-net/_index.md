@@ -16,13 +16,58 @@ description: Python 画像処理および操作ライブラリ。 Aspose.Imaging
 liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/python-net" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/python-net/" installationsDocsLink="https://docs.aspose.com/imaging/python-net/installation/" pipLink="https://pypi.org/project/aspose-imaging-python-net/" directDownloadLink="https://downloads.aspose.com/imaging/python-net/" liveDemosText="ライブデモ" overviewText="概要" featuresText="特徴" resourcesText="資力" pricingText="価格設定" downloadText="ダウンロード" learnText="学び" buyText="買う" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="で" carousel1Text2="一目" carousel2Text1="プラットホーム" carousel2Text2="独立" carousel3Text1="サポートされているファイル" carousel3Text2="フォーマット">}}
-<p align="justify">
- Aspose.Imaging for Python via .NET は、高度な画像処理機能を提供するライブラリです。この API を使用して、画像を簡単に作成、読み込み、操作、変換、または圧縮できます。また、.NET 経由の Python 用 Aspose.Imaging は、描画をサポートし、グラフィック プリミティブを操作します。画像のエクスポートと変換 - 画像変換 (サイズ変更、切り抜き、反転と回転、2 値化、グレースケール、調整)、高度な画像操作機能 (フィルタリング、ディザリング、マスキング、デスキュー) とともに、API コア機能の 1 つです。
-</p>
 
-<p align="justify">
- Aspose.Imaging for Python via .NET は、一般的に使用される画像フォーマットを処理できる API であり、DjVu、DICOM、WebP、DNG などの特殊なフォーマットをサポートします。
-</p>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Python の Aspose.Imaging で画像処理の可能性を最大限に引き出す
+    </h2>
+    <p align="justify">
+     Aspose.Imaging for Python は、高度な画像処理機能を提供するユーザーフレンドリーなライブラリです。この多用途 API を使用すると、画像や写真を簡単に作成、読み込み、操作、変換、圧縮することができ、専用の画像エディタを必要とせずに幅広い画像処理機能が可能になります。
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     主な機能を確認してください:
+    </h2>
+    <p>
+     <ul>
+       <li>
+       画像変換: 画像のサイズ変更、切り抜き、反転、回転、二値化、グレースケール、傾き補正、調整を簡単に実行できます。
+       </li>
+       <li>
+       高度な操作: フィルター、アルファ ブレンディング、魔法の杖ツールを適用し、透かしの削除、背景の削除、ディザリングとマスキングを適用して、画像処理タスクを制御します。
+       </li>
+       <li>
+       効率的なメモリの最適化: スムーズで効率的な画像処理を保証するメモリ最適化戦略をお楽しみください。
+       </li>
+       <li>
+       描画およびグラフィック プリミティブ: 描画ツールの機能を活用し、グラフィック プリミティブを操作してプロジェクトを強化します。
+       </li>
+       <li>
+       エクスポートと変換: 均一な複数ページの画像処理を含め、画像をシームレスにエクスポートおよび変換します。
+       </li>
+     </ul>
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     フォーマットの互換性
+    </h2>
+    <p align="justify">
+     Python の Aspose.Imaging は、柔軟で安定しているだけでなく、多機能でもあります。最も一般的に使用される画像形式をサポートしており、さらに一歩進んで、DjVu、DICOM、WebP、EPS、DNG などの特殊な形式のサポートを提供します。この広範な形式のサポートにより、幅広い画像処理タスクにとって頼りになるソリューションになります。
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     クロスプラットフォーム互換性
+    </h2>
+    <p align="justify">
+     Aspose.Imaging はクロスプラットフォーム ライブラリであり、Windows 環境と Linux 環境の両方との互換性を保証します。 Windows システムまたは Linux システムのどちらで作業している場合でも、Aspose.Imaging を利用して、一貫した高品質の画像処理機能を提供できます。
+    </p>
+    <p align="justify">
+     Aspose.Imaging for Python を使用して、画像処理プロジェクトを新たな高みに引き上げます。 API の柔軟性、安定性、パワーを今すぐ体験してください。
+    </p>
+   </div>
 
 {{< /blocks/products/pf/tab-content >}}
 
@@ -328,18 +373,18 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-    
+    <a href="/imaging/ja/python-net/crop/">
      作物
-    
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-    
+    <a href="/imaging/ja/python-net/resize/">
      サイズ変更
-    
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -374,9 +419,9 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-road ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-        
+    <a href="/imaging/ja/python-net/remove-background/">    
      背景を削除
-    
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -404,36 +449,36 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-road ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/ja/python-net/change-background/">
      背景を変更
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-wordpress ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/ja/python-net/watermark/">
      画像に透かしを追加する     
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-search ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/ja/python-net/viewer/">
      画像を見る
-     
+     </a>
     </p>
    </div>   
    <div class="col-lg-4">
     <em class="fa fa-compress ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/ja/python-net/compress/">
      圧縮
-     
+     </a>
     </p>
    </div>
 <div class="col-lg-4">
@@ -442,7 +487,7 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <p class="col-lg-10">
      <a href="/imaging/ja/python-net/merge/">
      マージ
-     
+     </a>
     </p>
    </div>
 <div class="col-lg-12">
@@ -452,9 +497,9 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-compass ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/ja/python-net/dither/">
      ディザ
-     
+     </a>
     </p>
    </div>
 
@@ -462,9 +507,9 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-black-tie ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/ja/python-net/grayscale/">
      グレースケール
-     
+     </a>
     </p>
    </div>
    
@@ -472,36 +517,36 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/ja/python-net/filter/">
      フィルター
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-television ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/ja/python-net/cartoonify/">
      漫画化
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/ja/python-net/binarize/">
      二値化
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-adjust ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/ja/python-net/adjust/">
      調整
-     
+     </a>
     </p>
    </div>
 

@@ -83,7 +83,7 @@ Aspose.Imaging для Java поддерживается во всех основ
 
 {{% blocks/products/pf/agp/code-block title="Просмотр изображений PNG - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "6013edc0c1b050c2c0bc2e34da7f3263" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "a3e9a29e02d684daee703a614963c1d6" "convert-png-to-png.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

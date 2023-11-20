@@ -83,7 +83,7 @@ Jums reikia [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imag
 
 {{% blocks/products/pf/agp/code-block title="Peržiūrėti ODG vaizdus – Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "9cb710068cd36fa27e64a3e2c8dece30" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "c3da84df2c05d47d107da8b9c31f2cf0" "convert-odg-to-png.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

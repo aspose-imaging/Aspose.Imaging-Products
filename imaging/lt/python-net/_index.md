@@ -16,13 +16,58 @@ description: Python vaizdų apdorojimo ir manipuliavimo biblioteka. Aspose.Imagi
 liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/python-net" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/python-net/" installationsDocsLink="https://docs.aspose.com/imaging/python-net/installation/" pipLink="https://pypi.org/project/aspose-imaging-python-net/" directDownloadLink="https://downloads.aspose.com/imaging/python-net/" liveDemosText="Tiesioginės demonstracinės versijos" overviewText="Apžvalga" featuresText="funkcijos" resourcesText="Ištekliai" pricingText="Kainodara" downloadText="parsisiųsti" learnText="Mokytis" buyText="Pirkti" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="Prie a" carousel1Text2="Žvilgsnis" carousel2Text1="Platforma" carousel2Text2="Nepriklausomybė" carousel3Text1="Palaikomas failas" carousel3Text2="Formatai">}}
-<p align="justify">
- Aspose.Imaging for Python per .NET yra biblioteka, siūlanti pažangias vaizdo apdorojimo funkcijas. Naudodami šią API galite lengvai kurti, įkelti, manipuliuoti, konvertuoti ar suspausti vaizdus. Taip pat Aspose.Imaging for Python per .NET palaiko piešimą ir darbą su grafiniais primityvais. Vaizdo eksportavimas ir konvertavimas – viena iš pagrindinių API funkcijų kartu su vaizdo transformacijomis (dydžio keitimu, apkarpymu, apvertimu ir pasukimu, dvejetainiu formatavimu, pilkos spalvos tonu, koregavimu), pažangiomis vaizdo manipuliavimo funkcijomis (filtravimu, keitimu, maskavimu, iškraipymu).
-</p>
 
-<p align="justify">
- Aspose.Imaging for Python per .NET yra API, kuri gali apdoroti dažniausiai naudojamus vaizdo formatus ir palaiko kai kuriuos specialius formatus, tokius kaip DjVu, DICOM, WebP ir DNG.
-</p>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Išnaudokite visas vaizdo apdorojimo galimybes naudodami „Aspose.Imaging“, skirtą Python
+    </h2>
+    <p align="justify">
+     „Aspose.Imaging“, skirta Python, yra patogi biblioteka, suteikianti pažangias vaizdo apdorojimo galimybes. Naudodami šią universalią API galite be vargo kurti, įkelti, manipuliuoti, konvertuoti ir suspausti vaizdus ar nuotraukas, įgalindami platų vaizdo apdorojimo funkcijų spektrą, nenaudodami specialios vaizdų rengyklės.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Atraskite pagrindines savybes:
+    </h2>
+    <p>
+     <ul>
+       <li>
+       Vaizdo transformavimas: lengvai keiskite, apkarpykite, apverskite, pasukite, sudėliokite dvejetainius, pilkos spalvos tonus, iškraipykite ir koreguokite vaizdus.
+       </li>
+       <li>
+       Išplėstinė manipuliacija: taikykite filtrus, alfa maišymą, stebuklingos lazdelės įrankį, pašalinkite vandens ženklą, pašalinkite foną, keiskite ir maskuokite, kad galėtumėte valdyti vaizdo apdorojimo užduotis.
+       </li>
+       <li>
+       Efektyvus atminties optimizavimas: Mėgaukitės atminties optimizavimo strategijomis, kurios užtikrina sklandų ir efektyvų vaizdo apdorojimą.
+       </li>
+       <li>
+       Piešimo ir grafiniai primityvai: išnaudokite piešimo įrankių galią ir dirbkite su grafiniais primityvais, kad pagerintumėte savo projektus.
+       </li>
+       <li>
+       Eksportavimas ir konvertavimas: sklandžiai eksportuokite ir konvertuokite vaizdus, ​​įskaitant vienodą kelių puslapių vaizdo apdorojimą.
+       </li>
+     </ul>
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Formato suderinamumas
+    </h2>
+    <p align="justify">
+     Aspose.Imaging, skirtas Python, yra ne tik lankstus ir stabilus, bet ir universalus. Jis palaiko dažniausiai naudojamus vaizdo formatus ir žengia dar vieną žingsnį palaikydamas specialius formatus, tokius kaip DjVu, DICOM, WebP, EPS ir DNG. Dėl šio plataus formato palaikymo tai yra puikus sprendimas atliekant įvairias vaizdo apdorojimo užduotis.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Suderinamumas su keliomis platformomis
+    </h2>
+    <p align="justify">
+     Aspose.Imaging yra kelių platformų biblioteka, užtikrinanti suderinamumą su Windows ir Linux aplinkomis. Nesvarbu, ar dirbate su „Windows“, ar „Linux“ sistema, galite pasikliauti „Aspose.Imaging“, kad užtikrintumėte nuoseklias, aukštos kokybės vaizdo apdorojimo galimybes.
+    </p>
+    <p align="justify">
+     Pakelkite savo vaizdo apdorojimo projektus į naujas aukštumas naudodami Aspose.Imaging, skirtą Python. Patirkite mūsų API lankstumą, stabilumą ir galią šiandien.
+    </p>
+   </div>
 
 {{< /blocks/products/pf/tab-content >}}
 
@@ -328,18 +373,18 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-    
+    <a href="/imaging/lt/python-net/crop/">
      Apkarpyti
-    
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-    
+    <a href="/imaging/lt/python-net/resize/">
      Pakeisti dydį
-    
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -374,9 +419,9 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-road ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-        
+    <a href="/imaging/lt/python-net/remove-background/">    
      Pašalinti foną
-    
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -404,36 +449,36 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-road ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/lt/python-net/change-background/">
      Keisti foną
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-wordpress ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/lt/python-net/watermark/">
      Pridėkite vandens ženklą prie vaizdo     
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-search ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/lt/python-net/viewer/">
      Peržiūrėti Nuotrauka
-     
+     </a>
     </p>
    </div>   
    <div class="col-lg-4">
     <em class="fa fa-compress ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/lt/python-net/compress/">
      Suspausti
-     
+     </a>
     </p>
    </div>
 <div class="col-lg-4">
@@ -442,7 +487,7 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <p class="col-lg-10">
      <a href="/imaging/lt/python-net/merge/">
      Sujungti
-     
+     </a>
     </p>
    </div>
 <div class="col-lg-12">
@@ -452,9 +497,9 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-compass ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/lt/python-net/dither/">
      Sugadintas vaizdas
-     
+     </a>
     </p>
    </div>
 
@@ -462,9 +507,9 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-black-tie ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/lt/python-net/grayscale/">
      Pilkos spalvos
-     
+     </a>
     </p>
    </div>
    
@@ -472,36 +517,36 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/lt/python-net/filter/">
      Filtras
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-television ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/lt/python-net/cartoonify/">
      Filmuoti karikatūrą
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/lt/python-net/binarize/">
      Binarizuoti
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-adjust ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/lt/python-net/adjust/">
      Sureguliuoti
-     
+     </a>
     </p>
    </div>
 

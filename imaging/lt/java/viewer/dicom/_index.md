@@ -83,7 +83,7 @@ Jums reikia [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imag
 
 {{% blocks/products/pf/agp/code-block title="Peržiūrėti DICOM vaizdus – Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "d2556ab69aeedafc6cf8c7c569c46075" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "25eac852f2514877f6fbde811a0d0ece" "convert-dicom-to-png.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

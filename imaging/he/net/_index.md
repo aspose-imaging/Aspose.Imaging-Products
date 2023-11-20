@@ -16,13 +16,58 @@ description: API של ספריית עיבוד תמונות ומניפולציה 
 liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/net" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/net/" installationsDocsLink="https://docs.aspose.com/imaging/net/installation/" nugetLink="https://www.nuget.org/packages/aspose.imaging" nugetPackageName="Aspose.Imaging" directDownloadLink="https://downloads.aspose.com/imaging/net/" liveDemosText="הדגמות חיות" overviewText="סקירה כללית" featuresText="תכונות" resourcesText="אֶמְצָעִי" pricingText="תמחור" downloadText="הורד" learnText="לִלמוֹד" buyText="לִקְנוֹת" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="בשעה א" carousel1Text2="מַבָּט" carousel2Text1="פּלַטפוֹרמָה" carousel2Text2="עצמאות" carousel3Text1="קובץ נתמך" carousel3Text2="פורמטים">}}
-<p align="justify">
- Aspose.Imaging for .NET היא ספרייה המציעה תכונות מתקדמות לעיבוד תמונה. אתה יכול בקלות ליצור, לטעון, לבצע מניפולציות, להמיר, לדחוס תמונות או תמונות באמצעות API זה. גם אספוס. ספריית הדמיה תומכת בציור ובעבודה עם פרימיטיבים גרפיים. ייצוא והמרה של תמונות (כולל עיבוד תמונה אחיד מרובה עמודים) הוא אחד מתכונות הליבה של ה-API יחד עם טרנספורמציות תמונה (שינוי גודל, חיתוך, הפוך וסיבוב, בינאריזציה, גווני אפור, התאמה), תכונות מתקדמות של מניפולציה של תמונות (סינון, שיטוט, מיסוך, ביטול הטיה. ) ואסטרטגיות אופטימיזציה של זיכרון.
-</p>
 
-<p align="justify">
- Aspose.Imaging for .NET הוא API גמיש, יציב וחזק, המסוגל לעבד את הפורמטים הנפוצים ביותר יחד עם כמה פורמטים מיוחדים כגון DjVu, DICOM, WebP ו-DNG. יתר על כן, הוא מרחיב את התמיכה המקורית בפורמטים של תמונות ופונקציות עיבוד עבור .NET ו-.NET Core. Aspose.Imaging היא ספרייה חוצת פלטפורמות, היא תואמת ל-Windows ולינוקס.
-</p>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     פתח את מלוא הפוטנציאל של עיבוד תמונה עם Aspose.Imaging עבור .NET
+    </h2>
+    <p align="justify">
+     Aspose.Imaging עבור .NET היא ספרייה ידידותית למשתמש המעצימה אותך עם יכולות עיבוד תמונה מתקדמות. עם ה-API הרב-תכליתי הזה, אתה יכול ליצור, לטעון, לתפעל, להמיר ולדחוס תמונות או תמונות ללא מאמץ, ולאפשר מגוון רחב של תכונות עיבוד התמונה ללא צורך בעורך תמונות ייעודי.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     גלה תכונות עיקריות:
+    </h2>
+    <p>
+     <ul>
+       <li>
+       שינוי תמונה: שנה גודל, חתוך, הפוך, סיבוב, בינאריזציה, גווני אפור, ביטול הטיה והתאמת תמונות בקלות.
+       </li>
+       <li>
+       מניפולציה מתקדמת: החל מסננים, מיזוג אלפא, כלי שרביט קסמים, הסרת סימן מים, הסרת רקע, שיטוט ומיסוך כדי להשתלט על משימות עיבוד התמונה שלך.
+       </li>
+       <li>
+       אופטימיזציית זיכרון יעילה: תיהנו מאסטרטגיות אופטימיזציה של זיכרון המבטיחות עיבוד תמונה חלק ויעיל.
+       </li>
+       <li>
+       ציור ופרימיטיבים גרפיים: רתום את הכוח של כלי ציור ועבוד עם פרימיטיבים גרפיים כדי לשפר את הפרויקטים שלך.
+       </li>
+       <li>
+       ייצוא והמרה: ייצא והמר תמונות בצורה חלקה, כולל עיבוד תמונה אחיד מרובה עמודים.
+       </li>
+     </ul>
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     תאימות פורמטים
+    </h2>
+    <p align="justify">
+     Aspose.Imaging עבור .NET הוא לא רק גמיש ויציב אלא גם רב תכליתי. הוא תומך בפורמטים הנפוצים ביותר של תמונה, והוא הולך צעד קדימה על ידי מתן תמיכה בפורמטים מיוחדים כמו DjVu, DICOM, WebP, EPS ו-DNG. תמיכה נרחבת בפורמטים זו הופכת אותו לפתרון הרצוי עבור מגוון רחב של משימות עיבוד תמונה.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     תאימות בין פלטפורמות
+    </h2>
+    <p align="justify">
+     Aspose.Imaging היא ספרייה חוצת פלטפורמות, המבטיחה תאימות לסביבות Windows ולינוקס כאחד. בין אם אתה עובד על מערכת Windows או Linux, אתה יכול לסמוך על Aspose.Imaging כדי לספק יכולות עיבוד תמונה עקביות ואיכותיות.
+    </p>
+    <p align="justify">
+     הרם את פרויקטי עיבוד התמונה שלך לגבהים חדשים עם Aspose.Imaging עבור .NET. חווה את הגמישות, היציבות והעוצמה של ה-API שלנו היום.
+    </p>
+   </div>
 
 {{< /blocks/products/pf/tab-content >}}
 

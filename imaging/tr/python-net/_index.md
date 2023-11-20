@@ -16,13 +16,58 @@ description: Python Görüntü işleme ve işleme kitaplığı. .NET aracılığ
 liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/python-net" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/python-net/" installationsDocsLink="https://docs.aspose.com/imaging/python-net/installation/" pipLink="https://pypi.org/project/aspose-imaging-python-net/" directDownloadLink="https://downloads.aspose.com/imaging/python-net/" liveDemosText="Canlı Demolar" overviewText="genel bakış" featuresText="Özellikler" resourcesText="Kaynaklar" pricingText="fiyatlandırma" downloadText="İndirmek" learnText="Öğrenmek" buyText="Satın almak" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="bir" carousel1Text2="Bakış atmak" carousel2Text1="platformu" carousel2Text2="Bağımsızlık" carousel3Text1="Desteklenen Dosya" carousel3Text2="Formatlar">}}
-<p align="justify">
- Aspose.Imaging for Python via .NET, gelişmiş görüntü işleme özellikleri sunan bir kitaplıktır. Bu API'yi kullanarak görüntüleri kolayca oluşturabilir, yükleyebilir, değiştirebilir, dönüştürebilir veya sıkıştırabilirsiniz. Ayrıca Aspose.Imaging for Python via .NET, çizimi ve grafik temel öğelerle çalışmayı destekler. Görüntü dışa aktarma ve dönüştürme - görüntü dönüşümleri (yeniden boyutlandırma, kırpma, çevir&döndür, ikili hale getirme, gri tonlama, ayarlama), gelişmiş görüntü işleme özellikleri (filtreleme, renk taklidi, maskeleme, eğrilik düzeltme) ile birlikte API temel özelliklerinden biri.
-</p>
 
-<p align="justify">
- Aspose.Imaging for Python via .NET, yaygın olarak kullanılan görüntü formatlarını işleyebilen ve DjVu, DICOM, WebP ve DNG gibi bazı özel formatları destekleyen bir API'dir.
-</p>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Python için Aspose.Imaging ile Görüntü İşlemenin Tüm Potansiyelini Ortaya Çıkarın
+    </h2>
+    <p align="justify">
+     Aspose.Imaging for Python, gelişmiş görüntü işleme yetenekleriyle sizi güçlendiren, kullanıcı dostu bir kitaplıktır. Bu çok yönlü API ile, özel bir görüntü düzenleyiciye ihtiyaç duymadan çok çeşitli görüntü işleme özelliklerini etkinleştirerek görüntüleri veya fotoğrafları zahmetsizce oluşturabilir, yükleyebilir, değiştirebilir, dönüştürebilir ve sıkıştırabilirsiniz.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Temel Özellikleri Keşfedin:
+    </h2>
+    <p>
+     <ul>
+       <li>
+       Görüntü Dönüşümü: Görüntüleri kolaylıkla yeniden boyutlandırın, kırpın, çevirin, döndürün, ikilileştirin, gri tonlamalı, eğriliklerini düzeltin ve ayarlayın.
+       </li>
+       <li>
+       Gelişmiş Manipülasyon: Görüntü işleme görevlerinizi kontrol altına almak için filtreler, alfa harmanlama, sihirli değnek aracı uygulayın, filigranı kaldırın, arka planı kaldırın, renk taklidi ve maskeleme uygulayın.
+       </li>
+       <li>
+       Verimli Bellek Optimizasyonu: Sorunsuz ve verimli görüntü işleme sağlayan bellek optimizasyon stratejilerinin keyfini çıkarın.
+       </li>
+       <li>
+       Çizim ve Grafik Temel Öğeleri: Çizim araçlarının gücünden yararlanın ve projelerinizi geliştirmek için grafik temel öğeleriyle çalışın.
+       </li>
+       <li>
+       Dışa Aktarma ve Dönüştürme: Tek tip çok sayfalı görüntü işleme de dahil olmak üzere görüntüleri sorunsuz bir şekilde dışa aktarın ve dönüştürün.
+       </li>
+     </ul>
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Biçim Uyumluluğu
+    </h2>
+    <p align="justify">
+     Aspose.Imaging for Python yalnızca esnek ve istikrarlı değil aynı zamanda çok yönlüdür. En sık kullanılan görüntü formatlarını destekler ve DjVu, DICOM, WebP, EPS ve DNG gibi özel formatlara destek sağlayarak bir adım daha ileri gider. Bu kapsamlı format desteği, onu çok çeşitli görüntü işleme görevleri için başvuracağınız çözüm haline getirir.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Platformlar Arası Uyumluluk
+    </h2>
+    <p align="justify">
+     Aspose.Imaging, hem Windows hem de Linux ortamlarıyla uyumluluk sağlayan, platformlar arası bir kütüphanedir. İster Windows ister Linux sisteminde çalışıyor olun, Aspose.Imaging'in tutarlı, yüksek kaliteli görüntü işleme yetenekleri sunacağına güvenebilirsiniz.
+    </p>
+    <p align="justify">
+     Aspose.Imaging for Python ile görüntü işleme projelerinizi yeni boyutlara yükseltin. API'mizin esnekliğini, kararlılığını ve gücünü bugün deneyimleyin.
+    </p>
+   </div>
 
 {{< /blocks/products/pf/tab-content >}}
 
@@ -328,18 +373,18 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-    
+    <a href="/imaging/tr/python-net/crop/">
      Mahsul
-    
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-    
+    <a href="/imaging/tr/python-net/resize/">
      yeniden boyutlandır
-    
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -374,9 +419,9 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-road ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-        
+    <a href="/imaging/tr/python-net/remove-background/">    
      Arkaplanı kaldırın
-    
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -404,36 +449,36 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-road ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/tr/python-net/change-background/">
      Arka planı değiştir
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-wordpress ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/tr/python-net/watermark/">
      Resme filigran ekleyin     
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-search ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/tr/python-net/viewer/">
      Görseli göster
-     
+     </a>
     </p>
    </div>   
    <div class="col-lg-4">
     <em class="fa fa-compress ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/tr/python-net/compress/">
      Kompres
-     
+     </a>
     </p>
    </div>
 <div class="col-lg-4">
@@ -442,7 +487,7 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <p class="col-lg-10">
      <a href="/imaging/tr/python-net/merge/">
      Birleştirmek
-     
+     </a>
     </p>
    </div>
 <div class="col-lg-12">
@@ -452,9 +497,9 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-compass ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/tr/python-net/dither/">
      Titreşim
-     
+     </a>
     </p>
    </div>
 
@@ -462,9 +507,9 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-black-tie ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/tr/python-net/grayscale/">
      gri tonlama
-     
+     </a>
     </p>
    </div>
    
@@ -472,36 +517,36 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/tr/python-net/filter/">
      filtre
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-television ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/tr/python-net/cartoonify/">
      karikatürleştirmek
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/tr/python-net/binarize/">
      İkilileştir
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-adjust ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/tr/python-net/adjust/">
      Ayarlamak
-     
+     </a>
     </p>
    </div>
 

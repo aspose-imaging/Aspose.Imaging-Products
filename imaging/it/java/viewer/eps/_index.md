@@ -83,7 +83,7 @@ Aspose.Imaging per Java è supportato su tutti i principali sistemi operativi. A
 
 {{% blocks/products/pf/agp/code-block title="Visualizza le immagini di EPS - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "7accc5c9da8ca6e7ba395aa038174d5e" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "70a96dd3cc00978644766472a85df2a5" "convert-eps-to-png.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

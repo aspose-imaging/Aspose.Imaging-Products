@@ -16,13 +16,58 @@ description: Python 圖像處理和操作庫。 Aspose.Imaging for Python via .N
 liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/python-net" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/python-net/" installationsDocsLink="https://docs.aspose.com/imaging/python-net/installation/" pipLink="https://pypi.org/project/aspose-imaging-python-net/" directDownloadLink="https://downloads.aspose.com/imaging/python-net/" liveDemosText="現場演示" overviewText="概述" featuresText="特徵" resourcesText="資源" pricingText="價錢" downloadText="下載" learnText="學習" buyText="買" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="在一個" carousel1Text2="一目了然" carousel2Text1="平台" carousel2Text2="獨立" carousel3Text1="支持的文件" carousel3Text2="格式">}}
-<p align="justify">
- Aspose.Imaging for Python via .NET 是一個提供高級圖像處理功能的庫。您可以使用此 API 輕鬆創建、加載、操作、轉換或壓縮圖像。此外，Aspose.Imaging for Python via .NET 支持繪圖和使用圖形基元。圖像導出和轉換 - API 核心功能之一，以及圖像轉換（調整大小、裁剪、翻轉和旋轉、二值化、灰度、調整）、高級圖像處理功能（過濾、抖動、遮罩、糾偏）。
-</p>
 
-<p align="justify">
- Aspose.Imaging for Python via .NET 是能夠處理常用圖像格式並支持一些特殊格式（如 DjVu、DICOM、WebP 和 DNG）的 API。
-</p>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     使用 Aspose.Imaging for Python 釋放影像處理的全部潛力
+    </h2>
+    <p align="justify">
+     Aspose.Imaging for Python 是一個使用者友善的函式庫，可為您提供進階影像處理功能。借助此多功能 API，您可以輕鬆建立、載入、操作、轉換和壓縮影像或照片，從而實現廣泛的影像處理功能，而無需專用的影像編輯器。
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     發現主要特點：
+    </h2>
+    <p>
+     <ul>
+       <li>
+       影像轉換：輕鬆調整影像大小、裁切、翻轉、旋轉、二值化、灰階、糾偏和調整影像。
+       </li>
+       <li>
+       進階操作：應用濾鏡、Alpha 混合、魔棒工具、移除浮水印、去除背景、抖動和遮罩來控制您的影像處理任務。
+       </li>
+       <li>
+       高效能記憶體優化：享受記憶體優化策略，確保平穩且有效率的影像處理。
+       </li>
+       <li>
+       繪圖和圖形基元：利用繪圖工具的強大功能並使用圖形基元來增強您的專案。
+       </li>
+       <li>
+       匯出和轉換：無縫導出和轉換影像，包括統一的多頁影像處理。
+       </li>
+     </ul>
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     格式相容性
+    </h2>
+    <p align="justify">
+     Aspose.Imaging for Python 不僅靈活穩定，而且用途廣泛。它支援最常用的圖像格式，並進一步提供對 DjVu、DICOM、WebP、EPS 和 DNG 等特殊格式的支援。這種廣泛的格式支援使其成為各種影像處理任務的首選解決方案。
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     跨平台相容性
+    </h2>
+    <p align="justify">
+     Aspose.Imaging 是一個跨平台庫，確保與 Windows 和 Linux 環境相容。無論您使用的是 Windows 還是 Linux 系統，您都可以依靠 Aspose.Imaging 來提供一致、高品質的映像處理功能。
+    </p>
+    <p align="justify">
+     使用 Aspose.Imaging for Python 將您的映像處理項目提升到新的高度。立即體驗我們 API 的靈活性、穩定性和強大功能。
+    </p>
+   </div>
 
 {{< /blocks/products/pf/tab-content >}}
 
@@ -328,18 +373,18 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-    
+    <a href="/imaging/zh-hant/python-net/crop/">
      莊稼
-    
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-    
+    <a href="/imaging/zh-hant/python-net/resize/">
      調整大小
-    
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -374,9 +419,9 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-road ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-        
+    <a href="/imaging/zh-hant/python-net/remove-background/">    
      移除背景
-    
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -404,36 +449,36 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-road ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/zh-hant/python-net/change-background/">
      換背景
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-wordpress ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/zh-hant/python-net/watermark/">
      為圖像添加水印     
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-search ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/zh-hant/python-net/viewer/">
      看圖
-     
+     </a>
     </p>
    </div>   
    <div class="col-lg-4">
     <em class="fa fa-compress ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/zh-hant/python-net/compress/">
      壓縮
-     
+     </a>
     </p>
    </div>
 <div class="col-lg-4">
@@ -442,7 +487,7 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <p class="col-lg-10">
      <a href="/imaging/zh-hant/python-net/merge/">
      合併
-     
+     </a>
     </p>
    </div>
 <div class="col-lg-12">
@@ -452,9 +497,9 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-compass ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/zh-hant/python-net/dither/">
      抖動
-     
+     </a>
     </p>
    </div>
 
@@ -462,9 +507,9 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-black-tie ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/zh-hant/python-net/grayscale/">
      灰階
-     
+     </a>
     </p>
    </div>
    
@@ -472,36 +517,36 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/zh-hant/python-net/filter/">
      篩選
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-television ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/zh-hant/python-net/cartoonify/">
      卡通化
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/zh-hant/python-net/binarize/">
      二值化
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-adjust ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/zh-hant/python-net/adjust/">
      調整
-     
+     </a>
     </p>
    </div>
 

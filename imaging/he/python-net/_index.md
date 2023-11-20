@@ -16,13 +16,58 @@ description: ספריית עיבוד תמונה ומניפולציה של Python
 liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/python-net" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/python-net/" installationsDocsLink="https://docs.aspose.com/imaging/python-net/installation/" pipLink="https://pypi.org/project/aspose-imaging-python-net/" directDownloadLink="https://downloads.aspose.com/imaging/python-net/" liveDemosText="הדגמות חיות" overviewText="סקירה כללית" featuresText="תכונות" resourcesText="אֶמְצָעִי" pricingText="תמחור" downloadText="הורד" learnText="לִלמוֹד" buyText="לִקְנוֹת" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="בשעה א" carousel1Text2="מַבָּט" carousel2Text1="פּלַטפוֹרמָה" carousel2Text2="עצמאות" carousel3Text1="קובץ נתמך" carousel3Text2="פורמטים">}}
-<p align="justify">
- Aspose.Imaging עבור Python דרך .NET היא ספרייה המציעה תכונות מתקדמות לעיבוד תמונה. אתה יכול בקלות ליצור, לטעון, לבצע מניפולציות, להמיר או לדחוס תמונות באמצעות API זה. כמו כן, Aspose.Imaging עבור Python דרך NET תומך בציור ובעבודה עם פרימיטיבים גרפיים. ייצוא והמרה של תמונות - אחת מתכונות הליבה של ה-API יחד עם טרנספורמציות של תמונה (שינוי גודל, חיתוך, היפוך וסיבוב, בינאריזציה, גווני אפור, התאמה), תכונות מתקדמות של מניפולציה של תמונות (סינון, הסטה, מיסוך, ביטול הטיה).
-</p>
 
-<p align="justify">
- Aspose.Imaging עבור Python דרך .NET הוא API המסוגל לעבד פורמטים נפוצים של תמונה ותומך בכמה פורמטים מיוחדים כמו DjVu, DICOM, WebP ו-DNG.
-</p>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     פתח את מלוא הפוטנציאל של עיבוד תמונה עם Aspose.Imaging עבור Python
+    </h2>
+    <p align="justify">
+     Aspose.Imaging עבור Python היא ספרייה ידידותית למשתמש המעצימה אותך עם יכולות עיבוד תמונה מתקדמות. עם ה-API הרב-תכליתי הזה, אתה יכול ליצור, לטעון, לתפעל, להמיר ולדחוס תמונות או תמונות ללא מאמץ, ולאפשר מגוון רחב של תכונות עיבוד התמונה ללא צורך בעורך תמונות ייעודי.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     גלה תכונות עיקריות:
+    </h2>
+    <p>
+     <ul>
+       <li>
+       שינוי תמונה: שנה גודל, חתוך, הפוך, סיבוב, בינאריזציה, גווני אפור, ביטול הטיה והתאמת תמונות בקלות.
+       </li>
+       <li>
+       מניפולציה מתקדמת: החל מסננים, מיזוג אלפא, כלי שרביט קסמים, הסרת סימן מים, הסרת רקע, שיטוט ומיסוך כדי להשתלט על משימות עיבוד התמונה שלך.
+       </li>
+       <li>
+       אופטימיזציית זיכרון יעילה: תיהנו מאסטרטגיות אופטימיזציה של זיכרון המבטיחות עיבוד תמונה חלק ויעיל.
+       </li>
+       <li>
+       ציור ופרימיטיבים גרפיים: רתום את הכוח של כלי ציור ועבוד עם פרימיטיבים גרפיים כדי לשפר את הפרויקטים שלך.
+       </li>
+       <li>
+       ייצוא והמרה: ייצא והמר תמונות בצורה חלקה, כולל עיבוד תמונה אחיד מרובה עמודים.
+       </li>
+     </ul>
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     תאימות פורמטים
+    </h2>
+    <p align="justify">
+     Aspose.Imaging עבור Python הוא לא רק גמיש ויציב אלא גם רב תכליתי. הוא תומך בפורמטים הנפוצים ביותר של תמונה, והוא הולך צעד קדימה על ידי מתן תמיכה בפורמטים מיוחדים כמו DjVu, DICOM, WebP, EPS ו-DNG. תמיכה נרחבת בפורמטים זו הופכת אותו לפתרון הרצוי עבור מגוון רחב של משימות עיבוד תמונה.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     תאימות בין פלטפורמות
+    </h2>
+    <p align="justify">
+     Aspose.Imaging היא ספרייה חוצת פלטפורמות, המבטיחה תאימות לסביבות Windows ולינוקס כאחד. בין אם אתה עובד על מערכת Windows או Linux, אתה יכול לסמוך על Aspose.Imaging כדי לספק יכולות עיבוד תמונה עקביות ואיכותיות.
+    </p>
+    <p align="justify">
+     הרם את פרויקטי עיבוד התמונה שלך לגבהים חדשים עם Aspose.Imaging עבור Python. חווה את הגמישות, היציבות והעוצמה של ה-API שלנו היום.
+    </p>
+   </div>
 
 {{< /blocks/products/pf/tab-content >}}
 
@@ -328,18 +373,18 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-    
+    <a href="/imaging/he/python-net/crop/">
      יְבוּל
-    
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-    
+    <a href="/imaging/he/python-net/resize/">
      שנה גודל
-    
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -374,9 +419,9 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-road ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-        
+    <a href="/imaging/he/python-net/remove-background/">    
      הסר רקע
-    
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -404,36 +449,36 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-road ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/he/python-net/change-background/">
      שנה רקע
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-wordpress ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/he/python-net/watermark/">
      הוסף סימן מים לתמונה     
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-search ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/he/python-net/viewer/">
      הצג תמונה
-     
+     </a>
     </p>
    </div>   
    <div class="col-lg-4">
     <em class="fa fa-compress ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/he/python-net/compress/">
      לִדחוֹס
-     
+     </a>
     </p>
    </div>
 <div class="col-lg-4">
@@ -442,7 +487,7 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <p class="col-lg-10">
      <a href="/imaging/he/python-net/merge/">
      לְמַזֵג
-     
+     </a>
     </p>
    </div>
 <div class="col-lg-12">
@@ -452,9 +497,9 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-compass ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/he/python-net/dither/">
      לְהַסֵס
-     
+     </a>
     </p>
    </div>
 
@@ -462,9 +507,9 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-black-tie ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/he/python-net/grayscale/">
      גווני אפור
-     
+     </a>
     </p>
    </div>
    
@@ -472,36 +517,36 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/he/python-net/filter/">
      לְסַנֵן
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-television ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/he/python-net/cartoonify/">
      קריקטורה
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/he/python-net/binarize/">
      בינאריזה
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-adjust ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/he/python-net/adjust/">
      לְהַתְאִים
-     
+     </a>
     </p>
    </div>
 

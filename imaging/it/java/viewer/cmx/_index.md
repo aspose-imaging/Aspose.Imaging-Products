@@ -83,7 +83,7 @@ Aspose.Imaging per Java è supportato su tutti i principali sistemi operativi. A
 
 {{% blocks/products/pf/agp/code-block title="Visualizza le immagini di CMX - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "71185958cb05d74f34ef9960f8dda4dd" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "7ef920c4cc048a875bd2453ab1195d0e" "convert-cmx-to-png.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

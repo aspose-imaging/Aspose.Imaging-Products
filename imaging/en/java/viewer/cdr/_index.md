@@ -83,7 +83,7 @@ Aspose.Imaging for Java is supported on all major operating systems. Just make s
 
 {{% blocks/products/pf/agp/code-block title="View CDR images - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "8b870aa054949d3119547e4fc0696b64" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "258265e12d6571958acf2caddae154eb" "convert-cdr-to-png.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

@@ -83,7 +83,7 @@ Aspose.Imaging для Java поддерживается во всех основ
 
 {{% blocks/products/pf/agp/code-block title="Просмотр изображений DIB - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "c105a05d95529e2551aa29cd9dc8d8e8" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "d8e57e37eefca8b37a77109c1b40631b" "convert-dib-to-png.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

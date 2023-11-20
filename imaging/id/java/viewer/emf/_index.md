@@ -83,7 +83,7 @@ Aspose.Imaging untuk Java didukung di semua sistem operasi utama. Pastikan saja 
 
 {{% blocks/products/pf/agp/code-block title="Lihat gambar EMF - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "6886c18d67fa6c7970d9cf260b077988" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "7573984073baac0442285e30eec8474a" "convert-emf-to-png.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
