@@ -9,20 +9,65 @@ description: Python vaizdų apdorojimo ir manipuliavimo biblioteka. Aspose.Imagi
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1="Aspose.Imaging, skirtas Python, naudojant .NET biblioteką ir vaizdo apdorojimo API" h2="Kurkite, įkelkite, manipuliuokite arba konvertuokite vaizdus nereikalaujant jokios vaizdų rengyklės." downloadFreeTrialText="Atsisiųskite nemokamą bandomąją versiją" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-python-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/imaging/python-net/" >}}
+{{< blocks/products/pf/upper-banner h1="Aspose.Imaging, skirtas Python, naudojant .NET biblioteką ir vaizdo apdorojimo API" h2="Sukurkite savo Python programas, kad galėtumėte manipuliuoti vaizdais nereikalaujant jokios vaizdų rengyklės" downloadFreeTrialText="Atsisiųskite nemokamą bandomąją versiją" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-python-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/imaging/python-net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Python" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-python-net.svg" 
 liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/python-net" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/python-net/" installationsDocsLink="https://docs.aspose.com/imaging/python-net/installation/" pipLink="https://pypi.org/project/aspose-imaging-python-net/" directDownloadLink="https://downloads.aspose.com/imaging/python-net/" liveDemosText="Tiesioginės demonstracinės versijos" overviewText="Apžvalga" featuresText="funkcijos" resourcesText="Ištekliai" pricingText="Kainodara" downloadText="parsisiųsti" learnText="Mokytis" buyText="Pirkti" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="Prie a" carousel1Text2="Žvilgsnis" carousel2Text1="Platforma" carousel2Text2="Nepriklausomybė" carousel3Text1="Palaikomas failas" carousel3Text2="Formatai">}}
-<p align="justify">
- Aspose.Imaging for Python per .NET yra biblioteka, siūlanti pažangias vaizdo apdorojimo funkcijas. Naudodami šią API galite lengvai kurti, įkelti, manipuliuoti, konvertuoti ar suspausti vaizdus. Taip pat Aspose.Imaging for Python per .NET palaiko piešimą ir darbą su grafiniais primityvais. Vaizdo eksportavimas ir konvertavimas – viena iš pagrindinių API funkcijų kartu su vaizdo transformacijomis (dydžio keitimu, apkarpymu, apvertimu ir pasukimu, dvejetainiu formatavimu, pilkos spalvos tonu, koregavimu), pažangiomis vaizdo manipuliavimo funkcijomis (filtravimu, keitimu, maskavimu, iškraipymu).
-</p>
 
-<p align="justify">
- Aspose.Imaging for Python per .NET yra API, kuri gali apdoroti dažniausiai naudojamus vaizdo formatus ir palaiko kai kuriuos specialius formatus, tokius kaip DjVu, DICOM, WebP ir DNG.
-</p>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Taikykite visas vaizdų apdorojimo galimybes naudodami Aspose.Imaging for Python
+    </h2>
+    <p align="justify">
+     „Aspose.Imaging for Python“ yra biblioteka, siūlanti išplėstines vaizdo ir nuotraukų apdorojimo funkcijas. Naudodami šią universalią API galite automatiškai įkelti, konvertuoti, kurti ir manipuliuoti vaizdus ar nuotraukas, nenaudodami specializuotų vaizdo redaktorių.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Naudokite pagrindines funkcijas:
+    </h2>
+    <p>
+     <ul>
+       <li>
+       Vaizdo transformavimas: pakeiskite mastelį, pakeiskite dydį, apkarpykite, pasukite, konvertuokite į nespalvotą arba pilkos spalvos toną, reguliuokite vaizdų ar nuotraukų ryškumą, kontrastą ir gama.
+       </li>
+       <li>
+       Išplėstinės manipuliacijos: pritaikykite filtrus, alfa maišymą, pridėkite arba pašalinkite vandens ženklus, keiskite fonus, išlyginkite vaizdus, ​​pritaikykite kaukes ir automatizuokite vaizdo apdorojimo užduotis.
+       </li>
+       <li>
+       Atminties optimizavimas: naudokite atminties optimizavimo strategijas, kurios užtikrina greitą ir efektyvų vaizdo apdorojimą.
+       </li>
+       <li>
+       Piešimas ir grafiniai primityvai: naudokite piešimo funkcijas grafiniams primityvams ir taikykite tekstą su skirtingais šriftų stiliais.
+       </li>
+       <li>
+       Vaizdo konvertavimas: eksportuokite vaizdus konvertuodami į kitus formatus, įskaitant vieningą kelių puslapių vaizdų apdorojimą.
+       </li>
+     </ul>
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Įvairių formatų palaikymas
+    </h2>
+    <p align="justify">
+     Įvairių formatų palaikymas Aspose.Imaging for Python išsiskiria stabilumu, universalumu ir funkcionalumu. Jis palaiko daugybę formatų, įskaitant specialius formatus, tokius kaip APNG, WebP, EPS, PDF ir DICOM. Plataus formato palaikymas daro jį idealiu sprendimu įvairioms vaizdo apdorojimo užduotims.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Suderinamumas su keliomis platformomis
+    </h2>
+    <p align="justify">
+     Aspose.Imaging yra universali biblioteka, kurią galima naudoti tiek Windows, tiek Linux operacinėse sistemose dėl suderinamumo su įvairiomis platformomis. Galite pasikliauti Aspose.Imaging, kuris užtikrins stabilias ir aukštos kokybės vaizdo apdorojimo galimybes.
+    </p>
+    <p align="justify">
+     Pasiekite naują vaizdo apdorojimo kokybės lygį naudodami Aspose.Imaging, skirtą Python. Naudokite mūsų API šiandien ir patirkite jos lankstumą, stabilumą ir našumą.
+    </p>
+   </div>
 
 {{< /blocks/products/pf/tab-content >}}
 
@@ -139,7 +184,19 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
-   
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    .NET Framework
+   </header>
+   <ul>
+    <li>
+     „Windows“ programa
+    </li>
+    <li>
+     ASP.NET žiniatinklio programa
+    </li>
+   </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
@@ -328,18 +385,18 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-    
+    <a href="/imaging/lt/python-net/crop/">
      Apkarpyti
-    
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-    
+    <a href="/imaging/lt/python-net/resize/">
      Pakeisti dydį
-    
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -374,9 +431,9 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-road ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-        
+    <a href="/imaging/lt/python-net/remove-background/">    
      Pašalinti foną
-    
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -404,36 +461,36 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-road ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/lt/python-net/change-background/">
      Keisti foną
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-wordpress ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/lt/python-net/watermark/">
      Pridėkite vandens ženklą prie vaizdo     
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-search ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/lt/python-net/viewer/">
      Peržiūrėti Nuotrauka
-     
+     </a>
     </p>
    </div>   
    <div class="col-lg-4">
     <em class="fa fa-compress ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/lt/python-net/compress/">
      Suspausti
-     
+     </a>
     </p>
    </div>
 <div class="col-lg-4">
@@ -442,7 +499,7 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <p class="col-lg-10">
      <a href="/imaging/lt/python-net/merge/">
      Sujungti
-     
+     </a>
     </p>
    </div>
 <div class="col-lg-12">
@@ -452,9 +509,9 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-compass ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/lt/python-net/dither/">
      Sugadintas vaizdas
-     
+     </a>
     </p>
    </div>
 
@@ -462,9 +519,9 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-black-tie ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/lt/python-net/grayscale/">
      Pilkos spalvos
-     
+     </a>
     </p>
    </div>
    
@@ -472,36 +529,36 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/lt/python-net/filter/">
      Filtras
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-television ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/lt/python-net/cartoonify/">
      Filmuoti karikatūrą
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/lt/python-net/binarize/">
      Binarizuoti
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-adjust ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/lt/python-net/adjust/">
      Sureguliuoti
-     
+     </a>
     </p>
    </div>
 

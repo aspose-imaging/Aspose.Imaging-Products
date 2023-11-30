@@ -1,26 +1,26 @@
 ﻿---
-title: gambar Menggabungkan Melalui python-net, semua format gambar yang didukung 
+title: gambar Menggabungkan menggunakan Python 
 weight: 3920
 url: /id/python-net/merge/ 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Menggunakan Aspose.Imaging Anda dapat dengan mudah Menggabungkan gambar Via python-net
+description: Menerapkan pustaka Aspose.Imaging ke gambar dan foto Menggabungkan menggunakan aplikasi Python dan API server Anda sendiri.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="File gambar Menggabungkan melalui python-net" h2="gambar Menggabungkan" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Gunakan Python untuk Operasi Menggabungkan pada Gambar" h2="Menggabungkan Gambar melalui Aplikasi Python Anda Sendiri Menggunakan Perpustakaan Aspose.Imaging" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Semua gambar-gambar format yang didukung untuk operasi Menggabungkan" %}}
+{{% blocks/products/pf/feature-page-section  h2="Terapkan operasi Menggabungkan ke semua format gambar yang tersedia" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Menggabungkan gambar operasi memungkinkan untuk menggabungkan 2 gambar atau lebih menjadi satu secara vertikal atau horizontal tanpa kehilangan kualitas. Kolase foto adalah pembuatan foto atau gambar baru dengan menggabungkan beberapa gambar, terkadang tidak terkait langsung satu sama lain. Efek yang diinginkan oleh fotografer dibuat dengan melapiskan satu gambar di atas yang lain atau dengan menggabungkan banyak (lebih dari 2) gambar menjadi satu kesatuan, terkadang dengan penggunaan gambar fotografi yang berbeda secara kacau (seperti teka-teki atau mozaik). Aspose.Imaging memungkinkan untuk membuat kolase yang berbeda menggunakan banyak format file.
+Penggabungan gambar adalah teknik yang memungkinkan Anda menggabungkan dua gambar atau lebih menjadi satu komposisi tanpa mengurangi kualitasnya. Membuat kolase foto melibatkan penggabungan beberapa foto menjadi satu, seringkali dengan tema atau subjek yang sama. Hal ini dapat dicapai dengan menumpuk satu gambar ke gambar lainnya atau dengan menggabungkan beberapa gambar secara mulus menjadi satu rangkaian, baik secara vertikal maupun horizontal. Dengan memanfaatkan potongan foto yang berbeda, Anda dapat membuat wallpaper, teka-teki, atau mosaik yang menarik secara visual. Aspose.Imaging menawarkan solusi serbaguna untuk membuat kolase terlepas dari format file yang digunakan, memungkinkan Anda menyimpan kreasi Anda dalam berbagai format, termasuk opsi multi-halaman.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Menggunakan Aspose.Imaging Anda dapat dengan mudah menerapkan **Menggabungkan** untuk berbagai format gambar secara terprogram
+Dengan menggunakan pustaka Aspose.Imaging untuk Python, Anda bisa dengan mudah melakukan operasi <b>Menggabungkan</b> untuk gambar dan foto dalam berbagai format secara terprogram.
 </p>
 <h3 style="margin-top:16px;">
-Daftar lengkap operasi Menggabungkan yang didukung menurut format gambar:
+Pilih format gambar dari daftar untuk operasi Menggabungkan:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

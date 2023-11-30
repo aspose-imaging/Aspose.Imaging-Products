@@ -9,20 +9,65 @@ description: Thư viện thao tác và xử lý hình ảnh Python. Aspose.Imagi
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1="Aspose.Imaging cho Python thông qua thư viện .NET và API để xử lý ảnh" h2="Tạo, tải, thao tác hoặc chuyển đổi hình ảnh mà không yêu cầu bất kỳ trình chỉnh sửa hình ảnh nào." downloadFreeTrialText="Tải xuống bản dùng thử miễn phí" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-python-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/imaging/python-net/" >}}
+{{< blocks/products/pf/upper-banner h1="Aspose.Imaging cho Python thông qua thư viện .NET và API để xử lý ảnh" h2="Tạo các ứng dụng Python của riêng bạn để xử lý hình ảnh mà không cần bất kỳ trình chỉnh sửa hình ảnh nào" downloadFreeTrialText="Tải xuống bản dùng thử miễn phí" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-python-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/imaging/python-net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Python" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-python-net.svg" 
 liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/python-net" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/python-net/" installationsDocsLink="https://docs.aspose.com/imaging/python-net/installation/" pipLink="https://pypi.org/project/aspose-imaging-python-net/" directDownloadLink="https://downloads.aspose.com/imaging/python-net/" liveDemosText="Bản trình diễn trực tiếp" overviewText="Tổng quat" featuresText="Đặc trưng" resourcesText="Tài nguyên" pricingText="Định giá" downloadText="Tải xuống" learnText="Học" buyText="Mua" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="Tại một" carousel1Text2="Liếc nhìn" carousel2Text1="Nền tảng" carousel2Text2="Sự độc lập" carousel3Text1="Tệp được hỗ trợ" carousel3Text2="Định dạng">}}
-<p align="justify">
- Aspose.Imaging for Python via .NET là thư viện cung cấp các tính năng xử lý ảnh nâng cao. Bạn có thể dễ dàng tạo, tải, thao tác, chuyển đổi hoặc nén hình ảnh bằng API này. Ngoài ra Aspose.Imaging cho Python qua .NET hỗ trợ vẽ và làm việc với các nguyên mẫu đồ họa. Xuất và chuyển đổi hình ảnh - một trong những tính năng cốt lõi của API cùng với các chuyển đổi hình ảnh (thay đổi kích thước, cắt, lật & xoay, nhị phân hóa, thang độ xám, điều chỉnh), các tính năng xử lý hình ảnh nâng cao (lọc, phối màu, tạo mặt nạ, xóa mờ).
-</p>
 
-<p align="justify">
- Aspose.Imaging for Python via .NET là API có khả năng xử lý các định dạng ảnh thường dùng và hỗ trợ một số định dạng đặc biệt như DjVu, DICOM, WebP và DNG.
-</p>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Áp dụng tất cả khả năng xử lý hình ảnh với Aspose.Imaging for Python
+    </h2>
+    <p align="justify">
+     Aspose.Imaging for Python là một thư viện cung cấp các tính năng nâng cao để xử lý hình ảnh và ảnh. Với API đa năng này, bạn có thể tự động tải, chuyển đổi, tạo và thao tác với hình ảnh hoặc ảnh chụp mà không cần đến trình chỉnh sửa hình ảnh chuyên dụng.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Sử dụng các tính năng chính:
+    </h2>
+    <p>
+     <ul>
+       <li>
+       Chuyển đổi hình ảnh: chia tỷ lệ, thay đổi kích thước, cắt, xoay, chuyển sang đen trắng hoặc thang độ xám, điều chỉnh độ sáng, độ tương phản và gamma của hình ảnh hoặc ảnh.
+       </li>
+       <li>
+       Thao tác nâng cao: áp dụng bộ lọc, trộn alpha, thêm hoặc xóa hình mờ, thay đổi hình nền, làm mịn hình ảnh, áp dụng mặt nạ và tự động hóa các tác vụ xử lý hình ảnh.
+       </li>
+       <li>
+       Tối ưu hóa bộ nhớ: sử dụng các chiến lược tối ưu hóa bộ nhớ để đảm bảo xử lý hình ảnh nhanh chóng và hiệu quả.
+       </li>
+       <li>
+       Vẽ và đồ họa nguyên thủy: sử dụng các chức năng vẽ cho nguyên thủy đồ họa và áp dụng văn bản với các kiểu phông chữ khác nhau.
+       </li>
+       <li>
+       Chuyển đổi hình ảnh: xuất hình ảnh có chuyển đổi sang các định dạng khác, bao gồm xử lý thống nhất các hình ảnh nhiều trang.
+       </li>
+     </ul>
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Hỗ trợ nhiều định dạng khác nhau
+    </h2>
+    <p align="justify">
+     Hỗ trợ nhiều định dạng khác nhau Aspose.Imaging cho Python nổi bật bởi tính ổn định, tính linh hoạt và chức năng của nó. Nó hỗ trợ nhiều định dạng, bao gồm các định dạng đặc biệt như APNG, WebP, EPS, PDF và DICOM. Hỗ trợ định dạng rộng làm cho nó trở thành một giải pháp lý tưởng cho nhiều tác vụ xử lý hình ảnh.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Khả năng tương thích đa nền tảng
+    </h2>
+    <p align="justify">
+     Aspose.Imaging là một thư viện phổ quát có thể được sử dụng trên cả hệ điều hành Windows và Linux nhờ khả năng tương thích đa nền tảng. Bạn có thể dựa vào Aspose.Imaging để cung cấp khả năng xử lý hình ảnh ổn định và chất lượng cao.
+    </p>
+    <p align="justify">
+     Đạt được cấp độ chất lượng mới trong xử lý hình ảnh với Aspose.Imaging cho Python. Hãy sử dụng API của chúng tôi ngay hôm nay và trải nghiệm tính linh hoạt, ổn định và hiệu suất của nó.
+    </p>
+   </div>
 
 {{< /blocks/products/pf/tab-content >}}
 
@@ -139,7 +184,19 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
-   
+   <header>
+    <i class = "fa fa-cubes">
+    </i>
+    .NET Framework
+   </header>
+   <ul>
+    <li>
+     Ứng dụng Windows
+    </li>
+    <li>
+     Ứng dụng web ASP.NET
+    </li>
+   </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
@@ -328,18 +385,18 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-    
+    <a href="/imaging/vi/python-net/crop/">
      Mùa vụ
-    
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-    
+    <a href="/imaging/vi/python-net/resize/">
      Thay đổi kích thước
-    
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -374,9 +431,9 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-road ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-        
+    <a href="/imaging/vi/python-net/remove-background/">    
      Gỡ bỏ nền
-    
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -404,36 +461,36 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-road ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/vi/python-net/change-background/">
      Thay đổi nền
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-wordpress ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/vi/python-net/watermark/">
      Thêm hình mờ vào hình ảnh     
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-search ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/vi/python-net/viewer/">
      Xem hình ảnh
-     
+     </a>
     </p>
    </div>   
    <div class="col-lg-4">
     <em class="fa fa-compress ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/vi/python-net/compress/">
      Nén
-     
+     </a>
     </p>
    </div>
 <div class="col-lg-4">
@@ -442,7 +499,7 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <p class="col-lg-10">
      <a href="/imaging/vi/python-net/merge/">
      hợp nhất
-     
+     </a>
     </p>
    </div>
 <div class="col-lg-12">
@@ -452,9 +509,9 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-compass ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/vi/python-net/dither/">
      Run lên
-     
+     </a>
     </p>
    </div>
 
@@ -462,9 +519,9 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-black-tie ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/vi/python-net/grayscale/">
      thang độ xám
-     
+     </a>
     </p>
    </div>
    
@@ -472,36 +529,36 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/vi/python-net/filter/">
      Lọc
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-television ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/vi/python-net/cartoonify/">
      Hoạt hình hóa
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/vi/python-net/binarize/">
      nhị phân hóa
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-adjust ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/vi/python-net/adjust/">
      Điều chỉnh
-     
+     </a>
     </p>
    </div>
 

@@ -1,26 +1,26 @@
 ﻿---
-title: 合并 图片通过 python-net，所有支持的图片格式 
+title: 使用 Python 的 合并 图像 
 weight: 3920
 url: /zh-hans/python-net/merge/ 
 lang: zh-hans
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: 使用 Aspose.Imaging 你可以轻松地通过 python-net 获取 合并 图像
+description: 使用您自己的 Python 应用程序和服务器 API 将 Aspose.Imaging 库应用于 合并 图像和照片。
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="图片文件 合并 来自 python-net" h2="合并 图片" downloadText="下载" >}}
+{{< blocks/products/pf/feature-page-header h1="使用 Python 对图像进行 合并 操作" h2="使用 Aspose.Imaging 库通过您自己的 Python 应用程序生成 合并 图像" downloadText="下载" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="合并 操作的所有支持格式图片" %}}
+{{% blocks/products/pf/feature-page-section  h2="将 合并 操作应用于所有可用的图像格式" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-合并图像操作允许将 2 个或多个图像垂直或水平合并为一个，而不会降低质量。照片拼贴是通过组合多张图像来创建新照片或图像，有时这些图像彼此不直接相关。摄影师想要的效果是通过将一个图像叠加在另一个图像上或将许多（超过 2 个）图像组合成一个整体来创建的，有时会混乱地使用不同的摄影图像（例如拼图或马赛克）。 Aspose.Imaging 允许使用多种文件格式创建不同的拼贴画。
+合并图像是一种技术，可让您将两个或多个图像组合成一个合成图像，而不会影响质量。创建照片拼贴涉及将多张照片合并在一起，通常具有共同的主题或主题。这可以通过将一幅图像堆叠到另一幅图像上或通过将多个图像垂直或水平无缝组合成链式图像来实现。通过利用照片的不同片段，您可以创建具有视觉吸引力的壁纸、拼图或马赛克。 Aspose.Imaging 提供了一种用于创建拼贴画的多功能解决方案，无论涉及何种文件格式，都允许您以各种格式保存您的创作，包括多页选项。
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-使用 Aspose.Imaging 您可以轻松地将 **合并** 应用于不同的图像格式 以编程方式
+使用 Python 的 Aspose.Imaging 库，您可以通过编程轻松地对各种格式的图像和照片执行 <b>合并</b> 操作。
 </p>
 <h3 style="margin-top:16px;">
-按图像格式支持的 合并 操作的完整列表：
+从列表中为 合并 操作选择图像格式：
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

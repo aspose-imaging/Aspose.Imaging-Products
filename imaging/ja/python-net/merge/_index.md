@@ -1,26 +1,26 @@
 ﻿---
-title: マージ 画像 python-net 経由、サポートされているすべての画像形式 
+title: Python を使用した マージ イメージ 
 weight: 3920
 url: /ja/python-net/merge/ 
 lang: ja
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging を使用すると、python-net 経由で簡単に マージ イメージを作成できます
+description: 独自の Python アプリケーションとサーバー API を使用して、Aspose.Imaging ライブラリを マージ の画像と写真に適用します。
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="python-net経由の画像ファイルマージ" h2="{操作名} 画像" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1="画像に対する マージ オペレーションには Python を使用します" h2="Aspose.Imaging ライブラリを使用した独自の Python アプリケーションによる マージ イメージ" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="マージ 操作でサポートされているすべての形式 画像" %}}
+{{% blocks/products/pf/feature-page-section  h2="マージ オペレーションを使用可能なすべての画像形式に適用します" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-画像の結合操作を使用すると、品質を損なうことなく、2 つ以上の画像を垂直方向または水平方向に 1 つに結合できます。フォトコラージュとは、複数の画像を組み合わせて新しい写真や画像を作成することです。場合によっては、それぞれの写真に直接関連性がない場合もあります。写真家が望む効果は、ある画像を別の画像に重ねたり、多くの（2 つ以上の）画像を組み合わせて 1 つの全体にすることによって作成されます。また、場合によっては、さまざまな写真画像 (パズルやモザイクなど) を無秩序に使用します。 Aspose.Imaging を使用すると、さまざまなファイル形式を使用してさまざまなコラージュを作成できます。
+画像の結合は、品質を損なうことなく 2 つ以上の画像を 1 つの構成に組み合わせることができるテクニックです。写真コラージュを作成するには、多くの場合、共通のテーマや主題を使用して複数の写真を結合する必要があります。これは、ある画像を別の画像に積み重ねたり、複数の画像を垂直方向または水平方向にシームレスに結合して連鎖した画像にすることによって実現できます。写真のさまざまな断片を利用して、視覚的に魅力的な壁紙、パズル、モザイクを作成できます。 Aspose.Imaging は、関連するファイル形式に関係なくコラージュを作成するための多用途のソリューションを提供し、複数ページ オプションを含むさまざまな形式で作成物を保存できます。
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Aspose.Imaging を使用すると、さまざまな画像フォーマットに **マージ** を簡単に適用できます プログラム的に
+Python の Aspose.Imaging ライブラリを使用すると、さまざまな形式の画像や写真に対する <b>マージ</b> 操作をプログラムで簡単に実行できます。
 </p>
 <h3 style="margin-top:16px;">
-画像形式ごとにサポートされている マージ 操作の完全なリスト:
+マージ オペレーションのリストから画像形式を選択します。
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

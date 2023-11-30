@@ -84,7 +84,7 @@ description: 尝试使用我们的本地文档 API 来查看 .NET Framework、.N
 
 {{% blocks/products/pf/agp/code-block title="查看 WMF 图像 - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "1bf18dd9bd143c0f8c4f8c47e2b51978" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "b47fe38ff3b1ec670e1452cbd327b627" "convert-wmf-to-png.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

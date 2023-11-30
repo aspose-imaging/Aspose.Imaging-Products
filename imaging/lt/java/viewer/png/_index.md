@@ -83,7 +83,7 @@ Jums reikia [aspose-imaging-version-jdk16.jar](https://downloads.aspose.com/imag
 
 {{% blocks/products/pf/agp/code-block title="Peržiūrėti PNG vaizdus – Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "6013edc0c1b050c2c0bc2e34da7f3263" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "a3e9a29e02d684daee703a614963c1d6" "convert-png-to-png.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

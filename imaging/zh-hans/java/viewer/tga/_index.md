@@ -84,7 +84,7 @@ description: 尝试使用我们的本地文档 API 来查看 .NET Framework、.N
 
 {{% blocks/products/pf/agp/code-block title="查看 TGA 图像 - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "7ea8d36893e41a713493a85f89a7bbc7" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "4348ea20efe85236fb631ec9a4fcb1d6" "convert-tga-to-png.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

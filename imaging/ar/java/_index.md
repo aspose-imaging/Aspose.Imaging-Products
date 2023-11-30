@@ -9,20 +9,65 @@ description: مكتبة معالجة ومعالجة الصور في Java. إنش
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1="مكتبة جافا و API لمعالجة الصور" h2="إنشاء الصور أو تحميلها أو معالجتها أو تحويلها دون الحاجة إلى أي محرر صور." downloadFreeTrialText="تحميل النسخة التجريبية المجانية" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-java.svg"  pfName="Aspose.Imaging" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/imaging/java/" >}}
+{{< blocks/products/pf/upper-banner h1="مكتبة جافا و API لمعالجة الصور" h2="قم بإنشاء الصور وتحميلها ومعالجتها باستخدام تطبيق Java الخاص بك دون الحاجة إلى أي محرر صور" downloadFreeTrialText="تحميل النسخة التجريبية المجانية" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-java.svg"  pfName="Aspose.Imaging" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/imaging/java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Java" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-java.svg" 
 liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/java" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/java/" installationsDocsLink="https://docs.aspose.com/imaging/java/installation/" mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-imaging/" directDownloadLink="https://downloads.aspose.com/imaging/java/" liveDemosText="العروض التوضيحية الحية" overviewText="ملخص" featuresText="سمات" resourcesText="موارد" pricingText="التسعير" downloadText="تحميل" learnText="يتعلم" buyText="يشتري" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="في" carousel1Text2="يلمح" carousel2Text1="برنامج" carousel2Text2="استقلال" carousel3Text1="الملف المدعوم" carousel3Text2="التنسيقات">}}
-<p align="justify">
- Aspose.Imaging for Java هي مكتبة تقدم ميزات معالجة الصور المتقدمة. يمكنك بسهولة إنشاء أو تحميل أو معالجة أو تحويل أو ضغط الصور أو الصور باستخدام واجهة برمجة التطبيقات هذه. أيضا Aspose. مكتبة التصوير تدعم الرسم والعمل مع الرسوم الأولية. يعد تصدير الصور وتحويلها (بما في ذلك المعالجة الموحدة للصور متعددة الصفحات) إحدى ميزات API الأساسية جنبًا إلى جنب مع تحويلات الصورة (تغيير الحجم ، والقص ، والوجه والتدوير ، والترميز الثنائي ، والتدرج الرمادي ، والضبط) ، وميزات معالجة الصور المتقدمة (الترشيح ، والتردد ، والإخفاء ، والتحويل المكتبي) ) واستراتيجيات تحسين الذاكرة.
-</p>
 
-<p align="justify">
- Aspose.Imaging for Java هي واجهة برمجة تطبيقات مرنة ومستقرة وقوية ، قادرة على معالجة التنسيقات الأكثر استخدامًا إلى جانب بعض التنسيقات الخاصة مثل DjVu و DICOM و WebP و DNG.
-</p>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     استخدم إمكانات معالجة الصور الكاملة لـ Aspose.Imaging لـ Java
+    </h2>
+    <p align="justify">
+     Aspose.Imaging for Java هي مكتبة توفر لك أدوات متقدمة لمعالجة الصور والصور. باستخدام واجهة برمجة التطبيقات المرنة هذه، يمكنك إنشاء الصور وتحميلها وتحويلها ومعالجتها بسهولة دون الحاجة إلى برامج تحرير صور متخصصة.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     استكشف الميزات الرئيسية التالية:
+    </h2>
+    <p>
+     <ul>
+       <li>
+       تحويل الصور: يمكنك بسهولة تطبيق الضغط والدمج وتغيير الحجم والاقتصاص والتدوير والتحويل إلى اللون الأسود والأبيض أو التدرج الرمادي. اضبط مستويات السطوع والتباين وغاما للحصول على أفضل النتائج.
+       </li>
+       <li>
+       عمليات المعالجة المتقدمة: استخدم مرشحات التمويه والتنعيم والشحذ وتأثير الصورة الكرتونية ومزج ألفا والعلامات المائية وتغييرات الخلفية والأقنعة لأتمتة مهام معالجة الصور الخاصة بك.
+       </li>
+       <li>
+       تحسين الذاكرة: استخدم استراتيجيات فعالة لتحسين الذاكرة لضمان معالجة سريعة وفعالة للصور.
+       </li>
+       <li>
+       أساسيات الرسم والرسومات: قم بإنشاء أشكال، ورسم أساسيات رسومية، وأضف نصًا بأنماط خطوط مختلفة لتحسين صورك.
+       </li>
+       <li>
+       تحويل الصور: تصدير الصور إلى تنسيقات مختلفة مع دعم موحد لمعالجة الصور متعددة الصفحات.
+       </li>
+     </ul>
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     توافق التنسيقات المختلفة
+    </h2>
+    <p align="justify">
+     Aspose.Imaging for Java هي مكتبة موثوقة ومتعددة الاستخدامات تدعم نطاقًا واسعًا من التنسيقات، بما في ذلك EPS وDjVu وDNG وWebP وDICOM وSVG. إنه حل مثالي لمختلف مهام معالجة الصور الخاصة بك.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     الدعم عبر الأنظمة الأساسية
+    </h2>
+    <p align="justify">
+     استمتع بالتوافق عبر الأنظمة الأساسية مع Aspose.Imaging for Java، الذي يعمل بسلاسة على أنظمة التشغيل Windows وLinux. استمتع بقدرات معالجة صور مستقرة وعالية الجودة بغض النظر عن النظام الأساسي الخاص بك.
+    </p>
+    <p align="justify">
+     أطلق العنان لمستوى جديد من جودة معالجة الصور باستخدام Aspose.Imaging for Java. ابدأ في استخدام واجهة برمجة التطبيقات (API) الخاصة بنا اليوم واكتشف مرونتها واستقرارها وأدائها.
+    </p>
+   </div>
 
 {{< /blocks/products/pf/tab-content >}}
 

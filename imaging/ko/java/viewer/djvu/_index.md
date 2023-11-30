@@ -83,7 +83,7 @@ Java용 Aspose.Imaging은 모든 주요 운영 체제에서 지원됩니다. 다
 
 {{% blocks/products/pf/agp/code-block title="DJVU 이미지 보기 - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "7cd7d94813fb73fe141054272437f6ae" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "5a1855c9d83d9186b0f015c1709e5c4c" "convert-djvu-to-png.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

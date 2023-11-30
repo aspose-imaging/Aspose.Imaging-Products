@@ -1,26 +1,26 @@
 ﻿---
-title: Łączyć obrazy Przez python-net, wszystkie obsługiwane formaty obrazów 
+title: Obrazy Łączyć przy użyciu języka Python 
 weight: 3920
 url: /pl/python-net/merge/ 
 lang: pl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Używając Aspose.Imaging możesz łatwo Łączyć obrazy Via python-net
+description: Stosowanie biblioteki Aspose.Imaging do obrazów i zdjęć Łączyć przy użyciu własnych aplikacji Python i interfejsów API serwera.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Pliki obrazów Łączyć przez python-net" h2="Obrazy Łączyć" downloadText="Ściągnij" >}}
+{{< blocks/products/pf/feature-page-header h1="Użyj języka Python do operacji Łączyć na obrazach" h2="Obrazy Łączyć za pośrednictwem własnych aplikacji Python przy użyciu biblioteki Aspose.Imaging" downloadText="Ściągnij" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty operacji obrazy Łączyć" %}}
+{{% blocks/products/pf/feature-page-section  h2="Zastosuj operację Łączyć do wszystkich dostępnych formatów obrazów" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Operacja scalania obrazów umożliwia łączenie 2 lub więcej obrazów w jeden w pionie lub poziomie bez utraty jakości. Kolaż zdjęć to tworzenie nowego zdjęcia lub obrazu poprzez połączenie kilku zdjęć, czasami nie powiązanych bezpośrednio ze sobą. Pożądany przez fotografa efekt uzyskuje się poprzez nałożenie jednego obrazu na drugi lub połączenie wielu (więcej niż 2) obrazów w jedną całość, czasami z chaotycznym wykorzystaniem różnych obrazów fotograficznych (np. puzzli lub mozaiki). Aspose.Imaging umożliwia tworzenie różnych kolaży przy użyciu szerokiej gamy formatów plików.
+Łączenie obrazów to technika umożliwiająca połączenie dwóch lub większej liczby obrazów w jedną kompozycję bez utraty jakości. Tworzenie kolażu zdjęć polega na łączeniu wielu zdjęć, często o wspólnym motywie lub temacie. Można to osiągnąć poprzez nakładanie jednego obrazu na drugi lub płynne łączenie wielu obrazów w jeden, w pionie lub w poziomie. Wykorzystując różne fragmenty zdjęć, możesz stworzyć atrakcyjne wizualnie tapety, puzzle lub mozaiki. Aspose.Imaging oferuje wszechstronne rozwiązanie do tworzenia kolaży niezależnie od używanych formatów plików, umożliwiając zapisywanie swoich dzieł w różnych formatach, w tym w opcjach wielostronicowych.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Używając Aspose.Imaging możesz łatwo zastosować **Łączyć** dla różnych formatów obrazów programowo
+Korzystając z biblioteki Aspose.Imaging dla języka Python, możesz łatwo programowo wykonać operację <b>Łączyć</b> na obrazach i zdjęciach w różnych formatach.
 </p>
 <h3 style="margin-top:16px;">
-Pełna lista obsługiwanych operacji Łączyć według formatów obrazu:
+Wybierz format obrazu z listy dla operacji Łączyć:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

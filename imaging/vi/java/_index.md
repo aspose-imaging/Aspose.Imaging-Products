@@ -9,20 +9,65 @@ description: Thư viện thao tác và xử lý ảnh Java. Tạo chế độ xe
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1="Thư viện Java và API để xử lý hình ảnh" h2="Tạo, tải, thao tác hoặc chuyển đổi hình ảnh mà không yêu cầu bất kỳ trình chỉnh sửa hình ảnh nào." downloadFreeTrialText="Tải xuống bản dùng thử miễn phí" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-java.svg"  pfName="Aspose.Imaging" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/imaging/java/" >}}
+{{< blocks/products/pf/upper-banner h1="Thư viện Java và API để xử lý hình ảnh" h2="Tạo, tải và thao tác hình ảnh bằng ứng dụng Java của riêng bạn mà không yêu cầu bất kỳ trình chỉnh sửa hình ảnh nào" downloadFreeTrialText="Tải xuống bản dùng thử miễn phí" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-java.svg"  pfName="Aspose.Imaging" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/imaging/java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Java" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-java.svg" 
 liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/java" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/java/" installationsDocsLink="https://docs.aspose.com/imaging/java/installation/" mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-imaging/" directDownloadLink="https://downloads.aspose.com/imaging/java/" liveDemosText="Bản trình diễn trực tiếp" overviewText="Tổng quat" featuresText="Đặc trưng" resourcesText="Tài nguyên" pricingText="Định giá" downloadText="Tải xuống" learnText="Học" buyText="Mua" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="Tại một" carousel1Text2="Liếc nhìn" carousel2Text1="Nền tảng" carousel2Text2="Sự độc lập" carousel3Text1="Tệp được hỗ trợ" carousel3Text2="Định dạng">}}
-<p align="justify">
- Aspose.Imaging for Java là một thư viện cung cấp các tính năng xử lý hình ảnh nâng cao. Bạn có thể dễ dàng tạo, tải, thao tác, chuyển đổi, nén hình ảnh hoặc ảnh chụp bằng cách sử dụng API này. Ngoài ra, Aspose. Thư viện hình ảnh hỗ trợ vẽ và làm việc với đồ họa nguyên thủy. Xuất và chuyển đổi hình ảnh (bao gồm cả xử lý hình ảnh nhiều trang đồng nhất) là một trong những tính năng cốt lõi của API cùng với các phép chuyển đổi hình ảnh (thay đổi kích thước, cắt, lật và xoay, mã hóa nhị phân, thang độ xám, điều chỉnh), các tính năng thao tác hình ảnh nâng cao (lọc, phối màu, tạo mặt nạ, giải mã ) và các chiến lược tối ưu hóa bộ nhớ.
-</p>
 
-<p align="justify">
- Aspose.Imaging for Java là một API linh hoạt, ổn định và mạnh mẽ, có khả năng xử lý các định dạng thông dụng nhất cùng với một số định dạng đặc biệt như DjVu, DICOM, WebP & DNG.
-</p>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Sử dụng toàn bộ khả năng xử lý hình ảnh của Aspose.Imaging cho Java
+    </h2>
+    <p align="justify">
+     Aspose.Imaging for Java là một thư viện cung cấp cho bạn các công cụ nâng cao để xử lý hình ảnh và ảnh. Với API linh hoạt này, bạn có thể dễ dàng tạo, tải, chuyển đổi và xử lý hình ảnh mà không cần trình chỉnh sửa hình ảnh chuyên dụng.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Khám phá các tính năng chính sau:
+    </h2>
+    <p>
+     <ul>
+       <li>
+       Chuyển đổi hình ảnh: Dễ dàng áp dụng nén, hợp nhất, thay đổi kích thước, cắt xén, xoay và chuyển đổi sang màu đen trắng hoặc thang độ xám. Điều chỉnh độ sáng, độ tương phản và mức gamma để có kết quả tối ưu.
+       </li>
+       <li>
+       Thao tác nâng cao: Sử dụng các bộ lọc làm mờ, làm mịn, làm sắc nét, hiệu ứng hình ảnh hoạt hình, trộn alpha, hình mờ, thay đổi nền và mặt nạ để tự động hóa các tác vụ xử lý hình ảnh của bạn.
+       </li>
+       <li>
+       Tối ưu hóa bộ nhớ: Sử dụng các chiến lược tối ưu hóa bộ nhớ hiệu quả để đảm bảo xử lý hình ảnh nhanh chóng và hiệu quả.
+       </li>
+       <li>
+       Vẽ và đồ họa nguyên thủy: Tạo hình, vẽ đồ họa nguyên thủy và thêm văn bản với các kiểu phông chữ khác nhau để nâng cao hình ảnh của bạn.
+       </li>
+       <li>
+       Chuyển đổi hình ảnh: Xuất hình ảnh sang nhiều định dạng khác nhau với hỗ trợ xử lý hình ảnh nhiều trang thống nhất.
+       </li>
+     </ul>
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Khả năng tương thích các định dạng khác nhau
+    </h2>
+    <p align="justify">
+     Aspose.Imaging for Java là một thư viện đáng tin cậy và linh hoạt, hỗ trợ nhiều định dạng, bao gồm EPS, DjVu, DNG, WebP, DICOM và SVG. Đó là một giải pháp lý tưởng cho các nhiệm vụ xử lý hình ảnh đa dạng của bạn.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Hỗ trợ đa nền tảng
+    </h2>
+    <p align="justify">
+     Tận hưởng khả năng tương thích đa nền tảng với Aspose.Imaging cho Java, hoạt động trơn tru trên cả hệ điều hành Windows và Linux. Trải nghiệm khả năng xử lý hình ảnh ổn định và chất lượng cao bất kể nền tảng của bạn.
+    </p>
+    <p align="justify">
+     Mở khóa một cấp độ mới về chất lượng xử lý hình ảnh với Aspose.Imaging cho Java. Bắt đầu sử dụng API của chúng tôi ngay hôm nay và khám phá tính linh hoạt, tính ổn định và hiệu suất của nó.
+    </p>
+   </div>
 
 {{< /blocks/products/pf/tab-content >}}
 

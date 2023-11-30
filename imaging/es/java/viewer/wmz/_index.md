@@ -83,7 +83,7 @@ Aspose.Imaging para Java es compatible con todos los principales sistemas operat
 
 {{% blocks/products/pf/agp/code-block title="Ver imágenes WMZ - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "69c0f75a96aeef906238823f6e345845" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "76d27d5023ad437bb805109869e11cc2" "convert-wmz-to-png.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

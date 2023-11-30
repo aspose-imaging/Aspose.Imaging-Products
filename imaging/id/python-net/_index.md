@@ -9,20 +9,65 @@ description: Pustaka pemrosesan dan manipulasi gambar Python. Aspose.Imaging unt
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1="Aspose.Imaging untuk Python melalui pustaka .NET dan API untuk Pemrosesan Gambar" h2="Membuat, memuat, memanipulasi, atau mengonversi gambar tanpa memerlukan editor gambar apa pun." downloadFreeTrialText="Unduh Uji Coba Gratis" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-python-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/imaging/python-net/" >}}
+{{< blocks/products/pf/upper-banner h1="Aspose.Imaging untuk Python melalui pustaka .NET dan API untuk Pemrosesan Gambar" h2="Buat aplikasi Python Anda sendiri untuk memanipulasi gambar tanpa memerlukan editor gambar apa pun" downloadFreeTrialText="Unduh Uji Coba Gratis" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-python-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/imaging/python-net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Python" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-python-net.svg" 
 liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/python-net" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/python-net/" installationsDocsLink="https://docs.aspose.com/imaging/python-net/installation/" pipLink="https://pypi.org/project/aspose-imaging-python-net/" directDownloadLink="https://downloads.aspose.com/imaging/python-net/" liveDemosText="Demo Langsung" overviewText="Ringkasan" featuresText="Fitur" resourcesText="Sumber daya" pricingText="harga" downloadText="Unduh" learnText="Mempelajari" buyText="Membeli" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="di" carousel1Text2="Lirikan" carousel2Text1="Platform" carousel2Text2="Kemerdekaan" carousel3Text1="File yang Didukung" carousel3Text2="format">}}
-<p align="justify">
- Aspose.Imaging untuk Python via .NET adalah pustaka yang menawarkan fitur pemrosesan gambar tingkat lanjut. Anda dapat dengan mudah membuat, memuat, memanipulasi, mengonversi, atau mengompres gambar menggunakan API ini. Juga Aspose.Imaging untuk Python melalui .NET mendukung menggambar dan bekerja dengan primitif grafis. Ekspor dan konversi gambar - salah satu fitur inti API bersama dengan transformasi gambar (ubah ukuran, pangkas, balik&putar, binarisasi, skala abu-abu, sesuaikan), fitur manipulasi gambar tingkat lanjut (pemfilteran, dithering, masking, deskewing).
-</p>
 
-<p align="justify">
- Aspose.Imaging untuk Python via .NET adalah API yang mampu memproses format gambar yang umum digunakan dan mendukung beberapa format khusus seperti DjVu, DICOM, WebP, dan DNG.
-</p>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Terapkan semua kemampuan pemrosesan gambar dengan Aspose.Imaging untuk Python
+    </h2>
+    <p align="justify">
+     Aspose.Imaging for Python adalah perpustakaan yang menawarkan fitur-fitur canggih untuk pemrosesan gambar dan foto. Dengan API serbaguna ini, Anda dapat memuat, mengonversi, membuat, dan memanipulasi gambar atau foto secara otomatis tanpa memerlukan editor gambar khusus.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Gunakan Fitur Utama:
+    </h2>
+    <p>
+     <ul>
+       <li>
+       Transformasi gambar: menskalakan, mengubah ukuran, memotong, memutar, mengubah menjadi hitam putih atau skala abu-abu, mengatur kecerahan, kontras, dan gamma gambar atau foto.
+       </li>
+       <li>
+       Manipulasi tingkat lanjut: menerapkan filter, pencampuran alfa, menambah atau menghapus tanda air, mengubah latar belakang, menghaluskan gambar, menerapkan topeng, dan mengotomatiskan tugas pemrosesan gambar.
+       </li>
+       <li>
+       Pengoptimalan memori: gunakan strategi pengoptimalan memori yang memastikan pemrosesan gambar cepat dan efisien.
+       </li>
+       <li>
+       Menggambar dan grafis primitif: menggunakan fungsi menggambar untuk grafis primitif dan menerapkan teks dengan gaya font berbeda.
+       </li>
+       <li>
+       Konversi gambar: mengekspor gambar dengan konversi ke format lain, termasuk pemrosesan terpadu gambar multi-halaman.
+       </li>
+     </ul>
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Berbagai format mendukung
+    </h2>
+    <p align="justify">
+     Dukungan untuk berbagai format Aspose.Imaging untuk Python dibedakan berdasarkan stabilitas, keserbagunaan, dan fungsionalitasnya. Ini mendukung berbagai format, termasuk format khusus seperti APNG, WebP, EPS, PDF, dan DICOM. Dukungan format lebar menjadikannya solusi ideal untuk berbagai tugas pemrosesan gambar.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Kompatibilitas Lintas Platform
+    </h2>
+    <p align="justify">
+     Aspose.Imaging adalah perpustakaan universal yang dapat digunakan pada sistem operasi Windows dan Linux berkat kompatibilitas lintas platformnya. Anda dapat mengandalkan Aspose.Imaging untuk memberikan kemampuan pemrosesan gambar yang stabil dan berkualitas tinggi.
+    </p>
+    <p align="justify">
+     Raih tingkat kualitas baru dalam pemrosesan gambar dengan Aspose.Imaging untuk Python. Gunakan API kami sekarang dan rasakan fleksibilitas, stabilitas, dan kinerjanya.
+    </p>
+   </div>
 
 {{< /blocks/products/pf/tab-content >}}
 
@@ -139,7 +184,19 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
-   
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    .NET Framework
+   </header>
+   <ul>
+    <li>
+     Aplikasi Windows
+    </li>
+    <li>
+     Aplikasi Web ASP.NET
+    </li>
+   </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
@@ -328,18 +385,18 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-    
+    <a href="/imaging/id/python-net/crop/">
      Tanaman
-    
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-    
+    <a href="/imaging/id/python-net/resize/">
      Ubah ukuran
-    
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -374,9 +431,9 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-road ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-        
+    <a href="/imaging/id/python-net/remove-background/">    
      Hapus latar belakang
-    
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -404,36 +461,36 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-road ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/id/python-net/change-background/">
      Ubah latar belakang
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-wordpress ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/id/python-net/watermark/">
      Tambahkan tanda air ke gambar     
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-search ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/id/python-net/viewer/">
      Lihat gambar
-     
+     </a>
     </p>
    </div>   
    <div class="col-lg-4">
     <em class="fa fa-compress ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/id/python-net/compress/">
      Kompres
-     
+     </a>
     </p>
    </div>
 <div class="col-lg-4">
@@ -442,7 +499,7 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <p class="col-lg-10">
      <a href="/imaging/id/python-net/merge/">
      Menggabungkan
-     
+     </a>
     </p>
    </div>
 <div class="col-lg-12">
@@ -452,9 +509,9 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-compass ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/id/python-net/dither/">
      Gentar
-     
+     </a>
     </p>
    </div>
 
@@ -462,9 +519,9 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-black-tie ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/id/python-net/grayscale/">
      Skala abu-abu
-     
+     </a>
     </p>
    </div>
    
@@ -472,36 +529,36 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/id/python-net/filter/">
      Saring
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-television ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/id/python-net/cartoonify/">
      Buat kartun
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/id/python-net/binarize/">
      Binarisasi
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-adjust ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/id/python-net/adjust/">
      Menyesuaikan
-     
+     </a>
     </p>
    </div>
 

@@ -84,7 +84,7 @@ description: 尝试使用我们的本地文档 API 来查看 .NET Framework、.N
 
 {{% blocks/products/pf/agp/code-block title="查看 WEBP 图像 - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "693590fa27d4fe2d795cc7fbcf5cbd64" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "b5ae14ac978fa1304901a8c7f49b5137" "convert-webp-to-png.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

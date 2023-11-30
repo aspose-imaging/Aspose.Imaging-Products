@@ -83,7 +83,7 @@ Aspose.Imaging för Java stöds på alla större operativsystem. Se bara till at
 
 {{% blocks/products/pf/agp/code-block title="Visa EMZ-bilder - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "339fb6f6f36b878e48c3cf057f895589" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "fa7aea6cdf57cdfb057b80a344c3ea2c" "convert-emz-to-png.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

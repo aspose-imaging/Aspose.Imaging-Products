@@ -83,7 +83,7 @@ Java용 Aspose.Imaging은 모든 주요 운영 체제에서 지원됩니다. 다
 
 {{% blocks/products/pf/agp/code-block title="APNG 이미지 보기 - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "e6756e10d2c1e793c74b42a091958ece" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "07bd18a1af2633c99a708341d84b5ad2" "convert-apng-to-png.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

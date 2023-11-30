@@ -16,13 +16,58 @@ description: C# ASP.NET VB.NET uygulamalarında düzenleme çizimi oluşturmak v
 liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/net" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/net/" installationsDocsLink="https://docs.aspose.com/imaging/net/installation/" nugetLink="https://www.nuget.org/packages/aspose.imaging" nugetPackageName="Aspose.Imaging" directDownloadLink="https://downloads.aspose.com/imaging/net/" liveDemosText="Canlı Demolar" overviewText="genel bakış" featuresText="Özellikler" resourcesText="Kaynaklar" pricingText="fiyatlandırma" downloadText="İndirmek" learnText="Öğrenmek" buyText="Satın almak" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="bir" carousel1Text2="Bakış atmak" carousel2Text1="platformu" carousel2Text2="Bağımsızlık" carousel3Text1="Desteklenen Dosya" carousel3Text2="Formatlar">}}
-<p align="justify">
- Aspose.Imaging for .NET, gelişmiş görüntü işleme özellikleri sunan bir kitaplıktır. Bu API'yi kullanarak görüntüleri veya fotoğrafları kolayca oluşturabilir, yükleyebilir, değiştirebilir, dönüştürebilir, sıkıştırabilirsiniz. Ayrıca Aspose. Görüntüleme kitaplığı, çizimi destekler ve grafik temel öğelerle çalışır. Görüntü dışa aktarma ve dönüştürme (tek tip çok sayfalı görüntü işleme dahil), görüntü dönüştürmeleri (yeniden boyutlandırma, kırpma, çevirme ve döndürme, ikilileştirme, gri tonlama, ayarlama), gelişmiş görüntü işleme özellikleri (filtreleme, renk taklidi, maskeleme, eğrilik düzeltme) ile birlikte API temel özelliklerinden biridir. ) ve bellek optimizasyon stratejileri.
-</p>
 
-<p align="justify">
- Aspose.Imaging for .NET, DjVu, DICOM, WebP & DNG gibi bazı özel formatların yanı sıra en sık kullanılan formatları işleyebilen esnek, kararlı ve güçlü bir API'dir. Ayrıca, .NET ve .NET Core için görüntü biçimleri ve işleme işlevleri için yerel desteği genişletir. Aspose.Imaging platformlar arası bir kütüphanedir, Windows ve Linux uyumludur.
-</p>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     .NET için Aspose.Imaging ile Görüntü İşlemenin Tüm Potansiyelini Ortaya Çıkarın
+    </h2>
+    <p align="justify">
+     Aspose.Imaging for .NET, gelişmiş görüntü işleme yetenekleriyle sizi güçlendiren, kullanıcı dostu bir kitaplıktır. Bu çok yönlü API ile, özel bir görüntü düzenleyiciye ihtiyaç duymadan çok çeşitli görüntü işleme özelliklerini etkinleştirerek görüntüleri veya fotoğrafları zahmetsizce oluşturabilir, yükleyebilir, değiştirebilir, dönüştürebilir ve sıkıştırabilirsiniz.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Temel Özellikleri Keşfedin:
+    </h2>
+    <p>
+     <ul>
+       <li>
+       Görüntü Dönüşümü: Görüntüleri kolaylıkla yeniden boyutlandırın, kırpın, çevirin, döndürün, ikilileştirin, gri tonlamalı, eğriliklerini düzeltin ve ayarlayın.
+       </li>
+       <li>
+       Gelişmiş Manipülasyon: Görüntü işleme görevlerinizi kontrol altına almak için filtreler, alfa harmanlama, sihirli değnek aracı uygulayın, filigranı kaldırın, arka planı kaldırın, renk taklidi ve maskeleme uygulayın.
+       </li>
+       <li>
+       Verimli Bellek Optimizasyonu: Sorunsuz ve verimli görüntü işleme sağlayan bellek optimizasyon stratejilerinin keyfini çıkarın.
+       </li>
+       <li>
+       Çizim ve Grafik Temel Öğeleri: Çizim araçlarının gücünden yararlanın ve projelerinizi geliştirmek için grafik temel öğeleriyle çalışın.
+       </li>
+       <li>
+       Dışa Aktarma ve Dönüştürme: Tek tip çok sayfalı görüntü işleme de dahil olmak üzere görüntüleri sorunsuz bir şekilde dışa aktarın ve dönüştürün.
+       </li>
+     </ul>
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Biçim Uyumluluğu
+    </h2>
+    <p align="justify">
+     Aspose.Imaging for .NET yalnızca esnek ve istikrarlı değil aynı zamanda çok yönlüdür. En sık kullanılan görüntü formatlarını destekler ve DjVu, DICOM, WebP, EPS ve DNG gibi özel formatlara destek sağlayarak bir adım daha ileri gider. Bu kapsamlı format desteği, onu çok çeşitli görüntü işleme görevleri için başvuracağınız çözüm haline getirir.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Platformlar Arası Uyumluluk
+    </h2>
+    <p align="justify">
+     Aspose.Imaging, hem Windows hem de Linux ortamlarıyla uyumluluk sağlayan, platformlar arası bir kütüphanedir. İster Windows ister Linux sisteminde çalışıyor olun, Aspose.Imaging'in tutarlı, yüksek kaliteli görüntü işleme yetenekleri sunacağına güvenebilirsiniz.
+    </p>
+    <p align="justify">
+     Aspose.Imaging for .NET ile görüntü işleme projelerinizi yeni boyutlara yükseltin. API'mizin esnekliğini, kararlılığını ve gücünü bugün deneyimleyin.
+    </p>
+   </div>
 
 {{< /blocks/products/pf/tab-content >}}
 

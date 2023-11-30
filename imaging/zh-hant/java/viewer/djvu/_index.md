@@ -83,7 +83,7 @@ description: 嘗試使用我們的本地文檔 API 來查看 .NET Framework、.N
 
 {{% blocks/products/pf/agp/code-block title="查看 DJVU 圖像 - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "7cd7d94813fb73fe141054272437f6ae" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "5a1855c9d83d9186b0f015c1709e5c4c" "convert-djvu-to-png.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

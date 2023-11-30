@@ -84,7 +84,7 @@ description: 尝试使用我们的本地文档 API 来查看 .NET Framework、.N
 
 {{% blocks/products/pf/agp/code-block title="查看 GIF 图像 - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "0dfac1d679fe6125d696d1a66d991346" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "5c0b1ad0efc459734a6d44da8a897a80" "convert-gif-to-png.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

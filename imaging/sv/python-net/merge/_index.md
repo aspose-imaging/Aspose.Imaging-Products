@@ -1,26 +1,26 @@
 ﻿---
-title: Sammanfoga bilder Via python-net, alla bildformat som stöds 
+title: Sammanfoga-bilder med Python 
 weight: 3920
 url: /sv/python-net/merge/ 
 lang: sv
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Med Aspose.Imaging kan du enkelt Sammanfoga bilder via python-net
+description: Tillämpa Aspose.Imaging-biblioteket på Sammanfoga-bilder och foton med dina egna Python-applikationer och server-API:er.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Bildfiler Sammanfoga via python-net" h2="Sammanfoga bilder" downloadText="Ladda ner" >}}
+{{< blocks/products/pf/feature-page-header h1="Använd Python för Sammanfoga operation på bilder" h2="Sammanfoga-bilder via dina egna Python-applikationer som använder Aspose.Imaging-biblioteket" downloadText="Ladda ner" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alla bilder format som stöds för operationen Sammanfoga" %}}
+{{% blocks/products/pf/feature-page-section  h2="Använd åtgärden Sammanfoga på alla tillgängliga bildformat" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Genom att slå samman bilder kan du kombinera 2 eller fler bilder till en vertikalt eller horisontellt utan att förlora kvalitet. Fotocollage är att skapa ett nytt foto eller bild genom att kombinera flera bilder, ibland inte direkt relaterade till varandras bilder. Den effekt som fotografen önskar skapas genom att lägga en bild på en annan eller genom att kombinera många (fler än 2) bilder till en enda helhet, ibland med kaotisk användning av olika fotografiska bilder (som ett pussel eller mosaik). Aspose.Imaging gör det möjligt att skapa olika collage med ett stort antal filformat.
+Sammanfoga bilder är en teknik som gör att du kan kombinera två eller flera bilder till en enda komposition utan att kompromissa med kvaliteten. Att skapa ett fotocollage innebär att flera foton sammanfogas, ofta med ett gemensamt tema eller ämne. Detta kan uppnås genom att stapla en bild på en annan eller genom att sömlöst kombinera flera bilder till en kedjad, antingen vertikalt eller horisontellt. Genom att använda olika fragment av foton kan du skapa visuellt tilltalande bakgrundsbilder, pussel eller mosaiker. Aspose.Imaging erbjuder en mångsidig lösning för att skapa collage oavsett vilka filformat som är involverade, så att du kan spara dina skapelser i en mängd olika format, inklusive flersidiga alternativ.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Med Aspose.Imaging kan du enkelt använda **Sammanfoga** för olika bildformat programmatiskt
+Genom att använda Aspose.Imaging-biblioteket för Python kan du enkelt utföra <b>Sammanfoga</b>-åtgärden för bilder och foton i olika format programmatiskt.
 </p>
 <h3 style="margin-top:16px;">
-Fullständig lista över Sammanfoga-operationer som stöds efter bildformat:
+Välj ett bildformat från listan för åtgärden Sammanfoga:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

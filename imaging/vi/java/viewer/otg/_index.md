@@ -83,7 +83,7 @@ Aspose.Imaging cho Java được hỗ trợ trên tất cả các hệ điều h
 
 {{% blocks/products/pf/agp/code-block title="Xem hình ảnh OTG - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "591ab204772afbc5e31c9168fbe0284c" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "d3a4aa97e7fb26506ce4d123c6c3cf29" "convert-otg-to-png.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

@@ -9,20 +9,65 @@ description: ספריית עיבוד תמונה ומניפולציה של Java. 
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1="ספריית Java וממשק API לעיבוד תמונה" h2="צור, טען, עשה מניפולציות או המר תמונות ללא צורך בעורך תמונות." downloadFreeTrialText="הורד גרסת ניסיון בחינם" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-java.svg"  pfName="Aspose.Imaging" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/imaging/java/" >}}
+{{< blocks/products/pf/upper-banner h1="ספריית Java וממשק API לעיבוד תמונה" h2="צור, טען ועשה מניפולציות בתמונות באמצעות אפליקציית Java משלך ללא צורך בעורך תמונות" downloadFreeTrialText="הורד גרסת ניסיון בחינם" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-java.svg"  pfName="Aspose.Imaging" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/imaging/java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Java" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-java.svg" 
 liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/java" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/java/" installationsDocsLink="https://docs.aspose.com/imaging/java/installation/" mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-imaging/" directDownloadLink="https://downloads.aspose.com/imaging/java/" liveDemosText="הדגמות חיות" overviewText="סקירה כללית" featuresText="תכונות" resourcesText="אֶמְצָעִי" pricingText="תמחור" downloadText="הורד" learnText="לִלמוֹד" buyText="לִקְנוֹת" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="בשעה א" carousel1Text2="מַבָּט" carousel2Text1="פּלַטפוֹרמָה" carousel2Text2="עצמאות" carousel3Text1="קובץ נתמך" carousel3Text2="פורמטים">}}
-<p align="justify">
- Aspose.Imaging עבור Java היא ספרייה המציעה תכונות מתקדמות לעיבוד תמונה. אתה יכול בקלות ליצור, לטעון, לבצע מניפולציות, להמיר, לדחוס תמונות או תמונות באמצעות API זה. גם אספוס. ספריית הדמיה תומכת בציור ובעבודה עם פרימיטיבים גרפיים. ייצוא והמרה של תמונות (כולל עיבוד תמונה אחיד מרובה עמודים) הוא אחד מתכונות הליבה של ה-API יחד עם טרנספורמציות תמונה (שינוי גודל, חיתוך, הפוך וסיבוב, בינאריזציה, גווני אפור, התאמה), תכונות מתקדמות של מניפולציה של תמונות (סינון, שיטוט, מיסוך, ביטול הטיה. ) ואסטרטגיות אופטימיזציה של זיכרון.
-</p>
 
-<p align="justify">
- Aspose.Imaging עבור Java הוא API גמיש, יציב וחזק, המסוגל לעבד את הפורמטים הנפוצים ביותר יחד עם כמה פורמטים מיוחדים כגון DjVu, DICOM, WebP ו-DNG.
-</p>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     השתמש ביכולות עיבוד התמונה המלאות של Aspose.Imaging עבור Java
+    </h2>
+    <p align="justify">
+     Aspose.Imaging עבור Java היא ספרייה המעצימה אותך עם כלים מתקדמים לעיבוד תמונה ותמונות. עם ממשק API גמיש זה, אתה יכול ליצור, לטעון, להמיר ולתפעל תמונות ללא מאמץ ללא צורך בעורכי תמונות מיוחדות.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     חקור את התכונות העיקריות הבאות:
+    </h2>
+    <p>
+     <ul>
+       <li>
+       שינוי תמונה: החל בקלות דחיסה, מיזוג, שינוי גודל, חיתוך, סיבוב והמרה לשחור לבן או בגווני אפור. התאם את רמות הבהירות, הניגודיות והגמא לתוצאות מיטביות.
+       </li>
+       <li>
+       מניפולציות מתקדמות: השתמש במסנני טשטוש, החלקה, חידוד, אפקט תמונה מצויר, מיזוג אלפא, סימני מים, שינויים ברקע ומסכות כדי להפוך את משימות עיבוד התמונה שלך לאוטומטיות.
+       </li>
+       <li>
+       אופטימיזציה של זיכרון: השתמש באסטרטגיות יעילות אופטימיזציה של זיכרון כדי להבטיח עיבוד תמונה מהיר ויעיל.
+       </li>
+       <li>
+       ציור ופרימיטיבים גרפיים: צור צורות, צייר פרימיטיבים גרפיים והוסף טקסט עם סגנונות גופנים שונים כדי לשפר את התמונות שלך.
+       </li>
+       <li>
+       המרת תמונה: ייצא תמונות לפורמטים שונים עם תמיכה מאוחדת בעיבוד תמונה מרובה עמודים.
+       </li>
+     </ul>
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     תאימות פורמטים שונים
+    </h2>
+    <p align="justify">
+     Aspose.Imaging עבור Java היא ספרייה אמינה ורב-תכליתית התומכת במגוון רחב של פורמטים, כולל EPS, DjVu, DNG, WebP, DICOM ו-SVG. זהו פתרון אידיאלי עבור משימות עיבוד התמונה המגוונות שלך.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     תמיכה חוצת פלטפורמות
+    </h2>
+    <p align="justify">
+     תיהנו מתאימות בין פלטפורמות עם Aspose.Imaging עבור Java, הפועלת בצורה חלקה על מערכות ההפעלה Windows ו-Linux כאחד. חווה יכולות עיבוד תמונה יציבות ואיכותיות ללא קשר לפלטפורמה שלך.
+    </p>
+    <p align="justify">
+     פתח רמה חדשה של איכות עיבוד תמונה עם Aspose.Imaging עבור Java. התחל להשתמש ב-API שלנו עוד היום וגלה את הגמישות, היציבות והביצועים שלו.
+    </p>
+   </div>
 
 {{< /blocks/products/pf/tab-content >}}
 

@@ -5,24 +5,69 @@ url: /ru/python-net/
 lang: ru
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Библиотека обработки и обработки изображений Python. Aspose.Imaging для Python через .NET позволяет создавать, загружать, просматривать, редактировать, рисовать или преобразовывать изображения в различные форматы в приложениях без какого-либо редактора изображений.
+description: Python библиотека обработки изображений. Aspose.Imaging для Python через .NET позволяет создавать, загружать, просматривать, редактировать, рисовать или преобразовывать изображения в различные форматы в приложениях без какого-либо редактора изображений.
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1="Aspose.Imaging для Python via .NET и API для обработки изображений" h2="Создавайте, загружайте, манипулируйте или конвертируйте изображения, не требуя какого-либо редактора изображений." downloadFreeTrialText="Скачать бесплатную пробную версию" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-python-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/imaging/python-net/" >}}
+{{< blocks/products/pf/upper-banner h1="Aspose.Imaging для Python via .NET и API для обработки изображений" h2="Создавайте собственные Python приложения для манипуляции над изображениями, без использования графического редактора" downloadFreeTrialText="Скачать бесплатную пробную версию" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-python-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/imaging/python-net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Python" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-python-net.svg" 
 liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/python-net" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/python-net/" installationsDocsLink="https://docs.aspose.com/imaging/python-net/installation/" pipLink="https://pypi.org/project/aspose-imaging-python-net/" directDownloadLink="https://downloads.aspose.com/imaging/python-net/" liveDemosText="Online примеры" overviewText="Обзор" featuresText="Характеристики" resourcesText="Ресурсы" pricingText="Стоимость" downloadText="Скачать" learnText="Изучить" buyText="Купить" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="С одного" carousel1Text2="Взгляда" carousel2Text1="Независимость от" carousel2Text2="Платформы" carousel3Text1="Поддерживаемые форматы" carousel3Text2="Файлов">}}
-<p align="justify">
- Aspose.Imaging for Python via .NET — это библиотека, предлагающая расширенные функции обработки изображений. Вы можете легко создавать, загружать, манипулировать, конвертировать или сжимать изображения с помощью этого API. Также Aspose.Imaging for Python через .NET поддерживает рисование и работу с графическими примитивами. Экспорт и преобразование изображений — одна из основных функций API наряду с преобразованиями изображений (изменение размера, обрезка, переворачивание и поворот, бинаризация, оттенки серого, настройка), расширенными функциями обработки изображений (фильтрация, сглаживание, маскирование, выравнивание).
-</p>
 
-<p align="justify">
- Aspose.Imaging для Python via .NET — это API, способный обрабатывать часто используемые форматы изображений и поддерживающий некоторые специальные форматы, такие как DjVu, DICOM, WebP и DNG.
-</p>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Применяйте все возможности обработки изображений с Aspose.Imaging для Python
+    </h2>
+    <p align="justify">
+     Aspose.Imaging для Python — это библиотека с широким потенциалом возможностей для обработки изображений и фотографий. Благодаря этому универсальному API вы сможете автоматически создавать, загружать, преобразовывать и манипулировать изображениями, при этом использование специализированных графических редакторов не требуется.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Используйте ключевые функции:
+    </h2>
+    <p>
+     <ul>
+       <li>
+       Преобразование изображений: масштабируйте, меняйте размер, обрезайте, вращайте, конвертируйте в черно-белое или в изображение с оттенками серого, регулируйте яркость, контрастность и цветовую гамму изображения или фотографии.
+       </li>
+       <li>
+       Расширенные манипуляции: применяйте фильтры, альфа-смешивание, добавляйте или удаляйте водяные знаки, меняйте фон, сглаживайте изображения, накладывайте маски и автоматизируйте задачи обработки изображений.
+       </li>
+       <li>
+       Оптимизация памяти: используйте стратегии оптимизации памяти, которые обеспечивают быструю и эффективную обработку изображений.
+       </li>
+       <li>
+       Рисование и графические примитивы: используйте функции рисования фигур графических примитивов и нанесения текстов с различными шрифтами.
+       </li>
+       <li>
+       Экспорт и преобразование: экспортируйте изображения с конвертацией в другие форматы, в том числе многостраничные документы.
+       </li>
+     </ul>
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Поддержка различных форматов
+    </h2>
+    <p align="justify">
+     Библиотека Aspose.Imaging для Python отличается стабильностью, многофункциональностью и универсальностью. Она поддерживает широкий спектр форматов, включая такие, как APNG, WebP, EPS, PDF и DICOM. Универсальная поддержка форматов делает её идеальным инструментом для решения задач обработки изображений.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Кросс-платформенность
+    </h2>
+    <p align="justify">
+     Aspose.Imaging — это кросс-платформенная библиотека, которая, благодаря своей межплатформенной совместимости, может быть использована на операционных системах Windows и Linux. Вы можете быть уверены, что Aspose.Imaging обеспечит стабильность и повторяемость результатов при обработке изображений.
+    </p>
+    <p align="justify">
+     Получите новый уровень качества в обработке изображений с помощью Aspose.Imaging для Python. Используйте наше API уже сегодня и оцените его гибкость, стабильность и производительность.
+    </p>
+   </div>
 
 {{< /blocks/products/pf/tab-content >}}
 
@@ -139,7 +184,19 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
-   
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    .NET Framework
+   </header>
+   <ul>
+    <li>
+     Приложение для Windows
+    </li>
+    <li>
+     Веб-приложение ASP.NET
+    </li>
+   </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
@@ -328,18 +385,18 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-    
+    <a href="/imaging/ru/python-net/crop/">
      Обрезать
-    
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-    
+    <a href="/imaging/ru/python-net/resize/">
      Изменить размер
-    
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -374,9 +431,9 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-road ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-        
+    <a href="/imaging/ru/python-net/remove-background/">    
      Удалить фон
-    
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -404,36 +461,36 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-road ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/ru/python-net/change-background/">
      Изменить фон
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-wordpress ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/ru/python-net/watermark/">
      Добавить водяной знак на изображение     
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-search ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/ru/python-net/viewer/">
      Просмотреть изображение
-     
+     </a>
     </p>
    </div>   
    <div class="col-lg-4">
     <em class="fa fa-compress ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/ru/python-net/compress/">
      Сжатие
-     
+     </a>
     </p>
    </div>
 <div class="col-lg-4">
@@ -442,7 +499,7 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <p class="col-lg-10">
      <a href="/imaging/ru/python-net/merge/">
      Объединение изображений
-     
+     </a>
     </p>
    </div>
 <div class="col-lg-12">
@@ -452,9 +509,9 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-compass ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/ru/python-net/dither/">
      Сглаживание
-     
+     </a>
     </p>
    </div>
 
@@ -462,9 +519,9 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-black-tie ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/ru/python-net/grayscale/">
      Черно-белое
-     
+     </a>
     </p>
    </div>
    
@@ -472,36 +529,36 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/ru/python-net/filter/">
      Фильтрация
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-television ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/ru/python-net/cartoonify/">
      Мультипликация
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/ru/python-net/binarize/">
      Бинаризация
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-adjust ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/ru/python-net/adjust/">
      Регулировать изображение
-     
+     </a>
     </p>
    </div>
 

@@ -9,20 +9,65 @@ description: Python Bibliotheek voor beeldverwerking en -manipulatie. Aspose.Ima
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1="Aspose.Imaging voor Python via .NET-bibliotheek en API voor beeldverwerking" h2="Maak, laad, manipuleer of converteer afbeeldingen zonder dat je een afbeeldingseditor nodig hebt." downloadFreeTrialText="Download gratis proefversie" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-python-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/imaging/python-net/" >}}
+{{< blocks/products/pf/upper-banner h1="Aspose.Imaging voor Python via .NET-bibliotheek en API voor beeldverwerking" h2="Creëer uw eigen Python-applicaties om afbeeldingen te manipuleren zonder dat u een afbeeldingseditor nodig heeft" downloadFreeTrialText="Download gratis proefversie" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-python-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/imaging/python-net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Python" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-python-net.svg" 
 liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/python-net" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/python-net/" installationsDocsLink="https://docs.aspose.com/imaging/python-net/installation/" pipLink="https://pypi.org/project/aspose-imaging-python-net/" directDownloadLink="https://downloads.aspose.com/imaging/python-net/" liveDemosText="Live demo's" overviewText="Overzicht" featuresText="Functies" resourcesText="Bronnen" pricingText="Prijzen" downloadText="Downloaden" learnText="Leren" buyText="Kopen" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="bij een" carousel1Text2="Oogopslag" carousel2Text1="Platform" carousel2Text2="Onafhankelijkheid" carousel3Text1="Ondersteund bestand" carousel3Text2="formaten">}}
-<p align="justify">
- Aspose.Imaging voor Python via .NET is een bibliotheek met geavanceerde functies voor beeldverwerking. U kunt met deze API eenvoudig afbeeldingen maken, laden, manipuleren, converteren of comprimeren. Ook Aspose.Imaging voor Python via .NET ondersteunt tekenen en werken met grafische primitieven. Afbeeldingen exporteren en converteren - een van de API-kernfuncties samen met afbeeldingstransformaties (formaat wijzigen, bijsnijden, spiegelen en roteren, binarisatie, grijstinten, aanpassen), geavanceerde functies voor beeldmanipulatie (filteren, dithering, maskeren, rechtzetten).
-</p>
 
-<p align="justify">
- Aspose.Imaging voor Python via .NET is een API die veelgebruikte afbeeldingsindelingen kan verwerken en enkele speciale indelingen ondersteunt, zoals DjVu, DICOM, WebP en DNG.
-</p>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Pas alle mogelijkheden van beeldverwerking toe met Aspose.Imaging voor Python
+    </h2>
+    <p align="justify">
+     Aspose.Imaging voor Python is een bibliotheek die geavanceerde functies biedt voor beeld- en fotoverwerking. Met deze veelzijdige API kunt u automatisch afbeeldingen of foto's laden, converteren, maken en manipuleren zonder dat u gespecialiseerde afbeeldingseditors nodig heeft.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Gebruik de belangrijkste kenmerken:
+    </h2>
+    <p>
+     <ul>
+       <li>
+       Beeldtransformatie: schalen, formaat wijzigen, bijsnijden, roteren, converteren naar zwart-wit of grijstinten, helderheid, contrast en gamma van afbeeldingen of foto's aanpassen.
+       </li>
+       <li>
+       Geavanceerde manipulaties: filters toepassen, alfa-overvloeiing, watermerken toevoegen of verwijderen, achtergronden wijzigen, afbeeldingen vloeiender maken, maskers toepassen en beeldverwerkingstaken automatiseren.
+       </li>
+       <li>
+       Geheugenoptimalisatie: gebruik geheugenoptimalisatiestrategieën die zorgen voor een snelle en efficiënte beeldverwerking.
+       </li>
+       <li>
+       Teken- en grafische primitieven: gebruik tekenfuncties voor grafische primitieven en pas tekst toe met verschillende lettertypestijlen.
+       </li>
+       <li>
+       Beeldconversie: exporteer afbeeldingen met conversie naar andere formaten, inclusief uniforme verwerking van afbeeldingen van meerdere pagina's.
+       </li>
+     </ul>
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Ondersteuning voor verschillende formaten
+    </h2>
+    <p align="justify">
+     Ondersteuning voor verschillende formaten Aspose.Imaging voor Python onderscheidt zich door zijn stabiliteit, veelzijdigheid en functionaliteit. Het ondersteunt een breed scala aan formaten, waaronder speciale formaten zoals APNG, WebP, EPS, PDF en DICOM. De grootformaatondersteuning maakt het een ideale oplossing voor een breed scala aan beeldverwerkingstaken.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Compatibiliteit tussen platforms
+    </h2>
+    <p align="justify">
+     Aspose.Imaging is een universele bibliotheek die dankzij de platformonafhankelijke compatibiliteit op zowel Windows- als Linux-besturingssystemen kan worden gebruikt. U kunt erop vertrouwen dat Aspose.Imaging stabiele en hoogwaardige beeldverwerkingsmogelijkheden biedt.
+    </p>
+    <p align="justify">
+     Bereik een nieuw kwaliteitsniveau in beeldverwerking met Aspose.Imaging voor Python. Gebruik onze API vandaag nog en ervaar de flexibiliteit, stabiliteit en prestaties ervan.
+    </p>
+   </div>
 
 {{< /blocks/products/pf/tab-content >}}
 
@@ -139,7 +184,19 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
-   
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    .NET Framework
+   </header>
+   <ul>
+    <li>
+     Windows-toepassing
+    </li>
+    <li>
+     ASP.NET-webtoepassing
+    </li>
+   </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
@@ -328,18 +385,18 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-    
+    <a href="/imaging/nl/python-net/crop/">
      Bijsnijden
-    
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-    
+    <a href="/imaging/nl/python-net/resize/">
      Formaat wijzigen
-    
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -374,9 +431,9 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-road ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-        
+    <a href="/imaging/nl/python-net/remove-background/">    
      Verwijder achtergrond
-    
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -404,36 +461,36 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-road ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/nl/python-net/change-background/">
      Verander de achtergrond
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-wordpress ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/nl/python-net/watermark/">
      Watermerk aan afbeelding toevoegen     
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-search ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/nl/python-net/viewer/">
      Bekijk afbeelding
-     
+     </a>
     </p>
    </div>   
    <div class="col-lg-4">
     <em class="fa fa-compress ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/nl/python-net/compress/">
      Samendrukken
-     
+     </a>
     </p>
    </div>
 <div class="col-lg-4">
@@ -442,7 +499,7 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <p class="col-lg-10">
      <a href="/imaging/nl/python-net/merge/">
      Samenvoegen
-     
+     </a>
     </p>
    </div>
 <div class="col-lg-12">
@@ -452,9 +509,9 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-compass ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/nl/python-net/dither/">
      Dither-beeld
-     
+     </a>
     </p>
    </div>
 
@@ -462,9 +519,9 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-black-tie ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/nl/python-net/grayscale/">
      Grijstinten
-     
+     </a>
     </p>
    </div>
    
@@ -472,36 +529,36 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/nl/python-net/filter/">
      Filter
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-television ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/nl/python-net/cartoonify/">
      Cartooniseren
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/nl/python-net/binarize/">
      Binariseren
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-adjust ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/nl/python-net/adjust/">
      Aanpassen
-     
+     </a>
     </p>
    </div>
 

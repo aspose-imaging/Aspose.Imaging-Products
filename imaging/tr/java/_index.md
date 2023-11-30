@@ -9,20 +9,65 @@ description: Java Görüntü işleme ve işleme kitaplığı. Yük görünümü 
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1="Görüntü İşleme için Java kitaplığı ve API" h2="Herhangi bir görüntü düzenleyiciye ihtiyaç duymadan görüntüleri oluşturun, yükleyin, değiştirin veya dönüştürün." downloadFreeTrialText="Ücretsiz deneme sürümünü indirin" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-java.svg"  pfName="Aspose.Imaging" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/imaging/java/" >}}
+{{< blocks/products/pf/upper-banner h1="Görüntü İşleme için Java kitaplığı ve API" h2="Herhangi bir resim düzenleyiciye ihtiyaç duymadan kendi Java uygulamanızı kullanarak resimler oluşturun, yükleyin ve değiştirin" downloadFreeTrialText="Ücretsiz deneme sürümünü indirin" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-java.svg"  pfName="Aspose.Imaging" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/imaging/java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Java" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-java.svg" 
 liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/java" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/java/" installationsDocsLink="https://docs.aspose.com/imaging/java/installation/" mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-imaging/" directDownloadLink="https://downloads.aspose.com/imaging/java/" liveDemosText="Canlı Demolar" overviewText="genel bakış" featuresText="Özellikler" resourcesText="Kaynaklar" pricingText="fiyatlandırma" downloadText="İndirmek" learnText="Öğrenmek" buyText="Satın almak" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="bir" carousel1Text2="Bakış atmak" carousel2Text1="platformu" carousel2Text2="Bağımsızlık" carousel3Text1="Desteklenen Dosya" carousel3Text2="Formatlar">}}
-<p align="justify">
- Aspose.Imaging for Java, gelişmiş görüntü işleme özellikleri sunan bir kitaplıktır. Bu API'yi kullanarak görüntüleri veya fotoğrafları kolayca oluşturabilir, yükleyebilir, değiştirebilir, dönüştürebilir, sıkıştırabilirsiniz. Ayrıca Aspose. Görüntüleme kitaplığı, çizimi destekler ve grafik temel öğelerle çalışır. Görüntü dışa aktarma ve dönüştürme (tek tip çok sayfalı görüntü işleme dahil), görüntü dönüştürmeleri (yeniden boyutlandırma, kırpma, çevirme ve döndürme, ikilileştirme, gri tonlama, ayarlama), gelişmiş görüntü işleme özellikleri (filtreleme, renk taklidi, maskeleme, eğrilik düzeltme) ile birlikte API temel özelliklerinden biridir. ) ve bellek optimizasyon stratejileri.
-</p>
 
-<p align="justify">
- Aspose.Imaging for Java, DjVu, DICOM, WebP & DNG gibi bazı özel formatlarla birlikte en sık kullanılan formatları işleyebilen esnek, kararlı ve güçlü bir API'dir.
-</p>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Aspose.Imaging for Java'nın tüm görüntü işleme yeteneklerini kullanın
+    </h2>
+    <p align="justify">
+     Aspose.Imaging for Java, görüntü ve fotoğraf işlemeye yönelik gelişmiş araçlarla sizi güçlendiren bir kütüphanedir. Bu esnek API ile, özel görüntü düzenleyicilere ihtiyaç duymadan görüntüleri zahmetsizce oluşturabilir, yükleyebilir, dönüştürebilir ve değiştirebilirsiniz.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Aşağıdaki temel özellikleri keşfedin:
+    </h2>
+    <p>
+     <ul>
+       <li>
+       Görüntü dönüştürme: Sıkıştırma, birleştirme, yeniden boyutlandırma, kırpma, döndürme ve siyah beyaz veya gri tonlamaya dönüştürme işlemlerini kolayca uygulayın. En iyi sonuçları elde etmek için parlaklık, kontrast ve gama seviyelerini ayarlayın.
+       </li>
+       <li>
+       Gelişmiş manipülasyonlar: Görüntü işleme görevlerinizi otomatikleştirmek için bulanıklaştırma filtreleri, yumuşatma, keskinleştirme, görüntü efektini karikatürize etme, alfa harmanlama, filigranlar, arka plan değişiklikleri ve maskelerden yararlanın.
+       </li>
+       <li>
+       Bellek optimizasyonu: Hızlı ve etkili görüntü işlemeyi sağlamak için etkili bellek optimizasyon stratejileri kullanın.
+       </li>
+       <li>
+       Çizim ve grafik temel öğeleri: Resimlerinizi geliştirmek için şekiller oluşturun, grafik temel öğeleri çizin ve farklı yazı tipi stilleriyle metin ekleyin.
+       </li>
+       <li>
+       Görüntü dönüştürme: Birleşik çok sayfalı görüntü işleme desteğiyle görüntüleri çeşitli formatlara aktarın.
+       </li>
+     </ul>
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Çeşitli Format Uyumluluğu
+    </h2>
+    <p align="justify">
+     Aspose.Imaging for Java, EPS, DjVu, DNG, WebP, DICOM ve SVG dahil çok çeşitli formatları destekleyen güvenilir ve çok yönlü bir kitaplıktır. Çeşitli görüntü işleme görevleriniz için ideal bir çözümdür.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Platformlar Arası Destek
+    </h2>
+    <p align="justify">
+     Hem Windows hem de Linux işletim sistemlerinde sorunsuz çalışan Aspose.Imaging for Java ile platformlar arası uyumluluğun keyfini çıkarın. Platformunuz ne olursa olsun istikrarlı ve yüksek kaliteli görüntü işleme yeteneklerini deneyimleyin.
+    </p>
+    <p align="justify">
+     Aspose.Imaging for Java ile görüntü işleme kalitesinde yeni bir düzeyin kilidini açın. API'mızı bugün kullanmaya başlayın ve esnekliğini, kararlılığını ve performansını keşfedin.
+    </p>
+   </div>
 
 {{< /blocks/products/pf/tab-content >}}
 

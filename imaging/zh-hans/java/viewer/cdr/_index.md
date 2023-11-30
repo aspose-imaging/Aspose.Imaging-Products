@@ -84,7 +84,7 @@ description: 尝试使用我们的本地文档 API 来查看 .NET Framework、.N
 
 {{% blocks/products/pf/agp/code-block title="查看 CDR 图像 - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "8b870aa054949d3119547e4fc0696b64" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "258265e12d6571958acf2caddae154eb" "convert-cdr-to-png.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

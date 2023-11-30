@@ -9,20 +9,65 @@ description: Pustaka pemrosesan dan manipulasi gambar Java. Buat tampilan muat, 
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1="Pustaka Java dan API untuk Pemrosesan Gambar" h2="Buat, muat, manipulasi, atau konversi gambar tanpa memerlukan editor gambar apa pun." downloadFreeTrialText="Unduh Uji Coba Gratis" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-java.svg"  pfName="Aspose.Imaging" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/imaging/java/" >}}
+{{< blocks/products/pf/upper-banner h1="Pustaka Java dan API untuk Pemrosesan Gambar" h2="Buat, muat, dan manipulasi gambar menggunakan aplikasi Java Anda sendiri tanpa memerlukan editor gambar apa pun" downloadFreeTrialText="Unduh Uji Coba Gratis" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-java.svg"  pfName="Aspose.Imaging" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/imaging/java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Java" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-java.svg" 
 liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/java" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/java/" installationsDocsLink="https://docs.aspose.com/imaging/java/installation/" mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-imaging/" directDownloadLink="https://downloads.aspose.com/imaging/java/" liveDemosText="Demo Langsung" overviewText="Ringkasan" featuresText="Fitur" resourcesText="Sumber daya" pricingText="harga" downloadText="Unduh" learnText="Mempelajari" buyText="Membeli" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="di" carousel1Text2="Lirikan" carousel2Text1="Platform" carousel2Text2="Kemerdekaan" carousel3Text1="File yang Didukung" carousel3Text2="format">}}
-<p align="justify">
- Aspose.Imaging for Java adalah pustaka yang menawarkan fitur pemrosesan gambar tingkat lanjut. Anda dapat dengan mudah membuat, memuat, memanipulasi, mengonversi, mengompresi gambar atau foto menggunakan API ini. Juga Asumsi. Pustaka pencitraan mendukung menggambar dan bekerja dengan grafik primitif. Ekspor dan konversi gambar (termasuk pemrosesan gambar multi-halaman yang seragam) adalah salah satu fitur inti API bersama dengan transformasi gambar (mengubah ukuran, memotong, membalik&memutar, binarisasi, skala abu-abu, menyesuaikan), fitur manipulasi gambar lanjutan (pemfilteran, dithering, masking, deskewing ) dan strategi pengoptimalan memori.
-</p>
 
-<p align="justify">
- Aspose.Imaging for Java adalah API yang fleksibel, stabil dan kuat, mampu memproses format yang paling umum digunakan bersama dengan beberapa format khusus seperti DjVu, DICOM, WebP & DNG.
-</p>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Gunakan kemampuan pemrosesan gambar penuh Aspose.Imaging untuk Java
+    </h2>
+    <p align="justify">
+     Aspose.Imaging for Java adalah perpustakaan yang memberdayakan Anda dengan alat canggih untuk pemrosesan gambar dan foto. Dengan API fleksibel ini, Anda dapat dengan mudah membuat, memuat, mengonversi, dan memanipulasi gambar tanpa memerlukan editor gambar khusus.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Jelajahi fitur-fitur utama berikut:
+    </h2>
+    <p>
+     <ul>
+       <li>
+       Transformasi gambar: Menerapkan kompresi, penggabungan, pengubahan ukuran, pemotongan, rotasi, dan konversi dengan mudah menjadi hitam putih atau skala abu-abu. Sesuaikan tingkat kecerahan, kontras, dan gamma untuk hasil optimal.
+       </li>
+       <li>
+       Manipulasi tingkat lanjut: Manfaatkan filter blur, penghalusan, penajaman, efek gambar kartun, pencampuran alfa, tanda air, perubahan latar belakang, dan masker untuk mengotomatiskan tugas pemrosesan gambar Anda.
+       </li>
+       <li>
+       Pengoptimalan memori: Gunakan strategi pengoptimalan memori yang efisien untuk memastikan pemrosesan gambar yang cepat dan efektif.
+       </li>
+       <li>
+       Menggambar dan grafis primitif: Membuat bentuk, menggambar grafis primitif, dan menambahkan teks dengan gaya font berbeda untuk menyempurnakan gambar Anda.
+       </li>
+       <li>
+       Konversi gambar: Ekspor gambar ke berbagai format dengan dukungan pemrosesan gambar multi-halaman terpadu.
+       </li>
+     </ul>
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Kompatibilitas Berbagai Format
+    </h2>
+    <p align="justify">
+     Aspose.Imaging for Java adalah perpustakaan yang andal dan serbaguna yang mendukung berbagai format, termasuk EPS, DjVu, DNG, WebP, DICOM, dan SVG. Ini adalah solusi ideal untuk beragam tugas pemrosesan gambar Anda.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Dukungan Lintas Platform
+    </h2>
+    <p align="justify">
+     Nikmati kompatibilitas lintas platform dengan Aspose.Imaging for Java, yang bekerja dengan lancar pada sistem operasi Windows dan Linux. Rasakan kemampuan pemrosesan gambar yang stabil dan berkualitas tinggi, apa pun platform Anda.
+    </p>
+    <p align="justify">
+     Buka level baru kualitas pemrosesan gambar dengan Aspose.Imaging untuk Java. Mulai gunakan API kami sekarang dan temukan fleksibilitas, stabilitas, dan kinerjanya.
+    </p>
+   </div>
 
 {{< /blocks/products/pf/tab-content >}}
 

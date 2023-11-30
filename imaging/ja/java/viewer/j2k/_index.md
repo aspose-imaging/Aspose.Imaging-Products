@@ -83,7 +83,7 @@ Aspose.Imaging for Javaは、すべての主要なオペレーティングシス
 
 {{% blocks/products/pf/agp/code-block title="J2K画像を表示-Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "edfe5302b3a0d2d40140d608bf13a799" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "ceaefc1656df207ad91467516e63f287" "convert-j2k-to-png.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

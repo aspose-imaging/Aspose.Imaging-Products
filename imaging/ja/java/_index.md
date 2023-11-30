@@ -9,20 +9,65 @@ description: Java画像処理および操作ライブラリ。ロードビュー
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1="画像処理用のJavaライブラリとAPI" h2="画像エディタを必要とせずに、画像を作成、ロード、操作、または変換します。" downloadFreeTrialText="無料トライアルをダウンロード" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-java.svg"  pfName="Aspose.Imaging" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/imaging/java/" >}}
+{{< blocks/products/pf/upper-banner h1="画像処理用のJavaライブラリとAPI" h2="画像エディタを必要とせずに、独自の Java アプリを使用して画像を作成、ロード、操作します" downloadFreeTrialText="無料トライアルをダウンロード" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-java.svg"  pfName="Aspose.Imaging" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/imaging/java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Java" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-java.svg" 
 liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/java" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/java/" installationsDocsLink="https://docs.aspose.com/imaging/java/installation/" mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-imaging/" directDownloadLink="https://downloads.aspose.com/imaging/java/" liveDemosText="ライブデモ" overviewText="概要" featuresText="特徴" resourcesText="資力" pricingText="価格設定" downloadText="ダウンロード" learnText="学び" buyText="買う" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="で" carousel1Text2="一目" carousel2Text1="プラットホーム" carousel2Text2="独立" carousel3Text1="サポートされているファイル" carousel3Text2="フォーマット">}}
-<p align="justify">
- Aspose.Imaging for Java は、高度な画像処理機能を提供するライブラリです。このAPIを使用して、画像や写真を簡単に作成、読み込み、操作、変換、圧縮できます。また、仮定します。 Imaging Libraryは、グラフィックプリミティブの描画と操作をサポートしています。画像のエクスポートと変換（均一な複数ページの画像処理を含む）は、画像変換（サイズ変更、トリミング、反転と回転、2値化、グレースケール、調整）、高度な画像操作機能（フィルタリング、ディザリング、マスキング、デスキュー）とともにAPIコア機能の1つです。 ）およびメモリ最適化戦略。
-</p>
 
-<p align="justify">
- Aspose.Imaging for Java は、柔軟で安定した強力なAPIであり、DjVu、DICOM、WebP、DNGなどの特別な形式とともに最も一般的に使用される形式を処理できます。
-</p>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Aspose.Imaging for Java の完全な画像処理機能を使用する
+    </h2>
+    <p align="justify">
+     Aspose.Imaging for Java は、画像および写真処理のための高度なツールを提供するライブラリです。この柔軟な API を使用すると、特殊な画像エディタを必要とせずに、画像を簡単に作成、ロード、変換、操作できます。
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     次の主要な機能を確認してください。
+    </h2>
+    <p>
+     <ul>
+       <li>
+       画像変換: 圧縮、結合、サイズ変更、トリミング、回転、白黒またはグレースケールへの変換を簡単に適用できます。最適な結果を得るために、明るさ、コントラスト、ガンマ レベルを調整します。
+       </li>
+       <li>
+       高度な操作: ぼかしフィルター、スムージング、シャープ化、漫画化された画像効果、アルファ ブレンディング、透かし、背景の変更、マスクを利用して、画像処理タスクを自動化します。
+       </li>
+       <li>
+       メモリの最適化: 効率的なメモリ最適化戦略を採用して、高速かつ効果的な画像処理を保証します。
+       </li>
+       <li>
+       描画およびグラフィック プリミティブ: 形状を作成し、グラフィック プリミティブを描画し、さまざまなフォント スタイルでテキストを追加して、画像を強化します。
+       </li>
+       <li>
+       画像変換: 統合された複数ページの画像処理サポートにより、画像をさまざまな形式にエクスポートします。
+       </li>
+     </ul>
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     さまざまなフォーマットの互換性
+    </h2>
+    <p align="justify">
+     Aspose.Imaging for Java は、EPS、DjVu、DNG、WebP、DICOM、SVG などの幅広い形式をサポートする、信頼性が高く汎用性の高いライブラリです。さまざまな画像処理タスクに最適なソリューションです。
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     クロスプラットフォームのサポート
+    </h2>
+    <p align="justify">
+     Windows と Linux の両方のオペレーティング システムでシームレスに動作する Aspose.Imaging for Java によるクロスプラットフォーム互換性をお楽しみください。プラットフォームを問わず、安定した高品質な画像処理機能を体験してください。
+    </p>
+    <p align="justify">
+     Aspose.Imaging for Java を使用して、新しいレベルの画像処理品質を解放します。今すぐ API を使い始めて、その柔軟性、安定性、パフォーマンスを実感してください。
+    </p>
+   </div>
 
 {{< /blocks/products/pf/tab-content >}}
 

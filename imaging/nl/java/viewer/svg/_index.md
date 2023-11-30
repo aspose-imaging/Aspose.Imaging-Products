@@ -83,7 +83,7 @@ Aspose.Imaging voor Java wordt ondersteund op alle belangrijke besturingssysteme
 
 {{% blocks/products/pf/agp/code-block title="Bekijk SVG afbeeldingen - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "0d1b88d7ec3f1fc9af01ac8a836869a1" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "da84aef5e873f7e0e2f77889a3228dd5" "convert-svg-to-png.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

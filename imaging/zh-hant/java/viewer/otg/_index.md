@@ -83,7 +83,7 @@ description: 嘗試使用我們的本地文檔 API 來查看 .NET Framework、.N
 
 {{% blocks/products/pf/agp/code-block title="查看 OTG 圖像 - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "591ab204772afbc5e31c9168fbe0284c" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "d3a4aa97e7fb26506ce4d123c6c3cf29" "convert-otg-to-png.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

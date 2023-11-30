@@ -9,20 +9,65 @@ description: Java Beeldverwerking en manipulatie bibliotheek. Maak laadweergave 
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1="Java-bibliotheek en API voor beeldverwerking" h2="Maak, laad, manipuleer of converteer afbeeldingen zonder dat een afbeeldingseditor nodig is." downloadFreeTrialText="Download gratis proefversie" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-java.svg"  pfName="Aspose.Imaging" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/imaging/java/" >}}
+{{< blocks/products/pf/upper-banner h1="Java-bibliotheek en API voor beeldverwerking" h2="Creëer, laad en manipuleer afbeeldingen met uw eigen Java-app zonder dat u een afbeeldingseditor nodig heeft" downloadFreeTrialText="Download gratis proefversie" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-java.svg"  pfName="Aspose.Imaging" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/imaging/java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Java" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-java.svg" 
 liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/java" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/java/" installationsDocsLink="https://docs.aspose.com/imaging/java/installation/" mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-imaging/" directDownloadLink="https://downloads.aspose.com/imaging/java/" liveDemosText="Live demo's" overviewText="Overzicht" featuresText="Functies" resourcesText="Bronnen" pricingText="Prijzen" downloadText="Downloaden" learnText="Leren" buyText="Kopen" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="bij een" carousel1Text2="Oogopslag" carousel2Text1="Platform" carousel2Text2="Onafhankelijkheid" carousel3Text1="Ondersteund bestand" carousel3Text2="formaten">}}
-<p align="justify">
- Aspose.Imaging for Java is een bibliotheek met geavanceerde functies voor beeldverwerking. Met deze API kunt u eenvoudig afbeeldingen of foto's maken, laden, manipuleren, converteren, comprimeren. Ook Asponeren. De beeldbibliotheek ondersteunt tekenen en werken met grafische primitieven. Het exporteren en converteren van afbeeldingen (inclusief uniforme beeldverwerking van meerdere pagina's) is een van de API-kernfuncties, samen met afbeeldingstransformaties (formaat wijzigen, bijsnijden, spiegelen en roteren, binarisatie, grijswaarden, aanpassen), geavanceerde functies voor beeldmanipulatie (filteren, dithering, maskeren, rechtzetten ) en geheugenoptimalisatiestrategieën.
-</p>
 
-<p align="justify">
- Aspose.Imaging voor Java is een flexibele, stabiele en krachtige API die de meest gebruikte formaten kan verwerken, samen met enkele speciale formaten zoals DjVu, DICOM, WebP & DNG.
-</p>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Gebruik de volledige beeldverwerkingsmogelijkheden van Aspose.Imaging voor Java
+    </h2>
+    <p align="justify">
+     Aspose.Imaging voor Java is een bibliotheek die u voorziet van geavanceerde tools voor beeld- en fotoverwerking. Met deze flexibele API kunt u moeiteloos afbeeldingen maken, laden, converteren en manipuleren zonder dat u gespecialiseerde afbeeldingseditors nodig heeft.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Ontdek de volgende belangrijke kenmerken:
+    </h2>
+    <p>
+     <ul>
+       <li>
+       Beeldtransformatie: Pas eenvoudig compressie, samenvoeging, formaatwijziging, bijsnijden, rotatie en conversie naar zwart-wit of grijstinten toe. Pas de helderheid, het contrast en het gammaniveau aan voor optimale resultaten.
+       </li>
+       <li>
+       Geavanceerde manipulaties: gebruik vervagingsfilters, verzachting, verscherping, cartoonachtige afbeeldingseffecten, alfa-overvloeiing, watermerken, achtergrondwijzigingen en maskers om uw beeldverwerkingstaken te automatiseren.
+       </li>
+       <li>
+       Geheugenoptimalisatie: gebruik efficiënte geheugenoptimalisatiestrategieën om een ​​snelle en effectieve beeldverwerking te garanderen.
+       </li>
+       <li>
+       Teken- en grafische primitieven: maak vormen, teken grafische primitieven en voeg tekst toe met verschillende lettertypestijlen om uw afbeeldingen te verbeteren.
+       </li>
+       <li>
+       Beeldconversie: exporteer afbeeldingen naar verschillende formaten met uniforme ondersteuning voor beeldverwerking van meerdere pagina's.
+       </li>
+     </ul>
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Compatibiliteit met verschillende formaten
+    </h2>
+    <p align="justify">
+     Aspose.Imaging voor Java is een betrouwbare en veelzijdige bibliotheek die een breed scala aan formaten ondersteunt, waaronder EPS, DjVu, DNG, WebP, DICOM en SVG. Het is een ideale oplossing voor diverse beeldverwerkingstaken.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Ondersteuning voor meerdere platforms
+    </h2>
+    <p align="justify">
+     Geniet van platformonafhankelijke compatibiliteit met Aspose.Imaging voor Java, dat naadloos werkt op zowel Windows- als Linux-besturingssystemen. Ervaar stabiele en hoogwaardige beeldverwerkingsmogelijkheden, ongeacht uw platform.
+    </p>
+    <p align="justify">
+     Ontgrendel een nieuw niveau van beeldverwerkingskwaliteit met Aspose.Imaging voor Java. Begin vandaag nog met het gebruik van onze API en ontdek de flexibiliteit, stabiliteit en prestaties ervan.
+    </p>
+   </div>
 
 {{< /blocks/products/pf/tab-content >}}
 

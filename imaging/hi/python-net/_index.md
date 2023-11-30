@@ -9,20 +9,65 @@ description: पायथन इमेज प्रोसेसिंग और 
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1="इमेज प्रोसेसिंग के लिए .NET लाइब्रेरी और API के माध्यम से Python के लिए Aspose.Imaging" h2="किसी छवि संपादक की आवश्यकता के बिना छवियों को बनाएं, लोड करें, हेरफेर करें या परिवर्तित करें।" downloadFreeTrialText="नि: शुल्क परीक्षण डाउनलोड करें" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-python-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/imaging/python-net/" >}}
+{{< blocks/products/pf/upper-banner h1="इमेज प्रोसेसिंग के लिए .NET लाइब्रेरी और API के माध्यम से Python के लिए Aspose.Imaging" h2="किसी भी छवि संपादक की आवश्यकता के बिना छवियों में हेरफेर करने के लिए अपने स्वयं के पायथन एप्लिकेशन बनाएं" downloadFreeTrialText="नि: शुल्क परीक्षण डाउनलोड करें" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-python-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/imaging/python-net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Python" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-python-net.svg" 
 liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/python-net" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/python-net/" installationsDocsLink="https://docs.aspose.com/imaging/python-net/installation/" pipLink="https://pypi.org/project/aspose-imaging-python-net/" directDownloadLink="https://downloads.aspose.com/imaging/python-net/" liveDemosText="लाइव डेमो" overviewText="अवलोकन" featuresText="विशेषताएँ" resourcesText="साधन" pricingText="मूल्य निर्धारण" downloadText="डाउनलोड" learnText="सीखना" buyText="खरीदना" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="एक पर" carousel1Text2="नज़र" carousel2Text1="प्लैटफ़ॉर्म" carousel2Text2="आजादी" carousel3Text1="समर्थित फ़ाइल" carousel3Text2="प्रारूप">}}
-<p align="justify">
- Aspose.Imaging for Python via .NET एक पुस्तकालय है जो उन्नत इमेज प्रोसेसिंग सुविधाओं की पेशकश करता है। आप इस एपीआई का उपयोग करके छवियों को आसानी से बना सकते हैं, लोड कर सकते हैं, हेरफेर कर सकते हैं, परिवर्तित कर सकते हैं या संपीड़ित कर सकते हैं। इसके अलावा Aspose.Imaging for Python via .NET ग्राफिक प्रिमिटिव के साथ ड्राइंग और काम का समर्थन करता है। छवि निर्यात और रूपांतरण - छवि परिवर्तन (आकार बदलें, क्रॉप, फ्लिप और घुमाएँ, बिनराइज़ेशन, ग्रेस्केल, एडजस्ट), उन्नत छवि हेरफेर सुविधाओं (फ़िल्टरिंग, डिथरिंग, मास्किंग, डेस्कविंग) के साथ-साथ एपीआई कोर सुविधाओं में से एक।
-</p>
 
-<p align="justify">
- Aspose.Imaging for Python via .NET एपीआई है जो आम तौर पर उपयोग किए जाने वाले छवि प्रारूपों को संसाधित करने में सक्षम है और डीजेवीयू, डीआईसीओएम, वेबपी और डीएनजी जैसे कुछ विशेष प्रारूपों का समर्थन करता है।
-</p>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     पायथन के लिए Aspose.Imaging के साथ इमेज प्रोसेसिंग की सभी क्षमताओं को लागू करें
+    </h2>
+    <p align="justify">
+     Aspose.Imaging for Python एक लाइब्रेरी है जो छवि और फोटो प्रसंस्करण के लिए उन्नत सुविधाएँ प्रदान करती है। इस बहुमुखी एपीआई के साथ, आप विशेष छवि संपादकों की आवश्यकता के बिना छवियों या फ़ोटो को स्वचालित रूप से लोड, परिवर्तित, बना और हेरफेर कर सकते हैं।
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     मुख्य विशेषताओं का उपयोग करें:
+    </h2>
+    <p>
+     <ul>
+       <li>
+       छवि परिवर्तन: स्केल करें, आकार बदलें, काटें, घुमाएँ, काले और सफेद या ग्रेस्केल में बदलें, छवियों या फ़ोटो की चमक, कंट्रास्ट और गामा को समायोजित करें।
+       </li>
+       <li>
+       उन्नत जोड़-तोड़: फ़िल्टर लागू करें, अल्फा सम्मिश्रण करें, वॉटरमार्क जोड़ें या हटाएं, पृष्ठभूमि बदलें, छवियों को सुचारू करें, मास्क लगाएं और छवि प्रसंस्करण कार्यों को स्वचालित करें।
+       </li>
+       <li>
+       मेमोरी ऑप्टिमाइज़ेशन: मेमोरी ऑप्टिमाइज़ेशन रणनीतियों का उपयोग करें जो तेज़ और कुशल छवि प्रसंस्करण सुनिश्चित करते हैं।
+       </li>
+       <li>
+       ड्राइंग और ग्राफिक प्रिमिटिव: ग्राफिक प्रिमिटिव के लिए ड्राइंग फ़ंक्शन का उपयोग करें और विभिन्न फ़ॉन्ट शैलियों के साथ टेक्स्ट लागू करें।
+       </li>
+       <li>
+       छवि रूपांतरण: बहु-पृष्ठ छवियों के एकीकृत प्रसंस्करण सहित अन्य प्रारूपों में रूपांतरण के साथ छवियों को निर्यात करें।
+       </li>
+     </ul>
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     विभिन्न प्रारूप समर्थन करते हैं
+    </h2>
+    <p align="justify">
+     विभिन्न प्रारूपों के लिए समर्थन। पायथन के लिए Aspose.Imaging को इसकी स्थिरता, बहुमुखी प्रतिभा और कार्यक्षमता से अलग किया जाता है। यह प्रारूपों की एक विस्तृत श्रृंखला का समर्थन करता है, जिसमें APNG, WebP, EPS, PDF और DICOM जैसे विशेष प्रारूप शामिल हैं। विस्तृत प्रारूप समर्थन इसे छवि प्रसंस्करण कार्यों की एक विस्तृत श्रृंखला के लिए एक आदर्श समाधान बनाता है।
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     क्रॉस-प्लेटफ़ॉर्म संगतता
+    </h2>
+    <p align="justify">
+     Aspose.Imaging एक सार्वभौमिक लाइब्रेरी है जिसका उपयोग इसकी क्रॉस-प्लेटफ़ॉर्म संगतता के कारण विंडोज और लिनक्स दोनों ऑपरेटिंग सिस्टम पर किया जा सकता है। आप स्थिर और उच्च गुणवत्ता वाली छवि प्रसंस्करण क्षमताएं प्रदान करने के लिए Aspose.Imaging पर भरोसा कर सकते हैं।
+    </p>
+    <p align="justify">
+     Python के लिए Aspose.Imaging के साथ छवि प्रसंस्करण में गुणवत्ता का एक नया स्तर प्राप्त करें। आज ही हमारे एपीआई का उपयोग करें और इसके लचीलेपन, स्थिरता और प्रदर्शन का अनुभव करें।
+    </p>
+   </div>
 
 {{< /blocks/products/pf/tab-content >}}
 
@@ -139,7 +184,19 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
-   
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    ।शुद्ध रूपरेखा
+   </header>
+   <ul>
+    <li>
+     विंडोज़ अनुप्रयोग
+    </li>
+    <li>
+     ASP.NET वेब अनुप्रयोग
+    </li>
+   </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
@@ -328,18 +385,18 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-    
+    <a href="/imaging/hi/python-net/crop/">
      फसल
-    
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-    
+    <a href="/imaging/hi/python-net/resize/">
      आकार
-    
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -374,9 +431,9 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-road ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-        
+    <a href="/imaging/hi/python-net/remove-background/">    
      पृष्ठभूमि निकालें
-    
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -404,36 +461,36 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-road ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/hi/python-net/change-background/">
      पृष्ठिका बदलो
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-wordpress ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/hi/python-net/watermark/">
      छवि में वॉटरमार्क जोड़ें     
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-search ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/hi/python-net/viewer/">
      छवि देखें
-     
+     </a>
     </p>
    </div>   
    <div class="col-lg-4">
     <em class="fa fa-compress ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/hi/python-net/compress/">
      संकुचित करें
-     
+     </a>
     </p>
    </div>
 <div class="col-lg-4">
@@ -442,7 +499,7 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <p class="col-lg-10">
      <a href="/imaging/hi/python-net/merge/">
      मर्ज
-     
+     </a>
     </p>
    </div>
 <div class="col-lg-12">
@@ -452,9 +509,9 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-compass ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/hi/python-net/dither/">
      तड़पना
-     
+     </a>
     </p>
    </div>
 
@@ -462,9 +519,9 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-black-tie ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/hi/python-net/grayscale/">
      स्केल
-     
+     </a>
     </p>
    </div>
    
@@ -472,36 +529,36 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/hi/python-net/filter/">
      फ़िल्टर
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-television ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/hi/python-net/cartoonify/">
      कार्टून बनाना
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/hi/python-net/binarize/">
      बिनाराइज
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-adjust ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/hi/python-net/adjust/">
      समायोजित करना
-     
+     </a>
     </p>
    </div>
 

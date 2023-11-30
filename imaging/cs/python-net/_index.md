@@ -9,20 +9,65 @@ description: Python Knihovna pro zpracování a manipulaci s obrázky. Aspose.Im
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1="Aspose.Imaging pro Python prostřednictvím knihovny .NET a API pro zpracování obrázků" h2="Vytvářejte, načtěte, upravujte nebo převádějte obrázky bez nutnosti jakéhokoli editoru obrázků." downloadFreeTrialText="Stáhněte si zkušební verzi zdarma" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-python-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/imaging/python-net/" >}}
+{{< blocks/products/pf/upper-banner h1="Aspose.Imaging pro Python prostřednictvím knihovny .NET a API pro zpracování obrázků" h2="Vytvořte si vlastní Python aplikace pro manipulaci s obrázky bez nutnosti jakéhokoli editoru obrázků" downloadFreeTrialText="Stáhněte si zkušební verzi zdarma" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-python-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/imaging/python-net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Python" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-python-net.svg" 
 liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/python-net" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/python-net/" installationsDocsLink="https://docs.aspose.com/imaging/python-net/installation/" pipLink="https://pypi.org/project/aspose-imaging-python-net/" directDownloadLink="https://downloads.aspose.com/imaging/python-net/" liveDemosText="Živá ukázka" overviewText="Přehled" featuresText="Funkce" resourcesText="Zdroje" pricingText="Ceny" downloadText="Stažení" learnText="Učit se" buyText="Koupit" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="V a" carousel1Text2="Pohled" carousel2Text1="Plošina" carousel2Text2="Nezávislost" carousel3Text1="Podporovaný soubor" carousel3Text2="Formáty">}}
-<p align="justify">
- Aspose.Imaging pro Python přes .NET je knihovna nabízející pokročilé funkce pro zpracování obrázků. Pomocí tohoto rozhraní API můžete snadno vytvářet, načítat, manipulovat, převádět nebo komprimovat obrázky. Také Aspose.Imaging pro Python přes .NET podporuje kreslení a práci s grafickými primitivy. Export a konverze obrázků – jedna ze základních funkcí API spolu s transformacemi obrázků (změna velikosti, oříznutí, převrácení a otočení, binarizace, stupně šedi, úprava), pokročilé funkce pro manipulaci s obrázky (filtrování, rozklad, maskování, vyrovnání).
-</p>
 
-<p align="justify">
- Aspose.Imaging pro Python přes .NET je API, které je schopné zpracovávat běžně používané obrazové formáty a podporuje některé speciální formáty jako DjVu, DICOM, WebP a DNG.
-</p>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Aplikujte všechny možnosti zpracování obrazu s Aspose.Imaging pro Python
+    </h2>
+    <p align="justify">
+     Aspose.Imaging pro Python je knihovna, která nabízí pokročilé funkce pro zpracování obrázků a fotografií. Pomocí tohoto všestranného rozhraní API můžete automaticky načítat, převádět, vytvářet a manipulovat s obrázky nebo fotografiemi, aniž byste potřebovali specializované editory obrázků.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Použijte klíčové vlastnosti:
+    </h2>
+    <p>
+     <ul>
+       <li>
+       Transformace obrazu: měřítko, změna velikosti, oříznutí, otočení, převod na černobílé nebo stupně šedi, úprava jasu, kontrastu a gama obrázků nebo fotografií.
+       </li>
+       <li>
+       Pokročilé manipulace: použití filtrů, alfa prolnutí, přidání nebo odstranění vodoznaků, změna pozadí, vyhlazení obrázků, použití masek a automatizace úloh zpracování obrázků.
+       </li>
+       <li>
+       Optimalizace paměti: používejte strategie optimalizace paměti, které zajišťují rychlé a efektivní zpracování obrazu.
+       </li>
+       <li>
+       Kreslení a grafická primitiva: používejte kreslicí funkce pro grafická primitiva a aplikujte text s různými styly písem.
+       </li>
+       <li>
+       Konverze obrázků: export obrázků s převodem do jiných formátů včetně jednotného zpracování vícestránkových obrázků.
+       </li>
+     </ul>
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Podpora různých formátů
+    </h2>
+    <p align="justify">
+     Podpora různých formátů Aspose.Imaging pro Python se vyznačuje stabilitou, všestranností a funkčností. Podporuje širokou škálu formátů, včetně speciálních formátů, jako jsou APNG, WebP, EPS, PDF a DICOM. Díky široké podpoře formátů je ideálním řešením pro širokou škálu úloh zpracování obrazu.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Kompatibilita napříč platformami
+    </h2>
+    <p align="justify">
+     Aspose.Imaging je univerzální knihovna, kterou lze díky kompatibilitě napříč platformami používat na operačních systémech Windows i Linux. Na Aspose.Imaging se můžete spolehnout, že vám poskytne stabilní a vysoce kvalitní možnosti zpracování obrazu.
+    </p>
+    <p align="justify">
+     Dosáhněte nové úrovně kvality ve zpracování obrazu pomocí Aspose.Imaging pro Python. Využijte naše API ještě dnes a vyzkoušejte jeho flexibilitu, stabilitu a výkon.
+    </p>
+   </div>
 
 {{< /blocks/products/pf/tab-content >}}
 
@@ -139,7 +184,19 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
-   
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    .NET Framework
+   </header>
+   <ul>
+    <li>
+     Aplikace pro Windows
+    </li>
+    <li>
+     Webová aplikace ASP.NET
+    </li>
+   </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
@@ -328,18 +385,18 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-    
+    <a href="/imaging/cs/python-net/crop/">
      Oříznutí
-    
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-    
+    <a href="/imaging/cs/python-net/resize/">
      Změnit velikost
-    
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -374,9 +431,9 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-road ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-        
+    <a href="/imaging/cs/python-net/remove-background/">    
      Odstraňte pozadí
-    
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -404,36 +461,36 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-road ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/cs/python-net/change-background/">
      Změnit pozadí
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-wordpress ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/cs/python-net/watermark/">
      Přidejte do obrázku vodoznak     
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-search ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/cs/python-net/viewer/">
      Zobrazit obrázek
-     
+     </a>
     </p>
    </div>   
    <div class="col-lg-4">
     <em class="fa fa-compress ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/cs/python-net/compress/">
      Komprimovat
-     
+     </a>
     </p>
    </div>
 <div class="col-lg-4">
@@ -442,7 +499,7 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <p class="col-lg-10">
      <a href="/imaging/cs/python-net/merge/">
      Spojit
-     
+     </a>
     </p>
    </div>
 <div class="col-lg-12">
@@ -452,9 +509,9 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-compass ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/cs/python-net/dither/">
      Váhat
-     
+     </a>
     </p>
    </div>
 
@@ -462,9 +519,9 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-black-tie ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/cs/python-net/grayscale/">
      Stupně šedi
-     
+     </a>
     </p>
    </div>
    
@@ -472,36 +529,36 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/cs/python-net/filter/">
      Filtr
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-television ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/cs/python-net/cartoonify/">
      Kreslená pohádka
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/cs/python-net/binarize/">
      Binarizovat
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-adjust ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/cs/python-net/adjust/">
      Upravit
-     
+     </a>
     </p>
    </div>
 

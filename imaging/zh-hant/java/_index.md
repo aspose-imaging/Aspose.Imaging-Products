@@ -9,20 +9,65 @@ description: Java 圖像處理和操作庫。無需任何圖像編輯器即可�
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1="用於圖像處理的 Java 庫和 API" h2="無需任何圖像編輯器即可創建、加載、操作或轉換圖像。" downloadFreeTrialText="下載免費試用版" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-java.svg"  pfName="Aspose.Imaging" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/imaging/java/" >}}
+{{< blocks/products/pf/upper-banner h1="用於圖像處理的 Java 庫和 API" h2="使用您自己的 Java 應用程式建立、載入和操作圖像，無需任何圖像編輯器" downloadFreeTrialText="下載免費試用版" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-java.svg"  pfName="Aspose.Imaging" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/imaging/java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Java" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-java.svg" 
 liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/java" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/java/" installationsDocsLink="https://docs.aspose.com/imaging/java/installation/" mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-imaging/" directDownloadLink="https://downloads.aspose.com/imaging/java/" liveDemosText="現場演示" overviewText="概述" featuresText="特徵" resourcesText="資源" pricingText="價錢" downloadText="下載" learnText="學習" buyText="買" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="在一個" carousel1Text2="一目了然" carousel2Text1="平台" carousel2Text2="獨立" carousel3Text1="支持的文件" carousel3Text2="格式">}}
-<p align="justify">
- Aspose.Imaging for Java 是一個提供高級圖像處理功能的庫。您可以使用此 API 輕鬆創建、加載、操作、轉換、壓縮圖像或照片。也假設。圖像庫支持繪圖和使用圖形基元。圖像導出和轉換（包括統一的多頁圖像處理）是 API 的核心功能之一，以及圖像轉換（調整大小、裁剪、翻轉和旋轉、二值化、灰度、調整）、高級圖像處理功能（過濾、抖動、遮罩、去歪斜） ) 和內存優化策略。
-</p>
 
-<p align="justify">
- Aspose.Imaging for Java 是一個靈活、穩定和強大的 API，能夠處理最常用的格式以及一些特殊格式，如 DjVu、DICOM、WebP 和 DNG。
-</p>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     使用 Aspose.Imaging for Java 的完整影像處理功能
+    </h2>
+    <p align="justify">
+     Aspose.Imaging for Java 是一個函式庫，為您提供圖片和照片處理的進階工具。借助這個靈活的 API，您可以輕鬆建立、載入、轉換和操作圖像，而無需專門的圖像編輯器。
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     探索以下主要功能：
+    </h2>
+    <p>
+     <ul>
+       <li>
+       影像轉換：輕鬆套用壓縮、合併、調整大小、裁切、旋轉以及轉換為黑白或灰階。調整亮度、對比度和伽馬等級以獲得最佳效果。
+       </li>
+       <li>
+       進階操作：利用模糊濾鏡、平滑、銳利化、卡通化影像效果、Alpha 混合、浮水印、背景變更和遮罩來自動執行影像處理任務。
+       </li>
+       <li>
+       記憶體優化：採用高效率的記憶體優化策略，確保快速有效的影像處理。
+       </li>
+       <li>
+       繪圖和圖形基元：創建形狀、繪製圖形基元以及添加具有不同字體樣式的文字以增強圖像。
+       </li>
+       <li>
+       影像轉換：將影像匯出為各種格式，並支援統一的多頁影像處理。
+       </li>
+     </ul>
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     多種格式相容
+    </h2>
+    <p align="justify">
+     Aspose.Imaging for Java 是一個可靠且多功能的函式庫，支援多種格式，包括 EPS、DjVu、DNG、WebP、DICOM 和 SVG。它是執行各種影像處理任務的理想解決方案。
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     跨平台支援
+    </h2>
+    <p align="justify">
+     享受與 Aspose.Imaging for Java 的跨平台相容性，它可以在 Windows 和 Linux 作業系統上無縫運行。無論您使用何種平台，都可以體驗穩定且高品質的影像處理能力。
+    </p>
+    <p align="justify">
+     使用 Aspose.Imaging for Java 將影像處理品質提升到新的水平。立即開始使用我們的 API，探索其靈活性、穩定性和效能。
+    </p>
+   </div>
 
 {{< /blocks/products/pf/tab-content >}}
 

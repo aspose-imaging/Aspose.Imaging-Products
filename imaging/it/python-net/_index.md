@@ -9,20 +9,65 @@ description: Libreria Python per l'elaborazione e la manipolazione delle immagin
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1="Aspose.Imaging per Python tramite libreria .NET e API per l'elaborazione delle immagini" h2="Crea, carica, manipola o converti immagini senza richiedere alcun editor di immagini." downloadFreeTrialText="Scarica la prova gratuita" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-python-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/imaging/python-net/" >}}
+{{< blocks/products/pf/upper-banner h1="Aspose.Imaging per Python tramite libreria .NET e API per l'elaborazione delle immagini" h2="Crea le tue applicazioni Python per manipolare le immagini senza richiedere alcun editor di immagini" downloadFreeTrialText="Scarica la prova gratuita" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-python-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/imaging/python-net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Python" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-python-net.svg" 
 liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/python-net" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/python-net/" installationsDocsLink="https://docs.aspose.com/imaging/python-net/installation/" pipLink="https://pypi.org/project/aspose-imaging-python-net/" directDownloadLink="https://downloads.aspose.com/imaging/python-net/" liveDemosText="Dimostrazioni dal vivo" overviewText="Panoramica" featuresText="Caratteristiche" resourcesText="Risorse" pricingText="Prezzo" downloadText="Scarica" learnText="Imparare" buyText="Acquistare" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="All'a" carousel1Text2="Colpo d'occhio" carousel2Text1="piattaforma" carousel2Text2="Indipendenza" carousel3Text1="File supportato" carousel3Text2="Formati">}}
-<p align="justify">
- Aspose.Imaging per Python tramite .NET è una libreria che offre funzionalità avanzate di elaborazione delle immagini. Puoi facilmente creare, caricare, manipolare, convertire o comprimere immagini utilizzando questa API. Anche Aspose.Imaging per Python tramite .NET supporta il disegno e lavora con primitive grafiche. Esportazione e conversione delle immagini: una delle funzionalità principali dell'API insieme alle trasformazioni delle immagini (ridimensionamento, ritaglio, capovolgimento e rotazione, binarizzazione, scala di grigi, regolazione), funzionalità avanzate di manipolazione delle immagini (filtro, dithering, mascheramento, raddrizzamento).
-</p>
 
-<p align="justify">
- Aspose.Imaging per Python tramite .NET è un'API in grado di elaborare i formati di immagine comunemente utilizzati e supporta alcuni formati speciali come DjVu, DICOM, WebP e DNG.
-</p>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Applica tutte le funzionalità di elaborazione delle immagini con Aspose.Imaging per Python
+    </h2>
+    <p align="justify">
+     Aspose.Imaging for Python è una libreria che offre funzionalità avanzate per l'elaborazione di immagini e foto. Con questa versatile API puoi caricare, convertire, creare e manipolare automaticamente immagini o foto senza la necessità di editor di immagini specializzati.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Utilizza le funzionalità principali:
+    </h2>
+    <p>
+     <ul>
+       <li>
+       Trasformazione delle immagini: ridimensiona, ridimensiona, ritaglia, ruota, converti in bianco e nero o in scala di grigi, regola la luminosità, il contrasto e la gamma di immagini o foto.
+       </li>
+       <li>
+       Manipolazioni avanzate: applica filtri, fusione alfa, aggiungi o rimuovi filigrane, modifica sfondi, uniforma immagini, applica maschere e automatizza le attività di elaborazione delle immagini.
+       </li>
+       <li>
+       Ottimizzazione della memoria: utilizzare strategie di ottimizzazione della memoria che garantiscono un'elaborazione delle immagini rapida ed efficiente.
+       </li>
+       <li>
+       Primitive di disegno e grafiche: utilizza le funzioni di disegno per le primitive grafiche e applica testo con stili di font diversi.
+       </li>
+       <li>
+       Conversione immagini: esporta immagini con conversione in altri formati, inclusa l'elaborazione unificata di immagini multipagina.
+       </li>
+     </ul>
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Supporto di vari formati
+    </h2>
+    <p align="justify">
+     Supporto per vari formati Aspose.Imaging for Python si distingue per la sua stabilità, versatilità e funzionalità. Supporta un'ampia gamma di formati, inclusi formati speciali come APNG, WebP, EPS, PDF e DICOM. Il supporto del grande formato lo rende una soluzione ideale per un'ampia gamma di attività di elaborazione delle immagini.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Compatibilità multipiattaforma
+    </h2>
+    <p align="justify">
+     Aspose.Imaging è una libreria universale che può essere utilizzata sia su sistemi operativi Windows che Linux grazie alla sua compatibilità multipiattaforma. Puoi fare affidamento su Aspose.Imaging per fornire funzionalità di elaborazione delle immagini stabili e di alta qualità.
+    </p>
+    <p align="justify">
+     Ottieni un nuovo livello di qualità nell'elaborazione delle immagini con Aspose.Imaging per Python. Utilizza la nostra API oggi stesso e sperimentane la flessibilità, la stabilità e le prestazioni.
+    </p>
+   </div>
 
 {{< /blocks/products/pf/tab-content >}}
 
@@ -139,7 +184,19 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
-   
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    .NET Framework
+   </header>
+   <ul>
+    <li>
+     Applicazione Windows
+    </li>
+    <li>
+     Applicazione Web ASP.NET
+    </li>
+   </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
@@ -328,18 +385,18 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-    
+    <a href="/imaging/it/python-net/crop/">
      Raccolto
-    
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-    
+    <a href="/imaging/it/python-net/resize/">
      Ridimensiona
-    
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -374,9 +431,9 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-road ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-        
+    <a href="/imaging/it/python-net/remove-background/">    
      Rimuovi lo sfondo
-    
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -404,36 +461,36 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-road ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/it/python-net/change-background/">
      Cambia sfondo
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-wordpress ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/it/python-net/watermark/">
      Aggiungi filigrana all'immagine     
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-search ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/it/python-net/viewer/">
      Guarda l'immagine
-     
+     </a>
     </p>
    </div>   
    <div class="col-lg-4">
     <em class="fa fa-compress ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/it/python-net/compress/">
      Comprimere
-     
+     </a>
     </p>
    </div>
 <div class="col-lg-4">
@@ -442,7 +499,7 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <p class="col-lg-10">
      <a href="/imaging/it/python-net/merge/">
      Unisci
-     
+     </a>
     </p>
    </div>
 <div class="col-lg-12">
@@ -452,9 +509,9 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-compass ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/it/python-net/dither/">
      Immagine retinata
-     
+     </a>
     </p>
    </div>
 
@@ -462,9 +519,9 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-black-tie ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/it/python-net/grayscale/">
      Scala di grigi
-     
+     </a>
     </p>
    </div>
    
@@ -472,36 +529,36 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/it/python-net/filter/">
      Filtro
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-television ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/it/python-net/cartoonify/">
      Cartoonizza
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/it/python-net/binarize/">
      Binarizzare
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-adjust ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/it/python-net/adjust/">
      Regolare
-     
+     </a>
     </p>
    </div>
 

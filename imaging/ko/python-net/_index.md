@@ -9,20 +9,65 @@ description: Python 이미지 처리 및 조작 라이브러리. Aspose.Imaging 
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1="이미지 처리를 위한 .NET 라이브러리 및 API를 통한 Python용 Aspose.Imaging" h2="이미지 편집기 없이도 이미지를 생성, 로드, 조작 또는 변환할 수 있습니다." downloadFreeTrialText="무료 평가판 다운로드" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-python-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/imaging/python-net/" >}}
+{{< blocks/products/pf/upper-banner h1="이미지 처리를 위한 .NET 라이브러리 및 API를 통한 Python용 Aspose.Imaging" h2="이미지 편집기 없이도 이미지를 조작할 수 있는 나만의 Python 애플리케이션 만들기" downloadFreeTrialText="무료 평가판 다운로드" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-python-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/imaging/python-net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Python" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-python-net.svg" 
 liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/python-net" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/python-net/" installationsDocsLink="https://docs.aspose.com/imaging/python-net/installation/" pipLink="https://pypi.org/project/aspose-imaging-python-net/" directDownloadLink="https://downloads.aspose.com/imaging/python-net/" liveDemosText="라이브 데모" overviewText="개요" featuresText="특징" resourcesText="자원" pricingText="가격" downloadText="다운로드" learnText="배우다" buyText="구입하다" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="에" carousel1Text2="섬광" carousel2Text1="플랫폼" carousel2Text2="독립" carousel3Text1="지원 파일" carousel3Text2="형식">}}
-<p align="justify">
- Aspose.Imaging for Python via .NET은 고급 이미지 처리 기능을 제공하는 라이브러리입니다. 이 API를 사용하여 이미지를 쉽게 생성, 로드, 조작, 변환 또는 압축할 수 있습니다. 또한 .NET을 통한 Python용 Aspose.Imaging은 그래픽 프리미티브 그리기 및 작업을 지원합니다. 이미지 내보내기 및 변환 - 이미지 변환(크기 조정, 자르기, 뒤집기 및 회전, 이진화, 회색조, 조정), 고급 이미지 조작 기능(필터링, 디더링, 마스킹, 기울기 보정)과 함께 API 핵심 기능 중 하나입니다.
-</p>
 
-<p align="justify">
- Aspose.Imaging for Python via .NET은 일반적으로 사용되는 이미지 형식을 처리할 수 있는 API이며 DjVu, DICOM, WebP 및 DNG와 같은 일부 특수 형식을 지원합니다.
-</p>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Aspose.Imaging for Python을 사용하여 이미지 처리의 모든 기능을 적용하세요.
+    </h2>
+    <p align="justify">
+     Aspose.Imaging for Python은 이미지 및 사진 처리를 위한 고급 기능을 제공하는 라이브러리입니다. 이 다재다능한 API를 사용하면 전문적인 이미지 편집기 없이도 이미지나 사진을 자동으로 로드, 변환, 생성 및 조작할 수 있습니다.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     주요 기능을 사용하세요:
+    </h2>
+    <p>
+     <ul>
+       <li>
+       이미지 변환: 이미지 또는 사진의 크기 조정, 크기 조정, 자르기, 회전, 흑백 또는 회색조로 변환, 밝기, 대비 및 감마 조정.
+       </li>
+       <li>
+       고급 조작: 필터 적용, 알파 블렌딩, 워터마크 추가 또는 제거, 배경 변경, 이미지 다듬기, 마스크 적용 및 이미지 처리 작업 자동화.
+       </li>
+       <li>
+       메모리 최적화: 빠르고 효율적인 이미지 처리를 보장하는 메모리 최적화 전략을 사용합니다.
+       </li>
+       <li>
+       그리기 및 그래픽 기본 요소: 그래픽 기본 요소에 그리기 기능을 사용하고 다양한 글꼴 스타일의 텍스트를 적용합니다.
+       </li>
+       <li>
+       이미지 변환: 여러 페이지 이미지의 통합 처리를 포함하여 다른 형식으로 변환하여 이미지를 내보냅니다.
+       </li>
+     </ul>
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     다양한 포맷 지원
+    </h2>
+    <p align="justify">
+     다양한 형식 지원 Python용 Aspose.Imaging은 안정성, 다양성 및 기능성으로 구별됩니다. APNG, WebP, EPS, PDF, DICOM과 같은 특수 형식을 포함하여 광범위한 형식을 지원합니다. 와이드 포맷 지원으로 광범위한 이미지 처리 작업에 이상적인 솔루션입니다.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     플랫폼 간 호환성
+    </h2>
+    <p align="justify">
+     Aspose.Imaging은 플랫폼 간 호환성 덕분에 Windows 및 Linux 운영 체제 모두에서 사용할 수 있는 범용 라이브러리입니다. Aspose.Imaging을 사용하면 안정적이고 고품질의 이미지 처리 기능을 제공할 수 있습니다.
+    </p>
+    <p align="justify">
+     Python용 Aspose.Imaging을 사용하여 이미지 처리에서 새로운 수준의 품질을 달성하세요. 지금 API를 사용하여 유연성, 안정성 및 성능을 경험해 보세요.
+    </p>
+   </div>
 
 {{< /blocks/products/pf/tab-content >}}
 
@@ -139,7 +184,19 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
-   
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+   .NET Framework
+   </header>
+   <ul>
+    <li>
+     윈도우 애플리케이션
+    </li>
+    <li>
+     ASP.NET 웹 애플리케이션
+    </li>
+   </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
@@ -328,18 +385,18 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-    
+    <a href="/imaging/ko/python-net/crop/">
      수확고
-    
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-crop ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-    
+    <a href="/imaging/ko/python-net/resize/">
      크기 조정
-    
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -374,9 +431,9 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-road ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-        
+    <a href="/imaging/ko/python-net/remove-background/">    
      배경 제거
-    
+    </a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -404,36 +461,36 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-road ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/ko/python-net/change-background/">
      배경을 바꾸다
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-wordpress ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/ko/python-net/watermark/">
      이미지에 워터마크 추가     
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-search ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/ko/python-net/viewer/">
      이미지 보기
-     
+     </a>
     </p>
    </div>   
    <div class="col-lg-4">
     <em class="fa fa-compress ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/ko/python-net/compress/">
      압박 붕대
-     
+     </a>
     </p>
    </div>
 <div class="col-lg-4">
@@ -442,7 +499,7 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <p class="col-lg-10">
      <a href="/imaging/ko/python-net/merge/">
      병합
-     
+     </a>
     </p>
    </div>
 <div class="col-lg-12">
@@ -452,9 +509,9 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-compass ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/ko/python-net/dither/">
      떨림
-     
+     </a>
     </p>
    </div>
 
@@ -462,9 +519,9 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-black-tie ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/ko/python-net/grayscale/">
      그레이스케일
-     
+     </a>
     </p>
    </div>
    
@@ -472,36 +529,36 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
     <em class="fa fa-filter ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/ko/python-net/filter/">
      필터
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-television ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/ko/python-net/cartoonify/">
      만화화하다
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-print ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/ko/python-net/binarize/">
      이진화
-     
+     </a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-adjust ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     
+     <a href="/imaging/ko/python-net/adjust/">
      조정하다
-     
+     </a>
     </p>
    </div>
 

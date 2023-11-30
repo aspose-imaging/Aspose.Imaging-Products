@@ -16,13 +16,58 @@ description: C＃ASP.NETVB.NETアプリケーション内で編集描画また�
 liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/net" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/net/" installationsDocsLink="https://docs.aspose.com/imaging/net/installation/" nugetLink="https://www.nuget.org/packages/aspose.imaging" nugetPackageName="Aspose.Imaging" directDownloadLink="https://downloads.aspose.com/imaging/net/" liveDemosText="ライブデモ" overviewText="概要" featuresText="特徴" resourcesText="資力" pricingText="価格設定" downloadText="ダウンロード" learnText="学び" buyText="買う" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="で" carousel1Text2="一目" carousel2Text1="プラットホーム" carousel2Text2="独立" carousel3Text1="サポートされているファイル" carousel3Text2="フォーマット">}}
-<p align="justify">
- Aspose.Imaging for .NET は、高度な画像処理機能を提供するライブラリです。このAPIを使用して、画像や写真を簡単に作成、読み込み、操作、変換、圧縮できます。また、仮定します。 Imaging Libraryは、グラフィックプリミティブの描画と操作をサポートしています。画像のエクスポートと変換（均一な複数ページの画像処理を含む）は、画像変換（サイズ変更、トリミング、反転と回転、2値化、グレースケール、調整）、高度な画像操作機能（フィルタリング、ディザリング、マスキング、デスキュー）とともにAPIコア機能の1つです。 ）およびメモリ最適化戦略。
-</p>
 
-<p align="justify">
- Aspose.Imaging for .NETは、柔軟で安定した強力なAPIであり、DjVu、DICOM、WebP、DNGなどの特別な形式とともに最も一般的に使用される形式を処理できます。さらに、.NETおよび.NETCoreの画像形式と処理機能のネイティブサポートを拡張します。 Aspose.Imagingはクロスプラットフォームライブラリであり、WindowsおよびLinuxと互換性があります。
-</p>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     .NET の Aspose.Imaging で画像処理の可能性を最大限に引き出す
+    </h2>
+    <p align="justify">
+     Aspose.Imaging for .NET は、高度な画像処理機能を提供するユーザーフレンドリーなライブラリです。この多用途 API を使用すると、画像や写真を簡単に作成、読み込み、操作、変換、圧縮することができ、専用の画像エディタを必要とせずに幅広い画像処理機能が可能になります。
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     主な機能を確認してください:
+    </h2>
+    <p>
+     <ul>
+       <li>
+       画像変換: 画像のサイズ変更、切り抜き、反転、回転、二値化、グレースケール、傾き補正、調整を簡単に実行できます。
+       </li>
+       <li>
+       高度な操作: フィルター、アルファ ブレンディング、魔法の杖ツールを適用し、透かしの削除、背景の削除、ディザリングとマスキングを適用して、画像処理タスクを制御します。
+       </li>
+       <li>
+       効率的なメモリの最適化: スムーズで効率的な画像処理を保証するメモリ最適化戦略をお楽しみください。
+       </li>
+       <li>
+       描画およびグラフィック プリミティブ: 描画ツールの機能を活用し、グラフィック プリミティブを操作してプロジェクトを強化します。
+       </li>
+       <li>
+       エクスポートと変換: 均一な複数ページの画像処理を含め、画像をシームレスにエクスポートおよび変換します。
+       </li>
+     </ul>
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     フォーマットの互換性
+    </h2>
+    <p align="justify">
+     .NET の Aspose.Imaging は、柔軟で安定しているだけでなく、多機能でもあります。最も一般的に使用される画像形式をサポートしており、さらに一歩進んで、DjVu、DICOM、WebP、EPS、DNG などの特殊な形式のサポートを提供します。この広範な形式のサポートにより、幅広い画像処理タスクにとって頼りになるソリューションになります。
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     クロスプラットフォーム互換性
+    </h2>
+    <p align="justify">
+     Aspose.Imaging はクロスプラットフォーム ライブラリであり、Windows 環境と Linux 環境の両方との互換性を保証します。 Windows システムまたは Linux システムのどちらで作業している場合でも、Aspose.Imaging を利用して、一貫した高品質の画像処理機能を提供できます。
+    </p>
+    <p align="justify">
+     Aspose.Imaging for .NET を使用して、画像処理プロジェクトを新たな高みに引き上げます。 API の柔軟性、安定性、パワーを今すぐ体験してください。
+    </p>
+   </div>
 
 {{< /blocks/products/pf/tab-content >}}
 

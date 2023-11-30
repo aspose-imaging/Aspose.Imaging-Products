@@ -1,26 +1,26 @@
 ﻿---
-title: Imagens mesclar Via python-net, todos os formatos de imagem suportados 
+title: Imagens de mesclar usando Python 
 weight: 3920
 url: /pt/python-net/merge/ 
 lang: pt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging, você pode facilmente imagens mesclar Via python-net
+description: Aplicando a biblioteca Aspose.Imaging a imagens e fotos de mesclar usando seus próprios aplicativos Python e APIs de servidor.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Arquivos de imagem mesclar via python-net" h2="mesclar imagens" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Use Python para operação mesclar em imagens" h2="Imagens de mesclar por meio de seus próprios aplicativos Python usando a biblioteca Aspose.Imaging" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos os formatos suportados para a operação imagens mesclar" %}}
+{{% blocks/products/pf/feature-page-section  h2="Aplique a operação mesclar a todos os formatos de imagem disponíveis" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-A operação de mesclagem de imagens permite combinar 2 ou mais imagens em uma vertical ou horizontalmente sem perder qualidade. A colagem de fotos é a criação de uma nova foto ou imagem combinando várias imagens, às vezes não diretamente relacionadas entre si. O efeito desejado pelo fotógrafo é criado pela sobreposição de uma imagem sobre a outra ou pela combinação de muitas (mais de 2) imagens em um único todo, às vezes com o uso caótico de diferentes imagens fotográficas (como um quebra-cabeça ou mosaico). Aspose.Imaging permite criar diferentes colagens usando uma grande quantidade de formatos de arquivo.
+Mesclar imagens é uma técnica que permite combinar duas ou mais imagens em uma única composição sem comprometer a qualidade. Criar uma colagem de fotos envolve mesclar várias fotos, geralmente com um tema ou assunto comum. Isto pode ser conseguido empilhando uma imagem sobre outra ou combinando perfeitamente várias imagens em uma imagem encadeada, vertical ou horizontalmente. Ao utilizar diferentes fragmentos de fotos, você pode criar papéis de parede, quebra-cabeças ou mosaicos visualmente atraentes. Aspose.Imaging oferece uma solução versátil para criar colagens independentemente dos formatos de arquivo envolvidos, permitindo que você salve suas criações em diversos formatos, incluindo opções de várias páginas.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Usando o Aspose.Imaging, você pode facilmente aplicar **mesclar** para diferentes formatos de imagem programaticamente
+Usando a biblioteca Aspose.Imaging para Python, você pode executar facilmente a operação <b>mesclar</b> para imagens e fotos de vários formatos de forma programática.
 </p>
 <h3 style="margin-top:16px;">
-Lista completa de operações mesclar suportadas por formatos de imagem:
+Selecione um formato de imagem na lista para a operação mesclar:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

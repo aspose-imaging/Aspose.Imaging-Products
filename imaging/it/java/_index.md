@@ -9,20 +9,65 @@ description: Libreria di elaborazione e manipolazione di immagini Java. Crea vis
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1="Libreria Java e API per l'elaborazione delle immagini" h2="Crea, carica, manipola o converti immagini senza richiedere alcun editor di immagini." downloadFreeTrialText="Scarica la prova gratuita" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-java.svg"  pfName="Aspose.Imaging" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/imaging/java/" >}}
+{{< blocks/products/pf/upper-banner h1="Libreria Java e API per l'elaborazione delle immagini" h2="Crea, carica e manipola immagini utilizzando la tua app Java senza richiedere alcun editor di immagini" downloadFreeTrialText="Scarica la prova gratuita" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-java.svg"  pfName="Aspose.Imaging" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/imaging/java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Java" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-java.svg" 
 liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/java" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/java/" installationsDocsLink="https://docs.aspose.com/imaging/java/installation/" mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-imaging/" directDownloadLink="https://downloads.aspose.com/imaging/java/" liveDemosText="Dimostrazioni dal vivo" overviewText="Panoramica" featuresText="Caratteristiche" resourcesText="Risorse" pricingText="Prezzo" downloadText="Scarica" learnText="Imparare" buyText="Acquistare" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="All'a" carousel1Text2="Colpo d'occhio" carousel2Text1="piattaforma" carousel2Text2="Indipendenza" carousel3Text1="File supportato" carousel3Text2="Formati">}}
-<p align="justify">
- Aspose.Imaging for Java è una libreria che offre funzionalità avanzate di elaborazione delle immagini. Puoi facilmente creare, caricare, manipolare, convertire, comprimere immagini o foto utilizzando questa API. Anche Aspose. La libreria di imaging supporta il disegno e il lavoro con le primitive grafiche. L'esportazione e la conversione delle immagini (compresa l'elaborazione uniforme delle immagini su più pagine) è una delle funzionalità principali dell'API insieme alle trasformazioni delle immagini (ridimensionamento, ritaglio, capovolgi e ruota, binarizzazione, scala di grigi, regolazione), funzionalità avanzate di manipolazione delle immagini (filtro, dithering, mascheratura, raddrizzatura ) e strategie di ottimizzazione della memoria.
-</p>
 
-<p align="justify">
- Aspose.Imaging for Java è un'API flessibile, stabile e potente, in grado di elaborare i formati più comunemente usati insieme ad alcuni formati speciali come DjVu, DICOM, WebP e DNG.
-</p>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Utilizza le funzionalità complete di elaborazione delle immagini di Aspose.Imaging per Java
+    </h2>
+    <p align="justify">
+     Aspose.Imaging per Java è una libreria che ti fornisce strumenti avanzati per l'elaborazione di immagini e foto. Con questa API flessibile puoi creare, caricare, convertire e manipolare facilmente le immagini senza la necessità di editor di immagini specializzati.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Esplora le seguenti funzionalità principali:
+    </h2>
+    <p>
+     <ul>
+       <li>
+       Trasformazione delle immagini: applica facilmente la compressione, l'unione, il ridimensionamento, il ritaglio, la rotazione e la conversione in bianco e nero o in scala di grigi. Regola i livelli di luminosità, contrasto e gamma per risultati ottimali.
+       </li>
+       <li>
+       Manipolazioni avanzate: utilizza filtri di sfocatura, levigatura, nitidezza, effetto immagine cartoonizzata, fusione alfa, filigrane, modifiche allo sfondo e maschere per automatizzare le attività di elaborazione delle immagini.
+       </li>
+       <li>
+       Ottimizzazione della memoria: utilizza strategie efficienti di ottimizzazione della memoria per garantire un'elaborazione delle immagini rapida ed efficace.
+       </li>
+       <li>
+       Primitive di disegno e grafiche: crea forme, disegna primitive grafiche e aggiungi testo con stili di carattere diversi per migliorare le tue immagini.
+       </li>
+       <li>
+       Conversione di immagini: esporta immagini in vari formati con supporto unificato per l'elaborazione di immagini multipagina.
+       </li>
+     </ul>
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Compatibilità di vari formati
+    </h2>
+    <p align="justify">
+     Aspose.Imaging per Java è una libreria affidabile e versatile che supporta un'ampia gamma di formati, tra cui EPS, DjVu, DNG, WebP, DICOM e SVG. È una soluzione ideale per diverse attività di elaborazione delle immagini.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Supporto multipiattaforma
+    </h2>
+    <p align="justify">
+     Goditi la compatibilità multipiattaforma con Aspose.Imaging per Java, che funziona perfettamente su entrambi i sistemi operativi Windows e Linux. Sperimenta funzionalità di elaborazione delle immagini stabili e di alta qualità indipendentemente dalla tua piattaforma.
+    </p>
+    <p align="justify">
+     Sblocca un nuovo livello di qualità di elaborazione delle immagini con Aspose.Imaging per Java. Inizia a utilizzare la nostra API oggi stesso e scopri la sua flessibilità, stabilità e prestazioni.
+    </p>
+   </div>
 
 {{< /blocks/products/pf/tab-content >}}
 

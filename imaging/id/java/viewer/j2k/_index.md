@@ -83,7 +83,7 @@ Aspose.Imaging untuk Java didukung di semua sistem operasi utama. Pastikan saja 
 
 {{% blocks/products/pf/agp/code-block title="Lihat gambar J2K - Java" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "edfe5302b3a0d2d40140d608bf13a799" "convert-images-to-png-format.java" >}}
+{{< gist "aspose-com-gists" "ceaefc1656df207ad91467516e63f287" "convert-j2k-to-png.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

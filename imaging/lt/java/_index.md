@@ -9,20 +9,65 @@ description: Java vaizdų apdorojimo ir manipuliavimo biblioteka. Kurkite apkrov
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1="Java biblioteka ir API vaizdo apdorojimui" h2="Kurkite, įkelkite, manipuliuokite arba konvertuokite vaizdus nereikalaujant jokios vaizdų rengyklės." downloadFreeTrialText="Atsisiųskite nemokamą bandomąją versiją" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-java.svg"  pfName="Aspose.Imaging" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/imaging/java/" >}}
+{{< blocks/products/pf/upper-banner h1="Java biblioteka ir API vaizdo apdorojimui" h2="Kurkite, įkelkite ir manipuliuokite vaizdais naudodami savo „Java“ programą nereikalaujant jokios vaizdų rengyklės" downloadFreeTrialText="Atsisiųskite nemokamą bandomąją versiją" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-java.svg"  pfName="Aspose.Imaging" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/imaging/java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Java" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-java.svg" 
 liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https://purchase.aspose.com/pricing/imaging/java" buyLink="https://purchase.aspose.com/buy/" docsLink="https://docs.aspose.com/imaging/java/" installationsDocsLink="https://docs.aspose.com/imaging/java/installation/" mavenRepoLink="https://repository.aspose.com/repo/com/aspose/aspose-imaging/" directDownloadLink="https://downloads.aspose.com/imaging/java/" liveDemosText="Tiesioginės demonstracinės versijos" overviewText="Apžvalga" featuresText="funkcijos" resourcesText="Ištekliai" pricingText="Kainodara" downloadText="parsisiųsti" learnText="Mokytis" buyText="Pirkti" >}}
 
 {{< blocks/products/pf/tab-content carousel1Text1="Prie a" carousel1Text2="Žvilgsnis" carousel2Text1="Platforma" carousel2Text2="Nepriklausomybė" carousel3Text1="Palaikomas failas" carousel3Text2="Formatai">}}
-<p align="justify">
- Aspose.Imaging for Java yra biblioteka, siūlanti pažangias vaizdo apdorojimo funkcijas. Naudodami šią API galite lengvai kurti, įkelti, manipuliuoti, konvertuoti, suspausti vaizdus ar nuotraukas. Taip pat Aspose. Vaizdo biblioteka palaiko piešimą ir darbą su grafiniais primityvais. Vaizdo eksportavimas ir konvertavimas (įskaitant vienodą kelių puslapių vaizdo apdorojimą) yra viena iš pagrindinių API funkcijų kartu su vaizdo transformacijomis (dydžio keitimu, apkarpymu, apvertimu ir pasukimu, dvejetainiu, pilkos spalvos tonu, koregavimu), pažangiomis vaizdo manipuliavimo funkcijomis (filtravimu, keitimu, maskavimu, iškraipymu). ) ir atminties optimizavimo strategijas.
-</p>
 
-<p align="justify">
- Aspose.Imaging for Java yra lanksti, stabili ir galinga API, galinti apdoroti dažniausiai naudojamus formatus kartu su kai kuriais specialiais formatais, tokiais kaip DjVu, DICOM, WebP ir DNG.
-</p>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Naudokite visas Aspose.Imaging for Java vaizdų apdorojimo galimybes
+    </h2>
+    <p align="justify">
+     „Aspose.Imaging for Java“ yra biblioteka, kuri suteikia jums pažangių vaizdų ir nuotraukų apdorojimo įrankių. Naudodami šią lanksčią API galite be vargo kurti, įkelti, konvertuoti ir manipuliuoti vaizdus nenaudodami specializuotų vaizdo redaktorių.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Ištirkite šias pagrindines funkcijas:
+    </h2>
+    <p>
+     <ul>
+       <li>
+       Vaizdo transformavimas: lengvai pritaikykite glaudinimą, suliejimą, dydžio keitimą, apkarpymą, pasukimą ir konvertavimą į nespalvotą arba pilkos spalvos toną. Sureguliuokite ryškumą, kontrastą ir gama lygius, kad gautumėte optimalius rezultatus.
+       </li>
+       <li>
+       Išplėstinės manipuliacijos: naudokite suliejimo filtrus, išlyginimą, ryškinimą, karikatūrizuokite vaizdo efektą, alfa derinimą, vandens ženklus, fono keitimus ir kaukes, kad automatizuotumėte vaizdo apdorojimo užduotis.
+       </li>
+       <li>
+       Atminties optimizavimas: naudokite efektyvias atminties optimizavimo strategijas, kad užtikrintumėte greitą ir efektyvų vaizdo apdorojimą.
+       </li>
+       <li>
+       Piešimas ir grafiniai primityvai: kurkite figūras, pieškite grafinius pradmenis ir pridėkite tekstą su skirtingais šriftų stiliais, kad pagerintumėte savo vaizdus.
+       </li>
+       <li>
+       Vaizdo konvertavimas: Eksportuokite vaizdus į įvairius formatus su vieningu kelių puslapių vaizdo apdorojimo palaikymu.
+       </li>
+     </ul>
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Įvairių formatų suderinamumas
+    </h2>
+    <p align="justify">
+     Aspose.Imaging for Java yra patikima ir universali biblioteka, palaikanti daugybę formatų, įskaitant EPS, DjVu, DNG, WebP, DICOM ir SVG. Tai idealus sprendimas įvairioms vaizdo apdorojimo užduotims atlikti.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Kelių platformų palaikymas
+    </h2>
+    <p align="justify">
+     Mėgaukitės kelių platformų suderinamumu su Aspose.Imaging for Java, kuri sklandžiai veikia tiek Windows, tiek Linux operacinėse sistemose. Patirkite stabilias ir aukštos kokybės vaizdo apdorojimo galimybes, nepriklausomai nuo jūsų platformos.
+    </p>
+    <p align="justify">
+     Atraskite naują vaizdo apdorojimo kokybės lygį naudodami „Aspose.Imaging“, skirtą „Java“. Pradėkite naudoti mūsų API šiandien ir atraskite jos lankstumą, stabilumą ir našumą.
+    </p>
+   </div>
 
 {{< /blocks/products/pf/tab-content >}}
 
