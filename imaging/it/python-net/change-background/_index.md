@@ -1,26 +1,26 @@
 ﻿---
-title: Cambia sfondo immagini Tramite python-net, tutti i formati immagine supportati 
+title: Immagini Cambia sfondo utilizzando Python 
 weight: 3920
 url: /it/python-net/change-background/ 
 lang: it
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging puoi facilmente Cambia sfondo immagini tramite python-net
+description: Applicazione della libreria Aspose.Imaging alle immagini e alle foto di Cambia sfondo utilizzando le tue applicazioni Python e le API del server.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="File immagine Cambia sfondo tramite python-net" h2="Cambia sfondo immagini" downloadText="Scarica" >}}
+{{< blocks/products/pf/feature-page-header h1="Utilizza Python per l'operazione Cambia sfondo sulle immagini" h2="Immagini Cambia sfondo tramite le tue applicazioni Python utilizzando la libreria Aspose.Imaging" downloadText="Scarica" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tutti i immagini formati supportati per l'operazione Cambia sfondo" %}}
+{{% blocks/products/pf/feature-page-section  h2="Applica l'operazione Cambia sfondo a tutti i formati di immagine disponibili" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Il cambio di sfondo è una delle operazioni più comuni necessarie per elaborare le tue foto o immagini. Puoi facilmente rimuovere lo sfondo da una tua foto e mettere l'oggetto in primo piano su un altro usando Aspose.Imaging. Inoltre puoi riconoscere l'oggetto in primo piano e rilevarlo se necessario. Di conseguenza è possibile ottenere uno sfondo e un processo trasparenti di cui si ha bisogno.
+La modifica dello sfondo è un'attività eseguita frequentemente nell'editing di immagini e foto. Utilizzando Aspose.Imaging, puoi facilmente separare l'oggetto in primo piano dallo sfondo in una foto, automaticamente o manualmente, e quindi posizionarlo su un'altra immagine. Inoltre, l'API Cloud ti consente di identificare l'oggetto in primo piano e rimuovere lo sfondo, se necessario. Ciò permette di ottenere un oggetto con uno sfondo trasparente e sostituire lo sfondo originale con uno diverso.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Usando Aspose.Imaging puoi facilmente applicare **Cambia sfondo** per diversi formati di immagine programmaticamente
+Utilizzando la libreria Aspose.Imaging per Python, puoi facilmente eseguire l'operazione <b>Cambia sfondo</b> per immagini e foto di vari formati a livello di codice.
 </p>
 <h3 style="margin-top:16px;">
-Elenco completo delle operazioni Cambia sfondo supportate per formati immagine:
+Seleziona un formato immagine dall'elenco per l'operazione Cambia sfondo:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

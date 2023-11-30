@@ -1,26 +1,26 @@
 ﻿---
-title: gri tonlama görüntüleri python-net aracılığıyla, desteklenen tüm görüntü biçimleri 
+title: Python kullanan gri tonlama görselleri 
 weight: 3920
 url: /tr/python-net/grayscale/ 
 lang: tr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging'i kullanarak, python-net Aracılığıyla kolayca gri tonlama görüntüleri oluşturabilirsiniz
+description: Kendi Python uygulamalarınızı ve sunucu API'lerinizi kullanarak Aspose.Imaging kitaplığını gri tonlama görsellerine ve fotoğraflarına uygulama.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="python-net aracılığıyla gri tonlama görüntü dosyaları" h2="gri tonlama görselleri" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1="Görsellerde gri tonlama İşlemi için Python kullanın" h2="Aspose.Imaging Kütüphanesini Kullanarak Kendi Python Uygulamalarınız Üzerinden gri tonlama Görselleri" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="gri tonlama işlemi Görüntüler için desteklenen tüm biçimler" %}}
+{{% blocks/products/pf/feature-page-section  h2="gri tonlama işlemini mevcut tüm resim formatlarına uygulayın" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Gri tonlamalı bir görüntü, her pikselin değerinin yalnızca bir ışık miktarını gösteren tek bir örnek olduğu görüntüdür; yani, yalnızca yoğunluk bilgisini iletir. Gri tonlamalı görüntüler, dijital fotoğrafçılıkta, bilgisayar tarafından oluşturulan görüntülemede ve kolorimetride kullanılır. Grinin gölgeleri yalnızca gri tonlamalı görüntüleri, bir tür siyah beyaz veya gri monokromu oluşturur. Siyah en düşük kontrasta sahipken, beyaz en fazla kontrasta sahiptir. Gri tonlamalı görüntüler, yalnızca iki renkli görüntüler olan bir bitlik iki tonlu siyah beyaz görüntülerden farklıdır: bilgisayar görüntüleme bağlamında siyah ve beyaz (iki seviyeli veya ikili görüntüler olarak da bilinir). Gri tonlamalı fotoğraflarda arada çok sayıda gri ton vardır. Aspose.Imaging'i kullanarak farklı formatlardaki resimlerinizin gri tonlamalarını yapabilirsiniz.
+Gri tonlamalarıyla temsil edilen bir görüntü, her pikselin yalnızca ışık yoğunluğunu gösteren bir değere sahip olduğu bir görüntüdür. Böylece sadece parlaklık hakkında bilgi verir. Buna göre siyah en düşük parlaklığa, beyaz ise en yüksek parlaklığa sahip olacak. Gri tonlarda fotoğraflarda, piksel rengine ilişkin bilgi bulunmazken, siyahtan beyaza kadar gri tonlarının tüm skalasını gözlemleyebilirsiniz. Görüntüleri gri tonlamalı sürüme dönüştürmek, dijital fotoğrafçılıkta ve bilgisayar grafiklerinde yaygın olarak kullanılır. Aspose.Imaging ile renkli görselleri ve fotoğrafları çeşitli formatlardaki gri tonlamaya dönüştürebilirsiniz.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Aspose.Imaging'i kullanarak farklı görüntü formatları için **gri tonlama** işlemini kolayca uygulayabilirsiniz programlı olarak
+Python için Aspose.Imaging kütüphanesini kullanarak, çeşitli formatlardaki görüntüler ve fotoğraflar için <b>gri tonlama</b> işlemini programlı olarak kolayca gerçekleştirebilirsiniz.
 </p>
 <h3 style="margin-top:16px;">
-Görüntü biçimlerine göre desteklenen {işlem adı} işlemlerinin tam listesi:
+gri tonlama işlemi için listeden bir görüntü formatı seçin:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

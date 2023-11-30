@@ -9,7 +9,7 @@ description: ספריית עיבוד תמונה ומניפולציה של Python
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1="Aspose.Imaging עבור Python באמצעות ספריית NET וממשק API לעיבוד תמונה" h2="צור, טען, עשה מניפולציות או המר תמונות ללא צורך בעורך תמונות." downloadFreeTrialText="הורד גרסת ניסיון בחינם" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-python-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/imaging/python-net/" >}}
+{{< blocks/products/pf/upper-banner h1="Aspose.Imaging עבור Python באמצעות ספריית NET וממשק API לעיבוד תמונה" h2="צור יישומי Python משלך כדי לתפעל תמונות ללא צורך בעורך תמונות" downloadFreeTrialText="הורד גרסת ניסיון בחינם" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-python-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/imaging/python-net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Python" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-python-net.svg" 
@@ -19,42 +19,42 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
 
    <div class="col-lg-12">
     <h2 class="h2title">
-     פתח את מלוא הפוטנציאל של עיבוד תמונה עם Aspose.Imaging עבור Python
+     החל את כל היכולות של עיבוד תמונה עם Aspose.Imaging עבור Python
     </h2>
     <p align="justify">
-     Aspose.Imaging עבור Python היא ספרייה ידידותית למשתמש המעצימה אותך עם יכולות עיבוד תמונה מתקדמות. עם ה-API הרב-תכליתי הזה, אתה יכול ליצור, לטעון, לתפעל, להמיר ולדחוס תמונות או תמונות ללא מאמץ, ולאפשר מגוון רחב של תכונות עיבוד התמונה ללא צורך בעורך תמונות ייעודי.
+     Aspose.Imaging for Python היא ספרייה המציעה תכונות מתקדמות לעיבוד תמונה ותמונות. עם ה-API הרב-תכליתי הזה, אתה יכול לטעון, להמיר, ליצור ולתפעל באופן אוטומטי תמונות או תמונות ללא צורך בעורכי תמונות מיוחדות.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     גלה תכונות עיקריות:
+     השתמש בתכונות המפתח:
     </h2>
     <p>
      <ul>
        <li>
-       שינוי תמונה: שנה גודל, חתוך, הפוך, סיבוב, בינאריזציה, גווני אפור, ביטול הטיה והתאמת תמונות בקלות.
+       שינוי תמונה: שינוי קנה מידה, שינוי גודל, חיתוך, סיבוב, המרה לשחור לבן או גווני אפור, התאמת בהירות, ניגודיות וגמא של תמונות או תמונות.
        </li>
        <li>
-       מניפולציה מתקדמת: החל מסננים, מיזוג אלפא, כלי שרביט קסמים, הסרת סימן מים, הסרת רקע, שיטוט ומיסוך כדי להשתלט על משימות עיבוד התמונה שלך.
+       מניפולציות מתקדמות: החל מסננים, מיזוג אלפא, הוספה או הסרה של סימני מים, שינוי רקע, החלקת תמונות, החלת מסכות ואוטומציה של משימות עיבוד תמונה.
        </li>
        <li>
-       אופטימיזציית זיכרון יעילה: תיהנו מאסטרטגיות אופטימיזציה של זיכרון המבטיחות עיבוד תמונה חלק ויעיל.
+       אופטימיזציה של זיכרון: השתמש באסטרטגיות אופטימיזציה של זיכרון המבטיחות עיבוד תמונה מהיר ויעיל.
        </li>
        <li>
-       ציור ופרימיטיבים גרפיים: רתום את הכוח של כלי ציור ועבוד עם פרימיטיבים גרפיים כדי לשפר את הפרויקטים שלך.
+       ציור ופרימיטיבים גרפיים: השתמש בפונקציות ציור עבור פרימיטיבים גרפיים והחל טקסט עם סגנונות גופנים שונים.
        </li>
        <li>
-       ייצוא והמרה: ייצא והמר תמונות בצורה חלקה, כולל עיבוד תמונה אחיד מרובה עמודים.
+       המרת תמונה: ייצוא תמונות עם המרה לפורמטים אחרים, כולל עיבוד אחיד של תמונות מרובי עמודים.
        </li>
      </ul>
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     תאימות פורמטים
+     תומכים בפורמטים שונים
     </h2>
     <p align="justify">
-     Aspose.Imaging עבור Python הוא לא רק גמיש ויציב אלא גם רב תכליתי. הוא תומך בפורמטים הנפוצים ביותר של תמונה, והוא הולך צעד קדימה על ידי מתן תמיכה בפורמטים מיוחדים כמו DjVu, DICOM, WebP, EPS ו-DNG. תמיכה נרחבת בפורמטים זו הופכת אותו לפתרון הרצוי עבור מגוון רחב של משימות עיבוד תמונה.
+     תמיכה בפורמטים שונים Aspose.Imaging עבור Python נבדלת על ידי היציבות, הרבגוניות והפונקציונליות שלה. הוא תומך במגוון רחב של פורמטים, כולל פורמטים מיוחדים כגון APNG, WebP, EPS, PDF ו-DICOM. התמיכה בפורמט הרחב הופכת אותו לפתרון אידיאלי עבור מגוון רחב של משימות עיבוד תמונה.
     </p>
    </div>
    <div class="col-lg-12">
@@ -62,10 +62,10 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
      תאימות בין פלטפורמות
     </h2>
     <p align="justify">
-     Aspose.Imaging היא ספרייה חוצת פלטפורמות, המבטיחה תאימות לסביבות Windows ולינוקס כאחד. בין אם אתה עובד על מערכת Windows או Linux, אתה יכול לסמוך על Aspose.Imaging כדי לספק יכולות עיבוד תמונה עקביות ואיכותיות.
+     Aspose.Imaging היא ספרייה אוניברסלית שניתן להשתמש בה הן במערכות ההפעלה Windows והן במערכות הפעלה לינוקס הודות לתאימות בין הפלטפורמות שלה. אתה יכול לסמוך על Aspose.Imaging כדי לספק יכולות עיבוד תמונה יציבות ואיכותיות.
     </p>
     <p align="justify">
-     הרם את פרויקטי עיבוד התמונה שלך לגבהים חדשים עם Aspose.Imaging עבור Python. חווה את הגמישות, היציבות והעוצמה של ה-API שלנו היום.
+     השג רמה חדשה של איכות בעיבוד תמונה עם Aspose.Imaging עבור Python. השתמש ב-API שלנו היום וחווה את הגמישות, היציבות והביצועים שלו.
     </p>
    </div>
 
@@ -184,7 +184,19 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
-   
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    .NET Framework
+   </header>
+   <ul>
+    <li>
+     יישום Windows
+    </li>
+    <li>
+     יישום אינטרנט ASP.NET
+    </li>
+   </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">

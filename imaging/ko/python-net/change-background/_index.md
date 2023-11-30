@@ -1,26 +1,26 @@
 ﻿---
-title: 배경을 바꾸다 이미지 python-net을 통해 지원되는 모든 이미지 형식 
+title: Python을 사용하는 배경을 바꾸다 이미지 
 weight: 3920
 url: /ko/python-net/change-background/ 
 lang: ko
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging을 사용하면 python-net을 통해 쉽게 배경을 바꾸다 이미지를 만들 수 있습니다.
+description: 자체 Python 애플리케이션 및 서버 API를 사용하여 Aspose.Imaging 라이브러리를 배경을 바꾸다 이미지 및 사진에 적용합니다.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="python-net을 통한 이미지 파일 배경을 바꾸다" h2="{작업 이름} 이미지" downloadText="다운로드" >}}
+{{< blocks/products/pf/feature-page-header h1="이미지에 대한 배경을 바꾸다 작업에 Python 사용" h2="Aspose.Imaging 라이브러리를 사용하여 자체 Python 애플리케이션을 통한 배경을 바꾸다 이미지" downloadText="다운로드" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="배경을 바꾸다 작업에 대해 지원되는 모든 형식 이미지" %}}
+{{% blocks/products/pf/feature-page-section  h2="사용 가능한 모든 이미지 형식에 배경을 바꾸다 작업을 적용합니다." %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-배경 변경은 사진이나 이미지를 처리하는 데 필요한 가장 일반적인 작업 중 하나입니다. Aspose.Imaging을 사용하여 사진에서 배경을 쉽게 제거하고 전경 개체를 다른 사진에 넣을 수 있습니다. 또한 전경 개체를 인식하고 필요한 경우 감지할 수 있습니다. 결과적으로 투명한 배경을 얻을 수 있고 필요에 따라 처리할 수 있습니다.
+배경 변경은 이미지 및 사진 편집에서 자주 수행되는 작업입니다. Aspose.Imaging을 사용하면 자동 또는 수동으로 사진의 전경 개체를 배경에서 쉽게 분리한 다음 다른 이미지에 배치할 수 있습니다. 또한 Cloud API를 사용하면 전경 개체를 식별하고 필요한 경우 배경을 제거할 수 있습니다. 이를 통해 배경이 투명한 개체를 얻고 원본 배경을 다른 배경으로 바꿀 수 있습니다.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Aspose.Imaging을 사용하면 다양한 이미지 형식에 **배경을 바꾸다** 을(를) 쉽게 적용할 수 있습니다 프로그래밍 방식으로. 
+Python용 Aspose.Imaging 라이브러리를 사용하면 다양한 형식의 이미지와 사진에 대한 <b>배경을 바꾸다</b> 작업을 프로그래밍 방식으로 쉽게 수행할 수 있습니다.
 </p>
 <h3 style="margin-top:16px;">
-이미지 형식별로 지원되는 배경을 바꾸다 작업의 전체 목록:
+배경을 바꾸다 작업에 대한 목록에서 이미지 형식을 선택하세요.
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

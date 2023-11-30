@@ -1,26 +1,26 @@
 ﻿---
-title: תמונות Cartoonify דרך python-net, כל פורמטי התמונה הנתמכים 
+title: תמונות Cartoonify באמצעות Python 
 weight: 3920
 url: /he/python-net/cartoonify/ 
 lang: he
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: באמצעות Aspose.Imaging תוכל בקלות Cartoonify תמונות באמצעות python-net
+description: החלת ספריית Aspose.Imaging על תמונות ותמונות של Cartoonify באמצעות יישומי Python וממשקי API משלך של שרת.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="קבצי תמונה Cartoonify באמצעות python-net" h2="תמונות Cartoonify" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="השתמש ב-Python עבור פעולת Cartoonify בתמונות" h2="תמונות Cartoonify באמצעות יישומי Python משלך באמצעות ספריית Aspose.Imaging" downloadText="הורד" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="כל הפורמטים  תמונות הנתמכים עבור פעולת Cartoonify" %}}
+{{% blocks/products/pf/feature-page-section  h2="החל את פעולת Cartoonify על כל פורמטי התמונה הזמינים" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-המרת תמונה לקריקטורה היא אחת הפעולות הנפוצות בשימוש על ידי הרבה אמנים. זה עוזר להשיג תמונה מצוירת בכמה קליקים מבלי לבצע שום עבודת צביעה. רוצה להפוך במהירות תמונה סטנדרטית לתמונה מצוירת? במקרה זה אתה יכול לנסות איך זה עובד בספריית Aspose.Imaging.
+תהליך הפיכת התמונות לתמונות בסגנון מצויר, הידוע גם בשם cartoonify, הוא טכניקה פופולרית המשמשת מעצבים ליצירת תמונות עם אפקט דמוי קריקטורה. שיטה זו מאפשרת להשיג את אפקט התמונה הרצוי בכמה לחיצות בלבד, ללא צורך בכישורי ציור. אם ברצונך להפוך במהירות תמונה רגילה לתמונה בסגנון מצויר, עליך לנסות את הכלי המסופק על ידי ספריית Aspose.Imaging.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-באמצעות Aspose.Imaging אתה יכול בקלות להחיל את **Cartoonify** עבור פורמטים שונים של תמונה באופן תוכניתי
+באמצעות ספריית Aspose.Imaging עבור Python, אתה יכול לבצע בקלות את פעולת <b>Cartoonify</b> עבור תמונות ותמונות בפורמטים שונים באופן פרוגרמטי.
 </p>
 <h3 style="margin-top:16px;">
-רשימה מלאה של פעולות Cartoonify נתמכות לפי פורמטים של תמונה:
+בחר פורמט תמונה מהרשימה עבור הפעולה Cartoonify:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

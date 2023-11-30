@@ -1,26 +1,26 @@
 ﻿---
-title: Binarize images Via python-net, all supported image formats 
+title: Binarize images using Python 
 weight: 3920
 url: /python-net/binarize/ 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Using Aspose.Imaging you can easily Binarize images Via python-net
+description: Applying Aspose.Imaging library to Binarize images and photos using your own Python applications and server APIs.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Image files Binarize via python-net" h2="Binarize images" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Use Python for Binarize Operation on Images" h2="Binarize Images via Your Own Python Applications Using the Aspose.Imaging Library" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="All supported image formats for Binarize operation" %}}
+{{% blocks/products/pf/feature-page-section  h2="Apply the Binarize operation to all available image formats" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-The foreground and background of an image are separated using a technique called image thresholding. This method assigns the pixel values in accordance with the given threshold values. Grayscale images are thresholded in computer vision. One of the most known methods are Binarization by <b>Otsu</b> and by <b>Bradley</b>. Aspose.Imaging supports both algorithms. Using those algorithms your images can be converted to black and white with threshold.
+When processing images, a method called binarization is applied to convert the image into a black and white format using a specified threshold value. This method involves assigning pixel values based on the given threshold value. When working with grayscale images, it is important to specify a threshold value to separate objects using computer vision technology. There are various conversion methods available, such as binarization using the <b>Otsu</b> and the <b>Bradley</b> method, both of which are supported by Aspose.Imaging. By utilizing these algorithms, you can convert your images into black and white with a specified threshold value.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Using Aspose.Imaging you can easily apply <b>Binarize</b> for different image formats programmatically
+Using the Aspose.Imaging library for Python, you can easily perform the <b>Binarize</b> operation for images and photos of various formats programmatically.
 </p>
 <h3 style="margin-top:16px;">
-Full list of supported Binarize operations by image formats:
+Select an image format from the list for the Binarize operation:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

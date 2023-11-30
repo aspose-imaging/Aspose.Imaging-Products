@@ -1,26 +1,26 @@
 ﻿---
-title: Apkarpyti vaizdai Per python-net, visi palaikomi vaizdo formatai 
+title: Apkarpyti vaizdai naudojant Python 
 weight: 3920
 url: /lt/python-net/crop/ 
 lang: lt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Naudodami Aspose.Imaging galite lengvai sukurti Apkarpyti vaizdus per python-net
+description: Aspose.Imaging bibliotekos taikymas Apkarpyti vaizdams ir nuotraukoms naudojant savo Python programas ir serverio API.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Vaizdo failai Apkarpyti per python-net" h2="Apkarpyti vaizdai" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Naudokite Python Apkarpyti operacijai su vaizdais" h2="Apkarpyti vaizdai per savo Python programas naudojant Aspose.Imaging biblioteką" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Apkarpyti attēlus formatai" %}}
+{{% blocks/products/pf/feature-page-section  h2="Taikykite operaciją Apkarpyti visiems galimiems vaizdo formatams" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Apkarpymas yra pašalinių elementų pašalinimo iš nuotraukos ar iliustracijos procesas. Taikant šią techniką paprastai pašalinama dalis vaizdo periferijos, siekiant pašalinti pašalinę vaizdinę informaciją iš nuotraukos, pagerinti jos kadravimą, pakeisti kraštinių santykį arba pabrėžti ar atskirti objektą nuo jo aplinkos. Tai galima padaryti skaitmeniniu būdu, naudojant vaizdų redagavimo programinę įrangą, arba tai gali būti padaryta naudojant tikrą momentinę nuotrauką, meno kūrinį ar filmą, priklausomai nuo programos. Fotografijos, filmų apdorojimo, transliavimo, grafinio dizaino ir spausdinimo pramonė naudoja apkarpymą. Aspose.Imaging leidžia apkarpyti vaizdus su nurodytais įvairiais parametrais.
+Vaizdų apkarpymas – tai nereikalingų vaizdų ar nuotraukų dalių pašalinimo procesas. Dėl vaizdo apkarpymo operacijos dalis vaizdo periferijos gali būti pašalinta, siekiant pagerinti jo kompoziciją, pakoreguoti proporcijas arba centruoti pagrindinį elementą. Norėdami tai pasiekti, galite naudoti specializuotą vaizdų redagavimo programinę įrangą arba programiškai pritaikyti vaizdų, nuotraukų, peizažų ar portretų apkarpymo operaciją, atsižvelgdami į konkrečius poreikius. Apkarpymas randa daugybę pritaikymų fotografijoje, nuotraukų manipuliavime, vaizdo įrašų kūrime, grafiniame dizaine ir spausdinimo srityse. Naudodami Aspose.Imaging biblioteką galite automatizuoti vaizdo apkarpymą naudodami pritaikomus parametrus.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Naudodami Aspose.Imaging galite lengvai pritaikyti **Apkarpyti** skirtingiems vaizdo formatams programmatiski
+Naudodami Aspose.Imaging biblioteką, skirtą Python, galite lengvai atlikti <b>Apkarpyti</b> operaciją įvairių formatų vaizdams ir nuotraukoms programiškai.
 </p>
 <h3 style="margin-top:16px;">
-Visas palaikomų operacijų Apkarpyti sąrašas pagal vaizdo formatus:
+Iš sąrašo pasirinkite vaizdo formatą operacijai Apkarpyti:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

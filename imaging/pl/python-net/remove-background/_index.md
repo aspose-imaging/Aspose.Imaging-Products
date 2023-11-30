@@ -1,26 +1,26 @@
 ﻿---
-title: Usuń tło obrazy Przez python-net, wszystkie obsługiwane formaty obrazów 
+title: Obrazy Usuń tło przy użyciu języka Python 
 weight: 3920
 url: /pl/python-net/remove-background/ 
 lang: pl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Używając Aspose.Imaging możesz łatwo Usuń tło obrazy Via python-net
+description: Stosowanie biblioteki Aspose.Imaging do obrazów i zdjęć Usuń tło przy użyciu własnych aplikacji Python i interfejsów API serwera.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Pliki obrazów Usuń tło przez python-net" h2="Obrazy Usuń tło" downloadText="Ściągnij" >}}
+{{< blocks/products/pf/feature-page-header h1="Użyj języka Python do operacji Usuń tło na obrazach" h2="Obrazy Usuń tło za pośrednictwem własnych aplikacji Python przy użyciu biblioteki Aspose.Imaging" downloadText="Ściągnij" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty operacji obrazy Usuń tło" %}}
+{{% blocks/products/pf/feature-page-section  h2="Zastosuj operację Usuń tło do wszystkich dostępnych formatów obrazów" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Usuń tło to operacja, która pozwala łatwo usunąć tło ze zdjęć lub obrazów. W wyniku usunięcia tła można uzyskać przezroczyste tło i nałożyć pierwszy plan na inne tło. Korzystając z Aspose.Imaging, możesz wypróbować różne algorytmy usuwania tła, które mogą odpowiadać Twoim potrzebom dla różnych obrazów.
+Korzystając z operacji usuwania tła, możesz bez wysiłku usunąć tło ze zdjęć lub obrazów. W wyniku tego procesu powstają obiekty takie jak postacie ludzkie z przezroczystym tłem. Następnie możesz łatwo przenieść te obiekty na inny obraz z innym tłem. Korzystając z Aspose.Imaging, masz możliwość eksperymentowania z różnymi algorytmami usuwania tła, które są odpowiednie dla różnych typów obrazów, w zależności od złożoności Twojego zadania.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Używając Aspose.Imaging możesz łatwo zastosować **Usuń tło** dla różnych formatów obrazów programowo
+Korzystając z biblioteki Aspose.Imaging dla języka Python, możesz łatwo programowo wykonać operację <b>Usuń tło</b> na obrazach i zdjęciach w różnych formatach.
 </p>
 <h3 style="margin-top:16px;">
-Pełna lista obsługiwanych operacji Usuń tło według formatów obrazu:
+Wybierz format obrazu z listy dla operacji Usuń tło:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,26 +1,26 @@
 ﻿---
-title: Dithering immagini Tramite python-net, tutti i formati immagine supportati 
+title: Immagini Dithering utilizzando Python 
 weight: 3920
 url: /it/python-net/dither/ 
 lang: it
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging puoi facilmente Dithering immagini tramite python-net
+description: Applicazione della libreria Aspose.Imaging alle immagini e alle foto di Dithering utilizzando le tue applicazioni Python e le API del server.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="File immagine Dithering tramite python-net" h2="Dithering immagini" downloadText="Scarica" >}}
+{{< blocks/products/pf/feature-page-header h1="Utilizza Python per l'operazione Dithering sulle immagini" h2="Immagini Dithering tramite le tue applicazioni Python utilizzando la libreria Aspose.Imaging" downloadText="Scarica" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tutti i immagini formati supportati per l'operazione Dithering" %}}
+{{% blocks/products/pf/feature-page-section  h2="Applica l'operazione Dithering a tutti i formati di immagine disponibili" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Nella computer grafica, il dithering viene utilizzato per dare l'impressione della profondità del colore nelle immagini su sistemi con una tavolozza di colori limitata. Una diffusione di pixel colorati dalla tavolozza disponibile viene utilizzata in un'immagine retinata per approssimare i colori che non sono presenti nella tavolozza. La diffusione appare all'occhio umano come una mescolanza dei colori in essa contenuti. Le fotografie retinate sono spesso identificabili da una granulosità distintiva o da un aspetto maculato, specialmente quando si utilizzano tavolozze con pochi colori. Il dithering aggiunge rumore o un motivo a un'immagine e il motivo è spesso evidente. È stato dimostrato che in queste condizioni il dithering prodotto dal rumore blu è il meno fastidioso e poco attraente. Aspose.Imaging consente di ditherare le tue immagini con pochi algoritmi che puoi selezionare necessari per il tuo inutile.
+Il dithering nel campo della grafica computerizzata viene utilizzato dai designer per ottenere un effetto cromatico più pronunciato nei sistemi con una tavolozza di colori limitata. In un'immagine attenuata, i pixel colorati della tavolozza disponibile vengono utilizzati per approssimare i colori mancanti, creando l'impressione di una fusione dei colori. Spesso in tali foto è possibile notare una granulosità o un motivo a punti distinto, soprattutto quando si utilizzano tavolozze con un numero limitato di colori. L'operazione di dithering viene applicata per aggiungere rumore o motivi all'immagine e spesso questi motivi sono facilmente visibili. È stato dimostrato che in questi casi l'uso del rumore blu per il dithering è la soluzione più ottimale. Aspose.Imaging consente il livellamento delle immagini utilizzando vari algoritmi che possono essere selezionati in base alle proprie preferenze.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Usando Aspose.Imaging puoi facilmente applicare **Dithering** per diversi formati di immagine programmaticamente
+Utilizzando la libreria Aspose.Imaging per Python, puoi facilmente eseguire l'operazione <b>Dithering</b> per immagini e foto di vari formati a livello di codice.
 </p>
 <h3 style="margin-top:16px;">
-Elenco completo delle operazioni Dithering supportate per formati immagine:
+Seleziona un formato immagine dall'elenco per l'operazione Dithering:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

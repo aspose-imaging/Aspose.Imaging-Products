@@ -1,26 +1,26 @@
 ﻿---
-title: Filter-Bilder Über python-net alle unterstützten Bildformate 
+title: Filter-Bilder mit Python 
 weight: 3920
 url: /de/python-net/filter/ 
 lang: de
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Mit Aspose.Imaging können Sie ganz einfach Filter Bilder über python-net
+description: Anwenden der Aspose.Imaging-Bibliothek auf Filter-Bilder und Fotos mithilfe Ihrer eigenen Python-Anwendungen und Server-APIs.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Bilddateien Filter über python-net" h2="Filter Bilder" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Verwenden Sie Python für den Vorgang Filter für Bilder" h2="Filter-Bilder über Ihre eigenen Python-Anwendungen mithilfe der Aspose.Imaging-Bibliothek" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bilder Formate für den Vorgang Filter" %}}
+{{% blocks/products/pf/feature-page-section  h2="Wenden Sie den Vorgang Filter auf alle verfügbaren Bildformate an" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-In der Fotografie und Kinematographie ist ein Filter ein Kamerazubehör, das aus einem optischen Filter besteht, der in den Strahlengang eingesetzt werden kann. Der Filter kann eine quadratische oder längliche Form haben und in einem Halterzubehör montiert sein, oder, häufiger, in einer Glas- oder Kunststoffscheibe in einem Metall- oder Kunststoffringrahmen, der an der Vorderseite des Kameraobjektivs angeschraubt oder daran befestigt werden kann. Filter verändern die aufgenommenen Bilder. Sie werden verwendet, um Fotos manchmal nur geringfügig zu verändern, manchmal sind sie für die Erstellung des Bildes völlig notwendig. Bei der Schwarzweißfotografie verändern Farbfilter die relative Helligkeit verschiedener Farben; Roter Lippenstift kann je nach verwendetem Filter irgendwo zwischen fast weiß und fast schwarz erscheinen. Andere passen die Farbbalance des Bildes so an, dass bei Aufnahmen mit Glühlampenlicht die Farben so angezeigt werden, wie sie wahrgenommen werden, und nicht mit einem rötlichen Schimmer. Es gibt Filter, die das Bild gezielt verzerren und einem ansonsten scharfen Bild einen sternenklaren Look verleihen usw. Schräge Reflexionen von nichtmetallischen Oberflächen werden durch lineare und zirkulare Polarisationsfilter reduziert. Aspose.Imaging unterstützt Filter wie Gaussian Blur, Sharpen, Median Filter, Motion Weiner und viele andere.
+In der Fotografie und Videoproduktion ist ein Filter ein zusätzliches Kamerazubehör, das einen optischen Filter umfasst, der in den Strahlengang eingesetzt werden kann. Es kann ein quadratisches oder rechteckiges halbtransparentes Glas sein und wird an der Vorderseite des Kameraobjektivs angebracht. Filter verändern das aufgenommene Bild. Bei der Schwarzweißfotografie verändern Farbfilter die Helligkeit verschiedener Farben; Je nach verwendetem Filter kann ein grüner Apfel fast weiß oder fast schwarz erscheinen. Andere Filter passen die Farbbalance des Bildes an, um die wahrgenommenen Farben bei Tageslichtlampenbeleuchtung genau darzustellen, anstatt bei einem kalten Ton. Es gibt auch Filter, die das Bild absichtlich verzerren und einem scharfen Bild ein unscharfes Aussehen verleihen. Lineare und zirkulare Polarisationsfilter reduzieren die Blendung durch reflektierende Oberflächen. Aspose.Imaging unterstützt verschiedene Filter wie Gauss-Wiener-Filter, bilaterale Glättung, Medianfilter, Motion Weiner, Unschärfe, Schärfen und andere.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Mit Aspose.Imaging können Sie ganz einfach **Filter** für verschiedene Bildformate anwenden programmatisch
+Mit der Aspose.Imaging-Bibliothek für Python können Sie den Vorgang <b>Filter</b> problemlos programmgesteuert für Bilder und Fotos verschiedener Formate ausführen.
 </p>
 <h3 style="margin-top:16px;">
-Vollständige Liste der unterstützten Filter-Vorgänge nach Bildformaten:
+Wählen Sie ein Bildformat aus der Liste für den Vorgang Filter aus:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

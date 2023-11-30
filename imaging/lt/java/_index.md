@@ -9,7 +9,7 @@ description: Java vaizdų apdorojimo ir manipuliavimo biblioteka. Kurkite apkrov
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1="Java biblioteka ir API vaizdo apdorojimui" h2="Kurkite, įkelkite, manipuliuokite arba konvertuokite vaizdus nereikalaujant jokios vaizdų rengyklės." downloadFreeTrialText="Atsisiųskite nemokamą bandomąją versiją" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-java.svg"  pfName="Aspose.Imaging" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/imaging/java/" >}}
+{{< blocks/products/pf/upper-banner h1="Java biblioteka ir API vaizdo apdorojimui" h2="Kurkite, įkelkite ir manipuliuokite vaizdais naudodami savo „Java“ programą nereikalaujant jokios vaizdų rengyklės" downloadFreeTrialText="Atsisiųskite nemokamą bandomąją versiją" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-java.svg"  pfName="Aspose.Imaging" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/imaging/java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Java" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-java.svg" 
@@ -19,53 +19,53 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
 
    <div class="col-lg-12">
     <h2 class="h2title">
-     Išnaudokite visas vaizdo apdorojimo galimybes naudodami „Aspose.Imaging“, skirtą Java
+     Naudokite visas Aspose.Imaging for Java vaizdų apdorojimo galimybes
     </h2>
     <p align="justify">
-     „Aspose.Imaging“, skirta Java, yra patogi biblioteka, suteikianti pažangias vaizdo apdorojimo galimybes. Naudodami šią universalią API galite be vargo kurti, įkelti, manipuliuoti, konvertuoti ir suspausti vaizdus ar nuotraukas, įgalindami platų vaizdo apdorojimo funkcijų spektrą, nenaudodami specialios vaizdų rengyklės.
+     „Aspose.Imaging for Java“ yra biblioteka, kuri suteikia jums pažangių vaizdų ir nuotraukų apdorojimo įrankių. Naudodami šią lanksčią API galite be vargo kurti, įkelti, konvertuoti ir manipuliuoti vaizdus nenaudodami specializuotų vaizdo redaktorių.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Atraskite pagrindines savybes:
+     Ištirkite šias pagrindines funkcijas:
     </h2>
     <p>
      <ul>
        <li>
-       Vaizdo transformavimas: lengvai keiskite, apkarpykite, apverskite, pasukite, sudėliokite dvejetainius, pilkos spalvos tonus, iškraipykite ir koreguokite vaizdus.
+       Vaizdo transformavimas: lengvai pritaikykite glaudinimą, suliejimą, dydžio keitimą, apkarpymą, pasukimą ir konvertavimą į nespalvotą arba pilkos spalvos toną. Sureguliuokite ryškumą, kontrastą ir gama lygius, kad gautumėte optimalius rezultatus.
        </li>
        <li>
-       Išplėstinė manipuliacija: taikykite filtrus, alfa maišymą, stebuklingos lazdelės įrankį, pašalinkite vandens ženklą, pašalinkite foną, keiskite ir maskuokite, kad galėtumėte valdyti vaizdo apdorojimo užduotis.
+       Išplėstinės manipuliacijos: naudokite suliejimo filtrus, išlyginimą, ryškinimą, karikatūrizuokite vaizdo efektą, alfa derinimą, vandens ženklus, fono keitimus ir kaukes, kad automatizuotumėte vaizdo apdorojimo užduotis.
        </li>
        <li>
-       Efektyvus atminties optimizavimas: Mėgaukitės atminties optimizavimo strategijomis, kurios užtikrina sklandų ir efektyvų vaizdo apdorojimą.
+       Atminties optimizavimas: naudokite efektyvias atminties optimizavimo strategijas, kad užtikrintumėte greitą ir efektyvų vaizdo apdorojimą.
        </li>
        <li>
-       Piešimo ir grafiniai primityvai: išnaudokite piešimo įrankių galią ir dirbkite su grafiniais primityvais, kad pagerintumėte savo projektus.
+       Piešimas ir grafiniai primityvai: kurkite figūras, pieškite grafinius pradmenis ir pridėkite tekstą su skirtingais šriftų stiliais, kad pagerintumėte savo vaizdus.
        </li>
        <li>
-       Eksportavimas ir konvertavimas: sklandžiai eksportuokite ir konvertuokite vaizdus, ​​įskaitant vienodą kelių puslapių vaizdo apdorojimą.
+       Vaizdo konvertavimas: Eksportuokite vaizdus į įvairius formatus su vieningu kelių puslapių vaizdo apdorojimo palaikymu.
        </li>
      </ul>
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Formato suderinamumas
+     Įvairių formatų suderinamumas
     </h2>
     <p align="justify">
-     Aspose.Imaging, skirtas Java, yra ne tik lankstus ir stabilus, bet ir universalus. Jis palaiko dažniausiai naudojamus vaizdo formatus ir žengia dar vieną žingsnį palaikydamas specialius formatus, tokius kaip DjVu, DICOM, WebP, EPS ir DNG. Dėl šio plataus formato palaikymo tai yra puikus sprendimas atliekant įvairias vaizdo apdorojimo užduotis.
+     Aspose.Imaging for Java yra patikima ir universali biblioteka, palaikanti daugybę formatų, įskaitant EPS, DjVu, DNG, WebP, DICOM ir SVG. Tai idealus sprendimas įvairioms vaizdo apdorojimo užduotims atlikti.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Suderinamumas su keliomis platformomis
+     Kelių platformų palaikymas
     </h2>
     <p align="justify">
-     Aspose.Imaging yra kelių platformų biblioteka, užtikrinanti suderinamumą su Windows ir Linux aplinkomis. Nesvarbu, ar dirbate su „Windows“, ar „Linux“ sistema, galite pasikliauti „Aspose.Imaging“, kad užtikrintumėte nuoseklias, aukštos kokybės vaizdo apdorojimo galimybes.
+     Mėgaukitės kelių platformų suderinamumu su Aspose.Imaging for Java, kuri sklandžiai veikia tiek Windows, tiek Linux operacinėse sistemose. Patirkite stabilias ir aukštos kokybės vaizdo apdorojimo galimybes, nepriklausomai nuo jūsų platformos.
     </p>
     <p align="justify">
-     Pakelkite savo vaizdo apdorojimo projektus į naujas aukštumas naudodami Aspose.Imaging, skirtą Java. Patirkite mūsų API lankstumą, stabilumą ir galią šiandien.
+     Atraskite naują vaizdo apdorojimo kokybės lygį naudodami „Aspose.Imaging“, skirtą „Java“. Pradėkite naudoti mūsų API šiandien ir atraskite jos lankstumą, stabilumą ir našumą.
     </p>
    </div>
 

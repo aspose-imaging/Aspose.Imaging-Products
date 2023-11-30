@@ -1,27 +1,26 @@
 ﻿---
-title: 压缩 图片通过 python-net，所有支持的图片格式 
+title: 使用 Python 的 压缩 图像 
 weight: 3920
 url: /zh-hans/python-net/compress/ 
 lang: zh-hans
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: 使用 Aspose.Imaging 你可以轻松地通过 python-net 获取 压缩 图像
+description: 使用您自己的 Python 应用程序和服务器 API 将 Aspose.Imaging 库应用于 压缩 图像和照片。
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="图片文件 压缩 来自 python-net" h2="压缩 图片" downloadText="下载" >}}
+{{< blocks/products/pf/feature-page-header h1="使用 Python 对图像进行 压缩 操作" h2="使用 Aspose.Imaging 库通过您自己的 Python 应用程序生成 压缩 图像" downloadText="下载" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="压缩 操作的所有支持格式图片" %}}
+{{% blocks/products/pf/feature-page-section  h2="将 压缩 操作应用于所有可用的图像格式" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-图像压缩是一种数据压缩，用于降低存储或传输数码照片的成本。与用于其他数字数据的一般数据压缩技术相比，算法可能受益于视觉感知和图片数据的统计特性。
-使用 Aspose.Imaging，您可以压缩几乎可以满足您所有需求的不同图像类型。
+使用图像压缩来减少用于存储或发送数字图像的数据大小。与用于其他形式的数字信息的通用数据压缩技术不同，图像压缩算法考虑图像的统计特性并与信息的视觉感知相关。通过Aspose.Imaging库，您可以根据您的具体需求实现不同级别的图像压缩。
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-使用 Aspose.Imaging 您可以轻松地将 **压缩** 应用于不同的图像格式 以编程方式
+使用 Python 的 Aspose.Imaging 库，您可以通过编程轻松地对各种格式的图像和照片执行 <b>压缩</b> 操作。
 </p>
 <h3 style="margin-top:16px;">
-按图像格式支持的 压缩 操作的完整列表：
+从列表中为 压缩 操作选择图像格式：
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

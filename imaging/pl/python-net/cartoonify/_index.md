@@ -1,26 +1,26 @@
 ﻿---
-title: Kreskówka obrazy Przez python-net, wszystkie obsługiwane formaty obrazów 
+title: Obrazy Kreskówka przy użyciu języka Python 
 weight: 3920
 url: /pl/python-net/cartoonify/ 
 lang: pl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Używając Aspose.Imaging możesz łatwo Kreskówka obrazy Via python-net
+description: Stosowanie biblioteki Aspose.Imaging do obrazów i zdjęć Kreskówka przy użyciu własnych aplikacji Python i interfejsów API serwera.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Pliki obrazów Kreskówka przez python-net" h2="Obrazy Kreskówka" downloadText="Ściągnij" >}}
+{{< blocks/products/pf/feature-page-header h1="Użyj języka Python do operacji Kreskówka na obrazach" h2="Obrazy Kreskówka za pośrednictwem własnych aplikacji Python przy użyciu biblioteki Aspose.Imaging" downloadText="Ściągnij" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty operacji obrazy Kreskówka" %}}
+{{% blocks/products/pf/feature-page-section  h2="Zastosuj operację Kreskówka do wszystkich dostępnych formatów obrazów" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Konwersja zdjęcia do kreskówki to jedna z częstych operacji wykonywanych przez wielu artystów. Pomaga uzyskać rysowane zdjęcie za pomocą kilku kliknięć bez wykonywania jakichkolwiek prac malarskich. Chcesz szybko zamienić standardowy obraz w obraz animowany? W takim przypadku możesz spróbować jak to działa w bibliotece Aspose.Imaging.
+Proces przekształcania zdjęć w obrazy w stylu kreskówek, znany również jako kreskówkowe, to popularna technika stosowana przez projektantów do tworzenia obrazów z efektem przypominającym kreskówkę. Metoda ta pozwala na osiągnięcie pożądanego efektu obrazu za pomocą kilku kliknięć, bez konieczności posiadania umiejętności rysowania. Jeśli chcesz szybko przekształcić zwykły obraz w obraz w stylu kreskówkowym, powinieneś wypróbować narzędzie dostarczane przez bibliotekę Aspose.Imaging.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Używając Aspose.Imaging możesz łatwo zastosować **Kreskówka** dla różnych formatów obrazów programowo
+Korzystając z biblioteki Aspose.Imaging dla języka Python, możesz łatwo programowo wykonać operację <b>Kreskówka</b> na obrazach i zdjęciach w różnych formatach.
 </p>
 <h3 style="margin-top:16px;">
-Pełna lista obsługiwanych operacji Kreskówka według formatów obrazu:
+Wybierz format obrazu z listy dla operacji Kreskówka:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

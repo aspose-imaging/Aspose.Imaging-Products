@@ -1,26 +1,26 @@
 ﻿---
-title: Crop images Via python-net, all supported image formats 
+title: Crop images using Python 
 weight: 3920
 url: /python-net/crop/ 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Using Aspose.Imaging you can easily Crop images Via python-net
+description: Applying Aspose.Imaging library to Crop images and photos using your own Python applications and server APIs.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Image files Crop via python-net" h2="Crop images" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Use Python for Crop Operation on Images" h2="Crop Images via Your Own Python Applications Using the Aspose.Imaging Library" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="All supported image formats for Crop operation" %}}
+{{% blocks/products/pf/feature-page-section  h2="Apply the Crop operation to all available image formats" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Cropping is the process of eliminating extraneous elements from a photograph or illustration. The technique typically entails the removal of a portion of an image's periphery in order to eliminate extraneous visual information from the photograph, enhance its framing, alter the aspect ratio, or emphasize or isolate the subject from its surroundings. This can be done digitally by utilizing image editing software, or it can be done on a real snapshot, piece of art, or piece of film, depending on the application. The photographic, film processing, broadcasting, graphic design, and printing industries all use cropping. Aspose.Imaging allows you to crop images with specified various parameters.
+ Cropping images is the process of removing unnecessary parts from images or photos. As a result of the image crop operation, a portion of the image's periphery can be removed to improve its composition, adjust proportions, or center the main element. To achieve this, you can utilize specialized image editing software or programmatically apply crop operation to the images, photos, landscapes, or portraits, depending on your specific requirements. Cropping finds extensive applications in photography, photo manipulation, video production, graphic design, and printing. With the Aspose.Imaging library, you can automate image cropping using customizable parameters.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Using Aspose.Imaging you can easily apply <b>Crop</b> for different image formats programmatically
+Using the Aspose.Imaging library for Python, you can easily perform the <b>Crop</b> operation for images and photos of various formats programmatically.
 </p>
 <h3 style="margin-top:16px;">
-Full list of supported Crop operations by image formats:
+Select an image format from the list for the Crop operation:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

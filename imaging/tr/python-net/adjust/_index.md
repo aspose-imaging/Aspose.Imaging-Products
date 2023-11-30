@@ -1,26 +1,26 @@
 ﻿---
-title: Ayarlamak görüntüleri python-net aracılığıyla, desteklenen tüm görüntü biçimleri 
+title: Python kullanan Ayarlamak görselleri 
 weight: 3920
 url: /tr/python-net/adjust/ 
 lang: tr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging'i kullanarak, python-net Aracılığıyla kolayca Ayarlamak görüntüleri oluşturabilirsiniz
+description: Kendi Python uygulamalarınızı ve sunucu API'lerinizi kullanarak Aspose.Imaging kitaplığını Ayarlamak görsellerine ve fotoğraflarına uygulama.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="python-net aracılığıyla Ayarlamak görüntü dosyaları" h2="Ayarlamak görselleri" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1="Görsellerde Ayarlamak İşlemi için Python kullanın" h2="Aspose.Imaging Kütüphanesini Kullanarak Kendi Python Uygulamalarınız Üzerinden Ayarlamak Görselleri" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Ayarlamak işlemi Görüntüler için desteklenen tüm biçimler" %}}
+{{% blocks/products/pf/feature-page-section  h2="Ayarlamak işlemini mevcut tüm resim formatlarına uygulayın" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Görüntü kitaplıklarının çoğunun sunduğu temel özelliklerden biri, dijital fotoğraflar için renk düzeltmeleridir. Renk ayarlamaları aşağıdaki gibi birkaç kategori içerir: (1) Parlaklık terimi, bir tonun ne kadar açık veya koyu olduğunu tanımlar. Bir görüntüdeki tüm renkler, parlaklık artırıldığında aydınlatılır ve parlaklık azaltıldığında tüm renkler koyulaşır; (2) Bir görüntüde kontrast olduğunda, içindeki nesneler veya ayrıntılar daha fazla öne çıkar. Kontrast artırıldığında, aydınlık ve karanlık kısımlar arasındaki fark artarak, açık alanlar daha açık ve koyu bölümler daha koyu hale gelir. Daha açık ve daha koyu kısımlar, daha az kontrastla esasen aynı kalacaktır, ancak genel görüntü daha tekdüze görünecektir; (3) Gama, görüntüdeki bir nesneyi aydınlatan dolaylı aydınlatmanın parlaklığını ve kontrastını artırır. Aspose.Imaging, görüntülerin <b>Parlaklık</b>, <b>Gama</b> ve <b>Kontrast</b> ayarlarının yapılmasını destekler.
+Görüntü işleme kütüphanesinin temel işlevlerinden biri dijital görüntülerin ve fotoğrafların renk bilgilerini ayarlamaktır. Renk ayarları çeşitli parametreler içerir: (1) <b>"Parlaklık"</b>, rengin açıklık veya koyuluk derecesini belirtir. Parlaklığın arttırılması görüntüdeki tüm renklerin daha açık olmasına, parlaklığın azaltılması ise daha koyu olmasına neden olur. (2) Görüntünün <b>"Kontrast"ı</b> yüksek olduğunda, içindeki nesneler veya ayrıntılar daha fazla vurgulanır. Kontrastın artırılması, açık ve koyu bölgeler arasındaki ayrımı güçlendirerek açık alanları daha açık, karanlık alanları daha da karanlık hale getirir. Bu süreç boyunca açık ve koyu alanlar göreceli tonlarını korur ancak genel olarak görüntü daha tek biçimli görünür. (3) <b>"Gama"</b>, görüntüdeki veya fotoğraftaki bir nesnenin üzerine düşen dolaylı ışığın parlaklığını ve kontrastını ayarlar. Aspose.Imaging, görüntülerin ve fotoğrafların parlaklığını, gama ve kontrastını ayarlamanıza olanak tanır.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Aspose.Imaging'i kullanarak farklı görüntü formatları için **Ayarlamak** işlemini kolayca uygulayabilirsiniz programlı olarak
+Python için Aspose.Imaging kütüphanesini kullanarak, çeşitli formatlardaki görüntüler ve fotoğraflar için <b>Ayarlamak</b> işlemini programlı olarak kolayca gerçekleştirebilirsiniz.
 </p>
 <h3 style="margin-top:16px;">
-Görüntü biçimlerine göre desteklenen {işlem adı} işlemlerinin tam listesi:
+Ayarlamak işlemi için listeden bir görüntü formatı seçin:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,26 +1,26 @@
 ﻿---
-title: 卡通化 圖片通過 python-net，所有支持的圖片格式 
+title: 使用 Python 的 卡通化 影像 
 weight: 3920
 url: /zh-hant/python-net/cartoonify/ 
 lang: zh-hant
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: 使用 Aspose.Imaging 你可以輕鬆地通過 python-net 獲取 卡通化 圖像
+description: 使用您自己的 Python 應用程式和伺服器 API 將 Aspose.Imaging 庫套用至 卡通化 圖像和照片。
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="圖片文件 卡通化 來自 python-net" h2="卡通化 圖片" downloadText="下載" >}}
+{{< blocks/products/pf/feature-page-header h1="使用 Python 對影像進行 卡通化 操作" h2="使用 Aspose.Imaging 庫透過您自己的 Python 應用程式產生 卡通化 映像" downloadText="下載" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="卡通化 操作的所有支持格式 圖片" %}}
+{{% blocks/products/pf/feature-page-section  h2="將 卡通化 操作套用至所有可用的圖片格式" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-將照片轉換為卡通是許多藝術家常用的操作之一。它有助於在不執行任何繪畫工作的情況下單擊幾下即可獲得卡通照片。想快速將標準圖片變成卡通圖片？在這種情況下，您可以嘗試它在 Aspose.Imaging 庫中的工作原理。
+將照片轉換為卡通風格圖像的過程也稱為卡通化，是設計師用來創建具有類似卡通效果的圖像的流行技術。這種方法可以讓您只需點擊幾下即可達到所需的圖像效果，而不需要繪畫技巧。如果您想快速將常規圖像轉換為卡通風格的圖像，您應該嘗試Aspose.Imaging庫提供的工具。
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-使用 Aspose.Imaging 您可以輕鬆地將 **卡通化** 應用於不同的圖像格式 以編程方式
+使用 Python 的 Aspose.Imaging 庫，您可以透過程式設計輕鬆地對各種格式的圖像和照片執行 <b>卡通化</b> 操作。
 </p>
 <h3 style="margin-top:16px;">
-按圖像格式支持的 卡通化 操作的完整列表：
+從清單中為 卡通化 操作選擇影像格式：
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

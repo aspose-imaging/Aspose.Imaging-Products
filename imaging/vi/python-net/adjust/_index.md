@@ -1,26 +1,26 @@
 ﻿---
-title: hình ảnh Điều chỉnh Qua python-net, tất cả các định dạng hình ảnh được hỗ trợ 
+title: Hình ảnh Điều chỉnh sử dụng Python 
 weight: 3920
 url: /vi/python-net/adjust/ 
 lang: vi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng Điều chỉnh hình ảnh qua python-net
+description: Áp dụng thư viện Aspose.Imaging cho hình ảnh và ảnh Điều chỉnh bằng ứng dụng Python và API máy chủ của riêng bạn.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Tệp hình ảnh Điều chỉnh qua python-net" h2="Điều chỉnh hình ảnh" downloadText="Tải xuống" >}}
+{{< blocks/products/pf/feature-page-header h1="Sử dụng Python cho thao tác Điều chỉnh trên hình ảnh" h2="Hình ảnh Điều chỉnh qua Ứng dụng Python của riêng bạn bằng Thư viện Aspose.Imaging" downloadText="Tải xuống" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tất cả các hình ảnh định dạng được hỗ trợ cho thao tác Điều chỉnh" %}}
+{{% blocks/products/pf/feature-page-section  h2="Áp dụng thao tác Điều chỉnh cho tất cả các định dạng hình ảnh có sẵn" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Một trong những tính năng chính được cung cấp bởi phần lớn các thư viện hình ảnh là hiệu chỉnh màu sắc cho ảnh kỹ thuật số. Điều chỉnh màu bao gồm một số danh mục sau như (1) Thuật ngữ độ sáng mô tả mức độ sáng hoặc tối của màu sắc. Tất cả các màu trong ảnh được chiếu sáng khi tăng độ sáng và tất cả các màu bị tối đi khi giảm độ sáng; (2) Khi một hình ảnh có độ tương phản, các đối tượng hoặc chi tiết bên trong nó sẽ nổi bật hơn. Khi độ tương phản tăng lên, sự khác biệt giữa phần sáng và tối tăng lên, làm cho vùng sáng sáng hơn và vùng tối tối hơn. Các phần sáng hơn và tối hơn về cơ bản sẽ giữ nguyên với độ tương phản ít hơn, nhưng hình ảnh tổng thể sẽ trông đồng nhất hơn; (3) Gamma tăng cường độ sáng và độ tương phản của ánh sáng gián tiếp chiếu sáng một đối tượng trong ảnh. Aspose.Imaging hỗ trợ điều chỉnh <b>Độ sáng</b>, <b>Gamma</b> và <b>Độ tương phản</b> của hình ảnh.
+Một trong những chức năng chính của thư viện xử lý ảnh là điều chỉnh thông tin màu sắc của ảnh và ảnh kỹ thuật số. Cài đặt màu sắc bao gồm nhiều thông số khác nhau: (1) <b>"Độ sáng"</b> cho biết mức độ sáng hoặc tối của màu. Việc tăng độ sáng sẽ làm cho tất cả các màu trong ảnh sáng hơn, còn việc giảm độ sáng sẽ khiến chúng tối hơn. (2) Khi hình ảnh có <b>"Độ tương phản"</b> cao, các đối tượng hoặc chi tiết bên trong hình ảnh sẽ được nhấn mạnh hơn. Việc tăng độ tương phản sẽ khuếch đại sự phân biệt giữa vùng sáng và vùng tối, làm cho vùng sáng trở nên sáng hơn và vùng tối thậm chí còn tối hơn. Trong suốt quá trình này, các vùng sáng và tối duy trì sắc thái tương đối của chúng, nhưng nhìn chung, hình ảnh có vẻ đồng đều hơn. (3) <b>"Gamma"</b> điều chỉnh độ sáng và độ tương phản của ánh sáng gián tiếp chiếu vào một vật thể trong ảnh hoặc ảnh chụp. Aspose.Imaging cho phép điều chỉnh độ sáng, gamma và độ tương phản của hình ảnh và ảnh chụp.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Sử dụng Aspose.Imaging, bạn có thể dễ dàng áp dụng **Điều chỉnh** cho các định dạng hình ảnh khác nhau lập trình
+Bằng cách sử dụng thư viện Aspose.Imaging cho Python, bạn có thể dễ dàng thực hiện thao tác <b>Điều chỉnh</b> đối với hình ảnh và ảnh chụp ở nhiều định dạng khác nhau theo chương trình.
 </p>
 <h3 style="margin-top:16px;">
-Danh sách đầy đủ các thao tác Điều chỉnh được hỗ trợ theo định dạng hình ảnh:
+Chọn định dạng hình ảnh từ danh sách cho thao tác Điều chỉnh:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

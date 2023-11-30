@@ -1,26 +1,26 @@
 ﻿---
-title: Imágenes de caricatura A través de python-net, todos los formatos de imagen admitidos 
+title: Imágenes de caricatura usando Python 
 weight: 3920
 url: /es/python-net/cartoonify/ 
 lang: es
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging puede fácilmente caricatura imágenes a través de python-net
+description: Aplicar la biblioteca Aspose.Imaging a imágenes y fotografías de caricatura utilizando sus propias aplicaciones Python y API de servidor.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Archivos de imagen caricatura a través de python-net" h2="Imágenes de caricatura" downloadText="Descargar" >}}
+{{< blocks/products/pf/feature-page-header h1="Utilice Python para la operación caricatura en imágenes" h2="caricatura Imágenes a través de sus propias aplicaciones Python utilizando la biblioteca Aspose.Imaging" downloadText="Descargar" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos los imágenes formatos admitidos para la operación caricatura" %}}
+{{% blocks/products/pf/feature-page-section  h2="Aplicar la operación caricatura a todos los formatos de imagen disponibles" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-La conversión de fotos a dibujos animados es una de las operaciones comunes utilizadas por muchos artistas. Ayuda a obtener una foto de dibujos animados en unos pocos clics sin realizar ningún trabajo de pintura. ¿Quiere convertir rápidamente una imagen estándar en una imagen de dibujos animados? En este caso, puede probar cómo funciona en la biblioteca Aspose.Imaging.
+El proceso de transformar fotografías en imágenes de estilo caricatura, también conocido como caricaturizar, es una técnica popular utilizada por los diseñadores para crear imágenes con un efecto de caricatura. Este método le permite lograr el efecto de imagen deseado con sólo unos pocos clics, sin necesidad de conocimientos de dibujo. Si desea transformar rápidamente una imagen normal en una imagen de estilo caricatura, debe probar la herramienta proporcionada por la biblioteca Aspose.Imaging.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Usando Aspose.Imaging puede aplicar fácilmente **caricatura** para diferentes formatos de imagen programáticamente
+Usando la biblioteca Aspose.Imaging para Python, puede realizar fácilmente la operación <b>caricatura</b> para imágenes y fotografías de varios formatos mediante programación.
 </p>
 <h3 style="margin-top:16px;">
-Lista completa de operaciones {nombre de operación} admitidas por formatos de imagen:
+Seleccione un formato de imagen de la lista para la operación caricatura:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

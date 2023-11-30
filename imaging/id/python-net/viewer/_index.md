@@ -1,26 +1,26 @@
 ﻿---
-title: gambar Lihat gambar Melalui python-net, semua format gambar yang didukung 
+title: gambar Lihat gambar menggunakan Python 
 weight: 3920
 url: /id/python-net/viewer/ 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Menggunakan Aspose.Imaging Anda dapat dengan mudah Lihat gambar gambar Via python-net
+description: Menerapkan pustaka Aspose.Imaging ke gambar dan foto Lihat gambar menggunakan aplikasi Python dan API server Anda sendiri.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="File gambar Lihat gambar melalui python-net" h2="gambar Lihat gambar" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Gunakan Python untuk Operasi Lihat gambar pada Gambar" h2="Lihat gambar Gambar melalui Aplikasi Python Anda Sendiri Menggunakan Perpustakaan Aspose.Imaging" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Semua gambar-gambar format yang didukung untuk operasi Lihat gambar" %}}
+{{% blocks/products/pf/feature-page-section  h2="Terapkan operasi Lihat gambar ke semua format gambar yang tersedia" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Saat Anda perlu melihat gambar atau foto Anda yang formatnya tidak banyak, Anda dapat dengan mudah mempratinjaunya dikonversi ke format populer. Menggunakan Aspose.Imaging Anda dapat melihat file gambar yang berbeda tanpa menginstal program khusus yang khusus untuk format gambar yang berbeda.
+Jika Anda perlu melihat gambar atau foto dalam format tertentu, Anda dapat dengan mudah mengonversinya ke format yang didukung oleh sistem operasi Anda. Dengan Aspose.Imaging, Anda dapat melihat berbagai macam file gambar dan foto tanpa harus menginstal program khusus untuk setiap format gambar.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Menggunakan Aspose.Imaging Anda dapat dengan mudah menerapkan **Lihat gambar** untuk berbagai format gambar secara terprogram
+Dengan menggunakan pustaka Aspose.Imaging untuk Python, Anda bisa dengan mudah melakukan operasi <b>Lihat gambar</b> untuk gambar dan foto dalam berbagai format secara terprogram.
 </p>
 <h3 style="margin-top:16px;">
-Daftar lengkap operasi Lihat gambar yang didukung menurut format gambar:
+Pilih format gambar dari daftar untuk operasi Lihat gambar:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

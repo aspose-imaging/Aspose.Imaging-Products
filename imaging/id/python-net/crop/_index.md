@@ -1,26 +1,26 @@
 ﻿---
-title: gambar Tanaman Melalui python-net, semua format gambar yang didukung 
+title: gambar Tanaman menggunakan Python 
 weight: 3920
 url: /id/python-net/crop/ 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Menggunakan Aspose.Imaging Anda dapat dengan mudah Tanaman gambar Via python-net
+description: Menerapkan pustaka Aspose.Imaging ke gambar dan foto Tanaman menggunakan aplikasi Python dan API server Anda sendiri.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="File gambar Tanaman melalui python-net" h2="gambar Tanaman" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Gunakan Python untuk Operasi Tanaman pada Gambar" h2="Tanaman Gambar melalui Aplikasi Python Anda Sendiri Menggunakan Perpustakaan Aspose.Imaging" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Semua gambar-gambar format yang didukung untuk operasi Tanaman" %}}
+{{% blocks/products/pf/feature-page-section  h2="Terapkan operasi Tanaman ke semua format gambar yang tersedia" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Pemotongan adalah proses menghilangkan elemen asing dari foto atau ilustrasi. Teknik ini biasanya memerlukan penghilangan sebagian pinggiran gambar untuk menghilangkan informasi visual asing dari foto, menyempurnakan pembingkaiannya, mengubah rasio aspek, atau menekankan atau mengisolasi subjek dari sekelilingnya. Ini dapat dilakukan secara digital dengan menggunakan perangkat lunak pengedit gambar, atau dapat dilakukan pada snapshot nyata, karya seni, atau film, tergantung pada aplikasinya. Industri fotografi, pemrosesan film, penyiaran, desain grafis, dan percetakan semuanya menggunakan pemotongan. Aspose.Imaging memungkinkan Anda memotong gambar dengan berbagai parameter tertentu.
+Memangkas gambar adalah proses menghilangkan bagian yang tidak diperlukan pada gambar atau foto. Sebagai hasil dari operasi pemotongan gambar, sebagian pinggiran gambar dapat dihilangkan untuk menyempurnakan komposisinya, menyesuaikan proporsi, atau memusatkan elemen utama. Untuk mencapai hal ini, Anda dapat menggunakan perangkat lunak pengedit gambar khusus atau menerapkan operasi pemotongan secara terprogram pada gambar, foto, lanskap, atau potret, bergantung pada kebutuhan spesifik Anda. Pemangkasan dapat diterapkan secara luas dalam fotografi, manipulasi foto, produksi video, desain grafis, dan pencetakan. Dengan pustaka Aspose.Imaging, Anda dapat mengotomatiskan pemotongan gambar menggunakan parameter yang dapat disesuaikan.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Menggunakan Aspose.Imaging Anda dapat dengan mudah menerapkan **Tanaman** untuk berbagai format gambar secara terprogram
+Dengan menggunakan pustaka Aspose.Imaging untuk Python, Anda bisa dengan mudah melakukan operasi <b>Tanaman</b> untuk gambar dan foto dalam berbagai format secara terprogram.
 </p>
 <h3 style="margin-top:16px;">
-Daftar lengkap operasi Tanaman yang didukung menurut format gambar:
+Pilih format gambar dari daftar untuk operasi Tanaman:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

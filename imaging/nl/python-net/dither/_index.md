@@ -1,26 +1,26 @@
 ﻿---
-title: Dither afbeeldingen Via python-net, alle ondersteunde afbeeldingsformaten 
+title: Dither afbeeldingen met Python 
 weight: 3920
 url: /nl/python-net/dither/ 
 lang: nl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Met behulp van Aspose.Imaging kunt u eenvoudig Dither afbeeldingen maken via python-net
+description: Aspose.Imaging-bibliotheek toepassen op Dither afbeeldingen en foto's met behulp van uw eigen Python-applicaties en server-API's.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Afbeeldingsbestanden Dither via python-net" h2="Dither afbeeldingen" downloadText="Downloaden" >}}
+{{< blocks/products/pf/feature-page-header h1="Gebruik Python voor bewerking van Dither op afbeeldingen" h2="Dither Afbeeldingen via uw eigen Python-applicaties met behulp van de Aspose.Imaging-bibliotheek" downloadText="Downloaden" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde indelingen voor de bewerking afbeeldingen Dither" %}}
+{{% blocks/products/pf/feature-page-section  h2="Pas de bewerking Dither toe op alle beschikbare afbeeldingsformaten" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-In computergraphics wordt dithering gebruikt om de indruk te wekken van kleurdiepte in afbeeldingen op systemen met een beperkt kleurenpalet. Een diffusie van gekleurde pixels uit het beschikbare palet wordt gebruikt in een gerasterde afbeelding om kleuren te benaderen die niet aanwezig zijn in het palet. De diffusie verschijnt voor het menselijk oog als een vermenging van de kleuren die erin vervat zijn. Dithered foto's zijn vaak te herkennen aan een kenmerkende korreligheid of gespikkeld uiterlijk, vooral bij gebruik van paletten met weinig kleuren. Dithering voegt ruis of een patroon toe aan een afbeelding en het patroon is vaak duidelijk. Het is aangetoond dat onder deze omstandigheden de dithering van blauwe ruis het minst hinderlijk en onaantrekkelijk is. Met Aspose.Imaging kunt u uw afbeeldingen ditheren met een paar algoritmen die u onnodig kunt selecteren.
+Dithering op het gebied van computergraphics wordt door ontwerpers gebruikt om een ​​meer uitgesproken kleureffect te bereiken in systemen met een beperkt kleurenpalet. In een vloeiende afbeelding worden kleurpixels uit het beschikbare palet gebruikt om ontbrekende kleuren te benaderen, waardoor de indruk ontstaat dat kleuren overvloeien. Vaak kunt u in dergelijke foto's een duidelijke korreligheid of stippenpatroon opmerken, vooral als u paletten met een beperkt aantal kleuren gebruikt. De ditherbewerking wordt toegepast om ruis of patronen aan het beeld toe te voegen, en vaak is dit patroon gemakkelijk zichtbaar. Het is aangetoond dat in dergelijke gevallen het gebruik van blauwe ruis voor dithering het meest optimaal is. Aspose.Imaging maakt beeldvereffening mogelijk met behulp van verschillende algoritmen die kunnen worden geselecteerd op basis van uw voorkeuren.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Met Aspose.Imaging kunt u eenvoudig **Dither** toepassen voor verschillende afbeeldingsformaten programmatisch
+Met behulp van de Aspose.Imaging-bibliotheek voor Python kunt u eenvoudig de bewerking <b>Dither</b> programmatisch uitvoeren voor afbeeldingen en foto's van verschillende formaten.
 </p>
 <h3 style="margin-top:16px;">
-Volledige lijst met ondersteunde Dither-bewerkingen per afbeeldingsindeling:
+Selecteer een afbeeldingsformaat uit de lijst voor de bewerking Dither:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

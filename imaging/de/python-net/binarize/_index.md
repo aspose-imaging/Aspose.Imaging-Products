@@ -1,26 +1,26 @@
 ﻿---
-title: Binarisieren-Bilder Über python-net alle unterstützten Bildformate 
+title: Binarisieren-Bilder mit Python 
 weight: 3920
 url: /de/python-net/binarize/ 
 lang: de
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Mit Aspose.Imaging können Sie ganz einfach Binarisieren Bilder über python-net
+description: Anwenden der Aspose.Imaging-Bibliothek auf Binarisieren-Bilder und Fotos mithilfe Ihrer eigenen Python-Anwendungen und Server-APIs.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Bilddateien Binarisieren über python-net" h2="Binarisieren Bilder" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Verwenden Sie Python für den Vorgang Binarisieren für Bilder" h2="Binarisieren-Bilder über Ihre eigenen Python-Anwendungen mithilfe der Aspose.Imaging-Bibliothek" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bilder Formate für den Vorgang Binarisieren" %}}
+{{% blocks/products/pf/feature-page-section  h2="Wenden Sie den Vorgang Binarisieren auf alle verfügbaren Bildformate an" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Vorder- und Hintergrund eines Bildes werden mithilfe einer Technik namens Bildschwellenwertbildung getrennt. Bei dieser Methode werden die Pixelwerte entsprechend den vorgegebenen Schwellenwerten zugewiesen. Graustufenbilder werden in der Computer Vision mit einem Schwellenwert versehen. Eine der bekanntesten Methoden ist die Binarisierung von <b>Otsu</b> und von <b>Bradley</b>. Aspose.Imaging unterstützt beide Algorithmen. Mithilfe dieser Algorithmen können Ihre Bilder mit Schwellenwert in Schwarzweißbilder umgewandelt werden.
+Bei der Verarbeitung von Bildern wird eine Methode namens Binarisierung angewendet, um das Bild mithilfe eines festgelegten Schwellenwerts in ein Schwarzweißformat umzuwandeln. Bei dieser Methode werden Pixelwerte basierend auf dem angegebenen Schwellenwert zugewiesen. Bei der Arbeit mit Graustufenbildern ist es wichtig, einen Schwellenwert für die Trennung von Objekten mithilfe der Computer-Vision-Technologie festzulegen. Es stehen verschiedene Konvertierungsmethoden zur Verfügung, beispielsweise die Binarisierung mit der <b>Otsu</b>- und der <b>Bradley</b>-Methode, die beide von Aspose.Imaging unterstützt werden. Mithilfe dieser Algorithmen können Sie Ihre Bilder mit einem bestimmten Schwellenwert in Schwarzweiß umwandeln.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Mit Aspose.Imaging können Sie ganz einfach **Binarisieren** für verschiedene Bildformate anwenden programmatisch
+Mit der Aspose.Imaging-Bibliothek für Python können Sie den Vorgang <b>Binarisieren</b> problemlos programmgesteuert für Bilder und Fotos verschiedener Formate ausführen.
 </p>
 <h3 style="margin-top:16px;">
-Vollständige Liste der unterstützten Binarisieren-Vorgänge nach Bildformaten:
+Wählen Sie ein Bildformat aus der Liste für den Vorgang Binarisieren aus:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

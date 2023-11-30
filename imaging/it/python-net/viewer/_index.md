@@ -1,26 +1,26 @@
 ﻿---
-title: Guarda l'immagine immagini Tramite python-net, tutti i formati immagine supportati 
+title: Immagini Guarda l'immagine utilizzando Python 
 weight: 3920
 url: /it/python-net/viewer/ 
 lang: it
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging puoi facilmente Guarda l'immagine immagini tramite python-net
+description: Applicazione della libreria Aspose.Imaging alle immagini e alle foto di Guarda l'immagine utilizzando le tue applicazioni Python e le API del server.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="File immagine Guarda l'immagine tramite python-net" h2="Guarda l'immagine immagini" downloadText="Scarica" >}}
+{{< blocks/products/pf/feature-page-header h1="Utilizza Python per l'operazione Guarda l'immagine sulle immagini" h2="Immagini Guarda l'immagine tramite le tue applicazioni Python utilizzando la libreria Aspose.Imaging" downloadText="Scarica" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tutti i immagini formati supportati per l'operazione Guarda l'immagine" %}}
+{{% blocks/products/pf/feature-page-section  h2="Applica l'operazione Guarda l'immagine a tutti i formati di immagine disponibili" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Quando hai bisogno di visualizzare la tua immagine o foto che non ha un formato molto popolato, puoi facilmente visualizzarla in anteprima convertita in un formato popolare. Utilizzando Aspose.Imaging è possibile visualizzare diversi file di immagine senza installare programmi speciali specifici per diversi formati di immagine.
+Se devi visualizzare un'immagine o una foto in un formato particolare, puoi convertirla facilmente nel formato supportato dal tuo sistema operativo. Con Aspose.Imaging è possibile visualizzare un'ampia gamma di file di immagini e foto senza dover installare programmi specifici per ciascun formato di immagine.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Usando Aspose.Imaging puoi facilmente applicare **Guarda l'immagine** per diversi formati di immagine programmaticamente
+Utilizzando la libreria Aspose.Imaging per Python, puoi facilmente eseguire l'operazione <b>Guarda l'immagine</b> per immagini e foto di vari formati a livello di codice.
 </p>
 <h3 style="margin-top:16px;">
-Elenco completo delle operazioni Guarda l'immagine supportate per formati immagine:
+Seleziona un formato immagine dall'elenco per l'operazione Guarda l'immagine:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

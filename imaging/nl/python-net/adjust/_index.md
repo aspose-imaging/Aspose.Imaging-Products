@@ -1,26 +1,26 @@
 ﻿---
-title: Aanpassen afbeeldingen Via python-net, alle ondersteunde afbeeldingsformaten 
+title: Aanpassen afbeeldingen met Python 
 weight: 3920
 url: /nl/python-net/adjust/ 
 lang: nl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Met behulp van Aspose.Imaging kunt u eenvoudig Aanpassen afbeeldingen maken via python-net
+description: Aspose.Imaging-bibliotheek toepassen op Aanpassen afbeeldingen en foto's met behulp van uw eigen Python-applicaties en server-API's.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Afbeeldingsbestanden Aanpassen via python-net" h2="Aanpassen afbeeldingen" downloadText="Downloaden" >}}
+{{< blocks/products/pf/feature-page-header h1="Gebruik Python voor bewerking van Aanpassen op afbeeldingen" h2="Aanpassen Afbeeldingen via uw eigen Python-applicaties met behulp van de Aspose.Imaging-bibliotheek" downloadText="Downloaden" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde indelingen voor de bewerking afbeeldingen Aanpassen" %}}
+{{% blocks/products/pf/feature-page-section  h2="Pas de bewerking Aanpassen toe op alle beschikbare afbeeldingsformaten" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Een van de belangrijkste functies die door de meeste beeldbibliotheken worden aangeboden, zijn kleurcorrecties voor digitale foto's. Kleuraanpassingen bevatten de volgende categorieën, zoals (1) De term helderheid beschrijft hoe licht of donker een tint is. Alle kleuren in een afbeelding worden verlicht wanneer de helderheid wordt verhoogd en alle kleuren worden donkerder wanneer de helderheid wordt verlaagd; (2) Wanneer een afbeelding contrast heeft, vallen de objecten of details erin meer op. Wanneer het contrast wordt vergroot, wordt het verschil tussen de lichte en donkere delen groter, waardoor de lichte delen lichter worden en de donkere delen donkerder. Lichtere en donkere delen blijven in wezen hetzelfde met minder contrast, maar het algehele beeld ziet er uniformer uit; (3) Gamma verbetert de helderheid en het contrast van de indirecte verlichting die een object in het beeld verlicht. Aspose.Imaging ondersteunt het aanpassen van <b>Helderheid</b>, <b>Gamma</b> en <b>Contrast</b> van afbeeldingen.
+Een van de belangrijkste functies van de beeldverwerkingsbibliotheek is het aanpassen van de kleurinformatie van digitale afbeeldingen en foto's. De kleurinstellingen omvatten verschillende parameters: (1) <b>"Helderheid"</b> geeft de mate van lichtheid of donkerheid van de kleur aan. Het verhogen van de helderheid maakt alle kleuren in de afbeelding lichter, terwijl het verlagen van de helderheid ze donkerder maakt. (2) Wanneer de afbeelding een hoog <b>"Contrast"</b> heeft, worden objecten of details erin meer benadrukt. Door het contrast te vergroten wordt het onderscheid tussen lichte en donkere gebieden versterkt, waardoor lichte gebieden nog lichter en donkere gebieden nog donkerder worden. Tijdens dit proces behouden lichte en donkere gebieden hun relatieve tinten, maar over het algemeen ziet het beeld er uniformer uit. (3) <b>"Gamma"</b> past de helderheid en het contrast aan van indirect licht dat op een object in de afbeelding of foto valt. Met Aspose.Imaging kunt u de helderheid, het gamma en het contrast van afbeeldingen en foto's aanpassen.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Met Aspose.Imaging kunt u eenvoudig **Aanpassen** toepassen voor verschillende afbeeldingsformaten programmatisch
+Met behulp van de Aspose.Imaging-bibliotheek voor Python kunt u eenvoudig de bewerking <b>Aanpassen</b> programmatisch uitvoeren voor afbeeldingen en foto's van verschillende formaten.
 </p>
 <h3 style="margin-top:16px;">
-Volledige lijst met ondersteunde Aanpassen-bewerkingen per afbeeldingsindeling:
+Selecteer een afbeeldingsformaat uit de lijst voor de bewerking Aanpassen:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,26 +1,26 @@
 ﻿---
-title: hình ảnh Chữ ký ảnh Qua python-net, tất cả các định dạng hình ảnh được hỗ trợ 
+title: Hình ảnh Chữ ký ảnh sử dụng Python 
 weight: 3920
 url: /vi/python-net/watermark/ 
 lang: vi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng Chữ ký ảnh hình ảnh qua python-net
+description: Áp dụng thư viện Aspose.Imaging cho hình ảnh và ảnh Chữ ký ảnh bằng ứng dụng Python và API máy chủ của riêng bạn.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Tệp hình ảnh Chữ ký ảnh qua python-net" h2="Chữ ký ảnh hình ảnh" downloadText="Tải xuống" >}}
+{{< blocks/products/pf/feature-page-header h1="Sử dụng Python cho thao tác Chữ ký ảnh trên hình ảnh" h2="Hình ảnh Chữ ký ảnh qua Ứng dụng Python của riêng bạn bằng Thư viện Aspose.Imaging" downloadText="Tải xuống" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tất cả các hình ảnh định dạng được hỗ trợ cho thao tác Chữ ký ảnh" %}}
+{{% blocks/products/pf/feature-page-section  h2="Áp dụng thao tác Chữ ký ảnh cho tất cả các định dạng hình ảnh có sẵn" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Hình mờ kỹ thuật số là một loại đánh dấu được kết hợp một cách tinh vi vào tín hiệu có thể chịu được nhiễu, chẳng hạn như dữ liệu âm thanh, video hoặc hình ảnh. Nó thường được sử dụng để thiết lập ai sở hữu bản quyền đối với một tín hiệu nhất định. Việc thực hành watermarking liên quan đến việc mã hóa dữ liệu kỹ thuật số thành tín hiệu sóng mang; dữ liệu được che giấu, nhưng không nhất thiết phải liên quan đến tín hiệu sóng mang. Tính hợp pháp hoặc tính toàn vẹn của tín hiệu sóng mang có thể được xác nhận bằng cách sử dụng hình mờ kỹ thuật số và danh tính của chủ sở hữu cũng có thể bị tiết lộ. Nó thường được sử dụng để xác thực tiền giấy và theo dõi vi phạm bản quyền. Sử dụng Aspose.Imaging, bạn có thể dễ dàng thêm hình mờ của mình vào hình ảnh đã chọn mà không cần nhiều mã.
+Hình mờ kỹ thuật số là một loại đánh dấu bán trong suốt duy nhất được áp dụng cho hình ảnh và vẫn hiển thị ngay cả khi hình ảnh được sửa đổi. Kỹ thuật tạo hình mờ thường được sử dụng để biểu thị quyền sở hữu hoặc nguồn của một hình ảnh cụ thể. Hình mờ thường được sử dụng để xác minh tính xác thực của sản phẩm kỹ thuật số hoặc bảo vệ chống vi phạm bản quyền. Với Aspose.Imaging, bạn có thể dễ dàng thêm hình mờ tùy chỉnh của riêng mình vào bất kỳ hình ảnh đã chọn nào mà không cần mã hóa phức tạp hoặc phần mềm chuyên dụng.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Sử dụng Aspose.Imaging, bạn có thể dễ dàng áp dụng **Chữ ký ảnh** cho các định dạng hình ảnh khác nhau lập trình
+Bằng cách sử dụng thư viện Aspose.Imaging cho Python, bạn có thể dễ dàng thực hiện thao tác <b>Chữ ký ảnh</b> đối với hình ảnh và ảnh chụp ở nhiều định dạng khác nhau theo chương trình.
 </p>
 <h3 style="margin-top:16px;">
-Danh sách đầy đủ các thao tác Chữ ký ảnh được hỗ trợ theo định dạng hình ảnh:
+Chọn định dạng hình ảnh từ danh sách cho thao tác Chữ ký ảnh:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

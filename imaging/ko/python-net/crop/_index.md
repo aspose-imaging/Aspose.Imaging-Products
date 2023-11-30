@@ -1,26 +1,26 @@
 ﻿---
-title: 수확고 이미지 python-net을 통해 지원되는 모든 이미지 형식 
+title: Python을 사용하는 수확고 이미지 
 weight: 3920
 url: /ko/python-net/crop/ 
 lang: ko
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging을 사용하면 python-net을 통해 쉽게 수확고 이미지를 만들 수 있습니다.
+description: 자체 Python 애플리케이션 및 서버 API를 사용하여 Aspose.Imaging 라이브러리를 수확고 이미지 및 사진에 적용합니다.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="python-net을 통한 이미지 파일 수확고" h2="{작업 이름} 이미지" downloadText="다운로드" >}}
+{{< blocks/products/pf/feature-page-header h1="이미지에 대한 수확고 작업에 Python 사용" h2="Aspose.Imaging 라이브러리를 사용하여 자체 Python 애플리케이션을 통한 수확고 이미지" downloadText="다운로드" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="수확고 작업에 대해 지원되는 모든 형식 이미지" %}}
+{{% blocks/products/pf/feature-page-section  h2="사용 가능한 모든 이미지 형식에 수확고 작업을 적용합니다." %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-자르기는 사진이나 그림에서 불필요한 요소를 제거하는 과정입니다. 이 기술은 일반적으로 사진에서 불필요한 시각적 정보를 제거하고, 프레임을 강화하고, 종횡비를 변경하고, 피사체를 주변에서 강조하거나 분리하기 위해 이미지 주변부의 일부를 제거하는 것을 수반합니다. 이것은 이미지 편집 소프트웨어를 사용하여 디지털 방식으로 수행하거나 응용 프로그램에 따라 실제 스냅샷, 예술 작품 또는 필름에서 수행할 수 있습니다. 사진, 필름 처리, 방송, 그래픽 디자인 및 인쇄 산업은 모두 자르기를 사용합니다. Aspose.Imaging을 사용하면 지정된 다양한 매개변수로 이미지를 자를 수 있습니다.
+이미지 자르기는 이미지나 사진에서 불필요한 부분을 제거하는 과정입니다. 이미지 자르기 작업의 결과로 이미지 주변의 일부를 제거하여 구성을 개선하거나 비율을 조정하거나 주요 요소를 중앙에 배치할 수 있습니다. 이를 달성하려면 특정 요구 사항에 따라 특수 이미지 편집 소프트웨어를 활용하거나 프로그래밍 방식으로 이미지, 사진, 풍경 또는 인물 사진에 자르기 작업을 적용할 수 있습니다. 자르기는 사진, 사진 조작, 비디오 제작, 그래픽 디자인 및 인쇄 분야에서 광범위한 응용 분야를 찾습니다. Aspose.Imaging 라이브러리를 사용하면 사용자 정의 가능한 매개변수를 사용하여 이미지 자르기를 자동화할 수 있습니다.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Aspose.Imaging을 사용하면 다양한 이미지 형식에 **수확고** 을(를) 쉽게 적용할 수 있습니다 프로그래밍 방식으로. 
+Python용 Aspose.Imaging 라이브러리를 사용하면 다양한 형식의 이미지와 사진에 대한 <b>수확고</b> 작업을 프로그래밍 방식으로 쉽게 수행할 수 있습니다.
 </p>
 <h3 style="margin-top:16px;">
-이미지 형식별로 지원되는 수확고 작업의 전체 목록:
+수확고 작업에 대한 목록에서 이미지 형식을 선택하세요.
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

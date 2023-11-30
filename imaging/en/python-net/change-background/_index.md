@@ -1,26 +1,26 @@
 ﻿---
-title: Change background images Via python-net, all supported image formats 
+title: Change background images using Python 
 weight: 3920
 url: /python-net/change-background/ 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Using Aspose.Imaging you can easily Change background images Via python-net
+description: Applying Aspose.Imaging library to Change background images and photos using your own Python applications and server APIs.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Image files Change background via python-net" h2="Change background images" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Use Python for Change background Operation on Images" h2="Change background Images via Your Own Python Applications Using the Aspose.Imaging Library" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="All supported image formats for Change background operation" %}}
+{{% blocks/products/pf/feature-page-section  h2="Apply the Change background operation to all available image formats" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Change background is one of most common operations needed to process your photos or images. You can easily remove background from one your photo and put foreground object onto another using Aspose.Imaging. Also you can recognize foreground object and detect it if needed. As a result you may obtain transparent background and process as you need.
+Changing the background is a frequently performed task in image and photo editing. By using Aspose.Imaging, you can easily separate the foreground object from the background in a photo, either automatically or manually, and then place it onto another image. Additionally, the Cloud API allows you to identify the foreground object and remove the background if needed. This enables you to obtain an object with a transparent background and replace the original background with a different one.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Using Aspose.Imaging you can easily apply <b>Change background</b> for different image formats programmatically
+Using the Aspose.Imaging library for Python, you can easily perform the <b>Change background</b> operation for images and photos of various formats programmatically.
 </p>
 <h3 style="margin-top:16px;">
-Full list of supported Change background operations by image formats:
+Select an image format from the list for the Change background operation:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

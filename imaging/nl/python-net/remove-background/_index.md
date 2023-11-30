@@ -1,26 +1,26 @@
 ﻿---
-title: Verwijder achtergrond afbeeldingen Via python-net, alle ondersteunde afbeeldingsformaten 
+title: Verwijder achtergrond afbeeldingen met Python 
 weight: 3920
 url: /nl/python-net/remove-background/ 
 lang: nl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Met behulp van Aspose.Imaging kunt u eenvoudig Verwijder achtergrond afbeeldingen maken via python-net
+description: Aspose.Imaging-bibliotheek toepassen op Verwijder achtergrond afbeeldingen en foto's met behulp van uw eigen Python-applicaties en server-API's.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Afbeeldingsbestanden Verwijder achtergrond via python-net" h2="Verwijder achtergrond afbeeldingen" downloadText="Downloaden" >}}
+{{< blocks/products/pf/feature-page-header h1="Gebruik Python voor bewerking van Verwijder achtergrond op afbeeldingen" h2="Verwijder achtergrond Afbeeldingen via uw eigen Python-applicaties met behulp van de Aspose.Imaging-bibliotheek" downloadText="Downloaden" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde indelingen voor de bewerking afbeeldingen Verwijder achtergrond" %}}
+{{% blocks/products/pf/feature-page-section  h2="Pas de bewerking Verwijder achtergrond toe op alle beschikbare afbeeldingsformaten" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Achtergrond verwijderen is een bewerking waarmee u eenvoudig de achtergrond van uw foto's of afbeeldingen kunt verwijderen. Als resultaat van het verwijderen van de achtergrond kunt u een transparante achtergrond verkrijgen en de voorgrond naar een andere achtergrond verplaatsen. Met behulp van Aspose.Imaging kunt u verschillende algoritmen voor het verwijderen van de achtergrond proberen die aan uw behoeften voor verschillende afbeeldingen kunnen voldoen.
+Met de achtergrondverwijderingsbewerking kunt u moeiteloos de achtergrond van foto's of afbeeldingen verwijderen. Dit proces resulteert in objecten zoals menselijke figuren met een transparante achtergrond. Vervolgens kunt u deze objecten eenvoudig overbrengen naar een andere afbeelding met een andere achtergrond. Door Aspose.Imaging te gebruiken, heeft u de mogelijkheid om te experimenteren met verschillende algoritmen voor achtergrondverwijdering die geschikt zijn voor verschillende soorten afbeeldingen, afhankelijk van de complexiteit van uw taak.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Met Aspose.Imaging kunt u eenvoudig **Verwijder achtergrond** toepassen voor verschillende afbeeldingsformaten programmatisch
+Met behulp van de Aspose.Imaging-bibliotheek voor Python kunt u eenvoudig de bewerking <b>Verwijder achtergrond</b> programmatisch uitvoeren voor afbeeldingen en foto's van verschillende formaten.
 </p>
 <h3 style="margin-top:16px;">
-Volledige lijst met ondersteunde Verwijder achtergrond-bewerkingen per afbeeldingsindeling:
+Selecteer een afbeeldingsformaat uit de lijst voor de bewerking Verwijder achtergrond:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

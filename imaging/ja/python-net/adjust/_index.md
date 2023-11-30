@@ -1,26 +1,26 @@
 ﻿---
-title: 調整 画像 python-net 経由、サポートされているすべての画像形式 
+title: Python を使用した 調整 イメージ 
 weight: 3920
 url: /ja/python-net/adjust/ 
 lang: ja
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging を使用すると、python-net 経由で簡単に 調整 イメージを作成できます
+description: 独自の Python アプリケーションとサーバー API を使用して、Aspose.Imaging ライブラリを 調整 の画像と写真に適用します。
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="python-net経由の画像ファイル調整" h2="{操作名} 画像" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1="画像に対する 調整 オペレーションには Python を使用します" h2="Aspose.Imaging ライブラリを使用した独自の Python アプリケーションによる 調整 イメージ" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="調整 操作でサポートされているすべての形式 画像" %}}
+{{% blocks/products/pf/feature-page-section  h2="調整 オペレーションを使用可能なすべての画像形式に適用します" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-大多数の画像ライブラリが提供する主な機能の 1 つは、デジタル写真の色補正です。カラー調整には次のようないくつかのカテゴリがあります。 (1) 明るさという用語は、色相がどの程度明るいか暗いかを表します。明るさが増加すると画像内のすべての色が明るくなり、明るさが減少するとすべての色が暗くなります。 (2) 画像にコントラストがあると、その中のオブジェクトや細部がより際立ちます。コントラストを上げると、明るい部分と暗い部分の差が大きくなり、明るい部分は明るく、暗い部分は暗くなります。明るい部分と暗い部分は本質的に同じままで、コントラストは低くなりますが、画像全体はより均一に見えます。 (3) ガンマは、画像内のオブジェクトを照らす間接照明の明るさとコントラストを高めます。 Aspose.Imaging は、 画像の<b>明るさ</b>、<b>ガンマ</b>、 <b>コントラスト</b>の調整をサポートしています。
+画像処理ライブラリの主な機能の 1 つは、デジタル画像や写真の色情報を調整することです。色の設定にはさまざまなパラメータが含まれます。 (1) <b>「明るさ」</b> は、色の明暗の度合いを示します。明るさを増やすと画像内のすべての色が明るくなり、明るさを下げると暗くなります。 (2) 画像の<b>「コントラスト」</b> が高い場合、画像内のオブジェクトや細部がより強調されます。コントラストを高めると、明るい領域と暗い領域の区別が強調され、明るい領域がさらに明るくなり、暗い領域がさらに暗くなります。このプロセス全体を通じて、明るい部分と暗い部分は相対的な色合いを維持しますが、全体的には画像がより均一に見えます。 (3) <b>「ガンマ」</b> は、画像または写真内のオブジェクトに当たる間接照明の明るさとコントラストを調整します。 Aspose.Imaging を使用すると、画像や写真の明るさ、ガンマ、コントラストを調整できます。
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Aspose.Imaging を使用すると、さまざまな画像フォーマットに **調整** を簡単に適用できます プログラム的に
+Python の Aspose.Imaging ライブラリを使用すると、さまざまな形式の画像や写真に対する <b>調整</b> 操作をプログラムで簡単に実行できます。
 </p>
 <h3 style="margin-top:16px;">
-画像形式ごとにサポートされている 調整 操作の完全なリスト:
+調整 オペレーションのリストから画像形式を選択します。
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

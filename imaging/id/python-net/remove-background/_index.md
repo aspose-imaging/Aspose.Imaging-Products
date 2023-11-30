@@ -1,26 +1,26 @@
 ﻿---
-title: gambar Hapus latar belakang Melalui python-net, semua format gambar yang didukung 
+title: gambar Hapus latar belakang menggunakan Python 
 weight: 3920
 url: /id/python-net/remove-background/ 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Menggunakan Aspose.Imaging Anda dapat dengan mudah Hapus latar belakang gambar Via python-net
+description: Menerapkan pustaka Aspose.Imaging ke gambar dan foto Hapus latar belakang menggunakan aplikasi Python dan API server Anda sendiri.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="File gambar Hapus latar belakang melalui python-net" h2="gambar Hapus latar belakang" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Gunakan Python untuk Operasi Hapus latar belakang pada Gambar" h2="Hapus latar belakang Gambar melalui Aplikasi Python Anda Sendiri Menggunakan Perpustakaan Aspose.Imaging" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Semua gambar-gambar format yang didukung untuk operasi Hapus latar belakang" %}}
+{{% blocks/products/pf/feature-page-section  h2="Terapkan operasi Hapus latar belakang ke semua format gambar yang tersedia" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Hapus latar belakang adalah operasi yang memungkinkan Anda menghapus latar belakang dengan mudah dari foto atau gambar Anda. Sebagai hasil dari penghapusan latar belakang, Anda dapat memperoleh latar belakang transparan dan meletakkan latar depan ke latar belakang lain. Menggunakan Aspose.Imaging Anda dapat mencoba berbagai algoritme penghapusan latar belakang yang mungkin sesuai dengan kebutuhan Anda untuk gambar yang berbeda.
+Dengan menggunakan operasi penghapusan latar belakang, Anda dapat dengan mudah menghapus latar belakang dari foto atau gambar. Proses ini menghasilkan objek seperti sosok manusia dengan latar belakang transparan. Selanjutnya, Anda dapat dengan mudah mentransfer objek tersebut ke gambar lain dengan latar belakang berbeda. Dengan memanfaatkan Aspose.Imaging, Anda memiliki kemampuan untuk bereksperimen dengan berbagai algoritme penghapusan latar belakang yang cocok untuk berbagai jenis gambar, bergantung pada kompleksitas tugas Anda.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Menggunakan Aspose.Imaging Anda dapat dengan mudah menerapkan **Hapus latar belakang** untuk berbagai format gambar secara terprogram
+Dengan menggunakan pustaka Aspose.Imaging untuk Python, Anda bisa dengan mudah melakukan operasi <b>Hapus latar belakang</b> untuk gambar dan foto dalam berbagai format secara terprogram.
 </p>
 <h3 style="margin-top:16px;">
-Daftar lengkap operasi Hapus latar belakang yang didukung menurut format gambar:
+Pilih format gambar dari daftar untuk operasi Hapus latar belakang:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

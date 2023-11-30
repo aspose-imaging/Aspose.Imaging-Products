@@ -1,26 +1,26 @@
 ﻿---
-title: Bijsnijden afbeeldingen Via python-net, alle ondersteunde afbeeldingsformaten 
+title: Bijsnijden afbeeldingen met Python 
 weight: 3920
 url: /nl/python-net/crop/ 
 lang: nl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Met behulp van Aspose.Imaging kunt u eenvoudig Bijsnijden afbeeldingen maken via python-net
+description: Aspose.Imaging-bibliotheek toepassen op Bijsnijden afbeeldingen en foto's met behulp van uw eigen Python-applicaties en server-API's.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Afbeeldingsbestanden Bijsnijden via python-net" h2="Bijsnijden afbeeldingen" downloadText="Downloaden" >}}
+{{< blocks/products/pf/feature-page-header h1="Gebruik Python voor bewerking van Bijsnijden op afbeeldingen" h2="Bijsnijden Afbeeldingen via uw eigen Python-applicaties met behulp van de Aspose.Imaging-bibliotheek" downloadText="Downloaden" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde indelingen voor de bewerking afbeeldingen Bijsnijden" %}}
+{{% blocks/products/pf/feature-page-section  h2="Pas de bewerking Bijsnijden toe op alle beschikbare afbeeldingsformaten" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Bijsnijden is het proces waarbij vreemde elementen uit een foto of illustratie worden verwijderd. De techniek omvat meestal het verwijderen van een deel van de omtrek van een afbeelding om externe visuele informatie van de foto te verwijderen, de kadrering te verbeteren, de beeldverhouding te wijzigen of het onderwerp te benadrukken of te isoleren van zijn omgeving. Dit kan digitaal worden gedaan door gebruik te maken van beeldbewerkingssoftware, of het kan worden gedaan op een echte foto, een kunstwerk of een film, afhankelijk van de toepassing. De fotografie-, filmverwerkings-, omroep-, grafische ontwerp- en grafische industrie gebruiken allemaal bijsnijden. Met Aspose.Imaging kunt u afbeeldingen bijsnijden met gespecificeerde verschillende parameters.
+Afbeeldingen bijsnijden is het proces waarbij onnodige delen uit afbeeldingen of foto's worden verwijderd. Als gevolg van het bijsnijden van de afbeelding kan een deel van de omtrek van de afbeelding worden verwijderd om de compositie te verbeteren, de verhoudingen aan te passen of het hoofdelement te centreren. Om dit te bereiken kunt u gespecialiseerde beeldbewerkingssoftware gebruiken of programmatisch bijsnijden toepassen op de afbeeldingen, foto's, landschappen of portretten, afhankelijk van uw specifieke vereisten. Bijsnijden vindt uitgebreide toepassingen in fotografie, fotomanipulatie, videoproductie, grafisch ontwerp en afdrukken. Met de Aspose.Imaging-bibliotheek kunt u het bijsnijden van afbeeldingen automatiseren met behulp van aanpasbare parameters.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Met Aspose.Imaging kunt u eenvoudig **Bijsnijden** toepassen voor verschillende afbeeldingsformaten programmatisch
+Met behulp van de Aspose.Imaging-bibliotheek voor Python kunt u eenvoudig de bewerking <b>Bijsnijden</b> programmatisch uitvoeren voor afbeeldingen en foto's van verschillende formaten.
 </p>
 <h3 style="margin-top:16px;">
-Volledige lijst met ondersteunde Bijsnijden-bewerkingen per afbeeldingsindeling:
+Selecteer een afbeeldingsformaat uit de lijst voor de bewerking Bijsnijden:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

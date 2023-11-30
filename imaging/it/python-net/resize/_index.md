@@ -1,26 +1,26 @@
 ﻿---
-title: Ridimensiona immagini Tramite python-net, tutti i formati immagine supportati 
+title: Immagini Ridimensiona utilizzando Python 
 weight: 3920
 url: /it/python-net/resize/ 
 lang: it
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging puoi facilmente Ridimensiona immagini tramite python-net
+description: Applicazione della libreria Aspose.Imaging alle immagini e alle foto di Ridimensiona utilizzando le tue applicazioni Python e le API del server.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="File immagine Ridimensiona tramite python-net" h2="Ridimensiona immagini" downloadText="Scarica" >}}
+{{< blocks/products/pf/feature-page-header h1="Utilizza Python per l'operazione Ridimensiona sulle immagini" h2="Immagini Ridimensiona tramite le tue applicazioni Python utilizzando la libreria Aspose.Imaging" downloadText="Scarica" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tutti i immagini formati supportati per l'operazione Ridimensiona" %}}
+{{% blocks/products/pf/feature-page-section  h2="Applica l'operazione Ridimensiona a tutti i formati di immagine disponibili" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Puoi ridimensionare un'immagine per ingrandirla o rimpicciolirla senza dover rimuovere alcun contenuto. Le dimensioni dell'immagine vengono modificate quando viene ridimensionata, il che spesso ha un impatto sulla dimensione del file e sulla qualità dell'immagine. Ridurre le dimensioni di immagini enormi per renderle più facili da inviare via e-mail o condividere online è la giustificazione più diffusa per ridurre le foto. Le immagini di grafica raster devono essere ridimensionate creando una nuova immagine con più o meno pixel. Aspose.Imaging consente agli utenti diversi algoritmi di ridimensionamento che consentono di scegliere quelli necessari.
+Con Aspose.Imaging, puoi ridimensionare immagini o foto senza perdere informazioni visive. Quando si regolano le dimensioni dell'immagine, il peso del file cambia, il che può portare a una perdita di qualità. Ridurre la dimensione delle immagini è il modo principale per inviarle rapidamente tramite e-mail o scaricarle rapidamente da un sito Internet. Quando si ridimensionano le immagini raster, viene creata una nuova immagine con meno o più pixel, ovvero l'immagine viene ridimensionata. Aspose.Imaging fornisce vari algoritmi di ridimensionamento, consentendoti di scegliere quello più adatto per un'attività specifica.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Usando Aspose.Imaging puoi facilmente applicare **Ridimensiona** per diversi formati di immagine programmaticamente
+Utilizzando la libreria Aspose.Imaging per Python, puoi facilmente eseguire l'operazione <b>Ridimensiona</b> per immagini e foto di vari formati a livello di codice.
 </p>
 <h3 style="margin-top:16px;">
-Elenco completo delle operazioni Ridimensiona supportate per formati immagine:
+Seleziona un formato immagine dall'elenco per l'operazione Ridimensiona:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

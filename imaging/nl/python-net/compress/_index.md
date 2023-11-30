@@ -1,27 +1,26 @@
 ﻿---
-title: Samenpersen afbeeldingen Via python-net, alle ondersteunde afbeeldingsformaten 
+title: Samenpersen afbeeldingen met Python 
 weight: 3920
 url: /nl/python-net/compress/ 
 lang: nl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Met behulp van Aspose.Imaging kunt u eenvoudig Samenpersen afbeeldingen maken via python-net
+description: Aspose.Imaging-bibliotheek toepassen op Samenpersen afbeeldingen en foto's met behulp van uw eigen Python-applicaties en server-API's.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Afbeeldingsbestanden Samenpersen via python-net" h2="Samenpersen afbeeldingen" downloadText="Downloaden" >}}
+{{< blocks/products/pf/feature-page-header h1="Gebruik Python voor bewerking van Samenpersen op afbeeldingen" h2="Samenpersen Afbeeldingen via uw eigen Python-applicaties met behulp van de Aspose.Imaging-bibliotheek" downloadText="Downloaden" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde indelingen voor de bewerking afbeeldingen Samenpersen" %}}
+{{% blocks/products/pf/feature-page-section  h2="Pas de bewerking Samenpersen toe op alle beschikbare afbeeldingsformaten" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Beeldcompressie is een soort gegevenscompressie die wordt gebruikt om de kosten voor het opslaan of verzenden van digitale foto's te verlagen. In vergelijking met algemene datacompressietechnieken die worden gebruikt voor andere digitale data, kunnen algoritmen baat hebben bij visuele perceptie en de statistische kenmerken van beelddata.
-Met Aspose.Imaging kunt u verschillende afbeeldingstypen comprimeren die aan bijna al uw behoeften kunnen voldoen.
+Gebruik beeldcompressie om de gegevensgrootte te verkleinen die wordt gebruikt voor het opslaan of verzenden van digitale afbeeldingen. In tegenstelling tot generieke datacompressietechnieken die voor andere vormen van digitale informatie worden gebruikt, houden beeldcompressie-algoritmen rekening met de statistische eigenschappen van het beeld en zijn ze verbonden met de visuele perceptie van de informatie. Via de Aspose.Imaging-bibliotheek heeft u de mogelijkheid om verschillende niveaus van beeldcompressie te implementeren op basis van uw specifieke behoeften.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Met Aspose.Imaging kunt u eenvoudig **Samenpersen** toepassen voor verschillende afbeeldingsformaten programmatisch
+Met behulp van de Aspose.Imaging-bibliotheek voor Python kunt u eenvoudig de bewerking <b>Samenpersen</b> programmatisch uitvoeren voor afbeeldingen en foto's van verschillende formaten.
 </p>
 <h3 style="margin-top:16px;">
-Volledige lijst met ondersteunde Samenpersen-bewerkingen per afbeeldingsindeling:
+Selecteer een afbeeldingsformaat uit de lijst voor de bewerking Samenpersen:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

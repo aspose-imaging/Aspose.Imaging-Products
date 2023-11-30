@@ -1,26 +1,26 @@
 ﻿---
-title: Peržiūrėti Nuotrauka vaizdai Per python-net, visi palaikomi vaizdo formatai 
+title: Peržiūrėti Nuotrauka vaizdai naudojant Python 
 weight: 3920
 url: /lt/python-net/viewer/ 
 lang: lt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Naudodami Aspose.Imaging galite lengvai sukurti Peržiūrėti Nuotrauka vaizdus per python-net
+description: Aspose.Imaging bibliotekos taikymas Peržiūrėti Nuotrauka vaizdams ir nuotraukoms naudojant savo Python programas ir serverio API.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Vaizdo failai Peržiūrėti Nuotrauka per python-net" h2="Peržiūrėti Nuotrauka vaizdai" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Naudokite Python Peržiūrėti Nuotrauka operacijai su vaizdais" h2="Peržiūrėti Nuotrauka vaizdai per savo Python programas naudojant Aspose.Imaging biblioteką" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Peržiūrėti Nuotrauka attēlus formatai" %}}
+{{% blocks/products/pf/feature-page-section  h2="Taikykite operaciją Peržiūrėti Nuotrauka visiems galimiems vaizdo formatams" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Kai jums reikia peržiūrėti vaizdą ar nuotrauką, kurios formatas nėra plačiai naudojamas, galite lengvai peržiūrėti konvertuotą į populiarų formatą. Naudodami Aspose.Imaging galite peržiūrėti skirtingus vaizdo failus neįdiegę specialių programų, skirtų skirtingiems vaizdo formatams.
+Jei reikia peržiūrėti vaizdą ar nuotrauką tam tikru formatu, galite lengvai konvertuoti jį į formatą, kurį palaiko jūsų operacinė sistema. Naudodami Aspose.Imaging galite peržiūrėti daugybę vaizdų ir nuotraukų failų, neįdiegę konkrečių programų kiekvienam vaizdo formatui.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Naudodami Aspose.Imaging galite lengvai pritaikyti **Peržiūrėti Nuotrauka** skirtingiems vaizdo formatams programmatiski
+Naudodami Aspose.Imaging biblioteką, skirtą Python, galite lengvai atlikti <b>Peržiūrėti Nuotrauka</b> operaciją įvairių formatų vaizdams ir nuotraukoms programiškai.
 </p>
 <h3 style="margin-top:16px;">
-Visas palaikomų operacijų Peržiūrėti Nuotrauka sąrašas pagal vaizdo formatus:
+Iš sąrašo pasirinkite vaizdo formatą operacijai Peržiūrėti Nuotrauka:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

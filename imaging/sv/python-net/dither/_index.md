@@ -1,26 +1,26 @@
 ﻿---
-title: Dither bilder Via python-net, alla bildformat som stöds 
+title: Dither-bilder med Python 
 weight: 3920
 url: /sv/python-net/dither/ 
 lang: sv
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Med Aspose.Imaging kan du enkelt Dither bilder via python-net
+description: Tillämpa Aspose.Imaging-biblioteket på Dither-bilder och foton med dina egna Python-applikationer och server-API:er.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Bildfiler Dither via python-net" h2="Dither bilder" downloadText="Ladda ner" >}}
+{{< blocks/products/pf/feature-page-header h1="Använd Python för Dither operation på bilder" h2="Dither-bilder via dina egna Python-applikationer som använder Aspose.Imaging-biblioteket" downloadText="Ladda ner" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alla bilder format som stöds för operationen Dither" %}}
+{{% blocks/products/pf/feature-page-section  h2="Använd åtgärden Dither på alla tillgängliga bildformat" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-I datorgrafik används vibrering för att ge ett utseende av färgdjup i bilder på system med en begränsad färgpalett. En spridning av färgade pixlar från den tillgängliga paletten används i en vibrerad bild för att uppskatta färger som inte finns i paletten. Diffusionen framstår för det mänskliga ögat som en blandning av färgerna som finns i det. Riktade fotografier kan ofta identifieras genom en distinkt kornighet eller spräcklig utseende, särskilt när man använder paletter med få färger. Rastrering lägger till brus eller ett mönster till en bild, och mönstret är ofta uppenbart. Det har visat sig att under dessa förhållanden är vibration som produceras av blått brus det minst irriterande och oattraktiva. Aspose.Imaging gör det möjligt att vibrera dina bilder med några få algoritmer som du kan välja behövs av din onödiga.
+Dithering inom området datorgrafik används av designers för att uppnå en mer uttalad färgeffekt i system med en begränsad färgpalett. I en utjämnad bild används färgpixlar från den tillgängliga paletten för att uppskatta saknade färger, vilket skapar intrycket av färgblandning. Ofta kan du märka en distinkt kornighet eller prickmönster i sådana foton, särskilt när du använder paletter med ett begränsat antal färger. Vibrationsoperationen används för att lägga till brus eller mönster i bilden, och ofta är detta mönster lätt synligt. Det har visat sig att i sådana fall är användningen av blått brus för dithering den mest optimala. Aspose.Imaging möjliggör bildutjämning med hjälp av olika algoritmer som kan väljas baserat på dina preferenser.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Med Aspose.Imaging kan du enkelt använda **Dither** för olika bildformat programmatiskt
+Genom att använda Aspose.Imaging-biblioteket för Python kan du enkelt utföra <b>Dither</b>-åtgärden för bilder och foton i olika format programmatiskt.
 </p>
 <h3 style="margin-top:16px;">
-Fullständig lista över Dither-operationer som stöds efter bildformat:
+Välj ett bildformat från listan för åtgärden Dither:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

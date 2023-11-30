@@ -1,26 +1,26 @@
 ﻿---
-title: グレースケール 画像 python-net 経由、サポートされているすべての画像形式 
+title: Python を使用した グレースケール イメージ 
 weight: 3920
 url: /ja/python-net/grayscale/ 
 lang: ja
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging を使用すると、python-net 経由で簡単に グレースケール イメージを作成できます
+description: 独自の Python アプリケーションとサーバー API を使用して、Aspose.Imaging ライブラリを グレースケール の画像と写真に適用します。
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="python-net経由の画像ファイルグレースケール" h2="{操作名} 画像" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1="画像に対する グレースケール オペレーションには Python を使用します" h2="Aspose.Imaging ライブラリを使用した独自の Python アプリケーションによる グレースケール イメージ" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="グレースケール 操作でサポートされているすべての形式 画像" %}}
+{{% blocks/products/pf/feature-page-section  h2="グレースケール オペレーションを使用可能なすべての画像形式に適用します" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-グレースケール画像は、各ピクセルの値が光の量のみを示す単一のサンプルである画像です。つまり、強度情報のみを伝えます。グレースケール画像は、デジタル写真、コンピューター生成のイメージング、および測色で使用されます。グレーの陰影は、白黒またはグレーのモノクロの一種であるグレースケール画像のみを構成します。黒のコントラストが最も低く、白のコントラストが最も高くなります。グレースケール イメージは、コンピューター イメージングの文脈で黒と白の 2 色のみからなるイメージ (バイレベルまたはバイナリ イメージとも呼ばれます) である 1 ビットの二階調白黒イメージとは異なります。グレースケール写真には、その間に無数のグレーの階調が存在します。 Aspose.Imaging を使用すると、さまざまな形式の画像をグレースケール化できます。
+グレーのグラデーションで表現された画像は、各画素が光の強さのみを示す値を持つ画像である。したがって、明るさに関する情報のみが得られます。したがって、黒の輝度が最も低くなり、白の輝度が最も高くなります。グレーの色合いの写真では、黒から白までのグレーの色合い全体を観察できますが、ピクセルの色に関する情報はありません。画像をグレースケール バージョンに変換することは、デジタル写真やコンピューター グラフィックスで広く使用されています。 Aspose.Imaging を使用すると、カラー画像や写真をさまざまな形式のグレースケールに変換できます。
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Aspose.Imaging を使用すると、さまざまな画像フォーマットに **グレースケール** を簡単に適用できます プログラム的に
+Python の Aspose.Imaging ライブラリを使用すると、さまざまな形式の画像や写真に対する <b>グレースケール</b> 操作をプログラムで簡単に実行できます。
 </p>
 <h3 style="margin-top:16px;">
-画像形式ごとにサポートされている グレースケール 操作の完全なリスト:
+グレースケール オペレーションのリストから画像形式を選択します。
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

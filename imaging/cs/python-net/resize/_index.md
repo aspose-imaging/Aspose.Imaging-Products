@@ -1,26 +1,26 @@
 ﻿---
-title: Obrázky Změnit velikost Prostřednictvím python-net, všechny podporované formáty obrázků 
+title: obrázky Změnit velikost pomocí Python 
 weight: 3920
 url: /cs/python-net/resize/ 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Pomocí Aspose.Imaging můžete snadno Změnit velikost obrázky přes python-net
+description: Použití knihovny Aspose.Imaging na obrázky a fotografie Změnit velikost pomocí vašich vlastních aplikací Python a serverových API.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Soubory obrázků Změnit velikost prostřednictvím python-net" h2="obrázky Změnit velikost" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Použijte Python pro operaci Změnit velikost s obrázky" h2="Změnit velikost Obrázky prostřednictvím vašich vlastních aplikací Python pomocí knihovny Aspose.Imaging" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované snímky formáty pro operaci Změnit velikost" %}}
+{{% blocks/products/pf/feature-page-section  h2="Použijte operaci Změnit velikost na všechny dostupné formáty obrázků" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Můžete změnit velikost obrázku tak, aby byl větší nebo menší, aniž byste museli odstraňovat jakýkoli obsah. Rozměry obrázku se při změně velikosti změní, což má často vliv na velikost souboru a kvalitu obrázku. Zmenšení velikosti obrovských obrázků, aby bylo snazší je poslat e-mailem nebo sdílet online, je nejoblíbenějším důvodem pro zmenšování fotografií. Obrázky rastrové grafiky musí být zmenšeny vytvořením nového obrázku s více či méně pixely. Aspose.Imaging umožňuje uživatelům různé algoritmy pro změnu velikosti, které umožňují vybrat si potřebné.
+Pomocí Aspose.Imaging můžete měnit velikost obrázků nebo fotografií bez ztráty vizuálních informací. Při úpravě velikosti obrázku se změní váha jeho souboru, což může vést ke ztrátě kvality. Zmenšení velikosti obrázků je hlavním způsobem rychlého odeslání e-mailem nebo rychlého stažení z internetové stránky. Při změně velikosti rastrových obrázků se vytvoří nový obrázek s méně nebo více pixely, tj. obrázek se změní. Aspose.Imaging poskytuje různé algoritmy změny velikosti, které vám umožňují vybrat ten nejvhodnější pro konkrétní úlohu.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Pomocí Aspose.Imaging můžete snadno použít **Změnit velikost** pro různé formáty obrázků programově
+Pomocí knihovny Aspose.Imaging pro Python můžete snadno programově provést operaci <b>Změnit velikost</b> pro obrázky a fotografie různých formátů.
 </p>
 <h3 style="margin-top:16px;">
-Úplný seznam podporovaných operací Změnit velikost podle formátů obrázků:
+Vyberte ze seznamu formát obrázku pro operaci Změnit velikost:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

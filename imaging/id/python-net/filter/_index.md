@@ -1,26 +1,26 @@
 ﻿---
-title: gambar Saring Melalui python-net, semua format gambar yang didukung 
+title: gambar Saring menggunakan Python 
 weight: 3920
 url: /id/python-net/filter/ 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Menggunakan Aspose.Imaging Anda dapat dengan mudah Saring gambar Via python-net
+description: Menerapkan pustaka Aspose.Imaging ke gambar dan foto Saring menggunakan aplikasi Python dan API server Anda sendiri.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="File gambar Saring melalui python-net" h2="gambar Saring" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Gunakan Python untuk Operasi Saring pada Gambar" h2="Saring Gambar melalui Aplikasi Python Anda Sendiri Menggunakan Perpustakaan Aspose.Imaging" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Semua gambar-gambar format yang didukung untuk operasi Saring" %}}
+{{% blocks/products/pf/feature-page-section  h2="Terapkan operasi Saring ke semua format gambar yang tersedia" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Dalam fotografi dan sinematografi, filter adalah aksesori kamera yang terdiri dari filter optik yang dapat dimasukkan ke dalam jalur optik. Filter dapat berbentuk persegi atau lonjong dan dipasang di aksesori dudukan, atau, lebih umum, piringan kaca atau plastik dalam bingkai cincin logam atau plastik, yang dapat disekrup ke bagian depan atau dijepitkan ke lensa kamera. Filter mengubah gambar yang direkam. Mereka digunakan untuk mengubah foto terkadang sangat sedikit, dan terkadang sangat diperlukan untuk pembuatan gambar. Dalam fotografi monokrom, filter berwarna mengubah kecerahan relatif berbagai warna; lipstik merah mungkin terlihat antara hampir putih dan hampir hitam tergantung pada filter yang digunakan. Lainnya menyesuaikan keseimbangan warna gambar sehingga bidikan yang diambil dalam iluminasi lampu pijar menampilkan warna seperti yang dirasakan, bukan dengan semburat kemerahan. Ada filter yang sengaja mendistorsi gambar, menambahkan tampilan berbintang ke gambar yang tajam, dll. Refleksi miring dari permukaan non-logam dikurangi menggunakan filter polarisasi linier dan melingkar. Aspose.Imaging mendukung filter seperti Gaussian Blur, Sharpen, Median Filter, Motion Weiner dan banyak lainnya.
+Dalam fotografi dan produksi video, filter adalah aksesori kamera tambahan yang dilengkapi filter optik yang dapat dimasukkan ke jalur optik. Ini bisa berupa kaca semi transparan persegi atau persegi panjang dan dipasang di bagian depan lensa kamera. Filter mengubah gambar yang diambil. Dalam fotografi monokrom, filter warna mengubah kecerahan warna berbeda; tergantung pada filter yang digunakan, apel hijau bisa tampak hampir putih atau hampir hitam. Filter lain menyesuaikan keseimbangan warna gambar untuk secara akurat mewakili warna yang dirasakan di bawah pencahayaan lampu siang hari, bukan dengan nada dingin. Ada juga filter yang sengaja mendistorsi gambar sehingga memberikan tampilan buram pada gambar yang tajam. Filter polarisasi linier dan melingkar mengurangi silau dari permukaan reflektif. Aspose.Imaging mendukung berbagai filter seperti Gauss-Wiener Filter, Bilateral Smoothing, Median Filter, Motion Weiner, Blur, Sharpen, dan lain-lain.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Menggunakan Aspose.Imaging Anda dapat dengan mudah menerapkan **Saring** untuk berbagai format gambar secara terprogram
+Dengan menggunakan pustaka Aspose.Imaging untuk Python, Anda bisa dengan mudah melakukan operasi <b>Saring</b> untuk gambar dan foto dalam berbagai format secara terprogram.
 </p>
 <h3 style="margin-top:16px;">
-Daftar lengkap operasi Saring yang didukung menurut format gambar:
+Pilih format gambar dari daftar untuk operasi Saring:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

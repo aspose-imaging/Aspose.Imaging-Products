@@ -1,26 +1,26 @@
 ﻿---
-title: Obrázky Zobrazit obrázek Prostřednictvím python-net, všechny podporované formáty obrázků 
+title: obrázky Zobrazit obrázek pomocí Python 
 weight: 3920
 url: /cs/python-net/viewer/ 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Pomocí Aspose.Imaging můžete snadno Zobrazit obrázek obrázky přes python-net
+description: Použití knihovny Aspose.Imaging na obrázky a fotografie Zobrazit obrázek pomocí vašich vlastních aplikací Python a serverových API.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Soubory obrázků Zobrazit obrázek prostřednictvím python-net" h2="obrázky Zobrazit obrázek" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Použijte Python pro operaci Zobrazit obrázek s obrázky" h2="Zobrazit obrázek Obrázky prostřednictvím vašich vlastních aplikací Python pomocí knihovny Aspose.Imaging" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované snímky formáty pro operaci Zobrazit obrázek" %}}
+{{% blocks/products/pf/feature-page-section  h2="Použijte operaci Zobrazit obrázek na všechny dostupné formáty obrázků" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Potřebujete-li zobrazit obrázek nebo fotografii, která nemá široký formát, můžete si jej snadno prohlédnout převedený do oblíbeného formátu. Pomocí Aspose.Imaging můžete prohlížet různé soubory obrázků bez instalace speciálních programů, které jsou specifické pro různé formáty obrázků.
+Pokud potřebujete zobrazit obrázek nebo fotografii v určitém formátu, můžete je snadno převést do formátu podporovaného vaším operačním systémem. S Aspose.Imaging si můžete prohlížet širokou škálu obrazových a fotografických souborů, aniž byste museli instalovat specifické programy pro každý formát obrazu.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Pomocí Aspose.Imaging můžete snadno použít **Zobrazit obrázek** pro různé formáty obrázků programově
+Pomocí knihovny Aspose.Imaging pro Python můžete snadno programově provést operaci <b>Zobrazit obrázek</b> pro obrázky a fotografie různých formátů.
 </p>
 <h3 style="margin-top:16px;">
-Úplný seznam podporovaných operací Zobrazit obrázek podle formátů obrázků:
+Vyberte ze seznamu formát obrázku pro operaci Zobrazit obrázek:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

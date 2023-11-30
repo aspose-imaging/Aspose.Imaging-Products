@@ -1,26 +1,26 @@
 ﻿---
-title: Images Fusionner Via python-net, tous les formats d'image pris en charge 
+title: Images Fusionner utilisant Python 
 weight: 3920
 url: /fr/python-net/merge/ 
 lang: fr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: En utilisant Aspose.Imaging, vous pouvez facilement Fusionner images Via python-net
+description: Application de la bibliothèque Aspose.Imaging aux images et photos Fusionner à l'aide de vos propres applications Python et API de serveur.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Fichiers image Fusionner via python-net" h2="images de Fusionner" downloadText="Télécharger" >}}
+{{< blocks/products/pf/feature-page-header h1="Utilisez Python pour l'opération Fusionner sur les images" h2="Images Fusionner via vos propres applications Python à l'aide de la bibliothèque Aspose.Imaging" downloadText="Télécharger" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tous les images formats pris en charge pour l'opération Fusionner" %}}
+{{% blocks/products/pf/feature-page-section  h2="Appliquer l'opération Fusionner à tous les formats d'image disponibles" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-L'opération de fusion d'images permet de combiner 2 images ou plus en une seule verticalement ou horizontalement sans perte de qualité. Le collage de photos est la création d'une nouvelle photo ou image en combinant plusieurs images, parfois non directement liées les unes aux autres photos. L'effet recherché par le photographe est créé en superposant une image sur une autre ou en combinant plusieurs (plus de 2) images en un seul ensemble, parfois avec l'utilisation chaotique de différentes images photographiques (comme un puzzle ou une mosaïque). Aspose.Imaging permet de créer différents collages en utilisant une grande quantité de formats de fichiers.
+La fusion d'images est une technique qui vous permet de combiner deux ou plusieurs images en une seule composition sans compromettre la qualité. La création d'un collage de photos implique la fusion de plusieurs photos, souvent avec un thème ou un sujet commun. Ceci peut être réalisé en empilant une image sur une autre ou en combinant de manière transparente plusieurs images en une seule enchaînée, verticalement ou horizontalement. En utilisant différents fragments de photos, vous pouvez créer des fonds d'écran, des puzzles ou des mosaïques visuellement attrayants. Aspose.Imaging offre une solution polyvalente pour créer des collages quels que soient les formats de fichiers impliqués, vous permettant d'enregistrer vos créations dans une variété de formats, y compris des options multipages.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-En utilisant Aspose.Imaging, vous pouvez facilement appliquer **Fusionner** pour différents formats d'image par programmation
+À l’aide de la bibliothèque Aspose.Imaging pour Python, vous pouvez facilement effectuer l’opération <b>Fusionner</b> pour des images et des photos de différents formats par programme.
 </p>
 <h3 style="margin-top:16px;">
-Liste complète des opérations Fusionner prises en charge par formats d'image :
+Sélectionnez un format d'image dans la liste pour l'opération Fusionner:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

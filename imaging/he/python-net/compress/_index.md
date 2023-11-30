@@ -1,27 +1,26 @@
 ﻿---
-title: תמונות לִדחוֹס דרך python-net, כל פורמטי התמונה הנתמכים 
+title: תמונות לִדחוֹס באמצעות Python 
 weight: 3920
 url: /he/python-net/compress/ 
 lang: he
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: באמצעות Aspose.Imaging תוכל בקלות לִדחוֹס תמונות באמצעות python-net
+description: החלת ספריית Aspose.Imaging על תמונות ותמונות של לִדחוֹס באמצעות יישומי Python וממשקי API משלך של שרת.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="קבצי תמונה לִדחוֹס באמצעות python-net" h2="תמונות לִדחוֹס" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="השתמש ב-Python עבור פעולת לִדחוֹס בתמונות" h2="תמונות לִדחוֹס באמצעות יישומי Python משלך באמצעות ספריית Aspose.Imaging" downloadText="הורד" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="כל הפורמטים  תמונות הנתמכים עבור פעולת לִדחוֹס" %}}
+{{% blocks/products/pf/feature-page-section  h2="החל את פעולת לִדחוֹס על כל פורמטי התמונה הזמינים" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-דחיסת תמונה היא מעין דחיסת נתונים המשמשת להורדת עלות האחסון או שידור התמונות הדיגיטליות. בהשוואה לטכניקות דחיסת נתונים כלליות המשמשות לנתונים דיגיטליים אחרים, אלגוריתמים עשויים להפיק תועלת מתפיסה חזותית ומהמאפיינים הסטטיסטיים של נתוני תמונה.
-באמצעות Aspose.Imaging אתה יכול לדחוס סוגי תמונות שונים שעשויים להתאים כמעט לכל הצרכים שלך.
+השתמש בדחיסת תמונה כדי להקטין את גודל הנתונים המשמשים לאחסון או שליחה של תמונות דיגיטליות. בניגוד לטכניקות דחיסת נתונים גנריות המשמשות לצורות אחרות של מידע דיגיטלי, אלגוריתמי דחיסת תמונה מתחשבים במאפיינים הסטטיסטיים של התמונה ומקושרים לתפיסה החזותית של המידע. באמצעות ספריית Aspose.Imaging, יש לך את היכולת ליישם רמות שונות של דחיסת תמונה בהתבסס על הצרכים הספציפיים שלך.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-באמצעות Aspose.Imaging אתה יכול בקלות להחיל את **לִדחוֹס** עבור פורמטים שונים של תמונה באופן תוכניתי
+באמצעות ספריית Aspose.Imaging עבור Python, אתה יכול לבצע בקלות את פעולת <b>לִדחוֹס</b> עבור תמונות ותמונות בפורמטים שונים באופן פרוגרמטי.
 </p>
 <h3 style="margin-top:16px;">
-רשימה מלאה של פעולות לִדחוֹס נתמכות לפי פורמטים של תמונה:
+בחר פורמט תמונה מהרשימה עבור הפעולה לִדחוֹס:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

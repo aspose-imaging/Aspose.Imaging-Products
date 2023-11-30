@@ -1,26 +1,26 @@
 ﻿---
-title: 灰階 圖片通過 python-net，所有支持的圖片格式 
+title: 使用 Python 的 灰階 影像 
 weight: 3920
 url: /zh-hant/python-net/grayscale/ 
 lang: zh-hant
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: 使用 Aspose.Imaging 你可以輕鬆地通過 python-net 獲取 灰階 圖像
+description: 使用您自己的 Python 應用程式和伺服器 API 將 Aspose.Imaging 庫套用至 灰階 圖像和照片。
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="圖片文件 灰階 來自 python-net" h2="灰階 圖片" downloadText="下載" >}}
+{{< blocks/products/pf/feature-page-header h1="使用 Python 對影像進行 灰階 操作" h2="使用 Aspose.Imaging 庫透過您自己的 Python 應用程式產生 灰階 映像" downloadText="下載" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="灰階 操作的所有支持格式 圖片" %}}
+{{% blocks/products/pf/feature-page-section  h2="將 灰階 操作套用至所有可用的圖片格式" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-灰度圖像是這樣一種圖像，其中每個像素的值是單個樣本，僅表示一定量的光；也就是說，它只傳達強度信息。灰度圖像用於數碼攝影、計算機生成的成像和比色法。灰色陰影僅構成灰度圖像，一種黑白或灰色單色。黑色的對比度最低，而白色的對比度最高。灰度圖像不同於一位黑白圖像，在計算機成像的上下文中，黑白圖像是只有兩種顏色的圖像：黑色和白色（也稱為二值或二值圖像）。灰度照片之間有許多灰色陰影。使用 Aspose.Imaging 您可以對不同格式的圖像進行灰度化。
+以灰階表示的影像是每個像素具有僅指示光強度的值的影像。因此，它僅提供有關亮度的資訊。因此，黑色的亮度最低，而白色的亮度最高。在灰階照片中，您可以觀察到從黑到白的整個灰階範圍，但缺少有關像素顏色的資訊。將影像轉換為灰階版本廣泛應用於數位攝影和電腦圖形學。使用Aspose.Imaging，您可以將彩色影像和照片轉換為各種格式的灰階。
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-使用 Aspose.Imaging 您可以輕鬆地將 **灰階** 應用於不同的圖像格式 以編程方式
+使用 Python 的 Aspose.Imaging 庫，您可以透過程式設計輕鬆地對各種格式的圖像和照片執行 <b>灰階</b> 操作。
 </p>
 <h3 style="margin-top:16px;">
-按圖像格式支持的 灰階 操作的完整列表：
+從清單中為 灰階 操作選擇影像格式：
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,26 +1,26 @@
 ﻿---
-title: Przyciąć obrazy Przez python-net, wszystkie obsługiwane formaty obrazów 
+title: Obrazy Przyciąć przy użyciu języka Python 
 weight: 3920
 url: /pl/python-net/crop/ 
 lang: pl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Używając Aspose.Imaging możesz łatwo Przyciąć obrazy Via python-net
+description: Stosowanie biblioteki Aspose.Imaging do obrazów i zdjęć Przyciąć przy użyciu własnych aplikacji Python i interfejsów API serwera.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Pliki obrazów Przyciąć przez python-net" h2="Obrazy Przyciąć" downloadText="Ściągnij" >}}
+{{< blocks/products/pf/feature-page-header h1="Użyj języka Python do operacji Przyciąć na obrazach" h2="Obrazy Przyciąć za pośrednictwem własnych aplikacji Python przy użyciu biblioteki Aspose.Imaging" downloadText="Ściągnij" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty operacji obrazy Przyciąć" %}}
+{{% blocks/products/pf/feature-page-section  h2="Zastosuj operację Przyciąć do wszystkich dostępnych formatów obrazów" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Przycinanie to proces usuwania zbędnych elementów ze zdjęcia lub ilustracji. Technika ta zwykle polega na usunięciu części obrzeża obrazu w celu wyeliminowania z niego dodatkowych informacji wizualnych, poprawienia jego kadrowania, zmiany proporcji lub podkreślenia lub odizolowania obiektu od otoczenia. Można to zrobić cyfrowo, korzystając z oprogramowania do edycji obrazu, lub można to zrobić na prawdziwej migawce, dziele sztuki lub fragmencie filmu, w zależności od zastosowania. Branża fotograficzna, obróbka filmów, nadawanie, projektowanie graficzne i poligrafia wykorzystują kadrowanie. Aspose.Imaging umożliwia przycinanie obrazów o określonych różnych parametrach.
+Przycinanie obrazów to proces usuwania niepotrzebnych części obrazów lub zdjęć. W wyniku operacji przycięcia obrazu można usunąć część obrzeży obrazu, aby poprawić jego kompozycję, dopasować proporcje lub wyśrodkować główny element. Aby to osiągnąć, możesz skorzystać ze specjalistycznego oprogramowania do edycji obrazów lub programowo zastosować operację przycinania obrazów, zdjęć, krajobrazów lub portretów, w zależności od konkretnych wymagań. Kadrowanie znajduje szerokie zastosowanie w fotografii, obróbce zdjęć, produkcji wideo, projektowaniu graficznym i poligrafii. Dzięki bibliotece Aspose.Imaging możesz zautomatyzować przycinanie obrazu za pomocą konfigurowalnych parametrów.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Używając Aspose.Imaging możesz łatwo zastosować **Przyciąć** dla różnych formatów obrazów programowo
+Korzystając z biblioteki Aspose.Imaging dla języka Python, możesz łatwo programowo wykonać operację <b>Przyciąć</b> na obrazach i zdjęciach w różnych formatach.
 </p>
 <h3 style="margin-top:16px;">
-Pełna lista obsługiwanych operacji Przyciąć według formatów obrazu:
+Wybierz format obrazu z listy dla operacji Przyciąć:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

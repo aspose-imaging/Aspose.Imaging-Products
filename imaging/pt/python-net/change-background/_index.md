@@ -1,26 +1,26 @@
 ﻿---
-title: Imagens Mude o fundo Via python-net, todos os formatos de imagem suportados 
+title: Imagens de Mude o fundo usando Python 
 weight: 3920
 url: /pt/python-net/change-background/ 
 lang: pt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging, você pode facilmente imagens Mude o fundo Via python-net
+description: Aplicando a biblioteca Aspose.Imaging a imagens e fotos de Mude o fundo usando seus próprios aplicativos Python e APIs de servidor.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Arquivos de imagem Mude o fundo via python-net" h2="Mude o fundo imagens" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Use Python para operação Mude o fundo em imagens" h2="Imagens de Mude o fundo por meio de seus próprios aplicativos Python usando a biblioteca Aspose.Imaging" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos os formatos suportados para a operação imagens Mude o fundo" %}}
+{{% blocks/products/pf/feature-page-section  h2="Aplique a operação Mude o fundo a todos os formatos de imagem disponíveis" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Mudar fundo é uma das operações mais comuns necessárias para processar suas fotos ou imagens. Você pode facilmente remover o fundo de uma foto e colocar um objeto de primeiro plano em outra usando o Aspose.Imaging. Além disso, você pode reconhecer o objeto em primeiro plano e detectá-lo, se necessário. Como resultado, você pode obter fundo transparente e processar conforme necessário.
+Alterar o plano de fundo é uma tarefa realizada com frequência na edição de imagens e fotos. Ao usar o Aspose.Imaging, você pode separar facilmente o objeto de primeiro plano do fundo em uma foto, automática ou manualmente, e depois colocá-lo em outra imagem. Além disso, a API Cloud permite identificar o objeto em primeiro plano e remover o plano de fundo, se necessário. Isso permite obter um objeto com fundo transparente e substituir o fundo original por outro diferente.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Usando o Aspose.Imaging, você pode facilmente aplicar **Mude o fundo** para diferentes formatos de imagem programaticamente
+Usando a biblioteca Aspose.Imaging para Python, você pode executar facilmente a operação <b>Mude o fundo</b> para imagens e fotos de vários formatos de forma programática.
 </p>
 <h3 style="margin-top:16px;">
-Lista completa de operações Mude o fundo suportadas por formatos de imagem:
+Selecione um formato de imagem na lista para a operação Mude o fundo:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

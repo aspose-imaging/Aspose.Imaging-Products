@@ -1,26 +1,26 @@
 ﻿---
-title: 庄稼 图片通过 python-net，所有支持的图片格式 
+title: 使用 Python 的 庄稼 图像 
 weight: 3920
 url: /zh-hans/python-net/crop/ 
 lang: zh-hans
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: 使用 Aspose.Imaging 你可以轻松地通过 python-net 获取 庄稼 图像
+description: 使用您自己的 Python 应用程序和服务器 API 将 Aspose.Imaging 库应用于 庄稼 图像和照片。
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="图片文件 庄稼 来自 python-net" h2="庄稼 图片" downloadText="下载" >}}
+{{< blocks/products/pf/feature-page-header h1="使用 Python 对图像进行 庄稼 操作" h2="使用 Aspose.Imaging 库通过您自己的 Python 应用程序生成 庄稼 图像" downloadText="下载" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="庄稼 操作的所有支持格式图片" %}}
+{{% blocks/products/pf/feature-page-section  h2="将 庄稼 操作应用于所有可用的图像格式" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-裁剪是从照片或插图中去除无关元素的过程。该技术通常需要去除图像外围的一部分，以便从照片中消除无关的视觉信息、增强其框架、改变纵横比，或者强调或隔离主题与周围环境。这可以通过使用图像编辑软件以数字方式完成，也可以根据应用程序在真实快照、艺术品或电影上完成。摄影、胶片处理、广播、图形设计和印刷行业都使用裁剪。 Aspose.Imaging 允许您使用指定的各种参数裁剪图像。
+裁剪图像是从图像或照片中删除不必要的部分的过程。图像裁剪操作的结果是，可以删除图像外围的一部分，以改善其构图、调整比例或使主要元素居中。为此，您可以使用专门的图像编辑软件或以编程方式将裁剪操作应用于图像、照片、风景或肖像，具体取决于您的具体要求。裁剪在摄影、照片处理、视频制作、图形设计和印刷中有着广泛的应用。借助 Aspose.Imaging 库，您可以使用可自定义的参数自动裁剪图像。
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-使用 Aspose.Imaging 您可以轻松地将 **庄稼** 应用于不同的图像格式 以编程方式
+使用 Python 的 Aspose.Imaging 库，您可以通过编程轻松地对各种格式的图像和照片执行 <b>庄稼</b> 操作。
 </p>
 <h3 style="margin-top:16px;">
-按图像格式支持的 庄稼 操作的完整列表：
+从列表中为 庄稼 操作选择图像格式：
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

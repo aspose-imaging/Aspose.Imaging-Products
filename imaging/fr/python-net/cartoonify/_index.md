@@ -1,26 +1,26 @@
 ﻿---
-title: Images Caricaturer Via python-net, tous les formats d'image pris en charge 
+title: Images Caricaturer utilisant Python 
 weight: 3920
 url: /fr/python-net/cartoonify/ 
 lang: fr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: En utilisant Aspose.Imaging, vous pouvez facilement Caricaturer images Via python-net
+description: Application de la bibliothèque Aspose.Imaging aux images et photos Caricaturer à l'aide de vos propres applications Python et API de serveur.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Fichiers image Caricaturer via python-net" h2="images de Caricaturer" downloadText="Télécharger" >}}
+{{< blocks/products/pf/feature-page-header h1="Utilisez Python pour l'opération Caricaturer sur les images" h2="Images Caricaturer via vos propres applications Python à l'aide de la bibliothèque Aspose.Imaging" downloadText="Télécharger" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tous les images formats pris en charge pour l'opération Caricaturer" %}}
+{{% blocks/products/pf/feature-page-section  h2="Appliquer l'opération Caricaturer à tous les formats d'image disponibles" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-La conversion d'une photo en dessin animé est l'une des opérations courantes utilisées par de nombreux artistes. Il aide à obtenir une photo dessinée en quelques clics sans effectuer aucun travail de peinture. Vous voulez transformer rapidement une image standard en image de dessin animé ? Dans ce cas, vous pouvez essayer comment cela fonctionne dans la bibliothèque Aspose.Imaging.
+Le processus de transformation de photos en images de style dessin animé, également connu sous le nom de cartoonify, est une technique populaire utilisée par les concepteurs pour créer des images avec un effet de dessin animé. Cette méthode vous permet d'obtenir l'effet d'image souhaité en quelques clics, sans avoir besoin de compétences en dessin. Si vous souhaitez transformer rapidement une image ordinaire en une image de style dessin animé, vous devriez essayer l'outil fourni par la bibliothèque Aspose.Imaging.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-En utilisant Aspose.Imaging, vous pouvez facilement appliquer **Caricaturer** pour différents formats d'image par programmation
+À l’aide de la bibliothèque Aspose.Imaging pour Python, vous pouvez facilement effectuer l’opération <b>Caricaturer</b> pour des images et des photos de différents formats par programme.
 </p>
 <h3 style="margin-top:16px;">
-Liste complète des opérations Caricaturer prises en charge par formats d'image :
+Sélectionnez un format d'image dans la liste pour l'opération Caricaturer:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,26 +1,26 @@
 ﻿---
-title: Cartooniseren afbeeldingen Via python-net, alle ondersteunde afbeeldingsformaten 
+title: Cartooniseren afbeeldingen met Python 
 weight: 3920
 url: /nl/python-net/cartoonify/ 
 lang: nl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Met behulp van Aspose.Imaging kunt u eenvoudig Cartooniseren afbeeldingen maken via python-net
+description: Aspose.Imaging-bibliotheek toepassen op Cartooniseren afbeeldingen en foto's met behulp van uw eigen Python-applicaties en server-API's.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Afbeeldingsbestanden Cartooniseren via python-net" h2="Cartooniseren afbeeldingen" downloadText="Downloaden" >}}
+{{< blocks/products/pf/feature-page-header h1="Gebruik Python voor bewerking van Cartooniseren op afbeeldingen" h2="Cartooniseren Afbeeldingen via uw eigen Python-applicaties met behulp van de Aspose.Imaging-bibliotheek" downloadText="Downloaden" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde indelingen voor de bewerking afbeeldingen Cartooniseren" %}}
+{{% blocks/products/pf/feature-page-section  h2="Pas de bewerking Cartooniseren toe op alle beschikbare afbeeldingsformaten" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Het omzetten van een foto naar een tekenfilm is een van de meest voorkomende bewerkingen die door veel artiesten worden gebruikt. Het helpt om met een paar klikken een cartoonfoto te maken zonder schilderwerk uit te voeren. Snel een standaardafbeelding omzetten in een cartoonafbeelding? In dit geval kunt u proberen hoe het werkt in de Aspose.Imaging-bibliotheek.
+Het proces waarbij foto's worden omgezet in afbeeldingen in cartoonstijl, ook wel cartoonify genoemd, is een populaire techniek die door ontwerpers wordt gebruikt om afbeeldingen met een cartoonachtig effect te creëren. Met deze methode kunt u met slechts een paar klikken het gewenste beeldeffect bereiken, zonder dat u tekenvaardigheid nodig heeft. Als u snel een gewone afbeelding wilt omzetten in een afbeelding in cartoonstijl, kunt u de tool van de Aspose.Imaging-bibliotheek proberen.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Met Aspose.Imaging kunt u eenvoudig **Cartooniseren** toepassen voor verschillende afbeeldingsformaten programmatisch
+Met behulp van de Aspose.Imaging-bibliotheek voor Python kunt u eenvoudig de bewerking <b>Cartooniseren</b> programmatisch uitvoeren voor afbeeldingen en foto's van verschillende formaten.
 </p>
 <h3 style="margin-top:16px;">
-Volledige lijst met ondersteunde Cartooniseren-bewerkingen per afbeeldingsindeling:
+Selecteer een afbeeldingsformaat uit de lijst voor de bewerking Cartooniseren:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

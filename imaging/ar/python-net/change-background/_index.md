@@ -1,26 +1,26 @@
 ﻿---
-title: صور غير الخلفية عبر python-net ، جميع تنسيقات الصور المدعومة 
+title: صور غير الخلفية باستخدام Python 
 weight: 3920
 url: /ar/python-net/change-background/ 
 lang: ar
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: باستخدام Aspose.Imaging يمكنك بسهولة غير الخلفية الصور عبر python-net
+description: تطبيق مكتبة Aspose.Imaging على الصور والصور الفوتوغرافية غير الخلفية باستخدام تطبيقات Python وواجهات برمجة تطبيقات الخادم الخاصة بك.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="ملفات الصور غير الخلفية عبر python-net" h2="غير الخلفية الصور" downloadText="تحميل" >}}
+{{< blocks/products/pf/feature-page-header h1="استخدم Python لعملية غير الخلفية على الصور" h2="صور غير الخلفية عبر تطبيقات Python الخاصة بك باستخدام مكتبة Aspose.Imaging" downloadText="تحميل" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="جميع التنسيقا تالصور  المدعومة لعملية غير الخلفية" %}}
+{{% blocks/products/pf/feature-page-section  h2="قم بتطبيق عملية غير الخلفية على جميع تنسيقات الصور المتاحة" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-يعد تغيير الخلفية أحد أكثر العمليات شيوعًا اللازمة لمعالجة صورك أو صورك. يمكنك بسهولة إزالة الخلفية من إحدى صورتك ووضع كائن أمامي على صورة أخرى باستخدام Aspose. كما يمكنك التعرف على الكائن الأمامي واكتشافه إذا لزم الأمر. نتيجة لذلك ، قد تحصل على خلفية شفافة وعملية حسب حاجتك.
+يعد تغيير الخلفية مهمة يتم إجراؤها بشكل متكرر في تحرير الصور والصور. باستخدام Aspose.Imaging، يمكنك بسهولة فصل الكائن الأمامي عن الخلفية في الصورة، إما تلقائيًا أو يدويًا، ثم وضعه على صورة أخرى. بالإضافة إلى ذلك، تسمح لك Cloud API بتحديد الكائن الأمامي وإزالة الخلفية إذا لزم الأمر. يمكّنك هذا من الحصول على كائن بخلفية شفافة واستبدال الخلفية الأصلية بخلفية مختلفة.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-باستخدام Aspose.Imaging ، يمكنك بسهولة تطبيق **غير الخلفية** لتنسيقات الصور المختلفة برمجيا
+باستخدام مكتبة Aspose.Imaging لـ Python، يمكنك بسهولة إجراء عملية <b>غير الخلفية</b> للصور والصور ذات التنسيقات المختلفة برمجيًا.
 </p>
 <h3 style="margin-top:16px;">
-القائمة الكاملة لعمليات غير الخلفية المدعومة حسب تنسيقات الصور:
+حدد تنسيق صورة من القائمة لعملية غير الخلفية:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

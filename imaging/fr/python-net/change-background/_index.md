@@ -1,26 +1,26 @@
 ﻿---
-title: Images Changement de fond Via python-net, tous les formats d'image pris en charge 
+title: Images Changement de fond utilisant Python 
 weight: 3920
 url: /fr/python-net/change-background/ 
 lang: fr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: En utilisant Aspose.Imaging, vous pouvez facilement Changement de fond images Via python-net
+description: Application de la bibliothèque Aspose.Imaging aux images et photos Changement de fond à l'aide de vos propres applications Python et API de serveur.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Fichiers image Changement de fond via python-net" h2="images de Changement de fond" downloadText="Télécharger" >}}
+{{< blocks/products/pf/feature-page-header h1="Utilisez Python pour l'opération Changement de fond sur les images" h2="Images Changement de fond via vos propres applications Python à l'aide de la bibliothèque Aspose.Imaging" downloadText="Télécharger" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tous les images formats pris en charge pour l'opération Changement de fond" %}}
+{{% blocks/products/pf/feature-page-section  h2="Appliquer l'opération Changement de fond à tous les formats d'image disponibles" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Le changement d'arrière-plan est l'une des opérations les plus courantes nécessaires au traitement de vos photos ou images. Vous pouvez facilement supprimer l'arrière-plan d'une de vos photos et placer un objet de premier plan sur une autre à l'aide d'Aspose.Imaging. Vous pouvez également reconnaître l'objet de premier plan et le détecter si nécessaire. En conséquence, vous pouvez obtenir un arrière-plan transparent et traiter selon vos besoins.
+Changer l’arrière-plan est une tâche fréquemment effectuée dans l’édition d’images et de photos. En utilisant Aspose.Imaging, vous pouvez facilement séparer l'objet de premier plan de l'arrière-plan d'une photo, automatiquement ou manuellement, puis le placer sur une autre image. De plus, l'API Cloud vous permet d'identifier l'objet de premier plan et de supprimer l'arrière-plan si nécessaire. Cela permet d'obtenir un objet avec un fond transparent et de remplacer le fond d'origine par un autre.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-En utilisant Aspose.Imaging, vous pouvez facilement appliquer **Changement de fond** pour différents formats d'image par programmation
+À l’aide de la bibliothèque Aspose.Imaging pour Python, vous pouvez facilement effectuer l’opération <b>Changement de fond</b> pour des images et des photos de différents formats par programme.
 </p>
 <h3 style="margin-top:16px;">
-Liste complète des opérations Changement de fond prises en charge par formats d'image :
+Sélectionnez un format d'image dans la liste pour l'opération Changement de fond:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

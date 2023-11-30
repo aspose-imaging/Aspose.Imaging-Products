@@ -1,26 +1,26 @@
 ﻿---
-title: gambar Buat kartun Melalui python-net, semua format gambar yang didukung 
+title: gambar Buat kartun menggunakan Python 
 weight: 3920
 url: /id/python-net/cartoonify/ 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Menggunakan Aspose.Imaging Anda dapat dengan mudah Buat kartun gambar Via python-net
+description: Menerapkan pustaka Aspose.Imaging ke gambar dan foto Buat kartun menggunakan aplikasi Python dan API server Anda sendiri.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="File gambar Buat kartun melalui python-net" h2="gambar Buat kartun" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Gunakan Python untuk Operasi Buat kartun pada Gambar" h2="Buat kartun Gambar melalui Aplikasi Python Anda Sendiri Menggunakan Perpustakaan Aspose.Imaging" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Semua gambar-gambar format yang didukung untuk operasi Buat kartun" %}}
+{{% blocks/products/pf/feature-page-section  h2="Terapkan operasi Buat kartun ke semua format gambar yang tersedia" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Konversi foto ke kartun adalah salah satu operasi umum yang digunakan oleh banyak seniman. Ini membantu untuk mendapatkan foto kartun dalam beberapa klik tanpa melakukan pekerjaan melukis apa pun. Ingin mengubah gambar standar menjadi gambar kartun dengan cepat? Dalam hal ini Anda dapat mencoba cara kerjanya di pustaka Aspose.Imaging.
+Proses mengubah foto menjadi gambar bergaya kartun, juga dikenal sebagai kartunify, adalah teknik populer yang digunakan oleh desainer untuk membuat gambar dengan efek seperti kartun. Metode ini memungkinkan Anda mendapatkan efek gambar yang diinginkan hanya dengan beberapa klik, tanpa memerlukan keahlian menggambar. Jika Anda ingin dengan cepat mengubah gambar biasa menjadi gambar bergaya kartun, Anda harus mencoba alat yang disediakan oleh perpustakaan Aspose.Imaging.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Menggunakan Aspose.Imaging Anda dapat dengan mudah menerapkan **Buat kartun** untuk berbagai format gambar secara terprogram
+Dengan menggunakan pustaka Aspose.Imaging untuk Python, Anda bisa dengan mudah melakukan operasi <b>Buat kartun</b> untuk gambar dan foto dalam berbagai format secara terprogram.
 </p>
 <h3 style="margin-top:16px;">
-Daftar lengkap operasi Buat kartun yang didukung menurut format gambar:
+Pilih format gambar dari daftar untuk operasi Buat kartun:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

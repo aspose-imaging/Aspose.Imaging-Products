@@ -1,27 +1,26 @@
 ﻿---
-title: Kompres görüntüleri python-net aracılığıyla, desteklenen tüm görüntü biçimleri 
+title: Python kullanan Kompres görselleri 
 weight: 3920
 url: /tr/python-net/compress/ 
 lang: tr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging'i kullanarak, python-net Aracılığıyla kolayca Kompres görüntüleri oluşturabilirsiniz
+description: Kendi Python uygulamalarınızı ve sunucu API'lerinizi kullanarak Aspose.Imaging kitaplığını Kompres görsellerine ve fotoğraflarına uygulama.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="python-net aracılığıyla Kompres görüntü dosyaları" h2="Kompres görselleri" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1="Görsellerde Kompres İşlemi için Python kullanın" h2="Aspose.Imaging Kütüphanesini Kullanarak Kendi Python Uygulamalarınız Üzerinden Kompres Görselleri" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Kompres işlemi Görüntüler için desteklenen tüm biçimler" %}}
+{{% blocks/products/pf/feature-page-section  h2="Kompres işlemini mevcut tüm resim formatlarına uygulayın" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Görüntü sıkıştırma, dijital fotoğrafları saklama veya iletme maliyetini düşürmek için kullanılan bir tür veri sıkıştırmadır. Diğer dijital veriler için kullanılan genel veri sıkıştırma teknikleriyle karşılaştırıldığında, algoritmalar görsel algıdan ve resim verilerinin istatistiksel özelliklerinden yararlanabilir.
-Aspose.Imaging'i kullanarak, neredeyse tüm ihtiyaçlarınıza uygun farklı görüntü türlerini sıkıştırabilirsiniz.
+Dijital görüntüleri depolamak veya göndermek için kullanılan veri boyutunu azaltmak için görüntü sıkıştırmayı kullanın. Diğer dijital bilgi formları için kullanılan genel veri sıkıştırma tekniklerinden farklı olarak, görüntü sıkıştırma algoritmaları görüntünün istatistiksel özelliklerini dikkate alır ve bilginin görsel algısıyla bağlantılıdır. Aspose.Imaging kütüphanesi aracılığıyla, özel ihtiyaçlarınıza göre farklı seviyelerde görüntü sıkıştırma uygulayabilirsiniz.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Aspose.Imaging'i kullanarak farklı görüntü formatları için **Kompres** işlemini kolayca uygulayabilirsiniz programlı olarak
+Python için Aspose.Imaging kütüphanesini kullanarak, çeşitli formatlardaki görüntüler ve fotoğraflar için <b>Kompres</b> işlemini programlı olarak kolayca gerçekleştirebilirsiniz.
 </p>
 <h3 style="margin-top:16px;">
-Görüntü biçimlerine göre desteklenen {işlem adı} işlemlerinin tam listesi:
+Kompres işlemi için listeden bir görüntü formatı seçin:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

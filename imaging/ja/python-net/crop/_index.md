@@ -1,26 +1,26 @@
 ﻿---
-title: 作物 画像 python-net 経由、サポートされているすべての画像形式 
+title: Python を使用した 作物 イメージ 
 weight: 3920
 url: /ja/python-net/crop/ 
 lang: ja
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging を使用すると、python-net 経由で簡単に 作物 イメージを作成できます
+description: 独自の Python アプリケーションとサーバー API を使用して、Aspose.Imaging ライブラリを 作物 の画像と写真に適用します。
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="python-net経由の画像ファイル作物" h2="{操作名} 画像" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1="画像に対する 作物 オペレーションには Python を使用します" h2="Aspose.Imaging ライブラリを使用した独自の Python アプリケーションによる 作物 イメージ" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="作物 操作でサポートされているすべての形式 画像" %}}
+{{% blocks/products/pf/feature-page-section  h2="作物 オペレーションを使用可能なすべての画像形式に適用します" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-トリミングとは、写真やイラストから無関係な要素を取り除くプロセスです。この技術では通常、写真から無関係な視覚情報を除去したり、フレーミングを強化したり、アスペクト比を変更したり、被写体を周囲から強調したり分離したりするために、画像の周囲の一部を除去する必要があります。これは、画像編集ソフトウェアを利用してデジタル的に行うことも、用途に応じて実際のスナップショット、芸術作品、またはフィルム上で行うこともできます。写真、フィルム処理、放送、グラフィック デザイン、印刷業界はすべてクロップを使用しています。 Aspose.Imaging を使用すると、指定されたさまざまなパラメータで画像をトリミングできます。
+画像のトリミングとは、画像や写真から不要な部分を削除する処理です。画像のトリミング操作の結果、画像の周囲の一部を削除して、構成を改善したり、比率を調整したり、主要な要素を中央に配置したりすることができます。これを実現するには、特定の要件に応じて、専用の画像編集ソフトウェアを利用するか、プログラムで画像、写真、風景、ポートレートにトリミング操作を適用することができます。トリミングは、写真、写真加工、ビデオ制作、グラフィック デザイン、印刷などに幅広く応用されています。 Aspose.Imaging ライブラリを使用すると、カスタマイズ可能なパラメータを使用して画像のトリミングを自動化できます。
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Aspose.Imaging を使用すると、さまざまな画像フォーマットに **作物** を簡単に適用できます プログラム的に
+Python の Aspose.Imaging ライブラリを使用すると、さまざまな形式の画像や写真に対する <b>作物</b> 操作をプログラムで簡単に実行できます。
 </p>
 <h3 style="margin-top:16px;">
-画像形式ごとにサポートされている 作物 操作の完全なリスト:
+作物 オペレーションのリストから画像形式を選択します。
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

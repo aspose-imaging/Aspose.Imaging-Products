@@ -1,27 +1,26 @@
 ﻿---
-title: صور ضغط عبر python-net ، جميع تنسيقات الصور المدعومة 
+title: صور ضغط باستخدام Python 
 weight: 3920
 url: /ar/python-net/compress/ 
 lang: ar
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: باستخدام Aspose.Imaging يمكنك بسهولة ضغط الصور عبر python-net
+description: تطبيق مكتبة Aspose.Imaging على الصور والصور الفوتوغرافية ضغط باستخدام تطبيقات Python وواجهات برمجة تطبيقات الخادم الخاصة بك.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="ملفات الصور ضغط عبر python-net" h2="ضغط الصور" downloadText="تحميل" >}}
+{{< blocks/products/pf/feature-page-header h1="استخدم Python لعملية ضغط على الصور" h2="صور ضغط عبر تطبيقات Python الخاصة بك باستخدام مكتبة Aspose.Imaging" downloadText="تحميل" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="جميع التنسيقا تالصور  المدعومة لعملية ضغط" %}}
+{{% blocks/products/pf/feature-page-section  h2="قم بتطبيق عملية ضغط على جميع تنسيقات الصور المتاحة" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-ضغط الصور هو نوع من ضغط البيانات يستخدم لخفض تكلفة تخزين أو نقل الصور الرقمية. عند مقارنتها بتقنيات ضغط البيانات العامة المستخدمة في البيانات الرقمية الأخرى ، قد تستفيد الخوارزميات من الإدراك البصري والخصائص الإحصائية لبيانات الصورة.
-باستخدام Aspose: التصوير يمكنك ضغط أنواع مختلفة من الصور التي قد تناسب جميع احتياجاتك تقريبًا.
+استخدم ضغط الصور لتقليل حجم البيانات المستخدمة لتخزين الصور الرقمية أو إرسالها. على عكس تقنيات ضغط البيانات العامة المستخدمة لأشكال أخرى من المعلومات الرقمية، تأخذ خوارزميات ضغط الصور في الاعتبار الخصائص الإحصائية للصورة وترتبط بالإدراك البصري للمعلومات. من خلال مكتبة Aspose.Imaging، لديك القدرة على تنفيذ مستويات مختلفة من ضغط الصور بناءً على احتياجاتك الخاصة.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-باستخدام Aspose.Imaging ، يمكنك بسهولة تطبيق **ضغط** لتنسيقات الصور المختلفة برمجيا
+باستخدام مكتبة Aspose.Imaging لـ Python، يمكنك بسهولة إجراء عملية <b>ضغط</b> للصور والصور ذات التنسيقات المختلفة برمجيًا.
 </p>
 <h3 style="margin-top:16px;">
-القائمة الكاملة لعمليات ضغط المدعومة حسب تنسيقات الصور:
+حدد تنسيق صورة من القائمة لعملية ضغط:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

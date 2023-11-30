@@ -1,26 +1,26 @@
 ﻿---
-title: Cartoonizza immagini Tramite python-net, tutti i formati immagine supportati 
+title: Immagini Cartoonizza utilizzando Python 
 weight: 3920
 url: /it/python-net/cartoonify/ 
 lang: it
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging puoi facilmente Cartoonizza immagini tramite python-net
+description: Applicazione della libreria Aspose.Imaging alle immagini e alle foto di Cartoonizza utilizzando le tue applicazioni Python e le API del server.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="File immagine Cartoonizza tramite python-net" h2="Cartoonizza immagini" downloadText="Scarica" >}}
+{{< blocks/products/pf/feature-page-header h1="Utilizza Python per l'operazione Cartoonizza sulle immagini" h2="Immagini Cartoonizza tramite le tue applicazioni Python utilizzando la libreria Aspose.Imaging" downloadText="Scarica" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tutti i immagini formati supportati per l'operazione Cartoonizza" %}}
+{{% blocks/products/pf/feature-page-section  h2="Applica l'operazione Cartoonizza a tutti i formati di immagine disponibili" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-La conversione di foto in cartoni animati è una delle operazioni comuni utilizzate da molti artisti. Aiuta a ottenere foto animate in pochi clic senza eseguire alcun lavoro di pittura. Vuoi trasformare rapidamente un'immagine standard in un'immagine a fumetti? In questo caso puoi provare come funziona nella libreria Aspose.Imaging.
+Il processo di trasformazione delle foto in immagini in stile cartone animato, noto anche come cartoonify, è una tecnica popolare utilizzata dai designer per creare immagini con un effetto simile a un cartone animato. Questo metodo ti consente di ottenere l'effetto dell'immagine desiderato con pochi clic, senza bisogno di abilità di disegno. Se vuoi trasformare rapidamente un'immagine normale in un'immagine in stile cartone animato, dovresti provare lo strumento fornito dalla libreria Aspose.Imaging.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Usando Aspose.Imaging puoi facilmente applicare **Cartoonizza** per diversi formati di immagine programmaticamente
+Utilizzando la libreria Aspose.Imaging per Python, puoi facilmente eseguire l'operazione <b>Cartoonizza</b> per immagini e foto di vari formati a livello di codice.
 </p>
 <h3 style="margin-top:16px;">
-Elenco completo delle operazioni Cartoonizza supportate per formati immagine:
+Seleziona un formato immagine dall'elenco per l'operazione Cartoonizza:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

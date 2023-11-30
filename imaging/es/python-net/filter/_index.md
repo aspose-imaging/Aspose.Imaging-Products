@@ -1,26 +1,26 @@
 ﻿---
-title: Imágenes de Filtrar A través de python-net, todos los formatos de imagen admitidos 
+title: Imágenes de Filtrar usando Python 
 weight: 3920
 url: /es/python-net/filter/ 
 lang: es
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging puede fácilmente Filtrar imágenes a través de python-net
+description: Aplicar la biblioteca Aspose.Imaging a imágenes y fotografías de Filtrar utilizando sus propias aplicaciones Python y API de servidor.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Archivos de imagen Filtrar a través de python-net" h2="Imágenes de Filtrar" downloadText="Descargar" >}}
+{{< blocks/products/pf/feature-page-header h1="Utilice Python para la operación Filtrar en imágenes" h2="Filtrar Imágenes a través de sus propias aplicaciones Python utilizando la biblioteca Aspose.Imaging" downloadText="Descargar" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos los imágenes formatos admitidos para la operación Filtrar" %}}
+{{% blocks/products/pf/feature-page-section  h2="Aplicar la operación Filtrar a todos los formatos de imagen disponibles" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-En fotografía y cinematografía, un filtro es un accesorio de cámara que consiste en un filtro óptico que se puede insertar en el camino óptico. El filtro puede tener forma cuadrada u oblonga y montarse en un accesorio de soporte o, más comúnmente, un disco de vidrio o plástico en un marco de anillo de metal o plástico, que se puede atornillar en la parte delantera o enganchar a la lente de la cámara. Los filtros alteran las imágenes grabadas. Se utilizan para alterar fotografías a veces muy poco, y otras veces son completamente necesarios para la creación de la imagen. En la fotografía monocromática, los filtros de colores cambian el brillo relativo de varios colores; el lápiz labial rojo puede parecer entre casi blanco y casi negro, según el filtro utilizado. Otros ajustan el balance de color de la imagen para que las fotografías tomadas con iluminación incandescente muestren los colores tal como se perciben en lugar de con un matiz rojizo. Hay filtros que distorsionan la imagen a propósito, agregando un aspecto estrellado a una imagen nítida, etc. Los reflejos oblicuos de las superficies no metálicas se reducen utilizando filtros polarizadores lineales y circulares. Aspose.Imaging admite filtros como Gaussian Blur, Sharpen, Median Filter, Motion Weiner y muchos otros.
+En la producción de fotografía y vídeo, un filtro es un accesorio adicional de la cámara que incluye un filtro óptico que se puede insertar en la ruta óptica. Puede ser un cristal semitransparente cuadrado o rectangular y se fija al frente de la lente de la cámara. Los filtros alteran la imagen capturada. En la fotografía monocromática, los filtros de color cambian el brillo de diferentes colores; Dependiendo del filtro utilizado, una manzana verde puede parecer casi blanca o casi negra. Otros filtros ajustan el equilibrio de color de la imagen para representar con precisión los colores percibidos bajo la iluminación de una lámpara de luz diurna, en lugar de con un tono frío. También hay filtros que distorsionan intencionalmente la imagen, dando una apariencia borrosa a una imagen nítida. Los filtros polarizadores lineales y circulares reducen el resplandor de las superficies reflectantes. Aspose.Imaging admite varios filtros, como el filtro Gauss-Wiener, el suavizado bilateral, el filtro de mediana, el Motion Weiner, el desenfoque, el enfoque y otros.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Usando Aspose.Imaging puede aplicar fácilmente **Filtrar** para diferentes formatos de imagen programáticamente
+Usando la biblioteca Aspose.Imaging para Python, puede realizar fácilmente la operación <b>Filtrar</b> para imágenes y fotografías de varios formatos mediante programación.
 </p>
 <h3 style="margin-top:16px;">
-Lista completa de operaciones {nombre de operación} admitidas por formatos de imagen:
+Seleccione un formato de imagen de la lista para la operación Filtrar:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

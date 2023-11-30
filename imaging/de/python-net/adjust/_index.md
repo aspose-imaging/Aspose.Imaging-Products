@@ -1,26 +1,26 @@
 ﻿---
-title: Anpassen-Bilder Über python-net alle unterstützten Bildformate 
+title: Anpassen-Bilder mit Python 
 weight: 3920
 url: /de/python-net/adjust/ 
 lang: de
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Mit Aspose.Imaging können Sie ganz einfach Anpassen Bilder über python-net
+description: Anwenden der Aspose.Imaging-Bibliothek auf Anpassen-Bilder und Fotos mithilfe Ihrer eigenen Python-Anwendungen und Server-APIs.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Bilddateien Anpassen über python-net" h2="Anpassen Bilder" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Verwenden Sie Python für den Vorgang Anpassen für Bilder" h2="Anpassen-Bilder über Ihre eigenen Python-Anwendungen mithilfe der Aspose.Imaging-Bibliothek" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bilder Formate für den Vorgang Anpassen" %}}
+{{% blocks/products/pf/feature-page-section  h2="Wenden Sie den Vorgang Anpassen auf alle verfügbaren Bildformate an" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Eine der Hauptfunktionen, die die meisten Bildbibliotheken bieten, sind Farbkorrekturen für digitale Fotos. Farbanpassungen umfassen folgende Kategorien: (1) Der Begriff Helligkeit beschreibt, wie hell oder dunkel ein Farbton ist. Alle Farben in einem Bild werden beleuchtet, wenn die Helligkeit erhöht wird, und alle Farben werden abgedunkelt, wenn die Helligkeit verringert wird. (2) Wenn ein Bild kontrastreich ist, stechen die darin enthaltenen Objekte oder Details stärker hervor. Wenn der Kontrast erhöht wird, vergrößert sich der Unterschied zwischen den hellen und dunklen Bereichen, wodurch die hellen Bereiche heller und die dunklen Bereiche dunkler werden. Hellere und dunklere Teile bleiben im Wesentlichen gleich und weisen einen geringeren Kontrast auf, das Gesamtbild wirkt jedoch gleichmäßiger. (3) Gamma verstärkt die Helligkeit und den Kontrast der indirekten Beleuchtung, die ein Objekt im Bild beleuchtet. Aspose.Imaging unterstützt die Anpassung von <b>Helligkeit</b>, <b>Gamma</b> und <b>Kontrast</b> von Bildern.
+Eine der Hauptfunktionen der Bildverarbeitungsbibliothek besteht darin, die Farbinformationen digitaler Bilder und Fotos anzupassen. Die Farbeinstellungen umfassen verschiedene Parameter: (1) <b>„Helligkeit“</b> gibt den Grad der Helligkeit oder Dunkelheit der Farbe an. Durch Erhöhen der Helligkeit werden alle Farben im Bild heller, durch Verringern der Helligkeit werden sie dunkler. (2) Wenn das Bild einen hohen <b>„Kontrast“</b> aufweist, werden darin enthaltene Objekte oder Details stärker hervorgehoben. Durch die Erhöhung des Kontrasts wird die Unterscheidung zwischen hellen und dunklen Bereichen verstärkt, wodurch helle Bereiche noch heller und dunkle Bereiche noch dunkler werden. Während dieses Vorgangs behalten helle und dunkle Bereiche ihre relativen Schattierungen bei, aber insgesamt erscheint das Bild gleichmäßiger. (3) <b>„Gamma“</b> passt die Helligkeit und den Kontrast des indirekten Lichts an, das auf ein Objekt im Bild oder Foto fällt. Aspose.Imaging ermöglicht die Anpassung von Helligkeit, Gamma und Kontrast von Bildern und Fotos.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Mit Aspose.Imaging können Sie ganz einfach **Anpassen** für verschiedene Bildformate anwenden programmatisch
+Mit der Aspose.Imaging-Bibliothek für Python können Sie den Vorgang <b>Anpassen</b> problemlos programmgesteuert für Bilder und Fotos verschiedener Formate ausführen.
 </p>
 <h3 style="margin-top:16px;">
-Vollständige Liste der unterstützten Anpassen-Vorgänge nach Bildformaten:
+Wählen Sie ein Bildformat aus der Liste für den Vorgang Anpassen aus:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

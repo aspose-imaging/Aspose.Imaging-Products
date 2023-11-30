@@ -1,26 +1,26 @@
 ﻿---
-title: 漫画化 画像 python-net 経由、サポートされているすべての画像形式 
+title: Python を使用した 漫画化 イメージ 
 weight: 3920
 url: /ja/python-net/cartoonify/ 
 lang: ja
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging を使用すると、python-net 経由で簡単に 漫画化 イメージを作成できます
+description: 独自の Python アプリケーションとサーバー API を使用して、Aspose.Imaging ライブラリを 漫画化 の画像と写真に適用します。
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="python-net経由の画像ファイル漫画化" h2="{操作名} 画像" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1="画像に対する 漫画化 オペレーションには Python を使用します" h2="Aspose.Imaging ライブラリを使用した独自の Python アプリケーションによる 漫画化 イメージ" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="漫画化 操作でサポートされているすべての形式 画像" %}}
+{{% blocks/products/pf/feature-page-section  h2="漫画化 オペレーションを使用可能なすべての画像形式に適用します" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-写真から漫画への変換は、多くのアーティストが使用する一般的な操作の 1 つです。ペイント作業を行わずに、数回クリックするだけで漫画のような写真を取得できます。標準画像を漫画画像にすばやく変換したいですか?この場合、Aspose.Imaging ライブラリでどのように動作するかを試すことができます。
+写真を漫画風の画像に変換するプロセス (漫画化とも呼ばれます) は、漫画のような効果を持つ画像を作成するためにデザイナーが使用する一般的なテクニックです。この方法を使用すると、描画スキルがなくても、数回クリックするだけで目的の画像効果を実現できます。通常の画像を漫画風の画像にすばやく変換したい場合は、Aspose.Imaging ライブラリが提供するツールを試してください。
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Aspose.Imaging を使用すると、さまざまな画像フォーマットに **漫画化** を簡単に適用できます プログラム的に
+Python の Aspose.Imaging ライブラリを使用すると、さまざまな形式の画像や写真に対する <b>漫画化</b> 操作をプログラムで簡単に実行できます。
 </p>
 <h3 style="margin-top:16px;">
-画像形式ごとにサポートされている 漫画化 操作の完全なリスト:
+漫画化 オペレーションのリストから画像形式を選択します。
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

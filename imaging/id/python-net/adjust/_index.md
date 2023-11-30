@@ -1,26 +1,26 @@
 ﻿---
-title: gambar Menyesuaikan Melalui python-net, semua format gambar yang didukung 
+title: gambar Menyesuaikan menggunakan Python 
 weight: 3920
 url: /id/python-net/adjust/ 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Menggunakan Aspose.Imaging Anda dapat dengan mudah Menyesuaikan gambar Via python-net
+description: Menerapkan pustaka Aspose.Imaging ke gambar dan foto Menyesuaikan menggunakan aplikasi Python dan API server Anda sendiri.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="File gambar Menyesuaikan melalui python-net" h2="gambar Menyesuaikan" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Gunakan Python untuk Operasi Menyesuaikan pada Gambar" h2="Menyesuaikan Gambar melalui Aplikasi Python Anda Sendiri Menggunakan Perpustakaan Aspose.Imaging" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Semua gambar-gambar format yang didukung untuk operasi Menyesuaikan" %}}
+{{% blocks/products/pf/feature-page-section  h2="Terapkan operasi Menyesuaikan ke semua format gambar yang tersedia" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Salah satu fitur utama yang ditawarkan oleh mayoritas perpustakaan pencitraan adalah koreksi warna untuk foto digital. Penyesuaian warna berisi beberapa kategori berikut sebagai (1) Istilah kecerahan menjelaskan seberapa terang atau gelap suatu rona. Semua warna dalam gambar akan menyala saat kecerahan dinaikkan, dan semua warna menjadi gelap saat kecerahan dikurangi; (2) Ketika sebuah gambar memiliki kontras, objek atau detail di dalamnya lebih menonjol. Ketika kontras ditingkatkan, perbedaan antara bagian yang terang dan gelap bertambah, membuat bagian yang terang menjadi lebih terang dan bagian yang gelap menjadi lebih gelap. Bagian yang lebih terang dan lebih gelap pada dasarnya akan tetap sama dengan sedikit kontras, tetapi keseluruhan gambar akan terlihat lebih seragam; (3) Gamma meningkatkan kecerahan dan kontras iluminasi tidak langsung yang menyinari objek dalam gambar. Aspose.Imaging mendukung penyesuaian <b>Kecerahan</b>, <b>Gamma</b> dan <b>Kontras</b> gambar.
+Salah satu fungsi utama perpustakaan pemrosesan gambar adalah menyesuaikan informasi warna gambar dan foto digital. Pengaturan warna mencakup berbagai parameter: (1) <b>"Kecerahan"</b> menunjukkan tingkat terang atau gelapnya warna. Meningkatkan kecerahan akan membuat semua warna pada gambar menjadi lebih terang, sedangkan menurunkan kecerahan akan menjadikannya lebih gelap. (2) Jika gambar memiliki <b>"Kontras"</b> yang tinggi, objek atau detail di dalamnya akan lebih ditekankan. Meningkatkan kontras akan memperkuat perbedaan antara area terang dan gelap, membuat area terang menjadi lebih terang dan area gelap menjadi lebih gelap. Sepanjang proses ini, area terang dan gelap mempertahankan warna relatifnya, namun secara keseluruhan, gambar tampak lebih seragam. (3) <b>"Gamma"</b> menyesuaikan kecerahan dan kontras pencahayaan tidak langsung yang mengenai objek dalam gambar atau foto. Aspose.Imaging memungkinkan penyesuaian kecerahan, gamma, dan kontras gambar dan foto.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Menggunakan Aspose.Imaging Anda dapat dengan mudah menerapkan **Menyesuaikan** untuk berbagai format gambar secara terprogram
+Dengan menggunakan pustaka Aspose.Imaging untuk Python, Anda bisa dengan mudah melakukan operasi <b>Menyesuaikan</b> untuk gambar dan foto dalam berbagai format secara terprogram.
 </p>
 <h3 style="margin-top:16px;">
-Daftar lengkap operasi Menyesuaikan yang didukung menurut format gambar:
+Pilih format gambar dari daftar untuk operasi Menyesuaikan:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

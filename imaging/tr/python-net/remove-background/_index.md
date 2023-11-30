@@ -1,26 +1,26 @@
 ﻿---
-title: Arkaplanı kaldırın görüntüleri python-net aracılığıyla, desteklenen tüm görüntü biçimleri 
+title: Python kullanan Arkaplanı kaldırın görselleri 
 weight: 3920
 url: /tr/python-net/remove-background/ 
 lang: tr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging'i kullanarak, python-net Aracılığıyla kolayca Arkaplanı kaldırın görüntüleri oluşturabilirsiniz
+description: Kendi Python uygulamalarınızı ve sunucu API'lerinizi kullanarak Aspose.Imaging kitaplığını Arkaplanı kaldırın görsellerine ve fotoğraflarına uygulama.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="python-net aracılığıyla Arkaplanı kaldırın görüntü dosyaları" h2="Arkaplanı kaldırın görselleri" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1="Görsellerde Arkaplanı kaldırın İşlemi için Python kullanın" h2="Aspose.Imaging Kütüphanesini Kullanarak Kendi Python Uygulamalarınız Üzerinden Arkaplanı kaldırın Görselleri" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Arkaplanı kaldırın işlemi Görüntüler için desteklenen tüm biçimler" %}}
+{{% blocks/products/pf/feature-page-section  h2="Arkaplanı kaldırın işlemini mevcut tüm resim formatlarına uygulayın" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Arka planı kaldır, fotoğraflarınızdan veya resimlerinizden arka planı kolayca kaldırmanıza olanak tanıyan bir işlemdir. Arka plan kaldırma işlemi sonucunda şeffaf bir arka plan elde edebilir ve ön planı başka bir arka plana koyabilirsiniz. Aspose.Imaging'i kullanarak, farklı görüntüler için ihtiyaçlarınıza uygun farklı arka plan kaldırma algoritmalarını deneyebilirsiniz.
+Arka plan kaldırma işlemini kullanarak fotoğraflardan veya görsellerden arka planı zahmetsizce kaldırabilirsiniz. Bu işlem, şeffaf bir arka plana sahip insan figürleri gibi nesnelerle sonuçlanır. Daha sonra bu nesneleri farklı arka plana sahip başka bir görselin üzerine kolaylıkla aktarabilirsiniz. Aspose.Imaging'i kullanarak, görevinizin karmaşıklığına bağlı olarak, farklı görüntü türleri için uygun olan çeşitli arka plan kaldırma algoritmalarını deneme olanağına sahip olursunuz.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Aspose.Imaging'i kullanarak farklı görüntü formatları için **Arkaplanı kaldırın** işlemini kolayca uygulayabilirsiniz programlı olarak
+Python için Aspose.Imaging kütüphanesini kullanarak, çeşitli formatlardaki görüntüler ve fotoğraflar için <b>Arkaplanı kaldırın</b> işlemini programlı olarak kolayca gerçekleştirebilirsiniz.
 </p>
 <h3 style="margin-top:16px;">
-Görüntü biçimlerine göre desteklenen {işlem adı} işlemlerinin tam listesi:
+Arkaplanı kaldırın işlemi için listeden bir görüntü formatı seçin:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

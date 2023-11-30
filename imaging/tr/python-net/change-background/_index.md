@@ -1,26 +1,26 @@
 ﻿---
-title: Arka planı değiştir görüntüleri python-net aracılığıyla, desteklenen tüm görüntü biçimleri 
+title: Python kullanan Arka planı değiştir görselleri 
 weight: 3920
 url: /tr/python-net/change-background/ 
 lang: tr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging'i kullanarak, python-net Aracılığıyla kolayca Arka planı değiştir görüntüleri oluşturabilirsiniz
+description: Kendi Python uygulamalarınızı ve sunucu API'lerinizi kullanarak Aspose.Imaging kitaplığını Arka planı değiştir görsellerine ve fotoğraflarına uygulama.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="python-net aracılığıyla Arka planı değiştir görüntü dosyaları" h2="Arka planı değiştir görselleri" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1="Görsellerde Arka planı değiştir İşlemi için Python kullanın" h2="Aspose.Imaging Kütüphanesini Kullanarak Kendi Python Uygulamalarınız Üzerinden Arka planı değiştir Görselleri" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Arka planı değiştir işlemi Görüntüler için desteklenen tüm biçimler" %}}
+{{% blocks/products/pf/feature-page-section  h2="Arka planı değiştir işlemini mevcut tüm resim formatlarına uygulayın" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Arka planı değiştir, fotoğraflarınızı veya resimlerinizi işlemek için gereken en yaygın işlemlerden biridir. Aspose.Imaging'i kullanarak bir fotoğrafınızdan arka planı kolayca kaldırabilir ve ön plan nesnesini başka bir fotoğrafa koyabilirsiniz. Ayrıca ön plan nesnesini tanıyabilir ve gerekirse tespit edebilirsiniz. Sonuç olarak şeffaf bir arka plan elde edebilir ve ihtiyacınıza göre işlem yapabilirsiniz.
+Arka planı değiştirmek, resim ve fotoğraf düzenlemede sıklıkla yapılan bir iştir. Aspose.Imaging'i kullanarak, bir fotoğrafta ön plandaki nesneyi arka plandan otomatik veya manuel olarak kolayca ayırabilir ve ardından başka bir görüntünün üzerine yerleştirebilirsiniz. Ek olarak Cloud API, ön plandaki nesneyi tanımlamanıza ve gerekirse arka planı kaldırmanıza olanak tanır. Bu, şeffaf arka plana sahip bir nesne elde etmenize ve orijinal arka planı farklı bir arka planla değiştirmenize olanak sağlar.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Aspose.Imaging'i kullanarak farklı görüntü formatları için **Arka planı değiştir** işlemini kolayca uygulayabilirsiniz programlı olarak
+Python için Aspose.Imaging kütüphanesini kullanarak, çeşitli formatlardaki görüntüler ve fotoğraflar için <b>Arka planı değiştir</b> işlemini programlı olarak kolayca gerçekleştirebilirsiniz.
 </p>
 <h3 style="margin-top:16px;">
-Görüntü biçimlerine göre desteklenen {işlem adı} işlemlerinin tam listesi:
+Arka planı değiştir işlemi için listeden bir görüntü formatı seçin:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

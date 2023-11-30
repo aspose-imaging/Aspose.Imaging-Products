@@ -9,7 +9,7 @@ description: Thư viện thao tác và xử lý hình ảnh Python. Aspose.Imagi
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1="Aspose.Imaging cho Python thông qua thư viện .NET và API để xử lý ảnh" h2="Tạo, tải, thao tác hoặc chuyển đổi hình ảnh mà không yêu cầu bất kỳ trình chỉnh sửa hình ảnh nào." downloadFreeTrialText="Tải xuống bản dùng thử miễn phí" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-python-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/imaging/python-net/" >}}
+{{< blocks/products/pf/upper-banner h1="Aspose.Imaging cho Python thông qua thư viện .NET và API để xử lý ảnh" h2="Tạo các ứng dụng Python của riêng bạn để xử lý hình ảnh mà không cần bất kỳ trình chỉnh sửa hình ảnh nào" downloadFreeTrialText="Tải xuống bản dùng thử miễn phí" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-python-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/imaging/python-net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Python" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-python-net.svg" 
@@ -19,42 +19,42 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
 
    <div class="col-lg-12">
     <h2 class="h2title">
-     Khai phá toàn bộ tiềm năng của việc xử lý hình ảnh bằng Aspose.Imaging cho Python
+     Áp dụng tất cả khả năng xử lý hình ảnh với Aspose.Imaging for Python
     </h2>
     <p align="justify">
-     Aspose.Imaging for Python là một thư viện thân thiện với người dùng, hỗ trợ bạn khả năng xử lý hình ảnh nâng cao. Với API linh hoạt này, bạn có thể dễ dàng tạo, tải, thao tác, chuyển đổi và nén hình ảnh hoặc ảnh, cho phép thực hiện nhiều tính năng xử lý hình ảnh mà không cần trình chỉnh sửa hình ảnh chuyên dụng.
+     Aspose.Imaging for Python là một thư viện cung cấp các tính năng nâng cao để xử lý hình ảnh và ảnh. Với API đa năng này, bạn có thể tự động tải, chuyển đổi, tạo và thao tác với hình ảnh hoặc ảnh chụp mà không cần đến trình chỉnh sửa hình ảnh chuyên dụng.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Khám phá các tính năng chính:
+     Sử dụng các tính năng chính:
     </h2>
     <p>
      <ul>
        <li>
-       Chuyển đổi hình ảnh: Thay đổi kích thước, cắt, lật, xoay, nhị phân, thang độ xám, chỉnh sửa và điều chỉnh hình ảnh một cách dễ dàng.
+       Chuyển đổi hình ảnh: chia tỷ lệ, thay đổi kích thước, cắt, xoay, chuyển sang đen trắng hoặc thang độ xám, điều chỉnh độ sáng, độ tương phản và gamma của hình ảnh hoặc ảnh.
        </li>
        <li>
-       Thao tác nâng cao: Áp dụng các bộ lọc, công cụ trộn alpha, cây đũa thần, xóa hình mờ, xóa nền, phối màu và tạo mặt nạ để kiểm soát các tác vụ xử lý hình ảnh của bạn.
+       Thao tác nâng cao: áp dụng bộ lọc, trộn alpha, thêm hoặc xóa hình mờ, thay đổi hình nền, làm mịn hình ảnh, áp dụng mặt nạ và tự động hóa các tác vụ xử lý hình ảnh.
        </li>
        <li>
-       Tối ưu hóa bộ nhớ hiệu quả: Tận hưởng các chiến lược tối ưu hóa bộ nhớ để đảm bảo xử lý hình ảnh mượt mà và hiệu quả.
+       Tối ưu hóa bộ nhớ: sử dụng các chiến lược tối ưu hóa bộ nhớ để đảm bảo xử lý hình ảnh nhanh chóng và hiệu quả.
        </li>
        <li>
-       Bản vẽ và đồ họa nguyên thủy: Khai thác sức mạnh của các công cụ vẽ và làm việc với các nguyên mẫu đồ họa để nâng cao dự án của bạn.
+       Vẽ và đồ họa nguyên thủy: sử dụng các chức năng vẽ cho nguyên thủy đồ họa và áp dụng văn bản với các kiểu phông chữ khác nhau.
        </li>
        <li>
-       Xuất và chuyển đổi: Xuất và chuyển đổi hình ảnh một cách liền mạch, bao gồm xử lý hình ảnh nhiều trang thống nhất.
+       Chuyển đổi hình ảnh: xuất hình ảnh có chuyển đổi sang các định dạng khác, bao gồm xử lý thống nhất các hình ảnh nhiều trang.
        </li>
      </ul>
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Khả năng tương thích định dạng
+     Hỗ trợ nhiều định dạng khác nhau
     </h2>
     <p align="justify">
-     Aspose.Imaging cho Python không chỉ linh hoạt, ổn định mà còn linh hoạt. Nó hỗ trợ các định dạng hình ảnh được sử dụng phổ biến nhất và tiến thêm một bước nữa bằng cách cung cấp hỗ trợ cho các định dạng đặc biệt như DjVu, DICOM, WebP, EPS và DNG. Hỗ trợ định dạng mở rộng này khiến nó trở thành giải pháp phù hợp cho nhiều tác vụ xử lý hình ảnh.
+     Hỗ trợ nhiều định dạng khác nhau Aspose.Imaging cho Python nổi bật bởi tính ổn định, tính linh hoạt và chức năng của nó. Nó hỗ trợ nhiều định dạng, bao gồm các định dạng đặc biệt như APNG, WebP, EPS, PDF và DICOM. Hỗ trợ định dạng rộng làm cho nó trở thành một giải pháp lý tưởng cho nhiều tác vụ xử lý hình ảnh.
     </p>
    </div>
    <div class="col-lg-12">
@@ -62,10 +62,10 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
      Khả năng tương thích đa nền tảng
     </h2>
     <p align="justify">
-     Aspose.Imaging là thư viện đa nền tảng, đảm bảo khả năng tương thích với cả môi trường Windows và Linux. Cho dù bạn đang làm việc trên hệ thống Windows hay Linux, bạn đều có thể dựa vào Aspose.Imaging để cung cấp khả năng xử lý hình ảnh chất lượng cao, nhất quán.
+     Aspose.Imaging là một thư viện phổ quát có thể được sử dụng trên cả hệ điều hành Windows và Linux nhờ khả năng tương thích đa nền tảng. Bạn có thể dựa vào Aspose.Imaging để cung cấp khả năng xử lý hình ảnh ổn định và chất lượng cao.
     </p>
     <p align="justify">
-     Nâng các dự án xử lý hình ảnh của bạn lên tầm cao mới với Aspose.Imaging for Python. Hãy trải nghiệm tính linh hoạt, ổn định và sức mạnh của API của chúng tôi ngay hôm nay.
+     Đạt được cấp độ chất lượng mới trong xử lý hình ảnh với Aspose.Imaging cho Python. Hãy sử dụng API của chúng tôi ngay hôm nay và trải nghiệm tính linh hoạt, ổn định và hiệu suất của nó.
     </p>
    </div>
 
@@ -184,7 +184,19 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
-   
+   <header>
+    <i class = "fa fa-cubes">
+    </i>
+    .NET Framework
+   </header>
+   <ul>
+    <li>
+     Ứng dụng Windows
+    </li>
+    <li>
+     Ứng dụng web ASP.NET
+    </li>
+   </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">

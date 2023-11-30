@@ -1,26 +1,26 @@
 ﻿---
-title: Filter afbeeldingen Via python-net, alle ondersteunde afbeeldingsformaten 
+title: Filter afbeeldingen met Python 
 weight: 3920
 url: /nl/python-net/filter/ 
 lang: nl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Met behulp van Aspose.Imaging kunt u eenvoudig Filter afbeeldingen maken via python-net
+description: Aspose.Imaging-bibliotheek toepassen op Filter afbeeldingen en foto's met behulp van uw eigen Python-applicaties en server-API's.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Afbeeldingsbestanden Filter via python-net" h2="Filter afbeeldingen" downloadText="Downloaden" >}}
+{{< blocks/products/pf/feature-page-header h1="Gebruik Python voor bewerking van Filter op afbeeldingen" h2="Filter Afbeeldingen via uw eigen Python-applicaties met behulp van de Aspose.Imaging-bibliotheek" downloadText="Downloaden" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde indelingen voor de bewerking afbeeldingen Filter" %}}
+{{% blocks/products/pf/feature-page-section  h2="Pas de bewerking Filter toe op alle beschikbare afbeeldingsformaten" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-In fotografie en cinematografie is een filter een camera-accessoire dat bestaat uit een optisch filter dat in het optische pad kan worden geplaatst. Het filter kan een vierkante of langwerpige vorm hebben en in een houderaccessoire worden gemonteerd, of, vaker, een glazen of plastic schijf in een metalen of plastic ringframe, dat in de voorkant van de cameralens kan worden geschroefd of op de cameralens kan worden geklikt. Filters veranderen de opgenomen beelden. Ze worden gebruikt om foto's soms heel weinig te veranderen, en soms zijn ze absoluut noodzakelijk voor het maken van de afbeelding. Bij zwart-witfotografie veranderen gekleurde filters de relatieve helderheid van verschillende kleuren; rode lippenstift kan ergens tussen bijna wit en bijna zwart lijken, afhankelijk van het gebruikte filter. Anderen passen de kleurbalans van het beeld aan, zodat opnamen die bij gloeilamplicht zijn gemaakt, kleuren weergeven zoals ze worden waargenomen in plaats van met een roodachtige tint. Er zijn filters die het beeld doelbewust vervormen, een sterachtige uitstraling toevoegen aan een anders scherp beeld, enz. Schuine reflecties van niet-metalen oppervlakken worden verminderd met behulp van lineaire en circulaire polarisatiefilters. Aspose.Imaging ondersteunt filters als Gaussian Blur, Sharpen, Median Filter, Motion Weiner en vele anderen.
+Bij fotografie en videoproductie is een filter een extra cameraaccessoire dat een optisch filter bevat dat in het optische pad kan worden geplaatst. Het kan een vierkant of rechthoekig semi-transparant glas zijn en wordt aan de voorkant van de cameralens bevestigd. Filters veranderen het vastgelegde beeld. Bij zwart-witfotografie veranderen kleurenfilters de helderheid van verschillende kleuren; afhankelijk van het gebruikte filter kan een groene appel er bijna wit of bijna zwart uitzien. Andere filters passen de kleurbalans van het beeld aan om de waargenomen kleuren nauwkeurig weer te geven onder daglichtlampverlichting, in plaats van met een koude toon. Er zijn ook filters die het beeld opzettelijk vervormen, waardoor een scherp beeld wazig wordt. Lineaire en circulaire polarisatiefilters verminderen de schittering van reflecterende oppervlakken. Aspose.Imaging ondersteunt verschillende filters zoals Gauss-Wiener Filter, Bilateral Smoothing, Median Filter, Motion Weiner, Blur, Sharpen en andere.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Met Aspose.Imaging kunt u eenvoudig **Filter** toepassen voor verschillende afbeeldingsformaten programmatisch
+Met behulp van de Aspose.Imaging-bibliotheek voor Python kunt u eenvoudig de bewerking <b>Filter</b> programmatisch uitvoeren voor afbeeldingen en foto's van verschillende formaten.
 </p>
 <h3 style="margin-top:16px;">
-Volledige lijst met ondersteunde Filter-bewerkingen per afbeeldingsindeling:
+Selecteer een afbeeldingsformaat uit de lijst voor de bewerking Filter:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

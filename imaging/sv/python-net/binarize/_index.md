@@ -1,26 +1,26 @@
 ﻿---
-title: Binarisera bilder Via python-net, alla bildformat som stöds 
+title: Binarisera-bilder med Python 
 weight: 3920
 url: /sv/python-net/binarize/ 
 lang: sv
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Med Aspose.Imaging kan du enkelt Binarisera bilder via python-net
+description: Tillämpa Aspose.Imaging-biblioteket på Binarisera-bilder och foton med dina egna Python-applikationer och server-API:er.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Bildfiler Binarisera via python-net" h2="Binarisera bilder" downloadText="Ladda ner" >}}
+{{< blocks/products/pf/feature-page-header h1="Använd Python för Binarisera operation på bilder" h2="Binarisera-bilder via dina egna Python-applikationer som använder Aspose.Imaging-biblioteket" downloadText="Ladda ner" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alla bilder format som stöds för operationen Binarisera" %}}
+{{% blocks/products/pf/feature-page-section  h2="Använd åtgärden Binarisera på alla tillgängliga bildformat" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-En bilds förgrund och bakgrund separeras med en teknik som kallas bildtröskelvärde. Denna metod tilldelar pixelvärdena i enlighet med de givna tröskelvärdena. Gråskalebilder är tröskelvärda i datorseende. En av de mest kända metoderna är binarisering av <b>Otsu</b> och av <b>Bradley</b>. Aspose.Imaging stöder båda algoritmerna. Med hjälp av dessa algoritmer kan dina bilder konverteras till svartvitt med tröskelvärde.
+Vid bearbetning av bilder används en metod som kallas binarisering för att konvertera bilden till ett svartvitt format med ett specificerat tröskelvärde. Denna metod innebär att tilldela pixelvärden baserat på det givna tröskelvärdet. När man arbetar med gråskalebilder är det viktigt att ange ett tröskelvärde för att separera objekt med hjälp av datorseendeteknik. Det finns olika konverteringsmetoder tillgängliga, såsom binarisering med <b>Otsu</b> och <b>Bradley</b>-metoden, som båda stöds av Aspose.Imaging. Genom att använda dessa algoritmer kan du konvertera dina bilder till svartvitt med ett specificerat tröskelvärde.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Med Aspose.Imaging kan du enkelt använda **Binarisera** för olika bildformat programmatiskt
+Genom att använda Aspose.Imaging-biblioteket för Python kan du enkelt utföra <b>Binarisera</b>-åtgärden för bilder och foton i olika format programmatiskt.
 </p>
 <h3 style="margin-top:16px;">
-Fullständig lista över Binarisera-operationer som stöds efter bildformat:
+Välj ett bildformat från listan för åtgärden Binarisera:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

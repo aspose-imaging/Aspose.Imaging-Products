@@ -1,26 +1,26 @@
 ﻿---
-title: Karikatūrizuoti vaizdai Per python-net, visi palaikomi vaizdo formatai 
+title: Karikatūrizuoti vaizdai naudojant Python 
 weight: 3920
 url: /lt/python-net/cartoonify/ 
 lang: lt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Naudodami Aspose.Imaging galite lengvai sukurti Karikatūrizuoti vaizdus per python-net
+description: Aspose.Imaging bibliotekos taikymas Karikatūrizuoti vaizdams ir nuotraukoms naudojant savo Python programas ir serverio API.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Vaizdo failai Karikatūrizuoti per python-net" h2="Karikatūrizuoti vaizdai" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Naudokite Python Karikatūrizuoti operacijai su vaizdais" h2="Karikatūrizuoti vaizdai per savo Python programas naudojant Aspose.Imaging biblioteką" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Karikatūrizuoti attēlus formatai" %}}
+{{% blocks/products/pf/feature-page-section  h2="Taikykite operaciją Karikatūrizuoti visiems galimiems vaizdo formatams" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Nuotraukos konvertavimas į animacinį filmuką yra viena iš įprastų daugelio menininkų atliekamų operacijų. Tai padeda gauti animacinę nuotrauką keliais paspaudimais neatliekant jokių dažymo darbų. Norite greitai standartinį vaizdą paversti animaciniu vaizdu? Tokiu atveju galite pabandyti, kaip tai veikia Aspose.Imaging bibliotekoje.
+Nuotraukų pavertimas animacinio filmo stiliaus vaizdais, dar žinomas kaip karikatūrizavimas, yra populiari technika, kurią dizaineriai naudoja kurdami vaizdus su animacinio filmo efektu. Šis metodas leidžia pasiekti norimą vaizdo efektą vos keliais paspaudimais, nereikalaujant piešimo įgūdžių. Jei norite įprastą vaizdą greitai paversti animacinio filmo stiliaus vaizdu, turėtumėte išbandyti Aspose.Imaging bibliotekos pateiktą įrankį.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Naudodami Aspose.Imaging galite lengvai pritaikyti **Karikatūrizuoti** skirtingiems vaizdo formatams programmatiski
+Naudodami Aspose.Imaging biblioteką, skirtą Python, galite lengvai atlikti <b>Karikatūrizuoti</b> operaciją įvairių formatų vaizdams ir nuotraukoms programiškai.
 </p>
 <h3 style="margin-top:16px;">
-Visas palaikomų operacijų Karikatūrizuoti sąrašas pagal vaizdo formatus:
+Iš sąrašo pasirinkite vaizdo formatą operacijai Karikatūrizuoti:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

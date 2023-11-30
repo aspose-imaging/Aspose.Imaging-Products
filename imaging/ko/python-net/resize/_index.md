@@ -1,26 +1,26 @@
 ﻿---
-title: 크기 조정 이미지 python-net을 통해 지원되는 모든 이미지 형식 
+title: Python을 사용하는 크기 조정 이미지 
 weight: 3920
 url: /ko/python-net/resize/ 
 lang: ko
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging을 사용하면 python-net을 통해 쉽게 크기 조정 이미지를 만들 수 있습니다.
+description: 자체 Python 애플리케이션 및 서버 API를 사용하여 Aspose.Imaging 라이브러리를 크기 조정 이미지 및 사진에 적용합니다.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="python-net을 통한 이미지 파일 크기 조정" h2="{작업 이름} 이미지" downloadText="다운로드" >}}
+{{< blocks/products/pf/feature-page-header h1="이미지에 대한 크기 조정 작업에 Python 사용" h2="Aspose.Imaging 라이브러리를 사용하여 자체 Python 애플리케이션을 통한 크기 조정 이미지" downloadText="다운로드" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="크기 조정 작업에 대해 지원되는 모든 형식 이미지" %}}
+{{% blocks/products/pf/feature-page-section  h2="사용 가능한 모든 이미지 형식에 크기 조정 작업을 적용합니다." %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-콘텐츠를 제거하지 않고도 이미지 크기를 조정하여 더 크거나 작게 만들 수 있습니다. 이미지의 크기는 크기가 조정될 때 변경되며 이는 종종 파일 크기와 이미지 품질에 영향을 미칩니다. 큰 사진을 이메일로 보내거나 온라인으로 공유하기 쉽도록 크기를 줄이는 것이 사진 축소에 대한 가장 일반적인 근거입니다. 래스터 그래픽 이미지는 더 많거나 적은 픽셀로 새 이미지를 만들어 크기를 조정해야 합니다. Aspose.Imaging은 사용자가 필요한 것을 선택할 수 있는 다양한 크기 조정 알고리즘을 허용합니다.
+Aspose.Imaging을 사용하면 시각적 정보를 잃지 않고 이미지나 사진의 크기를 조정할 수 있습니다. 이미지 크기를 조정하면 파일 무게가 변경되어 품질이 저하될 수 있습니다. 이미지 크기를 줄이는 것은 이메일로 빠르게 전송하거나 인터넷 사이트에서 빠르게 다운로드하는 주요 방법입니다. 래스터 이미지의 크기를 조정하면 더 적거나 더 많은 픽셀로 새 이미지가 생성됩니다. 즉, 이미지 크기가 조정됩니다. Aspose.Imaging은 다양한 크기 조정 알고리즘을 제공하므로 특정 작업에 가장 적합한 알고리즘을 선택할 수 있습니다.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Aspose.Imaging을 사용하면 다양한 이미지 형식에 **크기 조정** 을(를) 쉽게 적용할 수 있습니다 프로그래밍 방식으로. 
+Python용 Aspose.Imaging 라이브러리를 사용하면 다양한 형식의 이미지와 사진에 대한 <b>크기 조정</b> 작업을 프로그래밍 방식으로 쉽게 수행할 수 있습니다.
 </p>
 <h3 style="margin-top:16px;">
-이미지 형식별로 지원되는 크기 조정 작업의 전체 목록:
+크기 조정 작업에 대한 목록에서 이미지 형식을 선택하세요.
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,26 +1,26 @@
 ﻿---
-title: صور إزالة الخلفية عبر python-net ، جميع تنسيقات الصور المدعومة 
+title: صور إزالة الخلفية باستخدام Python 
 weight: 3920
 url: /ar/python-net/remove-background/ 
 lang: ar
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: باستخدام Aspose.Imaging يمكنك بسهولة إزالة الخلفية الصور عبر python-net
+description: تطبيق مكتبة Aspose.Imaging على الصور والصور الفوتوغرافية إزالة الخلفية باستخدام تطبيقات Python وواجهات برمجة تطبيقات الخادم الخاصة بك.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="ملفات الصور إزالة الخلفية عبر python-net" h2="إزالة الخلفية الصور" downloadText="تحميل" >}}
+{{< blocks/products/pf/feature-page-header h1="استخدم Python لعملية إزالة الخلفية على الصور" h2="صور إزالة الخلفية عبر تطبيقات Python الخاصة بك باستخدام مكتبة Aspose.Imaging" downloadText="تحميل" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="جميع التنسيقا تالصور  المدعومة لعملية إزالة الخلفية" %}}
+{{% blocks/products/pf/feature-page-section  h2="قم بتطبيق عملية إزالة الخلفية على جميع تنسيقات الصور المتاحة" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-إزالة الخلفية هي عملية تسمح لك بإزالة الخلفية بسهولة من صورك أو صورك. نتيجة لإزالة الخلفية ، يمكنك الحصول على خلفية شفافة ووضع المقدمة لخلفية أخرى. باستخدام Aspose: التصوير ، يمكنك تجربة خوارزميات إزالة خلفية مختلفة قد تناسب احتياجاتك لصور مختلفة.
+باستخدام عملية إزالة الخلفية، يمكنك إزالة الخلفية من الصور أو الصور بسهولة. تؤدي هذه العملية إلى ظهور كائنات مثل الأشكال البشرية ذات الخلفية الشفافة. وبعد ذلك، يمكنك بسهولة نقل هذه الكائنات إلى صورة أخرى بخلفية مختلفة. باستخدام Aspose.Imaging، لديك القدرة على تجربة العديد من خوارزميات إزالة الخلفية المناسبة لأنواع مختلفة من الصور، اعتمادًا على مدى تعقيد مهمتك.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-باستخدام Aspose.Imaging ، يمكنك بسهولة تطبيق **إزالة الخلفية** لتنسيقات الصور المختلفة برمجيا
+باستخدام مكتبة Aspose.Imaging لـ Python، يمكنك بسهولة إجراء عملية <b>إزالة الخلفية</b> للصور والصور ذات التنسيقات المختلفة برمجيًا.
 </p>
 <h3 style="margin-top:16px;">
-القائمة الكاملة لعمليات إزالة الخلفية المدعومة حسب تنسيقات الصور:
+حدد تنسيق صورة من القائمة لعملية إزالة الخلفية:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

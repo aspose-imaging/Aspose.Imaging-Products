@@ -1,27 +1,26 @@
 ﻿---
-title: 압박 붕대 이미지 python-net을 통해 지원되는 모든 이미지 형식 
+title: Python을 사용하는 압박 붕대 이미지 
 weight: 3920
 url: /ko/python-net/compress/ 
 lang: ko
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging을 사용하면 python-net을 통해 쉽게 압박 붕대 이미지를 만들 수 있습니다.
+description: 자체 Python 애플리케이션 및 서버 API를 사용하여 Aspose.Imaging 라이브러리를 압박 붕대 이미지 및 사진에 적용합니다.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="python-net을 통한 이미지 파일 압박 붕대" h2="{작업 이름} 이미지" downloadText="다운로드" >}}
+{{< blocks/products/pf/feature-page-header h1="이미지에 대한 압박 붕대 작업에 Python 사용" h2="Aspose.Imaging 라이브러리를 사용하여 자체 Python 애플리케이션을 통한 압박 붕대 이미지" downloadText="다운로드" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="압박 붕대 작업에 대해 지원되는 모든 형식 이미지" %}}
+{{% blocks/products/pf/feature-page-section  h2="사용 가능한 모든 이미지 형식에 압박 붕대 작업을 적용합니다." %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-이미지 압축은 디지털 사진을 저장하거나 전송하는 비용을 낮추기 위해 사용되는 일종의 데이터 압축입니다. 다른 디지털 데이터에 사용되는 일반적인 데이터 압축 기술과 비교할 때 알고리즘은 시각적 인식과 그림 데이터의 통계적 특성에서 이점을 얻을 수 있습니다.
-Aspose.Imaging을 사용하면 거의 모든 필요에 맞는 다양한 이미지 유형을 압축할 수 있습니다.
+이미지 압축을 사용하여 디지털 이미지를 저장하거나 전송하는 데 사용되는 데이터 크기를 줄입니다. 다른 형태의 디지털 정보에 사용되는 일반적인 데이터 압축 기술과 달리 이미지 압축 알고리즘은 이미지의 통계적 특성을 고려하고 정보의 시각적 인식과 연결됩니다. Aspose.Imaging 라이브러리를 통해 특정 요구 사항에 따라 다양한 수준의 이미지 압축을 구현할 수 있습니다.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Aspose.Imaging을 사용하면 다양한 이미지 형식에 **압박 붕대** 을(를) 쉽게 적용할 수 있습니다 프로그래밍 방식으로. 
+Python용 Aspose.Imaging 라이브러리를 사용하면 다양한 형식의 이미지와 사진에 대한 <b>압박 붕대</b> 작업을 프로그래밍 방식으로 쉽게 수행할 수 있습니다.
 </p>
 <h3 style="margin-top:16px;">
-이미지 형식별로 지원되는 압박 붕대 작업의 전체 목록:
+압박 붕대 작업에 대한 목록에서 이미지 형식을 선택하세요.
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

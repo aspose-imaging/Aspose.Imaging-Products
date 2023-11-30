@@ -1,26 +1,26 @@
 ﻿---
-title: hình ảnh Run lên Qua python-net, tất cả các định dạng hình ảnh được hỗ trợ 
+title: Hình ảnh Run lên sử dụng Python 
 weight: 3920
 url: /vi/python-net/dither/ 
 lang: vi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng Run lên hình ảnh qua python-net
+description: Áp dụng thư viện Aspose.Imaging cho hình ảnh và ảnh Run lên bằng ứng dụng Python và API máy chủ của riêng bạn.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Tệp hình ảnh Run lên qua python-net" h2="Run lên hình ảnh" downloadText="Tải xuống" >}}
+{{< blocks/products/pf/feature-page-header h1="Sử dụng Python cho thao tác Run lên trên hình ảnh" h2="Hình ảnh Run lên qua Ứng dụng Python của riêng bạn bằng Thư viện Aspose.Imaging" downloadText="Tải xuống" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tất cả các hình ảnh định dạng được hỗ trợ cho thao tác Run lên" %}}
+{{% blocks/products/pf/feature-page-section  h2="Áp dụng thao tác Run lên cho tất cả các định dạng hình ảnh có sẵn" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Trong đồ họa máy tính, phối màu được sử dụng để tạo độ sâu màu trong hình ảnh trên các hệ thống có bảng màu hạn chế. Sự khuếch tán của các điểm ảnh màu từ bảng màu có sẵn được sử dụng trong một hình ảnh phối màu để ước tính các màu không có trong bảng màu. Sự khuếch tán xuất hiện đối với mắt người dưới dạng sự pha trộn của các màu chứa bên trong nó. Các bức ảnh được phối màu thường có thể được xác định bằng vẻ ngoài nổi hạt hoặc lốm đốm đặc biệt, đặc biệt là khi sử dụng các bảng màu có ít màu. Phối màu thêm nhiễu hoặc mẫu vào hình ảnh và mẫu này thường rõ ràng. Người ta đã chứng minh rằng trong những điều kiện này, độ hòa sắc do tiếng ồn xanh tạo ra là ít gây khó chịu và kém hấp dẫn nhất. Aspose.Imaging cho phép hòa sắc hình ảnh của bạn bằng một số thuật toán mà bạn có thể chọn khi không cần thiết.
+Phối màu trong lĩnh vực đồ họa máy tính được các nhà thiết kế sử dụng để đạt được hiệu ứng màu sắc rõ nét hơn trong các hệ thống có bảng màu hạn chế. Trong một hình ảnh được làm mịn, các pixel màu từ bảng màu có sẵn được sử dụng để xấp xỉ các màu còn thiếu, tạo ra ấn tượng về sự hòa trộn màu. Thông thường, bạn có thể nhận thấy độ hạt hoặc kiểu chấm rõ rệt trong những bức ảnh như vậy, đặc biệt khi sử dụng bảng màu có số lượng màu hạn chế. Hoạt động hòa sắc được áp dụng để thêm nhiễu hoặc mẫu vào hình ảnh và thường dễ dàng nhìn thấy mẫu này. Người ta đã chứng minh rằng trong những trường hợp như vậy, việc sử dụng nhiễu xanh để phối màu là tối ưu nhất. Aspose.Imaging cho phép làm mịn hình ảnh bằng nhiều thuật toán khác nhau có thể được lựa chọn dựa trên sở thích của bạn.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Sử dụng Aspose.Imaging, bạn có thể dễ dàng áp dụng **Run lên** cho các định dạng hình ảnh khác nhau lập trình
+Bằng cách sử dụng thư viện Aspose.Imaging cho Python, bạn có thể dễ dàng thực hiện thao tác <b>Run lên</b> đối với hình ảnh và ảnh chụp ở nhiều định dạng khác nhau theo chương trình.
 </p>
 <h3 style="margin-top:16px;">
-Danh sách đầy đủ các thao tác Run lên được hỗ trợ theo định dạng hình ảnh:
+Chọn định dạng hình ảnh từ danh sách cho thao tác Run lên:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

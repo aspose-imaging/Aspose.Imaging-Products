@@ -1,26 +1,26 @@
 ﻿---
-title: Keisti foną vaizdai Per python-net, visi palaikomi vaizdo formatai 
+title: Keisti foną vaizdai naudojant Python 
 weight: 3920
 url: /lt/python-net/change-background/ 
 lang: lt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Naudodami Aspose.Imaging galite lengvai sukurti Keisti foną vaizdus per python-net
+description: Aspose.Imaging bibliotekos taikymas Keisti foną vaizdams ir nuotraukoms naudojant savo Python programas ir serverio API.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Vaizdo failai Keisti foną per python-net" h2="Keisti foną vaizdai" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Naudokite Python Keisti foną operacijai su vaizdais" h2="Keisti foną vaizdai per savo Python programas naudojant Aspose.Imaging biblioteką" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Keisti foną attēlus formatai" %}}
+{{% blocks/products/pf/feature-page-section  h2="Taikykite operaciją Keisti foną visiems galimiems vaizdo formatams" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Fono keitimas yra viena iš labiausiai paplitusių operacijų, kurių reikia norint apdoroti nuotraukas ar vaizdus. Naudodami Aspose.Imaging galite lengvai pašalinti vienos nuotraukos foną ir įdėti priekinio plano objektą ant kitos. Taip pat galite atpažinti priekinio plano objektą ir, jei reikia, jį aptikti. Dėl to galite gauti skaidrų foną ir apdoroti, kaip jums reikia.
+Fono keitimas yra dažnai atliekama vaizdų ir nuotraukų redagavimo užduotis. Naudodami Aspose.Imaging galite lengvai atskirti priekinio plano objektą nuo nuotraukos fono automatiškai arba rankiniu būdu ir įdėti jį į kitą vaizdą. Be to, debesies API leidžia identifikuoti priekinio plano objektą ir, jei reikia, pašalinti foną. Tai leidžia gauti objektą su skaidriu fonu ir pakeisti pradinį foną kitu.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Naudodami Aspose.Imaging galite lengvai pritaikyti **Keisti foną** skirtingiems vaizdo formatams programmatiski
+Naudodami Aspose.Imaging biblioteką, skirtą Python, galite lengvai atlikti <b>Keisti foną</b> operaciją įvairių formatų vaizdams ir nuotraukoms programiškai.
 </p>
 <h3 style="margin-top:16px;">
-Visas palaikomų operacijų Keisti foną sąrašas pagal vaizdo formatus:
+Iš sąrašo pasirinkite vaizdo formatą operacijai Keisti foną:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

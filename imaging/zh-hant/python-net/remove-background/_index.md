@@ -1,26 +1,26 @@
 ﻿---
-title: 移除背景 圖片通過 python-net，所有支持的圖片格式 
+title: 使用 Python 的 移除背景 影像 
 weight: 3920
 url: /zh-hant/python-net/remove-background/ 
 lang: zh-hant
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: 使用 Aspose.Imaging 你可以輕鬆地通過 python-net 獲取 移除背景 圖像
+description: 使用您自己的 Python 應用程式和伺服器 API 將 Aspose.Imaging 庫套用至 移除背景 圖像和照片。
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="圖片文件 移除背景 來自 python-net" h2="移除背景 圖片" downloadText="下載" >}}
+{{< blocks/products/pf/feature-page-header h1="使用 Python 對影像進行 移除背景 操作" h2="使用 Aspose.Imaging 庫透過您自己的 Python 應用程式產生 移除背景 映像" downloadText="下載" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="移除背景 操作的所有支持格式 圖片" %}}
+{{% blocks/products/pf/feature-page-section  h2="將 移除背景 操作套用至所有可用的圖片格式" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-刪除背景是一種操作，可讓您輕鬆地從照片或圖像中刪除背景。作為去除背景的結果，您可以獲得透明背景並將前景置於另一個背景中。使用 Aspose.Imaging，您可以嘗試不同的去除背景算法，這些算法可能適合您對不同圖像的需求。
+使用背景去除操作，您可以輕鬆地從照片或影像中移除背景。此過程會產生具有透明背景的物體，例如人物。隨後，您可以輕鬆地將這些物件轉移到具有不同背景的另一個影像上。透過利用 Aspose.Imaging，您可以根據任務的複雜性嘗試適合不同類型影像的各種背景去除演算法。
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-使用 Aspose.Imaging 您可以輕鬆地將 **移除背景** 應用於不同的圖像格式 以編程方式
+使用 Python 的 Aspose.Imaging 庫，您可以透過程式設計輕鬆地對各種格式的圖像和照片執行 <b>移除背景</b> 操作。
 </p>
 <h3 style="margin-top:16px;">
-按圖像格式支持的 移除背景 操作的完整列表：
+從清單中為 移除背景 操作選擇影像格式：
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

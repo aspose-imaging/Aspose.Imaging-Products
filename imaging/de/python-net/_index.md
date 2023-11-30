@@ -9,7 +9,7 @@ description: Bibliothek zur Bildverarbeitung und -bearbeitung in Python. Aspose.
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1="Aspose.Imaging für Python über .NET-Bibliothek und API für die Bildverarbeitung" h2="Erstellen, laden, manipulieren oder konvertieren Sie Bilder, ohne einen Bildeditor zu benötigen." downloadFreeTrialText="Download kostenlose Testversion" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-python-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/imaging/python-net/" >}}
+{{< blocks/products/pf/upper-banner h1="Aspose.Imaging für Python über .NET-Bibliothek und API für die Bildverarbeitung" h2="Erstellen Sie Ihre eigenen Python-Anwendungen, um Bilder zu bearbeiten, ohne dass ein Bildeditor erforderlich ist" downloadFreeTrialText="Download kostenlose Testversion" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-python-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/imaging/python-net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Python" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-python-net.svg" 
@@ -19,42 +19,42 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
 
    <div class="col-lg-12">
     <h2 class="h2title">
-     Schöpfen Sie das volle Potenzial der Bildverarbeitung mit Aspose.Imaging für Python aus
+     Nutzen Sie alle Möglichkeiten der Bildverarbeitung mit Aspose.Imaging für Python
     </h2>
     <p align="justify">
-     Aspose.Imaging für Python ist eine benutzerfreundliche Bibliothek, die Ihnen erweiterte Bildverarbeitungsfunktionen bietet. Mit dieser vielseitigen API können Sie mühelos Bilder oder Fotos erstellen, laden, bearbeiten, konvertieren und komprimieren und so eine Vielzahl von Bildverarbeitungsfunktionen nutzen, ohne dass ein spezieller Bildeditor erforderlich ist.
+     Aspose.Imaging für Python ist eine Bibliothek, die erweiterte Funktionen für die Bild- und Fotoverarbeitung bietet. Mit dieser vielseitigen API können Sie Bilder oder Fotos automatisch laden, konvertieren, erstellen und bearbeiten, ohne dass spezielle Bildbearbeitungsprogramme erforderlich sind.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Entdecken Sie die wichtigsten Funktionen:
+     Nutzen Sie die Hauptfunktionen:
     </h2>
     <p>
      <ul>
        <li>
-       Bildtransformation: Bilder ganz einfach in der Größe ändern, zuschneiden, spiegeln, drehen, binarisieren, grauskalieren, entzerren und anpassen.
+       Bildtransformation: Skalieren, Größe ändern, zuschneiden, drehen, in Schwarzweiß oder Graustufen konvertieren, Helligkeit, Kontrast und Gamma von Bildern oder Fotos anpassen.
        </li>
        <li>
-       Erweiterte Manipulation: Anwenden von Filtern, Alpha-Blending, Zauberstab-Werkzeug, Wasserzeichen entfernen, Hintergrund entfernen, Dithering und Maskierung, um die Kontrolle über Ihre Bildverarbeitungsaufgaben zu übernehmen.
+       Erweiterte Manipulationen: Anwenden von Filtern, Alpha-Blending, Hinzufügen oder Entfernen von Wasserzeichen, Ändern von Hintergründen, Glätten von Bildern, Anwenden von Masken und Automatisieren von Bildverarbeitungsaufgaben.
        </li>
        <li>
-       Effiziente Speicheroptimierung: Genießen Sie Speicheroptimierungsstrategien, die eine reibungslose und effiziente Bildverarbeitung gewährleisten.
+       Speicheroptimierung: Nutzen Sie Speicheroptimierungsstrategien, die eine schnelle und effiziente Bildverarbeitung gewährleisten.
        </li>
        <li>
-       Zeichnen und grafische Grundelemente: Nutzen Sie die Leistungsfähigkeit der Zeichenwerkzeuge und arbeiten Sie mit grafischen Grundelementen, um Ihre Projekte zu verbessern.
+       Zeichnen und grafische Grundelemente: Verwenden Sie Zeichenfunktionen für grafische Grundelemente und wenden Sie Text mit verschiedenen Schriftarten an.
        </li>
        <li>
-       Export und Konvertierung: Nahtloses Exportieren und Konvertieren von Bildern, einschließlich einheitlicher mehrseitiger Bildverarbeitung.
+       Bildkonvertierung: Exportieren Sie Bilder mit Konvertierung in andere Formate, einschließlich der einheitlichen Verarbeitung mehrseitiger Bilder.
        </li>
      </ul>
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Formatkompatibilität
+     Unterstützung verschiedener Formate
     </h2>
     <p align="justify">
-     Aspose.Imaging für Python ist nicht nur flexibel und stabil, sondern auch vielseitig. Es unterstützt die am häufigsten verwendeten Bildformate und geht noch einen Schritt weiter, indem es spezielle Formate wie DjVu, DICOM, WebP, EPS und DNG unterstützt. Diese umfassende Formatunterstützung macht es zu Ihrer bevorzugten Lösung für eine Vielzahl von Bildverarbeitungsaufgaben.
+     Unterstützung verschiedener Formate Aspose.Imaging für Python zeichnet sich durch Stabilität, Vielseitigkeit und Funktionalität aus. Es unterstützt eine Vielzahl von Formaten, darunter auch Sonderformate wie APNG, WebP, EPS, PDF und DICOM. Durch die Unterstützung großer Formate ist es eine ideale Lösung für vielfältige Bildverarbeitungsaufgaben.
     </p>
    </div>
    <div class="col-lg-12">
@@ -62,10 +62,10 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
      Plattformübergreifende Kompatibilität
     </h2>
     <p align="justify">
-     Aspose.Imaging ist eine plattformübergreifende Bibliothek, die die Kompatibilität sowohl mit Windows- als auch mit Linux-Umgebungen gewährleistet. Unabhängig davon, ob Sie auf einem Windows- oder Linux-System arbeiten, können Sie sich darauf verlassen, dass Aspose.Imaging konsistente, qualitativ hochwertige Bildverarbeitungsfunktionen liefert.
+     Aspose.Imaging ist eine universelle Bibliothek, die dank ihrer plattformübergreifenden Kompatibilität sowohl auf Windows- als auch auf Linux-Betriebssystemen verwendet werden kann. Sie können sich darauf verlassen, dass Aspose.Imaging stabile und qualitativ hochwertige Bildverarbeitungsfunktionen bietet.
     </p>
     <p align="justify">
-     Bringen Sie Ihre Bildverarbeitungsprojekte mit Aspose.Imaging für Python auf ein neues Niveau. Erleben Sie noch heute die Flexibilität, Stabilität und Leistungsfähigkeit unserer API.
+     Erreichen Sie mit Aspose.Imaging für Python ein neues Qualitätsniveau in der Bildverarbeitung. Nutzen Sie noch heute unsere API und erleben Sie ihre Flexibilität, Stabilität und Leistung.
     </p>
    </div>
 
@@ -184,7 +184,19 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
-   
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    .NET-Framework
+   </header>
+   <ul>
+    <li>
+     Windows-Anwendung
+    </li>
+    <li>
+     ASP.NET-Webanwendung
+    </li>
+   </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">

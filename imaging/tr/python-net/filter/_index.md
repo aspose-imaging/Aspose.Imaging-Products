@@ -1,26 +1,26 @@
 ﻿---
-title: filtre görüntüleri python-net aracılığıyla, desteklenen tüm görüntü biçimleri 
+title: Python kullanan filtre görselleri 
 weight: 3920
 url: /tr/python-net/filter/ 
 lang: tr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging'i kullanarak, python-net Aracılığıyla kolayca filtre görüntüleri oluşturabilirsiniz
+description: Kendi Python uygulamalarınızı ve sunucu API'lerinizi kullanarak Aspose.Imaging kitaplığını filtre görsellerine ve fotoğraflarına uygulama.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="python-net aracılığıyla filtre görüntü dosyaları" h2="filtre görselleri" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1="Görsellerde filtre İşlemi için Python kullanın" h2="Aspose.Imaging Kütüphanesini Kullanarak Kendi Python Uygulamalarınız Üzerinden filtre Görselleri" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="filtre işlemi Görüntüler için desteklenen tüm biçimler" %}}
+{{% blocks/products/pf/feature-page-section  h2="filtre işlemini mevcut tüm resim formatlarına uygulayın" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Fotoğrafçılıkta ve sinematografide filtre, optik yola yerleştirilebilen bir optik filtreden oluşan bir kamera aksesuarıdır. Filtre, kare veya dikdörtgen şeklinde olabilir ve bir tutucu aksesuara veya daha yaygın olarak, kamera merceğinin önüne vidalanabilen veya klipslenebilen metal veya plastik halka çerçevedeki bir cam veya plastik diske monte edilebilir. Filtreler kaydedilen görüntüleri değiştirir. Fotoğrafları bazen çok az değiştirmek için kullanılırlar ve bazen görüntünün oluşturulması için tamamen gereklidirler. Tek renkli fotoğrafçılıkta, renkli filtreler çeşitli renklerin göreli parlaklığını değiştirir; kırmızı ruj, kullanılan filtreye bağlı olarak neredeyse beyaz ile neredeyse siyah arasında herhangi bir yerde görünebilir. Diğerleri, akkor aydınlatmada çekilen çekimlerin renkleri kırmızımsı bir tonla değil, algılandıkları gibi göstermesi için görüntünün renk dengesini ayarlar. Görüntüyü kasıtlı olarak bozan, keskin bir görüntüye parlak bir görünüm veren vs. filtreler vardır. Metalik olmayan yüzeylerden gelen eğik yansımalar, doğrusal ve dairesel polarizasyon filtreleri kullanılarak azaltılır. Aspose.Imaging, Gaussian Blur, Sharpen, Median Filter, Motion Weiner ve diğerleri gibi filtreleri destekler.
+Fotoğraf ve video prodüksiyonunda filtre, optik yola takılabilen bir optik filtre içeren ek bir kamera aksesuarıdır. Kare veya dikdörtgen şeklinde yarı şeffaf bir cam olabilir ve kamera merceğinin ön kısmına takılır. Filtreler yakalanan görüntüyü değiştirir. Tek renkli fotoğrafçılıkta renk filtreleri farklı renklerin parlaklığını değiştirir; Kullanılan filtreye bağlı olarak yeşil elma neredeyse beyaz veya neredeyse siyah görünebilir. Diğer filtreler, soğuk bir ton yerine gün ışığı lambası aydınlatması altında algılanan renkleri doğru bir şekilde temsil etmek için görüntünün renk dengesini ayarlar. Ayrıca görüntüyü kasıtlı olarak bozan, keskin bir görüntüye bulanık bir görünüm veren filtreler de vardır. Doğrusal ve dairesel polarizasyon filtreleri yansıtıcı yüzeylerden kaynaklanan parlamayı azaltır. Aspose.Imaging, Gauss-Wiener Filtresi, İki Taraflı Yumuşatma, Medyan Filtresi, Motion Weiner, Bulanıklaştırma, Keskinleştirme ve diğerleri gibi çeşitli filtreleri destekler.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Aspose.Imaging'i kullanarak farklı görüntü formatları için **filtre** işlemini kolayca uygulayabilirsiniz programlı olarak
+Python için Aspose.Imaging kütüphanesini kullanarak, çeşitli formatlardaki görüntüler ve fotoğraflar için <b>filtre</b> işlemini programlı olarak kolayca gerçekleştirebilirsiniz.
 </p>
 <h3 style="margin-top:16px;">
-Görüntü biçimlerine göre desteklenen {işlem adı} işlemlerinin tam listesi:
+filtre işlemi için listeden bir görüntü formatı seçin:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

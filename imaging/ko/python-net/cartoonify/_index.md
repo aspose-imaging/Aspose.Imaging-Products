@@ -1,26 +1,26 @@
 ﻿---
-title: 만화화하다 이미지 python-net을 통해 지원되는 모든 이미지 형식 
+title: Python을 사용하는 만화화하다 이미지 
 weight: 3920
 url: /ko/python-net/cartoonify/ 
 lang: ko
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging을 사용하면 python-net을 통해 쉽게 만화화하다 이미지를 만들 수 있습니다.
+description: 자체 Python 애플리케이션 및 서버 API를 사용하여 Aspose.Imaging 라이브러리를 만화화하다 이미지 및 사진에 적용합니다.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="python-net을 통한 이미지 파일 만화화하다" h2="{작업 이름} 이미지" downloadText="다운로드" >}}
+{{< blocks/products/pf/feature-page-header h1="이미지에 대한 만화화하다 작업에 Python 사용" h2="Aspose.Imaging 라이브러리를 사용하여 자체 Python 애플리케이션을 통한 만화화하다 이미지" downloadText="다운로드" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="만화화하다 작업에 대해 지원되는 모든 형식 이미지" %}}
+{{% blocks/products/pf/feature-page-section  h2="사용 가능한 모든 이미지 형식에 만화화하다 작업을 적용합니다." %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-사진을 만화로 변환하는 것은 많은 예술가들이 사용하는 일반적인 작업 중 하나입니다. 페인팅 작업을 수행하지 않고도 몇 번의 클릭만으로 만화 사진을 얻을 수 있습니다. 표준 이미지를 만화 이미지로 빠르게 바꾸고 싶습니까? 이 경우 Aspose.Imaging 라이브러리에서 어떻게 작동하는지 확인할 수 있습니다.
+사진을 만화 스타일 이미지로 변환하는 과정(카툰화라고도 함)은 디자이너가 만화 같은 효과가 있는 이미지를 만들기 위해 사용하는 인기 있는 기술입니다. 이 방법을 사용하면 그림 기술 없이도 몇 번의 클릭만으로 원하는 이미지 효과를 얻을 수 있습니다. 일반 이미지를 만화 스타일 이미지로 빠르게 변환하려면 Aspose.Imaging 라이브러리에서 제공하는 도구를 사용해 보세요.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Aspose.Imaging을 사용하면 다양한 이미지 형식에 **만화화하다** 을(를) 쉽게 적용할 수 있습니다 프로그래밍 방식으로. 
+Python용 Aspose.Imaging 라이브러리를 사용하면 다양한 형식의 이미지와 사진에 대한 <b>만화화하다</b> 작업을 프로그래밍 방식으로 쉽게 수행할 수 있습니다.
 </p>
 <h3 style="margin-top:16px;">
-이미지 형식별로 지원되는 만화화하다 작업의 전체 목록:
+만화화하다 작업에 대한 목록에서 이미지 형식을 선택하세요.
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

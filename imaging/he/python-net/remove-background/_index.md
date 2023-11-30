@@ -1,26 +1,26 @@
 ﻿---
-title: תמונות הסר רקע דרך python-net, כל פורמטי התמונה הנתמכים 
+title: תמונות הסר רקע באמצעות Python 
 weight: 3920
 url: /he/python-net/remove-background/ 
 lang: he
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: באמצעות Aspose.Imaging תוכל בקלות הסר רקע תמונות באמצעות python-net
+description: החלת ספריית Aspose.Imaging על תמונות ותמונות של הסר רקע באמצעות יישומי Python וממשקי API משלך של שרת.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="קבצי תמונה הסר רקע באמצעות python-net" h2="תמונות הסר רקע" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="השתמש ב-Python עבור פעולת הסר רקע בתמונות" h2="תמונות הסר רקע באמצעות יישומי Python משלך באמצעות ספריית Aspose.Imaging" downloadText="הורד" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="כל הפורמטים  תמונות הנתמכים עבור פעולת הסר רקע" %}}
+{{% blocks/products/pf/feature-page-section  h2="החל את פעולת הסר רקע על כל פורמטי התמונה הזמינים" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-הסרת רקע היא פעולה המאפשרת לך להסיר בקלות רקע מהתמונות או התמונות שלך. כתוצאה מהסרת רקע ניתן להשיג רקע שקוף ולשים קדמה לרקע אחר. באמצעות Aspose.Imaging אתה יכול לנסות אלגוריתמי רקע להסרה שונים שעשויים להתאים לצרכים שלך עבור תמונות שונות.
+באמצעות פעולת הסרת הרקע, ניתן להסיר ללא מאמץ את הרקע מתמונות או תמונות. תהליך זה מביא לאובייקטים כמו דמויות אנושיות עם רקע שקוף. לאחר מכן, אתה יכול בקלות להעביר את האובייקטים האלה לתמונה אחרת עם רקע שונה. על ידי שימוש ב-Aspose.Imaging, יש לך את היכולת להתנסות באלגוריתמים שונים להסרת רקע המתאימים לסוגים שונים של תמונות, בהתאם למורכבות המשימה שלך.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-באמצעות Aspose.Imaging אתה יכול בקלות להחיל את **הסר רקע** עבור פורמטים שונים של תמונה באופן תוכניתי
+באמצעות ספריית Aspose.Imaging עבור Python, אתה יכול לבצע בקלות את פעולת <b>הסר רקע</b> עבור תמונות ותמונות בפורמטים שונים באופן פרוגרמטי.
 </p>
 <h3 style="margin-top:16px;">
-רשימה מלאה של פעולות הסר רקע נתמכות לפי פורמטים של תמונה:
+בחר פורמט תמונה מהרשימה עבור הפעולה הסר רקע:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

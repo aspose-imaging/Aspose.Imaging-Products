@@ -1,26 +1,26 @@
 ﻿---
-title: Gråskala bilder Via python-net, alla bildformat som stöds 
+title: Gråskala-bilder med Python 
 weight: 3920
 url: /sv/python-net/grayscale/ 
 lang: sv
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Med Aspose.Imaging kan du enkelt Gråskala bilder via python-net
+description: Tillämpa Aspose.Imaging-biblioteket på Gråskala-bilder och foton med dina egna Python-applikationer och server-API:er.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Bildfiler Gråskala via python-net" h2="Gråskala bilder" downloadText="Ladda ner" >}}
+{{< blocks/products/pf/feature-page-header h1="Använd Python för Gråskala operation på bilder" h2="Gråskala-bilder via dina egna Python-applikationer som använder Aspose.Imaging-biblioteket" downloadText="Ladda ner" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alla bilder format som stöds för operationen Gråskala" %}}
+{{% blocks/products/pf/feature-page-section  h2="Använd åtgärden Gråskala på alla tillgängliga bildformat" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-En gråskalebild är en där värdet för varje pixel är ett enda prov som endast indikerar en mängd ljus; det vill säga, den förmedlar endast intensitetsinformation. Gråskalebilder används i digital fotografering, datorgenererad bildbehandling och kolorimetri. Nyanser av grått utgör endast gråskalebilder, en sorts svartvit eller grå monokrom. Svart har lägst kontrast medan vitt har mest kontrast. Gråskalebilder skiljer sig från enbits bi-tonala svartvita bilder, som är bilder med endast två färger: svart och vitt (även känd som bilevel- eller binära bilder) i samband med datoravbildning. Det finns många nyanser av grått däremellan i gråskalefoton. Med Aspose.Imaging kan du gråskala dina bilder i olika format.
+En bild representerad i gråtoner är en bild där varje pixel har ett värde som endast indikerar ljusintensiteten. Således ger den endast information om ljusstyrka. Följaktligen kommer svart att ha den lägsta ljusstyrkan, medan vitt kommer att ha den högsta. I nyanser av gråa foton kan du observera hela skalan av grå nyanser från svart till vitt, medan informationen om pixelfärg saknas. Att konvertera bilder till en gråskaleversion används ofta inom digital fotografering och datorgrafik. Med Aspose.Imaging kan du konvertera färgbilder och foton till gråskala i olika format.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Med Aspose.Imaging kan du enkelt använda **Gråskala** för olika bildformat programmatiskt
+Genom att använda Aspose.Imaging-biblioteket för Python kan du enkelt utföra <b>Gråskala</b>-åtgärden för bilder och foton i olika format programmatiskt.
 </p>
 <h3 style="margin-top:16px;">
-Fullständig lista över Gråskala-operationer som stöds efter bildformat:
+Välj ett bildformat från listan för åtgärden Gråskala:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

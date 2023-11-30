@@ -1,26 +1,26 @@
 ﻿---
-title: Samenvoegen afbeeldingen Via python-net, alle ondersteunde afbeeldingsformaten 
+title: Samenvoegen afbeeldingen met Python 
 weight: 3920
 url: /nl/python-net/merge/ 
 lang: nl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Met behulp van Aspose.Imaging kunt u eenvoudig Samenvoegen afbeeldingen maken via python-net
+description: Aspose.Imaging-bibliotheek toepassen op Samenvoegen afbeeldingen en foto's met behulp van uw eigen Python-applicaties en server-API's.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Afbeeldingsbestanden Samenvoegen via python-net" h2="Samenvoegen afbeeldingen" downloadText="Downloaden" >}}
+{{< blocks/products/pf/feature-page-header h1="Gebruik Python voor bewerking van Samenvoegen op afbeeldingen" h2="Samenvoegen Afbeeldingen via uw eigen Python-applicaties met behulp van de Aspose.Imaging-bibliotheek" downloadText="Downloaden" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde indelingen voor de bewerking afbeeldingen Samenvoegen" %}}
+{{% blocks/products/pf/feature-page-section  h2="Pas de bewerking Samenvoegen toe op alle beschikbare afbeeldingsformaten" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-De functie voor het samenvoegen van afbeeldingen maakt het mogelijk om 2 of meer afbeeldingen verticaal of horizontaal tot één te combineren zonder kwaliteitsverlies. Fotocollage is het creëren van een nieuwe foto of afbeelding door meerdere afbeeldingen te combineren, soms niet direct gerelateerd aan elkaars foto's. Het door de fotograaf gewenste effect ontstaat door het ene beeld op het andere te leggen of door vele (meer dan 2) beelden tot één geheel te combineren, soms met chaotisch gebruik van verschillende fotografische beelden (zoals een puzzel of mozaïek). Aspose.Imaging maakt het mogelijk om verschillende collages te maken met behulp van een groot aantal bestandsformaten.
+Het samenvoegen van afbeeldingen is een techniek waarmee u twee of meer afbeeldingen kunt combineren tot één compositie zonder dat dit ten koste gaat van de kwaliteit. Bij het maken van een fotocollage worden meerdere foto's samengevoegd, vaak met een gemeenschappelijk thema of onderwerp. Dit kan worden bereikt door de ene afbeelding op de andere te stapelen of door meerdere afbeeldingen naadloos te combineren tot een aan elkaar gekoppelde afbeelding, verticaal of horizontaal. Door verschillende fotofragmenten te gebruiken, kunt u visueel aantrekkelijke achtergronden, puzzels of mozaïeken maken. Aspose.Imaging biedt een veelzijdige oplossing voor het maken van collages, ongeacht de betrokken bestandsformaten, waardoor u uw creaties in verschillende formaten kunt opslaan, inclusief opties voor meerdere pagina's.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Met Aspose.Imaging kunt u eenvoudig **Samenvoegen** toepassen voor verschillende afbeeldingsformaten programmatisch
+Met behulp van de Aspose.Imaging-bibliotheek voor Python kunt u eenvoudig de bewerking <b>Samenvoegen</b> programmatisch uitvoeren voor afbeeldingen en foto's van verschillende formaten.
 </p>
 <h3 style="margin-top:16px;">
-Volledige lijst met ondersteunde Samenvoegen-bewerkingen per afbeeldingsindeling:
+Selecteer een afbeeldingsformaat uit de lijst voor de bewerking Samenvoegen:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,26 +1,26 @@
 ﻿---
-title: Obrázky Změnit pozadí Prostřednictvím python-net, všechny podporované formáty obrázků 
+title: obrázky Změnit pozadí pomocí Python 
 weight: 3920
 url: /cs/python-net/change-background/ 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Pomocí Aspose.Imaging můžete snadno Změnit pozadí obrázky přes python-net
+description: Použití knihovny Aspose.Imaging na obrázky a fotografie Změnit pozadí pomocí vašich vlastních aplikací Python a serverových API.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Soubory obrázků Změnit pozadí prostřednictvím python-net" h2="obrázky Změnit pozadí" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Použijte Python pro operaci Změnit pozadí s obrázky" h2="Změnit pozadí Obrázky prostřednictvím vašich vlastních aplikací Python pomocí knihovny Aspose.Imaging" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované snímky formáty pro operaci Změnit pozadí" %}}
+{{% blocks/products/pf/feature-page-section  h2="Použijte operaci Změnit pozadí na všechny dostupné formáty obrázků" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Změna pozadí je jednou z nejběžnějších operací potřebných ke zpracování vašich fotografií nebo obrázků. Pomocí Aspose.Imaging můžete snadno odstranit pozadí z jedné fotografie a umístit objekt v popředí na jinou. Můžete také rozpoznat objekt v popředí a v případě potřeby jej detekovat. V důsledku toho můžete získat průhledné pozadí a zpracovat, jak potřebujete.
+Změna pozadí je často prováděný úkol při úpravách obrázků a fotografií. Pomocí Aspose.Imaging můžete snadno oddělit objekt v popředí od pozadí na fotografii, buď automaticky nebo ručně, a poté jej umístit na jiný obrázek. Cloud API vám navíc umožňuje identifikovat objekt v popředí a v případě potřeby odstranit pozadí. To vám umožní získat objekt s průhledným pozadím a nahradit původní pozadí jiným.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Pomocí Aspose.Imaging můžete snadno použít **Změnit pozadí** pro různé formáty obrázků programově
+Pomocí knihovny Aspose.Imaging pro Python můžete snadno programově provést operaci <b>Změnit pozadí</b> pro obrázky a fotografie různých formátů.
 </p>
 <h3 style="margin-top:16px;">
-Úplný seznam podporovaných operací Změnit pozadí podle formátů obrázků:
+Vyberte ze seznamu formát obrázku pro operaci Změnit pozadí:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

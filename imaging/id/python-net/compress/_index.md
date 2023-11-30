@@ -1,27 +1,26 @@
 ﻿---
-title: gambar Kompres Melalui python-net, semua format gambar yang didukung 
+title: gambar Kompres menggunakan Python 
 weight: 3920
 url: /id/python-net/compress/ 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Menggunakan Aspose.Imaging Anda dapat dengan mudah Kompres gambar Via python-net
+description: Menerapkan pustaka Aspose.Imaging ke gambar dan foto Kompres menggunakan aplikasi Python dan API server Anda sendiri.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="File gambar Kompres melalui python-net" h2="gambar Kompres" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Gunakan Python untuk Operasi Kompres pada Gambar" h2="Kompres Gambar melalui Aplikasi Python Anda Sendiri Menggunakan Perpustakaan Aspose.Imaging" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Semua gambar-gambar format yang didukung untuk operasi Kompres" %}}
+{{% blocks/products/pf/feature-page-section  h2="Terapkan operasi Kompres ke semua format gambar yang tersedia" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Kompresi gambar adalah sejenis kompresi data yang digunakan untuk menurunkan biaya penyimpanan atau pengiriman foto digital. Jika dibandingkan dengan teknik kompresi data umum yang digunakan untuk data digital lainnya, algoritme mungkin mendapat manfaat dari persepsi visual dan karakteristik statistik data gambar.
-Menggunakan Aspose.Imaging Anda dapat mengompres berbagai jenis gambar yang mungkin sesuai dengan hampir semua kebutuhan Anda.
+Gunakan kompresi gambar untuk mengurangi ukuran data yang digunakan untuk menyimpan atau mengirim gambar digital. Tidak seperti teknik kompresi data umum yang digunakan untuk bentuk informasi digital lainnya, algoritme kompresi gambar mempertimbangkan sifat statistik gambar dan terhubung dengan persepsi visual terhadap informasi. Melalui pustaka Aspose.Imaging, Anda memiliki kemampuan untuk menerapkan berbagai tingkat kompresi gambar berdasarkan kebutuhan spesifik Anda.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Menggunakan Aspose.Imaging Anda dapat dengan mudah menerapkan **Kompres** untuk berbagai format gambar secara terprogram
+Dengan menggunakan pustaka Aspose.Imaging untuk Python, Anda bisa dengan mudah melakukan operasi <b>Kompres</b> untuk gambar dan foto dalam berbagai format secara terprogram.
 </p>
 <h3 style="margin-top:16px;">
-Daftar lengkap operasi Kompres yang didukung menurut format gambar:
+Pilih format gambar dari daftar untuk operasi Kompres:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,27 +1,26 @@
 ﻿---
-title: Compress images Via python-net, all supported image formats 
+title: Compress images using Python 
 weight: 3920
 url: /python-net/compress/ 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Using Aspose.Imaging you can easily Compress images Via python-net
+description: Applying Aspose.Imaging library to Compress images and photos using your own Python applications and server APIs.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Image files Compress via python-net" h2="Compress images" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Use Python for Compress Operation on Images" h2="Compress Images via Your Own Python Applications Using the Aspose.Imaging Library" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="All supported image formats for Compress operation" %}}
+{{% blocks/products/pf/feature-page-section  h2="Apply the Compress operation to all available image formats" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Image compression is a sort of data compression used to lower the cost of storing or transmitting digital photos. When compared to general data compression techniques used for other digital data, algorithms may benefit from visual perception and the statistical characteristics of picture data.
-Using Aspose.Imaging you can compress different image types that may suit almostly all of your needs.
+Use image compression to decrease the size of data used for storing or sending digital images. Unlike generic data compression techniques used for other forms of digital information, image compression algorithms consider the statistical properties of the image and are connected to the visual perception of the information. Through the Aspose.Imaging library, you have the ability to implement different levels of image compression based on your specific needs.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Using Aspose.Imaging you can easily apply <b>Compress</b> for different image formats programmatically
+Using the Aspose.Imaging library for Python, you can easily perform the <b>Compress</b> operation for images and photos of various formats programmatically.
 </p>
 <h3 style="margin-top:16px;">
-Full list of supported Compress operations by image formats:
+Select an image format from the list for the Compress operation:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

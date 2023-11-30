@@ -1,26 +1,26 @@
 ﻿---
-title: Imagens Cartoonify Via python-net, todos os formatos de imagem suportados 
+title: Imagens de Cartoonify usando Python 
 weight: 3920
 url: /pt/python-net/cartoonify/ 
 lang: pt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging, você pode facilmente imagens Cartoonify Via python-net
+description: Aplicando a biblioteca Aspose.Imaging a imagens e fotos de Cartoonify usando seus próprios aplicativos Python e APIs de servidor.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Arquivos de imagem Cartoonify via python-net" h2="Cartoonify imagens" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Use Python para operação Cartoonify em imagens" h2="Imagens de Cartoonify por meio de seus próprios aplicativos Python usando a biblioteca Aspose.Imaging" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos os formatos suportados para a operação imagens Cartoonify" %}}
+{{% blocks/products/pf/feature-page-section  h2="Aplique a operação Cartoonify a todos os formatos de imagem disponíveis" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-A conversão de foto em desenho animado é uma das operações comuns usadas por muitos artistas. Ajuda a obter fotos de desenhos animados em poucos cliques sem realizar nenhum trabalho de pintura. Quer transformar rapidamente uma imagem padrão em uma imagem de desenho animado? Neste caso, você pode tentar como funciona na biblioteca Aspose.Imaging.
+O processo de transformar fotos em imagens estilo cartoon, também conhecido como cartoonify, é uma técnica popular usada por designers para criar imagens com efeito de desenho animado. Este método permite obter o efeito de imagem desejado com apenas alguns cliques, sem a necessidade de habilidades de desenho. Se você deseja transformar rapidamente uma imagem normal em uma imagem estilo desenho animado, experimente a ferramenta fornecida pela biblioteca Aspose.Imaging.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Usando o Aspose.Imaging, você pode facilmente aplicar **Cartoonify** para diferentes formatos de imagem programaticamente
+Usando a biblioteca Aspose.Imaging para Python, você pode executar facilmente a operação <b>Cartoonify</b> para imagens e fotos de vários formatos de forma programática.
 </p>
 <h3 style="margin-top:16px;">
-Lista completa de operações Cartoonify suportadas por formatos de imagem:
+Selecione um formato de imagem na lista para a operação Cartoonify:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

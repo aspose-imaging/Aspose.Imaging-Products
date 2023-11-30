@@ -1,26 +1,26 @@
 ﻿---
-title: Images Niveaux de gris Via python-net, tous les formats d'image pris en charge 
+title: Images Niveaux de gris utilisant Python 
 weight: 3920
 url: /fr/python-net/grayscale/ 
 lang: fr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: En utilisant Aspose.Imaging, vous pouvez facilement Niveaux de gris images Via python-net
+description: Application de la bibliothèque Aspose.Imaging aux images et photos Niveaux de gris à l'aide de vos propres applications Python et API de serveur.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Fichiers image Niveaux de gris via python-net" h2="images de Niveaux de gris" downloadText="Télécharger" >}}
+{{< blocks/products/pf/feature-page-header h1="Utilisez Python pour l'opération Niveaux de gris sur les images" h2="Images Niveaux de gris via vos propres applications Python à l'aide de la bibliothèque Aspose.Imaging" downloadText="Télécharger" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tous les images formats pris en charge pour l'opération Niveaux de gris" %}}
+{{% blocks/products/pf/feature-page-section  h2="Appliquer l'opération Niveaux de gris à tous les formats d'image disponibles" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Une image en niveaux de gris est une image dans laquelle la valeur de chaque pixel est un échantillon unique indiquant uniquement une quantité de lumière ; c'est-à-dire qu'il ne transmet que des informations d'intensité. Les images en niveaux de gris sont utilisées dans la photographie numérique, l'imagerie générée par ordinateur et la colorimétrie. Les nuances de gris ne constituent que des images en niveaux de gris, un type de monochrome noir et blanc ou gris. Le noir a le contraste le plus faible tandis que le blanc a le plus de contraste. Les images en niveaux de gris sont distinctes des images en noir et blanc bitonales à un bit, qui sont des images avec seulement deux couleurs : noir et blanc (également appelées images à deux niveaux ou binaires) dans le contexte de l'imagerie informatique. Il existe de nombreuses nuances de gris entre les photos en niveaux de gris. En utilisant Aspose.Imaging, vous pouvez mettre en niveaux de gris vos images de différents formats.
+Une image représentée en dégradés de gris est une image où chaque pixel a une valeur indiquant uniquement l'intensité lumineuse. Ainsi, il donne des informations uniquement sur la luminosité. En conséquence, le noir aura la luminosité la plus faible, tandis que le blanc aura la luminosité la plus élevée. Dans les photos en nuances de gris, vous pouvez observer toute l'échelle des nuances de gris du noir au blanc, tandis que les informations sur la couleur des pixels sont absentes. La conversion d'images en une version en niveaux de gris est largement utilisée en photographie numérique et en infographie. Avec Aspose.Imaging, vous pouvez convertir des images et des photos couleur en niveaux de gris dans différents formats.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-En utilisant Aspose.Imaging, vous pouvez facilement appliquer **Niveaux de gris** pour différents formats d'image par programmation
+À l’aide de la bibliothèque Aspose.Imaging pour Python, vous pouvez facilement effectuer l’opération <b>Niveaux de gris</b> pour des images et des photos de différents formats par programme.
 </p>
 <h3 style="margin-top:16px;">
-Liste complète des opérations Niveaux de gris prises en charge par formats d'image :
+Sélectionnez un format d'image dans la liste pour l'opération Niveaux de gris:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

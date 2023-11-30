@@ -1,26 +1,26 @@
 ﻿---
-title: 양수표 이미지 python-net을 통해 지원되는 모든 이미지 형식 
+title: Python을 사용하는 양수표 이미지 
 weight: 3920
 url: /ko/python-net/watermark/ 
 lang: ko
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging을 사용하면 python-net을 통해 쉽게 양수표 이미지를 만들 수 있습니다.
+description: 자체 Python 애플리케이션 및 서버 API를 사용하여 Aspose.Imaging 라이브러리를 양수표 이미지 및 사진에 적용합니다.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="python-net을 통한 이미지 파일 양수표" h2="{작업 이름} 이미지" downloadText="다운로드" >}}
+{{< blocks/products/pf/feature-page-header h1="이미지에 대한 양수표 작업에 Python 사용" h2="Aspose.Imaging 라이브러리를 사용하여 자체 Python 애플리케이션을 통한 양수표 이미지" downloadText="다운로드" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="양수표 작업에 대해 지원되는 모든 형식 이미지" %}}
+{{% blocks/products/pf/feature-page-section  h2="사용 가능한 모든 이미지 형식에 양수표 작업을 적용합니다." %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-디지털 워터마크는 오디오, 비디오 또는 이미지 데이터와 같은 노이즈를 허용할 수 있는 신호에 미묘하게 통합되는 표시 유형입니다. 특정 신호에 대한 저작권을 누가 소유하는지 확인하는 데 자주 사용됩니다. 워터마킹 관행에는 디지털 데이터를 반송파 신호로 인코딩하는 작업이 포함됩니다. 숨겨진 데이터는 반송파 신호와 관련되어야 하지만 반드시 그럴 필요는 없습니다. 캐리어 신호의 적법성 또는 무결성은 디지털 워터마크를 사용하여 확인할 수 있으며 소유자의 신원도 공개될 수 있습니다. 지폐 인증 및 저작권 위반 추적에 자주 사용됩니다. Aspose.Imaging을 사용하면 많은 코드 없이 선택한 이미지에 워터마크를 쉽게 추가할 수 있습니다.
+디지털 워터마크는 이미지에 적용되어 이미지가 수정되더라도 계속 표시되는 고유한 유형의 반투명 표시입니다. 워터마킹 기술은 일반적으로 특정 이미지의 소유권이나 출처를 표시하는 데 사용됩니다. 워터마크는 디지털 제품의 진위 여부를 확인하거나 저작권 침해로부터 보호하기 위해 종종 사용됩니다. Aspose.Imaging을 사용하면 복잡한 코딩이나 전문 소프트웨어 없이도 선택한 이미지에 자신만의 맞춤형 워터마크를 쉽게 추가할 수 있습니다.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Aspose.Imaging을 사용하면 다양한 이미지 형식에 **양수표** 을(를) 쉽게 적용할 수 있습니다 프로그래밍 방식으로. 
+Python용 Aspose.Imaging 라이브러리를 사용하면 다양한 형식의 이미지와 사진에 대한 <b>양수표</b> 작업을 프로그래밍 방식으로 쉽게 수행할 수 있습니다.
 </p>
 <h3 style="margin-top:16px;">
-이미지 형식별로 지원되는 양수표 작업의 전체 목록:
+양수표 작업에 대한 목록에서 이미지 형식을 선택하세요.
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,26 +1,26 @@
 ﻿---
-title: Ändra bakgrund bilder Via python-net, alla bildformat som stöds 
+title: Ändra bakgrund-bilder med Python 
 weight: 3920
 url: /sv/python-net/change-background/ 
 lang: sv
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Med Aspose.Imaging kan du enkelt Ändra bakgrund bilder via python-net
+description: Tillämpa Aspose.Imaging-biblioteket på Ändra bakgrund-bilder och foton med dina egna Python-applikationer och server-API:er.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Bildfiler Ändra bakgrund via python-net" h2="Ändra bakgrund bilder" downloadText="Ladda ner" >}}
+{{< blocks/products/pf/feature-page-header h1="Använd Python för Ändra bakgrund operation på bilder" h2="Ändra bakgrund-bilder via dina egna Python-applikationer som använder Aspose.Imaging-biblioteket" downloadText="Ladda ner" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alla bilder format som stöds för operationen Ändra bakgrund" %}}
+{{% blocks/products/pf/feature-page-section  h2="Använd åtgärden Ändra bakgrund på alla tillgängliga bildformat" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Ändra bakgrund är en av de vanligaste operationerna som behövs för att bearbeta dina foton eller bilder. Du kan enkelt ta bort bakgrund från ett foto och placera förgrundsobjekt på ett annat med Aspose.Imaging. Du kan också känna igen förgrundsobjekt och upptäcka det om det behövs. Som ett resultat kan du få transparent bakgrund och process som du behöver.
+Att byta bakgrund är en ofta utförd uppgift vid bild- och fotoredigering. Genom att använda Aspose.Imaging kan du enkelt separera förgrundsobjektet från bakgrunden i ett foto, antingen automatiskt eller manuellt, och sedan placera det på en annan bild. Dessutom låter Cloud API dig identifiera förgrundsobjektet och ta bort bakgrunden om det behövs. Detta gör att du kan få ett objekt med en genomskinlig bakgrund och ersätta den ursprungliga bakgrunden med en annan.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Med Aspose.Imaging kan du enkelt använda **Ändra bakgrund** för olika bildformat programmatiskt
+Genom att använda Aspose.Imaging-biblioteket för Python kan du enkelt utföra <b>Ändra bakgrund</b>-åtgärden för bilder och foton i olika format programmatiskt.
 </p>
 <h3 style="margin-top:16px;">
-Fullständig lista över Ändra bakgrund-operationer som stöds efter bildformat:
+Välj ett bildformat från listan för åtgärden Ändra bakgrund:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

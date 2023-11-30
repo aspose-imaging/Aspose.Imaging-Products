@@ -1,26 +1,26 @@
 ﻿---
-title: Pašalinti foną vaizdai Per python-net, visi palaikomi vaizdo formatai 
+title: Pašalinti foną vaizdai naudojant Python 
 weight: 3920
 url: /lt/python-net/remove-background/ 
 lang: lt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Naudodami Aspose.Imaging galite lengvai sukurti Pašalinti foną vaizdus per python-net
+description: Aspose.Imaging bibliotekos taikymas Pašalinti foną vaizdams ir nuotraukoms naudojant savo Python programas ir serverio API.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Vaizdo failai Pašalinti foną per python-net" h2="Pašalinti foną vaizdai" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Naudokite Python Pašalinti foną operacijai su vaizdais" h2="Pašalinti foną vaizdai per savo Python programas naudojant Aspose.Imaging biblioteką" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Pašalinti foną attēlus formatai" %}}
+{{% blocks/products/pf/feature-page-section  h2="Taikykite operaciją Pašalinti foną visiems galimiems vaizdo formatams" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Fono pašalinimas – tai operacija, leidžianti lengvai pašalinti foną iš nuotraukų ar vaizdų. Dėl fono pašalinimo galite gauti skaidrų foną ir perkelti į kitą foną. Naudodami Aspose.Imaging galite išbandyti skirtingus fono pašalinimo algoritmus, kurie gali atitikti jūsų poreikius skirtingiems vaizdams.
+Naudodami fono pašalinimo operaciją galite be vargo pašalinti foną iš nuotraukų ar vaizdų. Šio proceso rezultatas – tokie objektai kaip žmonių figūros su skaidriu fonu. Vėliau šiuos objektus galite lengvai perkelti į kitą vaizdą su skirtingu fonu. Naudodami Aspose.Imaging galite eksperimentuoti su įvairiais fono pašalinimo algoritmais, kurie tinka įvairių tipų vaizdams, atsižvelgiant į jūsų užduoties sudėtingumą.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Naudodami Aspose.Imaging galite lengvai pritaikyti **Pašalinti foną** skirtingiems vaizdo formatams programmatiski
+Naudodami Aspose.Imaging biblioteką, skirtą Python, galite lengvai atlikti <b>Pašalinti foną</b> operaciją įvairių formatų vaizdams ir nuotraukoms programiškai.
 </p>
 <h3 style="margin-top:16px;">
-Visas palaikomų operacijų Pašalinti foną sąrašas pagal vaizdo formatus:
+Iš sąrašo pasirinkite vaizdo formatą operacijai Pašalinti foną:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

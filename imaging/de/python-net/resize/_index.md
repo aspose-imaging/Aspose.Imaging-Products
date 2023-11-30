@@ -1,26 +1,26 @@
 ﻿---
-title: Größe ändern-Bilder Über python-net alle unterstützten Bildformate 
+title: Größe ändern-Bilder mit Python 
 weight: 3920
 url: /de/python-net/resize/ 
 lang: de
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Mit Aspose.Imaging können Sie ganz einfach Größe ändern Bilder über python-net
+description: Anwenden der Aspose.Imaging-Bibliothek auf Größe ändern-Bilder und Fotos mithilfe Ihrer eigenen Python-Anwendungen und Server-APIs.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Bilddateien Größe ändern über python-net" h2="Größe ändern Bilder" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Verwenden Sie Python für den Vorgang Größe ändern für Bilder" h2="Größe ändern-Bilder über Ihre eigenen Python-Anwendungen mithilfe der Aspose.Imaging-Bibliothek" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bilder Formate für den Vorgang Größe ändern" %}}
+{{% blocks/products/pf/feature-page-section  h2="Wenden Sie den Vorgang Größe ändern auf alle verfügbaren Bildformate an" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Sie können die Größe eines Bildes ändern, um es größer oder kleiner zu machen, ohne Inhalte entfernen zu müssen. Bei der Größenänderung ändern sich die Abmessungen des Bildes, was häufig Auswirkungen auf die Dateigröße und die Bildqualität hat. Die Verkleinerung großer Bilder, um sie einfacher per E-Mail versenden oder online teilen zu können, ist die häufigste Begründung für die Verkleinerung von Fotos. Rastergrafikbilder müssen skaliert werden, indem ein neues Bild mit mehr oder weniger Pixeln erstellt wird. Aspose.Imaging ermöglicht Benutzern verschiedene Größenänderungsalgorithmen, mit denen sie die benötigte Größe auswählen können.
+Mit Aspose.Imaging können Sie die Größe von Bildern oder Fotos ändern, ohne visuelle Informationen zu verlieren. Bei der Anpassung der Bildgröße ändert sich dessen Dateigewicht, was zu Qualitätsverlusten führen kann. Die Reduzierung der Bildgröße ist die wichtigste Möglichkeit, Bilder schnell per E-Mail zu versenden oder schnell von einer Internetseite herunterzuladen. Bei der Größenänderung von Rasterbildern wird ein neues Bild mit weniger oder mehr Pixeln erstellt, d. h. das Bild wird skaliert. Aspose.Imaging bietet verschiedene Algorithmen zur Größenänderung, sodass Sie den für eine bestimmte Aufgabe am besten geeigneten auswählen können.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Mit Aspose.Imaging können Sie ganz einfach **Größe ändern** für verschiedene Bildformate anwenden programmatisch
+Mit der Aspose.Imaging-Bibliothek für Python können Sie den Vorgang <b>Größe ändern</b> problemlos programmgesteuert für Bilder und Fotos verschiedener Formate ausführen.
 </p>
 <h3 style="margin-top:16px;">
-Vollständige Liste der unterstützten Größe ändern-Vorgänge nach Bildformaten:
+Wählen Sie ein Bildformat aus der Liste für den Vorgang Größe ändern aus:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

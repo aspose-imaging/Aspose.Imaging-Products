@@ -9,7 +9,7 @@ description: Python 画像処理および操作ライブラリ。 Aspose.Imaging
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1="Aspose.Imaging for Python による .NET ライブラリと画像処理用 API" h2="画像エディターを必要とせずに、画像を作成、読み込み、操作、または変換します。" downloadFreeTrialText="無料トライアルをダウンロード" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-python-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/imaging/python-net/" >}}
+{{< blocks/products/pf/upper-banner h1="Aspose.Imaging for Python による .NET ライブラリと画像処理用 API" h2="画像エディタを必要とせずに画像を操作するための独自の Python アプリケーションを作成します。" downloadFreeTrialText="無料トライアルをダウンロード" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-python-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/imaging/python-net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Python" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-python-net.svg" 
@@ -19,42 +19,42 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
 
    <div class="col-lg-12">
     <h2 class="h2title">
-     Python の Aspose.Imaging で画像処理の可能性を最大限に引き出す
+     Aspose.Imaging for Python を使用して画像処理のすべての機能を適用します
     </h2>
     <p align="justify">
-     Aspose.Imaging for Python は、高度な画像処理機能を提供するユーザーフレンドリーなライブラリです。この多用途 API を使用すると、画像や写真を簡単に作成、読み込み、操作、変換、圧縮することができ、専用の画像エディタを必要とせずに幅広い画像処理機能が可能になります。
+     Aspose.Imaging for Python は、画像および写真処理のための高度な機能を提供するライブラリです。この多用途 API を使用すると、特殊な画像エディタを必要とせずに、画像や写真を自動的にロード、変換、作成、操作できます。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     主な機能を確認してください:
+     主な機能を使用します。
     </h2>
     <p>
      <ul>
        <li>
-       画像変換: 画像のサイズ変更、切り抜き、反転、回転、二値化、グレースケール、傾き補正、調整を簡単に実行できます。
+       画像変換: 画像や写真の拡大縮小、サイズ変更、トリミング、回転、白黒またはグレースケールへの変換、明るさ、コントラスト、ガンマの調整。
        </li>
        <li>
-       高度な操作: フィルター、アルファ ブレンディング、魔法の杖ツールを適用し、透かしの削除、背景の削除、ディザリングとマスキングを適用して、画像処理タスクを制御します。
+       高度な操作: フィルターの適用、アルファ ブレンディング、透かしの追加または削除、背景の変更、画像の滑らかさ、マスクの適用、画像処理タスクの自動化。
        </li>
        <li>
-       効率的なメモリの最適化: スムーズで効率的な画像処理を保証するメモリ最適化戦略をお楽しみください。
+       メモリの最適化: 高速かつ効率的な画像処理を保証するメモリ最適化戦略を使用します。
        </li>
        <li>
-       描画およびグラフィック プリミティブ: 描画ツールの機能を活用し、グラフィック プリミティブを操作してプロジェクトを強化します。
+       描画およびグラフィック プリミティブ: グラフィック プリミティブの描画関数を使用し、さまざまなフォント スタイルのテキストを適用します。
        </li>
        <li>
-       エクスポートと変換: 均一な複数ページの画像処理を含め、画像をシームレスにエクスポートおよび変換します。
+       画像変換: 複数ページの画像の統合処理など、他の形式に変換して画像をエクスポートします。
        </li>
      </ul>
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     フォーマットの互換性
+     さまざまなフォーマットをサポート
     </h2>
     <p align="justify">
-     Python の Aspose.Imaging は、柔軟で安定しているだけでなく、多機能でもあります。最も一般的に使用される画像形式をサポートしており、さらに一歩進んで、DjVu、DICOM、WebP、EPS、DNG などの特殊な形式のサポートを提供します。この広範な形式のサポートにより、幅広い画像処理タスクにとって頼りになるソリューションになります。
+     さまざまな形式のサポート Aspose.Imaging for Python は、その安定性、多用途性、機能性によって際立っています。 APNG、WebP、EPS、PDF、DICOM などの特殊な形式を含む幅広い形式をサポートしています。幅広いフォーマットをサポートしているため、幅広い画像処理タスクにとって理想的なソリューションとなります。
     </p>
    </div>
    <div class="col-lg-12">
@@ -62,10 +62,10 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
      クロスプラットフォーム互換性
     </h2>
     <p align="justify">
-     Aspose.Imaging はクロスプラットフォーム ライブラリであり、Windows 環境と Linux 環境の両方との互換性を保証します。 Windows システムまたは Linux システムのどちらで作業している場合でも、Aspose.Imaging を利用して、一貫した高品質の画像処理機能を提供できます。
+     Aspose.Imaging は、クロスプラットフォーム互換性により、Windows と Linux の両方のオペレーティング システムで使用できるユニバーサル ライブラリです。 Aspose.Imaging を利用すると、安定した高品質の画像処理機能を提供できます。
     </p>
     <p align="justify">
-     Aspose.Imaging for Python を使用して、画像処理プロジェクトを新たな高みに引き上げます。 API の柔軟性、安定性、パワーを今すぐ体験してください。
+     Aspose.Imaging for Python を使用して、画像処理で新しいレベルの品質を達成します。今すぐ API を使用して、その柔軟性、安定性、パフォーマンスを体験してください。
     </p>
    </div>
 
@@ -184,7 +184,19 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
-   
+   <header>
+    <i class = "fa fa-cubes">
+    </i>
+    .NET Framework
+   </header>
+   <ul>
+    <li>
+     Windowsアプリケーション
+    </li>
+    <li>
+     ASP.NETWebアプリケーション
+    </li>
+   </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">

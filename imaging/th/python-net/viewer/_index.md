@@ -1,26 +1,26 @@
 ﻿---
-title: รูปภาพ ดูภาพ ผ่าน python-net รูปแบบรูปภาพที่รองรับทั้งหมด 
+title: รูปภาพ ดูภาพ โดยใช้ Python 
 weight: 3920
 url: /th/python-net/viewer/ 
 lang: th
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: เมื่อใช้ Aspose.Imaging คุณสามารถ ดูภาพ ภาพได้อย่างง่ายดายผ่าน python-net
+description: การใช้ไลบรารี Aspose.Imaging กับรูปภาพและรูปภาพ ดูภาพ โดยใช้แอปพลิเคชัน Python และ API เซิร์ฟเวอร์ของคุณเอง
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="ไฟล์รูปภาพ ดูภาพ ผ่าน python-net" h2="ดูภาพ ภาพ" downloadText="ดาวน์โหลด" >}}
+{{< blocks/products/pf/feature-page-header h1="ใช้ Python สำหรับการดำเนินการ ดูภาพ บนรูปภาพ" h2="รูปภาพ ดูภาพ ผ่านแอปพลิเคชัน Python ของคุณเองโดยใช้ Aspose.Imaging Library" downloadText="ดาวน์โหลด" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="รูปแบบที่รอ ภาพ งรับทั้งหมดสำหรับการดำเนินการ ดูภาพ" %}}
+{{% blocks/products/pf/feature-page-section  h2="ใช้การดำเนินการ ดูภาพ กับรูปแบบรูปภาพที่มีอยู่ทั้งหมด" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-เมื่อคุณต้องการดูภาพหรือภาพถ่ายที่มีฟอร์แมตไม่กว้าง คุณสามารถดูตัวอย่างที่แปลงเป็นรูปแบบยอดนิยมได้อย่างง่ายดาย เมื่อใช้ Aspose.Imaging คุณสามารถดูไฟล์รูปภาพต่างๆ ได้โดยไม่ต้องติดตั้งโปรแกรมพิเศษเฉพาะสำหรับรูปแบบรูปภาพต่างๆ
+หากคุณต้องการดูรูปภาพหรือภาพถ่ายในรูปแบบใดรูปแบบหนึ่ง คุณสามารถแปลงเป็นรูปแบบที่ระบบปฏิบัติการของคุณรองรับได้อย่างง่ายดาย ด้วย Aspose.Imaging คุณสามารถดูไฟล์ภาพและภาพถ่ายได้หลากหลาย โดยไม่ต้องติดตั้งโปรแกรมเฉพาะสำหรับภาพแต่ละรูปแบบ
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-เมื่อใช้ Aspose.Imaging คุณสามารถใช้ **ดูภาพ** สำหรับรูปแบบภาพต่างๆ ได้อย่างง่ายดาย โดยทางโปรแกรม
+เมื่อใช้ไลบรารี Aspose.Imaging สำหรับ Python คุณสามารถดำเนินการ <b>ดูภาพ</b> สำหรับรูปภาพและภาพถ่ายในรูปแบบต่างๆ โดยทางโปรแกรมได้อย่างง่ายดาย
 </p>
 <h3 style="margin-top:16px;">
-รายการทั้งหมดของการดำเนินการ ดูภาพ ที่รองรับตามรูปแบบอิมเมจ:
+เลือกรูปแบบรูปภาพจากรายการสำหรับการดำเนินการ ดูภาพ:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

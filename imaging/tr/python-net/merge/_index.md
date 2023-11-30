@@ -1,26 +1,26 @@
 ﻿---
-title: Birleştirmek görüntüleri python-net aracılığıyla, desteklenen tüm görüntü biçimleri 
+title: Python kullanan Birleştirmek görselleri 
 weight: 3920
 url: /tr/python-net/merge/ 
 lang: tr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging'i kullanarak, python-net Aracılığıyla kolayca Birleştirmek görüntüleri oluşturabilirsiniz
+description: Kendi Python uygulamalarınızı ve sunucu API'lerinizi kullanarak Aspose.Imaging kitaplığını Birleştirmek görsellerine ve fotoğraflarına uygulama.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="python-net aracılığıyla Birleştirmek görüntü dosyaları" h2="Birleştirmek görselleri" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1="Görsellerde Birleştirmek İşlemi için Python kullanın" h2="Aspose.Imaging Kütüphanesini Kullanarak Kendi Python Uygulamalarınız Üzerinden Birleştirmek Görselleri" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Birleştirmek işlemi Görüntüler için desteklenen tüm biçimler" %}}
+{{% blocks/products/pf/feature-page-section  h2="Birleştirmek işlemini mevcut tüm resim formatlarına uygulayın" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Görüntüleri birleştirme işlemi, 2 veya daha fazla görüntüyü kaliteden ödün vermeden dikey veya yatay olarak birleştirmeyi sağlar. Fotoğraf kolajı, bazen birbiriyle doğrudan ilişkili olmayan birkaç görüntüyü birleştirerek yeni bir fotoğraf veya görüntünün oluşturulmasıdır. Fotoğrafçının istediği etki, bir görüntünün diğerinin üzerine bindirilmesiyle veya çok sayıda (2'den fazla) görüntünün tek bir bütün halinde birleştirilmesiyle, bazen farklı fotoğrafik görüntülerin kaotik kullanımıyla (bulmaca veya mozaik gibi) yaratılır. Aspose.Imaging, çok sayıda dosya biçimi kullanarak farklı kolajlar oluşturmaya olanak tanır.
+Görüntüleri birleştirme, iki veya daha fazla görüntüyü kaliteden ödün vermeden tek bir kompozisyonda birleştirmenize olanak tanıyan bir tekniktir. Fotoğraf kolajı oluşturmak, birden fazla fotoğrafı genellikle ortak bir tema veya konuyla birleştirmeyi içerir. Bu, bir görüntüyü diğerinin üzerine istifleyerek veya birden fazla görüntüyü dikey veya yatay olarak zincirlenmiş bir görüntüde kusursuz bir şekilde birleştirerek elde edilebilir. Farklı fotoğraf parçalarını kullanarak görsel olarak çekici duvar kağıtları, bulmacalar veya mozaikler oluşturabilirsiniz. Aspose.Imaging, ilgili dosya formatlarından bağımsız olarak kolajlar oluşturmak için çok yönlü bir çözüm sunarak, kreasyonlarınızı çok sayfalı seçenekler de dahil olmak üzere çeşitli formatlarda kaydetmenize olanak tanır.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Aspose.Imaging'i kullanarak farklı görüntü formatları için **Birleştirmek** işlemini kolayca uygulayabilirsiniz programlı olarak
+Python için Aspose.Imaging kütüphanesini kullanarak, çeşitli formatlardaki görüntüler ve fotoğraflar için <b>Birleştirmek</b> işlemini programlı olarak kolayca gerçekleştirebilirsiniz.
 </p>
 <h3 style="margin-top:16px;">
-Görüntü biçimlerine göre desteklenen {işlem adı} işlemlerinin tam listesi:
+Birleştirmek işlemi için listeden bir görüntü formatı seçin:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

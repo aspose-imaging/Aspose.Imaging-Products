@@ -1,26 +1,26 @@
 ﻿---
-title: Ändra storlek bilder Via python-net, alla bildformat som stöds 
+title: Ändra storlek-bilder med Python 
 weight: 3920
 url: /sv/python-net/resize/ 
 lang: sv
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Med Aspose.Imaging kan du enkelt Ändra storlek bilder via python-net
+description: Tillämpa Aspose.Imaging-biblioteket på Ändra storlek-bilder och foton med dina egna Python-applikationer och server-API:er.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Bildfiler Ändra storlek via python-net" h2="Ändra storlek bilder" downloadText="Ladda ner" >}}
+{{< blocks/products/pf/feature-page-header h1="Använd Python för Ändra storlek operation på bilder" h2="Ändra storlek-bilder via dina egna Python-applikationer som använder Aspose.Imaging-biblioteket" downloadText="Ladda ner" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alla bilder format som stöds för operationen Ändra storlek" %}}
+{{% blocks/products/pf/feature-page-section  h2="Använd åtgärden Ändra storlek på alla tillgängliga bildformat" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Du kan ändra storlek på en bild för att göra den större eller mindre utan att behöva ta bort något innehåll. Bildens mått ändras när den ändras, vilket ofta påverkar filstorleken och bildkvaliteten. Att minska storleken på enorma bilder för att göra dem enklare att skicka e-post eller dela online är den mest populära motiveringen för att krympa bilder. Rastergrafikbilder måste skalas genom att skapa en ny bild med fler eller färre pixlar. Aspose.Imaging tillåter användare olika storleksändringar algoritmer som gör det möjligt att välja behövs.
+Med Aspose.Imaging kan du ändra storlek på bilder eller foton utan att förlora visuell information. När du justerar bildstorleken ändras dess filvikt, vilket kan leda till kvalitetsförlust. Att minska storleken på bilder är det främsta sättet att snabbt skicka via e-post eller snabb nedladdning från en webbplats. När du ändrar storlek på rasterbilder skapas en ny bild med färre eller fler pixlar, dvs bilden skalas. Aspose.Imaging tillhandahåller olika storleksändringsalgoritmer, så att du kan välja den mest lämpliga för en specifik uppgift.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Med Aspose.Imaging kan du enkelt använda **Ändra storlek** för olika bildformat programmatiskt
+Genom att använda Aspose.Imaging-biblioteket för Python kan du enkelt utföra <b>Ändra storlek</b>-åtgärden för bilder och foton i olika format programmatiskt.
 </p>
 <h3 style="margin-top:16px;">
-Fullständig lista över Ändra storlek-operationer som stöds efter bildformat:
+Välj ett bildformat från listan för åtgärden Ändra storlek:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

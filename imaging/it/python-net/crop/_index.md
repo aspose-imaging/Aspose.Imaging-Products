@@ -1,26 +1,26 @@
 ﻿---
-title: Raccolto immagini Tramite python-net, tutti i formati immagine supportati 
+title: Immagini Raccolto utilizzando Python 
 weight: 3920
 url: /it/python-net/crop/ 
 lang: it
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging puoi facilmente Raccolto immagini tramite python-net
+description: Applicazione della libreria Aspose.Imaging alle immagini e alle foto di Raccolto utilizzando le tue applicazioni Python e le API del server.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="File immagine Raccolto tramite python-net" h2="Raccolto immagini" downloadText="Scarica" >}}
+{{< blocks/products/pf/feature-page-header h1="Utilizza Python per l'operazione Raccolto sulle immagini" h2="Immagini Raccolto tramite le tue applicazioni Python utilizzando la libreria Aspose.Imaging" downloadText="Scarica" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tutti i immagini formati supportati per l'operazione Raccolto" %}}
+{{% blocks/products/pf/feature-page-section  h2="Applica l'operazione Raccolto a tutti i formati di immagine disponibili" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Il ritaglio è il processo di eliminazione di elementi estranei da una fotografia o da un'illustrazione. La tecnica in genere comporta la rimozione di una porzione della periferia di un'immagine al fine di eliminare informazioni visive estranee dalla fotografia, migliorarne l'inquadratura, alterare le proporzioni o enfatizzare o isolare il soggetto dall'ambiente circostante. Questo può essere fatto digitalmente utilizzando un software di modifica delle immagini, oppure può essere fatto su una vera istantanea, un'opera d'arte o un pezzo di pellicola, a seconda dell'applicazione. Le industrie della fotografia, dell'elaborazione cinematografica, della trasmissione, della progettazione grafica e della stampa utilizzano tutte il ritaglio. Aspose.Imaging ti consente di ritagliare le immagini con vari parametri specificati.
+Il ritaglio delle immagini è il processo di rimozione di parti non necessarie da immagini o foto. Come risultato dell'operazione di ritaglio dell'immagine, è possibile rimuovere una parte dei bordi dell'immagine per migliorarne la composizione, regolarne le proporzioni o centrare l'elemento principale. Per raggiungere questo obiettivo, è possibile utilizzare un software di modifica delle immagini specializzato o applicare in modo programmatico l'operazione di ritaglio a immagini, foto, paesaggi o ritratti, a seconda delle proprie esigenze specifiche. Il ritaglio trova ampie applicazioni nella fotografia, nella manipolazione fotografica, nella produzione video, nella progettazione grafica e nella stampa. Con la libreria Aspose.Imaging, puoi automatizzare il ritaglio delle immagini utilizzando parametri personalizzabili.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Usando Aspose.Imaging puoi facilmente applicare **Raccolto** per diversi formati di immagine programmaticamente
+Utilizzando la libreria Aspose.Imaging per Python, puoi facilmente eseguire l'operazione <b>Raccolto</b> per immagini e foto di vari formati a livello di codice.
 </p>
 <h3 style="margin-top:16px;">
-Elenco completo delle operazioni Raccolto supportate per formati immagine:
+Seleziona un formato immagine dall'elenco per l'operazione Raccolto:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

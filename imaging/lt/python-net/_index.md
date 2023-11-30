@@ -9,7 +9,7 @@ description: Python vaizdų apdorojimo ir manipuliavimo biblioteka. Aspose.Imagi
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1="Aspose.Imaging, skirtas Python, naudojant .NET biblioteką ir vaizdo apdorojimo API" h2="Kurkite, įkelkite, manipuliuokite arba konvertuokite vaizdus nereikalaujant jokios vaizdų rengyklės." downloadFreeTrialText="Atsisiųskite nemokamą bandomąją versiją" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-python-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/imaging/python-net/" >}}
+{{< blocks/products/pf/upper-banner h1="Aspose.Imaging, skirtas Python, naudojant .NET biblioteką ir vaizdo apdorojimo API" h2="Sukurkite savo Python programas, kad galėtumėte manipuliuoti vaizdais nereikalaujant jokios vaizdų rengyklės" downloadFreeTrialText="Atsisiųskite nemokamą bandomąją versiją" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-python-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/imaging/python-net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Python" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-python-net.svg" 
@@ -19,42 +19,42 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
 
    <div class="col-lg-12">
     <h2 class="h2title">
-     Išnaudokite visas vaizdo apdorojimo galimybes naudodami „Aspose.Imaging“, skirtą Python
+     Taikykite visas vaizdų apdorojimo galimybes naudodami Aspose.Imaging for Python
     </h2>
     <p align="justify">
-     „Aspose.Imaging“, skirta Python, yra patogi biblioteka, suteikianti pažangias vaizdo apdorojimo galimybes. Naudodami šią universalią API galite be vargo kurti, įkelti, manipuliuoti, konvertuoti ir suspausti vaizdus ar nuotraukas, įgalindami platų vaizdo apdorojimo funkcijų spektrą, nenaudodami specialios vaizdų rengyklės.
+     „Aspose.Imaging for Python“ yra biblioteka, siūlanti išplėstines vaizdo ir nuotraukų apdorojimo funkcijas. Naudodami šią universalią API galite automatiškai įkelti, konvertuoti, kurti ir manipuliuoti vaizdus ar nuotraukas, nenaudodami specializuotų vaizdo redaktorių.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Atraskite pagrindines savybes:
+     Naudokite pagrindines funkcijas:
     </h2>
     <p>
      <ul>
        <li>
-       Vaizdo transformavimas: lengvai keiskite, apkarpykite, apverskite, pasukite, sudėliokite dvejetainius, pilkos spalvos tonus, iškraipykite ir koreguokite vaizdus.
+       Vaizdo transformavimas: pakeiskite mastelį, pakeiskite dydį, apkarpykite, pasukite, konvertuokite į nespalvotą arba pilkos spalvos toną, reguliuokite vaizdų ar nuotraukų ryškumą, kontrastą ir gama.
        </li>
        <li>
-       Išplėstinė manipuliacija: taikykite filtrus, alfa maišymą, stebuklingos lazdelės įrankį, pašalinkite vandens ženklą, pašalinkite foną, keiskite ir maskuokite, kad galėtumėte valdyti vaizdo apdorojimo užduotis.
+       Išplėstinės manipuliacijos: pritaikykite filtrus, alfa maišymą, pridėkite arba pašalinkite vandens ženklus, keiskite fonus, išlyginkite vaizdus, ​​pritaikykite kaukes ir automatizuokite vaizdo apdorojimo užduotis.
        </li>
        <li>
-       Efektyvus atminties optimizavimas: Mėgaukitės atminties optimizavimo strategijomis, kurios užtikrina sklandų ir efektyvų vaizdo apdorojimą.
+       Atminties optimizavimas: naudokite atminties optimizavimo strategijas, kurios užtikrina greitą ir efektyvų vaizdo apdorojimą.
        </li>
        <li>
-       Piešimo ir grafiniai primityvai: išnaudokite piešimo įrankių galią ir dirbkite su grafiniais primityvais, kad pagerintumėte savo projektus.
+       Piešimas ir grafiniai primityvai: naudokite piešimo funkcijas grafiniams primityvams ir taikykite tekstą su skirtingais šriftų stiliais.
        </li>
        <li>
-       Eksportavimas ir konvertavimas: sklandžiai eksportuokite ir konvertuokite vaizdus, ​​įskaitant vienodą kelių puslapių vaizdo apdorojimą.
+       Vaizdo konvertavimas: eksportuokite vaizdus konvertuodami į kitus formatus, įskaitant vieningą kelių puslapių vaizdų apdorojimą.
        </li>
      </ul>
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Formato suderinamumas
+     Įvairių formatų palaikymas
     </h2>
     <p align="justify">
-     Aspose.Imaging, skirtas Python, yra ne tik lankstus ir stabilus, bet ir universalus. Jis palaiko dažniausiai naudojamus vaizdo formatus ir žengia dar vieną žingsnį palaikydamas specialius formatus, tokius kaip DjVu, DICOM, WebP, EPS ir DNG. Dėl šio plataus formato palaikymo tai yra puikus sprendimas atliekant įvairias vaizdo apdorojimo užduotis.
+     Įvairių formatų palaikymas Aspose.Imaging for Python išsiskiria stabilumu, universalumu ir funkcionalumu. Jis palaiko daugybę formatų, įskaitant specialius formatus, tokius kaip APNG, WebP, EPS, PDF ir DICOM. Plataus formato palaikymas daro jį idealiu sprendimu įvairioms vaizdo apdorojimo užduotims.
     </p>
    </div>
    <div class="col-lg-12">
@@ -62,10 +62,10 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
      Suderinamumas su keliomis platformomis
     </h2>
     <p align="justify">
-     Aspose.Imaging yra kelių platformų biblioteka, užtikrinanti suderinamumą su Windows ir Linux aplinkomis. Nesvarbu, ar dirbate su „Windows“, ar „Linux“ sistema, galite pasikliauti „Aspose.Imaging“, kad užtikrintumėte nuoseklias, aukštos kokybės vaizdo apdorojimo galimybes.
+     Aspose.Imaging yra universali biblioteka, kurią galima naudoti tiek Windows, tiek Linux operacinėse sistemose dėl suderinamumo su įvairiomis platformomis. Galite pasikliauti Aspose.Imaging, kuris užtikrins stabilias ir aukštos kokybės vaizdo apdorojimo galimybes.
     </p>
     <p align="justify">
-     Pakelkite savo vaizdo apdorojimo projektus į naujas aukštumas naudodami Aspose.Imaging, skirtą Python. Patirkite mūsų API lankstumą, stabilumą ir galią šiandien.
+     Pasiekite naują vaizdo apdorojimo kokybės lygį naudodami Aspose.Imaging, skirtą Python. Naudokite mūsų API šiandien ir patirkite jos lankstumą, stabilumą ir našumą.
     </p>
    </div>
 
@@ -184,7 +184,19 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
-   
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    .NET Framework
+   </header>
+   <ul>
+    <li>
+     „Windows“ programa
+    </li>
+    <li>
+     ASP.NET žiniatinklio programa
+    </li>
+   </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">

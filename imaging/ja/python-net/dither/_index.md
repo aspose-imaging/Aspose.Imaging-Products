@@ -1,26 +1,26 @@
 ﻿---
-title: ディザ 画像 python-net 経由、サポートされているすべての画像形式 
+title: Python を使用した ディザ イメージ 
 weight: 3920
 url: /ja/python-net/dither/ 
 lang: ja
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging を使用すると、python-net 経由で簡単に ディザ イメージを作成できます
+description: 独自の Python アプリケーションとサーバー API を使用して、Aspose.Imaging ライブラリを ディザ の画像と写真に適用します。
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="python-net経由の画像ファイルディザ" h2="{操作名} 画像" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1="画像に対する ディザ オペレーションには Python を使用します" h2="Aspose.Imaging ライブラリを使用した独自の Python アプリケーションによる ディザ イメージ" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="ディザ 操作でサポートされているすべての形式 画像" %}}
+{{% blocks/products/pf/feature-page-section  h2="ディザ オペレーションを使用可能なすべての画像形式に適用します" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-コンピュータ グラフィックスでは、制限されたカラー パレットを持つシステム上の画像に色深度の外観を与えるためにディザリングが使用されます。利用可能なパレットからの色付きピクセルの拡散は、パレットに存在しない色を近似するためにディザリングされた画像で使用されます。人間の目には、拡散はその中に含まれる色の混合として見えます 。ディザリングされた写真は、特に色の少ないパレットを使用する場合、独特の粒状感や斑点のある外観によって識別できることがよくあります。ディザリングは画像にノイズやパターンを追加しますが、多くの場合、そのパターンは明らかです。このような条件下では、ブルー ノイズによって生成されるディザーが最も不快で魅力的ではないことが実証されています。 Aspose.Imaging を使用すると、必要に応じて選択できるいくつかのアルゴリズムを使用して画像をディザリングできます。
+コンピューター グラフィックスの分野におけるディザリングは、カラー パレットが限られたシステムでより顕著なカラー効果を実現するためにデザイナーによって使用されます。平滑化されたイメージでは、利用可能なパレットのカラー ピクセルを使用して欠落している色を近似し、色の混合の印象を作り出します。多くの場合、このような写真では、特に色数が限られたパレットを使用している場合に、独特の粒状感やドット パターンに気づくことがあります。ディザ操作は、画像にノイズやパターンを追加するために適用され、多くの場合、このパターンは簡単に目に見えます。このような場合、ディザリングにブルー ノイズを使用するのが最適であることがわかっています。 Aspose.Imaging では、好みに基づいて選択できるさまざまなアルゴリズムを使用して画像を平滑化できます。
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Aspose.Imaging を使用すると、さまざまな画像フォーマットに **ディザ** を簡単に適用できます プログラム的に
+Python の Aspose.Imaging ライブラリを使用すると、さまざまな形式の画像や写真に対する <b>ディザ</b> 操作をプログラムで簡単に実行できます。
 </p>
 <h3 style="margin-top:16px;">
-画像形式ごとにサポートされている ディザ 操作の完全なリスト:
+ディザ オペレーションのリストから画像形式を選択します。
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

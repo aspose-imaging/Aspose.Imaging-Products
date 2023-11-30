@@ -1,26 +1,26 @@
 ﻿---
-title: gambar Gentar Melalui python-net, semua format gambar yang didukung 
+title: gambar Gentar menggunakan Python 
 weight: 3920
 url: /id/python-net/dither/ 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Menggunakan Aspose.Imaging Anda dapat dengan mudah Gentar gambar Via python-net
+description: Menerapkan pustaka Aspose.Imaging ke gambar dan foto Gentar menggunakan aplikasi Python dan API server Anda sendiri.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="File gambar Gentar melalui python-net" h2="gambar Gentar" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Gunakan Python untuk Operasi Gentar pada Gambar" h2="Gentar Gambar melalui Aplikasi Python Anda Sendiri Menggunakan Perpustakaan Aspose.Imaging" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Semua gambar-gambar format yang didukung untuk operasi Gentar" %}}
+{{% blocks/products/pf/feature-page-section  h2="Terapkan operasi Gentar ke semua format gambar yang tersedia" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Dalam grafik komputer, dithering digunakan untuk memberikan tampilan kedalaman warna pada gambar pada sistem dengan palet warna yang dibatasi. Difusi piksel berwarna dari palet yang tersedia digunakan dalam gambar yang ragu-ragu untuk memperkirakan warna yang tidak ada dalam palet. Difusi tampak oleh mata manusia sebagai percampuran warna yang terkandung di dalamnya. Foto-foto yang dithered sering dapat dikenali dari bintik-bintik yang khas atau tampilan berbintik-bintik, terutama saat menggunakan palet dengan sedikit warna. Dithering menambahkan noise atau pola pada gambar, dan polanya seringkali terlihat jelas. Telah dibuktikan bahwa dalam kondisi ini, gentar yang dihasilkan oleh derau biru adalah yang paling tidak mengganggu dan tidak menarik. Aspose.Imaging memungkinkan untuk mengubah gambar Anda dengan beberapa algoritme yang dapat Anda pilih sesuai kebutuhan Anda.
+Keragu-raguan di bidang grafik komputer digunakan oleh desainer untuk mencapai efek warna yang lebih jelas dalam sistem dengan palet warna terbatas. Dalam gambar yang diperhalus, piksel warna dari palet yang tersedia digunakan untuk memperkirakan warna yang hilang, sehingga menciptakan kesan perpaduan warna. Seringkali, Anda dapat melihat bintik-bintik atau pola titik yang berbeda pada foto tersebut, terutama saat menggunakan palet dengan jumlah warna terbatas. Operasi gentar diterapkan untuk menambahkan noise atau pola pada gambar, dan sering kali pola ini mudah terlihat. Telah terbukti bahwa dalam kasus seperti itu, penggunaan blue noise untuk dithering adalah yang paling optimal. Aspose.Imaging memungkinkan penghalusan gambar menggunakan berbagai algoritma yang dapat dipilih berdasarkan preferensi Anda.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Menggunakan Aspose.Imaging Anda dapat dengan mudah menerapkan **Gentar** untuk berbagai format gambar secara terprogram
+Dengan menggunakan pustaka Aspose.Imaging untuk Python, Anda bisa dengan mudah melakukan operasi <b>Gentar</b> untuk gambar dan foto dalam berbagai format secara terprogram.
 </p>
 <h3 style="margin-top:16px;">
-Daftar lengkap operasi Gentar yang didukung menurut format gambar:
+Pilih format gambar dari daftar untuk operasi Gentar:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

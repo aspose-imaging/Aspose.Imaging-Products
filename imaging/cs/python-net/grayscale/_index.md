@@ -1,26 +1,26 @@
 ﻿---
-title: Obrázky Stupně šedi Prostřednictvím python-net, všechny podporované formáty obrázků 
+title: obrázky Stupně šedi pomocí Python 
 weight: 3920
 url: /cs/python-net/grayscale/ 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Pomocí Aspose.Imaging můžete snadno Stupně šedi obrázky přes python-net
+description: Použití knihovny Aspose.Imaging na obrázky a fotografie Stupně šedi pomocí vašich vlastních aplikací Python a serverových API.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Soubory obrázků Stupně šedi prostřednictvím python-net" h2="obrázky Stupně šedi" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Použijte Python pro operaci Stupně šedi s obrázky" h2="Stupně šedi Obrázky prostřednictvím vašich vlastních aplikací Python pomocí knihovny Aspose.Imaging" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované snímky formáty pro operaci Stupně šedi" %}}
+{{% blocks/products/pf/feature-page-section  h2="Použijte operaci Stupně šedi na všechny dostupné formáty obrázků" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Obraz ve stupních šedi je obraz, ve kterém je hodnota každého pixelu jeden vzorek indikující pouze množství světla; to znamená, že předává pouze informaci o intenzitě. Obrázky ve stupních šedi se používají v digitální fotografii, počítačově generovaném zobrazování a kolorimetrii. Odstíny šedé tvoří pouze obrázky ve stupních šedi, což je typ černobílého nebo šedého monochromatického. Černá má nejnižší kontrast, zatímco bílá má největší kontrast. Obrázky ve stupních šedi se liší od jednobitových dvoutónových černobílých obrázků, což jsou obrázky pouze se dvěma barvami: černou a bílou (také známé jako dvouúrovňové nebo binární obrázky) v kontextu počítačového zobrazování. Na fotografiích ve stupních šedi je mezi nimi mnoho odstínů šedé. Pomocí Aspose.Imaging můžete ve stupních šedi obrázky různých formátů.
+Obrázek reprezentovaný gradacemi šedé je obrázek, kde každý pixel má hodnotu udávající pouze intenzitu světla. Poskytuje tedy informace pouze o jasu. V souladu s tím bude mít černá nejnižší jas, zatímco bílá bude mít nejvyšší. Na fotkách v odstínech šedi lze pozorovat celou škálu odstínů šedi od černé po bílou, přičemž chybí informace o barvě pixelu. Převod obrázků do šedé verze je široce používán v digitální fotografii a počítačové grafice. Pomocí Aspose.Imaging můžete převádět barevné obrázky a fotografie do stupňů šedi v různých formátech.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Pomocí Aspose.Imaging můžete snadno použít **Stupně šedi** pro různé formáty obrázků programově
+Pomocí knihovny Aspose.Imaging pro Python můžete snadno programově provést operaci <b>Stupně šedi</b> pro obrázky a fotografie různých formátů.
 </p>
 <h3 style="margin-top:16px;">
-Úplný seznam podporovaných operací Stupně šedi podle formátů obrázků:
+Vyberte ze seznamu formát obrázku pro operaci Stupně šedi:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,26 +1,26 @@
 ﻿---
-title: Images Ajuster Via python-net, tous les formats d'image pris en charge 
+title: Images Ajuster utilisant Python 
 weight: 3920
 url: /fr/python-net/adjust/ 
 lang: fr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: En utilisant Aspose.Imaging, vous pouvez facilement Ajuster images Via python-net
+description: Application de la bibliothèque Aspose.Imaging aux images et photos Ajuster à l'aide de vos propres applications Python et API de serveur.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Fichiers image Ajuster via python-net" h2="images de Ajuster" downloadText="Télécharger" >}}
+{{< blocks/products/pf/feature-page-header h1="Utilisez Python pour l'opération Ajuster sur les images" h2="Images Ajuster via vos propres applications Python à l'aide de la bibliothèque Aspose.Imaging" downloadText="Télécharger" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tous les images formats pris en charge pour l'opération Ajuster" %}}
+{{% blocks/products/pf/feature-page-section  h2="Appliquer l'opération Ajuster à tous les formats d'image disponibles" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-L'une des principales fonctionnalités offertes par la majorité des bibliothèques d'imagerie est la correction des couleurs pour les photos numériques. Les réglages de couleur contiennent plusieurs catégories comme (1) Le terme luminosité décrit à quel point une teinte est claire ou sombre. Toutes les couleurs d'une image sont illuminées lorsque la luminosité est augmentée et toutes les couleurs sont assombries lorsque la luminosité est réduite. (2) Lorsqu'une image est contrastée, les objets ou les détails qu'elle contient ressortent davantage. Lorsque le contraste est augmenté, la différence entre ses parties claires et sombres augmente, rendant les zones claires plus claires et les sections sombres plus sombres. Les parties plus claires et plus sombres resteront essentiellement les mêmes avec moins de contraste, mais l'image globale sera plus uniforme ; (3) Gamma améliore la luminosité et le contraste de l'éclairage indirect qui éclaire un objet dans l'image. Aspose.Imaging prend en charge le réglage de <b>Luminosité</b>, <b>Gamma</b> et <b>Contraste</b> des images.
+L'une des principales fonctions de la bibliothèque de traitement d'image est d'ajuster les informations de couleur des images et des photos numériques. Les paramètres de couleur comprennent divers paramètres: (1) <b>"Luminosité"</b> indique le degré de clarté ou d'obscurité de la couleur. Augmenter la luminosité rend toutes les couleurs de l'image plus claires, tandis que diminuer la luminosité les rend plus sombres. (2) Lorsque l'image a un <b>"contraste"</b> élevé, les objets ou les détails qu'elle contient sont plus mis en valeur. L'augmentation du contraste amplifie la distinction entre les régions claires et sombres, rendant les zones claires encore plus claires et les zones sombres encore plus sombres. Tout au long de ce processus, les zones claires et sombres conservent leurs nuances relatives, mais dans l’ensemble, l’image apparaît plus uniforme. (3) <b>"Gamma"</b> ajuste la luminosité et le contraste de l'éclairage indirect tombant sur un objet dans l'image ou la photo. Aspose.Imaging permet d'ajuster la luminosité, le gamma et le contraste des images et des photos.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-En utilisant Aspose.Imaging, vous pouvez facilement appliquer **Ajuster** pour différents formats d'image par programmation
+À l’aide de la bibliothèque Aspose.Imaging pour Python, vous pouvez facilement effectuer l’opération <b>Ajuster</b> pour des images et des photos de différents formats par programme.
 </p>
 <h3 style="margin-top:16px;">
-Liste complète des opérations Ajuster prises en charge par formats d'image :
+Sélectionnez un format d'image dans la liste pour l'opération Ajuster:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

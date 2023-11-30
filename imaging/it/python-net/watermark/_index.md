@@ -1,26 +1,26 @@
 ﻿---
-title: Filigrana immagini Tramite python-net, tutti i formati immagine supportati 
+title: Immagini Filigrana utilizzando Python 
 weight: 3920
 url: /it/python-net/watermark/ 
 lang: it
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging puoi facilmente Filigrana immagini tramite python-net
+description: Applicazione della libreria Aspose.Imaging alle immagini e alle foto di Filigrana utilizzando le tue applicazioni Python e le API del server.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="File immagine Filigrana tramite python-net" h2="Filigrana immagini" downloadText="Scarica" >}}
+{{< blocks/products/pf/feature-page-header h1="Utilizza Python per l'operazione Filigrana sulle immagini" h2="Immagini Filigrana tramite le tue applicazioni Python utilizzando la libreria Aspose.Imaging" downloadText="Scarica" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tutti i immagini formati supportati per l'operazione Filigrana" %}}
+{{% blocks/products/pf/feature-page-section  h2="Applica l'operazione Filigrana a tutti i formati di immagine disponibili" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Una filigrana digitale è un tipo di marcatura sottilmente incorporata in un segnale in grado di tollerare il rumore, ad esempio dati audio, video o immagine. Viene spesso utilizzato per stabilire chi detiene il copyright di un determinato segnale. La pratica del watermarking comporta la codifica dei dati digitali in un segnale portante; i dati nascosti dovrebbero, ma non è necessario, essere correlati al segnale portante. La legittimità o l'integrità del segnale portante può essere confermata utilizzando filigrane digitali e possono essere rivelate anche le identità dei loro proprietari. Viene spesso utilizzato per l'autenticazione delle banconote e per il monitoraggio delle violazioni del copyright. Usando Aspose.Imaging puoi facilmente aggiungere la tua filigrana all'immagine selezionata senza bisogno di molto codice.
+Una filigrana digitale è un tipo unico di contrassegno semitrasparente che viene applicato a un'immagine e rimane visibile anche se l'immagine viene modificata. La tecnica della filigrana è comunemente utilizzata per indicare la proprietà o la fonte di una particolare immagine. Le filigrane vengono spesso utilizzate per la verifica dell'autenticità dei prodotti digitali o per la protezione dalla violazione del copyright. Con Aspose.Imaging, puoi aggiungere facilmente la tua filigrana personalizzata a qualsiasi immagine selezionata senza la necessità di codifica complessa o software specializzato.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Usando Aspose.Imaging puoi facilmente applicare **Filigrana** per diversi formati di immagine programmaticamente
+Utilizzando la libreria Aspose.Imaging per Python, puoi facilmente eseguire l'operazione <b>Filigrana</b> per immagini e foto di vari formati a livello di codice.
 </p>
 <h3 style="margin-top:16px;">
-Elenco completo delle operazioni Filigrana supportate per formati immagine:
+Seleziona un formato immagine dall'elenco per l'operazione Filigrana:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,26 +1,26 @@
 ﻿---
-title: 병합 이미지 python-net을 통해 지원되는 모든 이미지 형식 
+title: Python을 사용하는 병합 이미지 
 weight: 3920
 url: /ko/python-net/merge/ 
 lang: ko
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging을 사용하면 python-net을 통해 쉽게 병합 이미지를 만들 수 있습니다.
+description: 자체 Python 애플리케이션 및 서버 API를 사용하여 Aspose.Imaging 라이브러리를 병합 이미지 및 사진에 적용합니다.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="python-net을 통한 이미지 파일 병합" h2="{작업 이름} 이미지" downloadText="다운로드" >}}
+{{< blocks/products/pf/feature-page-header h1="이미지에 대한 병합 작업에 Python 사용" h2="Aspose.Imaging 라이브러리를 사용하여 자체 Python 애플리케이션을 통한 병합 이미지" downloadText="다운로드" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="병합 작업에 대해 지원되는 모든 형식 이미지" %}}
+{{% blocks/products/pf/feature-page-section  h2="사용 가능한 모든 이미지 형식에 병합 작업을 적용합니다." %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-이미지 병합 작업을 사용하면 품질 손실 없이 2개 이상의 이미지를 수직 또는 수평으로 하나로 결합할 수 있습니다. 사진 콜라주는 때로는 서로 직접 관련되지 않은 여러 이미지를 결합하여 새로운 사진이나 이미지를 만드는 것입니다. 사진가가 원하는 효과는 하나의 이미지를 다른 이미지에 중첩하거나 많은(2개 이상) 이미지를 단일 전체로 결합하여 만들어지며 때로는 서로 다른 사진 이미지(예: 퍼즐 또는 모자이크)를 혼란스럽게 사용합니다. Aspose.Imaging을 사용하면 다양한 파일 형식을 사용하여 다양한 콜라주를 만들 수 있습니다.
+이미지 병합은 품질 저하 없이 두 개 이상의 이미지를 단일 구성으로 결합할 수 있는 기술입니다. 사진 콜라주를 만들려면 공통된 주제나 주제를 가진 여러 장의 사진을 함께 병합해야 합니다. 이는 하나의 이미지를 다른 이미지 위에 쌓거나 여러 이미지를 세로 또는 가로로 연결된 이미지로 원활하게 결합하여 달성할 수 있습니다. 다양한 사진 조각을 활용하여 시각적으로 매력적인 배경화면, 퍼즐 또는 모자이크를 만들 수 있습니다. Aspose.Imaging은 관련된 파일 형식에 관계없이 콜라주를 생성할 수 있는 다목적 솔루션을 제공하므로 다중 페이지 옵션을 포함하여 다양한 형식으로 창작물을 저장할 수 있습니다.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Aspose.Imaging을 사용하면 다양한 이미지 형식에 **병합** 을(를) 쉽게 적용할 수 있습니다 프로그래밍 방식으로. 
+Python용 Aspose.Imaging 라이브러리를 사용하면 다양한 형식의 이미지와 사진에 대한 <b>병합</b> 작업을 프로그래밍 방식으로 쉽게 수행할 수 있습니다.
 </p>
 <h3 style="margin-top:16px;">
-이미지 형식별로 지원되는 병합 작업의 전체 목록:
+병합 작업에 대한 목록에서 이미지 형식을 선택하세요.
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

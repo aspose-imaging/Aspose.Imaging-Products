@@ -1,26 +1,26 @@
 ﻿---
-title: صور ثنائي عبر python-net ، جميع تنسيقات الصور المدعومة 
+title: صور ثنائي باستخدام Python 
 weight: 3920
 url: /ar/python-net/binarize/ 
 lang: ar
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: باستخدام Aspose.Imaging يمكنك بسهولة ثنائي الصور عبر python-net
+description: تطبيق مكتبة Aspose.Imaging على الصور والصور الفوتوغرافية ثنائي باستخدام تطبيقات Python وواجهات برمجة تطبيقات الخادم الخاصة بك.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="ملفات الصور ثنائي عبر python-net" h2="ثنائي الصور" downloadText="تحميل" >}}
+{{< blocks/products/pf/feature-page-header h1="استخدم Python لعملية ثنائي على الصور" h2="صور ثنائي عبر تطبيقات Python الخاصة بك باستخدام مكتبة Aspose.Imaging" downloadText="تحميل" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="جميع التنسيقا تالصور  المدعومة لعملية ثنائي" %}}
+{{% blocks/products/pf/feature-page-section  h2="قم بتطبيق عملية ثنائي على جميع تنسيقات الصور المتاحة" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-يتم فصل مقدمة وخلفية الصورة باستخدام تقنية تسمى عتبة الصورة. تقوم هذه الطريقة بتعيين قيم البكسل وفقًا لقيم الحد المحددة. يتم تحديد الصور ذات التدرج الرمادي في رؤية الكمبيوتر. إحدى الطرق الأكثر شهرة هي الطريقة الثنائية بواسطة <b> Otsu </b> وبواسطة <b> Bradley </b>. Aspose.imaging يدعم كلا الخوارزميات. باستخدام هذه الخوارزميات ، يمكن تحويل صورك إلى أبيض وأسود بحد أدنى.
+عند معالجة الصور، يتم تطبيق طريقة تسمى الثنائية لتحويل الصورة إلى تنسيق أبيض وأسود باستخدام قيمة عتبة محددة. تتضمن هذه الطريقة تعيين قيم البكسل بناءً على قيمة العتبة المحددة. عند العمل مع الصور ذات التدرج الرمادي، من المهم تحديد قيمة عتبة لفصل الكائنات باستخدام تقنية رؤية الكمبيوتر. هناك العديد من طرق التحويل المتاحة، مثل الثنائية باستخدام طريقة <b>Otsu</b> وطريقة <b>Bradley</b>، وكلاهما مدعوم بواسطة Aspose.Imaging. باستخدام هذه الخوارزميات، يمكنك تحويل صورك إلى أبيض وأسود بقيمة عتبة محددة.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-باستخدام Aspose.Imaging ، يمكنك بسهولة تطبيق **ثنائي** لتنسيقات الصور المختلفة برمجيا
+باستخدام مكتبة Aspose.Imaging لـ Python، يمكنك بسهولة إجراء عملية <b>ثنائي</b> للصور والصور ذات التنسيقات المختلفة برمجيًا.
 </p>
 <h3 style="margin-top:16px;">
-القائمة الكاملة لعمليات ثنائي المدعومة حسب تنسيقات الصور:
+حدد تنسيق صورة من القائمة لعملية ثنائي:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

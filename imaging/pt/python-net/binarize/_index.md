@@ -1,26 +1,26 @@
 ﻿---
-title: Imagens Binarizar Via python-net, todos os formatos de imagem suportados 
+title: Imagens de Binarizar usando Python 
 weight: 3920
 url: /pt/python-net/binarize/ 
 lang: pt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging, você pode facilmente imagens Binarizar Via python-net
+description: Aplicando a biblioteca Aspose.Imaging a imagens e fotos de Binarizar usando seus próprios aplicativos Python e APIs de servidor.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Arquivos de imagem Binarizar via python-net" h2="Binarizar imagens" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Use Python para operação Binarizar em imagens" h2="Imagens de Binarizar por meio de seus próprios aplicativos Python usando a biblioteca Aspose.Imaging" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos os formatos suportados para a operação imagens Binarizar" %}}
+{{% blocks/products/pf/feature-page-section  h2="Aplique a operação Binarizar a todos os formatos de imagem disponíveis" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-O primeiro plano e o plano de fundo de uma imagem são separados usando uma técnica chamada limiarização de imagem. Este método atribui os valores de pixel de acordo com os valores limite fornecidos. As imagens em tons de cinza são limitadas na visão computacional. Um dos métodos mais conhecidos é a Binarização por <b>Otsu</b> e por <b>Bradley</b>. Aspose.Imaging suporta ambos os algoritmos. Usando esses algoritmos, suas imagens podem ser convertidas em preto e branco com limite.
+Ao processar imagens, um método chamado binarização é aplicado para converter a imagem em um formato preto e branco usando um valor limite especificado. Este método envolve a atribuição de valores de pixel com base no valor limite fornecido. Ao trabalhar com imagens em escala de cinza, é importante especificar um valor limite para separar objetos usando tecnologia de visão computacional. Existem vários métodos de conversão disponíveis, como binarização usando o método <b>Otsu</b> e <b>Bradley</b>, ambos suportados pelo Aspose.Imaging. Ao utilizar esses algoritmos, você pode converter suas imagens em preto e branco com um valor limite especificado.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Usando o Aspose.Imaging, você pode facilmente aplicar **Binarizar** para diferentes formatos de imagem programaticamente
+Usando a biblioteca Aspose.Imaging para Python, você pode executar facilmente a operação <b>Binarizar</b> para imagens e fotos de vários formatos de forma programática.
 </p>
 <h3 style="margin-top:16px;">
-Lista completa de operações Binarizar suportadas por formatos de imagem:
+Selecione um formato de imagem na lista para a operação Binarizar:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

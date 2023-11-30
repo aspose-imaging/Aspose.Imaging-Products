@@ -1,26 +1,26 @@
 ﻿---
-title: gambar Ubah latar belakang Melalui python-net, semua format gambar yang didukung 
+title: gambar Ubah latar belakang menggunakan Python 
 weight: 3920
 url: /id/python-net/change-background/ 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Menggunakan Aspose.Imaging Anda dapat dengan mudah Ubah latar belakang gambar Via python-net
+description: Menerapkan pustaka Aspose.Imaging ke gambar dan foto Ubah latar belakang menggunakan aplikasi Python dan API server Anda sendiri.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="File gambar Ubah latar belakang melalui python-net" h2="gambar Ubah latar belakang" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Gunakan Python untuk Operasi Ubah latar belakang pada Gambar" h2="Ubah latar belakang Gambar melalui Aplikasi Python Anda Sendiri Menggunakan Perpustakaan Aspose.Imaging" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Semua gambar-gambar format yang didukung untuk operasi Ubah latar belakang" %}}
+{{% blocks/products/pf/feature-page-section  h2="Terapkan operasi Ubah latar belakang ke semua format gambar yang tersedia" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Ubah latar belakang adalah salah satu operasi paling umum yang diperlukan untuk memproses foto atau gambar Anda. Anda dapat dengan mudah menghapus latar belakang dari satu foto Anda dan menempatkan objek latar depan ke yang lain menggunakan Aspose.Imaging. Anda juga dapat mengenali objek latar depan dan mendeteksinya jika diperlukan. Hasilnya, Anda dapat memperoleh latar belakang transparan dan proses sesuai kebutuhan.
+Mengubah latar belakang adalah tugas yang sering dilakukan dalam pengeditan gambar dan foto. Dengan menggunakan Aspose.Imaging, Anda dapat dengan mudah memisahkan objek latar depan dari latar belakang sebuah foto, baik secara otomatis maupun manual, lalu menempatkannya ke gambar lain. Selain itu, Cloud API memungkinkan Anda mengidentifikasi objek latar depan dan menghapus latar belakang jika diperlukan. Hal ini memungkinkan Anda mendapatkan objek dengan latar belakang transparan dan mengganti latar belakang asli dengan yang lain.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Menggunakan Aspose.Imaging Anda dapat dengan mudah menerapkan **Ubah latar belakang** untuk berbagai format gambar secara terprogram
+Dengan menggunakan pustaka Aspose.Imaging untuk Python, Anda bisa dengan mudah melakukan operasi <b>Ubah latar belakang</b> untuk gambar dan foto dalam berbagai format secara terprogram.
 </p>
 <h3 style="margin-top:16px;">
-Daftar lengkap operasi Ubah latar belakang yang didukung menurut format gambar:
+Pilih format gambar dari daftar untuk operasi Ubah latar belakang:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

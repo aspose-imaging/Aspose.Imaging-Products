@@ -1,26 +1,26 @@
 ﻿---
-title: Imágenes de Ajustar A través de python-net, todos los formatos de imagen admitidos 
+title: Imágenes de Ajustar usando Python 
 weight: 3920
 url: /es/python-net/adjust/ 
 lang: es
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging puede fácilmente Ajustar imágenes a través de python-net
+description: Aplicar la biblioteca Aspose.Imaging a imágenes y fotografías de Ajustar utilizando sus propias aplicaciones Python y API de servidor.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Archivos de imagen Ajustar a través de python-net" h2="Imágenes de Ajustar" downloadText="Descargar" >}}
+{{< blocks/products/pf/feature-page-header h1="Utilice Python para la operación Ajustar en imágenes" h2="Ajustar Imágenes a través de sus propias aplicaciones Python utilizando la biblioteca Aspose.Imaging" downloadText="Descargar" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos los imágenes formatos admitidos para la operación Ajustar" %}}
+{{% blocks/products/pf/feature-page-section  h2="Aplicar la operación Ajustar a todos los formatos de imagen disponibles" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Una de las principales características que ofrece la mayoría de las bibliotecas de imágenes son las correcciones de color para fotografías digitales. Los ajustes de color contienen las siguientes categorías como (1) El término brillo describe qué tan claro u oscuro es un tono. Todos los colores de una imagen se iluminan cuando aumenta el brillo y todos los colores se oscurecen cuando disminuye el brillo; (2) Cuando una imagen tiene contraste, los objetos o detalles dentro de ella se destacan más. Cuando se aumenta el contraste, la diferencia entre sus partes claras y oscuras crece, haciendo que las áreas claras sean más claras y las oscuras más oscuras. Las partes más claras y más oscuras permanecerán esencialmente iguales con menos contraste, pero la imagen general se verá más uniforme; (3) Gamma mejora el brillo y el contraste de la iluminación indirecta que ilumina un objeto en la imagen. Aspose.Imaging admite el ajuste de <b>Brillo</b>, <b>Gamma</b> y <b>Contraste</b> de las imágenes.
+Una de las funciones principales de la biblioteca de procesamiento de imágenes es ajustar la información de color de imágenes y fotografías digitales. La configuración de color incluye varios parámetros: (1) <b>"Brillo"</b> indica el grado de claridad u oscuridad del color. Aumentar el brillo hace que todos los colores de la imagen sean más claros, mientras que disminuir el brillo los hace más oscuros. (2) Cuando la imagen tiene un <b>"Contraste"</b> alto, los objetos o detalles dentro de ella se enfatizan más. Aumentar el contraste amplifica la distinción entre regiones claras y oscuras, haciendo que las áreas claras sean aún más claras y las áreas oscuras aún más oscuras. A lo largo de este proceso, las áreas claras y oscuras mantienen sus sombras relativas, pero en general, la imagen parece más uniforme. (3) <b>"Gamma"</b> ajusta el brillo y el contraste de la iluminación indirecta que incide sobre un objeto en la imagen o fotografía. Aspose.Imaging permite ajustar el brillo, gamma y contraste de imágenes y fotografías.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Usando Aspose.Imaging puede aplicar fácilmente **Ajustar** para diferentes formatos de imagen programáticamente
+Usando la biblioteca Aspose.Imaging para Python, puede realizar fácilmente la operación <b>Ajustar</b> para imágenes y fotografías de varios formatos mediante programación.
 </p>
 <h3 style="margin-top:16px;">
-Lista completa de operaciones {nombre de operación} admitidas por formatos de imagen:
+Seleccione un formato de imagen de la lista para la operación Ajustar:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

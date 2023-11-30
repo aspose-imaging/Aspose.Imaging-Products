@@ -1,26 +1,26 @@
 ﻿---
-title: Hintergrund entfernen-Bilder Über python-net alle unterstützten Bildformate 
+title: Hintergrund entfernen-Bilder mit Python 
 weight: 3920
 url: /de/python-net/remove-background/ 
 lang: de
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Mit Aspose.Imaging können Sie ganz einfach Hintergrund entfernen Bilder über python-net
+description: Anwenden der Aspose.Imaging-Bibliothek auf Hintergrund entfernen-Bilder und Fotos mithilfe Ihrer eigenen Python-Anwendungen und Server-APIs.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Bilddateien Hintergrund entfernen über python-net" h2="Hintergrund entfernen Bilder" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Verwenden Sie Python für den Vorgang Hintergrund entfernen für Bilder" h2="Hintergrund entfernen-Bilder über Ihre eigenen Python-Anwendungen mithilfe der Aspose.Imaging-Bibliothek" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bilder Formate für den Vorgang Hintergrund entfernen" %}}
+{{% blocks/products/pf/feature-page-section  h2="Wenden Sie den Vorgang Hintergrund entfernen auf alle verfügbaren Bildformate an" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-„Hintergrund entfernen“ ist ein Vorgang, mit dem Sie den Hintergrund einfach von Ihren Fotos oder Bildern entfernen können. Durch die Hintergrundentfernung können Sie einen transparenten Hintergrund erhalten und den Vordergrund auf einen anderen Hintergrund übertragen. Mit Aspose.Imaging können Sie verschiedene Algorithmen zum Entfernen des Hintergrunds ausprobieren, die möglicherweise Ihren Anforderungen für verschiedene Bilder entsprechen.
+Mit der Funktion zum Entfernen des Hintergrunds können Sie mühelos den Hintergrund von Fotos oder Bildern entfernen. Durch diesen Prozess entstehen Objekte wie menschliche Figuren mit transparentem Hintergrund. Anschließend können Sie diese Objekte problemlos auf ein anderes Bild mit einem anderen Hintergrund übertragen. Durch die Verwendung von Aspose.Imaging haben Sie die Möglichkeit, mit verschiedenen Algorithmen zur Hintergrundentfernung zu experimentieren, die je nach Komplexität Ihrer Aufgabe für verschiedene Bildtypen geeignet sind.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Mit Aspose.Imaging können Sie ganz einfach **Hintergrund entfernen** für verschiedene Bildformate anwenden programmatisch
+Mit der Aspose.Imaging-Bibliothek für Python können Sie den Vorgang <b>Hintergrund entfernen</b> problemlos programmgesteuert für Bilder und Fotos verschiedener Formate ausführen.
 </p>
 <h3 style="margin-top:16px;">
-Vollständige Liste der unterstützten Hintergrund entfernen-Vorgänge nach Bildformaten:
+Wählen Sie ein Bildformat aus der Liste für den Vorgang Hintergrund entfernen aus:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

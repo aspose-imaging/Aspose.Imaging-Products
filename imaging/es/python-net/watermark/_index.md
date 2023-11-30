@@ -1,26 +1,26 @@
 ﻿---
-title: Imágenes de Filigrana A través de python-net, todos los formatos de imagen admitidos 
+title: Imágenes de Filigrana usando Python 
 weight: 3920
 url: /es/python-net/watermark/ 
 lang: es
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging puede fácilmente Filigrana imágenes a través de python-net
+description: Aplicar la biblioteca Aspose.Imaging a imágenes y fotografías de Filigrana utilizando sus propias aplicaciones Python y API de servidor.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Archivos de imagen Filigrana a través de python-net" h2="Imágenes de Filigrana" downloadText="Descargar" >}}
+{{< blocks/products/pf/feature-page-header h1="Utilice Python para la operación Filigrana en imágenes" h2="Filigrana Imágenes a través de sus propias aplicaciones Python utilizando la biblioteca Aspose.Imaging" downloadText="Descargar" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos los imágenes formatos admitidos para la operación Filigrana" %}}
+{{% blocks/products/pf/feature-page-section  h2="Aplicar la operación Filigrana a todos los formatos de imagen disponibles" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Una marca de agua digital es un tipo de marca que se incorpora sutilmente a una señal que puede tolerar ruido, como audio, video o datos de imagen. A menudo se utiliza para establecer quién posee los derechos de autor de una determinada señal. La práctica de la marca de agua implica la codificación de datos digitales en una señal portadora; los datos ocultos deberían, pero no necesariamente, estar relacionados con la señal portadora. La legitimidad o integridad de la señal del portador se puede confirmar mediante marcas de agua digitales y también se pueden revelar las identidades de sus propietarios. Se utiliza con frecuencia para la autenticación de billetes y para el seguimiento de violaciones de derechos de autor. Usando Aspose.Imaging puede agregar fácilmente su marca de agua a la imagen seleccionada sin necesidad de mucho código.
+Una marca de agua digital es un tipo único de marca semitransparente que se aplica a una imagen y permanece visible incluso si se modifica la imagen. La técnica de marca de agua se usa comúnmente para indicar la propiedad o la fuente de una imagen en particular. Las marcas de agua se emplean a menudo para verificar la autenticidad de productos digitales o proteger contra la infracción de derechos de autor. Con Aspose.Imaging, puede agregar fácilmente su propia marca de agua personalizada a cualquier imagen seleccionada sin necesidad de codificación compleja o software especializado.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Usando Aspose.Imaging puede aplicar fácilmente **Filigrana** para diferentes formatos de imagen programáticamente
+Usando la biblioteca Aspose.Imaging para Python, puede realizar fácilmente la operación <b>Filigrana</b> para imágenes y fotografías de varios formatos mediante programación.
 </p>
 <h3 style="margin-top:16px;">
-Lista completa de operaciones {nombre de operación} admitidas por formatos de imagen:
+Seleccione un formato de imagen de la lista para la operación Filigrana:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

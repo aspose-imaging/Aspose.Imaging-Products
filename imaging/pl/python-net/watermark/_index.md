@@ -1,26 +1,26 @@
 ﻿---
-title: znak wodny obrazy Przez python-net, wszystkie obsługiwane formaty obrazów 
+title: Obrazy znak wodny przy użyciu języka Python 
 weight: 3920
 url: /pl/python-net/watermark/ 
 lang: pl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Używając Aspose.Imaging możesz łatwo znak wodny obrazy Via python-net
+description: Stosowanie biblioteki Aspose.Imaging do obrazów i zdjęć znak wodny przy użyciu własnych aplikacji Python i interfejsów API serwera.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Pliki obrazów znak wodny przez python-net" h2="Obrazy znak wodny" downloadText="Ściągnij" >}}
+{{< blocks/products/pf/feature-page-header h1="Użyj języka Python do operacji znak wodny na obrazach" h2="Obrazy znak wodny za pośrednictwem własnych aplikacji Python przy użyciu biblioteki Aspose.Imaging" downloadText="Ściągnij" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty operacji obrazy znak wodny" %}}
+{{% blocks/products/pf/feature-page-section  h2="Zastosuj operację znak wodny do wszystkich dostępnych formatów obrazów" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Cyfrowy znak wodny to rodzaj oznaczenia, które jest subtelnie umieszczane w sygnale, który może tolerować szumy, takie jak dane audio, wideo lub obrazy. Jest często używany do ustalenia, kto jest właścicielem praw autorskich do określonego sygnału. Praktyka znakowania wodnego obejmuje kodowanie danych cyfrowych do sygnału nośnego; ukryte dane powinny, ale nie muszą, odnosić się do sygnału nośnego. Legalność lub integralność sygnału nośnika może zostać potwierdzona za pomocą cyfrowych znaków wodnych, a także może zostać ujawniona tożsamość ich właścicieli. Jest często używany do uwierzytelniania banknotów i śledzenia naruszeń praw autorskich. Za pomocą Aspose.Imaging możesz łatwo dodać swój znak wodny do wybranego obrazu bez potrzeby używania dużej ilości kodu.
+Cyfrowy znak wodny to unikalny rodzaj półprzezroczystego znaku, który jest nakładany na obraz i pozostaje widoczny nawet po modyfikacji obrazu. Technika znaku wodnego jest powszechnie stosowana do wskazania własności lub źródła konkretnego obrazu. Znaki wodne są często wykorzystywane do weryfikacji autentyczności produktów cyfrowych lub ochrony przed naruszeniem praw autorskich. Dzięki Aspose.Imaging możesz bez wysiłku dodać własny, niestandardowy znak wodny do dowolnego wybranego obrazu, bez konieczności stosowania skomplikowanego kodowania lub specjalistycznego oprogramowania.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Używając Aspose.Imaging możesz łatwo zastosować **znak wodny** dla różnych formatów obrazów programowo
+Korzystając z biblioteki Aspose.Imaging dla języka Python, możesz łatwo programowo wykonać operację <b>znak wodny</b> na obrazach i zdjęciach w różnych formatach.
 </p>
 <h3 style="margin-top:16px;">
-Pełna lista obsługiwanych operacji znak wodny według formatów obrazu:
+Wybierz format obrazu z listy dla operacji znak wodny:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

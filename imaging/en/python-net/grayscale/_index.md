@@ -1,26 +1,26 @@
 ﻿---
-title: Grayscale images Via python-net, all supported image formats 
+title: Grayscale images using Python 
 weight: 3920
 url: /python-net/grayscale/ 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Using Aspose.Imaging you can easily Grayscale images Via python-net
+description: Applying Aspose.Imaging library to Grayscale images and photos using your own Python applications and server APIs.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Image files Grayscale via python-net" h2="Grayscale images" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Use Python for Grayscale Operation on Images" h2="Grayscale Images via Your Own Python Applications Using the Aspose.Imaging Library" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="All supported image formats for Grayscale operation" %}}
+{{% blocks/products/pf/feature-page-section  h2="Apply the Grayscale operation to all available image formats" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-A grayscale image is one in which the value of each pixel is a single sample indicating only a quantity of light; that is, it conveys only intensity information. Grayscale images are used in digital photography, computer-generated imaging, and colorimetry. Shades of gray make up only grayscale images, a type of black-and-white or gray monochrome. Black has the lowest contrast whereas white has the most contrast. Grayscale images are distinct from one-bit bi-tonal black-and-white images, which are images with only two colors: black and white (also known as bilevel or binary images) in the context of computer imaging. There are numerous shades of gray in between in grayscale photos. Using Aspose.Imaging you can grayscale your images of different formats.
+An image represented in gradations of gray is an image where each pixel has a value indicating only the light intensity. Thus, it gives information only about brightness. Accordingly, black will have the lowest brightness, while white will have the highest. In shades of gray photos, you can observe the entire scale of gray shades from black to white, while the information about pixel color is absent. Converting images into a grayscale version is widely used in digital photography and computer graphics. With Aspose.Imaging, you can convert color images and photos into grayscale in various formats.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Using Aspose.Imaging you can easily apply <b>Grayscale</b> for different image formats programmatically
+Using the Aspose.Imaging library for Python, you can easily perform the <b>Grayscale</b> operation for images and photos of various formats programmatically.
 </p>
 <h3 style="margin-top:16px;">
-Full list of supported Grayscale operations by image formats:
+Select an image format from the list for the Grayscale operation:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

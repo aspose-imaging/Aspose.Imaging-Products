@@ -1,26 +1,26 @@
 ﻿---
-title: Karikaturisieren-Bilder Über python-net alle unterstützten Bildformate 
+title: Karikaturisieren-Bilder mit Python 
 weight: 3920
 url: /de/python-net/cartoonify/ 
 lang: de
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Mit Aspose.Imaging können Sie ganz einfach Karikaturisieren Bilder über python-net
+description: Anwenden der Aspose.Imaging-Bibliothek auf Karikaturisieren-Bilder und Fotos mithilfe Ihrer eigenen Python-Anwendungen und Server-APIs.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Bilddateien Karikaturisieren über python-net" h2="Karikaturisieren Bilder" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Verwenden Sie Python für den Vorgang Karikaturisieren für Bilder" h2="Karikaturisieren-Bilder über Ihre eigenen Python-Anwendungen mithilfe der Aspose.Imaging-Bibliothek" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bilder Formate für den Vorgang Karikaturisieren" %}}
+{{% blocks/products/pf/feature-page-section  h2="Wenden Sie den Vorgang Karikaturisieren auf alle verfügbaren Bildformate an" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Die Konvertierung von Fotos in Cartoons ist eine der häufigsten Operationen, die von vielen Künstlern durchgeführt werden. Es hilft, mit wenigen Klicks ein Cartoon-Foto zu erhalten, ohne Malarbeiten durchführen zu müssen. Möchten Sie ein Standardbild schnell in ein Cartoon-Bild umwandeln? In diesem Fall können Sie ausprobieren, wie es in der Aspose.Imaging-Bibliothek funktioniert.
+Der Prozess der Umwandlung von Fotos in Bilder im Cartoon-Stil, auch Cartoonify genannt, ist eine beliebte Technik, die von Designern verwendet wird, um Bilder mit einem Cartoon-ähnlichen Effekt zu erstellen. Mit dieser Methode können Sie mit nur wenigen Klicks den gewünschten Bildeffekt erzielen, ohne dass dafür Zeichenkenntnisse erforderlich sind. Wenn Sie ein normales Bild schnell in ein Bild im Cartoon-Stil umwandeln möchten, sollten Sie das von der Aspose.Imaging-Bibliothek bereitgestellte Tool ausprobieren.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Mit Aspose.Imaging können Sie ganz einfach **Karikaturisieren** für verschiedene Bildformate anwenden programmatisch
+Mit der Aspose.Imaging-Bibliothek für Python können Sie den Vorgang <b>Karikaturisieren</b> problemlos programmgesteuert für Bilder und Fotos verschiedener Formate ausführen.
 </p>
 <h3 style="margin-top:16px;">
-Vollständige Liste der unterstützten Karikaturisieren-Vorgänge nach Bildformaten:
+Wählen Sie ein Bildformat aus der Liste für den Vorgang Karikaturisieren aus:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

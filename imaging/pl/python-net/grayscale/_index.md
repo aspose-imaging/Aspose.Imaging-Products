@@ -1,26 +1,26 @@
 ﻿---
-title: Skala szarości obrazy Przez python-net, wszystkie obsługiwane formaty obrazów 
+title: Obrazy Skala szarości przy użyciu języka Python 
 weight: 3920
 url: /pl/python-net/grayscale/ 
 lang: pl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Używając Aspose.Imaging możesz łatwo Skala szarości obrazy Via python-net
+description: Stosowanie biblioteki Aspose.Imaging do obrazów i zdjęć Skala szarości przy użyciu własnych aplikacji Python i interfejsów API serwera.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Pliki obrazów Skala szarości przez python-net" h2="Obrazy Skala szarości" downloadText="Ściągnij" >}}
+{{< blocks/products/pf/feature-page-header h1="Użyj języka Python do operacji Skala szarości na obrazach" h2="Obrazy Skala szarości za pośrednictwem własnych aplikacji Python przy użyciu biblioteki Aspose.Imaging" downloadText="Ściągnij" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty operacji obrazy Skala szarości" %}}
+{{% blocks/products/pf/feature-page-section  h2="Zastosuj operację Skala szarości do wszystkich dostępnych formatów obrazów" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Obraz w skali szarości to taki, w którym wartość każdego piksela jest pojedynczą próbką wskazującą tylko ilość światła; to znaczy przekazuje tylko informacje o intensywności. Obrazy w skali szarości są używane w fotografii cyfrowej, obrazowaniu generowanym komputerowo i kolorymetrii. Odcienie szarości tworzą tylko obrazy w skali szarości, rodzaj czarno-białego lub szarego monochromatycznego. Czarny ma najniższy kontrast, podczas gdy biały ma największy kontrast. Obrazy w skali szarości różnią się od jednobitowych dwutonowych obrazów czarno-białych, które są obrazami zawierającymi tylko dwa kolory: czarno-biały (znany również jako obrazy dwupoziomowe lub binarne) w kontekście obrazowania komputerowego. Na zdjęciach w skali szarości występuje wiele odcieni szarości pomiędzy. Za pomocą Aspose.Imaging możesz skalować obrazy w różnych formatach w skali szarości.
+Obraz reprezentowany w gradacjach szarości to obraz, w którym każdy piksel ma wartość wskazującą jedynie intensywność światła. Daje zatem informację jedynie o jasności. W związku z tym czerń będzie miała najniższą jasność, podczas gdy biel będzie miała najwyższą. Na zdjęciach w odcieniach szarości można zaobserwować całą skalę odcieni szarości od czerni do bieli, brak jest natomiast informacji o kolorze piksela. Konwersja obrazów do wersji w skali szarości jest szeroko stosowana w fotografii cyfrowej i grafice komputerowej. Dzięki Aspose.Imaging możesz konwertować kolorowe obrazy i zdjęcia na skalę szarości w różnych formatach.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Używając Aspose.Imaging możesz łatwo zastosować **Skala szarości** dla różnych formatów obrazów programowo
+Korzystając z biblioteki Aspose.Imaging dla języka Python, możesz łatwo programowo wykonać operację <b>Skala szarości</b> na obrazach i zdjęciach w różnych formatach.
 </p>
 <h3 style="margin-top:16px;">
-Pełna lista obsługiwanych operacji Skala szarości według formatów obrazu:
+Wybierz format obrazu z listy dla operacji Skala szarości:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

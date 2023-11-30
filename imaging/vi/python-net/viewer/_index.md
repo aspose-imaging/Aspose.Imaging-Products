@@ -1,26 +1,26 @@
 ﻿---
-title: hình ảnh Xem hình ảnh Qua python-net, tất cả các định dạng hình ảnh được hỗ trợ 
+title: Hình ảnh Xem hình ảnh sử dụng Python 
 weight: 3920
 url: /vi/python-net/viewer/ 
 lang: vi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng Xem hình ảnh hình ảnh qua python-net
+description: Áp dụng thư viện Aspose.Imaging cho hình ảnh và ảnh Xem hình ảnh bằng ứng dụng Python và API máy chủ của riêng bạn.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Tệp hình ảnh Xem hình ảnh qua python-net" h2="Xem hình ảnh hình ảnh" downloadText="Tải xuống" >}}
+{{< blocks/products/pf/feature-page-header h1="Sử dụng Python cho thao tác Xem hình ảnh trên hình ảnh" h2="Hình ảnh Xem hình ảnh qua Ứng dụng Python của riêng bạn bằng Thư viện Aspose.Imaging" downloadText="Tải xuống" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tất cả các hình ảnh định dạng được hỗ trợ cho thao tác Xem hình ảnh" %}}
+{{% blocks/products/pf/feature-page-section  h2="Áp dụng thao tác Xem hình ảnh cho tất cả các định dạng hình ảnh có sẵn" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Khi bạn cần xem ảnh của mình hoặc ảnh không có định dạng phổ biến, bạn có thể dễ dàng xem trước nó được chuyển đổi sang định dạng phổ biến. Sử dụng Aspose.Imaging, bạn có thể xem các tệp hình ảnh khác nhau mà không cần cài đặt các chương trình đặc biệt dành riêng cho các định dạng hình ảnh khác nhau.
+Nếu bạn cần xem hình ảnh hoặc ảnh chụp ở một định dạng cụ thể, bạn có thể dễ dàng chuyển đổi nó sang định dạng được hệ điều hành của bạn hỗ trợ. Với Aspose.Imaging, bạn có thể xem nhiều loại hình ảnh và tệp ảnh mà không cần phải cài đặt các chương trình cụ thể cho từng định dạng hình ảnh.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Sử dụng Aspose.Imaging, bạn có thể dễ dàng áp dụng **Xem hình ảnh** cho các định dạng hình ảnh khác nhau lập trình
+Bằng cách sử dụng thư viện Aspose.Imaging cho Python, bạn có thể dễ dàng thực hiện thao tác <b>Xem hình ảnh</b> đối với hình ảnh và ảnh chụp ở nhiều định dạng khác nhau theo chương trình.
 </p>
 <h3 style="margin-top:16px;">
-Danh sách đầy đủ các thao tác Xem hình ảnh được hỗ trợ theo định dạng hình ảnh:
+Chọn định dạng hình ảnh từ danh sách cho thao tác Xem hình ảnh:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

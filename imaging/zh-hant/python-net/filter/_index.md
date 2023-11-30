@@ -1,26 +1,26 @@
 ﻿---
-title: 篩選 圖片通過 python-net，所有支持的圖片格式 
+title: 使用 Python 的 篩選 影像 
 weight: 3920
 url: /zh-hant/python-net/filter/ 
 lang: zh-hant
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: 使用 Aspose.Imaging 你可以輕鬆地通過 python-net 獲取 篩選 圖像
+description: 使用您自己的 Python 應用程式和伺服器 API 將 Aspose.Imaging 庫套用至 篩選 圖像和照片。
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="圖片文件 篩選 來自 python-net" h2="篩選 圖片" downloadText="下載" >}}
+{{< blocks/products/pf/feature-page-header h1="使用 Python 對影像進行 篩選 操作" h2="使用 Aspose.Imaging 庫透過您自己的 Python 應用程式產生 篩選 映像" downloadText="下載" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="篩選 操作的所有支持格式 圖片" %}}
+{{% blocks/products/pf/feature-page-section  h2="將 篩選 操作套用至所有可用的圖片格式" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-在攝影和電影攝影中，濾鏡是一種相機配件，由可插入光路的光學濾鏡組成。濾鏡可以是方形或長方形，並安裝在支架附件中，或者更常見的是，金屬或塑料環形框架中的玻璃或塑料圓盤，可以擰入相機鏡頭的前部或夾在相機鏡頭上。過濾器會改變記錄的圖像。它們有時被用來對照片進行很小的改動，而有時它們對於創建圖像是完全必要的。在單色攝影中，彩色濾鏡改變各種顏色的相對亮度；根據使用的過濾器，紅色唇膏可能看起來介於近乎白色和近乎黑色之間。其他人調整圖像的色彩平衡，使在白熾燈照明下拍攝的照片顯示出人們所感知的顏色，而不是偏紅的色調。有些濾鏡會故意扭曲圖像，為原本清晰的圖像添加星空效果等。使用線性和圓偏振濾鏡可以減少非金屬表面的傾斜反射。 Aspose.Imaging 支持 Gaussian Blur、Sharpen、Median Filter、Motion Weiner 等濾鏡。
+在攝影和影片製作中，濾鏡是一種附加的相機配件，其中包括可以插入光路的光學濾鏡。它可以是正方形或長方形的半透明玻璃，貼在相機鏡頭的前面。濾鏡會改變捕捉的影像。在單色攝影中，彩色濾光片會改變不同顏色的亮度；根據所使用的濾鏡，青蘋果可以呈現幾乎白色或幾乎黑色。其他濾鏡調整影像的色彩平衡，以準確地呈現日光燈照明下感知的顏色，而不是冷色調。還有一些濾鏡會故意扭曲影像，讓清晰的影像看起來模糊。線性和圓偏振濾光片可減少反射表面的眩光。 Aspose.Imaging 支援各種濾波器，例如高斯-維納濾波器、雙邊平滑、中值濾波器、Motion Weiner、模糊、銳化等。
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-使用 Aspose.Imaging 您可以輕鬆地將 **篩選** 應用於不同的圖像格式 以編程方式
+使用 Python 的 Aspose.Imaging 庫，您可以透過程式設計輕鬆地對各種格式的圖像和照片執行 <b>篩選</b> 操作。
 </p>
 <h3 style="margin-top:16px;">
-按圖像格式支持的 篩選 操作的完整列表：
+從清單中為 篩選 操作選擇影像格式：
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

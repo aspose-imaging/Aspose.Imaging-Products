@@ -1,26 +1,26 @@
 ﻿---
-title: 透かし 画像 python-net 経由、サポートされているすべての画像形式 
+title: Python を使用した 透かし イメージ 
 weight: 3920
 url: /ja/python-net/watermark/ 
 lang: ja
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging を使用すると、python-net 経由で簡単に 透かし イメージを作成できます
+description: 独自の Python アプリケーションとサーバー API を使用して、Aspose.Imaging ライブラリを 透かし の画像と写真に適用します。
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="python-net経由の画像ファイル透かし" h2="{操作名} 画像" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1="画像に対する 透かし オペレーションには Python を使用します" h2="Aspose.Imaging ライブラリを使用した独自の Python アプリケーションによる 透かし イメージ" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="透かし 操作でサポートされているすべての形式 画像" %}}
+{{% blocks/products/pf/feature-page-section  h2="透かし オペレーションを使用可能なすべての画像形式に適用します" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-電子透かしは、オーディオ、ビデオ、画像データなどのノイズを許容できる信号に微妙に組み込まれる一種のマーキングです。特定の信号の著作権を誰が所有しているかを確認するためによく使用されます。 「透かし」の実践には、デジタル データを搬送波信号にエンコードすることが含まれます。隠蔽データはキャリア信号に関連している必要がありますが、、その必要はありません。キャリア信号の正当性または完全性は、電子透かしを使用して確認される可能性があり、また、その所有者の身元が明らかにされる場合もあります。紙幣の認証や著作権違反の追跡によく使用されます。 Aspose.Imaging を使用すると、多くのコードを必要とせずに、選択した画像に透かしを簡単に追加できます。
+電子透かしは、画像に適用される独特のタイプの半透明のマーキングで、画像が変更されても表示されたままになります。透かし技術は、特定の画像の所有権または出所を示すために一般的に使用されます。ウォーターマークは、デジタル製品の信頼性の検証や著作権侵害からの保護のためによく使用されます。 Aspose.Imaging を使用すると、複雑なコーディングや特殊なソフトウェアを必要とせずに、選択した画像に独自のカスタム ウォーターマークを簡単に追加できます。
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Aspose.Imaging を使用すると、さまざまな画像フォーマットに **透かし** を簡単に適用できます プログラム的に
+Python の Aspose.Imaging ライブラリを使用すると、さまざまな形式の画像や写真に対する <b>透かし</b> 操作をプログラムで簡単に実行できます。
 </p>
 <h3 style="margin-top:16px;">
-画像形式ごとにサポートされている 透かし 操作の完全なリスト:
+透かし オペレーションのリストから画像形式を選択します。
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,26 +1,26 @@
 ﻿---
-title: 画像を見る 画像 python-net 経由、サポートされているすべての画像形式 
+title: Python を使用した 画像を見る イメージ 
 weight: 3920
 url: /ja/python-net/viewer/ 
 lang: ja
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging を使用すると、python-net 経由で簡単に 画像を見る イメージを作成できます
+description: 独自の Python アプリケーションとサーバー API を使用して、Aspose.Imaging ライブラリを 画像を見る の画像と写真に適用します。
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="python-net経由の画像ファイル画像を見る" h2="{操作名} 画像" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1="画像に対する 画像を見る オペレーションには Python を使用します" h2="Aspose.Imaging ライブラリを使用した独自の Python アプリケーションによる 画像を見る イメージ" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="画像を見る 操作でサポートされているすべての形式 画像" %}}
+{{% blocks/products/pf/feature-page-section  h2="画像を見る オペレーションを使用可能なすべての画像形式に適用します" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-あまり普及していない形式の画像や写真を表示する必要がある場合は、一般的な形式に変換して簡単にプレビューできます。 Aspose.Imaging を使用すると、さまざまな画像形式に固有の特別なプログラムをインストールしなくても、さまざまな画像ファイルを表示できます。
+特定の形式で画像や写真を表示する必要がある場合は、オペレーティング システムがサポートする形式に簡単に変換できます。 Aspose.Imaging を使用すると、画像形式ごとに特定のプログラムをインストールしなくても、幅広い画像ファイルや写真ファイルを表示できます。
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Aspose.Imaging を使用すると、さまざまな画像フォーマットに **画像を見る** を簡単に適用できます プログラム的に
+Python の Aspose.Imaging ライブラリを使用すると、さまざまな形式の画像や写真に対する <b>画像を見る</b> 操作をプログラムで簡単に実行できます。
 </p>
 <h3 style="margin-top:16px;">
-画像形式ごとにサポートされている 画像を見る 操作の完全なリスト:
+画像を見る オペレーションのリストから画像形式を選択します。
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,26 +1,26 @@
 ﻿---
-title: Vandens ženklas vaizdai Per python-net, visi palaikomi vaizdo formatai 
+title: Vandens ženklas vaizdai naudojant Python 
 weight: 3920
 url: /lt/python-net/watermark/ 
 lang: lt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Naudodami Aspose.Imaging galite lengvai sukurti Vandens ženklas vaizdus per python-net
+description: Aspose.Imaging bibliotekos taikymas Vandens ženklas vaizdams ir nuotraukoms naudojant savo Python programas ir serverio API.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Vaizdo failai Vandens ženklas per python-net" h2="Vandens ženklas vaizdai" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Naudokite Python Vandens ženklas operacijai su vaizdais" h2="Vandens ženklas vaizdai per savo Python programas naudojant Aspose.Imaging biblioteką" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Vandens ženklas attēlus formatai" %}}
+{{% blocks/products/pf/feature-page-section  h2="Taikykite operaciją Vandens ženklas visiems galimiems vaizdo formatams" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Skaitmeninis vandens ženklas yra žymėjimo tipas, kuris yra subtiliai įtrauktas į signalą, kuris gali toleruoti triukšmą, pvz., garso, vaizdo ar vaizdo duomenis. Jis dažnai naudojamas norint nustatyti, kam priklauso autorių teisės į tam tikrą signalą. Vandenženklio praktika apima skaitmeninių duomenų kodavimą į nešiklio signalą; paslėpti duomenys turėtų, bet nebūtinai, būti susiję su nešlio signalu. Nešančiojo signalo teisėtumas arba vientisumas gali būti patvirtintas naudojant skaitmeninius vandens ženklus, taip pat gali būti atskleista jų savininkų tapatybė. Jis dažnai naudojamas banknotų autentifikavimui ir autorių teisių pažeidimams sekti. Naudodami Aspose.Imaging galite lengvai pridėti vandenženklį prie pasirinkto vaizdo, nenaudodami daug kodo.
+Skaitmeninis vandens ženklas yra unikalus pusiau permatomo žymėjimo tipas, taikomas vaizdui ir išlieka matomas net pakeitus vaizdą. Vandenženklio technika dažniausiai naudojama norint nurodyti konkretaus vaizdo nuosavybės teisę arba šaltinį. Vandenženkliai dažnai naudojami skaitmeninių produktų autentiškumui patikrinti arba apsaugoti nuo autorių teisių pažeidimo. Naudodami Aspose.Imaging galite be vargo pridėti savo pasirinktinį vandenženklį prie bet kurio pasirinkto vaizdo, nereikalaujant sudėtingo kodavimo ar specializuotos programinės įrangos.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Naudodami Aspose.Imaging galite lengvai pritaikyti **Vandens ženklas** skirtingiems vaizdo formatams programmatiski
+Naudodami Aspose.Imaging biblioteką, skirtą Python, galite lengvai atlikti <b>Vandens ženklas</b> operaciją įvairių formatų vaizdams ir nuotraukoms programiškai.
 </p>
 <h3 style="margin-top:16px;">
-Visas palaikomų operacijų Vandens ženklas sąrašas pagal vaizdo formatus:
+Iš sąrašo pasirinkite vaizdo formatą operacijai Vandens ženklas:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

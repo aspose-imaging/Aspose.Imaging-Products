@@ -1,27 +1,26 @@
 ﻿---
-title: 壓縮 圖片通過 python-net，所有支持的圖片格式 
+title: 使用 Python 的 壓縮 影像 
 weight: 3920
 url: /zh-hant/python-net/compress/ 
 lang: zh-hant
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: 使用 Aspose.Imaging 你可以輕鬆地通過 python-net 獲取 壓縮 圖像
+description: 使用您自己的 Python 應用程式和伺服器 API 將 Aspose.Imaging 庫套用至 壓縮 圖像和照片。
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="圖片文件 壓縮 來自 python-net" h2="壓縮 圖片" downloadText="下載" >}}
+{{< blocks/products/pf/feature-page-header h1="使用 Python 對影像進行 壓縮 操作" h2="使用 Aspose.Imaging 庫透過您自己的 Python 應用程式產生 壓縮 映像" downloadText="下載" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="壓縮 操作的所有支持格式 圖片" %}}
+{{% blocks/products/pf/feature-page-section  h2="將 壓縮 操作套用至所有可用的圖片格式" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-圖像壓縮是一種數據壓縮，用於降低存儲或傳輸數碼照片的成本。與用於其他數字數據的一般數據壓縮技術相比，算法可能受益於視覺感知和圖片數據的統計特性。
-使用 Aspose.Imaging，您可以壓縮幾乎可以滿足您所有需求的不同圖像類型。
+使用影像壓縮來減少用於儲存或發送數位影像的資料大小。與用於其他形式的數位資訊的通用資料壓縮技術不同，影像壓縮演算法考慮影像的統計特性並與資訊的視覺感知相關。透過Aspose.Imaging庫，您可以根據您的特定需求實現不同等級的映像壓縮。
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-使用 Aspose.Imaging 您可以輕鬆地將 **壓縮** 應用於不同的圖像格式 以編程方式
+使用 Python 的 Aspose.Imaging 庫，您可以透過程式設計輕鬆地對各種格式的圖像和照片執行 <b>壓縮</b> 操作。
 </p>
 <h3 style="margin-top:16px;">
-按圖像格式支持的 壓縮 操作的完整列表：
+從清單中為 壓縮 操作選擇影像格式：
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

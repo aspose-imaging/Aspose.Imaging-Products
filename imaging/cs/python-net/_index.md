@@ -9,7 +9,7 @@ description: Python Knihovna pro zpracování a manipulaci s obrázky. Aspose.Im
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1="Aspose.Imaging pro Python prostřednictvím knihovny .NET a API pro zpracování obrázků" h2="Vytvářejte, načtěte, upravujte nebo převádějte obrázky bez nutnosti jakéhokoli editoru obrázků." downloadFreeTrialText="Stáhněte si zkušební verzi zdarma" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-python-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/imaging/python-net/" >}}
+{{< blocks/products/pf/upper-banner h1="Aspose.Imaging pro Python prostřednictvím knihovny .NET a API pro zpracování obrázků" h2="Vytvořte si vlastní Python aplikace pro manipulaci s obrázky bez nutnosti jakéhokoli editoru obrázků" downloadFreeTrialText="Stáhněte si zkušební verzi zdarma" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-python-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/imaging/python-net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Python" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-python-net.svg" 
@@ -19,42 +19,42 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
 
    <div class="col-lg-12">
     <h2 class="h2title">
-     Odemkněte plný potenciál zpracování obrazu pomocí Aspose.Imaging pro Python
+     Aplikujte všechny možnosti zpracování obrazu s Aspose.Imaging pro Python
     </h2>
     <p align="justify">
-     Aspose.Imaging pro Python je uživatelsky přívětivá knihovna, která vám poskytuje pokročilé možnosti zpracování obrazu. S tímto všestranným API můžete bez námahy vytvářet, načítat, manipulovat, převádět a komprimovat obrázky nebo fotografie, což umožňuje širokou škálu funkcí pro zpracování obrázků, aniž byste potřebovali speciální editor obrázků.
+     Aspose.Imaging pro Python je knihovna, která nabízí pokročilé funkce pro zpracování obrázků a fotografií. Pomocí tohoto všestranného rozhraní API můžete automaticky načítat, převádět, vytvářet a manipulovat s obrázky nebo fotografiemi, aniž byste potřebovali specializované editory obrázků.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Objevte klíčové vlastnosti:
+     Použijte klíčové vlastnosti:
     </h2>
     <p>
      <ul>
        <li>
-       Transformace obrazu: Změňte velikost, ořízněte, překlopte, otočit, binarizovat, stupně šedi, vyrovnat a upravit obrázky s lehkostí.
+       Transformace obrazu: měřítko, změna velikosti, oříznutí, otočení, převod na černobílé nebo stupně šedi, úprava jasu, kontrastu a gama obrázků nebo fotografií.
        </li>
        <li>
-       Pokročilá manipulace: Aplikujte filtry, alfa-prolnutí, nástroj kouzelná hůlka, odstraňte vodoznak, odstraňte pozadí, dithering a maskování, abyste převzali kontrolu nad svými úkoly zpracování obrazu.
+       Pokročilé manipulace: použití filtrů, alfa prolnutí, přidání nebo odstranění vodoznaků, změna pozadí, vyhlazení obrázků, použití masek a automatizace úloh zpracování obrázků.
        </li>
        <li>
-       Efektivní optimalizace paměti: Užijte si strategie optimalizace paměti, které zajišťují plynulé a efektivní zpracování obrazu.
+       Optimalizace paměti: používejte strategie optimalizace paměti, které zajišťují rychlé a efektivní zpracování obrazu.
        </li>
        <li>
-       Kreslicí a grafická primitiva: Využijte sílu kreslicích nástrojů a pracujte s grafickými primitivy pro vylepšení svých projektů.
+       Kreslení a grafická primitiva: používejte kreslicí funkce pro grafická primitiva a aplikujte text s různými styly písem.
        </li>
        <li>
-       Export a konverze: Bezproblémově exportujte a převádějte obrázky, včetně jednotného vícestránkového zpracování obrázků.
+       Konverze obrázků: export obrázků s převodem do jiných formátů včetně jednotného zpracování vícestránkových obrázků.
        </li>
      </ul>
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Kompatibilita formátů
+     Podpora různých formátů
     </h2>
     <p align="justify">
-     Aspose.Imaging pro Python je nejen flexibilní a stabilní, ale také všestranný. Podporuje nejběžněji používané obrazové formáty a jde ještě o krok dále tím, že poskytuje podporu pro speciální formáty jako DjVu, DICOM, WebP, EPS a DNG. Tato rozsáhlá podpora formátů z něj činí ideální řešení pro širokou škálu úloh zpracování obrazu.
+     Podpora různých formátů Aspose.Imaging pro Python se vyznačuje stabilitou, všestranností a funkčností. Podporuje širokou škálu formátů, včetně speciálních formátů, jako jsou APNG, WebP, EPS, PDF a DICOM. Díky široké podpoře formátů je ideálním řešením pro širokou škálu úloh zpracování obrazu.
     </p>
    </div>
    <div class="col-lg-12">
@@ -62,10 +62,10 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
      Kompatibilita napříč platformami
     </h2>
     <p align="justify">
-     Aspose.Imaging je multiplatformní knihovna, která zajišťuje kompatibilitu s prostředím Windows i Linux. Ať už pracujete na systému Windows nebo Linux, můžete se spolehnout na Aspose.Imaging, který vám poskytne konzistentní a vysoce kvalitní možnosti zpracování obrazu.
+     Aspose.Imaging je univerzální knihovna, kterou lze díky kompatibilitě napříč platformami používat na operačních systémech Windows i Linux. Na Aspose.Imaging se můžete spolehnout, že vám poskytne stabilní a vysoce kvalitní možnosti zpracování obrazu.
     </p>
     <p align="justify">
-     Pozvedněte své projekty zpracování obrazu do nových výšin s Aspose.Imaging pro Python. Vyzkoušejte flexibilitu, stabilitu a sílu našeho API ještě dnes.
+     Dosáhněte nové úrovně kvality ve zpracování obrazu pomocí Aspose.Imaging pro Python. Využijte naše API ještě dnes a vyzkoušejte jeho flexibilitu, stabilitu a výkon.
     </p>
    </div>
 
@@ -184,7 +184,19 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
-   
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    .NET Framework
+   </header>
+   <ul>
+    <li>
+     Aplikace pro Windows
+    </li>
+    <li>
+     Webová aplikace ASP.NET
+    </li>
+   </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">

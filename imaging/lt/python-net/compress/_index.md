@@ -1,27 +1,26 @@
 ﻿---
-title: Suspausti vaizdai Per python-net, visi palaikomi vaizdo formatai 
+title: Suspausti vaizdai naudojant Python 
 weight: 3920
 url: /lt/python-net/compress/ 
 lang: lt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Naudodami Aspose.Imaging galite lengvai sukurti Suspausti vaizdus per python-net
+description: Aspose.Imaging bibliotekos taikymas Suspausti vaizdams ir nuotraukoms naudojant savo Python programas ir serverio API.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Vaizdo failai Suspausti per python-net" h2="Suspausti vaizdai" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Naudokite Python Suspausti operacijai su vaizdais" h2="Suspausti vaizdai per savo Python programas naudojant Aspose.Imaging biblioteką" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Suspausti attēlus formatai" %}}
+{{% blocks/products/pf/feature-page-section  h2="Taikykite operaciją Suspausti visiems galimiems vaizdo formatams" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Vaizdo glaudinimas yra tam tikras duomenų glaudinimas, naudojamas siekiant sumažinti skaitmeninių nuotraukų saugojimo ar perdavimo išlaidas. Lyginant su bendrais duomenų glaudinimo metodais, naudojamais kitiems skaitmeniniams duomenims, algoritmams gali būti naudingas vizualinis suvokimas ir statistinės vaizdo duomenų charakteristikos.
-Naudodami Aspose.Imaging galite suspausti įvairių tipų vaizdus, ​​kurie gali atitikti beveik visus jūsų poreikius.
+Naudokite vaizdo glaudinimą, kad sumažintumėte duomenų, naudojamų skaitmeniniams vaizdams saugoti arba siųsti, dydį. Skirtingai nuo bendrųjų duomenų glaudinimo metodų, naudojamų kitoms skaitmeninės informacijos formoms, vaizdo glaudinimo algoritmai atsižvelgia į statistines vaizdo savybes ir yra susiję su vizualiniu informacijos suvokimu. Naudodami Aspose.Imaging biblioteką, galite įdiegti skirtingus vaizdo glaudinimo lygius, atsižvelgdami į konkrečius poreikius.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Naudodami Aspose.Imaging galite lengvai pritaikyti **Suspausti** skirtingiems vaizdo formatams programmatiski
+Naudodami Aspose.Imaging biblioteką, skirtą Python, galite lengvai atlikti <b>Suspausti</b> operaciją įvairių formatų vaizdams ir nuotraukoms programiškai.
 </p>
 <h3 style="margin-top:16px;">
-Visas palaikomų operacijų Suspausti sąrašas pagal vaizdo formatus:
+Iš sąrašo pasirinkite vaizdo formatą operacijai Suspausti:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

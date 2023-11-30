@@ -1,26 +1,26 @@
 ﻿---
-title: Pilkos spalvos vaizdai Per python-net, visi palaikomi vaizdo formatai 
+title: Pilkos spalvos vaizdai naudojant Python 
 weight: 3920
 url: /lt/python-net/grayscale/ 
 lang: lt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Naudodami Aspose.Imaging galite lengvai sukurti Pilkos spalvos vaizdus per python-net
+description: Aspose.Imaging bibliotekos taikymas Pilkos spalvos vaizdams ir nuotraukoms naudojant savo Python programas ir serverio API.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Vaizdo failai Pilkos spalvos per python-net" h2="Pilkos spalvos vaizdai" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Naudokite Python Pilkos spalvos operacijai su vaizdais" h2="Pilkos spalvos vaizdai per savo Python programas naudojant Aspose.Imaging biblioteką" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Pilkos spalvos attēlus formatai" %}}
+{{% blocks/products/pf/feature-page-section  h2="Taikykite operaciją Pilkos spalvos visiems galimiems vaizdo formatams" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Pilkos spalvos vaizdas yra vaizdas, kuriame kiekvieno pikselio reikšmė yra vienas pavyzdys, nurodantis tik šviesos kiekį; tai yra, ji perteikia tik intensyvumo informaciją. Pilkų atspalvių vaizdai naudojami skaitmeninėje fotografijoje, kompiuteriu sukurtame vaizdavime ir kolorimetrijoje. Pilkos spalvos atspalviai sudaro tik pilkų atspalvių vaizdus, ​​tai yra juodos ir baltos arba pilkos monochrominės spalvos. Juodos spalvos kontrastas yra mažiausias, o baltos spalvos kontrastas yra didžiausias. Pilkų atspalvių vaizdai skiriasi nuo vieno bito dvitonių nespalvotų vaizdų, kurie yra tik dviejų spalvų vaizdai: juoda ir balta (taip pat žinomi kaip dvipakopiai arba dvejetainiai vaizdai) kompiuterinio vaizdavimo kontekste. Pilkos spalvos nuotraukose yra daug pilkų atspalvių. Naudodami Aspose.Imaging galite pakeisti įvairių formatų vaizdus pilkais atspalviais.
+Pilkos spalvos gradacijomis pavaizduotas vaizdas yra vaizdas, kuriame kiekvienas pikselis turi reikšmę, rodančią tik šviesos intensyvumą. Taigi ji suteikia informaciją tik apie ryškumą. Atitinkamai juodos spalvos ryškumas bus mažiausias, o baltos – didžiausias. Pilkų atspalvių nuotraukose galite stebėti visą pilkų atspalvių skalę nuo juodos iki baltos, o informacijos apie pikselių spalvą nėra. Vaizdų konvertavimas į pilkų tonų versiją plačiai naudojamas skaitmeninėje fotografijoje ir kompiuterinėje grafikoje. Naudodami Aspose.Imaging galite konvertuoti spalvotus vaizdus ir nuotraukas į pilkos spalvos tonus įvairiais formatais.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Naudodami Aspose.Imaging galite lengvai pritaikyti **Pilkos spalvos** skirtingiems vaizdo formatams programmatiski
+Naudodami Aspose.Imaging biblioteką, skirtą Python, galite lengvai atlikti <b>Pilkos spalvos</b> operaciją įvairių formatų vaizdams ir nuotraukoms programiškai.
 </p>
 <h3 style="margin-top:16px;">
-Visas palaikomų operacijų Pilkos spalvos sąrašas pagal vaizdo formatus:
+Iš sąrašo pasirinkite vaizdo formatą operacijai Pilkos spalvos:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

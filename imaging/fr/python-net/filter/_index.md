@@ -1,26 +1,26 @@
 ﻿---
-title: Images Filtre Via python-net, tous les formats d'image pris en charge 
+title: Images Filtre utilisant Python 
 weight: 3920
 url: /fr/python-net/filter/ 
 lang: fr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: En utilisant Aspose.Imaging, vous pouvez facilement Filtre images Via python-net
+description: Application de la bibliothèque Aspose.Imaging aux images et photos Filtre à l'aide de vos propres applications Python et API de serveur.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Fichiers image Filtre via python-net" h2="images de Filtre" downloadText="Télécharger" >}}
+{{< blocks/products/pf/feature-page-header h1="Utilisez Python pour l'opération Filtre sur les images" h2="Images Filtre via vos propres applications Python à l'aide de la bibliothèque Aspose.Imaging" downloadText="Télécharger" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tous les images formats pris en charge pour l'opération Filtre" %}}
+{{% blocks/products/pf/feature-page-section  h2="Appliquer l'opération Filtre à tous les formats d'image disponibles" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-En photographie et en cinématographie, un filtre est un accessoire d'appareil photo constitué d'un filtre optique pouvant être inséré dans le chemin optique. Le filtre peut être de forme carrée ou oblongue et monté dans un accessoire de support, ou, plus communément, un disque en verre ou en plastique dans un cadre annulaire en métal ou en plastique, qui peut être vissé à l'avant ou clipsé sur l'objectif de la caméra. Les filtres modifient les images enregistrées. Ils sont utilisés pour modifier les photographies parfois très peu, et d'autres fois ils sont tout à fait nécessaires à la création de l'image. En photographie monochrome, les filtres colorés modifient la luminosité relative des différentes couleurs ; le rouge à lèvres rouge peut sembler n'importe où entre presque blanc et presque noir selon le filtre utilisé. D'autres ajustent la balance des couleurs de l'image afin que les photos prises avec un éclairage incandescent affichent les couleurs telles qu'elles sont perçues plutôt qu'avec une teinte rougeâtre. Il existe des filtres qui déforment délibérément l'image, ajoutant un aspect étoilé à une image autrement nette, etc. Les réflexions obliques des surfaces non métalliques sont réduites à l'aide de filtres polarisants linéaires et circulaires. Aspose.Imaging prend en charge des filtres tels que Gaussian Blur, Sharpen, Median Filter, Motion Weiner et bien d'autres.
+En photographie et en production vidéo, un filtre est un accessoire d'appareil photo supplémentaire qui comprend un filtre optique qui peut être inséré dans le chemin optique. Il peut s'agir d'un verre semi-transparent carré ou rectangulaire et est fixé à l'avant de l'objectif de la caméra. Les filtres modifient l'image capturée. En photographie monochrome, les filtres de couleur modifient la luminosité des différentes couleurs ; selon le filtre utilisé, une pomme verte peut apparaître presque blanche ou presque noire. D'autres filtres ajustent la balance des couleurs de l'image pour représenter avec précision les couleurs perçues sous l'éclairage d'une lampe à la lumière du jour, plutôt qu'avec un ton froid. Il existe également des filtres qui déforment intentionnellement l'image, donnant un aspect flou à une image nette. Les filtres polarisants linéaires et circulaires réduisent l'éblouissement des surfaces réfléchissantes. Aspose.Imaging prend en charge divers filtres tels que le filtre Gauss-Wiener, le lissage bilatéral, le filtre médian, Motion Weiner, Blur, Sharpen et autres.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-En utilisant Aspose.Imaging, vous pouvez facilement appliquer **Filtre** pour différents formats d'image par programmation
+À l’aide de la bibliothèque Aspose.Imaging pour Python, vous pouvez facilement effectuer l’opération <b>Filtre</b> pour des images et des photos de différents formats par programme.
 </p>
 <h3 style="margin-top:16px;">
-Liste complète des opérations Filtre prises en charge par formats d'image :
+Sélectionnez un format d'image dans la liste pour l'opération Filtre:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

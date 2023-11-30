@@ -9,7 +9,7 @@ description: مكتبة معالجة ومعالجة الصور بيثون. Aspos
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1="Aspose.Imaging for Python عبر مكتبة .NET و API لمعالجة الصور" h2="إنشاء الصور أو تحميلها أو معالجتها أو تحويلها دون الحاجة إلى أي محرر صور." downloadFreeTrialText="تحميل النسخة التجريبية المجانية" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-python-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/imaging/python-net/" >}}
+{{< blocks/products/pf/upper-banner h1="Aspose.Imaging for Python عبر مكتبة .NET و API لمعالجة الصور" h2="قم بإنشاء تطبيقات Python الخاصة بك لمعالجة الصور دون الحاجة إلى أي محرر صور" downloadFreeTrialText="تحميل النسخة التجريبية المجانية" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-python-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/imaging/python-net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Python" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-python-net.svg" 
@@ -19,42 +19,42 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
 
    <div class="col-lg-12">
     <h2 class="h2title">
-     أطلق العنان للإمكانات الكاملة لمعالجة الصور باستخدام Aspose.Imaging لـ Python
+     قم بتطبيق كافة إمكانيات معالجة الصور باستخدام Aspose.Imaging for Python
     </h2>
     <p align="justify">
-     Aspose.Imaging for Python هي مكتبة سهلة الاستخدام توفر لك إمكانيات معالجة الصور المتقدمة. باستخدام واجهة برمجة التطبيقات متعددة الاستخدامات هذه، يمكنك إنشاء الصور أو الصور وتحميلها ومعالجتها وتحويلها وضغطها بسهولة، مما يتيح نطاقًا واسعًا من ميزات معالجة الصور، كل ذلك دون الحاجة إلى محرر صور مخصص.
+     Aspose.Imaging for Python هي مكتبة تقدم ميزات متقدمة لمعالجة الصور والصور. باستخدام واجهة برمجة التطبيقات متعددة الاستخدامات هذه، يمكنك تحميل الصور أو الصور وتحويلها وإنشائها ومعالجتها تلقائيًا دون الحاجة إلى برامج تحرير صور متخصصة.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     اكتشف الميزات الرئيسية:
+     استخدم الميزات الرئيسية:
     </h2>
     <p>
      <ul>
        <li>
-       تحويل الصورة: تغيير الحجم، والاقتصاص، والقلب، والتدوير، والتحويل الثنائي، والتدرج الرمادي، والتعديل وضبط الصور بسهولة.
+       تحويل الصورة: تغيير الحجم، وتغيير الحجم، والاقتصاص، والتدوير، والتحويل إلى أبيض وأسود أو تدرج رمادي، وضبط السطوع والتباين وغاما الصور أو الصور.
        </li>
        <li>
-       المعالجة المتقدمة: قم بتطبيق المرشحات ومزج ألفا وأداة العصا السحرية وإزالة العلامة المائية وإزالة الخلفية والتردد والإخفاء للتحكم في مهام معالجة الصور الخاصة بك.
+       عمليات المعالجة المتقدمة: تطبيق المرشحات، ومزج ألفا، وإضافة العلامات المائية أو إزالتها، وتغيير الخلفيات، وتنعيم الصور، وتطبيق الأقنعة، وأتمتة مهام معالجة الصور.
        </li>
        <li>
-       تحسين كفاءة الذاكرة: استمتع باستراتيجيات تحسين الذاكرة التي تضمن معالجة سلسة وفعالة للصور.
+       تحسين الذاكرة: استخدم إستراتيجيات تحسين الذاكرة التي تضمن معالجة سريعة وفعالة للصور.
        </li>
        <li>
-       الرسم والأوليات الرسومية: استغل قوة أدوات الرسم واعمل مع الأوليات الرسومية لتحسين مشاريعك.
+       أساسيات الرسم والرسومات: استخدم وظائف الرسم للأوليات الرسومية وقم بتطبيق النص بأنماط خطوط مختلفة.
        </li>
        <li>
-       التصدير والتحويل: تصدير الصور وتحويلها بسلاسة، بما في ذلك معالجة الصور الموحدة متعددة الصفحات.
+       تحويل الصور: تصدير الصور مع التحويل إلى تنسيقات أخرى، بما في ذلك المعالجة الموحدة للصور متعددة الصفحات.
        </li>
      </ul>
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     توافق التنسيق
+     دعم صيغ مختلفة
     </h2>
     <p align="justify">
-     Aspose.Imaging لـ Python ليس مرنًا ومستقرًا فحسب، بل متعدد الاستخدامات أيضًا. وهو يدعم تنسيقات الصور الأكثر استخدامًا، ويذهب إلى أبعد من ذلك من خلال توفير الدعم للتنسيقات الخاصة مثل DjVu، وDICOM، وWebP، وEPS، وDNG. هذا الدعم الشامل للتنسيق يجعله الحل الأمثل لمجموعة واسعة من مهام معالجة الصور.
+     دعم التنسيقات المختلفة يتميز Aspose.Imaging for Python باستقراره وتعدد استخداماته ووظائفه. وهو يدعم مجموعة واسعة من التنسيقات، بما في ذلك التنسيقات الخاصة مثل APNG، وWebP، وEPS، وPDF، وDICOM. إن دعم التنسيق الواسع يجعله حلاً مثاليًا لمجموعة واسعة من مهام معالجة الصور.
     </p>
    </div>
    <div class="col-lg-12">
@@ -62,10 +62,10 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
      التوافق عبر الأنظمة الأساسية
     </h2>
     <p align="justify">
-     Aspose.Imaging هي مكتبة مشتركة بين الأنظمة الأساسية، مما يضمن التوافق مع بيئات Windows وLinux. سواء كنت تعمل على نظام Windows أو Linux، يمكنك الاعتماد على Aspose.Imaging لتوفير إمكانات معالجة صور متسقة وعالية الجودة.
+     Aspose.Imaging هي مكتبة عالمية يمكن استخدامها على أنظمة التشغيل Windows وLinux بفضل توافقها مع الأنظمة الأساسية. يمكنك الاعتماد على Aspose.Imaging لتوفير إمكانات معالجة صور مستقرة وعالية الجودة.
     </p>
     <p align="justify">
-     ارفع مشروعات معالجة الصور الخاصة بك إلى آفاق جديدة باستخدام Aspose.Imaging for Python. استمتع بالمرونة والاستقرار والقوة التي تتمتع بها واجهة برمجة التطبيقات (API) الخاصة بنا اليوم.
+     حقق مستوى جديدًا من الجودة في معالجة الصور باستخدام Aspose.Imaging for Python. استخدم واجهة برمجة التطبيقات (API) الخاصة بنا اليوم واختبر مرونتها واستقرارها وأدائها.
     </p>
    </div>
 
@@ -184,7 +184,19 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
-   
+   <header>
+    <i class = "fa fa-cubes">
+    </i>
+  .NET Framework
+   </header>
+   <ul>
+    <li>
+     تطبيق Windows
+    </li>
+    <li>
+     تطبيق ويب ASP.NET
+    </li>
+   </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">

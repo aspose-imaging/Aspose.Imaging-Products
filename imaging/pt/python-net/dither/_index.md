@@ -1,26 +1,26 @@
 ﻿---
-title: Imagens Dither Via python-net, todos os formatos de imagem suportados 
+title: Imagens de Dither usando Python 
 weight: 3920
 url: /pt/python-net/dither/ 
 lang: pt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging, você pode facilmente imagens Dither Via python-net
+description: Aplicando a biblioteca Aspose.Imaging a imagens e fotos de Dither usando seus próprios aplicativos Python e APIs de servidor.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Arquivos de imagem Dither via python-net" h2="Dither imagens" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Use Python para operação Dither em imagens" h2="Imagens de Dither por meio de seus próprios aplicativos Python usando a biblioteca Aspose.Imaging" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos os formatos suportados para a operação imagens Dither" %}}
+{{% blocks/products/pf/feature-page-section  h2="Aplique a operação Dither a todos os formatos de imagem disponíveis" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Em computação gráfica, o pontilhamento é usado para dar a aparência de profundidade de cor em imagens em sistemas com uma paleta de cores restrita. Uma difusão de pixels coloridos da paleta disponível é usada em uma imagem pontilhada para aproximar as cores que não estão presentes na paleta. A difusão aparece ao olho humano como uma mistura das cores contidas nela. As fotografias pontilhadas são frequentemente identificáveis ​​por uma granulação distinta ou aparência salpicada, especialmente ao utilizar paletas com poucas cores. O pontilhamento adiciona ruído ou um padrão a uma imagem, e o padrão costuma ser óbvio. Foi demonstrado que, nessas condições, o dither produzido pelo ruído azul é o menos irritante e pouco atraente. Aspose.Imaging permite pontilhar suas imagens com alguns algoritmos que você pode selecionar necessários para sua necessidade.
+O dithering no campo da computação gráfica é usado por designers para obter um efeito de cor mais pronunciado em sistemas com uma paleta de cores limitada. Em uma imagem suavizada, os pixels coloridos da paleta disponível são usados ​​para aproximar as cores ausentes, criando a impressão de mistura de cores. Freqüentemente, você pode notar uma granulação distinta ou um padrão de pontos nessas fotos, especialmente ao usar paletas com um número limitado de cores. A operação de pontilhamento é aplicada para adicionar ruído ou padrões à imagem e, muitas vezes, esse padrão é facilmente visível. Foi demonstrado que, nesses casos, o uso de ruído azul para pontilhamento é o mais ideal. Aspose.Imaging permite suavização de imagem usando vários algoritmos que podem ser selecionados com base em suas preferências.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Usando o Aspose.Imaging, você pode facilmente aplicar **Dither** para diferentes formatos de imagem programaticamente
+Usando a biblioteca Aspose.Imaging para Python, você pode executar facilmente a operação <b>Dither</b> para imagens e fotos de vários formatos de forma programática.
 </p>
 <h3 style="margin-top:16px;">
-Lista completa de operações Dither suportadas por formatos de imagem:
+Selecione um formato de imagem na lista para a operação Dither:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,26 +1,26 @@
 ﻿---
-title: 换背景 图片通过 python-net，所有支持的图片格式 
+title: 使用 Python 的 换背景 图像 
 weight: 3920
 url: /zh-hans/python-net/change-background/ 
 lang: zh-hans
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: 使用 Aspose.Imaging 你可以轻松地通过 python-net 获取 换背景 图像
+description: 使用您自己的 Python 应用程序和服务器 API 将 Aspose.Imaging 库应用于 换背景 图像和照片。
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="图片文件 换背景 来自 python-net" h2="换背景 图片" downloadText="下载" >}}
+{{< blocks/products/pf/feature-page-header h1="使用 Python 对图像进行 换背景 操作" h2="使用 Aspose.Imaging 库通过您自己的 Python 应用程序生成 换背景 图像" downloadText="下载" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="换背景 操作的所有支持格式图片" %}}
+{{% blocks/products/pf/feature-page-section  h2="将 换背景 操作应用于所有可用的图像格式" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-更改背景是处理照片或图像所需的最常见操作之一。您可以使用 Aspose.Imaging 轻松地从一张照片中删除背景并将前景对象放到另一张照片上。您还可以识别前景对象并在需要时进行检测。因此，您可以根据需要获得透明的背景和流程。
+更改背景是图像和照片编辑中经常执行的任务。通过使用 Aspose.Imaging，您可以自动或手动轻松地将照片中的前景对象与背景分离，然后将其放置到另一张图像上。此外，Cloud API 允许您识别前景对象并根据需要删除背景。这使您能够获得具有透明背景的对象并用不同的背景替换原始背景。
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-使用 Aspose.Imaging 您可以轻松地将 **换背景** 应用于不同的图像格式 以编程方式
+使用 Python 的 Aspose.Imaging 库，您可以通过编程轻松地对各种格式的图像和照片执行 <b>换背景</b> 操作。
 </p>
 <h3 style="margin-top:16px;">
-按图像格式支持的 换背景 操作的完整列表：
+从列表中为 换背景 操作选择图像格式：
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,26 +1,26 @@
 ﻿---
-title: Filtr obrazy Przez python-net, wszystkie obsługiwane formaty obrazów 
+title: Obrazy Filtr przy użyciu języka Python 
 weight: 3920
 url: /pl/python-net/filter/ 
 lang: pl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Używając Aspose.Imaging możesz łatwo Filtr obrazy Via python-net
+description: Stosowanie biblioteki Aspose.Imaging do obrazów i zdjęć Filtr przy użyciu własnych aplikacji Python i interfejsów API serwera.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Pliki obrazów Filtr przez python-net" h2="Obrazy Filtr" downloadText="Ściągnij" >}}
+{{< blocks/products/pf/feature-page-header h1="Użyj języka Python do operacji Filtr na obrazach" h2="Obrazy Filtr za pośrednictwem własnych aplikacji Python przy użyciu biblioteki Aspose.Imaging" downloadText="Ściągnij" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty operacji obrazy Filtr" %}}
+{{% blocks/products/pf/feature-page-section  h2="Zastosuj operację Filtr do wszystkich dostępnych formatów obrazów" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-W fotografii i kinematografii filtr jest akcesorium aparatu składającym się z filtra optycznego, który można włożyć do ścieżki optycznej. Filtr może mieć kwadratowy lub podłużny kształt i być montowany w akcesorium do uchwytu lub, częściej, w szklanym lub plastikowym dysku w metalowej lub plastikowej ramce pierścieniowej, który można wkręcić z przodu lub przypiąć do obiektywu aparatu. Filtry modyfikują zarejestrowane obrazy. Służą do zmiany zdjęć, czasami bardzo niewiele, a innym razem są całkowicie niezbędne do stworzenia obrazu. W fotografii monochromatycznej kolorowe filtry zmieniają względną jasność różnych kolorów; czerwona szminka może wydawać się gdzieś pomiędzy prawie białą a prawie czarną, w zależności od zastosowanego filtra. Inni dostosowują balans kolorów obrazu tak, aby zdjęcia zrobione przy oświetleniu żarowym wyświetlały kolory tak, jak są postrzegane, a nie z czerwonawym odcieniem. Istnieją filtry, które celowo zniekształcają obraz, dodając rozgwieżdżony wygląd do skądinąd ostrego obrazu itp. Ukośne odbicia od powierzchni niemetalicznych są redukowane za pomocą liniowych i kołowych filtrów polaryzacyjnych. Aspose.Imaging obsługuje takie filtry jak Gaussian Blur, Sharpen, Median Filter, Motion Weiner i wiele innych.
+W fotografii i produkcji wideo filtr to dodatkowe akcesorium do aparatu, które zawiera filtr optyczny, który można włożyć w ścieżkę optyczną. Może to być kwadratowe lub prostokątne półprzezroczyste szkło i jest mocowane z przodu obiektywu aparatu. Filtry zmieniają przechwycony obraz. W fotografii monochromatycznej filtry kolorowe zmieniają jasność różnych kolorów; w zależności od użytego filtra zielone jabłko może wydawać się prawie białe lub prawie czarne. Inne filtry dostosowują balans kolorów obrazu, aby dokładnie odzwierciedlać kolory postrzegane w świetle dziennym, a nie w zimnych tonach. Istnieją również filtry, które celowo zniekształcają obraz, nadając ostremu obrazowi rozmyty wygląd. Liniowe i kołowe filtry polaryzacyjne redukują odblaski od powierzchni odbijających światło. Aspose.Imaging obsługuje różne filtry, takie jak filtr Gaussa-Wienera, wygładzanie dwustronne, filtr medianowy, ruch Weinera, rozmycie, wyostrzanie i inne.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Używając Aspose.Imaging możesz łatwo zastosować **Filtr** dla różnych formatów obrazów programowo
+Korzystając z biblioteki Aspose.Imaging dla języka Python, możesz łatwo programowo wykonać operację <b>Filtr</b> na obrazach i zdjęciach w różnych formatach.
 </p>
 <h3 style="margin-top:16px;">
-Pełna lista obsługiwanych operacji Filtr według formatów obrazu:
+Wybierz format obrazu z listy dla operacji Filtr:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,26 +1,26 @@
 ﻿---
-title: 背景を削除 画像 python-net 経由、サポートされているすべての画像形式 
+title: Python を使用した 背景を削除 イメージ 
 weight: 3920
 url: /ja/python-net/remove-background/ 
 lang: ja
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging を使用すると、python-net 経由で簡単に 背景を削除 イメージを作成できます
+description: 独自の Python アプリケーションとサーバー API を使用して、Aspose.Imaging ライブラリを 背景を削除 の画像と写真に適用します。
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="python-net経由の画像ファイル背景を削除" h2="{操作名} 画像" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1="画像に対する 背景を削除 オペレーションには Python を使用します" h2="Aspose.Imaging ライブラリを使用した独自の Python アプリケーションによる 背景を削除 イメージ" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="背景を削除 操作でサポートされているすべての形式 画像" %}}
+{{% blocks/products/pf/feature-page-section  h2="背景を削除 オペレーションを使用可能なすべての画像形式に適用します" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-背景の削除は、写真や画像から背景を簡単に削除できる操作です。背景を削除した結果、透明な背景を取得し、前景を別の背景に配置することができます。 Aspose.Imaging を使用すると、さまざまな画像のニーズに合うさまざまな背景削除アルゴリズムを試すことができます。
+背景の削除操作を使用すると、写真や画像から背景を簡単に削除できます。このプロセスにより、背景が透明な人物などのオブジェクトが作成されます。その後、これらのオブジェクトを背景が異なる別の画像に簡単に転送できます。 Aspose.Imaging を利用すると、タスクの複雑さに応じて、さまざまな種類の画像に適したさまざまな背景除去アルゴリズムを試すことができます。
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Aspose.Imaging を使用すると、さまざまな画像フォーマットに **背景を削除** を簡単に適用できます プログラム的に
+Python の Aspose.Imaging ライブラリを使用すると、さまざまな形式の画像や写真に対する <b>背景を削除</b> 操作をプログラムで簡単に実行できます。
 </p>
 <h3 style="margin-top:16px;">
-画像形式ごとにサポートされている 背景を削除 操作の完全なリスト:
+背景を削除 オペレーションのリストから画像形式を選択します。
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

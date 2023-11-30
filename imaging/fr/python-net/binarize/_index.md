@@ -1,26 +1,26 @@
 ﻿---
-title: Images Binariser Via python-net, tous les formats d'image pris en charge 
+title: Images Binariser utilisant Python 
 weight: 3920
 url: /fr/python-net/binarize/ 
 lang: fr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: En utilisant Aspose.Imaging, vous pouvez facilement Binariser images Via python-net
+description: Application de la bibliothèque Aspose.Imaging aux images et photos Binariser à l'aide de vos propres applications Python et API de serveur.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Fichiers image Binariser via python-net" h2="images de Binariser" downloadText="Télécharger" >}}
+{{< blocks/products/pf/feature-page-header h1="Utilisez Python pour l'opération Binariser sur les images" h2="Images Binariser via vos propres applications Python à l'aide de la bibliothèque Aspose.Imaging" downloadText="Télécharger" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tous les images formats pris en charge pour l'opération Binariser" %}}
+{{% blocks/products/pf/feature-page-section  h2="Appliquer l'opération Binariser à tous les formats d'image disponibles" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Le premier plan et l'arrière-plan d'une image sont séparés à l'aide d'une technique appelée seuillage d'image. Ce procédé attribue les valeurs de pixel conformément aux valeurs de seuil données. Les images en niveaux de gris sont seuillées en vision par ordinateur. L'une des méthodes les plus connues est la binarisation par <b>Otsu</b> et par <b>Bradley</b>. Aspose.Imaging prend en charge les deux algorithmes. En utilisant ces algorithmes, vos images peuvent être converties en noir et blanc avec seuil.
+Lors du traitement des images, une méthode appelée binarisation est appliquée pour convertir l'image au format noir et blanc en utilisant une valeur seuil spécifiée. Cette méthode consiste à attribuer des valeurs de pixels en fonction de la valeur seuil donnée. Lorsque vous travaillez avec des images en niveaux de gris, il est important de spécifier une valeur seuil pour séparer les objets à l'aide de la technologie de vision par ordinateur. Il existe différentes méthodes de conversion disponibles, telles que la binarisation utilisant les méthodes <b>Otsu</b> et <b>Bradley</b>, toutes deux prises en charge par Aspose.Imaging. En utilisant ces algorithmes, vous pouvez convertir vos images en noir et blanc avec une valeur seuil spécifiée.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-En utilisant Aspose.Imaging, vous pouvez facilement appliquer **Binariser** pour différents formats d'image par programmation
+À l’aide de la bibliothèque Aspose.Imaging pour Python, vous pouvez facilement effectuer l’opération <b>Binariser</b> pour des images et des photos de différents formats par programme.
 </p>
 <h3 style="margin-top:16px;">
-Liste complète des opérations Binariser prises en charge par formats d'image :
+Sélectionnez un format d'image dans la liste pour l'opération Binariser:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

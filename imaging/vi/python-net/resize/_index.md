@@ -1,26 +1,26 @@
 ﻿---
-title: hình ảnh Thay đổi kích thước Qua python-net, tất cả các định dạng hình ảnh được hỗ trợ 
+title: Hình ảnh Thay đổi kích thước sử dụng Python 
 weight: 3920
 url: /vi/python-net/resize/ 
 lang: vi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng Thay đổi kích thước hình ảnh qua python-net
+description: Áp dụng thư viện Aspose.Imaging cho hình ảnh và ảnh Thay đổi kích thước bằng ứng dụng Python và API máy chủ của riêng bạn.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Tệp hình ảnh Thay đổi kích thước qua python-net" h2="Thay đổi kích thước hình ảnh" downloadText="Tải xuống" >}}
+{{< blocks/products/pf/feature-page-header h1="Sử dụng Python cho thao tác Thay đổi kích thước trên hình ảnh" h2="Hình ảnh Thay đổi kích thước qua Ứng dụng Python của riêng bạn bằng Thư viện Aspose.Imaging" downloadText="Tải xuống" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tất cả các hình ảnh định dạng được hỗ trợ cho thao tác Thay đổi kích thước" %}}
+{{% blocks/products/pf/feature-page-section  h2="Áp dụng thao tác Thay đổi kích thước cho tất cả các định dạng hình ảnh có sẵn" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Bạn có thể thay đổi kích thước hình ảnh để làm cho nó lớn hơn hoặc nhỏ hơn mà không phải xóa bất kỳ nội dung nào. Kích thước của hình ảnh bị thay đổi khi được thay đổi kích thước, điều này thường ảnh hưởng đến kích thước tệp và chất lượng hình ảnh. Giảm kích thước của những bức ảnh lớn để dễ dàng gửi email hoặc chia sẻ trực tuyến hơn là lý do phổ biến nhất cho việc thu nhỏ ảnh. Hình ảnh đồ họa raster phải được thu nhỏ bằng cách tạo một hình ảnh mới có nhiều hoặc ít pixel hơn. Aspose.Imaging cho phép người dùng thay đổi kích thước thuật toán khác nhau cho phép lựa chọn cần thiết.
+Với Aspose.Imaging, bạn có thể thay đổi kích thước hình ảnh hoặc ảnh mà không làm mất thông tin hình ảnh. Khi điều chỉnh kích thước hình ảnh, trọng lượng tệp của nó sẽ thay đổi, điều này có thể dẫn đến giảm chất lượng. Giảm kích thước hình ảnh là cách chính để gửi nhanh qua email hoặc tải xuống nhanh từ một trang Internet. Khi thay đổi kích thước hình ảnh raster, một hình ảnh mới sẽ được tạo với ít hoặc nhiều pixel hơn, tức là hình ảnh được chia tỷ lệ. Aspose.Imaging cung cấp nhiều thuật toán thay đổi kích thước khác nhau, cho phép bạn chọn thuật toán phù hợp nhất cho một tác vụ cụ thể.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Sử dụng Aspose.Imaging, bạn có thể dễ dàng áp dụng **Thay đổi kích thước** cho các định dạng hình ảnh khác nhau lập trình
+Bằng cách sử dụng thư viện Aspose.Imaging cho Python, bạn có thể dễ dàng thực hiện thao tác <b>Thay đổi kích thước</b> đối với hình ảnh và ảnh chụp ở nhiều định dạng khác nhau theo chương trình.
 </p>
 <h3 style="margin-top:16px;">
-Danh sách đầy đủ các thao tác Thay đổi kích thước được hỗ trợ theo định dạng hình ảnh:
+Chọn định dạng hình ảnh từ danh sách cho thao tác Thay đổi kích thước:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

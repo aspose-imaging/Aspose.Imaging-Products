@@ -1,26 +1,26 @@
 ﻿---
-title: Dither vaizdai Per python-net, visi palaikomi vaizdo formatai 
+title: Dither vaizdai naudojant Python 
 weight: 3920
 url: /lt/python-net/dither/ 
 lang: lt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Naudodami Aspose.Imaging galite lengvai sukurti Dither vaizdus per python-net
+description: Aspose.Imaging bibliotekos taikymas Dither vaizdams ir nuotraukoms naudojant savo Python programas ir serverio API.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Vaizdo failai Dither per python-net" h2="Dither vaizdai" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Naudokite Python Dither operacijai su vaizdais" h2="Dither vaizdai per savo Python programas naudojant Aspose.Imaging biblioteką" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Dither attēlus formatai" %}}
+{{% blocks/products/pf/feature-page-section  h2="Taikykite operaciją Dither visiems galimiems vaizdo formatams" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Kompiuterinėje grafikoje suvaržymas naudojamas siekiant suteikti spalvų gylio vaizdą sistemose su ribota spalvų palete. Spalvotų pikselių iš turimos paletės sklaida naudojama suskaidytame vaizde, kad būtų apytikslės spalvos, kurių nėra paletėje. Sklaida žmogaus akiai atrodo kaip joje esančių spalvų susimaišymas. Dingusios nuotraukos dažnai atpažįstamos pagal išskirtinį grūdėtumą arba dėmėtą išvaizdą, ypač kai naudojamos nedaug spalvų paletės. Dygiavimas suteikia vaizdui triukšmo arba rašto, o modelis dažnai būna akivaizdus. Įrodyta, kad tokiomis sąlygomis mėlynojo triukšmo sukeliamas triukšmas yra mažiausiai erzinantis ir nepatrauklus. „Aspose.Imaging“ leidžia suskaidyti vaizdus naudojant kelis algoritmus, kuriuos galite pasirinkti reikalingus jūsų nereikalingam.
+Dithering kompiuterinės grafikos srityje dizaineriai naudojasi ryškesniam spalvų efektui pasiekti sistemose su ribota spalvų palete. Išlygintame vaizde turimos paletės spalvų pikseliai naudojami apytiksliai trūkstamoms spalvoms nustatyti, sukuriant spalvų maišymo įspūdį. Dažnai tokiose nuotraukose galite pastebėti ryškų grūdėtumą ar taškinį raštą, ypač kai naudojamos riboto spalvų paletės. Triukšmo operacija taikoma norint pridėti triukšmo ar raštų į vaizdą, ir dažnai šis raštas yra lengvai matomas. Įrodyta, kad tokiais atvejais mėlynojo triukšmo naudojimas diteravimui yra optimaliausias. Aspose.Imaging leidžia išlyginti vaizdą naudojant įvairius algoritmus, kuriuos galima pasirinkti pagal jūsų pageidavimus.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Naudodami Aspose.Imaging galite lengvai pritaikyti **Dither** skirtingiems vaizdo formatams programmatiski
+Naudodami Aspose.Imaging biblioteką, skirtą Python, galite lengvai atlikti <b>Dither</b> operaciją įvairių formatų vaizdams ir nuotraukoms programiškai.
 </p>
 <h3 style="margin-top:16px;">
-Visas palaikomų operacijų Dither sąrašas pagal vaizdo formatus:
+Iš sąrašo pasirinkite vaizdo formatą operacijai Dither:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

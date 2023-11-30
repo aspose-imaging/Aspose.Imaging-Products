@@ -1,26 +1,26 @@
 ﻿---
-title: Binarizzare immagini Tramite python-net, tutti i formati immagine supportati 
+title: Immagini Binarizzare utilizzando Python 
 weight: 3920
 url: /it/python-net/binarize/ 
 lang: it
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging puoi facilmente Binarizzare immagini tramite python-net
+description: Applicazione della libreria Aspose.Imaging alle immagini e alle foto di Binarizzare utilizzando le tue applicazioni Python e le API del server.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="File immagine Binarizzare tramite python-net" h2="Binarizzare immagini" downloadText="Scarica" >}}
+{{< blocks/products/pf/feature-page-header h1="Utilizza Python per l'operazione Binarizzare sulle immagini" h2="Immagini Binarizzare tramite le tue applicazioni Python utilizzando la libreria Aspose.Imaging" downloadText="Scarica" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tutti i immagini formati supportati per l'operazione Binarizzare" %}}
+{{% blocks/products/pf/feature-page-section  h2="Applica l'operazione Binarizzare a tutti i formati di immagine disponibili" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Il primo piano e lo sfondo di un'immagine vengono separati utilizzando una tecnica chiamata soglia dell'immagine. Questo metodo assegna i valori dei pixel in base ai valori di soglia indicati. Le immagini in scala di grigi sono soggette a soglia nella visione artificiale. Uno dei metodi più conosciuti è la binarizzazione di <b>Otsu</b> e di <b>Bradley</b>. Aspose.Imaging supporta entrambi gli algoritmi. Usando questi algoritmi le tue immagini possono essere convertite in bianco e nero con soglia.
+Durante l'elaborazione delle immagini, viene applicato un metodo chiamato binarizzazione per convertire l'immagine in un formato in bianco e nero utilizzando un valore di soglia specificato. Questo metodo prevede l'assegnazione di valori di pixel in base al valore di soglia specificato. Quando si lavora con immagini in scala di grigi, è importante specificare un valore di soglia per separare gli oggetti utilizzando la tecnologia di visione artificiale. Sono disponibili vari metodi di conversione, come la binarizzazione utilizzando il metodo <b>Otsu</b> e <b>Bradley</b>, entrambi supportati da Aspose.Imaging. Utilizzando questi algoritmi, puoi convertire le tue immagini in bianco e nero con un valore di soglia specificato.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Usando Aspose.Imaging puoi facilmente applicare **Binarizzare** per diversi formati di immagine programmaticamente
+Utilizzando la libreria Aspose.Imaging per Python, puoi facilmente eseguire l'operazione <b>Binarizzare</b> per immagini e foto di vari formati a livello di codice.
 </p>
 <h3 style="margin-top:16px;">
-Elenco completo delle operazioni Binarizzare supportate per formati immagine:
+Seleziona un formato immagine dall'elenco per l'operazione Binarizzare:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,26 +1,26 @@
 ﻿---
-title: Hintergrund ändern-Bilder Über python-net alle unterstützten Bildformate 
+title: Hintergrund ändern-Bilder mit Python 
 weight: 3920
 url: /de/python-net/change-background/ 
 lang: de
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Mit Aspose.Imaging können Sie ganz einfach Hintergrund ändern Bilder über python-net
+description: Anwenden der Aspose.Imaging-Bibliothek auf Hintergrund ändern-Bilder und Fotos mithilfe Ihrer eigenen Python-Anwendungen und Server-APIs.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Bilddateien Hintergrund ändern über python-net" h2="Hintergrund ändern Bilder" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Verwenden Sie Python für den Vorgang Hintergrund ändern für Bilder" h2="Hintergrund ändern-Bilder über Ihre eigenen Python-Anwendungen mithilfe der Aspose.Imaging-Bibliothek" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bilder Formate für den Vorgang Hintergrund ändern" %}}
+{{% blocks/products/pf/feature-page-section  h2="Wenden Sie den Vorgang Hintergrund ändern auf alle verfügbaren Bildformate an" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Das Ändern des Hintergrunds ist einer der häufigsten Vorgänge, die zum Bearbeiten Ihrer Fotos oder Bilder erforderlich sind. Mit Aspose.Imaging können Sie ganz einfach den Hintergrund von einem Ihrer Fotos entfernen und ein Vordergrundobjekt auf ein anderes setzen. Außerdem können Sie Vordergrundobjekte erkennen und bei Bedarf erkennen. Dadurch erhalten Sie einen transparenten Hintergrund und können ihn nach Bedarf verarbeiten.
+Das Ändern des Hintergrunds ist eine häufig durchgeführte Aufgabe in der Bild- und Fotobearbeitung. Mit Aspose.Imaging können Sie das Vordergrundobjekt in einem Foto ganz einfach automatisch oder manuell vom Hintergrund trennen und es dann auf einem anderen Bild platzieren. Darüber hinaus können Sie mit der Cloud-API das Vordergrundobjekt identifizieren und bei Bedarf den Hintergrund entfernen. Dadurch können Sie ein Objekt mit transparentem Hintergrund erhalten und den ursprünglichen Hintergrund durch einen anderen ersetzen.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Mit Aspose.Imaging können Sie ganz einfach **Hintergrund ändern** für verschiedene Bildformate anwenden programmatisch
+Mit der Aspose.Imaging-Bibliothek für Python können Sie den Vorgang <b>Hintergrund ändern</b> problemlos programmgesteuert für Bilder und Fotos verschiedener Formate ausführen.
 </p>
 <h3 style="margin-top:16px;">
-Vollständige Liste der unterstützten Hintergrund ändern-Vorgänge nach Bildformaten:
+Wählen Sie ein Bildformat aus der Liste für den Vorgang Hintergrund ändern aus:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

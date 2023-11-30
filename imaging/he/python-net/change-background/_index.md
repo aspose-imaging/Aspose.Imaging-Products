@@ -1,26 +1,26 @@
 ﻿---
-title: תמונות שנה רקע דרך python-net, כל פורמטי התמונה הנתמכים 
+title: תמונות שנה רקע באמצעות Python 
 weight: 3920
 url: /he/python-net/change-background/ 
 lang: he
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: באמצעות Aspose.Imaging תוכל בקלות שנה רקע תמונות באמצעות python-net
+description: החלת ספריית Aspose.Imaging על תמונות ותמונות של שנה רקע באמצעות יישומי Python וממשקי API משלך של שרת.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="קבצי תמונה שנה רקע באמצעות python-net" h2="תמונות שנה רקע" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="השתמש ב-Python עבור פעולת שנה רקע בתמונות" h2="תמונות שנה רקע באמצעות יישומי Python משלך באמצעות ספריית Aspose.Imaging" downloadText="הורד" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="כל הפורמטים  תמונות הנתמכים עבור פעולת שנה רקע" %}}
+{{% blocks/products/pf/feature-page-section  h2="החל את פעולת שנה רקע על כל פורמטי התמונה הזמינים" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-שינוי רקע היא אחת הפעולות הנפוצות ביותר הדרושות לעיבוד התמונות או התמונות שלך. אתה יכול בקלות להסיר רקע מתמונה אחת שלך ולשים אובייקט קדמי על אחר באמצעות Aspose.Imaging. כמו כן, אתה יכול לזהות אובייקט בחזית ולזהות אותו במידת הצורך. כתוצאה מכך אתה עשוי לקבל רקע שקוף ותהליך לפי הצורך.
+שינוי הרקע הוא משימה המבוצעת לעתים קרובות בעריכת תמונות ותמונות. באמצעות Aspose.Imaging, אתה יכול בקלות להפריד את אובייקט החזית מהרקע בתמונה, באופן אוטומטי או ידני, ולאחר מכן למקם אותו על תמונה אחרת. בנוסף, ממשק API של הענן מאפשר לך לזהות את אובייקט החזית ולהסיר את הרקע במידת הצורך. זה מאפשר לך להשיג אובייקט עם רקע שקוף ולהחליף את הרקע המקורי ברקע אחר.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-באמצעות Aspose.Imaging אתה יכול בקלות להחיל את **שנה רקע** עבור פורמטים שונים של תמונה באופן תוכניתי
+באמצעות ספריית Aspose.Imaging עבור Python, אתה יכול לבצע בקלות את פעולת <b>שנה רקע</b> עבור תמונות ותמונות בפורמטים שונים באופן פרוגרמטי.
 </p>
 <h3 style="margin-top:16px;">
-רשימה מלאה של פעולות שנה רקע נתמכות לפי פורמטים של תמונה:
+בחר פורמט תמונה מהרשימה עבור הפעולה שנה רקע:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

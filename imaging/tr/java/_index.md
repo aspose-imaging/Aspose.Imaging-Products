@@ -9,7 +9,7 @@ description: Java Görüntü işleme ve işleme kitaplığı. Yük görünümü 
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1="Görüntü İşleme için Java kitaplığı ve API" h2="Herhangi bir görüntü düzenleyiciye ihtiyaç duymadan görüntüleri oluşturun, yükleyin, değiştirin veya dönüştürün." downloadFreeTrialText="Ücretsiz deneme sürümünü indirin" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-java.svg"  pfName="Aspose.Imaging" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/imaging/java/" >}}
+{{< blocks/products/pf/upper-banner h1="Görüntü İşleme için Java kitaplığı ve API" h2="Herhangi bir resim düzenleyiciye ihtiyaç duymadan kendi Java uygulamanızı kullanarak resimler oluşturun, yükleyin ve değiştirin" downloadFreeTrialText="Ücretsiz deneme sürümünü indirin" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-java.svg"  pfName="Aspose.Imaging" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/imaging/java/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Java" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-java.svg" 
@@ -19,53 +19,53 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
 
    <div class="col-lg-12">
     <h2 class="h2title">
-     Java için Aspose.Imaging ile Görüntü İşlemenin Tüm Potansiyelini Ortaya Çıkarın
+     Aspose.Imaging for Java'nın tüm görüntü işleme yeteneklerini kullanın
     </h2>
     <p align="justify">
-     Aspose.Imaging for Java, gelişmiş görüntü işleme yetenekleriyle sizi güçlendiren, kullanıcı dostu bir kitaplıktır. Bu çok yönlü API ile, özel bir görüntü düzenleyiciye ihtiyaç duymadan çok çeşitli görüntü işleme özelliklerini etkinleştirerek görüntüleri veya fotoğrafları zahmetsizce oluşturabilir, yükleyebilir, değiştirebilir, dönüştürebilir ve sıkıştırabilirsiniz.
+     Aspose.Imaging for Java, görüntü ve fotoğraf işlemeye yönelik gelişmiş araçlarla sizi güçlendiren bir kütüphanedir. Bu esnek API ile, özel görüntü düzenleyicilere ihtiyaç duymadan görüntüleri zahmetsizce oluşturabilir, yükleyebilir, dönüştürebilir ve değiştirebilirsiniz.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Temel Özellikleri Keşfedin:
+     Aşağıdaki temel özellikleri keşfedin:
     </h2>
     <p>
      <ul>
        <li>
-       Görüntü Dönüşümü: Görüntüleri kolaylıkla yeniden boyutlandırın, kırpın, çevirin, döndürün, ikilileştirin, gri tonlamalı, eğriliklerini düzeltin ve ayarlayın.
+       Görüntü dönüştürme: Sıkıştırma, birleştirme, yeniden boyutlandırma, kırpma, döndürme ve siyah beyaz veya gri tonlamaya dönüştürme işlemlerini kolayca uygulayın. En iyi sonuçları elde etmek için parlaklık, kontrast ve gama seviyelerini ayarlayın.
        </li>
        <li>
-       Gelişmiş Manipülasyon: Görüntü işleme görevlerinizi kontrol altına almak için filtreler, alfa harmanlama, sihirli değnek aracı uygulayın, filigranı kaldırın, arka planı kaldırın, renk taklidi ve maskeleme uygulayın.
+       Gelişmiş manipülasyonlar: Görüntü işleme görevlerinizi otomatikleştirmek için bulanıklaştırma filtreleri, yumuşatma, keskinleştirme, görüntü efektini karikatürize etme, alfa harmanlama, filigranlar, arka plan değişiklikleri ve maskelerden yararlanın.
        </li>
        <li>
-       Verimli Bellek Optimizasyonu: Sorunsuz ve verimli görüntü işleme sağlayan bellek optimizasyon stratejilerinin keyfini çıkarın.
+       Bellek optimizasyonu: Hızlı ve etkili görüntü işlemeyi sağlamak için etkili bellek optimizasyon stratejileri kullanın.
        </li>
        <li>
-       Çizim ve Grafik Temel Öğeleri: Çizim araçlarının gücünden yararlanın ve projelerinizi geliştirmek için grafik temel öğeleriyle çalışın.
+       Çizim ve grafik temel öğeleri: Resimlerinizi geliştirmek için şekiller oluşturun, grafik temel öğeleri çizin ve farklı yazı tipi stilleriyle metin ekleyin.
        </li>
        <li>
-       Dışa Aktarma ve Dönüştürme: Tek tip çok sayfalı görüntü işleme de dahil olmak üzere görüntüleri sorunsuz bir şekilde dışa aktarın ve dönüştürün.
+       Görüntü dönüştürme: Birleşik çok sayfalı görüntü işleme desteğiyle görüntüleri çeşitli formatlara aktarın.
        </li>
      </ul>
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Biçim Uyumluluğu
+     Çeşitli Format Uyumluluğu
     </h2>
     <p align="justify">
-     Aspose.Imaging for Java yalnızca esnek ve istikrarlı değil aynı zamanda çok yönlüdür. En sık kullanılan görüntü formatlarını destekler ve DjVu, DICOM, WebP, EPS ve DNG gibi özel formatlara destek sağlayarak bir adım daha ileri gider. Bu kapsamlı format desteği, onu çok çeşitli görüntü işleme görevleri için başvuracağınız çözüm haline getirir.
+     Aspose.Imaging for Java, EPS, DjVu, DNG, WebP, DICOM ve SVG dahil çok çeşitli formatları destekleyen güvenilir ve çok yönlü bir kitaplıktır. Çeşitli görüntü işleme görevleriniz için ideal bir çözümdür.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Platformlar Arası Uyumluluk
+     Platformlar Arası Destek
     </h2>
     <p align="justify">
-     Aspose.Imaging, hem Windows hem de Linux ortamlarıyla uyumluluk sağlayan, platformlar arası bir kütüphanedir. İster Windows ister Linux sisteminde çalışıyor olun, Aspose.Imaging'in tutarlı, yüksek kaliteli görüntü işleme yetenekleri sunacağına güvenebilirsiniz.
+     Hem Windows hem de Linux işletim sistemlerinde sorunsuz çalışan Aspose.Imaging for Java ile platformlar arası uyumluluğun keyfini çıkarın. Platformunuz ne olursa olsun istikrarlı ve yüksek kaliteli görüntü işleme yeteneklerini deneyimleyin.
     </p>
     <p align="justify">
-     Aspose.Imaging for Java ile görüntü işleme projelerinizi yeni boyutlara yükseltin. API'mizin esnekliğini, kararlılığını ve gücünü bugün deneyimleyin.
+     Aspose.Imaging for Java ile görüntü işleme kalitesinde yeni bir düzeyin kilidini açın. API'mızı bugün kullanmaya başlayın ve esnekliğini, kararlılığını ve performansını keşfedin.
     </p>
    </div>
 

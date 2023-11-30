@@ -1,26 +1,26 @@
 ﻿---
-title: gambar Ubah ukuran Melalui python-net, semua format gambar yang didukung 
+title: gambar Ubah ukuran menggunakan Python 
 weight: 3920
 url: /id/python-net/resize/ 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Menggunakan Aspose.Imaging Anda dapat dengan mudah Ubah ukuran gambar Via python-net
+description: Menerapkan pustaka Aspose.Imaging ke gambar dan foto Ubah ukuran menggunakan aplikasi Python dan API server Anda sendiri.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="File gambar Ubah ukuran melalui python-net" h2="gambar Ubah ukuran" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Gunakan Python untuk Operasi Ubah ukuran pada Gambar" h2="Ubah ukuran Gambar melalui Aplikasi Python Anda Sendiri Menggunakan Perpustakaan Aspose.Imaging" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Semua gambar-gambar format yang didukung untuk operasi Ubah ukuran" %}}
+{{% blocks/products/pf/feature-page-section  h2="Terapkan operasi Ubah ukuran ke semua format gambar yang tersedia" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Anda dapat mengubah ukuran gambar menjadi lebih besar atau lebih kecil tanpa harus menghapus konten apa pun. Dimensi gambar diubah saat diubah ukurannya, yang sering berdampak pada ukuran file dan kualitas gambar. Mengurangi ukuran gambar besar agar lebih mudah dikirim melalui email atau dibagikan secara online adalah pembenaran paling populer untuk mengecilkan foto. Gambar grafik raster harus diskalakan dengan membuat gambar baru dengan lebih banyak atau lebih sedikit piksel. Aspose.Imaging memungkinkan pengguna mengubah ukuran algoritme yang berbeda yang memungkinkan untuk memilih yang diperlukan.
+Dengan Aspose.Imaging, Anda dapat mengubah ukuran gambar atau foto tanpa kehilangan informasi visual. Saat menyesuaikan ukuran gambar, bobot filenya berubah, yang dapat menyebabkan penurunan kualitas. Mengurangi ukuran gambar adalah cara utama untuk mengirim dengan cepat melalui email atau mendownload dengan cepat dari situs Internet. Saat mengubah ukuran gambar raster, gambar baru dibuat dengan piksel lebih sedikit atau lebih banyak, yaitu gambar diskalakan. Aspose.Imaging menyediakan berbagai algoritma pengubahan ukuran, memungkinkan Anda memilih salah satu yang paling sesuai untuk tugas tertentu.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Menggunakan Aspose.Imaging Anda dapat dengan mudah menerapkan **Ubah ukuran** untuk berbagai format gambar secara terprogram
+Dengan menggunakan pustaka Aspose.Imaging untuk Python, Anda bisa dengan mudah melakukan operasi <b>Ubah ukuran</b> untuk gambar dan foto dalam berbagai format secara terprogram.
 </p>
 <h3 style="margin-top:16px;">
-Daftar lengkap operasi Ubah ukuran yang didukung menurut format gambar:
+Pilih format gambar dari daftar untuk operasi Ubah ukuran:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

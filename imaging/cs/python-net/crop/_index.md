@@ -1,26 +1,26 @@
 ﻿---
-title: Obrázky Oříznutí Prostřednictvím python-net, všechny podporované formáty obrázků 
+title: obrázky Oříznutí pomocí Python 
 weight: 3920
 url: /cs/python-net/crop/ 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Pomocí Aspose.Imaging můžete snadno Oříznutí obrázky přes python-net
+description: Použití knihovny Aspose.Imaging na obrázky a fotografie Oříznutí pomocí vašich vlastních aplikací Python a serverových API.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Soubory obrázků Oříznutí prostřednictvím python-net" h2="obrázky Oříznutí" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Použijte Python pro operaci Oříznutí s obrázky" h2="Oříznutí Obrázky prostřednictvím vašich vlastních aplikací Python pomocí knihovny Aspose.Imaging" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované snímky formáty pro operaci Oříznutí" %}}
+{{% blocks/products/pf/feature-page-section  h2="Použijte operaci Oříznutí na všechny dostupné formáty obrázků" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Oříznutí je proces odstranění cizích prvků z fotografie nebo ilustrace. Tato technika typicky zahrnuje odstranění části okraje obrazu za účelem eliminace vnějších vizuálních informací z fotografie, vylepšení jejího rámování, změny poměru stran nebo zdůraznění či izolace předmětu od jeho okolí. To lze provést digitálně pomocí softwaru pro úpravu obrázků nebo to lze provést na skutečném snímku, uměleckém díle nebo filmu, v závislosti na aplikaci. Fotografický průmysl, zpracování filmů, vysílání, grafický design a tiskařský průmysl používají ořezávání. Aspose.Imaging vám umožňuje oříznout obrázky se zadanými různými parametry.
+Oříznutí obrázků je proces odstranění nepotřebných částí z obrázků nebo fotografií. V důsledku operace oříznutí obrázku lze odstranit část okraje obrázku, aby se zlepšila jeho kompozice, upravily proporce nebo vycentroval hlavní prvek. Chcete-li toho dosáhnout, můžete použít specializovaný software pro úpravu obrázků nebo programově aplikovat operaci oříznutí na obrázky, fotografie, krajiny nebo portréty, v závislosti na vašich konkrétních požadavcích. Oříznutí nachází rozsáhlé uplatnění ve fotografii, manipulaci s fotografiemi, video produkci, grafickém designu a tisku. S knihovnou Aspose.Imaging můžete automatizovat ořezávání obrázků pomocí přizpůsobitelných parametrů.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Pomocí Aspose.Imaging můžete snadno použít **Oříznutí** pro různé formáty obrázků programově
+Pomocí knihovny Aspose.Imaging pro Python můžete snadno programově provést operaci <b>Oříznutí</b> pro obrázky a fotografie různých formátů.
 </p>
 <h3 style="margin-top:16px;">
-Úplný seznam podporovaných operací Oříznutí podle formátů obrázků:
+Vyberte ze seznamu formát obrázku pro operaci Oříznutí:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

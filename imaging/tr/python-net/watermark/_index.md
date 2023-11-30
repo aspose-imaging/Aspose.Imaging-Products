@@ -1,26 +1,26 @@
 ﻿---
-title: Filigran görüntüleri python-net aracılığıyla, desteklenen tüm görüntü biçimleri 
+title: Python kullanan Filigran görselleri 
 weight: 3920
 url: /tr/python-net/watermark/ 
 lang: tr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging'i kullanarak, python-net Aracılığıyla kolayca Filigran görüntüleri oluşturabilirsiniz
+description: Kendi Python uygulamalarınızı ve sunucu API'lerinizi kullanarak Aspose.Imaging kitaplığını Filigran görsellerine ve fotoğraflarına uygulama.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="python-net aracılığıyla Filigran görüntü dosyaları" h2="Filigran görselleri" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1="Görsellerde Filigran İşlemi için Python kullanın" h2="Aspose.Imaging Kütüphanesini Kullanarak Kendi Python Uygulamalarınız Üzerinden Filigran Görselleri" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Filigran işlemi Görüntüler için desteklenen tüm biçimler" %}}
+{{% blocks/products/pf/feature-page-section  h2="Filigran işlemini mevcut tüm resim formatlarına uygulayın" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Dijital filigran, ses, video veya görüntü verileri gibi gürültüyü tolere edebilen bir sinyale ustaca dahil edilen bir işaretleme türüdür. Genellikle belirli bir sinyalin telif hakkının kime ait olduğunu belirlemek için kullanılır. Filigranlama uygulaması, dijital verilerin bir taşıyıcı sinyale kodlanmasını içerir; Gizlenen veriler, taşıyıcı sinyalle ilişkili olmalıdır, ancak zorunlu değildir. Taşıyıcı sinyalin meşruiyeti veya bütünlüğü, dijital filigranlar kullanılarak doğrulanabilir ve sahiplerinin kimlikleri de ortaya çıkarılabilir. Banknot kimlik doğrulaması ve telif hakkı ihlallerini izlemek için sıklıkla kullanılır. Aspose.Imaging'i kullanarak çok fazla koda ihtiyaç duymadan filigranınızı seçilen görüntüye kolayca ekleyebilirsiniz.
+Dijital filigran, bir görüntüye uygulanan ve görüntü değiştirilse bile görünür kalan benzersiz bir yarı şeffaf işaretleme türüdür. Filigranlama tekniği, belirli bir görüntünün sahipliğini veya kaynağını belirtmek için yaygın olarak kullanılır. Filigranlar genellikle dijital ürünlerin orijinalliğini doğrulamak veya telif hakkı ihlaline karşı koruma sağlamak için kullanılır. Aspose.Imaging ile, karmaşık kodlamaya veya özel yazılıma ihtiyaç duymadan, seçilen herhangi bir görüntüye kendi özel filigranınızı zahmetsizce ekleyebilirsiniz.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Aspose.Imaging'i kullanarak farklı görüntü formatları için **Filigran** işlemini kolayca uygulayabilirsiniz programlı olarak
+Python için Aspose.Imaging kütüphanesini kullanarak, çeşitli formatlardaki görüntüler ve fotoğraflar için <b>Filigran</b> işlemini programlı olarak kolayca gerçekleştirebilirsiniz.
 </p>
 <h3 style="margin-top:16px;">
-Görüntü biçimlerine göre desteklenen {işlem adı} işlemlerinin tam listesi:
+Filigran işlemi için listeden bir görüntü formatı seçin:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,26 +1,26 @@
 ﻿---
-title: Dygotać obrazy Przez python-net, wszystkie obsługiwane formaty obrazów 
+title: Obrazy Dygotać przy użyciu języka Python 
 weight: 3920
 url: /pl/python-net/dither/ 
 lang: pl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Używając Aspose.Imaging możesz łatwo Dygotać obrazy Via python-net
+description: Stosowanie biblioteki Aspose.Imaging do obrazów i zdjęć Dygotać przy użyciu własnych aplikacji Python i interfejsów API serwera.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Pliki obrazów Dygotać przez python-net" h2="Obrazy Dygotać" downloadText="Ściągnij" >}}
+{{< blocks/products/pf/feature-page-header h1="Użyj języka Python do operacji Dygotać na obrazach" h2="Obrazy Dygotać za pośrednictwem własnych aplikacji Python przy użyciu biblioteki Aspose.Imaging" downloadText="Ściągnij" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty operacji obrazy Dygotać" %}}
+{{% blocks/products/pf/feature-page-section  h2="Zastosuj operację Dygotać do wszystkich dostępnych formatów obrazów" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-W grafice komputerowej dithering jest używany do nadania obrazom głębi kolorów w systemach z ograniczoną paletą kolorów. Rozproszenie kolorowych pikseli z dostępnej palety jest używane w rozmytym obrazie w celu przybliżenia kolorów, których nie ma w palecie. Rozproszenie wydaje się ludzkiemu oku jako mieszanie zawartych w nim kolorów. Rozproszone fotografie często można rozpoznać po charakterystycznej ziarnistości lub plamkach, zwłaszcza w przypadku korzystania z palet o niewielkiej liczbie kolorów. Roztrząsanie dodaje do obrazu szum lub wzór, który często jest oczywisty. Wykazano, że w tych warunkach dither wywołany niebieskim szumem jest najmniej irytujący i nieatrakcyjny. Aspose.Imaging pozwala na ditherowanie obrazów za pomocą kilku algorytmów, które możesz wybrać według potrzeb.
+Dithering w grafice komputerowej stosowany jest przez projektantów w celu uzyskania wyraźniejszego efektu kolorystycznego w systemach o ograniczonej palecie barw. W wygładzonym obrazie kolorowe piksele z dostępnej palety służą do przybliżenia brakujących kolorów, tworząc wrażenie zmieszania kolorów. Często na takich zdjęciach można zauważyć wyraźną ziarnistość lub wzór kropek, szczególnie w przypadku korzystania z palet o ograniczonej liczbie kolorów. Operację roztrząsania stosuje się w celu dodania szumu lub wzorów do obrazu, a często ten wzór jest łatwo widoczny. Wykazano, że w takich przypadkach najbardziej optymalne jest wykorzystanie szumu niebieskiego do ditheringu. Aspose.Imaging pozwala na wygładzanie obrazu przy użyciu różnych algorytmów, które można wybrać w zależności od preferencji.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Używając Aspose.Imaging możesz łatwo zastosować **Dygotać** dla różnych formatów obrazów programowo
+Korzystając z biblioteki Aspose.Imaging dla języka Python, możesz łatwo programowo wykonać operację <b>Dygotać</b> na obrazach i zdjęciach w różnych formatach.
 </p>
 <h3 style="margin-top:16px;">
-Pełna lista obsługiwanych operacji Dygotać według formatów obrazu:
+Wybierz format obrazu z listy dla operacji Dygotać:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

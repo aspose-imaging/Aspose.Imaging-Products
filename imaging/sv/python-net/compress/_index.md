@@ -1,27 +1,26 @@
 ﻿---
-title: Komprimera bilder Via python-net, alla bildformat som stöds 
+title: Komprimera-bilder med Python 
 weight: 3920
 url: /sv/python-net/compress/ 
 lang: sv
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Med Aspose.Imaging kan du enkelt Komprimera bilder via python-net
+description: Tillämpa Aspose.Imaging-biblioteket på Komprimera-bilder och foton med dina egna Python-applikationer och server-API:er.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Bildfiler Komprimera via python-net" h2="Komprimera bilder" downloadText="Ladda ner" >}}
+{{< blocks/products/pf/feature-page-header h1="Använd Python för Komprimera operation på bilder" h2="Komprimera-bilder via dina egna Python-applikationer som använder Aspose.Imaging-biblioteket" downloadText="Ladda ner" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alla bilder format som stöds för operationen Komprimera" %}}
+{{% blocks/products/pf/feature-page-section  h2="Använd åtgärden Komprimera på alla tillgängliga bildformat" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Bildkomprimering är en sorts datakomprimering som används för att sänka kostnaderna för att lagra eller överföra digitala bilder. Jämfört med allmänna datakomprimeringstekniker som används för andra digitala data, kan algoritmer dra nytta av visuell perception och de statistiska egenskaperna hos bilddata.
-Med Aspose.Imaging kan du komprimera olika bildtyper som kan passa nästan alla dina behov.
+Använd bildkomprimering för att minska storleken på data som används för att lagra eller skicka digitala bilder. Till skillnad från generiska datakomprimeringstekniker som används för andra former av digital information, tar bildkomprimeringsalgoritmer hänsyn till bildens statistiska egenskaper och är kopplade till den visuella uppfattningen av informationen. Genom Aspose.Imaging-biblioteket har du möjlighet att implementera olika nivåer av bildkomprimering baserat på dina specifika behov.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Med Aspose.Imaging kan du enkelt använda **Komprimera** för olika bildformat programmatiskt
+Genom att använda Aspose.Imaging-biblioteket för Python kan du enkelt utföra <b>Komprimera</b>-åtgärden för bilder och foton i olika format programmatiskt.
 </p>
 <h3 style="margin-top:16px;">
-Fullständig lista över Komprimera-operationer som stöds efter bildformat:
+Välj ett bildformat från listan för åtgärden Komprimera:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

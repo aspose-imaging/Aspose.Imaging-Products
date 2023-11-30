@@ -1,26 +1,26 @@
 ﻿---
-title: Regolare immagini Tramite python-net, tutti i formati immagine supportati 
+title: Immagini Regolare utilizzando Python 
 weight: 3920
 url: /it/python-net/adjust/ 
 lang: it
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging puoi facilmente Regolare immagini tramite python-net
+description: Applicazione della libreria Aspose.Imaging alle immagini e alle foto di Regolare utilizzando le tue applicazioni Python e le API del server.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="File immagine Regolare tramite python-net" h2="Regolare immagini" downloadText="Scarica" >}}
+{{< blocks/products/pf/feature-page-header h1="Utilizza Python per l'operazione Regolare sulle immagini" h2="Immagini Regolare tramite le tue applicazioni Python utilizzando la libreria Aspose.Imaging" downloadText="Scarica" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tutti i immagini formati supportati per l'operazione Regolare" %}}
+{{% blocks/products/pf/feature-page-section  h2="Applica l'operazione Regolare a tutti i formati di immagine disponibili" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Una delle funzionalità principali offerte dalla maggior parte delle librerie di immagini è la correzione del colore per le foto digitali. Le regolazioni del colore contengono le seguenti diverse categorie come (1) Il termine luminosità descrive quanto sia chiara o scura una tonalità. Tutti i colori di un'immagine vengono illuminati quando la luminosità viene aumentata e tutti i colori vengono scuriti quando la luminosità viene ridotta; (2) Quando un'immagine ha contrasto, gli oggetti o i dettagli al suo interno risaltano maggiormente. Quando si aumenta il contrasto, la differenza tra le parti chiare e quelle scure aumenta, rendendo le aree chiare più chiare e quelle scure più scure. Le parti più chiare e quelle più scure rimarranno essenzialmente le stesse con meno contrasto, ma l'immagine complessiva apparirà più uniforme; (3) Gamma migliora la luminosità e il contrasto dell'illuminazione indiretta che illumina un oggetto nell'immagine. Aspose.Imaging supporta la regolazione di <b>Luminosità</b>, <b>Gamma</b> e <b>Contrasto</b> delle immagini.
+Una delle funzioni principali della libreria di elaborazione delle immagini è regolare le informazioni sul colore delle immagini e delle foto digitali. Le impostazioni del colore includono vari parametri: (1) <b>"Luminosità"</b> indica il grado di chiaro o scuro del colore. L'aumento della luminosità rende tutti i colori dell'immagine più chiari, mentre la diminuzione della luminosità li rende più scuri. (2) Quando l'immagine ha un <b>"Contrasto"</b> elevato, gli oggetti o i dettagli al suo interno vengono maggiormente enfatizzati. L'aumento del contrasto amplifica la distinzione tra regioni chiare e scure, rendendo le aree chiare ancora più chiare e quelle scure ancora più scure. Durante tutto questo processo, le aree chiare e scure mantengono le relative sfumature, ma nel complesso l'immagine appare più uniforme. (3) <b>"Gamma"</b> regola la luminosità e il contrasto dell'illuminazione indiretta che colpisce un oggetto nell'immagine o nella foto. Aspose.Imaging consente di regolare la luminosità, la gamma e il contrasto di immagini e foto.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Usando Aspose.Imaging puoi facilmente applicare **Regolare** per diversi formati di immagine programmaticamente
+Utilizzando la libreria Aspose.Imaging per Python, puoi facilmente eseguire l'operazione <b>Regolare</b> per immagini e foto di vari formati a livello di codice.
 </p>
 <h3 style="margin-top:16px;">
-Elenco completo delle operazioni Regolare supportate per formati immagine:
+Seleziona un formato immagine dall'elenco per l'operazione Regolare:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

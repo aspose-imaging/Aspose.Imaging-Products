@@ -1,26 +1,26 @@
 ﻿---
-title: Imágenes de Vacilar A través de python-net, todos los formatos de imagen admitidos 
+title: Imágenes de Vacilar usando Python 
 weight: 3920
 url: /es/python-net/dither/ 
 lang: es
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging puede fácilmente Vacilar imágenes a través de python-net
+description: Aplicar la biblioteca Aspose.Imaging a imágenes y fotografías de Vacilar utilizando sus propias aplicaciones Python y API de servidor.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Archivos de imagen Vacilar a través de python-net" h2="Imágenes de Vacilar" downloadText="Descargar" >}}
+{{< blocks/products/pf/feature-page-header h1="Utilice Python para la operación Vacilar en imágenes" h2="Vacilar Imágenes a través de sus propias aplicaciones Python utilizando la biblioteca Aspose.Imaging" downloadText="Descargar" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos los imágenes formatos admitidos para la operación Vacilar" %}}
+{{% blocks/products/pf/feature-page-section  h2="Aplicar la operación Vacilar a todos los formatos de imagen disponibles" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-En gráficos por computadora, el tramado se usa para dar la apariencia de profundidad de color en imágenes en sistemas con una paleta de colores restringida. Se utiliza una difusión de píxeles de colores de la paleta disponible en una imagen interpolada para aproximar los colores que no están presentes en la paleta. La difusión aparece al ojo humano como una mezcla de los colores que contiene. Las fotografías difuminadas suelen identificarse por un aspecto granuloso distintivo o moteado, especialmente cuando se utilizan paletas con pocos colores. El tramado agrega ruido o un patrón a una imagen, y el patrón suele ser obvio. Se ha demostrado que en estas condiciones, el dither producido por el ruido azul es el menos molesto y poco atractivo. Aspose.Imaging permite difuminar sus imágenes con algunos algoritmos que puede seleccionar según sus necesidades.
+Los diseñadores utilizan el tramado en el campo de los gráficos por computadora para lograr un efecto de color más pronunciado en sistemas con una paleta de colores limitada. En una imagen suavizada, los píxeles de color de la paleta disponible se utilizan para aproximar los colores faltantes, creando la impresión de una combinación de colores. A menudo, se puede notar una granulosidad o un patrón de puntos distintivo en este tipo de fotografías, especialmente cuando se utilizan paletas con un número limitado de colores. La operación de tramado se aplica para agregar ruido o patrones a la imagen y, a menudo, este patrón es fácilmente visible. Se ha demostrado que en tales casos, el uso de ruido azul para el difuminado es el más óptimo. Aspose.Imaging permite suavizar la imagen utilizando varios algoritmos que se pueden seleccionar según sus preferencias.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Usando Aspose.Imaging puede aplicar fácilmente **Vacilar** para diferentes formatos de imagen programáticamente
+Usando la biblioteca Aspose.Imaging para Python, puede realizar fácilmente la operación <b>Vacilar</b> para imágenes y fotografías de varios formatos mediante programación.
 </p>
 <h3 style="margin-top:16px;">
-Lista completa de operaciones {nombre de operación} admitidas por formatos de imagen:
+Seleccione un formato de imagen de la lista para la operación Vacilar:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

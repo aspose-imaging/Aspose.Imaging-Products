@@ -1,26 +1,26 @@
 ﻿---
-title: Binarizuoti vaizdai Per python-net, visi palaikomi vaizdo formatai 
+title: Binarizuoti vaizdai naudojant Python 
 weight: 3920
 url: /lt/python-net/binarize/ 
 lang: lt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Naudodami Aspose.Imaging galite lengvai sukurti Binarizuoti vaizdus per python-net
+description: Aspose.Imaging bibliotekos taikymas Binarizuoti vaizdams ir nuotraukoms naudojant savo Python programas ir serverio API.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Vaizdo failai Binarizuoti per python-net" h2="Binarizuoti vaizdai" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Naudokite Python Binarizuoti operacijai su vaizdais" h2="Binarizuoti vaizdai per savo Python programas naudojant Aspose.Imaging biblioteką" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Binarizuoti attēlus formatai" %}}
+{{% blocks/products/pf/feature-page-section  h2="Taikykite operaciją Binarizuoti visiems galimiems vaizdo formatams" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Vaizdo priekinis planas ir fonas atskiriami naudojant techniką, vadinamą vaizdo slenksčiu. Šis metodas priskiria pikselių reikšmes pagal nurodytas slenkstes. Pilkų atspalvių vaizdai yra apriboti kompiuteriniame regėjime. Vienas iš labiausiai žinomų metodų yra dvejetainis nustatymas naudojant <b>Otsu</b> ir <b>Bradley</b>. Aspose.Imaging palaiko abu algoritmus. Naudojant šiuos algoritmus, jūsų vaizdai gali būti konvertuojami į nespalvotus su slenksčiu.
+Apdorojant vaizdus, ​​naudojamas metodas, vadinamas dvejetainiu, konvertuojant vaizdą į nespalvotą formatą naudojant nurodytą slenkstinę reikšmę. Šis metodas apima pikselių reikšmių priskyrimą pagal nurodytą slenkstinę vertę. Dirbant su pilkų atspalvių vaizdais, svarbu nurodyti slenkstinę reikšmę objektams atskirti naudojant kompiuterinio matymo technologiją. Galimi įvairūs konvertavimo metodai, pvz., dvejetainis nustatymas naudojant <b>Otsu</b> ir <b>Bradley</b> metodus, kuriuos abu palaiko Aspose.Imaging. Naudodami šiuos algoritmus galite konvertuoti vaizdus į nespalvotus su nurodyta ribine verte.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Naudodami Aspose.Imaging galite lengvai pritaikyti **Binarizuoti** skirtingiems vaizdo formatams programmatiski
+Naudodami Aspose.Imaging biblioteką, skirtą Python, galite lengvai atlikti <b>Binarizuoti</b> operaciją įvairių formatų vaizdams ir nuotraukoms programiškai.
 </p>
 <h3 style="margin-top:16px;">
-Visas palaikomų operacijų Binarizuoti sąrašas pagal vaizdo formatus:
+Iš sąrašo pasirinkite vaizdo formatą operacijai Binarizuoti:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

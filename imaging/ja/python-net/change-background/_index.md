@@ -1,26 +1,26 @@
 ﻿---
-title: 背景を変更 画像 python-net 経由、サポートされているすべての画像形式 
+title: Python を使用した 背景を変更 イメージ 
 weight: 3920
 url: /ja/python-net/change-background/ 
 lang: ja
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging を使用すると、python-net 経由で簡単に 背景を変更 イメージを作成できます
+description: 独自の Python アプリケーションとサーバー API を使用して、Aspose.Imaging ライブラリを 背景を変更 の画像と写真に適用します。
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="python-net経由の画像ファイル背景を変更" h2="{操作名} 画像" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1="画像に対する 背景を変更 オペレーションには Python を使用します" h2="Aspose.Imaging ライブラリを使用した独自の Python アプリケーションによる 背景を変更 イメージ" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="背景を変更 操作でサポートされているすべての形式 画像" %}}
+{{% blocks/products/pf/feature-page-section  h2="背景を変更 オペレーションを使用可能なすべての画像形式に適用します" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-背景の変更は、写真や画像を処理するために必要な最も一般的な操作の 1 つです。 Aspose.Imaging を使用すると、ある写真から背景を簡単に削除し、別の写真に前景オブジェクトを配置できます。また、前景のオブジェクトを認識し、必要に応じて検出することもできます。その結果、透明な背景が得られ、必要に応じて処理することができます。
+背景の変更は、画像や写真の編集で頻繁に実行されるタスクです。 Aspose.Imaging を使用すると、自動または手動で写真の前景オブジェクトを背景から簡単に分離し、別の画像上に配置できます。さらに、Cloud API を使用すると、前景オブジェクトを識別し、必要に応じて背景を削除できます。これにより、背景が透明なオブジェクトを取得し、元の背景を別の背景に置き換えることができます。
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Aspose.Imaging を使用すると、さまざまな画像フォーマットに **背景を変更** を簡単に適用できます プログラム的に
+Python の Aspose.Imaging ライブラリを使用すると、さまざまな形式の画像や写真に対する <b>背景を変更</b> 操作をプログラムで簡単に実行できます。
 </p>
 <h3 style="margin-top:16px;">
-画像形式ごとにサポートされている 背景を変更 操作の完全なリスト:
+背景を変更 オペレーションのリストから画像形式を選択します。
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

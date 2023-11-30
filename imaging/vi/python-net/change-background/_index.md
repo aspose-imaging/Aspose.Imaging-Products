@@ -1,26 +1,26 @@
 ﻿---
-title: hình ảnh Thay đổi nền Qua python-net, tất cả các định dạng hình ảnh được hỗ trợ 
+title: Hình ảnh Thay đổi nền sử dụng Python 
 weight: 3920
 url: /vi/python-net/change-background/ 
 lang: vi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng Thay đổi nền hình ảnh qua python-net
+description: Áp dụng thư viện Aspose.Imaging cho hình ảnh và ảnh Thay đổi nền bằng ứng dụng Python và API máy chủ của riêng bạn.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Tệp hình ảnh Thay đổi nền qua python-net" h2="Thay đổi nền hình ảnh" downloadText="Tải xuống" >}}
+{{< blocks/products/pf/feature-page-header h1="Sử dụng Python cho thao tác Thay đổi nền trên hình ảnh" h2="Hình ảnh Thay đổi nền qua Ứng dụng Python của riêng bạn bằng Thư viện Aspose.Imaging" downloadText="Tải xuống" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tất cả các hình ảnh định dạng được hỗ trợ cho thao tác Thay đổi nền" %}}
+{{% blocks/products/pf/feature-page-section  h2="Áp dụng thao tác Thay đổi nền cho tất cả các định dạng hình ảnh có sẵn" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Thay đổi nền là một trong những thao tác phổ biến nhất cần thiết để xử lý ảnh hoặc hình ảnh của bạn. Bạn có thể dễ dàng xóa nền khỏi ảnh của mình và đặt đối tượng tiền cảnh lên một ảnh khác bằng cách sử dụng Aspose.Imaging. Ngoài ra, bạn có thể nhận ra đối tượng nền trước và phát hiện nó nếu cần. Kết quả là bạn có thể có được nền trong suốt và xử lý khi cần.
+Thay đổi hình nền là công việc được thực hiện thường xuyên trong việc chỉnh sửa hình ảnh và ảnh. Bằng cách sử dụng Aspose.Imaging, bạn có thể dễ dàng tách đối tượng tiền cảnh khỏi nền trong ảnh, tự động hoặc thủ công, sau đó đặt nó vào một hình ảnh khác. Ngoài ra, Cloud API cho phép bạn xác định đối tượng nền trước và xóa nền nếu cần. Điều này cho phép bạn có được một đối tượng có nền trong suốt và thay thế nền ban đầu bằng một nền khác.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Sử dụng Aspose.Imaging, bạn có thể dễ dàng áp dụng **Thay đổi nền** cho các định dạng hình ảnh khác nhau lập trình
+Bằng cách sử dụng thư viện Aspose.Imaging cho Python, bạn có thể dễ dàng thực hiện thao tác <b>Thay đổi nền</b> đối với hình ảnh và ảnh chụp ở nhiều định dạng khác nhau theo chương trình.
 </p>
 <h3 style="margin-top:16px;">
-Danh sách đầy đủ các thao tác Thay đổi nền được hỗ trợ theo định dạng hình ảnh:
+Chọn định dạng hình ảnh từ danh sách cho thao tác Thay đổi nền:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

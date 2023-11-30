@@ -1,26 +1,26 @@
 ﻿---
-title: hình ảnh Lọc Qua python-net, tất cả các định dạng hình ảnh được hỗ trợ 
+title: Hình ảnh Lọc sử dụng Python 
 weight: 3920
 url: /vi/python-net/filter/ 
 lang: vi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng Lọc hình ảnh qua python-net
+description: Áp dụng thư viện Aspose.Imaging cho hình ảnh và ảnh Lọc bằng ứng dụng Python và API máy chủ của riêng bạn.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Tệp hình ảnh Lọc qua python-net" h2="Lọc hình ảnh" downloadText="Tải xuống" >}}
+{{< blocks/products/pf/feature-page-header h1="Sử dụng Python cho thao tác Lọc trên hình ảnh" h2="Hình ảnh Lọc qua Ứng dụng Python của riêng bạn bằng Thư viện Aspose.Imaging" downloadText="Tải xuống" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tất cả các hình ảnh định dạng được hỗ trợ cho thao tác Lọc" %}}
+{{% blocks/products/pf/feature-page-section  h2="Áp dụng thao tác Lọc cho tất cả các định dạng hình ảnh có sẵn" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Trong nhiếp ảnh và quay phim, bộ lọc là một phụ kiện máy ảnh bao gồm một bộ lọc quang học có thể được lắp vào đường dẫn quang học. Bộ lọc có thể có hình vuông hoặc hình thuôn dài và được gắn trong phụ kiện giá đỡ, hoặc phổ biến hơn là đĩa thủy tinh hoặc nhựa trong khung vòng kim loại hoặc nhựa, có thể vặn vào mặt trước hoặc kẹp vào ống kính máy ảnh. Bộ lọc làm thay đổi hình ảnh đã ghi. Chúng được sử dụng để chỉnh sửa ảnh đôi khi rất ít và đôi khi chúng hoàn toàn cần thiết để tạo ảnh. Trong chụp ảnh đơn sắc, các bộ lọc màu thay đổi độ sáng tương đối của các màu khác nhau; son môi đỏ có thể xuất hiện ở bất kỳ đâu giữa gần như trắng và gần như đen tùy thuộc vào bộ lọc được sử dụng. Những người khác điều chỉnh cân bằng màu sắc của hình ảnh sao cho các bức ảnh được chụp trong điều kiện chiếu sáng nóng sáng hiển thị màu sắc khi chúng được cảm nhận thay vì có tông màu đỏ. Có những bộ lọc làm biến dạng hình ảnh một cách có chủ đích, thêm vẻ đầy sao cho một hình ảnh sắc nét khác, v.v. Phản xạ xiên từ các bề mặt phi kim loại được giảm bằng cách sử dụng các bộ lọc phân cực tròn và tuyến tính. Aspose.Imaging hỗ trợ các bộ lọc như Gaussian Blur, Sharpen, Median Filter, Motion Weiner và nhiều bộ lọc khác.
+Trong chụp ảnh và sản xuất video, bộ lọc là một phụ kiện máy ảnh bổ sung bao gồm bộ lọc quang có thể được lắp vào đường dẫn quang. Nó có thể là một tấm kính bán trong suốt hình vuông hoặc hình chữ nhật và được gắn vào mặt trước của ống kính máy ảnh. Bộ lọc làm thay đổi hình ảnh đã chụp. Trong chụp ảnh đơn sắc, bộ lọc màu thay đổi độ sáng của các màu khác nhau; tùy thuộc vào bộ lọc được sử dụng, táo xanh có thể trông gần như trắng hoặc gần như đen. Các bộ lọc khác điều chỉnh cân bằng màu của hình ảnh để thể hiện chính xác màu sắc cảm nhận được dưới ánh sáng đèn ban ngày, thay vì tông màu lạnh. Ngoài ra còn có các bộ lọc cố tình làm biến dạng hình ảnh, khiến hình ảnh trở nên sắc nét. Bộ lọc phân cực tuyến tính và tròn làm giảm độ chói từ các bề mặt phản chiếu. Aspose.Imaging hỗ trợ nhiều bộ lọc khác nhau như Bộ lọc Gauss-Wiener, Làm mịn song phương, Bộ lọc trung bình, Motion Weiner, Blur, Sharpen và các bộ lọc khác.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Sử dụng Aspose.Imaging, bạn có thể dễ dàng áp dụng **Lọc** cho các định dạng hình ảnh khác nhau lập trình
+Bằng cách sử dụng thư viện Aspose.Imaging cho Python, bạn có thể dễ dàng thực hiện thao tác <b>Lọc</b> đối với hình ảnh và ảnh chụp ở nhiều định dạng khác nhau theo chương trình.
 </p>
 <h3 style="margin-top:16px;">
-Danh sách đầy đủ các thao tác Lọc được hỗ trợ theo định dạng hình ảnh:
+Chọn định dạng hình ảnh từ danh sách cho thao tác Lọc:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

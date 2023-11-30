@@ -1,26 +1,26 @@
 ﻿---
-title: صور كارتونيفاي عبر python-net ، جميع تنسيقات الصور المدعومة 
+title: صور كارتونيفاي باستخدام Python 
 weight: 3920
 url: /ar/python-net/cartoonify/ 
 lang: ar
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: باستخدام Aspose.Imaging يمكنك بسهولة كارتونيفاي الصور عبر python-net
+description: تطبيق مكتبة Aspose.Imaging على الصور والصور الفوتوغرافية كارتونيفاي باستخدام تطبيقات Python وواجهات برمجة تطبيقات الخادم الخاصة بك.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="ملفات الصور كارتونيفاي عبر python-net" h2="كارتونيفاي الصور" downloadText="تحميل" >}}
+{{< blocks/products/pf/feature-page-header h1="استخدم Python لعملية كارتونيفاي على الصور" h2="صور كارتونيفاي عبر تطبيقات Python الخاصة بك باستخدام مكتبة Aspose.Imaging" downloadText="تحميل" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="جميع التنسيقا تالصور  المدعومة لعملية كارتونيفاي" %}}
+{{% blocks/products/pf/feature-page-section  h2="قم بتطبيق عملية كارتونيفاي على جميع تنسيقات الصور المتاحة" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-يعد تحويل الصورة إلى رسوم متحركة أحد العمليات الشائعة التي يستخدمها الكثير من الفنانين. يساعد في الحصول على صورة كاريكاتورية بنقرات قليلة دون القيام بأي أعمال طلاء. هل تريد تحويل صورة قياسية بسرعة إلى صورة كاريكاتورية؟ في هذه الحالة ، يمكنك تجربة كيفية عملها في مكتبة Aspose.Imaging.
+تعد عملية تحويل الصور إلى صور بنمط الرسوم المتحركة، والمعروفة أيضًا باسم Cartoonify، تقنية شائعة يستخدمها المصممون لإنشاء صور ذات تأثير يشبه الرسوم المتحركة. تتيح لك هذه الطريقة تحقيق تأثير الصورة المرغوب فيه ببضع نقرات فقط، دون الحاجة إلى مهارات الرسم. إذا كنت تريد تحويل صورة عادية إلى صورة كرتونية بسرعة، فعليك تجربة الأداة التي توفرها مكتبة Aspose.Imaging.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-باستخدام Aspose.Imaging ، يمكنك بسهولة تطبيق **كارتونيفاي** لتنسيقات الصور المختلفة برمجيا
+باستخدام مكتبة Aspose.Imaging لـ Python، يمكنك بسهولة إجراء عملية <b>كارتونيفاي</b> للصور والصور ذات التنسيقات المختلفة برمجيًا.
 </p>
 <h3 style="margin-top:16px;">
-القائمة الكاملة لعمليات كارتونيفاي المدعومة حسب تنسيقات الصور:
+حدد تنسيق صورة من القائمة لعملية كارتونيفاي:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

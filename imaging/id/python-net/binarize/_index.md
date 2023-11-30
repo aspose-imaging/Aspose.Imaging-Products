@@ -1,26 +1,26 @@
 ﻿---
-title: gambar Binarisasi Melalui python-net, semua format gambar yang didukung 
+title: gambar Binarisasi menggunakan Python 
 weight: 3920
 url: /id/python-net/binarize/ 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Menggunakan Aspose.Imaging Anda dapat dengan mudah Binarisasi gambar Via python-net
+description: Menerapkan pustaka Aspose.Imaging ke gambar dan foto Binarisasi menggunakan aplikasi Python dan API server Anda sendiri.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="File gambar Binarisasi melalui python-net" h2="gambar Binarisasi" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Gunakan Python untuk Operasi Binarisasi pada Gambar" h2="Binarisasi Gambar melalui Aplikasi Python Anda Sendiri Menggunakan Perpustakaan Aspose.Imaging" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Semua gambar-gambar format yang didukung untuk operasi Binarisasi" %}}
+{{% blocks/products/pf/feature-page-section  h2="Terapkan operasi Binarisasi ke semua format gambar yang tersedia" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Foreground dan background dari suatu gambar dipisahkan menggunakan teknik yang disebut image thresholding. Metode ini memberikan nilai piksel sesuai dengan nilai threshold yang diberikan. Gambar skala abu-abu dibatasi dalam visi komputer. Salah satu metode yang paling dikenal adalah Binarisasi oleh <b>Otsu</b> dan oleh <b>Bradley</b>. Aspose.Imaging mendukung kedua algoritme. Dengan menggunakan algoritme tersebut, gambar Anda dapat dikonversi menjadi hitam putih dengan ambang batas.
+Saat memproses gambar, metode yang disebut binarisasi diterapkan untuk mengubah gambar menjadi format hitam putih menggunakan nilai ambang batas yang ditentukan. Metode ini melibatkan penetapan nilai piksel berdasarkan nilai ambang batas yang diberikan. Saat bekerja dengan gambar skala abu-abu, penting untuk menentukan nilai ambang batas untuk memisahkan objek menggunakan teknologi computer vision. Ada berbagai metode konversi yang tersedia, seperti binarisasi menggunakan metode <b>Otsu</b> dan <b>Bradley</b>, keduanya didukung oleh Aspose.Imaging. Dengan memanfaatkan algoritma tersebut, Anda dapat mengubah gambar Anda menjadi hitam putih dengan nilai ambang batas yang ditentukan.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Menggunakan Aspose.Imaging Anda dapat dengan mudah menerapkan **Binarisasi** untuk berbagai format gambar secara terprogram
+Dengan menggunakan pustaka Aspose.Imaging untuk Python, Anda bisa dengan mudah melakukan operasi <b>Binarisasi</b> untuk gambar dan foto dalam berbagai format secara terprogram.
 </p>
 <h3 style="margin-top:16px;">
-Daftar lengkap operasi Binarisasi yang didukung menurut format gambar:
+Pilih format gambar dari daftar untuk operasi Binarisasi:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,26 +1,26 @@
 ﻿---
-title: 二值化 图片通过 python-net，所有支持的图片格式 
+title: 使用 Python 的 二值化 图像 
 weight: 3920
 url: /zh-hans/python-net/binarize/ 
 lang: zh-hans
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: 使用 Aspose.Imaging 你可以轻松地通过 python-net 获取 二值化 图像
+description: 使用您自己的 Python 应用程序和服务器 API 将 Aspose.Imaging 库应用于 二值化 图像和照片。
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="图片文件 二值化 来自 python-net" h2="二值化 图片" downloadText="下载" >}}
+{{< blocks/products/pf/feature-page-header h1="使用 Python 对图像进行 二值化 操作" h2="使用 Aspose.Imaging 库通过您自己的 Python 应用程序生成 二值化 图像" downloadText="下载" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="二值化 操作的所有支持格式图片" %}}
+{{% blocks/products/pf/feature-page-section  h2="将 二值化 操作应用于所有可用的图像格式" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-使用称为图像阈值化的技术分离图像的前景和背景。该方法根据给定的阈值分配像素值。灰度图像在计算机视觉中被阈值化。最著名的方法之一是 <b>Otsu</b> 和 <b>Bradley</b> 提出的二值化方法。 Aspose.Imaging 支持这两种算法。使用这些算法，您的图像可以转换为具有阈值的黑白图像。
+处理图像时，应用一种称为二值化的方法，使用指定的阈值将图像转换为黑白格式。该方法涉及根据给定阈值分配像素值。处理灰度图像时，使用计算机视觉技术指定阈值来分离对象非常重要。有多种可用的转换方法，例如使用 <b>Otsu</b> 和 <b>Bradley</b> 方法进行二值化，这两种方法都受 Aspose.Imaging 支持。通过利用这些算法，您可以将图像转换为具有指定阈值的黑白图像。
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-使用 Aspose.Imaging 您可以轻松地将 **二值化** 应用于不同的图像格式 以编程方式
+使用 Python 的 Aspose.Imaging 库，您可以通过编程轻松地对各种格式的图像和照片执行 <b>二值化</b> 操作。
 </p>
 <h3 style="margin-top:16px;">
-按图像格式支持的 二值化 操作的完整列表：
+从列表中为 二值化 操作选择图像格式：
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

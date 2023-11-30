@@ -1,27 +1,26 @@
 ﻿---
-title: 圧縮する 画像 python-net 経由、サポートされているすべての画像形式 
+title: Python を使用した 圧縮する イメージ 
 weight: 3920
 url: /ja/python-net/compress/ 
 lang: ja
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging を使用すると、python-net 経由で簡単に 圧縮する イメージを作成できます
+description: 独自の Python アプリケーションとサーバー API を使用して、Aspose.Imaging ライブラリを 圧縮する の画像と写真に適用します。
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="python-net経由の画像ファイル圧縮する" h2="{操作名} 画像" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1="画像に対する 圧縮する オペレーションには Python を使用します" h2="Aspose.Imaging ライブラリを使用した独自の Python アプリケーションによる 圧縮する イメージ" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="圧縮する 操作でサポートされているすべての形式 画像" %}}
+{{% blocks/products/pf/feature-page-section  h2="圧縮する オペレーションを使用可能なすべての画像形式に適用します" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-画像圧縮は、デジタル写真の保存または送信のコストを削減するために使用されるデータ圧縮の一種です。他のデジタル データに使用される一般的なデータ圧縮技術と比較すると、アルゴリズムは画像データの視覚的認識と統計的特性から恩恵を受ける可能性があります。
-Aspose.Imaging を使用すると、ほぼすべてのニーズを満たす可能性のあるさまざまな種類の画像を圧縮できます。
+画像圧縮を使用して、デジタル画像の保存または送信に使用されるデータのサイズを削減します。他の形式のデジタル情報に使用される一般的なデータ圧縮技術とは異なり、画像圧縮アルゴリズムは画像の統計的特性を考慮し、情報の視覚的認識に関連付けられています。 Aspose.Imaging ライブラリを使用すると、特定のニーズに基づいてさまざまなレベルの画像圧縮を実装できます。
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Aspose.Imaging を使用すると、さまざまな画像フォーマットに **圧縮する** を簡単に適用できます プログラム的に
+Python の Aspose.Imaging ライブラリを使用すると、さまざまな形式の画像や写真に対する <b>圧縮する</b> 操作をプログラムで簡単に実行できます。
 </p>
 <h3 style="margin-top:16px;">
-画像形式ごとにサポートされている 圧縮する 操作の完全なリスト:
+圧縮する オペレーションのリストから画像形式を選択します。
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

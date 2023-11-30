@@ -1,26 +1,26 @@
 ﻿---
-title: Imágenes de Cultivo A través de python-net, todos los formatos de imagen admitidos 
+title: Imágenes de Cultivo usando Python 
 weight: 3920
 url: /es/python-net/crop/ 
 lang: es
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging puede fácilmente Cultivo imágenes a través de python-net
+description: Aplicar la biblioteca Aspose.Imaging a imágenes y fotografías de Cultivo utilizando sus propias aplicaciones Python y API de servidor.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Archivos de imagen Cultivo a través de python-net" h2="Imágenes de Cultivo" downloadText="Descargar" >}}
+{{< blocks/products/pf/feature-page-header h1="Utilice Python para la operación Cultivo en imágenes" h2="Cultivo Imágenes a través de sus propias aplicaciones Python utilizando la biblioteca Aspose.Imaging" downloadText="Descargar" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos los imágenes formatos admitidos para la operación Cultivo" %}}
+{{% blocks/products/pf/feature-page-section  h2="Aplicar la operación Cultivo a todos los formatos de imagen disponibles" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Recortar es el proceso de eliminar elementos extraños de una fotografía o ilustración. La técnica generalmente implica la eliminación de una parte de la periferia de una imagen para eliminar información visual extraña de la fotografía, mejorar su encuadre, alterar la relación de aspecto o enfatizar o aislar al sujeto de su entorno. Esto se puede hacer digitalmente utilizando un software de edición de imágenes, o se puede hacer en una instantánea real, una obra de arte o una película, según la aplicación. Las industrias fotográfica, de procesamiento de películas, de radiodifusión, de diseño gráfico y de impresión utilizan el recorte. Aspose.Imaging le permite recortar imágenes con varios parámetros especificados.
+Recortar imágenes es el proceso de eliminar partes innecesarias de imágenes o fotografías. Como resultado de la operación de recorte de la imagen, se puede eliminar una parte de la periferia de la imagen para mejorar su composición, ajustar proporciones o centrar el elemento principal. Para lograr esto, puede utilizar software de edición de imágenes especializado o aplicar mediante programación la operación de recorte a las imágenes, fotografías, paisajes o retratos, según sus requisitos específicos. El recorte encuentra amplias aplicaciones en fotografía, manipulación de fotografías, producción de videos, diseño gráfico e impresión. Con la biblioteca Aspose.Imaging, puede automatizar el recorte de imágenes utilizando parámetros personalizables.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Usando Aspose.Imaging puede aplicar fácilmente **Cultivo** para diferentes formatos de imagen programáticamente
+Usando la biblioteca Aspose.Imaging para Python, puede realizar fácilmente la operación <b>Cultivo</b> para imágenes y fotografías de varios formatos mediante programación.
 </p>
 <h3 style="margin-top:16px;">
-Lista completa de operaciones {nombre de operación} admitidas por formatos de imagen:
+Seleccione un formato de imagen de la lista para la operación Cultivo:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

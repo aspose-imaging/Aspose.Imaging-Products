@@ -9,7 +9,7 @@ description: Python 이미지 처리 및 조작 라이브러리. Aspose.Imaging 
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1="이미지 처리를 위한 .NET 라이브러리 및 API를 통한 Python용 Aspose.Imaging" h2="이미지 편집기 없이도 이미지를 생성, 로드, 조작 또는 변환할 수 있습니다." downloadFreeTrialText="무료 평가판 다운로드" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-python-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/imaging/python-net/" >}}
+{{< blocks/products/pf/upper-banner h1="이미지 처리를 위한 .NET 라이브러리 및 API를 통한 Python용 Aspose.Imaging" h2="이미지 편집기 없이도 이미지를 조작할 수 있는 나만의 Python 애플리케이션 만들기" downloadFreeTrialText="무료 평가판 다운로드" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-python-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/imaging/python-net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Python" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-python-net.svg" 
@@ -19,42 +19,42 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
 
    <div class="col-lg-12">
     <h2 class="h2title">
-     Python용 Aspose.Imaging을 사용하여 이미지 처리의 잠재력을 최대한 활용하세요.
+     Aspose.Imaging for Python을 사용하여 이미지 처리의 모든 기능을 적용하세요.
     </h2>
     <p align="justify">
-     Python용 Aspose.Imaging은 고급 이미지 처리 기능을 제공하는 사용자 친화적인 라이브러리입니다. 이 다용도 API를 사용하면 이미지나 사진을 손쉽게 생성, 로드, 조작, 변환 및 압축할 수 있으므로 전용 이미지 편집기 없이도 광범위한 이미지 처리 기능을 모두 사용할 수 있습니다.
+     Aspose.Imaging for Python은 이미지 및 사진 처리를 위한 고급 기능을 제공하는 라이브러리입니다. 이 다재다능한 API를 사용하면 전문적인 이미지 편집기 없이도 이미지나 사진을 자동으로 로드, 변환, 생성 및 조작할 수 있습니다.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     주요 기능 살펴보기:
+     주요 기능을 사용하세요:
     </h2>
     <p>
      <ul>
        <li>
-       이미지 변환: 이미지 크기 조정, 자르기, 뒤집기, 회전, 이진화, 회색조, 기울기 조정 등을 쉽게 수행할 수 있습니다.
+       이미지 변환: 이미지 또는 사진의 크기 조정, 크기 조정, 자르기, 회전, 흑백 또는 회색조로 변환, 밝기, 대비 및 감마 조정.
        </li>
        <li>
-       고급 조작: 필터 적용, 알파 블렌딩, 마술 지팡이 도구, 워터마크 제거, 배경 제거, 디더링 및 마스킹을 통해 이미지 처리 작업을 제어할 수 있습니다.
+       고급 조작: 필터 적용, 알파 블렌딩, 워터마크 추가 또는 제거, 배경 변경, 이미지 다듬기, 마스크 적용 및 이미지 처리 작업 자동화.
        </li>
        <li>
-       효율적인 메모리 최적화: 부드럽고 효율적인 이미지 처리를 보장하는 메모리 최적화 전략을 즐겨보세요.
+       메모리 최적화: 빠르고 효율적인 이미지 처리를 보장하는 메모리 최적화 전략을 사용합니다.
        </li>
        <li>
-       그리기 및 그래픽 기본 요소: 그리기 도구의 강력한 기능을 활용하고 그래픽 기본 요소로 작업하여 프로젝트를 향상시킵니다.
+       그리기 및 그래픽 기본 요소: 그래픽 기본 요소에 그리기 기능을 사용하고 다양한 글꼴 스타일의 텍스트를 적용합니다.
        </li>
        <li>
-       내보내기 및 변환: 균일한 다중 페이지 이미지 처리를 포함하여 이미지를 원활하게 내보내고 변환합니다.
+       이미지 변환: 여러 페이지 이미지의 통합 처리를 포함하여 다른 형식으로 변환하여 이미지를 내보냅니다.
        </li>
      </ul>
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     형식 호환성
+     다양한 포맷 지원
     </h2>
     <p align="justify">
-     Python용 Aspose.Imaging은 유연하고 안정적일 뿐만 아니라 다재다능합니다. 가장 일반적으로 사용되는 이미지 형식을 지원하며 DjVu, DICOM, WebP, EPS 및 DNG와 같은 특수 형식에 대한 지원을 제공하여 한 단계 더 발전합니다. 이러한 광범위한 형식 지원을 통해 광범위한 이미지 처리 작업에 적합한 솔루션이 됩니다.
+     다양한 형식 지원 Python용 Aspose.Imaging은 안정성, 다양성 및 기능성으로 구별됩니다. APNG, WebP, EPS, PDF, DICOM과 같은 특수 형식을 포함하여 광범위한 형식을 지원합니다. 와이드 포맷 지원으로 광범위한 이미지 처리 작업에 이상적인 솔루션입니다.
     </p>
    </div>
    <div class="col-lg-12">
@@ -62,10 +62,10 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
      플랫폼 간 호환성
     </h2>
     <p align="justify">
-     Aspose.Imaging은 Windows 및 Linux 환경 모두와의 호환성을 보장하는 크로스 플랫폼 라이브러리입니다. Windows 또는 Linux 시스템에서 작업하든 Aspose.Imaging을 사용하여 일관된 고품질 이미지 처리 기능을 제공할 수 있습니다.
+     Aspose.Imaging은 플랫폼 간 호환성 덕분에 Windows 및 Linux 운영 체제 모두에서 사용할 수 있는 범용 라이브러리입니다. Aspose.Imaging을 사용하면 안정적이고 고품질의 이미지 처리 기능을 제공할 수 있습니다.
     </p>
     <p align="justify">
-     Python용 Aspose.Imaging을 사용하여 이미지 처리 프로젝트를 새로운 차원으로 끌어올리세요. 지금 API의 유연성, 안정성 및 성능을 경험해 보세요.
+     Python용 Aspose.Imaging을 사용하여 이미지 처리에서 새로운 수준의 품질을 달성하세요. 지금 API를 사용하여 유연성, 안정성 및 성능을 경험해 보세요.
     </p>
    </div>
 
@@ -184,7 +184,19 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
-   
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+   .NET Framework
+   </header>
+   <ul>
+    <li>
+     윈도우 애플리케이션
+    </li>
+    <li>
+     ASP.NET 웹 애플리케이션
+    </li>
+   </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">

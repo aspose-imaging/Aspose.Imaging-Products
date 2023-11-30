@@ -1,26 +1,26 @@
 ﻿---
-title: 調整大小 圖片通過 python-net，所有支持的圖片格式 
+title: 使用 Python 的 調整大小 影像 
 weight: 3920
 url: /zh-hant/python-net/resize/ 
 lang: zh-hant
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: 使用 Aspose.Imaging 你可以輕鬆地通過 python-net 獲取 調整大小 圖像
+description: 使用您自己的 Python 應用程式和伺服器 API 將 Aspose.Imaging 庫套用至 調整大小 圖像和照片。
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="圖片文件 調整大小 來自 python-net" h2="調整大小 圖片" downloadText="下載" >}}
+{{< blocks/products/pf/feature-page-header h1="使用 Python 對影像進行 調整大小 操作" h2="使用 Aspose.Imaging 庫透過您自己的 Python 應用程式產生 調整大小 映像" downloadText="下載" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="調整大小 操作的所有支持格式 圖片" %}}
+{{% blocks/products/pf/feature-page-section  h2="將 調整大小 操作套用至所有可用的圖片格式" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-您可以調整圖像大小以使其變大或變小，而無需刪除任何內容。調整大小時，圖像的尺寸會發生變化，這通常會對文件大小和圖像質量產生影響。縮小大圖片的尺寸以便於通過電子郵件發送或在線共享是縮小照片最流行的理由。必須通過創建具有更多或更少像素的新圖像來縮放光柵圖形圖像。 Aspose.Imaging 允許用戶選擇需要的不同調整大小算法。
+使用 Aspose.Imaging，您可以調整圖像或照片的大小，而不會失去視覺資訊。調整影像大小時，其檔案重量會發生變化，這可能會導致品質下降。減小圖像的大小是透過電子郵件快速發送或從網站快速下載的主要方法。調整光柵影像大小時，會建立一個具有更少或更多像素的新影像，即影像被縮放。 Aspose.Imaging 提供了各種調整大小演算法，可讓您為特定任務選擇最合適的演算法。
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-使用 Aspose.Imaging 您可以輕鬆地將 **調整大小** 應用於不同的圖像格式 以編程方式
+使用 Python 的 Aspose.Imaging 庫，您可以透過程式設計輕鬆地對各種格式的圖像和照片執行 <b>調整大小</b> 操作。
 </p>
 <h3 style="margin-top:16px;">
-按圖像格式支持的 調整大小 操作的完整列表：
+從清單中為 調整大小 操作選擇影像格式：
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

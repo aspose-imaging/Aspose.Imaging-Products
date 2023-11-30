@@ -1,26 +1,26 @@
 ﻿---
-title: Beskära bilder Via python-net, alla bildformat som stöds 
+title: Beskära-bilder med Python 
 weight: 3920
 url: /sv/python-net/crop/ 
 lang: sv
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Med Aspose.Imaging kan du enkelt Beskära bilder via python-net
+description: Tillämpa Aspose.Imaging-biblioteket på Beskära-bilder och foton med dina egna Python-applikationer och server-API:er.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Bildfiler Beskära via python-net" h2="Beskära bilder" downloadText="Ladda ner" >}}
+{{< blocks/products/pf/feature-page-header h1="Använd Python för Beskära operation på bilder" h2="Beskära-bilder via dina egna Python-applikationer som använder Aspose.Imaging-biblioteket" downloadText="Ladda ner" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alla bilder format som stöds för operationen Beskära" %}}
+{{% blocks/products/pf/feature-page-section  h2="Använd åtgärden Beskära på alla tillgängliga bildformat" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Beskärning är processen att eliminera främmande element från ett fotografi eller en illustration. Tekniken innebär vanligtvis att en del av en bilds periferi tas bort för att eliminera ovidkommande visuell information från fotografiet, förbättra dess inramning, ändra bildförhållandet eller framhäva eller isolera motivet från dess omgivning. Detta kan göras digitalt genom att använda bildredigeringsprogram, eller så kan det göras på en riktig ögonblicksbild, ett konstverk eller en film, beroende på applikationen. Fotografi-, filmbearbetnings-, sändnings-, grafisk design- och tryckeriindustrin använder alla beskärning. Aspose.Imaging låter dig beskära bilder med angivna olika parametrar.
+Att beskära bilder är processen att ta bort onödiga delar från bilder eller foton. Som ett resultat av beskärningsoperationen kan en del av bildens periferi tas bort för att förbättra dess komposition, justera proportioner eller centrera huvudelementet. För att uppnå detta kan du använda specialiserad bildredigeringsprogramvara eller programmera beskärningsoperation på bilder, foton, landskap eller porträtt, beroende på dina specifika krav. Beskärning hittar omfattande tillämpningar inom fotografering, fotomanipulation, videoproduktion, grafisk design och tryckning. Med Aspose.Imaging-biblioteket kan du automatisera bildbeskärning med hjälp av anpassningsbara parametrar.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Med Aspose.Imaging kan du enkelt använda **Beskära** för olika bildformat programmatiskt
+Genom att använda Aspose.Imaging-biblioteket för Python kan du enkelt utföra <b>Beskära</b>-åtgärden för bilder och foton i olika format programmatiskt.
 </p>
 <h3 style="margin-top:16px;">
-Fullständig lista över Beskära-operationer som stöds efter bildformat:
+Välj ett bildformat från listan för åtgärden Beskära:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

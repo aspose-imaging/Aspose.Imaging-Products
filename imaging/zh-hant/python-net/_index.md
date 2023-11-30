@@ -9,7 +9,7 @@ description: Python 圖像處理和操作庫。 Aspose.Imaging for Python via .N
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1="Aspose.Imaging for Python 通過 .NET 庫和圖像處理 API" h2="無需任何圖像編輯器即可創建、加載、操作或轉換圖像。" downloadFreeTrialText="下載免費試用版" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-python-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/imaging/python-net/" >}}
+{{< blocks/products/pf/upper-banner h1="Aspose.Imaging for Python 通過 .NET 庫和圖像處理 API" h2="創建您自己的 Python 應用程式來操作映像，無需任何圖像編輯器" downloadFreeTrialText="下載免費試用版" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-python-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/imaging/python-net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Python" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-python-net.svg" 
@@ -19,42 +19,42 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
 
    <div class="col-lg-12">
     <h2 class="h2title">
-     使用 Aspose.Imaging for Python 釋放影像處理的全部潛力
+     使用 Aspose.Imaging for Python 應用圖像處理的所有功能
     </h2>
     <p align="justify">
-     Aspose.Imaging for Python 是一個使用者友善的函式庫，可為您提供進階影像處理功能。借助此多功能 API，您可以輕鬆建立、載入、操作、轉換和壓縮影像或照片，從而實現廣泛的影像處理功能，而無需專用的影像編輯器。
+     Aspose.Imaging for Python 是一個提供影像和照片處理進階功能的函式庫。借助此多功能 API，您可以自動載入、轉換、建立和操作圖像或照片，而無需專門的圖像編輯器。
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     發現主要特點：
+     使用主要功能：
     </h2>
     <p>
      <ul>
        <li>
-       影像轉換：輕鬆調整影像大小、裁切、翻轉、旋轉、二值化、灰階、糾偏和調整影像。
+       影像轉換：縮放、調整大小、裁切、旋轉、轉換為黑白或灰階、調整影像或照片的亮度、對比和伽瑪。
        </li>
        <li>
-       進階操作：應用濾鏡、Alpha 混合、魔棒工具、移除浮水印、去除背景、抖動和遮罩來控制您的影像處理任務。
+       進階操作：套用濾鏡、Alpha 混合、新增或刪除浮水印、變更背景、平滑影像、套用遮罩以及自動執行影像處理任務。
        </li>
        <li>
-       高效能記憶體優化：享受記憶體優化策略，確保平穩且有效率的影像處理。
+       記憶體優化：使用記憶體優化策略來確保快速且有效率的影像處理。
        </li>
        <li>
-       繪圖和圖形基元：利用繪圖工具的強大功能並使用圖形基元來增強您的專案。
+       繪圖和圖形基元：使用圖形基元的繪圖功能並套用具有不同字體樣式的文字。
        </li>
        <li>
-       匯出和轉換：無縫導出和轉換影像，包括統一的多頁影像處理。
+       圖片轉換：匯出圖片並轉換為其他格式，包括多頁圖片的統一處理。
        </li>
      </ul>
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     格式相容性
+     多種格式支援
     </h2>
     <p align="justify">
-     Aspose.Imaging for Python 不僅靈活穩定，而且用途廣泛。它支援最常用的圖像格式，並進一步提供對 DjVu、DICOM、WebP、EPS 和 DNG 等特殊格式的支援。這種廣泛的格式支援使其成為各種影像處理任務的首選解決方案。
+     支援各種格式 Aspose.Imaging for Python 以其穩定性、多功能性和功能性而聞名。它支援多種格式，包括 APNG、WebP、EPS、PDF 和 DICOM 等特殊格式。寬格式支援使其成為各種影像處理任務的理想解決方案。
     </p>
    </div>
    <div class="col-lg-12">
@@ -62,10 +62,10 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
      跨平台相容性
     </h2>
     <p align="justify">
-     Aspose.Imaging 是一個跨平台庫，確保與 Windows 和 Linux 環境相容。無論您使用的是 Windows 還是 Linux 系統，您都可以依靠 Aspose.Imaging 來提供一致、高品質的映像處理功能。
+     Aspose.Imaging 是一個通用函式庫，由於其跨平台相容性，可以在 Windows 和 Linux 作業系統上使用。您可以依靠Aspose.Imaging提供穩定且高品質的影像處理能力。
     </p>
     <p align="justify">
-     使用 Aspose.Imaging for Python 將您的映像處理項目提升到新的高度。立即體驗我們 API 的靈活性、穩定性和強大功能。
+     使用 Aspose.Imaging for Python 將影像處理品質提升到新的水平。立即使用我們的 API 並體驗其靈活性、穩定性和效能。
     </p>
    </div>
 
@@ -184,7 +184,19 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
-   
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    .NET Framework
+   </header>
+   <ul>
+    <li>
+     Windows 應用程序
+    </li>
+    <li>
+     ASP.NET 網絡應用程序
+    </li>
+   </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">

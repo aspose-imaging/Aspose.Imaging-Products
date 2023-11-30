@@ -1,26 +1,26 @@
 ﻿---
-title: 看圖 圖片通過 python-net，所有支持的圖片格式 
+title: 使用 Python 的 看圖 影像 
 weight: 3920
 url: /zh-hant/python-net/viewer/ 
 lang: zh-hant
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: 使用 Aspose.Imaging 你可以輕鬆地通過 python-net 獲取 看圖 圖像
+description: 使用您自己的 Python 應用程式和伺服器 API 將 Aspose.Imaging 庫套用至 看圖 圖像和照片。
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="圖片文件 看圖 來自 python-net" h2="看圖 圖片" downloadText="下載" >}}
+{{< blocks/products/pf/feature-page-header h1="使用 Python 對影像進行 看圖 操作" h2="使用 Aspose.Imaging 庫透過您自己的 Python 應用程式產生 看圖 映像" downloadText="下載" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="看圖 操作的所有支持格式 圖片" %}}
+{{% blocks/products/pf/feature-page-section  h2="將 看圖 操作套用至所有可用的圖片格式" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-當您需要查看格式不廣泛的圖像或照片時，您可以輕鬆預覽轉換為流行格式的圖像。使用 Aspose.Imaging，您可以查看不同的圖像文件，而無需安裝特定於不同圖像格式的特殊程序。
+如果您需要查看特定格式的圖像或照片，您可以輕鬆地將其轉換為作業系統支援的格式。使用 Aspose.Imaging，您可以查看各種圖像和照片文件，而無需為每種圖像格式安裝特定的程式。
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-使用 Aspose.Imaging 您可以輕鬆地將 **看圖** 應用於不同的圖像格式 以編程方式
+使用 Python 的 Aspose.Imaging 庫，您可以透過程式設計輕鬆地對各種格式的圖像和照片執行 <b>看圖</b> 操作。
 </p>
 <h3 style="margin-top:16px;">
-按圖像格式支持的 看圖 操作的完整列表：
+從清單中為 看圖 操作選擇影像格式：
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

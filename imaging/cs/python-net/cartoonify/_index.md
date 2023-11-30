@@ -1,26 +1,26 @@
 ﻿---
-title: Obrázky Cartoonify Prostřednictvím python-net, všechny podporované formáty obrázků 
+title: obrázky Cartoonify pomocí Python 
 weight: 3920
 url: /cs/python-net/cartoonify/ 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Pomocí Aspose.Imaging můžete snadno Cartoonify obrázky přes python-net
+description: Použití knihovny Aspose.Imaging na obrázky a fotografie Cartoonify pomocí vašich vlastních aplikací Python a serverových API.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Soubory obrázků Cartoonify prostřednictvím python-net" h2="obrázky Cartoonify" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Použijte Python pro operaci Cartoonify s obrázky" h2="Cartoonify Obrázky prostřednictvím vašich vlastních aplikací Python pomocí knihovny Aspose.Imaging" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované snímky formáty pro operaci Cartoonify" %}}
+{{% blocks/products/pf/feature-page-section  h2="Použijte operaci Cartoonify na všechny dostupné formáty obrázků" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Převod fotografie do karikatury je jednou z běžných operací mnoha umělců. Pomáhá získat kreslenou fotografii několika kliknutími, aniž byste museli provádět malování. Chcete rychle změnit standardní obrázek na kreslený obrázek? V tomto případě si můžete vyzkoušet, jak to funguje v knihovně Aspose.Imaging.
+Proces přeměny fotografií na obrázky ve stylu kreslených filmů, známý také jako cartoonify, je oblíbená technika, kterou návrháři používají k vytváření obrázků s efektem podobným kresleným filmům. Tato metoda umožňuje dosáhnout požadovaného obrazového efektu pouhými několika kliknutími, aniž byste museli kreslit. Pokud chcete rychle přeměnit běžný obrázek na obrázek ve stylu kresleného filmu, měli byste vyzkoušet nástroj, který poskytuje knihovna Aspose.Imaging.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Pomocí Aspose.Imaging můžete snadno použít **Cartoonify** pro různé formáty obrázků programově
+Pomocí knihovny Aspose.Imaging pro Python můžete snadno programově provést operaci <b>Cartoonify</b> pro obrázky a fotografie různých formátů.
 </p>
 <h3 style="margin-top:16px;">
-Úplný seznam podporovaných operací Cartoonify podle formátů obrázků:
+Vyberte ze seznamu formát obrázku pro operaci Cartoonify:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

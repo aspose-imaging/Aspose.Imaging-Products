@@ -1,26 +1,26 @@
 ﻿---
-title: Imágenes de Redimensionar A través de python-net, todos los formatos de imagen admitidos 
+title: Imágenes de Redimensionar usando Python 
 weight: 3920
 url: /es/python-net/resize/ 
 lang: es
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging puede fácilmente Redimensionar imágenes a través de python-net
+description: Aplicar la biblioteca Aspose.Imaging a imágenes y fotografías de Redimensionar utilizando sus propias aplicaciones Python y API de servidor.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Archivos de imagen Redimensionar a través de python-net" h2="Imágenes de Redimensionar" downloadText="Descargar" >}}
+{{< blocks/products/pf/feature-page-header h1="Utilice Python para la operación Redimensionar en imágenes" h2="Redimensionar Imágenes a través de sus propias aplicaciones Python utilizando la biblioteca Aspose.Imaging" downloadText="Descargar" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos los imágenes formatos admitidos para la operación Redimensionar" %}}
+{{% blocks/products/pf/feature-page-section  h2="Aplicar la operación Redimensionar a todos los formatos de imagen disponibles" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Puede cambiar el tamaño de una imagen para hacerla más grande o más pequeña sin tener que eliminar ningún contenido. Las dimensiones de la imagen cambian cuando se cambia el tamaño, lo que a menudo tiene un impacto en el tamaño del archivo y la calidad de la imagen. Reducir el tamaño de las imágenes grandes para que sea más fácil enviarlas por correo electrónico o compartirlas en línea es la justificación más popular para reducir el tamaño de las fotos. Las imágenes de gráficos rasterizados deben escalarse creando una nueva imagen con más o menos píxeles. Aspose.Imaging permite a los usuarios diferentes algoritmos de cambio de tamaño que permiten elegir lo necesario.
+Con Aspose.Imaging, puedes cambiar el tamaño de imágenes o fotografías sin perder información visual. Al ajustar el tamaño de la imagen, el peso del archivo cambia, lo que puede provocar una pérdida de calidad. Reducir el tamaño de las imágenes es la principal forma de enviarlas rápidamente por correo electrónico o descargarlas rápidamente desde un sitio de Internet. Al cambiar el tamaño de las imágenes rasterizadas, se crea una nueva imagen con menos o más píxeles, es decir, la imagen se escala. Aspose.Imaging proporciona varios algoritmos de cambio de tamaño, lo que le permite elegir el más adecuado para una tarea específica.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Usando Aspose.Imaging puede aplicar fácilmente **Redimensionar** para diferentes formatos de imagen programáticamente
+Usando la biblioteca Aspose.Imaging para Python, puede realizar fácilmente la operación <b>Redimensionar</b> para imágenes y fotografías de varios formatos mediante programación.
 </p>
 <h3 style="margin-top:16px;">
-Lista completa de operaciones {nombre de operación} admitidas por formatos de imagen:
+Seleccione un formato de imagen de la lista para la operación Redimensionar:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

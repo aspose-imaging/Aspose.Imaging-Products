@@ -1,26 +1,26 @@
 ﻿---
-title: gambar Tanda air Melalui python-net, semua format gambar yang didukung 
+title: gambar Tanda air menggunakan Python 
 weight: 3920
 url: /id/python-net/watermark/ 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Menggunakan Aspose.Imaging Anda dapat dengan mudah Tanda air gambar Via python-net
+description: Menerapkan pustaka Aspose.Imaging ke gambar dan foto Tanda air menggunakan aplikasi Python dan API server Anda sendiri.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="File gambar Tanda air melalui python-net" h2="gambar Tanda air" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Gunakan Python untuk Operasi Tanda air pada Gambar" h2="Tanda air Gambar melalui Aplikasi Python Anda Sendiri Menggunakan Perpustakaan Aspose.Imaging" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Semua gambar-gambar format yang didukung untuk operasi Tanda air" %}}
+{{% blocks/products/pf/feature-page-section  h2="Terapkan operasi Tanda air ke semua format gambar yang tersedia" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Watermark digital adalah jenis penandaan yang secara halus dimasukkan ke dalam sinyal yang dapat mentolerir noise, seperti data audio, video, atau gambar. Ini sering digunakan untuk menetapkan siapa yang memiliki hak cipta atas sinyal tertentu. Praktek watermarking melibatkan penyandian data digital menjadi sinyal pembawa; data yang disembunyikan harus, tetapi tidak perlu, terkait dengan sinyal pembawa. Keabsahan atau integritas sinyal pembawa dapat dikonfirmasi menggunakan tanda air digital, dan identitas pemiliknya juga dapat diungkapkan. Ini sering digunakan untuk otentikasi uang kertas dan untuk melacak pelanggaran hak cipta. Menggunakan Aspose.Imaging Anda dapat dengan mudah menambahkan tanda air ke gambar yang dipilih tanpa memerlukan banyak kode.
+Tanda air digital adalah jenis tanda semi-transparan unik yang diterapkan pada suatu gambar dan tetap terlihat meskipun gambar tersebut dimodifikasi. Teknik watermarking umumnya digunakan untuk menunjukkan kepemilikan atau sumber suatu gambar tertentu. Tanda air sering kali digunakan untuk verifikasi keaslian produk digital atau melindungi dari pelanggaran hak cipta. Dengan Aspose.Imaging, Anda dapat dengan mudah menambahkan tanda air khusus Anda sendiri ke gambar mana pun yang dipilih tanpa memerlukan pengkodean yang rumit atau perangkat lunak khusus.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Menggunakan Aspose.Imaging Anda dapat dengan mudah menerapkan **Tanda air** untuk berbagai format gambar secara terprogram
+Dengan menggunakan pustaka Aspose.Imaging untuk Python, Anda bisa dengan mudah melakukan operasi <b>Tanda air</b> untuk gambar dan foto dalam berbagai format secara terprogram.
 </p>
 <h3 style="margin-top:16px;">
-Daftar lengkap operasi Tanda air yang didukung menurut format gambar:
+Pilih format gambar dari daftar untuk operasi Tanda air:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

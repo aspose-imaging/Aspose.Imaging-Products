@@ -1,26 +1,26 @@
 ﻿---
-title: Dostosować obrazy Przez python-net, wszystkie obsługiwane formaty obrazów 
+title: Obrazy Dostosować przy użyciu języka Python 
 weight: 3920
 url: /pl/python-net/adjust/ 
 lang: pl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Używając Aspose.Imaging możesz łatwo Dostosować obrazy Via python-net
+description: Stosowanie biblioteki Aspose.Imaging do obrazów i zdjęć Dostosować przy użyciu własnych aplikacji Python i interfejsów API serwera.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Pliki obrazów Dostosować przez python-net" h2="Obrazy Dostosować" downloadText="Ściągnij" >}}
+{{< blocks/products/pf/feature-page-header h1="Użyj języka Python do operacji Dostosować na obrazach" h2="Obrazy Dostosować za pośrednictwem własnych aplikacji Python przy użyciu biblioteki Aspose.Imaging" downloadText="Ściągnij" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty operacji obrazy Dostosować" %}}
+{{% blocks/products/pf/feature-page-section  h2="Zastosuj operację Dostosować do wszystkich dostępnych formatów obrazów" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Jedną z głównych funkcji oferowanych przez większość bibliotek obrazowania jest korekcja kolorów zdjęć cyfrowych. Regulacja kolorów zawiera następujące kategorie: (1) Termin jasność opisuje, jak jasna lub ciemna jest barwa. Wszystkie kolory na obrazie są podświetlane, gdy jasność jest zwiększona, a wszystkie kolory są przyciemniane, gdy jasność jest zmniejszana; (2) Gdy obraz ma kontrast, znajdujące się na nim obiekty lub szczegóły są bardziej widoczne. Wraz ze wzrostem kontrastu zwiększa się różnica między jasnymi i ciemnymi częściami, dzięki czemu jasne obszary stają się jaśniejsze, a ciemne ciemniejsze. Jaśniejsze i ciemniejsze części zasadniczo pozostaną takie same z mniejszym kontrastem, ale ogólny obraz będzie wyglądał bardziej jednolicie; (3) Gamma zwiększa jasność i kontrast pośredniego oświetlenia, które oświetla obiekt na obrazie. Aspose.Imaging obsługuje regulację <b>Jasności</b>, <b>Gammy</b> i <b>Kontrastu</b> obrazów.
+Jedną z podstawowych funkcji biblioteki przetwarzania obrazów jest dostosowywanie informacji o kolorach cyfrowych obrazów i zdjęć. Ustawienia kolorów obejmują różne parametry: (1) <b>„Jasność”</b> wskazuje stopień jasności lub ciemności koloru. Zwiększenie jasności powoduje rozjaśnienie wszystkich kolorów obrazu, natomiast zmniejszenie jasności powoduje ich przyciemnienie. (2) Gdy obraz ma wysoki <b>„Kontrast”</b>, znajdujące się na nim obiekty lub szczegóły są bardziej uwydatnione. Zwiększanie kontrastu wzmacnia różnicę między jasnymi i ciemnymi obszarami, dzięki czemu jasne obszary stają się jeszcze jaśniejsze, a ciemne jeszcze ciemniejsze. W trakcie tego procesu jasne i ciemne obszary zachowują swoje względne odcienie, ale ogólnie obraz wydaje się bardziej jednolity. (3) <b>„Gamma”</b> dostosowuje jasność i kontrast oświetlenia pośredniego padającego na obiekt na obrazie lub zdjęciu. Aspose.Imaging umożliwia regulację jasności, gamma i kontrastu obrazów i zdjęć.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Używając Aspose.Imaging możesz łatwo zastosować **Dostosować** dla różnych formatów obrazów programowo
+Korzystając z biblioteki Aspose.Imaging dla języka Python, możesz łatwo programowo wykonać operację <b>Dostosować</b> na obrazach i zdjęciach w różnych formatach.
 </p>
 <h3 style="margin-top:16px;">
-Pełna lista obsługiwanych operacji Dostosować według formatów obrazu:
+Wybierz format obrazu z listy dla operacji Dostosować:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

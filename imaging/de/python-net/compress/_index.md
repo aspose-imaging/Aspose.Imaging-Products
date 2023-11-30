@@ -1,27 +1,26 @@
 ﻿---
-title: Kompresse-Bilder Über python-net alle unterstützten Bildformate 
+title: Kompresse-Bilder mit Python 
 weight: 3920
 url: /de/python-net/compress/ 
 lang: de
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Mit Aspose.Imaging können Sie ganz einfach Kompresse Bilder über python-net
+description: Anwenden der Aspose.Imaging-Bibliothek auf Kompresse-Bilder und Fotos mithilfe Ihrer eigenen Python-Anwendungen und Server-APIs.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Bilddateien Kompresse über python-net" h2="Kompresse Bilder" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Verwenden Sie Python für den Vorgang Kompresse für Bilder" h2="Kompresse-Bilder über Ihre eigenen Python-Anwendungen mithilfe der Aspose.Imaging-Bibliothek" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bilder Formate für den Vorgang Kompresse" %}}
+{{% blocks/products/pf/feature-page-section  h2="Wenden Sie den Vorgang Kompresse auf alle verfügbaren Bildformate an" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Bei der Bildkomprimierung handelt es sich um eine Art Datenkomprimierung, mit der die Kosten für die Speicherung oder Übertragung digitaler Fotos gesenkt werden. Im Vergleich zu allgemeinen Datenkomprimierungstechniken, die für andere digitale Daten verwendet werden, können Algorithmen von der visuellen Wahrnehmung und den statistischen Eigenschaften von Bilddaten profitieren.
-Mit Aspose.Imaging können Sie verschiedene Bildtypen komprimieren, die fast allen Ihren Anforderungen entsprechen.
+Verwenden Sie die Bildkomprimierung, um die Datenmenge zu verringern, die zum Speichern oder Senden digitaler Bilder verwendet wird. Im Gegensatz zu generischen Datenkomprimierungstechniken, die für andere Formen digitaler Informationen verwendet werden, berücksichtigen Bildkomprimierungsalgorithmen die statistischen Eigenschaften des Bildes und sind mit der visuellen Wahrnehmung der Informationen verbunden. Mithilfe der Aspose.Imaging-Bibliothek haben Sie die Möglichkeit, je nach Ihren spezifischen Anforderungen verschiedene Ebenen der Bildkomprimierung zu implementieren.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Mit Aspose.Imaging können Sie ganz einfach **Kompresse** für verschiedene Bildformate anwenden programmatisch
+Mit der Aspose.Imaging-Bibliothek für Python können Sie den Vorgang <b>Kompresse</b> problemlos programmgesteuert für Bilder und Fotos verschiedener Formate ausführen.
 </p>
 <h3 style="margin-top:16px;">
-Vollständige Liste der unterstützten Kompresse-Vorgänge nach Bildformaten:
+Wählen Sie ein Bildformat aus der Liste für den Vorgang Kompresse aus:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

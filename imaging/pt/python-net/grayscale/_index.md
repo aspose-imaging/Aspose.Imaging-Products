@@ -1,26 +1,26 @@
 ﻿---
-title: Imagens Escala de cinza Via python-net, todos os formatos de imagem suportados 
+title: Imagens de Escala de cinza usando Python 
 weight: 3920
 url: /pt/python-net/grayscale/ 
 lang: pt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging, você pode facilmente imagens Escala de cinza Via python-net
+description: Aplicando a biblioteca Aspose.Imaging a imagens e fotos de Escala de cinza usando seus próprios aplicativos Python e APIs de servidor.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Arquivos de imagem Escala de cinza via python-net" h2="Escala de cinza imagens" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Use Python para operação Escala de cinza em imagens" h2="Imagens de Escala de cinza por meio de seus próprios aplicativos Python usando a biblioteca Aspose.Imaging" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos os formatos suportados para a operação imagens Escala de cinza" %}}
+{{% blocks/products/pf/feature-page-section  h2="Aplique a operação Escala de cinza a todos os formatos de imagem disponíveis" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Uma imagem em tons de cinza é aquela em que o valor de cada pixel é uma única amostra indicando apenas uma quantidade de luz; ou seja, transmite apenas informações de intensidade. As imagens em tons de cinza são usadas em fotografia digital, imagens geradas por computador e colorimetria. Tons de cinza compõem apenas imagens em tons de cinza, uma espécie de preto e branco ou cinza monocromático. O preto tem o menor contraste, enquanto o branco tem o maior contraste. As imagens em tons de cinza são diferentes das imagens em preto e branco bitonais de um bit, que são imagens com apenas duas cores: preto e branco (também conhecidas como imagens de dois níveis ou binárias) no contexto de imagens de computador. Existem vários tons de cinza intermediários nas fotos em tons de cinza. Usando Aspose.Imaging, você pode escalar em tons de cinza suas imagens de diferentes formatos.
+Uma imagem representada em gradações de cinza é uma imagem onde cada pixel possui um valor que indica apenas a intensidade da luz. Assim, fornece informações apenas sobre o brilho. Conseqüentemente, o preto terá o brilho mais baixo, enquanto o branco terá o mais alto. Nas fotos em tons de cinza, você pode observar toda a escala de tons de cinza, do preto ao branco, enquanto as informações sobre a cor do pixel estão ausentes. A conversão de imagens em uma versão em escala de cinza é amplamente utilizada em fotografia digital e computação gráfica. Com Aspose.Imaging, você pode converter imagens coloridas e fotos em tons de cinza em vários formatos.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Usando o Aspose.Imaging, você pode facilmente aplicar **Escala de cinza** para diferentes formatos de imagem programaticamente
+Usando a biblioteca Aspose.Imaging para Python, você pode executar facilmente a operação <b>Escala de cinza</b> para imagens e fotos de vários formatos de forma programática.
 </p>
 <h3 style="margin-top:16px;">
-Lista completa de operações Escala de cinza suportadas por formatos de imagem:
+Selecione um formato de imagem na lista para a operação Escala de cinza:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

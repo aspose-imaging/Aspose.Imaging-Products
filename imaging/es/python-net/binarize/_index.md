@@ -1,26 +1,26 @@
 ﻿---
-title: Imágenes de binarizar A través de python-net, todos los formatos de imagen admitidos 
+title: Imágenes de binarizar usando Python 
 weight: 3920
 url: /es/python-net/binarize/ 
 lang: es
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging puede fácilmente binarizar imágenes a través de python-net
+description: Aplicar la biblioteca Aspose.Imaging a imágenes y fotografías de binarizar utilizando sus propias aplicaciones Python y API de servidor.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Archivos de imagen binarizar a través de python-net" h2="Imágenes de binarizar" downloadText="Descargar" >}}
+{{< blocks/products/pf/feature-page-header h1="Utilice Python para la operación binarizar en imágenes" h2="binarizar Imágenes a través de sus propias aplicaciones Python utilizando la biblioteca Aspose.Imaging" downloadText="Descargar" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos los imágenes formatos admitidos para la operación binarizar" %}}
+{{% blocks/products/pf/feature-page-section  h2="Aplicar la operación binarizar a todos los formatos de imagen disponibles" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-El primer plano y el fondo de una imagen se separan mediante una técnica denominada umbralización de imágenes. Este método asigna los valores de píxel de acuerdo con los valores de umbral dados. Las imágenes en escala de grises tienen un umbral en la visión artificial. Uno de los métodos más conocidos es la Binarización por <b>Otsu</b> y por <b>Bradley</b>. Aspose.Imaging admite ambos algoritmos. Usando esos algoritmos, sus imágenes se pueden convertir a blanco y negro con umbral.
+Al procesar imágenes, se aplica un método llamado binarización para convertir la imagen a un formato en blanco y negro utilizando un valor umbral específico. Este método implica asignar valores de píxeles según el valor de umbral dado. Cuando se trabaja con imágenes en escala de grises, es importante especificar un valor umbral para separar objetos mediante tecnología de visión por computadora. Hay varios métodos de conversión disponibles, como la binarización utilizando los métodos <b>Otsu</b> y <b>Bradley</b>, ambos compatibles con Aspose.Imaging. Al utilizar estos algoritmos, puede convertir sus imágenes a blanco y negro con un valor umbral específico.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Usando Aspose.Imaging puede aplicar fácilmente **binarizar** para diferentes formatos de imagen programáticamente
+Usando la biblioteca Aspose.Imaging para Python, puede realizar fácilmente la operación <b>binarizar</b> para imágenes y fotografías de varios formatos mediante programación.
 </p>
 <h3 style="margin-top:16px;">
-Lista completa de operaciones {nombre de operación} admitidas por formatos de imagen:
+Seleccione un formato de imagen de la lista para la operación binarizar:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

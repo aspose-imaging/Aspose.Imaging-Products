@@ -1,26 +1,26 @@
 ﻿---
-title: Filter images Via python-net, all supported image formats 
+title: Filter images using Python 
 weight: 3920
 url: /python-net/filter/ 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Using Aspose.Imaging you can easily Filter images Via python-net
+description: Applying Aspose.Imaging library to Filter images and photos using your own Python applications and server APIs.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Image files Filter via python-net" h2="Filter images" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Use Python for Filter Operation on Images" h2="Filter Images via Your Own Python Applications Using the Aspose.Imaging Library" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="All supported image formats for Filter operation" %}}
+{{% blocks/products/pf/feature-page-section  h2="Apply the Filter operation to all available image formats" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-In photography and cinematography, a filter is a camera accessory consisting of an optical filter that can be inserted into the optical path. The filter can be of a square or oblong shape and mounted in a holder accessory, or, more commonly, a glass or plastic disk in a metal or plastic ring frame, which can be screwed into the front of or clipped onto the camera lens. Filters alter the recorded images. They are utilized to alter photographs sometimes very little, and other times they are completely necessary for the creation of the image. In monochrome photography, colored filters change the relative brightness of various colors; red lipstick might seem anywhere between nearly white and nearly black depending on the filter used. Others adjust the image's color balance so that shots taken in incandescent illumination display colors as they are perceived rather than with a reddish tinge. There are filters that purposefully distort the image, adding a starry look to an otherwise sharp image, etc. Oblique reflections from non-metallic surfaces are reduced using linear and circular polarizing filters. Aspose.Imaging supports such filters as Gaussian Blur, Sharpen, Median Filter, Motion Weiner and many others.
+In photography and video production, a filter is an additional camera accessory that includes an optical filter which can be inserted into the optical path. It can be a square or rectangular semi-transparent glass and is attached to the front of the camera lens. Filters alter the captured image. In monochrome photography, color filters change the brightness of different colors; depending on the filter used, a green apple can appear almost white or almost black. Other filters adjust the color balance of the image to accurately represent the perceived colors under daylight lamp lighting, rather than with a cold tone. There are also filters that intentionally distort the image, giving a blurred look to a sharp image. Linear and circular polarizing filters reduce the glare from reflective surfaces. Aspose.Imaging supports various filters such as Gauss-Wiener Filter, Bilateral Smoothing, Median Filter, Motion Weiner, Blur, Sharpen, and others.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Using Aspose.Imaging you can easily apply <b>Filter</b> for different image formats programmatically
+Using the Aspose.Imaging library for Python, you can easily perform the <b>Filter</b> operation for images and photos of various formats programmatically.
 </p>
 <h3 style="margin-top:16px;">
-Full list of supported Filter operations by image formats:
+Select an image format from the list for the Filter operation:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

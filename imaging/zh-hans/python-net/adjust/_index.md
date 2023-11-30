@@ -1,26 +1,26 @@
 ﻿---
-title: 调整 图片通过 python-net，所有支持的图片格式 
+title: 使用 Python 的 调整 图像 
 weight: 3920
 url: /zh-hans/python-net/adjust/ 
 lang: zh-hans
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: 使用 Aspose.Imaging 你可以轻松地通过 python-net 获取 调整 图像
+description: 使用您自己的 Python 应用程序和服务器 API 将 Aspose.Imaging 库应用于 调整 图像和照片。
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="图片文件 调整 来自 python-net" h2="调整 图片" downloadText="下载" >}}
+{{< blocks/products/pf/feature-page-header h1="使用 Python 对图像进行 调整 操作" h2="使用 Aspose.Imaging 库通过您自己的 Python 应用程序生成 调整 图像" downloadText="下载" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="调整 操作的所有支持格式图片" %}}
+{{% blocks/products/pf/feature-page-section  h2="将 调整 操作应用于所有可用的图像格式" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-大多数图像库提供的主要功能之一是数码照片的色彩校正。颜色调整包含以下几个类别： (1) 术语亮度描述色调的明暗程度。当亮度增加时，图像中的所有颜色都会变亮，当亮度降低时，所有颜色都会变暗； (2) 当图像有反差时，图像中的物体或细节更突出。当对比度增加时，其亮部和暗部之间的差异会增加，使亮部更亮，暗部更暗。较亮和较暗的部分基本上保持不变，对比度较低，但整体图像看起来更均匀； (3) Gamma 增强图像中物体的间接照明的亮度和对比度。 Aspose.Imaging支持调整图像的<b>Brightness</b>、<b>Gamma</b>和<b>Contrast</b>。
+图像处理库的主要功能之一是调整数字图像和照片的颜色信息。颜色设置包括各种参数： (1)<b>“亮度”</b>表示颜色的明暗程度。增加亮度会使图像中的所有颜色变浅，而降低亮度会使它们变暗。 (2) 当图像的<b>“对比度”</b>较高时，图像中的物体或细节会更加突出。增加对比度会放大亮区和暗区之间的区别，使亮区更亮，暗区更暗。在整个过程中，亮区和暗区保持其相对色调，但总体而言，图像显得更加均匀。 (3) <b>“伽玛”</b>调整落在图像或照片中的物体上的间接照明的亮度和对比度。 Aspose.Imaging 允许调整图像和照片的亮度、伽玛和对比度。
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-使用 Aspose.Imaging 您可以轻松地将 **调整** 应用于不同的图像格式 以编程方式
+使用 Python 的 Aspose.Imaging 库，您可以通过编程轻松地对各种格式的图像和照片执行 <b>调整</b> 操作。
 </p>
 <h3 style="margin-top:16px;">
-按图像格式支持的 调整 操作的完整列表：
+从列表中为 调整 操作选择图像格式：
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

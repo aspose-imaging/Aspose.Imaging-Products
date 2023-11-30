@@ -1,26 +1,26 @@
 ﻿---
-title: Graustufen-Bilder Über python-net alle unterstützten Bildformate 
+title: Graustufen-Bilder mit Python 
 weight: 3920
 url: /de/python-net/grayscale/ 
 lang: de
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Mit Aspose.Imaging können Sie ganz einfach Graustufen Bilder über python-net
+description: Anwenden der Aspose.Imaging-Bibliothek auf Graustufen-Bilder und Fotos mithilfe Ihrer eigenen Python-Anwendungen und Server-APIs.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Bilddateien Graustufen über python-net" h2="Graustufen Bilder" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Verwenden Sie Python für den Vorgang Graustufen für Bilder" h2="Graustufen-Bilder über Ihre eigenen Python-Anwendungen mithilfe der Aspose.Imaging-Bibliothek" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bilder Formate für den Vorgang Graustufen" %}}
+{{% blocks/products/pf/feature-page-section  h2="Wenden Sie den Vorgang Graustufen auf alle verfügbaren Bildformate an" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Bei einem Graustufenbild handelt es sich um ein Bild, bei dem der Wert jedes Pixels ein einzelnes Muster ist, das nur eine Lichtmenge angibt; das heißt, es übermittelt nur Intensitätsinformationen. Graustufenbilder werden in der digitalen Fotografie, computergenerierten Bildgebung und Farbmetrik verwendet. Graustufen bilden nur Graustufenbilder, eine Art Schwarzweiß- oder Grau-Monochrombild. Schwarz hat den geringsten Kontrast, während Weiß den höchsten Kontrast aufweist. Graustufenbilder unterscheiden sich von bitonalen Ein-Bit-Schwarzweißbildern, bei denen es sich um Bilder mit nur zwei Farben handelt: Schwarzweiß (im Kontext der Computerbildgebung auch als Bilevel- oder Binärbilder bezeichnet). Bei Graustufenfotos gibt es zahlreiche Grauabstufungen dazwischen. Mit Aspose.Imaging können Sie Ihre Bilder in verschiedenen Formaten grauskalieren.
+Ein in Grauabstufungen dargestelltes Bild ist ein Bild, bei dem jedes Pixel einen Wert hat, der nur die Lichtintensität angibt. Somit gibt es nur Informationen über die Helligkeit. Dementsprechend hat Schwarz die geringste Helligkeit, während Weiß die höchste hat. In Graustufenfotos können Sie die gesamte Graustufenskala von Schwarz bis Weiß beobachten, während Informationen über die Pixelfarbe fehlen. Das Konvertieren von Bildern in eine Graustufenversion wird in der digitalen Fotografie und Computergrafik häufig verwendet. Mit Aspose.Imaging können Sie Farbbilder und Fotos in Graustufen in verschiedenen Formaten konvertieren.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Mit Aspose.Imaging können Sie ganz einfach **Graustufen** für verschiedene Bildformate anwenden programmatisch
+Mit der Aspose.Imaging-Bibliothek für Python können Sie den Vorgang <b>Graustufen</b> problemlos programmgesteuert für Bilder und Fotos verschiedener Formate ausführen.
 </p>
 <h3 style="margin-top:16px;">
-Vollständige Liste der unterstützten Graustufen-Vorgänge nach Bildformaten:
+Wählen Sie ein Bildformat aus der Liste für den Vorgang Graustufen aus:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

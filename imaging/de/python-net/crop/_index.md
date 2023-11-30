@@ -1,26 +1,26 @@
 ﻿---
-title: Ernte-Bilder Über python-net alle unterstützten Bildformate 
+title: Ernte-Bilder mit Python 
 weight: 3920
 url: /de/python-net/crop/ 
 lang: de
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Mit Aspose.Imaging können Sie ganz einfach Ernte Bilder über python-net
+description: Anwenden der Aspose.Imaging-Bibliothek auf Ernte-Bilder und Fotos mithilfe Ihrer eigenen Python-Anwendungen und Server-APIs.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Bilddateien Ernte über python-net" h2="Ernte Bilder" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Verwenden Sie Python für den Vorgang Ernte für Bilder" h2="Ernte-Bilder über Ihre eigenen Python-Anwendungen mithilfe der Aspose.Imaging-Bibliothek" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bilder Formate für den Vorgang Ernte" %}}
+{{% blocks/products/pf/feature-page-section  h2="Wenden Sie den Vorgang Ernte auf alle verfügbaren Bildformate an" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Beim Zuschneiden werden überflüssige Elemente aus einem Foto oder einer Illustration entfernt. Bei dieser Technik wird typischerweise ein Teil der Bildperipherie entfernt, um überflüssige visuelle Informationen aus dem Foto zu entfernen, den Bildausschnitt zu verbessern, das Seitenverhältnis zu ändern oder das Motiv hervorzuheben oder von seiner Umgebung zu isolieren. Dies kann je nach Anwendung digital mithilfe einer Bildbearbeitungssoftware oder anhand eines echten Schnappschusses, Kunstwerks oder Films erfolgen. Die Foto-, Filmverarbeitungs-, Rundfunk-, Grafikdesign- und Druckindustrie nutzt das Zuschneiden. Mit Aspose.Imaging können Sie Bilder mit bestimmten verschiedenen Parametern zuschneiden.
+Beim Zuschneiden von Bildern werden unnötige Teile aus Bildern oder Fotos entfernt. Als Ergebnis des Bildzuschneidevorgangs kann ein Teil des Bildrands entfernt werden, um seine Komposition zu verbessern, Proportionen anzupassen oder das Hauptelement zu zentrieren. Um dies zu erreichen, können Sie je nach Ihren spezifischen Anforderungen eine spezielle Bildbearbeitungssoftware verwenden oder den Zuschneidevorgang programmgesteuert auf die Bilder, Fotos, Landschaften oder Porträts anwenden. Zuschneiden findet umfangreiche Anwendungen in der Fotografie, Fotomanipulation, Videoproduktion, Grafikdesign und Druck. Mit der Aspose.Imaging-Bibliothek können Sie das Zuschneiden von Bildern mithilfe anpassbarer Parameter automatisieren.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Mit Aspose.Imaging können Sie ganz einfach **Ernte** für verschiedene Bildformate anwenden programmatisch
+Mit der Aspose.Imaging-Bibliothek für Python können Sie den Vorgang <b>Ernte</b> problemlos programmgesteuert für Bilder und Fotos verschiedener Formate ausführen.
 </p>
 <h3 style="margin-top:16px;">
-Vollständige Liste der unterstützten Ernte-Vorgänge nach Bildformaten:
+Wählen Sie ein Bildformat aus der Liste für den Vorgang Ernte aus:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

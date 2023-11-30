@@ -1,26 +1,26 @@
 ﻿---
-title: Images Tremblement Via python-net, tous les formats d'image pris en charge 
+title: Images Tremblement utilisant Python 
 weight: 3920
 url: /fr/python-net/dither/ 
 lang: fr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: En utilisant Aspose.Imaging, vous pouvez facilement Tremblement images Via python-net
+description: Application de la bibliothèque Aspose.Imaging aux images et photos Tremblement à l'aide de vos propres applications Python et API de serveur.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Fichiers image Tremblement via python-net" h2="images de Tremblement" downloadText="Télécharger" >}}
+{{< blocks/products/pf/feature-page-header h1="Utilisez Python pour l'opération Tremblement sur les images" h2="Images Tremblement via vos propres applications Python à l'aide de la bibliothèque Aspose.Imaging" downloadText="Télécharger" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tous les images formats pris en charge pour l'opération Tremblement" %}}
+{{% blocks/products/pf/feature-page-section  h2="Appliquer l'opération Tremblement à tous les formats d'image disponibles" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-En infographie , le tramage est utilisé pour donner l'apparence de la profondeur de couleur dans les images sur des systèmes avec une palette de couleurs contrainte. Une diffusion de pixels colorés à partir de la palette disponible est utilisée dans une image tramée pour approximer les couleurs qui ne sont pas présentes dans la palette.La diffusion apparaît à l'œil humain comme un mélange des couleurs qu'il contient. Les photographies tramées sont souvent identifiables par un grain distinctif ou un aspect moucheté, en particulier lors de l'utilisation de palettes avec peu de couleurs. Le tramage ajoute du bruit ou un motif à une image, et le motif est souvent évident. Il a été démontré que dans ces conditions, le tramage produit par le bruit bleu est le moins gênant et inesthétique. Aspose.Imaging permet de tramer vos images avec quelques algorithmes que vous pouvez sélectionner selon vos besoins.
+Le tramage dans le domaine de l'infographie est utilisé par les concepteurs pour obtenir un effet de couleur plus prononcé dans les systèmes dotés d'une palette de couleurs limitée. Dans une image lissée, les pixels de couleur de la palette disponible sont utilisés pour se rapprocher des couleurs manquantes, créant ainsi l'impression d'un mélange de couleurs. Souvent, vous pouvez remarquer un grain distinct ou un motif de points sur ces photos, en particulier lorsque vous utilisez des palettes avec un nombre limité de couleurs. L'opération de tramage est appliquée pour ajouter du bruit ou des motifs à l'image, et ce motif est souvent facilement visible. Il a été démontré que dans de tels cas, l’utilisation du bruit bleu pour le tramage est la plus optimale. Aspose.Imaging permet le lissage des images à l'aide de divers algorithmes qui peuvent être sélectionnés en fonction de vos préférences.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-En utilisant Aspose.Imaging, vous pouvez facilement appliquer **Tremblement** pour différents formats d'image par programmation
+À l’aide de la bibliothèque Aspose.Imaging pour Python, vous pouvez facilement effectuer l’opération <b>Tremblement</b> pour des images et des photos de différents formats par programme.
 </p>
 <h3 style="margin-top:16px;">
-Liste complète des opérations Tremblement prises en charge par formats d'image :
+Sélectionnez un format d'image dans la liste pour l'opération Tremblement:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

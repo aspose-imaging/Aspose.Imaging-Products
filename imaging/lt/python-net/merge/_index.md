@@ -1,26 +1,26 @@
 ﻿---
-title: Sujungti vaizdai Per python-net, visi palaikomi vaizdo formatai 
+title: Sujungti vaizdai naudojant Python 
 weight: 3920
 url: /lt/python-net/merge/ 
 lang: lt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Naudodami Aspose.Imaging galite lengvai sukurti Sujungti vaizdus per python-net
+description: Aspose.Imaging bibliotekos taikymas Sujungti vaizdams ir nuotraukoms naudojant savo Python programas ir serverio API.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Vaizdo failai Sujungti per python-net" h2="Sujungti vaizdai" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Naudokite Python Sujungti operacijai su vaizdais" h2="Sujungti vaizdai per savo Python programas naudojant Aspose.Imaging biblioteką" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Sujungti attēlus formatai" %}}
+{{% blocks/products/pf/feature-page-section  h2="Taikykite operaciją Sujungti visiems galimiems vaizdo formatams" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Vaizdų sujungimo funkcija leidžia sujungti 2 ar daugiau vaizdų į vieną vertikaliai arba horizontaliai neprarandant kokybės. Nuotraukų koliažas – tai naujos nuotraukos ar vaizdo kūrimas sujungiant kelis vaizdus, ​​kartais nesusijusius viena su kita nuotraukomis. Fotografo pageidaujamas efektas sukuriamas uždedant vieną vaizdą ant kito arba sujungiant daug (daugiau nei 2) vaizdų į vieną visumą, kartais chaotiškai naudojant skirtingus fotografinius vaizdus (pavyzdžiui, dėlionę ar mozaiką). Aspose.Imaging leidžia kurti įvairius koliažus naudojant daugybę failų formatų.
+Vaizdų sujungimas yra metodas, leidžiantis sujungti du ar daugiau vaizdų į vieną kompoziciją nepakenkiant kokybei. Kuriant nuotraukų koliažą reikia sujungti kelias nuotraukas, dažnai su bendra tema ar objektu. Tai galima pasiekti sudėjus vieną vaizdą ant kito arba sklandžiai sujungiant kelis vaizdus į grandininį vertikaliai arba horizontaliai. Naudodami skirtingus nuotraukų fragmentus galite sukurti vizualiai patrauklius tapetus, galvosūkius ar mozaikas. Aspose.Imaging siūlo universalų sprendimą kurti koliažus, neatsižvelgiant į naudojamus failų formatus, todėl galite išsaugoti kūrinius įvairiais formatais, įskaitant kelių puslapių parinktis.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Naudodami Aspose.Imaging galite lengvai pritaikyti **Sujungti** skirtingiems vaizdo formatams programmatiski
+Naudodami Aspose.Imaging biblioteką, skirtą Python, galite lengvai atlikti <b>Sujungti</b> operaciją įvairių formatų vaizdams ir nuotraukoms programiškai.
 </p>
 <h3 style="margin-top:16px;">
-Visas palaikomų operacijų Sujungti sąrašas pagal vaizdo formatus:
+Iš sąrašo pasirinkite vaizdo formatą operacijai Sujungti:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

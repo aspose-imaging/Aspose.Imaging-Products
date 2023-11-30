@@ -1,26 +1,26 @@
 ﻿---
-title: İkilileştir görüntüleri python-net aracılığıyla, desteklenen tüm görüntü biçimleri 
+title: Python kullanan İkilileştir görselleri 
 weight: 3920
 url: /tr/python-net/binarize/ 
 lang: tr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging'i kullanarak, python-net Aracılığıyla kolayca İkilileştir görüntüleri oluşturabilirsiniz
+description: Kendi Python uygulamalarınızı ve sunucu API'lerinizi kullanarak Aspose.Imaging kitaplığını İkilileştir görsellerine ve fotoğraflarına uygulama.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="python-net aracılığıyla İkilileştir görüntü dosyaları" h2="İkilileştir görselleri" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1="Görsellerde İkilileştir İşlemi için Python kullanın" h2="Aspose.Imaging Kütüphanesini Kullanarak Kendi Python Uygulamalarınız Üzerinden İkilileştir Görselleri" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="İkilileştir işlemi Görüntüler için desteklenen tüm biçimler" %}}
+{{% blocks/products/pf/feature-page-section  h2="İkilileştir işlemini mevcut tüm resim formatlarına uygulayın" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Bir görüntünün ön planı ve arka planı, görüntü eşikleme adı verilen bir teknik kullanılarak ayrılır. Bu yöntem, piksel değerlerini verilen eşik değerlerine göre atar. Gri tonlamalı görüntüler, bilgisayar görüşünde eşiklenir. En bilinen yöntemlerden biri, <b>Otsu</b> ve <b>Bradley</b> tarafından geliştirilen Binarizasyondur. Aspose.Imaging her iki algoritmayı da destekler. Bu algoritmaları kullanarak resimleriniz eşik ile siyah beyaza dönüştürülebilir.
+Görüntüleri işlerken, görüntüyü belirli bir eşik değeri kullanarak siyah beyaz formata dönüştürmek için ikilileştirme adı verilen bir yöntem uygulanır. Bu yöntem, verilen eşik değerine göre piksel değerlerinin atanmasını içerir. Gri tonlamalı görüntülerle çalışırken bilgisayarlı görme teknolojisini kullanarak nesneleri ayırmak için bir eşik değeri belirlemek önemlidir. Her ikisi de Aspose.Imaging tarafından desteklenen <b>Otsu</b> ve <b>Bradley</b> yöntemini kullanan ikilileştirme gibi çeşitli dönüştürme yöntemleri mevcuttur. Bu algoritmalardan yararlanarak görsellerinizi belirlenen eşik değeriyle siyah beyaza dönüştürebilirsiniz.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Aspose.Imaging'i kullanarak farklı görüntü formatları için **İkilileştir** işlemini kolayca uygulayabilirsiniz programlı olarak
+Python için Aspose.Imaging kütüphanesini kullanarak, çeşitli formatlardaki görüntüler ve fotoğraflar için <b>İkilileştir</b> işlemini programlı olarak kolayca gerçekleştirebilirsiniz.
 </p>
 <h3 style="margin-top:16px;">
-Görüntü biçimlerine göre desteklenen {işlem adı} işlemlerinin tam listesi:
+İkilileştir işlemi için listeden bir görüntü formatı seçin:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

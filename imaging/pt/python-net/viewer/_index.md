@@ -1,26 +1,26 @@
 ﻿---
-title: Imagens Ver imagem Via python-net, todos os formatos de imagem suportados 
+title: Imagens de Ver imagem usando Python 
 weight: 3920
 url: /pt/python-net/viewer/ 
 lang: pt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging, você pode facilmente imagens Ver imagem Via python-net
+description: Aplicando a biblioteca Aspose.Imaging a imagens e fotos de Ver imagem usando seus próprios aplicativos Python e APIs de servidor.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Arquivos de imagem Ver imagem via python-net" h2="Ver imagem imagens" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Use Python para operação Ver imagem em imagens" h2="Imagens de Ver imagem por meio de seus próprios aplicativos Python usando a biblioteca Aspose.Imaging" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos os formatos suportados para a operação imagens Ver imagem" %}}
+{{% blocks/products/pf/feature-page-section  h2="Aplique a operação Ver imagem a todos os formatos de imagem disponíveis" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Quando você precisar visualizar sua imagem ou foto que não possui um formato amplamente preenchido, você pode visualizá-la facilmente convertida para um formato popular. Usando o Aspose.Imaging, você pode visualizar diferentes arquivos de imagem sem instalar programas especiais específicos para diferentes formatos de imagem.
+Se precisar visualizar uma imagem ou foto em um formato específico, você pode convertê-la facilmente para o formato compatível com seu sistema operacional. Com Aspose.Imaging, você pode visualizar uma ampla variedade de arquivos de imagens e fotos sem precisar instalar programas específicos para cada formato de imagem.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Usando o Aspose.Imaging, você pode facilmente aplicar **Ver imagem** para diferentes formatos de imagem programaticamente
+Usando a biblioteca Aspose.Imaging para Python, você pode executar facilmente a operação <b>Ver imagem</b> para imagens e fotos de vários formatos de forma programática.
 </p>
 <h3 style="margin-top:16px;">
-Lista completa de operações Ver imagem suportadas por formatos de imagem:
+Selecione um formato de imagem na lista para a operação Ver imagem:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

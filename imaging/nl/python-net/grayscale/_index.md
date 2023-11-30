@@ -1,26 +1,26 @@
 ﻿---
-title: Grijstinten afbeeldingen Via python-net, alle ondersteunde afbeeldingsformaten 
+title: Grijstinten afbeeldingen met Python 
 weight: 3920
 url: /nl/python-net/grayscale/ 
 lang: nl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Met behulp van Aspose.Imaging kunt u eenvoudig Grijstinten afbeeldingen maken via python-net
+description: Aspose.Imaging-bibliotheek toepassen op Grijstinten afbeeldingen en foto's met behulp van uw eigen Python-applicaties en server-API's.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Afbeeldingsbestanden Grijstinten via python-net" h2="Grijstinten afbeeldingen" downloadText="Downloaden" >}}
+{{< blocks/products/pf/feature-page-header h1="Gebruik Python voor bewerking van Grijstinten op afbeeldingen" h2="Grijstinten Afbeeldingen via uw eigen Python-applicaties met behulp van de Aspose.Imaging-bibliotheek" downloadText="Downloaden" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde indelingen voor de bewerking afbeeldingen Grijstinten" %}}
+{{% blocks/products/pf/feature-page-section  h2="Pas de bewerking Grijstinten toe op alle beschikbare afbeeldingsformaten" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Een afbeelding in grijswaarden is een afbeelding waarin de waarde van elke pixel een enkel monster is dat alleen een hoeveelheid licht aangeeft; dat wil zeggen, het brengt alleen intensiteitsinformatie over. Afbeeldingen in grijswaarden worden gebruikt in digitale fotografie, computergegenereerde beeldvorming en colorimetrie. Grijstinten vormen alleen afbeeldingen in grijswaarden, een soort zwart-wit of grijs monochroom. Zwart heeft het laagste contrast terwijl wit het meeste contrast heeft. Afbeeldingen in grijstinten onderscheiden zich van één-bits tweekleurige zwart-witafbeeldingen, dit zijn afbeeldingen met slechts twee kleuren: zwart-wit (ook bekend als bilevel- of binaire afbeeldingen) in de context van computerbeeldvorming. Er zitten talloze grijstinten tussen in grijswaardenfoto's. Met Aspose.Imaging kunt u uw afbeeldingen in verschillende formaten grijstinten maken.
+Een afbeelding weergegeven in grijsgradaties is een afbeelding waarbij elke pixel een waarde heeft die alleen de lichtintensiteit aangeeft. Het geeft dus alleen informatie over de helderheid. Dienovereenkomstig zal zwart de laagste helderheid hebben, terwijl wit de hoogste helderheid zal hebben. In grijstintenfoto's kun je de hele schaal van grijstinten van zwart tot wit waarnemen, terwijl de informatie over pixelkleur ontbreekt. Het omzetten van afbeeldingen naar een grijswaardenversie wordt veel gebruikt in digitale fotografie en computergraphics. Met Aspose.Imaging kunt u kleurenafbeeldingen en foto's omzetten in grijstinten in verschillende formaten.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Met Aspose.Imaging kunt u eenvoudig **Grijstinten** toepassen voor verschillende afbeeldingsformaten programmatisch
+Met behulp van de Aspose.Imaging-bibliotheek voor Python kunt u eenvoudig de bewerking <b>Grijstinten</b> programmatisch uitvoeren voor afbeeldingen en foto's van verschillende formaten.
 </p>
 <h3 style="margin-top:16px;">
-Volledige lijst met ondersteunde Grijstinten-bewerkingen per afbeeldingsindeling:
+Selecteer een afbeeldingsformaat uit de lijst voor de bewerking Grijstinten:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

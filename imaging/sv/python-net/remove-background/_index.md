@@ -1,26 +1,26 @@
 ﻿---
-title: Ta bort bakgrund bilder Via python-net, alla bildformat som stöds 
+title: Ta bort bakgrund-bilder med Python 
 weight: 3920
 url: /sv/python-net/remove-background/ 
 lang: sv
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Med Aspose.Imaging kan du enkelt Ta bort bakgrund bilder via python-net
+description: Tillämpa Aspose.Imaging-biblioteket på Ta bort bakgrund-bilder och foton med dina egna Python-applikationer och server-API:er.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Bildfiler Ta bort bakgrund via python-net" h2="Ta bort bakgrund bilder" downloadText="Ladda ner" >}}
+{{< blocks/products/pf/feature-page-header h1="Använd Python för Ta bort bakgrund operation på bilder" h2="Ta bort bakgrund-bilder via dina egna Python-applikationer som använder Aspose.Imaging-biblioteket" downloadText="Ladda ner" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alla bilder format som stöds för operationen Ta bort bakgrund" %}}
+{{% blocks/products/pf/feature-page-section  h2="Använd åtgärden Ta bort bakgrund på alla tillgängliga bildformat" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Ta bort bakgrund är en operation som gör att du enkelt kan ta bort bakgrund från dina foton eller bilder. Som ett resultat av bakgrundsborttagning kan du få genomskinlig bakgrund och sätta förgrunden till en annan bakgrund. Med Aspose.Imaging kan du prova olika algoritmer för borttagning av bakgrund som kan passa dina behov för olika bilder.
+Genom att ta bort bakgrunden kan du enkelt ta bort bakgrunden från foton eller bilder. Denna process resulterar i föremål som människofigurer med en transparent bakgrund. Därefter kan du enkelt överföra dessa objekt till en annan bild med en annan bakgrund. Genom att använda Aspose.Imaging har du möjlighet att experimentera med olika bakgrundsborttagningsalgoritmer som är lämpliga för olika typer av bilder, beroende på hur komplex din uppgift är.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Med Aspose.Imaging kan du enkelt använda **Ta bort bakgrund** för olika bildformat programmatiskt
+Genom att använda Aspose.Imaging-biblioteket för Python kan du enkelt utföra <b>Ta bort bakgrund</b>-åtgärden för bilder och foton i olika format programmatiskt.
 </p>
 <h3 style="margin-top:16px;">
-Fullständig lista över Ta bort bakgrund-operationer som stöds efter bildformat:
+Välj ett bildformat från listan för åtgärden Ta bort bakgrund:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

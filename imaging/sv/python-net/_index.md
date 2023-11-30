@@ -9,7 +9,7 @@ description: Python Bildbehandlings- och manipulationsbibliotek. Aspose.Imaging 
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1="Aspose.Imaging för Python via .NET-bibliotek och API för bildbehandling" h2="Skapa, ladda, manipulera eller konvertera bilder utan att behöva någon bildredigerare." downloadFreeTrialText="Ladda ner gratis provversion" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-python-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/imaging/python-net/" >}}
+{{< blocks/products/pf/upper-banner h1="Aspose.Imaging för Python via .NET-bibliotek och API för bildbehandling" h2="Skapa dina egna Python-applikationer för att manipulera bilder utan att behöva någon bildredigerare" downloadFreeTrialText="Ladda ner gratis provversion" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-python-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/imaging/python-net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Python" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-python-net.svg" 
@@ -19,42 +19,42 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
 
    <div class="col-lg-12">
     <h2 class="h2title">
-     Lås upp hela potentialen för bildbehandling med Aspose.Imaging för Python
+     Tillämpa alla funktioner för bildbehandling med Aspose.Imaging för Python
     </h2>
     <p align="justify">
-     Aspose.Imaging för Python är ett användarvänligt bibliotek som ger dig avancerade bildbehandlingsmöjligheter. Med detta mångsidiga API kan du enkelt skapa, ladda, manipulera, konvertera och komprimera bilder eller foton, vilket möjliggör ett brett utbud av bildbehandlingsfunktioner utan att behöva en dedikerad bildredigerare.
+     Aspose.Imaging for Python är ett bibliotek som erbjuder avancerade funktioner för bild- och fotobehandling. Med detta mångsidiga API kan du automatiskt ladda, konvertera, skapa och manipulera bilder eller foton utan behov av specialiserade bildredigerare.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Upptäck nyckelfunktioner:
+     Använd nyckelfunktionerna:
     </h2>
     <p>
      <ul>
        <li>
-       Bildomvandling: Ändra storlek, beskära, vänd, rotera, binarisera, gråskala, snedställa och justera bilder med lätthet.
+       Bildomvandling: skala, ändra storlek, beskära, rotera, konvertera till svartvitt eller gråskala, justera ljusstyrka, kontrast och gamma för bilder eller foton.
        </li>
        <li>
-       Avancerad manipulering: Använd filter, alfablandning, trollstavsverktyg, ta bort vattenstämpel, ta bort bakgrund, rastning och maskering för att ta kontroll över dina bildbehandlingsuppgifter.
+       Avancerade manipulationer: tillämpa filter, alfablandning, lägg till eller ta bort vattenstämplar, ändra bakgrunder, jämna ut bilder, applicera masker och automatisera bildbehandlingsuppgifter.
        </li>
        <li>
-       Effektiv minnesoptimering: Njut av minnesoptimeringsstrategier som säkerställer smidig och effektiv bildbehandling.
+       Minnesoptimering: använd minnesoptimeringsstrategier som säkerställer snabb och effektiv bildbehandling.
        </li>
        <li>
-       Ritning och grafiska primitiver: Utnyttja kraften i ritverktyg och arbeta med grafiska primitiver för att förbättra dina projekt.
+       Rita och grafiska primitiver: använd ritfunktioner för grafiska primitiver och tillämpa text med olika typsnittsstilar.
        </li>
        <li>
-       Exportera och konvertera: Exportera och konvertera bilder sömlöst, inklusive enhetlig flersidig bildbehandling.
+       Bildkonvertering: exportera bilder med konvertering till andra format, inklusive enhetlig bearbetning av flersidiga bilder.
        </li>
      </ul>
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Formatkompatibilitet
+     Stöd för olika format
     </h2>
     <p align="justify">
-     Aspose.Imaging för Python är inte bara flexibel och stabil utan också mångsidig. Den stöder de vanligaste bildformaten, och den går ett steg längre genom att tillhandahålla stöd för specialformat som DjVu, DICOM, WebP, EPS och DNG. Detta omfattande formatstöd gör det till din bästa lösning för ett brett utbud av bildbehandlingsuppgifter.
+     Stöd för olika format Aspose.Imaging för Python kännetecknas av dess stabilitet, mångsidighet och funktionalitet. Den stöder ett brett utbud av format, inklusive specialformat som APNG, WebP, EPS, PDF och DICOM. Stödet för brett format gör den till en idealisk lösning för ett brett utbud av bildbehandlingsuppgifter.
     </p>
    </div>
    <div class="col-lg-12">
@@ -62,10 +62,10 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
      Cross-Platform-kompatibilitet
     </h2>
     <p align="justify">
-     Aspose.Imaging är ett plattformsoberoende bibliotek som säkerställer kompatibilitet med både Windows- och Linux-miljöer. Oavsett om du arbetar på ett Windows- eller Linux-system kan du lita på att Aspose.Imaging levererar konsekventa bildbehandlingsmöjligheter av hög kvalitet.
+     Aspose.Imaging är ett universellt bibliotek som kan användas på både Windows och Linux operativsystem tack vare dess plattformsoberoende kompatibilitet. Du kan lita på att Aspose.Imaging tillhandahåller stabila och högkvalitativa bildbehandlingsmöjligheter.
     </p>
     <p align="justify">
-     Lyft dina bildbehandlingsprojekt till nya höjder med Aspose.Imaging för Python. Upplev flexibiliteten, stabiliteten och kraften i vårt API idag.
+     Uppnå en ny kvalitetsnivå inom bildbehandling med Aspose.Imaging för Python. Använd vårt API idag och upplev dess flexibilitet, stabilitet och prestanda.
     </p>
    </div>
 
@@ -184,7 +184,19 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
-   
+   <header>
+    <i class="fa fa-kuber">
+    </i>
+    .NET Framework
+   </header>
+   <ul>
+    <li>
+     Windows-applikation
+    </li>
+    <li>
+     ASP.NET webbapplikation
+    </li>
+   </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">

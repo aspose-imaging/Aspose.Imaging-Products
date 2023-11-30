@@ -1,26 +1,26 @@
 ﻿---
-title: Vattenstämpel bilder Via python-net, alla bildformat som stöds 
+title: Vattenstämpel-bilder med Python 
 weight: 3920
 url: /sv/python-net/watermark/ 
 lang: sv
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Med Aspose.Imaging kan du enkelt Vattenstämpel bilder via python-net
+description: Tillämpa Aspose.Imaging-biblioteket på Vattenstämpel-bilder och foton med dina egna Python-applikationer och server-API:er.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Bildfiler Vattenstämpel via python-net" h2="Vattenstämpel bilder" downloadText="Ladda ner" >}}
+{{< blocks/products/pf/feature-page-header h1="Använd Python för Vattenstämpel operation på bilder" h2="Vattenstämpel-bilder via dina egna Python-applikationer som använder Aspose.Imaging-biblioteket" downloadText="Ladda ner" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alla bilder format som stöds för operationen Vattenstämpel" %}}
+{{% blocks/products/pf/feature-page-section  h2="Använd åtgärden Vattenstämpel på alla tillgängliga bildformat" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-En digital vattenstämpel är en typ av märkning som är subtilt inkorporerad i en signal som kan tolerera brus, som ljud-, video- eller bilddata. Det används ofta för att fastställa vem som äger upphovsrätten till en viss signal. Utövandet av vattenmärke involverar kodning av digital data till en bärsignal; den dolda datan bör, men behöver inte, relateras till bärvågssignalen. Bärsignalens legitimitet eller integritet kan bekräftas med hjälp av digitala vattenstämplar, och deras ägares identiteter kan också avslöjas. Det används ofta för sedelautentisering och för att spåra upphovsrättsintrång. Med Aspose.Imaging kan du enkelt lägga till din vattenstämpel till den valda bilden utan att behöva mycket kod.
+En digital vattenstämpel är en unik typ av halvtransparent markering som appliceras på en bild och förblir synlig även om bilden ändras. Vattenmärkningsteknik används vanligtvis för att indikera äganderätt eller källa till en viss bild. Vattenstämplar används ofta för äkthetsverifiering av digitala produkter eller för att skydda mot upphovsrättsintrång. Med Aspose.Imaging kan du enkelt lägga till din egen anpassade vattenstämpel till valfri bild utan behov av komplex kodning eller specialiserad programvara.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Med Aspose.Imaging kan du enkelt använda **Vattenstämpel** för olika bildformat programmatiskt
+Genom att använda Aspose.Imaging-biblioteket för Python kan du enkelt utföra <b>Vattenstämpel</b>-åtgärden för bilder och foton i olika format programmatiskt.
 </p>
 <h3 style="margin-top:16px;">
-Fullständig lista över Vattenstämpel-operationer som stöds efter bildformat:
+Välj ett bildformat från listan för åtgärden Vattenstämpel:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

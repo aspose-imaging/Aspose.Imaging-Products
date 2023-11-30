@@ -1,26 +1,26 @@
 ﻿---
-title: Imagens Colheita Via python-net, todos os formatos de imagem suportados 
+title: Imagens de Colheita usando Python 
 weight: 3920
 url: /pt/python-net/crop/ 
 lang: pt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging, você pode facilmente imagens Colheita Via python-net
+description: Aplicando a biblioteca Aspose.Imaging a imagens e fotos de Colheita usando seus próprios aplicativos Python e APIs de servidor.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Arquivos de imagem Colheita via python-net" h2="Colheita imagens" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Use Python para operação Colheita em imagens" h2="Imagens de Colheita por meio de seus próprios aplicativos Python usando a biblioteca Aspose.Imaging" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos os formatos suportados para a operação imagens Colheita" %}}
+{{% blocks/products/pf/feature-page-section  h2="Aplique a operação Colheita a todos os formatos de imagem disponíveis" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Cortar é o processo de eliminar elementos estranhos de uma fotografia ou ilustração. A técnica normalmente envolve a remoção de uma parte da periferia de uma imagem para eliminar informações visuais estranhas da fotografia, aprimorar seu enquadramento, alterar a proporção ou enfatizar ou isolar o assunto de seus arredores. Isso pode ser feito digitalmente, utilizando um software de edição de imagem, ou pode ser feito em um instantâneo real, obra de arte ou pedaço de filme, dependendo do aplicativo. As indústrias fotográfica, de processamento de filmes, transmissão, design gráfico e impressão usam o corte. Aspose.Imaging permite cortar imagens com vários parâmetros especificados.
+Cortar imagens é o processo de remoção de partes desnecessárias de imagens ou fotos. Como resultado da operação de corte da imagem, uma parte da periferia da imagem pode ser removida para melhorar sua composição, ajustar proporções ou centralizar o elemento principal. Para conseguir isso, você pode utilizar um software especializado de edição de imagens ou aplicar programaticamente a operação de corte às imagens, fotos, paisagens ou retratos, dependendo de seus requisitos específicos. O corte encontra amplas aplicações em fotografia, manipulação de fotos, produção de vídeo, design gráfico e impressão. Com a biblioteca Aspose.Imaging, você pode automatizar o corte de imagens usando parâmetros personalizáveis.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Usando o Aspose.Imaging, você pode facilmente aplicar **Colheita** para diferentes formatos de imagem programaticamente
+Usando a biblioteca Aspose.Imaging para Python, você pode executar facilmente a operação <b>Colheita</b> para imagens e fotos de vários formatos de forma programática.
 </p>
 <h3 style="margin-top:16px;">
-Lista completa de operações Colheita suportadas por formatos de imagem:
+Selecione um formato de imagem na lista para a operação Colheita:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

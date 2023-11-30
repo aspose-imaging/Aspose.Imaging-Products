@@ -1,26 +1,26 @@
 ﻿---
-title: Rimuovi lo sfondo immagini Tramite python-net, tutti i formati immagine supportati 
+title: Immagini Rimuovi lo sfondo utilizzando Python 
 weight: 3920
 url: /it/python-net/remove-background/ 
 lang: it
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging puoi facilmente Rimuovi lo sfondo immagini tramite python-net
+description: Applicazione della libreria Aspose.Imaging alle immagini e alle foto di Rimuovi lo sfondo utilizzando le tue applicazioni Python e le API del server.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="File immagine Rimuovi lo sfondo tramite python-net" h2="Rimuovi lo sfondo immagini" downloadText="Scarica" >}}
+{{< blocks/products/pf/feature-page-header h1="Utilizza Python per l'operazione Rimuovi lo sfondo sulle immagini" h2="Immagini Rimuovi lo sfondo tramite le tue applicazioni Python utilizzando la libreria Aspose.Imaging" downloadText="Scarica" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tutti i immagini formati supportati per l'operazione Rimuovi lo sfondo" %}}
+{{% blocks/products/pf/feature-page-section  h2="Applica l'operazione Rimuovi lo sfondo a tutti i formati di immagine disponibili" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Rimuovi sfondo è un'operazione che ti consente di rimuovere facilmente lo sfondo dalle tue foto o immagini. Come risultato della rimozione dello sfondo è possibile ottenere uno sfondo trasparente e mettere in primo piano un altro sfondo. Usando Aspose.Imaging puoi provare diversi algoritmi di rimozione dello sfondo che potrebbero soddisfare le tue esigenze per immagini diverse.
+Utilizzando l'operazione di rimozione dello sfondo, puoi rimuovere facilmente lo sfondo da foto o immagini. Questo processo si traduce in oggetti come figure umane con uno sfondo trasparente. Successivamente, potrai facilmente trasferire questi oggetti su un'altra immagine con uno sfondo diverso. Utilizzando Aspose.Imaging, hai la possibilità di sperimentare vari algoritmi di rimozione dello sfondo adatti a diversi tipi di immagini, a seconda della complessità del tuo compito.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Usando Aspose.Imaging puoi facilmente applicare **Rimuovi lo sfondo** per diversi formati di immagine programmaticamente
+Utilizzando la libreria Aspose.Imaging per Python, puoi facilmente eseguire l'operazione <b>Rimuovi lo sfondo</b> per immagini e foto di vari formati a livello di codice.
 </p>
 <h3 style="margin-top:16px;">
-Elenco completo delle operazioni Rimuovi lo sfondo supportate per formati immagine:
+Seleziona un formato immagine dall'elenco per l'operazione Rimuovi lo sfondo:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

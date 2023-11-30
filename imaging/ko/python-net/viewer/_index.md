@@ -1,26 +1,26 @@
 ﻿---
-title: 이미지 보기 이미지 python-net을 통해 지원되는 모든 이미지 형식 
+title: Python을 사용하는 이미지 보기 이미지 
 weight: 3920
 url: /ko/python-net/viewer/ 
 lang: ko
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging을 사용하면 python-net을 통해 쉽게 이미지 보기 이미지를 만들 수 있습니다.
+description: 자체 Python 애플리케이션 및 서버 API를 사용하여 Aspose.Imaging 라이브러리를 이미지 보기 이미지 및 사진에 적용합니다.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="python-net을 통한 이미지 파일 이미지 보기" h2="{작업 이름} 이미지" downloadText="다운로드" >}}
+{{< blocks/products/pf/feature-page-header h1="이미지에 대한 이미지 보기 작업에 Python 사용" h2="Aspose.Imaging 라이브러리를 사용하여 자체 Python 애플리케이션을 통한 이미지 보기 이미지" downloadText="다운로드" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="이미지 보기 작업에 대해 지원되는 모든 형식 이미지" %}}
+{{% blocks/products/pf/feature-page-section  h2="사용 가능한 모든 이미지 형식에 이미지 보기 작업을 적용합니다." %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-널리 사용되는 형식이 아닌 이미지나 사진을 볼 필요가 있을 때 널리 사용되는 형식으로 변환된 것을 쉽게 미리 볼 수 있습니다. Aspose.Imaging을 사용하면 다양한 이미지 형식에 특화된 특수 프로그램을 설치하지 않고도 다양한 이미지 파일을 볼 수 있습니다.
+특정 형식의 이미지나 사진을 보려면 운영 체제에서 지원하는 형식으로 쉽게 변환할 수 있습니다. Aspose.Imaging을 사용하면 이미지 형식별 특정 프로그램을 설치하지 않고도 다양한 이미지 및 사진 파일을 볼 수 있습니다.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Aspose.Imaging을 사용하면 다양한 이미지 형식에 **이미지 보기** 을(를) 쉽게 적용할 수 있습니다 프로그래밍 방식으로. 
+Python용 Aspose.Imaging 라이브러리를 사용하면 다양한 형식의 이미지와 사진에 대한 <b>이미지 보기</b> 작업을 프로그래밍 방식으로 쉽게 수행할 수 있습니다.
 </p>
 <h3 style="margin-top:16px;">
-이미지 형식별로 지원되는 이미지 보기 작업의 전체 목록:
+이미지 보기 작업에 대한 목록에서 이미지 형식을 선택하세요.
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,26 +1,26 @@
 ﻿---
-title: Pakeisti dydį vaizdai Per python-net, visi palaikomi vaizdo formatai 
+title: Pakeisti dydį vaizdai naudojant Python 
 weight: 3920
 url: /lt/python-net/resize/ 
 lang: lt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Naudodami Aspose.Imaging galite lengvai sukurti Pakeisti dydį vaizdus per python-net
+description: Aspose.Imaging bibliotekos taikymas Pakeisti dydį vaizdams ir nuotraukoms naudojant savo Python programas ir serverio API.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Vaizdo failai Pakeisti dydį per python-net" h2="Pakeisti dydį vaizdai" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Naudokite Python Pakeisti dydį operacijai su vaizdais" h2="Pakeisti dydį vaizdai per savo Python programas naudojant Aspose.Imaging biblioteką" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Pakeisti dydį attēlus formatai" %}}
+{{% blocks/products/pf/feature-page-section  h2="Taikykite operaciją Pakeisti dydį visiems galimiems vaizdo formatams" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Galite pakeisti vaizdo dydį, kad jis būtų didesnis arba mažesnis, nepašalindami jokio turinio. Vaizdo matmenys keičiami, kai keičiamas jo dydis, o tai dažnai turi įtakos failo dydžiui ir vaizdo kokybei. Didžiulių nuotraukų dydžio sumažinimas, kad jas būtų lengviau išsiųsti el. paštu ar bendrinti internete, yra populiariausias nuotraukų susitraukimo pateisinimas. Rastrinės grafikos vaizdai turi būti keičiami sukuriant naują vaizdą su daugiau ar mažiau pikselių. Aspose.Imaging leidžia vartotojams skirtingus dydžio keitimo algoritmus, kurie leidžia pasirinkti reikiamą.
+Naudodami Aspose.Imaging galite pakeisti vaizdų ar nuotraukų dydį neprarasdami vaizdinės informacijos. Reguliuojant vaizdo dydį, keičiasi jo failo svoris, todėl gali sumažėti kokybė. Vaizdų dydžio sumažinimas yra pagrindinis būdas greitai išsiųsti el. paštu arba greitai atsisiųsti iš interneto svetainės. Keičiant rastrinių vaizdų dydį, sukuriamas naujas vaizdas su mažiau arba daugiau pikselių, t. y. keičiamas vaizdo mastelis. Aspose.Imaging pateikia įvairius dydžio keitimo algoritmus, leidžiančius pasirinkti tinkamiausią konkrečiai užduočiai atlikti.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Naudodami Aspose.Imaging galite lengvai pritaikyti **Pakeisti dydį** skirtingiems vaizdo formatams programmatiski
+Naudodami Aspose.Imaging biblioteką, skirtą Python, galite lengvai atlikti <b>Pakeisti dydį</b> operaciją įvairių formatų vaizdams ir nuotraukoms programiškai.
 </p>
 <h3 style="margin-top:16px;">
-Visas palaikomų operacijų Pakeisti dydį sąrašas pagal vaizdo formatus:
+Iš sąrašo pasirinkite vaizdo formatą operacijai Pakeisti dydį:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,26 +1,26 @@
 ﻿---
-title: 二値化 画像 python-net 経由、サポートされているすべての画像形式 
+title: Python を使用した 二値化 イメージ 
 weight: 3920
 url: /ja/python-net/binarize/ 
 lang: ja
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging を使用すると、python-net 経由で簡単に 二値化 イメージを作成できます
+description: 独自の Python アプリケーションとサーバー API を使用して、Aspose.Imaging ライブラリを 二値化 の画像と写真に適用します。
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="python-net経由の画像ファイル二値化" h2="{操作名} 画像" downloadText="ダウンロード" >}}
+{{< blocks/products/pf/feature-page-header h1="画像に対する 二値化 オペレーションには Python を使用します" h2="Aspose.Imaging ライブラリを使用した独自の Python アプリケーションによる 二値化 イメージ" downloadText="ダウンロード" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="二値化 操作でサポートされているすべての形式 画像" %}}
+{{% blocks/products/pf/feature-page-section  h2="二値化 オペレーションを使用可能なすべての画像形式に適用します" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-画像の前景と背景は、画像のしきい値処理と呼ばれる技術を使用して分離されます。この方法では、指定されたしきい値に従ってピクセル値が割り当てられます。グレースケール画像はコンピュータ ビジョンでしきい値処理されます。最もよく知られている方法の 1 つは<b>Otsu</b>と<b>Bradley</b>による 2 値化です。 Aspose.Imaging は両方のアルゴリズムをサポートしています。これらのアルゴリズムを使用すると、画像をしきい値を使用して白黒に変換できます。
+画像を処理する場合、指定されたしきい値を使用して画像を白黒形式に変換する二値化と呼ばれる方法が適用されます。この方法では、指定されたしきい値に基づいてピクセル値を割り当てます。グレースケール イメージを操作する場合、コンピューター ビジョン テクノロジを使用してオブジェクトを分離するためのしきい値を指定することが重要です。 <b>Otsu</b> メソッドや <b>Bradley</b> メソッドを使用した 2 値化など、さまざまな変換メソッドが利用できます。どちらも Aspose.Imaging でサポートされています。これらのアルゴリズムを利用すると、指定したしきい値で画像を白黒に変換できます。
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Aspose.Imaging を使用すると、さまざまな画像フォーマットに **二値化** を簡単に適用できます プログラム的に
+Python の Aspose.Imaging ライブラリを使用すると、さまざまな形式の画像や写真に対する <b>二値化</b> 操作をプログラムで簡単に実行できます。
 </p>
 <h3 style="margin-top:16px;">
-画像形式ごとにサポートされている 二値化 操作の完全なリスト:
+二値化 オペレーションのリストから画像形式を選択します。
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

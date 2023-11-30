@@ -1,26 +1,26 @@
 ﻿---
-title: hình ảnh Trồng trọt Qua python-net, tất cả các định dạng hình ảnh được hỗ trợ 
+title: Hình ảnh Trồng trọt sử dụng Python 
 weight: 3920
 url: /vi/python-net/crop/ 
 lang: vi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng Trồng trọt hình ảnh qua python-net
+description: Áp dụng thư viện Aspose.Imaging cho hình ảnh và ảnh Trồng trọt bằng ứng dụng Python và API máy chủ của riêng bạn.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Tệp hình ảnh Trồng trọt qua python-net" h2="Trồng trọt hình ảnh" downloadText="Tải xuống" >}}
+{{< blocks/products/pf/feature-page-header h1="Sử dụng Python cho thao tác Trồng trọt trên hình ảnh" h2="Hình ảnh Trồng trọt qua Ứng dụng Python của riêng bạn bằng Thư viện Aspose.Imaging" downloadText="Tải xuống" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tất cả các hình ảnh định dạng được hỗ trợ cho thao tác Trồng trọt" %}}
+{{% blocks/products/pf/feature-page-section  h2="Áp dụng thao tác Trồng trọt cho tất cả các định dạng hình ảnh có sẵn" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Cắt xén là quá trình loại bỏ các yếu tố không liên quan khỏi ảnh hoặc hình minh họa. Kỹ thuật này thường đòi hỏi phải loại bỏ một phần ngoại vi của hình ảnh để loại bỏ thông tin hình ảnh không liên quan khỏi ảnh, nâng cao khung hình, thay đổi tỷ lệ khung hình hoặc nhấn mạnh hoặc cô lập đối tượng khỏi môi trường xung quanh. Điều này có thể được thực hiện bằng kỹ thuật số bằng cách sử dụng phần mềm chỉnh sửa hình ảnh hoặc có thể được thực hiện trên ảnh chụp nhanh, tác phẩm nghệ thuật hoặc đoạn phim thực, tùy thuộc vào ứng dụng. Các ngành công nghiệp nhiếp ảnh, xử lý phim, phát sóng, thiết kế đồ họa và in ấn đều sử dụng phương pháp cắt xén. Aspose.Imaging cho phép bạn cắt hình ảnh với các thông số khác nhau được chỉ định.
+Cắt ảnh là quá trình loại bỏ những phần không cần thiết khỏi hình ảnh hoặc ảnh chụp. Do thao tác cắt hình ảnh, một phần ngoại vi của hình ảnh có thể được loại bỏ để cải thiện bố cục, điều chỉnh tỷ lệ hoặc căn giữa phần tử chính. Để đạt được điều này, bạn có thể sử dụng phần mềm chỉnh sửa hình ảnh chuyên dụng hoặc áp dụng thao tác cắt xén theo chương trình cho hình ảnh, ảnh chụp phong cảnh hoặc chân dung, tùy thuộc vào yêu cầu cụ thể của bạn. Cắt xén tìm thấy các ứng dụng rộng rãi trong nhiếp ảnh, xử lý ảnh, sản xuất video, thiết kế đồ họa và in ấn. Với thư viện Aspose.Imaging, bạn có thể tự động cắt xén hình ảnh bằng các tham số có thể tùy chỉnh.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Sử dụng Aspose.Imaging, bạn có thể dễ dàng áp dụng **Trồng trọt** cho các định dạng hình ảnh khác nhau lập trình
+Bằng cách sử dụng thư viện Aspose.Imaging cho Python, bạn có thể dễ dàng thực hiện thao tác <b>Trồng trọt</b> đối với hình ảnh và ảnh chụp ở nhiều định dạng khác nhau theo chương trình.
 </p>
 <h3 style="margin-top:16px;">
-Danh sách đầy đủ các thao tác Trồng trọt được hỗ trợ theo định dạng hình ảnh:
+Chọn định dạng hình ảnh từ danh sách cho thao tác Trồng trọt:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

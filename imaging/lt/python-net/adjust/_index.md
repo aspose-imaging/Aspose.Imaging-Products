@@ -1,26 +1,26 @@
 ﻿---
-title: Sureguliuoti vaizdai Per python-net, visi palaikomi vaizdo formatai 
+title: Sureguliuoti vaizdai naudojant Python 
 weight: 3920
 url: /lt/python-net/adjust/ 
 lang: lt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Naudodami Aspose.Imaging galite lengvai sukurti Sureguliuoti vaizdus per python-net
+description: Aspose.Imaging bibliotekos taikymas Sureguliuoti vaizdams ir nuotraukoms naudojant savo Python programas ir serverio API.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Vaizdo failai Sureguliuoti per python-net" h2="Sureguliuoti vaizdai" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Naudokite Python Sureguliuoti operacijai su vaizdais" h2="Sureguliuoti vaizdai per savo Python programas naudojant Aspose.Imaging biblioteką" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Sureguliuoti attēlus formatai" %}}
+{{% blocks/products/pf/feature-page-section  h2="Taikykite operaciją Sureguliuoti visiems galimiems vaizdo formatams" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Viena iš pagrindinių daugelio vaizdų bibliotekų siūlomų funkcijų yra skaitmeninių nuotraukų spalvų korekcija. Spalvų koregavimas apima kelias kategorijas: (1) Terminas ryškumas apibūdina atspalvio šviesumą ar tamsumą. Padidinus ryškumą visos vaizdo spalvos apšviečiamos, o sumažinus ryškumą visos spalvos patamsėja; (2) Kai vaizdas turi kontrastą, jame esantys objektai ar detalės išsiskiria labiau. Padidinus kontrastą, didėja skirtumas tarp šviesių ir tamsių dalių, todėl šviesios sritys tampa šviesesnės, o tamsios – tamsesnės. Šviesesnės ir tamsesnės dalys iš esmės išliks tokios pačios su mažesniu kontrastu, tačiau bendras vaizdas atrodys vienodesnis; (3) Gama padidina netiesioginio apšvietimo, kuris apšviečia objektą vaizde, ryškumą ir kontrastą. „Aspose.Imaging“ palaiko vaizdų <b>ryškumo</b>, <b>gama</b> ir <b>kontrasto</b> reguliavimą.
+Viena iš pagrindinių vaizdo apdorojimo bibliotekos funkcijų yra reguliuoti skaitmeninių vaizdų ir nuotraukų spalvų informaciją. Spalvų nustatymai apima įvairius parametrus: (1) <b>"Šviesumas"</b> nurodo spalvos šviesumo arba tamsumo laipsnį. Padidinus ryškumą visos vaizdo spalvos tampa šviesesnės, o sumažinus ryškumą – tamsesnės. (2) Kai vaizde yra didelis <b>kontrastas</b>, jame esantys objektai ar detalės yra labiau pabrėžiami. Padidinus kontrastą, išryškėja šviesių ir tamsių sričių skirtumas, todėl šviesios sritys tampa dar šviesesnės, o tamsios – dar tamsesnės. Viso šio proceso metu šviesios ir tamsios sritys išlaiko savo santykinius atspalvius, tačiau apskritai vaizdas atrodo vienodesnis. (3) <b>Gama“</b> reguliuoja netiesioginio apšvietimo, krentančio ant objekto vaizde arba nuotraukoje, ryškumą ir kontrastą. Aspose.Imaging leidžia reguliuoti vaizdų ir nuotraukų ryškumą, gama ir kontrastą.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Naudodami Aspose.Imaging galite lengvai pritaikyti **Sureguliuoti** skirtingiems vaizdo formatams programmatiski
+Naudodami Aspose.Imaging biblioteką, skirtą Python, galite lengvai atlikti <b>Sureguliuoti</b> operaciją įvairių formatų vaizdams ir nuotraukoms programiškai.
 </p>
 <h3 style="margin-top:16px;">
-Visas palaikomų operacijų Sureguliuoti sąrašas pagal vaizdo formatus:
+Iš sąrašo pasirinkite vaizdo formatą operacijai Sureguliuoti:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

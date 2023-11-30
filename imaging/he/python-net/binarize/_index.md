@@ -1,26 +1,26 @@
 ﻿---
-title: תמונות בינאריזה דרך python-net, כל פורמטי התמונה הנתמכים 
+title: תמונות בינאריזה באמצעות Python 
 weight: 3920
 url: /he/python-net/binarize/ 
 lang: he
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: באמצעות Aspose.Imaging תוכל בקלות בינאריזה תמונות באמצעות python-net
+description: החלת ספריית Aspose.Imaging על תמונות ותמונות של בינאריזה באמצעות יישומי Python וממשקי API משלך של שרת.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="קבצי תמונה בינאריזה באמצעות python-net" h2="תמונות בינאריזה" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="השתמש ב-Python עבור פעולת בינאריזה בתמונות" h2="תמונות בינאריזה באמצעות יישומי Python משלך באמצעות ספריית Aspose.Imaging" downloadText="הורד" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="כל הפורמטים  תמונות הנתמכים עבור פעולת בינאריזה" %}}
+{{% blocks/products/pf/feature-page-section  h2="החל את פעולת בינאריזה על כל פורמטי התמונה הזמינים" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-החזית והרקע של תמונה מופרדים באמצעות טכניקה הנקראת סף תמונה. שיטה זו מקצה את ערכי הפיקסלים בהתאם לערכי הסף הנתונים. תמונות בגווני אפור נמצאות בסף בראייה ממוחשבת. אחת השיטות הידועות ביותר הן בינאריזציה על ידי <b>Otsu</b> ועל ידי <b>Bradley</b>. Aspose.Imaging תומך בשני האלגוריתמים. באמצעות אלגוריתמים אלה ניתן להמיר את התמונות שלך לשחור ולבן עם סף.
+בעת עיבוד תמונות, מיושמת שיטה הנקראת בינאריזציה כדי להמיר את התמונה לפורמט שחור ולבן באמצעות ערך סף מוגדר. שיטה זו כוללת הקצאת ערכי פיקסל על סמך ערך הסף הנתון. כאשר עובדים עם תמונות בגווני אפור, חשוב לציין ערך סף להפרדת אובייקטים באמצעות טכנולוגיית ראייה ממוחשבת. קיימות שיטות המרה שונות זמינות, כגון בינאריזציה באמצעות שיטת <b>Otsu</b> ו<b>ברדלי</b>, שתיהן נתמכות על ידי Aspose.Imaging. על ידי שימוש באלגוריתמים אלה, אתה יכול להמיר את התמונות שלך לשחור לבן עם ערך סף מוגדר.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-באמצעות Aspose.Imaging אתה יכול בקלות להחיל את **בינאריזה** עבור פורמטים שונים של תמונה באופן תוכניתי
+באמצעות ספריית Aspose.Imaging עבור Python, אתה יכול לבצע בקלות את פעולת <b>בינאריזה</b> עבור תמונות ותמונות בפורמטים שונים באופן פרוגרמטי.
 </p>
 <h3 style="margin-top:16px;">
-רשימה מלאה של פעולות בינאריזה נתמכות לפי פורמטים של תמונה:
+בחר פורמט תמונה מהרשימה עבור הפעולה בינאריזה:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

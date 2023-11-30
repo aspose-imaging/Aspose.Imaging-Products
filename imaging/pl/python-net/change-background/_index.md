@@ -1,26 +1,26 @@
 ﻿---
-title: Zmień tło obrazy Przez python-net, wszystkie obsługiwane formaty obrazów 
+title: Obrazy Zmień tło przy użyciu języka Python 
 weight: 3920
 url: /pl/python-net/change-background/ 
 lang: pl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Używając Aspose.Imaging możesz łatwo Zmień tło obrazy Via python-net
+description: Stosowanie biblioteki Aspose.Imaging do obrazów i zdjęć Zmień tło przy użyciu własnych aplikacji Python i interfejsów API serwera.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Pliki obrazów Zmień tło przez python-net" h2="Obrazy Zmień tło" downloadText="Ściągnij" >}}
+{{< blocks/products/pf/feature-page-header h1="Użyj języka Python do operacji Zmień tło na obrazach" h2="Obrazy Zmień tło za pośrednictwem własnych aplikacji Python przy użyciu biblioteki Aspose.Imaging" downloadText="Ściągnij" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty operacji obrazy Zmień tło" %}}
+{{% blocks/products/pf/feature-page-section  h2="Zastosuj operację Zmień tło do wszystkich dostępnych formatów obrazów" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Zmiana tła to jedna z najczęstszych operacji potrzebnych do przetworzenia zdjęć lub obrazów. Możesz łatwo usunąć tło z jednego zdjęcia i umieścić obiekt pierwszego planu na innym za pomocą Aspose.Imaging. Możesz także rozpoznać obiekt pierwszego planu i wykryć go w razie potrzeby. W rezultacie możesz uzyskać przezroczyste tło i proces zgodnie z potrzebami.
+Zmiana tła jest często wykonywanym zadaniem podczas edycji obrazów i zdjęć. Korzystając z Aspose.Imaging, możesz łatwo oddzielić obiekt na pierwszym planie od tła na zdjęciu, automatycznie lub ręcznie, a następnie umieścić go na innym obrazie. Dodatkowo Cloud API umożliwia identyfikację obiektu na pierwszym planie i w razie potrzeby usunięcie tła. Dzięki temu można uzyskać obiekt z przezroczystym tłem i zastąpić oryginalne tło innym.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Używając Aspose.Imaging możesz łatwo zastosować **Zmień tło** dla różnych formatów obrazów programowo
+Korzystając z biblioteki Aspose.Imaging dla języka Python, możesz łatwo programowo wykonać operację <b>Zmień tło</b> na obrazach i zdjęciach w różnych formatach.
 </p>
 <h3 style="margin-top:16px;">
-Pełna lista obsługiwanych operacji Zmień tło według formatów obrazu:
+Wybierz format obrazu z listy dla operacji Zmień tło:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

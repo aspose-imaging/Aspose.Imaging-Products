@@ -1,26 +1,26 @@
 ﻿---
-title: hình ảnh nhị phân hóa Qua python-net, tất cả các định dạng hình ảnh được hỗ trợ 
+title: Hình ảnh nhị phân hóa sử dụng Python 
 weight: 3920
 url: /vi/python-net/binarize/ 
 lang: vi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng nhị phân hóa hình ảnh qua python-net
+description: Áp dụng thư viện Aspose.Imaging cho hình ảnh và ảnh nhị phân hóa bằng ứng dụng Python và API máy chủ của riêng bạn.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Tệp hình ảnh nhị phân hóa qua python-net" h2="nhị phân hóa hình ảnh" downloadText="Tải xuống" >}}
+{{< blocks/products/pf/feature-page-header h1="Sử dụng Python cho thao tác nhị phân hóa trên hình ảnh" h2="Hình ảnh nhị phân hóa qua Ứng dụng Python của riêng bạn bằng Thư viện Aspose.Imaging" downloadText="Tải xuống" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tất cả các hình ảnh định dạng được hỗ trợ cho thao tác nhị phân hóa" %}}
+{{% blocks/products/pf/feature-page-section  h2="Áp dụng thao tác nhị phân hóa cho tất cả các định dạng hình ảnh có sẵn" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Tiền cảnh và hậu cảnh của một hình ảnh được phân tách bằng một kỹ thuật gọi là tạo ngưỡng hình ảnh. Phương pháp này gán các giá trị pixel theo các giá trị ngưỡng đã cho. Hình ảnh thang độ xám được ngưỡng trong thị giác máy tính. Một trong những phương pháp được biết đến nhiều nhất là Binarization của <b>Otsu</b> và của <b>Bradley</b>. Aspose.Imaging hỗ trợ cả hai thuật toán. Sử dụng các thuật toán đó, hình ảnh của bạn có thể được chuyển đổi thành đen trắng với ngưỡng.
+Khi xử lý hình ảnh, một phương pháp gọi là nhị phân hóa được áp dụng để chuyển đổi hình ảnh sang định dạng đen trắng bằng cách sử dụng một giá trị ngưỡng được chỉ định. Phương pháp này liên quan đến việc gán giá trị pixel dựa trên giá trị ngưỡng đã cho. Khi làm việc với hình ảnh thang độ xám, điều quan trọng là chỉ định giá trị ngưỡng để phân tách các đối tượng bằng công nghệ thị giác máy tính. Có sẵn nhiều phương pháp chuyển đổi khác nhau, chẳng hạn như nhị phân hóa bằng phương pháp <b>Otsu</b> và <b>Bradley</b>, cả hai phương pháp này đều được Aspose.Imaging hỗ trợ. Bằng cách sử dụng các thuật toán này, bạn có thể chuyển đổi hình ảnh của mình thành đen trắng với giá trị ngưỡng được chỉ định.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Sử dụng Aspose.Imaging, bạn có thể dễ dàng áp dụng **nhị phân hóa** cho các định dạng hình ảnh khác nhau lập trình
+Bằng cách sử dụng thư viện Aspose.Imaging cho Python, bạn có thể dễ dàng thực hiện thao tác <b>nhị phân hóa</b> đối với hình ảnh và ảnh chụp ở nhiều định dạng khác nhau theo chương trình.
 </p>
 <h3 style="margin-top:16px;">
-Danh sách đầy đủ các thao tác nhị phân hóa được hỗ trợ theo định dạng hình ảnh:
+Chọn định dạng hình ảnh từ danh sách cho thao tác nhị phân hóa:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

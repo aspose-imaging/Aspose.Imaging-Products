@@ -1,26 +1,26 @@
 ﻿---
-title: Filtras vaizdai Per python-net, visi palaikomi vaizdo formatai 
+title: Filtras vaizdai naudojant Python 
 weight: 3920
 url: /lt/python-net/filter/ 
 lang: lt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Naudodami Aspose.Imaging galite lengvai sukurti Filtras vaizdus per python-net
+description: Aspose.Imaging bibliotekos taikymas Filtras vaizdams ir nuotraukoms naudojant savo Python programas ir serverio API.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Vaizdo failai Filtras per python-net" h2="Filtras vaizdai" downloadText="parsisiųsti" >}}
+{{< blocks/products/pf/feature-page-header h1="Naudokite Python Filtras operacijai su vaizdais" h2="Filtras vaizdai per savo Python programas naudojant Aspose.Imaging biblioteką" downloadText="parsisiųsti" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Visi palaikomi operacijos Filtras attēlus formatai" %}}
+{{% blocks/products/pf/feature-page-section  h2="Taikykite operaciją Filtras visiems galimiems vaizdo formatams" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Fotografijoje ir kinematografijoje filtras yra fotoaparato priedas, susidedantis iš optinio filtro, kurį galima įterpti į optinį kelią. Filtras gali būti kvadrato arba pailgos formos ir įmontuotas į laikiklio priedą arba, dažniau, stikliniame arba plastikiniame diske metaliniame arba plastikiniame žiediniame rėmelyje, kurį galima įsukti į priekinę kameros objektyvo dalį arba užsegti ant jo. Filtrai pakeičia įrašytus vaizdus. Jie naudojami fotografijoms keisti kartais labai mažai, o kartais jie yra visiškai reikalingi vaizdui sukurti. Vienspalvėje fotografijoje spalvoti filtrai keičia santykinį įvairių spalvų ryškumą; raudoni lūpų dažai gali atrodyti nuo beveik balto iki beveik juodo, priklausomai nuo naudojamo filtro. Kiti koreguoja vaizdo spalvų balansą taip, kad kadrai, nufotografuoti naudojant kaitinamąjį apšvietimą, spalvos būtų tokios, kokios jos suvokiamos, o ne su rausvu atspalviu. Yra filtrų, kurie tikslingai iškraipo vaizdą, kitaip ryškiam vaizdui suteikdami žvaigždėtą vaizdą ir pan. Įstrižiniai atspindžiai nuo nemetalinių paviršių sumažinami naudojant linijinius ir apskritus poliarizuojančius filtrus. Aspose.Imaging palaiko tokius filtrus kaip Gaussian Blur, Sharpen, Median Filter, Motion Weiner ir daugelis kitų.
+Fotografijoje ir vaizdo įrašų gamyboje filtras yra papildomas fotoaparato priedas, kuriame yra optinis filtras, kurį galima įterpti į optinį kelią. Tai gali būti kvadratinis arba stačiakampis pusiau permatomas stiklas ir tvirtinamas prie fotoaparato objektyvo priekio. Filtrai pakeičia užfiksuotą vaizdą. Vienspalvėje fotografijoje spalvų filtrai keičia skirtingų spalvų ryškumą; priklausomai nuo naudojamo filtro, žalias obuolys gali atrodyti beveik baltas arba beveik juodas. Kiti filtrai koreguoja vaizdo spalvų balansą, kad tiksliai atvaizduotų suvokiamas spalvas dienos šviesoje, o ne šaltu tonu. Taip pat yra filtrų, kurie tyčia iškraipo vaizdą, todėl ryškus vaizdas tampa neryškus. Linijiniai ir žiediniai poliarizuojantys filtrai sumažina atspindinčių paviršių akinimą. „Aspose.Imaging“ palaiko įvairius filtrus, tokius kaip „Gauss-Wiener“ filtras, dvišalis išlyginimas, medianinis filtras, judesio Weiner, suliejimas, aštrinimas ir kt.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Naudodami Aspose.Imaging galite lengvai pritaikyti **Filtras** skirtingiems vaizdo formatams programmatiski
+Naudodami Aspose.Imaging biblioteką, skirtą Python, galite lengvai atlikti <b>Filtras</b> operaciją įvairių formatų vaizdams ir nuotraukoms programiškai.
 </p>
 <h3 style="margin-top:16px;">
-Visas palaikomų operacijų Filtras sąrašas pagal vaizdo formatus:
+Iš sąrašo pasirinkite vaizdo formatą operacijai Filtras:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

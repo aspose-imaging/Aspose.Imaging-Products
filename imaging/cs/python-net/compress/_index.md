@@ -1,27 +1,26 @@
 ﻿---
-title: Obrázky Komprimovat Prostřednictvím python-net, všechny podporované formáty obrázků 
+title: obrázky Komprimovat pomocí Python 
 weight: 3920
 url: /cs/python-net/compress/ 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Pomocí Aspose.Imaging můžete snadno Komprimovat obrázky přes python-net
+description: Použití knihovny Aspose.Imaging na obrázky a fotografie Komprimovat pomocí vašich vlastních aplikací Python a serverových API.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Soubory obrázků Komprimovat prostřednictvím python-net" h2="obrázky Komprimovat" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Použijte Python pro operaci Komprimovat s obrázky" h2="Komprimovat Obrázky prostřednictvím vašich vlastních aplikací Python pomocí knihovny Aspose.Imaging" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované snímky formáty pro operaci Komprimovat" %}}
+{{% blocks/products/pf/feature-page-section  h2="Použijte operaci Komprimovat na všechny dostupné formáty obrázků" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Komprese obrazu je druh komprese dat používaný ke snížení nákladů na ukládání nebo přenos digitálních fotografií. Ve srovnání s obecnými technikami komprese dat používanými pro jiná digitální data mohou algoritmy těžit z vizuálního vnímání a statistických charakteristik obrazových dat.
-Pomocí Aspose.Imaging můžete komprimovat různé typy obrázků, které mohou vyhovovat téměř všem vašim potřebám.
+Pomocí komprese obrázků zmenšete velikost dat používaných pro ukládání nebo odesílání digitálních obrázků. Na rozdíl od obecných technik komprese dat používaných pro jiné formy digitální informace, algoritmy komprese obrazu berou v úvahu statistické vlastnosti obrazu a jsou spojeny s vizuálním vnímáním informace. Prostřednictvím knihovny Aspose.Imaging máte možnost implementovat různé úrovně komprese obrázků na základě vašich konkrétních potřeb.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Pomocí Aspose.Imaging můžete snadno použít **Komprimovat** pro různé formáty obrázků programově
+Pomocí knihovny Aspose.Imaging pro Python můžete snadno programově provést operaci <b>Komprimovat</b> pro obrázky a fotografie různých formátů.
 </p>
 <h3 style="margin-top:16px;">
-Úplný seznam podporovaných operací Komprimovat podle formátů obrázků:
+Vyberte ze seznamu formát obrázku pro operaci Komprimovat:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

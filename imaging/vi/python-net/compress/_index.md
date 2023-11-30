@@ -1,27 +1,26 @@
 ﻿---
-title: hình ảnh Nén Qua python-net, tất cả các định dạng hình ảnh được hỗ trợ 
+title: Hình ảnh Nén sử dụng Python 
 weight: 3920
 url: /vi/python-net/compress/ 
 lang: vi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng Nén hình ảnh qua python-net
+description: Áp dụng thư viện Aspose.Imaging cho hình ảnh và ảnh Nén bằng ứng dụng Python và API máy chủ của riêng bạn.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Tệp hình ảnh Nén qua python-net" h2="Nén hình ảnh" downloadText="Tải xuống" >}}
+{{< blocks/products/pf/feature-page-header h1="Sử dụng Python cho thao tác Nén trên hình ảnh" h2="Hình ảnh Nén qua Ứng dụng Python của riêng bạn bằng Thư viện Aspose.Imaging" downloadText="Tải xuống" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tất cả các hình ảnh định dạng được hỗ trợ cho thao tác Nén" %}}
+{{% blocks/products/pf/feature-page-section  h2="Áp dụng thao tác Nén cho tất cả các định dạng hình ảnh có sẵn" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Nén hình ảnh là một loại nén dữ liệu được sử dụng để giảm chi phí lưu trữ hoặc truyền ảnh kỹ thuật số. Khi so sánh với các kỹ thuật nén dữ liệu chung được sử dụng cho các dữ liệu kỹ thuật số khác, các thuật toán có thể được hưởng lợi từ nhận thức trực quan và các đặc điểm thống kê của dữ liệu hình ảnh.
-Sử dụng Aspose.Imaging, bạn có thể nén các loại hình ảnh khác nhau có thể phù hợp với hầu hết mọi nhu cầu của bạn.
+Sử dụng nén hình ảnh để giảm kích thước dữ liệu được sử dụng để lưu trữ hoặc gửi hình ảnh kỹ thuật số. Không giống như các kỹ thuật nén dữ liệu chung được sử dụng cho các dạng thông tin số khác, thuật toán nén hình ảnh xem xét các thuộc tính thống kê của hình ảnh và được kết nối với nhận thức trực quan về thông tin. Thông qua thư viện Aspose.Imaging, bạn có khả năng triển khai các mức nén hình ảnh khác nhau dựa trên nhu cầu cụ thể của mình.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Sử dụng Aspose.Imaging, bạn có thể dễ dàng áp dụng **Nén** cho các định dạng hình ảnh khác nhau lập trình
+Bằng cách sử dụng thư viện Aspose.Imaging cho Python, bạn có thể dễ dàng thực hiện thao tác <b>Nén</b> đối với hình ảnh và ảnh chụp ở nhiều định dạng khác nhau theo chương trình.
 </p>
 <h3 style="margin-top:16px;">
-Danh sách đầy đủ các thao tác Nén được hỗ trợ theo định dạng hình ảnh:
+Chọn định dạng hình ảnh từ danh sách cho thao tác Nén:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

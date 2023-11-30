@@ -1,26 +1,26 @@
 ﻿---
-title: 抖动 图片通过 python-net，所有支持的图片格式 
+title: 使用 Python 的 抖动 图像 
 weight: 3920
 url: /zh-hans/python-net/dither/ 
 lang: zh-hans
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: 使用 Aspose.Imaging 你可以轻松地通过 python-net 获取 抖动 图像
+description: 使用您自己的 Python 应用程序和服务器 API 将 Aspose.Imaging 库应用于 抖动 图像和照片。
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="图片文件 抖动 来自 python-net" h2="抖动 图片" downloadText="下载" >}}
+{{< blocks/products/pf/feature-page-header h1="使用 Python 对图像进行 抖动 操作" h2="使用 Aspose.Imaging 库通过您自己的 Python 应用程序生成 抖动 图像" downloadText="下载" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="抖动 操作的所有支持格式图片" %}}
+{{% blocks/products/pf/feature-page-section  h2="将 抖动 操作应用于所有可用的图像格式" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-在计算机图形学中，抖动用于在具有受限调色板的系统上赋予图像颜色深度的外观。来自可用调色板的彩色像素的扩散用于抖动图像中，以近似调色板中不存在的颜色。 漫射在人眼看来是其中包含的颜色的混合。抖动照片通常可以通过明显的颗粒感或斑点外观来识别，尤其是在使用颜色很少的调色板时。抖动会向图像添加噪声或图案，并且图案通常很明显。已经证明，在这些条件下，由蓝噪声产生的抖动是最不烦人和没有吸引力的。 Aspose.Imaging 允许使用一些您可以选择不需要的算法来抖动您的图像。
+计算机图形领域的抖动被设计者用来在调色板有限的系统中实现更明显的色彩效果。在平滑图像中，可用调色板中的颜色像素用于近似丢失的颜色，从而产生颜色混合的印象。通常，您会注意到此类照片中存在明显的颗粒感或点图案，尤其是在使用颜色数量有限的调色板时。抖动操作用于向图像添加噪声或图案，并且这种图案通常很容易看到。事实证明，在这种情况下，使用蓝噪声进行抖动是最佳的。 Aspose.Imaging 允许使用各种算法进行图像平滑，这些算法可以根据您的喜好进行选择。
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-使用 Aspose.Imaging 您可以轻松地将 **抖动** 应用于不同的图像格式 以编程方式
+使用 Python 的 Aspose.Imaging 库，您可以通过编程轻松地对各种格式的图像和照片执行 <b>抖动</b> 操作。
 </p>
 <h3 style="margin-top:16px;">
-按图像格式支持的 抖动 操作的完整列表：
+从列表中为 抖动 操作选择图像格式：
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

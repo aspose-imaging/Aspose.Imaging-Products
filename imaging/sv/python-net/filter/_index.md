@@ -1,26 +1,26 @@
 ﻿---
-title: Filtrera bilder Via python-net, alla bildformat som stöds 
+title: Filtrera-bilder med Python 
 weight: 3920
 url: /sv/python-net/filter/ 
 lang: sv
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Med Aspose.Imaging kan du enkelt Filtrera bilder via python-net
+description: Tillämpa Aspose.Imaging-biblioteket på Filtrera-bilder och foton med dina egna Python-applikationer och server-API:er.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Bildfiler Filtrera via python-net" h2="Filtrera bilder" downloadText="Ladda ner" >}}
+{{< blocks/products/pf/feature-page-header h1="Använd Python för Filtrera operation på bilder" h2="Filtrera-bilder via dina egna Python-applikationer som använder Aspose.Imaging-biblioteket" downloadText="Ladda ner" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alla bilder format som stöds för operationen Filtrera" %}}
+{{% blocks/products/pf/feature-page-section  h2="Använd åtgärden Filtrera på alla tillgängliga bildformat" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Inom fotografering och kinematografi är ett filter ett kameratillbehör som består av ett optiskt filter som kan sättas in i den optiska banan. Filtret kan ha en fyrkantig eller avlång form och monteras i ett hållartillbehör, eller, mer vanligt, en glas- eller plastskiva i en metall- eller plastringram, som kan skruvas fast i framsidan av eller fästas på kameralinsen. Filter ändrar de inspelade bilderna. De används för att ändra fotografier ibland väldigt lite, och andra gånger är de helt nödvändiga för att skapa bilden. I monokrom fotografering ändrar färgade filter den relativa ljusstyrkan för olika färger; rött läppstift kan verka någonstans mellan nästan vitt och nästan svart beroende på vilket filter som används. Andra justerar bildens färgbalans så att bilder tagna i glödljus visar färger som de uppfattas snarare än med en rödaktig nyans. Det finns filter som målmedvetet förvränger bilden, ger en stjärnklar look till en annars skarp bild, etc. Snedreflektioner från icke-metalliska ytor reduceras med linjära och cirkulära polariserande filter. Aspose.Imaging stöder sådana filter som Gaussian Blur, Sharpen, Median Filter, Motion Weiner och många andra.
+Inom fotografering och videoproduktion är ett filter ett extra kameratillbehör som inkluderar ett optiskt filter som kan sättas in i den optiska vägen. Det kan vara ett fyrkantigt eller rektangulärt halvtransparent glas och fästs på framsidan av kameralinsen. Filter ändrar den tagna bilden. I monokrom fotografering ändrar färgfilter ljusstyrkan för olika färger; beroende på vilket filter som används kan ett grönt äpple se nästan vitt eller nästan svart ut. Andra filter justerar färgbalansen i bilden för att korrekt representera de upplevda färgerna under dagsljusbelysning, snarare än med en kall ton. Det finns också filter som avsiktligt förvränger bilden, vilket ger en suddig bild till en skarp bild. Linjära och cirkulära polariserande filter minskar bländningen från reflekterande ytor. Aspose.Imaging stöder olika filter som Gauss-Wiener Filter, Bilateral Smoothing, Median Filter, Motion Weiner, Blur, Sharpen och andra.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Med Aspose.Imaging kan du enkelt använda **Filtrera** för olika bildformat programmatiskt
+Genom att använda Aspose.Imaging-biblioteket för Python kan du enkelt utföra <b>Filtrera</b>-åtgärden för bilder och foton i olika format programmatiskt.
 </p>
 <h3 style="margin-top:16px;">
-Fullständig lista över Filtrera-operationer som stöds efter bildformat:
+Välj ett bildformat från listan för åtgärden Filtrera:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,26 +1,26 @@
 ﻿---
-title: Obrázky Binarizovat Prostřednictvím python-net, všechny podporované formáty obrázků 
+title: obrázky Binarizovat pomocí Python 
 weight: 3920
 url: /cs/python-net/binarize/ 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Pomocí Aspose.Imaging můžete snadno Binarizovat obrázky přes python-net
+description: Použití knihovny Aspose.Imaging na obrázky a fotografie Binarizovat pomocí vašich vlastních aplikací Python a serverových API.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Soubory obrázků Binarizovat prostřednictvím python-net" h2="obrázky Binarizovat" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Použijte Python pro operaci Binarizovat s obrázky" h2="Binarizovat Obrázky prostřednictvím vašich vlastních aplikací Python pomocí knihovny Aspose.Imaging" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované snímky formáty pro operaci Binarizovat" %}}
+{{% blocks/products/pf/feature-page-section  h2="Použijte operaci Binarizovat na všechny dostupné formáty obrázků" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Popředí a pozadí obrázku jsou odděleny pomocí techniky zvané prahování obrázku. Tato metoda přiřazuje hodnoty pixelů v souladu s danými prahovými hodnotami. Obrazy ve stupních šedi jsou v počítačovém vidění omezeny. Jednou z nejznámějších metod je binarizace od <b>Otsu</b> a od <b>Bradley</b>. Aspose.Imaging podporuje oba algoritmy. Pomocí těchto algoritmů lze vaše obrázky převést na černobílé s prahem.
+Při zpracování obrázků se používá metoda zvaná binarizace, která převádí obrázek do černobílého formátu pomocí zadané prahové hodnoty. Tato metoda zahrnuje přiřazení hodnot pixelů na základě dané prahové hodnoty. Při práci s obrázky ve stupních šedi je důležité určit prahovou hodnotu pro oddělení objektů pomocí technologie počítačového vidění. K dispozici jsou různé metody převodu, jako je binarizace pomocí <b>Otsu</b> a <b>Bradley</b> metody, obě jsou podporovány Aspose.Imaging. Pomocí těchto algoritmů můžete převést své obrázky na černobílé se zadanou prahovou hodnotou.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Pomocí Aspose.Imaging můžete snadno použít **Binarizovat** pro různé formáty obrázků programově
+Pomocí knihovny Aspose.Imaging pro Python můžete snadno programově provést operaci <b>Binarizovat</b> pro obrázky a fotografie různých formátů.
 </p>
 <h3 style="margin-top:16px;">
-Úplný seznam podporovaných operací Binarizovat podle formátů obrázků:
+Vyberte ze seznamu formát obrázku pro operaci Binarizovat:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

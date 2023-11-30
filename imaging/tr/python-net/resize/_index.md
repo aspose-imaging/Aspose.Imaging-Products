@@ -1,26 +1,26 @@
 ﻿---
-title: yeniden boyutlandır görüntüleri python-net aracılığıyla, desteklenen tüm görüntü biçimleri 
+title: Python kullanan yeniden boyutlandır görselleri 
 weight: 3920
 url: /tr/python-net/resize/ 
 lang: tr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging'i kullanarak, python-net Aracılığıyla kolayca yeniden boyutlandır görüntüleri oluşturabilirsiniz
+description: Kendi Python uygulamalarınızı ve sunucu API'lerinizi kullanarak Aspose.Imaging kitaplığını yeniden boyutlandır görsellerine ve fotoğraflarına uygulama.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="python-net aracılığıyla yeniden boyutlandır görüntü dosyaları" h2="yeniden boyutlandır görselleri" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1="Görsellerde yeniden boyutlandır İşlemi için Python kullanın" h2="Aspose.Imaging Kütüphanesini Kullanarak Kendi Python Uygulamalarınız Üzerinden yeniden boyutlandır Görselleri" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="yeniden boyutlandır işlemi Görüntüler için desteklenen tüm biçimler" %}}
+{{% blocks/products/pf/feature-page-section  h2="yeniden boyutlandır işlemini mevcut tüm resim formatlarına uygulayın" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Herhangi bir içeriği kaldırmak zorunda kalmadan görüntüyü büyütmek veya küçültmek için yeniden boyutlandırabilirsiniz. Resmin boyutları, yeniden boyutlandırıldığında değişir ve bu genellikle dosya boyutu ve resim kalitesi üzerinde etkili olur. E-postayla göndermeyi veya çevrimiçi paylaşmayı kolaylaştırmak için büyük resimlerin boyutunu küçültmek, fotoğrafları küçültmenin en popüler gerekçesidir. Raster grafik görüntüleri, daha fazla veya daha az piksel içeren yeni bir görüntü oluşturularak ölçeklendirilmelidir. Aspose.Imaging, kullanıcılara gerekli olanı seçme olanağı sağlayan farklı yeniden boyutlandırma algoritmalarına izin verir.
+Aspose.Imaging ile görsel bilgileri kaybetmeden görselleri veya fotoğrafları yeniden boyutlandırabilirsiniz. Görüntü boyutunu ayarlarken dosya ağırlığı değişir ve bu da kalite kaybına neden olabilir. Resimlerin boyutunu küçültmek, e-postayla hızlı bir şekilde göndermenin veya bir İnternet sitesinden hızlı indirmenin ana yoludur. Raster görüntüleri yeniden boyutlandırırken, daha az veya daha fazla piksel içeren yeni bir görüntü oluşturulur, yani görüntü ölçeklenir. Aspose.Imaging, çeşitli yeniden boyutlandırma algoritmaları sunarak belirli bir görev için en uygun olanı seçmenize olanak tanır.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Aspose.Imaging'i kullanarak farklı görüntü formatları için **yeniden boyutlandır** işlemini kolayca uygulayabilirsiniz programlı olarak
+Python için Aspose.Imaging kütüphanesini kullanarak, çeşitli formatlardaki görüntüler ve fotoğraflar için <b>yeniden boyutlandır</b> işlemini programlı olarak kolayca gerçekleştirebilirsiniz.
 </p>
 <h3 style="margin-top:16px;">
-Görüntü biçimlerine göre desteklenen {işlem adı} işlemlerinin tam listesi:
+yeniden boyutlandır işlemi için listeden bir görüntü formatı seçin:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

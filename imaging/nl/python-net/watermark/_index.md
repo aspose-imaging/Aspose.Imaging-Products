@@ -1,26 +1,26 @@
 ﻿---
-title: Watermerk afbeeldingen Via python-net, alle ondersteunde afbeeldingsformaten 
+title: Watermerk afbeeldingen met Python 
 weight: 3920
 url: /nl/python-net/watermark/ 
 lang: nl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Met behulp van Aspose.Imaging kunt u eenvoudig Watermerk afbeeldingen maken via python-net
+description: Aspose.Imaging-bibliotheek toepassen op Watermerk afbeeldingen en foto's met behulp van uw eigen Python-applicaties en server-API's.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Afbeeldingsbestanden Watermerk via python-net" h2="Watermerk afbeeldingen" downloadText="Downloaden" >}}
+{{< blocks/products/pf/feature-page-header h1="Gebruik Python voor bewerking van Watermerk op afbeeldingen" h2="Watermerk Afbeeldingen via uw eigen Python-applicaties met behulp van de Aspose.Imaging-bibliotheek" downloadText="Downloaden" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde indelingen voor de bewerking afbeeldingen Watermerk" %}}
+{{% blocks/products/pf/feature-page-section  h2="Pas de bewerking Watermerk toe op alle beschikbare afbeeldingsformaten" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Een digitaal watermerk is een soort markering die subtiel is verwerkt in een signaal dat ruis kan verdragen, zoals audio-, video- of beeldgegevens. Het wordt vaak gebruikt om vast te stellen wie het auteursrecht op een bepaald signaal bezit. De praktijk van watermerken omvat het coderen van digitale gegevens in een draaggolfsignaal; de verborgen gegevens zouden, maar hoeven niet gerelateerd te zijn aan het draaggolfsignaal. De legitimiteit of integriteit van het draaggolfsignaal kan worden bevestigd met behulp van digitale watermerken en de identiteit van de eigenaren kan ook worden onthuld. Het wordt vaak gebruikt voor authenticatie van bankbiljetten en voor het opsporen van auteursrechtschendingen. Met Aspose.Imaging kunt u eenvoudig uw watermerk aan de geselecteerde afbeelding toevoegen zonder dat u veel code nodig heeft.
+Een digitaal watermerk is een uniek type semi-transparante markering die op een afbeelding wordt aangebracht en zichtbaar blijft, zelfs als de afbeelding wordt gewijzigd. Watermerktechniek wordt vaak gebruikt om het eigendom of de bron van een bepaalde afbeelding aan te geven. Watermerken worden vaak gebruikt voor verificatie van de authenticiteit van digitale producten of ter bescherming tegen inbreuk op het auteursrecht. Met Aspose.Imaging kunt u moeiteloos uw eigen aangepaste watermerk toevoegen aan elke geselecteerde afbeelding, zonder de noodzaak van complexe codering of gespecialiseerde software.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Met Aspose.Imaging kunt u eenvoudig **Watermerk** toepassen voor verschillende afbeeldingsformaten programmatisch
+Met behulp van de Aspose.Imaging-bibliotheek voor Python kunt u eenvoudig de bewerking <b>Watermerk</b> programmatisch uitvoeren voor afbeeldingen en foto's van verschillende formaten.
 </p>
 <h3 style="margin-top:16px;">
-Volledige lijst met ondersteunde Watermerk-bewerkingen per afbeeldingsindeling:
+Selecteer een afbeeldingsformaat uit de lijst voor de bewerking Watermerk:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

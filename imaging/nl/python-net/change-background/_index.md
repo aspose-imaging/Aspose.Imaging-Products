@@ -1,26 +1,26 @@
 ﻿---
-title: Verander de achtergrond afbeeldingen Via python-net, alle ondersteunde afbeeldingsformaten 
+title: Verander de achtergrond afbeeldingen met Python 
 weight: 3920
 url: /nl/python-net/change-background/ 
 lang: nl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Met behulp van Aspose.Imaging kunt u eenvoudig Verander de achtergrond afbeeldingen maken via python-net
+description: Aspose.Imaging-bibliotheek toepassen op Verander de achtergrond afbeeldingen en foto's met behulp van uw eigen Python-applicaties en server-API's.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Afbeeldingsbestanden Verander de achtergrond via python-net" h2="Verander de achtergrond afbeeldingen" downloadText="Downloaden" >}}
+{{< blocks/products/pf/feature-page-header h1="Gebruik Python voor bewerking van Verander de achtergrond op afbeeldingen" h2="Verander de achtergrond Afbeeldingen via uw eigen Python-applicaties met behulp van de Aspose.Imaging-bibliotheek" downloadText="Downloaden" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde indelingen voor de bewerking afbeeldingen Verander de achtergrond" %}}
+{{% blocks/products/pf/feature-page-section  h2="Pas de bewerking Verander de achtergrond toe op alle beschikbare afbeeldingsformaten" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Achtergrond wijzigen is een van de meest voorkomende bewerkingen die nodig zijn om uw foto's of afbeeldingen te verwerken. U kunt eenvoudig de achtergrond van een foto verwijderen en een object op de voorgrond op een andere plaatsen met Aspose.Imaging. Ook kunt u objecten op de voorgrond herkennen en indien nodig detecteren. Als gevolg hiervan kunt u een transparante achtergrond en proces krijgen zoals u nodig heeft.
+Het veranderen van de achtergrond is een veel voorkomende taak bij beeld- en fotobewerking. Door Aspose.Imaging te gebruiken, kunt u eenvoudig het voorgrondobject van de achtergrond in een foto scheiden, automatisch of handmatig, en dit vervolgens op een andere afbeelding plaatsen. Bovendien kunt u met de Cloud API het voorgrondobject identificeren en indien nodig de achtergrond verwijderen. Hierdoor kunt u een object met een transparante achtergrond verkrijgen en de originele achtergrond vervangen door een andere.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Met Aspose.Imaging kunt u eenvoudig **Verander de achtergrond** toepassen voor verschillende afbeeldingsformaten programmatisch
+Met behulp van de Aspose.Imaging-bibliotheek voor Python kunt u eenvoudig de bewerking <b>Verander de achtergrond</b> programmatisch uitvoeren voor afbeeldingen en foto's van verschillende formaten.
 </p>
 <h3 style="margin-top:16px;">
-Volledige lijst met ondersteunde Verander de achtergrond-bewerkingen per afbeeldingsindeling:
+Selecteer een afbeeldingsformaat uit de lijst voor de bewerking Verander de achtergrond:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

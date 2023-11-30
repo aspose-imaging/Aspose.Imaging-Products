@@ -1,26 +1,26 @@
 ﻿---
-title: Zobacz obrazek obrazy Przez python-net, wszystkie obsługiwane formaty obrazów 
+title: Obrazy Zobacz obrazek przy użyciu języka Python 
 weight: 3920
 url: /pl/python-net/viewer/ 
 lang: pl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Używając Aspose.Imaging możesz łatwo Zobacz obrazek obrazy Via python-net
+description: Stosowanie biblioteki Aspose.Imaging do obrazów i zdjęć Zobacz obrazek przy użyciu własnych aplikacji Python i interfejsów API serwera.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Pliki obrazów Zobacz obrazek przez python-net" h2="Obrazy Zobacz obrazek" downloadText="Ściągnij" >}}
+{{< blocks/products/pf/feature-page-header h1="Użyj języka Python do operacji Zobacz obrazek na obrazach" h2="Obrazy Zobacz obrazek za pośrednictwem własnych aplikacji Python przy użyciu biblioteki Aspose.Imaging" downloadText="Ściągnij" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty operacji obrazy Zobacz obrazek" %}}
+{{% blocks/products/pf/feature-page-section  h2="Zastosuj operację Zobacz obrazek do wszystkich dostępnych formatów obrazów" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Gdy chcesz wyświetlić obraz lub zdjęcie, które nie ma szerokiego formatu, możesz łatwo wyświetlić podgląd przekonwertowany na popularny format. Korzystając z Aspose.Imaging, możesz przeglądać różne pliki obrazów bez instalowania specjalnych programów, które są specyficzne dla różnych formatów obrazów.
+Jeśli chcesz wyświetlić obraz lub zdjęcie w określonym formacie, możesz łatwo przekonwertować je na format obsługiwany przez Twój system operacyjny. Dzięki Aspose.Imaging możesz przeglądać szeroką gamę plików obrazów i zdjęć bez konieczności instalowania specjalnych programów dla każdego formatu obrazu.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Używając Aspose.Imaging możesz łatwo zastosować **Zobacz obrazek** dla różnych formatów obrazów programowo
+Korzystając z biblioteki Aspose.Imaging dla języka Python, możesz łatwo programowo wykonać operację <b>Zobacz obrazek</b> na obrazach i zdjęciach w różnych formatach.
 </p>
 <h3 style="margin-top:16px;">
-Pełna lista obsługiwanych operacji Zobacz obrazek według formatów obrazu:
+Wybierz format obrazu z listy dla operacji Zobacz obrazek:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

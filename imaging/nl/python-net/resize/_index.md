@@ -1,26 +1,26 @@
 ﻿---
-title: Formaat wijzigen afbeeldingen Via python-net, alle ondersteunde afbeeldingsformaten 
+title: Formaat wijzigen afbeeldingen met Python 
 weight: 3920
 url: /nl/python-net/resize/ 
 lang: nl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Met behulp van Aspose.Imaging kunt u eenvoudig Formaat wijzigen afbeeldingen maken via python-net
+description: Aspose.Imaging-bibliotheek toepassen op Formaat wijzigen afbeeldingen en foto's met behulp van uw eigen Python-applicaties en server-API's.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Afbeeldingsbestanden Formaat wijzigen via python-net" h2="Formaat wijzigen afbeeldingen" downloadText="Downloaden" >}}
+{{< blocks/products/pf/feature-page-header h1="Gebruik Python voor bewerking van Formaat wijzigen op afbeeldingen" h2="Formaat wijzigen Afbeeldingen via uw eigen Python-applicaties met behulp van de Aspose.Imaging-bibliotheek" downloadText="Downloaden" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde indelingen voor de bewerking afbeeldingen Formaat wijzigen" %}}
+{{% blocks/products/pf/feature-page-section  h2="Pas de bewerking Formaat wijzigen toe op alle beschikbare afbeeldingsformaten" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-U kunt het formaat van een afbeelding wijzigen om deze groter of kleiner te maken zonder enige inhoud te hoeven verwijderen. De afmetingen van de afbeelding worden gewijzigd wanneer het formaat wordt gewijzigd, wat vaak van invloed is op de bestandsgrootte en de afbeeldingskwaliteit. Het verkleinen van enorme foto's om ze gemakkelijker te kunnen e-mailen of online te delen, is de meest populaire reden om foto's te verkleinen. Rasterafbeeldingen moeten worden geschaald door een nieuwe afbeelding met meer of minder pixels te maken. Aspose.Imaging biedt gebruikers verschillende algoritmen voor het wijzigen van de grootte waarmee ze kunnen kiezen wat nodig is.
+Met Aspose.Imaging kunt u het formaat van afbeeldingen of foto's wijzigen zonder visuele informatie te verliezen. Wanneer u de afbeeldingsgrootte aanpast, verandert het bestandsgewicht, wat tot kwaliteitsverlies kan leiden. Het verkleinen van de grootte van afbeeldingen is de belangrijkste manier om afbeeldingen snel per e-mail te verzenden of snel vanaf een internetsite te downloaden. Bij het wijzigen van het formaat van rasterafbeeldingen wordt een nieuwe afbeelding gemaakt met minder of meer pixels, d.w.z. de afbeelding wordt geschaald. Aspose.Imaging biedt verschillende algoritmen voor het wijzigen van de grootte, zodat u de meest geschikte voor een specifieke taak kunt kiezen.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Met Aspose.Imaging kunt u eenvoudig **Formaat wijzigen** toepassen voor verschillende afbeeldingsformaten programmatisch
+Met behulp van de Aspose.Imaging-bibliotheek voor Python kunt u eenvoudig de bewerking <b>Formaat wijzigen</b> programmatisch uitvoeren voor afbeeldingen en foto's van verschillende formaten.
 </p>
 <h3 style="margin-top:16px;">
-Volledige lijst met ondersteunde Formaat wijzigen-bewerkingen per afbeeldingsindeling:
+Selecteer een afbeeldingsformaat uit de lijst voor de bewerking Formaat wijzigen:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

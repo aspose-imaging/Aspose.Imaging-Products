@@ -1,26 +1,26 @@
 ﻿---
-title: Images Supprimer l'arrière-plan Via python-net, tous les formats d'image pris en charge 
+title: Images Supprimer l'arrière-plan utilisant Python 
 weight: 3920
 url: /fr/python-net/remove-background/ 
 lang: fr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: En utilisant Aspose.Imaging, vous pouvez facilement Supprimer l'arrière-plan images Via python-net
+description: Application de la bibliothèque Aspose.Imaging aux images et photos Supprimer l'arrière-plan à l'aide de vos propres applications Python et API de serveur.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Fichiers image Supprimer l'arrière-plan via python-net" h2="images de Supprimer l'arrière-plan" downloadText="Télécharger" >}}
+{{< blocks/products/pf/feature-page-header h1="Utilisez Python pour l'opération Supprimer l'arrière-plan sur les images" h2="Images Supprimer l'arrière-plan via vos propres applications Python à l'aide de la bibliothèque Aspose.Imaging" downloadText="Télécharger" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tous les images formats pris en charge pour l'opération Supprimer l'arrière-plan" %}}
+{{% blocks/products/pf/feature-page-section  h2="Appliquer l'opération Supprimer l'arrière-plan à tous les formats d'image disponibles" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Supprimer l'arrière-plan est une opération qui vous permet de supprimer facilement l'arrière-plan de vos photos ou images. À la suite de la suppression de l'arrière-plan, vous pouvez obtenir un arrière-plan transparent et mettre le premier plan sur un autre arrière-plan. En utilisant Aspose.Imaging, vous pouvez essayer différents algorithmes de suppression d'arrière-plan qui peuvent répondre à vos besoins pour différentes images.
+Grâce à l’opération de suppression de l’arrière-plan, vous pouvez facilement supprimer l’arrière-plan des photos ou des images. Ce processus aboutit à des objets tels que des figures humaines avec un fond transparent. Par la suite, vous pourrez facilement transférer ces objets sur une autre image avec un fond différent. En utilisant Aspose.Imaging, vous avez la possibilité d'expérimenter divers algorithmes de suppression d'arrière-plan adaptés à différents types d'images, en fonction de la complexité de votre tâche.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-En utilisant Aspose.Imaging, vous pouvez facilement appliquer **Supprimer l'arrière-plan** pour différents formats d'image par programmation
+À l’aide de la bibliothèque Aspose.Imaging pour Python, vous pouvez facilement effectuer l’opération <b>Supprimer l'arrière-plan</b> pour des images et des photos de différents formats par programme.
 </p>
 <h3 style="margin-top:16px;">
-Liste complète des opérations Supprimer l'arrière-plan prises en charge par formats d'image :
+Sélectionnez un format d'image dans la liste pour l'opération Supprimer l'arrière-plan:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

@@ -1,26 +1,26 @@
 ﻿---
-title: Images Recadrer Via python-net, tous les formats d'image pris en charge 
+title: Images Recadrer utilisant Python 
 weight: 3920
 url: /fr/python-net/crop/ 
 lang: fr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: En utilisant Aspose.Imaging, vous pouvez facilement Recadrer images Via python-net
+description: Application de la bibliothèque Aspose.Imaging aux images et photos Recadrer à l'aide de vos propres applications Python et API de serveur.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Fichiers image Recadrer via python-net" h2="images de Recadrer" downloadText="Télécharger" >}}
+{{< blocks/products/pf/feature-page-header h1="Utilisez Python pour l'opération Recadrer sur les images" h2="Images Recadrer via vos propres applications Python à l'aide de la bibliothèque Aspose.Imaging" downloadText="Télécharger" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tous les images formats pris en charge pour l'opération Recadrer" %}}
+{{% blocks/products/pf/feature-page-section  h2="Appliquer l'opération Recadrer à tous les formats d'image disponibles" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Le recadrage est le processus d'élimination des éléments superflus d'une photographie ou d'une illustration. La technique implique généralement la suppression d'une partie de la périphérie d'une image afin d'éliminer les informations visuelles superflues de la photographie, d'améliorer son cadrage, de modifier le rapport hauteur / largeur ou de mettre en valeur ou d'isoler le sujet de son environnement. Cela peut être fait numériquement en utilisant un logiciel d'édition d'images, ou cela peut être fait sur un véritable instantané, une œuvre d'art ou un morceau de film, selon l'application. Les industries de la photographie, du traitement des films, de la diffusion, de la conception graphique et de l'impression utilisent toutes le recadrage. Aspose.Imaging vous permet de recadrer des images avec divers paramètres spécifiés.
+Le recadrage des images consiste à supprimer les parties inutiles des images ou des photos. Grâce à l'opération de recadrage de l'image, une partie de la périphérie de l'image peut être supprimée pour améliorer sa composition, ajuster les proportions ou centrer l'élément principal. Pour y parvenir, vous pouvez utiliser un logiciel d'édition d'images spécialisé ou appliquer par programme une opération de recadrage aux images, photos, paysages ou portraits, en fonction de vos besoins spécifiques. Le recadrage trouve de nombreuses applications dans la photographie, la manipulation de photos, la production vidéo, la conception graphique et l'impression. Avec la bibliothèque Aspose.Imaging, vous pouvez automatiser le recadrage d'images à l'aide de paramètres personnalisables.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-En utilisant Aspose.Imaging, vous pouvez facilement appliquer **Recadrer** pour différents formats d'image par programmation
+À l’aide de la bibliothèque Aspose.Imaging pour Python, vous pouvez facilement effectuer l’opération <b>Recadrer</b> pour des images et des photos de différents formats par programme.
 </p>
 <h3 style="margin-top:16px;">
-Liste complète des opérations Recadrer prises en charge par formats d'image :
+Sélectionnez un format d'image dans la liste pour l'opération Recadrer:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

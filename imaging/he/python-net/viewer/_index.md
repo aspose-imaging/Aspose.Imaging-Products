@@ -1,26 +1,26 @@
 ﻿---
-title: תמונות הצג תמונה דרך python-net, כל פורמטי התמונה הנתמכים 
+title: תמונות הצג תמונה באמצעות Python 
 weight: 3920
 url: /he/python-net/viewer/ 
 lang: he
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: באמצעות Aspose.Imaging תוכל בקלות הצג תמונה תמונות באמצעות python-net
+description: החלת ספריית Aspose.Imaging על תמונות ותמונות של הצג תמונה באמצעות יישומי Python וממשקי API משלך של שרת.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="קבצי תמונה הצג תמונה באמצעות python-net" h2="תמונות הצג תמונה" downloadText="הורד" >}}
+{{< blocks/products/pf/feature-page-header h1="השתמש ב-Python עבור פעולת הצג תמונה בתמונות" h2="תמונות הצג תמונה באמצעות יישומי Python משלך באמצעות ספריית Aspose.Imaging" downloadText="הורד" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="כל הפורמטים  תמונות הנתמכים עבור פעולת הצג תמונה" %}}
+{{% blocks/products/pf/feature-page-section  h2="החל את פעולת הצג תמונה על כל פורמטי התמונה הזמינים" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-כאשר אתה צריך להציג את התמונה או התמונה שלך שאין להם פורמט מאוכלס רחב, אתה יכול בקלות לצפות בתצוגה מקדימה שלה המרה לפורמט פופולרי. באמצעות Aspose.Imaging ניתן להציג קבצי תמונה שונים מבלי להתקין תוכנות מיוחדות הספציפיות לפורמטים שונים של תמונה.
+אם אתה צריך להציג תמונה או תמונה בפורמט מסוים, אתה יכול בקלות להמיר אותם לפורמט הנתמך על ידי מערכת ההפעלה שלך. עם Aspose.Imaging, אתה יכול להציג מגוון רחב של קבצי תמונה ותמונות מבלי להתקין תוכנות ספציפיות עבור כל פורמט תמונה.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-באמצעות Aspose.Imaging אתה יכול בקלות להחיל את **הצג תמונה** עבור פורמטים שונים של תמונה באופן תוכניתי
+באמצעות ספריית Aspose.Imaging עבור Python, אתה יכול לבצע בקלות את פעולת <b>הצג תמונה</b> עבור תמונות ותמונות בפורמטים שונים באופן פרוגרמטי.
 </p>
 <h3 style="margin-top:16px;">
-רשימה מלאה של פעולות הצג תמונה נתמכות לפי פורמטים של תמונה:
+בחר פורמט תמונה מהרשימה עבור הפעולה הצג תמונה:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

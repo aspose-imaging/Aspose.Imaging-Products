@@ -1,26 +1,26 @@
 ﻿---
-title: صور عرض الصورة عبر python-net ، جميع تنسيقات الصور المدعومة 
+title: صور عرض الصورة باستخدام Python 
 weight: 3920
 url: /ar/python-net/viewer/ 
 lang: ar
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: باستخدام Aspose.Imaging يمكنك بسهولة عرض الصورة الصور عبر python-net
+description: تطبيق مكتبة Aspose.Imaging على الصور والصور الفوتوغرافية عرض الصورة باستخدام تطبيقات Python وواجهات برمجة تطبيقات الخادم الخاصة بك.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="ملفات الصور عرض الصورة عبر python-net" h2="عرض الصورة الصور" downloadText="تحميل" >}}
+{{< blocks/products/pf/feature-page-header h1="استخدم Python لعملية عرض الصورة على الصور" h2="صور عرض الصورة عبر تطبيقات Python الخاصة بك باستخدام مكتبة Aspose.Imaging" downloadText="تحميل" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="جميع التنسيقا تالصور  المدعومة لعملية عرض الصورة" %}}
+{{% blocks/products/pf/feature-page-section  h2="قم بتطبيق عملية عرض الصورة على جميع تنسيقات الصور المتاحة" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-عندما تحتاج إلى عرض صورتك أو صورتك التي لا تحتوي على تنسيق واسع ، يمكنك بسهولة معاينتها وتحويلها إلى تنسيق شائع. باستخدام Aspose.Imaging يمكنك عرض ملفات صور مختلفة دون تثبيت برامج خاصة خاصة بتنسيقات الصور المختلفة.
+إذا كنت بحاجة إلى عرض صورة أو صورة بتنسيق معين، فيمكنك تحويلها بسهولة إلى التنسيق الذي يدعمه نظام التشغيل الخاص بك. باستخدام Aspose.Imaging، يمكنك عرض مجموعة واسعة من ملفات الصور والصور دون الحاجة إلى تثبيت برامج محددة لكل تنسيق صورة.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-باستخدام Aspose.Imaging ، يمكنك بسهولة تطبيق **عرض الصورة** لتنسيقات الصور المختلفة برمجيا
+باستخدام مكتبة Aspose.Imaging لـ Python، يمكنك بسهولة إجراء عملية <b>عرض الصورة</b> للصور والصور ذات التنسيقات المختلفة برمجيًا.
 </p>
 <h3 style="margin-top:16px;">
-القائمة الكاملة لعمليات عرض الصورة المدعومة حسب تنسيقات الصور:
+حدد تنسيق صورة من القائمة لعملية عرض الصورة:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

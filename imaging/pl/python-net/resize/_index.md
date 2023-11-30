@@ -1,26 +1,26 @@
 ﻿---
-title: Zmień rozmiar obrazy Przez python-net, wszystkie obsługiwane formaty obrazów 
+title: Obrazy Zmień rozmiar przy użyciu języka Python 
 weight: 3920
 url: /pl/python-net/resize/ 
 lang: pl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Używając Aspose.Imaging możesz łatwo Zmień rozmiar obrazy Via python-net
+description: Stosowanie biblioteki Aspose.Imaging do obrazów i zdjęć Zmień rozmiar przy użyciu własnych aplikacji Python i interfejsów API serwera.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Pliki obrazów Zmień rozmiar przez python-net" h2="Obrazy Zmień rozmiar" downloadText="Ściągnij" >}}
+{{< blocks/products/pf/feature-page-header h1="Użyj języka Python do operacji Zmień rozmiar na obrazach" h2="Obrazy Zmień rozmiar za pośrednictwem własnych aplikacji Python przy użyciu biblioteki Aspose.Imaging" downloadText="Ściągnij" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty operacji obrazy Zmień rozmiar" %}}
+{{% blocks/products/pf/feature-page-section  h2="Zastosuj operację Zmień rozmiar do wszystkich dostępnych formatów obrazów" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Możesz zmienić rozmiar obrazu, aby był większy lub mniejszy, bez konieczności usuwania jakiejkolwiek zawartości. Wymiary obrazu zmieniają się podczas zmiany rozmiaru, co często ma wpływ na rozmiar pliku i jakość obrazu. Zmniejszanie rozmiaru dużych zdjęć w celu ułatwienia wysyłania ich pocztą e-mail lub udostępniania w Internecie to najpopularniejsze uzasadnienie zmniejszania zdjęć. Obrazy grafiki rastrowej należy skalować, tworząc nowy obraz z większą lub mniejszą liczbą pikseli. Aspose.Imaging pozwala użytkownikom na różne algorytmy zmiany rozmiaru, które pozwalają wybrać potrzebne.
+Dzięki Aspose.Imaging możesz zmieniać rozmiar obrazów lub zdjęć bez utraty informacji wizualnych. Podczas dostosowywania rozmiaru obrazu zmienia się waga pliku, co może prowadzić do utraty jakości. Zmniejszanie rozmiaru obrazów to główny sposób szybkiego wysyłania pocztą e-mail lub szybkiego pobierania ze strony internetowej. Podczas zmiany rozmiaru obrazów rastrowych tworzony jest nowy obraz z mniejszą lub większą liczbą pikseli, co oznacza, że ​​obraz jest skalowany. Aspose.Imaging udostępnia różne algorytmy zmiany rozmiaru, dzięki czemu możesz wybrać najbardziej odpowiedni dla konkretnego zadania.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Używając Aspose.Imaging możesz łatwo zastosować **Zmień rozmiar** dla różnych formatów obrazów programowo
+Korzystając z biblioteki Aspose.Imaging dla języka Python, możesz łatwo programowo wykonać operację <b>Zmień rozmiar</b> na obrazach i zdjęciach w różnych formatach.
 </p>
 <h3 style="margin-top:16px;">
-Pełna lista obsługiwanych operacji Zmień rozmiar według formatów obrazu:
+Wybierz format obrazu z listy dla operacji Zmień rozmiar:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

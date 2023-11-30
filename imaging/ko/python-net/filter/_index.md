@@ -1,26 +1,26 @@
 ﻿---
-title: 필터 이미지 python-net을 통해 지원되는 모든 이미지 형식 
+title: Python을 사용하는 필터 이미지 
 weight: 3920
 url: /ko/python-net/filter/ 
 lang: ko
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging을 사용하면 python-net을 통해 쉽게 필터 이미지를 만들 수 있습니다.
+description: 자체 Python 애플리케이션 및 서버 API를 사용하여 Aspose.Imaging 라이브러리를 필터 이미지 및 사진에 적용합니다.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="python-net을 통한 이미지 파일 필터" h2="{작업 이름} 이미지" downloadText="다운로드" >}}
+{{< blocks/products/pf/feature-page-header h1="이미지에 대한 필터 작업에 Python 사용" h2="Aspose.Imaging 라이브러리를 사용하여 자체 Python 애플리케이션을 통한 필터 이미지" downloadText="다운로드" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="필터 작업에 대해 지원되는 모든 형식 이미지" %}}
+{{% blocks/products/pf/feature-page-section  h2="사용 가능한 모든 이미지 형식에 필터 작업을 적용합니다." %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-사진 및 영화 촬영에서 필터는 광학 경로에 삽입할 수 있는 광학 필터로 구성된 카메라 액세서리입니다. 필터는 정사각형 또는 장방형일 수 있으며 홀더 액세서리 또는 보다 일반적으로 금속 또는 플라스틱 링 프레임의 유리 또는 플라스틱 디스크에 장착되어 카메라 렌즈 전면에 나사로 고정하거나 클립으로 고정할 수 있습니다. 필터는 기록된 이미지를 변경합니다. 그들은 때때로 사진을 아주 조금 변경하는 데 사용되며, 다른 경우에는 이미지 생성에 완전히 필요합니다. 흑백 사진에서 컬러 필터는 다양한 색상의 상대적인 밝기를 변경합니다. 빨간 립스틱은 사용된 필터에 따라 거의 흰색과 거의 검은색 사이로 보일 수 있습니다. 다른 사람들은 백열등 조명에서 촬영한 사진이 불그스름한 색조가 아닌 인식되는 대로 색상을 표시하도록 이미지의 색상 균형을 조정합니다. 의도적으로 이미지를 왜곡하여 선명한 이미지에 별 모양을 추가하는 등의 필터가 있습니다. 비금속 표면의 비스듬한 반사는 선형 및 원형 편광 필터를 사용하여 줄입니다. Aspose.Imaging은 Gaussian Blur, Sharpen, Median Filter, Motion Weiner 등의 필터를 지원합니다.
+사진 및 비디오 제작에서 필터는 광학 경로에 삽입할 수 있는 광학 필터를 포함하는 추가 카메라 액세서리입니다. 정사각형 또는 직사각형 반투명 유리일 수 있으며 카메라 렌즈 전면에 부착됩니다. 필터는 캡처된 이미지를 변경합니다. 흑백 사진에서는 컬러 필터가 다양한 색상의 밝기를 변경합니다. 사용하는 필터에 따라 녹색 사과는 거의 흰색으로 보일 수도 있고 거의 검은색으로 보일 수도 있습니다. 다른 필터는 이미지의 색상 균형을 조정하여 차가운 톤이 아닌 일광 램프 조명 아래에서 인지된 색상을 정확하게 표현합니다. 의도적으로 이미지를 왜곡하여 선명한 이미지를 흐릿하게 보이게 하는 필터도 있습니다. 선형 및 원형 편광 필터는 반사 표면의 눈부심을 줄여줍니다. Aspose.Imaging은 Gauss-Wiener Filter, Biternal Smoothing, Median Filter, Motion Weiner, Blur, Sharpen 등과 같은 다양한 필터를 지원합니다.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Aspose.Imaging을 사용하면 다양한 이미지 형식에 **필터** 을(를) 쉽게 적용할 수 있습니다 프로그래밍 방식으로. 
+Python용 Aspose.Imaging 라이브러리를 사용하면 다양한 형식의 이미지와 사진에 대한 <b>필터</b> 작업을 프로그래밍 방식으로 쉽게 수행할 수 있습니다.
 </p>
 <h3 style="margin-top:16px;">
-이미지 형식별로 지원되는 필터 작업의 전체 목록:
+필터 작업에 대한 목록에서 이미지 형식을 선택하세요.
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

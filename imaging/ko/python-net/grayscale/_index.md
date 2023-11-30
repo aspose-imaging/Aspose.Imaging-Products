@@ -1,26 +1,26 @@
 ﻿---
-title: 그레이스케일 이미지 python-net을 통해 지원되는 모든 이미지 형식 
+title: Python을 사용하는 그레이스케일 이미지 
 weight: 3920
 url: /ko/python-net/grayscale/ 
 lang: ko
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging을 사용하면 python-net을 통해 쉽게 그레이스케일 이미지를 만들 수 있습니다.
+description: 자체 Python 애플리케이션 및 서버 API를 사용하여 Aspose.Imaging 라이브러리를 그레이스케일 이미지 및 사진에 적용합니다.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="python-net을 통한 이미지 파일 그레이스케일" h2="{작업 이름} 이미지" downloadText="다운로드" >}}
+{{< blocks/products/pf/feature-page-header h1="이미지에 대한 그레이스케일 작업에 Python 사용" h2="Aspose.Imaging 라이브러리를 사용하여 자체 Python 애플리케이션을 통한 그레이스케일 이미지" downloadText="다운로드" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="그레이스케일 작업에 대해 지원되는 모든 형식 이미지" %}}
+{{% blocks/products/pf/feature-page-section  h2="사용 가능한 모든 이미지 형식에 그레이스케일 작업을 적용합니다." %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-그레이스케일 이미지는 각 픽셀의 값이 빛의 양만을 나타내는 단일 샘플인 이미지입니다. 즉, 강도 정보만 전달합니다. 그레이스케일 이미지는 디지털 사진, 컴퓨터 생성 이미징 및 색채 측정에 사용됩니다. 회색 음영은 흑백 또는 회색 단색 유형인 회색 음영 이미지만 구성합니다. 검정은 대비가 가장 낮고 흰색은 대비가 가장 큽니다. 그레이스케일 이미지는 컴퓨터 이미징의 맥락에서 흑백(이중 레벨 또는 이진 이미지라고도 함)의 두 가지 색상만 있는 이미지인 1비트 이중 톤 흑백 이미지와 구별됩니다. 그레이 스케일 사진에는 그 사이에 수많은 회색 음영이 있습니다. Aspose.Imaging을 사용하면 다양한 형식의 이미지를 그레이스케일할 수 있습니다.
+회색조로 표현된 영상은 각 픽셀이 빛의 세기만을 나타내는 값을 가지는 영상이다. 따라서 밝기에 대한 정보만 제공합니다. 따라서 검정색의 밝기가 가장 낮고 흰색의 밝기가 가장 높습니다. 회색 음영 사진에서는 검은색부터 흰색까지 회색 음영의 전체 규모를 관찰할 수 있지만 픽셀 색상에 대한 정보는 없습니다. 이미지를 회색조 버전으로 변환하는 것은 디지털 사진 및 컴퓨터 그래픽에서 널리 사용됩니다. Aspose.Imaging을 사용하면 컬러 이미지와 사진을 다양한 형식의 회색조로 변환할 수 있습니다.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Aspose.Imaging을 사용하면 다양한 이미지 형식에 **그레이스케일** 을(를) 쉽게 적용할 수 있습니다 프로그래밍 방식으로. 
+Python용 Aspose.Imaging 라이브러리를 사용하면 다양한 형식의 이미지와 사진에 대한 <b>그레이스케일</b> 작업을 프로그래밍 방식으로 쉽게 수행할 수 있습니다.
 </p>
 <h3 style="margin-top:16px;">
-이미지 형식별로 지원되는 그레이스케일 작업의 전체 목록:
+그레이스케일 작업에 대한 목록에서 이미지 형식을 선택하세요.
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

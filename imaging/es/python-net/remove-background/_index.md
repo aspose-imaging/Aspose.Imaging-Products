@@ -1,26 +1,26 @@
 ﻿---
-title: Imágenes de Quitar fondo A través de python-net, todos los formatos de imagen admitidos 
+title: Imágenes de Quitar fondo usando Python 
 weight: 3920
 url: /es/python-net/remove-background/ 
 lang: es
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging puede fácilmente Quitar fondo imágenes a través de python-net
+description: Aplicar la biblioteca Aspose.Imaging a imágenes y fotografías de Quitar fondo utilizando sus propias aplicaciones Python y API de servidor.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Archivos de imagen Quitar fondo a través de python-net" h2="Imágenes de Quitar fondo" downloadText="Descargar" >}}
+{{< blocks/products/pf/feature-page-header h1="Utilice Python para la operación Quitar fondo en imágenes" h2="Quitar fondo Imágenes a través de sus propias aplicaciones Python utilizando la biblioteca Aspose.Imaging" downloadText="Descargar" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos los imágenes formatos admitidos para la operación Quitar fondo" %}}
+{{% blocks/products/pf/feature-page-section  h2="Aplicar la operación Quitar fondo a todos los formatos de imagen disponibles" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Eliminar fondo es una operación que le permite eliminar fácilmente el fondo de sus fotos o imágenes. Como resultado de la eliminación del fondo, puede obtener un fondo transparente y poner en primer plano otro fondo. Usando Aspose.Imaging puede probar diferentes algoritmos de eliminación de fondo que pueden satisfacer sus necesidades para diferentes imágenes.
+Con la operación de eliminación de fondo, puede eliminar sin esfuerzo el fondo de fotografías o imágenes. Este proceso da como resultado objetos como figuras humanas con un fondo transparente. Posteriormente, podrás transferir fácilmente estos objetos a otra imagen con un fondo diferente. Al utilizar Aspose.Imaging, tiene la posibilidad de experimentar con varios algoritmos de eliminación de fondo que son adecuados para diferentes tipos de imágenes, según la complejidad de su tarea.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Usando Aspose.Imaging puede aplicar fácilmente **Quitar fondo** para diferentes formatos de imagen programáticamente
+Usando la biblioteca Aspose.Imaging para Python, puede realizar fácilmente la operación <b>Quitar fondo</b> para imágenes y fotografías de varios formatos mediante programación.
 </p>
 <h3 style="margin-top:16px;">
-Lista completa de operaciones {nombre de operación} admitidas por formatos de imagen:
+Seleccione un formato de imagen de la lista para la operación Quitar fondo:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

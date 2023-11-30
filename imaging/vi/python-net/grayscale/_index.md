@@ -1,26 +1,26 @@
 ﻿---
-title: hình ảnh thang độ xám Qua python-net, tất cả các định dạng hình ảnh được hỗ trợ 
+title: Hình ảnh thang độ xám sử dụng Python 
 weight: 3920
 url: /vi/python-net/grayscale/ 
 lang: vi
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Sử dụng Aspose.Imaging, bạn có thể dễ dàng thang độ xám hình ảnh qua python-net
+description: Áp dụng thư viện Aspose.Imaging cho hình ảnh và ảnh thang độ xám bằng ứng dụng Python và API máy chủ của riêng bạn.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Tệp hình ảnh thang độ xám qua python-net" h2="thang độ xám hình ảnh" downloadText="Tải xuống" >}}
+{{< blocks/products/pf/feature-page-header h1="Sử dụng Python cho thao tác thang độ xám trên hình ảnh" h2="Hình ảnh thang độ xám qua Ứng dụng Python của riêng bạn bằng Thư viện Aspose.Imaging" downloadText="Tải xuống" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Tất cả các hình ảnh định dạng được hỗ trợ cho thao tác thang độ xám" %}}
+{{% blocks/products/pf/feature-page-section  h2="Áp dụng thao tác thang độ xám cho tất cả các định dạng hình ảnh có sẵn" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Ảnh thang độ xám là ảnh trong đó giá trị của mỗi pixel là một mẫu duy nhất chỉ biểu thị một lượng ánh sáng; nghĩa là nó chỉ truyền tải thông tin về cường độ. Hình ảnh thang độ xám được sử dụng trong nhiếp ảnh kỹ thuật số, hình ảnh do máy tính tạo ra và đo màu. Các sắc thái của màu xám chỉ tạo thành các hình ảnh thang độ xám, một loại đơn sắc đen trắng hoặc xám. Màu đen có độ tương phản thấp nhất trong khi màu trắng có độ tương phản cao nhất. Hình ảnh thang độ xám khác với hình ảnh đen trắng hai tông màu một bit, là hình ảnh chỉ có hai màu: đen và trắng (còn được gọi là hình ảnh hai mức hoặc nhị phân) trong bối cảnh hình ảnh máy tính. Có rất nhiều sắc thái xám ở giữa trong ảnh thang độ xám. Sử dụng Aspose.Imaging, bạn có thể chuyển đổi màu xám cho hình ảnh của mình ở các định dạng khác nhau.
+Hình ảnh được biểu thị bằng mức độ tăng dần của màu xám là hình ảnh trong đó mỗi pixel chỉ có một giá trị biểu thị cường độ ánh sáng. Vì vậy, nó chỉ cung cấp thông tin về độ sáng. Theo đó, màu đen sẽ có độ sáng thấp nhất, còn màu trắng sẽ có độ sáng cao nhất. Trong các sắc thái của ảnh màu xám, bạn có thể quan sát toàn bộ thang màu xám từ đen sang trắng, trong khi không có thông tin về màu pixel. Chuyển đổi hình ảnh thành phiên bản thang độ xám được sử dụng rộng rãi trong nhiếp ảnh kỹ thuật số và đồ họa máy tính. Với Aspose.Imaging, bạn có thể chuyển đổi hình ảnh màu và ảnh thành thang độ xám ở nhiều định dạng khác nhau.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Sử dụng Aspose.Imaging, bạn có thể dễ dàng áp dụng **thang độ xám** cho các định dạng hình ảnh khác nhau lập trình
+Bằng cách sử dụng thư viện Aspose.Imaging cho Python, bạn có thể dễ dàng thực hiện thao tác <b>thang độ xám</b> đối với hình ảnh và ảnh chụp ở nhiều định dạng khác nhau theo chương trình.
 </p>
 <h3 style="margin-top:16px;">
-Danh sách đầy đủ các thao tác thang độ xám được hỗ trợ theo định dạng hình ảnh:
+Chọn định dạng hình ảnh từ danh sách cho thao tác thang độ xám:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

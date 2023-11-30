@@ -1,26 +1,26 @@
 ﻿---
-title: Zittern-Bilder Über python-net alle unterstützten Bildformate 
+title: Zittern-Bilder mit Python 
 weight: 3920
 url: /de/python-net/dither/ 
 lang: de
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Mit Aspose.Imaging können Sie ganz einfach Zittern Bilder über python-net
+description: Anwenden der Aspose.Imaging-Bibliothek auf Zittern-Bilder und Fotos mithilfe Ihrer eigenen Python-Anwendungen und Server-APIs.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Bilddateien Zittern über python-net" h2="Zittern Bilder" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Verwenden Sie Python für den Vorgang Zittern für Bilder" h2="Zittern-Bilder über Ihre eigenen Python-Anwendungen mithilfe der Aspose.Imaging-Bibliothek" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle unterstützten Bilder Formate für den Vorgang Zittern" %}}
+{{% blocks/products/pf/feature-page-section  h2="Wenden Sie den Vorgang Zittern auf alle verfügbaren Bildformate an" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-In der Computergrafik wird Dithering verwendet, um Bildern auf Systemen mit einer eingeschränkten Farbpalette den Eindruck von Farbtiefe zu verleihen. Eine Diffusion farbiger Pixel aus der verfügbaren Palette wird in einem geditherten Bild verwendet, um Farben anzunähern, die in der Palette nicht vorhanden sind.Für das menschliche Auge erscheint die Diffusion als eine Vermischung der darin enthaltenen Farben. Geditherte Fotos sind häufig an einer ausgeprägten Körnigkeit oder gesprenkelten Erscheinung zu erkennen, insbesondere wenn Paletten mit wenigen Farben verwendet werden. Durch Dithering wird einem Bild Rauschen oder ein Muster hinzugefügt, und das Muster ist häufig offensichtlich. Es hat sich gezeigt, dass unter diesen Bedingungen das durch blaues Rauschen verursachte Zittern am wenigsten störend und unattraktiv ist. Aspose.Imaging ermöglicht das Dithern Ihrer Bilder mit wenigen Algorithmen, die Sie nach Bedarf auswählen können.
+Dithering im Bereich der Computergrafik wird von Designern verwendet, um in Systemen mit einer begrenzten Farbpalette einen ausgeprägteren Farbeffekt zu erzielen. In einem geglätteten Bild werden Farbpixel aus der verfügbaren Palette verwendet, um fehlende Farben anzunähern, wodurch der Eindruck einer Farbmischung entsteht. Auf solchen Fotos fällt häufig eine deutliche Körnigkeit oder ein Punktmuster auf, insbesondere wenn Paletten mit einer begrenzten Anzahl von Farben verwendet werden. Der Dither-Vorgang wird angewendet, um dem Bild Rauschen oder Muster hinzuzufügen, und oft ist dieses Muster leicht sichtbar. Es hat sich gezeigt, dass in solchen Fällen die Verwendung von blauem Rauschen zum Dithering am optimalsten ist. Aspose.Imaging ermöglicht die Bildglättung mithilfe verschiedener Algorithmen, die je nach Ihren Vorlieben ausgewählt werden können.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Mit Aspose.Imaging können Sie ganz einfach **Zittern** für verschiedene Bildformate anwenden programmatisch
+Mit der Aspose.Imaging-Bibliothek für Python können Sie den Vorgang <b>Zittern</b> problemlos programmgesteuert für Bilder und Fotos verschiedener Formate ausführen.
 </p>
 <h3 style="margin-top:16px;">
-Vollständige Liste der unterstützten Zittern-Vorgänge nach Bildformaten:
+Wählen Sie ein Bildformat aus der Liste für den Vorgang Zittern aus:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

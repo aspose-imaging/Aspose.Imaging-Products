@@ -1,26 +1,26 @@
 ﻿---
-title: Justera bilder Via python-net, alla bildformat som stöds 
+title: Justera-bilder med Python 
 weight: 3920
 url: /sv/python-net/adjust/ 
 lang: sv
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Med Aspose.Imaging kan du enkelt Justera bilder via python-net
+description: Tillämpa Aspose.Imaging-biblioteket på Justera-bilder och foton med dina egna Python-applikationer och server-API:er.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Bildfiler Justera via python-net" h2="Justera bilder" downloadText="Ladda ner" >}}
+{{< blocks/products/pf/feature-page-header h1="Använd Python för Justera operation på bilder" h2="Justera-bilder via dina egna Python-applikationer som använder Aspose.Imaging-biblioteket" downloadText="Ladda ner" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alla bilder format som stöds för operationen Justera" %}}
+{{% blocks/products/pf/feature-page-section  h2="Använd åtgärden Justera på alla tillgängliga bildformat" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-En av huvudfunktionerna som erbjuds av de flesta bildbibliotek är färgkorrigeringar för digitala foton. Färgjusteringar innehåller följande kategorier som (1) Termen ljusstyrka beskriver hur ljus eller mörk en nyans är. Alla färger i en bild är upplysta när ljusstyrkan ökas, och alla färger mörknar när ljusstyrkan minskas; (2) När en bild har kontrast framträder objekten eller detaljerna i den mer. När kontrasten ökas ökar skillnaden mellan dess ljusa och mörka delar, vilket gör de ljusa områdena ljusare och de mörka delarna mörkare. Ljusare och mörkare delar kommer i princip att förbli desamma med mindre kontrast, men den övergripande bilden kommer att se mer enhetlig ut; (3) Gamma förbättrar ljusstyrkan och kontrasten för den indirekta belysningen som belyser ett objekt i bilden. Aspose.Imaging stöder justering av <b>Ljusstyrka</b>, <b>Gamma</b> och <b>Kontrast</b> för bilder.
+En av bildbehandlingsbibliotekets primära funktioner är att justera färginformationen för digitala bilder och foton. Färginställningarna inkluderar olika parametrar: (1) <b>"Ljusstyrka"</b> anger graden av ljushet eller mörkhet hos färgen. Om du ökar ljusstyrkan blir alla färger i bilden ljusare, medan en minskning av ljusstyrkan gör dem mörkare. (2) När bilden har hög <b>"Kontrast"</b>, framhävs objekt eller detaljer i den mer. Att öka kontrasten förstärker skillnaden mellan ljusa och mörka områden, vilket gör ljusa områden ännu ljusare och mörka områden ännu mörkare. Under hela denna process behåller ljusa och mörka områden sina relativa nyanser, men överlag verkar bilden mer enhetlig. (3) <b>"Gamma"</b> justerar ljusstyrkan och kontrasten för indirekt belysning som faller på ett objekt i bilden eller fotot. Aspose.Imaging tillåter justering av ljusstyrka, gamma och kontrast för bilder och foton.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Med Aspose.Imaging kan du enkelt använda **Justera** för olika bildformat programmatiskt
+Genom att använda Aspose.Imaging-biblioteket för Python kan du enkelt utföra <b>Justera</b>-åtgärden för bilder och foton i olika format programmatiskt.
 </p>
 <h3 style="margin-top:16px;">
-Fullständig lista över Justera-operationer som stöds efter bildformat:
+Välj ett bildformat från listan för åtgärden Justera:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

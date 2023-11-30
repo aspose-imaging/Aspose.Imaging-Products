@@ -1,26 +1,26 @@
 ﻿---
-title: Resize images Via python-net, all supported image formats 
+title: Resize images using Python 
 weight: 3920
 url: /python-net/resize/ 
 lang: en
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Using Aspose.Imaging you can easily Resize images Via python-net
+description: Applying Aspose.Imaging library to Resize images and photos using your own Python applications and server APIs.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Image files Resize via python-net" h2="Resize images" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Use Python for Resize Operation on Images" h2="Resize Images via Your Own Python Applications Using the Aspose.Imaging Library" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="All supported image formats for Resize operation" %}}
+{{% blocks/products/pf/feature-page-section  h2="Apply the Resize operation to all available image formats" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-You can resize an image to make it bigger or smaller without having to remove any content. The image's dimensions are changed when it is resized, which often has an impact on the file size and image quality. Reducing the size of huge pictures to make them easier to email or share online is the most popular justification for shrinking photos. Raster graphics images must be scaled by creating a new image with more or less pixels. Aspose.Imaging allows for users different resize algorithms that allows to choose needed.
+With Aspose.Imaging, you can resize images or photos without losing visual information. When adjusting the image size, its file weight changes, which can lead to loss of quality. Reducing the size of images is the main way to quickly send by email or fast download from an Internet site. When resizing raster images, a new image is created with fewer or more pixels, i.e. the image is scaled. Aspose.Imaging provides various resizing algorithms, allowing you to choose the most suitable one for a specific task.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Using Aspose.Imaging you can easily apply <b>Resize</b> for different image formats programmatically
+Using the Aspose.Imaging library for Python, you can easily perform the <b>Resize</b> operation for images and photos of various formats programmatically.
 </p>
 <h3 style="margin-top:16px;">
-Full list of supported Resize operations by image formats:
+Select an image format from the list for the Resize operation:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

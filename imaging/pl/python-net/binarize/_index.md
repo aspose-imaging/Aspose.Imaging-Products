@@ -1,26 +1,26 @@
 ﻿---
-title: Binaryzuj obrazy Przez python-net, wszystkie obsługiwane formaty obrazów 
+title: Obrazy Binaryzuj przy użyciu języka Python 
 weight: 3920
 url: /pl/python-net/binarize/ 
 lang: pl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Używając Aspose.Imaging możesz łatwo Binaryzuj obrazy Via python-net
+description: Stosowanie biblioteki Aspose.Imaging do obrazów i zdjęć Binaryzuj przy użyciu własnych aplikacji Python i interfejsów API serwera.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Pliki obrazów Binaryzuj przez python-net" h2="Obrazy Binaryzuj" downloadText="Ściągnij" >}}
+{{< blocks/products/pf/feature-page-header h1="Użyj języka Python do operacji Binaryzuj na obrazach" h2="Obrazy Binaryzuj za pośrednictwem własnych aplikacji Python przy użyciu biblioteki Aspose.Imaging" downloadText="Ściągnij" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Wszystkie obsługiwane formaty operacji obrazy Binaryzuj" %}}
+{{% blocks/products/pf/feature-page-section  h2="Zastosuj operację Binaryzuj do wszystkich dostępnych formatów obrazów" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Pierwszy plan i tło obrazu są rozdzielane za pomocą techniki zwanej progowaniem obrazu. Ta metoda przypisuje wartości pikseli zgodnie z zadanymi wartościami progowymi. Obrazy w skali szarości są progowane w wizji komputerowej. Jedną z najbardziej znanych metod jest Binaryzacja autorstwa <b>Otsu</b> i <b>Bradleya</b>. Aspose.Imaging obsługuje oba algorytmy. Korzystając z tych algorytmów, Twoje obrazy mogą zostać przekonwertowane na czarno-białe z progiem.
+Podczas przetwarzania obrazów stosowana jest metoda zwana binaryzacją, która polega na konwersji obrazu do formatu czarno-białego przy użyciu określonej wartości progowej. Metoda ta polega na przypisywaniu wartości pikseli na podstawie zadanej wartości progowej. Podczas pracy z obrazami w skali szarości ważne jest określenie wartości progowej oddzielającej obiekty przy użyciu technologii widzenia komputerowego. Dostępne są różne metody konwersji, takie jak binaryzacja przy użyciu metody <b>Otsu</b> i metody <b>Bradley</b>, obie obsługiwane przez Aspose.Imaging. Korzystając z tych algorytmów, możesz konwertować obrazy na czarno-białe z określoną wartością progową.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Używając Aspose.Imaging możesz łatwo zastosować **Binaryzuj** dla różnych formatów obrazów programowo
+Korzystając z biblioteki Aspose.Imaging dla języka Python, możesz łatwo programowo wykonać operację <b>Binaryzuj</b> na obrazach i zdjęciach w różnych formatach.
 </p>
 <h3 style="margin-top:16px;">
-Pełna lista obsługiwanych operacji Binaryzuj według formatów obrazu:
+Wybierz format obrazu z listy dla operacji Binaryzuj:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

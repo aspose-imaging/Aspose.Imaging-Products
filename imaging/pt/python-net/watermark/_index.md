@@ -1,26 +1,26 @@
 ﻿---
-title: Imagens Marca d'água Via python-net, todos os formatos de imagem suportados 
+title: Imagens de Marca d'água usando Python 
 weight: 3920
 url: /pt/python-net/watermark/ 
 lang: pt
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging, você pode facilmente imagens Marca d'água Via python-net
+description: Aplicando a biblioteca Aspose.Imaging a imagens e fotos de Marca d'água usando seus próprios aplicativos Python e APIs de servidor.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Arquivos de imagem Marca d'água via python-net" h2="Marca d'água imagens" downloadText="Download" >}}
+{{< blocks/products/pf/feature-page-header h1="Use Python para operação Marca d'água em imagens" h2="Imagens de Marca d'água por meio de seus próprios aplicativos Python usando a biblioteca Aspose.Imaging" downloadText="Download" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Todos os formatos suportados para a operação imagens Marca d'água" %}}
+{{% blocks/products/pf/feature-page-section  h2="Aplique a operação Marca d'água a todos os formatos de imagem disponíveis" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Uma marca d'água digital é um tipo de marcação sutilmente incorporada a um sinal que pode tolerar ruído, como dados de áudio, vídeo ou imagem. Geralmente é usado para estabelecer quem possui os direitos autorais de um determinado sinal. A prática de marca d'água envolve a codificação de dados digitais em um sinal de portadora; os dados ocultos devem, mas não precisam, estar relacionados ao sinal da portadora. A legitimidade ou integridade do sinal da operadora pode ser confirmada por meio de marcas d'água digitais, e as identidades de seus proprietários também podem ser reveladas. É freqüentemente usado para autenticação de notas e para rastrear violações de direitos autorais. Usando o Aspose.Imaging, você pode adicionar facilmente sua marca d'água à imagem selecionada sem precisar de muito código.
+Uma marca d'água digital é um tipo exclusivo de marcação semitransparente aplicada a uma imagem e permanece visível mesmo se a imagem for modificada. A técnica de marca d'água é comumente usada para indicar a propriedade ou fonte de uma imagem específica. As marcas d’água são frequentemente empregadas para verificação de autenticidade de produtos digitais ou proteção contra violação de direitos autorais. Com Aspose.Imaging, você pode adicionar facilmente sua própria marca d'água personalizada a qualquer imagem selecionada, sem a necessidade de codificação complexa ou software especializado.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Usando o Aspose.Imaging, você pode facilmente aplicar **Marca d'água** para diferentes formatos de imagem programaticamente
+Usando a biblioteca Aspose.Imaging para Python, você pode executar facilmente a operação <b>Marca d'água</b> para imagens e fotos de vários formatos de forma programática.
 </p>
 <h3 style="margin-top:16px;">
-Lista completa de operações Marca d'água suportadas por formatos de imagem:
+Selecione um formato de imagem na lista para a operação Marca d'água:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

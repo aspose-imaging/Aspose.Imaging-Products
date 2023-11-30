@@ -9,7 +9,7 @@ description: Python Görüntü işleme ve işleme kitaplığı. .NET aracılığ
 ---
 
 {{< blocks/products/pf/main-wrap-class>}}
-{{< blocks/products/pf/upper-banner h1="Aspose.Imaging for Python via .NET library ve API for Image Processing" h2="Herhangi bir görüntü düzenleyici gerektirmeden görüntüler oluşturun, yükleyin, değiştirin veya dönüştürün." downloadFreeTrialText="Ücretsiz deneme sürümünü indirin" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-python-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/imaging/python-net/" >}}
+{{< blocks/products/pf/upper-banner h1="Aspose.Imaging for Python via .NET library ve API for Image Processing" h2="Herhangi bir görüntü düzenleyiciye ihtiyaç duymadan görüntüleri değiştirmek için kendi Python uygulamalarınızı oluşturun" downloadFreeTrialText="Ücretsiz deneme sürümünü indirin" logoImageSrc="/imaging/images/imaging/headers/aspose_imaging-for-python-net.svg"  pfName="Aspose.Imaging" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/imaging/python-net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Imaging" subTitlepfName="for Python" >}}
 {{< blocks/products/pf/sub-menu logoImageSrc="/imaging/images/imaging/aspose_imaging-for-python-net.svg" 
@@ -19,42 +19,42 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
 
    <div class="col-lg-12">
     <h2 class="h2title">
-     Python için Aspose.Imaging ile Görüntü İşlemenin Tüm Potansiyelini Ortaya Çıkarın
+     Aspose.Imaging for Python ile görüntü işlemenin tüm yeteneklerini uygulayın
     </h2>
     <p align="justify">
-     Aspose.Imaging for Python, gelişmiş görüntü işleme yetenekleriyle sizi güçlendiren, kullanıcı dostu bir kitaplıktır. Bu çok yönlü API ile, özel bir görüntü düzenleyiciye ihtiyaç duymadan çok çeşitli görüntü işleme özelliklerini etkinleştirerek görüntüleri veya fotoğrafları zahmetsizce oluşturabilir, yükleyebilir, değiştirebilir, dönüştürebilir ve sıkıştırabilirsiniz.
+     Aspose.Imaging for Python, görüntü ve fotoğraf işleme için gelişmiş özellikler sunan bir kütüphanedir. Bu çok yönlü API ile, özel görüntü düzenleyicilere ihtiyaç duymadan görüntüleri veya fotoğrafları otomatik olarak yükleyebilir, dönüştürebilir, oluşturabilir ve değiştirebilirsiniz.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Temel Özellikleri Keşfedin:
+     Temel Özellikleri Kullanın:
     </h2>
     <p>
      <ul>
        <li>
-       Görüntü Dönüşümü: Görüntüleri kolaylıkla yeniden boyutlandırın, kırpın, çevirin, döndürün, ikilileştirin, gri tonlamalı, eğriliklerini düzeltin ve ayarlayın.
+       Görüntü dönüştürme: ölçeklendirin, yeniden boyutlandırın, kırpın, döndürün, siyah beyaza veya gri tonlamaya dönüştürün, görüntülerin veya fotoğrafların parlaklığını, kontrastını ve gamasını ayarlayın.
        </li>
        <li>
-       Gelişmiş Manipülasyon: Görüntü işleme görevlerinizi kontrol altına almak için filtreler, alfa harmanlama, sihirli değnek aracı uygulayın, filigranı kaldırın, arka planı kaldırın, renk taklidi ve maskeleme uygulayın.
+       Gelişmiş manipülasyonlar: filtreler uygulayın, alfa harmanlama, filigran ekleyin veya kaldırın, arka planları değiştirin, görüntüleri düzeltin, maskeler uygulayın ve görüntü işleme görevlerini otomatikleştirin.
        </li>
        <li>
-       Verimli Bellek Optimizasyonu: Sorunsuz ve verimli görüntü işleme sağlayan bellek optimizasyon stratejilerinin keyfini çıkarın.
+       Bellek optimizasyonu: hızlı ve verimli görüntü işlemeyi sağlayan bellek optimizasyon stratejilerini kullanın.
        </li>
        <li>
-       Çizim ve Grafik Temel Öğeleri: Çizim araçlarının gücünden yararlanın ve projelerinizi geliştirmek için grafik temel öğeleriyle çalışın.
+       Çizim ve grafik temelleri: grafik temelleri için çizim işlevlerini kullanın ve metni farklı yazı tipi stilleriyle uygulayın.
        </li>
        <li>
-       Dışa Aktarma ve Dönüştürme: Tek tip çok sayfalı görüntü işleme de dahil olmak üzere görüntüleri sorunsuz bir şekilde dışa aktarın ve dönüştürün.
+       Görüntü dönüştürme: Çok sayfalı görüntülerin birleştirilmiş işlenmesi de dahil olmak üzere görüntüleri diğer formatlara dönüştürerek dışa aktarın.
        </li>
      </ul>
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Biçim Uyumluluğu
+     Çeşitli format desteği
     </h2>
     <p align="justify">
-     Aspose.Imaging for Python yalnızca esnek ve istikrarlı değil aynı zamanda çok yönlüdür. En sık kullanılan görüntü formatlarını destekler ve DjVu, DICOM, WebP, EPS ve DNG gibi özel formatlara destek sağlayarak bir adım daha ileri gider. Bu kapsamlı format desteği, onu çok çeşitli görüntü işleme görevleri için başvuracağınız çözüm haline getirir.
+     Çeşitli formatlara yönelik destek Aspose.Imaging for Python, kararlılığı, çok yönlülüğü ve işlevselliğiyle öne çıkıyor. APNG, WebP, EPS, PDF ve DICOM gibi özel formatlar da dahil olmak üzere çok çeşitli formatları destekler. Geniş format desteği, onu çok çeşitli görüntü işleme görevleri için ideal bir çözüm haline getirir.
     </p>
    </div>
    <div class="col-lg-12">
@@ -62,10 +62,10 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
      Platformlar Arası Uyumluluk
     </h2>
     <p align="justify">
-     Aspose.Imaging, hem Windows hem de Linux ortamlarıyla uyumluluk sağlayan, platformlar arası bir kütüphanedir. İster Windows ister Linux sisteminde çalışıyor olun, Aspose.Imaging'in tutarlı, yüksek kaliteli görüntü işleme yetenekleri sunacağına güvenebilirsiniz.
+     Aspose.Imaging, platformlar arası uyumluluğu sayesinde hem Windows hem de Linux işletim sistemlerinde kullanılabilen evrensel bir kütüphanedir. İstikrarlı ve yüksek kaliteli görüntü işleme yetenekleri sağlaması konusunda Aspose.Imaging'e güvenebilirsiniz.
     </p>
     <p align="justify">
-     Aspose.Imaging for Python ile görüntü işleme projelerinizi yeni boyutlara yükseltin. API'mizin esnekliğini, kararlılığını ve gücünü bugün deneyimleyin.
+     Aspose.Imaging for Python ile görüntü işlemede yeni bir kalite seviyesine ulaşın. API'mızı bugün kullanın ve esnekliğini, kararlılığını ve performansını deneyimleyin.
     </p>
    </div>
 
@@ -184,7 +184,19 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
-   
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    .NET Framework
+   </header>
+   <ul>
+    <li>
+     Windows Uygulaması
+    </li>
+    <li>
+     ASP.NET Web Uygulaması
+    </li>
+   </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">

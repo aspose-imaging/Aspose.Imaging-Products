@@ -1,26 +1,26 @@
 ﻿---
-title: Obrázky Vodoznak Prostřednictvím python-net, všechny podporované formáty obrázků 
+title: obrázky Vodoznak pomocí Python 
 weight: 3920
 url: /cs/python-net/watermark/ 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Pomocí Aspose.Imaging můžete snadno Vodoznak obrázky přes python-net
+description: Použití knihovny Aspose.Imaging na obrázky a fotografie Vodoznak pomocí vašich vlastních aplikací Python a serverových API.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Soubory obrázků Vodoznak prostřednictvím python-net" h2="obrázky Vodoznak" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Použijte Python pro operaci Vodoznak s obrázky" h2="Vodoznak Obrázky prostřednictvím vašich vlastních aplikací Python pomocí knihovny Aspose.Imaging" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované snímky formáty pro operaci Vodoznak" %}}
+{{% blocks/products/pf/feature-page-section  h2="Použijte operaci Vodoznak na všechny dostupné formáty obrázků" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Digitální vodoznak je typ označení, které je nenápadně začleněno do signálu, který dokáže tolerovat šum, jako jsou audio, video nebo obrazová data. Často se používá ke zjištění, kdo vlastní autorská práva k určitému signálu. Praxe vodoznaku zahrnuje kódování digitálních dat do nosného signálu; skrytá data by se měla, ale nemusí vztahovat k nosnému signálu. Legitimnost nebo integrita nosného signálu může být potvrzena pomocí digitálních vodoznaků a může být také odhalena identita jejich vlastníků. Často se používá pro ověřování pravosti bankovek a pro sledování porušování autorských práv. Pomocí Aspose.Imaging můžete snadno přidat vodoznak do vybraného obrázku, aniž byste potřebovali mnoho kódu.
+Digitální vodoznak je jedinečný typ poloprůhledného označení, které se aplikuje na obrázek a zůstane viditelné, i když je obrázek upraven. Technika vodoznaku se běžně používá k označení vlastnictví nebo zdroje konkrétního obrázku. Vodoznaky se často používají k ověření pravosti digitálních produktů nebo k ochraně před porušením autorských práv. S Aspose.Imaging můžete bez námahy přidat svůj vlastní vodoznak do libovolného vybraného obrázku bez nutnosti složitého kódování nebo specializovaného softwaru.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Pomocí Aspose.Imaging můžete snadno použít **Vodoznak** pro různé formáty obrázků programově
+Pomocí knihovny Aspose.Imaging pro Python můžete snadno programově provést operaci <b>Vodoznak</b> pro obrázky a fotografie různých formátů.
 </p>
 <h3 style="margin-top:16px;">
-Úplný seznam podporovaných operací Vodoznak podle formátů obrázků:
+Vyberte ze seznamu formát obrázku pro operaci Vodoznak:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

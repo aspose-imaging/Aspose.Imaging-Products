@@ -1,26 +1,26 @@
 ﻿---
-title: 이진화 이미지 python-net을 통해 지원되는 모든 이미지 형식 
+title: Python을 사용하는 이진화 이미지 
 weight: 3920
 url: /ko/python-net/binarize/ 
 lang: ko
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging을 사용하면 python-net을 통해 쉽게 이진화 이미지를 만들 수 있습니다.
+description: 자체 Python 애플리케이션 및 서버 API를 사용하여 Aspose.Imaging 라이브러리를 이진화 이미지 및 사진에 적용합니다.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="python-net을 통한 이미지 파일 이진화" h2="{작업 이름} 이미지" downloadText="다운로드" >}}
+{{< blocks/products/pf/feature-page-header h1="이미지에 대한 이진화 작업에 Python 사용" h2="Aspose.Imaging 라이브러리를 사용하여 자체 Python 애플리케이션을 통한 이진화 이미지" downloadText="다운로드" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="이진화 작업에 대해 지원되는 모든 형식 이미지" %}}
+{{% blocks/products/pf/feature-page-section  h2="사용 가능한 모든 이미지 형식에 이진화 작업을 적용합니다." %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-이미지의 전경과 배경은 이미지 임계값이라는 기술을 사용하여 분리됩니다. 이 방법은 주어진 임계값에 따라 픽셀 값을 할당합니다. 그레이스케일 이미지는 컴퓨터 비전에서 임계값으로 지정됩니다. 가장 잘 알려진 방법 중 하나는 <b>Otsu</b>와 <b>Bradley</b>의 이진화입니다. Aspose.Imaging은 두 알고리즘을 모두 지원합니다. 이러한 알고리즘을 사용하여 이미지를 임계값이 있는 흑백으로 변환할 수 있습니다.
+이미지를 처리할 때 지정된 임계값을 사용하여 이미지를 흑백 형식으로 변환하는 이진화라는 방법이 적용됩니다. 이 방법에는 주어진 임계값을 기반으로 픽셀 값을 할당하는 작업이 포함됩니다. 회색조 이미지로 작업할 때 컴퓨터 비전 기술을 사용하여 개체를 분리하기 위한 임계값을 지정하는 것이 중요합니다. Aspose.Imaging에서 지원하는 <b>Otsu</b> 및 <b>Bradley</b> 방법을 사용한 이진화와 같은 다양한 변환 방법을 사용할 수 있습니다. 이러한 알고리즘을 활용하면 지정된 임계값을 사용하여 이미지를 흑백으로 변환할 수 있습니다.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Aspose.Imaging을 사용하면 다양한 이미지 형식에 **이진화** 을(를) 쉽게 적용할 수 있습니다 프로그래밍 방식으로. 
+Python용 Aspose.Imaging 라이브러리를 사용하면 다양한 형식의 이미지와 사진에 대한 <b>이진화</b> 작업을 프로그래밍 방식으로 쉽게 수행할 수 있습니다.
 </p>
 <h3 style="margin-top:16px;">
-이미지 형식별로 지원되는 이진화 작업의 전체 목록:
+이진화 작업에 대한 목록에서 이미지 형식을 선택하세요.
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

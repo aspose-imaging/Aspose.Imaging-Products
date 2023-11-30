@@ -1,26 +1,26 @@
 ﻿---
-title: gambar Skala abu-abu Melalui python-net, semua format gambar yang didukung 
+title: gambar Skala abu-abu menggunakan Python 
 weight: 3920
 url: /id/python-net/grayscale/ 
 lang: id
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Menggunakan Aspose.Imaging Anda dapat dengan mudah Skala abu-abu gambar Via python-net
+description: Menerapkan pustaka Aspose.Imaging ke gambar dan foto Skala abu-abu menggunakan aplikasi Python dan API server Anda sendiri.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="File gambar Skala abu-abu melalui python-net" h2="gambar Skala abu-abu" downloadText="Unduh" >}}
+{{< blocks/products/pf/feature-page-header h1="Gunakan Python untuk Operasi Skala abu-abu pada Gambar" h2="Skala abu-abu Gambar melalui Aplikasi Python Anda Sendiri Menggunakan Perpustakaan Aspose.Imaging" downloadText="Unduh" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Semua gambar-gambar format yang didukung untuk operasi Skala abu-abu" %}}
+{{% blocks/products/pf/feature-page-section  h2="Terapkan operasi Skala abu-abu ke semua format gambar yang tersedia" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Gambar skala abu-abu adalah gambar di mana nilai setiap piksel adalah sampel tunggal yang hanya menunjukkan kuantitas cahaya; artinya, hanya menyampaikan informasi intensitas. Gambar skala abu-abu digunakan dalam fotografi digital, pencitraan yang dihasilkan komputer, dan kolorimetri. Nuansa abu-abu hanya membentuk gambar skala abu-abu, sejenis monokrom hitam-putih atau abu-abu. Hitam memiliki kontras terendah sedangkan putih memiliki kontras paling tinggi. Gambar skala abu-abu berbeda dari gambar hitam-putih bi-tonal satu-bit, yang merupakan gambar dengan hanya dua warna: hitam dan putih (juga dikenal sebagai gambar bilevel atau biner) dalam konteks pencitraan komputer. Ada banyak nuansa abu-abu di antaranya dalam foto skala abu-abu. Menggunakan Aspose.Imaging Anda dapat mengubah skala gambar Anda dari berbagai format.
+Citra yang direpresentasikan dalam gradasi warna abu-abu merupakan citra yang setiap pikselnya mempunyai nilai yang hanya menunjukkan intensitas cahaya saja. Jadi, ini hanya memberikan informasi tentang kecerahan. Oleh karena itu, warna hitam akan memiliki kecerahan paling rendah, sedangkan putih akan memiliki kecerahan tertinggi. Dalam foto bernuansa abu-abu, Anda dapat mengamati seluruh skala warna abu-abu dari hitam ke putih, sedangkan informasi tentang warna piksel tidak ada. Mengubah gambar menjadi versi skala abu-abu banyak digunakan dalam fotografi digital dan grafik komputer. Dengan Aspose.Imaging, Anda dapat mengubah gambar dan foto berwarna menjadi skala abu-abu dalam berbagai format.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Menggunakan Aspose.Imaging Anda dapat dengan mudah menerapkan **Skala abu-abu** untuk berbagai format gambar secara terprogram
+Dengan menggunakan pustaka Aspose.Imaging untuk Python, Anda bisa dengan mudah melakukan operasi <b>Skala abu-abu</b> untuk gambar dan foto dalam berbagai format secara terprogram.
 </p>
 <h3 style="margin-top:16px;">
-Daftar lengkap operasi Skala abu-abu yang didukung menurut format gambar:
+Pilih format gambar dari daftar untuk operasi Skala abu-abu:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

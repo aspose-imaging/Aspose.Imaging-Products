@@ -1,26 +1,26 @@
 ﻿---
-title: Obrázky Odstraňte pozadí Prostřednictvím python-net, všechny podporované formáty obrázků 
+title: obrázky Odstraňte pozadí pomocí Python 
 weight: 3920
 url: /cs/python-net/remove-background/ 
 lang: cs
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Pomocí Aspose.Imaging můžete snadno Odstraňte pozadí obrázky přes python-net
+description: Použití knihovny Aspose.Imaging na obrázky a fotografie Odstraňte pozadí pomocí vašich vlastních aplikací Python a serverových API.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Soubory obrázků Odstraňte pozadí prostřednictvím python-net" h2="obrázky Odstraňte pozadí" downloadText="Stažení" >}}
+{{< blocks/products/pf/feature-page-header h1="Použijte Python pro operaci Odstraňte pozadí s obrázky" h2="Odstraňte pozadí Obrázky prostřednictvím vašich vlastních aplikací Python pomocí knihovny Aspose.Imaging" downloadText="Stažení" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Všechny podporované snímky formáty pro operaci Odstraňte pozadí" %}}
+{{% blocks/products/pf/feature-page-section  h2="Použijte operaci Odstraňte pozadí na všechny dostupné formáty obrázků" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Odebrat pozadí je operace, která vám umožňuje snadno odstranit pozadí z vašich fotografií nebo obrázků. V důsledku odstranění pozadí můžete získat průhledné pozadí a umístit popředí na jiné pozadí. Pomocí Aspose.Imaging můžete vyzkoušet různé algoritmy odstranění pozadí, které mohou vyhovovat vašim potřebám pro různé obrázky.
+Pomocí operace odstranění pozadí můžete bez námahy odstranit pozadí z fotografií nebo obrázků. Výsledkem tohoto procesu jsou objekty, jako jsou lidské postavy s průhledným pozadím. Následně můžete tyto objekty snadno přenést na jiný obrázek s jiným pozadím. S využitím Aspose.Imaging máte možnost experimentovat s různými algoritmy odstranění pozadí, které jsou vhodné pro různé typy obrázků v závislosti na složitosti vašeho úkolu.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Pomocí Aspose.Imaging můžete snadno použít **Odstraňte pozadí** pro různé formáty obrázků programově
+Pomocí knihovny Aspose.Imaging pro Python můžete snadno programově provést operaci <b>Odstraňte pozadí</b> pro obrázky a fotografie různých formátů.
 </p>
 <h3 style="margin-top:16px;">
-Úplný seznam podporovaných operací Odstraňte pozadí podle formátů obrázků:
+Vyberte ze seznamu formát obrázku pro operaci Odstraňte pozadí:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

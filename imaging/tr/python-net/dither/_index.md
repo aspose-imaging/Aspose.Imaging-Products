@@ -1,26 +1,26 @@
 ﻿---
-title: Titreşim görüntüleri python-net aracılığıyla, desteklenen tüm görüntü biçimleri 
+title: Python kullanan Titreşim görselleri 
 weight: 3920
 url: /tr/python-net/dither/ 
 lang: tr
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging'i kullanarak, python-net Aracılığıyla kolayca Titreşim görüntüleri oluşturabilirsiniz
+description: Kendi Python uygulamalarınızı ve sunucu API'lerinizi kullanarak Aspose.Imaging kitaplığını Titreşim görsellerine ve fotoğraflarına uygulama.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="python-net aracılığıyla Titreşim görüntü dosyaları" h2="Titreşim görselleri" downloadText="İndirmek" >}}
+{{< blocks/products/pf/feature-page-header h1="Görsellerde Titreşim İşlemi için Python kullanın" h2="Aspose.Imaging Kütüphanesini Kullanarak Kendi Python Uygulamalarınız Üzerinden Titreşim Görselleri" downloadText="İndirmek" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Titreşim işlemi Görüntüler için desteklenen tüm biçimler" %}}
+{{% blocks/products/pf/feature-page-section  h2="Titreşim işlemini mevcut tüm resim formatlarına uygulayın" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Bilgisayar grafiklerinde, kısıtlı renk paletine sahip sistemlerde görüntülerde renk derinliği görünümü vermek için renk taklidi kullanılır. Palette bulunmayan renklere yaklaşmak için, taklidi yapılan bir görüntüde, mevcut paletteki renkli piksellerin dağılımı kullanılır. Yayılma, insan gözüne, içinde bulunan renklerin bir karışımı olarak görünür. Titreşimli fotoğraflar, özellikle az renk içeren paletler kullanılırken, genellikle ayırt edici bir grenlilik veya benekli görünüm ile tanımlanabilir. Titreşim bir görüntüye gürültü veya desen ekler ve model sıklıkla belirgindir. Bu koşullar altında, mavi gürültünün ürettiği titremenin en az rahatsız edici ve itici olduğu kanıtlanmıştır. Aspose.Imaging, ihtiyacınıza göre seçebileceğiniz birkaç algoritma ile görüntülerinizi titretmenize olanak tanır.
+Bilgisayar grafikleri alanında renk taklidi, tasarımcılar tarafından sınırlı renk paletine sahip sistemlerde daha belirgin bir renk efekti elde etmek için kullanılır. Düzleştirilmiş bir görüntüde, mevcut paletteki renk pikselleri eksik renkleri yaklaşık olarak belirlemek için kullanılır ve renk karışımı izlenimi yaratılır. Çoğu zaman, özellikle sınırlı sayıda renk içeren paletler kullanırken, bu tür fotoğraflarda belirgin bir grenlilik veya nokta deseni fark edebilirsiniz. Titreşim işlemi, görüntüye gürültü veya desen eklemek için uygulanır ve çoğu zaman bu desen kolaylıkla görülebilir. Bu gibi durumlarda, renk taklidi için mavi gürültü kullanımının en uygun yöntem olduğu gösterilmiştir. Aspose.Imaging, tercihlerinize göre seçilebilen çeşitli algoritmalar kullanılarak görüntü yumuşatılmasına olanak tanır.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Aspose.Imaging'i kullanarak farklı görüntü formatları için **Titreşim** işlemini kolayca uygulayabilirsiniz programlı olarak
+Python için Aspose.Imaging kütüphanesini kullanarak, çeşitli formatlardaki görüntüler ve fotoğraflar için <b>Titreşim</b> işlemini programlı olarak kolayca gerçekleştirebilirsiniz.
 </p>
 <h3 style="margin-top:16px;">
-Görüntü biçimlerine göre desteklenen {işlem adı} işlemlerinin tam listesi:
+Titreşim işlemi için listeden bir görüntü formatı seçin:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}

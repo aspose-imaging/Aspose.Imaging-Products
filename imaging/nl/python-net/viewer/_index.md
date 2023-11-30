@@ -1,26 +1,26 @@
 ﻿---
-title: Bekijk afbeelding afbeeldingen Via python-net, alle ondersteunde afbeeldingsformaten 
+title: Bekijk afbeelding afbeeldingen met Python 
 weight: 3920
 url: /nl/python-net/viewer/ 
 lang: nl
 langdirlevel: 2
 locales: zh-hans,ja,it,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hant,ar,hi,th,sv,cs,uk,he
-description: Met behulp van Aspose.Imaging kunt u eenvoudig Bekijk afbeelding afbeeldingen maken via python-net
+description: Aspose.Imaging-bibliotheek toepassen op Bekijk afbeelding afbeeldingen en foto's met behulp van uw eigen Python-applicaties en server-API's.
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="Afbeeldingsbestanden Bekijk afbeelding via python-net" h2="Bekijk afbeelding afbeeldingen" downloadText="Downloaden" >}}
+{{< blocks/products/pf/feature-page-header h1="Gebruik Python voor bewerking van Bekijk afbeelding op afbeeldingen" h2="Bekijk afbeelding Afbeeldingen via uw eigen Python-applicaties met behulp van de Aspose.Imaging-bibliotheek" downloadText="Downloaden" >}}
 
 
-{{% blocks/products/pf/feature-page-section  h2="Alle ondersteunde indelingen voor de bewerking afbeeldingen Bekijk afbeelding" %}}
+{{% blocks/products/pf/feature-page-section  h2="Pas de bewerking Bekijk afbeelding toe op alle beschikbare afbeeldingsformaten" %}}
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Wanneer u uw afbeelding of foto moet bekijken die geen breed bevolkt formaat heeft, kunt u eenvoudig een voorbeeld bekijken van het geconverteerd naar een populair formaat. Met Aspose.Imaging kunt u verschillende afbeeldingsbestanden bekijken zonder speciale programma's te installeren die specifiek zijn voor verschillende afbeeldingsindelingen.
+Als u een afbeelding of foto in een bepaald formaat wilt bekijken, kunt u deze eenvoudig converteren naar het formaat dat door uw besturingssysteem wordt ondersteund. Met Aspose.Imaging kunt u een breed scala aan afbeeldings- en fotobestanden bekijken zonder dat u voor elk afbeeldingsformaat specifieke programma's hoeft te installeren.
 </p>
 <p align="justify" style="text-indent:2em;font-size:15px;">
-Met Aspose.Imaging kunt u eenvoudig **Bekijk afbeelding** toepassen voor verschillende afbeeldingsformaten programmatisch
+Met behulp van de Aspose.Imaging-bibliotheek voor Python kunt u eenvoudig de bewerking <b>Bekijk afbeelding</b> programmatisch uitvoeren voor afbeeldingen en foto's van verschillende formaten.
 </p>
 <h3 style="margin-top:16px;">
-Volledige lijst met ondersteunde Bekijk afbeelding-bewerkingen per afbeeldingsindeling:
+Selecteer een afbeeldingsformaat uit de lijst voor de bewerking Bekijk afbeelding:
 </h3>
 <hr/>
 {{% /blocks/products/pf/feature-page-section %}}
