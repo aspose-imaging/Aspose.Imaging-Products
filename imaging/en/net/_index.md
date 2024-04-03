@@ -526,6 +526,11 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
      </a>
     </p>
    </div>
+     <div class="col-lg-4">
+    <em class="fa fa-link ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10"><a href="/imaging/en/net/adapters/">Adapters</a></p>
+   </div>    
 <div class="col-lg-12">
   <h2 class="h2title">Various image filters and effects</h2>
 </div>
