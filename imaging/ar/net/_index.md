@@ -516,7 +516,7 @@ liveDemosLink="https://products.aspose.app/imaging/family/" PricingLink="https:/
      <div class="col-lg-4">
     <em class="fa fa-link ico-blue fa-2x col-lg-2">
     </em>
-    <p class="col-lg-10"><a href="/imaging/ar/net/adapters/">Adapters</a></p>
+    <p class="col-lg-10"><a href="/imaging/ar/adapters/net/">Adapters</a></p>
    </div>    
 <div class="col-lg-12">
   <h2 class="h2title">مرشحات وتأثيرات مختلفة للصور</h2>
