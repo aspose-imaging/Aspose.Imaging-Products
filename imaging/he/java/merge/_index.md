@@ -34,3 +34,5 @@ description: באמצעות Aspose.Imaging תוכל בקלות לְמַזֵג ת
     </div>
 </div>
 <br/>
+
+{{< /blocks/products/pf/feature-page-wrap >}}

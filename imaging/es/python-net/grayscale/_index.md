@@ -34,3 +34,5 @@ Seleccione un formato de imagen de la lista para la operación escala de grises:
     </div>
 </div>
 <br/>
+
+{{< /blocks/products/pf/feature-page-wrap >}}

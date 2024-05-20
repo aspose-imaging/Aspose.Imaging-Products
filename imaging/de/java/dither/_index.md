@@ -34,3 +34,5 @@ Vollständige Liste der unterstützten Zittern-Vorgänge nach Bildformaten:
     </div>
 </div>
 <br/>
+
+{{< /blocks/products/pf/feature-page-wrap >}}

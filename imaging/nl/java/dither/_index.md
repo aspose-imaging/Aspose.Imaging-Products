@@ -34,3 +34,5 @@ Volledige lijst met ondersteunde Dither-bewerkingen per afbeeldingsindeling:
     </div>
 </div>
 <br/>
+
+{{< /blocks/products/pf/feature-page-wrap >}}

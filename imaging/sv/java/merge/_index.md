@@ -34,3 +34,5 @@ Fullständig lista över Sammanfoga-operationer som stöds efter bildformat:
     </div>
 </div>
 <br/>
+
+{{< /blocks/products/pf/feature-page-wrap >}}

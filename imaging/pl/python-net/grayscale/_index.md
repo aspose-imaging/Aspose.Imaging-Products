@@ -34,3 +34,5 @@ Wybierz format obrazu z listy dla operacji Skala szarości:
     </div>
 </div>
 <br/>
+
+{{< /blocks/products/pf/feature-page-wrap >}}

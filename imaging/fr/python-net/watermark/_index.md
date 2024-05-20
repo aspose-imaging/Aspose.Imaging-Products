@@ -34,3 +34,5 @@ Sélectionnez un format d'image dans la liste pour l'opération Filigrane:
     </div>
 </div>
 <br/>
+
+{{< /blocks/products/pf/feature-page-wrap >}}

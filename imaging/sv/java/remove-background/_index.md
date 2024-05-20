@@ -34,3 +34,5 @@ Fullständig lista över Ta bort bakgrund-operationer som stöds efter bildforma
     </div>
 </div>
 <br/>
+
+{{< /blocks/products/pf/feature-page-wrap >}}

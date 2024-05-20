@@ -34,3 +34,5 @@ Danh sách đầy đủ các thao tác Trồng trọt được hỗ trợ theo �
     </div>
 </div>
 <br/>
+
+{{< /blocks/products/pf/feature-page-wrap >}}

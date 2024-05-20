@@ -34,3 +34,5 @@ Välj ett bildformat från listan för åtgärden Filtrera:
     </div>
 </div>
 <br/>
+
+{{< /blocks/products/pf/feature-page-wrap >}}

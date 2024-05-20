@@ -34,3 +34,5 @@ Pilih format gambar dari daftar untuk operasi Tanaman:
     </div>
 </div>
 <br/>
+
+{{< /blocks/products/pf/feature-page-wrap >}}

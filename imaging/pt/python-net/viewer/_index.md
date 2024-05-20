@@ -34,3 +34,5 @@ Selecione um formato de imagem na lista para a operação Ver imagem:
     </div>
 </div>
 <br/>
+
+{{< /blocks/products/pf/feature-page-wrap >}}

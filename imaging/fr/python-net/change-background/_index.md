@@ -34,3 +34,5 @@ Sélectionnez un format d'image dans la liste pour l'opération Changement de fo
     </div>
 </div>
 <br/>
+
+{{< /blocks/products/pf/feature-page-wrap >}}

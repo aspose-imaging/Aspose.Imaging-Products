@@ -34,3 +34,5 @@ Elenco completo delle operazioni Raccolto supportate per formati immagine:
     </div>
 </div>
 <br/>
+
+{{< /blocks/products/pf/feature-page-wrap >}}

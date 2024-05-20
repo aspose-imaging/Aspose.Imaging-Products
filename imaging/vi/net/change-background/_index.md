@@ -34,3 +34,5 @@ Danh sách đầy đủ các thao tác Thay đổi nền được hỗ trợ the
     </div>
 </div>
 <br/>
+
+{{< /blocks/products/pf/feature-page-wrap >}}

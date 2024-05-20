@@ -34,3 +34,5 @@ Selecteer een afbeeldingsformaat uit de lijst voor de bewerking Verwijder achter
     </div>
 </div>
 <br/>
+
+{{< /blocks/products/pf/feature-page-wrap >}}

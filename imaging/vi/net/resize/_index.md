@@ -34,3 +34,5 @@ Danh sách đầy đủ các thao tác Thay đổi kích thước được hỗ 
     </div>
 </div>
 <br/>
+
+{{< /blocks/products/pf/feature-page-wrap >}}

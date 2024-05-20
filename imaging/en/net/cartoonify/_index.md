@@ -34,3 +34,5 @@ Full list of supported Cartoonify operations by image formats:
     </div>
 </div>
 <br/>
+
+{{< /blocks/products/pf/feature-page-wrap >}}

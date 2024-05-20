@@ -34,3 +34,5 @@ Volledige lijst met ondersteunde Verander de achtergrond-bewerkingen per afbeeld
     </div>
 </div>
 <br/>
+
+{{< /blocks/products/pf/feature-page-wrap >}}

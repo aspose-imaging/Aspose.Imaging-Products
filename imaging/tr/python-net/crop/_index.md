@@ -34,3 +34,5 @@ Mahsul işlemi için listeden bir görüntü formatı seçin:
     </div>
 </div>
 <br/>
+
+{{< /blocks/products/pf/feature-page-wrap >}}

@@ -34,3 +34,5 @@ Wählen Sie ein Bildformat aus der Liste für den Vorgang Binarisieren aus:
     </div>
 </div>
 <br/>
+
+{{< /blocks/products/pf/feature-page-wrap >}}

@@ -34,3 +34,5 @@ Vollständige Liste der unterstützten Größe ändern-Vorgänge nach Bildformat
     </div>
 </div>
 <br/>
+
+{{< /blocks/products/pf/feature-page-wrap >}}

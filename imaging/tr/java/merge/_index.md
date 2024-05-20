@@ -34,3 +34,5 @@ Görüntü biçimlerine göre desteklenen {işlem adı} işlemlerinin tam listes
     </div>
 </div>
 <br/>
+
+{{< /blocks/products/pf/feature-page-wrap >}}

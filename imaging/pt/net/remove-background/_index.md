@@ -34,3 +34,5 @@ Lista completa de operações Remover imagem de fundo suportadas por formatos de
     </div>
 </div>
 <br/>
+
+{{< /blocks/products/pf/feature-page-wrap >}}

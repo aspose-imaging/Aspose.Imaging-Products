@@ -34,3 +34,5 @@ Seleziona un formato immagine dall'elenco per l'operazione Regolare:
     </div>
 </div>
 <br/>
+
+{{< /blocks/products/pf/feature-page-wrap >}}

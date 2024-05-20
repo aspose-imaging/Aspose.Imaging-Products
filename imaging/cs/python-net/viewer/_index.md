@@ -34,3 +34,5 @@ Vyberte ze seznamu formát obrázku pro operaci Zobrazit obrázek:
     </div>
 </div>
 <br/>
+
+{{< /blocks/products/pf/feature-page-wrap >}}

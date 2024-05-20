@@ -34,3 +34,5 @@ Chọn định dạng hình ảnh từ danh sách cho thao tác Xem hình ảnh:
     </div>
 </div>
 <br/>
+
+{{< /blocks/products/pf/feature-page-wrap >}}

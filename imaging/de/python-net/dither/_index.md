@@ -34,3 +34,5 @@ Wählen Sie ein Bildformat aus der Liste für den Vorgang Zittern aus:
     </div>
 </div>
 <br/>
+
+{{< /blocks/products/pf/feature-page-wrap >}}

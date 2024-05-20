@@ -34,3 +34,5 @@ Danh sách đầy đủ các thao tác thang độ xám được hỗ trợ theo
     </div>
 </div>
 <br/>
+
+{{< /blocks/products/pf/feature-page-wrap >}}
