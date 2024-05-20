@@ -34,3 +34,5 @@ Lista completa de operações Colheita suportadas por formatos de imagem:
     </div>
 </div>
 <br/>
+
+{{< /blocks/products/pf/feature-page-wrap >}}

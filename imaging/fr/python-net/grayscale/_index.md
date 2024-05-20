@@ -34,3 +34,5 @@ Sélectionnez un format d'image dans la liste pour l'opération Niveaux de gris:
     </div>
 </div>
 <br/>
+
+{{< /blocks/products/pf/feature-page-wrap >}}

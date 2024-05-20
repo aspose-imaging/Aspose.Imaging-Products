@@ -35,3 +35,5 @@ Pełna lista obsługiwanych operacji Kompresja według formatów obrazu:
     </div>
 </div>
 <br/>
+
+{{< /blocks/products/pf/feature-page-wrap >}}

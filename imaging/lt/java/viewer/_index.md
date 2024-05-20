@@ -34,3 +34,5 @@ Visas palaikomų operacijų Peržiūrėti Nuotrauka sąrašas pagal vaizdo forma
     </div>
 </div>
 <br/>
+
+{{< /blocks/products/pf/feature-page-wrap >}}

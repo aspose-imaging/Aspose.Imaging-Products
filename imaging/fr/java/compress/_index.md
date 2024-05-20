@@ -35,3 +35,5 @@ Liste complète des opérations Compresse prises en charge par formats d'image 
     </div>
 </div>
 <br/>
+
+{{< /blocks/products/pf/feature-page-wrap >}}

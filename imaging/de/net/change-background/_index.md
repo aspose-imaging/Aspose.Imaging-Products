@@ -34,3 +34,5 @@ Vollständige Liste der unterstützten Hintergrund ändern-Vorgänge nach Bildfo
     </div>
 </div>
 <br/>
+
+{{< /blocks/products/pf/feature-page-wrap >}}

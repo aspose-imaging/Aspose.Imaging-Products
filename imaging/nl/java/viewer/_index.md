@@ -34,3 +34,5 @@ Volledige lijst met ondersteunde Bekijk afbeelding-bewerkingen per afbeeldingsin
     </div>
 </div>
 <br/>
+
+{{< /blocks/products/pf/feature-page-wrap >}}

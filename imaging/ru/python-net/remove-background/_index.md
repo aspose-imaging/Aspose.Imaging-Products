@@ -34,3 +34,5 @@ C помощью операции удаление фона вы можете б
     </div>
 </div>
 <br/>
+
+{{< /blocks/products/pf/feature-page-wrap >}}

@@ -34,3 +34,5 @@ Liste complète des opérations Voir l'image prises en charge par formats d'imag
     </div>
 </div>
 <br/>
+
+{{< /blocks/products/pf/feature-page-wrap >}}

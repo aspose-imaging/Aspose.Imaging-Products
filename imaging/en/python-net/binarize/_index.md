@@ -34,3 +34,5 @@ Select an image format from the list for the Binarize operation:
     </div>
 </div>
 <br/>
+
+{{< /blocks/products/pf/feature-page-wrap >}}

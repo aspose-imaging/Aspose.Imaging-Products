@@ -35,3 +35,5 @@ Vollständige Liste der unterstützten Kompresse-Vorgänge nach Bildformaten:
     </div>
 </div>
 <br/>
+
+{{< /blocks/products/pf/feature-page-wrap >}}

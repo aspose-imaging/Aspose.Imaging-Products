@@ -35,3 +35,5 @@ Volledige lijst met ondersteunde Samenpersen-bewerkingen per afbeeldingsindeling
     </div>
 </div>
 <br/>
+
+{{< /blocks/products/pf/feature-page-wrap >}}

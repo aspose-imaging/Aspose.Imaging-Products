@@ -34,3 +34,5 @@ Fullständig lista över Ändra storlek-operationer som stöds efter bildformat:
     </div>
 </div>
 <br/>
+
+{{< /blocks/products/pf/feature-page-wrap >}}

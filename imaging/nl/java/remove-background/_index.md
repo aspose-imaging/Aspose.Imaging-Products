@@ -34,3 +34,5 @@ Volledige lijst met ondersteunde Verwijder achtergrond-bewerkingen per afbeeldin
     </div>
 </div>
 <br/>
+
+{{< /blocks/products/pf/feature-page-wrap >}}

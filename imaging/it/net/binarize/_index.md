@@ -34,3 +34,5 @@ Elenco completo delle operazioni Binarizzare supportate per formati immagine:
     </div>
 </div>
 <br/>
+
+{{< /blocks/products/pf/feature-page-wrap >}}

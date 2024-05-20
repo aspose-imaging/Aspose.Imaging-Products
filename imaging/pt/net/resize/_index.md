@@ -34,3 +34,5 @@ Lista completa de operações Redimensionar suportadas por formatos de imagem:
     </div>
 </div>
 <br/>
+
+{{< /blocks/products/pf/feature-page-wrap >}}

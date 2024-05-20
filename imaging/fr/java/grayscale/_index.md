@@ -34,3 +34,5 @@ Liste complète des opérations Niveaux de gris prises en charge par formats d'i
     </div>
 </div>
 <br/>
+
+{{< /blocks/products/pf/feature-page-wrap >}}

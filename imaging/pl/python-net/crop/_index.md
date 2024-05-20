@@ -34,3 +34,5 @@ Wybierz format obrazu z listy dla operacji Przyciąć:
     </div>
 </div>
 <br/>
+
+{{< /blocks/products/pf/feature-page-wrap >}}

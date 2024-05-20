@@ -34,3 +34,5 @@ Full list of supported Remove background operations by image formats:
     </div>
 </div>
 <br/>
+
+{{< /blocks/products/pf/feature-page-wrap >}}
