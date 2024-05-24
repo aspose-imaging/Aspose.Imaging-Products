@@ -29,7 +29,7 @@ description: Använder Aspose.Imaging.Pdf.Adapter med exempelkodbilder och dokum
 <li>Stöder populära format inklusive PDF och PSD.</li>
 </ul>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">För att konvertera PDF till PSD använder vi Aspose.Imaging <a href="https://products.aspose.com/imaging/adapters/net">Pdf.Adapter</a> API som är ett funktionsrikt, kraftfullt och lättanvänt API för bildmanipulation och konvertering för C#-plattformen. Öppen <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> pakethanteraren, sök efter "Aspose.Imaging Pdf.Adapter" och installera. Du kan också använda följande kommando från Package Manager Console.</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">För att konvertera PDF till PSD använder vi Aspose.Imaging <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Pdf.Adapter</a> API som är ett funktionsrikt, kraftfullt och lättanvänt API för bildmanipulation och konvertering för C#-plattformen. Öppen <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> pakethanteraren, sök efter "Aspose.Imaging Pdf.Adapter" och installera. Du kan också använda följande kommando från Package Manager Console.</p>
 
 {{% blocks/products/pf/agp/code-block title="Pakethanterarens konsolkommando" offSpacer="true" %}}
 

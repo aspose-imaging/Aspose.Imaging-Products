@@ -29,7 +29,7 @@ description: Aspose.Imaging.Pdf.Adapter を使用してサンプル コード画
 <li>PDF や PICTURE などの一般的な形式をサポートします。</li>
 </ul>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">PDF を PICTURE に変換するには、Aspose.Imaging を使用します。 <a href="https://products.aspose.com/imaging/adapters/net">Pdf.Adapter</a> C# プラットフォーム用の、機能が豊富で強力で使いやすい画像操作および変換 API です。開ける <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> パッケージ マネージャーで、「Aspose.Imaging Pdf.Adapter」を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">PDF を PICTURE に変換するには、Aspose.Imaging を使用します。 <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Pdf.Adapter</a> C# プラットフォーム用の、機能が豊富で強力で使いやすい画像操作および変換 API です。開ける <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> パッケージ マネージャーで、「Aspose.Imaging Pdf.Adapter」を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。</p>
 
 {{% blocks/products/pf/agp/code-block title="パッケージマネージャーコンソールコマンド" offSpacer="true" %}}
 

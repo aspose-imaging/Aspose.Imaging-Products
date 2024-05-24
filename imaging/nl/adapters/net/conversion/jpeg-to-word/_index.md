@@ -29,7 +29,7 @@ description: Aspose.Imaging.Pdf.Adapter gebruiken met voorbeeldcodeafbeeldingen 
 <li>Ondersteunt populaire formaten, waaronder JPEG en WORD.</li>
 </ul>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">Om JPEG naar WORD te converteren, gebruiken we Aspose.Imaging <a href="https://products.aspose.com/imaging/adapters/net">Pdf.Adapter</a> API, een veelzijdige, krachtige en eenvoudig te gebruiken API voor beeldmanipulatie en conversie voor het C#-platform. Open <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> pakketbeheerder, zoek naar "Aspose.Imaging Pdf.Adapter" en installeer. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">Om JPEG naar WORD te converteren, gebruiken we Aspose.Imaging <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Pdf.Adapter</a> API, een veelzijdige, krachtige en eenvoudig te gebruiken API voor beeldmanipulatie en conversie voor het C#-platform. Open <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> pakketbeheerder, zoek naar "Aspose.Imaging Pdf.Adapter" en installeer. U kunt ook de volgende opdracht gebruiken vanuit de Package Manager Console.</p>
 
 {{% blocks/products/pf/agp/code-block title="Pakketbeheerconsoleopdracht" offSpacer="true" %}}
 

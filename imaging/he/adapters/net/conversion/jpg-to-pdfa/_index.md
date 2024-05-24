@@ -29,7 +29,7 @@ description: שימוש Aspose.Imaging.Pdf.Adapter עם תמונות קוד לד
 <li>תומך בפורמטים פופולריים כולל JPG ו-PDFA.</li>
 </ul>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">על מנת להמיר את JPG ל-PDFA, נשתמש ב-Aspose.Imaging <a href="https://products.aspose.com/imaging/adapters/net">Pdf.Adapter</a> API שהוא עשיר בתכונות, חזק וקל לשימוש למניפולציה והמרה של תמונות עבור פלטפורמת C#. לִפְתוֹחַ <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> מנהל החבילות, חפש את "Aspose.Imaging Pdf.Adapter" והתקן. אתה יכול גם להשתמש בפקודה הבאה ממסוף מנהל החבילות.</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">על מנת להמיר את JPG ל-PDFA, נשתמש ב-Aspose.Imaging <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Pdf.Adapter</a> API שהוא עשיר בתכונות, חזק וקל לשימוש למניפולציה והמרה של תמונות עבור פלטפורמת C#. לִפְתוֹחַ <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> מנהל החבילות, חפש את "Aspose.Imaging Pdf.Adapter" והתקן. אתה יכול גם להשתמש בפקודה הבאה ממסוף מנהל החבילות.</p>
 
 {{% blocks/products/pf/agp/code-block title="פקודת קונסולת מנהל החבילות" offSpacer="true" %}}
 

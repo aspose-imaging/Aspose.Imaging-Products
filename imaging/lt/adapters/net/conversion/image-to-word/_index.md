@@ -29,7 +29,7 @@ description: Naudojant Aspose.Imaging.Pdf.Adapter su pavyzdiniais kodo vaizdais 
 <li>Palaiko populiarius formatus, įskaitant IMAGE ir WORD.</li>
 </ul>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">Norėdami konvertuoti IMAGE į WORD, naudosime Aspose.Imaging <a href="https://products.aspose.com/imaging/adapters/net">Pdf.Adapter</a> API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta C# platformai. Atviras <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> paketų tvarkytuvė, ieškokite „Aspose.Imaging Pdf.Adapter“ ir įdiekite. Taip pat galite naudoti šią komandą iš paketų tvarkyklės konsolės.</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">Norėdami konvertuoti IMAGE į WORD, naudosime Aspose.Imaging <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Pdf.Adapter</a> API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta C# platformai. Atviras <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> paketų tvarkytuvė, ieškokite „Aspose.Imaging Pdf.Adapter“ ir įdiekite. Taip pat galite naudoti šią komandą iš paketų tvarkyklės konsolės.</p>
 
 {{% blocks/products/pf/agp/code-block title="Paketų tvarkyklės konsolės komanda" offSpacer="true" %}}
 

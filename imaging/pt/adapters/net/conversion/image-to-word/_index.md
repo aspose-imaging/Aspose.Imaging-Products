@@ -29,7 +29,7 @@ description: Usando Aspose.Imaging.Pdf.Adapter com imagens de código de amostra
 <li>Suporta formatos populares, incluindo IMAGE e WORD.</li>
 </ul>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">Para converter IMAGE em WORD, usaremos Aspose.Imaging <a href="https://products.aspose.com/imaging/adapters/net">Pdf.Adapter</a> API que é uma API de conversão e manipulação de imagens rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> gerenciador de pacotes, procure por "Aspose.Imaging Pdf.Adapter" e instale. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">Para converter IMAGE em WORD, usaremos Aspose.Imaging <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Pdf.Adapter</a> API que é uma API de conversão e manipulação de imagens rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> gerenciador de pacotes, procure por "Aspose.Imaging Pdf.Adapter" e instale. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.</p>
 
 {{% blocks/products/pf/agp/code-block title="Comando do console do gerenciador de pacotes" offSpacer="true" %}}
 

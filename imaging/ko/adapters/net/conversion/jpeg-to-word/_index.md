@@ -29,7 +29,7 @@ description: C#을 통한 샘플 코드 이미지 및 문서 변환과 함께 As
 <li>JPEG 및 WORD를 포함하여 널리 사용되는 형식을 지원합니다.</li>
 </ul>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">JPEG을 WORD로 변환하기 위해 Aspose.Imaging을 사용하겠습니다. <a href="https://products.aspose.com/imaging/adapters/net">Pdf.Adapter</a> 기능이 풍부하고 강력하며 사용하기 쉬운 C# 플랫폼용 이미지 조작 및 변환 API인 API입니다. 열려 있는 <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> 패키지 관리자에서 "Aspose.Imaging Pdf.Adapter"를 검색하여 설치하세요. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">JPEG을 WORD로 변환하기 위해 Aspose.Imaging을 사용하겠습니다. <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Pdf.Adapter</a> 기능이 풍부하고 강력하며 사용하기 쉬운 C# 플랫폼용 이미지 조작 및 변환 API인 API입니다. 열려 있는 <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> 패키지 관리자에서 "Aspose.Imaging Pdf.Adapter"를 검색하여 설치하세요. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.</p>
 
 {{% blocks/products/pf/agp/code-block title="패키지 관리자 콘솔 명령" offSpacer="true" %}}
 

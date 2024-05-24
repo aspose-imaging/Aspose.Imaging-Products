@@ -29,7 +29,7 @@ description: Aspose.Imaging.Pdf.Adapter'ı örnek kod görüntüleri ve C# arac�
 <li>PHOTO ve WORD dahil popüler formatları destekler.</li>
 </ul>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">PHOTO'ı WORD'ye dönüştürmek için Aspose.Imaging'i kullanacağız. <a href="https://products.aspose.com/imaging/adapters/net">Pdf.Adapter</a> C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. Açık <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> paket yöneticisinde "Aspose.Imaging Pdf.Adapter" ifadesini arayın ve yükleyin. Aşağıdaki komutu Paket Yönetici Konsolundan da kullanabilirsiniz.</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">PHOTO'ı WORD'ye dönüştürmek için Aspose.Imaging'i kullanacağız. <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Pdf.Adapter</a> C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. Açık <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> paket yöneticisinde "Aspose.Imaging Pdf.Adapter" ifadesini arayın ve yükleyin. Aşağıdaki komutu Paket Yönetici Konsolundan da kullanabilirsiniz.</p>
 
 {{% blocks/products/pf/agp/code-block title="Paket Yönetici Konsolu Komutu" offSpacer="true" %}}
 

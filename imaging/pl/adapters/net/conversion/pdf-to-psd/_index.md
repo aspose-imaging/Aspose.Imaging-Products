@@ -29,7 +29,7 @@ description: Korzystanie z Aspose.Imaging.Pdf.Adapter z przykładowymi obrazami 
 <li>Obsługuje popularne formaty, w tym PDF i PSD.</li>
 </ul>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">Aby przekonwertować PDF na PSD, użyjemy Aspose.Imaging <a href="https://products.aspose.com/imaging/adapters/net">Pdf.Adapter</a> API, które jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do manipulacji i konwersji obrazów dla platformy C#. otwarty <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> menedżer pakietów, wyszukaj „Aspose.Imaging Pdf.Adapter” i zainstaluj. Możesz także użyć następującego polecenia z konsoli Menedżera pakietów.</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">Aby przekonwertować PDF na PSD, użyjemy Aspose.Imaging <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Pdf.Adapter</a> API, które jest bogatym w funkcje, wydajnym i łatwym w użyciu interfejsem API do manipulacji i konwersji obrazów dla platformy C#. otwarty <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> menedżer pakietów, wyszukaj „Aspose.Imaging Pdf.Adapter” i zainstaluj. Możesz także użyć następującego polecenia z konsoli Menedżera pakietów.</p>
 
 {{% blocks/products/pf/agp/code-block title="Polecenie konsoli Menedżera pakietów" offSpacer="true" %}}
 

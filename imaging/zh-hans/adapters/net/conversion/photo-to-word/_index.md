@@ -29,7 +29,7 @@ description: 使用 Aspose.Imaging.Pdf.Adapter 以及通过 C# 进行图像和�
 <li>支持流行的格式，包括PHOTO和WORD。</li>
 </ul>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">为了将 PHOTO 转换为 WORD，我们将使用 Aspose.Imaging <a href="https://products.aspose.com/imaging/adapters/net">Pdf.Adapter</a> API是一个功能丰富、强大且易于使用的C#平台图像处理和转换API。打开 <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> 包管理器，搜索“Aspose.Imaging Pdf.Adapter”并安装。您还可以从包管理器控制台使用以下命令。</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">为了将 PHOTO 转换为 WORD，我们将使用 Aspose.Imaging <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Pdf.Adapter</a> API是一个功能丰富、强大且易于使用的C#平台图像处理和转换API。打开 <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> 包管理器，搜索“Aspose.Imaging Pdf.Adapter”并安装。您还可以从包管理器控制台使用以下命令。</p>
 
 {{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 

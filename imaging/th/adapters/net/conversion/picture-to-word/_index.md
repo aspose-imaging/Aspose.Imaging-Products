@@ -29,7 +29,7 @@ description: การใช้ Aspose.Imaging.Pdf.Adapter กับรูปภ
 <li>รองรับรูปแบบยอดนิยม ได้แก่ PICTURE และ WORD</li>
 </ul>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">ในการแปลง PICTURE เป็น WORD เราจะใช้ Aspose.Imaging <a href="https://products.aspose.com/imaging/adapters/net">Pdf.Adapter</a> API ซึ่งเป็น API การจัดการรูปภาพและการแปลงรูปภาพที่มีฟีเจอร์หลากหลาย ทรงพลัง และใช้งานง่ายสำหรับแพลตฟอร์ม C# เปิด <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> ตัวจัดการแพ็คเกจ ค้นหา "Aspose.Imaging Pdf.Adapter" และติดตั้ง คุณอาจใช้คำสั่งต่อไปนี้จาก Package Manager Console</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">ในการแปลง PICTURE เป็น WORD เราจะใช้ Aspose.Imaging <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Pdf.Adapter</a> API ซึ่งเป็น API การจัดการรูปภาพและการแปลงรูปภาพที่มีฟีเจอร์หลากหลาย ทรงพลัง และใช้งานง่ายสำหรับแพลตฟอร์ม C# เปิด <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> ตัวจัดการแพ็คเกจ ค้นหา "Aspose.Imaging Pdf.Adapter" และติดตั้ง คุณอาจใช้คำสั่งต่อไปนี้จาก Package Manager Console</p>
 
 {{% blocks/products/pf/agp/code-block title="คำสั่งคอนโซลตัวจัดการแพ็คเกจ" offSpacer="true" %}}
 

@@ -29,7 +29,7 @@ description: Použití Aspose.Imaging.Pdf.Adapter s ukázkovými kódovými obr�
 <li>Podporuje oblíbené formáty včetně PICTURE a WORD.</li>
 </ul>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">Abychom převedli PICTURE na WORD, použijeme Aspose.Imaging <a href="https://products.aspose.com/imaging/adapters/net">Pdf.Adapter</a> API, což je funkčně bohaté, výkonné a snadno použitelné rozhraní API pro manipulaci s obrázky a konverzi pro platformu C#. OTEVŘENO <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> správce balíčků, vyhledejte "Aspose.Imaging Pdf.Adapter" a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">Abychom převedli PICTURE na WORD, použijeme Aspose.Imaging <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Pdf.Adapter</a> API, což je funkčně bohaté, výkonné a snadno použitelné rozhraní API pro manipulaci s obrázky a konverzi pro platformu C#. OTEVŘENO <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> správce balíčků, vyhledejte "Aspose.Imaging Pdf.Adapter" a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.</p>
 
 {{% blocks/products/pf/agp/code-block title="Příkaz konzoly Správce balíčků" offSpacer="true" %}}
 

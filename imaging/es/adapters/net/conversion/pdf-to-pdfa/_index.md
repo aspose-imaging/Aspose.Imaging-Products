@@ -29,7 +29,7 @@ description: Usando Aspose.Imaging.Pdf.Adapter con código de muestra, conversi�
 <li>Admite formatos populares, incluidos PDF y PDFA.</li>
 </ul>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">Para convertir PDF a PDFA, usaremos Aspose.Imaging <a href="https://products.aspose.com/imaging/adapters/net">Pdf.Adapter</a> API que es una API de conversión y manipulación de imágenes rica en funciones, potente y fácil de usar para la plataforma C#. Abierto <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> administrador de paquetes, busque "Aspose.Imaging Pdf.Adapter" e instálelo. También puede utilizar el siguiente comando desde la Consola del Administrador de paquetes.</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">Para convertir PDF a PDFA, usaremos Aspose.Imaging <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Pdf.Adapter</a> API que es una API de conversión y manipulación de imágenes rica en funciones, potente y fácil de usar para la plataforma C#. Abierto <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> administrador de paquetes, busque "Aspose.Imaging Pdf.Adapter" e instálelo. También puede utilizar el siguiente comando desde la Consola del Administrador de paquetes.</p>
 
 {{% blocks/products/pf/agp/code-block title="Comando de la consola del administrador de paquetes" offSpacer="true" %}}
 

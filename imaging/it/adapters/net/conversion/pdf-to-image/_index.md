@@ -29,7 +29,7 @@ description: Utilizzo di Aspose.Imaging.Pdf.Adapter con immagini di codice di es
 <li>Supporta i formati più diffusi tra cui PDF e IMAGE.</li>
 </ul>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">Per convertire PDF in IMAGE, utilizzeremo Aspose.Imaging <a href="https://products.aspose.com/imaging/adapters/net">Pdf.Adapter</a> API che è un'API di manipolazione e conversione delle immagini ricca di funzionalità, potente e facile da usare per la piattaforma C#. Aprire <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> gestore pacchetti, cerca "Aspose.Imaging Pdf.Adapter" e installa. Puoi anche utilizzare il seguente comando dalla Console di gestione pacchetti.</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">Per convertire PDF in IMAGE, utilizzeremo Aspose.Imaging <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Pdf.Adapter</a> API che è un'API di manipolazione e conversione delle immagini ricca di funzionalità, potente e facile da usare per la piattaforma C#. Aprire <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> gestore pacchetti, cerca "Aspose.Imaging Pdf.Adapter" e installa. Puoi anche utilizzare il seguente comando dalla Console di gestione pacchetti.</p>
 
 {{% blocks/products/pf/agp/code-block title="Comando della console di Gestione pacchetti" offSpacer="true" %}}
 

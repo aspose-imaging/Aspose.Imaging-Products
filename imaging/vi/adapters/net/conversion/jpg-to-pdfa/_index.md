@@ -29,7 +29,7 @@ description: Sử dụng Aspose.Imaging.Pdf.Adapter với hình ảnh mã mẫu 
 <li>Hỗ trợ các định dạng phổ biến bao gồm JPG và PDFA.</li>
 </ul>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">Để chuyển đổi JPG thành PDFA, chúng tôi sẽ sử dụng Aspose.Imaging <a href="https://products.aspose.com/imaging/adapters/net">Pdf.Adapter</a> API là API chuyển đổi và xử lý hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C#. Mở <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> trình quản lý gói, tìm kiếm "Aspose.Imaging Pdf.Adapter" và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển quản lý gói.</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">Để chuyển đổi JPG thành PDFA, chúng tôi sẽ sử dụng Aspose.Imaging <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Pdf.Adapter</a> API là API chuyển đổi và xử lý hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C#. Mở <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> trình quản lý gói, tìm kiếm "Aspose.Imaging Pdf.Adapter" và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển quản lý gói.</p>
 
 {{% blocks/products/pf/agp/code-block title="Lệnh điều khiển quản lý gói" offSpacer="true" %}}
 

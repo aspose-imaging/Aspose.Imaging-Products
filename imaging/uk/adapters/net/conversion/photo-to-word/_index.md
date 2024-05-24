@@ -29,7 +29,7 @@ description: Використання Aspose.Imaging.Pdf.Adapter із зразк
 <li>Підтримує популярні формати, зокрема PHOTO і WORD.</li>
 </ul>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">Щоб перетворити PHOTO на WORD, ми використаємо Aspose.Imaging <a href="https://products.aspose.com/imaging/adapters/net">Pdf.Adapter</a> API, який є багатофункціональним, потужним і простим у використанні API для обробки зображень і перетворення для платформи C#. ВІДЧИНЕНО <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> менеджер пакетів, знайдіть «Aspose.Imaging Pdf.Adapter» і встановіть. Ви також можете використати наступну команду з консолі менеджера пакетів.</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">Щоб перетворити PHOTO на WORD, ми використаємо Aspose.Imaging <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Pdf.Adapter</a> API, який є багатофункціональним, потужним і простим у використанні API для обробки зображень і перетворення для платформи C#. ВІДЧИНЕНО <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> менеджер пакетів, знайдіть «Aspose.Imaging Pdf.Adapter» і встановіть. Ви також можете використати наступну команду з консолі менеджера пакетів.</p>
 
 {{% blocks/products/pf/agp/code-block title="Консольна команда менеджера пакетів" offSpacer="true" %}}
 

@@ -19,7 +19,7 @@ description: Using Aspose.Imaging.Pdf.Adapter with sample code images and docume
 
 <p align="justify" style="font-size:18px;text-indent:50px;">File format conversion is a common necessity across various professions, and today, changing one format to another is as simple as making an online request. However, for professional designers, having a reliable tool that swiftly and effectively handles conversions—especially between image and document formats is crucial. Frequently, transforming an image into a document or vice versa poses a challenge beyond the capabilities of standard editors.</p>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">Look no further than Aspose.Imaging Pdf.Adapter for .NET, tailor-made for image processing and conversion needs. This indispensable tool boasts the following key features:</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">Look no further than Aspose.Imaging.Pdf.Adapter for .NET, tailor-made for image processing and conversion needs. This indispensable tool boasts the following key features:</p>
 
 <ul style="font-size:18px;">
 <li>Facilitates conversions between various image and document formats.</li>
@@ -29,7 +29,7 @@ description: Using Aspose.Imaging.Pdf.Adapter with sample code images and docume
 <li>Supports PDF and IMAGE popular formats.</li>
 </ul>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">In order to convert PDF to IMAGE, we'll use Aspose.Imaging <a href="https://products.aspose.com/imaging/adapters/net">Pdf.Adapter</a> API which is a feature-rich, powerful and easy to use image manipulation and conversion API for C# platform. Open <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> package manager, search for "Aspose.Imaging Pdf.Adapter" and install. You may also use the following command from the Package Manager Console:</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">In order to convert PDF to IMAGE, we'll use <a href="/imaging/adapters/net">Aspose.Imaging.Pdf.Adapter</a> API which is a feature-rich, powerful and easy to use image manipulation and conversion API for C# platform. Open <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> package manager, search for Aspose.Imaging.Pdf.Adapter and install. You may also use the following command from the Package Manager Console:</p>
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
@@ -53,8 +53,8 @@ Developers can easily load & convert PDF files to IMAGE in just a few lines of c
 
 {{% /blocks/products/pf/agp/text %}}
 
-+ Initialize the adapter with the Register() method, a one-time operation. 
-+ Load the necessary PDF file using Aspose.Imaging.Image.Load() method. 
++ Initialize the adapter with the Register() method, a one-time operation.
++ Load the necessary PDF file using Aspose.Imaging.Image.Load() method.
 + Create the required save options class instance for the IMAGE format and set the necessary properties.
 + Save IMAGE using Aspose.Imaging.Image.Save() method, specifying the file path or stream along with the options.
 

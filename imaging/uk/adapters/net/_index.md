@@ -20,6 +20,11 @@ description: Оптимізуйте завдання перетворення ф
 
 <p align="justify" style="font-size:18px;text-indent:50px;">Aspose.Imaging.Pdf.Adapter для .NET бездоганно інтегрує дві надійні бібліотеки, Aspose.Imaging для .NET і Aspose.Pdf для .NET, забезпечуючи комплексне рішення, яке покращує можливості перетворення форматів. Ця потужна комбінація дозволяє користувачам легко перетворювати широкий спектр растрових і векторних зображень на документи й навпаки. Використовуючи унікальні функції обох бібліотек, адаптер відкриває безліч можливостей, уможливлюючи перетворення таких форматів зображень, як EMF, WMF, CDR, PSD, TIFF і WEBP, у формати документів, які підтримуються бібліотекою Aspose.Pdf. Ці формати документів включають PDF (з розширеними налаштуваннями), DOCX, XLSX, HTML і PPTX. Крім того, адаптер полегшує перетворення PDF-файлів у всі формати зображень, доступні в бібліотеці Aspose.Imaging, такі як EMF, WMF, J2K, WEBP і TIFF. Ця інтеграція не тільки підвищує конкурентоспроможність на ринку, пропонуючи універсальні та ефективні рішення для перетворення, але й закладає основу для інноваційних застосувань у різних галузях. Aspose.Imaging Pdf.Adapter для .NET дозволяє розробникам використовувати нові технологічні можливості, створюючи прогресивні рішення в управлінні цифровим вмістом, незалежно від того, чи йдеться про вдосконалення систем керування документами, оптимізацію робочих процесів обробки медіафайлів або розробку платформ динамічної доставки вмісту.</p>
 
+<h3><a href="https://reference.aspose.com/imaging/adapters/net/aspose.imaging.pdf.adapter/">Aspose.Imaging.Heic.Adapter</a></h3>
+
+<p align="justify" style="font-size:18px;text-indent:50px;">The Aspose.Imaging.Pdf.Adapter for .NET seamlessly integrates two robust libraries, Aspose.Imaging for .NET and Aspose.Pdf for .NET, providing a comprehensive solution that enhances format conversion capabilities. This powerful combination allows users to effortlessly convert between a wide range of raster and vector images to documents and vice versa. By harnessing the unique functionalities of both libraries, the adapter opens up a wealth of opportunities, enabling conversions from image formats such as EMF, WMF, CDR, PSD, TIFF, and WEBP to document formats supported by the Aspose.Pdf library. These document formats include PDF (with advanced settings), DOCX, XLSX, HTML, and PPTX. Additionally, the adapter facilitates the conversion of PDFs into all image formats available in the Aspose.Imaging library, such as EMF, WMF, J2K, WEBP, and TIFF. This integration not only boosts market competitiveness by offering versatile and efficient conversion solutions but also sets the stage for innovative applications across various industries. Whether enhancing document management systems, streamlining media processing workflows, or developing dynamic content delivery platforms, the Aspose.Imaging Pdf.Adapter for .NET positions developers to exploit new technological frontiers, driving forward-thinking solutions in digital content management.</p>
+
+
 {{% /blocks/products/pf/agp/content %}}
 
 <div class="container-fluid productfamilypage bg-gray">
@@ -41,6 +46,32 @@ description: Оптимізуйте завдання перетворення ф
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/uk/adapters/net/photo-to-word/" style="padding:15px;">PHOTO до WORD</a></div>
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/uk/adapters/net/picture-to-word/" style="padding:15px;">PICTURE до WORD</a></div>
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/uk/adapters/net/png-to-word/" style="padding:15px;">PNG до WORD</a></div>
+</div>
+<h4 style="margin-left:-20px;margin-bottom:20px;font-size:22px;">Aspose.Imaging.Heic.Adapter популярні перетворення адаптера:</h4>
+<div class="row other-converters" style="font-size: 19px;text-align:center;">
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/uk/adapters/net/heic-to-apng/" style="padding:15px;">HEIC до APNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/uk/adapters/net/heic-to-bigtiff/" style="padding:15px;">HEIC до BIGTIFF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/uk/adapters/net/heic-to-bmp/" style="padding:15px;">HEIC до BMP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/uk/adapters/net/heic-to-dicom/" style="padding:15px;">HEIC до DICOM</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/uk/adapters/net/heic-to-dxf/" style="padding:15px;">HEIC до DXF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/uk/adapters/net/heic-to-emf/" style="padding:15px;">HEIC до EMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/uk/adapters/net/heic-to-emz/" style="padding:15px;">HEIC до EMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/uk/adapters/net/heic-to-gif/" style="padding:15px;">HEIC до GIF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/uk/adapters/net/heic-to-canvas/" style="padding:15px;">HEIC до CANVAS</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/uk/adapters/net/heic-to-ico/" style="padding:15px;">HEIC до ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/uk/adapters/net/heic-to-jpeg/" style="padding:15px;">HEIC до JPEG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/uk/adapters/net/heic-to-jpg/" style="padding:15px;">HEIC до JPG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/uk/adapters/net/heic-to-jpeg2000/" style="padding:15px;">HEIC до JPEG2000</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/uk/adapters/net/heic-to-pdf/" style="padding:15px;">HEIC до PDF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/uk/adapters/net/heic-to-png/" style="padding:15px;">HEIC до PNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/uk/adapters/net/heic-to-psd/" style="padding:15px;">HEIC до PSD</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/uk/adapters/net/heic-to-svg/" style="padding:15px;">HEIC до SVG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/uk/adapters/net/heic-to-svgz/" style="padding:15px;">HEIC до SVGZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/uk/adapters/net/heic-to-tga/" style="padding:15px;">HEIC до TGA</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/uk/adapters/net/heic-to-tiff/" style="padding:15px;">HEIC до TIFF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/uk/adapters/net/heic-to-webp/" style="padding:15px;">HEIC до WEBP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/uk/adapters/net/heic-to-wmf/" style="padding:15px;">HEIC до WMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/uk/adapters/net/heic-to-wmz/" style="padding:15px;">HEIC до WMZ</a></div>
 </div>
                 
         </div>

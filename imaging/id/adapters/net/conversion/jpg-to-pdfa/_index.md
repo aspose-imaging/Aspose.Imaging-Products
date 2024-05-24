@@ -29,7 +29,7 @@ description: Menggunakan Aspose.Imaging.Pdf.Adapter dengan contoh kode gambar da
 <li>Mendukung format populer termasuk JPG dan PDFA.</li>
 </ul>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">Untuk mengonversi JPG ke PDFA, kita akan menggunakan Aspose.Imaging <a href="https://products.aspose.com/imaging/adapters/net">Pdf.Adapter</a> API yang merupakan API manipulasi dan konversi gambar yang kaya fitur, kuat, dan mudah digunakan untuk platform C#. Membuka <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> manajer paket, cari "Aspose.Imaging Pdf.Adapter" dan instal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">Untuk mengonversi JPG ke PDFA, kita akan menggunakan Aspose.Imaging <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Pdf.Adapter</a> API yang merupakan API manipulasi dan konversi gambar yang kaya fitur, kuat, dan mudah digunakan untuk platform C#. Membuka <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> manajer paket, cari "Aspose.Imaging Pdf.Adapter" dan instal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.</p>
 
 {{% blocks/products/pf/agp/code-block title="Perintah Konsol Manajer Paket" offSpacer="true" %}}
 

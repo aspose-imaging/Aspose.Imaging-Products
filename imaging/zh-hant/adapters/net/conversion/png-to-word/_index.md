@@ -29,7 +29,7 @@ description: 使用 Aspose.Imaging.Pdf.Adapter 以及透過 C# 進行映像和�
 <li>支援流行的格式，包括PNG和WORD。</li>
 </ul>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">為了將 PNG 轉換為 WORD，我們將使用 Aspose.Imaging <a href="https://products.aspose.com/imaging/adapters/net">Pdf.Adapter</a> API是一個功能豐富、強大且易於使用的C#平台影像處理和轉換API。打開 <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> 套件管理器，搜尋「Aspose.Imaging Pdf.Adapter」並安裝。您也可以從套件管理器控制台使用以下命令。</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">為了將 PNG 轉換為 WORD，我們將使用 Aspose.Imaging <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Pdf.Adapter</a> API是一個功能豐富、強大且易於使用的C#平台影像處理和轉換API。打開 <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> 套件管理器，搜尋「Aspose.Imaging Pdf.Adapter」並安裝。您也可以從套件管理器控制台使用以下命令。</p>
 
 {{% blocks/products/pf/agp/code-block title="套件管理器控制台命令" offSpacer="true" %}}
 

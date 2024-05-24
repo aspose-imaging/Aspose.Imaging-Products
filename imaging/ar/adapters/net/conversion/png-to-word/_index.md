@@ -29,7 +29,7 @@ description: استخدام Aspose.Imaging.Pdf.Adapter مع نماذج صور ا
 <li>يدعم التنسيقات الشائعة بما في ذلك PNG وWORD.</li>
 </ul>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">لتحويل PNG إلى WORD، سنستخدم Aspose.Imaging <a href="https://products.aspose.com/imaging/adapters/net">Pdf.Adapter</a> واجهة برمجة التطبيقات (API) هي واجهة برمجة تطبيقات غنية بالميزات وقوية وسهلة الاستخدام لمعالجة الصور وتحويلها لمنصة C#. يفتح <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> مدير الحزم، ابحث عن "Aspose.Imaging Pdf.Adapter" وقم بتثبيته. يمكنك أيضًا استخدام الأمر التالي من وحدة تحكم إدارة الحزم.</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">لتحويل PNG إلى WORD، سنستخدم Aspose.Imaging <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Pdf.Adapter</a> واجهة برمجة التطبيقات (API) هي واجهة برمجة تطبيقات غنية بالميزات وقوية وسهلة الاستخدام لمعالجة الصور وتحويلها لمنصة C#. يفتح <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> مدير الحزم، ابحث عن "Aspose.Imaging Pdf.Adapter" وقم بتثبيته. يمكنك أيضًا استخدام الأمر التالي من وحدة تحكم إدارة الحزم.</p>
 
 {{% blocks/products/pf/agp/code-block title="أمر وحدة تحكم إدارة الحزم" offSpacer="true" %}}
 
