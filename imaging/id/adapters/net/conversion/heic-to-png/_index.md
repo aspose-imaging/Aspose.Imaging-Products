@@ -5,7 +5,7 @@ url: /id/adapters/net/heic-to-png/
 lang: id
 langdirlevel: 2
 locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
-description: Menggunakan Aspose.Imaging.Pdf.Adapter dengan contoh kode gambar dan konversi dokumen melalui C#. Kode contoh API untuk konversi file batch HEIC ke PNG dengan aplikasi berbasis .NET.
+description: Menggunakan Aspose.Imaging.Heic.Adapter dengan contoh kode gambar dan konversi dokumen melalui C#. Kode contoh API untuk konversi file batch HEIC ke PNG dengan aplikasi berbasis .NET.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -19,7 +19,7 @@ description: Menggunakan Aspose.Imaging.Pdf.Adapter dengan contoh kode gambar da
 
 <p align="justify" style="font-size:18px;text-indent:50px;">Konversi format file adalah kebutuhan umum di berbagai profesi, dan saat ini, mengubah satu format ke format lainnya semudah membuat permintaan online. Namun, bagi desainer profesional, memiliki alat andal yang menangani konversi dengan cepat dan efektif—terutama antara format gambar dan dokumen sangatlah penting. Seringkali, mengubah gambar menjadi dokumen atau sebaliknya menimbulkan tantangan di luar kemampuan editor standar.</p>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">Kunjungi Aspose.Imaging Pdf.Adapter untuk .NET, yang dibuat khusus untuk kebutuhan pemrosesan dan konversi gambar. Alat yang sangat diperlukan ini menawarkan fitur-fitur utama berikut:</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">Lihat saja Aspose.Imaging.Heic.Adapter untuk .NET, yang dibuat khusus untuk kebutuhan pemrosesan gambar dan konversi. Alat yang sangat diperlukan ini menawarkan fitur-fitur utama berikut:</p>
 
 <ul style="font-size:18px;">
 <li>Memfasilitasi konversi antara berbagai format gambar dan dokumen.</li>
@@ -29,7 +29,7 @@ description: Menggunakan Aspose.Imaging.Pdf.Adapter dengan contoh kode gambar da
 <li>Mendukung format populer termasuk HEIC dan PNG.</li>
 </ul>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">Untuk mengonversi HEIC ke PNG, kita akan menggunakan Aspose.Imaging <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Heic.Adapter</a> API yang merupakan API manipulasi dan konversi gambar yang kaya fitur, kuat, dan mudah digunakan untuk platform C#. Membuka <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> manajer paket, cari "Aspose.Imaging Pdf.Adapter" dan instal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console.</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">Untuk mengonversi HEIC ke PNG, kita akan menggunakan <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Heic.Adapter</a> API yang merupakan API manipulasi dan konversi gambar yang kaya fitur, kuat, dan mudah digunakan untuk platform C#. Membuka <a href="https://www.nuget.org/packages/Aspose.Imaging.Heic.Adapter">Nuget</a> manajer paket, cari Aspose.Imaging.Heic.Adapter dan instal. Anda juga dapat menggunakan perintah berikut dari Package Manager Console:</p>
 
 {{% blocks/products/pf/agp/code-block title="Perintah Konsol Manajer Paket" offSpacer="true" %}}
 

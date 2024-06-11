@@ -19,7 +19,7 @@ description: Använder Aspose.Imaging.Pdf.Adapter med exempelkodbilder och dokum
 
 <p align="justify" style="font-size:18px;text-indent:50px;">Filformatkonvertering är en vanlig nödvändighet för olika yrken, och idag är det lika enkelt att ändra ett format till ett annat som att göra en onlineförfrågan. För professionella designers är det dock avgörande att ha ett tillförlitligt verktyg som snabbt och effektivt hanterar konverteringar – särskilt mellan bild- och dokumentformat. Att omvandla en bild till ett dokument eller vice versa innebär ofta en utmaning utöver standardredigerarnas kapacitet.</p>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">Leta inte längre än Aspose.Imaging Pdf.Adapter för .NET, skräddarsydd för bildbehandling och konverteringsbehov. Detta oumbärliga verktyg har följande nyckelfunktioner:</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">Leta inte längre än till Aspose.Imaging.Pdf.Adapter för .NET, skräddarsytt för bildbehandlings- och konverteringsbehov. Detta oumbärliga verktyg har följande nyckelfunktioner:</p>
 
 <ul style="font-size:18px;">
 <li>Underlättar konverteringar mellan olika bild- och dokumentformat.</li>
@@ -29,7 +29,7 @@ description: Använder Aspose.Imaging.Pdf.Adapter med exempelkodbilder och dokum
 <li>Stöder populära format inklusive PNG och WORD.</li>
 </ul>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">För att konvertera PNG till WORD använder vi Aspose.Imaging <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Pdf.Adapter</a> API som är ett funktionsrikt, kraftfullt och lättanvänt API för bildmanipulation och konvertering för C#-plattformen. Öppen <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> pakethanteraren, sök efter "Aspose.Imaging Pdf.Adapter" och installera. Du kan också använda följande kommando från Package Manager Console.</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">För att konvertera PNG till WORD använder vi <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Pdf.Adapter</a> API som är ett funktionsrikt, kraftfullt och lättanvänt API för bildmanipulation och konvertering för C#-plattformen. Öppen <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> pakethanteraren, sök efter Aspose.Imaging.Pdf.Adapter och installera. Du kan också använda följande kommando från Package Manager Console:</p>
 
 {{% blocks/products/pf/agp/code-block title="Pakethanterarens konsolkommando" offSpacer="true" %}}
 

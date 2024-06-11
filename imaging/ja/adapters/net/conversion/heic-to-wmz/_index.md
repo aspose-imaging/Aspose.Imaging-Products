@@ -5,7 +5,7 @@ url: /ja/adapters/net/heic-to-wmz/
 lang: ja
 langdirlevel: 2
 locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging.Pdf.Adapter を使用してサンプル コード画像とドキュメントを C# 経由で変換します。 .NET ベースのアプリケーションで HEIC ファイルを WMZ にバッチ変換するための API サンプル コード。
+description: C# を介したサンプル コード イメージとドキュメントの変換で Aspose.Imaging.Heic.Adapter を使用します。 .NET ベースのアプリケーションで HEIC ファイルを WMZ にバッチ変換するための API サンプル コード。
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -19,7 +19,7 @@ description: Aspose.Imaging.Pdf.Adapter を使用してサンプル コード画
 
 <p align="justify" style="font-size:18px;text-indent:50px;">ファイル形式の変換は、さまざまな職業において共通の必要性であり、今日では、ある形式から別の形式への変更は、オンラインでリクエストするのと同じくらい簡単です。ただし、プロのデザイナーにとって、特に画像形式とドキュメント形式間の変換を迅速かつ効果的に処理する信頼できるツールを持つことは非常に重要です。多くの場合、画像をドキュメントに変換したり、その逆に変換したりすると、標準のエディタの機能を超える課題が生じます。</p>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">画像処理と変換のニーズに合わせてカスタマイズされた、Aspose.Imaging Pdf.Adapter for .NET 以外に探す必要はありません。この不可欠なツールには、次の重要な機能があります。</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">画像処理と変換のニーズに合わせてカスタマイズされた .NET 用の Aspose.Imaging.Heic.Adapter 以外に探す必要はありません。この不可欠なツールには、次の重要な機能があります。</p>
 
 <ul style="font-size:18px;">
 <li>さまざまな画像形式とドキュメント形式間の変換を容易にします。</li>
@@ -29,7 +29,7 @@ description: Aspose.Imaging.Pdf.Adapter を使用してサンプル コード画
 <li>HEIC や WMZ などの一般的な形式をサポートします。</li>
 </ul>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">HEIC を WMZ に変換するには、Aspose.Imaging を使用します。 <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Heic.Adapter</a> C# プラットフォーム用の、機能が豊富で強力で使いやすい画像操作および変換 API です。開ける <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> パッケージ マネージャーで、「Aspose.Imaging Pdf.Adapter」を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">HEIC を WMZ に変換するには、次を使用します。 <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Heic.Adapter</a> C# プラットフォーム用の、機能が豊富で強力で使いやすい画像操作および変換 API です。開ける <a href="https://www.nuget.org/packages/Aspose.Imaging.Heic.Adapter">Nuget</a> パッケージ マネージャーで、Aspose.Imaging.Heic.Adapter を検索してインストールします。パッケージ マネージャー コンソールから次のコマンドを使用することもできます。</p>
 
 {{% blocks/products/pf/agp/code-block title="パッケージマネージャーコンソールコマンド" offSpacer="true" %}}
 

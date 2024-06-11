@@ -5,7 +5,7 @@ url: /ru/adapters/net/heic-to-tiff/
 lang: ru
 langdirlevel: 2
 locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
-description: Использование Aspose.Imaging.Pdf.Adapter для конвертации изображений и документов на C#. Пример кода API для пакетного преобразования файлов HEIC в TIFF в любом приложении на основе .NET.
+description: Использование Aspose.Imaging.Heic.Adapter для конвертации изображений и документов на C#. Пример кода API для пакетного преобразования файлов HEIC в TIFF в любом приложении на основе .NET.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -19,7 +19,7 @@ description: Использование Aspose.Imaging.Pdf.Adapter для кон
 
 <p align="justify" style="font-size:18px;text-indent:50px;">Преобразование форматов файлов является популярной задачей в различных сферах, и сегодня изменить один формат на другой так же просто, как сделать онлайн-запрос. Однако для профессиональных дизайнеров крайне важно иметь надежный инструмент, который быстро и эффективно выполняет конвертацию, особенно между форматами изображений и документов. Зачастую представление изображения в виде документа или, наоборот, преобразование документа в растровое изображение является нетривиальной задачей, с которой не справляются стандартные редакторы.</p>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">Выберите библиотеку Aspose.Imaging Pdf.Adapter для .NET, специально созданную для обработки и преобразования изображений. Этот незаменимый инструмент обладает следующими ключевыми особенностями:</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">Выберите библиотеку Aspose.Imaging.Heic.Adapter для .NET, специально созданную для обработки и преобразования изображений. Этот незаменимый инструмент обладает следующими ключевыми особенностями:</p>
 
 <ul style="font-size:18px;">
 <li>Облегчает преобразование между различными форматами изображений и документов.</li>
@@ -29,7 +29,7 @@ description: Использование Aspose.Imaging.Pdf.Adapter для кон
 <li>Поддерживает популярные форматы HEIC и TIFF.</li>
 </ul>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">Чтобы преобразовать HEIC в TIFF, мы будем использовать Aspose.Imaging <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Heic.Adapter</a> API — многофункциональный, мощный и простой в использовании API для обработки и преобразования изображений для платформы C#. Откройте <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> диспетчер пакетов, найдите «Aspose.Imaging Pdf.Adapter» и установите. Вы также можете использовать следующую команду из консоли диспетчера пакетов:</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">Чтобы преобразовать HEIC в TIFF, мы будем использовать <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Heic.Adapter</a> API — многофункциональный, мощный и простой в использовании API для обработки и преобразования изображений для платформы C#. Откройте <a href="https://www.nuget.org/packages/Aspose.Imaging.Heic.Adapter">Nuget</a> диспетчер пакетов, найдите Aspose.Imaging.Heic.Adapter и установите. Вы также можете использовать следующую команду из консоли диспетчера пакетов:</p>
 
 {{% blocks/products/pf/agp/code-block title="Консольная команда диспетчера пакетов" offSpacer="true" %}}
 

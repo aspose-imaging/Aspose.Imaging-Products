@@ -5,7 +5,7 @@ url: /de/adapters/net/heic-to-dicom/
 lang: de
 langdirlevel: 2
 locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
-description: Verwendung von Aspose.Imaging.Pdf.Adapter mit Beispielcodebildern und Dokumentenkonvertierung über C#. API-Beispielcode für die Konvertierung von Batch-HEIC-Dateien in DICOM mit jeder .NET-basierten Anwendung.
+description: Verwendung von Aspose.Imaging.Heic.Adapter mit Beispielcodebildern und Dokumentenkonvertierung über C#. API-Beispielcode für die Konvertierung von Batch-HEIC-Dateien in DICOM mit jeder .NET-basierten Anwendung.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -19,7 +19,7 @@ description: Verwendung von Aspose.Imaging.Pdf.Adapter mit Beispielcodebildern u
 
 <p align="justify" style="font-size:18px;text-indent:50px;">Die Konvertierung von Dateiformaten ist in vielen Berufen eine alltägliche Notwendigkeit, und heutzutage ist der Wechsel von einem Format in ein anderes so einfach wie das Stellen einer Online-Anfrage. Für professionelle Designer ist es jedoch von entscheidender Bedeutung, über ein zuverlässiges Tool zu verfügen, das Konvertierungen – insbesondere zwischen Bild- und Dokumentformaten – schnell und effektiv durchführt. Die Umwandlung eines Bildes in ein Dokument oder umgekehrt stellt häufig eine Herausforderung dar, die über die Fähigkeiten von Standardeditoren hinausgeht.</p>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">Dann ist Aspose.Imaging Pdf.Adapter für .NET genau das Richtige für Sie, maßgeschneidert für Bildverarbeitungs- und Konvertierungsanforderungen. Dieses unverzichtbare Tool verfügt über die folgenden Hauptfunktionen:</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">Suchen Sie nicht weiter als bei Aspose.Imaging.Heic.Adapter nach .NET, maßgeschneidert für Bildverarbeitungs- und Konvertierungsanforderungen. Dieses unverzichtbare Tool verfügt über die folgenden Hauptfunktionen:</p>
 
 <ul style="font-size:18px;">
 <li>Erleichtert Konvertierungen zwischen verschiedenen Bild- und Dokumentformaten.</li>
@@ -29,7 +29,7 @@ description: Verwendung von Aspose.Imaging.Pdf.Adapter mit Beispielcodebildern u
 <li>Unterstützt gängige Formate, einschließlich HEIC und DICOM.</li>
 </ul>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">Um HEIC in DICOM zu konvertieren, verwenden wir Aspose.Imaging <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Heic.Adapter</a> API, eine funktionsreiche, leistungsstarke und benutzerfreundliche Bildbearbeitungs- und Konvertierungs-API für die C#-Plattform. Offen <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> Paketmanager, suchen Sie nach „Aspose.Imaging Pdf.Adapter“ und installieren Sie es. Sie können auch den folgenden Befehl über die Paket-Manager-Konsole verwenden.</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">Um HEIC in DICOM zu konvertieren, verwenden wir <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Heic.Adapter</a> API, eine funktionsreiche, leistungsstarke und benutzerfreundliche Bildbearbeitungs- und Konvertierungs-API für die C#-Plattform. Offen <a href="https://www.nuget.org/packages/Aspose.Imaging.Heic.Adapter">Nuget</a> Paketmanager, suchen Sie nach Aspose.Imaging.Heic.Adapter und installieren Sie ihn. Sie können auch den folgenden Befehl über die Package Manager-Konsole verwenden:</p>
 
 {{% blocks/products/pf/agp/code-block title="Paket-Manager-Konsolenbefehl" offSpacer="true" %}}
 

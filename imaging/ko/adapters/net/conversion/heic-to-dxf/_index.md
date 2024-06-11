@@ -5,7 +5,7 @@ url: /ko/adapters/net/heic-to-dxf/
 lang: ko
 langdirlevel: 2
 locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
-description: C#을 통한 샘플 코드 이미지 및 문서 변환과 함께 Aspose.Imaging.Pdf.Adapter를 사용합니다. .NET 기반 애플리케이션을 사용하여 배치 HEIC 파일을 DXF로 변환하기 위한 API 예제 코드입니다.
+description: C#을 통한 샘플 코드 이미지 및 문서 변환과 함께 Aspose.Imaging.Heic.Adapter을(를) 사용합니다. .NET 기반 애플리케이션을 사용하여 배치 HEIC 파일을 DXF로 변환하기 위한 API 예제 코드입니다.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -19,7 +19,7 @@ description: C#을 통한 샘플 코드 이미지 및 문서 변환과 함께 As
 
 <p align="justify" style="font-size:18px;text-indent:50px;">파일 형식 변환은 다양한 직업에 걸쳐 공통적으로 필요한 작업이며 오늘날 한 형식을 다른 형식으로 변경하는 것은 온라인 요청만큼 간단합니다. 그러나 전문 디자이너의 경우 특히 이미지와 문서 형식 간의 변환을 신속하고 효과적으로 처리하는 안정적인 도구를 보유하는 것이 중요합니다. 이미지를 문서로 변환하거나 그 반대로 변환하는 것은 표준 편집기의 기능을 넘어서는 문제를 야기하는 경우가 많습니다.</p>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">이미지 처리 및 변환 요구 사항에 맞게 맞춤 제작된 Aspose.Imaging Pdf.Adapter for .NET만 있으면 됩니다. 이 필수 도구는 다음과 같은 주요 기능을 자랑합니다.</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">이미지 처리 및 변환 요구 사항에 맞게 맞춤 제작된 .NET용 Aspose.Imaging.Heic.Adapter만 있으면 됩니다. 이 필수 도구는 다음과 같은 주요 기능을 자랑합니다.</p>
 
 <ul style="font-size:18px;">
 <li>다양한 이미지와 문서 형식 간의 변환을 촉진합니다.</li>
@@ -29,7 +29,7 @@ description: C#을 통한 샘플 코드 이미지 및 문서 변환과 함께 As
 <li>HEIC 및 DXF를 포함하여 널리 사용되는 형식을 지원합니다.</li>
 </ul>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">HEIC을 DXF로 변환하기 위해 Aspose.Imaging을 사용하겠습니다. <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Heic.Adapter</a> 기능이 풍부하고 강력하며 사용하기 쉬운 C# 플랫폼용 이미지 조작 및 변환 API인 API입니다. 열려 있는 <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> 패키지 관리자에서 "Aspose.Imaging Pdf.Adapter"를 검색하여 설치하세요. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">HEIC을 DXF로 변환하기 위해 다음을 사용합니다. <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Heic.Adapter</a> 기능이 풍부하고 강력하며 사용하기 쉬운 C# 플랫폼용 이미지 조작 및 변환 API인 API입니다. 열려 있는 <a href="https://www.nuget.org/packages/Aspose.Imaging.Heic.Adapter">Nuget</a> 패키지 관리자에서 Aspose.Imaging.Heic.Adapter을 검색하여 설치하세요. 패키지 관리자 콘솔에서 다음 명령을 사용할 수도 있습니다.</p>
 
 {{% blocks/products/pf/agp/code-block title="패키지 관리자 콘솔 명령" offSpacer="true" %}}
 

@@ -5,7 +5,7 @@ url: /zh-hans/adapters/net/heic-to-svgz/
 lang: zh-hans
 langdirlevel: 2
 locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
-description: 使用 Aspose.Imaging.Pdf.Adapter 以及通过 C# 进行图像和文档转换的示例代码。使用任何基于 .NET 的应用程序将 HEIC 文件批量转换为 SVGZ 的 API 示例代码。
+description: 使用 Aspose.Imaging.Heic.Adapter 通过 C# 进行示例代码图像和文档转换。使用任何基于 .NET 的应用程序将 HEIC 文件批量转换为 SVGZ 的 API 示例代码。
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -19,7 +19,7 @@ description: 使用 Aspose.Imaging.Pdf.Adapter 以及通过 C# 进行图像和�
 
 <p align="justify" style="font-size:18px;text-indent:50px;">文件格式转换是各个行业的常见需求，如今，将一种格式更改为另一种格式就像提出在线请求一样简单。然而，对于专业设计师来说，拥有一个可靠的工具来快速有效地处理转换（尤其是图像和文档格式之间的转换）至关重要。通常，将图像转换为文档或反之亦然会带来超出标准编辑器能力的挑战。</p>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">Aspose.Imaging Pdf.Adapter for .NET 就是您的最佳选择，专为图像处理和转换需求而定制。这个不可或缺的工具具有以下主要功能：</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">.NET 的 Aspose.Imaging.Heic.Adapter 是您的最佳选择，专为图像处理和转换需求而定制。这个不可或缺的工具具有以下主要功能：</p>
 
 <ul style="font-size:18px;">
 <li>促进各种图像和文档格式之间的转换。</li>
@@ -29,7 +29,7 @@ description: 使用 Aspose.Imaging.Pdf.Adapter 以及通过 C# 进行图像和�
 <li>支持流行的格式，包括HEIC和SVGZ。</li>
 </ul>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">为了将 HEIC 转换为 SVGZ，我们将使用 Aspose.Imaging <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Heic.Adapter</a> API是一个功能丰富、强大且易于使用的C#平台图像处理和转换API。打开 <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> 包管理器，搜索“Aspose.Imaging Pdf.Adapter”并安装。您还可以从包管理器控制台使用以下命令。</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">为了将 HEIC 转换为 SVGZ，我们将使用 <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Heic.Adapter</a> API是一个功能丰富、强大且易于使用的C#平台图像处理和转换API。打开 <a href="https://www.nuget.org/packages/Aspose.Imaging.Heic.Adapter">Nuget</a> 包管理器，搜索 Aspose.Imaging.Heic.Adapter 并安装。您还可以从包管理器控制台使用以下命令：</p>
 
 {{% blocks/products/pf/agp/code-block title="包管理器控制台命令" offSpacer="true" %}}
 

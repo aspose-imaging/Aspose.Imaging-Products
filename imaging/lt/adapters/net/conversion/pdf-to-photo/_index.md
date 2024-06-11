@@ -19,7 +19,7 @@ description: Naudojant Aspose.Imaging.Pdf.Adapter su pavyzdiniais kodo vaizdais 
 
 <p align="justify" style="font-size:18px;text-indent:50px;">Failo formato konvertavimas yra įprastas įvairių profesijų poreikis, o šiandien pakeisti vieną formatą į kitą yra taip paprasta, kaip pateikti užklausą internetu. Tačiau profesionaliems dizaineriams labai svarbu turėti patikimą įrankį, kuris greitai ir efektyviai tvarko konversijas, ypač tarp vaizdo ir dokumento formatų. Dažnai vaizdo pavertimas dokumentu arba atvirkščiai yra iššūkis, viršijantis standartinių redaktorių galimybes.</p>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">Neieškokite daugiau nei Aspose.Imaging Pdf.Adapter, skirtas .NET, pritaikytas vaizdo apdorojimo ir konvertavimo poreikiams. Šis nepakeičiamas įrankis pasižymi šiomis pagrindinėmis savybėmis:</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">Ieškokite .NET, pritaikyto vaizdo apdorojimo ir konvertavimo poreikiams, Aspose.Imaging.Pdf.Adapter. Šis nepakeičiamas įrankis pasižymi šiomis pagrindinėmis savybėmis:</p>
 
 <ul style="font-size:18px;">
 <li>Palengvina konvertavimą tarp įvairių vaizdo ir dokumentų formatų.</li>
@@ -29,7 +29,7 @@ description: Naudojant Aspose.Imaging.Pdf.Adapter su pavyzdiniais kodo vaizdais 
 <li>Palaiko populiarius formatus, įskaitant PDF ir PHOTO.</li>
 </ul>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">Norėdami konvertuoti PDF į PHOTO, naudosime Aspose.Imaging <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Pdf.Adapter</a> API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta C# platformai. Atviras <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> paketų tvarkytuvė, ieškokite „Aspose.Imaging Pdf.Adapter“ ir įdiekite. Taip pat galite naudoti šią komandą iš paketų tvarkyklės konsolės.</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">Norėdami konvertuoti PDF į PHOTO, naudosime <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Pdf.Adapter</a> API, kuri yra daug funkcijų, galinga ir lengvai naudojama vaizdo apdorojimo ir konvertavimo API, skirta C# platformai. Atviras <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> paketų tvarkytuvė, ieškokite Aspose.Imaging.Pdf.Adapter ir įdiekite. Taip pat galite naudoti šią komandą iš paketų tvarkyklės konsolės:</p>
 
 {{% blocks/products/pf/agp/code-block title="Paketų tvarkyklės konsolės komanda" offSpacer="true" %}}
 

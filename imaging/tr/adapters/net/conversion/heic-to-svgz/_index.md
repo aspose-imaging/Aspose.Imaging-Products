@@ -5,7 +5,7 @@ url: /tr/adapters/net/heic-to-svgz/
 lang: tr
 langdirlevel: 2
 locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
-description: Aspose.Imaging.Pdf.Adapter'ı örnek kod görüntüleri ve C# aracılığıyla belge dönüştürmeyle kullanma. Herhangi bir .NET tabanlı uygulamayla toplu HEIC dosyalarının SVGZ'ye dönüştürülmesi için API örnek kodu.
+description: Aspose.Imaging.Heic.Adapter'i C# aracılığıyla örnek kod görüntüleri ve belge dönüşümüyle kullanma. Herhangi bir .NET tabanlı uygulamayla toplu HEIC dosyalarının SVGZ'ye dönüştürülmesi için API örnek kodu.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -19,7 +19,7 @@ description: Aspose.Imaging.Pdf.Adapter'ı örnek kod görüntüleri ve C# arac�
 
 <p align="justify" style="font-size:18px;text-indent:50px;">Dosya formatı dönüştürme, çeşitli mesleklerde ortak bir gerekliliktir ve günümüzde bir formatı diğerine değiştirmek, çevrimiçi bir talepte bulunmak kadar basittir. Ancak profesyonel tasarımcılar için, özellikle görüntü ve belge formatları arasındaki dönüşümleri hızlı ve etkili bir şekilde gerçekleştiren güvenilir bir araca sahip olmak çok önemlidir. Çoğu zaman, bir görüntüyü belgeye dönüştürmek veya tam tersini yapmak, standart editörlerin yeteneklerinin ötesinde bir zorluk teşkil eder.</p>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">Görüntü işleme ve dönüştürme ihtiyaçları için özel olarak tasarlanmış Aspose.Imaging Pdf.Adapter for .NET'ten başka bir yere bakmayın. Bu vazgeçilmez araç aşağıdaki temel özelliklere sahiptir:</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">Görüntü işleme ve dönüştürme ihtiyaçları için özel olarak tasarlanmış .NET için Aspose.Imaging.Heic.Adapter'dan başka bir yere bakmayın. Bu vazgeçilmez araç aşağıdaki temel özelliklere sahiptir:</p>
 
 <ul style="font-size:18px;">
 <li>Çeşitli görüntü ve belge formatları arasında dönüşümleri kolaylaştırır.</li>
@@ -29,7 +29,7 @@ description: Aspose.Imaging.Pdf.Adapter'ı örnek kod görüntüleri ve C# arac�
 <li>HEIC ve SVGZ dahil popüler formatları destekler.</li>
 </ul>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">HEIC'ı SVGZ'ye dönüştürmek için Aspose.Imaging'i kullanacağız. <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Heic.Adapter</a> C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. Açık <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> paket yöneticisinde "Aspose.Imaging Pdf.Adapter" ifadesini arayın ve yükleyin. Aşağıdaki komutu Paket Yönetici Konsolundan da kullanabilirsiniz.</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">HEIC'ı SVGZ'ye dönüştürmek için şunu kullanacağız: <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Heic.Adapter</a> C# platformu için zengin özelliklere sahip, güçlü ve kullanımı kolay bir görüntü işleme ve dönüştürme API'si olan API. Açık <a href="https://www.nuget.org/packages/Aspose.Imaging.Heic.Adapter">Nuget</a> paket yöneticisi, Aspose.Imaging.Heic.Adapter ifadesini arayın ve yükleyin. Paket Yönetici Konsolu'ndan aşağıdaki komutu da kullanabilirsiniz:</p>
 
 {{% blocks/products/pf/agp/code-block title="Paket Yönetici Konsolu Komutu" offSpacer="true" %}}
 

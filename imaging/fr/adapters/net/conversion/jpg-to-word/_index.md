@@ -5,7 +5,7 @@ url: /fr/adapters/net/jpg-to-word/
 lang: fr
 langdirlevel: 2
 locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
-description: Utilisation d'Aspose.Imaging.Pdf.Adapter avec des exemples de code d'images et de conversion de documents via C#. Exemple de code API pour la conversion par lots de fichiers JPG en WORD avec n'importe quelle application basée sur .NET.
+description: Utilisation de Aspose.Imaging.Pdf.Adapter avec des exemples d'images de code et de conversion de documents via C#. Exemple de code API pour la conversion par lots de fichiers JPG en WORD avec n'importe quelle application basée sur .NET.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -19,7 +19,7 @@ description: Utilisation d'Aspose.Imaging.Pdf.Adapter avec des exemples de code 
 
 <p align="justify" style="font-size:18px;text-indent:50px;">La conversion de format de fichier est une nécessité courante dans diverses professions, et aujourd'hui, changer de format en un autre est aussi simple que de faire une demande en ligne. Cependant, pour les concepteurs professionnels, il est crucial de disposer d'un outil fiable capable de gérer rapidement et efficacement les conversions, en particulier entre les formats d'image et de document. Souvent, transformer une image en document ou vice versa pose un défi qui dépasse les capacités des éditeurs standards.</p>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">Ne cherchez pas plus loin qu'Aspose.Imaging Pdf.Adapter pour .NET, conçu sur mesure pour les besoins de traitement et de conversion d'images. Cet outil indispensable possède les fonctionnalités clés suivantes :</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">Ne cherchez pas plus loin que Aspose.Imaging.Pdf.Adapter pour .NET, conçu sur mesure pour les besoins de traitement et de conversion d'images. Cet outil indispensable possède les fonctionnalités clés suivantes :</p>
 
 <ul style="font-size:18px;">
 <li>Facilite les conversions entre différents formats d’images et de documents.</li>
@@ -29,7 +29,7 @@ description: Utilisation d'Aspose.Imaging.Pdf.Adapter avec des exemples de code 
 <li>Prend en charge les formats populaires, notamment JPG et WORD.</li>
 </ul>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">Afin de convertir JPG en WORD, nous utiliserons Aspose.Imaging <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Pdf.Adapter</a> API qui est une API de manipulation et de conversion d'images riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme C#. Ouvrir <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> Gestionnaire de packages, recherchez "Aspose.Imaging Pdf.Adapter" et installez. Vous pouvez également utiliser la commande suivante à partir de la console Package Manager.</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">Afin de convertir JPG en WORD, nous utiliserons <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Pdf.Adapter</a> API qui est une API de manipulation et de conversion d'images riche en fonctionnalités, puissante et facile à utiliser pour la plate-forme C#. Ouvrir <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> Gestionnaire de packages, recherchez Aspose.Imaging.Pdf.Adapter et installez. Vous pouvez également utiliser la commande suivante depuis la console Package Manager :</p>
 
 {{% blocks/products/pf/agp/code-block title="Commande de la console du gestionnaire de packages" offSpacer="true" %}}
 

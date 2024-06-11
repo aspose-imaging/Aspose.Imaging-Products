@@ -19,7 +19,7 @@ description: Sử dụng Aspose.Imaging.Pdf.Adapter với hình ảnh mã mẫu 
 
 <p align="justify" style="font-size:18px;text-indent:50px;">Chuyển đổi định dạng tệp là nhu cầu cần thiết phổ biến ở nhiều ngành nghề khác nhau và ngày nay, việc thay đổi định dạng này sang định dạng khác cũng đơn giản như thực hiện một yêu cầu trực tuyến. Tuy nhiên, đối với các nhà thiết kế chuyên nghiệp, việc có một công cụ đáng tin cậy giúp xử lý chuyển đổi nhanh chóng và hiệu quả—đặc biệt là giữa các định dạng hình ảnh và tài liệu là rất quan trọng. Thông thường, việc chuyển đổi một hình ảnh thành tài liệu hoặc ngược lại đặt ra thách thức vượt quá khả năng của các biên tập viên tiêu chuẩn.</p>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">Không cần tìm đâu xa ngoài Aspose.Imaging Pdf.Adapter cho .NET, được thiết kế riêng cho nhu cầu chuyển đổi và xử lý hình ảnh. Công cụ không thể thiếu này tự hào có các tính năng chính sau:</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">Không cần tìm đâu xa ngoài Aspose.Imaging.Pdf.Adapter dành cho .NET, được thiết kế riêng cho nhu cầu chuyển đổi và xử lý hình ảnh. Công cụ không thể thiếu này tự hào có các tính năng chính sau:</p>
 
 <ul style="font-size:18px;">
 <li>Tạo điều kiện chuyển đổi giữa các định dạng hình ảnh và tài liệu khác nhau.</li>
@@ -29,7 +29,7 @@ description: Sử dụng Aspose.Imaging.Pdf.Adapter với hình ảnh mã mẫu 
 <li>Hỗ trợ các định dạng phổ biến bao gồm JPEG và WORD.</li>
 </ul>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">Để chuyển đổi JPEG thành WORD, chúng tôi sẽ sử dụng Aspose.Imaging <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Pdf.Adapter</a> API là API chuyển đổi và xử lý hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C#. Mở <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> trình quản lý gói, tìm kiếm "Aspose.Imaging Pdf.Adapter" và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển quản lý gói.</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">Để chuyển đổi JPEG thành WORD, chúng tôi sẽ sử dụng <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Pdf.Adapter</a> API là API chuyển đổi và xử lý hình ảnh giàu tính năng, mạnh mẽ và dễ sử dụng cho nền tảng C#. Mở <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> trình quản lý gói, tìm kiếm Aspose.Imaging.Pdf.Adapter và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển quản lý gói:</p>
 
 {{% blocks/products/pf/agp/code-block title="Lệnh điều khiển quản lý gói" offSpacer="true" %}}
 

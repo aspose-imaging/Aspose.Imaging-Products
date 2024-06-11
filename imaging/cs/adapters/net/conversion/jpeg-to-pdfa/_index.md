@@ -5,7 +5,7 @@ url: /cs/adapters/net/jpeg-to-pdfa/
 lang: cs
 langdirlevel: 2
 locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
-description: Použití Aspose.Imaging.Pdf.Adapter s ukázkovými kódovými obrázky a převodem dokumentů přes C#. Příklad kódu API pro dávkový převod souborů JPEG na PDFA pomocí libovolné aplikace založené na .NET.
+description: Použití Aspose.Imaging.Pdf.Adapter s ukázkovými obrázky kódu a převodem dokumentů přes C#. Příklad kódu API pro dávkový převod souborů JPEG na PDFA pomocí libovolné aplikace založené na .NET.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -19,7 +19,7 @@ description: Použití Aspose.Imaging.Pdf.Adapter s ukázkovými kódovými obr�
 
 <p align="justify" style="font-size:18px;text-indent:50px;">Převod formátu souboru je běžnou nutností napříč různými profesemi a dnes je změna jednoho formátu na jiný stejně jednoduchá jako online žádost. Pro profesionální designéry je však rozhodující mít spolehlivý nástroj, který rychle a efektivně zvládne převody – zejména mezi formáty obrázků a dokumentů. Transformace obrázku do dokumentu a naopak často představuje výzvu přesahující možnosti standardních editorů.</p>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">Nehledejte nic jiného než Aspose.Imaging Pdf.Adapter for .NET, šitý na míru pro potřeby zpracování obrazu a konverze. Tento nepostradatelný nástroj se může pochlubit následujícími klíčovými funkcemi:</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">Nehledejte nic jiného než Aspose.Imaging.Pdf.Adapter pro .NET, šitý na míru pro potřeby zpracování obrazu a konverze. Tento nepostradatelný nástroj se může pochlubit následujícími klíčovými funkcemi:</p>
 
 <ul style="font-size:18px;">
 <li>Usnadňuje převody mezi různými formáty obrázků a dokumentů.</li>
@@ -29,7 +29,7 @@ description: Použití Aspose.Imaging.Pdf.Adapter s ukázkovými kódovými obr�
 <li>Podporuje oblíbené formáty včetně JPEG a PDFA.</li>
 </ul>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">Abychom převedli JPEG na PDFA, použijeme Aspose.Imaging <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Pdf.Adapter</a> API, což je funkčně bohaté, výkonné a snadno použitelné rozhraní API pro manipulaci s obrázky a konverzi pro platformu C#. OTEVŘENO <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> správce balíčků, vyhledejte "Aspose.Imaging Pdf.Adapter" a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků.</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">Abychom převedli JPEG na PDFA, použijeme <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Pdf.Adapter</a> API, což je funkčně bohaté, výkonné a snadno použitelné rozhraní API pro manipulaci s obrázky a konverzi pro platformu C#. OTEVŘENO <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> správce balíčků, vyhledejte Aspose.Imaging.Pdf.Adapter a nainstalujte. Můžete také použít následující příkaz z konzoly Správce balíčků:</p>
 
 {{% blocks/products/pf/agp/code-block title="Příkaz konzoly Správce balíčků" offSpacer="true" %}}
 

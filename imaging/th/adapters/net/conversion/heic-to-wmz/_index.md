@@ -5,7 +5,7 @@ url: /th/adapters/net/heic-to-wmz/
 lang: th
 langdirlevel: 2
 locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
-description: การใช้ Aspose.Imaging.Pdf.Adapter กับรูปภาพโค้ดตัวอย่างและการแปลงเอกสารผ่าน C# โค้ดตัวอย่าง API สำหรับการแปลงไฟล์ HEIC เป็น WMZ ด้วยแอปพลิเคชันที่ใช้ .NET
+description: การใช้ Aspose.Imaging.Heic.Adapter กับรูปภาพโค้ดตัวอย่างและการแปลงเอกสารผ่าน C# โค้ดตัวอย่าง API สำหรับการแปลงไฟล์ HEIC เป็น WMZ ด้วยแอปพลิเคชันที่ใช้ .NET
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -19,7 +19,7 @@ description: การใช้ Aspose.Imaging.Pdf.Adapter กับรูปภ
 
 <p align="justify" style="font-size:18px;text-indent:50px;">การแปลงรูปแบบไฟล์เป็นสิ่งจำเป็นทั่วไปสำหรับอาชีพต่างๆ และในปัจจุบัน การเปลี่ยนรูปแบบหนึ่งไปเป็นอีกรูปแบบหนึ่งก็ทำได้ง่ายเพียงแค่ส่งคำขอออนไลน์ อย่างไรก็ตาม สำหรับนักออกแบบมืออาชีพ การมีเครื่องมือที่เชื่อถือได้ซึ่งจัดการการแปลงได้อย่างรวดเร็วและมีประสิทธิภาพ โดยเฉพาะอย่างยิ่งระหว่างรูปแบบรูปภาพและเอกสารถือเป็นสิ่งสำคัญ บ่อยครั้ง การแปลงรูปภาพให้เป็นเอกสารหรือกลับกันถือเป็นความท้าทายที่เกินกว่าความสามารถของโปรแกรมแก้ไขมาตรฐาน</p>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">ไม่ต้องมองหาที่ไหนไกลนอกจาก Aspose.Imaging Pdf.Adapter สำหรับ .NET ซึ่งออกแบบมาเพื่อการประมวลผลภาพและการแปลงโดยเฉพาะ เครื่องมือที่ขาดไม่ได้นี้มีคุณสมบัติที่สำคัญดังต่อไปนี้:</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">ไม่ต้องมองหาที่ไหนไกลไปกว่า Aspose.Imaging.Heic.Adapter สำหรับ .NET ซึ่งออกแบบมาเพื่อการประมวลผลภาพและการแปลงโดยเฉพาะ เครื่องมือที่ขาดไม่ได้นี้มีคุณสมบัติที่สำคัญดังต่อไปนี้:</p>
 
 <ul style="font-size:18px;">
 <li>อำนวยความสะดวกในการแปลงระหว่างรูปภาพและรูปแบบเอกสารต่างๆ</li>
@@ -29,7 +29,7 @@ description: การใช้ Aspose.Imaging.Pdf.Adapter กับรูปภ
 <li>รองรับรูปแบบยอดนิยม ได้แก่ HEIC และ WMZ</li>
 </ul>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">ในการแปลง HEIC เป็น WMZ เราจะใช้ Aspose.Imaging <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Heic.Adapter</a> API ซึ่งเป็น API การจัดการรูปภาพและการแปลงรูปภาพที่มีฟีเจอร์หลากหลาย ทรงพลัง และใช้งานง่ายสำหรับแพลตฟอร์ม C# เปิด <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> ตัวจัดการแพ็คเกจ ค้นหา "Aspose.Imaging Pdf.Adapter" และติดตั้ง คุณอาจใช้คำสั่งต่อไปนี้จาก Package Manager Console</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">ในการแปลง HEIC เป็น WMZ เราจะใช้ <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Heic.Adapter</a> API ซึ่งเป็น API การจัดการรูปภาพและการแปลงรูปภาพที่มีฟีเจอร์หลากหลาย ทรงพลัง และใช้งานง่ายสำหรับแพลตฟอร์ม C# เปิด <a href="https://www.nuget.org/packages/Aspose.Imaging.Heic.Adapter">Nuget</a> ตัวจัดการแพ็คเกจ ค้นหา Aspose.Imaging.Heic.Adapter และติดตั้ง คุณยังอาจใช้คำสั่งต่อไปนี้จาก Package Manager Console:</p>
 
 {{% blocks/products/pf/agp/code-block title="คำสั่งคอนโซลตัวจัดการแพ็คเกจ" offSpacer="true" %}}
 

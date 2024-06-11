@@ -5,7 +5,7 @@ url: /es/adapters/net/heic-to-gif/
 lang: es
 langdirlevel: 2
 locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
-description: Usando Aspose.Imaging.Pdf.Adapter con código de muestra, conversión de imágenes y documentos a través de C#. Código de ejemplo API para conversión por lotes de archivos HEIC a GIF con cualquier aplicación basada en .NET.
+description: Usando Aspose.Imaging.Heic.Adapter con imágenes de código de muestra y conversión de documentos a través de C#. Código de ejemplo API para conversión por lotes de archivos HEIC a GIF con cualquier aplicación basada en .NET.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -19,7 +19,7 @@ description: Usando Aspose.Imaging.Pdf.Adapter con código de muestra, conversi�
 
 <p align="justify" style="font-size:18px;text-indent:50px;">La conversión de formatos de archivos es una necesidad común en diversas profesiones y, hoy en día, cambiar un formato a otro es tan sencillo como realizar una solicitud en línea. Sin embargo, para los diseñadores profesionales, es fundamental contar con una herramienta confiable que maneje de manera rápida y efectiva las conversiones, especialmente entre formatos de imagen y documento. Con frecuencia, transformar una imagen en un documento o viceversa plantea un desafío que va más allá de las capacidades de los editores estándar.</p>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">No busque más, Aspose.Imaging Pdf.Adapter para .NET, hecho a medida para las necesidades de conversión y procesamiento de imágenes. Esta herramienta indispensable cuenta con las siguientes características clave:</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">No busque más, Aspose.Imaging.Heic.Adapter para .NET, hecho a medida para las necesidades de conversión y procesamiento de imágenes. Esta herramienta indispensable cuenta con las siguientes características clave:</p>
 
 <ul style="font-size:18px;">
 <li>Facilita las conversiones entre varios formatos de imágenes y documentos.</li>
@@ -29,7 +29,7 @@ description: Usando Aspose.Imaging.Pdf.Adapter con código de muestra, conversi�
 <li>Admite formatos populares, incluidos HEIC y GIF.</li>
 </ul>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">Para convertir HEIC a GIF, usaremos Aspose.Imaging <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Heic.Adapter</a> API que es una API de conversión y manipulación de imágenes rica en funciones, potente y fácil de usar para la plataforma C#. Abierto <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> administrador de paquetes, busque "Aspose.Imaging Pdf.Adapter" e instálelo. También puede utilizar el siguiente comando desde la Consola del Administrador de paquetes.</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">Para convertir HEIC a GIF, usaremos <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Heic.Adapter</a> API que es una API de conversión y manipulación de imágenes rica en funciones, potente y fácil de usar para la plataforma C#. Abierto <a href="https://www.nuget.org/packages/Aspose.Imaging.Heic.Adapter">Nuget</a> administrador de paquetes, busque Aspose.Imaging.Heic.Adapter e instálelo. También puede utilizar el siguiente comando desde la Consola del Administrador de paquetes:</p>
 
 {{% blocks/products/pf/agp/code-block title="Comando de la consola del administrador de paquetes" offSpacer="true" %}}
 

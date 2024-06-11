@@ -5,7 +5,7 @@ url: /adapters/net/heic-to-jpeg2000/
 lang: en
 langdirlevel: 2
 locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
-description: Using Aspose.Imaging.Pdf.Adapter with sample code images and documents conversion via C#. API example code for batch HEIC files to JPEG2000 conversion with any .NET based application.
+description: Using Aspose.Imaging.Heic.Adapter with sample code images and documents conversion via C#. API example code for batch HEIC files to JPEG2000 conversion with any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

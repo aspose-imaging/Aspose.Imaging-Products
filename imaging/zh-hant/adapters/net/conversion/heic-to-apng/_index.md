@@ -5,7 +5,7 @@ url: /zh-hant/adapters/net/heic-to-apng/
 lang: zh-hant
 langdirlevel: 2
 locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
-description: 使用 Aspose.Imaging.Pdf.Adapter 以及透過 C# 進行映像和文件轉換的範例程式碼。使用任何基於 .NET 的應用程式將 HEIC 檔案批次轉換為 APNG 的 API 範例程式碼。
+description: 使用 Aspose.Imaging.Heic.Adapter 透過 C# 進行範例程式碼影像和文件轉換。使用任何基於 .NET 的應用程式將 HEIC 檔案批次轉換為 APNG 的 API 範例程式碼。
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -19,7 +19,7 @@ description: 使用 Aspose.Imaging.Pdf.Adapter 以及透過 C# 進行映像和�
 
 <p align="justify" style="font-size:18px;text-indent:50px;">文件格式轉換是各個行業的常見需求，如今，將一種格式更改為另一種格式就像提出線上請求一樣簡單。然而，對於專業設計師來說，擁有一個可靠的工具來快速有效地處理轉換（尤其是影像和文件格式之間的轉換）至關重要。通常，將影像轉換為文件或反之亦然會帶來超出標準編輯器能力的挑戰。</p>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">Aspose.Imaging Pdf.Adapter for .NET 是您的最佳選擇，專為影像處理和轉換需求而客製化。這個不可或缺的工具具有以下主要功能：</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">.NET 的 Aspose.Imaging.Heic.Adapter 是您的最佳選擇，專為影像處理和轉換需求而客製化。這個不可或缺的工具具有以下主要功能：</p>
 
 <ul style="font-size:18px;">
 <li>促進各種影像和文件格式之間的轉換。</li>
@@ -29,7 +29,7 @@ description: 使用 Aspose.Imaging.Pdf.Adapter 以及透過 C# 進行映像和�
 <li>支援流行的格式，包括HEIC和APNG。</li>
 </ul>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">為了將 HEIC 轉換為 APNG，我們將使用 Aspose.Imaging <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Heic.Adapter</a> API是一個功能豐富、強大且易於使用的C#平台影像處理和轉換API。打開 <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> 套件管理器，搜尋「Aspose.Imaging Pdf.Adapter」並安裝。您也可以從套件管理器控制台使用以下命令。</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">為了將 HEIC 轉換為 APNG，我們將使用 <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Heic.Adapter</a> API是一個功能豐富、強大且易於使用的C#平台影像處理和轉換API。打開 <a href="https://www.nuget.org/packages/Aspose.Imaging.Heic.Adapter">Nuget</a> 套件管理器，搜尋 Aspose.Imaging.Heic.Adapter 並安裝。您也可以從套件管理器控制台使用以下命令：</p>
 
 {{% blocks/products/pf/agp/code-block title="套件管理器控制台命令" offSpacer="true" %}}
 
