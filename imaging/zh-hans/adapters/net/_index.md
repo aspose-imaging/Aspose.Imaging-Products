@@ -20,6 +20,11 @@ description: 使用 Aspose.Imaging Adapters 和各种 Aspose 产品简化格式�
 
 <p align="justify" style="font-size:18px;text-indent:50px;">Aspose.Imaging.Pdf.Adapter for .NET 无缝集成了两个强大的库：Aspose.Imaging for .NET 和 Aspose.Pdf for .NET，提供了增强格式转换功能的全面解决方案。这种强大的组合使用户能够轻松地在各种光栅和矢量图像与文档之间进行转换，反之亦然。通过利用这两个库的独特功能，该适配器开辟了丰富的机会，可以将 EMF、WMF、CDR、PSD、TIFF 和 WEBP 等图像格式转换为 Aspose.Pdf 库支持的文档格式。这些文档格式包括 PDF（具有高级设置）、DOCX、XLSX、HTML 和 PPTX。此外，该适配器还可以将 PDF 转换为 Aspose.Imaging 库中提供的所有图像格式，例如 EMF、WMF、J2K、WEBP 和 TIFF。这种集成不仅通过提供多功能、高效的转换解决方案提高了市场竞争力，而且还为各行业的创新应用奠定了基础。无论是增强文档管理系统、简化媒体处理工作流程，还是开发动态内容交付平台，Aspose.Imaging Pdf.Adapter for .NET 都使开发人员能够利用新技术前沿，推动数字内容管理领域的前瞻性解决方案。</p>
 
+<h3><a href="https://reference.aspose.com/imaging/adapters/net/aspose.imaging.heic.adapter/">Aspose.Imaging.Heic.Adapter</a></h3>
+
+<p align="justify" style="font-size:18px;text-indent:50px;">Aspose.Imaging.Heic.Adapter for .NET 轻松结合了两个功能强大的库：Aspose.Imaging for .NET 和 Openize.Heic for .NET，提供了提升格式转换功能的完整解决方案。 Openize.Heic是一个开源SDK，集成了HEIF文件格式解码器，支持HEVC（高效视频编码）编码图像。鉴于 HEIC 是 iOS 设备上的默认图像格式，将其转换为更通用的兼容格式以将照片从 iPhone 传输到 PC 势在必行。这种强大的混合有助于 HEIC 格式与各种光栅和矢量图像之间的无缝转换。利用这两个库的独特功能，该适配器开辟了丰富的机会，可以从 HEIC 图像格式顺利转换为 Aspose.Imaging 库支持的格式，包括 JPEG、PNG、PDF、GIF、TIFF、WEBP 等。无论是优化图像管理系统、简化媒体处理工作流程，Aspose.Imaging Heic.Adapter for .NET 都使开发人员能够探索新的技术视野并推动管理数字资产的创新。</p>
+
+
 {{% /blocks/products/pf/agp/content %}}
 
 <div class="container-fluid productfamilypage bg-gray">
@@ -41,6 +46,32 @@ description: 使用 Aspose.Imaging Adapters 和各种 Aspose 产品简化格式�
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/adapters/net/photo-to-word/" style="padding:15px;">PHOTO 到 WORD</a></div>
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/adapters/net/picture-to-word/" style="padding:15px;">PICTURE 到 WORD</a></div>
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/adapters/net/png-to-word/" style="padding:15px;">PNG 到 WORD</a></div>
+</div>
+<h4 style="margin-left:-20px;margin-bottom:20px;font-size:22px;">Aspose.Imaging.Heic.Adapter 适配器流行转换：</h4>
+<div class="row other-converters" style="font-size: 19px;text-align:center;">
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/adapters/net/heic-to-apng/" style="padding:15px;">HEIC 到 APNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/adapters/net/heic-to-bigtiff/" style="padding:15px;">HEIC 到 BIGTIFF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/adapters/net/heic-to-bmp/" style="padding:15px;">HEIC 到 BMP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/adapters/net/heic-to-dicom/" style="padding:15px;">HEIC 到 DICOM</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/adapters/net/heic-to-dxf/" style="padding:15px;">HEIC 到 DXF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/adapters/net/heic-to-emf/" style="padding:15px;">HEIC 到 EMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/adapters/net/heic-to-emz/" style="padding:15px;">HEIC 到 EMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/adapters/net/heic-to-gif/" style="padding:15px;">HEIC 到 GIF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/adapters/net/heic-to-canvas/" style="padding:15px;">HEIC 到 CANVAS</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/adapters/net/heic-to-ico/" style="padding:15px;">HEIC 到 ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/adapters/net/heic-to-jpeg/" style="padding:15px;">HEIC 到 JPEG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/adapters/net/heic-to-jpg/" style="padding:15px;">HEIC 到 JPG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/adapters/net/heic-to-jpeg2000/" style="padding:15px;">HEIC 到 JPEG2000</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/adapters/net/heic-to-pdf/" style="padding:15px;">HEIC 到 PDF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/adapters/net/heic-to-png/" style="padding:15px;">HEIC 到 PNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/adapters/net/heic-to-psd/" style="padding:15px;">HEIC 到 PSD</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/adapters/net/heic-to-svg/" style="padding:15px;">HEIC 到 SVG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/adapters/net/heic-to-svgz/" style="padding:15px;">HEIC 到 SVGZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/adapters/net/heic-to-tga/" style="padding:15px;">HEIC 到 TGA</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/adapters/net/heic-to-tiff/" style="padding:15px;">HEIC 到 TIFF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/adapters/net/heic-to-webp/" style="padding:15px;">HEIC 到 WEBP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/adapters/net/heic-to-wmf/" style="padding:15px;">HEIC 到 WMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/zh-hans/adapters/net/heic-to-wmz/" style="padding:15px;">HEIC 到 WMZ</a></div>
 </div>
                 
         </div>

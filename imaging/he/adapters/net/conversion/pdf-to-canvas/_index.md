@@ -5,7 +5,7 @@ url: /he/adapters/net/pdf-to-canvas/
 lang: he
 langdirlevel: 2
 locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
-description: שימוש Aspose.Imaging.Pdf.Adapter עם תמונות קוד לדוגמה והמרת מסמכים באמצעות C#. קוד API לדוגמה עבור קבצי PDF אצווה להמרה של CANVAS עם כל יישום מבוסס NET.
+description: שימוש ב-Aspose.Imaging.Pdf.Adapter עם תמונות קוד לדוגמה והמרת מסמכים באמצעות C#. קוד API לדוגמה עבור קבצי PDF אצווה להמרה של CANVAS עם כל יישום מבוסס NET.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -19,7 +19,7 @@ description: שימוש Aspose.Imaging.Pdf.Adapter עם תמונות קוד לד
 
 <p align="justify" style="font-size:18px;text-indent:50px;">המרת פורמט קבצים היא צורך נפוץ במקצועות שונים, וכיום, שינוי פורמט אחד למשנהו הוא פשוט כמו הגשת בקשה מקוונת. עם זאת, עבור מעצבים מקצועיים, יש חשיבות מכרעת בכלי אמין המטפל במהירות וביעילות בהמרות - במיוחד בין פורמטים של תמונה למסמכים. לעתים קרובות, הפיכת תמונה למסמך או להיפך מהווה אתגר מעבר ליכולות של עורכים סטנדרטיים.</p>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">אל תחפש יותר מאשר Aspose.Imaging Pdf.Adapter עבור .NET, המותאם במיוחד לצרכי עיבוד תמונה והמרה. כלי הכרחי זה מתהדר בתכונות המפתח הבאות:</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">אל תחפש יותר מ-Aspose.Imaging.Pdf.Adapter עבור .NET, המותאם במיוחד לצרכי עיבוד תמונה והמרה. כלי הכרחי זה מתהדר בתכונות המפתח הבאות:</p>
 
 <ul style="font-size:18px;">
 <li>מקל על המרות בין פורמטים שונים של תמונה ומסמכים.</li>
@@ -29,7 +29,7 @@ description: שימוש Aspose.Imaging.Pdf.Adapter עם תמונות קוד לד
 <li>תומך בפורמטים פופולריים כולל PDF ו-CANVAS.</li>
 </ul>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">על מנת להמיר את PDF ל-CANVAS, נשתמש ב-Aspose.Imaging <a href="https://products.aspose.com/imaging/adapters/net">Pdf.Adapter</a> API שהוא עשיר בתכונות, חזק וקל לשימוש למניפולציה והמרה של תמונות עבור פלטפורמת C#. לִפְתוֹחַ <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> מנהל החבילות, חפש את "Aspose.Imaging Pdf.Adapter" והתקן. אתה יכול גם להשתמש בפקודה הבאה ממסוף מנהל החבילות.</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">כדי להמיר את PDF ל-CANVAS, נשתמש <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Pdf.Adapter</a> API שהוא עשיר בתכונות, חזק וקל לשימוש למניפולציה והמרה של תמונות עבור פלטפורמת C#. לִפְתוֹחַ <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> מנהל החבילות, חפש את Aspose.Imaging.Pdf.Adapter והתקן. אתה יכול גם להשתמש בפקודה הבאה ממסוף מנהל החבילות:</p>
 
 {{% blocks/products/pf/agp/code-block title="פקודת קונסולת מנהל החבילות" offSpacer="true" %}}
 

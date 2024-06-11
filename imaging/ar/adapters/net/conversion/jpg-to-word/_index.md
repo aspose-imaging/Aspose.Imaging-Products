@@ -5,7 +5,7 @@ url: /ar/adapters/net/jpg-to-word/
 lang: ar
 langdirlevel: 2
 locales: ja,it,zh-hant,ru,de,es,fr,nl,id,lt,pl,pt,vi,tr,ko,zh-hans,ar,hi,th,sv,cs,uk,he
-description: استخدام Aspose.Imaging.Pdf.Adapter مع نماذج صور التعليمات البرمجية وتحويل المستندات عبر C#. كود مثال API لتحويل ملفات JPG المجمعة إلى WORD مع أي تطبيق يستند إلى .NET.
+description: استخدام Aspose.Imaging.Pdf.Adapter مع نماذج صور التعليمات البرمجية وتحويل المستندات عبر C#. كود مثال API لتحويل ملفات JPG الدفعية إلى WORD مع أي تطبيق يستند إلى .NET.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -19,7 +19,7 @@ description: استخدام Aspose.Imaging.Pdf.Adapter مع نماذج صور ا
 
 <p align="justify" style="font-size:18px;text-indent:50px;">يعد تحويل تنسيق الملف ضرورة شائعة عبر مختلف المهن، واليوم أصبح تغيير تنسيق إلى آخر أمرًا بسيطًا مثل تقديم طلب عبر الإنترنت. ومع ذلك، بالنسبة للمصممين المحترفين، فإن وجود أداة موثوقة تتعامل بسرعة وفعالية مع التحويلات - خاصة بين تنسيقات الصور والمستندات أمر بالغ الأهمية. في كثير من الأحيان، يشكل تحويل الصورة إلى مستند أو العكس تحديًا يتجاوز قدرات المحررين القياسيين.</p>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">لا تنظر إلى أبعد من Aspose.Imaging Pdf.Adapter for .NET، المصمم خصيصًا لتلبية احتياجات معالجة الصور وتحويلها. تتميز هذه الأداة التي لا غنى عنها بالميزات الرئيسية التالية:</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">لا تنظر إلى أبعد من Aspose.Imaging.Pdf.Adapter لـ .NET، المصمم خصيصًا لتلبية احتياجات معالجة الصور وتحويلها. تتميز هذه الأداة التي لا غنى عنها بالميزات الرئيسية التالية:</p>
 
 <ul style="font-size:18px;">
 <li>يسهل التحويلات بين تنسيقات الصور والمستندات المختلفة.</li>
@@ -29,7 +29,7 @@ description: استخدام Aspose.Imaging.Pdf.Adapter مع نماذج صور ا
 <li>يدعم التنسيقات الشائعة بما في ذلك JPG وWORD.</li>
 </ul>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">لتحويل JPG إلى WORD، سنستخدم Aspose.Imaging <a href="https://products.aspose.com/imaging/adapters/net">Pdf.Adapter</a> واجهة برمجة التطبيقات (API) هي واجهة برمجة تطبيقات غنية بالميزات وقوية وسهلة الاستخدام لمعالجة الصور وتحويلها لمنصة C#. يفتح <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> مدير الحزم، ابحث عن "Aspose.Imaging Pdf.Adapter" وقم بتثبيته. يمكنك أيضًا استخدام الأمر التالي من وحدة تحكم إدارة الحزم.</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">لتحويل JPG إلى WORD، سنستخدم <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Pdf.Adapter</a> واجهة برمجة التطبيقات (API) هي واجهة برمجة تطبيقات غنية بالميزات وقوية وسهلة الاستخدام لمعالجة الصور وتحويلها لمنصة C#. يفتح <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> مدير الحزم، ابحث عن Aspose.Imaging.Pdf.Adapter وقم بتثبيته. يمكنك أيضًا استخدام الأمر التالي من وحدة تحكم إدارة الحزم:</p>
 
 {{% blocks/products/pf/agp/code-block title="أمر وحدة تحكم إدارة الحزم" offSpacer="true" %}}
 

@@ -20,6 +20,11 @@ description: Aspose.Imaging 어댑터와 다양한 Aspose 제품을 사용하여
 
 <p align="justify" style="font-size:18px;text-indent:50px;">.NET용 Aspose.Imaging.Pdf.Adapter는 두 개의 강력한 라이브러리인 .NET용 Aspose.Imaging과 .NET용 Aspose.Pdf를 완벽하게 통합하여 형식 변환 기능을 향상시키는 포괄적인 솔루션을 제공합니다. 이 강력한 조합을 통해 사용자는 광범위한 래스터 및 벡터 이미지를 문서로 또는 그 반대로 쉽게 변환할 수 있습니다. 어댑터는 두 라이브러리의 고유한 기능을 활용하여 EMF, WMF, CDR, PSD, TIFF 및 WEBP와 같은 이미지 형식을 Aspose.Pdf 라이브러리에서 지원하는 문서 형식으로 변환할 수 있는 풍부한 기회를 열어줍니다. 이러한 문서 형식에는 PDF(고급 설정 포함), DOCX, XLSX, HTML 및 PPTX가 포함됩니다. 또한 어댑터를 사용하면 PDF를 EMF, WMF, J2K, WEBP 및 TIFF와 같은 Aspose.Imaging 라이브러리에서 사용할 수 있는 모든 이미지 형식으로 쉽게 변환할 수 있습니다. 이러한 통합은 다양하고 효율적인 변환 솔루션을 제공함으로써 시장 경쟁력을 높일 뿐만 아니라 다양한 산업 전반에 걸쳐 혁신적인 애플리케이션을 위한 기반을 마련합니다. 문서 관리 시스템 강화, 미디어 처리 워크플로 간소화 또는 동적 콘텐츠 전달 플랫폼 개발 등 .NET용 Aspose.Imaging Pdf.Adapter는 개발자가 새로운 기술 영역을 활용하여 디지털 콘텐츠 관리에서 미래 지향적인 솔루션을 추진할 수 있도록 지원합니다.</p>
 
+<h3><a href="https://reference.aspose.com/imaging/adapters/net/aspose.imaging.heic.adapter/">Aspose.Imaging.Heic.Adapter</a></h3>
+
+<p align="justify" style="font-size:18px;text-indent:50px;">.NET용 Aspose.Imaging.Heic.Adapter는 두 개의 강력한 라이브러리인 .NET용 Aspose.Imaging과 .NET용 Openize.Heic을 손쉽게 결합하여 형식 변환 기능을 향상시키는 완전한 솔루션을 제공합니다. 오픈 소스 SDK인 Openize.Heic은 HEVC(고효율 비디오 코딩) 인코딩 이미지를 지원하는 HEIF 파일 형식 디코더를 통합합니다. HEIC가 iOS 장치의 기본 이미지 형식이라는 점을 감안할 때 iPhone에서 PC로 사진을 전송하려면 HEIC를 보다 보편적으로 호환되는 형식으로 변환하는 것이 필수적입니다. 이 강력한 조합은 HEIC 형식과 광범위한 래스터 및 벡터 이미지 간의 원활한 변환을 촉진합니다. 두 라이브러리의 고유한 기능을 활용하는 어댑터는 HEIC 이미지 형식을 JPEG, PNG, PDF, GIF, TIFF, WEBP 등을 포함하여 Aspose.Imaging 라이브러리에서 지원하는 형식으로 원활하게 변환할 수 있도록 다양한 기회를 열어줍니다. 이미지 관리 시스템 최적화, 미디어 처리 워크플로우 단순화 등 .NET용 Aspose.Imaging Heic.Adapter는 개발자가 디지털 자산 관리에 있어 새로운 기술적 지평을 탐색하고 혁신을 주도할 수 있도록 지원합니다.</p>
+
+
 {{% /blocks/products/pf/agp/content %}}
 
 <div class="container-fluid productfamilypage bg-gray">
@@ -41,6 +46,32 @@ description: Aspose.Imaging 어댑터와 다양한 Aspose 제품을 사용하여
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/adapters/net/photo-to-word/" style="padding:15px;">PHOTO 에게 WORD</a></div>
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/adapters/net/picture-to-word/" style="padding:15px;">PICTURE 에게 WORD</a></div>
 <div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/adapters/net/png-to-word/" style="padding:15px;">PNG 에게 WORD</a></div>
+</div>
+<h4 style="margin-left:-20px;margin-bottom:20px;font-size:22px;">Aspose.Imaging.Heic.Adapter 어댑터 인기 변환:</h4>
+<div class="row other-converters" style="font-size: 19px;text-align:center;">
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/adapters/net/heic-to-apng/" style="padding:15px;">HEIC 에게 APNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/adapters/net/heic-to-bigtiff/" style="padding:15px;">HEIC 에게 BIGTIFF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/adapters/net/heic-to-bmp/" style="padding:15px;">HEIC 에게 BMP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/adapters/net/heic-to-dicom/" style="padding:15px;">HEIC 에게 DICOM</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/adapters/net/heic-to-dxf/" style="padding:15px;">HEIC 에게 DXF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/adapters/net/heic-to-emf/" style="padding:15px;">HEIC 에게 EMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/adapters/net/heic-to-emz/" style="padding:15px;">HEIC 에게 EMZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/adapters/net/heic-to-gif/" style="padding:15px;">HEIC 에게 GIF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/adapters/net/heic-to-canvas/" style="padding:15px;">HEIC 에게 CANVAS</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/adapters/net/heic-to-ico/" style="padding:15px;">HEIC 에게 ICO</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/adapters/net/heic-to-jpeg/" style="padding:15px;">HEIC 에게 JPEG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/adapters/net/heic-to-jpg/" style="padding:15px;">HEIC 에게 JPG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/adapters/net/heic-to-jpeg2000/" style="padding:15px;">HEIC 에게 JPEG2000</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/adapters/net/heic-to-pdf/" style="padding:15px;">HEIC 에게 PDF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/adapters/net/heic-to-png/" style="padding:15px;">HEIC 에게 PNG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/adapters/net/heic-to-psd/" style="padding:15px;">HEIC 에게 PSD</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/adapters/net/heic-to-svg/" style="padding:15px;">HEIC 에게 SVG</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/adapters/net/heic-to-svgz/" style="padding:15px;">HEIC 에게 SVGZ</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/adapters/net/heic-to-tga/" style="padding:15px;">HEIC 에게 TGA</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/adapters/net/heic-to-tiff/" style="padding:15px;">HEIC 에게 TIFF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/adapters/net/heic-to-webp/" style="padding:15px;">HEIC 에게 WEBP</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/adapters/net/heic-to-wmf/" style="padding:15px;">HEIC 에게 WMF</a></div>
+<div class='col-md-3 other-converter remove-lp remove-rp'><a href="/imaging/ko/adapters/net/heic-to-wmz/" style="padding:15px;">HEIC 에게 WMZ</a></div>
 </div>
                 
         </div>

@@ -19,7 +19,7 @@ description: Usando Aspose.Imaging.Pdf.Adapter com imagens de código de amostra
 
 <p align="justify" style="font-size:18px;text-indent:50px;">A conversão de formato de arquivo é uma necessidade comum em diversas profissões e, hoje, alterar um formato para outro é tão simples quanto fazer uma solicitação online. No entanto, para designers profissionais, é crucial ter uma ferramenta confiável que lide com conversões de forma rápida e eficaz, especialmente entre formatos de imagem e documento. Freqüentemente, transformar uma imagem em um documento ou vice-versa representa um desafio que vai além das capacidades dos editores padrão.</p>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">Não procure mais, Aspose.Imaging Pdf.Adapter for .NET, feito sob medida para necessidades de processamento e conversão de imagens. Esta ferramenta indispensável possui os seguintes recursos principais:</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">Não procure mais, Aspose.Imaging.Pdf.Adapter para .NET, feito sob medida para necessidades de processamento e conversão de imagens. Esta ferramenta indispensável possui os seguintes recursos principais:</p>
 
 <ul style="font-size:18px;">
 <li>Facilita conversões entre vários formatos de imagens e documentos.</li>
@@ -29,7 +29,7 @@ description: Usando Aspose.Imaging.Pdf.Adapter com imagens de código de amostra
 <li>Suporta formatos populares, incluindo PDF e PICTURE.</li>
 </ul>
 
-<p align="justify" style="font-size:18px;text-indent:50px;">Para converter PDF em PICTURE, usaremos Aspose.Imaging <a href="https://products.aspose.com/imaging/adapters/net">Pdf.Adapter</a> API que é uma API de conversão e manipulação de imagens rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> gerenciador de pacotes, procure por "Aspose.Imaging Pdf.Adapter" e instale. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.</p>
+<p align="justify" style="font-size:18px;text-indent:50px;">Para converter PDF em PICTURE, usaremos <a href="https://products.aspose.com/imaging/adapters/net">Aspose.Imaging.Pdf.Adapter</a> API que é uma API de conversão e manipulação de imagens rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir <a href="https://www.nuget.org/packages/Aspose.Imaging.Pdf.Adapter">Nuget</a> gerenciador de pacotes, procure por Aspose.Imaging.Pdf.Adapter e instale. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes:</p>
 
 {{% blocks/products/pf/agp/code-block title="Comando do console do gerenciador de pacotes" offSpacer="true" %}}
 
